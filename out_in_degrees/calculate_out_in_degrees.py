@@ -1,6 +1,24 @@
 import sys
 import networkx as nx
 
+# given a graph from a file
+# this code outputs the node(s) with the
+# highest out-degree
+# and the node(s) with the highest in-degree
+##
+# the file is supposed to be in the following format
+# 
+# n
+# s1 t1
+# s2 t2
+# ...
+# sn tn
+#
+# where n is the number of vertices
+# and each following row represents and edge
+# where sn is the source vertice
+# and tn the target vertice
+
 filename = sys.argv[1]
 file= open(filename).readlines()
 
