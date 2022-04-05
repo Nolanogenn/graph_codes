@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="I"/>
+<node id="segreti"/>
+<node id="segreti"/>
+<node id="serie"/>
+<node id="di"/>
+<node id="Twin"/>
+<node id="Twin"/>
+<node id="Peaks"/>
+<node id="("/>
+<node id="Twin"/>
+<node id="Peaks"/>
+<node id=")"/>
+<node id="è"/>
+<node id="una"/>
+<node id="serie"/>
+<node id="televisiva"/>
+<node id="statunitense"/>
+<node id="ideata"/>
+<node id="da"/>
+<node id="David"/>
+<node id="David"/>
+<node id="ideata"/>
+<node id="Lynch"/>
+<node id="e"/>
+<node id="Mark"/>
+<node id="Mark"/>
+<node id="Frost"/>
+<node id="."/>
+<node id="Fu"/>
+<node id="trasmessa"/>
+<node id="trasmessa"/>
+<node id="in"/>
+<node id="stagioni"/>
+<node id="due"/>
+<node id="stagioni"/>
+<node id="dal"/>
+<node id="canale"/>
+<node id="canale"/>
+<node id="televisivo"/>
+<node id="ABC"/>
+<node id=","/>
+<node id="dall'"/>
+<node id="8"/>
+<node id="8"/>
+<node id="aprile"/>
+<node id="1990"/>
+<node id="al"/>
+<node id="10"/>
+<node id="10"/>
+<node id="giugno"/>
+<node id="1991"/>
+<node id="."/>
+<edge source="I" target="segreti">
+  <data key="d0">det</data>
+</edge>
+<edge source="segreti" target="Twin">
+  <data key="d0">nmod</data>
+</edge>
+<edge source="segreti" target="serie">
+  <data key="d0">nsubj</data>
+</edge>
+<edge source="serie" target="è">
+  <data key="d0">cop</data>
+</edge>
+<edge source="serie" target="una">
+  <data key="d0">det</data>
+</edge>
+<edge source="serie" target="serie">
+  <data key="d0">ROOT</data>
+</edge>
+<edge source="serie" target="televisiva">
+  <data key="d0">amod</data>
+</edge>
+<edge source="serie" target="statunitense">
+  <data key="d0">amod</data>
+</edge>
+<edge source="serie" target="ideata">
+  <data key="d0">acl</data>
+</edge>
+<edge source="serie" target=".">
+  <data key="d0">punct</data>
+</edge>
+<edge source="di" target="Twin">
+  <data key="d0">case</data>
+</edge>
+<edge source="Twin" target="Peaks">
+  <data key="d0">flat:name</data>
+</edge>
+<edge source="Twin" target="(">
+  <data key="d0">punct</data>
+</edge>
+<edge source="Twin" target="Twin">
+  <data key="d0">appos</data>
+</edge>
+<edge source="Twin" target="Peaks">
+  <data key="d0">flat:name</data>
+</edge>
+<edge source="Twin" target=")">
+  <data key="d0">punct</data>
+</edge>
+<edge source="da" target="David">
+  <data key="d0">case</data>
+</edge>
+<edge source="David" target="Lynch">
+  <data key="d0">flat:name</data>
+</edge>
+<edge source="David" target="Mark">
+  <data key="d0">conj</data>
+</edge>
+<edge source="David" target="ideata">
+  <data key="d0">obl:agent</data>
+</edge>
+<edge source="e" target="Mark">
+  <data key="d0">cc</data>
+</edge>
+<edge source="Mark" target="Frost">
+  <data key="d0">flat:name</data>
+</edge>
+<edge source="Fu" target="trasmessa">
+  <data key="d0">aux:pass</data>
+</edge>
+<edge source="trasmessa" target="trasmessa">
+  <data key="d0">ROOT</data>
+</edge>
+<edge source="trasmessa" target="stagioni">
+  <data key="d0">obl</data>
+</edge>
+<edge source="trasmessa" target="canale">
+  <data key="d0">obl:agent</data>
+</edge>
+<edge source="trasmessa" target=",">
+  <data key="d0">punct</data>
+</edge>
+<edge source="trasmessa" target="8">
+  <data key="d0">obl</data>
+</edge>
+<edge source="trasmessa" target="10">
+  <data key="d0">obl</data>
+</edge>
+<edge source="trasmessa" target=".">
+  <data key="d0">punct</data>
+</edge>
+<edge source="in" target="stagioni">
+  <data key="d0">case</data>
+</edge>
+<edge source="stagioni" target="due">
+  <data key="d0">nummod</data>
+</edge>
+<edge source="dal" target="canale">
+  <data key="d0">case</data>
+</edge>
+<edge source="canale" target="televisivo">
+  <data key="d0">amod</data>
+</edge>
+<edge source="canale" target="ABC">
+  <data key="d0">nmod</data>
+</edge>
+<edge source="dall'" target="8">
+  <data key="d0">case</data>
+</edge>
+<edge source="8" target="aprile">
+  <data key="d0">flat</data>
+</edge>
+<edge source="8" target="1990">
+  <data key="d0">flat</data>
+</edge>
+<edge source="al" target="10">
+  <data key="d0">case</data>
+</edge>
+<edge source="10" target="giugno">
+  <data key="d0">flat</data>
+</edge>
+<edge source="10" target="1991">
+  <data key="d0">flat</data>
+</edge>
+</graph></graphml>
