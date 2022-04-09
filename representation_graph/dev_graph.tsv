@@ -1,0 +1,1340 @@
+0_0	is_in_sentence	0
+0_0	det	0_1
+0_0	has_surface_form	The
+0_1	is_in_sentence	0
+0_1	dep	0_13
+0_1	has_surface_form	 
+0_13	is_in_sentence	0
+0_13	ROOT	0_13
+0_13	has_surface_form	is
+0_2	is_in_sentence	0
+0_2	appos	0_1
+0_2	is_entity	Mississippi
+0_3	is_in_sentence	0
+0_3	dep	0_1
+0_3	has_surface_form	 
+0_4	is_in_sentence	0
+0_4	compound	0_6
+0_4	has_surface_form	Air
+0_6	is_in_sentence	0
+0_6	appos	0_1
+0_6	has_surface_form	Guard
+0_5	is_in_sentence	0
+0_5	compound	0_6
+0_5	has_surface_form	National
+0_7	is_in_sentence	0
+0_7	punct	0_6
+0_7	has_surface_form	(
+0_8	is_in_sentence	0
+0_8	dep	0_11
+0_8	has_surface_form	 
+0_11	is_in_sentence	0
+0_11	dep	0_6
+0_11	has_surface_form	 
+0_9	is_in_sentence	0
+0_9	compound	0_11
+0_9	has_surface_form	MS
+0_9	part_of_entity	MS ANG
+0_10	is_in_sentence	0
+0_10	compound	0_11
+0_10	has_surface_form	ANG
+0_10	part_of_entity	MS ANG
+0_12	is_in_sentence	0
+0_12	punct	0_6
+0_12	has_surface_form	)
+0_14	is_in_sentence	0
+0_14	det	0_17
+0_14	has_surface_form	the
+0_17	is_in_sentence	0
+0_17	attr	0_13
+0_17	has_surface_form	militia
+0_15	is_in_sentence	0
+0_15	compound	0_16
+0_15	has_surface_form	air
+0_16	is_in_sentence	0
+0_16	compound	0_17
+0_16	has_surface_form	force
+0_18	is_in_sentence	0
+0_18	prep	0_17
+0_18	has_surface_form	of
+0_18	part_of_entity	of the
+0_19	is_in_sentence	0
+0_19	det	0_20
+0_19	has_surface_form	the
+0_19	part_of_entity	of the
+0_20	is_in_sentence	0
+0_20	pobj	0_18
+0_20	is_entity	State
+0_21	is_in_sentence	0
+0_21	prep	0_20
+0_21	has_surface_form	of
+0_22	is_in_sentence	0
+0_22	pobj	0_21
+0_22	is_entity	Mississippi
+0_23	is_in_sentence	0
+0_23	compound	0_24
+0_23	is_entity	United
+0_23	part_of_entity	United States
+0_24	is_in_sentence	0
+0_24	pobj	0_18
+0_24	has_surface_form	States
+0_24	part_of_entity	United States
+0_25	is_in_sentence	0
+0_25	prep	0_24
+0_25	has_surface_form	of
+0_26	is_in_sentence	0
+0_26	pobj	0_25
+0_26	has_surface_form	America
+0_27	is_in_sentence	0
+0_27	punct	0_13
+0_27	has_surface_form	.
+0_28	is_in_sentence	0
+0_28	dep	0_28
+0_28	has_surface_form	
+
+MS ANG	org:alternate_names(e2,e1)	Mississippi
+1_0	is_in_sentence	1
+1_0	advmod	1_4
+1_0	has_surface_form	When
+1_4	is_in_sentence	1
+1_4	advcl	1_9
+1_4	has_surface_form	excluded
+1_1	is_in_sentence	1
+1_1	det	1_2
+1_1	has_surface_form	the
+1_2	is_in_sentence	1
+1_2	nsubjpass	1_4
+1_2	has_surface_form	Gauche
+1_3	is_in_sentence	1
+1_3	auxpass	1_4
+1_3	has_surface_form	was
+1_9	is_in_sentence	1
+1_9	ROOT	1_9
+1_9	has_surface_form	became
+1_5	is_in_sentence	1
+1_5	prep	1_4
+1_5	has_surface_form	from
+1_6	is_in_sentence	1
+1_6	det	1_7
+1_6	has_surface_form	the
+1_7	is_in_sentence	1
+1_7	pobj	1_5
+1_7	has_surface_form	SFIO
+1_8	is_in_sentence	1
+1_8	nsubj	1_9
+1_8	is_entity	he
+1_10	is_in_sentence	1
+1_10	attr	1_9
+1_10	has_surface_form	one
+1_11	is_in_sentence	1
+1_11	prep	1_10
+1_11	has_surface_form	of
+1_11	part_of_entity	of the
+1_12	is_in_sentence	1
+1_12	det	1_13
+1_12	has_surface_form	the
+1_12	part_of_entity	of the
+1_13	is_in_sentence	1
+1_13	pobj	1_11
+1_13	has_surface_form	leaders
+1_14	is_in_sentence	1
+1_14	prep	1_13
+1_14	has_surface_form	of
+1_14	part_of_entity	of the
+1_15	is_in_sentence	1
+1_15	det	1_18
+1_15	has_surface_form	the
+1_15	part_of_entity	of the
+1_18	is_in_sentence	1
+1_18	pobj	1_14
+1_18	has_surface_form	Socialiste
+1_16	is_in_sentence	1
+1_16	amod	1_18
+1_16	has_surface_form	new
+1_17	is_in_sentence	1
+1_17	compound	1_18
+1_17	has_surface_form	Parti
+1_19	is_in_sentence	1
+1_19	amod	1_33
+1_19	has_surface_form	Ouvrier
+1_33	is_in_sentence	1
+1_33	dep	1_33
+1_33	has_surface_form	 
+1_20	is_in_sentence	1
+1_20	prep	1_19
+1_20	has_surface_form	et
+1_21	is_in_sentence	1
+1_21	pobj	1_20
+1_21	has_surface_form	Paysan
+1_22	is_in_sentence	1
+1_22	punct	1_21
+1_22	has_surface_form	(
+1_23	is_in_sentence	1
+1_23	dep	1_21
+1_23	has_surface_form	 
+1_24	is_in_sentence	1
+1_24	nmod	1_27
+1_24	is_entity	PSOP
+1_27	is_in_sentence	1
+1_27	pobj	1_20
+1_27	has_surface_form	Workers
+1_25	is_in_sentence	1
+1_25	dep	1_27
+1_25	has_surface_form	 
+1_26	is_in_sentence	1
+1_26	punct	1_27
+1_26	has_surface_form	-
+1_28	is_in_sentence	1
+1_28	cc	1_27
+1_28	has_surface_form	and
+1_29	is_in_sentence	1
+1_29	conj	1_27
+1_29	has_surface_form	Peasants
+1_30	is_in_sentence	1
+1_30	dep	1_19
+1_30	has_surface_form	 
+1_31	is_in_sentence	1
+1_31	compound	1_32
+1_31	has_surface_form	Socialist
+1_31	part_of_entity	Socialist Party
+1_32	is_in_sentence	1
+1_32	compound	1_33
+1_32	has_surface_form	Party
+1_32	part_of_entity	Socialist Party
+1_34	is_in_sentence	1
+1_34	punct	1_33
+1_34	has_surface_form	)
+1_35	is_in_sentence	1
+1_35	cc	1_36
+1_35	has_surface_form	and
+1_36	is_in_sentence	1
+1_36	ROOT	1_36
+1_36	has_surface_form	was
+1_37	is_in_sentence	1
+1_37	prep	1_36
+1_37	has_surface_form	at
+1_38	is_in_sentence	1
+1_38	det	1_39
+1_38	has_surface_form	that
+1_39	is_in_sentence	1
+1_39	pobj	1_37
+1_39	has_surface_form	time
+1_40	is_in_sentence	1
+1_40	advmod	1_41
+1_40	has_surface_form	quite
+1_41	is_in_sentence	1
+1_41	acomp	1_36
+1_41	has_surface_form	close
+1_42	is_in_sentence	1
+1_42	prep	1_41
+1_42	has_surface_form	to
+1_43	is_in_sentence	1
+1_43	compound	1_44
+1_43	has_surface_form	Leon
+1_44	is_in_sentence	1
+1_44	pobj	1_42
+1_44	has_surface_form	Trotsky
+1_45	is_in_sentence	1
+1_45	punct	1_36
+1_45	has_surface_form	.
+1_46	is_in_sentence	1
+1_46	dep	1_46
+1_46	has_surface_form	
+
+Socialist Party	org:alternate_names(e2,e1)	PSOP
+2_0	is_in_sentence	2
+2_0	dep	2_5
+2_0	has_surface_form	 
+2_5	is_in_sentence	2
+2_5	ROOT	2_5
+2_5	has_surface_form	was
+2_1	is_in_sentence	2
+2_1	compound	2_2
+2_1	has_surface_form	Integra
+2_1	part_of_entity	Integra Bank
+2_2	is_in_sentence	2
+2_2	nsubj	2_5
+2_2	has_surface_form	Bank
+2_2	part_of_entity	Integra Bank
+2_3	is_in_sentence	2
+2_3	dep	2_2
+2_3	has_surface_form	 
+2_4	is_in_sentence	2
+2_4	appos	2_2
+2_4	is_entity	Corporation
+2_6	is_in_sentence	2
+2_6	det	2_7
+2_6	has_surface_form	the
+2_7	is_in_sentence	2
+2_7	attr	2_5
+2_7	has_surface_form	parent
+2_8	is_in_sentence	2
+2_8	prep	2_7
+2_8	has_surface_form	of
+2_9	is_in_sentence	2
+2_9	compound	2_10
+2_9	has_surface_form	Integra
+2_9	part_of_entity	Integra Bank
+2_10	is_in_sentence	2
+2_10	compound	2_12
+2_10	has_surface_form	Bank
+2_10	part_of_entity	Integra Bank
+2_12	is_in_sentence	2
+2_12	pobj	2_8
+2_12	has_surface_form	Association
+2_11	is_in_sentence	2
+2_11	compound	2_12
+2_11	has_surface_form	National
+2_13	is_in_sentence	2
+2_13	det	2_15
+2_13	has_surface_form	a
+2_15	is_in_sentence	2
+2_15	appos	2_7
+2_15	has_surface_form	bank
+2_14	is_in_sentence	2
+2_14	amod	2_15
+2_14	has_surface_form	retail
+2_16	is_in_sentence	2
+2_16	acl	2_15
+2_16	has_surface_form	headquartered
+2_17	is_in_sentence	2
+2_17	prep	2_16
+2_17	has_surface_form	in
+2_18	is_in_sentence	2
+2_18	pobj	2_17
+2_18	has_surface_form	Evansville
+2_19	is_in_sentence	2
+2_19	dep	2_18
+2_19	has_surface_form	 
+2_20	is_in_sentence	2
+2_20	compound	2_21
+2_20	is_entity	Indiana
+2_21	is_in_sentence	2
+2_21	dep	2_18
+2_21	has_surface_form	 
+2_22	is_in_sentence	2
+2_22	nsubj	2_23
+2_22	has_surface_form	that
+2_23	is_in_sentence	2
+2_23	relcl	2_15
+2_23	has_surface_form	failed
+2_24	is_in_sentence	2
+2_24	prep	2_23
+2_24	has_surface_form	on
+2_25	is_in_sentence	2
+2_25	pobj	2_24
+2_25	has_surface_form	July
+2_26	is_in_sentence	2
+2_26	nummod	2_25
+2_26	has_surface_form	29
+2_27	is_in_sentence	2
+2_27	nummod	2_25
+2_27	has_surface_form	2011
+2_28	is_in_sentence	2
+2_28	punct	2_5
+2_28	has_surface_form	.
+2_29	is_in_sentence	2
+2_29	dep	2_29
+2_29	has_surface_form	
+
+Integra Bank	org:stateorprovince_of_headquarters(e1,e2)	Indiana
+3_0	is_in_sentence	3
+3_0	det	3_1
+3_0	has_surface_form	The
+3_1	is_in_sentence	3
+3_1	nsubjpass	3_6
+3_1	has_surface_form	name
+3_6	is_in_sentence	3
+3_6	ROOT	3_6
+3_6	has_surface_form	amended
+3_2	is_in_sentence	3
+3_2	prep	3_1
+3_2	has_surface_form	of
+3_2	part_of_entity	of the
+3_3	is_in_sentence	3
+3_3	det	3_4
+3_3	has_surface_form	the
+3_3	part_of_entity	of the
+3_4	is_in_sentence	3
+3_4	pobj	3_2
+3_4	has_surface_form	association
+3_5	is_in_sentence	3
+3_5	auxpass	3_6
+3_5	has_surface_form	was
+3_7	is_in_sentence	3
+3_7	prep	3_6
+3_7	has_surface_form	to
+3_8	is_in_sentence	3
+3_8	dep	3_7
+3_8	has_surface_form	 
+3_9	is_in_sentence	3
+3_9	compound	3_11
+3_9	has_surface_form	SA
+3_9	part_of_entity	SA Ambulance Service
+3_11	is_in_sentence	3
+3_11	pobj	3_7
+3_11	has_surface_form	Service
+3_11	part_of_entity	SA Ambulance Service
+3_10	is_in_sentence	3
+3_10	compound	3_11
+3_10	has_surface_form	Ambulance
+3_10	part_of_entity	SA Ambulance Service
+3_12	is_in_sentence	3
+3_12	dep	3_11
+3_12	has_surface_form	 
+3_13	is_in_sentence	3
+3_13	appos	3_11
+3_13	has_surface_form	Inc
+3_14	is_in_sentence	3
+3_14	prep	3_6
+3_14	has_surface_form	in
+3_15	is_in_sentence	3
+3_15	pobj	3_14
+3_15	has_surface_form	2005
+3_16	is_in_sentence	3
+3_16	cc	3_14
+3_16	has_surface_form	and
+3_17	is_in_sentence	3
+3_17	conj	3_14
+3_17	has_surface_form	in
+3_18	is_in_sentence	3
+3_18	pobj	3_17
+3_18	is_entity	2008
+3_19	is_in_sentence	3
+3_19	dep	3_17
+3_19	has_surface_form	 
+3_20	is_in_sentence	3
+3_20	appos	3_19
+3_20	is_entity	SAAS
+SAAS	org:alternate_names(e2,e1)	SA Ambulance Service
+3_21	is_in_sentence	3
+3_21	dep	3_17
+3_21	has_surface_form	 
+3_22	is_in_sentence	3
+3_22	conj	3_6
+3_22	has_surface_form	became
+3_23	is_in_sentence	3
+3_23	det	3_24
+3_23	has_surface_form	an
+3_24	is_in_sentence	3
+3_24	attr	3_22
+3_24	has_surface_form	agency
+3_25	is_in_sentence	3
+3_25	prep	3_24
+3_25	has_surface_form	under
+3_26	is_in_sentence	3
+3_26	det	3_27
+3_26	has_surface_form	the
+3_27	is_in_sentence	3
+3_27	pobj	3_25
+3_27	is_entity	Minister
+3_28	is_in_sentence	3
+3_28	prep	3_27
+3_28	has_surface_form	of
+3_29	is_in_sentence	3
+3_29	pobj	3_28
+3_29	has_surface_form	Health
+3_30	is_in_sentence	3
+3_30	punct	3_22
+3_30	has_surface_form	.
+3_31	is_in_sentence	3
+3_31	dep	3_31
+3_31	has_surface_form	
+
+4_0	is_in_sentence	4
+4_0	det	4_3
+4_0	has_surface_form	The
+4_3	is_in_sentence	4
+4_3	dep	4_5
+4_3	has_surface_form	 
+4_1	is_in_sentence	4
+4_1	dep	4_3
+4_1	has_surface_form	 
+4_2	is_in_sentence	4
+4_2	compound	4_3
+4_2	is_entity	college
+college	org:stateorprovince_of_headquarters(e1,e2)	Kansas
+4_5	is_in_sentence	4
+4_5	ROOT	4_5
+4_5	has_surface_form	located
+4_4	is_in_sentence	4
+4_4	auxpass	4_5
+4_4	has_surface_form	is
+4_6	is_in_sentence	4
+4_6	prep	4_5
+4_6	has_surface_form	on
+4_7	is_in_sentence	4
+4_7	det	4_8
+4_7	has_surface_form	the
+4_8	is_in_sentence	4
+4_8	pobj	4_6
+4_8	has_surface_form	edge
+4_9	is_in_sentence	4
+4_9	prep	4_8
+4_9	has_surface_form	of
+4_9	part_of_entity	of the
+4_10	is_in_sentence	4
+4_10	det	4_12
+4_10	has_surface_form	the
+4_10	part_of_entity	of the
+4_12	is_in_sentence	4
+4_12	pobj	4_9
+4_12	has_surface_form	Hills
+4_11	is_in_sentence	4
+4_11	compound	4_12
+4_11	has_surface_form	Flint
+4_13	is_in_sentence	4
+4_13	cc	4_8
+4_13	has_surface_form	and
+4_14	is_in_sentence	4
+4_14	det	4_17
+4_14	has_surface_form	the
+4_17	is_in_sentence	4
+4_17	conj	4_8
+4_17	has_surface_form	fields
+4_15	is_in_sentence	4
+4_15	amod	4_17
+4_15	has_surface_form	vast
+4_16	is_in_sentence	4
+4_16	compound	4_17
+4_16	has_surface_form	wheat
+4_18	is_in_sentence	4
+4_18	prep	4_17
+4_18	has_surface_form	of
+4_19	is_in_sentence	4
+4_19	amod	4_21
+4_19	has_surface_form	south
+4_21	is_in_sentence	4
+4_21	dep	4_18
+4_21	has_surface_form	 
+4_20	is_in_sentence	4
+4_20	amod	4_21
+4_20	has_surface_form	central
+4_22	is_in_sentence	4
+4_22	compound	4_23
+4_22	is_entity	Kansas
+4_23	is_in_sentence	4
+4_23	dep	4_21
+4_23	has_surface_form	 
+4_24	is_in_sentence	4
+4_24	prep	4_17
+4_24	has_surface_form	in
+4_25	is_in_sentence	4
+4_25	det	4_26
+4_25	has_surface_form	the
+4_26	is_in_sentence	4
+4_26	pobj	4_24
+4_26	has_surface_form	town
+4_27	is_in_sentence	4
+4_27	prep	4_26
+4_27	has_surface_form	of
+4_28	is_in_sentence	4
+4_28	compound	4_29
+4_28	has_surface_form	North
+4_29	is_in_sentence	4
+4_29	pobj	4_27
+4_29	is_entity	Newton
+4_30	is_in_sentence	4
+4_30	punct	4_5
+4_30	has_surface_form	.
+4_31	is_in_sentence	4
+4_31	dep	4_31
+4_31	has_surface_form	
+
+5_0	is_in_sentence	5
+5_0	compound	5_1
+5_0	has_surface_form	Northern
+5_1	is_in_sentence	5
+5_1	compound	5_2
+5_1	has_surface_form	High
+5_1	part_of_entity	High School
+5_2	is_in_sentence	5
+5_2	poss	5_5
+5_2	has_surface_form	School
+5_2	part_of_entity	High School
+5_5	is_in_sentence	5
+5_5	nsubj	5_13
+5_5	has_surface_form	schools
+5_3	is_in_sentence	5
+5_3	case	5_2
+5_3	has_surface_form	's
+5_4	is_in_sentence	5
+5_4	amod	5_5
+5_4	has_surface_form	rival
+5_13	is_in_sentence	5
+5_13	ROOT	5_13
+5_13	has_surface_form	were
+5_6	is_in_sentence	5
+5_6	prep	5_5
+5_6	has_surface_form	in
+5_7	is_in_sentence	5
+5_7	pobj	5_6
+5_7	has_surface_form	size
+5_8	is_in_sentence	5
+5_8	cc	5_7
+5_8	has_surface_form	and
+5_9	is_in_sentence	5
+5_9	conj	5_7
+5_9	has_surface_form	sports
+5_10	is_in_sentence	5
+5_10	prep	5_5
+5_10	has_surface_form	during
+5_11	is_in_sentence	5
+5_11	det	5_12
+5_11	has_surface_form	the
+5_12	is_in_sentence	5
+5_12	pobj	5_10
+5_12	has_surface_form	1980s
+5_14	is_in_sentence	5
+5_14	punct	5_13
+5_14	has_surface_form	:
+5_15	is_in_sentence	5
+5_15	compound	5_17
+5_15	has_surface_form	Broughton
+5_17	is_in_sentence	5
+5_17	compound	5_20
+5_17	has_surface_form	School
+5_17	part_of_entity	High School
+5_16	is_in_sentence	5
+5_16	compound	5_17
+5_16	has_surface_form	High
+5_16	part_of_entity	High School
+5_20	is_in_sentence	5
+5_20	compound	5_23
+5_20	has_surface_form	School
+5_20	part_of_entity	High School
+5_18	is_in_sentence	5
+5_18	compound	5_20
+5_18	has_surface_form	Enloe
+5_19	is_in_sentence	5
+5_19	compound	5_20
+5_19	has_surface_form	High
+5_19	part_of_entity	High School
+5_23	is_in_sentence	5
+5_23	compound	5_26
+5_23	has_surface_form	School
+5_23	part_of_entity	High School
+5_21	is_in_sentence	5
+5_21	compound	5_23
+5_21	has_surface_form	Millbrook
+5_22	is_in_sentence	5
+5_22	compound	5_23
+5_22	has_surface_form	High
+5_22	part_of_entity	High School
+5_26	is_in_sentence	5
+5_26	compound	5_29
+5_26	has_surface_form	School
+5_26	part_of_entity	High School
+5_24	is_in_sentence	5
+5_24	compound	5_26
+5_24	has_surface_form	Sanderson
+5_25	is_in_sentence	5
+5_25	compound	5_26
+5_25	has_surface_form	High
+5_25	part_of_entity	High School
+5_29	is_in_sentence	5
+5_29	attr	5_13
+5_29	has_surface_form	School
+5_29	part_of_entity	High School
+5_27	is_in_sentence	5
+5_27	compound	5_29
+5_27	is_entity	Cary
+5_28	is_in_sentence	5
+5_28	compound	5_29
+5_28	has_surface_form	High
+5_28	part_of_entity	High School
+5_30	is_in_sentence	5
+5_30	punct	5_29
+5_30	has_surface_form	(
+5_31	is_in_sentence	5
+5_31	prep	5_29
+5_31	has_surface_form	in
+5_32	is_in_sentence	5
+5_32	compound	5_33
+5_32	has_surface_form	Wake
+5_33	is_in_sentence	5
+5_33	pobj	5_31
+5_33	has_surface_form	County
+5_34	is_in_sentence	5
+5_34	dep	5_33
+5_34	has_surface_form	 
+5_35	is_in_sentence	5
+5_35	compound	5_36
+5_35	has_surface_form	North
+5_35	part_of_entity	North Carolina
+5_36	is_in_sentence	5
+5_36	conj	5_33
+5_36	has_surface_form	Carolina
+5_36	part_of_entity	North Carolina
+5_37	is_in_sentence	5
+5_37	dep	5_33
+5_37	has_surface_form	 
+5_38	is_in_sentence	5
+5_38	punct	5_33
+5_38	has_surface_form	)
+5_39	is_in_sentence	5
+5_39	dep	5_29
+5_39	has_surface_form	 
+5_40	is_in_sentence	5
+5_40	compound	5_43
+5_40	has_surface_form	Chapel
+5_40	part_of_entity	Chapel Hill High School
+5_40	part_of_entity	Chapel Hill
+5_43	is_in_sentence	5
+5_43	compound	5_44
+5_43	has_surface_form	School
+5_43	part_of_entity	Chapel Hill High School
+5_43	part_of_entity	High School
+5_41	is_in_sentence	5
+5_41	compound	5_43
+5_41	has_surface_form	Hill
+5_41	part_of_entity	Chapel Hill High School
+5_41	part_of_entity	Chapel Hill
+5_42	is_in_sentence	5
+5_42	compound	5_43
+5_42	has_surface_form	High
+5_42	part_of_entity	Chapel Hill High School
+5_42	part_of_entity	High School
+5_44	is_in_sentence	5
+5_44	dep	5_29
+5_44	has_surface_form	 
+5_45	is_in_sentence	5
+5_45	cc	5_44
+5_45	has_surface_form	and
+5_46	is_in_sentence	5
+5_46	compound	5_48
+5_46	is_entity	Orange
+5_48	is_in_sentence	5
+5_48	conj	5_44
+5_48	has_surface_form	School
+5_48	part_of_entity	High School
+5_47	is_in_sentence	5
+5_47	compound	5_48
+5_47	has_surface_form	High
+5_47	part_of_entity	High School
+5_49	is_in_sentence	5
+5_49	punct	5_29
+5_49	has_surface_form	(
+5_50	is_in_sentence	5
+5_50	dep	5_64
+5_50	has_surface_form	all
+5_64	is_in_sentence	5
+5_64	prep	5_29
+5_64	has_surface_form	in
+5_51	is_in_sentence	5
+5_51	prep	5_50
+5_51	has_surface_form	in
+5_52	is_in_sentence	5
+5_52	compound	5_53
+5_52	is_entity	Orange
+5_53	is_in_sentence	5
+5_53	compound	5_58
+5_53	has_surface_form	County
+5_58	is_in_sentence	5
+5_58	pobj	5_51
+5_58	has_surface_form	School
+5_58	part_of_entity	High School
+5_54	is_in_sentence	5
+5_54	compound	5_55
+5_54	has_surface_form	North
+5_54	part_of_entity	North Carolina
+5_55	is_in_sentence	5
+5_55	compound	5_58
+5_55	has_surface_form	Carolina
+5_55	part_of_entity	North Carolina
+5_56	is_in_sentence	5
+5_56	compound	5_58
+5_56	has_surface_form	Grimsley
+5_57	is_in_sentence	5
+5_57	compound	5_58
+5_57	has_surface_form	High
+5_57	part_of_entity	High School
+5_59	is_in_sentence	5
+5_59	cc	5_58
+5_59	has_surface_form	and
+5_60	is_in_sentence	5
+5_60	compound	5_62
+5_60	has_surface_form	Page
+5_62	is_in_sentence	5
+5_62	conj	5_58
+5_62	has_surface_form	School
+5_62	part_of_entity	High School
+5_61	is_in_sentence	5
+5_61	compound	5_62
+5_61	has_surface_form	High
+5_61	part_of_entity	High School
+5_63	is_in_sentence	5
+5_63	punct	5_64
+5_63	has_surface_form	(
+5_65	is_in_sentence	5
+5_65	compound	5_67
+5_65	has_surface_form	Guilford
+5_67	is_in_sentence	5
+5_67	pobj	5_64
+5_67	has_surface_form	NC
+5_66	is_in_sentence	5
+5_66	compound	5_67
+5_66	has_surface_form	County
+5_68	is_in_sentence	5
+5_68	punct	5_29
+5_68	has_surface_form	)
+5_69	is_in_sentence	5
+5_69	compound	5_70
+5_69	has_surface_form	South
+5_70	is_in_sentence	5
+5_70	compound	5_72
+5_70	has_surface_form	Mecklenburg
+5_72	is_in_sentence	5
+5_72	appos	5_29
+5_72	has_surface_form	School
+5_72	part_of_entity	High School
+5_71	is_in_sentence	5
+5_71	compound	5_72
+5_71	has_surface_form	High
+5_71	part_of_entity	High School
+5_73	is_in_sentence	5
+5_73	punct	5_72
+5_73	has_surface_form	(
+5_74	is_in_sentence	5
+5_74	prep	5_72
+5_74	has_surface_form	in
+5_75	is_in_sentence	5
+5_75	compound	5_76
+5_75	has_surface_form	Mecklenburg
+5_76	is_in_sentence	5
+5_76	compound	5_78
+5_76	has_surface_form	County
+5_78	is_in_sentence	5
+5_78	pobj	5_74
+5_78	has_surface_form	Carolina
+5_78	part_of_entity	North Carolina
+5_77	is_in_sentence	5
+5_77	compound	5_78
+5_77	has_surface_form	North
+5_77	part_of_entity	North Carolina
+5_79	is_in_sentence	5
+5_79	punct	5_29
+5_79	has_surface_form	)
+5_80	is_in_sentence	5
+5_80	compound	5_82
+5_80	has_surface_form	Hillside
+5_82	is_in_sentence	5
+5_82	ROOT	5_82
+5_82	has_surface_form	School
+5_82	part_of_entity	High School
+5_81	is_in_sentence	5
+5_81	compound	5_82
+5_81	has_surface_form	High
+5_81	part_of_entity	High School
+5_83	is_in_sentence	5
+5_83	punct	5_84
+5_83	has_surface_form	(
+5_84	is_in_sentence	5
+5_84	prep	5_82
+5_84	has_surface_form	in
+5_85	is_in_sentence	5
+5_85	compound	5_87
+5_85	has_surface_form	Durham
+5_87	is_in_sentence	5
+5_87	pobj	5_84
+5_87	has_surface_form	Carolina
+5_87	part_of_entity	North Carolina
+5_86	is_in_sentence	5
+5_86	compound	5_87
+5_86	has_surface_form	North
+5_86	part_of_entity	North Carolina
+5_88	is_in_sentence	5
+5_88	punct	5_84
+5_88	has_surface_form	)
+5_89	is_in_sentence	5
+5_89	cc	5_84
+5_89	has_surface_form	and
+5_90	is_in_sentence	5
+5_90	det	5_95
+5_90	has_surface_form	the
+5_95	is_in_sentence	5
+5_95	appos	5_82
+5_95	has_surface_form	School
+5_95	part_of_entity	High School
+5_91	is_in_sentence	5
+5_91	advmod	5_92
+5_91	has_surface_form	then
+5_92	is_in_sentence	5
+5_92	amod	5_95
+5_92	has_surface_form	smaller
+5_93	is_in_sentence	5
+5_93	compound	5_95
+5_93	has_surface_form	Person
+5_94	is_in_sentence	5
+5_94	compound	5_95
+5_94	has_surface_form	High
+5_94	part_of_entity	High School
+5_96	is_in_sentence	5
+5_96	punct	5_95
+5_96	has_surface_form	(
+5_97	is_in_sentence	5
+5_97	prep	5_95
+5_97	has_surface_form	in
+5_98	is_in_sentence	5
+5_98	compound	5_99
+5_98	has_surface_form	Person
+5_99	is_in_sentence	5
+5_99	compound	5_101
+5_99	has_surface_form	County
+5_101	is_in_sentence	5
+5_101	pobj	5_97
+5_101	has_surface_form	Carolina
+5_101	part_of_entity	North Carolina
+5_100	is_in_sentence	5
+5_100	compound	5_101
+5_100	has_surface_form	North
+5_100	part_of_entity	North Carolina
+5_102	is_in_sentence	5
+5_102	punct	5_95
+5_102	has_surface_form	)
+5_103	is_in_sentence	5
+5_103	punct	5_82
+5_103	has_surface_form	.
+5_104	is_in_sentence	5
+5_104	dep	5_104
+5_104	has_surface_form	
+
+Chapel Hill High School	org:stateorprovince_of_headquarters(e2,e1)	North Carolina
+6_0	is_in_sentence	6
+6_0	prep	6_5
+6_0	has_surface_form	From
+6_5	is_in_sentence	6
+6_5	ROOT	6_5
+6_5	has_surface_form	taught
+6_1	is_in_sentence	6
+6_1	pobj	6_0
+6_1	has_surface_form	1932
+6_2	is_in_sentence	6
+6_2	prep	6_0
+6_2	has_surface_form	to
+6_3	is_in_sentence	6
+6_3	pobj	6_2
+6_3	has_surface_form	1935
+6_4	is_in_sentence	6
+6_4	nsubj	6_5
+6_4	is_entity	he
+6_6	is_in_sentence	6
+6_6	prep	6_5
+6_6	has_surface_form	at
+6_7	is_in_sentence	6
+6_7	det	6_10
+6_7	has_surface_form	the
+6_10	is_in_sentence	6
+6_10	pobj	6_6
+6_10	has_surface_form	College
+6_8	is_in_sentence	6
+6_8	compound	6_10
+6_8	has_surface_form	States
+6_9	is_in_sentence	6
+6_9	compound	6_10
+6_9	has_surface_form	Teachers
+6_11	is_in_sentence	6
+6_11	prep	6_5
+6_11	has_surface_form	in
+6_12	is_in_sentence	6
+6_12	dep	6_11
+6_12	has_surface_form	 
+6_13	is_in_sentence	6
+6_13	compound	6_14
+6_13	is_entity	Indiana
+6_14	is_in_sentence	6
+6_14	dep	6_5
+6_14	has_surface_form	 
+6_15	is_in_sentence	6
+6_15	appos	6_14
+6_15	has_surface_form	PA
+6_16	is_in_sentence	6
+6_16	punct	6_14
+6_16	has_surface_form	(
+6_17	is_in_sentence	6
+6_17	advmod	6_5
+6_17	has_surface_form	now
+6_18	is_in_sentence	6
+6_18	dep	6_20
+6_18	has_surface_form	 
+6_20	is_in_sentence	6
+6_20	dobj	6_5
+6_20	is_entity	University
+6_20	part_of_entity	Indiana University of Pennsylvania
+6_20	part_of_entity	University of
+6_19	is_in_sentence	6
+6_19	compound	6_20
+6_19	is_entity	Indiana
+6_19	part_of_entity	Indiana University of Pennsylvania
+6_21	is_in_sentence	6
+6_21	prep	6_20
+6_21	has_surface_form	of
+6_21	part_of_entity	Indiana University of Pennsylvania
+6_21	part_of_entity	University of
+6_22	is_in_sentence	6
+6_22	pobj	6_21
+6_22	is_entity	Pennsylvania
+6_22	part_of_entity	Indiana University of Pennsylvania
+6_23	is_in_sentence	6
+6_23	dep	6_20
+6_23	has_surface_form	 
+6_24	is_in_sentence	6
+6_24	punct	6_20
+6_24	has_surface_form	)
+6_25	is_in_sentence	6
+6_25	prep	6_5
+6_25	has_surface_form	before
+6_26	is_in_sentence	6
+6_26	pcomp	6_25
+6_26	has_surface_form	accepting
+6_27	is_in_sentence	6
+6_27	det	6_28
+6_27	has_surface_form	a
+6_28	is_in_sentence	6
+6_28	dobj	6_26
+6_28	has_surface_form	position
+6_29	is_in_sentence	6
+6_29	prep	6_28
+6_29	has_surface_form	as
+6_30	is_in_sentence	6
+6_30	pobj	6_29
+6_30	has_surface_form	head
+6_31	is_in_sentence	6
+6_31	prep	6_30
+6_31	has_surface_form	of
+6_31	part_of_entity	of the
+6_32	is_in_sentence	6
+6_32	det	6_34
+6_32	has_surface_form	the
+6_32	part_of_entity	of the
+6_34	is_in_sentence	6
+6_34	pobj	6_31
+6_34	has_surface_form	department
+6_33	is_in_sentence	6
+6_33	compound	6_34
+6_33	has_surface_form	art
+6_35	is_in_sentence	6
+6_35	prep	6_34
+6_35	has_surface_form	at
+6_36	is_in_sentence	6
+6_36	compound	6_37
+6_36	has_surface_form	Woman
+6_37	is_in_sentence	6
+6_37	pobj	6_35
+6_37	has_surface_form	College
+6_38	is_in_sentence	6
+6_38	prep	6_37
+6_38	has_surface_form	in
+6_39	is_in_sentence	6
+6_39	compound	6_40
+6_39	has_surface_form	Greensboro
+6_40	is_in_sentence	6
+6_40	pobj	6_38
+6_40	has_surface_form	NC
+6_41	is_in_sentence	6
+6_41	prep	6_26
+6_41	has_surface_form	in
+6_42	is_in_sentence	6
+6_42	pobj	6_41
+6_42	has_surface_form	1935
+6_43	is_in_sentence	6
+6_43	advmod	6_45
+6_43	has_surface_form	where
+6_45	is_in_sentence	6
+6_45	relcl	6_42
+6_45	has_surface_form	was
+6_44	is_in_sentence	6
+6_44	nsubj	6_45
+6_44	is_entity	he
+6_46	is_in_sentence	6
+6_46	acomp	6_45
+6_46	has_surface_form	instrumental
+6_47	is_in_sentence	6
+6_47	prep	6_46
+6_47	has_surface_form	in
+6_48	is_in_sentence	6
+6_48	pcomp	6_47
+6_48	has_surface_form	founding
+6_49	is_in_sentence	6
+6_49	cc	6_48
+6_49	has_surface_form	and
+6_50	is_in_sentence	6
+6_50	conj	6_48
+6_50	has_surface_form	developing
+6_51	is_in_sentence	6
+6_51	det	6_53
+6_51	has_surface_form	the
+6_53	is_in_sentence	6
+6_53	dobj	6_50
+6_53	has_surface_form	department
+6_52	is_in_sentence	6
+6_52	compound	6_53
+6_52	has_surface_form	art
+6_54	is_in_sentence	6
+6_54	cc	6_50
+6_54	has_surface_form	and
+6_55	is_in_sentence	6
+6_55	conj	6_50
+6_55	has_surface_form	establishing
+6_56	is_in_sentence	6
+6_56	det	6_59
+6_56	has_surface_form	The
+6_59	is_in_sentence	6
+6_59	dobj	6_55
+6_59	has_surface_form	Gallery
+6_57	is_in_sentence	6
+6_57	compound	6_59
+6_57	has_surface_form	Weatherspoon
+6_58	is_in_sentence	6
+6_58	compound	6_59
+6_58	has_surface_form	Art
+6_60	is_in_sentence	6
+6_60	punct	6_5
+6_60	has_surface_form	.
+6_61	is_in_sentence	6
+6_61	dep	6_61
+6_61	has_surface_form	
+
+Indiana University of Pennsylvania	org:stateorprovince_of_headquarters(e2,e1)	Indiana
+7_0	is_in_sentence	7
+7_0	nsubj	7_1
+7_0	is_entity	He
+7_1	is_in_sentence	7
+7_1	ROOT	7_1
+7_1	has_surface_form	is
+7_2	is_in_sentence	7
+7_2	advmod	7_1
+7_2	has_surface_form	now
+7_3	is_in_sentence	7
+7_3	det	7_6
+7_3	has_surface_form	a
+7_6	is_in_sentence	7
+7_6	attr	7_1
+7_6	has_surface_form	teacher
+7_4	is_in_sentence	7
+7_4	amod	7_6
+7_4	has_surface_form	qualified
+7_5	is_in_sentence	7
+7_5	compound	7_6
+7_5	has_surface_form	P.E.
+7_7	is_in_sentence	7
+7_7	prep	7_6
+7_7	has_surface_form	at
+7_8	is_in_sentence	7
+7_8	dep	7_7
+7_8	has_surface_form	 
+7_9	is_in_sentence	7
+7_9	compound	7_10
+7_9	has_surface_form	Abbeyfield
+7_9	part_of_entity	Abbeyfield School
+7_10	is_in_sentence	7
+7_10	compound	7_11
+7_10	has_surface_form	School
+7_10	part_of_entity	Abbeyfield School
+7_11	is_in_sentence	7
+7_11	dep	7_7
+7_11	has_surface_form	 
+7_12	is_in_sentence	7
+7_12	prep	7_11
+7_12	has_surface_form	in
+7_13	is_in_sentence	7
+7_13	compound	7_14
+7_13	has_surface_form	Chippenham
+7_14	is_in_sentence	7
+7_14	dep	7_16
+7_14	has_surface_form	 
+7_16	is_in_sentence	7
+7_16	dep	7_12
+7_16	has_surface_form	 
+7_15	is_in_sentence	7
+7_15	compound	7_16
+7_15	is_entity	Wiltshire
+7_17	is_in_sentence	7
+7_17	punct	7_1
+7_17	has_surface_form	.
+7_18	is_in_sentence	7
+7_18	dep	7_18
+7_18	has_surface_form	
+
+Abbeyfield School	org:stateorprovince_of_headquarters(e1,e2)	Wiltshire
+8_0	is_in_sentence	8
+8_0	compound	8_1
+8_0	is_entity	Henry
+8_1	is_in_sentence	8
+8_1	dep	8_13
+8_1	has_surface_form	 
+8_13	is_in_sentence	8
+8_13	ROOT	8_13
+8_13	has_surface_form	was
+8_2	is_in_sentence	8
+8_2	compound	8_3
+8_2	has_surface_form	Styles
+8_2	part_of_entity	Styles Bridges
+8_3	is_in_sentence	8
+8_3	appos	8_1
+8_3	has_surface_form	Bridges
+8_3	part_of_entity	Styles Bridges
+8_4	is_in_sentence	8
+8_4	dep	8_3
+8_4	has_surface_form	 
+8_5	is_in_sentence	8
+8_5	punct	8_3
+8_5	has_surface_form	(
+8_6	is_in_sentence	8
+8_6	npadvmod	8_1
+8_6	has_surface_form	September
+8_7	is_in_sentence	8
+8_7	nummod	8_6
+8_7	has_surface_form	9
+8_8	is_in_sentence	8
+8_8	nummod	8_6
+8_8	has_surface_form	1898
+8_9	is_in_sentence	8
+8_9	appos	8_6
+8_9	has_surface_form	November
+8_10	is_in_sentence	8
+8_10	nummod	8_9
+8_10	has_surface_form	26
+8_11	is_in_sentence	8
+8_11	nummod	8_9
+8_11	is_entity	1961
+8_12	is_in_sentence	8
+8_12	punct	8_6
+8_12	has_surface_form	)
+8_14	is_in_sentence	8
+8_14	det	8_17
+8_14	has_surface_form	an
+8_17	is_in_sentence	8
+8_17	attr	8_13
+8_17	has_surface_form	editor
+8_15	is_in_sentence	8
+8_15	amod	8_17
+8_15	is_entity	American
+8_16	is_in_sentence	8
+8_16	compound	8_17
+8_16	has_surface_form	teacher
+8_18	is_in_sentence	8
+8_18	cc	8_17
+8_18	has_surface_form	and
+8_19	is_in_sentence	8
+8_19	compound	8_20
+8_19	is_entity	Republican
+8_20	is_in_sentence	8
+8_20	compound	8_21
+8_20	has_surface_form	Party
+8_21	is_in_sentence	8
+8_21	conj	8_17
+8_21	is_entity	politician
+8_22	is_in_sentence	8
+8_22	prep	8_21
+8_22	has_surface_form	from
+8_23	is_in_sentence	8
+8_23	nmod	8_27
+8_23	has_surface_form	Concord
+8_27	is_in_sentence	8
+8_27	dep	8_22
+8_27	has_surface_form	 
+8_24	is_in_sentence	8
+8_24	dep	8_23
+8_24	has_surface_form	 
+8_25	is_in_sentence	8
+8_25	compound	8_26
+8_25	has_surface_form	New
+8_25	part_of_entity	New Hampshire
+8_26	is_in_sentence	8
+8_26	compound	8_27
+8_26	has_surface_form	Hampshire
+8_26	part_of_entity	New Hampshire
+8_28	is_in_sentence	8
+8_28	punct	8_13
+8_28	has_surface_form	.
+8_29	is_in_sentence	8
+8_29	dep	8_29
+8_29	has_surface_form	
+
+Styles Bridges	per:stateorprovinces_of_residence(e1,e2)	New Hampshire
+9_0	is_in_sentence	9
+9_0	ROOT	9_0
+9_0	has_surface_form	From
+9_1	is_in_sentence	9
+9_1	pobj	9_0
+9_1	is_entity	1974
+9_2	is_in_sentence	9
+9_2	punct	9_3
+9_2	has_surface_form	-
+9_3	is_in_sentence	9
+9_3	prep	9_1
+9_3	has_surface_form	2005
+9_4	is_in_sentence	9
+9_4	dep	9_7
+9_4	has_surface_form	 
+9_7	is_in_sentence	9
+9_7	dep	9_9
+9_7	has_surface_form	 
+9_5	is_in_sentence	9
+9_5	compound	9_6
+9_5	has_surface_form	Dr.
+9_5	part_of_entity	Dr. Hayhurst
+9_6	is_in_sentence	9
+9_6	compound	9_7
+9_6	has_surface_form	Hayhurst
+9_6	part_of_entity	Dr. Hayhurst
+9_9	is_in_sentence	9
+9_9	pobj	9_0
+9_9	has_surface_form	medicine
+9_8	is_in_sentence	9
+9_8	amod	9_9
+9_8	has_surface_form	practiced
+9_10	is_in_sentence	9
+9_10	prep	9_9
+9_10	has_surface_form	as
+9_11	is_in_sentence	9
+9_11	compound	9_14
+9_11	has_surface_form	Pulmonary
+9_14	is_in_sentence	9
+9_14	compound	9_15
+9_14	has_surface_form	Care
+9_12	is_in_sentence	9
+9_12	punct	9_14
+9_12	has_surface_form	-
+9_13	is_in_sentence	9
+9_13	compound	9_14
+9_13	has_surface_form	Critical
+9_15	is_in_sentence	9
+9_15	pobj	9_10
+9_15	has_surface_form	specialist
+9_16	is_in_sentence	9
+9_16	prep	9_15
+9_16	has_surface_form	at
+9_17	is_in_sentence	9
+9_17	dep	9_16
+9_17	has_surface_form	 
+9_18	is_in_sentence	9
+9_18	nmod	9_19
+9_18	is_entity	Indiana
+9_19	is_in_sentence	9
+9_19	dep	9_21
+9_19	has_surface_form	 
+9_21	is_in_sentence	9
+9_21	appos	9_9
+9_21	has_surface_form	Associates
+9_20	is_in_sentence	9
+9_20	compound	9_21
+9_20	has_surface_form	Medical
+9_22	is_in_sentence	9
+9_22	prep	9_21
+9_22	has_surface_form	in
+9_23	is_in_sentence	9
+9_23	compound	9_24
+9_23	has_surface_form	Fort
+9_24	is_in_sentence	9
+9_24	pobj	9_22
+9_24	has_surface_form	Wayne
+9_25	is_in_sentence	9
+9_25	punct	9_0
+9_25	has_surface_form	.
+9_26	is_in_sentence	9
+9_26	dep	9_26
+9_26	has_surface_form	
+
+Dr. Hayhurst	per:stateorprovinces_of_residence(e1,e2)	Indiana
