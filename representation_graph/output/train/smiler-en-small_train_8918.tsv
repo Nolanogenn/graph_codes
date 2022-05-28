@@ -1,0 +1,63 @@
+8917_0	is_in_sentence	sentence_8917
+8917_0	compound	8917_1
+8917_0	has_surface_form	Carole
+8917_0	part_of_entity	Carole Ita White
+8917_1	is_in_sentence	sentence_8917
+8917_1	compound	8917_2
+8917_1	has_surface_form	Ita
+8917_1	part_of_entity	Carole Ita White
+8917_2	is_in_sentence	sentence_8917
+8917_2	nsubj	8917_10
+8917_2	has_surface_form	White
+8917_2	part_of_entity	Carole Ita White
+8917_10	is_in_sentence	sentence_8917
+8917_10	ROOT	8917_10
+8917_10	has_surface_form	is
+8917_3	is_in_sentence	sentence_8917
+8917_3	punct	8917_2
+8917_3	has_surface_form	(
+8917_4	is_in_sentence	sentence_8917
+8917_4	acl	8917_2
+8917_4	has_surface_form	born
+8917_5	is_in_sentence	sentence_8917
+8917_5	npadvmod	8917_4
+8917_5	has_surface_form	August
+8917_6	is_in_sentence	sentence_8917
+8917_6	nummod	8917_5
+8917_6	has_surface_form	24
+8917_7	is_in_sentence	sentence_8917
+8917_7	punct	8917_5
+8917_7	has_surface_form	,
+8917_8	is_in_sentence	sentence_8917
+8917_8	nummod	8917_5
+8917_8	has_surface_form	1949
+8917_9	is_in_sentence	sentence_8917
+8917_9	punct	8917_2
+8917_9	has_surface_form	)
+8917_11	is_in_sentence	sentence_8917
+8917_11	det	8917_16
+8917_11	has_surface_form	an
+8917_16	is_in_sentence	sentence_8917
+8917_16	attr	8917_10
+8917_16	is_entity	actress
+8917_12	is_in_sentence	sentence_8917
+8917_12	amod	8917_16
+8917_12	has_surface_form	American
+8917_13	is_in_sentence	sentence_8917
+8917_13	nmod	8917_16
+8917_13	has_surface_form	television
+8917_14	is_in_sentence	sentence_8917
+8917_14	cc	8917_13
+8917_14	has_surface_form	and
+8917_15	is_in_sentence	sentence_8917
+8917_15	conj	8917_13
+8917_15	has_surface_form	film
+actress	surface_form	actress
+8917_17	is_in_sentence	sentence_8917
+8917_17	punct	8917_10
+8917_17	has_surface_form	.
+8917_18	is_in_sentence	sentence_8917
+8917_18	dep	8917_18
+8917_18	has_surface_form	
+Carole Ita White	surface_form	Carole Ita White
+Carole Ita White	has-occupation	actress

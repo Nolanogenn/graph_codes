@@ -1,0 +1,50 @@
+34262_0	is_in_sentence	sentence_34262
+34262_0	compound	34262_1
+34262_0	has_surface_form	Mostafa
+34262_0	part_of_entity	Mostafa Nasri
+34262_1	is_in_sentence	sentence_34262
+34262_1	nsubj	34262_7
+34262_1	has_surface_form	Nasri
+34262_1	part_of_entity	Mostafa Nasri
+34262_7	is_in_sentence	sentence_34262
+34262_7	ROOT	34262_7
+34262_7	has_surface_form	was
+34262_2	is_in_sentence	sentence_34262
+34262_2	punct	34262_1
+34262_2	has_surface_form	,
+34262_3	is_in_sentence	sentence_34262
+34262_3	poss	34262_5
+34262_3	is_entity	Assala
+34262_5	is_in_sentence	sentence_34262
+34262_5	appos	34262_1
+34262_5	has_surface_form	father
+Assala	surface_form	Assala
+34262_4	is_in_sentence	sentence_34262
+34262_4	case	34262_3
+34262_4	has_surface_form	's
+34262_6	is_in_sentence	sentence_34262
+34262_6	punct	34262_1
+34262_6	has_surface_form	,
+34262_8	is_in_sentence	sentence_34262
+34262_8	det	34262_10
+34262_8	has_surface_form	a
+34262_10	is_in_sentence	sentence_34262
+34262_10	attr	34262_7
+34262_10	has_surface_form	composer
+34262_9	is_in_sentence	sentence_34262
+34262_9	amod	34262_10
+34262_9	has_surface_form	revered
+34262_11	is_in_sentence	sentence_34262
+34262_11	cc	34262_10
+34262_11	has_surface_form	and
+34262_12	is_in_sentence	sentence_34262
+34262_12	conj	34262_10
+34262_12	has_surface_form	singer
+34262_13	is_in_sentence	sentence_34262
+34262_13	punct	34262_7
+34262_13	has_surface_form	.
+34262_14	is_in_sentence	sentence_34262
+34262_14	dep	34262_14
+34262_14	has_surface_form	
+Mostafa Nasri	surface_form	Mostafa Nasri
+Mostafa Nasri	has-child	Assala

@@ -1,0 +1,51 @@
+30301_0	is_in_sentence	sentence_30301
+30301_0	compound	30301_2
+30301_0	has_surface_form	Southwestern
+30301_0	part_of_entity	Southwestern Adventist University
+30301_2	is_in_sentence	sentence_30301
+30301_2	nsubj	30301_3
+30301_2	has_surface_form	University
+30301_2	part_of_entity	Southwestern Adventist University
+30301_1	is_in_sentence	sentence_30301
+30301_1	compound	30301_2
+30301_1	has_surface_form	Adventist
+30301_1	part_of_entity	Southwestern Adventist University
+30301_3	is_in_sentence	sentence_30301
+30301_3	ROOT	30301_3
+30301_3	has_surface_form	is
+30301_4	is_in_sentence	sentence_30301
+30301_4	det	30301_8
+30301_4	has_surface_form	a
+30301_8	is_in_sentence	sentence_30301
+30301_8	attr	30301_3
+30301_8	has_surface_form	university
+30301_5	is_in_sentence	sentence_30301
+30301_5	amod	30301_8
+30301_5	has_surface_form	private
+30301_6	is_in_sentence	sentence_30301
+30301_6	punct	30301_8
+30301_6	has_surface_form	,
+30301_7	is_in_sentence	sentence_30301
+30301_7	compound	30301_8
+30301_7	has_surface_form	Adventist
+30301_9	is_in_sentence	sentence_30301
+30301_9	prep	30301_8
+30301_9	has_surface_form	in
+30301_10	is_in_sentence	sentence_30301
+30301_10	pobj	30301_9
+30301_10	has_surface_form	Keene
+30301_11	is_in_sentence	sentence_30301
+30301_11	punct	30301_10
+30301_11	has_surface_form	,
+30301_12	is_in_sentence	sentence_30301
+30301_12	appos	30301_10
+30301_12	has_surface_form	Texas
+30301_13	is_in_sentence	sentence_30301
+30301_13	punct	30301_3
+30301_13	has_surface_form	.
+30301_14	is_in_sentence	sentence_30301
+30301_14	dep	30301_3
+30301_14	has_surface_form	
+Southwestern Adventist University	surface_form	Southwestern Adventist University
+Southwestern Adventist University	is-where	Keene, Texas
+Keene, Texas	surface_form	Keene, Texas

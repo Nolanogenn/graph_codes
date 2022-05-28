@@ -1,0 +1,52 @@
+32881_0	is_in_sentence	sentence_32881
+32881_0	compound	32881_1
+32881_0	has_surface_form	Wearmouth
+32881_0	part_of_entity	Wearmouth Bridge
+32881_1	is_in_sentence	sentence_32881
+32881_1	nsubj	32881_2
+32881_1	has_surface_form	Bridge
+32881_1	part_of_entity	Wearmouth Bridge
+32881_2	is_in_sentence	sentence_32881
+32881_2	ROOT	32881_2
+32881_2	has_surface_form	is
+32881_3	is_in_sentence	sentence_32881
+32881_3	det	32881_6
+32881_3	has_surface_form	a
+32881_6	is_in_sentence	sentence_32881
+32881_6	attr	32881_2
+32881_6	has_surface_form	bridge
+32881_6	part_of_entity	arch bridge
+32881_4	is_in_sentence	sentence_32881
+32881_4	amod	32881_6
+32881_4	has_surface_form	through
+32881_5	is_in_sentence	sentence_32881
+32881_5	amod	32881_6
+32881_5	has_surface_form	arch
+32881_5	part_of_entity	arch bridge
+32881_7	is_in_sentence	sentence_32881
+32881_7	prep	32881_6
+32881_7	has_surface_form	across
+32881_8	is_in_sentence	sentence_32881
+32881_8	det	32881_10
+32881_8	has_surface_form	the
+32881_10	is_in_sentence	sentence_32881
+32881_10	pobj	32881_7
+32881_10	has_surface_form	Wear
+32881_9	is_in_sentence	sentence_32881
+32881_9	compound	32881_10
+32881_9	has_surface_form	River
+32881_11	is_in_sentence	sentence_32881
+32881_11	prep	32881_10
+32881_11	has_surface_form	in
+32881_12	is_in_sentence	sentence_32881
+32881_12	pobj	32881_11
+32881_12	has_surface_form	Sunderland
+32881_13	is_in_sentence	sentence_32881
+32881_13	punct	32881_2
+32881_13	has_surface_form	.
+32881_14	is_in_sentence	sentence_32881
+32881_14	dep	32881_2
+32881_14	has_surface_form	
+Wearmouth Bridge	surface_form	Wearmouth Bridge
+Wearmouth Bridge	has-type	arch bridge
+arch bridge	surface_form	arch bridge

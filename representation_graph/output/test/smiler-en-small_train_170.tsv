@@ -1,0 +1,61 @@
+169_0	is_in_sentence	sentence_169
+169_0	compound	169_1
+169_0	has_surface_form	Apatow
+169_0	part_of_entity	Apatow Productions
+169_1	is_in_sentence	sentence_169
+169_1	nsubj	169_2
+169_1	has_surface_form	Productions
+169_1	part_of_entity	Apatow Productions
+169_2	is_in_sentence	sentence_169
+169_2	ROOT	169_2
+169_2	has_surface_form	is
+169_3	is_in_sentence	sentence_169
+169_3	det	169_9
+169_3	has_surface_form	an
+169_9	is_in_sentence	sentence_169
+169_9	attr	169_2
+169_9	has_surface_form	company
+169_4	is_in_sentence	sentence_169
+169_4	amod	169_9
+169_4	has_surface_form	American
+169_5	is_in_sentence	sentence_169
+169_5	nmod	169_8
+169_5	has_surface_form	film
+169_8	is_in_sentence	sentence_169
+169_8	compound	169_9
+169_8	has_surface_form	production
+169_6	is_in_sentence	sentence_169
+169_6	cc	169_5
+169_6	has_surface_form	and
+169_7	is_in_sentence	sentence_169
+169_7	conj	169_5
+169_7	has_surface_form	television
+169_10	is_in_sentence	sentence_169
+169_10	acl	169_9
+169_10	has_surface_form	founded
+169_11	is_in_sentence	sentence_169
+169_11	agent	169_10
+169_11	has_surface_form	by
+169_12	is_in_sentence	sentence_169
+169_12	compound	169_13
+169_12	has_surface_form	Judd
+169_12	part_of_entity	Judd Apatow
+169_13	is_in_sentence	sentence_169
+169_13	pobj	169_11
+169_13	has_surface_form	Apatow
+169_13	part_of_entity	Judd Apatow
+169_14	is_in_sentence	sentence_169
+169_14	prep	169_10
+169_14	has_surface_form	in
+169_15	is_in_sentence	sentence_169
+169_15	pobj	169_14
+169_15	has_surface_form	1999
+169_16	is_in_sentence	sentence_169
+169_16	punct	169_2
+169_16	has_surface_form	.
+169_17	is_in_sentence	sentence_169
+169_17	dep	169_17
+169_17	has_surface_form	
+Apatow Productions	surface_form	Apatow Productions
+Apatow Productions	org-has-founder	Judd Apatow
+Judd Apatow	surface_form	Judd Apatow

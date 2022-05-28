@@ -1,0 +1,127 @@
+30789_0	is_in_sentence	sentence_30789
+30789_0	compound	30789_1
+30789_0	has_surface_form	Communist
+30789_0	part_of_entity	Communist Committee of Cabinda
+30789_1	is_in_sentence	sentence_30789
+30789_1	nsubj	30789_12
+30789_1	has_surface_form	Committee
+30789_1	part_of_entity	Communist Committee of Cabinda
+30789_12	is_in_sentence	sentence_30789
+30789_12	ROOT	30789_12
+30789_12	has_surface_form	was
+30789_2	is_in_sentence	sentence_30789
+30789_2	prep	30789_1
+30789_2	has_surface_form	of
+30789_2	part_of_entity	Communist Committee of Cabinda
+30789_3	is_in_sentence	sentence_30789
+30789_3	pobj	30789_2
+30789_3	has_surface_form	Cabinda
+30789_3	part_of_entity	Communist Committee of Cabinda
+30789_4	is_in_sentence	sentence_30789
+30789_4	punct	30789_5
+30789_4	has_surface_form	(
+30789_5	is_in_sentence	sentence_30789
+30789_5	appos	30789_1
+30789_5	has_surface_form	Portuguese
+30789_6	is_in_sentence	sentence_30789
+30789_6	punct	30789_5
+30789_6	has_surface_form	:
+30789_7	is_in_sentence	sentence_30789
+30789_7	compound	30789_10
+30789_7	has_surface_form	Comité
+30789_10	is_in_sentence	sentence_30789
+30789_10	appos	30789_5
+30789_10	has_surface_form	Cabinda
+30789_8	is_in_sentence	sentence_30789
+30789_8	nmod	30789_10
+30789_8	has_surface_form	Comunista
+30789_9	is_in_sentence	sentence_30789
+30789_9	nmod	30789_10
+30789_9	has_surface_form	de
+30789_11	is_in_sentence	sentence_30789
+30789_11	punct	30789_5
+30789_11	has_surface_form	)
+30789_13	is_in_sentence	sentence_30789
+30789_13	det	30789_16
+30789_13	has_surface_form	a
+30789_16	is_in_sentence	sentence_30789
+30789_16	attr	30789_12
+30789_16	has_surface_form	group
+30789_14	is_in_sentence	sentence_30789
+30789_14	amod	30789_16
+30789_14	has_surface_form	militant
+30789_15	is_in_sentence	sentence_30789
+30789_15	compound	30789_16
+30789_15	has_surface_form	separatist
+30789_17	is_in_sentence	sentence_30789
+30789_17	acl	30789_16
+30789_17	has_surface_form	fighting
+30789_18	is_in_sentence	sentence_30789
+30789_18	prep	30789_17
+30789_18	has_surface_form	for
+30789_19	is_in_sentence	sentence_30789
+30789_19	det	30789_20
+30789_19	has_surface_form	the
+30789_20	is_in_sentence	sentence_30789
+30789_20	pobj	30789_18
+30789_20	has_surface_form	independence
+30789_21	is_in_sentence	sentence_30789
+30789_21	prep	30789_20
+30789_21	has_surface_form	of
+30789_22	is_in_sentence	sentence_30789
+30789_22	pobj	30789_21
+30789_22	has_surface_form	Cabinda
+30789_23	is_in_sentence	sentence_30789
+30789_23	prep	30789_20
+30789_23	has_surface_form	from
+30789_24	is_in_sentence	sentence_30789
+30789_24	pobj	30789_23
+30789_24	has_surface_form	Angola
+30789_25	is_in_sentence	sentence_30789
+30789_25	punct	30789_12
+30789_25	has_surface_form	.
+30789_26	is_in_sentence	sentence_30789
+30789_26	det	30789_27
+30789_26	has_surface_form	The
+30789_27	is_in_sentence	sentence_30789
+30789_27	nsubjpass	30789_29
+30789_27	has_surface_form	CCC
+30789_29	is_in_sentence	sentence_30789
+30789_29	ROOT	30789_29
+30789_29	has_surface_form	led
+30789_28	is_in_sentence	sentence_30789
+30789_28	auxpass	30789_29
+30789_28	has_surface_form	was
+30789_30	is_in_sentence	sentence_30789
+30789_30	agent	30789_29
+30789_30	has_surface_form	by
+30789_31	is_in_sentence	sentence_30789
+30789_31	compound	30789_33
+30789_31	has_surface_form	Kaya
+30789_31	part_of_entity	Kaya Mohamed Yay
+30789_33	is_in_sentence	sentence_30789
+30789_33	pobj	30789_30
+30789_33	has_surface_form	Yay
+30789_33	part_of_entity	Kaya Mohamed Yay
+30789_32	is_in_sentence	sentence_30789
+30789_32	compound	30789_33
+30789_32	has_surface_form	Mohamed
+30789_32	part_of_entity	Kaya Mohamed Yay
+30789_34	is_in_sentence	sentence_30789
+30789_34	cc	30789_33
+30789_34	has_surface_form	and
+30789_35	is_in_sentence	sentence_30789
+30789_35	compound	30789_36
+30789_35	has_surface_form	Geraldo
+30789_36	is_in_sentence	sentence_30789
+30789_36	conj	30789_33
+30789_36	has_surface_form	Pedro
+30789_37	is_in_sentence	sentence_30789
+30789_37	punct	30789_29
+30789_37	has_surface_form	.
+30789_38	is_in_sentence	sentence_30789
+30789_38	dep	30789_38
+30789_38	has_surface_form	
+Communist Committee of Cabinda	surface_form	Communist Committee of Cabinda
+Communist Committee of Cabinda	org-leader	Kaya Mohamed Yay
+Kaya Mohamed Yay	surface_form	Kaya Mohamed Yay

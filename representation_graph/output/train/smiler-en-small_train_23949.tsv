@@ -1,0 +1,134 @@
+23948_0	is_in_sentence	sentence_23948
+23948_0	det	23948_2
+23948_0	has_surface_form	The
+23948_2	is_in_sentence	sentence_23948
+23948_2	nsubj	23948_7
+23948_2	has_surface_form	fox
+23948_2	part_of_entity	island fox
+23948_1	is_in_sentence	sentence_23948
+23948_1	compound	23948_2
+23948_1	has_surface_form	island
+23948_1	part_of_entity	island fox
+23948_7	is_in_sentence	sentence_23948
+23948_7	ROOT	23948_7
+23948_7	has_surface_form	is
+23948_3	is_in_sentence	sentence_23948
+23948_3	punct	23948_5
+23948_3	has_surface_form	(
+23948_5	is_in_sentence	sentence_23948
+23948_5	appos	23948_2
+23948_5	has_surface_form	littoralis
+23948_4	is_in_sentence	sentence_23948
+23948_4	amod	23948_5
+23948_4	has_surface_form	Urocyon
+23948_6	is_in_sentence	sentence_23948
+23948_6	punct	23948_2
+23948_6	has_surface_form	)
+23948_8	is_in_sentence	sentence_23948
+23948_8	det	23948_10
+23948_8	has_surface_form	a
+23948_10	is_in_sentence	sentence_23948
+23948_10	attr	23948_7
+23948_10	has_surface_form	fox
+23948_9	is_in_sentence	sentence_23948
+23948_9	amod	23948_10
+23948_9	has_surface_form	small
+23948_11	is_in_sentence	sentence_23948
+23948_11	nsubj	23948_12
+23948_11	has_surface_form	that
+23948_12	is_in_sentence	sentence_23948
+23948_12	relcl	23948_10
+23948_12	has_surface_form	is
+23948_13	is_in_sentence	sentence_23948
+23948_13	acomp	23948_12
+23948_13	has_surface_form	native
+23948_14	is_in_sentence	sentence_23948
+23948_14	prep	23948_13
+23948_14	has_surface_form	to
+23948_15	is_in_sentence	sentence_23948
+23948_15	pobj	23948_14
+23948_15	has_surface_form	six
+23948_16	is_in_sentence	sentence_23948
+23948_16	prep	23948_15
+23948_16	has_surface_form	of
+23948_17	is_in_sentence	sentence_23948
+23948_17	det	23948_20
+23948_17	has_surface_form	the
+23948_20	is_in_sentence	sentence_23948
+23948_20	pobj	23948_16
+23948_20	has_surface_form	Islands
+23948_18	is_in_sentence	sentence_23948
+23948_18	nummod	23948_20
+23948_18	has_surface_form	eight
+23948_19	is_in_sentence	sentence_23948
+23948_19	compound	23948_20
+23948_19	has_surface_form	Channel
+23948_21	is_in_sentence	sentence_23948
+23948_21	prep	23948_20
+23948_21	has_surface_form	of
+23948_22	is_in_sentence	sentence_23948
+23948_22	pobj	23948_21
+23948_22	has_surface_form	California
+23948_23	is_in_sentence	sentence_23948
+23948_23	punct	23948_7
+23948_23	has_surface_form	.
+23948_24	is_in_sentence	sentence_23948
+23948_24	det	23948_27
+23948_24	has_surface_form	The
+23948_27	is_in_sentence	sentence_23948
+23948_27	ROOT	23948_27
+23948_27	has_surface_form	weighs
+23948_25	is_in_sentence	sentence_23948
+23948_25	compound	23948_26
+23948_25	has_surface_form	island
+23948_25	part_of_entity	island fox
+23948_26	is_in_sentence	sentence_23948
+23948_26	compound	23948_27
+23948_26	has_surface_form	fox
+23948_26	part_of_entity	island fox
+23948_28	is_in_sentence	sentence_23948
+23948_28	quantmod	23948_29
+23948_28	has_surface_form	between
+23948_29	is_in_sentence	sentence_23948
+23948_29	nummod	23948_37
+23948_29	has_surface_form	1
+23948_29	part_of_entity	1 and 2.8 kg
+23948_37	is_in_sentence	sentence_23948
+23948_37	appos	23948_27
+23948_37	has_surface_form	lb
+23948_30	is_in_sentence	sentence_23948
+23948_30	cc	23948_29
+23948_30	has_surface_form	and
+23948_30	part_of_entity	1 and 2.8 kg
+23948_31	is_in_sentence	sentence_23948
+23948_31	nummod	23948_32
+23948_31	has_surface_form	2.8
+23948_31	part_of_entity	1 and 2.8 kg
+23948_32	is_in_sentence	sentence_23948
+23948_32	conj	23948_29
+23948_32	has_surface_form	kg
+23948_32	part_of_entity	1 and 2.8 kg
+23948_33	is_in_sentence	sentence_23948
+23948_33	punct	23948_32
+23948_33	has_surface_form	(
+23948_34	is_in_sentence	sentence_23948
+23948_34	conj	23948_29
+23948_34	has_surface_form	2.2
+23948_35	is_in_sentence	sentence_23948
+23948_35	cc	23948_34
+23948_35	has_surface_form	and
+23948_36	is_in_sentence	sentence_23948
+23948_36	conj	23948_34
+23948_36	has_surface_form	6.2
+23948_38	is_in_sentence	sentence_23948
+23948_38	punct	23948_37
+23948_38	has_surface_form	)
+23948_39	is_in_sentence	sentence_23948
+23948_39	punct	23948_27
+23948_39	has_surface_form	.
+23948_40	is_in_sentence	sentence_23948
+23948_40	dep	23948_40
+23948_40	has_surface_form	
+island fox	surface_form	island fox
+island fox	has-weight	1 and 2.8 kg
+1 and 2.8 kg	surface_form	1 and 2.8 kg

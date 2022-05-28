@@ -1,0 +1,64 @@
+2249_0	is_in_sentence	sentence_2249
+2249_0	compound	2249_1
+2249_0	has_surface_form	Mister
+2249_0	part_of_entity	Mister Universo
+2249_1	is_in_sentence	sentence_2249
+2249_1	nsubj	2249_2
+2249_1	has_surface_form	Universo
+2249_1	part_of_entity	Mister Universo
+2249_2	is_in_sentence	sentence_2249
+2249_2	ROOT	2249_2
+2249_2	has_surface_form	is
+2249_3	is_in_sentence	sentence_2249
+2249_3	det	2249_9
+2249_3	has_surface_form	a
+2249_9	is_in_sentence	sentence_2249
+2249_9	attr	2249_2
+2249_9	has_surface_form	film
+2249_4	is_in_sentence	sentence_2249
+2249_4	nummod	2249_9
+2249_4	has_surface_form	2016
+2249_5	is_in_sentence	sentence_2249
+2249_5	amod	2249_7
+2249_5	has_surface_form	Austrian
+2249_7	is_in_sentence	sentence_2249
+2249_7	amod	2249_9
+2249_7	has_surface_form	Italian
+2249_6	is_in_sentence	sentence_2249
+2249_6	punct	2249_7
+2249_6	has_surface_form	-
+2249_8	is_in_sentence	sentence_2249
+2249_8	compound	2249_9
+2249_8	has_surface_form	drama
+2249_10	is_in_sentence	sentence_2249
+2249_10	acl	2249_9
+2249_10	has_surface_form	directed
+2249_11	is_in_sentence	sentence_2249
+2249_11	agent	2249_10
+2249_11	has_surface_form	by
+2249_12	is_in_sentence	sentence_2249
+2249_12	compound	2249_13
+2249_12	has_surface_form	Tizza
+2249_12	part_of_entity	Tizza Covi
+2249_13	is_in_sentence	sentence_2249
+2249_13	pobj	2249_11
+2249_13	has_surface_form	Covi
+2249_13	part_of_entity	Tizza Covi
+2249_14	is_in_sentence	sentence_2249
+2249_14	cc	2249_13
+2249_14	has_surface_form	and
+2249_15	is_in_sentence	sentence_2249
+2249_15	compound	2249_16
+2249_15	has_surface_form	Rainer
+2249_16	is_in_sentence	sentence_2249
+2249_16	conj	2249_13
+2249_16	has_surface_form	Frimmel
+2249_17	is_in_sentence	sentence_2249
+2249_17	punct	2249_2
+2249_17	has_surface_form	.
+2249_18	is_in_sentence	sentence_2249
+2249_18	dep	2249_2
+2249_18	has_surface_form	
+Mister Universo	surface_form	Mister Universo
+Mister Universo	movie-has-director	Tizza Covi
+Tizza Covi	surface_form	Tizza Covi

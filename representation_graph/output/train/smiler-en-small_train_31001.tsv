@@ -1,0 +1,64 @@
+31000_0	is_in_sentence	sentence_31000
+31000_0	compound	31000_1
+31000_0	has_surface_form	Jimmy
+31000_0	part_of_entity	Jimmy Yeary
+31000_1	is_in_sentence	sentence_31000
+31000_1	nsubj	31000_9
+31000_1	has_surface_form	Yeary
+31000_1	part_of_entity	Jimmy Yeary
+31000_9	is_in_sentence	sentence_31000
+31000_9	ROOT	31000_9
+31000_9	has_surface_form	is
+31000_2	is_in_sentence	sentence_31000
+31000_2	punct	31000_1
+31000_2	has_surface_form	(
+31000_3	is_in_sentence	sentence_31000
+31000_3	acl	31000_1
+31000_3	has_surface_form	born
+31000_4	is_in_sentence	sentence_31000
+31000_4	prep	31000_3
+31000_4	has_surface_form	in
+31000_5	is_in_sentence	sentence_31000
+31000_5	pobj	31000_4
+31000_5	has_surface_form	Hillsboro
+31000_6	is_in_sentence	sentence_31000
+31000_6	punct	31000_5
+31000_6	has_surface_form	,
+31000_7	is_in_sentence	sentence_31000
+31000_7	appos	31000_5
+31000_7	has_surface_form	Ohio
+31000_8	is_in_sentence	sentence_31000
+31000_8	punct	31000_5
+31000_8	has_surface_form	)
+31000_10	is_in_sentence	sentence_31000
+31000_10	det	31000_14
+31000_10	has_surface_form	an
+31000_14	is_in_sentence	sentence_31000
+31000_14	attr	31000_9
+31000_14	has_surface_form	singer
+31000_11	is_in_sentence	sentence_31000
+31000_11	amod	31000_14
+31000_11	has_surface_form	American
+31000_12	is_in_sentence	sentence_31000
+31000_12	compound	31000_13
+31000_12	has_surface_form	country
+31000_12	part_of_entity	country music
+31000_13	is_in_sentence	sentence_31000
+31000_13	compound	31000_14
+31000_13	has_surface_form	music
+31000_13	part_of_entity	country music
+31000_15	is_in_sentence	sentence_31000
+31000_15	cc	31000_14
+31000_15	has_surface_form	and
+31000_16	is_in_sentence	sentence_31000
+31000_16	conj	31000_14
+31000_16	has_surface_form	songwriter
+31000_17	is_in_sentence	sentence_31000
+31000_17	punct	31000_9
+31000_17	has_surface_form	.
+31000_18	is_in_sentence	sentence_31000
+31000_18	dep	31000_18
+31000_18	has_surface_form	
+Jimmy Yeary	surface_form	Jimmy Yeary
+Jimmy Yeary	has-genre	country music
+country music	surface_form	country music

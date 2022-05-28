@@ -1,0 +1,61 @@
+28985_0	is_in_sentence	sentence_28985
+28985_0	compound	28985_1
+28985_0	has_surface_form	Cruz
+28985_0	part_of_entity	Cruz Martínez
+28985_1	is_in_sentence	sentence_28985
+28985_1	nsubj	28985_9
+28985_1	has_surface_form	Martínez
+28985_1	part_of_entity	Cruz Martínez
+28985_9	is_in_sentence	sentence_28985
+28985_9	ROOT	28985_9
+28985_9	has_surface_form	is
+28985_2	is_in_sentence	sentence_28985
+28985_2	punct	28985_1
+28985_2	has_surface_form	(
+28985_3	is_in_sentence	sentence_28985
+28985_3	acl	28985_1
+28985_3	has_surface_form	born
+28985_4	is_in_sentence	sentence_28985
+28985_4	npadvmod	28985_3
+28985_4	has_surface_form	June
+28985_5	is_in_sentence	sentence_28985
+28985_5	nummod	28985_4
+28985_5	has_surface_form	21
+28985_6	is_in_sentence	sentence_28985
+28985_6	punct	28985_4
+28985_6	has_surface_form	,
+28985_7	is_in_sentence	sentence_28985
+28985_7	nummod	28985_4
+28985_7	has_surface_form	1972
+28985_8	is_in_sentence	sentence_28985
+28985_8	punct	28985_1
+28985_8	has_surface_form	)
+28985_10	is_in_sentence	sentence_28985
+28985_10	det	28985_12
+28985_10	has_surface_form	an
+28985_12	is_in_sentence	sentence_28985
+28985_12	attr	28985_9
+28985_12	has_surface_form	musician
+28985_11	is_in_sentence	sentence_28985
+28985_11	amod	28985_12
+28985_11	has_surface_form	American
+28985_13	is_in_sentence	sentence_28985
+28985_13	cc	28985_12
+28985_13	has_surface_form	and
+28985_14	is_in_sentence	sentence_28985
+28985_14	compound	28985_15
+28985_14	has_surface_form	record
+28985_14	part_of_entity	record producer
+28985_15	is_in_sentence	sentence_28985
+28985_15	conj	28985_12
+28985_15	has_surface_form	producer
+28985_15	part_of_entity	record producer
+28985_16	is_in_sentence	sentence_28985
+28985_16	punct	28985_9
+28985_16	has_surface_form	.
+28985_17	is_in_sentence	sentence_28985
+28985_17	dep	28985_17
+28985_17	has_surface_form	
+Cruz Martínez	surface_form	Cruz Martínez
+Cruz Martínez	has-occupation	record producer
+record producer	surface_form	record producer

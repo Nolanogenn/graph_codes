@@ -1,0 +1,61 @@
+30319_0	is_in_sentence	sentence_30319
+30319_0	compound	30319_1
+30319_0	has_surface_form	Cub
+30319_0	part_of_entity	Cub Country
+30319_1	is_in_sentence	sentence_30319
+30319_1	nsubj	30319_2
+30319_1	has_surface_form	Country
+30319_1	part_of_entity	Cub Country
+30319_2	is_in_sentence	sentence_30319
+30319_2	ROOT	30319_2
+30319_2	has_surface_form	is
+30319_3	is_in_sentence	sentence_30319
+30319_3	det	30319_7
+30319_3	has_surface_form	a
+30319_7	is_in_sentence	sentence_30319
+30319_7	attr	30319_2
+30319_7	has_surface_form	project
+30319_4	is_in_sentence	sentence_30319
+30319_4	amod	30319_7
+30319_4	has_surface_form	solo
+30319_5	is_in_sentence	sentence_30319
+30319_5	compound	30319_7
+30319_5	has_surface_form	indie
+30319_5	part_of_entity	indie rock
+30319_6	is_in_sentence	sentence_30319
+30319_6	compound	30319_7
+30319_6	has_surface_form	rock
+30319_6	part_of_entity	indie rock
+30319_8	is_in_sentence	sentence_30319
+30319_8	acl	30319_7
+30319_8	has_surface_form	created
+30319_9	is_in_sentence	sentence_30319
+30319_9	agent	30319_8
+30319_9	has_surface_form	by
+30319_10	is_in_sentence	sentence_30319
+30319_10	pobj	30319_9
+30319_10	has_surface_form	Jets
+30319_11	is_in_sentence	sentence_30319
+30319_11	prep	30319_8
+30319_11	has_surface_form	To
+30319_12	is_in_sentence	sentence_30319
+30319_12	pobj	30319_11
+30319_12	has_surface_form	Brazil
+30319_13	is_in_sentence	sentence_30319
+30319_13	compound	30319_15
+30319_13	has_surface_form	bassist
+30319_15	is_in_sentence	sentence_30319
+30319_15	dobj	30319_8
+30319_15	has_surface_form	Chatelain
+30319_14	is_in_sentence	sentence_30319
+30319_14	compound	30319_15
+30319_14	has_surface_form	Jeremy
+30319_16	is_in_sentence	sentence_30319
+30319_16	punct	30319_2
+30319_16	has_surface_form	.
+30319_17	is_in_sentence	sentence_30319
+30319_17	dep	30319_17
+30319_17	has_surface_form	
+Cub Country	surface_form	Cub Country
+Cub Country	has-genre	indie rock
+indie rock	surface_form	indie rock

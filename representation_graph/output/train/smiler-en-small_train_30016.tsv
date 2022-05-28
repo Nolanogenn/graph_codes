@@ -1,0 +1,82 @@
+30015_0	is_in_sentence	sentence_30015
+30015_0	compound	30015_1
+30015_0	has_surface_form	Porozumienie
+30015_1	is_in_sentence	sentence_30015
+30015_1	nsubj	30015_10
+30015_1	has_surface_form	Centrum
+30015_10	is_in_sentence	sentence_30015
+30015_10	ROOT	30015_10
+30015_10	has_surface_form	was
+30015_2	is_in_sentence	sentence_30015
+30015_2	punct	30015_1
+30015_2	has_surface_form	(
+30015_3	is_in_sentence	sentence_30015
+30015_3	appos	30015_1
+30015_3	has_surface_form	PC
+30015_4	is_in_sentence	sentence_30015
+30015_4	punct	30015_1
+30015_4	has_surface_form	;
+30015_5	is_in_sentence	sentence_30015
+30015_5	appos	30015_1
+30015_5	has_surface_form	English
+30015_6	is_in_sentence	sentence_30015
+30015_6	punct	30015_5
+30015_6	has_surface_form	:
+30015_7	is_in_sentence	sentence_30015
+30015_7	compound	30015_8
+30015_7	has_surface_form	Centre
+30015_7	part_of_entity	Centre Agreement
+30015_8	is_in_sentence	sentence_30015
+30015_8	appos	30015_5
+30015_8	has_surface_form	Agreement
+30015_8	part_of_entity	Centre Agreement
+30015_9	is_in_sentence	sentence_30015
+30015_9	punct	30015_5
+30015_9	has_surface_form	)
+30015_11	is_in_sentence	sentence_30015
+30015_11	det	30015_16
+30015_11	has_surface_form	a
+30015_16	is_in_sentence	sentence_30015
+30015_16	attr	30015_10
+30015_16	has_surface_form	party
+30015_12	is_in_sentence	sentence_30015
+30015_12	amod	30015_16
+30015_12	has_surface_form	Polish
+30015_13	is_in_sentence	sentence_30015
+30015_13	amod	30015_16
+30015_13	has_surface_form	Christian
+30015_14	is_in_sentence	sentence_30015
+30015_14	amod	30015_16
+30015_14	has_surface_form	democratic
+30015_15	is_in_sentence	sentence_30015
+30015_15	amod	30015_16
+30015_15	has_surface_form	political
+30015_17	is_in_sentence	sentence_30015
+30015_17	punct	30015_10
+30015_17	has_surface_form	.
+30015_18	is_in_sentence	sentence_30015
+30015_18	poss	30015_19
+30015_18	has_surface_form	Its
+30015_19	is_in_sentence	sentence_30015
+30015_19	nsubj	30015_20
+30015_19	has_surface_form	chairman
+30015_20	is_in_sentence	sentence_30015
+30015_20	ROOT	30015_20
+30015_20	has_surface_form	was
+30015_21	is_in_sentence	sentence_30015
+30015_21	compound	30015_22
+30015_21	has_surface_form	Jarosław
+30015_21	part_of_entity	Jarosław Kaczyński
+30015_22	is_in_sentence	sentence_30015
+30015_22	attr	30015_20
+30015_22	has_surface_form	Kaczyński
+30015_22	part_of_entity	Jarosław Kaczyński
+30015_23	is_in_sentence	sentence_30015
+30015_23	punct	30015_20
+30015_23	has_surface_form	.
+30015_24	is_in_sentence	sentence_30015
+30015_24	dep	30015_20
+30015_24	has_surface_form	
+Centre Agreement	surface_form	Centre Agreement
+Centre Agreement	org-has-founder	Jarosław Kaczyński
+Jarosław Kaczyński	surface_form	Jarosław Kaczyński

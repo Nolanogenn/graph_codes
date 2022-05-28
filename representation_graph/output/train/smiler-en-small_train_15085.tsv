@@ -1,0 +1,63 @@
+15084_0	is_in_sentence	sentence_15084
+15084_0	compound	15084_1
+15084_0	has_surface_form	North
+15084_0	part_of_entity	North Carolina Highway 279
+15084_1	is_in_sentence	sentence_15084
+15084_1	compound	15084_2
+15084_1	has_surface_form	Carolina
+15084_1	part_of_entity	North Carolina Highway 279
+15084_2	is_in_sentence	sentence_15084
+15084_2	nsubj	15084_9
+15084_2	has_surface_form	Highway
+15084_2	part_of_entity	North Carolina Highway 279
+15084_9	is_in_sentence	sentence_15084
+15084_9	ROOT	15084_9
+15084_9	has_surface_form	is
+15084_3	is_in_sentence	sentence_15084
+15084_3	nummod	15084_2
+15084_3	has_surface_form	279
+15084_3	part_of_entity	North Carolina Highway 279
+15084_4	is_in_sentence	sentence_15084
+15084_4	punct	15084_2
+15084_4	has_surface_form	(
+15084_5	is_in_sentence	sentence_15084
+15084_5	appos	15084_2
+15084_5	has_surface_form	NC
+15084_6	is_in_sentence	sentence_15084
+15084_6	dep	15084_5
+15084_6	has_surface_form	 
+15084_7	is_in_sentence	sentence_15084
+15084_7	nummod	15084_5
+15084_7	has_surface_form	279
+15084_8	is_in_sentence	sentence_15084
+15084_8	punct	15084_5
+15084_8	has_surface_form	)
+15084_10	is_in_sentence	sentence_15084
+15084_10	det	15084_13
+15084_10	has_surface_form	a
+15084_13	is_in_sentence	sentence_15084
+15084_13	attr	15084_9
+15084_13	has_surface_form	highway
+15084_13	part_of_entity	state highway
+15084_11	is_in_sentence	sentence_15084
+15084_11	amod	15084_13
+15084_11	has_surface_form	primary
+15084_12	is_in_sentence	sentence_15084
+15084_12	compound	15084_13
+15084_12	has_surface_form	state
+15084_12	part_of_entity	state highway
+15084_14	is_in_sentence	sentence_15084
+15084_14	prep	15084_13
+15084_14	has_surface_form	in
+15084_15	is_in_sentence	sentence_15084
+15084_15	det	15084_16
+15084_15	has_surface_form	the
+15084_16	is_in_sentence	sentence_15084
+15084_16	pobj	15084_14
+15084_16	has_surface_form	U.
+15084_17	is_in_sentence	sentence_15084
+15084_17	dep	15084_9
+15084_17	has_surface_form	
+North Carolina Highway 279	surface_form	North Carolina Highway 279
+North Carolina Highway 279	has-type	state highway
+state highway	surface_form	state highway

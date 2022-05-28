@@ -1,0 +1,57 @@
+17154_0	is_in_sentence	sentence_17154
+17154_0	compound	17154_2
+17154_0	has_surface_form	Colegio
+17154_0	part_of_entity	Colegio Maestro Ávila
+17154_2	is_in_sentence	sentence_17154
+17154_2	nsubj	17154_3
+17154_2	has_surface_form	Ávila
+17154_2	part_of_entity	Colegio Maestro Ávila
+17154_1	is_in_sentence	sentence_17154
+17154_1	compound	17154_2
+17154_1	has_surface_form	Maestro
+17154_1	part_of_entity	Colegio Maestro Ávila
+17154_3	is_in_sentence	sentence_17154
+17154_3	ROOT	17154_3
+17154_3	has_surface_form	is
+17154_4	is_in_sentence	sentence_17154
+17154_4	det	17154_9
+17154_4	has_surface_form	a
+17154_9	is_in_sentence	sentence_17154
+17154_9	attr	17154_3
+17154_9	has_surface_form	school
+17154_5	is_in_sentence	sentence_17154
+17154_5	amod	17154_9
+17154_5	has_surface_form	Catholic
+17154_6	is_in_sentence	sentence_17154
+17154_6	advmod	17154_5
+17154_6	has_surface_form	primary
+17154_7	is_in_sentence	sentence_17154
+17154_7	cc	17154_6
+17154_7	has_surface_form	and
+17154_8	is_in_sentence	sentence_17154
+17154_8	conj	17154_6
+17154_8	has_surface_form	secondary
+17154_10	is_in_sentence	sentence_17154
+17154_10	acl	17154_9
+17154_10	has_surface_form	located
+17154_11	is_in_sentence	sentence_17154
+17154_11	prep	17154_10
+17154_11	has_surface_form	in
+17154_12	is_in_sentence	sentence_17154
+17154_12	pobj	17154_11
+17154_12	is_entity	Salamanca
+Salamanca	surface_form	Salamanca
+17154_13	is_in_sentence	sentence_17154
+17154_13	punct	17154_12
+17154_13	has_surface_form	,
+17154_14	is_in_sentence	sentence_17154
+17154_14	appos	17154_12
+17154_14	has_surface_form	Spain
+17154_15	is_in_sentence	sentence_17154
+17154_15	punct	17154_3
+17154_15	has_surface_form	.
+17154_16	is_in_sentence	sentence_17154
+17154_16	dep	17154_3
+17154_16	has_surface_form	
+Colegio Maestro Ávila	surface_form	Colegio Maestro Ávila
+Colegio Maestro Ávila	is-where	Salamanca

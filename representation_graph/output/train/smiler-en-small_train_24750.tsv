@@ -1,0 +1,41 @@
+24749_0	is_in_sentence	sentence_24749
+24749_0	compound	24749_1
+24749_0	has_surface_form	Caucasus
+24749_0	part_of_entity	Caucasus University
+24749_1	is_in_sentence	sentence_24749
+24749_1	nsubj	24749_2
+24749_1	has_surface_form	University
+24749_1	part_of_entity	Caucasus University
+24749_2	is_in_sentence	sentence_24749
+24749_2	ROOT	24749_2
+24749_2	has_surface_form	is
+24749_3	is_in_sentence	sentence_24749
+24749_3	det	24749_5
+24749_3	has_surface_form	a
+24749_5	is_in_sentence	sentence_24749
+24749_5	attr	24749_2
+24749_5	has_surface_form	university
+24749_4	is_in_sentence	sentence_24749
+24749_4	amod	24749_5
+24749_4	has_surface_form	private
+24749_6	is_in_sentence	sentence_24749
+24749_6	prep	24749_5
+24749_6	has_surface_form	in
+24749_7	is_in_sentence	sentence_24749
+24749_7	pobj	24749_6
+24749_7	is_entity	Tbilisi
+Tbilisi	surface_form	Tbilisi
+24749_8	is_in_sentence	sentence_24749
+24749_8	punct	24749_7
+24749_8	has_surface_form	,
+24749_9	is_in_sentence	sentence_24749
+24749_9	appos	24749_7
+24749_9	has_surface_form	Georgia
+24749_10	is_in_sentence	sentence_24749
+24749_10	punct	24749_2
+24749_10	has_surface_form	.
+24749_11	is_in_sentence	sentence_24749
+24749_11	dep	24749_2
+24749_11	has_surface_form	
+Caucasus University	surface_form	Caucasus University
+Caucasus University	is-where	Tbilisi

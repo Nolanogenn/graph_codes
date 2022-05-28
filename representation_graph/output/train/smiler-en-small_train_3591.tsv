@@ -1,0 +1,109 @@
+3590_0	is_in_sentence	sentence_3590
+3590_0	compound	3590_1
+3590_0	has_surface_form	Andrew
+3590_0	part_of_entity	Andrew Tolman
+3590_1	is_in_sentence	sentence_3590
+3590_1	nsubj	3590_9
+3590_1	has_surface_form	Tolman
+3590_1	part_of_entity	Andrew Tolman
+3590_9	is_in_sentence	sentence_3590
+3590_9	ROOT	3590_9
+3590_9	has_surface_form	is
+3590_2	is_in_sentence	sentence_3590
+3590_2	punct	3590_3
+3590_2	has_surface_form	(
+3590_3	is_in_sentence	sentence_3590
+3590_3	acl	3590_1
+3590_3	has_surface_form	born
+3590_4	is_in_sentence	sentence_3590
+3590_4	npadvmod	3590_3
+3590_4	has_surface_form	January
+3590_5	is_in_sentence	sentence_3590
+3590_5	nummod	3590_4
+3590_5	has_surface_form	9
+3590_6	is_in_sentence	sentence_3590
+3590_6	punct	3590_4
+3590_6	has_surface_form	,
+3590_7	is_in_sentence	sentence_3590
+3590_7	nummod	3590_4
+3590_7	has_surface_form	1986
+3590_8	is_in_sentence	sentence_3590
+3590_8	punct	3590_3
+3590_8	has_surface_form	)
+3590_10	is_in_sentence	sentence_3590
+3590_10	det	3590_13
+3590_10	has_surface_form	an
+3590_13	is_in_sentence	sentence_3590
+3590_13	attr	3590_9
+3590_13	has_surface_form	musician
+3590_11	is_in_sentence	sentence_3590
+3590_11	amod	3590_13
+3590_11	has_surface_form	American
+3590_12	is_in_sentence	sentence_3590
+3590_12	compound	3590_13
+3590_12	has_surface_form	studio
+3590_14	is_in_sentence	sentence_3590
+3590_14	cc	3590_13
+3590_14	has_surface_form	and
+3590_15	is_in_sentence	sentence_3590
+3590_15	conj	3590_13
+3590_15	has_surface_form	songwriter
+3590_16	is_in_sentence	sentence_3590
+3590_16	punct	3590_9
+3590_16	has_surface_form	.
+3590_17	is_in_sentence	sentence_3590
+3590_17	nsubj	3590_18
+3590_17	has_surface_form	He
+3590_18	is_in_sentence	sentence_3590
+3590_18	ROOT	3590_18
+3590_18	has_surface_form	is
+3590_19	is_in_sentence	sentence_3590
+3590_19	det	3590_20
+3590_19	has_surface_form	a
+3590_20	is_in_sentence	sentence_3590
+3590_20	attr	3590_18
+3590_20	has_surface_form	member
+3590_21	is_in_sentence	sentence_3590
+3590_21	prep	3590_20
+3590_21	has_surface_form	of
+3590_22	is_in_sentence	sentence_3590
+3590_22	det	3590_25
+3590_22	has_surface_form	the
+3590_25	is_in_sentence	sentence_3590
+3590_25	pobj	3590_21
+3590_25	has_surface_form	band
+3590_23	is_in_sentence	sentence_3590
+3590_23	compound	3590_25
+3590_23	has_surface_form	cult
+3590_24	is_in_sentence	sentence_3590
+3590_24	compound	3590_25
+3590_24	has_surface_form	club
+3590_26	is_in_sentence	sentence_3590
+3590_26	det	3590_27
+3590_26	has_surface_form	The
+3590_26	part_of_entity	The Moth & The Flame
+3590_27	is_in_sentence	sentence_3590
+3590_27	conj	3590_20
+3590_27	has_surface_form	Moth
+3590_27	part_of_entity	The Moth & The Flame
+3590_28	is_in_sentence	sentence_3590
+3590_28	cc	3590_27
+3590_28	has_surface_form	&
+3590_28	part_of_entity	The Moth & The Flame
+3590_29	is_in_sentence	sentence_3590
+3590_29	det	3590_30
+3590_29	has_surface_form	The
+3590_29	part_of_entity	The Moth & The Flame
+3590_30	is_in_sentence	sentence_3590
+3590_30	conj	3590_27
+3590_30	has_surface_form	Flame
+3590_30	part_of_entity	The Moth & The Flame
+3590_31	is_in_sentence	sentence_3590
+3590_31	punct	3590_18
+3590_31	has_surface_form	.
+3590_32	is_in_sentence	sentence_3590
+3590_32	dep	3590_18
+3590_32	has_surface_form	
+Andrew Tolman	surface_form	Andrew Tolman
+Andrew Tolman	is-member-of	The Moth & The Flame
+The Moth & The Flame	surface_form	The Moth & The Flame

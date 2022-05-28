@@ -1,0 +1,53 @@
+2006_0	is_in_sentence	sentence_2006
+2006_0	compound	2006_2
+2006_0	has_surface_form	Bourne
+2006_0	part_of_entity	Bourne United Charities
+2006_2	is_in_sentence	sentence_2006
+2006_2	nsubjpass	2006_4
+2006_2	has_surface_form	Charities
+2006_2	part_of_entity	Bourne United Charities
+2006_1	is_in_sentence	sentence_2006
+2006_1	compound	2006_2
+2006_1	has_surface_form	United
+2006_1	part_of_entity	Bourne United Charities
+2006_4	is_in_sentence	sentence_2006
+2006_4	ROOT	2006_4
+2006_4	has_surface_form	registered
+2006_3	is_in_sentence	sentence_2006
+2006_3	auxpass	2006_4
+2006_3	has_surface_form	is
+2006_5	is_in_sentence	sentence_2006
+2006_5	prep	2006_4
+2006_5	has_surface_form	with
+2006_6	is_in_sentence	sentence_2006
+2006_6	det	2006_8
+2006_6	has_surface_form	the
+2006_8	is_in_sentence	sentence_2006
+2006_8	pobj	2006_5
+2006_8	has_surface_form	Commission
+2006_8	part_of_entity	Charity Commission
+2006_7	is_in_sentence	sentence_2006
+2006_7	compound	2006_8
+2006_7	has_surface_form	Charity
+2006_7	part_of_entity	Charity Commission
+2006_9	is_in_sentence	sentence_2006
+2006_9	prep	2006_8
+2006_9	has_surface_form	for
+2006_10	is_in_sentence	sentence_2006
+2006_10	pobj	2006_9
+2006_10	has_surface_form	England
+2006_11	is_in_sentence	sentence_2006
+2006_11	cc	2006_10
+2006_11	has_surface_form	and
+2006_12	is_in_sentence	sentence_2006
+2006_12	conj	2006_10
+2006_12	has_surface_form	Wales
+2006_13	is_in_sentence	sentence_2006
+2006_13	punct	2006_4
+2006_13	has_surface_form	.
+2006_14	is_in_sentence	sentence_2006
+2006_14	dep	2006_4
+2006_14	has_surface_form	
+Bourne United Charities	surface_form	Bourne United Charities
+Bourne United Charities	has-type	Charity Commission
+Charity Commission	surface_form	Charity Commission

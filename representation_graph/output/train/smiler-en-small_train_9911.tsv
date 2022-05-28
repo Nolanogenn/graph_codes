@@ -1,0 +1,82 @@
+9910_0	is_in_sentence	sentence_9910
+9910_0	csubj	9910_4
+9910_0	has_surface_form	Be
+9910_0	part_of_entity	Be Our Guest Restaurant
+9910_4	is_in_sentence	sentence_9910
+9910_4	ROOT	9910_4
+9910_4	has_surface_form	is
+9910_1	is_in_sentence	sentence_9910
+9910_1	poss	9910_3
+9910_1	has_surface_form	Our
+9910_1	part_of_entity	Be Our Guest Restaurant
+9910_3	is_in_sentence	sentence_9910
+9910_3	attr	9910_0
+9910_3	has_surface_form	Restaurant
+9910_3	part_of_entity	Be Our Guest Restaurant
+9910_2	is_in_sentence	sentence_9910
+9910_2	compound	9910_3
+9910_2	has_surface_form	Guest
+9910_2	part_of_entity	Be Our Guest Restaurant
+9910_5	is_in_sentence	sentence_9910
+9910_5	det	9910_11
+9910_5	has_surface_form	a
+9910_11	is_in_sentence	sentence_9910
+9910_11	attr	9910_4
+9910_11	is_entity	restaurant
+9910_6	is_in_sentence	sentence_9910
+9910_6	amod	9910_11
+9910_6	has_surface_form	quick
+9910_7	is_in_sentence	sentence_9910
+9910_7	nmod	9910_11
+9910_7	has_surface_form	service
+9910_8	is_in_sentence	sentence_9910
+9910_8	cc	9910_7
+9910_8	has_surface_form	and
+9910_9	is_in_sentence	sentence_9910
+9910_9	conj	9910_7
+9910_9	has_surface_form	table
+9910_10	is_in_sentence	sentence_9910
+9910_10	compound	9910_11
+9910_10	has_surface_form	service
+restaurant	surface_form	restaurant
+9910_12	is_in_sentence	sentence_9910
+9910_12	prep	9910_11
+9910_12	has_surface_form	in
+9910_13	is_in_sentence	sentence_9910
+9910_13	pobj	9910_12
+9910_13	has_surface_form	Fantasyland
+9910_14	is_in_sentence	sentence_9910
+9910_14	prep	9910_11
+9910_14	has_surface_form	at
+9910_15	is_in_sentence	sentence_9910
+9910_15	compound	9910_16
+9910_15	has_surface_form	Magic
+9910_16	is_in_sentence	sentence_9910
+9910_16	pobj	9910_14
+9910_16	has_surface_form	Kingdom
+9910_17	is_in_sentence	sentence_9910
+9910_17	prep	9910_16
+9910_17	has_surface_form	in
+9910_18	is_in_sentence	sentence_9910
+9910_18	det	9910_22
+9910_18	has_surface_form	the
+9910_22	is_in_sentence	sentence_9910
+9910_22	pobj	9910_17
+9910_22	has_surface_form	Resort
+9910_19	is_in_sentence	sentence_9910
+9910_19	compound	9910_20
+9910_19	has_surface_form	Walt
+9910_20	is_in_sentence	sentence_9910
+9910_20	compound	9910_22
+9910_20	has_surface_form	Disney
+9910_21	is_in_sentence	sentence_9910
+9910_21	compound	9910_22
+9910_21	has_surface_form	World
+9910_23	is_in_sentence	sentence_9910
+9910_23	punct	9910_4
+9910_23	has_surface_form	.
+9910_24	is_in_sentence	sentence_9910
+9910_24	dep	9910_24
+9910_24	has_surface_form	
+Be Our Guest Restaurant	surface_form	Be Our Guest Restaurant
+Be Our Guest Restaurant	has-type	restaurant

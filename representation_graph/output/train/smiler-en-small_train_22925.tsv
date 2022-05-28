@@ -1,0 +1,74 @@
+22924_0	is_in_sentence	sentence_22924
+22924_0	det	22924_2
+22924_0	has_surface_form	A
+22924_0	part_of_entity	A Brony Tale
+22924_2	is_in_sentence	sentence_22924
+22924_2	nsubj	22924_8
+22924_2	has_surface_form	Tale
+22924_2	part_of_entity	A Brony Tale
+22924_1	is_in_sentence	sentence_22924
+22924_1	compound	22924_2
+22924_1	has_surface_form	Brony
+22924_1	part_of_entity	A Brony Tale
+22924_8	is_in_sentence	sentence_22924
+22924_8	ROOT	22924_8
+22924_8	has_surface_form	is
+22924_3	is_in_sentence	sentence_22924
+22924_3	punct	22924_2
+22924_3	has_surface_form	(
+22924_4	is_in_sentence	sentence_22924
+22924_4	advmod	22924_5
+22924_4	has_surface_form	originally
+22924_5	is_in_sentence	sentence_22924
+22924_5	acl	22924_2
+22924_5	has_surface_form	titled
+22924_6	is_in_sentence	sentence_22924
+22924_6	oprd	22924_5
+22924_6	has_surface_form	Brony
+22924_7	is_in_sentence	sentence_22924
+22924_7	punct	22924_2
+22924_7	has_surface_form	)
+22924_9	is_in_sentence	sentence_22924
+22924_9	det	22924_15
+22924_9	has_surface_form	a
+22924_15	is_in_sentence	sentence_22924
+22924_15	attr	22924_8
+22924_15	has_surface_form	film
+22924_10	is_in_sentence	sentence_22924
+22924_10	nummod	22924_15
+22924_10	has_surface_form	2014
+22924_11	is_in_sentence	sentence_22924
+22924_11	amod	22924_13
+22924_11	has_surface_form	Canadian
+22924_13	is_in_sentence	sentence_22924
+22924_13	amod	22924_15
+22924_13	has_surface_form	American
+22924_12	is_in_sentence	sentence_22924
+22924_12	punct	22924_13
+22924_12	has_surface_form	-
+22924_14	is_in_sentence	sentence_22924
+22924_14	compound	22924_15
+22924_14	has_surface_form	documentary
+22924_16	is_in_sentence	sentence_22924
+22924_16	acl	22924_15
+22924_16	has_surface_form	directed
+22924_17	is_in_sentence	sentence_22924
+22924_17	agent	22924_16
+22924_17	has_surface_form	by
+22924_18	is_in_sentence	sentence_22924
+22924_18	compound	22924_19
+22924_18	has_surface_form	Brent
+22924_18	part_of_entity	Brent Hodge
+22924_19	is_in_sentence	sentence_22924
+22924_19	pobj	22924_17
+22924_19	has_surface_form	Hodge
+22924_19	part_of_entity	Brent Hodge
+22924_20	is_in_sentence	sentence_22924
+22924_20	punct	22924_8
+22924_20	has_surface_form	.
+22924_21	is_in_sentence	sentence_22924
+22924_21	dep	22924_8
+22924_21	has_surface_form	
+A Brony Tale	surface_form	A Brony Tale
+A Brony Tale	movie-has-director	Brent Hodge
+Brent Hodge	surface_form	Brent Hodge

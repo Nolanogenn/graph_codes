@@ -1,0 +1,79 @@
+22336_0	is_in_sentence	sentence_22336
+22336_0	det	22336_1
+22336_0	has_surface_form	The
+22336_0	part_of_entity	The Secret of the Desert
+22336_1	is_in_sentence	sentence_22336
+22336_1	nsubj	22336_11
+22336_1	has_surface_form	Secret
+22336_1	part_of_entity	The Secret of the Desert
+22336_11	is_in_sentence	sentence_22336
+22336_11	ROOT	22336_11
+22336_11	has_surface_form	is
+22336_2	is_in_sentence	sentence_22336
+22336_2	prep	22336_1
+22336_2	has_surface_form	of
+22336_2	part_of_entity	The Secret of the Desert
+22336_3	is_in_sentence	sentence_22336
+22336_3	det	22336_4
+22336_3	has_surface_form	the
+22336_3	part_of_entity	The Secret of the Desert
+22336_4	is_in_sentence	sentence_22336
+22336_4	pobj	22336_2
+22336_4	has_surface_form	Desert
+22336_4	part_of_entity	The Secret of the Desert
+22336_5	is_in_sentence	sentence_22336
+22336_5	punct	22336_6
+22336_5	has_surface_form	(
+22336_6	is_in_sentence	sentence_22336
+22336_6	appos	22336_1
+22336_6	has_surface_form	Danish
+22336_7	is_in_sentence	sentence_22336
+22336_7	punct	22336_6
+22336_7	has_surface_form	:
+22336_8	is_in_sentence	sentence_22336
+22336_8	compound	22336_9
+22336_8	has_surface_form	Sfinxenx
+22336_9	is_in_sentence	sentence_22336
+22336_9	appos	22336_6
+22336_9	has_surface_form	Hemmelighed
+22336_10	is_in_sentence	sentence_22336
+22336_10	punct	22336_6
+22336_10	has_surface_form	)
+22336_12	is_in_sentence	sentence_22336
+22336_12	det	22336_16
+22336_12	has_surface_form	a
+22336_16	is_in_sentence	sentence_22336
+22336_16	attr	22336_11
+22336_16	has_surface_form	film
+22336_13	is_in_sentence	sentence_22336
+22336_13	nummod	22336_16
+22336_13	has_surface_form	1918
+22336_14	is_in_sentence	sentence_22336
+22336_14	amod	22336_16
+22336_14	has_surface_form	Danish
+22336_15	is_in_sentence	sentence_22336
+22336_15	amod	22336_16
+22336_15	has_surface_form	silent
+22336_17	is_in_sentence	sentence_22336
+22336_17	acl	22336_16
+22336_17	has_surface_form	directed
+22336_18	is_in_sentence	sentence_22336
+22336_18	agent	22336_17
+22336_18	has_surface_form	by
+22336_19	is_in_sentence	sentence_22336
+22336_19	compound	22336_20
+22336_19	has_surface_form	Robert
+22336_19	part_of_entity	Robert Dinesen
+22336_20	is_in_sentence	sentence_22336
+22336_20	pobj	22336_18
+22336_20	has_surface_form	Dinesen
+22336_20	part_of_entity	Robert Dinesen
+22336_21	is_in_sentence	sentence_22336
+22336_21	punct	22336_11
+22336_21	has_surface_form	.
+22336_22	is_in_sentence	sentence_22336
+22336_22	dep	22336_11
+22336_22	has_surface_form	
+The Secret of the Desert	surface_form	The Secret of the Desert
+The Secret of the Desert	movie-has-director	Robert Dinesen
+Robert Dinesen	surface_form	Robert Dinesen

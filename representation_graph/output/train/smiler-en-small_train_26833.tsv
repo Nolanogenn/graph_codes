@@ -1,0 +1,54 @@
+26832_0	is_in_sentence	sentence_26832
+26832_0	compound	26832_1
+26832_0	has_surface_form	Sindura
+26832_0	part_of_entity	Sindura Nuhein Khela Ghara
+26832_1	is_in_sentence	sentence_26832
+26832_1	compound	26832_3
+26832_1	has_surface_form	Nuhein
+26832_1	part_of_entity	Sindura Nuhein Khela Ghara
+26832_3	is_in_sentence	sentence_26832
+26832_3	nsubj	26832_4
+26832_3	has_surface_form	Ghara
+26832_3	part_of_entity	Sindura Nuhein Khela Ghara
+26832_2	is_in_sentence	sentence_26832
+26832_2	compound	26832_3
+26832_2	has_surface_form	Khela
+26832_2	part_of_entity	Sindura Nuhein Khela Ghara
+26832_4	is_in_sentence	sentence_26832
+26832_4	ROOT	26832_4
+26832_4	has_surface_form	is
+26832_5	is_in_sentence	sentence_26832
+26832_5	det	26832_8
+26832_5	has_surface_form	a
+26832_8	is_in_sentence	sentence_26832
+26832_8	attr	26832_4
+26832_8	has_surface_form	film
+26832_6	is_in_sentence	sentence_26832
+26832_6	nummod	26832_8
+26832_6	has_surface_form	2002
+26832_7	is_in_sentence	sentence_26832
+26832_7	compound	26832_8
+26832_7	has_surface_form	Odia
+26832_9	is_in_sentence	sentence_26832
+26832_9	acl	26832_8
+26832_9	has_surface_form	directed
+26832_10	is_in_sentence	sentence_26832
+26832_10	agent	26832_9
+26832_10	has_surface_form	by
+26832_11	is_in_sentence	sentence_26832
+26832_11	compound	26832_12
+26832_11	has_surface_form	Rabi
+26832_11	part_of_entity	Rabi Kinagi
+26832_12	is_in_sentence	sentence_26832
+26832_12	pobj	26832_10
+26832_12	has_surface_form	Kinagi
+26832_12	part_of_entity	Rabi Kinagi
+26832_13	is_in_sentence	sentence_26832
+26832_13	punct	26832_4
+26832_13	has_surface_form	.
+26832_14	is_in_sentence	sentence_26832
+26832_14	dep	26832_4
+26832_14	has_surface_form	
+Sindura Nuhein Khela Ghara	surface_form	Sindura Nuhein Khela Ghara
+Sindura Nuhein Khela Ghara	movie-has-director	Rabi Kinagi
+Rabi Kinagi	surface_form	Rabi Kinagi

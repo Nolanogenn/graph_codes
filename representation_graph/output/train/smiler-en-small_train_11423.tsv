@@ -1,0 +1,77 @@
+11422_0	is_in_sentence	sentence_11422
+11422_0	det	11422_3
+11422_0	has_surface_form	The
+11422_3	is_in_sentence	sentence_11422
+11422_3	nsubj	11422_4
+11422_3	has_surface_form	Company
+11422_1	is_in_sentence	sentence_11422
+11422_1	compound	11422_2
+11422_1	has_surface_form	Cannon
+11422_1	part_of_entity	Cannon Mills
+11422_2	is_in_sentence	sentence_11422
+11422_2	compound	11422_3
+11422_2	has_surface_form	Mills
+11422_2	part_of_entity	Cannon Mills
+11422_4	is_in_sentence	sentence_11422
+11422_4	ROOT	11422_4
+11422_4	has_surface_form	was
+11422_5	is_in_sentence	sentence_11422
+11422_5	det	11422_8
+11422_5	has_surface_form	an
+11422_8	is_in_sentence	sentence_11422
+11422_8	attr	11422_4
+11422_8	has_surface_form	company
+11422_6	is_in_sentence	sentence_11422
+11422_6	amod	11422_8
+11422_6	has_surface_form	American
+11422_7	is_in_sentence	sentence_11422
+11422_7	compound	11422_8
+11422_7	has_surface_form	textile
+11422_9	is_in_sentence	sentence_11422
+11422_9	acl	11422_8
+11422_9	has_surface_form	founded
+11422_10	is_in_sentence	sentence_11422
+11422_10	agent	11422_9
+11422_10	has_surface_form	by
+11422_11	is_in_sentence	sentence_11422
+11422_11	compound	11422_13
+11422_11	has_surface_form	James
+11422_11	part_of_entity	James William Cannon
+11422_13	is_in_sentence	sentence_11422
+11422_13	pobj	11422_10
+11422_13	has_surface_form	Cannon
+11422_13	part_of_entity	James William Cannon
+11422_12	is_in_sentence	sentence_11422
+11422_12	compound	11422_13
+11422_12	has_surface_form	William
+11422_12	part_of_entity	James William Cannon
+11422_14	is_in_sentence	sentence_11422
+11422_14	punct	11422_13
+11422_14	has_surface_form	,
+11422_15	is_in_sentence	sentence_11422
+11422_15	acl	11422_13
+11422_15	has_surface_form	based
+11422_16	is_in_sentence	sentence_11422
+11422_16	prep	11422_15
+11422_16	has_surface_form	in
+11422_17	is_in_sentence	sentence_11422
+11422_17	pobj	11422_16
+11422_17	has_surface_form	Kannapolis
+11422_18	is_in_sentence	sentence_11422
+11422_18	punct	11422_17
+11422_18	has_surface_form	,
+11422_19	is_in_sentence	sentence_11422
+11422_19	compound	11422_20
+11422_19	has_surface_form	North
+11422_20	is_in_sentence	sentence_11422
+11422_20	appos	11422_17
+11422_20	has_surface_form	Carolina
+11422_21	is_in_sentence	sentence_11422
+11422_21	punct	11422_4
+11422_21	has_surface_form	.
+11422_22	is_in_sentence	sentence_11422
+11422_22	dep	11422_4
+11422_22	has_surface_form	
+Cannon Mills	surface_form	Cannon Mills
+Cannon Mills	org-has-founder	James William Cannon
+James William Cannon	surface_form	James William Cannon

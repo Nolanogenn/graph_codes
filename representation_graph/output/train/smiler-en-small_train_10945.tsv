@@ -1,0 +1,73 @@
+10944_0	is_in_sentence	sentence_10944
+10944_0	compound	10944_1
+10944_0	has_surface_form	Mexican
+10944_0	part_of_entity	Mexican Spitfire Sees a Ghost
+10944_1	is_in_sentence	sentence_10944
+10944_1	nsubj	10944_2
+10944_1	has_surface_form	Spitfire
+10944_1	part_of_entity	Mexican Spitfire Sees a Ghost
+10944_2	is_in_sentence	sentence_10944
+10944_2	ROOT	10944_2
+10944_2	has_surface_form	Sees
+10944_2	part_of_entity	Mexican Spitfire Sees a Ghost
+10944_3	is_in_sentence	sentence_10944
+10944_3	det	10944_4
+10944_3	has_surface_form	a
+10944_3	part_of_entity	Mexican Spitfire Sees a Ghost
+10944_4	is_in_sentence	sentence_10944
+10944_4	nsubj	10944_5
+10944_4	has_surface_form	Ghost
+10944_4	part_of_entity	Mexican Spitfire Sees a Ghost
+10944_5	is_in_sentence	sentence_10944
+10944_5	ccomp	10944_2
+10944_5	has_surface_form	is
+10944_6	is_in_sentence	sentence_10944
+10944_6	det	10944_10
+10944_6	has_surface_form	a
+10944_10	is_in_sentence	sentence_10944
+10944_10	attr	10944_5
+10944_10	has_surface_form	film
+10944_7	is_in_sentence	sentence_10944
+10944_7	nummod	10944_10
+10944_7	has_surface_form	1942
+10944_8	is_in_sentence	sentence_10944
+10944_8	amod	10944_10
+10944_8	has_surface_form	American
+10944_9	is_in_sentence	sentence_10944
+10944_9	compound	10944_10
+10944_9	has_surface_form	comedy
+10944_11	is_in_sentence	sentence_10944
+10944_11	acl	10944_10
+10944_11	has_surface_form	directed
+10944_12	is_in_sentence	sentence_10944
+10944_12	agent	10944_11
+10944_12	has_surface_form	by
+10944_13	is_in_sentence	sentence_10944
+10944_13	compound	10944_14
+10944_13	has_surface_form	Leslie
+10944_13	part_of_entity	Leslie Goodwins
+10944_14	is_in_sentence	sentence_10944
+10944_14	pobj	10944_12
+10944_14	has_surface_form	Goodwins
+10944_14	part_of_entity	Leslie Goodwins
+10944_15	is_in_sentence	sentence_10944
+10944_15	cc	10944_11
+10944_15	has_surface_form	and
+10944_16	is_in_sentence	sentence_10944
+10944_16	conj	10944_11
+10944_16	has_surface_form	written
+10944_17	is_in_sentence	sentence_10944
+10944_17	agent	10944_16
+10944_17	has_surface_form	by
+10944_18	is_in_sentence	sentence_10944
+10944_18	compound	10944_20
+10944_18	has_surface_form	Charles
+10944_20	is_in_sentence	sentence_10944
+10944_20	dep	10944_17
+10944_20	has_surface_form	
+10944_19	is_in_sentence	sentence_10944
+10944_19	compound	10944_20
+10944_19	has_surface_form	E.
+Mexican Spitfire Sees a Ghost	surface_form	Mexican Spitfire Sees a Ghost
+Mexican Spitfire Sees a Ghost	movie-has-director	Leslie Goodwins
+Leslie Goodwins	surface_form	Leslie Goodwins

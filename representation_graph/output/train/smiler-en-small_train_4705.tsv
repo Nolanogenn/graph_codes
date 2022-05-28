@@ -1,0 +1,125 @@
+4704_0	is_in_sentence	sentence_4704
+4704_0	det	4704_1
+4704_0	has_surface_form	The
+4704_0	part_of_entity	The General in Red Robes
+4704_1	is_in_sentence	sentence_4704
+4704_1	nsubj	4704_12
+4704_1	has_surface_form	General
+4704_1	part_of_entity	The General in Red Robes
+4704_12	is_in_sentence	sentence_4704
+4704_12	ROOT	4704_12
+4704_12	has_surface_form	is
+4704_2	is_in_sentence	sentence_4704
+4704_2	prep	4704_1
+4704_2	has_surface_form	in
+4704_2	part_of_entity	The General in Red Robes
+4704_3	is_in_sentence	sentence_4704
+4704_3	compound	4704_4
+4704_3	has_surface_form	Red
+4704_3	part_of_entity	The General in Red Robes
+4704_4	is_in_sentence	sentence_4704
+4704_4	pobj	4704_2
+4704_4	has_surface_form	Robes
+4704_4	part_of_entity	The General in Red Robes
+4704_5	is_in_sentence	sentence_4704
+4704_5	punct	4704_4
+4704_5	has_surface_form	(
+4704_6	is_in_sentence	sentence_4704
+4704_6	intj	4704_4
+4704_6	has_surface_form	홍의
+4704_7	is_in_sentence	sentence_4704
+4704_7	compound	4704_9
+4704_7	has_surface_form	장군
+4704_9	is_in_sentence	sentence_4704
+4704_9	compound	4704_10
+4704_9	has_surface_form	Hongui
+4704_8	is_in_sentence	sentence_4704
+4704_8	punct	4704_9
+4704_8	has_surface_form	-
+4704_10	is_in_sentence	sentence_4704
+4704_10	appos	4704_4
+4704_10	has_surface_form	janggun
+4704_11	is_in_sentence	sentence_4704
+4704_11	punct	4704_1
+4704_11	has_surface_form	)
+4704_13	is_in_sentence	sentence_4704
+4704_13	det	4704_17
+4704_13	has_surface_form	a
+4704_17	is_in_sentence	sentence_4704
+4704_17	attr	4704_12
+4704_17	has_surface_form	film
+4704_14	is_in_sentence	sentence_4704
+4704_14	nummod	4704_17
+4704_14	has_surface_form	1973
+4704_15	is_in_sentence	sentence_4704
+4704_15	amod	4704_16
+4704_15	has_surface_form	South
+4704_16	is_in_sentence	sentence_4704
+4704_16	amod	4704_17
+4704_16	has_surface_form	Korean
+4704_18	is_in_sentence	sentence_4704
+4704_18	acl	4704_17
+4704_18	has_surface_form	directed
+4704_19	is_in_sentence	sentence_4704
+4704_19	agent	4704_18
+4704_19	has_surface_form	by
+4704_20	is_in_sentence	sentence_4704
+4704_20	compound	4704_23
+4704_20	has_surface_form	Lee
+4704_23	is_in_sentence	sentence_4704
+4704_23	pobj	4704_19
+4704_23	has_surface_form	yong
+4704_21	is_in_sentence	sentence_4704
+4704_21	compound	4704_23
+4704_21	has_surface_form	Doo
+4704_22	is_in_sentence	sentence_4704
+4704_22	punct	4704_23
+4704_22	has_surface_form	-
+4704_24	is_in_sentence	sentence_4704
+4704_24	punct	4704_12
+4704_24	has_surface_form	.
+4704_25	is_in_sentence	sentence_4704
+4704_25	nsubjpass	4704_27
+4704_25	has_surface_form	It
+4704_27	is_in_sentence	sentence_4704
+4704_27	ROOT	4704_27
+4704_27	has_surface_form	awarded
+4704_26	is_in_sentence	sentence_4704
+4704_26	auxpass	4704_27
+4704_26	has_surface_form	was
+4704_28	is_in_sentence	sentence_4704
+4704_28	compound	4704_29
+4704_28	has_surface_form	Best
+4704_29	is_in_sentence	sentence_4704
+4704_29	dobj	4704_27
+4704_29	has_surface_form	Film
+4704_30	is_in_sentence	sentence_4704
+4704_30	prep	4704_27
+4704_30	has_surface_form	at
+4704_31	is_in_sentence	sentence_4704
+4704_31	det	4704_35
+4704_31	has_surface_form	the
+4704_35	is_in_sentence	sentence_4704
+4704_35	pobj	4704_30
+4704_35	has_surface_form	ceremony
+4704_32	is_in_sentence	sentence_4704
+4704_32	compound	4704_33
+4704_32	has_surface_form	Grand
+4704_32	part_of_entity	Grand Bell Awards
+4704_33	is_in_sentence	sentence_4704
+4704_33	compound	4704_34
+4704_33	has_surface_form	Bell
+4704_33	part_of_entity	Grand Bell Awards
+4704_34	is_in_sentence	sentence_4704
+4704_34	compound	4704_35
+4704_34	has_surface_form	Awards
+4704_34	part_of_entity	Grand Bell Awards
+4704_36	is_in_sentence	sentence_4704
+4704_36	punct	4704_27
+4704_36	has_surface_form	.
+4704_37	is_in_sentence	sentence_4704
+4704_37	dep	4704_37
+4704_37	has_surface_form	
+The General in Red Robes	surface_form	The General in Red Robes
+The General in Red Robes	won-award	Grand Bell Awards
+Grand Bell Awards	surface_form	Grand Bell Awards

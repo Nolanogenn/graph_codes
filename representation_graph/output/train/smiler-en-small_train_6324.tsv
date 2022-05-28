@@ -1,0 +1,60 @@
+6323_0	is_in_sentence	sentence_6323
+6323_0	compound	6323_1
+6323_0	has_surface_form	Jocelyn
+6323_0	part_of_entity	Jocelyn Osorio Alvarez
+6323_1	is_in_sentence	sentence_6323
+6323_1	compound	6323_2
+6323_1	has_surface_form	Osorio
+6323_1	part_of_entity	Jocelyn Osorio Alvarez
+6323_2	is_in_sentence	sentence_6323
+6323_2	nsubj	6323_10
+6323_2	has_surface_form	Alvarez
+6323_2	part_of_entity	Jocelyn Osorio Alvarez
+6323_10	is_in_sentence	sentence_6323
+6323_10	ROOT	6323_10
+6323_10	has_surface_form	is
+6323_3	is_in_sentence	sentence_6323
+6323_3	punct	6323_2
+6323_3	has_surface_form	(
+6323_4	is_in_sentence	sentence_6323
+6323_4	acl	6323_2
+6323_4	has_surface_form	born
+6323_5	is_in_sentence	sentence_6323
+6323_5	prep	6323_4
+6323_5	has_surface_form	in
+6323_6	is_in_sentence	sentence_6323
+6323_6	pobj	6323_5
+6323_6	is_entity	Iquique
+Iquique	surface_form	Iquique
+6323_7	is_in_sentence	sentence_6323
+6323_7	punct	6323_6
+6323_7	has_surface_form	,
+6323_8	is_in_sentence	sentence_6323
+6323_8	appos	6323_6
+6323_8	has_surface_form	Chile
+6323_9	is_in_sentence	sentence_6323
+6323_9	punct	6323_6
+6323_9	has_surface_form	)
+6323_11	is_in_sentence	sentence_6323
+6323_11	det	6323_13
+6323_11	has_surface_form	a
+6323_13	is_in_sentence	sentence_6323
+6323_13	attr	6323_10
+6323_13	has_surface_form	Actress
+6323_12	is_in_sentence	sentence_6323
+6323_12	compound	6323_13
+6323_12	has_surface_form	Chilean
+6323_14	is_in_sentence	sentence_6323
+6323_14	cc	6323_13
+6323_14	has_surface_form	and
+6323_15	is_in_sentence	sentence_6323
+6323_15	conj	6323_13
+6323_15	has_surface_form	model
+6323_16	is_in_sentence	sentence_6323
+6323_16	punct	6323_10
+6323_16	has_surface_form	.
+6323_17	is_in_sentence	sentence_6323
+6323_17	dep	6323_17
+6323_17	has_surface_form	
+Jocelyn Osorio Alvarez	surface_form	Jocelyn Osorio Alvarez
+Jocelyn Osorio Alvarez	birth-place	Iquique

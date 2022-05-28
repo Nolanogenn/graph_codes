@@ -1,0 +1,65 @@
+19055_0	is_in_sentence	sentence_19055
+19055_0	compound	19055_1
+19055_0	has_surface_form	Carmelo
+19055_0	part_of_entity	Carmelo Mancuso
+19055_1	is_in_sentence	sentence_19055
+19055_1	nsubj	19055_11
+19055_1	has_surface_form	Mancuso
+19055_1	part_of_entity	Carmelo Mancuso
+19055_11	is_in_sentence	sentence_19055
+19055_11	ROOT	19055_11
+19055_11	has_surface_form	is
+19055_2	is_in_sentence	sentence_19055
+19055_2	punct	19055_1
+19055_2	has_surface_form	(
+19055_3	is_in_sentence	sentence_19055
+19055_3	acl	19055_1
+19055_3	has_surface_form	born
+19055_4	is_in_sentence	sentence_19055
+19055_4	npadvmod	19055_3
+19055_4	has_surface_form	October
+19055_5	is_in_sentence	sentence_19055
+19055_5	nummod	19055_4
+19055_5	has_surface_form	3
+19055_6	is_in_sentence	sentence_19055
+19055_6	punct	19055_4
+19055_6	has_surface_form	,
+19055_7	is_in_sentence	sentence_19055
+19055_7	nummod	19055_4
+19055_7	has_surface_form	1965
+19055_8	is_in_sentence	sentence_19055
+19055_8	prep	19055_3
+19055_8	has_surface_form	in
+19055_9	is_in_sentence	sentence_19055
+19055_9	pobj	19055_8
+19055_9	is_entity	Palermo
+Palermo	surface_form	Palermo
+19055_10	is_in_sentence	sentence_19055
+19055_10	punct	19055_1
+19055_10	has_surface_form	)
+19055_12	is_in_sentence	sentence_19055
+19055_12	det	19055_17
+19055_12	has_surface_form	a
+19055_17	is_in_sentence	sentence_19055
+19055_17	attr	19055_11
+19055_17	has_surface_form	player
+19055_13	is_in_sentence	sentence_19055
+19055_13	amod	19055_17
+19055_13	has_surface_form	retired
+19055_14	is_in_sentence	sentence_19055
+19055_14	amod	19055_17
+19055_14	has_surface_form	Italian
+19055_15	is_in_sentence	sentence_19055
+19055_15	amod	19055_17
+19055_15	has_surface_form	professional
+19055_16	is_in_sentence	sentence_19055
+19055_16	compound	19055_17
+19055_16	has_surface_form	football
+19055_18	is_in_sentence	sentence_19055
+19055_18	punct	19055_11
+19055_18	has_surface_form	.
+19055_19	is_in_sentence	sentence_19055
+19055_19	dep	19055_19
+19055_19	has_surface_form	
+Carmelo Mancuso	surface_form	Carmelo Mancuso
+Carmelo Mancuso	birth-place	Palermo

@@ -1,0 +1,62 @@
+29642_0	is_in_sentence	sentence_29642
+29642_0	compound	29642_1
+29642_0	has_surface_form	Fearnhill
+29642_0	part_of_entity	Fearnhill School
+29642_1	is_in_sentence	sentence_29642
+29642_1	nsubj	29642_2
+29642_1	has_surface_form	School
+29642_1	part_of_entity	Fearnhill School
+29642_2	is_in_sentence	sentence_29642
+29642_2	ROOT	29642_2
+29642_2	has_surface_form	is
+29642_3	is_in_sentence	sentence_29642
+29642_3	det	29642_6
+29642_3	has_surface_form	a
+29642_6	is_in_sentence	sentence_29642
+29642_6	attr	29642_2
+29642_6	has_surface_form	school
+29642_4	is_in_sentence	sentence_29642
+29642_4	amod	29642_6
+29642_4	has_surface_form	mixed
+29642_5	is_in_sentence	sentence_29642
+29642_5	amod	29642_6
+29642_5	has_surface_form	secondary
+29642_7	is_in_sentence	sentence_29642
+29642_7	cc	29642_6
+29642_7	has_surface_form	and
+29642_8	is_in_sentence	sentence_29642
+29642_8	amod	29642_9
+29642_8	has_surface_form	sixth
+29642_9	is_in_sentence	sentence_29642
+29642_9	conj	29642_6
+29642_9	has_surface_form	form
+29642_10	is_in_sentence	sentence_29642
+29642_10	acl	29642_9
+29642_10	has_surface_form	located
+29642_11	is_in_sentence	sentence_29642
+29642_11	prep	29642_10
+29642_11	has_surface_form	in
+29642_12	is_in_sentence	sentence_29642
+29642_12	pobj	29642_11
+29642_12	is_entity	Letchworth
+Letchworth	surface_form	Letchworth
+29642_13	is_in_sentence	sentence_29642
+29642_13	punct	29642_12
+29642_13	has_surface_form	,
+29642_14	is_in_sentence	sentence_29642
+29642_14	conj	29642_12
+29642_14	has_surface_form	Hertfordshire
+29642_15	is_in_sentence	sentence_29642
+29642_15	punct	29642_14
+29642_15	has_surface_form	,
+29642_16	is_in_sentence	sentence_29642
+29642_16	npadvmod	29642_14
+29642_16	has_surface_form	England
+29642_17	is_in_sentence	sentence_29642
+29642_17	punct	29642_2
+29642_17	has_surface_form	.
+29642_18	is_in_sentence	sentence_29642
+29642_18	dep	29642_2
+29642_18	has_surface_form	
+Fearnhill School	surface_form	Fearnhill School
+Fearnhill School	is-where	Letchworth

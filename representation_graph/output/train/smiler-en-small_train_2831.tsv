@@ -1,0 +1,67 @@
+2830_0	is_in_sentence	sentence_2830
+2830_0	det	2830_1
+2830_0	has_surface_form	The
+2830_0	part_of_entity	The Sword of Monte Cristo
+2830_1	is_in_sentence	sentence_2830
+2830_1	nsubj	2830_5
+2830_1	has_surface_form	Sword
+2830_1	part_of_entity	The Sword of Monte Cristo
+2830_5	is_in_sentence	sentence_2830
+2830_5	ROOT	2830_5
+2830_5	has_surface_form	is
+2830_2	is_in_sentence	sentence_2830
+2830_2	prep	2830_1
+2830_2	has_surface_form	of
+2830_2	part_of_entity	The Sword of Monte Cristo
+2830_3	is_in_sentence	sentence_2830
+2830_3	compound	2830_4
+2830_3	has_surface_form	Monte
+2830_3	part_of_entity	The Sword of Monte Cristo
+2830_4	is_in_sentence	sentence_2830
+2830_4	pobj	2830_2
+2830_4	has_surface_form	Cristo
+2830_4	part_of_entity	The Sword of Monte Cristo
+2830_6	is_in_sentence	sentence_2830
+2830_6	det	2830_10
+2830_6	has_surface_form	a
+2830_10	is_in_sentence	sentence_2830
+2830_10	attr	2830_5
+2830_10	has_surface_form	film
+2830_7	is_in_sentence	sentence_2830
+2830_7	nummod	2830_10
+2830_7	has_surface_form	1951
+2830_8	is_in_sentence	sentence_2830
+2830_8	amod	2830_10
+2830_8	has_surface_form	American
+2830_9	is_in_sentence	sentence_2830
+2830_9	compound	2830_10
+2830_9	has_surface_form	adventure
+2830_11	is_in_sentence	sentence_2830
+2830_11	acl	2830_10
+2830_11	has_surface_form	written
+2830_12	is_in_sentence	sentence_2830
+2830_12	cc	2830_11
+2830_12	has_surface_form	and
+2830_13	is_in_sentence	sentence_2830
+2830_13	conj	2830_11
+2830_13	has_surface_form	directed
+2830_14	is_in_sentence	sentence_2830
+2830_14	agent	2830_13
+2830_14	has_surface_form	by
+2830_15	is_in_sentence	sentence_2830
+2830_15	compound	2830_16
+2830_15	has_surface_form	Maurice
+2830_15	part_of_entity	Maurice Geraghty
+2830_16	is_in_sentence	sentence_2830
+2830_16	pobj	2830_14
+2830_16	has_surface_form	Geraghty
+2830_16	part_of_entity	Maurice Geraghty
+2830_17	is_in_sentence	sentence_2830
+2830_17	punct	2830_5
+2830_17	has_surface_form	.
+2830_18	is_in_sentence	sentence_2830
+2830_18	dep	2830_18
+2830_18	has_surface_form	
+The Sword of Monte Cristo	surface_form	The Sword of Monte Cristo
+The Sword of Monte Cristo	movie-has-director	Maurice Geraghty
+Maurice Geraghty	surface_form	Maurice Geraghty

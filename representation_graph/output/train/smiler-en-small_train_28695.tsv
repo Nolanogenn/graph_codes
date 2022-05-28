@@ -1,0 +1,72 @@
+28694_0	is_in_sentence	sentence_28694
+28694_0	compound	28694_2
+28694_0	has_surface_form	Aston
+28694_0	part_of_entity	Aston Medical School
+28694_2	is_in_sentence	sentence_28694
+28694_2	nsubj	28694_6
+28694_2	has_surface_form	School
+28694_2	part_of_entity	Aston Medical School
+28694_1	is_in_sentence	sentence_28694
+28694_1	compound	28694_2
+28694_1	has_surface_form	Medical
+28694_1	part_of_entity	Aston Medical School
+28694_6	is_in_sentence	sentence_28694
+28694_6	ROOT	28694_6
+28694_6	has_surface_form	is
+28694_3	is_in_sentence	sentence_28694
+28694_3	punct	28694_2
+28694_3	has_surface_form	(
+28694_4	is_in_sentence	sentence_28694
+28694_4	appos	28694_2
+28694_4	has_surface_form	AMS
+28694_5	is_in_sentence	sentence_28694
+28694_5	punct	28694_2
+28694_5	has_surface_form	)
+28694_7	is_in_sentence	sentence_28694
+28694_7	det	28694_8
+28694_7	has_surface_form	a
+28694_8	is_in_sentence	sentence_28694
+28694_8	attr	28694_6
+28694_8	has_surface_form	school
+28694_9	is_in_sentence	sentence_28694
+28694_9	prep	28694_8
+28694_9	has_surface_form	within
+28694_10	is_in_sentence	sentence_28694
+28694_10	compound	28694_11
+28694_10	has_surface_form	Aston
+28694_11	is_in_sentence	sentence_28694
+28694_11	pobj	28694_9
+28694_11	has_surface_form	University
+28694_12	is_in_sentence	sentence_28694
+28694_12	punct	28694_11
+28694_12	has_surface_form	,
+28694_13	is_in_sentence	sentence_28694
+28694_13	acl	28694_11
+28694_13	has_surface_form	located
+28694_14	is_in_sentence	sentence_28694
+28694_14	prep	28694_13
+28694_14	has_surface_form	in
+28694_15	is_in_sentence	sentence_28694
+28694_15	compound	28694_17
+28694_15	is_entity	Birmingham
+28694_17	is_in_sentence	sentence_28694
+28694_17	pobj	28694_14
+28694_17	has_surface_form	centre
+Birmingham	surface_form	Birmingham
+28694_16	is_in_sentence	sentence_28694
+28694_16	compound	28694_17
+28694_16	has_surface_form	city
+28694_18	is_in_sentence	sentence_28694
+28694_18	punct	28694_17
+28694_18	has_surface_form	,
+28694_19	is_in_sentence	sentence_28694
+28694_19	appos	28694_17
+28694_19	has_surface_form	UK
+28694_20	is_in_sentence	sentence_28694
+28694_20	punct	28694_6
+28694_20	has_surface_form	.
+28694_21	is_in_sentence	sentence_28694
+28694_21	dep	28694_6
+28694_21	has_surface_form	
+Aston Medical School	surface_form	Aston Medical School
+Aston Medical School	is-where	Birmingham

@@ -1,0 +1,97 @@
+32766_0	is_in_sentence	sentence_32766
+32766_0	compound	32766_1
+32766_0	has_surface_form	Osamu
+32766_0	part_of_entity	Osamu Mukai
+32766_1	is_in_sentence	sentence_32766
+32766_1	nsubj	32766_15
+32766_1	has_surface_form	Mukai
+32766_1	part_of_entity	Osamu Mukai
+32766_15	is_in_sentence	sentence_32766
+32766_15	ROOT	32766_15
+32766_15	has_surface_form	is
+32766_2	is_in_sentence	sentence_32766
+32766_2	punct	32766_4
+32766_2	has_surface_form	(
+32766_4	is_in_sentence	sentence_32766
+32766_4	appos	32766_1
+32766_4	has_surface_form	理
+32766_3	is_in_sentence	sentence_32766
+32766_3	nmod	32766_4
+32766_3	has_surface_form	向井
+32766_5	is_in_sentence	sentence_32766
+32766_5	punct	32766_4
+32766_5	has_surface_form	,
+32766_6	is_in_sentence	sentence_32766
+32766_6	compound	32766_7
+32766_6	has_surface_form	Mukai
+32766_7	is_in_sentence	sentence_32766
+32766_7	appos	32766_1
+32766_7	has_surface_form	Osamu
+32766_8	is_in_sentence	sentence_32766
+32766_8	punct	32766_7
+32766_8	has_surface_form	,
+32766_9	is_in_sentence	sentence_32766
+32766_9	acl	32766_7
+32766_9	has_surface_form	born
+32766_10	is_in_sentence	sentence_32766
+32766_10	npadvmod	32766_9
+32766_10	has_surface_form	February
+32766_11	is_in_sentence	sentence_32766
+32766_11	nummod	32766_10
+32766_11	has_surface_form	7
+32766_12	is_in_sentence	sentence_32766
+32766_12	punct	32766_10
+32766_12	has_surface_form	,
+32766_13	is_in_sentence	sentence_32766
+32766_13	nummod	32766_10
+32766_13	has_surface_form	1982
+32766_14	is_in_sentence	sentence_32766
+32766_14	punct	32766_7
+32766_14	has_surface_form	)
+32766_16	is_in_sentence	sentence_32766
+32766_16	det	32766_18
+32766_16	has_surface_form	a
+32766_18	is_in_sentence	sentence_32766
+32766_18	attr	32766_15
+32766_18	has_surface_form	actor
+32766_17	is_in_sentence	sentence_32766
+32766_17	amod	32766_18
+32766_17	has_surface_form	Japanese
+32766_19	is_in_sentence	sentence_32766
+32766_19	punct	32766_15
+32766_19	has_surface_form	.
+32766_20	is_in_sentence	sentence_32766
+32766_20	nsubjpass	32766_22
+32766_20	has_surface_form	He
+32766_22	is_in_sentence	sentence_32766
+32766_22	ROOT	32766_22
+32766_22	has_surface_form	born
+32766_21	is_in_sentence	sentence_32766
+32766_21	auxpass	32766_22
+32766_21	has_surface_form	was
+32766_23	is_in_sentence	sentence_32766
+32766_23	prep	32766_22
+32766_23	has_surface_form	in
+32766_24	is_in_sentence	sentence_32766
+32766_24	compound	32766_25
+32766_24	has_surface_form	Kanagawa
+32766_24	part_of_entity	Kanagawa Prefecture
+32766_25	is_in_sentence	sentence_32766
+32766_25	pobj	32766_23
+32766_25	has_surface_form	Prefecture
+32766_25	part_of_entity	Kanagawa Prefecture
+32766_26	is_in_sentence	sentence_32766
+32766_26	punct	32766_25
+32766_26	has_surface_form	,
+32766_27	is_in_sentence	sentence_32766
+32766_27	appos	32766_25
+32766_27	has_surface_form	Japan
+32766_28	is_in_sentence	sentence_32766
+32766_28	punct	32766_22
+32766_28	has_surface_form	.
+32766_29	is_in_sentence	sentence_32766
+32766_29	dep	32766_22
+32766_29	has_surface_form	
+Osamu Mukai	surface_form	Osamu Mukai
+Osamu Mukai	birth-place	Kanagawa Prefecture
+Kanagawa Prefecture	surface_form	Kanagawa Prefecture

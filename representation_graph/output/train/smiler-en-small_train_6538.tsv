@@ -1,0 +1,62 @@
+6537_0	is_in_sentence	sentence_6537
+6537_0	compound	6537_1
+6537_0	has_surface_form	Elmar
+6537_0	part_of_entity	Elmar Ledergerber
+6537_1	is_in_sentence	sentence_6537
+6537_1	nsubj	6537_11
+6537_1	has_surface_form	Ledergerber
+6537_1	part_of_entity	Elmar Ledergerber
+6537_11	is_in_sentence	sentence_6537
+6537_11	ROOT	6537_11
+6537_11	has_surface_form	was
+6537_2	is_in_sentence	sentence_6537
+6537_2	punct	6537_1
+6537_2	has_surface_form	(
+6537_3	is_in_sentence	sentence_6537
+6537_3	acl	6537_1
+6537_3	has_surface_form	born
+6537_4	is_in_sentence	sentence_6537
+6537_4	npadvmod	6537_3
+6537_4	has_surface_form	April
+6537_5	is_in_sentence	sentence_6537
+6537_5	nummod	6537_4
+6537_5	has_surface_form	4
+6537_6	is_in_sentence	sentence_6537
+6537_6	punct	6537_4
+6537_6	has_surface_form	,
+6537_7	is_in_sentence	sentence_6537
+6537_7	nummod	6537_4
+6537_7	has_surface_form	1944
+6537_8	is_in_sentence	sentence_6537
+6537_8	prep	6537_3
+6537_8	has_surface_form	in
+6537_9	is_in_sentence	sentence_6537
+6537_9	pobj	6537_8
+6537_9	is_entity	Engelberg
+Engelberg	surface_form	Engelberg
+6537_10	is_in_sentence	sentence_6537
+6537_10	punct	6537_1
+6537_10	has_surface_form	)
+6537_12	is_in_sentence	sentence_6537
+6537_12	det	6537_14
+6537_12	has_surface_form	a
+6537_14	is_in_sentence	sentence_6537
+6537_14	attr	6537_11
+6537_14	has_surface_form	Mayor
+6537_13	is_in_sentence	sentence_6537
+6537_13	amod	6537_14
+6537_13	has_surface_form	previous
+6537_15	is_in_sentence	sentence_6537
+6537_15	prep	6537_14
+6537_15	has_surface_form	of
+6537_16	is_in_sentence	sentence_6537
+6537_16	pobj	6537_15
+6537_16	has_surface_form	Zurich
+6537_17	is_in_sentence	sentence_6537
+6537_17	punct	6537_11
+6537_17	has_surface_form	.
+6537_18	is_in_sentence	sentence_6537
+6537_18	dep	6537_18
+6537_18	has_surface_form	
+Elmar Ledergerber	surface_form	Elmar Ledergerber
+Elmar Ledergerber	birth-place	Engelberg

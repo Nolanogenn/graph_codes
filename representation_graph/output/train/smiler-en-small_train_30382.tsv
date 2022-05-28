@@ -1,0 +1,71 @@
+30381_0	is_in_sentence	sentence_30381
+30381_0	compound	30381_1
+30381_0	has_surface_form	Krishna
+30381_0	part_of_entity	Krishna Pakshakkilikal
+30381_1	is_in_sentence	sentence_30381
+30381_1	nsubj	30381_2
+30381_1	has_surface_form	Pakshakkilikal
+30381_1	part_of_entity	Krishna Pakshakkilikal
+30381_2	is_in_sentence	sentence_30381
+30381_2	ROOT	30381_2
+30381_2	has_surface_form	is
+30381_3	is_in_sentence	sentence_30381
+30381_3	det	30381_7
+30381_3	has_surface_form	a
+30381_7	is_in_sentence	sentence_30381
+30381_7	attr	30381_2
+30381_7	has_surface_form	film
+30381_4	is_in_sentence	sentence_30381
+30381_4	nummod	30381_7
+30381_4	has_surface_form	2002
+30381_5	is_in_sentence	sentence_30381
+30381_5	amod	30381_7
+30381_5	has_surface_form	Indian
+30381_6	is_in_sentence	sentence_30381
+30381_6	compound	30381_7
+30381_6	has_surface_form	Malayalam
+30381_8	is_in_sentence	sentence_30381
+30381_8	punct	30381_7
+30381_8	has_surface_form	,
+30381_9	is_in_sentence	sentence_30381
+30381_9	acl	30381_7
+30381_9	has_surface_form	directed
+30381_10	is_in_sentence	sentence_30381
+30381_10	agent	30381_9
+30381_10	has_surface_form	by
+30381_11	is_in_sentence	sentence_30381
+30381_11	compound	30381_13
+30381_11	has_surface_form	K.
+30381_11	part_of_entity	K. Abraham Lincoln
+30381_13	is_in_sentence	sentence_30381
+30381_13	pobj	30381_10
+30381_13	has_surface_form	Lincoln
+30381_13	part_of_entity	K. Abraham Lincoln
+30381_12	is_in_sentence	sentence_30381
+30381_12	compound	30381_13
+30381_12	has_surface_form	Abraham
+30381_12	part_of_entity	K. Abraham Lincoln
+30381_14	is_in_sentence	sentence_30381
+30381_14	cc	30381_9
+30381_14	has_surface_form	and
+30381_15	is_in_sentence	sentence_30381
+30381_15	conj	30381_9
+30381_15	has_surface_form	produced
+30381_16	is_in_sentence	sentence_30381
+30381_16	agent	30381_15
+30381_16	has_surface_form	by
+30381_17	is_in_sentence	sentence_30381
+30381_17	compound	30381_18
+30381_17	has_surface_form	Pradeep
+30381_18	is_in_sentence	sentence_30381
+30381_18	pobj	30381_16
+30381_18	has_surface_form	Paliyath
+30381_19	is_in_sentence	sentence_30381
+30381_19	punct	30381_2
+30381_19	has_surface_form	.
+30381_20	is_in_sentence	sentence_30381
+30381_20	dep	30381_20
+30381_20	has_surface_form	
+Krishna Pakshakkilikal	surface_form	Krishna Pakshakkilikal
+Krishna Pakshakkilikal	movie-has-director	K. Abraham Lincoln
+K. Abraham Lincoln	surface_form	K. Abraham Lincoln

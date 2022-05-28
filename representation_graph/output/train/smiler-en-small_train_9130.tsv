@@ -1,0 +1,52 @@
+9129_0	is_in_sentence	sentence_9129
+9129_0	compound	9129_1
+9129_0	has_surface_form	Doc
+9129_0	part_of_entity	Doc Walker
+9129_1	is_in_sentence	sentence_9129
+9129_1	nsubj	9129_2
+9129_1	has_surface_form	Walker
+9129_1	part_of_entity	Doc Walker
+9129_2	is_in_sentence	sentence_9129
+9129_2	ROOT	9129_2
+9129_2	has_surface_form	is
+9129_3	is_in_sentence	sentence_9129
+9129_3	det	9129_6
+9129_3	has_surface_form	a
+9129_6	is_in_sentence	sentence_9129
+9129_6	attr	9129_2
+9129_6	has_surface_form	group
+9129_4	is_in_sentence	sentence_9129
+9129_4	compound	9129_6
+9129_4	has_surface_form	country
+9129_4	part_of_entity	country music
+9129_5	is_in_sentence	sentence_9129
+9129_5	compound	9129_6
+9129_5	has_surface_form	music
+9129_5	part_of_entity	country music
+9129_7	is_in_sentence	sentence_9129
+9129_7	prep	9129_6
+9129_7	has_surface_form	from
+9129_8	is_in_sentence	sentence_9129
+9129_8	pobj	9129_7
+9129_8	has_surface_form	Westbourne
+9129_9	is_in_sentence	sentence_9129
+9129_9	punct	9129_8
+9129_9	has_surface_form	,
+9129_10	is_in_sentence	sentence_9129
+9129_10	conj	9129_8
+9129_10	has_surface_form	Manitoba
+9129_11	is_in_sentence	sentence_9129
+9129_11	punct	9129_10
+9129_11	has_surface_form	,
+9129_12	is_in_sentence	sentence_9129
+9129_12	npadvmod	9129_10
+9129_12	has_surface_form	Canada
+9129_13	is_in_sentence	sentence_9129
+9129_13	punct	9129_2
+9129_13	has_surface_form	.
+9129_14	is_in_sentence	sentence_9129
+9129_14	dep	9129_2
+9129_14	has_surface_form	
+Doc Walker	surface_form	Doc Walker
+Doc Walker	has-genre	country music
+country music	surface_form	country music

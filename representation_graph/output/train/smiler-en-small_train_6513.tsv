@@ -1,0 +1,88 @@
+6512_0	is_in_sentence	sentence_6512
+6512_0	compound	6512_1
+6512_0	has_surface_form	James
+6512_0	part_of_entity	James Wemyss
+6512_1	is_in_sentence	sentence_6512
+6512_1	nsubj	6512_14
+6512_1	has_surface_form	Wemyss
+6512_1	part_of_entity	James Wemyss
+6512_14	is_in_sentence	sentence_6512
+6512_14	ROOT	6512_14
+6512_14	has_surface_form	was
+6512_2	is_in_sentence	sentence_6512
+6512_2	punct	6512_1
+6512_2	has_surface_form	,
+6512_3	is_in_sentence	sentence_6512
+6512_3	compound	6512_4
+6512_3	has_surface_form	5th
+6512_4	is_in_sentence	sentence_6512
+6512_4	appos	6512_1
+6512_4	has_surface_form	Earl
+6512_5	is_in_sentence	sentence_6512
+6512_5	prep	6512_4
+6512_5	has_surface_form	of
+6512_6	is_in_sentence	sentence_6512
+6512_6	pobj	6512_5
+6512_6	has_surface_form	Wemyss
+6512_7	is_in_sentence	sentence_6512
+6512_7	punct	6512_4
+6512_7	has_surface_form	(
+6512_8	is_in_sentence	sentence_6512
+6512_8	nummod	6512_9
+6512_8	has_surface_form	30
+6512_9	is_in_sentence	sentence_6512
+6512_9	appos	6512_4
+6512_9	has_surface_form	August
+6512_10	is_in_sentence	sentence_6512
+6512_10	nummod	6512_9
+6512_10	has_surface_form	169921
+6512_11	is_in_sentence	sentence_6512
+6512_11	appos	6512_1
+6512_11	has_surface_form	March
+6512_12	is_in_sentence	sentence_6512
+6512_12	nummod	6512_11
+6512_12	has_surface_form	1756
+6512_13	is_in_sentence	sentence_6512
+6512_13	punct	6512_1
+6512_13	has_surface_form	)
+6512_15	is_in_sentence	sentence_6512
+6512_15	det	6512_16
+6512_15	has_surface_form	the
+6512_16	is_in_sentence	sentence_6512
+6512_16	attr	6512_14
+6512_16	has_surface_form	son
+6512_17	is_in_sentence	sentence_6512
+6512_17	prep	6512_16
+6512_17	has_surface_form	of
+6512_18	is_in_sentence	sentence_6512
+6512_18	compound	6512_19
+6512_18	has_surface_form	David
+6512_18	part_of_entity	David Wemyss
+6512_19	is_in_sentence	sentence_6512
+6512_19	pobj	6512_17
+6512_19	has_surface_form	Wemyss
+6512_19	part_of_entity	David Wemyss
+6512_20	is_in_sentence	sentence_6512
+6512_20	punct	6512_19
+6512_20	has_surface_form	,
+6512_21	is_in_sentence	sentence_6512
+6512_21	compound	6512_22
+6512_21	has_surface_form	4th
+6512_22	is_in_sentence	sentence_6512
+6512_22	appos	6512_19
+6512_22	has_surface_form	Earl
+6512_23	is_in_sentence	sentence_6512
+6512_23	prep	6512_22
+6512_23	has_surface_form	of
+6512_24	is_in_sentence	sentence_6512
+6512_24	pobj	6512_23
+6512_24	has_surface_form	Wemyss
+6512_25	is_in_sentence	sentence_6512
+6512_25	punct	6512_14
+6512_25	has_surface_form	.
+6512_26	is_in_sentence	sentence_6512
+6512_26	dep	6512_14
+6512_26	has_surface_form	
+James Wemyss	surface_form	James Wemyss
+James Wemyss	has-parent	David Wemyss
+David Wemyss	surface_form	David Wemyss

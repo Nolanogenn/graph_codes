@@ -1,0 +1,88 @@
+1373_0	is_in_sentence	sentence_1373
+1373_0	prep	1373_7
+1373_0	has_surface_form	In
+1373_7	is_in_sentence	sentence_1373
+1373_7	ccomp	1373_19
+1373_7	has_surface_form	married
+1373_1	is_in_sentence	sentence_1373
+1373_1	pobj	1373_0
+1373_1	has_surface_form	April
+1373_2	is_in_sentence	sentence_1373
+1373_2	nummod	1373_1
+1373_2	has_surface_form	2006
+1373_3	is_in_sentence	sentence_1373
+1373_3	punct	1373_7
+1373_3	has_surface_form	,
+1373_4	is_in_sentence	sentence_1373
+1373_4	compound	1373_6
+1373_4	has_surface_form	Premier
+1373_6	is_in_sentence	sentence_1373
+1373_6	nsubj	1373_7
+1373_6	has_surface_form	Misick
+1373_6	part_of_entity	Michael Misick
+1373_5	is_in_sentence	sentence_1373
+1373_5	compound	1373_6
+1373_5	has_surface_form	Michael
+1373_5	part_of_entity	Michael Misick
+1373_19	is_in_sentence	sentence_1373
+1373_19	ROOT	1373_19
+1373_19	has_surface_form	reported
+1373_8	is_in_sentence	sentence_1373
+1373_8	amod	1373_9
+1373_8	has_surface_form	American
+1373_9	is_in_sentence	sentence_1373
+1373_9	dobj	1373_7
+1373_9	has_surface_form	actress
+1373_10	is_in_sentence	sentence_1373
+1373_10	cc	1373_9
+1373_10	has_surface_form	and
+1373_11	is_in_sentence	sentence_1373
+1373_11	compound	1373_12
+1373_11	has_surface_form	fashion
+1373_12	is_in_sentence	sentence_1373
+1373_12	conj	1373_9
+1373_12	has_surface_form	designer
+1373_13	is_in_sentence	sentence_1373
+1373_13	punct	1373_9
+1373_13	has_surface_form	,
+1373_14	is_in_sentence	sentence_1373
+1373_14	compound	1373_15
+1373_14	has_surface_form	LisaRaye
+1373_14	part_of_entity	LisaRaye McCoy
+1373_15	is_in_sentence	sentence_1373
+1373_15	appos	1373_9
+1373_15	has_surface_form	McCoy
+1373_15	part_of_entity	LisaRaye McCoy
+1373_16	is_in_sentence	sentence_1373
+1373_16	punct	1373_19
+1373_16	has_surface_form	;
+1373_17	is_in_sentence	sentence_1373
+1373_17	nsubjpass	1373_19
+1373_17	has_surface_form	it
+1373_18	is_in_sentence	sentence_1373
+1373_18	auxpass	1373_19
+1373_18	has_surface_form	is
+1373_20	is_in_sentence	sentence_1373
+1373_20	mark	1373_24
+1373_20	has_surface_form	that
+1373_24	is_in_sentence	sentence_1373
+1373_24	ccomp	1373_19
+1373_24	has_surface_form	divorced
+1373_21	is_in_sentence	sentence_1373
+1373_21	det	1373_22
+1373_21	has_surface_form	the
+1373_22	is_in_sentence	sentence_1373
+1373_22	nsubjpass	1373_24
+1373_22	has_surface_form	Misicks
+1373_23	is_in_sentence	sentence_1373
+1373_23	auxpass	1373_24
+1373_23	has_surface_form	are
+1373_25	is_in_sentence	sentence_1373
+1373_25	punct	1373_19
+1373_25	has_surface_form	.
+1373_26	is_in_sentence	sentence_1373
+1373_26	dep	1373_26
+1373_26	has_surface_form	
+Michael Misick	surface_form	Michael Misick
+Michael Misick	has-spouse	LisaRaye McCoy
+LisaRaye McCoy	surface_form	LisaRaye McCoy

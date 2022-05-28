@@ -1,0 +1,56 @@
+30859_0	is_in_sentence	sentence_30859
+30859_0	compound	30859_1
+30859_0	has_surface_form	Yonca
+30859_0	part_of_entity	Yonca Evcimik
+30859_1	is_in_sentence	sentence_30859
+30859_1	nsubj	30859_8
+30859_1	has_surface_form	Evcimik
+30859_1	part_of_entity	Yonca Evcimik
+30859_8	is_in_sentence	sentence_30859
+30859_8	ROOT	30859_8
+30859_8	has_surface_form	is
+30859_2	is_in_sentence	sentence_30859
+30859_2	punct	30859_3
+30859_2	has_surface_form	(
+30859_3	is_in_sentence	sentence_30859
+30859_3	parataxis	30859_1
+30859_3	has_surface_form	born
+30859_4	is_in_sentence	sentence_30859
+30859_4	npadvmod	30859_3
+30859_4	has_surface_form	16
+30859_5	is_in_sentence	sentence_30859
+30859_5	npadvmod	30859_3
+30859_5	has_surface_form	September
+30859_6	is_in_sentence	sentence_30859
+30859_6	nummod	30859_5
+30859_6	has_surface_form	1963
+30859_7	is_in_sentence	sentence_30859
+30859_7	punct	30859_1
+30859_7	has_surface_form	)
+30859_9	is_in_sentence	sentence_30859
+30859_9	det	30859_12
+30859_9	has_surface_form	a
+30859_12	is_in_sentence	sentence_30859
+30859_12	attr	30859_8
+30859_12	has_surface_form	singer
+30859_10	is_in_sentence	sentence_30859
+30859_10	amod	30859_12
+30859_10	has_surface_form	Turkish
+30859_11	is_in_sentence	sentence_30859
+30859_11	compound	30859_12
+30859_11	has_surface_form	pop
+30859_13	is_in_sentence	sentence_30859
+30859_13	cc	30859_12
+30859_13	has_surface_form	and
+30859_14	is_in_sentence	sentence_30859
+30859_14	conj	30859_12
+30859_14	is_entity	actress
+actress	surface_form	actress
+30859_15	is_in_sentence	sentence_30859
+30859_15	punct	30859_8
+30859_15	has_surface_form	.
+30859_16	is_in_sentence	sentence_30859
+30859_16	dep	30859_16
+30859_16	has_surface_form	
+Yonca Evcimik	surface_form	Yonca Evcimik
+Yonca Evcimik	has-occupation	actress

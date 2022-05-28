@@ -1,0 +1,85 @@
+31916_0	is_in_sentence	sentence_31916
+31916_0	nsubjpass	31916_8
+31916_0	has_surface_form	Credit
+31916_8	is_in_sentence	sentence_31916
+31916_8	ROOT	31916_8
+31916_8	has_surface_form	disputed
+31916_1	is_in_sentence	sentence_31916
+31916_1	prep	31916_0
+31916_1	has_surface_form	for
+31916_2	is_in_sentence	sentence_31916
+31916_2	det	31916_3
+31916_2	has_surface_form	the
+31916_3	is_in_sentence	sentence_31916
+31916_3	pobj	31916_1
+31916_3	has_surface_form	invention
+31916_4	is_in_sentence	sentence_31916
+31916_4	prep	31916_3
+31916_4	has_surface_form	of
+31916_5	is_in_sentence	sentence_31916
+31916_5	compound	31916_6
+31916_5	has_surface_form	Silly
+31916_5	part_of_entity	Silly Putty
+31916_6	is_in_sentence	sentence_31916
+31916_6	pobj	31916_4
+31916_6	has_surface_form	Putty
+31916_6	part_of_entity	Silly Putty
+31916_7	is_in_sentence	sentence_31916
+31916_7	auxpass	31916_8
+31916_7	has_surface_form	is
+31916_9	is_in_sentence	sentence_31916
+31916_9	punct	31916_8
+31916_9	has_surface_form	.
+31916_10	is_in_sentence	sentence_31916
+31916_10	poss	31916_12
+31916_10	has_surface_form	Crayola
+31916_12	is_in_sentence	sentence_31916
+31916_12	nsubj	31916_16
+31916_12	has_surface_form	history
+31916_11	is_in_sentence	sentence_31916
+31916_11	case	31916_10
+31916_11	has_surface_form	's
+31916_16	is_in_sentence	sentence_31916
+31916_16	ROOT	31916_16
+31916_16	has_surface_form	states
+31916_13	is_in_sentence	sentence_31916
+31916_13	prep	31916_12
+31916_13	has_surface_form	of
+31916_14	is_in_sentence	sentence_31916
+31916_14	compound	31916_15
+31916_14	has_surface_form	Silly
+31916_14	part_of_entity	Silly Putty
+31916_15	is_in_sentence	sentence_31916
+31916_15	pobj	31916_13
+31916_15	has_surface_form	Putty
+31916_15	part_of_entity	Silly Putty
+31916_17	is_in_sentence	sentence_31916
+31916_17	mark	31916_20
+31916_17	has_surface_form	that
+31916_20	is_in_sentence	sentence_31916
+31916_20	ccomp	31916_16
+31916_20	has_surface_form	invented
+31916_18	is_in_sentence	sentence_31916
+31916_18	nsubj	31916_20
+31916_18	has_surface_form	Wright
+31916_19	is_in_sentence	sentence_31916
+31916_19	advmod	31916_20
+31916_19	has_surface_form	first
+31916_21	is_in_sentence	sentence_31916
+31916_21	dobj	31916_20
+31916_21	has_surface_form	it
+31916_22	is_in_sentence	sentence_31916
+31916_22	prep	31916_20
+31916_22	has_surface_form	in
+31916_23	is_in_sentence	sentence_31916
+31916_23	pobj	31916_22
+31916_23	is_entity	1943
+1943	surface_form	1943
+31916_24	is_in_sentence	sentence_31916
+31916_24	punct	31916_16
+31916_24	has_surface_form	.
+31916_25	is_in_sentence	sentence_31916
+31916_25	dep	31916_25
+31916_25	has_surface_form	
+Silly Putty	surface_form	Silly Putty
+Silly Putty	invented-when	1943

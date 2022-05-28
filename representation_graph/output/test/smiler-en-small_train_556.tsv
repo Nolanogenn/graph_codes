@@ -1,0 +1,51 @@
+555_0	is_in_sentence	sentence_555
+555_0	compound	555_2
+555_0	has_surface_form	Jamnabai
+555_0	part_of_entity	Jamnabai Narsee School
+555_2	is_in_sentence	sentence_555
+555_2	nsubj	555_3
+555_2	has_surface_form	School
+555_2	part_of_entity	Jamnabai Narsee School
+555_1	is_in_sentence	sentence_555
+555_1	compound	555_2
+555_1	has_surface_form	Narsee
+555_1	part_of_entity	Jamnabai Narsee School
+555_3	is_in_sentence	sentence_555
+555_3	ROOT	555_3
+555_3	has_surface_form	is
+555_4	is_in_sentence	sentence_555
+555_4	det	555_6
+555_4	has_surface_form	a
+555_6	is_in_sentence	sentence_555
+555_6	attr	555_3
+555_6	has_surface_form	school
+555_5	is_in_sentence	sentence_555
+555_5	amod	555_6
+555_5	has_surface_form	private
+555_7	is_in_sentence	sentence_555
+555_7	prep	555_6
+555_7	has_surface_form	in
+555_8	is_in_sentence	sentence_555
+555_8	pobj	555_7
+555_8	is_entity	Mumbai
+Mumbai	surface_form	Mumbai
+555_9	is_in_sentence	sentence_555
+555_9	punct	555_8
+555_9	has_surface_form	,
+555_10	is_in_sentence	sentence_555
+555_10	conj	555_8
+555_10	has_surface_form	Maharashtra
+555_11	is_in_sentence	sentence_555
+555_11	punct	555_10
+555_11	has_surface_form	,
+555_12	is_in_sentence	sentence_555
+555_12	appos	555_10
+555_12	has_surface_form	India
+555_13	is_in_sentence	sentence_555
+555_13	punct	555_3
+555_13	has_surface_form	.
+555_14	is_in_sentence	sentence_555
+555_14	dep	555_3
+555_14	has_surface_form	
+Jamnabai Narsee School	surface_form	Jamnabai Narsee School
+Jamnabai Narsee School	is-where	Mumbai

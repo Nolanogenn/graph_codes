@@ -1,0 +1,85 @@
+6979_0	is_in_sentence	sentence_6979
+6979_0	det	6979_2
+6979_0	has_surface_form	The
+6979_2	is_in_sentence	sentence_6979
+6979_2	nsubj	6979_8
+6979_2	has_surface_form	peak
+6979_1	is_in_sentence	sentence_6979
+6979_1	amod	6979_2
+6979_1	has_surface_form	highest
+6979_8	is_in_sentence	sentence_6979
+6979_8	ROOT	6979_8
+6979_8	has_surface_form	is
+6979_3	is_in_sentence	sentence_6979
+6979_3	prep	6979_2
+6979_3	has_surface_form	in
+6979_4	is_in_sentence	sentence_6979
+6979_4	det	6979_7
+6979_4	has_surface_form	the
+6979_7	is_in_sentence	sentence_6979
+6979_7	pobj	6979_3
+6979_7	has_surface_form	range
+6979_5	is_in_sentence	sentence_6979
+6979_5	amod	6979_7
+6979_5	has_surface_form	Aurès
+6979_6	is_in_sentence	sentence_6979
+6979_6	compound	6979_7
+6979_6	has_surface_form	mountain
+6979_9	is_in_sentence	sentence_6979
+6979_9	compound	6979_10
+6979_9	has_surface_form	Djebel
+6979_9	part_of_entity	Djebel Chélia
+6979_10	is_in_sentence	sentence_6979
+6979_10	attr	6979_8
+6979_10	has_surface_form	Chélia
+6979_10	part_of_entity	Djebel Chélia
+6979_11	is_in_sentence	sentence_6979
+6979_11	prep	6979_10
+6979_11	has_surface_form	in
+6979_12	is_in_sentence	sentence_6979
+6979_12	compound	6979_13
+6979_12	has_surface_form	Khenchela
+6979_12	part_of_entity	Khenchela Province
+6979_13	is_in_sentence	sentence_6979
+6979_13	pobj	6979_11
+6979_13	has_surface_form	Province
+6979_13	part_of_entity	Khenchela Province
+6979_14	is_in_sentence	sentence_6979
+6979_14	punct	6979_13
+6979_14	has_surface_form	,
+6979_15	is_in_sentence	sentence_6979
+6979_15	nsubj	6979_16
+6979_15	has_surface_form	which
+6979_16	is_in_sentence	sentence_6979
+6979_16	relcl	6979_13
+6979_16	has_surface_form	sits
+6979_17	is_in_sentence	sentence_6979
+6979_17	prep	6979_16
+6979_17	has_surface_form	at
+6979_18	is_in_sentence	sentence_6979
+6979_18	nummod	6979_19
+6979_18	has_surface_form	2,328
+6979_19	is_in_sentence	sentence_6979
+6979_19	pobj	6979_17
+6979_19	has_surface_form	metres
+6979_20	is_in_sentence	sentence_6979
+6979_20	punct	6979_19
+6979_20	has_surface_form	(
+6979_21	is_in_sentence	sentence_6979
+6979_21	nummod	6979_22
+6979_21	has_surface_form	7,638
+6979_22	is_in_sentence	sentence_6979
+6979_22	appos	6979_19
+6979_22	has_surface_form	ft
+6979_23	is_in_sentence	sentence_6979
+6979_23	punct	6979_8
+6979_23	has_surface_form	)
+6979_24	is_in_sentence	sentence_6979
+6979_24	punct	6979_8
+6979_24	has_surface_form	.
+6979_25	is_in_sentence	sentence_6979
+6979_25	dep	6979_25
+6979_25	has_surface_form	
+Khenchela Province	surface_form	Khenchela Province
+Khenchela Province	has-highest-mountain	Djebel Chélia
+Djebel Chélia	surface_form	Djebel Chélia

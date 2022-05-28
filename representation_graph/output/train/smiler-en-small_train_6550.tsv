@@ -1,0 +1,74 @@
+6549_0	is_in_sentence	sentence_6549
+6549_0	nsubj	6549_1
+6549_0	has_surface_form	Sutherland
+6549_1	is_in_sentence	sentence_6549
+6549_1	ROOT	6549_1
+6549_1	has_surface_form	married
+6549_2	is_in_sentence	sentence_6549
+6549_2	nmod	6549_5
+6549_2	has_surface_form	Lady
+6549_5	is_in_sentence	sentence_6549
+6549_5	dobj	6549_1
+6549_5	has_surface_form	Butler
+6549_5	part_of_entity	Eileen Gwladys Butler
+6549_3	is_in_sentence	sentence_6549
+6549_3	nummod	6549_2
+6549_3	has_surface_form	Eileen
+6549_3	part_of_entity	Eileen Gwladys Butler
+6549_4	is_in_sentence	sentence_6549
+6549_4	compound	6549_5
+6549_4	has_surface_form	Gwladys
+6549_4	part_of_entity	Eileen Gwladys Butler
+6549_6	is_in_sentence	sentence_6549
+6549_6	punct	6549_5
+6549_6	has_surface_form	,
+6549_7	is_in_sentence	sentence_6549
+6549_7	appos	6549_5
+6549_7	has_surface_form	daughter
+6549_8	is_in_sentence	sentence_6549
+6549_8	prep	6549_7
+6549_8	has_surface_form	of
+6549_9	is_in_sentence	sentence_6549
+6549_9	compound	6549_10
+6549_9	has_surface_form	Charles
+6549_9	part_of_entity	Charles Butler
+6549_10	is_in_sentence	sentence_6549
+6549_10	pobj	6549_8
+6549_10	has_surface_form	Butler
+6549_10	part_of_entity	Charles Butler
+6549_11	is_in_sentence	sentence_6549
+6549_11	punct	6549_10
+6549_11	has_surface_form	,
+6549_12	is_in_sentence	sentence_6549
+6549_12	compound	6549_13
+6549_12	has_surface_form	7th
+6549_13	is_in_sentence	sentence_6549
+6549_13	appos	6549_10
+6549_13	has_surface_form	Earl
+6549_14	is_in_sentence	sentence_6549
+6549_14	prep	6549_13
+6549_14	has_surface_form	of
+6549_15	is_in_sentence	sentence_6549
+6549_15	pobj	6549_14
+6549_15	has_surface_form	Lanesborough
+6549_16	is_in_sentence	sentence_6549
+6549_16	prep	6549_13
+6549_16	has_surface_form	on
+6549_17	is_in_sentence	sentence_6549
+6549_17	nummod	6549_18
+6549_17	has_surface_form	11
+6549_18	is_in_sentence	sentence_6549
+6549_18	pobj	6549_16
+6549_18	has_surface_form	April
+6549_19	is_in_sentence	sentence_6549
+6549_19	nummod	6549_18
+6549_19	has_surface_form	1912
+6549_20	is_in_sentence	sentence_6549
+6549_20	punct	6549_1
+6549_20	has_surface_form	.
+6549_21	is_in_sentence	sentence_6549
+6549_21	dep	6549_21
+6549_21	has_surface_form	
+Eileen Gwladys Butler	surface_form	Eileen Gwladys Butler
+Eileen Gwladys Butler	has-parent	Charles Butler
+Charles Butler	surface_form	Charles Butler

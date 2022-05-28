@@ -1,0 +1,52 @@
+32904_0	is_in_sentence	sentence_32904
+32904_0	nummod	32904_1
+32904_0	has_surface_form	23
+32904_0	part_of_entity	23 Blast
+32904_1	is_in_sentence	sentence_32904
+32904_1	nsubj	32904_2
+32904_1	has_surface_form	Blast
+32904_1	part_of_entity	23 Blast
+32904_2	is_in_sentence	sentence_32904
+32904_2	ROOT	32904_2
+32904_2	has_surface_form	is
+32904_3	is_in_sentence	sentence_32904
+32904_3	det	32904_8
+32904_3	has_surface_form	a
+32904_8	is_in_sentence	sentence_32904
+32904_8	attr	32904_2
+32904_8	has_surface_form	film
+32904_4	is_in_sentence	sentence_32904
+32904_4	nummod	32904_8
+32904_4	has_surface_form	2013
+32904_5	is_in_sentence	sentence_32904
+32904_5	amod	32904_8
+32904_5	has_surface_form	American
+32904_6	is_in_sentence	sentence_32904
+32904_6	compound	32904_7
+32904_6	has_surface_form	sports
+32904_7	is_in_sentence	sentence_32904
+32904_7	compound	32904_8
+32904_7	has_surface_form	drama
+32904_9	is_in_sentence	sentence_32904
+32904_9	acl	32904_8
+32904_9	has_surface_form	directed
+32904_10	is_in_sentence	sentence_32904
+32904_10	agent	32904_9
+32904_10	has_surface_form	by
+32904_11	is_in_sentence	sentence_32904
+32904_11	compound	32904_12
+32904_11	has_surface_form	Dylan
+32904_11	part_of_entity	Dylan Baker
+32904_12	is_in_sentence	sentence_32904
+32904_12	pobj	32904_10
+32904_12	has_surface_form	Baker
+32904_12	part_of_entity	Dylan Baker
+32904_13	is_in_sentence	sentence_32904
+32904_13	punct	32904_2
+32904_13	has_surface_form	.
+32904_14	is_in_sentence	sentence_32904
+32904_14	dep	32904_14
+32904_14	has_surface_form	
+23 Blast	surface_form	23 Blast
+23 Blast	movie-has-director	Dylan Baker
+Dylan Baker	surface_form	Dylan Baker

@@ -1,0 +1,88 @@
+5803_0	is_in_sentence	sentence_5803
+5803_0	compound	5803_1
+5803_0	has_surface_form	Runnymede
+5803_0	part_of_entity	Runnymede Park
+5803_1	is_in_sentence	sentence_5803
+5803_1	nsubj	5803_2
+5803_1	has_surface_form	Park
+5803_1	part_of_entity	Runnymede Park
+5803_2	is_in_sentence	sentence_5803
+5803_2	ROOT	5803_2
+5803_2	has_surface_form	is
+5803_3	is_in_sentence	sentence_5803
+5803_3	det	5803_8
+5803_3	has_surface_form	a
+5803_8	is_in_sentence	sentence_5803
+5803_8	attr	5803_2
+5803_8	has_surface_form	park
+5803_8	part_of_entity	public park
+5803_4	is_in_sentence	sentence_5803
+5803_4	amod	5803_6
+5803_4	has_surface_form	medium
+5803_6	is_in_sentence	sentence_5803
+5803_6	amod	5803_8
+5803_6	has_surface_form	sized
+5803_5	is_in_sentence	sentence_5803
+5803_5	punct	5803_6
+5803_5	has_surface_form	-
+5803_7	is_in_sentence	sentence_5803
+5803_7	amod	5803_8
+5803_7	has_surface_form	public
+5803_7	part_of_entity	public park
+5803_9	is_in_sentence	sentence_5803
+5803_9	acl	5803_8
+5803_9	has_surface_form	located
+5803_10	is_in_sentence	sentence_5803
+5803_10	prep	5803_9
+5803_10	has_surface_form	in
+5803_11	is_in_sentence	sentence_5803
+5803_11	det	5803_13
+5803_11	has_surface_form	The
+5803_13	is_in_sentence	sentence_5803
+5803_13	pobj	5803_10
+5803_13	has_surface_form	neighbourhood
+5803_12	is_in_sentence	sentence_5803
+5803_12	compound	5803_13
+5803_12	has_surface_form	Junction
+5803_14	is_in_sentence	sentence_5803
+5803_14	prep	5803_13
+5803_14	has_surface_form	of
+5803_15	is_in_sentence	sentence_5803
+5803_15	pobj	5803_14
+5803_15	has_surface_form	Toronto
+5803_16	is_in_sentence	sentence_5803
+5803_16	punct	5803_15
+5803_16	has_surface_form	,
+5803_17	is_in_sentence	sentence_5803
+5803_17	appos	5803_15
+5803_17	has_surface_form	Canada
+5803_18	is_in_sentence	sentence_5803
+5803_18	punct	5803_15
+5803_18	has_surface_form	,
+5803_19	is_in_sentence	sentence_5803
+5803_19	nummod	5803_20
+5803_19	has_surface_form	one
+5803_20	is_in_sentence	sentence_5803
+5803_20	compound	5803_21
+5803_20	has_surface_form	block
+5803_21	is_in_sentence	sentence_5803
+5803_21	npadvmod	5803_9
+5803_21	has_surface_form	east
+5803_22	is_in_sentence	sentence_5803
+5803_22	prep	5803_21
+5803_22	has_surface_form	of
+5803_23	is_in_sentence	sentence_5803
+5803_23	compound	5803_24
+5803_23	has_surface_form	Runnymede
+5803_24	is_in_sentence	sentence_5803
+5803_24	pobj	5803_22
+5803_24	has_surface_form	Road
+5803_25	is_in_sentence	sentence_5803
+5803_25	punct	5803_2
+5803_25	has_surface_form	.
+5803_26	is_in_sentence	sentence_5803
+5803_26	dep	5803_2
+5803_26	has_surface_form	
+Runnymede Park	surface_form	Runnymede Park
+Runnymede Park	has-type	public park
+public park	surface_form	public park

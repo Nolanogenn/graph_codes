@@ -1,0 +1,68 @@
+21913_0	is_in_sentence	sentence_21913
+21913_0	compound	21913_1
+21913_0	has_surface_form	Jeff
+21913_0	part_of_entity	Jeff Voris
+21913_1	is_in_sentence	sentence_21913
+21913_1	nsubj	21913_9
+21913_1	has_surface_form	Voris
+21913_1	part_of_entity	Jeff Voris
+21913_9	is_in_sentence	sentence_21913
+21913_9	ROOT	21913_9
+21913_9	has_surface_form	is
+21913_2	is_in_sentence	sentence_21913
+21913_2	punct	21913_1
+21913_2	has_surface_form	(
+21913_3	is_in_sentence	sentence_21913
+21913_3	acl	21913_1
+21913_3	has_surface_form	born
+21913_4	is_in_sentence	sentence_21913
+21913_4	npadvmod	21913_3
+21913_4	has_surface_form	August
+21913_5	is_in_sentence	sentence_21913
+21913_5	nummod	21913_4
+21913_5	has_surface_form	27
+21913_6	is_in_sentence	sentence_21913
+21913_6	punct	21913_4
+21913_6	has_surface_form	,
+21913_7	is_in_sentence	sentence_21913
+21913_7	nummod	21913_4
+21913_7	has_surface_form	1967
+21913_8	is_in_sentence	sentence_21913
+21913_8	punct	21913_1
+21913_8	has_surface_form	)
+21913_10	is_in_sentence	sentence_21913
+21913_10	det	21913_14
+21913_10	has_surface_form	an
+21913_14	is_in_sentence	sentence_21913
+21913_14	attr	21913_9
+21913_14	has_surface_form	coach
+21913_14	part_of_entity	college football coach
+21913_11	is_in_sentence	sentence_21913
+21913_11	amod	21913_14
+21913_11	has_surface_form	American
+21913_12	is_in_sentence	sentence_21913
+21913_12	compound	21913_13
+21913_12	has_surface_form	college
+21913_12	part_of_entity	college football coach
+21913_13	is_in_sentence	sentence_21913
+21913_13	compound	21913_14
+21913_13	has_surface_form	football
+21913_13	part_of_entity	college football coach
+21913_15	is_in_sentence	sentence_21913
+21913_15	cc	21913_14
+21913_15	has_surface_form	and
+21913_16	is_in_sentence	sentence_21913
+21913_16	amod	21913_17
+21913_16	has_surface_form	former
+21913_17	is_in_sentence	sentence_21913
+21913_17	conj	21913_14
+21913_17	has_surface_form	player
+21913_18	is_in_sentence	sentence_21913
+21913_18	punct	21913_9
+21913_18	has_surface_form	.
+21913_19	is_in_sentence	sentence_21913
+21913_19	dep	21913_19
+21913_19	has_surface_form	
+Jeff Voris	surface_form	Jeff Voris
+Jeff Voris	has-type	college football coach
+college football coach	surface_form	college football coach

@@ -1,0 +1,68 @@
+16740_0	is_in_sentence	sentence_16740
+16740_0	det	16740_2
+16740_0	has_surface_form	The
+16740_0	part_of_entity	The Hard Man
+16740_2	is_in_sentence	sentence_16740
+16740_2	nsubj	16740_3
+16740_2	has_surface_form	Man
+16740_2	part_of_entity	The Hard Man
+16740_1	is_in_sentence	sentence_16740
+16740_1	compound	16740_2
+16740_1	has_surface_form	Hard
+16740_1	part_of_entity	The Hard Man
+16740_3	is_in_sentence	sentence_16740
+16740_3	ROOT	16740_3
+16740_3	has_surface_form	is
+16740_4	is_in_sentence	sentence_16740
+16740_4	det	16740_9
+16740_4	has_surface_form	a
+16740_9	is_in_sentence	sentence_16740
+16740_9	attr	16740_3
+16740_9	has_surface_form	film
+16740_5	is_in_sentence	sentence_16740
+16740_5	nummod	16740_9
+16740_5	has_surface_form	1957
+16740_6	is_in_sentence	sentence_16740
+16740_6	compound	16740_7
+16740_6	has_surface_form	American
+16740_7	is_in_sentence	sentence_16740
+16740_7	nmod	16740_9
+16740_7	has_surface_form	Technicolor
+16740_8	is_in_sentence	sentence_16740
+16740_8	amod	16740_9
+16740_8	has_surface_form	Western
+16740_10	is_in_sentence	sentence_16740
+16740_10	acl	16740_9
+16740_10	has_surface_form	directed
+16740_11	is_in_sentence	sentence_16740
+16740_11	agent	16740_10
+16740_11	has_surface_form	by
+16740_12	is_in_sentence	sentence_16740
+16740_12	compound	16740_13
+16740_12	has_surface_form	George
+16740_12	part_of_entity	George Sherman
+16740_13	is_in_sentence	sentence_16740
+16740_13	pobj	16740_11
+16740_13	has_surface_form	Sherman
+16740_13	part_of_entity	George Sherman
+16740_14	is_in_sentence	sentence_16740
+16740_14	cc	16740_10
+16740_14	has_surface_form	and
+16740_15	is_in_sentence	sentence_16740
+16740_15	conj	16740_10
+16740_15	has_surface_form	starring
+16740_16	is_in_sentence	sentence_16740
+16740_16	compound	16740_17
+16740_16	has_surface_form	Guy
+16740_17	is_in_sentence	sentence_16740
+16740_17	dobj	16740_15
+16740_17	has_surface_form	Madison
+16740_18	is_in_sentence	sentence_16740
+16740_18	punct	16740_3
+16740_18	has_surface_form	.
+16740_19	is_in_sentence	sentence_16740
+16740_19	dep	16740_3
+16740_19	has_surface_form	
+The Hard Man	surface_form	The Hard Man
+The Hard Man	movie-has-director	George Sherman
+George Sherman	surface_form	George Sherman

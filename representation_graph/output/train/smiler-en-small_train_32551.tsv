@@ -1,0 +1,67 @@
+32550_0	is_in_sentence	sentence_32550
+32550_0	compound	32550_1
+32550_0	has_surface_form	Common
+32550_0	part_of_entity	Common Children
+32550_1	is_in_sentence	sentence_32550
+32550_1	nsubj	32550_2
+32550_1	has_surface_form	Children
+32550_1	part_of_entity	Common Children
+32550_2	is_in_sentence	sentence_32550
+32550_2	ROOT	32550_2
+32550_2	has_surface_form	was
+32550_3	is_in_sentence	sentence_32550
+32550_3	det	32550_6
+32550_3	has_surface_form	an
+32550_6	is_in_sentence	sentence_32550
+32550_6	attr	32550_2
+32550_6	has_surface_form	band
+32550_4	is_in_sentence	sentence_32550
+32550_4	amod	32550_6
+32550_4	has_surface_form	alternative
+32550_4	part_of_entity	alternative rock
+32550_5	is_in_sentence	sentence_32550
+32550_5	compound	32550_6
+32550_5	has_surface_form	rock
+32550_5	part_of_entity	alternative rock
+32550_7	is_in_sentence	sentence_32550
+32550_7	acl	32550_6
+32550_7	has_surface_form	composed
+32550_8	is_in_sentence	sentence_32550
+32550_8	prep	32550_7
+32550_8	has_surface_form	of
+32550_9	is_in_sentence	sentence_32550
+32550_9	compound	32550_10
+32550_9	has_surface_form	Marc
+32550_10	is_in_sentence	sentence_32550
+32550_10	pobj	32550_8
+32550_10	has_surface_form	Byrd
+32550_11	is_in_sentence	sentence_32550
+32550_11	punct	32550_10
+32550_11	has_surface_form	,
+32550_12	is_in_sentence	sentence_32550
+32550_12	compound	32550_13
+32550_12	has_surface_form	Drew
+32550_13	is_in_sentence	sentence_32550
+32550_13	conj	32550_10
+32550_13	has_surface_form	Powell
+32550_14	is_in_sentence	sentence_32550
+32550_14	punct	32550_13
+32550_14	has_surface_form	,
+32550_15	is_in_sentence	sentence_32550
+32550_15	cc	32550_13
+32550_15	has_surface_form	and
+32550_16	is_in_sentence	sentence_32550
+32550_16	compound	32550_17
+32550_16	has_surface_form	Hampton
+32550_17	is_in_sentence	sentence_32550
+32550_17	conj	32550_13
+32550_17	has_surface_form	Taliaferro
+32550_18	is_in_sentence	sentence_32550
+32550_18	punct	32550_2
+32550_18	has_surface_form	.
+32550_19	is_in_sentence	sentence_32550
+32550_19	dep	32550_19
+32550_19	has_surface_form	
+Common Children	surface_form	Common Children
+Common Children	has-genre	alternative rock
+alternative rock	surface_form	alternative rock

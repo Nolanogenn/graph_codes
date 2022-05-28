@@ -1,0 +1,62 @@
+1513_0	is_in_sentence	sentence_1513
+1513_0	compound	1513_1
+1513_0	has_surface_form	Chris
+1513_0	part_of_entity	Chris Warren
+1513_1	is_in_sentence	sentence_1513
+1513_1	nsubjpass	1513_3
+1513_1	has_surface_form	Warren
+1513_1	part_of_entity	Chris Warren
+1513_3	is_in_sentence	sentence_1513
+1513_3	ROOT	1513_3
+1513_3	has_surface_form	born
+1513_2	is_in_sentence	sentence_1513
+1513_2	auxpass	1513_3
+1513_2	has_surface_form	was
+1513_4	is_in_sentence	sentence_1513
+1513_4	prep	1513_3
+1513_4	has_surface_form	in
+1513_5	is_in_sentence	sentence_1513
+1513_5	pobj	1513_4
+1513_5	has_surface_form	Indianapolis
+1513_6	is_in_sentence	sentence_1513
+1513_6	punct	1513_5
+1513_6	has_surface_form	,
+1513_7	is_in_sentence	sentence_1513
+1513_7	appos	1513_5
+1513_7	has_surface_form	Indiana
+1513_8	is_in_sentence	sentence_1513
+1513_8	prep	1513_3
+1513_8	has_surface_form	to
+1513_9	is_in_sentence	sentence_1513
+1513_9	compound	1513_11
+1513_9	has_surface_form	Christopher
+1513_11	is_in_sentence	sentence_1513
+1513_11	pobj	1513_8
+1513_11	has_surface_form	Sr
+1513_10	is_in_sentence	sentence_1513
+1513_10	compound	1513_11
+1513_10	has_surface_form	Warren
+1513_12	is_in_sentence	sentence_1513
+1513_12	punct	1513_3
+1513_12	has_surface_form	.
+1513_13	is_in_sentence	sentence_1513
+1513_13	cc	1513_14
+1513_13	has_surface_form	and
+1513_14	is_in_sentence	sentence_1513
+1513_14	compound	1513_16
+1513_14	has_surface_form	actress
+1513_16	is_in_sentence	sentence_1513
+1513_16	ROOT	1513_16
+1513_16	has_surface_form	Kerr
+1513_15	is_in_sentence	sentence_1513
+1513_15	compound	1513_16
+1513_15	has_surface_form	Brook
+1513_17	is_in_sentence	sentence_1513
+1513_17	punct	1513_16
+1513_17	has_surface_form	.
+1513_18	is_in_sentence	sentence_1513
+1513_18	dep	1513_18
+1513_18	has_surface_form	
+Chris Warren	surface_form	Chris Warren
+Chris Warren	has-parent	Christopher Warren Sr.
+Christopher Warren Sr.	surface_form	Christopher Warren Sr.

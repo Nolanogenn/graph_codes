@@ -1,0 +1,91 @@
+31517_0	is_in_sentence	sentence_31517
+31517_0	compound	31517_1
+31517_0	has_surface_form	Pontorson
+31517_0	part_of_entity	Pontorson Airfield
+31517_1	is_in_sentence	sentence_31517
+31517_1	nsubj	31517_2
+31517_1	has_surface_form	Airfield
+31517_1	part_of_entity	Pontorson Airfield
+31517_2	is_in_sentence	sentence_31517
+31517_2	ROOT	31517_2
+31517_2	has_surface_form	is
+31517_3	is_in_sentence	sentence_31517
+31517_3	det	31517_9
+31517_3	has_surface_form	an
+31517_9	is_in_sentence	sentence_31517
+31517_9	attr	31517_2
+31517_9	has_surface_form	airfield
+31517_9	part_of_entity	military airfield
+31517_4	is_in_sentence	sentence_31517
+31517_4	amod	31517_9
+31517_4	has_surface_form	abandoned
+31517_5	is_in_sentence	sentence_31517
+31517_5	compound	31517_7
+31517_5	has_surface_form	World
+31517_7	is_in_sentence	sentence_31517
+31517_7	compound	31517_9
+31517_7	has_surface_form	II
+31517_6	is_in_sentence	sentence_31517
+31517_6	compound	31517_7
+31517_6	has_surface_form	War
+31517_8	is_in_sentence	sentence_31517
+31517_8	amod	31517_9
+31517_8	has_surface_form	military
+31517_8	part_of_entity	military airfield
+31517_10	is_in_sentence	sentence_31517
+31517_10	punct	31517_9
+31517_10	has_surface_form	,
+31517_11	is_in_sentence	sentence_31517
+31517_11	nsubjpass	31517_13
+31517_11	has_surface_form	which
+31517_13	is_in_sentence	sentence_31517
+31517_13	relcl	31517_9
+31517_13	has_surface_form	located
+31517_12	is_in_sentence	sentence_31517
+31517_12	auxpass	31517_13
+31517_12	has_surface_form	is
+31517_14	is_in_sentence	sentence_31517
+31517_14	prep	31517_13
+31517_14	has_surface_form	near
+31517_15	is_in_sentence	sentence_31517
+31517_15	det	31517_16
+31517_15	has_surface_form	the
+31517_16	is_in_sentence	sentence_31517
+31517_16	pobj	31517_14
+31517_16	has_surface_form	commune
+31517_17	is_in_sentence	sentence_31517
+31517_17	prep	31517_16
+31517_17	has_surface_form	of
+31517_18	is_in_sentence	sentence_31517
+31517_18	pobj	31517_17
+31517_18	has_surface_form	Pontorson
+31517_19	is_in_sentence	sentence_31517
+31517_19	prep	31517_16
+31517_19	has_surface_form	in
+31517_20	is_in_sentence	sentence_31517
+31517_20	det	31517_22
+31517_20	has_surface_form	the
+31517_22	is_in_sentence	sentence_31517
+31517_22	pobj	31517_19
+31517_22	has_surface_form	region
+31517_21	is_in_sentence	sentence_31517
+31517_21	compound	31517_22
+31517_21	has_surface_form	Normandy
+31517_23	is_in_sentence	sentence_31517
+31517_23	prep	31517_22
+31517_23	has_surface_form	of
+31517_24	is_in_sentence	sentence_31517
+31517_24	amod	31517_25
+31517_24	has_surface_form	northern
+31517_25	is_in_sentence	sentence_31517
+31517_25	pobj	31517_23
+31517_25	has_surface_form	France
+31517_26	is_in_sentence	sentence_31517
+31517_26	punct	31517_2
+31517_26	has_surface_form	.
+31517_27	is_in_sentence	sentence_31517
+31517_27	dep	31517_27
+31517_27	has_surface_form	
+Pontorson Airfield	surface_form	Pontorson Airfield
+Pontorson Airfield	has-type	military airfield
+military airfield	surface_form	military airfield

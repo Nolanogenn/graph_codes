@@ -1,0 +1,51 @@
+3048_0	is_in_sentence	sentence_3048
+3048_0	det	3048_3
+3048_0	has_surface_form	The
+3048_3	is_in_sentence	sentence_3048
+3048_3	nsubj	3048_4
+3048_3	has_surface_form	Bears
+3048_3	part_of_entity	Eeklo Yeti Bears
+3048_1	is_in_sentence	sentence_3048
+3048_1	compound	3048_3
+3048_1	is_entity	Eeklo
+3048_1	part_of_entity	Eeklo Yeti Bears
+Eeklo	surface_form	Eeklo
+3048_2	is_in_sentence	sentence_3048
+3048_2	compound	3048_3
+3048_2	has_surface_form	Yeti
+3048_2	part_of_entity	Eeklo Yeti Bears
+3048_4	is_in_sentence	sentence_3048
+3048_4	ROOT	3048_4
+3048_4	has_surface_form	were
+3048_5	is_in_sentence	sentence_3048
+3048_5	det	3048_8
+3048_5	has_surface_form	an
+3048_8	is_in_sentence	sentence_3048
+3048_8	attr	3048_4
+3048_8	has_surface_form	team
+3048_6	is_in_sentence	sentence_3048
+3048_6	compound	3048_7
+3048_6	has_surface_form	ice
+3048_7	is_in_sentence	sentence_3048
+3048_7	compound	3048_8
+3048_7	has_surface_form	hockey
+3048_9	is_in_sentence	sentence_3048
+3048_9	prep	3048_8
+3048_9	has_surface_form	in
+3048_10	is_in_sentence	sentence_3048
+3048_10	pobj	3048_9
+3048_10	is_entity	Eeklo
+3048_11	is_in_sentence	sentence_3048
+3048_11	punct	3048_10
+3048_11	has_surface_form	,
+3048_12	is_in_sentence	sentence_3048
+3048_12	appos	3048_10
+3048_12	has_surface_form	Belgium
+3048_13	is_in_sentence	sentence_3048
+3048_13	punct	3048_4
+3048_13	has_surface_form	.
+3048_14	is_in_sentence	sentence_3048
+3048_14	dep	3048_4
+3048_14	has_surface_form	
+Eeklo Yeti Bears	surface_form	Eeklo Yeti Bears
+Eeklo Yeti Bears	is-where	Eeklo

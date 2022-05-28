@@ -1,0 +1,73 @@
+16240_0	is_in_sentence	sentence_16240
+16240_0	compound	16240_1
+16240_0	has_surface_form	Maniyan
+16240_0	part_of_entity	Maniyan Pilla Adhava Maniyan Pilla
+16240_1	is_in_sentence	sentence_16240
+16240_1	compound	16240_4
+16240_1	has_surface_form	Pilla
+16240_1	part_of_entity	Maniyan Pilla Adhava Maniyan Pilla
+16240_4	is_in_sentence	sentence_16240
+16240_4	nsubj	16240_5
+16240_4	has_surface_form	Pilla
+16240_4	part_of_entity	Maniyan Pilla Adhava Maniyan Pilla
+16240_2	is_in_sentence	sentence_16240
+16240_2	compound	16240_4
+16240_2	has_surface_form	Adhava
+16240_2	part_of_entity	Maniyan Pilla Adhava Maniyan Pilla
+16240_3	is_in_sentence	sentence_16240
+16240_3	compound	16240_4
+16240_3	has_surface_form	Maniyan
+16240_3	part_of_entity	Maniyan Pilla Adhava Maniyan Pilla
+16240_5	is_in_sentence	sentence_16240
+16240_5	ROOT	16240_5
+16240_5	has_surface_form	is
+16240_6	is_in_sentence	sentence_16240
+16240_6	det	16240_10
+16240_6	has_surface_form	a
+16240_10	is_in_sentence	sentence_16240
+16240_10	attr	16240_5
+16240_10	has_surface_form	film
+16240_7	is_in_sentence	sentence_16240
+16240_7	nummod	16240_10
+16240_7	has_surface_form	1981
+16240_8	is_in_sentence	sentence_16240
+16240_8	compound	16240_9
+16240_8	has_surface_form	Indian
+16240_9	is_in_sentence	sentence_16240
+16240_9	compound	16240_10
+16240_9	has_surface_form	Malayalam
+16240_11	is_in_sentence	sentence_16240
+16240_11	punct	16240_10
+16240_11	has_surface_form	,
+16240_12	is_in_sentence	sentence_16240
+16240_12	acl	16240_10
+16240_12	has_surface_form	directed
+16240_13	is_in_sentence	sentence_16240
+16240_13	agent	16240_12
+16240_13	has_surface_form	by
+16240_14	is_in_sentence	sentence_16240
+16240_14	compound	16240_15
+16240_14	has_surface_form	Balachandra
+16240_14	part_of_entity	Balachandra Menon
+16240_15	is_in_sentence	sentence_16240
+16240_15	pobj	16240_13
+16240_15	has_surface_form	Menon
+16240_15	part_of_entity	Balachandra Menon
+16240_16	is_in_sentence	sentence_16240
+16240_16	cc	16240_12
+16240_16	has_surface_form	and
+16240_17	is_in_sentence	sentence_16240
+16240_17	conj	16240_12
+16240_17	has_surface_form	produced
+16240_18	is_in_sentence	sentence_16240
+16240_18	agent	16240_17
+16240_18	has_surface_form	by
+16240_19	is_in_sentence	sentence_16240
+16240_19	compound	16240_20
+16240_19	has_surface_form	E.
+16240_20	is_in_sentence	sentence_16240
+16240_20	dep	16240_18
+16240_20	has_surface_form	
+Maniyan Pilla Adhava Maniyan Pilla	surface_form	Maniyan Pilla Adhava Maniyan Pilla
+Maniyan Pilla Adhava Maniyan Pilla	movie-has-director	Balachandra Menon
+Balachandra Menon	surface_form	Balachandra Menon

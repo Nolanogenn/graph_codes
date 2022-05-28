@@ -1,0 +1,53 @@
+19234_0	is_in_sentence	sentence_19234
+19234_0	det	19234_2
+19234_0	has_surface_form	The
+19234_2	is_in_sentence	sentence_19234
+19234_2	nsubjpass	19234_4
+19234_2	has_surface_form	trap
+19234_2	part_of_entity	Lobster trap
+19234_1	is_in_sentence	sentence_19234
+19234_1	compound	19234_2
+19234_1	has_surface_form	Lobster
+19234_1	part_of_entity	Lobster trap
+19234_4	is_in_sentence	sentence_19234
+19234_4	ROOT	19234_4
+19234_4	has_surface_form	invented
+19234_3	is_in_sentence	sentence_19234
+19234_3	auxpass	19234_4
+19234_3	has_surface_form	was
+19234_5	is_in_sentence	sentence_19234
+19234_5	prep	19234_4
+19234_5	has_surface_form	in
+19234_6	is_in_sentence	sentence_19234
+19234_6	pobj	19234_5
+19234_6	is_entity	1808
+1808	surface_form	1808
+19234_7	is_in_sentence	sentence_19234
+19234_7	agent	19234_4
+19234_7	has_surface_form	by
+19234_8	is_in_sentence	sentence_19234
+19234_8	compound	19234_9
+19234_8	has_surface_form	Ebenezer
+19234_9	is_in_sentence	sentence_19234
+19234_9	pobj	19234_7
+19234_9	has_surface_form	Thorndike
+19234_10	is_in_sentence	sentence_19234
+19234_10	prep	19234_9
+19234_10	has_surface_form	of
+19234_11	is_in_sentence	sentence_19234
+19234_11	pobj	19234_10
+19234_11	has_surface_form	Swampscott
+19234_12	is_in_sentence	sentence_19234
+19234_12	punct	19234_11
+19234_12	has_surface_form	,
+19234_13	is_in_sentence	sentence_19234
+19234_13	appos	19234_11
+19234_13	has_surface_form	Massachusetts
+19234_14	is_in_sentence	sentence_19234
+19234_14	punct	19234_4
+19234_14	has_surface_form	.
+19234_15	is_in_sentence	sentence_19234
+19234_15	dep	19234_4
+19234_15	has_surface_form	
+Lobster trap	surface_form	Lobster trap
+Lobster trap	invented-when	1808

@@ -1,0 +1,93 @@
+4896_0	is_in_sentence	sentence_4896
+4896_0	compound	4896_1
+4896_0	has_surface_form	Goodbye
+4896_0	part_of_entity	Goodbye Picasso
+4896_1	is_in_sentence	sentence_4896
+4896_1	nsubj	4896_2
+4896_1	has_surface_form	Picasso
+4896_1	part_of_entity	Goodbye Picasso
+4896_2	is_in_sentence	sentence_4896
+4896_2	ROOT	4896_2
+4896_2	has_surface_form	is
+4896_3	is_in_sentence	sentence_4896
+4896_3	det	4896_6
+4896_3	has_surface_form	an
+4896_6	is_in_sentence	sentence_4896
+4896_6	attr	4896_2
+4896_6	has_surface_form	act
+4896_4	is_in_sentence	sentence_4896
+4896_4	amod	4896_6
+4896_4	has_surface_form	American
+4896_5	is_in_sentence	sentence_4896
+4896_5	compound	4896_6
+4896_5	has_surface_form	rock
+4896_7	is_in_sentence	sentence_4896
+4896_7	acl	4896_6
+4896_7	has_surface_form	based
+4896_8	is_in_sentence	sentence_4896
+4896_8	prep	4896_7
+4896_8	has_surface_form	in
+4896_9	is_in_sentence	sentence_4896
+4896_9	compound	4896_10
+4896_9	has_surface_form	New
+4896_10	is_in_sentence	sentence_4896
+4896_10	pobj	4896_8
+4896_10	has_surface_form	York
+4896_11	is_in_sentence	sentence_4896
+4896_11	punct	4896_10
+4896_11	has_surface_form	,
+4896_12	is_in_sentence	sentence_4896
+4896_12	appos	4896_10
+4896_12	has_surface_form	NY
+4896_13	is_in_sentence	sentence_4896
+4896_13	punct	4896_2
+4896_13	has_surface_form	.
+4896_14	is_in_sentence	sentence_4896
+4896_14	det	4896_16
+4896_14	has_surface_form	The
+4896_16	is_in_sentence	sentence_4896
+4896_16	nsubj	4896_20
+4896_16	has_surface_form	members
+4896_15	is_in_sentence	sentence_4896
+4896_15	amod	4896_16
+4896_15	has_surface_form	principal
+4896_20	is_in_sentence	sentence_4896
+4896_20	ROOT	4896_20
+4896_20	has_surface_form	are
+4896_17	is_in_sentence	sentence_4896
+4896_17	prep	4896_16
+4896_17	has_surface_form	of
+4896_18	is_in_sentence	sentence_4896
+4896_18	compound	4896_19
+4896_18	has_surface_form	Goodbye
+4896_18	part_of_entity	Goodbye Picasso
+4896_19	is_in_sentence	sentence_4896
+4896_19	pobj	4896_17
+4896_19	has_surface_form	Picasso
+4896_19	part_of_entity	Goodbye Picasso
+4896_21	is_in_sentence	sentence_4896
+4896_21	compound	4896_22
+4896_21	has_surface_form	Chris
+4896_22	is_in_sentence	sentence_4896
+4896_22	attr	4896_20
+4896_22	has_surface_form	Dreyer
+4896_23	is_in_sentence	sentence_4896
+4896_23	cc	4896_22
+4896_23	has_surface_form	and
+4896_24	is_in_sentence	sentence_4896
+4896_24	compound	4896_25
+4896_24	has_surface_form	Scott
+4896_24	part_of_entity	Scott Taylor
+4896_25	is_in_sentence	sentence_4896
+4896_25	conj	4896_22
+4896_25	has_surface_form	Taylor
+4896_25	part_of_entity	Scott Taylor
+4896_26	is_in_sentence	sentence_4896
+4896_26	punct	4896_20
+4896_26	has_surface_form	.
+4896_27	is_in_sentence	sentence_4896
+4896_27	dep	4896_20
+4896_27	has_surface_form	
+Goodbye Picasso	surface_form	Goodbye Picasso
+Goodbye Picasso	org-has-member	Scott Taylor
+Scott Taylor	surface_form	Scott Taylor

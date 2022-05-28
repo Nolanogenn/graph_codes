@@ -1,0 +1,100 @@
+21036_0	is_in_sentence	sentence_21036
+21036_0	det	21036_4
+21036_0	has_surface_form	The
+21036_0	part_of_entity	The New York City Department of Education
+21036_4	is_in_sentence	sentence_21036
+21036_4	nsubj	21036_10
+21036_4	has_surface_form	Department
+21036_4	part_of_entity	The New York City Department of Education
+21036_1	is_in_sentence	sentence_21036
+21036_1	compound	21036_2
+21036_1	has_surface_form	New
+21036_1	part_of_entity	The New York City Department of Education
+21036_2	is_in_sentence	sentence_21036
+21036_2	compound	21036_3
+21036_2	has_surface_form	York
+21036_2	part_of_entity	The New York City Department of Education
+21036_3	is_in_sentence	sentence_21036
+21036_3	compound	21036_4
+21036_3	has_surface_form	City
+21036_3	part_of_entity	The New York City Department of Education
+21036_10	is_in_sentence	sentence_21036
+21036_10	ROOT	21036_10
+21036_10	has_surface_form	is
+21036_5	is_in_sentence	sentence_21036
+21036_5	prep	21036_4
+21036_5	has_surface_form	of
+21036_5	part_of_entity	The New York City Department of Education
+21036_6	is_in_sentence	sentence_21036
+21036_6	pobj	21036_5
+21036_6	has_surface_form	Education
+21036_6	part_of_entity	The New York City Department of Education
+21036_7	is_in_sentence	sentence_21036
+21036_7	punct	21036_8
+21036_7	has_surface_form	(
+21036_8	is_in_sentence	sentence_21036
+21036_8	appos	21036_4
+21036_8	has_surface_form	NYCDOE
+21036_9	is_in_sentence	sentence_21036
+21036_9	punct	21036_8
+21036_9	has_surface_form	)
+21036_11	is_in_sentence	sentence_21036
+21036_11	det	21036_12
+21036_11	has_surface_form	the
+21036_12	is_in_sentence	sentence_21036
+21036_12	attr	21036_10
+21036_12	is_entity	department
+department	surface_form	department
+21036_13	is_in_sentence	sentence_21036
+21036_13	prep	21036_12
+21036_13	has_surface_form	of
+21036_14	is_in_sentence	sentence_21036
+21036_14	det	21036_15
+21036_14	has_surface_form	the
+21036_15	is_in_sentence	sentence_21036
+21036_15	pobj	21036_13
+21036_15	has_surface_form	government
+21036_16	is_in_sentence	sentence_21036
+21036_16	prep	21036_15
+21036_16	has_surface_form	of
+21036_17	is_in_sentence	sentence_21036
+21036_17	compound	21036_18
+21036_17	has_surface_form	New
+21036_18	is_in_sentence	sentence_21036
+21036_18	compound	21036_19
+21036_18	has_surface_form	York
+21036_19	is_in_sentence	sentence_21036
+21036_19	pobj	21036_16
+21036_19	has_surface_form	City
+21036_20	is_in_sentence	sentence_21036
+21036_20	nsubj	21036_21
+21036_20	has_surface_form	that
+21036_21	is_in_sentence	sentence_21036
+21036_21	relcl	21036_12
+21036_21	has_surface_form	manages
+21036_22	is_in_sentence	sentence_21036
+21036_22	det	21036_23
+21036_22	has_surface_form	the
+21036_23	is_in_sentence	sentence_21036
+21036_23	poss	21036_27
+21036_23	has_surface_form	city
+21036_27	is_in_sentence	sentence_21036
+21036_27	dobj	21036_21
+21036_27	has_surface_form	system
+21036_24	is_in_sentence	sentence_21036
+21036_24	case	21036_23
+21036_24	has_surface_form	's
+21036_25	is_in_sentence	sentence_21036
+21036_25	amod	21036_26
+21036_25	has_surface_form	public
+21036_26	is_in_sentence	sentence_21036
+21036_26	compound	21036_27
+21036_26	has_surface_form	school
+21036_28	is_in_sentence	sentence_21036
+21036_28	punct	21036_10
+21036_28	has_surface_form	.
+21036_29	is_in_sentence	sentence_21036
+21036_29	dep	21036_29
+21036_29	has_surface_form	
+The New York City Department of Education	surface_form	The New York City Department of Education
+The New York City Department of Education	has-type	department

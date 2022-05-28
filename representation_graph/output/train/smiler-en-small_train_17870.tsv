@@ -1,0 +1,70 @@
+17869_0	is_in_sentence	sentence_17869
+17869_0	compound	17869_1
+17869_0	has_surface_form	Sentimental
+17869_0	part_of_entity	Sentimental Yasuko
+17869_1	is_in_sentence	sentence_17869
+17869_1	nsubj	17869_8
+17869_1	has_surface_form	Yasuko
+17869_1	part_of_entity	Sentimental Yasuko
+17869_8	is_in_sentence	sentence_17869
+17869_8	ROOT	17869_8
+17869_8	has_surface_form	is
+17869_2	is_in_sentence	sentence_17869
+17869_2	punct	17869_1
+17869_2	has_surface_form	(
+17869_3	is_in_sentence	sentence_17869
+17869_3	appos	17869_1
+17869_3	has_surface_form	センチメンタルヤスコ
+17869_4	is_in_sentence	sentence_17869
+17869_4	punct	17869_3
+17869_4	has_surface_form	,
+17869_5	is_in_sentence	sentence_17869
+17869_5	compound	17869_6
+17869_5	has_surface_form	Senchimentaru
+17869_6	is_in_sentence	sentence_17869
+17869_6	npadvmod	17869_3
+17869_6	has_surface_form	Yasuko
+17869_7	is_in_sentence	sentence_17869
+17869_7	punct	17869_1
+17869_7	has_surface_form	)
+17869_9	is_in_sentence	sentence_17869
+17869_9	det	17869_14
+17869_9	has_surface_form	a
+17869_14	is_in_sentence	sentence_17869
+17869_14	attr	17869_8
+17869_14	has_surface_form	film
+17869_10	is_in_sentence	sentence_17869
+17869_10	nummod	17869_14
+17869_10	has_surface_form	2012
+17869_11	is_in_sentence	sentence_17869
+17869_11	amod	17869_14
+17869_11	has_surface_form	Japanese
+17869_12	is_in_sentence	sentence_17869
+17869_12	compound	17869_14
+17869_12	has_surface_form	mystery
+17869_13	is_in_sentence	sentence_17869
+17869_13	compound	17869_14
+17869_13	has_surface_form	drama
+17869_15	is_in_sentence	sentence_17869
+17869_15	acl	17869_14
+17869_15	has_surface_form	directed
+17869_16	is_in_sentence	sentence_17869
+17869_16	agent	17869_15
+17869_16	has_surface_form	by
+17869_17	is_in_sentence	sentence_17869
+17869_17	compound	17869_18
+17869_17	has_surface_form	Kei
+17869_17	part_of_entity	Kei Horie
+17869_18	is_in_sentence	sentence_17869
+17869_18	pobj	17869_16
+17869_18	has_surface_form	Horie
+17869_18	part_of_entity	Kei Horie
+17869_19	is_in_sentence	sentence_17869
+17869_19	punct	17869_8
+17869_19	has_surface_form	.
+17869_20	is_in_sentence	sentence_17869
+17869_20	dep	17869_8
+17869_20	has_surface_form	
+Sentimental Yasuko	surface_form	Sentimental Yasuko
+Sentimental Yasuko	movie-has-director	Kei Horie
+Kei Horie	surface_form	Kei Horie

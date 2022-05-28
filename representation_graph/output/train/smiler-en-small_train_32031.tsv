@@ -1,0 +1,37 @@
+32030_0	is_in_sentence	sentence_32030
+32030_0	compound	32030_1
+32030_0	has_surface_form	Jeff
+32030_0	part_of_entity	Jeff Driskill
+32030_1	is_in_sentence	sentence_32030
+32030_1	nsubj	32030_2
+32030_1	has_surface_form	Driskill
+32030_1	part_of_entity	Jeff Driskill
+32030_2	is_in_sentence	sentence_32030
+32030_2	ROOT	32030_2
+32030_2	has_surface_form	is
+32030_3	is_in_sentence	sentence_32030
+32030_3	det	32030_7
+32030_3	has_surface_form	a
+32030_7	is_in_sentence	sentence_32030
+32030_7	attr	32030_2
+32030_7	has_surface_form	coach
+32030_7	part_of_entity	football coach
+32030_4	is_in_sentence	sentence_32030
+32030_4	amod	32030_7
+32030_4	has_surface_form	former
+32030_5	is_in_sentence	sentence_32030
+32030_5	amod	32030_7
+32030_5	has_surface_form	American
+32030_6	is_in_sentence	sentence_32030
+32030_6	compound	32030_7
+32030_6	has_surface_form	football
+32030_6	part_of_entity	football coach
+32030_8	is_in_sentence	sentence_32030
+32030_8	punct	32030_2
+32030_8	has_surface_form	.
+32030_9	is_in_sentence	sentence_32030
+32030_9	dep	32030_9
+32030_9	has_surface_form	
+Jeff Driskill	surface_form	Jeff Driskill
+Jeff Driskill	has-type	football coach
+football coach	surface_form	football coach

@@ -1,0 +1,66 @@
+8926_0	is_in_sentence	sentence_8926
+8926_0	compound	8926_2
+8926_0	has_surface_form	Tohoku
+8926_0	part_of_entity	Tohoku Gakuin University
+8926_2	is_in_sentence	sentence_8926
+8926_2	nsubj	8926_10
+8926_2	has_surface_form	University
+8926_2	part_of_entity	Tohoku Gakuin University
+8926_1	is_in_sentence	sentence_8926
+8926_1	compound	8926_2
+8926_1	has_surface_form	Gakuin
+8926_1	part_of_entity	Tohoku Gakuin University
+8926_10	is_in_sentence	sentence_8926
+8926_10	ROOT	8926_10
+8926_10	has_surface_form	is
+8926_3	is_in_sentence	sentence_8926
+8926_3	punct	8926_4
+8926_3	has_surface_form	(
+8926_4	is_in_sentence	sentence_8926
+8926_4	appos	8926_2
+8926_4	has_surface_form	東北学院大学
+8926_5	is_in_sentence	sentence_8926
+8926_5	punct	8926_4
+8926_5	has_surface_form	,
+8926_6	is_in_sentence	sentence_8926
+8926_6	compound	8926_8
+8926_6	has_surface_form	Tōhoku
+8926_8	is_in_sentence	sentence_8926
+8926_8	npadvmod	8926_4
+8926_8	has_surface_form	Daigaku
+8926_7	is_in_sentence	sentence_8926
+8926_7	compound	8926_8
+8926_7	has_surface_form	Gakuin
+8926_9	is_in_sentence	sentence_8926
+8926_9	punct	8926_4
+8926_9	has_surface_form	)
+8926_11	is_in_sentence	sentence_8926
+8926_11	det	8926_13
+8926_11	has_surface_form	a
+8926_13	is_in_sentence	sentence_8926
+8926_13	attr	8926_10
+8926_13	has_surface_form	university
+8926_12	is_in_sentence	sentence_8926
+8926_12	amod	8926_13
+8926_12	has_surface_form	private
+8926_14	is_in_sentence	sentence_8926
+8926_14	prep	8926_13
+8926_14	has_surface_form	in
+8926_15	is_in_sentence	sentence_8926
+8926_15	pobj	8926_14
+8926_15	is_entity	Sendai
+Sendai	surface_form	Sendai
+8926_16	is_in_sentence	sentence_8926
+8926_16	punct	8926_15
+8926_16	has_surface_form	,
+8926_17	is_in_sentence	sentence_8926
+8926_17	appos	8926_15
+8926_17	has_surface_form	Japan
+8926_18	is_in_sentence	sentence_8926
+8926_18	punct	8926_10
+8926_18	has_surface_form	.
+8926_19	is_in_sentence	sentence_8926
+8926_19	dep	8926_10
+8926_19	has_surface_form	
+Tohoku Gakuin University	surface_form	Tohoku Gakuin University
+Tohoku Gakuin University	is-where	Sendai

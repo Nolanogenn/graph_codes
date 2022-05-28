@@ -1,0 +1,90 @@
+216_0	is_in_sentence	sentence_216
+216_0	det	216_1
+216_0	has_surface_form	A
+216_0	part_of_entity	A Dog in Space
+216_1	is_in_sentence	sentence_216
+216_1	nsubj	216_12
+216_1	has_surface_form	Dog
+216_1	part_of_entity	A Dog in Space
+216_12	is_in_sentence	sentence_216
+216_12	ROOT	216_12
+216_12	has_surface_form	is
+216_2	is_in_sentence	sentence_216
+216_2	prep	216_1
+216_2	has_surface_form	in
+216_2	part_of_entity	A Dog in Space
+216_3	is_in_sentence	sentence_216
+216_3	pobj	216_2
+216_3	has_surface_form	Space
+216_3	part_of_entity	A Dog in Space
+216_4	is_in_sentence	sentence_216
+216_4	punct	216_5
+216_4	has_surface_form	(
+216_5	is_in_sentence	sentence_216
+216_5	appos	216_1
+216_5	has_surface_form	Spanish
+216_6	is_in_sentence	sentence_216
+216_6	punct	216_5
+216_6	has_surface_form	:
+216_7	is_in_sentence	sentence_216
+216_7	compound	216_8
+216_7	has_surface_form	Un
+216_8	is_in_sentence	sentence_216
+216_8	nsubj	216_12
+216_8	has_surface_form	perro
+216_9	is_in_sentence	sentence_216
+216_9	nmod	216_10
+216_9	has_surface_form	en
+216_10	is_in_sentence	sentence_216
+216_10	appos	216_8
+216_10	has_surface_form	órbita
+216_11	is_in_sentence	sentence_216
+216_11	punct	216_8
+216_11	has_surface_form	)
+216_13	is_in_sentence	sentence_216
+216_13	det	216_16
+216_13	has_surface_form	a
+216_16	is_in_sentence	sentence_216
+216_16	attr	216_12
+216_16	has_surface_form	film
+216_14	is_in_sentence	sentence_216
+216_14	nummod	216_16
+216_14	has_surface_form	1966
+216_15	is_in_sentence	sentence_216
+216_15	amod	216_16
+216_15	has_surface_form	Spanish
+216_17	is_in_sentence	sentence_216
+216_17	acl	216_16
+216_17	has_surface_form	directed
+216_18	is_in_sentence	sentence_216
+216_18	agent	216_17
+216_18	has_surface_form	by
+216_19	is_in_sentence	sentence_216
+216_19	nmod	216_21
+216_19	has_surface_form	Antonio
+216_21	is_in_sentence	sentence_216
+216_21	pobj	216_18
+216_21	has_surface_form	Amo
+216_20	is_in_sentence	sentence_216
+216_20	nmod	216_21
+216_20	has_surface_form	del
+216_22	is_in_sentence	sentence_216
+216_22	cc	216_21
+216_22	has_surface_form	and
+216_23	is_in_sentence	sentence_216
+216_23	compound	216_24
+216_23	has_surface_form	Antonio
+216_23	part_of_entity	Antonio Román
+216_24	is_in_sentence	sentence_216
+216_24	conj	216_21
+216_24	has_surface_form	Román
+216_24	part_of_entity	Antonio Román
+216_25	is_in_sentence	sentence_216
+216_25	punct	216_12
+216_25	has_surface_form	.
+216_26	is_in_sentence	sentence_216
+216_26	dep	216_26
+216_26	has_surface_form	
+A Dog in Space	surface_form	A Dog in Space
+A Dog in Space	movie-has-director	Antonio Román
+Antonio Román	surface_form	Antonio Román

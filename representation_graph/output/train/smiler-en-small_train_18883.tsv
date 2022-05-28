@@ -1,0 +1,102 @@
+18882_0	is_in_sentence	sentence_18882
+18882_0	det	18882_3
+18882_0	has_surface_form	The
+18882_3	is_in_sentence	sentence_18882
+18882_3	nsubjpass	18882_5
+18882_3	has_surface_form	Association
+18882_1	is_in_sentence	sentence_18882
+18882_1	compound	18882_3
+18882_1	has_surface_form	Machias
+18882_2	is_in_sentence	sentence_18882
+18882_2	compound	18882_3
+18882_2	has_surface_form	Library
+18882_5	is_in_sentence	sentence_18882
+18882_5	ROOT	18882_5
+18882_5	has_surface_form	formed
+18882_4	is_in_sentence	sentence_18882
+18882_4	auxpass	18882_5
+18882_4	has_surface_form	was
+18882_6	is_in_sentence	sentence_18882
+18882_6	prep	18882_5
+18882_6	has_surface_form	about
+18882_7	is_in_sentence	sentence_18882
+18882_7	pobj	18882_6
+18882_7	has_surface_form	1815
+18882_8	is_in_sentence	sentence_18882
+18882_8	agent	18882_5
+18882_8	has_surface_form	by
+18882_9	is_in_sentence	sentence_18882
+18882_9	compound	18882_11
+18882_9	has_surface_form	Rufus
+18882_9	part_of_entity	Rufus K. Porter
+18882_11	is_in_sentence	sentence_18882
+18882_11	pobj	18882_8
+18882_11	has_surface_form	Porter
+18882_11	part_of_entity	Rufus K. Porter
+18882_10	is_in_sentence	sentence_18882
+18882_10	compound	18882_11
+18882_10	has_surface_form	K.
+18882_10	part_of_entity	Rufus K. Porter
+18882_12	is_in_sentence	sentence_18882
+18882_12	punct	18882_11
+18882_12	has_surface_form	,
+18882_13	is_in_sentence	sentence_18882
+18882_13	det	18882_15
+18882_13	has_surface_form	a
+18882_15	is_in_sentence	sentence_18882
+18882_15	appos	18882_11
+18882_15	has_surface_form	attorney
+18882_14	is_in_sentence	sentence_18882
+18882_14	amod	18882_15
+18882_14	has_surface_form	local
+18882_16	is_in_sentence	sentence_18882
+18882_16	punct	18882_5
+18882_16	has_surface_form	.
+18882_17	is_in_sentence	sentence_18882
+18882_17	poss	18882_18
+18882_17	has_surface_form	His
+18882_18	is_in_sentence	sentence_18882
+18882_18	nsubj	18882_24
+18882_18	has_surface_form	son
+18882_24	is_in_sentence	sentence_18882
+18882_24	ROOT	18882_24
+18882_24	has_surface_form	was
+18882_19	is_in_sentence	sentence_18882
+18882_19	punct	18882_18
+18882_19	has_surface_form	,
+18882_20	is_in_sentence	sentence_18882
+18882_20	compound	18882_22
+18882_20	has_surface_form	Henry
+18882_20	part_of_entity	Henry Homes Porter
+18882_22	is_in_sentence	sentence_18882
+18882_22	appos	18882_18
+18882_22	has_surface_form	Porter
+18882_22	part_of_entity	Henry Homes Porter
+18882_21	is_in_sentence	sentence_18882
+18882_21	compound	18882_22
+18882_21	has_surface_form	Homes
+18882_21	part_of_entity	Henry Homes Porter
+18882_23	is_in_sentence	sentence_18882
+18882_23	punct	18882_18
+18882_23	has_surface_form	,
+18882_25	is_in_sentence	sentence_18882
+18882_25	det	18882_28
+18882_25	has_surface_form	a
+18882_28	is_in_sentence	sentence_18882
+18882_28	attr	18882_24
+18882_28	has_surface_form	executive
+18882_26	is_in_sentence	sentence_18882
+18882_26	amod	18882_28
+18882_26	has_surface_form	successful
+18882_27	is_in_sentence	sentence_18882
+18882_27	compound	18882_28
+18882_27	has_surface_form	railroad
+18882_29	is_in_sentence	sentence_18882
+18882_29	punct	18882_24
+18882_29	has_surface_form	.
+18882_30	is_in_sentence	sentence_18882
+18882_30	dep	18882_30
+18882_30	has_surface_form	
+Rufus K. Porter	surface_form	Rufus K. Porter
+Rufus K. Porter	has-child	Henry Homes Porter
+Henry Homes Porter	surface_form	Henry Homes Porter

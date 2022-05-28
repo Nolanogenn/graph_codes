@@ -1,0 +1,97 @@
+1634_0	is_in_sentence	sentence_1634
+1634_0	det	1634_1
+1634_0	has_surface_form	The
+1634_0	part_of_entity	The Degenhardts
+1634_1	is_in_sentence	sentence_1634
+1634_1	nsubj	1634_8
+1634_1	has_surface_form	Degenhardts
+1634_1	part_of_entity	The Degenhardts
+1634_8	is_in_sentence	sentence_1634
+1634_8	ROOT	1634_8
+1634_8	has_surface_form	is
+1634_2	is_in_sentence	sentence_1634
+1634_2	punct	1634_5
+1634_2	has_surface_form	(
+1634_5	is_in_sentence	sentence_1634
+1634_5	compound	1634_6
+1634_5	has_surface_form	Die
+1634_3	is_in_sentence	sentence_1634
+1634_3	amod	1634_5
+1634_3	has_surface_form	German
+1634_4	is_in_sentence	sentence_1634
+1634_4	punct	1634_5
+1634_4	has_surface_form	:
+1634_6	is_in_sentence	sentence_1634
+1634_6	appos	1634_1
+1634_6	has_surface_form	Degenhardts
+1634_7	is_in_sentence	sentence_1634
+1634_7	punct	1634_1
+1634_7	has_surface_form	)
+1634_9	is_in_sentence	sentence_1634
+1634_9	det	1634_13
+1634_9	has_surface_form	a
+1634_13	is_in_sentence	sentence_1634
+1634_13	attr	1634_8
+1634_13	has_surface_form	film
+1634_10	is_in_sentence	sentence_1634
+1634_10	nummod	1634_13
+1634_10	has_surface_form	1944
+1634_11	is_in_sentence	sentence_1634
+1634_11	amod	1634_13
+1634_11	has_surface_form	German
+1634_12	is_in_sentence	sentence_1634
+1634_12	compound	1634_13
+1634_12	has_surface_form	drama
+1634_14	is_in_sentence	sentence_1634
+1634_14	acl	1634_13
+1634_14	has_surface_form	directed
+1634_15	is_in_sentence	sentence_1634
+1634_15	agent	1634_14
+1634_15	has_surface_form	by
+1634_16	is_in_sentence	sentence_1634
+1634_16	compound	1634_17
+1634_16	has_surface_form	Werner
+1634_16	part_of_entity	Werner Klingler
+1634_17	is_in_sentence	sentence_1634
+1634_17	pobj	1634_15
+1634_17	has_surface_form	Klingler
+1634_17	part_of_entity	Werner Klingler
+1634_18	is_in_sentence	sentence_1634
+1634_18	cc	1634_14
+1634_18	has_surface_form	and
+1634_19	is_in_sentence	sentence_1634
+1634_19	conj	1634_14
+1634_19	has_surface_form	starring
+1634_20	is_in_sentence	sentence_1634
+1634_20	compound	1634_21
+1634_20	has_surface_form	Heinrich
+1634_21	is_in_sentence	sentence_1634
+1634_21	dobj	1634_19
+1634_21	has_surface_form	George
+1634_22	is_in_sentence	sentence_1634
+1634_22	punct	1634_21
+1634_22	has_surface_form	,
+1634_23	is_in_sentence	sentence_1634
+1634_23	compound	1634_24
+1634_23	has_surface_form	Ernst
+1634_24	is_in_sentence	sentence_1634
+1634_24	conj	1634_21
+1634_24	has_surface_form	Schröder
+1634_25	is_in_sentence	sentence_1634
+1634_25	cc	1634_24
+1634_25	has_surface_form	and
+1634_26	is_in_sentence	sentence_1634
+1634_26	compound	1634_27
+1634_26	has_surface_form	Gunnar
+1634_27	is_in_sentence	sentence_1634
+1634_27	conj	1634_24
+1634_27	has_surface_form	Möller
+1634_28	is_in_sentence	sentence_1634
+1634_28	punct	1634_8
+1634_28	has_surface_form	.
+1634_29	is_in_sentence	sentence_1634
+1634_29	dep	1634_8
+1634_29	has_surface_form	
+The Degenhardts	surface_form	The Degenhardts
+The Degenhardts	movie-has-director	Werner Klingler
+Werner Klingler	surface_form	Werner Klingler

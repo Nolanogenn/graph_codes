@@ -1,0 +1,83 @@
+19943_0	is_in_sentence	sentence_19943
+19943_0	compound	19943_1
+19943_0	has_surface_form	Scarlet
+19943_0	part_of_entity	Scarlet Seas
+19943_1	is_in_sentence	sentence_19943
+19943_1	nsubj	19943_2
+19943_1	has_surface_form	Seas
+19943_1	part_of_entity	Scarlet Seas
+19943_2	is_in_sentence	sentence_19943
+19943_2	ROOT	19943_2
+19943_2	has_surface_form	is
+19943_3	is_in_sentence	sentence_19943
+19943_3	det	19943_10
+19943_3	has_surface_form	a
+19943_10	is_in_sentence	sentence_19943
+19943_10	attr	19943_2
+19943_10	has_surface_form	film
+19943_4	is_in_sentence	sentence_19943
+19943_4	amod	19943_10
+19943_4	has_surface_form	surviving
+19943_5	is_in_sentence	sentence_19943
+19943_5	nummod	19943_10
+19943_5	has_surface_form	1929
+19943_6	is_in_sentence	sentence_19943
+19943_6	amod	19943_10
+19943_6	has_surface_form	American
+19943_7	is_in_sentence	sentence_19943
+19943_7	amod	19943_10
+19943_7	has_surface_form	silent
+19943_8	is_in_sentence	sentence_19943
+19943_8	amod	19943_10
+19943_8	has_surface_form	romantic
+19943_9	is_in_sentence	sentence_19943
+19943_9	compound	19943_10
+19943_9	has_surface_form	adventure
+19943_11	is_in_sentence	sentence_19943
+19943_11	acl	19943_10
+19943_11	has_surface_form	produced
+19943_12	is_in_sentence	sentence_19943
+19943_12	agent	19943_11
+19943_12	has_surface_form	by
+19943_13	is_in_sentence	sentence_19943
+19943_13	compound	19943_14
+19943_13	has_surface_form	Richard
+19943_14	is_in_sentence	sentence_19943
+19943_14	pobj	19943_12
+19943_14	has_surface_form	A.
+19943_15	is_in_sentence	sentence_19943
+19943_15	det	19943_16
+19943_15	has_surface_form	The
+19943_16	is_in_sentence	sentence_19943
+19943_16	nsubjpass	19943_18
+19943_16	has_surface_form	picture
+19943_18	is_in_sentence	sentence_19943
+19943_18	ROOT	19943_18
+19943_18	has_surface_form	directed
+19943_17	is_in_sentence	sentence_19943
+19943_17	auxpass	19943_18
+19943_17	has_surface_form	was
+19943_19	is_in_sentence	sentence_19943
+19943_19	agent	19943_18
+19943_19	has_surface_form	by
+19943_20	is_in_sentence	sentence_19943
+19943_20	compound	19943_22
+19943_20	has_surface_form	John
+19943_20	part_of_entity	John Francis Dillon
+19943_22	is_in_sentence	sentence_19943
+19943_22	pobj	19943_19
+19943_22	has_surface_form	Dillon
+19943_22	part_of_entity	John Francis Dillon
+19943_21	is_in_sentence	sentence_19943
+19943_21	compound	19943_22
+19943_21	has_surface_form	Francis
+19943_21	part_of_entity	John Francis Dillon
+19943_23	is_in_sentence	sentence_19943
+19943_23	punct	19943_18
+19943_23	has_surface_form	.
+19943_24	is_in_sentence	sentence_19943
+19943_24	dep	19943_24
+19943_24	has_surface_form	
+Scarlet Seas	surface_form	Scarlet Seas
+Scarlet Seas	movie-has-director	John Francis Dillon
+John Francis Dillon	surface_form	John Francis Dillon

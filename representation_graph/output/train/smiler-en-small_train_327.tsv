@@ -1,0 +1,55 @@
+326_0	is_in_sentence	sentence_326
+326_0	compound	326_1
+326_0	has_surface_form	Gerd
+326_0	part_of_entity	Gerd Nyquist
+326_1	is_in_sentence	sentence_326
+326_1	nsubj	326_2
+326_1	has_surface_form	Nyquist
+326_1	part_of_entity	Gerd Nyquist
+326_2	is_in_sentence	sentence_326
+326_2	ROOT	326_2
+326_2	has_surface_form	was
+326_3	is_in_sentence	sentence_326
+326_3	det	326_4
+326_3	has_surface_form	the
+326_4	is_in_sentence	sentence_326
+326_4	attr	326_2
+326_4	has_surface_form	mother
+326_5	is_in_sentence	sentence_326
+326_5	prep	326_4
+326_5	has_surface_form	of
+326_6	is_in_sentence	sentence_326
+326_6	pobj	326_5
+326_6	has_surface_form	novelist
+326_7	is_in_sentence	sentence_326
+326_7	cc	326_6
+326_7	has_surface_form	and
+326_8	is_in_sentence	sentence_326
+326_8	compound	326_10
+326_8	has_surface_form	poet
+326_10	is_in_sentence	sentence_326
+326_10	conj	326_6
+326_10	has_surface_form	Nyquist
+326_10	part_of_entity	Arild Nyquist
+326_9	is_in_sentence	sentence_326
+326_9	compound	326_10
+326_9	has_surface_form	Arild
+326_9	part_of_entity	Arild Nyquist
+326_11	is_in_sentence	sentence_326
+326_11	punct	326_10
+326_11	has_surface_form	(
+326_12	is_in_sentence	sentence_326
+326_12	appos	326_10
+326_12	has_surface_form	1937–2004
+326_13	is_in_sentence	sentence_326
+326_13	punct	326_10
+326_13	has_surface_form	)
+326_14	is_in_sentence	sentence_326
+326_14	punct	326_2
+326_14	has_surface_form	.
+326_15	is_in_sentence	sentence_326
+326_15	dep	326_15
+326_15	has_surface_form	
+Gerd Nyquist	surface_form	Gerd Nyquist
+Gerd Nyquist	has-child	Arild Nyquist
+Arild Nyquist	surface_form	Arild Nyquist

@@ -1,0 +1,88 @@
+29764_0	is_in_sentence	sentence_29764
+29764_0	compound	29764_1
+29764_0	has_surface_form	Daejeon
+29764_0	part_of_entity	Daejeon Gwanjeo High School
+29764_1	is_in_sentence	sentence_29764
+29764_1	compound	29764_3
+29764_1	has_surface_form	Gwanjeo
+29764_1	part_of_entity	Daejeon Gwanjeo High School
+29764_3	is_in_sentence	sentence_29764
+29764_3	nsubj	29764_12
+29764_3	has_surface_form	School
+29764_3	part_of_entity	Daejeon Gwanjeo High School
+29764_2	is_in_sentence	sentence_29764
+29764_2	compound	29764_3
+29764_2	has_surface_form	High
+29764_2	part_of_entity	Daejeon Gwanjeo High School
+29764_12	is_in_sentence	sentence_29764
+29764_12	ROOT	29764_12
+29764_12	has_surface_form	is
+29764_4	is_in_sentence	sentence_29764
+29764_4	punct	29764_5
+29764_4	has_surface_form	(
+29764_5	is_in_sentence	sentence_29764
+29764_5	appos	29764_3
+29764_5	has_surface_form	hangeul
+29764_6	is_in_sentence	sentence_29764
+29764_6	punct	29764_5
+29764_6	has_surface_form	:
+29764_7	is_in_sentence	sentence_29764
+29764_7	compound	29764_8
+29764_7	has_surface_form	대전관저고등학교
+29764_8	is_in_sentence	sentence_29764
+29764_8	appos	29764_5
+29764_8	has_surface_form	hanja
+29764_9	is_in_sentence	sentence_29764
+29764_9	punct	29764_8
+29764_9	has_surface_form	:
+29764_10	is_in_sentence	sentence_29764
+29764_10	appos	29764_8
+29764_10	has_surface_form	大田關雎高等學校
+29764_11	is_in_sentence	sentence_29764
+29764_11	punct	29764_8
+29764_11	has_surface_form	)
+29764_13	is_in_sentence	sentence_29764
+29764_13	det	29764_15
+29764_13	has_surface_form	a
+29764_15	is_in_sentence	sentence_29764
+29764_15	attr	29764_12
+29764_15	has_surface_form	school
+29764_14	is_in_sentence	sentence_29764
+29764_14	amod	29764_15
+29764_14	has_surface_form	high
+29764_16	is_in_sentence	sentence_29764
+29764_16	prep	29764_15
+29764_16	has_surface_form	in
+29764_17	is_in_sentence	sentence_29764
+29764_17	compound	29764_19
+29764_17	has_surface_form	Seo
+29764_19	is_in_sentence	sentence_29764
+29764_19	pobj	29764_16
+29764_19	has_surface_form	gu
+29764_18	is_in_sentence	sentence_29764
+29764_18	punct	29764_19
+29764_18	has_surface_form	-
+29764_20	is_in_sentence	sentence_29764
+29764_20	punct	29764_19
+29764_20	has_surface_form	,
+29764_21	is_in_sentence	sentence_29764
+29764_21	conj	29764_19
+29764_21	has_surface_form	Daejeon
+29764_22	is_in_sentence	sentence_29764
+29764_22	punct	29764_21
+29764_22	has_surface_form	,
+29764_23	is_in_sentence	sentence_29764
+29764_23	compound	29764_24
+29764_23	has_surface_form	South
+29764_24	is_in_sentence	sentence_29764
+29764_24	appos	29764_21
+29764_24	has_surface_form	Korea
+29764_25	is_in_sentence	sentence_29764
+29764_25	punct	29764_12
+29764_25	has_surface_form	.
+29764_26	is_in_sentence	sentence_29764
+29764_26	dep	29764_26
+29764_26	has_surface_form	
+Daejeon Gwanjeo High School	surface_form	Daejeon Gwanjeo High School
+Daejeon Gwanjeo High School	is-where	Seo-gu, Daejeon
+Seo-gu, Daejeon	surface_form	Seo-gu, Daejeon

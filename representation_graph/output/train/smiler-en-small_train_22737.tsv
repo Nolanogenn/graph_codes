@@ -1,0 +1,111 @@
+22736_0	is_in_sentence	sentence_22736
+22736_0	poss	22736_1
+22736_0	has_surface_form	My
+22736_0	part_of_entity	My Brother from Senegal
+22736_1	is_in_sentence	sentence_22736
+22736_1	nsubj	22736_12
+22736_1	has_surface_form	Brother
+22736_1	part_of_entity	My Brother from Senegal
+22736_12	is_in_sentence	sentence_22736
+22736_12	ROOT	22736_12
+22736_12	has_surface_form	is
+22736_2	is_in_sentence	sentence_22736
+22736_2	prep	22736_1
+22736_2	has_surface_form	from
+22736_2	part_of_entity	My Brother from Senegal
+22736_3	is_in_sentence	sentence_22736
+22736_3	pobj	22736_2
+22736_3	has_surface_form	Senegal
+22736_3	part_of_entity	My Brother from Senegal
+22736_4	is_in_sentence	sentence_22736
+22736_4	punct	22736_5
+22736_4	has_surface_form	(
+22736_5	is_in_sentence	sentence_22736
+22736_5	appos	22736_1
+22736_5	has_surface_form	French
+22736_6	is_in_sentence	sentence_22736
+22736_6	punct	22736_5
+22736_6	has_surface_form	:
+22736_7	is_in_sentence	sentence_22736
+22736_7	compound	22736_8
+22736_7	has_surface_form	Mon
+22736_8	is_in_sentence	sentence_22736
+22736_8	compound	22736_10
+22736_8	has_surface_form	frangin
+22736_10	is_in_sentence	sentence_22736
+22736_10	appos	22736_1
+22736_10	has_surface_form	Sénégal
+22736_9	is_in_sentence	sentence_22736
+22736_9	compound	22736_10
+22736_9	has_surface_form	du
+22736_11	is_in_sentence	sentence_22736
+22736_11	punct	22736_10
+22736_11	has_surface_form	)
+22736_13	is_in_sentence	sentence_22736
+22736_13	det	22736_17
+22736_13	has_surface_form	a
+22736_17	is_in_sentence	sentence_22736
+22736_17	attr	22736_12
+22736_17	has_surface_form	film
+22736_14	is_in_sentence	sentence_22736
+22736_14	nummod	22736_17
+22736_14	has_surface_form	1953
+22736_15	is_in_sentence	sentence_22736
+22736_15	amod	22736_17
+22736_15	has_surface_form	French
+22736_16	is_in_sentence	sentence_22736
+22736_16	compound	22736_17
+22736_16	has_surface_form	comedy
+22736_18	is_in_sentence	sentence_22736
+22736_18	acl	22736_17
+22736_18	has_surface_form	directed
+22736_19	is_in_sentence	sentence_22736
+22736_19	agent	22736_18
+22736_19	has_surface_form	by
+22736_20	is_in_sentence	sentence_22736
+22736_20	compound	22736_21
+22736_20	has_surface_form	Guy
+22736_20	part_of_entity	Guy Lacourt
+22736_21	is_in_sentence	sentence_22736
+22736_21	pobj	22736_19
+22736_21	has_surface_form	Lacourt
+22736_21	part_of_entity	Guy Lacourt
+22736_22	is_in_sentence	sentence_22736
+22736_22	cc	22736_18
+22736_22	has_surface_form	and
+22736_23	is_in_sentence	sentence_22736
+22736_23	conj	22736_18
+22736_23	has_surface_form	starring
+22736_24	is_in_sentence	sentence_22736
+22736_24	compound	22736_25
+22736_24	has_surface_form	Raymond
+22736_25	is_in_sentence	sentence_22736
+22736_25	dobj	22736_23
+22736_25	has_surface_form	Bussières
+22736_26	is_in_sentence	sentence_22736
+22736_26	punct	22736_25
+22736_26	has_surface_form	,
+22736_27	is_in_sentence	sentence_22736
+22736_27	compound	22736_28
+22736_27	has_surface_form	Annette
+22736_28	is_in_sentence	sentence_22736
+22736_28	conj	22736_25
+22736_28	has_surface_form	Poivre
+22736_29	is_in_sentence	sentence_22736
+22736_29	cc	22736_28
+22736_29	has_surface_form	and
+22736_30	is_in_sentence	sentence_22736
+22736_30	compound	22736_31
+22736_30	has_surface_form	Noël
+22736_31	is_in_sentence	sentence_22736
+22736_31	conj	22736_28
+22736_31	has_surface_form	Roquevert
+22736_32	is_in_sentence	sentence_22736
+22736_32	punct	22736_12
+22736_32	has_surface_form	.
+22736_33	is_in_sentence	sentence_22736
+22736_33	dep	22736_33
+22736_33	has_surface_form	
+My Brother from Senegal	surface_form	My Brother from Senegal
+My Brother from Senegal	movie-has-director	Guy Lacourt
+Guy Lacourt	surface_form	Guy Lacourt

@@ -1,0 +1,111 @@
+1049_0	is_in_sentence	sentence_1049
+1049_0	det	1049_1
+1049_0	has_surface_form	The
+1049_0	part_of_entity	The Man at Midnight
+1049_1	is_in_sentence	sentence_1049
+1049_1	nsubj	1049_12
+1049_1	has_surface_form	Man
+1049_1	part_of_entity	The Man at Midnight
+1049_12	is_in_sentence	sentence_1049
+1049_12	ROOT	1049_12
+1049_12	has_surface_form	is
+1049_2	is_in_sentence	sentence_1049
+1049_2	prep	1049_1
+1049_2	has_surface_form	at
+1049_2	part_of_entity	The Man at Midnight
+1049_3	is_in_sentence	sentence_1049
+1049_3	pobj	1049_2
+1049_3	has_surface_form	Midnight
+1049_3	part_of_entity	The Man at Midnight
+1049_4	is_in_sentence	sentence_1049
+1049_4	punct	1049_5
+1049_4	has_surface_form	(
+1049_5	is_in_sentence	sentence_1049
+1049_5	appos	1049_1
+1049_5	has_surface_form	French
+1049_6	is_in_sentence	sentence_1049
+1049_6	punct	1049_5
+1049_6	has_surface_form	:
+1049_7	is_in_sentence	sentence_1049
+1049_7	nmod	1049_10
+1049_7	has_surface_form	Le
+1049_10	is_in_sentence	sentence_1049
+1049_10	appos	1049_5
+1049_10	has_surface_form	minuit
+1049_8	is_in_sentence	sentence_1049
+1049_8	nmod	1049_10
+1049_8	has_surface_form	monsieur
+1049_9	is_in_sentence	sentence_1049
+1049_9	nmod	1049_10
+1049_9	has_surface_form	de
+1049_11	is_in_sentence	sentence_1049
+1049_11	punct	1049_5
+1049_11	has_surface_form	)
+1049_13	is_in_sentence	sentence_1049
+1049_13	det	1049_17
+1049_13	has_surface_form	a
+1049_17	is_in_sentence	sentence_1049
+1049_17	attr	1049_12
+1049_17	has_surface_form	film
+1049_14	is_in_sentence	sentence_1049
+1049_14	nummod	1049_17
+1049_14	has_surface_form	1931
+1049_15	is_in_sentence	sentence_1049
+1049_15	amod	1049_17
+1049_15	has_surface_form	French
+1049_16	is_in_sentence	sentence_1049
+1049_16	compound	1049_17
+1049_16	has_surface_form	comedy
+1049_18	is_in_sentence	sentence_1049
+1049_18	acl	1049_17
+1049_18	has_surface_form	directed
+1049_19	is_in_sentence	sentence_1049
+1049_19	agent	1049_18
+1049_19	has_surface_form	by
+1049_20	is_in_sentence	sentence_1049
+1049_20	compound	1049_21
+1049_20	has_surface_form	Harry
+1049_20	part_of_entity	Harry Lachman
+1049_21	is_in_sentence	sentence_1049
+1049_21	pobj	1049_19
+1049_21	has_surface_form	Lachman
+1049_21	part_of_entity	Harry Lachman
+1049_22	is_in_sentence	sentence_1049
+1049_22	cc	1049_18
+1049_22	has_surface_form	and
+1049_23	is_in_sentence	sentence_1049
+1049_23	conj	1049_18
+1049_23	has_surface_form	starring
+1049_24	is_in_sentence	sentence_1049
+1049_24	compound	1049_25
+1049_24	has_surface_form	Jean
+1049_25	is_in_sentence	sentence_1049
+1049_25	dobj	1049_23
+1049_25	has_surface_form	Weber
+1049_26	is_in_sentence	sentence_1049
+1049_26	punct	1049_25
+1049_26	has_surface_form	,
+1049_27	is_in_sentence	sentence_1049
+1049_27	compound	1049_28
+1049_27	has_surface_form	Josseline
+1049_28	is_in_sentence	sentence_1049
+1049_28	conj	1049_25
+1049_28	has_surface_form	Gaël
+1049_29	is_in_sentence	sentence_1049
+1049_29	cc	1049_28
+1049_29	has_surface_form	and
+1049_30	is_in_sentence	sentence_1049
+1049_30	compound	1049_31
+1049_30	has_surface_form	Marcel
+1049_31	is_in_sentence	sentence_1049
+1049_31	conj	1049_28
+1049_31	has_surface_form	Simon
+1049_32	is_in_sentence	sentence_1049
+1049_32	punct	1049_12
+1049_32	has_surface_form	.
+1049_33	is_in_sentence	sentence_1049
+1049_33	dep	1049_33
+1049_33	has_surface_form	
+The Man at Midnight	surface_form	The Man at Midnight
+The Man at Midnight	movie-has-director	Harry Lachman
+Harry Lachman	surface_form	Harry Lachman

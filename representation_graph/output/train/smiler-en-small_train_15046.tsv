@@ -1,0 +1,85 @@
+15045_0	is_in_sentence	sentence_15045
+15045_0	compound	15045_1
+15045_0	has_surface_form	Teton
+15045_0	part_of_entity	Teton Glacier
+15045_1	is_in_sentence	sentence_15045
+15045_1	nsubj	15045_2
+15045_1	has_surface_form	Glacier
+15045_1	part_of_entity	Teton Glacier
+15045_2	is_in_sentence	sentence_15045
+15045_2	ROOT	15045_2
+15045_2	has_surface_form	is
+15045_3	is_in_sentence	sentence_15045
+15045_3	det	15045_5
+15045_3	has_surface_form	a
+15045_5	is_in_sentence	sentence_15045
+15045_5	attr	15045_2
+15045_5	has_surface_form	glacier
+15045_5	part_of_entity	mountain glacier
+15045_4	is_in_sentence	sentence_15045
+15045_4	compound	15045_5
+15045_4	has_surface_form	mountain
+15045_4	part_of_entity	mountain glacier
+15045_6	is_in_sentence	sentence_15045
+15045_6	acl	15045_5
+15045_6	has_surface_form	located
+15045_7	is_in_sentence	sentence_15045
+15045_7	prep	15045_6
+15045_7	has_surface_form	below
+15045_8	is_in_sentence	sentence_15045
+15045_8	det	15045_10
+15045_8	has_surface_form	the
+15045_10	is_in_sentence	sentence_15045
+15045_10	pobj	15045_7
+15045_10	has_surface_form	face
+15045_9	is_in_sentence	sentence_15045
+15045_9	compound	15045_10
+15045_9	has_surface_form	north
+15045_11	is_in_sentence	sentence_15045
+15045_11	prep	15045_10
+15045_11	has_surface_form	of
+15045_12	is_in_sentence	sentence_15045
+15045_12	compound	15045_13
+15045_12	has_surface_form	Grand
+15045_13	is_in_sentence	sentence_15045
+15045_13	pobj	15045_11
+15045_13	has_surface_form	Teton
+15045_14	is_in_sentence	sentence_15045
+15045_14	prep	15045_6
+15045_14	has_surface_form	in
+15045_15	is_in_sentence	sentence_15045
+15045_15	compound	15045_16
+15045_15	has_surface_form	Grand
+15045_16	is_in_sentence	sentence_15045
+15045_16	compound	15045_18
+15045_16	has_surface_form	Teton
+15045_18	is_in_sentence	sentence_15045
+15045_18	pobj	15045_14
+15045_18	has_surface_form	Park
+15045_17	is_in_sentence	sentence_15045
+15045_17	compound	15045_18
+15045_17	has_surface_form	National
+15045_19	is_in_sentence	sentence_15045
+15045_19	punct	15045_18
+15045_19	has_surface_form	,
+15045_20	is_in_sentence	sentence_15045
+15045_20	conj	15045_18
+15045_20	has_surface_form	Wyoming
+15045_21	is_in_sentence	sentence_15045
+15045_21	punct	15045_20
+15045_21	has_surface_form	,
+15045_22	is_in_sentence	sentence_15045
+15045_22	compound	15045_23
+15045_22	has_surface_form	United
+15045_23	is_in_sentence	sentence_15045
+15045_23	appos	15045_20
+15045_23	has_surface_form	States
+15045_24	is_in_sentence	sentence_15045
+15045_24	punct	15045_2
+15045_24	has_surface_form	.
+15045_25	is_in_sentence	sentence_15045
+15045_25	dep	15045_2
+15045_25	has_surface_form	
+Teton Glacier	surface_form	Teton Glacier
+Teton Glacier	has-type	mountain glacier
+mountain glacier	surface_form	mountain glacier

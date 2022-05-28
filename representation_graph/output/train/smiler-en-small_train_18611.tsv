@@ -1,0 +1,91 @@
+18610_0	is_in_sentence	sentence_18610
+18610_0	compound	18610_1
+18610_0	has_surface_form	Anne
+18610_0	part_of_entity	Anne Rice
+18610_1	is_in_sentence	sentence_18610
+18610_1	nsubj	18610_12
+18610_1	has_surface_form	Rice
+18610_1	part_of_entity	Anne Rice
+18610_12	is_in_sentence	sentence_18610
+18610_12	ROOT	18610_12
+18610_12	has_surface_form	is
+18610_2	is_in_sentence	sentence_18610
+18610_2	punct	18610_1
+18610_2	has_surface_form	(
+18610_3	is_in_sentence	sentence_18610
+18610_3	acl	18610_1
+18610_3	has_surface_form	born
+18610_4	is_in_sentence	sentence_18610
+18610_4	compound	18610_5
+18610_4	has_surface_form	Anne
+18610_5	is_in_sentence	sentence_18610
+18610_5	dobj	18610_3
+18610_5	has_surface_form	O'Brien
+18610_6	is_in_sentence	sentence_18610
+18610_6	punct	18610_5
+18610_6	has_surface_form	,
+18610_7	is_in_sentence	sentence_18610
+18610_7	appos	18610_5
+18610_7	has_surface_form	October
+18610_8	is_in_sentence	sentence_18610
+18610_8	nummod	18610_7
+18610_8	has_surface_form	4
+18610_9	is_in_sentence	sentence_18610
+18610_9	punct	18610_7
+18610_9	has_surface_form	,
+18610_10	is_in_sentence	sentence_18610
+18610_10	nummod	18610_7
+18610_10	has_surface_form	1941
+18610_11	is_in_sentence	sentence_18610
+18610_11	punct	18610_5
+18610_11	has_surface_form	)
+18610_13	is_in_sentence	sentence_18610
+18610_13	det	18610_15
+18610_13	has_surface_form	an
+18610_15	is_in_sentence	sentence_18610
+18610_15	attr	18610_12
+18610_15	has_surface_form	author
+18610_14	is_in_sentence	sentence_18610
+18610_14	amod	18610_15
+18610_14	has_surface_form	American
+18610_16	is_in_sentence	sentence_18610
+18610_16	prep	18610_15
+18610_16	has_surface_form	of
+18610_17	is_in_sentence	sentence_18610
+18610_17	amod	18610_18
+18610_17	has_surface_form	gothic
+18610_17	part_of_entity	gothic fiction
+18610_18	is_in_sentence	sentence_18610
+18610_18	pobj	18610_16
+18610_18	has_surface_form	fiction
+18610_18	part_of_entity	gothic fiction
+18610_19	is_in_sentence	sentence_18610
+18610_19	punct	18610_18
+18610_19	has_surface_form	,
+18610_20	is_in_sentence	sentence_18610
+18610_20	amod	18610_21
+18610_20	has_surface_form	Christian
+18610_21	is_in_sentence	sentence_18610
+18610_21	conj	18610_18
+18610_21	has_surface_form	literature
+18610_22	is_in_sentence	sentence_18610
+18610_22	punct	18610_21
+18610_22	has_surface_form	,
+18610_23	is_in_sentence	sentence_18610
+18610_23	cc	18610_21
+18610_23	has_surface_form	and
+18610_24	is_in_sentence	sentence_18610
+18610_24	amod	18610_25
+18610_24	has_surface_form	erotic
+18610_25	is_in_sentence	sentence_18610
+18610_25	conj	18610_21
+18610_25	has_surface_form	literature
+18610_26	is_in_sentence	sentence_18610
+18610_26	punct	18610_12
+18610_26	has_surface_form	.
+18610_27	is_in_sentence	sentence_18610
+18610_27	dep	18610_27
+18610_27	has_surface_form	
+Anne Rice	surface_form	Anne Rice
+Anne Rice	has-genre	gothic fiction
+gothic fiction	surface_form	gothic fiction

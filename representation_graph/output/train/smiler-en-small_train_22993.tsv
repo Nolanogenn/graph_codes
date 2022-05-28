@@ -1,0 +1,50 @@
+22992_0	is_in_sentence	sentence_22992
+22992_0	det	22992_3
+22992_0	has_surface_form	The
+22992_3	is_in_sentence	sentence_22992
+22992_3	nsubjpass	22992_5
+22992_3	has_surface_form	dispenser
+22992_3	part_of_entity	Fuel dispenser
+22992_1	is_in_sentence	sentence_22992
+22992_1	amod	22992_3
+22992_1	has_surface_form	first
+22992_2	is_in_sentence	sentence_22992
+22992_2	compound	22992_3
+22992_2	has_surface_form	Fuel
+22992_2	part_of_entity	Fuel dispenser
+22992_5	is_in_sentence	sentence_22992
+22992_5	ROOT	22992_5
+22992_5	has_surface_form	patented
+22992_4	is_in_sentence	sentence_22992
+22992_4	auxpass	22992_5
+22992_4	has_surface_form	was
+22992_6	is_in_sentence	sentence_22992
+22992_6	agent	22992_5
+22992_6	has_surface_form	by
+22992_7	is_in_sentence	sentence_22992
+22992_7	compound	22992_10
+22992_7	has_surface_form	Norwegian
+22992_10	is_in_sentence	sentence_22992
+22992_10	pobj	22992_6
+22992_10	has_surface_form	Tokheim
+22992_8	is_in_sentence	sentence_22992
+22992_8	compound	22992_10
+22992_8	has_surface_form	John
+22992_9	is_in_sentence	sentence_22992
+22992_9	compound	22992_10
+22992_9	has_surface_form	J.
+22992_11	is_in_sentence	sentence_22992
+22992_11	prep	22992_5
+22992_11	has_surface_form	in
+22992_12	is_in_sentence	sentence_22992
+22992_12	pobj	22992_11
+22992_12	is_entity	1901
+1901	surface_form	1901
+22992_13	is_in_sentence	sentence_22992
+22992_13	punct	22992_5
+22992_13	has_surface_form	.
+22992_14	is_in_sentence	sentence_22992
+22992_14	dep	22992_14
+22992_14	has_surface_form	
+Fuel dispenser	surface_form	Fuel dispenser
+Fuel dispenser	invented-when	1901

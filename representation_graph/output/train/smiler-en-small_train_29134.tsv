@@ -1,0 +1,57 @@
+29133_0	is_in_sentence	sentence_29133
+29133_0	compound	29133_1
+29133_0	has_surface_form	Rock
+29133_0	part_of_entity	Rock Valley College
+29133_1	is_in_sentence	sentence_29133
+29133_1	compound	29133_2
+29133_1	has_surface_form	Valley
+29133_1	part_of_entity	Rock Valley College
+29133_2	is_in_sentence	sentence_29133
+29133_2	nsubj	29133_6
+29133_2	has_surface_form	College
+29133_2	part_of_entity	Rock Valley College
+29133_6	is_in_sentence	sentence_29133
+29133_6	ROOT	29133_6
+29133_6	has_surface_form	is
+29133_3	is_in_sentence	sentence_29133
+29133_3	punct	29133_4
+29133_3	has_surface_form	(
+29133_4	is_in_sentence	sentence_29133
+29133_4	appos	29133_2
+29133_4	has_surface_form	RVC
+29133_5	is_in_sentence	sentence_29133
+29133_5	punct	29133_4
+29133_5	has_surface_form	)
+29133_7	is_in_sentence	sentence_29133
+29133_7	det	29133_10
+29133_7	has_surface_form	a
+29133_10	is_in_sentence	sentence_29133
+29133_10	attr	29133_6
+29133_10	has_surface_form	college
+29133_8	is_in_sentence	sentence_29133
+29133_8	amod	29133_9
+29133_8	has_surface_form	public
+29133_9	is_in_sentence	sentence_29133
+29133_9	compound	29133_10
+29133_9	has_surface_form	community
+29133_11	is_in_sentence	sentence_29133
+29133_11	prep	29133_10
+29133_11	has_surface_form	in
+29133_12	is_in_sentence	sentence_29133
+29133_12	pobj	29133_11
+29133_12	has_surface_form	Rockford
+29133_13	is_in_sentence	sentence_29133
+29133_13	punct	29133_12
+29133_13	has_surface_form	,
+29133_14	is_in_sentence	sentence_29133
+29133_14	appos	29133_12
+29133_14	has_surface_form	Illinois
+29133_15	is_in_sentence	sentence_29133
+29133_15	punct	29133_6
+29133_15	has_surface_form	.
+29133_16	is_in_sentence	sentence_29133
+29133_16	dep	29133_6
+29133_16	has_surface_form	
+Rock Valley College	surface_form	Rock Valley College
+Rock Valley College	is-where	Rockford, Illinois
+Rockford, Illinois	surface_form	Rockford, Illinois

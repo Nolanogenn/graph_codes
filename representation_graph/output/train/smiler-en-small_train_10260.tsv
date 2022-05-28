@@ -1,0 +1,73 @@
+10259_0	is_in_sentence	sentence_10259
+10259_0	det	10259_1
+10259_0	has_surface_form	The
+10259_0	part_of_entity	The Holes
+10259_1	is_in_sentence	sentence_10259
+10259_1	nsubj	10259_8
+10259_1	has_surface_form	Holes
+10259_1	part_of_entity	The Holes
+10259_8	is_in_sentence	sentence_10259
+10259_8	ROOT	10259_8
+10259_8	has_surface_form	is
+10259_2	is_in_sentence	sentence_10259
+10259_2	punct	10259_3
+10259_2	has_surface_form	(
+10259_3	is_in_sentence	sentence_10259
+10259_3	appos	10259_1
+10259_3	has_surface_form	French
+10259_4	is_in_sentence	sentence_10259
+10259_4	punct	10259_3
+10259_4	has_surface_form	:
+10259_5	is_in_sentence	sentence_10259
+10259_5	compound	10259_6
+10259_5	has_surface_form	Les
+10259_6	is_in_sentence	sentence_10259
+10259_6	appos	10259_3
+10259_6	has_surface_form	gaspards
+10259_7	is_in_sentence	sentence_10259
+10259_7	punct	10259_3
+10259_7	has_surface_form	)
+10259_9	is_in_sentence	sentence_10259
+10259_9	det	10259_13
+10259_9	has_surface_form	a
+10259_13	is_in_sentence	sentence_10259
+10259_13	attr	10259_8
+10259_13	has_surface_form	film
+10259_10	is_in_sentence	sentence_10259
+10259_10	nummod	10259_13
+10259_10	has_surface_form	1974
+10259_11	is_in_sentence	sentence_10259
+10259_11	amod	10259_13
+10259_11	has_surface_form	French
+10259_12	is_in_sentence	sentence_10259
+10259_12	compound	10259_13
+10259_12	has_surface_form	comedy
+10259_14	is_in_sentence	sentence_10259
+10259_14	acl	10259_13
+10259_14	has_surface_form	written
+10259_15	is_in_sentence	sentence_10259
+10259_15	cc	10259_14
+10259_15	has_surface_form	and
+10259_16	is_in_sentence	sentence_10259
+10259_16	conj	10259_14
+10259_16	has_surface_form	directed
+10259_17	is_in_sentence	sentence_10259
+10259_17	agent	10259_16
+10259_17	has_surface_form	by
+10259_18	is_in_sentence	sentence_10259
+10259_18	compound	10259_19
+10259_18	has_surface_form	Pierre
+10259_18	part_of_entity	Pierre Tchernia
+10259_19	is_in_sentence	sentence_10259
+10259_19	pobj	10259_17
+10259_19	has_surface_form	Tchernia
+10259_19	part_of_entity	Pierre Tchernia
+10259_20	is_in_sentence	sentence_10259
+10259_20	punct	10259_8
+10259_20	has_surface_form	.
+10259_21	is_in_sentence	sentence_10259
+10259_21	dep	10259_21
+10259_21	has_surface_form	
+The Holes	surface_form	The Holes
+The Holes	movie-has-director	Pierre Tchernia
+Pierre Tchernia	surface_form	Pierre Tchernia

@@ -1,0 +1,49 @@
+14901_0	is_in_sentence	sentence_14901
+14901_0	compound	14901_1
+14901_0	has_surface_form	Tomie
+14901_0	part_of_entity	Tomie Ohtake
+14901_1	is_in_sentence	sentence_14901
+14901_1	nsubj	14901_2
+14901_1	has_surface_form	Ohtake
+14901_1	part_of_entity	Tomie Ohtake
+14901_2	is_in_sentence	sentence_14901
+14901_2	ROOT	14901_2
+14901_2	has_surface_form	was
+14901_3	is_in_sentence	sentence_14901
+14901_3	det	14901_4
+14901_3	has_surface_form	the
+14901_4	is_in_sentence	sentence_14901
+14901_4	attr	14901_2
+14901_4	has_surface_form	mother
+14901_5	is_in_sentence	sentence_14901
+14901_5	prep	14901_4
+14901_5	has_surface_form	of
+14901_6	is_in_sentence	sentence_14901
+14901_6	pobj	14901_5
+14901_6	has_surface_form	architects
+14901_7	is_in_sentence	sentence_14901
+14901_7	compound	14901_8
+14901_7	has_surface_form	Ruy
+14901_7	part_of_entity	Ruy Ohtake
+14901_8	is_in_sentence	sentence_14901
+14901_8	appos	14901_4
+14901_8	has_surface_form	Ohtake
+14901_8	part_of_entity	Ruy Ohtake
+14901_9	is_in_sentence	sentence_14901
+14901_9	cc	14901_8
+14901_9	has_surface_form	and
+14901_10	is_in_sentence	sentence_14901
+14901_10	compound	14901_11
+14901_10	has_surface_form	Ricardo
+14901_11	is_in_sentence	sentence_14901
+14901_11	conj	14901_8
+14901_11	has_surface_form	Ohtake
+14901_12	is_in_sentence	sentence_14901
+14901_12	punct	14901_2
+14901_12	has_surface_form	.
+14901_13	is_in_sentence	sentence_14901
+14901_13	dep	14901_2
+14901_13	has_surface_form	
+Tomie Ohtake	surface_form	Tomie Ohtake
+Tomie Ohtake	has-child	Ruy Ohtake
+Ruy Ohtake	surface_form	Ruy Ohtake

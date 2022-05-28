@@ -1,0 +1,83 @@
+3093_0	is_in_sentence	sentence_3093
+3093_0	compound	3093_2
+3093_0	has_surface_form	George
+3093_0	part_of_entity	George Francis Train
+3093_2	is_in_sentence	sentence_3093
+3093_2	nsubjpass	3093_4
+3093_2	has_surface_form	Train
+3093_2	part_of_entity	George Francis Train
+3093_1	is_in_sentence	sentence_3093
+3093_1	compound	3093_2
+3093_1	has_surface_form	Francis
+3093_1	part_of_entity	George Francis Train
+3093_4	is_in_sentence	sentence_3093
+3093_4	ROOT	3093_4
+3093_4	has_surface_form	born
+3093_3	is_in_sentence	sentence_3093
+3093_3	auxpass	3093_4
+3093_3	has_surface_form	was
+3093_5	is_in_sentence	sentence_3093
+3093_5	prep	3093_4
+3093_5	has_surface_form	on
+3093_6	is_in_sentence	sentence_3093
+3093_6	pobj	3093_5
+3093_6	has_surface_form	March
+3093_7	is_in_sentence	sentence_3093
+3093_7	nummod	3093_6
+3093_7	has_surface_form	24
+3093_8	is_in_sentence	sentence_3093
+3093_8	punct	3093_6
+3093_8	has_surface_form	,
+3093_9	is_in_sentence	sentence_3093
+3093_9	nummod	3093_6
+3093_9	has_surface_form	1829
+3093_10	is_in_sentence	sentence_3093
+3093_10	punct	3093_6
+3093_10	has_surface_form	,
+3093_11	is_in_sentence	sentence_3093
+3093_11	prep	3093_6
+3093_11	has_surface_form	in
+3093_12	is_in_sentence	sentence_3093
+3093_12	pobj	3093_11
+3093_12	has_surface_form	Boston
+3093_13	is_in_sentence	sentence_3093
+3093_13	punct	3093_12
+3093_13	has_surface_form	,
+3093_14	is_in_sentence	sentence_3093
+3093_14	appos	3093_12
+3093_14	has_surface_form	son
+3093_15	is_in_sentence	sentence_3093
+3093_15	prep	3093_14
+3093_15	has_surface_form	of
+3093_16	is_in_sentence	sentence_3093
+3093_16	compound	3093_17
+3093_16	has_surface_form	Oliver
+3093_16	part_of_entity	Oliver Train
+3093_17	is_in_sentence	sentence_3093
+3093_17	pobj	3093_15
+3093_17	has_surface_form	Train
+3093_17	part_of_entity	Oliver Train
+3093_18	is_in_sentence	sentence_3093
+3093_18	cc	3093_14
+3093_18	has_surface_form	and
+3093_19	is_in_sentence	sentence_3093
+3093_19	poss	3093_20
+3093_19	has_surface_form	his
+3093_20	is_in_sentence	sentence_3093
+3093_20	conj	3093_14
+3093_20	has_surface_form	wife
+3093_21	is_in_sentence	sentence_3093
+3093_21	compound	3093_22
+3093_21	has_surface_form	Maria
+3093_22	is_in_sentence	sentence_3093
+3093_22	appos	3093_20
+3093_22	has_surface_form	Pickering
+3093_23	is_in_sentence	sentence_3093
+3093_23	punct	3093_4
+3093_23	has_surface_form	.
+3093_24	is_in_sentence	sentence_3093
+3093_24	dep	3093_4
+3093_24	has_surface_form	
+George Francis Train	surface_form	George Francis Train
+George Francis Train	has-parent	Oliver Train
+Oliver Train	surface_form	Oliver Train

@@ -1,0 +1,65 @@
+16325_0	is_in_sentence	sentence_16325
+16325_0	compound	16325_1
+16325_0	has_surface_form	2D
+16325_0	part_of_entity	2D Entertainment
+16325_1	is_in_sentence	sentence_16325
+16325_1	nsubj	16325_2
+16325_1	has_surface_form	Entertainment
+16325_1	part_of_entity	2D Entertainment
+16325_2	is_in_sentence	sentence_16325
+16325_2	ROOT	16325_2
+16325_2	has_surface_form	is
+16325_3	is_in_sentence	sentence_16325
+16325_3	det	16325_9
+16325_3	has_surface_form	an
+16325_9	is_in_sentence	sentence_16325
+16325_9	attr	16325_2
+16325_9	has_surface_form	company
+16325_4	is_in_sentence	sentence_16325
+16325_4	amod	16325_9
+16325_4	has_surface_form	Indian
+16325_5	is_in_sentence	sentence_16325
+16325_5	nmod	16325_6
+16325_5	has_surface_form	film
+16325_6	is_in_sentence	sentence_16325
+16325_6	nmod	16325_9
+16325_6	has_surface_form	production
+16325_7	is_in_sentence	sentence_16325
+16325_7	cc	16325_6
+16325_7	has_surface_form	and
+16325_8	is_in_sentence	sentence_16325
+16325_8	conj	16325_6
+16325_8	has_surface_form	distribution
+16325_10	is_in_sentence	sentence_16325
+16325_10	acl	16325_9
+16325_10	has_surface_form	established
+16325_11	is_in_sentence	sentence_16325
+16325_11	agent	16325_10
+16325_11	has_surface_form	by
+16325_12	is_in_sentence	sentence_16325
+16325_12	pobj	16325_11
+16325_12	is_entity	Suriya
+Suriya	surface_form	Suriya
+16325_13	is_in_sentence	sentence_16325
+16325_13	punct	16325_12
+16325_13	has_surface_form	,
+16325_14	is_in_sentence	sentence_16325
+16325_14	appos	16325_12
+16325_14	has_surface_form	son
+16325_15	is_in_sentence	sentence_16325
+16325_15	prep	16325_14
+16325_15	has_surface_form	of
+16325_16	is_in_sentence	sentence_16325
+16325_16	compound	16325_17
+16325_16	has_surface_form	actor
+16325_17	is_in_sentence	sentence_16325
+16325_17	pobj	16325_15
+16325_17	has_surface_form	Sivakumar
+16325_18	is_in_sentence	sentence_16325
+16325_18	punct	16325_2
+16325_18	has_surface_form	.
+16325_19	is_in_sentence	sentence_16325
+16325_19	dep	16325_19
+16325_19	has_surface_form	
+2D Entertainment	surface_form	2D Entertainment
+2D Entertainment	org-has-founder	Suriya

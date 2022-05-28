@@ -1,0 +1,82 @@
+21415_0	is_in_sentence	sentence_21415
+21415_0	compound	21415_1
+21415_0	has_surface_form	Erland
+21415_0	part_of_entity	Erland Van Lidth De Jeude
+21415_1	is_in_sentence	sentence_21415
+21415_1	compound	21415_2
+21415_1	has_surface_form	Van
+21415_1	part_of_entity	Erland Van Lidth De Jeude
+21415_2	is_in_sentence	sentence_21415
+21415_2	compound	21415_4
+21415_2	has_surface_form	Lidth
+21415_2	part_of_entity	Erland Van Lidth De Jeude
+21415_4	is_in_sentence	sentence_21415
+21415_4	nsubj	21415_5
+21415_4	has_surface_form	Jeude
+21415_4	part_of_entity	Erland Van Lidth De Jeude
+21415_3	is_in_sentence	sentence_21415
+21415_3	compound	21415_4
+21415_3	has_surface_form	De
+21415_3	part_of_entity	Erland Van Lidth De Jeude
+21415_5	is_in_sentence	sentence_21415
+21415_5	ROOT	21415_5
+21415_5	has_surface_form	married
+21415_6	is_in_sentence	sentence_21415
+21415_6	compound	21415_7
+21415_6	has_surface_form	Annette
+21415_6	part_of_entity	Annette Friend
+21415_7	is_in_sentence	sentence_21415
+21415_7	dobj	21415_5
+21415_7	has_surface_form	Friend
+21415_7	part_of_entity	Annette Friend
+21415_8	is_in_sentence	sentence_21415
+21415_8	prep	21415_5
+21415_8	has_surface_form	on
+21415_9	is_in_sentence	sentence_21415
+21415_9	pobj	21415_8
+21415_9	has_surface_form	September
+21415_10	is_in_sentence	sentence_21415
+21415_10	nummod	21415_9
+21415_10	has_surface_form	22
+21415_11	is_in_sentence	sentence_21415
+21415_11	punct	21415_9
+21415_11	has_surface_form	,
+21415_12	is_in_sentence	sentence_21415
+21415_12	nummod	21415_9
+21415_12	has_surface_form	1986
+21415_13	is_in_sentence	sentence_21415
+21415_13	punct	21415_9
+21415_13	has_surface_form	,
+21415_14	is_in_sentence	sentence_21415
+21415_14	prep	21415_17
+21415_14	has_surface_form	with
+21415_17	is_in_sentence	sentence_21415
+21415_17	relcl	21415_9
+21415_17	has_surface_form	had
+21415_15	is_in_sentence	sentence_21415
+21415_15	pobj	21415_14
+21415_15	has_surface_form	whom
+21415_16	is_in_sentence	sentence_21415
+21415_16	nsubj	21415_17
+21415_16	has_surface_form	he
+21415_18	is_in_sentence	sentence_21415
+21415_18	nummod	21415_19
+21415_18	has_surface_form	one
+21415_19	is_in_sentence	sentence_21415
+21415_19	dobj	21415_17
+21415_19	has_surface_form	son
+21415_20	is_in_sentence	sentence_21415
+21415_20	punct	21415_19
+21415_20	has_surface_form	,
+21415_21	is_in_sentence	sentence_21415
+21415_21	appos	21415_19
+21415_21	has_surface_form	Christiaan
+21415_22	is_in_sentence	sentence_21415
+21415_22	punct	21415_5
+21415_22	has_surface_form	.
+21415_23	is_in_sentence	sentence_21415
+21415_23	dep	21415_23
+21415_23	has_surface_form	
+Erland Van Lidth De Jeude	surface_form	Erland Van Lidth De Jeude
+Erland Van Lidth De Jeude	has-spouse	Annette Friend
+Annette Friend	surface_form	Annette Friend

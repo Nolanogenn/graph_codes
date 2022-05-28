@@ -1,0 +1,85 @@
+10918_0	is_in_sentence	sentence_10918
+10918_0	compound	10918_1
+10918_0	has_surface_form	Law
+10918_0	part_of_entity	Law Breakers
+10918_1	is_in_sentence	sentence_10918
+10918_1	nsubj	10918_10
+10918_1	has_surface_form	Breakers
+10918_1	part_of_entity	Law Breakers
+10918_10	is_in_sentence	sentence_10918
+10918_10	ROOT	10918_10
+10918_10	has_surface_form	is
+10918_2	is_in_sentence	sentence_10918
+10918_2	punct	10918_10
+10918_2	has_surface_form	(
+10918_3	is_in_sentence	sentence_10918
+10918_3	nsubj	10918_10
+10918_3	has_surface_form	French
+10918_4	is_in_sentence	sentence_10918
+10918_4	punct	10918_3
+10918_4	has_surface_form	:
+10918_5	is_in_sentence	sentence_10918
+10918_5	compound	10918_8
+10918_5	has_surface_form	Les
+10918_8	is_in_sentence	sentence_10918
+10918_8	appos	10918_3
+10918_8	has_surface_form	l'ordre
+10918_6	is_in_sentence	sentence_10918
+10918_6	nmod	10918_8
+10918_6	has_surface_form	Assassins
+10918_7	is_in_sentence	sentence_10918
+10918_7	nmod	10918_8
+10918_7	has_surface_form	de
+10918_9	is_in_sentence	sentence_10918
+10918_9	punct	10918_3
+10918_9	has_surface_form	)
+10918_11	is_in_sentence	sentence_10918
+10918_11	det	10918_15
+10918_11	has_surface_form	a
+10918_15	is_in_sentence	sentence_10918
+10918_15	attr	10918_10
+10918_15	has_surface_form	film
+10918_12	is_in_sentence	sentence_10918
+10918_12	nummod	10918_15
+10918_12	has_surface_form	1971
+10918_13	is_in_sentence	sentence_10918
+10918_13	amod	10918_15
+10918_13	has_surface_form	French
+10918_14	is_in_sentence	sentence_10918
+10918_14	compound	10918_15
+10918_14	has_surface_form	drama
+10918_16	is_in_sentence	sentence_10918
+10918_16	acl	10918_15
+10918_16	has_surface_form	starring
+10918_17	is_in_sentence	sentence_10918
+10918_17	compound	10918_18
+10918_17	has_surface_form	Jacques
+10918_18	is_in_sentence	sentence_10918
+10918_18	dobj	10918_16
+10918_18	has_surface_form	Brel
+10918_19	is_in_sentence	sentence_10918
+10918_19	punct	10918_18
+10918_19	has_surface_form	,
+10918_20	is_in_sentence	sentence_10918
+10918_20	acl	10918_18
+10918_20	has_surface_form	directed
+10918_21	is_in_sentence	sentence_10918
+10918_21	agent	10918_20
+10918_21	has_surface_form	by
+10918_22	is_in_sentence	sentence_10918
+10918_22	compound	10918_23
+10918_22	has_surface_form	Marcel
+10918_22	part_of_entity	Marcel Carné
+10918_23	is_in_sentence	sentence_10918
+10918_23	pobj	10918_21
+10918_23	has_surface_form	Carné
+10918_23	part_of_entity	Marcel Carné
+10918_24	is_in_sentence	sentence_10918
+10918_24	punct	10918_10
+10918_24	has_surface_form	.
+10918_25	is_in_sentence	sentence_10918
+10918_25	dep	10918_10
+10918_25	has_surface_form	
+Law Breakers	surface_form	Law Breakers
+Law Breakers	movie-has-director	Marcel Carné
+Marcel Carné	surface_form	Marcel Carné

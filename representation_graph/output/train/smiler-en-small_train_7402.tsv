@@ -1,0 +1,82 @@
+7401_0	is_in_sentence	sentence_7401
+7401_0	compound	7401_1
+7401_0	has_surface_form	Debbie
+7401_0	part_of_entity	Debbie Ryan
+7401_1	is_in_sentence	sentence_7401
+7401_1	nsubj	7401_9
+7401_1	has_surface_form	Ryan
+7401_1	part_of_entity	Debbie Ryan
+7401_9	is_in_sentence	sentence_7401
+7401_9	ROOT	7401_9
+7401_9	has_surface_form	is
+7401_2	is_in_sentence	sentence_7401
+7401_2	punct	7401_1
+7401_2	has_surface_form	(
+7401_3	is_in_sentence	sentence_7401
+7401_3	acl	7401_1
+7401_3	has_surface_form	born
+7401_4	is_in_sentence	sentence_7401
+7401_4	npadvmod	7401_3
+7401_4	has_surface_form	November
+7401_5	is_in_sentence	sentence_7401
+7401_5	nummod	7401_4
+7401_5	has_surface_form	4
+7401_6	is_in_sentence	sentence_7401
+7401_6	punct	7401_4
+7401_6	has_surface_form	,
+7401_7	is_in_sentence	sentence_7401
+7401_7	nummod	7401_4
+7401_7	has_surface_form	1952
+7401_8	is_in_sentence	sentence_7401
+7401_8	punct	7401_1
+7401_8	has_surface_form	)
+7401_10	is_in_sentence	sentence_7401
+7401_10	det	7401_12
+7401_10	has_surface_form	a
+7401_12	is_in_sentence	sentence_7401
+7401_12	poss	7401_15
+7401_12	has_surface_form	women
+7401_11	is_in_sentence	sentence_7401
+7401_11	amod	7401_12
+7401_11	has_surface_form	former
+7401_15	is_in_sentence	sentence_7401
+7401_15	attr	7401_9
+7401_15	has_surface_form	coach
+7401_15	part_of_entity	basketball coach
+7401_13	is_in_sentence	sentence_7401
+7401_13	case	7401_12
+7401_13	has_surface_form	's
+7401_14	is_in_sentence	sentence_7401
+7401_14	compound	7401_15
+7401_14	has_surface_form	basketball
+7401_14	part_of_entity	basketball coach
+7401_16	is_in_sentence	sentence_7401
+7401_16	nsubj	7401_17
+7401_16	has_surface_form	who
+7401_17	is_in_sentence	sentence_7401
+7401_17	relcl	7401_15
+7401_17	has_surface_form	coached
+7401_18	is_in_sentence	sentence_7401
+7401_18	prep	7401_17
+7401_18	has_surface_form	at
+7401_19	is_in_sentence	sentence_7401
+7401_19	det	7401_20
+7401_19	has_surface_form	the
+7401_20	is_in_sentence	sentence_7401
+7401_20	pobj	7401_18
+7401_20	has_surface_form	University
+7401_21	is_in_sentence	sentence_7401
+7401_21	prep	7401_20
+7401_21	has_surface_form	of
+7401_22	is_in_sentence	sentence_7401
+7401_22	pobj	7401_21
+7401_22	has_surface_form	Virginia
+7401_23	is_in_sentence	sentence_7401
+7401_23	punct	7401_9
+7401_23	has_surface_form	.
+7401_24	is_in_sentence	sentence_7401
+7401_24	dep	7401_24
+7401_24	has_surface_form	
+Debbie Ryan	surface_form	Debbie Ryan
+Debbie Ryan	has-type	basketball coach
+basketball coach	surface_form	basketball coach

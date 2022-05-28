@@ -1,0 +1,35 @@
+11573_0	is_in_sentence	sentence_11573
+11573_0	det	11573_2
+11573_0	has_surface_form	The
+11573_2	is_in_sentence	sentence_11573
+11573_2	nsubj	11573_3
+11573_2	has_surface_form	Theatre
+11573_2	part_of_entity	Wang Theatre
+11573_1	is_in_sentence	sentence_11573
+11573_1	compound	11573_2
+11573_1	has_surface_form	Wang
+11573_1	part_of_entity	Wang Theatre
+11573_3	is_in_sentence	sentence_11573
+11573_3	ROOT	11573_3
+11573_3	has_surface_form	is
+11573_4	is_in_sentence	sentence_11573
+11573_4	det	11573_5
+11573_4	has_surface_form	a
+11573_5	is_in_sentence	sentence_11573
+11573_5	attr	11573_3
+11573_5	is_entity	theatre
+theatre	surface_form	theatre
+11573_6	is_in_sentence	sentence_11573
+11573_6	prep	11573_5
+11573_6	has_surface_form	in
+11573_7	is_in_sentence	sentence_11573
+11573_7	pobj	11573_6
+11573_7	has_surface_form	Boston
+11573_8	is_in_sentence	sentence_11573
+11573_8	punct	11573_3
+11573_8	has_surface_form	.
+11573_9	is_in_sentence	sentence_11573
+11573_9	dep	11573_9
+11573_9	has_surface_form	
+Wang Theatre	surface_form	Wang Theatre
+Wang Theatre	has-type	theatre

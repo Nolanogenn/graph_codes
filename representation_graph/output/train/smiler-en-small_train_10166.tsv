@@ -1,0 +1,62 @@
+10165_0	is_in_sentence	sentence_10165
+10165_0	compound	10165_1
+10165_0	has_surface_form	Inha
+10165_0	part_of_entity	Inha University
+10165_1	is_in_sentence	sentence_10165
+10165_1	nsubj	10165_6
+10165_1	has_surface_form	University
+10165_1	part_of_entity	Inha University
+10165_6	is_in_sentence	sentence_10165
+10165_6	ROOT	10165_6
+10165_6	has_surface_form	is
+10165_2	is_in_sentence	sentence_10165
+10165_2	punct	10165_1
+10165_2	has_surface_form	(
+10165_3	is_in_sentence	sentence_10165
+10165_3	appos	10165_1
+10165_3	has_surface_form	인하대학교(仁荷大學校
+10165_4	is_in_sentence	sentence_10165
+10165_4	punct	10165_1
+10165_4	has_surface_form	)
+10165_5	is_in_sentence	sentence_10165
+10165_5	punct	10165_1
+10165_5	has_surface_form	)
+10165_7	is_in_sentence	sentence_10165
+10165_7	det	10165_10
+10165_7	has_surface_form	a
+10165_10	is_in_sentence	sentence_10165
+10165_10	attr	10165_6
+10165_10	has_surface_form	university
+10165_8	is_in_sentence	sentence_10165
+10165_8	amod	10165_10
+10165_8	has_surface_form	private
+10165_9	is_in_sentence	sentence_10165
+10165_9	compound	10165_10
+10165_9	has_surface_form	research
+10165_11	is_in_sentence	sentence_10165
+10165_11	acl	10165_10
+10165_11	has_surface_form	located
+10165_12	is_in_sentence	sentence_10165
+10165_12	prep	10165_11
+10165_12	has_surface_form	in
+10165_13	is_in_sentence	sentence_10165
+10165_13	pobj	10165_12
+10165_13	is_entity	Incheon
+Incheon	surface_form	Incheon
+10165_14	is_in_sentence	sentence_10165
+10165_14	punct	10165_13
+10165_14	has_surface_form	,
+10165_15	is_in_sentence	sentence_10165
+10165_15	compound	10165_16
+10165_15	has_surface_form	South
+10165_16	is_in_sentence	sentence_10165
+10165_16	appos	10165_13
+10165_16	has_surface_form	Korea
+10165_17	is_in_sentence	sentence_10165
+10165_17	punct	10165_6
+10165_17	has_surface_form	.
+10165_18	is_in_sentence	sentence_10165
+10165_18	dep	10165_18
+10165_18	has_surface_form	
+Inha University	surface_form	Inha University
+Inha University	is-where	Incheon

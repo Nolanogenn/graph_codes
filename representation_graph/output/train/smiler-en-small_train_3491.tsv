@@ -1,0 +1,81 @@
+3490_0	is_in_sentence	sentence_3490
+3490_0	det	3490_4
+3490_0	has_surface_form	The
+3490_4	is_in_sentence	sentence_3490
+3490_4	nsubj	3490_12
+3490_4	has_surface_form	Brigade
+3490_4	part_of_entity	169th Field Artillery Brigade
+3490_1	is_in_sentence	sentence_3490
+3490_1	amod	3490_2
+3490_1	has_surface_form	169th
+3490_1	part_of_entity	169th Field Artillery Brigade
+3490_2	is_in_sentence	sentence_3490
+3490_2	compound	3490_4
+3490_2	has_surface_form	Field
+3490_2	part_of_entity	169th Field Artillery Brigade
+3490_3	is_in_sentence	sentence_3490
+3490_3	compound	3490_4
+3490_3	has_surface_form	Artillery
+3490_3	part_of_entity	169th Field Artillery Brigade
+3490_12	is_in_sentence	sentence_3490
+3490_12	ROOT	3490_12
+3490_12	has_surface_form	is
+3490_5	is_in_sentence	sentence_3490
+3490_5	punct	3490_10
+3490_5	has_surface_form	(
+3490_10	is_in_sentence	sentence_3490
+3490_10	appos	3490_4
+3490_10	has_surface_form	Brigade
+3490_6	is_in_sentence	sentence_3490
+3490_6	advmod	3490_10
+3490_6	has_surface_form	formerly
+3490_7	is_in_sentence	sentence_3490
+3490_7	det	3490_10
+3490_7	has_surface_form	the
+3490_8	is_in_sentence	sentence_3490
+3490_8	amod	3490_9
+3490_8	has_surface_form	169th
+3490_9	is_in_sentence	sentence_3490
+3490_9	compound	3490_10
+3490_9	has_surface_form	Fires
+3490_11	is_in_sentence	sentence_3490
+3490_11	punct	3490_10
+3490_11	has_surface_form	)
+3490_13	is_in_sentence	sentence_3490
+3490_13	det	3490_15
+3490_13	has_surface_form	an
+3490_15	is_in_sentence	sentence_3490
+3490_15	attr	3490_12
+3490_15	has_surface_form	brigade
+3490_15	part_of_entity	artillery brigade
+3490_14	is_in_sentence	sentence_3490
+3490_14	amod	3490_15
+3490_14	has_surface_form	artillery
+3490_14	part_of_entity	artillery brigade
+3490_16	is_in_sentence	sentence_3490
+3490_16	prep	3490_15
+3490_16	has_surface_form	in
+3490_17	is_in_sentence	sentence_3490
+3490_17	det	3490_21
+3490_17	has_surface_form	the
+3490_21	is_in_sentence	sentence_3490
+3490_21	pobj	3490_16
+3490_21	has_surface_form	Guard
+3490_18	is_in_sentence	sentence_3490
+3490_18	compound	3490_19
+3490_18	has_surface_form	US
+3490_19	is_in_sentence	sentence_3490
+3490_19	compound	3490_21
+3490_19	has_surface_form	Army
+3490_20	is_in_sentence	sentence_3490
+3490_20	compound	3490_21
+3490_20	has_surface_form	National
+3490_22	is_in_sentence	sentence_3490
+3490_22	punct	3490_12
+3490_22	has_surface_form	.
+3490_23	is_in_sentence	sentence_3490
+3490_23	dep	3490_23
+3490_23	has_surface_form	
+169th Field Artillery Brigade	surface_form	169th Field Artillery Brigade
+169th Field Artillery Brigade	has-type	artillery brigade
+artillery brigade	surface_form	artillery brigade

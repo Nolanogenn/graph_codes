@@ -1,0 +1,53 @@
+2527_0	is_in_sentence	sentence_2527
+2527_0	compound	2527_1
+2527_0	has_surface_form	Mike
+2527_0	part_of_entity	Mike Chinn
+2527_1	is_in_sentence	sentence_2527
+2527_1	nsubj	2527_2
+2527_1	has_surface_form	Chinn
+2527_1	part_of_entity	Mike Chinn
+2527_2	is_in_sentence	sentence_2527
+2527_2	ROOT	2527_2
+2527_2	has_surface_form	is
+2527_3	is_in_sentence	sentence_2527
+2527_3	det	2527_9
+2527_3	has_surface_form	a
+2527_9	is_in_sentence	sentence_2527
+2527_9	attr	2527_2
+2527_9	has_surface_form	writer
+2527_4	is_in_sentence	sentence_2527
+2527_4	nmod	2527_9
+2527_4	has_surface_form	horror
+2527_5	is_in_sentence	sentence_2527
+2527_5	punct	2527_4
+2527_5	has_surface_form	,
+2527_6	is_in_sentence	sentence_2527
+2527_6	conj	2527_4
+2527_6	is_entity	fantasy
+fantasy	surface_form	fantasy
+2527_7	is_in_sentence	sentence_2527
+2527_7	cc	2527_6
+2527_7	has_surface_form	and
+2527_8	is_in_sentence	sentence_2527
+2527_8	conj	2527_6
+2527_8	has_surface_form	comics
+2527_10	is_in_sentence	sentence_2527
+2527_10	prep	2527_9
+2527_10	has_surface_form	from
+2527_11	is_in_sentence	sentence_2527
+2527_11	pobj	2527_10
+2527_11	has_surface_form	Birmingham
+2527_12	is_in_sentence	sentence_2527
+2527_12	punct	2527_11
+2527_12	has_surface_form	,
+2527_13	is_in_sentence	sentence_2527
+2527_13	appos	2527_11
+2527_13	has_surface_form	England
+2527_14	is_in_sentence	sentence_2527
+2527_14	punct	2527_2
+2527_14	has_surface_form	.
+2527_15	is_in_sentence	sentence_2527
+2527_15	dep	2527_2
+2527_15	has_surface_form	
+Mike Chinn	surface_form	Mike Chinn
+Mike Chinn	has-genre	fantasy

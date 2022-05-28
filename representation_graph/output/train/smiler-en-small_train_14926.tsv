@@ -1,0 +1,73 @@
+14925_0	is_in_sentence	sentence_14925
+14925_0	compound	14925_1
+14925_0	has_surface_form	Hegy
+14925_0	part_of_entity	Hegy Propellers
+14925_1	is_in_sentence	sentence_14925
+14925_1	nsubj	14925_8
+14925_1	has_surface_form	Propellers
+14925_1	part_of_entity	Hegy Propellers
+14925_8	is_in_sentence	sentence_14925
+14925_8	ROOT	14925_8
+14925_8	has_surface_form	was
+14925_2	is_in_sentence	sentence_14925
+14925_2	punct	14925_1
+14925_2	has_surface_form	,
+14925_3	is_in_sentence	sentence_14925
+14925_3	acl	14925_1
+14925_3	has_surface_form	founded
+14925_4	is_in_sentence	sentence_14925
+14925_4	agent	14925_3
+14925_4	has_surface_form	by
+14925_5	is_in_sentence	sentence_14925
+14925_5	compound	14925_6
+14925_5	has_surface_form	Ray
+14925_5	part_of_entity	Ray Hegy
+14925_6	is_in_sentence	sentence_14925
+14925_6	pobj	14925_4
+14925_6	has_surface_form	Hegy
+14925_6	part_of_entity	Ray Hegy
+14925_7	is_in_sentence	sentence_14925
+14925_7	punct	14925_1
+14925_7	has_surface_form	,
+14925_9	is_in_sentence	sentence_14925
+14925_9	det	14925_11
+14925_9	has_surface_form	an
+14925_11	is_in_sentence	sentence_14925
+14925_11	attr	14925_8
+14925_11	has_surface_form	manufacturer
+14925_10	is_in_sentence	sentence_14925
+14925_10	amod	14925_11
+14925_10	has_surface_form	American
+14925_12	is_in_sentence	sentence_14925
+14925_12	prep	14925_11
+14925_12	has_surface_form	of
+14925_13	is_in_sentence	sentence_14925
+14925_13	amod	14925_14
+14925_13	has_surface_form	wooden
+14925_14	is_in_sentence	sentence_14925
+14925_14	pobj	14925_12
+14925_14	has_surface_form	propellers
+14925_15	is_in_sentence	sentence_14925
+14925_15	prep	14925_11
+14925_15	has_surface_form	for
+14925_16	is_in_sentence	sentence_14925
+14925_16	amod	14925_19
+14925_16	has_surface_form	homebuilt
+14925_19	is_in_sentence	sentence_14925
+14925_19	pobj	14925_15
+14925_19	has_surface_form	aircraft
+14925_17	is_in_sentence	sentence_14925
+14925_17	cc	14925_16
+14925_17	has_surface_form	and
+14925_18	is_in_sentence	sentence_14925
+14925_18	conj	14925_16
+14925_18	has_surface_form	ultralight
+14925_20	is_in_sentence	sentence_14925
+14925_20	punct	14925_8
+14925_20	has_surface_form	.
+14925_21	is_in_sentence	sentence_14925
+14925_21	dep	14925_21
+14925_21	has_surface_form	
+Hegy Propellers	surface_form	Hegy Propellers
+Hegy Propellers	org-has-founder	Ray Hegy
+Ray Hegy	surface_form	Ray Hegy

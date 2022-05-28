@@ -1,0 +1,89 @@
+1390_0	is_in_sentence	sentence_1390
+1390_0	compound	1390_1
+1390_0	has_surface_form	Common
+1390_0	part_of_entity	Common Law Cabin
+1390_1	is_in_sentence	sentence_1390
+1390_1	compound	1390_2
+1390_1	has_surface_form	Law
+1390_1	part_of_entity	Common Law Cabin
+1390_2	is_in_sentence	sentence_1390
+1390_2	nsubj	1390_16
+1390_2	has_surface_form	Cabin
+1390_2	part_of_entity	Common Law Cabin
+1390_16	is_in_sentence	sentence_1390
+1390_16	ROOT	1390_16
+1390_16	has_surface_form	is
+1390_3	is_in_sentence	sentence_1390
+1390_3	punct	1390_2
+1390_3	has_surface_form	(
+1390_4	is_in_sentence	sentence_1390
+1390_4	amod	1390_5
+1390_4	has_surface_form	original
+1390_5	is_in_sentence	sentence_1390
+1390_5	npadvmod	1390_13
+1390_5	has_surface_form	title
+1390_13	is_in_sentence	sentence_1390
+1390_13	appos	1390_2
+1390_13	has_surface_form	Need
+1390_6	is_in_sentence	sentence_1390
+1390_6	advmod	1390_7
+1390_6	has_surface_form	How
+1390_7	is_in_sentence	sentence_1390
+1390_7	amod	1390_8
+1390_7	has_surface_form	Much
+1390_8	is_in_sentence	sentence_1390
+1390_8	dobj	1390_13
+1390_8	has_surface_form	Loving
+1390_9	is_in_sentence	sentence_1390
+1390_9	aux	1390_13
+1390_9	has_surface_form	Does
+1390_10	is_in_sentence	sentence_1390
+1390_10	det	1390_13
+1390_10	has_surface_form	a
+1390_11	is_in_sentence	sentence_1390
+1390_11	compound	1390_13
+1390_11	has_surface_form	Normal
+1390_12	is_in_sentence	sentence_1390
+1390_12	compound	1390_13
+1390_12	has_surface_form	Couple
+1390_14	is_in_sentence	sentence_1390
+1390_14	punct	1390_13
+1390_14	has_surface_form	?
+1390_15	is_in_sentence	sentence_1390
+1390_15	punct	1390_13
+1390_15	has_surface_form	)
+1390_17	is_in_sentence	sentence_1390
+1390_17	det	1390_20
+1390_17	has_surface_form	a
+1390_20	is_in_sentence	sentence_1390
+1390_20	attr	1390_16
+1390_20	has_surface_form	film
+1390_18	is_in_sentence	sentence_1390
+1390_18	nummod	1390_20
+1390_18	has_surface_form	1967
+1390_19	is_in_sentence	sentence_1390
+1390_19	compound	1390_20
+1390_19	has_surface_form	exploitation
+1390_21	is_in_sentence	sentence_1390
+1390_21	acl	1390_20
+1390_21	has_surface_form	directed
+1390_22	is_in_sentence	sentence_1390
+1390_22	agent	1390_21
+1390_22	has_surface_form	by
+1390_23	is_in_sentence	sentence_1390
+1390_23	compound	1390_24
+1390_23	has_surface_form	Russ
+1390_23	part_of_entity	Russ Meyer
+1390_24	is_in_sentence	sentence_1390
+1390_24	pobj	1390_22
+1390_24	has_surface_form	Meyer
+1390_24	part_of_entity	Russ Meyer
+1390_25	is_in_sentence	sentence_1390
+1390_25	punct	1390_16
+1390_25	has_surface_form	.
+1390_26	is_in_sentence	sentence_1390
+1390_26	dep	1390_16
+1390_26	has_surface_form	
+Common Law Cabin	surface_form	Common Law Cabin
+Common Law Cabin	movie-has-director	Russ Meyer
+Russ Meyer	surface_form	Russ Meyer

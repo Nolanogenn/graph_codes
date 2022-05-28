@@ -1,0 +1,104 @@
+33602_0	is_in_sentence	sentence_33602
+33602_0	det	33602_3
+33602_0	has_surface_form	The
+33602_3	is_in_sentence	sentence_33602
+33602_3	nsubj	33602_4
+33602_3	has_surface_form	Center
+33602_3	part_of_entity	Artificial Intelligence Center
+33602_1	is_in_sentence	sentence_33602
+33602_1	compound	33602_3
+33602_1	has_surface_form	Artificial
+33602_1	part_of_entity	Artificial Intelligence Center
+33602_2	is_in_sentence	sentence_33602
+33602_2	compound	33602_3
+33602_2	has_surface_form	Intelligence
+33602_2	part_of_entity	Artificial Intelligence Center
+33602_4	is_in_sentence	sentence_33602
+33602_4	ROOT	33602_4
+33602_4	has_surface_form	is
+33602_5	is_in_sentence	sentence_33602
+33602_5	det	33602_6
+33602_5	has_surface_form	a
+33602_6	is_in_sentence	sentence_33602
+33602_6	attr	33602_4
+33602_6	has_surface_form	laboratory
+33602_7	is_in_sentence	sentence_33602
+33602_7	prep	33602_6
+33602_7	has_surface_form	in
+33602_8	is_in_sentence	sentence_33602
+33602_8	det	33602_13
+33602_8	has_surface_form	the
+33602_13	is_in_sentence	sentence_33602
+33602_13	pobj	33602_7
+33602_13	has_surface_form	Division
+33602_9	is_in_sentence	sentence_33602
+33602_9	nmod	33602_13
+33602_9	has_surface_form	Information
+33602_10	is_in_sentence	sentence_33602
+33602_10	cc	33602_9
+33602_10	has_surface_form	and
+33602_11	is_in_sentence	sentence_33602
+33602_11	conj	33602_9
+33602_11	has_surface_form	Computing
+33602_12	is_in_sentence	sentence_33602
+33602_12	conj	33602_9
+33602_12	has_surface_form	Sciences
+33602_14	is_in_sentence	sentence_33602
+33602_14	prep	33602_13
+33602_14	has_surface_form	of
+33602_15	is_in_sentence	sentence_33602
+33602_15	compound	33602_16
+33602_15	has_surface_form	SRI
+33602_16	is_in_sentence	sentence_33602
+33602_16	pobj	33602_14
+33602_16	has_surface_form	International
+33602_17	is_in_sentence	sentence_33602
+33602_17	punct	33602_4
+33602_17	has_surface_form	.
+33602_18	is_in_sentence	sentence_33602
+33602_18	nsubjpass	33602_20
+33602_18	has_surface_form	It
+33602_20	is_in_sentence	sentence_33602
+33602_20	ROOT	33602_20
+33602_20	has_surface_form	founded
+33602_19	is_in_sentence	sentence_33602
+33602_19	auxpass	33602_20
+33602_19	has_surface_form	was
+33602_21	is_in_sentence	sentence_33602
+33602_21	prep	33602_20
+33602_21	has_surface_form	in
+33602_22	is_in_sentence	sentence_33602
+33602_22	pobj	33602_21
+33602_22	has_surface_form	1966
+33602_23	is_in_sentence	sentence_33602
+33602_23	agent	33602_20
+33602_23	has_surface_form	by
+33602_24	is_in_sentence	sentence_33602
+33602_24	compound	33602_25
+33602_24	has_surface_form	Charles
+33602_24	part_of_entity	Charles Rosen
+33602_25	is_in_sentence	sentence_33602
+33602_25	pobj	33602_23
+33602_25	has_surface_form	Rosen
+33602_25	part_of_entity	Charles Rosen
+33602_26	is_in_sentence	sentence_33602
+33602_26	cc	33602_20
+33602_26	has_surface_form	and
+33602_27	is_in_sentence	sentence_33602
+33602_27	conj	33602_20
+33602_27	has_surface_form	studies
+33602_28	is_in_sentence	sentence_33602
+33602_28	amod	33602_29
+33602_28	has_surface_form	artificial
+33602_29	is_in_sentence	sentence_33602
+33602_29	dobj	33602_27
+33602_29	has_surface_form	intelligence
+33602_30	is_in_sentence	sentence_33602
+33602_30	punct	33602_20
+33602_30	has_surface_form	.
+33602_31	is_in_sentence	sentence_33602
+33602_31	dep	33602_31
+33602_31	has_surface_form	
+Artificial Intelligence Center	surface_form	Artificial Intelligence Center
+Artificial Intelligence Center	org-has-founder	Charles Rosen
+Charles Rosen	surface_form	Charles Rosen

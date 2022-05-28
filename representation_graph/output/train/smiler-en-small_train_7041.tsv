@@ -1,0 +1,41 @@
+7040_0	is_in_sentence	sentence_7040
+7040_0	compound	7040_1
+7040_0	has_surface_form	Kyle
+7040_0	part_of_entity	Kyle Muntz
+7040_1	is_in_sentence	sentence_7040
+7040_1	nsubj	7040_6
+7040_1	has_surface_form	Muntz
+7040_1	part_of_entity	Kyle Muntz
+7040_6	is_in_sentence	sentence_7040
+7040_6	ROOT	7040_6
+7040_6	has_surface_form	is
+7040_2	is_in_sentence	sentence_7040
+7040_2	punct	7040_1
+7040_2	has_surface_form	(
+7040_3	is_in_sentence	sentence_7040
+7040_3	acl	7040_1
+7040_3	has_surface_form	born
+7040_4	is_in_sentence	sentence_7040
+7040_4	npadvmod	7040_3
+7040_4	has_surface_form	1990
+7040_5	is_in_sentence	sentence_7040
+7040_5	punct	7040_1
+7040_5	has_surface_form	)
+7040_7	is_in_sentence	sentence_7040
+7040_7	det	7040_9
+7040_7	has_surface_form	an
+7040_9	is_in_sentence	sentence_7040
+7040_9	attr	7040_6
+7040_9	is_entity	novelist
+7040_8	is_in_sentence	sentence_7040
+7040_8	amod	7040_9
+7040_8	has_surface_form	American
+novelist	surface_form	novelist
+7040_10	is_in_sentence	sentence_7040
+7040_10	punct	7040_6
+7040_10	has_surface_form	.
+7040_11	is_in_sentence	sentence_7040
+7040_11	dep	7040_6
+7040_11	has_surface_form	
+Kyle Muntz	surface_form	Kyle Muntz
+Kyle Muntz	has-occupation	novelist

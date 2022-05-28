@@ -1,0 +1,35 @@
+6042_0	is_in_sentence	sentence_6042
+6042_0	compound	6042_1
+6042_0	has_surface_form	Nirupama
+6042_0	part_of_entity	Nirupama Rao
+6042_1	is_in_sentence	sentence_6042
+6042_1	nsubjpass	6042_3
+6042_1	has_surface_form	Rao
+6042_1	part_of_entity	Nirupama Rao
+6042_3	is_in_sentence	sentence_6042
+6042_3	ROOT	6042_3
+6042_3	has_surface_form	born
+6042_2	is_in_sentence	sentence_6042
+6042_2	auxpass	6042_3
+6042_2	has_surface_form	was
+6042_4	is_in_sentence	sentence_6042
+6042_4	prep	6042_3
+6042_4	has_surface_form	in
+6042_5	is_in_sentence	sentence_6042
+6042_5	pobj	6042_4
+6042_5	is_entity	Malappuram
+Malappuram	surface_form	Malappuram
+6042_6	is_in_sentence	sentence_6042
+6042_6	punct	6042_5
+6042_6	has_surface_form	,
+6042_7	is_in_sentence	sentence_6042
+6042_7	appos	6042_5
+6042_7	has_surface_form	Kerala
+6042_8	is_in_sentence	sentence_6042
+6042_8	punct	6042_3
+6042_8	has_surface_form	.
+6042_9	is_in_sentence	sentence_6042
+6042_9	dep	6042_9
+6042_9	has_surface_form	
+Nirupama Rao	surface_form	Nirupama Rao
+Nirupama Rao	birth-place	Malappuram

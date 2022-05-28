@@ -1,0 +1,79 @@
+28100_0	is_in_sentence	sentence_28100
+28100_0	det	28100_1
+28100_0	has_surface_form	A
+28100_0	part_of_entity	A Friend of the Deceased
+28100_1	is_in_sentence	sentence_28100
+28100_1	nsubj	28100_11
+28100_1	has_surface_form	Friend
+28100_1	part_of_entity	A Friend of the Deceased
+28100_11	is_in_sentence	sentence_28100
+28100_11	ROOT	28100_11
+28100_11	has_surface_form	is
+28100_2	is_in_sentence	sentence_28100
+28100_2	prep	28100_1
+28100_2	has_surface_form	of
+28100_2	part_of_entity	A Friend of the Deceased
+28100_3	is_in_sentence	sentence_28100
+28100_3	det	28100_4
+28100_3	has_surface_form	the
+28100_3	part_of_entity	A Friend of the Deceased
+28100_4	is_in_sentence	sentence_28100
+28100_4	pobj	28100_2
+28100_4	has_surface_form	Deceased
+28100_4	part_of_entity	A Friend of the Deceased
+28100_5	is_in_sentence	sentence_28100
+28100_5	punct	28100_1
+28100_5	has_surface_form	(
+28100_6	is_in_sentence	sentence_28100
+28100_6	appos	28100_1
+28100_6	has_surface_form	Ukrainian
+28100_7	is_in_sentence	sentence_28100
+28100_7	punct	28100_1
+28100_7	has_surface_form	:
+28100_8	is_in_sentence	sentence_28100
+28100_8	compound	28100_9
+28100_8	has_surface_form	Приятель
+28100_9	is_in_sentence	sentence_28100
+28100_9	appos	28100_1
+28100_9	has_surface_form	небіжчика
+28100_10	is_in_sentence	sentence_28100
+28100_10	punct	28100_1
+28100_10	has_surface_form	)
+28100_12	is_in_sentence	sentence_28100
+28100_12	det	28100_16
+28100_12	has_surface_form	a
+28100_16	is_in_sentence	sentence_28100
+28100_16	attr	28100_11
+28100_16	has_surface_form	film
+28100_13	is_in_sentence	sentence_28100
+28100_13	nummod	28100_16
+28100_13	has_surface_form	1997
+28100_14	is_in_sentence	sentence_28100
+28100_14	amod	28100_16
+28100_14	has_surface_form	Ukrainian
+28100_15	is_in_sentence	sentence_28100
+28100_15	compound	28100_16
+28100_15	has_surface_form	drama
+28100_17	is_in_sentence	sentence_28100
+28100_17	acl	28100_16
+28100_17	has_surface_form	directed
+28100_18	is_in_sentence	sentence_28100
+28100_18	agent	28100_17
+28100_18	has_surface_form	by
+28100_19	is_in_sentence	sentence_28100
+28100_19	compound	28100_20
+28100_19	has_surface_form	Viacheslav
+28100_19	part_of_entity	Viacheslav Kryshtofovych
+28100_20	is_in_sentence	sentence_28100
+28100_20	pobj	28100_18
+28100_20	has_surface_form	Kryshtofovych
+28100_20	part_of_entity	Viacheslav Kryshtofovych
+28100_21	is_in_sentence	sentence_28100
+28100_21	punct	28100_11
+28100_21	has_surface_form	.
+28100_22	is_in_sentence	sentence_28100
+28100_22	dep	28100_11
+28100_22	has_surface_form	
+A Friend of the Deceased	surface_form	A Friend of the Deceased
+A Friend of the Deceased	movie-has-director	Viacheslav Kryshtofovych
+Viacheslav Kryshtofovych	surface_form	Viacheslav Kryshtofovych

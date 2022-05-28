@@ -1,0 +1,117 @@
+11587_0	is_in_sentence	sentence_11587
+11587_0	det	11587_1
+11587_0	has_surface_form	A
+11587_0	part_of_entity	A Bag of Hammers
+11587_1	is_in_sentence	sentence_11587
+11587_1	nsubj	11587_4
+11587_1	has_surface_form	Bag
+11587_1	part_of_entity	A Bag of Hammers
+11587_4	is_in_sentence	sentence_11587
+11587_4	ROOT	11587_4
+11587_4	has_surface_form	is
+11587_2	is_in_sentence	sentence_11587
+11587_2	prep	11587_1
+11587_2	has_surface_form	of
+11587_2	part_of_entity	A Bag of Hammers
+11587_3	is_in_sentence	sentence_11587
+11587_3	pobj	11587_2
+11587_3	has_surface_form	Hammers
+11587_3	part_of_entity	A Bag of Hammers
+11587_5	is_in_sentence	sentence_11587
+11587_5	det	11587_11
+11587_5	has_surface_form	a
+11587_11	is_in_sentence	sentence_11587
+11587_11	attr	11587_4
+11587_11	has_surface_form	film
+11587_6	is_in_sentence	sentence_11587
+11587_6	nummod	11587_11
+11587_6	has_surface_form	2011
+11587_7	is_in_sentence	sentence_11587
+11587_7	amod	11587_11
+11587_7	has_surface_form	American
+11587_8	is_in_sentence	sentence_11587
+11587_8	compound	11587_10
+11587_8	has_surface_form	comedy
+11587_10	is_in_sentence	sentence_11587
+11587_10	compound	11587_11
+11587_10	has_surface_form	drama
+11587_9	is_in_sentence	sentence_11587
+11587_9	punct	11587_10
+11587_9	has_surface_form	-
+11587_12	is_in_sentence	sentence_11587
+11587_12	acl	11587_11
+11587_12	has_surface_form	directed
+11587_13	is_in_sentence	sentence_11587
+11587_13	agent	11587_12
+11587_13	has_surface_form	by
+11587_14	is_in_sentence	sentence_11587
+11587_14	compound	11587_15
+11587_14	has_surface_form	Brian
+11587_14	part_of_entity	Brian Crano
+11587_15	is_in_sentence	sentence_11587
+11587_15	pobj	11587_13
+11587_15	has_surface_form	Crano
+11587_15	part_of_entity	Brian Crano
+11587_16	is_in_sentence	sentence_11587
+11587_16	cc	11587_12
+11587_16	has_surface_form	and
+11587_17	is_in_sentence	sentence_11587
+11587_17	conj	11587_12
+11587_17	has_surface_form	written
+11587_18	is_in_sentence	sentence_11587
+11587_18	agent	11587_17
+11587_18	has_surface_form	by
+11587_19	is_in_sentence	sentence_11587
+11587_19	pobj	11587_18
+11587_19	has_surface_form	Crano
+11587_20	is_in_sentence	sentence_11587
+11587_20	cc	11587_19
+11587_20	has_surface_form	and
+11587_21	is_in_sentence	sentence_11587
+11587_21	compound	11587_22
+11587_21	has_surface_form	Jake
+11587_22	is_in_sentence	sentence_11587
+11587_22	conj	11587_19
+11587_22	has_surface_form	Sandvig
+11587_23	is_in_sentence	sentence_11587
+11587_23	punct	11587_22
+11587_23	has_surface_form	,
+11587_24	is_in_sentence	sentence_11587
+11587_24	nsubj	11587_25
+11587_24	has_surface_form	who
+11587_25	is_in_sentence	sentence_11587
+11587_25	relcl	11587_19
+11587_25	has_surface_form	co
+11587_26	is_in_sentence	sentence_11587
+11587_26	attr	11587_4
+11587_26	has_surface_form	-
+11587_27	is_in_sentence	sentence_11587
+11587_27	attr	11587_4
+11587_27	has_surface_form	stars
+11587_28	is_in_sentence	sentence_11587
+11587_28	prep	11587_27
+11587_28	has_surface_form	in
+11587_29	is_in_sentence	sentence_11587
+11587_29	det	11587_30
+11587_29	has_surface_form	the
+11587_30	is_in_sentence	sentence_11587
+11587_30	pobj	11587_28
+11587_30	has_surface_form	film
+11587_31	is_in_sentence	sentence_11587
+11587_31	prep	11587_4
+11587_31	has_surface_form	with
+11587_32	is_in_sentence	sentence_11587
+11587_32	compound	11587_33
+11587_32	has_surface_form	Jason
+11587_33	is_in_sentence	sentence_11587
+11587_33	pobj	11587_31
+11587_33	has_surface_form	Ritter
+11587_34	is_in_sentence	sentence_11587
+11587_34	punct	11587_4
+11587_34	has_surface_form	.
+11587_35	is_in_sentence	sentence_11587
+11587_35	dep	11587_35
+11587_35	has_surface_form	
+A Bag of Hammers	surface_form	A Bag of Hammers
+A Bag of Hammers	movie-has-director	Brian Crano
+Brian Crano	surface_form	Brian Crano

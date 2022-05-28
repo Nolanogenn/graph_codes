@@ -1,0 +1,55 @@
+33280_0	is_in_sentence	sentence_33280
+33280_0	compound	33280_1
+33280_0	has_surface_form	Juana
+33280_0	part_of_entity	Juana Gallo
+33280_1	is_in_sentence	sentence_33280
+33280_1	nsubj	33280_2
+33280_1	has_surface_form	Gallo
+33280_1	part_of_entity	Juana Gallo
+33280_2	is_in_sentence	sentence_33280
+33280_2	ROOT	33280_2
+33280_2	has_surface_form	is
+33280_3	is_in_sentence	sentence_33280
+33280_3	det	33280_7
+33280_3	has_surface_form	a
+33280_7	is_in_sentence	sentence_33280
+33280_7	attr	33280_2
+33280_7	has_surface_form	film
+33280_4	is_in_sentence	sentence_33280
+33280_4	nummod	33280_7
+33280_4	has_surface_form	1961
+33280_5	is_in_sentence	sentence_33280
+33280_5	amod	33280_7
+33280_5	has_surface_form	Mexican
+33280_6	is_in_sentence	sentence_33280
+33280_6	compound	33280_7
+33280_6	has_surface_form	drama
+33280_8	is_in_sentence	sentence_33280
+33280_8	acl	33280_7
+33280_8	has_surface_form	written
+33280_9	is_in_sentence	sentence_33280
+33280_9	cc	33280_8
+33280_9	has_surface_form	and
+33280_10	is_in_sentence	sentence_33280
+33280_10	conj	33280_8
+33280_10	has_surface_form	directed
+33280_11	is_in_sentence	sentence_33280
+33280_11	agent	33280_10
+33280_11	has_surface_form	by
+33280_12	is_in_sentence	sentence_33280
+33280_12	compound	33280_13
+33280_12	has_surface_form	Miguel
+33280_12	part_of_entity	Miguel Zacarías
+33280_13	is_in_sentence	sentence_33280
+33280_13	pobj	33280_11
+33280_13	has_surface_form	Zacarías
+33280_13	part_of_entity	Miguel Zacarías
+33280_14	is_in_sentence	sentence_33280
+33280_14	punct	33280_2
+33280_14	has_surface_form	.
+33280_15	is_in_sentence	sentence_33280
+33280_15	dep	33280_15
+33280_15	has_surface_form	
+Juana Gallo	surface_form	Juana Gallo
+Juana Gallo	movie-has-director	Miguel Zacarías
+Miguel Zacarías	surface_form	Miguel Zacarías

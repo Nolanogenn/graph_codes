@@ -1,0 +1,49 @@
+18925_0	is_in_sentence	sentence_18925
+18925_0	compound	18925_1
+18925_0	has_surface_form	Mary
+18925_0	part_of_entity	Mary Easson
+18925_1	is_in_sentence	sentence_18925
+18925_1	nsubj	18925_2
+18925_1	has_surface_form	Easson
+18925_1	part_of_entity	Mary Easson
+18925_2	is_in_sentence	sentence_18925
+18925_2	ROOT	18925_2
+18925_2	has_surface_form	is
+18925_3	is_in_sentence	sentence_18925
+18925_3	acomp	18925_2
+18925_3	has_surface_form	married
+18925_4	is_in_sentence	sentence_18925
+18925_4	prep	18925_3
+18925_4	has_surface_form	to
+18925_5	is_in_sentence	sentence_18925
+18925_5	amod	18925_6
+18925_5	has_surface_form	prominent
+18925_6	is_in_sentence	sentence_18925
+18925_6	pobj	18925_4
+18925_6	has_surface_form	businessman
+18925_7	is_in_sentence	sentence_18925
+18925_7	cc	18925_6
+18925_7	has_surface_form	and
+18925_8	is_in_sentence	sentence_18925
+18925_8	amod	18925_9
+18925_8	has_surface_form	former
+18925_9	is_in_sentence	sentence_18925
+18925_9	compound	18925_11
+18925_9	has_surface_form	unionist
+18925_11	is_in_sentence	sentence_18925
+18925_11	conj	18925_6
+18925_11	has_surface_form	Easson
+18925_11	part_of_entity	Michael Easson
+18925_10	is_in_sentence	sentence_18925
+18925_10	compound	18925_11
+18925_10	has_surface_form	Michael
+18925_10	part_of_entity	Michael Easson
+18925_12	is_in_sentence	sentence_18925
+18925_12	punct	18925_2
+18925_12	has_surface_form	.
+18925_13	is_in_sentence	sentence_18925
+18925_13	dep	18925_13
+18925_13	has_surface_form	
+Mary Easson	surface_form	Mary Easson
+Mary Easson	has-spouse	Michael Easson
+Michael Easson	surface_form	Michael Easson

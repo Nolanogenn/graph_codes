@@ -1,0 +1,62 @@
+1090_0	is_in_sentence	sentence_1090
+1090_0	compound	1090_1
+1090_0	has_surface_form	Ness
+1090_0	part_of_entity	Ness Ziona
+1090_1	is_in_sentence	sentence_1090
+1090_1	nsubj	1090_11
+1090_1	has_surface_form	Ziona
+1090_1	part_of_entity	Ness Ziona
+1090_11	is_in_sentence	sentence_1090
+1090_11	ROOT	1090_11
+1090_11	has_surface_form	is
+1090_2	is_in_sentence	sentence_1090
+1090_2	punct	1090_3
+1090_2	has_surface_form	(
+1090_3	is_in_sentence	sentence_1090
+1090_3	appos	1090_1
+1090_3	has_surface_form	Hebrew
+1090_4	is_in_sentence	sentence_1090
+1090_4	punct	1090_3
+1090_4	has_surface_form	:
+1090_5	is_in_sentence	sentence_1090
+1090_5	advmod	1090_6
+1090_5	has_surface_form	נֵס
+1090_6	is_in_sentence	sentence_1090
+1090_6	appos	1090_3
+1090_6	has_surface_form	צִיּוֹנָה
+1090_7	is_in_sentence	sentence_1090
+1090_7	punct	1090_6
+1090_7	has_surface_form	,
+1090_8	is_in_sentence	sentence_1090
+1090_8	compound	1090_9
+1090_8	has_surface_form	Nes
+1090_9	is_in_sentence	sentence_1090
+1090_9	appos	1090_6
+1090_9	has_surface_form	Tziyona
+1090_10	is_in_sentence	sentence_1090
+1090_10	punct	1090_3
+1090_10	has_surface_form	)
+1090_12	is_in_sentence	sentence_1090
+1090_12	det	1090_13
+1090_12	has_surface_form	a
+1090_13	is_in_sentence	sentence_1090
+1090_13	attr	1090_11
+1090_13	is_entity	city
+city	surface_form	city
+1090_14	is_in_sentence	sentence_1090
+1090_14	prep	1090_13
+1090_14	has_surface_form	in
+1090_15	is_in_sentence	sentence_1090
+1090_15	amod	1090_16
+1090_15	has_surface_form	central
+1090_16	is_in_sentence	sentence_1090
+1090_16	pobj	1090_14
+1090_16	has_surface_form	Israel
+1090_17	is_in_sentence	sentence_1090
+1090_17	punct	1090_11
+1090_17	has_surface_form	.
+1090_18	is_in_sentence	sentence_1090
+1090_18	dep	1090_18
+1090_18	has_surface_form	
+Ness Ziona	surface_form	Ness Ziona
+Ness Ziona	has-type	city

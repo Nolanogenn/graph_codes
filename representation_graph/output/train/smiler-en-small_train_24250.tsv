@@ -1,0 +1,65 @@
+24249_0	is_in_sentence	sentence_24249
+24249_0	compound	24249_1
+24249_0	has_surface_form	Théo
+24249_0	part_of_entity	Théo Becker
+24249_1	is_in_sentence	sentence_24249
+24249_1	compound	24249_2
+24249_1	has_surface_form	Becker
+24249_1	part_of_entity	Théo Becker
+24249_2	is_in_sentence	sentence_24249
+24249_2	nsubj	24249_10
+24249_2	has_surface_form	Oliveira
+24249_10	is_in_sentence	sentence_24249
+24249_10	ROOT	24249_10
+24249_10	has_surface_form	is
+24249_3	is_in_sentence	sentence_24249
+24249_3	punct	24249_2
+24249_3	has_surface_form	(
+24249_4	is_in_sentence	sentence_24249
+24249_4	acl	24249_2
+24249_4	has_surface_form	born
+24249_5	is_in_sentence	sentence_24249
+24249_5	npadvmod	24249_4
+24249_5	has_surface_form	November
+24249_6	is_in_sentence	sentence_24249
+24249_6	nummod	24249_5
+24249_6	has_surface_form	24
+24249_7	is_in_sentence	sentence_24249
+24249_7	punct	24249_5
+24249_7	has_surface_form	,
+24249_8	is_in_sentence	sentence_24249
+24249_8	nummod	24249_5
+24249_8	has_surface_form	1976
+24249_9	is_in_sentence	sentence_24249
+24249_9	punct	24249_2
+24249_9	has_surface_form	)
+24249_11	is_in_sentence	sentence_24249
+24249_11	det	24249_13
+24249_11	has_surface_form	a
+24249_13	is_in_sentence	sentence_24249
+24249_13	attr	24249_10
+24249_13	is_entity	actor
+24249_12	is_in_sentence	sentence_24249
+24249_12	amod	24249_13
+24249_12	has_surface_form	Brazilian
+actor	surface_form	actor
+24249_14	is_in_sentence	sentence_24249
+24249_14	punct	24249_13
+24249_14	has_surface_form	,
+24249_15	is_in_sentence	sentence_24249
+24249_15	conj	24249_13
+24249_15	has_surface_form	model
+24249_16	is_in_sentence	sentence_24249
+24249_16	cc	24249_15
+24249_16	has_surface_form	and
+24249_17	is_in_sentence	sentence_24249
+24249_17	conj	24249_15
+24249_17	has_surface_form	singer
+24249_18	is_in_sentence	sentence_24249
+24249_18	punct	24249_10
+24249_18	has_surface_form	.
+24249_19	is_in_sentence	sentence_24249
+24249_19	dep	24249_19
+24249_19	has_surface_form	
+Théo Becker	surface_form	Théo Becker
+Théo Becker	has-occupation	actor

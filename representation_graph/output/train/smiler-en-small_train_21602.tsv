@@ -1,0 +1,70 @@
+21601_0	is_in_sentence	sentence_21601
+21601_0	compound	21601_1
+21601_0	has_surface_form	English
+21601_0	part_of_entity	English Martyrs Catholic School
+21601_1	is_in_sentence	sentence_21601
+21601_1	compound	21601_3
+21601_1	has_surface_form	Martyrs
+21601_1	part_of_entity	English Martyrs Catholic School
+21601_3	is_in_sentence	sentence_21601
+21601_3	nsubj	21601_4
+21601_3	has_surface_form	School
+21601_3	part_of_entity	English Martyrs Catholic School
+21601_2	is_in_sentence	sentence_21601
+21601_2	compound	21601_3
+21601_2	has_surface_form	Catholic
+21601_2	part_of_entity	English Martyrs Catholic School
+21601_4	is_in_sentence	sentence_21601
+21601_4	ROOT	21601_4
+21601_4	has_surface_form	is
+21601_5	is_in_sentence	sentence_21601
+21601_5	det	21601_10
+21601_5	has_surface_form	a
+21601_10	is_in_sentence	sentence_21601
+21601_10	attr	21601_4
+21601_10	has_surface_form	school
+21601_6	is_in_sentence	sentence_21601
+21601_6	amod	21601_10
+21601_6	has_surface_form	co
+21601_7	is_in_sentence	sentence_21601
+21601_7	amod	21601_10
+21601_7	has_surface_form	-
+21601_8	is_in_sentence	sentence_21601
+21601_8	amod	21601_10
+21601_8	has_surface_form	educational
+21601_9	is_in_sentence	sentence_21601
+21601_9	amod	21601_10
+21601_9	has_surface_form	secondary
+21601_11	is_in_sentence	sentence_21601
+21601_11	prep	21601_10
+21601_11	has_surface_form	with
+21601_12	is_in_sentence	sentence_21601
+21601_12	amod	21601_14
+21601_12	has_surface_form	attached
+21601_14	is_in_sentence	sentence_21601
+21601_14	pobj	21601_11
+21601_14	has_surface_form	form
+21601_13	is_in_sentence	sentence_21601
+21601_13	amod	21601_14
+21601_13	has_surface_form	sixth
+21601_15	is_in_sentence	sentence_21601
+21601_15	prep	21601_14
+21601_15	has_surface_form	in
+21601_16	is_in_sentence	sentence_21601
+21601_16	pobj	21601_15
+21601_16	is_entity	Leicester
+Leicester	surface_form	Leicester
+21601_17	is_in_sentence	sentence_21601
+21601_17	punct	21601_16
+21601_17	has_surface_form	,
+21601_18	is_in_sentence	sentence_21601
+21601_18	appos	21601_16
+21601_18	has_surface_form	England
+21601_19	is_in_sentence	sentence_21601
+21601_19	punct	21601_4
+21601_19	has_surface_form	.
+21601_20	is_in_sentence	sentence_21601
+21601_20	dep	21601_4
+21601_20	has_surface_form	
+English Martyrs Catholic School	surface_form	English Martyrs Catholic School
+English Martyrs Catholic School	is-where	Leicester

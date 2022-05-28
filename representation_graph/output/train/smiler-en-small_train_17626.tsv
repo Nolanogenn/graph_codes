@@ -1,0 +1,62 @@
+17625_0	is_in_sentence	sentence_17625
+17625_0	compound	17625_1
+17625_0	has_surface_form	Lyle
+17625_0	part_of_entity	Lyle Setencich
+17625_1	is_in_sentence	sentence_17625
+17625_1	nsubj	17625_9
+17625_1	has_surface_form	Setencich
+17625_1	part_of_entity	Lyle Setencich
+17625_9	is_in_sentence	sentence_17625
+17625_9	ROOT	17625_9
+17625_9	has_surface_form	is
+17625_2	is_in_sentence	sentence_17625
+17625_2	punct	17625_1
+17625_2	has_surface_form	(
+17625_3	is_in_sentence	sentence_17625
+17625_3	acl	17625_1
+17625_3	has_surface_form	born
+17625_4	is_in_sentence	sentence_17625
+17625_4	npadvmod	17625_3
+17625_4	has_surface_form	June
+17625_5	is_in_sentence	sentence_17625
+17625_5	nummod	17625_4
+17625_5	has_surface_form	4
+17625_6	is_in_sentence	sentence_17625
+17625_6	punct	17625_4
+17625_6	has_surface_form	,
+17625_7	is_in_sentence	sentence_17625
+17625_7	nummod	17625_4
+17625_7	has_surface_form	1945
+17625_8	is_in_sentence	sentence_17625
+17625_8	punct	17625_1
+17625_8	has_surface_form	)
+17625_10	is_in_sentence	sentence_17625
+17625_10	det	17625_14
+17625_10	has_surface_form	a
+17625_14	is_in_sentence	sentence_17625
+17625_14	attr	17625_9
+17625_14	has_surface_form	player
+17625_11	is_in_sentence	sentence_17625
+17625_11	amod	17625_14
+17625_11	has_surface_form	former
+17625_12	is_in_sentence	sentence_17625
+17625_12	amod	17625_14
+17625_12	has_surface_form	American
+17625_13	is_in_sentence	sentence_17625
+17625_13	compound	17625_14
+17625_13	has_surface_form	football
+17625_15	is_in_sentence	sentence_17625
+17625_15	cc	17625_14
+17625_15	has_surface_form	and
+17625_16	is_in_sentence	sentence_17625
+17625_16	conj	17625_14
+17625_16	is_entity	coach
+coach	surface_form	coach
+17625_17	is_in_sentence	sentence_17625
+17625_17	punct	17625_9
+17625_17	has_surface_form	.
+17625_18	is_in_sentence	sentence_17625
+17625_18	dep	17625_18
+17625_18	has_surface_form	
+Lyle Setencich	surface_form	Lyle Setencich
+Lyle Setencich	has-type	coach

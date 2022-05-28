@@ -1,0 +1,44 @@
+4506_0	is_in_sentence	sentence_4506
+4506_0	compound	4506_1
+4506_0	has_surface_form	Nick
+4506_0	part_of_entity	Nick Katzman
+4506_1	is_in_sentence	sentence_4506
+4506_1	nsubj	4506_6
+4506_1	has_surface_form	Katzman
+4506_1	part_of_entity	Nick Katzman
+4506_6	is_in_sentence	sentence_4506
+4506_6	ROOT	4506_6
+4506_6	has_surface_form	is
+4506_2	is_in_sentence	sentence_4506
+4506_2	punct	4506_3
+4506_2	has_surface_form	(
+4506_3	is_in_sentence	sentence_4506
+4506_3	relcl	4506_1
+4506_3	has_surface_form	born
+4506_4	is_in_sentence	sentence_4506
+4506_4	npadvmod	4506_3
+4506_4	has_surface_form	1951
+4506_5	is_in_sentence	sentence_4506
+4506_5	punct	4506_3
+4506_5	has_surface_form	)
+4506_7	is_in_sentence	sentence_4506
+4506_7	det	4506_10
+4506_7	has_surface_form	an
+4506_10	is_in_sentence	sentence_4506
+4506_10	attr	4506_6
+4506_10	has_surface_form	musician
+4506_8	is_in_sentence	sentence_4506
+4506_8	amod	4506_9
+4506_8	has_surface_form	American
+4506_9	is_in_sentence	sentence_4506
+4506_9	compound	4506_10
+4506_9	is_entity	blues
+blues	surface_form	blues
+4506_11	is_in_sentence	sentence_4506
+4506_11	punct	4506_6
+4506_11	has_surface_form	.
+4506_12	is_in_sentence	sentence_4506
+4506_12	dep	4506_12
+4506_12	has_surface_form	
+Nick Katzman	surface_form	Nick Katzman
+Nick Katzman	has-genre	blues

@@ -1,0 +1,94 @@
+5959_0	is_in_sentence	sentence_5959
+5959_0	det	5959_1
+5959_0	has_surface_form	No
+5959_0	part_of_entity	No Boyfriend Since Birth
+5959_1	is_in_sentence	sentence_5959
+5959_1	nsubj	5959_7
+5959_1	has_surface_form	Boyfriend
+5959_1	part_of_entity	No Boyfriend Since Birth
+5959_7	is_in_sentence	sentence_5959
+5959_7	ROOT	5959_7
+5959_7	has_surface_form	is
+5959_2	is_in_sentence	sentence_5959
+5959_2	prep	5959_1
+5959_2	has_surface_form	Since
+5959_2	part_of_entity	No Boyfriend Since Birth
+5959_3	is_in_sentence	sentence_5959
+5959_3	pobj	5959_2
+5959_3	has_surface_form	Birth
+5959_3	part_of_entity	No Boyfriend Since Birth
+5959_4	is_in_sentence	sentence_5959
+5959_4	punct	5959_3
+5959_4	has_surface_form	(
+5959_5	is_in_sentence	sentence_5959
+5959_5	appos	5959_3
+5959_5	has_surface_form	NBSB
+5959_6	is_in_sentence	sentence_5959
+5959_6	punct	5959_1
+5959_6	has_surface_form	)
+5959_8	is_in_sentence	sentence_5959
+5959_8	det	5959_14
+5959_8	has_surface_form	a
+5959_14	is_in_sentence	sentence_5959
+5959_14	attr	5959_7
+5959_14	has_surface_form	film
+5959_9	is_in_sentence	sentence_5959
+5959_9	nummod	5959_14
+5959_9	has_surface_form	2015
+5959_10	is_in_sentence	sentence_5959
+5959_10	nmod	5959_14
+5959_10	has_surface_form	Filipino
+5959_11	is_in_sentence	sentence_5959
+5959_11	amod	5959_13
+5959_11	has_surface_form	romantic
+5959_13	is_in_sentence	sentence_5959
+5959_13	compound	5959_14
+5959_13	has_surface_form	comedy
+5959_12	is_in_sentence	sentence_5959
+5959_12	punct	5959_13
+5959_12	has_surface_form	-
+5959_15	is_in_sentence	sentence_5959
+5959_15	acl	5959_14
+5959_15	has_surface_form	directed
+5959_16	is_in_sentence	sentence_5959
+5959_16	agent	5959_15
+5959_16	has_surface_form	by
+5959_17	is_in_sentence	sentence_5959
+5959_17	compound	5959_18
+5959_17	has_surface_form	Jose
+5959_17	part_of_entity	Jose Javier Reyes
+5959_18	is_in_sentence	sentence_5959
+5959_18	compound	5959_19
+5959_18	has_surface_form	Javier
+5959_18	part_of_entity	Jose Javier Reyes
+5959_19	is_in_sentence	sentence_5959
+5959_19	pobj	5959_16
+5959_19	has_surface_form	Reyes
+5959_19	part_of_entity	Jose Javier Reyes
+5959_20	is_in_sentence	sentence_5959
+5959_20	acl	5959_19
+5959_20	has_surface_form	starring
+5959_21	is_in_sentence	sentence_5959
+5959_21	compound	5959_22
+5959_21	has_surface_form	Carla
+5959_22	is_in_sentence	sentence_5959
+5959_22	dobj	5959_20
+5959_22	has_surface_form	Abellana
+5959_23	is_in_sentence	sentence_5959
+5959_23	cc	5959_22
+5959_23	has_surface_form	and
+5959_24	is_in_sentence	sentence_5959
+5959_24	compound	5959_25
+5959_24	has_surface_form	Tom
+5959_25	is_in_sentence	sentence_5959
+5959_25	conj	5959_22
+5959_25	has_surface_form	Rodriguez
+5959_26	is_in_sentence	sentence_5959
+5959_26	punct	5959_7
+5959_26	has_surface_form	.
+5959_27	is_in_sentence	sentence_5959
+5959_27	dep	5959_27
+5959_27	has_surface_form	
+No Boyfriend Since Birth	surface_form	No Boyfriend Since Birth
+No Boyfriend Since Birth	movie-has-director	Jose Javier Reyes
+Jose Javier Reyes	surface_form	Jose Javier Reyes

@@ -1,0 +1,59 @@
+33902_0	is_in_sentence	sentence_33902
+33902_0	compound	33902_1
+33902_0	has_surface_form	Farah
+33902_0	part_of_entity	Farah Alvin
+33902_1	is_in_sentence	sentence_33902
+33902_1	nsubj	33902_9
+33902_1	has_surface_form	Alvin
+33902_1	part_of_entity	Farah Alvin
+33902_9	is_in_sentence	sentence_33902
+33902_9	ROOT	33902_9
+33902_9	has_surface_form	is
+33902_2	is_in_sentence	sentence_33902
+33902_2	punct	33902_1
+33902_2	has_surface_form	(
+33902_3	is_in_sentence	sentence_33902
+33902_3	acl	33902_1
+33902_3	has_surface_form	born
+33902_4	is_in_sentence	sentence_33902
+33902_4	npadvmod	33902_3
+33902_4	has_surface_form	September
+33902_5	is_in_sentence	sentence_33902
+33902_5	nummod	33902_4
+33902_5	has_surface_form	28
+33902_6	is_in_sentence	sentence_33902
+33902_6	punct	33902_4
+33902_6	has_surface_form	,
+33902_7	is_in_sentence	sentence_33902
+33902_7	nummod	33902_4
+33902_7	has_surface_form	1976
+33902_8	is_in_sentence	sentence_33902
+33902_8	punct	33902_1
+33902_8	has_surface_form	)
+33902_10	is_in_sentence	sentence_33902
+33902_10	det	33902_15
+33902_10	has_surface_form	an
+33902_15	is_in_sentence	sentence_33902
+33902_15	attr	33902_9
+33902_15	is_entity	actress
+33902_11	is_in_sentence	sentence_33902
+33902_11	amod	33902_15
+33902_11	has_surface_form	American
+33902_12	is_in_sentence	sentence_33902
+33902_12	nmod	33902_15
+33902_12	has_surface_form	songwriter
+33902_13	is_in_sentence	sentence_33902
+33902_13	cc	33902_12
+33902_13	has_surface_form	and
+33902_14	is_in_sentence	sentence_33902
+33902_14	conj	33902_12
+33902_14	has_surface_form	theatre
+actress	surface_form	actress
+33902_16	is_in_sentence	sentence_33902
+33902_16	punct	33902_9
+33902_16	has_surface_form	.
+33902_17	is_in_sentence	sentence_33902
+33902_17	dep	33902_17
+33902_17	has_surface_form	
+Farah Alvin	surface_form	Farah Alvin
+Farah Alvin	has-occupation	actress

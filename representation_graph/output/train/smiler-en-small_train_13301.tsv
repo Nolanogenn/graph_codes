@@ -1,0 +1,53 @@
+13300_0	is_in_sentence	sentence_13300
+13300_0	nsubjpass	13300_2
+13300_0	is_entity	White
+13300_2	is_in_sentence	sentence_13300
+13300_2	ccomp	13300_11
+13300_2	has_surface_form	born
+White	surface_form	White
+White	has-parent	Robert White
+13300_1	is_in_sentence	sentence_13300
+13300_1	auxpass	13300_2
+13300_1	has_surface_form	was
+13300_11	is_in_sentence	sentence_13300
+13300_11	ROOT	13300_11
+13300_11	has_surface_form	was
+13300_3	is_in_sentence	sentence_13300
+13300_3	prep	13300_2
+13300_3	has_surface_form	at
+13300_4	is_in_sentence	sentence_13300
+13300_4	compound	13300_5
+13300_4	has_surface_form	Trinity
+13300_5	is_in_sentence	sentence_13300
+13300_5	pobj	13300_3
+13300_5	has_surface_form	Bay
+13300_6	is_in_sentence	sentence_13300
+13300_6	punct	13300_5
+13300_6	has_surface_form	,
+13300_7	is_in_sentence	sentence_13300
+13300_7	conj	13300_5
+13300_7	has_surface_form	Newfoundland
+13300_8	is_in_sentence	sentence_13300
+13300_8	cc	13300_7
+13300_8	has_surface_form	and
+13300_9	is_in_sentence	sentence_13300
+13300_9	poss	13300_10
+13300_9	has_surface_form	his
+13300_10	is_in_sentence	sentence_13300
+13300_10	conj	13300_7
+13300_10	has_surface_form	father
+13300_12	is_in_sentence	sentence_13300
+13300_12	compound	13300_13
+13300_12	has_surface_form	Robert
+13300_12	part_of_entity	Robert White
+13300_13	is_in_sentence	sentence_13300
+13300_13	attr	13300_11
+13300_13	is_entity	White
+13300_13	part_of_entity	Robert White
+13300_14	is_in_sentence	sentence_13300
+13300_14	punct	13300_11
+13300_14	has_surface_form	.
+13300_15	is_in_sentence	sentence_13300
+13300_15	dep	13300_15
+13300_15	has_surface_form	
+Robert White	surface_form	Robert White

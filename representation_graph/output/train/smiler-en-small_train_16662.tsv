@@ -1,0 +1,82 @@
+16661_0	is_in_sentence	sentence_16661
+16661_0	compound	16661_1
+16661_0	has_surface_form	Emperor
+16661_0	part_of_entity	Emperor Yao
+16661_1	is_in_sentence	sentence_16661
+16661_1	nsubj	16661_2
+16661_1	has_surface_form	Yao
+16661_1	part_of_entity	Emperor Yao
+16661_2	is_in_sentence	sentence_16661
+16661_2	ROOT	16661_2
+16661_2	has_surface_form	is
+16661_3	is_in_sentence	sentence_16661
+16661_3	det	16661_6
+16661_3	has_surface_form	a
+16661_6	is_in_sentence	sentence_16661
+16661_6	attr	16661_2
+16661_6	has_surface_form	descendant
+16661_4	is_in_sentence	sentence_16661
+16661_4	amod	16661_5
+16661_4	has_surface_form	5th
+16661_5	is_in_sentence	sentence_16661
+16661_5	compound	16661_6
+16661_5	has_surface_form	generation
+16661_7	is_in_sentence	sentence_16661
+16661_7	prep	16661_6
+16661_7	has_surface_form	of
+16661_8	is_in_sentence	sentence_16661
+16661_8	compound	16661_9
+16661_8	has_surface_form	Emperor
+16661_9	is_in_sentence	sentence_16661
+16661_9	pobj	16661_7
+16661_9	has_surface_form	Huang
+16661_10	is_in_sentence	sentence_16661
+16661_10	punct	16661_9
+16661_10	has_surface_form	(
+16661_11	is_in_sentence	sentence_16661
+16661_11	cc	16661_9
+16661_11	has_surface_form	or
+16661_12	is_in_sentence	sentence_16661
+16661_12	compound	16661_13
+16661_12	has_surface_form	Yellow
+16661_13	is_in_sentence	sentence_16661
+16661_13	conj	16661_9
+16661_13	has_surface_form	Emperor
+16661_14	is_in_sentence	sentence_16661
+16661_14	punct	16661_9
+16661_14	has_surface_form	)
+16661_15	is_in_sentence	sentence_16661
+16661_15	punct	16661_2
+16661_15	has_surface_form	,
+16661_16	is_in_sentence	sentence_16661
+16661_16	cc	16661_2
+16661_16	has_surface_form	and
+16661_17	is_in_sentence	sentence_16661
+16661_17	det	16661_19
+16661_17	has_surface_form	the
+16661_19	is_in_sentence	sentence_16661
+16661_19	conj	16661_2
+16661_19	has_surface_form	son
+16661_18	is_in_sentence	sentence_16661
+16661_18	amod	16661_19
+16661_18	has_surface_form	second
+16661_20	is_in_sentence	sentence_16661
+16661_20	prep	16661_19
+16661_20	has_surface_form	of
+16661_21	is_in_sentence	sentence_16661
+16661_21	compound	16661_22
+16661_21	has_surface_form	Emperor
+16661_21	part_of_entity	Emperor Ku
+16661_22	is_in_sentence	sentence_16661
+16661_22	pobj	16661_20
+16661_22	has_surface_form	Ku
+16661_22	part_of_entity	Emperor Ku
+16661_23	is_in_sentence	sentence_16661
+16661_23	pobj	16661_20
+16661_23	has_surface_form	.
+16661_24	is_in_sentence	sentence_16661
+16661_24	dep	16661_2
+16661_24	has_surface_form	
+Emperor Yao	surface_form	Emperor Yao
+Emperor Yao	has-parent	Emperor Ku
+Emperor Ku	surface_form	Emperor Ku

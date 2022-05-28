@@ -1,0 +1,106 @@
+25660_0	is_in_sentence	sentence_25660
+25660_0	compound	25660_1
+25660_0	has_surface_form	Boat
+25660_0	part_of_entity	Boat Owners Association of The United States
+25660_1	is_in_sentence	sentence_25660
+25660_1	compound	25660_2
+25660_1	has_surface_form	Owners
+25660_1	part_of_entity	Boat Owners Association of The United States
+25660_2	is_in_sentence	sentence_25660
+25660_2	nsubj	25660_13
+25660_2	has_surface_form	Association
+25660_2	part_of_entity	Boat Owners Association of The United States
+25660_13	is_in_sentence	sentence_25660
+25660_13	ROOT	25660_13
+25660_13	has_surface_form	is
+25660_3	is_in_sentence	sentence_25660
+25660_3	prep	25660_2
+25660_3	has_surface_form	of
+25660_3	part_of_entity	Boat Owners Association of The United States
+25660_4	is_in_sentence	sentence_25660
+25660_4	det	25660_6
+25660_4	has_surface_form	The
+25660_4	part_of_entity	Boat Owners Association of The United States
+25660_6	is_in_sentence	sentence_25660
+25660_6	pobj	25660_3
+25660_6	has_surface_form	States
+25660_6	part_of_entity	Boat Owners Association of The United States
+25660_5	is_in_sentence	sentence_25660
+25660_5	compound	25660_6
+25660_5	has_surface_form	United
+25660_5	part_of_entity	Boat Owners Association of The United States
+25660_7	is_in_sentence	sentence_25660
+25660_7	punct	25660_2
+25660_7	has_surface_form	,
+25660_8	is_in_sentence	sentence_25660
+25660_8	advmod	25660_9
+25660_8	has_surface_form	better
+25660_9	is_in_sentence	sentence_25660
+25660_9	acl	25660_2
+25660_9	has_surface_form	known
+25660_10	is_in_sentence	sentence_25660
+25660_10	prep	25660_9
+25660_10	has_surface_form	as
+25660_11	is_in_sentence	sentence_25660
+25660_11	pobj	25660_10
+25660_11	has_surface_form	BoatUS
+25660_12	is_in_sentence	sentence_25660
+25660_12	punct	25660_2
+25660_12	has_surface_form	,
+25660_14	is_in_sentence	sentence_25660
+25660_14	det	25660_16
+25660_14	has_surface_form	an
+25660_16	is_in_sentence	sentence_25660
+25660_16	attr	25660_13
+25660_16	is_entity	association
+25660_15	is_in_sentence	sentence_25660
+25660_15	amod	25660_16
+25660_15	has_surface_form	American
+association	surface_form	association
+25660_17	is_in_sentence	sentence_25660
+25660_17	prep	25660_16
+25660_17	has_surface_form	of
+25660_18	is_in_sentence	sentence_25660
+25660_18	compound	25660_19
+25660_18	has_surface_form	boat
+25660_19	is_in_sentence	sentence_25660
+25660_19	pobj	25660_17
+25660_19	has_surface_form	owners
+25660_20	is_in_sentence	sentence_25660
+25660_20	acl	25660_16
+25660_20	has_surface_form	offering
+25660_21	is_in_sentence	sentence_25660
+25660_21	amod	25660_22
+25660_21	has_surface_form	various
+25660_22	is_in_sentence	sentence_25660
+25660_22	dobj	25660_20
+25660_22	has_surface_form	services
+25660_23	is_in_sentence	sentence_25660
+25660_23	acl	25660_22
+25660_23	has_surface_form	supporting
+25660_24	is_in_sentence	sentence_25660
+25660_24	amod	25660_25
+25660_24	has_surface_form	recreational
+25660_25	is_in_sentence	sentence_25660
+25660_25	nmod	25660_29
+25660_25	has_surface_form	boat
+25660_29	is_in_sentence	sentence_25660
+25660_29	dobj	25660_23
+25660_29	has_surface_form	activities
+25660_26	is_in_sentence	sentence_25660
+25660_26	cc	25660_25
+25660_26	has_surface_form	and
+25660_27	is_in_sentence	sentence_25660
+25660_27	compound	25660_28
+25660_27	has_surface_form	trailer
+25660_28	is_in_sentence	sentence_25660
+25660_28	conj	25660_25
+25660_28	has_surface_form	towing
+25660_30	is_in_sentence	sentence_25660
+25660_30	punct	25660_13
+25660_30	has_surface_form	.
+25660_31	is_in_sentence	sentence_25660
+25660_31	dep	25660_31
+25660_31	has_surface_form	
+Boat Owners Association of The United States	surface_form	Boat Owners Association of The United States
+Boat Owners Association of The United States	has-type	association

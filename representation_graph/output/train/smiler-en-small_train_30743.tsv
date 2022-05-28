@@ -1,0 +1,65 @@
+30742_0	is_in_sentence	sentence_30742
+30742_0	compound	30742_1
+30742_0	has_surface_form	Jason
+30742_0	part_of_entity	Jason Hsu
+30742_1	is_in_sentence	sentence_30742
+30742_1	nsubj	30742_3
+30742_1	has_surface_form	Hsu
+30742_1	part_of_entity	Jason Hsu
+30742_3	is_in_sentence	sentence_30742
+30742_3	ROOT	30742_3
+30742_3	has_surface_form	born
+30742_2	is_in_sentence	sentence_30742
+30742_2	punct	30742_1
+30742_2	has_surface_form	(
+30742_4	is_in_sentence	sentence_30742
+30742_4	nummod	30742_5
+30742_4	has_surface_form	27
+30742_5	is_in_sentence	sentence_30742
+30742_5	npadvmod	30742_3
+30742_5	has_surface_form	July
+30742_6	is_in_sentence	sentence_30742
+30742_6	nummod	30742_5
+30742_6	has_surface_form	1985
+30742_7	is_in_sentence	sentence_30742
+30742_7	punct	30742_3
+30742_7	has_surface_form	)
+30742_8	is_in_sentence	sentence_30742
+30742_8	ROOT	30742_8
+30742_8	has_surface_form	is
+30742_9	is_in_sentence	sentence_30742
+30742_9	det	30742_11
+30742_9	has_surface_form	a
+30742_11	is_in_sentence	sentence_30742
+30742_11	nsubj	30742_8
+30742_11	has_surface_form	singer
+30742_10	is_in_sentence	sentence_30742
+30742_10	amod	30742_11
+30742_10	has_surface_form	Taiwanese
+30742_12	is_in_sentence	sentence_30742
+30742_12	punct	30742_11
+30742_12	has_surface_form	,
+30742_13	is_in_sentence	sentence_30742
+30742_13	conj	30742_11
+30742_13	is_entity	actor
+actor	surface_form	actor
+30742_14	is_in_sentence	sentence_30742
+30742_14	cc	30742_13
+30742_14	has_surface_form	and
+30742_15	is_in_sentence	sentence_30742
+30742_15	compound	30742_16
+30742_15	has_surface_form	ice
+30742_16	is_in_sentence	sentence_30742
+30742_16	compound	30742_17
+30742_16	has_surface_form	hockey
+30742_17	is_in_sentence	sentence_30742
+30742_17	conj	30742_13
+30742_17	has_surface_form	player
+30742_18	is_in_sentence	sentence_30742
+30742_18	punct	30742_8
+30742_18	has_surface_form	.
+30742_19	is_in_sentence	sentence_30742
+30742_19	dep	30742_19
+30742_19	has_surface_form	
+Jason Hsu	surface_form	Jason Hsu
+Jason Hsu	has-occupation	actor

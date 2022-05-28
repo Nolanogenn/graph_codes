@@ -1,0 +1,38 @@
+10353_0	is_in_sentence	sentence_10353
+10353_0	nsubj	10353_5
+10353_0	has_surface_form	Awards
+10353_5	is_in_sentence	sentence_10353
+10353_5	ROOT	10353_5
+10353_5	has_surface_form	include
+10353_1	is_in_sentence	sentence_10353
+10353_1	prep	10353_0
+10353_1	has_surface_form	for
+10353_2	is_in_sentence	sentence_10353
+10353_2	compound	10353_3
+10353_2	has_surface_form	Razor
+10353_2	part_of_entity	Razor Blade Smile
+10353_3	is_in_sentence	sentence_10353
+10353_3	compound	10353_4
+10353_3	has_surface_form	Blade
+10353_3	part_of_entity	Razor Blade Smile
+10353_4	is_in_sentence	sentence_10353
+10353_4	pobj	10353_1
+10353_4	has_surface_form	Smile
+10353_4	part_of_entity	Razor Blade Smile
+10353_6	is_in_sentence	sentence_10353
+10353_6	compound	10353_7
+10353_6	has_surface_form	Grand
+10353_6	part_of_entity	Grand Prize
+10353_7	is_in_sentence	sentence_10353
+10353_7	dobj	10353_5
+10353_7	has_surface_form	Prize
+10353_7	part_of_entity	Grand Prize
+10353_8	is_in_sentence	sentence_10353
+10353_8	punct	10353_5
+10353_8	has_surface_form	.
+10353_9	is_in_sentence	sentence_10353
+10353_9	dep	10353_5
+10353_9	has_surface_form	
+Razor Blade Smile	surface_form	Razor Blade Smile
+Razor Blade Smile	won-award	Grand Prize
+Grand Prize	surface_form	Grand Prize

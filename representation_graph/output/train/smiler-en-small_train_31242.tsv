@@ -1,0 +1,92 @@
+31241_0	is_in_sentence	sentence_31241
+31241_0	advcl	31241_10
+31241_0	has_surface_form	Stop
+31241_0	part_of_entity	Stop at Tenerife
+31241_10	is_in_sentence	sentence_31241
+31241_10	ROOT	31241_10
+31241_10	has_surface_form	is
+31241_1	is_in_sentence	sentence_31241
+31241_1	prep	31241_0
+31241_1	has_surface_form	at
+31241_1	part_of_entity	Stop at Tenerife
+31241_2	is_in_sentence	sentence_31241
+31241_2	pobj	31241_1
+31241_2	has_surface_form	Tenerife
+31241_2	part_of_entity	Stop at Tenerife
+31241_3	is_in_sentence	sentence_31241
+31241_3	punct	31241_4
+31241_3	has_surface_form	(
+31241_4	is_in_sentence	sentence_31241
+31241_4	parataxis	31241_0
+31241_4	has_surface_form	Spanish
+31241_5	is_in_sentence	sentence_31241
+31241_5	punct	31241_4
+31241_5	has_surface_form	:
+31241_6	is_in_sentence	sentence_31241
+31241_6	nsubj	31241_10
+31241_6	has_surface_form	Escala
+31241_7	is_in_sentence	sentence_31241
+31241_7	prep	31241_6
+31241_7	has_surface_form	en
+31241_8	is_in_sentence	sentence_31241
+31241_8	npadvmod	31241_6
+31241_8	has_surface_form	Tenerife
+31241_9	is_in_sentence	sentence_31241
+31241_9	punct	31241_6
+31241_9	has_surface_form	)
+31241_11	is_in_sentence	sentence_31241
+31241_11	det	31241_16
+31241_11	has_surface_form	a
+31241_16	is_in_sentence	sentence_31241
+31241_16	attr	31241_10
+31241_16	has_surface_form	film
+31241_12	is_in_sentence	sentence_31241
+31241_12	nummod	31241_16
+31241_12	has_surface_form	1964
+31241_13	is_in_sentence	sentence_31241
+31241_13	amod	31241_16
+31241_13	has_surface_form	Spanish
+31241_14	is_in_sentence	sentence_31241
+31241_14	amod	31241_16
+31241_14	has_surface_form	musical
+31241_15	is_in_sentence	sentence_31241
+31241_15	compound	31241_16
+31241_15	has_surface_form	comedy
+31241_17	is_in_sentence	sentence_31241
+31241_17	acl	31241_16
+31241_17	has_surface_form	directed
+31241_18	is_in_sentence	sentence_31241
+31241_18	agent	31241_17
+31241_18	has_surface_form	by
+31241_19	is_in_sentence	sentence_31241
+31241_19	compound	31241_20
+31241_19	has_surface_form	León
+31241_19	part_of_entity	León Klimovsky
+31241_20	is_in_sentence	sentence_31241
+31241_20	pobj	31241_18
+31241_20	has_surface_form	Klimovsky
+31241_20	part_of_entity	León Klimovsky
+31241_21	is_in_sentence	sentence_31241
+31241_21	cc	31241_17
+31241_21	has_surface_form	and
+31241_22	is_in_sentence	sentence_31241
+31241_22	conj	31241_17
+31241_22	has_surface_form	starring
+31241_23	is_in_sentence	sentence_31241
+31241_23	det	31241_25
+31241_23	has_surface_form	the
+31241_25	is_in_sentence	sentence_31241
+31241_25	dobj	31241_22
+31241_25	has_surface_form	Dinámico
+31241_24	is_in_sentence	sentence_31241
+31241_24	compound	31241_25
+31241_24	has_surface_form	Dúo
+31241_26	is_in_sentence	sentence_31241
+31241_26	punct	31241_10
+31241_26	has_surface_form	.
+31241_27	is_in_sentence	sentence_31241
+31241_27	dep	31241_27
+31241_27	has_surface_form	
+Stop at Tenerife	surface_form	Stop at Tenerife
+Stop at Tenerife	movie-has-director	León Klimovsky
+León Klimovsky	surface_form	León Klimovsky

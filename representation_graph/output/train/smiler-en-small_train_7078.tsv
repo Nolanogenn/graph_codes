@@ -1,0 +1,95 @@
+7077_0	is_in_sentence	sentence_7077
+7077_0	compound	7077_2
+7077_0	has_surface_form	James
+7077_0	part_of_entity	James Leonard Hamilton
+7077_2	is_in_sentence	sentence_7077
+7077_2	nsubj	7077_10
+7077_2	has_surface_form	Hamilton
+7077_2	part_of_entity	James Leonard Hamilton
+7077_1	is_in_sentence	sentence_7077
+7077_1	compound	7077_2
+7077_1	has_surface_form	Leonard
+7077_1	part_of_entity	James Leonard Hamilton
+7077_10	is_in_sentence	sentence_7077
+7077_10	ROOT	7077_10
+7077_10	has_surface_form	is
+7077_3	is_in_sentence	sentence_7077
+7077_3	punct	7077_4
+7077_3	has_surface_form	(
+7077_4	is_in_sentence	sentence_7077
+7077_4	acl	7077_2
+7077_4	has_surface_form	born
+7077_5	is_in_sentence	sentence_7077
+7077_5	npadvmod	7077_4
+7077_5	has_surface_form	August
+7077_6	is_in_sentence	sentence_7077
+7077_6	nummod	7077_5
+7077_6	has_surface_form	4
+7077_7	is_in_sentence	sentence_7077
+7077_7	punct	7077_5
+7077_7	has_surface_form	,
+7077_8	is_in_sentence	sentence_7077
+7077_8	nummod	7077_5
+7077_8	has_surface_form	1948
+7077_9	is_in_sentence	sentence_7077
+7077_9	punct	7077_4
+7077_9	has_surface_form	)
+7077_11	is_in_sentence	sentence_7077
+7077_11	det	7077_14
+7077_11	has_surface_form	an
+7077_14	is_in_sentence	sentence_7077
+7077_14	attr	7077_10
+7077_14	has_surface_form	coach
+7077_14	part_of_entity	basketball coach
+7077_12	is_in_sentence	sentence_7077
+7077_12	amod	7077_14
+7077_12	has_surface_form	American
+7077_13	is_in_sentence	sentence_7077
+7077_13	compound	7077_14
+7077_13	has_surface_form	basketball
+7077_13	part_of_entity	basketball coach
+7077_15	is_in_sentence	sentence_7077
+7077_15	cc	7077_14
+7077_15	has_surface_form	and
+7077_16	is_in_sentence	sentence_7077
+7077_16	det	7077_18
+7077_16	has_surface_form	the
+7077_18	is_in_sentence	sentence_7077
+7077_18	poss	7077_22
+7077_18	has_surface_form	men
+7077_17	is_in_sentence	sentence_7077
+7077_17	amod	7077_18
+7077_17	has_surface_form	current
+7077_22	is_in_sentence	sentence_7077
+7077_22	conj	7077_14
+7077_22	has_surface_form	coach
+7077_19	is_in_sentence	sentence_7077
+7077_19	case	7077_18
+7077_19	has_surface_form	's
+7077_20	is_in_sentence	sentence_7077
+7077_20	compound	7077_21
+7077_20	has_surface_form	basketball
+7077_21	is_in_sentence	sentence_7077
+7077_21	compound	7077_22
+7077_21	has_surface_form	head
+7077_23	is_in_sentence	sentence_7077
+7077_23	prep	7077_22
+7077_23	has_surface_form	at
+7077_24	is_in_sentence	sentence_7077
+7077_24	compound	7077_26
+7077_24	has_surface_form	Florida
+7077_26	is_in_sentence	sentence_7077
+7077_26	pobj	7077_23
+7077_26	has_surface_form	University
+7077_25	is_in_sentence	sentence_7077
+7077_25	compound	7077_26
+7077_25	has_surface_form	State
+7077_27	is_in_sentence	sentence_7077
+7077_27	punct	7077_10
+7077_27	has_surface_form	.
+7077_28	is_in_sentence	sentence_7077
+7077_28	dep	7077_10
+7077_28	has_surface_form	
+James Leonard Hamilton	surface_form	James Leonard Hamilton
+James Leonard Hamilton	has-type	basketball coach
+basketball coach	surface_form	basketball coach

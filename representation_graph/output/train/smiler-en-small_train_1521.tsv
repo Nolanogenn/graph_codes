@@ -1,0 +1,74 @@
+1520_0	is_in_sentence	sentence_1520
+1520_0	compound	1520_2
+1520_0	has_surface_form	Court
+1520_0	part_of_entity	Court Yard Hounds
+1520_2	is_in_sentence	sentence_1520
+1520_2	nsubj	1520_3
+1520_2	has_surface_form	Hounds
+1520_2	part_of_entity	Court Yard Hounds
+1520_1	is_in_sentence	sentence_1520
+1520_1	compound	1520_2
+1520_1	has_surface_form	Yard
+1520_1	part_of_entity	Court Yard Hounds
+1520_3	is_in_sentence	sentence_1520
+1520_3	ROOT	1520_3
+1520_3	has_surface_form	is
+1520_4	is_in_sentence	sentence_1520
+1520_4	det	1520_10
+1520_4	has_surface_form	an
+1520_10	is_in_sentence	sentence_1520
+1520_10	attr	1520_3
+1520_10	has_surface_form	duo
+1520_5	is_in_sentence	sentence_1520
+1520_5	amod	1520_7
+1520_5	has_surface_form	American
+1520_7	is_in_sentence	sentence_1520
+1520_7	nmod	1520_10
+1520_7	has_surface_form	music
+1520_6	is_in_sentence	sentence_1520
+1520_6	compound	1520_7
+1520_6	has_surface_form	country
+1520_8	is_in_sentence	sentence_1520
+1520_8	cc	1520_7
+1520_8	has_surface_form	and
+1520_9	is_in_sentence	sentence_1520
+1520_9	conj	1520_7
+1520_9	has_surface_form	folk
+1520_11	is_in_sentence	sentence_1520
+1520_11	punct	1520_10
+1520_11	has_surface_form	,
+1520_12	is_in_sentence	sentence_1520
+1520_12	acl	1520_10
+1520_12	has_surface_form	founded
+1520_13	is_in_sentence	sentence_1520
+1520_13	agent	1520_12
+1520_13	has_surface_form	by
+1520_14	is_in_sentence	sentence_1520
+1520_14	pobj	1520_13
+1520_14	has_surface_form	sisters
+1520_15	is_in_sentence	sentence_1520
+1520_15	compound	1520_16
+1520_15	has_surface_form	Martie
+1520_16	is_in_sentence	sentence_1520
+1520_16	appos	1520_14
+1520_16	has_surface_form	Maguire
+1520_17	is_in_sentence	sentence_1520
+1520_17	cc	1520_16
+1520_17	has_surface_form	and
+1520_18	is_in_sentence	sentence_1520
+1520_18	compound	1520_19
+1520_18	has_surface_form	Emily
+1520_18	part_of_entity	Emily Robison
+1520_19	is_in_sentence	sentence_1520
+1520_19	conj	1520_16
+1520_19	has_surface_form	Robison
+1520_19	part_of_entity	Emily Robison
+1520_20	is_in_sentence	sentence_1520
+1520_20	punct	1520_3
+1520_20	has_surface_form	.
+1520_21	is_in_sentence	sentence_1520
+1520_21	dep	1520_3
+1520_21	has_surface_form	
+Court Yard Hounds	surface_form	Court Yard Hounds
+Court Yard Hounds	org-has-member	Emily Robison
+Emily Robison	surface_form	Emily Robison

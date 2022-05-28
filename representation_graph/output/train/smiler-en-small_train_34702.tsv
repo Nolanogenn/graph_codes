@@ -1,0 +1,104 @@
+34701_0	is_in_sentence	sentence_34701
+34701_0	det	34701_3
+34701_0	has_surface_form	The
+34701_3	is_in_sentence	sentence_34701
+34701_3	nsubj	34701_4
+34701_3	has_surface_form	Carriage
+34701_3	part_of_entity	London Steam Carriage
+34701_1	is_in_sentence	sentence_34701
+34701_1	compound	34701_3
+34701_1	has_surface_form	London
+34701_1	part_of_entity	London Steam Carriage
+34701_2	is_in_sentence	sentence_34701
+34701_2	compound	34701_3
+34701_2	has_surface_form	Steam
+34701_2	part_of_entity	London Steam Carriage
+34701_4	is_in_sentence	sentence_34701
+34701_4	ROOT	34701_4
+34701_4	has_surface_form	was
+34701_5	is_in_sentence	sentence_34701
+34701_5	det	34701_11
+34701_5	has_surface_form	an
+34701_11	is_in_sentence	sentence_34701
+34701_11	attr	34701_4
+34701_11	has_surface_form	vehicle
+34701_6	is_in_sentence	sentence_34701
+34701_6	amod	34701_11
+34701_6	has_surface_form	early
+34701_7	is_in_sentence	sentence_34701
+34701_7	npadvmod	34701_9
+34701_7	has_surface_form	steam
+34701_9	is_in_sentence	sentence_34701
+34701_9	amod	34701_11
+34701_9	has_surface_form	powered
+34701_8	is_in_sentence	sentence_34701
+34701_8	punct	34701_9
+34701_8	has_surface_form	-
+34701_10	is_in_sentence	sentence_34701
+34701_10	compound	34701_11
+34701_10	has_surface_form	road
+34701_12	is_in_sentence	sentence_34701
+34701_12	acl	34701_11
+34701_12	has_surface_form	constructed
+34701_13	is_in_sentence	sentence_34701
+34701_13	agent	34701_12
+34701_13	has_surface_form	by
+34701_14	is_in_sentence	sentence_34701
+34701_14	compound	34701_15
+34701_14	has_surface_form	Richard
+34701_14	part_of_entity	Richard Trevithick
+34701_15	is_in_sentence	sentence_34701
+34701_15	pobj	34701_13
+34701_15	has_surface_form	Trevithick
+34701_15	part_of_entity	Richard Trevithick
+34701_16	is_in_sentence	sentence_34701
+34701_16	prep	34701_12
+34701_16	has_surface_form	in
+34701_17	is_in_sentence	sentence_34701
+34701_17	pobj	34701_16
+34701_17	has_surface_form	1803
+34701_18	is_in_sentence	sentence_34701
+34701_18	cc	34701_11
+34701_18	has_surface_form	and
+34701_19	is_in_sentence	sentence_34701
+34701_19	det	34701_20
+34701_19	has_surface_form	the
+34701_20	is_in_sentence	sentence_34701
+34701_20	poss	34701_29
+34701_20	has_surface_form	world
+34701_29	is_in_sentence	sentence_34701
+34701_29	conj	34701_11
+34701_29	has_surface_form	vehicle
+34701_21	is_in_sentence	sentence_34701
+34701_21	case	34701_20
+34701_21	has_surface_form	's
+34701_22	is_in_sentence	sentence_34701
+34701_22	amod	34701_29
+34701_22	has_surface_form	first
+34701_23	is_in_sentence	sentence_34701
+34701_23	npadvmod	34701_25
+34701_23	has_surface_form	self
+34701_25	is_in_sentence	sentence_34701
+34701_25	amod	34701_29
+34701_25	has_surface_form	propelled
+34701_24	is_in_sentence	sentence_34701
+34701_24	punct	34701_25
+34701_24	has_surface_form	-
+34701_26	is_in_sentence	sentence_34701
+34701_26	npadvmod	34701_28
+34701_26	has_surface_form	passenger
+34701_28	is_in_sentence	sentence_34701
+34701_28	amod	34701_29
+34701_28	has_surface_form	carrying
+34701_27	is_in_sentence	sentence_34701
+34701_27	punct	34701_28
+34701_27	has_surface_form	-
+34701_30	is_in_sentence	sentence_34701
+34701_30	punct	34701_4
+34701_30	has_surface_form	.
+34701_31	is_in_sentence	sentence_34701
+34701_31	dep	34701_31
+34701_31	has_surface_form	
+London Steam Carriage	surface_form	London Steam Carriage
+London Steam Carriage	invented-by	Richard Trevithick
+Richard Trevithick	surface_form	Richard Trevithick

@@ -1,0 +1,67 @@
+8831_0	is_in_sentence	sentence_8831
+8831_0	det	8831_1
+8831_0	has_surface_form	The
+8831_0	part_of_entity	The Unfish
+8831_1	is_in_sentence	sentence_8831
+8831_1	nsubj	8831_8
+8831_1	has_surface_form	Unfish
+8831_1	part_of_entity	The Unfish
+8831_8	is_in_sentence	sentence_8831
+8831_8	ROOT	8831_8
+8831_8	has_surface_form	is
+8831_2	is_in_sentence	sentence_8831
+8831_2	punct	8831_3
+8831_2	has_surface_form	(
+8831_3	is_in_sentence	sentence_8831
+8831_3	appos	8831_1
+8831_3	has_surface_form	German
+8831_4	is_in_sentence	sentence_8831
+8831_4	punct	8831_3
+8831_4	has_surface_form	:
+8831_5	is_in_sentence	sentence_8831
+8831_5	compound	8831_6
+8831_5	has_surface_form	Der
+8831_6	is_in_sentence	sentence_8831
+8831_6	appos	8831_1
+8831_6	has_surface_form	Unfisch
+8831_7	is_in_sentence	sentence_8831
+8831_7	punct	8831_1
+8831_7	has_surface_form	)
+8831_9	is_in_sentence	sentence_8831
+8831_9	det	8831_13
+8831_9	has_surface_form	a
+8831_13	is_in_sentence	sentence_8831
+8831_13	attr	8831_8
+8831_13	has_surface_form	film
+8831_10	is_in_sentence	sentence_8831
+8831_10	nummod	8831_13
+8831_10	has_surface_form	1997
+8831_11	is_in_sentence	sentence_8831
+8831_11	amod	8831_13
+8831_11	has_surface_form	Austrian
+8831_12	is_in_sentence	sentence_8831
+8831_12	compound	8831_13
+8831_12	has_surface_form	comedy
+8831_14	is_in_sentence	sentence_8831
+8831_14	acl	8831_13
+8831_14	has_surface_form	directed
+8831_15	is_in_sentence	sentence_8831
+8831_15	agent	8831_14
+8831_15	has_surface_form	by
+8831_16	is_in_sentence	sentence_8831
+8831_16	compound	8831_17
+8831_16	has_surface_form	Robert
+8831_16	part_of_entity	Robert Dornhelm
+8831_17	is_in_sentence	sentence_8831
+8831_17	pobj	8831_15
+8831_17	has_surface_form	Dornhelm
+8831_17	part_of_entity	Robert Dornhelm
+8831_18	is_in_sentence	sentence_8831
+8831_18	punct	8831_8
+8831_18	has_surface_form	.
+8831_19	is_in_sentence	sentence_8831
+8831_19	dep	8831_8
+8831_19	has_surface_form	
+The Unfish	surface_form	The Unfish
+The Unfish	movie-has-director	Robert Dornhelm
+Robert Dornhelm	surface_form	Robert Dornhelm

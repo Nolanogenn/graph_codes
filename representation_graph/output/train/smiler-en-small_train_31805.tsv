@@ -1,0 +1,72 @@
+31804_0	is_in_sentence	sentence_31804
+31804_0	compound	31804_2
+31804_0	has_surface_form	Gladesmore
+31804_0	part_of_entity	Gladesmore Community School
+31804_2	is_in_sentence	sentence_31804
+31804_2	nsubj	31804_3
+31804_2	has_surface_form	School
+31804_2	part_of_entity	Gladesmore Community School
+31804_1	is_in_sentence	sentence_31804
+31804_1	compound	31804_2
+31804_1	has_surface_form	Community
+31804_1	part_of_entity	Gladesmore Community School
+31804_3	is_in_sentence	sentence_31804
+31804_3	ROOT	31804_3
+31804_3	has_surface_form	is
+31804_4	is_in_sentence	sentence_31804
+31804_4	det	31804_11
+31804_4	has_surface_form	a
+31804_11	is_in_sentence	sentence_31804
+31804_11	attr	31804_3
+31804_11	has_surface_form	school
+31804_5	is_in_sentence	sentence_31804
+31804_5	amod	31804_7
+31804_5	has_surface_form	mixed
+31804_7	is_in_sentence	sentence_31804
+31804_7	nmod	31804_11
+31804_7	has_surface_form	gender
+31804_6	is_in_sentence	sentence_31804
+31804_6	punct	31804_7
+31804_6	has_surface_form	-
+31804_8	is_in_sentence	sentence_31804
+31804_8	punct	31804_7
+31804_8	has_surface_form	,
+31804_9	is_in_sentence	sentence_31804
+31804_9	amod	31804_11
+31804_9	has_surface_form	comprehensive
+31804_10	is_in_sentence	sentence_31804
+31804_10	amod	31804_11
+31804_10	has_surface_form	secondary
+31804_12	is_in_sentence	sentence_31804
+31804_12	punct	31804_11
+31804_12	has_surface_form	(
+31804_13	is_in_sentence	sentence_31804
+31804_13	appos	31804_11
+31804_13	has_surface_form	ages
+31804_14	is_in_sentence	sentence_31804
+31804_14	nummod	31804_13
+31804_14	has_surface_form	11–16
+31804_15	is_in_sentence	sentence_31804
+31804_15	punct	31804_13
+31804_15	has_surface_form	)
+31804_16	is_in_sentence	sentence_31804
+31804_16	prep	31804_13
+31804_16	has_surface_form	in
+31804_17	is_in_sentence	sentence_31804
+31804_17	pobj	31804_16
+31804_17	is_entity	Tottenham
+Tottenham	surface_form	Tottenham
+31804_18	is_in_sentence	sentence_31804
+31804_18	punct	31804_17
+31804_18	has_surface_form	,
+31804_19	is_in_sentence	sentence_31804
+31804_19	npadvmod	31804_17
+31804_19	has_surface_form	London
+31804_20	is_in_sentence	sentence_31804
+31804_20	punct	31804_3
+31804_20	has_surface_form	.
+31804_21	is_in_sentence	sentence_31804
+31804_21	dep	31804_3
+31804_21	has_surface_form	
+Gladesmore Community School	surface_form	Gladesmore Community School
+Gladesmore Community School	is-where	Tottenham

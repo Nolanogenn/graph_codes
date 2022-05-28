@@ -1,0 +1,45 @@
+10241_0	is_in_sentence	sentence_10241
+10241_0	compound	10241_1
+10241_0	has_surface_form	Johnson
+10241_0	part_of_entity	Johnson University Florida
+10241_1	is_in_sentence	sentence_10241
+10241_1	compound	10241_2
+10241_1	has_surface_form	University
+10241_1	part_of_entity	Johnson University Florida
+10241_2	is_in_sentence	sentence_10241
+10241_2	nsubj	10241_3
+10241_2	has_surface_form	Florida
+10241_2	part_of_entity	Johnson University Florida
+10241_3	is_in_sentence	sentence_10241
+10241_3	ROOT	10241_3
+10241_3	has_surface_form	is
+10241_4	is_in_sentence	sentence_10241
+10241_4	det	10241_6
+10241_4	has_surface_form	a
+10241_6	is_in_sentence	sentence_10241
+10241_6	attr	10241_3
+10241_6	has_surface_form	university
+10241_5	is_in_sentence	sentence_10241
+10241_5	amod	10241_6
+10241_5	has_surface_form	private
+10241_7	is_in_sentence	sentence_10241
+10241_7	prep	10241_6
+10241_7	has_surface_form	in
+10241_8	is_in_sentence	sentence_10241
+10241_8	pobj	10241_7
+10241_8	has_surface_form	Kissimmee
+10241_9	is_in_sentence	sentence_10241
+10241_9	punct	10241_8
+10241_9	has_surface_form	,
+10241_10	is_in_sentence	sentence_10241
+10241_10	appos	10241_8
+10241_10	has_surface_form	Florida
+10241_11	is_in_sentence	sentence_10241
+10241_11	punct	10241_3
+10241_11	has_surface_form	.
+10241_12	is_in_sentence	sentence_10241
+10241_12	dep	10241_12
+10241_12	has_surface_form	
+Johnson University Florida	surface_form	Johnson University Florida
+Johnson University Florida	is-where	Kissimmee, Florida
+Kissimmee, Florida	surface_form	Kissimmee, Florida

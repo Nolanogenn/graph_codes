@@ -1,0 +1,103 @@
+1828_0	is_in_sentence	sentence_1828
+1828_0	det	1828_2
+1828_0	has_surface_form	A
+1828_0	part_of_entity	A Fantastic Fear of Everything
+1828_2	is_in_sentence	sentence_1828
+1828_2	nsubj	1828_5
+1828_2	has_surface_form	Fear
+1828_2	part_of_entity	A Fantastic Fear of Everything
+1828_1	is_in_sentence	sentence_1828
+1828_1	compound	1828_2
+1828_1	has_surface_form	Fantastic
+1828_1	part_of_entity	A Fantastic Fear of Everything
+1828_5	is_in_sentence	sentence_1828
+1828_5	ROOT	1828_5
+1828_5	has_surface_form	is
+1828_3	is_in_sentence	sentence_1828
+1828_3	prep	1828_2
+1828_3	has_surface_form	of
+1828_3	part_of_entity	A Fantastic Fear of Everything
+1828_4	is_in_sentence	sentence_1828
+1828_4	pobj	1828_3
+1828_4	has_surface_form	Everything
+1828_4	part_of_entity	A Fantastic Fear of Everything
+1828_6	is_in_sentence	sentence_1828
+1828_6	det	1828_11
+1828_6	has_surface_form	a
+1828_11	is_in_sentence	sentence_1828
+1828_11	attr	1828_5
+1828_11	has_surface_form	film
+1828_7	is_in_sentence	sentence_1828
+1828_7	nummod	1828_11
+1828_7	has_surface_form	2012
+1828_8	is_in_sentence	sentence_1828
+1828_8	amod	1828_11
+1828_8	has_surface_form	British
+1828_9	is_in_sentence	sentence_1828
+1828_9	compound	1828_10
+1828_9	has_surface_form	horror
+1828_10	is_in_sentence	sentence_1828
+1828_10	compound	1828_11
+1828_10	has_surface_form	comedy
+1828_12	is_in_sentence	sentence_1828
+1828_12	acl	1828_11
+1828_12	has_surface_form	starring
+1828_13	is_in_sentence	sentence_1828
+1828_13	compound	1828_14
+1828_13	has_surface_form	Simon
+1828_14	is_in_sentence	sentence_1828
+1828_14	dobj	1828_12
+1828_14	has_surface_form	Pegg
+1828_15	is_in_sentence	sentence_1828
+1828_15	punct	1828_11
+1828_15	has_surface_form	,
+1828_16	is_in_sentence	sentence_1828
+1828_16	acl	1828_11
+1828_16	has_surface_form	written
+1828_17	is_in_sentence	sentence_1828
+1828_17	cc	1828_16
+1828_17	has_surface_form	and
+1828_18	is_in_sentence	sentence_1828
+1828_18	conj	1828_16
+1828_18	has_surface_form	directed
+1828_19	is_in_sentence	sentence_1828
+1828_19	agent	1828_18
+1828_19	has_surface_form	by
+1828_20	is_in_sentence	sentence_1828
+1828_20	compound	1828_21
+1828_20	has_surface_form	Crispian
+1828_20	part_of_entity	Crispian Mills
+1828_21	is_in_sentence	sentence_1828
+1828_21	pobj	1828_19
+1828_21	has_surface_form	Mills
+1828_21	part_of_entity	Crispian Mills
+1828_22	is_in_sentence	sentence_1828
+1828_22	prep	1828_18
+1828_22	has_surface_form	with
+1828_23	is_in_sentence	sentence_1828
+1828_23	compound	1828_24
+1828_23	has_surface_form	Chris
+1828_24	is_in_sentence	sentence_1828
+1828_24	pobj	1828_22
+1828_24	has_surface_form	Hopewell
+1828_25	is_in_sentence	sentence_1828
+1828_25	prep	1828_18
+1828_25	has_surface_form	as
+1828_26	is_in_sentence	sentence_1828
+1828_26	pobj	1828_25
+1828_26	has_surface_form	co
+1828_27	is_in_sentence	sentence_1828
+1828_27	pobj	1828_25
+1828_27	has_surface_form	-
+1828_28	is_in_sentence	sentence_1828
+1828_28	pobj	1828_25
+1828_28	has_surface_form	director
+1828_29	is_in_sentence	sentence_1828
+1828_29	punct	1828_5
+1828_29	has_surface_form	.
+1828_30	is_in_sentence	sentence_1828
+1828_30	dep	1828_30
+1828_30	has_surface_form	
+A Fantastic Fear of Everything	surface_form	A Fantastic Fear of Everything
+A Fantastic Fear of Everything	movie-has-director	Crispian Mills
+Crispian Mills	surface_form	Crispian Mills

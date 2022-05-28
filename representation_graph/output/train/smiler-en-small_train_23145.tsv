@@ -1,0 +1,53 @@
+23144_0	is_in_sentence	sentence_23144
+23144_0	compound	23144_1
+23144_0	has_surface_form	János
+23144_0	part_of_entity	János Göröcs
+23144_1	is_in_sentence	sentence_23144
+23144_1	nsubj	23144_10
+23144_1	has_surface_form	Göröcs
+23144_1	part_of_entity	János Göröcs
+23144_10	is_in_sentence	sentence_23144
+23144_10	ROOT	23144_10
+23144_10	has_surface_form	was
+23144_2	is_in_sentence	sentence_23144
+23144_2	punct	23144_1
+23144_2	has_surface_form	(
+23144_3	is_in_sentence	sentence_23144
+23144_3	acl	23144_1
+23144_3	has_surface_form	born
+23144_4	is_in_sentence	sentence_23144
+23144_4	nummod	23144_5
+23144_4	has_surface_form	8
+23144_5	is_in_sentence	sentence_23144
+23144_5	npadvmod	23144_3
+23144_5	has_surface_form	May
+23144_6	is_in_sentence	sentence_23144
+23144_6	nummod	23144_5
+23144_6	has_surface_form	1939
+23144_7	is_in_sentence	sentence_23144
+23144_7	punct	23144_10
+23144_7	has_surface_form	,
+23144_8	is_in_sentence	sentence_23144
+23144_8	nsubj	23144_10
+23144_8	is_entity	Gánt
+Gánt	surface_form	Gánt
+23144_9	is_in_sentence	sentence_23144
+23144_9	punct	23144_8
+23144_9	has_surface_form	)
+23144_11	is_in_sentence	sentence_23144
+23144_11	det	23144_13
+23144_11	has_surface_form	a
+23144_13	is_in_sentence	sentence_23144
+23144_13	attr	23144_10
+23144_13	has_surface_form	footballer
+23144_12	is_in_sentence	sentence_23144
+23144_12	amod	23144_13
+23144_12	has_surface_form	Hungarian
+23144_14	is_in_sentence	sentence_23144
+23144_14	punct	23144_10
+23144_14	has_surface_form	.
+23144_15	is_in_sentence	sentence_23144
+23144_15	dep	23144_15
+23144_15	has_surface_form	
+János Göröcs	surface_form	János Göröcs
+János Göröcs	birth-place	Gánt

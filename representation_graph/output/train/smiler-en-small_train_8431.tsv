@@ -1,0 +1,65 @@
+8430_0	is_in_sentence	sentence_8430
+8430_0	compound	8430_1
+8430_0	has_surface_form	Austin
+8430_0	part_of_entity	Austin Webb
+8430_1	is_in_sentence	sentence_8430
+8430_1	nsubj	8430_10
+8430_1	has_surface_form	Webb
+8430_1	part_of_entity	Austin Webb
+8430_10	is_in_sentence	sentence_8430
+8430_10	ROOT	8430_10
+8430_10	has_surface_form	is
+8430_2	is_in_sentence	sentence_8430
+8430_2	punct	8430_1
+8430_2	has_surface_form	(
+8430_3	is_in_sentence	sentence_8430
+8430_3	acl	8430_1
+8430_3	has_surface_form	born
+8430_4	is_in_sentence	sentence_8430
+8430_4	prep	8430_3
+8430_4	has_surface_form	in
+8430_5	is_in_sentence	sentence_8430
+8430_5	pobj	8430_4
+8430_5	has_surface_form	Williamston
+8430_6	is_in_sentence	sentence_8430
+8430_6	punct	8430_5
+8430_6	has_surface_form	,
+8430_7	is_in_sentence	sentence_8430
+8430_7	compound	8430_8
+8430_7	has_surface_form	South
+8430_8	is_in_sentence	sentence_8430
+8430_8	appos	8430_5
+8430_8	has_surface_form	Carolina
+8430_9	is_in_sentence	sentence_8430
+8430_9	punct	8430_5
+8430_9	has_surface_form	)
+8430_11	is_in_sentence	sentence_8430
+8430_11	det	8430_17
+8430_11	has_surface_form	an
+8430_17	is_in_sentence	sentence_8430
+8430_17	attr	8430_10
+8430_17	has_surface_form	songwriter
+8430_12	is_in_sentence	sentence_8430
+8430_12	amod	8430_17
+8430_12	has_surface_form	American
+8430_13	is_in_sentence	sentence_8430
+8430_13	compound	8430_14
+8430_13	has_surface_form	country
+8430_14	is_in_sentence	sentence_8430
+8430_14	compound	8430_17
+8430_14	has_surface_form	music
+8430_15	is_in_sentence	sentence_8430
+8430_15	compound	8430_17
+8430_15	has_surface_form	singer
+8430_16	is_in_sentence	sentence_8430
+8430_16	punct	8430_17
+8430_16	has_surface_form	-
+8430_18	is_in_sentence	sentence_8430
+8430_18	punct	8430_10
+8430_18	has_surface_form	.
+8430_19	is_in_sentence	sentence_8430
+8430_19	dep	8430_19
+8430_19	has_surface_form	
+Austin Webb	surface_form	Austin Webb
+Austin Webb	has-occupation	singer-songwriter
+singer-songwriter	surface_form	singer-songwriter

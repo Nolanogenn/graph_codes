@@ -1,0 +1,91 @@
+21404_0	is_in_sentence	sentence_21404
+21404_0	compound	21404_1
+21404_0	has_surface_form	Alle
+21404_0	part_of_entity	Alle tijd
+21404_1	is_in_sentence	sentence_21404
+21404_1	dep	21404_10
+21404_1	has_surface_form	tijd
+21404_1	part_of_entity	Alle tijd
+21404_10	is_in_sentence	sentence_21404
+21404_10	ROOT	21404_10
+21404_10	has_surface_form	is
+21404_2	is_in_sentence	sentence_21404
+21404_2	punct	21404_4
+21404_2	has_surface_form	(
+21404_4	is_in_sentence	sentence_21404
+21404_4	appos	21404_1
+21404_4	has_surface_form	Title
+21404_3	is_in_sentence	sentence_21404
+21404_3	compound	21404_4
+21404_3	has_surface_form	US
+21404_5	is_in_sentence	sentence_21404
+21404_5	punct	21404_4
+21404_5	has_surface_form	:
+21404_6	is_in_sentence	sentence_21404
+21404_6	appos	21404_4
+21404_6	has_surface_form	Time
+21404_7	is_in_sentence	sentence_21404
+21404_7	prep	21404_6
+21404_7	has_surface_form	to
+21404_8	is_in_sentence	sentence_21404
+21404_8	pobj	21404_7
+21404_8	has_surface_form	Spare
+21404_9	is_in_sentence	sentence_21404
+21404_9	punct	21404_4
+21404_9	has_surface_form	)
+21404_11	is_in_sentence	sentence_21404
+21404_11	det	21404_13
+21404_11	has_surface_form	a
+21404_13	is_in_sentence	sentence_21404
+21404_13	attr	21404_10
+21404_13	has_surface_form	film
+21404_12	is_in_sentence	sentence_21404
+21404_12	amod	21404_13
+21404_12	has_surface_form	Dutch
+21404_14	is_in_sentence	sentence_21404
+21404_14	acl	21404_13
+21404_14	has_surface_form	directed
+21404_15	is_in_sentence	sentence_21404
+21404_15	agent	21404_14
+21404_15	has_surface_form	by
+21404_16	is_in_sentence	sentence_21404
+21404_16	compound	21404_17
+21404_16	has_surface_form	Job
+21404_16	part_of_entity	Job Gosschalk
+21404_17	is_in_sentence	sentence_21404
+21404_17	pobj	21404_15
+21404_17	has_surface_form	Gosschalk
+21404_17	part_of_entity	Job Gosschalk
+21404_18	is_in_sentence	sentence_21404
+21404_18	cc	21404_14
+21404_18	has_surface_form	and
+21404_19	is_in_sentence	sentence_21404
+21404_19	conj	21404_14
+21404_19	has_surface_form	starring
+21404_20	is_in_sentence	sentence_21404
+21404_20	nmod	21404_22
+21404_20	has_surface_form	Paul
+21404_22	is_in_sentence	sentence_21404
+21404_22	nmod	21404_25
+21404_22	has_surface_form	Leeuw
+21404_21	is_in_sentence	sentence_21404
+21404_21	nmod	21404_22
+21404_21	has_surface_form	de
+21404_25	is_in_sentence	sentence_21404
+21404_25	dobj	21404_19
+21404_25	has_surface_form	Smulders
+21404_23	is_in_sentence	sentence_21404
+21404_23	cc	21404_22
+21404_23	has_surface_form	and
+21404_24	is_in_sentence	sentence_21404
+21404_24	compound	21404_25
+21404_24	has_surface_form	Karina
+21404_26	is_in_sentence	sentence_21404
+21404_26	punct	21404_10
+21404_26	has_surface_form	.
+21404_27	is_in_sentence	sentence_21404
+21404_27	dep	21404_10
+21404_27	has_surface_form	
+Alle tijd	surface_form	Alle tijd
+Alle tijd	movie-has-director	Job Gosschalk
+Job Gosschalk	surface_form	Job Gosschalk

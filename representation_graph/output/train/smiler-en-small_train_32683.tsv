@@ -1,0 +1,61 @@
+32682_0	is_in_sentence	sentence_32682
+32682_0	compound	32682_1
+32682_0	has_surface_form	Brambletye
+32682_0	part_of_entity	Brambletye School
+32682_1	is_in_sentence	sentence_32682
+32682_1	nsubj	32682_2
+32682_1	has_surface_form	School
+32682_1	part_of_entity	Brambletye School
+32682_2	is_in_sentence	sentence_32682
+32682_2	ROOT	32682_2
+32682_2	has_surface_form	is
+32682_3	is_in_sentence	sentence_32682
+32682_3	det	32682_5
+32682_3	has_surface_form	a
+32682_5	is_in_sentence	sentence_32682
+32682_5	attr	32682_2
+32682_5	has_surface_form	day
+32682_4	is_in_sentence	sentence_32682
+32682_4	amod	32682_5
+32682_4	has_surface_form	coeducational
+32682_6	is_in_sentence	sentence_32682
+32682_6	cc	32682_5
+32682_6	has_surface_form	and
+32682_7	is_in_sentence	sentence_32682
+32682_7	amod	32682_9
+32682_7	has_surface_form	boarding
+32682_9	is_in_sentence	sentence_32682
+32682_9	conj	32682_5
+32682_9	has_surface_form	school
+32682_8	is_in_sentence	sentence_32682
+32682_8	amod	32682_9
+32682_8	has_surface_form	preparatory
+32682_10	is_in_sentence	sentence_32682
+32682_10	prep	32682_9
+32682_10	has_surface_form	in
+32682_11	is_in_sentence	sentence_32682
+32682_11	compound	32682_12
+32682_11	has_surface_form	East
+32682_11	part_of_entity	East Grinstead
+32682_12	is_in_sentence	sentence_32682
+32682_12	pobj	32682_10
+32682_12	has_surface_form	Grinstead
+32682_12	part_of_entity	East Grinstead
+32682_13	is_in_sentence	sentence_32682
+32682_13	punct	32682_12
+32682_13	has_surface_form	,
+32682_14	is_in_sentence	sentence_32682
+32682_14	compound	32682_15
+32682_14	has_surface_form	West
+32682_15	is_in_sentence	sentence_32682
+32682_15	appos	32682_12
+32682_15	has_surface_form	Sussex
+32682_16	is_in_sentence	sentence_32682
+32682_16	punct	32682_2
+32682_16	has_surface_form	.
+32682_17	is_in_sentence	sentence_32682
+32682_17	dep	32682_2
+32682_17	has_surface_form	
+Brambletye School	surface_form	Brambletye School
+Brambletye School	is-where	East Grinstead
+East Grinstead	surface_form	East Grinstead

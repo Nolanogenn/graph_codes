@@ -1,0 +1,79 @@
+33638_0	is_in_sentence	sentence_33638
+33638_0	compound	33638_1
+33638_0	has_surface_form	Joi
+33638_0	part_of_entity	Joi Williams
+33638_1	is_in_sentence	sentence_33638
+33638_1	nsubj	33638_9
+33638_1	has_surface_form	Williams
+33638_1	part_of_entity	Joi Williams
+33638_9	is_in_sentence	sentence_33638
+33638_9	ROOT	33638_9
+33638_9	has_surface_form	is
+33638_2	is_in_sentence	sentence_33638
+33638_2	punct	33638_1
+33638_2	has_surface_form	(
+33638_3	is_in_sentence	sentence_33638
+33638_3	acl	33638_1
+33638_3	has_surface_form	born
+33638_4	is_in_sentence	sentence_33638
+33638_4	npadvmod	33638_3
+33638_4	has_surface_form	November
+33638_5	is_in_sentence	sentence_33638
+33638_5	nummod	33638_4
+33638_5	has_surface_form	5
+33638_6	is_in_sentence	sentence_33638
+33638_6	punct	33638_4
+33638_6	has_surface_form	,
+33638_7	is_in_sentence	sentence_33638
+33638_7	nummod	33638_4
+33638_7	has_surface_form	1966
+33638_8	is_in_sentence	sentence_33638
+33638_8	punct	33638_1
+33638_8	has_surface_form	)
+33638_10	is_in_sentence	sentence_33638
+33638_10	det	33638_13
+33638_10	has_surface_form	the
+33638_13	is_in_sentence	sentence_33638
+33638_13	attr	33638_9
+33638_13	has_surface_form	coach
+33638_13	part_of_entity	head coach
+33638_11	is_in_sentence	sentence_33638
+33638_11	amod	33638_13
+33638_11	has_surface_form	former
+33638_12	is_in_sentence	sentence_33638
+33638_12	compound	33638_13
+33638_12	has_surface_form	head
+33638_12	part_of_entity	head coach
+33638_14	is_in_sentence	sentence_33638
+33638_14	prep	33638_13
+33638_14	has_surface_form	of
+33638_15	is_in_sentence	sentence_33638
+33638_15	det	33638_18
+33638_15	has_surface_form	the
+33638_18	is_in_sentence	sentence_33638
+33638_18	poss	33638_21
+33638_18	has_surface_form	women
+33638_16	is_in_sentence	sentence_33638
+33638_16	compound	33638_17
+33638_16	has_surface_form	UCF
+33638_17	is_in_sentence	sentence_33638
+33638_17	compound	33638_18
+33638_17	has_surface_form	Knights
+33638_21	is_in_sentence	sentence_33638
+33638_21	pobj	33638_14
+33638_21	has_surface_form	team
+33638_19	is_in_sentence	sentence_33638
+33638_19	case	33638_18
+33638_19	has_surface_form	's
+33638_20	is_in_sentence	sentence_33638
+33638_20	compound	33638_21
+33638_20	has_surface_form	basketball
+33638_22	is_in_sentence	sentence_33638
+33638_22	punct	33638_9
+33638_22	has_surface_form	.
+33638_23	is_in_sentence	sentence_33638
+33638_23	dep	33638_23
+33638_23	has_surface_form	
+Joi Williams	surface_form	Joi Williams
+Joi Williams	has-type	head coach
+head coach	surface_form	head coach

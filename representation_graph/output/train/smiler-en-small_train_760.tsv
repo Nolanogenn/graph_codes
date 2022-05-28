@@ -1,0 +1,103 @@
+759_0	is_in_sentence	sentence_759
+759_0	compound	759_1
+759_0	has_surface_form	New
+759_0	part_of_entity	New Mexico State Road 14
+759_1	is_in_sentence	sentence_759
+759_1	compound	759_3
+759_1	has_surface_form	Mexico
+759_1	part_of_entity	New Mexico State Road 14
+759_3	is_in_sentence	sentence_759
+759_3	nsubj	759_10
+759_3	has_surface_form	Road
+759_3	part_of_entity	New Mexico State Road 14
+759_2	is_in_sentence	sentence_759
+759_2	compound	759_3
+759_2	has_surface_form	State
+759_2	part_of_entity	New Mexico State Road 14
+759_10	is_in_sentence	sentence_759
+759_10	ROOT	759_10
+759_10	has_surface_form	is
+759_4	is_in_sentence	sentence_759
+759_4	nummod	759_3
+759_4	has_surface_form	14
+759_4	part_of_entity	New Mexico State Road 14
+759_5	is_in_sentence	sentence_759
+759_5	punct	759_3
+759_5	has_surface_form	(
+759_6	is_in_sentence	sentence_759
+759_6	nsubj	759_10
+759_6	has_surface_form	NM
+759_7	is_in_sentence	sentence_759
+759_7	dep	759_6
+759_7	has_surface_form	 
+759_8	is_in_sentence	sentence_759
+759_8	nummod	759_7
+759_8	has_surface_form	14
+759_9	is_in_sentence	sentence_759
+759_9	punct	759_7
+759_9	has_surface_form	)
+759_11	is_in_sentence	sentence_759
+759_11	det	759_23
+759_11	has_surface_form	a
+759_23	is_in_sentence	sentence_759
+759_23	attr	759_10
+759_23	has_surface_form	road
+759_23	part_of_entity	state road
+759_12	is_in_sentence	sentence_759
+759_12	nummod	759_14
+759_12	has_surface_form	54
+759_14	is_in_sentence	sentence_759
+759_14	npadvmod	759_16
+759_14	has_surface_form	mile
+759_13	is_in_sentence	sentence_759
+759_13	punct	759_14
+759_13	has_surface_form	-
+759_16	is_in_sentence	sentence_759
+759_16	amod	759_23
+759_16	has_surface_form	long
+759_15	is_in_sentence	sentence_759
+759_15	punct	759_16
+759_15	has_surface_form	-
+759_17	is_in_sentence	sentence_759
+759_17	punct	759_23
+759_17	has_surface_form	(
+759_18	is_in_sentence	sentence_759
+759_18	nummod	759_23
+759_18	has_surface_form	87
+759_19	is_in_sentence	sentence_759
+759_19	dep	759_23
+759_19	has_surface_form	 
+759_20	is_in_sentence	sentence_759
+759_20	nmod	759_23
+759_20	has_surface_form	km
+759_21	is_in_sentence	sentence_759
+759_21	punct	759_23
+759_21	has_surface_form	)
+759_22	is_in_sentence	sentence_759
+759_22	compound	759_23
+759_22	has_surface_form	state
+759_22	part_of_entity	state road
+759_24	is_in_sentence	sentence_759
+759_24	acl	759_23
+759_24	has_surface_form	located
+759_25	is_in_sentence	sentence_759
+759_25	prep	759_24
+759_25	has_surface_form	in
+759_26	is_in_sentence	sentence_759
+759_26	amod	759_28
+759_26	has_surface_form	northern
+759_28	is_in_sentence	sentence_759
+759_28	pobj	759_25
+759_28	has_surface_form	Mexico
+759_27	is_in_sentence	sentence_759
+759_27	compound	759_28
+759_27	has_surface_form	New
+759_29	is_in_sentence	sentence_759
+759_29	punct	759_10
+759_29	has_surface_form	.
+759_30	is_in_sentence	sentence_759
+759_30	dep	759_30
+759_30	has_surface_form	
+New Mexico State Road 14	surface_form	New Mexico State Road 14
+New Mexico State Road 14	has-type	state road
+state road	surface_form	state road

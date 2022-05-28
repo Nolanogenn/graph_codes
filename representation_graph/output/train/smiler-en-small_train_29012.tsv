@@ -1,0 +1,44 @@
+29011_0	is_in_sentence	sentence_29011
+29011_0	compound	29011_1
+29011_0	has_surface_form	Chris
+29011_0	part_of_entity	Chris Trout
+29011_1	is_in_sentence	sentence_29011
+29011_1	nsubj	29011_2
+29011_1	has_surface_form	Trout
+29011_1	part_of_entity	Chris Trout
+29011_2	is_in_sentence	sentence_29011
+29011_2	ROOT	29011_2
+29011_2	has_surface_form	is
+29011_3	is_in_sentence	sentence_29011
+29011_3	det	29011_5
+29011_3	has_surface_form	a
+29011_5	is_in_sentence	sentence_29011
+29011_5	attr	29011_2
+29011_5	has_surface_form	songwriter
+29011_4	is_in_sentence	sentence_29011
+29011_4	amod	29011_5
+29011_4	is_entity	British
+British	surface_form	British
+29011_6	is_in_sentence	sentence_29011
+29011_6	punct	29011_5
+29011_6	has_surface_form	,
+29011_7	is_in_sentence	sentence_29011
+29011_7	conj	29011_5
+29011_7	has_surface_form	musician
+29011_8	is_in_sentence	sentence_29011
+29011_8	cc	29011_7
+29011_8	has_surface_form	and
+29011_9	is_in_sentence	sentence_29011
+29011_9	compound	29011_10
+29011_9	has_surface_form	music
+29011_10	is_in_sentence	sentence_29011
+29011_10	conj	29011_7
+29011_10	has_surface_form	writer
+29011_11	is_in_sentence	sentence_29011
+29011_11	punct	29011_2
+29011_11	has_surface_form	.
+29011_12	is_in_sentence	sentence_29011
+29011_12	dep	29011_2
+29011_12	has_surface_form	
+Chris Trout	surface_form	Chris Trout
+Chris Trout	has-nationality	British

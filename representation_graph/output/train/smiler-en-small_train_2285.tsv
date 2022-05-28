@@ -1,0 +1,62 @@
+2284_0	is_in_sentence	sentence_2284
+2284_0	compound	2284_1
+2284_0	has_surface_form	Gary
+2284_0	part_of_entity	Gary Nord
+2284_1	is_in_sentence	sentence_2284
+2284_1	nsubj	2284_9
+2284_1	has_surface_form	Nord
+2284_1	part_of_entity	Gary Nord
+2284_9	is_in_sentence	sentence_2284
+2284_9	ROOT	2284_9
+2284_9	has_surface_form	is
+2284_2	is_in_sentence	sentence_2284
+2284_2	punct	2284_1
+2284_2	has_surface_form	(
+2284_3	is_in_sentence	sentence_2284
+2284_3	acl	2284_1
+2284_3	has_surface_form	born
+2284_4	is_in_sentence	sentence_2284
+2284_4	npadvmod	2284_3
+2284_4	has_surface_form	June
+2284_5	is_in_sentence	sentence_2284
+2284_5	nummod	2284_4
+2284_5	has_surface_form	12
+2284_6	is_in_sentence	sentence_2284
+2284_6	punct	2284_4
+2284_6	has_surface_form	,
+2284_7	is_in_sentence	sentence_2284
+2284_7	nummod	2284_4
+2284_7	has_surface_form	1957
+2284_8	is_in_sentence	sentence_2284
+2284_8	punct	2284_1
+2284_8	has_surface_form	)
+2284_10	is_in_sentence	sentence_2284
+2284_10	det	2284_14
+2284_10	has_surface_form	a
+2284_14	is_in_sentence	sentence_2284
+2284_14	attr	2284_9
+2284_14	has_surface_form	player
+2284_11	is_in_sentence	sentence_2284
+2284_11	amod	2284_14
+2284_11	has_surface_form	former
+2284_12	is_in_sentence	sentence_2284
+2284_12	amod	2284_14
+2284_12	has_surface_form	American
+2284_13	is_in_sentence	sentence_2284
+2284_13	compound	2284_14
+2284_13	has_surface_form	football
+2284_15	is_in_sentence	sentence_2284
+2284_15	cc	2284_14
+2284_15	has_surface_form	and
+2284_16	is_in_sentence	sentence_2284
+2284_16	conj	2284_14
+2284_16	is_entity	coach
+coach	surface_form	coach
+2284_17	is_in_sentence	sentence_2284
+2284_17	punct	2284_9
+2284_17	has_surface_form	.
+2284_18	is_in_sentence	sentence_2284
+2284_18	dep	2284_18
+2284_18	has_surface_form	
+Gary Nord	surface_form	Gary Nord
+Gary Nord	has-type	coach

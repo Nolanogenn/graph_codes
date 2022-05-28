@@ -1,0 +1,82 @@
+19700_0	is_in_sentence	sentence_19700
+19700_0	compound	19700_1
+19700_0	has_surface_form	Celia
+19700_0	part_of_entity	Celia Jiminez
+19700_1	is_in_sentence	sentence_19700
+19700_1	nsubj	19700_2
+19700_1	has_surface_form	Jiminez
+19700_1	part_of_entity	Celia Jiminez
+19700_2	is_in_sentence	sentence_19700
+19700_2	ccomp	19700_15
+19700_2	has_surface_form	was
+19700_15	is_in_sentence	sentence_19700
+19700_15	ccomp	19700_19
+19700_15	has_surface_form	named
+19700_3	is_in_sentence	sentence_19700
+19700_3	advmod	19700_2
+19700_3	has_surface_form	also
+19700_4	is_in_sentence	sentence_19700
+19700_4	det	19700_9
+19700_4	has_surface_form	a
+19700_9	is_in_sentence	sentence_19700
+19700_9	attr	19700_2
+19700_9	has_surface_form	artist
+19700_5	is_in_sentence	sentence_19700
+19700_5	amod	19700_7
+19700_5	has_surface_form	Spanish
+19700_7	is_in_sentence	sentence_19700
+19700_7	compound	19700_9
+19700_7	has_surface_form	language
+19700_6	is_in_sentence	sentence_19700
+19700_6	punct	19700_7
+19700_6	has_surface_form	-
+19700_8	is_in_sentence	sentence_19700
+19700_8	compound	19700_9
+19700_8	has_surface_form	voice
+19700_10	is_in_sentence	sentence_19700
+19700_10	punct	19700_15
+19700_10	has_surface_form	;
+19700_11	is_in_sentence	sentence_19700
+19700_11	poss	19700_12
+19700_11	has_surface_form	her
+19700_12	is_in_sentence	sentence_19700
+19700_12	nsubj	19700_15
+19700_12	has_surface_form	daughter
+19700_13	is_in_sentence	sentence_19700
+19700_13	punct	19700_12
+19700_13	has_surface_form	,
+19700_14	is_in_sentence	sentence_19700
+19700_14	advmod	19700_15
+19700_14	has_surface_form	also
+19700_19	is_in_sentence	sentence_19700
+19700_19	ROOT	19700_19
+19700_19	has_surface_form	is
+19700_16	is_in_sentence	sentence_19700
+19700_16	compound	19700_17
+19700_16	has_surface_form	Celia
+19700_16	part_of_entity	Celia McCann
+19700_17	is_in_sentence	sentence_19700
+19700_17	oprd	19700_15
+19700_17	has_surface_form	McCann
+19700_17	part_of_entity	Celia McCann
+19700_18	is_in_sentence	sentence_19700
+19700_18	punct	19700_19
+19700_18	has_surface_form	,
+19700_20	is_in_sentence	sentence_19700
+19700_20	det	19700_21
+19700_20	has_surface_form	a
+19700_21	is_in_sentence	sentence_19700
+19700_21	attr	19700_19
+19700_21	has_surface_form	movie
+19700_22	is_in_sentence	sentence_19700
+19700_22	acomp	19700_19
+19700_22	has_surface_form	extra
+19700_23	is_in_sentence	sentence_19700
+19700_23	punct	19700_19
+19700_23	has_surface_form	.
+19700_24	is_in_sentence	sentence_19700
+19700_24	dep	19700_19
+19700_24	has_surface_form	
+Celia Jiminez	surface_form	Celia Jiminez
+Celia Jiminez	has-child	Celia McCann
+Celia McCann	surface_form	Celia McCann

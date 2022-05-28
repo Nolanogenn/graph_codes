@@ -1,0 +1,44 @@
+10023_0	is_in_sentence	sentence_10023
+10023_0	det	10023_2
+10023_0	has_surface_form	The
+10023_2	is_in_sentence	sentence_10023
+10023_2	nsubj	10023_3
+10023_2	has_surface_form	Association
+10023_2	part_of_entity	Soil Association
+10023_1	is_in_sentence	sentence_10023
+10023_1	compound	10023_2
+10023_1	has_surface_form	Soil
+10023_1	part_of_entity	Soil Association
+10023_3	is_in_sentence	sentence_10023
+10023_3	ROOT	10023_3
+10023_3	has_surface_form	is
+10023_4	is_in_sentence	sentence_10023
+10023_4	det	10023_5
+10023_4	has_surface_form	a
+10023_5	is_in_sentence	sentence_10023
+10023_5	attr	10023_3
+10023_5	is_entity	charity
+charity	surface_form	charity
+10023_6	is_in_sentence	sentence_10023
+10023_6	acl	10023_5
+10023_6	has_surface_form	based
+10023_7	is_in_sentence	sentence_10023
+10023_7	prep	10023_6
+10023_7	has_surface_form	in
+10023_8	is_in_sentence	sentence_10023
+10023_8	det	10023_10
+10023_8	has_surface_form	the
+10023_10	is_in_sentence	sentence_10023
+10023_10	pobj	10023_7
+10023_10	has_surface_form	Kingdom
+10023_9	is_in_sentence	sentence_10023
+10023_9	compound	10023_10
+10023_9	has_surface_form	United
+10023_11	is_in_sentence	sentence_10023
+10023_11	punct	10023_3
+10023_11	has_surface_form	.
+10023_12	is_in_sentence	sentence_10023
+10023_12	dep	10023_3
+10023_12	has_surface_form	
+Soil Association	surface_form	Soil Association
+Soil Association	has-type	charity

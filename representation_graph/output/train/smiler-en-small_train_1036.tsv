@@ -1,0 +1,61 @@
+1035_0	is_in_sentence	sentence_1035
+1035_0	compound	1035_1
+1035_0	has_surface_form	Mitrea
+1035_0	part_of_entity	Mitrea Cocor
+1035_1	is_in_sentence	sentence_1035
+1035_1	nsubj	1035_2
+1035_1	has_surface_form	Cocor
+1035_1	part_of_entity	Mitrea Cocor
+1035_2	is_in_sentence	sentence_1035
+1035_2	ROOT	1035_2
+1035_2	has_surface_form	is
+1035_3	is_in_sentence	sentence_1035
+1035_3	det	1035_8
+1035_3	has_surface_form	a
+1035_8	is_in_sentence	sentence_1035
+1035_8	attr	1035_2
+1035_8	has_surface_form	film
+1035_4	is_in_sentence	sentence_1035
+1035_4	nummod	1035_8
+1035_4	has_surface_form	1953
+1035_5	is_in_sentence	sentence_1035
+1035_5	amod	1035_6
+1035_5	has_surface_form	Romanian
+1035_6	is_in_sentence	sentence_1035
+1035_6	compound	1035_7
+1035_6	has_surface_form	war
+1035_7	is_in_sentence	sentence_1035
+1035_7	compound	1035_8
+1035_7	has_surface_form	drama
+1035_9	is_in_sentence	sentence_1035
+1035_9	acl	1035_8
+1035_9	has_surface_form	directed
+1035_10	is_in_sentence	sentence_1035
+1035_10	agent	1035_9
+1035_10	has_surface_form	by
+1035_11	is_in_sentence	sentence_1035
+1035_11	compound	1035_12
+1035_11	has_surface_form	Victor
+1035_11	part_of_entity	Victor Iliu
+1035_12	is_in_sentence	sentence_1035
+1035_12	pobj	1035_10
+1035_12	has_surface_form	Iliu
+1035_12	part_of_entity	Victor Iliu
+1035_13	is_in_sentence	sentence_1035
+1035_13	cc	1035_12
+1035_13	has_surface_form	and
+1035_14	is_in_sentence	sentence_1035
+1035_14	compound	1035_15
+1035_14	has_surface_form	Marieta
+1035_15	is_in_sentence	sentence_1035
+1035_15	conj	1035_12
+1035_15	has_surface_form	Sadova
+1035_16	is_in_sentence	sentence_1035
+1035_16	punct	1035_2
+1035_16	has_surface_form	.
+1035_17	is_in_sentence	sentence_1035
+1035_17	dep	1035_2
+1035_17	has_surface_form	
+Mitrea Cocor	surface_form	Mitrea Cocor
+Mitrea Cocor	movie-has-director	Victor Iliu
+Victor Iliu	surface_form	Victor Iliu

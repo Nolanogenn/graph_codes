@@ -1,0 +1,68 @@
+19073_0	is_in_sentence	sentence_19073
+19073_0	compound	19073_1
+19073_0	has_surface_form	John
+19073_0	part_of_entity	John Sinker
+19073_1	is_in_sentence	sentence_19073
+19073_1	nsubjpass	19073_3
+19073_1	has_surface_form	Sinker
+19073_1	part_of_entity	John Sinker
+19073_3	is_in_sentence	sentence_19073
+19073_3	ROOT	19073_3
+19073_3	has_surface_form	born
+19073_2	is_in_sentence	sentence_19073
+19073_2	auxpass	19073_3
+19073_2	has_surface_form	was
+19073_4	is_in_sentence	sentence_19073
+19073_4	prep	19073_3
+19073_4	has_surface_form	into
+19073_5	is_in_sentence	sentence_19073
+19073_5	det	19073_7
+19073_5	has_surface_form	an
+19073_7	is_in_sentence	sentence_19073
+19073_7	pobj	19073_4
+19073_7	has_surface_form	family
+19073_6	is_in_sentence	sentence_19073
+19073_6	amod	19073_7
+19073_6	has_surface_form	ecclesiastical
+19073_8	is_in_sentence	sentence_19073
+19073_8	punct	19073_7
+19073_8	has_surface_form	,
+19073_9	is_in_sentence	sentence_19073
+19073_9	det	19073_11
+19073_9	has_surface_form	the
+19073_11	is_in_sentence	sentence_19073
+19073_11	appos	19073_7
+19073_11	has_surface_form	son
+19073_10	is_in_sentence	sentence_19073
+19073_10	amod	19073_11
+19073_10	has_surface_form	fifth
+19073_12	is_in_sentence	sentence_19073
+19073_12	prep	19073_11
+19073_12	has_surface_form	of
+19073_13	is_in_sentence	sentence_19073
+19073_13	det	19073_16
+19073_13	has_surface_form	the
+19073_16	is_in_sentence	sentence_19073
+19073_16	pobj	19073_12
+19073_16	has_surface_form	Sinker
+19073_14	is_in_sentence	sentence_19073
+19073_14	compound	19073_16
+19073_14	has_surface_form	Reverend
+19073_15	is_in_sentence	sentence_19073
+19073_15	compound	19073_16
+19073_15	has_surface_form	Robert
+19073_17	is_in_sentence	sentence_19073
+19073_17	punct	19073_16
+19073_17	has_surface_form	,
+19073_18	is_in_sentence	sentence_19073
+19073_18	appos	19073_16
+19073_18	has_surface_form	DD
+19073_19	is_in_sentence	sentence_19073
+19073_19	punct	19073_3
+19073_19	has_surface_form	.
+19073_20	is_in_sentence	sentence_19073
+19073_20	dep	19073_3
+19073_20	has_surface_form	
+John Sinker	surface_form	John Sinker
+John Sinker	has-parent	Reverend Robert Sinker, DD
+Reverend Robert Sinker, DD	surface_form	Reverend Robert Sinker, DD

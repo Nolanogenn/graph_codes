@@ -1,0 +1,88 @@
+8802_0	is_in_sentence	sentence_8802
+8802_0	poss	8802_1
+8802_0	has_surface_form	His
+8802_1	is_in_sentence	sentence_8802
+8802_1	nsubj	8802_2
+8802_1	has_surface_form	sons
+8802_2	is_in_sentence	sentence_8802
+8802_2	ccomp	8802_8
+8802_2	has_surface_form	divided
+8802_8	is_in_sentence	sentence_8802
+8802_8	ROOT	8802_8
+8802_8	has_surface_form	started
+8802_3	is_in_sentence	sentence_8802
+8802_3	det	8802_4
+8802_3	has_surface_form	the
+8802_4	is_in_sentence	sentence_8802
+8802_4	dobj	8802_2
+8802_4	has_surface_form	county
+8802_5	is_in_sentence	sentence_8802
+8802_5	punct	8802_8
+8802_5	has_surface_form	:
+8802_6	is_in_sentence	sentence_8802
+8802_6	compound	8802_7
+8802_6	has_surface_form	Adolph
+8802_6	part_of_entity	Adolph III
+8802_7	is_in_sentence	sentence_8802
+8802_7	nsubj	8802_8
+8802_7	has_surface_form	III
+8802_7	part_of_entity	Adolph III
+8802_9	is_in_sentence	sentence_8802
+8802_9	det	8802_11
+8802_9	has_surface_form	the
+8802_11	is_in_sentence	sentence_8802
+8802_11	dobj	8802_8
+8802_11	has_surface_form	line
+8802_10	is_in_sentence	sentence_8802
+8802_10	amod	8802_11
+8802_10	has_surface_form	older
+8802_12	is_in_sentence	sentence_8802
+8802_12	prep	8802_11
+8802_12	has_surface_form	of
+8802_13	is_in_sentence	sentence_8802
+8802_13	compound	8802_15
+8802_13	has_surface_form	Waldeck
+8802_15	is_in_sentence	sentence_8802
+8802_15	pobj	8802_12
+8802_15	has_surface_form	Landau
+8802_14	is_in_sentence	sentence_8802
+8802_14	punct	8802_15
+8802_14	has_surface_form	-
+8802_16	is_in_sentence	sentence_8802
+8802_16	cc	8802_15
+8802_16	has_surface_form	and
+8802_17	is_in_sentence	sentence_8802
+8802_17	compound	8802_18
+8802_17	has_surface_form	Henry
+8802_17	part_of_entity	Henry VII
+8802_18	is_in_sentence	sentence_8802
+8802_18	conj	8802_15
+8802_18	has_surface_form	VII
+8802_18	part_of_entity	Henry VII
+8802_19	is_in_sentence	sentence_8802
+8802_19	conj	8802_8
+8802_19	has_surface_form	started
+8802_20	is_in_sentence	sentence_8802
+8802_20	det	8802_24
+8802_20	has_surface_form	the
+8802_24	is_in_sentence	sentence_8802
+8802_24	dobj	8802_19
+8802_24	has_surface_form	line
+8802_21	is_in_sentence	sentence_8802
+8802_21	compound	8802_23
+8802_21	has_surface_form	Waldeck
+8802_23	is_in_sentence	sentence_8802
+8802_23	compound	8802_24
+8802_23	has_surface_form	Waldeck
+8802_22	is_in_sentence	sentence_8802
+8802_22	punct	8802_23
+8802_22	has_surface_form	-
+8802_25	is_in_sentence	sentence_8802
+8802_25	punct	8802_8
+8802_25	has_surface_form	.
+8802_26	is_in_sentence	sentence_8802
+8802_26	dep	8802_26
+8802_26	has_surface_form	
+Adolph III	surface_form	Adolph III
+Adolph III	has-sibling	Henry VII
+Henry VII	surface_form	Henry VII

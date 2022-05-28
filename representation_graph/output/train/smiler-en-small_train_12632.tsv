@@ -1,0 +1,97 @@
+12631_0	is_in_sentence	sentence_12631
+12631_0	compound	12631_1
+12631_0	has_surface_form	Abadeh
+12631_0	part_of_entity	Abadeh Airport
+12631_1	is_in_sentence	sentence_12631
+12631_1	nsubj	12631_18
+12631_1	has_surface_form	Airport
+12631_1	part_of_entity	Abadeh Airport
+12631_18	is_in_sentence	sentence_12631
+12631_18	ROOT	12631_18
+12631_18	has_surface_form	is
+12631_2	is_in_sentence	sentence_12631
+12631_2	punct	12631_3
+12631_2	has_surface_form	(
+12631_3	is_in_sentence	sentence_12631
+12631_3	appos	12631_1
+12631_3	has_surface_form	Persian
+12631_4	is_in_sentence	sentence_12631
+12631_4	punct	12631_3
+12631_4	has_surface_form	:
+12631_5	is_in_sentence	sentence_12631
+12631_5	amod	12631_6
+12631_5	has_surface_form	فرودگاه
+12631_6	is_in_sentence	sentence_12631
+12631_6	appos	12631_3
+12631_6	has_surface_form	آباده‎
+12631_7	is_in_sentence	sentence_12631
+12631_7	punct	12631_6
+12631_7	has_surface_form	–
+12631_8	is_in_sentence	sentence_12631
+12631_8	compound	12631_10
+12631_8	has_surface_form	Farūdegāh
+12631_10	is_in_sentence	sentence_12631
+12631_10	compound	12631_11
+12631_10	has_surface_form	e
+12631_9	is_in_sentence	sentence_12631
+12631_9	punct	12631_10
+12631_9	has_surface_form	-
+12631_11	is_in_sentence	sentence_12631
+12631_11	appos	12631_6
+12631_11	has_surface_form	Ābāde
+12631_12	is_in_sentence	sentence_12631
+12631_12	punct	12631_6
+12631_12	has_surface_form	)
+12631_13	is_in_sentence	sentence_12631
+12631_13	punct	12631_14
+12631_13	has_surface_form	(
+12631_14	is_in_sentence	sentence_12631
+12631_14	appos	12631_1
+12631_14	has_surface_form	ICAO
+12631_15	is_in_sentence	sentence_12631
+12631_15	punct	12631_14
+12631_15	has_surface_form	:
+12631_16	is_in_sentence	sentence_12631
+12631_16	appos	12631_14
+12631_16	has_surface_form	OISA
+12631_17	is_in_sentence	sentence_12631
+12631_17	punct	12631_14
+12631_17	has_surface_form	)
+12631_19	is_in_sentence	sentence_12631
+12631_19	det	12631_20
+12631_19	has_surface_form	an
+12631_20	is_in_sentence	sentence_12631
+12631_20	attr	12631_18
+12631_20	has_surface_form	airport
+12631_21	is_in_sentence	sentence_12631
+12631_21	prep	12631_20
+12631_21	has_surface_form	near
+12631_22	is_in_sentence	sentence_12631
+12631_22	pobj	12631_21
+12631_22	has_surface_form	Abadeh
+12631_23	is_in_sentence	sentence_12631
+12631_23	punct	12631_22
+12631_23	has_surface_form	,
+12631_24	is_in_sentence	sentence_12631
+12631_24	compound	12631_25
+12631_24	has_surface_form	Fars
+12631_24	part_of_entity	Fars Province
+12631_25	is_in_sentence	sentence_12631
+12631_25	conj	12631_22
+12631_25	has_surface_form	Province
+12631_25	part_of_entity	Fars Province
+12631_26	is_in_sentence	sentence_12631
+12631_26	punct	12631_25
+12631_26	has_surface_form	,
+12631_27	is_in_sentence	sentence_12631
+12631_27	appos	12631_25
+12631_27	has_surface_form	Iran
+12631_28	is_in_sentence	sentence_12631
+12631_28	punct	12631_18
+12631_28	has_surface_form	.
+12631_29	is_in_sentence	sentence_12631
+12631_29	dep	12631_18
+12631_29	has_surface_form	
+Abadeh Airport	surface_form	Abadeh Airport
+Abadeh Airport	is-where	Fars Province
+Fars Province	surface_form	Fars Province

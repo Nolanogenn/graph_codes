@@ -1,0 +1,40 @@
+5587_0	is_in_sentence	sentence_5587
+5587_0	compound	5587_1
+5587_0	has_surface_form	Port
+5587_0	part_of_entity	Port Augusta
+5587_1	is_in_sentence	sentence_5587
+5587_1	nsubj	5587_2
+5587_1	has_surface_form	Augusta
+5587_1	part_of_entity	Port Augusta
+5587_2	is_in_sentence	sentence_5587
+5587_2	ROOT	5587_2
+5587_2	has_surface_form	is
+5587_3	is_in_sentence	sentence_5587
+5587_3	det	5587_5
+5587_3	has_surface_form	a
+5587_5	is_in_sentence	sentence_5587
+5587_5	attr	5587_2
+5587_5	has_surface_form	city
+5587_5	part_of_entity	small city
+5587_4	is_in_sentence	sentence_5587
+5587_4	amod	5587_5
+5587_4	has_surface_form	small
+5587_4	part_of_entity	small city
+5587_6	is_in_sentence	sentence_5587
+5587_6	prep	5587_5
+5587_6	has_surface_form	in
+5587_7	is_in_sentence	sentence_5587
+5587_7	compound	5587_8
+5587_7	has_surface_form	South
+5587_8	is_in_sentence	sentence_5587
+5587_8	pobj	5587_6
+5587_8	has_surface_form	Australia
+5587_9	is_in_sentence	sentence_5587
+5587_9	punct	5587_2
+5587_9	has_surface_form	.
+5587_10	is_in_sentence	sentence_5587
+5587_10	dep	5587_10
+5587_10	has_surface_form	
+Port Augusta	surface_form	Port Augusta
+Port Augusta	has-type	small city
+small city	surface_form	small city

@@ -1,0 +1,82 @@
+17436_0	is_in_sentence	sentence_17436
+17436_0	compound	17436_1
+17436_0	has_surface_form	Dennis
+17436_0	part_of_entity	Dennis Wolff
+17436_1	is_in_sentence	sentence_17436
+17436_1	nsubj	17436_9
+17436_1	has_surface_form	Wolff
+17436_1	part_of_entity	Dennis Wolff
+17436_9	is_in_sentence	sentence_17436
+17436_9	ROOT	17436_9
+17436_9	has_surface_form	is
+17436_2	is_in_sentence	sentence_17436
+17436_2	punct	17436_1
+17436_2	has_surface_form	(
+17436_3	is_in_sentence	sentence_17436
+17436_3	acl	17436_1
+17436_3	has_surface_form	born
+17436_4	is_in_sentence	sentence_17436
+17436_4	npadvmod	17436_3
+17436_4	has_surface_form	March
+17436_5	is_in_sentence	sentence_17436
+17436_5	nummod	17436_4
+17436_5	has_surface_form	1
+17436_6	is_in_sentence	sentence_17436
+17436_6	punct	17436_4
+17436_6	has_surface_form	,
+17436_7	is_in_sentence	sentence_17436
+17436_7	nummod	17436_4
+17436_7	has_surface_form	1955
+17436_8	is_in_sentence	sentence_17436
+17436_8	punct	17436_1
+17436_8	has_surface_form	)
+17436_10	is_in_sentence	sentence_17436
+17436_10	det	17436_13
+17436_10	has_surface_form	the
+17436_13	is_in_sentence	sentence_17436
+17436_13	attr	17436_9
+17436_13	has_surface_form	coach
+17436_13	part_of_entity	head coach
+17436_11	is_in_sentence	sentence_17436
+17436_11	amod	17436_13
+17436_11	has_surface_form	former
+17436_12	is_in_sentence	sentence_17436
+17436_12	compound	17436_13
+17436_12	has_surface_form	head
+17436_12	part_of_entity	head coach
+17436_14	is_in_sentence	sentence_17436
+17436_14	prep	17436_13
+17436_14	has_surface_form	of
+17436_15	is_in_sentence	sentence_17436
+17436_15	det	17436_22
+17436_15	has_surface_form	the
+17436_22	is_in_sentence	sentence_17436
+17436_22	pobj	17436_14
+17436_22	has_surface_form	team
+17436_16	is_in_sentence	sentence_17436
+17436_16	nmod	17436_18
+17436_16	has_surface_form	Virginia
+17436_18	is_in_sentence	sentence_17436
+17436_18	nmod	17436_22
+17436_18	has_surface_form	Hokies
+17436_17	is_in_sentence	sentence_17436
+17436_17	compound	17436_18
+17436_17	has_surface_form	Tech
+17436_19	is_in_sentence	sentence_17436
+17436_19	poss	17436_22
+17436_19	has_surface_form	women
+17436_20	is_in_sentence	sentence_17436
+17436_20	case	17436_19
+17436_20	has_surface_form	's
+17436_21	is_in_sentence	sentence_17436
+17436_21	compound	17436_22
+17436_21	has_surface_form	basketball
+17436_23	is_in_sentence	sentence_17436
+17436_23	punct	17436_9
+17436_23	has_surface_form	.
+17436_24	is_in_sentence	sentence_17436
+17436_24	dep	17436_24
+17436_24	has_surface_form	
+Dennis Wolff	surface_form	Dennis Wolff
+Dennis Wolff	has-type	head coach
+head coach	surface_form	head coach

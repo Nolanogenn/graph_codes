@@ -1,0 +1,62 @@
+29391_0	is_in_sentence	sentence_29391
+29391_0	compound	29391_1
+29391_0	has_surface_form	Fabienne
+29391_0	part_of_entity	Fabienne Thibeault
+29391_1	is_in_sentence	sentence_29391
+29391_1	nsubj	29391_12
+29391_1	has_surface_form	Thibeault
+29391_1	part_of_entity	Fabienne Thibeault
+29391_12	is_in_sentence	sentence_29391
+29391_12	ROOT	29391_12
+29391_12	has_surface_form	is
+29391_2	is_in_sentence	sentence_29391
+29391_2	punct	29391_3
+29391_2	has_surface_form	(
+29391_3	is_in_sentence	sentence_29391
+29391_3	acl	29391_1
+29391_3	has_surface_form	born
+29391_4	is_in_sentence	sentence_29391
+29391_4	npadvmod	29391_3
+29391_4	has_surface_form	16
+29391_5	is_in_sentence	sentence_29391
+29391_5	npadvmod	29391_3
+29391_5	has_surface_form	June
+29391_6	is_in_sentence	sentence_29391
+29391_6	nummod	29391_5
+29391_6	has_surface_form	1952
+29391_7	is_in_sentence	sentence_29391
+29391_7	prep	29391_3
+29391_7	has_surface_form	in
+29391_8	is_in_sentence	sentence_29391
+29391_8	pobj	29391_7
+29391_8	is_entity	Montreal
+Montreal	surface_form	Montreal
+29391_9	is_in_sentence	sentence_29391
+29391_9	punct	29391_8
+29391_9	has_surface_form	,
+29391_10	is_in_sentence	sentence_29391
+29391_10	appos	29391_8
+29391_10	has_surface_form	Quebec
+29391_11	is_in_sentence	sentence_29391
+29391_11	punct	29391_1
+29391_11	has_surface_form	)
+29391_13	is_in_sentence	sentence_29391
+29391_13	det	29391_16
+29391_13	has_surface_form	a
+29391_16	is_in_sentence	sentence_29391
+29391_16	attr	29391_12
+29391_16	has_surface_form	singer
+29391_14	is_in_sentence	sentence_29391
+29391_14	amod	29391_16
+29391_14	has_surface_form	French
+29391_15	is_in_sentence	sentence_29391
+29391_15	amod	29391_16
+29391_15	has_surface_form	Canadian
+29391_17	is_in_sentence	sentence_29391
+29391_17	punct	29391_12
+29391_17	has_surface_form	.
+29391_18	is_in_sentence	sentence_29391
+29391_18	dep	29391_18
+29391_18	has_surface_form	
+Fabienne Thibeault	surface_form	Fabienne Thibeault
+Fabienne Thibeault	birth-place	Montreal

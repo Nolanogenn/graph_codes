@@ -1,0 +1,59 @@
+8834_0	is_in_sentence	sentence_8834
+8834_0	compound	8834_1
+8834_0	has_surface_form	Ignazio
+8834_0	part_of_entity	Ignazio Arcoleo
+8834_1	is_in_sentence	sentence_8834
+8834_1	nsubj	8834_10
+8834_1	has_surface_form	Arcoleo
+8834_1	part_of_entity	Ignazio Arcoleo
+8834_10	is_in_sentence	sentence_8834
+8834_10	ROOT	8834_10
+8834_10	has_surface_form	is
+8834_2	is_in_sentence	sentence_8834
+8834_2	punct	8834_3
+8834_2	has_surface_form	(
+8834_3	is_in_sentence	sentence_8834
+8834_3	parataxis	8834_1
+8834_3	has_surface_form	born
+8834_4	is_in_sentence	sentence_8834
+8834_4	nummod	8834_5
+8834_4	has_surface_form	15
+8834_5	is_in_sentence	sentence_8834
+8834_5	npadvmod	8834_3
+8834_5	has_surface_form	February
+8834_6	is_in_sentence	sentence_8834
+8834_6	nummod	8834_5
+8834_6	has_surface_form	1948
+8834_7	is_in_sentence	sentence_8834
+8834_7	prep	8834_3
+8834_7	has_surface_form	in
+8834_8	is_in_sentence	sentence_8834
+8834_8	pobj	8834_7
+8834_8	is_entity	Palermo
+Palermo	surface_form	Palermo
+8834_9	is_in_sentence	sentence_8834
+8834_9	punct	8834_1
+8834_9	has_surface_form	)
+8834_11	is_in_sentence	sentence_8834
+8834_11	det	8834_13
+8834_11	has_surface_form	an
+8834_13	is_in_sentence	sentence_8834
+8834_13	attr	8834_10
+8834_13	has_surface_form	footballer
+8834_12	is_in_sentence	sentence_8834
+8834_12	amod	8834_13
+8834_12	has_surface_form	Italian
+8834_14	is_in_sentence	sentence_8834
+8834_14	cc	8834_13
+8834_14	has_surface_form	and
+8834_15	is_in_sentence	sentence_8834
+8834_15	conj	8834_13
+8834_15	has_surface_form	manager
+8834_16	is_in_sentence	sentence_8834
+8834_16	punct	8834_10
+8834_16	has_surface_form	.
+8834_17	is_in_sentence	sentence_8834
+8834_17	dep	8834_17
+8834_17	has_surface_form	
+Ignazio Arcoleo	surface_form	Ignazio Arcoleo
+Ignazio Arcoleo	birth-place	Palermo

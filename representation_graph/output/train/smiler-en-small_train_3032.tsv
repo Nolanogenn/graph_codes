@@ -1,0 +1,47 @@
+3031_0	is_in_sentence	sentence_3031
+3031_0	compound	3031_1
+3031_0	has_surface_form	Anne
+3031_0	part_of_entity	Anne Haverty
+3031_1	is_in_sentence	sentence_3031
+3031_1	nsubj	3031_6
+3031_1	has_surface_form	Haverty
+3031_1	part_of_entity	Anne Haverty
+3031_6	is_in_sentence	sentence_3031
+3031_6	ROOT	3031_6
+3031_6	has_surface_form	is
+3031_2	is_in_sentence	sentence_3031
+3031_2	punct	3031_1
+3031_2	has_surface_form	(
+3031_3	is_in_sentence	sentence_3031
+3031_3	acl	3031_1
+3031_3	has_surface_form	born
+3031_4	is_in_sentence	sentence_3031
+3031_4	npadvmod	3031_3
+3031_4	has_surface_form	1959
+3031_5	is_in_sentence	sentence_3031
+3031_5	punct	3031_1
+3031_5	has_surface_form	)
+3031_7	is_in_sentence	sentence_3031
+3031_7	det	3031_9
+3031_7	has_surface_form	an
+3031_9	is_in_sentence	sentence_3031
+3031_9	attr	3031_6
+3031_9	has_surface_form	novelist
+3031_8	is_in_sentence	sentence_3031
+3031_8	amod	3031_9
+3031_8	has_surface_form	Irish
+3031_10	is_in_sentence	sentence_3031
+3031_10	cc	3031_9
+3031_10	has_surface_form	and
+3031_11	is_in_sentence	sentence_3031
+3031_11	conj	3031_9
+3031_11	is_entity	poet
+poet	surface_form	poet
+3031_12	is_in_sentence	sentence_3031
+3031_12	punct	3031_6
+3031_12	has_surface_form	.
+3031_13	is_in_sentence	sentence_3031
+3031_13	dep	3031_13
+3031_13	has_surface_form	
+Anne Haverty	surface_form	Anne Haverty
+Anne Haverty	has-occupation	poet

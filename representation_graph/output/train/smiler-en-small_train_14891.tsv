@@ -1,0 +1,64 @@
+14890_0	is_in_sentence	sentence_14890
+14890_0	compound	14890_1
+14890_0	has_surface_form	Bobby
+14890_0	part_of_entity	Bobby Frazier
+14890_1	is_in_sentence	sentence_14890
+14890_1	nsubj	14890_9
+14890_1	has_surface_form	Frazier
+14890_1	part_of_entity	Bobby Frazier
+14890_9	is_in_sentence	sentence_14890
+14890_9	ROOT	14890_9
+14890_9	has_surface_form	is
+14890_2	is_in_sentence	sentence_14890
+14890_2	punct	14890_1
+14890_2	has_surface_form	(
+14890_3	is_in_sentence	sentence_14890
+14890_3	acl	14890_1
+14890_3	has_surface_form	born
+14890_4	is_in_sentence	sentence_14890
+14890_4	npadvmod	14890_3
+14890_4	has_surface_form	January
+14890_5	is_in_sentence	sentence_14890
+14890_5	nummod	14890_4
+14890_5	has_surface_form	20
+14890_6	is_in_sentence	sentence_14890
+14890_6	punct	14890_4
+14890_6	has_surface_form	,
+14890_7	is_in_sentence	sentence_14890
+14890_7	nummod	14890_4
+14890_7	has_surface_form	1943
+14890_8	is_in_sentence	sentence_14890
+14890_8	punct	14890_1
+14890_8	has_surface_form	)
+14890_10	is_in_sentence	sentence_14890
+14890_10	det	14890_14
+14890_10	has_surface_form	a
+14890_14	is_in_sentence	sentence_14890
+14890_14	attr	14890_9
+14890_14	has_surface_form	coach
+14890_14	part_of_entity	football coach
+14890_11	is_in_sentence	sentence_14890
+14890_11	amod	14890_14
+14890_11	has_surface_form	former
+14890_12	is_in_sentence	sentence_14890
+14890_12	amod	14890_14
+14890_12	has_surface_form	American
+14890_13	is_in_sentence	sentence_14890
+14890_13	compound	14890_14
+14890_13	has_surface_form	football
+14890_13	part_of_entity	football coach
+14890_15	is_in_sentence	sentence_14890
+14890_15	cc	14890_14
+14890_15	has_surface_form	and
+14890_16	is_in_sentence	sentence_14890
+14890_16	conj	14890_14
+14890_16	has_surface_form	player
+14890_17	is_in_sentence	sentence_14890
+14890_17	punct	14890_9
+14890_17	has_surface_form	.
+14890_18	is_in_sentence	sentence_14890
+14890_18	dep	14890_18
+14890_18	has_surface_form	
+Bobby Frazier	surface_form	Bobby Frazier
+Bobby Frazier	has-type	football coach
+football coach	surface_form	football coach

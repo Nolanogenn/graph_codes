@@ -1,0 +1,71 @@
+2193_0	is_in_sentence	sentence_2193
+2193_0	nsubj	2193_3
+2193_0	has_surface_form	Asklepios
+2193_0	part_of_entity	Asklepios Kliniken GmbH
+2193_3	is_in_sentence	sentence_2193
+2193_3	ROOT	2193_3
+2193_3	has_surface_form	is
+2193_1	is_in_sentence	sentence_2193
+2193_1	compound	2193_2
+2193_1	has_surface_form	Kliniken
+2193_1	part_of_entity	Asklepios Kliniken GmbH
+2193_2	is_in_sentence	sentence_2193
+2193_2	appos	2193_0
+2193_2	has_surface_form	GmbH
+2193_2	part_of_entity	Asklepios Kliniken GmbH
+2193_4	is_in_sentence	sentence_2193
+2193_4	det	2193_7
+2193_4	has_surface_form	a
+2193_7	is_in_sentence	sentence_2193
+2193_7	attr	2193_3
+2193_7	has_surface_form	company
+2193_7	part_of_entity	hospitals company
+2193_5	is_in_sentence	sentence_2193
+2193_5	amod	2193_7
+2193_5	has_surface_form	German
+2193_6	is_in_sentence	sentence_2193
+2193_6	compound	2193_7
+2193_6	has_surface_form	hospitals
+2193_6	part_of_entity	hospitals company
+2193_8	is_in_sentence	sentence_2193
+2193_8	punct	2193_7
+2193_8	has_surface_form	,
+2193_9	is_in_sentence	sentence_2193
+2193_9	appos	2193_7
+2193_9	has_surface_form	one
+2193_10	is_in_sentence	sentence_2193
+2193_10	prep	2193_9
+2193_10	has_surface_form	of
+2193_11	is_in_sentence	sentence_2193
+2193_11	poss	2193_15
+2193_11	has_surface_form	Germany
+2193_15	is_in_sentence	sentence_2193
+2193_15	pobj	2193_10
+2193_15	has_surface_form	operators
+2193_12	is_in_sentence	sentence_2193
+2193_12	case	2193_11
+2193_12	has_surface_form	's
+2193_13	is_in_sentence	sentence_2193
+2193_13	nummod	2193_15
+2193_13	has_surface_form	three
+2193_14	is_in_sentence	sentence_2193
+2193_14	amod	2193_15
+2193_14	has_surface_form	largest
+2193_16	is_in_sentence	sentence_2193
+2193_16	prep	2193_15
+2193_16	has_surface_form	of
+2193_17	is_in_sentence	sentence_2193
+2193_17	amod	2193_18
+2193_17	has_surface_form	private
+2193_18	is_in_sentence	sentence_2193
+2193_18	pobj	2193_16
+2193_18	has_surface_form	hospitals
+2193_19	is_in_sentence	sentence_2193
+2193_19	punct	2193_3
+2193_19	has_surface_form	.
+2193_20	is_in_sentence	sentence_2193
+2193_20	dep	2193_3
+2193_20	has_surface_form	
+Asklepios Kliniken GmbH	surface_form	Asklepios Kliniken GmbH
+Asklepios Kliniken GmbH	has-type	hospitals company
+hospitals company	surface_form	hospitals company

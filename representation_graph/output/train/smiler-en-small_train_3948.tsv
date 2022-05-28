@@ -1,0 +1,55 @@
+3947_0	is_in_sentence	sentence_3947
+3947_0	compound	3947_1
+3947_0	has_surface_form	Erik
+3947_0	part_of_entity	Erik Raeburn
+3947_1	is_in_sentence	sentence_3947
+3947_1	nsubj	3947_9
+3947_1	has_surface_form	Raeburn
+3947_1	part_of_entity	Erik Raeburn
+3947_9	is_in_sentence	sentence_3947
+3947_9	ROOT	3947_9
+3947_9	has_surface_form	is
+3947_2	is_in_sentence	sentence_3947
+3947_2	punct	3947_1
+3947_2	has_surface_form	(
+3947_3	is_in_sentence	sentence_3947
+3947_3	acl	3947_1
+3947_3	has_surface_form	born
+3947_4	is_in_sentence	sentence_3947
+3947_4	npadvmod	3947_3
+3947_4	has_surface_form	June
+3947_5	is_in_sentence	sentence_3947
+3947_5	nummod	3947_4
+3947_5	has_surface_form	19
+3947_6	is_in_sentence	sentence_3947
+3947_6	punct	3947_4
+3947_6	has_surface_form	,
+3947_7	is_in_sentence	sentence_3947
+3947_7	nummod	3947_4
+3947_7	has_surface_form	1971
+3947_8	is_in_sentence	sentence_3947
+3947_8	punct	3947_1
+3947_8	has_surface_form	)
+3947_10	is_in_sentence	sentence_3947
+3947_10	det	3947_13
+3947_10	has_surface_form	an
+3947_13	is_in_sentence	sentence_3947
+3947_13	attr	3947_9
+3947_13	has_surface_form	coach
+3947_13	part_of_entity	football coach
+3947_11	is_in_sentence	sentence_3947
+3947_11	amod	3947_13
+3947_11	has_surface_form	American
+3947_12	is_in_sentence	sentence_3947
+3947_12	compound	3947_13
+3947_12	has_surface_form	football
+3947_12	part_of_entity	football coach
+3947_14	is_in_sentence	sentence_3947
+3947_14	punct	3947_9
+3947_14	has_surface_form	.
+3947_15	is_in_sentence	sentence_3947
+3947_15	dep	3947_15
+3947_15	has_surface_form	
+Erik Raeburn	surface_form	Erik Raeburn
+Erik Raeburn	has-type	football coach
+football coach	surface_form	football coach

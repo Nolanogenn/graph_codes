@@ -1,0 +1,45 @@
+20749_0	is_in_sentence	sentence_20749
+20749_0	compound	20749_1
+20749_0	has_surface_form	Polo
+20749_0	part_of_entity	Polo Grounds Music
+20749_1	is_in_sentence	sentence_20749
+20749_1	compound	20749_2
+20749_1	has_surface_form	Grounds
+20749_1	part_of_entity	Polo Grounds Music
+20749_2	is_in_sentence	sentence_20749
+20749_2	nsubj	20749_3
+20749_2	has_surface_form	Music
+20749_2	part_of_entity	Polo Grounds Music
+20749_3	is_in_sentence	sentence_20749
+20749_3	ROOT	20749_3
+20749_3	has_surface_form	is
+20749_4	is_in_sentence	sentence_20749
+20749_4	det	20749_10
+20749_4	has_surface_form	a
+20749_10	is_in_sentence	sentence_20749
+20749_10	attr	20749_3
+20749_10	has_surface_form	label
+20749_5	is_in_sentence	sentence_20749
+20749_5	nmod	20749_6
+20749_5	has_surface_form	hip
+20749_6	is_in_sentence	sentence_20749
+20749_6	nmod	20749_10
+20749_6	has_surface_form	hop
+20749_7	is_in_sentence	sentence_20749
+20749_7	cc	20749_6
+20749_7	has_surface_form	and
+20749_8	is_in_sentence	sentence_20749
+20749_8	conj	20749_6
+20749_8	is_entity	R&B
+R&B	surface_form	R&B
+20749_9	is_in_sentence	sentence_20749
+20749_9	compound	20749_10
+20749_9	has_surface_form	record
+20749_11	is_in_sentence	sentence_20749
+20749_11	punct	20749_3
+20749_11	has_surface_form	.
+20749_12	is_in_sentence	sentence_20749
+20749_12	dep	20749_12
+20749_12	has_surface_form	
+Polo Grounds Music	surface_form	Polo Grounds Music
+Polo Grounds Music	has-genre	R&B

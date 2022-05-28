@@ -1,0 +1,68 @@
+1170_0	is_in_sentence	sentence_1170
+1170_0	compound	1170_1
+1170_0	has_surface_form	Wesleyan
+1170_0	part_of_entity	Wesleyan College
+1170_1	is_in_sentence	sentence_1170
+1170_1	nsubj	1170_2
+1170_1	has_surface_form	College
+1170_1	part_of_entity	Wesleyan College
+1170_2	is_in_sentence	sentence_1170
+1170_2	ROOT	1170_2
+1170_2	has_surface_form	is
+1170_3	is_in_sentence	sentence_1170
+1170_3	det	1170_10
+1170_3	has_surface_form	a
+1170_10	is_in_sentence	sentence_1170
+1170_10	attr	1170_2
+1170_10	has_surface_form	college
+1170_4	is_in_sentence	sentence_1170
+1170_4	amod	1170_10
+1170_4	has_surface_form	private
+1170_5	is_in_sentence	sentence_1170
+1170_5	punct	1170_10
+1170_5	has_surface_form	,
+1170_6	is_in_sentence	sentence_1170
+1170_6	amod	1170_7
+1170_6	has_surface_form	liberal
+1170_7	is_in_sentence	sentence_1170
+1170_7	compound	1170_8
+1170_7	has_surface_form	arts
+1170_8	is_in_sentence	sentence_1170
+1170_8	poss	1170_10
+1170_8	has_surface_form	women
+1170_9	is_in_sentence	sentence_1170
+1170_9	case	1170_8
+1170_9	has_surface_form	's
+1170_11	is_in_sentence	sentence_1170
+1170_11	acl	1170_10
+1170_11	has_surface_form	located
+1170_12	is_in_sentence	sentence_1170
+1170_12	prep	1170_11
+1170_12	has_surface_form	in
+1170_13	is_in_sentence	sentence_1170
+1170_13	pobj	1170_12
+1170_13	has_surface_form	Macon
+1170_14	is_in_sentence	sentence_1170
+1170_14	punct	1170_13
+1170_14	has_surface_form	,
+1170_15	is_in_sentence	sentence_1170
+1170_15	conj	1170_13
+1170_15	has_surface_form	Georgia
+1170_16	is_in_sentence	sentence_1170
+1170_16	punct	1170_15
+1170_16	has_surface_form	,
+1170_17	is_in_sentence	sentence_1170
+1170_17	compound	1170_18
+1170_17	has_surface_form	United
+1170_18	is_in_sentence	sentence_1170
+1170_18	conj	1170_15
+1170_18	has_surface_form	States
+1170_19	is_in_sentence	sentence_1170
+1170_19	punct	1170_2
+1170_19	has_surface_form	.
+1170_20	is_in_sentence	sentence_1170
+1170_20	dep	1170_2
+1170_20	has_surface_form	
+Wesleyan College	surface_form	Wesleyan College
+Wesleyan College	is-where	Macon, Georgia
+Macon, Georgia	surface_form	Macon, Georgia

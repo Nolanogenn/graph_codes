@@ -1,0 +1,74 @@
+900_0	is_in_sentence	sentence_900
+900_0	nsubj	900_5
+900_0	has_surface_form	Brininstool
+900_0	part_of_entity	Brininstool + Lynch
+900_5	is_in_sentence	sentence_900
+900_5	ROOT	900_5
+900_5	has_surface_form	is
+900_1	is_in_sentence	sentence_900
+900_1	cc	900_0
+900_1	has_surface_form	+
+900_1	part_of_entity	Brininstool + Lynch
+900_2	is_in_sentence	sentence_900
+900_2	conj	900_0
+900_2	has_surface_form	Lynch
+900_2	part_of_entity	Brininstool + Lynch
+900_3	is_in_sentence	sentence_900
+900_3	punct	900_2
+900_3	has_surface_form	,
+900_4	is_in_sentence	sentence_900
+900_4	amod	900_2
+900_4	has_surface_form	Ltd.
+900_6	is_in_sentence	sentence_900
+900_6	det	900_11
+900_6	has_surface_form	a
+900_11	is_in_sentence	sentence_900
+900_11	attr	900_5
+900_11	has_surface_form	firm
+900_7	is_in_sentence	sentence_900
+900_7	npadvmod	900_9
+900_7	has_surface_form	Chicago
+900_9	is_in_sentence	sentence_900
+900_9	amod	900_11
+900_9	has_surface_form	based
+900_8	is_in_sentence	sentence_900
+900_8	punct	900_9
+900_8	has_surface_form	-
+900_10	is_in_sentence	sentence_900
+900_10	compound	900_11
+900_10	has_surface_form	architecture
+900_12	is_in_sentence	sentence_900
+900_12	acl	900_11
+900_12	has_surface_form	named
+900_13	is_in_sentence	sentence_900
+900_13	prep	900_12
+900_13	has_surface_form	for
+900_14	is_in_sentence	sentence_900
+900_14	compound	900_16
+900_14	has_surface_form	partners
+900_16	is_in_sentence	sentence_900
+900_16	pobj	900_13
+900_16	has_surface_form	Brininstool
+900_15	is_in_sentence	sentence_900
+900_15	compound	900_16
+900_15	has_surface_form	David
+900_17	is_in_sentence	sentence_900
+900_17	cc	900_16
+900_17	has_surface_form	and
+900_18	is_in_sentence	sentence_900
+900_18	compound	900_19
+900_18	has_surface_form	Brad
+900_18	part_of_entity	Brad Lynch
+900_19	is_in_sentence	sentence_900
+900_19	conj	900_16
+900_19	has_surface_form	Lynch
+900_19	part_of_entity	Brad Lynch
+900_20	is_in_sentence	sentence_900
+900_20	punct	900_5
+900_20	has_surface_form	.
+900_21	is_in_sentence	sentence_900
+900_21	dep	900_21
+900_21	has_surface_form	
+Brininstool + Lynch	surface_form	Brininstool + Lynch
+Brininstool + Lynch	org-has-founder	Brad Lynch
+Brad Lynch	surface_form	Brad Lynch

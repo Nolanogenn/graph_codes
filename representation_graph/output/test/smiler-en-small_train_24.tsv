@@ -1,0 +1,51 @@
+23_0	is_in_sentence	sentence_23
+23_0	det	23_3
+23_0	has_surface_form	The
+23_0	part_of_entity	The China Lake Murders
+23_3	is_in_sentence	sentence_23
+23_3	nsubj	23_4
+23_3	has_surface_form	Murders
+23_3	part_of_entity	The China Lake Murders
+23_1	is_in_sentence	sentence_23
+23_1	compound	23_3
+23_1	has_surface_form	China
+23_1	part_of_entity	The China Lake Murders
+23_2	is_in_sentence	sentence_23
+23_2	compound	23_3
+23_2	has_surface_form	Lake
+23_2	part_of_entity	The China Lake Murders
+23_4	is_in_sentence	sentence_23
+23_4	ROOT	23_4
+23_4	has_surface_form	is
+23_5	is_in_sentence	sentence_23
+23_5	det	23_8
+23_5	has_surface_form	a
+23_8	is_in_sentence	sentence_23
+23_8	attr	23_4
+23_8	has_surface_form	film
+23_6	is_in_sentence	sentence_23
+23_6	nummod	23_8
+23_6	has_surface_form	1990
+23_7	is_in_sentence	sentence_23
+23_7	compound	23_8
+23_7	has_surface_form	television
+23_9	is_in_sentence	sentence_23
+23_9	acl	23_8
+23_9	has_surface_form	starring
+23_10	is_in_sentence	sentence_23
+23_10	compound	23_11
+23_10	has_surface_form	Tom
+23_10	part_of_entity	Tom Skerritt
+23_11	is_in_sentence	sentence_23
+23_11	dobj	23_9
+23_11	has_surface_form	Skerritt
+23_11	part_of_entity	Tom Skerritt
+23_12	is_in_sentence	sentence_23
+23_12	punct	23_4
+23_12	has_surface_form	.
+23_13	is_in_sentence	sentence_23
+23_13	dep	23_4
+23_13	has_surface_form	
+The China Lake Murders	surface_form	The China Lake Murders
+The China Lake Murders	starring	Tom Skerritt
+Tom Skerritt	surface_form	Tom Skerritt

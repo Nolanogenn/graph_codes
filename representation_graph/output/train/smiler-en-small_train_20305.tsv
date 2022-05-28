@@ -1,0 +1,59 @@
+20304_0	is_in_sentence	sentence_20304
+20304_0	det	20304_4
+20304_0	has_surface_form	The
+20304_4	is_in_sentence	sentence_20304
+20304_4	nsubj	20304_8
+20304_4	has_surface_form	range
+20304_1	is_in_sentence	sentence_20304
+20304_1	compound	20304_2
+20304_1	has_surface_form	Cal
+20304_2	is_in_sentence	sentence_20304
+20304_2	compound	20304_4
+20304_2	has_surface_form	Madow
+20304_3	is_in_sentence	sentence_20304
+20304_3	compound	20304_4
+20304_3	has_surface_form	mountain
+20304_8	is_in_sentence	sentence_20304
+20304_8	ROOT	20304_8
+20304_8	has_surface_form	features
+20304_5	is_in_sentence	sentence_20304
+20304_5	prep	20304_4
+20304_5	has_surface_form	in
+20304_6	is_in_sentence	sentence_20304
+20304_6	compound	20304_7
+20304_6	has_surface_form	Northern
+20304_6	part_of_entity	Northern Somalia
+20304_7	is_in_sentence	sentence_20304
+20304_7	pobj	20304_5
+20304_7	has_surface_form	Somalia
+20304_7	part_of_entity	Northern Somalia
+20304_9	is_in_sentence	sentence_20304
+20304_9	det	20304_10
+20304_9	has_surface_form	the
+20304_10	is_in_sentence	sentence_20304
+20304_10	poss	20304_13
+20304_10	has_surface_form	nation
+20304_13	is_in_sentence	sentence_20304
+20304_13	dobj	20304_8
+20304_13	has_surface_form	peak
+20304_11	is_in_sentence	sentence_20304
+20304_11	case	20304_10
+20304_11	has_surface_form	's
+20304_12	is_in_sentence	sentence_20304
+20304_12	amod	20304_13
+20304_12	has_surface_form	highest
+20304_14	is_in_sentence	sentence_20304
+20304_14	punct	20304_13
+20304_14	has_surface_form	,
+20304_15	is_in_sentence	sentence_20304
+20304_15	npadvmod	20304_13
+20304_15	is_entity	Shimbiris
+Shimbiris	surface_form	Shimbiris
+20304_16	is_in_sentence	sentence_20304
+20304_16	punct	20304_8
+20304_16	has_surface_form	.
+20304_17	is_in_sentence	sentence_20304
+20304_17	dep	20304_17
+20304_17	has_surface_form	
+Northern Somalia	surface_form	Northern Somalia
+Northern Somalia	has-highest-mountain	Shimbiris

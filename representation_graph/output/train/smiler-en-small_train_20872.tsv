@@ -1,0 +1,50 @@
+20871_0	is_in_sentence	sentence_20871
+20871_0	compound	20871_1
+20871_0	has_surface_form	Edward
+20871_0	part_of_entity	Edward Preston Mitchell
+20871_1	is_in_sentence	sentence_20871
+20871_1	compound	20871_2
+20871_1	has_surface_form	Preston
+20871_1	part_of_entity	Edward Preston Mitchell
+20871_2	is_in_sentence	sentence_20871
+20871_2	nsubj	20871_3
+20871_2	has_surface_form	Mitchell
+20871_2	part_of_entity	Edward Preston Mitchell
+20871_3	is_in_sentence	sentence_20871
+20871_3	ROOT	20871_3
+20871_3	has_surface_form	was
+20871_4	is_in_sentence	sentence_20871
+20871_4	det	20871_11
+20871_4	has_surface_form	an
+20871_11	is_in_sentence	sentence_20871
+20871_11	attr	20871_3
+20871_11	has_surface_form	administrator
+20871_5	is_in_sentence	sentence_20871
+20871_5	amod	20871_7
+20871_5	has_surface_form	American
+20871_7	is_in_sentence	sentence_20871
+20871_7	nmod	20871_11
+20871_7	has_surface_form	coach
+20871_7	part_of_entity	football coach
+20871_6	is_in_sentence	sentence_20871
+20871_6	compound	20871_7
+20871_6	has_surface_form	football
+20871_6	part_of_entity	football coach
+20871_8	is_in_sentence	sentence_20871
+20871_8	cc	20871_7
+20871_8	has_surface_form	and
+20871_9	is_in_sentence	sentence_20871
+20871_9	compound	20871_10
+20871_9	has_surface_form	college
+20871_10	is_in_sentence	sentence_20871
+20871_10	conj	20871_7
+20871_10	has_surface_form	athletics
+20871_12	is_in_sentence	sentence_20871
+20871_12	punct	20871_3
+20871_12	has_surface_form	.
+20871_13	is_in_sentence	sentence_20871
+20871_13	dep	20871_13
+20871_13	has_surface_form	
+Edward Preston Mitchell	surface_form	Edward Preston Mitchell
+Edward Preston Mitchell	has-type	football coach
+football coach	surface_form	football coach

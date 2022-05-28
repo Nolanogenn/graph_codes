@@ -1,0 +1,67 @@
+18682_0	is_in_sentence	sentence_18682
+18682_0	prep	18682_4
+18682_0	has_surface_form	In
+18682_4	is_in_sentence	sentence_18682
+18682_4	ROOT	18682_4
+18682_4	has_surface_form	married
+18682_1	is_in_sentence	sentence_18682
+18682_1	pobj	18682_0
+18682_1	has_surface_form	1892
+18682_2	is_in_sentence	sentence_18682
+18682_2	punct	18682_4
+18682_2	has_surface_form	,
+18682_3	is_in_sentence	sentence_18682
+18682_3	nsubj	18682_4
+18682_3	has_surface_form	he
+18682_5	is_in_sentence	sentence_18682
+18682_5	compound	18682_7
+18682_5	has_surface_form	Maude
+18682_5	part_of_entity	Maude Margaret Todd
+18682_7	is_in_sentence	sentence_18682
+18682_7	dobj	18682_4
+18682_7	has_surface_form	Todd
+18682_7	part_of_entity	Maude Margaret Todd
+18682_6	is_in_sentence	sentence_18682
+18682_6	compound	18682_7
+18682_6	has_surface_form	Margaret
+18682_6	part_of_entity	Maude Margaret Todd
+18682_8	is_in_sentence	sentence_18682
+18682_8	punct	18682_7
+18682_8	has_surface_form	,
+18682_9	is_in_sentence	sentence_18682
+18682_9	det	18682_11
+18682_9	has_surface_form	the
+18682_11	is_in_sentence	sentence_18682
+18682_11	appos	18682_7
+18682_11	has_surface_form	daughter
+18682_10	is_in_sentence	sentence_18682
+18682_10	amod	18682_11
+18682_10	has_surface_form	second
+18682_12	is_in_sentence	sentence_18682
+18682_12	prep	18682_11
+18682_12	has_surface_form	of
+18682_13	is_in_sentence	sentence_18682
+18682_13	compound	18682_16
+18682_13	has_surface_form	Reverend
+18682_13	part_of_entity	Reverend John Wood Todd
+18682_16	is_in_sentence	sentence_18682
+18682_16	pobj	18682_12
+18682_16	has_surface_form	Todd
+18682_16	part_of_entity	Reverend John Wood Todd
+18682_14	is_in_sentence	sentence_18682
+18682_14	compound	18682_16
+18682_14	has_surface_form	John
+18682_14	part_of_entity	Reverend John Wood Todd
+18682_15	is_in_sentence	sentence_18682
+18682_15	compound	18682_16
+18682_15	has_surface_form	Wood
+18682_15	part_of_entity	Reverend John Wood Todd
+18682_17	is_in_sentence	sentence_18682
+18682_17	punct	18682_4
+18682_17	has_surface_form	.
+18682_18	is_in_sentence	sentence_18682
+18682_18	dep	18682_4
+18682_18	has_surface_form	
+Maude Margaret Todd	surface_form	Maude Margaret Todd
+Maude Margaret Todd	has-parent	Reverend John Wood Todd
+Reverend John Wood Todd	surface_form	Reverend John Wood Todd

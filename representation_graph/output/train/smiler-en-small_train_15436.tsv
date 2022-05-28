@@ -1,0 +1,69 @@
+15435_0	is_in_sentence	sentence_15435
+15435_0	compound	15435_2
+15435_0	has_surface_form	Guillermo
+15435_0	part_of_entity	Guillermo Herbert Pérez
+15435_2	is_in_sentence	sentence_15435
+15435_2	nsubj	15435_9
+15435_2	has_surface_form	Pérez
+15435_2	part_of_entity	Guillermo Herbert Pérez
+15435_1	is_in_sentence	sentence_15435
+15435_1	compound	15435_2
+15435_1	has_surface_form	Herbert
+15435_1	part_of_entity	Guillermo Herbert Pérez
+15435_9	is_in_sentence	sentence_15435
+15435_9	ROOT	15435_9
+15435_9	has_surface_form	is
+15435_3	is_in_sentence	sentence_15435
+15435_3	punct	15435_2
+15435_3	has_surface_form	(
+15435_4	is_in_sentence	sentence_15435
+15435_4	acl	15435_2
+15435_4	has_surface_form	born
+15435_5	is_in_sentence	sentence_15435
+15435_5	nummod	15435_6
+15435_5	has_surface_form	10
+15435_6	is_in_sentence	sentence_15435
+15435_6	npadvmod	15435_4
+15435_6	has_surface_form	February
+15435_7	is_in_sentence	sentence_15435
+15435_7	nummod	15435_6
+15435_7	has_surface_form	1934
+15435_8	is_in_sentence	sentence_15435
+15435_8	punct	15435_2
+15435_8	has_surface_form	)
+15435_10	is_in_sentence	sentence_15435
+15435_10	det	15435_12
+15435_10	has_surface_form	a
+15435_12	is_in_sentence	sentence_15435
+15435_12	attr	15435_9
+15435_12	is_entity	politician
+15435_11	is_in_sentence	sentence_15435
+15435_11	amod	15435_12
+15435_11	has_surface_form	Mexican
+politician	surface_form	politician
+15435_13	is_in_sentence	sentence_15435
+15435_13	acl	15435_12
+15435_13	has_surface_form	affiliated
+15435_14	is_in_sentence	sentence_15435
+15435_14	prep	15435_13
+15435_14	has_surface_form	with
+15435_15	is_in_sentence	sentence_15435
+15435_15	det	15435_18
+15435_15	has_surface_form	the
+15435_18	is_in_sentence	sentence_15435
+15435_18	pobj	15435_14
+15435_18	has_surface_form	Party
+15435_16	is_in_sentence	sentence_15435
+15435_16	compound	15435_18
+15435_16	has_surface_form	National
+15435_17	is_in_sentence	sentence_15435
+15435_17	compound	15435_18
+15435_17	has_surface_form	Action
+15435_19	is_in_sentence	sentence_15435
+15435_19	punct	15435_9
+15435_19	has_surface_form	.
+15435_20	is_in_sentence	sentence_15435
+15435_20	dep	15435_9
+15435_20	has_surface_form	
+Guillermo Herbert Pérez	surface_form	Guillermo Herbert Pérez
+Guillermo Herbert Pérez	has-occupation	politician

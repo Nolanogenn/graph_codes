@@ -1,0 +1,78 @@
+33547_0	is_in_sentence	sentence_33547
+33547_0	det	33547_1
+33547_0	has_surface_form	A
+33547_0	part_of_entity	A Millionaire for Christy
+33547_1	is_in_sentence	sentence_33547
+33547_1	nsubj	33547_4
+33547_1	has_surface_form	Millionaire
+33547_1	part_of_entity	A Millionaire for Christy
+33547_4	is_in_sentence	sentence_33547
+33547_4	ROOT	33547_4
+33547_4	has_surface_form	is
+33547_2	is_in_sentence	sentence_33547
+33547_2	prep	33547_1
+33547_2	has_surface_form	for
+33547_2	part_of_entity	A Millionaire for Christy
+33547_3	is_in_sentence	sentence_33547
+33547_3	pobj	33547_2
+33547_3	has_surface_form	Christy
+33547_3	part_of_entity	A Millionaire for Christy
+33547_5	is_in_sentence	sentence_33547
+33547_5	det	33547_8
+33547_5	has_surface_form	a
+33547_8	is_in_sentence	sentence_33547
+33547_8	attr	33547_4
+33547_8	has_surface_form	film
+33547_6	is_in_sentence	sentence_33547
+33547_6	nummod	33547_8
+33547_6	has_surface_form	1951
+33547_7	is_in_sentence	sentence_33547
+33547_7	compound	33547_8
+33547_7	has_surface_form	comedy
+33547_9	is_in_sentence	sentence_33547
+33547_9	acl	33547_8
+33547_9	has_surface_form	directed
+33547_10	is_in_sentence	sentence_33547
+33547_10	agent	33547_9
+33547_10	has_surface_form	by
+33547_11	is_in_sentence	sentence_33547
+33547_11	compound	33547_12
+33547_11	has_surface_form	George
+33547_11	part_of_entity	George Marshall
+33547_12	is_in_sentence	sentence_33547
+33547_12	pobj	33547_10
+33547_12	has_surface_form	Marshall
+33547_12	part_of_entity	George Marshall
+33547_13	is_in_sentence	sentence_33547
+33547_13	punct	33547_4
+33547_13	has_surface_form	,
+33547_14	is_in_sentence	sentence_33547
+33547_14	cc	33547_4
+33547_14	has_surface_form	and
+33547_15	is_in_sentence	sentence_33547
+33547_15	conj	33547_4
+33547_15	has_surface_form	starring
+33547_16	is_in_sentence	sentence_33547
+33547_16	compound	33547_17
+33547_16	has_surface_form	Fred
+33547_17	is_in_sentence	sentence_33547
+33547_17	dobj	33547_15
+33547_17	has_surface_form	MacMurray
+33547_18	is_in_sentence	sentence_33547
+33547_18	cc	33547_17
+33547_18	has_surface_form	and
+33547_19	is_in_sentence	sentence_33547
+33547_19	compound	33547_20
+33547_19	has_surface_form	Eleanor
+33547_20	is_in_sentence	sentence_33547
+33547_20	conj	33547_17
+33547_20	has_surface_form	Parker
+33547_21	is_in_sentence	sentence_33547
+33547_21	punct	33547_4
+33547_21	has_surface_form	.
+33547_22	is_in_sentence	sentence_33547
+33547_22	dep	33547_22
+33547_22	has_surface_form	
+A Millionaire for Christy	surface_form	A Millionaire for Christy
+A Millionaire for Christy	movie-has-director	George Marshall
+George Marshall	surface_form	George Marshall

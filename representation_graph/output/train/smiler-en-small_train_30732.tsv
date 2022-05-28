@@ -1,0 +1,104 @@
+30731_0	is_in_sentence	sentence_30731
+30731_0	compound	30731_2
+30731_0	has_surface_form	Joseph
+30731_2	is_in_sentence	sentence_30731
+30731_2	nsubj	30731_12
+30731_2	has_surface_form	Zeno
+30731_2	part_of_entity	Coleman Zeno
+30731_1	is_in_sentence	sentence_30731
+30731_1	compound	30731_2
+30731_1	has_surface_form	Coleman
+30731_1	part_of_entity	Coleman Zeno
+30731_12	is_in_sentence	sentence_30731
+30731_12	ROOT	30731_12
+30731_12	has_surface_form	is
+30731_3	is_in_sentence	sentence_30731
+30731_3	punct	30731_2
+30731_3	has_surface_form	,
+30731_4	is_in_sentence	sentence_30731
+30731_4	appos	30731_2
+30731_4	has_surface_form	Jr.
+30731_5	is_in_sentence	sentence_30731
+30731_5	punct	30731_2
+30731_5	has_surface_form	(
+30731_6	is_in_sentence	sentence_30731
+30731_6	acl	30731_2
+30731_6	has_surface_form	born
+30731_7	is_in_sentence	sentence_30731
+30731_7	npadvmod	30731_6
+30731_7	has_surface_form	November
+30731_8	is_in_sentence	sentence_30731
+30731_8	nummod	30731_7
+30731_8	has_surface_form	18
+30731_9	is_in_sentence	sentence_30731
+30731_9	punct	30731_7
+30731_9	has_surface_form	,
+30731_10	is_in_sentence	sentence_30731
+30731_10	nummod	30731_7
+30731_10	has_surface_form	1946
+30731_11	is_in_sentence	sentence_30731
+30731_11	punct	30731_2
+30731_11	has_surface_form	)
+30731_13	is_in_sentence	sentence_30731
+30731_13	det	30731_18
+30731_13	has_surface_form	a
+30731_18	is_in_sentence	sentence_30731
+30731_18	attr	30731_12
+30731_18	has_surface_form	player
+30731_14	is_in_sentence	sentence_30731
+30731_14	amod	30731_18
+30731_14	has_surface_form	former
+30731_15	is_in_sentence	sentence_30731
+30731_15	amod	30731_18
+30731_15	has_surface_form	professional
+30731_16	is_in_sentence	sentence_30731
+30731_16	amod	30731_18
+30731_16	has_surface_form	American
+30731_17	is_in_sentence	sentence_30731
+30731_17	compound	30731_18
+30731_17	has_surface_form	football
+30731_19	is_in_sentence	sentence_30731
+30731_19	nsubj	30731_20
+30731_19	has_surface_form	who
+30731_20	is_in_sentence	sentence_30731
+30731_20	relcl	30731_18
+30731_20	has_surface_form	played
+30731_21	is_in_sentence	sentence_30731
+30731_21	amod	30731_22
+30731_21	has_surface_form	wide
+30731_22	is_in_sentence	sentence_30731
+30731_22	dobj	30731_20
+30731_22	has_surface_form	receiver
+30731_23	is_in_sentence	sentence_30731
+30731_23	prep	30731_20
+30731_23	has_surface_form	in
+30731_24	is_in_sentence	sentence_30731
+30731_24	pobj	30731_23
+30731_24	has_surface_form	1971
+30731_25	is_in_sentence	sentence_30731
+30731_25	prep	30731_20
+30731_25	has_surface_form	for
+30731_26	is_in_sentence	sentence_30731
+30731_26	det	30731_29
+30731_26	has_surface_form	the
+30731_29	is_in_sentence	sentence_30731
+30731_29	pobj	30731_25
+30731_29	has_surface_form	Giants
+30731_29	part_of_entity	New York Giants
+30731_27	is_in_sentence	sentence_30731
+30731_27	compound	30731_28
+30731_27	has_surface_form	New
+30731_27	part_of_entity	New York Giants
+30731_28	is_in_sentence	sentence_30731
+30731_28	compound	30731_29
+30731_28	has_surface_form	York
+30731_28	part_of_entity	New York Giants
+30731_30	is_in_sentence	sentence_30731
+30731_30	punct	30731_12
+30731_30	has_surface_form	.
+30731_31	is_in_sentence	sentence_30731
+30731_31	dep	30731_31
+30731_31	has_surface_form	
+Coleman Zeno	surface_form	Coleman Zeno
+Coleman Zeno	is-member-of	New York Giants
+New York Giants	surface_form	New York Giants

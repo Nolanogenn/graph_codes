@@ -1,0 +1,89 @@
+18312_0	is_in_sentence	sentence_18312
+18312_0	det	18312_2
+18312_0	has_surface_form	The
+18312_2	is_in_sentence	sentence_18312
+18312_2	nsubj	18312_9
+18312_2	has_surface_form	Department
+18312_2	part_of_entity	Colorado Department of Regulatory Agencies
+18312_1	is_in_sentence	sentence_18312
+18312_1	compound	18312_2
+18312_1	has_surface_form	Colorado
+18312_1	part_of_entity	Colorado Department of Regulatory Agencies
+18312_9	is_in_sentence	sentence_18312
+18312_9	ROOT	18312_9
+18312_9	has_surface_form	is
+18312_3	is_in_sentence	sentence_18312
+18312_3	prep	18312_2
+18312_3	has_surface_form	of
+18312_3	part_of_entity	Colorado Department of Regulatory Agencies
+18312_4	is_in_sentence	sentence_18312
+18312_4	compound	18312_5
+18312_4	has_surface_form	Regulatory
+18312_4	part_of_entity	Colorado Department of Regulatory Agencies
+18312_5	is_in_sentence	sentence_18312
+18312_5	pobj	18312_3
+18312_5	has_surface_form	Agencies
+18312_5	part_of_entity	Colorado Department of Regulatory Agencies
+18312_6	is_in_sentence	sentence_18312
+18312_6	punct	18312_2
+18312_6	has_surface_form	(
+18312_7	is_in_sentence	sentence_18312
+18312_7	appos	18312_2
+18312_7	has_surface_form	DORA
+18312_8	is_in_sentence	sentence_18312
+18312_8	punct	18312_2
+18312_8	has_surface_form	)
+18312_10	is_in_sentence	sentence_18312
+18312_10	det	18312_12
+18312_10	has_surface_form	the
+18312_12	is_in_sentence	sentence_18312
+18312_12	attr	18312_9
+18312_12	is_entity	department
+18312_11	is_in_sentence	sentence_18312
+18312_11	amod	18312_12
+18312_11	has_surface_form	principal
+department	surface_form	department
+18312_13	is_in_sentence	sentence_18312
+18312_13	prep	18312_12
+18312_13	has_surface_form	of
+18312_14	is_in_sentence	sentence_18312
+18312_14	det	18312_17
+18312_14	has_surface_form	the
+18312_17	is_in_sentence	sentence_18312
+18312_17	pobj	18312_13
+18312_17	has_surface_form	government
+18312_15	is_in_sentence	sentence_18312
+18312_15	compound	18312_17
+18312_15	has_surface_form	Colorado
+18312_16	is_in_sentence	sentence_18312
+18312_16	compound	18312_17
+18312_16	has_surface_form	state
+18312_18	is_in_sentence	sentence_18312
+18312_18	amod	18312_12
+18312_18	has_surface_form	responsible
+18312_19	is_in_sentence	sentence_18312
+18312_19	prep	18312_18
+18312_19	has_surface_form	for
+18312_20	is_in_sentence	sentence_18312
+18312_20	amod	18312_21
+18312_20	has_surface_form	professional
+18312_21	is_in_sentence	sentence_18312
+18312_21	pobj	18312_19
+18312_21	has_surface_form	licensing
+18312_22	is_in_sentence	sentence_18312
+18312_22	cc	18312_21
+18312_22	has_surface_form	and
+18312_23	is_in_sentence	sentence_18312
+18312_23	compound	18312_24
+18312_23	has_surface_form	consumer
+18312_24	is_in_sentence	sentence_18312
+18312_24	conj	18312_21
+18312_24	has_surface_form	protection
+18312_25	is_in_sentence	sentence_18312
+18312_25	punct	18312_9
+18312_25	has_surface_form	.
+18312_26	is_in_sentence	sentence_18312
+18312_26	dep	18312_26
+18312_26	has_surface_form	
+Colorado Department of Regulatory Agencies	surface_form	Colorado Department of Regulatory Agencies
+Colorado Department of Regulatory Agencies	has-type	department

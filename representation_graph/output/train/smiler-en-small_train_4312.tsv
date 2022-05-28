@@ -1,0 +1,97 @@
+4311_0	is_in_sentence	sentence_4311
+4311_0	compound	4311_1
+4311_0	has_surface_form	John
+4311_0	part_of_entity	John Windham
+4311_1	is_in_sentence	sentence_4311
+4311_1	nsubj	4311_9
+4311_1	has_surface_form	Windham
+4311_1	part_of_entity	John Windham
+4311_9	is_in_sentence	sentence_4311
+4311_9	ROOT	4311_9
+4311_9	has_surface_form	is
+4311_2	is_in_sentence	sentence_4311
+4311_2	punct	4311_1
+4311_2	has_surface_form	(
+4311_3	is_in_sentence	sentence_4311
+4311_3	acl	4311_1
+4311_3	has_surface_form	born
+4311_4	is_in_sentence	sentence_4311
+4311_4	npadvmod	4311_3
+4311_4	has_surface_form	June
+4311_5	is_in_sentence	sentence_4311
+4311_5	nummod	4311_4
+4311_5	has_surface_form	23
+4311_6	is_in_sentence	sentence_4311
+4311_6	punct	4311_4
+4311_6	has_surface_form	,
+4311_7	is_in_sentence	sentence_4311
+4311_7	nummod	4311_4
+4311_7	has_surface_form	1964
+4311_8	is_in_sentence	sentence_4311
+4311_8	punct	4311_1
+4311_8	has_surface_form	)
+4311_10	is_in_sentence	sentence_4311
+4311_10	det	4311_16
+4311_10	has_surface_form	the
+4311_16	is_in_sentence	sentence_4311
+4311_16	attr	4311_9
+4311_16	has_surface_form	coach
+4311_16	part_of_entity	linebackers coach
+4311_11	is_in_sentence	sentence_4311
+4311_11	amod	4311_16
+4311_11	has_surface_form	former
+4311_12	is_in_sentence	sentence_4311
+4311_12	amod	4311_13
+4311_12	has_surface_form	defensive
+4311_13	is_in_sentence	sentence_4311
+4311_13	nmod	4311_16
+4311_13	has_surface_form	coordinator
+4311_14	is_in_sentence	sentence_4311
+4311_14	cc	4311_13
+4311_14	has_surface_form	and
+4311_15	is_in_sentence	sentence_4311
+4311_15	conj	4311_13
+4311_15	has_surface_form	linebackers
+4311_15	part_of_entity	linebackers coach
+4311_17	is_in_sentence	sentence_4311
+4311_17	prep	4311_16
+4311_17	has_surface_form	for
+4311_18	is_in_sentence	sentence_4311
+4311_18	det	4311_23
+4311_18	has_surface_form	the
+4311_23	is_in_sentence	sentence_4311
+4311_23	pobj	4311_17
+4311_23	has_surface_form	team
+4311_19	is_in_sentence	sentence_4311
+4311_19	compound	4311_20
+4311_19	has_surface_form	Furman
+4311_20	is_in_sentence	sentence_4311
+4311_20	compound	4311_23
+4311_20	has_surface_form	Paladins
+4311_21	is_in_sentence	sentence_4311
+4311_21	compound	4311_22
+4311_21	has_surface_form	college
+4311_22	is_in_sentence	sentence_4311
+4311_22	compound	4311_23
+4311_22	has_surface_form	football
+4311_24	is_in_sentence	sentence_4311
+4311_24	prep	4311_23
+4311_24	has_surface_form	of
+4311_25	is_in_sentence	sentence_4311
+4311_25	det	4311_27
+4311_25	has_surface_form	the
+4311_27	is_in_sentence	sentence_4311
+4311_27	pobj	4311_24
+4311_27	has_surface_form	Conference
+4311_26	is_in_sentence	sentence_4311
+4311_26	compound	4311_27
+4311_26	has_surface_form	Southern
+4311_28	is_in_sentence	sentence_4311
+4311_28	punct	4311_9
+4311_28	has_surface_form	.
+4311_29	is_in_sentence	sentence_4311
+4311_29	dep	4311_9
+4311_29	has_surface_form	
+John Windham	surface_form	John Windham
+John Windham	has-type	linebackers coach
+linebackers coach	surface_form	linebackers coach

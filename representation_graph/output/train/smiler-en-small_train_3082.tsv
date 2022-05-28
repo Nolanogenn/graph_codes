@@ -1,0 +1,65 @@
+3081_0	is_in_sentence	sentence_3081
+3081_0	compound	3081_1
+3081_0	has_surface_form	Benji
+3081_0	part_of_entity	Benji Gregory
+3081_1	is_in_sentence	sentence_3081
+3081_1	nsubj	3081_13
+3081_1	has_surface_form	Gregory
+3081_1	part_of_entity	Benji Gregory
+3081_13	is_in_sentence	sentence_3081
+3081_13	ROOT	3081_13
+3081_13	has_surface_form	is
+3081_2	is_in_sentence	sentence_3081
+3081_2	punct	3081_1
+3081_2	has_surface_form	(
+3081_3	is_in_sentence	sentence_3081
+3081_3	amod	3081_6
+3081_3	has_surface_form	born
+3081_6	is_in_sentence	sentence_3081
+3081_6	appos	3081_1
+3081_6	has_surface_form	Hertzberg
+3081_4	is_in_sentence	sentence_3081
+3081_4	compound	3081_6
+3081_4	has_surface_form	Benjamin
+3081_5	is_in_sentence	sentence_3081
+3081_5	compound	3081_6
+3081_5	has_surface_form	Gregory
+3081_7	is_in_sentence	sentence_3081
+3081_7	punct	3081_1
+3081_7	has_surface_form	;
+3081_8	is_in_sentence	sentence_3081
+3081_8	appos	3081_1
+3081_8	has_surface_form	May
+3081_9	is_in_sentence	sentence_3081
+3081_9	nummod	3081_8
+3081_9	has_surface_form	26
+3081_10	is_in_sentence	sentence_3081
+3081_10	punct	3081_8
+3081_10	has_surface_form	,
+3081_11	is_in_sentence	sentence_3081
+3081_11	nummod	3081_8
+3081_11	has_surface_form	1978
+3081_12	is_in_sentence	sentence_3081
+3081_12	punct	3081_8
+3081_12	has_surface_form	)
+3081_14	is_in_sentence	sentence_3081
+3081_14	det	3081_17
+3081_14	has_surface_form	an
+3081_17	is_in_sentence	sentence_3081
+3081_17	attr	3081_13
+3081_17	is_entity	actor
+3081_15	is_in_sentence	sentence_3081
+3081_15	amod	3081_17
+3081_15	has_surface_form	American
+3081_16	is_in_sentence	sentence_3081
+3081_16	amod	3081_17
+3081_16	has_surface_form	former
+actor	surface_form	actor
+3081_18	is_in_sentence	sentence_3081
+3081_18	punct	3081_13
+3081_18	has_surface_form	.
+3081_19	is_in_sentence	sentence_3081
+3081_19	dep	3081_13
+3081_19	has_surface_form	
+Benji Gregory	surface_form	Benji Gregory
+Benji Gregory	has-occupation	actor

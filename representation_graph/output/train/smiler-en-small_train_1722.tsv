@@ -1,0 +1,76 @@
+1721_0	is_in_sentence	sentence_1721
+1721_0	compound	1721_1
+1721_0	has_surface_form	Justin
+1721_1	is_in_sentence	sentence_1721
+1721_1	poss	1721_3
+1721_1	has_surface_form	Wilson
+1721_3	is_in_sentence	sentence_1721
+1721_3	nsubj	1721_4
+1721_3	has_surface_form	sister
+1721_2	is_in_sentence	sentence_1721
+1721_2	case	1721_1
+1721_2	has_surface_form	's
+1721_4	is_in_sentence	sentence_1721
+1721_4	ROOT	1721_4
+1721_4	has_surface_form	was
+1721_5	is_in_sentence	sentence_1721
+1721_5	acomp	1721_4
+1721_5	has_surface_form	married
+1721_6	is_in_sentence	sentence_1721
+1721_6	prep	1721_5
+1721_6	has_surface_form	to
+1721_7	is_in_sentence	sentence_1721
+1721_7	compound	1721_10
+1721_7	has_surface_form	Bolivar
+1721_7	part_of_entity	Bolivar Edwards Kemp Jr.
+1721_10	is_in_sentence	sentence_1721
+1721_10	pobj	1721_6
+1721_10	has_surface_form	Jr.
+1721_10	part_of_entity	Bolivar Edwards Kemp Jr.
+1721_8	is_in_sentence	sentence_1721
+1721_8	compound	1721_10
+1721_8	has_surface_form	Edwards
+1721_8	part_of_entity	Bolivar Edwards Kemp Jr.
+1721_9	is_in_sentence	sentence_1721
+1721_9	compound	1721_10
+1721_9	has_surface_form	Kemp
+1721_9	part_of_entity	Bolivar Edwards Kemp Jr.
+1721_11	is_in_sentence	sentence_1721
+1721_11	punct	1721_10
+1721_11	has_surface_form	,
+1721_12	is_in_sentence	sentence_1721
+1721_12	appos	1721_10
+1721_12	has_surface_form	son
+1721_13	is_in_sentence	sentence_1721
+1721_13	prep	1721_12
+1721_13	has_surface_form	of
+1721_14	is_in_sentence	sentence_1721
+1721_14	compound	1721_16
+1721_14	has_surface_form	Bolivar
+1721_16	is_in_sentence	sentence_1721
+1721_16	pobj	1721_13
+1721_16	has_surface_form	Sr
+1721_15	is_in_sentence	sentence_1721
+1721_15	compound	1721_16
+1721_15	has_surface_form	Kemp
+1721_17	is_in_sentence	sentence_1721
+1721_17	punct	1721_4
+1721_17	has_surface_form	.
+1721_18	is_in_sentence	sentence_1721
+1721_18	cc	1721_20
+1721_18	has_surface_form	and
+1721_20	is_in_sentence	sentence_1721
+1721_20	ROOT	1721_20
+1721_20	has_surface_form	Kemp
+1721_19	is_in_sentence	sentence_1721
+1721_19	compound	1721_20
+1721_19	has_surface_form	Lallie
+1721_21	is_in_sentence	sentence_1721
+1721_21	punct	1721_20
+1721_21	has_surface_form	.
+1721_22	is_in_sentence	sentence_1721
+1721_22	dep	1721_22
+1721_22	has_surface_form	
+Bolivar Edwards Kemp Jr.	surface_form	Bolivar Edwards Kemp Jr.
+Bolivar Edwards Kemp Jr.	has-parent	Bolivar Kemp Sr.
+Bolivar Kemp Sr.	surface_form	Bolivar Kemp Sr.

@@ -1,0 +1,89 @@
+32056_0	is_in_sentence	sentence_32056
+32056_0	det	32056_3
+32056_0	has_surface_form	The
+32056_3	is_in_sentence	sentence_32056
+32056_3	nsubj	32056_4
+32056_3	has_surface_form	School
+32056_3	part_of_entity	Elton High School
+32056_1	is_in_sentence	sentence_32056
+32056_1	compound	32056_3
+32056_1	has_surface_form	Elton
+32056_1	part_of_entity	Elton High School
+32056_2	is_in_sentence	sentence_32056
+32056_2	compound	32056_3
+32056_2	has_surface_form	High
+32056_2	part_of_entity	Elton High School
+32056_4	is_in_sentence	sentence_32056
+32056_4	ROOT	32056_4
+32056_4	has_surface_form	is
+32056_5	is_in_sentence	sentence_32056
+32056_5	det	32056_8
+32056_5	has_surface_form	a
+32056_8	is_in_sentence	sentence_32056
+32056_8	attr	32056_4
+32056_8	has_surface_form	school
+32056_6	is_in_sentence	sentence_32056
+32056_6	amod	32056_8
+32056_6	has_surface_form	mixed
+32056_7	is_in_sentence	sentence_32056
+32056_7	amod	32056_8
+32056_7	has_surface_form	secondary
+32056_9	is_in_sentence	sentence_32056
+32056_9	acl	32056_8
+32056_9	has_surface_form	located
+32056_10	is_in_sentence	sentence_32056
+32056_10	prep	32056_9
+32056_10	has_surface_form	on
+32056_11	is_in_sentence	sentence_32056
+32056_11	compound	32056_12
+32056_11	has_surface_form	Walshaw
+32056_11	part_of_entity	Walshaw Road
+32056_12	is_in_sentence	sentence_32056
+32056_12	pobj	32056_10
+32056_12	has_surface_form	Road
+32056_12	part_of_entity	Walshaw Road
+32056_13	is_in_sentence	sentence_32056
+32056_13	prep	32056_9
+32056_13	has_surface_form	to
+32056_14	is_in_sentence	sentence_32056
+32056_14	det	32056_17
+32056_14	has_surface_form	the
+32056_17	is_in_sentence	sentence_32056
+32056_17	pobj	32056_13
+32056_17	has_surface_form	west
+32056_15	is_in_sentence	sentence_32056
+32056_15	compound	32056_17
+32056_15	has_surface_form	north
+32056_16	is_in_sentence	sentence_32056
+32056_16	punct	32056_17
+32056_16	has_surface_form	-
+32056_18	is_in_sentence	sentence_32056
+32056_18	prep	32056_17
+32056_18	has_surface_form	of
+32056_19	is_in_sentence	sentence_32056
+32056_19	compound	32056_21
+32056_19	has_surface_form	Bury
+32056_21	is_in_sentence	sentence_32056
+32056_21	pobj	32056_18
+32056_21	has_surface_form	centre
+32056_20	is_in_sentence	sentence_32056
+32056_20	compound	32056_21
+32056_20	has_surface_form	town
+32056_22	is_in_sentence	sentence_32056
+32056_22	prep	32056_21
+32056_22	has_surface_form	in
+32056_23	is_in_sentence	sentence_32056
+32056_23	compound	32056_24
+32056_23	has_surface_form	Greater
+32056_24	is_in_sentence	sentence_32056
+32056_24	pobj	32056_22
+32056_24	has_surface_form	Manchester
+32056_25	is_in_sentence	sentence_32056
+32056_25	punct	32056_4
+32056_25	has_surface_form	.
+32056_26	is_in_sentence	sentence_32056
+32056_26	dep	32056_26
+32056_26	has_surface_form	
+Elton High School	surface_form	Elton High School
+Elton High School	is-where	Walshaw Road
+Walshaw Road	surface_form	Walshaw Road

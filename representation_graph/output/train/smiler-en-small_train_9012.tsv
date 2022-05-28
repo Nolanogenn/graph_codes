@@ -1,0 +1,77 @@
+9011_0	is_in_sentence	sentence_9011
+9011_0	compound	9011_1
+9011_0	has_surface_form	Ammo
+9011_0	part_of_entity	Ammo Bomma
+9011_1	is_in_sentence	sentence_9011
+9011_1	ROOT	9011_1
+9011_1	has_surface_form	Bomma
+9011_1	part_of_entity	Ammo Bomma
+9011_2	is_in_sentence	sentence_9011
+9011_2	punct	9011_3
+9011_2	has_surface_form	(
+9011_3	is_in_sentence	sentence_9011
+9011_3	appos	9011_1
+9011_3	has_surface_form	English
+9011_4	is_in_sentence	sentence_9011
+9011_4	punct	9011_3
+9011_4	has_surface_form	:
+9011_5	is_in_sentence	sentence_9011
+9011_5	poss	9011_6
+9011_5	has_surface_form	My
+9011_6	is_in_sentence	sentence_9011
+9011_6	appos	9011_3
+9011_6	has_surface_form	God
+9011_7	is_in_sentence	sentence_9011
+9011_7	punct	9011_1
+9011_7	has_surface_form	!
+9011_8	is_in_sentence	sentence_9011
+9011_8	nsubj	9011_11
+9011_8	has_surface_form	Toy
+9011_11	is_in_sentence	sentence_9011
+9011_11	ROOT	9011_11
+9011_11	has_surface_form	is
+9011_9	is_in_sentence	sentence_9011
+9011_9	punct	9011_8
+9011_9	has_surface_form	!
+9011_10	is_in_sentence	sentence_9011
+9011_10	punct	9011_8
+9011_10	has_surface_form	)
+9011_12	is_in_sentence	sentence_9011
+9011_12	det	9011_17
+9011_12	has_surface_form	a
+9011_17	is_in_sentence	sentence_9011
+9011_17	attr	9011_11
+9011_17	has_surface_form	film
+9011_17	part_of_entity	horror comedy film
+9011_13	is_in_sentence	sentence_9011
+9011_13	nummod	9011_17
+9011_13	has_surface_form	2001
+9011_14	is_in_sentence	sentence_9011
+9011_14	compound	9011_15
+9011_14	has_surface_form	Telugu
+9011_15	is_in_sentence	sentence_9011
+9011_15	compound	9011_17
+9011_15	has_surface_form	horror
+9011_15	part_of_entity	horror comedy film
+9011_16	is_in_sentence	sentence_9011
+9011_16	compound	9011_17
+9011_16	has_surface_form	comedy
+9011_16	part_of_entity	horror comedy film
+9011_18	is_in_sentence	sentence_9011
+9011_18	punct	9011_17
+9011_18	has_surface_form	,
+9011_19	is_in_sentence	sentence_9011
+9011_19	acl	9011_17
+9011_19	has_surface_form	produced
+9011_20	is_in_sentence	sentence_9011
+9011_20	agent	9011_19
+9011_20	has_surface_form	by
+9011_21	is_in_sentence	sentence_9011
+9011_21	pobj	9011_20
+9011_21	has_surface_form	D.
+9011_22	is_in_sentence	sentence_9011
+9011_22	dep	9011_11
+9011_22	has_surface_form	
+Ammo Bomma	surface_form	Ammo Bomma
+Ammo Bomma	has-type	horror comedy film
+horror comedy film	surface_form	horror comedy film

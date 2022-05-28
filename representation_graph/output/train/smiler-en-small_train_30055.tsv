@@ -1,0 +1,79 @@
+30054_0	is_in_sentence	sentence_30054
+30054_0	compound	30054_1
+30054_0	has_surface_form	Necessary
+30054_0	part_of_entity	Necessary Love
+30054_1	is_in_sentence	sentence_30054
+30054_1	nsubj	30054_8
+30054_1	has_surface_form	Love
+30054_1	part_of_entity	Necessary Love
+30054_8	is_in_sentence	sentence_30054
+30054_8	ROOT	30054_8
+30054_8	has_surface_form	is
+30054_2	is_in_sentence	sentence_30054
+30054_2	punct	30054_6
+30054_2	has_surface_form	(
+30054_6	is_in_sentence	sentence_30054
+30054_6	appos	30054_1
+30054_6	has_surface_form	necessario
+30054_3	is_in_sentence	sentence_30054
+30054_3	amod	30054_5
+30054_3	has_surface_form	Italian
+30054_5	is_in_sentence	sentence_30054
+30054_5	compound	30054_6
+30054_5	has_surface_form	L'amore
+30054_4	is_in_sentence	sentence_30054
+30054_4	punct	30054_5
+30054_4	has_surface_form	:
+30054_7	is_in_sentence	sentence_30054
+30054_7	punct	30054_1
+30054_7	has_surface_form	)
+30054_9	is_in_sentence	sentence_30054
+30054_9	det	30054_15
+30054_9	has_surface_form	a
+30054_15	is_in_sentence	sentence_30054
+30054_15	attr	30054_8
+30054_15	has_surface_form	film
+30054_10	is_in_sentence	sentence_30054
+30054_10	nummod	30054_15
+30054_10	has_surface_form	1991
+30054_11	is_in_sentence	sentence_30054
+30054_11	amod	30054_15
+30054_11	has_surface_form	Italian
+30054_12	is_in_sentence	sentence_30054
+30054_12	compound	30054_14
+30054_12	has_surface_form	comedy
+30054_14	is_in_sentence	sentence_30054
+30054_14	compound	30054_15
+30054_14	has_surface_form	drama
+30054_13	is_in_sentence	sentence_30054
+30054_13	punct	30054_14
+30054_13	has_surface_form	-
+30054_16	is_in_sentence	sentence_30054
+30054_16	acl	30054_15
+30054_16	has_surface_form	written
+30054_17	is_in_sentence	sentence_30054
+30054_17	cc	30054_16
+30054_17	has_surface_form	and
+30054_18	is_in_sentence	sentence_30054
+30054_18	conj	30054_16
+30054_18	has_surface_form	directed
+30054_19	is_in_sentence	sentence_30054
+30054_19	agent	30054_18
+30054_19	has_surface_form	by
+30054_20	is_in_sentence	sentence_30054
+30054_20	compound	30054_21
+30054_20	has_surface_form	Fabio
+30054_20	part_of_entity	Fabio Carpi
+30054_21	is_in_sentence	sentence_30054
+30054_21	pobj	30054_19
+30054_21	has_surface_form	Carpi
+30054_21	part_of_entity	Fabio Carpi
+30054_22	is_in_sentence	sentence_30054
+30054_22	punct	30054_8
+30054_22	has_surface_form	.
+30054_23	is_in_sentence	sentence_30054
+30054_23	dep	30054_8
+30054_23	has_surface_form	
+Necessary Love	surface_form	Necessary Love
+Necessary Love	movie-has-director	Fabio Carpi
+Fabio Carpi	surface_form	Fabio Carpi

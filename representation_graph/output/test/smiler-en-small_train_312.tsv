@@ -1,0 +1,92 @@
+311_0	is_in_sentence	sentence_311
+311_0	compound	311_1
+311_0	has_surface_form	Susan
+311_0	part_of_entity	Susan Voelz
+311_1	is_in_sentence	sentence_311
+311_1	nsubj	311_8
+311_1	has_surface_form	Voelz
+311_1	part_of_entity	Susan Voelz
+311_8	is_in_sentence	sentence_311
+311_8	ROOT	311_8
+311_8	has_surface_form	is
+311_2	is_in_sentence	sentence_311
+311_2	punct	311_1
+311_2	has_surface_form	(
+311_3	is_in_sentence	sentence_311
+311_3	amod	311_6
+311_3	has_surface_form	born
+311_6	is_in_sentence	sentence_311
+311_6	appos	311_1
+311_6	has_surface_form	Voelz
+311_4	is_in_sentence	sentence_311
+311_4	compound	311_5
+311_4	has_surface_form	Susana
+311_5	is_in_sentence	sentence_311
+311_5	compound	311_6
+311_5	has_surface_form	Maria
+311_7	is_in_sentence	sentence_311
+311_7	punct	311_1
+311_7	has_surface_form	)
+311_9	is_in_sentence	sentence_311
+311_9	det	311_11
+311_9	has_surface_form	an
+311_11	is_in_sentence	sentence_311
+311_11	attr	311_8
+311_11	has_surface_form	musician
+311_10	is_in_sentence	sentence_311
+311_10	amod	311_11
+311_10	has_surface_form	American
+311_12	is_in_sentence	sentence_311
+311_12	punct	311_8
+311_12	has_surface_form	.
+311_13	is_in_sentence	sentence_311
+311_13	nsubj	311_14
+311_13	has_surface_form	She
+311_14	is_in_sentence	sentence_311
+311_14	ROOT	311_14
+311_14	has_surface_form	is
+311_15	is_in_sentence	sentence_311
+311_15	det	311_16
+311_15	has_surface_form	a
+311_16	is_in_sentence	sentence_311
+311_16	attr	311_14
+311_16	has_surface_form	member
+311_17	is_in_sentence	sentence_311
+311_17	prep	311_16
+311_17	has_surface_form	of
+311_18	is_in_sentence	sentence_311
+311_18	det	311_21
+311_18	has_surface_form	the
+311_21	is_in_sentence	sentence_311
+311_21	pobj	311_17
+311_21	has_surface_form	band
+311_19	is_in_sentence	sentence_311
+311_19	amod	311_21
+311_19	has_surface_form	alternative
+311_20	is_in_sentence	sentence_311
+311_20	compound	311_21
+311_20	has_surface_form	rock
+311_22	is_in_sentence	sentence_311
+311_22	punct	311_16
+311_22	has_surface_form	,
+311_23	is_in_sentence	sentence_311
+311_23	compound	311_24
+311_23	has_surface_form	Poi
+311_23	part_of_entity	Poi Dog Pondering
+311_24	is_in_sentence	sentence_311
+311_24	compound	311_25
+311_24	has_surface_form	Dog
+311_24	part_of_entity	Poi Dog Pondering
+311_25	is_in_sentence	sentence_311
+311_25	appos	311_16
+311_25	has_surface_form	Pondering
+311_25	part_of_entity	Poi Dog Pondering
+311_26	is_in_sentence	sentence_311
+311_26	punct	311_14
+311_26	has_surface_form	.
+311_27	is_in_sentence	sentence_311
+311_27	dep	311_14
+311_27	has_surface_form	
+Susan Voelz	surface_form	Susan Voelz
+Susan Voelz	is-member-of	Poi Dog Pondering
+Poi Dog Pondering	surface_form	Poi Dog Pondering

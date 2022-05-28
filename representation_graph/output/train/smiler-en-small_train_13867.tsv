@@ -1,0 +1,66 @@
+13866_0	is_in_sentence	sentence_13866
+13866_0	nsubj	13866_1
+13866_0	has_surface_form	She
+13866_0	part_of_entity	She Goes to War
+13866_1	is_in_sentence	sentence_13866
+13866_1	ROOT	13866_1
+13866_1	has_surface_form	Goes
+13866_1	part_of_entity	She Goes to War
+13866_2	is_in_sentence	sentence_13866
+13866_2	prep	13866_1
+13866_2	has_surface_form	to
+13866_2	part_of_entity	She Goes to War
+13866_3	is_in_sentence	sentence_13866
+13866_3	pobj	13866_2
+13866_3	has_surface_form	War
+13866_3	part_of_entity	She Goes to War
+13866_4	is_in_sentence	sentence_13866
+13866_4	ccomp	13866_1
+13866_4	has_surface_form	is
+13866_5	is_in_sentence	sentence_13866
+13866_5	det	13866_8
+13866_5	has_surface_form	a
+13866_8	is_in_sentence	sentence_13866
+13866_8	attr	13866_4
+13866_8	has_surface_form	film
+13866_6	is_in_sentence	sentence_13866
+13866_6	nummod	13866_8
+13866_6	has_surface_form	1929
+13866_7	is_in_sentence	sentence_13866
+13866_7	amod	13866_8
+13866_7	has_surface_form	silent
+13866_9	is_in_sentence	sentence_13866
+13866_9	acl	13866_8
+13866_9	has_surface_form	directed
+13866_10	is_in_sentence	sentence_13866
+13866_10	agent	13866_9
+13866_10	has_surface_form	by
+13866_11	is_in_sentence	sentence_13866
+13866_11	compound	13866_12
+13866_11	has_surface_form	Henry
+13866_11	part_of_entity	Henry King
+13866_12	is_in_sentence	sentence_13866
+13866_12	pobj	13866_10
+13866_12	has_surface_form	King
+13866_12	part_of_entity	Henry King
+13866_13	is_in_sentence	sentence_13866
+13866_13	cc	13866_9
+13866_13	has_surface_form	and
+13866_14	is_in_sentence	sentence_13866
+13866_14	conj	13866_9
+13866_14	has_surface_form	starring
+13866_15	is_in_sentence	sentence_13866
+13866_15	compound	13866_16
+13866_15	has_surface_form	Eleanor
+13866_16	is_in_sentence	sentence_13866
+13866_16	dobj	13866_14
+13866_16	has_surface_form	Boardman
+13866_17	is_in_sentence	sentence_13866
+13866_17	punct	13866_1
+13866_17	has_surface_form	.
+13866_18	is_in_sentence	sentence_13866
+13866_18	dep	13866_1
+13866_18	has_surface_form	
+She Goes to War	surface_form	She Goes to War
+She Goes to War	movie-has-director	Henry King
+Henry King	surface_form	Henry King

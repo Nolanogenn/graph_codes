@@ -1,0 +1,49 @@
+28447_0	is_in_sentence	sentence_28447
+28447_0	compound	28447_1
+28447_0	has_surface_form	Lina
+28447_0	part_of_entity	Lina Pizzolongo
+28447_1	is_in_sentence	sentence_28447
+28447_1	nsubj	28447_2
+28447_1	has_surface_form	Pizzolongo
+28447_1	part_of_entity	Lina Pizzolongo
+28447_2	is_in_sentence	sentence_28447
+28447_2	ROOT	28447_2
+28447_2	has_surface_form	was
+28447_3	is_in_sentence	sentence_28447
+28447_3	det	28447_4
+28447_3	has_surface_form	the
+28447_4	is_in_sentence	sentence_28447
+28447_4	attr	28447_2
+28447_4	has_surface_form	mother
+28447_5	is_in_sentence	sentence_28447
+28447_5	prep	28447_4
+28447_5	has_surface_form	of
+28447_6	is_in_sentence	sentence_28447
+28447_6	compound	28447_7
+28447_6	has_surface_form	Gino
+28447_6	part_of_entity	Gino Quilico
+28447_7	is_in_sentence	sentence_28447
+28447_7	pobj	28447_5
+28447_7	has_surface_form	Quilico
+28447_7	part_of_entity	Gino Quilico
+28447_8	is_in_sentence	sentence_28447
+28447_8	cc	28447_7
+28447_8	has_surface_form	and
+28447_9	is_in_sentence	sentence_28447
+28447_9	compound	28447_11
+28447_9	has_surface_form	daughter
+28447_11	is_in_sentence	sentence_28447
+28447_11	conj	28447_7
+28447_11	has_surface_form	Quilico
+28447_10	is_in_sentence	sentence_28447
+28447_10	compound	28447_11
+28447_10	has_surface_form	Donna
+28447_12	is_in_sentence	sentence_28447
+28447_12	punct	28447_2
+28447_12	has_surface_form	.
+28447_13	is_in_sentence	sentence_28447
+28447_13	dep	28447_13
+28447_13	has_surface_form	
+Lina Pizzolongo	surface_form	Lina Pizzolongo
+Lina Pizzolongo	has-child	Gino Quilico
+Gino Quilico	surface_form	Gino Quilico

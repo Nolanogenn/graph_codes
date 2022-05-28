@@ -1,0 +1,124 @@
+30380_0	is_in_sentence	sentence_30380
+30380_0	nsubj	30380_12
+30380_0	has_surface_form	Law
+30380_0	part_of_entity	Law of the Streets
+30380_12	is_in_sentence	sentence_30380
+30380_12	ROOT	30380_12
+30380_12	has_surface_form	is
+30380_1	is_in_sentence	sentence_30380
+30380_1	prep	30380_0
+30380_1	has_surface_form	of
+30380_1	part_of_entity	Law of the Streets
+30380_2	is_in_sentence	sentence_30380
+30380_2	det	30380_3
+30380_2	has_surface_form	the
+30380_2	part_of_entity	Law of the Streets
+30380_3	is_in_sentence	sentence_30380
+30380_3	pobj	30380_1
+30380_3	has_surface_form	Streets
+30380_3	part_of_entity	Law of the Streets
+30380_4	is_in_sentence	sentence_30380
+30380_4	punct	30380_5
+30380_4	has_surface_form	(
+30380_5	is_in_sentence	sentence_30380
+30380_5	appos	30380_0
+30380_5	has_surface_form	French
+30380_6	is_in_sentence	sentence_30380
+30380_6	punct	30380_5
+30380_6	has_surface_form	:
+30380_7	is_in_sentence	sentence_30380
+30380_7	compound	30380_10
+30380_7	has_surface_form	La
+30380_10	is_in_sentence	sentence_30380
+30380_10	appos	30380_5
+30380_10	has_surface_form	rues
+30380_8	is_in_sentence	sentence_30380
+30380_8	compound	30380_10
+30380_8	has_surface_form	Loi
+30380_9	is_in_sentence	sentence_30380
+30380_9	compound	30380_10
+30380_9	has_surface_form	des
+30380_11	is_in_sentence	sentence_30380
+30380_11	punct	30380_5
+30380_11	has_surface_form	)
+30380_13	is_in_sentence	sentence_30380
+30380_13	det	30380_16
+30380_13	has_surface_form	a
+30380_16	is_in_sentence	sentence_30380
+30380_16	attr	30380_12
+30380_16	has_surface_form	film
+30380_14	is_in_sentence	sentence_30380
+30380_14	amod	30380_16
+30380_14	has_surface_form	French
+30380_15	is_in_sentence	sentence_30380
+30380_15	compound	30380_16
+30380_15	has_surface_form	drama
+30380_17	is_in_sentence	sentence_30380
+30380_17	prep	30380_16
+30380_17	has_surface_form	from
+30380_18	is_in_sentence	sentence_30380
+30380_18	pobj	30380_17
+30380_18	has_surface_form	1956
+30380_19	is_in_sentence	sentence_30380
+30380_19	acl	30380_18
+30380_19	has_surface_form	directed
+30380_20	is_in_sentence	sentence_30380
+30380_20	agent	30380_19
+30380_20	has_surface_form	by
+30380_21	is_in_sentence	sentence_30380
+30380_21	compound	30380_22
+30380_21	has_surface_form	Ralph
+30380_22	is_in_sentence	sentence_30380
+30380_22	pobj	30380_20
+30380_22	has_surface_form	Habib
+30380_23	is_in_sentence	sentence_30380
+30380_23	punct	30380_22
+30380_23	has_surface_form	,
+30380_24	is_in_sentence	sentence_30380
+30380_24	acl	30380_22
+30380_24	has_surface_form	written
+30380_25	is_in_sentence	sentence_30380
+30380_25	agent	30380_24
+30380_25	has_surface_form	by
+30380_26	is_in_sentence	sentence_30380
+30380_26	compound	30380_27
+30380_26	has_surface_form	Jean
+30380_27	is_in_sentence	sentence_30380
+30380_27	pobj	30380_25
+30380_27	has_surface_form	Ferry
+30380_28	is_in_sentence	sentence_30380
+30380_28	cc	30380_24
+30380_28	has_surface_form	and
+30380_29	is_in_sentence	sentence_30380
+30380_29	conj	30380_24
+30380_29	has_surface_form	starring
+30380_30	is_in_sentence	sentence_30380
+30380_30	compound	30380_31
+30380_30	has_surface_form	Raymond
+30380_31	is_in_sentence	sentence_30380
+30380_31	dobj	30380_29
+30380_31	has_surface_form	Pellegrin
+30380_32	is_in_sentence	sentence_30380
+30380_32	cc	30380_31
+30380_32	has_surface_form	and
+30380_33	is_in_sentence	sentence_30380
+30380_33	compound	30380_35
+30380_33	has_surface_form	Louis
+30380_33	part_of_entity	Louis de Funès
+30380_35	is_in_sentence	sentence_30380
+30380_35	conj	30380_31
+30380_35	has_surface_form	Funès
+30380_35	part_of_entity	Louis de Funès
+30380_34	is_in_sentence	sentence_30380
+30380_34	compound	30380_35
+30380_34	has_surface_form	de
+30380_34	part_of_entity	Louis de Funès
+30380_36	is_in_sentence	sentence_30380
+30380_36	punct	30380_12
+30380_36	has_surface_form	.
+30380_37	is_in_sentence	sentence_30380
+30380_37	dep	30380_37
+30380_37	has_surface_form	
+Law of the Streets	surface_form	Law of the Streets
+Law of the Streets	starring	Louis de Funès
+Louis de Funès	surface_form	Louis de Funès

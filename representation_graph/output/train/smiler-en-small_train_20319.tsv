@@ -1,0 +1,65 @@
+20318_0	is_in_sentence	sentence_20318
+20318_0	compound	20318_1
+20318_0	has_surface_form	Andrea
+20318_0	part_of_entity	Andrea Hairston
+20318_1	is_in_sentence	sentence_20318
+20318_1	nsubj	20318_6
+20318_1	has_surface_form	Hairston
+20318_1	part_of_entity	Andrea Hairston
+20318_6	is_in_sentence	sentence_20318
+20318_6	ROOT	20318_6
+20318_6	has_surface_form	is
+20318_2	is_in_sentence	sentence_20318
+20318_2	punct	20318_3
+20318_2	has_surface_form	(
+20318_3	is_in_sentence	sentence_20318
+20318_3	parataxis	20318_1
+20318_3	has_surface_form	born
+20318_4	is_in_sentence	sentence_20318
+20318_4	npadvmod	20318_3
+20318_4	has_surface_form	1952
+20318_5	is_in_sentence	sentence_20318
+20318_5	punct	20318_3
+20318_5	has_surface_form	)
+20318_7	is_in_sentence	sentence_20318
+20318_7	det	20318_12
+20318_7	has_surface_form	an
+20318_12	is_in_sentence	sentence_20318
+20318_12	attr	20318_6
+20318_12	has_surface_form	fiction
+20318_8	is_in_sentence	sentence_20318
+20318_8	amod	20318_10
+20318_8	has_surface_form	African
+20318_10	is_in_sentence	sentence_20318
+20318_10	amod	20318_12
+20318_10	has_surface_form	American
+20318_9	is_in_sentence	sentence_20318
+20318_9	punct	20318_10
+20318_9	has_surface_form	-
+20318_11	is_in_sentence	sentence_20318
+20318_11	compound	20318_12
+20318_11	has_surface_form	science
+20318_13	is_in_sentence	sentence_20318
+20318_13	cc	20318_12
+20318_13	has_surface_form	and
+20318_14	is_in_sentence	sentence_20318
+20318_14	compound	20318_15
+20318_14	has_surface_form	fantasy
+20318_15	is_in_sentence	sentence_20318
+20318_15	conj	20318_12
+20318_15	is_entity	playwright
+playwright	surface_form	playwright
+20318_16	is_in_sentence	sentence_20318
+20318_16	cc	20318_15
+20318_16	has_surface_form	and
+20318_17	is_in_sentence	sentence_20318
+20318_17	conj	20318_15
+20318_17	has_surface_form	novelist
+20318_18	is_in_sentence	sentence_20318
+20318_18	punct	20318_6
+20318_18	has_surface_form	.
+20318_19	is_in_sentence	sentence_20318
+20318_19	dep	20318_6
+20318_19	has_surface_form	
+Andrea Hairston	surface_form	Andrea Hairston
+Andrea Hairston	has-occupation	playwright

@@ -1,0 +1,94 @@
+3001_0	is_in_sentence	sentence_3001
+3001_0	compound	3001_1
+3001_0	has_surface_form	Gravelle
+3001_0	part_of_entity	Gravelle Craig
+3001_1	is_in_sentence	sentence_3001
+3001_1	nsubj	3001_9
+3001_1	has_surface_form	Craig
+3001_1	part_of_entity	Gravelle Craig
+3001_9	is_in_sentence	sentence_3001
+3001_9	ROOT	3001_9
+3001_9	has_surface_form	is
+3001_2	is_in_sentence	sentence_3001
+3001_2	punct	3001_1
+3001_2	has_surface_form	(
+3001_3	is_in_sentence	sentence_3001
+3001_3	acl	3001_1
+3001_3	has_surface_form	born
+3001_4	is_in_sentence	sentence_3001
+3001_4	npadvmod	3001_3
+3001_4	has_surface_form	June
+3001_5	is_in_sentence	sentence_3001
+3001_5	nummod	3001_4
+3001_5	has_surface_form	10
+3001_6	is_in_sentence	sentence_3001
+3001_6	punct	3001_4
+3001_6	has_surface_form	,
+3001_7	is_in_sentence	sentence_3001
+3001_7	nummod	3001_4
+3001_7	has_surface_form	1970
+3001_8	is_in_sentence	sentence_3001
+3001_8	punct	3001_1
+3001_8	has_surface_form	)
+3001_10	is_in_sentence	sentence_3001
+3001_10	det	3001_13
+3001_10	has_surface_form	a
+3001_13	is_in_sentence	sentence_3001
+3001_13	attr	3001_9
+3001_13	has_surface_form	coach
+3001_13	part_of_entity	basketball coach
+3001_11	is_in_sentence	sentence_3001
+3001_11	compound	3001_12
+3001_11	has_surface_form	college
+3001_12	is_in_sentence	sentence_3001
+3001_12	compound	3001_13
+3001_12	has_surface_form	basketball
+3001_12	part_of_entity	basketball coach
+3001_14	is_in_sentence	sentence_3001
+3001_14	punct	3001_13
+3001_14	has_surface_form	,
+3001_15	is_in_sentence	sentence_3001
+3001_15	advmod	3001_16
+3001_15	has_surface_form	last
+3001_16	is_in_sentence	sentence_3001
+3001_16	relcl	3001_13
+3001_16	has_surface_form	serving
+3001_17	is_in_sentence	sentence_3001
+3001_17	prep	3001_16
+3001_17	has_surface_form	as
+3001_18	is_in_sentence	sentence_3001
+3001_18	det	3001_19
+3001_18	has_surface_form	an
+3001_19	is_in_sentence	sentence_3001
+3001_19	pobj	3001_17
+3001_19	has_surface_form	assistant
+3001_20	is_in_sentence	sentence_3001
+3001_20	prep	3001_19
+3001_20	has_surface_form	at
+3001_21	is_in_sentence	sentence_3001
+3001_21	compound	3001_22
+3001_21	has_surface_form	Stetson
+3001_22	is_in_sentence	sentence_3001
+3001_22	pobj	3001_20
+3001_22	has_surface_form	University
+3001_23	is_in_sentence	sentence_3001
+3001_23	prep	3001_22
+3001_23	has_surface_form	in
+3001_24	is_in_sentence	sentence_3001
+3001_24	pobj	3001_23
+3001_24	has_surface_form	DeLand
+3001_25	is_in_sentence	sentence_3001
+3001_25	punct	3001_24
+3001_25	has_surface_form	,
+3001_26	is_in_sentence	sentence_3001
+3001_26	npadvmod	3001_24
+3001_26	has_surface_form	Florida
+3001_27	is_in_sentence	sentence_3001
+3001_27	punct	3001_9
+3001_27	has_surface_form	.
+3001_28	is_in_sentence	sentence_3001
+3001_28	dep	3001_9
+3001_28	has_surface_form	
+Gravelle Craig	surface_form	Gravelle Craig
+Gravelle Craig	has-type	basketball coach
+basketball coach	surface_form	basketball coach

@@ -1,0 +1,64 @@
+10101_0	is_in_sentence	sentence_10101
+10101_0	compound	10101_1
+10101_0	has_surface_form	Nippu
+10101_0	part_of_entity	Nippu Ravva
+10101_1	is_in_sentence	sentence_10101
+10101_1	nsubj	10101_8
+10101_1	has_surface_form	Ravva
+10101_1	part_of_entity	Nippu Ravva
+10101_8	is_in_sentence	sentence_10101
+10101_8	ROOT	10101_8
+10101_8	has_surface_form	is
+10101_2	is_in_sentence	sentence_10101
+10101_2	punct	10101_3
+10101_2	has_surface_form	(
+10101_3	is_in_sentence	sentence_10101
+10101_3	appos	10101_1
+10101_3	has_surface_form	English
+10101_4	is_in_sentence	sentence_10101
+10101_4	punct	10101_3
+10101_4	has_surface_form	:
+10101_5	is_in_sentence	sentence_10101
+10101_5	compound	10101_6
+10101_5	has_surface_form	Fire
+10101_6	is_in_sentence	sentence_10101
+10101_6	appos	10101_3
+10101_6	has_surface_form	Spark
+10101_7	is_in_sentence	sentence_10101
+10101_7	punct	10101_3
+10101_7	has_surface_form	)
+10101_9	is_in_sentence	sentence_10101
+10101_9	det	10101_13
+10101_9	has_surface_form	a
+10101_13	is_in_sentence	sentence_10101
+10101_13	attr	10101_8
+10101_13	has_surface_form	film
+10101_13	part_of_entity	action film
+10101_10	is_in_sentence	sentence_10101
+10101_10	nummod	10101_13
+10101_10	has_surface_form	1993
+10101_11	is_in_sentence	sentence_10101
+10101_11	compound	10101_12
+10101_11	has_surface_form	Telugu
+10101_12	is_in_sentence	sentence_10101
+10101_12	compound	10101_13
+10101_12	has_surface_form	action
+10101_12	part_of_entity	action film
+10101_14	is_in_sentence	sentence_10101
+10101_14	punct	10101_13
+10101_14	has_surface_form	,
+10101_15	is_in_sentence	sentence_10101
+10101_15	acl	10101_13
+10101_15	has_surface_form	produced
+10101_16	is_in_sentence	sentence_10101
+10101_16	agent	10101_15
+10101_16	has_surface_form	by
+10101_17	is_in_sentence	sentence_10101
+10101_17	compound	10101_18
+10101_17	has_surface_form	M.
+10101_18	is_in_sentence	sentence_10101
+10101_18	dep	10101_16
+10101_18	has_surface_form	
+Nippu Ravva	surface_form	Nippu Ravva
+Nippu Ravva	has-type	action film
+action film	surface_form	action film

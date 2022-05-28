@@ -1,0 +1,79 @@
+33310_0	is_in_sentence	sentence_33310
+33310_0	compound	33310_1
+33310_0	has_surface_form	AZ
+33310_0	part_of_entity	AZ Groeninge
+33310_1	is_in_sentence	sentence_33310
+33310_1	nsubj	33310_2
+33310_1	has_surface_form	Groeninge
+33310_1	part_of_entity	AZ Groeninge
+33310_2	is_in_sentence	sentence_33310
+33310_2	ROOT	33310_2
+33310_2	has_surface_form	is
+33310_3	is_in_sentence	sentence_33310
+33310_3	det	33310_6
+33310_3	has_surface_form	a
+33310_6	is_in_sentence	sentence_33310
+33310_6	attr	33310_2
+33310_6	has_surface_form	hospital
+33310_6	part_of_entity	teaching hospital
+33310_4	is_in_sentence	sentence_33310
+33310_4	amod	33310_6
+33310_4	has_surface_form	large
+33310_5	is_in_sentence	sentence_33310
+33310_5	compound	33310_6
+33310_5	has_surface_form	teaching
+33310_5	part_of_entity	teaching hospital
+33310_7	is_in_sentence	sentence_33310
+33310_7	punct	33310_6
+33310_7	has_surface_form	,
+33310_8	is_in_sentence	sentence_33310
+33310_8	acl	33310_6
+33310_8	has_surface_form	affiliated
+33310_9	is_in_sentence	sentence_33310
+33310_9	prep	33310_8
+33310_9	has_surface_form	with
+33310_10	is_in_sentence	sentence_33310
+33310_10	det	33310_15
+33310_10	has_surface_form	the
+33310_15	is_in_sentence	sentence_33310
+33310_15	pobj	33310_9
+33310_15	has_surface_form	network
+33310_11	is_in_sentence	sentence_33310
+33310_11	compound	33310_12
+33310_11	has_surface_form	Flemish
+33310_12	is_in_sentence	sentence_33310
+33310_12	compound	33310_14
+33310_12	has_surface_form	KU
+33310_14	is_in_sentence	sentence_33310
+33310_14	compound	33310_15
+33310_14	has_surface_form	Hospital
+33310_13	is_in_sentence	sentence_33310
+33310_13	compound	33310_14
+33310_13	has_surface_form	Leuven
+33310_16	is_in_sentence	sentence_33310
+33310_16	punct	33310_6
+33310_16	has_surface_form	,
+33310_17	is_in_sentence	sentence_33310
+33310_17	prep	33310_6
+33310_17	has_surface_form	in
+33310_18	is_in_sentence	sentence_33310
+33310_18	det	33310_20
+33310_18	has_surface_form	the
+33310_20	is_in_sentence	sentence_33310
+33310_20	pobj	33310_17
+33310_20	has_surface_form	city
+33310_19	is_in_sentence	sentence_33310
+33310_19	amod	33310_20
+33310_19	has_surface_form	Belgian
+33310_21	is_in_sentence	sentence_33310
+33310_21	appos	33310_20
+33310_21	has_surface_form	Kortrijk
+33310_22	is_in_sentence	sentence_33310
+33310_22	punct	33310_2
+33310_22	has_surface_form	.
+33310_23	is_in_sentence	sentence_33310
+33310_23	dep	33310_2
+33310_23	has_surface_form	
+AZ Groeninge	surface_form	AZ Groeninge
+AZ Groeninge	has-type	teaching hospital
+teaching hospital	surface_form	teaching hospital

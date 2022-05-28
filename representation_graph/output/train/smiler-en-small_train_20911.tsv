@@ -1,0 +1,40 @@
+20910_0	is_in_sentence	sentence_20910
+20910_0	amod	20910_1
+20910_0	has_surface_form	Stadtallendorf
+20910_0	part_of_entity	Stadtallendorf station
+20910_1	is_in_sentence	sentence_20910
+20910_1	nsubj	20910_2
+20910_1	has_surface_form	station
+20910_1	part_of_entity	Stadtallendorf station
+20910_2	is_in_sentence	sentence_20910
+20910_2	ROOT	20910_2
+20910_2	has_surface_form	is
+20910_3	is_in_sentence	sentence_20910
+20910_3	det	20910_5
+20910_3	has_surface_form	a
+20910_5	is_in_sentence	sentence_20910
+20910_5	attr	20910_2
+20910_5	has_surface_form	station
+20910_5	part_of_entity	through station
+20910_4	is_in_sentence	sentence_20910
+20910_4	amod	20910_5
+20910_4	has_surface_form	through
+20910_4	part_of_entity	through station
+20910_6	is_in_sentence	sentence_20910
+20910_6	prep	20910_5
+20910_6	has_surface_form	at
+20910_7	is_in_sentence	sentence_20910
+20910_7	det	20910_8
+20910_7	has_surface_form	the
+20910_8	is_in_sentence	sentence_20910
+20910_8	pobj	20910_6
+20910_8	has_surface_form	82
+20910_9	is_in_sentence	sentence_20910
+20910_9	punct	20910_2
+20910_9	has_surface_form	.
+20910_10	is_in_sentence	sentence_20910
+20910_10	dep	20910_2
+20910_10	has_surface_form	
+Stadtallendorf station	surface_form	Stadtallendorf station
+Stadtallendorf station	has-type	through station
+through station	surface_form	through station

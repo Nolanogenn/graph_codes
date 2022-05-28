@@ -1,0 +1,72 @@
+31786_0	is_in_sentence	sentence_31786
+31786_0	poss	31786_2
+31786_0	is_entity	Keynes
+31786_2	is_in_sentence	sentence_31786
+31786_2	nsubj	31786_11
+31786_2	has_surface_form	brother
+Keynes	surface_form	Keynes
+Keynes	has-sibling	Sir Geoffrey Keynes
+31786_1	is_in_sentence	sentence_31786
+31786_1	case	31786_0
+31786_1	has_surface_form	's
+31786_11	is_in_sentence	sentence_31786
+31786_11	ROOT	31786_11
+31786_11	has_surface_form	was
+31786_3	is_in_sentence	sentence_31786
+31786_3	compound	31786_5
+31786_3	has_surface_form	Sir
+31786_3	part_of_entity	Sir Geoffrey Keynes
+31786_5	is_in_sentence	sentence_31786
+31786_5	appos	31786_2
+31786_5	is_entity	Keynes
+31786_5	part_of_entity	Sir Geoffrey Keynes
+31786_4	is_in_sentence	sentence_31786
+31786_4	compound	31786_5
+31786_4	has_surface_form	Geoffrey
+31786_4	part_of_entity	Sir Geoffrey Keynes
+31786_6	is_in_sentence	sentence_31786
+31786_6	punct	31786_2
+31786_6	has_surface_form	(
+31786_7	is_in_sentence	sentence_31786
+31786_7	appos	31786_2
+31786_7	has_surface_form	1887
+31786_8	is_in_sentence	sentence_31786
+31786_8	punct	31786_9
+31786_8	has_surface_form	-
+31786_9	is_in_sentence	sentence_31786
+31786_9	prep	31786_7
+31786_9	has_surface_form	1982
+31786_10	is_in_sentence	sentence_31786
+31786_10	punct	31786_7
+31786_10	has_surface_form	)
+31786_12	is_in_sentence	sentence_31786
+31786_12	det	31786_14
+31786_12	has_surface_form	a
+31786_14	is_in_sentence	sentence_31786
+31786_14	attr	31786_11
+31786_14	has_surface_form	surgeon
+31786_13	is_in_sentence	sentence_31786
+31786_13	amod	31786_14
+31786_13	has_surface_form	distinguished
+31786_15	is_in_sentence	sentence_31786
+31786_15	punct	31786_14
+31786_15	has_surface_form	,
+31786_16	is_in_sentence	sentence_31786
+31786_16	conj	31786_14
+31786_16	has_surface_form	scholar
+31786_17	is_in_sentence	sentence_31786
+31786_17	punct	31786_16
+31786_17	has_surface_form	,
+31786_18	is_in_sentence	sentence_31786
+31786_18	cc	31786_16
+31786_18	has_surface_form	and
+31786_19	is_in_sentence	sentence_31786
+31786_19	conj	31786_16
+31786_19	has_surface_form	bibliophile
+31786_20	is_in_sentence	sentence_31786
+31786_20	punct	31786_11
+31786_20	has_surface_form	.
+31786_21	is_in_sentence	sentence_31786
+31786_21	dep	31786_21
+31786_21	has_surface_form	
+Sir Geoffrey Keynes	surface_form	Sir Geoffrey Keynes

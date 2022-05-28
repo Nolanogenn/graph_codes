@@ -1,0 +1,85 @@
+10053_0	is_in_sentence	sentence_10053
+10053_0	compound	10053_1
+10053_0	has_surface_form	Ken
+10053_0	part_of_entity	Ken Narita
+10053_1	is_in_sentence	sentence_10053
+10053_1	nsubj	10053_15
+10053_1	has_surface_form	Narita
+10053_1	part_of_entity	Ken Narita
+10053_15	is_in_sentence	sentence_10053
+10053_15	ROOT	10053_15
+10053_15	has_surface_form	is
+10053_2	is_in_sentence	sentence_10053
+10053_2	punct	10053_1
+10053_2	has_surface_form	(
+10053_3	is_in_sentence	sentence_10053
+10053_3	compound	10053_4
+10053_3	has_surface_form	成田
+10053_4	is_in_sentence	sentence_10053
+10053_4	appos	10053_1
+10053_4	has_surface_form	剣
+10053_5	is_in_sentence	sentence_10053
+10053_5	punct	10053_1
+10053_5	has_surface_form	,
+10053_6	is_in_sentence	sentence_10053
+10053_6	compound	10053_7
+10053_6	has_surface_form	Narita
+10053_7	is_in_sentence	sentence_10053
+10053_7	appos	10053_1
+10053_7	has_surface_form	Ken
+10053_8	is_in_sentence	sentence_10053
+10053_8	punct	10053_7
+10053_8	has_surface_form	,
+10053_9	is_in_sentence	sentence_10053
+10053_9	acl	10053_7
+10053_9	has_surface_form	born
+10053_10	is_in_sentence	sentence_10053
+10053_10	npadvmod	10053_9
+10053_10	has_surface_form	May
+10053_11	is_in_sentence	sentence_10053
+10053_11	nummod	10053_10
+10053_11	has_surface_form	18
+10053_12	is_in_sentence	sentence_10053
+10053_12	punct	10053_10
+10053_12	has_surface_form	,
+10053_13	is_in_sentence	sentence_10053
+10053_13	nummod	10053_10
+10053_13	has_surface_form	1964
+10053_14	is_in_sentence	sentence_10053
+10053_14	punct	10053_7
+10053_14	has_surface_form	)
+10053_16	is_in_sentence	sentence_10053
+10053_16	det	10053_18
+10053_16	has_surface_form	a
+10053_18	is_in_sentence	sentence_10053
+10053_18	attr	10053_15
+10053_18	has_surface_form	actor
+10053_17	is_in_sentence	sentence_10053
+10053_17	amod	10053_18
+10053_17	has_surface_form	Japanese
+10053_19	is_in_sentence	sentence_10053
+10053_19	punct	10053_18
+10053_19	has_surface_form	,
+10053_20	is_in_sentence	sentence_10053
+10053_20	compound	10053_21
+10053_20	has_surface_form	voice
+10053_20	part_of_entity	voice actor
+10053_21	is_in_sentence	sentence_10053
+10053_21	conj	10053_18
+10053_21	has_surface_form	actor
+10053_21	part_of_entity	voice actor
+10053_22	is_in_sentence	sentence_10053
+10053_22	cc	10053_21
+10053_22	has_surface_form	and
+10053_23	is_in_sentence	sentence_10053
+10053_23	conj	10053_21
+10053_23	has_surface_form	narrator
+10053_24	is_in_sentence	sentence_10053
+10053_24	punct	10053_15
+10053_24	has_surface_form	.
+10053_25	is_in_sentence	sentence_10053
+10053_25	dep	10053_25
+10053_25	has_surface_form	
+Ken Narita	surface_form	Ken Narita
+Ken Narita	has-occupation	voice actor
+voice actor	surface_form	voice actor

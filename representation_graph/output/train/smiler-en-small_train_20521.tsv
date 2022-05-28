@@ -1,0 +1,64 @@
+20520_0	is_in_sentence	sentence_20520
+20520_0	compound	20520_1
+20520_0	has_surface_form	María
+20520_0	part_of_entity	María Isabel Mejía Marulanda
+20520_1	is_in_sentence	sentence_20520
+20520_1	compound	20520_3
+20520_1	has_surface_form	Isabel
+20520_1	part_of_entity	María Isabel Mejía Marulanda
+20520_3	is_in_sentence	sentence_20520
+20520_3	nsubj	20520_10
+20520_3	has_surface_form	Marulanda
+20520_3	part_of_entity	María Isabel Mejía Marulanda
+20520_2	is_in_sentence	sentence_20520
+20520_2	compound	20520_3
+20520_2	has_surface_form	Mejía
+20520_2	part_of_entity	María Isabel Mejía Marulanda
+20520_10	is_in_sentence	sentence_20520
+20520_10	ROOT	20520_10
+20520_10	has_surface_form	is
+20520_4	is_in_sentence	sentence_20520
+20520_4	punct	20520_5
+20520_4	has_surface_form	(
+20520_5	is_in_sentence	sentence_20520
+20520_5	parataxis	20520_3
+20520_5	has_surface_form	born
+20520_6	is_in_sentence	sentence_20520
+20520_6	npadvmod	20520_5
+20520_6	has_surface_form	16
+20520_7	is_in_sentence	sentence_20520
+20520_7	npadvmod	20520_5
+20520_7	has_surface_form	March
+20520_8	is_in_sentence	sentence_20520
+20520_8	nummod	20520_7
+20520_8	has_surface_form	1945
+20520_9	is_in_sentence	sentence_20520
+20520_9	punct	20520_3
+20520_9	has_surface_form	)
+20520_11	is_in_sentence	sentence_20520
+20520_11	det	20520_14
+20520_11	has_surface_form	a
+20520_14	is_in_sentence	sentence_20520
+20520_14	attr	20520_10
+20520_14	has_surface_form	politician
+20520_12	is_in_sentence	sentence_20520
+20520_12	amod	20520_14
+20520_12	has_surface_form	retired
+20520_13	is_in_sentence	sentence_20520
+20520_13	amod	20520_14
+20520_13	is_entity	Colombian
+Colombian	surface_form	Colombian
+20520_15	is_in_sentence	sentence_20520
+20520_15	cc	20520_14
+20520_15	has_surface_form	and
+20520_16	is_in_sentence	sentence_20520
+20520_16	conj	20520_14
+20520_16	has_surface_form	economist
+20520_17	is_in_sentence	sentence_20520
+20520_17	punct	20520_10
+20520_17	has_surface_form	.
+20520_18	is_in_sentence	sentence_20520
+20520_18	dep	20520_10
+20520_18	has_surface_form	
+María Isabel Mejía Marulanda	surface_form	María Isabel Mejía Marulanda
+María Isabel Mejía Marulanda	has-nationality	Colombian

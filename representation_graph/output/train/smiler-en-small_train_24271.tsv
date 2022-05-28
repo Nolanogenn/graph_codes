@@ -1,0 +1,94 @@
+24270_0	is_in_sentence	sentence_24270
+24270_0	compound	24270_1
+24270_0	has_surface_form	Tender
+24270_0	part_of_entity	Tender Dracula
+24270_1	is_in_sentence	sentence_24270
+24270_1	nsubj	24270_15
+24270_1	has_surface_form	Dracula
+24270_1	part_of_entity	Tender Dracula
+24270_15	is_in_sentence	sentence_24270
+24270_15	ROOT	24270_15
+24270_15	has_surface_form	is
+24270_2	is_in_sentence	sentence_24270
+24270_2	punct	24270_1
+24270_2	has_surface_form	,
+24270_3	is_in_sentence	sentence_24270
+24270_3	cc	24270_1
+24270_3	has_surface_form	or
+24270_4	is_in_sentence	sentence_24270
+24270_4	conj	24270_1
+24270_4	has_surface_form	Confessions
+24270_5	is_in_sentence	sentence_24270
+24270_5	prep	24270_4
+24270_5	has_surface_form	of
+24270_6	is_in_sentence	sentence_24270
+24270_6	det	24270_8
+24270_6	has_surface_form	a
+24270_8	is_in_sentence	sentence_24270
+24270_8	pobj	24270_5
+24270_8	has_surface_form	Drinker
+24270_7	is_in_sentence	sentence_24270
+24270_7	compound	24270_8
+24270_7	has_surface_form	Blood
+24270_9	is_in_sentence	sentence_24270
+24270_9	punct	24270_10
+24270_9	has_surface_form	(
+24270_10	is_in_sentence	sentence_24270
+24270_10	appos	24270_1
+24270_10	has_surface_form	French
+24270_11	is_in_sentence	sentence_24270
+24270_11	punct	24270_10
+24270_11	has_surface_form	:
+24270_12	is_in_sentence	sentence_24270
+24270_12	compound	24270_13
+24270_12	has_surface_form	Tendre
+24270_13	is_in_sentence	sentence_24270
+24270_13	appos	24270_10
+24270_13	has_surface_form	Dracula
+24270_14	is_in_sentence	sentence_24270
+24270_14	punct	24270_10
+24270_14	has_surface_form	)
+24270_16	is_in_sentence	sentence_24270
+24270_16	det	24270_22
+24270_16	has_surface_form	a
+24270_22	is_in_sentence	sentence_24270
+24270_22	attr	24270_15
+24270_22	has_surface_form	film
+24270_17	is_in_sentence	sentence_24270
+24270_17	nummod	24270_22
+24270_17	has_surface_form	1974
+24270_18	is_in_sentence	sentence_24270
+24270_18	amod	24270_22
+24270_18	has_surface_form	French
+24270_19	is_in_sentence	sentence_24270
+24270_19	compound	24270_21
+24270_19	has_surface_form	horror
+24270_21	is_in_sentence	sentence_24270
+24270_21	compound	24270_22
+24270_21	has_surface_form	comedy
+24270_20	is_in_sentence	sentence_24270
+24270_20	punct	24270_21
+24270_20	has_surface_form	-
+24270_23	is_in_sentence	sentence_24270
+24270_23	acl	24270_22
+24270_23	has_surface_form	directed
+24270_24	is_in_sentence	sentence_24270
+24270_24	agent	24270_23
+24270_24	has_surface_form	by
+24270_25	is_in_sentence	sentence_24270
+24270_25	compound	24270_26
+24270_25	has_surface_form	Pierre
+24270_25	part_of_entity	Pierre Grunstein
+24270_26	is_in_sentence	sentence_24270
+24270_26	pobj	24270_24
+24270_26	has_surface_form	Grunstein
+24270_26	part_of_entity	Pierre Grunstein
+24270_27	is_in_sentence	sentence_24270
+24270_27	punct	24270_15
+24270_27	has_surface_form	.
+24270_28	is_in_sentence	sentence_24270
+24270_28	dep	24270_15
+24270_28	has_surface_form	
+Tender Dracula	surface_form	Tender Dracula
+Tender Dracula	movie-has-director	Pierre Grunstein
+Pierre Grunstein	surface_form	Pierre Grunstein

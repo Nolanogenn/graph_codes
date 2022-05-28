@@ -1,0 +1,60 @@
+31587_0	is_in_sentence	sentence_31587
+31587_0	compound	31587_2
+31587_0	has_surface_form	John
+31587_0	part_of_entity	John Jay Lee
+31587_2	is_in_sentence	sentence_31587
+31587_2	nsubj	31587_10
+31587_2	has_surface_form	Lee
+31587_2	part_of_entity	John Jay Lee
+31587_1	is_in_sentence	sentence_31587
+31587_1	compound	31587_2
+31587_1	has_surface_form	Jay
+31587_1	part_of_entity	John Jay Lee
+31587_10	is_in_sentence	sentence_31587
+31587_10	ROOT	31587_10
+31587_10	has_surface_form	is
+31587_3	is_in_sentence	sentence_31587
+31587_3	punct	31587_2
+31587_3	has_surface_form	(
+31587_4	is_in_sentence	sentence_31587
+31587_4	acl	31587_2
+31587_4	has_surface_form	born
+31587_5	is_in_sentence	sentence_31587
+31587_5	npadvmod	31587_4
+31587_5	has_surface_form	August
+31587_6	is_in_sentence	sentence_31587
+31587_6	nummod	31587_5
+31587_6	has_surface_form	20
+31587_7	is_in_sentence	sentence_31587
+31587_7	punct	31587_5
+31587_7	has_surface_form	,
+31587_8	is_in_sentence	sentence_31587
+31587_8	nummod	31587_5
+31587_8	has_surface_form	1955
+31587_9	is_in_sentence	sentence_31587
+31587_9	punct	31587_4
+31587_9	has_surface_form	)
+31587_11	is_in_sentence	sentence_31587
+31587_11	det	31587_13
+31587_11	has_surface_form	an
+31587_13	is_in_sentence	sentence_31587
+31587_13	attr	31587_10
+31587_13	has_surface_form	entrepreneur
+31587_12	is_in_sentence	sentence_31587
+31587_12	amod	31587_13
+31587_12	is_entity	American
+American	surface_form	American
+31587_14	is_in_sentence	sentence_31587
+31587_14	cc	31587_13
+31587_14	has_surface_form	and
+31587_15	is_in_sentence	sentence_31587
+31587_15	conj	31587_13
+31587_15	has_surface_form	politician
+31587_16	is_in_sentence	sentence_31587
+31587_16	punct	31587_10
+31587_16	has_surface_form	.
+31587_17	is_in_sentence	sentence_31587
+31587_17	dep	31587_10
+31587_17	has_surface_form	
+John Jay Lee	surface_form	John Jay Lee
+John Jay Lee	has-nationality	American

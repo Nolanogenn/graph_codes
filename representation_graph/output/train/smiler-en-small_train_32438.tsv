@@ -1,0 +1,56 @@
+32437_0	is_in_sentence	sentence_32437
+32437_0	compound	32437_1
+32437_0	has_surface_form	André
+32437_0	part_of_entity	André Zimmermann
+32437_1	is_in_sentence	sentence_32437
+32437_1	nsubj	32437_10
+32437_1	has_surface_form	Zimmermann
+32437_1	part_of_entity	André Zimmermann
+32437_10	is_in_sentence	sentence_32437
+32437_10	ROOT	32437_10
+32437_10	has_surface_form	is
+32437_2	is_in_sentence	sentence_32437
+32437_2	punct	32437_1
+32437_2	has_surface_form	(
+32437_3	is_in_sentence	sentence_32437
+32437_3	acl	32437_1
+32437_3	has_surface_form	born
+32437_4	is_in_sentence	sentence_32437
+32437_4	nummod	32437_5
+32437_4	has_surface_form	20
+32437_5	is_in_sentence	sentence_32437
+32437_5	npadvmod	32437_3
+32437_5	has_surface_form	February
+32437_6	is_in_sentence	sentence_32437
+32437_6	nummod	32437_5
+32437_6	has_surface_form	1939
+32437_7	is_in_sentence	sentence_32437
+32437_7	prep	32437_3
+32437_7	has_surface_form	in
+32437_8	is_in_sentence	sentence_32437
+32437_8	pobj	32437_7
+32437_8	is_entity	Maisonsgoutte
+Maisonsgoutte	surface_form	Maisonsgoutte
+32437_9	is_in_sentence	sentence_32437
+32437_9	punct	32437_1
+32437_9	has_surface_form	)
+32437_11	is_in_sentence	sentence_32437
+32437_11	det	32437_14
+32437_11	has_surface_form	a
+32437_14	is_in_sentence	sentence_32437
+32437_14	attr	32437_10
+32437_14	has_surface_form	cyclist
+32437_12	is_in_sentence	sentence_32437
+32437_12	amod	32437_14
+32437_12	has_surface_form	former
+32437_13	is_in_sentence	sentence_32437
+32437_13	amod	32437_14
+32437_13	has_surface_form	French
+32437_15	is_in_sentence	sentence_32437
+32437_15	punct	32437_10
+32437_15	has_surface_form	.
+32437_16	is_in_sentence	sentence_32437
+32437_16	dep	32437_10
+32437_16	has_surface_form	
+André Zimmermann	surface_form	André Zimmermann
+André Zimmermann	birth-place	Maisonsgoutte

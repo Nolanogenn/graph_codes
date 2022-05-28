@@ -1,0 +1,63 @@
+35572_0	is_in_sentence	sentence_35572
+35572_0	compound	35572_1
+35572_0	has_surface_form	Senator
+35572_0	part_of_entity	Senator Neal
+35572_1	is_in_sentence	sentence_35572
+35572_1	nsubj	35572_3
+35572_1	has_surface_form	Neal
+35572_1	part_of_entity	Senator Neal
+35572_3	is_in_sentence	sentence_35572
+35572_3	ROOT	35572_3
+35572_3	has_surface_form	received
+35572_2	is_in_sentence	sentence_35572
+35572_2	aux	35572_3
+35572_2	has_surface_form	has
+35572_4	is_in_sentence	sentence_35572
+35572_4	det	35572_7
+35572_4	has_surface_form	the
+35572_4	part_of_entity	the Clarence Mitchell Award
+35572_7	is_in_sentence	sentence_35572
+35572_7	dobj	35572_3
+35572_7	has_surface_form	Award
+35572_7	part_of_entity	the Clarence Mitchell Award
+35572_5	is_in_sentence	sentence_35572
+35572_5	compound	35572_6
+35572_5	has_surface_form	Clarence
+35572_5	part_of_entity	the Clarence Mitchell Award
+35572_6	is_in_sentence	sentence_35572
+35572_6	compound	35572_7
+35572_6	has_surface_form	Mitchell
+35572_6	part_of_entity	the Clarence Mitchell Award
+35572_8	is_in_sentence	sentence_35572
+35572_8	prep	35572_7
+35572_8	has_surface_form	from
+35572_9	is_in_sentence	sentence_35572
+35572_9	det	35572_12
+35572_9	has_surface_form	the
+35572_12	is_in_sentence	sentence_35572
+35572_12	pobj	35572_8
+35572_12	has_surface_form	Conference
+35572_10	is_in_sentence	sentence_35572
+35572_10	compound	35572_12
+35572_10	has_surface_form	Kentucky
+35572_11	is_in_sentence	sentence_35572
+35572_11	compound	35572_12
+35572_11	has_surface_form	State
+35572_13	is_in_sentence	sentence_35572
+35572_13	prep	35572_12
+35572_13	has_surface_form	of
+35572_14	is_in_sentence	sentence_35572
+35572_14	compound	35572_15
+35572_14	has_surface_form	NAACP
+35572_15	is_in_sentence	sentence_35572
+35572_15	pobj	35572_13
+35572_15	has_surface_form	Branches
+35572_16	is_in_sentence	sentence_35572
+35572_16	punct	35572_3
+35572_16	has_surface_form	.
+35572_17	is_in_sentence	sentence_35572
+35572_17	dep	35572_17
+35572_17	has_surface_form	
+Senator Neal	surface_form	Senator Neal
+Senator Neal	won-award	the Clarence Mitchell Award
+the Clarence Mitchell Award	surface_form	the Clarence Mitchell Award

@@ -1,0 +1,97 @@
+3793_0	is_in_sentence	sentence_3793
+3793_0	compound	3793_1
+3793_0	has_surface_form	Jiang
+3793_0	part_of_entity	Jiang Wan
+3793_1	is_in_sentence	sentence_3793
+3793_1	poss	3793_4
+3793_1	has_surface_form	Wan
+3793_1	part_of_entity	Jiang Wan
+3793_4	is_in_sentence	sentence_3793
+3793_4	nsubj	3793_12
+3793_4	has_surface_form	son
+3793_2	is_in_sentence	sentence_3793
+3793_2	case	3793_1
+3793_2	has_surface_form	's
+3793_3	is_in_sentence	sentence_3793
+3793_3	amod	3793_4
+3793_3	has_surface_form	elder
+3793_12	is_in_sentence	sentence_3793
+3793_12	ROOT	3793_12
+3793_12	has_surface_form	inherited
+3793_5	is_in_sentence	sentence_3793
+3793_5	punct	3793_4
+3793_5	has_surface_form	,
+3793_6	is_in_sentence	sentence_3793
+3793_6	compound	3793_7
+3793_6	has_surface_form	Jiang
+3793_6	part_of_entity	Jiang Bin
+3793_7	is_in_sentence	sentence_3793
+3793_7	appos	3793_4
+3793_7	has_surface_form	Bin
+3793_7	part_of_entity	Jiang Bin
+3793_8	is_in_sentence	sentence_3793
+3793_8	punct	3793_7
+3793_8	has_surface_form	(
+3793_9	is_in_sentence	sentence_3793
+3793_9	appos	3793_7
+3793_9	has_surface_form	蔣斌
+3793_10	is_in_sentence	sentence_3793
+3793_10	punct	3793_7
+3793_10	has_surface_form	)
+3793_11	is_in_sentence	sentence_3793
+3793_11	punct	3793_4
+3793_11	has_surface_form	,
+3793_13	is_in_sentence	sentence_3793
+3793_13	poss	3793_14
+3793_13	has_surface_form	his
+3793_14	is_in_sentence	sentence_3793
+3793_14	poss	3793_16
+3793_14	has_surface_form	father
+3793_16	is_in_sentence	sentence_3793
+3793_16	dobj	3793_12
+3793_16	has_surface_form	peerage
+3793_15	is_in_sentence	sentence_3793
+3793_15	case	3793_14
+3793_15	has_surface_form	's
+3793_17	is_in_sentence	sentence_3793
+3793_17	cc	3793_12
+3793_17	has_surface_form	and
+3793_18	is_in_sentence	sentence_3793
+3793_18	conj	3793_12
+3793_18	has_surface_form	became
+3793_19	is_in_sentence	sentence_3793
+3793_19	det	3793_21
+3793_19	has_surface_form	the
+3793_21	is_in_sentence	sentence_3793
+3793_21	attr	3793_18
+3793_21	has_surface_form	Marquis
+3793_20	is_in_sentence	sentence_3793
+3793_20	amod	3793_21
+3793_20	has_surface_form	next
+3793_22	is_in_sentence	sentence_3793
+3793_22	prep	3793_21
+3793_22	has_surface_form	of
+3793_23	is_in_sentence	sentence_3793
+3793_23	compound	3793_24
+3793_23	has_surface_form	Anyang
+3793_24	is_in_sentence	sentence_3793
+3793_24	pobj	3793_22
+3793_24	has_surface_form	Village
+3793_25	is_in_sentence	sentence_3793
+3793_25	punct	3793_21
+3793_25	has_surface_form	(
+3793_26	is_in_sentence	sentence_3793
+3793_26	appos	3793_21
+3793_26	has_surface_form	安陽亭侯
+3793_27	is_in_sentence	sentence_3793
+3793_27	punct	3793_21
+3793_27	has_surface_form	)
+3793_28	is_in_sentence	sentence_3793
+3793_28	punct	3793_12
+3793_28	has_surface_form	.
+3793_29	is_in_sentence	sentence_3793
+3793_29	dep	3793_29
+3793_29	has_surface_form	
+Jiang Wan	surface_form	Jiang Wan
+Jiang Wan	has-child	Jiang Bin
+Jiang Bin	surface_form	Jiang Bin

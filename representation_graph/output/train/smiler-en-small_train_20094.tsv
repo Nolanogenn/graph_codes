@@ -1,0 +1,90 @@
+20093_0	is_in_sentence	sentence_20093
+20093_0	compound	20093_1
+20093_0	has_surface_form	Jeanne
+20093_0	part_of_entity	Jeanne d'Évreux
+20093_1	is_in_sentence	sentence_20093
+20093_1	nsubj	20093_9
+20093_1	has_surface_form	d'Évreux
+20093_1	part_of_entity	Jeanne d'Évreux
+20093_9	is_in_sentence	sentence_20093
+20093_9	ROOT	20093_9
+20093_9	has_surface_form	was
+20093_2	is_in_sentence	sentence_20093
+20093_2	punct	20093_1
+20093_2	has_surface_form	(
+20093_3	is_in_sentence	sentence_20093
+20093_3	appos	20093_1
+20093_3	has_surface_form	1310
+20093_4	is_in_sentence	sentence_20093
+20093_4	punct	20093_6
+20093_4	has_surface_form	–
+20093_6	is_in_sentence	sentence_20093
+20093_6	appos	20093_1
+20093_6	has_surface_form	March
+20093_5	is_in_sentence	sentence_20093
+20093_5	nummod	20093_6
+20093_5	has_surface_form	4
+20093_7	is_in_sentence	sentence_20093
+20093_7	nummod	20093_6
+20093_7	has_surface_form	1371
+20093_8	is_in_sentence	sentence_20093
+20093_8	punct	20093_6
+20093_8	has_surface_form	)
+20093_10	is_in_sentence	sentence_20093
+20093_10	attr	20093_9
+20093_10	has_surface_form	Queen
+20093_11	is_in_sentence	sentence_20093
+20093_11	prep	20093_10
+20093_11	has_surface_form	of
+20093_12	is_in_sentence	sentence_20093
+20093_12	pobj	20093_11
+20093_12	has_surface_form	France
+20093_13	is_in_sentence	sentence_20093
+20093_13	cc	20093_10
+20093_13	has_surface_form	and
+20093_14	is_in_sentence	sentence_20093
+20093_14	conj	20093_10
+20093_14	has_surface_form	Navarre
+20093_15	is_in_sentence	sentence_20093
+20093_15	prep	20093_14
+20093_15	has_surface_form	as
+20093_16	is_in_sentence	sentence_20093
+20093_16	det	20093_18
+20093_16	has_surface_form	the
+20093_18	is_in_sentence	sentence_20093
+20093_18	pobj	20093_15
+20093_18	has_surface_form	wife
+20093_17	is_in_sentence	sentence_20093
+20093_17	amod	20093_18
+20093_17	has_surface_form	third
+20093_19	is_in_sentence	sentence_20093
+20093_19	prep	20093_18
+20093_19	has_surface_form	of
+20093_20	is_in_sentence	sentence_20093
+20093_20	compound	20093_22
+20093_20	has_surface_form	King
+20093_22	is_in_sentence	sentence_20093
+20093_22	pobj	20093_19
+20093_22	has_surface_form	IV
+20093_22	part_of_entity	Charles IV of France
+20093_21	is_in_sentence	sentence_20093
+20093_21	compound	20093_22
+20093_21	has_surface_form	Charles
+20093_21	part_of_entity	Charles IV of France
+20093_23	is_in_sentence	sentence_20093
+20093_23	prep	20093_22
+20093_23	has_surface_form	of
+20093_23	part_of_entity	Charles IV of France
+20093_24	is_in_sentence	sentence_20093
+20093_24	pobj	20093_23
+20093_24	has_surface_form	France
+20093_24	part_of_entity	Charles IV of France
+20093_25	is_in_sentence	sentence_20093
+20093_25	punct	20093_9
+20093_25	has_surface_form	.
+20093_26	is_in_sentence	sentence_20093
+20093_26	dep	20093_26
+20093_26	has_surface_form	
+Jeanne d'Évreux	surface_form	Jeanne d'Évreux
+Jeanne d'Évreux	has-spouse	Charles IV of France
+Charles IV of France	surface_form	Charles IV of France

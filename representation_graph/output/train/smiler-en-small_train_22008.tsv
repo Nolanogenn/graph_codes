@@ -1,0 +1,37 @@
+22007_0	is_in_sentence	sentence_22007
+22007_0	compound	22007_1
+22007_0	has_surface_form	Ron
+22007_0	part_of_entity	Ron Vanderlinden
+22007_1	is_in_sentence	sentence_22007
+22007_1	nsubj	22007_2
+22007_1	has_surface_form	Vanderlinden
+22007_1	part_of_entity	Ron Vanderlinden
+22007_2	is_in_sentence	sentence_22007
+22007_2	ROOT	22007_2
+22007_2	has_surface_form	is
+22007_3	is_in_sentence	sentence_22007
+22007_3	det	22007_7
+22007_3	has_surface_form	an
+22007_7	is_in_sentence	sentence_22007
+22007_7	attr	22007_2
+22007_7	has_surface_form	coach
+22007_7	part_of_entity	football coach
+22007_4	is_in_sentence	sentence_22007
+22007_4	amod	22007_7
+22007_4	has_surface_form	American
+22007_5	is_in_sentence	sentence_22007
+22007_5	compound	22007_6
+22007_5	has_surface_form	college
+22007_6	is_in_sentence	sentence_22007
+22007_6	compound	22007_7
+22007_6	has_surface_form	football
+22007_6	part_of_entity	football coach
+22007_8	is_in_sentence	sentence_22007
+22007_8	punct	22007_2
+22007_8	has_surface_form	.
+22007_9	is_in_sentence	sentence_22007
+22007_9	dep	22007_9
+22007_9	has_surface_form	
+Ron Vanderlinden	surface_form	Ron Vanderlinden
+Ron Vanderlinden	has-type	football coach
+football coach	surface_form	football coach

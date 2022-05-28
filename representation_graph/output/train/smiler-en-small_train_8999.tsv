@@ -1,0 +1,85 @@
+8998_0	is_in_sentence	sentence_8998
+8998_0	compound	8998_1
+8998_0	has_surface_form	Lapun
+8998_0	part_of_entity	Lapun Chapun
+8998_1	is_in_sentence	sentence_8998
+8998_1	nsubj	8998_2
+8998_1	has_surface_form	Chapun
+8998_1	part_of_entity	Lapun Chapun
+8998_2	is_in_sentence	sentence_8998
+8998_2	ROOT	8998_2
+8998_2	has_surface_form	is
+8998_3	is_in_sentence	sentence_8998
+8998_3	det	8998_5
+8998_3	has_surface_form	a
+8998_5	is_in_sentence	sentence_8998
+8998_5	attr	8998_2
+8998_5	has_surface_form	movie
+8998_4	is_in_sentence	sentence_8998
+8998_4	compound	8998_5
+8998_4	has_surface_form	Marathi
+8998_6	is_in_sentence	sentence_8998
+8998_6	acl	8998_5
+8998_6	has_surface_form	released
+8998_7	is_in_sentence	sentence_8998
+8998_7	prep	8998_6
+8998_7	has_surface_form	on
+8998_8	is_in_sentence	sentence_8998
+8998_8	nummod	8998_9
+8998_8	has_surface_form	21
+8998_9	is_in_sentence	sentence_8998
+8998_9	pobj	8998_7
+8998_9	has_surface_form	October
+8998_10	is_in_sentence	sentence_8998
+8998_10	nummod	8998_9
+8998_10	has_surface_form	2006
+8998_11	is_in_sentence	sentence_8998
+8998_11	punct	8998_2
+8998_11	has_surface_form	.
+8998_12	is_in_sentence	sentence_8998
+8998_12	det	8998_13
+8998_12	has_surface_form	The
+8998_13	is_in_sentence	sentence_8998
+8998_13	nsubjpass	8998_15
+8998_13	has_surface_form	movie
+8998_15	is_in_sentence	sentence_8998
+8998_15	ROOT	8998_15
+8998_15	has_surface_form	produced
+8998_14	is_in_sentence	sentence_8998
+8998_14	auxpass	8998_15
+8998_14	has_surface_form	is
+8998_16	is_in_sentence	sentence_8998
+8998_16	agent	8998_15
+8998_16	has_surface_form	by
+8998_17	is_in_sentence	sentence_8998
+8998_17	compound	8998_18
+8998_17	has_surface_form	Satish
+8998_18	is_in_sentence	sentence_8998
+8998_18	pobj	8998_16
+8998_18	has_surface_form	Kulkarni
+8998_19	is_in_sentence	sentence_8998
+8998_19	cc	8998_15
+8998_19	has_surface_form	and
+8998_20	is_in_sentence	sentence_8998
+8998_20	conj	8998_15
+8998_20	has_surface_form	directed
+8998_21	is_in_sentence	sentence_8998
+8998_21	agent	8998_20
+8998_21	has_surface_form	by
+8998_22	is_in_sentence	sentence_8998
+8998_22	compound	8998_23
+8998_22	has_surface_form	Kumar
+8998_22	part_of_entity	Kumar Sohni
+8998_23	is_in_sentence	sentence_8998
+8998_23	pobj	8998_21
+8998_23	has_surface_form	Sohni
+8998_23	part_of_entity	Kumar Sohni
+8998_24	is_in_sentence	sentence_8998
+8998_24	punct	8998_15
+8998_24	has_surface_form	.
+8998_25	is_in_sentence	sentence_8998
+8998_25	dep	8998_15
+8998_25	has_surface_form	
+Lapun Chapun	surface_form	Lapun Chapun
+Lapun Chapun	movie-has-director	Kumar Sohni
+Kumar Sohni	surface_form	Kumar Sohni

@@ -1,0 +1,68 @@
+6456_0	is_in_sentence	sentence_6456
+6456_0	nsubj	6456_1
+6456_0	has_surface_form	Strawberries
+6456_0	part_of_entity	Strawberries Need Rain
+6456_1	is_in_sentence	sentence_6456
+6456_1	ROOT	6456_1
+6456_1	has_surface_form	Need
+6456_1	part_of_entity	Strawberries Need Rain
+6456_2	is_in_sentence	sentence_6456
+6456_2	nsubj	6456_3
+6456_2	has_surface_form	Rain
+6456_2	part_of_entity	Strawberries Need Rain
+6456_3	is_in_sentence	sentence_6456
+6456_3	ccomp	6456_1
+6456_3	has_surface_form	is
+6456_4	is_in_sentence	sentence_6456
+6456_4	det	6456_6
+6456_4	has_surface_form	a
+6456_6	is_in_sentence	sentence_6456
+6456_6	attr	6456_3
+6456_6	has_surface_form	film
+6456_5	is_in_sentence	sentence_6456
+6456_5	nummod	6456_6
+6456_5	has_surface_form	1970
+6456_7	is_in_sentence	sentence_6456
+6456_7	acl	6456_6
+6456_7	has_surface_form	directed
+6456_8	is_in_sentence	sentence_6456
+6456_8	agent	6456_7
+6456_8	has_surface_form	by
+6456_9	is_in_sentence	sentence_6456
+6456_9	compound	6456_10
+6456_9	has_surface_form	Larry
+6456_10	is_in_sentence	sentence_6456
+6456_10	pobj	6456_8
+6456_10	has_surface_form	Buchanan
+6456_11	is_in_sentence	sentence_6456
+6456_11	cc	6456_7
+6456_11	has_surface_form	and
+6456_12	is_in_sentence	sentence_6456
+6456_12	conj	6456_7
+6456_12	has_surface_form	starring
+6456_13	is_in_sentence	sentence_6456
+6456_13	compound	6456_14
+6456_13	has_surface_form	Les
+6456_14	is_in_sentence	sentence_6456
+6456_14	dobj	6456_12
+6456_14	has_surface_form	Tremayne
+6456_15	is_in_sentence	sentence_6456
+6456_15	cc	6456_14
+6456_15	has_surface_form	and
+6456_16	is_in_sentence	sentence_6456
+6456_16	compound	6456_17
+6456_16	has_surface_form	Monica
+6456_16	part_of_entity	Monica Gayle
+6456_17	is_in_sentence	sentence_6456
+6456_17	conj	6456_14
+6456_17	has_surface_form	Gayle
+6456_17	part_of_entity	Monica Gayle
+6456_18	is_in_sentence	sentence_6456
+6456_18	punct	6456_1
+6456_18	has_surface_form	.
+6456_19	is_in_sentence	sentence_6456
+6456_19	dep	6456_1
+6456_19	has_surface_form	
+Strawberries Need Rain	surface_form	Strawberries Need Rain
+Strawberries Need Rain	starring	Monica Gayle
+Monica Gayle	surface_form	Monica Gayle

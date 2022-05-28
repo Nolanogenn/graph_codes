@@ -1,0 +1,75 @@
+32061_0	is_in_sentence	sentence_32061
+32061_0	compound	32061_2
+32061_0	has_surface_form	Brooke
+32061_0	part_of_entity	Brooke Weston Academy
+32061_2	is_in_sentence	sentence_32061
+32061_2	nsubj	32061_3
+32061_2	has_surface_form	Academy
+32061_2	part_of_entity	Brooke Weston Academy
+32061_1	is_in_sentence	sentence_32061
+32061_1	compound	32061_2
+32061_1	has_surface_form	Weston
+32061_1	part_of_entity	Brooke Weston Academy
+32061_3	is_in_sentence	sentence_32061
+32061_3	ROOT	32061_3
+32061_3	has_surface_form	is
+32061_4	is_in_sentence	sentence_32061
+32061_4	det	32061_5
+32061_4	has_surface_form	an
+32061_5	is_in_sentence	sentence_32061
+32061_5	attr	32061_3
+32061_5	has_surface_form	Academy
+32061_6	is_in_sentence	sentence_32061
+32061_6	prep	32061_5
+32061_6	has_surface_form	in
+32061_7	is_in_sentence	sentence_32061
+32061_7	pobj	32061_6
+32061_7	is_entity	Corby
+Corby	surface_form	Corby
+32061_8	is_in_sentence	sentence_32061
+32061_8	punct	32061_7
+32061_8	has_surface_form	,
+32061_9	is_in_sentence	sentence_32061
+32061_9	conj	32061_7
+32061_9	has_surface_form	Northamptonshire
+32061_10	is_in_sentence	sentence_32061
+32061_10	punct	32061_9
+32061_10	has_surface_form	,
+32061_11	is_in_sentence	sentence_32061
+32061_11	compound	32061_12
+32061_11	has_surface_form	United
+32061_12	is_in_sentence	sentence_32061
+32061_12	conj	32061_9
+32061_12	has_surface_form	Kingdom
+32061_13	is_in_sentence	sentence_32061
+32061_13	punct	32061_5
+32061_13	has_surface_form	,
+32061_14	is_in_sentence	sentence_32061
+32061_14	advcl	32061_3
+32061_14	has_surface_form	teaching
+32061_15	is_in_sentence	sentence_32061
+32061_15	dobj	32061_14
+32061_15	has_surface_form	pupils
+32061_16	is_in_sentence	sentence_32061
+32061_16	prep	32061_14
+32061_16	has_surface_form	from
+32061_17	is_in_sentence	sentence_32061
+32061_17	pobj	32061_16
+32061_17	has_surface_form	ages
+32061_18	is_in_sentence	sentence_32061
+32061_18	npadvmod	32061_17
+32061_18	has_surface_form	11
+32061_19	is_in_sentence	sentence_32061
+32061_19	prep	32061_17
+32061_19	has_surface_form	to
+32061_20	is_in_sentence	sentence_32061
+32061_20	pobj	32061_19
+32061_20	has_surface_form	18
+32061_21	is_in_sentence	sentence_32061
+32061_21	punct	32061_3
+32061_21	has_surface_form	.
+32061_22	is_in_sentence	sentence_32061
+32061_22	dep	32061_3
+32061_22	has_surface_form	
+Brooke Weston Academy	surface_form	Brooke Weston Academy
+Brooke Weston Academy	is-where	Corby

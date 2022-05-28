@@ -1,0 +1,62 @@
+32918_0	is_in_sentence	sentence_32918
+32918_0	compound	32918_1
+32918_0	has_surface_form	Thammil
+32918_0	part_of_entity	Thammil Thammil
+32918_1	is_in_sentence	sentence_32918
+32918_1	nsubj	32918_2
+32918_1	has_surface_form	Thammil
+32918_1	part_of_entity	Thammil Thammil
+32918_2	is_in_sentence	sentence_32918
+32918_2	ROOT	32918_2
+32918_2	has_surface_form	is
+32918_3	is_in_sentence	sentence_32918
+32918_3	det	32918_7
+32918_3	has_surface_form	a
+32918_7	is_in_sentence	sentence_32918
+32918_7	attr	32918_2
+32918_7	has_surface_form	film
+32918_4	is_in_sentence	sentence_32918
+32918_4	nummod	32918_7
+32918_4	has_surface_form	1985
+32918_5	is_in_sentence	sentence_32918
+32918_5	amod	32918_7
+32918_5	has_surface_form	Indian
+32918_6	is_in_sentence	sentence_32918
+32918_6	compound	32918_7
+32918_6	has_surface_form	Malayalam
+32918_8	is_in_sentence	sentence_32918
+32918_8	punct	32918_7
+32918_8	has_surface_form	,
+32918_9	is_in_sentence	sentence_32918
+32918_9	acl	32918_7
+32918_9	has_surface_form	directed
+32918_10	is_in_sentence	sentence_32918
+32918_10	agent	32918_9
+32918_10	has_surface_form	by
+32918_11	is_in_sentence	sentence_32918
+32918_11	pobj	32918_10
+32918_11	is_entity	Sajan
+Sajan	surface_form	Sajan
+32918_12	is_in_sentence	sentence_32918
+32918_12	cc	32918_9
+32918_12	has_surface_form	and
+32918_13	is_in_sentence	sentence_32918
+32918_13	conj	32918_9
+32918_13	has_surface_form	produced
+32918_14	is_in_sentence	sentence_32918
+32918_14	agent	32918_13
+32918_14	has_surface_form	by
+32918_15	is_in_sentence	sentence_32918
+32918_15	compound	32918_16
+32918_15	has_surface_form	Thomas
+32918_16	is_in_sentence	sentence_32918
+32918_16	pobj	32918_14
+32918_16	has_surface_form	Mathew
+32918_17	is_in_sentence	sentence_32918
+32918_17	punct	32918_2
+32918_17	has_surface_form	.
+32918_18	is_in_sentence	sentence_32918
+32918_18	dep	32918_2
+32918_18	has_surface_form	
+Thammil Thammil	surface_form	Thammil Thammil
+Thammil Thammil	movie-has-director	Sajan

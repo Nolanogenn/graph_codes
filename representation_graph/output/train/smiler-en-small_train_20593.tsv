@@ -1,0 +1,56 @@
+20592_0	is_in_sentence	sentence_20592
+20592_0	compound	20592_1
+20592_0	has_surface_form	Audrey
+20592_0	part_of_entity	Audrey Hall
+20592_1	is_in_sentence	sentence_20592
+20592_1	nsubj	20592_11
+20592_1	has_surface_form	Hall
+20592_1	part_of_entity	Audrey Hall
+20592_11	is_in_sentence	sentence_20592
+20592_11	ROOT	20592_11
+20592_11	has_surface_form	is
+20592_2	is_in_sentence	sentence_20592
+20592_2	punct	20592_1
+20592_2	has_surface_form	(
+20592_3	is_in_sentence	sentence_20592
+20592_3	acl	20592_1
+20592_3	has_surface_form	born
+20592_4	is_in_sentence	sentence_20592
+20592_4	npadvmod	20592_3
+20592_4	has_surface_form	c.
+20592_5	is_in_sentence	sentence_20592
+20592_5	nummod	20592_4
+20592_5	has_surface_form	1948
+20592_6	is_in_sentence	sentence_20592
+20592_6	prep	20592_3
+20592_6	has_surface_form	in
+20592_7	is_in_sentence	sentence_20592
+20592_7	pobj	20592_6
+20592_7	has_surface_form	Kingston
+20592_8	is_in_sentence	sentence_20592
+20592_8	punct	20592_7
+20592_8	has_surface_form	,
+20592_9	is_in_sentence	sentence_20592
+20592_9	appos	20592_7
+20592_9	has_surface_form	Jamaica
+20592_10	is_in_sentence	sentence_20592
+20592_10	punct	20592_7
+20592_10	has_surface_form	)
+20592_12	is_in_sentence	sentence_20592
+20592_12	det	20592_14
+20592_12	has_surface_form	a
+20592_14	is_in_sentence	sentence_20592
+20592_14	attr	20592_11
+20592_14	has_surface_form	singer
+20592_13	is_in_sentence	sentence_20592
+20592_13	compound	20592_14
+20592_13	is_entity	reggae
+reggae	surface_form	reggae
+20592_15	is_in_sentence	sentence_20592
+20592_15	punct	20592_11
+20592_15	has_surface_form	.
+20592_16	is_in_sentence	sentence_20592
+20592_16	dep	20592_16
+20592_16	has_surface_form	
+Audrey Hall	surface_form	Audrey Hall
+Audrey Hall	has-genre	reggae

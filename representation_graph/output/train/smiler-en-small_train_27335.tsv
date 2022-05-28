@@ -1,0 +1,62 @@
+27334_0	is_in_sentence	sentence_27334
+27334_0	compound	27334_1
+27334_0	has_surface_form	Judy
+27334_0	part_of_entity	Judy Boucher
+27334_1	is_in_sentence	sentence_27334
+27334_1	nsubj	27334_11
+27334_1	has_surface_form	Boucher
+27334_1	part_of_entity	Judy Boucher
+27334_11	is_in_sentence	sentence_27334
+27334_11	ROOT	27334_11
+27334_11	has_surface_form	is
+27334_2	is_in_sentence	sentence_27334
+27334_2	punct	27334_3
+27334_2	has_surface_form	(
+27334_3	is_in_sentence	sentence_27334
+27334_3	acl	27334_1
+27334_3	has_surface_form	born
+27334_4	is_in_sentence	sentence_27334
+27334_4	prep	27334_3
+27334_4	has_surface_form	in
+27334_5	is_in_sentence	sentence_27334
+27334_5	compound	27334_6
+27334_5	has_surface_form	St.
+27334_6	is_in_sentence	sentence_27334
+27334_6	pobj	27334_4
+27334_6	has_surface_form	Vincent
+27334_7	is_in_sentence	sentence_27334
+27334_7	prep	27334_3
+27334_7	has_surface_form	in
+27334_8	is_in_sentence	sentence_27334
+27334_8	det	27334_9
+27334_8	has_surface_form	the
+27334_9	is_in_sentence	sentence_27334
+27334_9	pobj	27334_7
+27334_9	has_surface_form	Caribbean
+27334_10	is_in_sentence	sentence_27334
+27334_10	punct	27334_1
+27334_10	has_surface_form	)
+27334_12	is_in_sentence	sentence_27334
+27334_12	det	27334_13
+27334_12	has_surface_form	a
+27334_13	is_in_sentence	sentence_27334
+27334_13	attr	27334_11
+27334_13	is_entity	reggae
+reggae	surface_form	reggae
+27334_14	is_in_sentence	sentence_27334
+27334_14	cc	27334_13
+27334_14	has_surface_form	and
+27334_15	is_in_sentence	sentence_27334
+27334_15	compound	27334_16
+27334_15	has_surface_form	R&B
+27334_16	is_in_sentence	sentence_27334
+27334_16	conj	27334_13
+27334_16	has_surface_form	singer
+27334_17	is_in_sentence	sentence_27334
+27334_17	punct	27334_11
+27334_17	has_surface_form	.
+27334_18	is_in_sentence	sentence_27334
+27334_18	dep	27334_18
+27334_18	has_surface_form	
+Judy Boucher	surface_form	Judy Boucher
+Judy Boucher	has-genre	reggae

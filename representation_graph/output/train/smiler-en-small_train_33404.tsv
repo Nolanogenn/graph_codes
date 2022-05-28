@@ -1,0 +1,65 @@
+33403_0	is_in_sentence	sentence_33403
+33403_0	compound	33403_1
+33403_0	has_surface_form	Mount
+33403_0	part_of_entity	Mount Elbrus
+33403_1	is_in_sentence	sentence_33403
+33403_1	nsubjpass	33403_10
+33403_1	has_surface_form	Elbrus
+33403_1	part_of_entity	Mount Elbrus
+33403_10	is_in_sentence	sentence_33403
+33403_10	ROOT	33403_10
+33403_10	has_surface_form	located
+33403_2	is_in_sentence	sentence_33403
+33403_2	punct	33403_1
+33403_2	has_surface_form	,
+33403_3	is_in_sentence	sentence_33403
+33403_3	det	33403_5
+33403_3	has_surface_form	the
+33403_5	is_in_sentence	sentence_33403
+33403_5	appos	33403_1
+33403_5	has_surface_form	mountain
+33403_4	is_in_sentence	sentence_33403
+33403_4	amod	33403_5
+33403_4	has_surface_form	highest
+33403_6	is_in_sentence	sentence_33403
+33403_6	prep	33403_5
+33403_6	has_surface_form	in
+33403_7	is_in_sentence	sentence_33403
+33403_7	pobj	33403_6
+33403_7	is_entity	Europe
+Europe	surface_form	Europe
+Europe	has-highest-mountain	Mount Elbrus
+33403_8	is_in_sentence	sentence_33403
+33403_8	punct	33403_1
+33403_8	has_surface_form	,
+33403_9	is_in_sentence	sentence_33403
+33403_9	auxpass	33403_10
+33403_9	has_surface_form	is
+33403_11	is_in_sentence	sentence_33403
+33403_11	prep	33403_10
+33403_11	has_surface_form	on
+33403_12	is_in_sentence	sentence_33403
+33403_12	det	33403_13
+33403_12	has_surface_form	the
+33403_13	is_in_sentence	sentence_33403
+33403_13	pobj	33403_11
+33403_13	has_surface_form	border
+33403_14	is_in_sentence	sentence_33403
+33403_14	prep	33403_13
+33403_14	has_surface_form	with
+33403_15	is_in_sentence	sentence_33403
+33403_15	compound	33403_17
+33403_15	has_surface_form	Kabardino
+33403_17	is_in_sentence	sentence_33403
+33403_17	pobj	33403_14
+33403_17	has_surface_form	Balkaria
+33403_16	is_in_sentence	sentence_33403
+33403_16	punct	33403_17
+33403_16	has_surface_form	-
+33403_18	is_in_sentence	sentence_33403
+33403_18	punct	33403_10
+33403_18	has_surface_form	.
+33403_19	is_in_sentence	sentence_33403
+33403_19	dep	33403_19
+33403_19	has_surface_form	
+Mount Elbrus	surface_form	Mount Elbrus

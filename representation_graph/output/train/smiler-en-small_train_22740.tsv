@@ -1,0 +1,63 @@
+22739_0	is_in_sentence	sentence_22739
+22739_0	compound	22739_1
+22739_0	has_surface_form	North
+22739_0	part_of_entity	North Carolina Highway 213
+22739_1	is_in_sentence	sentence_22739
+22739_1	compound	22739_2
+22739_1	has_surface_form	Carolina
+22739_1	part_of_entity	North Carolina Highway 213
+22739_2	is_in_sentence	sentence_22739
+22739_2	nsubj	22739_9
+22739_2	has_surface_form	Highway
+22739_2	part_of_entity	North Carolina Highway 213
+22739_9	is_in_sentence	sentence_22739
+22739_9	ROOT	22739_9
+22739_9	has_surface_form	is
+22739_3	is_in_sentence	sentence_22739
+22739_3	nummod	22739_2
+22739_3	has_surface_form	213
+22739_3	part_of_entity	North Carolina Highway 213
+22739_4	is_in_sentence	sentence_22739
+22739_4	punct	22739_2
+22739_4	has_surface_form	(
+22739_5	is_in_sentence	sentence_22739
+22739_5	appos	22739_2
+22739_5	has_surface_form	NC
+22739_6	is_in_sentence	sentence_22739
+22739_6	dep	22739_5
+22739_6	has_surface_form	 
+22739_7	is_in_sentence	sentence_22739
+22739_7	nummod	22739_5
+22739_7	has_surface_form	213
+22739_8	is_in_sentence	sentence_22739
+22739_8	punct	22739_5
+22739_8	has_surface_form	)
+22739_10	is_in_sentence	sentence_22739
+22739_10	det	22739_13
+22739_10	has_surface_form	a
+22739_13	is_in_sentence	sentence_22739
+22739_13	attr	22739_9
+22739_13	has_surface_form	highway
+22739_13	part_of_entity	state highway
+22739_11	is_in_sentence	sentence_22739
+22739_11	amod	22739_13
+22739_11	has_surface_form	primary
+22739_12	is_in_sentence	sentence_22739
+22739_12	compound	22739_13
+22739_12	has_surface_form	state
+22739_12	part_of_entity	state highway
+22739_14	is_in_sentence	sentence_22739
+22739_14	prep	22739_13
+22739_14	has_surface_form	in
+22739_15	is_in_sentence	sentence_22739
+22739_15	det	22739_16
+22739_15	has_surface_form	the
+22739_16	is_in_sentence	sentence_22739
+22739_16	pobj	22739_14
+22739_16	has_surface_form	U.
+22739_17	is_in_sentence	sentence_22739
+22739_17	dep	22739_9
+22739_17	has_surface_form	
+North Carolina Highway 213	surface_form	North Carolina Highway 213
+North Carolina Highway 213	has-type	state highway
+state highway	surface_form	state highway

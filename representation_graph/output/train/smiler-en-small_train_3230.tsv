@@ -1,0 +1,93 @@
+3229_0	is_in_sentence	sentence_3229
+3229_0	compound	3229_1
+3229_0	has_surface_form	Samuel
+3229_0	part_of_entity	Samuel Ray Graves
+3229_1	is_in_sentence	sentence_3229
+3229_1	compound	3229_2
+3229_1	has_surface_form	Ray
+3229_1	part_of_entity	Samuel Ray Graves
+3229_2	is_in_sentence	sentence_3229
+3229_2	nsubj	3229_14
+3229_2	has_surface_form	Graves
+3229_2	part_of_entity	Samuel Ray Graves
+3229_14	is_in_sentence	sentence_3229
+3229_14	ROOT	3229_14
+3229_14	has_surface_form	was
+3229_3	is_in_sentence	sentence_3229
+3229_3	punct	3229_2
+3229_3	has_surface_form	(
+3229_4	is_in_sentence	sentence_3229
+3229_4	appos	3229_2
+3229_4	has_surface_form	December
+3229_5	is_in_sentence	sentence_3229
+3229_5	nummod	3229_4
+3229_5	has_surface_form	31
+3229_6	is_in_sentence	sentence_3229
+3229_6	punct	3229_4
+3229_6	has_surface_form	,
+3229_7	is_in_sentence	sentence_3229
+3229_7	appos	3229_4
+3229_7	has_surface_form	1918
+3229_8	is_in_sentence	sentence_3229
+3229_8	punct	3229_2
+3229_8	has_surface_form	–
+3229_9	is_in_sentence	sentence_3229
+3229_9	appos	3229_2
+3229_9	has_surface_form	April
+3229_10	is_in_sentence	sentence_3229
+3229_10	nummod	3229_9
+3229_10	has_surface_form	10
+3229_11	is_in_sentence	sentence_3229
+3229_11	punct	3229_9
+3229_11	has_surface_form	,
+3229_12	is_in_sentence	sentence_3229
+3229_12	nummod	3229_9
+3229_12	has_surface_form	2015
+3229_13	is_in_sentence	sentence_3229
+3229_13	punct	3229_9
+3229_13	has_surface_form	)
+3229_15	is_in_sentence	sentence_3229
+3229_15	det	3229_25
+3229_15	has_surface_form	an
+3229_25	is_in_sentence	sentence_3229
+3229_25	attr	3229_14
+3229_25	has_surface_form	coach
+3229_25	part_of_entity	college football coach
+3229_16	is_in_sentence	sentence_3229
+3229_16	amod	3229_25
+3229_16	has_surface_form	American
+3229_17	is_in_sentence	sentence_3229
+3229_17	nmod	3229_21
+3229_17	has_surface_form	college
+3229_21	is_in_sentence	sentence_3229
+3229_21	nmod	3229_25
+3229_21	has_surface_form	player
+3229_18	is_in_sentence	sentence_3229
+3229_18	cc	3229_17
+3229_18	has_surface_form	and
+3229_19	is_in_sentence	sentence_3229
+3229_19	conj	3229_17
+3229_19	has_surface_form	professional
+3229_20	is_in_sentence	sentence_3229
+3229_20	nmod	3229_21
+3229_20	has_surface_form	football
+3229_22	is_in_sentence	sentence_3229
+3229_22	cc	3229_21
+3229_22	has_surface_form	and
+3229_23	is_in_sentence	sentence_3229
+3229_23	conj	3229_21
+3229_23	has_surface_form	college
+3229_23	part_of_entity	college football coach
+3229_24	is_in_sentence	sentence_3229
+3229_24	compound	3229_25
+3229_24	has_surface_form	football
+3229_24	part_of_entity	college football coach
+3229_26	is_in_sentence	sentence_3229
+3229_26	punct	3229_14
+3229_26	has_surface_form	.
+3229_27	is_in_sentence	sentence_3229
+3229_27	dep	3229_27
+3229_27	has_surface_form	
+Samuel Ray Graves	surface_form	Samuel Ray Graves
+Samuel Ray Graves	has-type	college football coach
+college football coach	surface_form	college football coach

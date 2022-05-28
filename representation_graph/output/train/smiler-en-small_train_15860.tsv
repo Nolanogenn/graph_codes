@@ -1,0 +1,64 @@
+15859_0	is_in_sentence	sentence_15859
+15859_0	compound	15859_1
+15859_0	has_surface_form	Police
+15859_0	part_of_entity	Police Nurse
+15859_1	is_in_sentence	sentence_15859
+15859_1	nsubj	15859_2
+15859_1	has_surface_form	Nurse
+15859_1	part_of_entity	Police Nurse
+15859_2	is_in_sentence	sentence_15859
+15859_2	ROOT	15859_2
+15859_2	has_surface_form	is
+15859_3	is_in_sentence	sentence_15859
+15859_3	det	15859_7
+15859_3	has_surface_form	a
+15859_7	is_in_sentence	sentence_15859
+15859_7	attr	15859_2
+15859_7	has_surface_form	film
+15859_4	is_in_sentence	sentence_15859
+15859_4	nummod	15859_7
+15859_4	has_surface_form	1963
+15859_5	is_in_sentence	sentence_15859
+15859_5	amod	15859_7
+15859_5	has_surface_form	American
+15859_6	is_in_sentence	sentence_15859
+15859_6	compound	15859_7
+15859_6	has_surface_form	drama
+15859_8	is_in_sentence	sentence_15859
+15859_8	acl	15859_7
+15859_8	has_surface_form	directed
+15859_9	is_in_sentence	sentence_15859
+15859_9	agent	15859_8
+15859_9	has_surface_form	by
+15859_10	is_in_sentence	sentence_15859
+15859_10	compound	15859_11
+15859_10	has_surface_form	Maury
+15859_10	part_of_entity	Maury Dexter
+15859_11	is_in_sentence	sentence_15859
+15859_11	pobj	15859_9
+15859_11	has_surface_form	Dexter
+15859_11	part_of_entity	Maury Dexter
+15859_12	is_in_sentence	sentence_15859
+15859_12	cc	15859_8
+15859_12	has_surface_form	and
+15859_13	is_in_sentence	sentence_15859
+15859_13	conj	15859_8
+15859_13	has_surface_form	written
+15859_14	is_in_sentence	sentence_15859
+15859_14	agent	15859_13
+15859_14	has_surface_form	by
+15859_15	is_in_sentence	sentence_15859
+15859_15	compound	15859_16
+15859_15	has_surface_form	Harry
+15859_16	is_in_sentence	sentence_15859
+15859_16	pobj	15859_14
+15859_16	has_surface_form	Spalding
+15859_17	is_in_sentence	sentence_15859
+15859_17	punct	15859_2
+15859_17	has_surface_form	.
+15859_18	is_in_sentence	sentence_15859
+15859_18	dep	15859_2
+15859_18	has_surface_form	
+Police Nurse	surface_form	Police Nurse
+Police Nurse	movie-has-director	Maury Dexter
+Maury Dexter	surface_form	Maury Dexter

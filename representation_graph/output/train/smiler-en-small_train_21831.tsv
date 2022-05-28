@@ -1,0 +1,61 @@
+21830_0	is_in_sentence	sentence_21830
+21830_0	compound	21830_1
+21830_0	has_surface_form	Eldrick
+21830_0	part_of_entity	Eldrick Tont Tiger Woods
+21830_1	is_in_sentence	sentence_21830
+21830_1	compound	21830_3
+21830_1	has_surface_form	Tont
+21830_1	part_of_entity	Eldrick Tont Tiger Woods
+21830_3	is_in_sentence	sentence_21830
+21830_3	nsubj	21830_11
+21830_3	has_surface_form	Woods
+21830_3	part_of_entity	Eldrick Tont Tiger Woods
+21830_2	is_in_sentence	sentence_21830
+21830_2	compound	21830_3
+21830_2	has_surface_form	Tiger
+21830_2	part_of_entity	Eldrick Tont Tiger Woods
+21830_11	is_in_sentence	sentence_21830
+21830_11	ROOT	21830_11
+21830_11	has_surface_form	is
+21830_4	is_in_sentence	sentence_21830
+21830_4	punct	21830_3
+21830_4	has_surface_form	(
+21830_5	is_in_sentence	sentence_21830
+21830_5	acl	21830_3
+21830_5	has_surface_form	born
+21830_6	is_in_sentence	sentence_21830
+21830_6	npadvmod	21830_5
+21830_6	has_surface_form	December
+21830_7	is_in_sentence	sentence_21830
+21830_7	nummod	21830_6
+21830_7	has_surface_form	30
+21830_8	is_in_sentence	sentence_21830
+21830_8	punct	21830_6
+21830_8	has_surface_form	,
+21830_9	is_in_sentence	sentence_21830
+21830_9	nummod	21830_6
+21830_9	has_surface_form	1975
+21830_10	is_in_sentence	sentence_21830
+21830_10	punct	21830_3
+21830_10	has_surface_form	)
+21830_12	is_in_sentence	sentence_21830
+21830_12	det	21830_15
+21830_12	has_surface_form	an
+21830_15	is_in_sentence	sentence_21830
+21830_15	attr	21830_11
+21830_15	has_surface_form	golfer
+21830_13	is_in_sentence	sentence_21830
+21830_13	amod	21830_15
+21830_13	is_entity	American
+American	surface_form	American
+21830_14	is_in_sentence	sentence_21830
+21830_14	amod	21830_15
+21830_14	has_surface_form	professional
+21830_16	is_in_sentence	sentence_21830
+21830_16	punct	21830_11
+21830_16	has_surface_form	.
+21830_17	is_in_sentence	sentence_21830
+21830_17	dep	21830_11
+21830_17	has_surface_form	
+Eldrick Tont Tiger Woods	surface_form	Eldrick Tont Tiger Woods
+Eldrick Tont Tiger Woods	has-nationality	American

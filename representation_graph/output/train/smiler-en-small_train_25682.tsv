@@ -1,0 +1,104 @@
+25681_0	is_in_sentence	sentence_25681
+25681_0	det	25681_2
+25681_0	has_surface_form	The
+25681_0	part_of_entity	The Beautiful Sailor
+25681_2	is_in_sentence	sentence_25681
+25681_2	ROOT	25681_2
+25681_2	has_surface_form	Sailor
+25681_2	part_of_entity	The Beautiful Sailor
+25681_1	is_in_sentence	sentence_25681
+25681_1	amod	25681_2
+25681_1	has_surface_form	Beautiful
+25681_1	part_of_entity	The Beautiful Sailor
+25681_3	is_in_sentence	sentence_25681
+25681_3	punct	25681_4
+25681_3	has_surface_form	(
+25681_4	is_in_sentence	sentence_25681
+25681_4	appos	25681_2
+25681_4	has_surface_form	French
+25681_5	is_in_sentence	sentence_25681
+25681_5	punct	25681_4
+25681_5	has_surface_form	:
+25681_6	is_in_sentence	sentence_25681
+25681_6	compound	25681_8
+25681_6	has_surface_form	La
+25681_8	is_in_sentence	sentence_25681
+25681_8	nsubj	25681_10
+25681_8	has_surface_form	marinière
+25681_7	is_in_sentence	sentence_25681
+25681_7	compound	25681_8
+25681_7	has_surface_form	belle
+25681_10	is_in_sentence	sentence_25681
+25681_10	ROOT	25681_10
+25681_10	has_surface_form	is
+25681_9	is_in_sentence	sentence_25681
+25681_9	punct	25681_8
+25681_9	has_surface_form	)
+25681_11	is_in_sentence	sentence_25681
+25681_11	det	25681_15
+25681_11	has_surface_form	a
+25681_15	is_in_sentence	sentence_25681
+25681_15	attr	25681_10
+25681_15	has_surface_form	film
+25681_12	is_in_sentence	sentence_25681
+25681_12	nummod	25681_15
+25681_12	has_surface_form	1932
+25681_13	is_in_sentence	sentence_25681
+25681_13	amod	25681_15
+25681_13	has_surface_form	French
+25681_14	is_in_sentence	sentence_25681
+25681_14	compound	25681_15
+25681_14	has_surface_form	drama
+25681_16	is_in_sentence	sentence_25681
+25681_16	acl	25681_15
+25681_16	has_surface_form	directed
+25681_17	is_in_sentence	sentence_25681
+25681_17	agent	25681_16
+25681_17	has_surface_form	by
+25681_18	is_in_sentence	sentence_25681
+25681_18	compound	25681_19
+25681_18	has_surface_form	Harry
+25681_18	part_of_entity	Harry Lachman
+25681_19	is_in_sentence	sentence_25681
+25681_19	pobj	25681_17
+25681_19	has_surface_form	Lachman
+25681_19	part_of_entity	Harry Lachman
+25681_20	is_in_sentence	sentence_25681
+25681_20	cc	25681_16
+25681_20	has_surface_form	and
+25681_21	is_in_sentence	sentence_25681
+25681_21	conj	25681_16
+25681_21	has_surface_form	starring
+25681_22	is_in_sentence	sentence_25681
+25681_22	compound	25681_23
+25681_22	has_surface_form	Pierre
+25681_23	is_in_sentence	sentence_25681
+25681_23	dobj	25681_21
+25681_23	has_surface_form	Blanchar
+25681_24	is_in_sentence	sentence_25681
+25681_24	punct	25681_23
+25681_24	has_surface_form	,
+25681_25	is_in_sentence	sentence_25681
+25681_25	compound	25681_26
+25681_25	has_surface_form	Madeleine
+25681_26	is_in_sentence	sentence_25681
+25681_26	conj	25681_23
+25681_26	has_surface_form	Renaud
+25681_27	is_in_sentence	sentence_25681
+25681_27	cc	25681_26
+25681_27	has_surface_form	and
+25681_28	is_in_sentence	sentence_25681
+25681_28	compound	25681_29
+25681_28	has_surface_form	Jean
+25681_29	is_in_sentence	sentence_25681
+25681_29	conj	25681_26
+25681_29	has_surface_form	Gabin
+25681_30	is_in_sentence	sentence_25681
+25681_30	punct	25681_10
+25681_30	has_surface_form	.
+25681_31	is_in_sentence	sentence_25681
+25681_31	dep	25681_31
+25681_31	has_surface_form	
+The Beautiful Sailor	surface_form	The Beautiful Sailor
+The Beautiful Sailor	movie-has-director	Harry Lachman
+Harry Lachman	surface_form	Harry Lachman

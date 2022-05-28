@@ -1,0 +1,49 @@
+811_0	is_in_sentence	sentence_811
+811_0	det	811_2
+811_0	has_surface_form	The
+811_2	is_in_sentence	sentence_811
+811_2	nsubj	811_3
+811_2	has_surface_form	Foundation
+811_2	part_of_entity	Comino Foundation
+811_1	is_in_sentence	sentence_811
+811_1	compound	811_2
+811_1	has_surface_form	Comino
+811_1	part_of_entity	Comino Foundation
+811_3	is_in_sentence	sentence_811
+811_3	ROOT	811_3
+811_3	has_surface_form	is
+811_4	is_in_sentence	sentence_811
+811_4	det	811_11
+811_4	has_surface_form	a
+811_11	is_in_sentence	sentence_811
+811_11	attr	811_3
+811_11	has_surface_form	organization
+811_11	part_of_entity	charitable organization
+811_5	is_in_sentence	sentence_811
+811_5	compound	811_6
+811_5	has_surface_form	United
+811_6	is_in_sentence	sentence_811
+811_6	npadvmod	811_8
+811_6	has_surface_form	Kingdom
+811_8	is_in_sentence	sentence_811
+811_8	amod	811_11
+811_8	has_surface_form	based
+811_7	is_in_sentence	sentence_811
+811_7	punct	811_8
+811_7	has_surface_form	-
+811_9	is_in_sentence	sentence_811
+811_9	amod	811_11
+811_9	has_surface_form	educational
+811_10	is_in_sentence	sentence_811
+811_10	amod	811_11
+811_10	has_surface_form	charitable
+811_10	part_of_entity	charitable organization
+811_12	is_in_sentence	sentence_811
+811_12	punct	811_3
+811_12	has_surface_form	.
+811_13	is_in_sentence	sentence_811
+811_13	dep	811_13
+811_13	has_surface_form	
+Comino Foundation	surface_form	Comino Foundation
+Comino Foundation	has-type	charitable organization
+charitable organization	surface_form	charitable organization

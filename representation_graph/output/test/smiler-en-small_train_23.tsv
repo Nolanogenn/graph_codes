@@ -1,0 +1,82 @@
+22_0	is_in_sentence	sentence_22
+22_0	compound	22_1
+22_0	has_surface_form	Jim
+22_0	part_of_entity	Jim Kelly
+22_1	is_in_sentence	sentence_22
+22_1	nsubj	22_2
+22_1	has_surface_form	Kelly
+22_1	part_of_entity	Jim Kelly
+22_2	is_in_sentence	sentence_22
+22_2	ROOT	22_2
+22_2	has_surface_form	is
+22_3	is_in_sentence	sentence_22
+22_3	det	22_4
+22_3	has_surface_form	an
+22_4	is_in_sentence	sentence_22
+22_4	attr	22_2
+22_4	has_surface_form	author
+22_5	is_in_sentence	sentence_22
+22_5	cc	22_4
+22_5	has_surface_form	and
+22_6	is_in_sentence	sentence_22
+22_6	conj	22_4
+22_6	has_surface_form	journalist
+22_7	is_in_sentence	sentence_22
+22_7	punct	22_2
+22_7	has_surface_form	.
+22_8	is_in_sentence	sentence_22
+22_8	nsubj	22_9
+22_8	has_surface_form	Kelly
+22_9	is_in_sentence	sentence_22
+22_9	ROOT	22_9
+22_9	has_surface_form	won
+22_10	is_in_sentence	sentence_22
+22_10	det	22_14
+22_10	has_surface_form	the
+22_14	is_in_sentence	sentence_22
+22_14	dobj	22_9
+22_14	has_surface_form	Dagger
+22_14	part_of_entity	Crime Writers Association Dagger in the Library award
+22_11	is_in_sentence	sentence_22
+22_11	compound	22_12
+22_11	has_surface_form	Crime
+22_11	part_of_entity	Crime Writers Association Dagger in the Library award
+22_12	is_in_sentence	sentence_22
+22_12	compound	22_13
+22_12	has_surface_form	Writers
+22_12	part_of_entity	Crime Writers Association Dagger in the Library award
+22_13	is_in_sentence	sentence_22
+22_13	compound	22_14
+22_13	has_surface_form	Association
+22_13	part_of_entity	Crime Writers Association Dagger in the Library award
+22_15	is_in_sentence	sentence_22
+22_15	prep	22_14
+22_15	has_surface_form	in
+22_15	part_of_entity	Crime Writers Association Dagger in the Library award
+22_16	is_in_sentence	sentence_22
+22_16	det	22_18
+22_16	has_surface_form	the
+22_16	part_of_entity	Crime Writers Association Dagger in the Library award
+22_18	is_in_sentence	sentence_22
+22_18	pobj	22_15
+22_18	has_surface_form	award
+22_18	part_of_entity	Crime Writers Association Dagger in the Library award
+22_17	is_in_sentence	sentence_22
+22_17	compound	22_18
+22_17	has_surface_form	Library
+22_17	part_of_entity	Crime Writers Association Dagger in the Library award
+22_19	is_in_sentence	sentence_22
+22_19	prep	22_9
+22_19	has_surface_form	in
+22_20	is_in_sentence	sentence_22
+22_20	pobj	22_19
+22_20	has_surface_form	2006
+22_21	is_in_sentence	sentence_22
+22_21	punct	22_9
+22_21	has_surface_form	.
+22_22	is_in_sentence	sentence_22
+22_22	dep	22_22
+22_22	has_surface_form	
+Jim Kelly	surface_form	Jim Kelly
+Jim Kelly	won-award	Crime Writers Association Dagger in the Library award
+Crime Writers Association Dagger in the Library award	surface_form	Crime Writers Association Dagger in the Library award

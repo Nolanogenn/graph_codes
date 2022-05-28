@@ -1,0 +1,59 @@
+21820_0	is_in_sentence	sentence_21820
+21820_0	compound	21820_1
+21820_0	has_surface_form	Iain
+21820_0	part_of_entity	Iain Banks
+21820_1	is_in_sentence	sentence_21820
+21820_1	nsubj	21820_12
+21820_1	has_surface_form	Banks
+21820_1	part_of_entity	Iain Banks
+21820_12	is_in_sentence	sentence_21820
+21820_12	ROOT	21820_12
+21820_12	has_surface_form	was
+21820_2	is_in_sentence	sentence_21820
+21820_2	punct	21820_1
+21820_2	has_surface_form	(
+21820_3	is_in_sentence	sentence_21820
+21820_3	nummod	21820_4
+21820_3	has_surface_form	16
+21820_4	is_in_sentence	sentence_21820
+21820_4	appos	21820_1
+21820_4	has_surface_form	February
+21820_5	is_in_sentence	sentence_21820
+21820_5	nummod	21820_4
+21820_5	has_surface_form	1954
+21820_6	is_in_sentence	sentence_21820
+21820_6	dep	21820_1
+21820_6	has_surface_form	 
+21820_7	is_in_sentence	sentence_21820
+21820_7	punct	21820_1
+21820_7	has_surface_form	–
+21820_8	is_in_sentence	sentence_21820
+21820_8	nummod	21820_9
+21820_8	has_surface_form	9
+21820_9	is_in_sentence	sentence_21820
+21820_9	appos	21820_1
+21820_9	has_surface_form	June
+21820_10	is_in_sentence	sentence_21820
+21820_10	nummod	21820_9
+21820_10	has_surface_form	2013
+21820_11	is_in_sentence	sentence_21820
+21820_11	punct	21820_9
+21820_11	has_surface_form	)
+21820_13	is_in_sentence	sentence_21820
+21820_13	det	21820_15
+21820_13	has_surface_form	a
+21820_15	is_in_sentence	sentence_21820
+21820_15	attr	21820_12
+21820_15	is_entity	author
+21820_14	is_in_sentence	sentence_21820
+21820_14	amod	21820_15
+21820_14	has_surface_form	Scottish
+author	surface_form	author
+21820_16	is_in_sentence	sentence_21820
+21820_16	punct	21820_12
+21820_16	has_surface_form	.
+21820_17	is_in_sentence	sentence_21820
+21820_17	dep	21820_17
+21820_17	has_surface_form	
+Iain Banks	surface_form	Iain Banks
+Iain Banks	has-type	author

@@ -1,0 +1,89 @@
+16013_0	is_in_sentence	sentence_16013
+16013_0	compound	16013_1
+16013_0	has_surface_form	Napa
+16013_0	part_of_entity	Napa Valley College
+16013_1	is_in_sentence	sentence_16013
+16013_1	compound	16013_2
+16013_1	has_surface_form	Valley
+16013_1	part_of_entity	Napa Valley College
+16013_2	is_in_sentence	sentence_16013
+16013_2	nsubj	16013_15
+16013_2	has_surface_form	College
+16013_2	part_of_entity	Napa Valley College
+16013_15	is_in_sentence	sentence_16013
+16013_15	ROOT	16013_15
+16013_15	has_surface_form	is
+16013_3	is_in_sentence	sentence_16013
+16013_3	punct	16013_2
+16013_3	has_surface_form	,
+16013_4	is_in_sentence	sentence_16013
+16013_4	advmod	16013_5
+16013_4	has_surface_form	formerly
+16013_5	is_in_sentence	sentence_16013
+16013_5	acl	16013_2
+16013_5	has_surface_form	known
+16013_6	is_in_sentence	sentence_16013
+16013_6	prep	16013_5
+16013_6	has_surface_form	as
+16013_7	is_in_sentence	sentence_16013
+16013_7	compound	16013_9
+16013_7	has_surface_form	Napa
+16013_9	is_in_sentence	sentence_16013
+16013_9	pobj	16013_6
+16013_9	has_surface_form	College
+16013_8	is_in_sentence	sentence_16013
+16013_8	compound	16013_9
+16013_8	has_surface_form	Junior
+16013_10	is_in_sentence	sentence_16013
+16013_10	cc	16013_9
+16013_10	has_surface_form	and
+16013_11	is_in_sentence	sentence_16013
+16013_11	compound	16013_12
+16013_11	has_surface_form	Napa
+16013_12	is_in_sentence	sentence_16013
+16013_12	compound	16013_13
+16013_12	has_surface_form	Community
+16013_13	is_in_sentence	sentence_16013
+16013_13	pobj	16013_6
+16013_13	has_surface_form	College
+16013_14	is_in_sentence	sentence_16013
+16013_14	punct	16013_2
+16013_14	has_surface_form	,
+16013_16	is_in_sentence	sentence_16013
+16013_16	det	16013_19
+16013_16	has_surface_form	a
+16013_19	is_in_sentence	sentence_16013
+16013_19	attr	16013_15
+16013_19	has_surface_form	college
+16013_19	part_of_entity	community college
+16013_17	is_in_sentence	sentence_16013
+16013_17	amod	16013_18
+16013_17	has_surface_form	public
+16013_18	is_in_sentence	sentence_16013
+16013_18	compound	16013_19
+16013_18	has_surface_form	community
+16013_18	part_of_entity	community college
+16013_20	is_in_sentence	sentence_16013
+16013_20	prep	16013_19
+16013_20	has_surface_form	in
+16013_21	is_in_sentence	sentence_16013
+16013_21	compound	16013_22
+16013_21	has_surface_form	Napa
+16013_22	is_in_sentence	sentence_16013
+16013_22	pobj	16013_20
+16013_22	has_surface_form	Valley
+16013_23	is_in_sentence	sentence_16013
+16013_23	punct	16013_22
+16013_23	has_surface_form	,
+16013_24	is_in_sentence	sentence_16013
+16013_24	appos	16013_22
+16013_24	has_surface_form	California
+16013_25	is_in_sentence	sentence_16013
+16013_25	punct	16013_15
+16013_25	has_surface_form	.
+16013_26	is_in_sentence	sentence_16013
+16013_26	dep	16013_26
+16013_26	has_surface_form	
+Napa Valley College	surface_form	Napa Valley College
+Napa Valley College	has-type	community college
+community college	surface_form	community college

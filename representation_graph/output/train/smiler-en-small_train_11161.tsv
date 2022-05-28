@@ -1,0 +1,88 @@
+11160_0	is_in_sentence	sentence_11160
+11160_0	nsubj	11160_1
+11160_0	has_surface_form	I
+11160_0	part_of_entity	I Like to Play Games
+11160_1	is_in_sentence	sentence_11160
+11160_1	ROOT	11160_1
+11160_1	has_surface_form	Like
+11160_1	part_of_entity	I Like to Play Games
+11160_2	is_in_sentence	sentence_11160
+11160_2	aux	11160_3
+11160_2	has_surface_form	to
+11160_2	part_of_entity	I Like to Play Games
+11160_3	is_in_sentence	sentence_11160
+11160_3	xcomp	11160_1
+11160_3	has_surface_form	Play
+11160_3	part_of_entity	I Like to Play Games
+11160_4	is_in_sentence	sentence_11160
+11160_4	dobj	11160_3
+11160_4	has_surface_form	Games
+11160_4	part_of_entity	I Like to Play Games
+11160_5	is_in_sentence	sentence_11160
+11160_5	conj	11160_1
+11160_5	has_surface_form	is
+11160_6	is_in_sentence	sentence_11160
+11160_6	det	11160_11
+11160_6	has_surface_form	a
+11160_11	is_in_sentence	sentence_11160
+11160_11	attr	11160_5
+11160_11	has_surface_form	film
+11160_7	is_in_sentence	sentence_11160
+11160_7	nummod	11160_11
+11160_7	has_surface_form	1995
+11160_8	is_in_sentence	sentence_11160
+11160_8	amod	11160_11
+11160_8	has_surface_form	American
+11160_9	is_in_sentence	sentence_11160
+11160_9	amod	11160_11
+11160_9	has_surface_form	erotic
+11160_10	is_in_sentence	sentence_11160
+11160_10	compound	11160_11
+11160_10	has_surface_form	drama
+11160_12	is_in_sentence	sentence_11160
+11160_12	nsubjpass	11160_14
+11160_12	has_surface_form	that
+11160_14	is_in_sentence	sentence_11160
+11160_14	relcl	11160_11
+11160_14	has_surface_form	directed
+11160_13	is_in_sentence	sentence_11160
+11160_13	auxpass	11160_14
+11160_13	has_surface_form	was
+11160_15	is_in_sentence	sentence_11160
+11160_15	agent	11160_14
+11160_15	has_surface_form	by
+11160_16	is_in_sentence	sentence_11160
+11160_16	compound	11160_17
+11160_16	has_surface_form	Moctezuma
+11160_16	part_of_entity	Moctezuma Lobato
+11160_17	is_in_sentence	sentence_11160
+11160_17	pobj	11160_15
+11160_17	has_surface_form	Lobato
+11160_17	part_of_entity	Moctezuma Lobato
+11160_18	is_in_sentence	sentence_11160
+11160_18	cc	11160_14
+11160_18	has_surface_form	and
+11160_19	is_in_sentence	sentence_11160
+11160_19	conj	11160_14
+11160_19	has_surface_form	written
+11160_20	is_in_sentence	sentence_11160
+11160_20	agent	11160_19
+11160_20	has_surface_form	by
+11160_21	is_in_sentence	sentence_11160
+11160_21	compound	11160_23
+11160_21	has_surface_form	David
+11160_23	is_in_sentence	sentence_11160
+11160_23	pobj	11160_20
+11160_23	has_surface_form	Miller
+11160_22	is_in_sentence	sentence_11160
+11160_22	compound	11160_23
+11160_22	has_surface_form	Keith
+11160_24	is_in_sentence	sentence_11160
+11160_24	punct	11160_1
+11160_24	has_surface_form	.
+11160_25	is_in_sentence	sentence_11160
+11160_25	dep	11160_25
+11160_25	has_surface_form	
+I Like to Play Games	surface_form	I Like to Play Games
+I Like to Play Games	movie-has-director	Moctezuma Lobato
+Moctezuma Lobato	surface_form	Moctezuma Lobato

@@ -1,0 +1,91 @@
+4685_0	is_in_sentence	sentence_4685
+4685_0	compound	4685_1
+4685_0	has_surface_form	Ron
+4685_0	part_of_entity	Ron Bradley
+4685_1	is_in_sentence	sentence_4685
+4685_1	nsubj	4685_9
+4685_1	has_surface_form	Bradley
+4685_1	part_of_entity	Ron Bradley
+4685_9	is_in_sentence	sentence_4685
+4685_9	ROOT	4685_9
+4685_9	has_surface_form	is
+4685_2	is_in_sentence	sentence_4685
+4685_2	punct	4685_1
+4685_2	has_surface_form	(
+4685_3	is_in_sentence	sentence_4685
+4685_3	acl	4685_1
+4685_3	has_surface_form	born
+4685_4	is_in_sentence	sentence_4685
+4685_4	npadvmod	4685_3
+4685_4	has_surface_form	February
+4685_5	is_in_sentence	sentence_4685
+4685_5	nummod	4685_4
+4685_5	has_surface_form	9
+4685_6	is_in_sentence	sentence_4685
+4685_6	punct	4685_4
+4685_6	has_surface_form	,
+4685_7	is_in_sentence	sentence_4685
+4685_7	nummod	4685_4
+4685_7	has_surface_form	1951
+4685_8	is_in_sentence	sentence_4685
+4685_8	punct	4685_1
+4685_8	has_surface_form	)
+4685_10	is_in_sentence	sentence_4685
+4685_10	det	4685_11
+4685_10	has_surface_form	a
+4685_11	is_in_sentence	sentence_4685
+4685_11	poss	4685_15
+4685_11	has_surface_form	men
+4685_15	is_in_sentence	sentence_4685
+4685_15	attr	4685_9
+4685_15	has_surface_form	coach
+4685_15	part_of_entity	basketball coach
+4685_12	is_in_sentence	sentence_4685
+4685_12	case	4685_11
+4685_12	has_surface_form	's
+4685_13	is_in_sentence	sentence_4685
+4685_13	compound	4685_14
+4685_13	has_surface_form	college
+4685_14	is_in_sentence	sentence_4685
+4685_14	compound	4685_15
+4685_14	has_surface_form	basketball
+4685_14	part_of_entity	basketball coach
+4685_16	is_in_sentence	sentence_4685
+4685_16	punct	4685_15
+4685_16	has_surface_form	,
+4685_17	is_in_sentence	sentence_4685
+4685_17	advmod	4685_20
+4685_17	has_surface_form	currently
+4685_20	is_in_sentence	sentence_4685
+4685_20	appos	4685_15
+4685_20	has_surface_form	coach
+4685_18	is_in_sentence	sentence_4685
+4685_18	det	4685_20
+4685_18	has_surface_form	an
+4685_19	is_in_sentence	sentence_4685
+4685_19	amod	4685_20
+4685_19	has_surface_form	assistant
+4685_21	is_in_sentence	sentence_4685
+4685_21	prep	4685_20
+4685_21	has_surface_form	with
+4685_22	is_in_sentence	sentence_4685
+4685_22	det	4685_25
+4685_22	has_surface_form	the
+4685_25	is_in_sentence	sentence_4685
+4685_25	pobj	4685_21
+4685_25	has_surface_form	Spartans
+4685_23	is_in_sentence	sentence_4685
+4685_23	compound	4685_25
+4685_23	has_surface_form	USC
+4685_24	is_in_sentence	sentence_4685
+4685_24	compound	4685_25
+4685_24	has_surface_form	Upstate
+4685_26	is_in_sentence	sentence_4685
+4685_26	punct	4685_9
+4685_26	has_surface_form	.
+4685_27	is_in_sentence	sentence_4685
+4685_27	dep	4685_9
+4685_27	has_surface_form	
+Ron Bradley	surface_form	Ron Bradley
+Ron Bradley	has-type	basketball coach
+basketball coach	surface_form	basketball coach

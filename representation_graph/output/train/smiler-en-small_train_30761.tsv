@@ -1,0 +1,85 @@
+30760_0	is_in_sentence	sentence_30760
+30760_0	compound	30760_1
+30760_0	has_surface_form	Arianna
+30760_0	part_of_entity	Arianna Savall i Figueras
+30760_1	is_in_sentence	sentence_30760
+30760_1	nsubj	30760_12
+30760_1	has_surface_form	Savall
+30760_1	part_of_entity	Arianna Savall i Figueras
+30760_12	is_in_sentence	sentence_30760
+30760_12	ROOT	30760_12
+30760_12	has_surface_form	is
+30760_2	is_in_sentence	sentence_30760
+30760_2	compound	30760_3
+30760_2	has_surface_form	i
+30760_2	part_of_entity	Arianna Savall i Figueras
+30760_3	is_in_sentence	sentence_30760
+30760_3	appos	30760_1
+30760_3	has_surface_form	Figueras
+30760_3	part_of_entity	Arianna Savall i Figueras
+30760_4	is_in_sentence	sentence_30760
+30760_4	punct	30760_3
+30760_4	has_surface_form	(
+30760_5	is_in_sentence	sentence_30760
+30760_5	acl	30760_3
+30760_5	has_surface_form	born
+30760_6	is_in_sentence	sentence_30760
+30760_6	npadvmod	30760_5
+30760_6	has_surface_form	1972
+30760_7	is_in_sentence	sentence_30760
+30760_7	prep	30760_5
+30760_7	has_surface_form	in
+30760_8	is_in_sentence	sentence_30760
+30760_8	pobj	30760_7
+30760_8	has_surface_form	Basel
+30760_9	is_in_sentence	sentence_30760
+30760_9	punct	30760_8
+30760_9	has_surface_form	,
+30760_10	is_in_sentence	sentence_30760
+30760_10	appos	30760_8
+30760_10	has_surface_form	Switzerland
+30760_11	is_in_sentence	sentence_30760
+30760_11	punct	30760_3
+30760_11	has_surface_form	)
+30760_13	is_in_sentence	sentence_30760
+30760_13	det	30760_19
+30760_13	has_surface_form	a
+30760_19	is_in_sentence	sentence_30760
+30760_19	attr	30760_12
+30760_19	has_surface_form	singer
+30760_14	is_in_sentence	sentence_30760
+30760_14	npadvmod	30760_16
+30760_14	has_surface_form	Swiss
+30760_16	is_in_sentence	sentence_30760
+30760_16	amod	30760_19
+30760_16	has_surface_form	born
+30760_15	is_in_sentence	sentence_30760
+30760_15	punct	30760_16
+30760_15	has_surface_form	-
+30760_17	is_in_sentence	sentence_30760
+30760_17	nmod	30760_19
+30760_17	has_surface_form	Catalan
+30760_18	is_in_sentence	sentence_30760
+30760_18	amod	30760_19
+30760_18	has_surface_form	classical
+30760_20	is_in_sentence	sentence_30760
+30760_20	punct	30760_19
+30760_20	has_surface_form	,
+30760_21	is_in_sentence	sentence_30760
+30760_21	conj	30760_19
+30760_21	has_surface_form	harpist
+30760_22	is_in_sentence	sentence_30760
+30760_22	cc	30760_21
+30760_22	has_surface_form	and
+30760_23	is_in_sentence	sentence_30760
+30760_23	conj	30760_21
+30760_23	has_surface_form	composer
+30760_24	is_in_sentence	sentence_30760
+30760_24	punct	30760_12
+30760_24	has_surface_form	.
+30760_25	is_in_sentence	sentence_30760
+30760_25	dep	30760_25
+30760_25	has_surface_form	
+Arianna Savall i Figueras	surface_form	Arianna Savall i Figueras
+Arianna Savall i Figueras	birth-place	Basel, Switzerland
+Basel, Switzerland	surface_form	Basel, Switzerland

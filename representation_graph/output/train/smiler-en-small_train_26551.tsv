@@ -1,0 +1,72 @@
+26550_0	is_in_sentence	sentence_26550
+26550_0	nsubj	26550_10
+26550_0	has_surface_form	Goodbye
+26550_10	is_in_sentence	sentence_26550
+26550_10	ROOT	26550_10
+26550_10	has_surface_form	is
+26550_1	is_in_sentence	sentence_26550
+26550_1	punct	26550_0
+26550_1	has_surface_form	,
+26550_2	is_in_sentence	sentence_26550
+26550_2	npadvmod	26550_0
+26550_2	has_surface_form	Ninon
+26550_3	is_in_sentence	sentence_26550
+26550_3	punct	26550_0
+26550_3	has_surface_form	(
+26550_4	is_in_sentence	sentence_26550
+26550_4	appos	26550_0
+26550_4	has_surface_form	Spanish
+26550_5	is_in_sentence	sentence_26550
+26550_5	punct	26550_4
+26550_5	has_surface_form	:
+26550_6	is_in_sentence	sentence_26550
+26550_6	nmod	26550_8
+26550_6	has_surface_form	Adiós
+26550_8	is_in_sentence	sentence_26550
+26550_8	appos	26550_0
+26550_8	has_surface_form	Ninón
+26550_7	is_in_sentence	sentence_26550
+26550_7	punct	26550_6
+26550_7	has_surface_form	,
+26550_9	is_in_sentence	sentence_26550
+26550_9	punct	26550_0
+26550_9	has_surface_form	)
+26550_11	is_in_sentence	sentence_26550
+26550_11	det	26550_14
+26550_11	has_surface_form	a
+26550_14	is_in_sentence	sentence_26550
+26550_14	attr	26550_10
+26550_14	has_surface_form	film
+26550_12	is_in_sentence	sentence_26550
+26550_12	nummod	26550_14
+26550_12	has_surface_form	1960
+26550_13	is_in_sentence	sentence_26550
+26550_13	amod	26550_14
+26550_13	has_surface_form	Spanish
+26550_15	is_in_sentence	sentence_26550
+26550_15	acl	26550_14
+26550_15	has_surface_form	directed
+26550_16	is_in_sentence	sentence_26550
+26550_16	agent	26550_15
+26550_16	has_surface_form	by
+26550_17	is_in_sentence	sentence_26550
+26550_17	compound	26550_19
+26550_17	has_surface_form	José
+26550_17	part_of_entity	José Luis Madrid
+26550_19	is_in_sentence	sentence_26550
+26550_19	pobj	26550_16
+26550_19	has_surface_form	Madrid
+26550_19	part_of_entity	José Luis Madrid
+26550_18	is_in_sentence	sentence_26550
+26550_18	compound	26550_19
+26550_18	has_surface_form	Luis
+26550_18	part_of_entity	José Luis Madrid
+26550_20	is_in_sentence	sentence_26550
+26550_20	punct	26550_10
+26550_20	has_surface_form	.
+26550_21	is_in_sentence	sentence_26550
+26550_21	dep	26550_21
+26550_21	has_surface_form	
+Goodbye, Ninon	surface_form	Goodbye, Ninon
+Goodbye, Ninon	movie-has-director	José Luis Madrid
+José Luis Madrid	surface_form	José Luis Madrid

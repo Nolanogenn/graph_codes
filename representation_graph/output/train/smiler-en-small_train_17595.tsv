@@ -1,0 +1,71 @@
+17594_0	is_in_sentence	sentence_17594
+17594_0	compound	17594_1
+17594_0	has_surface_form	Baqiyatallah
+17594_0	part_of_entity	Baqiyatallah University of Medical Sciences
+17594_1	is_in_sentence	sentence_17594
+17594_1	nsubj	17594_8
+17594_1	has_surface_form	University
+17594_1	part_of_entity	Baqiyatallah University of Medical Sciences
+17594_8	is_in_sentence	sentence_17594
+17594_8	ROOT	17594_8
+17594_8	has_surface_form	is
+17594_2	is_in_sentence	sentence_17594
+17594_2	prep	17594_1
+17594_2	has_surface_form	of
+17594_2	part_of_entity	Baqiyatallah University of Medical Sciences
+17594_3	is_in_sentence	sentence_17594
+17594_3	compound	17594_4
+17594_3	has_surface_form	Medical
+17594_3	part_of_entity	Baqiyatallah University of Medical Sciences
+17594_4	is_in_sentence	sentence_17594
+17594_4	pobj	17594_2
+17594_4	has_surface_form	Sciences
+17594_4	part_of_entity	Baqiyatallah University of Medical Sciences
+17594_5	is_in_sentence	sentence_17594
+17594_5	punct	17594_6
+17594_5	has_surface_form	(
+17594_6	is_in_sentence	sentence_17594
+17594_6	appos	17594_1
+17594_6	has_surface_form	BMSU
+17594_7	is_in_sentence	sentence_17594
+17594_7	punct	17594_6
+17594_7	has_surface_form	)
+17594_9	is_in_sentence	sentence_17594
+17594_9	det	17594_14
+17594_9	has_surface_form	a
+17594_14	is_in_sentence	sentence_17594
+17594_14	attr	17594_8
+17594_14	has_surface_form	university
+17594_10	is_in_sentence	sentence_17594
+17594_10	amod	17594_14
+17594_10	has_surface_form	public
+17594_11	is_in_sentence	sentence_17594
+17594_11	cc	17594_10
+17594_11	has_surface_form	and
+17594_12	is_in_sentence	sentence_17594
+17594_12	conj	17594_10
+17594_12	has_surface_form	special
+17594_13	is_in_sentence	sentence_17594
+17594_13	amod	17594_14
+17594_13	has_surface_form	medical
+17594_15	is_in_sentence	sentence_17594
+17594_15	prep	17594_14
+17594_15	has_surface_form	in
+17594_16	is_in_sentence	sentence_17594
+17594_16	pobj	17594_15
+17594_16	is_entity	Tehran
+Tehran	surface_form	Tehran
+17594_17	is_in_sentence	sentence_17594
+17594_17	punct	17594_16
+17594_17	has_surface_form	,
+17594_18	is_in_sentence	sentence_17594
+17594_18	appos	17594_16
+17594_18	has_surface_form	Iran
+17594_19	is_in_sentence	sentence_17594
+17594_19	punct	17594_8
+17594_19	has_surface_form	.
+17594_20	is_in_sentence	sentence_17594
+17594_20	dep	17594_8
+17594_20	has_surface_form	
+Baqiyatallah University of Medical Sciences	surface_form	Baqiyatallah University of Medical Sciences
+Baqiyatallah University of Medical Sciences	is-where	Tehran

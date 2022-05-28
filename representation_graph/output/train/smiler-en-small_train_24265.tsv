@@ -1,0 +1,59 @@
+24264_0	is_in_sentence	sentence_24264
+24264_0	compound	24264_1
+24264_0	has_surface_form	Marjan
+24264_0	part_of_entity	Marjan Strojan
+24264_1	is_in_sentence	sentence_24264
+24264_1	nsubj	24264_8
+24264_1	has_surface_form	Strojan
+24264_1	part_of_entity	Marjan Strojan
+24264_8	is_in_sentence	sentence_24264
+24264_8	ROOT	24264_8
+24264_8	has_surface_form	is
+24264_2	is_in_sentence	sentence_24264
+24264_2	punct	24264_3
+24264_2	has_surface_form	(
+24264_3	is_in_sentence	sentence_24264
+24264_3	acl	24264_1
+24264_3	has_surface_form	born
+24264_4	is_in_sentence	sentence_24264
+24264_4	npadvmod	24264_3
+24264_4	has_surface_form	16
+24264_5	is_in_sentence	sentence_24264
+24264_5	npadvmod	24264_3
+24264_5	has_surface_form	August
+24264_6	is_in_sentence	sentence_24264
+24264_6	nummod	24264_5
+24264_6	has_surface_form	1949
+24264_7	is_in_sentence	sentence_24264
+24264_7	punct	24264_3
+24264_7	has_surface_form	)
+24264_9	is_in_sentence	sentence_24264
+24264_9	det	24264_11
+24264_9	has_surface_form	a
+24264_11	is_in_sentence	sentence_24264
+24264_11	attr	24264_8
+24264_11	has_surface_form	poet
+24264_10	is_in_sentence	sentence_24264
+24264_10	compound	24264_11
+24264_10	has_surface_form	Slovene
+24264_12	is_in_sentence	sentence_24264
+24264_12	punct	24264_11
+24264_12	has_surface_form	,
+24264_13	is_in_sentence	sentence_24264
+24264_13	conj	24264_11
+24264_13	has_surface_form	journalist
+24264_14	is_in_sentence	sentence_24264
+24264_14	cc	24264_13
+24264_14	has_surface_form	and
+24264_15	is_in_sentence	sentence_24264
+24264_15	conj	24264_13
+24264_15	is_entity	translator
+translator	surface_form	translator
+24264_16	is_in_sentence	sentence_24264
+24264_16	punct	24264_8
+24264_16	has_surface_form	.
+24264_17	is_in_sentence	sentence_24264
+24264_17	dep	24264_17
+24264_17	has_surface_form	
+Marjan Strojan	surface_form	Marjan Strojan
+Marjan Strojan	has-occupation	translator

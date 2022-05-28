@@ -1,0 +1,53 @@
+12826_0	is_in_sentence	sentence_12826
+12826_0	compound	12826_1
+12826_0	has_surface_form	Cybotech
+12826_0	part_of_entity	Cybotech Campus
+12826_1	is_in_sentence	sentence_12826
+12826_1	nsubj	12826_2
+12826_1	has_surface_form	Campus
+12826_1	part_of_entity	Cybotech Campus
+12826_2	is_in_sentence	sentence_12826
+12826_2	ROOT	12826_2
+12826_2	has_surface_form	is
+12826_3	is_in_sentence	sentence_12826
+12826_3	det	12826_5
+12826_3	has_surface_form	an
+12826_5	is_in_sentence	sentence_12826
+12826_5	attr	12826_2
+12826_5	has_surface_form	Institute
+12826_4	is_in_sentence	sentence_12826
+12826_4	amod	12826_5
+12826_4	has_surface_form	educational
+12826_6	is_in_sentence	sentence_12826
+12826_6	punct	12826_5
+12826_6	has_surface_form	,
+12826_7	is_in_sentence	sentence_12826
+12826_7	acl	12826_5
+12826_7	has_surface_form	located
+12826_8	is_in_sentence	sentence_12826
+12826_8	prep	12826_7
+12826_8	has_surface_form	in
+12826_9	is_in_sentence	sentence_12826
+12826_9	pobj	12826_8
+12826_9	is_entity	Patna
+Patna	surface_form	Patna
+12826_10	is_in_sentence	sentence_12826
+12826_10	punct	12826_9
+12826_10	has_surface_form	,
+12826_11	is_in_sentence	sentence_12826
+12826_11	conj	12826_9
+12826_11	has_surface_form	Bihar
+12826_12	is_in_sentence	sentence_12826
+12826_12	punct	12826_11
+12826_12	has_surface_form	,
+12826_13	is_in_sentence	sentence_12826
+12826_13	appos	12826_9
+12826_13	has_surface_form	India
+12826_14	is_in_sentence	sentence_12826
+12826_14	punct	12826_2
+12826_14	has_surface_form	.
+12826_15	is_in_sentence	sentence_12826
+12826_15	dep	12826_15
+12826_15	has_surface_form	
+Cybotech Campus	surface_form	Cybotech Campus
+Cybotech Campus	is-where	Patna

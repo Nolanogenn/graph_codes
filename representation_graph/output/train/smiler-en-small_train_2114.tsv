@@ -1,0 +1,59 @@
+2113_0	is_in_sentence	sentence_2113
+2113_0	quantmod	2113_1
+2113_0	has_surface_form	Around
+2113_1	is_in_sentence	sentence_2113
+2113_1	nummod	2113_2
+2113_1	has_surface_form	8,100
+2113_2	is_in_sentence	sentence_2113
+2113_2	nsubjpass	2113_12
+2113_2	has_surface_form	employees
+2113_12	is_in_sentence	sentence_2113
+2113_12	ROOT	2113_12
+2113_12	has_surface_form	renamed
+2113_3	is_in_sentence	sentence_2113
+2113_3	acl	2113_2
+2113_3	has_surface_form	transferred
+2113_4	is_in_sentence	sentence_2113
+2113_4	prep	2113_3
+2113_4	has_surface_form	to
+2113_5	is_in_sentence	sentence_2113
+2113_5	pobj	2113_4
+2113_5	has_surface_form	Onex
+2113_6	is_in_sentence	sentence_2113
+2113_6	punct	2113_3
+2113_6	has_surface_form	,
+2113_7	is_in_sentence	sentence_2113
+2113_7	cc	2113_2
+2113_7	has_surface_form	and
+2113_8	is_in_sentence	sentence_2113
+2113_8	compound	2113_10
+2113_8	has_surface_form	Kodak
+2113_8	part_of_entity	Kodak Health Group
+2113_10	is_in_sentence	sentence_2113
+2113_10	nsubjpass	2113_12
+2113_10	has_surface_form	Group
+2113_10	part_of_entity	Kodak Health Group
+2113_9	is_in_sentence	sentence_2113
+2113_9	compound	2113_10
+2113_9	has_surface_form	Health
+2113_9	part_of_entity	Kodak Health Group
+2113_11	is_in_sentence	sentence_2113
+2113_11	auxpass	2113_12
+2113_11	has_surface_form	was
+2113_13	is_in_sentence	sentence_2113
+2113_13	compound	2113_14
+2113_13	has_surface_form	Carestream
+2113_13	part_of_entity	Carestream Health
+2113_14	is_in_sentence	sentence_2113
+2113_14	oprd	2113_12
+2113_14	has_surface_form	Health
+2113_14	part_of_entity	Carestream Health
+2113_15	is_in_sentence	sentence_2113
+2113_15	punct	2113_12
+2113_15	has_surface_form	.
+2113_16	is_in_sentence	sentence_2113
+2113_16	dep	2113_16
+2113_16	has_surface_form	
+Kodak Health Group	surface_form	Kodak Health Group
+Kodak Health Group	no_relation	Carestream Health
+Carestream Health	surface_form	Carestream Health

@@ -1,0 +1,121 @@
+6067_0	is_in_sentence	sentence_6067
+6067_0	compound	6067_1
+6067_0	has_surface_form	Nutter
+6067_0	part_of_entity	Nutter McClennen & Fish
+6067_1	is_in_sentence	sentence_6067
+6067_1	nsubj	6067_5
+6067_1	has_surface_form	McClennen
+6067_1	part_of_entity	Nutter McClennen & Fish
+6067_5	is_in_sentence	sentence_6067
+6067_5	ROOT	6067_5
+6067_5	has_surface_form	is
+6067_2	is_in_sentence	sentence_6067
+6067_2	cc	6067_1
+6067_2	has_surface_form	&
+6067_2	part_of_entity	Nutter McClennen & Fish
+6067_3	is_in_sentence	sentence_6067
+6067_3	compound	6067_4
+6067_3	has_surface_form	Fish
+6067_3	part_of_entity	Nutter McClennen & Fish
+6067_4	is_in_sentence	sentence_6067
+6067_4	conj	6067_1
+6067_4	has_surface_form	LLP
+6067_6	is_in_sentence	sentence_6067
+6067_6	det	6067_11
+6067_6	has_surface_form	a
+6067_11	is_in_sentence	sentence_6067
+6067_11	attr	6067_5
+6067_11	has_surface_form	firm
+6067_7	is_in_sentence	sentence_6067
+6067_7	advmod	6067_9
+6067_7	has_surface_form	long
+6067_9	is_in_sentence	sentence_6067
+6067_9	amod	6067_11
+6067_9	has_surface_form	standing
+6067_8	is_in_sentence	sentence_6067
+6067_8	punct	6067_9
+6067_8	has_surface_form	-
+6067_10	is_in_sentence	sentence_6067
+6067_10	compound	6067_11
+6067_10	has_surface_form	law
+6067_12	is_in_sentence	sentence_6067
+6067_12	prep	6067_11
+6067_12	has_surface_form	in
+6067_13	is_in_sentence	sentence_6067
+6067_13	pobj	6067_12
+6067_13	has_surface_form	Boston
+6067_14	is_in_sentence	sentence_6067
+6067_14	punct	6067_13
+6067_14	has_surface_form	,
+6067_15	is_in_sentence	sentence_6067
+6067_15	appos	6067_13
+6067_15	has_surface_form	Massachusetts
+6067_16	is_in_sentence	sentence_6067
+6067_16	punct	6067_5
+6067_16	has_surface_form	.
+6067_17	is_in_sentence	sentence_6067
+6067_17	det	6067_19
+6067_17	has_surface_form	The
+6067_19	is_in_sentence	sentence_6067
+6067_19	nsubjpass	6067_21
+6067_19	has_surface_form	firm
+6067_18	is_in_sentence	sentence_6067
+6067_18	compound	6067_19
+6067_18	has_surface_form	law
+6067_21	is_in_sentence	sentence_6067
+6067_21	ROOT	6067_21
+6067_21	has_surface_form	founded
+6067_20	is_in_sentence	sentence_6067
+6067_20	auxpass	6067_21
+6067_20	has_surface_form	was
+6067_22	is_in_sentence	sentence_6067
+6067_22	prep	6067_21
+6067_22	has_surface_form	in
+6067_23	is_in_sentence	sentence_6067
+6067_23	pobj	6067_22
+6067_23	has_surface_form	1879
+6067_24	is_in_sentence	sentence_6067
+6067_24	agent	6067_21
+6067_24	has_surface_form	by
+6067_25	is_in_sentence	sentence_6067
+6067_25	compound	6067_27
+6067_25	has_surface_form	Harvard
+6067_27	is_in_sentence	sentence_6067
+6067_27	compound	6067_28
+6067_27	has_surface_form	School
+6067_26	is_in_sentence	sentence_6067
+6067_26	compound	6067_27
+6067_26	has_surface_form	Law
+6067_28	is_in_sentence	sentence_6067
+6067_28	compound	6067_31
+6067_28	has_surface_form	classmates
+6067_31	is_in_sentence	sentence_6067
+6067_31	pobj	6067_24
+6067_31	has_surface_form	Warren
+6067_31	part_of_entity	Samuel D. Warren
+6067_29	is_in_sentence	sentence_6067
+6067_29	compound	6067_31
+6067_29	has_surface_form	Samuel
+6067_29	part_of_entity	Samuel D. Warren
+6067_30	is_in_sentence	sentence_6067
+6067_30	compound	6067_31
+6067_30	has_surface_form	D.
+6067_30	part_of_entity	Samuel D. Warren
+6067_32	is_in_sentence	sentence_6067
+6067_32	cc	6067_31
+6067_32	has_surface_form	and
+6067_33	is_in_sentence	sentence_6067
+6067_33	compound	6067_34
+6067_33	has_surface_form	Louis
+6067_34	is_in_sentence	sentence_6067
+6067_34	conj	6067_31
+6067_34	has_surface_form	Brandeis
+6067_35	is_in_sentence	sentence_6067
+6067_35	punct	6067_21
+6067_35	has_surface_form	.
+6067_36	is_in_sentence	sentence_6067
+6067_36	dep	6067_21
+6067_36	has_surface_form	
+Nutter McClennen & Fish	surface_form	Nutter McClennen & Fish
+Nutter McClennen & Fish	org-has-founder	Samuel D. Warren
+Samuel D. Warren	surface_form	Samuel D. Warren

@@ -1,0 +1,64 @@
+1660_0	is_in_sentence	sentence_1660
+1660_0	nmod	1660_3
+1660_0	has_surface_form	CX
+1660_0	part_of_entity	CX 24 Nuevo Tiempo
+1660_3	is_in_sentence	sentence_1660
+1660_3	nsubj	1660_4
+1660_3	has_surface_form	Tiempo
+1660_3	part_of_entity	CX 24 Nuevo Tiempo
+1660_1	is_in_sentence	sentence_1660
+1660_1	nummod	1660_0
+1660_1	has_surface_form	24
+1660_1	part_of_entity	CX 24 Nuevo Tiempo
+1660_2	is_in_sentence	sentence_1660
+1660_2	compound	1660_3
+1660_2	has_surface_form	Nuevo
+1660_2	part_of_entity	CX 24 Nuevo Tiempo
+1660_4	is_in_sentence	sentence_1660
+1660_4	ROOT	1660_4
+1660_4	has_surface_form	is
+1660_5	is_in_sentence	sentence_1660
+1660_5	det	1660_12
+1660_5	has_surface_form	a
+1660_12	is_in_sentence	sentence_1660
+1660_12	attr	1660_4
+1660_12	has_surface_form	station
+1660_6	is_in_sentence	sentence_1660
+1660_6	amod	1660_12
+1660_6	has_surface_form	Uruguayan
+1660_7	is_in_sentence	sentence_1660
+1660_7	amod	1660_9
+1660_7	has_surface_form	Spanish
+1660_9	is_in_sentence	sentence_1660
+1660_9	compound	1660_10
+1660_9	has_surface_form	language
+1660_8	is_in_sentence	sentence_1660
+1660_8	punct	1660_9
+1660_8	has_surface_form	-
+1660_10	is_in_sentence	sentence_1660
+1660_10	compound	1660_12
+1660_10	has_surface_form	AM
+1660_11	is_in_sentence	sentence_1660
+1660_11	compound	1660_12
+1660_11	has_surface_form	radio
+1660_13	is_in_sentence	sentence_1660
+1660_13	nsubj	1660_14
+1660_13	has_surface_form	that
+1660_14	is_in_sentence	sentence_1660
+1660_14	relcl	1660_12
+1660_14	has_surface_form	broadcasts
+1660_15	is_in_sentence	sentence_1660
+1660_15	prep	1660_14
+1660_15	has_surface_form	from
+1660_16	is_in_sentence	sentence_1660
+1660_16	pobj	1660_15
+1660_16	is_entity	Montevideo
+Montevideo	surface_form	Montevideo
+1660_17	is_in_sentence	sentence_1660
+1660_17	punct	1660_4
+1660_17	has_surface_form	.
+1660_18	is_in_sentence	sentence_1660
+1660_18	dep	1660_4
+1660_18	has_surface_form	
+CX 24 Nuevo Tiempo	surface_form	CX 24 Nuevo Tiempo
+CX 24 Nuevo Tiempo	is-where	Montevideo

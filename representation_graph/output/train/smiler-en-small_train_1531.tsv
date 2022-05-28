@@ -1,0 +1,65 @@
+1530_0	is_in_sentence	sentence_1530
+1530_0	det	1530_3
+1530_0	has_surface_form	The
+1530_3	is_in_sentence	sentence_1530
+1530_3	nsubjpass	1530_5
+1530_3	has_surface_form	toothbrush
+1530_3	part_of_entity	electric toothbrush
+1530_1	is_in_sentence	sentence_1530
+1530_1	amod	1530_3
+1530_1	has_surface_form	first
+1530_2	is_in_sentence	sentence_1530
+1530_2	amod	1530_3
+1530_2	has_surface_form	electric
+1530_2	part_of_entity	electric toothbrush
+1530_5	is_in_sentence	sentence_1530
+1530_5	ROOT	1530_5
+1530_5	has_surface_form	produced
+1530_4	is_in_sentence	sentence_1530
+1530_4	auxpass	1530_5
+1530_4	has_surface_form	was
+1530_6	is_in_sentence	sentence_1530
+1530_6	agent	1530_5
+1530_6	has_surface_form	by
+1530_7	is_in_sentence	sentence_1530
+1530_7	det	1530_12
+1530_7	has_surface_form	the
+1530_12	is_in_sentence	sentence_1530
+1530_12	pobj	1530_6
+1530_12	has_surface_form	Company
+1530_8	is_in_sentence	sentence_1530
+1530_8	compound	1530_12
+1530_8	has_surface_form	Electro
+1530_9	is_in_sentence	sentence_1530
+1530_9	compound	1530_12
+1530_9	has_surface_form	Massage
+1530_10	is_in_sentence	sentence_1530
+1530_10	compound	1530_11
+1530_10	has_surface_form	Tooth
+1530_11	is_in_sentence	sentence_1530
+1530_11	compound	1530_12
+1530_11	has_surface_form	Brush
+1530_13	is_in_sentence	sentence_1530
+1530_13	prep	1530_5
+1530_13	has_surface_form	in
+1530_14	is_in_sentence	sentence_1530
+1530_14	det	1530_15
+1530_14	has_surface_form	the
+1530_15	is_in_sentence	sentence_1530
+1530_15	pobj	1530_13
+1530_15	has_surface_form	U.S.A.
+1530_16	is_in_sentence	sentence_1530
+1530_16	prep	1530_5
+1530_16	has_surface_form	in
+1530_17	is_in_sentence	sentence_1530
+1530_17	pobj	1530_16
+1530_17	is_entity	1927
+1927	surface_form	1927
+1530_18	is_in_sentence	sentence_1530
+1530_18	punct	1530_5
+1530_18	has_surface_form	.
+1530_19	is_in_sentence	sentence_1530
+1530_19	dep	1530_19
+1530_19	has_surface_form	
+electric toothbrush	surface_form	electric toothbrush
+electric toothbrush	invented-when	1927

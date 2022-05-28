@@ -1,0 +1,65 @@
+19336_0	is_in_sentence	sentence_19336
+19336_0	compound	19336_1
+19336_0	has_surface_form	Behala
+19336_0	part_of_entity	Behala College
+19336_1	is_in_sentence	sentence_19336
+19336_1	nsubj	19336_7
+19336_1	has_surface_form	College
+19336_1	part_of_entity	Behala College
+19336_7	is_in_sentence	sentence_19336
+19336_7	ROOT	19336_7
+19336_7	has_surface_form	is
+19336_2	is_in_sentence	sentence_19336
+19336_2	punct	19336_1
+19336_2	has_surface_form	,
+19336_3	is_in_sentence	sentence_19336
+19336_3	acl	19336_1
+19336_3	has_surface_form	established
+19336_4	is_in_sentence	sentence_19336
+19336_4	prep	19336_3
+19336_4	has_surface_form	in
+19336_5	is_in_sentence	sentence_19336
+19336_5	pobj	19336_4
+19336_5	has_surface_form	1963
+19336_6	is_in_sentence	sentence_19336
+19336_6	punct	19336_1
+19336_6	has_surface_form	,
+19336_8	is_in_sentence	sentence_19336
+19336_8	det	19336_10
+19336_8	has_surface_form	an
+19336_10	is_in_sentence	sentence_19336
+19336_10	attr	19336_7
+19336_10	has_surface_form	college
+19336_9	is_in_sentence	sentence_19336
+19336_9	amod	19336_10
+19336_9	has_surface_form	undergraduate
+19336_11	is_in_sentence	sentence_19336
+19336_11	prep	19336_10
+19336_11	has_surface_form	in
+19336_12	is_in_sentence	sentence_19336
+19336_12	pobj	19336_11
+19336_12	is_entity	Kolkata
+Kolkata	surface_form	Kolkata
+19336_13	is_in_sentence	sentence_19336
+19336_13	punct	19336_12
+19336_13	has_surface_form	,
+19336_14	is_in_sentence	sentence_19336
+19336_14	compound	19336_15
+19336_14	has_surface_form	West
+19336_15	is_in_sentence	sentence_19336
+19336_15	conj	19336_12
+19336_15	has_surface_form	Bengal
+19336_16	is_in_sentence	sentence_19336
+19336_16	punct	19336_15
+19336_16	has_surface_form	,
+19336_17	is_in_sentence	sentence_19336
+19336_17	appos	19336_15
+19336_17	has_surface_form	India
+19336_18	is_in_sentence	sentence_19336
+19336_18	punct	19336_7
+19336_18	has_surface_form	.
+19336_19	is_in_sentence	sentence_19336
+19336_19	dep	19336_19
+19336_19	has_surface_form	
+Behala College	surface_form	Behala College
+Behala College	is-where	Kolkata

@@ -1,0 +1,71 @@
+22593_0	is_in_sentence	sentence_22593
+22593_0	ROOT	22593_0
+22593_0	has_surface_form	Wanted
+22593_1	is_in_sentence	sentence_22593
+22593_1	punct	22593_0
+22593_1	has_surface_form	!
+22593_2	is_in_sentence	sentence_22593
+22593_2	compound	22593_3
+22593_2	has_surface_form	Jane
+22593_3	is_in_sentence	sentence_22593
+22593_3	nsubj	22593_4
+22593_3	has_surface_form	Turner
+22593_4	is_in_sentence	sentence_22593
+22593_4	ROOT	22593_4
+22593_4	has_surface_form	is
+22593_5	is_in_sentence	sentence_22593
+22593_5	det	22593_10
+22593_5	has_surface_form	a
+22593_10	is_in_sentence	sentence_22593
+22593_10	attr	22593_4
+22593_10	has_surface_form	film
+22593_6	is_in_sentence	sentence_22593
+22593_6	nummod	22593_10
+22593_6	has_surface_form	1936
+22593_7	is_in_sentence	sentence_22593
+22593_7	amod	22593_8
+22593_7	has_surface_form	American
+22593_8	is_in_sentence	sentence_22593
+22593_8	compound	22593_10
+22593_8	has_surface_form	crime
+22593_9	is_in_sentence	sentence_22593
+22593_9	compound	22593_10
+22593_9	has_surface_form	drama
+22593_11	is_in_sentence	sentence_22593
+22593_11	acl	22593_10
+22593_11	has_surface_form	directed
+22593_12	is_in_sentence	sentence_22593
+22593_12	agent	22593_11
+22593_12	has_surface_form	by
+22593_13	is_in_sentence	sentence_22593
+22593_13	compound	22593_14
+22593_13	has_surface_form	Edward
+22593_13	part_of_entity	Edward Killy
+22593_14	is_in_sentence	sentence_22593
+22593_14	pobj	22593_12
+22593_14	has_surface_form	Killy
+22593_14	part_of_entity	Edward Killy
+22593_15	is_in_sentence	sentence_22593
+22593_15	prep	22593_11
+22593_15	has_surface_form	from
+22593_16	is_in_sentence	sentence_22593
+22593_16	det	22593_17
+22593_16	has_surface_form	a
+22593_17	is_in_sentence	sentence_22593
+22593_17	pobj	22593_15
+22593_17	has_surface_form	screenplay
+22593_18	is_in_sentence	sentence_22593
+22593_18	prep	22593_17
+22593_18	has_surface_form	by
+22593_19	is_in_sentence	sentence_22593
+22593_19	compound	22593_20
+22593_19	has_surface_form	Edmund
+22593_20	is_in_sentence	sentence_22593
+22593_20	pobj	22593_18
+22593_20	has_surface_form	L.
+22593_21	is_in_sentence	sentence_22593
+22593_21	dep	22593_4
+22593_21	has_surface_form	
+Wanted! Jane Turner	surface_form	Wanted! Jane Turner
+Wanted! Jane Turner	movie-has-director	Edward Killy
+Edward Killy	surface_form	Edward Killy

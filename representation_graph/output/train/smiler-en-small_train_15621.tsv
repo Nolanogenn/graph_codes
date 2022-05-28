@@ -1,0 +1,77 @@
+15620_0	is_in_sentence	sentence_15620
+15620_0	amod	15620_1
+15620_0	has_surface_form	Smuggled
+15620_0	part_of_entity	Smuggled Cargo
+15620_1	is_in_sentence	sentence_15620
+15620_1	nsubj	15620_2
+15620_1	has_surface_form	Cargo
+15620_1	part_of_entity	Smuggled Cargo
+15620_2	is_in_sentence	sentence_15620
+15620_2	ROOT	15620_2
+15620_2	has_surface_form	is
+15620_3	is_in_sentence	sentence_15620
+15620_3	det	15620_7
+15620_3	has_surface_form	a
+15620_7	is_in_sentence	sentence_15620
+15620_7	attr	15620_2
+15620_7	has_surface_form	film
+15620_4	is_in_sentence	sentence_15620
+15620_4	nummod	15620_7
+15620_4	has_surface_form	1939
+15620_5	is_in_sentence	sentence_15620
+15620_5	amod	15620_7
+15620_5	has_surface_form	American
+15620_6	is_in_sentence	sentence_15620
+15620_6	compound	15620_7
+15620_6	has_surface_form	drama
+15620_8	is_in_sentence	sentence_15620
+15620_8	acl	15620_7
+15620_8	has_surface_form	directed
+15620_9	is_in_sentence	sentence_15620
+15620_9	agent	15620_8
+15620_9	has_surface_form	by
+15620_10	is_in_sentence	sentence_15620
+15620_10	compound	15620_12
+15620_10	has_surface_form	John
+15620_10	part_of_entity	John H. Auer
+15620_12	is_in_sentence	sentence_15620
+15620_12	pobj	15620_9
+15620_12	has_surface_form	Auer
+15620_12	part_of_entity	John H. Auer
+15620_11	is_in_sentence	sentence_15620
+15620_11	compound	15620_12
+15620_11	has_surface_form	H.
+15620_11	part_of_entity	John H. Auer
+15620_13	is_in_sentence	sentence_15620
+15620_13	cc	15620_8
+15620_13	has_surface_form	and
+15620_14	is_in_sentence	sentence_15620
+15620_14	conj	15620_8
+15620_14	has_surface_form	written
+15620_15	is_in_sentence	sentence_15620
+15620_15	agent	15620_14
+15620_15	has_surface_form	by
+15620_16	is_in_sentence	sentence_15620
+15620_16	compound	15620_17
+15620_16	has_surface_form	Earl
+15620_17	is_in_sentence	sentence_15620
+15620_17	pobj	15620_15
+15620_17	has_surface_form	Felton
+15620_18	is_in_sentence	sentence_15620
+15620_18	cc	15620_17
+15620_18	has_surface_form	and
+15620_19	is_in_sentence	sentence_15620
+15620_19	compound	15620_20
+15620_19	has_surface_form	Michael
+15620_20	is_in_sentence	sentence_15620
+15620_20	conj	15620_17
+15620_20	has_surface_form	Jacoby
+15620_21	is_in_sentence	sentence_15620
+15620_21	punct	15620_2
+15620_21	has_surface_form	.
+15620_22	is_in_sentence	sentence_15620
+15620_22	dep	15620_22
+15620_22	has_surface_form	
+Smuggled Cargo	surface_form	Smuggled Cargo
+Smuggled Cargo	movie-has-director	John H. Auer
+John H. Auer	surface_form	John H. Auer

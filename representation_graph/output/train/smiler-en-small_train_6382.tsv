@@ -1,0 +1,112 @@
+6381_0	is_in_sentence	sentence_6381
+6381_0	nsubj	6381_1
+6381_0	has_surface_form	This
+6381_0	part_of_entity	This Is Not Paradise
+6381_1	is_in_sentence	sentence_6381
+6381_1	ccomp	6381_13
+6381_1	has_surface_form	Is
+6381_1	part_of_entity	This Is Not Paradise
+6381_13	is_in_sentence	sentence_6381
+6381_13	ROOT	6381_13
+6381_13	has_surface_form	is
+6381_2	is_in_sentence	sentence_6381
+6381_2	neg	6381_1
+6381_2	has_surface_form	Not
+6381_2	part_of_entity	This Is Not Paradise
+6381_3	is_in_sentence	sentence_6381
+6381_3	nmod	6381_7
+6381_3	has_surface_form	Paradise
+6381_3	part_of_entity	This Is Not Paradise
+6381_7	is_in_sentence	sentence_6381
+6381_7	nsubj	6381_13
+6381_7	has_surface_form	Qui
+6381_4	is_in_sentence	sentence_6381
+6381_4	punct	6381_7
+6381_4	has_surface_form	(
+6381_5	is_in_sentence	sentence_6381
+6381_5	nmod	6381_7
+6381_5	has_surface_form	Italian
+6381_6	is_in_sentence	sentence_6381
+6381_6	punct	6381_7
+6381_6	has_surface_form	:
+6381_8	is_in_sentence	sentence_6381
+6381_8	compound	6381_11
+6381_8	has_surface_form	non
+6381_11	is_in_sentence	sentence_6381
+6381_11	appos	6381_7
+6381_11	has_surface_form	paradiso
+6381_9	is_in_sentence	sentence_6381
+6381_9	compound	6381_11
+6381_9	has_surface_form	è
+6381_10	is_in_sentence	sentence_6381
+6381_10	compound	6381_11
+6381_10	has_surface_form	il
+6381_12	is_in_sentence	sentence_6381
+6381_12	punct	6381_7
+6381_12	has_surface_form	)
+6381_14	is_in_sentence	sentence_6381
+6381_14	det	6381_20
+6381_14	has_surface_form	a
+6381_20	is_in_sentence	sentence_6381
+6381_20	attr	6381_13
+6381_20	has_surface_form	film
+6381_15	is_in_sentence	sentence_6381
+6381_15	nummod	6381_20
+6381_15	has_surface_form	2000
+6381_16	is_in_sentence	sentence_6381
+6381_16	amod	6381_20
+6381_16	has_surface_form	Italian
+6381_17	is_in_sentence	sentence_6381
+6381_17	compound	6381_20
+6381_17	has_surface_form	neo
+6381_18	is_in_sentence	sentence_6381
+6381_18	amod	6381_20
+6381_18	has_surface_form	-
+6381_19	is_in_sentence	sentence_6381
+6381_19	amod	6381_20
+6381_19	has_surface_form	noir
+6381_21	is_in_sentence	sentence_6381
+6381_21	acl	6381_20
+6381_21	has_surface_form	written
+6381_22	is_in_sentence	sentence_6381
+6381_22	cc	6381_21
+6381_22	has_surface_form	and
+6381_23	is_in_sentence	sentence_6381
+6381_23	conj	6381_21
+6381_23	has_surface_form	directed
+6381_24	is_in_sentence	sentence_6381
+6381_24	agent	6381_23
+6381_24	has_surface_form	by
+6381_25	is_in_sentence	sentence_6381
+6381_25	compound	6381_27
+6381_25	has_surface_form	Gianluca
+6381_25	part_of_entity	Gianluca Maria Tavarelli
+6381_27	is_in_sentence	sentence_6381
+6381_27	pobj	6381_24
+6381_27	has_surface_form	Tavarelli
+6381_27	part_of_entity	Gianluca Maria Tavarelli
+6381_26	is_in_sentence	sentence_6381
+6381_26	compound	6381_27
+6381_26	has_surface_form	Maria
+6381_26	part_of_entity	Gianluca Maria Tavarelli
+6381_28	is_in_sentence	sentence_6381
+6381_28	cc	6381_23
+6381_28	has_surface_form	and
+6381_29	is_in_sentence	sentence_6381
+6381_29	conj	6381_23
+6381_29	has_surface_form	starring
+6381_30	is_in_sentence	sentence_6381
+6381_30	compound	6381_31
+6381_30	has_surface_form	Fabrizio
+6381_31	is_in_sentence	sentence_6381
+6381_31	dobj	6381_29
+6381_31	has_surface_form	Gifuni
+6381_32	is_in_sentence	sentence_6381
+6381_32	punct	6381_13
+6381_32	has_surface_form	.
+6381_33	is_in_sentence	sentence_6381
+6381_33	dep	6381_33
+6381_33	has_surface_form	
+This Is Not Paradise	surface_form	This Is Not Paradise
+This Is Not Paradise	movie-has-director	Gianluca Maria Tavarelli
+Gianluca Maria Tavarelli	surface_form	Gianluca Maria Tavarelli

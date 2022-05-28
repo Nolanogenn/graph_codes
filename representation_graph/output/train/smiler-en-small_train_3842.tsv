@@ -1,0 +1,88 @@
+3841_0	is_in_sentence	sentence_3841
+3841_0	compound	3841_1
+3841_0	has_surface_form	Monique
+3841_0	part_of_entity	Monique Brumby
+3841_1	is_in_sentence	sentence_3841
+3841_1	nsubj	3841_11
+3841_1	has_surface_form	Brumby
+3841_1	part_of_entity	Monique Brumby
+3841_11	is_in_sentence	sentence_3841
+3841_11	ROOT	3841_11
+3841_11	has_surface_form	is
+3841_2	is_in_sentence	sentence_3841
+3841_2	punct	3841_1
+3841_2	has_surface_form	(
+3841_3	is_in_sentence	sentence_3841
+3841_3	acl	3841_1
+3841_3	has_surface_form	born
+3841_4	is_in_sentence	sentence_3841
+3841_4	npadvmod	3841_3
+3841_4	has_surface_form	16
+3841_5	is_in_sentence	sentence_3841
+3841_5	npadvmod	3841_3
+3841_5	has_surface_form	September
+3841_6	is_in_sentence	sentence_3841
+3841_6	nummod	3841_5
+3841_6	has_surface_form	1974
+3841_7	is_in_sentence	sentence_3841
+3841_7	punct	3841_1
+3841_7	has_surface_form	,
+3841_8	is_in_sentence	sentence_3841
+3841_8	prep	3841_1
+3841_8	has_surface_form	in
+3841_9	is_in_sentence	sentence_3841
+3841_9	pobj	3841_8
+3841_9	has_surface_form	Devonport
+3841_10	is_in_sentence	sentence_3841
+3841_10	punct	3841_1
+3841_10	has_surface_form	)
+3841_12	is_in_sentence	sentence_3841
+3841_12	det	3841_20
+3841_12	has_surface_form	an
+3841_20	is_in_sentence	sentence_3841
+3841_20	attr	3841_11
+3841_20	has_surface_form	songwriter
+3841_13	is_in_sentence	sentence_3841
+3841_13	nmod	3841_20
+3841_13	has_surface_form	Australian
+3841_14	is_in_sentence	sentence_3841
+3841_14	nmod	3841_20
+3841_14	has_surface_form	Indie
+3841_14	part_of_entity	Indie pop
+3841_15	is_in_sentence	sentence_3841
+3841_15	nmod	3841_17
+3841_15	has_surface_form	pop
+3841_15	part_of_entity	Indie pop
+3841_17	is_in_sentence	sentence_3841
+3841_17	nmod	3841_20
+3841_17	has_surface_form	rock
+3841_16	is_in_sentence	sentence_3841
+3841_16	punct	3841_17
+3841_16	has_surface_form	/
+3841_18	is_in_sentence	sentence_3841
+3841_18	compound	3841_20
+3841_18	has_surface_form	singer
+3841_19	is_in_sentence	sentence_3841
+3841_19	punct	3841_20
+3841_19	has_surface_form	-
+3841_21	is_in_sentence	sentence_3841
+3841_21	punct	3841_20
+3841_21	has_surface_form	,
+3841_22	is_in_sentence	sentence_3841
+3841_22	conj	3841_20
+3841_22	has_surface_form	guitarist
+3841_23	is_in_sentence	sentence_3841
+3841_23	cc	3841_22
+3841_23	has_surface_form	and
+3841_24	is_in_sentence	sentence_3841
+3841_24	conj	3841_22
+3841_24	has_surface_form	producer
+3841_25	is_in_sentence	sentence_3841
+3841_25	punct	3841_11
+3841_25	has_surface_form	.
+3841_26	is_in_sentence	sentence_3841
+3841_26	dep	3841_26
+3841_26	has_surface_form	
+Monique Brumby	surface_form	Monique Brumby
+Monique Brumby	has-genre	Indie pop
+Indie pop	surface_form	Indie pop

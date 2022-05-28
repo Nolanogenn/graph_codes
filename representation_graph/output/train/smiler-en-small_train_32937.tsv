@@ -1,0 +1,67 @@
+32936_0	is_in_sentence	sentence_32936
+32936_0	compound	32936_1
+32936_0	has_surface_form	Aadi
+32936_0	part_of_entity	Aadi Velli
+32936_1	is_in_sentence	sentence_32936
+32936_1	nsubj	32936_2
+32936_1	has_surface_form	Velli
+32936_1	part_of_entity	Aadi Velli
+32936_2	is_in_sentence	sentence_32936
+32936_2	ROOT	32936_2
+32936_2	has_surface_form	is
+32936_3	is_in_sentence	sentence_32936
+32936_3	det	32936_10
+32936_3	has_surface_form	a
+32936_10	is_in_sentence	sentence_32936
+32936_10	attr	32936_2
+32936_10	has_surface_form	film
+32936_4	is_in_sentence	sentence_32936
+32936_4	nummod	32936_7
+32936_4	has_surface_form	1990
+32936_7	is_in_sentence	sentence_32936
+32936_7	nmod	32936_10
+32936_7	has_surface_form	language
+32936_5	is_in_sentence	sentence_32936
+32936_5	nmod	32936_7
+32936_5	has_surface_form	Tamil
+32936_6	is_in_sentence	sentence_32936
+32936_6	punct	32936_7
+32936_6	has_surface_form	-
+32936_8	is_in_sentence	sentence_32936
+32936_8	amod	32936_10
+32936_8	has_surface_form	Indian
+32936_9	is_in_sentence	sentence_32936
+32936_9	compound	32936_10
+32936_9	has_surface_form	feature
+32936_11	is_in_sentence	sentence_32936
+32936_11	acl	32936_10
+32936_11	has_surface_form	directed
+32936_12	is_in_sentence	sentence_32936
+32936_12	agent	32936_11
+32936_12	has_surface_form	by
+32936_13	is_in_sentence	sentence_32936
+32936_13	compound	32936_14
+32936_13	has_surface_form	Rama
+32936_13	part_of_entity	Rama Narayanan
+32936_14	is_in_sentence	sentence_32936
+32936_14	pobj	32936_12
+32936_14	has_surface_form	Narayanan
+32936_14	part_of_entity	Rama Narayanan
+32936_15	is_in_sentence	sentence_32936
+32936_15	cc	32936_11
+32936_15	has_surface_form	and
+32936_16	is_in_sentence	sentence_32936
+32936_16	conj	32936_11
+32936_16	has_surface_form	produced
+32936_17	is_in_sentence	sentence_32936
+32936_17	agent	32936_16
+32936_17	has_surface_form	by
+32936_18	is_in_sentence	sentence_32936
+32936_18	pobj	32936_17
+32936_18	has_surface_form	N.
+32936_19	is_in_sentence	sentence_32936
+32936_19	dep	32936_2
+32936_19	has_surface_form	
+Aadi Velli	surface_form	Aadi Velli
+Aadi Velli	movie-has-director	Rama Narayanan
+Rama Narayanan	surface_form	Rama Narayanan

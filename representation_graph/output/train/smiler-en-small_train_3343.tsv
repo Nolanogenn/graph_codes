@@ -1,0 +1,65 @@
+3342_0	is_in_sentence	sentence_3342
+3342_0	dep	3342_5
+3342_0	has_surface_form	Symphony
+3342_5	is_in_sentence	sentence_3342
+3342_5	ROOT	3342_5
+3342_5	has_surface_form	is
+3342_1	is_in_sentence	sentence_3342
+3342_1	punct	3342_0
+3342_1	has_surface_form	:
+3342_2	is_in_sentence	sentence_3342
+3342_2	appos	3342_0
+3342_2	has_surface_form	Live
+3342_3	is_in_sentence	sentence_3342
+3342_3	prep	3342_2
+3342_3	has_surface_form	in
+3342_4	is_in_sentence	sentence_3342
+3342_4	pobj	3342_3
+3342_4	has_surface_form	Vienna
+3342_6	is_in_sentence	sentence_3342
+3342_6	det	3342_8
+3342_6	has_surface_form	a
+3342_8	is_in_sentence	sentence_3342
+3342_8	attr	3342_5
+3342_8	has_surface_form	concert
+3342_8	part_of_entity	live concert
+3342_7	is_in_sentence	sentence_3342
+3342_7	amod	3342_8
+3342_7	has_surface_form	live
+3342_7	part_of_entity	live concert
+3342_9	is_in_sentence	sentence_3342
+3342_9	prep	3342_8
+3342_9	has_surface_form	by
+3342_10	is_in_sentence	sentence_3342
+3342_10	compound	3342_11
+3342_10	has_surface_form	Sarah
+3342_11	is_in_sentence	sentence_3342
+3342_11	pobj	3342_9
+3342_11	has_surface_form	Brightman
+3342_12	is_in_sentence	sentence_3342
+3342_12	punct	3342_11
+3342_12	has_surface_form	,
+3342_13	is_in_sentence	sentence_3342
+3342_13	acl	3342_11
+3342_13	has_surface_form	inspired
+3342_14	is_in_sentence	sentence_3342
+3342_14	agent	3342_13
+3342_14	has_surface_form	by
+3342_15	is_in_sentence	sentence_3342
+3342_15	poss	3342_17
+3342_15	has_surface_form	her
+3342_17	is_in_sentence	sentence_3342
+3342_17	pobj	3342_14
+3342_17	has_surface_form	album
+3342_16	is_in_sentence	sentence_3342
+3342_16	compound	3342_17
+3342_16	has_surface_form	Symphony
+3342_18	is_in_sentence	sentence_3342
+3342_18	punct	3342_5
+3342_18	has_surface_form	.
+3342_19	is_in_sentence	sentence_3342
+3342_19	dep	3342_19
+3342_19	has_surface_form	
+Symphony: Live in Vienna	surface_form	Symphony: Live in Vienna
+Symphony: Live in Vienna	has-type	live concert
+live concert	surface_form	live concert

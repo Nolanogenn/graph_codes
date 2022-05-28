@@ -1,0 +1,71 @@
+30151_0	is_in_sentence	sentence_30151
+30151_0	det	30151_2
+30151_0	has_surface_form	A
+30151_0	part_of_entity	A Society Sherlock
+30151_2	is_in_sentence	sentence_30151
+30151_2	nsubj	30151_3
+30151_2	has_surface_form	Sherlock
+30151_2	part_of_entity	A Society Sherlock
+30151_1	is_in_sentence	sentence_30151
+30151_1	compound	30151_2
+30151_1	has_surface_form	Society
+30151_1	part_of_entity	A Society Sherlock
+30151_3	is_in_sentence	sentence_30151
+30151_3	ROOT	30151_3
+30151_3	has_surface_form	is
+30151_4	is_in_sentence	sentence_30151
+30151_4	det	30151_9
+30151_4	has_surface_form	a
+30151_9	is_in_sentence	sentence_30151
+30151_9	attr	30151_3
+30151_9	has_surface_form	comedy
+30151_5	is_in_sentence	sentence_30151
+30151_5	nummod	30151_9
+30151_5	has_surface_form	1916
+30151_6	is_in_sentence	sentence_30151
+30151_6	amod	30151_9
+30151_6	has_surface_form	American
+30151_7	is_in_sentence	sentence_30151
+30151_7	amod	30151_9
+30151_7	has_surface_form	silent
+30151_8	is_in_sentence	sentence_30151
+30151_8	amod	30151_9
+30151_8	has_surface_form	short
+30151_10	is_in_sentence	sentence_30151
+30151_10	acl	30151_9
+30151_10	has_surface_form	directed
+30151_11	is_in_sentence	sentence_30151
+30151_11	agent	30151_10
+30151_11	has_surface_form	by
+30151_12	is_in_sentence	sentence_30151
+30151_12	cc	30151_10
+30151_12	has_surface_form	and
+30151_13	is_in_sentence	sentence_30151
+30151_13	conj	30151_10
+30151_13	has_surface_form	starring
+30151_14	is_in_sentence	sentence_30151
+30151_14	compound	30151_15
+30151_14	has_surface_form	William
+30151_15	is_in_sentence	sentence_30151
+30151_15	dobj	30151_13
+30151_15	has_surface_form	Garwood
+30151_16	is_in_sentence	sentence_30151
+30151_16	cc	30151_15
+30151_16	has_surface_form	and
+30151_17	is_in_sentence	sentence_30151
+30151_17	compound	30151_18
+30151_17	has_surface_form	Irma
+30151_17	part_of_entity	Irma Dawkins
+30151_18	is_in_sentence	sentence_30151
+30151_18	conj	30151_15
+30151_18	has_surface_form	Dawkins
+30151_18	part_of_entity	Irma Dawkins
+30151_19	is_in_sentence	sentence_30151
+30151_19	punct	30151_3
+30151_19	has_surface_form	.
+30151_20	is_in_sentence	sentence_30151
+30151_20	dep	30151_3
+30151_20	has_surface_form	
+A Society Sherlock	surface_form	A Society Sherlock
+A Society Sherlock	starring	Irma Dawkins
+Irma Dawkins	surface_form	Irma Dawkins

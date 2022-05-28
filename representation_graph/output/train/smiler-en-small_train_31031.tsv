@@ -1,0 +1,88 @@
+31030_0	is_in_sentence	sentence_31030
+31030_0	compound	31030_1
+31030_0	has_surface_form	Stark
+31030_0	part_of_entity	Stark Mad
+31030_1	is_in_sentence	sentence_31030
+31030_1	nsubj	31030_2
+31030_1	has_surface_form	Mad
+31030_1	part_of_entity	Stark Mad
+31030_2	is_in_sentence	sentence_31030
+31030_2	ROOT	31030_2
+31030_2	has_surface_form	is
+31030_3	is_in_sentence	sentence_31030
+31030_3	det	31030_10
+31030_3	has_surface_form	a
+31030_10	is_in_sentence	sentence_31030
+31030_10	attr	31030_2
+31030_10	has_surface_form	film
+31030_4	is_in_sentence	sentence_31030
+31030_4	nummod	31030_10
+31030_4	has_surface_form	1929
+31030_5	is_in_sentence	sentence_31030
+31030_5	amod	31030_10
+31030_5	has_surface_form	American
+31030_6	is_in_sentence	sentence_31030
+31030_6	amod	31030_10
+31030_6	has_surface_form	pre
+31030_7	is_in_sentence	sentence_31030
+31030_7	amod	31030_10
+31030_7	has_surface_form	-
+31030_8	is_in_sentence	sentence_31030
+31030_8	amod	31030_10
+31030_8	has_surface_form	Code
+31030_9	is_in_sentence	sentence_31030
+31030_9	compound	31030_10
+31030_9	has_surface_form	adventure
+31030_11	is_in_sentence	sentence_31030
+31030_11	acl	31030_10
+31030_11	has_surface_form	produced
+31030_12	is_in_sentence	sentence_31030
+31030_12	cc	31030_11
+31030_12	has_surface_form	and
+31030_13	is_in_sentence	sentence_31030
+31030_13	conj	31030_11
+31030_13	has_surface_form	distributed
+31030_14	is_in_sentence	sentence_31030
+31030_14	agent	31030_13
+31030_14	has_surface_form	by
+31030_15	is_in_sentence	sentence_31030
+31030_15	compound	31030_16
+31030_15	has_surface_form	Warner
+31030_16	is_in_sentence	sentence_31030
+31030_16	pobj	31030_14
+31030_16	has_surface_form	Bros.
+31030_17	is_in_sentence	sentence_31030
+31030_17	punct	31030_16
+31030_17	has_surface_form	,
+31030_18	is_in_sentence	sentence_31030
+31030_18	acl	31030_16
+31030_18	has_surface_form	directed
+31030_19	is_in_sentence	sentence_31030
+31030_19	agent	31030_18
+31030_19	has_surface_form	by
+31030_20	is_in_sentence	sentence_31030
+31030_20	compound	31030_21
+31030_20	has_surface_form	Lloyd
+31030_20	part_of_entity	Lloyd Bacon
+31030_21	is_in_sentence	sentence_31030
+31030_21	pobj	31030_19
+31030_21	has_surface_form	Bacon
+31030_21	part_of_entity	Lloyd Bacon
+31030_22	is_in_sentence	sentence_31030
+31030_22	punct	31030_2
+31030_22	has_surface_form	,
+31030_23	is_in_sentence	sentence_31030
+31030_23	cc	31030_2
+31030_23	has_surface_form	and
+31030_24	is_in_sentence	sentence_31030
+31030_24	conj	31030_2
+31030_24	has_surface_form	starring
+31030_25	is_in_sentence	sentence_31030
+31030_25	compound	31030_26
+31030_25	has_surface_form	H.
+31030_26	is_in_sentence	sentence_31030
+31030_26	dep	31030_24
+31030_26	has_surface_form	
+Stark Mad	surface_form	Stark Mad
+Stark Mad	movie-has-director	Lloyd Bacon
+Lloyd Bacon	surface_form	Lloyd Bacon

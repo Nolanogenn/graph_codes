@@ -1,0 +1,64 @@
+24436_0	is_in_sentence	sentence_24436
+24436_0	compound	24436_1
+24436_0	has_surface_form	Stella
+24436_0	part_of_entity	Stella Farentino
+24436_1	is_in_sentence	sentence_24436
+24436_1	nsubj	24436_9
+24436_1	has_surface_form	Farentino
+24436_1	part_of_entity	Stella Farentino
+24436_9	is_in_sentence	sentence_24436
+24436_9	ROOT	24436_9
+24436_9	has_surface_form	is
+24436_2	is_in_sentence	sentence_24436
+24436_2	punct	24436_1
+24436_2	has_surface_form	(
+24436_3	is_in_sentence	sentence_24436
+24436_3	acl	24436_1
+24436_3	has_surface_form	born
+24436_4	is_in_sentence	sentence_24436
+24436_4	npadvmod	24436_3
+24436_4	has_surface_form	February
+24436_5	is_in_sentence	sentence_24436
+24436_5	nummod	24436_4
+24436_5	has_surface_form	16
+24436_6	is_in_sentence	sentence_24436
+24436_6	punct	24436_4
+24436_6	has_surface_form	,
+24436_7	is_in_sentence	sentence_24436
+24436_7	nummod	24436_4
+24436_7	has_surface_form	1962
+24436_8	is_in_sentence	sentence_24436
+24436_8	punct	24436_1
+24436_8	has_surface_form	)
+24436_10	is_in_sentence	sentence_24436
+24436_10	det	24436_12
+24436_10	has_surface_form	the
+24436_12	is_in_sentence	sentence_24436
+24436_12	attr	24436_9
+24436_12	has_surface_form	wife
+24436_11	is_in_sentence	sentence_24436
+24436_11	amod	24436_12
+24436_11	has_surface_form	fourth
+24436_13	is_in_sentence	sentence_24436
+24436_13	prep	24436_12
+24436_13	has_surface_form	of
+24436_14	is_in_sentence	sentence_24436
+24436_14	compound	24436_16
+24436_14	has_surface_form	actor
+24436_16	is_in_sentence	sentence_24436
+24436_16	pobj	24436_13
+24436_16	has_surface_form	Farentino
+24436_16	part_of_entity	James Farentino
+24436_15	is_in_sentence	sentence_24436
+24436_15	compound	24436_16
+24436_15	has_surface_form	James
+24436_15	part_of_entity	James Farentino
+24436_17	is_in_sentence	sentence_24436
+24436_17	punct	24436_9
+24436_17	has_surface_form	.
+24436_18	is_in_sentence	sentence_24436
+24436_18	dep	24436_9
+24436_18	has_surface_form	
+Stella Farentino	surface_form	Stella Farentino
+Stella Farentino	has-spouse	James Farentino
+James Farentino	surface_form	James Farentino

@@ -1,0 +1,62 @@
+35463_0	is_in_sentence	sentence_35463
+35463_0	compound	35463_1
+35463_0	has_surface_form	VIP
+35463_0	part_of_entity	VIP Ecuador
+35463_1	is_in_sentence	sentence_35463
+35463_1	nsubj	35463_2
+35463_1	has_surface_form	Ecuador
+35463_1	part_of_entity	VIP Ecuador
+35463_2	is_in_sentence	sentence_35463
+35463_2	ROOT	35463_2
+35463_2	has_surface_form	was
+35463_3	is_in_sentence	sentence_35463
+35463_3	det	35463_4
+35463_3	has_surface_form	an
+35463_4	is_in_sentence	sentence_35463
+35463_4	attr	35463_2
+35463_4	has_surface_form	airline
+35463_5	is_in_sentence	sentence_35463
+35463_5	acl	35463_4
+35463_5	has_surface_form	based
+35463_6	is_in_sentence	sentence_35463
+35463_6	prep	35463_5
+35463_6	has_surface_form	at
+35463_7	is_in_sentence	sentence_35463
+35463_7	compound	35463_10
+35463_7	has_surface_form	Mariscal
+35463_10	is_in_sentence	sentence_35463
+35463_10	pobj	35463_6
+35463_10	has_surface_form	Airport
+35463_8	is_in_sentence	sentence_35463
+35463_8	compound	35463_10
+35463_8	has_surface_form	Sucre
+35463_9	is_in_sentence	sentence_35463
+35463_9	compound	35463_10
+35463_9	has_surface_form	International
+35463_11	is_in_sentence	sentence_35463
+35463_11	cc	35463_5
+35463_11	has_surface_form	and
+35463_12	is_in_sentence	sentence_35463
+35463_12	conj	35463_5
+35463_12	has_surface_form	headquartered
+35463_13	is_in_sentence	sentence_35463
+35463_13	prep	35463_12
+35463_13	has_surface_form	in
+35463_14	is_in_sentence	sentence_35463
+35463_14	pobj	35463_13
+35463_14	is_entity	Quito
+Quito	surface_form	Quito
+35463_15	is_in_sentence	sentence_35463
+35463_15	punct	35463_14
+35463_15	has_surface_form	,
+35463_16	is_in_sentence	sentence_35463
+35463_16	appos	35463_14
+35463_16	has_surface_form	Ecuador
+35463_17	is_in_sentence	sentence_35463
+35463_17	punct	35463_2
+35463_17	has_surface_form	.
+35463_18	is_in_sentence	sentence_35463
+35463_18	dep	35463_2
+35463_18	has_surface_form	
+VIP Ecuador	surface_form	VIP Ecuador
+VIP Ecuador	headquarters	Quito

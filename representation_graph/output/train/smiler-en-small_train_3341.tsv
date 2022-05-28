@@ -1,0 +1,55 @@
+3340_0	is_in_sentence	sentence_3340
+3340_0	compound	3340_1
+3340_0	has_surface_form	Lina
+3340_0	part_of_entity	Lina Pizzolongo
+3340_1	is_in_sentence	sentence_3340
+3340_1	nsubj	3340_2
+3340_1	has_surface_form	Pizzolongo
+3340_1	part_of_entity	Lina Pizzolongo
+3340_2	is_in_sentence	sentence_3340
+3340_2	ROOT	3340_2
+3340_2	has_surface_form	was
+3340_3	is_in_sentence	sentence_3340
+3340_3	det	3340_4
+3340_3	has_surface_form	the
+3340_4	is_in_sentence	sentence_3340
+3340_4	attr	3340_2
+3340_4	has_surface_form	mother
+3340_5	is_in_sentence	sentence_3340
+3340_5	prep	3340_4
+3340_5	has_surface_form	of
+3340_6	is_in_sentence	sentence_3340
+3340_6	poss	3340_7
+3340_6	has_surface_form	his
+3340_7	is_in_sentence	sentence_3340
+3340_7	pobj	3340_5
+3340_7	has_surface_form	son
+3340_8	is_in_sentence	sentence_3340
+3340_8	compound	3340_9
+3340_8	has_surface_form	Gino
+3340_9	is_in_sentence	sentence_3340
+3340_9	appos	3340_7
+3340_9	has_surface_form	Quilico
+3340_10	is_in_sentence	sentence_3340
+3340_10	cc	3340_4
+3340_10	has_surface_form	and
+3340_11	is_in_sentence	sentence_3340
+3340_11	compound	3340_13
+3340_11	has_surface_form	daughter
+3340_13	is_in_sentence	sentence_3340
+3340_13	conj	3340_4
+3340_13	has_surface_form	Quilico
+3340_13	part_of_entity	Donna Quilico
+3340_12	is_in_sentence	sentence_3340
+3340_12	compound	3340_13
+3340_12	has_surface_form	Donna
+3340_12	part_of_entity	Donna Quilico
+3340_14	is_in_sentence	sentence_3340
+3340_14	punct	3340_2
+3340_14	has_surface_form	.
+3340_15	is_in_sentence	sentence_3340
+3340_15	dep	3340_15
+3340_15	has_surface_form	
+Lina Pizzolongo	surface_form	Lina Pizzolongo
+Lina Pizzolongo	has-child	Donna Quilico
+Donna Quilico	surface_form	Donna Quilico

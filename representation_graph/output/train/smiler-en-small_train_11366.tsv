@@ -1,0 +1,56 @@
+11365_0	is_in_sentence	sentence_11365
+11365_0	compound	11365_1
+11365_0	has_surface_form	Mario
+11365_0	part_of_entity	Mario Martone
+11365_1	is_in_sentence	sentence_11365
+11365_1	nsubj	11365_8
+11365_1	has_surface_form	Martone
+11365_1	part_of_entity	Mario Martone
+11365_8	is_in_sentence	sentence_11365
+11365_8	ROOT	11365_8
+11365_8	has_surface_form	is
+11365_2	is_in_sentence	sentence_11365
+11365_2	punct	11365_1
+11365_2	has_surface_form	(
+11365_3	is_in_sentence	sentence_11365
+11365_3	acl	11365_1
+11365_3	has_surface_form	born
+11365_4	is_in_sentence	sentence_11365
+11365_4	nummod	11365_5
+11365_4	has_surface_form	20
+11365_5	is_in_sentence	sentence_11365
+11365_5	npadvmod	11365_3
+11365_5	has_surface_form	November
+11365_6	is_in_sentence	sentence_11365
+11365_6	nummod	11365_5
+11365_6	has_surface_form	1959
+11365_7	is_in_sentence	sentence_11365
+11365_7	punct	11365_1
+11365_7	has_surface_form	)
+11365_9	is_in_sentence	sentence_11365
+11365_9	det	11365_12
+11365_9	has_surface_form	an
+11365_12	is_in_sentence	sentence_11365
+11365_12	attr	11365_8
+11365_12	has_surface_form	director
+11365_10	is_in_sentence	sentence_11365
+11365_10	amod	11365_12
+11365_10	has_surface_form	Italian
+11365_11	is_in_sentence	sentence_11365
+11365_11	compound	11365_12
+11365_11	has_surface_form	film
+11365_13	is_in_sentence	sentence_11365
+11365_13	cc	11365_12
+11365_13	has_surface_form	and
+11365_14	is_in_sentence	sentence_11365
+11365_14	conj	11365_12
+11365_14	is_entity	screenwriter
+screenwriter	surface_form	screenwriter
+11365_15	is_in_sentence	sentence_11365
+11365_15	punct	11365_8
+11365_15	has_surface_form	.
+11365_16	is_in_sentence	sentence_11365
+11365_16	dep	11365_16
+11365_16	has_surface_form	
+Mario Martone	surface_form	Mario Martone
+Mario Martone	has-occupation	screenwriter

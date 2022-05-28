@@ -1,0 +1,65 @@
+19269_0	is_in_sentence	sentence_19269
+19269_0	compound	19269_1
+19269_0	has_surface_form	Bronwyn
+19269_0	part_of_entity	Bronwyn Thompson
+19269_1	is_in_sentence	sentence_19269
+19269_1	nsubj	19269_12
+19269_1	has_surface_form	Thompson
+19269_1	part_of_entity	Bronwyn Thompson
+19269_12	is_in_sentence	sentence_19269
+19269_12	ROOT	19269_12
+19269_12	has_surface_form	is
+19269_2	is_in_sentence	sentence_19269
+19269_2	punct	19269_3
+19269_2	has_surface_form	(
+19269_3	is_in_sentence	sentence_19269
+19269_3	parataxis	19269_1
+19269_3	has_surface_form	born
+19269_4	is_in_sentence	sentence_19269
+19269_4	nummod	19269_5
+19269_4	has_surface_form	29
+19269_5	is_in_sentence	sentence_19269
+19269_5	npadvmod	19269_3
+19269_5	has_surface_form	January
+19269_6	is_in_sentence	sentence_19269
+19269_6	nummod	19269_5
+19269_6	has_surface_form	1978
+19269_7	is_in_sentence	sentence_19269
+19269_7	prep	19269_3
+19269_7	has_surface_form	in
+19269_8	is_in_sentence	sentence_19269
+19269_8	pobj	19269_7
+19269_8	is_entity	Rockhampton
+Rockhampton	surface_form	Rockhampton
+19269_9	is_in_sentence	sentence_19269
+19269_9	punct	19269_8
+19269_9	has_surface_form	,
+19269_10	is_in_sentence	sentence_19269
+19269_10	appos	19269_8
+19269_10	has_surface_form	Australia
+19269_11	is_in_sentence	sentence_19269
+19269_11	punct	19269_8
+19269_11	has_surface_form	)
+19269_13	is_in_sentence	sentence_19269
+19269_13	det	19269_15
+19269_13	has_surface_form	a
+19269_15	is_in_sentence	sentence_19269
+19269_15	attr	19269_12
+19269_15	has_surface_form	jumper
+19269_14	is_in_sentence	sentence_19269
+19269_14	amod	19269_15
+19269_14	has_surface_form	long
+19269_16	is_in_sentence	sentence_19269
+19269_16	prep	19269_15
+19269_16	has_surface_form	from
+19269_17	is_in_sentence	sentence_19269
+19269_17	pobj	19269_16
+19269_17	has_surface_form	Australia
+19269_18	is_in_sentence	sentence_19269
+19269_18	punct	19269_12
+19269_18	has_surface_form	.
+19269_19	is_in_sentence	sentence_19269
+19269_19	dep	19269_19
+19269_19	has_surface_form	
+Bronwyn Thompson	surface_form	Bronwyn Thompson
+Bronwyn Thompson	birth-place	Rockhampton

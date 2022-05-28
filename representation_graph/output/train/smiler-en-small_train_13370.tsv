@@ -1,0 +1,64 @@
+13369_0	is_in_sentence	sentence_13369
+13369_0	nmod	13369_3
+13369_0	has_surface_form	CX
+13369_0	part_of_entity	CX 4 Radio Rural
+13369_3	is_in_sentence	sentence_13369
+13369_3	nsubj	13369_4
+13369_3	has_surface_form	Rural
+13369_3	part_of_entity	CX 4 Radio Rural
+13369_1	is_in_sentence	sentence_13369
+13369_1	nummod	13369_0
+13369_1	has_surface_form	4
+13369_1	part_of_entity	CX 4 Radio Rural
+13369_2	is_in_sentence	sentence_13369
+13369_2	compound	13369_3
+13369_2	has_surface_form	Radio
+13369_2	part_of_entity	CX 4 Radio Rural
+13369_4	is_in_sentence	sentence_13369
+13369_4	ROOT	13369_4
+13369_4	has_surface_form	is
+13369_5	is_in_sentence	sentence_13369
+13369_5	det	13369_12
+13369_5	has_surface_form	a
+13369_12	is_in_sentence	sentence_13369
+13369_12	attr	13369_4
+13369_12	has_surface_form	station
+13369_6	is_in_sentence	sentence_13369
+13369_6	amod	13369_12
+13369_6	has_surface_form	Uruguayan
+13369_7	is_in_sentence	sentence_13369
+13369_7	amod	13369_9
+13369_7	has_surface_form	Spanish
+13369_9	is_in_sentence	sentence_13369
+13369_9	compound	13369_10
+13369_9	has_surface_form	language
+13369_8	is_in_sentence	sentence_13369
+13369_8	punct	13369_9
+13369_8	has_surface_form	-
+13369_10	is_in_sentence	sentence_13369
+13369_10	compound	13369_12
+13369_10	has_surface_form	AM
+13369_11	is_in_sentence	sentence_13369
+13369_11	compound	13369_12
+13369_11	has_surface_form	radio
+13369_13	is_in_sentence	sentence_13369
+13369_13	nsubj	13369_14
+13369_13	has_surface_form	that
+13369_14	is_in_sentence	sentence_13369
+13369_14	relcl	13369_12
+13369_14	has_surface_form	broadcasts
+13369_15	is_in_sentence	sentence_13369
+13369_15	prep	13369_14
+13369_15	has_surface_form	from
+13369_16	is_in_sentence	sentence_13369
+13369_16	pobj	13369_15
+13369_16	is_entity	Montevideo
+Montevideo	surface_form	Montevideo
+13369_17	is_in_sentence	sentence_13369
+13369_17	punct	13369_4
+13369_17	has_surface_form	.
+13369_18	is_in_sentence	sentence_13369
+13369_18	dep	13369_18
+13369_18	has_surface_form	
+CX 4 Radio Rural	surface_form	CX 4 Radio Rural
+CX 4 Radio Rural	is-where	Montevideo

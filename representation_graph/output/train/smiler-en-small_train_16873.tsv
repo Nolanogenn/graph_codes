@@ -1,0 +1,64 @@
+16872_0	is_in_sentence	sentence_16872
+16872_0	compound	16872_1
+16872_0	has_surface_form	John
+16872_0	part_of_entity	John Rich
+16872_1	is_in_sentence	sentence_16872
+16872_1	nsubj	16872_9
+16872_1	has_surface_form	Rich
+16872_1	part_of_entity	John Rich
+16872_9	is_in_sentence	sentence_16872
+16872_9	ROOT	16872_9
+16872_9	has_surface_form	is
+16872_2	is_in_sentence	sentence_16872
+16872_2	punct	16872_1
+16872_2	has_surface_form	(
+16872_3	is_in_sentence	sentence_16872
+16872_3	acl	16872_1
+16872_3	has_surface_form	born
+16872_4	is_in_sentence	sentence_16872
+16872_4	npadvmod	16872_3
+16872_4	has_surface_form	January
+16872_5	is_in_sentence	sentence_16872
+16872_5	nummod	16872_4
+16872_5	has_surface_form	7
+16872_6	is_in_sentence	sentence_16872
+16872_6	punct	16872_4
+16872_6	has_surface_form	,
+16872_7	is_in_sentence	sentence_16872
+16872_7	nummod	16872_4
+16872_7	has_surface_form	1974
+16872_8	is_in_sentence	sentence_16872
+16872_8	punct	16872_1
+16872_8	has_surface_form	)
+16872_10	is_in_sentence	sentence_16872
+16872_10	det	16872_16
+16872_10	has_surface_form	an
+16872_16	is_in_sentence	sentence_16872
+16872_16	attr	16872_9
+16872_16	has_surface_form	songwriter
+16872_11	is_in_sentence	sentence_16872
+16872_11	amod	16872_16
+16872_11	has_surface_form	American
+16872_12	is_in_sentence	sentence_16872
+16872_12	compound	16872_13
+16872_12	has_surface_form	country
+16872_12	part_of_entity	country music
+16872_13	is_in_sentence	sentence_16872
+16872_13	compound	16872_16
+16872_13	has_surface_form	music
+16872_13	part_of_entity	country music
+16872_14	is_in_sentence	sentence_16872
+16872_14	compound	16872_16
+16872_14	has_surface_form	singer
+16872_15	is_in_sentence	sentence_16872
+16872_15	punct	16872_16
+16872_15	has_surface_form	-
+16872_17	is_in_sentence	sentence_16872
+16872_17	punct	16872_9
+16872_17	has_surface_form	.
+16872_18	is_in_sentence	sentence_16872
+16872_18	dep	16872_18
+16872_18	has_surface_form	
+John Rich	surface_form	John Rich
+John Rich	has-genre	country music
+country music	surface_form	country music

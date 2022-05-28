@@ -1,0 +1,72 @@
+6361_0	is_in_sentence	sentence_6361
+6361_0	det	6361_3
+6361_0	has_surface_form	The
+6361_3	is_in_sentence	sentence_6361
+6361_3	nsubj	6361_4
+6361_3	has_surface_form	Library
+6361_3	part_of_entity	Broward County Library
+6361_1	is_in_sentence	sentence_6361
+6361_1	compound	6361_2
+6361_1	has_surface_form	Broward
+6361_1	part_of_entity	Broward County Library
+6361_2	is_in_sentence	sentence_6361
+6361_2	compound	6361_3
+6361_2	has_surface_form	County
+6361_2	part_of_entity	Broward County Library
+6361_4	is_in_sentence	sentence_6361
+6361_4	ROOT	6361_4
+6361_4	has_surface_form	is
+6361_5	is_in_sentence	sentence_6361
+6361_5	det	6361_8
+6361_5	has_surface_form	a
+6361_8	is_in_sentence	sentence_6361
+6361_8	attr	6361_4
+6361_8	has_surface_form	system
+6361_8	part_of_entity	public library system
+6361_6	is_in_sentence	sentence_6361
+6361_6	amod	6361_7
+6361_6	has_surface_form	public
+6361_6	part_of_entity	public library system
+6361_7	is_in_sentence	sentence_6361
+6361_7	compound	6361_8
+6361_7	has_surface_form	library
+6361_7	part_of_entity	public library system
+6361_9	is_in_sentence	sentence_6361
+6361_9	prep	6361_8
+6361_9	has_surface_form	in
+6361_10	is_in_sentence	sentence_6361
+6361_10	compound	6361_11
+6361_10	has_surface_form	Broward
+6361_11	is_in_sentence	sentence_6361
+6361_11	pobj	6361_9
+6361_11	has_surface_form	County
+6361_12	is_in_sentence	sentence_6361
+6361_12	punct	6361_11
+6361_12	has_surface_form	,
+6361_13	is_in_sentence	sentence_6361
+6361_13	appos	6361_11
+6361_13	has_surface_form	Florida
+6361_14	is_in_sentence	sentence_6361
+6361_14	punct	6361_11
+6361_14	has_surface_form	,
+6361_15	is_in_sentence	sentence_6361
+6361_15	prep	6361_8
+6361_15	has_surface_form	in
+6361_16	is_in_sentence	sentence_6361
+6361_16	det	6361_18
+6361_16	has_surface_form	the
+6361_18	is_in_sentence	sentence_6361
+6361_18	pobj	6361_15
+6361_18	has_surface_form	States
+6361_17	is_in_sentence	sentence_6361
+6361_17	compound	6361_18
+6361_17	has_surface_form	United
+6361_19	is_in_sentence	sentence_6361
+6361_19	punct	6361_4
+6361_19	has_surface_form	.
+6361_20	is_in_sentence	sentence_6361
+6361_20	dep	6361_4
+6361_20	has_surface_form	
+Broward County Library	surface_form	Broward County Library
+Broward County Library	has-type	public library system
+public library system	surface_form	public library system

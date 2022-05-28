@@ -1,0 +1,61 @@
+9816_0	is_in_sentence	sentence_9816
+9816_0	compound	9816_1
+9816_0	has_surface_form	Hugo
+9816_0	part_of_entity	Hugo Wessel
+9816_1	is_in_sentence	sentence_9816
+9816_1	poss	9816_3
+9816_1	has_surface_form	Wessel
+9816_1	part_of_entity	Hugo Wessel
+9816_3	is_in_sentence	sentence_9816
+9816_3	nsubj	9816_12
+9816_3	has_surface_form	son
+9816_2	is_in_sentence	sentence_9816
+9816_2	case	9816_1
+9816_2	has_surface_form	's
+9816_12	is_in_sentence	sentence_9816
+9816_12	ROOT	9816_12
+9816_12	has_surface_form	is
+9816_4	is_in_sentence	sentence_9816
+9816_4	punct	9816_3
+9816_4	has_surface_form	,
+9816_5	is_in_sentence	sentence_9816
+9816_5	compound	9816_6
+9816_5	has_surface_form	Mark
+9816_5	part_of_entity	Mark Wessel
+9816_6	is_in_sentence	sentence_9816
+9816_6	appos	9816_3
+9816_6	has_surface_form	Wessel
+9816_6	part_of_entity	Mark Wessel
+9816_7	is_in_sentence	sentence_9816
+9816_7	punct	9816_6
+9816_7	has_surface_form	(
+9816_8	is_in_sentence	sentence_9816
+9816_8	amod	9816_6
+9816_8	has_surface_form	born
+9816_9	is_in_sentence	sentence_9816
+9816_9	npadvmod	9816_8
+9816_9	has_surface_form	1963
+9816_10	is_in_sentence	sentence_9816
+9816_10	punct	9816_6
+9816_10	has_surface_form	)
+9816_11	is_in_sentence	sentence_9816
+9816_11	punct	9816_3
+9816_11	has_surface_form	,
+9816_13	is_in_sentence	sentence_9816
+9816_13	det	9816_15
+9816_13	has_surface_form	a
+9816_15	is_in_sentence	sentence_9816
+9816_15	attr	9816_12
+9816_15	has_surface_form	photographer
+9816_14	is_in_sentence	sentence_9816
+9816_14	amod	9816_15
+9816_14	has_surface_form	Danish
+9816_16	is_in_sentence	sentence_9816
+9816_16	punct	9816_12
+9816_16	has_surface_form	.
+9816_17	is_in_sentence	sentence_9816
+9816_17	dep	9816_17
+9816_17	has_surface_form	
+Hugo Wessel	surface_form	Hugo Wessel
+Hugo Wessel	has-child	Mark Wessel
+Mark Wessel	surface_form	Mark Wessel

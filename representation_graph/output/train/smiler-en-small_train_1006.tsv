@@ -1,0 +1,108 @@
+1005_0	is_in_sentence	sentence_1005
+1005_0	compound	1005_3
+1005_0	has_surface_form	Barbara
+1005_0	part_of_entity	Barbara Elaine Gunter Coffman
+1005_3	is_in_sentence	sentence_1005
+1005_3	nsubj	1005_16
+1005_3	has_surface_form	Coffman
+1005_3	part_of_entity	Barbara Elaine Gunter Coffman
+1005_1	is_in_sentence	sentence_1005
+1005_1	compound	1005_3
+1005_1	has_surface_form	Elaine
+1005_1	part_of_entity	Barbara Elaine Gunter Coffman
+1005_2	is_in_sentence	sentence_1005
+1005_2	compound	1005_3
+1005_2	has_surface_form	Gunter
+1005_2	part_of_entity	Barbara Elaine Gunter Coffman
+1005_16	is_in_sentence	sentence_1005
+1005_16	ROOT	1005_16
+1005_16	has_surface_form	is
+1005_4	is_in_sentence	sentence_1005
+1005_4	punct	1005_3
+1005_4	has_surface_form	(
+1005_5	is_in_sentence	sentence_1005
+1005_5	acl	1005_3
+1005_5	has_surface_form	born
+1005_6	is_in_sentence	sentence_1005
+1005_6	npadvmod	1005_5
+1005_6	has_surface_form	June
+1005_7	is_in_sentence	sentence_1005
+1005_7	nummod	1005_6
+1005_7	has_surface_form	19
+1005_8	is_in_sentence	sentence_1005
+1005_8	punct	1005_6
+1005_8	has_surface_form	,
+1005_9	is_in_sentence	sentence_1005
+1005_9	nummod	1005_6
+1005_9	has_surface_form	1942
+1005_10	is_in_sentence	sentence_1005
+1005_10	prep	1005_5
+1005_10	has_surface_form	in
+1005_11	is_in_sentence	sentence_1005
+1005_11	compound	1005_12
+1005_11	has_surface_form	San
+1005_11	part_of_entity	San Diego
+1005_12	is_in_sentence	sentence_1005
+1005_12	pobj	1005_10
+1005_12	has_surface_form	Diego
+1005_12	part_of_entity	San Diego
+1005_13	is_in_sentence	sentence_1005
+1005_13	punct	1005_12
+1005_13	has_surface_form	,
+1005_14	is_in_sentence	sentence_1005
+1005_14	appos	1005_12
+1005_14	has_surface_form	California
+1005_15	is_in_sentence	sentence_1005
+1005_15	punct	1005_3
+1005_15	has_surface_form	)
+1005_17	is_in_sentence	sentence_1005
+1005_17	det	1005_19
+1005_17	has_surface_form	an
+1005_19	is_in_sentence	sentence_1005
+1005_19	attr	1005_16
+1005_19	has_surface_form	writer
+1005_18	is_in_sentence	sentence_1005
+1005_18	amod	1005_19
+1005_18	has_surface_form	American
+1005_20	is_in_sentence	sentence_1005
+1005_20	prep	1005_19
+1005_20	has_surface_form	of
+1005_21	is_in_sentence	sentence_1005
+1005_21	det	1005_23
+1005_21	has_surface_form	both
+1005_23	is_in_sentence	sentence_1005
+1005_23	pobj	1005_20
+1005_23	has_surface_form	romance
+1005_22	is_in_sentence	sentence_1005
+1005_22	amod	1005_23
+1005_22	has_surface_form	historical
+1005_24	is_in_sentence	sentence_1005
+1005_24	cc	1005_23
+1005_24	has_surface_form	and
+1005_25	is_in_sentence	sentence_1005
+1005_25	conj	1005_23
+1005_25	has_surface_form	suspense
+1005_26	is_in_sentence	sentence_1005
+1005_26	punct	1005_16
+1005_26	has_surface_form	,
+1005_27	is_in_sentence	sentence_1005
+1005_27	advcl	1005_16
+1005_27	has_surface_form	writing
+1005_28	is_in_sentence	sentence_1005
+1005_28	prep	1005_27
+1005_28	has_surface_form	as
+1005_29	is_in_sentence	sentence_1005
+1005_29	compound	1005_30
+1005_29	has_surface_form	Elaine
+1005_30	is_in_sentence	sentence_1005
+1005_30	pobj	1005_28
+1005_30	has_surface_form	Coffman
+1005_31	is_in_sentence	sentence_1005
+1005_31	punct	1005_16
+1005_31	has_surface_form	.
+1005_32	is_in_sentence	sentence_1005
+1005_32	dep	1005_16
+1005_32	has_surface_form	
+Barbara Elaine Gunter Coffman	surface_form	Barbara Elaine Gunter Coffman
+Barbara Elaine Gunter Coffman	birth-place	San Diego
+San Diego	surface_form	San Diego

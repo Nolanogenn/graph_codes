@@ -1,0 +1,107 @@
+16030_0	is_in_sentence	sentence_16030
+16030_0	compound	16030_2
+16030_0	has_surface_form	Diane
+16030_0	part_of_entity	Diane Ayala Goldner
+16030_2	is_in_sentence	sentence_16030
+16030_2	nsubj	16030_10
+16030_2	has_surface_form	Goldner
+16030_2	part_of_entity	Diane Ayala Goldner
+16030_1	is_in_sentence	sentence_16030
+16030_1	compound	16030_2
+16030_1	has_surface_form	Ayala
+16030_1	part_of_entity	Diane Ayala Goldner
+16030_10	is_in_sentence	sentence_16030
+16030_10	ROOT	16030_10
+16030_10	has_surface_form	is
+16030_3	is_in_sentence	sentence_16030
+16030_3	punct	16030_4
+16030_3	has_surface_form	(
+16030_4	is_in_sentence	sentence_16030
+16030_4	acl	16030_2
+16030_4	has_surface_form	born
+16030_5	is_in_sentence	sentence_16030
+16030_5	npadvmod	16030_4
+16030_5	has_surface_form	January
+16030_6	is_in_sentence	sentence_16030
+16030_6	nummod	16030_5
+16030_6	has_surface_form	9
+16030_7	is_in_sentence	sentence_16030
+16030_7	punct	16030_5
+16030_7	has_surface_form	,
+16030_8	is_in_sentence	sentence_16030
+16030_8	nummod	16030_5
+16030_8	has_surface_form	1956
+16030_9	is_in_sentence	sentence_16030
+16030_9	punct	16030_4
+16030_9	has_surface_form	)
+16030_11	is_in_sentence	sentence_16030
+16030_11	det	16030_12
+16030_11	has_surface_form	an
+16030_12	is_in_sentence	sentence_16030
+16030_12	attr	16030_10
+16030_12	has_surface_form	actress
+16030_13	is_in_sentence	sentence_16030
+16030_13	punct	16030_10
+16030_13	has_surface_form	.
+16030_14	is_in_sentence	sentence_16030
+16030_14	nsubjpass	16030_17
+16030_14	has_surface_form	She
+16030_17	is_in_sentence	sentence_16030
+16030_17	ROOT	16030_17
+16030_17	has_surface_form	known
+16030_15	is_in_sentence	sentence_16030
+16030_15	auxpass	16030_17
+16030_15	has_surface_form	is
+16030_16	is_in_sentence	sentence_16030
+16030_16	advmod	16030_17
+16030_16	has_surface_form	best
+16030_18	is_in_sentence	sentence_16030
+16030_18	prep	16030_17
+16030_18	has_surface_form	for
+16030_19	is_in_sentence	sentence_16030
+16030_19	poss	16030_20
+16030_19	has_surface_form	her
+16030_20	is_in_sentence	sentence_16030
+16030_20	pobj	16030_18
+16030_20	has_surface_form	roles
+16030_21	is_in_sentence	sentence_16030
+16030_21	prep	16030_20
+16030_21	has_surface_form	in
+16030_22	is_in_sentence	sentence_16030
+16030_22	poss	16030_23
+16030_22	has_surface_form	her
+16030_23	is_in_sentence	sentence_16030
+16030_23	pobj	16030_21
+16030_23	has_surface_form	husband
+16030_24	is_in_sentence	sentence_16030
+16030_24	punct	16030_17
+16030_24	has_surface_form	,
+16030_25	is_in_sentence	sentence_16030
+16030_25	compound	16030_26
+16030_25	has_surface_form	John
+16030_25	part_of_entity	John Gulager
+16030_26	is_in_sentence	sentence_16030
+16030_26	poss	16030_29
+16030_26	has_surface_form	Gulager
+16030_26	part_of_entity	John Gulager
+16030_29	is_in_sentence	sentence_16030
+16030_29	compound	16030_30
+16030_29	has_surface_form	series
+16030_27	is_in_sentence	sentence_16030
+16030_27	case	16030_26
+16030_27	has_surface_form	's
+16030_28	is_in_sentence	sentence_16030
+16030_28	compound	16030_29
+16030_28	has_surface_form	film
+16030_30	is_in_sentence	sentence_16030
+16030_30	npadvmod	16030_17
+16030_30	has_surface_form	Feast
+16030_31	is_in_sentence	sentence_16030
+16030_31	punct	16030_17
+16030_31	has_surface_form	.
+16030_32	is_in_sentence	sentence_16030
+16030_32	dep	16030_32
+16030_32	has_surface_form	
+Diane Ayala Goldner	surface_form	Diane Ayala Goldner
+Diane Ayala Goldner	has-spouse	John Gulager
+John Gulager	surface_form	John Gulager

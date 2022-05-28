@@ -1,0 +1,53 @@
+34725_0	is_in_sentence	sentence_34725
+34725_0	nsubjpass	34725_2
+34725_0	is_entity	Suzuki
+34725_2	is_in_sentence	sentence_34725
+34725_2	ROOT	34725_2
+34725_2	has_surface_form	born
+Suzuki	surface_form	Suzuki
+Suzuki	has-parent	Akio Suzuki
+34725_1	is_in_sentence	sentence_34725
+34725_1	auxpass	34725_2
+34725_1	has_surface_form	was
+34725_3	is_in_sentence	sentence_34725
+34725_3	prep	34725_2
+34725_3	has_surface_form	in
+34725_4	is_in_sentence	sentence_34725
+34725_4	pobj	34725_3
+34725_4	has_surface_form	Tokyo
+34725_5	is_in_sentence	sentence_34725
+34725_5	punct	34725_4
+34725_5	has_surface_form	,
+34725_6	is_in_sentence	sentence_34725
+34725_6	conj	34725_4
+34725_6	has_surface_form	Japan
+34725_7	is_in_sentence	sentence_34725
+34725_7	punct	34725_6
+34725_7	has_surface_form	,
+34725_8	is_in_sentence	sentence_34725
+34725_8	det	34725_9
+34725_8	has_surface_form	the
+34725_9	is_in_sentence	sentence_34725
+34725_9	appos	34725_6
+34725_9	has_surface_form	son
+34725_10	is_in_sentence	sentence_34725
+34725_10	prep	34725_9
+34725_10	has_surface_form	of
+34725_11	is_in_sentence	sentence_34725
+34725_11	pobj	34725_10
+34725_11	has_surface_form	actor
+34725_12	is_in_sentence	sentence_34725
+34725_12	compound	34725_13
+34725_12	has_surface_form	Akio
+34725_12	part_of_entity	Akio Suzuki
+34725_13	is_in_sentence	sentence_34725
+34725_13	appos	34725_9
+34725_13	is_entity	Suzuki
+34725_13	part_of_entity	Akio Suzuki
+34725_14	is_in_sentence	sentence_34725
+34725_14	punct	34725_2
+34725_14	has_surface_form	.
+34725_15	is_in_sentence	sentence_34725
+34725_15	dep	34725_2
+34725_15	has_surface_form	
+Akio Suzuki	surface_form	Akio Suzuki

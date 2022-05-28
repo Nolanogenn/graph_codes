@@ -1,0 +1,86 @@
+4099_0	is_in_sentence	sentence_4099
+4099_0	compound	4099_2
+4099_0	has_surface_form	Adana
+4099_0	part_of_entity	Adana Metropolitan Theatre
+4099_2	is_in_sentence	sentence_4099
+4099_2	nsubj	4099_11
+4099_2	has_surface_form	Theatre
+4099_2	part_of_entity	Adana Metropolitan Theatre
+4099_1	is_in_sentence	sentence_4099
+4099_1	compound	4099_2
+4099_1	has_surface_form	Metropolitan
+4099_1	part_of_entity	Adana Metropolitan Theatre
+4099_11	is_in_sentence	sentence_4099
+4099_11	ROOT	4099_11
+4099_11	has_surface_form	is
+4099_3	is_in_sentence	sentence_4099
+4099_3	punct	4099_4
+4099_3	has_surface_form	(
+4099_4	is_in_sentence	sentence_4099
+4099_4	appos	4099_2
+4099_4	has_surface_form	Turkish
+4099_5	is_in_sentence	sentence_4099
+4099_5	punct	4099_4
+4099_5	has_surface_form	:
+4099_6	is_in_sentence	sentence_4099
+4099_6	compound	4099_8
+4099_6	has_surface_form	Büyükşehir
+4099_8	is_in_sentence	sentence_4099
+4099_8	appos	4099_4
+4099_8	has_surface_form	Salonu
+4099_7	is_in_sentence	sentence_4099
+4099_7	compound	4099_8
+4099_7	has_surface_form	Tiyatro
+4099_9	is_in_sentence	sentence_4099
+4099_9	punct	4099_4
+4099_9	has_surface_form	)
+4099_10	is_in_sentence	sentence_4099
+4099_10	punct	4099_2
+4099_10	has_surface_form	)
+4099_12	is_in_sentence	sentence_4099
+4099_12	det	4099_14
+4099_12	has_surface_form	a
+4099_14	is_in_sentence	sentence_4099
+4099_14	attr	4099_11
+4099_14	has_surface_form	hall
+4099_14	part_of_entity	theatre hall
+4099_13	is_in_sentence	sentence_4099
+4099_13	compound	4099_14
+4099_13	has_surface_form	theatre
+4099_13	part_of_entity	theatre hall
+4099_15	is_in_sentence	sentence_4099
+4099_15	prep	4099_14
+4099_15	has_surface_form	in
+4099_16	is_in_sentence	sentence_4099
+4099_16	det	4099_18
+4099_16	has_surface_form	the
+4099_18	is_in_sentence	sentence_4099
+4099_18	pobj	4099_15
+4099_18	has_surface_form	neighborhood
+4099_17	is_in_sentence	sentence_4099
+4099_17	compound	4099_18
+4099_17	has_surface_form	Reşatbey
+4099_19	is_in_sentence	sentence_4099
+4099_19	prep	4099_18
+4099_19	has_surface_form	of
+4099_20	is_in_sentence	sentence_4099
+4099_20	det	4099_21
+4099_20	has_surface_form	the
+4099_21	is_in_sentence	sentence_4099
+4099_21	pobj	4099_19
+4099_21	has_surface_form	city
+4099_22	is_in_sentence	sentence_4099
+4099_22	prep	4099_21
+4099_22	has_surface_form	of
+4099_23	is_in_sentence	sentence_4099
+4099_23	pobj	4099_22
+4099_23	has_surface_form	Adana
+4099_24	is_in_sentence	sentence_4099
+4099_24	punct	4099_11
+4099_24	has_surface_form	.
+4099_25	is_in_sentence	sentence_4099
+4099_25	dep	4099_25
+4099_25	has_surface_form	
+Adana Metropolitan Theatre	surface_form	Adana Metropolitan Theatre
+Adana Metropolitan Theatre	has-type	theatre hall
+theatre hall	surface_form	theatre hall

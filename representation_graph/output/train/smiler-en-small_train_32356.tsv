@@ -1,0 +1,86 @@
+32355_0	is_in_sentence	sentence_32355
+32355_0	compound	32355_1
+32355_0	has_surface_form	Lontano
+32355_0	part_of_entity	Lontano da dove
+32355_1	is_in_sentence	sentence_32355
+32355_1	nsubj	32355_2
+32355_1	has_surface_form	da
+32355_1	part_of_entity	Lontano da dove
+32355_2	is_in_sentence	sentence_32355
+32355_2	ROOT	32355_2
+32355_2	has_surface_form	dove
+32355_2	part_of_entity	Lontano da dove
+32355_3	is_in_sentence	sentence_32355
+32355_3	punct	32355_8
+32355_3	has_surface_form	(
+32355_8	is_in_sentence	sentence_32355
+32355_8	parataxis	32355_2
+32355_8	has_surface_form	is
+32355_4	is_in_sentence	sentence_32355
+32355_4	advmod	32355_8
+32355_4	has_surface_form	Away
+32355_5	is_in_sentence	sentence_32355
+32355_5	prep	32355_4
+32355_5	has_surface_form	from
+32355_6	is_in_sentence	sentence_32355
+32355_6	pcomp	32355_5
+32355_6	has_surface_form	where
+32355_7	is_in_sentence	sentence_32355
+32355_7	punct	32355_8
+32355_7	has_surface_form	)
+32355_9	is_in_sentence	sentence_32355
+32355_9	det	32355_14
+32355_9	has_surface_form	a
+32355_14	is_in_sentence	sentence_32355
+32355_14	attr	32355_8
+32355_14	has_surface_form	film
+32355_10	is_in_sentence	sentence_32355
+32355_10	nummod	32355_14
+32355_10	has_surface_form	1983
+32355_11	is_in_sentence	sentence_32355
+32355_11	amod	32355_14
+32355_11	has_surface_form	Italian
+32355_12	is_in_sentence	sentence_32355
+32355_12	amod	32355_14
+32355_12	has_surface_form	romantic
+32355_13	is_in_sentence	sentence_32355
+32355_13	compound	32355_14
+32355_13	has_surface_form	drama
+32355_15	is_in_sentence	sentence_32355
+32355_15	acl	32355_14
+32355_15	has_surface_form	written
+32355_16	is_in_sentence	sentence_32355
+32355_16	cc	32355_15
+32355_16	has_surface_form	and
+32355_17	is_in_sentence	sentence_32355
+32355_17	conj	32355_15
+32355_17	has_surface_form	directed
+32355_18	is_in_sentence	sentence_32355
+32355_18	agent	32355_17
+32355_18	has_surface_form	by
+32355_19	is_in_sentence	sentence_32355
+32355_19	compound	32355_20
+32355_19	has_surface_form	Stefania
+32355_19	part_of_entity	Stefania Casini
+32355_20	is_in_sentence	sentence_32355
+32355_20	pobj	32355_18
+32355_20	has_surface_form	Casini
+32355_20	part_of_entity	Stefania Casini
+32355_21	is_in_sentence	sentence_32355
+32355_21	cc	32355_20
+32355_21	has_surface_form	and
+32355_22	is_in_sentence	sentence_32355
+32355_22	compound	32355_23
+32355_22	has_surface_form	Francesca
+32355_23	is_in_sentence	sentence_32355
+32355_23	conj	32355_20
+32355_23	has_surface_form	Marciano
+32355_24	is_in_sentence	sentence_32355
+32355_24	punct	32355_2
+32355_24	has_surface_form	.
+32355_25	is_in_sentence	sentence_32355
+32355_25	dep	32355_25
+32355_25	has_surface_form	
+Lontano da dove	surface_form	Lontano da dove
+Lontano da dove	movie-has-director	Stefania Casini
+Stefania Casini	surface_form	Stefania Casini

@@ -1,0 +1,47 @@
+12046_0	is_in_sentence	sentence_12046
+12046_0	compound	12046_1
+12046_0	has_surface_form	Snehamulla
+12046_0	part_of_entity	Snehamulla Simham
+12046_1	is_in_sentence	sentence_12046
+12046_1	nsubj	12046_2
+12046_1	has_surface_form	Simham
+12046_1	part_of_entity	Snehamulla Simham
+12046_2	is_in_sentence	sentence_12046
+12046_2	ROOT	12046_2
+12046_2	has_surface_form	is
+12046_3	is_in_sentence	sentence_12046
+12046_3	det	12046_7
+12046_3	has_surface_form	a
+12046_7	is_in_sentence	sentence_12046
+12046_7	attr	12046_2
+12046_7	has_surface_form	film
+12046_4	is_in_sentence	sentence_12046
+12046_4	nummod	12046_7
+12046_4	has_surface_form	1986
+12046_5	is_in_sentence	sentence_12046
+12046_5	amod	12046_7
+12046_5	has_surface_form	Indian
+12046_6	is_in_sentence	sentence_12046
+12046_6	compound	12046_7
+12046_6	has_surface_form	Malayalam
+12046_8	is_in_sentence	sentence_12046
+12046_8	punct	12046_7
+12046_8	has_surface_form	,
+12046_9	is_in_sentence	sentence_12046
+12046_9	acl	12046_7
+12046_9	has_surface_form	directed
+12046_10	is_in_sentence	sentence_12046
+12046_10	agent	12046_9
+12046_10	has_surface_form	by
+12046_11	is_in_sentence	sentence_12046
+12046_11	pobj	12046_10
+12046_11	is_entity	Sajan
+Sajan	surface_form	Sajan
+12046_12	is_in_sentence	sentence_12046
+12046_12	punct	12046_2
+12046_12	has_surface_form	.
+12046_13	is_in_sentence	sentence_12046
+12046_13	dep	12046_2
+12046_13	has_surface_form	
+Snehamulla Simham	surface_form	Snehamulla Simham
+Snehamulla Simham	movie-has-director	Sajan

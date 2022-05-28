@@ -1,0 +1,107 @@
+5384_0	is_in_sentence	sentence_5384
+5384_0	compound	5384_1
+5384_0	has_surface_form	Adavi
+5384_0	part_of_entity	Adavi Simhalu
+5384_1	is_in_sentence	sentence_5384
+5384_1	nsubj	5384_8
+5384_1	has_surface_form	Simhalu
+5384_1	part_of_entity	Adavi Simhalu
+5384_8	is_in_sentence	sentence_5384
+5384_8	ROOT	5384_8
+5384_8	has_surface_form	is
+5384_2	is_in_sentence	sentence_5384
+5384_2	punct	5384_3
+5384_2	has_surface_form	(
+5384_3	is_in_sentence	sentence_5384
+5384_3	appos	5384_1
+5384_3	has_surface_form	English
+5384_4	is_in_sentence	sentence_5384
+5384_4	punct	5384_3
+5384_4	has_surface_form	:
+5384_5	is_in_sentence	sentence_5384
+5384_5	compound	5384_6
+5384_5	has_surface_form	Forest
+5384_6	is_in_sentence	sentence_5384
+5384_6	appos	5384_3
+5384_6	has_surface_form	Lions
+5384_7	is_in_sentence	sentence_5384
+5384_7	punct	5384_3
+5384_7	has_surface_form	)
+5384_9	is_in_sentence	sentence_5384
+5384_9	det	5384_13
+5384_9	has_surface_form	a
+5384_13	is_in_sentence	sentence_5384
+5384_13	attr	5384_8
+5384_13	has_surface_form	film
+5384_10	is_in_sentence	sentence_5384
+5384_10	nummod	5384_13
+5384_10	has_surface_form	1983
+5384_11	is_in_sentence	sentence_5384
+5384_11	compound	5384_12
+5384_11	has_surface_form	Telugu
+5384_12	is_in_sentence	sentence_5384
+5384_12	compound	5384_13
+5384_12	has_surface_form	Action
+5384_14	is_in_sentence	sentence_5384
+5384_14	punct	5384_13
+5384_14	has_surface_form	,
+5384_15	is_in_sentence	sentence_5384
+5384_15	acl	5384_13
+5384_15	has_surface_form	produced
+5384_16	is_in_sentence	sentence_5384
+5384_16	agent	5384_15
+5384_16	has_surface_form	by
+5384_17	is_in_sentence	sentence_5384
+5384_17	compound	5384_19
+5384_17	has_surface_form	C.
+5384_19	is_in_sentence	sentence_5384
+5384_19	pobj	5384_16
+5384_19	has_surface_form	Dutt
+5384_18	is_in_sentence	sentence_5384
+5384_18	compound	5384_19
+5384_18	has_surface_form	Ashwini
+5384_20	is_in_sentence	sentence_5384
+5384_20	prep	5384_15
+5384_20	has_surface_form	under
+5384_21	is_in_sentence	sentence_5384
+5384_21	det	5384_24
+5384_21	has_surface_form	the
+5384_24	is_in_sentence	sentence_5384
+5384_24	pobj	5384_20
+5384_24	has_surface_form	banner
+5384_22	is_in_sentence	sentence_5384
+5384_22	compound	5384_23
+5384_22	has_surface_form	Vyjayanthi
+5384_23	is_in_sentence	sentence_5384
+5384_23	compound	5384_24
+5384_23	has_surface_form	Movies
+5384_25	is_in_sentence	sentence_5384
+5384_25	cc	5384_15
+5384_25	has_surface_form	and
+5384_26	is_in_sentence	sentence_5384
+5384_26	conj	5384_15
+5384_26	has_surface_form	directed
+5384_27	is_in_sentence	sentence_5384
+5384_27	agent	5384_26
+5384_27	has_surface_form	by
+5384_28	is_in_sentence	sentence_5384
+5384_28	compound	5384_30
+5384_28	has_surface_form	K.
+5384_28	part_of_entity	K. Raghavendra Rao
+5384_30	is_in_sentence	sentence_5384
+5384_30	pobj	5384_27
+5384_30	has_surface_form	Rao
+5384_30	part_of_entity	K. Raghavendra Rao
+5384_29	is_in_sentence	sentence_5384
+5384_29	compound	5384_30
+5384_29	has_surface_form	Raghavendra
+5384_29	part_of_entity	K. Raghavendra Rao
+5384_31	is_in_sentence	sentence_5384
+5384_31	punct	5384_8
+5384_31	has_surface_form	.
+5384_32	is_in_sentence	sentence_5384
+5384_32	dep	5384_8
+5384_32	has_surface_form	
+Adavi Simhalu	surface_form	Adavi Simhalu
+Adavi Simhalu	movie-has-director	K. Raghavendra Rao
+K. Raghavendra Rao	surface_form	K. Raghavendra Rao

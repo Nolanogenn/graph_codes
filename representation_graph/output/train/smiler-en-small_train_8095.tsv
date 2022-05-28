@@ -1,0 +1,61 @@
+8094_0	is_in_sentence	sentence_8094
+8094_0	det	8094_2
+8094_0	has_surface_form	A
+8094_2	is_in_sentence	sentence_8094
+8094_2	nsubj	8094_3
+8094_2	has_surface_form	coil
+8094_2	part_of_entity	Tesla coil
+8094_1	is_in_sentence	sentence_8094
+8094_1	compound	8094_2
+8094_1	has_surface_form	Tesla
+8094_1	part_of_entity	Tesla coil
+8094_3	is_in_sentence	sentence_8094
+8094_3	ROOT	8094_3
+8094_3	has_surface_form	is
+8094_4	is_in_sentence	sentence_8094
+8094_4	det	8094_8
+8094_4	has_surface_form	an
+8094_8	is_in_sentence	sentence_8094
+8094_8	attr	8094_3
+8094_8	has_surface_form	circuit
+8094_5	is_in_sentence	sentence_8094
+8094_5	amod	8094_8
+8094_5	has_surface_form	electrical
+8094_6	is_in_sentence	sentence_8094
+8094_6	compound	8094_7
+8094_6	has_surface_form	resonant
+8094_7	is_in_sentence	sentence_8094
+8094_7	compound	8094_8
+8094_7	has_surface_form	transformer
+8094_9	is_in_sentence	sentence_8094
+8094_9	acl	8094_8
+8094_9	has_surface_form	designed
+8094_10	is_in_sentence	sentence_8094
+8094_10	agent	8094_9
+8094_10	has_surface_form	by
+8094_11	is_in_sentence	sentence_8094
+8094_11	compound	8094_13
+8094_11	has_surface_form	inventor
+8094_13	is_in_sentence	sentence_8094
+8094_13	pobj	8094_10
+8094_13	has_surface_form	Tesla
+8094_13	part_of_entity	Nikola Tesla
+8094_12	is_in_sentence	sentence_8094
+8094_12	compound	8094_13
+8094_12	has_surface_form	Nikola
+8094_12	part_of_entity	Nikola Tesla
+8094_14	is_in_sentence	sentence_8094
+8094_14	prep	8094_9
+8094_14	has_surface_form	in
+8094_15	is_in_sentence	sentence_8094
+8094_15	pobj	8094_14
+8094_15	has_surface_form	1891
+8094_16	is_in_sentence	sentence_8094
+8094_16	punct	8094_3
+8094_16	has_surface_form	.
+8094_17	is_in_sentence	sentence_8094
+8094_17	dep	8094_17
+8094_17	has_surface_form	
+Tesla coil	surface_form	Tesla coil
+Tesla coil	invented-by	Nikola Tesla
+Nikola Tesla	surface_form	Nikola Tesla

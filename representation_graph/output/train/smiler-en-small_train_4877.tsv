@@ -1,0 +1,59 @@
+4876_0	is_in_sentence	sentence_4876
+4876_0	compound	4876_1
+4876_0	has_surface_form	Mirko
+4876_0	part_of_entity	Mirko Fait
+4876_1	is_in_sentence	sentence_4876
+4876_1	nsubj	4876_9
+4876_1	has_surface_form	Fait
+4876_1	part_of_entity	Mirko Fait
+4876_9	is_in_sentence	sentence_4876
+4876_9	ROOT	4876_9
+4876_9	has_surface_form	is
+4876_2	is_in_sentence	sentence_4876
+4876_2	punct	4876_1
+4876_2	has_surface_form	(
+4876_3	is_in_sentence	sentence_4876
+4876_3	acl	4876_1
+4876_3	has_surface_form	born
+4876_4	is_in_sentence	sentence_4876
+4876_4	npadvmod	4876_3
+4876_4	has_surface_form	June
+4876_5	is_in_sentence	sentence_4876
+4876_5	nummod	4876_4
+4876_5	has_surface_form	3
+4876_6	is_in_sentence	sentence_4876
+4876_6	punct	4876_4
+4876_6	has_surface_form	,
+4876_7	is_in_sentence	sentence_4876
+4876_7	nummod	4876_4
+4876_7	has_surface_form	1965
+4876_8	is_in_sentence	sentence_4876
+4876_8	punct	4876_1
+4876_8	has_surface_form	)
+4876_10	is_in_sentence	sentence_4876
+4876_10	det	4876_13
+4876_10	has_surface_form	an
+4876_13	is_in_sentence	sentence_4876
+4876_13	attr	4876_9
+4876_13	has_surface_form	saxophonist
+4876_11	is_in_sentence	sentence_4876
+4876_11	amod	4876_12
+4876_11	has_surface_form	Italian
+4876_12	is_in_sentence	sentence_4876
+4876_12	compound	4876_13
+4876_12	is_entity	jazz
+jazz	surface_form	jazz
+4876_14	is_in_sentence	sentence_4876
+4876_14	cc	4876_13
+4876_14	has_surface_form	and
+4876_15	is_in_sentence	sentence_4876
+4876_15	conj	4876_13
+4876_15	has_surface_form	composer
+4876_16	is_in_sentence	sentence_4876
+4876_16	punct	4876_9
+4876_16	has_surface_form	.
+4876_17	is_in_sentence	sentence_4876
+4876_17	dep	4876_9
+4876_17	has_surface_form	
+Mirko Fait	surface_form	Mirko Fait
+Mirko Fait	has-genre	jazz

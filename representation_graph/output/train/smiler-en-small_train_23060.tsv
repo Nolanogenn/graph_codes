@@ -1,0 +1,61 @@
+23059_0	is_in_sentence	sentence_23059
+23059_0	det	23059_4
+23059_0	has_surface_form	The
+23059_4	is_in_sentence	sentence_23059
+23059_4	nsubj	23059_5
+23059_4	has_surface_form	Series
+23059_4	part_of_entity	Dell Inspiron Mini Series
+23059_1	is_in_sentence	sentence_23059
+23059_1	compound	23059_4
+23059_1	has_surface_form	Dell
+23059_1	part_of_entity	Dell Inspiron Mini Series
+23059_2	is_in_sentence	sentence_23059
+23059_2	compound	23059_4
+23059_2	has_surface_form	Inspiron
+23059_2	part_of_entity	Dell Inspiron Mini Series
+23059_3	is_in_sentence	sentence_23059
+23059_3	compound	23059_4
+23059_3	has_surface_form	Mini
+23059_3	part_of_entity	Dell Inspiron Mini Series
+23059_5	is_in_sentence	sentence_23059
+23059_5	ROOT	23059_5
+23059_5	has_surface_form	is
+23059_6	is_in_sentence	sentence_23059
+23059_6	det	23059_7
+23059_6	has_surface_form	a
+23059_7	is_in_sentence	sentence_23059
+23059_7	attr	23059_5
+23059_7	has_surface_form	line
+23059_8	is_in_sentence	sentence_23059
+23059_8	prep	23059_7
+23059_8	has_surface_form	of
+23059_9	is_in_sentence	sentence_23059
+23059_9	nmod	23059_11
+23059_9	is_entity	subnotebook
+23059_11	is_in_sentence	sentence_23059
+23059_11	compound	23059_12
+23059_11	has_surface_form	netbook
+subnotebook	surface_form	subnotebook
+23059_10	is_in_sentence	sentence_23059
+23059_10	punct	23059_11
+23059_10	has_surface_form	/
+23059_12	is_in_sentence	sentence_23059
+23059_12	pobj	23059_8
+23059_12	has_surface_form	computers
+23059_13	is_in_sentence	sentence_23059
+23059_13	acl	23059_12
+23059_13	has_surface_form	designed
+23059_14	is_in_sentence	sentence_23059
+23059_14	agent	23059_13
+23059_14	has_surface_form	by
+23059_15	is_in_sentence	sentence_23059
+23059_15	pobj	23059_14
+23059_15	has_surface_form	Dell
+23059_16	is_in_sentence	sentence_23059
+23059_16	punct	23059_5
+23059_16	has_surface_form	.
+23059_17	is_in_sentence	sentence_23059
+23059_17	dep	23059_17
+23059_17	has_surface_form	
+Dell Inspiron Mini Series	surface_form	Dell Inspiron Mini Series
+Dell Inspiron Mini Series	has-type	subnotebook

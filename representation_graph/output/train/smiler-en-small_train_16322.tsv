@@ -1,0 +1,67 @@
+16321_0	is_in_sentence	sentence_16321
+16321_0	compound	16321_1
+16321_0	has_surface_form	Red
+16321_1	is_in_sentence	sentence_16321
+16321_1	nsubjpass	16321_6
+16321_1	has_surface_form	Devils
+16321_6	is_in_sentence	sentence_16321
+16321_6	ROOT	16321_6
+16321_6	has_surface_form	released
+16321_2	is_in_sentence	sentence_16321
+16321_2	cc	16321_1
+16321_2	has_surface_form	&
+16321_3	is_in_sentence	sentence_16321
+16321_3	compound	16321_4
+16321_3	has_surface_form	Purple
+16321_4	is_in_sentence	sentence_16321
+16321_4	conj	16321_1
+16321_4	has_surface_form	Ringers
+16321_5	is_in_sentence	sentence_16321
+16321_5	auxpass	16321_6
+16321_5	has_surface_form	was
+16321_7	is_in_sentence	sentence_16321
+16321_7	aux	16321_8
+16321_7	has_surface_form	to
+16321_8	is_in_sentence	sentence_16321
+16321_8	advcl	16321_6
+16321_8	has_surface_form	raise
+16321_9	is_in_sentence	sentence_16321
+16321_9	dobj	16321_8
+16321_9	has_surface_form	money
+16321_10	is_in_sentence	sentence_16321
+16321_10	prep	16321_8
+16321_10	has_surface_form	for
+16321_11	is_in_sentence	sentence_16321
+16321_11	compound	16321_12
+16321_11	has_surface_form	Audie
+16321_11	part_of_entity	Audie Layne
+16321_12	is_in_sentence	sentence_16321
+16321_12	pobj	16321_10
+16321_12	has_surface_form	Layne
+16321_12	part_of_entity	Audie Layne
+16321_13	is_in_sentence	sentence_16321
+16321_13	punct	16321_12
+16321_13	has_surface_form	,
+16321_14	is_in_sentence	sentence_16321
+16321_14	compound	16321_15
+16321_14	has_surface_form	Audie
+16321_14	part_of_entity	Audie Pitre
+16321_15	is_in_sentence	sentence_16321
+16321_15	poss	16321_17
+16321_15	has_surface_form	Pitre
+16321_15	part_of_entity	Audie Pitre
+16321_17	is_in_sentence	sentence_16321
+16321_17	appos	16321_12
+16321_17	has_surface_form	son
+16321_16	is_in_sentence	sentence_16321
+16321_16	case	16321_15
+16321_16	has_surface_form	's
+16321_18	is_in_sentence	sentence_16321
+16321_18	punct	16321_6
+16321_18	has_surface_form	.
+16321_19	is_in_sentence	sentence_16321
+16321_19	dep	16321_19
+16321_19	has_surface_form	
+Audie Layne	surface_form	Audie Layne
+Audie Layne	has-parent	Audie Pitre
+Audie Pitre	surface_form	Audie Pitre

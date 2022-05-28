@@ -1,0 +1,94 @@
+30243_0	is_in_sentence	sentence_30243
+30243_0	det	30243_1
+30243_0	has_surface_form	The
+30243_0	part_of_entity	The Gamblers
+30243_1	is_in_sentence	sentence_30243
+30243_1	nsubj	30243_9
+30243_1	has_surface_form	Gamblers
+30243_1	part_of_entity	The Gamblers
+30243_9	is_in_sentence	sentence_30243
+30243_9	ROOT	30243_9
+30243_9	has_surface_form	is
+30243_2	is_in_sentence	sentence_30243
+30243_2	punct	30243_1
+30243_2	has_surface_form	(
+30243_3	is_in_sentence	sentence_30243
+30243_3	appos	30243_1
+30243_3	has_surface_form	French
+30243_4	is_in_sentence	sentence_30243
+30243_4	punct	30243_3
+30243_4	has_surface_form	:
+30243_5	is_in_sentence	sentence_30243
+30243_5	compound	30243_6
+30243_5	has_surface_form	Les
+30243_6	is_in_sentence	sentence_30243
+30243_6	appos	30243_3
+30243_6	has_surface_form	joueurs
+30243_7	is_in_sentence	sentence_30243
+30243_7	punct	30243_3
+30243_7	has_surface_form	)
+30243_8	is_in_sentence	sentence_30243
+30243_8	punct	30243_1
+30243_8	has_surface_form	,
+30243_10	is_in_sentence	sentence_30243
+30243_10	det	30243_13
+30243_10	has_surface_form	a
+30243_13	is_in_sentence	sentence_30243
+30243_13	attr	30243_9
+30243_13	has_surface_form	film
+30243_11	is_in_sentence	sentence_30243
+30243_11	amod	30243_13
+30243_11	has_surface_form	French
+30243_12	is_in_sentence	sentence_30243
+30243_12	compound	30243_13
+30243_12	has_surface_form	comedy
+30243_14	is_in_sentence	sentence_30243
+30243_14	prep	30243_9
+30243_14	has_surface_form	from
+30243_15	is_in_sentence	sentence_30243
+30243_15	pobj	30243_14
+30243_15	has_surface_form	1950
+30243_16	is_in_sentence	sentence_30243
+30243_16	punct	30243_9
+30243_16	has_surface_form	,
+30243_17	is_in_sentence	sentence_30243
+30243_17	advcl	30243_9
+30243_17	has_surface_form	directed
+30243_18	is_in_sentence	sentence_30243
+30243_18	agent	30243_17
+30243_18	has_surface_form	by
+30243_19	is_in_sentence	sentence_30243
+30243_19	compound	30243_20
+30243_19	has_surface_form	Claude
+30243_19	part_of_entity	Claude Barma
+30243_20	is_in_sentence	sentence_30243
+30243_20	pobj	30243_18
+30243_20	has_surface_form	Barma
+30243_20	part_of_entity	Claude Barma
+30243_21	is_in_sentence	sentence_30243
+30243_21	punct	30243_17
+30243_21	has_surface_form	,
+30243_22	is_in_sentence	sentence_30243
+30243_22	cc	30243_17
+30243_22	has_surface_form	and
+30243_23	is_in_sentence	sentence_30243
+30243_23	conj	30243_17
+30243_23	has_surface_form	starring
+30243_24	is_in_sentence	sentence_30243
+30243_24	compound	30243_26
+30243_24	has_surface_form	Louis
+30243_26	is_in_sentence	sentence_30243
+30243_26	dobj	30243_23
+30243_26	has_surface_form	Funès
+30243_25	is_in_sentence	sentence_30243
+30243_25	nmod	30243_26
+30243_25	has_surface_form	de
+30243_27	is_in_sentence	sentence_30243
+30243_27	punct	30243_9
+30243_27	has_surface_form	.
+30243_28	is_in_sentence	sentence_30243
+30243_28	dep	30243_28
+30243_28	has_surface_form	
+The Gamblers	surface_form	The Gamblers
+The Gamblers	movie-has-director	Claude Barma
+Claude Barma	surface_form	Claude Barma

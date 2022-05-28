@@ -1,0 +1,56 @@
+17584_0	is_in_sentence	sentence_17584
+17584_0	nsubjpass	17584_2
+17584_0	has_surface_form	She
+17584_2	is_in_sentence	sentence_17584
+17584_2	ROOT	17584_2
+17584_2	has_surface_form	born
+17584_1	is_in_sentence	sentence_17584
+17584_1	auxpass	17584_2
+17584_1	has_surface_form	was
+17584_3	is_in_sentence	sentence_17584
+17584_3	compound	17584_4
+17584_3	has_surface_form	Beatrice
+17584_3	part_of_entity	Beatrice Booze
+17584_4	is_in_sentence	sentence_17584
+17584_4	dobj	17584_2
+17584_4	has_surface_form	Booze
+17584_4	part_of_entity	Beatrice Booze
+17584_5	is_in_sentence	sentence_17584
+17584_5	prep	17584_4
+17584_5	has_surface_form	in
+17584_6	is_in_sentence	sentence_17584
+17584_6	pobj	17584_5
+17584_6	has_surface_form	Baltimore
+17584_7	is_in_sentence	sentence_17584
+17584_7	punct	17584_4
+17584_7	has_surface_form	,
+17584_8	is_in_sentence	sentence_17584
+17584_8	det	17584_9
+17584_8	has_surface_form	the
+17584_9	is_in_sentence	sentence_17584
+17584_9	appos	17584_4
+17584_9	has_surface_form	daughter
+17584_10	is_in_sentence	sentence_17584
+17584_10	prep	17584_9
+17584_10	has_surface_form	of
+17584_11	is_in_sentence	sentence_17584
+17584_11	pobj	17584_10
+17584_11	is_entity	Phillip
+Phillip	surface_form	Phillip
+17584_12	is_in_sentence	sentence_17584
+17584_12	cc	17584_11
+17584_12	has_surface_form	and
+17584_13	is_in_sentence	sentence_17584
+17584_13	compound	17584_14
+17584_13	has_surface_form	Lydia
+17584_14	is_in_sentence	sentence_17584
+17584_14	conj	17584_11
+17584_14	has_surface_form	Booze
+17584_15	is_in_sentence	sentence_17584
+17584_15	punct	17584_2
+17584_15	has_surface_form	.
+17584_16	is_in_sentence	sentence_17584
+17584_16	dep	17584_16
+17584_16	has_surface_form	
+Beatrice Booze	surface_form	Beatrice Booze
+Beatrice Booze	has-parent	Phillip

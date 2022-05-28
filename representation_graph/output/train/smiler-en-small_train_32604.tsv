@@ -1,0 +1,47 @@
+32603_0	is_in_sentence	sentence_32603
+32603_0	compound	32603_1
+32603_0	has_surface_form	Avior
+32603_0	part_of_entity	Avior Airlines
+32603_1	is_in_sentence	sentence_32603
+32603_1	nsubj	32603_2
+32603_1	has_surface_form	Airlines
+32603_1	part_of_entity	Avior Airlines
+32603_2	is_in_sentence	sentence_32603
+32603_2	ROOT	32603_2
+32603_2	has_surface_form	is
+32603_3	is_in_sentence	sentence_32603
+32603_3	det	32603_4
+32603_3	has_surface_form	an
+32603_4	is_in_sentence	sentence_32603
+32603_4	attr	32603_2
+32603_4	has_surface_form	airline
+32603_5	is_in_sentence	sentence_32603
+32603_5	acl	32603_4
+32603_5	has_surface_form	based
+32603_6	is_in_sentence	sentence_32603
+32603_6	prep	32603_5
+32603_6	has_surface_form	in
+32603_7	is_in_sentence	sentence_32603
+32603_7	pobj	32603_6
+32603_7	has_surface_form	Barcelona
+32603_8	is_in_sentence	sentence_32603
+32603_8	punct	32603_7
+32603_8	has_surface_form	,
+32603_9	is_in_sentence	sentence_32603
+32603_9	conj	32603_7
+32603_9	has_surface_form	Anzoátegui
+32603_10	is_in_sentence	sentence_32603
+32603_10	punct	32603_9
+32603_10	has_surface_form	,
+32603_11	is_in_sentence	sentence_32603
+32603_11	appos	32603_9
+32603_11	has_surface_form	Venezuela
+32603_12	is_in_sentence	sentence_32603
+32603_12	punct	32603_2
+32603_12	has_surface_form	.
+32603_13	is_in_sentence	sentence_32603
+32603_13	dep	32603_13
+32603_13	has_surface_form	
+Avior Airlines	surface_form	Avior Airlines
+Avior Airlines	headquarters	Barcelona, Anzoátegui
+Barcelona, Anzoátegui	surface_form	Barcelona, Anzoátegui

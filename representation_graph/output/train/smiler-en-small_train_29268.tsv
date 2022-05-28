@@ -1,0 +1,62 @@
+29267_0	is_in_sentence	sentence_29267
+29267_0	compound	29267_1
+29267_0	has_surface_form	David
+29267_0	part_of_entity	David Tavaré
+29267_1	is_in_sentence	sentence_29267
+29267_1	nsubj	29267_9
+29267_1	has_surface_form	Tavaré
+29267_1	part_of_entity	David Tavaré
+29267_9	is_in_sentence	sentence_29267
+29267_9	ROOT	29267_9
+29267_9	has_surface_form	is
+29267_2	is_in_sentence	sentence_29267
+29267_2	punct	29267_1
+29267_2	has_surface_form	(
+29267_3	is_in_sentence	sentence_29267
+29267_3	acl	29267_1
+29267_3	has_surface_form	born
+29267_4	is_in_sentence	sentence_29267
+29267_4	npadvmod	29267_3
+29267_4	has_surface_form	December
+29267_5	is_in_sentence	sentence_29267
+29267_5	nummod	29267_4
+29267_5	has_surface_form	20
+29267_6	is_in_sentence	sentence_29267
+29267_6	punct	29267_4
+29267_6	has_surface_form	,
+29267_7	is_in_sentence	sentence_29267
+29267_7	nummod	29267_4
+29267_7	has_surface_form	1984
+29267_8	is_in_sentence	sentence_29267
+29267_8	punct	29267_3
+29267_8	has_surface_form	)
+29267_10	is_in_sentence	sentence_29267
+29267_10	det	29267_12
+29267_10	has_surface_form	a
+29267_12	is_in_sentence	sentence_29267
+29267_12	attr	29267_9
+29267_12	is_entity	singer
+29267_11	is_in_sentence	sentence_29267
+29267_11	amod	29267_12
+29267_11	has_surface_form	Spanish
+singer	surface_form	singer
+29267_13	is_in_sentence	sentence_29267
+29267_13	cc	29267_12
+29267_13	has_surface_form	and
+29267_14	is_in_sentence	sentence_29267
+29267_14	compound	29267_16
+29267_14	has_surface_form	House
+29267_16	is_in_sentence	sentence_29267
+29267_16	conj	29267_12
+29267_16	has_surface_form	DJ
+29267_15	is_in_sentence	sentence_29267
+29267_15	compound	29267_16
+29267_15	has_surface_form	Music
+29267_17	is_in_sentence	sentence_29267
+29267_17	punct	29267_9
+29267_17	has_surface_form	.
+29267_18	is_in_sentence	sentence_29267
+29267_18	dep	29267_9
+29267_18	has_surface_form	
+David Tavaré	surface_form	David Tavaré
+David Tavaré	has-occupation	singer

@@ -1,0 +1,67 @@
+22152_0	is_in_sentence	sentence_22152
+22152_0	compound	22152_1
+22152_0	has_surface_form	Carter
+22152_0	part_of_entity	Carter Smith
+22152_1	is_in_sentence	sentence_22152
+22152_1	nsubj	22152_10
+22152_1	has_surface_form	Smith
+22152_1	part_of_entity	Carter Smith
+22152_10	is_in_sentence	sentence_22152
+22152_10	ROOT	22152_10
+22152_10	has_surface_form	is
+22152_2	is_in_sentence	sentence_22152
+22152_2	punct	22152_1
+22152_2	has_surface_form	,
+22152_3	is_in_sentence	sentence_22152
+22152_3	punct	22152_1
+22152_3	has_surface_form	(
+22152_4	is_in_sentence	sentence_22152
+22152_4	acl	22152_1
+22152_4	has_surface_form	born
+22152_5	is_in_sentence	sentence_22152
+22152_5	npadvmod	22152_4
+22152_5	has_surface_form	September
+22152_6	is_in_sentence	sentence_22152
+22152_6	nummod	22152_5
+22152_6	has_surface_form	6
+22152_7	is_in_sentence	sentence_22152
+22152_7	punct	22152_5
+22152_7	has_surface_form	,
+22152_8	is_in_sentence	sentence_22152
+22152_8	nummod	22152_5
+22152_8	has_surface_form	1971
+22152_9	is_in_sentence	sentence_22152
+22152_9	punct	22152_1
+22152_9	has_surface_form	)
+22152_11	is_in_sentence	sentence_22152
+22152_11	det	22152_14
+22152_11	has_surface_form	an
+22152_14	is_in_sentence	sentence_22152
+22152_14	attr	22152_10
+22152_14	has_surface_form	director
+22152_14	part_of_entity	film director
+22152_12	is_in_sentence	sentence_22152
+22152_12	amod	22152_14
+22152_12	has_surface_form	American
+22152_13	is_in_sentence	sentence_22152
+22152_13	compound	22152_14
+22152_13	has_surface_form	film
+22152_13	part_of_entity	film director
+22152_15	is_in_sentence	sentence_22152
+22152_15	cc	22152_14
+22152_15	has_surface_form	and
+22152_16	is_in_sentence	sentence_22152
+22152_16	compound	22152_17
+22152_16	has_surface_form	fashion
+22152_17	is_in_sentence	sentence_22152
+22152_17	conj	22152_14
+22152_17	has_surface_form	photographer
+22152_18	is_in_sentence	sentence_22152
+22152_18	punct	22152_10
+22152_18	has_surface_form	.
+22152_19	is_in_sentence	sentence_22152
+22152_19	dep	22152_19
+22152_19	has_surface_form	
+Carter Smith	surface_form	Carter Smith
+Carter Smith	has-occupation	film director
+film director	surface_form	film director

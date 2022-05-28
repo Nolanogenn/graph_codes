@@ -1,0 +1,82 @@
+24908_0	is_in_sentence	sentence_24908
+24908_0	csubj	24908_4
+24908_0	has_surface_form	Be
+24908_0	part_of_entity	Be Our Guest Restaurant
+24908_4	is_in_sentence	sentence_24908
+24908_4	ROOT	24908_4
+24908_4	has_surface_form	is
+24908_1	is_in_sentence	sentence_24908
+24908_1	poss	24908_3
+24908_1	has_surface_form	Our
+24908_1	part_of_entity	Be Our Guest Restaurant
+24908_3	is_in_sentence	sentence_24908
+24908_3	attr	24908_0
+24908_3	has_surface_form	Restaurant
+24908_3	part_of_entity	Be Our Guest Restaurant
+24908_2	is_in_sentence	sentence_24908
+24908_2	compound	24908_3
+24908_2	has_surface_form	Guest
+24908_2	part_of_entity	Be Our Guest Restaurant
+24908_5	is_in_sentence	sentence_24908
+24908_5	det	24908_11
+24908_5	has_surface_form	a
+24908_11	is_in_sentence	sentence_24908
+24908_11	attr	24908_4
+24908_11	is_entity	restaurant
+24908_6	is_in_sentence	sentence_24908
+24908_6	amod	24908_11
+24908_6	has_surface_form	quick
+24908_7	is_in_sentence	sentence_24908
+24908_7	nmod	24908_11
+24908_7	has_surface_form	service
+24908_8	is_in_sentence	sentence_24908
+24908_8	cc	24908_7
+24908_8	has_surface_form	and
+24908_9	is_in_sentence	sentence_24908
+24908_9	conj	24908_7
+24908_9	has_surface_form	table
+24908_10	is_in_sentence	sentence_24908
+24908_10	compound	24908_11
+24908_10	has_surface_form	service
+restaurant	surface_form	restaurant
+24908_12	is_in_sentence	sentence_24908
+24908_12	prep	24908_11
+24908_12	has_surface_form	in
+24908_13	is_in_sentence	sentence_24908
+24908_13	pobj	24908_12
+24908_13	has_surface_form	Fantasyland
+24908_14	is_in_sentence	sentence_24908
+24908_14	prep	24908_11
+24908_14	has_surface_form	at
+24908_15	is_in_sentence	sentence_24908
+24908_15	compound	24908_16
+24908_15	has_surface_form	Magic
+24908_16	is_in_sentence	sentence_24908
+24908_16	pobj	24908_14
+24908_16	has_surface_form	Kingdom
+24908_17	is_in_sentence	sentence_24908
+24908_17	prep	24908_16
+24908_17	has_surface_form	in
+24908_18	is_in_sentence	sentence_24908
+24908_18	det	24908_22
+24908_18	has_surface_form	the
+24908_22	is_in_sentence	sentence_24908
+24908_22	pobj	24908_17
+24908_22	has_surface_form	Resort
+24908_19	is_in_sentence	sentence_24908
+24908_19	compound	24908_20
+24908_19	has_surface_form	Walt
+24908_20	is_in_sentence	sentence_24908
+24908_20	compound	24908_22
+24908_20	has_surface_form	Disney
+24908_21	is_in_sentence	sentence_24908
+24908_21	compound	24908_22
+24908_21	has_surface_form	World
+24908_23	is_in_sentence	sentence_24908
+24908_23	punct	24908_4
+24908_23	has_surface_form	.
+24908_24	is_in_sentence	sentence_24908
+24908_24	dep	24908_24
+24908_24	has_surface_form	
+Be Our Guest Restaurant	surface_form	Be Our Guest Restaurant
+Be Our Guest Restaurant	has-type	restaurant

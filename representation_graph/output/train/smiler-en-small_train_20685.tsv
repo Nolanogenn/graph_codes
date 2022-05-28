@@ -1,0 +1,62 @@
+20684_0	is_in_sentence	sentence_20684
+20684_0	compound	20684_2
+20684_0	has_surface_form	William
+20684_2	is_in_sentence	sentence_20684
+20684_2	nsubj	20684_10
+20684_2	has_surface_form	Pitt
+20684_2	part_of_entity	Bradley Pitt
+20684_1	is_in_sentence	sentence_20684
+20684_1	compound	20684_2
+20684_1	has_surface_form	Bradley
+20684_1	part_of_entity	Bradley Pitt
+20684_10	is_in_sentence	sentence_20684
+20684_10	ROOT	20684_10
+20684_10	has_surface_form	is
+20684_3	is_in_sentence	sentence_20684
+20684_3	punct	20684_2
+20684_3	has_surface_form	(
+20684_4	is_in_sentence	sentence_20684
+20684_4	acl	20684_2
+20684_4	has_surface_form	born
+20684_5	is_in_sentence	sentence_20684
+20684_5	npadvmod	20684_4
+20684_5	has_surface_form	December
+20684_6	is_in_sentence	sentence_20684
+20684_6	nummod	20684_5
+20684_6	has_surface_form	18
+20684_7	is_in_sentence	sentence_20684
+20684_7	punct	20684_5
+20684_7	has_surface_form	,
+20684_8	is_in_sentence	sentence_20684
+20684_8	nummod	20684_5
+20684_8	has_surface_form	1963
+20684_9	is_in_sentence	sentence_20684
+20684_9	punct	20684_2
+20684_9	has_surface_form	)
+20684_11	is_in_sentence	sentence_20684
+20684_11	det	20684_16
+20684_11	has_surface_form	an
+20684_16	is_in_sentence	sentence_20684
+20684_16	attr	20684_10
+20684_16	has_surface_form	producer
+20684_12	is_in_sentence	sentence_20684
+20684_12	amod	20684_13
+20684_12	is_entity	American
+20684_13	is_in_sentence	sentence_20684
+20684_13	nmod	20684_16
+20684_13	has_surface_form	actor
+American	surface_form	American
+20684_14	is_in_sentence	sentence_20684
+20684_14	cc	20684_13
+20684_14	has_surface_form	and
+20684_15	is_in_sentence	sentence_20684
+20684_15	compound	20684_16
+20684_15	has_surface_form	film
+20684_17	is_in_sentence	sentence_20684
+20684_17	punct	20684_10
+20684_17	has_surface_form	.
+20684_18	is_in_sentence	sentence_20684
+20684_18	dep	20684_18
+20684_18	has_surface_form	
+Bradley Pitt	surface_form	Bradley Pitt
+Bradley Pitt	has-nationality	American

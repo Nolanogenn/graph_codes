@@ -1,0 +1,53 @@
+16915_0	is_in_sentence	sentence_16915
+16915_0	compound	16915_1
+16915_0	has_surface_form	Cisco
+16915_0	part_of_entity	Cisco Pike
+16915_1	is_in_sentence	sentence_16915
+16915_1	nsubj	16915_2
+16915_1	has_surface_form	Pike
+16915_1	part_of_entity	Cisco Pike
+16915_2	is_in_sentence	sentence_16915
+16915_2	ROOT	16915_2
+16915_2	has_surface_form	is
+16915_3	is_in_sentence	sentence_16915
+16915_3	det	16915_5
+16915_3	has_surface_form	a
+16915_5	is_in_sentence	sentence_16915
+16915_5	attr	16915_2
+16915_5	has_surface_form	drama
+16915_4	is_in_sentence	sentence_16915
+16915_4	nummod	16915_5
+16915_4	has_surface_form	1972
+16915_6	is_in_sentence	sentence_16915
+16915_6	acl	16915_5
+16915_6	has_surface_form	written
+16915_7	is_in_sentence	sentence_16915
+16915_7	cc	16915_6
+16915_7	has_surface_form	and
+16915_8	is_in_sentence	sentence_16915
+16915_8	conj	16915_6
+16915_8	has_surface_form	directed
+16915_9	is_in_sentence	sentence_16915
+16915_9	agent	16915_8
+16915_9	has_surface_form	by
+16915_10	is_in_sentence	sentence_16915
+16915_10	compound	16915_12
+16915_10	has_surface_form	Bill
+16915_10	part_of_entity	Bill L. Norton
+16915_12	is_in_sentence	sentence_16915
+16915_12	pobj	16915_9
+16915_12	has_surface_form	Norton
+16915_12	part_of_entity	Bill L. Norton
+16915_11	is_in_sentence	sentence_16915
+16915_11	compound	16915_12
+16915_11	has_surface_form	L.
+16915_11	part_of_entity	Bill L. Norton
+16915_13	is_in_sentence	sentence_16915
+16915_13	punct	16915_2
+16915_13	has_surface_form	.
+16915_14	is_in_sentence	sentence_16915
+16915_14	dep	16915_14
+16915_14	has_surface_form	
+Cisco Pike	surface_form	Cisco Pike
+Cisco Pike	movie-has-director	Bill L. Norton
+Bill L. Norton	surface_form	Bill L. Norton

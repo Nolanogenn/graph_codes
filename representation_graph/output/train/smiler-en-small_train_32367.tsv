@@ -1,0 +1,82 @@
+32366_0	is_in_sentence	sentence_32366
+32366_0	compound	32366_1
+32366_0	has_surface_form	Momoko
+32366_0	part_of_entity	Momoko Shibuya
+32366_1	is_in_sentence	sentence_32366
+32366_1	nsubj	32366_9
+32366_1	has_surface_form	Shibuya
+32366_1	part_of_entity	Momoko Shibuya
+32366_9	is_in_sentence	sentence_32366
+32366_9	ROOT	32366_9
+32366_9	has_surface_form	born
+32366_2	is_in_sentence	sentence_32366
+32366_2	punct	32366_3
+32366_2	has_surface_form	(
+32366_3	is_in_sentence	sentence_32366
+32366_3	appos	32366_1
+32366_3	has_surface_form	渋谷
+32366_4	is_in_sentence	sentence_32366
+32366_4	punct	32366_3
+32366_4	has_surface_form	桃子
+32366_5	is_in_sentence	sentence_32366
+32366_5	punct	32366_3
+32366_5	has_surface_form	,
+32366_6	is_in_sentence	sentence_32366
+32366_6	compound	32366_7
+32366_6	has_surface_form	Shibuya
+32366_7	is_in_sentence	sentence_32366
+32366_7	npadvmod	32366_3
+32366_7	has_surface_form	Momoko
+32366_8	is_in_sentence	sentence_32366
+32366_8	punct	32366_3
+32366_8	has_surface_form	,
+32366_10	is_in_sentence	sentence_32366
+32366_10	nummod	32366_11
+32366_10	has_surface_form	15
+32366_11	is_in_sentence	sentence_32366
+32366_11	npadvmod	32366_9
+32366_11	has_surface_form	March
+32366_12	is_in_sentence	sentence_32366
+32366_12	nummod	32366_11
+32366_12	has_surface_form	1987
+32366_13	is_in_sentence	sentence_32366
+32366_13	prep	32366_9
+32366_13	has_surface_form	in
+32366_14	is_in_sentence	sentence_32366
+32366_14	compound	32366_15
+32366_14	has_surface_form	Kanagawa
+32366_14	part_of_entity	Kanagawa Prefecture
+32366_15	is_in_sentence	sentence_32366
+32366_15	pobj	32366_13
+32366_15	has_surface_form	Prefecture
+32366_15	part_of_entity	Kanagawa Prefecture
+32366_16	is_in_sentence	sentence_32366
+32366_16	punct	32366_15
+32366_16	has_surface_form	,
+32366_17	is_in_sentence	sentence_32366
+32366_17	appos	32366_15
+32366_17	has_surface_form	Japan
+32366_18	is_in_sentence	sentence_32366
+32366_18	punct	32366_15
+32366_18	has_surface_form	)
+32366_19	is_in_sentence	sentence_32366
+32366_19	conj	32366_9
+32366_19	has_surface_form	is
+32366_20	is_in_sentence	sentence_32366
+32366_20	det	32366_22
+32366_20	has_surface_form	a
+32366_22	is_in_sentence	sentence_32366
+32366_22	attr	32366_19
+32366_22	has_surface_form	actress
+32366_21	is_in_sentence	sentence_32366
+32366_21	amod	32366_22
+32366_21	has_surface_form	Japanese
+32366_23	is_in_sentence	sentence_32366
+32366_23	punct	32366_9
+32366_23	has_surface_form	.
+32366_24	is_in_sentence	sentence_32366
+32366_24	dep	32366_24
+32366_24	has_surface_form	
+Momoko Shibuya	surface_form	Momoko Shibuya
+Momoko Shibuya	birth-place	Kanagawa Prefecture
+Kanagawa Prefecture	surface_form	Kanagawa Prefecture

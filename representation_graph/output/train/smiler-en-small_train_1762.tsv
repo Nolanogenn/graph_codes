@@ -1,0 +1,71 @@
+1761_0	is_in_sentence	sentence_1761
+1761_0	det	1761_1
+1761_0	has_surface_form	The
+1761_0	part_of_entity	The Genealogy
+1761_1	is_in_sentence	sentence_1761
+1761_1	nsubj	1761_7
+1761_1	has_surface_form	Genealogy
+1761_1	part_of_entity	The Genealogy
+1761_7	is_in_sentence	sentence_1761
+1761_7	ROOT	1761_7
+1761_7	has_surface_form	is
+1761_2	is_in_sentence	sentence_1761
+1761_2	punct	1761_1
+1761_2	has_surface_form	(
+1761_3	is_in_sentence	sentence_1761
+1761_3	compound	1761_5
+1761_3	has_surface_form	족보
+1761_5	is_in_sentence	sentence_1761
+1761_5	appos	1761_1
+1761_5	has_surface_form	Jokbo
+1761_4	is_in_sentence	sentence_1761
+1761_4	punct	1761_5
+1761_4	has_surface_form	-
+1761_6	is_in_sentence	sentence_1761
+1761_6	punct	1761_1
+1761_6	has_surface_form	)
+1761_8	is_in_sentence	sentence_1761
+1761_8	det	1761_12
+1761_8	has_surface_form	a
+1761_12	is_in_sentence	sentence_1761
+1761_12	attr	1761_7
+1761_12	has_surface_form	film
+1761_9	is_in_sentence	sentence_1761
+1761_9	nummod	1761_12
+1761_9	has_surface_form	1979
+1761_10	is_in_sentence	sentence_1761
+1761_10	amod	1761_11
+1761_10	has_surface_form	South
+1761_11	is_in_sentence	sentence_1761
+1761_11	amod	1761_12
+1761_11	has_surface_form	Korean
+1761_13	is_in_sentence	sentence_1761
+1761_13	acl	1761_12
+1761_13	has_surface_form	directed
+1761_14	is_in_sentence	sentence_1761
+1761_14	agent	1761_13
+1761_14	has_surface_form	by
+1761_15	is_in_sentence	sentence_1761
+1761_15	pobj	1761_14
+1761_15	has_surface_form	I
+1761_16	is_in_sentence	sentence_1761
+1761_16	appos	1761_15
+1761_16	has_surface_form	m
+1761_17	is_in_sentence	sentence_1761
+1761_17	compound	1761_19
+1761_17	has_surface_form	Kwon
+1761_19	is_in_sentence	sentence_1761
+1761_19	appos	1761_15
+1761_19	has_surface_form	taek
+1761_18	is_in_sentence	sentence_1761
+1761_18	punct	1761_19
+1761_18	has_surface_form	-
+1761_20	is_in_sentence	sentence_1761
+1761_20	punct	1761_7
+1761_20	has_surface_form	.
+1761_21	is_in_sentence	sentence_1761
+1761_21	dep	1761_21
+1761_21	has_surface_form	
+The Genealogy	surface_form	The Genealogy
+The Genealogy	movie-has-director	Im Kwon-taek
+Im Kwon-taek	surface_form	Im Kwon-taek

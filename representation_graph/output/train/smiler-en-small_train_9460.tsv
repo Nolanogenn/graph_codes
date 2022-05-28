@@ -1,0 +1,75 @@
+9459_0	is_in_sentence	sentence_9459
+9459_0	det	9459_2
+9459_0	has_surface_form	The
+9459_0	part_of_entity	The Cowboy Quarterback
+9459_2	is_in_sentence	sentence_9459
+9459_2	nsubj	9459_3
+9459_2	has_surface_form	Quarterback
+9459_2	part_of_entity	The Cowboy Quarterback
+9459_1	is_in_sentence	sentence_9459
+9459_1	compound	9459_2
+9459_1	has_surface_form	Cowboy
+9459_1	part_of_entity	The Cowboy Quarterback
+9459_3	is_in_sentence	sentence_9459
+9459_3	ROOT	9459_3
+9459_3	has_surface_form	is
+9459_4	is_in_sentence	sentence_9459
+9459_4	det	9459_8
+9459_4	has_surface_form	a
+9459_8	is_in_sentence	sentence_9459
+9459_8	attr	9459_3
+9459_8	has_surface_form	film
+9459_5	is_in_sentence	sentence_9459
+9459_5	nummod	9459_8
+9459_5	has_surface_form	1939
+9459_6	is_in_sentence	sentence_9459
+9459_6	amod	9459_8
+9459_6	has_surface_form	American
+9459_7	is_in_sentence	sentence_9459
+9459_7	compound	9459_8
+9459_7	has_surface_form	comedy
+9459_9	is_in_sentence	sentence_9459
+9459_9	acl	9459_8
+9459_9	has_surface_form	directed
+9459_10	is_in_sentence	sentence_9459
+9459_10	agent	9459_9
+9459_10	has_surface_form	by
+9459_11	is_in_sentence	sentence_9459
+9459_11	compound	9459_13
+9459_11	has_surface_form	Noel
+9459_11	part_of_entity	Noel M. Smith
+9459_13	is_in_sentence	sentence_9459
+9459_13	pobj	9459_10
+9459_13	has_surface_form	Smith
+9459_13	part_of_entity	Noel M. Smith
+9459_12	is_in_sentence	sentence_9459
+9459_12	compound	9459_13
+9459_12	has_surface_form	M.
+9459_12	part_of_entity	Noel M. Smith
+9459_14	is_in_sentence	sentence_9459
+9459_14	cc	9459_9
+9459_14	has_surface_form	and
+9459_15	is_in_sentence	sentence_9459
+9459_15	conj	9459_9
+9459_15	has_surface_form	written
+9459_16	is_in_sentence	sentence_9459
+9459_16	agent	9459_15
+9459_16	has_surface_form	by
+9459_17	is_in_sentence	sentence_9459
+9459_17	compound	9459_18
+9459_17	has_surface_form	Fred
+9459_18	is_in_sentence	sentence_9459
+9459_18	pobj	9459_16
+9459_18	has_surface_form	Niblo
+9459_19	is_in_sentence	sentence_9459
+9459_19	punct	9459_18
+9459_19	has_surface_form	,
+9459_20	is_in_sentence	sentence_9459
+9459_20	appos	9459_18
+9459_20	has_surface_form	Jr.
+9459_21	is_in_sentence	sentence_9459
+9459_21	dep	9459_18
+9459_21	has_surface_form	
+The Cowboy Quarterback	surface_form	The Cowboy Quarterback
+The Cowboy Quarterback	movie-has-director	Noel M. Smith
+Noel M. Smith	surface_form	Noel M. Smith

@@ -1,0 +1,76 @@
+5443_0	is_in_sentence	sentence_5443
+5443_0	compound	5443_1
+5443_0	has_surface_form	Adam
+5443_0	part_of_entity	Adam Braz
+5443_1	is_in_sentence	sentence_5443
+5443_1	nsubj	5443_9
+5443_1	has_surface_form	Braz
+5443_1	part_of_entity	Adam Braz
+5443_9	is_in_sentence	sentence_5443
+5443_9	ROOT	5443_9
+5443_9	has_surface_form	is
+5443_2	is_in_sentence	sentence_5443
+5443_2	punct	5443_1
+5443_2	has_surface_form	(
+5443_3	is_in_sentence	sentence_5443
+5443_3	acl	5443_1
+5443_3	has_surface_form	born
+5443_4	is_in_sentence	sentence_5443
+5443_4	npadvmod	5443_3
+5443_4	has_surface_form	June
+5443_5	is_in_sentence	sentence_5443
+5443_5	nummod	5443_4
+5443_5	has_surface_form	7
+5443_6	is_in_sentence	sentence_5443
+5443_6	punct	5443_4
+5443_6	has_surface_form	,
+5443_7	is_in_sentence	sentence_5443
+5443_7	nummod	5443_4
+5443_7	has_surface_form	1981
+5443_8	is_in_sentence	sentence_5443
+5443_8	punct	5443_1
+5443_8	has_surface_form	)
+5443_10	is_in_sentence	sentence_5443
+5443_10	det	5443_12
+5443_10	has_surface_form	the
+5443_12	is_in_sentence	sentence_5443
+5443_12	attr	5443_9
+5443_12	has_surface_form	Director
+5443_11	is_in_sentence	sentence_5443
+5443_11	compound	5443_12
+5443_11	has_surface_form	Technical
+5443_13	is_in_sentence	sentence_5443
+5443_13	prep	5443_12
+5443_13	has_surface_form	of
+5443_14	is_in_sentence	sentence_5443
+5443_14	det	5443_16
+5443_14	has_surface_form	the
+5443_16	is_in_sentence	sentence_5443
+5443_16	pobj	5443_13
+5443_16	has_surface_form	Impact
+5443_16	part_of_entity	Montreal Impact
+5443_15	is_in_sentence	sentence_5443
+5443_15	compound	5443_16
+5443_15	has_surface_form	Montreal
+5443_15	part_of_entity	Montreal Impact
+5443_17	is_in_sentence	sentence_5443
+5443_17	prep	5443_16
+5443_17	has_surface_form	of
+5443_18	is_in_sentence	sentence_5443
+5443_18	compound	5443_19
+5443_18	has_surface_form	Major
+5443_19	is_in_sentence	sentence_5443
+5443_19	compound	5443_20
+5443_19	has_surface_form	League
+5443_20	is_in_sentence	sentence_5443
+5443_20	pobj	5443_17
+5443_20	has_surface_form	Soccer
+5443_21	is_in_sentence	sentence_5443
+5443_21	punct	5443_9
+5443_21	has_surface_form	.
+5443_22	is_in_sentence	sentence_5443
+5443_22	dep	5443_9
+5443_22	has_surface_form	
+Adam Braz	surface_form	Adam Braz
+Adam Braz	is-member-of	Montreal Impact
+Montreal Impact	surface_form	Montreal Impact

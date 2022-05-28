@@ -1,0 +1,70 @@
+15906_0	is_in_sentence	sentence_15906
+15906_0	compound	15906_3
+15906_0	has_surface_form	Sanoyas
+15906_0	part_of_entity	Sanoyas Hishino Meisho Corporation
+15906_3	is_in_sentence	sentence_15906
+15906_3	nsubj	15906_4
+15906_3	has_surface_form	Corporation
+15906_3	part_of_entity	Sanoyas Hishino Meisho Corporation
+15906_1	is_in_sentence	sentence_15906
+15906_1	compound	15906_3
+15906_1	has_surface_form	Hishino
+15906_1	part_of_entity	Sanoyas Hishino Meisho Corporation
+15906_2	is_in_sentence	sentence_15906
+15906_2	compound	15906_3
+15906_2	has_surface_form	Meisho
+15906_2	part_of_entity	Sanoyas Hishino Meisho Corporation
+15906_4	is_in_sentence	sentence_15906
+15906_4	ROOT	15906_4
+15906_4	has_surface_form	is
+15906_5	is_in_sentence	sentence_15906
+15906_5	det	15906_7
+15906_5	has_surface_form	a
+15906_7	is_in_sentence	sentence_15906
+15906_7	attr	15906_4
+15906_7	is_entity	company
+15906_6	is_in_sentence	sentence_15906
+15906_6	amod	15906_7
+15906_6	has_surface_form	Japanese
+company	surface_form	company
+15906_8	is_in_sentence	sentence_15906
+15906_8	nsubj	15906_9
+15906_8	has_surface_form	that
+15906_9	is_in_sentence	sentence_15906
+15906_9	relcl	15906_7
+15906_9	has_surface_form	consists
+15906_10	is_in_sentence	sentence_15906
+15906_10	prep	15906_9
+15906_10	has_surface_form	of
+15906_11	is_in_sentence	sentence_15906
+15906_11	nummod	15906_14
+15906_11	has_surface_form	four
+15906_14	is_in_sentence	sentence_15906
+15906_14	pobj	15906_10
+15906_14	has_surface_form	groups
+15906_12	is_in_sentence	sentence_15906
+15906_12	amod	15906_14
+15906_12	has_surface_form	principal
+15906_13	is_in_sentence	sentence_15906
+15906_13	compound	15906_14
+15906_13	has_surface_form	business
+15906_15	is_in_sentence	sentence_15906
+15906_15	cc	15906_14
+15906_15	has_surface_form	and
+15906_16	is_in_sentence	sentence_15906
+15906_16	nummod	15906_18
+15906_16	has_surface_form	twelve
+15906_18	is_in_sentence	sentence_15906
+15906_18	conj	15906_14
+15906_18	has_surface_form	companies
+15906_17	is_in_sentence	sentence_15906
+15906_17	amod	15906_18
+15906_17	has_surface_form	affiliated
+15906_19	is_in_sentence	sentence_15906
+15906_19	punct	15906_4
+15906_19	has_surface_form	.
+15906_20	is_in_sentence	sentence_15906
+15906_20	dep	15906_20
+15906_20	has_surface_form	
+Sanoyas Hishino Meisho Corporation	surface_form	Sanoyas Hishino Meisho Corporation
+Sanoyas Hishino Meisho Corporation	has-type	company

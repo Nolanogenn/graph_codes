@@ -1,0 +1,46 @@
+13400_0	is_in_sentence	sentence_13400
+13400_0	compound	13400_1
+13400_0	has_surface_form	American
+13400_0	part_of_entity	American Job
+13400_1	is_in_sentence	sentence_13400
+13400_1	nsubj	13400_2
+13400_1	has_surface_form	Job
+13400_1	part_of_entity	American Job
+13400_2	is_in_sentence	sentence_13400
+13400_2	ROOT	13400_2
+13400_2	has_surface_form	is
+13400_3	is_in_sentence	sentence_13400
+13400_3	det	13400_6
+13400_3	has_surface_form	a
+13400_6	is_in_sentence	sentence_13400
+13400_6	attr	13400_2
+13400_6	has_surface_form	film
+13400_4	is_in_sentence	sentence_13400
+13400_4	nummod	13400_6
+13400_4	has_surface_form	1996
+13400_5	is_in_sentence	sentence_13400
+13400_5	amod	13400_6
+13400_5	has_surface_form	independent
+13400_7	is_in_sentence	sentence_13400
+13400_7	acl	13400_6
+13400_7	has_surface_form	directed
+13400_8	is_in_sentence	sentence_13400
+13400_8	agent	13400_7
+13400_8	has_surface_form	by
+13400_9	is_in_sentence	sentence_13400
+13400_9	compound	13400_10
+13400_9	has_surface_form	Chris
+13400_9	part_of_entity	Chris Smith
+13400_10	is_in_sentence	sentence_13400
+13400_10	pobj	13400_8
+13400_10	has_surface_form	Smith
+13400_10	part_of_entity	Chris Smith
+13400_11	is_in_sentence	sentence_13400
+13400_11	punct	13400_2
+13400_11	has_surface_form	.
+13400_12	is_in_sentence	sentence_13400
+13400_12	dep	13400_2
+13400_12	has_surface_form	
+American Job	surface_form	American Job
+American Job	movie-has-director	Chris Smith
+Chris Smith	surface_form	Chris Smith

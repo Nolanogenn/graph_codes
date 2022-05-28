@@ -1,0 +1,94 @@
+33854_0	is_in_sentence	sentence_33854
+33854_0	compound	33854_1
+33854_0	has_surface_form	Phil
+33854_0	part_of_entity	Phil Knight
+33854_1	is_in_sentence	sentence_33854
+33854_1	nsubjpass	33854_3
+33854_1	has_surface_form	Knight
+33854_1	part_of_entity	Phil Knight
+33854_3	is_in_sentence	sentence_33854
+33854_3	ROOT	33854_3
+33854_3	has_surface_form	born
+33854_2	is_in_sentence	sentence_33854
+33854_2	auxpass	33854_3
+33854_2	has_surface_form	was
+33854_4	is_in_sentence	sentence_33854
+33854_4	prep	33854_3
+33854_4	has_surface_form	in
+33854_5	is_in_sentence	sentence_33854
+33854_5	pobj	33854_4
+33854_5	has_surface_form	Portland
+33854_6	is_in_sentence	sentence_33854
+33854_6	punct	33854_5
+33854_6	has_surface_form	,
+33854_7	is_in_sentence	sentence_33854
+33854_7	appos	33854_5
+33854_7	has_surface_form	Oregon
+33854_8	is_in_sentence	sentence_33854
+33854_8	prep	33854_3
+33854_8	has_surface_form	to
+33854_9	is_in_sentence	sentence_33854
+33854_9	compound	33854_10
+33854_9	has_surface_form	Bill
+33854_9	part_of_entity	Bill Knight
+33854_10	is_in_sentence	sentence_33854
+33854_10	pobj	33854_8
+33854_10	has_surface_form	Knight
+33854_10	part_of_entity	Bill Knight
+33854_11	is_in_sentence	sentence_33854
+33854_11	punct	33854_10
+33854_11	has_surface_form	,
+33854_12	is_in_sentence	sentence_33854
+33854_12	det	33854_13
+33854_12	has_surface_form	a
+33854_13	is_in_sentence	sentence_33854
+33854_13	appos	33854_10
+33854_13	has_surface_form	lawyer
+33854_14	is_in_sentence	sentence_33854
+33854_14	conj	33854_3
+33854_14	has_surface_form	turned
+33854_15	is_in_sentence	sentence_33854
+33854_15	compound	33854_16
+33854_15	has_surface_form	newspaper
+33854_16	is_in_sentence	sentence_33854
+33854_16	dobj	33854_14
+33854_16	has_surface_form	publisher
+33854_17	is_in_sentence	sentence_33854
+33854_17	punct	33854_14
+33854_17	has_surface_form	,
+33854_18	is_in_sentence	sentence_33854
+33854_18	cc	33854_3
+33854_18	has_surface_form	and
+33854_19	is_in_sentence	sentence_33854
+33854_19	poss	33854_20
+33854_19	has_surface_form	his
+33854_20	is_in_sentence	sentence_33854
+33854_20	conj	33854_3
+33854_20	has_surface_form	wife
+33854_21	is_in_sentence	sentence_33854
+33854_21	punct	33854_20
+33854_21	has_surface_form	,
+33854_22	is_in_sentence	sentence_33854
+33854_22	appos	33854_20
+33854_22	has_surface_form	Lota
+33854_23	is_in_sentence	sentence_33854
+33854_23	punct	33854_22
+33854_23	has_surface_form	(
+33854_24	is_in_sentence	sentence_33854
+33854_24	nmod	33854_26
+33854_24	has_surface_form	Hatfield
+33854_26	is_in_sentence	sentence_33854
+33854_26	appos	33854_20
+33854_26	has_surface_form	Knight
+33854_25	is_in_sentence	sentence_33854
+33854_25	punct	33854_26
+33854_25	has_surface_form	)
+33854_27	is_in_sentence	sentence_33854
+33854_27	punct	33854_3
+33854_27	has_surface_form	.
+33854_28	is_in_sentence	sentence_33854
+33854_28	dep	33854_28
+33854_28	has_surface_form	
+Phil Knight	surface_form	Phil Knight
+Phil Knight	has-parent	Bill Knight
+Bill Knight	surface_form	Bill Knight

@@ -1,0 +1,73 @@
+11415_0	is_in_sentence	sentence_11415
+11415_0	compound	11415_1
+11415_0	has_surface_form	Maria
+11415_0	part_of_entity	Maria Băsescu
+11415_1	is_in_sentence	sentence_11415
+11415_1	nsubj	11415_9
+11415_1	has_surface_form	Băsescu
+11415_1	part_of_entity	Maria Băsescu
+11415_9	is_in_sentence	sentence_11415
+11415_9	ROOT	11415_9
+11415_9	has_surface_form	is
+11415_2	is_in_sentence	sentence_11415
+11415_2	punct	11415_1
+11415_2	has_surface_form	(
+11415_3	is_in_sentence	sentence_11415
+11415_3	acl	11415_1
+11415_3	has_surface_form	born
+11415_4	is_in_sentence	sentence_11415
+11415_4	npadvmod	11415_3
+11415_4	has_surface_form	September
+11415_5	is_in_sentence	sentence_11415
+11415_5	nummod	11415_4
+11415_5	has_surface_form	6
+11415_6	is_in_sentence	sentence_11415
+11415_6	punct	11415_4
+11415_6	has_surface_form	,
+11415_7	is_in_sentence	sentence_11415
+11415_7	nummod	11415_4
+11415_7	has_surface_form	1951
+11415_8	is_in_sentence	sentence_11415
+11415_8	punct	11415_1
+11415_8	has_surface_form	)
+11415_10	is_in_sentence	sentence_11415
+11415_10	det	11415_11
+11415_10	has_surface_form	the
+11415_11	is_in_sentence	sentence_11415
+11415_11	attr	11415_9
+11415_11	has_surface_form	wife
+11415_12	is_in_sentence	sentence_11415
+11415_12	prep	11415_11
+11415_12	has_surface_form	of
+11415_13	is_in_sentence	sentence_11415
+11415_13	det	11415_15
+11415_13	has_surface_form	the
+11415_15	is_in_sentence	sentence_11415
+11415_15	pobj	11415_12
+11415_15	has_surface_form	President
+11415_14	is_in_sentence	sentence_11415
+11415_14	amod	11415_15
+11415_14	has_surface_form	5th
+11415_16	is_in_sentence	sentence_11415
+11415_16	prep	11415_15
+11415_16	has_surface_form	of
+11415_17	is_in_sentence	sentence_11415
+11415_17	compound	11415_19
+11415_17	has_surface_form	Romania
+11415_19	is_in_sentence	sentence_11415
+11415_19	pobj	11415_16
+11415_19	has_surface_form	Băsescu
+11415_19	part_of_entity	Traian Băsescu
+11415_18	is_in_sentence	sentence_11415
+11415_18	compound	11415_19
+11415_18	has_surface_form	Traian
+11415_18	part_of_entity	Traian Băsescu
+11415_20	is_in_sentence	sentence_11415
+11415_20	punct	11415_9
+11415_20	has_surface_form	.
+11415_21	is_in_sentence	sentence_11415
+11415_21	dep	11415_9
+11415_21	has_surface_form	
+Maria Băsescu	surface_form	Maria Băsescu
+Maria Băsescu	has-spouse	Traian Băsescu
+Traian Băsescu	surface_form	Traian Băsescu

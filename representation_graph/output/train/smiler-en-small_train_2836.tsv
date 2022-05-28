@@ -1,0 +1,59 @@
+2835_0	is_in_sentence	sentence_2835
+2835_0	det	2835_4
+2835_0	has_surface_form	The
+2835_4	is_in_sentence	sentence_2835
+2835_4	nsubjpass	2835_12
+2835_4	has_surface_form	phone
+2835_1	is_in_sentence	sentence_2835
+2835_1	amod	2835_4
+2835_1	has_surface_form	first
+2835_2	is_in_sentence	sentence_2835
+2835_2	compound	2835_3
+2835_2	has_surface_form	Siemens
+2835_2	part_of_entity	Siemens Mobile
+2835_3	is_in_sentence	sentence_2835
+2835_3	compound	2835_4
+2835_3	has_surface_form	Mobile
+2835_3	part_of_entity	Siemens Mobile
+2835_12	is_in_sentence	sentence_2835
+2835_12	ROOT	2835_12
+2835_12	has_surface_form	launched
+2835_5	is_in_sentence	sentence_2835
+2835_5	punct	2835_4
+2835_5	has_surface_form	,
+2835_6	is_in_sentence	sentence_2835
+2835_6	det	2835_9
+2835_6	has_surface_form	the
+2835_9	is_in_sentence	sentence_2835
+2835_9	appos	2835_4
+2835_9	has_surface_form	C1
+2835_9	part_of_entity	Siemens Mobiltelefon C1
+2835_7	is_in_sentence	sentence_2835
+2835_7	compound	2835_9
+2835_7	has_surface_form	Siemens
+2835_7	part_of_entity	Siemens Mobiltelefon C1
+2835_8	is_in_sentence	sentence_2835
+2835_8	compound	2835_9
+2835_8	has_surface_form	Mobiltelefon
+2835_8	part_of_entity	Siemens Mobiltelefon C1
+2835_10	is_in_sentence	sentence_2835
+2835_10	punct	2835_4
+2835_10	has_surface_form	,
+2835_11	is_in_sentence	sentence_2835
+2835_11	auxpass	2835_12
+2835_11	has_surface_form	was
+2835_13	is_in_sentence	sentence_2835
+2835_13	prep	2835_12
+2835_13	has_surface_form	in
+2835_14	is_in_sentence	sentence_2835
+2835_14	pobj	2835_13
+2835_14	has_surface_form	1985
+2835_15	is_in_sentence	sentence_2835
+2835_15	punct	2835_12
+2835_15	has_surface_form	.
+2835_16	is_in_sentence	sentence_2835
+2835_16	dep	2835_16
+2835_16	has_surface_form	
+Siemens Mobile	surface_form	Siemens Mobile
+Siemens Mobile	first-product	Siemens Mobiltelefon C1
+Siemens Mobiltelefon C1	surface_form	Siemens Mobiltelefon C1

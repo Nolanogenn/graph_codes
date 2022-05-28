@@ -1,0 +1,62 @@
+10680_0	is_in_sentence	sentence_10680
+10680_0	compound	10680_1
+10680_0	has_surface_form	Adem
+10680_0	part_of_entity	Adem Mikullovci
+10680_1	is_in_sentence	sentence_10680
+10680_1	nsubj	10680_11
+10680_1	has_surface_form	Mikullovci
+10680_1	part_of_entity	Adem Mikullovci
+10680_11	is_in_sentence	sentence_10680
+10680_11	ROOT	10680_11
+10680_11	has_surface_form	is
+10680_2	is_in_sentence	sentence_10680
+10680_2	punct	10680_1
+10680_2	has_surface_form	(
+10680_3	is_in_sentence	sentence_10680
+10680_3	acl	10680_1
+10680_3	has_surface_form	born
+10680_4	is_in_sentence	sentence_10680
+10680_4	npadvmod	10680_3
+10680_4	has_surface_form	1939
+10680_5	is_in_sentence	sentence_10680
+10680_5	prep	10680_3
+10680_5	has_surface_form	in
+10680_6	is_in_sentence	sentence_10680
+10680_6	pobj	10680_5
+10680_6	has_surface_form	Vushtrri
+10680_7	is_in_sentence	sentence_10680
+10680_7	punct	10680_6
+10680_7	has_surface_form	,
+10680_8	is_in_sentence	sentence_10680
+10680_8	compound	10680_9
+10680_8	has_surface_form	Albanian
+10680_9	is_in_sentence	sentence_10680
+10680_9	appos	10680_6
+10680_9	has_surface_form	Kingdom
+10680_10	is_in_sentence	sentence_10680
+10680_10	punct	10680_6
+10680_10	has_surface_form	)
+10680_12	is_in_sentence	sentence_10680
+10680_12	det	10680_14
+10680_12	has_surface_form	an
+10680_14	is_in_sentence	sentence_10680
+10680_14	attr	10680_11
+10680_14	is_entity	actor
+10680_13	is_in_sentence	sentence_10680
+10680_13	compound	10680_14
+10680_13	has_surface_form	Kosovan
+actor	surface_form	actor
+10680_15	is_in_sentence	sentence_10680
+10680_15	cc	10680_14
+10680_15	has_surface_form	and
+10680_16	is_in_sentence	sentence_10680
+10680_16	conj	10680_14
+10680_16	has_surface_form	politician
+10680_17	is_in_sentence	sentence_10680
+10680_17	punct	10680_11
+10680_17	has_surface_form	.
+10680_18	is_in_sentence	sentence_10680
+10680_18	dep	10680_18
+10680_18	has_surface_form	
+Adem Mikullovci	surface_form	Adem Mikullovci
+Adem Mikullovci	has-occupation	actor

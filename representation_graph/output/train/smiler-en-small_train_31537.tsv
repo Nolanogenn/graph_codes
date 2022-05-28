@@ -1,0 +1,89 @@
+31536_0	is_in_sentence	sentence_31536
+31536_0	compound	31536_1
+31536_0	has_surface_form	Harry
+31536_1	is_in_sentence	sentence_31536
+31536_1	nsubj	31536_2
+31536_1	has_surface_form	Williams
+31536_2	is_in_sentence	sentence_31536
+31536_2	ROOT	31536_2
+31536_2	has_surface_form	founded
+31536_3	is_in_sentence	sentence_31536
+31536_3	compound	31536_5
+31536_3	has_surface_form	Williams
+31536_3	part_of_entity	Williams Manufacturing Company
+31536_5	is_in_sentence	sentence_31536
+31536_5	dobj	31536_2
+31536_5	has_surface_form	Company
+31536_5	part_of_entity	Williams Manufacturing Company
+31536_4	is_in_sentence	sentence_31536
+31536_4	compound	31536_5
+31536_4	has_surface_form	Manufacturing
+31536_4	part_of_entity	Williams Manufacturing Company
+31536_6	is_in_sentence	sentence_31536
+31536_6	punct	31536_2
+31536_6	has_surface_form	.
+31536_7	is_in_sentence	sentence_31536
+31536_7	det	31536_10
+31536_7	has_surface_form	The
+31536_10	is_in_sentence	sentence_31536
+31536_10	nsubj	31536_11
+31536_10	has_surface_form	products
+31536_8	is_in_sentence	sentence_31536
+31536_8	amod	31536_10
+31536_8	has_surface_form	first
+31536_9	is_in_sentence	sentence_31536
+31536_9	nummod	31536_10
+31536_9	has_surface_form	seven
+31536_11	is_in_sentence	sentence_31536
+31536_11	ROOT	31536_11
+31536_11	has_surface_form	were
+31536_12	is_in_sentence	sentence_31536
+31536_12	det	31536_16
+31536_12	has_surface_form	a
+31536_16	is_in_sentence	sentence_31536
+31536_16	attr	31536_11
+31536_16	has_surface_form	machine
+31536_13	is_in_sentence	sentence_31536
+31536_13	npadvmod	31536_15
+31536_13	has_surface_form	fortune
+31536_15	is_in_sentence	sentence_31536
+31536_15	amod	31536_16
+31536_15	has_surface_form	telling
+31536_14	is_in_sentence	sentence_31536
+31536_14	punct	31536_15
+31536_14	has_surface_form	-
+31536_17	is_in_sentence	sentence_31536
+31536_17	acl	31536_16
+31536_17	has_surface_form	called
+31536_18	is_in_sentence	sentence_31536
+31536_18	compound	31536_19
+31536_18	has_surface_form	Selector
+31536_18	part_of_entity	Selector Scope
+31536_19	is_in_sentence	sentence_31536
+31536_19	oprd	31536_17
+31536_19	has_surface_form	Scope
+31536_19	part_of_entity	Selector Scope
+31536_20	is_in_sentence	sentence_31536
+31536_20	punct	31536_19
+31536_20	has_surface_form	(
+31536_21	is_in_sentence	sentence_31536
+31536_21	appos	31536_19
+31536_21	has_surface_form	1944
+31536_22	is_in_sentence	sentence_31536
+31536_22	punct	31536_19
+31536_22	has_surface_form	)
+31536_23	is_in_sentence	sentence_31536
+31536_23	punct	31536_19
+31536_23	has_surface_form	,
+31536_24	is_in_sentence	sentence_31536
+31536_24	oprd	31536_17
+31536_24	has_surface_form	etc
+31536_25	is_in_sentence	sentence_31536
+31536_25	punct	31536_11
+31536_25	has_surface_form	.
+31536_26	is_in_sentence	sentence_31536
+31536_26	dep	31536_11
+31536_26	has_surface_form	
+Williams Manufacturing Company	surface_form	Williams Manufacturing Company
+Williams Manufacturing Company	first-product	Selector Scope
+Selector Scope	surface_form	Selector Scope

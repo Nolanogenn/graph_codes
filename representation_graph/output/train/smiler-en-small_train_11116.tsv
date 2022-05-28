@@ -1,0 +1,68 @@
+11115_0	is_in_sentence	sentence_11115
+11115_0	compound	11115_1
+11115_0	has_surface_form	Steve
+11115_1	is_in_sentence	sentence_11115
+11115_1	nsubj	11115_8
+11115_1	has_surface_form	McQueen
+11115_8	is_in_sentence	sentence_11115
+11115_8	ROOT	11115_8
+11115_8	has_surface_form	is
+11115_2	is_in_sentence	sentence_11115
+11115_2	punct	11115_1
+11115_2	has_surface_form	:
+11115_3	is_in_sentence	sentence_11115
+11115_3	det	11115_4
+11115_3	has_surface_form	The
+11115_4	is_in_sentence	sentence_11115
+11115_4	appos	11115_1
+11115_4	has_surface_form	Man
+11115_5	is_in_sentence	sentence_11115
+11115_5	cc	11115_4
+11115_5	has_surface_form	&
+11115_6	is_in_sentence	sentence_11115
+11115_6	compound	11115_7
+11115_6	has_surface_form	Le
+11115_7	is_in_sentence	sentence_11115
+11115_7	conj	11115_4
+11115_7	has_surface_form	Mans
+11115_9	is_in_sentence	sentence_11115
+11115_9	det	11115_11
+11115_9	has_surface_form	a
+11115_11	is_in_sentence	sentence_11115
+11115_11	attr	11115_8
+11115_11	has_surface_form	documentary
+11115_10	is_in_sentence	sentence_11115
+11115_10	nummod	11115_11
+11115_10	has_surface_form	2015
+11115_12	is_in_sentence	sentence_11115
+11115_12	acl	11115_11
+11115_12	has_surface_form	directed
+11115_13	is_in_sentence	sentence_11115
+11115_13	agent	11115_12
+11115_13	has_surface_form	by
+11115_14	is_in_sentence	sentence_11115
+11115_14	compound	11115_15
+11115_14	has_surface_form	John
+11115_14	part_of_entity	John McKenna
+11115_15	is_in_sentence	sentence_11115
+11115_15	pobj	11115_13
+11115_15	has_surface_form	McKenna
+11115_15	part_of_entity	John McKenna
+11115_16	is_in_sentence	sentence_11115
+11115_16	cc	11115_15
+11115_16	has_surface_form	and
+11115_17	is_in_sentence	sentence_11115
+11115_17	compound	11115_18
+11115_17	has_surface_form	Gabriel
+11115_18	is_in_sentence	sentence_11115
+11115_18	conj	11115_15
+11115_18	has_surface_form	Clarke
+11115_19	is_in_sentence	sentence_11115
+11115_19	punct	11115_8
+11115_19	has_surface_form	.
+11115_20	is_in_sentence	sentence_11115
+11115_20	dep	11115_20
+11115_20	has_surface_form	
+Steve McQueen: The Man & Le Mans	surface_form	Steve McQueen: The Man & Le Mans
+Steve McQueen: The Man & Le Mans	movie-has-director	John McKenna
+John McKenna	surface_form	John McKenna

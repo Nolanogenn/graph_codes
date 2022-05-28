@@ -1,0 +1,57 @@
+84_0	is_in_sentence	sentence_84
+84_0	det	84_3
+84_0	has_surface_form	The
+84_3	is_in_sentence	sentence_84
+84_3	nsubj	84_4
+84_3	has_surface_form	Theatre
+84_3	part_of_entity	48th Street Theatre
+84_1	is_in_sentence	sentence_84
+84_1	amod	84_3
+84_1	has_surface_form	48th
+84_1	part_of_entity	48th Street Theatre
+84_2	is_in_sentence	sentence_84
+84_2	compound	84_3
+84_2	has_surface_form	Street
+84_2	part_of_entity	48th Street Theatre
+84_4	is_in_sentence	sentence_84
+84_4	ROOT	84_4
+84_4	has_surface_form	was
+84_5	is_in_sentence	sentence_84
+84_5	det	84_7
+84_5	has_surface_form	a
+84_7	is_in_sentence	sentence_84
+84_7	attr	84_4
+84_7	is_entity	theatre
+84_6	is_in_sentence	sentence_84
+84_6	compound	84_7
+84_6	has_surface_form	Broadway
+theatre	surface_form	theatre
+84_8	is_in_sentence	sentence_84
+84_8	prep	84_7
+84_8	has_surface_form	at
+84_9	is_in_sentence	sentence_84
+84_9	nummod	84_12
+84_9	has_surface_form	157
+84_12	is_in_sentence	sentence_84
+84_12	pobj	84_8
+84_12	has_surface_form	Street
+84_10	is_in_sentence	sentence_84
+84_10	amod	84_11
+84_10	has_surface_form	West
+84_11	is_in_sentence	sentence_84
+84_11	amod	84_12
+84_11	has_surface_form	48th
+84_13	is_in_sentence	sentence_84
+84_13	prep	84_12
+84_13	has_surface_form	in
+84_14	is_in_sentence	sentence_84
+84_14	pobj	84_13
+84_14	has_surface_form	Manhattan
+84_15	is_in_sentence	sentence_84
+84_15	punct	84_4
+84_15	has_surface_form	.
+84_16	is_in_sentence	sentence_84
+84_16	dep	84_16
+84_16	has_surface_form	
+48th Street Theatre	surface_form	48th Street Theatre
+48th Street Theatre	has-type	theatre

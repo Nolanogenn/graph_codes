@@ -1,0 +1,59 @@
+15531_0	is_in_sentence	sentence_15531
+15531_0	compound	15531_1
+15531_0	has_surface_form	Rand
+15531_0	part_of_entity	Rand Pecknold
+15531_1	is_in_sentence	sentence_15531
+15531_1	nsubj	15531_9
+15531_1	has_surface_form	Pecknold
+15531_1	part_of_entity	Rand Pecknold
+15531_9	is_in_sentence	sentence_15531
+15531_9	ROOT	15531_9
+15531_9	has_surface_form	is
+15531_2	is_in_sentence	sentence_15531
+15531_2	punct	15531_1
+15531_2	has_surface_form	(
+15531_3	is_in_sentence	sentence_15531
+15531_3	acl	15531_1
+15531_3	has_surface_form	born
+15531_4	is_in_sentence	sentence_15531
+15531_4	npadvmod	15531_3
+15531_4	has_surface_form	February
+15531_5	is_in_sentence	sentence_15531
+15531_5	nummod	15531_4
+15531_5	has_surface_form	4
+15531_6	is_in_sentence	sentence_15531
+15531_6	punct	15531_4
+15531_6	has_surface_form	,
+15531_7	is_in_sentence	sentence_15531
+15531_7	nummod	15531_4
+15531_7	has_surface_form	1967
+15531_8	is_in_sentence	sentence_15531
+15531_8	punct	15531_1
+15531_8	has_surface_form	)
+15531_10	is_in_sentence	sentence_15531
+15531_10	det	15531_14
+15531_10	has_surface_form	an
+15531_14	is_in_sentence	sentence_15531
+15531_14	attr	15531_9
+15531_14	has_surface_form	coach
+15531_14	part_of_entity	ice hockey coach
+15531_11	is_in_sentence	sentence_15531
+15531_11	amod	15531_14
+15531_11	has_surface_form	American
+15531_12	is_in_sentence	sentence_15531
+15531_12	compound	15531_13
+15531_12	has_surface_form	ice
+15531_12	part_of_entity	ice hockey coach
+15531_13	is_in_sentence	sentence_15531
+15531_13	compound	15531_14
+15531_13	has_surface_form	hockey
+15531_13	part_of_entity	ice hockey coach
+15531_15	is_in_sentence	sentence_15531
+15531_15	punct	15531_9
+15531_15	has_surface_form	.
+15531_16	is_in_sentence	sentence_15531
+15531_16	dep	15531_16
+15531_16	has_surface_form	
+Rand Pecknold	surface_form	Rand Pecknold
+Rand Pecknold	has-type	ice hockey coach
+ice hockey coach	surface_form	ice hockey coach

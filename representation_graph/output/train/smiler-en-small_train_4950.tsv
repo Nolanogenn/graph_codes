@@ -1,0 +1,70 @@
+4949_0	is_in_sentence	sentence_4949
+4949_0	compound	4949_1
+4949_0	has_surface_form	Rikas
+4949_0	part_of_entity	Rikas tyttö
+4949_1	is_in_sentence	sentence_4949
+4949_1	nsubj	4949_10
+4949_1	has_surface_form	tyttö
+4949_1	part_of_entity	Rikas tyttö
+4949_10	is_in_sentence	sentence_4949
+4949_10	ROOT	4949_10
+4949_10	has_surface_form	is
+4949_2	is_in_sentence	sentence_4949
+4949_2	punct	4949_4
+4949_2	has_surface_form	(
+4949_4	is_in_sentence	sentence_4949
+4949_4	appos	4949_1
+4949_4	has_surface_form	translation
+4949_3	is_in_sentence	sentence_4949
+4949_3	amod	4949_4
+4949_3	has_surface_form	English
+4949_5	is_in_sentence	sentence_4949
+4949_5	punct	4949_4
+4949_5	has_surface_form	-
+4949_6	is_in_sentence	sentence_4949
+4949_6	det	4949_8
+4949_6	has_surface_form	The
+4949_8	is_in_sentence	sentence_4949
+4949_8	appos	4949_4
+4949_8	has_surface_form	Girl
+4949_7	is_in_sentence	sentence_4949
+4949_7	compound	4949_8
+4949_7	has_surface_form	Rich
+4949_9	is_in_sentence	sentence_4949
+4949_9	punct	4949_4
+4949_9	has_surface_form	)
+4949_11	is_in_sentence	sentence_4949
+4949_11	det	4949_14
+4949_11	has_surface_form	a
+4949_14	is_in_sentence	sentence_4949
+4949_14	attr	4949_10
+4949_14	has_surface_form	film
+4949_12	is_in_sentence	sentence_4949
+4949_12	nummod	4949_14
+4949_12	has_surface_form	1939
+4949_13	is_in_sentence	sentence_4949
+4949_13	amod	4949_14
+4949_13	has_surface_form	Finnish
+4949_15	is_in_sentence	sentence_4949
+4949_15	acl	4949_14
+4949_15	has_surface_form	directed
+4949_16	is_in_sentence	sentence_4949
+4949_16	agent	4949_15
+4949_16	has_surface_form	by
+4949_17	is_in_sentence	sentence_4949
+4949_17	compound	4949_18
+4949_17	has_surface_form	Valentin
+4949_17	part_of_entity	Valentin Vaala
+4949_18	is_in_sentence	sentence_4949
+4949_18	pobj	4949_16
+4949_18	has_surface_form	Vaala
+4949_18	part_of_entity	Valentin Vaala
+4949_19	is_in_sentence	sentence_4949
+4949_19	punct	4949_10
+4949_19	has_surface_form	.
+4949_20	is_in_sentence	sentence_4949
+4949_20	dep	4949_10
+4949_20	has_surface_form	
+Rikas tyttö	surface_form	Rikas tyttö
+Rikas tyttö	movie-has-director	Valentin Vaala
+Valentin Vaala	surface_form	Valentin Vaala

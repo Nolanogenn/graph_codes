@@ -1,0 +1,38 @@
+13805_0	is_in_sentence	sentence_13805
+13805_0	det	13805_3
+13805_0	has_surface_form	The
+13805_3	is_in_sentence	sentence_13805
+13805_3	nsubjpass	13805_5
+13805_3	has_surface_form	car
+13805_1	is_in_sentence	sentence_13805
+13805_1	amod	13805_3
+13805_1	has_surface_form	first
+13805_2	is_in_sentence	sentence_13805
+13805_2	compound	13805_3
+13805_2	is_entity	Subaru
+Subaru	surface_form	Subaru
+Subaru	first-product	Subaru 1500
+13805_5	is_in_sentence	sentence_13805
+13805_5	ROOT	13805_5
+13805_5	has_surface_form	named
+13805_4	is_in_sentence	sentence_13805
+13805_4	auxpass	13805_5
+13805_4	has_surface_form	was
+13805_6	is_in_sentence	sentence_13805
+13805_6	det	13805_7
+13805_6	has_surface_form	the
+13805_7	is_in_sentence	sentence_13805
+13805_7	oprd	13805_5
+13805_7	is_entity	Subaru
+13805_7	part_of_entity	Subaru 1500
+13805_8	is_in_sentence	sentence_13805
+13805_8	nummod	13805_7
+13805_8	has_surface_form	1500
+13805_8	part_of_entity	Subaru 1500
+13805_9	is_in_sentence	sentence_13805
+13805_9	punct	13805_5
+13805_9	has_surface_form	.
+13805_10	is_in_sentence	sentence_13805
+13805_10	dep	13805_5
+13805_10	has_surface_form	
+Subaru 1500	surface_form	Subaru 1500

@@ -1,0 +1,50 @@
+32050_0	is_in_sentence	sentence_32050
+32050_0	compound	32050_1
+32050_0	has_surface_form	Julia
+32050_0	part_of_entity	Julia Older
+32050_1	is_in_sentence	sentence_32050
+32050_1	nsubj	32050_3
+32050_1	has_surface_form	Older
+32050_1	part_of_entity	Julia Older
+32050_3	is_in_sentence	sentence_32050
+32050_3	ROOT	32050_3
+32050_3	has_surface_form	written
+32050_2	is_in_sentence	sentence_32050
+32050_2	aux	32050_3
+32050_2	has_surface_form	has
+32050_4	is_in_sentence	sentence_32050
+32050_4	dobj	32050_3
+32050_4	is_entity	poetry
+poetry	surface_form	poetry
+32050_5	is_in_sentence	sentence_32050
+32050_5	punct	32050_4
+32050_5	has_surface_form	,
+32050_6	is_in_sentence	sentence_32050
+32050_6	conj	32050_4
+32050_6	has_surface_form	essays
+32050_7	is_in_sentence	sentence_32050
+32050_7	punct	32050_6
+32050_7	has_surface_form	,
+32050_8	is_in_sentence	sentence_32050
+32050_8	conj	32050_6
+32050_8	has_surface_form	fiction
+32050_9	is_in_sentence	sentence_32050
+32050_9	punct	32050_8
+32050_9	has_surface_form	,
+32050_10	is_in_sentence	sentence_32050
+32050_10	conj	32050_8
+32050_10	has_surface_form	nonfiction
+32050_11	is_in_sentence	sentence_32050
+32050_11	cc	32050_10
+32050_11	has_surface_form	and
+32050_12	is_in_sentence	sentence_32050
+32050_12	conj	32050_10
+32050_12	has_surface_form	plays
+32050_13	is_in_sentence	sentence_32050
+32050_13	punct	32050_3
+32050_13	has_surface_form	.
+32050_14	is_in_sentence	sentence_32050
+32050_14	dep	32050_14
+32050_14	has_surface_form	
+Julia Older	surface_form	Julia Older
+Julia Older	has-genre	poetry

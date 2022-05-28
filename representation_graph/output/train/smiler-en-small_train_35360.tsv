@@ -1,0 +1,59 @@
+35359_0	is_in_sentence	sentence_35359
+35359_0	compound	35359_1
+35359_0	has_surface_form	Hadrien
+35359_0	part_of_entity	Hadrien Feraud
+35359_1	is_in_sentence	sentence_35359
+35359_1	nsubj	35359_11
+35359_1	has_surface_form	Feraud
+35359_1	part_of_entity	Hadrien Feraud
+35359_11	is_in_sentence	sentence_35359
+35359_11	ROOT	35359_11
+35359_11	has_surface_form	is
+35359_2	is_in_sentence	sentence_35359
+35359_2	punct	35359_1
+35359_2	has_surface_form	(
+35359_3	is_in_sentence	sentence_35359
+35359_3	acl	35359_1
+35359_3	has_surface_form	born
+35359_4	is_in_sentence	sentence_35359
+35359_4	npadvmod	35359_3
+35359_4	has_surface_form	August
+35359_5	is_in_sentence	sentence_35359
+35359_5	nummod	35359_4
+35359_5	has_surface_form	16
+35359_6	is_in_sentence	sentence_35359
+35359_6	punct	35359_4
+35359_6	has_surface_form	,
+35359_7	is_in_sentence	sentence_35359
+35359_7	nummod	35359_4
+35359_7	has_surface_form	1984
+35359_8	is_in_sentence	sentence_35359
+35359_8	prep	35359_3
+35359_8	has_surface_form	in
+35359_9	is_in_sentence	sentence_35359
+35359_9	pobj	35359_8
+35359_9	is_entity	Paris
+Paris	surface_form	Paris
+35359_10	is_in_sentence	sentence_35359
+35359_10	punct	35359_1
+35359_10	has_surface_form	)
+35359_12	is_in_sentence	sentence_35359
+35359_12	det	35359_15
+35359_12	has_surface_form	a
+35359_15	is_in_sentence	sentence_35359
+35359_15	attr	35359_11
+35359_15	has_surface_form	bassist
+35359_13	is_in_sentence	sentence_35359
+35359_13	amod	35359_15
+35359_13	has_surface_form	French
+35359_14	is_in_sentence	sentence_35359
+35359_14	compound	35359_15
+35359_14	has_surface_form	jazz
+35359_16	is_in_sentence	sentence_35359
+35359_16	punct	35359_11
+35359_16	has_surface_form	.
+35359_17	is_in_sentence	sentence_35359
+35359_17	dep	35359_11
+35359_17	has_surface_form	
+Hadrien Feraud	surface_form	Hadrien Feraud
+Hadrien Feraud	birth-place	Paris

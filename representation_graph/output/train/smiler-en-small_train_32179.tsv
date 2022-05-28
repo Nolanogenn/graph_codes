@@ -1,0 +1,63 @@
+32178_0	is_in_sentence	sentence_32178
+32178_0	compound	32178_1
+32178_0	has_surface_form	South
+32178_0	part_of_entity	South Louisiana Community College
+32178_1	is_in_sentence	sentence_32178
+32178_1	compound	32178_2
+32178_1	has_surface_form	Louisiana
+32178_1	part_of_entity	South Louisiana Community College
+32178_2	is_in_sentence	sentence_32178
+32178_2	compound	32178_3
+32178_2	has_surface_form	Community
+32178_2	part_of_entity	South Louisiana Community College
+32178_3	is_in_sentence	sentence_32178
+32178_3	nsubj	32178_7
+32178_3	has_surface_form	College
+32178_3	part_of_entity	South Louisiana Community College
+32178_7	is_in_sentence	sentence_32178
+32178_7	ROOT	32178_7
+32178_7	has_surface_form	is
+32178_4	is_in_sentence	sentence_32178
+32178_4	punct	32178_3
+32178_4	has_surface_form	(
+32178_5	is_in_sentence	sentence_32178
+32178_5	appos	32178_3
+32178_5	has_surface_form	SLCC
+32178_6	is_in_sentence	sentence_32178
+32178_6	punct	32178_3
+32178_6	has_surface_form	)
+32178_8	is_in_sentence	sentence_32178
+32178_8	det	32178_11
+32178_8	has_surface_form	a
+32178_11	is_in_sentence	sentence_32178
+32178_11	attr	32178_7
+32178_11	has_surface_form	college
+32178_11	part_of_entity	community college
+32178_9	is_in_sentence	sentence_32178
+32178_9	amod	32178_10
+32178_9	has_surface_form	public
+32178_10	is_in_sentence	sentence_32178
+32178_10	compound	32178_11
+32178_10	has_surface_form	community
+32178_10	part_of_entity	community college
+32178_12	is_in_sentence	sentence_32178
+32178_12	prep	32178_11
+32178_12	has_surface_form	in
+32178_13	is_in_sentence	sentence_32178
+32178_13	pobj	32178_12
+32178_13	has_surface_form	Lafayette
+32178_14	is_in_sentence	sentence_32178
+32178_14	punct	32178_13
+32178_14	has_surface_form	,
+32178_15	is_in_sentence	sentence_32178
+32178_15	appos	32178_13
+32178_15	has_surface_form	Louisiana
+32178_16	is_in_sentence	sentence_32178
+32178_16	punct	32178_7
+32178_16	has_surface_form	.
+32178_17	is_in_sentence	sentence_32178
+32178_17	dep	32178_7
+32178_17	has_surface_form	
+South Louisiana Community College	surface_form	South Louisiana Community College
+South Louisiana Community College	has-type	community college
+community college	surface_form	community college

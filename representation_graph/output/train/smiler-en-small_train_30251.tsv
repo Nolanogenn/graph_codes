@@ -1,0 +1,76 @@
+30250_0	is_in_sentence	sentence_30250
+30250_0	det	30250_1
+30250_0	has_surface_form	The
+30250_0	part_of_entity	The Heart of a Lion
+30250_1	is_in_sentence	sentence_30250
+30250_1	nsubj	30250_5
+30250_1	has_surface_form	Heart
+30250_1	part_of_entity	The Heart of a Lion
+30250_5	is_in_sentence	sentence_30250
+30250_5	ROOT	30250_5
+30250_5	has_surface_form	is
+30250_2	is_in_sentence	sentence_30250
+30250_2	prep	30250_1
+30250_2	has_surface_form	of
+30250_2	part_of_entity	The Heart of a Lion
+30250_3	is_in_sentence	sentence_30250
+30250_3	det	30250_4
+30250_3	has_surface_form	a
+30250_3	part_of_entity	The Heart of a Lion
+30250_4	is_in_sentence	sentence_30250
+30250_4	pobj	30250_2
+30250_4	has_surface_form	Lion
+30250_4	part_of_entity	The Heart of a Lion
+30250_6	is_in_sentence	sentence_30250
+30250_6	det	30250_11
+30250_6	has_surface_form	a
+30250_11	is_in_sentence	sentence_30250
+30250_11	attr	30250_5
+30250_11	has_surface_form	drama
+30250_7	is_in_sentence	sentence_30250
+30250_7	amod	30250_11
+30250_7	has_surface_form	lost
+30250_8	is_in_sentence	sentence_30250
+30250_8	nummod	30250_11
+30250_8	has_surface_form	1917
+30250_9	is_in_sentence	sentence_30250
+30250_9	amod	30250_10
+30250_9	has_surface_form	silent
+30250_10	is_in_sentence	sentence_30250
+30250_10	compound	30250_11
+30250_10	has_surface_form	film
+30250_12	is_in_sentence	sentence_30250
+30250_12	acl	30250_11
+30250_12	has_surface_form	directed
+30250_13	is_in_sentence	sentence_30250
+30250_13	agent	30250_12
+30250_13	has_surface_form	by
+30250_14	is_in_sentence	sentence_30250
+30250_14	compound	30250_15
+30250_14	has_surface_form	Frank
+30250_14	part_of_entity	Frank Lloyd
+30250_15	is_in_sentence	sentence_30250
+30250_15	pobj	30250_13
+30250_15	has_surface_form	Lloyd
+30250_15	part_of_entity	Frank Lloyd
+30250_16	is_in_sentence	sentence_30250
+30250_16	cc	30250_12
+30250_16	has_surface_form	and
+30250_17	is_in_sentence	sentence_30250
+30250_17	conj	30250_12
+30250_17	has_surface_form	starring
+30250_18	is_in_sentence	sentence_30250
+30250_18	compound	30250_19
+30250_18	has_surface_form	William
+30250_19	is_in_sentence	sentence_30250
+30250_19	dobj	30250_17
+30250_19	has_surface_form	Farnum
+30250_20	is_in_sentence	sentence_30250
+30250_20	punct	30250_5
+30250_20	has_surface_form	.
+30250_21	is_in_sentence	sentence_30250
+30250_21	dep	30250_21
+30250_21	has_surface_form	
+The Heart of a Lion	surface_form	The Heart of a Lion
+The Heart of a Lion	movie-has-director	Frank Lloyd
+Frank Lloyd	surface_form	Frank Lloyd

@@ -1,0 +1,65 @@
+31335_0	is_in_sentence	sentence_31335
+31335_0	compound	31335_1
+31335_0	has_surface_form	Hannan
+31335_0	part_of_entity	Hannan University
+31335_1	is_in_sentence	sentence_31335
+31335_1	nsubj	31335_8
+31335_1	has_surface_form	University
+31335_1	part_of_entity	Hannan University
+31335_8	is_in_sentence	sentence_31335
+31335_8	ROOT	31335_8
+31335_8	has_surface_form	is
+31335_2	is_in_sentence	sentence_31335
+31335_2	punct	31335_1
+31335_2	has_surface_form	(
+31335_3	is_in_sentence	sentence_31335
+31335_3	appos	31335_1
+31335_3	has_surface_form	阪南大学
+31335_4	is_in_sentence	sentence_31335
+31335_4	punct	31335_3
+31335_4	has_surface_form	,
+31335_5	is_in_sentence	sentence_31335
+31335_5	compound	31335_6
+31335_5	has_surface_form	Hannan
+31335_6	is_in_sentence	sentence_31335
+31335_6	appos	31335_3
+31335_6	has_surface_form	Daigaku
+31335_7	is_in_sentence	sentence_31335
+31335_7	punct	31335_3
+31335_7	has_surface_form	)
+31335_9	is_in_sentence	sentence_31335
+31335_9	det	31335_11
+31335_9	has_surface_form	a
+31335_11	is_in_sentence	sentence_31335
+31335_11	attr	31335_8
+31335_11	has_surface_form	university
+31335_10	is_in_sentence	sentence_31335
+31335_10	amod	31335_11
+31335_10	has_surface_form	private
+31335_12	is_in_sentence	sentence_31335
+31335_12	prep	31335_11
+31335_12	has_surface_form	in
+31335_13	is_in_sentence	sentence_31335
+31335_13	pobj	31335_12
+31335_13	is_entity	Matsubara
+Matsubara	surface_form	Matsubara
+31335_14	is_in_sentence	sentence_31335
+31335_14	punct	31335_13
+31335_14	has_surface_form	,
+31335_15	is_in_sentence	sentence_31335
+31335_15	conj	31335_13
+31335_15	has_surface_form	Osaka
+31335_16	is_in_sentence	sentence_31335
+31335_16	punct	31335_15
+31335_16	has_surface_form	,
+31335_17	is_in_sentence	sentence_31335
+31335_17	appos	31335_15
+31335_17	has_surface_form	Japan
+31335_18	is_in_sentence	sentence_31335
+31335_18	punct	31335_8
+31335_18	has_surface_form	.
+31335_19	is_in_sentence	sentence_31335
+31335_19	dep	31335_8
+31335_19	has_surface_form	
+Hannan University	surface_form	Hannan University
+Hannan University	is-where	Matsubara

@@ -1,0 +1,55 @@
+13365_0	is_in_sentence	sentence_13365
+13365_0	compound	13365_1
+13365_0	has_surface_form	Infonet
+13365_0	part_of_entity	Infonet College
+13365_1	is_in_sentence	sentence_13365
+13365_1	nsubj	13365_2
+13365_1	has_surface_form	College
+13365_1	part_of_entity	Infonet College
+13365_2	is_in_sentence	sentence_13365
+13365_2	ROOT	13365_2
+13365_2	has_surface_form	is
+13365_3	is_in_sentence	sentence_13365
+13365_3	det	13365_5
+13365_3	has_surface_form	a
+13365_5	is_in_sentence	sentence_13365
+13365_5	attr	13365_2
+13365_5	has_surface_form	institution
+13365_4	is_in_sentence	sentence_13365
+13365_4	amod	13365_5
+13365_4	has_surface_form	private
+13365_6	is_in_sentence	sentence_13365
+13365_6	prep	13365_5
+13365_6	has_surface_form	of
+13365_7	is_in_sentence	sentence_13365
+13365_7	amod	13365_8
+13365_7	has_surface_form	higher
+13365_8	is_in_sentence	sentence_13365
+13365_8	pobj	13365_6
+13365_8	has_surface_form	learning
+13365_9	is_in_sentence	sentence_13365
+13365_9	prep	13365_8
+13365_9	has_surface_form	in
+13365_10	is_in_sentence	sentence_13365
+13365_10	compound	13365_11
+13365_10	has_surface_form	Addis
+13365_10	part_of_entity	Addis Ababa
+13365_11	is_in_sentence	sentence_13365
+13365_11	pobj	13365_9
+13365_11	has_surface_form	Ababa
+13365_11	part_of_entity	Addis Ababa
+13365_12	is_in_sentence	sentence_13365
+13365_12	punct	13365_11
+13365_12	has_surface_form	,
+13365_13	is_in_sentence	sentence_13365
+13365_13	appos	13365_11
+13365_13	has_surface_form	Ethiopia
+13365_14	is_in_sentence	sentence_13365
+13365_14	punct	13365_2
+13365_14	has_surface_form	.
+13365_15	is_in_sentence	sentence_13365
+13365_15	dep	13365_15
+13365_15	has_surface_form	
+Infonet College	surface_form	Infonet College
+Infonet College	is-where	Addis Ababa
+Addis Ababa	surface_form	Addis Ababa

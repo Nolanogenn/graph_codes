@@ -1,0 +1,94 @@
+23940_0	is_in_sentence	sentence_23940
+23940_0	compound	23940_1
+23940_0	has_surface_form	High
+23940_0	part_of_entity	High Infidelity
+23940_1	is_in_sentence	sentence_23940
+23940_1	nsubj	23940_8
+23940_1	has_surface_form	Infidelity
+23940_1	part_of_entity	High Infidelity
+23940_8	is_in_sentence	sentence_23940
+23940_8	ROOT	23940_8
+23940_8	has_surface_form	is
+23940_2	is_in_sentence	sentence_23940
+23940_2	punct	23940_6
+23940_2	has_surface_form	(
+23940_6	is_in_sentence	sentence_23940
+23940_6	appos	23940_1
+23940_6	has_surface_form	infedeltà
+23940_3	is_in_sentence	sentence_23940
+23940_3	nmod	23940_6
+23940_3	has_surface_form	Italian
+23940_4	is_in_sentence	sentence_23940
+23940_4	punct	23940_6
+23940_4	has_surface_form	:
+23940_5	is_in_sentence	sentence_23940
+23940_5	compound	23940_6
+23940_5	has_surface_form	Alta
+23940_7	is_in_sentence	sentence_23940
+23940_7	punct	23940_1
+23940_7	has_surface_form	)
+23940_9	is_in_sentence	sentence_23940
+23940_9	det	23940_13
+23940_9	has_surface_form	a
+23940_13	is_in_sentence	sentence_23940
+23940_13	attr	23940_8
+23940_13	has_surface_form	film
+23940_10	is_in_sentence	sentence_23940
+23940_10	nummod	23940_13
+23940_10	has_surface_form	1964
+23940_11	is_in_sentence	sentence_23940
+23940_11	amod	23940_13
+23940_11	has_surface_form	Italian
+23940_12	is_in_sentence	sentence_23940
+23940_12	compound	23940_13
+23940_12	has_surface_form	comedy
+23940_14	is_in_sentence	sentence_23940
+23940_14	acl	23940_13
+23940_14	has_surface_form	directed
+23940_15	is_in_sentence	sentence_23940
+23940_15	agent	23940_14
+23940_15	has_surface_form	by
+23940_16	is_in_sentence	sentence_23940
+23940_16	compound	23940_17
+23940_16	has_surface_form	Mario
+23940_16	part_of_entity	Mario Monicelli
+23940_17	is_in_sentence	sentence_23940
+23940_17	pobj	23940_15
+23940_17	has_surface_form	Monicelli
+23940_17	part_of_entity	Mario Monicelli
+23940_18	is_in_sentence	sentence_23940
+23940_18	punct	23940_17
+23940_18	has_surface_form	,
+23940_19	is_in_sentence	sentence_23940
+23940_19	compound	23940_20
+23940_19	has_surface_form	Elio
+23940_20	is_in_sentence	sentence_23940
+23940_20	conj	23940_17
+23940_20	has_surface_form	Petri
+23940_21	is_in_sentence	sentence_23940
+23940_21	punct	23940_20
+23940_21	has_surface_form	,
+23940_22	is_in_sentence	sentence_23940
+23940_22	compound	23940_23
+23940_22	has_surface_form	Franco
+23940_23	is_in_sentence	sentence_23940
+23940_23	conj	23940_20
+23940_23	has_surface_form	Rossi
+23940_24	is_in_sentence	sentence_23940
+23940_24	cc	23940_23
+23940_24	has_surface_form	and
+23940_25	is_in_sentence	sentence_23940
+23940_25	compound	23940_26
+23940_25	has_surface_form	Luciano
+23940_26	is_in_sentence	sentence_23940
+23940_26	conj	23940_23
+23940_26	has_surface_form	Salce
+23940_27	is_in_sentence	sentence_23940
+23940_27	punct	23940_8
+23940_27	has_surface_form	.
+23940_28	is_in_sentence	sentence_23940
+23940_28	dep	23940_8
+23940_28	has_surface_form	
+High Infidelity	surface_form	High Infidelity
+High Infidelity	movie-has-director	Mario Monicelli
+Mario Monicelli	surface_form	Mario Monicelli

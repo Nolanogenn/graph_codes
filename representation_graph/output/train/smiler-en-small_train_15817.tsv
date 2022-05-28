@@ -1,0 +1,53 @@
+15816_0	is_in_sentence	sentence_15816
+15816_0	compound	15816_1
+15816_0	has_surface_form	Katie
+15816_0	part_of_entity	Katie Carr
+15816_1	is_in_sentence	sentence_15816
+15816_1	nsubj	15816_8
+15816_1	has_surface_form	Carr
+15816_1	part_of_entity	Katie Carr
+15816_8	is_in_sentence	sentence_15816
+15816_8	ROOT	15816_8
+15816_8	has_surface_form	is
+15816_2	is_in_sentence	sentence_15816
+15816_2	punct	15816_1
+15816_2	has_surface_form	(
+15816_3	is_in_sentence	sentence_15816
+15816_3	acl	15816_1
+15816_3	has_surface_form	born
+15816_4	is_in_sentence	sentence_15816
+15816_4	npadvmod	15816_3
+15816_4	has_surface_form	London
+15816_5	is_in_sentence	sentence_15816
+15816_5	punct	15816_4
+15816_5	has_surface_form	,
+15816_6	is_in_sentence	sentence_15816
+15816_6	appos	15816_4
+15816_6	has_surface_form	1973
+15816_7	is_in_sentence	sentence_15816
+15816_7	punct	15816_1
+15816_7	has_surface_form	)
+15816_9	is_in_sentence	sentence_15816
+15816_9	det	15816_11
+15816_9	has_surface_form	an
+15816_11	is_in_sentence	sentence_15816
+15816_11	attr	15816_8
+15816_11	is_entity	actress
+15816_10	is_in_sentence	sentence_15816
+15816_10	amod	15816_11
+15816_10	has_surface_form	English
+actress	surface_form	actress
+15816_12	is_in_sentence	sentence_15816
+15816_12	cc	15816_11
+15816_12	has_surface_form	and
+15816_13	is_in_sentence	sentence_15816
+15816_13	conj	15816_11
+15816_13	has_surface_form	model
+15816_14	is_in_sentence	sentence_15816
+15816_14	punct	15816_8
+15816_14	has_surface_form	.
+15816_15	is_in_sentence	sentence_15816
+15816_15	dep	15816_15
+15816_15	has_surface_form	
+Katie Carr	surface_form	Katie Carr
+Katie Carr	has-occupation	actress

@@ -1,0 +1,76 @@
+16360_0	is_in_sentence	sentence_16360
+16360_0	compound	16360_1
+16360_0	has_surface_form	Lucy
+16360_0	part_of_entity	Lucy Gallant
+16360_1	is_in_sentence	sentence_16360
+16360_1	nsubj	16360_2
+16360_1	has_surface_form	Gallant
+16360_1	part_of_entity	Lucy Gallant
+16360_2	is_in_sentence	sentence_16360
+16360_2	ROOT	16360_2
+16360_2	has_surface_form	is
+16360_3	is_in_sentence	sentence_16360
+16360_3	det	16360_7
+16360_3	has_surface_form	a
+16360_7	is_in_sentence	sentence_16360
+16360_7	attr	16360_2
+16360_7	has_surface_form	film
+16360_4	is_in_sentence	sentence_16360
+16360_4	nummod	16360_7
+16360_4	has_surface_form	1955
+16360_5	is_in_sentence	sentence_16360
+16360_5	amod	16360_7
+16360_5	has_surface_form	American
+16360_6	is_in_sentence	sentence_16360
+16360_6	compound	16360_7
+16360_6	has_surface_form	drama
+16360_8	is_in_sentence	sentence_16360
+16360_8	acl	16360_7
+16360_8	has_surface_form	directed
+16360_9	is_in_sentence	sentence_16360
+16360_9	agent	16360_8
+16360_9	has_surface_form	by
+16360_10	is_in_sentence	sentence_16360
+16360_10	compound	16360_11
+16360_10	has_surface_form	Robert
+16360_10	part_of_entity	Robert Parrish
+16360_11	is_in_sentence	sentence_16360
+16360_11	pobj	16360_9
+16360_11	has_surface_form	Parrish
+16360_11	part_of_entity	Robert Parrish
+16360_12	is_in_sentence	sentence_16360
+16360_12	cc	16360_8
+16360_12	has_surface_form	and
+16360_13	is_in_sentence	sentence_16360
+16360_13	conj	16360_8
+16360_13	has_surface_form	written
+16360_14	is_in_sentence	sentence_16360
+16360_14	agent	16360_13
+16360_14	has_surface_form	by
+16360_15	is_in_sentence	sentence_16360
+16360_15	compound	16360_17
+16360_15	has_surface_form	John
+16360_17	is_in_sentence	sentence_16360
+16360_17	pobj	16360_14
+16360_17	has_surface_form	Mahin
+16360_16	is_in_sentence	sentence_16360
+16360_16	compound	16360_17
+16360_16	has_surface_form	Lee
+16360_18	is_in_sentence	sentence_16360
+16360_18	cc	16360_17
+16360_18	has_surface_form	and
+16360_19	is_in_sentence	sentence_16360
+16360_19	compound	16360_20
+16360_19	has_surface_form	Winston
+16360_20	is_in_sentence	sentence_16360
+16360_20	conj	16360_17
+16360_20	has_surface_form	Miller
+16360_21	is_in_sentence	sentence_16360
+16360_21	punct	16360_2
+16360_21	has_surface_form	.
+16360_22	is_in_sentence	sentence_16360
+16360_22	dep	16360_2
+16360_22	has_surface_form	
+Lucy Gallant	surface_form	Lucy Gallant
+Lucy Gallant	movie-has-director	Robert Parrish
+Robert Parrish	surface_form	Robert Parrish

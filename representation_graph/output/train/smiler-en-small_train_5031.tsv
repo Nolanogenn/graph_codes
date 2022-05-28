@@ -1,0 +1,118 @@
+5030_0	is_in_sentence	sentence_5030
+5030_0	compound	5030_1
+5030_0	has_surface_form	Caroline
+5030_0	part_of_entity	Caroline Paola Oliveira da Silva
+5030_1	is_in_sentence	sentence_5030
+5030_1	compound	5030_4
+5030_1	has_surface_form	Paola
+5030_1	part_of_entity	Caroline Paola Oliveira da Silva
+5030_4	is_in_sentence	sentence_5030
+5030_4	nsubj	5030_20
+5030_4	has_surface_form	Silva
+5030_4	part_of_entity	Caroline Paola Oliveira da Silva
+5030_2	is_in_sentence	sentence_5030
+5030_2	compound	5030_4
+5030_2	has_surface_form	Oliveira
+5030_2	part_of_entity	Caroline Paola Oliveira da Silva
+5030_3	is_in_sentence	sentence_5030
+5030_3	compound	5030_4
+5030_3	has_surface_form	da
+5030_3	part_of_entity	Caroline Paola Oliveira da Silva
+5030_20	is_in_sentence	sentence_5030
+5030_20	ROOT	5030_20
+5030_20	has_surface_form	is
+5030_5	is_in_sentence	sentence_5030
+5030_5	punct	5030_4
+5030_5	has_surface_form	(
+5030_6	is_in_sentence	sentence_5030
+5030_6	acl	5030_4
+5030_6	has_surface_form	born
+5030_7	is_in_sentence	sentence_5030
+5030_7	npadvmod	5030_6
+5030_7	has_surface_form	April
+5030_8	is_in_sentence	sentence_5030
+5030_8	nummod	5030_7
+5030_8	has_surface_form	14
+5030_9	is_in_sentence	sentence_5030
+5030_9	punct	5030_7
+5030_9	has_surface_form	,
+5030_10	is_in_sentence	sentence_5030
+5030_10	nummod	5030_7
+5030_10	has_surface_form	1982
+5030_11	is_in_sentence	sentence_5030
+5030_11	punct	5030_7
+5030_11	has_surface_form	)
+5030_12	is_in_sentence	sentence_5030
+5030_12	acl	5030_4
+5030_12	has_surface_form	known
+5030_13	is_in_sentence	sentence_5030
+5030_13	agent	5030_12
+5030_13	has_surface_form	by
+5030_14	is_in_sentence	sentence_5030
+5030_14	det	5030_16
+5030_14	has_surface_form	the
+5030_16	is_in_sentence	sentence_5030
+5030_16	pobj	5030_13
+5030_16	has_surface_form	name
+5030_15	is_in_sentence	sentence_5030
+5030_15	compound	5030_16
+5030_15	has_surface_form	stage
+5030_17	is_in_sentence	sentence_5030
+5030_17	compound	5030_18
+5030_17	has_surface_form	Paolla
+5030_18	is_in_sentence	sentence_5030
+5030_18	appos	5030_16
+5030_18	has_surface_form	Oliveira
+5030_19	is_in_sentence	sentence_5030
+5030_19	punct	5030_4
+5030_19	has_surface_form	,
+5030_21	is_in_sentence	sentence_5030
+5030_21	det	5030_23
+5030_21	has_surface_form	a
+5030_23	is_in_sentence	sentence_5030
+5030_23	attr	5030_20
+5030_23	has_surface_form	actress
+5030_22	is_in_sentence	sentence_5030
+5030_22	amod	5030_23
+5030_22	has_surface_form	Brazilian
+5030_24	is_in_sentence	sentence_5030
+5030_24	punct	5030_20
+5030_24	has_surface_form	.
+5030_25	is_in_sentence	sentence_5030
+5030_25	compound	5030_26
+5030_25	has_surface_form	Paolla
+5030_26	is_in_sentence	sentence_5030
+5030_26	nsubjpass	5030_28
+5030_26	has_surface_form	Oliveira
+5030_28	is_in_sentence	sentence_5030
+5030_28	ROOT	5030_28
+5030_28	has_surface_form	born
+5030_27	is_in_sentence	sentence_5030
+5030_27	auxpass	5030_28
+5030_27	has_surface_form	was
+5030_29	is_in_sentence	sentence_5030
+5030_29	prep	5030_28
+5030_29	has_surface_form	in
+5030_30	is_in_sentence	sentence_5030
+5030_30	compound	5030_31
+5030_30	has_surface_form	São
+5030_30	part_of_entity	São Paulo
+5030_31	is_in_sentence	sentence_5030
+5030_31	pobj	5030_29
+5030_31	has_surface_form	Paulo
+5030_31	part_of_entity	São Paulo
+5030_32	is_in_sentence	sentence_5030
+5030_32	punct	5030_31
+5030_32	has_surface_form	,
+5030_33	is_in_sentence	sentence_5030
+5030_33	appos	5030_31
+5030_33	has_surface_form	Brazil
+5030_34	is_in_sentence	sentence_5030
+5030_34	punct	5030_28
+5030_34	has_surface_form	.
+5030_35	is_in_sentence	sentence_5030
+5030_35	dep	5030_35
+5030_35	has_surface_form	
+Caroline Paola Oliveira da Silva	surface_form	Caroline Paola Oliveira da Silva
+Caroline Paola Oliveira da Silva	birth-place	São Paulo
+São Paulo	surface_form	São Paulo

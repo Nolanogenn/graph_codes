@@ -1,0 +1,85 @@
+31284_0	is_in_sentence	sentence_31284
+31284_0	compound	31284_1
+31284_0	has_surface_form	Kazuki
+31284_0	part_of_entity	Kazuki Sakuraba
+31284_1	is_in_sentence	sentence_31284
+31284_1	nsubj	31284_9
+31284_1	has_surface_form	Sakuraba
+31284_1	part_of_entity	Kazuki Sakuraba
+31284_9	is_in_sentence	sentence_31284
+31284_9	ROOT	31284_9
+31284_9	has_surface_form	is
+31284_2	is_in_sentence	sentence_31284
+31284_2	punct	31284_1
+31284_2	has_surface_form	(
+31284_3	is_in_sentence	sentence_31284
+31284_3	appos	31284_1
+31284_3	has_surface_form	桜庭
+31284_4	is_in_sentence	sentence_31284
+31284_4	punct	31284_1
+31284_4	has_surface_form	一樹
+31284_5	is_in_sentence	sentence_31284
+31284_5	punct	31284_1
+31284_5	has_surface_form	,
+31284_6	is_in_sentence	sentence_31284
+31284_6	compound	31284_7
+31284_6	has_surface_form	Sakuraba
+31284_7	is_in_sentence	sentence_31284
+31284_7	appos	31284_1
+31284_7	has_surface_form	Kazuki
+31284_8	is_in_sentence	sentence_31284
+31284_8	punct	31284_1
+31284_8	has_surface_form	)
+31284_10	is_in_sentence	sentence_31284
+31284_10	det	31284_12
+31284_10	has_surface_form	a
+31284_12	is_in_sentence	sentence_31284
+31284_12	attr	31284_9
+31284_12	has_surface_form	author
+31284_11	is_in_sentence	sentence_31284
+31284_11	amod	31284_12
+31284_11	has_surface_form	Japanese
+31284_13	is_in_sentence	sentence_31284
+31284_13	prep	31284_12
+31284_13	has_surface_form	of
+31284_14	is_in_sentence	sentence_31284
+31284_14	pobj	31284_13
+31284_14	has_surface_form	novels
+31284_15	is_in_sentence	sentence_31284
+31284_15	cc	31284_14
+31284_15	has_surface_form	and
+31284_16	is_in_sentence	sentence_31284
+31284_16	amod	31284_17
+31284_16	has_surface_form	light
+31284_17	is_in_sentence	sentence_31284
+31284_17	conj	31284_14
+31284_17	has_surface_form	novels
+31284_18	is_in_sentence	sentence_31284
+31284_18	punct	31284_9
+31284_18	has_surface_form	,
+31284_19	is_in_sentence	sentence_31284
+31284_19	cc	31284_9
+31284_19	has_surface_form	and
+31284_20	is_in_sentence	sentence_31284
+31284_20	det	31284_23
+31284_20	has_surface_form	a
+31284_23	is_in_sentence	sentence_31284
+31284_23	conj	31284_9
+31284_23	has_surface_form	winner
+31284_21	is_in_sentence	sentence_31284
+31284_21	compound	31284_22
+31284_21	has_surface_form	Naoki
+31284_21	part_of_entity	Naoki Prize
+31284_22	is_in_sentence	sentence_31284
+31284_22	compound	31284_23
+31284_22	has_surface_form	Prize
+31284_22	part_of_entity	Naoki Prize
+31284_24	is_in_sentence	sentence_31284
+31284_24	punct	31284_9
+31284_24	has_surface_form	.
+31284_25	is_in_sentence	sentence_31284
+31284_25	dep	31284_9
+31284_25	has_surface_form	
+Kazuki Sakuraba	surface_form	Kazuki Sakuraba
+Kazuki Sakuraba	won-award	Naoki Prize
+Naoki Prize	surface_form	Naoki Prize

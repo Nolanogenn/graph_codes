@@ -1,0 +1,67 @@
+11192_0	is_in_sentence	sentence_11192
+11192_0	amod	11192_1
+11192_0	has_surface_form	Italian
+11192_1	is_in_sentence	sentence_11192
+11192_1	compound	11192_3
+11192_1	has_surface_form	physicist
+11192_3	is_in_sentence	sentence_11192
+11192_3	nsubj	11192_4
+11192_3	has_surface_form	Volta
+11192_3	part_of_entity	Alessandro Volta
+11192_2	is_in_sentence	sentence_11192
+11192_2	compound	11192_3
+11192_2	has_surface_form	Alessandro
+11192_2	part_of_entity	Alessandro Volta
+11192_4	is_in_sentence	sentence_11192
+11192_4	ROOT	11192_4
+11192_4	has_surface_form	built
+11192_5	is_in_sentence	sentence_11192
+11192_5	cc	11192_4
+11192_5	has_surface_form	and
+11192_6	is_in_sentence	sentence_11192
+11192_6	conj	11192_4
+11192_6	has_surface_form	described
+11192_7	is_in_sentence	sentence_11192
+11192_7	det	11192_10
+11192_7	has_surface_form	the
+11192_10	is_in_sentence	sentence_11192
+11192_10	dobj	11192_6
+11192_10	has_surface_form	battery
+11192_8	is_in_sentence	sentence_11192
+11192_8	amod	11192_10
+11192_8	has_surface_form	first
+11192_9	is_in_sentence	sentence_11192
+11192_9	amod	11192_10
+11192_9	has_surface_form	electrochemical
+11192_11	is_in_sentence	sentence_11192
+11192_11	punct	11192_10
+11192_11	has_surface_form	,
+11192_12	is_in_sentence	sentence_11192
+11192_12	det	11192_14
+11192_12	has_surface_form	the
+11192_14	is_in_sentence	sentence_11192
+11192_14	appos	11192_10
+11192_14	has_surface_form	pile
+11192_14	part_of_entity	voltaic pile
+11192_13	is_in_sentence	sentence_11192
+11192_13	amod	11192_14
+11192_13	has_surface_form	voltaic
+11192_13	part_of_entity	voltaic pile
+11192_15	is_in_sentence	sentence_11192
+11192_15	punct	11192_10
+11192_15	has_surface_form	,
+11192_16	is_in_sentence	sentence_11192
+11192_16	prep	11192_6
+11192_16	has_surface_form	in
+11192_17	is_in_sentence	sentence_11192
+11192_17	pobj	11192_16
+11192_17	has_surface_form	1800
+11192_18	is_in_sentence	sentence_11192
+11192_18	punct	11192_4
+11192_18	has_surface_form	.
+11192_19	is_in_sentence	sentence_11192
+11192_19	dep	11192_19
+11192_19	has_surface_form	
+voltaic pile	surface_form	voltaic pile
+voltaic pile	invented-by	Alessandro Volta
+Alessandro Volta	surface_form	Alessandro Volta

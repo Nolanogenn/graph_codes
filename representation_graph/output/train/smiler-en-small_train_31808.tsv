@@ -1,0 +1,74 @@
+31807_0	is_in_sentence	sentence_31807
+31807_0	det	31807_3
+31807_0	has_surface_form	An
+31807_3	is_in_sentence	sentence_31807
+31807_3	nsubjpass	31807_5
+31807_3	has_surface_form	boat
+31807_3	part_of_entity	electric boat
+31807_1	is_in_sentence	sentence_31807
+31807_1	amod	31807_3
+31807_1	has_surface_form	early
+31807_2	is_in_sentence	sentence_31807
+31807_2	amod	31807_3
+31807_2	has_surface_form	electric
+31807_2	part_of_entity	electric boat
+31807_5	is_in_sentence	sentence_31807
+31807_5	ROOT	31807_5
+31807_5	has_surface_form	developed
+31807_4	is_in_sentence	sentence_31807
+31807_4	auxpass	31807_5
+31807_4	has_surface_form	was
+31807_6	is_in_sentence	sentence_31807
+31807_6	agent	31807_5
+31807_6	has_surface_form	by
+31807_7	is_in_sentence	sentence_31807
+31807_7	det	31807_9
+31807_7	has_surface_form	the
+31807_9	is_in_sentence	sentence_31807
+31807_9	compound	31807_12
+31807_9	has_surface_form	inventor
+31807_8	is_in_sentence	sentence_31807
+31807_8	amod	31807_9
+31807_8	has_surface_form	German
+31807_12	is_in_sentence	sentence_31807
+31807_12	pobj	31807_6
+31807_12	has_surface_form	Jacobi
+31807_12	part_of_entity	Moritz von Jacobi
+31807_10	is_in_sentence	sentence_31807
+31807_10	compound	31807_12
+31807_10	has_surface_form	Moritz
+31807_10	part_of_entity	Moritz von Jacobi
+31807_11	is_in_sentence	sentence_31807
+31807_11	compound	31807_12
+31807_11	has_surface_form	von
+31807_11	part_of_entity	Moritz von Jacobi
+31807_13	is_in_sentence	sentence_31807
+31807_13	prep	31807_5
+31807_13	has_surface_form	in
+31807_14	is_in_sentence	sentence_31807
+31807_14	pobj	31807_13
+31807_14	has_surface_form	1839
+31807_15	is_in_sentence	sentence_31807
+31807_15	prep	31807_5
+31807_15	has_surface_form	in
+31807_16	is_in_sentence	sentence_31807
+31807_16	compound	31807_17
+31807_16	has_surface_form	St
+31807_17	is_in_sentence	sentence_31807
+31807_17	pobj	31807_15
+31807_17	has_surface_form	Petersburg
+31807_18	is_in_sentence	sentence_31807
+31807_18	punct	31807_17
+31807_18	has_surface_form	,
+31807_19	is_in_sentence	sentence_31807
+31807_19	appos	31807_17
+31807_19	has_surface_form	Russia
+31807_20	is_in_sentence	sentence_31807
+31807_20	punct	31807_5
+31807_20	has_surface_form	.
+31807_21	is_in_sentence	sentence_31807
+31807_21	dep	31807_21
+31807_21	has_surface_form	
+electric boat	surface_form	electric boat
+electric boat	invented-by	Moritz von Jacobi
+Moritz von Jacobi	surface_form	Moritz von Jacobi

@@ -1,0 +1,123 @@
+2818_0	is_in_sentence	sentence_2818
+2818_0	nummod	2818_3
+2818_0	has_surface_form	303
+2818_0	part_of_entity	303 Fear Faith Revenge
+2818_3	is_in_sentence	sentence_2818
+2818_3	nsubj	2818_20
+2818_3	has_surface_form	Revenge
+2818_3	part_of_entity	303 Fear Faith Revenge
+2818_1	is_in_sentence	sentence_2818
+2818_1	compound	2818_3
+2818_1	has_surface_form	Fear
+2818_1	part_of_entity	303 Fear Faith Revenge
+2818_2	is_in_sentence	sentence_2818
+2818_2	compound	2818_3
+2818_2	has_surface_form	Faith
+2818_2	part_of_entity	303 Fear Faith Revenge
+2818_20	is_in_sentence	sentence_2818
+2818_20	ROOT	2818_20
+2818_20	has_surface_form	is
+2818_4	is_in_sentence	sentence_2818
+2818_4	punct	2818_5
+2818_4	has_surface_form	(
+2818_5	is_in_sentence	sentence_2818
+2818_5	appos	2818_3
+2818_5	has_surface_form	Thai
+2818_6	is_in_sentence	sentence_2818
+2818_6	punct	2818_5
+2818_6	has_surface_form	:
+2818_7	is_in_sentence	sentence_2818
+2818_7	nummod	2818_8
+2818_7	has_surface_form	303
+2818_8	is_in_sentence	sentence_2818
+2818_8	appos	2818_5
+2818_8	has_surface_form	กลัว/กล้า/อาฆาต
+2818_9	is_in_sentence	sentence_2818
+2818_9	punct	2818_8
+2818_9	has_surface_form	,
+2818_10	is_in_sentence	sentence_2818
+2818_10	appos	2818_8
+2818_10	has_surface_form	RTGS
+2818_11	is_in_sentence	sentence_2818
+2818_11	punct	2818_8
+2818_11	has_surface_form	:
+2818_12	is_in_sentence	sentence_2818
+2818_12	dep	2818_8
+2818_12	has_surface_form	 
+2818_13	is_in_sentence	sentence_2818
+2818_13	nummod	2818_18
+2818_13	has_surface_form	303
+2818_18	is_in_sentence	sentence_2818
+2818_18	appos	2818_8
+2818_18	has_surface_form	Akhat
+2818_14	is_in_sentence	sentence_2818
+2818_14	nmod	2818_18
+2818_14	has_surface_form	Klua
+2818_15	is_in_sentence	sentence_2818
+2818_15	punct	2818_18
+2818_15	has_surface_form	/
+2818_16	is_in_sentence	sentence_2818
+2818_16	nmod	2818_18
+2818_16	has_surface_form	Kla
+2818_17	is_in_sentence	sentence_2818
+2818_17	punct	2818_18
+2818_17	has_surface_form	/
+2818_19	is_in_sentence	sentence_2818
+2818_19	punct	2818_8
+2818_19	has_surface_form	)
+2818_21	is_in_sentence	sentence_2818
+2818_21	det	2818_25
+2818_21	has_surface_form	a
+2818_25	is_in_sentence	sentence_2818
+2818_25	attr	2818_20
+2818_25	has_surface_form	film
+2818_22	is_in_sentence	sentence_2818
+2818_22	nummod	2818_25
+2818_22	has_surface_form	1998
+2818_23	is_in_sentence	sentence_2818
+2818_23	compound	2818_25
+2818_23	has_surface_form	Thai
+2818_24	is_in_sentence	sentence_2818
+2818_24	compound	2818_25
+2818_24	has_surface_form	horror
+2818_26	is_in_sentence	sentence_2818
+2818_26	acl	2818_25
+2818_26	has_surface_form	starring
+2818_27	is_in_sentence	sentence_2818
+2818_27	compound	2818_28
+2818_27	has_surface_form	Taya
+2818_27	part_of_entity	Taya Rogers
+2818_28	is_in_sentence	sentence_2818
+2818_28	dobj	2818_26
+2818_28	has_surface_form	Rogers
+2818_28	part_of_entity	Taya Rogers
+2818_29	is_in_sentence	sentence_2818
+2818_29	punct	2818_28
+2818_29	has_surface_form	,
+2818_30	is_in_sentence	sentence_2818
+2818_30	compound	2818_31
+2818_30	has_surface_form	Arthit
+2818_31	is_in_sentence	sentence_2818
+2818_31	appos	2818_28
+2818_31	has_surface_form	Ryu
+2818_32	is_in_sentence	sentence_2818
+2818_32	punct	2818_28
+2818_32	has_surface_form	,
+2818_33	is_in_sentence	sentence_2818
+2818_33	cc	2818_28
+2818_33	has_surface_form	and
+2818_34	is_in_sentence	sentence_2818
+2818_34	compound	2818_35
+2818_34	has_surface_form	Ananda
+2818_35	is_in_sentence	sentence_2818
+2818_35	conj	2818_28
+2818_35	has_surface_form	Everingham
+2818_36	is_in_sentence	sentence_2818
+2818_36	punct	2818_20
+2818_36	has_surface_form	.
+2818_37	is_in_sentence	sentence_2818
+2818_37	dep	2818_20
+2818_37	has_surface_form	
+303 Fear Faith Revenge	surface_form	303 Fear Faith Revenge
+303 Fear Faith Revenge	starring	Taya Rogers
+Taya Rogers	surface_form	Taya Rogers

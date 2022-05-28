@@ -1,0 +1,97 @@
+23811_0	is_in_sentence	sentence_23811
+23811_0	compound	23811_1
+23811_0	has_surface_form	Billy
+23811_0	part_of_entity	Billy Morrison
+23811_1	is_in_sentence	sentence_23811
+23811_1	nsubj	23811_2
+23811_1	has_surface_form	Morrison
+23811_1	part_of_entity	Billy Morrison
+23811_2	is_in_sentence	sentence_23811
+23811_2	ROOT	23811_2
+23811_2	has_surface_form	is
+23811_3	is_in_sentence	sentence_23811
+23811_3	det	23811_5
+23811_3	has_surface_form	a
+23811_5	is_in_sentence	sentence_23811
+23811_5	attr	23811_2
+23811_5	has_surface_form	guitarist
+23811_4	is_in_sentence	sentence_23811
+23811_4	amod	23811_5
+23811_4	has_surface_form	British
+23811_6	is_in_sentence	sentence_23811
+23811_6	punct	23811_5
+23811_6	has_surface_form	,
+23811_7	is_in_sentence	sentence_23811
+23811_7	conj	23811_5
+23811_7	has_surface_form	singer
+23811_8	is_in_sentence	sentence_23811
+23811_8	cc	23811_7
+23811_8	has_surface_form	and
+23811_9	is_in_sentence	sentence_23811
+23811_9	conj	23811_7
+23811_9	has_surface_form	actor
+23811_10	is_in_sentence	sentence_23811
+23811_10	nsubj	23811_11
+23811_10	has_surface_form	who
+23811_11	is_in_sentence	sentence_23811
+23811_11	relcl	23811_7
+23811_11	has_surface_form	plays
+23811_12	is_in_sentence	sentence_23811
+23811_12	dobj	23811_11
+23811_12	has_surface_form	guitar
+23811_13	is_in_sentence	sentence_23811
+23811_13	prep	23811_11
+23811_13	has_surface_form	with
+23811_14	is_in_sentence	sentence_23811
+23811_14	compound	23811_15
+23811_14	has_surface_form	Billy
+23811_15	is_in_sentence	sentence_23811
+23811_15	pobj	23811_13
+23811_15	has_surface_form	Idol
+23811_16	is_in_sentence	sentence_23811
+23811_16	cc	23811_11
+23811_16	has_surface_form	and
+23811_17	is_in_sentence	sentence_23811
+23811_17	conj	23811_2
+23811_17	has_surface_form	performs
+23811_18	is_in_sentence	sentence_23811
+23811_18	prep	23811_17
+23811_18	has_surface_form	with
+23811_19	is_in_sentence	sentence_23811
+23811_19	det	23811_27
+23811_19	has_surface_form	the
+23811_27	is_in_sentence	sentence_23811
+23811_27	pobj	23811_18
+23811_27	has_surface_form	Machines
+23811_27	part_of_entity	Royal Machines
+23811_20	is_in_sentence	sentence_23811
+23811_20	compound	23811_21
+23811_20	has_surface_form	Los
+23811_21	is_in_sentence	sentence_23811
+23811_21	npadvmod	23811_23
+23811_21	has_surface_form	Angeles
+23811_23	is_in_sentence	sentence_23811
+23811_23	amod	23811_27
+23811_23	has_surface_form	based
+23811_22	is_in_sentence	sentence_23811
+23811_22	punct	23811_23
+23811_22	has_surface_form	-
+23811_24	is_in_sentence	sentence_23811
+23811_24	compound	23811_25
+23811_24	has_surface_form	cover
+23811_25	is_in_sentence	sentence_23811
+23811_25	compound	23811_27
+23811_25	has_surface_form	band
+23811_26	is_in_sentence	sentence_23811
+23811_26	compound	23811_27
+23811_26	has_surface_form	Royal
+23811_26	part_of_entity	Royal Machines
+23811_28	is_in_sentence	sentence_23811
+23811_28	punct	23811_2
+23811_28	has_surface_form	.
+23811_29	is_in_sentence	sentence_23811
+23811_29	dep	23811_2
+23811_29	has_surface_form	
+Billy Morrison	surface_form	Billy Morrison
+Billy Morrison	is-member-of	Royal Machines
+Royal Machines	surface_form	Royal Machines

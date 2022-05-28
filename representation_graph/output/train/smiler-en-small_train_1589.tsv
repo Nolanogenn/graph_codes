@@ -1,0 +1,81 @@
+1588_0	is_in_sentence	sentence_1588
+1588_0	ROOT	1588_0
+1588_0	has_surface_form	911060
+1588_1	is_in_sentence	sentence_1588
+1588_1	det	1588_3
+1588_1	has_surface_form	The
+1588_3	is_in_sentence	sentence_1588
+1588_3	nsubj	1588_6
+1588_3	has_surface_form	School
+1588_3	part_of_entity	Krannert School of Management
+1588_2	is_in_sentence	sentence_1588
+1588_2	compound	1588_3
+1588_2	has_surface_form	Krannert
+1588_2	part_of_entity	Krannert School of Management
+1588_6	is_in_sentence	sentence_1588
+1588_6	ROOT	1588_6
+1588_6	has_surface_form	is
+1588_4	is_in_sentence	sentence_1588
+1588_4	prep	1588_3
+1588_4	has_surface_form	of
+1588_4	part_of_entity	Krannert School of Management
+1588_5	is_in_sentence	sentence_1588
+1588_5	pobj	1588_4
+1588_5	has_surface_form	Management
+1588_5	part_of_entity	Krannert School of Management
+1588_7	is_in_sentence	sentence_1588
+1588_7	det	1588_8
+1588_7	has_surface_form	the
+1588_8	is_in_sentence	sentence_1588
+1588_8	attr	1588_6
+1588_8	has_surface_form	school
+1588_9	is_in_sentence	sentence_1588
+1588_9	prep	1588_8
+1588_9	has_surface_form	of
+1588_10	is_in_sentence	sentence_1588
+1588_10	pobj	1588_9
+1588_10	has_surface_form	management
+1588_11	is_in_sentence	sentence_1588
+1588_11	prep	1588_8
+1588_11	has_surface_form	at
+1588_12	is_in_sentence	sentence_1588
+1588_12	compound	1588_13
+1588_12	has_surface_form	Purdue
+1588_13	is_in_sentence	sentence_1588
+1588_13	pobj	1588_11
+1588_13	has_surface_form	University
+1588_14	is_in_sentence	sentence_1588
+1588_14	prep	1588_13
+1588_14	has_surface_form	in
+1588_15	is_in_sentence	sentence_1588
+1588_15	compound	1588_16
+1588_15	has_surface_form	West
+1588_15	part_of_entity	West Lafayette
+1588_16	is_in_sentence	sentence_1588
+1588_16	pobj	1588_14
+1588_16	has_surface_form	Lafayette
+1588_16	part_of_entity	West Lafayette
+1588_17	is_in_sentence	sentence_1588
+1588_17	punct	1588_16
+1588_17	has_surface_form	,
+1588_18	is_in_sentence	sentence_1588
+1588_18	appos	1588_13
+1588_18	has_surface_form	Indiana
+1588_19	is_in_sentence	sentence_1588
+1588_19	punct	1588_18
+1588_19	has_surface_form	,
+1588_20	is_in_sentence	sentence_1588
+1588_20	compound	1588_21
+1588_20	has_surface_form	United
+1588_21	is_in_sentence	sentence_1588
+1588_21	appos	1588_18
+1588_21	has_surface_form	States
+1588_22	is_in_sentence	sentence_1588
+1588_22	punct	1588_6
+1588_22	has_surface_form	.
+1588_23	is_in_sentence	sentence_1588
+1588_23	dep	1588_6
+1588_23	has_surface_form	
+Krannert School of Management	surface_form	Krannert School of Management
+Krannert School of Management	is-where	West Lafayette
+West Lafayette	surface_form	West Lafayette

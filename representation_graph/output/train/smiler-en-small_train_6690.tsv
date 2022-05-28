@@ -1,0 +1,62 @@
+6689_0	is_in_sentence	sentence_6689
+6689_0	det	6689_3
+6689_0	has_surface_form	The
+6689_3	is_in_sentence	sentence_6689
+6689_3	nsubj	6689_4
+6689_3	has_surface_form	machine
+6689_3	part_of_entity	boring machine
+6689_1	is_in_sentence	sentence_6689
+6689_1	amod	6689_3
+6689_1	has_surface_form	first
+6689_2	is_in_sentence	sentence_6689
+6689_2	amod	6689_3
+6689_2	has_surface_form	boring
+6689_2	part_of_entity	boring machine
+6689_4	is_in_sentence	sentence_6689
+6689_4	ccomp	6689_9
+6689_4	has_surface_form	reported
+6689_9	is_in_sentence	sentence_6689
+6689_9	ROOT	6689_9
+6689_9	has_surface_form	was
+6689_5	is_in_sentence	sentence_6689
+6689_5	aux	6689_8
+6689_5	has_surface_form	to
+6689_8	is_in_sentence	sentence_6689
+6689_8	xcomp	6689_4
+6689_8	has_surface_form	built
+6689_6	is_in_sentence	sentence_6689
+6689_6	aux	6689_8
+6689_6	has_surface_form	have
+6689_7	is_in_sentence	sentence_6689
+6689_7	auxpass	6689_8
+6689_7	has_surface_form	been
+6689_10	is_in_sentence	sentence_6689
+6689_10	compound	6689_13
+6689_10	has_surface_form	Henri
+6689_13	is_in_sentence	sentence_6689
+6689_13	poss	6689_16
+6689_13	has_surface_form	Maus
+6689_11	is_in_sentence	sentence_6689
+6689_11	punct	6689_13
+6689_11	has_surface_form	-
+6689_12	is_in_sentence	sentence_6689
+6689_12	compound	6689_13
+6689_12	has_surface_form	Joseph
+6689_16	is_in_sentence	sentence_6689
+6689_16	nsubj	6689_9
+6689_16	has_surface_form	Slicer
+6689_14	is_in_sentence	sentence_6689
+6689_14	case	6689_13
+6689_14	has_surface_form	's
+6689_15	is_in_sentence	sentence_6689
+6689_15	compound	6689_16
+6689_15	has_surface_form	Mountain
+6689_17	is_in_sentence	sentence_6689
+6689_17	punct	6689_9
+6689_17	has_surface_form	.
+6689_18	is_in_sentence	sentence_6689
+6689_18	dep	6689_9
+6689_18	has_surface_form	
+boring machine	surface_form	boring machine
+boring machine	invented-by	Henri-Joseph Maus
+Henri-Joseph Maus	surface_form	Henri-Joseph Maus

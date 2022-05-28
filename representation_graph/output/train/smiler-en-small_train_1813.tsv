@@ -1,0 +1,76 @@
+1812_0	is_in_sentence	sentence_1812
+1812_0	compound	1812_1
+1812_0	has_surface_form	Patti
+1812_0	part_of_entity	Patti Newton
+1812_1	is_in_sentence	sentence_1812
+1812_1	nsubjpass	1812_4
+1812_1	has_surface_form	Newton
+1812_1	part_of_entity	Patti Newton
+1812_4	is_in_sentence	sentence_1812
+1812_4	ROOT	1812_4
+1812_4	has_surface_form	married
+1812_2	is_in_sentence	sentence_1812
+1812_2	aux	1812_4
+1812_2	has_surface_form	has
+1812_3	is_in_sentence	sentence_1812
+1812_3	auxpass	1812_4
+1812_3	has_surface_form	been
+1812_5	is_in_sentence	sentence_1812
+1812_5	aux	1812_6
+1812_5	has_surface_form	to
+1812_6	is_in_sentence	sentence_1812
+1812_6	advcl	1812_4
+1812_6	has_surface_form	fellow
+1812_7	is_in_sentence	sentence_1812
+1812_7	amod	1812_8
+1812_7	has_surface_form	Australian
+1812_8	is_in_sentence	sentence_1812
+1812_8	compound	1812_10
+1812_8	has_surface_form	entertainer
+1812_10	is_in_sentence	sentence_1812
+1812_10	dobj	1812_6
+1812_10	has_surface_form	Newton
+1812_10	part_of_entity	Bert Newton
+1812_9	is_in_sentence	sentence_1812
+1812_9	compound	1812_10
+1812_9	has_surface_form	Bert
+1812_9	part_of_entity	Bert Newton
+1812_11	is_in_sentence	sentence_1812
+1812_11	prep	1812_6
+1812_11	has_surface_form	since
+1812_12	is_in_sentence	sentence_1812
+1812_12	nummod	1812_13
+1812_12	has_surface_form	9
+1812_13	is_in_sentence	sentence_1812
+1812_13	pobj	1812_11
+1812_13	has_surface_form	November
+1812_14	is_in_sentence	sentence_1812
+1812_14	nummod	1812_13
+1812_14	has_surface_form	1974
+1812_15	is_in_sentence	sentence_1812
+1812_15	punct	1812_4
+1812_15	has_surface_form	,
+1812_16	is_in_sentence	sentence_1812
+1812_16	cc	1812_4
+1812_16	has_surface_form	and
+1812_17	is_in_sentence	sentence_1812
+1812_17	advmod	1812_18
+1812_17	has_surface_form	often
+1812_18	is_in_sentence	sentence_1812
+1812_18	conj	1812_4
+1812_18	has_surface_form	appears
+1812_19	is_in_sentence	sentence_1812
+1812_19	prep	1812_18
+1812_19	has_surface_form	with
+1812_20	is_in_sentence	sentence_1812
+1812_20	pobj	1812_19
+1812_20	has_surface_form	him
+1812_21	is_in_sentence	sentence_1812
+1812_21	punct	1812_4
+1812_21	has_surface_form	.
+1812_22	is_in_sentence	sentence_1812
+1812_22	dep	1812_22
+1812_22	has_surface_form	
+Patti Newton	surface_form	Patti Newton
+Patti Newton	has-spouse	Bert Newton
+Bert Newton	surface_form	Bert Newton

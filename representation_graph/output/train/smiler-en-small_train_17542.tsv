@@ -1,0 +1,70 @@
+17541_0	is_in_sentence	sentence_17541
+17541_0	compound	17541_1
+17541_0	has_surface_form	Brad
+17541_0	part_of_entity	Brad Martin
+17541_1	is_in_sentence	sentence_17541
+17541_1	nsubj	17541_13
+17541_1	has_surface_form	Martin
+17541_1	part_of_entity	Brad Martin
+17541_13	is_in_sentence	sentence_17541
+17541_13	ROOT	17541_13
+17541_13	has_surface_form	is
+17541_2	is_in_sentence	sentence_17541
+17541_2	punct	17541_1
+17541_2	has_surface_form	(
+17541_3	is_in_sentence	sentence_17541
+17541_3	acl	17541_1
+17541_3	has_surface_form	born
+17541_4	is_in_sentence	sentence_17541
+17541_4	npadvmod	17541_3
+17541_4	has_surface_form	May
+17541_5	is_in_sentence	sentence_17541
+17541_5	nummod	17541_4
+17541_5	has_surface_form	3
+17541_6	is_in_sentence	sentence_17541
+17541_6	punct	17541_4
+17541_6	has_surface_form	,
+17541_7	is_in_sentence	sentence_17541
+17541_7	nummod	17541_4
+17541_7	has_surface_form	1973
+17541_8	is_in_sentence	sentence_17541
+17541_8	prep	17541_3
+17541_8	has_surface_form	in
+17541_9	is_in_sentence	sentence_17541
+17541_9	pobj	17541_8
+17541_9	has_surface_form	Greenfield
+17541_10	is_in_sentence	sentence_17541
+17541_10	punct	17541_9
+17541_10	has_surface_form	,
+17541_11	is_in_sentence	sentence_17541
+17541_11	appos	17541_9
+17541_11	has_surface_form	Ohio
+17541_12	is_in_sentence	sentence_17541
+17541_12	punct	17541_9
+17541_12	has_surface_form	)
+17541_14	is_in_sentence	sentence_17541
+17541_14	det	17541_18
+17541_14	has_surface_form	an
+17541_18	is_in_sentence	sentence_17541
+17541_18	attr	17541_13
+17541_18	has_surface_form	artist
+17541_15	is_in_sentence	sentence_17541
+17541_15	amod	17541_18
+17541_15	has_surface_form	American
+17541_16	is_in_sentence	sentence_17541
+17541_16	compound	17541_17
+17541_16	has_surface_form	country
+17541_16	part_of_entity	country music
+17541_17	is_in_sentence	sentence_17541
+17541_17	compound	17541_18
+17541_17	has_surface_form	music
+17541_17	part_of_entity	country music
+17541_19	is_in_sentence	sentence_17541
+17541_19	punct	17541_13
+17541_19	has_surface_form	.
+17541_20	is_in_sentence	sentence_17541
+17541_20	dep	17541_13
+17541_20	has_surface_form	
+Brad Martin	surface_form	Brad Martin
+Brad Martin	has-genre	country music
+country music	surface_form	country music

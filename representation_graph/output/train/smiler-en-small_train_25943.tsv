@@ -1,0 +1,70 @@
+25942_0	is_in_sentence	sentence_25942
+25942_0	compound	25942_1
+25942_0	has_surface_form	Danger
+25942_0	part_of_entity	Danger Doom
+25942_1	is_in_sentence	sentence_25942
+25942_1	nsubj	25942_7
+25942_1	has_surface_form	Doom
+25942_1	part_of_entity	Danger Doom
+25942_7	is_in_sentence	sentence_25942
+25942_7	ROOT	25942_7
+25942_7	has_surface_form	was
+25942_2	is_in_sentence	sentence_25942
+25942_2	punct	25942_1
+25942_2	has_surface_form	(
+25942_3	is_in_sentence	sentence_25942
+25942_3	acl	25942_1
+25942_3	has_surface_form	stylized
+25942_4	is_in_sentence	sentence_25942
+25942_4	prep	25942_3
+25942_4	has_surface_form	as
+25942_5	is_in_sentence	sentence_25942
+25942_5	pobj	25942_4
+25942_5	has_surface_form	DANGERDOOM
+25942_6	is_in_sentence	sentence_25942
+25942_6	punct	25942_1
+25942_6	has_surface_form	)
+25942_8	is_in_sentence	sentence_25942
+25942_8	det	25942_11
+25942_8	has_surface_form	a
+25942_11	is_in_sentence	sentence_25942
+25942_11	attr	25942_7
+25942_11	has_surface_form	project
+25942_9	is_in_sentence	sentence_25942
+25942_9	compound	25942_11
+25942_9	has_surface_form	hip
+25942_10	is_in_sentence	sentence_25942
+25942_10	compound	25942_11
+25942_10	has_surface_form	hop
+25942_12	is_in_sentence	sentence_25942
+25942_12	acl	25942_11
+25942_12	has_surface_form	consisting
+25942_13	is_in_sentence	sentence_25942
+25942_13	prep	25942_12
+25942_13	has_surface_form	of
+25942_14	is_in_sentence	sentence_25942
+25942_14	compound	25942_15
+25942_14	has_surface_form	Danger
+25942_14	part_of_entity	Danger Mouse
+25942_15	is_in_sentence	sentence_25942
+25942_15	pobj	25942_13
+25942_15	has_surface_form	Mouse
+25942_15	part_of_entity	Danger Mouse
+25942_16	is_in_sentence	sentence_25942
+25942_16	cc	25942_15
+25942_16	has_surface_form	and
+25942_17	is_in_sentence	sentence_25942
+25942_17	compound	25942_18
+25942_17	has_surface_form	MF
+25942_18	is_in_sentence	sentence_25942
+25942_18	conj	25942_15
+25942_18	has_surface_form	DOOM
+25942_19	is_in_sentence	sentence_25942
+25942_19	punct	25942_7
+25942_19	has_surface_form	.
+25942_20	is_in_sentence	sentence_25942
+25942_20	dep	25942_7
+25942_20	has_surface_form	
+Danger Doom	surface_form	Danger Doom
+Danger Doom	org-has-member	Danger Mouse
+Danger Mouse	surface_form	Danger Mouse

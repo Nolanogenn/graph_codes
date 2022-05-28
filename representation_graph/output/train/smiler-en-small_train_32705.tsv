@@ -1,0 +1,61 @@
+32704_0	is_in_sentence	sentence_32704
+32704_0	compound	32704_1
+32704_0	has_surface_form	Bernard
+32704_0	part_of_entity	Bernard Lancret
+32704_1	is_in_sentence	sentence_32704
+32704_1	nsubj	32704_11
+32704_1	has_surface_form	Lancret
+32704_1	part_of_entity	Bernard Lancret
+32704_11	is_in_sentence	sentence_32704
+32704_11	ROOT	32704_11
+32704_11	has_surface_form	was
+32704_2	is_in_sentence	sentence_32704
+32704_2	punct	32704_1
+32704_2	has_surface_form	(
+32704_3	is_in_sentence	sentence_32704
+32704_3	nummod	32704_4
+32704_3	has_surface_form	4
+32704_4	is_in_sentence	sentence_32704
+32704_4	appos	32704_1
+32704_4	has_surface_form	September
+32704_5	is_in_sentence	sentence_32704
+32704_5	nummod	32704_4
+32704_5	has_surface_form	1912
+32704_6	is_in_sentence	sentence_32704
+32704_6	punct	32704_1
+32704_6	has_surface_form	–
+32704_7	is_in_sentence	sentence_32704
+32704_7	nummod	32704_8
+32704_7	has_surface_form	5
+32704_8	is_in_sentence	sentence_32704
+32704_8	appos	32704_1
+32704_8	has_surface_form	September
+32704_9	is_in_sentence	sentence_32704
+32704_9	nummod	32704_8
+32704_9	has_surface_form	1983
+32704_10	is_in_sentence	sentence_32704
+32704_10	punct	32704_1
+32704_10	has_surface_form	)
+32704_12	is_in_sentence	sentence_32704
+32704_12	det	32704_15
+32704_12	has_surface_form	a
+32704_15	is_in_sentence	sentence_32704
+32704_15	attr	32704_11
+32704_15	has_surface_form	actor
+32704_15	part_of_entity	film actor
+32704_13	is_in_sentence	sentence_32704
+32704_13	amod	32704_15
+32704_13	has_surface_form	French
+32704_14	is_in_sentence	sentence_32704
+32704_14	compound	32704_15
+32704_14	has_surface_form	film
+32704_14	part_of_entity	film actor
+32704_16	is_in_sentence	sentence_32704
+32704_16	punct	32704_11
+32704_16	has_surface_form	.
+32704_17	is_in_sentence	sentence_32704
+32704_17	dep	32704_11
+32704_17	has_surface_form	
+Bernard Lancret	surface_form	Bernard Lancret
+Bernard Lancret	has-occupation	film actor
+film actor	surface_form	film actor

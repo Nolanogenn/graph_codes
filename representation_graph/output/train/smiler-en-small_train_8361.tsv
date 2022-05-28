@@ -1,0 +1,50 @@
+8360_0	is_in_sentence	sentence_8360
+8360_0	det	8360_2
+8360_0	has_surface_form	The
+8360_2	is_in_sentence	sentence_8360
+8360_2	nsubj	8360_3
+8360_2	has_surface_form	Note
+8360_2	part_of_entity	Everun Note
+8360_1	is_in_sentence	sentence_8360
+8360_1	compound	8360_2
+8360_1	has_surface_form	Everun
+8360_1	part_of_entity	Everun Note
+8360_3	is_in_sentence	sentence_8360
+8360_3	ROOT	8360_3
+8360_3	has_surface_form	is
+8360_4	is_in_sentence	sentence_8360
+8360_4	det	8360_8
+8360_4	has_surface_form	a
+8360_8	is_in_sentence	sentence_8360
+8360_8	attr	8360_3
+8360_8	has_surface_form	computer
+8360_5	is_in_sentence	sentence_8360
+8360_5	compound	8360_8
+8360_5	is_entity	subnotebook
+subnotebook	surface_form	subnotebook
+8360_6	is_in_sentence	sentence_8360
+8360_6	punct	8360_7
+8360_6	has_surface_form	/
+8360_7	is_in_sentence	sentence_8360
+8360_7	compound	8360_8
+8360_7	has_surface_form	netbook
+8360_9	is_in_sentence	sentence_8360
+8360_9	acl	8360_8
+8360_9	has_surface_form	designed
+8360_10	is_in_sentence	sentence_8360
+8360_10	agent	8360_9
+8360_10	has_surface_form	by
+8360_11	is_in_sentence	sentence_8360
+8360_11	compound	8360_12
+8360_11	has_surface_form	Raon
+8360_12	is_in_sentence	sentence_8360
+8360_12	pobj	8360_10
+8360_12	has_surface_form	Digital
+8360_13	is_in_sentence	sentence_8360
+8360_13	punct	8360_3
+8360_13	has_surface_form	.
+8360_14	is_in_sentence	sentence_8360
+8360_14	dep	8360_14
+8360_14	has_surface_form	
+Everun Note	surface_form	Everun Note
+Everun Note	has-type	subnotebook

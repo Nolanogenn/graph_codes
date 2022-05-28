@@ -1,0 +1,49 @@
+2132_0	is_in_sentence	sentence_2132
+2132_0	compound	2132_1
+2132_0	has_surface_form	Brother
+2132_0	part_of_entity	Brother Firetribe
+2132_1	is_in_sentence	sentence_2132
+2132_1	nsubj	2132_2
+2132_1	has_surface_form	Firetribe
+2132_1	part_of_entity	Brother Firetribe
+2132_2	is_in_sentence	sentence_2132
+2132_2	ROOT	2132_2
+2132_2	has_surface_form	is
+2132_3	is_in_sentence	sentence_2132
+2132_3	det	2132_5
+2132_3	has_surface_form	a
+2132_5	is_in_sentence	sentence_2132
+2132_5	attr	2132_2
+2132_5	has_surface_form	rock
+2132_5	part_of_entity	hard rock
+2132_4	is_in_sentence	sentence_2132
+2132_4	amod	2132_5
+2132_4	has_surface_form	hard
+2132_4	part_of_entity	hard rock
+2132_6	is_in_sentence	sentence_2132
+2132_6	cc	2132_5
+2132_6	has_surface_form	and
+2132_7	is_in_sentence	sentence_2132
+2132_7	npadvmod	2132_9
+2132_7	has_surface_form	adult
+2132_9	is_in_sentence	sentence_2132
+2132_9	amod	2132_11
+2132_9	has_surface_form	oriented
+2132_8	is_in_sentence	sentence_2132
+2132_8	punct	2132_9
+2132_8	has_surface_form	-
+2132_11	is_in_sentence	sentence_2132
+2132_11	conj	2132_5
+2132_11	has_surface_form	band
+2132_10	is_in_sentence	sentence_2132
+2132_10	compound	2132_11
+2132_10	has_surface_form	rock
+2132_12	is_in_sentence	sentence_2132
+2132_12	punct	2132_2
+2132_12	has_surface_form	.
+2132_13	is_in_sentence	sentence_2132
+2132_13	dep	2132_13
+2132_13	has_surface_form	
+Brother Firetribe	surface_form	Brother Firetribe
+Brother Firetribe	has-genre	hard rock
+hard rock	surface_form	hard rock

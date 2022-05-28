@@ -1,0 +1,82 @@
+7815_0	is_in_sentence	sentence_7815
+7815_0	compound	7815_1
+7815_0	has_surface_form	John
+7815_0	part_of_entity	John Kermit Davis Jr.
+7815_1	is_in_sentence	sentence_7815
+7815_1	compound	7815_3
+7815_1	has_surface_form	Kermit
+7815_1	part_of_entity	John Kermit Davis Jr.
+7815_3	is_in_sentence	sentence_7815
+7815_3	nsubj	7815_11
+7815_3	has_surface_form	Jr.
+7815_3	part_of_entity	John Kermit Davis Jr.
+7815_2	is_in_sentence	sentence_7815
+7815_2	compound	7815_3
+7815_2	has_surface_form	Davis
+7815_2	part_of_entity	John Kermit Davis Jr.
+7815_11	is_in_sentence	sentence_7815
+7815_11	ROOT	7815_11
+7815_11	has_surface_form	is
+7815_4	is_in_sentence	sentence_7815
+7815_4	punct	7815_3
+7815_4	has_surface_form	(
+7815_5	is_in_sentence	sentence_7815
+7815_5	acl	7815_3
+7815_5	has_surface_form	born
+7815_6	is_in_sentence	sentence_7815
+7815_6	npadvmod	7815_5
+7815_6	has_surface_form	December
+7815_7	is_in_sentence	sentence_7815
+7815_7	nummod	7815_6
+7815_7	has_surface_form	14
+7815_8	is_in_sentence	sentence_7815
+7815_8	punct	7815_6
+7815_8	has_surface_form	,
+7815_9	is_in_sentence	sentence_7815
+7815_9	nummod	7815_6
+7815_9	has_surface_form	1959
+7815_10	is_in_sentence	sentence_7815
+7815_10	punct	7815_3
+7815_10	has_surface_form	)
+7815_12	is_in_sentence	sentence_7815
+7815_12	det	7815_16
+7815_12	has_surface_form	an
+7815_16	is_in_sentence	sentence_7815
+7815_16	attr	7815_11
+7815_16	has_surface_form	coach
+7815_16	part_of_entity	college basketball coach
+7815_13	is_in_sentence	sentence_7815
+7815_13	amod	7815_16
+7815_13	has_surface_form	American
+7815_14	is_in_sentence	sentence_7815
+7815_14	compound	7815_15
+7815_14	has_surface_form	college
+7815_14	part_of_entity	college basketball coach
+7815_15	is_in_sentence	sentence_7815
+7815_15	compound	7815_16
+7815_15	has_surface_form	basketball
+7815_15	part_of_entity	college basketball coach
+7815_17	is_in_sentence	sentence_7815
+7815_17	prep	7815_16
+7815_17	has_surface_form	for
+7815_18	is_in_sentence	sentence_7815
+7815_18	det	7815_21
+7815_18	has_surface_form	the
+7815_21	is_in_sentence	sentence_7815
+7815_21	pobj	7815_17
+7815_21	has_surface_form	Rebels
+7815_19	is_in_sentence	sentence_7815
+7815_19	compound	7815_21
+7815_19	has_surface_form	Ole
+7815_20	is_in_sentence	sentence_7815
+7815_20	compound	7815_21
+7815_20	has_surface_form	Miss
+7815_22	is_in_sentence	sentence_7815
+7815_22	punct	7815_11
+7815_22	has_surface_form	.
+7815_23	is_in_sentence	sentence_7815
+7815_23	dep	7815_11
+7815_23	has_surface_form	
+John Kermit Davis Jr.	surface_form	John Kermit Davis Jr.
+John Kermit Davis Jr.	has-type	college basketball coach
+college basketball coach	surface_form	college basketball coach

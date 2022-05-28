@@ -1,0 +1,75 @@
+5751_0	is_in_sentence	sentence_5751
+5751_0	compound	5751_1
+5751_0	has_surface_form	North
+5751_0	part_of_entity	North Carolina Highway 2A
+5751_1	is_in_sentence	sentence_5751
+5751_1	compound	5751_3
+5751_1	has_surface_form	Carolina
+5751_1	part_of_entity	North Carolina Highway 2A
+5751_3	is_in_sentence	sentence_5751
+5751_3	nsubj	5751_8
+5751_3	has_surface_form	2A
+5751_3	part_of_entity	North Carolina Highway 2A
+5751_2	is_in_sentence	sentence_5751
+5751_2	compound	5751_3
+5751_2	has_surface_form	Highway
+5751_2	part_of_entity	North Carolina Highway 2A
+5751_8	is_in_sentence	sentence_5751
+5751_8	ROOT	5751_8
+5751_8	has_surface_form	was
+5751_4	is_in_sentence	sentence_5751
+5751_4	punct	5751_3
+5751_4	has_surface_form	(
+5751_5	is_in_sentence	sentence_5751
+5751_5	compound	5751_6
+5751_5	has_surface_form	NC
+5751_6	is_in_sentence	sentence_5751
+5751_6	appos	5751_3
+5751_6	has_surface_form	2A
+5751_7	is_in_sentence	sentence_5751
+5751_7	punct	5751_3
+5751_7	has_surface_form	)
+5751_9	is_in_sentence	sentence_5751
+5751_9	det	5751_11
+5751_9	has_surface_form	a
+5751_11	is_in_sentence	sentence_5751
+5751_11	attr	5751_8
+5751_11	has_surface_form	highway
+5751_11	part_of_entity	state highway
+5751_10	is_in_sentence	sentence_5751
+5751_10	compound	5751_11
+5751_10	has_surface_form	state
+5751_10	part_of_entity	state highway
+5751_12	is_in_sentence	sentence_5751
+5751_12	acl	5751_11
+5751_12	has_surface_form	located
+5751_13	is_in_sentence	sentence_5751
+5751_13	prep	5751_12
+5751_13	has_surface_form	in
+5751_14	is_in_sentence	sentence_5751
+5751_14	amod	5751_16
+5751_14	has_surface_form	southern
+5751_16	is_in_sentence	sentence_5751
+5751_16	pobj	5751_13
+5751_16	has_surface_form	County
+5751_15	is_in_sentence	sentence_5751
+5751_15	compound	5751_16
+5751_15	has_surface_form	Moore
+5751_17	is_in_sentence	sentence_5751
+5751_17	punct	5751_11
+5751_17	has_surface_form	,
+5751_18	is_in_sentence	sentence_5751
+5751_18	prep	5751_8
+5751_18	has_surface_form	in
+5751_19	is_in_sentence	sentence_5751
+5751_19	det	5751_20
+5751_19	has_surface_form	the
+5751_20	is_in_sentence	sentence_5751
+5751_20	pobj	5751_18
+5751_20	has_surface_form	U.
+5751_21	is_in_sentence	sentence_5751
+5751_21	dep	5751_18
+5751_21	has_surface_form	
+North Carolina Highway 2A	surface_form	North Carolina Highway 2A
+North Carolina Highway 2A	has-type	state highway
+state highway	surface_form	state highway

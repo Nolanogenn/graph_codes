@@ -1,0 +1,65 @@
+22947_0	is_in_sentence	sentence_22947
+22947_0	compound	22947_1
+22947_0	has_surface_form	Filippa
+22947_0	part_of_entity	Filippa Giordano
+22947_1	is_in_sentence	sentence_22947
+22947_1	nsubj	22947_13
+22947_1	has_surface_form	Giordano
+22947_1	part_of_entity	Filippa Giordano
+22947_13	is_in_sentence	sentence_22947
+22947_13	ROOT	22947_13
+22947_13	has_surface_form	is
+22947_2	is_in_sentence	sentence_22947
+22947_2	punct	22947_1
+22947_2	has_surface_form	(
+22947_3	is_in_sentence	sentence_22947
+22947_3	acl	22947_1
+22947_3	has_surface_form	born
+22947_4	is_in_sentence	sentence_22947
+22947_4	npadvmod	22947_3
+22947_4	has_surface_form	February
+22947_5	is_in_sentence	sentence_22947
+22947_5	nummod	22947_4
+22947_5	has_surface_form	14
+22947_6	is_in_sentence	sentence_22947
+22947_6	punct	22947_4
+22947_6	has_surface_form	,
+22947_7	is_in_sentence	sentence_22947
+22947_7	nummod	22947_4
+22947_7	has_surface_form	1974
+22947_8	is_in_sentence	sentence_22947
+22947_8	prep	22947_1
+22947_8	has_surface_form	in
+22947_9	is_in_sentence	sentence_22947
+22947_9	pobj	22947_8
+22947_9	is_entity	Palermo
+Palermo	surface_form	Palermo
+22947_10	is_in_sentence	sentence_22947
+22947_10	punct	22947_9
+22947_10	has_surface_form	,
+22947_11	is_in_sentence	sentence_22947
+22947_11	appos	22947_9
+22947_11	has_surface_form	Italy
+22947_12	is_in_sentence	sentence_22947
+22947_12	punct	22947_1
+22947_12	has_surface_form	)
+22947_14	is_in_sentence	sentence_22947
+22947_14	det	22947_17
+22947_14	has_surface_form	an
+22947_17	is_in_sentence	sentence_22947
+22947_17	attr	22947_13
+22947_17	has_surface_form	singer
+22947_15	is_in_sentence	sentence_22947
+22947_15	amod	22947_17
+22947_15	has_surface_form	Italian
+22947_16	is_in_sentence	sentence_22947
+22947_16	compound	22947_17
+22947_16	has_surface_form	crossover
+22947_18	is_in_sentence	sentence_22947
+22947_18	punct	22947_13
+22947_18	has_surface_form	.
+22947_19	is_in_sentence	sentence_22947
+22947_19	dep	22947_19
+22947_19	has_surface_form	
+Filippa Giordano	surface_form	Filippa Giordano
+Filippa Giordano	birth-place	Palermo

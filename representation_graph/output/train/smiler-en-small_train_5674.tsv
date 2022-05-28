@@ -1,0 +1,62 @@
+5673_0	is_in_sentence	sentence_5673
+5673_0	compound	5673_1
+5673_0	has_surface_form	Katha
+5673_0	part_of_entity	Katha Ithuvare
+5673_1	is_in_sentence	sentence_5673
+5673_1	nsubj	5673_2
+5673_1	has_surface_form	Ithuvare
+5673_1	part_of_entity	Katha Ithuvare
+5673_2	is_in_sentence	sentence_5673
+5673_2	ROOT	5673_2
+5673_2	has_surface_form	is
+5673_3	is_in_sentence	sentence_5673
+5673_3	det	5673_7
+5673_3	has_surface_form	a
+5673_7	is_in_sentence	sentence_5673
+5673_7	attr	5673_2
+5673_7	has_surface_form	film
+5673_4	is_in_sentence	sentence_5673
+5673_4	nummod	5673_7
+5673_4	has_surface_form	1985
+5673_5	is_in_sentence	sentence_5673
+5673_5	amod	5673_7
+5673_5	has_surface_form	Indian
+5673_6	is_in_sentence	sentence_5673
+5673_6	compound	5673_7
+5673_6	has_surface_form	Malayalam
+5673_8	is_in_sentence	sentence_5673
+5673_8	punct	5673_7
+5673_8	has_surface_form	,
+5673_9	is_in_sentence	sentence_5673
+5673_9	acl	5673_7
+5673_9	has_surface_form	directed
+5673_10	is_in_sentence	sentence_5673
+5673_10	agent	5673_9
+5673_10	has_surface_form	by
+5673_11	is_in_sentence	sentence_5673
+5673_11	pobj	5673_10
+5673_11	is_entity	Joshiy
+Joshiy	surface_form	Joshiy
+5673_12	is_in_sentence	sentence_5673
+5673_12	cc	5673_9
+5673_12	has_surface_form	and
+5673_13	is_in_sentence	sentence_5673
+5673_13	conj	5673_9
+5673_13	has_surface_form	produced
+5673_14	is_in_sentence	sentence_5673
+5673_14	agent	5673_13
+5673_14	has_surface_form	by
+5673_15	is_in_sentence	sentence_5673
+5673_15	compound	5673_16
+5673_15	has_surface_form	Joy
+5673_16	is_in_sentence	sentence_5673
+5673_16	pobj	5673_14
+5673_16	has_surface_form	Thomas
+5673_17	is_in_sentence	sentence_5673
+5673_17	punct	5673_2
+5673_17	has_surface_form	.
+5673_18	is_in_sentence	sentence_5673
+5673_18	dep	5673_2
+5673_18	has_surface_form	
+Katha Ithuvare	surface_form	Katha Ithuvare
+Katha Ithuvare	movie-has-director	Joshiy

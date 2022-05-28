@@ -1,0 +1,72 @@
+33078_0	is_in_sentence	sentence_33078
+33078_0	det	33078_1
+33078_0	has_surface_form	The
+33078_1	is_in_sentence	sentence_33078
+33078_1	nsubj	33078_10
+33078_1	has_surface_form	University
+33078_1	part_of_entity	University of Liechtenstein
+33078_10	is_in_sentence	sentence_33078
+33078_10	ROOT	33078_10
+33078_10	has_surface_form	is
+33078_2	is_in_sentence	sentence_33078
+33078_2	prep	33078_1
+33078_2	has_surface_form	of
+33078_2	part_of_entity	University of Liechtenstein
+33078_3	is_in_sentence	sentence_33078
+33078_3	pobj	33078_2
+33078_3	has_surface_form	Liechtenstein
+33078_3	part_of_entity	University of Liechtenstein
+33078_4	is_in_sentence	sentence_33078
+33078_4	punct	33078_5
+33078_4	has_surface_form	(
+33078_5	is_in_sentence	sentence_33078
+33078_5	parataxis	33078_1
+33078_5	has_surface_form	German
+33078_6	is_in_sentence	sentence_33078
+33078_6	punct	33078_5
+33078_6	has_surface_form	:
+33078_7	is_in_sentence	sentence_33078
+33078_7	compound	33078_8
+33078_7	has_surface_form	Universität
+33078_8	is_in_sentence	sentence_33078
+33078_8	appos	33078_5
+33078_8	has_surface_form	Liechtenstein
+33078_9	is_in_sentence	sentence_33078
+33078_9	punct	33078_5
+33078_9	has_surface_form	)
+33078_11	is_in_sentence	sentence_33078
+33078_11	det	33078_13
+33078_11	has_surface_form	a
+33078_13	is_in_sentence	sentence_33078
+33078_13	attr	33078_10
+33078_13	is_entity	university
+33078_12	is_in_sentence	sentence_33078
+33078_12	amod	33078_13
+33078_12	has_surface_form	public
+university	surface_form	university
+33078_14	is_in_sentence	sentence_33078
+33078_14	acl	33078_13
+33078_14	has_surface_form	located
+33078_15	is_in_sentence	sentence_33078
+33078_15	prep	33078_14
+33078_15	has_surface_form	in
+33078_16	is_in_sentence	sentence_33078
+33078_16	det	33078_17
+33078_16	has_surface_form	the
+33078_17	is_in_sentence	sentence_33078
+33078_17	pobj	33078_15
+33078_17	has_surface_form	Principality
+33078_18	is_in_sentence	sentence_33078
+33078_18	prep	33078_17
+33078_18	has_surface_form	of
+33078_19	is_in_sentence	sentence_33078
+33078_19	pobj	33078_18
+33078_19	has_surface_form	Liechtenstein
+33078_20	is_in_sentence	sentence_33078
+33078_20	punct	33078_10
+33078_20	has_surface_form	.
+33078_21	is_in_sentence	sentence_33078
+33078_21	dep	33078_21
+33078_21	has_surface_form	
+University of Liechtenstein	surface_form	University of Liechtenstein
+University of Liechtenstein	has-type	university

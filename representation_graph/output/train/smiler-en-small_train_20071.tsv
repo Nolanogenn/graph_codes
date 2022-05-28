@@ -1,0 +1,79 @@
+20070_0	is_in_sentence	sentence_20070
+20070_0	compound	20070_1
+20070_0	has_surface_form	Kenneth
+20070_0	part_of_entity	Kenneth Higney
+20070_1	is_in_sentence	sentence_20070
+20070_1	nsubj	20070_2
+20070_1	has_surface_form	Higney
+20070_1	part_of_entity	Kenneth Higney
+20070_2	is_in_sentence	sentence_20070
+20070_2	ROOT	20070_2
+20070_2	has_surface_form	is
+20070_3	is_in_sentence	sentence_20070
+20070_3	det	20070_5
+20070_3	has_surface_form	a
+20070_5	is_in_sentence	sentence_20070
+20070_5	attr	20070_2
+20070_5	has_surface_form	musician
+20070_5	part_of_entity	rock musician
+20070_4	is_in_sentence	sentence_20070
+20070_4	compound	20070_5
+20070_4	has_surface_form	rock
+20070_4	part_of_entity	rock musician
+20070_6	is_in_sentence	sentence_20070
+20070_6	poss	20070_8
+20070_6	has_surface_form	whose
+20070_8	is_in_sentence	sentence_20070
+20070_8	nsubj	20070_13
+20070_8	has_surface_form	album
+20070_7	is_in_sentence	sentence_20070
+20070_7	amod	20070_8
+20070_7	has_surface_form	first
+20070_13	is_in_sentence	sentence_20070
+20070_13	relcl	20070_5
+20070_13	has_surface_form	became
+20070_9	is_in_sentence	sentence_20070
+20070_9	punct	20070_8
+20070_9	has_surface_form	,
+20070_10	is_in_sentence	sentence_20070
+20070_10	compound	20070_11
+20070_10	has_surface_form	Attic
+20070_11	is_in_sentence	sentence_20070
+20070_11	appos	20070_8
+20070_11	has_surface_form	Demonstration
+20070_12	is_in_sentence	sentence_20070
+20070_12	punct	20070_8
+20070_12	has_surface_form	,
+20070_14	is_in_sentence	sentence_20070
+20070_14	det	20070_16
+20070_14	has_surface_form	a
+20070_16	is_in_sentence	sentence_20070
+20070_16	attr	20070_13
+20070_16	has_surface_form	favourite
+20070_15	is_in_sentence	sentence_20070
+20070_15	compound	20070_16
+20070_15	has_surface_form	cult
+20070_17	is_in_sentence	sentence_20070
+20070_17	prep	20070_13
+20070_17	has_surface_form	amongst
+20070_18	is_in_sentence	sentence_20070
+20070_18	compound	20070_21
+20070_18	has_surface_form	outsider
+20070_21	is_in_sentence	sentence_20070
+20070_21	pobj	20070_17
+20070_21	has_surface_form	collectors
+20070_19	is_in_sentence	sentence_20070
+20070_19	compound	20070_20
+20070_19	has_surface_form	music
+20070_20	is_in_sentence	sentence_20070
+20070_20	compound	20070_21
+20070_20	has_surface_form	record
+20070_22	is_in_sentence	sentence_20070
+20070_22	punct	20070_2
+20070_22	has_surface_form	.
+20070_23	is_in_sentence	sentence_20070
+20070_23	dep	20070_23
+20070_23	has_surface_form	
+Kenneth Higney	surface_form	Kenneth Higney
+Kenneth Higney	has-type	rock musician
+rock musician	surface_form	rock musician

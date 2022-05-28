@@ -1,0 +1,38 @@
+1191_0	is_in_sentence	sentence_1191
+1191_0	compound	1191_1
+1191_0	has_surface_form	Arclid
+1191_0	part_of_entity	Arclid Green
+1191_1	is_in_sentence	sentence_1191
+1191_1	nsubj	1191_2
+1191_1	has_surface_form	Green
+1191_1	part_of_entity	Arclid Green
+1191_2	is_in_sentence	sentence_1191
+1191_2	ROOT	1191_2
+1191_2	has_surface_form	is
+1191_3	is_in_sentence	sentence_1191
+1191_3	det	1191_4
+1191_3	has_surface_form	a
+1191_4	is_in_sentence	sentence_1191
+1191_4	attr	1191_2
+1191_4	has_surface_form	village
+1191_5	is_in_sentence	sentence_1191
+1191_5	prep	1191_4
+1191_5	has_surface_form	in
+1191_6	is_in_sentence	sentence_1191
+1191_6	pobj	1191_5
+1191_6	is_entity	Cheshire
+Cheshire	surface_form	Cheshire
+1191_7	is_in_sentence	sentence_1191
+1191_7	punct	1191_6
+1191_7	has_surface_form	,
+1191_8	is_in_sentence	sentence_1191
+1191_8	appos	1191_6
+1191_8	has_surface_form	England
+1191_9	is_in_sentence	sentence_1191
+1191_9	punct	1191_2
+1191_9	has_surface_form	.
+1191_10	is_in_sentence	sentence_1191
+1191_10	dep	1191_2
+1191_10	has_surface_form	
+Arclid Green	surface_form	Arclid Green
+Arclid Green	is-where	Cheshire

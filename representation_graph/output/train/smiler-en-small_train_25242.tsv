@@ -1,0 +1,52 @@
+25241_0	is_in_sentence	sentence_25241
+25241_0	compound	25241_1
+25241_0	has_surface_form	Deep
+25241_0	part_of_entity	Deep Creek High School
+25241_1	is_in_sentence	sentence_25241
+25241_1	compound	25241_3
+25241_1	has_surface_form	Creek
+25241_1	part_of_entity	Deep Creek High School
+25241_3	is_in_sentence	sentence_25241
+25241_3	nsubj	25241_4
+25241_3	has_surface_form	School
+25241_3	part_of_entity	Deep Creek High School
+25241_2	is_in_sentence	sentence_25241
+25241_2	compound	25241_3
+25241_2	has_surface_form	High
+25241_2	part_of_entity	Deep Creek High School
+25241_4	is_in_sentence	sentence_25241
+25241_4	ROOT	25241_4
+25241_4	has_surface_form	is
+25241_5	is_in_sentence	sentence_25241
+25241_5	det	25241_8
+25241_5	has_surface_form	a
+25241_8	is_in_sentence	sentence_25241
+25241_8	attr	25241_4
+25241_8	has_surface_form	school
+25241_6	is_in_sentence	sentence_25241
+25241_6	amod	25241_8
+25241_6	has_surface_form	public
+25241_7	is_in_sentence	sentence_25241
+25241_7	amod	25241_8
+25241_7	has_surface_form	secondary
+25241_9	is_in_sentence	sentence_25241
+25241_9	prep	25241_8
+25241_9	has_surface_form	in
+25241_10	is_in_sentence	sentence_25241
+25241_10	pobj	25241_9
+25241_10	has_surface_form	Chesapeake
+25241_11	is_in_sentence	sentence_25241
+25241_11	punct	25241_10
+25241_11	has_surface_form	,
+25241_12	is_in_sentence	sentence_25241
+25241_12	appos	25241_10
+25241_12	has_surface_form	Virginia
+25241_13	is_in_sentence	sentence_25241
+25241_13	punct	25241_4
+25241_13	has_surface_form	.
+25241_14	is_in_sentence	sentence_25241
+25241_14	dep	25241_14
+25241_14	has_surface_form	
+Deep Creek High School	surface_form	Deep Creek High School
+Deep Creek High School	is-where	Chesapeake, Virginia
+Chesapeake, Virginia	surface_form	Chesapeake, Virginia

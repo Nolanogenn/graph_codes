@@ -1,0 +1,86 @@
+30083_0	is_in_sentence	sentence_30083
+30083_0	compound	30083_1
+30083_0	has_surface_form	Serangan
+30083_0	part_of_entity	Serangan Fajar
+30083_1	is_in_sentence	sentence_30083
+30083_1	nsubj	30083_10
+30083_1	has_surface_form	Fajar
+30083_1	part_of_entity	Serangan Fajar
+30083_10	is_in_sentence	sentence_30083
+30083_10	ROOT	30083_10
+30083_10	has_surface_form	is
+30083_2	is_in_sentence	sentence_30083
+30083_2	punct	30083_3
+30083_2	has_surface_form	(
+30083_3	is_in_sentence	sentence_30083
+30083_3	acl	30083_1
+30083_3	has_surface_form	released
+30083_4	is_in_sentence	sentence_30083
+30083_4	advmod	30083_3
+30083_4	has_surface_form	internationally
+30083_5	is_in_sentence	sentence_30083
+30083_5	prep	30083_3
+30083_5	has_surface_form	as
+30083_6	is_in_sentence	sentence_30083
+30083_6	pobj	30083_5
+30083_6	has_surface_form	Attack
+30083_7	is_in_sentence	sentence_30083
+30083_7	prep	30083_6
+30083_7	has_surface_form	at
+30083_8	is_in_sentence	sentence_30083
+30083_8	pobj	30083_7
+30083_8	has_surface_form	Dawn
+30083_9	is_in_sentence	sentence_30083
+30083_9	punct	30083_3
+30083_9	has_surface_form	)
+30083_11	is_in_sentence	sentence_30083
+30083_11	det	30083_15
+30083_11	has_surface_form	a
+30083_15	is_in_sentence	sentence_30083
+30083_15	attr	30083_10
+30083_15	has_surface_form	film
+30083_12	is_in_sentence	sentence_30083
+30083_12	nummod	30083_15
+30083_12	has_surface_form	1982
+30083_13	is_in_sentence	sentence_30083
+30083_13	amod	30083_15
+30083_13	has_surface_form	Indonesian
+30083_14	is_in_sentence	sentence_30083
+30083_14	compound	30083_15
+30083_14	has_surface_form	war
+30083_16	is_in_sentence	sentence_30083
+30083_16	acl	30083_15
+30083_16	has_surface_form	directed
+30083_17	is_in_sentence	sentence_30083
+30083_17	agent	30083_16
+30083_17	has_surface_form	by
+30083_18	is_in_sentence	sentence_30083
+30083_18	compound	30083_20
+30083_18	has_surface_form	Arifin
+30083_18	part_of_entity	Arifin C. Noer
+30083_20	is_in_sentence	sentence_30083
+30083_20	pobj	30083_17
+30083_20	has_surface_form	Noer
+30083_20	part_of_entity	Arifin C. Noer
+30083_19	is_in_sentence	sentence_30083
+30083_19	compound	30083_20
+30083_19	has_surface_form	C.
+30083_19	part_of_entity	Arifin C. Noer
+30083_21	is_in_sentence	sentence_30083
+30083_21	cc	30083_16
+30083_21	has_surface_form	and
+30083_22	is_in_sentence	sentence_30083
+30083_22	conj	30083_16
+30083_22	has_surface_form	produced
+30083_23	is_in_sentence	sentence_30083
+30083_23	agent	30083_22
+30083_23	has_surface_form	by
+30083_24	is_in_sentence	sentence_30083
+30083_24	pobj	30083_23
+30083_24	has_surface_form	G.
+30083_25	is_in_sentence	sentence_30083
+30083_25	dep	30083_23
+30083_25	has_surface_form	
+Serangan Fajar	surface_form	Serangan Fajar
+Serangan Fajar	movie-has-director	Arifin C. Noer
+Arifin C. Noer	surface_form	Arifin C. Noer

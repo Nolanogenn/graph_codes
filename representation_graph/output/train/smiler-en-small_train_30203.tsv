@@ -1,0 +1,63 @@
+30202_0	is_in_sentence	sentence_30202
+30202_0	compound	30202_2
+30202_0	has_surface_form	John
+30202_0	part_of_entity	John George Schmucker
+30202_2	is_in_sentence	sentence_30202
+30202_2	nsubj	30202_3
+30202_2	has_surface_form	Schmucker
+30202_2	part_of_entity	John George Schmucker
+30202_1	is_in_sentence	sentence_30202
+30202_1	compound	30202_2
+30202_1	has_surface_form	George
+30202_1	part_of_entity	John George Schmucker
+30202_3	is_in_sentence	sentence_30202
+30202_3	ROOT	30202_3
+30202_3	has_surface_form	was
+30202_4	is_in_sentence	sentence_30202
+30202_4	det	30202_5
+30202_4	has_surface_form	the
+30202_5	is_in_sentence	sentence_30202
+30202_5	attr	30202_3
+30202_5	has_surface_form	father
+30202_6	is_in_sentence	sentence_30202
+30202_6	prep	30202_5
+30202_6	has_surface_form	of
+30202_7	is_in_sentence	sentence_30202
+30202_7	amod	30202_9
+30202_7	has_surface_form	famous
+30202_9	is_in_sentence	sentence_30202
+30202_9	pobj	30202_6
+30202_9	has_surface_form	theologian
+30202_8	is_in_sentence	sentence_30202
+30202_8	compound	30202_9
+30202_8	has_surface_form	Lutheran
+30202_10	is_in_sentence	sentence_30202
+30202_10	cc	30202_9
+30202_10	has_surface_form	and
+30202_11	is_in_sentence	sentence_30202
+30202_11	conj	30202_9
+30202_11	has_surface_form	educator
+30202_12	is_in_sentence	sentence_30202
+30202_12	punct	30202_5
+30202_12	has_surface_form	,
+30202_13	is_in_sentence	sentence_30202
+30202_13	compound	30202_15
+30202_13	has_surface_form	Samuel
+30202_13	part_of_entity	Samuel Simon Schmucker
+30202_15	is_in_sentence	sentence_30202
+30202_15	appos	30202_5
+30202_15	has_surface_form	Schmucker
+30202_15	part_of_entity	Samuel Simon Schmucker
+30202_14	is_in_sentence	sentence_30202
+30202_14	compound	30202_15
+30202_14	has_surface_form	Simon
+30202_14	part_of_entity	Samuel Simon Schmucker
+30202_16	is_in_sentence	sentence_30202
+30202_16	punct	30202_3
+30202_16	has_surface_form	.
+30202_17	is_in_sentence	sentence_30202
+30202_17	dep	30202_17
+30202_17	has_surface_form	
+John George Schmucker	surface_form	John George Schmucker
+John George Schmucker	has-child	Samuel Simon Schmucker
+Samuel Simon Schmucker	surface_form	Samuel Simon Schmucker

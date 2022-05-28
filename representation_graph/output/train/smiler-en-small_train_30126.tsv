@@ -1,0 +1,47 @@
+30125_0	is_in_sentence	sentence_30125
+30125_0	compound	30125_1
+30125_0	has_surface_form	Brad
+30125_0	part_of_entity	Brad Terry
+30125_1	is_in_sentence	sentence_30125
+30125_1	nsubj	30125_6
+30125_1	has_surface_form	Terry
+30125_1	part_of_entity	Brad Terry
+30125_6	is_in_sentence	sentence_30125
+30125_6	ROOT	30125_6
+30125_6	has_surface_form	is
+30125_2	is_in_sentence	sentence_30125
+30125_2	punct	30125_1
+30125_2	has_surface_form	(
+30125_3	is_in_sentence	sentence_30125
+30125_3	amod	30125_1
+30125_3	has_surface_form	born
+30125_4	is_in_sentence	sentence_30125
+30125_4	npadvmod	30125_3
+30125_4	has_surface_form	1937
+30125_5	is_in_sentence	sentence_30125
+30125_5	punct	30125_1
+30125_5	has_surface_form	)
+30125_7	is_in_sentence	sentence_30125
+30125_7	det	30125_9
+30125_7	has_surface_form	a
+30125_9	is_in_sentence	sentence_30125
+30125_9	attr	30125_6
+30125_9	has_surface_form	clarinetist
+30125_8	is_in_sentence	sentence_30125
+30125_8	compound	30125_9
+30125_8	is_entity	jazz
+jazz	surface_form	jazz
+30125_10	is_in_sentence	sentence_30125
+30125_10	cc	30125_9
+30125_10	has_surface_form	and
+30125_11	is_in_sentence	sentence_30125
+30125_11	conj	30125_9
+30125_11	has_surface_form	whistler
+30125_12	is_in_sentence	sentence_30125
+30125_12	punct	30125_6
+30125_12	has_surface_form	.
+30125_13	is_in_sentence	sentence_30125
+30125_13	dep	30125_13
+30125_13	has_surface_form	
+Brad Terry	surface_form	Brad Terry
+Brad Terry	has-genre	jazz

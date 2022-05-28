@@ -1,0 +1,56 @@
+33906_0	is_in_sentence	sentence_33906
+33906_0	nsubj	33906_5
+33906_0	has_surface_form	Development
+33906_5	is_in_sentence	sentence_33906
+33906_5	ROOT	33906_5
+33906_5	has_surface_form	began
+33906_1	is_in_sentence	sentence_33906
+33906_1	prep	33906_0
+33906_1	has_surface_form	of
+33906_2	is_in_sentence	sentence_33906
+33906_2	det	33906_4
+33906_2	has_surface_form	the
+33906_4	is_in_sentence	sentence_33906
+33906_4	pobj	33906_1
+33906_4	has_surface_form	thermostat
+33906_4	part_of_entity	Smart thermostat
+33906_3	is_in_sentence	sentence_33906
+33906_3	compound	33906_4
+33906_3	has_surface_form	Smart
+33906_3	part_of_entity	Smart thermostat
+33906_6	is_in_sentence	sentence_33906
+33906_6	prep	33906_5
+33906_6	has_surface_form	in
+33906_7	is_in_sentence	sentence_33906
+33906_7	pobj	33906_6
+33906_7	is_entity	2007
+2007	surface_form	2007
+33906_8	is_in_sentence	sentence_33906
+33906_8	prep	33906_5
+33906_8	has_surface_form	with
+33906_9	is_in_sentence	sentence_33906
+33906_9	det	33906_10
+33906_9	has_surface_form	the
+33906_10	is_in_sentence	sentence_33906
+33906_10	pobj	33906_8
+33906_10	has_surface_form	creation
+33906_11	is_in_sentence	sentence_33906
+33906_11	prep	33906_10
+33906_11	has_surface_form	of
+33906_12	is_in_sentence	sentence_33906
+33906_12	det	33906_14
+33906_12	has_surface_form	the
+33906_14	is_in_sentence	sentence_33906
+33906_14	pobj	33906_11
+33906_14	has_surface_form	thermostat
+33906_13	is_in_sentence	sentence_33906
+33906_13	compound	33906_14
+33906_13	has_surface_form	ecobee
+33906_15	is_in_sentence	sentence_33906
+33906_15	punct	33906_5
+33906_15	has_surface_form	.
+33906_16	is_in_sentence	sentence_33906
+33906_16	dep	33906_16
+33906_16	has_surface_form	
+Smart thermostat	surface_form	Smart thermostat
+Smart thermostat	invented-when	2007

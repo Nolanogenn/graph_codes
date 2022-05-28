@@ -1,0 +1,54 @@
+16606_0	is_in_sentence	sentence_16606
+16606_0	det	16606_3
+16606_0	has_surface_form	A
+16606_0	part_of_entity	A Certain Young Man
+16606_3	is_in_sentence	sentence_16606
+16606_3	nsubj	16606_4
+16606_3	has_surface_form	Man
+16606_3	part_of_entity	A Certain Young Man
+16606_1	is_in_sentence	sentence_16606
+16606_1	compound	16606_3
+16606_1	has_surface_form	Certain
+16606_1	part_of_entity	A Certain Young Man
+16606_2	is_in_sentence	sentence_16606
+16606_2	compound	16606_3
+16606_2	has_surface_form	Young
+16606_2	part_of_entity	A Certain Young Man
+16606_4	is_in_sentence	sentence_16606
+16606_4	ROOT	16606_4
+16606_4	has_surface_form	is
+16606_5	is_in_sentence	sentence_16606
+16606_5	det	16606_8
+16606_5	has_surface_form	a
+16606_8	is_in_sentence	sentence_16606
+16606_8	attr	16606_4
+16606_8	has_surface_form	film
+16606_6	is_in_sentence	sentence_16606
+16606_6	nummod	16606_8
+16606_6	has_surface_form	1928
+16606_7	is_in_sentence	sentence_16606
+16606_7	compound	16606_8
+16606_7	has_surface_form	comedy
+16606_9	is_in_sentence	sentence_16606
+16606_9	acl	16606_8
+16606_9	has_surface_form	directed
+16606_10	is_in_sentence	sentence_16606
+16606_10	agent	16606_9
+16606_10	has_surface_form	by
+16606_11	is_in_sentence	sentence_16606
+16606_11	compound	16606_12
+16606_11	has_surface_form	Hobart
+16606_11	part_of_entity	Hobart Henley
+16606_12	is_in_sentence	sentence_16606
+16606_12	pobj	16606_10
+16606_12	has_surface_form	Henley
+16606_12	part_of_entity	Hobart Henley
+16606_13	is_in_sentence	sentence_16606
+16606_13	punct	16606_4
+16606_13	has_surface_form	.
+16606_14	is_in_sentence	sentence_16606
+16606_14	dep	16606_14
+16606_14	has_surface_form	
+A Certain Young Man	surface_form	A Certain Young Man
+A Certain Young Man	movie-has-director	Hobart Henley
+Hobart Henley	surface_form	Hobart Henley

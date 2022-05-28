@@ -1,0 +1,63 @@
+34783_0	is_in_sentence	sentence_34783
+34783_0	compound	34783_2
+34783_0	has_surface_form	Michael
+34783_0	part_of_entity	Michael Francis Moore
+34783_2	is_in_sentence	sentence_34783
+34783_2	nsubj	34783_10
+34783_2	has_surface_form	Moore
+34783_2	part_of_entity	Michael Francis Moore
+34783_1	is_in_sentence	sentence_34783
+34783_1	compound	34783_2
+34783_1	has_surface_form	Francis
+34783_1	part_of_entity	Michael Francis Moore
+34783_10	is_in_sentence	sentence_34783
+34783_10	ROOT	34783_10
+34783_10	has_surface_form	is
+34783_3	is_in_sentence	sentence_34783
+34783_3	punct	34783_2
+34783_3	has_surface_form	(
+34783_4	is_in_sentence	sentence_34783
+34783_4	acl	34783_2
+34783_4	has_surface_form	born
+34783_5	is_in_sentence	sentence_34783
+34783_5	npadvmod	34783_4
+34783_5	has_surface_form	April
+34783_6	is_in_sentence	sentence_34783
+34783_6	nummod	34783_5
+34783_6	has_surface_form	23
+34783_7	is_in_sentence	sentence_34783
+34783_7	punct	34783_5
+34783_7	has_surface_form	,
+34783_8	is_in_sentence	sentence_34783
+34783_8	nummod	34783_5
+34783_8	has_surface_form	1954
+34783_9	is_in_sentence	sentence_34783
+34783_9	punct	34783_2
+34783_9	has_surface_form	)
+34783_11	is_in_sentence	sentence_34783
+34783_11	det	34783_14
+34783_11	has_surface_form	an
+34783_14	is_in_sentence	sentence_34783
+34783_14	attr	34783_10
+34783_14	has_surface_form	filmmaker
+34783_12	is_in_sentence	sentence_34783
+34783_12	amod	34783_14
+34783_12	is_entity	American
+American	surface_form	American
+34783_13	is_in_sentence	sentence_34783
+34783_13	compound	34783_14
+34783_13	has_surface_form	documentary
+34783_15	is_in_sentence	sentence_34783
+34783_15	cc	34783_14
+34783_15	has_surface_form	and
+34783_16	is_in_sentence	sentence_34783
+34783_16	conj	34783_14
+34783_16	has_surface_form	author
+34783_17	is_in_sentence	sentence_34783
+34783_17	punct	34783_10
+34783_17	has_surface_form	.
+34783_18	is_in_sentence	sentence_34783
+34783_18	dep	34783_18
+34783_18	has_surface_form	
+Michael Francis Moore	surface_form	Michael Francis Moore
+Michael Francis Moore	has-nationality	American

@@ -1,0 +1,44 @@
+32133_0	is_in_sentence	sentence_32133
+32133_0	compound	32133_1
+32133_0	has_surface_form	Rüdiger
+32133_0	part_of_entity	Rüdiger Kuhlbrodt
+32133_1	is_in_sentence	sentence_32133
+32133_1	nsubj	32133_2
+32133_1	has_surface_form	Kuhlbrodt
+32133_1	part_of_entity	Rüdiger Kuhlbrodt
+32133_2	is_in_sentence	sentence_32133
+32133_2	ROOT	32133_2
+32133_2	has_surface_form	is
+32133_3	is_in_sentence	sentence_32133
+32133_3	det	32133_8
+32133_3	has_surface_form	a
+32133_8	is_in_sentence	sentence_32133
+32133_8	attr	32133_2
+32133_8	is_entity	actor
+32133_4	is_in_sentence	sentence_32133
+32133_4	amod	32133_8
+32133_4	has_surface_form	German
+32133_5	is_in_sentence	sentence_32133
+32133_5	nmod	32133_8
+32133_5	has_surface_form	film
+32133_6	is_in_sentence	sentence_32133
+32133_6	cc	32133_5
+32133_6	has_surface_form	and
+32133_7	is_in_sentence	sentence_32133
+32133_7	conj	32133_5
+32133_7	has_surface_form	theatre
+actor	surface_form	actor
+32133_9	is_in_sentence	sentence_32133
+32133_9	cc	32133_8
+32133_9	has_surface_form	and
+32133_10	is_in_sentence	sentence_32133
+32133_10	conj	32133_8
+32133_10	has_surface_form	director
+32133_11	is_in_sentence	sentence_32133
+32133_11	punct	32133_2
+32133_11	has_surface_form	.
+32133_12	is_in_sentence	sentence_32133
+32133_12	dep	32133_12
+32133_12	has_surface_form	
+Rüdiger Kuhlbrodt	surface_form	Rüdiger Kuhlbrodt
+Rüdiger Kuhlbrodt	has-occupation	actor

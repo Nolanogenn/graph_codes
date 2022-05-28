@@ -1,0 +1,83 @@
+111_0	is_in_sentence	sentence_111
+111_0	det	111_3
+111_0	has_surface_form	The
+111_3	is_in_sentence	sentence_111
+111_3	nsubj	111_14
+111_3	has_surface_form	Party
+111_3	part_of_entity	Progressive Action Party
+111_1	is_in_sentence	sentence_111
+111_1	compound	111_3
+111_1	has_surface_form	Progressive
+111_1	part_of_entity	Progressive Action Party
+111_2	is_in_sentence	sentence_111
+111_2	compound	111_3
+111_2	has_surface_form	Action
+111_2	part_of_entity	Progressive Action Party
+111_14	is_in_sentence	sentence_111
+111_14	ROOT	111_14
+111_14	has_surface_form	was
+111_4	is_in_sentence	sentence_111
+111_4	punct	111_5
+111_4	has_surface_form	(
+111_5	is_in_sentence	sentence_111
+111_5	appos	111_3
+111_5	has_surface_form	Spanish
+111_6	is_in_sentence	sentence_111
+111_6	punct	111_5
+111_6	has_surface_form	:
+111_7	is_in_sentence	sentence_111
+111_7	nmod	111_10
+111_7	has_surface_form	Partido
+111_10	is_in_sentence	sentence_111
+111_10	appos	111_3
+111_10	has_surface_form	Progresista
+111_8	is_in_sentence	sentence_111
+111_8	nmod	111_10
+111_8	has_surface_form	de
+111_9	is_in_sentence	sentence_111
+111_9	compound	111_10
+111_9	has_surface_form	Acción
+111_11	is_in_sentence	sentence_111
+111_11	punct	111_10
+111_11	has_surface_form	,
+111_12	is_in_sentence	sentence_111
+111_12	appos	111_10
+111_12	has_surface_form	PAP
+111_13	is_in_sentence	sentence_111
+111_13	punct	111_10
+111_13	has_surface_form	)
+111_15	is_in_sentence	sentence_111
+111_15	det	111_18
+111_15	has_surface_form	a
+111_18	is_in_sentence	sentence_111
+111_18	attr	111_14
+111_18	has_surface_form	party
+111_16	is_in_sentence	sentence_111
+111_16	amod	111_18
+111_16	has_surface_form	Cuban
+111_17	is_in_sentence	sentence_111
+111_17	amod	111_18
+111_17	has_surface_form	political
+111_19	is_in_sentence	sentence_111
+111_19	acl	111_18
+111_19	has_surface_form	led
+111_20	is_in_sentence	sentence_111
+111_20	agent	111_19
+111_20	has_surface_form	by
+111_21	is_in_sentence	sentence_111
+111_21	compound	111_22
+111_21	has_surface_form	Fulgencio
+111_21	part_of_entity	Fulgencio Batista
+111_22	is_in_sentence	sentence_111
+111_22	pobj	111_20
+111_22	has_surface_form	Batista
+111_22	part_of_entity	Fulgencio Batista
+111_23	is_in_sentence	sentence_111
+111_23	punct	111_14
+111_23	has_surface_form	.
+111_24	is_in_sentence	sentence_111
+111_24	dep	111_14
+111_24	has_surface_form	
+Progressive Action Party	surface_form	Progressive Action Party
+Progressive Action Party	org-leader	Fulgencio Batista
+Fulgencio Batista	surface_form	Fulgencio Batista

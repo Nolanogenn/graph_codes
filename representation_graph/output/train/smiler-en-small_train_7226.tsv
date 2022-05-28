@@ -1,0 +1,90 @@
+7225_0	is_in_sentence	sentence_7225
+7225_0	compound	7225_1
+7225_0	has_surface_form	Anyang
+7225_0	part_of_entity	Anyang Airport
+7225_1	is_in_sentence	sentence_7225
+7225_1	nsubj	7225_11
+7225_1	has_surface_form	Airport
+7225_1	part_of_entity	Anyang Airport
+7225_11	is_in_sentence	sentence_7225
+7225_11	ROOT	7225_11
+7225_11	has_surface_form	is
+7225_2	is_in_sentence	sentence_7225
+7225_2	punct	7225_3
+7225_2	has_surface_form	(
+7225_3	is_in_sentence	sentence_7225
+7225_3	appos	7225_1
+7225_3	has_surface_form	IATA
+7225_4	is_in_sentence	sentence_7225
+7225_4	punct	7225_3
+7225_4	has_surface_form	:
+7225_5	is_in_sentence	sentence_7225
+7225_5	appos	7225_1
+7225_5	has_surface_form	AYN
+7225_6	is_in_sentence	sentence_7225
+7225_6	punct	7225_5
+7225_6	has_surface_form	,
+7225_7	is_in_sentence	sentence_7225
+7225_7	appos	7225_5
+7225_7	has_surface_form	ICAO
+7225_8	is_in_sentence	sentence_7225
+7225_8	punct	7225_7
+7225_8	has_surface_form	:
+7225_9	is_in_sentence	sentence_7225
+7225_9	appos	7225_7
+7225_9	has_surface_form	ZHAY
+7225_10	is_in_sentence	sentence_7225
+7225_10	punct	7225_5
+7225_10	has_surface_form	)
+7225_12	is_in_sentence	sentence_7225
+7225_12	det	7225_14
+7225_12	has_surface_form	a
+7225_14	is_in_sentence	sentence_7225
+7225_14	attr	7225_11
+7225_14	has_surface_form	airport
+7225_13	is_in_sentence	sentence_7225
+7225_13	amod	7225_14
+7225_13	has_surface_form	military
+7225_15	is_in_sentence	sentence_7225
+7225_15	prep	7225_14
+7225_15	has_surface_form	in
+7225_16	is_in_sentence	sentence_7225
+7225_16	det	7225_17
+7225_16	has_surface_form	the
+7225_17	is_in_sentence	sentence_7225
+7225_17	pobj	7225_15
+7225_17	has_surface_form	city
+7225_18	is_in_sentence	sentence_7225
+7225_18	prep	7225_17
+7225_18	has_surface_form	of
+7225_19	is_in_sentence	sentence_7225
+7225_19	pobj	7225_18
+7225_19	has_surface_form	Anyang
+7225_19	part_of_entity	Anyang in Henan Province
+7225_20	is_in_sentence	sentence_7225
+7225_20	prep	7225_17
+7225_20	has_surface_form	in
+7225_20	part_of_entity	Anyang in Henan Province
+7225_21	is_in_sentence	sentence_7225
+7225_21	compound	7225_22
+7225_21	has_surface_form	Henan
+7225_21	part_of_entity	Anyang in Henan Province
+7225_22	is_in_sentence	sentence_7225
+7225_22	pobj	7225_20
+7225_22	has_surface_form	Province
+7225_22	part_of_entity	Anyang in Henan Province
+7225_23	is_in_sentence	sentence_7225
+7225_23	punct	7225_22
+7225_23	has_surface_form	,
+7225_24	is_in_sentence	sentence_7225
+7225_24	appos	7225_22
+7225_24	has_surface_form	China
+7225_25	is_in_sentence	sentence_7225
+7225_25	punct	7225_11
+7225_25	has_surface_form	.
+7225_26	is_in_sentence	sentence_7225
+7225_26	dep	7225_11
+7225_26	has_surface_form	
+Anyang Airport	surface_form	Anyang Airport
+Anyang Airport	is-where	Anyang in Henan Province
+Anyang in Henan Province	surface_form	Anyang in Henan Province

@@ -1,0 +1,109 @@
+12863_0	is_in_sentence	sentence_12863
+12863_0	det	12863_1
+12863_0	has_surface_form	The
+12863_0	part_of_entity	The Divorce of Lady X
+12863_1	is_in_sentence	sentence_12863
+12863_1	nsubj	12863_5
+12863_1	has_surface_form	Divorce
+12863_1	part_of_entity	The Divorce of Lady X
+12863_5	is_in_sentence	sentence_12863
+12863_5	ccomp	12863_19
+12863_5	has_surface_form	is
+12863_2	is_in_sentence	sentence_12863
+12863_2	prep	12863_1
+12863_2	has_surface_form	of
+12863_2	part_of_entity	The Divorce of Lady X
+12863_3	is_in_sentence	sentence_12863
+12863_3	compound	12863_4
+12863_3	has_surface_form	Lady
+12863_3	part_of_entity	The Divorce of Lady X
+12863_4	is_in_sentence	sentence_12863
+12863_4	pobj	12863_2
+12863_4	has_surface_form	X
+12863_4	part_of_entity	The Divorce of Lady X
+12863_19	is_in_sentence	sentence_12863
+12863_19	ROOT	12863_19
+12863_19	has_surface_form	stars
+12863_6	is_in_sentence	sentence_12863
+12863_6	det	12863_12
+12863_6	has_surface_form	a
+12863_12	is_in_sentence	sentence_12863
+12863_12	attr	12863_5
+12863_12	has_surface_form	film
+12863_7	is_in_sentence	sentence_12863
+12863_7	nummod	12863_12
+12863_7	has_surface_form	1938
+12863_8	is_in_sentence	sentence_12863
+12863_8	amod	12863_12
+12863_8	has_surface_form	British
+12863_9	is_in_sentence	sentence_12863
+12863_9	nmod	12863_12
+12863_9	has_surface_form	colour
+12863_10	is_in_sentence	sentence_12863
+12863_10	amod	12863_12
+12863_10	has_surface_form	romantic
+12863_11	is_in_sentence	sentence_12863
+12863_11	compound	12863_12
+12863_11	has_surface_form	comedy
+12863_13	is_in_sentence	sentence_12863
+12863_13	acl	12863_12
+12863_13	has_surface_form	made
+12863_14	is_in_sentence	sentence_12863
+12863_14	agent	12863_13
+12863_14	has_surface_form	by
+12863_15	is_in_sentence	sentence_12863
+12863_15	compound	12863_16
+12863_15	has_surface_form	London
+12863_16	is_in_sentence	sentence_12863
+12863_16	pobj	12863_14
+12863_16	has_surface_form	Films
+12863_17	is_in_sentence	sentence_12863
+12863_17	punct	12863_19
+12863_17	has_surface_form	;
+12863_18	is_in_sentence	sentence_12863
+12863_18	nsubj	12863_19
+12863_18	has_surface_form	it
+12863_20	is_in_sentence	sentence_12863
+12863_20	compound	12863_21
+12863_20	has_surface_form	Merle
+12863_21	is_in_sentence	sentence_12863
+12863_21	dobj	12863_19
+12863_21	has_surface_form	Oberon
+12863_22	is_in_sentence	sentence_12863
+12863_22	punct	12863_21
+12863_22	has_surface_form	,
+12863_23	is_in_sentence	sentence_12863
+12863_23	compound	12863_24
+12863_23	has_surface_form	Laurence
+12863_24	is_in_sentence	sentence_12863
+12863_24	appos	12863_21
+12863_24	has_surface_form	Olivier
+12863_25	is_in_sentence	sentence_12863
+12863_25	punct	12863_24
+12863_25	has_surface_form	,
+12863_26	is_in_sentence	sentence_12863
+12863_26	compound	12863_27
+12863_26	has_surface_form	Ralph
+12863_26	part_of_entity	Ralph Richardson
+12863_27	is_in_sentence	sentence_12863
+12863_27	conj	12863_24
+12863_27	has_surface_form	Richardson
+12863_27	part_of_entity	Ralph Richardson
+12863_28	is_in_sentence	sentence_12863
+12863_28	cc	12863_27
+12863_28	has_surface_form	and
+12863_29	is_in_sentence	sentence_12863
+12863_29	compound	12863_30
+12863_29	has_surface_form	Binnie
+12863_30	is_in_sentence	sentence_12863
+12863_30	conj	12863_27
+12863_30	has_surface_form	Barnes
+12863_31	is_in_sentence	sentence_12863
+12863_31	punct	12863_19
+12863_31	has_surface_form	.
+12863_32	is_in_sentence	sentence_12863
+12863_32	dep	12863_32
+12863_32	has_surface_form	
+The Divorce of Lady X	surface_form	The Divorce of Lady X
+The Divorce of Lady X	starring	Ralph Richardson
+Ralph Richardson	surface_form	Ralph Richardson

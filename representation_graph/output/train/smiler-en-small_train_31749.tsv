@@ -1,0 +1,63 @@
+31748_0	is_in_sentence	sentence_31748
+31748_0	nsubj	31748_3
+31748_0	has_surface_form	Newark
+31748_0	part_of_entity	Newark and Sherwood
+31748_3	is_in_sentence	sentence_31748
+31748_3	ROOT	31748_3
+31748_3	has_surface_form	is
+31748_1	is_in_sentence	sentence_31748
+31748_1	cc	31748_0
+31748_1	has_surface_form	and
+31748_1	part_of_entity	Newark and Sherwood
+31748_2	is_in_sentence	sentence_31748
+31748_2	conj	31748_0
+31748_2	has_surface_form	Sherwood
+31748_2	part_of_entity	Newark and Sherwood
+31748_4	is_in_sentence	sentence_31748
+31748_4	det	31748_7
+31748_4	has_surface_form	a
+31748_7	is_in_sentence	sentence_31748
+31748_7	attr	31748_3
+31748_7	is_entity	district
+31748_5	is_in_sentence	sentence_31748
+31748_5	amod	31748_7
+31748_5	has_surface_form	local
+31748_6	is_in_sentence	sentence_31748
+31748_6	compound	31748_7
+31748_6	has_surface_form	government
+district	surface_form	district
+31748_8	is_in_sentence	sentence_31748
+31748_8	cc	31748_3
+31748_8	has_surface_form	and
+31748_9	is_in_sentence	sentence_31748
+31748_9	conj	31748_3
+31748_9	has_surface_form	is
+31748_10	is_in_sentence	sentence_31748
+31748_10	det	31748_12
+31748_10	has_surface_form	the
+31748_12	is_in_sentence	sentence_31748
+31748_12	attr	31748_9
+31748_12	is_entity	district
+31748_11	is_in_sentence	sentence_31748
+31748_11	amod	31748_12
+31748_11	has_surface_form	largest
+31748_13	is_in_sentence	sentence_31748
+31748_13	prep	31748_12
+31748_13	has_surface_form	in
+31748_14	is_in_sentence	sentence_31748
+31748_14	pobj	31748_13
+31748_14	has_surface_form	Nottinghamshire
+31748_15	is_in_sentence	sentence_31748
+31748_15	punct	31748_14
+31748_15	has_surface_form	,
+31748_16	is_in_sentence	sentence_31748
+31748_16	appos	31748_14
+31748_16	has_surface_form	England
+31748_17	is_in_sentence	sentence_31748
+31748_17	punct	31748_3
+31748_17	has_surface_form	.
+31748_18	is_in_sentence	sentence_31748
+31748_18	dep	31748_3
+31748_18	has_surface_form	
+Newark and Sherwood	surface_form	Newark and Sherwood
+Newark and Sherwood	has-type	district

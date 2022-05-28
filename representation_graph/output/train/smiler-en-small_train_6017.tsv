@@ -1,0 +1,56 @@
+6016_0	is_in_sentence	sentence_6016
+6016_0	compound	6016_1
+6016_0	has_surface_form	Season
+6016_0	part_of_entity	Season Hubley
+6016_1	is_in_sentence	sentence_6016
+6016_1	nsubj	6016_9
+6016_1	has_surface_form	Hubley
+6016_1	part_of_entity	Season Hubley
+6016_9	is_in_sentence	sentence_6016
+6016_9	ROOT	6016_9
+6016_9	has_surface_form	is
+6016_2	is_in_sentence	sentence_6016
+6016_2	punct	6016_1
+6016_2	has_surface_form	(
+6016_3	is_in_sentence	sentence_6016
+6016_3	acl	6016_1
+6016_3	has_surface_form	born
+6016_4	is_in_sentence	sentence_6016
+6016_4	npadvmod	6016_3
+6016_4	has_surface_form	March
+6016_5	is_in_sentence	sentence_6016
+6016_5	nummod	6016_4
+6016_5	has_surface_form	14
+6016_6	is_in_sentence	sentence_6016
+6016_6	punct	6016_4
+6016_6	has_surface_form	,
+6016_7	is_in_sentence	sentence_6016
+6016_7	nummod	6016_4
+6016_7	has_surface_form	1951
+6016_8	is_in_sentence	sentence_6016
+6016_8	punct	6016_1
+6016_8	has_surface_form	)
+6016_10	is_in_sentence	sentence_6016
+6016_10	det	6016_12
+6016_10	has_surface_form	an
+6016_12	is_in_sentence	sentence_6016
+6016_12	attr	6016_9
+6016_12	is_entity	actress
+6016_11	is_in_sentence	sentence_6016
+6016_11	amod	6016_12
+6016_11	has_surface_form	American
+actress	surface_form	actress
+6016_13	is_in_sentence	sentence_6016
+6016_13	cc	6016_12
+6016_13	has_surface_form	and
+6016_14	is_in_sentence	sentence_6016
+6016_14	conj	6016_12
+6016_14	has_surface_form	singer
+6016_15	is_in_sentence	sentence_6016
+6016_15	punct	6016_9
+6016_15	has_surface_form	.
+6016_16	is_in_sentence	sentence_6016
+6016_16	dep	6016_16
+6016_16	has_surface_form	
+Season Hubley	surface_form	Season Hubley
+Season Hubley	has-occupation	actress

@@ -1,0 +1,88 @@
+2269_0	is_in_sentence	sentence_2269
+2269_0	nummod	2269_1
+2269_0	has_surface_form	80,000
+2269_0	part_of_entity	80,000 Suspects
+2269_1	is_in_sentence	sentence_2269
+2269_1	nsubj	2269_2
+2269_1	has_surface_form	Suspects
+2269_1	part_of_entity	80,000 Suspects
+2269_2	is_in_sentence	sentence_2269
+2269_2	ROOT	2269_2
+2269_2	has_surface_form	is
+2269_3	is_in_sentence	sentence_2269
+2269_3	det	2269_6
+2269_3	has_surface_form	a
+2269_6	is_in_sentence	sentence_2269
+2269_6	attr	2269_2
+2269_6	has_surface_form	film
+2269_4	is_in_sentence	sentence_2269
+2269_4	nummod	2269_6
+2269_4	has_surface_form	1963
+2269_5	is_in_sentence	sentence_2269
+2269_5	amod	2269_6
+2269_5	has_surface_form	British
+2269_7	is_in_sentence	sentence_2269
+2269_7	acl	2269_6
+2269_7	has_surface_form	directed
+2269_8	is_in_sentence	sentence_2269
+2269_8	agent	2269_7
+2269_8	has_surface_form	by
+2269_9	is_in_sentence	sentence_2269
+2269_9	compound	2269_10
+2269_9	has_surface_form	Val
+2269_10	is_in_sentence	sentence_2269
+2269_10	pobj	2269_8
+2269_10	has_surface_form	Guest
+2269_11	is_in_sentence	sentence_2269
+2269_11	cc	2269_7
+2269_11	has_surface_form	and
+2269_12	is_in_sentence	sentence_2269
+2269_12	conj	2269_7
+2269_12	has_surface_form	starring
+2269_13	is_in_sentence	sentence_2269
+2269_13	compound	2269_14
+2269_13	has_surface_form	Claire
+2269_14	is_in_sentence	sentence_2269
+2269_14	dobj	2269_12
+2269_14	has_surface_form	Bloom
+2269_15	is_in_sentence	sentence_2269
+2269_15	punct	2269_14
+2269_15	has_surface_form	,
+2269_16	is_in_sentence	sentence_2269
+2269_16	compound	2269_17
+2269_16	has_surface_form	Richard
+2269_16	part_of_entity	Richard Johnson
+2269_17	is_in_sentence	sentence_2269
+2269_17	appos	2269_14
+2269_17	has_surface_form	Johnson
+2269_17	part_of_entity	Richard Johnson
+2269_18	is_in_sentence	sentence_2269
+2269_18	punct	2269_17
+2269_18	has_surface_form	,
+2269_19	is_in_sentence	sentence_2269
+2269_19	compound	2269_20
+2269_19	has_surface_form	Yolande
+2269_20	is_in_sentence	sentence_2269
+2269_20	conj	2269_17
+2269_20	has_surface_form	Donlan
+2269_21	is_in_sentence	sentence_2269
+2269_21	punct	2269_20
+2269_21	has_surface_form	,
+2269_22	is_in_sentence	sentence_2269
+2269_22	cc	2269_20
+2269_22	has_surface_form	and
+2269_23	is_in_sentence	sentence_2269
+2269_23	compound	2269_24
+2269_23	has_surface_form	Cyril
+2269_24	is_in_sentence	sentence_2269
+2269_24	conj	2269_20
+2269_24	has_surface_form	Cusack
+2269_25	is_in_sentence	sentence_2269
+2269_25	punct	2269_2
+2269_25	has_surface_form	.
+2269_26	is_in_sentence	sentence_2269
+2269_26	dep	2269_26
+2269_26	has_surface_form	
+80,000 Suspects	surface_form	80,000 Suspects
+80,000 Suspects	starring	Richard Johnson
+Richard Johnson	surface_form	Richard Johnson

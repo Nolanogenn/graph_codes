@@ -1,0 +1,70 @@
+22683_0	is_in_sentence	sentence_22683
+22683_0	compound	22683_1
+22683_0	has_surface_form	Eve
+22683_0	part_of_entity	Eve Matheson
+22683_1	is_in_sentence	sentence_22683
+22683_1	nsubj	22683_2
+22683_1	has_surface_form	Matheson
+22683_1	part_of_entity	Eve Matheson
+22683_2	is_in_sentence	sentence_22683
+22683_2	ROOT	22683_2
+22683_2	has_surface_form	is
+22683_3	is_in_sentence	sentence_22683
+22683_3	acomp	22683_2
+22683_3	has_surface_form	married
+22683_4	is_in_sentence	sentence_22683
+22683_4	prep	22683_3
+22683_4	has_surface_form	to
+22683_5	is_in_sentence	sentence_22683
+22683_5	det	22683_6
+22683_5	has_surface_form	the
+22683_6	is_in_sentence	sentence_22683
+22683_6	pobj	22683_4
+22683_6	has_surface_form	actor
+22683_7	is_in_sentence	sentence_22683
+22683_7	compound	22683_8
+22683_7	has_surface_form	Phil
+22683_7	part_of_entity	Phil Davis
+22683_8	is_in_sentence	sentence_22683
+22683_8	appos	22683_6
+22683_8	has_surface_form	Davis
+22683_8	part_of_entity	Phil Davis
+22683_9	is_in_sentence	sentence_22683
+22683_9	cc	22683_2
+22683_9	has_surface_form	and
+22683_10	is_in_sentence	sentence_22683
+22683_10	nsubj	22683_11
+22683_10	has_surface_form	they
+22683_11	is_in_sentence	sentence_22683
+22683_11	conj	22683_2
+22683_11	has_surface_form	have
+22683_12	is_in_sentence	sentence_22683
+22683_12	nummod	22683_13
+22683_12	has_surface_form	one
+22683_13	is_in_sentence	sentence_22683
+22683_13	dobj	22683_11
+22683_13	has_surface_form	daughter
+22683_14	is_in_sentence	sentence_22683
+22683_14	punct	22683_13
+22683_14	has_surface_form	,
+22683_15	is_in_sentence	sentence_22683
+22683_15	appos	22683_13
+22683_15	has_surface_form	Amy
+22683_16	is_in_sentence	sentence_22683
+22683_16	punct	22683_13
+22683_16	has_surface_form	,
+22683_17	is_in_sentence	sentence_22683
+22683_17	acl	22683_13
+22683_17	has_surface_form	born
+22683_18	is_in_sentence	sentence_22683
+22683_18	npadvmod	22683_17
+22683_18	has_surface_form	2002
+22683_19	is_in_sentence	sentence_22683
+22683_19	punct	22683_11
+22683_19	has_surface_form	.
+22683_20	is_in_sentence	sentence_22683
+22683_20	dep	22683_20
+22683_20	has_surface_form	
+Eve Matheson	surface_form	Eve Matheson
+Eve Matheson	has-spouse	Phil Davis
+Phil Davis	surface_form	Phil Davis

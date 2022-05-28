@@ -1,0 +1,47 @@
+20947_0	is_in_sentence	sentence_20947
+20947_0	compound	20947_1
+20947_0	has_surface_form	Navin
+20947_0	part_of_entity	Navin Chowdhry
+20947_1	is_in_sentence	sentence_20947
+20947_1	nsubj	20947_8
+20947_1	has_surface_form	Chowdhry
+20947_1	part_of_entity	Navin Chowdhry
+20947_8	is_in_sentence	sentence_20947
+20947_8	ROOT	20947_8
+20947_8	has_surface_form	is
+20947_2	is_in_sentence	sentence_20947
+20947_2	punct	20947_1
+20947_2	has_surface_form	(
+20947_3	is_in_sentence	sentence_20947
+20947_3	acl	20947_1
+20947_3	has_surface_form	born
+20947_4	is_in_sentence	sentence_20947
+20947_4	nummod	20947_5
+20947_4	has_surface_form	1
+20947_5	is_in_sentence	sentence_20947
+20947_5	npadvmod	20947_3
+20947_5	has_surface_form	January
+20947_6	is_in_sentence	sentence_20947
+20947_6	nummod	20947_5
+20947_6	has_surface_form	1971
+20947_7	is_in_sentence	sentence_20947
+20947_7	punct	20947_1
+20947_7	has_surface_form	)
+20947_9	is_in_sentence	sentence_20947
+20947_9	det	20947_11
+20947_9	has_surface_form	a
+20947_11	is_in_sentence	sentence_20947
+20947_11	attr	20947_8
+20947_11	is_entity	actor
+20947_10	is_in_sentence	sentence_20947
+20947_10	amod	20947_11
+20947_10	has_surface_form	British
+actor	surface_form	actor
+20947_12	is_in_sentence	sentence_20947
+20947_12	punct	20947_8
+20947_12	has_surface_form	.
+20947_13	is_in_sentence	sentence_20947
+20947_13	dep	20947_8
+20947_13	has_surface_form	
+Navin Chowdhry	surface_form	Navin Chowdhry
+Navin Chowdhry	has-occupation	actor

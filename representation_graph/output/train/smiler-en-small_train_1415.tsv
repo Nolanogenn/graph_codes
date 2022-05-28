@@ -1,0 +1,53 @@
+1414_0	is_in_sentence	sentence_1414
+1414_0	compound	1414_1
+1414_0	has_surface_form	Daniela
+1414_0	part_of_entity	Daniela Sea
+1414_1	is_in_sentence	sentence_1414
+1414_1	nsubj	1414_6
+1414_1	has_surface_form	Sea
+1414_1	part_of_entity	Daniela Sea
+1414_6	is_in_sentence	sentence_1414
+1414_6	ROOT	1414_6
+1414_6	has_surface_form	is
+1414_2	is_in_sentence	sentence_1414
+1414_2	punct	1414_1
+1414_2	has_surface_form	(
+1414_3	is_in_sentence	sentence_1414
+1414_3	amod	1414_1
+1414_3	has_surface_form	born
+1414_4	is_in_sentence	sentence_1414
+1414_4	npadvmod	1414_3
+1414_4	has_surface_form	1977
+1414_5	is_in_sentence	sentence_1414
+1414_5	punct	1414_1
+1414_5	has_surface_form	)
+1414_7	is_in_sentence	sentence_1414
+1414_7	det	1414_9
+1414_7	has_surface_form	an
+1414_9	is_in_sentence	sentence_1414
+1414_9	attr	1414_6
+1414_9	has_surface_form	filmmaker
+1414_8	is_in_sentence	sentence_1414
+1414_8	amod	1414_9
+1414_8	has_surface_form	American
+1414_10	is_in_sentence	sentence_1414
+1414_10	punct	1414_9
+1414_10	has_surface_form	,
+1414_11	is_in_sentence	sentence_1414
+1414_11	conj	1414_9
+1414_11	has_surface_form	actress
+1414_12	is_in_sentence	sentence_1414
+1414_12	cc	1414_11
+1414_12	has_surface_form	and
+1414_13	is_in_sentence	sentence_1414
+1414_13	conj	1414_11
+1414_13	is_entity	musician
+musician	surface_form	musician
+1414_14	is_in_sentence	sentence_1414
+1414_14	punct	1414_6
+1414_14	has_surface_form	.
+1414_15	is_in_sentence	sentence_1414
+1414_15	dep	1414_15
+1414_15	has_surface_form	
+Daniela Sea	surface_form	Daniela Sea
+Daniela Sea	has-occupation	musician

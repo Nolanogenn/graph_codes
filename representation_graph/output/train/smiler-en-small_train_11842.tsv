@@ -1,0 +1,65 @@
+11841_0	is_in_sentence	sentence_11841
+11841_0	det	11841_2
+11841_0	has_surface_form	The
+11841_2	is_in_sentence	sentence_11841
+11841_2	nsubjpass	11841_4
+11841_2	has_surface_form	printer
+11841_2	part_of_entity	laser printer
+11841_1	is_in_sentence	sentence_11841
+11841_1	compound	11841_2
+11841_1	has_surface_form	laser
+11841_1	part_of_entity	laser printer
+11841_4	is_in_sentence	sentence_11841
+11841_4	ROOT	11841_4
+11841_4	has_surface_form	invented
+11841_3	is_in_sentence	sentence_11841
+11841_3	auxpass	11841_4
+11841_3	has_surface_form	was
+11841_5	is_in_sentence	sentence_11841
+11841_5	prep	11841_4
+11841_5	has_surface_form	in
+11841_6	is_in_sentence	sentence_11841
+11841_6	pobj	11841_5
+11841_6	has_surface_form	1969
+11841_7	is_in_sentence	sentence_11841
+11841_7	agent	11841_4
+11841_7	has_surface_form	by
+11841_8	is_in_sentence	sentence_11841
+11841_8	compound	11841_9
+11841_8	is_entity	Xerox
+11841_9	is_in_sentence	sentence_11841
+11841_9	compound	11841_11
+11841_9	has_surface_form	researcher
+Xerox	surface_form	Xerox
+Xerox	first-product	laser printer
+11841_11	is_in_sentence	sentence_11841
+11841_11	pobj	11841_7
+11841_11	has_surface_form	Starkweather
+11841_10	is_in_sentence	sentence_11841
+11841_10	compound	11841_11
+11841_10	has_surface_form	Gary
+11841_12	is_in_sentence	sentence_11841
+11841_12	prep	11841_4
+11841_12	has_surface_form	by
+11841_13	is_in_sentence	sentence_11841
+11841_13	pcomp	11841_12
+11841_13	has_surface_form	modifying
+11841_14	is_in_sentence	sentence_11841
+11841_14	det	11841_17
+11841_14	has_surface_form	a
+11841_17	is_in_sentence	sentence_11841
+11841_17	dobj	11841_13
+11841_17	has_surface_form	copier
+11841_15	is_in_sentence	sentence_11841
+11841_15	nmod	11841_17
+11841_15	is_entity	Xerox
+11841_16	is_in_sentence	sentence_11841
+11841_16	nummod	11841_17
+11841_16	has_surface_form	7000
+11841_18	is_in_sentence	sentence_11841
+11841_18	punct	11841_4
+11841_18	has_surface_form	.
+11841_19	is_in_sentence	sentence_11841
+11841_19	dep	11841_4
+11841_19	has_surface_form	
+laser printer	surface_form	laser printer

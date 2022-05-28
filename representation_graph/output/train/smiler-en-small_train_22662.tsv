@@ -1,0 +1,55 @@
+22661_0	is_in_sentence	sentence_22661
+22661_0	compound	22661_1
+22661_0	has_surface_form	Robin
+22661_0	part_of_entity	Robin Pflugrad
+22661_1	is_in_sentence	sentence_22661
+22661_1	nsubj	22661_9
+22661_1	has_surface_form	Pflugrad
+22661_1	part_of_entity	Robin Pflugrad
+22661_9	is_in_sentence	sentence_22661
+22661_9	ROOT	22661_9
+22661_9	has_surface_form	is
+22661_2	is_in_sentence	sentence_22661
+22661_2	punct	22661_1
+22661_2	has_surface_form	(
+22661_3	is_in_sentence	sentence_22661
+22661_3	acl	22661_1
+22661_3	has_surface_form	born
+22661_4	is_in_sentence	sentence_22661
+22661_4	npadvmod	22661_3
+22661_4	has_surface_form	November
+22661_5	is_in_sentence	sentence_22661
+22661_5	nummod	22661_4
+22661_5	has_surface_form	29
+22661_6	is_in_sentence	sentence_22661
+22661_6	punct	22661_4
+22661_6	has_surface_form	,
+22661_7	is_in_sentence	sentence_22661
+22661_7	nummod	22661_4
+22661_7	has_surface_form	1958
+22661_8	is_in_sentence	sentence_22661
+22661_8	punct	22661_1
+22661_8	has_surface_form	)
+22661_10	is_in_sentence	sentence_22661
+22661_10	det	22661_13
+22661_10	has_surface_form	an
+22661_13	is_in_sentence	sentence_22661
+22661_13	attr	22661_9
+22661_13	has_surface_form	coach
+22661_13	part_of_entity	football coach
+22661_11	is_in_sentence	sentence_22661
+22661_11	amod	22661_13
+22661_11	has_surface_form	American
+22661_12	is_in_sentence	sentence_22661
+22661_12	compound	22661_13
+22661_12	has_surface_form	football
+22661_12	part_of_entity	football coach
+22661_14	is_in_sentence	sentence_22661
+22661_14	punct	22661_9
+22661_14	has_surface_form	.
+22661_15	is_in_sentence	sentence_22661
+22661_15	dep	22661_15
+22661_15	has_surface_form	
+Robin Pflugrad	surface_form	Robin Pflugrad
+Robin Pflugrad	has-type	football coach
+football coach	surface_form	football coach

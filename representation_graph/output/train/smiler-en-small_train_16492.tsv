@@ -1,0 +1,94 @@
+16491_0	is_in_sentence	sentence_16491
+16491_0	compound	16491_1
+16491_0	has_surface_form	Higashi
+16491_0	part_of_entity	Higashi Nippon International University
+16491_1	is_in_sentence	sentence_16491
+16491_1	compound	16491_3
+16491_1	has_surface_form	Nippon
+16491_1	part_of_entity	Higashi Nippon International University
+16491_3	is_in_sentence	sentence_16491
+16491_3	nsubj	16491_12
+16491_3	has_surface_form	University
+16491_3	part_of_entity	Higashi Nippon International University
+16491_2	is_in_sentence	sentence_16491
+16491_2	compound	16491_3
+16491_2	has_surface_form	International
+16491_2	part_of_entity	Higashi Nippon International University
+16491_12	is_in_sentence	sentence_16491
+16491_12	ROOT	16491_12
+16491_12	has_surface_form	is
+16491_4	is_in_sentence	sentence_16491
+16491_4	punct	16491_5
+16491_4	has_surface_form	(
+16491_5	is_in_sentence	sentence_16491
+16491_5	appos	16491_3
+16491_5	has_surface_form	東日本国際大学
+16491_6	is_in_sentence	sentence_16491
+16491_6	punct	16491_5
+16491_6	has_surface_form	,
+16491_7	is_in_sentence	sentence_16491
+16491_7	compound	16491_8
+16491_7	has_surface_form	Higashi
+16491_8	is_in_sentence	sentence_16491
+16491_8	compound	16491_10
+16491_8	has_surface_form	Nippon
+16491_10	is_in_sentence	sentence_16491
+16491_10	npadvmod	16491_5
+16491_10	has_surface_form	Daigaku
+16491_9	is_in_sentence	sentence_16491
+16491_9	compound	16491_10
+16491_9	has_surface_form	Kokusai
+16491_11	is_in_sentence	sentence_16491
+16491_11	punct	16491_5
+16491_11	has_surface_form	)
+16491_13	is_in_sentence	sentence_16491
+16491_13	det	16491_15
+16491_13	has_surface_form	a
+16491_15	is_in_sentence	sentence_16491
+16491_15	attr	16491_12
+16491_15	has_surface_form	university
+16491_14	is_in_sentence	sentence_16491
+16491_14	amod	16491_15
+16491_14	has_surface_form	private
+16491_16	is_in_sentence	sentence_16491
+16491_16	punct	16491_15
+16491_16	has_surface_form	,
+16491_17	is_in_sentence	sentence_16491
+16491_17	acl	16491_15
+16491_17	has_surface_form	located
+16491_18	is_in_sentence	sentence_16491
+16491_18	prep	16491_17
+16491_18	has_surface_form	in
+16491_19	is_in_sentence	sentence_16491
+16491_19	det	16491_20
+16491_19	has_surface_form	the
+16491_20	is_in_sentence	sentence_16491
+16491_20	pobj	16491_18
+16491_20	has_surface_form	city
+16491_21	is_in_sentence	sentence_16491
+16491_21	prep	16491_20
+16491_21	has_surface_form	of
+16491_22	is_in_sentence	sentence_16491
+16491_22	pobj	16491_21
+16491_22	has_surface_form	Iwaki
+16491_23	is_in_sentence	sentence_16491
+16491_23	punct	16491_22
+16491_23	has_surface_form	,
+16491_24	is_in_sentence	sentence_16491
+16491_24	conj	16491_22
+16491_24	has_surface_form	Fukushima
+16491_25	is_in_sentence	sentence_16491
+16491_25	punct	16491_24
+16491_25	has_surface_form	,
+16491_26	is_in_sentence	sentence_16491
+16491_26	appos	16491_24
+16491_26	has_surface_form	Japan
+16491_27	is_in_sentence	sentence_16491
+16491_27	punct	16491_12
+16491_27	has_surface_form	.
+16491_28	is_in_sentence	sentence_16491
+16491_28	dep	16491_12
+16491_28	has_surface_form	
+Higashi Nippon International University	surface_form	Higashi Nippon International University
+Higashi Nippon International University	is-where	Iwaki, Fukushima
+Iwaki, Fukushima	surface_form	Iwaki, Fukushima

@@ -1,0 +1,55 @@
+21355_0	is_in_sentence	sentence_21355
+21355_0	compound	21355_1
+21355_0	has_surface_form	Elliot
+21355_0	part_of_entity	Elliot Uzelac
+21355_1	is_in_sentence	sentence_21355
+21355_1	nsubj	21355_9
+21355_1	has_surface_form	Uzelac
+21355_1	part_of_entity	Elliot Uzelac
+21355_9	is_in_sentence	sentence_21355
+21355_9	ROOT	21355_9
+21355_9	has_surface_form	is
+21355_2	is_in_sentence	sentence_21355
+21355_2	punct	21355_1
+21355_2	has_surface_form	(
+21355_3	is_in_sentence	sentence_21355
+21355_3	acl	21355_1
+21355_3	has_surface_form	born
+21355_4	is_in_sentence	sentence_21355
+21355_4	npadvmod	21355_3
+21355_4	has_surface_form	July
+21355_5	is_in_sentence	sentence_21355
+21355_5	nummod	21355_4
+21355_5	has_surface_form	24
+21355_6	is_in_sentence	sentence_21355
+21355_6	punct	21355_4
+21355_6	has_surface_form	,
+21355_7	is_in_sentence	sentence_21355
+21355_7	nummod	21355_4
+21355_7	has_surface_form	1941
+21355_8	is_in_sentence	sentence_21355
+21355_8	punct	21355_1
+21355_8	has_surface_form	)
+21355_10	is_in_sentence	sentence_21355
+21355_10	det	21355_13
+21355_10	has_surface_form	an
+21355_13	is_in_sentence	sentence_21355
+21355_13	attr	21355_9
+21355_13	has_surface_form	coach
+21355_13	part_of_entity	football coach
+21355_11	is_in_sentence	sentence_21355
+21355_11	amod	21355_13
+21355_11	has_surface_form	American
+21355_12	is_in_sentence	sentence_21355
+21355_12	compound	21355_13
+21355_12	has_surface_form	football
+21355_12	part_of_entity	football coach
+21355_14	is_in_sentence	sentence_21355
+21355_14	punct	21355_9
+21355_14	has_surface_form	.
+21355_15	is_in_sentence	sentence_21355
+21355_15	dep	21355_15
+21355_15	has_surface_form	
+Elliot Uzelac	surface_form	Elliot Uzelac
+Elliot Uzelac	has-type	football coach
+football coach	surface_form	football coach

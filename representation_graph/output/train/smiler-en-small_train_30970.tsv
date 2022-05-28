@@ -1,0 +1,82 @@
+30969_0	is_in_sentence	sentence_30969
+30969_0	compound	30969_1
+30969_0	has_surface_form	Alfred
+30969_0	part_of_entity	Alfred Hickman
+30969_1	is_in_sentence	sentence_30969
+30969_1	nsubj	30969_11
+30969_1	has_surface_form	Hickman
+30969_1	part_of_entity	Alfred Hickman
+30969_11	is_in_sentence	sentence_30969
+30969_11	ROOT	30969_11
+30969_11	has_surface_form	was
+30969_2	is_in_sentence	sentence_30969
+30969_2	punct	30969_1
+30969_2	has_surface_form	(
+30969_3	is_in_sentence	sentence_30969
+30969_3	nummod	30969_4
+30969_3	has_surface_form	25
+30969_4	is_in_sentence	sentence_30969
+30969_4	appos	30969_1
+30969_4	has_surface_form	February
+30969_5	is_in_sentence	sentence_30969
+30969_5	nummod	30969_4
+30969_5	has_surface_form	1873
+30969_6	is_in_sentence	sentence_30969
+30969_6	punct	30969_1
+30969_6	has_surface_form	–
+30969_7	is_in_sentence	sentence_30969
+30969_7	nummod	30969_8
+30969_7	has_surface_form	9
+30969_8	is_in_sentence	sentence_30969
+30969_8	appos	30969_1
+30969_8	has_surface_form	April
+30969_9	is_in_sentence	sentence_30969
+30969_9	nummod	30969_8
+30969_9	has_surface_form	1931
+30969_10	is_in_sentence	sentence_30969
+30969_10	punct	30969_8
+30969_10	has_surface_form	)
+30969_12	is_in_sentence	sentence_30969
+30969_12	det	30969_14
+30969_12	has_surface_form	an
+30969_14	is_in_sentence	sentence_30969
+30969_14	attr	30969_11
+30969_14	has_surface_form	actor
+30969_13	is_in_sentence	sentence_30969
+30969_13	amod	30969_14
+30969_13	has_surface_form	English
+30969_15	is_in_sentence	sentence_30969
+30969_15	punct	30969_11
+30969_15	has_surface_form	.
+30969_16	is_in_sentence	sentence_30969
+30969_16	nsubj	30969_17
+30969_16	has_surface_form	He
+30969_17	is_in_sentence	sentence_30969
+30969_17	ROOT	30969_17
+30969_17	has_surface_form	was
+30969_18	is_in_sentence	sentence_30969
+30969_18	acomp	30969_17
+30969_18	has_surface_form	married
+30969_19	is_in_sentence	sentence_30969
+30969_19	aux	30969_20
+30969_19	has_surface_form	to
+30969_20	is_in_sentence	sentence_30969
+30969_20	xcomp	30969_18
+30969_20	has_surface_form	actress
+30969_21	is_in_sentence	sentence_30969
+30969_21	compound	30969_22
+30969_21	has_surface_form	Nance
+30969_21	part_of_entity	Nance O'Neil
+30969_22	is_in_sentence	sentence_30969
+30969_22	dobj	30969_20
+30969_22	has_surface_form	O'Neil
+30969_22	part_of_entity	Nance O'Neil
+30969_23	is_in_sentence	sentence_30969
+30969_23	punct	30969_17
+30969_23	has_surface_form	.
+30969_24	is_in_sentence	sentence_30969
+30969_24	dep	30969_17
+30969_24	has_surface_form	
+Alfred Hickman	surface_form	Alfred Hickman
+Alfred Hickman	has-spouse	Nance O'Neil
+Nance O'Neil	surface_form	Nance O'Neil

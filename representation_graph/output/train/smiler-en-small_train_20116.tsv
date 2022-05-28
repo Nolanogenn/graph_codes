@@ -1,0 +1,38 @@
+20115_0	is_in_sentence	sentence_20115
+20115_0	nsubjpass	20115_2
+20115_0	has_surface_form	This
+20115_2	is_in_sentence	sentence_20115
+20115_2	ROOT	20115_2
+20115_2	has_surface_form	cleared
+20115_1	is_in_sentence	sentence_20115
+20115_1	auxpass	20115_2
+20115_1	has_surface_form	was
+20115_3	is_in_sentence	sentence_20115
+20115_3	agent	20115_2
+20115_3	has_surface_form	by
+20115_4	is_in_sentence	sentence_20115
+20115_4	amod	20115_6
+20115_4	is_entity	Swedish
+20115_6	is_in_sentence	sentence_20115
+20115_6	compound	20115_8
+20115_6	has_surface_form	chief
+Swedish	surface_form	Swedish
+20115_5	is_in_sentence	sentence_20115
+20115_5	compound	20115_6
+20115_5	has_surface_form	police
+20115_8	is_in_sentence	sentence_20115
+20115_8	pobj	20115_3
+20115_8	has_surface_form	Lindstrom
+20115_8	part_of_entity	Sten Lindstrom
+20115_7	is_in_sentence	sentence_20115
+20115_7	compound	20115_8
+20115_7	has_surface_form	Sten
+20115_7	part_of_entity	Sten Lindstrom
+20115_9	is_in_sentence	sentence_20115
+20115_9	punct	20115_2
+20115_9	has_surface_form	.
+20115_10	is_in_sentence	sentence_20115
+20115_10	dep	20115_2
+20115_10	has_surface_form	
+Sten Lindstrom	surface_form	Sten Lindstrom
+Sten Lindstrom	has-nationality	Swedish

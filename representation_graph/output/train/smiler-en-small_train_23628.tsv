@@ -1,0 +1,50 @@
+23627_0	is_in_sentence	sentence_23627
+23627_0	compound	23627_1
+23627_0	has_surface_form	Jody
+23627_0	part_of_entity	Jody Bleyle
+23627_1	is_in_sentence	sentence_23627
+23627_1	nsubj	23627_2
+23627_1	has_surface_form	Bleyle
+23627_1	part_of_entity	Jody Bleyle
+23627_2	is_in_sentence	sentence_23627
+23627_2	ROOT	23627_2
+23627_2	has_surface_form	is
+23627_3	is_in_sentence	sentence_23627
+23627_3	det	23627_5
+23627_3	has_surface_form	an
+23627_5	is_in_sentence	sentence_23627
+23627_5	attr	23627_2
+23627_5	has_surface_form	musician
+23627_4	is_in_sentence	sentence_23627
+23627_4	amod	23627_5
+23627_4	has_surface_form	American
+23627_6	is_in_sentence	sentence_23627
+23627_6	punct	23627_5
+23627_6	has_surface_form	,
+23627_7	is_in_sentence	sentence_23627
+23627_7	conj	23627_5
+23627_7	is_entity	songwriter
+songwriter	surface_form	songwriter
+23627_8	is_in_sentence	sentence_23627
+23627_8	cc	23627_7
+23627_8	has_surface_form	and
+23627_9	is_in_sentence	sentence_23627
+23627_9	amod	23627_12
+23627_9	has_surface_form	independent
+23627_12	is_in_sentence	sentence_23627
+23627_12	conj	23627_7
+23627_12	has_surface_form	owner
+23627_10	is_in_sentence	sentence_23627
+23627_10	compound	23627_11
+23627_10	has_surface_form	record
+23627_11	is_in_sentence	sentence_23627
+23627_11	compound	23627_12
+23627_11	has_surface_form	label
+23627_13	is_in_sentence	sentence_23627
+23627_13	punct	23627_2
+23627_13	has_surface_form	.
+23627_14	is_in_sentence	sentence_23627
+23627_14	dep	23627_14
+23627_14	has_surface_form	
+Jody Bleyle	surface_form	Jody Bleyle
+Jody Bleyle	has-occupation	songwriter

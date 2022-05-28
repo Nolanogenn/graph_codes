@@ -1,0 +1,52 @@
+10624_0	is_in_sentence	sentence_10624
+10624_0	amod	10624_1
+10624_0	has_surface_form	English
+10624_1	is_in_sentence	sentence_10624
+10624_1	compound	10624_3
+10624_1	has_surface_form	engineer
+10624_3	is_in_sentence	sentence_10624
+10624_3	nsubjpass	10624_5
+10624_3	has_surface_form	Clyburn
+10624_3	part_of_entity	Richard Clyburn
+10624_2	is_in_sentence	sentence_10624
+10624_2	compound	10624_3
+10624_2	has_surface_form	Richard
+10624_2	part_of_entity	Richard Clyburn
+10624_5	is_in_sentence	sentence_10624
+10624_5	ROOT	10624_5
+10624_5	has_surface_form	credited
+10624_4	is_in_sentence	sentence_10624
+10624_4	auxpass	10624_5
+10624_4	has_surface_form	is
+10624_6	is_in_sentence	sentence_10624
+10624_6	prep	10624_5
+10624_6	has_surface_form	with
+10624_7	is_in_sentence	sentence_10624
+10624_7	pcomp	10624_6
+10624_7	has_surface_form	inventing
+10624_8	is_in_sentence	sentence_10624
+10624_8	det	10624_10
+10624_8	has_surface_form	an
+10624_10	is_in_sentence	sentence_10624
+10624_10	dobj	10624_7
+10624_10	has_surface_form	spanner
+10624_10	part_of_entity	adjustable spanner
+10624_9	is_in_sentence	sentence_10624
+10624_9	amod	10624_10
+10624_9	has_surface_form	adjustable
+10624_9	part_of_entity	adjustable spanner
+10624_11	is_in_sentence	sentence_10624
+10624_11	prep	10624_7
+10624_11	has_surface_form	in
+10624_12	is_in_sentence	sentence_10624
+10624_12	pobj	10624_11
+10624_12	has_surface_form	1842
+10624_13	is_in_sentence	sentence_10624
+10624_13	punct	10624_5
+10624_13	has_surface_form	.
+10624_14	is_in_sentence	sentence_10624
+10624_14	dep	10624_14
+10624_14	has_surface_form	
+adjustable spanner	surface_form	adjustable spanner
+adjustable spanner	invented-by	Richard Clyburn
+Richard Clyburn	surface_form	Richard Clyburn

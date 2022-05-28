@@ -1,0 +1,59 @@
+31022_0	is_in_sentence	sentence_31022
+31022_0	det	31022_3
+31022_0	has_surface_form	The
+31022_3	is_in_sentence	sentence_31022
+31022_3	nsubj	31022_4
+31022_3	has_surface_form	Hospital
+31022_3	part_of_entity	Westminster Memorial Hospital
+31022_1	is_in_sentence	sentence_31022
+31022_1	compound	31022_3
+31022_1	has_surface_form	Westminster
+31022_1	part_of_entity	Westminster Memorial Hospital
+31022_2	is_in_sentence	sentence_31022
+31022_2	compound	31022_3
+31022_2	has_surface_form	Memorial
+31022_2	part_of_entity	Westminster Memorial Hospital
+31022_4	is_in_sentence	sentence_31022
+31022_4	ROOT	31022_4
+31022_4	has_surface_form	is
+31022_5	is_in_sentence	sentence_31022
+31022_5	det	31022_8
+31022_5	has_surface_form	a
+31022_8	is_in_sentence	sentence_31022
+31022_8	attr	31022_4
+31022_8	has_surface_form	hospital
+31022_8	part_of_entity	community hospital
+31022_6	is_in_sentence	sentence_31022
+31022_6	amod	31022_8
+31022_6	has_surface_form	small
+31022_7	is_in_sentence	sentence_31022
+31022_7	compound	31022_8
+31022_7	has_surface_form	community
+31022_7	part_of_entity	community hospital
+31022_9	is_in_sentence	sentence_31022
+31022_9	prep	31022_8
+31022_9	has_surface_form	in
+31022_10	is_in_sentence	sentence_31022
+31022_10	pobj	31022_9
+31022_10	has_surface_form	Shaftesbury
+31022_11	is_in_sentence	sentence_31022
+31022_11	punct	31022_10
+31022_11	has_surface_form	,
+31022_12	is_in_sentence	sentence_31022
+31022_12	conj	31022_10
+31022_12	has_surface_form	Dorset
+31022_13	is_in_sentence	sentence_31022
+31022_13	punct	31022_12
+31022_13	has_surface_form	,
+31022_14	is_in_sentence	sentence_31022
+31022_14	npadvmod	31022_12
+31022_14	has_surface_form	England
+31022_15	is_in_sentence	sentence_31022
+31022_15	punct	31022_4
+31022_15	has_surface_form	.
+31022_16	is_in_sentence	sentence_31022
+31022_16	dep	31022_4
+31022_16	has_surface_form	
+Westminster Memorial Hospital	surface_form	Westminster Memorial Hospital
+Westminster Memorial Hospital	has-type	community hospital
+community hospital	surface_form	community hospital

@@ -1,0 +1,73 @@
+25140_0	is_in_sentence	sentence_25140
+25140_0	det	25140_1
+25140_0	has_surface_form	The
+25140_0	part_of_entity	The Legend of Zorro
+25140_1	is_in_sentence	sentence_25140
+25140_1	nsubj	25140_4
+25140_1	has_surface_form	Legend
+25140_1	part_of_entity	The Legend of Zorro
+25140_4	is_in_sentence	sentence_25140
+25140_4	ROOT	25140_4
+25140_4	has_surface_form	is
+25140_2	is_in_sentence	sentence_25140
+25140_2	prep	25140_1
+25140_2	has_surface_form	of
+25140_2	part_of_entity	The Legend of Zorro
+25140_3	is_in_sentence	sentence_25140
+25140_3	pobj	25140_2
+25140_3	has_surface_form	Zorro
+25140_3	part_of_entity	The Legend of Zorro
+25140_5	is_in_sentence	sentence_25140
+25140_5	det	25140_10
+25140_5	has_surface_form	a
+25140_10	is_in_sentence	sentence_25140
+25140_10	attr	25140_4
+25140_10	has_surface_form	film
+25140_10	part_of_entity	superhero swashbuckler film
+25140_6	is_in_sentence	sentence_25140
+25140_6	nummod	25140_10
+25140_6	has_surface_form	2005
+25140_7	is_in_sentence	sentence_25140
+25140_7	amod	25140_10
+25140_7	has_surface_form	American
+25140_8	is_in_sentence	sentence_25140
+25140_8	compound	25140_9
+25140_8	has_surface_form	superhero
+25140_8	part_of_entity	superhero swashbuckler film
+25140_9	is_in_sentence	sentence_25140
+25140_9	compound	25140_10
+25140_9	has_surface_form	swashbuckler
+25140_9	part_of_entity	superhero swashbuckler film
+25140_11	is_in_sentence	sentence_25140
+25140_11	acl	25140_10
+25140_11	has_surface_form	directed
+25140_12	is_in_sentence	sentence_25140
+25140_12	agent	25140_11
+25140_12	has_surface_form	by
+25140_13	is_in_sentence	sentence_25140
+25140_13	compound	25140_14
+25140_13	has_surface_form	Martin
+25140_14	is_in_sentence	sentence_25140
+25140_14	pobj	25140_12
+25140_14	has_surface_form	Campbell
+25140_15	is_in_sentence	sentence_25140
+25140_15	punct	25140_14
+25140_15	has_surface_form	,
+25140_16	is_in_sentence	sentence_25140
+25140_16	acl	25140_14
+25140_16	has_surface_form	produced
+25140_17	is_in_sentence	sentence_25140
+25140_17	agent	25140_16
+25140_17	has_surface_form	by
+25140_18	is_in_sentence	sentence_25140
+25140_18	compound	25140_19
+25140_18	has_surface_form	Walter
+25140_19	is_in_sentence	sentence_25140
+25140_19	pobj	25140_17
+25140_19	has_surface_form	F.
+25140_20	is_in_sentence	sentence_25140
+25140_20	dep	25140_17
+25140_20	has_surface_form	
+The Legend of Zorro	surface_form	The Legend of Zorro
+The Legend of Zorro	has-type	superhero swashbuckler film
+superhero swashbuckler film	surface_form	superhero swashbuckler film

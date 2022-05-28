@@ -1,0 +1,85 @@
+30687_0	is_in_sentence	sentence_30687
+30687_0	compound	30687_1
+30687_0	has_surface_form	Cuco
+30687_0	part_of_entity	Cuco Valoy
+30687_1	is_in_sentence	sentence_30687
+30687_1	nsubj	30687_15
+30687_1	has_surface_form	Valoy
+30687_1	part_of_entity	Cuco Valoy
+30687_15	is_in_sentence	sentence_30687
+30687_15	ROOT	30687_15
+30687_15	has_surface_form	is
+30687_2	is_in_sentence	sentence_30687
+30687_2	punct	30687_1
+30687_2	has_surface_form	(
+30687_3	is_in_sentence	sentence_30687
+30687_3	acl	30687_1
+30687_3	has_surface_form	born
+30687_4	is_in_sentence	sentence_30687
+30687_4	prep	30687_3
+30687_4	has_surface_form	in
+30687_5	is_in_sentence	sentence_30687
+30687_5	compound	30687_6
+30687_5	has_surface_form	Santo
+30687_6	is_in_sentence	sentence_30687
+30687_6	pobj	30687_4
+30687_6	has_surface_form	Domingo
+30687_7	is_in_sentence	sentence_30687
+30687_7	punct	30687_1
+30687_7	has_surface_form	,
+30687_8	is_in_sentence	sentence_30687
+30687_8	compound	30687_9
+30687_8	has_surface_form	Dominican
+30687_9	is_in_sentence	sentence_30687
+30687_9	appos	30687_1
+30687_9	has_surface_form	Republic
+30687_10	is_in_sentence	sentence_30687
+30687_10	prep	30687_9
+30687_10	has_surface_form	in
+30687_11	is_in_sentence	sentence_30687
+30687_11	nummod	30687_12
+30687_11	has_surface_form	5
+30687_12	is_in_sentence	sentence_30687
+30687_12	pobj	30687_10
+30687_12	has_surface_form	January
+30687_13	is_in_sentence	sentence_30687
+30687_13	nummod	30687_12
+30687_13	has_surface_form	1937
+30687_14	is_in_sentence	sentence_30687
+30687_14	punct	30687_1
+30687_14	has_surface_form	)
+30687_16	is_in_sentence	sentence_30687
+30687_16	amod	30687_17
+30687_16	has_surface_form	Dominican
+30687_17	is_in_sentence	sentence_30687
+30687_17	attr	30687_15
+30687_17	has_surface_form	salsa
+30687_18	is_in_sentence	sentence_30687
+30687_18	punct	30687_17
+30687_18	has_surface_form	,
+30687_19	is_in_sentence	sentence_30687
+30687_19	compound	30687_20
+30687_19	has_surface_form	son
+30687_19	part_of_entity	son montuno
+30687_20	is_in_sentence	sentence_30687
+30687_20	conj	30687_17
+30687_20	has_surface_form	montuno
+30687_20	part_of_entity	son montuno
+30687_21	is_in_sentence	sentence_30687
+30687_21	cc	30687_20
+30687_21	has_surface_form	and
+30687_22	is_in_sentence	sentence_30687
+30687_22	compound	30687_23
+30687_22	has_surface_form	merengue
+30687_23	is_in_sentence	sentence_30687
+30687_23	conj	30687_20
+30687_23	has_surface_form	musician
+30687_24	is_in_sentence	sentence_30687
+30687_24	punct	30687_15
+30687_24	has_surface_form	.
+30687_25	is_in_sentence	sentence_30687
+30687_25	dep	30687_25
+30687_25	has_surface_form	
+Cuco Valoy	surface_form	Cuco Valoy
+Cuco Valoy	has-genre	son montuno
+son montuno	surface_form	son montuno

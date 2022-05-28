@@ -1,0 +1,44 @@
+12583_0	is_in_sentence	sentence_12583
+12583_0	ROOT	12583_0
+12583_0	is_entity	1961
+1961	surface_form	1961
+12583_1	is_in_sentence	sentence_12583
+12583_1	punct	12583_0
+12583_1	has_surface_form	:
+12583_2	is_in_sentence	sentence_12583
+12583_2	compound	12583_3
+12583_2	has_surface_form	Hidetsugu
+12583_3	is_in_sentence	sentence_12583
+12583_3	nsubj	12583_4
+12583_3	has_surface_form	Yagi
+12583_4	is_in_sentence	sentence_12583
+12583_4	ROOT	12583_4
+12583_4	has_surface_form	designed
+12583_5	is_in_sentence	sentence_12583
+12583_5	det	12583_10
+12583_5	has_surface_form	a
+12583_10	is_in_sentence	sentence_12583
+12583_10	dobj	12583_4
+12583_10	has_surface_form	system
+12583_10	part_of_entity	navigation system
+12583_6	is_in_sentence	sentence_12583
+12583_6	npadvmod	12583_8
+12583_6	has_surface_form	wireless
+12583_8	is_in_sentence	sentence_12583
+12583_8	amod	12583_10
+12583_8	has_surface_form	based
+12583_7	is_in_sentence	sentence_12583
+12583_7	punct	12583_8
+12583_7	has_surface_form	-
+12583_9	is_in_sentence	sentence_12583
+12583_9	compound	12583_10
+12583_9	has_surface_form	navigation
+12583_9	part_of_entity	navigation system
+12583_11	is_in_sentence	sentence_12583
+12583_11	punct	12583_4
+12583_11	has_surface_form	.
+12583_12	is_in_sentence	sentence_12583
+12583_12	dep	12583_12
+12583_12	has_surface_form	
+navigation system	surface_form	navigation system
+navigation system	invented-when	1961

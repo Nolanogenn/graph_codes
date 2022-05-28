@@ -1,0 +1,52 @@
+10332_0	is_in_sentence	sentence_10332
+10332_0	compound	10332_1
+10332_0	has_surface_form	Olimpia
+10332_0	part_of_entity	Olimpia Maidalchini
+10332_1	is_in_sentence	sentence_10332
+10332_1	nsubj	10332_2
+10332_1	has_surface_form	Maidalchini
+10332_1	part_of_entity	Olimpia Maidalchini
+10332_2	is_in_sentence	sentence_10332
+10332_2	ROOT	10332_2
+10332_2	has_surface_form	was
+10332_3	is_in_sentence	sentence_10332
+10332_3	det	10332_4
+10332_3	has_surface_form	the
+10332_4	is_in_sentence	sentence_10332
+10332_4	attr	10332_2
+10332_4	has_surface_form	mother
+10332_5	is_in_sentence	sentence_10332
+10332_5	prep	10332_4
+10332_5	has_surface_form	of
+10332_6	is_in_sentence	sentence_10332
+10332_6	compound	10332_7
+10332_6	has_surface_form	Camillo
+10332_6	part_of_entity	Camillo Pamphilj
+10332_7	is_in_sentence	sentence_10332
+10332_7	pobj	10332_5
+10332_7	has_surface_form	Pamphilj
+10332_7	part_of_entity	Camillo Pamphilj
+10332_8	is_in_sentence	sentence_10332
+10332_8	punct	10332_7
+10332_8	has_surface_form	,
+10332_9	is_in_sentence	sentence_10332
+10332_9	det	10332_12
+10332_9	has_surface_form	the
+10332_12	is_in_sentence	sentence_10332
+10332_12	appos	10332_7
+10332_12	has_surface_form	cardinal
+10332_10	is_in_sentence	sentence_10332
+10332_10	nummod	10332_11
+10332_10	has_surface_form	one
+10332_11	is_in_sentence	sentence_10332
+10332_11	compound	10332_12
+10332_11	has_surface_form	time
+10332_13	is_in_sentence	sentence_10332
+10332_13	punct	10332_2
+10332_13	has_surface_form	.
+10332_14	is_in_sentence	sentence_10332
+10332_14	dep	10332_14
+10332_14	has_surface_form	
+Olimpia Maidalchini	surface_form	Olimpia Maidalchini
+Olimpia Maidalchini	has-child	Camillo Pamphilj
+Camillo Pamphilj	surface_form	Camillo Pamphilj

@@ -1,0 +1,65 @@
+31618_0	is_in_sentence	sentence_31618
+31618_0	ROOT	31618_0
+31618_0	has_surface_form	Muzhiki
+31618_1	is_in_sentence	sentence_31618
+31618_1	punct	31618_0
+31618_1	has_surface_form	!
+31618_2	is_in_sentence	sentence_31618
+31618_2	punct	31618_3
+31618_2	has_surface_form	(
+31618_3	is_in_sentence	sentence_31618
+31618_3	nsubj	31618_8
+31618_3	has_surface_form	Russian
+31618_8	is_in_sentence	sentence_31618
+31618_8	ROOT	31618_8
+31618_8	has_surface_form	is
+31618_4	is_in_sentence	sentence_31618
+31618_4	punct	31618_5
+31618_4	has_surface_form	:
+31618_5	is_in_sentence	sentence_31618
+31618_5	appos	31618_3
+31618_5	has_surface_form	Мужики
+31618_6	is_in_sentence	sentence_31618
+31618_6	punct	31618_3
+31618_6	has_surface_form	!
+31618_7	is_in_sentence	sentence_31618
+31618_7	punct	31618_3
+31618_7	has_surface_form	)
+31618_9	is_in_sentence	sentence_31618
+31618_9	det	31618_13
+31618_9	has_surface_form	a
+31618_13	is_in_sentence	sentence_31618
+31618_13	attr	31618_8
+31618_13	has_surface_form	film
+31618_10	is_in_sentence	sentence_31618
+31618_10	nummod	31618_13
+31618_10	has_surface_form	1981
+31618_11	is_in_sentence	sentence_31618
+31618_11	amod	31618_13
+31618_11	has_surface_form	Soviet
+31618_12	is_in_sentence	sentence_31618
+31618_12	compound	31618_13
+31618_12	has_surface_form	drama
+31618_14	is_in_sentence	sentence_31618
+31618_14	acl	31618_13
+31618_14	has_surface_form	directed
+31618_15	is_in_sentence	sentence_31618
+31618_15	agent	31618_14
+31618_15	has_surface_form	by
+31618_16	is_in_sentence	sentence_31618
+31618_16	compound	31618_17
+31618_16	has_surface_form	Iskra
+31618_16	part_of_entity	Iskra Babich
+31618_17	is_in_sentence	sentence_31618
+31618_17	pobj	31618_15
+31618_17	has_surface_form	Babich
+31618_17	part_of_entity	Iskra Babich
+31618_18	is_in_sentence	sentence_31618
+31618_18	punct	31618_8
+31618_18	has_surface_form	.
+31618_19	is_in_sentence	sentence_31618
+31618_19	dep	31618_8
+31618_19	has_surface_form	
+Muzhiki!	surface_form	Muzhiki!
+Muzhiki!	movie-has-director	Iskra Babich
+Iskra Babich	surface_form	Iskra Babich

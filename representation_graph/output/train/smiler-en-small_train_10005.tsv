@@ -1,0 +1,119 @@
+10004_0	is_in_sentence	sentence_10004
+10004_0	nsubj	10004_10
+10004_0	has_surface_form	Kitty
+10004_0	part_of_entity	Kitty and the Great Big World
+10004_10	is_in_sentence	sentence_10004
+10004_10	nsubj	10004_15
+10004_10	has_surface_form	und
+10004_1	is_in_sentence	sentence_10004
+10004_1	cc	10004_0
+10004_1	has_surface_form	and
+10004_1	part_of_entity	Kitty and the Great Big World
+10004_2	is_in_sentence	sentence_10004
+10004_2	det	10004_5
+10004_2	has_surface_form	the
+10004_2	part_of_entity	Kitty and the Great Big World
+10004_5	is_in_sentence	sentence_10004
+10004_5	conj	10004_0
+10004_5	has_surface_form	World
+10004_5	part_of_entity	Kitty and the Great Big World
+10004_3	is_in_sentence	sentence_10004
+10004_3	amod	10004_5
+10004_3	has_surface_form	Great
+10004_3	part_of_entity	Kitty and the Great Big World
+10004_4	is_in_sentence	sentence_10004
+10004_4	compound	10004_5
+10004_4	has_surface_form	Big
+10004_4	part_of_entity	Kitty and the Great Big World
+10004_6	is_in_sentence	sentence_10004
+10004_6	punct	10004_10
+10004_6	has_surface_form	(
+10004_7	is_in_sentence	sentence_10004
+10004_7	dep	10004_10
+10004_7	has_surface_form	German
+10004_8	is_in_sentence	sentence_10004
+10004_8	punct	10004_10
+10004_8	has_surface_form	:
+10004_9	is_in_sentence	sentence_10004
+10004_9	nsubj	10004_10
+10004_9	has_surface_form	Kitty
+10004_15	is_in_sentence	sentence_10004
+10004_15	ROOT	10004_15
+10004_15	has_surface_form	is
+10004_11	is_in_sentence	sentence_10004
+10004_11	amod	10004_13
+10004_11	has_surface_form	die
+10004_13	is_in_sentence	sentence_10004
+10004_13	dobj	10004_10
+10004_13	has_surface_form	Welt
+10004_12	is_in_sentence	sentence_10004
+10004_12	compound	10004_13
+10004_12	has_surface_form	große
+10004_14	is_in_sentence	sentence_10004
+10004_14	punct	10004_10
+10004_14	has_surface_form	)
+10004_16	is_in_sentence	sentence_10004
+10004_16	det	10004_21
+10004_16	has_surface_form	a
+10004_21	is_in_sentence	sentence_10004
+10004_21	attr	10004_15
+10004_21	has_surface_form	film
+10004_17	is_in_sentence	sentence_10004
+10004_17	nummod	10004_21
+10004_17	has_surface_form	1956
+10004_18	is_in_sentence	sentence_10004
+10004_18	amod	10004_19
+10004_18	has_surface_form	West
+10004_19	is_in_sentence	sentence_10004
+10004_19	amod	10004_21
+10004_19	has_surface_form	German
+10004_20	is_in_sentence	sentence_10004
+10004_20	compound	10004_21
+10004_20	has_surface_form	comedy
+10004_22	is_in_sentence	sentence_10004
+10004_22	acl	10004_21
+10004_22	has_surface_form	directed
+10004_23	is_in_sentence	sentence_10004
+10004_23	agent	10004_22
+10004_23	has_surface_form	by
+10004_24	is_in_sentence	sentence_10004
+10004_24	compound	10004_25
+10004_24	has_surface_form	Alfred
+10004_25	is_in_sentence	sentence_10004
+10004_25	pobj	10004_23
+10004_25	has_surface_form	Weidenmann
+10004_26	is_in_sentence	sentence_10004
+10004_26	cc	10004_22
+10004_26	has_surface_form	and
+10004_27	is_in_sentence	sentence_10004
+10004_27	conj	10004_22
+10004_27	has_surface_form	starring
+10004_28	is_in_sentence	sentence_10004
+10004_28	compound	10004_29
+10004_28	has_surface_form	Romy
+10004_29	is_in_sentence	sentence_10004
+10004_29	dobj	10004_27
+10004_29	has_surface_form	Schneider
+10004_30	is_in_sentence	sentence_10004
+10004_30	punct	10004_29
+10004_30	has_surface_form	,
+10004_31	is_in_sentence	sentence_10004
+10004_31	compound	10004_32
+10004_31	has_surface_form	Karlheinz
+10004_31	part_of_entity	Karlheinz Böhm
+10004_32	is_in_sentence	sentence_10004
+10004_32	conj	10004_29
+10004_32	has_surface_form	Böhm
+10004_32	part_of_entity	Karlheinz Böhm
+10004_33	is_in_sentence	sentence_10004
+10004_33	cc	10004_32
+10004_33	has_surface_form	and
+10004_34	is_in_sentence	sentence_10004
+10004_34	compound	10004_35
+10004_34	has_surface_form	O.
+10004_35	is_in_sentence	sentence_10004
+10004_35	dep	10004_32
+10004_35	has_surface_form	
+Kitty and the Great Big World	surface_form	Kitty and the Great Big World
+Kitty and the Great Big World	starring	Karlheinz Böhm
+Karlheinz Böhm	surface_form	Karlheinz Böhm

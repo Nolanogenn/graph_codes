@@ -1,0 +1,71 @@
+2310_0	is_in_sentence	sentence_2310
+2310_0	det	2310_2
+2310_0	has_surface_form	The
+2310_0	part_of_entity	The Halcyon Company
+2310_2	is_in_sentence	sentence_2310
+2310_2	nsubj	2310_3
+2310_2	has_surface_form	Company
+2310_2	part_of_entity	The Halcyon Company
+2310_1	is_in_sentence	sentence_2310
+2310_1	compound	2310_2
+2310_1	has_surface_form	Halcyon
+2310_1	part_of_entity	The Halcyon Company
+2310_3	is_in_sentence	sentence_2310
+2310_3	ROOT	2310_3
+2310_3	has_surface_form	is
+2310_4	is_in_sentence	sentence_2310
+2310_4	det	2310_11
+2310_4	has_surface_form	an
+2310_11	is_in_sentence	sentence_2310
+2310_11	attr	2310_3
+2310_11	has_surface_form	company
+2310_5	is_in_sentence	sentence_2310
+2310_5	amod	2310_11
+2310_5	has_surface_form	American
+2310_6	is_in_sentence	sentence_2310
+2310_6	advmod	2310_7
+2310_6	has_surface_form	privately
+2310_7	is_in_sentence	sentence_2310
+2310_7	amod	2310_11
+2310_7	has_surface_form	financed
+2310_8	is_in_sentence	sentence_2310
+2310_8	punct	2310_11
+2310_8	has_surface_form	,
+2310_9	is_in_sentence	sentence_2310
+2310_9	compound	2310_10
+2310_9	has_surface_form	media
+2310_10	is_in_sentence	sentence_2310
+2310_10	compound	2310_11
+2310_10	has_surface_form	development
+2310_12	is_in_sentence	sentence_2310
+2310_12	acl	2310_11
+2310_12	has_surface_form	headed
+2310_13	is_in_sentence	sentence_2310
+2310_13	agent	2310_12
+2310_13	has_surface_form	by
+2310_14	is_in_sentence	sentence_2310
+2310_14	compound	2310_15
+2310_14	has_surface_form	Victor
+2310_14	part_of_entity	Victor Kubicek
+2310_15	is_in_sentence	sentence_2310
+2310_15	pobj	2310_13
+2310_15	has_surface_form	Kubicek
+2310_15	part_of_entity	Victor Kubicek
+2310_16	is_in_sentence	sentence_2310
+2310_16	cc	2310_15
+2310_16	has_surface_form	and
+2310_17	is_in_sentence	sentence_2310
+2310_17	compound	2310_18
+2310_17	has_surface_form	Derek
+2310_18	is_in_sentence	sentence_2310
+2310_18	conj	2310_15
+2310_18	has_surface_form	Anderson
+2310_19	is_in_sentence	sentence_2310
+2310_19	punct	2310_3
+2310_19	has_surface_form	.
+2310_20	is_in_sentence	sentence_2310
+2310_20	dep	2310_20
+2310_20	has_surface_form	
+The Halcyon Company	surface_form	The Halcyon Company
+The Halcyon Company	org-leader	Victor Kubicek
+Victor Kubicek	surface_form	Victor Kubicek

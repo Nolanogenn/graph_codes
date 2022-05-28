@@ -1,0 +1,35 @@
+18564_0	is_in_sentence	sentence_18564
+18564_0	compound	18564_1
+18564_0	has_surface_form	Robert
+18564_0	part_of_entity	Robert Johnson
+18564_1	is_in_sentence	sentence_18564
+18564_1	poss	18564_3
+18564_1	has_surface_form	Johnson
+18564_1	part_of_entity	Robert Johnson
+18564_3	is_in_sentence	sentence_18564
+18564_3	nsubj	18564_4
+18564_3	has_surface_form	siblings
+18564_2	is_in_sentence	sentence_18564
+18564_2	case	18564_1
+18564_2	has_surface_form	's
+18564_4	is_in_sentence	sentence_18564
+18564_4	ROOT	18564_4
+18564_4	has_surface_form	included
+18564_5	is_in_sentence	sentence_18564
+18564_5	det	18564_7
+18564_5	has_surface_form	a
+18564_7	is_in_sentence	sentence_18564
+18564_7	dobj	18564_4
+18564_7	is_entity	Juliette
+18564_6	is_in_sentence	sentence_18564
+18564_6	compound	18564_7
+18564_6	has_surface_form	sister
+Juliette	surface_form	Juliette
+18564_8	is_in_sentence	sentence_18564
+18564_8	punct	18564_4
+18564_8	has_surface_form	.
+18564_9	is_in_sentence	sentence_18564
+18564_9	dep	18564_4
+18564_9	has_surface_form	
+Robert Johnson	surface_form	Robert Johnson
+Robert Johnson	has-sibling	Juliette

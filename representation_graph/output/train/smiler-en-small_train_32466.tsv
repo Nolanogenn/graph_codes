@@ -1,0 +1,75 @@
+32465_0	is_in_sentence	sentence_32465
+32465_0	poss	32465_1
+32465_0	has_surface_form	My
+32465_0	part_of_entity	My Blood Runs Cold
+32465_1	is_in_sentence	sentence_32465
+32465_1	compound	32465_2
+32465_1	has_surface_form	Blood
+32465_1	part_of_entity	My Blood Runs Cold
+32465_2	is_in_sentence	sentence_32465
+32465_2	compound	32465_3
+32465_2	has_surface_form	Runs
+32465_2	part_of_entity	My Blood Runs Cold
+32465_3	is_in_sentence	sentence_32465
+32465_3	nsubj	32465_4
+32465_3	has_surface_form	Cold
+32465_3	part_of_entity	My Blood Runs Cold
+32465_4	is_in_sentence	sentence_32465
+32465_4	ROOT	32465_4
+32465_4	has_surface_form	is
+32465_5	is_in_sentence	sentence_32465
+32465_5	det	32465_9
+32465_5	has_surface_form	a
+32465_9	is_in_sentence	sentence_32465
+32465_9	attr	32465_4
+32465_9	has_surface_form	film
+32465_6	is_in_sentence	sentence_32465
+32465_6	nummod	32465_9
+32465_6	has_surface_form	1965
+32465_7	is_in_sentence	sentence_32465
+32465_7	amod	32465_9
+32465_7	has_surface_form	American
+32465_8	is_in_sentence	sentence_32465
+32465_8	compound	32465_9
+32465_8	has_surface_form	thriller
+32465_10	is_in_sentence	sentence_32465
+32465_10	acl	32465_9
+32465_10	has_surface_form	starring
+32465_11	is_in_sentence	sentence_32465
+32465_11	compound	32465_12
+32465_11	has_surface_form	Troy
+32465_11	part_of_entity	Troy Donahue
+32465_12	is_in_sentence	sentence_32465
+32465_12	dobj	32465_10
+32465_12	has_surface_form	Donahue
+32465_12	part_of_entity	Troy Donahue
+32465_13	is_in_sentence	sentence_32465
+32465_13	prep	32465_10
+32465_13	has_surface_form	with
+32465_14	is_in_sentence	sentence_32465
+32465_14	compound	32465_15
+32465_14	has_surface_form	Joey
+32465_15	is_in_sentence	sentence_32465
+32465_15	pobj	32465_13
+32465_15	has_surface_form	Heatherton
+32465_16	is_in_sentence	sentence_32465
+32465_16	prep	32465_10
+32465_16	has_surface_form	as
+32465_17	is_in_sentence	sentence_32465
+32465_17	poss	32465_19
+32465_17	has_surface_form	his
+32465_19	is_in_sentence	sentence_32465
+32465_19	pobj	32465_16
+32465_19	has_surface_form	interest
+32465_18	is_in_sentence	sentence_32465
+32465_18	compound	32465_19
+32465_18	has_surface_form	love
+32465_20	is_in_sentence	sentence_32465
+32465_20	punct	32465_4
+32465_20	has_surface_form	.
+32465_21	is_in_sentence	sentence_32465
+32465_21	dep	32465_21
+32465_21	has_surface_form	
+My Blood Runs Cold	surface_form	My Blood Runs Cold
+My Blood Runs Cold	starring	Troy Donahue
+Troy Donahue	surface_form	Troy Donahue

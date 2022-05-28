@@ -1,0 +1,119 @@
+31237_0	is_in_sentence	sentence_31237
+31237_0	det	31237_1
+31237_0	has_surface_form	A
+31237_0	part_of_entity	A Bottle in the Gaza Sea
+31237_1	is_in_sentence	sentence_31237
+31237_1	ROOT	31237_1
+31237_1	has_surface_form	Bottle
+31237_1	part_of_entity	A Bottle in the Gaza Sea
+31237_2	is_in_sentence	sentence_31237
+31237_2	prep	31237_1
+31237_2	has_surface_form	in
+31237_2	part_of_entity	A Bottle in the Gaza Sea
+31237_3	is_in_sentence	sentence_31237
+31237_3	det	31237_5
+31237_3	has_surface_form	the
+31237_3	part_of_entity	A Bottle in the Gaza Sea
+31237_5	is_in_sentence	sentence_31237
+31237_5	pobj	31237_2
+31237_5	has_surface_form	Sea
+31237_5	part_of_entity	A Bottle in the Gaza Sea
+31237_4	is_in_sentence	sentence_31237
+31237_4	compound	31237_5
+31237_4	has_surface_form	Gaza
+31237_4	part_of_entity	A Bottle in the Gaza Sea
+31237_6	is_in_sentence	sentence_31237
+31237_6	punct	31237_7
+31237_6	has_surface_form	(
+31237_7	is_in_sentence	sentence_31237
+31237_7	appos	31237_1
+31237_7	has_surface_form	French
+31237_8	is_in_sentence	sentence_31237
+31237_8	punct	31237_7
+31237_8	has_surface_form	:
+31237_9	is_in_sentence	sentence_31237
+31237_9	compound	31237_10
+31237_9	has_surface_form	Une
+31237_10	is_in_sentence	sentence_31237
+31237_10	ROOT	31237_10
+31237_10	has_surface_form	bouteille
+31237_11	is_in_sentence	sentence_31237
+31237_11	nmod	31237_13
+31237_11	has_surface_form	à
+31237_13	is_in_sentence	sentence_31237
+31237_13	appos	31237_10
+31237_13	has_surface_form	mer
+31237_12	is_in_sentence	sentence_31237
+31237_12	compound	31237_13
+31237_12	has_surface_form	la
+31237_14	is_in_sentence	sentence_31237
+31237_14	punct	31237_16
+31237_14	has_surface_form	,
+31237_16	is_in_sentence	sentence_31237
+31237_16	appos	31237_10
+31237_16	has_surface_form	French
+31237_15	is_in_sentence	sentence_31237
+31237_15	compound	31237_16
+31237_15	has_surface_form	Quebec
+31237_17	is_in_sentence	sentence_31237
+31237_17	punct	31237_16
+31237_17	has_surface_form	:
+31237_18	is_in_sentence	sentence_31237
+31237_18	amod	31237_19
+31237_18	has_surface_form	Une
+31237_19	is_in_sentence	sentence_31237
+31237_19	nsubj	31237_20
+31237_19	has_surface_form	bouteille
+31237_20	is_in_sentence	sentence_31237
+31237_20	nsubj	31237_26
+31237_20	has_surface_form	dans
+31237_26	is_in_sentence	sentence_31237
+31237_26	ROOT	31237_26
+31237_26	has_surface_form	is
+31237_21	is_in_sentence	sentence_31237
+31237_21	det	31237_24
+31237_21	has_surface_form	la
+31237_24	is_in_sentence	sentence_31237
+31237_24	dobj	31237_20
+31237_24	has_surface_form	Gaza
+31237_22	is_in_sentence	sentence_31237
+31237_22	nmod	31237_24
+31237_22	has_surface_form	mer
+31237_23	is_in_sentence	sentence_31237
+31237_23	nmod	31237_24
+31237_23	has_surface_form	de
+31237_25	is_in_sentence	sentence_31237
+31237_25	punct	31237_20
+31237_25	has_surface_form	)
+31237_27	is_in_sentence	sentence_31237
+31237_27	det	31237_29
+31237_27	has_surface_form	a
+31237_29	is_in_sentence	sentence_31237
+31237_29	attr	31237_26
+31237_29	has_surface_form	drama
+31237_28	is_in_sentence	sentence_31237
+31237_28	nummod	31237_29
+31237_28	has_surface_form	2011
+31237_30	is_in_sentence	sentence_31237
+31237_30	acl	31237_29
+31237_30	has_surface_form	directed
+31237_31	is_in_sentence	sentence_31237
+31237_31	agent	31237_30
+31237_31	has_surface_form	by
+31237_32	is_in_sentence	sentence_31237
+31237_32	compound	31237_33
+31237_32	has_surface_form	Thierry
+31237_32	part_of_entity	Thierry Binisti
+31237_33	is_in_sentence	sentence_31237
+31237_33	pobj	31237_31
+31237_33	has_surface_form	Binisti
+31237_33	part_of_entity	Thierry Binisti
+31237_34	is_in_sentence	sentence_31237
+31237_34	punct	31237_26
+31237_34	has_surface_form	.
+31237_35	is_in_sentence	sentence_31237
+31237_35	dep	31237_35
+31237_35	has_surface_form	
+A Bottle in the Gaza Sea	surface_form	A Bottle in the Gaza Sea
+A Bottle in the Gaza Sea	movie-has-director	Thierry Binisti
+Thierry Binisti	surface_form	Thierry Binisti

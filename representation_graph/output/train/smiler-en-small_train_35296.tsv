@@ -1,0 +1,67 @@
+35295_0	is_in_sentence	sentence_35295
+35295_0	compound	35295_1
+35295_0	has_surface_form	Ferari
+35295_0	part_of_entity	Ferari Fauj
+35295_1	is_in_sentence	sentence_35295
+35295_1	nsubj	35295_8
+35295_1	has_surface_form	Fauj
+35295_1	part_of_entity	Ferari Fauj
+35295_8	is_in_sentence	sentence_35295
+35295_8	ROOT	35295_8
+35295_8	has_surface_form	is
+35295_2	is_in_sentence	sentence_35295
+35295_2	punct	35295_1
+35295_2	has_surface_form	(
+35295_3	is_in_sentence	sentence_35295
+35295_3	appos	35295_1
+35295_3	has_surface_form	Bengali
+35295_4	is_in_sentence	sentence_35295
+35295_4	punct	35295_3
+35295_4	has_surface_form	:
+35295_5	is_in_sentence	sentence_35295
+35295_5	appos	35295_3
+35295_5	has_surface_form	ফেরারী
+35295_6	is_in_sentence	sentence_35295
+35295_6	appos	35295_5
+35295_6	has_surface_form	ফৌজ
+35295_7	is_in_sentence	sentence_35295
+35295_7	punct	35295_3
+35295_7	has_surface_form	)
+35295_9	is_in_sentence	sentence_35295
+35295_9	det	35295_13
+35295_9	has_surface_form	a
+35295_13	is_in_sentence	sentence_35295
+35295_13	attr	35295_8
+35295_13	has_surface_form	film
+35295_10	is_in_sentence	sentence_35295
+35295_10	nummod	35295_13
+35295_10	has_surface_form	2002
+35295_11	is_in_sentence	sentence_35295
+35295_11	compound	35295_13
+35295_11	has_surface_form	Bengali
+35295_12	is_in_sentence	sentence_35295
+35295_12	compound	35295_13
+35295_12	has_surface_form	feature
+35295_14	is_in_sentence	sentence_35295
+35295_14	acl	35295_13
+35295_14	has_surface_form	directed
+35295_15	is_in_sentence	sentence_35295
+35295_15	agent	35295_14
+35295_15	has_surface_form	by
+35295_16	is_in_sentence	sentence_35295
+35295_16	compound	35295_17
+35295_16	has_surface_form	Prasanta
+35295_16	part_of_entity	Prasanta Bal
+35295_17	is_in_sentence	sentence_35295
+35295_17	pobj	35295_15
+35295_17	has_surface_form	Bal
+35295_17	part_of_entity	Prasanta Bal
+35295_18	is_in_sentence	sentence_35295
+35295_18	punct	35295_8
+35295_18	has_surface_form	.
+35295_19	is_in_sentence	sentence_35295
+35295_19	dep	35295_8
+35295_19	has_surface_form	
+Ferari Fauj	surface_form	Ferari Fauj
+Ferari Fauj	movie-has-director	Prasanta Bal
+Prasanta Bal	surface_form	Prasanta Bal

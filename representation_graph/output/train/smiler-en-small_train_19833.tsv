@@ -1,0 +1,62 @@
+19832_0	is_in_sentence	sentence_19832
+19832_0	compound	19832_1
+19832_0	has_surface_form	Artashes
+19832_0	part_of_entity	Artashes Geghamyan
+19832_1	is_in_sentence	sentence_19832
+19832_1	nsubj	19832_13
+19832_1	has_surface_form	Geghamyan
+19832_1	part_of_entity	Artashes Geghamyan
+19832_13	is_in_sentence	sentence_19832
+19832_13	ROOT	19832_13
+19832_13	has_surface_form	is
+19832_2	is_in_sentence	sentence_19832
+19832_2	punct	19832_3
+19832_2	has_surface_form	(
+19832_3	is_in_sentence	sentence_19832
+19832_3	appos	19832_1
+19832_3	has_surface_form	Armenian
+19832_4	is_in_sentence	sentence_19832
+19832_4	punct	19832_3
+19832_4	has_surface_form	:
+19832_5	is_in_sentence	sentence_19832
+19832_5	compound	19832_6
+19832_5	has_surface_form	Արտաշես
+19832_6	is_in_sentence	sentence_19832
+19832_6	appos	19832_1
+19832_6	has_surface_form	Գեղամյան
+19832_7	is_in_sentence	sentence_19832
+19832_7	punct	19832_6
+19832_7	has_surface_form	,
+19832_8	is_in_sentence	sentence_19832
+19832_8	acl	19832_6
+19832_8	has_surface_form	born
+19832_9	is_in_sentence	sentence_19832
+19832_9	nummod	19832_10
+19832_9	has_surface_form	2
+19832_10	is_in_sentence	sentence_19832
+19832_10	npadvmod	19832_8
+19832_10	has_surface_form	December
+19832_11	is_in_sentence	sentence_19832
+19832_11	nummod	19832_10
+19832_11	has_surface_form	1949
+19832_12	is_in_sentence	sentence_19832
+19832_12	punct	19832_6
+19832_12	has_surface_form	)
+19832_14	is_in_sentence	sentence_19832
+19832_14	det	19832_16
+19832_14	has_surface_form	an
+19832_16	is_in_sentence	sentence_19832
+19832_16	attr	19832_13
+19832_16	is_entity	politician
+19832_15	is_in_sentence	sentence_19832
+19832_15	amod	19832_16
+19832_15	has_surface_form	Armenian
+politician	surface_form	politician
+19832_17	is_in_sentence	sentence_19832
+19832_17	punct	19832_13
+19832_17	has_surface_form	.
+19832_18	is_in_sentence	sentence_19832
+19832_18	dep	19832_18
+19832_18	has_surface_form	
+Artashes Geghamyan	surface_form	Artashes Geghamyan
+Artashes Geghamyan	has-occupation	politician

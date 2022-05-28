@@ -1,0 +1,82 @@
+19147_0	is_in_sentence	sentence_19147
+19147_0	compound	19147_1
+19147_0	has_surface_form	King
+19147_0	part_of_entity	King Charles I School
+19147_1	is_in_sentence	sentence_19147
+19147_1	nsubj	19147_4
+19147_1	has_surface_form	Charles
+19147_1	part_of_entity	King Charles I School
+19147_4	is_in_sentence	sentence_19147
+19147_4	ROOT	19147_4
+19147_4	has_surface_form	is
+19147_2	is_in_sentence	sentence_19147
+19147_2	compound	19147_3
+19147_2	has_surface_form	I
+19147_2	part_of_entity	King Charles I School
+19147_3	is_in_sentence	sentence_19147
+19147_3	appos	19147_1
+19147_3	has_surface_form	School
+19147_3	part_of_entity	King Charles I School
+19147_5	is_in_sentence	sentence_19147
+19147_5	det	19147_10
+19147_5	has_surface_form	a
+19147_10	is_in_sentence	sentence_19147
+19147_10	attr	19147_4
+19147_10	has_surface_form	school
+19147_6	is_in_sentence	sentence_19147
+19147_6	amod	19147_10
+19147_6	has_surface_form	voluntary
+19147_7	is_in_sentence	sentence_19147
+19147_7	amod	19147_10
+19147_7	has_surface_form	controlled
+19147_8	is_in_sentence	sentence_19147
+19147_8	amod	19147_10
+19147_8	has_surface_form	mixed
+19147_9	is_in_sentence	sentence_19147
+19147_9	amod	19147_10
+19147_9	has_surface_form	secondary
+19147_11	is_in_sentence	sentence_19147
+19147_11	prep	19147_10
+19147_11	has_surface_form	with
+19147_12	is_in_sentence	sentence_19147
+19147_12	compound	19147_13
+19147_12	has_surface_form	academy
+19147_13	is_in_sentence	sentence_19147
+19147_13	pobj	19147_11
+19147_13	has_surface_form	status
+19147_14	is_in_sentence	sentence_19147
+19147_14	prep	19147_10
+19147_14	has_surface_form	in
+19147_15	is_in_sentence	sentence_19147
+19147_15	det	19147_16
+19147_15	has_surface_form	the
+19147_16	is_in_sentence	sentence_19147
+19147_16	pobj	19147_14
+19147_16	has_surface_form	town
+19147_17	is_in_sentence	sentence_19147
+19147_17	prep	19147_16
+19147_17	has_surface_form	of
+19147_18	is_in_sentence	sentence_19147
+19147_18	pobj	19147_17
+19147_18	is_entity	Kidderminster
+Kidderminster	surface_form	Kidderminster
+19147_19	is_in_sentence	sentence_19147
+19147_19	punct	19147_18
+19147_19	has_surface_form	,
+19147_20	is_in_sentence	sentence_19147
+19147_20	conj	19147_18
+19147_20	has_surface_form	Worcestershire
+19147_21	is_in_sentence	sentence_19147
+19147_21	punct	19147_20
+19147_21	has_surface_form	,
+19147_22	is_in_sentence	sentence_19147
+19147_22	appos	19147_20
+19147_22	has_surface_form	England
+19147_23	is_in_sentence	sentence_19147
+19147_23	punct	19147_4
+19147_23	has_surface_form	.
+19147_24	is_in_sentence	sentence_19147
+19147_24	dep	19147_4
+19147_24	has_surface_form	
+King Charles I School	surface_form	King Charles I School
+King Charles I School	is-where	Kidderminster

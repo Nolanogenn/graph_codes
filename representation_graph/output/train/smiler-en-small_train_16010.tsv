@@ -1,0 +1,111 @@
+16009_0	is_in_sentence	sentence_16009
+16009_0	det	16009_1
+16009_0	has_surface_form	A
+16009_0	part_of_entity	A Cottage on Dartmoor
+16009_1	is_in_sentence	sentence_16009
+16009_1	nsubj	16009_10
+16009_1	has_surface_form	Cottage
+16009_1	part_of_entity	A Cottage on Dartmoor
+16009_10	is_in_sentence	sentence_16009
+16009_10	ROOT	16009_10
+16009_10	has_surface_form	is
+16009_2	is_in_sentence	sentence_16009
+16009_2	prep	16009_1
+16009_2	has_surface_form	on
+16009_2	part_of_entity	A Cottage on Dartmoor
+16009_3	is_in_sentence	sentence_16009
+16009_3	nmod	16009_6
+16009_3	has_surface_form	Dartmoor
+16009_3	part_of_entity	A Cottage on Dartmoor
+16009_6	is_in_sentence	sentence_16009
+16009_6	pobj	16009_2
+16009_6	has_surface_form	Escape
+16009_4	is_in_sentence	sentence_16009
+16009_4	punct	16009_6
+16009_4	has_surface_form	(
+16009_5	is_in_sentence	sentence_16009
+16009_5	compound	16009_6
+16009_5	has_surface_form	a.
+16009_7	is_in_sentence	sentence_16009
+16009_7	prep	16009_6
+16009_7	has_surface_form	from
+16009_8	is_in_sentence	sentence_16009
+16009_8	pobj	16009_7
+16009_8	has_surface_form	Dartmoor
+16009_9	is_in_sentence	sentence_16009
+16009_9	punct	16009_6
+16009_9	has_surface_form	)
+16009_11	is_in_sentence	sentence_16009
+16009_11	det	16009_15
+16009_11	has_surface_form	a
+16009_15	is_in_sentence	sentence_16009
+16009_15	attr	16009_10
+16009_15	has_surface_form	film
+16009_12	is_in_sentence	sentence_16009
+16009_12	nummod	16009_15
+16009_12	has_surface_form	1929
+16009_13	is_in_sentence	sentence_16009
+16009_13	amod	16009_15
+16009_13	has_surface_form	British
+16009_14	is_in_sentence	sentence_16009
+16009_14	amod	16009_15
+16009_14	has_surface_form	silent
+16009_16	is_in_sentence	sentence_16009
+16009_16	punct	16009_15
+16009_16	has_surface_form	,
+16009_17	is_in_sentence	sentence_16009
+16009_17	acl	16009_15
+16009_17	has_surface_form	directed
+16009_18	is_in_sentence	sentence_16009
+16009_18	agent	16009_17
+16009_18	has_surface_form	by
+16009_19	is_in_sentence	sentence_16009
+16009_19	compound	16009_20
+16009_19	has_surface_form	Anthony
+16009_20	is_in_sentence	sentence_16009
+16009_20	pobj	16009_18
+16009_20	has_surface_form	Asquith
+16009_21	is_in_sentence	sentence_16009
+16009_21	cc	16009_17
+16009_21	has_surface_form	and
+16009_22	is_in_sentence	sentence_16009
+16009_22	conj	16009_17
+16009_22	has_surface_form	starring
+16009_23	is_in_sentence	sentence_16009
+16009_23	compound	16009_24
+16009_23	has_surface_form	Norah
+16009_24	is_in_sentence	sentence_16009
+16009_24	dobj	16009_22
+16009_24	has_surface_form	Baring
+16009_25	is_in_sentence	sentence_16009
+16009_25	punct	16009_24
+16009_25	has_surface_form	,
+16009_26	is_in_sentence	sentence_16009
+16009_26	compound	16009_27
+16009_26	has_surface_form	Uno
+16009_26	part_of_entity	Uno Henning
+16009_27	is_in_sentence	sentence_16009
+16009_27	conj	16009_24
+16009_27	has_surface_form	Henning
+16009_27	part_of_entity	Uno Henning
+16009_28	is_in_sentence	sentence_16009
+16009_28	cc	16009_27
+16009_28	has_surface_form	and
+16009_29	is_in_sentence	sentence_16009
+16009_29	compound	16009_31
+16009_29	has_surface_form	Hans
+16009_31	is_in_sentence	sentence_16009
+16009_31	conj	16009_27
+16009_31	has_surface_form	Schlettow
+16009_30	is_in_sentence	sentence_16009
+16009_30	compound	16009_31
+16009_30	has_surface_form	Adalbert
+16009_32	is_in_sentence	sentence_16009
+16009_32	punct	16009_10
+16009_32	has_surface_form	.
+16009_33	is_in_sentence	sentence_16009
+16009_33	dep	16009_10
+16009_33	has_surface_form	
+A Cottage on Dartmoor	surface_form	A Cottage on Dartmoor
+A Cottage on Dartmoor	starring	Uno Henning
+Uno Henning	surface_form	Uno Henning

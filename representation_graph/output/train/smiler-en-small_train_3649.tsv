@@ -1,0 +1,101 @@
+3648_0	is_in_sentence	sentence_3648
+3648_0	compound	3648_2
+3648_0	has_surface_form	Shalini
+3648_0	part_of_entity	Shalini Kapoor Sagar
+3648_2	is_in_sentence	sentence_3648
+3648_2	nsubj	3648_9
+3648_2	has_surface_form	Sagar
+3648_2	part_of_entity	Shalini Kapoor Sagar
+3648_1	is_in_sentence	sentence_3648
+3648_1	compound	3648_2
+3648_1	has_surface_form	Kapoor
+3648_1	part_of_entity	Shalini Kapoor Sagar
+3648_9	is_in_sentence	sentence_3648
+3648_9	ROOT	3648_9
+3648_9	has_surface_form	is
+3648_3	is_in_sentence	sentence_3648
+3648_3	punct	3648_2
+3648_3	has_surface_form	(
+3648_4	is_in_sentence	sentence_3648
+3648_4	acl	3648_2
+3648_4	has_surface_form	born
+3648_5	is_in_sentence	sentence_3648
+3648_5	nummod	3648_6
+3648_5	has_surface_form	4
+3648_6	is_in_sentence	sentence_3648
+3648_6	npadvmod	3648_4
+3648_6	has_surface_form	January
+3648_7	is_in_sentence	sentence_3648
+3648_7	nummod	3648_6
+3648_7	has_surface_form	1976
+3648_8	is_in_sentence	sentence_3648
+3648_8	punct	3648_2
+3648_8	has_surface_form	)
+3648_10	is_in_sentence	sentence_3648
+3648_10	det	3648_15
+3648_10	has_surface_form	an
+3648_15	is_in_sentence	sentence_3648
+3648_15	attr	3648_9
+3648_15	has_surface_form	actor
+3648_11	is_in_sentence	sentence_3648
+3648_11	amod	3648_15
+3648_11	has_surface_form	Indian
+3648_12	is_in_sentence	sentence_3648
+3648_12	nmod	3648_15
+3648_12	has_surface_form	actress
+3648_13	is_in_sentence	sentence_3648
+3648_13	cc	3648_12
+3648_13	has_surface_form	and
+3648_14	is_in_sentence	sentence_3648
+3648_14	conj	3648_12
+3648_14	has_surface_form	theatre
+3648_16	is_in_sentence	sentence_3648
+3648_16	punct	3648_9
+3648_16	has_surface_form	.
+3648_17	is_in_sentence	sentence_3648
+3648_17	nsubj	3648_18
+3648_17	has_surface_form	Kapoor
+3648_18	is_in_sentence	sentence_3648
+3648_18	ROOT	3648_18
+3648_18	has_surface_form	is
+3648_19	is_in_sentence	sentence_3648
+3648_19	acomp	3648_18
+3648_19	has_surface_form	married
+3648_20	is_in_sentence	sentence_3648
+3648_20	prep	3648_19
+3648_20	has_surface_form	to
+3648_21	is_in_sentence	sentence_3648
+3648_21	compound	3648_22
+3648_21	has_surface_form	Rohit
+3648_21	part_of_entity	Rohit Sagar
+3648_22	is_in_sentence	sentence_3648
+3648_22	pobj	3648_20
+3648_22	has_surface_form	Sagar
+3648_22	part_of_entity	Rohit Sagar
+3648_23	is_in_sentence	sentence_3648
+3648_23	punct	3648_22
+3648_23	has_surface_form	,
+3648_24	is_in_sentence	sentence_3648
+3648_24	det	3648_28
+3648_24	has_surface_form	a
+3648_28	is_in_sentence	sentence_3648
+3648_28	appos	3648_22
+3648_28	has_surface_form	actor
+3648_25	is_in_sentence	sentence_3648
+3648_25	nmod	3648_28
+3648_25	has_surface_form	theatre
+3648_26	is_in_sentence	sentence_3648
+3648_26	cc	3648_25
+3648_26	has_surface_form	and
+3648_27	is_in_sentence	sentence_3648
+3648_27	conj	3648_25
+3648_27	has_surface_form	television
+3648_29	is_in_sentence	sentence_3648
+3648_29	punct	3648_18
+3648_29	has_surface_form	.
+3648_30	is_in_sentence	sentence_3648
+3648_30	dep	3648_30
+3648_30	has_surface_form	
+Shalini Kapoor Sagar	surface_form	Shalini Kapoor Sagar
+Shalini Kapoor Sagar	has-spouse	Rohit Sagar
+Rohit Sagar	surface_form	Rohit Sagar

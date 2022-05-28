@@ -1,0 +1,59 @@
+16031_0	is_in_sentence	sentence_16031
+16031_0	compound	16031_1
+16031_0	has_surface_form	Nate
+16031_0	part_of_entity	Nate Leaman
+16031_1	is_in_sentence	sentence_16031
+16031_1	nsubj	16031_9
+16031_1	has_surface_form	Leaman
+16031_1	part_of_entity	Nate Leaman
+16031_9	is_in_sentence	sentence_16031
+16031_9	ROOT	16031_9
+16031_9	has_surface_form	is
+16031_2	is_in_sentence	sentence_16031
+16031_2	punct	16031_1
+16031_2	has_surface_form	(
+16031_3	is_in_sentence	sentence_16031
+16031_3	acl	16031_1
+16031_3	has_surface_form	born
+16031_4	is_in_sentence	sentence_16031
+16031_4	npadvmod	16031_3
+16031_4	has_surface_form	November
+16031_5	is_in_sentence	sentence_16031
+16031_5	nummod	16031_4
+16031_5	has_surface_form	27
+16031_6	is_in_sentence	sentence_16031
+16031_6	punct	16031_4
+16031_6	has_surface_form	,
+16031_7	is_in_sentence	sentence_16031
+16031_7	nummod	16031_4
+16031_7	has_surface_form	1972
+16031_8	is_in_sentence	sentence_16031
+16031_8	punct	16031_1
+16031_8	has_surface_form	)
+16031_10	is_in_sentence	sentence_16031
+16031_10	det	16031_14
+16031_10	has_surface_form	an
+16031_14	is_in_sentence	sentence_16031
+16031_14	attr	16031_9
+16031_14	has_surface_form	coach
+16031_14	part_of_entity	ice hockey coach
+16031_11	is_in_sentence	sentence_16031
+16031_11	amod	16031_14
+16031_11	has_surface_form	American
+16031_12	is_in_sentence	sentence_16031
+16031_12	compound	16031_13
+16031_12	has_surface_form	ice
+16031_12	part_of_entity	ice hockey coach
+16031_13	is_in_sentence	sentence_16031
+16031_13	compound	16031_14
+16031_13	has_surface_form	hockey
+16031_13	part_of_entity	ice hockey coach
+16031_15	is_in_sentence	sentence_16031
+16031_15	punct	16031_9
+16031_15	has_surface_form	.
+16031_16	is_in_sentence	sentence_16031
+16031_16	dep	16031_16
+16031_16	has_surface_form	
+Nate Leaman	surface_form	Nate Leaman
+Nate Leaman	has-type	ice hockey coach
+ice hockey coach	surface_form	ice hockey coach

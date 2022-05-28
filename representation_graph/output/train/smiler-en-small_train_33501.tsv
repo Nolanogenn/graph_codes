@@ -1,0 +1,62 @@
+33500_0	is_in_sentence	sentence_33500
+33500_0	compound	33500_1
+33500_0	has_surface_form	Steve
+33500_0	part_of_entity	Steve Szabo
+33500_1	is_in_sentence	sentence_33500
+33500_1	nsubj	33500_9
+33500_1	has_surface_form	Szabo
+33500_1	part_of_entity	Steve Szabo
+33500_9	is_in_sentence	sentence_33500
+33500_9	ROOT	33500_9
+33500_9	has_surface_form	is
+33500_2	is_in_sentence	sentence_33500
+33500_2	punct	33500_3
+33500_2	has_surface_form	(
+33500_3	is_in_sentence	sentence_33500
+33500_3	parataxis	33500_1
+33500_3	has_surface_form	born
+33500_4	is_in_sentence	sentence_33500
+33500_4	npadvmod	33500_3
+33500_4	has_surface_form	September
+33500_5	is_in_sentence	sentence_33500
+33500_5	nummod	33500_4
+33500_5	has_surface_form	11
+33500_6	is_in_sentence	sentence_33500
+33500_6	punct	33500_4
+33500_6	has_surface_form	,
+33500_7	is_in_sentence	sentence_33500
+33500_7	nummod	33500_4
+33500_7	has_surface_form	1943
+33500_8	is_in_sentence	sentence_33500
+33500_8	punct	33500_4
+33500_8	has_surface_form	)
+33500_10	is_in_sentence	sentence_33500
+33500_10	det	33500_14
+33500_10	has_surface_form	a
+33500_14	is_in_sentence	sentence_33500
+33500_14	attr	33500_9
+33500_14	has_surface_form	player
+33500_11	is_in_sentence	sentence_33500
+33500_11	amod	33500_14
+33500_11	has_surface_form	former
+33500_12	is_in_sentence	sentence_33500
+33500_12	amod	33500_14
+33500_12	has_surface_form	American
+33500_13	is_in_sentence	sentence_33500
+33500_13	compound	33500_14
+33500_13	has_surface_form	football
+33500_15	is_in_sentence	sentence_33500
+33500_15	cc	33500_14
+33500_15	has_surface_form	and
+33500_16	is_in_sentence	sentence_33500
+33500_16	conj	33500_14
+33500_16	is_entity	coach
+coach	surface_form	coach
+33500_17	is_in_sentence	sentence_33500
+33500_17	punct	33500_9
+33500_17	has_surface_form	.
+33500_18	is_in_sentence	sentence_33500
+33500_18	dep	33500_18
+33500_18	has_surface_form	
+Steve Szabo	surface_form	Steve Szabo
+Steve Szabo	has-type	coach

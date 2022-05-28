@@ -1,0 +1,53 @@
+19626_0	is_in_sentence	sentence_19626
+19626_0	compound	19626_1
+19626_0	has_surface_form	Frank
+19626_0	part_of_entity	Frank Vignola
+19626_1	is_in_sentence	sentence_19626
+19626_1	nsubj	19626_9
+19626_1	has_surface_form	Vignola
+19626_1	part_of_entity	Frank Vignola
+19626_9	is_in_sentence	sentence_19626
+19626_9	ROOT	19626_9
+19626_9	has_surface_form	is
+19626_2	is_in_sentence	sentence_19626
+19626_2	punct	19626_1
+19626_2	has_surface_form	(
+19626_3	is_in_sentence	sentence_19626
+19626_3	acl	19626_1
+19626_3	has_surface_form	born
+19626_4	is_in_sentence	sentence_19626
+19626_4	npadvmod	19626_3
+19626_4	has_surface_form	December
+19626_5	is_in_sentence	sentence_19626
+19626_5	nummod	19626_4
+19626_5	has_surface_form	30
+19626_6	is_in_sentence	sentence_19626
+19626_6	punct	19626_4
+19626_6	has_surface_form	,
+19626_7	is_in_sentence	sentence_19626
+19626_7	nummod	19626_4
+19626_7	has_surface_form	1965
+19626_8	is_in_sentence	sentence_19626
+19626_8	punct	19626_1
+19626_8	has_surface_form	)
+19626_10	is_in_sentence	sentence_19626
+19626_10	det	19626_13
+19626_10	has_surface_form	an
+19626_13	is_in_sentence	sentence_19626
+19626_13	attr	19626_9
+19626_13	has_surface_form	guitarist
+19626_11	is_in_sentence	sentence_19626
+19626_11	amod	19626_13
+19626_11	has_surface_form	American
+19626_12	is_in_sentence	sentence_19626
+19626_12	compound	19626_13
+19626_12	is_entity	jazz
+jazz	surface_form	jazz
+19626_14	is_in_sentence	sentence_19626
+19626_14	punct	19626_9
+19626_14	has_surface_form	.
+19626_15	is_in_sentence	sentence_19626
+19626_15	dep	19626_15
+19626_15	has_surface_form	
+Frank Vignola	surface_form	Frank Vignola
+Frank Vignola	has-genre	jazz

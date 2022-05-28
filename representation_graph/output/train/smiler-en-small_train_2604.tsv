@@ -1,0 +1,68 @@
+2603_0	is_in_sentence	sentence_2603
+2603_0	det	2603_2
+2603_0	has_surface_form	The
+2603_2	is_in_sentence	sentence_2603
+2603_2	nsubj	2603_10
+2603_2	has_surface_form	Pires
+2603_2	part_of_entity	Teles Pires
+2603_1	is_in_sentence	sentence_2603
+2603_1	compound	2603_2
+2603_1	has_surface_form	Teles
+2603_1	part_of_entity	Teles Pires
+2603_10	is_in_sentence	sentence_2603
+2603_10	ROOT	2603_10
+2603_10	has_surface_form	is
+2603_3	is_in_sentence	sentence_2603
+2603_3	punct	2603_4
+2603_3	has_surface_form	(
+2603_4	is_in_sentence	sentence_2603
+2603_4	appos	2603_2
+2603_4	has_surface_form	Portuguese
+2603_5	is_in_sentence	sentence_2603
+2603_5	punct	2603_4
+2603_5	has_surface_form	:
+2603_6	is_in_sentence	sentence_2603
+2603_6	compound	2603_8
+2603_6	has_surface_form	Rio
+2603_8	is_in_sentence	sentence_2603
+2603_8	appos	2603_4
+2603_8	has_surface_form	Manuel
+2603_7	is_in_sentence	sentence_2603
+2603_7	compound	2603_8
+2603_7	has_surface_form	São
+2603_9	is_in_sentence	sentence_2603
+2603_9	punct	2603_4
+2603_9	has_surface_form	)
+2603_11	is_in_sentence	sentence_2603
+2603_11	det	2603_16
+2603_11	has_surface_form	a
+2603_16	is_in_sentence	sentence_2603
+2603_16	attr	2603_10
+2603_16	has_surface_form	river
+2603_12	is_in_sentence	sentence_2603
+2603_12	nummod	2603_13
+2603_12	has_surface_form	1370
+2603_13	is_in_sentence	sentence_2603
+2603_13	dep	2603_16
+2603_13	has_surface_form	 
+2603_14	is_in_sentence	sentence_2603
+2603_14	nmod	2603_16
+2603_14	has_surface_form	km
+2603_15	is_in_sentence	sentence_2603
+2603_15	amod	2603_16
+2603_15	has_surface_form	long
+2603_17	is_in_sentence	sentence_2603
+2603_17	prep	2603_16
+2603_17	has_surface_form	in
+2603_18	is_in_sentence	sentence_2603
+2603_18	pobj	2603_17
+2603_18	has_surface_form	Brasil
+2603_19	is_in_sentence	sentence_2603
+2603_19	punct	2603_10
+2603_19	has_surface_form	.
+2603_20	is_in_sentence	sentence_2603
+2603_20	dep	2603_20
+2603_20	has_surface_form	
+Teles Pires	surface_form	Teles Pires
+Teles Pires	has-length	1370 km
+1370 km	surface_form	1370 km

@@ -1,0 +1,88 @@
+34300_0	is_in_sentence	sentence_34300
+34300_0	det	34300_1
+34300_0	has_surface_form	The
+34300_0	part_of_entity	The Diary of Lady M
+34300_1	is_in_sentence	sentence_34300
+34300_1	nsubj	34300_14
+34300_1	has_surface_form	Diary
+34300_1	part_of_entity	The Diary of Lady M
+34300_14	is_in_sentence	sentence_34300
+34300_14	ROOT	34300_14
+34300_14	has_surface_form	is
+34300_2	is_in_sentence	sentence_34300
+34300_2	prep	34300_1
+34300_2	has_surface_form	of
+34300_2	part_of_entity	The Diary of Lady M
+34300_3	is_in_sentence	sentence_34300
+34300_3	compound	34300_4
+34300_3	has_surface_form	Lady
+34300_3	part_of_entity	The Diary of Lady M
+34300_4	is_in_sentence	sentence_34300
+34300_4	pobj	34300_2
+34300_4	has_surface_form	M
+34300_4	part_of_entity	The Diary of Lady M
+34300_5	is_in_sentence	sentence_34300
+34300_5	punct	34300_6
+34300_5	has_surface_form	(
+34300_6	is_in_sentence	sentence_34300
+34300_6	appos	34300_1
+34300_6	has_surface_form	French
+34300_7	is_in_sentence	sentence_34300
+34300_7	punct	34300_6
+34300_7	has_surface_form	:
+34300_8	is_in_sentence	sentence_34300
+34300_8	compound	34300_9
+34300_8	has_surface_form	Le
+34300_9	is_in_sentence	sentence_34300
+34300_9	compound	34300_12
+34300_9	has_surface_form	journal
+34300_12	is_in_sentence	sentence_34300
+34300_12	appos	34300_1
+34300_12	has_surface_form	M
+34300_10	is_in_sentence	sentence_34300
+34300_10	compound	34300_12
+34300_10	has_surface_form	de
+34300_11	is_in_sentence	sentence_34300
+34300_11	compound	34300_12
+34300_11	has_surface_form	Lady
+34300_13	is_in_sentence	sentence_34300
+34300_13	punct	34300_12
+34300_13	has_surface_form	)
+34300_15	is_in_sentence	sentence_34300
+34300_15	det	34300_19
+34300_15	has_surface_form	a
+34300_19	is_in_sentence	sentence_34300
+34300_19	attr	34300_14
+34300_19	has_surface_form	film
+34300_16	is_in_sentence	sentence_34300
+34300_16	nummod	34300_19
+34300_16	has_surface_form	1993
+34300_17	is_in_sentence	sentence_34300
+34300_17	amod	34300_19
+34300_17	has_surface_form	Swiss
+34300_18	is_in_sentence	sentence_34300
+34300_18	compound	34300_19
+34300_18	has_surface_form	drama
+34300_20	is_in_sentence	sentence_34300
+34300_20	acl	34300_19
+34300_20	has_surface_form	directed
+34300_21	is_in_sentence	sentence_34300
+34300_21	agent	34300_20
+34300_21	has_surface_form	by
+34300_22	is_in_sentence	sentence_34300
+34300_22	compound	34300_23
+34300_22	has_surface_form	Alain
+34300_22	part_of_entity	Alain Tanner
+34300_23	is_in_sentence	sentence_34300
+34300_23	pobj	34300_21
+34300_23	has_surface_form	Tanner
+34300_23	part_of_entity	Alain Tanner
+34300_24	is_in_sentence	sentence_34300
+34300_24	punct	34300_14
+34300_24	has_surface_form	.
+34300_25	is_in_sentence	sentence_34300
+34300_25	dep	34300_25
+34300_25	has_surface_form	
+The Diary of Lady M	surface_form	The Diary of Lady M
+The Diary of Lady M	movie-has-director	Alain Tanner
+Alain Tanner	surface_form	Alain Tanner

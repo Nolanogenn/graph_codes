@@ -1,0 +1,41 @@
+11776_0	is_in_sentence	sentence_11776
+11776_0	compound	11776_1
+11776_0	has_surface_form	Faye
+11776_0	part_of_entity	Faye Carol
+11776_1	is_in_sentence	sentence_11776
+11776_1	nsubj	11776_2
+11776_1	has_surface_form	Carol
+11776_1	part_of_entity	Faye Carol
+11776_2	is_in_sentence	sentence_11776
+11776_2	ROOT	11776_2
+11776_2	has_surface_form	is
+11776_3	is_in_sentence	sentence_11776
+11776_3	det	11776_7
+11776_3	has_surface_form	a
+11776_7	is_in_sentence	sentence_11776
+11776_7	attr	11776_2
+11776_7	has_surface_form	singer
+11776_4	is_in_sentence	sentence_11776
+11776_4	nmod	11776_7
+11776_4	is_entity	jazz
+jazz	surface_form	jazz
+11776_5	is_in_sentence	sentence_11776
+11776_5	cc	11776_4
+11776_5	has_surface_form	and
+11776_6	is_in_sentence	sentence_11776
+11776_6	conj	11776_4
+11776_6	has_surface_form	blues
+11776_8	is_in_sentence	sentence_11776
+11776_8	prep	11776_7
+11776_8	has_surface_form	from
+11776_9	is_in_sentence	sentence_11776
+11776_9	pobj	11776_8
+11776_9	has_surface_form	Mississippi
+11776_10	is_in_sentence	sentence_11776
+11776_10	punct	11776_2
+11776_10	has_surface_form	.
+11776_11	is_in_sentence	sentence_11776
+11776_11	dep	11776_11
+11776_11	has_surface_form	
+Faye Carol	surface_form	Faye Carol
+Faye Carol	has-genre	jazz

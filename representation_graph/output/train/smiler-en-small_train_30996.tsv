@@ -1,0 +1,65 @@
+30995_0	is_in_sentence	sentence_30995
+30995_0	compound	30995_3
+30995_0	has_surface_form	Joseph
+30995_3	is_in_sentence	sentence_30995
+30995_3	nsubj	30995_12
+30995_3	has_surface_form	Porciuncula
+30995_1	is_in_sentence	sentence_30995
+30995_1	compound	30995_3
+30995_1	has_surface_form	Jerome
+30995_2	is_in_sentence	sentence_30995
+30995_2	compound	30995_3
+30995_2	has_surface_form	Gapido
+30995_12	is_in_sentence	sentence_30995
+30995_12	ROOT	30995_12
+30995_12	has_surface_form	is
+30995_4	is_in_sentence	sentence_30995
+30995_4	acl	30995_3
+30995_4	has_surface_form	known
+30995_5	is_in_sentence	sentence_30995
+30995_5	agent	30995_4
+30995_5	has_surface_form	by
+30995_6	is_in_sentence	sentence_30995
+30995_6	poss	30995_8
+30995_6	has_surface_form	his
+30995_8	is_in_sentence	sentence_30995
+30995_8	pobj	30995_5
+30995_8	has_surface_form	name
+30995_7	is_in_sentence	sentence_30995
+30995_7	compound	30995_8
+30995_7	has_surface_form	stage
+30995_9	is_in_sentence	sentence_30995
+30995_9	compound	30995_10
+30995_9	has_surface_form	Jerome
+30995_9	part_of_entity	Jerome Ponce
+30995_10	is_in_sentence	sentence_30995
+30995_10	appos	30995_8
+30995_10	has_surface_form	Ponce
+30995_10	part_of_entity	Jerome Ponce
+30995_11	is_in_sentence	sentence_30995
+30995_11	punct	30995_3
+30995_11	has_surface_form	,
+30995_13	is_in_sentence	sentence_30995
+30995_13	det	30995_15
+30995_13	has_surface_form	a
+30995_15	is_in_sentence	sentence_30995
+30995_15	attr	30995_12
+30995_15	is_entity	actor
+30995_14	is_in_sentence	sentence_30995
+30995_14	amod	30995_15
+30995_14	has_surface_form	Filipino
+actor	surface_form	actor
+30995_16	is_in_sentence	sentence_30995
+30995_16	cc	30995_15
+30995_16	has_surface_form	and
+30995_17	is_in_sentence	sentence_30995
+30995_17	conj	30995_15
+30995_17	has_surface_form	model
+30995_18	is_in_sentence	sentence_30995
+30995_18	punct	30995_12
+30995_18	has_surface_form	.
+30995_19	is_in_sentence	sentence_30995
+30995_19	dep	30995_19
+30995_19	has_surface_form	
+Jerome Ponce	surface_form	Jerome Ponce
+Jerome Ponce	has-occupation	actor

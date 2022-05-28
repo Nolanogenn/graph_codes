@@ -1,0 +1,65 @@
+5854_0	is_in_sentence	sentence_5854
+5854_0	det	5854_1
+5854_0	has_surface_form	The
+5854_1	is_in_sentence	sentence_5854
+5854_1	nsubj	5854_5
+5854_1	is_entity	D3
+5854_5	is_in_sentence	sentence_5854
+5854_5	ccomp	5854_15
+5854_5	has_surface_form	are
+D3	surface_form	D3
+D3	no_relation	D5 Connected
+5854_2	is_in_sentence	sentence_5854
+5854_2	cc	5854_1
+5854_2	has_surface_form	and
+5854_3	is_in_sentence	sentence_5854
+5854_3	compound	5854_4
+5854_3	has_surface_form	D5
+5854_3	part_of_entity	D5 Connected
+5854_4	is_in_sentence	sentence_5854
+5854_4	conj	5854_1
+5854_4	has_surface_form	Connected
+5854_4	part_of_entity	D5 Connected
+5854_15	is_in_sentence	sentence_5854
+5854_15	ROOT	5854_15
+5854_15	has_surface_form	are
+5854_6	is_in_sentence	sentence_5854
+5854_6	advmod	5854_7
+5854_6	has_surface_form	electrically
+5854_7	is_in_sentence	sentence_5854
+5854_7	acomp	5854_5
+5854_7	has_surface_form	identical
+5854_8	is_in_sentence	sentence_5854
+5854_8	cc	5854_7
+5854_8	has_surface_form	and
+5854_9	is_in_sentence	sentence_5854
+5854_9	conj	5854_7
+5854_9	has_surface_form	software
+5854_10	is_in_sentence	sentence_5854
+5854_10	punct	5854_5
+5854_10	has_surface_form	,
+5854_11	is_in_sentence	sentence_5854
+5854_11	nsubj	5854_15
+5854_11	has_surface_form	accessories
+5854_12	is_in_sentence	sentence_5854
+5854_12	cc	5854_11
+5854_12	has_surface_form	and
+5854_13	is_in_sentence	sentence_5854
+5854_13	compound	5854_14
+5854_13	has_surface_form	robot
+5854_14	is_in_sentence	sentence_5854
+5854_14	conj	5854_11
+5854_14	has_surface_form	bodies
+5854_16	is_in_sentence	sentence_5854
+5854_16	det	5854_17
+5854_16	has_surface_form	the
+5854_17	is_in_sentence	sentence_5854
+5854_17	attr	5854_15
+5854_17	has_surface_form	differences
+5854_18	is_in_sentence	sentence_5854
+5854_18	punct	5854_15
+5854_18	has_surface_form	.
+5854_19	is_in_sentence	sentence_5854
+5854_19	dep	5854_19
+5854_19	has_surface_form	
+D5 Connected	surface_form	D5 Connected

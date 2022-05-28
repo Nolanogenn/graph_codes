@@ -1,0 +1,41 @@
+762_0	is_in_sentence	sentence_762
+762_0	nsubj	762_1
+762_0	is_entity	SAP
+762_1	is_in_sentence	sentence_762
+762_1	ROOT	762_1
+762_1	has_surface_form	completes
+SAP	surface_form	SAP
+SAP	first-product	financial accounting system - RF
+762_2	is_in_sentence	sentence_762
+762_2	poss	762_8
+762_2	has_surface_form	its
+762_8	is_in_sentence	sentence_762
+762_8	dobj	762_1
+762_8	has_surface_form	RF
+762_8	part_of_entity	financial accounting system - RF
+762_3	is_in_sentence	sentence_762
+762_3	amod	762_8
+762_3	has_surface_form	first
+762_4	is_in_sentence	sentence_762
+762_4	amod	762_5
+762_4	has_surface_form	financial
+762_4	part_of_entity	financial accounting system - RF
+762_5	is_in_sentence	sentence_762
+762_5	compound	762_6
+762_5	has_surface_form	accounting
+762_5	part_of_entity	financial accounting system - RF
+762_6	is_in_sentence	sentence_762
+762_6	compound	762_8
+762_6	has_surface_form	system
+762_6	part_of_entity	financial accounting system - RF
+762_7	is_in_sentence	sentence_762
+762_7	punct	762_8
+762_7	has_surface_form	-
+762_7	part_of_entity	financial accounting system - RF
+762_9	is_in_sentence	sentence_762
+762_9	punct	762_1
+762_9	has_surface_form	.
+762_10	is_in_sentence	sentence_762
+762_10	dep	762_1
+762_10	has_surface_form	
+financial accounting system - RF	surface_form	financial accounting system - RF

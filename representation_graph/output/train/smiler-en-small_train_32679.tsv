@@ -1,0 +1,79 @@
+32678_0	is_in_sentence	sentence_32678
+32678_0	compound	32678_1
+32678_0	has_surface_form	Carlo
+32678_0	part_of_entity	Carlo Wieth
+32678_1	is_in_sentence	sentence_32678
+32678_1	nsubjpass	32678_3
+32678_1	has_surface_form	Wieth
+32678_1	part_of_entity	Carlo Wieth
+32678_3	is_in_sentence	sentence_32678
+32678_3	ccomp	32678_9
+32678_3	has_surface_form	married
+32678_2	is_in_sentence	sentence_32678
+32678_2	auxpass	32678_3
+32678_2	has_surface_form	was
+32678_9	is_in_sentence	sentence_32678
+32678_9	ROOT	32678_9
+32678_9	has_surface_form	was
+32678_4	is_in_sentence	sentence_32678
+32678_4	advmod	32678_3
+32678_4	has_surface_form	twice
+32678_5	is_in_sentence	sentence_32678
+32678_5	punct	32678_9
+32678_5	has_surface_form	;
+32678_6	is_in_sentence	sentence_32678
+32678_6	poss	32678_8
+32678_6	has_surface_form	his
+32678_8	is_in_sentence	sentence_32678
+32678_8	nsubj	32678_9
+32678_8	has_surface_form	marriage
+32678_7	is_in_sentence	sentence_32678
+32678_7	amod	32678_8
+32678_7	has_surface_form	first
+32678_10	is_in_sentence	sentence_32678
+32678_10	prep	32678_9
+32678_10	has_surface_form	to
+32678_11	is_in_sentence	sentence_32678
+32678_11	amod	32678_12
+32678_11	has_surface_form	Danish
+32678_12	is_in_sentence	sentence_32678
+32678_12	pobj	32678_10
+32678_12	has_surface_form	stage
+32678_13	is_in_sentence	sentence_32678
+32678_13	cc	32678_12
+32678_13	has_surface_form	and
+32678_14	is_in_sentence	sentence_32678
+32678_14	compound	32678_15
+32678_14	has_surface_form	screen
+32678_15	is_in_sentence	sentence_32678
+32678_15	conj	32678_12
+32678_15	has_surface_form	actress
+32678_16	is_in_sentence	sentence_32678
+32678_16	compound	32678_17
+32678_16	has_surface_form	Clara
+32678_16	part_of_entity	Clara Pontoppidan
+32678_17	is_in_sentence	sentence_32678
+32678_17	appos	32678_12
+32678_17	has_surface_form	Pontoppidan
+32678_17	part_of_entity	Clara Pontoppidan
+32678_18	is_in_sentence	sentence_32678
+32678_18	prep	32678_9
+32678_18	has_surface_form	from
+32678_19	is_in_sentence	sentence_32678
+32678_19	pobj	32678_18
+32678_19	has_surface_form	1906
+32678_20	is_in_sentence	sentence_32678
+32678_20	prep	32678_18
+32678_20	has_surface_form	to
+32678_21	is_in_sentence	sentence_32678
+32678_21	pobj	32678_20
+32678_21	has_surface_form	1917
+32678_22	is_in_sentence	sentence_32678
+32678_22	punct	32678_9
+32678_22	has_surface_form	.
+32678_23	is_in_sentence	sentence_32678
+32678_23	dep	32678_23
+32678_23	has_surface_form	
+Carlo Wieth	surface_form	Carlo Wieth
+Carlo Wieth	has-spouse	Clara Pontoppidan
+Clara Pontoppidan	surface_form	Clara Pontoppidan

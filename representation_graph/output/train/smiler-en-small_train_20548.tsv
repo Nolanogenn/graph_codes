@@ -1,0 +1,65 @@
+20547_0	is_in_sentence	sentence_20547
+20547_0	det	20547_2
+20547_0	has_surface_form	The
+20547_2	is_in_sentence	sentence_20547
+20547_2	nsubj	20547_3
+20547_2	has_surface_form	Highway
+20547_2	part_of_entity	Sturt Highway
+20547_1	is_in_sentence	sentence_20547
+20547_1	compound	20547_2
+20547_1	has_surface_form	Sturt
+20547_1	part_of_entity	Sturt Highway
+20547_3	is_in_sentence	sentence_20547
+20547_3	ROOT	20547_3
+20547_3	has_surface_form	is
+20547_4	is_in_sentence	sentence_20547
+20547_4	det	20547_7
+20547_4	has_surface_form	an
+20547_7	is_in_sentence	sentence_20547
+20547_7	attr	20547_3
+20547_7	is_entity	highway
+20547_5	is_in_sentence	sentence_20547
+20547_5	amod	20547_7
+20547_5	has_surface_form	Australian
+20547_6	is_in_sentence	sentence_20547
+20547_6	amod	20547_7
+20547_6	has_surface_form	national
+highway	surface_form	highway
+20547_8	is_in_sentence	sentence_20547
+20547_8	prep	20547_7
+20547_8	has_surface_form	in
+20547_9	is_in_sentence	sentence_20547
+20547_9	compound	20547_11
+20547_9	has_surface_form	New
+20547_11	is_in_sentence	sentence_20547
+20547_11	pobj	20547_8
+20547_11	has_surface_form	Wales
+20547_10	is_in_sentence	sentence_20547
+20547_10	compound	20547_11
+20547_10	has_surface_form	South
+20547_12	is_in_sentence	sentence_20547
+20547_12	punct	20547_11
+20547_12	has_surface_form	,
+20547_13	is_in_sentence	sentence_20547
+20547_13	conj	20547_11
+20547_13	has_surface_form	Victoria
+20547_14	is_in_sentence	sentence_20547
+20547_14	punct	20547_13
+20547_14	has_surface_form	,
+20547_15	is_in_sentence	sentence_20547
+20547_15	cc	20547_13
+20547_15	has_surface_form	and
+20547_16	is_in_sentence	sentence_20547
+20547_16	compound	20547_17
+20547_16	has_surface_form	South
+20547_17	is_in_sentence	sentence_20547
+20547_17	conj	20547_13
+20547_17	has_surface_form	Australia
+20547_18	is_in_sentence	sentence_20547
+20547_18	punct	20547_3
+20547_18	has_surface_form	.
+20547_19	is_in_sentence	sentence_20547
+20547_19	dep	20547_19
+20547_19	has_surface_form	
+Sturt Highway	surface_form	Sturt Highway
+Sturt Highway	has-type	highway

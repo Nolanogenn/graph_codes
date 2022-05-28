@@ -1,0 +1,50 @@
+24629_0	is_in_sentence	sentence_24629
+24629_0	compound	24629_1
+24629_0	has_surface_form	Eamon
+24629_0	part_of_entity	Eamon Grennan
+24629_1	is_in_sentence	sentence_24629
+24629_1	nsubj	24629_6
+24629_1	has_surface_form	Grennan
+24629_1	part_of_entity	Eamon Grennan
+24629_6	is_in_sentence	sentence_24629
+24629_6	ROOT	24629_6
+24629_6	has_surface_form	is
+24629_2	is_in_sentence	sentence_24629
+24629_2	punct	24629_1
+24629_2	has_surface_form	(
+24629_3	is_in_sentence	sentence_24629
+24629_3	acl	24629_1
+24629_3	has_surface_form	born
+24629_4	is_in_sentence	sentence_24629
+24629_4	nummod	24629_3
+24629_4	has_surface_form	1941
+24629_5	is_in_sentence	sentence_24629
+24629_5	punct	24629_1
+24629_5	has_surface_form	)
+24629_7	is_in_sentence	sentence_24629
+24629_7	det	24629_9
+24629_7	has_surface_form	an
+24629_9	is_in_sentence	sentence_24629
+24629_9	attr	24629_6
+24629_9	has_surface_form	poet
+24629_8	is_in_sentence	sentence_24629
+24629_8	amod	24629_9
+24629_8	has_surface_form	Irish
+24629_10	is_in_sentence	sentence_24629
+24629_10	acl	24629_9
+24629_10	has_surface_form	born
+24629_11	is_in_sentence	sentence_24629
+24629_11	prep	24629_10
+24629_11	has_surface_form	in
+24629_12	is_in_sentence	sentence_24629
+24629_12	pobj	24629_11
+24629_12	is_entity	Dublin
+Dublin	surface_form	Dublin
+24629_13	is_in_sentence	sentence_24629
+24629_13	punct	24629_6
+24629_13	has_surface_form	.
+24629_14	is_in_sentence	sentence_24629
+24629_14	dep	24629_6
+24629_14	has_surface_form	
+Eamon Grennan	surface_form	Eamon Grennan
+Eamon Grennan	birth-place	Dublin

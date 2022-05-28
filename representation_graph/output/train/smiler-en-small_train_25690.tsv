@@ -1,0 +1,64 @@
+25689_0	is_in_sentence	sentence_25689
+25689_0	compound	25689_1
+25689_0	has_surface_form	Christopher
+25689_0	part_of_entity	Christopher Ride
+25689_1	is_in_sentence	sentence_25689
+25689_1	nsubj	25689_10
+25689_1	has_surface_form	Ride
+25689_1	part_of_entity	Christopher Ride
+25689_10	is_in_sentence	sentence_25689
+25689_10	ROOT	25689_10
+25689_10	has_surface_form	is
+25689_2	is_in_sentence	sentence_25689
+25689_2	punct	25689_3
+25689_2	has_surface_form	(
+25689_3	is_in_sentence	sentence_25689
+25689_3	acl	25689_1
+25689_3	has_surface_form	born
+25689_4	is_in_sentence	sentence_25689
+25689_4	npadvmod	25689_3
+25689_4	has_surface_form	1965
+25689_5	is_in_sentence	sentence_25689
+25689_5	prep	25689_3
+25689_5	has_surface_form	in
+25689_6	is_in_sentence	sentence_25689
+25689_6	pobj	25689_5
+25689_6	has_surface_form	Canberra
+25689_7	is_in_sentence	sentence_25689
+25689_7	punct	25689_6
+25689_7	has_surface_form	,
+25689_8	is_in_sentence	sentence_25689
+25689_8	appos	25689_6
+25689_8	has_surface_form	Australia
+25689_9	is_in_sentence	sentence_25689
+25689_9	punct	25689_6
+25689_9	has_surface_form	)
+25689_11	is_in_sentence	sentence_25689
+25689_11	det	25689_13
+25689_11	has_surface_form	a
+25689_13	is_in_sentence	sentence_25689
+25689_13	attr	25689_10
+25689_13	has_surface_form	fiction
+25689_13	part_of_entity	science fiction
+25689_12	is_in_sentence	sentence_25689
+25689_12	compound	25689_13
+25689_12	has_surface_form	science
+25689_12	part_of_entity	science fiction
+25689_14	is_in_sentence	sentence_25689
+25689_14	cc	25689_13
+25689_14	has_surface_form	and
+25689_15	is_in_sentence	sentence_25689
+25689_15	compound	25689_16
+25689_15	has_surface_form	thriller
+25689_16	is_in_sentence	sentence_25689
+25689_16	conj	25689_13
+25689_16	has_surface_form	writer
+25689_17	is_in_sentence	sentence_25689
+25689_17	punct	25689_10
+25689_17	has_surface_form	.
+25689_18	is_in_sentence	sentence_25689
+25689_18	dep	25689_10
+25689_18	has_surface_form	
+Christopher Ride	surface_form	Christopher Ride
+Christopher Ride	has-genre	science fiction
+science fiction	surface_form	science fiction

@@ -1,0 +1,56 @@
+22179_0	is_in_sentence	sentence_22179
+22179_0	compound	22179_1
+22179_0	has_surface_form	Diego
+22179_0	part_of_entity	Diego Luri
+22179_1	is_in_sentence	sentence_22179
+22179_1	nsubj	22179_7
+22179_1	has_surface_form	Luri
+22179_1	part_of_entity	Diego Luri
+22179_7	is_in_sentence	sentence_22179
+22179_7	ROOT	22179_7
+22179_7	has_surface_form	is
+22179_2	is_in_sentence	sentence_22179
+22179_2	punct	22179_1
+22179_2	has_surface_form	(
+22179_3	is_in_sentence	sentence_22179
+22179_3	acl	22179_1
+22179_3	has_surface_form	born
+22179_4	is_in_sentence	sentence_22179
+22179_4	npadvmod	22179_3
+22179_4	has_surface_form	September
+22179_5	is_in_sentence	sentence_22179
+22179_5	nummod	22179_4
+22179_5	has_surface_form	27
+22179_6	is_in_sentence	sentence_22179
+22179_6	punct	22179_1
+22179_6	has_surface_form	)
+22179_8	is_in_sentence	sentence_22179
+22179_8	det	22179_10
+22179_8	has_surface_form	a
+22179_10	is_in_sentence	sentence_22179
+22179_10	attr	22179_7
+22179_10	is_entity	actor
+22179_9	is_in_sentence	sentence_22179
+22179_9	amod	22179_10
+22179_9	has_surface_form	Brazilian
+actor	surface_form	actor
+22179_11	is_in_sentence	sentence_22179
+22179_11	punct	22179_10
+22179_11	has_surface_form	,
+22179_12	is_in_sentence	sentence_22179
+22179_12	conj	22179_10
+22179_12	has_surface_form	singer
+22179_13	is_in_sentence	sentence_22179
+22179_13	cc	22179_12
+22179_13	has_surface_form	and
+22179_14	is_in_sentence	sentence_22179
+22179_14	conj	22179_12
+22179_14	has_surface_form	journalist
+22179_15	is_in_sentence	sentence_22179
+22179_15	punct	22179_7
+22179_15	has_surface_form	.
+22179_16	is_in_sentence	sentence_22179
+22179_16	dep	22179_7
+22179_16	has_surface_form	
+Diego Luri	surface_form	Diego Luri
+Diego Luri	has-occupation	actor

@@ -1,0 +1,103 @@
+30_0	is_in_sentence	sentence_30
+30_0	det	30_1
+30_0	has_surface_form	The
+30_0	part_of_entity	The Patriot and the Spy
+30_1	is_in_sentence	sentence_30
+30_1	nsubj	30_5
+30_1	has_surface_form	Patriot
+30_1	part_of_entity	The Patriot and the Spy
+30_5	is_in_sentence	sentence_30
+30_5	ROOT	30_5
+30_5	has_surface_form	is
+30_2	is_in_sentence	sentence_30
+30_2	cc	30_1
+30_2	has_surface_form	and
+30_2	part_of_entity	The Patriot and the Spy
+30_3	is_in_sentence	sentence_30
+30_3	det	30_4
+30_3	has_surface_form	the
+30_3	part_of_entity	The Patriot and the Spy
+30_4	is_in_sentence	sentence_30
+30_4	conj	30_1
+30_4	has_surface_form	Spy
+30_4	part_of_entity	The Patriot and the Spy
+30_6	is_in_sentence	sentence_30
+30_6	det	30_11
+30_6	has_surface_form	a
+30_11	is_in_sentence	sentence_30
+30_11	attr	30_5
+30_11	has_surface_form	film
+30_7	is_in_sentence	sentence_30
+30_7	nummod	30_11
+30_7	has_surface_form	1915
+30_8	is_in_sentence	sentence_30
+30_8	amod	30_11
+30_8	has_surface_form	American
+30_9	is_in_sentence	sentence_30
+30_9	amod	30_11
+30_9	has_surface_form	silent
+30_10	is_in_sentence	sentence_30
+30_10	compound	30_11
+30_10	has_surface_form	drama
+30_12	is_in_sentence	sentence_30
+30_12	punct	30_11
+30_12	has_surface_form	,
+30_13	is_in_sentence	sentence_30
+30_13	acl	30_11
+30_13	has_surface_form	directed
+30_14	is_in_sentence	sentence_30
+30_14	agent	30_13
+30_14	has_surface_form	by
+30_15	is_in_sentence	sentence_30
+30_15	compound	30_16
+30_15	has_surface_form	Jack
+30_16	is_in_sentence	sentence_30
+30_16	pobj	30_14
+30_16	has_surface_form	Harvey
+30_17	is_in_sentence	sentence_30
+30_17	punct	30_5
+30_17	has_surface_form	.
+30_18	is_in_sentence	sentence_30
+30_18	nsubj	30_19
+30_18	has_surface_form	It
+30_19	is_in_sentence	sentence_30
+30_19	ROOT	30_19
+30_19	has_surface_form	stars
+30_20	is_in_sentence	sentence_30
+30_20	compound	30_21
+30_20	has_surface_form	James
+30_21	is_in_sentence	sentence_30
+30_21	dobj	30_19
+30_21	has_surface_form	Cruze
+30_22	is_in_sentence	sentence_30
+30_22	punct	30_21
+30_22	has_surface_form	,
+30_23	is_in_sentence	sentence_30
+30_23	compound	30_24
+30_23	has_surface_form	Marguerite
+30_23	part_of_entity	Marguerite Snow
+30_24	is_in_sentence	sentence_30
+30_24	appos	30_21
+30_24	has_surface_form	Snow
+30_24	part_of_entity	Marguerite Snow
+30_25	is_in_sentence	sentence_30
+30_25	punct	30_24
+30_25	has_surface_form	,
+30_26	is_in_sentence	sentence_30
+30_26	cc	30_24
+30_26	has_surface_form	and
+30_27	is_in_sentence	sentence_30
+30_27	compound	30_28
+30_27	has_surface_form	Alphonse
+30_28	is_in_sentence	sentence_30
+30_28	conj	30_24
+30_28	has_surface_form	Ethier
+30_29	is_in_sentence	sentence_30
+30_29	punct	30_19
+30_29	has_surface_form	.
+30_30	is_in_sentence	sentence_30
+30_30	dep	30_19
+30_30	has_surface_form	
+The Patriot and the Spy	surface_form	The Patriot and the Spy
+The Patriot and the Spy	starring	Marguerite Snow
+Marguerite Snow	surface_form	Marguerite Snow

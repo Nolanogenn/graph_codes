@@ -1,0 +1,50 @@
+12790_0	is_in_sentence	sentence_12790
+12790_0	det	12790_1
+12790_0	has_surface_form	This
+12790_1	is_in_sentence	sentence_12790
+12790_1	nsubjpass	12790_3
+12790_1	has_surface_form	company
+12790_3	is_in_sentence	sentence_12790
+12790_3	ROOT	12790_3
+12790_3	has_surface_form	renamed
+12790_2	is_in_sentence	sentence_12790
+12790_2	auxpass	12790_3
+12790_2	has_surface_form	was
+12790_4	is_in_sentence	sentence_12790
+12790_4	prep	12790_3
+12790_4	has_surface_form	to
+12790_5	is_in_sentence	sentence_12790
+12790_5	compound	12790_7
+12790_5	has_surface_form	Bayerische
+12790_5	part_of_entity	Bayerische Motoren
+12790_7	is_in_sentence	sentence_12790
+12790_7	pobj	12790_4
+12790_7	has_surface_form	Werke
+12790_6	is_in_sentence	sentence_12790
+12790_6	compound	12790_7
+12790_6	has_surface_form	Motoren
+12790_6	part_of_entity	Bayerische Motoren
+12790_8	is_in_sentence	sentence_12790
+12790_8	punct	12790_7
+12790_8	has_surface_form	(
+12790_9	is_in_sentence	sentence_12790
+12790_9	appos	12790_7
+12790_9	is_entity	BMW
+BMW	surface_form	BMW
+12790_10	is_in_sentence	sentence_12790
+12790_10	punct	12790_7
+12790_10	has_surface_form	)
+12790_11	is_in_sentence	sentence_12790
+12790_11	prep	12790_3
+12790_11	has_surface_form	in
+12790_12	is_in_sentence	sentence_12790
+12790_12	pobj	12790_11
+12790_12	has_surface_form	1922
+12790_13	is_in_sentence	sentence_12790
+12790_13	punct	12790_3
+12790_13	has_surface_form	.
+12790_14	is_in_sentence	sentence_12790
+12790_14	dep	12790_14
+12790_14	has_surface_form	
+Bayerische Motoren	surface_form	Bayerische Motoren
+Bayerische Motoren	no_relation	BMW

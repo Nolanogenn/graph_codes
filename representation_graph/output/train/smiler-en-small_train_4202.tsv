@@ -1,0 +1,63 @@
+4201_0	is_in_sentence	sentence_4201
+4201_0	csubj	4201_4
+4201_0	has_surface_form	Searching
+4201_0	part_of_entity	Searching for Debra Winger
+4201_4	is_in_sentence	sentence_4201
+4201_4	ROOT	4201_4
+4201_4	has_surface_form	is
+4201_1	is_in_sentence	sentence_4201
+4201_1	prep	4201_0
+4201_1	has_surface_form	for
+4201_1	part_of_entity	Searching for Debra Winger
+4201_2	is_in_sentence	sentence_4201
+4201_2	compound	4201_3
+4201_2	has_surface_form	Debra
+4201_2	part_of_entity	Searching for Debra Winger
+4201_3	is_in_sentence	sentence_4201
+4201_3	pobj	4201_1
+4201_3	has_surface_form	Winger
+4201_3	part_of_entity	Searching for Debra Winger
+4201_5	is_in_sentence	sentence_4201
+4201_5	det	4201_9
+4201_5	has_surface_form	a
+4201_9	is_in_sentence	sentence_4201
+4201_9	attr	4201_4
+4201_9	has_surface_form	film
+4201_6	is_in_sentence	sentence_4201
+4201_6	nummod	4201_9
+4201_6	has_surface_form	2002
+4201_7	is_in_sentence	sentence_4201
+4201_7	amod	4201_9
+4201_7	has_surface_form	American
+4201_8	is_in_sentence	sentence_4201
+4201_8	compound	4201_9
+4201_8	has_surface_form	documentary
+4201_10	is_in_sentence	sentence_4201
+4201_10	acl	4201_9
+4201_10	has_surface_form	conceived
+4201_11	is_in_sentence	sentence_4201
+4201_11	cc	4201_10
+4201_11	has_surface_form	and
+4201_12	is_in_sentence	sentence_4201
+4201_12	conj	4201_10
+4201_12	has_surface_form	directed
+4201_13	is_in_sentence	sentence_4201
+4201_13	agent	4201_12
+4201_13	has_surface_form	by
+4201_14	is_in_sentence	sentence_4201
+4201_14	compound	4201_15
+4201_14	has_surface_form	Rosanna
+4201_14	part_of_entity	Rosanna Arquette
+4201_15	is_in_sentence	sentence_4201
+4201_15	pobj	4201_13
+4201_15	has_surface_form	Arquette
+4201_15	part_of_entity	Rosanna Arquette
+4201_16	is_in_sentence	sentence_4201
+4201_16	punct	4201_4
+4201_16	has_surface_form	.
+4201_17	is_in_sentence	sentence_4201
+4201_17	dep	4201_4
+4201_17	has_surface_form	
+Searching for Debra Winger	surface_form	Searching for Debra Winger
+Searching for Debra Winger	movie-has-director	Rosanna Arquette
+Rosanna Arquette	surface_form	Rosanna Arquette

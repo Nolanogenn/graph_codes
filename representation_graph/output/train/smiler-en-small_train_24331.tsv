@@ -1,0 +1,43 @@
+24330_0	is_in_sentence	sentence_24330
+24330_0	compound	24330_1
+24330_0	has_surface_form	Anne
+24330_0	part_of_entity	Anne Luddington
+24330_1	is_in_sentence	sentence_24330
+24330_1	nsubj	24330_2
+24330_1	has_surface_form	Luddington
+24330_1	part_of_entity	Anne Luddington
+24330_2	is_in_sentence	sentence_24330
+24330_2	ROOT	24330_2
+24330_2	has_surface_form	was
+24330_3	is_in_sentence	sentence_24330
+24330_3	det	24330_4
+24330_3	has_surface_form	the
+24330_4	is_in_sentence	sentence_24330
+24330_4	attr	24330_2
+24330_4	has_surface_form	mother
+24330_5	is_in_sentence	sentence_24330
+24330_5	prep	24330_4
+24330_5	has_surface_form	of
+24330_6	is_in_sentence	sentence_24330
+24330_6	det	24330_7
+24330_6	has_surface_form	the
+24330_7	is_in_sentence	sentence_24330
+24330_7	pobj	24330_5
+24330_7	has_surface_form	poet
+24330_8	is_in_sentence	sentence_24330
+24330_8	compound	24330_9
+24330_8	has_surface_form	Thomas
+24330_8	part_of_entity	Thomas Lodge
+24330_9	is_in_sentence	sentence_24330
+24330_9	appos	24330_7
+24330_9	has_surface_form	Lodge
+24330_9	part_of_entity	Thomas Lodge
+24330_10	is_in_sentence	sentence_24330
+24330_10	punct	24330_2
+24330_10	has_surface_form	.
+24330_11	is_in_sentence	sentence_24330
+24330_11	dep	24330_2
+24330_11	has_surface_form	
+Anne Luddington	surface_form	Anne Luddington
+Anne Luddington	has-child	Thomas Lodge
+Thomas Lodge	surface_form	Thomas Lodge

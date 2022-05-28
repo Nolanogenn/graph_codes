@@ -1,0 +1,56 @@
+19949_0	is_in_sentence	sentence_19949
+19949_0	compound	19949_1
+19949_0	has_surface_form	S.
+19949_0	part_of_entity	S. Padmavati
+19949_1	is_in_sentence	sentence_19949
+19949_1	nsubj	19949_11
+19949_1	has_surface_form	Padmavati
+19949_1	part_of_entity	S. Padmavati
+19949_11	is_in_sentence	sentence_19949
+19949_11	ROOT	19949_11
+19949_11	has_surface_form	is
+19949_2	is_in_sentence	sentence_19949
+19949_2	cc	19949_1
+19949_2	has_surface_form	or
+19949_3	is_in_sentence	sentence_19949
+19949_3	compound	19949_4
+19949_3	has_surface_form	Dr.
+19949_4	is_in_sentence	sentence_19949
+19949_4	conj	19949_1
+19949_4	has_surface_form	Padmavati
+19949_5	is_in_sentence	sentence_19949
+19949_5	punct	19949_1
+19949_5	has_surface_form	(
+19949_6	is_in_sentence	sentence_19949
+19949_6	acl	19949_1
+19949_6	has_surface_form	born
+19949_7	is_in_sentence	sentence_19949
+19949_7	nummod	19949_8
+19949_7	has_surface_form	20
+19949_8	is_in_sentence	sentence_19949
+19949_8	npadvmod	19949_6
+19949_8	has_surface_form	June
+19949_9	is_in_sentence	sentence_19949
+19949_9	nummod	19949_8
+19949_9	has_surface_form	1917
+19949_10	is_in_sentence	sentence_19949
+19949_10	punct	19949_1
+19949_10	has_surface_form	)
+19949_12	is_in_sentence	sentence_19949
+19949_12	det	19949_14
+19949_12	has_surface_form	an
+19949_14	is_in_sentence	sentence_19949
+19949_14	attr	19949_11
+19949_14	is_entity	cardiologist
+19949_13	is_in_sentence	sentence_19949
+19949_13	amod	19949_14
+19949_13	has_surface_form	Indian
+cardiologist	surface_form	cardiologist
+19949_15	is_in_sentence	sentence_19949
+19949_15	punct	19949_11
+19949_15	has_surface_form	.
+19949_16	is_in_sentence	sentence_19949
+19949_16	dep	19949_16
+19949_16	has_surface_form	
+S. Padmavati	surface_form	S. Padmavati
+S. Padmavati	has-occupation	cardiologist

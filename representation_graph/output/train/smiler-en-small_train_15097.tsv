@@ -1,0 +1,40 @@
+15096_0	is_in_sentence	sentence_15096
+15096_0	compound	15096_1
+15096_0	has_surface_form	John
+15096_0	part_of_entity	John Egli
+15096_1	is_in_sentence	sentence_15096
+15096_1	nsubj	15096_2
+15096_1	has_surface_form	Egli
+15096_1	part_of_entity	John Egli
+15096_2	is_in_sentence	sentence_15096
+15096_2	ROOT	15096_2
+15096_2	has_surface_form	was
+15096_3	is_in_sentence	sentence_15096
+15096_3	det	15096_5
+15096_3	has_surface_form	a
+15096_5	is_in_sentence	sentence_15096
+15096_5	poss	15096_8
+15096_5	has_surface_form	men
+15096_4	is_in_sentence	sentence_15096
+15096_4	compound	15096_5
+15096_4	has_surface_form	college
+15096_8	is_in_sentence	sentence_15096
+15096_8	attr	15096_2
+15096_8	has_surface_form	coach
+15096_8	part_of_entity	basketball coach
+15096_6	is_in_sentence	sentence_15096
+15096_6	case	15096_5
+15096_6	has_surface_form	's
+15096_7	is_in_sentence	sentence_15096
+15096_7	compound	15096_8
+15096_7	has_surface_form	basketball
+15096_7	part_of_entity	basketball coach
+15096_9	is_in_sentence	sentence_15096
+15096_9	punct	15096_2
+15096_9	has_surface_form	.
+15096_10	is_in_sentence	sentence_15096
+15096_10	dep	15096_10
+15096_10	has_surface_form	
+John Egli	surface_form	John Egli
+John Egli	has-type	basketball coach
+basketball coach	surface_form	basketball coach

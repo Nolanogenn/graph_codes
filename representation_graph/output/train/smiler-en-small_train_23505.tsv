@@ -1,0 +1,62 @@
+23504_0	is_in_sentence	sentence_23504
+23504_0	compound	23504_1
+23504_0	has_surface_form	Casey
+23504_0	part_of_entity	Casey Dienel
+23504_1	is_in_sentence	sentence_23504
+23504_1	nsubj	23504_9
+23504_1	has_surface_form	Dienel
+23504_1	part_of_entity	Casey Dienel
+23504_9	is_in_sentence	sentence_23504
+23504_9	ROOT	23504_9
+23504_9	has_surface_form	is
+23504_2	is_in_sentence	sentence_23504
+23504_2	punct	23504_3
+23504_2	has_surface_form	(
+23504_3	is_in_sentence	sentence_23504
+23504_3	acl	23504_1
+23504_3	has_surface_form	born
+23504_4	is_in_sentence	sentence_23504
+23504_4	npadvmod	23504_3
+23504_4	has_surface_form	March
+23504_5	is_in_sentence	sentence_23504
+23504_5	nummod	23504_4
+23504_5	has_surface_form	10
+23504_6	is_in_sentence	sentence_23504
+23504_6	punct	23504_4
+23504_6	has_surface_form	,
+23504_7	is_in_sentence	sentence_23504
+23504_7	nummod	23504_4
+23504_7	has_surface_form	1985
+23504_8	is_in_sentence	sentence_23504
+23504_8	punct	23504_3
+23504_8	has_surface_form	)
+23504_10	is_in_sentence	sentence_23504
+23504_10	det	23504_14
+23504_10	has_surface_form	an
+23504_14	is_in_sentence	sentence_23504
+23504_14	attr	23504_9
+23504_14	has_surface_form	songwriter
+23504_11	is_in_sentence	sentence_23504
+23504_11	amod	23504_14
+23504_11	has_surface_form	American
+23504_12	is_in_sentence	sentence_23504
+23504_12	compound	23504_14
+23504_12	has_surface_form	singer
+23504_13	is_in_sentence	sentence_23504
+23504_13	punct	23504_14
+23504_13	has_surface_form	-
+23504_15	is_in_sentence	sentence_23504
+23504_15	cc	23504_14
+23504_15	has_surface_form	and
+23504_16	is_in_sentence	sentence_23504
+23504_16	conj	23504_14
+23504_16	is_entity	musician
+musician	surface_form	musician
+23504_17	is_in_sentence	sentence_23504
+23504_17	punct	23504_9
+23504_17	has_surface_form	.
+23504_18	is_in_sentence	sentence_23504
+23504_18	dep	23504_18
+23504_18	has_surface_form	
+Casey Dienel	surface_form	Casey Dienel
+Casey Dienel	has-occupation	musician

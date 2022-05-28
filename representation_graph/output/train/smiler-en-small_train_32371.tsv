@@ -1,0 +1,94 @@
+32370_0	is_in_sentence	sentence_32370
+32370_0	compound	32370_1
+32370_0	has_surface_form	Uzhavan
+32370_0	part_of_entity	Uzhavan Magan
+32370_1	is_in_sentence	sentence_32370
+32370_1	ROOT	32370_1
+32370_1	has_surface_form	Magan
+32370_1	part_of_entity	Uzhavan Magan
+32370_2	is_in_sentence	sentence_32370
+32370_2	punct	32370_3
+32370_2	has_surface_form	(
+32370_3	is_in_sentence	sentence_32370
+32370_3	appos	32370_1
+32370_3	has_surface_form	lit
+32370_4	is_in_sentence	sentence_32370
+32370_4	punct	32370_1
+32370_4	has_surface_form	.
+32370_5	is_in_sentence	sentence_32370
+32370_5	dep	32370_9
+32370_5	has_surface_form	 
+32370_9	is_in_sentence	sentence_32370
+32370_9	nsubj	32370_11
+32370_9	has_surface_form	Son
+32370_6	is_in_sentence	sentence_32370
+32370_6	det	32370_7
+32370_6	has_surface_form	The
+32370_7	is_in_sentence	sentence_32370
+32370_7	poss	32370_9
+32370_7	has_surface_form	Peasant
+32370_8	is_in_sentence	sentence_32370
+32370_8	case	32370_7
+32370_8	has_surface_form	's
+32370_11	is_in_sentence	sentence_32370
+32370_11	ROOT	32370_11
+32370_11	has_surface_form	is
+32370_10	is_in_sentence	sentence_32370
+32370_10	punct	32370_9
+32370_10	has_surface_form	)
+32370_12	is_in_sentence	sentence_32370
+32370_12	det	32370_18
+32370_12	has_surface_form	a
+32370_18	is_in_sentence	sentence_32370
+32370_18	attr	32370_11
+32370_18	has_surface_form	film
+32370_13	is_in_sentence	sentence_32370
+32370_13	nummod	32370_18
+32370_13	has_surface_form	1987
+32370_14	is_in_sentence	sentence_32370
+32370_14	compound	32370_18
+32370_14	has_surface_form	Tamil
+32370_15	is_in_sentence	sentence_32370
+32370_15	compound	32370_16
+32370_15	has_surface_form	language
+32370_16	is_in_sentence	sentence_32370
+32370_16	compound	32370_18
+32370_16	has_surface_form	action
+32370_17	is_in_sentence	sentence_32370
+32370_17	compound	32370_18
+32370_17	has_surface_form	drama
+32370_19	is_in_sentence	sentence_32370
+32370_19	punct	32370_18
+32370_19	has_surface_form	,
+32370_20	is_in_sentence	sentence_32370
+32370_20	acl	32370_18
+32370_20	has_surface_form	directed
+32370_21	is_in_sentence	sentence_32370
+32370_21	agent	32370_20
+32370_21	has_surface_form	by
+32370_22	is_in_sentence	sentence_32370
+32370_22	compound	32370_23
+32370_22	has_surface_form	R.
+32370_22	part_of_entity	R. Aravindraj
+32370_23	is_in_sentence	sentence_32370
+32370_23	pobj	32370_21
+32370_23	has_surface_form	Aravindraj
+32370_23	part_of_entity	R. Aravindraj
+32370_24	is_in_sentence	sentence_32370
+32370_24	cc	32370_20
+32370_24	has_surface_form	and
+32370_25	is_in_sentence	sentence_32370
+32370_25	conj	32370_20
+32370_25	has_surface_form	produced
+32370_26	is_in_sentence	sentence_32370
+32370_26	agent	32370_25
+32370_26	has_surface_form	by
+32370_27	is_in_sentence	sentence_32370
+32370_27	compound	32370_28
+32370_27	has_surface_form	A.
+32370_28	is_in_sentence	sentence_32370
+32370_28	dep	32370_26
+32370_28	has_surface_form	
+Uzhavan Magan	surface_form	Uzhavan Magan
+Uzhavan Magan	movie-has-director	R. Aravindraj
+R. Aravindraj	surface_form	R. Aravindraj

@@ -1,0 +1,82 @@
+1662_0	is_in_sentence	sentence_1662
+1662_0	compound	1662_1
+1662_0	has_surface_form	Monsieur
+1662_0	part_of_entity	Monsieur Albert
+1662_1	is_in_sentence	sentence_1662
+1662_1	nsubj	1662_2
+1662_1	has_surface_form	Albert
+1662_1	part_of_entity	Monsieur Albert
+1662_2	is_in_sentence	sentence_1662
+1662_2	ROOT	1662_2
+1662_2	has_surface_form	is
+1662_3	is_in_sentence	sentence_1662
+1662_3	det	1662_7
+1662_3	has_surface_form	a
+1662_7	is_in_sentence	sentence_1662
+1662_7	attr	1662_2
+1662_7	has_surface_form	film
+1662_4	is_in_sentence	sentence_1662
+1662_4	nummod	1662_7
+1662_4	has_surface_form	1932
+1662_5	is_in_sentence	sentence_1662
+1662_5	amod	1662_7
+1662_5	has_surface_form	French
+1662_6	is_in_sentence	sentence_1662
+1662_6	compound	1662_7
+1662_6	has_surface_form	comedy
+1662_8	is_in_sentence	sentence_1662
+1662_8	acl	1662_7
+1662_8	has_surface_form	directed
+1662_9	is_in_sentence	sentence_1662
+1662_9	agent	1662_8
+1662_9	has_surface_form	by
+1662_10	is_in_sentence	sentence_1662
+1662_10	compound	1662_11
+1662_10	has_surface_form	Karl
+1662_10	part_of_entity	Karl Anton
+1662_11	is_in_sentence	sentence_1662
+1662_11	pobj	1662_9
+1662_11	has_surface_form	Anton
+1662_11	part_of_entity	Karl Anton
+1662_12	is_in_sentence	sentence_1662
+1662_12	cc	1662_8
+1662_12	has_surface_form	and
+1662_13	is_in_sentence	sentence_1662
+1662_13	conj	1662_8
+1662_13	has_surface_form	starring
+1662_14	is_in_sentence	sentence_1662
+1662_14	compound	1662_16
+1662_14	has_surface_form	Noël
+1662_16	is_in_sentence	sentence_1662
+1662_16	dobj	1662_13
+1662_16	has_surface_form	Noël
+1662_15	is_in_sentence	sentence_1662
+1662_15	punct	1662_16
+1662_15	has_surface_form	-
+1662_17	is_in_sentence	sentence_1662
+1662_17	punct	1662_16
+1662_17	has_surface_form	,
+1662_18	is_in_sentence	sentence_1662
+1662_18	compound	1662_19
+1662_18	has_surface_form	Betty
+1662_19	is_in_sentence	sentence_1662
+1662_19	conj	1662_16
+1662_19	has_surface_form	Stockfeld
+1662_20	is_in_sentence	sentence_1662
+1662_20	cc	1662_19
+1662_20	has_surface_form	and
+1662_21	is_in_sentence	sentence_1662
+1662_21	compound	1662_22
+1662_21	has_surface_form	Marcel
+1662_22	is_in_sentence	sentence_1662
+1662_22	conj	1662_19
+1662_22	has_surface_form	Barencey
+1662_23	is_in_sentence	sentence_1662
+1662_23	punct	1662_2
+1662_23	has_surface_form	.
+1662_24	is_in_sentence	sentence_1662
+1662_24	dep	1662_24
+1662_24	has_surface_form	
+Monsieur Albert	surface_form	Monsieur Albert
+Monsieur Albert	movie-has-director	Karl Anton
+Karl Anton	surface_form	Karl Anton

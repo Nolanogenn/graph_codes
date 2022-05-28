@@ -1,0 +1,98 @@
+5678_0	is_in_sentence	sentence_5678
+5678_0	det	5678_2
+5678_0	has_surface_form	The
+5678_0	part_of_entity	The Doll Doctor
+5678_2	is_in_sentence	sentence_5678
+5678_2	nsubj	5678_3
+5678_2	has_surface_form	Doctor
+5678_2	part_of_entity	The Doll Doctor
+5678_1	is_in_sentence	sentence_5678
+5678_1	compound	5678_2
+5678_1	has_surface_form	Doll
+5678_1	part_of_entity	The Doll Doctor
+5678_3	is_in_sentence	sentence_5678
+5678_3	ROOT	5678_3
+5678_3	has_surface_form	is
+5678_4	is_in_sentence	sentence_5678
+5678_4	det	5678_10
+5678_4	has_surface_form	a
+5678_10	is_in_sentence	sentence_5678
+5678_10	attr	5678_3
+5678_10	has_surface_form	film
+5678_5	is_in_sentence	sentence_5678
+5678_5	nummod	5678_10
+5678_5	has_surface_form	1916
+5678_6	is_in_sentence	sentence_5678
+5678_6	amod	5678_10
+5678_6	has_surface_form	American
+5678_7	is_in_sentence	sentence_5678
+5678_7	amod	5678_10
+5678_7	has_surface_form	short
+5678_8	is_in_sentence	sentence_5678
+5678_8	amod	5678_10
+5678_8	has_surface_form	silent
+5678_9	is_in_sentence	sentence_5678
+5678_9	compound	5678_10
+5678_9	has_surface_form	drama
+5678_11	is_in_sentence	sentence_5678
+5678_11	punct	5678_10
+5678_11	has_surface_form	,
+5678_12	is_in_sentence	sentence_5678
+5678_12	acl	5678_10
+5678_12	has_surface_form	directed
+5678_13	is_in_sentence	sentence_5678
+5678_13	agent	5678_12
+5678_13	has_surface_form	by
+5678_14	is_in_sentence	sentence_5678
+5678_14	compound	5678_15
+5678_14	has_surface_form	Jack
+5678_15	is_in_sentence	sentence_5678
+5678_15	pobj	5678_13
+5678_15	has_surface_form	Harvey
+5678_16	is_in_sentence	sentence_5678
+5678_16	punct	5678_3
+5678_16	has_surface_form	.
+5678_17	is_in_sentence	sentence_5678
+5678_17	nsubj	5678_18
+5678_17	has_surface_form	It
+5678_18	is_in_sentence	sentence_5678
+5678_18	ROOT	5678_18
+5678_18	has_surface_form	stars
+5678_19	is_in_sentence	sentence_5678
+5678_19	compound	5678_20
+5678_19	has_surface_form	Harry
+5678_20	is_in_sentence	sentence_5678
+5678_20	dobj	5678_18
+5678_20	has_surface_form	Benham
+5678_21	is_in_sentence	sentence_5678
+5678_21	punct	5678_20
+5678_21	has_surface_form	,
+5678_22	is_in_sentence	sentence_5678
+5678_22	compound	5678_23
+5678_22	has_surface_form	Violet
+5678_22	part_of_entity	Violet Mersereau
+5678_23	is_in_sentence	sentence_5678
+5678_23	appos	5678_20
+5678_23	has_surface_form	Mersereau
+5678_23	part_of_entity	Violet Mersereau
+5678_24	is_in_sentence	sentence_5678
+5678_24	punct	5678_20
+5678_24	has_surface_form	,
+5678_25	is_in_sentence	sentence_5678
+5678_25	cc	5678_20
+5678_25	has_surface_form	and
+5678_26	is_in_sentence	sentence_5678
+5678_26	compound	5678_27
+5678_26	has_surface_form	Jack
+5678_27	is_in_sentence	sentence_5678
+5678_27	conj	5678_20
+5678_27	has_surface_form	Lewis
+5678_28	is_in_sentence	sentence_5678
+5678_28	punct	5678_18
+5678_28	has_surface_form	.
+5678_29	is_in_sentence	sentence_5678
+5678_29	dep	5678_18
+5678_29	has_surface_form	
+The Doll Doctor	surface_form	The Doll Doctor
+The Doll Doctor	starring	Violet Mersereau
+Violet Mersereau	surface_form	Violet Mersereau

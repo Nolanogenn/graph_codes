@@ -1,0 +1,79 @@
+5982_0	is_in_sentence	sentence_5982
+5982_0	det	5982_1
+5982_0	has_surface_form	A
+5982_0	part_of_entity	A Record of Sweet Murder
+5982_1	is_in_sentence	sentence_5982
+5982_1	nsubj	5982_8
+5982_1	has_surface_form	Record
+5982_1	part_of_entity	A Record of Sweet Murder
+5982_8	is_in_sentence	sentence_5982
+5982_8	ROOT	5982_8
+5982_8	has_surface_form	is
+5982_2	is_in_sentence	sentence_5982
+5982_2	prep	5982_1
+5982_2	has_surface_form	of
+5982_2	part_of_entity	A Record of Sweet Murder
+5982_3	is_in_sentence	sentence_5982
+5982_3	compound	5982_4
+5982_3	has_surface_form	Sweet
+5982_3	part_of_entity	A Record of Sweet Murder
+5982_4	is_in_sentence	sentence_5982
+5982_4	pobj	5982_2
+5982_4	has_surface_form	Murder
+5982_4	part_of_entity	A Record of Sweet Murder
+5982_5	is_in_sentence	sentence_5982
+5982_5	punct	5982_1
+5982_5	has_surface_form	(
+5982_6	is_in_sentence	sentence_5982
+5982_6	appos	5982_1
+5982_6	has_surface_form	ある優しき殺人者の記録
+5982_7	is_in_sentence	sentence_5982
+5982_7	punct	5982_1
+5982_7	has_surface_form	)
+5982_9	is_in_sentence	sentence_5982
+5982_9	det	5982_16
+5982_9	has_surface_form	a
+5982_16	is_in_sentence	sentence_5982
+5982_16	attr	5982_8
+5982_16	has_surface_form	film
+5982_10	is_in_sentence	sentence_5982
+5982_10	nummod	5982_16
+5982_10	has_surface_form	2014
+5982_11	is_in_sentence	sentence_5982
+5982_11	amod	5982_14
+5982_11	has_surface_form	Japanese
+5982_14	is_in_sentence	sentence_5982
+5982_14	amod	5982_16
+5982_14	has_surface_form	Korean
+5982_12	is_in_sentence	sentence_5982
+5982_12	punct	5982_14
+5982_12	has_surface_form	-
+5982_13	is_in_sentence	sentence_5982
+5982_13	amod	5982_14
+5982_13	has_surface_form	South
+5982_15	is_in_sentence	sentence_5982
+5982_15	compound	5982_16
+5982_15	has_surface_form	thriller
+5982_17	is_in_sentence	sentence_5982
+5982_17	acl	5982_16
+5982_17	has_surface_form	directed
+5982_18	is_in_sentence	sentence_5982
+5982_18	agent	5982_17
+5982_18	has_surface_form	by
+5982_19	is_in_sentence	sentence_5982
+5982_19	compound	5982_20
+5982_19	has_surface_form	Kōji
+5982_19	part_of_entity	Kōji Shiraishi
+5982_20	is_in_sentence	sentence_5982
+5982_20	pobj	5982_18
+5982_20	has_surface_form	Shiraishi
+5982_20	part_of_entity	Kōji Shiraishi
+5982_21	is_in_sentence	sentence_5982
+5982_21	punct	5982_8
+5982_21	has_surface_form	.
+5982_22	is_in_sentence	sentence_5982
+5982_22	dep	5982_8
+5982_22	has_surface_form	
+A Record of Sweet Murder	surface_form	A Record of Sweet Murder
+A Record of Sweet Murder	movie-has-director	Kōji Shiraishi
+Kōji Shiraishi	surface_form	Kōji Shiraishi

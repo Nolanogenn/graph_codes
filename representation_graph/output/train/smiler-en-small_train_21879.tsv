@@ -1,0 +1,58 @@
+21878_0	is_in_sentence	sentence_21878
+21878_0	compound	21878_1
+21878_0	has_surface_form	Amber
+21878_0	part_of_entity	Amber Dotson
+21878_1	is_in_sentence	sentence_21878
+21878_1	nsubj	21878_9
+21878_1	has_surface_form	Dotson
+21878_1	part_of_entity	Amber Dotson
+21878_9	is_in_sentence	sentence_21878
+21878_9	ROOT	21878_9
+21878_9	has_surface_form	is
+21878_2	is_in_sentence	sentence_21878
+21878_2	punct	21878_1
+21878_2	has_surface_form	(
+21878_3	is_in_sentence	sentence_21878
+21878_3	acl	21878_1
+21878_3	has_surface_form	born
+21878_4	is_in_sentence	sentence_21878
+21878_4	prep	21878_3
+21878_4	has_surface_form	in
+21878_5	is_in_sentence	sentence_21878
+21878_5	pobj	21878_4
+21878_5	has_surface_form	Garland
+21878_6	is_in_sentence	sentence_21878
+21878_6	punct	21878_5
+21878_6	has_surface_form	,
+21878_7	is_in_sentence	sentence_21878
+21878_7	appos	21878_5
+21878_7	has_surface_form	Texas
+21878_8	is_in_sentence	sentence_21878
+21878_8	punct	21878_5
+21878_8	has_surface_form	)
+21878_10	is_in_sentence	sentence_21878
+21878_10	det	21878_14
+21878_10	has_surface_form	an
+21878_14	is_in_sentence	sentence_21878
+21878_14	attr	21878_9
+21878_14	has_surface_form	artist
+21878_11	is_in_sentence	sentence_21878
+21878_11	amod	21878_14
+21878_11	has_surface_form	American
+21878_12	is_in_sentence	sentence_21878
+21878_12	compound	21878_13
+21878_12	has_surface_form	country
+21878_12	part_of_entity	country music
+21878_13	is_in_sentence	sentence_21878
+21878_13	compound	21878_14
+21878_13	has_surface_form	music
+21878_13	part_of_entity	country music
+21878_15	is_in_sentence	sentence_21878
+21878_15	punct	21878_9
+21878_15	has_surface_form	.
+21878_16	is_in_sentence	sentence_21878
+21878_16	dep	21878_9
+21878_16	has_surface_form	
+Amber Dotson	surface_form	Amber Dotson
+Amber Dotson	has-genre	country music
+country music	surface_form	country music

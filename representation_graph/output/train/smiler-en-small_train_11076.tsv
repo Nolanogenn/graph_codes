@@ -1,0 +1,90 @@
+11075_0	is_in_sentence	sentence_11075
+11075_0	nsubj	11075_1
+11075_0	has_surface_form	AOL
+11075_1	is_in_sentence	sentence_11075
+11075_1	ROOT	11075_1
+11075_1	has_surface_form	began
+11075_2	is_in_sentence	sentence_11075
+11075_2	prep	11075_1
+11075_2	has_surface_form	in
+11075_3	is_in_sentence	sentence_11075
+11075_3	pobj	11075_2
+11075_3	has_surface_form	1983
+11075_4	is_in_sentence	sentence_11075
+11075_4	punct	11075_1
+11075_4	has_surface_form	,
+11075_5	is_in_sentence	sentence_11075
+11075_5	prep	11075_1
+11075_5	has_surface_form	as
+11075_6	is_in_sentence	sentence_11075
+11075_6	det	11075_10
+11075_6	has_surface_form	a
+11075_10	is_in_sentence	sentence_11075
+11075_10	pobj	11075_5
+11075_10	has_surface_form	venture
+11075_7	is_in_sentence	sentence_11075
+11075_7	advmod	11075_9
+11075_7	has_surface_form	short
+11075_9	is_in_sentence	sentence_11075
+11075_9	amod	11075_10
+11075_9	has_surface_form	lived
+11075_8	is_in_sentence	sentence_11075
+11075_8	punct	11075_9
+11075_8	has_surface_form	-
+11075_11	is_in_sentence	sentence_11075
+11075_11	acl	11075_10
+11075_11	has_surface_form	called
+11075_12	is_in_sentence	sentence_11075
+11075_12	compound	11075_14
+11075_12	has_surface_form	Control
+11075_12	part_of_entity	Control Video Corporation
+11075_14	is_in_sentence	sentence_11075
+11075_14	oprd	11075_11
+11075_14	has_surface_form	Corporation
+11075_14	part_of_entity	Control Video Corporation
+11075_13	is_in_sentence	sentence_11075
+11075_13	compound	11075_14
+11075_13	has_surface_form	Video
+11075_13	part_of_entity	Control Video Corporation
+11075_15	is_in_sentence	sentence_11075
+11075_15	punct	11075_14
+11075_15	has_surface_form	(
+11075_16	is_in_sentence	sentence_11075
+11075_16	cc	11075_14
+11075_16	has_surface_form	or
+11075_17	is_in_sentence	sentence_11075
+11075_17	conj	11075_14
+11075_17	has_surface_form	CVC
+11075_18	is_in_sentence	sentence_11075
+11075_18	punct	11075_14
+11075_18	has_surface_form	)
+11075_19	is_in_sentence	sentence_11075
+11075_19	punct	11075_10
+11075_19	has_surface_form	,
+11075_20	is_in_sentence	sentence_11075
+11075_20	acl	11075_10
+11075_20	has_surface_form	founded
+11075_21	is_in_sentence	sentence_11075
+11075_21	agent	11075_20
+11075_21	has_surface_form	by
+11075_22	is_in_sentence	sentence_11075
+11075_22	compound	11075_24
+11075_22	has_surface_form	William
+11075_22	part_of_entity	William von Meister
+11075_24	is_in_sentence	sentence_11075
+11075_24	pobj	11075_21
+11075_24	has_surface_form	Meister
+11075_24	part_of_entity	William von Meister
+11075_23	is_in_sentence	sentence_11075
+11075_23	compound	11075_24
+11075_23	has_surface_form	von
+11075_23	part_of_entity	William von Meister
+11075_25	is_in_sentence	sentence_11075
+11075_25	punct	11075_1
+11075_25	has_surface_form	.
+11075_26	is_in_sentence	sentence_11075
+11075_26	dep	11075_1
+11075_26	has_surface_form	
+Control Video Corporation	surface_form	Control Video Corporation
+Control Video Corporation	org-has-founder	William von Meister
+William von Meister	surface_form	William von Meister

@@ -1,0 +1,61 @@
+15361_0	is_in_sentence	sentence_15361
+15361_0	nummod	15361_1
+15361_0	has_surface_form	3000
+15361_0	part_of_entity	3000 Miles
+15361_1	is_in_sentence	sentence_15361
+15361_1	nsubj	15361_2
+15361_1	has_surface_form	Miles
+15361_1	part_of_entity	3000 Miles
+15361_2	is_in_sentence	sentence_15361
+15361_2	ROOT	15361_2
+15361_2	has_surface_form	is
+15361_3	is_in_sentence	sentence_15361
+15361_3	det	15361_6
+15361_3	has_surface_form	a
+15361_6	is_in_sentence	sentence_15361
+15361_6	attr	15361_2
+15361_6	has_surface_form	film
+15361_4	is_in_sentence	sentence_15361
+15361_4	nummod	15361_6
+15361_4	has_surface_form	2007
+15361_5	is_in_sentence	sentence_15361
+15361_5	compound	15361_6
+15361_5	has_surface_form	documentary
+15361_7	is_in_sentence	sentence_15361
+15361_7	acl	15361_6
+15361_7	has_surface_form	directed
+15361_8	is_in_sentence	sentence_15361
+15361_8	cc	15361_7
+15361_8	has_surface_form	and
+15361_9	is_in_sentence	sentence_15361
+15361_9	conj	15361_7
+15361_9	has_surface_form	produced
+15361_10	is_in_sentence	sentence_15361
+15361_10	agent	15361_9
+15361_10	has_surface_form	by
+15361_11	is_in_sentence	sentence_15361
+15361_11	pobj	15361_10
+15361_11	has_surface_form	Gumball
+15361_12	is_in_sentence	sentence_15361
+15361_12	nummod	15361_13
+15361_12	has_surface_form	3000
+15361_13	is_in_sentence	sentence_15361
+15361_13	compound	15361_15
+15361_13	has_surface_form	founder
+15361_15	is_in_sentence	sentence_15361
+15361_15	appos	15361_11
+15361_15	has_surface_form	Cooper
+15361_15	part_of_entity	Maximillion Cooper
+15361_14	is_in_sentence	sentence_15361
+15361_14	compound	15361_15
+15361_14	has_surface_form	Maximillion
+15361_14	part_of_entity	Maximillion Cooper
+15361_16	is_in_sentence	sentence_15361
+15361_16	punct	15361_2
+15361_16	has_surface_form	.
+15361_17	is_in_sentence	sentence_15361
+15361_17	dep	15361_17
+15361_17	has_surface_form	
+3000 Miles	surface_form	3000 Miles
+3000 Miles	movie-has-director	Maximillion Cooper
+Maximillion Cooper	surface_form	Maximillion Cooper

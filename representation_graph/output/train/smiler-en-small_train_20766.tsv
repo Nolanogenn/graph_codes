@@ -1,0 +1,48 @@
+20765_0	is_in_sentence	sentence_20765
+20765_0	compound	20765_1
+20765_0	has_surface_form	EV
+20765_0	part_of_entity	EV Bozen 84
+20765_1	is_in_sentence	sentence_20765
+20765_1	nsubj	20765_3
+20765_1	has_surface_form	Bozen
+20765_1	part_of_entity	EV Bozen 84
+20765_3	is_in_sentence	sentence_20765
+20765_3	ROOT	20765_3
+20765_3	has_surface_form	is
+20765_2	is_in_sentence	sentence_20765
+20765_2	nummod	20765_1
+20765_2	has_surface_form	84
+20765_2	part_of_entity	EV Bozen 84
+20765_4	is_in_sentence	sentence_20765
+20765_4	det	20765_7
+20765_4	has_surface_form	an
+20765_7	is_in_sentence	sentence_20765
+20765_7	attr	20765_3
+20765_7	has_surface_form	team
+20765_5	is_in_sentence	sentence_20765
+20765_5	compound	20765_6
+20765_5	has_surface_form	ice
+20765_6	is_in_sentence	sentence_20765
+20765_6	compound	20765_7
+20765_6	has_surface_form	hockey
+20765_8	is_in_sentence	sentence_20765
+20765_8	prep	20765_7
+20765_8	has_surface_form	in
+20765_9	is_in_sentence	sentence_20765
+20765_9	pobj	20765_8
+20765_9	is_entity	Bolzano
+Bolzano	surface_form	Bolzano
+20765_10	is_in_sentence	sentence_20765
+20765_10	punct	20765_9
+20765_10	has_surface_form	,
+20765_11	is_in_sentence	sentence_20765
+20765_11	appos	20765_9
+20765_11	has_surface_form	Italy
+20765_12	is_in_sentence	sentence_20765
+20765_12	punct	20765_3
+20765_12	has_surface_form	.
+20765_13	is_in_sentence	sentence_20765
+20765_13	dep	20765_13
+20765_13	has_surface_form	
+EV Bozen 84	surface_form	EV Bozen 84
+EV Bozen 84	is-where	Bolzano

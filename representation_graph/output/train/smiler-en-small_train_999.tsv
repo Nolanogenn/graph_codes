@@ -1,0 +1,90 @@
+998_0	is_in_sentence	sentence_998
+998_0	nummod	998_1
+998_0	has_surface_form	Three
+998_0	part_of_entity	Three Steps on Earth
+998_1	is_in_sentence	sentence_998
+998_1	nsubj	998_12
+998_1	has_surface_form	Steps
+998_1	part_of_entity	Three Steps on Earth
+998_12	is_in_sentence	sentence_998
+998_12	ROOT	998_12
+998_12	has_surface_form	is
+998_2	is_in_sentence	sentence_998
+998_2	prep	998_1
+998_2	has_surface_form	on
+998_2	part_of_entity	Three Steps on Earth
+998_3	is_in_sentence	sentence_998
+998_3	pobj	998_2
+998_3	has_surface_form	Earth
+998_3	part_of_entity	Three Steps on Earth
+998_4	is_in_sentence	sentence_998
+998_4	punct	998_5
+998_4	has_surface_form	(
+998_5	is_in_sentence	sentence_998
+998_5	appos	998_1
+998_5	has_surface_form	Polish
+998_6	is_in_sentence	sentence_998
+998_6	punct	998_5
+998_6	has_surface_form	:
+998_7	is_in_sentence	sentence_998
+998_7	compound	998_10
+998_7	has_surface_form	Trzy
+998_10	is_in_sentence	sentence_998
+998_10	appos	998_5
+998_10	has_surface_form	ziemi
+998_8	is_in_sentence	sentence_998
+998_8	compound	998_10
+998_8	has_surface_form	kroki
+998_9	is_in_sentence	sentence_998
+998_9	compound	998_10
+998_9	has_surface_form	po
+998_11	is_in_sentence	sentence_998
+998_11	punct	998_5
+998_11	has_surface_form	)
+998_13	is_in_sentence	sentence_998
+998_13	det	998_17
+998_13	has_surface_form	a
+998_17	is_in_sentence	sentence_998
+998_17	attr	998_12
+998_17	has_surface_form	film
+998_14	is_in_sentence	sentence_998
+998_14	nummod	998_17
+998_14	has_surface_form	1965
+998_15	is_in_sentence	sentence_998
+998_15	amod	998_17
+998_15	has_surface_form	Polish
+998_16	is_in_sentence	sentence_998
+998_16	compound	998_17
+998_16	has_surface_form	drama
+998_18	is_in_sentence	sentence_998
+998_18	acl	998_17
+998_18	has_surface_form	directed
+998_19	is_in_sentence	sentence_998
+998_19	agent	998_18
+998_19	has_surface_form	by
+998_20	is_in_sentence	sentence_998
+998_20	compound	998_21
+998_20	has_surface_form	Jerzy
+998_20	part_of_entity	Jerzy Hoffman
+998_21	is_in_sentence	sentence_998
+998_21	pobj	998_19
+998_21	has_surface_form	Hoffman
+998_21	part_of_entity	Jerzy Hoffman
+998_22	is_in_sentence	sentence_998
+998_22	cc	998_21
+998_22	has_surface_form	and
+998_23	is_in_sentence	sentence_998
+998_23	compound	998_24
+998_23	has_surface_form	Edward
+998_24	is_in_sentence	sentence_998
+998_24	conj	998_21
+998_24	has_surface_form	Skórzewski
+998_25	is_in_sentence	sentence_998
+998_25	punct	998_12
+998_25	has_surface_form	.
+998_26	is_in_sentence	sentence_998
+998_26	dep	998_12
+998_26	has_surface_form	
+Three Steps on Earth	surface_form	Three Steps on Earth
+Three Steps on Earth	movie-has-director	Jerzy Hoffman
+Jerzy Hoffman	surface_form	Jerzy Hoffman

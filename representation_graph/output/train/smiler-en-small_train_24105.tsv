@@ -1,0 +1,81 @@
+24104_0	is_in_sentence	sentence_24104
+24104_0	det	24104_1
+24104_0	has_surface_form	The
+24104_0	part_of_entity	The Man from Maisinicu
+24104_1	is_in_sentence	sentence_24104
+24104_1	nsubj	24104_12
+24104_1	has_surface_form	Man
+24104_1	part_of_entity	The Man from Maisinicu
+24104_12	is_in_sentence	sentence_24104
+24104_12	ROOT	24104_12
+24104_12	has_surface_form	is
+24104_2	is_in_sentence	sentence_24104
+24104_2	prep	24104_1
+24104_2	has_surface_form	from
+24104_2	part_of_entity	The Man from Maisinicu
+24104_3	is_in_sentence	sentence_24104
+24104_3	pobj	24104_2
+24104_3	has_surface_form	Maisinicu
+24104_3	part_of_entity	The Man from Maisinicu
+24104_4	is_in_sentence	sentence_24104
+24104_4	punct	24104_5
+24104_4	has_surface_form	(
+24104_5	is_in_sentence	sentence_24104
+24104_5	appos	24104_1
+24104_5	has_surface_form	Spanish
+24104_6	is_in_sentence	sentence_24104
+24104_6	punct	24104_5
+24104_6	has_surface_form	:
+24104_7	is_in_sentence	sentence_24104
+24104_7	compound	24104_10
+24104_7	has_surface_form	El
+24104_10	is_in_sentence	sentence_24104
+24104_10	appos	24104_5
+24104_10	has_surface_form	Maisinicú
+24104_8	is_in_sentence	sentence_24104
+24104_8	compound	24104_10
+24104_8	has_surface_form	hombre
+24104_9	is_in_sentence	sentence_24104
+24104_9	compound	24104_10
+24104_9	has_surface_form	de
+24104_11	is_in_sentence	sentence_24104
+24104_11	punct	24104_5
+24104_11	has_surface_form	)
+24104_13	is_in_sentence	sentence_24104
+24104_13	det	24104_17
+24104_13	has_surface_form	a
+24104_17	is_in_sentence	sentence_24104
+24104_17	attr	24104_12
+24104_17	has_surface_form	film
+24104_14	is_in_sentence	sentence_24104
+24104_14	nummod	24104_17
+24104_14	has_surface_form	1973
+24104_15	is_in_sentence	sentence_24104
+24104_15	amod	24104_17
+24104_15	has_surface_form	Cuban
+24104_16	is_in_sentence	sentence_24104
+24104_16	compound	24104_17
+24104_16	has_surface_form	drama
+24104_18	is_in_sentence	sentence_24104
+24104_18	acl	24104_17
+24104_18	has_surface_form	directed
+24104_19	is_in_sentence	sentence_24104
+24104_19	agent	24104_18
+24104_19	has_surface_form	by
+24104_20	is_in_sentence	sentence_24104
+24104_20	compound	24104_21
+24104_20	has_surface_form	Manuel
+24104_20	part_of_entity	Manuel Pérez
+24104_21	is_in_sentence	sentence_24104
+24104_21	pobj	24104_19
+24104_21	has_surface_form	Pérez
+24104_21	part_of_entity	Manuel Pérez
+24104_22	is_in_sentence	sentence_24104
+24104_22	punct	24104_12
+24104_22	has_surface_form	.
+24104_23	is_in_sentence	sentence_24104
+24104_23	dep	24104_23
+24104_23	has_surface_form	
+The Man from Maisinicu	surface_form	The Man from Maisinicu
+The Man from Maisinicu	movie-has-director	Manuel Pérez
+Manuel Pérez	surface_form	Manuel Pérez

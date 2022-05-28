@@ -1,0 +1,79 @@
+12675_0	is_in_sentence	sentence_12675
+12675_0	compound	12675_1
+12675_0	has_surface_form	Chiba
+12675_0	part_of_entity	Chiba Institute of Technology
+12675_1	is_in_sentence	sentence_12675
+12675_1	nsubj	12675_11
+12675_1	has_surface_form	Institute
+12675_1	part_of_entity	Chiba Institute of Technology
+12675_11	is_in_sentence	sentence_12675
+12675_11	ROOT	12675_11
+12675_11	has_surface_form	is
+12675_2	is_in_sentence	sentence_12675
+12675_2	prep	12675_1
+12675_2	has_surface_form	of
+12675_2	part_of_entity	Chiba Institute of Technology
+12675_3	is_in_sentence	sentence_12675
+12675_3	pobj	12675_2
+12675_3	has_surface_form	Technology
+12675_3	part_of_entity	Chiba Institute of Technology
+12675_4	is_in_sentence	sentence_12675
+12675_4	punct	12675_1
+12675_4	has_surface_form	(
+12675_5	is_in_sentence	sentence_12675
+12675_5	appos	12675_1
+12675_5	has_surface_form	千葉工業大学
+12675_6	is_in_sentence	sentence_12675
+12675_6	punct	12675_5
+12675_6	has_surface_form	,
+12675_7	is_in_sentence	sentence_12675
+12675_7	compound	12675_9
+12675_7	has_surface_form	Chiba
+12675_9	is_in_sentence	sentence_12675
+12675_9	appos	12675_5
+12675_9	has_surface_form	daigaku
+12675_8	is_in_sentence	sentence_12675
+12675_8	compound	12675_9
+12675_8	has_surface_form	kōgyō
+12675_10	is_in_sentence	sentence_12675
+12675_10	punct	12675_5
+12675_10	has_surface_form	)
+12675_12	is_in_sentence	sentence_12675
+12675_12	det	12675_14
+12675_12	has_surface_form	a
+12675_14	is_in_sentence	sentence_12675
+12675_14	attr	12675_11
+12675_14	has_surface_form	university
+12675_13	is_in_sentence	sentence_12675
+12675_13	amod	12675_14
+12675_13	has_surface_form	private
+12675_15	is_in_sentence	sentence_12675
+12675_15	prep	12675_14
+12675_15	has_surface_form	in
+12675_16	is_in_sentence	sentence_12675
+12675_16	pobj	12675_15
+12675_16	is_entity	Narashino
+Narashino	surface_form	Narashino
+12675_17	is_in_sentence	sentence_12675
+12675_17	punct	12675_14
+12675_17	has_surface_form	,
+12675_18	is_in_sentence	sentence_12675
+12675_18	compound	12675_19
+12675_18	has_surface_form	Chiba
+12675_19	is_in_sentence	sentence_12675
+12675_19	appos	12675_14
+12675_19	has_surface_form	Prefecture
+12675_20	is_in_sentence	sentence_12675
+12675_20	punct	12675_19
+12675_20	has_surface_form	,
+12675_21	is_in_sentence	sentence_12675
+12675_21	npadvmod	12675_19
+12675_21	has_surface_form	Japan
+12675_22	is_in_sentence	sentence_12675
+12675_22	punct	12675_11
+12675_22	has_surface_form	.
+12675_23	is_in_sentence	sentence_12675
+12675_23	dep	12675_11
+12675_23	has_surface_form	
+Chiba Institute of Technology	surface_form	Chiba Institute of Technology
+Chiba Institute of Technology	is-where	Narashino

@@ -1,0 +1,107 @@
+11739_0	is_in_sentence	sentence_11739
+11739_0	compound	11739_1
+11739_0	has_surface_form	Purushan
+11739_0	part_of_entity	Purushan Enakku Arasan
+11739_1	is_in_sentence	sentence_11739
+11739_1	compound	11739_2
+11739_1	has_surface_form	Enakku
+11739_1	part_of_entity	Purushan Enakku Arasan
+11739_2	is_in_sentence	sentence_11739
+11739_2	dep	11739_13
+11739_2	has_surface_form	Arasan
+11739_2	part_of_entity	Purushan Enakku Arasan
+11739_13	is_in_sentence	sentence_11739
+11739_13	ROOT	11739_13
+11739_13	has_surface_form	is
+11739_3	is_in_sentence	sentence_11739
+11739_3	punct	11739_4
+11739_3	has_surface_form	(
+11739_4	is_in_sentence	sentence_11739
+11739_4	appos	11739_2
+11739_4	has_surface_form	Tamil
+11739_5	is_in_sentence	sentence_11739
+11739_5	punct	11739_4
+11739_5	has_surface_form	:
+11739_6	is_in_sentence	sentence_11739
+11739_6	compound	11739_7
+11739_6	has_surface_form	புருஷன்
+11739_7	is_in_sentence	sentence_11739
+11739_7	appos	11739_4
+11739_7	has_surface_form	எனக்கு
+11739_8	is_in_sentence	sentence_11739
+11739_8	appos	11739_7
+11739_8	has_surface_form	அரசன்
+11739_9	is_in_sentence	sentence_11739
+11739_9	punct	11739_2
+11739_9	has_surface_form	;
+11739_10	is_in_sentence	sentence_11739
+11739_10	appos	11739_2
+11739_10	has_surface_form	English
+11739_11	is_in_sentence	sentence_11739
+11739_11	punct	11739_10
+11739_11	has_surface_form	:
+11739_12	is_in_sentence	sentence_11739
+11739_12	nsubj	11739_13
+11739_12	has_surface_form	Husband
+11739_14	is_in_sentence	sentence_11739
+11739_14	poss	11739_15
+11739_14	has_surface_form	my
+11739_15	is_in_sentence	sentence_11739
+11739_15	attr	11739_13
+11739_15	has_surface_form	ruler
+11739_16	is_in_sentence	sentence_11739
+11739_16	punct	11739_13
+11739_16	has_surface_form	)
+11739_17	is_in_sentence	sentence_11739
+11739_17	ccomp	11739_13
+11739_17	has_surface_form	is
+11739_18	is_in_sentence	sentence_11739
+11739_18	det	11739_22
+11739_18	has_surface_form	a
+11739_22	is_in_sentence	sentence_11739
+11739_22	attr	11739_17
+11739_22	has_surface_form	film
+11739_19	is_in_sentence	sentence_11739
+11739_19	nummod	11739_22
+11739_19	has_surface_form	1992
+11739_20	is_in_sentence	sentence_11739
+11739_20	amod	11739_21
+11739_20	has_surface_form	Indian
+11739_21	is_in_sentence	sentence_11739
+11739_21	compound	11739_22
+11739_21	has_surface_form	Tamil
+11739_23	is_in_sentence	sentence_11739
+11739_23	punct	11739_22
+11739_23	has_surface_form	,
+11739_24	is_in_sentence	sentence_11739
+11739_24	acl	11739_22
+11739_24	has_surface_form	directed
+11739_25	is_in_sentence	sentence_11739
+11739_25	agent	11739_24
+11739_25	has_surface_form	by
+11739_26	is_in_sentence	sentence_11739
+11739_26	compound	11739_27
+11739_26	has_surface_form	Rama
+11739_26	part_of_entity	Rama Narayanan
+11739_27	is_in_sentence	sentence_11739
+11739_27	pobj	11739_25
+11739_27	has_surface_form	Narayanan
+11739_27	part_of_entity	Rama Narayanan
+11739_28	is_in_sentence	sentence_11739
+11739_28	cc	11739_24
+11739_28	has_surface_form	and
+11739_29	is_in_sentence	sentence_11739
+11739_29	conj	11739_24
+11739_29	has_surface_form	produced
+11739_30	is_in_sentence	sentence_11739
+11739_30	agent	11739_29
+11739_30	has_surface_form	by
+11739_31	is_in_sentence	sentence_11739
+11739_31	pobj	11739_30
+11739_31	has_surface_form	S.
+11739_32	is_in_sentence	sentence_11739
+11739_32	dep	11739_13
+11739_32	has_surface_form	
+Purushan Enakku Arasan	surface_form	Purushan Enakku Arasan
+Purushan Enakku Arasan	movie-has-director	Rama Narayanan
+Rama Narayanan	surface_form	Rama Narayanan

@@ -1,0 +1,74 @@
+3702_0	is_in_sentence	sentence_3702
+3702_0	det	3702_2
+3702_0	has_surface_form	The
+3702_2	is_in_sentence	sentence_3702
+3702_2	nsubjpass	3702_4
+3702_2	has_surface_form	point
+3702_1	is_in_sentence	sentence_3702
+3702_1	amod	3702_2
+3702_1	has_surface_form	highest
+3702_4	is_in_sentence	sentence_3702
+3702_4	ROOT	3702_4
+3702_4	has_surface_form	located
+3702_3	is_in_sentence	sentence_3702
+3702_3	auxpass	3702_4
+3702_3	has_surface_form	is
+3702_5	is_in_sentence	sentence_3702
+3702_5	prep	3702_4
+3702_5	has_surface_form	in
+3702_6	is_in_sentence	sentence_3702
+3702_6	compound	3702_7
+3702_6	has_surface_form	North
+3702_6	part_of_entity	North Andaman Island
+3702_7	is_in_sentence	sentence_3702
+3702_7	compound	3702_8
+3702_7	has_surface_form	Andaman
+3702_7	part_of_entity	North Andaman Island
+3702_8	is_in_sentence	sentence_3702
+3702_8	pobj	3702_5
+3702_8	has_surface_form	Island
+3702_8	part_of_entity	North Andaman Island
+3702_9	is_in_sentence	sentence_3702
+3702_9	punct	3702_8
+3702_9	has_surface_form	(
+3702_10	is_in_sentence	sentence_3702
+3702_10	compound	3702_11
+3702_10	has_surface_form	Saddle
+3702_10	part_of_entity	Saddle Peak
+3702_11	is_in_sentence	sentence_3702
+3702_11	appos	3702_8
+3702_11	has_surface_form	Peak
+3702_11	part_of_entity	Saddle Peak
+3702_12	is_in_sentence	sentence_3702
+3702_12	prep	3702_11
+3702_12	has_surface_form	at
+3702_13	is_in_sentence	sentence_3702
+3702_13	nummod	3702_14
+3702_13	has_surface_form	732
+3702_14	is_in_sentence	sentence_3702
+3702_14	pobj	3702_12
+3702_14	has_surface_form	m
+3702_15	is_in_sentence	sentence_3702
+3702_15	punct	3702_14
+3702_15	has_surface_form	(
+3702_16	is_in_sentence	sentence_3702
+3702_16	nummod	3702_17
+3702_16	has_surface_form	2,402
+3702_17	is_in_sentence	sentence_3702
+3702_17	appos	3702_14
+3702_17	has_surface_form	ft
+3702_18	is_in_sentence	sentence_3702
+3702_18	punct	3702_14
+3702_18	has_surface_form	)
+3702_19	is_in_sentence	sentence_3702
+3702_19	punct	3702_8
+3702_19	has_surface_form	)
+3702_20	is_in_sentence	sentence_3702
+3702_20	punct	3702_4
+3702_20	has_surface_form	.
+3702_21	is_in_sentence	sentence_3702
+3702_21	dep	3702_21
+3702_21	has_surface_form	
+North Andaman Island	surface_form	North Andaman Island
+North Andaman Island	has-highest-mountain	Saddle Peak
+Saddle Peak	surface_form	Saddle Peak

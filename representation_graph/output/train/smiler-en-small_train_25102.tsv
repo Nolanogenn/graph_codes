@@ -1,0 +1,75 @@
+25101_0	is_in_sentence	sentence_25101
+25101_0	compound	25101_1
+25101_0	has_surface_form	Franklin
+25101_0	part_of_entity	Franklin Gene Bissell
+25101_1	is_in_sentence	sentence_25101
+25101_1	compound	25101_2
+25101_1	has_surface_form	Gene
+25101_1	part_of_entity	Franklin Gene Bissell
+25101_2	is_in_sentence	sentence_25101
+25101_2	nsubj	25101_14
+25101_2	has_surface_form	Bissell
+25101_2	part_of_entity	Franklin Gene Bissell
+25101_14	is_in_sentence	sentence_25101
+25101_14	ROOT	25101_14
+25101_14	has_surface_form	was
+25101_3	is_in_sentence	sentence_25101
+25101_3	punct	25101_2
+25101_3	has_surface_form	(
+25101_4	is_in_sentence	sentence_25101
+25101_4	appos	25101_2
+25101_4	has_surface_form	April
+25101_5	is_in_sentence	sentence_25101
+25101_5	nummod	25101_4
+25101_5	has_surface_form	12
+25101_6	is_in_sentence	sentence_25101
+25101_6	punct	25101_4
+25101_6	has_surface_form	,
+25101_7	is_in_sentence	sentence_25101
+25101_7	nummod	25101_4
+25101_7	has_surface_form	1926
+25101_8	is_in_sentence	sentence_25101
+25101_8	punct	25101_2
+25101_8	has_surface_form	–
+25101_9	is_in_sentence	sentence_25101
+25101_9	appos	25101_2
+25101_9	has_surface_form	January
+25101_10	is_in_sentence	sentence_25101
+25101_10	nummod	25101_9
+25101_10	has_surface_form	28
+25101_11	is_in_sentence	sentence_25101
+25101_11	punct	25101_9
+25101_11	has_surface_form	,
+25101_12	is_in_sentence	sentence_25101
+25101_12	nummod	25101_9
+25101_12	has_surface_form	2016
+25101_13	is_in_sentence	sentence_25101
+25101_13	punct	25101_9
+25101_13	has_surface_form	)
+25101_15	is_in_sentence	sentence_25101
+25101_15	det	25101_18
+25101_15	has_surface_form	an
+25101_18	is_in_sentence	sentence_25101
+25101_18	attr	25101_14
+25101_18	has_surface_form	player
+25101_16	is_in_sentence	sentence_25101
+25101_16	amod	25101_18
+25101_16	has_surface_form	American
+25101_17	is_in_sentence	sentence_25101
+25101_17	compound	25101_18
+25101_17	has_surface_form	football
+25101_19	is_in_sentence	sentence_25101
+25101_19	cc	25101_18
+25101_19	has_surface_form	and
+25101_20	is_in_sentence	sentence_25101
+25101_20	conj	25101_18
+25101_20	is_entity	coach
+coach	surface_form	coach
+25101_21	is_in_sentence	sentence_25101
+25101_21	punct	25101_14
+25101_21	has_surface_form	.
+25101_22	is_in_sentence	sentence_25101
+25101_22	dep	25101_22
+25101_22	has_surface_form	
+Franklin Gene Bissell	surface_form	Franklin Gene Bissell
+Franklin Gene Bissell	has-type	coach

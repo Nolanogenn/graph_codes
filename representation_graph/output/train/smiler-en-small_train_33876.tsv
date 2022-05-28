@@ -1,0 +1,105 @@
+33875_0	is_in_sentence	sentence_33875
+33875_0	compound	33875_1
+33875_0	has_surface_form	Ryan
+33875_0	part_of_entity	Ryan Thomas Gosling
+33875_1	is_in_sentence	sentence_33875
+33875_1	compound	33875_2
+33875_1	has_surface_form	Thomas
+33875_1	part_of_entity	Ryan Thomas Gosling
+33875_2	is_in_sentence	sentence_33875
+33875_2	nsubjpass	33875_4
+33875_2	has_surface_form	Gosling
+33875_2	part_of_entity	Ryan Thomas Gosling
+33875_4	is_in_sentence	sentence_33875
+33875_4	ROOT	33875_4
+33875_4	has_surface_form	born
+33875_3	is_in_sentence	sentence_33875
+33875_3	auxpass	33875_4
+33875_3	has_surface_form	was
+33875_5	is_in_sentence	sentence_33875
+33875_5	prep	33875_4
+33875_5	has_surface_form	in
+33875_6	is_in_sentence	sentence_33875
+33875_6	pobj	33875_5
+33875_6	has_surface_form	London
+33875_7	is_in_sentence	sentence_33875
+33875_7	punct	33875_6
+33875_7	has_surface_form	,
+33875_8	is_in_sentence	sentence_33875
+33875_8	conj	33875_6
+33875_8	has_surface_form	Ontario
+33875_9	is_in_sentence	sentence_33875
+33875_9	punct	33875_8
+33875_9	has_surface_form	,
+33875_10	is_in_sentence	sentence_33875
+33875_10	det	33875_11
+33875_10	has_surface_form	the
+33875_11	is_in_sentence	sentence_33875
+33875_11	appos	33875_8
+33875_11	has_surface_form	son
+33875_12	is_in_sentence	sentence_33875
+33875_12	prep	33875_11
+33875_12	has_surface_form	of
+33875_13	is_in_sentence	sentence_33875
+33875_13	compound	33875_15
+33875_13	has_surface_form	Thomas
+33875_13	part_of_entity	Thomas Ray Gosling
+33875_15	is_in_sentence	sentence_33875
+33875_15	pobj	33875_12
+33875_15	has_surface_form	Gosling
+33875_15	part_of_entity	Thomas Ray Gosling
+33875_14	is_in_sentence	sentence_33875
+33875_14	compound	33875_15
+33875_14	has_surface_form	Ray
+33875_14	part_of_entity	Thomas Ray Gosling
+33875_16	is_in_sentence	sentence_33875
+33875_16	punct	33875_8
+33875_16	has_surface_form	,
+33875_17	is_in_sentence	sentence_33875
+33875_17	det	33875_19
+33875_17	has_surface_form	a
+33875_19	is_in_sentence	sentence_33875
+33875_19	appos	33875_8
+33875_19	has_surface_form	salesman
+33875_18	is_in_sentence	sentence_33875
+33875_18	amod	33875_19
+33875_18	has_surface_form	travelling
+33875_20	is_in_sentence	sentence_33875
+33875_20	prep	33875_19
+33875_20	has_surface_form	for
+33875_21	is_in_sentence	sentence_33875
+33875_21	det	33875_23
+33875_21	has_surface_form	a
+33875_23	is_in_sentence	sentence_33875
+33875_23	pobj	33875_20
+33875_23	has_surface_form	mill
+33875_22	is_in_sentence	sentence_33875
+33875_22	compound	33875_23
+33875_22	has_surface_form	paper
+33875_24	is_in_sentence	sentence_33875
+33875_24	punct	33875_19
+33875_24	has_surface_form	,
+33875_25	is_in_sentence	sentence_33875
+33875_25	cc	33875_19
+33875_25	has_surface_form	and
+33875_26	is_in_sentence	sentence_33875
+33875_26	conj	33875_19
+33875_26	has_surface_form	Donna
+33875_27	is_in_sentence	sentence_33875
+33875_27	punct	33875_26
+33875_27	has_surface_form	,
+33875_28	is_in_sentence	sentence_33875
+33875_28	det	33875_29
+33875_28	has_surface_form	a
+33875_29	is_in_sentence	sentence_33875
+33875_29	appos	33875_26
+33875_29	has_surface_form	secretary
+33875_30	is_in_sentence	sentence_33875
+33875_30	punct	33875_4
+33875_30	has_surface_form	.
+33875_31	is_in_sentence	sentence_33875
+33875_31	dep	33875_31
+33875_31	has_surface_form	
+Ryan Thomas Gosling	surface_form	Ryan Thomas Gosling
+Ryan Thomas Gosling	has-parent	Thomas Ray Gosling
+Thomas Ray Gosling	surface_form	Thomas Ray Gosling

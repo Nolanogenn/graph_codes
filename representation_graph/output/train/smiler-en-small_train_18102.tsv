@@ -1,0 +1,53 @@
+18101_0	is_in_sentence	sentence_18101
+18101_0	compound	18101_1
+18101_0	has_surface_form	Mike
+18101_0	part_of_entity	Mike Huckleberry
+18101_1	is_in_sentence	sentence_18101
+18101_1	nsubjpass	18101_3
+18101_1	has_surface_form	Huckleberry
+18101_1	part_of_entity	Mike Huckleberry
+18101_3	is_in_sentence	sentence_18101
+18101_3	ROOT	18101_3
+18101_3	has_surface_form	born
+18101_2	is_in_sentence	sentence_18101
+18101_2	auxpass	18101_3
+18101_2	has_surface_form	was
+18101_4	is_in_sentence	sentence_18101
+18101_4	prep	18101_3
+18101_4	has_surface_form	on
+18101_5	is_in_sentence	sentence_18101
+18101_5	pobj	18101_4
+18101_5	has_surface_form	July
+18101_6	is_in_sentence	sentence_18101
+18101_6	nummod	18101_5
+18101_6	has_surface_form	12
+18101_7	is_in_sentence	sentence_18101
+18101_7	punct	18101_5
+18101_7	has_surface_form	,
+18101_8	is_in_sentence	sentence_18101
+18101_8	nummod	18101_5
+18101_8	has_surface_form	1948
+18101_9	is_in_sentence	sentence_18101
+18101_9	prep	18101_3
+18101_9	has_surface_form	in
+18101_10	is_in_sentence	sentence_18101
+18101_10	compound	18101_11
+18101_10	has_surface_form	Cedar
+18101_11	is_in_sentence	sentence_18101
+18101_11	pobj	18101_9
+18101_11	has_surface_form	Springs
+18101_12	is_in_sentence	sentence_18101
+18101_12	punct	18101_11
+18101_12	has_surface_form	,
+18101_13	is_in_sentence	sentence_18101
+18101_13	npadvmod	18101_11
+18101_13	has_surface_form	Michigan
+18101_14	is_in_sentence	sentence_18101
+18101_14	punct	18101_3
+18101_14	has_surface_form	.
+18101_15	is_in_sentence	sentence_18101
+18101_15	dep	18101_3
+18101_15	has_surface_form	
+Mike Huckleberry	surface_form	Mike Huckleberry
+Mike Huckleberry	birth-place	Cedar Springs, Michigan
+Cedar Springs, Michigan	surface_form	Cedar Springs, Michigan

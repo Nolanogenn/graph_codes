@@ -1,0 +1,64 @@
+32028_0	is_in_sentence	sentence_32028
+32028_0	compound	32028_1
+32028_0	has_surface_form	Greater
+32028_0	part_of_entity	Greater Atlanta Christian School
+32028_1	is_in_sentence	sentence_32028
+32028_1	compound	32028_3
+32028_1	has_surface_form	Atlanta
+32028_1	part_of_entity	Greater Atlanta Christian School
+32028_3	is_in_sentence	sentence_32028
+32028_3	nsubj	32028_4
+32028_3	has_surface_form	School
+32028_3	part_of_entity	Greater Atlanta Christian School
+32028_2	is_in_sentence	sentence_32028
+32028_2	compound	32028_3
+32028_2	has_surface_form	Christian
+32028_2	part_of_entity	Greater Atlanta Christian School
+32028_4	is_in_sentence	sentence_32028
+32028_4	ROOT	32028_4
+32028_4	has_surface_form	is
+32028_5	is_in_sentence	sentence_32028
+32028_5	det	32028_8
+32028_5	has_surface_form	a
+32028_8	is_in_sentence	sentence_32028
+32028_8	attr	32028_4
+32028_8	has_surface_form	school
+32028_6	is_in_sentence	sentence_32028
+32028_6	amod	32028_8
+32028_6	has_surface_form	private
+32028_7	is_in_sentence	sentence_32028
+32028_7	amod	32028_8
+32028_7	has_surface_form	Christian
+32028_9	is_in_sentence	sentence_32028
+32028_9	acl	32028_8
+32028_9	has_surface_form	located
+32028_10	is_in_sentence	sentence_32028
+32028_10	prep	32028_9
+32028_10	has_surface_form	in
+32028_11	is_in_sentence	sentence_32028
+32028_11	pobj	32028_10
+32028_11	has_surface_form	Norcross
+32028_12	is_in_sentence	sentence_32028
+32028_12	punct	32028_11
+32028_12	has_surface_form	,
+32028_13	is_in_sentence	sentence_32028
+32028_13	conj	32028_11
+32028_13	has_surface_form	Georgia
+32028_14	is_in_sentence	sentence_32028
+32028_14	punct	32028_13
+32028_14	has_surface_form	,
+32028_15	is_in_sentence	sentence_32028
+32028_15	compound	32028_16
+32028_15	has_surface_form	United
+32028_16	is_in_sentence	sentence_32028
+32028_16	conj	32028_13
+32028_16	has_surface_form	States
+32028_17	is_in_sentence	sentence_32028
+32028_17	punct	32028_4
+32028_17	has_surface_form	.
+32028_18	is_in_sentence	sentence_32028
+32028_18	dep	32028_4
+32028_18	has_surface_form	
+Greater Atlanta Christian School	surface_form	Greater Atlanta Christian School
+Greater Atlanta Christian School	is-where	Norcross, Georgia
+Norcross, Georgia	surface_form	Norcross, Georgia

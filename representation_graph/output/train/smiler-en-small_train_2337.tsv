@@ -1,0 +1,56 @@
+2336_0	is_in_sentence	sentence_2336
+2336_0	nummod	2336_1
+2336_0	has_surface_form	100
+2336_0	part_of_entity	100 Degree Celsius
+2336_1	is_in_sentence	sentence_2336
+2336_1	compound	2336_2
+2336_1	has_surface_form	Degree
+2336_1	part_of_entity	100 Degree Celsius
+2336_2	is_in_sentence	sentence_2336
+2336_2	nsubj	2336_3
+2336_2	has_surface_form	Celsius
+2336_2	part_of_entity	100 Degree Celsius
+2336_3	is_in_sentence	sentence_2336
+2336_3	ROOT	2336_3
+2336_3	has_surface_form	is
+2336_4	is_in_sentence	sentence_2336
+2336_4	det	2336_7
+2336_4	has_surface_form	a
+2336_7	is_in_sentence	sentence_2336
+2336_7	attr	2336_3
+2336_7	has_surface_form	film
+2336_5	is_in_sentence	sentence_2336
+2336_5	nummod	2336_7
+2336_5	has_surface_form	2014
+2336_6	is_in_sentence	sentence_2336
+2336_6	compound	2336_7
+2336_6	has_surface_form	Malayalam
+2336_8	is_in_sentence	sentence_2336
+2336_8	acl	2336_7
+2336_8	has_surface_form	written
+2336_9	is_in_sentence	sentence_2336
+2336_9	cc	2336_8
+2336_9	has_surface_form	and
+2336_10	is_in_sentence	sentence_2336
+2336_10	conj	2336_8
+2336_10	has_surface_form	directed
+2336_11	is_in_sentence	sentence_2336
+2336_11	agent	2336_10
+2336_11	has_surface_form	by
+2336_12	is_in_sentence	sentence_2336
+2336_12	compound	2336_13
+2336_12	has_surface_form	Rakesh
+2336_12	part_of_entity	Rakesh Gopan
+2336_13	is_in_sentence	sentence_2336
+2336_13	pobj	2336_11
+2336_13	has_surface_form	Gopan
+2336_13	part_of_entity	Rakesh Gopan
+2336_14	is_in_sentence	sentence_2336
+2336_14	punct	2336_3
+2336_14	has_surface_form	.
+2336_15	is_in_sentence	sentence_2336
+2336_15	dep	2336_3
+2336_15	has_surface_form	
+100 Degree Celsius	surface_form	100 Degree Celsius
+100 Degree Celsius	movie-has-director	Rakesh Gopan
+Rakesh Gopan	surface_form	Rakesh Gopan

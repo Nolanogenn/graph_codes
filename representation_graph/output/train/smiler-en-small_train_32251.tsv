@@ -1,0 +1,114 @@
+32250_0	is_in_sentence	sentence_32250
+32250_0	compound	32250_1
+32250_0	has_surface_form	Palestine
+32250_0	part_of_entity	Palestine College of Nursing
+32250_1	is_in_sentence	sentence_32250
+32250_1	nsubj	32250_4
+32250_1	has_surface_form	College
+32250_1	part_of_entity	Palestine College of Nursing
+32250_4	is_in_sentence	sentence_32250
+32250_4	ROOT	32250_4
+32250_4	has_surface_form	is
+32250_2	is_in_sentence	sentence_32250
+32250_2	prep	32250_1
+32250_2	has_surface_form	of
+32250_2	part_of_entity	Palestine College of Nursing
+32250_3	is_in_sentence	sentence_32250
+32250_3	pobj	32250_2
+32250_3	has_surface_form	Nursing
+32250_3	part_of_entity	Palestine College of Nursing
+32250_5	is_in_sentence	sentence_32250
+32250_5	det	32250_8
+32250_5	has_surface_form	a
+32250_8	is_in_sentence	sentence_32250
+32250_8	attr	32250_4
+32250_8	has_surface_form	college
+32250_8	part_of_entity	university college
+32250_6	is_in_sentence	sentence_32250
+32250_6	amod	32250_8
+32250_6	has_surface_form	Palestinian
+32250_7	is_in_sentence	sentence_32250
+32250_7	compound	32250_8
+32250_7	has_surface_form	university
+32250_7	part_of_entity	university college
+32250_9	is_in_sentence	sentence_32250
+32250_9	nsubj	32250_10
+32250_9	has_surface_form	that
+32250_10	is_in_sentence	sentence_32250
+32250_10	relcl	32250_8
+32250_10	has_surface_form	is
+32250_11	is_in_sentence	sentence_32250
+32250_11	advmod	32250_14
+32250_11	has_surface_form	administratively
+32250_14	is_in_sentence	sentence_32250
+32250_14	acomp	32250_10
+32250_14	has_surface_form	affiliated
+32250_12	is_in_sentence	sentence_32250
+32250_12	cc	32250_11
+32250_12	has_surface_form	and
+32250_13	is_in_sentence	sentence_32250
+32250_13	conj	32250_11
+32250_13	has_surface_form	financially
+32250_15	is_in_sentence	sentence_32250
+32250_15	prep	32250_14
+32250_15	has_surface_form	to
+32250_16	is_in_sentence	sentence_32250
+32250_16	compound	32250_17
+32250_16	has_surface_form	Palestinian
+32250_17	is_in_sentence	sentence_32250
+32250_17	pobj	32250_15
+32250_17	has_surface_form	Ministry
+32250_18	is_in_sentence	sentence_32250
+32250_18	prep	32250_17
+32250_18	has_surface_form	of
+32250_19	is_in_sentence	sentence_32250
+32250_19	pobj	32250_18
+32250_19	has_surface_form	Health
+32250_20	is_in_sentence	sentence_32250
+32250_20	punct	32250_4
+32250_20	has_surface_form	,
+32250_21	is_in_sentence	sentence_32250
+32250_21	cc	32250_4
+32250_21	has_surface_form	and
+32250_22	is_in_sentence	sentence_32250
+32250_22	poss	32250_24
+32250_22	has_surface_form	its
+32250_24	is_in_sentence	sentence_32250
+32250_24	nsubjpass	32250_26
+32250_24	has_surface_form	program
+32250_23	is_in_sentence	sentence_32250
+32250_23	amod	32250_24
+32250_23	has_surface_form	academic
+32250_26	is_in_sentence	sentence_32250
+32250_26	conj	32250_4
+32250_26	has_surface_form	supervised
+32250_25	is_in_sentence	sentence_32250
+32250_25	auxpass	32250_26
+32250_25	has_surface_form	is
+32250_27	is_in_sentence	sentence_32250
+32250_27	agent	32250_26
+32250_27	has_surface_form	by
+32250_28	is_in_sentence	sentence_32250
+32250_28	amod	32250_29
+32250_28	has_surface_form	Palestinian
+32250_29	is_in_sentence	sentence_32250
+32250_29	pobj	32250_27
+32250_29	has_surface_form	Ministry
+32250_30	is_in_sentence	sentence_32250
+32250_30	prep	32250_29
+32250_30	has_surface_form	of
+32250_31	is_in_sentence	sentence_32250
+32250_31	compound	32250_32
+32250_31	has_surface_form	High
+32250_32	is_in_sentence	sentence_32250
+32250_32	pobj	32250_30
+32250_32	has_surface_form	Education
+32250_33	is_in_sentence	sentence_32250
+32250_33	punct	32250_26
+32250_33	has_surface_form	.
+32250_34	is_in_sentence	sentence_32250
+32250_34	dep	32250_34
+32250_34	has_surface_form	
+Palestine College of Nursing	surface_form	Palestine College of Nursing
+Palestine College of Nursing	has-type	university college
+university college	surface_form	university college

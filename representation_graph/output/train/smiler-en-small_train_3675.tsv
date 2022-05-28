@@ -1,0 +1,56 @@
+3674_0	is_in_sentence	sentence_3674
+3674_0	compound	3674_1
+3674_0	has_surface_form	Hunter
+3674_0	part_of_entity	Hunter Hill
+3674_1	is_in_sentence	sentence_3674
+3674_1	nsubj	3674_9
+3674_1	has_surface_form	Hill
+3674_1	part_of_entity	Hunter Hill
+3674_9	is_in_sentence	sentence_3674
+3674_9	ROOT	3674_9
+3674_9	has_surface_form	is
+3674_2	is_in_sentence	sentence_3674
+3674_2	punct	3674_1
+3674_2	has_surface_form	(
+3674_3	is_in_sentence	sentence_3674
+3674_3	acl	3674_1
+3674_3	has_surface_form	born
+3674_4	is_in_sentence	sentence_3674
+3674_4	npadvmod	3674_3
+3674_4	has_surface_form	June
+3674_5	is_in_sentence	sentence_3674
+3674_5	nummod	3674_4
+3674_5	has_surface_form	23
+3674_6	is_in_sentence	sentence_3674
+3674_6	punct	3674_4
+3674_6	has_surface_form	,
+3674_7	is_in_sentence	sentence_3674
+3674_7	nummod	3674_4
+3674_7	has_surface_form	1977
+3674_8	is_in_sentence	sentence_3674
+3674_8	punct	3674_1
+3674_8	has_surface_form	)
+3674_10	is_in_sentence	sentence_3674
+3674_10	det	3674_14
+3674_10	has_surface_form	an
+3674_14	is_in_sentence	sentence_3674
+3674_14	attr	3674_9
+3674_14	has_surface_form	politician
+3674_11	is_in_sentence	sentence_3674
+3674_11	compound	3674_13
+3674_11	is_entity	American
+3674_13	is_in_sentence	sentence_3674
+3674_13	compound	3674_14
+3674_13	has_surface_form	Party
+American	surface_form	American
+3674_12	is_in_sentence	sentence_3674
+3674_12	compound	3674_13
+3674_12	has_surface_form	Republican
+3674_15	is_in_sentence	sentence_3674
+3674_15	punct	3674_9
+3674_15	has_surface_form	.
+3674_16	is_in_sentence	sentence_3674
+3674_16	dep	3674_16
+3674_16	has_surface_form	
+Hunter Hill	surface_form	Hunter Hill
+Hunter Hill	has-nationality	American

@@ -1,0 +1,74 @@
+1441_0	is_in_sentence	sentence_1441
+1441_0	compound	1441_2
+1441_0	has_surface_form	First
+1441_0	part_of_entity	First Criminal Brigade
+1441_2	is_in_sentence	sentence_1441
+1441_2	nsubj	1441_10
+1441_2	has_surface_form	Brigade
+1441_2	part_of_entity	First Criminal Brigade
+1441_1	is_in_sentence	sentence_1441
+1441_1	compound	1441_2
+1441_1	has_surface_form	Criminal
+1441_1	part_of_entity	First Criminal Brigade
+1441_10	is_in_sentence	sentence_1441
+1441_10	ROOT	1441_10
+1441_10	has_surface_form	is
+1441_3	is_in_sentence	sentence_1441
+1441_3	punct	1441_4
+1441_3	has_surface_form	(
+1441_4	is_in_sentence	sentence_1441
+1441_4	appos	1441_2
+1441_4	has_surface_form	French
+1441_5	is_in_sentence	sentence_1441
+1441_5	punct	1441_4
+1441_5	has_surface_form	:
+1441_6	is_in_sentence	sentence_1441
+1441_6	compound	1441_8
+1441_6	has_surface_form	Première
+1441_8	is_in_sentence	sentence_1441
+1441_8	appos	1441_2
+1441_8	has_surface_form	criminelle
+1441_7	is_in_sentence	sentence_1441
+1441_7	compound	1441_8
+1441_7	has_surface_form	brigade
+1441_9	is_in_sentence	sentence_1441
+1441_9	punct	1441_2
+1441_9	has_surface_form	)
+1441_11	is_in_sentence	sentence_1441
+1441_11	det	1441_15
+1441_11	has_surface_form	a
+1441_15	is_in_sentence	sentence_1441
+1441_15	attr	1441_10
+1441_15	has_surface_form	film
+1441_12	is_in_sentence	sentence_1441
+1441_12	nummod	1441_15
+1441_12	has_surface_form	1962
+1441_13	is_in_sentence	sentence_1441
+1441_13	amod	1441_15
+1441_13	has_surface_form	French
+1441_14	is_in_sentence	sentence_1441
+1441_14	compound	1441_15
+1441_14	has_surface_form	crime
+1441_16	is_in_sentence	sentence_1441
+1441_16	acl	1441_15
+1441_16	has_surface_form	directed
+1441_17	is_in_sentence	sentence_1441
+1441_17	agent	1441_16
+1441_17	has_surface_form	by
+1441_18	is_in_sentence	sentence_1441
+1441_18	compound	1441_19
+1441_18	has_surface_form	Maurice
+1441_18	part_of_entity	Maurice Boutel
+1441_19	is_in_sentence	sentence_1441
+1441_19	pobj	1441_17
+1441_19	has_surface_form	Boutel
+1441_19	part_of_entity	Maurice Boutel
+1441_20	is_in_sentence	sentence_1441
+1441_20	punct	1441_10
+1441_20	has_surface_form	.
+1441_21	is_in_sentence	sentence_1441
+1441_21	dep	1441_10
+1441_21	has_surface_form	
+First Criminal Brigade	surface_form	First Criminal Brigade
+First Criminal Brigade	movie-has-director	Maurice Boutel
+Maurice Boutel	surface_form	Maurice Boutel

@@ -1,0 +1,74 @@
+5260_0	is_in_sentence	sentence_5260
+5260_0	compound	5260_1
+5260_0	has_surface_form	Glen
+5260_0	part_of_entity	Glen Este High School
+5260_0	part_of_entity	Glen Este
+5260_1	is_in_sentence	sentence_5260
+5260_1	compound	5260_3
+5260_1	has_surface_form	Este
+5260_1	part_of_entity	Glen Este High School
+5260_1	part_of_entity	Glen Este
+5260_3	is_in_sentence	sentence_5260
+5260_3	nsubj	5260_4
+5260_3	has_surface_form	School
+5260_3	part_of_entity	Glen Este High School
+5260_2	is_in_sentence	sentence_5260
+5260_2	compound	5260_3
+5260_2	has_surface_form	High
+5260_2	part_of_entity	Glen Este High School
+5260_4	is_in_sentence	sentence_5260
+5260_4	ROOT	5260_4
+5260_4	has_surface_form	was
+5260_5	is_in_sentence	sentence_5260
+5260_5	det	5260_8
+5260_5	has_surface_form	a
+5260_8	is_in_sentence	sentence_5260
+5260_8	attr	5260_4
+5260_8	has_surface_form	school
+5260_6	is_in_sentence	sentence_5260
+5260_6	amod	5260_8
+5260_6	has_surface_form	public
+5260_7	is_in_sentence	sentence_5260
+5260_7	amod	5260_8
+5260_7	has_surface_form	high
+5260_9	is_in_sentence	sentence_5260
+5260_9	prep	5260_8
+5260_9	has_surface_form	in
+5260_10	is_in_sentence	sentence_5260
+5260_10	compound	5260_11
+5260_10	has_surface_form	Glen
+5260_10	part_of_entity	Glen Este
+5260_11	is_in_sentence	sentence_5260
+5260_11	pobj	5260_9
+5260_11	has_surface_form	Este
+5260_11	part_of_entity	Glen Este
+5260_12	is_in_sentence	sentence_5260
+5260_12	prep	5260_11
+5260_12	has_surface_form	outside
+5260_13	is_in_sentence	sentence_5260
+5260_13	pobj	5260_12
+5260_13	has_surface_form	Cincinnati
+5260_14	is_in_sentence	sentence_5260
+5260_14	punct	5260_13
+5260_14	has_surface_form	,
+5260_15	is_in_sentence	sentence_5260
+5260_15	appos	5260_13
+5260_15	has_surface_form	Ohio
+5260_16	is_in_sentence	sentence_5260
+5260_16	punct	5260_15
+5260_16	has_surface_form	,
+5260_17	is_in_sentence	sentence_5260
+5260_17	compound	5260_18
+5260_17	has_surface_form	United
+5260_18	is_in_sentence	sentence_5260
+5260_18	appos	5260_13
+5260_18	has_surface_form	States
+5260_19	is_in_sentence	sentence_5260
+5260_19	punct	5260_4
+5260_19	has_surface_form	.
+5260_20	is_in_sentence	sentence_5260
+5260_20	dep	5260_4
+5260_20	has_surface_form	
+Glen Este High School	surface_form	Glen Este High School
+Glen Este High School	is-where	Glen Este
+Glen Este	surface_form	Glen Este

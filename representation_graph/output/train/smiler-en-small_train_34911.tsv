@@ -1,0 +1,66 @@
+34910_0	is_in_sentence	sentence_34910
+34910_0	compound	34910_1
+34910_0	has_surface_form	Oru
+34910_0	part_of_entity	Oru Nokku Kanan
+34910_1	is_in_sentence	sentence_34910
+34910_1	compound	34910_2
+34910_1	has_surface_form	Nokku
+34910_1	part_of_entity	Oru Nokku Kanan
+34910_2	is_in_sentence	sentence_34910
+34910_2	nsubj	34910_3
+34910_2	has_surface_form	Kanan
+34910_2	part_of_entity	Oru Nokku Kanan
+34910_3	is_in_sentence	sentence_34910
+34910_3	ROOT	34910_3
+34910_3	has_surface_form	is
+34910_4	is_in_sentence	sentence_34910
+34910_4	det	34910_10
+34910_4	has_surface_form	a
+34910_10	is_in_sentence	sentence_34910
+34910_10	attr	34910_3
+34910_10	has_surface_form	film
+34910_5	is_in_sentence	sentence_34910
+34910_5	nummod	34910_10
+34910_5	has_surface_form	1985
+34910_6	is_in_sentence	sentence_34910
+34910_6	compound	34910_10
+34910_6	has_surface_form	Indian
+34910_7	is_in_sentence	sentence_34910
+34910_7	compound	34910_9
+34910_7	has_surface_form	Malayalam
+34910_9	is_in_sentence	sentence_34910
+34910_9	compound	34910_10
+34910_9	has_surface_form	language
+34910_8	is_in_sentence	sentence_34910
+34910_8	punct	34910_9
+34910_8	has_surface_form	-
+34910_11	is_in_sentence	sentence_34910
+34910_11	punct	34910_10
+34910_11	has_surface_form	,
+34910_12	is_in_sentence	sentence_34910
+34910_12	acl	34910_10
+34910_12	has_surface_form	directed
+34910_13	is_in_sentence	sentence_34910
+34910_13	agent	34910_12
+34910_13	has_surface_form	by
+34910_14	is_in_sentence	sentence_34910
+34910_14	pobj	34910_13
+34910_14	is_entity	Sajan
+Sajan	surface_form	Sajan
+34910_15	is_in_sentence	sentence_34910
+34910_15	cc	34910_12
+34910_15	has_surface_form	and
+34910_16	is_in_sentence	sentence_34910
+34910_16	conj	34910_12
+34910_16	has_surface_form	produced
+34910_17	is_in_sentence	sentence_34910
+34910_17	agent	34910_16
+34910_17	has_surface_form	by
+34910_18	is_in_sentence	sentence_34910
+34910_18	pobj	34910_17
+34910_18	has_surface_form	P.
+34910_19	is_in_sentence	sentence_34910
+34910_19	dep	34910_3
+34910_19	has_surface_form	
+Oru Nokku Kanan	surface_form	Oru Nokku Kanan
+Oru Nokku Kanan	movie-has-director	Sajan

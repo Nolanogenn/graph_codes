@@ -1,0 +1,63 @@
+34231_0	is_in_sentence	sentence_34231
+34231_0	nsubj	34231_4
+34231_0	has_surface_form	Smoke
+34231_0	part_of_entity	Smoke in the Wind
+34231_4	is_in_sentence	sentence_34231
+34231_4	ROOT	34231_4
+34231_4	has_surface_form	is
+34231_1	is_in_sentence	sentence_34231
+34231_1	prep	34231_0
+34231_1	has_surface_form	in
+34231_1	part_of_entity	Smoke in the Wind
+34231_2	is_in_sentence	sentence_34231
+34231_2	det	34231_3
+34231_2	has_surface_form	the
+34231_2	part_of_entity	Smoke in the Wind
+34231_3	is_in_sentence	sentence_34231
+34231_3	pobj	34231_1
+34231_3	has_surface_form	Wind
+34231_3	part_of_entity	Smoke in the Wind
+34231_5	is_in_sentence	sentence_34231
+34231_5	det	34231_8
+34231_5	has_surface_form	a
+34231_8	is_in_sentence	sentence_34231
+34231_8	attr	34231_4
+34231_8	has_surface_form	film
+34231_6	is_in_sentence	sentence_34231
+34231_6	nummod	34231_8
+34231_6	has_surface_form	1975
+34231_7	is_in_sentence	sentence_34231
+34231_7	amod	34231_8
+34231_7	has_surface_form	western
+34231_9	is_in_sentence	sentence_34231
+34231_9	acl	34231_8
+34231_9	has_surface_form	directed
+34231_10	is_in_sentence	sentence_34231
+34231_10	agent	34231_9
+34231_10	has_surface_form	by
+34231_11	is_in_sentence	sentence_34231
+34231_11	compound	34231_12
+34231_11	has_surface_form	Andy
+34231_12	is_in_sentence	sentence_34231
+34231_12	pobj	34231_10
+34231_12	has_surface_form	Brennan
+34231_13	is_in_sentence	sentence_34231
+34231_13	cc	34231_12
+34231_13	has_surface_form	and
+34231_14	is_in_sentence	sentence_34231
+34231_14	compound	34231_15
+34231_14	has_surface_form	Joseph
+34231_14	part_of_entity	Joseph Kane
+34231_15	is_in_sentence	sentence_34231
+34231_15	conj	34231_12
+34231_15	has_surface_form	Kane
+34231_15	part_of_entity	Joseph Kane
+34231_16	is_in_sentence	sentence_34231
+34231_16	punct	34231_4
+34231_16	has_surface_form	.
+34231_17	is_in_sentence	sentence_34231
+34231_17	dep	34231_4
+34231_17	has_surface_form	
+Smoke in the Wind	surface_form	Smoke in the Wind
+Smoke in the Wind	movie-has-director	Joseph Kane
+Joseph Kane	surface_form	Joseph Kane

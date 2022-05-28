@@ -1,0 +1,101 @@
+3646_0	is_in_sentence	sentence_3646
+3646_0	nsubjpass	3646_5
+3646_0	has_surface_form	Chas
+3646_0	part_of_entity	Chas & Dave
+3646_5	is_in_sentence	sentence_3646
+3646_5	ROOT	3646_5
+3646_5	has_surface_form	billed
+3646_1	is_in_sentence	sentence_3646
+3646_1	cc	3646_0
+3646_1	has_surface_form	&
+3646_1	part_of_entity	Chas & Dave
+3646_2	is_in_sentence	sentence_3646
+3646_2	conj	3646_0
+3646_2	has_surface_form	Dave
+3646_2	part_of_entity	Chas & Dave
+3646_3	is_in_sentence	sentence_3646
+3646_3	punct	3646_5
+3646_3	has_surface_form	(
+3646_4	is_in_sentence	sentence_3646
+3646_4	advmod	3646_5
+3646_4	has_surface_form	often
+3646_6	is_in_sentence	sentence_3646
+3646_6	prep	3646_5
+3646_6	has_surface_form	as
+3646_7	is_in_sentence	sentence_3646
+3646_7	nmod	3646_11
+3646_7	has_surface_form	Chas
+3646_11	is_in_sentence	sentence_3646
+3646_11	pobj	3646_6
+3646_11	has_surface_form	Dave
+3646_8	is_in_sentence	sentence_3646
+3646_8	case	3646_7
+3646_8	has_surface_form	'
+3646_9	is_in_sentence	sentence_3646
+3646_9	cc	3646_7
+3646_9	has_surface_form	n
+3646_10	is_in_sentence	sentence_3646
+3646_10	punct	3646_7
+3646_10	has_surface_form	'
+3646_12	is_in_sentence	sentence_3646
+3646_12	punct	3646_11
+3646_12	has_surface_form	)
+3646_13	is_in_sentence	sentence_3646
+3646_13	ccomp	3646_5
+3646_13	has_surface_form	were
+3646_14	is_in_sentence	sentence_3646
+3646_14	det	3646_18
+3646_14	has_surface_form	an
+3646_18	is_in_sentence	sentence_3646
+3646_18	attr	3646_13
+3646_18	has_surface_form	duo
+3646_15	is_in_sentence	sentence_3646
+3646_15	amod	3646_18
+3646_15	has_surface_form	English
+3646_16	is_in_sentence	sentence_3646
+3646_16	compound	3646_17
+3646_16	has_surface_form	pop
+3646_17	is_in_sentence	sentence_3646
+3646_17	compound	3646_18
+3646_17	has_surface_form	rock
+3646_19	is_in_sentence	sentence_3646
+3646_19	punct	3646_18
+3646_19	has_surface_form	,
+3646_20	is_in_sentence	sentence_3646
+3646_20	acl	3646_18
+3646_20	has_surface_form	formed
+3646_21	is_in_sentence	sentence_3646
+3646_21	prep	3646_20
+3646_21	has_surface_form	in
+3646_22	is_in_sentence	sentence_3646
+3646_22	pobj	3646_21
+3646_22	has_surface_form	London
+3646_23	is_in_sentence	sentence_3646
+3646_23	agent	3646_20
+3646_23	has_surface_form	by
+3646_24	is_in_sentence	sentence_3646
+3646_24	compound	3646_25
+3646_24	has_surface_form	Chas
+3646_25	is_in_sentence	sentence_3646
+3646_25	pobj	3646_23
+3646_25	has_surface_form	Hodges
+3646_26	is_in_sentence	sentence_3646
+3646_26	cc	3646_25
+3646_26	has_surface_form	and
+3646_27	is_in_sentence	sentence_3646
+3646_27	compound	3646_28
+3646_27	has_surface_form	Dave
+3646_27	part_of_entity	Dave Peacock
+3646_28	is_in_sentence	sentence_3646
+3646_28	conj	3646_25
+3646_28	has_surface_form	Peacock
+3646_28	part_of_entity	Dave Peacock
+3646_29	is_in_sentence	sentence_3646
+3646_29	punct	3646_13
+3646_29	has_surface_form	.
+3646_30	is_in_sentence	sentence_3646
+3646_30	dep	3646_5
+3646_30	has_surface_form	
+Chas & Dave	surface_form	Chas & Dave
+Chas & Dave	org-has-member	Dave Peacock
+Dave Peacock	surface_form	Dave Peacock

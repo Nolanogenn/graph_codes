@@ -1,0 +1,54 @@
+14085_0	is_in_sentence	sentence_14085
+14085_0	compound	14085_2
+14085_0	has_surface_form	Computech
+14085_0	part_of_entity	Computech Middle School
+14085_2	is_in_sentence	sentence_14085
+14085_2	nsubj	14085_3
+14085_2	has_surface_form	School
+14085_2	part_of_entity	Computech Middle School
+14085_1	is_in_sentence	sentence_14085
+14085_1	compound	14085_2
+14085_1	has_surface_form	Middle
+14085_1	part_of_entity	Computech Middle School
+14085_3	is_in_sentence	sentence_14085
+14085_3	ROOT	14085_3
+14085_3	has_surface_form	is
+14085_4	is_in_sentence	sentence_14085
+14085_4	det	14085_6
+14085_4	has_surface_form	a
+14085_6	is_in_sentence	sentence_14085
+14085_6	attr	14085_3
+14085_6	has_surface_form	school
+14085_5	is_in_sentence	sentence_14085
+14085_5	amod	14085_6
+14085_5	has_surface_form	public
+14085_7	is_in_sentence	sentence_14085
+14085_7	prep	14085_6
+14085_7	has_surface_form	in
+14085_8	is_in_sentence	sentence_14085
+14085_8	pobj	14085_7
+14085_8	is_entity	Fresno
+Fresno	surface_form	Fresno
+14085_9	is_in_sentence	sentence_14085
+14085_9	punct	14085_8
+14085_9	has_surface_form	,
+14085_10	is_in_sentence	sentence_14085
+14085_10	conj	14085_8
+14085_10	has_surface_form	California
+14085_11	is_in_sentence	sentence_14085
+14085_11	punct	14085_10
+14085_11	has_surface_form	,
+14085_12	is_in_sentence	sentence_14085
+14085_12	compound	14085_13
+14085_12	has_surface_form	United
+14085_13	is_in_sentence	sentence_14085
+14085_13	conj	14085_10
+14085_13	has_surface_form	States
+14085_14	is_in_sentence	sentence_14085
+14085_14	punct	14085_3
+14085_14	has_surface_form	.
+14085_15	is_in_sentence	sentence_14085
+14085_15	dep	14085_3
+14085_15	has_surface_form	
+Computech Middle School	surface_form	Computech Middle School
+Computech Middle School	is-where	Fresno

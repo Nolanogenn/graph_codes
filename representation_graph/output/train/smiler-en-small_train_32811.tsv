@@ -1,0 +1,53 @@
+32810_0	is_in_sentence	sentence_32810
+32810_0	compound	32810_1
+32810_0	has_surface_form	Ecoair
+32810_0	part_of_entity	Ecoair International
+32810_1	is_in_sentence	sentence_32810
+32810_1	nsubj	32810_2
+32810_1	has_surface_form	International
+32810_1	part_of_entity	Ecoair International
+32810_2	is_in_sentence	sentence_32810
+32810_2	ROOT	32810_2
+32810_2	has_surface_form	was
+32810_3	is_in_sentence	sentence_32810
+32810_3	det	32810_4
+32810_3	has_surface_form	an
+32810_4	is_in_sentence	sentence_32810
+32810_4	attr	32810_2
+32810_4	has_surface_form	airline
+32810_5	is_in_sentence	sentence_32810
+32810_5	acl	32810_4
+32810_5	has_surface_form	based
+32810_6	is_in_sentence	sentence_32810
+32810_6	prep	32810_5
+32810_6	has_surface_form	in
+32810_7	is_in_sentence	sentence_32810
+32810_7	pobj	32810_6
+32810_7	is_entity	Algiers
+Algiers	surface_form	Algiers
+32810_8	is_in_sentence	sentence_32810
+32810_8	punct	32810_7
+32810_8	has_surface_form	,
+32810_9	is_in_sentence	sentence_32810
+32810_9	appos	32810_7
+32810_9	has_surface_form	Algeria
+32810_10	is_in_sentence	sentence_32810
+32810_10	punct	32810_7
+32810_10	has_surface_form	,
+32810_11	is_in_sentence	sentence_32810
+32810_11	acl	32810_4
+32810_11	has_surface_form	founded
+32810_12	is_in_sentence	sentence_32810
+32810_12	prep	32810_11
+32810_12	has_surface_form	in
+32810_13	is_in_sentence	sentence_32810
+32810_13	pobj	32810_12
+32810_13	has_surface_form	1999
+32810_14	is_in_sentence	sentence_32810
+32810_14	punct	32810_2
+32810_14	has_surface_form	.
+32810_15	is_in_sentence	sentence_32810
+32810_15	dep	32810_15
+32810_15	has_surface_form	
+Ecoair International	surface_form	Ecoair International
+Ecoair International	headquarters	Algiers

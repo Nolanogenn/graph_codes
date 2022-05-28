@@ -1,0 +1,70 @@
+24517_0	is_in_sentence	sentence_24517
+24517_0	det	24517_4
+24517_0	has_surface_form	The
+24517_4	is_in_sentence	sentence_24517
+24517_4	nsubjpass	24517_6
+24517_4	has_surface_form	Machine
+24517_4	part_of_entity	Money Machine
+24517_1	is_in_sentence	sentence_24517
+24517_1	amod	24517_4
+24517_1	has_surface_form	original
+24517_2	is_in_sentence	sentence_24517
+24517_2	amod	24517_4
+24517_2	has_surface_form	portable
+24517_3	is_in_sentence	sentence_24517
+24517_3	compound	24517_4
+24517_3	has_surface_form	Money
+24517_3	part_of_entity	Money Machine
+24517_6	is_in_sentence	sentence_24517
+24517_6	ROOT	24517_6
+24517_6	has_surface_form	created
+24517_5	is_in_sentence	sentence_24517
+24517_5	auxpass	24517_6
+24517_5	has_surface_form	was
+24517_7	is_in_sentence	sentence_24517
+24517_7	cc	24517_6
+24517_7	has_surface_form	and
+24517_8	is_in_sentence	sentence_24517
+24517_8	conj	24517_6
+24517_8	has_surface_form	patented
+24517_9	is_in_sentence	sentence_24517
+24517_9	prep	24517_8
+24517_9	has_surface_form	in
+24517_10	is_in_sentence	sentence_24517
+24517_10	pobj	24517_9
+24517_10	is_entity	1996
+1996	surface_form	1996
+24517_11	is_in_sentence	sentence_24517
+24517_11	agent	24517_8
+24517_11	has_surface_form	by
+24517_12	is_in_sentence	sentence_24517
+24517_12	compound	24517_14
+24517_12	has_surface_form	inventor
+24517_14	is_in_sentence	sentence_24517
+24517_14	pobj	24517_11
+24517_14	has_surface_form	Roberts
+24517_13	is_in_sentence	sentence_24517
+24517_13	compound	24517_14
+24517_13	has_surface_form	Lee
+24517_15	is_in_sentence	sentence_24517
+24517_15	prep	24517_14
+24517_15	has_surface_form	of
+24517_16	is_in_sentence	sentence_24517
+24517_16	compound	24517_18
+24517_16	has_surface_form	LR
+24517_18	is_in_sentence	sentence_24517
+24517_18	pobj	24517_15
+24517_18	has_surface_form	Machine
+24517_18	part_of_entity	Money Machine
+24517_17	is_in_sentence	sentence_24517
+24517_17	compound	24517_18
+24517_17	has_surface_form	Money
+24517_17	part_of_entity	Money Machine
+24517_19	is_in_sentence	sentence_24517
+24517_19	punct	24517_6
+24517_19	has_surface_form	.
+24517_20	is_in_sentence	sentence_24517
+24517_20	dep	24517_20
+24517_20	has_surface_form	
+Money Machine	surface_form	Money Machine
+Money Machine	invented-when	1996

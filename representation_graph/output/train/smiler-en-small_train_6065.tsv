@@ -1,0 +1,58 @@
+6064_0	is_in_sentence	sentence_6064
+6064_0	compound	6064_1
+6064_0	has_surface_form	Claude
+6064_0	part_of_entity	Claude Germany
+6064_1	is_in_sentence	sentence_6064
+6064_1	nsubj	6064_2
+6064_1	has_surface_form	Germany
+6064_1	part_of_entity	Claude Germany
+6064_2	is_in_sentence	sentence_6064
+6064_2	ROOT	6064_2
+6064_2	has_surface_form	is
+6064_3	is_in_sentence	sentence_6064
+6064_3	det	6064_6
+6064_3	has_surface_form	a
+6064_6	is_in_sentence	sentence_6064
+6064_6	attr	6064_2
+6064_6	has_surface_form	musician
+6064_4	is_in_sentence	sentence_6064
+6064_4	amod	6064_6
+6064_4	has_surface_form	French
+6064_5	is_in_sentence	sentence_6064
+6064_5	amod	6064_6
+6064_5	has_surface_form	Antillean
+6064_7	is_in_sentence	sentence_6064
+6064_7	punct	6064_6
+6064_7	has_surface_form	,
+6064_8	is_in_sentence	sentence_6064
+6064_8	acl	6064_6
+6064_8	has_surface_form	known
+6064_9	is_in_sentence	sentence_6064
+6064_9	prep	6064_8
+6064_9	has_surface_form	as
+6064_10	is_in_sentence	sentence_6064
+6064_10	det	6064_11
+6064_10	has_surface_form	a
+6064_11	is_in_sentence	sentence_6064
+6064_11	pobj	6064_9
+6064_11	has_surface_form	player
+6064_12	is_in_sentence	sentence_6064
+6064_12	prep	6064_11
+6064_12	has_surface_form	of
+6064_13	is_in_sentence	sentence_6064
+6064_13	compound	6064_14
+6064_13	has_surface_form	chouval
+6064_13	part_of_entity	chouval bwa
+6064_14	is_in_sentence	sentence_6064
+6064_14	pobj	6064_12
+6064_14	has_surface_form	bwa
+6064_14	part_of_entity	chouval bwa
+6064_15	is_in_sentence	sentence_6064
+6064_15	punct	6064_2
+6064_15	has_surface_form	.
+6064_16	is_in_sentence	sentence_6064
+6064_16	dep	6064_2
+6064_16	has_surface_form	
+Claude Germany	surface_form	Claude Germany
+Claude Germany	has-genre	chouval bwa
+chouval bwa	surface_form	chouval bwa

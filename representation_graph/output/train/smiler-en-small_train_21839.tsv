@@ -1,0 +1,72 @@
+21838_0	is_in_sentence	sentence_21838
+21838_0	compound	21838_1
+21838_0	has_surface_form	Fort
+21838_0	part_of_entity	Fort Dorchester High School
+21838_1	is_in_sentence	sentence_21838
+21838_1	compound	21838_3
+21838_1	has_surface_form	Dorchester
+21838_1	part_of_entity	Fort Dorchester High School
+21838_3	is_in_sentence	sentence_21838
+21838_3	nsubj	21838_4
+21838_3	has_surface_form	School
+21838_3	part_of_entity	Fort Dorchester High School
+21838_2	is_in_sentence	sentence_21838
+21838_2	compound	21838_3
+21838_2	has_surface_form	High
+21838_2	part_of_entity	Fort Dorchester High School
+21838_4	is_in_sentence	sentence_21838
+21838_4	ROOT	21838_4
+21838_4	has_surface_form	is
+21838_5	is_in_sentence	sentence_21838
+21838_5	det	21838_8
+21838_5	has_surface_form	a
+21838_8	is_in_sentence	sentence_21838
+21838_8	attr	21838_4
+21838_8	has_surface_form	school
+21838_6	is_in_sentence	sentence_21838
+21838_6	amod	21838_8
+21838_6	has_surface_form	public
+21838_7	is_in_sentence	sentence_21838
+21838_7	amod	21838_8
+21838_7	has_surface_form	high
+21838_9	is_in_sentence	sentence_21838
+21838_9	acl	21838_8
+21838_9	has_surface_form	located
+21838_10	is_in_sentence	sentence_21838
+21838_10	prep	21838_9
+21838_10	has_surface_form	in
+21838_11	is_in_sentence	sentence_21838
+21838_11	compound	21838_12
+21838_11	has_surface_form	North
+21838_11	part_of_entity	North Charleston
+21838_12	is_in_sentence	sentence_21838
+21838_12	pobj	21838_10
+21838_12	has_surface_form	Charleston
+21838_12	part_of_entity	North Charleston
+21838_13	is_in_sentence	sentence_21838
+21838_13	punct	21838_12
+21838_13	has_surface_form	,
+21838_14	is_in_sentence	sentence_21838
+21838_14	compound	21838_15
+21838_14	has_surface_form	South
+21838_15	is_in_sentence	sentence_21838
+21838_15	conj	21838_12
+21838_15	has_surface_form	Carolina
+21838_16	is_in_sentence	sentence_21838
+21838_16	punct	21838_15
+21838_16	has_surface_form	,
+21838_17	is_in_sentence	sentence_21838
+21838_17	compound	21838_18
+21838_17	has_surface_form	United
+21838_18	is_in_sentence	sentence_21838
+21838_18	appos	21838_12
+21838_18	has_surface_form	States
+21838_19	is_in_sentence	sentence_21838
+21838_19	punct	21838_4
+21838_19	has_surface_form	.
+21838_20	is_in_sentence	sentence_21838
+21838_20	dep	21838_4
+21838_20	has_surface_form	
+Fort Dorchester High School	surface_form	Fort Dorchester High School
+Fort Dorchester High School	is-where	North Charleston
+North Charleston	surface_form	North Charleston

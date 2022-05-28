@@ -1,0 +1,94 @@
+1901_0	is_in_sentence	sentence_1901
+1901_0	det	1901_2
+1901_0	has_surface_form	The
+1901_2	is_in_sentence	sentence_1901
+1901_2	nsubjpass	1901_13
+1901_2	has_surface_form	tortoise
+1901_2	part_of_entity	Desert tortoise
+1901_1	is_in_sentence	sentence_1901
+1901_1	compound	1901_2
+1901_1	has_surface_form	Desert
+1901_1	part_of_entity	Desert tortoise
+1901_13	is_in_sentence	sentence_1901
+1901_13	ROOT	1901_13
+1901_13	has_surface_form	found
+1901_3	is_in_sentence	sentence_1901
+1901_3	punct	1901_2
+1901_3	has_surface_form	,
+1901_4	is_in_sentence	sentence_1901
+1901_4	nsubj	1901_6
+1901_4	has_surface_form	which
+1901_6	is_in_sentence	sentence_1901
+1901_6	relcl	1901_2
+1901_6	has_surface_form	live
+1901_5	is_in_sentence	sentence_1901
+1901_5	aux	1901_6
+1901_5	has_surface_form	can
+1901_7	is_in_sentence	sentence_1901
+1901_7	quantmod	1901_9
+1901_7	has_surface_form	up
+1901_9	is_in_sentence	sentence_1901
+1901_9	nummod	1901_10
+1901_9	has_surface_form	seventy
+1901_9	part_of_entity	seventy years
+1901_8	is_in_sentence	sentence_1901
+1901_8	quantmod	1901_9
+1901_8	has_surface_form	to
+1901_10	is_in_sentence	sentence_1901
+1901_10	npadvmod	1901_6
+1901_10	has_surface_form	years
+1901_10	part_of_entity	seventy years
+1901_11	is_in_sentence	sentence_1901
+1901_11	punct	1901_2
+1901_11	has_surface_form	,
+1901_12	is_in_sentence	sentence_1901
+1901_12	auxpass	1901_13
+1901_12	has_surface_form	is
+1901_14	is_in_sentence	sentence_1901
+1901_14	prep	1901_13
+1901_14	has_surface_form	in
+1901_15	is_in_sentence	sentence_1901
+1901_15	amod	1901_16
+1901_15	has_surface_form	southwestern
+1901_16	is_in_sentence	sentence_1901
+1901_16	pobj	1901_14
+1901_16	has_surface_form	Nevada
+1901_17	is_in_sentence	sentence_1901
+1901_17	cc	1901_13
+1901_17	has_surface_form	and
+1901_18	is_in_sentence	sentence_1901
+1901_18	conj	1901_13
+1901_18	has_surface_form	is
+1901_19	is_in_sentence	sentence_1901
+1901_19	det	1901_21
+1901_19	has_surface_form	the
+1901_21	is_in_sentence	sentence_1901
+1901_21	attr	1901_18
+1901_21	has_surface_form	reptile
+1901_20	is_in_sentence	sentence_1901
+1901_20	amod	1901_21
+1901_20	has_surface_form	largest
+1901_22	is_in_sentence	sentence_1901
+1901_22	prep	1901_21
+1901_22	has_surface_form	in
+1901_23	is_in_sentence	sentence_1901
+1901_23	det	1901_26
+1901_23	has_surface_form	the
+1901_26	is_in_sentence	sentence_1901
+1901_26	pobj	1901_22
+1901_26	has_surface_form	States
+1901_24	is_in_sentence	sentence_1901
+1901_24	amod	1901_26
+1901_24	has_surface_form	southwestern
+1901_25	is_in_sentence	sentence_1901
+1901_25	compound	1901_26
+1901_25	has_surface_form	United
+1901_27	is_in_sentence	sentence_1901
+1901_27	punct	1901_13
+1901_27	has_surface_form	.
+1901_28	is_in_sentence	sentence_1901
+1901_28	dep	1901_13
+1901_28	has_surface_form	
+Desert tortoise	surface_form	Desert tortoise
+Desert tortoise	has-lifespan	seventy years
+seventy years	surface_form	seventy years

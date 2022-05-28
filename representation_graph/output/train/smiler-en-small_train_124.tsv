@@ -1,0 +1,61 @@
+123_0	is_in_sentence	sentence_123
+123_0	amod	123_1
+123_0	has_surface_form	American
+123_1	is_in_sentence	sentence_123
+123_1	compound	123_3
+123_1	has_surface_form	inventor
+123_3	is_in_sentence	sentence_123
+123_3	nsubjpass	123_6
+123_3	has_surface_form	Anderson
+123_3	part_of_entity	Mary Anderson
+123_2	is_in_sentence	sentence_123
+123_2	compound	123_3
+123_2	has_surface_form	Mary
+123_2	part_of_entity	Mary Anderson
+123_6	is_in_sentence	sentence_123
+123_6	ROOT	123_6
+123_6	has_surface_form	credited
+123_4	is_in_sentence	sentence_123
+123_4	auxpass	123_6
+123_4	has_surface_form	is
+123_5	is_in_sentence	sentence_123
+123_5	advmod	123_6
+123_5	has_surface_form	popularly
+123_7	is_in_sentence	sentence_123
+123_7	prep	123_6
+123_7	has_surface_form	with
+123_8	is_in_sentence	sentence_123
+123_8	pcomp	123_7
+123_8	has_surface_form	devising
+123_9	is_in_sentence	sentence_123
+123_9	det	123_13
+123_9	has_surface_form	the
+123_13	is_in_sentence	sentence_123
+123_13	dobj	123_8
+123_13	has_surface_form	wiper
+123_13	part_of_entity	windscreen wiper
+123_10	is_in_sentence	sentence_123
+123_10	amod	123_13
+123_10	has_surface_form	first
+123_11	is_in_sentence	sentence_123
+123_11	amod	123_13
+123_11	has_surface_form	operational
+123_12	is_in_sentence	sentence_123
+123_12	amod	123_13
+123_12	has_surface_form	windscreen
+123_12	part_of_entity	windscreen wiper
+123_14	is_in_sentence	sentence_123
+123_14	prep	123_8
+123_14	has_surface_form	in
+123_15	is_in_sentence	sentence_123
+123_15	pobj	123_14
+123_15	has_surface_form	1903
+123_16	is_in_sentence	sentence_123
+123_16	punct	123_6
+123_16	has_surface_form	.
+123_17	is_in_sentence	sentence_123
+123_17	dep	123_17
+123_17	has_surface_form	
+windscreen wiper	surface_form	windscreen wiper
+windscreen wiper	invented-by	Mary Anderson
+Mary Anderson	surface_form	Mary Anderson

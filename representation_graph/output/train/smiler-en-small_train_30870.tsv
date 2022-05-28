@@ -1,0 +1,89 @@
+30869_0	is_in_sentence	sentence_30869
+30869_0	ROOT	30869_0
+30869_0	has_surface_form	Busch
+30869_1	is_in_sentence	sentence_30869
+30869_1	punct	30869_0
+30869_1	has_surface_form	,
+30869_2	is_in_sentence	sentence_30869
+30869_2	compound	30869_4
+30869_2	has_surface_form	William
+30869_2	part_of_entity	William H. Webster
+30869_4	is_in_sentence	sentence_30869
+30869_4	npadvmod	30869_0
+30869_4	has_surface_form	Webster
+30869_4	part_of_entity	William H. Webster
+30869_3	is_in_sentence	sentence_30869
+30869_3	compound	30869_4
+30869_3	has_surface_form	H.
+30869_3	part_of_entity	William H. Webster
+30869_5	is_in_sentence	sentence_30869
+30869_5	punct	30869_4
+30869_5	has_surface_form	,
+30869_6	is_in_sentence	sentence_30869
+30869_6	appos	30869_4
+30869_6	has_surface_form	Jr.
+30869_7	is_in_sentence	sentence_30869
+30869_7	prep	30869_17
+30869_7	has_surface_form	Following
+30869_17	is_in_sentence	sentence_30869
+30869_17	ROOT	30869_17
+30869_17	has_surface_form	remarried
+30869_8	is_in_sentence	sentence_30869
+30869_8	compound	30869_9
+30869_8	has_surface_form	Drusilla
+30869_9	is_in_sentence	sentence_30869
+30869_9	poss	30869_11
+30869_9	has_surface_form	Webster
+30869_11	is_in_sentence	sentence_30869
+30869_11	pobj	30869_7
+30869_11	has_surface_form	death
+30869_10	is_in_sentence	sentence_30869
+30869_10	case	30869_9
+30869_10	has_surface_form	's
+30869_12	is_in_sentence	sentence_30869
+30869_12	prep	30869_11
+30869_12	has_surface_form	in
+30869_13	is_in_sentence	sentence_30869
+30869_13	pobj	30869_12
+30869_13	has_surface_form	1984
+30869_14	is_in_sentence	sentence_30869
+30869_14	punct	30869_17
+30869_14	has_surface_form	,
+30869_15	is_in_sentence	sentence_30869
+30869_15	nsubjpass	30869_17
+30869_15	has_surface_form	he
+30869_16	is_in_sentence	sentence_30869
+30869_16	auxpass	30869_17
+30869_16	has_surface_form	was
+30869_18	is_in_sentence	sentence_30869
+30869_18	prep	30869_17
+30869_18	has_surface_form	in
+30869_19	is_in_sentence	sentence_30869
+30869_19	pobj	30869_18
+30869_19	has_surface_form	1990
+30869_20	is_in_sentence	sentence_30869
+30869_20	prep	30869_17
+30869_20	has_surface_form	to
+30869_21	is_in_sentence	sentence_30869
+30869_21	det	30869_24
+30869_21	has_surface_form	the
+30869_24	is_in_sentence	sentence_30869
+30869_24	pobj	30869_20
+30869_24	has_surface_form	Clugston
+30869_24	part_of_entity	Lynda Clugston
+30869_22	is_in_sentence	sentence_30869
+30869_22	amod	30869_24
+30869_22	has_surface_form	former
+30869_23	is_in_sentence	sentence_30869
+30869_23	compound	30869_24
+30869_23	has_surface_form	Lynda
+30869_23	part_of_entity	Lynda Clugston
+30869_25	is_in_sentence	sentence_30869
+30869_25	punct	30869_17
+30869_25	has_surface_form	.
+30869_26	is_in_sentence	sentence_30869
+30869_26	dep	30869_26
+30869_26	has_surface_form	
+William H. Webster	surface_form	William H. Webster
+William H. Webster	has-spouse	Lynda Clugston
+Lynda Clugston	surface_form	Lynda Clugston

@@ -1,0 +1,55 @@
+5648_0	is_in_sentence	sentence_5648
+5648_0	nsubj	5648_1
+5648_0	is_entity	BMW
+5648_1	is_in_sentence	sentence_5648
+5648_1	ROOT	5648_1
+5648_1	has_surface_form	resumed
+BMW	surface_form	BMW
+BMW	no_relation	BMW 501 luxury saloon
+5648_2	is_in_sentence	sentence_5648
+5648_2	compound	5648_3
+5648_2	has_surface_form	car
+5648_3	is_in_sentence	sentence_5648
+5648_3	dobj	5648_1
+5648_3	has_surface_form	production
+5648_4	is_in_sentence	sentence_5648
+5648_4	prep	5648_3
+5648_4	has_surface_form	in
+5648_5	is_in_sentence	sentence_5648
+5648_5	pobj	5648_4
+5648_5	has_surface_form	Bavaria
+5648_6	is_in_sentence	sentence_5648
+5648_6	prep	5648_1
+5648_6	has_surface_form	in
+5648_7	is_in_sentence	sentence_5648
+5648_7	pobj	5648_6
+5648_7	has_surface_form	1952
+5648_8	is_in_sentence	sentence_5648
+5648_8	prep	5648_1
+5648_8	has_surface_form	with
+5648_9	is_in_sentence	sentence_5648
+5648_9	det	5648_13
+5648_9	has_surface_form	the
+5648_13	is_in_sentence	sentence_5648
+5648_13	pobj	5648_8
+5648_13	has_surface_form	saloon
+5648_13	part_of_entity	BMW 501 luxury saloon
+5648_10	is_in_sentence	sentence_5648
+5648_10	nmod	5648_13
+5648_10	is_entity	BMW
+5648_10	part_of_entity	BMW 501 luxury saloon
+5648_11	is_in_sentence	sentence_5648
+5648_11	nummod	5648_10
+5648_11	has_surface_form	501
+5648_11	part_of_entity	BMW 501 luxury saloon
+5648_12	is_in_sentence	sentence_5648
+5648_12	compound	5648_13
+5648_12	has_surface_form	luxury
+5648_12	part_of_entity	BMW 501 luxury saloon
+5648_14	is_in_sentence	sentence_5648
+5648_14	punct	5648_1
+5648_14	has_surface_form	.
+5648_15	is_in_sentence	sentence_5648
+5648_15	dep	5648_15
+5648_15	has_surface_form	
+BMW 501 luxury saloon	surface_form	BMW 501 luxury saloon

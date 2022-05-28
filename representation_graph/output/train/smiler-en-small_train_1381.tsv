@@ -1,0 +1,56 @@
+1380_0	is_in_sentence	sentence_1380
+1380_0	compound	1380_1
+1380_0	has_surface_form	Lotte
+1380_0	part_of_entity	Lotte Anker
+1380_1	is_in_sentence	sentence_1380
+1380_1	nsubj	1380_7
+1380_1	has_surface_form	Anker
+1380_1	part_of_entity	Lotte Anker
+1380_7	is_in_sentence	sentence_1380
+1380_7	ROOT	1380_7
+1380_7	has_surface_form	is
+1380_2	is_in_sentence	sentence_1380
+1380_2	punct	1380_1
+1380_2	has_surface_form	(
+1380_3	is_in_sentence	sentence_1380
+1380_3	acl	1380_1
+1380_3	has_surface_form	born
+1380_4	is_in_sentence	sentence_1380
+1380_4	nummod	1380_5
+1380_4	has_surface_form	1958
+1380_5	is_in_sentence	sentence_1380
+1380_5	npadvmod	1380_3
+1380_5	has_surface_form	Copenhagen
+1380_6	is_in_sentence	sentence_1380
+1380_6	punct	1380_1
+1380_6	has_surface_form	)
+1380_8	is_in_sentence	sentence_1380
+1380_8	det	1380_11
+1380_8	has_surface_form	a
+1380_11	is_in_sentence	sentence_1380
+1380_11	attr	1380_7
+1380_11	has_surface_form	saxophonist
+1380_9	is_in_sentence	sentence_1380
+1380_9	amod	1380_11
+1380_9	has_surface_form	Danish
+1380_10	is_in_sentence	sentence_1380
+1380_10	compound	1380_11
+1380_10	is_entity	jazz
+jazz	surface_form	jazz
+1380_12	is_in_sentence	sentence_1380
+1380_12	punct	1380_11
+1380_12	has_surface_form	,
+1380_13	is_in_sentence	sentence_1380
+1380_13	cc	1380_11
+1380_13	has_surface_form	and
+1380_14	is_in_sentence	sentence_1380
+1380_14	conj	1380_11
+1380_14	has_surface_form	composer
+1380_15	is_in_sentence	sentence_1380
+1380_15	punct	1380_7
+1380_15	has_surface_form	.
+1380_16	is_in_sentence	sentence_1380
+1380_16	dep	1380_7
+1380_16	has_surface_form	
+Lotte Anker	surface_form	Lotte Anker
+Lotte Anker	has-genre	jazz

@@ -1,0 +1,63 @@
+7488_0	is_in_sentence	sentence_7488
+7488_0	det	7488_3
+7488_0	has_surface_form	The
+7488_3	is_in_sentence	sentence_7488
+7488_3	nsubj	7488_4
+7488_3	has_surface_form	Theatre
+7488_3	part_of_entity	August Wilson Theatre
+7488_1	is_in_sentence	sentence_7488
+7488_1	compound	7488_3
+7488_1	has_surface_form	August
+7488_1	part_of_entity	August Wilson Theatre
+7488_2	is_in_sentence	sentence_7488
+7488_2	compound	7488_3
+7488_2	has_surface_form	Wilson
+7488_2	part_of_entity	August Wilson Theatre
+7488_4	is_in_sentence	sentence_7488
+7488_4	ROOT	7488_4
+7488_4	has_surface_form	is
+7488_5	is_in_sentence	sentence_7488
+7488_5	det	7488_7
+7488_5	has_surface_form	a
+7488_7	is_in_sentence	sentence_7488
+7488_7	attr	7488_4
+7488_7	is_entity	theatre
+7488_6	is_in_sentence	sentence_7488
+7488_6	compound	7488_7
+7488_6	has_surface_form	Broadway
+theatre	surface_form	theatre
+7488_8	is_in_sentence	sentence_7488
+7488_8	acl	7488_7
+7488_8	has_surface_form	located
+7488_9	is_in_sentence	sentence_7488
+7488_9	prep	7488_8
+7488_9	has_surface_form	at
+7488_10	is_in_sentence	sentence_7488
+7488_10	nummod	7488_13
+7488_10	has_surface_form	245
+7488_13	is_in_sentence	sentence_7488
+7488_13	pobj	7488_9
+7488_13	has_surface_form	Street
+7488_11	is_in_sentence	sentence_7488
+7488_11	compound	7488_12
+7488_11	has_surface_form	West
+7488_12	is_in_sentence	sentence_7488
+7488_12	compound	7488_13
+7488_12	has_surface_form	52nd
+7488_14	is_in_sentence	sentence_7488
+7488_14	prep	7488_8
+7488_14	has_surface_form	in
+7488_15	is_in_sentence	sentence_7488
+7488_15	amod	7488_16
+7488_15	has_surface_form	midtown
+7488_16	is_in_sentence	sentence_7488
+7488_16	pobj	7488_14
+7488_16	has_surface_form	Manhattan
+7488_17	is_in_sentence	sentence_7488
+7488_17	punct	7488_4
+7488_17	has_surface_form	.
+7488_18	is_in_sentence	sentence_7488
+7488_18	dep	7488_4
+7488_18	has_surface_form	
+August Wilson Theatre	surface_form	August Wilson Theatre
+August Wilson Theatre	has-type	theatre

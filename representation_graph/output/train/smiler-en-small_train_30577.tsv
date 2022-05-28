@@ -1,0 +1,83 @@
+30576_0	is_in_sentence	sentence_30576
+30576_0	nsubj	30576_11
+30576_0	has_surface_form	Valerie
+30576_0	part_of_entity	Valerie Inside Outside
+30576_11	is_in_sentence	sentence_30576
+30576_11	ROOT	30576_11
+30576_11	has_surface_form	is
+30576_1	is_in_sentence	sentence_30576
+30576_1	prep	30576_0
+30576_1	has_surface_form	Inside
+30576_1	part_of_entity	Valerie Inside Outside
+30576_2	is_in_sentence	sentence_30576
+30576_2	pobj	30576_1
+30576_2	has_surface_form	Outside
+30576_2	part_of_entity	Valerie Inside Outside
+30576_3	is_in_sentence	sentence_30576
+30576_3	punct	30576_9
+30576_3	has_surface_form	(
+30576_9	is_in_sentence	sentence_30576
+30576_9	appos	30576_0
+30576_9	has_surface_form	fuori
+30576_4	is_in_sentence	sentence_30576
+30576_4	nmod	30576_9
+30576_4	has_surface_form	Italian
+30576_5	is_in_sentence	sentence_30576
+30576_5	punct	30576_9
+30576_5	has_surface_form	:
+30576_6	is_in_sentence	sentence_30576
+30576_6	nmod	30576_9
+30576_6	has_surface_form	Valeria
+30576_7	is_in_sentence	sentence_30576
+30576_7	nmod	30576_9
+30576_7	has_surface_form	dentro
+30576_8	is_in_sentence	sentence_30576
+30576_8	compound	30576_9
+30576_8	has_surface_form	e
+30576_10	is_in_sentence	sentence_30576
+30576_10	punct	30576_9
+30576_10	has_surface_form	)
+30576_12	is_in_sentence	sentence_30576
+30576_12	det	30576_16
+30576_12	has_surface_form	a
+30576_16	is_in_sentence	sentence_30576
+30576_16	attr	30576_11
+30576_16	has_surface_form	film
+30576_13	is_in_sentence	sentence_30576
+30576_13	nummod	30576_16
+30576_13	has_surface_form	1972
+30576_14	is_in_sentence	sentence_30576
+30576_14	amod	30576_16
+30576_14	has_surface_form	Italian
+30576_15	is_in_sentence	sentence_30576
+30576_15	compound	30576_16
+30576_15	has_surface_form	drama
+30576_17	is_in_sentence	sentence_30576
+30576_17	acl	30576_16
+30576_17	has_surface_form	written
+30576_18	is_in_sentence	sentence_30576
+30576_18	cc	30576_17
+30576_18	has_surface_form	and
+30576_19	is_in_sentence	sentence_30576
+30576_19	conj	30576_17
+30576_19	has_surface_form	directed
+30576_20	is_in_sentence	sentence_30576
+30576_20	agent	30576_19
+30576_20	has_surface_form	by
+30576_21	is_in_sentence	sentence_30576
+30576_21	compound	30576_22
+30576_21	has_surface_form	Brunello
+30576_21	part_of_entity	Brunello Rondi
+30576_22	is_in_sentence	sentence_30576
+30576_22	pobj	30576_20
+30576_22	has_surface_form	Rondi
+30576_22	part_of_entity	Brunello Rondi
+30576_23	is_in_sentence	sentence_30576
+30576_23	punct	30576_11
+30576_23	has_surface_form	.
+30576_24	is_in_sentence	sentence_30576
+30576_24	dep	30576_24
+30576_24	has_surface_form	
+Valerie Inside Outside	surface_form	Valerie Inside Outside
+Valerie Inside Outside	movie-has-director	Brunello Rondi
+Brunello Rondi	surface_form	Brunello Rondi

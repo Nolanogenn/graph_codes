@@ -1,0 +1,83 @@
+19118_0	is_in_sentence	sentence_19118
+19118_0	compound	19118_1
+19118_0	has_surface_form	George
+19118_0	part_of_entity	George Washington Community High School
+19118_1	is_in_sentence	sentence_19118
+19118_1	compound	19118_4
+19118_1	has_surface_form	Washington
+19118_1	part_of_entity	George Washington Community High School
+19118_4	is_in_sentence	sentence_19118
+19118_4	nsubj	19118_5
+19118_4	has_surface_form	School
+19118_4	part_of_entity	George Washington Community High School
+19118_2	is_in_sentence	sentence_19118
+19118_2	compound	19118_4
+19118_2	has_surface_form	Community
+19118_2	part_of_entity	George Washington Community High School
+19118_3	is_in_sentence	sentence_19118
+19118_3	compound	19118_4
+19118_3	has_surface_form	High
+19118_3	part_of_entity	George Washington Community High School
+19118_5	is_in_sentence	sentence_19118
+19118_5	ROOT	19118_5
+19118_5	has_surface_form	is
+19118_6	is_in_sentence	sentence_19118
+19118_6	det	19118_8
+19118_6	has_surface_form	a
+19118_8	is_in_sentence	sentence_19118
+19118_8	attr	19118_5
+19118_8	has_surface_form	school
+19118_7	is_in_sentence	sentence_19118
+19118_7	amod	19118_8
+19118_7	has_surface_form	public
+19118_9	is_in_sentence	sentence_19118
+19118_9	acl	19118_8
+19118_9	has_surface_form	located
+19118_10	is_in_sentence	sentence_19118
+19118_10	prep	19118_9
+19118_10	has_surface_form	in
+19118_11	is_in_sentence	sentence_19118
+19118_11	pobj	19118_10
+19118_11	has_surface_form	Indianapolis
+19118_12	is_in_sentence	sentence_19118
+19118_12	punct	19118_11
+19118_12	has_surface_form	,
+19118_13	is_in_sentence	sentence_19118
+19118_13	conj	19118_11
+19118_13	has_surface_form	Indiana
+19118_14	is_in_sentence	sentence_19118
+19118_14	punct	19118_13
+19118_14	has_surface_form	,
+19118_15	is_in_sentence	sentence_19118
+19118_15	compound	19118_16
+19118_15	has_surface_form	United
+19118_16	is_in_sentence	sentence_19118
+19118_16	conj	19118_13
+19118_16	has_surface_form	States
+19118_17	is_in_sentence	sentence_19118
+19118_17	punct	19118_8
+19118_17	has_surface_form	,
+19118_18	is_in_sentence	sentence_19118
+19118_18	acl	19118_8
+19118_18	has_surface_form	serving
+19118_19	is_in_sentence	sentence_19118
+19118_19	dobj	19118_18
+19118_19	has_surface_form	grades
+19118_20	is_in_sentence	sentence_19118
+19118_20	npadvmod	19118_18
+19118_20	has_surface_form	9
+19118_21	is_in_sentence	sentence_19118
+19118_21	punct	19118_22
+19118_21	has_surface_form	-
+19118_22	is_in_sentence	sentence_19118
+19118_22	prep	19118_20
+19118_22	has_surface_form	12
+19118_23	is_in_sentence	sentence_19118
+19118_23	punct	19118_5
+19118_23	has_surface_form	.
+19118_24	is_in_sentence	sentence_19118
+19118_24	dep	19118_5
+19118_24	has_surface_form	
+George Washington Community High School	surface_form	George Washington Community High School
+George Washington Community High School	is-where	Indianapolis, Indiana
+Indianapolis, Indiana	surface_form	Indianapolis, Indiana

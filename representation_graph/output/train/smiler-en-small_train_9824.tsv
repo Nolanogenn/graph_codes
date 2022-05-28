@@ -1,0 +1,32 @@
+9823_0	is_in_sentence	sentence_9823
+9823_0	compound	9823_1
+9823_0	has_surface_form	Fred
+9823_0	part_of_entity	Fred Hughes
+9823_1	is_in_sentence	sentence_9823
+9823_1	nsubj	9823_2
+9823_1	has_surface_form	Hughes
+9823_1	part_of_entity	Fred Hughes
+9823_2	is_in_sentence	sentence_9823
+9823_2	ROOT	9823_2
+9823_2	has_surface_form	is
+9823_3	is_in_sentence	sentence_9823
+9823_3	det	9823_6
+9823_3	has_surface_form	an
+9823_6	is_in_sentence	sentence_9823
+9823_6	attr	9823_2
+9823_6	has_surface_form	singer
+9823_4	is_in_sentence	sentence_9823
+9823_4	amod	9823_6
+9823_4	has_surface_form	American
+9823_5	is_in_sentence	sentence_9823
+9823_5	compound	9823_6
+9823_5	is_entity	R&B
+R&B	surface_form	R&B
+9823_7	is_in_sentence	sentence_9823
+9823_7	punct	9823_2
+9823_7	has_surface_form	.
+9823_8	is_in_sentence	sentence_9823
+9823_8	dep	9823_8
+9823_8	has_surface_form	
+Fred Hughes	surface_form	Fred Hughes
+Fred Hughes	has-genre	R&B

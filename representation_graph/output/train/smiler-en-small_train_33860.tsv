@@ -1,0 +1,51 @@
+33859_0	is_in_sentence	sentence_33859
+33859_0	det	33859_2
+33859_0	has_surface_form	This
+33859_2	is_in_sentence	sentence_33859
+33859_2	nsubjpass	33859_4
+33859_2	has_surface_form	production
+33859_1	is_in_sentence	sentence_33859
+33859_1	compound	33859_2
+33859_1	has_surface_form	Mandarin
+33859_4	is_in_sentence	sentence_33859
+33859_4	ROOT	33859_4
+33859_4	has_surface_form	directed
+33859_3	is_in_sentence	sentence_33859
+33859_3	auxpass	33859_4
+33859_3	has_surface_form	was
+33859_5	is_in_sentence	sentence_33859
+33859_5	agent	33859_4
+33859_5	has_surface_form	by
+33859_6	is_in_sentence	sentence_33859
+33859_6	poss	33859_8
+33859_6	is_entity	Kuo
+33859_8	is_in_sentence	sentence_33859
+33859_8	pobj	33859_5
+33859_8	has_surface_form	daughter
+Kuo	surface_form	Kuo
+Kuo	has-child	Kuo Jian Hong
+33859_7	is_in_sentence	sentence_33859
+33859_7	case	33859_6
+33859_7	has_surface_form	's
+33859_9	is_in_sentence	sentence_33859
+33859_9	punct	33859_8
+33859_9	has_surface_form	,
+33859_10	is_in_sentence	sentence_33859
+33859_10	compound	33859_12
+33859_10	is_entity	Kuo
+33859_10	part_of_entity	Kuo Jian Hong
+33859_12	is_in_sentence	sentence_33859
+33859_12	appos	33859_8
+33859_12	has_surface_form	Hong
+33859_12	part_of_entity	Kuo Jian Hong
+33859_11	is_in_sentence	sentence_33859
+33859_11	compound	33859_12
+33859_11	has_surface_form	Jian
+33859_11	part_of_entity	Kuo Jian Hong
+33859_13	is_in_sentence	sentence_33859
+33859_13	punct	33859_4
+33859_13	has_surface_form	.
+33859_14	is_in_sentence	sentence_33859
+33859_14	dep	33859_4
+33859_14	has_surface_form	
+Kuo Jian Hong	surface_form	Kuo Jian Hong

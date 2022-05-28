@@ -1,0 +1,38 @@
+11315_0	is_in_sentence	sentence_11315
+11315_0	compound	11315_1
+11315_0	has_surface_form	John
+11315_0	part_of_entity	John Bird
+11315_1	is_in_sentence	sentence_11315
+11315_1	nsubj	11315_2
+11315_1	has_surface_form	Bird
+11315_1	part_of_entity	John Bird
+11315_2	is_in_sentence	sentence_11315
+11315_2	ROOT	11315_2
+11315_2	has_surface_form	made
+11315_3	is_in_sentence	sentence_11315
+11315_3	det	11315_6
+11315_3	has_surface_form	the
+11315_6	is_in_sentence	sentence_11315
+11315_6	dobj	11315_2
+11315_6	is_entity	sextant
+11315_4	is_in_sentence	sentence_11315
+11315_4	amod	11315_6
+11315_4	has_surface_form	first
+11315_5	is_in_sentence	sentence_11315
+11315_5	amod	11315_6
+11315_5	has_surface_form	such
+sextant	surface_form	sextant
+sextant	invented-by	John Bird
+11315_7	is_in_sentence	sentence_11315
+11315_7	prep	11315_2
+11315_7	has_surface_form	in
+11315_8	is_in_sentence	sentence_11315
+11315_8	pobj	11315_7
+11315_8	has_surface_form	1757
+11315_9	is_in_sentence	sentence_11315
+11315_9	punct	11315_2
+11315_9	has_surface_form	.
+11315_10	is_in_sentence	sentence_11315
+11315_10	dep	11315_10
+11315_10	has_surface_form	
+John Bird	surface_form	John Bird

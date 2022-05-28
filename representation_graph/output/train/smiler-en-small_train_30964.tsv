@@ -1,0 +1,62 @@
+30963_0	is_in_sentence	sentence_30963
+30963_0	det	30963_2
+30963_0	has_surface_form	The
+30963_2	is_in_sentence	sentence_30963
+30963_2	nsubjpass	30963_8
+30963_2	has_surface_form	patent
+30963_1	is_in_sentence	sentence_30963
+30963_1	amod	30963_2
+30963_1	has_surface_form	first
+30963_8	is_in_sentence	sentence_30963
+30963_8	ROOT	30963_8
+30963_8	has_surface_form	issued
+30963_3	is_in_sentence	sentence_30963
+30963_3	prep	30963_2
+30963_3	has_surface_form	for
+30963_4	is_in_sentence	sentence_30963
+30963_4	det	30963_6
+30963_4	has_surface_form	a
+30963_6	is_in_sentence	sentence_30963
+30963_6	pobj	30963_3
+30963_6	has_surface_form	pen
+30963_6	part_of_entity	ballpoint pen
+30963_5	is_in_sentence	sentence_30963
+30963_5	compound	30963_6
+30963_5	has_surface_form	ballpoint
+30963_5	part_of_entity	ballpoint pen
+30963_7	is_in_sentence	sentence_30963
+30963_7	auxpass	30963_8
+30963_7	has_surface_form	was
+30963_9	is_in_sentence	sentence_30963
+30963_9	prep	30963_8
+30963_9	has_surface_form	on
+30963_10	is_in_sentence	sentence_30963
+30963_10	nummod	30963_11
+30963_10	has_surface_form	30
+30963_11	is_in_sentence	sentence_30963
+30963_11	pobj	30963_9
+30963_11	has_surface_form	October
+30963_12	is_in_sentence	sentence_30963
+30963_12	nummod	30963_11
+30963_12	is_entity	1888
+1888	surface_form	1888
+30963_13	is_in_sentence	sentence_30963
+30963_13	prep	30963_8
+30963_13	has_surface_form	to
+30963_14	is_in_sentence	sentence_30963
+30963_14	compound	30963_16
+30963_14	has_surface_form	John
+30963_16	is_in_sentence	sentence_30963
+30963_16	pobj	30963_13
+30963_16	has_surface_form	Loud
+30963_15	is_in_sentence	sentence_30963
+30963_15	compound	30963_16
+30963_15	has_surface_form	J.
+30963_17	is_in_sentence	sentence_30963
+30963_17	punct	30963_8
+30963_17	has_surface_form	.
+30963_18	is_in_sentence	sentence_30963
+30963_18	dep	30963_18
+30963_18	has_surface_form	
+ballpoint pen	surface_form	ballpoint pen
+ballpoint pen	invented-when	1888

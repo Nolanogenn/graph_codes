@@ -1,0 +1,76 @@
+4480_0	is_in_sentence	sentence_4480
+4480_0	compound	4480_1
+4480_0	has_surface_form	Orange
+4480_0	part_of_entity	Orange Mittai
+4480_1	is_in_sentence	sentence_4480
+4480_1	nsubj	4480_6
+4480_1	has_surface_form	Mittai
+4480_1	part_of_entity	Orange Mittai
+4480_6	is_in_sentence	sentence_4480
+4480_6	ROOT	4480_6
+4480_6	has_surface_form	is
+4480_2	is_in_sentence	sentence_4480
+4480_2	punct	4480_4
+4480_2	has_surface_form	(
+4480_4	is_in_sentence	sentence_4480
+4480_4	appos	4480_1
+4480_4	has_surface_form	Candy
+4480_3	is_in_sentence	sentence_4480
+4480_3	compound	4480_4
+4480_3	has_surface_form	Orange
+4480_5	is_in_sentence	sentence_4480
+4480_5	punct	4480_4
+4480_5	has_surface_form	)
+4480_7	is_in_sentence	sentence_4480
+4480_7	det	4480_12
+4480_7	has_surface_form	a
+4480_12	is_in_sentence	sentence_4480
+4480_12	attr	4480_6
+4480_12	has_surface_form	film
+4480_8	is_in_sentence	sentence_4480
+4480_8	nummod	4480_12
+4480_8	has_surface_form	2015
+4480_9	is_in_sentence	sentence_4480
+4480_9	compound	4480_10
+4480_9	has_surface_form	Indian
+4480_10	is_in_sentence	sentence_4480
+4480_10	compound	4480_12
+4480_10	has_surface_form	Tamil
+4480_11	is_in_sentence	sentence_4480
+4480_11	compound	4480_12
+4480_11	has_surface_form	comedy
+4480_13	is_in_sentence	sentence_4480
+4480_13	acl	4480_12
+4480_13	has_surface_form	co
+4480_14	is_in_sentence	sentence_4480
+4480_14	amod	4480_12
+4480_14	has_surface_form	-
+4480_15	is_in_sentence	sentence_4480
+4480_15	amod	4480_12
+4480_15	has_surface_form	written
+4480_16	is_in_sentence	sentence_4480
+4480_16	cc	4480_15
+4480_16	has_surface_form	and
+4480_17	is_in_sentence	sentence_4480
+4480_17	conj	4480_15
+4480_17	has_surface_form	directed
+4480_18	is_in_sentence	sentence_4480
+4480_18	agent	4480_17
+4480_18	has_surface_form	by
+4480_19	is_in_sentence	sentence_4480
+4480_19	compound	4480_20
+4480_19	has_surface_form	Biju
+4480_19	part_of_entity	Biju Viswanath
+4480_20	is_in_sentence	sentence_4480
+4480_20	pobj	4480_18
+4480_20	has_surface_form	Viswanath
+4480_20	part_of_entity	Biju Viswanath
+4480_21	is_in_sentence	sentence_4480
+4480_21	punct	4480_6
+4480_21	has_surface_form	.
+4480_22	is_in_sentence	sentence_4480
+4480_22	dep	4480_22
+4480_22	has_surface_form	
+Orange Mittai	surface_form	Orange Mittai
+Orange Mittai	movie-has-director	Biju Viswanath
+Biju Viswanath	surface_form	Biju Viswanath

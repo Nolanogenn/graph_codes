@@ -1,0 +1,69 @@
+5173_0	is_in_sentence	sentence_5173
+5173_0	compound	5173_2
+5173_0	has_surface_form	Great
+5173_0	part_of_entity	Great Zimbabwe University
+5173_2	is_in_sentence	sentence_5173
+5173_2	nsubj	5173_6
+5173_2	has_surface_form	University
+5173_2	part_of_entity	Great Zimbabwe University
+5173_1	is_in_sentence	sentence_5173
+5173_1	compound	5173_2
+5173_1	has_surface_form	Zimbabwe
+5173_1	part_of_entity	Great Zimbabwe University
+5173_6	is_in_sentence	sentence_5173
+5173_6	ROOT	5173_6
+5173_6	has_surface_form	is
+5173_3	is_in_sentence	sentence_5173
+5173_3	punct	5173_4
+5173_3	has_surface_form	(
+5173_4	is_in_sentence	sentence_5173
+5173_4	appos	5173_2
+5173_4	has_surface_form	GZU
+5173_5	is_in_sentence	sentence_5173
+5173_5	punct	5173_4
+5173_5	has_surface_form	)
+5173_7	is_in_sentence	sentence_5173
+5173_7	det	5173_8
+5173_7	has_surface_form	an
+5173_8	is_in_sentence	sentence_5173
+5173_8	attr	5173_6
+5173_8	has_surface_form	institution
+5173_9	is_in_sentence	sentence_5173
+5173_9	prep	5173_8
+5173_9	has_surface_form	of
+5173_10	is_in_sentence	sentence_5173
+5173_10	amod	5173_11
+5173_10	has_surface_form	higher
+5173_11	is_in_sentence	sentence_5173
+5173_11	pobj	5173_9
+5173_11	has_surface_form	learning
+5173_12	is_in_sentence	sentence_5173
+5173_12	prep	5173_11
+5173_12	has_surface_form	in
+5173_13	is_in_sentence	sentence_5173
+5173_13	det	5173_14
+5173_13	has_surface_form	the
+5173_14	is_in_sentence	sentence_5173
+5173_14	pobj	5173_12
+5173_14	has_surface_form	city
+5173_15	is_in_sentence	sentence_5173
+5173_15	prep	5173_14
+5173_15	has_surface_form	of
+5173_16	is_in_sentence	sentence_5173
+5173_16	pobj	5173_15
+5173_16	is_entity	Masvingo
+Masvingo	surface_form	Masvingo
+5173_17	is_in_sentence	sentence_5173
+5173_17	punct	5173_16
+5173_17	has_surface_form	,
+5173_18	is_in_sentence	sentence_5173
+5173_18	appos	5173_16
+5173_18	has_surface_form	Zimbabwe
+5173_19	is_in_sentence	sentence_5173
+5173_19	punct	5173_6
+5173_19	has_surface_form	.
+5173_20	is_in_sentence	sentence_5173
+5173_20	dep	5173_6
+5173_20	has_surface_form	
+Great Zimbabwe University	surface_form	Great Zimbabwe University
+Great Zimbabwe University	is-where	Masvingo

@@ -1,0 +1,123 @@
+881_0	is_in_sentence	sentence_881
+881_0	nummod	881_3
+881_0	has_surface_form	303
+881_0	part_of_entity	303 Fear Faith Revenge
+881_3	is_in_sentence	sentence_881
+881_3	nsubj	881_20
+881_3	has_surface_form	Revenge
+881_3	part_of_entity	303 Fear Faith Revenge
+881_1	is_in_sentence	sentence_881
+881_1	compound	881_3
+881_1	has_surface_form	Fear
+881_1	part_of_entity	303 Fear Faith Revenge
+881_2	is_in_sentence	sentence_881
+881_2	compound	881_3
+881_2	has_surface_form	Faith
+881_2	part_of_entity	303 Fear Faith Revenge
+881_20	is_in_sentence	sentence_881
+881_20	ROOT	881_20
+881_20	has_surface_form	is
+881_4	is_in_sentence	sentence_881
+881_4	punct	881_5
+881_4	has_surface_form	(
+881_5	is_in_sentence	sentence_881
+881_5	appos	881_3
+881_5	has_surface_form	Thai
+881_6	is_in_sentence	sentence_881
+881_6	punct	881_5
+881_6	has_surface_form	:
+881_7	is_in_sentence	sentence_881
+881_7	nummod	881_8
+881_7	has_surface_form	303
+881_8	is_in_sentence	sentence_881
+881_8	appos	881_5
+881_8	has_surface_form	กลัว/กล้า/อาฆาต
+881_9	is_in_sentence	sentence_881
+881_9	punct	881_8
+881_9	has_surface_form	,
+881_10	is_in_sentence	sentence_881
+881_10	appos	881_8
+881_10	has_surface_form	RTGS
+881_11	is_in_sentence	sentence_881
+881_11	punct	881_8
+881_11	has_surface_form	:
+881_12	is_in_sentence	sentence_881
+881_12	dep	881_8
+881_12	has_surface_form	 
+881_13	is_in_sentence	sentence_881
+881_13	nummod	881_18
+881_13	has_surface_form	303
+881_18	is_in_sentence	sentence_881
+881_18	appos	881_8
+881_18	has_surface_form	Akhat
+881_14	is_in_sentence	sentence_881
+881_14	nmod	881_18
+881_14	has_surface_form	Klua
+881_15	is_in_sentence	sentence_881
+881_15	punct	881_18
+881_15	has_surface_form	/
+881_16	is_in_sentence	sentence_881
+881_16	nmod	881_18
+881_16	has_surface_form	Kla
+881_17	is_in_sentence	sentence_881
+881_17	punct	881_18
+881_17	has_surface_form	/
+881_19	is_in_sentence	sentence_881
+881_19	punct	881_8
+881_19	has_surface_form	)
+881_21	is_in_sentence	sentence_881
+881_21	det	881_25
+881_21	has_surface_form	a
+881_25	is_in_sentence	sentence_881
+881_25	attr	881_20
+881_25	has_surface_form	film
+881_22	is_in_sentence	sentence_881
+881_22	nummod	881_25
+881_22	has_surface_form	1998
+881_23	is_in_sentence	sentence_881
+881_23	compound	881_25
+881_23	has_surface_form	Thai
+881_24	is_in_sentence	sentence_881
+881_24	compound	881_25
+881_24	has_surface_form	horror
+881_26	is_in_sentence	sentence_881
+881_26	acl	881_25
+881_26	has_surface_form	starring
+881_27	is_in_sentence	sentence_881
+881_27	compound	881_28
+881_27	has_surface_form	Taya
+881_28	is_in_sentence	sentence_881
+881_28	dobj	881_26
+881_28	has_surface_form	Rogers
+881_29	is_in_sentence	sentence_881
+881_29	punct	881_28
+881_29	has_surface_form	,
+881_30	is_in_sentence	sentence_881
+881_30	compound	881_31
+881_30	has_surface_form	Arthit
+881_31	is_in_sentence	sentence_881
+881_31	appos	881_28
+881_31	has_surface_form	Ryu
+881_32	is_in_sentence	sentence_881
+881_32	punct	881_28
+881_32	has_surface_form	,
+881_33	is_in_sentence	sentence_881
+881_33	cc	881_28
+881_33	has_surface_form	and
+881_34	is_in_sentence	sentence_881
+881_34	compound	881_35
+881_34	has_surface_form	Ananda
+881_34	part_of_entity	Ananda Everingham
+881_35	is_in_sentence	sentence_881
+881_35	conj	881_28
+881_35	has_surface_form	Everingham
+881_35	part_of_entity	Ananda Everingham
+881_36	is_in_sentence	sentence_881
+881_36	punct	881_20
+881_36	has_surface_form	.
+881_37	is_in_sentence	sentence_881
+881_37	dep	881_20
+881_37	has_surface_form	
+303 Fear Faith Revenge	surface_form	303 Fear Faith Revenge
+303 Fear Faith Revenge	starring	Ananda Everingham
+Ananda Everingham	surface_form	Ananda Everingham

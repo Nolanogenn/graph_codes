@@ -1,0 +1,65 @@
+30275_0	is_in_sentence	sentence_30275
+30275_0	compound	30275_1
+30275_0	has_surface_form	Jerry
+30275_0	part_of_entity	Jerry Vivino
+30275_1	is_in_sentence	sentence_30275
+30275_1	nsubj	30275_14
+30275_1	has_surface_form	Vivino
+30275_1	part_of_entity	Jerry Vivino
+30275_14	is_in_sentence	sentence_30275
+30275_14	ROOT	30275_14
+30275_14	has_surface_form	is
+30275_2	is_in_sentence	sentence_30275
+30275_2	punct	30275_1
+30275_2	has_surface_form	(
+30275_3	is_in_sentence	sentence_30275
+30275_3	acl	30275_1
+30275_3	has_surface_form	born
+30275_4	is_in_sentence	sentence_30275
+30275_4	npadvmod	30275_3
+30275_4	has_surface_form	January
+30275_5	is_in_sentence	sentence_30275
+30275_5	nummod	30275_4
+30275_5	has_surface_form	8
+30275_6	is_in_sentence	sentence_30275
+30275_6	punct	30275_4
+30275_6	has_surface_form	,
+30275_7	is_in_sentence	sentence_30275
+30275_7	appos	30275_4
+30275_7	has_surface_form	1954
+30275_8	is_in_sentence	sentence_30275
+30275_8	prep	30275_3
+30275_8	has_surface_form	in
+30275_9	is_in_sentence	sentence_30275
+30275_9	pobj	30275_8
+30275_9	has_surface_form	Paterson
+30275_10	is_in_sentence	sentence_30275
+30275_10	punct	30275_9
+30275_10	has_surface_form	,
+30275_11	is_in_sentence	sentence_30275
+30275_11	compound	30275_12
+30275_11	has_surface_form	New
+30275_12	is_in_sentence	sentence_30275
+30275_12	appos	30275_9
+30275_12	has_surface_form	Jersey
+30275_13	is_in_sentence	sentence_30275
+30275_13	punct	30275_9
+30275_13	has_surface_form	)
+30275_15	is_in_sentence	sentence_30275
+30275_15	det	30275_17
+30275_15	has_surface_form	an
+30275_17	is_in_sentence	sentence_30275
+30275_17	attr	30275_14
+30275_17	has_surface_form	musician
+30275_16	is_in_sentence	sentence_30275
+30275_16	amod	30275_17
+30275_16	has_surface_form	American
+30275_18	is_in_sentence	sentence_30275
+30275_18	punct	30275_14
+30275_18	has_surface_form	.
+30275_19	is_in_sentence	sentence_30275
+30275_19	dep	30275_19
+30275_19	has_surface_form	
+Jerry Vivino	surface_form	Jerry Vivino
+Jerry Vivino	birth-place	Paterson, New Jersey
+Paterson, New Jersey	surface_form	Paterson, New Jersey

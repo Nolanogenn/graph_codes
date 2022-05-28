@@ -1,0 +1,49 @@
+33809_0	is_in_sentence	sentence_33809
+33809_0	compound	33809_1
+33809_0	has_surface_form	Hello
+33809_0	part_of_entity	Hello Destroyer
+33809_1	is_in_sentence	sentence_33809
+33809_1	nsubj	33809_2
+33809_1	has_surface_form	Destroyer
+33809_1	part_of_entity	Hello Destroyer
+33809_2	is_in_sentence	sentence_33809
+33809_2	ROOT	33809_2
+33809_2	has_surface_form	is
+33809_3	is_in_sentence	sentence_33809
+33809_3	det	33809_7
+33809_3	has_surface_form	a
+33809_7	is_in_sentence	sentence_33809
+33809_7	attr	33809_2
+33809_7	has_surface_form	film
+33809_4	is_in_sentence	sentence_33809
+33809_4	nummod	33809_7
+33809_4	has_surface_form	2016
+33809_5	is_in_sentence	sentence_33809
+33809_5	amod	33809_7
+33809_5	has_surface_form	Canadian
+33809_6	is_in_sentence	sentence_33809
+33809_6	compound	33809_7
+33809_6	has_surface_form	drama
+33809_8	is_in_sentence	sentence_33809
+33809_8	acl	33809_7
+33809_8	has_surface_form	directed
+33809_9	is_in_sentence	sentence_33809
+33809_9	agent	33809_8
+33809_9	has_surface_form	by
+33809_10	is_in_sentence	sentence_33809
+33809_10	compound	33809_11
+33809_10	has_surface_form	Kevan
+33809_10	part_of_entity	Kevan Funk
+33809_11	is_in_sentence	sentence_33809
+33809_11	pobj	33809_9
+33809_11	has_surface_form	Funk
+33809_11	part_of_entity	Kevan Funk
+33809_12	is_in_sentence	sentence_33809
+33809_12	punct	33809_2
+33809_12	has_surface_form	.
+33809_13	is_in_sentence	sentence_33809
+33809_13	dep	33809_2
+33809_13	has_surface_form	
+Hello Destroyer	surface_form	Hello Destroyer
+Hello Destroyer	movie-has-director	Kevan Funk
+Kevan Funk	surface_form	Kevan Funk

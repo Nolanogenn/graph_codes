@@ -1,0 +1,60 @@
+19567_0	is_in_sentence	sentence_19567
+19567_0	compound	19567_1
+19567_0	has_surface_form	Ryan
+19567_0	part_of_entity	Ryan Thomas Gosling
+19567_1	is_in_sentence	sentence_19567
+19567_1	compound	19567_2
+19567_1	has_surface_form	Thomas
+19567_1	part_of_entity	Ryan Thomas Gosling
+19567_2	is_in_sentence	sentence_19567
+19567_2	nsubj	19567_10
+19567_2	has_surface_form	Gosling
+19567_2	part_of_entity	Ryan Thomas Gosling
+19567_10	is_in_sentence	sentence_19567
+19567_10	ROOT	19567_10
+19567_10	has_surface_form	is
+19567_3	is_in_sentence	sentence_19567
+19567_3	punct	19567_2
+19567_3	has_surface_form	(
+19567_4	is_in_sentence	sentence_19567
+19567_4	acl	19567_2
+19567_4	has_surface_form	born
+19567_5	is_in_sentence	sentence_19567
+19567_5	npadvmod	19567_4
+19567_5	has_surface_form	November
+19567_6	is_in_sentence	sentence_19567
+19567_6	nummod	19567_5
+19567_6	has_surface_form	12
+19567_7	is_in_sentence	sentence_19567
+19567_7	punct	19567_5
+19567_7	has_surface_form	,
+19567_8	is_in_sentence	sentence_19567
+19567_8	nummod	19567_5
+19567_8	has_surface_form	1980
+19567_9	is_in_sentence	sentence_19567
+19567_9	punct	19567_2
+19567_9	has_surface_form	)
+19567_11	is_in_sentence	sentence_19567
+19567_11	det	19567_13
+19567_11	has_surface_form	a
+19567_13	is_in_sentence	sentence_19567
+19567_13	attr	19567_10
+19567_13	has_surface_form	actor
+19567_12	is_in_sentence	sentence_19567
+19567_12	amod	19567_13
+19567_12	is_entity	Canadian
+Canadian	surface_form	Canadian
+19567_14	is_in_sentence	sentence_19567
+19567_14	cc	19567_13
+19567_14	has_surface_form	and
+19567_15	is_in_sentence	sentence_19567
+19567_15	conj	19567_13
+19567_15	has_surface_form	musician
+19567_16	is_in_sentence	sentence_19567
+19567_16	punct	19567_10
+19567_16	has_surface_form	.
+19567_17	is_in_sentence	sentence_19567
+19567_17	dep	19567_17
+19567_17	has_surface_form	
+Ryan Thomas Gosling	surface_form	Ryan Thomas Gosling
+Ryan Thomas Gosling	has-nationality	Canadian

@@ -1,0 +1,69 @@
+1921_0	is_in_sentence	sentence_1921
+1921_0	compound	1921_1
+1921_0	has_surface_form	Andrews
+1921_0	part_of_entity	Andrews County Airport
+1921_1	is_in_sentence	sentence_1921
+1921_1	compound	1921_2
+1921_1	has_surface_form	County
+1921_1	part_of_entity	Andrews County Airport
+1921_2	is_in_sentence	sentence_1921
+1921_2	nsubjpass	1921_11
+1921_2	has_surface_form	Airport
+1921_2	part_of_entity	Andrews County Airport
+1921_11	is_in_sentence	sentence_1921
+1921_11	ROOT	1921_11
+1921_11	has_surface_form	located
+1921_3	is_in_sentence	sentence_1921
+1921_3	punct	1921_2
+1921_3	has_surface_form	(
+1921_4	is_in_sentence	sentence_1921
+1921_4	compound	1921_5
+1921_4	has_surface_form	FAA
+1921_5	is_in_sentence	sentence_1921
+1921_5	appos	1921_2
+1921_5	has_surface_form	LID
+1921_6	is_in_sentence	sentence_1921
+1921_6	punct	1921_5
+1921_6	has_surface_form	:
+1921_7	is_in_sentence	sentence_1921
+1921_7	appos	1921_5
+1921_7	has_surface_form	E11
+1921_8	is_in_sentence	sentence_1921
+1921_8	punct	1921_5
+1921_8	has_surface_form	)
+1921_9	is_in_sentence	sentence_1921
+1921_9	punct	1921_2
+1921_9	has_surface_form	,
+1921_10	is_in_sentence	sentence_1921
+1921_10	auxpass	1921_11
+1921_10	has_surface_form	is
+1921_12	is_in_sentence	sentence_1921
+1921_12	prep	1921_11
+1921_12	has_surface_form	in
+1921_13	is_in_sentence	sentence_1921
+1921_13	pobj	1921_12
+1921_13	has_surface_form	Andrews
+1921_14	is_in_sentence	sentence_1921
+1921_14	punct	1921_13
+1921_14	has_surface_form	,
+1921_15	is_in_sentence	sentence_1921
+1921_15	appos	1921_13
+1921_15	has_surface_form	Texas
+1921_16	is_in_sentence	sentence_1921
+1921_16	punct	1921_15
+1921_16	has_surface_form	,
+1921_17	is_in_sentence	sentence_1921
+1921_17	compound	1921_18
+1921_17	has_surface_form	United
+1921_18	is_in_sentence	sentence_1921
+1921_18	appos	1921_13
+1921_18	has_surface_form	States
+1921_19	is_in_sentence	sentence_1921
+1921_19	punct	1921_11
+1921_19	has_surface_form	.
+1921_20	is_in_sentence	sentence_1921
+1921_20	dep	1921_11
+1921_20	has_surface_form	
+Andrews County Airport	surface_form	Andrews County Airport
+Andrews County Airport	is-where	Andrews, Texas
+Andrews, Texas	surface_form	Andrews, Texas

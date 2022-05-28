@@ -1,0 +1,67 @@
+33261_0	is_in_sentence	sentence_33261
+33261_0	det	33261_1
+33261_0	has_surface_form	Those
+33261_0	part_of_entity	Those Years
+33261_1	is_in_sentence	sentence_33261
+33261_1	nsubj	33261_8
+33261_1	has_surface_form	Years
+33261_1	part_of_entity	Those Years
+33261_8	is_in_sentence	sentence_33261
+33261_8	ROOT	33261_8
+33261_8	has_surface_form	is
+33261_2	is_in_sentence	sentence_33261
+33261_2	punct	33261_3
+33261_2	has_surface_form	(
+33261_3	is_in_sentence	sentence_33261
+33261_3	appos	33261_1
+33261_3	has_surface_form	Spanish
+33261_4	is_in_sentence	sentence_33261
+33261_4	punct	33261_3
+33261_4	has_surface_form	:
+33261_5	is_in_sentence	sentence_33261
+33261_5	compound	33261_6
+33261_5	has_surface_form	Aquellos
+33261_6	is_in_sentence	sentence_33261
+33261_6	appos	33261_3
+33261_6	has_surface_form	años
+33261_7	is_in_sentence	sentence_33261
+33261_7	punct	33261_3
+33261_7	has_surface_form	)
+33261_9	is_in_sentence	sentence_33261
+33261_9	det	33261_13
+33261_9	has_surface_form	a
+33261_13	is_in_sentence	sentence_33261
+33261_13	attr	33261_8
+33261_13	has_surface_form	film
+33261_10	is_in_sentence	sentence_33261
+33261_10	nummod	33261_13
+33261_10	has_surface_form	1973
+33261_11	is_in_sentence	sentence_33261
+33261_11	amod	33261_13
+33261_11	has_surface_form	Mexican
+33261_12	is_in_sentence	sentence_33261
+33261_12	compound	33261_13
+33261_12	has_surface_form	drama
+33261_14	is_in_sentence	sentence_33261
+33261_14	acl	33261_13
+33261_14	has_surface_form	directed
+33261_15	is_in_sentence	sentence_33261
+33261_15	agent	33261_14
+33261_15	has_surface_form	by
+33261_16	is_in_sentence	sentence_33261
+33261_16	compound	33261_17
+33261_16	has_surface_form	Felipe
+33261_16	part_of_entity	Felipe Cazals
+33261_17	is_in_sentence	sentence_33261
+33261_17	pobj	33261_15
+33261_17	has_surface_form	Cazals
+33261_17	part_of_entity	Felipe Cazals
+33261_18	is_in_sentence	sentence_33261
+33261_18	punct	33261_8
+33261_18	has_surface_form	.
+33261_19	is_in_sentence	sentence_33261
+33261_19	dep	33261_8
+33261_19	has_surface_form	
+Those Years	surface_form	Those Years
+Those Years	movie-has-director	Felipe Cazals
+Felipe Cazals	surface_form	Felipe Cazals

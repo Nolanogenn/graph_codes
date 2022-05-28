@@ -1,0 +1,79 @@
+604_0	is_in_sentence	sentence_604
+604_0	nsubj	604_1
+604_0	is_entity	Bogarde
+604_1	is_in_sentence	sentence_604
+604_1	ROOT	604_1
+604_1	has_surface_form	was
+Bogarde	surface_form	Bogarde
+604_2	is_in_sentence	sentence_604
+604_2	det	604_3
+604_2	has_surface_form	the
+604_3	is_in_sentence	sentence_604
+604_3	attr	604_1
+604_3	has_surface_form	elder
+604_4	is_in_sentence	sentence_604
+604_4	prep	604_3
+604_4	has_surface_form	of
+604_5	is_in_sentence	sentence_604
+604_5	nummod	604_6
+604_5	has_surface_form	two
+604_6	is_in_sentence	sentence_604
+604_6	pobj	604_4
+604_6	has_surface_form	sons
+604_7	is_in_sentence	sentence_604
+604_7	acl	604_6
+604_7	has_surface_form	born
+604_8	is_in_sentence	sentence_604
+604_8	prep	604_7
+604_8	has_surface_form	to
+604_9	is_in_sentence	sentence_604
+604_9	compound	604_12
+604_9	has_surface_form	Ulric
+604_9	part_of_entity	Ulric van den Bogaerde
+604_12	is_in_sentence	sentence_604
+604_12	pobj	604_8
+604_12	has_surface_form	Bogaerde
+604_12	part_of_entity	Ulric van den Bogaerde
+604_10	is_in_sentence	sentence_604
+604_10	compound	604_11
+604_10	has_surface_form	van
+604_10	part_of_entity	Ulric van den Bogaerde
+604_11	is_in_sentence	sentence_604
+604_11	compound	604_12
+604_11	has_surface_form	den
+604_11	part_of_entity	Ulric van den Bogaerde
+604_13	is_in_sentence	sentence_604
+604_13	punct	604_12
+604_13	has_surface_form	(
+604_14	is_in_sentence	sentence_604
+604_14	appos	604_12
+604_14	has_surface_form	1892–1972
+604_15	is_in_sentence	sentence_604
+604_15	punct	604_12
+604_15	has_surface_form	)
+604_16	is_in_sentence	sentence_604
+604_16	cc	604_1
+604_16	has_surface_form	and
+604_17	is_in_sentence	sentence_604
+604_17	compound	604_18
+604_17	has_surface_form	Margaret
+604_18	is_in_sentence	sentence_604
+604_18	conj	604_1
+604_18	has_surface_form	Niven
+604_19	is_in_sentence	sentence_604
+604_19	punct	604_18
+604_19	has_surface_form	(
+604_20	is_in_sentence	sentence_604
+604_20	appos	604_18
+604_20	has_surface_form	1898–1980
+604_21	is_in_sentence	sentence_604
+604_21	punct	604_18
+604_21	has_surface_form	)
+604_22	is_in_sentence	sentence_604
+604_22	punct	604_1
+604_22	has_surface_form	.
+604_23	is_in_sentence	sentence_604
+604_23	dep	604_23
+604_23	has_surface_form	
+Ulric van den Bogaerde	surface_form	Ulric van den Bogaerde
+Ulric van den Bogaerde	has-child	Bogarde

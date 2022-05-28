@@ -1,0 +1,38 @@
+31991_0	is_in_sentence	sentence_31991
+31991_0	compound	31991_1
+31991_0	has_surface_form	Pete
+31991_0	part_of_entity	Pete Gaudet
+31991_1	is_in_sentence	sentence_31991
+31991_1	nsubj	31991_2
+31991_1	has_surface_form	Gaudet
+31991_1	part_of_entity	Pete Gaudet
+31991_2	is_in_sentence	sentence_31991
+31991_2	ROOT	31991_2
+31991_2	has_surface_form	is
+31991_3	is_in_sentence	sentence_31991
+31991_3	det	31991_7
+31991_3	has_surface_form	an
+31991_7	is_in_sentence	sentence_31991
+31991_7	attr	31991_2
+31991_7	has_surface_form	coach
+31991_7	part_of_entity	college basketball coach
+31991_4	is_in_sentence	sentence_31991
+31991_4	amod	31991_7
+31991_4	has_surface_form	American
+31991_5	is_in_sentence	sentence_31991
+31991_5	compound	31991_6
+31991_5	has_surface_form	college
+31991_5	part_of_entity	college basketball coach
+31991_6	is_in_sentence	sentence_31991
+31991_6	compound	31991_7
+31991_6	has_surface_form	basketball
+31991_6	part_of_entity	college basketball coach
+31991_8	is_in_sentence	sentence_31991
+31991_8	punct	31991_2
+31991_8	has_surface_form	.
+31991_9	is_in_sentence	sentence_31991
+31991_9	dep	31991_9
+31991_9	has_surface_form	
+Pete Gaudet	surface_form	Pete Gaudet
+Pete Gaudet	has-type	college basketball coach
+college basketball coach	surface_form	college basketball coach

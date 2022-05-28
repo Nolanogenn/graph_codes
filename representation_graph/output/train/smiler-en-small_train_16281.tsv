@@ -1,0 +1,56 @@
+16280_0	is_in_sentence	sentence_16280
+16280_0	compound	16280_1
+16280_0	has_surface_form	Sebastian
+16280_0	part_of_entity	Sebastian Pigott
+16280_1	is_in_sentence	sentence_16280
+16280_1	nsubj	16280_9
+16280_1	has_surface_form	Pigott
+16280_1	part_of_entity	Sebastian Pigott
+16280_9	is_in_sentence	sentence_16280
+16280_9	ROOT	16280_9
+16280_9	has_surface_form	is
+16280_2	is_in_sentence	sentence_16280
+16280_2	punct	16280_1
+16280_2	has_surface_form	(
+16280_3	is_in_sentence	sentence_16280
+16280_3	acl	16280_1
+16280_3	has_surface_form	born
+16280_4	is_in_sentence	sentence_16280
+16280_4	npadvmod	16280_3
+16280_4	has_surface_form	February
+16280_5	is_in_sentence	sentence_16280
+16280_5	nummod	16280_4
+16280_5	has_surface_form	14
+16280_6	is_in_sentence	sentence_16280
+16280_6	punct	16280_4
+16280_6	has_surface_form	,
+16280_7	is_in_sentence	sentence_16280
+16280_7	nummod	16280_4
+16280_7	has_surface_form	1983
+16280_8	is_in_sentence	sentence_16280
+16280_8	punct	16280_1
+16280_8	has_surface_form	)
+16280_10	is_in_sentence	sentence_16280
+16280_10	det	16280_12
+16280_10	has_surface_form	a
+16280_12	is_in_sentence	sentence_16280
+16280_12	attr	16280_9
+16280_12	has_surface_form	singer
+16280_11	is_in_sentence	sentence_16280
+16280_11	amod	16280_12
+16280_11	has_surface_form	Canadian
+16280_13	is_in_sentence	sentence_16280
+16280_13	cc	16280_12
+16280_13	has_surface_form	and
+16280_14	is_in_sentence	sentence_16280
+16280_14	conj	16280_12
+16280_14	is_entity	actor
+actor	surface_form	actor
+16280_15	is_in_sentence	sentence_16280
+16280_15	punct	16280_9
+16280_15	has_surface_form	.
+16280_16	is_in_sentence	sentence_16280
+16280_16	dep	16280_16
+16280_16	has_surface_form	
+Sebastian Pigott	surface_form	Sebastian Pigott
+Sebastian Pigott	has-occupation	actor

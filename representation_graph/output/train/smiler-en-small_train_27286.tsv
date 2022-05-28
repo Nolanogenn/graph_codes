@@ -1,0 +1,97 @@
+27285_0	is_in_sentence	sentence_27285
+27285_0	det	27285_1
+27285_0	has_surface_form	The
+27285_0	part_of_entity	The Lady of Death
+27285_1	is_in_sentence	sentence_27285
+27285_1	nsubj	27285_13
+27285_1	has_surface_form	Lady
+27285_1	part_of_entity	The Lady of Death
+27285_13	is_in_sentence	sentence_27285
+27285_13	ROOT	27285_13
+27285_13	has_surface_form	is
+27285_2	is_in_sentence	sentence_27285
+27285_2	prep	27285_1
+27285_2	has_surface_form	of
+27285_2	part_of_entity	The Lady of Death
+27285_3	is_in_sentence	sentence_27285
+27285_3	pobj	27285_2
+27285_3	has_surface_form	Death
+27285_3	part_of_entity	The Lady of Death
+27285_4	is_in_sentence	sentence_27285
+27285_4	punct	27285_5
+27285_4	has_surface_form	(
+27285_5	is_in_sentence	sentence_27285
+27285_5	appos	27285_1
+27285_5	has_surface_form	Spanish
+27285_6	is_in_sentence	sentence_27285
+27285_6	punct	27285_5
+27285_6	has_surface_form	:
+27285_7	is_in_sentence	sentence_27285
+27285_7	compound	27285_11
+27285_7	has_surface_form	La
+27285_11	is_in_sentence	sentence_27285
+27285_11	appos	27285_5
+27285_11	has_surface_form	Muerte
+27285_8	is_in_sentence	sentence_27285
+27285_8	nmod	27285_11
+27285_8	has_surface_form	Dama
+27285_9	is_in_sentence	sentence_27285
+27285_9	nmod	27285_11
+27285_9	has_surface_form	de
+27285_10	is_in_sentence	sentence_27285
+27285_10	compound	27285_11
+27285_10	has_surface_form	la
+27285_12	is_in_sentence	sentence_27285
+27285_12	punct	27285_5
+27285_12	has_surface_form	)
+27285_14	is_in_sentence	sentence_27285
+27285_14	det	27285_18
+27285_14	has_surface_form	a
+27285_18	is_in_sentence	sentence_27285
+27285_18	attr	27285_13
+27285_18	has_surface_form	film
+27285_15	is_in_sentence	sentence_27285
+27285_15	nummod	27285_18
+27285_15	has_surface_form	1946
+27285_16	is_in_sentence	sentence_27285
+27285_16	amod	27285_18
+27285_16	has_surface_form	Chilean
+27285_17	is_in_sentence	sentence_27285
+27285_17	compound	27285_18
+27285_17	has_surface_form	thriller
+27285_19	is_in_sentence	sentence_27285
+27285_19	acl	27285_18
+27285_19	has_surface_form	directed
+27285_20	is_in_sentence	sentence_27285
+27285_20	agent	27285_19
+27285_20	has_surface_form	by
+27285_21	is_in_sentence	sentence_27285
+27285_21	compound	27285_23
+27285_21	has_surface_form	Carlos
+27285_21	part_of_entity	Carlos Hugo Christensen
+27285_23	is_in_sentence	sentence_27285
+27285_23	pobj	27285_20
+27285_23	has_surface_form	Christensen
+27285_23	part_of_entity	Carlos Hugo Christensen
+27285_22	is_in_sentence	sentence_27285
+27285_22	compound	27285_23
+27285_22	has_surface_form	Hugo
+27285_22	part_of_entity	Carlos Hugo Christensen
+27285_24	is_in_sentence	sentence_27285
+27285_24	prep	27285_23
+27285_24	has_surface_form	for
+27285_25	is_in_sentence	sentence_27285
+27285_25	compound	27285_26
+27285_25	has_surface_form	Chile
+27285_26	is_in_sentence	sentence_27285
+27285_26	compound	27285_27
+27285_26	has_surface_form	Films
+27285_27	is_in_sentence	sentence_27285
+27285_27	pobj	27285_24
+27285_27	has_surface_form	S.
+27285_28	is_in_sentence	sentence_27285
+27285_28	dep	27285_13
+27285_28	has_surface_form	
+The Lady of Death	surface_form	The Lady of Death
+The Lady of Death	movie-has-director	Carlos Hugo Christensen
+Carlos Hugo Christensen	surface_form	Carlos Hugo Christensen

@@ -1,0 +1,75 @@
+31931_0	is_in_sentence	sentence_31931
+31931_0	compound	31931_2
+31931_0	has_surface_form	New
+31931_0	part_of_entity	New College Durham
+31931_2	is_in_sentence	sentence_31931
+31931_2	nsubj	31931_3
+31931_2	has_surface_form	Durham
+31931_2	part_of_entity	New College Durham
+31931_1	is_in_sentence	sentence_31931
+31931_1	compound	31931_2
+31931_1	has_surface_form	College
+31931_1	part_of_entity	New College Durham
+31931_3	is_in_sentence	sentence_31931
+31931_3	ROOT	31931_3
+31931_3	has_surface_form	is
+31931_4	is_in_sentence	sentence_31931
+31931_4	det	31931_9
+31931_4	has_surface_form	a
+31931_9	is_in_sentence	sentence_31931
+31931_9	attr	31931_3
+31931_9	has_surface_form	college
+31931_9	part_of_entity	higher education college
+31931_5	is_in_sentence	sentence_31931
+31931_5	amod	31931_9
+31931_5	has_surface_form	further
+31931_6	is_in_sentence	sentence_31931
+31931_6	cc	31931_5
+31931_6	has_surface_form	and
+31931_7	is_in_sentence	sentence_31931
+31931_7	conj	31931_5
+31931_7	has_surface_form	higher
+31931_7	part_of_entity	higher education college
+31931_8	is_in_sentence	sentence_31931
+31931_8	compound	31931_9
+31931_8	has_surface_form	education
+31931_8	part_of_entity	higher education college
+31931_10	is_in_sentence	sentence_31931
+31931_10	cc	31931_9
+31931_10	has_surface_form	and
+31931_11	is_in_sentence	sentence_31931
+31931_11	det	31931_14
+31931_11	has_surface_form	a
+31931_14	is_in_sentence	sentence_31931
+31931_14	conj	31931_9
+31931_14	has_surface_form	college
+31931_12	is_in_sentence	sentence_31931
+31931_12	amod	31931_13
+31931_12	has_surface_form	sixth
+31931_13	is_in_sentence	sentence_31931
+31931_13	compound	31931_14
+31931_13	has_surface_form	form
+31931_15	is_in_sentence	sentence_31931
+31931_15	prep	31931_14
+31931_15	has_surface_form	in
+31931_16	is_in_sentence	sentence_31931
+31931_16	compound	31931_17
+31931_16	has_surface_form	County
+31931_17	is_in_sentence	sentence_31931
+31931_17	pobj	31931_15
+31931_17	has_surface_form	Durham
+31931_18	is_in_sentence	sentence_31931
+31931_18	punct	31931_17
+31931_18	has_surface_form	,
+31931_19	is_in_sentence	sentence_31931
+31931_19	appos	31931_17
+31931_19	has_surface_form	England
+31931_20	is_in_sentence	sentence_31931
+31931_20	punct	31931_3
+31931_20	has_surface_form	.
+31931_21	is_in_sentence	sentence_31931
+31931_21	dep	31931_3
+31931_21	has_surface_form	
+New College Durham	surface_form	New College Durham
+New College Durham	has-type	higher education college
+higher education college	surface_form	higher education college

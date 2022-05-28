@@ -1,0 +1,65 @@
+11110_0	is_in_sentence	sentence_11110
+11110_0	det	11110_1
+11110_0	has_surface_form	The
+11110_0	part_of_entity	The Woman with a Broken Nose
+11110_1	is_in_sentence	sentence_11110
+11110_1	nsubj	11110_6
+11110_1	has_surface_form	Woman
+11110_1	part_of_entity	The Woman with a Broken Nose
+11110_6	is_in_sentence	sentence_11110
+11110_6	ROOT	11110_6
+11110_6	has_surface_form	is
+11110_2	is_in_sentence	sentence_11110
+11110_2	prep	11110_1
+11110_2	has_surface_form	with
+11110_2	part_of_entity	The Woman with a Broken Nose
+11110_3	is_in_sentence	sentence_11110
+11110_3	det	11110_5
+11110_3	has_surface_form	a
+11110_3	part_of_entity	The Woman with a Broken Nose
+11110_5	is_in_sentence	sentence_11110
+11110_5	pobj	11110_2
+11110_5	has_surface_form	Nose
+11110_5	part_of_entity	The Woman with a Broken Nose
+11110_4	is_in_sentence	sentence_11110
+11110_4	compound	11110_5
+11110_4	has_surface_form	Broken
+11110_4	part_of_entity	The Woman with a Broken Nose
+11110_7	is_in_sentence	sentence_11110
+11110_7	det	11110_11
+11110_7	has_surface_form	a
+11110_11	is_in_sentence	sentence_11110
+11110_11	attr	11110_6
+11110_11	has_surface_form	film
+11110_8	is_in_sentence	sentence_11110
+11110_8	nummod	11110_11
+11110_8	has_surface_form	2010
+11110_9	is_in_sentence	sentence_11110
+11110_9	amod	11110_11
+11110_9	has_surface_form	Serbian
+11110_10	is_in_sentence	sentence_11110
+11110_10	compound	11110_11
+11110_10	has_surface_form	comedy
+11110_12	is_in_sentence	sentence_11110
+11110_12	acl	11110_11
+11110_12	has_surface_form	directed
+11110_13	is_in_sentence	sentence_11110
+11110_13	agent	11110_12
+11110_13	has_surface_form	by
+11110_14	is_in_sentence	sentence_11110
+11110_14	compound	11110_15
+11110_14	has_surface_form	Srđan
+11110_14	part_of_entity	Srđan Koljević
+11110_15	is_in_sentence	sentence_11110
+11110_15	pobj	11110_13
+11110_15	has_surface_form	Koljević
+11110_15	part_of_entity	Srđan Koljević
+11110_16	is_in_sentence	sentence_11110
+11110_16	punct	11110_6
+11110_16	has_surface_form	.
+11110_17	is_in_sentence	sentence_11110
+11110_17	dep	11110_17
+11110_17	has_surface_form	
+The Woman with a Broken Nose	surface_form	The Woman with a Broken Nose
+The Woman with a Broken Nose	movie-has-director	Srđan Koljević
+Srđan Koljević	surface_form	Srđan Koljević

@@ -1,0 +1,62 @@
+21178_0	is_in_sentence	sentence_21178
+21178_0	compound	21178_1
+21178_0	has_surface_form	Andrea
+21178_0	part_of_entity	Andrea Beccari
+21178_1	is_in_sentence	sentence_21178
+21178_1	nsubj	21178_12
+21178_1	has_surface_form	Beccari
+21178_1	part_of_entity	Andrea Beccari
+21178_12	is_in_sentence	sentence_21178
+21178_12	ROOT	21178_12
+21178_12	has_surface_form	is
+21178_2	is_in_sentence	sentence_21178
+21178_2	punct	21178_3
+21178_2	has_surface_form	(
+21178_3	is_in_sentence	sentence_21178
+21178_3	relcl	21178_1
+21178_3	has_surface_form	born
+21178_4	is_in_sentence	sentence_21178
+21178_4	nummod	21178_5
+21178_4	has_surface_form	12
+21178_5	is_in_sentence	sentence_21178
+21178_5	npadvmod	21178_3
+21178_5	has_surface_form	June
+21178_6	is_in_sentence	sentence_21178
+21178_6	nummod	21178_5
+21178_6	has_surface_form	1978
+21178_7	is_in_sentence	sentence_21178
+21178_7	prep	21178_3
+21178_7	has_surface_form	in
+21178_8	is_in_sentence	sentence_21178
+21178_8	pobj	21178_7
+21178_8	is_entity	Moncalieri
+Moncalieri	surface_form	Moncalieri
+21178_9	is_in_sentence	sentence_21178
+21178_9	punct	21178_8
+21178_9	has_surface_form	,
+21178_10	is_in_sentence	sentence_21178
+21178_10	appos	21178_8
+21178_10	has_surface_form	Turin
+21178_11	is_in_sentence	sentence_21178
+21178_11	punct	21178_1
+21178_11	has_surface_form	)
+21178_13	is_in_sentence	sentence_21178
+21178_13	det	21178_16
+21178_13	has_surface_form	an
+21178_16	is_in_sentence	sentence_21178
+21178_16	attr	21178_12
+21178_16	has_surface_form	swimmer
+21178_14	is_in_sentence	sentence_21178
+21178_14	amod	21178_16
+21178_14	has_surface_form	Italian
+21178_15	is_in_sentence	sentence_21178
+21178_15	compound	21178_16
+21178_15	has_surface_form	freestyle
+21178_17	is_in_sentence	sentence_21178
+21178_17	punct	21178_12
+21178_17	has_surface_form	.
+21178_18	is_in_sentence	sentence_21178
+21178_18	dep	21178_12
+21178_18	has_surface_form	
+Andrea Beccari	surface_form	Andrea Beccari
+Andrea Beccari	birth-place	Moncalieri

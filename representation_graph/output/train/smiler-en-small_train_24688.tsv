@@ -1,0 +1,82 @@
+24687_0	is_in_sentence	sentence_24687
+24687_0	prep	24687_19
+24687_0	has_surface_form	In
+24687_19	is_in_sentence	sentence_24687
+24687_19	ROOT	24687_19
+24687_19	has_surface_form	diagnosed
+24687_1	is_in_sentence	sentence_24687
+24687_1	amod	24687_2
+24687_1	has_surface_form	late
+24687_2	is_in_sentence	sentence_24687
+24687_2	pobj	24687_0
+24687_2	has_surface_form	2001
+24687_3	is_in_sentence	sentence_24687
+24687_3	punct	24687_19
+24687_3	has_surface_form	,
+24687_4	is_in_sentence	sentence_24687
+24687_4	det	24687_6
+24687_4	has_surface_form	a
+24687_6	is_in_sentence	sentence_24687
+24687_6	nsubjpass	24687_19
+24687_6	has_surface_form	friend
+24687_5	is_in_sentence	sentence_24687
+24687_5	amod	24687_6
+24687_5	has_surface_form	close
+24687_7	is_in_sentence	sentence_24687
+24687_7	prep	24687_6
+24687_7	has_surface_form	of
+24687_8	is_in_sentence	sentence_24687
+24687_8	pobj	24687_7
+24687_8	has_surface_form	Briggs
+24687_9	is_in_sentence	sentence_24687
+24687_9	case	24687_8
+24687_9	has_surface_form	'
+24687_10	is_in_sentence	sentence_24687
+24687_10	punct	24687_6
+24687_10	has_surface_form	,
+24687_11	is_in_sentence	sentence_24687
+24687_11	compound	24687_12
+24687_11	has_surface_form	Carrie
+24687_11	part_of_entity	Carrie Hamilton
+24687_12	is_in_sentence	sentence_24687
+24687_12	conj	24687_6
+24687_12	has_surface_form	Hamilton
+24687_12	part_of_entity	Carrie Hamilton
+24687_13	is_in_sentence	sentence_24687
+24687_13	punct	24687_12
+24687_13	has_surface_form	,
+24687_14	is_in_sentence	sentence_24687
+24687_14	compound	24687_15
+24687_14	has_surface_form	Carol
+24687_14	part_of_entity	Carol Burnett
+24687_15	is_in_sentence	sentence_24687
+24687_15	poss	24687_17
+24687_15	has_surface_form	Burnett
+24687_15	part_of_entity	Carol Burnett
+24687_17	is_in_sentence	sentence_24687
+24687_17	conj	24687_6
+24687_17	has_surface_form	daughter
+24687_16	is_in_sentence	sentence_24687
+24687_16	case	24687_15
+24687_16	has_surface_form	's
+24687_18	is_in_sentence	sentence_24687
+24687_18	auxpass	24687_19
+24687_18	has_surface_form	was
+24687_20	is_in_sentence	sentence_24687
+24687_20	prep	24687_19
+24687_20	has_surface_form	with
+24687_21	is_in_sentence	sentence_24687
+24687_21	compound	24687_22
+24687_21	has_surface_form	lung
+24687_22	is_in_sentence	sentence_24687
+24687_22	pobj	24687_20
+24687_22	has_surface_form	cancer
+24687_23	is_in_sentence	sentence_24687
+24687_23	punct	24687_19
+24687_23	has_surface_form	.
+24687_24	is_in_sentence	sentence_24687
+24687_24	dep	24687_24
+24687_24	has_surface_form	
+Carrie Hamilton	surface_form	Carrie Hamilton
+Carrie Hamilton	has-parent	Carol Burnett
+Carol Burnett	surface_form	Carol Burnett

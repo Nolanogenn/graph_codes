@@ -1,0 +1,59 @@
+1722_0	is_in_sentence	sentence_1722
+1722_0	compound	1722_1
+1722_0	has_surface_form	Chris
+1722_0	part_of_entity	Chris Lake
+1722_1	is_in_sentence	sentence_1722
+1722_1	nsubj	1722_8
+1722_1	has_surface_form	Lake
+1722_1	part_of_entity	Chris Lake
+1722_8	is_in_sentence	sentence_1722
+1722_8	ROOT	1722_8
+1722_8	has_surface_form	is
+1722_2	is_in_sentence	sentence_1722
+1722_2	punct	1722_3
+1722_2	has_surface_form	(
+1722_3	is_in_sentence	sentence_1722
+1722_3	parataxis	1722_1
+1722_3	has_surface_form	born
+1722_4	is_in_sentence	sentence_1722
+1722_4	npadvmod	1722_3
+1722_4	has_surface_form	8
+1722_5	is_in_sentence	sentence_1722
+1722_5	npadvmod	1722_3
+1722_5	has_surface_form	August
+1722_6	is_in_sentence	sentence_1722
+1722_6	nummod	1722_5
+1722_6	has_surface_form	1982
+1722_7	is_in_sentence	sentence_1722
+1722_7	punct	1722_3
+1722_7	has_surface_form	)
+1722_9	is_in_sentence	sentence_1722
+1722_9	det	1722_13
+1722_9	has_surface_form	a
+1722_13	is_in_sentence	sentence_1722
+1722_13	attr	1722_8
+1722_13	has_surface_form	producer
+1722_10	is_in_sentence	sentence_1722
+1722_10	amod	1722_13
+1722_10	is_entity	British
+British	surface_form	British
+1722_11	is_in_sentence	sentence_1722
+1722_11	amod	1722_12
+1722_11	has_surface_form	electronic
+1722_12	is_in_sentence	sentence_1722
+1722_12	compound	1722_13
+1722_12	has_surface_form	music
+1722_14	is_in_sentence	sentence_1722
+1722_14	cc	1722_13
+1722_14	has_surface_form	and
+1722_15	is_in_sentence	sentence_1722
+1722_15	conj	1722_13
+1722_15	has_surface_form	DJ
+1722_16	is_in_sentence	sentence_1722
+1722_16	punct	1722_8
+1722_16	has_surface_form	.
+1722_17	is_in_sentence	sentence_1722
+1722_17	dep	1722_8
+1722_17	has_surface_form	
+Chris Lake	surface_form	Chris Lake
+Chris Lake	has-nationality	British

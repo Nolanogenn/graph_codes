@@ -1,0 +1,84 @@
+26862_0	is_in_sentence	sentence_26862
+26862_0	prep	26862_7
+26862_0	has_surface_form	As
+26862_7	is_in_sentence	sentence_26862
+26862_7	ROOT	26862_7
+26862_7	has_surface_form	born
+26862_1	is_in_sentence	sentence_26862
+26862_1	compound	26862_3
+26862_1	has_surface_form	Robert
+26862_1	part_of_entity	Robert Todd Duncan
+26862_3	is_in_sentence	sentence_26862
+26862_3	pobj	26862_0
+26862_3	has_surface_form	Duncan
+26862_3	part_of_entity	Robert Todd Duncan
+26862_2	is_in_sentence	sentence_26862
+26862_2	compound	26862_3
+26862_2	has_surface_form	Todd
+26862_2	part_of_entity	Robert Todd Duncan
+26862_4	is_in_sentence	sentence_26862
+26862_4	punct	26862_7
+26862_4	has_surface_form	,
+26862_5	is_in_sentence	sentence_26862
+26862_5	nsubjpass	26862_7
+26862_5	has_surface_form	he
+26862_6	is_in_sentence	sentence_26862
+26862_6	auxpass	26862_7
+26862_6	has_surface_form	was
+26862_8	is_in_sentence	sentence_26862
+26862_8	npadvmod	26862_7
+26862_8	has_surface_form	February
+26862_9	is_in_sentence	sentence_26862
+26862_9	nummod	26862_8
+26862_9	has_surface_form	12
+26862_10	is_in_sentence	sentence_26862
+26862_10	punct	26862_8
+26862_10	has_surface_form	,
+26862_11	is_in_sentence	sentence_26862
+26862_11	nummod	26862_8
+26862_11	has_surface_form	1903
+26862_12	is_in_sentence	sentence_26862
+26862_12	prep	26862_7
+26862_12	has_surface_form	in
+26862_13	is_in_sentence	sentence_26862
+26862_13	pobj	26862_12
+26862_13	has_surface_form	Danville
+26862_14	is_in_sentence	sentence_26862
+26862_14	punct	26862_13
+26862_14	has_surface_form	,
+26862_15	is_in_sentence	sentence_26862
+26862_15	appos	26862_13
+26862_15	has_surface_form	Kentucky
+26862_16	is_in_sentence	sentence_26862
+26862_16	prep	26862_7
+26862_16	has_surface_form	to
+26862_17	is_in_sentence	sentence_26862
+26862_17	pobj	26862_16
+26862_17	has_surface_form	John
+26862_18	is_in_sentence	sentence_26862
+26862_18	cc	26862_17
+26862_18	has_surface_form	and
+26862_19	is_in_sentence	sentence_26862
+26862_19	nmod	26862_23
+26862_19	has_surface_form	Lettie
+26862_23	is_in_sentence	sentence_26862
+26862_23	conj	26862_17
+26862_23	has_surface_form	Duncan
+26862_20	is_in_sentence	sentence_26862
+26862_20	punct	26862_23
+26862_20	has_surface_form	(
+26862_21	is_in_sentence	sentence_26862
+26862_21	nmod	26862_23
+26862_21	has_surface_form	Cooper
+26862_22	is_in_sentence	sentence_26862
+26862_22	punct	26862_23
+26862_22	has_surface_form	)
+26862_24	is_in_sentence	sentence_26862
+26862_24	punct	26862_7
+26862_24	has_surface_form	.
+26862_25	is_in_sentence	sentence_26862
+26862_25	dep	26862_25
+26862_25	has_surface_form	
+Robert Todd Duncan	surface_form	Robert Todd Duncan
+Robert Todd Duncan	has-parent	Lettie (Cooper) Duncan
+Lettie (Cooper) Duncan	surface_form	Lettie (Cooper) Duncan

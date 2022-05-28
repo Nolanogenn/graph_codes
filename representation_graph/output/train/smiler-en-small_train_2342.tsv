@@ -1,0 +1,42 @@
+2341_0	is_in_sentence	sentence_2341
+2341_0	compound	2341_1
+2341_0	has_surface_form	A.
+2341_0	part_of_entity	A. A. Ewing
+2341_1	is_in_sentence	sentence_2341
+2341_1	compound	2341_2
+2341_1	has_surface_form	A.
+2341_1	part_of_entity	A. A. Ewing
+2341_2	is_in_sentence	sentence_2341
+2341_2	nsubj	2341_3
+2341_2	has_surface_form	Ewing
+2341_2	part_of_entity	A. A. Ewing
+2341_3	is_in_sentence	sentence_2341
+2341_3	ROOT	2341_3
+2341_3	has_surface_form	was
+2341_4	is_in_sentence	sentence_2341
+2341_4	det	2341_7
+2341_4	has_surface_form	an
+2341_7	is_in_sentence	sentence_2341
+2341_7	attr	2341_3
+2341_7	has_surface_form	player
+2341_5	is_in_sentence	sentence_2341
+2341_5	amod	2341_7
+2341_5	has_surface_form	American
+2341_6	is_in_sentence	sentence_2341
+2341_6	compound	2341_7
+2341_6	has_surface_form	football
+2341_8	is_in_sentence	sentence_2341
+2341_8	cc	2341_7
+2341_8	has_surface_form	and
+2341_9	is_in_sentence	sentence_2341
+2341_9	conj	2341_7
+2341_9	is_entity	coach
+coach	surface_form	coach
+2341_10	is_in_sentence	sentence_2341
+2341_10	punct	2341_3
+2341_10	has_surface_form	.
+2341_11	is_in_sentence	sentence_2341
+2341_11	dep	2341_11
+2341_11	has_surface_form	
+A. A. Ewing	surface_form	A. A. Ewing
+A. A. Ewing	has-type	coach

@@ -1,0 +1,117 @@
+30750_0	is_in_sentence	sentence_30750
+30750_0	compound	30750_1
+30750_0	has_surface_form	Ek
+30750_0	part_of_entity	Ek Bar Mooskura Do
+30750_1	is_in_sentence	sentence_30750
+30750_1	compound	30750_2
+30750_1	has_surface_form	Bar
+30750_1	part_of_entity	Ek Bar Mooskura Do
+30750_2	is_in_sentence	sentence_30750
+30750_2	compound	30750_3
+30750_2	has_surface_form	Mooskura
+30750_2	part_of_entity	Ek Bar Mooskura Do
+30750_3	is_in_sentence	sentence_30750
+30750_3	nsubj	30750_10
+30750_3	has_surface_form	Do
+30750_3	part_of_entity	Ek Bar Mooskura Do
+30750_10	is_in_sentence	sentence_30750
+30750_10	ROOT	30750_10
+30750_10	has_surface_form	is
+30750_4	is_in_sentence	sentence_30750
+30750_4	punct	30750_5
+30750_4	has_surface_form	(
+30750_5	is_in_sentence	sentence_30750
+30750_5	parataxis	30750_3
+30750_5	has_surface_form	English
+30750_6	is_in_sentence	sentence_30750
+30750_6	punct	30750_5
+30750_6	has_surface_form	:
+30750_7	is_in_sentence	sentence_30750
+30750_7	acl	30750_5
+30750_7	has_surface_form	Smile
+30750_8	is_in_sentence	sentence_30750
+30750_8	advmod	30750_7
+30750_8	has_surface_form	once
+30750_9	is_in_sentence	sentence_30750
+30750_9	punct	30750_7
+30750_9	has_surface_form	)
+30750_11	is_in_sentence	sentence_30750
+30750_11	det	30750_15
+30750_11	has_surface_form	a
+30750_15	is_in_sentence	sentence_30750
+30750_15	attr	30750_10
+30750_15	has_surface_form	film
+30750_12	is_in_sentence	sentence_30750
+30750_12	nummod	30750_15
+30750_12	has_surface_form	1972
+30750_13	is_in_sentence	sentence_30750
+30750_13	compound	30750_15
+30750_13	has_surface_form	Bollywood
+30750_14	is_in_sentence	sentence_30750
+30750_14	compound	30750_15
+30750_14	has_surface_form	drama
+30750_16	is_in_sentence	sentence_30750
+30750_16	acl	30750_15
+30750_16	has_surface_form	directed
+30750_17	is_in_sentence	sentence_30750
+30750_17	agent	30750_16
+30750_17	has_surface_form	by
+30750_18	is_in_sentence	sentence_30750
+30750_18	compound	30750_19
+30750_18	has_surface_form	Ram
+30750_19	is_in_sentence	sentence_30750
+30750_19	pobj	30750_17
+30750_19	has_surface_form	Mukherjee
+30750_20	is_in_sentence	sentence_30750
+30750_20	punct	30750_10
+30750_20	has_surface_form	.
+30750_21	is_in_sentence	sentence_30750
+30750_21	det	30750_22
+30750_21	has_surface_form	The
+30750_22	is_in_sentence	sentence_30750
+30750_22	nsubj	30750_23
+30750_22	has_surface_form	film
+30750_23	is_in_sentence	sentence_30750
+30750_23	ROOT	30750_23
+30750_23	has_surface_form	stars
+30750_24	is_in_sentence	sentence_30750
+30750_24	compound	30750_25
+30750_24	has_surface_form	Shobhna
+30750_25	is_in_sentence	sentence_30750
+30750_25	dobj	30750_23
+30750_25	has_surface_form	Samarth
+30750_26	is_in_sentence	sentence_30750
+30750_26	punct	30750_25
+30750_26	has_surface_form	,
+30750_27	is_in_sentence	sentence_30750
+30750_27	compound	30750_28
+30750_27	has_surface_form	Joy
+30750_28	is_in_sentence	sentence_30750
+30750_28	conj	30750_25
+30750_28	has_surface_form	Mukherjee
+30750_29	is_in_sentence	sentence_30750
+30750_29	punct	30750_28
+30750_29	has_surface_form	,
+30750_30	is_in_sentence	sentence_30750
+30750_30	conj	30750_28
+30750_30	has_surface_form	Tanuja
+30750_31	is_in_sentence	sentence_30750
+30750_31	cc	30750_30
+30750_31	has_surface_form	and
+30750_32	is_in_sentence	sentence_30750
+30750_32	compound	30750_33
+30750_32	has_surface_form	Deb
+30750_32	part_of_entity	Deb Mukherjee
+30750_33	is_in_sentence	sentence_30750
+30750_33	conj	30750_30
+30750_33	has_surface_form	Mukherjee
+30750_33	part_of_entity	Deb Mukherjee
+30750_34	is_in_sentence	sentence_30750
+30750_34	punct	30750_23
+30750_34	has_surface_form	.
+30750_35	is_in_sentence	sentence_30750
+30750_35	dep	30750_23
+30750_35	has_surface_form	
+Ek Bar Mooskura Do	surface_form	Ek Bar Mooskura Do
+Ek Bar Mooskura Do	starring	Deb Mukherjee
+Deb Mukherjee	surface_form	Deb Mukherjee

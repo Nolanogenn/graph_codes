@@ -1,0 +1,92 @@
+10433_0	is_in_sentence	sentence_10433
+10433_0	compound	10433_1
+10433_0	has_surface_form	Kshana
+10433_0	part_of_entity	Kshana Kshanam
+10433_1	is_in_sentence	sentence_10433
+10433_1	ROOT	10433_1
+10433_1	has_surface_form	Kshanam
+10433_1	part_of_entity	Kshana Kshanam
+10433_2	is_in_sentence	sentence_10433
+10433_2	punct	10433_3
+10433_2	has_surface_form	(
+10433_3	is_in_sentence	sentence_10433
+10433_3	appos	10433_1
+10433_3	has_surface_form	transl
+10433_4	is_in_sentence	sentence_10433
+10433_4	punct	10433_3
+10433_4	has_surface_form	.
+10433_5	is_in_sentence	sentence_10433
+10433_5	dep	10433_6
+10433_5	has_surface_form	 
+10433_6	is_in_sentence	sentence_10433
+10433_6	nsubj	10433_10
+10433_6	has_surface_form	Moment
+10433_10	is_in_sentence	sentence_10433
+10433_10	ROOT	10433_10
+10433_10	has_surface_form	is
+10433_7	is_in_sentence	sentence_10433
+10433_7	prep	10433_6
+10433_7	has_surface_form	to
+10433_8	is_in_sentence	sentence_10433
+10433_8	pobj	10433_7
+10433_8	has_surface_form	Moment
+10433_9	is_in_sentence	sentence_10433
+10433_9	punct	10433_6
+10433_9	has_surface_form	)
+10433_11	is_in_sentence	sentence_10433
+10433_11	det	10433_18
+10433_11	has_surface_form	a
+10433_18	is_in_sentence	sentence_10433
+10433_18	attr	10433_10
+10433_18	has_surface_form	film
+10433_12	is_in_sentence	sentence_10433
+10433_12	nummod	10433_18
+10433_12	has_surface_form	1991
+10433_13	is_in_sentence	sentence_10433
+10433_13	amod	10433_18
+10433_13	has_surface_form	Indian
+10433_14	is_in_sentence	sentence_10433
+10433_14	compound	10433_16
+10433_14	has_surface_form	Telugu
+10433_16	is_in_sentence	sentence_10433
+10433_16	compound	10433_18
+10433_16	has_surface_form	language
+10433_15	is_in_sentence	sentence_10433
+10433_15	punct	10433_16
+10433_15	has_surface_form	-
+10433_17	is_in_sentence	sentence_10433
+10433_17	compound	10433_18
+10433_17	has_surface_form	road
+10433_19	is_in_sentence	sentence_10433
+10433_19	acl	10433_18
+10433_19	has_surface_form	written
+10433_20	is_in_sentence	sentence_10433
+10433_20	cc	10433_19
+10433_20	has_surface_form	and
+10433_21	is_in_sentence	sentence_10433
+10433_21	conj	10433_19
+10433_21	has_surface_form	directed
+10433_22	is_in_sentence	sentence_10433
+10433_22	agent	10433_21
+10433_22	has_surface_form	by
+10433_23	is_in_sentence	sentence_10433
+10433_23	compound	10433_25
+10433_23	has_surface_form	Ram
+10433_23	part_of_entity	Ram Gopal Varma
+10433_25	is_in_sentence	sentence_10433
+10433_25	pobj	10433_22
+10433_25	has_surface_form	Varma
+10433_25	part_of_entity	Ram Gopal Varma
+10433_24	is_in_sentence	sentence_10433
+10433_24	compound	10433_25
+10433_24	has_surface_form	Gopal
+10433_24	part_of_entity	Ram Gopal Varma
+10433_26	is_in_sentence	sentence_10433
+10433_26	punct	10433_10
+10433_26	has_surface_form	.
+10433_27	is_in_sentence	sentence_10433
+10433_27	dep	10433_10
+10433_27	has_surface_form	
+Kshana Kshanam	surface_form	Kshana Kshanam
+Kshana Kshanam	movie-has-director	Ram Gopal Varma
+Ram Gopal Varma	surface_form	Ram Gopal Varma

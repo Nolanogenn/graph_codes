@@ -1,0 +1,64 @@
+1542_0	is_in_sentence	sentence_1542
+1542_0	compound	1542_1
+1542_0	has_surface_form	Mike
+1542_0	part_of_entity	Mike Hankwitz
+1542_1	is_in_sentence	sentence_1542
+1542_1	nsubj	1542_9
+1542_1	has_surface_form	Hankwitz
+1542_1	part_of_entity	Mike Hankwitz
+1542_9	is_in_sentence	sentence_1542
+1542_9	ROOT	1542_9
+1542_9	has_surface_form	is
+1542_2	is_in_sentence	sentence_1542
+1542_2	punct	1542_1
+1542_2	has_surface_form	(
+1542_3	is_in_sentence	sentence_1542
+1542_3	acl	1542_1
+1542_3	has_surface_form	born
+1542_4	is_in_sentence	sentence_1542
+1542_4	npadvmod	1542_3
+1542_4	has_surface_form	December
+1542_5	is_in_sentence	sentence_1542
+1542_5	nummod	1542_4
+1542_5	has_surface_form	14
+1542_6	is_in_sentence	sentence_1542
+1542_6	punct	1542_4
+1542_6	has_surface_form	,
+1542_7	is_in_sentence	sentence_1542
+1542_7	nummod	1542_4
+1542_7	has_surface_form	1947
+1542_8	is_in_sentence	sentence_1542
+1542_8	punct	1542_1
+1542_8	has_surface_form	)
+1542_10	is_in_sentence	sentence_1542
+1542_10	det	1542_13
+1542_10	has_surface_form	an
+1542_13	is_in_sentence	sentence_1542
+1542_13	attr	1542_9
+1542_13	has_surface_form	coach
+1542_13	part_of_entity	football coach
+1542_11	is_in_sentence	sentence_1542
+1542_11	amod	1542_13
+1542_11	has_surface_form	American
+1542_12	is_in_sentence	sentence_1542
+1542_12	compound	1542_13
+1542_12	has_surface_form	football
+1542_12	part_of_entity	football coach
+1542_14	is_in_sentence	sentence_1542
+1542_14	cc	1542_13
+1542_14	has_surface_form	and
+1542_15	is_in_sentence	sentence_1542
+1542_15	amod	1542_16
+1542_15	has_surface_form	former
+1542_16	is_in_sentence	sentence_1542
+1542_16	conj	1542_13
+1542_16	has_surface_form	player
+1542_17	is_in_sentence	sentence_1542
+1542_17	punct	1542_9
+1542_17	has_surface_form	.
+1542_18	is_in_sentence	sentence_1542
+1542_18	dep	1542_18
+1542_18	has_surface_form	
+Mike Hankwitz	surface_form	Mike Hankwitz
+Mike Hankwitz	has-type	football coach
+football coach	surface_form	football coach

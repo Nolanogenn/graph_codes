@@ -1,0 +1,82 @@
+15298_0	is_in_sentence	sentence_15298
+15298_0	csubj	15298_4
+15298_0	has_surface_form	Be
+15298_0	part_of_entity	Be Our Guest Restaurant
+15298_4	is_in_sentence	sentence_15298
+15298_4	ROOT	15298_4
+15298_4	has_surface_form	is
+15298_1	is_in_sentence	sentence_15298
+15298_1	poss	15298_3
+15298_1	has_surface_form	Our
+15298_1	part_of_entity	Be Our Guest Restaurant
+15298_3	is_in_sentence	sentence_15298
+15298_3	attr	15298_0
+15298_3	has_surface_form	Restaurant
+15298_3	part_of_entity	Be Our Guest Restaurant
+15298_2	is_in_sentence	sentence_15298
+15298_2	compound	15298_3
+15298_2	has_surface_form	Guest
+15298_2	part_of_entity	Be Our Guest Restaurant
+15298_5	is_in_sentence	sentence_15298
+15298_5	det	15298_11
+15298_5	has_surface_form	a
+15298_11	is_in_sentence	sentence_15298
+15298_11	attr	15298_4
+15298_11	is_entity	restaurant
+15298_6	is_in_sentence	sentence_15298
+15298_6	amod	15298_11
+15298_6	has_surface_form	quick
+15298_7	is_in_sentence	sentence_15298
+15298_7	nmod	15298_11
+15298_7	has_surface_form	service
+15298_8	is_in_sentence	sentence_15298
+15298_8	cc	15298_7
+15298_8	has_surface_form	and
+15298_9	is_in_sentence	sentence_15298
+15298_9	conj	15298_7
+15298_9	has_surface_form	table
+15298_10	is_in_sentence	sentence_15298
+15298_10	compound	15298_11
+15298_10	has_surface_form	service
+restaurant	surface_form	restaurant
+15298_12	is_in_sentence	sentence_15298
+15298_12	prep	15298_11
+15298_12	has_surface_form	in
+15298_13	is_in_sentence	sentence_15298
+15298_13	pobj	15298_12
+15298_13	has_surface_form	Fantasyland
+15298_14	is_in_sentence	sentence_15298
+15298_14	prep	15298_11
+15298_14	has_surface_form	at
+15298_15	is_in_sentence	sentence_15298
+15298_15	compound	15298_16
+15298_15	has_surface_form	Magic
+15298_16	is_in_sentence	sentence_15298
+15298_16	pobj	15298_14
+15298_16	has_surface_form	Kingdom
+15298_17	is_in_sentence	sentence_15298
+15298_17	prep	15298_16
+15298_17	has_surface_form	in
+15298_18	is_in_sentence	sentence_15298
+15298_18	det	15298_22
+15298_18	has_surface_form	the
+15298_22	is_in_sentence	sentence_15298
+15298_22	pobj	15298_17
+15298_22	has_surface_form	Resort
+15298_19	is_in_sentence	sentence_15298
+15298_19	compound	15298_20
+15298_19	has_surface_form	Walt
+15298_20	is_in_sentence	sentence_15298
+15298_20	compound	15298_22
+15298_20	has_surface_form	Disney
+15298_21	is_in_sentence	sentence_15298
+15298_21	compound	15298_22
+15298_21	has_surface_form	World
+15298_23	is_in_sentence	sentence_15298
+15298_23	punct	15298_4
+15298_23	has_surface_form	.
+15298_24	is_in_sentence	sentence_15298
+15298_24	dep	15298_24
+15298_24	has_surface_form	
+Be Our Guest Restaurant	surface_form	Be Our Guest Restaurant
+Be Our Guest Restaurant	has-type	restaurant

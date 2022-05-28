@@ -1,0 +1,59 @@
+25706_0	is_in_sentence	sentence_25706
+25706_0	compound	25706_1
+25706_0	has_surface_form	Training
+25706_0	part_of_entity	Training Squadron TEN
+25706_1	is_in_sentence	sentence_25706
+25706_1	nsubj	25706_6
+25706_1	has_surface_form	Squadron
+25706_1	part_of_entity	Training Squadron TEN
+25706_6	is_in_sentence	sentence_25706
+25706_6	ROOT	25706_6
+25706_6	has_surface_form	is
+25706_2	is_in_sentence	sentence_25706
+25706_2	appos	25706_1
+25706_2	has_surface_form	TEN
+25706_2	part_of_entity	Training Squadron TEN
+25706_3	is_in_sentence	sentence_25706
+25706_3	punct	25706_2
+25706_3	has_surface_form	(
+25706_4	is_in_sentence	sentence_25706
+25706_4	appos	25706_2
+25706_4	has_surface_form	VT-10
+25706_5	is_in_sentence	sentence_25706
+25706_5	punct	25706_2
+25706_5	has_surface_form	)
+25706_7	is_in_sentence	sentence_25706
+25706_7	det	25706_9
+25706_7	has_surface_form	a
+25706_9	is_in_sentence	sentence_25706
+25706_9	attr	25706_6
+25706_9	has_surface_form	squadron
+25706_9	part_of_entity	training squadron
+25706_8	is_in_sentence	sentence_25706
+25706_8	compound	25706_9
+25706_8	has_surface_form	training
+25706_8	part_of_entity	training squadron
+25706_10	is_in_sentence	sentence_25706
+25706_10	prep	25706_9
+25706_10	has_surface_form	of
+25706_11	is_in_sentence	sentence_25706
+25706_11	det	25706_14
+25706_11	has_surface_form	the
+25706_14	is_in_sentence	sentence_25706
+25706_14	pobj	25706_10
+25706_14	has_surface_form	Navy
+25706_12	is_in_sentence	sentence_25706
+25706_12	compound	25706_13
+25706_12	has_surface_form	United
+25706_13	is_in_sentence	sentence_25706
+25706_13	compound	25706_14
+25706_13	has_surface_form	States
+25706_15	is_in_sentence	sentence_25706
+25706_15	punct	25706_6
+25706_15	has_surface_form	.
+25706_16	is_in_sentence	sentence_25706
+25706_16	dep	25706_16
+25706_16	has_surface_form	
+Training Squadron TEN	surface_form	Training Squadron TEN
+Training Squadron TEN	has-type	training squadron
+training squadron	surface_form	training squadron

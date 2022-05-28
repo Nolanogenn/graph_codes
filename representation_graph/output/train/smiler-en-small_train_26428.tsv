@@ -1,0 +1,73 @@
+26427_0	is_in_sentence	sentence_26427
+26427_0	compound	26427_1
+26427_0	has_surface_form	James
+26427_0	part_of_entity	James Huang
+26427_1	is_in_sentence	sentence_26427
+26427_1	nsubj	26427_9
+26427_1	has_surface_form	Huang
+26427_1	part_of_entity	James Huang
+26427_9	is_in_sentence	sentence_26427
+26427_9	ROOT	26427_9
+26427_9	has_surface_form	is
+26427_2	is_in_sentence	sentence_26427
+26427_2	punct	26427_1
+26427_2	has_surface_form	(
+26427_3	is_in_sentence	sentence_26427
+26427_3	acl	26427_1
+26427_3	has_surface_form	born
+26427_4	is_in_sentence	sentence_26427
+26427_4	npadvmod	26427_3
+26427_4	has_surface_form	January
+26427_5	is_in_sentence	sentence_26427
+26427_5	nummod	26427_4
+26427_5	has_surface_form	11
+26427_6	is_in_sentence	sentence_26427
+26427_6	punct	26427_4
+26427_6	has_surface_form	,
+26427_7	is_in_sentence	sentence_26427
+26427_7	nummod	26427_4
+26427_7	has_surface_form	1977
+26427_8	is_in_sentence	sentence_26427
+26427_8	punct	26427_1
+26427_8	has_surface_form	)
+26427_10	is_in_sentence	sentence_26427
+26427_10	det	26427_15
+26427_10	has_surface_form	an
+26427_15	is_in_sentence	sentence_26427
+26427_15	attr	26427_9
+26427_15	has_surface_form	actor
+26427_15	part_of_entity	television actor
+26427_11	is_in_sentence	sentence_26427
+26427_11	amod	26427_15
+26427_11	has_surface_form	American
+26427_12	is_in_sentence	sentence_26427
+26427_12	nmod	26427_15
+26427_12	has_surface_form	film
+26427_13	is_in_sentence	sentence_26427
+26427_13	cc	26427_12
+26427_13	has_surface_form	and
+26427_14	is_in_sentence	sentence_26427
+26427_14	conj	26427_12
+26427_14	has_surface_form	television
+26427_14	part_of_entity	television actor
+26427_16	is_in_sentence	sentence_26427
+26427_16	cc	26427_15
+26427_16	has_surface_form	and
+26427_17	is_in_sentence	sentence_26427
+26427_17	nmod	26427_19
+26427_17	has_surface_form	producer
+26427_19	is_in_sentence	sentence_26427
+26427_19	conj	26427_15
+26427_19	has_surface_form	director
+26427_18	is_in_sentence	sentence_26427
+26427_18	punct	26427_19
+26427_18	has_surface_form	/
+26427_20	is_in_sentence	sentence_26427
+26427_20	punct	26427_9
+26427_20	has_surface_form	.
+26427_21	is_in_sentence	sentence_26427
+26427_21	dep	26427_9
+26427_21	has_surface_form	
+James Huang	surface_form	James Huang
+James Huang	has-occupation	television actor
+television actor	surface_form	television actor

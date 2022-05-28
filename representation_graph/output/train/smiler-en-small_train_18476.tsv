@@ -1,0 +1,61 @@
+18475_0	is_in_sentence	sentence_18475
+18475_0	nsubj	18475_1
+18475_0	has_surface_form	He
+18475_1	is_in_sentence	sentence_18475
+18475_1	ROOT	18475_1
+18475_1	has_surface_form	is
+18475_2	is_in_sentence	sentence_18475
+18475_2	acomp	18475_1
+18475_2	has_surface_form	married
+18475_3	is_in_sentence	sentence_18475
+18475_3	prep	18475_2
+18475_3	has_surface_form	to
+18475_4	is_in_sentence	sentence_18475
+18475_4	compound	18475_5
+18475_4	has_surface_form	Kamala
+18475_4	part_of_entity	Kamala Vijayan
+18475_5	is_in_sentence	sentence_18475
+18475_5	pobj	18475_3
+18475_5	has_surface_form	Vijayan
+18475_5	part_of_entity	Kamala Vijayan
+18475_6	is_in_sentence	sentence_18475
+18475_6	cc	18475_1
+18475_6	has_surface_form	and
+18475_7	is_in_sentence	sentence_18475
+18475_7	conj	18475_1
+18475_7	has_surface_form	has
+18475_8	is_in_sentence	sentence_18475
+18475_8	nummod	18475_9
+18475_8	has_surface_form	two
+18475_9	is_in_sentence	sentence_18475
+18475_9	dobj	18475_7
+18475_9	has_surface_form	children
+18475_10	is_in_sentence	sentence_18475
+18475_10	punct	18475_9
+18475_10	has_surface_form	,
+18475_11	is_in_sentence	sentence_18475
+18475_11	compound	18475_12
+18475_11	has_surface_form	T
+18475_11	part_of_entity	T Veena
+18475_12	is_in_sentence	sentence_18475
+18475_12	conj	18475_9
+18475_12	has_surface_form	Veena
+18475_12	part_of_entity	T Veena
+18475_13	is_in_sentence	sentence_18475
+18475_13	cc	18475_12
+18475_13	has_surface_form	and
+18475_14	is_in_sentence	sentence_18475
+18475_14	compound	18475_15
+18475_14	has_surface_form	Vivek
+18475_15	is_in_sentence	sentence_18475
+18475_15	conj	18475_12
+18475_15	has_surface_form	Kiran
+18475_16	is_in_sentence	sentence_18475
+18475_16	punct	18475_1
+18475_16	has_surface_form	.
+18475_17	is_in_sentence	sentence_18475
+18475_17	dep	18475_1
+18475_17	has_surface_form	
+Kamala Vijayan	surface_form	Kamala Vijayan
+Kamala Vijayan	has-child	T Veena
+T Veena	surface_form	T Veena

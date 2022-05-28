@@ -1,0 +1,44 @@
+9306_0	is_in_sentence	sentence_9306
+9306_0	nsubj	9306_1
+9306_0	has_surface_form	Balin
+9306_1	is_in_sentence	sentence_9306
+9306_1	ROOT	9306_1
+9306_1	has_surface_form	married
+9306_2	is_in_sentence	sentence_9306
+9306_2	compound	9306_3
+9306_2	has_surface_form	Karen
+9306_2	part_of_entity	Karen Deal
+9306_3	is_in_sentence	sentence_9306
+9306_3	dobj	9306_1
+9306_3	has_surface_form	Deal
+9306_3	part_of_entity	Karen Deal
+9306_4	is_in_sentence	sentence_9306
+9306_4	punct	9306_3
+9306_4	has_surface_form	,
+9306_5	is_in_sentence	sentence_9306
+9306_5	poss	9306_7
+9306_5	is_entity	Delaney
+9306_7	is_in_sentence	sentence_9306
+9306_7	appos	9306_3
+9306_7	has_surface_form	mother
+Delaney	surface_form	Delaney
+9306_6	is_in_sentence	sentence_9306
+9306_6	case	9306_5
+9306_6	has_surface_form	's
+9306_8	is_in_sentence	sentence_9306
+9306_8	punct	9306_1
+9306_8	has_surface_form	,
+9306_9	is_in_sentence	sentence_9306
+9306_9	prep	9306_1
+9306_9	has_surface_form	in
+9306_10	is_in_sentence	sentence_9306
+9306_10	pobj	9306_9
+9306_10	has_surface_form	1989
+9306_11	is_in_sentence	sentence_9306
+9306_11	punct	9306_1
+9306_11	has_surface_form	.
+9306_12	is_in_sentence	sentence_9306
+9306_12	dep	9306_12
+9306_12	has_surface_form	
+Karen Deal	surface_form	Karen Deal
+Karen Deal	has-child	Delaney

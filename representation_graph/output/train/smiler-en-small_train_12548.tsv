@@ -1,0 +1,76 @@
+12547_0	is_in_sentence	sentence_12547
+12547_0	det	12547_3
+12547_0	has_surface_form	The
+12547_0	part_of_entity	The Surface Transportation Board
+12547_3	is_in_sentence	sentence_12547
+12547_3	nsubj	12547_11
+12547_3	has_surface_form	Board
+12547_3	part_of_entity	The Surface Transportation Board
+12547_1	is_in_sentence	sentence_12547
+12547_1	compound	12547_3
+12547_1	has_surface_form	Surface
+12547_1	part_of_entity	The Surface Transportation Board
+12547_2	is_in_sentence	sentence_12547
+12547_2	compound	12547_3
+12547_2	has_surface_form	Transportation
+12547_2	part_of_entity	The Surface Transportation Board
+12547_11	is_in_sentence	sentence_12547
+12547_11	ROOT	12547_11
+12547_11	has_surface_form	is
+12547_4	is_in_sentence	sentence_12547
+12547_4	punct	12547_3
+12547_4	has_surface_form	(
+12547_5	is_in_sentence	sentence_12547
+12547_5	appos	12547_3
+12547_5	has_surface_form	STB
+12547_6	is_in_sentence	sentence_12547
+12547_6	punct	12547_3
+12547_6	has_surface_form	)
+12547_7	is_in_sentence	sentence_12547
+12547_7	prep	12547_3
+12547_7	has_surface_form	of
+12547_8	is_in_sentence	sentence_12547
+12547_8	det	12547_10
+12547_8	has_surface_form	the
+12547_10	is_in_sentence	sentence_12547
+12547_10	pobj	12547_7
+12547_10	has_surface_form	States
+12547_9	is_in_sentence	sentence_12547
+12547_9	compound	12547_10
+12547_9	has_surface_form	United
+12547_12	is_in_sentence	sentence_12547
+12547_12	det	12547_19
+12547_12	has_surface_form	a
+12547_19	is_in_sentence	sentence_12547
+12547_19	attr	12547_11
+12547_19	has_surface_form	board
+12547_19	part_of_entity	independent adjudicatory board
+12547_13	is_in_sentence	sentence_12547
+12547_13	amod	12547_19
+12547_13	has_surface_form	federal
+12547_14	is_in_sentence	sentence_12547
+12547_14	punct	12547_19
+12547_14	has_surface_form	,
+12547_15	is_in_sentence	sentence_12547
+12547_15	amod	12547_19
+12547_15	has_surface_form	bipartisan
+12547_16	is_in_sentence	sentence_12547
+12547_16	punct	12547_19
+12547_16	has_surface_form	,
+12547_17	is_in_sentence	sentence_12547
+12547_17	amod	12547_19
+12547_17	has_surface_form	independent
+12547_17	part_of_entity	independent adjudicatory board
+12547_18	is_in_sentence	sentence_12547
+12547_18	compound	12547_19
+12547_18	has_surface_form	adjudicatory
+12547_18	part_of_entity	independent adjudicatory board
+12547_20	is_in_sentence	sentence_12547
+12547_20	punct	12547_11
+12547_20	has_surface_form	.
+12547_21	is_in_sentence	sentence_12547
+12547_21	dep	12547_21
+12547_21	has_surface_form	
+The Surface Transportation Board	surface_form	The Surface Transportation Board
+The Surface Transportation Board	has-type	independent adjudicatory board
+independent adjudicatory board	surface_form	independent adjudicatory board

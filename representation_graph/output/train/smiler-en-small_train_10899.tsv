@@ -1,0 +1,67 @@
+10898_0	is_in_sentence	sentence_10898
+10898_0	compound	10898_1
+10898_0	has_surface_form	Little
+10898_0	part_of_entity	Little Walter
+10898_1	is_in_sentence	sentence_10898
+10898_1	poss	10898_3
+10898_1	has_surface_form	Walter
+10898_1	part_of_entity	Little Walter
+10898_3	is_in_sentence	sentence_10898
+10898_3	nsubj	10898_10
+10898_3	has_surface_form	daughter
+10898_2	is_in_sentence	sentence_10898
+10898_2	case	10898_1
+10898_2	has_surface_form	's
+10898_10	is_in_sentence	sentence_10898
+10898_10	ROOT	10898_10
+10898_10	has_surface_form	established
+10898_4	is_in_sentence	sentence_10898
+10898_4	punct	10898_3
+10898_4	has_surface_form	,
+10898_5	is_in_sentence	sentence_10898
+10898_5	compound	10898_7
+10898_5	has_surface_form	Marion
+10898_5	part_of_entity	Marion Diaz Reacco
+10898_7	is_in_sentence	sentence_10898
+10898_7	appos	10898_3
+10898_7	has_surface_form	Reacco
+10898_7	part_of_entity	Marion Diaz Reacco
+10898_6	is_in_sentence	sentence_10898
+10898_6	compound	10898_7
+10898_6	has_surface_form	Diaz
+10898_6	part_of_entity	Marion Diaz Reacco
+10898_8	is_in_sentence	sentence_10898
+10898_8	punct	10898_3
+10898_8	has_surface_form	,
+10898_9	is_in_sentence	sentence_10898
+10898_9	aux	10898_10
+10898_9	has_surface_form	has
+10898_11	is_in_sentence	sentence_10898
+10898_11	det	10898_14
+10898_11	has_surface_form	the
+10898_14	is_in_sentence	sentence_10898
+10898_14	dobj	10898_10
+10898_14	has_surface_form	Foundation
+10898_12	is_in_sentence	sentence_10898
+10898_12	compound	10898_13
+10898_12	has_surface_form	Little
+10898_12	part_of_entity	Little Walter
+10898_13	is_in_sentence	sentence_10898
+10898_13	compound	10898_14
+10898_13	has_surface_form	Walter
+10898_13	part_of_entity	Little Walter
+10898_15	is_in_sentence	sentence_10898
+10898_15	prep	10898_14
+10898_15	has_surface_form	in
+10898_16	is_in_sentence	sentence_10898
+10898_16	pobj	10898_15
+10898_16	has_surface_form	Chicago
+10898_17	is_in_sentence	sentence_10898
+10898_17	punct	10898_10
+10898_17	has_surface_form	.
+10898_18	is_in_sentence	sentence_10898
+10898_18	dep	10898_18
+10898_18	has_surface_form	
+Little Walter	surface_form	Little Walter
+Little Walter	has-child	Marion Diaz Reacco
+Marion Diaz Reacco	surface_form	Marion Diaz Reacco

@@ -1,0 +1,62 @@
+32152_0	is_in_sentence	sentence_32152
+32152_0	compound	32152_1
+32152_0	has_surface_form	Manolis
+32152_0	part_of_entity	Manolis Pratikakis
+32152_1	is_in_sentence	sentence_32152
+32152_1	nsubj	32152_11
+32152_1	has_surface_form	Pratikakis
+32152_1	part_of_entity	Manolis Pratikakis
+32152_11	is_in_sentence	sentence_32152
+32152_11	ROOT	32152_11
+32152_11	has_surface_form	is
+32152_2	is_in_sentence	sentence_32152
+32152_2	punct	32152_3
+32152_2	has_surface_form	(
+32152_3	is_in_sentence	sentence_32152
+32152_3	appos	32152_1
+32152_3	has_surface_form	Greek
+32152_4	is_in_sentence	sentence_32152
+32152_4	punct	32152_3
+32152_4	has_surface_form	:
+32152_5	is_in_sentence	sentence_32152
+32152_5	compound	32152_6
+32152_5	has_surface_form	Μανόλης
+32152_6	is_in_sentence	sentence_32152
+32152_6	appos	32152_3
+32152_6	has_surface_form	Πρατικάκης
+32152_7	is_in_sentence	sentence_32152
+32152_7	punct	32152_6
+32152_7	has_surface_form	;
+32152_8	is_in_sentence	sentence_32152
+32152_8	amod	32152_1
+32152_8	has_surface_form	born
+32152_9	is_in_sentence	sentence_32152
+32152_9	npadvmod	32152_8
+32152_9	has_surface_form	1943
+32152_10	is_in_sentence	sentence_32152
+32152_10	punct	32152_8
+32152_10	has_surface_form	)
+32152_12	is_in_sentence	sentence_32152
+32152_12	det	32152_13
+32152_12	has_surface_form	an
+32152_13	is_in_sentence	sentence_32152
+32152_13	attr	32152_11
+32152_13	has_surface_form	award
+32152_14	is_in_sentence	sentence_32152
+32152_14	acl	32152_13
+32152_14	has_surface_form	winning
+32152_15	is_in_sentence	sentence_32152
+32152_15	amod	32152_16
+32152_15	has_surface_form	Greek
+32152_16	is_in_sentence	sentence_32152
+32152_16	dobj	32152_14
+32152_16	is_entity	poet
+poet	surface_form	poet
+32152_17	is_in_sentence	sentence_32152
+32152_17	punct	32152_11
+32152_17	has_surface_form	.
+32152_18	is_in_sentence	sentence_32152
+32152_18	dep	32152_18
+32152_18	has_surface_form	
+Manolis Pratikakis	surface_form	Manolis Pratikakis
+Manolis Pratikakis	has-occupation	poet

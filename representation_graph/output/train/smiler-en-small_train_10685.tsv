@@ -1,0 +1,94 @@
+10684_0	is_in_sentence	sentence_10684
+10684_0	compound	10684_1
+10684_0	has_surface_form	Honeymoon
+10684_0	part_of_entity	Honeymoon Trip
+10684_1	is_in_sentence	sentence_10684
+10684_1	nsubj	10684_9
+10684_1	has_surface_form	Trip
+10684_1	part_of_entity	Honeymoon Trip
+10684_9	is_in_sentence	sentence_10684
+10684_9	ROOT	10684_9
+10684_9	has_surface_form	is
+10684_2	is_in_sentence	sentence_10684
+10684_2	punct	10684_3
+10684_2	has_surface_form	(
+10684_3	is_in_sentence	sentence_10684
+10684_3	appos	10684_1
+10684_3	has_surface_form	French
+10684_4	is_in_sentence	sentence_10684
+10684_4	punct	10684_3
+10684_4	has_surface_form	:
+10684_5	is_in_sentence	sentence_10684
+10684_5	compound	10684_7
+10684_5	has_surface_form	Voyage
+10684_7	is_in_sentence	sentence_10684
+10684_7	appos	10684_3
+10684_7	has_surface_form	noces
+10684_6	is_in_sentence	sentence_10684
+10684_6	compound	10684_7
+10684_6	has_surface_form	de
+10684_8	is_in_sentence	sentence_10684
+10684_8	punct	10684_3
+10684_8	has_surface_form	)
+10684_10	is_in_sentence	sentence_10684
+10684_10	det	10684_16
+10684_10	has_surface_form	a
+10684_16	is_in_sentence	sentence_10684
+10684_16	attr	10684_9
+10684_16	has_surface_form	film
+10684_11	is_in_sentence	sentence_10684
+10684_11	nummod	10684_16
+10684_11	has_surface_form	1933
+10684_12	is_in_sentence	sentence_10684
+10684_12	amod	10684_14
+10684_12	has_surface_form	Austrian
+10684_14	is_in_sentence	sentence_10684
+10684_14	amod	10684_16
+10684_14	has_surface_form	French
+10684_13	is_in_sentence	sentence_10684
+10684_13	punct	10684_14
+10684_13	has_surface_form	-
+10684_15	is_in_sentence	sentence_10684
+10684_15	compound	10684_16
+10684_15	has_surface_form	comedy
+10684_17	is_in_sentence	sentence_10684
+10684_17	acl	10684_16
+10684_17	has_surface_form	directed
+10684_18	is_in_sentence	sentence_10684
+10684_18	agent	10684_17
+10684_18	has_surface_form	by
+10684_19	is_in_sentence	sentence_10684
+10684_19	compound	10684_20
+10684_19	has_surface_form	Germain
+10684_20	is_in_sentence	sentence_10684
+10684_20	pobj	10684_18
+10684_20	has_surface_form	Fried
+10684_21	is_in_sentence	sentence_10684
+10684_21	punct	10684_20
+10684_21	has_surface_form	,
+10684_22	is_in_sentence	sentence_10684
+10684_22	compound	10684_23
+10684_22	has_surface_form	Joe
+10684_22	part_of_entity	Joe May
+10684_23	is_in_sentence	sentence_10684
+10684_23	appos	10684_20
+10684_23	has_surface_form	May
+10684_23	part_of_entity	Joe May
+10684_24	is_in_sentence	sentence_10684
+10684_24	cc	10684_23
+10684_24	has_surface_form	and
+10684_25	is_in_sentence	sentence_10684
+10684_25	compound	10684_26
+10684_25	has_surface_form	Erich
+10684_26	is_in_sentence	sentence_10684
+10684_26	conj	10684_23
+10684_26	has_surface_form	Schmidt
+10684_27	is_in_sentence	sentence_10684
+10684_27	punct	10684_9
+10684_27	has_surface_form	.
+10684_28	is_in_sentence	sentence_10684
+10684_28	dep	10684_9
+10684_28	has_surface_form	
+Honeymoon Trip	surface_form	Honeymoon Trip
+Honeymoon Trip	movie-has-director	Joe May
+Joe May	surface_form	Joe May

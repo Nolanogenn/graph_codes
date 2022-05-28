@@ -1,0 +1,47 @@
+27817_0	is_in_sentence	sentence_27817
+27817_0	det	27817_2
+27817_0	has_surface_form	The
+27817_2	is_in_sentence	sentence_27817
+27817_2	nsubjpass	27817_4
+27817_2	has_surface_form	telegraph
+27817_2	part_of_entity	printing telegraph
+27817_1	is_in_sentence	sentence_27817
+27817_1	compound	27817_2
+27817_1	has_surface_form	printing
+27817_1	part_of_entity	printing telegraph
+27817_4	is_in_sentence	sentence_27817
+27817_4	ROOT	27817_4
+27817_4	has_surface_form	invented
+27817_3	is_in_sentence	sentence_27817
+27817_3	auxpass	27817_4
+27817_3	has_surface_form	was
+27817_5	is_in_sentence	sentence_27817
+27817_5	agent	27817_4
+27817_5	has_surface_form	by
+27817_6	is_in_sentence	sentence_27817
+27817_6	compound	27817_8
+27817_6	has_surface_form	Royal
+27817_6	part_of_entity	Royal Earl House
+27817_8	is_in_sentence	sentence_27817
+27817_8	pobj	27817_5
+27817_8	has_surface_form	House
+27817_8	part_of_entity	Royal Earl House
+27817_7	is_in_sentence	sentence_27817
+27817_7	compound	27817_8
+27817_7	has_surface_form	Earl
+27817_7	part_of_entity	Royal Earl House
+27817_9	is_in_sentence	sentence_27817
+27817_9	prep	27817_4
+27817_9	has_surface_form	in
+27817_10	is_in_sentence	sentence_27817
+27817_10	pobj	27817_9
+27817_10	has_surface_form	1846
+27817_11	is_in_sentence	sentence_27817
+27817_11	punct	27817_4
+27817_11	has_surface_form	.
+27817_12	is_in_sentence	sentence_27817
+27817_12	dep	27817_12
+27817_12	has_surface_form	
+printing telegraph	surface_form	printing telegraph
+printing telegraph	invented-by	Royal Earl House
+Royal Earl House	surface_form	Royal Earl House

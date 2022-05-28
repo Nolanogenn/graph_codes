@@ -1,0 +1,88 @@
+8276_0	is_in_sentence	sentence_8276
+8276_0	compound	8276_1
+8276_0	has_surface_form	ENN
+8276_0	part_of_entity	ENN Group
+8276_1	is_in_sentence	sentence_8276
+8276_1	nsubj	8276_12
+8276_1	has_surface_form	Group
+8276_1	part_of_entity	ENN Group
+8276_12	is_in_sentence	sentence_8276
+8276_12	ROOT	8276_12
+8276_12	has_surface_form	is
+8276_2	is_in_sentence	sentence_8276
+8276_2	punct	8276_1
+8276_2	has_surface_form	(
+8276_3	is_in_sentence	sentence_8276
+8276_3	appos	8276_1
+8276_3	has_surface_form	Chinese
+8276_4	is_in_sentence	sentence_8276
+8276_4	punct	8276_5
+8276_4	has_surface_form	:
+8276_5	is_in_sentence	sentence_8276
+8276_5	appos	8276_3
+8276_5	has_surface_form	新奥集团
+8276_6	is_in_sentence	sentence_8276
+8276_6	punct	8276_5
+8276_6	has_surface_form	;
+8276_7	is_in_sentence	sentence_8276
+8276_7	conj	8276_5
+8276_7	has_surface_form	pinyin
+8276_8	is_in_sentence	sentence_8276
+8276_8	punct	8276_7
+8276_8	has_surface_form	:
+8276_9	is_in_sentence	sentence_8276
+8276_9	compound	8276_10
+8276_9	has_surface_form	Xīnào
+8276_10	is_in_sentence	sentence_8276
+8276_10	appos	8276_7
+8276_10	has_surface_form	Jítuán
+8276_11	is_in_sentence	sentence_8276
+8276_11	punct	8276_5
+8276_11	has_surface_form	)
+8276_13	is_in_sentence	sentence_8276
+8276_13	det	8276_16
+8276_13	has_surface_form	a
+8276_16	is_in_sentence	sentence_8276
+8276_16	attr	8276_12
+8276_16	has_surface_form	company
+8276_16	part_of_entity	energy company
+8276_14	is_in_sentence	sentence_8276
+8276_14	amod	8276_16
+8276_14	has_surface_form	Chinese
+8276_15	is_in_sentence	sentence_8276
+8276_15	compound	8276_16
+8276_15	has_surface_form	energy
+8276_15	part_of_entity	energy company
+8276_17	is_in_sentence	sentence_8276
+8276_17	cc	8276_16
+8276_17	has_surface_form	and
+8276_18	is_in_sentence	sentence_8276
+8276_18	conj	8276_16
+8276_18	has_surface_form	one
+8276_19	is_in_sentence	sentence_8276
+8276_19	prep	8276_18
+8276_19	has_surface_form	of
+8276_20	is_in_sentence	sentence_8276
+8276_20	poss	8276_24
+8276_20	has_surface_form	China
+8276_24	is_in_sentence	sentence_8276
+8276_24	pobj	8276_19
+8276_24	has_surface_form	companies
+8276_21	is_in_sentence	sentence_8276
+8276_21	case	8276_20
+8276_21	has_surface_form	's
+8276_22	is_in_sentence	sentence_8276
+8276_22	amod	8276_24
+8276_22	has_surface_form	largest
+8276_23	is_in_sentence	sentence_8276
+8276_23	amod	8276_24
+8276_23	has_surface_form	private
+8276_25	is_in_sentence	sentence_8276
+8276_25	punct	8276_12
+8276_25	has_surface_form	.
+8276_26	is_in_sentence	sentence_8276
+8276_26	dep	8276_26
+8276_26	has_surface_form	
+ENN Group	surface_form	ENN Group
+ENN Group	has-type	energy company
+energy company	surface_form	energy company

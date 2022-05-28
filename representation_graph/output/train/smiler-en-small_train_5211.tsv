@@ -1,0 +1,77 @@
+5210_0	is_in_sentence	sentence_5210
+5210_0	det	5210_2
+5210_0	has_surface_form	The
+5210_2	is_in_sentence	sentence_5210
+5210_2	nsubjpass	5210_4
+5210_2	has_surface_form	Typewriter
+5210_2	part_of_entity	Blickensderfer Typewriter
+5210_1	is_in_sentence	sentence_5210
+5210_1	compound	5210_2
+5210_1	has_surface_form	Blickensderfer
+5210_1	part_of_entity	Blickensderfer Typewriter
+5210_4	is_in_sentence	sentence_5210
+5210_4	ROOT	5210_4
+5210_4	has_surface_form	invented
+5210_3	is_in_sentence	sentence_5210
+5210_3	auxpass	5210_4
+5210_3	has_surface_form	was
+5210_5	is_in_sentence	sentence_5210
+5210_5	agent	5210_4
+5210_5	has_surface_form	by
+5210_6	is_in_sentence	sentence_5210
+5210_6	compound	5210_8
+5210_6	has_surface_form	George
+5210_6	part_of_entity	George Canfield Blickensderfer
+5210_8	is_in_sentence	sentence_5210
+5210_8	pobj	5210_5
+5210_8	has_surface_form	Blickensderfer
+5210_8	part_of_entity	George Canfield Blickensderfer
+5210_7	is_in_sentence	sentence_5210
+5210_7	compound	5210_8
+5210_7	has_surface_form	Canfield
+5210_7	part_of_entity	George Canfield Blickensderfer
+5210_9	is_in_sentence	sentence_5210
+5210_9	punct	5210_8
+5210_9	has_surface_form	(
+5210_10	is_in_sentence	sentence_5210
+5210_10	appos	5210_8
+5210_10	has_surface_form	1850
+5210_11	is_in_sentence	sentence_5210
+5210_11	punct	5210_12
+5210_11	has_surface_form	-
+5210_12	is_in_sentence	sentence_5210
+5210_12	prep	5210_10
+5210_12	has_surface_form	1917
+5210_13	is_in_sentence	sentence_5210
+5210_13	punct	5210_8
+5210_13	has_surface_form	)
+5210_14	is_in_sentence	sentence_5210
+5210_14	cc	5210_4
+5210_14	has_surface_form	and
+5210_15	is_in_sentence	sentence_5210
+5210_15	conj	5210_4
+5210_15	has_surface_form	patented
+5210_16	is_in_sentence	sentence_5210
+5210_16	prep	5210_15
+5210_16	has_surface_form	on
+5210_17	is_in_sentence	sentence_5210
+5210_17	pobj	5210_16
+5210_17	has_surface_form	August
+5210_18	is_in_sentence	sentence_5210
+5210_18	nummod	5210_17
+5210_18	has_surface_form	4
+5210_19	is_in_sentence	sentence_5210
+5210_19	punct	5210_17
+5210_19	has_surface_form	,
+5210_20	is_in_sentence	sentence_5210
+5210_20	nummod	5210_17
+5210_20	has_surface_form	1891
+5210_21	is_in_sentence	sentence_5210
+5210_21	punct	5210_4
+5210_21	has_surface_form	.
+5210_22	is_in_sentence	sentence_5210
+5210_22	dep	5210_22
+5210_22	has_surface_form	
+Blickensderfer Typewriter	surface_form	Blickensderfer Typewriter
+Blickensderfer Typewriter	invented-by	George Canfield Blickensderfer
+George Canfield Blickensderfer	surface_form	George Canfield Blickensderfer

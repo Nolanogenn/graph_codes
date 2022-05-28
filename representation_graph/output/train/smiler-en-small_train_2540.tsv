@@ -1,0 +1,62 @@
+2539_0	is_in_sentence	sentence_2539
+2539_0	compound	2539_1
+2539_0	has_surface_form	Gerasimos
+2539_0	part_of_entity	Gerasimos Skiadaresis
+2539_1	is_in_sentence	sentence_2539
+2539_1	nsubj	2539_13
+2539_1	has_surface_form	Skiadaresis
+2539_1	part_of_entity	Gerasimos Skiadaresis
+2539_13	is_in_sentence	sentence_2539
+2539_13	ROOT	2539_13
+2539_13	has_surface_form	is
+2539_2	is_in_sentence	sentence_2539
+2539_2	punct	2539_1
+2539_2	has_surface_form	(
+2539_3	is_in_sentence	sentence_2539
+2539_3	appos	2539_1
+2539_3	has_surface_form	Greek
+2539_4	is_in_sentence	sentence_2539
+2539_4	punct	2539_3
+2539_4	has_surface_form	:
+2539_5	is_in_sentence	sentence_2539
+2539_5	compound	2539_6
+2539_5	has_surface_form	Γεράσιμος
+2539_6	is_in_sentence	sentence_2539
+2539_6	appos	2539_3
+2539_6	has_surface_form	Σκιαδαρέσης
+2539_7	is_in_sentence	sentence_2539
+2539_7	punct	2539_6
+2539_7	has_surface_form	,
+2539_8	is_in_sentence	sentence_2539
+2539_8	appos	2539_6
+2539_8	has_surface_form	b.
+2539_9	is_in_sentence	sentence_2539
+2539_9	nummod	2539_8
+2539_9	has_surface_form	1960
+2539_10	is_in_sentence	sentence_2539
+2539_10	prep	2539_8
+2539_10	has_surface_form	in
+2539_11	is_in_sentence	sentence_2539
+2539_11	pobj	2539_10
+2539_11	is_entity	Patras
+Patras	surface_form	Patras
+2539_12	is_in_sentence	sentence_2539
+2539_12	punct	2539_6
+2539_12	has_surface_form	)
+2539_14	is_in_sentence	sentence_2539
+2539_14	det	2539_16
+2539_14	has_surface_form	a
+2539_16	is_in_sentence	sentence_2539
+2539_16	attr	2539_13
+2539_16	has_surface_form	actor
+2539_15	is_in_sentence	sentence_2539
+2539_15	amod	2539_16
+2539_15	has_surface_form	Greek
+2539_17	is_in_sentence	sentence_2539
+2539_17	punct	2539_13
+2539_17	has_surface_form	.
+2539_18	is_in_sentence	sentence_2539
+2539_18	dep	2539_13
+2539_18	has_surface_form	
+Gerasimos Skiadaresis	surface_form	Gerasimos Skiadaresis
+Gerasimos Skiadaresis	birth-place	Patras

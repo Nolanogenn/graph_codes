@@ -1,0 +1,61 @@
+32403_0	is_in_sentence	sentence_32403
+32403_0	compound	32403_1
+32403_0	has_surface_form	Brambletye
+32403_0	part_of_entity	Brambletye School
+32403_1	is_in_sentence	sentence_32403
+32403_1	nsubj	32403_2
+32403_1	has_surface_form	School
+32403_1	part_of_entity	Brambletye School
+32403_2	is_in_sentence	sentence_32403
+32403_2	ROOT	32403_2
+32403_2	has_surface_form	is
+32403_3	is_in_sentence	sentence_32403
+32403_3	det	32403_5
+32403_3	has_surface_form	a
+32403_5	is_in_sentence	sentence_32403
+32403_5	attr	32403_2
+32403_5	has_surface_form	day
+32403_4	is_in_sentence	sentence_32403
+32403_4	amod	32403_5
+32403_4	has_surface_form	coeducational
+32403_6	is_in_sentence	sentence_32403
+32403_6	cc	32403_5
+32403_6	has_surface_form	and
+32403_7	is_in_sentence	sentence_32403
+32403_7	amod	32403_9
+32403_7	has_surface_form	boarding
+32403_9	is_in_sentence	sentence_32403
+32403_9	conj	32403_5
+32403_9	has_surface_form	school
+32403_8	is_in_sentence	sentence_32403
+32403_8	amod	32403_9
+32403_8	has_surface_form	preparatory
+32403_10	is_in_sentence	sentence_32403
+32403_10	prep	32403_9
+32403_10	has_surface_form	in
+32403_11	is_in_sentence	sentence_32403
+32403_11	compound	32403_12
+32403_11	has_surface_form	East
+32403_11	part_of_entity	East Grinstead
+32403_12	is_in_sentence	sentence_32403
+32403_12	pobj	32403_10
+32403_12	has_surface_form	Grinstead
+32403_12	part_of_entity	East Grinstead
+32403_13	is_in_sentence	sentence_32403
+32403_13	punct	32403_12
+32403_13	has_surface_form	,
+32403_14	is_in_sentence	sentence_32403
+32403_14	compound	32403_15
+32403_14	has_surface_form	West
+32403_15	is_in_sentence	sentence_32403
+32403_15	appos	32403_12
+32403_15	has_surface_form	Sussex
+32403_16	is_in_sentence	sentence_32403
+32403_16	punct	32403_2
+32403_16	has_surface_form	.
+32403_17	is_in_sentence	sentence_32403
+32403_17	dep	32403_2
+32403_17	has_surface_form	
+Brambletye School	surface_form	Brambletye School
+Brambletye School	is-where	East Grinstead
+East Grinstead	surface_form	East Grinstead

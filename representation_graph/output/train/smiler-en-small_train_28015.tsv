@@ -1,0 +1,103 @@
+28014_0	is_in_sentence	sentence_28014
+28014_0	compound	28014_1
+28014_0	has_surface_form	King
+28014_0	part_of_entity	King Arthur Was a Gentleman
+28014_1	is_in_sentence	sentence_28014
+28014_1	nsubj	28014_2
+28014_1	has_surface_form	Arthur
+28014_1	part_of_entity	King Arthur Was a Gentleman
+28014_2	is_in_sentence	sentence_28014
+28014_2	ROOT	28014_2
+28014_2	has_surface_form	Was
+28014_2	part_of_entity	King Arthur Was a Gentleman
+28014_3	is_in_sentence	sentence_28014
+28014_3	det	28014_4
+28014_3	has_surface_form	a
+28014_3	part_of_entity	King Arthur Was a Gentleman
+28014_4	is_in_sentence	sentence_28014
+28014_4	attr	28014_2
+28014_4	has_surface_form	Gentleman
+28014_4	part_of_entity	King Arthur Was a Gentleman
+28014_5	is_in_sentence	sentence_28014
+28014_5	conj	28014_2
+28014_5	has_surface_form	is
+28014_6	is_in_sentence	sentence_28014
+28014_6	det	28014_19
+28014_6	has_surface_form	a
+28014_19	is_in_sentence	sentence_28014
+28014_19	attr	28014_5
+28014_19	has_surface_form	film
+28014_7	is_in_sentence	sentence_28014
+28014_7	nummod	28014_16
+28014_7	has_surface_form	1942
+28014_16	is_in_sentence	sentence_28014
+28014_16	nmod	28014_19
+28014_16	has_surface_form	comedy
+28014_8	is_in_sentence	sentence_28014
+28014_8	amod	28014_16
+28014_8	has_surface_form	British
+28014_9	is_in_sentence	sentence_28014
+28014_9	punct	28014_16
+28014_9	has_surface_form	,
+28014_10	is_in_sentence	sentence_28014
+28014_10	amod	28014_16
+28014_10	has_surface_form	black
+28014_11	is_in_sentence	sentence_28014
+28014_11	punct	28014_10
+28014_11	has_surface_form	-
+28014_12	is_in_sentence	sentence_28014
+28014_12	cc	28014_10
+28014_12	has_surface_form	and
+28014_13	is_in_sentence	sentence_28014
+28014_13	punct	28014_14
+28014_13	has_surface_form	-
+28014_14	is_in_sentence	sentence_28014
+28014_14	conj	28014_10
+28014_14	has_surface_form	white
+28014_15	is_in_sentence	sentence_28014
+28014_15	punct	28014_16
+28014_15	has_surface_form	,
+28014_17	is_in_sentence	sentence_28014
+28014_17	punct	28014_16
+28014_17	has_surface_form	,
+28014_18	is_in_sentence	sentence_28014
+28014_18	amod	28014_19
+28014_18	has_surface_form	musical
+28014_20	is_in_sentence	sentence_28014
+28014_20	punct	28014_19
+28014_20	has_surface_form	,
+28014_21	is_in_sentence	sentence_28014
+28014_21	acl	28014_19
+28014_21	has_surface_form	directed
+28014_22	is_in_sentence	sentence_28014
+28014_22	agent	28014_21
+28014_22	has_surface_form	by
+28014_23	is_in_sentence	sentence_28014
+28014_23	compound	28014_24
+28014_23	has_surface_form	Marcel
+28014_23	part_of_entity	Marcel Varnel
+28014_24	is_in_sentence	sentence_28014
+28014_24	pobj	28014_22
+28014_24	has_surface_form	Varnel
+28014_24	part_of_entity	Marcel Varnel
+28014_25	is_in_sentence	sentence_28014
+28014_25	cc	28014_21
+28014_25	has_surface_form	and
+28014_26	is_in_sentence	sentence_28014
+28014_26	conj	28014_21
+28014_26	has_surface_form	starring
+28014_27	is_in_sentence	sentence_28014
+28014_27	compound	28014_28
+28014_27	has_surface_form	Arthur
+28014_28	is_in_sentence	sentence_28014
+28014_28	dobj	28014_26
+28014_28	has_surface_form	Askey
+28014_29	is_in_sentence	sentence_28014
+28014_29	punct	28014_2
+28014_29	has_surface_form	.
+28014_30	is_in_sentence	sentence_28014
+28014_30	dep	28014_30
+28014_30	has_surface_form	
+King Arthur Was a Gentleman	surface_form	King Arthur Was a Gentleman
+King Arthur Was a Gentleman	movie-has-director	Marcel Varnel
+Marcel Varnel	surface_form	Marcel Varnel

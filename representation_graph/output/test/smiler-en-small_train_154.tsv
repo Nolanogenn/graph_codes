@@ -1,0 +1,52 @@
+153_0	is_in_sentence	sentence_153
+153_0	compound	153_1
+153_0	has_surface_form	King
+153_0	part_of_entity	King penguins
+153_1	is_in_sentence	sentence_153
+153_1	nsubj	153_2
+153_1	has_surface_form	penguins
+153_1	part_of_entity	King penguins
+153_2	is_in_sentence	sentence_153
+153_2	ROOT	153_2
+153_2	has_surface_form	eat
+153_3	is_in_sentence	sentence_153
+153_3	amod	153_4
+153_3	has_surface_form	various
+153_4	is_in_sentence	sentence_153
+153_4	dobj	153_2
+153_4	has_surface_form	species
+153_5	is_in_sentence	sentence_153
+153_5	prep	153_4
+153_5	has_surface_form	of
+153_6	is_in_sentence	sentence_153
+153_6	amod	153_7
+153_6	has_surface_form	small
+153_6	part_of_entity	small fish
+153_7	is_in_sentence	sentence_153
+153_7	pobj	153_5
+153_7	has_surface_form	fish
+153_7	part_of_entity	small fish
+153_8	is_in_sentence	sentence_153
+153_8	punct	153_7
+153_8	has_surface_form	,
+153_9	is_in_sentence	sentence_153
+153_9	conj	153_7
+153_9	has_surface_form	squid
+153_10	is_in_sentence	sentence_153
+153_10	punct	153_9
+153_10	has_surface_form	,
+153_11	is_in_sentence	sentence_153
+153_11	cc	153_9
+153_11	has_surface_form	and
+153_12	is_in_sentence	sentence_153
+153_12	conj	153_9
+153_12	has_surface_form	krill
+153_13	is_in_sentence	sentence_153
+153_13	punct	153_2
+153_13	has_surface_form	.
+153_14	is_in_sentence	sentence_153
+153_14	dep	153_14
+153_14	has_surface_form	
+King penguins	surface_form	King penguins
+King penguins	eats	small fish
+small fish	surface_form	small fish

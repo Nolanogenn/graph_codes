@@ -1,0 +1,48 @@
+14835_0	is_in_sentence	sentence_14835
+14835_0	compound	14835_2
+14835_0	has_surface_form	William
+14835_0	part_of_entity	William Boyd Stewart
+14835_2	is_in_sentence	sentence_14835
+14835_2	nsubjpass	14835_4
+14835_2	has_surface_form	Stewart
+14835_2	part_of_entity	William Boyd Stewart
+14835_1	is_in_sentence	sentence_14835
+14835_1	compound	14835_2
+14835_1	has_surface_form	Boyd
+14835_1	part_of_entity	William Boyd Stewart
+14835_4	is_in_sentence	sentence_14835
+14835_4	ROOT	14835_4
+14835_4	has_surface_form	born
+14835_3	is_in_sentence	sentence_14835
+14835_3	auxpass	14835_4
+14835_3	has_surface_form	was
+14835_5	is_in_sentence	sentence_14835
+14835_5	det	14835_6
+14835_5	has_surface_form	the
+14835_6	is_in_sentence	sentence_14835
+14835_6	oprd	14835_4
+14835_6	has_surface_form	son
+14835_7	is_in_sentence	sentence_14835
+14835_7	prep	14835_6
+14835_7	has_surface_form	of
+14835_8	is_in_sentence	sentence_14835
+14835_8	pobj	14835_7
+14835_8	is_entity	Alexander
+Alexander	surface_form	Alexander
+14835_9	is_in_sentence	sentence_14835
+14835_9	cc	14835_8
+14835_9	has_surface_form	and
+14835_10	is_in_sentence	sentence_14835
+14835_10	compound	14835_11
+14835_10	has_surface_form	Jane
+14835_11	is_in_sentence	sentence_14835
+14835_11	conj	14835_8
+14835_11	has_surface_form	Stewart
+14835_12	is_in_sentence	sentence_14835
+14835_12	punct	14835_4
+14835_12	has_surface_form	.
+14835_13	is_in_sentence	sentence_14835
+14835_13	dep	14835_13
+14835_13	has_surface_form	
+William Boyd Stewart	surface_form	William Boyd Stewart
+William Boyd Stewart	has-parent	Alexander

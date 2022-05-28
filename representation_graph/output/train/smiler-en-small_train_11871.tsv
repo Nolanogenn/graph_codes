@@ -1,0 +1,56 @@
+11870_0	is_in_sentence	sentence_11870
+11870_0	compound	11870_1
+11870_0	has_surface_form	Jason
+11870_0	part_of_entity	Jason Spevack
+11870_1	is_in_sentence	sentence_11870
+11870_1	nsubj	11870_9
+11870_1	has_surface_form	Spevack
+11870_1	part_of_entity	Jason Spevack
+11870_9	is_in_sentence	sentence_11870
+11870_9	ROOT	11870_9
+11870_9	has_surface_form	is
+11870_2	is_in_sentence	sentence_11870
+11870_2	punct	11870_1
+11870_2	has_surface_form	(
+11870_3	is_in_sentence	sentence_11870
+11870_3	acl	11870_1
+11870_3	has_surface_form	born
+11870_4	is_in_sentence	sentence_11870
+11870_4	npadvmod	11870_3
+11870_4	has_surface_form	July
+11870_5	is_in_sentence	sentence_11870
+11870_5	nummod	11870_4
+11870_5	has_surface_form	4
+11870_6	is_in_sentence	sentence_11870
+11870_6	punct	11870_4
+11870_6	has_surface_form	,
+11870_7	is_in_sentence	sentence_11870
+11870_7	nummod	11870_4
+11870_7	has_surface_form	1997
+11870_8	is_in_sentence	sentence_11870
+11870_8	punct	11870_1
+11870_8	has_surface_form	)
+11870_10	is_in_sentence	sentence_11870
+11870_10	det	11870_12
+11870_10	has_surface_form	a
+11870_12	is_in_sentence	sentence_11870
+11870_12	attr	11870_9
+11870_12	is_entity	actor
+11870_11	is_in_sentence	sentence_11870
+11870_11	amod	11870_12
+11870_11	has_surface_form	Canadian
+actor	surface_form	actor
+11870_13	is_in_sentence	sentence_11870
+11870_13	cc	11870_12
+11870_13	has_surface_form	and
+11870_14	is_in_sentence	sentence_11870
+11870_14	conj	11870_12
+11870_14	has_surface_form	filmmaker
+11870_15	is_in_sentence	sentence_11870
+11870_15	punct	11870_9
+11870_15	has_surface_form	.
+11870_16	is_in_sentence	sentence_11870
+11870_16	dep	11870_16
+11870_16	has_surface_form	
+Jason Spevack	surface_form	Jason Spevack
+Jason Spevack	has-occupation	actor

@@ -1,0 +1,82 @@
+3835_0	is_in_sentence	sentence_3835
+3835_0	det	3835_4
+3835_0	has_surface_form	The
+3835_4	is_in_sentence	sentence_3835
+3835_4	nsubj	3835_8
+3835_4	has_surface_form	Forces
+3835_4	part_of_entity	United Kingdom Special Forces
+3835_1	is_in_sentence	sentence_3835
+3835_1	compound	3835_2
+3835_1	has_surface_form	United
+3835_1	part_of_entity	United Kingdom Special Forces
+3835_2	is_in_sentence	sentence_3835
+3835_2	compound	3835_4
+3835_2	has_surface_form	Kingdom
+3835_2	part_of_entity	United Kingdom Special Forces
+3835_3	is_in_sentence	sentence_3835
+3835_3	compound	3835_4
+3835_3	has_surface_form	Special
+3835_3	part_of_entity	United Kingdom Special Forces
+3835_8	is_in_sentence	sentence_3835
+3835_8	ROOT	3835_8
+3835_8	has_surface_form	is
+3835_5	is_in_sentence	sentence_3835
+3835_5	punct	3835_6
+3835_5	has_surface_form	(
+3835_6	is_in_sentence	sentence_3835
+3835_6	appos	3835_4
+3835_6	has_surface_form	UKSF
+3835_7	is_in_sentence	sentence_3835
+3835_7	punct	3835_6
+3835_7	has_surface_form	)
+3835_9	is_in_sentence	sentence_3835
+3835_9	det	3835_13
+3835_9	has_surface_form	a
+3835_13	is_in_sentence	sentence_3835
+3835_13	attr	3835_8
+3835_13	is_entity	directorate
+3835_10	is_in_sentence	sentence_3835
+3835_10	nmod	3835_13
+3835_10	has_surface_form	Ministry
+3835_11	is_in_sentence	sentence_3835
+3835_11	prep	3835_10
+3835_11	has_surface_form	of
+3835_12	is_in_sentence	sentence_3835
+3835_12	pobj	3835_11
+3835_12	has_surface_form	Defence
+directorate	surface_form	directorate
+3835_14	is_in_sentence	sentence_3835
+3835_14	nsubj	3835_15
+3835_14	has_surface_form	that
+3835_15	is_in_sentence	sentence_3835
+3835_15	relcl	3835_13
+3835_15	has_surface_form	provides
+3835_16	is_in_sentence	sentence_3835
+3835_16	det	3835_22
+3835_16	has_surface_form	a
+3835_22	is_in_sentence	sentence_3835
+3835_22	dobj	3835_15
+3835_22	has_surface_form	headquarters
+3835_17	is_in_sentence	sentence_3835
+3835_17	amod	3835_19
+3835_17	has_surface_form	joint
+3835_19	is_in_sentence	sentence_3835
+3835_19	compound	3835_22
+3835_19	has_surface_form	operations
+3835_18	is_in_sentence	sentence_3835
+3835_18	amod	3835_19
+3835_18	has_surface_form	special
+3835_20	is_in_sentence	sentence_3835
+3835_20	compound	3835_21
+3835_20	has_surface_form	task
+3835_21	is_in_sentence	sentence_3835
+3835_21	compound	3835_22
+3835_21	has_surface_form	force
+3835_23	is_in_sentence	sentence_3835
+3835_23	punct	3835_8
+3835_23	has_surface_form	.
+3835_24	is_in_sentence	sentence_3835
+3835_24	dep	3835_8
+3835_24	has_surface_form	
+United Kingdom Special Forces	surface_form	United Kingdom Special Forces
+United Kingdom Special Forces	has-type	directorate

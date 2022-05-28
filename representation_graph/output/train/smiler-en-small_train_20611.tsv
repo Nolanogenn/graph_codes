@@ -1,0 +1,62 @@
+20610_0	is_in_sentence	sentence_20610
+20610_0	poss	20610_2
+20610_0	has_surface_form	Hawn
+20610_2	is_in_sentence	sentence_20610
+20610_2	nsubj	20610_11
+20610_2	has_surface_form	daughter
+20610_1	is_in_sentence	sentence_20610
+20610_1	case	20610_0
+20610_1	has_surface_form	's
+20610_11	is_in_sentence	sentence_20610
+20610_11	ROOT	20610_11
+20610_11	has_surface_form	considers
+20610_3	is_in_sentence	sentence_20610
+20610_3	prep	20610_2
+20610_3	has_surface_form	with
+20610_4	is_in_sentence	sentence_20610
+20610_4	compound	20610_5
+20610_4	has_surface_form	Bill
+20610_5	is_in_sentence	sentence_20610
+20610_5	pobj	20610_3
+20610_5	has_surface_form	Hudson
+20610_6	is_in_sentence	sentence_20610
+20610_6	punct	20610_2
+20610_6	has_surface_form	,
+20610_7	is_in_sentence	sentence_20610
+20610_7	compound	20610_9
+20610_7	has_surface_form	actress
+20610_9	is_in_sentence	sentence_20610
+20610_9	appos	20610_2
+20610_9	has_surface_form	Hudson
+20610_9	part_of_entity	Kate Hudson
+20610_8	is_in_sentence	sentence_20610
+20610_8	compound	20610_9
+20610_8	has_surface_form	Kate
+20610_8	part_of_entity	Kate Hudson
+20610_10	is_in_sentence	sentence_20610
+20610_10	punct	20610_2
+20610_10	has_surface_form	,
+20610_12	is_in_sentence	sentence_20610
+20610_12	nsubj	20610_14
+20610_12	is_entity	Russell
+20610_14	is_in_sentence	sentence_20610
+20610_14	ccomp	20610_11
+20610_14	has_surface_form	be
+Russell	surface_form	Russell
+Russell	has-child	Kate Hudson
+20610_13	is_in_sentence	sentence_20610
+20610_13	aux	20610_14
+20610_13	has_surface_form	to
+20610_15	is_in_sentence	sentence_20610
+20610_15	poss	20610_16
+20610_15	has_surface_form	her
+20610_16	is_in_sentence	sentence_20610
+20610_16	attr	20610_14
+20610_16	has_surface_form	father
+20610_17	is_in_sentence	sentence_20610
+20610_17	punct	20610_11
+20610_17	has_surface_form	.
+20610_18	is_in_sentence	sentence_20610
+20610_18	dep	20610_18
+20610_18	has_surface_form	
+Kate Hudson	surface_form	Kate Hudson

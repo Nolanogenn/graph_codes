@@ -1,0 +1,50 @@
+512_0	is_in_sentence	sentence_512
+512_0	nsubjpass	512_2
+512_0	is_entity	Landseer
+512_2	is_in_sentence	sentence_512
+512_2	ROOT	512_2
+512_2	has_surface_form	born
+Landseer	surface_form	Landseer
+Landseer	has-parent	John Landseer
+512_1	is_in_sentence	sentence_512
+512_1	auxpass	512_2
+512_1	has_surface_form	was
+512_3	is_in_sentence	sentence_512
+512_3	prep	512_2
+512_3	has_surface_form	in
+512_4	is_in_sentence	sentence_512
+512_4	pobj	512_3
+512_4	has_surface_form	London
+512_5	is_in_sentence	sentence_512
+512_5	punct	512_4
+512_5	has_surface_form	,
+512_6	is_in_sentence	sentence_512
+512_6	det	512_7
+512_6	has_surface_form	the
+512_7	is_in_sentence	sentence_512
+512_7	appos	512_4
+512_7	has_surface_form	son
+512_8	is_in_sentence	sentence_512
+512_8	prep	512_7
+512_8	has_surface_form	of
+512_9	is_in_sentence	sentence_512
+512_9	det	512_10
+512_9	has_surface_form	the
+512_10	is_in_sentence	sentence_512
+512_10	pobj	512_8
+512_10	has_surface_form	engraver
+512_11	is_in_sentence	sentence_512
+512_11	compound	512_12
+512_11	has_surface_form	John
+512_11	part_of_entity	John Landseer
+512_12	is_in_sentence	sentence_512
+512_12	pobj	512_8
+512_12	is_entity	Landseer
+512_12	part_of_entity	John Landseer
+512_13	is_in_sentence	sentence_512
+512_13	punct	512_2
+512_13	has_surface_form	.
+512_14	is_in_sentence	sentence_512
+512_14	dep	512_2
+512_14	has_surface_form	
+John Landseer	surface_form	John Landseer

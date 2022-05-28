@@ -1,0 +1,67 @@
+26124_0	is_in_sentence	sentence_26124
+26124_0	compound	26124_1
+26124_0	has_surface_form	Brent
+26124_0	part_of_entity	Brent Guy
+26124_1	is_in_sentence	sentence_26124
+26124_1	nsubj	26124_9
+26124_1	has_surface_form	Guy
+26124_1	part_of_entity	Brent Guy
+26124_9	is_in_sentence	sentence_26124
+26124_9	ROOT	26124_9
+26124_9	has_surface_form	is
+26124_2	is_in_sentence	sentence_26124
+26124_2	punct	26124_1
+26124_2	has_surface_form	(
+26124_3	is_in_sentence	sentence_26124
+26124_3	acl	26124_1
+26124_3	has_surface_form	born
+26124_4	is_in_sentence	sentence_26124
+26124_4	npadvmod	26124_3
+26124_4	has_surface_form	September
+26124_5	is_in_sentence	sentence_26124
+26124_5	nummod	26124_4
+26124_5	has_surface_form	5
+26124_6	is_in_sentence	sentence_26124
+26124_6	punct	26124_4
+26124_6	has_surface_form	,
+26124_7	is_in_sentence	sentence_26124
+26124_7	nummod	26124_4
+26124_7	has_surface_form	1960
+26124_8	is_in_sentence	sentence_26124
+26124_8	punct	26124_1
+26124_8	has_surface_form	)
+26124_10	is_in_sentence	sentence_26124
+26124_10	det	26124_14
+26124_10	has_surface_form	an
+26124_14	is_in_sentence	sentence_26124
+26124_14	attr	26124_9
+26124_14	has_surface_form	coach
+26124_14	part_of_entity	football coach
+26124_11	is_in_sentence	sentence_26124
+26124_11	amod	26124_14
+26124_11	has_surface_form	American
+26124_12	is_in_sentence	sentence_26124
+26124_12	compound	26124_13
+26124_12	has_surface_form	college
+26124_13	is_in_sentence	sentence_26124
+26124_13	compound	26124_14
+26124_13	has_surface_form	football
+26124_13	part_of_entity	football coach
+26124_15	is_in_sentence	sentence_26124
+26124_15	cc	26124_14
+26124_15	has_surface_form	and
+26124_16	is_in_sentence	sentence_26124
+26124_16	amod	26124_17
+26124_16	has_surface_form	former
+26124_17	is_in_sentence	sentence_26124
+26124_17	conj	26124_14
+26124_17	has_surface_form	player
+26124_18	is_in_sentence	sentence_26124
+26124_18	punct	26124_9
+26124_18	has_surface_form	.
+26124_19	is_in_sentence	sentence_26124
+26124_19	dep	26124_19
+26124_19	has_surface_form	
+Brent Guy	surface_form	Brent Guy
+Brent Guy	has-type	football coach
+football coach	surface_form	football coach

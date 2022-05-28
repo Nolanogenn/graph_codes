@@ -1,0 +1,62 @@
+27483_0	is_in_sentence	sentence_27483
+27483_0	compound	27483_1
+27483_0	has_surface_form	Christopher
+27483_0	part_of_entity	Christopher Ride
+27483_1	is_in_sentence	sentence_27483
+27483_1	nsubj	27483_10
+27483_1	has_surface_form	Ride
+27483_1	part_of_entity	Christopher Ride
+27483_10	is_in_sentence	sentence_27483
+27483_10	ROOT	27483_10
+27483_10	has_surface_form	is
+27483_2	is_in_sentence	sentence_27483
+27483_2	punct	27483_3
+27483_2	has_surface_form	(
+27483_3	is_in_sentence	sentence_27483
+27483_3	acl	27483_1
+27483_3	has_surface_form	born
+27483_4	is_in_sentence	sentence_27483
+27483_4	npadvmod	27483_3
+27483_4	has_surface_form	1965
+27483_5	is_in_sentence	sentence_27483
+27483_5	prep	27483_3
+27483_5	has_surface_form	in
+27483_6	is_in_sentence	sentence_27483
+27483_6	pobj	27483_5
+27483_6	has_surface_form	Canberra
+27483_7	is_in_sentence	sentence_27483
+27483_7	punct	27483_6
+27483_7	has_surface_form	,
+27483_8	is_in_sentence	sentence_27483
+27483_8	appos	27483_6
+27483_8	has_surface_form	Australia
+27483_9	is_in_sentence	sentence_27483
+27483_9	punct	27483_6
+27483_9	has_surface_form	)
+27483_11	is_in_sentence	sentence_27483
+27483_11	det	27483_13
+27483_11	has_surface_form	a
+27483_13	is_in_sentence	sentence_27483
+27483_13	attr	27483_10
+27483_13	has_surface_form	fiction
+27483_12	is_in_sentence	sentence_27483
+27483_12	compound	27483_13
+27483_12	has_surface_form	science
+27483_14	is_in_sentence	sentence_27483
+27483_14	cc	27483_13
+27483_14	has_surface_form	and
+27483_15	is_in_sentence	sentence_27483
+27483_15	compound	27483_16
+27483_15	is_entity	thriller
+27483_16	is_in_sentence	sentence_27483
+27483_16	conj	27483_13
+27483_16	has_surface_form	writer
+thriller	surface_form	thriller
+27483_17	is_in_sentence	sentence_27483
+27483_17	punct	27483_10
+27483_17	has_surface_form	.
+27483_18	is_in_sentence	sentence_27483
+27483_18	dep	27483_10
+27483_18	has_surface_form	
+Christopher Ride	surface_form	Christopher Ride
+Christopher Ride	has-genre	thriller

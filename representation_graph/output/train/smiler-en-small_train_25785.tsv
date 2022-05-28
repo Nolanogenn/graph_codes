@@ -1,0 +1,92 @@
+25784_0	is_in_sentence	sentence_25784
+25784_0	det	25784_2
+25784_0	has_surface_form	A
+25784_0	part_of_entity	A Brokedown Melody
+25784_2	is_in_sentence	sentence_25784
+25784_2	nsubj	25784_3
+25784_2	has_surface_form	Melody
+25784_2	part_of_entity	A Brokedown Melody
+25784_1	is_in_sentence	sentence_25784
+25784_1	compound	25784_2
+25784_1	has_surface_form	Brokedown
+25784_1	part_of_entity	A Brokedown Melody
+25784_3	is_in_sentence	sentence_25784
+25784_3	ROOT	25784_3
+25784_3	has_surface_form	is
+25784_4	is_in_sentence	sentence_25784
+25784_4	det	25784_8
+25784_4	has_surface_form	a
+25784_8	is_in_sentence	sentence_25784
+25784_8	attr	25784_3
+25784_8	has_surface_form	film
+25784_5	is_in_sentence	sentence_25784
+25784_5	nummod	25784_7
+25784_5	has_surface_form	2004
+25784_7	is_in_sentence	sentence_25784
+25784_7	compound	25784_8
+25784_7	has_surface_form	surf
+25784_6	is_in_sentence	sentence_25784
+25784_6	compound	25784_7
+25784_6	has_surface_form	documentary
+25784_9	is_in_sentence	sentence_25784
+25784_9	prep	25784_8
+25784_9	has_surface_form	from
+25784_10	is_in_sentence	sentence_25784
+25784_10	compound	25784_11
+25784_10	has_surface_form	Woodshed
+25784_11	is_in_sentence	sentence_25784
+25784_11	pobj	25784_9
+25784_11	has_surface_form	Films
+25784_12	is_in_sentence	sentence_25784
+25784_12	acl	25784_11
+25784_12	has_surface_form	directed
+25784_13	is_in_sentence	sentence_25784
+25784_13	agent	25784_12
+25784_13	has_surface_form	by
+25784_14	is_in_sentence	sentence_25784
+25784_14	nmod	25784_16
+25784_14	has_surface_form	singer
+25784_16	is_in_sentence	sentence_25784
+25784_16	compound	25784_18
+25784_16	has_surface_form	songwriter
+25784_15	is_in_sentence	sentence_25784
+25784_15	punct	25784_16
+25784_15	has_surface_form	/
+25784_18	is_in_sentence	sentence_25784
+25784_18	pobj	25784_13
+25784_18	has_surface_form	Johnson
+25784_17	is_in_sentence	sentence_25784
+25784_17	compound	25784_18
+25784_17	has_surface_form	Jack
+25784_19	is_in_sentence	sentence_25784
+25784_19	cc	25784_18
+25784_19	has_surface_form	and
+25784_20	is_in_sentence	sentence_25784
+25784_20	poss	25784_23
+25784_20	has_surface_form	his
+25784_23	is_in_sentence	sentence_25784
+25784_23	conj	25784_18
+25784_23	has_surface_form	friend
+25784_21	is_in_sentence	sentence_25784
+25784_21	compound	25784_22
+25784_21	has_surface_form	film
+25784_22	is_in_sentence	sentence_25784
+25784_22	compound	25784_23
+25784_22	has_surface_form	school
+25784_24	is_in_sentence	sentence_25784
+25784_24	compound	25784_25
+25784_24	has_surface_form	Chris
+25784_24	part_of_entity	Chris Malloy
+25784_25	is_in_sentence	sentence_25784
+25784_25	appos	25784_23
+25784_25	has_surface_form	Malloy
+25784_25	part_of_entity	Chris Malloy
+25784_26	is_in_sentence	sentence_25784
+25784_26	punct	25784_3
+25784_26	has_surface_form	.
+25784_27	is_in_sentence	sentence_25784
+25784_27	dep	25784_3
+25784_27	has_surface_form	
+A Brokedown Melody	surface_form	A Brokedown Melody
+A Brokedown Melody	movie-has-director	Chris Malloy
+Chris Malloy	surface_form	Chris Malloy

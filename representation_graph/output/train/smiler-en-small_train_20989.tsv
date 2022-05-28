@@ -1,0 +1,43 @@
+20988_0	is_in_sentence	sentence_20988
+20988_0	compound	20988_1
+20988_0	has_surface_form	Winifred
+20988_0	part_of_entity	Winifred Nicholson
+20988_1	is_in_sentence	sentence_20988
+20988_1	nsubj	20988_2
+20988_1	has_surface_form	Nicholson
+20988_1	part_of_entity	Winifred Nicholson
+20988_2	is_in_sentence	sentence_20988
+20988_2	ROOT	20988_2
+20988_2	has_surface_form	was
+20988_3	is_in_sentence	sentence_20988
+20988_3	det	20988_4
+20988_3	has_surface_form	the
+20988_4	is_in_sentence	sentence_20988
+20988_4	attr	20988_2
+20988_4	has_surface_form	mother
+20988_5	is_in_sentence	sentence_20988
+20988_5	prep	20988_4
+20988_5	has_surface_form	of
+20988_6	is_in_sentence	sentence_20988
+20988_6	det	20988_7
+20988_6	has_surface_form	the
+20988_7	is_in_sentence	sentence_20988
+20988_7	pobj	20988_5
+20988_7	has_surface_form	painter
+20988_8	is_in_sentence	sentence_20988
+20988_8	compound	20988_9
+20988_8	has_surface_form	Kate
+20988_8	part_of_entity	Kate Nicholson
+20988_9	is_in_sentence	sentence_20988
+20988_9	appos	20988_7
+20988_9	has_surface_form	Nicholson
+20988_9	part_of_entity	Kate Nicholson
+20988_10	is_in_sentence	sentence_20988
+20988_10	punct	20988_2
+20988_10	has_surface_form	.
+20988_11	is_in_sentence	sentence_20988
+20988_11	dep	20988_2
+20988_11	has_surface_form	
+Winifred Nicholson	surface_form	Winifred Nicholson
+Winifred Nicholson	has-child	Kate Nicholson
+Kate Nicholson	surface_form	Kate Nicholson

@@ -1,0 +1,70 @@
+2836_0	is_in_sentence	sentence_2836
+2836_0	compound	2836_1
+2836_0	has_surface_form	Black
+2836_0	part_of_entity	Black Oxygen
+2836_1	is_in_sentence	sentence_2836
+2836_1	nsubj	2836_2
+2836_1	has_surface_form	Oxygen
+2836_1	part_of_entity	Black Oxygen
+2836_2	is_in_sentence	sentence_2836
+2836_2	ROOT	2836_2
+2836_2	has_surface_form	is
+2836_3	is_in_sentence	sentence_2836
+2836_3	det	2836_8
+2836_3	has_surface_form	an
+2836_8	is_in_sentence	sentence_2836
+2836_8	attr	2836_2
+2836_8	has_surface_form	band
+2836_4	is_in_sentence	sentence_2836
+2836_4	amod	2836_8
+2836_4	has_surface_form	alternative
+2836_5	is_in_sentence	sentence_2836
+2836_5	nmod	2836_7
+2836_5	has_surface_form	rock
+2836_7	is_in_sentence	sentence_2836
+2836_7	compound	2836_8
+2836_7	has_surface_form	pop
+2836_6	is_in_sentence	sentence_2836
+2836_6	punct	2836_7
+2836_6	has_surface_form	/
+2836_9	is_in_sentence	sentence_2836
+2836_9	acl	2836_8
+2836_9	has_surface_form	formed
+2836_10	is_in_sentence	sentence_2836
+2836_10	agent	2836_9
+2836_10	has_surface_form	by
+2836_11	is_in_sentence	sentence_2836
+2836_11	compound	2836_12
+2836_11	has_surface_form	David
+2836_11	part_of_entity	David Lyle
+2836_12	is_in_sentence	sentence_2836
+2836_12	pobj	2836_10
+2836_12	has_surface_form	Lyle
+2836_12	part_of_entity	David Lyle
+2836_13	is_in_sentence	sentence_2836
+2836_13	acl	2836_8
+2836_13	has_surface_form	based
+2836_14	is_in_sentence	sentence_2836
+2836_14	prep	2836_13
+2836_14	has_surface_form	in
+2836_15	is_in_sentence	sentence_2836
+2836_15	compound	2836_16
+2836_15	has_surface_form	Los
+2836_16	is_in_sentence	sentence_2836
+2836_16	pobj	2836_14
+2836_16	has_surface_form	Angeles
+2836_17	is_in_sentence	sentence_2836
+2836_17	punct	2836_16
+2836_17	has_surface_form	,
+2836_18	is_in_sentence	sentence_2836
+2836_18	appos	2836_16
+2836_18	has_surface_form	CA
+2836_19	is_in_sentence	sentence_2836
+2836_19	punct	2836_2
+2836_19	has_surface_form	.
+2836_20	is_in_sentence	sentence_2836
+2836_20	dep	2836_2
+2836_20	has_surface_form	
+Black Oxygen	surface_form	Black Oxygen
+Black Oxygen	org-has-member	David Lyle
+David Lyle	surface_form	David Lyle

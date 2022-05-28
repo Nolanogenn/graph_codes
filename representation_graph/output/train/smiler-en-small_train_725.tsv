@@ -1,0 +1,56 @@
+724_0	is_in_sentence	sentence_724
+724_0	compound	724_1
+724_0	has_surface_form	Prince
+724_1	is_in_sentence	sentence_724
+724_1	compound	724_2
+724_1	has_surface_form	Dmitry
+724_1	part_of_entity	Dmitry Gorchakov
+724_2	is_in_sentence	sentence_724
+724_2	nsubjpass	724_4
+724_2	has_surface_form	Gorchakov
+724_2	part_of_entity	Dmitry Gorchakov
+724_4	is_in_sentence	sentence_724
+724_4	ROOT	724_4
+724_4	has_surface_form	born
+724_3	is_in_sentence	sentence_724
+724_3	auxpass	724_4
+724_3	has_surface_form	was
+724_5	is_in_sentence	sentence_724
+724_5	prep	724_4
+724_5	has_surface_form	in
+724_6	is_in_sentence	sentence_724
+724_6	compound	724_7
+724_6	is_entity	Kostroma
+724_7	is_in_sentence	sentence_724
+724_7	pobj	724_5
+724_7	has_surface_form	Governorate
+Kostroma	surface_form	Kostroma
+724_8	is_in_sentence	sentence_724
+724_8	punct	724_7
+724_8	has_surface_form	,
+724_9	is_in_sentence	sentence_724
+724_9	det	724_11
+724_9	has_surface_form	the
+724_11	is_in_sentence	sentence_724
+724_11	appos	724_7
+724_11	has_surface_form	son
+724_10	is_in_sentence	sentence_724
+724_10	amod	724_11
+724_10	has_surface_form	only
+724_12	is_in_sentence	sentence_724
+724_12	prep	724_11
+724_12	has_surface_form	of
+724_13	is_in_sentence	sentence_724
+724_13	compound	724_14
+724_13	has_surface_form	Prince
+724_14	is_in_sentence	sentence_724
+724_14	compound	724_15
+724_14	has_surface_form	Pyotr
+724_15	is_in_sentence	sentence_724
+724_15	pobj	724_12
+724_15	has_surface_form	I.
+724_16	is_in_sentence	sentence_724
+724_16	dep	724_4
+724_16	has_surface_form	
+Dmitry Gorchakov	surface_form	Dmitry Gorchakov
+Dmitry Gorchakov	birth-place	Kostroma

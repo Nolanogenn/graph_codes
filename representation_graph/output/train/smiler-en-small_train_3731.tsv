@@ -1,0 +1,70 @@
+3730_0	is_in_sentence	sentence_3730
+3730_0	compound	3730_1
+3730_0	has_surface_form	Red
+3730_0	part_of_entity	Red Princesses
+3730_1	is_in_sentence	sentence_3730
+3730_1	nsubj	3730_8
+3730_1	has_surface_form	Princesses
+3730_1	part_of_entity	Red Princesses
+3730_8	is_in_sentence	sentence_3730
+3730_8	ROOT	3730_8
+3730_8	has_surface_form	is
+3730_2	is_in_sentence	sentence_3730
+3730_2	punct	3730_3
+3730_2	has_surface_form	(
+3730_3	is_in_sentence	sentence_3730
+3730_3	appos	3730_1
+3730_3	has_surface_form	Spanish
+3730_4	is_in_sentence	sentence_3730
+3730_4	punct	3730_3
+3730_4	has_surface_form	:
+3730_5	is_in_sentence	sentence_3730
+3730_5	compound	3730_6
+3730_5	has_surface_form	Princesas
+3730_6	is_in_sentence	sentence_3730
+3730_6	appos	3730_3
+3730_6	has_surface_form	rojas
+3730_7	is_in_sentence	sentence_3730
+3730_7	punct	3730_3
+3730_7	has_surface_form	)
+3730_9	is_in_sentence	sentence_3730
+3730_9	det	3730_14
+3730_9	has_surface_form	a
+3730_14	is_in_sentence	sentence_3730
+3730_14	attr	3730_8
+3730_14	has_surface_form	film
+3730_10	is_in_sentence	sentence_3730
+3730_10	nummod	3730_14
+3730_10	has_surface_form	2013
+3730_11	is_in_sentence	sentence_3730
+3730_11	amod	3730_12
+3730_11	has_surface_form	Costa
+3730_12	is_in_sentence	sentence_3730
+3730_12	amod	3730_14
+3730_12	has_surface_form	Rican
+3730_13	is_in_sentence	sentence_3730
+3730_13	compound	3730_14
+3730_13	has_surface_form	drama
+3730_15	is_in_sentence	sentence_3730
+3730_15	acl	3730_14
+3730_15	has_surface_form	directed
+3730_16	is_in_sentence	sentence_3730
+3730_16	agent	3730_15
+3730_16	has_surface_form	by
+3730_17	is_in_sentence	sentence_3730
+3730_17	compound	3730_18
+3730_17	has_surface_form	Laura
+3730_17	part_of_entity	Laura Astorga
+3730_18	is_in_sentence	sentence_3730
+3730_18	pobj	3730_16
+3730_18	has_surface_form	Astorga
+3730_18	part_of_entity	Laura Astorga
+3730_19	is_in_sentence	sentence_3730
+3730_19	punct	3730_8
+3730_19	has_surface_form	.
+3730_20	is_in_sentence	sentence_3730
+3730_20	dep	3730_8
+3730_20	has_surface_form	
+Red Princesses	surface_form	Red Princesses
+Red Princesses	movie-has-director	Laura Astorga
+Laura Astorga	surface_form	Laura Astorga

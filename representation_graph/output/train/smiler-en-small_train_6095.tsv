@@ -1,0 +1,79 @@
+6094_0	is_in_sentence	sentence_6094
+6094_0	compound	6094_1
+6094_0	has_surface_form	Sharon
+6094_0	part_of_entity	Sharon Thomas
+6094_1	is_in_sentence	sentence_6094
+6094_1	nsubj	6094_9
+6094_1	has_surface_form	Thomas
+6094_1	part_of_entity	Sharon Thomas
+6094_9	is_in_sentence	sentence_6094
+6094_9	ROOT	6094_9
+6094_9	has_surface_form	is
+6094_2	is_in_sentence	sentence_6094
+6094_2	punct	6094_1
+6094_2	has_surface_form	(
+6094_3	is_in_sentence	sentence_6094
+6094_3	acl	6094_1
+6094_3	has_surface_form	born
+6094_4	is_in_sentence	sentence_6094
+6094_4	npadvmod	6094_3
+6094_4	has_surface_form	June
+6094_5	is_in_sentence	sentence_6094
+6094_5	nummod	6094_4
+6094_5	has_surface_form	3
+6094_6	is_in_sentence	sentence_6094
+6094_6	punct	6094_4
+6094_6	has_surface_form	,
+6094_7	is_in_sentence	sentence_6094
+6094_7	nummod	6094_4
+6094_7	has_surface_form	1946
+6094_8	is_in_sentence	sentence_6094
+6094_8	punct	6094_1
+6094_8	has_surface_form	)
+6094_10	is_in_sentence	sentence_6094
+6094_10	det	6094_12
+6094_10	has_surface_form	an
+6094_12	is_in_sentence	sentence_6094
+6094_12	attr	6094_9
+6094_12	has_surface_form	actress
+6094_11	is_in_sentence	sentence_6094
+6094_11	amod	6094_12
+6094_11	has_surface_form	American
+6094_13	is_in_sentence	sentence_6094
+6094_13	punct	6094_9
+6094_13	has_surface_form	.
+6094_14	is_in_sentence	sentence_6094
+6094_14	nsubj	6094_15
+6094_14	has_surface_form	She
+6094_15	is_in_sentence	sentence_6094
+6094_15	ROOT	6094_15
+6094_15	has_surface_form	is
+6094_16	is_in_sentence	sentence_6094
+6094_16	det	6094_17
+6094_16	has_surface_form	the
+6094_17	is_in_sentence	sentence_6094
+6094_17	attr	6094_15
+6094_17	has_surface_form	wife
+6094_18	is_in_sentence	sentence_6094
+6094_18	prep	6094_17
+6094_18	has_surface_form	of
+6094_19	is_in_sentence	sentence_6094
+6094_19	compound	6094_21
+6094_19	has_surface_form	director
+6094_21	is_in_sentence	sentence_6094
+6094_21	pobj	6094_18
+6094_21	has_surface_form	Cain
+6094_21	part_of_entity	Christopher Cain
+6094_20	is_in_sentence	sentence_6094
+6094_20	compound	6094_21
+6094_20	has_surface_form	Christopher
+6094_20	part_of_entity	Christopher Cain
+6094_22	is_in_sentence	sentence_6094
+6094_22	punct	6094_15
+6094_22	has_surface_form	.
+6094_23	is_in_sentence	sentence_6094
+6094_23	dep	6094_15
+6094_23	has_surface_form	
+Sharon Thomas	surface_form	Sharon Thomas
+Sharon Thomas	has-spouse	Christopher Cain
+Christopher Cain	surface_form	Christopher Cain

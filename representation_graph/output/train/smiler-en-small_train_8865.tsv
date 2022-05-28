@@ -1,0 +1,101 @@
+8864_0	is_in_sentence	sentence_8864
+8864_0	compound	8864_2
+8864_0	has_surface_form	Francisco
+8864_0	part_of_entity	Francisco Marroquín University
+8864_2	is_in_sentence	sentence_8864
+8864_2	nsubj	8864_18
+8864_2	has_surface_form	University
+8864_2	part_of_entity	Francisco Marroquín University
+8864_1	is_in_sentence	sentence_8864
+8864_1	compound	8864_2
+8864_1	has_surface_form	Marroquín
+8864_1	part_of_entity	Francisco Marroquín University
+8864_18	is_in_sentence	sentence_8864
+8864_18	ROOT	8864_18
+8864_18	has_surface_form	is
+8864_3	is_in_sentence	sentence_8864
+8864_3	punct	8864_4
+8864_3	has_surface_form	(
+8864_4	is_in_sentence	sentence_8864
+8864_4	appos	8864_2
+8864_4	has_surface_form	Spanish
+8864_5	is_in_sentence	sentence_8864
+8864_5	punct	8864_4
+8864_5	has_surface_form	:
+8864_6	is_in_sentence	sentence_8864
+8864_6	compound	8864_7
+8864_6	has_surface_form	Universidad
+8864_7	is_in_sentence	sentence_8864
+8864_7	compound	8864_8
+8864_7	has_surface_form	Francisco
+8864_8	is_in_sentence	sentence_8864
+8864_8	appos	8864_4
+8864_8	has_surface_form	Marroquín
+8864_9	is_in_sentence	sentence_8864
+8864_9	punct	8864_4
+8864_9	has_surface_form	)
+8864_10	is_in_sentence	sentence_8864
+8864_10	punct	8864_2
+8864_10	has_surface_form	,
+8864_11	is_in_sentence	sentence_8864
+8864_11	advmod	8864_12
+8864_11	has_surface_form	also
+8864_12	is_in_sentence	sentence_8864
+8864_12	acl	8864_2
+8864_12	has_surface_form	known
+8864_13	is_in_sentence	sentence_8864
+8864_13	agent	8864_12
+8864_13	has_surface_form	by
+8864_14	is_in_sentence	sentence_8864
+8864_14	det	8864_15
+8864_14	has_surface_form	the
+8864_15	is_in_sentence	sentence_8864
+8864_15	pobj	8864_13
+8864_15	has_surface_form	abbreviation
+8864_16	is_in_sentence	sentence_8864
+8864_16	appos	8864_15
+8864_16	has_surface_form	UFM
+8864_17	is_in_sentence	sentence_8864
+8864_17	punct	8864_2
+8864_17	has_surface_form	,
+8864_19	is_in_sentence	sentence_8864
+8864_19	det	8864_23
+8864_19	has_surface_form	a
+8864_23	is_in_sentence	sentence_8864
+8864_23	attr	8864_18
+8864_23	has_surface_form	university
+8864_20	is_in_sentence	sentence_8864
+8864_20	amod	8864_23
+8864_20	has_surface_form	private
+8864_21	is_in_sentence	sentence_8864
+8864_21	punct	8864_23
+8864_21	has_surface_form	,
+8864_22	is_in_sentence	sentence_8864
+8864_22	amod	8864_23
+8864_22	has_surface_form	secular
+8864_24	is_in_sentence	sentence_8864
+8864_24	prep	8864_23
+8864_24	has_surface_form	in
+8864_25	is_in_sentence	sentence_8864
+8864_25	compound	8864_26
+8864_25	has_surface_form	Guatemala
+8864_25	part_of_entity	Guatemala City
+8864_26	is_in_sentence	sentence_8864
+8864_26	pobj	8864_24
+8864_26	has_surface_form	City
+8864_26	part_of_entity	Guatemala City
+8864_27	is_in_sentence	sentence_8864
+8864_27	punct	8864_26
+8864_27	has_surface_form	,
+8864_28	is_in_sentence	sentence_8864
+8864_28	appos	8864_26
+8864_28	has_surface_form	Guatemala
+8864_29	is_in_sentence	sentence_8864
+8864_29	punct	8864_18
+8864_29	has_surface_form	.
+8864_30	is_in_sentence	sentence_8864
+8864_30	dep	8864_18
+8864_30	has_surface_form	
+Francisco Marroquín University	surface_form	Francisco Marroquín University
+Francisco Marroquín University	is-where	Guatemala City
+Guatemala City	surface_form	Guatemala City

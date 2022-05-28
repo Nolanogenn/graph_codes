@@ -1,0 +1,117 @@
+1012_0	is_in_sentence	sentence_1012
+1012_0	det	1012_7
+1012_0	has_surface_form	The
+1012_7	is_in_sentence	sentence_1012
+1012_7	ROOT	1012_7
+1012_7	has_surface_form	is
+1012_1	is_in_sentence	sentence_1012
+1012_1	nmod	1012_3
+1012_1	has_surface_form	Madison
+1012_1	part_of_entity	Madison Symmetric Torus
+1012_3	is_in_sentence	sentence_1012
+1012_3	nsubj	1012_7
+1012_3	has_surface_form	Torus
+1012_3	part_of_entity	Madison Symmetric Torus
+1012_2	is_in_sentence	sentence_1012
+1012_2	compound	1012_3
+1012_2	has_surface_form	Symmetric
+1012_2	part_of_entity	Madison Symmetric Torus
+1012_4	is_in_sentence	sentence_1012
+1012_4	punct	1012_5
+1012_4	has_surface_form	(
+1012_5	is_in_sentence	sentence_1012
+1012_5	appos	1012_3
+1012_5	has_surface_form	MST
+1012_6	is_in_sentence	sentence_1012
+1012_6	punct	1012_5
+1012_6	has_surface_form	)
+1012_8	is_in_sentence	sentence_1012
+1012_8	det	1012_11
+1012_8	has_surface_form	a
+1012_11	is_in_sentence	sentence_1012
+1012_11	attr	1012_7
+1012_11	has_surface_form	pinch
+1012_11	part_of_entity	reversed field pinch
+1012_9	is_in_sentence	sentence_1012
+1012_9	amod	1012_11
+1012_9	has_surface_form	reversed
+1012_9	part_of_entity	reversed field pinch
+1012_10	is_in_sentence	sentence_1012
+1012_10	compound	1012_11
+1012_10	has_surface_form	field
+1012_10	part_of_entity	reversed field pinch
+1012_12	is_in_sentence	sentence_1012
+1012_12	punct	1012_16
+1012_12	has_surface_form	(
+1012_16	is_in_sentence	sentence_1012
+1012_16	appos	1012_11
+1012_16	has_surface_form	experiment
+1012_13	is_in_sentence	sentence_1012
+1012_13	nmod	1012_16
+1012_13	has_surface_form	RFP
+1012_14	is_in_sentence	sentence_1012
+1012_14	punct	1012_16
+1012_14	has_surface_form	)
+1012_15	is_in_sentence	sentence_1012
+1012_15	compound	1012_16
+1012_15	has_surface_form	physics
+1012_17	is_in_sentence	sentence_1012
+1012_17	prep	1012_16
+1012_17	has_surface_form	with
+1012_18	is_in_sentence	sentence_1012
+1012_18	pobj	1012_17
+1012_18	has_surface_form	applications
+1012_19	is_in_sentence	sentence_1012
+1012_19	prep	1012_18
+1012_19	has_surface_form	to
+1012_20	is_in_sentence	sentence_1012
+1012_20	preconj	1012_21
+1012_20	has_surface_form	both
+1012_21	is_in_sentence	sentence_1012
+1012_21	nmod	1012_23
+1012_21	has_surface_form	fusion
+1012_23	is_in_sentence	sentence_1012
+1012_23	pobj	1012_19
+1012_23	has_surface_form	research
+1012_22	is_in_sentence	sentence_1012
+1012_22	compound	1012_23
+1012_22	has_surface_form	energy
+1012_24	is_in_sentence	sentence_1012
+1012_24	cc	1012_23
+1012_24	has_surface_form	and
+1012_25	is_in_sentence	sentence_1012
+1012_25	amod	1012_26
+1012_25	has_surface_form	astrophysical
+1012_26	is_in_sentence	sentence_1012
+1012_26	conj	1012_23
+1012_26	has_surface_form	plasmas
+1012_27	is_in_sentence	sentence_1012
+1012_27	acl	1012_26
+1012_27	has_surface_form	located
+1012_28	is_in_sentence	sentence_1012
+1012_28	prep	1012_27
+1012_28	has_surface_form	at
+1012_29	is_in_sentence	sentence_1012
+1012_29	pobj	1012_28
+1012_29	has_surface_form	University
+1012_30	is_in_sentence	sentence_1012
+1012_30	prep	1012_29
+1012_30	has_surface_form	of
+1012_31	is_in_sentence	sentence_1012
+1012_31	pobj	1012_30
+1012_31	has_surface_form	Wisconsin
+1012_32	is_in_sentence	sentence_1012
+1012_32	punct	1012_33
+1012_32	has_surface_form	-
+1012_33	is_in_sentence	sentence_1012
+1012_33	pobj	1012_30
+1012_33	has_surface_form	Madison
+1012_34	is_in_sentence	sentence_1012
+1012_34	punct	1012_7
+1012_34	has_surface_form	.
+1012_35	is_in_sentence	sentence_1012
+1012_35	dep	1012_7
+1012_35	has_surface_form	
+Madison Symmetric Torus	surface_form	Madison Symmetric Torus
+Madison Symmetric Torus	has-type	reversed field pinch
+reversed field pinch	surface_form	reversed field pinch

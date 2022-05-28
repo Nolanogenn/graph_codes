@@ -1,0 +1,54 @@
+24811_0	is_in_sentence	sentence_24811
+24811_0	compound	24811_2
+24811_0	has_surface_form	Carey
+24811_0	part_of_entity	Carey Theological College
+24811_2	is_in_sentence	sentence_24811
+24811_2	nsubj	24811_3
+24811_2	has_surface_form	College
+24811_2	part_of_entity	Carey Theological College
+24811_1	is_in_sentence	sentence_24811
+24811_1	compound	24811_2
+24811_1	has_surface_form	Theological
+24811_1	part_of_entity	Carey Theological College
+24811_3	is_in_sentence	sentence_24811
+24811_3	ROOT	24811_3
+24811_3	has_surface_form	is
+24811_4	is_in_sentence	sentence_24811
+24811_4	det	24811_7
+24811_4	has_surface_form	an
+24811_7	is_in_sentence	sentence_24811
+24811_7	attr	24811_3
+24811_7	is_entity	seminary
+24811_5	is_in_sentence	sentence_24811
+24811_5	amod	24811_7
+24811_5	has_surface_form	evangelical
+24811_6	is_in_sentence	sentence_24811
+24811_6	compound	24811_7
+24811_6	has_surface_form	Christian
+seminary	surface_form	seminary
+24811_8	is_in_sentence	sentence_24811
+24811_8	acl	24811_7
+24811_8	has_surface_form	based
+24811_9	is_in_sentence	sentence_24811
+24811_9	prep	24811_8
+24811_9	has_surface_form	in
+24811_10	is_in_sentence	sentence_24811
+24811_10	pobj	24811_9
+24811_10	has_surface_form	Vancouver
+24811_11	is_in_sentence	sentence_24811
+24811_11	punct	24811_10
+24811_11	has_surface_form	,
+24811_12	is_in_sentence	sentence_24811
+24811_12	compound	24811_13
+24811_12	has_surface_form	British
+24811_13	is_in_sentence	sentence_24811
+24811_13	appos	24811_10
+24811_13	has_surface_form	Columbia
+24811_14	is_in_sentence	sentence_24811
+24811_14	punct	24811_3
+24811_14	has_surface_form	.
+24811_15	is_in_sentence	sentence_24811
+24811_15	dep	24811_3
+24811_15	has_surface_form	
+Carey Theological College	surface_form	Carey Theological College
+Carey Theological College	has-type	seminary

@@ -1,0 +1,47 @@
+8288_0	is_in_sentence	sentence_8288
+8288_0	compound	8288_1
+8288_0	has_surface_form	Excelsior
+8288_0	part_of_entity	Excelsior College
+8288_1	is_in_sentence	sentence_8288
+8288_1	nsubj	8288_2
+8288_1	has_surface_form	College
+8288_1	part_of_entity	Excelsior College
+8288_2	is_in_sentence	sentence_8288
+8288_2	ROOT	8288_2
+8288_2	has_surface_form	is
+8288_3	is_in_sentence	sentence_8288
+8288_3	det	8288_6
+8288_3	has_surface_form	a
+8288_6	is_in_sentence	sentence_8288
+8288_6	attr	8288_2
+8288_6	has_surface_form	college
+8288_4	is_in_sentence	sentence_8288
+8288_4	amod	8288_6
+8288_4	has_surface_form	private
+8288_5	is_in_sentence	sentence_8288
+8288_5	amod	8288_6
+8288_5	has_surface_form	online
+8288_7	is_in_sentence	sentence_8288
+8288_7	prep	8288_6
+8288_7	has_surface_form	in
+8288_8	is_in_sentence	sentence_8288
+8288_8	pobj	8288_7
+8288_8	has_surface_form	Albany
+8288_9	is_in_sentence	sentence_8288
+8288_9	punct	8288_8
+8288_9	has_surface_form	,
+8288_10	is_in_sentence	sentence_8288
+8288_10	compound	8288_11
+8288_10	has_surface_form	New
+8288_11	is_in_sentence	sentence_8288
+8288_11	appos	8288_8
+8288_11	has_surface_form	York
+8288_12	is_in_sentence	sentence_8288
+8288_12	punct	8288_2
+8288_12	has_surface_form	.
+8288_13	is_in_sentence	sentence_8288
+8288_13	dep	8288_2
+8288_13	has_surface_form	
+Excelsior College	surface_form	Excelsior College
+Excelsior College	is-where	Albany, New York
+Albany, New York	surface_form	Albany, New York

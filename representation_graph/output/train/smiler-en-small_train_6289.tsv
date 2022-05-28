@@ -1,0 +1,38 @@
+6288_0	is_in_sentence	sentence_6288
+6288_0	compound	6288_1
+6288_0	has_surface_form	Anchor
+6288_0	part_of_entity	Anchor Corner
+6288_1	is_in_sentence	sentence_6288
+6288_1	nsubj	6288_2
+6288_1	has_surface_form	Corner
+6288_1	part_of_entity	Anchor Corner
+6288_2	is_in_sentence	sentence_6288
+6288_2	ROOT	6288_2
+6288_2	has_surface_form	is
+6288_3	is_in_sentence	sentence_6288
+6288_3	det	6288_4
+6288_3	has_surface_form	a
+6288_4	is_in_sentence	sentence_6288
+6288_4	attr	6288_2
+6288_4	has_surface_form	village
+6288_5	is_in_sentence	sentence_6288
+6288_5	prep	6288_4
+6288_5	has_surface_form	in
+6288_6	is_in_sentence	sentence_6288
+6288_6	pobj	6288_5
+6288_6	is_entity	Norfolk
+Norfolk	surface_form	Norfolk
+6288_7	is_in_sentence	sentence_6288
+6288_7	punct	6288_6
+6288_7	has_surface_form	,
+6288_8	is_in_sentence	sentence_6288
+6288_8	appos	6288_6
+6288_8	has_surface_form	England
+6288_9	is_in_sentence	sentence_6288
+6288_9	punct	6288_2
+6288_9	has_surface_form	.
+6288_10	is_in_sentence	sentence_6288
+6288_10	dep	6288_2
+6288_10	has_surface_form	
+Anchor Corner	surface_form	Anchor Corner
+Anchor Corner	is-where	Norfolk

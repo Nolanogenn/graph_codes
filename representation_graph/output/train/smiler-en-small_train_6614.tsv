@@ -1,0 +1,85 @@
+6613_0	is_in_sentence	sentence_6613
+6613_0	compound	6613_1
+6613_0	has_surface_form	Earl
+6613_0	part_of_entity	Earl Oliver
+6613_1	is_in_sentence	sentence_6613
+6613_1	nsubj	6613_9
+6613_1	has_surface_form	Oliver
+6613_1	part_of_entity	Earl Oliver
+6613_9	is_in_sentence	sentence_6613
+6613_9	ROOT	6613_9
+6613_9	has_surface_form	is
+6613_2	is_in_sentence	sentence_6613
+6613_2	punct	6613_1
+6613_2	has_surface_form	(
+6613_3	is_in_sentence	sentence_6613
+6613_3	acl	6613_1
+6613_3	has_surface_form	born
+6613_4	is_in_sentence	sentence_6613
+6613_4	npadvmod	6613_3
+6613_4	has_surface_form	June
+6613_5	is_in_sentence	sentence_6613
+6613_5	nummod	6613_4
+6613_5	has_surface_form	23
+6613_6	is_in_sentence	sentence_6613
+6613_6	punct	6613_4
+6613_6	has_surface_form	,
+6613_7	is_in_sentence	sentence_6613
+6613_7	nummod	6613_4
+6613_7	has_surface_form	1948
+6613_8	is_in_sentence	sentence_6613
+6613_8	punct	6613_1
+6613_8	has_surface_form	)
+6613_10	is_in_sentence	sentence_6613
+6613_10	det	6613_12
+6613_10	has_surface_form	an
+6613_12	is_in_sentence	sentence_6613
+6613_12	attr	6613_9
+6613_12	has_surface_form	writer
+6613_11	is_in_sentence	sentence_6613
+6613_11	amod	6613_12
+6613_11	has_surface_form	American
+6613_13	is_in_sentence	sentence_6613
+6613_13	punct	6613_12
+6613_13	has_surface_form	,
+6613_14	is_in_sentence	sentence_6613
+6613_14	conj	6613_12
+6613_14	has_surface_form	musician
+6613_15	is_in_sentence	sentence_6613
+6613_15	punct	6613_14
+6613_15	has_surface_form	,
+6613_16	is_in_sentence	sentence_6613
+6613_16	conj	6613_14
+6613_16	has_surface_form	variety
+6613_17	is_in_sentence	sentence_6613
+6613_17	punct	6613_16
+6613_17	has_surface_form	,
+6613_18	is_in_sentence	sentence_6613
+6613_18	compound	6613_19
+6613_18	has_surface_form	street
+6613_18	part_of_entity	street entertainer
+6613_19	is_in_sentence	sentence_6613
+6613_19	conj	6613_16
+6613_19	has_surface_form	entertainer
+6613_19	part_of_entity	street entertainer
+6613_20	is_in_sentence	sentence_6613
+6613_20	punct	6613_19
+6613_20	has_surface_form	,
+6613_21	is_in_sentence	sentence_6613
+6613_21	cc	6613_19
+6613_21	has_surface_form	and
+6613_22	is_in_sentence	sentence_6613
+6613_22	amod	6613_23
+6613_22	has_surface_form	graphic
+6613_23	is_in_sentence	sentence_6613
+6613_23	conj	6613_19
+6613_23	has_surface_form	artist
+6613_24	is_in_sentence	sentence_6613
+6613_24	punct	6613_9
+6613_24	has_surface_form	.
+6613_25	is_in_sentence	sentence_6613
+6613_25	dep	6613_9
+6613_25	has_surface_form	
+Earl Oliver	surface_form	Earl Oliver
+Earl Oliver	has-occupation	street entertainer
+street entertainer	surface_form	street entertainer

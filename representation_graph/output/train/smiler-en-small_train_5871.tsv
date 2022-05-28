@@ -1,0 +1,45 @@
+5870_0	is_in_sentence	sentence_5870
+5870_0	compound	5870_2
+5870_0	has_surface_form	Benin
+5870_0	part_of_entity	Benin Golf Air
+5870_2	is_in_sentence	sentence_5870
+5870_2	nsubj	5870_3
+5870_2	has_surface_form	Air
+5870_2	part_of_entity	Benin Golf Air
+5870_1	is_in_sentence	sentence_5870
+5870_1	compound	5870_2
+5870_1	has_surface_form	Golf
+5870_1	part_of_entity	Benin Golf Air
+5870_3	is_in_sentence	sentence_5870
+5870_3	ROOT	5870_3
+5870_3	has_surface_form	was
+5870_4	is_in_sentence	sentence_5870
+5870_4	det	5870_5
+5870_4	has_surface_form	an
+5870_5	is_in_sentence	sentence_5870
+5870_5	attr	5870_3
+5870_5	has_surface_form	airline
+5870_6	is_in_sentence	sentence_5870
+5870_6	acl	5870_5
+5870_6	has_surface_form	based
+5870_7	is_in_sentence	sentence_5870
+5870_7	prep	5870_6
+5870_7	has_surface_form	in
+5870_8	is_in_sentence	sentence_5870
+5870_8	pobj	5870_7
+5870_8	is_entity	Cotonou
+Cotonou	surface_form	Cotonou
+5870_9	is_in_sentence	sentence_5870
+5870_9	punct	5870_8
+5870_9	has_surface_form	,
+5870_10	is_in_sentence	sentence_5870
+5870_10	appos	5870_8
+5870_10	has_surface_form	Benin
+5870_11	is_in_sentence	sentence_5870
+5870_11	punct	5870_3
+5870_11	has_surface_form	.
+5870_12	is_in_sentence	sentence_5870
+5870_12	dep	5870_3
+5870_12	has_surface_form	
+Benin Golf Air	surface_form	Benin Golf Air
+Benin Golf Air	headquarters	Cotonou

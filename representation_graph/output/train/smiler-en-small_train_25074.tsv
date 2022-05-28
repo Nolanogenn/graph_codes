@@ -1,0 +1,50 @@
+25073_0	is_in_sentence	sentence_25073
+25073_0	compound	25073_1
+25073_0	has_surface_form	Wivenhoe
+25073_0	part_of_entity	Wivenhoe Pocket
+25073_1	is_in_sentence	sentence_25073
+25073_1	nsubj	25073_2
+25073_1	has_surface_form	Pocket
+25073_1	part_of_entity	Wivenhoe Pocket
+25073_2	is_in_sentence	sentence_25073
+25073_2	ROOT	25073_2
+25073_2	has_surface_form	is
+25073_3	is_in_sentence	sentence_25073
+25073_3	det	25073_5
+25073_3	has_surface_form	a
+25073_5	is_in_sentence	sentence_25073
+25073_5	attr	25073_2
+25073_5	is_entity	suburb
+25073_4	is_in_sentence	sentence_25073
+25073_4	amod	25073_5
+25073_4	has_surface_form	rural
+suburb	surface_form	suburb
+25073_6	is_in_sentence	sentence_25073
+25073_6	prep	25073_5
+25073_6	has_surface_form	of
+25073_7	is_in_sentence	sentence_25073
+25073_7	compound	25073_8
+25073_7	has_surface_form	Somerset
+25073_8	is_in_sentence	sentence_25073
+25073_8	pobj	25073_6
+25073_8	has_surface_form	Region
+25073_9	is_in_sentence	sentence_25073
+25073_9	punct	25073_8
+25073_9	has_surface_form	,
+25073_10	is_in_sentence	sentence_25073
+25073_10	conj	25073_8
+25073_10	has_surface_form	Queensland
+25073_11	is_in_sentence	sentence_25073
+25073_11	punct	25073_10
+25073_11	has_surface_form	,
+25073_12	is_in_sentence	sentence_25073
+25073_12	appos	25073_10
+25073_12	has_surface_form	Australia
+25073_13	is_in_sentence	sentence_25073
+25073_13	punct	25073_2
+25073_13	has_surface_form	.
+25073_14	is_in_sentence	sentence_25073
+25073_14	dep	25073_2
+25073_14	has_surface_form	
+Wivenhoe Pocket	surface_form	Wivenhoe Pocket
+Wivenhoe Pocket	has-type	suburb

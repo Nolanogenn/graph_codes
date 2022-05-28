@@ -1,0 +1,47 @@
+28338_0	is_in_sentence	sentence_28338
+28338_0	compound	28338_1
+28338_0	has_surface_form	Prasnam
+28338_0	part_of_entity	Prasnam Gurutharam
+28338_1	is_in_sentence	sentence_28338
+28338_1	nsubj	28338_2
+28338_1	has_surface_form	Gurutharam
+28338_1	part_of_entity	Prasnam Gurutharam
+28338_2	is_in_sentence	sentence_28338
+28338_2	ROOT	28338_2
+28338_2	has_surface_form	is
+28338_3	is_in_sentence	sentence_28338
+28338_3	det	28338_7
+28338_3	has_surface_form	a
+28338_7	is_in_sentence	sentence_28338
+28338_7	attr	28338_2
+28338_7	has_surface_form	film
+28338_4	is_in_sentence	sentence_28338
+28338_4	nummod	28338_7
+28338_4	has_surface_form	1983
+28338_5	is_in_sentence	sentence_28338
+28338_5	amod	28338_7
+28338_5	has_surface_form	Indian
+28338_6	is_in_sentence	sentence_28338
+28338_6	compound	28338_7
+28338_6	has_surface_form	Malayalam
+28338_8	is_in_sentence	sentence_28338
+28338_8	punct	28338_7
+28338_8	has_surface_form	,
+28338_9	is_in_sentence	sentence_28338
+28338_9	acl	28338_7
+28338_9	has_surface_form	directed
+28338_10	is_in_sentence	sentence_28338
+28338_10	agent	28338_9
+28338_10	has_surface_form	by
+28338_11	is_in_sentence	sentence_28338
+28338_11	pobj	28338_10
+28338_11	is_entity	Balachandramenon
+Balachandramenon	surface_form	Balachandramenon
+28338_12	is_in_sentence	sentence_28338
+28338_12	punct	28338_2
+28338_12	has_surface_form	.
+28338_13	is_in_sentence	sentence_28338
+28338_13	dep	28338_2
+28338_13	has_surface_form	
+Prasnam Gurutharam	surface_form	Prasnam Gurutharam
+Prasnam Gurutharam	movie-has-director	Balachandramenon

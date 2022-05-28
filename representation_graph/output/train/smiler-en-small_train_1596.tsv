@@ -1,0 +1,66 @@
+1595_0	is_in_sentence	sentence_1595
+1595_0	compound	1595_2
+1595_0	has_surface_form	Benny
+1595_0	part_of_entity	Benny Nemerofsky Ramsay
+1595_2	is_in_sentence	sentence_1595
+1595_2	nsubj	1595_10
+1595_2	has_surface_form	Ramsay
+1595_2	part_of_entity	Benny Nemerofsky Ramsay
+1595_1	is_in_sentence	sentence_1595
+1595_1	compound	1595_2
+1595_1	has_surface_form	Nemerofsky
+1595_1	part_of_entity	Benny Nemerofsky Ramsay
+1595_10	is_in_sentence	sentence_1595
+1595_10	ROOT	1595_10
+1595_10	has_surface_form	is
+1595_3	is_in_sentence	sentence_1595
+1595_3	punct	1595_2
+1595_3	has_surface_form	(
+1595_4	is_in_sentence	sentence_1595
+1595_4	acl	1595_2
+1595_4	has_surface_form	born
+1595_5	is_in_sentence	sentence_1595
+1595_5	npadvmod	1595_4
+1595_5	has_surface_form	September
+1595_6	is_in_sentence	sentence_1595
+1595_6	nummod	1595_5
+1595_6	has_surface_form	25
+1595_7	is_in_sentence	sentence_1595
+1595_7	punct	1595_5
+1595_7	has_surface_form	,
+1595_8	is_in_sentence	sentence_1595
+1595_8	nummod	1595_5
+1595_8	has_surface_form	1973
+1595_9	is_in_sentence	sentence_1595
+1595_9	punct	1595_2
+1595_9	has_surface_form	)
+1595_11	is_in_sentence	sentence_1595
+1595_11	det	1595_15
+1595_11	has_surface_form	a
+1595_15	is_in_sentence	sentence_1595
+1595_15	attr	1595_10
+1595_15	has_surface_form	artist
+1595_12	is_in_sentence	sentence_1595
+1595_12	npadvmod	1595_14
+1595_12	is_entity	Montreal
+1595_14	is_in_sentence	sentence_1595
+1595_14	amod	1595_15
+1595_14	has_surface_form	born
+Montreal	surface_form	Montreal
+1595_13	is_in_sentence	sentence_1595
+1595_13	punct	1595_14
+1595_13	has_surface_form	-
+1595_16	is_in_sentence	sentence_1595
+1595_16	cc	1595_15
+1595_16	has_surface_form	and
+1595_17	is_in_sentence	sentence_1595
+1595_17	conj	1595_15
+1595_17	has_surface_form	diarist
+1595_18	is_in_sentence	sentence_1595
+1595_18	punct	1595_10
+1595_18	has_surface_form	.
+1595_19	is_in_sentence	sentence_1595
+1595_19	dep	1595_19
+1595_19	has_surface_form	
+Benny Nemerofsky Ramsay	surface_form	Benny Nemerofsky Ramsay
+Benny Nemerofsky Ramsay	birth-place	Montreal

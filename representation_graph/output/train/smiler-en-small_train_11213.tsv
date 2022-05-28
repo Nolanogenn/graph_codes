@@ -1,0 +1,48 @@
+11212_0	is_in_sentence	sentence_11212
+11212_0	compound	11212_1
+11212_0	has_surface_form	Dance
+11212_0	part_of_entity	Dance Club Massacre
+11212_1	is_in_sentence	sentence_11212
+11212_1	compound	11212_2
+11212_1	has_surface_form	Club
+11212_1	part_of_entity	Dance Club Massacre
+11212_2	is_in_sentence	sentence_11212
+11212_2	nsubj	11212_3
+11212_2	has_surface_form	Massacre
+11212_2	part_of_entity	Dance Club Massacre
+11212_3	is_in_sentence	sentence_11212
+11212_3	ROOT	11212_3
+11212_3	has_surface_form	was
+11212_4	is_in_sentence	sentence_11212
+11212_4	det	11212_7
+11212_4	has_surface_form	an
+11212_7	is_in_sentence	sentence_11212
+11212_7	attr	11212_3
+11212_7	has_surface_form	band
+11212_5	is_in_sentence	sentence_11212
+11212_5	amod	11212_7
+11212_5	has_surface_form	American
+11212_6	is_in_sentence	sentence_11212
+11212_6	amod	11212_7
+11212_6	is_entity	deathcore
+deathcore	surface_form	deathcore
+11212_8	is_in_sentence	sentence_11212
+11212_8	prep	11212_7
+11212_8	has_surface_form	from
+11212_9	is_in_sentence	sentence_11212
+11212_9	pobj	11212_8
+11212_9	has_surface_form	Chicago
+11212_10	is_in_sentence	sentence_11212
+11212_10	punct	11212_9
+11212_10	has_surface_form	,
+11212_11	is_in_sentence	sentence_11212
+11212_11	appos	11212_9
+11212_11	has_surface_form	Illinois
+11212_12	is_in_sentence	sentence_11212
+11212_12	punct	11212_3
+11212_12	has_surface_form	.
+11212_13	is_in_sentence	sentence_11212
+11212_13	dep	11212_3
+11212_13	has_surface_form	
+Dance Club Massacre	surface_form	Dance Club Massacre
+Dance Club Massacre	has-genre	deathcore

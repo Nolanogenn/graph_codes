@@ -1,0 +1,56 @@
+15401_0	is_in_sentence	sentence_15401
+15401_0	compound	15401_1
+15401_0	has_surface_form	Ente
+15401_0	part_of_entity	Ente Entethu Mathrem
+15401_1	is_in_sentence	sentence_15401
+15401_1	compound	15401_2
+15401_1	has_surface_form	Entethu
+15401_1	part_of_entity	Ente Entethu Mathrem
+15401_2	is_in_sentence	sentence_15401
+15401_2	nsubj	15401_3
+15401_2	has_surface_form	Mathrem
+15401_2	part_of_entity	Ente Entethu Mathrem
+15401_3	is_in_sentence	sentence_15401
+15401_3	ROOT	15401_3
+15401_3	has_surface_form	is
+15401_4	is_in_sentence	sentence_15401
+15401_4	det	15401_8
+15401_4	has_surface_form	a
+15401_8	is_in_sentence	sentence_15401
+15401_8	attr	15401_3
+15401_8	has_surface_form	film
+15401_5	is_in_sentence	sentence_15401
+15401_5	nummod	15401_8
+15401_5	has_surface_form	1986
+15401_6	is_in_sentence	sentence_15401
+15401_6	amod	15401_8
+15401_6	has_surface_form	Indian
+15401_7	is_in_sentence	sentence_15401
+15401_7	compound	15401_8
+15401_7	has_surface_form	Malayalam
+15401_9	is_in_sentence	sentence_15401
+15401_9	punct	15401_8
+15401_9	has_surface_form	,
+15401_10	is_in_sentence	sentence_15401
+15401_10	acl	15401_8
+15401_10	has_surface_form	directed
+15401_11	is_in_sentence	sentence_15401
+15401_11	agent	15401_10
+15401_11	has_surface_form	by
+15401_12	is_in_sentence	sentence_15401
+15401_12	compound	15401_13
+15401_12	has_surface_form	J.
+15401_12	part_of_entity	J. Sasikumar
+15401_13	is_in_sentence	sentence_15401
+15401_13	pobj	15401_11
+15401_13	has_surface_form	Sasikumar
+15401_13	part_of_entity	J. Sasikumar
+15401_14	is_in_sentence	sentence_15401
+15401_14	punct	15401_3
+15401_14	has_surface_form	.
+15401_15	is_in_sentence	sentence_15401
+15401_15	dep	15401_15
+15401_15	has_surface_form	
+Ente Entethu Mathrem	surface_form	Ente Entethu Mathrem
+Ente Entethu Mathrem	movie-has-director	J. Sasikumar
+J. Sasikumar	surface_form	J. Sasikumar

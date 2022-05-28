@@ -1,0 +1,85 @@
+32752_0	is_in_sentence	sentence_32752
+32752_0	det	32752_1
+32752_0	has_surface_form	The
+32752_0	part_of_entity	The Days of Water
+32752_1	is_in_sentence	sentence_32752
+32752_1	nsubj	32752_12
+32752_1	has_surface_form	Days
+32752_1	part_of_entity	The Days of Water
+32752_12	is_in_sentence	sentence_32752
+32752_12	ROOT	32752_12
+32752_12	has_surface_form	is
+32752_2	is_in_sentence	sentence_32752
+32752_2	prep	32752_1
+32752_2	has_surface_form	of
+32752_2	part_of_entity	The Days of Water
+32752_3	is_in_sentence	sentence_32752
+32752_3	pobj	32752_2
+32752_3	has_surface_form	Water
+32752_3	part_of_entity	The Days of Water
+32752_4	is_in_sentence	sentence_32752
+32752_4	punct	32752_5
+32752_4	has_surface_form	(
+32752_5	is_in_sentence	sentence_32752
+32752_5	appos	32752_1
+32752_5	has_surface_form	Spanish
+32752_6	is_in_sentence	sentence_32752
+32752_6	punct	32752_5
+32752_6	has_surface_form	:
+32752_7	is_in_sentence	sentence_32752
+32752_7	compound	32752_8
+32752_7	has_surface_form	Los
+32752_8	is_in_sentence	sentence_32752
+32752_8	compound	32752_10
+32752_8	has_surface_form	días
+32752_10	is_in_sentence	sentence_32752
+32752_10	appos	32752_5
+32752_10	has_surface_form	agua
+32752_9	is_in_sentence	sentence_32752
+32752_9	compound	32752_10
+32752_9	has_surface_form	del
+32752_11	is_in_sentence	sentence_32752
+32752_11	punct	32752_5
+32752_11	has_surface_form	)
+32752_13	is_in_sentence	sentence_32752
+32752_13	det	32752_17
+32752_13	has_surface_form	a
+32752_17	is_in_sentence	sentence_32752
+32752_17	attr	32752_12
+32752_17	has_surface_form	film
+32752_14	is_in_sentence	sentence_32752
+32752_14	nummod	32752_17
+32752_14	has_surface_form	1971
+32752_15	is_in_sentence	sentence_32752
+32752_15	amod	32752_17
+32752_15	has_surface_form	Cuban
+32752_16	is_in_sentence	sentence_32752
+32752_16	compound	32752_17
+32752_16	has_surface_form	drama
+32752_18	is_in_sentence	sentence_32752
+32752_18	acl	32752_17
+32752_18	has_surface_form	directed
+32752_19	is_in_sentence	sentence_32752
+32752_19	agent	32752_18
+32752_19	has_surface_form	by
+32752_20	is_in_sentence	sentence_32752
+32752_20	compound	32752_22
+32752_20	has_surface_form	Manuel
+32752_20	part_of_entity	Manuel Octavio Gómez
+32752_22	is_in_sentence	sentence_32752
+32752_22	pobj	32752_19
+32752_22	has_surface_form	Gómez
+32752_22	part_of_entity	Manuel Octavio Gómez
+32752_21	is_in_sentence	sentence_32752
+32752_21	compound	32752_22
+32752_21	has_surface_form	Octavio
+32752_21	part_of_entity	Manuel Octavio Gómez
+32752_23	is_in_sentence	sentence_32752
+32752_23	punct	32752_12
+32752_23	has_surface_form	.
+32752_24	is_in_sentence	sentence_32752
+32752_24	dep	32752_24
+32752_24	has_surface_form	
+The Days of Water	surface_form	The Days of Water
+The Days of Water	movie-has-director	Manuel Octavio Gómez
+Manuel Octavio Gómez	surface_form	Manuel Octavio Gómez

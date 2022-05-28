@@ -1,0 +1,91 @@
+3824_0	is_in_sentence	sentence_3824
+3824_0	compound	3824_1
+3824_0	has_surface_form	Love
+3824_0	part_of_entity	Love Insurance
+3824_1	is_in_sentence	sentence_3824
+3824_1	nsubj	3824_2
+3824_1	has_surface_form	Insurance
+3824_1	part_of_entity	Love Insurance
+3824_2	is_in_sentence	sentence_3824
+3824_2	ROOT	3824_2
+3824_2	has_surface_form	is
+3824_3	is_in_sentence	sentence_3824
+3824_3	det	3824_9
+3824_3	has_surface_form	a
+3824_9	is_in_sentence	sentence_3824
+3824_9	attr	3824_2
+3824_9	has_surface_form	film
+3824_4	is_in_sentence	sentence_3824
+3824_4	amod	3824_9
+3824_4	has_surface_form	lost
+3824_5	is_in_sentence	sentence_3824
+3824_5	nummod	3824_9
+3824_5	has_surface_form	1919
+3824_6	is_in_sentence	sentence_3824
+3824_6	amod	3824_9
+3824_6	has_surface_form	American
+3824_7	is_in_sentence	sentence_3824
+3824_7	amod	3824_9
+3824_7	has_surface_form	silent
+3824_8	is_in_sentence	sentence_3824
+3824_8	compound	3824_9
+3824_8	has_surface_form	comedy
+3824_10	is_in_sentence	sentence_3824
+3824_10	acl	3824_9
+3824_10	has_surface_form	directed
+3824_11	is_in_sentence	sentence_3824
+3824_11	agent	3824_10
+3824_11	has_surface_form	by
+3824_12	is_in_sentence	sentence_3824
+3824_12	compound	3824_13
+3824_12	has_surface_form	Donald
+3824_12	part_of_entity	Donald Crisp
+3824_13	is_in_sentence	sentence_3824
+3824_13	pobj	3824_11
+3824_13	has_surface_form	Crisp
+3824_13	part_of_entity	Donald Crisp
+3824_14	is_in_sentence	sentence_3824
+3824_14	punct	3824_13
+3824_14	has_surface_form	,
+3824_15	is_in_sentence	sentence_3824
+3824_15	acl	3824_13
+3824_15	has_surface_form	produced
+3824_16	is_in_sentence	sentence_3824
+3824_16	agent	3824_15
+3824_16	has_surface_form	by
+3824_17	is_in_sentence	sentence_3824
+3824_17	compound	3824_20
+3824_17	has_surface_form	Famous
+3824_20	is_in_sentence	sentence_3824
+3824_20	pobj	3824_16
+3824_20	has_surface_form	Lasky
+3824_18	is_in_sentence	sentence_3824
+3824_18	compound	3824_20
+3824_18	has_surface_form	Players
+3824_19	is_in_sentence	sentence_3824
+3824_19	punct	3824_20
+3824_19	has_surface_form	-
+3824_21	is_in_sentence	sentence_3824
+3824_21	cc	3824_15
+3824_21	has_surface_form	and
+3824_22	is_in_sentence	sentence_3824
+3824_22	conj	3824_15
+3824_22	has_surface_form	distributed
+3824_23	is_in_sentence	sentence_3824
+3824_23	agent	3824_22
+3824_23	has_surface_form	by
+3824_24	is_in_sentence	sentence_3824
+3824_24	compound	3824_25
+3824_24	has_surface_form	Paramount
+3824_25	is_in_sentence	sentence_3824
+3824_25	pobj	3824_23
+3824_25	has_surface_form	Pictures
+3824_26	is_in_sentence	sentence_3824
+3824_26	punct	3824_2
+3824_26	has_surface_form	.
+3824_27	is_in_sentence	sentence_3824
+3824_27	dep	3824_2
+3824_27	has_surface_form	
+Love Insurance	surface_form	Love Insurance
+Love Insurance	movie-has-director	Donald Crisp
+Donald Crisp	surface_form	Donald Crisp

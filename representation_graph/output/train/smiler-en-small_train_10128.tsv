@@ -1,0 +1,91 @@
+10127_0	is_in_sentence	sentence_10127
+10127_0	compound	10127_1
+10127_0	has_surface_form	Matt
+10127_0	part_of_entity	Matt Claman
+10127_1	is_in_sentence	sentence_10127
+10127_1	nsubj	10127_2
+10127_1	has_surface_form	Claman
+10127_1	part_of_entity	Matt Claman
+10127_2	is_in_sentence	sentence_10127
+10127_2	ROOT	10127_2
+10127_2	has_surface_form	is
+10127_3	is_in_sentence	sentence_10127
+10127_3	acomp	10127_2
+10127_3	has_surface_form	married
+10127_4	is_in_sentence	sentence_10127
+10127_4	prep	10127_3
+10127_4	has_surface_form	to
+10127_5	is_in_sentence	sentence_10127
+10127_5	compound	10127_6
+10127_5	has_surface_form	Lisa
+10127_5	part_of_entity	Lisa Rieger
+10127_6	is_in_sentence	sentence_10127
+10127_6	pobj	10127_4
+10127_6	has_surface_form	Rieger
+10127_6	part_of_entity	Lisa Rieger
+10127_7	is_in_sentence	sentence_10127
+10127_7	punct	10127_6
+10127_7	has_surface_form	,
+10127_8	is_in_sentence	sentence_10127
+10127_8	nsubj	10127_9
+10127_8	has_surface_form	who
+10127_9	is_in_sentence	sentence_10127
+10127_9	relcl	10127_6
+10127_9	has_surface_form	works
+10127_10	is_in_sentence	sentence_10127
+10127_10	prep	10127_9
+10127_10	has_surface_form	for
+10127_11	is_in_sentence	sentence_10127
+10127_11	compound	10127_14
+10127_11	has_surface_form	Cook
+10127_14	is_in_sentence	sentence_10127
+10127_14	pobj	10127_10
+10127_14	has_surface_form	Council
+10127_12	is_in_sentence	sentence_10127
+10127_12	compound	10127_14
+10127_12	has_surface_form	Inlet
+10127_13	is_in_sentence	sentence_10127
+10127_13	compound	10127_14
+10127_13	has_surface_form	Tribal
+10127_15	is_in_sentence	sentence_10127
+10127_15	punct	10127_14
+10127_15	has_surface_form	—
+10127_16	is_in_sentence	sentence_10127
+10127_16	appos	10127_14
+10127_16	has_surface_form	one
+10127_17	is_in_sentence	sentence_10127
+10127_17	prep	10127_16
+10127_17	has_surface_form	of
+10127_18	is_in_sentence	sentence_10127
+10127_18	poss	10127_25
+10127_18	has_surface_form	Alaska
+10127_25	is_in_sentence	sentence_10127
+10127_25	pobj	10127_17
+10127_25	has_surface_form	corporations
+10127_19	is_in_sentence	sentence_10127
+10127_19	case	10127_18
+10127_19	has_surface_form	’s
+10127_20	is_in_sentence	sentence_10127
+10127_20	advmod	10127_21
+10127_20	has_surface_form	most
+10127_21	is_in_sentence	sentence_10127
+10127_21	amod	10127_25
+10127_21	has_surface_form	successful
+10127_22	is_in_sentence	sentence_10127
+10127_22	amod	10127_25
+10127_22	has_surface_form	non
+10127_23	is_in_sentence	sentence_10127
+10127_23	amod	10127_25
+10127_23	has_surface_form	-
+10127_24	is_in_sentence	sentence_10127
+10127_24	amod	10127_25
+10127_24	has_surface_form	profit
+10127_26	is_in_sentence	sentence_10127
+10127_26	punct	10127_2
+10127_26	has_surface_form	.
+10127_27	is_in_sentence	sentence_10127
+10127_27	dep	10127_27
+10127_27	has_surface_form	
+Matt Claman	surface_form	Matt Claman
+Matt Claman	has-spouse	Lisa Rieger
+Lisa Rieger	surface_form	Lisa Rieger

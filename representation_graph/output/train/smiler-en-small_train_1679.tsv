@@ -1,0 +1,76 @@
+1678_0	is_in_sentence	sentence_1678
+1678_0	compound	1678_1
+1678_0	has_surface_form	Allari
+1678_0	part_of_entity	Allari Pidugu
+1678_1	is_in_sentence	sentence_1678
+1678_1	nsubj	1678_13
+1678_1	has_surface_form	Pidugu
+1678_1	part_of_entity	Allari Pidugu
+1678_13	is_in_sentence	sentence_1678
+1678_13	ROOT	1678_13
+1678_13	has_surface_form	is
+1678_2	is_in_sentence	sentence_1678
+1678_2	punct	1678_3
+1678_2	has_surface_form	(
+1678_3	is_in_sentence	sentence_1678
+1678_3	appos	1678_1
+1678_3	has_surface_form	English
+1678_4	is_in_sentence	sentence_1678
+1678_4	punct	1678_3
+1678_4	has_surface_form	:
+1678_5	is_in_sentence	sentence_1678
+1678_5	compound	1678_6
+1678_5	has_surface_form	Naughty
+1678_6	is_in_sentence	sentence_1678
+1678_6	appos	1678_1
+1678_6	has_surface_form	Thunder
+1678_7	is_in_sentence	sentence_1678
+1678_7	punct	1678_6
+1678_7	has_surface_form	,
+1678_8	is_in_sentence	sentence_1678
+1678_8	npadvmod	1678_6
+1678_8	has_surface_form	Telugu
+1678_9	is_in_sentence	sentence_1678
+1678_9	punct	1678_8
+1678_9	has_surface_form	:
+1678_10	is_in_sentence	sentence_1678
+1678_10	punct	1678_6
+1678_10	has_surface_form	అల్లరి
+1678_11	is_in_sentence	sentence_1678
+1678_11	appos	1678_6
+1678_11	has_surface_form	పిడుగు
+1678_12	is_in_sentence	sentence_1678
+1678_12	punct	1678_6
+1678_12	has_surface_form	)
+1678_14	is_in_sentence	sentence_1678
+1678_14	det	1678_18
+1678_14	has_surface_form	a
+1678_18	is_in_sentence	sentence_1678
+1678_18	attr	1678_13
+1678_18	has_surface_form	film
+1678_18	part_of_entity	action film
+1678_15	is_in_sentence	sentence_1678
+1678_15	nummod	1678_18
+1678_15	has_surface_form	2005
+1678_16	is_in_sentence	sentence_1678
+1678_16	compound	1678_17
+1678_16	has_surface_form	Telugu
+1678_17	is_in_sentence	sentence_1678
+1678_17	compound	1678_18
+1678_17	has_surface_form	action
+1678_17	part_of_entity	action film
+1678_19	is_in_sentence	sentence_1678
+1678_19	acl	1678_18
+1678_19	has_surface_form	produced
+1678_20	is_in_sentence	sentence_1678
+1678_20	agent	1678_19
+1678_20	has_surface_form	by
+1678_21	is_in_sentence	sentence_1678
+1678_21	compound	1678_22
+1678_21	has_surface_form	M.
+1678_22	is_in_sentence	sentence_1678
+1678_22	dep	1678_20
+1678_22	has_surface_form	
+Allari Pidugu	surface_form	Allari Pidugu
+Allari Pidugu	has-type	action film
+action film	surface_form	action film

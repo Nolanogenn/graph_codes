@@ -1,0 +1,73 @@
+32859_0	is_in_sentence	sentence_32859
+32859_0	compound	32859_1
+32859_0	has_surface_form	Texas
+32859_0	part_of_entity	Texas State Highway Spur 529
+32859_1	is_in_sentence	sentence_32859
+32859_1	compound	32859_3
+32859_1	has_surface_form	State
+32859_1	part_of_entity	Texas State Highway Spur 529
+32859_3	is_in_sentence	sentence_32859
+32859_3	nsubj	32859_5
+32859_3	has_surface_form	Spur
+32859_3	part_of_entity	Texas State Highway Spur 529
+32859_2	is_in_sentence	sentence_32859
+32859_2	compound	32859_3
+32859_2	has_surface_form	Highway
+32859_2	part_of_entity	Texas State Highway Spur 529
+32859_5	is_in_sentence	sentence_32859
+32859_5	ROOT	32859_5
+32859_5	has_surface_form	is
+32859_4	is_in_sentence	sentence_32859
+32859_4	nummod	32859_3
+32859_4	has_surface_form	529
+32859_4	part_of_entity	Texas State Highway Spur 529
+32859_6	is_in_sentence	sentence_32859
+32859_6	det	32859_8
+32859_6	has_surface_form	a
+32859_8	is_in_sentence	sentence_32859
+32859_8	attr	32859_5
+32859_8	has_surface_form	route
+32859_8	part_of_entity	spur route
+32859_7	is_in_sentence	sentence_32859
+32859_7	compound	32859_8
+32859_7	has_surface_form	spur
+32859_7	part_of_entity	spur route
+32859_9	is_in_sentence	sentence_32859
+32859_9	prep	32859_8
+32859_9	has_surface_form	in
+32859_10	is_in_sentence	sentence_32859
+32859_10	det	32859_11
+32859_10	has_surface_form	the
+32859_11	is_in_sentence	sentence_32859
+32859_11	pobj	32859_9
+32859_11	has_surface_form	U.
+32859_12	is_in_sentence	sentence_32859
+32859_12	det	32859_13
+32859_12	has_surface_form	The
+32859_13	is_in_sentence	sentence_32859
+32859_13	nsubj	32859_14
+32859_13	has_surface_form	highway
+32859_14	is_in_sentence	sentence_32859
+32859_14	ROOT	32859_14
+32859_14	has_surface_form	begins
+32859_15	is_in_sentence	sentence_32859
+32859_15	prep	32859_14
+32859_15	has_surface_form	at
+32859_16	is_in_sentence	sentence_32859
+32859_16	pobj	32859_15
+32859_16	has_surface_form	Interstate
+32859_17	is_in_sentence	sentence_32859
+32859_17	nummod	32859_16
+32859_17	has_surface_form	69
+32859_18	is_in_sentence	sentence_32859
+32859_18	punct	32859_16
+32859_18	has_surface_form	(
+32859_19	is_in_sentence	sentence_32859
+32859_19	appos	32859_16
+32859_19	has_surface_form	I-69)/U.
+32859_20	is_in_sentence	sentence_32859
+32859_20	dep	32859_14
+32859_20	has_surface_form	
+Texas State Highway Spur 529	surface_form	Texas State Highway Spur 529
+Texas State Highway Spur 529	has-type	spur route
+spur route	surface_form	spur route

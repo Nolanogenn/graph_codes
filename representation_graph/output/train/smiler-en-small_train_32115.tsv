@@ -1,0 +1,44 @@
+32114_0	is_in_sentence	sentence_32114
+32114_0	compound	32114_1
+32114_0	has_surface_form	Makeup
+32114_0	part_of_entity	Makeup Man
+32114_1	is_in_sentence	sentence_32114
+32114_1	nsubj	32114_2
+32114_1	has_surface_form	Man
+32114_1	part_of_entity	Makeup Man
+32114_2	is_in_sentence	sentence_32114
+32114_2	ROOT	32114_2
+32114_2	has_surface_form	is
+32114_3	is_in_sentence	sentence_32114
+32114_3	det	32114_7
+32114_3	has_surface_form	a
+32114_7	is_in_sentence	sentence_32114
+32114_7	attr	32114_2
+32114_7	has_surface_form	film
+32114_4	is_in_sentence	sentence_32114
+32114_4	nummod	32114_7
+32114_4	has_surface_form	2011
+32114_5	is_in_sentence	sentence_32114
+32114_5	compound	32114_7
+32114_5	has_surface_form	Malayalam
+32114_6	is_in_sentence	sentence_32114
+32114_6	compound	32114_7
+32114_6	has_surface_form	comedy
+32114_8	is_in_sentence	sentence_32114
+32114_8	acl	32114_7
+32114_8	has_surface_form	directed
+32114_9	is_in_sentence	sentence_32114
+32114_9	agent	32114_8
+32114_9	has_surface_form	by
+32114_10	is_in_sentence	sentence_32114
+32114_10	pobj	32114_9
+32114_10	is_entity	Shafi
+Shafi	surface_form	Shafi
+32114_11	is_in_sentence	sentence_32114
+32114_11	punct	32114_2
+32114_11	has_surface_form	.
+32114_12	is_in_sentence	sentence_32114
+32114_12	dep	32114_12
+32114_12	has_surface_form	
+Makeup Man	surface_form	Makeup Man
+Makeup Man	movie-has-director	Shafi

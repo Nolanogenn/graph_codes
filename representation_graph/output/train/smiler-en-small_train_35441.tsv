@@ -1,0 +1,89 @@
+35440_0	is_in_sentence	sentence_35440
+35440_0	compound	35440_1
+35440_0	has_surface_form	Napa
+35440_0	part_of_entity	Napa Valley College
+35440_1	is_in_sentence	sentence_35440
+35440_1	compound	35440_2
+35440_1	has_surface_form	Valley
+35440_1	part_of_entity	Napa Valley College
+35440_2	is_in_sentence	sentence_35440
+35440_2	nsubj	35440_15
+35440_2	has_surface_form	College
+35440_2	part_of_entity	Napa Valley College
+35440_15	is_in_sentence	sentence_35440
+35440_15	ROOT	35440_15
+35440_15	has_surface_form	is
+35440_3	is_in_sentence	sentence_35440
+35440_3	punct	35440_2
+35440_3	has_surface_form	,
+35440_4	is_in_sentence	sentence_35440
+35440_4	advmod	35440_5
+35440_4	has_surface_form	formerly
+35440_5	is_in_sentence	sentence_35440
+35440_5	acl	35440_2
+35440_5	has_surface_form	known
+35440_6	is_in_sentence	sentence_35440
+35440_6	prep	35440_5
+35440_6	has_surface_form	as
+35440_7	is_in_sentence	sentence_35440
+35440_7	compound	35440_9
+35440_7	has_surface_form	Napa
+35440_9	is_in_sentence	sentence_35440
+35440_9	pobj	35440_6
+35440_9	has_surface_form	College
+35440_8	is_in_sentence	sentence_35440
+35440_8	compound	35440_9
+35440_8	has_surface_form	Junior
+35440_10	is_in_sentence	sentence_35440
+35440_10	cc	35440_9
+35440_10	has_surface_form	and
+35440_11	is_in_sentence	sentence_35440
+35440_11	compound	35440_12
+35440_11	has_surface_form	Napa
+35440_12	is_in_sentence	sentence_35440
+35440_12	compound	35440_13
+35440_12	has_surface_form	Community
+35440_13	is_in_sentence	sentence_35440
+35440_13	pobj	35440_6
+35440_13	has_surface_form	College
+35440_14	is_in_sentence	sentence_35440
+35440_14	punct	35440_2
+35440_14	has_surface_form	,
+35440_16	is_in_sentence	sentence_35440
+35440_16	det	35440_19
+35440_16	has_surface_form	a
+35440_19	is_in_sentence	sentence_35440
+35440_19	attr	35440_15
+35440_19	has_surface_form	college
+35440_19	part_of_entity	community college
+35440_17	is_in_sentence	sentence_35440
+35440_17	amod	35440_18
+35440_17	has_surface_form	public
+35440_18	is_in_sentence	sentence_35440
+35440_18	compound	35440_19
+35440_18	has_surface_form	community
+35440_18	part_of_entity	community college
+35440_20	is_in_sentence	sentence_35440
+35440_20	prep	35440_19
+35440_20	has_surface_form	in
+35440_21	is_in_sentence	sentence_35440
+35440_21	compound	35440_22
+35440_21	has_surface_form	Napa
+35440_22	is_in_sentence	sentence_35440
+35440_22	pobj	35440_20
+35440_22	has_surface_form	Valley
+35440_23	is_in_sentence	sentence_35440
+35440_23	punct	35440_22
+35440_23	has_surface_form	,
+35440_24	is_in_sentence	sentence_35440
+35440_24	appos	35440_22
+35440_24	has_surface_form	California
+35440_25	is_in_sentence	sentence_35440
+35440_25	punct	35440_15
+35440_25	has_surface_form	.
+35440_26	is_in_sentence	sentence_35440
+35440_26	dep	35440_26
+35440_26	has_surface_form	
+Napa Valley College	surface_form	Napa Valley College
+Napa Valley College	has-type	community college
+community college	surface_form	community college

@@ -1,0 +1,73 @@
+3790_0	is_in_sentence	sentence_3790
+3790_0	compound	3790_1
+3790_0	has_surface_form	Ale
+3790_0	part_of_entity	Ale Vanzella
+3790_1	is_in_sentence	sentence_3790
+3790_1	nsubj	3790_9
+3790_1	has_surface_form	Vanzella
+3790_1	part_of_entity	Ale Vanzella
+3790_9	is_in_sentence	sentence_3790
+3790_9	ROOT	3790_9
+3790_9	has_surface_form	is
+3790_2	is_in_sentence	sentence_3790
+3790_2	punct	3790_1
+3790_2	has_surface_form	(
+3790_3	is_in_sentence	sentence_3790
+3790_3	acl	3790_1
+3790_3	has_surface_form	born
+3790_4	is_in_sentence	sentence_3790
+3790_4	npadvmod	3790_3
+3790_4	has_surface_form	February
+3790_5	is_in_sentence	sentence_3790
+3790_5	nummod	3790_4
+3790_5	has_surface_form	5
+3790_6	is_in_sentence	sentence_3790
+3790_6	punct	3790_4
+3790_6	has_surface_form	,
+3790_7	is_in_sentence	sentence_3790
+3790_7	nummod	3790_4
+3790_7	has_surface_form	1984
+3790_8	is_in_sentence	sentence_3790
+3790_8	punct	3790_1
+3790_8	has_surface_form	)
+3790_10	is_in_sentence	sentence_3790
+3790_10	det	3790_12
+3790_10	has_surface_form	a
+3790_12	is_in_sentence	sentence_3790
+3790_12	attr	3790_9
+3790_12	has_surface_form	musician
+3790_11	is_in_sentence	sentence_3790
+3790_11	amod	3790_12
+3790_11	has_surface_form	Brazilian
+3790_13	is_in_sentence	sentence_3790
+3790_13	nsubj	3790_14
+3790_13	has_surface_form	who
+3790_14	is_in_sentence	sentence_3790
+3790_14	relcl	3790_12
+3790_14	has_surface_form	mixes
+3790_15	is_in_sentence	sentence_3790
+3790_15	amod	3790_16
+3790_15	has_surface_form	bossa
+3790_16	is_in_sentence	sentence_3790
+3790_16	dobj	3790_14
+3790_16	has_surface_form	nova
+3790_17	is_in_sentence	sentence_3790
+3790_17	prep	3790_14
+3790_17	has_surface_form	with
+3790_18	is_in_sentence	sentence_3790
+3790_18	compound	3790_19
+3790_18	has_surface_form	indie
+3790_18	part_of_entity	indie rock
+3790_19	is_in_sentence	sentence_3790
+3790_19	pobj	3790_17
+3790_19	has_surface_form	rock
+3790_19	part_of_entity	indie rock
+3790_20	is_in_sentence	sentence_3790
+3790_20	punct	3790_9
+3790_20	has_surface_form	.
+3790_21	is_in_sentence	sentence_3790
+3790_21	dep	3790_21
+3790_21	has_surface_form	
+Ale Vanzella	surface_form	Ale Vanzella
+Ale Vanzella	has-genre	indie rock
+indie rock	surface_form	indie rock

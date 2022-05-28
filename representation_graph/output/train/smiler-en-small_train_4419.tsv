@@ -1,0 +1,74 @@
+4418_0	is_in_sentence	sentence_4418
+4418_0	det	4418_3
+4418_0	has_surface_form	The
+4418_3	is_in_sentence	sentence_4418
+4418_3	nsubj	4418_4
+4418_3	has_surface_form	Company
+4418_3	part_of_entity	Cooper Car Company
+4418_1	is_in_sentence	sentence_4418
+4418_1	compound	4418_3
+4418_1	has_surface_form	Cooper
+4418_1	part_of_entity	Cooper Car Company
+4418_2	is_in_sentence	sentence_4418
+4418_2	compound	4418_3
+4418_2	has_surface_form	Car
+4418_2	part_of_entity	Cooper Car Company
+4418_4	is_in_sentence	sentence_4418
+4418_4	ROOT	4418_4
+4418_4	has_surface_form	is
+4418_5	is_in_sentence	sentence_4418
+4418_5	det	4418_7
+4418_5	has_surface_form	a
+4418_7	is_in_sentence	sentence_4418
+4418_7	attr	4418_4
+4418_7	has_surface_form	manufacturer
+4418_6	is_in_sentence	sentence_4418
+4418_6	compound	4418_7
+4418_6	has_surface_form	car
+4418_8	is_in_sentence	sentence_4418
+4418_8	acl	4418_7
+4418_8	has_surface_form	founded
+4418_9	is_in_sentence	sentence_4418
+4418_9	prep	4418_8
+4418_9	has_surface_form	in
+4418_10	is_in_sentence	sentence_4418
+4418_10	pobj	4418_9
+4418_10	has_surface_form	December
+4418_11	is_in_sentence	sentence_4418
+4418_11	nummod	4418_10
+4418_11	has_surface_form	1947
+4418_12	is_in_sentence	sentence_4418
+4418_12	agent	4418_8
+4418_12	has_surface_form	by
+4418_13	is_in_sentence	sentence_4418
+4418_13	compound	4418_14
+4418_13	has_surface_form	Charles
+4418_13	part_of_entity	Charles Cooper
+4418_14	is_in_sentence	sentence_4418
+4418_14	pobj	4418_12
+4418_14	has_surface_form	Cooper
+4418_14	part_of_entity	Charles Cooper
+4418_15	is_in_sentence	sentence_4418
+4418_15	cc	4418_14
+4418_15	has_surface_form	and
+4418_16	is_in_sentence	sentence_4418
+4418_16	poss	4418_17
+4418_16	has_surface_form	his
+4418_17	is_in_sentence	sentence_4418
+4418_17	conj	4418_14
+4418_17	has_surface_form	son
+4418_18	is_in_sentence	sentence_4418
+4418_18	compound	4418_19
+4418_18	has_surface_form	John
+4418_19	is_in_sentence	sentence_4418
+4418_19	appos	4418_17
+4418_19	has_surface_form	Cooper
+4418_20	is_in_sentence	sentence_4418
+4418_20	punct	4418_4
+4418_20	has_surface_form	.
+4418_21	is_in_sentence	sentence_4418
+4418_21	dep	4418_4
+4418_21	has_surface_form	
+Cooper Car Company	surface_form	Cooper Car Company
+Cooper Car Company	org-has-founder	Charles Cooper
+Charles Cooper	surface_form	Charles Cooper

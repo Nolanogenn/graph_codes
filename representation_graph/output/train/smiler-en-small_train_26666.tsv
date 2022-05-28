@@ -1,0 +1,94 @@
+26665_0	is_in_sentence	sentence_26665
+26665_0	det	26665_1
+26665_0	has_surface_form	The
+26665_0	part_of_entity	The Adventures of Fra Diavolo
+26665_1	is_in_sentence	sentence_26665
+26665_1	nsubj	26665_12
+26665_1	has_surface_form	Adventures
+26665_1	part_of_entity	The Adventures of Fra Diavolo
+26665_12	is_in_sentence	sentence_26665
+26665_12	ROOT	26665_12
+26665_12	has_surface_form	is
+26665_2	is_in_sentence	sentence_26665
+26665_2	prep	26665_1
+26665_2	has_surface_form	of
+26665_2	part_of_entity	The Adventures of Fra Diavolo
+26665_3	is_in_sentence	sentence_26665
+26665_3	compound	26665_4
+26665_3	has_surface_form	Fra
+26665_3	part_of_entity	The Adventures of Fra Diavolo
+26665_4	is_in_sentence	sentence_26665
+26665_4	pobj	26665_2
+26665_4	has_surface_form	Diavolo
+26665_4	part_of_entity	The Adventures of Fra Diavolo
+26665_5	is_in_sentence	sentence_26665
+26665_5	punct	26665_10
+26665_5	has_surface_form	(
+26665_10	is_in_sentence	sentence_26665
+26665_10	appos	26665_1
+26665_10	has_surface_form	Diavolo
+26665_6	is_in_sentence	sentence_26665
+26665_6	amod	26665_8
+26665_6	has_surface_form	Italian
+26665_8	is_in_sentence	sentence_26665
+26665_8	nmod	26665_10
+26665_8	has_surface_form	Fra
+26665_7	is_in_sentence	sentence_26665
+26665_7	punct	26665_6
+26665_7	has_surface_form	:
+26665_9	is_in_sentence	sentence_26665
+26665_9	punct	26665_10
+26665_9	has_surface_form	'
+26665_11	is_in_sentence	sentence_26665
+26665_11	punct	26665_10
+26665_11	has_surface_form	)
+26665_13	is_in_sentence	sentence_26665
+26665_13	det	26665_17
+26665_13	has_surface_form	a
+26665_17	is_in_sentence	sentence_26665
+26665_17	attr	26665_12
+26665_17	has_surface_form	film
+26665_14	is_in_sentence	sentence_26665
+26665_14	nummod	26665_17
+26665_14	has_surface_form	1942
+26665_15	is_in_sentence	sentence_26665
+26665_15	amod	26665_17
+26665_15	has_surface_form	Italian
+26665_16	is_in_sentence	sentence_26665
+26665_16	compound	26665_17
+26665_16	has_surface_form	adventure
+26665_18	is_in_sentence	sentence_26665
+26665_18	acl	26665_17
+26665_18	has_surface_form	directed
+26665_19	is_in_sentence	sentence_26665
+26665_19	agent	26665_18
+26665_19	has_surface_form	by
+26665_20	is_in_sentence	sentence_26665
+26665_20	compound	26665_21
+26665_20	has_surface_form	Luigi
+26665_21	is_in_sentence	sentence_26665
+26665_21	pobj	26665_19
+26665_21	has_surface_form	Zampa
+26665_22	is_in_sentence	sentence_26665
+26665_22	cc	26665_18
+26665_22	has_surface_form	and
+26665_23	is_in_sentence	sentence_26665
+26665_23	conj	26665_18
+26665_23	has_surface_form	starring
+26665_24	is_in_sentence	sentence_26665
+26665_24	compound	26665_25
+26665_24	has_surface_form	Enzo
+26665_24	part_of_entity	Enzo Fiermonte
+26665_25	is_in_sentence	sentence_26665
+26665_25	dobj	26665_23
+26665_25	has_surface_form	Fiermonte
+26665_25	part_of_entity	Enzo Fiermonte
+26665_26	is_in_sentence	sentence_26665
+26665_26	punct	26665_12
+26665_26	has_surface_form	.
+26665_27	is_in_sentence	sentence_26665
+26665_27	dep	26665_12
+26665_27	has_surface_form	
+The Adventures of Fra Diavolo	surface_form	The Adventures of Fra Diavolo
+The Adventures of Fra Diavolo	starring	Enzo Fiermonte
+Enzo Fiermonte	surface_form	Enzo Fiermonte

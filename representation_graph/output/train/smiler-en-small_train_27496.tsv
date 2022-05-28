@@ -1,0 +1,59 @@
+27495_0	is_in_sentence	sentence_27495
+27495_0	compound	27495_1
+27495_0	has_surface_form	Pablo
+27495_0	part_of_entity	Pablo Gómez Álvarez
+27495_1	is_in_sentence	sentence_27495
+27495_1	compound	27495_2
+27495_1	has_surface_form	Gómez
+27495_1	part_of_entity	Pablo Gómez Álvarez
+27495_2	is_in_sentence	sentence_27495
+27495_2	nsubj	27495_11
+27495_2	has_surface_form	Álvarez
+27495_2	part_of_entity	Pablo Gómez Álvarez
+27495_11	is_in_sentence	sentence_27495
+27495_11	ROOT	27495_11
+27495_11	has_surface_form	is
+27495_3	is_in_sentence	sentence_27495
+27495_3	punct	27495_2
+27495_3	has_surface_form	(
+27495_4	is_in_sentence	sentence_27495
+27495_4	acl	27495_2
+27495_4	has_surface_form	born
+27495_5	is_in_sentence	sentence_27495
+27495_5	npadvmod	27495_4
+27495_5	has_surface_form	1946
+27495_6	is_in_sentence	sentence_27495
+27495_6	punct	27495_2
+27495_6	has_surface_form	,
+27495_7	is_in_sentence	sentence_27495
+27495_7	prep	27495_2
+27495_7	has_surface_form	in
+27495_8	is_in_sentence	sentence_27495
+27495_8	compound	27495_9
+27495_8	has_surface_form	Mexico
+27495_8	part_of_entity	Mexico City
+27495_9	is_in_sentence	sentence_27495
+27495_9	pobj	27495_7
+27495_9	has_surface_form	City
+27495_9	part_of_entity	Mexico City
+27495_10	is_in_sentence	sentence_27495
+27495_10	punct	27495_2
+27495_10	has_surface_form	)
+27495_12	is_in_sentence	sentence_27495
+27495_12	det	27495_14
+27495_12	has_surface_form	a
+27495_14	is_in_sentence	sentence_27495
+27495_14	attr	27495_11
+27495_14	has_surface_form	politician
+27495_13	is_in_sentence	sentence_27495
+27495_13	amod	27495_14
+27495_13	has_surface_form	Mexican
+27495_15	is_in_sentence	sentence_27495
+27495_15	punct	27495_11
+27495_15	has_surface_form	.
+27495_16	is_in_sentence	sentence_27495
+27495_16	dep	27495_11
+27495_16	has_surface_form	
+Pablo Gómez Álvarez	surface_form	Pablo Gómez Álvarez
+Pablo Gómez Álvarez	birth-place	Mexico City
+Mexico City	surface_form	Mexico City

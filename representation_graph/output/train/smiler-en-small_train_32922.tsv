@@ -1,0 +1,66 @@
+32921_0	is_in_sentence	sentence_32921
+32921_0	compound	32921_1
+32921_0	has_surface_form	Pancho
+32921_0	part_of_entity	Pancho Talero en Hollywood
+32921_1	is_in_sentence	sentence_32921
+32921_1	nsubj	32921_4
+32921_1	has_surface_form	Talero
+32921_1	part_of_entity	Pancho Talero en Hollywood
+32921_4	is_in_sentence	sentence_32921
+32921_4	ROOT	32921_4
+32921_4	has_surface_form	is
+32921_2	is_in_sentence	sentence_32921
+32921_2	prep	32921_1
+32921_2	has_surface_form	en
+32921_2	part_of_entity	Pancho Talero en Hollywood
+32921_3	is_in_sentence	sentence_32921
+32921_3	pobj	32921_2
+32921_3	has_surface_form	Hollywood
+32921_3	part_of_entity	Pancho Talero en Hollywood
+32921_5	is_in_sentence	sentence_32921
+32921_5	det	32921_8
+32921_5	has_surface_form	a
+32921_8	is_in_sentence	sentence_32921
+32921_8	attr	32921_4
+32921_8	has_surface_form	film
+32921_6	is_in_sentence	sentence_32921
+32921_6	nummod	32921_8
+32921_6	has_surface_form	1931
+32921_7	is_in_sentence	sentence_32921
+32921_7	amod	32921_8
+32921_7	has_surface_form	Argentine
+32921_9	is_in_sentence	sentence_32921
+32921_9	acl	32921_8
+32921_9	has_surface_form	directed
+32921_10	is_in_sentence	sentence_32921
+32921_10	agent	32921_9
+32921_10	has_surface_form	by
+32921_11	is_in_sentence	sentence_32921
+32921_11	compound	32921_12
+32921_11	has_surface_form	Arturo
+32921_11	part_of_entity	Arturo Lanteri
+32921_12	is_in_sentence	sentence_32921
+32921_12	pobj	32921_10
+32921_12	has_surface_form	Lanteri
+32921_12	part_of_entity	Arturo Lanteri
+32921_13	is_in_sentence	sentence_32921
+32921_13	cc	32921_9
+32921_13	has_surface_form	and
+32921_14	is_in_sentence	sentence_32921
+32921_14	conj	32921_9
+32921_14	has_surface_form	starring
+32921_15	is_in_sentence	sentence_32921
+32921_15	compound	32921_16
+32921_15	has_surface_form	Pepito
+32921_16	is_in_sentence	sentence_32921
+32921_16	dobj	32921_14
+32921_16	has_surface_form	Petray
+32921_17	is_in_sentence	sentence_32921
+32921_17	punct	32921_4
+32921_17	has_surface_form	.
+32921_18	is_in_sentence	sentence_32921
+32921_18	dep	32921_4
+32921_18	has_surface_form	
+Pancho Talero en Hollywood	surface_form	Pancho Talero en Hollywood
+Pancho Talero en Hollywood	movie-has-director	Arturo Lanteri
+Arturo Lanteri	surface_form	Arturo Lanteri

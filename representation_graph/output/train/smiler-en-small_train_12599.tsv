@@ -1,0 +1,53 @@
+12598_0	is_in_sentence	sentence_12598
+12598_0	compound	12598_1
+12598_0	has_surface_form	Marek
+12598_0	part_of_entity	Marek Tomaszewski
+12598_1	is_in_sentence	sentence_12598
+12598_1	nsubj	12598_10
+12598_1	has_surface_form	Tomaszewski
+12598_1	part_of_entity	Marek Tomaszewski
+12598_10	is_in_sentence	sentence_12598
+12598_10	ROOT	12598_10
+12598_10	has_surface_form	is
+12598_2	is_in_sentence	sentence_12598
+12598_2	punct	12598_1
+12598_2	has_surface_form	(
+12598_3	is_in_sentence	sentence_12598
+12598_3	acl	12598_1
+12598_3	has_surface_form	born
+12598_4	is_in_sentence	sentence_12598
+12598_4	nummod	12598_5
+12598_4	has_surface_form	20
+12598_5	is_in_sentence	sentence_12598
+12598_5	npadvmod	12598_3
+12598_5	has_surface_form	November
+12598_6	is_in_sentence	sentence_12598
+12598_6	nummod	12598_5
+12598_6	has_surface_form	1943
+12598_7	is_in_sentence	sentence_12598
+12598_7	prep	12598_3
+12598_7	has_surface_form	in
+12598_8	is_in_sentence	sentence_12598
+12598_8	pobj	12598_7
+12598_8	has_surface_form	Kraków
+12598_9	is_in_sentence	sentence_12598
+12598_9	punct	12598_1
+12598_9	has_surface_form	)
+12598_11	is_in_sentence	sentence_12598
+12598_11	det	12598_13
+12598_11	has_surface_form	a
+12598_13	is_in_sentence	sentence_12598
+12598_13	attr	12598_10
+12598_13	is_entity	pianist
+12598_12	is_in_sentence	sentence_12598
+12598_12	amod	12598_13
+12598_12	has_surface_form	Polish
+pianist	surface_form	pianist
+12598_14	is_in_sentence	sentence_12598
+12598_14	punct	12598_10
+12598_14	has_surface_form	.
+12598_15	is_in_sentence	sentence_12598
+12598_15	dep	12598_10
+12598_15	has_surface_form	
+Marek Tomaszewski	surface_form	Marek Tomaszewski
+Marek Tomaszewski	has-occupation	pianist

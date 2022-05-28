@@ -1,0 +1,60 @@
+8546_0	is_in_sentence	sentence_8546
+8546_0	compound	8546_1
+8546_0	has_surface_form	Eric
+8546_0	part_of_entity	Eric Birch High School
+8546_1	is_in_sentence	sentence_8546
+8546_1	compound	8546_3
+8546_1	has_surface_form	Birch
+8546_1	part_of_entity	Eric Birch High School
+8546_3	is_in_sentence	sentence_8546
+8546_3	nsubjpass	8546_5
+8546_3	has_surface_form	School
+8546_3	part_of_entity	Eric Birch High School
+8546_2	is_in_sentence	sentence_8546
+8546_2	compound	8546_3
+8546_2	has_surface_form	High
+8546_2	part_of_entity	Eric Birch High School
+8546_5	is_in_sentence	sentence_8546
+8546_5	ROOT	8546_5
+8546_5	has_surface_form	located
+8546_4	is_in_sentence	sentence_8546
+8546_4	auxpass	8546_5
+8546_4	has_surface_form	is
+8546_6	is_in_sentence	sentence_8546
+8546_6	prep	8546_5
+8546_6	has_surface_form	at
+8546_7	is_in_sentence	sentence_8546
+8546_7	compound	8546_9
+8546_7	has_surface_form	7930
+8546_7	part_of_entity	7930 Locust Avenue in Fontana
+8546_9	is_in_sentence	sentence_8546
+8546_9	pobj	8546_6
+8546_9	has_surface_form	Avenue
+8546_9	part_of_entity	7930 Locust Avenue in Fontana
+8546_8	is_in_sentence	sentence_8546
+8546_8	compound	8546_9
+8546_8	has_surface_form	Locust
+8546_8	part_of_entity	7930 Locust Avenue in Fontana
+8546_10	is_in_sentence	sentence_8546
+8546_10	prep	8546_9
+8546_10	has_surface_form	in
+8546_10	part_of_entity	7930 Locust Avenue in Fontana
+8546_11	is_in_sentence	sentence_8546
+8546_11	pobj	8546_10
+8546_11	has_surface_form	Fontana
+8546_11	part_of_entity	7930 Locust Avenue in Fontana
+8546_12	is_in_sentence	sentence_8546
+8546_12	punct	8546_11
+8546_12	has_surface_form	,
+8546_13	is_in_sentence	sentence_8546
+8546_13	appos	8546_11
+8546_13	has_surface_form	California
+8546_14	is_in_sentence	sentence_8546
+8546_14	punct	8546_5
+8546_14	has_surface_form	.
+8546_15	is_in_sentence	sentence_8546
+8546_15	dep	8546_15
+8546_15	has_surface_form	
+Eric Birch High School	surface_form	Eric Birch High School
+Eric Birch High School	is-where	7930 Locust Avenue in Fontana
+7930 Locust Avenue in Fontana	surface_form	7930 Locust Avenue in Fontana

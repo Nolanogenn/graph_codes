@@ -1,0 +1,82 @@
+23622_0	is_in_sentence	sentence_23622
+23622_0	det	23622_1
+23622_0	has_surface_form	The
+23622_1	is_in_sentence	sentence_23622
+23622_1	nsubj	23622_5
+23622_1	has_surface_form	diet
+23622_5	is_in_sentence	sentence_23622
+23622_5	ROOT	23622_5
+23622_5	has_surface_form	includes
+23622_2	is_in_sentence	sentence_23622
+23622_2	prep	23622_1
+23622_2	has_surface_form	of
+23622_3	is_in_sentence	sentence_23622
+23622_3	compound	23622_4
+23622_3	has_surface_form	S.
+23622_3	part_of_entity	S. miliarius
+23622_4	is_in_sentence	sentence_23622
+23622_4	pobj	23622_2
+23622_4	has_surface_form	miliarius
+23622_4	part_of_entity	S. miliarius
+23622_6	is_in_sentence	sentence_23622
+23622_6	amod	23622_7
+23622_6	has_surface_form	small
+23622_6	part_of_entity	small mammals
+23622_7	is_in_sentence	sentence_23622
+23622_7	dobj	23622_5
+23622_7	has_surface_form	mammals
+23622_7	part_of_entity	small mammals
+23622_8	is_in_sentence	sentence_23622
+23622_8	cc	23622_7
+23622_8	has_surface_form	and
+23622_9	is_in_sentence	sentence_23622
+23622_9	conj	23622_7
+23622_9	has_surface_form	birds
+23622_10	is_in_sentence	sentence_23622
+23622_10	punct	23622_9
+23622_10	has_surface_form	,
+23622_11	is_in_sentence	sentence_23622
+23622_11	conj	23622_9
+23622_11	has_surface_form	lizards
+23622_12	is_in_sentence	sentence_23622
+23622_12	punct	23622_11
+23622_12	has_surface_form	,
+23622_13	is_in_sentence	sentence_23622
+23622_13	conj	23622_11
+23622_13	has_surface_form	insects
+23622_14	is_in_sentence	sentence_23622
+23622_14	punct	23622_13
+23622_14	has_surface_form	,
+23622_15	is_in_sentence	sentence_23622
+23622_15	cc	23622_13
+23622_15	has_surface_form	and
+23622_16	is_in_sentence	sentence_23622
+23622_16	conj	23622_13
+23622_16	has_surface_form	frogs
+23622_17	is_in_sentence	sentence_23622
+23622_17	punct	23622_16
+23622_17	has_surface_form	,
+23622_18	is_in_sentence	sentence_23622
+23622_18	advmod	23622_20
+23622_18	has_surface_form	as
+23622_20	is_in_sentence	sentence_23622
+23622_20	cc	23622_16
+23622_20	has_surface_form	as
+23622_19	is_in_sentence	sentence_23622
+23622_19	advmod	23622_20
+23622_19	has_surface_form	well
+23622_21	is_in_sentence	sentence_23622
+23622_21	amod	23622_22
+23622_21	has_surface_form	other
+23622_22	is_in_sentence	sentence_23622
+23622_22	conj	23622_16
+23622_22	has_surface_form	snakes
+23622_23	is_in_sentence	sentence_23622
+23622_23	punct	23622_5
+23622_23	has_surface_form	.
+23622_24	is_in_sentence	sentence_23622
+23622_24	dep	23622_24
+23622_24	has_surface_form	
+S. miliarius	surface_form	S. miliarius
+S. miliarius	eats	small mammals
+small mammals	surface_form	small mammals

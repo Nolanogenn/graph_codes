@@ -1,0 +1,71 @@
+12084_0	is_in_sentence	sentence_12084
+12084_0	compound	12084_1
+12084_0	has_surface_form	Marine
+12084_0	part_of_entity	Marine Fighter Attack Squadron 312
+12084_1	is_in_sentence	sentence_12084
+12084_1	compound	12084_3
+12084_1	has_surface_form	Fighter
+12084_1	part_of_entity	Marine Fighter Attack Squadron 312
+12084_3	is_in_sentence	sentence_12084
+12084_3	nsubj	12084_8
+12084_3	has_surface_form	Squadron
+12084_3	part_of_entity	Marine Fighter Attack Squadron 312
+12084_2	is_in_sentence	sentence_12084
+12084_2	compound	12084_3
+12084_2	has_surface_form	Attack
+12084_2	part_of_entity	Marine Fighter Attack Squadron 312
+12084_8	is_in_sentence	sentence_12084
+12084_8	ROOT	12084_8
+12084_8	has_surface_form	is
+12084_4	is_in_sentence	sentence_12084
+12084_4	nummod	12084_3
+12084_4	has_surface_form	312
+12084_4	part_of_entity	Marine Fighter Attack Squadron 312
+12084_5	is_in_sentence	sentence_12084
+12084_5	punct	12084_6
+12084_5	has_surface_form	(
+12084_6	is_in_sentence	sentence_12084
+12084_6	appos	12084_4
+12084_6	has_surface_form	VMFA-312
+12084_7	is_in_sentence	sentence_12084
+12084_7	punct	12084_4
+12084_7	has_surface_form	)
+12084_9	is_in_sentence	sentence_12084
+12084_9	det	12084_18
+12084_9	has_surface_form	a
+12084_18	is_in_sentence	sentence_12084
+12084_18	attr	12084_8
+12084_18	is_entity	squadron
+12084_10	is_in_sentence	sentence_12084
+12084_10	compound	12084_11
+12084_10	has_surface_form	United
+12084_11	is_in_sentence	sentence_12084
+12084_11	compound	12084_16
+12084_11	has_surface_form	States
+12084_16	is_in_sentence	sentence_12084
+12084_16	compound	12084_18
+12084_16	has_surface_form	A-18C
+12084_12	is_in_sentence	sentence_12084
+12084_12	compound	12084_16
+12084_12	has_surface_form	Marine
+12084_13	is_in_sentence	sentence_12084
+12084_13	nmod	12084_16
+12084_13	has_surface_form	Corps
+12084_14	is_in_sentence	sentence_12084
+12084_14	nmod	12084_16
+12084_14	has_surface_form	F
+12084_15	is_in_sentence	sentence_12084
+12084_15	punct	12084_16
+12084_15	has_surface_form	/
+12084_17	is_in_sentence	sentence_12084
+12084_17	compound	12084_18
+12084_17	has_surface_form	Hornet
+squadron	surface_form	squadron
+12084_19	is_in_sentence	sentence_12084
+12084_19	punct	12084_8
+12084_19	has_surface_form	.
+12084_20	is_in_sentence	sentence_12084
+12084_20	dep	12084_8
+12084_20	has_surface_form	
+Marine Fighter Attack Squadron 312	surface_form	Marine Fighter Attack Squadron 312
+Marine Fighter Attack Squadron 312	has-type	squadron

@@ -1,0 +1,85 @@
+12431_0	is_in_sentence	sentence_12431
+12431_0	det	12431_1
+12431_0	has_surface_form	A
+12431_0	part_of_entity	A Handful of Soil
+12431_1	is_in_sentence	sentence_12431
+12431_1	nsubj	12431_11
+12431_1	has_surface_form	Handful
+12431_1	part_of_entity	A Handful of Soil
+12431_11	is_in_sentence	sentence_12431
+12431_11	ROOT	12431_11
+12431_11	has_surface_form	is
+12431_2	is_in_sentence	sentence_12431
+12431_2	prep	12431_1
+12431_2	has_surface_form	of
+12431_2	part_of_entity	A Handful of Soil
+12431_3	is_in_sentence	sentence_12431
+12431_3	pobj	12431_2
+12431_3	has_surface_form	Soil
+12431_3	part_of_entity	A Handful of Soil
+12431_4	is_in_sentence	sentence_12431
+12431_4	punct	12431_5
+12431_4	has_surface_form	(
+12431_5	is_in_sentence	sentence_12431
+12431_5	appos	12431_1
+12431_5	has_surface_form	Turkish
+12431_6	is_in_sentence	sentence_12431
+12431_6	punct	12431_5
+12431_6	has_surface_form	:
+12431_7	is_in_sentence	sentence_12431
+12431_7	compound	12431_9
+12431_7	has_surface_form	Bir
+12431_9	is_in_sentence	sentence_12431
+12431_9	appos	12431_5
+12431_9	has_surface_form	Toprak
+12431_8	is_in_sentence	sentence_12431
+12431_8	compound	12431_9
+12431_8	has_surface_form	Avuç
+12431_10	is_in_sentence	sentence_12431
+12431_10	punct	12431_5
+12431_10	has_surface_form	)
+12431_12	is_in_sentence	sentence_12431
+12431_12	det	12431_17
+12431_12	has_surface_form	a
+12431_17	is_in_sentence	sentence_12431
+12431_17	attr	12431_11
+12431_17	has_surface_form	film
+12431_13	is_in_sentence	sentence_12431
+12431_13	nummod	12431_17
+12431_13	has_surface_form	1957
+12431_14	is_in_sentence	sentence_12431
+12431_14	amod	12431_17
+12431_14	has_surface_form	Turkish
+12431_15	is_in_sentence	sentence_12431
+12431_15	amod	12431_17
+12431_15	has_surface_form	romantic
+12431_16	is_in_sentence	sentence_12431
+12431_16	compound	12431_17
+12431_16	has_surface_form	drama
+12431_18	is_in_sentence	sentence_12431
+12431_18	acl	12431_17
+12431_18	has_surface_form	directed
+12431_19	is_in_sentence	sentence_12431
+12431_19	agent	12431_18
+12431_19	has_surface_form	by
+12431_20	is_in_sentence	sentence_12431
+12431_20	compound	12431_22
+12431_20	has_surface_form	Osman
+12431_20	part_of_entity	Osman F. Seden
+12431_22	is_in_sentence	sentence_12431
+12431_22	pobj	12431_19
+12431_22	has_surface_form	Seden
+12431_22	part_of_entity	Osman F. Seden
+12431_21	is_in_sentence	sentence_12431
+12431_21	compound	12431_22
+12431_21	has_surface_form	F.
+12431_21	part_of_entity	Osman F. Seden
+12431_23	is_in_sentence	sentence_12431
+12431_23	punct	12431_11
+12431_23	has_surface_form	.
+12431_24	is_in_sentence	sentence_12431
+12431_24	dep	12431_24
+12431_24	has_surface_form	
+A Handful of Soil	surface_form	A Handful of Soil
+A Handful of Soil	movie-has-director	Osman F. Seden
+Osman F. Seden	surface_form	Osman F. Seden

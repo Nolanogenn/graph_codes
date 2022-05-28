@@ -1,0 +1,89 @@
+30530_0	is_in_sentence	sentence_30530
+30530_0	compound	30530_1
+30530_0	has_surface_form	Lieutenant
+30530_1	is_in_sentence	sentence_30530
+30530_1	compound	30530_3
+30530_1	has_surface_form	Colonel
+30530_3	is_in_sentence	sentence_30530
+30530_3	nsubj	30530_14
+30530_3	has_surface_form	Banza
+30530_3	part_of_entity	Alexandre Banza
+30530_2	is_in_sentence	sentence_30530
+30530_2	compound	30530_3
+30530_2	has_surface_form	Alexandre
+30530_2	part_of_entity	Alexandre Banza
+30530_14	is_in_sentence	sentence_30530
+30530_14	ROOT	30530_14
+30530_14	has_surface_form	was
+30530_4	is_in_sentence	sentence_30530
+30530_4	punct	30530_3
+30530_4	has_surface_form	(
+30530_5	is_in_sentence	sentence_30530
+30530_5	nummod	30530_6
+30530_5	has_surface_form	10
+30530_6	is_in_sentence	sentence_30530
+30530_6	appos	30530_3
+30530_6	has_surface_form	October
+30530_7	is_in_sentence	sentence_30530
+30530_7	nummod	30530_6
+30530_7	has_surface_form	1932
+30530_8	is_in_sentence	sentence_30530
+30530_8	dep	30530_6
+30530_8	has_surface_form	 
+30530_9	is_in_sentence	sentence_30530
+30530_9	punct	30530_6
+30530_9	has_surface_form	–
+30530_10	is_in_sentence	sentence_30530
+30530_10	nummod	30530_6
+30530_10	has_surface_form	12
+30530_11	is_in_sentence	sentence_30530
+30530_11	npadvmod	30530_6
+30530_11	has_surface_form	April
+30530_12	is_in_sentence	sentence_30530
+30530_12	nummod	30530_11
+30530_12	has_surface_form	1969
+30530_13	is_in_sentence	sentence_30530
+30530_13	punct	30530_3
+30530_13	has_surface_form	)
+30530_15	is_in_sentence	sentence_30530
+30530_15	det	30530_17
+30530_15	has_surface_form	a
+30530_17	is_in_sentence	sentence_30530
+30530_17	attr	30530_14
+30530_17	has_surface_form	officer
+30530_16	is_in_sentence	sentence_30530
+30530_16	amod	30530_17
+30530_16	has_surface_form	military
+30530_18	is_in_sentence	sentence_30530
+30530_18	cc	30530_17
+30530_18	has_surface_form	and
+30530_19	is_in_sentence	sentence_30530
+30530_19	conj	30530_17
+30530_19	has_surface_form	politician
+30530_20	is_in_sentence	sentence_30530
+30530_20	prep	30530_17
+30530_20	has_surface_form	in
+30530_21	is_in_sentence	sentence_30530
+30530_21	det	30530_24
+30530_21	has_surface_form	the
+30530_24	is_in_sentence	sentence_30530
+30530_24	pobj	30530_20
+30530_24	has_surface_form	Republic
+30530_24	part_of_entity	Central African Republic
+30530_22	is_in_sentence	sentence_30530
+30530_22	compound	30530_24
+30530_22	has_surface_form	Central
+30530_22	part_of_entity	Central African Republic
+30530_23	is_in_sentence	sentence_30530
+30530_23	compound	30530_24
+30530_23	has_surface_form	African
+30530_23	part_of_entity	Central African Republic
+30530_25	is_in_sentence	sentence_30530
+30530_25	punct	30530_14
+30530_25	has_surface_form	.
+30530_26	is_in_sentence	sentence_30530
+30530_26	dep	30530_14
+30530_26	has_surface_form	
+Alexandre Banza	surface_form	Alexandre Banza
+Alexandre Banza	from-country	Central African Republic
+Central African Republic	surface_form	Central African Republic

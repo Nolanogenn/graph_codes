@@ -1,0 +1,59 @@
+35349_0	is_in_sentence	sentence_35349
+35349_0	compound	35349_1
+35349_0	has_surface_form	Barney
+35349_0	part_of_entity	Barney McAll
+35349_1	is_in_sentence	sentence_35349
+35349_1	nsubj	35349_10
+35349_1	has_surface_form	McAll
+35349_1	part_of_entity	Barney McAll
+35349_10	is_in_sentence	sentence_35349
+35349_10	ROOT	35349_10
+35349_10	has_surface_form	is
+35349_2	is_in_sentence	sentence_35349
+35349_2	punct	35349_1
+35349_2	has_surface_form	(
+35349_3	is_in_sentence	sentence_35349
+35349_3	amod	35349_6
+35349_3	has_surface_form	born
+35349_6	is_in_sentence	sentence_35349
+35349_6	appos	35349_1
+35349_6	has_surface_form	Australia
+35349_4	is_in_sentence	sentence_35349
+35349_4	nmod	35349_6
+35349_4	has_surface_form	Melbourne
+35349_5	is_in_sentence	sentence_35349
+35349_5	punct	35349_6
+35349_5	has_surface_form	,
+35349_7	is_in_sentence	sentence_35349
+35349_7	punct	35349_6
+35349_7	has_surface_form	,
+35349_8	is_in_sentence	sentence_35349
+35349_8	appos	35349_6
+35349_8	has_surface_form	1966
+35349_9	is_in_sentence	sentence_35349
+35349_9	punct	35349_6
+35349_9	has_surface_form	)
+35349_11	is_in_sentence	sentence_35349
+35349_11	det	35349_13
+35349_11	has_surface_form	a
+35349_13	is_in_sentence	sentence_35349
+35349_13	attr	35349_10
+35349_13	has_surface_form	pianist
+35349_12	is_in_sentence	sentence_35349
+35349_12	compound	35349_13
+35349_12	is_entity	jazz
+jazz	surface_form	jazz
+35349_14	is_in_sentence	sentence_35349
+35349_14	cc	35349_13
+35349_14	has_surface_form	and
+35349_15	is_in_sentence	sentence_35349
+35349_15	conj	35349_13
+35349_15	has_surface_form	composer
+35349_16	is_in_sentence	sentence_35349
+35349_16	punct	35349_10
+35349_16	has_surface_form	.
+35349_17	is_in_sentence	sentence_35349
+35349_17	dep	35349_17
+35349_17	has_surface_form	
+Barney McAll	surface_form	Barney McAll
+Barney McAll	has-genre	jazz

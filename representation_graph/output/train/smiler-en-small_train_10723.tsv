@@ -1,0 +1,62 @@
+10722_0	is_in_sentence	sentence_10722
+10722_0	prep	10722_6
+10722_0	has_surface_form	On
+10722_6	is_in_sentence	sentence_10722
+10722_6	ROOT	10722_6
+10722_6	has_surface_form	married
+10722_1	is_in_sentence	sentence_10722
+10722_1	nummod	10722_2
+10722_1	has_surface_form	26
+10722_2	is_in_sentence	sentence_10722
+10722_2	pobj	10722_0
+10722_2	has_surface_form	May
+10722_3	is_in_sentence	sentence_10722
+10722_3	nummod	10722_2
+10722_3	has_surface_form	1648
+10722_4	is_in_sentence	sentence_10722
+10722_4	punct	10722_6
+10722_4	has_surface_form	,
+10722_5	is_in_sentence	sentence_10722
+10722_5	nsubj	10722_6
+10722_5	has_surface_form	Churchill
+10722_7	is_in_sentence	sentence_10722
+10722_7	compound	10722_8
+10722_7	has_surface_form	Elizabeth
+10722_7	part_of_entity	Elizabeth Drake
+10722_8	is_in_sentence	sentence_10722
+10722_8	dobj	10722_6
+10722_8	has_surface_form	Drake
+10722_8	part_of_entity	Elizabeth Drake
+10722_9	is_in_sentence	sentence_10722
+10722_9	punct	10722_8
+10722_9	has_surface_form	,
+10722_10	is_in_sentence	sentence_10722
+10722_10	appos	10722_8
+10722_10	has_surface_form	daughter
+10722_11	is_in_sentence	sentence_10722
+10722_11	prep	10722_10
+10722_11	has_surface_form	of
+10722_12	is_in_sentence	sentence_10722
+10722_12	compound	10722_14
+10722_12	has_surface_form	Sir
+10722_12	part_of_entity	Sir John Drake
+10722_14	is_in_sentence	sentence_10722
+10722_14	pobj	10722_11
+10722_14	has_surface_form	Drake
+10722_14	part_of_entity	Sir John Drake
+10722_13	is_in_sentence	sentence_10722
+10722_13	compound	10722_14
+10722_13	has_surface_form	John
+10722_13	part_of_entity	Sir John Drake
+10722_15	is_in_sentence	sentence_10722
+10722_15	punct	10722_8
+10722_15	has_surface_form	(
+10722_16	is_in_sentence	sentence_10722
+10722_16	appos	10722_8
+10722_16	has_surface_form	d.
+10722_17	is_in_sentence	sentence_10722
+10722_17	dep	10722_6
+10722_17	has_surface_form	
+Elizabeth Drake	surface_form	Elizabeth Drake
+Elizabeth Drake	has-parent	Sir John Drake
+Sir John Drake	surface_form	Sir John Drake

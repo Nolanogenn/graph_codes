@@ -1,0 +1,74 @@
+1671_0	is_in_sentence	sentence_1671
+1671_0	det	1671_3
+1671_0	has_surface_form	The
+1671_0	part_of_entity	The Brooklyn Public Library 's Windsor Terrace branch
+1671_3	is_in_sentence	sentence_1671
+1671_3	poss	1671_7
+1671_3	has_surface_form	Library
+1671_3	part_of_entity	The Brooklyn Public Library 's Windsor Terrace branch
+1671_1	is_in_sentence	sentence_1671
+1671_1	compound	1671_3
+1671_1	has_surface_form	Brooklyn
+1671_1	part_of_entity	The Brooklyn Public Library 's Windsor Terrace branch
+1671_2	is_in_sentence	sentence_1671
+1671_2	compound	1671_3
+1671_2	has_surface_form	Public
+1671_2	part_of_entity	The Brooklyn Public Library 's Windsor Terrace branch
+1671_7	is_in_sentence	sentence_1671
+1671_7	nsubjpass	1671_9
+1671_7	has_surface_form	branch
+1671_7	part_of_entity	The Brooklyn Public Library 's Windsor Terrace branch
+1671_4	is_in_sentence	sentence_1671
+1671_4	case	1671_3
+1671_4	has_surface_form	's
+1671_4	part_of_entity	The Brooklyn Public Library 's Windsor Terrace branch
+1671_5	is_in_sentence	sentence_1671
+1671_5	compound	1671_6
+1671_5	has_surface_form	Windsor
+1671_5	part_of_entity	The Brooklyn Public Library 's Windsor Terrace branch
+1671_6	is_in_sentence	sentence_1671
+1671_6	compound	1671_7
+1671_6	has_surface_form	Terrace
+1671_6	part_of_entity	The Brooklyn Public Library 's Windsor Terrace branch
+1671_9	is_in_sentence	sentence_1671
+1671_9	ROOT	1671_9
+1671_9	has_surface_form	located
+1671_8	is_in_sentence	sentence_1671
+1671_8	auxpass	1671_9
+1671_8	has_surface_form	is
+1671_10	is_in_sentence	sentence_1671
+1671_10	prep	1671_9
+1671_10	has_surface_form	at
+1671_11	is_in_sentence	sentence_1671
+1671_11	compound	1671_12
+1671_11	has_surface_form	East
+1671_12	is_in_sentence	sentence_1671
+1671_12	compound	1671_13
+1671_12	has_surface_form	5th
+1671_13	is_in_sentence	sentence_1671
+1671_13	pobj	1671_10
+1671_13	has_surface_form	Street
+1671_14	is_in_sentence	sentence_1671
+1671_14	prep	1671_9
+1671_14	has_surface_form	at
+1671_15	is_in_sentence	sentence_1671
+1671_15	compound	1671_17
+1671_15	has_surface_form	Fort
+1671_15	part_of_entity	Fort Hamilton Parkway
+1671_17	is_in_sentence	sentence_1671
+1671_17	pobj	1671_14
+1671_17	has_surface_form	Parkway
+1671_17	part_of_entity	Fort Hamilton Parkway
+1671_16	is_in_sentence	sentence_1671
+1671_16	compound	1671_17
+1671_16	has_surface_form	Hamilton
+1671_16	part_of_entity	Fort Hamilton Parkway
+1671_18	is_in_sentence	sentence_1671
+1671_18	punct	1671_9
+1671_18	has_surface_form	.
+1671_19	is_in_sentence	sentence_1671
+1671_19	dep	1671_9
+1671_19	has_surface_form	
+The Brooklyn Public Library 's Windsor Terrace branch	surface_form	The Brooklyn Public Library 's Windsor Terrace branch
+The Brooklyn Public Library 's Windsor Terrace branch	has-tourist-attraction	Fort Hamilton Parkway
+Fort Hamilton Parkway	surface_form	Fort Hamilton Parkway

@@ -1,0 +1,62 @@
+21681_0	is_in_sentence	sentence_21681
+21681_0	compound	21681_1
+21681_0	has_surface_form	Carsten
+21681_0	part_of_entity	Carsten Bjørnlund
+21681_1	is_in_sentence	sentence_21681
+21681_1	nsubj	21681_10
+21681_1	has_surface_form	Bjørnlund
+21681_1	part_of_entity	Carsten Bjørnlund
+21681_10	is_in_sentence	sentence_21681
+21681_10	ROOT	21681_10
+21681_10	has_surface_form	is
+21681_2	is_in_sentence	sentence_21681
+21681_2	punct	21681_1
+21681_2	has_surface_form	(
+21681_3	is_in_sentence	sentence_21681
+21681_3	acl	21681_1
+21681_3	has_surface_form	born
+21681_4	is_in_sentence	sentence_21681
+21681_4	nummod	21681_5
+21681_4	has_surface_form	28
+21681_5	is_in_sentence	sentence_21681
+21681_5	npadvmod	21681_3
+21681_5	has_surface_form	June
+21681_6	is_in_sentence	sentence_21681
+21681_6	nummod	21681_5
+21681_6	has_surface_form	1973
+21681_7	is_in_sentence	sentence_21681
+21681_7	prep	21681_3
+21681_7	has_surface_form	in
+21681_8	is_in_sentence	sentence_21681
+21681_8	pobj	21681_7
+21681_8	has_surface_form	Copenhagen
+21681_9	is_in_sentence	sentence_21681
+21681_9	punct	21681_1
+21681_9	has_surface_form	)
+21681_11	is_in_sentence	sentence_21681
+21681_11	det	21681_16
+21681_11	has_surface_form	a
+21681_16	is_in_sentence	sentence_21681
+21681_16	attr	21681_10
+21681_16	is_entity	actor
+21681_12	is_in_sentence	sentence_21681
+21681_12	amod	21681_16
+21681_12	has_surface_form	Danish
+21681_13	is_in_sentence	sentence_21681
+21681_13	nmod	21681_16
+21681_13	has_surface_form	film
+21681_14	is_in_sentence	sentence_21681
+21681_14	cc	21681_13
+21681_14	has_surface_form	and
+21681_15	is_in_sentence	sentence_21681
+21681_15	conj	21681_13
+21681_15	has_surface_form	television
+actor	surface_form	actor
+21681_17	is_in_sentence	sentence_21681
+21681_17	punct	21681_10
+21681_17	has_surface_form	.
+21681_18	is_in_sentence	sentence_21681
+21681_18	dep	21681_10
+21681_18	has_surface_form	
+Carsten Bjørnlund	surface_form	Carsten Bjørnlund
+Carsten Bjørnlund	has-occupation	actor

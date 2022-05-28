@@ -1,0 +1,70 @@
+23900_0	is_in_sentence	sentence_23900
+23900_0	compound	23900_1
+23900_0	has_surface_form	Rachel
+23900_0	part_of_entity	Rachel Farley
+23900_1	is_in_sentence	sentence_23900
+23900_1	nsubj	23900_13
+23900_1	has_surface_form	Farley
+23900_1	part_of_entity	Rachel Farley
+23900_13	is_in_sentence	sentence_23900
+23900_13	ROOT	23900_13
+23900_13	has_surface_form	is
+23900_2	is_in_sentence	sentence_23900
+23900_2	punct	23900_1
+23900_2	has_surface_form	(
+23900_3	is_in_sentence	sentence_23900
+23900_3	acl	23900_1
+23900_3	has_surface_form	born
+23900_4	is_in_sentence	sentence_23900
+23900_4	npadvmod	23900_3
+23900_4	has_surface_form	March
+23900_5	is_in_sentence	sentence_23900
+23900_5	nummod	23900_4
+23900_5	has_surface_form	28
+23900_6	is_in_sentence	sentence_23900
+23900_6	punct	23900_4
+23900_6	has_surface_form	,
+23900_7	is_in_sentence	sentence_23900
+23900_7	nummod	23900_4
+23900_7	has_surface_form	1995
+23900_8	is_in_sentence	sentence_23900
+23900_8	prep	23900_3
+23900_8	has_surface_form	in
+23900_9	is_in_sentence	sentence_23900
+23900_9	pobj	23900_8
+23900_9	has_surface_form	Lawrenceville
+23900_10	is_in_sentence	sentence_23900
+23900_10	punct	23900_9
+23900_10	has_surface_form	,
+23900_11	is_in_sentence	sentence_23900
+23900_11	appos	23900_9
+23900_11	has_surface_form	Georgia
+23900_12	is_in_sentence	sentence_23900
+23900_12	punct	23900_9
+23900_12	has_surface_form	)
+23900_14	is_in_sentence	sentence_23900
+23900_14	det	23900_18
+23900_14	has_surface_form	an
+23900_18	is_in_sentence	sentence_23900
+23900_18	attr	23900_13
+23900_18	has_surface_form	singer
+23900_15	is_in_sentence	sentence_23900
+23900_15	amod	23900_18
+23900_15	has_surface_form	American
+23900_16	is_in_sentence	sentence_23900
+23900_16	compound	23900_17
+23900_16	has_surface_form	country
+23900_16	part_of_entity	country music
+23900_17	is_in_sentence	sentence_23900
+23900_17	compound	23900_18
+23900_17	has_surface_form	music
+23900_17	part_of_entity	country music
+23900_19	is_in_sentence	sentence_23900
+23900_19	punct	23900_13
+23900_19	has_surface_form	.
+23900_20	is_in_sentence	sentence_23900
+23900_20	dep	23900_20
+23900_20	has_surface_form	
+Rachel Farley	surface_form	Rachel Farley
+Rachel Farley	has-genre	country music
+country music	surface_form	country music

@@ -1,0 +1,65 @@
+2420_0	is_in_sentence	sentence_2420
+2420_0	compound	2420_2
+2420_0	has_surface_form	Patricia
+2420_0	part_of_entity	Patricia Biow Broderick
+2420_2	is_in_sentence	sentence_2420
+2420_2	nsubj	2420_3
+2420_2	has_surface_form	Broderick
+2420_2	part_of_entity	Patricia Biow Broderick
+2420_1	is_in_sentence	sentence_2420
+2420_1	compound	2420_2
+2420_1	has_surface_form	Biow
+2420_1	part_of_entity	Patricia Biow Broderick
+2420_3	is_in_sentence	sentence_2420
+2420_3	ROOT	2420_3
+2420_3	has_surface_form	was
+2420_4	is_in_sentence	sentence_2420
+2420_4	det	2420_5
+2420_4	has_surface_form	the
+2420_5	is_in_sentence	sentence_2420
+2420_5	attr	2420_3
+2420_5	has_surface_form	wife
+2420_6	is_in_sentence	sentence_2420
+2420_6	prep	2420_5
+2420_6	has_surface_form	of
+2420_7	is_in_sentence	sentence_2420
+2420_7	compound	2420_9
+2420_7	has_surface_form	actor
+2420_9	is_in_sentence	sentence_2420
+2420_9	pobj	2420_6
+2420_9	has_surface_form	Broderick
+2420_8	is_in_sentence	sentence_2420
+2420_8	compound	2420_9
+2420_8	has_surface_form	James
+2420_10	is_in_sentence	sentence_2420
+2420_10	cc	2420_9
+2420_10	has_surface_form	and
+2420_11	is_in_sentence	sentence_2420
+2420_11	det	2420_12
+2420_11	has_surface_form	the
+2420_12	is_in_sentence	sentence_2420
+2420_12	conj	2420_9
+2420_12	has_surface_form	mother
+2420_13	is_in_sentence	sentence_2420
+2420_13	prep	2420_12
+2420_13	has_surface_form	of
+2420_14	is_in_sentence	sentence_2420
+2420_14	pobj	2420_13
+2420_14	has_surface_form	actor
+2420_15	is_in_sentence	sentence_2420
+2420_15	compound	2420_16
+2420_15	has_surface_form	Matthew
+2420_15	part_of_entity	Matthew Broderick
+2420_16	is_in_sentence	sentence_2420
+2420_16	appos	2420_12
+2420_16	has_surface_form	Broderick
+2420_16	part_of_entity	Matthew Broderick
+2420_17	is_in_sentence	sentence_2420
+2420_17	punct	2420_3
+2420_17	has_surface_form	.
+2420_18	is_in_sentence	sentence_2420
+2420_18	dep	2420_18
+2420_18	has_surface_form	
+Patricia Biow Broderick	surface_form	Patricia Biow Broderick
+Patricia Biow Broderick	has-child	Matthew Broderick
+Matthew Broderick	surface_form	Matthew Broderick

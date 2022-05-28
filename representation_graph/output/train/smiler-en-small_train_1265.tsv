@@ -1,0 +1,68 @@
+1264_0	is_in_sentence	sentence_1264
+1264_0	compound	1264_2
+1264_0	has_surface_form	Wayland
+1264_0	part_of_entity	Wayland High School
+1264_2	is_in_sentence	sentence_1264
+1264_2	nsubj	1264_3
+1264_2	has_surface_form	School
+1264_2	part_of_entity	Wayland High School
+1264_1	is_in_sentence	sentence_1264
+1264_1	compound	1264_2
+1264_1	has_surface_form	High
+1264_1	part_of_entity	Wayland High School
+1264_3	is_in_sentence	sentence_1264
+1264_3	ROOT	1264_3
+1264_3	has_surface_form	is
+1264_4	is_in_sentence	sentence_1264
+1264_4	det	1264_6
+1264_4	has_surface_form	a
+1264_6	is_in_sentence	sentence_1264
+1264_6	attr	1264_3
+1264_6	has_surface_form	school
+1264_5	is_in_sentence	sentence_1264
+1264_5	amod	1264_6
+1264_5	has_surface_form	high
+1264_7	is_in_sentence	sentence_1264
+1264_7	prep	1264_6
+1264_7	has_surface_form	in
+1264_8	is_in_sentence	sentence_1264
+1264_8	pobj	1264_7
+1264_8	has_surface_form	Wayland
+1264_9	is_in_sentence	sentence_1264
+1264_9	punct	1264_8
+1264_9	has_surface_form	,
+1264_10	is_in_sentence	sentence_1264
+1264_10	appos	1264_8
+1264_10	has_surface_form	Massachusetts
+1264_11	is_in_sentence	sentence_1264
+1264_11	punct	1264_3
+1264_11	has_surface_form	.
+1264_12	is_in_sentence	sentence_1264
+1264_12	poss	1264_13
+1264_12	has_surface_form	Its
+1264_13	is_in_sentence	sentence_1264
+1264_13	nsubj	1264_14
+1264_13	has_surface_form	principal
+1264_14	is_in_sentence	sentence_1264
+1264_14	ROOT	1264_14
+1264_14	has_surface_form	is
+1264_15	is_in_sentence	sentence_1264
+1264_15	compound	1264_17
+1264_15	has_surface_form	Mrs.
+1264_17	is_in_sentence	sentence_1264
+1264_17	attr	1264_14
+1264_17	has_surface_form	Mizoguchi
+1264_17	part_of_entity	Allyson Mizoguchi
+1264_16	is_in_sentence	sentence_1264
+1264_16	compound	1264_17
+1264_16	has_surface_form	Allyson
+1264_16	part_of_entity	Allyson Mizoguchi
+1264_18	is_in_sentence	sentence_1264
+1264_18	punct	1264_14
+1264_18	has_surface_form	.
+1264_19	is_in_sentence	sentence_1264
+1264_19	dep	1264_19
+1264_19	has_surface_form	
+Wayland High School	surface_form	Wayland High School
+Wayland High School	org-leader	Allyson Mizoguchi
+Allyson Mizoguchi	surface_form	Allyson Mizoguchi

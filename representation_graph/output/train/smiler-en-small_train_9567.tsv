@@ -1,0 +1,84 @@
+9566_0	is_in_sentence	sentence_9566
+9566_0	det	9566_3
+9566_0	has_surface_form	The
+9566_0	part_of_entity	The Outer Space Connection
+9566_3	is_in_sentence	sentence_9566
+9566_3	nsubj	9566_4
+9566_3	has_surface_form	Connection
+9566_3	part_of_entity	The Outer Space Connection
+9566_1	is_in_sentence	sentence_9566
+9566_1	compound	9566_3
+9566_1	has_surface_form	Outer
+9566_1	part_of_entity	The Outer Space Connection
+9566_2	is_in_sentence	sentence_9566
+9566_2	compound	9566_3
+9566_2	has_surface_form	Space
+9566_2	part_of_entity	The Outer Space Connection
+9566_4	is_in_sentence	sentence_9566
+9566_4	ROOT	9566_4
+9566_4	has_surface_form	is
+9566_5	is_in_sentence	sentence_9566
+9566_5	det	9566_8
+9566_5	has_surface_form	a
+9566_8	is_in_sentence	sentence_9566
+9566_8	attr	9566_4
+9566_8	has_surface_form	film
+9566_6	is_in_sentence	sentence_9566
+9566_6	nummod	9566_8
+9566_6	has_surface_form	1975
+9566_7	is_in_sentence	sentence_9566
+9566_7	compound	9566_8
+9566_7	has_surface_form	documentary
+9566_9	is_in_sentence	sentence_9566
+9566_9	acl	9566_8
+9566_9	has_surface_form	produced
+9566_10	is_in_sentence	sentence_9566
+9566_10	agent	9566_9
+9566_10	has_surface_form	by
+9566_11	is_in_sentence	sentence_9566
+9566_11	compound	9566_12
+9566_11	has_surface_form	Alan
+9566_12	is_in_sentence	sentence_9566
+9566_12	pobj	9566_10
+9566_12	has_surface_form	Landsburg
+9566_13	is_in_sentence	sentence_9566
+9566_13	punct	9566_12
+9566_13	has_surface_form	,
+9566_14	is_in_sentence	sentence_9566
+9566_14	acl	9566_12
+9566_14	has_surface_form	directed
+9566_15	is_in_sentence	sentence_9566
+9566_15	agent	9566_14
+9566_15	has_surface_form	by
+9566_16	is_in_sentence	sentence_9566
+9566_16	compound	9566_17
+9566_16	has_surface_form	Fred
+9566_16	part_of_entity	Fred Warshofsky
+9566_17	is_in_sentence	sentence_9566
+9566_17	pobj	9566_15
+9566_17	has_surface_form	Warshofsky
+9566_17	part_of_entity	Fred Warshofsky
+9566_18	is_in_sentence	sentence_9566
+9566_18	cc	9566_14
+9566_18	has_surface_form	and
+9566_19	is_in_sentence	sentence_9566
+9566_19	conj	9566_14
+9566_19	has_surface_form	narrated
+9566_20	is_in_sentence	sentence_9566
+9566_20	agent	9566_19
+9566_20	has_surface_form	by
+9566_21	is_in_sentence	sentence_9566
+9566_21	compound	9566_22
+9566_21	has_surface_form	Rod
+9566_22	is_in_sentence	sentence_9566
+9566_22	pobj	9566_20
+9566_22	has_surface_form	Serling
+9566_23	is_in_sentence	sentence_9566
+9566_23	punct	9566_4
+9566_23	has_surface_form	.
+9566_24	is_in_sentence	sentence_9566
+9566_24	dep	9566_4
+9566_24	has_surface_form	
+The Outer Space Connection	surface_form	The Outer Space Connection
+The Outer Space Connection	movie-has-director	Fred Warshofsky
+Fred Warshofsky	surface_form	Fred Warshofsky

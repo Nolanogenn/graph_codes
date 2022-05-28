@@ -1,0 +1,63 @@
+21713_0	is_in_sentence	sentence_21713
+21713_0	compound	21713_1
+21713_0	has_surface_form	North
+21713_0	part_of_entity	North Carolina Highway 344
+21713_1	is_in_sentence	sentence_21713
+21713_1	compound	21713_2
+21713_1	has_surface_form	Carolina
+21713_1	part_of_entity	North Carolina Highway 344
+21713_2	is_in_sentence	sentence_21713
+21713_2	nsubj	21713_9
+21713_2	has_surface_form	Highway
+21713_2	part_of_entity	North Carolina Highway 344
+21713_9	is_in_sentence	sentence_21713
+21713_9	ROOT	21713_9
+21713_9	has_surface_form	is
+21713_3	is_in_sentence	sentence_21713
+21713_3	nummod	21713_2
+21713_3	has_surface_form	344
+21713_3	part_of_entity	North Carolina Highway 344
+21713_4	is_in_sentence	sentence_21713
+21713_4	punct	21713_2
+21713_4	has_surface_form	(
+21713_5	is_in_sentence	sentence_21713
+21713_5	nsubj	21713_4
+21713_5	has_surface_form	NC
+21713_6	is_in_sentence	sentence_21713
+21713_6	dep	21713_5
+21713_6	has_surface_form	 
+21713_7	is_in_sentence	sentence_21713
+21713_7	nummod	21713_5
+21713_7	has_surface_form	344
+21713_8	is_in_sentence	sentence_21713
+21713_8	punct	21713_5
+21713_8	has_surface_form	)
+21713_10	is_in_sentence	sentence_21713
+21713_10	det	21713_13
+21713_10	has_surface_form	a
+21713_13	is_in_sentence	sentence_21713
+21713_13	attr	21713_9
+21713_13	has_surface_form	highway
+21713_13	part_of_entity	state highway
+21713_11	is_in_sentence	sentence_21713
+21713_11	amod	21713_13
+21713_11	has_surface_form	primary
+21713_12	is_in_sentence	sentence_21713
+21713_12	compound	21713_13
+21713_12	has_surface_form	state
+21713_12	part_of_entity	state highway
+21713_14	is_in_sentence	sentence_21713
+21713_14	prep	21713_13
+21713_14	has_surface_form	in
+21713_15	is_in_sentence	sentence_21713
+21713_15	det	21713_16
+21713_15	has_surface_form	the
+21713_16	is_in_sentence	sentence_21713
+21713_16	pobj	21713_14
+21713_16	has_surface_form	U.
+21713_17	is_in_sentence	sentence_21713
+21713_17	dep	21713_9
+21713_17	has_surface_form	
+North Carolina Highway 344	surface_form	North Carolina Highway 344
+North Carolina Highway 344	has-type	state highway
+state highway	surface_form	state highway

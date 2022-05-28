@@ -1,0 +1,79 @@
+14256_0	is_in_sentence	sentence_14256
+14256_0	compound	14256_1
+14256_0	has_surface_form	Man
+14256_0	part_of_entity	Man Afraid
+14256_1	is_in_sentence	sentence_14256
+14256_1	nsubj	14256_2
+14256_1	has_surface_form	Afraid
+14256_1	part_of_entity	Man Afraid
+14256_2	is_in_sentence	sentence_14256
+14256_2	ROOT	14256_2
+14256_2	has_surface_form	is
+14256_3	is_in_sentence	sentence_14256
+14256_3	det	14256_7
+14256_3	has_surface_form	a
+14256_7	is_in_sentence	sentence_14256
+14256_7	attr	14256_2
+14256_7	has_surface_form	noir
+14256_4	is_in_sentence	sentence_14256
+14256_4	nummod	14256_7
+14256_4	has_surface_form	1957
+14256_5	is_in_sentence	sentence_14256
+14256_5	amod	14256_7
+14256_5	has_surface_form	American
+14256_6	is_in_sentence	sentence_14256
+14256_6	compound	14256_7
+14256_6	has_surface_form	film
+14256_8	is_in_sentence	sentence_14256
+14256_8	acl	14256_7
+14256_8	has_surface_form	directed
+14256_9	is_in_sentence	sentence_14256
+14256_9	agent	14256_8
+14256_9	has_surface_form	by
+14256_10	is_in_sentence	sentence_14256
+14256_10	compound	14256_11
+14256_10	has_surface_form	Harry
+14256_10	part_of_entity	Harry Keller
+14256_11	is_in_sentence	sentence_14256
+14256_11	pobj	14256_9
+14256_11	has_surface_form	Keller
+14256_11	part_of_entity	Harry Keller
+14256_12	is_in_sentence	sentence_14256
+14256_12	cc	14256_8
+14256_12	has_surface_form	and
+14256_13	is_in_sentence	sentence_14256
+14256_13	conj	14256_8
+14256_13	has_surface_form	starring
+14256_14	is_in_sentence	sentence_14256
+14256_14	compound	14256_15
+14256_14	has_surface_form	George
+14256_15	is_in_sentence	sentence_14256
+14256_15	dobj	14256_13
+14256_15	has_surface_form	Nader
+14256_16	is_in_sentence	sentence_14256
+14256_16	punct	14256_15
+14256_16	has_surface_form	,
+14256_17	is_in_sentence	sentence_14256
+14256_17	compound	14256_18
+14256_17	has_surface_form	Phyllis
+14256_18	is_in_sentence	sentence_14256
+14256_18	conj	14256_15
+14256_18	has_surface_form	Thaxter
+14256_19	is_in_sentence	sentence_14256
+14256_19	cc	14256_18
+14256_19	has_surface_form	and
+14256_20	is_in_sentence	sentence_14256
+14256_20	compound	14256_21
+14256_20	has_surface_form	Tim
+14256_21	is_in_sentence	sentence_14256
+14256_21	conj	14256_18
+14256_21	has_surface_form	Hovey
+14256_22	is_in_sentence	sentence_14256
+14256_22	punct	14256_2
+14256_22	has_surface_form	.
+14256_23	is_in_sentence	sentence_14256
+14256_23	dep	14256_2
+14256_23	has_surface_form	
+Man Afraid	surface_form	Man Afraid
+Man Afraid	movie-has-director	Harry Keller
+Harry Keller	surface_form	Harry Keller

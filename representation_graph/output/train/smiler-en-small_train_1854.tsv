@@ -1,0 +1,94 @@
+1853_0	is_in_sentence	sentence_1853
+1853_0	compound	1853_1
+1853_0	has_surface_form	Richard
+1853_0	part_of_entity	Richard Gilliland
+1853_1	is_in_sentence	sentence_1853
+1853_1	nsubj	1853_9
+1853_1	has_surface_form	Gilliland
+1853_1	part_of_entity	Richard Gilliland
+1853_9	is_in_sentence	sentence_1853
+1853_9	ROOT	1853_9
+1853_9	has_surface_form	is
+1853_2	is_in_sentence	sentence_1853
+1853_2	punct	1853_1
+1853_2	has_surface_form	(
+1853_3	is_in_sentence	sentence_1853
+1853_3	acl	1853_1
+1853_3	has_surface_form	born
+1853_4	is_in_sentence	sentence_1853
+1853_4	npadvmod	1853_3
+1853_4	has_surface_form	January
+1853_5	is_in_sentence	sentence_1853
+1853_5	nummod	1853_4
+1853_5	has_surface_form	23
+1853_6	is_in_sentence	sentence_1853
+1853_6	punct	1853_4
+1853_6	has_surface_form	,
+1853_7	is_in_sentence	sentence_1853
+1853_7	nummod	1853_4
+1853_7	has_surface_form	1950
+1853_8	is_in_sentence	sentence_1853
+1853_8	punct	1853_1
+1853_8	has_surface_form	)
+1853_10	is_in_sentence	sentence_1853
+1853_10	det	1853_15
+1853_10	has_surface_form	an
+1853_15	is_in_sentence	sentence_1853
+1853_15	attr	1853_9
+1853_15	has_surface_form	actor
+1853_11	is_in_sentence	sentence_1853
+1853_11	amod	1853_15
+1853_11	has_surface_form	American
+1853_12	is_in_sentence	sentence_1853
+1853_12	nmod	1853_15
+1853_12	has_surface_form	television
+1853_13	is_in_sentence	sentence_1853
+1853_13	cc	1853_12
+1853_13	has_surface_form	and
+1853_14	is_in_sentence	sentence_1853
+1853_14	conj	1853_12
+1853_14	has_surface_form	movie
+1853_16	is_in_sentence	sentence_1853
+1853_16	punct	1853_9
+1853_16	has_surface_form	.
+1853_17	is_in_sentence	sentence_1853
+1853_17	nsubjpass	1853_20
+1853_17	has_surface_form	He
+1853_20	is_in_sentence	sentence_1853
+1853_20	ROOT	1853_20
+1853_20	has_surface_form	married
+1853_18	is_in_sentence	sentence_1853
+1853_18	aux	1853_20
+1853_18	has_surface_form	has
+1853_19	is_in_sentence	sentence_1853
+1853_19	auxpass	1853_20
+1853_19	has_surface_form	been
+1853_21	is_in_sentence	sentence_1853
+1853_21	aux	1853_22
+1853_21	has_surface_form	to
+1853_22	is_in_sentence	sentence_1853
+1853_22	xcomp	1853_20
+1853_22	has_surface_form	actress
+1853_23	is_in_sentence	sentence_1853
+1853_23	compound	1853_24
+1853_23	has_surface_form	Jean
+1853_23	part_of_entity	Jean Smart
+1853_24	is_in_sentence	sentence_1853
+1853_24	dobj	1853_22
+1853_24	has_surface_form	Smart
+1853_24	part_of_entity	Jean Smart
+1853_25	is_in_sentence	sentence_1853
+1853_25	prep	1853_22
+1853_25	has_surface_form	since
+1853_26	is_in_sentence	sentence_1853
+1853_26	pobj	1853_25
+1853_26	has_surface_form	1987
+1853_27	is_in_sentence	sentence_1853
+1853_27	punct	1853_20
+1853_27	has_surface_form	.
+1853_28	is_in_sentence	sentence_1853
+1853_28	dep	1853_28
+1853_28	has_surface_form	
+Richard Gilliland	surface_form	Richard Gilliland
+Richard Gilliland	has-spouse	Jean Smart
+Jean Smart	surface_form	Jean Smart

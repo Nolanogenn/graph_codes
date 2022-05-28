@@ -1,0 +1,106 @@
+33863_0	is_in_sentence	sentence_33863
+33863_0	det	33863_4
+33863_0	has_surface_form	The
+33863_4	is_in_sentence	sentence_33863
+33863_4	nsubj	33863_11
+33863_4	has_surface_form	Department
+33863_4	part_of_entity	New York City Department of Cultural Affairs
+33863_1	is_in_sentence	sentence_33863
+33863_1	compound	33863_2
+33863_1	has_surface_form	New
+33863_1	part_of_entity	New York City Department of Cultural Affairs
+33863_2	is_in_sentence	sentence_33863
+33863_2	compound	33863_3
+33863_2	has_surface_form	York
+33863_2	part_of_entity	New York City Department of Cultural Affairs
+33863_3	is_in_sentence	sentence_33863
+33863_3	compound	33863_4
+33863_3	has_surface_form	City
+33863_3	part_of_entity	New York City Department of Cultural Affairs
+33863_11	is_in_sentence	sentence_33863
+33863_11	ROOT	33863_11
+33863_11	has_surface_form	is
+33863_5	is_in_sentence	sentence_33863
+33863_5	prep	33863_4
+33863_5	has_surface_form	of
+33863_5	part_of_entity	New York City Department of Cultural Affairs
+33863_6	is_in_sentence	sentence_33863
+33863_6	compound	33863_7
+33863_6	has_surface_form	Cultural
+33863_6	part_of_entity	New York City Department of Cultural Affairs
+33863_7	is_in_sentence	sentence_33863
+33863_7	pobj	33863_5
+33863_7	has_surface_form	Affairs
+33863_7	part_of_entity	New York City Department of Cultural Affairs
+33863_8	is_in_sentence	sentence_33863
+33863_8	punct	33863_4
+33863_8	has_surface_form	(
+33863_9	is_in_sentence	sentence_33863
+33863_9	appos	33863_4
+33863_9	has_surface_form	DCLA
+33863_10	is_in_sentence	sentence_33863
+33863_10	punct	33863_4
+33863_10	has_surface_form	)
+33863_12	is_in_sentence	sentence_33863
+33863_12	det	33863_13
+33863_12	has_surface_form	the
+33863_13	is_in_sentence	sentence_33863
+33863_13	attr	33863_11
+33863_13	is_entity	department
+department	surface_form	department
+33863_14	is_in_sentence	sentence_33863
+33863_14	prep	33863_13
+33863_14	has_surface_form	of
+33863_15	is_in_sentence	sentence_33863
+33863_15	det	33863_16
+33863_15	has_surface_form	the
+33863_16	is_in_sentence	sentence_33863
+33863_16	pobj	33863_14
+33863_16	has_surface_form	government
+33863_17	is_in_sentence	sentence_33863
+33863_17	prep	33863_16
+33863_17	has_surface_form	of
+33863_18	is_in_sentence	sentence_33863
+33863_18	compound	33863_19
+33863_18	has_surface_form	New
+33863_19	is_in_sentence	sentence_33863
+33863_19	compound	33863_20
+33863_19	has_surface_form	York
+33863_20	is_in_sentence	sentence_33863
+33863_20	pobj	33863_17
+33863_20	has_surface_form	City
+33863_21	is_in_sentence	sentence_33863
+33863_21	acl	33863_13
+33863_21	has_surface_form	dedicated
+33863_22	is_in_sentence	sentence_33863
+33863_22	prep	33863_21
+33863_22	has_surface_form	to
+33863_23	is_in_sentence	sentence_33863
+33863_23	pcomp	33863_22
+33863_23	has_surface_form	supporting
+33863_24	is_in_sentence	sentence_33863
+33863_24	compound	33863_25
+33863_24	has_surface_form	New
+33863_25	is_in_sentence	sentence_33863
+33863_25	compound	33863_26
+33863_25	has_surface_form	York
+33863_26	is_in_sentence	sentence_33863
+33863_26	poss	33863_29
+33863_26	has_surface_form	City
+33863_29	is_in_sentence	sentence_33863
+33863_29	dobj	33863_23
+33863_29	has_surface_form	life
+33863_27	is_in_sentence	sentence_33863
+33863_27	case	33863_26
+33863_27	has_surface_form	's
+33863_28	is_in_sentence	sentence_33863
+33863_28	amod	33863_29
+33863_28	has_surface_form	cultural
+33863_30	is_in_sentence	sentence_33863
+33863_30	punct	33863_11
+33863_30	has_surface_form	.
+33863_31	is_in_sentence	sentence_33863
+33863_31	dep	33863_31
+33863_31	has_surface_form	
+New York City Department of Cultural Affairs	surface_form	New York City Department of Cultural Affairs
+New York City Department of Cultural Affairs	has-type	department

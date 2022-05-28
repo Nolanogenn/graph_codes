@@ -1,0 +1,72 @@
+8896_0	is_in_sentence	sentence_8896
+8896_0	compound	8896_1
+8896_0	has_surface_form	Lucky
+8896_0	part_of_entity	Lucky Buddha Beer
+8896_1	is_in_sentence	sentence_8896
+8896_1	compound	8896_2
+8896_1	has_surface_form	Buddha
+8896_1	part_of_entity	Lucky Buddha Beer
+8896_2	is_in_sentence	sentence_8896
+8896_2	nsubj	8896_8
+8896_2	has_surface_form	Beer
+8896_2	part_of_entity	Lucky Buddha Beer
+8896_8	is_in_sentence	sentence_8896
+8896_8	ROOT	8896_8
+8896_8	has_surface_form	is
+8896_3	is_in_sentence	sentence_8896
+8896_3	punct	8896_8
+8896_3	has_surface_form	(
+8896_4	is_in_sentence	sentence_8896
+8896_4	nsubj	8896_8
+8896_4	has_surface_form	Chinese
+8896_5	is_in_sentence	sentence_8896
+8896_5	punct	8896_6
+8896_5	has_surface_form	:
+8896_6	is_in_sentence	sentence_8896
+8896_6	appos	8896_4
+8896_6	has_surface_form	乐开啤酒
+8896_7	is_in_sentence	sentence_8896
+8896_7	punct	8896_6
+8896_7	has_surface_form	)
+8896_9	is_in_sentence	sentence_8896
+8896_9	det	8896_10
+8896_9	has_surface_form	a
+8896_10	is_in_sentence	sentence_8896
+8896_10	attr	8896_8
+8896_10	is_entity	beer
+beer	surface_form	beer
+8896_11	is_in_sentence	sentence_8896
+8896_11	acl	8896_10
+8896_11	has_surface_form	brewed
+8896_12	is_in_sentence	sentence_8896
+8896_12	cc	8896_11
+8896_12	has_surface_form	and
+8896_13	is_in_sentence	sentence_8896
+8896_13	conj	8896_11
+8896_13	has_surface_form	bottled
+8896_14	is_in_sentence	sentence_8896
+8896_14	prep	8896_13
+8896_14	has_surface_form	at
+8896_15	is_in_sentence	sentence_8896
+8896_15	det	8896_17
+8896_15	has_surface_form	the
+8896_17	is_in_sentence	sentence_8896
+8896_17	pobj	8896_14
+8896_17	has_surface_form	Lake
+8896_16	is_in_sentence	sentence_8896
+8896_16	compound	8896_17
+8896_16	has_surface_form	Qiandao
+8896_18	is_in_sentence	sentence_8896
+8896_18	punct	8896_17
+8896_18	has_surface_form	,
+8896_19	is_in_sentence	sentence_8896
+8896_19	appos	8896_17
+8896_19	has_surface_form	China
+8896_20	is_in_sentence	sentence_8896
+8896_20	punct	8896_8
+8896_20	has_surface_form	.
+8896_21	is_in_sentence	sentence_8896
+8896_21	dep	8896_8
+8896_21	has_surface_form	
+Lucky Buddha Beer	surface_form	Lucky Buddha Beer
+Lucky Buddha Beer	has-type	beer

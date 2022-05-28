@@ -1,0 +1,81 @@
+1713_0	is_in_sentence	sentence_1713
+1713_0	compound	1713_2
+1713_0	has_surface_form	International
+1713_0	part_of_entity	International Maritime Institute
+1713_2	is_in_sentence	sentence_1713
+1713_2	nsubj	1713_9
+1713_2	has_surface_form	Institute
+1713_2	part_of_entity	International Maritime Institute
+1713_1	is_in_sentence	sentence_1713
+1713_1	compound	1713_2
+1713_1	has_surface_form	Maritime
+1713_1	part_of_entity	International Maritime Institute
+1713_9	is_in_sentence	sentence_1713
+1713_9	ROOT	1713_9
+1713_9	has_surface_form	is
+1713_3	is_in_sentence	sentence_1713
+1713_3	punct	1713_2
+1713_3	has_surface_form	(
+1713_4	is_in_sentence	sentence_1713
+1713_4	advmod	1713_5
+1713_4	has_surface_form	also
+1713_5	is_in_sentence	sentence_1713
+1713_5	acl	1713_2
+1713_5	has_surface_form	known
+1713_6	is_in_sentence	sentence_1713
+1713_6	prep	1713_5
+1713_6	has_surface_form	as
+1713_7	is_in_sentence	sentence_1713
+1713_7	pobj	1713_6
+1713_7	has_surface_form	IMI
+1713_8	is_in_sentence	sentence_1713
+1713_8	punct	1713_2
+1713_8	has_surface_form	)
+1713_10	is_in_sentence	sentence_1713
+1713_10	det	1713_14
+1713_10	has_surface_form	a
+1713_14	is_in_sentence	sentence_1713
+1713_14	attr	1713_9
+1713_14	has_surface_form	college
+1713_11	is_in_sentence	sentence_1713
+1713_11	amod	1713_14
+1713_11	has_surface_form	private
+1713_12	is_in_sentence	sentence_1713
+1713_12	compound	1713_13
+1713_12	has_surface_form	marine
+1713_13	is_in_sentence	sentence_1713
+1713_13	compound	1713_14
+1713_13	has_surface_form	engineering
+1713_15	is_in_sentence	sentence_1713
+1713_15	prep	1713_14
+1713_15	has_surface_form	in
+1713_16	is_in_sentence	sentence_1713
+1713_16	compound	1713_17
+1713_16	has_surface_form	Greater
+1713_17	is_in_sentence	sentence_1713
+1713_17	pobj	1713_15
+1713_17	has_surface_form	Noida
+1713_18	is_in_sentence	sentence_1713
+1713_18	punct	1713_17
+1713_18	has_surface_form	,
+1713_19	is_in_sentence	sentence_1713
+1713_19	compound	1713_20
+1713_19	has_surface_form	Uttar
+1713_20	is_in_sentence	sentence_1713
+1713_20	conj	1713_17
+1713_20	has_surface_form	Pradesh
+1713_21	is_in_sentence	sentence_1713
+1713_21	punct	1713_20
+1713_21	has_surface_form	,
+1713_22	is_in_sentence	sentence_1713
+1713_22	npadvmod	1713_20
+1713_22	has_surface_form	India
+1713_23	is_in_sentence	sentence_1713
+1713_23	punct	1713_9
+1713_23	has_surface_form	.
+1713_24	is_in_sentence	sentence_1713
+1713_24	dep	1713_9
+1713_24	has_surface_form	
+International Maritime Institute	surface_form	International Maritime Institute
+International Maritime Institute	is-where	Greater Noida, Uttar Pradesh, India
+Greater Noida, Uttar Pradesh, India	surface_form	Greater Noida, Uttar Pradesh, India

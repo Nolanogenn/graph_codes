@@ -1,0 +1,47 @@
+11738_0	is_in_sentence	sentence_11738
+11738_0	compound	11738_1
+11738_0	has_surface_form	Capital
+11738_0	part_of_entity	Capital Kings
+11738_1	is_in_sentence	sentence_11738
+11738_1	nsubj	11738_2
+11738_1	has_surface_form	Kings
+11738_1	part_of_entity	Capital Kings
+11738_2	is_in_sentence	sentence_11738
+11738_2	ROOT	11738_2
+11738_2	has_surface_form	was
+11738_3	is_in_sentence	sentence_11738
+11738_3	det	11738_5
+11738_3	has_surface_form	an
+11738_5	is_in_sentence	sentence_11738
+11738_5	attr	11738_2
+11738_5	has_surface_form	pop
+11738_4	is_in_sentence	sentence_11738
+11738_4	amod	11738_5
+11738_4	has_surface_form	American
+11738_6	is_in_sentence	sentence_11738
+11738_6	punct	11738_5
+11738_6	has_surface_form	,
+11738_7	is_in_sentence	sentence_11738
+11738_7	conj	11738_5
+11738_7	is_entity	CEDM
+CEDM	surface_form	CEDM
+11738_8	is_in_sentence	sentence_11738
+11738_8	cc	11738_7
+11738_8	has_surface_form	and
+11738_9	is_in_sentence	sentence_11738
+11738_9	compound	11738_10
+11738_9	has_surface_form	Christian
+11738_10	is_in_sentence	sentence_11738
+11738_10	conj	11738_7
+11738_10	has_surface_form	pop
+11738_11	is_in_sentence	sentence_11738
+11738_11	attr	11738_2
+11738_11	has_surface_form	act
+11738_12	is_in_sentence	sentence_11738
+11738_12	punct	11738_2
+11738_12	has_surface_form	.
+11738_13	is_in_sentence	sentence_11738
+11738_13	dep	11738_13
+11738_13	has_surface_form	
+Capital Kings	surface_form	Capital Kings
+Capital Kings	has-genre	CEDM

@@ -1,0 +1,81 @@
+6441_0	is_in_sentence	sentence_6441
+6441_0	compound	6441_1
+6441_0	has_surface_form	Heavy
+6441_0	part_of_entity	Heavy Industries Taxila Education City University
+6441_1	is_in_sentence	sentence_6441
+6441_1	nmod	6441_5
+6441_1	has_surface_form	Industries
+6441_1	part_of_entity	Heavy Industries Taxila Education City University
+6441_5	is_in_sentence	sentence_6441
+6441_5	nsubj	6441_10
+6441_5	has_surface_form	University
+6441_5	part_of_entity	Heavy Industries Taxila Education City University
+6441_2	is_in_sentence	sentence_6441
+6441_2	compound	6441_4
+6441_2	has_surface_form	Taxila
+6441_2	part_of_entity	Heavy Industries Taxila Education City University
+6441_4	is_in_sentence	sentence_6441
+6441_4	compound	6441_5
+6441_4	has_surface_form	City
+6441_4	part_of_entity	Heavy Industries Taxila Education City University
+6441_3	is_in_sentence	sentence_6441
+6441_3	compound	6441_4
+6441_3	has_surface_form	Education
+6441_3	part_of_entity	Heavy Industries Taxila Education City University
+6441_10	is_in_sentence	sentence_6441
+6441_10	ROOT	6441_10
+6441_10	has_surface_form	is
+6441_6	is_in_sentence	sentence_6441
+6441_6	punct	6441_5
+6441_6	has_surface_form	(
+6441_7	is_in_sentence	sentence_6441
+6441_7	compound	6441_8
+6441_7	has_surface_form	HITEC
+6441_8	is_in_sentence	sentence_6441
+6441_8	appos	6441_5
+6441_8	has_surface_form	University
+6441_9	is_in_sentence	sentence_6441
+6441_9	punct	6441_5
+6441_9	has_surface_form	)
+6441_11	is_in_sentence	sentence_6441
+6441_11	det	6441_13
+6441_11	has_surface_form	a
+6441_13	is_in_sentence	sentence_6441
+6441_13	attr	6441_10
+6441_13	has_surface_form	university
+6441_12	is_in_sentence	sentence_6441
+6441_12	amod	6441_13
+6441_12	has_surface_form	private
+6441_14	is_in_sentence	sentence_6441
+6441_14	acl	6441_13
+6441_14	has_surface_form	located
+6441_15	is_in_sentence	sentence_6441
+6441_15	prep	6441_14
+6441_15	has_surface_form	in
+6441_16	is_in_sentence	sentence_6441
+6441_16	compound	6441_17
+6441_16	has_surface_form	Taxila
+6441_17	is_in_sentence	sentence_6441
+6441_17	pobj	6441_15
+6441_17	has_surface_form	Cantonment
+6441_18	is_in_sentence	sentence_6441
+6441_18	punct	6441_17
+6441_18	has_surface_form	,
+6441_19	is_in_sentence	sentence_6441
+6441_19	conj	6441_17
+6441_19	has_surface_form	Punjab
+6441_20	is_in_sentence	sentence_6441
+6441_20	punct	6441_19
+6441_20	has_surface_form	,
+6441_21	is_in_sentence	sentence_6441
+6441_21	npadvmod	6441_19
+6441_21	has_surface_form	Pakistan
+6441_22	is_in_sentence	sentence_6441
+6441_22	punct	6441_10
+6441_22	has_surface_form	.
+6441_23	is_in_sentence	sentence_6441
+6441_23	dep	6441_10
+6441_23	has_surface_form	
+Heavy Industries Taxila Education City University	surface_form	Heavy Industries Taxila Education City University
+Heavy Industries Taxila Education City University	is-where	Taxila Cantonment, Punjab, Pakistan
+Taxila Cantonment, Punjab, Pakistan	surface_form	Taxila Cantonment, Punjab, Pakistan

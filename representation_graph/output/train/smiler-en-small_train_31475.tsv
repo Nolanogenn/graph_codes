@@ -1,0 +1,81 @@
+31474_0	is_in_sentence	sentence_31474
+31474_0	compound	31474_1
+31474_0	has_surface_form	Heavy
+31474_0	part_of_entity	Heavy Industries Taxila Education City University
+31474_1	is_in_sentence	sentence_31474
+31474_1	nmod	31474_5
+31474_1	has_surface_form	Industries
+31474_1	part_of_entity	Heavy Industries Taxila Education City University
+31474_5	is_in_sentence	sentence_31474
+31474_5	nsubj	31474_10
+31474_5	has_surface_form	University
+31474_5	part_of_entity	Heavy Industries Taxila Education City University
+31474_2	is_in_sentence	sentence_31474
+31474_2	compound	31474_4
+31474_2	has_surface_form	Taxila
+31474_2	part_of_entity	Heavy Industries Taxila Education City University
+31474_4	is_in_sentence	sentence_31474
+31474_4	compound	31474_5
+31474_4	has_surface_form	City
+31474_4	part_of_entity	Heavy Industries Taxila Education City University
+31474_3	is_in_sentence	sentence_31474
+31474_3	compound	31474_4
+31474_3	has_surface_form	Education
+31474_3	part_of_entity	Heavy Industries Taxila Education City University
+31474_10	is_in_sentence	sentence_31474
+31474_10	ROOT	31474_10
+31474_10	has_surface_form	is
+31474_6	is_in_sentence	sentence_31474
+31474_6	punct	31474_5
+31474_6	has_surface_form	(
+31474_7	is_in_sentence	sentence_31474
+31474_7	compound	31474_8
+31474_7	has_surface_form	HITEC
+31474_8	is_in_sentence	sentence_31474
+31474_8	appos	31474_5
+31474_8	has_surface_form	University
+31474_9	is_in_sentence	sentence_31474
+31474_9	punct	31474_5
+31474_9	has_surface_form	)
+31474_11	is_in_sentence	sentence_31474
+31474_11	det	31474_13
+31474_11	has_surface_form	a
+31474_13	is_in_sentence	sentence_31474
+31474_13	attr	31474_10
+31474_13	has_surface_form	university
+31474_12	is_in_sentence	sentence_31474
+31474_12	amod	31474_13
+31474_12	has_surface_form	private
+31474_14	is_in_sentence	sentence_31474
+31474_14	acl	31474_13
+31474_14	has_surface_form	located
+31474_15	is_in_sentence	sentence_31474
+31474_15	prep	31474_14
+31474_15	has_surface_form	in
+31474_16	is_in_sentence	sentence_31474
+31474_16	compound	31474_17
+31474_16	has_surface_form	Taxila
+31474_17	is_in_sentence	sentence_31474
+31474_17	pobj	31474_15
+31474_17	has_surface_form	Cantonment
+31474_18	is_in_sentence	sentence_31474
+31474_18	punct	31474_17
+31474_18	has_surface_form	,
+31474_19	is_in_sentence	sentence_31474
+31474_19	conj	31474_17
+31474_19	has_surface_form	Punjab
+31474_20	is_in_sentence	sentence_31474
+31474_20	punct	31474_19
+31474_20	has_surface_form	,
+31474_21	is_in_sentence	sentence_31474
+31474_21	npadvmod	31474_19
+31474_21	has_surface_form	Pakistan
+31474_22	is_in_sentence	sentence_31474
+31474_22	punct	31474_10
+31474_22	has_surface_form	.
+31474_23	is_in_sentence	sentence_31474
+31474_23	dep	31474_10
+31474_23	has_surface_form	
+Heavy Industries Taxila Education City University	surface_form	Heavy Industries Taxila Education City University
+Heavy Industries Taxila Education City University	is-where	Taxila Cantonment, Punjab, Pakistan
+Taxila Cantonment, Punjab, Pakistan	surface_form	Taxila Cantonment, Punjab, Pakistan

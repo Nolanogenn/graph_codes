@@ -1,0 +1,56 @@
+26824_0	is_in_sentence	sentence_26824
+26824_0	nsubj	26824_1
+26824_0	has_surface_form	He
+26824_1	is_in_sentence	sentence_26824
+26824_1	ROOT	26824_1
+26824_1	has_surface_form	married
+26824_2	is_in_sentence	sentence_26824
+26824_2	dobj	26824_1
+26824_2	is_entity	Collins
+Collins	surface_form	Collins
+Collins	has-child	Jose Collins
+26824_3	is_in_sentence	sentence_26824
+26824_3	punct	26824_2
+26824_3	has_surface_form	,
+26824_4	is_in_sentence	sentence_26824
+26824_4	nsubj	26824_6
+26824_4	has_surface_form	who
+26824_6	is_in_sentence	sentence_26824
+26824_6	relcl	26824_2
+26824_6	has_surface_form	became
+26824_5	is_in_sentence	sentence_26824
+26824_5	advmod	26824_6
+26824_5	has_surface_form	later
+26824_7	is_in_sentence	sentence_26824
+26824_7	det	26824_8
+26824_7	has_surface_form	the
+26824_8	is_in_sentence	sentence_26824
+26824_8	attr	26824_6
+26824_8	has_surface_form	mother
+26824_9	is_in_sentence	sentence_26824
+26824_9	prep	26824_8
+26824_9	has_surface_form	of
+26824_10	is_in_sentence	sentence_26824
+26824_10	amod	26824_12
+26824_10	has_surface_form	musical
+26824_12	is_in_sentence	sentence_26824
+26824_12	compound	26824_14
+26824_12	has_surface_form	star
+26824_11	is_in_sentence	sentence_26824
+26824_11	compound	26824_12
+26824_11	has_surface_form	comedy
+26824_14	is_in_sentence	sentence_26824
+26824_14	pobj	26824_9
+26824_14	is_entity	Collins
+26824_14	part_of_entity	Jose Collins
+26824_13	is_in_sentence	sentence_26824
+26824_13	compound	26824_14
+26824_13	has_surface_form	Jose
+26824_13	part_of_entity	Jose Collins
+26824_15	is_in_sentence	sentence_26824
+26824_15	punct	26824_1
+26824_15	has_surface_form	.
+26824_16	is_in_sentence	sentence_26824
+26824_16	dep	26824_16
+26824_16	has_surface_form	
+Jose Collins	surface_form	Jose Collins

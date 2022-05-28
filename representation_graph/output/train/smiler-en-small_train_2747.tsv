@@ -1,0 +1,62 @@
+2746_0	is_in_sentence	sentence_2746
+2746_0	prep	2746_11
+2746_0	has_surface_form	In
+2746_11	is_in_sentence	sentence_2746
+2746_11	ROOT	2746_11
+2746_11	has_surface_form	married
+2746_1	is_in_sentence	sentence_2746
+2746_1	pobj	2746_0
+2746_1	has_surface_form	February
+2746_2	is_in_sentence	sentence_2746
+2746_2	nummod	2746_1
+2746_2	has_surface_form	1903
+2746_3	is_in_sentence	sentence_2746
+2746_3	punct	2746_11
+2746_3	has_surface_form	,
+2746_4	is_in_sentence	sentence_2746
+2746_4	poss	2746_6
+2746_4	is_entity	Proust
+2746_6	is_in_sentence	sentence_2746
+2746_6	nsubj	2746_11
+2746_6	has_surface_form	brother
+Proust	surface_form	Proust
+Proust	has-sibling	Robert Proust
+2746_5	is_in_sentence	sentence_2746
+2746_5	case	2746_4
+2746_5	has_surface_form	's
+2746_7	is_in_sentence	sentence_2746
+2746_7	punct	2746_6
+2746_7	has_surface_form	,
+2746_8	is_in_sentence	sentence_2746
+2746_8	compound	2746_9
+2746_8	has_surface_form	Robert
+2746_8	part_of_entity	Robert Proust
+2746_9	is_in_sentence	sentence_2746
+2746_9	appos	2746_6
+2746_9	is_entity	Proust
+2746_9	part_of_entity	Robert Proust
+2746_10	is_in_sentence	sentence_2746
+2746_10	punct	2746_9
+2746_10	has_surface_form	,
+2746_12	is_in_sentence	sentence_2746
+2746_12	cc	2746_11
+2746_12	has_surface_form	and
+2746_13	is_in_sentence	sentence_2746
+2746_13	conj	2746_11
+2746_13	has_surface_form	left
+2746_14	is_in_sentence	sentence_2746
+2746_14	det	2746_16
+2746_14	has_surface_form	the
+2746_16	is_in_sentence	sentence_2746
+2746_16	dobj	2746_13
+2746_16	has_surface_form	home
+2746_15	is_in_sentence	sentence_2746
+2746_15	compound	2746_16
+2746_15	has_surface_form	family
+2746_17	is_in_sentence	sentence_2746
+2746_17	punct	2746_11
+2746_17	has_surface_form	.
+2746_18	is_in_sentence	sentence_2746
+2746_18	dep	2746_18
+2746_18	has_surface_form	
+Robert Proust	surface_form	Robert Proust

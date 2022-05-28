@@ -1,0 +1,59 @@
+5725_0	is_in_sentence	sentence_5725
+5725_0	amod	5725_1
+5725_0	has_surface_form	American
+5725_1	is_in_sentence	sentence_5725
+5725_1	dep	5725_8
+5725_1	has_surface_form	Boy
+5725_8	is_in_sentence	sentence_5725
+5725_8	ROOT	5725_8
+5725_8	has_surface_form	is
+5725_2	is_in_sentence	sentence_5725
+5725_2	punct	5725_1
+5725_2	has_surface_form	:
+5725_3	is_in_sentence	sentence_5725
+5725_3	det	5725_4
+5725_3	has_surface_form	A
+5725_4	is_in_sentence	sentence_5725
+5725_4	nsubj	5725_8
+5725_4	has_surface_form	Profile
+5725_5	is_in_sentence	sentence_5725
+5725_5	prep	5725_4
+5725_5	has_surface_form	of
+5725_6	is_in_sentence	sentence_5725
+5725_6	compound	5725_7
+5725_6	has_surface_form	Steven
+5725_7	is_in_sentence	sentence_5725
+5725_7	pobj	5725_5
+5725_7	has_surface_form	Prince
+5725_9	is_in_sentence	sentence_5725
+5725_9	det	5725_11
+5725_9	has_surface_form	a
+5725_11	is_in_sentence	sentence_5725
+5725_11	attr	5725_8
+5725_11	has_surface_form	documentary
+5725_10	is_in_sentence	sentence_5725
+5725_10	nummod	5725_11
+5725_10	has_surface_form	1978
+5725_12	is_in_sentence	sentence_5725
+5725_12	acl	5725_11
+5725_12	has_surface_form	directed
+5725_13	is_in_sentence	sentence_5725
+5725_13	agent	5725_12
+5725_13	has_surface_form	by
+5725_14	is_in_sentence	sentence_5725
+5725_14	compound	5725_15
+5725_14	has_surface_form	Martin
+5725_14	part_of_entity	Martin Scorsese
+5725_15	is_in_sentence	sentence_5725
+5725_15	pobj	5725_13
+5725_15	has_surface_form	Scorsese
+5725_15	part_of_entity	Martin Scorsese
+5725_16	is_in_sentence	sentence_5725
+5725_16	punct	5725_8
+5725_16	has_surface_form	.
+5725_17	is_in_sentence	sentence_5725
+5725_17	dep	5725_17
+5725_17	has_surface_form	
+American Boy: A Profile of Steven Prince	surface_form	American Boy: A Profile of Steven Prince
+American Boy: A Profile of Steven Prince	movie-has-director	Martin Scorsese
+Martin Scorsese	surface_form	Martin Scorsese

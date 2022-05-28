@@ -1,0 +1,56 @@
+600_0	is_in_sentence	sentence_600
+600_0	compound	600_1
+600_0	has_surface_form	Tomo
+600_0	part_of_entity	Tomo Virk
+600_1	is_in_sentence	sentence_600
+600_1	nsubj	600_8
+600_1	has_surface_form	Virk
+600_1	part_of_entity	Tomo Virk
+600_8	is_in_sentence	sentence_600
+600_8	ROOT	600_8
+600_8	has_surface_form	is
+600_2	is_in_sentence	sentence_600
+600_2	punct	600_1
+600_2	has_surface_form	(
+600_3	is_in_sentence	sentence_600
+600_3	acl	600_1
+600_3	has_surface_form	born
+600_4	is_in_sentence	sentence_600
+600_4	nummod	600_5
+600_4	has_surface_form	31
+600_5	is_in_sentence	sentence_600
+600_5	npadvmod	600_3
+600_5	has_surface_form	May
+600_6	is_in_sentence	sentence_600
+600_6	nummod	600_5
+600_6	has_surface_form	1960
+600_7	is_in_sentence	sentence_600
+600_7	punct	600_1
+600_7	has_surface_form	)
+600_9	is_in_sentence	sentence_600
+600_9	det	600_12
+600_9	has_surface_form	a
+600_12	is_in_sentence	sentence_600
+600_12	attr	600_8
+600_12	has_surface_form	historian
+600_10	is_in_sentence	sentence_600
+600_10	amod	600_12
+600_10	has_surface_form	Slovene
+600_11	is_in_sentence	sentence_600
+600_11	amod	600_12
+600_11	has_surface_form	literary
+600_13	is_in_sentence	sentence_600
+600_13	cc	600_12
+600_13	has_surface_form	and
+600_14	is_in_sentence	sentence_600
+600_14	conj	600_12
+600_14	is_entity	essayist
+essayist	surface_form	essayist
+600_15	is_in_sentence	sentence_600
+600_15	punct	600_8
+600_15	has_surface_form	.
+600_16	is_in_sentence	sentence_600
+600_16	dep	600_8
+600_16	has_surface_form	
+Tomo Virk	surface_form	Tomo Virk
+Tomo Virk	has-occupation	essayist

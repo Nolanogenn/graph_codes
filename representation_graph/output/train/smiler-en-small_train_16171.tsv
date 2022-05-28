@@ -1,0 +1,82 @@
+16170_0	is_in_sentence	sentence_16170
+16170_0	compound	16170_1
+16170_0	has_surface_form	Arctic
+16170_0	part_of_entity	Arctic Heart
+16170_1	is_in_sentence	sentence_16170
+16170_1	nsubj	16170_10
+16170_1	has_surface_form	Heart
+16170_1	part_of_entity	Arctic Heart
+16170_10	is_in_sentence	sentence_16170
+16170_10	ROOT	16170_10
+16170_10	has_surface_form	is
+16170_2	is_in_sentence	sentence_16170
+16170_2	punct	16170_1
+16170_2	has_surface_form	(
+16170_3	is_in_sentence	sentence_16170
+16170_3	appos	16170_1
+16170_3	has_surface_form	French
+16170_4	is_in_sentence	sentence_16170
+16170_4	punct	16170_3
+16170_4	has_surface_form	:
+16170_5	is_in_sentence	sentence_16170
+16170_5	compound	16170_8
+16170_5	has_surface_form	Le
+16170_8	is_in_sentence	sentence_16170
+16170_8	appos	16170_3
+16170_8	has_surface_form	banquises
+16170_6	is_in_sentence	sentence_16170
+16170_6	compound	16170_8
+16170_6	has_surface_form	Secret
+16170_7	is_in_sentence	sentence_16170
+16170_7	compound	16170_8
+16170_7	has_surface_form	des
+16170_9	is_in_sentence	sentence_16170
+16170_9	punct	16170_3
+16170_9	has_surface_form	)
+16170_11	is_in_sentence	sentence_16170
+16170_11	det	16170_16
+16170_11	has_surface_form	a
+16170_16	is_in_sentence	sentence_16170
+16170_16	attr	16170_10
+16170_16	has_surface_form	film
+16170_12	is_in_sentence	sentence_16170
+16170_12	nummod	16170_16
+16170_12	has_surface_form	2016
+16170_13	is_in_sentence	sentence_16170
+16170_13	amod	16170_16
+16170_13	has_surface_form	French
+16170_14	is_in_sentence	sentence_16170
+16170_14	amod	16170_16
+16170_14	has_surface_form	romantic
+16170_15	is_in_sentence	sentence_16170
+16170_15	compound	16170_16
+16170_15	has_surface_form	comedy
+16170_17	is_in_sentence	sentence_16170
+16170_17	acl	16170_16
+16170_17	has_surface_form	written
+16170_18	is_in_sentence	sentence_16170
+16170_18	cc	16170_17
+16170_18	has_surface_form	and
+16170_19	is_in_sentence	sentence_16170
+16170_19	conj	16170_17
+16170_19	has_surface_form	directed
+16170_20	is_in_sentence	sentence_16170
+16170_20	agent	16170_19
+16170_20	has_surface_form	by
+16170_21	is_in_sentence	sentence_16170
+16170_21	compound	16170_22
+16170_21	has_surface_form	Marie
+16170_21	part_of_entity	Marie Madinier
+16170_22	is_in_sentence	sentence_16170
+16170_22	pobj	16170_20
+16170_22	has_surface_form	Madinier
+16170_22	part_of_entity	Marie Madinier
+16170_23	is_in_sentence	sentence_16170
+16170_23	punct	16170_10
+16170_23	has_surface_form	.
+16170_24	is_in_sentence	sentence_16170
+16170_24	dep	16170_10
+16170_24	has_surface_form	
+Arctic Heart	surface_form	Arctic Heart
+Arctic Heart	movie-has-director	Marie Madinier
+Marie Madinier	surface_form	Marie Madinier

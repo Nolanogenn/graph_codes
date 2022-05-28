@@ -1,0 +1,67 @@
+14970_0	is_in_sentence	sentence_14970
+14970_0	compound	14970_1
+14970_0	has_surface_form	Cam
+14970_0	part_of_entity	Cam Tatham
+14970_1	is_in_sentence	sentence_14970
+14970_1	nsubj	14970_11
+14970_1	has_surface_form	Tatham
+14970_1	part_of_entity	Cam Tatham
+14970_11	is_in_sentence	sentence_14970
+14970_11	ROOT	14970_11
+14970_11	has_surface_form	is
+14970_2	is_in_sentence	sentence_14970
+14970_2	punct	14970_1
+14970_2	has_surface_form	,
+14970_3	is_in_sentence	sentence_14970
+14970_3	acl	14970_1
+14970_3	has_surface_form	known
+14970_4	is_in_sentence	sentence_14970
+14970_4	agent	14970_3
+14970_4	has_surface_form	by
+14970_5	is_in_sentence	sentence_14970
+14970_5	poss	14970_7
+14970_5	has_surface_form	his
+14970_7	is_in_sentence	sentence_14970
+14970_7	pobj	14970_4
+14970_7	has_surface_form	name
+14970_6	is_in_sentence	sentence_14970
+14970_6	compound	14970_7
+14970_6	has_surface_form	stage
+14970_8	is_in_sentence	sentence_14970
+14970_8	compound	14970_9
+14970_8	has_surface_form	Sleepy
+14970_9	is_in_sentence	sentence_14970
+14970_9	appos	14970_7
+14970_9	has_surface_form	Tom
+14970_10	is_in_sentence	sentence_14970
+14970_10	punct	14970_1
+14970_10	has_surface_form	,
+14970_12	is_in_sentence	sentence_14970
+14970_12	det	14970_17
+14970_12	has_surface_form	a
+14970_17	is_in_sentence	sentence_14970
+14970_17	attr	14970_11
+14970_17	has_surface_form	producer
+14970_13	is_in_sentence	sentence_14970
+14970_13	amod	14970_14
+14970_13	has_surface_form	Canadian
+14970_13	part_of_entity	Canadian DJ
+14970_14	is_in_sentence	sentence_14970
+14970_14	nmod	14970_17
+14970_14	has_surface_form	DJ
+14970_14	part_of_entity	Canadian DJ
+14970_15	is_in_sentence	sentence_14970
+14970_15	cc	14970_14
+14970_15	has_surface_form	and
+14970_16	is_in_sentence	sentence_14970
+14970_16	compound	14970_17
+14970_16	has_surface_form	music
+14970_18	is_in_sentence	sentence_14970
+14970_18	punct	14970_11
+14970_18	has_surface_form	.
+14970_19	is_in_sentence	sentence_14970
+14970_19	dep	14970_11
+14970_19	has_surface_form	
+Cam Tatham	surface_form	Cam Tatham
+Cam Tatham	has-nationality	Canadian DJ
+Canadian DJ	surface_form	Canadian DJ

@@ -1,0 +1,57 @@
+32234_0	is_in_sentence	sentence_32234
+32234_0	dep	32234_4
+32234_0	has_surface_form	1988
+32234_4	is_in_sentence	sentence_32234
+32234_4	ROOT	32234_4
+32234_4	has_surface_form	introduce
+32234_1	is_in_sentence	sentence_32234
+32234_1	punct	32234_4
+32234_1	has_surface_form	:
+32234_2	is_in_sentence	sentence_32234
+32234_2	compound	32234_3
+32234_2	is_entity	Kodak
+32234_3	is_in_sentence	sentence_32234
+32234_3	nsubj	32234_4
+32234_3	has_surface_form	scientists
+Kodak	surface_form	Kodak
+Kodak	no_relation	coumarin tetramethyl laser
+32234_5	is_in_sentence	sentence_32234
+32234_5	det	32234_8
+32234_5	has_surface_form	the
+32234_8	is_in_sentence	sentence_32234
+32234_8	compound	32234_9
+32234_8	has_surface_form	laser
+32234_8	part_of_entity	coumarin tetramethyl laser
+32234_6	is_in_sentence	sentence_32234
+32234_6	compound	32234_7
+32234_6	has_surface_form	coumarin
+32234_6	part_of_entity	coumarin tetramethyl laser
+32234_7	is_in_sentence	sentence_32234
+32234_7	compound	32234_8
+32234_7	has_surface_form	tetramethyl
+32234_7	part_of_entity	coumarin tetramethyl laser
+32234_9	is_in_sentence	sentence_32234
+32234_9	dobj	32234_4
+32234_9	has_surface_form	dyes
+32234_10	is_in_sentence	sentence_32234
+32234_10	advmod	32234_11
+32234_10	has_surface_form	also
+32234_11	is_in_sentence	sentence_32234
+32234_11	acl	32234_9
+32234_11	has_surface_form	used
+32234_12	is_in_sentence	sentence_32234
+32234_12	prep	32234_11
+32234_12	has_surface_form	in
+32234_13	is_in_sentence	sentence_32234
+32234_13	amod	32234_14
+32234_13	has_surface_form	OLED
+32234_14	is_in_sentence	sentence_32234
+32234_14	pobj	32234_12
+32234_14	has_surface_form	devices
+32234_15	is_in_sentence	sentence_32234
+32234_15	punct	32234_4
+32234_15	has_surface_form	.
+32234_16	is_in_sentence	sentence_32234
+32234_16	dep	32234_16
+32234_16	has_surface_form	
+coumarin tetramethyl laser	surface_form	coumarin tetramethyl laser

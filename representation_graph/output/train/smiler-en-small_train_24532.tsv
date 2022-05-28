@@ -1,0 +1,60 @@
+24531_0	is_in_sentence	sentence_24531
+24531_0	det	24531_3
+24531_0	has_surface_form	The
+24531_3	is_in_sentence	sentence_24531
+24531_3	nsubj	24531_4
+24531_3	has_surface_form	College
+24531_3	part_of_entity	Canadian Sudanese College
+24531_1	is_in_sentence	sentence_24531
+24531_1	amod	24531_3
+24531_1	has_surface_form	Canadian
+24531_1	part_of_entity	Canadian Sudanese College
+24531_2	is_in_sentence	sentence_24531
+24531_2	compound	24531_3
+24531_2	has_surface_form	Sudanese
+24531_2	part_of_entity	Canadian Sudanese College
+24531_4	is_in_sentence	sentence_24531
+24531_4	ROOT	24531_4
+24531_4	has_surface_form	is
+24531_5	is_in_sentence	sentence_24531
+24531_5	det	24531_7
+24531_5	has_surface_form	an
+24531_7	is_in_sentence	sentence_24531
+24531_7	attr	24531_4
+24531_7	has_surface_form	institution
+24531_6	is_in_sentence	sentence_24531
+24531_6	amod	24531_7
+24531_6	has_surface_form	educational
+24531_8	is_in_sentence	sentence_24531
+24531_8	acl	24531_7
+24531_8	has_surface_form	based
+24531_9	is_in_sentence	sentence_24531
+24531_9	prep	24531_8
+24531_9	has_surface_form	in
+24531_10	is_in_sentence	sentence_24531
+24531_10	det	24531_11
+24531_10	has_surface_form	the
+24531_11	is_in_sentence	sentence_24531
+24531_11	pobj	24531_9
+24531_11	has_surface_form	city
+24531_12	is_in_sentence	sentence_24531
+24531_12	prep	24531_11
+24531_12	has_surface_form	of
+24531_13	is_in_sentence	sentence_24531
+24531_13	pobj	24531_12
+24531_13	is_entity	Khartoum
+Khartoum	surface_form	Khartoum
+24531_14	is_in_sentence	sentence_24531
+24531_14	punct	24531_13
+24531_14	has_surface_form	,
+24531_15	is_in_sentence	sentence_24531
+24531_15	appos	24531_13
+24531_15	has_surface_form	Sudan
+24531_16	is_in_sentence	sentence_24531
+24531_16	punct	24531_4
+24531_16	has_surface_form	.
+24531_17	is_in_sentence	sentence_24531
+24531_17	dep	24531_4
+24531_17	has_surface_form	
+Canadian Sudanese College	surface_form	Canadian Sudanese College
+Canadian Sudanese College	is-where	Khartoum

@@ -1,0 +1,88 @@
+30939_0	is_in_sentence	sentence_30939
+30939_0	compound	30939_1
+30939_0	has_surface_form	Alvito
+30939_0	part_of_entity	Alvito Rodrigues
+30939_1	is_in_sentence	sentence_30939
+30939_1	nsubj	30939_8
+30939_1	has_surface_form	Rodrigues
+30939_1	part_of_entity	Alvito Rodrigues
+30939_8	is_in_sentence	sentence_30939
+30939_8	ROOT	30939_8
+30939_8	has_surface_form	is
+30939_2	is_in_sentence	sentence_30939
+30939_2	punct	30939_1
+30939_2	has_surface_form	(
+30939_3	is_in_sentence	sentence_30939
+30939_3	acl	30939_1
+30939_3	has_surface_form	born
+30939_4	is_in_sentence	sentence_30939
+30939_4	npadvmod	30939_3
+30939_4	has_surface_form	2
+30939_5	is_in_sentence	sentence_30939
+30939_5	npadvmod	30939_3
+30939_5	has_surface_form	July
+30939_6	is_in_sentence	sentence_30939
+30939_6	nummod	30939_5
+30939_6	has_surface_form	1982
+30939_7	is_in_sentence	sentence_30939
+30939_7	punct	30939_1
+30939_7	has_surface_form	)
+30939_9	is_in_sentence	sentence_30939
+30939_9	det	30939_11
+30939_9	has_surface_form	an
+30939_11	is_in_sentence	sentence_30939
+30939_11	attr	30939_8
+30939_11	has_surface_form	footballer
+30939_10	is_in_sentence	sentence_30939
+30939_10	amod	30939_11
+30939_10	has_surface_form	Indian
+30939_12	is_in_sentence	sentence_30939
+30939_12	nsubj	30939_13
+30939_12	has_surface_form	who
+30939_13	is_in_sentence	sentence_30939
+30939_13	relcl	30939_11
+30939_13	has_surface_form	plays
+30939_14	is_in_sentence	sentence_30939
+30939_14	prep	30939_13
+30939_14	has_surface_form	for
+30939_15	is_in_sentence	sentence_30939
+30939_15	compound	30939_16
+30939_15	has_surface_form	Salgaocar
+30939_15	part_of_entity	Salgaocar S.C.
+30939_16	is_in_sentence	sentence_30939
+30939_16	pobj	30939_14
+30939_16	has_surface_form	S.C.
+30939_16	part_of_entity	Salgaocar S.C.
+30939_17	is_in_sentence	sentence_30939
+30939_17	prep	30939_13
+30939_17	has_surface_form	as
+30939_18	is_in_sentence	sentence_30939
+30939_18	det	30939_19
+30939_18	has_surface_form	a
+30939_19	is_in_sentence	sentence_30939
+30939_19	pobj	30939_17
+30939_19	has_surface_form	Midfielder
+30939_20	is_in_sentence	sentence_30939
+30939_20	prep	30939_19
+30939_20	has_surface_form	in
+30939_21	is_in_sentence	sentence_30939
+30939_21	compound	30939_23
+30939_21	has_surface_form	I
+30939_23	is_in_sentence	sentence_30939
+30939_23	compound	30939_24
+30939_23	has_surface_form	League
+30939_22	is_in_sentence	sentence_30939
+30939_22	punct	30939_23
+30939_22	has_surface_form	-
+30939_24	is_in_sentence	sentence_30939
+30939_24	pobj	30939_20
+30939_24	has_surface_form	http://goal
+30939_25	is_in_sentence	sentence_30939
+30939_25	punct	30939_8
+30939_25	has_surface_form	.
+30939_26	is_in_sentence	sentence_30939
+30939_26	dep	30939_8
+30939_26	has_surface_form	
+Alvito Rodrigues	surface_form	Alvito Rodrigues
+Alvito Rodrigues	is-member-of	Salgaocar S.C.
+Salgaocar S.C.	surface_form	Salgaocar S.C.

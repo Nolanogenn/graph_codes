@@ -1,0 +1,59 @@
+6720_0	is_in_sentence	sentence_6720
+6720_0	compound	6720_1
+6720_0	has_surface_form	Gemini
+6720_0	part_of_entity	Gemini Publications
+6720_1	is_in_sentence	sentence_6720
+6720_1	nsubjpass	6720_3
+6720_1	has_surface_form	Publications
+6720_1	part_of_entity	Gemini Publications
+6720_3	is_in_sentence	sentence_6720
+6720_3	ROOT	6720_3
+6720_3	has_surface_form	founded
+6720_2	is_in_sentence	sentence_6720
+6720_2	auxpass	6720_3
+6720_2	has_surface_form	was
+6720_4	is_in_sentence	sentence_6720
+6720_4	prep	6720_3
+6720_4	has_surface_form	in
+6720_5	is_in_sentence	sentence_6720
+6720_5	pobj	6720_4
+6720_5	has_surface_form	1979
+6720_6	is_in_sentence	sentence_6720
+6720_6	agent	6720_3
+6720_6	has_surface_form	by
+6720_7	is_in_sentence	sentence_6720
+6720_7	compound	6720_9
+6720_7	has_surface_form	John
+6720_7	part_of_entity	John H. Zwarensteyn
+6720_9	is_in_sentence	sentence_6720
+6720_9	pobj	6720_6
+6720_9	has_surface_form	Zwarensteyn
+6720_9	part_of_entity	John H. Zwarensteyn
+6720_8	is_in_sentence	sentence_6720
+6720_8	compound	6720_9
+6720_8	has_surface_form	H.
+6720_8	part_of_entity	John H. Zwarensteyn
+6720_10	is_in_sentence	sentence_6720
+6720_10	prep	6720_9
+6720_10	has_surface_form	in
+6720_11	is_in_sentence	sentence_6720
+6720_11	compound	6720_12
+6720_11	has_surface_form	Grand
+6720_12	is_in_sentence	sentence_6720
+6720_12	pobj	6720_10
+6720_12	has_surface_form	Rapids
+6720_13	is_in_sentence	sentence_6720
+6720_13	punct	6720_12
+6720_13	has_surface_form	,
+6720_14	is_in_sentence	sentence_6720
+6720_14	appos	6720_12
+6720_14	has_surface_form	Michigan
+6720_15	is_in_sentence	sentence_6720
+6720_15	punct	6720_3
+6720_15	has_surface_form	.
+6720_16	is_in_sentence	sentence_6720
+6720_16	dep	6720_3
+6720_16	has_surface_form	
+Gemini Publications	surface_form	Gemini Publications
+Gemini Publications	org-has-founder	John H. Zwarensteyn
+John H. Zwarensteyn	surface_form	John H. Zwarensteyn

@@ -1,0 +1,85 @@
+11683_0	is_in_sentence	sentence_11683
+11683_0	det	11683_4
+11683_0	has_surface_form	The
+11683_4	is_in_sentence	sentence_11683
+11683_4	nsubj	11683_5
+11683_4	has_surface_form	website
+11683_1	is_in_sentence	sentence_11683
+11683_1	compound	11683_2
+11683_1	has_surface_form	Bob
+11683_1	part_of_entity	Bob Marley
+11683_2	is_in_sentence	sentence_11683
+11683_2	nmod	11683_4
+11683_2	has_surface_form	Marley
+11683_2	part_of_entity	Bob Marley
+11683_3	is_in_sentence	sentence_11683
+11683_3	amod	11683_4
+11683_3	has_surface_form	official
+11683_5	is_in_sentence	sentence_11683
+11683_5	ROOT	11683_5
+11683_5	has_surface_form	acknowledges
+11683_6	is_in_sentence	sentence_11683
+11683_6	nummod	11683_7
+11683_6	has_surface_form	11
+11683_7	is_in_sentence	sentence_11683
+11683_7	dobj	11683_5
+11683_7	has_surface_form	children
+11683_8	is_in_sentence	sentence_11683
+11683_8	punct	11683_5
+11683_8	has_surface_form	.
+11683_9	is_in_sentence	sentence_11683
+11683_9	nsubj	11683_15
+11683_9	has_surface_form	Those
+11683_15	is_in_sentence	sentence_11683
+11683_15	ROOT	11683_15
+11683_15	has_surface_form	are
+11683_10	is_in_sentence	sentence_11683
+11683_10	acl	11683_9
+11683_10	has_surface_form	listed
+11683_11	is_in_sentence	sentence_11683
+11683_11	prep	11683_10
+11683_11	has_surface_form	on
+11683_12	is_in_sentence	sentence_11683
+11683_12	det	11683_14
+11683_12	has_surface_form	the
+11683_14	is_in_sentence	sentence_11683
+11683_14	pobj	11683_11
+11683_14	has_surface_form	site
+11683_13	is_in_sentence	sentence_11683
+11683_13	amod	11683_14
+11683_13	has_surface_form	official
+11683_16	is_in_sentence	sentence_11683
+11683_16	punct	11683_15
+11683_16	has_surface_form	:
+11683_17	is_in_sentence	sentence_11683
+11683_17	attr	11683_15
+11683_17	has_surface_form	Sharon
+11683_18	is_in_sentence	sentence_11683
+11683_18	punct	11683_17
+11683_18	has_surface_form	,
+11683_19	is_in_sentence	sentence_11683
+11683_19	conj	11683_17
+11683_19	has_surface_form	Cedella
+11683_20	is_in_sentence	sentence_11683
+11683_20	punct	11683_19
+11683_20	has_surface_form	,
+11683_21	is_in_sentence	sentence_11683
+11683_21	cc	11683_19
+11683_21	has_surface_form	and
+11683_22	is_in_sentence	sentence_11683
+11683_22	compound	11683_23
+11683_22	has_surface_form	Robert
+11683_22	part_of_entity	Robert Robbie
+11683_23	is_in_sentence	sentence_11683
+11683_23	conj	11683_19
+11683_23	has_surface_form	Robbie
+11683_23	part_of_entity	Robert Robbie
+11683_24	is_in_sentence	sentence_11683
+11683_24	punct	11683_15
+11683_24	has_surface_form	.
+11683_25	is_in_sentence	sentence_11683
+11683_25	dep	11683_15
+11683_25	has_surface_form	
+Bob Marley	surface_form	Bob Marley
+Bob Marley	has-child	Robert Robbie
+Robert Robbie	surface_form	Robert Robbie

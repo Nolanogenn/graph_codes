@@ -1,0 +1,53 @@
+29670_0	is_in_sentence	sentence_29670
+29670_0	compound	29670_1
+29670_0	has_surface_form	Frank
+29670_0	part_of_entity	Frank Turner
+29670_1	is_in_sentence	sentence_29670
+29670_1	nsubjpass	29670_3
+29670_1	has_surface_form	Turner
+29670_1	part_of_entity	Frank Turner
+29670_3	is_in_sentence	sentence_29670
+29670_3	ROOT	29670_3
+29670_3	has_surface_form	born
+29670_2	is_in_sentence	sentence_29670
+29670_2	auxpass	29670_3
+29670_2	has_surface_form	was
+29670_4	is_in_sentence	sentence_29670
+29670_4	prep	29670_3
+29670_4	has_surface_form	in
+29670_5	is_in_sentence	sentence_29670
+29670_5	pobj	29670_4
+29670_5	is_entity	Bahrain
+Bahrain	surface_form	Bahrain
+29670_6	is_in_sentence	sentence_29670
+29670_6	advmod	29670_9
+29670_6	has_surface_form	where
+29670_9	is_in_sentence	sentence_29670
+29670_9	relcl	29670_5
+29670_9	has_surface_form	worked
+29670_7	is_in_sentence	sentence_29670
+29670_7	poss	29670_8
+29670_7	has_surface_form	his
+29670_8	is_in_sentence	sentence_29670
+29670_8	nsubj	29670_9
+29670_8	has_surface_form	father
+29670_10	is_in_sentence	sentence_29670
+29670_10	prep	29670_9
+29670_10	has_surface_form	as
+29670_11	is_in_sentence	sentence_29670
+29670_11	det	29670_13
+29670_11	has_surface_form	an
+29670_13	is_in_sentence	sentence_29670
+29670_13	pobj	29670_10
+29670_13	has_surface_form	banker
+29670_12	is_in_sentence	sentence_29670
+29670_12	compound	29670_13
+29670_12	has_surface_form	investment
+29670_14	is_in_sentence	sentence_29670
+29670_14	punct	29670_3
+29670_14	has_surface_form	.
+29670_15	is_in_sentence	sentence_29670
+29670_15	dep	29670_15
+29670_15	has_surface_form	
+Frank Turner	surface_form	Frank Turner
+Frank Turner	birth-place	Bahrain

@@ -1,0 +1,58 @@
+33224_0	is_in_sentence	sentence_33224
+33224_0	compound	33224_1
+33224_0	has_surface_form	Bob
+33224_0	part_of_entity	Bob Tyler
+33224_1	is_in_sentence	sentence_33224
+33224_1	nsubj	33224_9
+33224_1	has_surface_form	Tyler
+33224_1	part_of_entity	Bob Tyler
+33224_9	is_in_sentence	sentence_33224
+33224_9	ROOT	33224_9
+33224_9	has_surface_form	is
+33224_2	is_in_sentence	sentence_33224
+33224_2	punct	33224_1
+33224_2	has_surface_form	(
+33224_3	is_in_sentence	sentence_33224
+33224_3	acl	33224_1
+33224_3	has_surface_form	born
+33224_4	is_in_sentence	sentence_33224
+33224_4	npadvmod	33224_3
+33224_4	has_surface_form	July
+33224_5	is_in_sentence	sentence_33224
+33224_5	nummod	33224_4
+33224_5	has_surface_form	4
+33224_6	is_in_sentence	sentence_33224
+33224_6	punct	33224_4
+33224_6	has_surface_form	,
+33224_7	is_in_sentence	sentence_33224
+33224_7	nummod	33224_4
+33224_7	has_surface_form	1932
+33224_8	is_in_sentence	sentence_33224
+33224_8	punct	33224_1
+33224_8	has_surface_form	)
+33224_10	is_in_sentence	sentence_33224
+33224_10	det	33224_14
+33224_10	has_surface_form	a
+33224_14	is_in_sentence	sentence_33224
+33224_14	attr	33224_9
+33224_14	has_surface_form	coach
+33224_14	part_of_entity	football coach
+33224_11	is_in_sentence	sentence_33224
+33224_11	amod	33224_14
+33224_11	has_surface_form	former
+33224_12	is_in_sentence	sentence_33224
+33224_12	amod	33224_14
+33224_12	has_surface_form	American
+33224_13	is_in_sentence	sentence_33224
+33224_13	compound	33224_14
+33224_13	has_surface_form	football
+33224_13	part_of_entity	football coach
+33224_15	is_in_sentence	sentence_33224
+33224_15	punct	33224_9
+33224_15	has_surface_form	.
+33224_16	is_in_sentence	sentence_33224
+33224_16	dep	33224_16
+33224_16	has_surface_form	
+Bob Tyler	surface_form	Bob Tyler
+Bob Tyler	has-type	football coach
+football coach	surface_form	football coach

@@ -1,0 +1,94 @@
+8312_0	is_in_sentence	sentence_8312
+8312_0	compound	8312_1
+8312_0	has_surface_form	Andi
+8312_0	part_of_entity	Andi Setiawan
+8312_1	is_in_sentence	sentence_8312
+8312_1	nsubj	8312_8
+8312_1	has_surface_form	Setiawan
+8312_1	part_of_entity	Andi Setiawan
+8312_8	is_in_sentence	sentence_8312
+8312_8	ROOT	8312_8
+8312_8	has_surface_form	is
+8312_2	is_in_sentence	sentence_8312
+8312_2	punct	8312_1
+8312_2	has_surface_form	(
+8312_3	is_in_sentence	sentence_8312
+8312_3	acl	8312_1
+8312_3	has_surface_form	born
+8312_4	is_in_sentence	sentence_8312
+8312_4	nummod	8312_5
+8312_4	has_surface_form	6
+8312_5	is_in_sentence	sentence_8312
+8312_5	npadvmod	8312_3
+8312_5	has_surface_form	September
+8312_6	is_in_sentence	sentence_8312
+8312_6	nummod	8312_5
+8312_6	has_surface_form	1984
+8312_7	is_in_sentence	sentence_8312
+8312_7	punct	8312_1
+8312_7	has_surface_form	)
+8312_9	is_in_sentence	sentence_8312
+8312_9	det	8312_12
+8312_9	has_surface_form	an
+8312_12	is_in_sentence	sentence_8312
+8312_12	attr	8312_8
+8312_12	has_surface_form	footballer
+8312_10	is_in_sentence	sentence_8312
+8312_10	amod	8312_12
+8312_10	has_surface_form	Indonesian
+8312_11	is_in_sentence	sentence_8312
+8312_11	amod	8312_12
+8312_11	has_surface_form	professional
+8312_13	is_in_sentence	sentence_8312
+8312_13	nsubj	8312_15
+8312_13	has_surface_form	who
+8312_15	is_in_sentence	sentence_8312
+8312_15	relcl	8312_12
+8312_15	has_surface_form	plays
+8312_14	is_in_sentence	sentence_8312
+8312_14	advmod	8312_15
+8312_14	has_surface_form	currently
+8312_16	is_in_sentence	sentence_8312
+8312_16	prep	8312_15
+8312_16	has_surface_form	as
+8312_17	is_in_sentence	sentence_8312
+8312_17	det	8312_18
+8312_17	has_surface_form	a
+8312_18	is_in_sentence	sentence_8312
+8312_18	pobj	8312_16
+8312_18	has_surface_form	goalkeeper
+8312_19	is_in_sentence	sentence_8312
+8312_19	prep	8312_18
+8312_19	has_surface_form	for
+8312_20	is_in_sentence	sentence_8312
+8312_20	compound	8312_21
+8312_20	has_surface_form	Persela
+8312_20	part_of_entity	Persela Lamongan
+8312_21	is_in_sentence	sentence_8312
+8312_21	pobj	8312_19
+8312_21	has_surface_form	Lamongan
+8312_21	part_of_entity	Persela Lamongan
+8312_22	is_in_sentence	sentence_8312
+8312_22	prep	8312_18
+8312_22	has_surface_form	in
+8312_23	is_in_sentence	sentence_8312
+8312_23	det	8312_26
+8312_23	has_surface_form	the
+8312_26	is_in_sentence	sentence_8312
+8312_26	pobj	8312_22
+8312_26	has_surface_form	Championship
+8312_24	is_in_sentence	sentence_8312
+8312_24	compound	8312_26
+8312_24	has_surface_form	Indonesia
+8312_25	is_in_sentence	sentence_8312
+8312_25	compound	8312_26
+8312_25	has_surface_form	Soccer
+8312_27	is_in_sentence	sentence_8312
+8312_27	punct	8312_8
+8312_27	has_surface_form	.
+8312_28	is_in_sentence	sentence_8312
+8312_28	dep	8312_8
+8312_28	has_surface_form	
+Andi Setiawan	surface_form	Andi Setiawan
+Andi Setiawan	is-member-of	Persela Lamongan
+Persela Lamongan	surface_form	Persela Lamongan

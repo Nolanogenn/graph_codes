@@ -1,0 +1,51 @@
+24804_0	is_in_sentence	sentence_24804
+24804_0	det	24804_1
+24804_0	has_surface_form	A
+24804_0	part_of_entity	A Covenant with Death
+24804_1	is_in_sentence	sentence_24804
+24804_1	nsubj	24804_4
+24804_1	has_surface_form	Covenant
+24804_1	part_of_entity	A Covenant with Death
+24804_4	is_in_sentence	sentence_24804
+24804_4	ROOT	24804_4
+24804_4	has_surface_form	is
+24804_2	is_in_sentence	sentence_24804
+24804_2	prep	24804_1
+24804_2	has_surface_form	with
+24804_2	part_of_entity	A Covenant with Death
+24804_3	is_in_sentence	sentence_24804
+24804_3	pobj	24804_2
+24804_3	has_surface_form	Death
+24804_3	part_of_entity	A Covenant with Death
+24804_5	is_in_sentence	sentence_24804
+24804_5	det	24804_7
+24804_5	has_surface_form	a
+24804_7	is_in_sentence	sentence_24804
+24804_7	attr	24804_4
+24804_7	has_surface_form	film
+24804_6	is_in_sentence	sentence_24804
+24804_6	nummod	24804_7
+24804_6	has_surface_form	1967
+24804_8	is_in_sentence	sentence_24804
+24804_8	acl	24804_7
+24804_8	has_surface_form	directed
+24804_9	is_in_sentence	sentence_24804
+24804_9	agent	24804_8
+24804_9	has_surface_form	by
+24804_10	is_in_sentence	sentence_24804
+24804_10	compound	24804_11
+24804_10	has_surface_form	Lamont
+24804_10	part_of_entity	Lamont Johnson
+24804_11	is_in_sentence	sentence_24804
+24804_11	pobj	24804_9
+24804_11	has_surface_form	Johnson
+24804_11	part_of_entity	Lamont Johnson
+24804_12	is_in_sentence	sentence_24804
+24804_12	punct	24804_4
+24804_12	has_surface_form	.
+24804_13	is_in_sentence	sentence_24804
+24804_13	dep	24804_4
+24804_13	has_surface_form	
+A Covenant with Death	surface_form	A Covenant with Death
+A Covenant with Death	movie-has-director	Lamont Johnson
+Lamont Johnson	surface_form	Lamont Johnson

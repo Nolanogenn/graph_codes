@@ -1,0 +1,73 @@
+24321_0	is_in_sentence	sentence_24321
+24321_0	compound	24321_1
+24321_0	has_surface_form	Prison
+24321_0	part_of_entity	Prison Nurse
+24321_1	is_in_sentence	sentence_24321
+24321_1	nsubj	24321_2
+24321_1	has_surface_form	Nurse
+24321_1	part_of_entity	Prison Nurse
+24321_2	is_in_sentence	sentence_24321
+24321_2	ROOT	24321_2
+24321_2	has_surface_form	is
+24321_3	is_in_sentence	sentence_24321
+24321_3	det	24321_7
+24321_3	has_surface_form	a
+24321_7	is_in_sentence	sentence_24321
+24321_7	attr	24321_2
+24321_7	has_surface_form	film
+24321_4	is_in_sentence	sentence_24321
+24321_4	nummod	24321_7
+24321_4	has_surface_form	1938
+24321_5	is_in_sentence	sentence_24321
+24321_5	amod	24321_7
+24321_5	has_surface_form	American
+24321_6	is_in_sentence	sentence_24321
+24321_6	compound	24321_7
+24321_6	has_surface_form	drama
+24321_8	is_in_sentence	sentence_24321
+24321_8	acl	24321_7
+24321_8	has_surface_form	directed
+24321_9	is_in_sentence	sentence_24321
+24321_9	agent	24321_8
+24321_9	has_surface_form	by
+24321_10	is_in_sentence	sentence_24321
+24321_10	compound	24321_11
+24321_10	has_surface_form	James
+24321_10	part_of_entity	James Cruze
+24321_11	is_in_sentence	sentence_24321
+24321_11	pobj	24321_9
+24321_11	has_surface_form	Cruze
+24321_11	part_of_entity	James Cruze
+24321_12	is_in_sentence	sentence_24321
+24321_12	cc	24321_8
+24321_12	has_surface_form	and
+24321_13	is_in_sentence	sentence_24321
+24321_13	conj	24321_8
+24321_13	has_surface_form	written
+24321_14	is_in_sentence	sentence_24321
+24321_14	agent	24321_13
+24321_14	has_surface_form	by
+24321_15	is_in_sentence	sentence_24321
+24321_15	compound	24321_16
+24321_15	has_surface_form	Earl
+24321_16	is_in_sentence	sentence_24321
+24321_16	pobj	24321_14
+24321_16	has_surface_form	Felton
+24321_17	is_in_sentence	sentence_24321
+24321_17	cc	24321_16
+24321_17	has_surface_form	and
+24321_18	is_in_sentence	sentence_24321
+24321_18	compound	24321_19
+24321_18	has_surface_form	Sidney
+24321_19	is_in_sentence	sentence_24321
+24321_19	conj	24321_16
+24321_19	has_surface_form	Salkow
+24321_20	is_in_sentence	sentence_24321
+24321_20	punct	24321_2
+24321_20	has_surface_form	.
+24321_21	is_in_sentence	sentence_24321
+24321_21	dep	24321_21
+24321_21	has_surface_form	
+Prison Nurse	surface_form	Prison Nurse
+Prison Nurse	movie-has-director	James Cruze
+James Cruze	surface_form	James Cruze

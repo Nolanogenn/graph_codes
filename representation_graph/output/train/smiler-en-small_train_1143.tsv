@@ -1,0 +1,62 @@
+1142_0	is_in_sentence	sentence_1142
+1142_0	compound	1142_1
+1142_0	has_surface_form	Steve
+1142_0	part_of_entity	Steve Peters
+1142_1	is_in_sentence	sentence_1142
+1142_1	nsubj	1142_8
+1142_1	has_surface_form	Peters
+1142_1	part_of_entity	Steve Peters
+1142_8	is_in_sentence	sentence_1142
+1142_8	ROOT	1142_8
+1142_8	has_surface_form	is
+1142_2	is_in_sentence	sentence_1142
+1142_2	punct	1142_1
+1142_2	has_surface_form	(
+1142_3	is_in_sentence	sentence_1142
+1142_3	acl	1142_1
+1142_3	has_surface_form	born
+1142_4	is_in_sentence	sentence_1142
+1142_4	nummod	1142_5
+1142_4	has_surface_form	5
+1142_5	is_in_sentence	sentence_1142
+1142_5	npadvmod	1142_3
+1142_5	has_surface_form	July
+1142_6	is_in_sentence	sentence_1142
+1142_6	nummod	1142_5
+1142_6	has_surface_form	1953
+1142_7	is_in_sentence	sentence_1142
+1142_7	punct	1142_1
+1142_7	has_surface_form	)
+1142_9	is_in_sentence	sentence_1142
+1142_9	det	1142_11
+1142_9	has_surface_form	an
+1142_11	is_in_sentence	sentence_1142
+1142_11	attr	1142_8
+1142_11	has_surface_form	psychiatrist
+1142_10	is_in_sentence	sentence_1142
+1142_10	amod	1142_11
+1142_10	is_entity	English
+English	surface_form	English
+1142_12	is_in_sentence	sentence_1142
+1142_12	nsubj	1142_13
+1142_12	has_surface_form	who
+1142_13	is_in_sentence	sentence_1142
+1142_13	relcl	1142_11
+1142_13	has_surface_form	works
+1142_14	is_in_sentence	sentence_1142
+1142_14	prep	1142_13
+1142_14	has_surface_form	in
+1142_15	is_in_sentence	sentence_1142
+1142_15	amod	1142_16
+1142_15	has_surface_form	elite
+1142_16	is_in_sentence	sentence_1142
+1142_16	pobj	1142_14
+1142_16	has_surface_form	sport
+1142_17	is_in_sentence	sentence_1142
+1142_17	punct	1142_8
+1142_17	has_surface_form	.
+1142_18	is_in_sentence	sentence_1142
+1142_18	dep	1142_18
+1142_18	has_surface_form	
+Steve Peters	surface_form	Steve Peters
+Steve Peters	has-nationality	English

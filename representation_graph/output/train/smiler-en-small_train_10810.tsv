@@ -1,0 +1,112 @@
+10809_0	is_in_sentence	sentence_10809
+10809_0	compound	10809_1
+10809_0	has_surface_form	Gomel
+10809_0	part_of_entity	Gomel State Medical University
+10809_1	is_in_sentence	sentence_10809
+10809_1	compound	10809_3
+10809_1	has_surface_form	State
+10809_1	part_of_entity	Gomel State Medical University
+10809_3	is_in_sentence	sentence_10809
+10809_3	nsubj	10809_23
+10809_3	has_surface_form	University
+10809_3	part_of_entity	Gomel State Medical University
+10809_2	is_in_sentence	sentence_10809
+10809_2	compound	10809_3
+10809_2	has_surface_form	Medical
+10809_2	part_of_entity	Gomel State Medical University
+10809_23	is_in_sentence	sentence_10809
+10809_23	ROOT	10809_23
+10809_23	has_surface_form	is
+10809_4	is_in_sentence	sentence_10809
+10809_4	punct	10809_3
+10809_4	has_surface_form	(
+10809_5	is_in_sentence	sentence_10809
+10809_5	compound	10809_6
+10809_5	has_surface_form	Homiel
+10809_6	is_in_sentence	sentence_10809
+10809_6	compound	10809_8
+10809_6	has_surface_form	State
+10809_8	is_in_sentence	sentence_10809
+10809_8	appos	10809_3
+10809_8	has_surface_form	University
+10809_7	is_in_sentence	sentence_10809
+10809_7	compound	10809_8
+10809_7	has_surface_form	Medical
+10809_9	is_in_sentence	sentence_10809
+10809_9	punct	10809_8
+10809_9	has_surface_form	,
+10809_10	is_in_sentence	sentence_10809
+10809_10	nmod	10809_13
+10809_10	has_surface_form	Гомельский
+10809_13	is_in_sentence	sentence_10809
+10809_13	appos	10809_3
+10809_13	has_surface_form	университет
+10809_11	is_in_sentence	sentence_10809
+10809_11	amod	10809_13
+10809_11	has_surface_form	государственный
+10809_12	is_in_sentence	sentence_10809
+10809_12	amod	10809_13
+10809_12	has_surface_form	медицинский
+10809_14	is_in_sentence	sentence_10809
+10809_14	punct	10809_3
+10809_14	has_surface_form	;
+10809_15	is_in_sentence	sentence_10809
+10809_15	amod	10809_16
+10809_15	has_surface_form	former
+10809_16	is_in_sentence	sentence_10809
+10809_16	appos	10809_3
+10809_16	has_surface_form	name
+10809_17	is_in_sentence	sentence_10809
+10809_17	punct	10809_16
+10809_17	has_surface_form	:
+10809_18	is_in_sentence	sentence_10809
+10809_18	compound	10809_19
+10809_18	has_surface_form	Gomel
+10809_19	is_in_sentence	sentence_10809
+10809_19	compound	10809_21
+10809_19	has_surface_form	State
+10809_21	is_in_sentence	sentence_10809
+10809_21	appos	10809_16
+10809_21	has_surface_form	Institute
+10809_20	is_in_sentence	sentence_10809
+10809_20	compound	10809_21
+10809_20	has_surface_form	Medical
+10809_22	is_in_sentence	sentence_10809
+10809_22	punct	10809_16
+10809_22	has_surface_form	)
+10809_24	is_in_sentence	sentence_10809
+10809_24	amod	10809_25
+10809_24	has_surface_form	public
+10809_24	part_of_entity	public teaching university
+10809_25	is_in_sentence	sentence_10809
+10809_25	compound	10809_26
+10809_25	has_surface_form	teaching
+10809_25	part_of_entity	public teaching university
+10809_26	is_in_sentence	sentence_10809
+10809_26	attr	10809_23
+10809_26	has_surface_form	university
+10809_26	part_of_entity	public teaching university
+10809_27	is_in_sentence	sentence_10809
+10809_27	acl	10809_26
+10809_27	has_surface_form	based
+10809_28	is_in_sentence	sentence_10809
+10809_28	prep	10809_27
+10809_28	has_surface_form	in
+10809_29	is_in_sentence	sentence_10809
+10809_29	pobj	10809_28
+10809_29	has_surface_form	Gomel
+10809_30	is_in_sentence	sentence_10809
+10809_30	punct	10809_29
+10809_30	has_surface_form	,
+10809_31	is_in_sentence	sentence_10809
+10809_31	appos	10809_29
+10809_31	has_surface_form	Belarus
+10809_32	is_in_sentence	sentence_10809
+10809_32	punct	10809_23
+10809_32	has_surface_form	.
+10809_33	is_in_sentence	sentence_10809
+10809_33	dep	10809_23
+10809_33	has_surface_form	
+Gomel State Medical University	surface_form	Gomel State Medical University
+Gomel State Medical University	has-type	public teaching university
+public teaching university	surface_form	public teaching university

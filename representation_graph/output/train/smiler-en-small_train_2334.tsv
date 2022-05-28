@@ -1,0 +1,80 @@
+2333_0	is_in_sentence	sentence_2333
+2333_0	compound	2333_1
+2333_0	has_surface_form	Gerd
+2333_0	part_of_entity	Gerd Gunvor Andersson
+2333_1	is_in_sentence	sentence_2333
+2333_1	compound	2333_2
+2333_1	has_surface_form	Gunvor
+2333_1	part_of_entity	Gerd Gunvor Andersson
+2333_2	is_in_sentence	sentence_2333
+2333_2	nsubjpass	2333_4
+2333_2	has_surface_form	Andersson
+2333_2	part_of_entity	Gerd Gunvor Andersson
+2333_4	is_in_sentence	sentence_2333
+2333_4	ROOT	2333_4
+2333_4	has_surface_form	born
+2333_3	is_in_sentence	sentence_2333
+2333_3	auxpass	2333_4
+2333_3	has_surface_form	was
+2333_5	is_in_sentence	sentence_2333
+2333_5	prep	2333_4
+2333_5	has_surface_form	in
+2333_6	is_in_sentence	sentence_2333
+2333_6	pobj	2333_5
+2333_6	has_surface_form	Stockholm
+2333_7	is_in_sentence	sentence_2333
+2333_7	punct	2333_6
+2333_7	has_surface_form	,
+2333_8	is_in_sentence	sentence_2333
+2333_8	conj	2333_6
+2333_8	has_surface_form	Sweden
+2333_9	is_in_sentence	sentence_2333
+2333_9	cc	2333_4
+2333_9	has_surface_form	and
+2333_10	is_in_sentence	sentence_2333
+2333_10	conj	2333_4
+2333_10	has_surface_form	is
+2333_11	is_in_sentence	sentence_2333
+2333_11	det	2333_12
+2333_11	has_surface_form	the
+2333_12	is_in_sentence	sentence_2333
+2333_12	attr	2333_10
+2333_12	has_surface_form	sister
+2333_13	is_in_sentence	sentence_2333
+2333_13	prep	2333_12
+2333_13	has_surface_form	of
+2333_14	is_in_sentence	sentence_2333
+2333_14	compound	2333_15
+2333_14	has_surface_form	Bibi
+2333_15	is_in_sentence	sentence_2333
+2333_15	pobj	2333_13
+2333_15	has_surface_form	Andersson
+2333_16	is_in_sentence	sentence_2333
+2333_16	cc	2333_15
+2333_16	has_surface_form	and
+2333_17	is_in_sentence	sentence_2333
+2333_17	det	2333_18
+2333_17	has_surface_form	the
+2333_18	is_in_sentence	sentence_2333
+2333_18	conj	2333_15
+2333_18	has_surface_form	mother
+2333_19	is_in_sentence	sentence_2333
+2333_19	prep	2333_18
+2333_19	has_surface_form	of
+2333_20	is_in_sentence	sentence_2333
+2333_20	compound	2333_21
+2333_20	has_surface_form	Lars
+2333_20	part_of_entity	Lars Bethke
+2333_21	is_in_sentence	sentence_2333
+2333_21	pobj	2333_19
+2333_21	has_surface_form	Bethke
+2333_21	part_of_entity	Lars Bethke
+2333_22	is_in_sentence	sentence_2333
+2333_22	punct	2333_4
+2333_22	has_surface_form	.
+2333_23	is_in_sentence	sentence_2333
+2333_23	dep	2333_23
+2333_23	has_surface_form	
+Gerd Gunvor Andersson	surface_form	Gerd Gunvor Andersson
+Gerd Gunvor Andersson	has-child	Lars Bethke
+Lars Bethke	surface_form	Lars Bethke

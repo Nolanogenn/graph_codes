@@ -1,0 +1,56 @@
+32760_0	is_in_sentence	sentence_32760
+32760_0	nsubj	32760_1
+32760_0	has_surface_form	LG
+32760_1	is_in_sentence	sentence_32760
+32760_1	ROOT	32760_1
+32760_1	has_surface_form	produced
+32760_2	is_in_sentence	sentence_32760
+32760_2	det	32760_4
+32760_2	has_surface_form	the
+32760_4	is_in_sentence	sentence_32760
+32760_4	dobj	32760_1
+32760_4	has_surface_form	DTT-900
+32760_4	part_of_entity	Zenith DTT-900
+32760_3	is_in_sentence	sentence_32760
+32760_3	compound	32760_4
+32760_3	has_surface_form	Zenith
+32760_3	part_of_entity	Zenith DTT-900
+32760_5	is_in_sentence	sentence_32760
+32760_5	cc	32760_4
+32760_5	has_surface_form	and
+32760_6	is_in_sentence	sentence_32760
+32760_6	compound	32760_7
+32760_6	has_surface_form	Zenith
+32760_7	is_in_sentence	sentence_32760
+32760_7	conj	32760_4
+32760_7	has_surface_form	DTT-901
+32760_7	part_of_entity	DTT-901 ATSC digital television converter box
+32760_8	is_in_sentence	sentence_32760
+32760_8	compound	32760_12
+32760_8	has_surface_form	ATSC
+32760_8	part_of_entity	DTT-901 ATSC digital television converter box
+32760_12	is_in_sentence	sentence_32760
+32760_12	conj	32760_4
+32760_12	has_surface_form	box
+32760_12	part_of_entity	DTT-901 ATSC digital television converter box
+32760_9	is_in_sentence	sentence_32760
+32760_9	amod	32760_10
+32760_9	has_surface_form	digital
+32760_9	part_of_entity	DTT-901 ATSC digital television converter box
+32760_10	is_in_sentence	sentence_32760
+32760_10	compound	32760_11
+32760_10	has_surface_form	television
+32760_10	part_of_entity	DTT-901 ATSC digital television converter box
+32760_11	is_in_sentence	sentence_32760
+32760_11	compound	32760_12
+32760_11	has_surface_form	converter
+32760_11	part_of_entity	DTT-901 ATSC digital television converter box
+32760_13	is_in_sentence	sentence_32760
+32760_13	punct	32760_1
+32760_13	has_surface_form	.
+32760_14	is_in_sentence	sentence_32760
+32760_14	dep	32760_14
+32760_14	has_surface_form	
+Zenith DTT-900	surface_form	Zenith DTT-900
+Zenith DTT-900	no_relation	DTT-901 ATSC digital television converter box
+DTT-901 ATSC digital television converter box	surface_form	DTT-901 ATSC digital television converter box

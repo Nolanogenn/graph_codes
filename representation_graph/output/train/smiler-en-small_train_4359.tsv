@@ -1,0 +1,62 @@
+4358_0	is_in_sentence	sentence_4358
+4358_0	compound	4358_1
+4358_0	has_surface_form	Jim
+4358_0	part_of_entity	Jim Glenn
+4358_1	is_in_sentence	sentence_4358
+4358_1	nsubj	4358_2
+4358_1	has_surface_form	Glenn
+4358_1	part_of_entity	Jim Glenn
+4358_2	is_in_sentence	sentence_4358
+4358_2	ROOT	4358_2
+4358_2	has_surface_form	was
+4358_3	is_in_sentence	sentence_4358
+4358_3	acomp	4358_2
+4358_3	has_surface_form	married
+4358_4	is_in_sentence	sentence_4358
+4358_4	prep	4358_3
+4358_4	has_surface_form	to
+4358_5	is_in_sentence	sentence_4358
+4358_5	poss	4358_6
+4358_5	has_surface_form	his
+4358_6	is_in_sentence	sentence_4358
+4358_6	pobj	4358_4
+4358_6	has_surface_form	wife
+4358_7	is_in_sentence	sentence_4358
+4358_7	appos	4358_6
+4358_7	is_entity	Cornelia
+Cornelia	surface_form	Cornelia
+4358_8	is_in_sentence	sentence_4358
+4358_8	prep	4358_3
+4358_8	has_surface_form	for
+4358_9	is_in_sentence	sentence_4358
+4358_9	nummod	4358_10
+4358_9	has_surface_form	38
+4358_10	is_in_sentence	sentence_4358
+4358_10	pobj	4358_8
+4358_10	has_surface_form	years
+4358_11	is_in_sentence	sentence_4358
+4358_11	punct	4358_2
+4358_11	has_surface_form	,
+4358_12	is_in_sentence	sentence_4358
+4358_12	nsubj	4358_13
+4358_12	has_surface_form	who
+4358_13	is_in_sentence	sentence_4358
+4358_13	relcl	4358_1
+4358_13	has_surface_form	died
+4358_14	is_in_sentence	sentence_4358
+4358_14	prep	4358_13
+4358_14	has_surface_form	in
+4358_15	is_in_sentence	sentence_4358
+4358_15	pobj	4358_14
+4358_15	has_surface_form	June
+4358_16	is_in_sentence	sentence_4358
+4358_16	nummod	4358_15
+4358_16	has_surface_form	2010
+4358_17	is_in_sentence	sentence_4358
+4358_17	punct	4358_2
+4358_17	has_surface_form	.
+4358_18	is_in_sentence	sentence_4358
+4358_18	dep	4358_18
+4358_18	has_surface_form	
+Jim Glenn	surface_form	Jim Glenn
+Jim Glenn	has-spouse	Cornelia

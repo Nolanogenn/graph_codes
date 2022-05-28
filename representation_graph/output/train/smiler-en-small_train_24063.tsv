@@ -1,0 +1,94 @@
+24062_0	is_in_sentence	sentence_24062
+24062_0	compound	24062_1
+24062_0	has_surface_form	Bodi
+24062_0	part_of_entity	Bodi Bill
+24062_1	is_in_sentence	sentence_24062
+24062_1	nsubj	24062_6
+24062_1	has_surface_form	Bill
+24062_1	part_of_entity	Bodi Bill
+24062_6	is_in_sentence	sentence_24062
+24062_6	ROOT	24062_6
+24062_6	has_surface_form	is
+24062_2	is_in_sentence	sentence_24062
+24062_2	punct	24062_3
+24062_2	has_surface_form	[
+24062_3	is_in_sentence	sentence_24062
+24062_3	appos	24062_1
+24062_3	has_surface_form	bɔdi
+24062_4	is_in_sentence	sentence_24062
+24062_4	advmod	24062_3
+24062_4	has_surface_form	bɪl
+24062_5	is_in_sentence	sentence_24062
+24062_5	punct	24062_3
+24062_5	has_surface_form	]
+24062_7	is_in_sentence	sentence_24062
+24062_7	det	24062_10
+24062_7	has_surface_form	an
+24062_10	is_in_sentence	sentence_24062
+24062_10	attr	24062_6
+24062_10	has_surface_form	band
+24062_8	is_in_sentence	sentence_24062
+24062_8	amod	24062_10
+24062_8	has_surface_form	experimental
+24062_9	is_in_sentence	sentence_24062
+24062_9	compound	24062_10
+24062_9	has_surface_form	electronica
+24062_11	is_in_sentence	sentence_24062
+24062_11	punct	24062_10
+24062_11	has_surface_form	,
+24062_12	is_in_sentence	sentence_24062
+24062_12	acl	24062_10
+24062_12	has_surface_form	based
+24062_13	is_in_sentence	sentence_24062
+24062_13	prep	24062_12
+24062_13	has_surface_form	in
+24062_14	is_in_sentence	sentence_24062
+24062_14	pobj	24062_13
+24062_14	has_surface_form	Berlin
+24062_15	is_in_sentence	sentence_24062
+24062_15	punct	24062_14
+24062_15	has_surface_form	,
+24062_16	is_in_sentence	sentence_24062
+24062_16	appos	24062_14
+24062_16	has_surface_form	Germany
+24062_17	is_in_sentence	sentence_24062
+24062_17	punct	24062_6
+24062_17	has_surface_form	.
+24062_18	is_in_sentence	sentence_24062
+24062_18	det	24062_19
+24062_18	has_surface_form	The
+24062_19	is_in_sentence	sentence_24062
+24062_19	nsubjpass	24062_21
+24062_19	has_surface_form	band
+24062_21	is_in_sentence	sentence_24062
+24062_21	ROOT	24062_21
+24062_21	has_surface_form	formed
+24062_20	is_in_sentence	sentence_24062
+24062_20	auxpass	24062_21
+24062_20	has_surface_form	was
+24062_22	is_in_sentence	sentence_24062
+24062_22	agent	24062_21
+24062_22	has_surface_form	by
+24062_23	is_in_sentence	sentence_24062
+24062_23	compound	24062_24
+24062_23	has_surface_form	Fabian
+24062_23	part_of_entity	Fabian Fenk
+24062_24	is_in_sentence	sentence_24062
+24062_24	pobj	24062_22
+24062_24	has_surface_form	Fenk
+24062_24	part_of_entity	Fabian Fenk
+24062_25	is_in_sentence	sentence_24062
+24062_25	punct	24062_24
+24062_25	has_surface_form	,
+24062_26	is_in_sentence	sentence_24062
+24062_26	compound	24062_27
+24062_26	has_surface_form	Anton
+24062_27	is_in_sentence	sentence_24062
+24062_27	appos	24062_24
+24062_27	has_surface_form	K.
+24062_28	is_in_sentence	sentence_24062
+24062_28	dep	24062_21
+24062_28	has_surface_form	
+Bodi Bill	surface_form	Bodi Bill
+Bodi Bill	org-has-member	Fabian Fenk
+Fabian Fenk	surface_form	Fabian Fenk

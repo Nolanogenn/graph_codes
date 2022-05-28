@@ -1,0 +1,84 @@
+2691_0	is_in_sentence	sentence_2691
+2691_0	nsubj	2691_2
+2691_0	has_surface_form	Heaven
+2691_0	part_of_entity	Heaven Will Wait
+2691_2	is_in_sentence	sentence_2691
+2691_2	nsubj	2691_10
+2691_2	has_surface_form	Wait
+2691_2	part_of_entity	Heaven Will Wait
+2691_1	is_in_sentence	sentence_2691
+2691_1	aux	2691_2
+2691_1	has_surface_form	Will
+2691_1	part_of_entity	Heaven Will Wait
+2691_10	is_in_sentence	sentence_2691
+2691_10	ROOT	2691_10
+2691_10	has_surface_form	is
+2691_3	is_in_sentence	sentence_2691
+2691_3	punct	2691_4
+2691_3	has_surface_form	(
+2691_4	is_in_sentence	sentence_2691
+2691_4	parataxis	2691_2
+2691_4	has_surface_form	French
+2691_5	is_in_sentence	sentence_2691
+2691_5	punct	2691_4
+2691_5	has_surface_form	:
+2691_6	is_in_sentence	sentence_2691
+2691_6	compound	2691_7
+2691_6	has_surface_form	Le
+2691_7	is_in_sentence	sentence_2691
+2691_7	compound	2691_8
+2691_7	has_surface_form	Ciel
+2691_8	is_in_sentence	sentence_2691
+2691_8	appos	2691_4
+2691_8	has_surface_form	attendra
+2691_9	is_in_sentence	sentence_2691
+2691_9	punct	2691_4
+2691_9	has_surface_form	)
+2691_11	is_in_sentence	sentence_2691
+2691_11	det	2691_15
+2691_11	has_surface_form	a
+2691_15	is_in_sentence	sentence_2691
+2691_15	attr	2691_10
+2691_15	has_surface_form	film
+2691_12	is_in_sentence	sentence_2691
+2691_12	nummod	2691_15
+2691_12	has_surface_form	2016
+2691_13	is_in_sentence	sentence_2691
+2691_13	amod	2691_15
+2691_13	has_surface_form	French
+2691_14	is_in_sentence	sentence_2691
+2691_14	compound	2691_15
+2691_14	has_surface_form	drama
+2691_16	is_in_sentence	sentence_2691
+2691_16	acl	2691_15
+2691_16	has_surface_form	directed
+2691_17	is_in_sentence	sentence_2691
+2691_17	agent	2691_16
+2691_17	has_surface_form	by
+2691_18	is_in_sentence	sentence_2691
+2691_18	compound	2691_23
+2691_18	has_surface_form	Marie
+2691_23	is_in_sentence	sentence_2691
+2691_23	pobj	2691_17
+2691_23	has_surface_form	Schaar
+2691_19	is_in_sentence	sentence_2691
+2691_19	punct	2691_23
+2691_19	has_surface_form	-
+2691_20	is_in_sentence	sentence_2691
+2691_20	compound	2691_23
+2691_20	has_surface_form	Castille
+2691_21	is_in_sentence	sentence_2691
+2691_21	compound	2691_23
+2691_21	has_surface_form	Mention
+2691_22	is_in_sentence	sentence_2691
+2691_22	punct	2691_23
+2691_22	has_surface_form	-
+2691_24	is_in_sentence	sentence_2691
+2691_24	punct	2691_10
+2691_24	has_surface_form	.
+2691_25	is_in_sentence	sentence_2691
+2691_25	dep	2691_10
+2691_25	has_surface_form	
+Heaven Will Wait	surface_form	Heaven Will Wait
+Heaven Will Wait	movie-has-director	Marie-Castille Mention-Schaar
+Marie-Castille Mention-Schaar	surface_form	Marie-Castille Mention-Schaar

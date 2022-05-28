@@ -1,0 +1,62 @@
+24787_0	is_in_sentence	sentence_24787
+24787_0	det	24787_2
+24787_0	has_surface_form	The
+24787_2	is_in_sentence	sentence_24787
+24787_2	nsubj	24787_7
+24787_2	has_surface_form	peak
+24787_1	is_in_sentence	sentence_24787
+24787_1	amod	24787_2
+24787_1	has_surface_form	highest
+24787_7	is_in_sentence	sentence_24787
+24787_7	ROOT	24787_7
+24787_7	has_surface_form	is
+24787_3	is_in_sentence	sentence_24787
+24787_3	prep	24787_2
+24787_3	has_surface_form	in
+24787_4	is_in_sentence	sentence_24787
+24787_4	det	24787_6
+24787_4	has_surface_form	the
+24787_6	is_in_sentence	sentence_24787
+24787_6	pobj	24787_3
+24787_6	has_surface_form	Alps
+24787_6	part_of_entity	Glarus Alps
+24787_5	is_in_sentence	sentence_24787
+24787_5	compound	24787_6
+24787_5	has_surface_form	Glarus
+24787_5	part_of_entity	Glarus Alps
+24787_8	is_in_sentence	sentence_24787
+24787_8	det	24787_9
+24787_8	has_surface_form	the
+24787_9	is_in_sentence	sentence_24787
+24787_9	attr	24787_7
+24787_9	is_entity	Tödi
+Tödi	surface_form	Tödi
+24787_10	is_in_sentence	sentence_24787
+24787_10	prep	24787_7
+24787_10	has_surface_form	at
+24787_11	is_in_sentence	sentence_24787
+24787_11	nummod	24787_12
+24787_11	has_surface_form	3,614
+24787_12	is_in_sentence	sentence_24787
+24787_12	pobj	24787_10
+24787_12	has_surface_form	meters
+24787_13	is_in_sentence	sentence_24787
+24787_13	punct	24787_12
+24787_13	has_surface_form	(
+24787_14	is_in_sentence	sentence_24787
+24787_14	nummod	24787_15
+24787_14	has_surface_form	11,857
+24787_15	is_in_sentence	sentence_24787
+24787_15	appos	24787_12
+24787_15	has_surface_form	ft
+24787_16	is_in_sentence	sentence_24787
+24787_16	punct	24787_7
+24787_16	has_surface_form	)
+24787_17	is_in_sentence	sentence_24787
+24787_17	punct	24787_7
+24787_17	has_surface_form	.
+24787_18	is_in_sentence	sentence_24787
+24787_18	dep	24787_18
+24787_18	has_surface_form	
+Glarus Alps	surface_form	Glarus Alps
+Glarus Alps	has-highest-mountain	Tödi

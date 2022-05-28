@@ -1,0 +1,88 @@
+12091_0	is_in_sentence	sentence_12091
+12091_0	det	12091_4
+12091_0	has_surface_form	The
+12091_4	is_in_sentence	sentence_12091
+12091_4	nsubj	12091_8
+12091_4	has_surface_form	Board
+12091_4	part_of_entity	Michigan Gaming Control Board
+12091_1	is_in_sentence	sentence_12091
+12091_1	compound	12091_4
+12091_1	has_surface_form	Michigan
+12091_1	part_of_entity	Michigan Gaming Control Board
+12091_2	is_in_sentence	sentence_12091
+12091_2	compound	12091_4
+12091_2	has_surface_form	Gaming
+12091_2	part_of_entity	Michigan Gaming Control Board
+12091_3	is_in_sentence	sentence_12091
+12091_3	compound	12091_4
+12091_3	has_surface_form	Control
+12091_3	part_of_entity	Michigan Gaming Control Board
+12091_8	is_in_sentence	sentence_12091
+12091_8	ROOT	12091_8
+12091_8	has_surface_form	is
+12091_5	is_in_sentence	sentence_12091
+12091_5	punct	12091_4
+12091_5	has_surface_form	(
+12091_6	is_in_sentence	sentence_12091
+12091_6	appos	12091_4
+12091_6	has_surface_form	MGCB
+12091_7	is_in_sentence	sentence_12091
+12091_7	punct	12091_4
+12091_7	has_surface_form	)
+12091_9	is_in_sentence	sentence_12091
+12091_9	det	12091_12
+12091_9	has_surface_form	a
+12091_12	is_in_sentence	sentence_12091
+12091_12	attr	12091_8
+12091_12	has_surface_form	board
+12091_12	part_of_entity	gaming control board
+12091_10	is_in_sentence	sentence_12091
+12091_10	compound	12091_12
+12091_10	has_surface_form	gaming
+12091_10	part_of_entity	gaming control board
+12091_11	is_in_sentence	sentence_12091
+12091_11	compound	12091_12
+12091_11	has_surface_form	control
+12091_11	part_of_entity	gaming control board
+12091_13	is_in_sentence	sentence_12091
+12091_13	prep	12091_12
+12091_13	has_surface_form	in
+12091_14	is_in_sentence	sentence_12091
+12091_14	pobj	12091_13
+12091_14	has_surface_form	Michigan
+12091_15	is_in_sentence	sentence_12091
+12091_15	nsubj	12091_16
+12091_15	has_surface_form	that
+12091_16	is_in_sentence	sentence_12091
+12091_16	relcl	12091_12
+12091_16	has_surface_form	provides
+12091_17	is_in_sentence	sentence_12091
+12091_17	dobj	12091_16
+12091_17	has_surface_form	oversight
+12091_18	is_in_sentence	sentence_12091
+12091_18	prep	12091_17
+12091_18	has_surface_form	of
+12091_19	is_in_sentence	sentence_12091
+12091_19	det	12091_20
+12091_19	has_surface_form	the
+12091_20	is_in_sentence	sentence_12091
+12091_20	poss	12091_23
+12091_20	has_surface_form	state
+12091_23	is_in_sentence	sentence_12091
+12091_23	pobj	12091_18
+12091_23	has_surface_form	industry
+12091_21	is_in_sentence	sentence_12091
+12091_21	case	12091_20
+12091_21	has_surface_form	's
+12091_22	is_in_sentence	sentence_12091
+12091_22	compound	12091_23
+12091_22	has_surface_form	gaming
+12091_24	is_in_sentence	sentence_12091
+12091_24	punct	12091_8
+12091_24	has_surface_form	.
+12091_25	is_in_sentence	sentence_12091
+12091_25	dep	12091_25
+12091_25	has_surface_form	
+Michigan Gaming Control Board	surface_form	Michigan Gaming Control Board
+Michigan Gaming Control Board	has-type	gaming control board
+gaming control board	surface_form	gaming control board

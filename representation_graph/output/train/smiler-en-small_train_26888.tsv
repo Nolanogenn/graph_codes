@@ -1,0 +1,84 @@
+26887_0	is_in_sentence	sentence_26887
+26887_0	compound	26887_1
+26887_0	has_surface_form	Neath
+26887_0	part_of_entity	Neath Port Talbot Hospital
+26887_1	is_in_sentence	sentence_26887
+26887_1	compound	26887_3
+26887_1	has_surface_form	Port
+26887_1	part_of_entity	Neath Port Talbot Hospital
+26887_3	is_in_sentence	sentence_26887
+26887_3	nsubj	26887_13
+26887_3	has_surface_form	Hospital
+26887_3	part_of_entity	Neath Port Talbot Hospital
+26887_2	is_in_sentence	sentence_26887
+26887_2	compound	26887_3
+26887_2	has_surface_form	Talbot
+26887_2	part_of_entity	Neath Port Talbot Hospital
+26887_13	is_in_sentence	sentence_26887
+26887_13	ROOT	26887_13
+26887_13	has_surface_form	is
+26887_4	is_in_sentence	sentence_26887
+26887_4	punct	26887_3
+26887_4	has_surface_form	(
+26887_5	is_in_sentence	sentence_26887
+26887_5	appos	26887_3
+26887_5	has_surface_form	Welsh
+26887_6	is_in_sentence	sentence_26887
+26887_6	punct	26887_5
+26887_6	has_surface_form	:
+26887_7	is_in_sentence	sentence_26887
+26887_7	compound	26887_8
+26887_7	has_surface_form	Ysbyty
+26887_8	is_in_sentence	sentence_26887
+26887_8	compound	26887_11
+26887_8	has_surface_form	Castell
+26887_11	is_in_sentence	sentence_26887
+26887_11	appos	26887_5
+26887_11	has_surface_form	Talbot
+26887_9	is_in_sentence	sentence_26887
+26887_9	compound	26887_11
+26887_9	has_surface_form	Nedd
+26887_10	is_in_sentence	sentence_26887
+26887_10	compound	26887_11
+26887_10	has_surface_form	Port
+26887_12	is_in_sentence	sentence_26887
+26887_12	punct	26887_5
+26887_12	has_surface_form	)
+26887_14	is_in_sentence	sentence_26887
+26887_14	det	26887_16
+26887_14	has_surface_form	a
+26887_16	is_in_sentence	sentence_26887
+26887_16	attr	26887_13
+26887_16	has_surface_form	hospital
+26887_16	part_of_entity	general hospital
+26887_15	is_in_sentence	sentence_26887
+26887_15	amod	26887_16
+26887_15	has_surface_form	general
+26887_15	part_of_entity	general hospital
+26887_17	is_in_sentence	sentence_26887
+26887_17	acl	26887_16
+26887_17	has_surface_form	located
+26887_18	is_in_sentence	sentence_26887
+26887_18	prep	26887_17
+26887_18	has_surface_form	in
+26887_19	is_in_sentence	sentence_26887
+26887_19	compound	26887_20
+26887_19	has_surface_form	Port
+26887_20	is_in_sentence	sentence_26887
+26887_20	pobj	26887_18
+26887_20	has_surface_form	Talbot
+26887_21	is_in_sentence	sentence_26887
+26887_21	punct	26887_20
+26887_21	has_surface_form	,
+26887_22	is_in_sentence	sentence_26887
+26887_22	appos	26887_20
+26887_22	has_surface_form	Wales
+26887_23	is_in_sentence	sentence_26887
+26887_23	punct	26887_13
+26887_23	has_surface_form	.
+26887_24	is_in_sentence	sentence_26887
+26887_24	dep	26887_13
+26887_24	has_surface_form	
+Neath Port Talbot Hospital	surface_form	Neath Port Talbot Hospital
+Neath Port Talbot Hospital	has-type	general hospital
+general hospital	surface_form	general hospital

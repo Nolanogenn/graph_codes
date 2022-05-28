@@ -1,0 +1,45 @@
+4342_0	is_in_sentence	sentence_4342
+4342_0	compound	4342_1
+4342_0	has_surface_form	Johnson
+4342_0	part_of_entity	Johnson University Florida
+4342_1	is_in_sentence	sentence_4342
+4342_1	compound	4342_2
+4342_1	has_surface_form	University
+4342_1	part_of_entity	Johnson University Florida
+4342_2	is_in_sentence	sentence_4342
+4342_2	nsubj	4342_3
+4342_2	has_surface_form	Florida
+4342_2	part_of_entity	Johnson University Florida
+4342_3	is_in_sentence	sentence_4342
+4342_3	ROOT	4342_3
+4342_3	has_surface_form	is
+4342_4	is_in_sentence	sentence_4342
+4342_4	det	4342_6
+4342_4	has_surface_form	a
+4342_6	is_in_sentence	sentence_4342
+4342_6	attr	4342_3
+4342_6	has_surface_form	university
+4342_5	is_in_sentence	sentence_4342
+4342_5	amod	4342_6
+4342_5	has_surface_form	private
+4342_7	is_in_sentence	sentence_4342
+4342_7	prep	4342_6
+4342_7	has_surface_form	in
+4342_8	is_in_sentence	sentence_4342
+4342_8	pobj	4342_7
+4342_8	has_surface_form	Kissimmee
+4342_9	is_in_sentence	sentence_4342
+4342_9	punct	4342_8
+4342_9	has_surface_form	,
+4342_10	is_in_sentence	sentence_4342
+4342_10	appos	4342_8
+4342_10	has_surface_form	Florida
+4342_11	is_in_sentence	sentence_4342
+4342_11	punct	4342_3
+4342_11	has_surface_form	.
+4342_12	is_in_sentence	sentence_4342
+4342_12	dep	4342_12
+4342_12	has_surface_form	
+Johnson University Florida	surface_form	Johnson University Florida
+Johnson University Florida	is-where	Kissimmee, Florida
+Kissimmee, Florida	surface_form	Kissimmee, Florida

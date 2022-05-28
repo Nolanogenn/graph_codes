@@ -1,0 +1,74 @@
+10161_0	is_in_sentence	sentence_10161
+10161_0	det	10161_8
+10161_0	has_surface_form	The
+10161_8	is_in_sentence	sentence_10161
+10161_8	nsubjpass	10161_10
+10161_8	has_surface_form	thermometer
+10161_1	is_in_sentence	sentence_10161
+10161_1	nmod	10161_8
+10161_1	has_surface_form	mercury
+10161_2	is_in_sentence	sentence_10161
+10161_2	punct	10161_1
+10161_2	has_surface_form	-
+10161_3	is_in_sentence	sentence_10161
+10161_3	prep	10161_1
+10161_3	has_surface_form	in
+10161_4	is_in_sentence	sentence_10161
+10161_4	punct	10161_3
+10161_4	has_surface_form	-
+10161_5	is_in_sentence	sentence_10161
+10161_5	pobj	10161_3
+10161_5	has_surface_form	glass
+10161_6	is_in_sentence	sentence_10161
+10161_6	cc	10161_5
+10161_6	has_surface_form	or
+10161_7	is_in_sentence	sentence_10161
+10161_7	pobj	10161_3
+10161_7	has_surface_form	mercury
+10161_10	is_in_sentence	sentence_10161
+10161_10	ROOT	10161_10
+10161_10	has_surface_form	invented
+10161_9	is_in_sentence	sentence_10161
+10161_9	auxpass	10161_10
+10161_9	has_surface_form	was
+10161_11	is_in_sentence	sentence_10161
+10161_11	agent	10161_10
+10161_11	has_surface_form	by
+10161_12	is_in_sentence	sentence_10161
+10161_12	compound	10161_15
+10161_12	has_surface_form	physicist
+10161_15	is_in_sentence	sentence_10161
+10161_15	pobj	10161_11
+10161_15	has_surface_form	Fahrenheit
+10161_15	part_of_entity	Gabriel Fahrenheit
+10161_13	is_in_sentence	sentence_10161
+10161_13	compound	10161_15
+10161_13	has_surface_form	Daniel
+10161_14	is_in_sentence	sentence_10161
+10161_14	compound	10161_15
+10161_14	has_surface_form	Gabriel
+10161_14	part_of_entity	Gabriel Fahrenheit
+10161_16	is_in_sentence	sentence_10161
+10161_16	prep	10161_15
+10161_16	has_surface_form	in
+10161_17	is_in_sentence	sentence_10161
+10161_17	pobj	10161_16
+10161_17	has_surface_form	Amsterdam
+10161_18	is_in_sentence	sentence_10161
+10161_18	punct	10161_17
+10161_18	has_surface_form	(
+10161_19	is_in_sentence	sentence_10161
+10161_19	appos	10161_17
+10161_19	has_surface_form	1714
+10161_20	is_in_sentence	sentence_10161
+10161_20	punct	10161_17
+10161_20	has_surface_form	)
+10161_21	is_in_sentence	sentence_10161
+10161_21	punct	10161_10
+10161_21	has_surface_form	.
+10161_22	is_in_sentence	sentence_10161
+10161_22	dep	10161_22
+10161_22	has_surface_form	
+mercury-in-glass or mercury thermometer	surface_form	mercury-in-glass or mercury thermometer
+mercury-in-glass or mercury thermometer	invented-by	Gabriel Fahrenheit
+Gabriel Fahrenheit	surface_form	Gabriel Fahrenheit

@@ -1,0 +1,50 @@
+27101_0	is_in_sentence	sentence_27101
+27101_0	compound	27101_2
+27101_0	has_surface_form	Albert
+27101_0	part_of_entity	Albert Bernard Unser
+27101_2	is_in_sentence	sentence_27101
+27101_2	nsubj	27101_3
+27101_2	has_surface_form	Unser
+27101_2	part_of_entity	Albert Bernard Unser
+27101_1	is_in_sentence	sentence_27101
+27101_1	compound	27101_2
+27101_1	has_surface_form	Bernard
+27101_1	part_of_entity	Albert Bernard Unser
+27101_3	is_in_sentence	sentence_27101
+27101_3	ROOT	27101_3
+27101_3	has_surface_form	was
+27101_4	is_in_sentence	sentence_27101
+27101_4	det	27101_5
+27101_4	has_surface_form	the
+27101_5	is_in_sentence	sentence_27101
+27101_5	attr	27101_3
+27101_5	has_surface_form	father
+27101_6	is_in_sentence	sentence_27101
+27101_6	prep	27101_5
+27101_6	has_surface_form	of
+27101_7	is_in_sentence	sentence_27101
+27101_7	compound	27101_8
+27101_7	has_surface_form	MLB
+27101_8	is_in_sentence	sentence_27101
+27101_8	pobj	27101_6
+27101_8	has_surface_form	center
+27101_9	is_in_sentence	sentence_27101
+27101_9	attr	27101_3
+27101_9	has_surface_form	fielder
+27101_10	is_in_sentence	sentence_27101
+27101_10	compound	27101_11
+27101_10	has_surface_form	Del
+27101_10	part_of_entity	Del Unser
+27101_11	is_in_sentence	sentence_27101
+27101_11	dobj	27101_9
+27101_11	has_surface_form	Unser
+27101_11	part_of_entity	Del Unser
+27101_12	is_in_sentence	sentence_27101
+27101_12	punct	27101_3
+27101_12	has_surface_form	.
+27101_13	is_in_sentence	sentence_27101
+27101_13	dep	27101_13
+27101_13	has_surface_form	
+Albert Bernard Unser	surface_form	Albert Bernard Unser
+Albert Bernard Unser	has-child	Del Unser
+Del Unser	surface_form	Del Unser

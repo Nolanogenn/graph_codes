@@ -1,0 +1,89 @@
+31280_0	is_in_sentence	sentence_31280
+31280_0	det	31280_1
+31280_0	has_surface_form	The
+31280_0	part_of_entity	The Shooting of Dan McGrew
+31280_1	is_in_sentence	sentence_31280
+31280_1	nsubj	31280_5
+31280_1	has_surface_form	Shooting
+31280_1	part_of_entity	The Shooting of Dan McGrew
+31280_5	is_in_sentence	sentence_31280
+31280_5	ROOT	31280_5
+31280_5	has_surface_form	is
+31280_2	is_in_sentence	sentence_31280
+31280_2	prep	31280_1
+31280_2	has_surface_form	of
+31280_2	part_of_entity	The Shooting of Dan McGrew
+31280_3	is_in_sentence	sentence_31280
+31280_3	compound	31280_4
+31280_3	has_surface_form	Dan
+31280_3	part_of_entity	The Shooting of Dan McGrew
+31280_4	is_in_sentence	sentence_31280
+31280_4	pobj	31280_2
+31280_4	has_surface_form	McGrew
+31280_4	part_of_entity	The Shooting of Dan McGrew
+31280_6	is_in_sentence	sentence_31280
+31280_6	det	31280_11
+31280_6	has_surface_form	a
+31280_11	is_in_sentence	sentence_31280
+31280_11	attr	31280_5
+31280_11	has_surface_form	film
+31280_7	is_in_sentence	sentence_31280
+31280_7	nummod	31280_11
+31280_7	has_surface_form	1915
+31280_8	is_in_sentence	sentence_31280
+31280_8	amod	31280_11
+31280_8	has_surface_form	silent
+31280_9	is_in_sentence	sentence_31280
+31280_9	amod	31280_11
+31280_9	is_entity	American
+American	surface_form	American
+31280_10	is_in_sentence	sentence_31280
+31280_10	compound	31280_11
+31280_10	has_surface_form	drama
+31280_12	is_in_sentence	sentence_31280
+31280_12	acl	31280_11
+31280_12	has_surface_form	directed
+31280_13	is_in_sentence	sentence_31280
+31280_13	agent	31280_12
+31280_13	has_surface_form	by
+31280_14	is_in_sentence	sentence_31280
+31280_14	compound	31280_15
+31280_14	has_surface_form	Herbert
+31280_15	is_in_sentence	sentence_31280
+31280_15	pobj	31280_13
+31280_15	has_surface_form	Blaché
+31280_16	is_in_sentence	sentence_31280
+31280_16	punct	31280_11
+31280_16	has_surface_form	,
+31280_17	is_in_sentence	sentence_31280
+31280_17	acl	31280_11
+31280_17	has_surface_form	based
+31280_18	is_in_sentence	sentence_31280
+31280_18	prep	31280_17
+31280_18	has_surface_form	on
+31280_19	is_in_sentence	sentence_31280
+31280_19	det	31280_20
+31280_19	has_surface_form	the
+31280_20	is_in_sentence	sentence_31280
+31280_20	pobj	31280_18
+31280_20	has_surface_form	poem
+31280_21	is_in_sentence	sentence_31280
+31280_21	prep	31280_20
+31280_21	has_surface_form	of
+31280_22	is_in_sentence	sentence_31280
+31280_22	det	31280_24
+31280_22	has_surface_form	the
+31280_24	is_in_sentence	sentence_31280
+31280_24	pobj	31280_21
+31280_24	has_surface_form	name
+31280_23	is_in_sentence	sentence_31280
+31280_23	amod	31280_24
+31280_23	has_surface_form	same
+31280_25	is_in_sentence	sentence_31280
+31280_25	punct	31280_5
+31280_25	has_surface_form	.
+31280_26	is_in_sentence	sentence_31280
+31280_26	dep	31280_26
+31280_26	has_surface_form	
+The Shooting of Dan McGrew	surface_form	The Shooting of Dan McGrew
+The Shooting of Dan McGrew	has-nationality	American

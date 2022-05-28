@@ -1,0 +1,98 @@
+1366_0	is_in_sentence	sentence_1366
+1366_0	compound	1366_1
+1366_0	has_surface_form	Baraka
+1366_0	part_of_entity	Baraka Atkins
+1366_1	is_in_sentence	sentence_1366
+1366_1	nsubj	1366_9
+1366_1	has_surface_form	Atkins
+1366_1	part_of_entity	Baraka Atkins
+1366_9	is_in_sentence	sentence_1366
+1366_9	ROOT	1366_9
+1366_9	has_surface_form	is
+1366_2	is_in_sentence	sentence_1366
+1366_2	punct	1366_1
+1366_2	has_surface_form	(
+1366_3	is_in_sentence	sentence_1366
+1366_3	acl	1366_1
+1366_3	has_surface_form	born
+1366_4	is_in_sentence	sentence_1366
+1366_4	npadvmod	1366_3
+1366_4	has_surface_form	September
+1366_5	is_in_sentence	sentence_1366
+1366_5	nummod	1366_4
+1366_5	has_surface_form	28
+1366_6	is_in_sentence	sentence_1366
+1366_6	punct	1366_4
+1366_6	has_surface_form	,
+1366_7	is_in_sentence	sentence_1366
+1366_7	nummod	1366_4
+1366_7	has_surface_form	1984
+1366_8	is_in_sentence	sentence_1366
+1366_8	punct	1366_1
+1366_8	has_surface_form	)
+1366_10	is_in_sentence	sentence_1366
+1366_10	det	1366_14
+1366_10	has_surface_form	a
+1366_14	is_in_sentence	sentence_1366
+1366_14	attr	1366_9
+1366_14	has_surface_form	linebacker
+1366_11	is_in_sentence	sentence_1366
+1366_11	amod	1366_14
+1366_11	has_surface_form	former
+1366_12	is_in_sentence	sentence_1366
+1366_12	amod	1366_14
+1366_12	has_surface_form	American
+1366_13	is_in_sentence	sentence_1366
+1366_13	compound	1366_14
+1366_13	has_surface_form	football
+1366_15	is_in_sentence	sentence_1366
+1366_15	prep	1366_14
+1366_15	has_surface_form	for
+1366_16	is_in_sentence	sentence_1366
+1366_16	det	1366_19
+1366_16	has_surface_form	the
+1366_19	is_in_sentence	sentence_1366
+1366_19	pobj	1366_15
+1366_19	has_surface_form	Saints
+1366_19	part_of_entity	New Orleans Saints
+1366_17	is_in_sentence	sentence_1366
+1366_17	compound	1366_18
+1366_17	has_surface_form	New
+1366_17	part_of_entity	New Orleans Saints
+1366_18	is_in_sentence	sentence_1366
+1366_18	compound	1366_19
+1366_18	has_surface_form	Orleans
+1366_18	part_of_entity	New Orleans Saints
+1366_20	is_in_sentence	sentence_1366
+1366_20	prep	1366_19
+1366_20	has_surface_form	of
+1366_21	is_in_sentence	sentence_1366
+1366_21	det	1366_24
+1366_21	has_surface_form	the
+1366_24	is_in_sentence	sentence_1366
+1366_24	pobj	1366_20
+1366_24	has_surface_form	League
+1366_22	is_in_sentence	sentence_1366
+1366_22	compound	1366_24
+1366_22	has_surface_form	National
+1366_23	is_in_sentence	sentence_1366
+1366_23	compound	1366_24
+1366_23	has_surface_form	Football
+1366_25	is_in_sentence	sentence_1366
+1366_25	punct	1366_24
+1366_25	has_surface_form	(
+1366_26	is_in_sentence	sentence_1366
+1366_26	appos	1366_24
+1366_26	has_surface_form	NFL
+1366_27	is_in_sentence	sentence_1366
+1366_27	punct	1366_24
+1366_27	has_surface_form	)
+1366_28	is_in_sentence	sentence_1366
+1366_28	punct	1366_9
+1366_28	has_surface_form	.
+1366_29	is_in_sentence	sentence_1366
+1366_29	dep	1366_29
+1366_29	has_surface_form	
+Baraka Atkins	surface_form	Baraka Atkins
+Baraka Atkins	is-member-of	New Orleans Saints
+New Orleans Saints	surface_form	New Orleans Saints

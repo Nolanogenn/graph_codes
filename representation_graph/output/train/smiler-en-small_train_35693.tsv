@@ -1,0 +1,81 @@
+35692_0	is_in_sentence	sentence_35692
+35692_0	compound	35692_1
+35692_0	has_surface_form	Heavy
+35692_0	part_of_entity	Heavy Industries Taxila Education City University
+35692_1	is_in_sentence	sentence_35692
+35692_1	nmod	35692_5
+35692_1	has_surface_form	Industries
+35692_1	part_of_entity	Heavy Industries Taxila Education City University
+35692_5	is_in_sentence	sentence_35692
+35692_5	nsubj	35692_10
+35692_5	has_surface_form	University
+35692_5	part_of_entity	Heavy Industries Taxila Education City University
+35692_2	is_in_sentence	sentence_35692
+35692_2	compound	35692_4
+35692_2	has_surface_form	Taxila
+35692_2	part_of_entity	Heavy Industries Taxila Education City University
+35692_4	is_in_sentence	sentence_35692
+35692_4	compound	35692_5
+35692_4	has_surface_form	City
+35692_4	part_of_entity	Heavy Industries Taxila Education City University
+35692_3	is_in_sentence	sentence_35692
+35692_3	compound	35692_4
+35692_3	has_surface_form	Education
+35692_3	part_of_entity	Heavy Industries Taxila Education City University
+35692_10	is_in_sentence	sentence_35692
+35692_10	ROOT	35692_10
+35692_10	has_surface_form	is
+35692_6	is_in_sentence	sentence_35692
+35692_6	punct	35692_5
+35692_6	has_surface_form	(
+35692_7	is_in_sentence	sentence_35692
+35692_7	compound	35692_8
+35692_7	has_surface_form	HITEC
+35692_8	is_in_sentence	sentence_35692
+35692_8	appos	35692_5
+35692_8	has_surface_form	University
+35692_9	is_in_sentence	sentence_35692
+35692_9	punct	35692_5
+35692_9	has_surface_form	)
+35692_11	is_in_sentence	sentence_35692
+35692_11	det	35692_13
+35692_11	has_surface_form	a
+35692_13	is_in_sentence	sentence_35692
+35692_13	attr	35692_10
+35692_13	has_surface_form	university
+35692_12	is_in_sentence	sentence_35692
+35692_12	amod	35692_13
+35692_12	has_surface_form	private
+35692_14	is_in_sentence	sentence_35692
+35692_14	acl	35692_13
+35692_14	has_surface_form	located
+35692_15	is_in_sentence	sentence_35692
+35692_15	prep	35692_14
+35692_15	has_surface_form	in
+35692_16	is_in_sentence	sentence_35692
+35692_16	compound	35692_17
+35692_16	has_surface_form	Taxila
+35692_17	is_in_sentence	sentence_35692
+35692_17	pobj	35692_15
+35692_17	has_surface_form	Cantonment
+35692_18	is_in_sentence	sentence_35692
+35692_18	punct	35692_17
+35692_18	has_surface_form	,
+35692_19	is_in_sentence	sentence_35692
+35692_19	conj	35692_17
+35692_19	has_surface_form	Punjab
+35692_20	is_in_sentence	sentence_35692
+35692_20	punct	35692_19
+35692_20	has_surface_form	,
+35692_21	is_in_sentence	sentence_35692
+35692_21	npadvmod	35692_19
+35692_21	has_surface_form	Pakistan
+35692_22	is_in_sentence	sentence_35692
+35692_22	punct	35692_10
+35692_22	has_surface_form	.
+35692_23	is_in_sentence	sentence_35692
+35692_23	dep	35692_10
+35692_23	has_surface_form	
+Heavy Industries Taxila Education City University	surface_form	Heavy Industries Taxila Education City University
+Heavy Industries Taxila Education City University	is-where	Taxila Cantonment, Punjab, Pakistan
+Taxila Cantonment, Punjab, Pakistan	surface_form	Taxila Cantonment, Punjab, Pakistan

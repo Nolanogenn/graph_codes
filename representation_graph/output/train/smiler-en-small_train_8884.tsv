@@ -1,0 +1,69 @@
+8883_0	is_in_sentence	sentence_8883
+8883_0	compound	8883_2
+8883_0	is_entity	Bayswater
+8883_0	part_of_entity	Bayswater Secondary College
+8883_2	is_in_sentence	sentence_8883
+8883_2	nsubj	8883_3
+8883_2	has_surface_form	College
+8883_2	part_of_entity	Bayswater Secondary College
+Bayswater	surface_form	Bayswater
+8883_1	is_in_sentence	sentence_8883
+8883_1	compound	8883_2
+8883_1	has_surface_form	Secondary
+8883_1	part_of_entity	Bayswater Secondary College
+8883_3	is_in_sentence	sentence_8883
+8883_3	ROOT	8883_3
+8883_3	has_surface_form	is
+8883_4	is_in_sentence	sentence_8883
+8883_4	det	8883_7
+8883_4	has_surface_form	a
+8883_7	is_in_sentence	sentence_8883
+8883_7	attr	8883_3
+8883_7	has_surface_form	college
+8883_5	is_in_sentence	sentence_8883
+8883_5	nmod	8883_7
+8883_5	has_surface_form	state
+8883_6	is_in_sentence	sentence_8883
+8883_6	amod	8883_7
+8883_6	has_surface_form	secondary
+8883_8	is_in_sentence	sentence_8883
+8883_8	acl	8883_7
+8883_8	has_surface_form	located
+8883_9	is_in_sentence	sentence_8883
+8883_9	prep	8883_8
+8883_9	has_surface_form	in
+8883_10	is_in_sentence	sentence_8883
+8883_10	det	8883_11
+8883_10	has_surface_form	the
+8883_11	is_in_sentence	sentence_8883
+8883_11	pobj	8883_9
+8883_11	has_surface_form	suburb
+8883_12	is_in_sentence	sentence_8883
+8883_12	prep	8883_11
+8883_12	has_surface_form	of
+8883_13	is_in_sentence	sentence_8883
+8883_13	pobj	8883_12
+8883_13	is_entity	Bayswater
+8883_14	is_in_sentence	sentence_8883
+8883_14	prep	8883_8
+8883_14	has_surface_form	in
+8883_15	is_in_sentence	sentence_8883
+8883_15	amod	8883_16
+8883_15	has_surface_form	eastern
+8883_16	is_in_sentence	sentence_8883
+8883_16	pobj	8883_14
+8883_16	has_surface_form	Melbourne
+8883_17	is_in_sentence	sentence_8883
+8883_17	punct	8883_16
+8883_17	has_surface_form	,
+8883_18	is_in_sentence	sentence_8883
+8883_18	appos	8883_16
+8883_18	has_surface_form	Australia
+8883_19	is_in_sentence	sentence_8883
+8883_19	punct	8883_3
+8883_19	has_surface_form	.
+8883_20	is_in_sentence	sentence_8883
+8883_20	dep	8883_3
+8883_20	has_surface_form	
+Bayswater Secondary College	surface_form	Bayswater Secondary College
+Bayswater Secondary College	is-where	Bayswater

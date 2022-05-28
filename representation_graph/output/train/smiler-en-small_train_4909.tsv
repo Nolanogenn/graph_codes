@@ -1,0 +1,87 @@
+4908_0	is_in_sentence	sentence_4908
+4908_0	det	4908_2
+4908_0	has_surface_form	The
+4908_0	part_of_entity	The Vanished Elephant
+4908_2	is_in_sentence	sentence_4908
+4908_2	nsubj	4908_10
+4908_2	has_surface_form	Elephant
+4908_2	part_of_entity	The Vanished Elephant
+4908_1	is_in_sentence	sentence_4908
+4908_1	compound	4908_2
+4908_1	has_surface_form	Vanished
+4908_1	part_of_entity	The Vanished Elephant
+4908_10	is_in_sentence	sentence_4908
+4908_10	ROOT	4908_10
+4908_10	has_surface_form	is
+4908_3	is_in_sentence	sentence_4908
+4908_3	punct	4908_4
+4908_3	has_surface_form	(
+4908_4	is_in_sentence	sentence_4908
+4908_4	appos	4908_2
+4908_4	has_surface_form	Spanish
+4908_5	is_in_sentence	sentence_4908
+4908_5	punct	4908_4
+4908_5	has_surface_form	:
+4908_6	is_in_sentence	sentence_4908
+4908_6	compound	4908_8
+4908_6	has_surface_form	El
+4908_8	is_in_sentence	sentence_4908
+4908_8	appos	4908_4
+4908_8	has_surface_form	desaparecido
+4908_7	is_in_sentence	sentence_4908
+4908_7	compound	4908_8
+4908_7	has_surface_form	elefante
+4908_9	is_in_sentence	sentence_4908
+4908_9	punct	4908_4
+4908_9	has_surface_form	)
+4908_11	is_in_sentence	sentence_4908
+4908_11	det	4908_12
+4908_11	has_surface_form	a
+4908_12	is_in_sentence	sentence_4908
+4908_12	nummod	4908_18
+4908_12	has_surface_form	2014
+4908_18	is_in_sentence	sentence_4908
+4908_18	attr	4908_10
+4908_18	has_surface_form	film
+4908_13	is_in_sentence	sentence_4908
+4908_13	advmod	4908_14
+4908_13	has_surface_form	internationally
+4908_14	is_in_sentence	sentence_4908
+4908_14	amod	4908_18
+4908_14	has_surface_form	co
+4908_15	is_in_sentence	sentence_4908
+4908_15	amod	4908_18
+4908_15	has_surface_form	-
+4908_16	is_in_sentence	sentence_4908
+4908_16	amod	4908_18
+4908_16	has_surface_form	produced
+4908_17	is_in_sentence	sentence_4908
+4908_17	compound	4908_18
+4908_17	has_surface_form	mystery
+4908_19	is_in_sentence	sentence_4908
+4908_19	acl	4908_18
+4908_19	has_surface_form	directed
+4908_20	is_in_sentence	sentence_4908
+4908_20	agent	4908_19
+4908_20	has_surface_form	by
+4908_21	is_in_sentence	sentence_4908
+4908_21	compound	4908_24
+4908_21	has_surface_form	Javier
+4908_24	is_in_sentence	sentence_4908
+4908_24	pobj	4908_20
+4908_24	has_surface_form	León
+4908_22	is_in_sentence	sentence_4908
+4908_22	compound	4908_24
+4908_22	has_surface_form	Fuentes
+4908_23	is_in_sentence	sentence_4908
+4908_23	punct	4908_24
+4908_23	has_surface_form	-
+4908_25	is_in_sentence	sentence_4908
+4908_25	punct	4908_10
+4908_25	has_surface_form	.
+4908_26	is_in_sentence	sentence_4908
+4908_26	dep	4908_10
+4908_26	has_surface_form	
+The Vanished Elephant	surface_form	The Vanished Elephant
+The Vanished Elephant	movie-has-director	Javier Fuentes-León
+Javier Fuentes-León	surface_form	Javier Fuentes-León

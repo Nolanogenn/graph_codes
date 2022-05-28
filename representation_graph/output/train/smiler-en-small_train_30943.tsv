@@ -1,0 +1,76 @@
+30942_0	is_in_sentence	sentence_30942
+30942_0	compound	30942_1
+30942_0	has_surface_form	Christmas
+30942_0	part_of_entity	Christmas Cupid
+30942_1	is_in_sentence	sentence_30942
+30942_1	nsubj	30942_2
+30942_1	has_surface_form	Cupid
+30942_1	part_of_entity	Christmas Cupid
+30942_2	is_in_sentence	sentence_30942
+30942_2	ROOT	30942_2
+30942_2	has_surface_form	is
+30942_3	is_in_sentence	sentence_30942
+30942_3	det	30942_5
+30942_3	has_surface_form	a
+30942_5	is_in_sentence	sentence_30942
+30942_5	attr	30942_2
+30942_5	has_surface_form	film
+30942_4	is_in_sentence	sentence_30942
+30942_4	compound	30942_5
+30942_4	has_surface_form	television
+30942_6	is_in_sentence	sentence_30942
+30942_6	acl	30942_5
+30942_6	has_surface_form	starring
+30942_7	is_in_sentence	sentence_30942
+30942_7	compound	30942_8
+30942_7	has_surface_form	Christina
+30942_8	is_in_sentence	sentence_30942
+30942_8	dobj	30942_6
+30942_8	has_surface_form	Milian
+30942_9	is_in_sentence	sentence_30942
+30942_9	punct	30942_8
+30942_9	has_surface_form	,
+30942_10	is_in_sentence	sentence_30942
+30942_10	compound	30942_11
+30942_10	has_surface_form	Ashley
+30942_11	is_in_sentence	sentence_30942
+30942_11	conj	30942_8
+30942_11	has_surface_form	Benson
+30942_12	is_in_sentence	sentence_30942
+30942_12	cc	30942_11
+30942_12	has_surface_form	and
+30942_13	is_in_sentence	sentence_30942
+30942_13	compound	30942_15
+30942_13	has_surface_form	Chad
+30942_15	is_in_sentence	sentence_30942
+30942_15	conj	30942_11
+30942_15	has_surface_form	Murray
+30942_14	is_in_sentence	sentence_30942
+30942_14	compound	30942_15
+30942_14	has_surface_form	Michael
+30942_16	is_in_sentence	sentence_30942
+30942_16	cc	30942_2
+30942_16	has_surface_form	and
+30942_17	is_in_sentence	sentence_30942
+30942_17	conj	30942_2
+30942_17	has_surface_form	directed
+30942_18	is_in_sentence	sentence_30942
+30942_18	agent	30942_17
+30942_18	has_surface_form	by
+30942_19	is_in_sentence	sentence_30942
+30942_19	compound	30942_20
+30942_19	has_surface_form	Gil
+30942_19	part_of_entity	Gil Junger
+30942_20	is_in_sentence	sentence_30942
+30942_20	pobj	30942_18
+30942_20	has_surface_form	Junger
+30942_20	part_of_entity	Gil Junger
+30942_21	is_in_sentence	sentence_30942
+30942_21	punct	30942_2
+30942_21	has_surface_form	.
+30942_22	is_in_sentence	sentence_30942
+30942_22	dep	30942_2
+30942_22	has_surface_form	
+Christmas Cupid	surface_form	Christmas Cupid
+Christmas Cupid	movie-has-director	Gil Junger
+Gil Junger	surface_form	Gil Junger

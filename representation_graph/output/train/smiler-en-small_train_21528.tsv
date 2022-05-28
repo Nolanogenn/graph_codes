@@ -1,0 +1,60 @@
+21527_0	is_in_sentence	sentence_21527
+21527_0	det	21527_2
+21527_0	has_surface_form	The
+21527_0	part_of_entity	The Lightning Raider
+21527_2	is_in_sentence	sentence_21527
+21527_2	nsubj	21527_3
+21527_2	has_surface_form	Raider
+21527_2	part_of_entity	The Lightning Raider
+21527_1	is_in_sentence	sentence_21527
+21527_1	compound	21527_2
+21527_1	has_surface_form	Lightning
+21527_1	part_of_entity	The Lightning Raider
+21527_3	is_in_sentence	sentence_21527
+21527_3	ROOT	21527_3
+21527_3	has_surface_form	is
+21527_4	is_in_sentence	sentence_21527
+21527_4	det	21527_9
+21527_4	has_surface_form	a
+21527_9	is_in_sentence	sentence_21527
+21527_9	attr	21527_3
+21527_9	has_surface_form	serial
+21527_5	is_in_sentence	sentence_21527
+21527_5	nummod	21527_8
+21527_5	has_surface_form	1919
+21527_8	is_in_sentence	sentence_21527
+21527_8	compound	21527_9
+21527_8	has_surface_form	film
+21527_6	is_in_sentence	sentence_21527
+21527_6	amod	21527_8
+21527_6	has_surface_form	American
+21527_7	is_in_sentence	sentence_21527
+21527_7	compound	21527_8
+21527_7	has_surface_form	action
+21527_10	is_in_sentence	sentence_21527
+21527_10	acl	21527_9
+21527_10	has_surface_form	directed
+21527_11	is_in_sentence	sentence_21527
+21527_11	agent	21527_10
+21527_11	has_surface_form	by
+21527_12	is_in_sentence	sentence_21527
+21527_12	compound	21527_14
+21527_12	has_surface_form	George
+21527_12	part_of_entity	George B. Seitz
+21527_14	is_in_sentence	sentence_21527
+21527_14	pobj	21527_11
+21527_14	has_surface_form	Seitz
+21527_14	part_of_entity	George B. Seitz
+21527_13	is_in_sentence	sentence_21527
+21527_13	compound	21527_14
+21527_13	has_surface_form	B.
+21527_13	part_of_entity	George B. Seitz
+21527_15	is_in_sentence	sentence_21527
+21527_15	punct	21527_3
+21527_15	has_surface_form	.
+21527_16	is_in_sentence	sentence_21527
+21527_16	dep	21527_3
+21527_16	has_surface_form	
+The Lightning Raider	surface_form	The Lightning Raider
+The Lightning Raider	movie-has-director	George B. Seitz
+George B. Seitz	surface_form	George B. Seitz

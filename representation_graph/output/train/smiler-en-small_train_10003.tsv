@@ -1,0 +1,73 @@
+10002_0	is_in_sentence	sentence_10002
+10002_0	det	10002_2
+10002_0	has_surface_form	The
+10002_2	is_in_sentence	sentence_10002
+10002_2	nsubj	10002_6
+10002_2	has_surface_form	Philanthropies
+10002_2	part_of_entity	Atlantic Philanthropies
+10002_1	is_in_sentence	sentence_10002
+10002_1	compound	10002_2
+10002_1	has_surface_form	Atlantic
+10002_1	part_of_entity	Atlantic Philanthropies
+10002_6	is_in_sentence	sentence_10002
+10002_6	ROOT	10002_6
+10002_6	has_surface_form	is
+10002_3	is_in_sentence	sentence_10002
+10002_3	punct	10002_2
+10002_3	has_surface_form	(
+10002_4	is_in_sentence	sentence_10002
+10002_4	appos	10002_2
+10002_4	has_surface_form	AP
+10002_5	is_in_sentence	sentence_10002
+10002_5	punct	10002_2
+10002_5	has_surface_form	)
+10002_7	is_in_sentence	sentence_10002
+10002_7	det	10002_9
+10002_7	has_surface_form	a
+10002_9	is_in_sentence	sentence_10002
+10002_9	attr	10002_6
+10002_9	has_surface_form	foundation
+10002_8	is_in_sentence	sentence_10002
+10002_8	amod	10002_9
+10002_8	has_surface_form	private
+10002_10	is_in_sentence	sentence_10002
+10002_10	acl	10002_9
+10002_10	has_surface_form	created
+10002_11	is_in_sentence	sentence_10002
+10002_11	prep	10002_10
+10002_11	has_surface_form	in
+10002_12	is_in_sentence	sentence_10002
+10002_12	pobj	10002_11
+10002_12	has_surface_form	1982
+10002_13	is_in_sentence	sentence_10002
+10002_13	agent	10002_10
+10002_13	has_surface_form	by
+10002_14	is_in_sentence	sentence_10002
+10002_14	amod	10002_16
+10002_14	has_surface_form	Irish
+10002_16	is_in_sentence	sentence_10002
+10002_16	amod	10002_17
+10002_16	has_surface_form	American
+10002_15	is_in_sentence	sentence_10002
+10002_15	punct	10002_16
+10002_15	has_surface_form	-
+10002_17	is_in_sentence	sentence_10002
+10002_17	compound	10002_19
+10002_17	has_surface_form	businessman
+10002_19	is_in_sentence	sentence_10002
+10002_19	pobj	10002_13
+10002_19	has_surface_form	Feeney
+10002_19	part_of_entity	Chuck Feeney
+10002_18	is_in_sentence	sentence_10002
+10002_18	compound	10002_19
+10002_18	has_surface_form	Chuck
+10002_18	part_of_entity	Chuck Feeney
+10002_20	is_in_sentence	sentence_10002
+10002_20	punct	10002_6
+10002_20	has_surface_form	.
+10002_21	is_in_sentence	sentence_10002
+10002_21	dep	10002_21
+10002_21	has_surface_form	
+Atlantic Philanthropies	surface_form	Atlantic Philanthropies
+Atlantic Philanthropies	org-has-founder	Chuck Feeney
+Chuck Feeney	surface_form	Chuck Feeney

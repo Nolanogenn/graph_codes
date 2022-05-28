@@ -1,0 +1,67 @@
+6802_0	is_in_sentence	sentence_6802
+6802_0	compound	6802_1
+6802_0	has_surface_form	Mauvaise
+6802_0	part_of_entity	Mauvaise Conduite
+6802_1	is_in_sentence	sentence_6802
+6802_1	nsubj	6802_5
+6802_1	has_surface_form	Conduite
+6802_1	part_of_entity	Mauvaise Conduite
+6802_5	is_in_sentence	sentence_6802
+6802_5	ROOT	6802_5
+6802_5	has_surface_form	is
+6802_2	is_in_sentence	sentence_6802
+6802_2	cc	6802_1
+6802_2	has_surface_form	or
+6802_3	is_in_sentence	sentence_6802
+6802_3	compound	6802_4
+6802_3	has_surface_form	Improper
+6802_4	is_in_sentence	sentence_6802
+6802_4	conj	6802_1
+6802_4	has_surface_form	Conduct
+6802_6	is_in_sentence	sentence_6802
+6802_6	det	6802_9
+6802_6	has_surface_form	a
+6802_9	is_in_sentence	sentence_6802
+6802_9	attr	6802_5
+6802_9	has_surface_form	film
+6802_7	is_in_sentence	sentence_6802
+6802_7	nummod	6802_9
+6802_7	has_surface_form	1984
+6802_8	is_in_sentence	sentence_6802
+6802_8	compound	6802_9
+6802_8	has_surface_form	documentary
+6802_10	is_in_sentence	sentence_6802
+6802_10	acl	6802_9
+6802_10	has_surface_form	directed
+6802_11	is_in_sentence	sentence_6802
+6802_11	agent	6802_10
+6802_11	has_surface_form	by
+6802_12	is_in_sentence	sentence_6802
+6802_12	compound	6802_13
+6802_12	has_surface_form	Néstor
+6802_12	part_of_entity	Néstor Almendros
+6802_13	is_in_sentence	sentence_6802
+6802_13	pobj	6802_11
+6802_13	has_surface_form	Almendros
+6802_13	part_of_entity	Néstor Almendros
+6802_14	is_in_sentence	sentence_6802
+6802_14	cc	6802_13
+6802_14	has_surface_form	and
+6802_15	is_in_sentence	sentence_6802
+6802_15	compound	6802_17
+6802_15	has_surface_form	Orlando
+6802_17	is_in_sentence	sentence_6802
+6802_17	conj	6802_13
+6802_17	has_surface_form	Leal
+6802_16	is_in_sentence	sentence_6802
+6802_16	compound	6802_17
+6802_16	has_surface_form	Jiménez
+6802_18	is_in_sentence	sentence_6802
+6802_18	punct	6802_5
+6802_18	has_surface_form	.
+6802_19	is_in_sentence	sentence_6802
+6802_19	dep	6802_5
+6802_19	has_surface_form	
+Mauvaise Conduite	surface_form	Mauvaise Conduite
+Mauvaise Conduite	movie-has-director	Néstor Almendros
+Néstor Almendros	surface_form	Néstor Almendros

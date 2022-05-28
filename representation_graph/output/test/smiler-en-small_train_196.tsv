@@ -1,0 +1,53 @@
+195_0	is_in_sentence	sentence_195
+195_0	compound	195_1
+195_0	has_surface_form	Maggie
+195_0	part_of_entity	Maggie Lau
+195_1	is_in_sentence	sentence_195
+195_1	ROOT	195_1
+195_1	has_surface_form	Lau
+195_1	part_of_entity	Maggie Lau
+195_2	is_in_sentence	sentence_195
+195_2	punct	195_7
+195_2	has_surface_form	(
+195_7	is_in_sentence	sentence_195
+195_7	parataxis	195_1
+195_7	has_surface_form	is
+195_3	is_in_sentence	sentence_195
+195_3	nsubj	195_7
+195_3	has_surface_form	Chinese
+195_4	is_in_sentence	sentence_195
+195_4	punct	195_5
+195_4	has_surface_form	:
+195_5	is_in_sentence	sentence_195
+195_5	appos	195_3
+195_5	has_surface_form	劉思惠
+195_6	is_in_sentence	sentence_195
+195_6	punct	195_3
+195_6	has_surface_form	)
+195_8	is_in_sentence	sentence_195
+195_8	det	195_11
+195_8	has_surface_form	a
+195_11	is_in_sentence	sentence_195
+195_11	attr	195_7
+195_11	is_entity	actress
+195_9	is_in_sentence	sentence_195
+195_9	compound	195_10
+195_9	has_surface_form	Hong
+195_10	is_in_sentence	sentence_195
+195_10	compound	195_11
+195_10	has_surface_form	Kong
+actress	surface_form	actress
+195_12	is_in_sentence	sentence_195
+195_12	cc	195_11
+195_12	has_surface_form	and
+195_13	is_in_sentence	sentence_195
+195_13	conj	195_11
+195_13	has_surface_form	singer
+195_14	is_in_sentence	sentence_195
+195_14	punct	195_7
+195_14	has_surface_form	.
+195_15	is_in_sentence	sentence_195
+195_15	dep	195_15
+195_15	has_surface_form	
+Maggie Lau	surface_form	Maggie Lau
+Maggie Lau	has-occupation	actress

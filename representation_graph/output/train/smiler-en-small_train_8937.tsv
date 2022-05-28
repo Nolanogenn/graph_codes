@@ -1,0 +1,83 @@
+8936_0	is_in_sentence	sentence_8936
+8936_0	det	8936_2
+8936_0	has_surface_form	The
+8936_0	part_of_entity	The Cat Burglar
+8936_2	is_in_sentence	sentence_8936
+8936_2	nsubj	8936_3
+8936_2	has_surface_form	Burglar
+8936_2	part_of_entity	The Cat Burglar
+8936_1	is_in_sentence	sentence_8936
+8936_1	compound	8936_2
+8936_1	has_surface_form	Cat
+8936_1	part_of_entity	The Cat Burglar
+8936_3	is_in_sentence	sentence_8936
+8936_3	ROOT	8936_3
+8936_3	has_surface_form	is
+8936_4	is_in_sentence	sentence_8936
+8936_4	det	8936_8
+8936_4	has_surface_form	a
+8936_8	is_in_sentence	sentence_8936
+8936_8	attr	8936_3
+8936_8	has_surface_form	film
+8936_5	is_in_sentence	sentence_8936
+8936_5	nummod	8936_8
+8936_5	has_surface_form	1961
+8936_6	is_in_sentence	sentence_8936
+8936_6	amod	8936_8
+8936_6	has_surface_form	American
+8936_7	is_in_sentence	sentence_8936
+8936_7	compound	8936_8
+8936_7	has_surface_form	crime
+8936_9	is_in_sentence	sentence_8936
+8936_9	acl	8936_8
+8936_9	has_surface_form	directed
+8936_10	is_in_sentence	sentence_8936
+8936_10	agent	8936_9
+8936_10	has_surface_form	by
+8936_11	is_in_sentence	sentence_8936
+8936_11	compound	8936_12
+8936_11	has_surface_form	William
+8936_12	is_in_sentence	sentence_8936
+8936_12	pobj	8936_10
+8936_12	has_surface_form	Witney
+8936_13	is_in_sentence	sentence_8936
+8936_13	cc	8936_9
+8936_13	has_surface_form	and
+8936_14	is_in_sentence	sentence_8936
+8936_14	conj	8936_9
+8936_14	has_surface_form	starring
+8936_15	is_in_sentence	sentence_8936
+8936_15	compound	8936_16
+8936_15	has_surface_form	Jack
+8936_15	part_of_entity	Jack Hogan
+8936_16	is_in_sentence	sentence_8936
+8936_16	dobj	8936_14
+8936_16	has_surface_form	Hogan
+8936_16	part_of_entity	Jack Hogan
+8936_17	is_in_sentence	sentence_8936
+8936_17	punct	8936_16
+8936_17	has_surface_form	,
+8936_18	is_in_sentence	sentence_8936
+8936_18	compound	8936_19
+8936_18	has_surface_form	June
+8936_19	is_in_sentence	sentence_8936
+8936_19	conj	8936_16
+8936_19	has_surface_form	Kenney
+8936_20	is_in_sentence	sentence_8936
+8936_20	cc	8936_19
+8936_20	has_surface_form	and
+8936_21	is_in_sentence	sentence_8936
+8936_21	compound	8936_22
+8936_21	has_surface_form	John
+8936_22	is_in_sentence	sentence_8936
+8936_22	conj	8936_19
+8936_22	has_surface_form	Baer
+8936_23	is_in_sentence	sentence_8936
+8936_23	punct	8936_3
+8936_23	has_surface_form	.
+8936_24	is_in_sentence	sentence_8936
+8936_24	dep	8936_24
+8936_24	has_surface_form	
+The Cat Burglar	surface_form	The Cat Burglar
+The Cat Burglar	starring	Jack Hogan
+Jack Hogan	surface_form	Jack Hogan

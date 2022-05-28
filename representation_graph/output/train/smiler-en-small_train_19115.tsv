@@ -1,0 +1,59 @@
+19114_0	is_in_sentence	sentence_19114
+19114_0	compound	19114_1
+19114_0	has_surface_form	Bobby
+19114_0	part_of_entity	Bobby Hackett
+19114_1	is_in_sentence	sentence_19114
+19114_1	nsubj	19114_2
+19114_1	has_surface_form	Hackett
+19114_1	part_of_entity	Bobby Hackett
+19114_2	is_in_sentence	sentence_19114
+19114_2	ROOT	19114_2
+19114_2	has_surface_form	married
+19114_3	is_in_sentence	sentence_19114
+19114_3	compound	19114_4
+19114_3	has_surface_form	Edna
+19114_4	is_in_sentence	sentence_19114
+19114_4	compound	19114_6
+19114_4	has_surface_form	Lillian
+19114_6	is_in_sentence	sentence_19114
+19114_6	dobj	19114_2
+19114_6	has_surface_form	Hackett
+19114_5	is_in_sentence	sentence_19114
+19114_5	compound	19114_6
+19114_5	has_surface_form	Lee
+19114_7	is_in_sentence	sentence_19114
+19114_7	punct	19114_6
+19114_7	has_surface_form	(
+19114_8	is_in_sentence	sentence_19114
+19114_8	appos	19114_6
+19114_8	has_surface_form	d.
+19114_9	is_in_sentence	sentence_19114
+19114_9	nsubj	19114_10
+19114_9	has_surface_form	They
+19114_10	is_in_sentence	sentence_19114
+19114_10	ccomp	19114_2
+19114_10	has_surface_form	had
+19114_11	is_in_sentence	sentence_19114
+19114_11	det	19114_12
+19114_11	has_surface_form	a
+19114_12	is_in_sentence	sentence_19114
+19114_12	dobj	19114_10
+19114_12	has_surface_form	daughter
+19114_13	is_in_sentence	sentence_19114
+19114_13	punct	19114_12
+19114_13	has_surface_form	,
+19114_14	is_in_sentence	sentence_19114
+19114_14	appos	19114_12
+19114_14	is_entity	Barbara
+Barbara	surface_form	Barbara
+19114_15	is_in_sentence	sentence_19114
+19114_15	punct	19114_16
+19114_15	has_surface_form	(
+19114_16	is_in_sentence	sentence_19114
+19114_16	appos	19114_12
+19114_16	has_surface_form	d.
+19114_17	is_in_sentence	sentence_19114
+19114_17	dep	19114_10
+19114_17	has_surface_form	
+Bobby Hackett	surface_form	Bobby Hackett
+Bobby Hackett	has-child	Barbara

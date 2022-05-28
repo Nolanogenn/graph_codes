@@ -1,0 +1,55 @@
+5069_0	is_in_sentence	sentence_5069
+5069_0	compound	5069_1
+5069_0	has_surface_form	Steve
+5069_0	part_of_entity	Steve Yoder
+5069_1	is_in_sentence	sentence_5069
+5069_1	nsubj	5069_7
+5069_1	has_surface_form	Yoder
+5069_1	part_of_entity	Steve Yoder
+5069_7	is_in_sentence	sentence_5069
+5069_7	ROOT	5069_7
+5069_7	has_surface_form	is
+5069_2	is_in_sentence	sentence_5069
+5069_2	punct	5069_3
+5069_2	has_surface_form	(
+5069_3	is_in_sentence	sentence_5069
+5069_3	relcl	5069_1
+5069_3	has_surface_form	born
+5069_4	is_in_sentence	sentence_5069
+5069_4	npadvmod	5069_3
+5069_4	has_surface_form	c.
+5069_5	is_in_sentence	sentence_5069
+5069_5	nummod	5069_4
+5069_5	has_surface_form	1939
+5069_6	is_in_sentence	sentence_5069
+5069_6	punct	5069_3
+5069_6	has_surface_form	)
+5069_8	is_in_sentence	sentence_5069
+5069_8	det	5069_13
+5069_8	has_surface_form	an
+5069_13	is_in_sentence	sentence_5069
+5069_13	attr	5069_7
+5069_13	has_surface_form	coach
+5069_13	part_of_entity	basketball coach
+5069_9	is_in_sentence	sentence_5069
+5069_9	amod	5069_13
+5069_9	has_surface_form	American
+5069_10	is_in_sentence	sentence_5069
+5069_10	amod	5069_13
+5069_10	has_surface_form	former
+5069_11	is_in_sentence	sentence_5069
+5069_11	compound	5069_12
+5069_11	has_surface_form	college
+5069_12	is_in_sentence	sentence_5069
+5069_12	compound	5069_13
+5069_12	has_surface_form	basketball
+5069_12	part_of_entity	basketball coach
+5069_14	is_in_sentence	sentence_5069
+5069_14	punct	5069_7
+5069_14	has_surface_form	.
+5069_15	is_in_sentence	sentence_5069
+5069_15	dep	5069_15
+5069_15	has_surface_form	
+Steve Yoder	surface_form	Steve Yoder
+Steve Yoder	has-type	basketball coach
+basketball coach	surface_form	basketball coach

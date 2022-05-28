@@ -1,0 +1,49 @@
+13254_0	is_in_sentence	sentence_13254
+13254_0	compound	13254_1
+13254_0	has_surface_form	Viswam
+13254_0	part_of_entity	Viswam Bhagavatar
+13254_1	is_in_sentence	sentence_13254
+13254_1	poss	13254_3
+13254_1	has_surface_form	Bhagavatar
+13254_1	part_of_entity	Viswam Bhagavatar
+13254_3	is_in_sentence	sentence_13254
+13254_3	nsubj	13254_7
+13254_3	has_surface_form	son
+13254_2	is_in_sentence	sentence_13254
+13254_2	case	13254_1
+13254_2	has_surface_form	's
+13254_7	is_in_sentence	sentence_13254
+13254_7	ROOT	13254_7
+13254_7	has_surface_form	continued
+13254_4	is_in_sentence	sentence_13254
+13254_4	punct	13254_3
+13254_4	has_surface_form	,
+13254_5	is_in_sentence	sentence_13254
+13254_5	compound	13254_6
+13254_5	has_surface_form	Narayana
+13254_5	part_of_entity	Narayana Bhagavatar
+13254_6	is_in_sentence	sentence_13254
+13254_6	appos	13254_3
+13254_6	has_surface_form	Bhagavatar
+13254_6	part_of_entity	Narayana Bhagavatar
+13254_8	is_in_sentence	sentence_13254
+13254_8	poss	13254_9
+13254_8	has_surface_form	his
+13254_9	is_in_sentence	sentence_13254
+13254_9	poss	13254_11
+13254_9	has_surface_form	father
+13254_11	is_in_sentence	sentence_13254
+13254_11	dobj	13254_7
+13254_11	has_surface_form	legacy
+13254_10	is_in_sentence	sentence_13254
+13254_10	case	13254_9
+13254_10	has_surface_form	's
+13254_12	is_in_sentence	sentence_13254
+13254_12	punct	13254_7
+13254_12	has_surface_form	.
+13254_13	is_in_sentence	sentence_13254
+13254_13	dep	13254_13
+13254_13	has_surface_form	
+Viswam Bhagavatar	surface_form	Viswam Bhagavatar
+Viswam Bhagavatar	has-child	Narayana Bhagavatar
+Narayana Bhagavatar	surface_form	Narayana Bhagavatar

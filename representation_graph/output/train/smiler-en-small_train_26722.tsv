@@ -1,0 +1,88 @@
+26721_0	is_in_sentence	sentence_26721
+26721_0	compound	26721_1
+26721_0	has_surface_form	Amanda
+26721_0	part_of_entity	Amanda Noar
+26721_1	is_in_sentence	sentence_26721
+26721_1	nsubj	26721_8
+26721_1	has_surface_form	Noar
+26721_1	part_of_entity	Amanda Noar
+26721_8	is_in_sentence	sentence_26721
+26721_8	ROOT	26721_8
+26721_8	has_surface_form	is
+26721_2	is_in_sentence	sentence_26721
+26721_2	punct	26721_1
+26721_2	has_surface_form	(
+26721_3	is_in_sentence	sentence_26721
+26721_3	acl	26721_1
+26721_3	has_surface_form	born
+26721_4	is_in_sentence	sentence_26721
+26721_4	nummod	26721_5
+26721_4	has_surface_form	14
+26721_5	is_in_sentence	sentence_26721
+26721_5	npadvmod	26721_3
+26721_5	has_surface_form	October
+26721_6	is_in_sentence	sentence_26721
+26721_6	nummod	26721_5
+26721_6	has_surface_form	1962
+26721_7	is_in_sentence	sentence_26721
+26721_7	punct	26721_1
+26721_7	has_surface_form	)
+26721_9	is_in_sentence	sentence_26721
+26721_9	det	26721_11
+26721_9	has_surface_form	an
+26721_11	is_in_sentence	sentence_26721
+26721_11	attr	26721_8
+26721_11	has_surface_form	actress
+26721_10	is_in_sentence	sentence_26721
+26721_10	compound	26721_11
+26721_10	has_surface_form	English
+26721_12	is_in_sentence	sentence_26721
+26721_12	punct	26721_11
+26721_12	has_surface_form	,
+26721_13	is_in_sentence	sentence_26721
+26721_13	conj	26721_11
+26721_13	has_surface_form	director
+26721_14	is_in_sentence	sentence_26721
+26721_14	cc	26721_13
+26721_14	has_surface_form	and
+26721_15	is_in_sentence	sentence_26721
+26721_15	conj	26721_13
+26721_15	has_surface_form	choreographer
+26721_16	is_in_sentence	sentence_26721
+26721_16	cc	26721_8
+26721_16	has_surface_form	and
+26721_17	is_in_sentence	sentence_26721
+26721_17	conj	26721_8
+26721_17	has_surface_form	is
+26721_18	is_in_sentence	sentence_26721
+26721_18	det	26721_20
+26721_18	has_surface_form	the
+26721_20	is_in_sentence	sentence_26721
+26721_20	attr	26721_17
+26721_20	has_surface_form	wife
+26721_19	is_in_sentence	sentence_26721
+26721_19	amod	26721_20
+26721_19	has_surface_form	former
+26721_21	is_in_sentence	sentence_26721
+26721_21	prep	26721_20
+26721_21	has_surface_form	of
+26721_22	is_in_sentence	sentence_26721
+26721_22	compound	26721_24
+26721_22	has_surface_form	actor
+26721_24	is_in_sentence	sentence_26721
+26721_24	pobj	26721_21
+26721_24	has_surface_form	Morrissey
+26721_24	part_of_entity	Neil Morrissey
+26721_23	is_in_sentence	sentence_26721
+26721_23	compound	26721_24
+26721_23	has_surface_form	Neil
+26721_23	part_of_entity	Neil Morrissey
+26721_25	is_in_sentence	sentence_26721
+26721_25	punct	26721_8
+26721_25	has_surface_form	.
+26721_26	is_in_sentence	sentence_26721
+26721_26	dep	26721_8
+26721_26	has_surface_form	
+Amanda Noar	surface_form	Amanda Noar
+Amanda Noar	has-spouse	Neil Morrissey
+Neil Morrissey	surface_form	Neil Morrissey

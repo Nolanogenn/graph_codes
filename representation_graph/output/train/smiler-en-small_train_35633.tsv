@@ -1,0 +1,50 @@
+35632_0	is_in_sentence	sentence_35632
+35632_0	compound	35632_1
+35632_0	has_surface_form	Jakob
+35632_0	part_of_entity	Jakob Sveistrup
+35632_1	is_in_sentence	sentence_35632
+35632_1	nsubj	35632_9
+35632_1	has_surface_form	Sveistrup
+35632_1	part_of_entity	Jakob Sveistrup
+35632_9	is_in_sentence	sentence_35632
+35632_9	ROOT	35632_9
+35632_9	has_surface_form	is
+35632_2	is_in_sentence	sentence_35632
+35632_2	punct	35632_1
+35632_2	has_surface_form	(
+35632_3	is_in_sentence	sentence_35632
+35632_3	acl	35632_1
+35632_3	has_surface_form	born
+35632_4	is_in_sentence	sentence_35632
+35632_4	npadvmod	35632_3
+35632_4	has_surface_form	March
+35632_5	is_in_sentence	sentence_35632
+35632_5	nummod	35632_4
+35632_5	has_surface_form	8
+35632_6	is_in_sentence	sentence_35632
+35632_6	punct	35632_4
+35632_6	has_surface_form	,
+35632_7	is_in_sentence	sentence_35632
+35632_7	nummod	35632_4
+35632_7	has_surface_form	1972
+35632_8	is_in_sentence	sentence_35632
+35632_8	punct	35632_1
+35632_8	has_surface_form	)
+35632_10	is_in_sentence	sentence_35632
+35632_10	det	35632_12
+35632_10	has_surface_form	a
+35632_12	is_in_sentence	sentence_35632
+35632_12	attr	35632_9
+35632_12	is_entity	singer
+35632_11	is_in_sentence	sentence_35632
+35632_11	amod	35632_12
+35632_11	has_surface_form	Danish
+singer	surface_form	singer
+35632_13	is_in_sentence	sentence_35632
+35632_13	punct	35632_9
+35632_13	has_surface_form	.
+35632_14	is_in_sentence	sentence_35632
+35632_14	dep	35632_14
+35632_14	has_surface_form	
+Jakob Sveistrup	surface_form	Jakob Sveistrup
+Jakob Sveistrup	has-occupation	singer

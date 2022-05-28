@@ -1,0 +1,88 @@
+3776_0	is_in_sentence	sentence_3776
+3776_0	nsubjpass	3776_2
+3776_0	has_surface_form	It
+3776_2	is_in_sentence	sentence_3776
+3776_2	ROOT	3776_2
+3776_2	has_surface_form	named
+3776_1	is_in_sentence	sentence_3776
+3776_1	auxpass	3776_2
+3776_1	has_surface_form	is
+3776_3	is_in_sentence	sentence_3776
+3776_3	prep	3776_2
+3776_3	has_surface_form	for
+3776_4	is_in_sentence	sentence_3776
+3776_4	compound	3776_5
+3776_4	has_surface_form	Thomas
+3776_4	part_of_entity	Thomas Dodd
+3776_5	is_in_sentence	sentence_3776
+3776_5	pobj	3776_3
+3776_5	has_surface_form	Dodd
+3776_5	part_of_entity	Thomas Dodd
+3776_6	is_in_sentence	sentence_3776
+3776_6	nsubj	3776_7
+3776_6	has_surface_form	who
+3776_7	is_in_sentence	sentence_3776
+3776_7	relcl	3776_5
+3776_7	has_surface_form	was
+3776_8	is_in_sentence	sentence_3776
+3776_8	det	3776_11
+3776_8	has_surface_form	a
+3776_11	is_in_sentence	sentence_3776
+3776_11	attr	3776_7
+3776_11	has_surface_form	Senator
+3776_9	is_in_sentence	sentence_3776
+3776_9	compound	3776_10
+3776_9	has_surface_form	United
+3776_10	is_in_sentence	sentence_3776
+3776_10	compound	3776_11
+3776_10	has_surface_form	States
+3776_12	is_in_sentence	sentence_3776
+3776_12	cc	3776_11
+3776_12	has_surface_form	and
+3776_13	is_in_sentence	sentence_3776
+3776_13	conj	3776_11
+3776_13	has_surface_form	Representative
+3776_14	is_in_sentence	sentence_3776
+3776_14	prep	3776_11
+3776_14	has_surface_form	from
+3776_15	is_in_sentence	sentence_3776
+3776_15	pobj	3776_14
+3776_15	has_surface_form	Connecticut
+3776_16	is_in_sentence	sentence_3776
+3776_16	punct	3776_5
+3776_16	has_surface_form	,
+3776_17	is_in_sentence	sentence_3776
+3776_17	cc	3776_5
+3776_17	has_surface_form	and
+3776_18	is_in_sentence	sentence_3776
+3776_18	det	3776_19
+3776_18	has_surface_form	the
+3776_19	is_in_sentence	sentence_3776
+3776_19	conj	3776_5
+3776_19	has_surface_form	father
+3776_20	is_in_sentence	sentence_3776
+3776_20	prep	3776_19
+3776_20	has_surface_form	of
+3776_21	is_in_sentence	sentence_3776
+3776_21	pobj	3776_20
+3776_21	has_surface_form	U.S.
+3776_22	is_in_sentence	sentence_3776
+3776_22	compound	3776_24
+3776_22	has_surface_form	Senator
+3776_24	is_in_sentence	sentence_3776
+3776_24	pobj	3776_20
+3776_24	has_surface_form	Dodd
+3776_24	part_of_entity	Christopher Dodd
+3776_23	is_in_sentence	sentence_3776
+3776_23	compound	3776_24
+3776_23	has_surface_form	Christopher
+3776_23	part_of_entity	Christopher Dodd
+3776_25	is_in_sentence	sentence_3776
+3776_25	punct	3776_2
+3776_25	has_surface_form	.
+3776_26	is_in_sentence	sentence_3776
+3776_26	dep	3776_2
+3776_26	has_surface_form	
+Thomas Dodd	surface_form	Thomas Dodd
+Thomas Dodd	has-child	Christopher Dodd
+Christopher Dodd	surface_form	Christopher Dodd

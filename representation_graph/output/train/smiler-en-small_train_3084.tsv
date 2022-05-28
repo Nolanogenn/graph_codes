@@ -1,0 +1,92 @@
+3083_0	is_in_sentence	sentence_3083
+3083_0	compound	3083_1
+3083_0	has_surface_form	Julie
+3083_0	part_of_entity	Julie Anne Peñaflorida San Jose
+3083_1	is_in_sentence	sentence_3083
+3083_1	compound	3083_4
+3083_1	has_surface_form	Anne
+3083_1	part_of_entity	Julie Anne Peñaflorida San Jose
+3083_4	is_in_sentence	sentence_3083
+3083_4	nsubj	3083_12
+3083_4	has_surface_form	Jose
+3083_4	part_of_entity	Julie Anne Peñaflorida San Jose
+3083_2	is_in_sentence	sentence_3083
+3083_2	compound	3083_4
+3083_2	has_surface_form	Peñaflorida
+3083_2	part_of_entity	Julie Anne Peñaflorida San Jose
+3083_3	is_in_sentence	sentence_3083
+3083_3	compound	3083_4
+3083_3	has_surface_form	San
+3083_3	part_of_entity	Julie Anne Peñaflorida San Jose
+3083_12	is_in_sentence	sentence_3083
+3083_12	ROOT	3083_12
+3083_12	has_surface_form	is
+3083_5	is_in_sentence	sentence_3083
+3083_5	punct	3083_4
+3083_5	has_surface_form	(
+3083_6	is_in_sentence	sentence_3083
+3083_6	acl	3083_4
+3083_6	has_surface_form	born
+3083_7	is_in_sentence	sentence_3083
+3083_7	npadvmod	3083_6
+3083_7	has_surface_form	May
+3083_8	is_in_sentence	sentence_3083
+3083_8	nummod	3083_7
+3083_8	has_surface_form	17
+3083_9	is_in_sentence	sentence_3083
+3083_9	punct	3083_7
+3083_9	has_surface_form	,
+3083_10	is_in_sentence	sentence_3083
+3083_10	nummod	3083_7
+3083_10	has_surface_form	1994
+3083_11	is_in_sentence	sentence_3083
+3083_11	punct	3083_4
+3083_11	has_surface_form	)
+3083_13	is_in_sentence	sentence_3083
+3083_13	det	3083_15
+3083_13	has_surface_form	a
+3083_15	is_in_sentence	sentence_3083
+3083_15	attr	3083_12
+3083_15	has_surface_form	singer
+3083_14	is_in_sentence	sentence_3083
+3083_14	compound	3083_15
+3083_14	is_entity	Filipina
+Filipina	surface_form	Filipina
+3083_16	is_in_sentence	sentence_3083
+3083_16	punct	3083_15
+3083_16	has_surface_form	,
+3083_17	is_in_sentence	sentence_3083
+3083_17	conj	3083_15
+3083_17	has_surface_form	actress
+3083_18	is_in_sentence	sentence_3083
+3083_18	punct	3083_17
+3083_18	has_surface_form	,
+3083_19	is_in_sentence	sentence_3083
+3083_19	conj	3083_17
+3083_19	has_surface_form	model
+3083_20	is_in_sentence	sentence_3083
+3083_20	punct	3083_19
+3083_20	has_surface_form	,
+3083_21	is_in_sentence	sentence_3083
+3083_21	conj	3083_19
+3083_21	has_surface_form	composer
+3083_22	is_in_sentence	sentence_3083
+3083_22	punct	3083_21
+3083_22	has_surface_form	,
+3083_23	is_in_sentence	sentence_3083
+3083_23	cc	3083_21
+3083_23	has_surface_form	and
+3083_24	is_in_sentence	sentence_3083
+3083_24	compound	3083_25
+3083_24	has_surface_form	television
+3083_25	is_in_sentence	sentence_3083
+3083_25	conj	3083_21
+3083_25	has_surface_form	personality
+3083_26	is_in_sentence	sentence_3083
+3083_26	punct	3083_12
+3083_26	has_surface_form	.
+3083_27	is_in_sentence	sentence_3083
+3083_27	dep	3083_27
+3083_27	has_surface_form	
+Julie Anne Peñaflorida San Jose	surface_form	Julie Anne Peñaflorida San Jose
+Julie Anne Peñaflorida San Jose	has-nationality	Filipina

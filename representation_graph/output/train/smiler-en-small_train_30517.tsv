@@ -1,0 +1,86 @@
+30516_0	is_in_sentence	sentence_30516
+30516_0	compound	30516_1
+30516_0	has_surface_form	Benny
+30516_0	part_of_entity	Benny Golson
+30516_1	is_in_sentence	sentence_30516
+30516_1	nsubj	30516_9
+30516_1	has_surface_form	Golson
+30516_1	part_of_entity	Benny Golson
+30516_9	is_in_sentence	sentence_30516
+30516_9	ROOT	30516_9
+30516_9	has_surface_form	is
+30516_2	is_in_sentence	sentence_30516
+30516_2	punct	30516_1
+30516_2	has_surface_form	(
+30516_3	is_in_sentence	sentence_30516
+30516_3	acl	30516_1
+30516_3	has_surface_form	born
+30516_4	is_in_sentence	sentence_30516
+30516_4	npadvmod	30516_3
+30516_4	has_surface_form	January
+30516_5	is_in_sentence	sentence_30516
+30516_5	nummod	30516_4
+30516_5	has_surface_form	25
+30516_6	is_in_sentence	sentence_30516
+30516_6	punct	30516_4
+30516_6	has_surface_form	,
+30516_7	is_in_sentence	sentence_30516
+30516_7	nummod	30516_4
+30516_7	has_surface_form	1929
+30516_8	is_in_sentence	sentence_30516
+30516_8	punct	30516_1
+30516_8	has_surface_form	)
+30516_10	is_in_sentence	sentence_30516
+30516_10	det	30516_17
+30516_10	has_surface_form	an
+30516_17	is_in_sentence	sentence_30516
+30516_17	attr	30516_9
+30516_17	has_surface_form	tenor
+30516_11	is_in_sentence	sentence_30516
+30516_11	amod	30516_17
+30516_11	has_surface_form	American
+30516_12	is_in_sentence	sentence_30516
+30516_12	nmod	30516_15
+30516_12	has_surface_form	bebop
+30516_15	is_in_sentence	sentence_30516
+30516_15	compound	30516_17
+30516_15	has_surface_form	bop
+30516_15	part_of_entity	hard bop jazz
+30516_13	is_in_sentence	sentence_30516
+30516_13	punct	30516_15
+30516_13	has_surface_form	/
+30516_14	is_in_sentence	sentence_30516
+30516_14	amod	30516_15
+30516_14	has_surface_form	hard
+30516_14	part_of_entity	hard bop jazz
+30516_16	is_in_sentence	sentence_30516
+30516_16	compound	30516_17
+30516_16	has_surface_form	jazz
+30516_16	part_of_entity	hard bop jazz
+30516_18	is_in_sentence	sentence_30516
+30516_18	appos	30516_17
+30516_18	has_surface_form	saxophonist
+30516_19	is_in_sentence	sentence_30516
+30516_19	punct	30516_18
+30516_19	has_surface_form	,
+30516_20	is_in_sentence	sentence_30516
+30516_20	appos	30516_18
+30516_20	has_surface_form	composer
+30516_21	is_in_sentence	sentence_30516
+30516_21	punct	30516_20
+30516_21	has_surface_form	,
+30516_22	is_in_sentence	sentence_30516
+30516_22	cc	30516_20
+30516_22	has_surface_form	and
+30516_23	is_in_sentence	sentence_30516
+30516_23	conj	30516_20
+30516_23	has_surface_form	arranger
+30516_24	is_in_sentence	sentence_30516
+30516_24	punct	30516_9
+30516_24	has_surface_form	.
+30516_25	is_in_sentence	sentence_30516
+30516_25	dep	30516_25
+30516_25	has_surface_form	
+Benny Golson	surface_form	Benny Golson
+Benny Golson	has-genre	hard bop jazz
+hard bop jazz	surface_form	hard bop jazz

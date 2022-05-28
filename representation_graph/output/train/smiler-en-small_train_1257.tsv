@@ -1,0 +1,94 @@
+1256_0	is_in_sentence	sentence_1256
+1256_0	compound	1256_1
+1256_0	has_surface_form	Cecilia
+1256_0	part_of_entity	Cecilia Häll
+1256_1	is_in_sentence	sentence_1256
+1256_1	nsubj	1256_8
+1256_1	has_surface_form	Häll
+1256_1	part_of_entity	Cecilia Häll
+1256_8	is_in_sentence	sentence_1256
+1256_8	ROOT	1256_8
+1256_8	has_surface_form	is
+1256_2	is_in_sentence	sentence_1256
+1256_2	punct	1256_1
+1256_2	has_surface_form	(
+1256_3	is_in_sentence	sentence_1256
+1256_3	acl	1256_1
+1256_3	has_surface_form	born
+1256_4	is_in_sentence	sentence_1256
+1256_4	nummod	1256_5
+1256_4	has_surface_form	10
+1256_5	is_in_sentence	sentence_1256
+1256_5	npadvmod	1256_3
+1256_5	has_surface_form	June
+1256_6	is_in_sentence	sentence_1256
+1256_6	nummod	1256_5
+1256_6	has_surface_form	1978
+1256_7	is_in_sentence	sentence_1256
+1256_7	punct	1256_1
+1256_7	has_surface_form	)
+1256_9	is_in_sentence	sentence_1256
+1256_9	det	1256_11
+1256_9	has_surface_form	a
+1256_11	is_in_sentence	sentence_1256
+1256_11	attr	1256_8
+1256_11	has_surface_form	actress
+1256_10	is_in_sentence	sentence_1256
+1256_10	amod	1256_11
+1256_10	has_surface_form	Swedish
+1256_12	is_in_sentence	sentence_1256
+1256_12	punct	1256_8
+1256_12	has_surface_form	.
+1256_13	is_in_sentence	sentence_1256
+1256_13	nsubj	1256_14
+1256_13	has_surface_form	She
+1256_14	is_in_sentence	sentence_1256
+1256_14	ROOT	1256_14
+1256_14	has_surface_form	was
+1256_15	is_in_sentence	sentence_1256
+1256_15	acomp	1256_14
+1256_15	has_surface_form	married
+1256_16	is_in_sentence	sentence_1256
+1256_16	prep	1256_15
+1256_16	has_surface_form	to
+1256_17	is_in_sentence	sentence_1256
+1256_17	det	1256_18
+1256_17	has_surface_form	the
+1256_18	is_in_sentence	sentence_1256
+1256_18	pobj	1256_16
+1256_18	has_surface_form	actor
+1256_19	is_in_sentence	sentence_1256
+1256_19	compound	1256_20
+1256_19	has_surface_form	Joakim
+1256_19	part_of_entity	Joakim Nätterqvist
+1256_20	is_in_sentence	sentence_1256
+1256_20	appos	1256_18
+1256_20	has_surface_form	Nätterqvist
+1256_20	part_of_entity	Joakim Nätterqvist
+1256_21	is_in_sentence	sentence_1256
+1256_21	cc	1256_15
+1256_21	has_surface_form	and
+1256_22	is_in_sentence	sentence_1256
+1256_22	advmod	1256_24
+1256_22	has_surface_form	together
+1256_24	is_in_sentence	sentence_1256
+1256_24	conj	1256_14
+1256_24	has_surface_form	have
+1256_23	is_in_sentence	sentence_1256
+1256_23	nsubj	1256_24
+1256_23	has_surface_form	they
+1256_25	is_in_sentence	sentence_1256
+1256_25	det	1256_26
+1256_25	has_surface_form	a
+1256_26	is_in_sentence	sentence_1256
+1256_26	dobj	1256_24
+1256_26	has_surface_form	child
+1256_27	is_in_sentence	sentence_1256
+1256_27	punct	1256_24
+1256_27	has_surface_form	.
+1256_28	is_in_sentence	sentence_1256
+1256_28	dep	1256_28
+1256_28	has_surface_form	
+Cecilia Häll	surface_form	Cecilia Häll
+Cecilia Häll	has-spouse	Joakim Nätterqvist
+Joakim Nätterqvist	surface_form	Joakim Nätterqvist

@@ -1,0 +1,59 @@
+31032_0	is_in_sentence	sentence_31032
+31032_0	compound	31032_1
+31032_0	has_surface_form	Carlo
+31032_0	part_of_entity	Carlo Bonomi
+31032_1	is_in_sentence	sentence_31032
+31032_1	nsubj	31032_9
+31032_1	has_surface_form	Bonomi
+31032_1	part_of_entity	Carlo Bonomi
+31032_9	is_in_sentence	sentence_31032
+31032_9	ROOT	31032_9
+31032_9	has_surface_form	is
+31032_2	is_in_sentence	sentence_31032
+31032_2	punct	31032_1
+31032_2	has_surface_form	(
+31032_3	is_in_sentence	sentence_31032
+31032_3	acl	31032_1
+31032_3	has_surface_form	born
+31032_4	is_in_sentence	sentence_31032
+31032_4	npadvmod	31032_3
+31032_4	has_surface_form	March
+31032_5	is_in_sentence	sentence_31032
+31032_5	nummod	31032_4
+31032_5	has_surface_form	12
+31032_6	is_in_sentence	sentence_31032
+31032_6	punct	31032_4
+31032_6	has_surface_form	,
+31032_7	is_in_sentence	sentence_31032
+31032_7	nummod	31032_4
+31032_7	has_surface_form	1937
+31032_8	is_in_sentence	sentence_31032
+31032_8	punct	31032_1
+31032_8	has_surface_form	)
+31032_10	is_in_sentence	sentence_31032
+31032_10	det	31032_15
+31032_10	has_surface_form	an
+31032_15	is_in_sentence	sentence_31032
+31032_15	attr	31032_9
+31032_15	is_entity	actor
+31032_11	is_in_sentence	sentence_31032
+31032_11	amod	31032_15
+31032_11	has_surface_form	Italian
+31032_12	is_in_sentence	sentence_31032
+31032_12	nmod	31032_15
+31032_12	is_entity	actor
+actor	surface_form	actor
+31032_13	is_in_sentence	sentence_31032
+31032_13	cc	31032_12
+31032_13	has_surface_form	and
+31032_14	is_in_sentence	sentence_31032
+31032_14	conj	31032_12
+31032_14	has_surface_form	voice
+31032_16	is_in_sentence	sentence_31032
+31032_16	punct	31032_9
+31032_16	has_surface_form	.
+31032_17	is_in_sentence	sentence_31032
+31032_17	dep	31032_9
+31032_17	has_surface_form	
+Carlo Bonomi	surface_form	Carlo Bonomi
+Carlo Bonomi	has-occupation	actor

@@ -1,0 +1,74 @@
+18900_0	is_in_sentence	sentence_18900
+18900_0	det	18900_1
+18900_0	has_surface_form	The
+18900_1	is_in_sentence	sentence_18900
+18900_1	nsubjpass	18900_3
+18900_1	has_surface_form	town
+18900_3	is_in_sentence	sentence_18900
+18900_3	ROOT	18900_3
+18900_3	has_surface_form	named
+18900_2	is_in_sentence	sentence_18900
+18900_2	auxpass	18900_3
+18900_2	has_surface_form	is
+18900_4	is_in_sentence	sentence_18900
+18900_4	prep	18900_3
+18900_4	has_surface_form	after
+18900_5	is_in_sentence	sentence_18900
+18900_5	amod	18900_9
+18900_5	has_surface_form	local
+18900_9	is_in_sentence	sentence_18900
+18900_9	pobj	18900_4
+18900_9	has_surface_form	Tuttle
+18900_9	part_of_entity	James H. Tuttle
+18900_6	is_in_sentence	sentence_18900
+18900_6	amod	18900_9
+18900_6	has_surface_form	rancher
+18900_7	is_in_sentence	sentence_18900
+18900_7	compound	18900_9
+18900_7	has_surface_form	James
+18900_7	part_of_entity	James H. Tuttle
+18900_8	is_in_sentence	sentence_18900
+18900_8	compound	18900_9
+18900_8	has_surface_form	H.
+18900_8	part_of_entity	James H. Tuttle
+18900_10	is_in_sentence	sentence_18900
+18900_10	punct	18900_9
+18900_10	has_surface_form	,
+18900_11	is_in_sentence	sentence_18900
+18900_11	det	18900_12
+18900_11	has_surface_form	the
+18900_12	is_in_sentence	sentence_18900
+18900_12	appos	18900_9
+18900_12	has_surface_form	father
+18900_13	is_in_sentence	sentence_18900
+18900_13	prep	18900_12
+18900_13	has_surface_form	of
+18900_14	is_in_sentence	sentence_18900
+18900_14	compound	18900_15
+18900_14	has_surface_form	automobile
+18900_15	is_in_sentence	sentence_18900
+18900_15	pobj	18900_13
+18900_15	has_surface_form	dealer
+18900_16	is_in_sentence	sentence_18900
+18900_16	cc	18900_15
+18900_16	has_surface_form	and
+18900_17	is_in_sentence	sentence_18900
+18900_17	conj	18900_15
+18900_17	has_surface_form	politico
+18900_18	is_in_sentence	sentence_18900
+18900_18	compound	18900_19
+18900_18	has_surface_form	Holmes
+18900_18	part_of_entity	Holmes Tuttle
+18900_19	is_in_sentence	sentence_18900
+18900_19	appos	18900_12
+18900_19	has_surface_form	Tuttle
+18900_19	part_of_entity	Holmes Tuttle
+18900_20	is_in_sentence	sentence_18900
+18900_20	punct	18900_3
+18900_20	has_surface_form	.
+18900_21	is_in_sentence	sentence_18900
+18900_21	dep	18900_3
+18900_21	has_surface_form	
+James H. Tuttle	surface_form	James H. Tuttle
+James H. Tuttle	has-child	Holmes Tuttle
+Holmes Tuttle	surface_form	Holmes Tuttle

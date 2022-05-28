@@ -1,0 +1,95 @@
+31110_0	is_in_sentence	sentence_31110
+31110_0	det	31110_2
+31110_0	has_surface_form	The
+31110_0	part_of_entity	The Final Lesson
+31110_2	is_in_sentence	sentence_31110
+31110_2	nsubj	31110_10
+31110_2	has_surface_form	Lesson
+31110_2	part_of_entity	The Final Lesson
+31110_1	is_in_sentence	sentence_31110
+31110_1	compound	31110_2
+31110_1	has_surface_form	Final
+31110_1	part_of_entity	The Final Lesson
+31110_10	is_in_sentence	sentence_31110
+31110_10	ROOT	31110_10
+31110_10	has_surface_form	is
+31110_3	is_in_sentence	sentence_31110
+31110_3	punct	31110_4
+31110_3	has_surface_form	(
+31110_4	is_in_sentence	sentence_31110
+31110_4	appos	31110_2
+31110_4	has_surface_form	French
+31110_5	is_in_sentence	sentence_31110
+31110_5	punct	31110_4
+31110_5	has_surface_form	:
+31110_6	is_in_sentence	sentence_31110
+31110_6	compound	31110_7
+31110_6	has_surface_form	La
+31110_7	is_in_sentence	sentence_31110
+31110_7	compound	31110_8
+31110_7	has_surface_form	Dernière
+31110_8	is_in_sentence	sentence_31110
+31110_8	appos	31110_4
+31110_8	has_surface_form	Leçon
+31110_9	is_in_sentence	sentence_31110
+31110_9	punct	31110_4
+31110_9	has_surface_form	)
+31110_11	is_in_sentence	sentence_31110
+31110_11	det	31110_15
+31110_11	has_surface_form	a
+31110_15	is_in_sentence	sentence_31110
+31110_15	attr	31110_10
+31110_15	has_surface_form	film
+31110_12	is_in_sentence	sentence_31110
+31110_12	nummod	31110_15
+31110_12	has_surface_form	2015
+31110_13	is_in_sentence	sentence_31110
+31110_13	amod	31110_15
+31110_13	has_surface_form	French
+31110_14	is_in_sentence	sentence_31110
+31110_14	compound	31110_15
+31110_14	has_surface_form	drama
+31110_16	is_in_sentence	sentence_31110
+31110_16	acl	31110_15
+31110_16	has_surface_form	directed
+31110_17	is_in_sentence	sentence_31110
+31110_17	agent	31110_16
+31110_17	has_surface_form	by
+31110_18	is_in_sentence	sentence_31110
+31110_18	compound	31110_19
+31110_18	has_surface_form	Pascale
+31110_18	part_of_entity	Pascale Pouzadoux
+31110_19	is_in_sentence	sentence_31110
+31110_19	pobj	31110_17
+31110_19	has_surface_form	Pouzadoux
+31110_19	part_of_entity	Pascale Pouzadoux
+31110_20	is_in_sentence	sentence_31110
+31110_20	cc	31110_16
+31110_20	has_surface_form	and
+31110_21	is_in_sentence	sentence_31110
+31110_21	conj	31110_16
+31110_21	has_surface_form	starring
+31110_22	is_in_sentence	sentence_31110
+31110_22	compound	31110_23
+31110_22	has_surface_form	Sandrine
+31110_23	is_in_sentence	sentence_31110
+31110_23	dobj	31110_21
+31110_23	has_surface_form	Bonnaire
+31110_24	is_in_sentence	sentence_31110
+31110_24	cc	31110_23
+31110_24	has_surface_form	and
+31110_25	is_in_sentence	sentence_31110
+31110_25	compound	31110_26
+31110_25	has_surface_form	Marthe
+31110_26	is_in_sentence	sentence_31110
+31110_26	conj	31110_23
+31110_26	has_surface_form	Villalonga
+31110_27	is_in_sentence	sentence_31110
+31110_27	punct	31110_10
+31110_27	has_surface_form	.
+31110_28	is_in_sentence	sentence_31110
+31110_28	dep	31110_10
+31110_28	has_surface_form	
+The Final Lesson	surface_form	The Final Lesson
+The Final Lesson	movie-has-director	Pascale Pouzadoux
+Pascale Pouzadoux	surface_form	Pascale Pouzadoux

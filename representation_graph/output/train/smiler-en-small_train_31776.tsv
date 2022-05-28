@@ -1,0 +1,79 @@
+31775_0	is_in_sentence	sentence_31775
+31775_0	compound	31775_1
+31775_0	has_surface_form	Dana
+31775_0	part_of_entity	Dana Cameron
+31775_1	is_in_sentence	sentence_31775
+31775_1	nsubj	31775_6
+31775_1	has_surface_form	Cameron
+31775_1	part_of_entity	Dana Cameron
+31775_6	is_in_sentence	sentence_31775
+31775_6	ROOT	31775_6
+31775_6	has_surface_form	is
+31775_2	is_in_sentence	sentence_31775
+31775_2	punct	31775_1
+31775_2	has_surface_form	(
+31775_3	is_in_sentence	sentence_31775
+31775_3	acl	31775_1
+31775_3	has_surface_form	born
+31775_4	is_in_sentence	sentence_31775
+31775_4	npadvmod	31775_3
+31775_4	has_surface_form	1965
+31775_5	is_in_sentence	sentence_31775
+31775_5	punct	31775_1
+31775_5	has_surface_form	)
+31775_7	is_in_sentence	sentence_31775
+31775_7	det	31775_9
+31775_7	has_surface_form	an
+31775_9	is_in_sentence	sentence_31775
+31775_9	attr	31775_6
+31775_9	has_surface_form	archaeologist
+31775_8	is_in_sentence	sentence_31775
+31775_8	amod	31775_9
+31775_8	has_surface_form	American
+31775_10	is_in_sentence	sentence_31775
+31775_10	punct	31775_6
+31775_10	has_surface_form	,
+31775_11	is_in_sentence	sentence_31775
+31775_11	cc	31775_6
+31775_11	has_surface_form	and
+31775_12	is_in_sentence	sentence_31775
+31775_12	conj	31775_6
+31775_12	has_surface_form	author
+31775_13	is_in_sentence	sentence_31775
+31775_13	prep	31775_12
+31775_13	has_surface_form	of
+31775_14	is_in_sentence	sentence_31775
+31775_14	npadvmod	31775_16
+31775_14	has_surface_form	award
+31775_16	is_in_sentence	sentence_31775
+31775_16	amod	31775_18
+31775_16	has_surface_form	winning
+31775_15	is_in_sentence	sentence_31775
+31775_15	punct	31775_16
+31775_15	has_surface_form	-
+31775_18	is_in_sentence	sentence_31775
+31775_18	pobj	31775_13
+31775_18	has_surface_form	fiction
+31775_17	is_in_sentence	sentence_31775
+31775_17	compound	31775_18
+31775_17	has_surface_form	crime
+31775_19	is_in_sentence	sentence_31775
+31775_19	cc	31775_18
+31775_19	has_surface_form	and
+31775_20	is_in_sentence	sentence_31775
+31775_20	amod	31775_21
+31775_20	has_surface_form	urban
+31775_20	part_of_entity	urban fantasy
+31775_21	is_in_sentence	sentence_31775
+31775_21	conj	31775_18
+31775_21	has_surface_form	fantasy
+31775_21	part_of_entity	urban fantasy
+31775_22	is_in_sentence	sentence_31775
+31775_22	punct	31775_6
+31775_22	has_surface_form	.
+31775_23	is_in_sentence	sentence_31775
+31775_23	dep	31775_23
+31775_23	has_surface_form	
+Dana Cameron	surface_form	Dana Cameron
+Dana Cameron	has-genre	urban fantasy
+urban fantasy	surface_form	urban fantasy

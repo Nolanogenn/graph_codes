@@ -1,0 +1,53 @@
+6298_0	is_in_sentence	sentence_6298
+6298_0	det	6298_2
+6298_0	has_surface_form	The
+6298_2	is_in_sentence	sentence_6298
+6298_2	nsubjpass	6298_4
+6298_2	has_surface_form	scooter
+6298_2	part_of_entity	Aqua scooter
+6298_1	is_in_sentence	sentence_6298
+6298_1	compound	6298_2
+6298_1	has_surface_form	Aqua
+6298_1	part_of_entity	Aqua scooter
+6298_4	is_in_sentence	sentence_6298
+6298_4	ROOT	6298_4
+6298_4	has_surface_form	invented
+6298_3	is_in_sentence	sentence_6298
+6298_3	auxpass	6298_4
+6298_3	has_surface_form	was
+6298_5	is_in_sentence	sentence_6298
+6298_5	prep	6298_4
+6298_5	has_surface_form	in
+6298_6	is_in_sentence	sentence_6298
+6298_6	pobj	6298_5
+6298_6	is_entity	1967
+1967	surface_form	1967
+6298_7	is_in_sentence	sentence_6298
+6298_7	agent	6298_4
+6298_7	has_surface_form	by
+6298_8	is_in_sentence	sentence_6298
+6298_8	amod	6298_9
+6298_8	has_surface_form	East
+6298_9	is_in_sentence	sentence_6298
+6298_9	amod	6298_11
+6298_9	has_surface_form	German
+6298_11	is_in_sentence	sentence_6298
+6298_11	compound	6298_13
+6298_11	has_surface_form	engineer
+6298_10	is_in_sentence	sentence_6298
+6298_10	compound	6298_11
+6298_10	has_surface_form	chemical
+6298_13	is_in_sentence	sentence_6298
+6298_13	pobj	6298_7
+6298_13	has_surface_form	Böttger
+6298_12	is_in_sentence	sentence_6298
+6298_12	compound	6298_13
+6298_12	has_surface_form	Bernd
+6298_14	is_in_sentence	sentence_6298
+6298_14	punct	6298_4
+6298_14	has_surface_form	.
+6298_15	is_in_sentence	sentence_6298
+6298_15	dep	6298_15
+6298_15	has_surface_form	
+Aqua scooter	surface_form	Aqua scooter
+Aqua scooter	invented-when	1967

@@ -1,0 +1,64 @@
+1126_0	is_in_sentence	sentence_1126
+1126_0	compound	1126_1
+1126_0	has_surface_form	Michael
+1126_0	part_of_entity	Michael Schottenberg
+1126_1	is_in_sentence	sentence_1126
+1126_1	nsubj	1126_8
+1126_1	has_surface_form	Schottenberg
+1126_1	part_of_entity	Michael Schottenberg
+1126_8	is_in_sentence	sentence_1126
+1126_8	ROOT	1126_8
+1126_8	has_surface_form	is
+1126_2	is_in_sentence	sentence_1126
+1126_2	punct	1126_3
+1126_2	has_surface_form	(
+1126_3	is_in_sentence	sentence_1126
+1126_3	parataxis	1126_1
+1126_3	has_surface_form	born
+1126_4	is_in_sentence	sentence_1126
+1126_4	nummod	1126_5
+1126_4	has_surface_form	10
+1126_5	is_in_sentence	sentence_1126
+1126_5	npadvmod	1126_3
+1126_5	has_surface_form	July
+1126_6	is_in_sentence	sentence_1126
+1126_6	nummod	1126_5
+1126_6	has_surface_form	1952
+1126_7	is_in_sentence	sentence_1126
+1126_7	punct	1126_3
+1126_7	has_surface_form	)
+1126_9	is_in_sentence	sentence_1126
+1126_9	det	1126_11
+1126_9	has_surface_form	an
+1126_11	is_in_sentence	sentence_1126
+1126_11	attr	1126_8
+1126_11	has_surface_form	actor
+1126_10	is_in_sentence	sentence_1126
+1126_10	amod	1126_11
+1126_10	has_surface_form	Austrian
+1126_12	is_in_sentence	sentence_1126
+1126_12	punct	1126_11
+1126_12	has_surface_form	,
+1126_13	is_in_sentence	sentence_1126
+1126_13	compound	1126_14
+1126_13	has_surface_form	film
+1126_13	part_of_entity	film director
+1126_14	is_in_sentence	sentence_1126
+1126_14	appos	1126_11
+1126_14	has_surface_form	director
+1126_14	part_of_entity	film director
+1126_15	is_in_sentence	sentence_1126
+1126_15	cc	1126_14
+1126_15	has_surface_form	and
+1126_16	is_in_sentence	sentence_1126
+1126_16	conj	1126_14
+1126_16	has_surface_form	screenwriter
+1126_17	is_in_sentence	sentence_1126
+1126_17	punct	1126_8
+1126_17	has_surface_form	.
+1126_18	is_in_sentence	sentence_1126
+1126_18	dep	1126_18
+1126_18	has_surface_form	
+Michael Schottenberg	surface_form	Michael Schottenberg
+Michael Schottenberg	has-occupation	film director
+film director	surface_form	film director

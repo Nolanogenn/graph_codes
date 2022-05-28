@@ -1,0 +1,65 @@
+27557_0	is_in_sentence	sentence_27557
+27557_0	compound	27557_1
+27557_0	has_surface_form	Sarah
+27557_0	part_of_entity	Sarah Winman
+27557_1	is_in_sentence	sentence_27557
+27557_1	nsubj	27557_12
+27557_1	has_surface_form	Winman
+27557_1	part_of_entity	Sarah Winman
+27557_12	is_in_sentence	sentence_27557
+27557_12	ROOT	27557_12
+27557_12	has_surface_form	is
+27557_2	is_in_sentence	sentence_27557
+27557_2	punct	27557_1
+27557_2	has_surface_form	(
+27557_3	is_in_sentence	sentence_27557
+27557_3	acl	27557_1
+27557_3	has_surface_form	born
+27557_4	is_in_sentence	sentence_27557
+27557_4	nummod	27557_5
+27557_4	has_surface_form	24
+27557_5	is_in_sentence	sentence_27557
+27557_5	npadvmod	27557_3
+27557_5	has_surface_form	December
+27557_6	is_in_sentence	sentence_27557
+27557_6	nummod	27557_5
+27557_6	has_surface_form	1964
+27557_7	is_in_sentence	sentence_27557
+27557_7	prep	27557_3
+27557_7	has_surface_form	in
+27557_8	is_in_sentence	sentence_27557
+27557_8	pobj	27557_7
+27557_8	is_entity	Ilford
+Ilford	surface_form	Ilford
+27557_9	is_in_sentence	sentence_27557
+27557_9	punct	27557_8
+27557_9	has_surface_form	,
+27557_10	is_in_sentence	sentence_27557
+27557_10	appos	27557_8
+27557_10	has_surface_form	Essex
+27557_11	is_in_sentence	sentence_27557
+27557_11	punct	27557_8
+27557_11	has_surface_form	)
+27557_13	is_in_sentence	sentence_27557
+27557_13	det	27557_15
+27557_13	has_surface_form	a
+27557_15	is_in_sentence	sentence_27557
+27557_15	attr	27557_12
+27557_15	has_surface_form	author
+27557_14	is_in_sentence	sentence_27557
+27557_14	amod	27557_15
+27557_14	has_surface_form	British
+27557_16	is_in_sentence	sentence_27557
+27557_16	cc	27557_15
+27557_16	has_surface_form	and
+27557_17	is_in_sentence	sentence_27557
+27557_17	conj	27557_15
+27557_17	has_surface_form	actress
+27557_18	is_in_sentence	sentence_27557
+27557_18	punct	27557_12
+27557_18	has_surface_form	.
+27557_19	is_in_sentence	sentence_27557
+27557_19	dep	27557_19
+27557_19	has_surface_form	
+Sarah Winman	surface_form	Sarah Winman
+Sarah Winman	birth-place	Ilford

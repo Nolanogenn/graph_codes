@@ -1,0 +1,43 @@
+24422_0	is_in_sentence	sentence_24422
+24422_0	compound	24422_1
+24422_0	has_surface_form	Chernobyl
+24422_0	part_of_entity	Chernobyl Heart
+24422_1	is_in_sentence	sentence_24422
+24422_1	nsubj	24422_2
+24422_1	has_surface_form	Heart
+24422_1	part_of_entity	Chernobyl Heart
+24422_2	is_in_sentence	sentence_24422
+24422_2	ROOT	24422_2
+24422_2	has_surface_form	is
+24422_3	is_in_sentence	sentence_24422
+24422_3	det	24422_6
+24422_3	has_surface_form	a
+24422_6	is_in_sentence	sentence_24422
+24422_6	attr	24422_2
+24422_6	has_surface_form	film
+24422_4	is_in_sentence	sentence_24422
+24422_4	nummod	24422_6
+24422_4	has_surface_form	2003
+24422_5	is_in_sentence	sentence_24422
+24422_5	compound	24422_6
+24422_5	has_surface_form	documentary
+24422_7	is_in_sentence	sentence_24422
+24422_7	prep	24422_6
+24422_7	has_surface_form	by
+24422_8	is_in_sentence	sentence_24422
+24422_8	compound	24422_9
+24422_8	has_surface_form	Maryann
+24422_8	part_of_entity	Maryann DeLeo
+24422_9	is_in_sentence	sentence_24422
+24422_9	pobj	24422_7
+24422_9	has_surface_form	DeLeo
+24422_9	part_of_entity	Maryann DeLeo
+24422_10	is_in_sentence	sentence_24422
+24422_10	punct	24422_2
+24422_10	has_surface_form	.
+24422_11	is_in_sentence	sentence_24422
+24422_11	dep	24422_2
+24422_11	has_surface_form	
+Chernobyl Heart	surface_form	Chernobyl Heart
+Chernobyl Heart	movie-has-director	Maryann DeLeo
+Maryann DeLeo	surface_form	Maryann DeLeo

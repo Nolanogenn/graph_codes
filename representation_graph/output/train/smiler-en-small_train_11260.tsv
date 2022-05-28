@@ -1,0 +1,79 @@
+11259_0	is_in_sentence	sentence_11259
+11259_0	compound	11259_1
+11259_0	has_surface_form	Rajapart
+11259_0	part_of_entity	Rajapart Rangadurai
+11259_1	is_in_sentence	sentence_11259
+11259_1	nsubj	11259_11
+11259_1	has_surface_form	Rangadurai
+11259_1	part_of_entity	Rajapart Rangadurai
+11259_11	is_in_sentence	sentence_11259
+11259_11	ROOT	11259_11
+11259_11	has_surface_form	is
+11259_2	is_in_sentence	sentence_11259
+11259_2	punct	11259_3
+11259_2	has_surface_form	(
+11259_3	is_in_sentence	sentence_11259
+11259_3	appos	11259_1
+11259_3	has_surface_form	English
+11259_4	is_in_sentence	sentence_11259
+11259_4	punct	11259_3
+11259_4	has_surface_form	:
+11259_5	is_in_sentence	sentence_11259
+11259_5	appos	11259_3
+11259_5	has_surface_form	Rangadurai
+11259_6	is_in_sentence	sentence_11259
+11259_6	prep	11259_5
+11259_6	has_surface_form	in
+11259_7	is_in_sentence	sentence_11259
+11259_7	poss	11259_9
+11259_7	has_surface_form	King
+11259_9	is_in_sentence	sentence_11259
+11259_9	pobj	11259_6
+11259_9	has_surface_form	Attire
+11259_8	is_in_sentence	sentence_11259
+11259_8	case	11259_7
+11259_8	has_surface_form	's
+11259_10	is_in_sentence	sentence_11259
+11259_10	punct	11259_3
+11259_10	has_surface_form	)
+11259_12	is_in_sentence	sentence_11259
+11259_12	det	11259_16
+11259_12	has_surface_form	a
+11259_16	is_in_sentence	sentence_11259
+11259_16	attr	11259_11
+11259_16	has_surface_form	Film
+11259_13	is_in_sentence	sentence_11259
+11259_13	nummod	11259_16
+11259_13	has_surface_form	1973
+11259_14	is_in_sentence	sentence_11259
+11259_14	compound	11259_16
+11259_14	has_surface_form	Tamil
+11259_15	is_in_sentence	sentence_11259
+11259_15	compound	11259_16
+11259_15	has_surface_form	Drama
+11259_17	is_in_sentence	sentence_11259
+11259_17	punct	11259_16
+11259_17	has_surface_form	,
+11259_18	is_in_sentence	sentence_11259
+11259_18	acl	11259_16
+11259_18	has_surface_form	directed
+11259_19	is_in_sentence	sentence_11259
+11259_19	agent	11259_18
+11259_19	has_surface_form	by
+11259_20	is_in_sentence	sentence_11259
+11259_20	compound	11259_21
+11259_20	has_surface_form	P.
+11259_20	part_of_entity	P. Madhavan
+11259_21	is_in_sentence	sentence_11259
+11259_21	pobj	11259_19
+11259_21	has_surface_form	Madhavan
+11259_21	part_of_entity	P. Madhavan
+11259_22	is_in_sentence	sentence_11259
+11259_22	punct	11259_11
+11259_22	has_surface_form	.
+11259_23	is_in_sentence	sentence_11259
+11259_23	dep	11259_11
+11259_23	has_surface_form	
+Rajapart Rangadurai	surface_form	Rajapart Rangadurai
+Rajapart Rangadurai	movie-has-director	P. Madhavan
+P. Madhavan	surface_form	P. Madhavan

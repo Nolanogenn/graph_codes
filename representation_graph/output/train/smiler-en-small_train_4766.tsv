@@ -1,0 +1,73 @@
+4765_0	is_in_sentence	sentence_4765
+4765_0	det	4765_1
+4765_0	has_surface_form	The
+4765_1	is_in_sentence	sentence_4765
+4765_1	nsubj	4765_2
+4765_1	has_surface_form	territory
+4765_2	is_in_sentence	sentence_4765
+4765_2	ROOT	4765_2
+4765_2	has_surface_form	is
+4765_3	is_in_sentence	sentence_4765
+4765_3	advmod	4765_6
+4765_3	has_surface_form	largely
+4765_6	is_in_sentence	sentence_4765
+4765_6	acomp	4765_2
+4765_6	has_surface_form	lying
+4765_4	is_in_sentence	sentence_4765
+4765_4	advmod	4765_6
+4765_4	has_surface_form	low
+4765_5	is_in_sentence	sentence_4765
+4765_5	punct	4765_6
+4765_5	has_surface_form	-
+4765_7	is_in_sentence	sentence_4765
+4765_7	punct	4765_2
+4765_7	has_surface_form	,
+4765_8	is_in_sentence	sentence_4765
+4765_8	prep	4765_2
+4765_8	has_surface_form	with
+4765_9	is_in_sentence	sentence_4765
+4765_9	det	4765_11
+4765_9	has_surface_form	the
+4765_11	is_in_sentence	sentence_4765
+4765_11	nsubj	4765_12
+4765_11	has_surface_form	peak
+4765_10	is_in_sentence	sentence_4765
+4765_10	amod	4765_11
+4765_10	has_surface_form	tallest
+4765_12	is_in_sentence	sentence_4765
+4765_12	pcomp	4765_8
+4765_12	has_surface_form	being
+4765_13	is_in_sentence	sentence_4765
+4765_13	compound	4765_14
+4765_13	has_surface_form	Town
+4765_13	part_of_entity	Town Hill
+4765_14	is_in_sentence	sentence_4765
+4765_14	attr	4765_12
+4765_14	has_surface_form	Hill
+4765_14	part_of_entity	Town Hill
+4765_15	is_in_sentence	sentence_4765
+4765_15	prep	4765_14
+4765_15	has_surface_form	on
+4765_16	is_in_sentence	sentence_4765
+4765_16	compound	4765_17
+4765_16	has_surface_form	Main
+4765_16	part_of_entity	Main Island
+4765_17	is_in_sentence	sentence_4765
+4765_17	pobj	4765_15
+4765_17	has_surface_form	Island
+4765_17	part_of_entity	Main Island
+4765_18	is_in_sentence	sentence_4765
+4765_18	prep	4765_12
+4765_18	has_surface_form	at
+4765_19	is_in_sentence	sentence_4765
+4765_19	nummod	4765_21
+4765_19	has_surface_form	79
+4765_21	is_in_sentence	sentence_4765
+4765_21	dep	4765_18
+4765_21	has_surface_form	
+4765_20	is_in_sentence	sentence_4765
+4765_20	compound	4765_21
+4765_20	has_surface_form	m.
+Main Island	surface_form	Main Island
+Main Island	has-highest-mountain	Town Hill
+Town Hill	surface_form	Town Hill

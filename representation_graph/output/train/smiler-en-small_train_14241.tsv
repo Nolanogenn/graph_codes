@@ -1,0 +1,115 @@
+14240_0	is_in_sentence	sentence_14240
+14240_0	nsubj	14240_13
+14240_0	has_surface_form	All
+14240_0	part_of_entity	All Because of the Dog
+14240_13	is_in_sentence	sentence_14240
+14240_13	ROOT	14240_13
+14240_13	has_surface_form	is
+14240_1	is_in_sentence	sentence_14240
+14240_1	prep	14240_0
+14240_1	has_surface_form	Because
+14240_1	part_of_entity	All Because of the Dog
+14240_2	is_in_sentence	sentence_14240
+14240_2	pcomp	14240_1
+14240_2	has_surface_form	of
+14240_2	part_of_entity	All Because of the Dog
+14240_3	is_in_sentence	sentence_14240
+14240_3	det	14240_4
+14240_3	has_surface_form	the
+14240_3	part_of_entity	All Because of the Dog
+14240_4	is_in_sentence	sentence_14240
+14240_4	pobj	14240_1
+14240_4	has_surface_form	Dog
+14240_4	part_of_entity	All Because of the Dog
+14240_5	is_in_sentence	sentence_14240
+14240_5	punct	14240_8
+14240_5	has_surface_form	(
+14240_8	is_in_sentence	sentence_14240
+14240_8	appos	14240_0
+14240_8	has_surface_form	Alles
+14240_6	is_in_sentence	sentence_14240
+14240_6	amod	14240_8
+14240_6	has_surface_form	German
+14240_7	is_in_sentence	sentence_14240
+14240_7	punct	14240_8
+14240_7	has_surface_form	:
+14240_9	is_in_sentence	sentence_14240
+14240_9	compound	14240_11
+14240_9	has_surface_form	weg'n
+14240_11	is_in_sentence	sentence_14240
+14240_11	dobj	14240_8
+14240_11	has_surface_form	Hund
+14240_10	is_in_sentence	sentence_14240
+14240_10	compound	14240_11
+14240_10	has_surface_form	dem
+14240_12	is_in_sentence	sentence_14240
+14240_12	punct	14240_8
+14240_12	has_surface_form	)
+14240_14	is_in_sentence	sentence_14240
+14240_14	det	14240_18
+14240_14	has_surface_form	a
+14240_18	is_in_sentence	sentence_14240
+14240_18	attr	14240_13
+14240_18	has_surface_form	film
+14240_15	is_in_sentence	sentence_14240
+14240_15	nummod	14240_18
+14240_15	has_surface_form	1935
+14240_16	is_in_sentence	sentence_14240
+14240_16	amod	14240_18
+14240_16	has_surface_form	German
+14240_17	is_in_sentence	sentence_14240
+14240_17	compound	14240_18
+14240_17	has_surface_form	comedy
+14240_19	is_in_sentence	sentence_14240
+14240_19	acl	14240_18
+14240_19	has_surface_form	directed
+14240_20	is_in_sentence	sentence_14240
+14240_20	agent	14240_19
+14240_20	has_surface_form	by
+14240_21	is_in_sentence	sentence_14240
+14240_21	compound	14240_22
+14240_21	has_surface_form	Fred
+14240_22	is_in_sentence	sentence_14240
+14240_22	pobj	14240_20
+14240_22	has_surface_form	Sauer
+14240_23	is_in_sentence	sentence_14240
+14240_23	cc	14240_19
+14240_23	has_surface_form	and
+14240_24	is_in_sentence	sentence_14240
+14240_24	conj	14240_19
+14240_24	has_surface_form	starring
+14240_25	is_in_sentence	sentence_14240
+14240_25	compound	14240_26
+14240_25	has_surface_form	Weiß
+14240_26	is_in_sentence	sentence_14240
+14240_26	dobj	14240_24
+14240_26	has_surface_form	Ferdl
+14240_27	is_in_sentence	sentence_14240
+14240_27	punct	14240_26
+14240_27	has_surface_form	,
+14240_28	is_in_sentence	sentence_14240
+14240_28	compound	14240_29
+14240_28	has_surface_form	Julia
+14240_29	is_in_sentence	sentence_14240
+14240_29	conj	14240_26
+14240_29	has_surface_form	Serda
+14240_30	is_in_sentence	sentence_14240
+14240_30	cc	14240_29
+14240_30	has_surface_form	and
+14240_31	is_in_sentence	sentence_14240
+14240_31	compound	14240_32
+14240_31	has_surface_form	Edith
+14240_31	part_of_entity	Edith Oß
+14240_32	is_in_sentence	sentence_14240
+14240_32	conj	14240_29
+14240_32	has_surface_form	Oß
+14240_32	part_of_entity	Edith Oß
+14240_33	is_in_sentence	sentence_14240
+14240_33	punct	14240_13
+14240_33	has_surface_form	.
+14240_34	is_in_sentence	sentence_14240
+14240_34	dep	14240_13
+14240_34	has_surface_form	
+All Because of the Dog	surface_form	All Because of the Dog
+All Because of the Dog	starring	Edith Oß
+Edith Oß	surface_form	Edith Oß

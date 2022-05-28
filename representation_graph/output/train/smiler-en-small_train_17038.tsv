@@ -1,0 +1,55 @@
+17037_0	is_in_sentence	sentence_17037
+17037_0	compound	17037_1
+17037_0	has_surface_form	Barbara
+17037_0	part_of_entity	Barbara Davis
+17037_1	is_in_sentence	sentence_17037
+17037_1	nsubj	17037_2
+17037_1	has_surface_form	Davis
+17037_1	part_of_entity	Barbara Davis
+17037_2	is_in_sentence	sentence_17037
+17037_2	ROOT	17037_2
+17037_2	has_surface_form	is
+17037_3	is_in_sentence	sentence_17037
+17037_3	det	17037_5
+17037_3	has_surface_form	an
+17037_5	is_in_sentence	sentence_17037
+17037_5	attr	17037_2
+17037_5	has_surface_form	philanthropist
+17037_4	is_in_sentence	sentence_17037
+17037_4	amod	17037_5
+17037_4	has_surface_form	American
+17037_6	is_in_sentence	sentence_17037
+17037_6	punct	17037_5
+17037_6	has_surface_form	,
+17037_7	is_in_sentence	sentence_17037
+17037_7	conj	17037_5
+17037_7	has_surface_form	billionaire
+17037_8	is_in_sentence	sentence_17037
+17037_8	punct	17037_7
+17037_8	has_surface_form	,
+17037_9	is_in_sentence	sentence_17037
+17037_9	cc	17037_7
+17037_9	has_surface_form	and
+17037_10	is_in_sentence	sentence_17037
+17037_10	conj	17037_7
+17037_10	has_surface_form	widow
+17037_11	is_in_sentence	sentence_17037
+17037_11	prep	17037_7
+17037_11	has_surface_form	of
+17037_12	is_in_sentence	sentence_17037
+17037_12	compound	17037_13
+17037_12	has_surface_form	Marvin
+17037_12	part_of_entity	Marvin Davis
+17037_13	is_in_sentence	sentence_17037
+17037_13	pobj	17037_11
+17037_13	has_surface_form	Davis
+17037_13	part_of_entity	Marvin Davis
+17037_14	is_in_sentence	sentence_17037
+17037_14	punct	17037_2
+17037_14	has_surface_form	.
+17037_15	is_in_sentence	sentence_17037
+17037_15	dep	17037_2
+17037_15	has_surface_form	
+Barbara Davis	surface_form	Barbara Davis
+Barbara Davis	has-spouse	Marvin Davis
+Marvin Davis	surface_form	Marvin Davis

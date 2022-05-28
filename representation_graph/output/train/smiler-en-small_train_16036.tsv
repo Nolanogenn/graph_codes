@@ -1,0 +1,79 @@
+16035_0	is_in_sentence	sentence_16035
+16035_0	compound	16035_1
+16035_0	has_surface_form	Atomic
+16035_0	part_of_entity	Atomic Kitten
+16035_1	is_in_sentence	sentence_16035
+16035_1	nsubj	16035_2
+16035_1	has_surface_form	Kitten
+16035_1	part_of_entity	Atomic Kitten
+16035_2	is_in_sentence	sentence_16035
+16035_2	ROOT	16035_2
+16035_2	has_surface_form	are
+16035_3	is_in_sentence	sentence_16035
+16035_3	det	16035_7
+16035_3	has_surface_form	a
+16035_7	is_in_sentence	sentence_16035
+16035_7	attr	16035_2
+16035_7	has_surface_form	group
+16035_4	is_in_sentence	sentence_16035
+16035_4	amod	16035_7
+16035_4	has_surface_form	British
+16035_5	is_in_sentence	sentence_16035
+16035_5	compound	16035_6
+16035_5	has_surface_form	pop
+16035_6	is_in_sentence	sentence_16035
+16035_6	compound	16035_7
+16035_6	has_surface_form	girl
+16035_8	is_in_sentence	sentence_16035
+16035_8	acl	16035_7
+16035_8	has_surface_form	formed
+16035_9	is_in_sentence	sentence_16035
+16035_9	prep	16035_8
+16035_9	has_surface_form	in
+16035_10	is_in_sentence	sentence_16035
+16035_10	pobj	16035_9
+16035_10	has_surface_form	Liverpool
+16035_11	is_in_sentence	sentence_16035
+16035_11	prep	16035_8
+16035_11	has_surface_form	in
+16035_12	is_in_sentence	sentence_16035
+16035_12	pobj	16035_11
+16035_12	has_surface_form	1998
+16035_13	is_in_sentence	sentence_16035
+16035_13	poss	16035_15
+16035_13	has_surface_form	whose
+16035_15	is_in_sentence	sentence_16035
+16035_15	nsubj	16035_16
+16035_15	has_surface_form	members
+16035_14	is_in_sentence	sentence_16035
+16035_14	amod	16035_15
+16035_14	has_surface_form	current
+16035_16	is_in_sentence	sentence_16035
+16035_16	relcl	16035_7
+16035_16	has_surface_form	are
+16035_17	is_in_sentence	sentence_16035
+16035_17	compound	16035_18
+16035_17	has_surface_form	Natasha
+16035_17	part_of_entity	Natasha Hamilton
+16035_18	is_in_sentence	sentence_16035
+16035_18	attr	16035_16
+16035_18	has_surface_form	Hamilton
+16035_18	part_of_entity	Natasha Hamilton
+16035_19	is_in_sentence	sentence_16035
+16035_19	cc	16035_18
+16035_19	has_surface_form	and
+16035_20	is_in_sentence	sentence_16035
+16035_20	compound	16035_21
+16035_20	has_surface_form	Liz
+16035_21	is_in_sentence	sentence_16035
+16035_21	conj	16035_18
+16035_21	has_surface_form	McClarnon
+16035_22	is_in_sentence	sentence_16035
+16035_22	punct	16035_2
+16035_22	has_surface_form	.
+16035_23	is_in_sentence	sentence_16035
+16035_23	dep	16035_2
+16035_23	has_surface_form	
+Atomic Kitten	surface_form	Atomic Kitten
+Atomic Kitten	org-has-member	Natasha Hamilton
+Natasha Hamilton	surface_form	Natasha Hamilton

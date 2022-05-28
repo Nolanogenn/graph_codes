@@ -1,0 +1,47 @@
+35256_0	is_in_sentence	sentence_35256
+35256_0	compound	35256_1
+35256_0	has_surface_form	Overgas
+35256_0	part_of_entity	Overgas Inc. AD
+35256_1	is_in_sentence	sentence_35256
+35256_1	compound	35256_2
+35256_1	has_surface_form	Inc.
+35256_1	part_of_entity	Overgas Inc. AD
+35256_2	is_in_sentence	sentence_35256
+35256_2	nsubj	35256_3
+35256_2	has_surface_form	AD
+35256_2	part_of_entity	Overgas Inc. AD
+35256_3	is_in_sentence	sentence_35256
+35256_3	ROOT	35256_3
+35256_3	has_surface_form	is
+35256_4	is_in_sentence	sentence_35256
+35256_4	det	35256_8
+35256_4	has_surface_form	the
+35256_8	is_in_sentence	sentence_35256
+35256_8	attr	35256_3
+35256_8	has_surface_form	company
+35256_8	part_of_entity	gas company
+35256_5	is_in_sentence	sentence_35256
+35256_5	amod	35256_8
+35256_5	has_surface_form	biggest
+35256_6	is_in_sentence	sentence_35256
+35256_6	amod	35256_7
+35256_6	has_surface_form	private
+35256_7	is_in_sentence	sentence_35256
+35256_7	compound	35256_8
+35256_7	has_surface_form	gas
+35256_7	part_of_entity	gas company
+35256_9	is_in_sentence	sentence_35256
+35256_9	prep	35256_8
+35256_9	has_surface_form	in
+35256_10	is_in_sentence	sentence_35256
+35256_10	pobj	35256_9
+35256_10	has_surface_form	Bulgaria
+35256_11	is_in_sentence	sentence_35256
+35256_11	punct	35256_3
+35256_11	has_surface_form	.
+35256_12	is_in_sentence	sentence_35256
+35256_12	dep	35256_12
+35256_12	has_surface_form	
+Overgas Inc. AD	surface_form	Overgas Inc. AD
+Overgas Inc. AD	has-type	gas company
+gas company	surface_form	gas company

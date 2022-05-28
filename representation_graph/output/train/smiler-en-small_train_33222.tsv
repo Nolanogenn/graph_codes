@@ -1,0 +1,75 @@
+33221_0	is_in_sentence	sentence_33221
+33221_0	intj	33221_2
+33221_0	has_surface_form	O
+33221_0	part_of_entity	O Homem que Virou Suco
+33221_2	is_in_sentence	sentence_33221
+33221_2	nsubj	33221_5
+33221_2	has_surface_form	que
+33221_2	part_of_entity	O Homem que Virou Suco
+33221_1	is_in_sentence	sentence_33221
+33221_1	compound	33221_2
+33221_1	has_surface_form	Homem
+33221_1	part_of_entity	O Homem que Virou Suco
+33221_5	is_in_sentence	sentence_33221
+33221_5	ROOT	33221_5
+33221_5	has_surface_form	is
+33221_3	is_in_sentence	sentence_33221
+33221_3	compound	33221_4
+33221_3	has_surface_form	Virou
+33221_3	part_of_entity	O Homem que Virou Suco
+33221_4	is_in_sentence	sentence_33221
+33221_4	appos	33221_2
+33221_4	has_surface_form	Suco
+33221_4	part_of_entity	O Homem que Virou Suco
+33221_6	is_in_sentence	sentence_33221
+33221_6	det	33221_10
+33221_6	has_surface_form	a
+33221_10	is_in_sentence	sentence_33221
+33221_10	attr	33221_5
+33221_10	has_surface_form	film
+33221_7	is_in_sentence	sentence_33221
+33221_7	nummod	33221_10
+33221_7	has_surface_form	1980
+33221_8	is_in_sentence	sentence_33221
+33221_8	amod	33221_10
+33221_8	has_surface_form	Brazilian
+33221_9	is_in_sentence	sentence_33221
+33221_9	compound	33221_10
+33221_9	has_surface_form	drama
+33221_11	is_in_sentence	sentence_33221
+33221_11	acl	33221_10
+33221_11	has_surface_form	written
+33221_12	is_in_sentence	sentence_33221
+33221_12	cc	33221_11
+33221_12	has_surface_form	and
+33221_13	is_in_sentence	sentence_33221
+33221_13	conj	33221_11
+33221_13	has_surface_form	directed
+33221_14	is_in_sentence	sentence_33221
+33221_14	agent	33221_13
+33221_14	has_surface_form	by
+33221_15	is_in_sentence	sentence_33221
+33221_15	compound	33221_18
+33221_15	has_surface_form	João
+33221_15	part_of_entity	João Batista de Andrade
+33221_18	is_in_sentence	sentence_33221
+33221_18	pobj	33221_14
+33221_18	has_surface_form	Andrade
+33221_18	part_of_entity	João Batista de Andrade
+33221_16	is_in_sentence	sentence_33221
+33221_16	compound	33221_18
+33221_16	has_surface_form	Batista
+33221_16	part_of_entity	João Batista de Andrade
+33221_17	is_in_sentence	sentence_33221
+33221_17	compound	33221_18
+33221_17	has_surface_form	de
+33221_17	part_of_entity	João Batista de Andrade
+33221_19	is_in_sentence	sentence_33221
+33221_19	punct	33221_5
+33221_19	has_surface_form	.
+33221_20	is_in_sentence	sentence_33221
+33221_20	dep	33221_5
+33221_20	has_surface_form	
+O Homem que Virou Suco	surface_form	O Homem que Virou Suco
+O Homem que Virou Suco	movie-has-director	João Batista de Andrade
+João Batista de Andrade	surface_form	João Batista de Andrade

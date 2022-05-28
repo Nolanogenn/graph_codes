@@ -1,0 +1,83 @@
+32821_0	is_in_sentence	sentence_32821
+32821_0	compound	32821_1
+32821_0	has_surface_form	Chemman
+32821_0	part_of_entity	Chemman Chaalai
+32821_1	is_in_sentence	sentence_32821
+32821_1	nsubj	32821_7
+32821_1	has_surface_form	Chaalai
+32821_1	part_of_entity	Chemman Chaalai
+32821_7	is_in_sentence	sentence_32821
+32821_7	ROOT	32821_7
+32821_7	has_surface_form	is
+32821_2	is_in_sentence	sentence_32821
+32821_2	punct	32821_1
+32821_2	has_surface_form	(
+32821_3	is_in_sentence	sentence_32821
+32821_3	det	32821_5
+32821_3	has_surface_form	The
+32821_5	is_in_sentence	sentence_32821
+32821_5	appos	32821_1
+32821_5	has_surface_form	Road
+32821_4	is_in_sentence	sentence_32821
+32821_4	compound	32821_5
+32821_4	has_surface_form	Gravel
+32821_6	is_in_sentence	sentence_32821
+32821_6	punct	32821_1
+32821_6	has_surface_form	)
+32821_8	is_in_sentence	sentence_32821
+32821_8	det	32821_13
+32821_8	has_surface_form	a
+32821_13	is_in_sentence	sentence_32821
+32821_13	attr	32821_7
+32821_13	has_surface_form	film
+32821_9	is_in_sentence	sentence_32821
+32821_9	nummod	32821_13
+32821_9	has_surface_form	2005
+32821_10	is_in_sentence	sentence_32821
+32821_10	amod	32821_11
+32821_10	has_surface_form	Malaysian
+32821_11	is_in_sentence	sentence_32821
+32821_11	compound	32821_13
+32821_11	has_surface_form	family
+32821_12	is_in_sentence	sentence_32821
+32821_12	compound	32821_13
+32821_12	has_surface_form	drama
+32821_14	is_in_sentence	sentence_32821
+32821_14	acl	32821_13
+32821_14	has_surface_form	directed
+32821_15	is_in_sentence	sentence_32821
+32821_15	agent	32821_14
+32821_15	has_surface_form	by
+32821_16	is_in_sentence	sentence_32821
+32821_16	amod	32821_18
+32821_16	has_surface_form	Indian
+32821_18	is_in_sentence	sentence_32821
+32821_18	amod	32821_19
+32821_18	has_surface_form	Malaysian
+32821_17	is_in_sentence	sentence_32821
+32821_17	punct	32821_18
+32821_17	has_surface_form	-
+32821_19	is_in_sentence	sentence_32821
+32821_19	compound	32821_22
+32821_19	has_surface_form	director
+32821_22	is_in_sentence	sentence_32821
+32821_22	pobj	32821_15
+32821_22	has_surface_form	Menon
+32821_22	part_of_entity	Deepak Kumaran Menon
+32821_20	is_in_sentence	sentence_32821
+32821_20	compound	32821_22
+32821_20	has_surface_form	Deepak
+32821_20	part_of_entity	Deepak Kumaran Menon
+32821_21	is_in_sentence	sentence_32821
+32821_21	compound	32821_22
+32821_21	has_surface_form	Kumaran
+32821_21	part_of_entity	Deepak Kumaran Menon
+32821_23	is_in_sentence	sentence_32821
+32821_23	punct	32821_7
+32821_23	has_surface_form	.
+32821_24	is_in_sentence	sentence_32821
+32821_24	dep	32821_7
+32821_24	has_surface_form	
+Chemman Chaalai	surface_form	Chemman Chaalai
+Chemman Chaalai	movie-has-director	Deepak Kumaran Menon
+Deepak Kumaran Menon	surface_form	Deepak Kumaran Menon

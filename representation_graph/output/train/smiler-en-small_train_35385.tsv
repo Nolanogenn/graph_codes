@@ -1,0 +1,77 @@
+35384_0	is_in_sentence	sentence_35384
+35384_0	det	35384_2
+35384_0	has_surface_form	The
+35384_2	is_in_sentence	sentence_35384
+35384_2	nsubj	35384_9
+35384_2	has_surface_form	Department
+35384_2	part_of_entity	Minnesota Department of Public Safety
+35384_1	is_in_sentence	sentence_35384
+35384_1	compound	35384_2
+35384_1	has_surface_form	Minnesota
+35384_1	part_of_entity	Minnesota Department of Public Safety
+35384_9	is_in_sentence	sentence_35384
+35384_9	ROOT	35384_9
+35384_9	has_surface_form	is
+35384_3	is_in_sentence	sentence_35384
+35384_3	prep	35384_2
+35384_3	has_surface_form	of
+35384_3	part_of_entity	Minnesota Department of Public Safety
+35384_4	is_in_sentence	sentence_35384
+35384_4	compound	35384_5
+35384_4	has_surface_form	Public
+35384_4	part_of_entity	Minnesota Department of Public Safety
+35384_5	is_in_sentence	sentence_35384
+35384_5	pobj	35384_3
+35384_5	has_surface_form	Safety
+35384_5	part_of_entity	Minnesota Department of Public Safety
+35384_6	is_in_sentence	sentence_35384
+35384_6	punct	35384_7
+35384_6	has_surface_form	(
+35384_7	is_in_sentence	sentence_35384
+35384_7	appos	35384_2
+35384_7	has_surface_form	DPS
+35384_8	is_in_sentence	sentence_35384
+35384_8	punct	35384_7
+35384_8	has_surface_form	)
+35384_10	is_in_sentence	sentence_35384
+35384_10	det	35384_11
+35384_10	has_surface_form	a
+35384_11	is_in_sentence	sentence_35384
+35384_11	attr	35384_9
+35384_11	is_entity	department
+department	surface_form	department
+35384_12	is_in_sentence	sentence_35384
+35384_12	prep	35384_11
+35384_12	has_surface_form	of
+35384_13	is_in_sentence	sentence_35384
+35384_13	det	35384_14
+35384_13	has_surface_form	the
+35384_14	is_in_sentence	sentence_35384
+35384_14	pobj	35384_12
+35384_14	has_surface_form	State
+35384_15	is_in_sentence	sentence_35384
+35384_15	prep	35384_14
+35384_15	has_surface_form	of
+35384_16	is_in_sentence	sentence_35384
+35384_16	pobj	35384_15
+35384_16	has_surface_form	Minnesota
+35384_17	is_in_sentence	sentence_35384
+35384_17	prep	35384_11
+35384_17	has_surface_form	in
+35384_18	is_in_sentence	sentence_35384
+35384_18	det	35384_20
+35384_18	has_surface_form	the
+35384_20	is_in_sentence	sentence_35384
+35384_20	pobj	35384_17
+35384_20	has_surface_form	States
+35384_19	is_in_sentence	sentence_35384
+35384_19	compound	35384_20
+35384_19	has_surface_form	United
+35384_21	is_in_sentence	sentence_35384
+35384_21	punct	35384_9
+35384_21	has_surface_form	.
+35384_22	is_in_sentence	sentence_35384
+35384_22	dep	35384_9
+35384_22	has_surface_form	
+Minnesota Department of Public Safety	surface_form	Minnesota Department of Public Safety
+Minnesota Department of Public Safety	has-type	department

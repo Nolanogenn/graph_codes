@@ -1,0 +1,79 @@
+32864_0	is_in_sentence	sentence_32864
+32864_0	det	32864_1
+32864_0	has_surface_form	The
+32864_0	part_of_entity	The Birth of New China
+32864_1	is_in_sentence	sentence_32864
+32864_1	nsubj	32864_11
+32864_1	has_surface_form	Birth
+32864_1	part_of_entity	The Birth of New China
+32864_11	is_in_sentence	sentence_32864
+32864_11	ROOT	32864_11
+32864_11	has_surface_form	is
+32864_2	is_in_sentence	sentence_32864
+32864_2	prep	32864_1
+32864_2	has_surface_form	of
+32864_2	part_of_entity	The Birth of New China
+32864_3	is_in_sentence	sentence_32864
+32864_3	compound	32864_4
+32864_3	has_surface_form	New
+32864_3	part_of_entity	The Birth of New China
+32864_4	is_in_sentence	sentence_32864
+32864_4	pobj	32864_2
+32864_4	has_surface_form	China
+32864_4	part_of_entity	The Birth of New China
+32864_5	is_in_sentence	sentence_32864
+32864_5	punct	32864_6
+32864_5	has_surface_form	(
+32864_6	is_in_sentence	sentence_32864
+32864_6	appos	32864_1
+32864_6	has_surface_form	Chinese
+32864_7	is_in_sentence	sentence_32864
+32864_7	punct	32864_6
+32864_7	has_surface_form	:
+32864_8	is_in_sentence	sentence_32864
+32864_8	compound	32864_9
+32864_8	has_surface_form	Kaiguo
+32864_9	is_in_sentence	sentence_32864
+32864_9	appos	32864_6
+32864_9	has_surface_form	dadian
+32864_10	is_in_sentence	sentence_32864
+32864_10	punct	32864_6
+32864_10	has_surface_form	)
+32864_12	is_in_sentence	sentence_32864
+32864_12	det	32864_16
+32864_12	has_surface_form	a
+32864_16	is_in_sentence	sentence_32864
+32864_16	attr	32864_11
+32864_16	has_surface_form	film
+32864_13	is_in_sentence	sentence_32864
+32864_13	nummod	32864_16
+32864_13	has_surface_form	1989
+32864_14	is_in_sentence	sentence_32864
+32864_14	amod	32864_16
+32864_14	has_surface_form	Chinese
+32864_15	is_in_sentence	sentence_32864
+32864_15	compound	32864_16
+32864_15	has_surface_form	drama
+32864_17	is_in_sentence	sentence_32864
+32864_17	acl	32864_16
+32864_17	has_surface_form	directed
+32864_18	is_in_sentence	sentence_32864
+32864_18	agent	32864_17
+32864_18	has_surface_form	by
+32864_19	is_in_sentence	sentence_32864
+32864_19	compound	32864_20
+32864_19	has_surface_form	Li
+32864_19	part_of_entity	Li Qiankuan
+32864_20	is_in_sentence	sentence_32864
+32864_20	pobj	32864_18
+32864_20	has_surface_form	Qiankuan
+32864_20	part_of_entity	Li Qiankuan
+32864_21	is_in_sentence	sentence_32864
+32864_21	punct	32864_11
+32864_21	has_surface_form	.
+32864_22	is_in_sentence	sentence_32864
+32864_22	dep	32864_22
+32864_22	has_surface_form	
+The Birth of New China	surface_form	The Birth of New China
+The Birth of New China	movie-has-director	Li Qiankuan
+Li Qiankuan	surface_form	Li Qiankuan

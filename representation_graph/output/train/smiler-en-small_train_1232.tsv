@@ -1,0 +1,71 @@
+1231_0	is_in_sentence	sentence_1231
+1231_0	poss	1231_2
+1231_0	has_surface_form	My
+1231_0	part_of_entity	My Beloved Dearest
+1231_2	is_in_sentence	sentence_1231
+1231_2	nsubj	1231_9
+1231_2	has_surface_form	Dearest
+1231_2	part_of_entity	My Beloved Dearest
+1231_1	is_in_sentence	sentence_1231
+1231_1	compound	1231_2
+1231_1	has_surface_form	Beloved
+1231_1	part_of_entity	My Beloved Dearest
+1231_9	is_in_sentence	sentence_1231
+1231_9	ROOT	1231_9
+1231_9	has_surface_form	is
+1231_3	is_in_sentence	sentence_1231
+1231_3	punct	1231_2
+1231_3	has_surface_form	(
+1231_4	is_in_sentence	sentence_1231
+1231_4	appos	1231_2
+1231_4	has_surface_form	Malay
+1231_5	is_in_sentence	sentence_1231
+1231_5	punct	1231_4
+1231_5	has_surface_form	:
+1231_6	is_in_sentence	sentence_1231
+1231_6	compound	1231_7
+1231_6	has_surface_form	Sayang
+1231_7	is_in_sentence	sentence_1231
+1231_7	appos	1231_4
+1231_7	has_surface_form	Disayang
+1231_8	is_in_sentence	sentence_1231
+1231_8	punct	1231_4
+1231_8	has_surface_form	)
+1231_10	is_in_sentence	sentence_1231
+1231_10	det	1231_14
+1231_10	has_surface_form	a
+1231_14	is_in_sentence	sentence_1231
+1231_14	attr	1231_9
+1231_14	has_surface_form	film
+1231_11	is_in_sentence	sentence_1231
+1231_11	nummod	1231_14
+1231_11	has_surface_form	2013
+1231_12	is_in_sentence	sentence_1231
+1231_12	amod	1231_14
+1231_12	has_surface_form	Singaporean
+1231_13	is_in_sentence	sentence_1231
+1231_13	compound	1231_14
+1231_13	has_surface_form	drama
+1231_15	is_in_sentence	sentence_1231
+1231_15	acl	1231_14
+1231_15	has_surface_form	directed
+1231_16	is_in_sentence	sentence_1231
+1231_16	agent	1231_15
+1231_16	has_surface_form	by
+1231_17	is_in_sentence	sentence_1231
+1231_17	compound	1231_18
+1231_17	has_surface_form	Sanif
+1231_17	part_of_entity	Sanif Olek
+1231_18	is_in_sentence	sentence_1231
+1231_18	pobj	1231_16
+1231_18	has_surface_form	Olek
+1231_18	part_of_entity	Sanif Olek
+1231_19	is_in_sentence	sentence_1231
+1231_19	punct	1231_9
+1231_19	has_surface_form	.
+1231_20	is_in_sentence	sentence_1231
+1231_20	dep	1231_9
+1231_20	has_surface_form	
+My Beloved Dearest	surface_form	My Beloved Dearest
+My Beloved Dearest	movie-has-director	Sanif Olek
+Sanif Olek	surface_form	Sanif Olek

@@ -1,0 +1,60 @@
+22847_0	is_in_sentence	sentence_22847
+22847_0	compound	22847_2
+22847_0	has_surface_form	John
+22847_0	part_of_entity	John Michael Montgomery
+22847_2	is_in_sentence	sentence_22847
+22847_2	nsubj	22847_10
+22847_2	has_surface_form	Montgomery
+22847_2	part_of_entity	John Michael Montgomery
+22847_1	is_in_sentence	sentence_22847
+22847_1	compound	22847_2
+22847_1	has_surface_form	Michael
+22847_1	part_of_entity	John Michael Montgomery
+22847_10	is_in_sentence	sentence_22847
+22847_10	ROOT	22847_10
+22847_10	has_surface_form	is
+22847_3	is_in_sentence	sentence_22847
+22847_3	punct	22847_2
+22847_3	has_surface_form	(
+22847_4	is_in_sentence	sentence_22847
+22847_4	acl	22847_2
+22847_4	has_surface_form	born
+22847_5	is_in_sentence	sentence_22847
+22847_5	npadvmod	22847_4
+22847_5	has_surface_form	January
+22847_6	is_in_sentence	sentence_22847
+22847_6	nummod	22847_5
+22847_6	has_surface_form	20
+22847_7	is_in_sentence	sentence_22847
+22847_7	punct	22847_5
+22847_7	has_surface_form	,
+22847_8	is_in_sentence	sentence_22847
+22847_8	nummod	22847_5
+22847_8	has_surface_form	1965
+22847_9	is_in_sentence	sentence_22847
+22847_9	punct	22847_2
+22847_9	has_surface_form	)
+22847_11	is_in_sentence	sentence_22847
+22847_11	det	22847_15
+22847_11	has_surface_form	an
+22847_15	is_in_sentence	sentence_22847
+22847_15	attr	22847_10
+22847_15	is_entity	singer
+22847_12	is_in_sentence	sentence_22847
+22847_12	amod	22847_15
+22847_12	has_surface_form	American
+22847_13	is_in_sentence	sentence_22847
+22847_13	compound	22847_14
+22847_13	has_surface_form	country
+22847_14	is_in_sentence	sentence_22847
+22847_14	compound	22847_15
+22847_14	has_surface_form	music
+singer	surface_form	singer
+22847_16	is_in_sentence	sentence_22847
+22847_16	punct	22847_10
+22847_16	has_surface_form	.
+22847_17	is_in_sentence	sentence_22847
+22847_17	dep	22847_17
+22847_17	has_surface_form	
+John Michael Montgomery	surface_form	John Michael Montgomery
+John Michael Montgomery	has-occupation	singer

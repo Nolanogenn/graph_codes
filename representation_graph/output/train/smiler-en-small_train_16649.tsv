@@ -1,0 +1,74 @@
+16648_0	is_in_sentence	sentence_16648
+16648_0	det	16648_2
+16648_0	has_surface_form	A
+16648_0	part_of_entity	A Bad Son
+16648_2	is_in_sentence	sentence_16648
+16648_2	nsubj	16648_10
+16648_2	has_surface_form	Son
+16648_2	part_of_entity	A Bad Son
+16648_1	is_in_sentence	sentence_16648
+16648_1	compound	16648_2
+16648_1	has_surface_form	Bad
+16648_1	part_of_entity	A Bad Son
+16648_10	is_in_sentence	sentence_16648
+16648_10	ROOT	16648_10
+16648_10	has_surface_form	is
+16648_3	is_in_sentence	sentence_16648
+16648_3	punct	16648_4
+16648_3	has_surface_form	(
+16648_4	is_in_sentence	sentence_16648
+16648_4	appos	16648_2
+16648_4	has_surface_form	French
+16648_5	is_in_sentence	sentence_16648
+16648_5	punct	16648_2
+16648_5	has_surface_form	:
+16648_6	is_in_sentence	sentence_16648
+16648_6	compound	16648_8
+16648_6	has_surface_form	Un
+16648_8	is_in_sentence	sentence_16648
+16648_8	appos	16648_2
+16648_8	has_surface_form	fils
+16648_7	is_in_sentence	sentence_16648
+16648_7	compound	16648_8
+16648_7	has_surface_form	mauvais
+16648_9	is_in_sentence	sentence_16648
+16648_9	punct	16648_2
+16648_9	has_surface_form	)
+16648_11	is_in_sentence	sentence_16648
+16648_11	det	16648_15
+16648_11	has_surface_form	a
+16648_15	is_in_sentence	sentence_16648
+16648_15	attr	16648_10
+16648_15	has_surface_form	film
+16648_12	is_in_sentence	sentence_16648
+16648_12	nummod	16648_15
+16648_12	has_surface_form	1980
+16648_13	is_in_sentence	sentence_16648
+16648_13	amod	16648_15
+16648_13	has_surface_form	French
+16648_14	is_in_sentence	sentence_16648
+16648_14	compound	16648_15
+16648_14	has_surface_form	drama
+16648_16	is_in_sentence	sentence_16648
+16648_16	acl	16648_15
+16648_16	has_surface_form	directed
+16648_17	is_in_sentence	sentence_16648
+16648_17	agent	16648_16
+16648_17	has_surface_form	by
+16648_18	is_in_sentence	sentence_16648
+16648_18	compound	16648_19
+16648_18	has_surface_form	Claude
+16648_18	part_of_entity	Claude Sautet
+16648_19	is_in_sentence	sentence_16648
+16648_19	pobj	16648_17
+16648_19	has_surface_form	Sautet
+16648_19	part_of_entity	Claude Sautet
+16648_20	is_in_sentence	sentence_16648
+16648_20	punct	16648_10
+16648_20	has_surface_form	.
+16648_21	is_in_sentence	sentence_16648
+16648_21	dep	16648_10
+16648_21	has_surface_form	
+A Bad Son	surface_form	A Bad Son
+A Bad Son	movie-has-director	Claude Sautet
+Claude Sautet	surface_form	Claude Sautet

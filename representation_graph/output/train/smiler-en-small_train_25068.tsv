@@ -1,0 +1,56 @@
+25067_0	is_in_sentence	sentence_25067
+25067_0	compound	25067_1
+25067_0	has_surface_form	Pavel
+25067_0	part_of_entity	Pavel Maksutov
+25067_1	is_in_sentence	sentence_25067
+25067_1	nsubjpass	25067_3
+25067_1	has_surface_form	Maksutov
+25067_1	part_of_entity	Pavel Maksutov
+25067_3	is_in_sentence	sentence_25067
+25067_3	ROOT	25067_3
+25067_3	has_surface_form	born
+25067_2	is_in_sentence	sentence_25067
+25067_2	auxpass	25067_3
+25067_2	has_surface_form	was
+25067_4	is_in_sentence	sentence_25067
+25067_4	prep	25067_3
+25067_4	has_surface_form	in
+25067_5	is_in_sentence	sentence_25067
+25067_5	pobj	25067_4
+25067_5	is_entity	Penza
+Penza	surface_form	Penza
+25067_6	is_in_sentence	sentence_25067
+25067_6	prep	25067_3
+25067_6	has_surface_form	into
+25067_7	is_in_sentence	sentence_25067
+25067_7	det	25067_10
+25067_7	has_surface_form	a
+25067_10	is_in_sentence	sentence_25067
+25067_10	pobj	25067_6
+25067_10	has_surface_form	family
+25067_8	is_in_sentence	sentence_25067
+25067_8	amod	25067_10
+25067_8	has_surface_form	Russian
+25067_9	is_in_sentence	sentence_25067
+25067_9	amod	25067_10
+25067_9	has_surface_form	noble
+25067_11	is_in_sentence	sentence_25067
+25067_11	prep	25067_10
+25067_11	has_surface_form	of
+25067_12	is_in_sentence	sentence_25067
+25067_12	compound	25067_14
+25067_12	has_surface_form	Pyotr
+25067_14	is_in_sentence	sentence_25067
+25067_14	pobj	25067_11
+25067_14	has_surface_form	Maksutov
+25067_13	is_in_sentence	sentence_25067
+25067_13	compound	25067_14
+25067_13	has_surface_form	Ivanovich
+25067_15	is_in_sentence	sentence_25067
+25067_15	punct	25067_3
+25067_15	has_surface_form	.
+25067_16	is_in_sentence	sentence_25067
+25067_16	dep	25067_3
+25067_16	has_surface_form	
+Pavel Maksutov	surface_form	Pavel Maksutov
+Pavel Maksutov	birth-place	Penza

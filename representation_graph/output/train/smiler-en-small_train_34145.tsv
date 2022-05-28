@@ -1,0 +1,68 @@
+34144_0	is_in_sentence	sentence_34144
+34144_0	compound	34144_1
+34144_0	has_surface_form	Mike
+34144_0	part_of_entity	Mike Bath
+34144_1	is_in_sentence	sentence_34144
+34144_1	nsubj	34144_9
+34144_1	has_surface_form	Bath
+34144_1	part_of_entity	Mike Bath
+34144_9	is_in_sentence	sentence_34144
+34144_9	ROOT	34144_9
+34144_9	has_surface_form	is
+34144_2	is_in_sentence	sentence_34144
+34144_2	punct	34144_1
+34144_2	has_surface_form	(
+34144_3	is_in_sentence	sentence_34144
+34144_3	acl	34144_1
+34144_3	has_surface_form	born
+34144_4	is_in_sentence	sentence_34144
+34144_4	npadvmod	34144_3
+34144_4	has_surface_form	September
+34144_5	is_in_sentence	sentence_34144
+34144_5	nummod	34144_4
+34144_5	has_surface_form	11
+34144_6	is_in_sentence	sentence_34144
+34144_6	punct	34144_4
+34144_6	has_surface_form	,
+34144_7	is_in_sentence	sentence_34144
+34144_7	nummod	34144_4
+34144_7	has_surface_form	1977
+34144_8	is_in_sentence	sentence_34144
+34144_8	punct	34144_1
+34144_8	has_surface_form	)
+34144_10	is_in_sentence	sentence_34144
+34144_10	det	34144_14
+34144_10	has_surface_form	an
+34144_14	is_in_sentence	sentence_34144
+34144_14	attr	34144_9
+34144_14	has_surface_form	coach
+34144_14	part_of_entity	college football coach
+34144_11	is_in_sentence	sentence_34144
+34144_11	amod	34144_14
+34144_11	has_surface_form	American
+34144_12	is_in_sentence	sentence_34144
+34144_12	compound	34144_13
+34144_12	has_surface_form	college
+34144_12	part_of_entity	college football coach
+34144_13	is_in_sentence	sentence_34144
+34144_13	compound	34144_14
+34144_13	has_surface_form	football
+34144_13	part_of_entity	college football coach
+34144_15	is_in_sentence	sentence_34144
+34144_15	cc	34144_14
+34144_15	has_surface_form	and
+34144_16	is_in_sentence	sentence_34144
+34144_16	amod	34144_17
+34144_16	has_surface_form	former
+34144_17	is_in_sentence	sentence_34144
+34144_17	conj	34144_14
+34144_17	has_surface_form	player
+34144_18	is_in_sentence	sentence_34144
+34144_18	punct	34144_9
+34144_18	has_surface_form	.
+34144_19	is_in_sentence	sentence_34144
+34144_19	dep	34144_19
+34144_19	has_surface_form	
+Mike Bath	surface_form	Mike Bath
+Mike Bath	has-type	college football coach
+college football coach	surface_form	college football coach

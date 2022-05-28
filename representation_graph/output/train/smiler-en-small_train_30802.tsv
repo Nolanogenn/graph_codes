@@ -1,0 +1,56 @@
+30801_0	is_in_sentence	sentence_30801
+30801_0	compound	30801_1
+30801_0	has_surface_form	Bob
+30801_0	part_of_entity	Bob Margolin
+30801_1	is_in_sentence	sentence_30801
+30801_1	nsubj	30801_9
+30801_1	has_surface_form	Margolin
+30801_1	part_of_entity	Bob Margolin
+30801_9	is_in_sentence	sentence_30801
+30801_9	ROOT	30801_9
+30801_9	has_surface_form	is
+30801_2	is_in_sentence	sentence_30801
+30801_2	punct	30801_1
+30801_2	has_surface_form	(
+30801_3	is_in_sentence	sentence_30801
+30801_3	acl	30801_1
+30801_3	has_surface_form	born
+30801_4	is_in_sentence	sentence_30801
+30801_4	npadvmod	30801_3
+30801_4	has_surface_form	May
+30801_5	is_in_sentence	sentence_30801
+30801_5	nummod	30801_4
+30801_5	has_surface_form	9
+30801_6	is_in_sentence	sentence_30801
+30801_6	punct	30801_4
+30801_6	has_surface_form	,
+30801_7	is_in_sentence	sentence_30801
+30801_7	nummod	30801_4
+30801_7	has_surface_form	1949
+30801_8	is_in_sentence	sentence_30801
+30801_8	punct	30801_1
+30801_8	has_surface_form	)
+30801_10	is_in_sentence	sentence_30801
+30801_10	det	30801_14
+30801_10	has_surface_form	an
+30801_14	is_in_sentence	sentence_30801
+30801_14	attr	30801_9
+30801_14	is_entity	guitarist
+30801_11	is_in_sentence	sentence_30801
+30801_11	amod	30801_13
+30801_11	has_surface_form	American
+30801_13	is_in_sentence	sentence_30801
+30801_13	compound	30801_14
+30801_13	has_surface_form	blues
+30801_12	is_in_sentence	sentence_30801
+30801_12	amod	30801_13
+30801_12	has_surface_form	electric
+guitarist	surface_form	guitarist
+30801_15	is_in_sentence	sentence_30801
+30801_15	punct	30801_9
+30801_15	has_surface_form	.
+30801_16	is_in_sentence	sentence_30801
+30801_16	dep	30801_16
+30801_16	has_surface_form	
+Bob Margolin	surface_form	Bob Margolin
+Bob Margolin	has-occupation	guitarist

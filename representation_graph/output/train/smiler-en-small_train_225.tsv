@@ -1,0 +1,74 @@
+224_0	is_in_sentence	sentence_224
+224_0	nsubj	224_10
+224_0	has_surface_form	Spaniards
+224_0	part_of_entity	Spaniards in Paris
+224_10	is_in_sentence	sentence_224
+224_10	ROOT	224_10
+224_10	has_surface_form	is
+224_1	is_in_sentence	sentence_224
+224_1	prep	224_0
+224_1	has_surface_form	in
+224_1	part_of_entity	Spaniards in Paris
+224_2	is_in_sentence	sentence_224
+224_2	pobj	224_1
+224_2	has_surface_form	Paris
+224_2	part_of_entity	Spaniards in Paris
+224_3	is_in_sentence	sentence_224
+224_3	punct	224_4
+224_3	has_surface_form	(
+224_4	is_in_sentence	sentence_224
+224_4	appos	224_0
+224_4	has_surface_form	Spanish
+224_5	is_in_sentence	sentence_224
+224_5	punct	224_4
+224_5	has_surface_form	:
+224_6	is_in_sentence	sentence_224
+224_6	appos	224_4
+224_6	has_surface_form	Españolas
+224_7	is_in_sentence	sentence_224
+224_7	prep	224_6
+224_7	has_surface_form	en
+224_8	is_in_sentence	sentence_224
+224_8	pobj	224_7
+224_8	has_surface_form	París
+224_9	is_in_sentence	sentence_224
+224_9	punct	224_4
+224_9	has_surface_form	)
+224_11	is_in_sentence	sentence_224
+224_11	det	224_15
+224_11	has_surface_form	a
+224_15	is_in_sentence	sentence_224
+224_15	attr	224_10
+224_15	has_surface_form	film
+224_12	is_in_sentence	sentence_224
+224_12	nummod	224_15
+224_12	has_surface_form	1971
+224_13	is_in_sentence	sentence_224
+224_13	amod	224_15
+224_13	has_surface_form	Spanish
+224_14	is_in_sentence	sentence_224
+224_14	compound	224_15
+224_14	has_surface_form	drama
+224_16	is_in_sentence	sentence_224
+224_16	acl	224_15
+224_16	has_surface_form	directed
+224_17	is_in_sentence	sentence_224
+224_17	agent	224_16
+224_17	has_surface_form	by
+224_18	is_in_sentence	sentence_224
+224_18	compound	224_19
+224_18	has_surface_form	Roberto
+224_18	part_of_entity	Roberto Bodegas
+224_19	is_in_sentence	sentence_224
+224_19	pobj	224_17
+224_19	has_surface_form	Bodegas
+224_19	part_of_entity	Roberto Bodegas
+224_20	is_in_sentence	sentence_224
+224_20	punct	224_10
+224_20	has_surface_form	.
+224_21	is_in_sentence	sentence_224
+224_21	dep	224_10
+224_21	has_surface_form	
+Spaniards in Paris	surface_form	Spaniards in Paris
+Spaniards in Paris	movie-has-director	Roberto Bodegas
+Roberto Bodegas	surface_form	Roberto Bodegas

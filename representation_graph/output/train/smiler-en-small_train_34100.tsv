@@ -1,0 +1,60 @@
+34099_0	is_in_sentence	sentence_34099
+34099_0	csubj	34099_9
+34099_0	has_surface_form	Eat
+34099_0	part_of_entity	Eat Lights Become Lights
+34099_9	is_in_sentence	sentence_34099
+34099_9	ROOT	34099_9
+34099_9	has_surface_form	is
+34099_1	is_in_sentence	sentence_34099
+34099_1	compound	34099_2
+34099_1	has_surface_form	Lights
+34099_1	part_of_entity	Eat Lights Become Lights
+34099_2	is_in_sentence	sentence_34099
+34099_2	dative	34099_0
+34099_2	has_surface_form	Become
+34099_2	part_of_entity	Eat Lights Become Lights
+34099_3	is_in_sentence	sentence_34099
+34099_3	dobj	34099_0
+34099_3	has_surface_form	Lights
+34099_3	part_of_entity	Eat Lights Become Lights
+34099_4	is_in_sentence	sentence_34099
+34099_4	punct	34099_3
+34099_4	has_surface_form	(
+34099_5	is_in_sentence	sentence_34099
+34099_5	acl	34099_3
+34099_5	has_surface_form	abbreviated
+34099_6	is_in_sentence	sentence_34099
+34099_6	prep	34099_5
+34099_6	has_surface_form	as
+34099_7	is_in_sentence	sentence_34099
+34099_7	pobj	34099_6
+34099_7	has_surface_form	ELBL
+34099_8	is_in_sentence	sentence_34099
+34099_8	punct	34099_3
+34099_8	has_surface_form	)
+34099_10	is_in_sentence	sentence_34099
+34099_10	det	34099_14
+34099_10	has_surface_form	a
+34099_14	is_in_sentence	sentence_34099
+34099_14	attr	34099_9
+34099_14	has_surface_form	band
+34099_11	is_in_sentence	sentence_34099
+34099_11	amod	34099_14
+34099_11	has_surface_form	British
+34099_12	is_in_sentence	sentence_34099
+34099_12	amod	34099_14
+34099_12	has_surface_form	alternative
+34099_12	part_of_entity	alternative rock
+34099_13	is_in_sentence	sentence_34099
+34099_13	compound	34099_14
+34099_13	has_surface_form	rock
+34099_13	part_of_entity	alternative rock
+34099_15	is_in_sentence	sentence_34099
+34099_15	punct	34099_9
+34099_15	has_surface_form	.
+34099_16	is_in_sentence	sentence_34099
+34099_16	dep	34099_16
+34099_16	has_surface_form	
+Eat Lights Become Lights	surface_form	Eat Lights Become Lights
+Eat Lights Become Lights	has-genre	alternative rock
+alternative rock	surface_form	alternative rock

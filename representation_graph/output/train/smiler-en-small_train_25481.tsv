@@ -1,0 +1,70 @@
+25480_0	is_in_sentence	sentence_25480
+25480_0	compound	25480_1
+25480_0	has_surface_form	American
+25480_0	part_of_entity	American Mullet
+25480_1	is_in_sentence	sentence_25480
+25480_1	nsubj	25480_10
+25480_1	has_surface_form	Mullet
+25480_1	part_of_entity	American Mullet
+25480_10	is_in_sentence	sentence_25480
+25480_10	ROOT	25480_10
+25480_10	has_surface_form	is
+25480_2	is_in_sentence	sentence_25480
+25480_2	punct	25480_4
+25480_2	has_surface_form	(
+25480_4	is_in_sentence	sentence_25480
+25480_4	parataxis	25480_1
+25480_4	has_surface_form	known
+25480_3	is_in_sentence	sentence_25480
+25480_3	advmod	25480_4
+25480_3	has_surface_form	also
+25480_5	is_in_sentence	sentence_25480
+25480_5	prep	25480_4
+25480_5	has_surface_form	as
+25480_6	is_in_sentence	sentence_25480
+25480_6	det	25480_8
+25480_6	has_surface_form	The
+25480_8	is_in_sentence	sentence_25480
+25480_8	pobj	25480_5
+25480_8	has_surface_form	Chronicles
+25480_7	is_in_sentence	sentence_25480
+25480_7	compound	25480_8
+25480_7	has_surface_form	Mullet
+25480_9	is_in_sentence	sentence_25480
+25480_9	punct	25480_4
+25480_9	has_surface_form	)
+25480_11	is_in_sentence	sentence_25480
+25480_11	det	25480_14
+25480_11	has_surface_form	a
+25480_14	is_in_sentence	sentence_25480
+25480_14	attr	25480_10
+25480_14	has_surface_form	film
+25480_12	is_in_sentence	sentence_25480
+25480_12	nummod	25480_14
+25480_12	has_surface_form	2001
+25480_13	is_in_sentence	sentence_25480
+25480_13	compound	25480_14
+25480_13	has_surface_form	documentary
+25480_15	is_in_sentence	sentence_25480
+25480_15	acl	25480_14
+25480_15	has_surface_form	directed
+25480_16	is_in_sentence	sentence_25480
+25480_16	agent	25480_15
+25480_16	has_surface_form	by
+25480_17	is_in_sentence	sentence_25480
+25480_17	compound	25480_18
+25480_17	has_surface_form	Jennifer
+25480_17	part_of_entity	Jennifer Arnold
+25480_18	is_in_sentence	sentence_25480
+25480_18	pobj	25480_16
+25480_18	has_surface_form	Arnold
+25480_18	part_of_entity	Jennifer Arnold
+25480_19	is_in_sentence	sentence_25480
+25480_19	punct	25480_10
+25480_19	has_surface_form	.
+25480_20	is_in_sentence	sentence_25480
+25480_20	dep	25480_10
+25480_20	has_surface_form	
+American Mullet	surface_form	American Mullet
+American Mullet	movie-has-director	Jennifer Arnold
+Jennifer Arnold	surface_form	Jennifer Arnold

@@ -1,0 +1,69 @@
+6051_0	is_in_sentence	sentence_6051
+6051_0	compound	6051_1
+6051_0	has_surface_form	Yarra
+6051_0	part_of_entity	Yarra Bank Highway
+6051_1	is_in_sentence	sentence_6051
+6051_1	compound	6051_2
+6051_1	has_surface_form	Bank
+6051_1	part_of_entity	Yarra Bank Highway
+6051_2	is_in_sentence	sentence_6051
+6051_2	nsubj	6051_3
+6051_2	has_surface_form	Highway
+6051_2	part_of_entity	Yarra Bank Highway
+6051_3	is_in_sentence	sentence_6051
+6051_3	ROOT	6051_3
+6051_3	has_surface_form	is
+6051_4	is_in_sentence	sentence_6051
+6051_4	det	6051_7
+6051_4	has_surface_form	a
+6051_7	is_in_sentence	sentence_6051
+6051_7	attr	6051_3
+6051_7	has_surface_form	kilometres
+6051_5	is_in_sentence	sentence_6051
+6051_5	amod	6051_7
+6051_5	has_surface_form	short
+6051_6	is_in_sentence	sentence_6051
+6051_6	nummod	6051_7
+6051_6	has_surface_form	2
+6051_8	is_in_sentence	sentence_6051
+6051_8	punct	6051_13
+6051_8	has_surface_form	(
+6051_13	is_in_sentence	sentence_6051
+6051_13	appos	6051_7
+6051_13	is_entity	highway
+6051_9	is_in_sentence	sentence_6051
+6051_9	nummod	6051_13
+6051_9	has_surface_form	1
+6051_10	is_in_sentence	sentence_6051
+6051_10	dep	6051_13
+6051_10	has_surface_form	 
+6051_11	is_in_sentence	sentence_6051
+6051_11	nmod	6051_13
+6051_11	has_surface_form	mi
+6051_12	is_in_sentence	sentence_6051
+6051_12	punct	6051_13
+6051_12	has_surface_form	)
+highway	surface_form	highway
+6051_14	is_in_sentence	sentence_6051
+6051_14	prep	6051_13
+6051_14	has_surface_form	in
+6051_15	is_in_sentence	sentence_6051
+6051_15	amod	6051_16
+6051_15	has_surface_form	central
+6051_16	is_in_sentence	sentence_6051
+6051_16	pobj	6051_14
+6051_16	has_surface_form	Melbourne
+6051_17	is_in_sentence	sentence_6051
+6051_17	punct	6051_16
+6051_17	has_surface_form	,
+6051_18	is_in_sentence	sentence_6051
+6051_18	appos	6051_16
+6051_18	has_surface_form	Australia
+6051_19	is_in_sentence	sentence_6051
+6051_19	punct	6051_3
+6051_19	has_surface_form	.
+6051_20	is_in_sentence	sentence_6051
+6051_20	dep	6051_3
+6051_20	has_surface_form	
+Yarra Bank Highway	surface_form	Yarra Bank Highway
+Yarra Bank Highway	has-type	highway

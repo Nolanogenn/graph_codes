@@ -1,0 +1,79 @@
+1957_0	is_in_sentence	sentence_1957
+1957_0	compound	1957_1
+1957_0	has_surface_form	Akil
+1957_0	part_of_entity	Akil DeFreitas
+1957_1	is_in_sentence	sentence_1957
+1957_1	nsubj	1957_8
+1957_1	has_surface_form	DeFreitas
+1957_1	part_of_entity	Akil DeFreitas
+1957_8	is_in_sentence	sentence_1957
+1957_8	ROOT	1957_8
+1957_8	has_surface_form	is
+1957_2	is_in_sentence	sentence_1957
+1957_2	punct	1957_1
+1957_2	has_surface_form	(
+1957_3	is_in_sentence	sentence_1957
+1957_3	acl	1957_1
+1957_3	has_surface_form	born
+1957_4	is_in_sentence	sentence_1957
+1957_4	npadvmod	1957_3
+1957_4	has_surface_form	7
+1957_5	is_in_sentence	sentence_1957
+1957_5	npadvmod	1957_3
+1957_5	has_surface_form	November
+1957_6	is_in_sentence	sentence_1957
+1957_6	nummod	1957_5
+1957_6	has_surface_form	1986
+1957_7	is_in_sentence	sentence_1957
+1957_7	punct	1957_1
+1957_7	has_surface_form	)
+1957_9	is_in_sentence	sentence_1957
+1957_9	det	1957_11
+1957_9	has_surface_form	a
+1957_11	is_in_sentence	sentence_1957
+1957_11	attr	1957_8
+1957_11	has_surface_form	footballer
+1957_10	is_in_sentence	sentence_1957
+1957_10	amod	1957_11
+1957_10	has_surface_form	Trinidadian
+1957_12	is_in_sentence	sentence_1957
+1957_12	nsubj	1957_14
+1957_12	has_surface_form	who
+1957_14	is_in_sentence	sentence_1957
+1957_14	relcl	1957_11
+1957_14	has_surface_form	plays
+1957_13	is_in_sentence	sentence_1957
+1957_13	advmod	1957_14
+1957_13	has_surface_form	currently
+1957_15	is_in_sentence	sentence_1957
+1957_15	prep	1957_14
+1957_15	has_surface_form	for
+1957_16	is_in_sentence	sentence_1957
+1957_16	compound	1957_17
+1957_16	has_surface_form	FC
+1957_16	part_of_entity	FC Jazz
+1957_17	is_in_sentence	sentence_1957
+1957_17	pobj	1957_15
+1957_17	has_surface_form	Jazz
+1957_17	part_of_entity	FC Jazz
+1957_18	is_in_sentence	sentence_1957
+1957_18	prep	1957_17
+1957_18	has_surface_form	in
+1957_19	is_in_sentence	sentence_1957
+1957_19	det	1957_21
+1957_19	has_surface_form	the
+1957_21	is_in_sentence	sentence_1957
+1957_21	pobj	1957_18
+1957_21	has_surface_form	Ykkönen
+1957_20	is_in_sentence	sentence_1957
+1957_20	compound	1957_21
+1957_20	has_surface_form	Finnish
+1957_22	is_in_sentence	sentence_1957
+1957_22	punct	1957_8
+1957_22	has_surface_form	.
+1957_23	is_in_sentence	sentence_1957
+1957_23	dep	1957_8
+1957_23	has_surface_form	
+Akil DeFreitas	surface_form	Akil DeFreitas
+Akil DeFreitas	is-member-of	FC Jazz
+FC Jazz	surface_form	FC Jazz

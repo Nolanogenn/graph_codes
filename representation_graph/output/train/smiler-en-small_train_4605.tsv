@@ -1,0 +1,105 @@
+4604_0	is_in_sentence	sentence_4604
+4604_0	det	4604_1
+4604_0	has_surface_form	A
+4604_0	part_of_entity	A Gust of Wind
+4604_1	is_in_sentence	sentence_4604
+4604_1	nsubj	4604_10
+4604_1	has_surface_form	Gust
+4604_1	part_of_entity	A Gust of Wind
+4604_10	is_in_sentence	sentence_4604
+4604_10	ROOT	4604_10
+4604_10	has_surface_form	is
+4604_2	is_in_sentence	sentence_4604
+4604_2	prep	4604_1
+4604_2	has_surface_form	of
+4604_2	part_of_entity	A Gust of Wind
+4604_3	is_in_sentence	sentence_4604
+4604_3	pobj	4604_2
+4604_3	has_surface_form	Wind
+4604_3	part_of_entity	A Gust of Wind
+4604_4	is_in_sentence	sentence_4604
+4604_4	punct	4604_5
+4604_4	has_surface_form	(
+4604_5	is_in_sentence	sentence_4604
+4604_5	appos	4604_1
+4604_5	has_surface_form	German
+4604_6	is_in_sentence	sentence_4604
+4604_6	punct	4604_5
+4604_6	has_surface_form	:
+4604_7	is_in_sentence	sentence_4604
+4604_7	compound	4604_8
+4604_7	has_surface_form	Ein
+4604_8	is_in_sentence	sentence_4604
+4604_8	appos	4604_5
+4604_8	has_surface_form	Windstoß
+4604_9	is_in_sentence	sentence_4604
+4604_9	punct	4604_5
+4604_9	has_surface_form	)
+4604_11	is_in_sentence	sentence_4604
+4604_11	det	4604_15
+4604_11	has_surface_form	a
+4604_15	is_in_sentence	sentence_4604
+4604_15	attr	4604_10
+4604_15	has_surface_form	film
+4604_12	is_in_sentence	sentence_4604
+4604_12	nummod	4604_15
+4604_12	has_surface_form	1942
+4604_13	is_in_sentence	sentence_4604
+4604_13	amod	4604_15
+4604_13	has_surface_form	German
+4604_14	is_in_sentence	sentence_4604
+4604_14	amod	4604_15
+4604_14	has_surface_form	musical
+4604_16	is_in_sentence	sentence_4604
+4604_16	acl	4604_15
+4604_16	has_surface_form	directed
+4604_17	is_in_sentence	sentence_4604
+4604_17	agent	4604_16
+4604_17	has_surface_form	by
+4604_18	is_in_sentence	sentence_4604
+4604_18	compound	4604_19
+4604_18	has_surface_form	Walter
+4604_19	is_in_sentence	sentence_4604
+4604_19	pobj	4604_17
+4604_19	has_surface_form	Felsenstein
+4604_20	is_in_sentence	sentence_4604
+4604_20	cc	4604_16
+4604_20	has_surface_form	and
+4604_21	is_in_sentence	sentence_4604
+4604_21	conj	4604_16
+4604_21	has_surface_form	starring
+4604_22	is_in_sentence	sentence_4604
+4604_22	compound	4604_23
+4604_22	has_surface_form	Paul
+4604_22	part_of_entity	Paul Kemp
+4604_23	is_in_sentence	sentence_4604
+4604_23	dobj	4604_21
+4604_23	has_surface_form	Kemp
+4604_23	part_of_entity	Paul Kemp
+4604_24	is_in_sentence	sentence_4604
+4604_24	punct	4604_23
+4604_24	has_surface_form	,
+4604_25	is_in_sentence	sentence_4604
+4604_25	compound	4604_26
+4604_25	has_surface_form	Margit
+4604_26	is_in_sentence	sentence_4604
+4604_26	conj	4604_23
+4604_26	has_surface_form	Debar
+4604_27	is_in_sentence	sentence_4604
+4604_27	cc	4604_26
+4604_27	has_surface_form	and
+4604_28	is_in_sentence	sentence_4604
+4604_28	compound	4604_29
+4604_28	has_surface_form	Elsa
+4604_29	is_in_sentence	sentence_4604
+4604_29	conj	4604_26
+4604_29	has_surface_form	Wagner
+4604_30	is_in_sentence	sentence_4604
+4604_30	punct	4604_10
+4604_30	has_surface_form	.
+4604_31	is_in_sentence	sentence_4604
+4604_31	dep	4604_10
+4604_31	has_surface_form	
+A Gust of Wind	surface_form	A Gust of Wind
+A Gust of Wind	starring	Paul Kemp
+Paul Kemp	surface_form	Paul Kemp

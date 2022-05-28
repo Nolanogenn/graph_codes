@@ -1,0 +1,53 @@
+6264_0	is_in_sentence	sentence_6264
+6264_0	compound	6264_1
+6264_0	has_surface_form	Catmose
+6264_0	part_of_entity	Catmose College
+6264_1	is_in_sentence	sentence_6264
+6264_1	nsubj	6264_2
+6264_1	has_surface_form	College
+6264_1	part_of_entity	Catmose College
+6264_2	is_in_sentence	sentence_6264
+6264_2	ROOT	6264_2
+6264_2	has_surface_form	is
+6264_3	is_in_sentence	sentence_6264
+6264_3	det	6264_6
+6264_3	has_surface_form	a
+6264_6	is_in_sentence	sentence_6264
+6264_6	attr	6264_2
+6264_6	has_surface_form	school
+6264_4	is_in_sentence	sentence_6264
+6264_4	amod	6264_6
+6264_4	has_surface_form	secondary
+6264_5	is_in_sentence	sentence_6264
+6264_5	compound	6264_6
+6264_5	has_surface_form	academy
+6264_7	is_in_sentence	sentence_6264
+6264_7	prep	6264_6
+6264_7	has_surface_form	on
+6264_8	is_in_sentence	sentence_6264
+6264_8	compound	6264_9
+6264_8	has_surface_form	Huntsmans
+6264_9	is_in_sentence	sentence_6264
+6264_9	pobj	6264_7
+6264_9	has_surface_form	Drive
+6264_10	is_in_sentence	sentence_6264
+6264_10	prep	6264_9
+6264_10	has_surface_form	in
+6264_11	is_in_sentence	sentence_6264
+6264_11	pobj	6264_10
+6264_11	has_surface_form	Oakham
+6264_12	is_in_sentence	sentence_6264
+6264_12	punct	6264_11
+6264_12	has_surface_form	,
+6264_13	is_in_sentence	sentence_6264
+6264_13	appos	6264_11
+6264_13	has_surface_form	Rutland
+6264_14	is_in_sentence	sentence_6264
+6264_14	punct	6264_2
+6264_14	has_surface_form	.
+6264_15	is_in_sentence	sentence_6264
+6264_15	dep	6264_2
+6264_15	has_surface_form	
+Catmose College	surface_form	Catmose College
+Catmose College	is-where	Huntsmans Drive in Oakham, Rutland
+Huntsmans Drive in Oakham, Rutland	surface_form	Huntsmans Drive in Oakham, Rutland

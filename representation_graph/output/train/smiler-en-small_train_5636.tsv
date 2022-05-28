@@ -1,0 +1,58 @@
+5635_0	is_in_sentence	sentence_5635
+5635_0	compound	5635_1
+5635_0	has_surface_form	Daejin
+5635_0	part_of_entity	Daejin University
+5635_1	is_in_sentence	sentence_5635
+5635_1	nsubj	5635_2
+5635_1	has_surface_form	University
+5635_1	part_of_entity	Daejin University
+5635_2	is_in_sentence	sentence_5635
+5635_2	ROOT	5635_2
+5635_2	has_surface_form	is
+5635_3	is_in_sentence	sentence_5635
+5635_3	det	5635_5
+5635_3	has_surface_form	a
+5635_5	is_in_sentence	sentence_5635
+5635_5	attr	5635_2
+5635_5	has_surface_form	university
+5635_4	is_in_sentence	sentence_5635
+5635_4	amod	5635_5
+5635_4	has_surface_form	private
+5635_6	is_in_sentence	sentence_5635
+5635_6	prep	5635_5
+5635_6	has_surface_form	in
+5635_7	is_in_sentence	sentence_5635
+5635_7	compound	5635_8
+5635_7	has_surface_form	Pocheon
+5635_7	part_of_entity	Pocheon City
+5635_8	is_in_sentence	sentence_5635
+5635_8	pobj	5635_6
+5635_8	has_surface_form	City
+5635_8	part_of_entity	Pocheon City
+5635_9	is_in_sentence	sentence_5635
+5635_9	punct	5635_8
+5635_9	has_surface_form	,
+5635_10	is_in_sentence	sentence_5635
+5635_10	compound	5635_11
+5635_10	has_surface_form	Gyeonggi
+5635_11	is_in_sentence	sentence_5635
+5635_11	appos	5635_8
+5635_11	has_surface_form	province
+5635_12	is_in_sentence	sentence_5635
+5635_12	prep	5635_11
+5635_12	has_surface_form	of
+5635_13	is_in_sentence	sentence_5635
+5635_13	compound	5635_14
+5635_13	has_surface_form	South
+5635_14	is_in_sentence	sentence_5635
+5635_14	pobj	5635_12
+5635_14	has_surface_form	Korea
+5635_15	is_in_sentence	sentence_5635
+5635_15	punct	5635_2
+5635_15	has_surface_form	.
+5635_16	is_in_sentence	sentence_5635
+5635_16	dep	5635_16
+5635_16	has_surface_form	
+Daejin University	surface_form	Daejin University
+Daejin University	is-where	Pocheon City
+Pocheon City	surface_form	Pocheon City

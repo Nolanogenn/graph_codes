@@ -1,0 +1,86 @@
+20029_0	is_in_sentence	sentence_20029
+20029_0	ROOT	20029_0
+20029_0	has_surface_form	M11x
+20029_1	is_in_sentence	sentence_20029
+20029_1	punct	20029_0
+20029_1	has_surface_form	-
+20029_2	is_in_sentence	sentence_20029
+20029_2	appos	20029_0
+20029_2	has_surface_form	R2
+20029_3	is_in_sentence	sentence_20029
+20029_3	punct	20029_4
+20029_3	has_surface_form	(
+20029_4	is_in_sentence	sentence_20029
+20029_4	appos	20029_0
+20029_4	has_surface_form	Discontinued
+20029_5	is_in_sentence	sentence_20029
+20029_5	punct	20029_4
+20029_5	has_surface_form	)
+20029_6	is_in_sentence	sentence_20029
+20029_6	punct	20029_0
+20029_6	has_surface_form	-
+20029_7	is_in_sentence	sentence_20029
+20029_7	det	20029_10
+20029_7	has_surface_form	The
+20029_10	is_in_sentence	sentence_20029
+20029_10	npadvmod	20029_15
+20029_10	has_surface_form	revision
+20029_8	is_in_sentence	sentence_20029
+20029_8	amod	20029_10
+20029_8	has_surface_form	late
+20029_9	is_in_sentence	sentence_20029
+20029_9	nummod	20029_10
+20029_9	has_surface_form	2010
+20029_15	is_in_sentence	sentence_20029
+20029_15	ROOT	20029_15
+20029_15	has_surface_form	uses
+20029_11	is_in_sentence	sentence_20029
+20029_11	punct	20029_15
+20029_11	has_surface_form	,
+20029_12	is_in_sentence	sentence_20029
+20029_12	nsubjpass	20029_15
+20029_12	has_surface_form	it
+20029_13	is_in_sentence	sentence_20029
+20029_13	auxpass	20029_15
+20029_13	has_surface_form	is
+20029_14	is_in_sentence	sentence_20029
+20029_14	advmod	20029_15
+20029_14	has_surface_form	now
+20029_16	is_in_sentence	sentence_20029
+20029_16	compound	20029_19
+20029_16	has_surface_form	ULV
+20029_16	part_of_entity	ULV Intel Arrandale Core i5
+20029_19	is_in_sentence	sentence_20029
+20029_19	dobj	20029_15
+20029_19	has_surface_form	Core
+20029_19	part_of_entity	ULV Intel Arrandale Core i5
+20029_17	is_in_sentence	sentence_20029
+20029_17	compound	20029_19
+20029_17	has_surface_form	Intel
+20029_17	part_of_entity	ULV Intel Arrandale Core i5
+20029_18	is_in_sentence	sentence_20029
+20029_18	compound	20029_19
+20029_18	has_surface_form	Arrandale
+20029_18	part_of_entity	ULV Intel Arrandale Core i5
+20029_20	is_in_sentence	sentence_20029
+20029_20	cc	20029_19
+20029_20	has_surface_form	i5
+20029_20	part_of_entity	ULV Intel Arrandale Core i5
+20029_21	is_in_sentence	sentence_20029
+20029_21	cc	20029_20
+20029_21	has_surface_form	and
+20029_22	is_in_sentence	sentence_20029
+20029_22	conj	20029_20
+20029_22	has_surface_form	i7
+20029_23	is_in_sentence	sentence_20029
+20029_23	conj	20029_19
+20029_23	has_surface_form	processors
+20029_24	is_in_sentence	sentence_20029
+20029_24	punct	20029_15
+20029_24	has_surface_form	.
+20029_25	is_in_sentence	sentence_20029
+20029_25	dep	20029_25
+20029_25	has_surface_form	
+M11x-R2	surface_form	M11x-R2
+M11x-R2	no_relation	ULV Intel Arrandale Core i5
+ULV Intel Arrandale Core i5	surface_form	ULV Intel Arrandale Core i5

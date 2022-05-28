@@ -1,0 +1,89 @@
+2765_0	is_in_sentence	sentence_2765
+2765_0	compound	2765_2
+2765_0	has_surface_form	James
+2765_0	part_of_entity	James Y. Smith
+2765_2	is_in_sentence	sentence_2765
+2765_2	ROOT	2765_2
+2765_2	has_surface_form	Smith
+2765_2	part_of_entity	James Y. Smith
+2765_1	is_in_sentence	sentence_2765
+2765_1	compound	2765_2
+2765_1	has_surface_form	Y.
+2765_1	part_of_entity	James Y. Smith
+2765_3	is_in_sentence	sentence_2765
+2765_3	punct	2765_2
+2765_3	has_surface_form	.
+2765_4	is_in_sentence	sentence_2765
+2765_4	prep	2765_11
+2765_4	has_surface_form	On
+2765_11	is_in_sentence	sentence_2765
+2765_11	ROOT	2765_11
+2765_11	has_surface_form	married
+2765_5	is_in_sentence	sentence_2765
+2765_5	pobj	2765_4
+2765_5	has_surface_form	August
+2765_6	is_in_sentence	sentence_2765
+2765_6	nummod	2765_5
+2765_6	has_surface_form	13
+2765_7	is_in_sentence	sentence_2765
+2765_7	punct	2765_5
+2765_7	has_surface_form	,
+2765_8	is_in_sentence	sentence_2765
+2765_8	appos	2765_5
+2765_8	has_surface_form	1835
+2765_9	is_in_sentence	sentence_2765
+2765_9	punct	2765_11
+2765_9	has_surface_form	,
+2765_10	is_in_sentence	sentence_2765
+2765_10	nsubj	2765_11
+2765_10	has_surface_form	he
+2765_12	is_in_sentence	sentence_2765
+2765_12	compound	2765_13
+2765_12	has_surface_form	Emily
+2765_12	part_of_entity	Emily Brown
+2765_13	is_in_sentence	sentence_2765
+2765_13	dobj	2765_11
+2765_13	has_surface_form	Brown
+2765_13	part_of_entity	Emily Brown
+2765_14	is_in_sentence	sentence_2765
+2765_14	punct	2765_13
+2765_14	has_surface_form	,
+2765_15	is_in_sentence	sentence_2765
+2765_15	appos	2765_13
+2765_15	has_surface_form	daughter
+2765_16	is_in_sentence	sentence_2765
+2765_16	prep	2765_15
+2765_16	has_surface_form	of
+2765_17	is_in_sentence	sentence_2765
+2765_17	compound	2765_18
+2765_17	has_surface_form	Thomas
+2765_18	is_in_sentence	sentence_2765
+2765_18	pobj	2765_16
+2765_18	has_surface_form	Brown
+2765_19	is_in_sentence	sentence_2765
+2765_19	punct	2765_18
+2765_19	has_surface_form	,
+2765_20	is_in_sentence	sentence_2765
+2765_20	det	2765_22
+2765_20	has_surface_form	a
+2765_22	is_in_sentence	sentence_2765
+2765_22	appos	2765_18
+2765_22	has_surface_form	manufacturer
+2765_21	is_in_sentence	sentence_2765
+2765_21	compound	2765_22
+2765_21	has_surface_form	cotton
+2765_23	is_in_sentence	sentence_2765
+2765_23	prep	2765_22
+2765_23	has_surface_form	in
+2765_24	is_in_sentence	sentence_2765
+2765_24	pobj	2765_23
+2765_24	has_surface_form	Scituate
+2765_25	is_in_sentence	sentence_2765
+2765_25	punct	2765_11
+2765_25	has_surface_form	.
+2765_26	is_in_sentence	sentence_2765
+2765_26	dep	2765_26
+2765_26	has_surface_form	
+James Y. Smith	surface_form	James Y. Smith
+James Y. Smith	has-spouse	Emily Brown
+Emily Brown	surface_form	Emily Brown

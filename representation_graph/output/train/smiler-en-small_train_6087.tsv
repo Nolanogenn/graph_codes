@@ -1,0 +1,47 @@
+6086_0	is_in_sentence	sentence_6086
+6086_0	compound	6086_1
+6086_0	has_surface_form	Jonathan
+6086_0	part_of_entity	Jonathan Denis
+6086_1	is_in_sentence	sentence_6086
+6086_1	nsubj	6086_2
+6086_1	has_surface_form	Denis
+6086_1	part_of_entity	Jonathan Denis
+6086_2	is_in_sentence	sentence_6086
+6086_2	ROOT	6086_2
+6086_2	has_surface_form	is
+6086_3	is_in_sentence	sentence_6086
+6086_3	det	6086_4
+6086_3	has_surface_form	the
+6086_4	is_in_sentence	sentence_6086
+6086_4	attr	6086_2
+6086_4	has_surface_form	son
+6086_5	is_in_sentence	sentence_6086
+6086_5	prep	6086_4
+6086_5	has_surface_form	of
+6086_6	is_in_sentence	sentence_6086
+6086_6	det	6086_7
+6086_6	has_surface_form	a
+6086_7	is_in_sentence	sentence_6086
+6086_7	pobj	6086_5
+6086_7	is_entity	soldier
+soldier	surface_form	soldier
+6086_8	is_in_sentence	sentence_6086
+6086_8	prep	6086_7
+6086_8	has_surface_form	in
+6086_9	is_in_sentence	sentence_6086
+6086_9	det	6086_11
+6086_9	has_surface_form	the
+6086_11	is_in_sentence	sentence_6086
+6086_11	pobj	6086_8
+6086_11	has_surface_form	forces
+6086_10	is_in_sentence	sentence_6086
+6086_10	amod	6086_11
+6086_10	has_surface_form	Canadian
+6086_12	is_in_sentence	sentence_6086
+6086_12	punct	6086_2
+6086_12	has_surface_form	.
+6086_13	is_in_sentence	sentence_6086
+6086_13	dep	6086_2
+6086_13	has_surface_form	
+Jonathan Denis	surface_form	Jonathan Denis
+Jonathan Denis	has-parent	soldier

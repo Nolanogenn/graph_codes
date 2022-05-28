@@ -1,0 +1,87 @@
+9355_0	is_in_sentence	sentence_9355
+9355_0	det	9355_2
+9355_0	has_surface_form	A
+9355_2	is_in_sentence	sentence_9355
+9355_2	nsubj	9355_13
+9355_2	has_surface_form	filter
+9355_2	part_of_entity	Chamberland filter
+9355_1	is_in_sentence	sentence_9355
+9355_1	compound	9355_2
+9355_1	has_surface_form	Chamberland
+9355_1	part_of_entity	Chamberland filter
+9355_13	is_in_sentence	sentence_9355
+9355_13	ROOT	9355_13
+9355_13	has_surface_form	is
+9355_3	is_in_sentence	sentence_9355
+9355_3	punct	9355_2
+9355_3	has_surface_form	,
+9355_4	is_in_sentence	sentence_9355
+9355_4	advmod	9355_5
+9355_4	has_surface_form	also
+9355_5	is_in_sentence	sentence_9355
+9355_5	acl	9355_2
+9355_5	has_surface_form	known
+9355_6	is_in_sentence	sentence_9355
+9355_6	prep	9355_5
+9355_6	has_surface_form	as
+9355_7	is_in_sentence	sentence_9355
+9355_7	det	9355_11
+9355_7	has_surface_form	a
+9355_11	is_in_sentence	sentence_9355
+9355_11	pobj	9355_6
+9355_11	has_surface_form	filter
+9355_11	part_of_entity	Chamberland filter
+9355_8	is_in_sentence	sentence_9355
+9355_8	compound	9355_10
+9355_8	has_surface_form	Pasteur
+9355_10	is_in_sentence	sentence_9355
+9355_10	compound	9355_11
+9355_10	has_surface_form	Chamberland
+9355_10	part_of_entity	Chamberland filter
+9355_9	is_in_sentence	sentence_9355
+9355_9	punct	9355_10
+9355_9	has_surface_form	-
+9355_12	is_in_sentence	sentence_9355
+9355_12	punct	9355_2
+9355_12	has_surface_form	,
+9355_14	is_in_sentence	sentence_9355
+9355_14	det	9355_17
+9355_14	has_surface_form	a
+9355_17	is_in_sentence	sentence_9355
+9355_17	attr	9355_13
+9355_17	has_surface_form	filter
+9355_15	is_in_sentence	sentence_9355
+9355_15	compound	9355_17
+9355_15	has_surface_form	porcelain
+9355_16	is_in_sentence	sentence_9355
+9355_16	compound	9355_17
+9355_16	has_surface_form	water
+9355_18	is_in_sentence	sentence_9355
+9355_18	acl	9355_17
+9355_18	has_surface_form	invented
+9355_19	is_in_sentence	sentence_9355
+9355_19	agent	9355_18
+9355_19	has_surface_form	by
+9355_20	is_in_sentence	sentence_9355
+9355_20	compound	9355_21
+9355_20	has_surface_form	Charles
+9355_20	part_of_entity	Charles Chamberland
+9355_21	is_in_sentence	sentence_9355
+9355_21	pobj	9355_19
+9355_21	has_surface_form	Chamberland
+9355_21	part_of_entity	Charles Chamberland
+9355_22	is_in_sentence	sentence_9355
+9355_22	prep	9355_18
+9355_22	has_surface_form	in
+9355_23	is_in_sentence	sentence_9355
+9355_23	pobj	9355_22
+9355_23	has_surface_form	1884
+9355_24	is_in_sentence	sentence_9355
+9355_24	punct	9355_13
+9355_24	has_surface_form	.
+9355_25	is_in_sentence	sentence_9355
+9355_25	dep	9355_25
+9355_25	has_surface_form	
+Chamberland filter	surface_form	Chamberland filter
+Chamberland filter	invented-by	Charles Chamberland
+Charles Chamberland	surface_form	Charles Chamberland

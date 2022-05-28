@@ -1,0 +1,44 @@
+30800_0	is_in_sentence	sentence_30800
+30800_0	compound	30800_1
+30800_0	has_surface_form	South
+30800_0	part_of_entity	South Lakeland
+30800_1	is_in_sentence	sentence_30800
+30800_1	nsubj	30800_2
+30800_1	has_surface_form	Lakeland
+30800_1	part_of_entity	South Lakeland
+30800_2	is_in_sentence	sentence_30800
+30800_2	ROOT	30800_2
+30800_2	has_surface_form	is
+30800_3	is_in_sentence	sentence_30800
+30800_3	det	30800_6
+30800_3	has_surface_form	a
+30800_6	is_in_sentence	sentence_30800
+30800_6	attr	30800_2
+30800_6	is_entity	district
+30800_4	is_in_sentence	sentence_30800
+30800_4	amod	30800_6
+30800_4	has_surface_form	local
+30800_5	is_in_sentence	sentence_30800
+30800_5	compound	30800_6
+30800_5	has_surface_form	government
+district	surface_form	district
+30800_7	is_in_sentence	sentence_30800
+30800_7	prep	30800_6
+30800_7	has_surface_form	in
+30800_8	is_in_sentence	sentence_30800
+30800_8	pobj	30800_7
+30800_8	has_surface_form	Cumbria
+30800_9	is_in_sentence	sentence_30800
+30800_9	punct	30800_8
+30800_9	has_surface_form	,
+30800_10	is_in_sentence	sentence_30800
+30800_10	appos	30800_8
+30800_10	has_surface_form	England
+30800_11	is_in_sentence	sentence_30800
+30800_11	punct	30800_2
+30800_11	has_surface_form	.
+30800_12	is_in_sentence	sentence_30800
+30800_12	dep	30800_2
+30800_12	has_surface_form	
+South Lakeland	surface_form	South Lakeland
+South Lakeland	has-type	district

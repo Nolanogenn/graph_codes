@@ -1,0 +1,68 @@
+611_0	is_in_sentence	sentence_611
+611_0	compound	611_1
+611_0	has_surface_form	Justine
+611_0	part_of_entity	Justine Kurland
+611_1	is_in_sentence	sentence_611
+611_1	nsubj	611_10
+611_1	has_surface_form	Kurland
+611_1	part_of_entity	Justine Kurland
+611_10	is_in_sentence	sentence_611
+611_10	ROOT	611_10
+611_10	has_surface_form	is
+611_2	is_in_sentence	sentence_611
+611_2	punct	611_1
+611_2	has_surface_form	(
+611_3	is_in_sentence	sentence_611
+611_3	acl	611_1
+611_3	has_surface_form	born
+611_4	is_in_sentence	sentence_611
+611_4	npadvmod	611_3
+611_4	has_surface_form	1969
+611_5	is_in_sentence	sentence_611
+611_5	prep	611_3
+611_5	has_surface_form	in
+611_6	is_in_sentence	sentence_611
+611_6	pobj	611_5
+611_6	has_surface_form	Warsaw
+611_7	is_in_sentence	sentence_611
+611_7	punct	611_6
+611_7	has_surface_form	,
+611_8	is_in_sentence	sentence_611
+611_8	appos	611_6
+611_8	has_surface_form	NY
+611_9	is_in_sentence	sentence_611
+611_9	punct	611_6
+611_9	has_surface_form	)
+611_11	is_in_sentence	sentence_611
+611_11	det	611_14
+611_11	has_surface_form	a
+611_14	is_in_sentence	sentence_611
+611_14	attr	611_10
+611_14	has_surface_form	photographer
+611_12	is_in_sentence	sentence_611
+611_12	amod	611_14
+611_12	has_surface_form	fine
+611_13	is_in_sentence	sentence_611
+611_13	compound	611_14
+611_13	has_surface_form	art
+611_15	is_in_sentence	sentence_611
+611_15	acl	611_14
+611_15	has_surface_form	based
+611_16	is_in_sentence	sentence_611
+611_16	prep	611_15
+611_16	has_surface_form	in
+611_17	is_in_sentence	sentence_611
+611_17	compound	611_18
+611_17	has_surface_form	New
+611_18	is_in_sentence	sentence_611
+611_18	pobj	611_16
+611_18	has_surface_form	York
+611_19	is_in_sentence	sentence_611
+611_19	punct	611_10
+611_19	has_surface_form	.
+611_20	is_in_sentence	sentence_611
+611_20	dep	611_10
+611_20	has_surface_form	
+Justine Kurland	surface_form	Justine Kurland
+Justine Kurland	birth-place	Warsaw, NY
+Warsaw, NY	surface_form	Warsaw, NY

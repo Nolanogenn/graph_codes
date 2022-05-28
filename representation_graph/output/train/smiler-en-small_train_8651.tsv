@@ -1,0 +1,76 @@
+8650_0	is_in_sentence	sentence_8650
+8650_0	det	8650_1
+8650_0	has_surface_form	The
+8650_1	is_in_sentence	sentence_8650
+8650_1	nsubj	8650_5
+8650_1	has_surface_form	Institute
+8650_1	part_of_entity	Institute of Buddhist Studies
+8650_5	is_in_sentence	sentence_8650
+8650_5	ROOT	8650_5
+8650_5	has_surface_form	is
+8650_2	is_in_sentence	sentence_8650
+8650_2	prep	8650_1
+8650_2	has_surface_form	of
+8650_2	part_of_entity	Institute of Buddhist Studies
+8650_3	is_in_sentence	sentence_8650
+8650_3	compound	8650_4
+8650_3	has_surface_form	Buddhist
+8650_3	part_of_entity	Institute of Buddhist Studies
+8650_4	is_in_sentence	sentence_8650
+8650_4	pobj	8650_2
+8650_4	has_surface_form	Studies
+8650_4	part_of_entity	Institute of Buddhist Studies
+8650_6	is_in_sentence	sentence_8650
+8650_6	det	8650_11
+8650_6	has_surface_form	a
+8650_11	is_in_sentence	sentence_8650
+8650_11	attr	8650_5
+8650_11	is_entity	seminary
+8650_7	is_in_sentence	sentence_8650
+8650_7	npadvmod	8650_10
+8650_7	has_surface_form	Jodo
+8650_10	is_in_sentence	sentence_8650
+8650_10	amod	8650_11
+8650_10	has_surface_form	affiliated
+8650_8	is_in_sentence	sentence_8650
+8650_8	npadvmod	8650_10
+8650_8	has_surface_form	Shinshu
+8650_9	is_in_sentence	sentence_8650
+8650_9	punct	8650_10
+8650_9	has_surface_form	-
+seminary	surface_form	seminary
+8650_12	is_in_sentence	sentence_8650
+8650_12	cc	8650_11
+8650_12	has_surface_form	and
+8650_13	is_in_sentence	sentence_8650
+8650_13	conj	8650_11
+8650_13	has_surface_form	graduate
+8650_14	is_in_sentence	sentence_8650
+8650_14	attr	8650_5
+8650_14	has_surface_form	school
+8650_15	is_in_sentence	sentence_8650
+8650_15	punct	8650_14
+8650_15	has_surface_form	,
+8650_16	is_in_sentence	sentence_8650
+8650_16	acl	8650_14
+8650_16	has_surface_form	located
+8650_17	is_in_sentence	sentence_8650
+8650_17	prep	8650_16
+8650_17	has_surface_form	in
+8650_18	is_in_sentence	sentence_8650
+8650_18	pobj	8650_17
+8650_18	has_surface_form	Berkeley
+8650_19	is_in_sentence	sentence_8650
+8650_19	punct	8650_18
+8650_19	has_surface_form	,
+8650_20	is_in_sentence	sentence_8650
+8650_20	appos	8650_18
+8650_20	has_surface_form	California
+8650_21	is_in_sentence	sentence_8650
+8650_21	punct	8650_5
+8650_21	has_surface_form	.
+8650_22	is_in_sentence	sentence_8650
+8650_22	dep	8650_22
+8650_22	has_surface_form	
+Institute of Buddhist Studies	surface_form	Institute of Buddhist Studies
+Institute of Buddhist Studies	has-type	seminary

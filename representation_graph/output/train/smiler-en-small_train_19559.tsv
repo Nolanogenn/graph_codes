@@ -1,0 +1,50 @@
+19558_0	is_in_sentence	sentence_19558
+19558_0	compound	19558_1
+19558_0	has_surface_form	David
+19558_0	part_of_entity	David Farrier
+19558_1	is_in_sentence	sentence_19558
+19558_1	nsubj	19558_8
+19558_1	has_surface_form	Farrier
+19558_1	part_of_entity	David Farrier
+19558_8	is_in_sentence	sentence_19558
+19558_8	ROOT	19558_8
+19558_8	has_surface_form	is
+19558_2	is_in_sentence	sentence_19558
+19558_2	punct	19558_3
+19558_2	has_surface_form	(
+19558_3	is_in_sentence	sentence_19558
+19558_3	acl	19558_1
+19558_3	has_surface_form	born
+19558_4	is_in_sentence	sentence_19558
+19558_4	nummod	19558_5
+19558_4	has_surface_form	25
+19558_5	is_in_sentence	sentence_19558
+19558_5	npadvmod	19558_3
+19558_5	has_surface_form	December
+19558_6	is_in_sentence	sentence_19558
+19558_6	nummod	19558_5
+19558_6	has_surface_form	1982
+19558_7	is_in_sentence	sentence_19558
+19558_7	punct	19558_3
+19558_7	has_surface_form	)
+19558_9	is_in_sentence	sentence_19558
+19558_9	det	19558_12
+19558_9	has_surface_form	a
+19558_12	is_in_sentence	sentence_19558
+19558_12	attr	19558_8
+19558_12	is_entity	journalist
+19558_10	is_in_sentence	sentence_19558
+19558_10	compound	19558_11
+19558_10	has_surface_form	New
+19558_11	is_in_sentence	sentence_19558
+19558_11	compound	19558_12
+19558_11	has_surface_form	Zealand
+journalist	surface_form	journalist
+19558_13	is_in_sentence	sentence_19558
+19558_13	punct	19558_8
+19558_13	has_surface_form	.
+19558_14	is_in_sentence	sentence_19558
+19558_14	dep	19558_8
+19558_14	has_surface_form	
+David Farrier	surface_form	David Farrier
+David Farrier	has-occupation	journalist

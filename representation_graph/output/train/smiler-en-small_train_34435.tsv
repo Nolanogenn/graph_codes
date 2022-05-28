@@ -1,0 +1,76 @@
+34434_0	is_in_sentence	sentence_34434
+34434_0	compound	34434_1
+34434_0	has_surface_form	Girl
+34434_0	part_of_entity	Girl Hunting
+34434_1	is_in_sentence	sentence_34434
+34434_1	ROOT	34434_1
+34434_1	has_surface_form	Hunting
+34434_1	part_of_entity	Girl Hunting
+34434_2	is_in_sentence	sentence_34434
+34434_2	punct	34434_8
+34434_2	has_surface_form	(
+34434_8	is_in_sentence	sentence_34434
+34434_8	parataxis	34434_1
+34434_8	has_surface_form	is
+34434_3	is_in_sentence	sentence_34434
+34434_3	nsubj	34434_8
+34434_3	has_surface_form	Persian
+34434_4	is_in_sentence	sentence_34434
+34434_4	punct	34434_3
+34434_4	has_surface_form	:
+34434_5	is_in_sentence	sentence_34434
+34434_5	compound	34434_6
+34434_5	has_surface_form	Shekare
+34434_6	is_in_sentence	sentence_34434
+34434_6	appos	34434_3
+34434_6	has_surface_form	khanegi
+34434_7	is_in_sentence	sentence_34434
+34434_7	punct	34434_3
+34434_7	has_surface_form	)
+34434_9	is_in_sentence	sentence_34434
+34434_9	det	34434_13
+34434_9	has_surface_form	a
+34434_13	is_in_sentence	sentence_34434
+34434_13	attr	34434_8
+34434_13	has_surface_form	film
+34434_10	is_in_sentence	sentence_34434
+34434_10	nummod	34434_13
+34434_10	has_surface_form	1951
+34434_11	is_in_sentence	sentence_34434
+34434_11	amod	34434_13
+34434_11	has_surface_form	Iranian
+34434_12	is_in_sentence	sentence_34434
+34434_12	compound	34434_13
+34434_12	has_surface_form	comedy
+34434_14	is_in_sentence	sentence_34434
+34434_14	acl	34434_13
+34434_14	has_surface_form	directed
+34434_15	is_in_sentence	sentence_34434
+34434_15	agent	34434_14
+34434_15	has_surface_form	by
+34434_16	is_in_sentence	sentence_34434
+34434_16	compound	34434_17
+34434_16	has_surface_form	Sadegh
+34434_16	part_of_entity	Sadegh Bahrami
+34434_17	is_in_sentence	sentence_34434
+34434_17	pobj	34434_15
+34434_17	has_surface_form	Bahrami
+34434_17	part_of_entity	Sadegh Bahrami
+34434_18	is_in_sentence	sentence_34434
+34434_18	cc	34434_17
+34434_18	has_surface_form	and
+34434_19	is_in_sentence	sentence_34434
+34434_19	compound	34434_20
+34434_19	has_surface_form	Ali
+34434_20	is_in_sentence	sentence_34434
+34434_20	conj	34434_17
+34434_20	has_surface_form	Daryabegi
+34434_21	is_in_sentence	sentence_34434
+34434_21	punct	34434_8
+34434_21	has_surface_form	.
+34434_22	is_in_sentence	sentence_34434
+34434_22	dep	34434_1
+34434_22	has_surface_form	
+Girl Hunting	surface_form	Girl Hunting
+Girl Hunting	movie-has-director	Sadegh Bahrami
+Sadegh Bahrami	surface_form	Sadegh Bahrami

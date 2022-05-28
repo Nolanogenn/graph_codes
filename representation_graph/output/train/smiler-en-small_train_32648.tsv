@@ -1,0 +1,61 @@
+32647_0	is_in_sentence	sentence_32647
+32647_0	nsubj	32647_1
+32647_0	is_entity	Shanghai
+32647_1	is_in_sentence	sentence_32647
+32647_1	ROOT	32647_1
+32647_1	has_surface_form	is
+Shanghai	surface_form	Shanghai
+Shanghai	has-tourist-attraction	the Shanghai Ocean Aquarium
+32647_2	is_in_sentence	sentence_32647
+32647_2	advmod	32647_1
+32647_2	has_surface_form	also
+32647_3	is_in_sentence	sentence_32647
+32647_3	acomp	32647_1
+32647_3	has_surface_form	home
+32647_4	is_in_sentence	sentence_32647
+32647_4	prep	32647_3
+32647_4	has_surface_form	to
+32647_5	is_in_sentence	sentence_32647
+32647_5	pobj	32647_4
+32647_5	has_surface_form	one
+32647_6	is_in_sentence	sentence_32647
+32647_6	prep	32647_5
+32647_6	has_surface_form	of
+32647_7	is_in_sentence	sentence_32647
+32647_7	poss	32647_10
+32647_7	has_surface_form	China
+32647_10	is_in_sentence	sentence_32647
+32647_10	pobj	32647_6
+32647_10	has_surface_form	aquariums
+32647_8	is_in_sentence	sentence_32647
+32647_8	case	32647_7
+32647_8	has_surface_form	's
+32647_9	is_in_sentence	sentence_32647
+32647_9	amod	32647_10
+32647_9	has_surface_form	largest
+32647_11	is_in_sentence	sentence_32647
+32647_11	punct	32647_5
+32647_11	has_surface_form	,
+32647_12	is_in_sentence	sentence_32647
+32647_12	det	32647_15
+32647_12	has_surface_form	the
+32647_12	part_of_entity	the Shanghai Ocean Aquarium
+32647_15	is_in_sentence	sentence_32647
+32647_15	attr	32647_1
+32647_15	has_surface_form	Aquarium
+32647_15	part_of_entity	the Shanghai Ocean Aquarium
+32647_13	is_in_sentence	sentence_32647
+32647_13	compound	32647_15
+32647_13	is_entity	Shanghai
+32647_13	part_of_entity	the Shanghai Ocean Aquarium
+32647_14	is_in_sentence	sentence_32647
+32647_14	compound	32647_15
+32647_14	has_surface_form	Ocean
+32647_14	part_of_entity	the Shanghai Ocean Aquarium
+32647_16	is_in_sentence	sentence_32647
+32647_16	punct	32647_1
+32647_16	has_surface_form	.
+32647_17	is_in_sentence	sentence_32647
+32647_17	dep	32647_1
+32647_17	has_surface_form	
+the Shanghai Ocean Aquarium	surface_form	the Shanghai Ocean Aquarium

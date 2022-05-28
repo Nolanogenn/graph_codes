@@ -1,0 +1,48 @@
+1541_0	is_in_sentence	sentence_1541
+1541_0	compound	1541_2
+1541_0	has_surface_form	Charlan
+1541_0	part_of_entity	Charlan Air Charter
+1541_2	is_in_sentence	sentence_1541
+1541_2	nsubj	1541_3
+1541_2	has_surface_form	Charter
+1541_2	part_of_entity	Charlan Air Charter
+1541_1	is_in_sentence	sentence_1541
+1541_1	compound	1541_2
+1541_1	has_surface_form	Air
+1541_1	part_of_entity	Charlan Air Charter
+1541_3	is_in_sentence	sentence_1541
+1541_3	ROOT	1541_3
+1541_3	has_surface_form	was
+1541_4	is_in_sentence	sentence_1541
+1541_4	det	1541_5
+1541_4	has_surface_form	an
+1541_5	is_in_sentence	sentence_1541
+1541_5	attr	1541_3
+1541_5	has_surface_form	airline
+1541_6	is_in_sentence	sentence_1541
+1541_6	acl	1541_5
+1541_6	has_surface_form	based
+1541_7	is_in_sentence	sentence_1541
+1541_7	prep	1541_6
+1541_7	has_surface_form	in
+1541_8	is_in_sentence	sentence_1541
+1541_8	pobj	1541_7
+1541_8	is_entity	Johannesburg
+Johannesburg	surface_form	Johannesburg
+1541_9	is_in_sentence	sentence_1541
+1541_9	punct	1541_8
+1541_9	has_surface_form	,
+1541_10	is_in_sentence	sentence_1541
+1541_10	compound	1541_11
+1541_10	has_surface_form	South
+1541_11	is_in_sentence	sentence_1541
+1541_11	appos	1541_8
+1541_11	has_surface_form	Africa
+1541_12	is_in_sentence	sentence_1541
+1541_12	punct	1541_3
+1541_12	has_surface_form	.
+1541_13	is_in_sentence	sentence_1541
+1541_13	dep	1541_13
+1541_13	has_surface_form	
+Charlan Air Charter	surface_form	Charlan Air Charter
+Charlan Air Charter	headquarters	Johannesburg

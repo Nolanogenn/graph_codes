@@ -1,0 +1,77 @@
+8612_0	is_in_sentence	sentence_8612
+8612_0	compound	8612_1
+8612_0	has_surface_form	Carlos
+8612_0	part_of_entity	Carlos Méndez Villalobos
+8612_1	is_in_sentence	sentence_8612
+8612_1	compound	8612_2
+8612_1	has_surface_form	Méndez
+8612_1	part_of_entity	Carlos Méndez Villalobos
+8612_2	is_in_sentence	sentence_8612
+8612_2	nsubj	8612_10
+8612_2	has_surface_form	Villalobos
+8612_2	part_of_entity	Carlos Méndez Villalobos
+8612_10	is_in_sentence	sentence_8612
+8612_10	ROOT	8612_10
+8612_10	has_surface_form	is
+8612_3	is_in_sentence	sentence_8612
+8612_3	punct	8612_2
+8612_3	has_surface_form	(
+8612_4	is_in_sentence	sentence_8612
+8612_4	acl	8612_2
+8612_4	has_surface_form	born
+8612_5	is_in_sentence	sentence_8612
+8612_5	npadvmod	8612_4
+8612_5	has_surface_form	September
+8612_6	is_in_sentence	sentence_8612
+8612_6	nummod	8612_5
+8612_6	has_surface_form	7
+8612_7	is_in_sentence	sentence_8612
+8612_7	punct	8612_5
+8612_7	has_surface_form	,
+8612_8	is_in_sentence	sentence_8612
+8612_8	nummod	8612_5
+8612_8	has_surface_form	1954
+8612_9	is_in_sentence	sentence_8612
+8612_9	punct	8612_2
+8612_9	has_surface_form	)
+8612_11	is_in_sentence	sentence_8612
+8612_11	det	8612_13
+8612_11	has_surface_form	a
+8612_13	is_in_sentence	sentence_8612
+8612_13	attr	8612_10
+8612_13	has_surface_form	writer
+8612_12	is_in_sentence	sentence_8612
+8612_12	amod	8612_13
+8612_12	has_surface_form	Mexican
+8612_14	is_in_sentence	sentence_8612
+8612_14	prep	8612_13
+8612_14	has_surface_form	of
+8612_15	is_in_sentence	sentence_8612
+8612_15	pobj	8612_14
+8612_15	has_surface_form	poetry
+8612_16	is_in_sentence	sentence_8612
+8612_16	punct	8612_13
+8612_16	has_surface_form	,
+8612_17	is_in_sentence	sentence_8612
+8612_17	amod	8612_18
+8612_17	has_surface_form	short
+8612_17	part_of_entity	short stories
+8612_18	is_in_sentence	sentence_8612
+8612_18	conj	8612_13
+8612_18	has_surface_form	stories
+8612_18	part_of_entity	short stories
+8612_19	is_in_sentence	sentence_8612
+8612_19	cc	8612_18
+8612_19	has_surface_form	and
+8612_20	is_in_sentence	sentence_8612
+8612_20	conj	8612_18
+8612_20	has_surface_form	novels
+8612_21	is_in_sentence	sentence_8612
+8612_21	punct	8612_10
+8612_21	has_surface_form	.
+8612_22	is_in_sentence	sentence_8612
+8612_22	dep	8612_10
+8612_22	has_surface_form	
+Carlos Méndez Villalobos	surface_form	Carlos Méndez Villalobos
+Carlos Méndez Villalobos	has-genre	short stories
+short stories	surface_form	short stories

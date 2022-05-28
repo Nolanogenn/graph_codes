@@ -1,0 +1,83 @@
+13653_0	is_in_sentence	sentence_13653
+13653_0	det	13653_2
+13653_0	has_surface_form	The
+13653_0	part_of_entity	The Department Store
+13653_2	is_in_sentence	sentence_13653
+13653_2	nsubj	13653_3
+13653_2	has_surface_form	Store
+13653_2	part_of_entity	The Department Store
+13653_1	is_in_sentence	sentence_13653
+13653_1	compound	13653_2
+13653_1	has_surface_form	Department
+13653_1	part_of_entity	The Department Store
+13653_3	is_in_sentence	sentence_13653
+13653_3	ROOT	13653_3
+13653_3	has_surface_form	is
+13653_4	is_in_sentence	sentence_13653
+13653_4	det	13653_9
+13653_4	has_surface_form	a
+13653_9	is_in_sentence	sentence_13653
+13653_9	attr	13653_3
+13653_9	has_surface_form	film
+13653_5	is_in_sentence	sentence_13653
+13653_5	nummod	13653_9
+13653_5	has_surface_form	1920
+13653_6	is_in_sentence	sentence_13653
+13653_6	amod	13653_9
+13653_6	has_surface_form	British
+13653_7	is_in_sentence	sentence_13653
+13653_7	amod	13653_9
+13653_7	has_surface_form	silent
+13653_8	is_in_sentence	sentence_13653
+13653_8	compound	13653_9
+13653_8	has_surface_form	comedy
+13653_10	is_in_sentence	sentence_13653
+13653_10	acl	13653_9
+13653_10	has_surface_form	directed
+13653_11	is_in_sentence	sentence_13653
+13653_11	agent	13653_10
+13653_11	has_surface_form	by
+13653_12	is_in_sentence	sentence_13653
+13653_12	compound	13653_13
+13653_12	has_surface_form	Fred
+13653_12	part_of_entity	Fred Goodwins
+13653_13	is_in_sentence	sentence_13653
+13653_13	pobj	13653_11
+13653_13	has_surface_form	Goodwins
+13653_13	part_of_entity	Fred Goodwins
+13653_14	is_in_sentence	sentence_13653
+13653_14	cc	13653_10
+13653_14	has_surface_form	and
+13653_15	is_in_sentence	sentence_13653
+13653_15	conj	13653_10
+13653_15	has_surface_form	starring
+13653_16	is_in_sentence	sentence_13653
+13653_16	dobj	13653_15
+13653_16	has_surface_form	Goodwins
+13653_17	is_in_sentence	sentence_13653
+13653_17	punct	13653_16
+13653_17	has_surface_form	,
+13653_18	is_in_sentence	sentence_13653
+13653_18	compound	13653_19
+13653_18	has_surface_form	Gerald
+13653_19	is_in_sentence	sentence_13653
+13653_19	conj	13653_16
+13653_19	has_surface_form	Thorton
+13653_20	is_in_sentence	sentence_13653
+13653_20	cc	13653_19
+13653_20	has_surface_form	and
+13653_21	is_in_sentence	sentence_13653
+13653_21	compound	13653_22
+13653_21	has_surface_form	Andy
+13653_22	is_in_sentence	sentence_13653
+13653_22	conj	13653_19
+13653_22	has_surface_form	Hagen
+13653_23	is_in_sentence	sentence_13653
+13653_23	punct	13653_3
+13653_23	has_surface_form	.
+13653_24	is_in_sentence	sentence_13653
+13653_24	dep	13653_3
+13653_24	has_surface_form	
+The Department Store	surface_form	The Department Store
+The Department Store	movie-has-director	Fred Goodwins
+Fred Goodwins	surface_form	Fred Goodwins

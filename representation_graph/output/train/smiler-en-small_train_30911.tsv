@@ -1,0 +1,83 @@
+30910_0	is_in_sentence	sentence_30910
+30910_0	det	30910_2
+30910_0	has_surface_form	The
+30910_0	part_of_entity	The Wild Nation
+30910_2	is_in_sentence	sentence_30910
+30910_2	nsubj	30910_12
+30910_2	has_surface_form	Nation
+30910_2	part_of_entity	The Wild Nation
+30910_1	is_in_sentence	sentence_30910
+30910_1	compound	30910_2
+30910_1	has_surface_form	Wild
+30910_1	part_of_entity	The Wild Nation
+30910_12	is_in_sentence	sentence_30910
+30910_12	ROOT	30910_12
+30910_12	has_surface_form	is
+30910_3	is_in_sentence	sentence_30910
+30910_3	punct	30910_2
+30910_3	has_surface_form	(
+30910_4	is_in_sentence	sentence_30910
+30910_4	amod	30910_6
+30910_4	has_surface_form	original
+30910_6	is_in_sentence	sentence_30910
+30910_6	appos	30910_2
+30910_6	has_surface_form	title
+30910_5	is_in_sentence	sentence_30910
+30910_5	amod	30910_6
+30910_5	has_surface_form	French
+30910_7	is_in_sentence	sentence_30910
+30910_7	punct	30910_6
+30910_7	has_surface_form	:
+30910_8	is_in_sentence	sentence_30910
+30910_8	compound	30910_10
+30910_8	has_surface_form	La
+30910_10	is_in_sentence	sentence_30910
+30910_10	appos	30910_6
+30910_10	has_surface_form	Sauvage
+30910_9	is_in_sentence	sentence_30910
+30910_9	compound	30910_10
+30910_9	has_surface_form	Fête
+30910_11	is_in_sentence	sentence_30910
+30910_11	punct	30910_6
+30910_11	has_surface_form	)
+30910_13	is_in_sentence	sentence_30910
+30910_13	det	30910_18
+30910_13	has_surface_form	a
+30910_18	is_in_sentence	sentence_30910
+30910_18	attr	30910_12
+30910_18	has_surface_form	film
+30910_14	is_in_sentence	sentence_30910
+30910_14	nummod	30910_18
+30910_14	has_surface_form	1976
+30910_15	is_in_sentence	sentence_30910
+30910_15	amod	30910_18
+30910_15	has_surface_form	French
+30910_16	is_in_sentence	sentence_30910
+30910_16	compound	30910_17
+30910_16	has_surface_form	wildlife
+30910_17	is_in_sentence	sentence_30910
+30910_17	compound	30910_18
+30910_17	has_surface_form	documentary
+30910_19	is_in_sentence	sentence_30910
+30910_19	acl	30910_18
+30910_19	has_surface_form	directed
+30910_20	is_in_sentence	sentence_30910
+30910_20	agent	30910_19
+30910_20	has_surface_form	by
+30910_21	is_in_sentence	sentence_30910
+30910_21	compound	30910_22
+30910_21	has_surface_form	Frédéric
+30910_21	part_of_entity	Frédéric Rossif
+30910_22	is_in_sentence	sentence_30910
+30910_22	pobj	30910_20
+30910_22	has_surface_form	Rossif
+30910_22	part_of_entity	Frédéric Rossif
+30910_23	is_in_sentence	sentence_30910
+30910_23	punct	30910_12
+30910_23	has_surface_form	.
+30910_24	is_in_sentence	sentence_30910
+30910_24	dep	30910_12
+30910_24	has_surface_form	
+The Wild Nation	surface_form	The Wild Nation
+The Wild Nation	movie-has-director	Frédéric Rossif
+Frédéric Rossif	surface_form	Frédéric Rossif

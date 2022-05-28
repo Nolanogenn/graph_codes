@@ -1,0 +1,63 @@
+32764_0	is_in_sentence	sentence_32764
+32764_0	det	32764_1
+32764_0	has_surface_form	The
+32764_0	part_of_entity	The Woman Who Believed
+32764_1	is_in_sentence	sentence_32764
+32764_1	nsubj	32764_4
+32764_1	has_surface_form	Woman
+32764_1	part_of_entity	The Woman Who Believed
+32764_4	is_in_sentence	sentence_32764
+32764_4	ROOT	32764_4
+32764_4	has_surface_form	is
+32764_2	is_in_sentence	sentence_32764
+32764_2	nsubj	32764_3
+32764_2	has_surface_form	Who
+32764_2	part_of_entity	The Woman Who Believed
+32764_3	is_in_sentence	sentence_32764
+32764_3	relcl	32764_1
+32764_3	has_surface_form	Believed
+32764_3	part_of_entity	The Woman Who Believed
+32764_5	is_in_sentence	sentence_32764
+32764_5	det	32764_10
+32764_5	has_surface_form	a
+32764_10	is_in_sentence	sentence_32764
+32764_10	attr	32764_4
+32764_10	has_surface_form	film
+32764_6	is_in_sentence	sentence_32764
+32764_6	nummod	32764_10
+32764_6	has_surface_form	1922
+32764_7	is_in_sentence	sentence_32764
+32764_7	amod	32764_10
+32764_7	has_surface_form	American
+32764_8	is_in_sentence	sentence_32764
+32764_8	amod	32764_10
+32764_8	has_surface_form	silent
+32764_9	is_in_sentence	sentence_32764
+32764_9	compound	32764_10
+32764_9	has_surface_form	drama
+32764_11	is_in_sentence	sentence_32764
+32764_11	punct	32764_10
+32764_11	has_surface_form	,
+32764_12	is_in_sentence	sentence_32764
+32764_12	acl	32764_10
+32764_12	has_surface_form	directed
+32764_13	is_in_sentence	sentence_32764
+32764_13	agent	32764_12
+32764_13	has_surface_form	by
+32764_14	is_in_sentence	sentence_32764
+32764_14	compound	32764_15
+32764_14	has_surface_form	Jack
+32764_14	part_of_entity	Jack Harvey
+32764_15	is_in_sentence	sentence_32764
+32764_15	pobj	32764_13
+32764_15	has_surface_form	Harvey
+32764_15	part_of_entity	Jack Harvey
+32764_16	is_in_sentence	sentence_32764
+32764_16	punct	32764_4
+32764_16	has_surface_form	.
+32764_17	is_in_sentence	sentence_32764
+32764_17	dep	32764_4
+32764_17	has_surface_form	
+The Woman Who Believed	surface_form	The Woman Who Believed
+The Woman Who Believed	movie-has-director	Jack Harvey
+Jack Harvey	surface_form	Jack Harvey

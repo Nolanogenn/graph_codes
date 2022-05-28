@@ -1,0 +1,94 @@
+31214_0	is_in_sentence	sentence_31214
+31214_0	det	31214_3
+31214_0	has_surface_form	An
+31214_3	is_in_sentence	sentence_31214
+31214_3	nsubj	31214_4
+31214_3	has_surface_form	deer
+31214_3	part_of_entity	leaf deer
+31214_1	is_in_sentence	sentence_31214
+31214_1	compound	31214_2
+31214_1	has_surface_form	adult
+31214_2	is_in_sentence	sentence_31214
+31214_2	compound	31214_3
+31214_2	has_surface_form	leaf
+31214_2	part_of_entity	leaf deer
+31214_4	is_in_sentence	sentence_31214
+31214_4	ROOT	31214_4
+31214_4	has_surface_form	stands
+31214_5	is_in_sentence	sentence_31214
+31214_5	prep	31214_4
+31214_5	has_surface_form	at
+31214_6	is_in_sentence	sentence_31214
+31214_6	advmod	31214_7
+31214_6	has_surface_form	just
+31214_7	is_in_sentence	sentence_31214
+31214_7	nummod	31214_8
+31214_7	has_surface_form	20
+31214_7	part_of_entity	20 inches
+31214_8	is_in_sentence	sentence_31214
+31214_8	pobj	31214_5
+31214_8	has_surface_form	inches
+31214_8	part_of_entity	20 inches
+31214_9	is_in_sentence	sentence_31214
+31214_9	punct	31214_8
+31214_9	has_surface_form	(
+31214_10	is_in_sentence	sentence_31214
+31214_10	nummod	31214_11
+31214_10	has_surface_form	50
+31214_11	is_in_sentence	sentence_31214
+31214_11	appos	31214_8
+31214_11	has_surface_form	cm
+31214_12	is_in_sentence	sentence_31214
+31214_12	punct	31214_8
+31214_12	has_surface_form	)
+31214_13	is_in_sentence	sentence_31214
+31214_13	amod	31214_8
+31214_13	has_surface_form	high
+31214_14	is_in_sentence	sentence_31214
+31214_14	prep	31214_13
+31214_14	has_surface_form	at
+31214_15	is_in_sentence	sentence_31214
+31214_15	det	31214_16
+31214_15	has_surface_form	the
+31214_16	is_in_sentence	sentence_31214
+31214_16	pobj	31214_14
+31214_16	has_surface_form	shoulder
+31214_17	is_in_sentence	sentence_31214
+31214_17	cc	31214_4
+31214_17	has_surface_form	and
+31214_18	is_in_sentence	sentence_31214
+31214_18	conj	31214_4
+31214_18	has_surface_form	weighs
+31214_19	is_in_sentence	sentence_31214
+31214_19	amod	31214_21
+31214_19	has_surface_form	less
+31214_21	is_in_sentence	sentence_31214
+31214_21	nummod	31214_22
+31214_21	has_surface_form	25
+31214_20	is_in_sentence	sentence_31214
+31214_20	quantmod	31214_21
+31214_20	has_surface_form	than
+31214_22	is_in_sentence	sentence_31214
+31214_22	dobj	31214_18
+31214_22	has_surface_form	pounds
+31214_23	is_in_sentence	sentence_31214
+31214_23	punct	31214_22
+31214_23	has_surface_form	(
+31214_24	is_in_sentence	sentence_31214
+31214_24	nummod	31214_25
+31214_24	has_surface_form	11
+31214_25	is_in_sentence	sentence_31214
+31214_25	appos	31214_22
+31214_25	has_surface_form	kg
+31214_26	is_in_sentence	sentence_31214
+31214_26	punct	31214_22
+31214_26	has_surface_form	)
+31214_27	is_in_sentence	sentence_31214
+31214_27	punct	31214_4
+31214_27	has_surface_form	.
+31214_28	is_in_sentence	sentence_31214
+31214_28	dep	31214_28
+31214_28	has_surface_form	
+leaf deer	surface_form	leaf deer
+leaf deer	has-height	20 inches
+20 inches	surface_form	20 inches

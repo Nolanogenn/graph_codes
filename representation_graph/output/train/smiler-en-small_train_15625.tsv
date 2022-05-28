@@ -1,0 +1,56 @@
+15624_0	is_in_sentence	sentence_15624
+15624_0	compound	15624_1
+15624_0	has_surface_form	Gateshead
+15624_0	part_of_entity	Gateshead College
+15624_1	is_in_sentence	sentence_15624
+15624_1	nsubj	15624_2
+15624_1	has_surface_form	College
+15624_1	part_of_entity	Gateshead College
+15624_2	is_in_sentence	sentence_15624
+15624_2	ROOT	15624_2
+15624_2	has_surface_form	is
+15624_3	is_in_sentence	sentence_15624
+15624_3	det	15624_6
+15624_3	has_surface_form	a
+15624_6	is_in_sentence	sentence_15624
+15624_6	attr	15624_2
+15624_6	has_surface_form	college
+15624_6	part_of_entity	further education college
+15624_4	is_in_sentence	sentence_15624
+15624_4	amod	15624_6
+15624_4	has_surface_form	further
+15624_4	part_of_entity	further education college
+15624_5	is_in_sentence	sentence_15624
+15624_5	compound	15624_6
+15624_5	has_surface_form	education
+15624_5	part_of_entity	further education college
+15624_7	is_in_sentence	sentence_15624
+15624_7	prep	15624_6
+15624_7	has_surface_form	in
+15624_8	is_in_sentence	sentence_15624
+15624_8	det	15624_9
+15624_8	has_surface_form	the
+15624_9	is_in_sentence	sentence_15624
+15624_9	pobj	15624_7
+15624_9	has_surface_form	town
+15624_10	is_in_sentence	sentence_15624
+15624_10	prep	15624_9
+15624_10	has_surface_form	of
+15624_11	is_in_sentence	sentence_15624
+15624_11	pobj	15624_10
+15624_11	has_surface_form	Gateshead
+15624_12	is_in_sentence	sentence_15624
+15624_12	punct	15624_11
+15624_12	has_surface_form	,
+15624_13	is_in_sentence	sentence_15624
+15624_13	appos	15624_11
+15624_13	has_surface_form	England
+15624_14	is_in_sentence	sentence_15624
+15624_14	punct	15624_2
+15624_14	has_surface_form	.
+15624_15	is_in_sentence	sentence_15624
+15624_15	dep	15624_2
+15624_15	has_surface_form	
+Gateshead College	surface_form	Gateshead College
+Gateshead College	has-type	further education college
+further education college	surface_form	further education college

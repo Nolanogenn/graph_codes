@@ -1,0 +1,94 @@
+1934_0	is_in_sentence	sentence_1934
+1934_0	compound	1934_1
+1934_0	has_surface_form	William
+1934_0	part_of_entity	William Challee
+1934_1	is_in_sentence	sentence_1934
+1934_1	nsubj	1934_2
+1934_1	has_surface_form	Challee
+1934_1	part_of_entity	William Challee
+1934_2	is_in_sentence	sentence_1934
+1934_2	ROOT	1934_2
+1934_2	has_surface_form	appeared
+1934_3	is_in_sentence	sentence_1934
+1934_3	prep	1934_2
+1934_3	has_surface_form	on
+1934_4	is_in_sentence	sentence_1934
+1934_4	pobj	1934_3
+1934_4	has_surface_form	Broadway
+1934_5	is_in_sentence	sentence_1934
+1934_5	prep	1934_2
+1934_5	has_surface_form	by
+1934_6	is_in_sentence	sentence_1934
+1934_6	pobj	1934_5
+1934_6	has_surface_form	1926
+1934_7	is_in_sentence	sentence_1934
+1934_7	cc	1934_5
+1934_7	has_surface_form	and
+1934_8	is_in_sentence	sentence_1934
+1934_8	conj	1934_5
+1934_8	has_surface_form	by
+1934_9	is_in_sentence	sentence_1934
+1934_9	pobj	1934_8
+1934_9	has_surface_form	1931
+1934_10	is_in_sentence	sentence_1934
+1934_10	prep	1934_2
+1934_10	has_surface_form	in
+1934_11	is_in_sentence	sentence_1934
+1934_11	amod	1934_14
+1934_11	has_surface_form	early
+1934_14	is_in_sentence	sentence_1934
+1934_14	pobj	1934_10
+1934_14	has_surface_form	productions
+1934_12	is_in_sentence	sentence_1934
+1934_12	compound	1934_13
+1934_12	has_surface_form	Group
+1934_13	is_in_sentence	sentence_1934
+1934_13	compound	1934_14
+1934_13	has_surface_form	Theatre
+1934_15	is_in_sentence	sentence_1934
+1934_15	punct	1934_2
+1934_15	has_surface_form	.
+1934_16	is_in_sentence	sentence_1934
+1934_16	nsubj	1934_17
+1934_16	has_surface_form	He
+1934_17	is_in_sentence	sentence_1934
+1934_17	ccomp	1934_26
+1934_17	has_surface_form	married
+1934_26	is_in_sentence	sentence_1934
+1934_26	ROOT	1934_26
+1934_26	has_surface_form	divorced
+1934_18	is_in_sentence	sentence_1934
+1934_18	compound	1934_20
+1934_18	has_surface_form	actress
+1934_20	is_in_sentence	sentence_1934
+1934_20	dobj	1934_17
+1934_20	has_surface_form	Nelson
+1934_20	part_of_entity	Ruth Nelson
+1934_19	is_in_sentence	sentence_1934
+1934_19	compound	1934_20
+1934_19	has_surface_form	Ruth
+1934_19	part_of_entity	Ruth Nelson
+1934_21	is_in_sentence	sentence_1934
+1934_21	prep	1934_17
+1934_21	has_surface_form	in
+1934_22	is_in_sentence	sentence_1934
+1934_22	pobj	1934_21
+1934_22	has_surface_form	1931
+1934_23	is_in_sentence	sentence_1934
+1934_23	punct	1934_26
+1934_23	has_surface_form	;
+1934_24	is_in_sentence	sentence_1934
+1934_24	nsubj	1934_26
+1934_24	has_surface_form	they
+1934_25	is_in_sentence	sentence_1934
+1934_25	advmod	1934_26
+1934_25	has_surface_form	later
+1934_27	is_in_sentence	sentence_1934
+1934_27	punct	1934_26
+1934_27	has_surface_form	.
+1934_28	is_in_sentence	sentence_1934
+1934_28	dep	1934_28
+1934_28	has_surface_form	
+William Challee	surface_form	William Challee
+William Challee	has-spouse	Ruth Nelson
+Ruth Nelson	surface_form	Ruth Nelson

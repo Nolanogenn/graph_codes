@@ -1,0 +1,59 @@
+7403_0	is_in_sentence	sentence_7403
+7403_0	compound	7403_1
+7403_0	has_surface_form	Barry
+7403_0	part_of_entity	Barry Boom
+7403_1	is_in_sentence	sentence_7403
+7403_1	nsubj	7403_7
+7403_1	has_surface_form	Boom
+7403_1	part_of_entity	Barry Boom
+7403_7	is_in_sentence	sentence_7403
+7403_7	ROOT	7403_7
+7403_7	has_surface_form	is
+7403_2	is_in_sentence	sentence_7403
+7403_2	punct	7403_3
+7403_2	has_surface_form	(
+7403_3	is_in_sentence	sentence_7403
+7403_3	relcl	7403_1
+7403_3	has_surface_form	born
+7403_4	is_in_sentence	sentence_7403
+7403_4	compound	7403_5
+7403_4	has_surface_form	Paul
+7403_5	is_in_sentence	sentence_7403
+7403_5	dobj	7403_3
+7403_5	has_surface_form	Robinson
+7403_6	is_in_sentence	sentence_7403
+7403_6	punct	7403_1
+7403_6	has_surface_form	)
+7403_8	is_in_sentence	sentence_7403
+7403_8	det	7403_10
+7403_8	has_surface_form	a
+7403_10	is_in_sentence	sentence_7403
+7403_10	attr	7403_7
+7403_10	has_surface_form	singer
+7403_9	is_in_sentence	sentence_7403
+7403_9	compound	7403_10
+7403_9	is_entity	reggae
+reggae	surface_form	reggae
+7403_11	is_in_sentence	sentence_7403
+7403_11	cc	7403_10
+7403_11	has_surface_form	and
+7403_12	is_in_sentence	sentence_7403
+7403_12	compound	7403_13
+7403_12	has_surface_form	record
+7403_13	is_in_sentence	sentence_7403
+7403_13	conj	7403_10
+7403_13	has_surface_form	producer
+7403_14	is_in_sentence	sentence_7403
+7403_14	prep	7403_10
+7403_14	has_surface_form	from
+7403_15	is_in_sentence	sentence_7403
+7403_15	pobj	7403_14
+7403_15	has_surface_form	London
+7403_16	is_in_sentence	sentence_7403
+7403_16	punct	7403_7
+7403_16	has_surface_form	.
+7403_17	is_in_sentence	sentence_7403
+7403_17	dep	7403_17
+7403_17	has_surface_form	
+Barry Boom	surface_form	Barry Boom
+Barry Boom	has-genre	reggae

@@ -1,0 +1,91 @@
+31969_0	is_in_sentence	sentence_31969
+31969_0	compound	31969_2
+31969_0	has_surface_form	Lady
+31969_2	is_in_sentence	sentence_31969
+31969_2	nsubj	31969_8
+31969_2	has_surface_form	Campbell
+31969_2	part_of_entity	Jemima Campbell
+31969_1	is_in_sentence	sentence_31969
+31969_1	compound	31969_2
+31969_1	has_surface_form	Jemima
+31969_1	part_of_entity	Jemima Campbell
+31969_8	is_in_sentence	sentence_31969
+31969_8	ROOT	31969_8
+31969_8	has_surface_form	succeeded
+31969_3	is_in_sentence	sentence_31969
+31969_3	punct	31969_2
+31969_3	has_surface_form	(
+31969_4	is_in_sentence	sentence_31969
+31969_4	appos	31969_2
+31969_4	has_surface_form	1723
+31969_5	is_in_sentence	sentence_31969
+31969_5	punct	31969_6
+31969_5	has_surface_form	-
+31969_6	is_in_sentence	sentence_31969
+31969_6	prep	31969_4
+31969_6	has_surface_form	1797
+31969_7	is_in_sentence	sentence_31969
+31969_7	punct	31969_2
+31969_7	has_surface_form	)
+31969_9	is_in_sentence	sentence_31969
+31969_9	prep	31969_8
+31969_9	has_surface_form	as
+31969_10	is_in_sentence	sentence_31969
+31969_10	compound	31969_11
+31969_10	has_surface_form	Marchioness
+31969_11	is_in_sentence	sentence_31969
+31969_11	pobj	31969_9
+31969_11	has_surface_form	Grey
+31969_12	is_in_sentence	sentence_31969
+31969_12	punct	31969_8
+31969_12	has_surface_form	.
+31969_13	is_in_sentence	sentence_31969
+31969_13	prep	31969_22
+31969_13	has_surface_form	In
+31969_22	is_in_sentence	sentence_31969
+31969_22	ROOT	31969_22
+31969_22	has_surface_form	created
+31969_14	is_in_sentence	sentence_31969
+31969_14	pobj	31969_13
+31969_14	has_surface_form	1816
+31969_15	is_in_sentence	sentence_31969
+31969_15	poss	31969_17
+31969_15	has_surface_form	her
+31969_17	is_in_sentence	sentence_31969
+31969_17	nsubjpass	31969_22
+31969_17	has_surface_form	daughter
+31969_16	is_in_sentence	sentence_31969
+31969_16	amod	31969_17
+31969_16	has_surface_form	elder
+31969_18	is_in_sentence	sentence_31969
+31969_18	compound	31969_20
+31969_18	has_surface_form	Lady
+31969_20	is_in_sentence	sentence_31969
+31969_20	appos	31969_17
+31969_20	has_surface_form	Yorke
+31969_20	part_of_entity	Amabel Yorke
+31969_19	is_in_sentence	sentence_31969
+31969_19	compound	31969_20
+31969_19	has_surface_form	Amabel
+31969_19	part_of_entity	Amabel Yorke
+31969_21	is_in_sentence	sentence_31969
+31969_21	auxpass	31969_22
+31969_21	has_surface_form	was
+31969_23	is_in_sentence	sentence_31969
+31969_23	compound	31969_25
+31969_23	has_surface_form	Countess
+31969_25	is_in_sentence	sentence_31969
+31969_25	oprd	31969_22
+31969_25	has_surface_form	Grey
+31969_24	is_in_sentence	sentence_31969
+31969_24	nmod	31969_25
+31969_24	has_surface_form	de
+31969_26	is_in_sentence	sentence_31969
+31969_26	punct	31969_22
+31969_26	has_surface_form	.
+31969_27	is_in_sentence	sentence_31969
+31969_27	dep	31969_27
+31969_27	has_surface_form	
+Jemima Campbell	surface_form	Jemima Campbell
+Jemima Campbell	has-child	Amabel Yorke
+Amabel Yorke	surface_form	Amabel Yorke

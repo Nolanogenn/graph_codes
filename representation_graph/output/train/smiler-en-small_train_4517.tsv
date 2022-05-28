@@ -1,0 +1,75 @@
+4516_0	is_in_sentence	sentence_4516
+4516_0	compound	4516_1
+4516_0	has_surface_form	Emir
+4516_0	part_of_entity	Emir Abdelkader University
+4516_1	is_in_sentence	sentence_4516
+4516_1	compound	4516_2
+4516_1	has_surface_form	Abdelkader
+4516_1	part_of_entity	Emir Abdelkader University
+4516_2	is_in_sentence	sentence_4516
+4516_2	nsubj	4516_16
+4516_2	has_surface_form	University
+4516_2	part_of_entity	Emir Abdelkader University
+4516_16	is_in_sentence	sentence_4516
+4516_16	ROOT	4516_16
+4516_16	has_surface_form	is
+4516_3	is_in_sentence	sentence_4516
+4516_3	prep	4516_2
+4516_3	has_surface_form	of
+4516_4	is_in_sentence	sentence_4516
+4516_4	compound	4516_5
+4516_4	has_surface_form	Islamic
+4516_5	is_in_sentence	sentence_4516
+4516_5	pobj	4516_3
+4516_5	has_surface_form	Sciences
+4516_6	is_in_sentence	sentence_4516
+4516_6	punct	4516_2
+4516_6	has_surface_form	(
+4516_7	is_in_sentence	sentence_4516
+4516_7	appos	4516_2
+4516_7	has_surface_form	Arabic
+4516_8	is_in_sentence	sentence_4516
+4516_8	punct	4516_7
+4516_8	has_surface_form	:
+4516_9	is_in_sentence	sentence_4516
+4516_9	appos	4516_7
+4516_9	has_surface_form	جامعة
+4516_10	is_in_sentence	sentence_4516
+4516_10	compound	4516_11
+4516_10	has_surface_form	الأمير
+4516_11	is_in_sentence	sentence_4516
+4516_11	compound	4516_14
+4516_11	has_surface_form	عبد
+4516_14	is_in_sentence	sentence_4516
+4516_14	appos	4516_9
+4516_14	has_surface_form	الإسلامية
+4516_12	is_in_sentence	sentence_4516
+4516_12	compound	4516_14
+4516_12	has_surface_form	القادر
+4516_13	is_in_sentence	sentence_4516
+4516_13	compound	4516_14
+4516_13	has_surface_form	للعلوم
+4516_15	is_in_sentence	sentence_4516
+4516_15	punct	4516_7
+4516_15	has_surface_form	)
+4516_17	is_in_sentence	sentence_4516
+4516_17	det	4516_18
+4516_17	has_surface_form	a
+4516_18	is_in_sentence	sentence_4516
+4516_18	attr	4516_16
+4516_18	has_surface_form	university
+4516_19	is_in_sentence	sentence_4516
+4516_19	prep	4516_18
+4516_19	has_surface_form	in
+4516_20	is_in_sentence	sentence_4516
+4516_20	pobj	4516_19
+4516_20	is_entity	Algeria
+Algeria	surface_form	Algeria
+4516_21	is_in_sentence	sentence_4516
+4516_21	punct	4516_16
+4516_21	has_surface_form	.
+4516_22	is_in_sentence	sentence_4516
+4516_22	dep	4516_22
+4516_22	has_surface_form	
+Emir Abdelkader University	surface_form	Emir Abdelkader University
+Emir Abdelkader University	is-where	Algeria

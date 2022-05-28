@@ -1,0 +1,70 @@
+32412_0	is_in_sentence	sentence_32412
+32412_0	compound	32412_1
+32412_0	has_surface_form	Dick
+32412_0	part_of_entity	Dick Sheridan
+32412_1	is_in_sentence	sentence_32412
+32412_1	nsubj	32412_9
+32412_1	has_surface_form	Sheridan
+32412_1	part_of_entity	Dick Sheridan
+32412_9	is_in_sentence	sentence_32412
+32412_9	ROOT	32412_9
+32412_9	has_surface_form	is
+32412_2	is_in_sentence	sentence_32412
+32412_2	punct	32412_1
+32412_2	has_surface_form	(
+32412_3	is_in_sentence	sentence_32412
+32412_3	acl	32412_1
+32412_3	has_surface_form	born
+32412_4	is_in_sentence	sentence_32412
+32412_4	npadvmod	32412_3
+32412_4	has_surface_form	August
+32412_5	is_in_sentence	sentence_32412
+32412_5	nummod	32412_4
+32412_5	has_surface_form	9
+32412_6	is_in_sentence	sentence_32412
+32412_6	punct	32412_4
+32412_6	has_surface_form	,
+32412_7	is_in_sentence	sentence_32412
+32412_7	nummod	32412_4
+32412_7	has_surface_form	1941
+32412_8	is_in_sentence	sentence_32412
+32412_8	punct	32412_1
+32412_8	has_surface_form	)
+32412_10	is_in_sentence	sentence_32412
+32412_10	det	32412_14
+32412_10	has_surface_form	a
+32412_14	is_in_sentence	sentence_32412
+32412_14	nmod	32412_18
+32412_14	has_surface_form	coach
+32412_14	part_of_entity	football coach
+32412_11	is_in_sentence	sentence_32412
+32412_11	amod	32412_14
+32412_11	has_surface_form	former
+32412_12	is_in_sentence	sentence_32412
+32412_12	amod	32412_14
+32412_12	has_surface_form	American
+32412_13	is_in_sentence	sentence_32412
+32412_13	nmod	32412_14
+32412_13	has_surface_form	football
+32412_13	part_of_entity	football coach
+32412_18	is_in_sentence	sentence_32412
+32412_18	attr	32412_9
+32412_18	has_surface_form	administrator
+32412_15	is_in_sentence	sentence_32412
+32412_15	cc	32412_14
+32412_15	has_surface_form	and
+32412_16	is_in_sentence	sentence_32412
+32412_16	conj	32412_14
+32412_16	has_surface_form	college
+32412_17	is_in_sentence	sentence_32412
+32412_17	compound	32412_18
+32412_17	has_surface_form	athletics
+32412_19	is_in_sentence	sentence_32412
+32412_19	punct	32412_9
+32412_19	has_surface_form	.
+32412_20	is_in_sentence	sentence_32412
+32412_20	dep	32412_20
+32412_20	has_surface_form	
+Dick Sheridan	surface_form	Dick Sheridan
+Dick Sheridan	has-type	football coach
+football coach	surface_form	football coach

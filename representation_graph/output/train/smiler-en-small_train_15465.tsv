@@ -1,0 +1,77 @@
+15464_0	is_in_sentence	sentence_15464
+15464_0	det	15464_1
+15464_0	has_surface_form	The
+15464_1	is_in_sentence	sentence_15464
+15464_1	nsubj	15464_2
+15464_1	has_surface_form	company
+15464_2	is_in_sentence	sentence_15464
+15464_2	ROOT	15464_2
+15464_2	has_surface_form	produced
+15464_3	is_in_sentence	sentence_15464
+15464_3	det	15464_9
+15464_3	has_surface_form	the
+15464_9	is_in_sentence	sentence_15464
+15464_9	dobj	15464_2
+15464_9	has_surface_form	radio
+15464_9	part_of_entity	AM SCR-536 radio
+15464_4	is_in_sentence	sentence_15464
+15464_4	npadvmod	15464_6
+15464_4	has_surface_form	hand
+15464_6	is_in_sentence	sentence_15464
+15464_6	amod	15464_9
+15464_6	has_surface_form	held
+15464_5	is_in_sentence	sentence_15464
+15464_5	punct	15464_6
+15464_5	has_surface_form	-
+15464_7	is_in_sentence	sentence_15464
+15464_7	compound	15464_9
+15464_7	has_surface_form	AM
+15464_7	part_of_entity	AM SCR-536 radio
+15464_8	is_in_sentence	sentence_15464
+15464_8	compound	15464_9
+15464_8	has_surface_form	SCR-536
+15464_8	part_of_entity	AM SCR-536 radio
+15464_10	is_in_sentence	sentence_15464
+15464_10	prep	15464_2
+15464_10	has_surface_form	during
+15464_11	is_in_sentence	sentence_15464
+15464_11	compound	15464_13
+15464_11	has_surface_form	World
+15464_11	part_of_entity	World War
+15464_13	is_in_sentence	sentence_15464
+15464_13	pobj	15464_10
+15464_13	has_surface_form	II
+15464_12	is_in_sentence	sentence_15464
+15464_12	compound	15464_13
+15464_12	has_surface_form	War
+15464_12	part_of_entity	World War
+15464_14	is_in_sentence	sentence_15464
+15464_14	punct	15464_13
+15464_14	has_surface_form	,
+15464_15	is_in_sentence	sentence_15464
+15464_15	nsubj	15464_16
+15464_15	has_surface_form	which
+15464_16	is_in_sentence	sentence_15464
+15464_16	relcl	15464_13
+15464_16	has_surface_form	was
+15464_17	is_in_sentence	sentence_15464
+15464_17	acomp	15464_16
+15464_17	has_surface_form	vital
+15464_18	is_in_sentence	sentence_15464
+15464_18	prep	15464_17
+15464_18	has_surface_form	to
+15464_19	is_in_sentence	sentence_15464
+15464_19	amod	15464_20
+15464_19	has_surface_form	Allied
+15464_20	is_in_sentence	sentence_15464
+15464_20	pobj	15464_18
+15464_20	has_surface_form	communication
+15464_21	is_in_sentence	sentence_15464
+15464_21	punct	15464_2
+15464_21	has_surface_form	.
+15464_22	is_in_sentence	sentence_15464
+15464_22	dep	15464_22
+15464_22	has_surface_form	
+AM SCR-536 radio	surface_form	AM SCR-536 radio
+AM SCR-536 radio	no_relation	World War
+World War	surface_form	World War

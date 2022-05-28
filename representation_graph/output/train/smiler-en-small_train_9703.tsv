@@ -1,0 +1,88 @@
+9702_0	is_in_sentence	sentence_9702
+9702_0	compound	9702_1
+9702_0	has_surface_form	Előd
+9702_0	part_of_entity	Előd Novák
+9702_1	is_in_sentence	sentence_9702
+9702_1	nsubj	9702_8
+9702_1	has_surface_form	Novák
+9702_1	part_of_entity	Előd Novák
+9702_8	is_in_sentence	sentence_9702
+9702_8	ROOT	9702_8
+9702_8	has_surface_form	is
+9702_2	is_in_sentence	sentence_9702
+9702_2	punct	9702_3
+9702_2	has_surface_form	(
+9702_3	is_in_sentence	sentence_9702
+9702_3	parataxis	9702_1
+9702_3	has_surface_form	born
+9702_4	is_in_sentence	sentence_9702
+9702_4	nummod	9702_5
+9702_4	has_surface_form	25
+9702_5	is_in_sentence	sentence_9702
+9702_5	npadvmod	9702_3
+9702_5	has_surface_form	April
+9702_6	is_in_sentence	sentence_9702
+9702_6	nummod	9702_5
+9702_6	has_surface_form	1980
+9702_7	is_in_sentence	sentence_9702
+9702_7	punct	9702_1
+9702_7	has_surface_form	)
+9702_9	is_in_sentence	sentence_9702
+9702_9	det	9702_11
+9702_9	has_surface_form	a
+9702_11	is_in_sentence	sentence_9702
+9702_11	attr	9702_8
+9702_11	has_surface_form	politician
+9702_10	is_in_sentence	sentence_9702
+9702_10	amod	9702_11
+9702_10	has_surface_form	Hungarian
+9702_12	is_in_sentence	sentence_9702
+9702_12	punct	9702_8
+9702_12	has_surface_form	.
+9702_13	is_in_sentence	sentence_9702
+9702_13	poss	9702_14
+9702_13	has_surface_form	His
+9702_14	is_in_sentence	sentence_9702
+9702_14	nsubj	9702_15
+9702_14	has_surface_form	wife
+9702_15	is_in_sentence	sentence_9702
+9702_15	ROOT	9702_15
+9702_15	has_surface_form	is
+9702_16	is_in_sentence	sentence_9702
+9702_16	compound	9702_17
+9702_16	has_surface_form	Dóra
+9702_16	part_of_entity	Dóra Dúró
+9702_17	is_in_sentence	sentence_9702
+9702_17	attr	9702_15
+9702_17	has_surface_form	Dúró
+9702_17	part_of_entity	Dóra Dúró
+9702_18	is_in_sentence	sentence_9702
+9702_18	punct	9702_17
+9702_18	has_surface_form	,
+9702_19	is_in_sentence	sentence_9702
+9702_19	det	9702_21
+9702_19	has_surface_form	a
+9702_21	is_in_sentence	sentence_9702
+9702_21	appos	9702_17
+9702_21	has_surface_form	spokesperson
+9702_20	is_in_sentence	sentence_9702
+9702_20	amod	9702_21
+9702_20	has_surface_form	former
+9702_22	is_in_sentence	sentence_9702
+9702_22	prep	9702_21
+9702_22	has_surface_form	for
+9702_23	is_in_sentence	sentence_9702
+9702_23	det	9702_24
+9702_23	has_surface_form	the
+9702_24	is_in_sentence	sentence_9702
+9702_24	pobj	9702_22
+9702_24	has_surface_form	party
+9702_25	is_in_sentence	sentence_9702
+9702_25	punct	9702_15
+9702_25	has_surface_form	.
+9702_26	is_in_sentence	sentence_9702
+9702_26	dep	9702_26
+9702_26	has_surface_form	
+Előd Novák	surface_form	Előd Novák
+Előd Novák	has-spouse	Dóra Dúró
+Dóra Dúró	surface_form	Dóra Dúró

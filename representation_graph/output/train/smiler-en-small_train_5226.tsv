@@ -1,0 +1,58 @@
+5225_0	is_in_sentence	sentence_5225
+5225_0	compound	5225_1
+5225_0	has_surface_form	Javed
+5225_0	part_of_entity	Javed Ali
+5225_1	is_in_sentence	sentence_5225
+5225_1	nsubj	5225_2
+5225_1	has_surface_form	Ali
+5225_1	part_of_entity	Javed Ali
+5225_2	is_in_sentence	sentence_5225
+5225_2	ROOT	5225_2
+5225_2	has_surface_form	is
+5225_3	is_in_sentence	sentence_5225
+5225_3	det	5225_6
+5225_3	has_surface_form	an
+5225_6	is_in_sentence	sentence_5225
+5225_6	attr	5225_2
+5225_6	has_surface_form	singer
+5225_6	part_of_entity	playback singer
+5225_4	is_in_sentence	sentence_5225
+5225_4	amod	5225_6
+5225_4	has_surface_form	Indian
+5225_5	is_in_sentence	sentence_5225
+5225_5	compound	5225_6
+5225_5	has_surface_form	playback
+5225_5	part_of_entity	playback singer
+5225_7	is_in_sentence	sentence_5225
+5225_7	nsubj	5225_9
+5225_7	has_surface_form	who
+5225_9	is_in_sentence	sentence_5225
+5225_9	relcl	5225_6
+5225_9	has_surface_form	sings
+5225_8	is_in_sentence	sentence_5225
+5225_8	advmod	5225_9
+5225_8	has_surface_form	predominantly
+5225_10	is_in_sentence	sentence_5225
+5225_10	prep	5225_9
+5225_10	has_surface_form	in
+5225_11	is_in_sentence	sentence_5225
+5225_11	compound	5225_12
+5225_11	has_surface_form	Hindi
+5225_12	is_in_sentence	sentence_5225
+5225_12	compound	5225_14
+5225_12	has_surface_form	language
+5225_14	is_in_sentence	sentence_5225
+5225_14	pobj	5225_10
+5225_14	has_surface_form	films
+5225_13	is_in_sentence	sentence_5225
+5225_13	compound	5225_14
+5225_13	has_surface_form	Bollywood
+5225_15	is_in_sentence	sentence_5225
+5225_15	punct	5225_2
+5225_15	has_surface_form	.
+5225_16	is_in_sentence	sentence_5225
+5225_16	dep	5225_16
+5225_16	has_surface_form	
+Javed Ali	surface_form	Javed Ali
+Javed Ali	has-genre	playback singer
+playback singer	surface_form	playback singer

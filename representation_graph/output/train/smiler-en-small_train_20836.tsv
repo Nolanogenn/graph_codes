@@ -1,0 +1,74 @@
+20835_0	is_in_sentence	sentence_20835
+20835_0	compound	20835_2
+20835_0	has_surface_form	Piano
+20835_0	part_of_entity	Piano Piano Kid
+20835_2	is_in_sentence	sentence_20835
+20835_2	nsubj	20835_10
+20835_2	has_surface_form	Kid
+20835_2	part_of_entity	Piano Piano Kid
+20835_1	is_in_sentence	sentence_20835
+20835_1	compound	20835_2
+20835_1	has_surface_form	Piano
+20835_1	part_of_entity	Piano Piano Kid
+20835_10	is_in_sentence	sentence_20835
+20835_10	ROOT	20835_10
+20835_10	has_surface_form	is
+20835_3	is_in_sentence	sentence_20835
+20835_3	punct	20835_4
+20835_3	has_surface_form	(
+20835_4	is_in_sentence	sentence_20835
+20835_4	appos	20835_2
+20835_4	has_surface_form	Turkish
+20835_5	is_in_sentence	sentence_20835
+20835_5	punct	20835_4
+20835_5	has_surface_form	:
+20835_6	is_in_sentence	sentence_20835
+20835_6	compound	20835_8
+20835_6	has_surface_form	Piano
+20835_8	is_in_sentence	sentence_20835
+20835_8	appos	20835_4
+20835_8	has_surface_form	Bacaksız
+20835_7	is_in_sentence	sentence_20835
+20835_7	compound	20835_8
+20835_7	has_surface_form	Piano
+20835_9	is_in_sentence	sentence_20835
+20835_9	punct	20835_4
+20835_9	has_surface_form	)
+20835_11	is_in_sentence	sentence_20835
+20835_11	det	20835_15
+20835_11	has_surface_form	a
+20835_15	is_in_sentence	sentence_20835
+20835_15	attr	20835_10
+20835_15	has_surface_form	film
+20835_12	is_in_sentence	sentence_20835
+20835_12	nummod	20835_15
+20835_12	has_surface_form	1991
+20835_13	is_in_sentence	sentence_20835
+20835_13	amod	20835_15
+20835_13	has_surface_form	Turkish
+20835_14	is_in_sentence	sentence_20835
+20835_14	compound	20835_15
+20835_14	has_surface_form	drama
+20835_16	is_in_sentence	sentence_20835
+20835_16	acl	20835_15
+20835_16	has_surface_form	directed
+20835_17	is_in_sentence	sentence_20835
+20835_17	agent	20835_16
+20835_17	has_surface_form	by
+20835_18	is_in_sentence	sentence_20835
+20835_18	compound	20835_19
+20835_18	has_surface_form	Tunç
+20835_18	part_of_entity	Tunç Başaran
+20835_19	is_in_sentence	sentence_20835
+20835_19	pobj	20835_17
+20835_19	has_surface_form	Başaran
+20835_19	part_of_entity	Tunç Başaran
+20835_20	is_in_sentence	sentence_20835
+20835_20	punct	20835_10
+20835_20	has_surface_form	.
+20835_21	is_in_sentence	sentence_20835
+20835_21	dep	20835_10
+20835_21	has_surface_form	
+Piano Piano Kid	surface_form	Piano Piano Kid
+Piano Piano Kid	movie-has-director	Tunç Başaran
+Tunç Başaran	surface_form	Tunç Başaran

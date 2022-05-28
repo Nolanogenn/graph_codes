@@ -1,0 +1,75 @@
+15055_0	is_in_sentence	sentence_15055
+15055_0	aux	15055_1
+15055_0	has_surface_form	To
+15055_0	part_of_entity	To Save the City
+15055_1	is_in_sentence	sentence_15055
+15055_1	csubj	15055_10
+15055_1	has_surface_form	Save
+15055_1	part_of_entity	To Save the City
+15055_10	is_in_sentence	sentence_15055
+15055_10	ROOT	15055_10
+15055_10	has_surface_form	is
+15055_2	is_in_sentence	sentence_15055
+15055_2	det	15055_3
+15055_2	has_surface_form	the
+15055_2	part_of_entity	To Save the City
+15055_3	is_in_sentence	sentence_15055
+15055_3	dobj	15055_1
+15055_3	has_surface_form	City
+15055_3	part_of_entity	To Save the City
+15055_4	is_in_sentence	sentence_15055
+15055_4	punct	15055_5
+15055_4	has_surface_form	(
+15055_5	is_in_sentence	sentence_15055
+15055_5	appos	15055_3
+15055_5	has_surface_form	Polish
+15055_6	is_in_sentence	sentence_15055
+15055_6	punct	15055_5
+15055_6	has_surface_form	:
+15055_7	is_in_sentence	sentence_15055
+15055_7	amod	15055_8
+15055_7	has_surface_form	Ocalić
+15055_8	is_in_sentence	sentence_15055
+15055_8	appos	15055_5
+15055_8	has_surface_form	miasto
+15055_9	is_in_sentence	sentence_15055
+15055_9	punct	15055_5
+15055_9	has_surface_form	)
+15055_11	is_in_sentence	sentence_15055
+15055_11	det	15055_15
+15055_11	has_surface_form	a
+15055_15	is_in_sentence	sentence_15055
+15055_15	attr	15055_10
+15055_15	has_surface_form	film
+15055_12	is_in_sentence	sentence_15055
+15055_12	nummod	15055_15
+15055_12	has_surface_form	1976
+15055_13	is_in_sentence	sentence_15055
+15055_13	amod	15055_15
+15055_13	has_surface_form	Polish
+15055_14	is_in_sentence	sentence_15055
+15055_14	compound	15055_15
+15055_14	has_surface_form	drama
+15055_16	is_in_sentence	sentence_15055
+15055_16	acl	15055_15
+15055_16	has_surface_form	directed
+15055_17	is_in_sentence	sentence_15055
+15055_17	agent	15055_16
+15055_17	has_surface_form	by
+15055_18	is_in_sentence	sentence_15055
+15055_18	compound	15055_19
+15055_18	has_surface_form	Jan
+15055_18	part_of_entity	Jan Łomnicki
+15055_19	is_in_sentence	sentence_15055
+15055_19	pobj	15055_17
+15055_19	has_surface_form	Łomnicki
+15055_19	part_of_entity	Jan Łomnicki
+15055_20	is_in_sentence	sentence_15055
+15055_20	punct	15055_10
+15055_20	has_surface_form	.
+15055_21	is_in_sentence	sentence_15055
+15055_21	dep	15055_21
+15055_21	has_surface_form	
+To Save the City	surface_form	To Save the City
+To Save the City	movie-has-director	Jan Łomnicki
+Jan Łomnicki	surface_form	Jan Łomnicki

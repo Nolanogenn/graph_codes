@@ -1,0 +1,73 @@
+22307_0	is_in_sentence	sentence_22307
+22307_0	det	22307_2
+22307_0	has_surface_form	The
+22307_2	is_in_sentence	sentence_22307
+22307_2	nsubj	22307_3
+22307_2	has_surface_form	lamp
+22307_2	part_of_entity	Davy lamp
+22307_1	is_in_sentence	sentence_22307
+22307_1	compound	22307_2
+22307_1	has_surface_form	Davy
+22307_1	part_of_entity	Davy lamp
+22307_3	is_in_sentence	sentence_22307
+22307_3	ROOT	22307_3
+22307_3	has_surface_form	is
+22307_4	is_in_sentence	sentence_22307
+22307_4	det	22307_6
+22307_4	has_surface_form	a
+22307_6	is_in_sentence	sentence_22307
+22307_6	attr	22307_3
+22307_6	has_surface_form	lamp
+22307_5	is_in_sentence	sentence_22307
+22307_5	compound	22307_6
+22307_5	has_surface_form	safety
+22307_7	is_in_sentence	sentence_22307
+22307_7	prep	22307_6
+22307_7	has_surface_form	for
+22307_8	is_in_sentence	sentence_22307
+22307_8	pobj	22307_7
+22307_8	has_surface_form	use
+22307_9	is_in_sentence	sentence_22307
+22307_9	prep	22307_8
+22307_9	has_surface_form	in
+22307_10	is_in_sentence	sentence_22307
+22307_10	amod	22307_11
+22307_10	has_surface_form	flammable
+22307_11	is_in_sentence	sentence_22307
+22307_11	pobj	22307_9
+22307_11	has_surface_form	atmospheres
+22307_12	is_in_sentence	sentence_22307
+22307_12	punct	22307_3
+22307_12	has_surface_form	,
+22307_13	is_in_sentence	sentence_22307
+22307_13	advcl	22307_3
+22307_13	has_surface_form	invented
+22307_14	is_in_sentence	sentence_22307
+22307_14	prep	22307_13
+22307_14	has_surface_form	in
+22307_15	is_in_sentence	sentence_22307
+22307_15	pobj	22307_14
+22307_15	has_surface_form	1815
+22307_16	is_in_sentence	sentence_22307
+22307_16	agent	22307_13
+22307_16	has_surface_form	by
+22307_17	is_in_sentence	sentence_22307
+22307_17	compound	22307_19
+22307_17	has_surface_form	Sir
+22307_19	is_in_sentence	sentence_22307
+22307_19	pobj	22307_16
+22307_19	has_surface_form	Davy
+22307_19	part_of_entity	Humphry Davy
+22307_18	is_in_sentence	sentence_22307
+22307_18	compound	22307_19
+22307_18	has_surface_form	Humphry
+22307_18	part_of_entity	Humphry Davy
+22307_20	is_in_sentence	sentence_22307
+22307_20	punct	22307_3
+22307_20	has_surface_form	.
+22307_21	is_in_sentence	sentence_22307
+22307_21	dep	22307_21
+22307_21	has_surface_form	
+Davy lamp	surface_form	Davy lamp
+Davy lamp	invented-by	Humphry Davy
+Humphry Davy	surface_form	Humphry Davy

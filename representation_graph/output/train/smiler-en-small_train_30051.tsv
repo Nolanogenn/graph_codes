@@ -1,0 +1,108 @@
+30050_0	is_in_sentence	sentence_30050
+30050_0	det	30050_1
+30050_0	has_surface_form	A
+30050_0	part_of_entity	A Holiday with Piroschka
+30050_1	is_in_sentence	sentence_30050
+30050_1	dep	30050_8
+30050_1	has_surface_form	Holiday
+30050_1	part_of_entity	A Holiday with Piroschka
+30050_8	is_in_sentence	sentence_30050
+30050_8	ROOT	30050_8
+30050_8	has_surface_form	mit
+30050_2	is_in_sentence	sentence_30050
+30050_2	prep	30050_1
+30050_2	has_surface_form	with
+30050_2	part_of_entity	A Holiday with Piroschka
+30050_3	is_in_sentence	sentence_30050
+30050_3	pobj	30050_2
+30050_3	has_surface_form	Piroschka
+30050_3	part_of_entity	A Holiday with Piroschka
+30050_4	is_in_sentence	sentence_30050
+30050_4	punct	30050_5
+30050_4	has_surface_form	(
+30050_5	is_in_sentence	sentence_30050
+30050_5	appos	30050_1
+30050_5	has_surface_form	German
+30050_6	is_in_sentence	sentence_30050
+30050_6	punct	30050_8
+30050_6	has_surface_form	:
+30050_7	is_in_sentence	sentence_30050
+30050_7	nsubj	30050_8
+30050_7	has_surface_form	Ferien
+30050_9	is_in_sentence	sentence_30050
+30050_9	dobj	30050_8
+30050_9	has_surface_form	Piroschka
+30050_10	is_in_sentence	sentence_30050
+30050_10	punct	30050_8
+30050_10	has_surface_form	)
+30050_11	is_in_sentence	sentence_30050
+30050_11	ccomp	30050_8
+30050_11	has_surface_form	is
+30050_12	is_in_sentence	sentence_30050
+30050_12	det	30050_15
+30050_12	has_surface_form	a
+30050_15	is_in_sentence	sentence_30050
+30050_15	attr	30050_11
+30050_15	has_surface_form	film
+30050_13	is_in_sentence	sentence_30050
+30050_13	nummod	30050_15
+30050_13	has_surface_form	1965
+30050_14	is_in_sentence	sentence_30050
+30050_14	compound	30050_15
+30050_14	has_surface_form	comedy
+30050_16	is_in_sentence	sentence_30050
+30050_16	acl	30050_15
+30050_16	has_surface_form	directed
+30050_17	is_in_sentence	sentence_30050
+30050_17	agent	30050_16
+30050_17	has_surface_form	by
+30050_18	is_in_sentence	sentence_30050
+30050_18	compound	30050_20
+30050_18	has_surface_form	Franz
+30050_20	is_in_sentence	sentence_30050
+30050_20	pobj	30050_17
+30050_20	has_surface_form	Gottlieb
+30050_19	is_in_sentence	sentence_30050
+30050_19	compound	30050_20
+30050_19	has_surface_form	Josef
+30050_21	is_in_sentence	sentence_30050
+30050_21	cc	30050_16
+30050_21	has_surface_form	and
+30050_22	is_in_sentence	sentence_30050
+30050_22	conj	30050_16
+30050_22	has_surface_form	starring
+30050_23	is_in_sentence	sentence_30050
+30050_23	compound	30050_24
+30050_23	has_surface_form	Marie
+30050_23	part_of_entity	Marie Versini
+30050_24	is_in_sentence	sentence_30050
+30050_24	dobj	30050_22
+30050_24	has_surface_form	Versini
+30050_24	part_of_entity	Marie Versini
+30050_25	is_in_sentence	sentence_30050
+30050_25	punct	30050_24
+30050_25	has_surface_form	,
+30050_26	is_in_sentence	sentence_30050
+30050_26	compound	30050_27
+30050_26	has_surface_form	Götz
+30050_27	is_in_sentence	sentence_30050
+30050_27	conj	30050_24
+30050_27	has_surface_form	George
+30050_28	is_in_sentence	sentence_30050
+30050_28	cc	30050_27
+30050_28	has_surface_form	and
+30050_29	is_in_sentence	sentence_30050
+30050_29	compound	30050_30
+30050_29	has_surface_form	Dietmar
+30050_30	is_in_sentence	sentence_30050
+30050_30	conj	30050_27
+30050_30	has_surface_form	Schönherr
+30050_31	is_in_sentence	sentence_30050
+30050_31	punct	30050_8
+30050_31	has_surface_form	.
+30050_32	is_in_sentence	sentence_30050
+30050_32	dep	30050_32
+30050_32	has_surface_form	
+A Holiday with Piroschka	surface_form	A Holiday with Piroschka
+A Holiday with Piroschka	starring	Marie Versini
+Marie Versini	surface_form	Marie Versini

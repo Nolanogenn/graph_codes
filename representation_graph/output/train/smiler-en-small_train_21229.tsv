@@ -1,0 +1,122 @@
+21228_0	is_in_sentence	sentence_21228
+21228_0	det	21228_4
+21228_0	has_surface_form	A
+21228_0	part_of_entity	A Arte de Amar Bem
+21228_4	is_in_sentence	sentence_21228
+21228_4	ROOT	21228_4
+21228_4	has_surface_form	Bem
+21228_4	part_of_entity	A Arte de Amar Bem
+21228_1	is_in_sentence	sentence_21228
+21228_1	compound	21228_4
+21228_1	has_surface_form	Arte
+21228_1	part_of_entity	A Arte de Amar Bem
+21228_2	is_in_sentence	sentence_21228
+21228_2	nmod	21228_4
+21228_2	has_surface_form	de
+21228_2	part_of_entity	A Arte de Amar Bem
+21228_3	is_in_sentence	sentence_21228
+21228_3	compound	21228_4
+21228_3	has_surface_form	Amar
+21228_3	part_of_entity	A Arte de Amar Bem
+21228_5	is_in_sentence	sentence_21228
+21228_5	punct	21228_7
+21228_5	has_surface_form	(
+21228_7	is_in_sentence	sentence_21228
+21228_7	parataxis	21228_4
+21228_7	has_surface_form	known
+21228_6	is_in_sentence	sentence_21228
+21228_6	advmod	21228_7
+21228_6	has_surface_form	also
+21228_8	is_in_sentence	sentence_21228
+21228_8	prep	21228_7
+21228_8	has_surface_form	as
+21228_9	is_in_sentence	sentence_21228
+21228_9	det	21228_12
+21228_9	has_surface_form	A
+21228_12	is_in_sentence	sentence_21228
+21228_12	pobj	21228_8
+21228_12	has_surface_form	Amar
+21228_10	is_in_sentence	sentence_21228
+21228_10	nmod	21228_12
+21228_10	has_surface_form	Arte
+21228_11	is_in_sentence	sentence_21228
+21228_11	nmod	21228_12
+21228_11	has_surface_form	de
+21228_13	is_in_sentence	sentence_21228
+21228_13	punct	21228_4
+21228_13	has_surface_form	.
+21228_14	is_in_sentence	sentence_21228
+21228_14	dep	21228_17
+21228_14	has_surface_form	Bem
+21228_17	is_in_sentence	sentence_21228
+21228_17	ROOT	21228_17
+21228_17	has_surface_form	is
+21228_15	is_in_sentence	sentence_21228
+21228_15	punct	21228_14
+21228_15	has_surface_form	)
+21228_16	is_in_sentence	sentence_21228
+21228_16	nsubj	21228_17
+21228_16	has_surface_form	it
+21228_18	is_in_sentence	sentence_21228
+21228_18	det	21228_21
+21228_18	has_surface_form	a
+21228_21	is_in_sentence	sentence_21228
+21228_21	attr	21228_17
+21228_21	has_surface_form	film
+21228_19	is_in_sentence	sentence_21228
+21228_19	amod	21228_21
+21228_19	has_surface_form	Brazilian
+21228_20	is_in_sentence	sentence_21228
+21228_20	compound	21228_21
+21228_20	has_surface_form	comedy
+21228_22	is_in_sentence	sentence_21228
+21228_22	acl	21228_21
+21228_22	has_surface_form	released
+21228_23	is_in_sentence	sentence_21228
+21228_23	prep	21228_22
+21228_23	has_surface_form	in
+21228_24	is_in_sentence	sentence_21228
+21228_24	pobj	21228_23
+21228_24	has_surface_form	1970
+21228_25	is_in_sentence	sentence_21228
+21228_25	punct	21228_21
+21228_25	has_surface_form	,
+21228_26	is_in_sentence	sentence_21228
+21228_26	prep	21228_17
+21228_26	has_surface_form	in
+21228_27	is_in_sentence	sentence_21228
+21228_27	nummod	21228_28
+21228_27	has_surface_form	three
+21228_28	is_in_sentence	sentence_21228
+21228_28	pobj	21228_26
+21228_28	has_surface_form	episodes
+21228_29	is_in_sentence	sentence_21228
+21228_29	punct	21228_28
+21228_29	has_surface_form	,
+21228_30	is_in_sentence	sentence_21228
+21228_30	acl	21228_28
+21228_30	has_surface_form	directed
+21228_31	is_in_sentence	sentence_21228
+21228_31	agent	21228_30
+21228_31	has_surface_form	by
+21228_32	is_in_sentence	sentence_21228
+21228_32	compound	21228_34
+21228_32	has_surface_form	Fernando
+21228_32	part_of_entity	Fernando de Barros
+21228_34	is_in_sentence	sentence_21228
+21228_34	pobj	21228_31
+21228_34	has_surface_form	Barros
+21228_34	part_of_entity	Fernando de Barros
+21228_33	is_in_sentence	sentence_21228
+21228_33	compound	21228_34
+21228_33	has_surface_form	de
+21228_33	part_of_entity	Fernando de Barros
+21228_35	is_in_sentence	sentence_21228
+21228_35	punct	21228_17
+21228_35	has_surface_form	.
+21228_36	is_in_sentence	sentence_21228
+21228_36	dep	21228_17
+21228_36	has_surface_form	
+A Arte de Amar Bem	surface_form	A Arte de Amar Bem
+A Arte de Amar Bem	movie-has-director	Fernando de Barros
+Fernando de Barros	surface_form	Fernando de Barros

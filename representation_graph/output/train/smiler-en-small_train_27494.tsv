@@ -1,0 +1,47 @@
+27493_0	is_in_sentence	sentence_27493
+27493_0	det	27493_3
+27493_0	has_surface_form	The
+27493_3	is_in_sentence	sentence_27493
+27493_3	nsubjpass	27493_5
+27493_3	has_surface_form	timer
+27493_3	part_of_entity	kitchen timer
+27493_1	is_in_sentence	sentence_27493
+27493_1	amod	27493_3
+27493_1	has_surface_form	mechanical
+27493_2	is_in_sentence	sentence_27493
+27493_2	compound	27493_3
+27493_2	has_surface_form	kitchen
+27493_2	part_of_entity	kitchen timer
+27493_5	is_in_sentence	sentence_27493
+27493_5	ROOT	27493_5
+27493_5	has_surface_form	invented
+27493_4	is_in_sentence	sentence_27493
+27493_4	auxpass	27493_5
+27493_4	has_surface_form	was
+27493_6	is_in_sentence	sentence_27493
+27493_6	prep	27493_5
+27493_6	has_surface_form	in
+27493_7	is_in_sentence	sentence_27493
+27493_7	pobj	27493_6
+27493_7	is_entity	1926
+1926	surface_form	1926
+27493_8	is_in_sentence	sentence_27493
+27493_8	agent	27493_5
+27493_8	has_surface_form	by
+27493_9	is_in_sentence	sentence_27493
+27493_9	compound	27493_11
+27493_9	has_surface_form	Thomas
+27493_11	is_in_sentence	sentence_27493
+27493_11	pobj	27493_8
+27493_11	has_surface_form	Hicks
+27493_10	is_in_sentence	sentence_27493
+27493_10	compound	27493_11
+27493_10	has_surface_form	Norman
+27493_12	is_in_sentence	sentence_27493
+27493_12	punct	27493_5
+27493_12	has_surface_form	.
+27493_13	is_in_sentence	sentence_27493
+27493_13	dep	27493_13
+27493_13	has_surface_form	
+kitchen timer	surface_form	kitchen timer
+kitchen timer	invented-when	1926

@@ -1,0 +1,94 @@
+10122_0	is_in_sentence	sentence_10122
+10122_0	compound	10122_1
+10122_0	has_surface_form	Caitlin
+10122_0	part_of_entity	Caitlin Thomas
+10122_1	is_in_sentence	sentence_10122
+10122_1	nsubj	10122_14
+10122_1	has_surface_form	Thomas
+10122_1	part_of_entity	Caitlin Thomas
+10122_14	is_in_sentence	sentence_10122
+10122_14	ROOT	10122_14
+10122_14	has_surface_form	was
+10122_2	is_in_sentence	sentence_10122
+10122_2	punct	10122_4
+10122_2	has_surface_form	(
+10122_4	is_in_sentence	sentence_10122
+10122_4	appos	10122_1
+10122_4	has_surface_form	Macnamara
+10122_3	is_in_sentence	sentence_10122
+10122_3	compound	10122_4
+10122_3	has_surface_form	née
+10122_5	is_in_sentence	sentence_10122
+10122_5	punct	10122_4
+10122_5	has_surface_form	;
+10122_6	is_in_sentence	sentence_10122
+10122_6	nummod	10122_7
+10122_6	has_surface_form	8
+10122_7	is_in_sentence	sentence_10122
+10122_7	appos	10122_4
+10122_7	has_surface_form	December
+10122_8	is_in_sentence	sentence_10122
+10122_8	nummod	10122_7
+10122_8	has_surface_form	1913
+10122_9	is_in_sentence	sentence_10122
+10122_9	punct	10122_7
+10122_9	has_surface_form	–
+10122_10	is_in_sentence	sentence_10122
+10122_10	nummod	10122_7
+10122_10	has_surface_form	31
+10122_11	is_in_sentence	sentence_10122
+10122_11	npadvmod	10122_7
+10122_11	has_surface_form	July
+10122_12	is_in_sentence	sentence_10122
+10122_12	nummod	10122_11
+10122_12	has_surface_form	1994
+10122_13	is_in_sentence	sentence_10122
+10122_13	punct	10122_7
+10122_13	has_surface_form	)
+10122_15	is_in_sentence	sentence_10122
+10122_15	det	10122_16
+10122_15	has_surface_form	an
+10122_16	is_in_sentence	sentence_10122
+10122_16	attr	10122_14
+10122_16	has_surface_form	author
+10122_17	is_in_sentence	sentence_10122
+10122_17	cc	10122_16
+10122_17	has_surface_form	and
+10122_18	is_in_sentence	sentence_10122
+10122_18	det	10122_19
+10122_18	has_surface_form	the
+10122_19	is_in_sentence	sentence_10122
+10122_19	conj	10122_16
+10122_19	has_surface_form	wife
+10122_20	is_in_sentence	sentence_10122
+10122_20	prep	10122_19
+10122_20	has_surface_form	of
+10122_21	is_in_sentence	sentence_10122
+10122_21	det	10122_22
+10122_21	has_surface_form	the
+10122_22	is_in_sentence	sentence_10122
+10122_22	pobj	10122_20
+10122_22	has_surface_form	poet
+10122_23	is_in_sentence	sentence_10122
+10122_23	cc	10122_22
+10122_23	has_surface_form	and
+10122_24	is_in_sentence	sentence_10122
+10122_24	compound	10122_26
+10122_24	has_surface_form	writer
+10122_26	is_in_sentence	sentence_10122
+10122_26	conj	10122_22
+10122_26	has_surface_form	Thomas
+10122_26	part_of_entity	Dylan Thomas
+10122_25	is_in_sentence	sentence_10122
+10122_25	compound	10122_26
+10122_25	has_surface_form	Dylan
+10122_25	part_of_entity	Dylan Thomas
+10122_27	is_in_sentence	sentence_10122
+10122_27	punct	10122_14
+10122_27	has_surface_form	.
+10122_28	is_in_sentence	sentence_10122
+10122_28	dep	10122_14
+10122_28	has_surface_form	
+Caitlin Thomas	surface_form	Caitlin Thomas
+Caitlin Thomas	has-spouse	Dylan Thomas
+Dylan Thomas	surface_form	Dylan Thomas

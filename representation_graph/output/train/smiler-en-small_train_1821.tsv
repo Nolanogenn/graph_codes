@@ -1,0 +1,88 @@
+1820_0	is_in_sentence	sentence_1820
+1820_0	compound	1820_2
+1820_0	has_surface_form	Dr
+1820_0	part_of_entity	Dr G R Damodaran College of Science
+1820_2	is_in_sentence	sentence_1820
+1820_2	compound	1820_4
+1820_2	has_surface_form	R
+1820_2	part_of_entity	Dr G R Damodaran College of Science
+1820_1	is_in_sentence	sentence_1820
+1820_1	compound	1820_2
+1820_1	has_surface_form	G
+1820_1	part_of_entity	Dr G R Damodaran College of Science
+1820_4	is_in_sentence	sentence_1820
+1820_4	nsubj	1820_11
+1820_4	has_surface_form	College
+1820_4	part_of_entity	Dr G R Damodaran College of Science
+1820_3	is_in_sentence	sentence_1820
+1820_3	compound	1820_4
+1820_3	has_surface_form	Damodaran
+1820_3	part_of_entity	Dr G R Damodaran College of Science
+1820_11	is_in_sentence	sentence_1820
+1820_11	ROOT	1820_11
+1820_11	has_surface_form	is
+1820_5	is_in_sentence	sentence_1820
+1820_5	prep	1820_4
+1820_5	has_surface_form	of
+1820_5	part_of_entity	Dr G R Damodaran College of Science
+1820_6	is_in_sentence	sentence_1820
+1820_6	pobj	1820_5
+1820_6	has_surface_form	Science
+1820_6	part_of_entity	Dr G R Damodaran College of Science
+1820_7	is_in_sentence	sentence_1820
+1820_7	punct	1820_4
+1820_7	has_surface_form	(
+1820_8	is_in_sentence	sentence_1820
+1820_8	compound	1820_9
+1820_8	has_surface_form	GRD
+1820_9	is_in_sentence	sentence_1820
+1820_9	appos	1820_4
+1820_9	has_surface_form	College
+1820_10	is_in_sentence	sentence_1820
+1820_10	punct	1820_4
+1820_10	has_surface_form	)
+1820_12	is_in_sentence	sentence_1820
+1820_12	det	1820_16
+1820_12	has_surface_form	an
+1820_16	is_in_sentence	sentence_1820
+1820_16	attr	1820_11
+1820_16	has_surface_form	institution
+1820_13	is_in_sentence	sentence_1820
+1820_13	nmod	1820_16
+1820_13	has_surface_form	ISO
+1820_14	is_in_sentence	sentence_1820
+1820_14	nummod	1820_13
+1820_14	has_surface_form	9001:2008
+1820_15	is_in_sentence	sentence_1820
+1820_15	amod	1820_16
+1820_15	has_surface_form	certified
+1820_17	is_in_sentence	sentence_1820
+1820_17	prep	1820_16
+1820_17	has_surface_form	in
+1820_18	is_in_sentence	sentence_1820
+1820_18	pobj	1820_17
+1820_18	is_entity	Coimbatore
+Coimbatore	surface_form	Coimbatore
+1820_19	is_in_sentence	sentence_1820
+1820_19	punct	1820_18
+1820_19	has_surface_form	,
+1820_20	is_in_sentence	sentence_1820
+1820_20	compound	1820_21
+1820_20	has_surface_form	Tamil
+1820_21	is_in_sentence	sentence_1820
+1820_21	conj	1820_18
+1820_21	has_surface_form	Nadu
+1820_22	is_in_sentence	sentence_1820
+1820_22	punct	1820_21
+1820_22	has_surface_form	,
+1820_23	is_in_sentence	sentence_1820
+1820_23	npadvmod	1820_21
+1820_23	has_surface_form	India
+1820_24	is_in_sentence	sentence_1820
+1820_24	punct	1820_11
+1820_24	has_surface_form	.
+1820_25	is_in_sentence	sentence_1820
+1820_25	dep	1820_25
+1820_25	has_surface_form	
+Dr G R Damodaran College of Science	surface_form	Dr G R Damodaran College of Science
+Dr G R Damodaran College of Science	is-where	Coimbatore

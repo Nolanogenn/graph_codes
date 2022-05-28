@@ -1,0 +1,63 @@
+9031_0	is_in_sentence	sentence_9031
+9031_0	compound	9031_1
+9031_0	has_surface_form	South
+9031_0	part_of_entity	South Carolina Highway 37
+9031_1	is_in_sentence	sentence_9031
+9031_1	compound	9031_2
+9031_1	has_surface_form	Carolina
+9031_1	part_of_entity	South Carolina Highway 37
+9031_2	is_in_sentence	sentence_9031
+9031_2	nsubj	9031_9
+9031_2	has_surface_form	Highway
+9031_2	part_of_entity	South Carolina Highway 37
+9031_9	is_in_sentence	sentence_9031
+9031_9	ROOT	9031_9
+9031_9	has_surface_form	is
+9031_3	is_in_sentence	sentence_9031
+9031_3	nummod	9031_2
+9031_3	has_surface_form	37
+9031_3	part_of_entity	South Carolina Highway 37
+9031_4	is_in_sentence	sentence_9031
+9031_4	punct	9031_9
+9031_4	has_surface_form	(
+9031_5	is_in_sentence	sentence_9031
+9031_5	nsubj	9031_9
+9031_5	has_surface_form	SC
+9031_6	is_in_sentence	sentence_9031
+9031_6	dep	9031_5
+9031_6	has_surface_form	 
+9031_7	is_in_sentence	sentence_9031
+9031_7	nummod	9031_5
+9031_7	has_surface_form	37
+9031_8	is_in_sentence	sentence_9031
+9031_8	punct	9031_5
+9031_8	has_surface_form	)
+9031_10	is_in_sentence	sentence_9031
+9031_10	det	9031_13
+9031_10	has_surface_form	a
+9031_13	is_in_sentence	sentence_9031
+9031_13	attr	9031_9
+9031_13	has_surface_form	highway
+9031_13	part_of_entity	state highway
+9031_11	is_in_sentence	sentence_9031
+9031_11	amod	9031_13
+9031_11	has_surface_form	primary
+9031_12	is_in_sentence	sentence_9031
+9031_12	compound	9031_13
+9031_12	has_surface_form	state
+9031_12	part_of_entity	state highway
+9031_14	is_in_sentence	sentence_9031
+9031_14	prep	9031_13
+9031_14	has_surface_form	in
+9031_15	is_in_sentence	sentence_9031
+9031_15	det	9031_16
+9031_15	has_surface_form	the
+9031_16	is_in_sentence	sentence_9031
+9031_16	pobj	9031_14
+9031_16	has_surface_form	U.
+9031_17	is_in_sentence	sentence_9031
+9031_17	dep	9031_9
+9031_17	has_surface_form	
+South Carolina Highway 37	surface_form	South Carolina Highway 37
+South Carolina Highway 37	has-type	state highway
+state highway	surface_form	state highway

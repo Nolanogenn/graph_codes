@@ -1,0 +1,61 @@
+18583_0	is_in_sentence	sentence_18583
+18583_0	compound	18583_1
+18583_0	has_surface_form	Larry
+18583_0	part_of_entity	Larry Hays
+18583_1	is_in_sentence	sentence_18583
+18583_1	nsubj	18583_2
+18583_1	has_surface_form	Hays
+18583_1	part_of_entity	Larry Hays
+18583_2	is_in_sentence	sentence_18583
+18583_2	ROOT	18583_2
+18583_2	has_surface_form	is
+18583_3	is_in_sentence	sentence_18583
+18583_3	det	18583_5
+18583_3	has_surface_form	a
+18583_5	is_in_sentence	sentence_18583
+18583_5	attr	18583_2
+18583_5	has_surface_form	baseball
+18583_4	is_in_sentence	sentence_18583
+18583_4	amod	18583_5
+18583_4	has_surface_form	collegiate
+18583_6	is_in_sentence	sentence_18583
+18583_6	punct	18583_5
+18583_6	has_surface_form	,
+18583_7	is_in_sentence	sentence_18583
+18583_7	conj	18583_5
+18583_7	has_surface_form	basketball
+18583_8	is_in_sentence	sentence_18583
+18583_8	punct	18583_7
+18583_8	has_surface_form	,
+18583_9	is_in_sentence	sentence_18583
+18583_9	poss	18583_11
+18583_9	has_surface_form	women
+18583_11	is_in_sentence	sentence_18583
+18583_11	conj	18583_7
+18583_11	has_surface_form	basketball
+18583_10	is_in_sentence	sentence_18583
+18583_10	case	18583_9
+18583_10	has_surface_form	's
+18583_12	is_in_sentence	sentence_18583
+18583_12	punct	18583_11
+18583_12	has_surface_form	,
+18583_13	is_in_sentence	sentence_18583
+18583_13	cc	18583_11
+18583_13	has_surface_form	and
+18583_14	is_in_sentence	sentence_18583
+18583_14	compound	18583_15
+18583_14	has_surface_form	softball
+18583_14	part_of_entity	softball coach
+18583_15	is_in_sentence	sentence_18583
+18583_15	conj	18583_11
+18583_15	has_surface_form	coach
+18583_15	part_of_entity	softball coach
+18583_16	is_in_sentence	sentence_18583
+18583_16	punct	18583_2
+18583_16	has_surface_form	.
+18583_17	is_in_sentence	sentence_18583
+18583_17	dep	18583_17
+18583_17	has_surface_form	
+Larry Hays	surface_form	Larry Hays
+Larry Hays	has-type	softball coach
+softball coach	surface_form	softball coach

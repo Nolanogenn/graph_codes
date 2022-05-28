@@ -1,0 +1,59 @@
+24891_0	is_in_sentence	sentence_24891
+24891_0	compound	24891_1
+24891_0	has_surface_form	Arthur
+24891_0	part_of_entity	Arthur Robinson
+24891_1	is_in_sentence	sentence_24891
+24891_1	nsubj	24891_2
+24891_1	has_surface_form	Robinson
+24891_1	part_of_entity	Arthur Robinson
+24891_2	is_in_sentence	sentence_24891
+24891_2	ROOT	24891_2
+24891_2	has_surface_form	was
+24891_3	is_in_sentence	sentence_24891
+24891_3	det	24891_4
+24891_3	has_surface_form	the
+24891_4	is_in_sentence	sentence_24891
+24891_4	attr	24891_2
+24891_4	has_surface_form	son
+24891_5	is_in_sentence	sentence_24891
+24891_5	prep	24891_4
+24891_5	has_surface_form	of
+24891_6	is_in_sentence	sentence_24891
+24891_6	compound	24891_8
+24891_6	has_surface_form	Elisha
+24891_6	part_of_entity	Elisha Smith Robinson
+24891_8	is_in_sentence	sentence_24891
+24891_8	pobj	24891_5
+24891_8	has_surface_form	Robinson
+24891_8	part_of_entity	Elisha Smith Robinson
+24891_7	is_in_sentence	sentence_24891
+24891_7	compound	24891_8
+24891_7	has_surface_form	Smith
+24891_7	part_of_entity	Elisha Smith Robinson
+24891_9	is_in_sentence	sentence_24891
+24891_9	cc	24891_8
+24891_9	has_surface_form	and
+24891_10	is_in_sentence	sentence_24891
+24891_10	det	24891_11
+24891_10	has_surface_form	the
+24891_11	is_in_sentence	sentence_24891
+24891_11	conj	24891_8
+24891_11	has_surface_form	father
+24891_12	is_in_sentence	sentence_24891
+24891_12	prep	24891_11
+24891_12	has_surface_form	of
+24891_13	is_in_sentence	sentence_24891
+24891_13	compound	24891_14
+24891_13	has_surface_form	Douglas
+24891_14	is_in_sentence	sentence_24891
+24891_14	pobj	24891_12
+24891_14	has_surface_form	Robinson
+24891_15	is_in_sentence	sentence_24891
+24891_15	punct	24891_2
+24891_15	has_surface_form	.
+24891_16	is_in_sentence	sentence_24891
+24891_16	dep	24891_2
+24891_16	has_surface_form	
+Arthur Robinson	surface_form	Arthur Robinson
+Arthur Robinson	has-parent	Elisha Smith Robinson
+Elisha Smith Robinson	surface_form	Elisha Smith Robinson

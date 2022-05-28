@@ -1,0 +1,71 @@
+177_0	is_in_sentence	sentence_177
+177_0	compound	177_1
+177_0	has_surface_form	Belcan
+177_0	part_of_entity	Belcan Corporation
+177_1	is_in_sentence	sentence_177
+177_1	nsubjpass	177_3
+177_1	has_surface_form	Corporation
+177_1	part_of_entity	Belcan Corporation
+177_3	is_in_sentence	sentence_177
+177_3	ROOT	177_3
+177_3	has_surface_form	founded
+177_2	is_in_sentence	sentence_177
+177_2	auxpass	177_3
+177_2	has_surface_form	was
+177_4	is_in_sentence	sentence_177
+177_4	prep	177_3
+177_4	has_surface_form	in
+177_5	is_in_sentence	sentence_177
+177_5	pobj	177_4
+177_5	has_surface_form	1958
+177_6	is_in_sentence	sentence_177
+177_6	agent	177_3
+177_6	has_surface_form	by
+177_7	is_in_sentence	sentence_177
+177_7	compound	177_9
+177_7	has_surface_form	Ralph
+177_7	part_of_entity	Ralph G. Anderson
+177_9	is_in_sentence	sentence_177
+177_9	pobj	177_6
+177_9	has_surface_form	Anderson
+177_9	part_of_entity	Ralph G. Anderson
+177_8	is_in_sentence	sentence_177
+177_8	compound	177_9
+177_8	has_surface_form	G.
+177_8	part_of_entity	Ralph G. Anderson
+177_10	is_in_sentence	sentence_177
+177_10	punct	177_9
+177_10	has_surface_form	,
+177_11	is_in_sentence	sentence_177
+177_11	det	177_13
+177_11	has_surface_form	an
+177_13	is_in_sentence	sentence_177
+177_13	appos	177_9
+177_13	has_surface_form	graduate
+177_12	is_in_sentence	sentence_177
+177_12	compound	177_13
+177_12	has_surface_form	engineering
+177_14	is_in_sentence	sentence_177
+177_14	prep	177_13
+177_14	has_surface_form	of
+177_15	is_in_sentence	sentence_177
+177_15	det	177_16
+177_15	has_surface_form	the
+177_16	is_in_sentence	sentence_177
+177_16	pobj	177_14
+177_16	has_surface_form	University
+177_17	is_in_sentence	sentence_177
+177_17	prep	177_16
+177_17	has_surface_form	of
+177_18	is_in_sentence	sentence_177
+177_18	pobj	177_17
+177_18	has_surface_form	Kentucky
+177_19	is_in_sentence	sentence_177
+177_19	punct	177_3
+177_19	has_surface_form	.
+177_20	is_in_sentence	sentence_177
+177_20	dep	177_20
+177_20	has_surface_form	
+Belcan Corporation	surface_form	Belcan Corporation
+Belcan Corporation	org-has-founder	Ralph G. Anderson
+Ralph G. Anderson	surface_form	Ralph G. Anderson

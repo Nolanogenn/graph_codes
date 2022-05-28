@@ -1,0 +1,85 @@
+6731_0	is_in_sentence	sentence_6731
+6731_0	amod	6731_2
+6731_0	has_surface_form	Possible
+6731_2	is_in_sentence	sentence_6731
+6731_2	nsubjpass	6731_4
+6731_2	has_surface_form	development
+6731_1	is_in_sentence	sentence_6731
+6731_1	amod	6731_2
+6731_1	has_surface_form	industrial
+6731_4	is_in_sentence	sentence_6731
+6731_4	ROOT	6731_4
+6731_4	has_surface_form	envisioned
+6731_3	is_in_sentence	sentence_6731
+6731_3	auxpass	6731_4
+6731_3	has_surface_form	was
+6731_5	is_in_sentence	sentence_6731
+6731_5	agent	6731_4
+6731_5	has_surface_form	by
+6731_6	is_in_sentence	sentence_6731
+6731_6	compound	6731_7
+6731_6	has_surface_form	Nikola
+6731_6	part_of_entity	Nikola Tesla
+6731_7	is_in_sentence	sentence_6731
+6731_7	pobj	6731_5
+6731_7	has_surface_form	Tesla
+6731_7	part_of_entity	Nikola Tesla
+6731_8	is_in_sentence	sentence_6731
+6731_8	punct	6731_7
+6731_8	has_surface_form	,
+6731_9	is_in_sentence	sentence_6731
+6731_9	nsubj	6731_10
+6731_9	has_surface_form	who
+6731_10	is_in_sentence	sentence_6731
+6731_10	relcl	6731_7
+6731_10	has_surface_form	invented
+6731_11	is_in_sentence	sentence_6731
+6731_11	advmod	6731_10
+6731_11	has_surface_form	independently
+6731_12	is_in_sentence	sentence_6731
+6731_12	poss	6731_14
+6731_12	has_surface_form	his
+6731_14	is_in_sentence	sentence_6731
+6731_14	dobj	6731_10
+6731_14	has_surface_form	motor
+6731_14	part_of_entity	induction motor
+6731_13	is_in_sentence	sentence_6731
+6731_13	compound	6731_14
+6731_13	has_surface_form	induction
+6731_13	part_of_entity	induction motor
+6731_15	is_in_sentence	sentence_6731
+6731_15	prep	6731_10
+6731_15	has_surface_form	in
+6731_16	is_in_sentence	sentence_6731
+6731_16	pobj	6731_15
+6731_16	has_surface_form	1887
+6731_17	is_in_sentence	sentence_6731
+6731_17	cc	6731_10
+6731_17	has_surface_form	and
+6731_18	is_in_sentence	sentence_6731
+6731_18	conj	6731_10
+6731_18	has_surface_form	obtained
+6731_19	is_in_sentence	sentence_6731
+6731_19	det	6731_20
+6731_19	has_surface_form	a
+6731_20	is_in_sentence	sentence_6731
+6731_20	dobj	6731_18
+6731_20	has_surface_form	patent
+6731_21	is_in_sentence	sentence_6731
+6731_21	prep	6731_18
+6731_21	has_surface_form	in
+6731_22	is_in_sentence	sentence_6731
+6731_22	pobj	6731_21
+6731_22	has_surface_form	May
+6731_23	is_in_sentence	sentence_6731
+6731_23	nummod	6731_22
+6731_23	has_surface_form	1888
+6731_24	is_in_sentence	sentence_6731
+6731_24	punct	6731_4
+6731_24	has_surface_form	.
+6731_25	is_in_sentence	sentence_6731
+6731_25	dep	6731_25
+6731_25	has_surface_form	
+induction motor	surface_form	induction motor
+induction motor	invented-by	Nikola Tesla
+Nikola Tesla	surface_form	Nikola Tesla

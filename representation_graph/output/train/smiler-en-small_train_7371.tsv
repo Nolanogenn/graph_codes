@@ -1,0 +1,54 @@
+7370_0	is_in_sentence	sentence_7370
+7370_0	nsubj	7370_1
+7370_0	is_entity	Beckett
+7370_1	is_in_sentence	sentence_7370
+7370_1	ROOT	7370_1
+7370_1	has_surface_form	had
+Beckett	surface_form	Beckett
+Beckett	has-sibling	Frank Edward Beckett
+7370_2	is_in_sentence	sentence_7370
+7370_2	nummod	7370_4
+7370_2	has_surface_form	one
+7370_4	is_in_sentence	sentence_7370
+7370_4	dobj	7370_1
+7370_4	has_surface_form	brother
+7370_3	is_in_sentence	sentence_7370
+7370_3	amod	7370_4
+7370_3	has_surface_form	older
+7370_5	is_in_sentence	sentence_7370
+7370_5	punct	7370_4
+7370_5	has_surface_form	,
+7370_6	is_in_sentence	sentence_7370
+7370_6	compound	7370_8
+7370_6	has_surface_form	Frank
+7370_6	part_of_entity	Frank Edward Beckett
+7370_8	is_in_sentence	sentence_7370
+7370_8	appos	7370_4
+7370_8	is_entity	Beckett
+7370_8	part_of_entity	Frank Edward Beckett
+7370_7	is_in_sentence	sentence_7370
+7370_7	compound	7370_8
+7370_7	has_surface_form	Edward
+7370_7	part_of_entity	Frank Edward Beckett
+7370_9	is_in_sentence	sentence_7370
+7370_9	punct	7370_8
+7370_9	has_surface_form	(
+7370_10	is_in_sentence	sentence_7370
+7370_10	appos	7370_8
+7370_10	has_surface_form	1902
+7370_11	is_in_sentence	sentence_7370
+7370_11	punct	7370_12
+7370_11	has_surface_form	-
+7370_12	is_in_sentence	sentence_7370
+7370_12	prep	7370_10
+7370_12	has_surface_form	1954
+7370_13	is_in_sentence	sentence_7370
+7370_13	punct	7370_8
+7370_13	has_surface_form	)
+7370_14	is_in_sentence	sentence_7370
+7370_14	punct	7370_1
+7370_14	has_surface_form	.
+7370_15	is_in_sentence	sentence_7370
+7370_15	dep	7370_15
+7370_15	has_surface_form	
+Frank Edward Beckett	surface_form	Frank Edward Beckett

@@ -1,0 +1,38 @@
+14078_0	is_in_sentence	sentence_14078
+14078_0	poss	14078_2
+14078_0	is_entity	Schwartz
+14078_2	is_in_sentence	sentence_14078
+14078_2	nsubj	14078_3
+14078_2	has_surface_form	son
+Schwartz	surface_form	Schwartz
+Schwartz	has-child	Doug Levitt
+14078_1	is_in_sentence	sentence_14078
+14078_1	case	14078_0
+14078_1	has_surface_form	's
+14078_3	is_in_sentence	sentence_14078
+14078_3	ROOT	14078_3
+14078_3	has_surface_form	is
+14078_4	is_in_sentence	sentence_14078
+14078_4	compound	14078_6
+14078_4	has_surface_form	singer
+14078_6	is_in_sentence	sentence_14078
+14078_6	compound	14078_8
+14078_6	has_surface_form	songwriter
+14078_5	is_in_sentence	sentence_14078
+14078_5	punct	14078_6
+14078_5	has_surface_form	-
+14078_8	is_in_sentence	sentence_14078
+14078_8	attr	14078_3
+14078_8	has_surface_form	Levitt
+14078_8	part_of_entity	Doug Levitt
+14078_7	is_in_sentence	sentence_14078
+14078_7	compound	14078_8
+14078_7	has_surface_form	Doug
+14078_7	part_of_entity	Doug Levitt
+14078_9	is_in_sentence	sentence_14078
+14078_9	punct	14078_3
+14078_9	has_surface_form	.
+14078_10	is_in_sentence	sentence_14078
+14078_10	dep	14078_10
+14078_10	has_surface_form	
+Doug Levitt	surface_form	Doug Levitt

@@ -1,0 +1,82 @@
+641_0	is_in_sentence	sentence_641
+641_0	compound	641_1
+641_0	has_surface_form	Dave
+641_0	part_of_entity	Dave LaRue
+641_1	is_in_sentence	sentence_641
+641_1	nsubj	641_2
+641_1	has_surface_form	LaRue
+641_1	part_of_entity	Dave LaRue
+641_2	is_in_sentence	sentence_641
+641_2	ROOT	641_2
+641_2	has_surface_form	is
+641_3	is_in_sentence	sentence_641
+641_3	det	641_5
+641_3	has_surface_form	an
+641_5	is_in_sentence	sentence_641
+641_5	attr	641_2
+641_5	has_surface_form	bassist
+641_4	is_in_sentence	sentence_641
+641_4	amod	641_5
+641_4	has_surface_form	American
+641_6	is_in_sentence	sentence_641
+641_6	nsubj	641_8
+641_6	has_surface_form	who
+641_8	is_in_sentence	sentence_641
+641_8	relcl	641_5
+641_8	has_surface_form	performed
+641_7	is_in_sentence	sentence_641
+641_7	aux	641_8
+641_7	has_surface_form	has
+641_9	is_in_sentence	sentence_641
+641_9	prep	641_8
+641_9	has_surface_form	with
+641_10	is_in_sentence	sentence_641
+641_10	det	641_12
+641_10	has_surface_form	the
+641_12	is_in_sentence	sentence_641
+641_12	pobj	641_9
+641_12	has_surface_form	Dregs
+641_12	part_of_entity	Dixie Dregs
+641_11	is_in_sentence	sentence_641
+641_11	compound	641_12
+641_11	has_surface_form	Dixie
+641_11	part_of_entity	Dixie Dregs
+641_13	is_in_sentence	sentence_641
+641_13	prep	641_8
+641_13	has_surface_form	since
+641_14	is_in_sentence	sentence_641
+641_14	pobj	641_13
+641_14	has_surface_form	1988
+641_15	is_in_sentence	sentence_641
+641_15	cc	641_2
+641_15	has_surface_form	and
+641_16	is_in_sentence	sentence_641
+641_16	conj	641_2
+641_16	has_surface_form	with
+641_17	is_in_sentence	sentence_641
+641_17	det	641_20
+641_17	has_surface_form	the
+641_20	is_in_sentence	sentence_641
+641_20	pobj	641_16
+641_20	has_surface_form	Band
+641_18	is_in_sentence	sentence_641
+641_18	compound	641_20
+641_18	has_surface_form	Steve
+641_19	is_in_sentence	sentence_641
+641_19	compound	641_20
+641_19	has_surface_form	Morse
+641_21	is_in_sentence	sentence_641
+641_21	prep	641_2
+641_21	has_surface_form	since
+641_22	is_in_sentence	sentence_641
+641_22	pobj	641_21
+641_22	has_surface_form	1989
+641_23	is_in_sentence	sentence_641
+641_23	punct	641_2
+641_23	has_surface_form	.
+641_24	is_in_sentence	sentence_641
+641_24	dep	641_24
+641_24	has_surface_form	
+Dave LaRue	surface_form	Dave LaRue
+Dave LaRue	is-member-of	Dixie Dregs
+Dixie Dregs	surface_form	Dixie Dregs

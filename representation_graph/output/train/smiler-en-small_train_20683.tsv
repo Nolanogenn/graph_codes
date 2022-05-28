@@ -1,0 +1,91 @@
+20682_0	is_in_sentence	sentence_20682
+20682_0	compound	20682_1
+20682_0	has_surface_form	Charles
+20682_0	part_of_entity	Charles Chambers
+20682_1	is_in_sentence	sentence_20682
+20682_1	nsubj	20682_12
+20682_1	has_surface_form	Chambers
+20682_1	part_of_entity	Charles Chambers
+20682_12	is_in_sentence	sentence_20682
+20682_12	ROOT	20682_12
+20682_12	has_surface_form	is
+20682_2	is_in_sentence	sentence_20682
+20682_2	punct	20682_1
+20682_2	has_surface_form	,
+20682_3	is_in_sentence	sentence_20682
+20682_3	advmod	20682_4
+20682_3	has_surface_form	better
+20682_4	is_in_sentence	sentence_20682
+20682_4	acl	20682_1
+20682_4	has_surface_form	known
+20682_5	is_in_sentence	sentence_20682
+20682_5	agent	20682_4
+20682_5	has_surface_form	by
+20682_6	is_in_sentence	sentence_20682
+20682_6	poss	20682_8
+20682_6	has_surface_form	his
+20682_8	is_in_sentence	sentence_20682
+20682_8	compound	20682_10
+20682_8	has_surface_form	name
+20682_7	is_in_sentence	sentence_20682
+20682_7	compound	20682_8
+20682_7	has_surface_form	stage
+20682_10	is_in_sentence	sentence_20682
+20682_10	pobj	20682_5
+20682_10	has_surface_form	Funk
+20682_9	is_in_sentence	sentence_20682
+20682_9	compound	20682_10
+20682_9	has_surface_form	DJ
+20682_11	is_in_sentence	sentence_20682
+20682_11	punct	20682_1
+20682_11	has_surface_form	,
+20682_13	is_in_sentence	sentence_20682
+20682_13	det	20682_16
+20682_13	has_surface_form	a
+20682_16	is_in_sentence	sentence_20682
+20682_16	attr	20682_12
+20682_16	has_surface_form	DJ
+20682_14	is_in_sentence	sentence_20682
+20682_14	compound	20682_16
+20682_14	has_surface_form	Chicago
+20682_15	is_in_sentence	sentence_20682
+20682_15	compound	20682_16
+20682_15	has_surface_form	house
+20682_17	is_in_sentence	sentence_20682
+20682_17	nsubj	20682_18
+20682_17	has_surface_form	who
+20682_18	is_in_sentence	sentence_20682
+20682_18	relcl	20682_16
+20682_18	has_surface_form	pioneered
+20682_19	is_in_sentence	sentence_20682
+20682_19	det	20682_22
+20682_19	has_surface_form	the
+20682_22	is_in_sentence	sentence_20682
+20682_22	dobj	20682_18
+20682_22	has_surface_form	subgenre
+20682_20	is_in_sentence	sentence_20682
+20682_20	compound	20682_21
+20682_20	has_surface_form	ghetto
+20682_20	part_of_entity	ghetto house
+20682_21	is_in_sentence	sentence_20682
+20682_21	compound	20682_22
+20682_21	has_surface_form	house
+20682_21	part_of_entity	ghetto house
+20682_23	is_in_sentence	sentence_20682
+20682_23	prep	20682_22
+20682_23	has_surface_form	of
+20682_24	is_in_sentence	sentence_20682
+20682_24	compound	20682_25
+20682_24	has_surface_form	house
+20682_25	is_in_sentence	sentence_20682
+20682_25	pobj	20682_23
+20682_25	has_surface_form	music
+20682_26	is_in_sentence	sentence_20682
+20682_26	punct	20682_12
+20682_26	has_surface_form	.
+20682_27	is_in_sentence	sentence_20682
+20682_27	dep	20682_27
+20682_27	has_surface_form	
+Charles Chambers	surface_form	Charles Chambers
+Charles Chambers	has-genre	ghetto house
+ghetto house	surface_form	ghetto house

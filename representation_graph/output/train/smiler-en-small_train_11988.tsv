@@ -1,0 +1,74 @@
+11987_0	is_in_sentence	sentence_11987
+11987_0	compound	11987_1
+11987_0	has_surface_form	Daegu
+11987_0	part_of_entity	Daegu University of Foreign Studies
+11987_1	is_in_sentence	sentence_11987
+11987_1	nsubj	11987_5
+11987_1	has_surface_form	University
+11987_1	part_of_entity	Daegu University of Foreign Studies
+11987_5	is_in_sentence	sentence_11987
+11987_5	ROOT	11987_5
+11987_5	has_surface_form	is
+11987_2	is_in_sentence	sentence_11987
+11987_2	prep	11987_1
+11987_2	has_surface_form	of
+11987_2	part_of_entity	Daegu University of Foreign Studies
+11987_3	is_in_sentence	sentence_11987
+11987_3	compound	11987_4
+11987_3	has_surface_form	Foreign
+11987_3	part_of_entity	Daegu University of Foreign Studies
+11987_4	is_in_sentence	sentence_11987
+11987_4	pobj	11987_2
+11987_4	has_surface_form	Studies
+11987_4	part_of_entity	Daegu University of Foreign Studies
+11987_6	is_in_sentence	sentence_11987
+11987_6	det	11987_7
+11987_6	has_surface_form	a
+11987_7	is_in_sentence	sentence_11987
+11987_7	attr	11987_5
+11987_7	has_surface_form	university
+11987_8	is_in_sentence	sentence_11987
+11987_8	prep	11987_7
+11987_8	has_surface_form	of
+11987_9	is_in_sentence	sentence_11987
+11987_9	compound	11987_10
+11987_9	has_surface_form	Foreign
+11987_10	is_in_sentence	sentence_11987
+11987_10	pobj	11987_8
+11987_10	has_surface_form	Studies
+11987_11	is_in_sentence	sentence_11987
+11987_11	prep	11987_7
+11987_11	has_surface_form	in
+11987_12	is_in_sentence	sentence_11987
+11987_12	pobj	11987_11
+11987_12	is_entity	Gyeongsan
+Gyeongsan	surface_form	Gyeongsan
+11987_13	is_in_sentence	sentence_11987
+11987_13	punct	11987_12
+11987_13	has_surface_form	,
+11987_14	is_in_sentence	sentence_11987
+11987_14	compound	11987_16
+11987_14	has_surface_form	North
+11987_16	is_in_sentence	sentence_11987
+11987_16	conj	11987_12
+11987_16	has_surface_form	Province
+11987_15	is_in_sentence	sentence_11987
+11987_15	compound	11987_16
+11987_15	has_surface_form	Gyeongsang
+11987_17	is_in_sentence	sentence_11987
+11987_17	punct	11987_16
+11987_17	has_surface_form	,
+11987_18	is_in_sentence	sentence_11987
+11987_18	compound	11987_19
+11987_18	has_surface_form	South
+11987_19	is_in_sentence	sentence_11987
+11987_19	appos	11987_16
+11987_19	has_surface_form	Korea
+11987_20	is_in_sentence	sentence_11987
+11987_20	punct	11987_5
+11987_20	has_surface_form	.
+11987_21	is_in_sentence	sentence_11987
+11987_21	dep	11987_21
+11987_21	has_surface_form	
+Daegu University of Foreign Studies	surface_form	Daegu University of Foreign Studies
+Daegu University of Foreign Studies	is-where	Gyeongsan

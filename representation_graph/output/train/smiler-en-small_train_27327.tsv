@@ -1,0 +1,76 @@
+27326_0	is_in_sentence	sentence_27326
+27326_0	det	27326_1
+27326_0	has_surface_form	A
+27326_0	part_of_entity	A Flower in Hell
+27326_1	is_in_sentence	sentence_27326
+27326_1	ROOT	27326_1
+27326_1	has_surface_form	Flower
+27326_1	part_of_entity	A Flower in Hell
+27326_2	is_in_sentence	sentence_27326
+27326_2	prep	27326_1
+27326_2	has_surface_form	in
+27326_2	part_of_entity	A Flower in Hell
+27326_3	is_in_sentence	sentence_27326
+27326_3	pobj	27326_2
+27326_3	has_surface_form	Hell
+27326_3	part_of_entity	A Flower in Hell
+27326_4	is_in_sentence	sentence_27326
+27326_4	punct	27326_1
+27326_4	has_surface_form	(
+27326_5	is_in_sentence	sentence_27326
+27326_5	nsubj	27326_9
+27326_5	has_surface_form	지옥화
+27326_9	is_in_sentence	sentence_27326
+27326_9	parataxis	27326_1
+27326_9	has_surface_form	is
+27326_6	is_in_sentence	sentence_27326
+27326_6	punct	27326_5
+27326_6	has_surface_form	–
+27326_7	is_in_sentence	sentence_27326
+27326_7	appos	27326_5
+27326_7	has_surface_form	Jiokhwa
+27326_8	is_in_sentence	sentence_27326
+27326_8	punct	27326_5
+27326_8	has_surface_form	)
+27326_10	is_in_sentence	sentence_27326
+27326_10	det	27326_14
+27326_10	has_surface_form	a
+27326_14	is_in_sentence	sentence_27326
+27326_14	attr	27326_9
+27326_14	has_surface_form	film
+27326_11	is_in_sentence	sentence_27326
+27326_11	nummod	27326_14
+27326_11	has_surface_form	1958
+27326_12	is_in_sentence	sentence_27326
+27326_12	amod	27326_13
+27326_12	has_surface_form	South
+27326_13	is_in_sentence	sentence_27326
+27326_13	amod	27326_14
+27326_13	has_surface_form	Korean
+27326_15	is_in_sentence	sentence_27326
+27326_15	acl	27326_14
+27326_15	has_surface_form	directed
+27326_16	is_in_sentence	sentence_27326
+27326_16	agent	27326_15
+27326_16	has_surface_form	by
+27326_17	is_in_sentence	sentence_27326
+27326_17	compound	27326_20
+27326_17	has_surface_form	Shin
+27326_20	is_in_sentence	sentence_27326
+27326_20	pobj	27326_16
+27326_20	has_surface_form	ok
+27326_18	is_in_sentence	sentence_27326
+27326_18	compound	27326_20
+27326_18	has_surface_form	Sang
+27326_19	is_in_sentence	sentence_27326
+27326_19	punct	27326_20
+27326_19	has_surface_form	-
+27326_21	is_in_sentence	sentence_27326
+27326_21	punct	27326_9
+27326_21	has_surface_form	.
+27326_22	is_in_sentence	sentence_27326
+27326_22	dep	27326_9
+27326_22	has_surface_form	
+A Flower in Hell	surface_form	A Flower in Hell
+A Flower in Hell	movie-has-director	Shin Sang-ok
+Shin Sang-ok	surface_form	Shin Sang-ok

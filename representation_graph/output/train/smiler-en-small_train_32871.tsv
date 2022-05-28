@@ -1,0 +1,56 @@
+32870_0	is_in_sentence	sentence_32870
+32870_0	compound	32870_1
+32870_0	has_surface_form	Sid
+32870_0	part_of_entity	Sid Espinosa
+32870_1	is_in_sentence	sentence_32870
+32870_1	nsubj	32870_9
+32870_1	has_surface_form	Espinosa
+32870_1	part_of_entity	Sid Espinosa
+32870_9	is_in_sentence	sentence_32870
+32870_9	ROOT	32870_9
+32870_9	has_surface_form	is
+32870_2	is_in_sentence	sentence_32870
+32870_2	punct	32870_1
+32870_2	has_surface_form	(
+32870_3	is_in_sentence	sentence_32870
+32870_3	acl	32870_1
+32870_3	has_surface_form	born
+32870_4	is_in_sentence	sentence_32870
+32870_4	npadvmod	32870_3
+32870_4	has_surface_form	May
+32870_5	is_in_sentence	sentence_32870
+32870_5	nummod	32870_4
+32870_5	has_surface_form	24
+32870_6	is_in_sentence	sentence_32870
+32870_6	punct	32870_4
+32870_6	has_surface_form	,
+32870_7	is_in_sentence	sentence_32870
+32870_7	nummod	32870_4
+32870_7	has_surface_form	1972
+32870_8	is_in_sentence	sentence_32870
+32870_8	punct	32870_1
+32870_8	has_surface_form	)
+32870_10	is_in_sentence	sentence_32870
+32870_10	det	32870_12
+32870_10	has_surface_form	an
+32870_12	is_in_sentence	sentence_32870
+32870_12	attr	32870_9
+32870_12	has_surface_form	businessman
+32870_11	is_in_sentence	sentence_32870
+32870_11	amod	32870_12
+32870_11	is_entity	American
+American	surface_form	American
+32870_13	is_in_sentence	sentence_32870
+32870_13	cc	32870_12
+32870_13	has_surface_form	and
+32870_14	is_in_sentence	sentence_32870
+32870_14	conj	32870_12
+32870_14	has_surface_form	politician
+32870_15	is_in_sentence	sentence_32870
+32870_15	punct	32870_9
+32870_15	has_surface_form	.
+32870_16	is_in_sentence	sentence_32870
+32870_16	dep	32870_16
+32870_16	has_surface_form	
+Sid Espinosa	surface_form	Sid Espinosa
+Sid Espinosa	has-nationality	American

@@ -1,0 +1,47 @@
+5189_0	is_in_sentence	sentence_5189
+5189_0	compound	5189_1
+5189_0	has_surface_form	Thorsten
+5189_0	part_of_entity	Thorsten Brötzmann
+5189_1	is_in_sentence	sentence_5189
+5189_1	nsubj	5189_2
+5189_1	has_surface_form	Brötzmann
+5189_1	part_of_entity	Thorsten Brötzmann
+5189_2	is_in_sentence	sentence_5189
+5189_2	ROOT	5189_2
+5189_2	has_surface_form	is
+5189_3	is_in_sentence	sentence_5189
+5189_3	det	5189_6
+5189_3	has_surface_form	a
+5189_6	is_in_sentence	sentence_5189
+5189_6	attr	5189_2
+5189_6	has_surface_form	producer
+5189_4	is_in_sentence	sentence_5189
+5189_4	amod	5189_6
+5189_4	has_surface_form	German
+5189_5	is_in_sentence	sentence_5189
+5189_5	compound	5189_6
+5189_5	has_surface_form	record
+5189_7	is_in_sentence	sentence_5189
+5189_7	punct	5189_6
+5189_7	has_surface_form	,
+5189_8	is_in_sentence	sentence_5189
+5189_8	conj	5189_6
+5189_8	is_entity	composer
+composer	surface_form	composer
+5189_9	is_in_sentence	sentence_5189
+5189_9	punct	5189_8
+5189_9	has_surface_form	,
+5189_10	is_in_sentence	sentence_5189
+5189_10	cc	5189_8
+5189_10	has_surface_form	and
+5189_11	is_in_sentence	sentence_5189
+5189_11	conj	5189_8
+5189_11	has_surface_form	arranger
+5189_12	is_in_sentence	sentence_5189
+5189_12	punct	5189_2
+5189_12	has_surface_form	.
+5189_13	is_in_sentence	sentence_5189
+5189_13	dep	5189_13
+5189_13	has_surface_form	
+Thorsten Brötzmann	surface_form	Thorsten Brötzmann
+Thorsten Brötzmann	has-occupation	composer

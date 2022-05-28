@@ -1,0 +1,128 @@
+100_0	is_in_sentence	sentence_100
+100_0	mark	100_2
+100_0	has_surface_form	If
+100_0	part_of_entity	If You Won a Hundred Million
+100_2	is_in_sentence	sentence_100
+100_2	advcl	100_14
+100_2	has_surface_form	Won
+100_2	part_of_entity	If You Won a Hundred Million
+100_1	is_in_sentence	sentence_100
+100_1	nsubj	100_2
+100_1	has_surface_form	You
+100_1	part_of_entity	If You Won a Hundred Million
+100_14	is_in_sentence	sentence_100
+100_14	ROOT	100_14
+100_14	has_surface_form	is
+100_3	is_in_sentence	sentence_100
+100_3	det	100_5
+100_3	has_surface_form	a
+100_3	part_of_entity	If You Won a Hundred Million
+100_5	is_in_sentence	sentence_100
+100_5	dobj	100_2
+100_5	has_surface_form	Million
+100_5	part_of_entity	If You Won a Hundred Million
+100_4	is_in_sentence	sentence_100
+100_4	compound	100_5
+100_4	has_surface_form	Hundred
+100_4	part_of_entity	If You Won a Hundred Million
+100_6	is_in_sentence	sentence_100
+100_6	punct	100_5
+100_6	has_surface_form	(
+100_7	is_in_sentence	sentence_100
+100_7	appos	100_5
+100_7	has_surface_form	Italian
+100_8	is_in_sentence	sentence_100
+100_8	punct	100_5
+100_8	has_surface_form	:
+100_9	is_in_sentence	sentence_100
+100_9	compound	100_10
+100_9	has_surface_form	Se
+100_10	is_in_sentence	sentence_100
+100_10	compound	100_12
+100_10	has_surface_form	vincessi
+100_12	is_in_sentence	sentence_100
+100_12	appos	100_5
+100_12	has_surface_form	milioni
+100_11	is_in_sentence	sentence_100
+100_11	compound	100_12
+100_11	has_surface_form	cento
+100_13	is_in_sentence	sentence_100
+100_13	punct	100_5
+100_13	has_surface_form	)
+100_15	is_in_sentence	sentence_100
+100_15	det	100_19
+100_15	has_surface_form	a
+100_19	is_in_sentence	sentence_100
+100_19	attr	100_14
+100_19	has_surface_form	film
+100_16	is_in_sentence	sentence_100
+100_16	nummod	100_19
+100_16	has_surface_form	1953
+100_17	is_in_sentence	sentence_100
+100_17	amod	100_19
+100_17	has_surface_form	Italian
+100_18	is_in_sentence	sentence_100
+100_18	compound	100_19
+100_18	has_surface_form	comedy
+100_20	is_in_sentence	sentence_100
+100_20	acl	100_19
+100_20	has_surface_form	directed
+100_21	is_in_sentence	sentence_100
+100_21	agent	100_20
+100_21	has_surface_form	by
+100_22	is_in_sentence	sentence_100
+100_22	compound	100_23
+100_22	has_surface_form	Carlo
+100_23	is_in_sentence	sentence_100
+100_23	pobj	100_21
+100_23	has_surface_form	Campogalliani
+100_24	is_in_sentence	sentence_100
+100_24	cc	100_23
+100_24	has_surface_form	and
+100_25	is_in_sentence	sentence_100
+100_25	compound	100_26
+100_25	has_surface_form	Carlo
+100_25	part_of_entity	Carlo Moscovini
+100_26	is_in_sentence	sentence_100
+100_26	conj	100_23
+100_26	has_surface_form	Moscovini
+100_26	part_of_entity	Carlo Moscovini
+100_27	is_in_sentence	sentence_100
+100_27	cc	100_20
+100_27	has_surface_form	and
+100_28	is_in_sentence	sentence_100
+100_28	conj	100_20
+100_28	has_surface_form	starring
+100_29	is_in_sentence	sentence_100
+100_29	compound	100_30
+100_29	has_surface_form	Tino
+100_30	is_in_sentence	sentence_100
+100_30	dobj	100_28
+100_30	has_surface_form	Scotti
+100_31	is_in_sentence	sentence_100
+100_31	punct	100_30
+100_31	has_surface_form	,
+100_32	is_in_sentence	sentence_100
+100_32	compound	100_33
+100_32	has_surface_form	Nerio
+100_33	is_in_sentence	sentence_100
+100_33	conj	100_30
+100_33	has_surface_form	Bernardi
+100_34	is_in_sentence	sentence_100
+100_34	cc	100_33
+100_34	has_surface_form	and
+100_35	is_in_sentence	sentence_100
+100_35	compound	100_36
+100_35	has_surface_form	Anna
+100_36	is_in_sentence	sentence_100
+100_36	conj	100_33
+100_36	has_surface_form	Carena
+100_37	is_in_sentence	sentence_100
+100_37	punct	100_14
+100_37	has_surface_form	.
+100_38	is_in_sentence	sentence_100
+100_38	dep	100_14
+100_38	has_surface_form	
+If You Won a Hundred Million	surface_form	If You Won a Hundred Million
+If You Won a Hundred Million	movie-has-director	Carlo Moscovini
+Carlo Moscovini	surface_form	Carlo Moscovini

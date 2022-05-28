@@ -1,0 +1,85 @@
+3591_0	is_in_sentence	sentence_3591
+3591_0	compound	3591_1
+3591_0	has_surface_form	La
+3591_0	part_of_entity	La Poison
+3591_1	is_in_sentence	sentence_3591
+3591_1	nsubj	3591_2
+3591_1	has_surface_form	Poison
+3591_1	part_of_entity	La Poison
+3591_2	is_in_sentence	sentence_3591
+3591_2	ROOT	3591_2
+3591_2	has_surface_form	is
+3591_3	is_in_sentence	sentence_3591
+3591_3	det	3591_8
+3591_3	has_surface_form	a
+3591_8	is_in_sentence	sentence_3591
+3591_8	attr	3591_2
+3591_8	has_surface_form	film
+3591_4	is_in_sentence	sentence_3591
+3591_4	nummod	3591_8
+3591_4	has_surface_form	1951
+3591_5	is_in_sentence	sentence_3591
+3591_5	amod	3591_8
+3591_5	has_surface_form	French
+3591_6	is_in_sentence	sentence_3591
+3591_6	compound	3591_8
+3591_6	has_surface_form	comedy
+3591_7	is_in_sentence	sentence_3591
+3591_7	compound	3591_8
+3591_7	has_surface_form	drama
+3591_9	is_in_sentence	sentence_3591
+3591_9	punct	3591_8
+3591_9	has_surface_form	,
+3591_10	is_in_sentence	sentence_3591
+3591_10	acl	3591_8
+3591_10	has_surface_form	written
+3591_11	is_in_sentence	sentence_3591
+3591_11	cc	3591_10
+3591_11	has_surface_form	and
+3591_12	is_in_sentence	sentence_3591
+3591_12	conj	3591_10
+3591_12	has_surface_form	directed
+3591_13	is_in_sentence	sentence_3591
+3591_13	agent	3591_12
+3591_13	has_surface_form	by
+3591_14	is_in_sentence	sentence_3591
+3591_14	compound	3591_15
+3591_14	has_surface_form	Sacha
+3591_14	part_of_entity	Sacha Guitry
+3591_15	is_in_sentence	sentence_3591
+3591_15	pobj	3591_13
+3591_15	has_surface_form	Guitry
+3591_15	part_of_entity	Sacha Guitry
+3591_16	is_in_sentence	sentence_3591
+3591_16	punct	3591_8
+3591_16	has_surface_form	,
+3591_17	is_in_sentence	sentence_3591
+3591_17	acl	3591_8
+3591_17	has_surface_form	starring
+3591_18	is_in_sentence	sentence_3591
+3591_18	compound	3591_19
+3591_18	has_surface_form	Michel
+3591_19	is_in_sentence	sentence_3591
+3591_19	dobj	3591_17
+3591_19	has_surface_form	Simon
+3591_20	is_in_sentence	sentence_3591
+3591_20	cc	3591_19
+3591_20	has_surface_form	and
+3591_21	is_in_sentence	sentence_3591
+3591_21	compound	3591_23
+3591_21	has_surface_form	Louis
+3591_23	is_in_sentence	sentence_3591
+3591_23	conj	3591_19
+3591_23	has_surface_form	Funès
+3591_22	is_in_sentence	sentence_3591
+3591_22	compound	3591_23
+3591_22	has_surface_form	de
+3591_24	is_in_sentence	sentence_3591
+3591_24	punct	3591_2
+3591_24	has_surface_form	.
+3591_25	is_in_sentence	sentence_3591
+3591_25	dep	3591_25
+3591_25	has_surface_form	
+La Poison	surface_form	La Poison
+La Poison	movie-has-director	Sacha Guitry
+Sacha Guitry	surface_form	Sacha Guitry

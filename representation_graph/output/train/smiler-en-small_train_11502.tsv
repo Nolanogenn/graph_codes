@@ -1,0 +1,102 @@
+11501_0	is_in_sentence	sentence_11501
+11501_0	compound	11501_1
+11501_0	has_surface_form	Loyola
+11501_0	part_of_entity	Loyola Institute of Technology and Management
+11501_1	is_in_sentence	sentence_11501
+11501_1	nsubj	11501_6
+11501_1	has_surface_form	Institute
+11501_1	part_of_entity	Loyola Institute of Technology and Management
+11501_6	is_in_sentence	sentence_11501
+11501_6	ROOT	11501_6
+11501_6	has_surface_form	is
+11501_2	is_in_sentence	sentence_11501
+11501_2	prep	11501_1
+11501_2	has_surface_form	of
+11501_2	part_of_entity	Loyola Institute of Technology and Management
+11501_3	is_in_sentence	sentence_11501
+11501_3	pobj	11501_2
+11501_3	has_surface_form	Technology
+11501_3	part_of_entity	Loyola Institute of Technology and Management
+11501_4	is_in_sentence	sentence_11501
+11501_4	cc	11501_3
+11501_4	has_surface_form	and
+11501_4	part_of_entity	Loyola Institute of Technology and Management
+11501_5	is_in_sentence	sentence_11501
+11501_5	conj	11501_3
+11501_5	has_surface_form	Management
+11501_5	part_of_entity	Loyola Institute of Technology and Management
+11501_7	is_in_sentence	sentence_11501
+11501_7	det	11501_9
+11501_7	has_surface_form	an
+11501_9	is_in_sentence	sentence_11501
+11501_9	attr	11501_6
+11501_9	has_surface_form	college
+11501_8	is_in_sentence	sentence_11501
+11501_8	compound	11501_9
+11501_8	has_surface_form	engineering
+11501_10	is_in_sentence	sentence_11501
+11501_10	prep	11501_9
+11501_10	has_surface_form	in
+11501_11	is_in_sentence	sentence_11501
+11501_11	pobj	11501_10
+11501_11	is_entity	Guntur
+Guntur	surface_form	Guntur
+11501_12	is_in_sentence	sentence_11501
+11501_12	punct	11501_6
+11501_12	has_surface_form	,
+11501_13	is_in_sentence	sentence_11501
+11501_13	advcl	11501_6
+11501_13	has_surface_form	offering
+11501_14	is_in_sentence	sentence_11501
+11501_14	dobj	11501_13
+11501_14	has_surface_form	graduate
+11501_15	is_in_sentence	sentence_11501
+11501_15	punct	11501_16
+11501_15	has_surface_form	(
+11501_16	is_in_sentence	sentence_11501
+11501_16	appos	11501_14
+11501_16	has_surface_form	Masters
+11501_17	is_in_sentence	sentence_11501
+11501_17	punct	11501_16
+11501_17	has_surface_form	)
+11501_18	is_in_sentence	sentence_11501
+11501_18	cc	11501_14
+11501_18	has_surface_form	and
+11501_19	is_in_sentence	sentence_11501
+11501_19	amod	11501_20
+11501_19	has_surface_form	undergraduate
+11501_20	is_in_sentence	sentence_11501
+11501_20	conj	11501_14
+11501_20	has_surface_form	education
+11501_21	is_in_sentence	sentence_11501
+11501_21	punct	11501_24
+11501_21	has_surface_form	(
+11501_24	is_in_sentence	sentence_11501
+11501_24	dobj	11501_13
+11501_24	has_surface_form	courses
+11501_22	is_in_sentence	sentence_11501
+11501_22	nmod	11501_24
+11501_22	has_surface_form	Bachelors
+11501_23	is_in_sentence	sentence_11501
+11501_23	punct	11501_24
+11501_23	has_surface_form	)
+11501_25	is_in_sentence	sentence_11501
+11501_25	prep	11501_24
+11501_25	has_surface_form	in
+11501_26	is_in_sentence	sentence_11501
+11501_26	pobj	11501_25
+11501_26	has_surface_form	engineering
+11501_27	is_in_sentence	sentence_11501
+11501_27	cc	11501_26
+11501_27	has_surface_form	and
+11501_28	is_in_sentence	sentence_11501
+11501_28	conj	11501_26
+11501_28	has_surface_form	technology
+11501_29	is_in_sentence	sentence_11501
+11501_29	punct	11501_6
+11501_29	has_surface_form	.
+11501_30	is_in_sentence	sentence_11501
+11501_30	dep	11501_30
+11501_30	has_surface_form	
+Loyola Institute of Technology and Management	surface_form	Loyola Institute of Technology and Management
+Loyola Institute of Technology and Management	is-where	Guntur

@@ -1,0 +1,55 @@
+26985_0	is_in_sentence	sentence_26985
+26985_0	compound	26985_1
+26985_0	has_surface_form	Berne
+26985_0	part_of_entity	Berne Union High School
+26985_1	is_in_sentence	sentence_26985
+26985_1	compound	26985_3
+26985_1	has_surface_form	Union
+26985_1	part_of_entity	Berne Union High School
+26985_3	is_in_sentence	sentence_26985
+26985_3	nsubj	26985_4
+26985_3	has_surface_form	School
+26985_3	part_of_entity	Berne Union High School
+26985_2	is_in_sentence	sentence_26985
+26985_2	compound	26985_3
+26985_2	has_surface_form	High
+26985_2	part_of_entity	Berne Union High School
+26985_4	is_in_sentence	sentence_26985
+26985_4	ROOT	26985_4
+26985_4	has_surface_form	is
+26985_5	is_in_sentence	sentence_26985
+26985_5	det	26985_8
+26985_5	has_surface_form	a
+26985_8	is_in_sentence	sentence_26985
+26985_8	attr	26985_4
+26985_8	has_surface_form	school
+26985_6	is_in_sentence	sentence_26985
+26985_6	amod	26985_8
+26985_6	has_surface_form	public
+26985_7	is_in_sentence	sentence_26985
+26985_7	amod	26985_8
+26985_7	has_surface_form	high
+26985_9	is_in_sentence	sentence_26985
+26985_9	prep	26985_8
+26985_9	has_surface_form	in
+26985_10	is_in_sentence	sentence_26985
+26985_10	compound	26985_11
+26985_10	has_surface_form	Sugar
+26985_11	is_in_sentence	sentence_26985
+26985_11	pobj	26985_9
+26985_11	has_surface_form	Grove
+26985_12	is_in_sentence	sentence_26985
+26985_12	punct	26985_11
+26985_12	has_surface_form	,
+26985_13	is_in_sentence	sentence_26985
+26985_13	appos	26985_11
+26985_13	has_surface_form	Ohio
+26985_14	is_in_sentence	sentence_26985
+26985_14	punct	26985_4
+26985_14	has_surface_form	.
+26985_15	is_in_sentence	sentence_26985
+26985_15	dep	26985_4
+26985_15	has_surface_form	
+Berne Union High School	surface_form	Berne Union High School
+Berne Union High School	is-where	Sugar Grove, Ohio
+Sugar Grove, Ohio	surface_form	Sugar Grove, Ohio

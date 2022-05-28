@@ -1,0 +1,71 @@
+1199_0	is_in_sentence	sentence_1199
+1199_0	nsubj	1199_1
+1199_0	has_surface_form	It
+1199_1	is_in_sentence	sentence_1199
+1199_1	ROOT	1199_1
+1199_1	has_surface_form	's
+1199_2	is_in_sentence	sentence_1199
+1199_2	prep	1199_1
+1199_2	has_surface_form	in
+1199_3	is_in_sentence	sentence_1199
+1199_3	det	1199_4
+1199_3	has_surface_form	the
+1199_4	is_in_sentence	sentence_1199
+1199_4	pobj	1199_2
+1199_4	has_surface_form	Bag
+1199_5	is_in_sentence	sentence_1199
+1199_5	punct	1199_1
+1199_5	has_surface_form	!
+1199_6	is_in_sentence	sentence_1199
+1199_6	ROOT	1199_6
+1199_6	has_surface_form	is
+1199_7	is_in_sentence	sentence_1199
+1199_7	det	1199_10
+1199_7	has_surface_form	a
+1199_10	is_in_sentence	sentence_1199
+1199_10	attr	1199_6
+1199_10	has_surface_form	film
+1199_8	is_in_sentence	sentence_1199
+1199_8	nummod	1199_10
+1199_8	has_surface_form	1945
+1199_9	is_in_sentence	sentence_1199
+1199_9	compound	1199_10
+1199_9	has_surface_form	comedy
+1199_11	is_in_sentence	sentence_1199
+1199_11	acl	1199_10
+1199_11	has_surface_form	featuring
+1199_12	is_in_sentence	sentence_1199
+1199_12	compound	1199_13
+1199_12	has_surface_form	Fred
+1199_12	part_of_entity	Fred Allen
+1199_13	is_in_sentence	sentence_1199
+1199_13	dobj	1199_11
+1199_13	has_surface_form	Allen
+1199_13	part_of_entity	Fred Allen
+1199_14	is_in_sentence	sentence_1199
+1199_14	prep	1199_11
+1199_14	has_surface_form	in
+1199_15	is_in_sentence	sentence_1199
+1199_15	poss	1199_19
+1199_15	has_surface_form	his
+1199_19	is_in_sentence	sentence_1199
+1199_19	pobj	1199_14
+1199_19	has_surface_form	role
+1199_16	is_in_sentence	sentence_1199
+1199_16	advmod	1199_17
+1199_16	has_surface_form	only
+1199_17	is_in_sentence	sentence_1199
+1199_17	amod	1199_19
+1199_17	has_surface_form	starring
+1199_18	is_in_sentence	sentence_1199
+1199_18	compound	1199_19
+1199_18	has_surface_form	film
+1199_20	is_in_sentence	sentence_1199
+1199_20	punct	1199_6
+1199_20	has_surface_form	.
+1199_21	is_in_sentence	sentence_1199
+1199_21	dep	1199_21
+1199_21	has_surface_form	
+It's in the Bag!	surface_form	It's in the Bag!
+It's in the Bag!	starring	Fred Allen
+Fred Allen	surface_form	Fred Allen

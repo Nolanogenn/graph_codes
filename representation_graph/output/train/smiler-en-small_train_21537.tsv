@@ -1,0 +1,57 @@
+21536_0	is_in_sentence	sentence_21536
+21536_0	compound	21536_2
+21536_0	has_surface_form	Oru
+21536_0	part_of_entity	Oru Sayahnathinte Swapnam
+21536_2	is_in_sentence	sentence_21536
+21536_2	nsubj	21536_3
+21536_2	has_surface_form	Swapnam
+21536_2	part_of_entity	Oru Sayahnathinte Swapnam
+21536_1	is_in_sentence	sentence_21536
+21536_1	compound	21536_2
+21536_1	has_surface_form	Sayahnathinte
+21536_1	part_of_entity	Oru Sayahnathinte Swapnam
+21536_3	is_in_sentence	sentence_21536
+21536_3	ROOT	21536_3
+21536_3	has_surface_form	is
+21536_4	is_in_sentence	sentence_21536
+21536_4	det	21536_10
+21536_4	has_surface_form	a
+21536_10	is_in_sentence	sentence_21536
+21536_10	attr	21536_3
+21536_10	has_surface_form	film
+21536_5	is_in_sentence	sentence_21536
+21536_5	nummod	21536_10
+21536_5	has_surface_form	1989
+21536_6	is_in_sentence	sentence_21536
+21536_6	compound	21536_10
+21536_6	has_surface_form	Indian
+21536_7	is_in_sentence	sentence_21536
+21536_7	compound	21536_9
+21536_7	has_surface_form	Malayalam
+21536_9	is_in_sentence	sentence_21536
+21536_9	compound	21536_10
+21536_9	has_surface_form	language
+21536_8	is_in_sentence	sentence_21536
+21536_8	punct	21536_9
+21536_8	has_surface_form	-
+21536_11	is_in_sentence	sentence_21536
+21536_11	punct	21536_10
+21536_11	has_surface_form	,
+21536_12	is_in_sentence	sentence_21536
+21536_12	acl	21536_10
+21536_12	has_surface_form	directed
+21536_13	is_in_sentence	sentence_21536
+21536_13	agent	21536_12
+21536_13	has_surface_form	by
+21536_14	is_in_sentence	sentence_21536
+21536_14	pobj	21536_13
+21536_14	is_entity	Bharathan
+Bharathan	surface_form	Bharathan
+21536_15	is_in_sentence	sentence_21536
+21536_15	punct	21536_3
+21536_15	has_surface_form	.
+21536_16	is_in_sentence	sentence_21536
+21536_16	dep	21536_16
+21536_16	has_surface_form	
+Oru Sayahnathinte Swapnam	surface_form	Oru Sayahnathinte Swapnam
+Oru Sayahnathinte Swapnam	movie-has-director	Bharathan

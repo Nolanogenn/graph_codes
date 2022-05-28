@@ -1,0 +1,89 @@
+21139_0	is_in_sentence	sentence_21139
+21139_0	compound	21139_1
+21139_0	has_surface_form	Kshana
+21139_0	part_of_entity	Kshana Kshana
+21139_1	is_in_sentence	sentence_21139
+21139_1	nsubj	21139_8
+21139_1	has_surface_form	Kshana
+21139_1	part_of_entity	Kshana Kshana
+21139_8	is_in_sentence	sentence_21139
+21139_8	ROOT	21139_8
+21139_8	has_surface_form	is
+21139_2	is_in_sentence	sentence_21139
+21139_2	punct	21139_3
+21139_2	has_surface_form	(
+21139_3	is_in_sentence	sentence_21139
+21139_3	appos	21139_1
+21139_3	has_surface_form	Kannada
+21139_4	is_in_sentence	sentence_21139
+21139_4	punct	21139_3
+21139_4	has_surface_form	:
+21139_5	is_in_sentence	sentence_21139
+21139_5	compound	21139_6
+21139_5	has_surface_form	ಕ್ಷಣ
+21139_6	is_in_sentence	sentence_21139
+21139_6	appos	21139_3
+21139_6	has_surface_form	ಕ್ಷಣ
+21139_7	is_in_sentence	sentence_21139
+21139_7	punct	21139_3
+21139_7	has_surface_form	)
+21139_9	is_in_sentence	sentence_21139
+21139_9	det	21139_16
+21139_9	has_surface_form	a
+21139_16	is_in_sentence	sentence_21139
+21139_16	attr	21139_8
+21139_16	has_surface_form	film
+21139_10	is_in_sentence	sentence_21139
+21139_10	nummod	21139_16
+21139_10	has_surface_form	2007
+21139_11	is_in_sentence	sentence_21139
+21139_11	compound	21139_12
+21139_11	has_surface_form	Indian
+21139_12	is_in_sentence	sentence_21139
+21139_12	compound	21139_14
+21139_12	has_surface_form	Kannada
+21139_14	is_in_sentence	sentence_21139
+21139_14	compound	21139_16
+21139_14	has_surface_form	crime
+21139_13	is_in_sentence	sentence_21139
+21139_13	compound	21139_14
+21139_13	has_surface_form	language
+21139_15	is_in_sentence	sentence_21139
+21139_15	compound	21139_16
+21139_15	has_surface_form	thriller
+21139_17	is_in_sentence	sentence_21139
+21139_17	acl	21139_16
+21139_17	has_surface_form	directed
+21139_18	is_in_sentence	sentence_21139
+21139_18	agent	21139_17
+21139_18	has_surface_form	by
+21139_19	is_in_sentence	sentence_21139
+21139_19	compound	21139_21
+21139_19	has_surface_form	Sunil
+21139_19	part_of_entity	Sunil Kumar Desai
+21139_21	is_in_sentence	sentence_21139
+21139_21	pobj	21139_18
+21139_21	has_surface_form	Desai
+21139_21	part_of_entity	Sunil Kumar Desai
+21139_20	is_in_sentence	sentence_21139
+21139_20	compound	21139_21
+21139_20	has_surface_form	Kumar
+21139_20	part_of_entity	Sunil Kumar Desai
+21139_22	is_in_sentence	sentence_21139
+21139_22	cc	21139_17
+21139_22	has_surface_form	and
+21139_23	is_in_sentence	sentence_21139
+21139_23	conj	21139_17
+21139_23	has_surface_form	produced
+21139_24	is_in_sentence	sentence_21139
+21139_24	agent	21139_23
+21139_24	has_surface_form	by
+21139_25	is_in_sentence	sentence_21139
+21139_25	compound	21139_26
+21139_25	has_surface_form	B.
+21139_26	is_in_sentence	sentence_21139
+21139_26	dep	21139_24
+21139_26	has_surface_form	
+Kshana Kshana	surface_form	Kshana Kshana
+Kshana Kshana	movie-has-director	Sunil Kumar Desai
+Sunil Kumar Desai	surface_form	Sunil Kumar Desai

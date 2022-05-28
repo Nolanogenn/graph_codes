@@ -1,0 +1,65 @@
+27983_0	is_in_sentence	sentence_27983
+27983_0	compound	27983_1
+27983_0	has_surface_form	Matthias
+27983_0	part_of_entity	Matthias Reim
+27983_1	is_in_sentence	sentence_27983
+27983_1	nsubj	27983_12
+27983_1	has_surface_form	Reim
+27983_1	part_of_entity	Matthias Reim
+27983_12	is_in_sentence	sentence_27983
+27983_12	ROOT	27983_12
+27983_12	has_surface_form	is
+27983_2	is_in_sentence	sentence_27983
+27983_2	punct	27983_1
+27983_2	has_surface_form	(
+27983_3	is_in_sentence	sentence_27983
+27983_3	acl	27983_1
+27983_3	has_surface_form	born
+27983_4	is_in_sentence	sentence_27983
+27983_4	nummod	27983_5
+27983_4	has_surface_form	26
+27983_5	is_in_sentence	sentence_27983
+27983_5	npadvmod	27983_3
+27983_5	has_surface_form	November
+27983_6	is_in_sentence	sentence_27983
+27983_6	nummod	27983_5
+27983_6	has_surface_form	1957
+27983_7	is_in_sentence	sentence_27983
+27983_7	prep	27983_3
+27983_7	has_surface_form	in
+27983_8	is_in_sentence	sentence_27983
+27983_8	pobj	27983_7
+27983_8	is_entity	Korbach
+Korbach	surface_form	Korbach
+27983_9	is_in_sentence	sentence_27983
+27983_9	punct	27983_8
+27983_9	has_surface_form	,
+27983_10	is_in_sentence	sentence_27983
+27983_10	appos	27983_8
+27983_10	has_surface_form	Hessen
+27983_11	is_in_sentence	sentence_27983
+27983_11	punct	27983_8
+27983_11	has_surface_form	)
+27983_13	is_in_sentence	sentence_27983
+27983_13	det	27983_17
+27983_13	has_surface_form	a
+27983_17	is_in_sentence	sentence_27983
+27983_17	attr	27983_12
+27983_17	has_surface_form	songwriter
+27983_14	is_in_sentence	sentence_27983
+27983_14	amod	27983_17
+27983_14	has_surface_form	German
+27983_15	is_in_sentence	sentence_27983
+27983_15	compound	27983_17
+27983_15	has_surface_form	singer
+27983_16	is_in_sentence	sentence_27983
+27983_16	punct	27983_17
+27983_16	has_surface_form	-
+27983_18	is_in_sentence	sentence_27983
+27983_18	punct	27983_12
+27983_18	has_surface_form	.
+27983_19	is_in_sentence	sentence_27983
+27983_19	dep	27983_12
+27983_19	has_surface_form	
+Matthias Reim	surface_form	Matthias Reim
+Matthias Reim	birth-place	Korbach

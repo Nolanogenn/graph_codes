@@ -1,0 +1,81 @@
+25324_0	is_in_sentence	sentence_25324
+25324_0	det	25324_1
+25324_0	has_surface_form	The
+25324_1	is_in_sentence	sentence_25324
+25324_1	nsubj	25324_5
+25324_1	has_surface_form	Secret
+25324_1	part_of_entity	Secret of Deep Harbor
+25324_5	is_in_sentence	sentence_25324
+25324_5	ROOT	25324_5
+25324_5	has_surface_form	is
+25324_2	is_in_sentence	sentence_25324
+25324_2	prep	25324_1
+25324_2	has_surface_form	of
+25324_2	part_of_entity	Secret of Deep Harbor
+25324_3	is_in_sentence	sentence_25324
+25324_3	compound	25324_4
+25324_3	has_surface_form	Deep
+25324_3	part_of_entity	Secret of Deep Harbor
+25324_4	is_in_sentence	sentence_25324
+25324_4	pobj	25324_2
+25324_4	has_surface_form	Harbor
+25324_4	part_of_entity	Secret of Deep Harbor
+25324_6	is_in_sentence	sentence_25324
+25324_6	det	25324_8
+25324_6	has_surface_form	a
+25324_8	is_in_sentence	sentence_25324
+25324_8	attr	25324_5
+25324_8	has_surface_form	film
+25324_7	is_in_sentence	sentence_25324
+25324_7	nummod	25324_8
+25324_7	has_surface_form	1961
+25324_9	is_in_sentence	sentence_25324
+25324_9	acl	25324_8
+25324_9	has_surface_form	directed
+25324_10	is_in_sentence	sentence_25324
+25324_10	agent	25324_9
+25324_10	has_surface_form	by
+25324_11	is_in_sentence	sentence_25324
+25324_11	compound	25324_13
+25324_11	has_surface_form	Edward
+25324_13	is_in_sentence	sentence_25324
+25324_13	pobj	25324_10
+25324_13	has_surface_form	Cahn
+25324_12	is_in_sentence	sentence_25324
+25324_12	compound	25324_13
+25324_12	has_surface_form	L.
+25324_14	is_in_sentence	sentence_25324
+25324_14	punct	25324_5
+25324_14	has_surface_form	,
+25324_15	is_in_sentence	sentence_25324
+25324_15	cc	25324_5
+25324_15	has_surface_form	and
+25324_16	is_in_sentence	sentence_25324
+25324_16	conj	25324_5
+25324_16	has_surface_form	starring
+25324_17	is_in_sentence	sentence_25324
+25324_17	compound	25324_18
+25324_17	has_surface_form	Ron
+25324_18	is_in_sentence	sentence_25324
+25324_18	dobj	25324_16
+25324_18	has_surface_form	Foster
+25324_19	is_in_sentence	sentence_25324
+25324_19	cc	25324_18
+25324_19	has_surface_form	and
+25324_20	is_in_sentence	sentence_25324
+25324_20	compound	25324_21
+25324_20	has_surface_form	Merry
+25324_20	part_of_entity	Merry Anders
+25324_21	is_in_sentence	sentence_25324
+25324_21	conj	25324_18
+25324_21	has_surface_form	Anders
+25324_21	part_of_entity	Merry Anders
+25324_22	is_in_sentence	sentence_25324
+25324_22	punct	25324_5
+25324_22	has_surface_form	.
+25324_23	is_in_sentence	sentence_25324
+25324_23	dep	25324_5
+25324_23	has_surface_form	
+Secret of Deep Harbor	surface_form	Secret of Deep Harbor
+Secret of Deep Harbor	starring	Merry Anders
+Merry Anders	surface_form	Merry Anders

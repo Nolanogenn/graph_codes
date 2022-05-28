@@ -1,0 +1,71 @@
+301_0	is_in_sentence	sentence_301
+301_0	det	301_2
+301_0	has_surface_form	The
+301_0	part_of_entity	The Leisure Society
+301_2	is_in_sentence	sentence_301
+301_2	nsubj	301_3
+301_2	has_surface_form	Society
+301_2	part_of_entity	The Leisure Society
+301_1	is_in_sentence	sentence_301
+301_1	compound	301_2
+301_1	has_surface_form	Leisure
+301_1	part_of_entity	The Leisure Society
+301_3	is_in_sentence	sentence_301
+301_3	ROOT	301_3
+301_3	has_surface_form	is
+301_4	is_in_sentence	sentence_301
+301_4	det	301_7
+301_4	has_surface_form	an
+301_7	is_in_sentence	sentence_301
+301_7	attr	301_3
+301_7	has_surface_form	band
+301_5	is_in_sentence	sentence_301
+301_5	amod	301_7
+301_5	has_surface_form	English
+301_6	is_in_sentence	sentence_301
+301_6	compound	301_7
+301_6	has_surface_form	rock
+301_8	is_in_sentence	sentence_301
+301_8	acl	301_7
+301_8	has_surface_form	formed
+301_9	is_in_sentence	sentence_301
+301_9	agent	301_8
+301_9	has_surface_form	by
+301_10	is_in_sentence	sentence_301
+301_10	compound	301_11
+301_10	has_surface_form	Nick
+301_11	is_in_sentence	sentence_301
+301_11	pobj	301_9
+301_11	has_surface_form	Hemming
+301_12	is_in_sentence	sentence_301
+301_12	cc	301_11
+301_12	has_surface_form	and
+301_13	is_in_sentence	sentence_301
+301_13	compound	301_14
+301_13	has_surface_form	Christian
+301_13	part_of_entity	Christian Hardy
+301_14	is_in_sentence	sentence_301
+301_14	conj	301_11
+301_14	has_surface_form	Hardy
+301_14	part_of_entity	Christian Hardy
+301_15	is_in_sentence	sentence_301
+301_15	prep	301_14
+301_15	has_surface_form	of
+301_16	is_in_sentence	sentence_301
+301_16	pobj	301_15
+301_16	has_surface_form	Burton
+301_17	is_in_sentence	sentence_301
+301_17	prep	301_8
+301_17	has_surface_form	upon
+301_18	is_in_sentence	sentence_301
+301_18	pobj	301_17
+301_18	has_surface_form	Trent
+301_19	is_in_sentence	sentence_301
+301_19	punct	301_3
+301_19	has_surface_form	.
+301_20	is_in_sentence	sentence_301
+301_20	dep	301_3
+301_20	has_surface_form	
+The Leisure Society	surface_form	The Leisure Society
+The Leisure Society	org-has-member	Christian Hardy
+Christian Hardy	surface_form	Christian Hardy

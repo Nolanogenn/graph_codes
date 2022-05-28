@@ -1,0 +1,66 @@
+1735_0	is_in_sentence	sentence_1735
+1735_0	prep	1735_5
+1735_0	has_surface_form	On
+1735_5	is_in_sentence	sentence_1735
+1735_5	ROOT	1735_5
+1735_5	has_surface_form	announced
+1735_1	is_in_sentence	sentence_1735
+1735_1	pobj	1735_0
+1735_1	has_surface_form	December
+1735_2	is_in_sentence	sentence_1735
+1735_2	nummod	1735_1
+1735_2	has_surface_form	1
+1735_3	is_in_sentence	sentence_1735
+1735_3	punct	1735_5
+1735_3	has_surface_form	,
+1735_4	is_in_sentence	sentence_1735
+1735_4	nsubj	1735_5
+1735_4	is_entity	Zuckerberg
+Zuckerberg	surface_form	Zuckerberg
+Zuckerberg	has-child	Maxima Chan Zuckerberg
+1735_6	is_in_sentence	sentence_1735
+1735_6	det	1735_7
+1735_6	has_surface_form	the
+1735_7	is_in_sentence	sentence_1735
+1735_7	dobj	1735_5
+1735_7	has_surface_form	birth
+1735_8	is_in_sentence	sentence_1735
+1735_8	prep	1735_7
+1735_8	has_surface_form	of
+1735_9	is_in_sentence	sentence_1735
+1735_9	poss	1735_10
+1735_9	has_surface_form	their
+1735_10	is_in_sentence	sentence_1735
+1735_10	pobj	1735_8
+1735_10	has_surface_form	daughter
+1735_11	is_in_sentence	sentence_1735
+1735_11	punct	1735_5
+1735_11	has_surface_form	,
+1735_12	is_in_sentence	sentence_1735
+1735_12	compound	1735_14
+1735_12	has_surface_form	Maxima
+1735_12	part_of_entity	Maxima Chan Zuckerberg
+1735_14	is_in_sentence	sentence_1735
+1735_14	npadvmod	1735_5
+1735_14	is_entity	Zuckerberg
+1735_14	part_of_entity	Maxima Chan Zuckerberg
+1735_13	is_in_sentence	sentence_1735
+1735_13	compound	1735_14
+1735_13	has_surface_form	Chan
+1735_13	part_of_entity	Maxima Chan Zuckerberg
+1735_15	is_in_sentence	sentence_1735
+1735_15	punct	1735_14
+1735_15	has_surface_form	(
+1735_16	is_in_sentence	sentence_1735
+1735_16	appos	1735_14
+1735_16	has_surface_form	Max
+1735_17	is_in_sentence	sentence_1735
+1735_17	punct	1735_14
+1735_17	has_surface_form	)
+1735_18	is_in_sentence	sentence_1735
+1735_18	punct	1735_5
+1735_18	has_surface_form	.
+1735_19	is_in_sentence	sentence_1735
+1735_19	dep	1735_19
+1735_19	has_surface_form	
+Maxima Chan Zuckerberg	surface_form	Maxima Chan Zuckerberg

@@ -1,0 +1,66 @@
+4724_0	is_in_sentence	sentence_4724
+4724_0	det	4724_5
+4724_0	has_surface_form	The
+4724_5	is_in_sentence	sentence_4724
+4724_5	nsubjpass	4724_7
+4724_5	has_surface_form	opener
+4724_5	part_of_entity	garage door opener
+4724_1	is_in_sentence	sentence_4724
+4724_1	amod	4724_4
+4724_1	has_surface_form	electric
+4724_4	is_in_sentence	sentence_4724
+4724_4	compound	4724_5
+4724_4	has_surface_form	door
+4724_4	part_of_entity	garage door opener
+4724_2	is_in_sentence	sentence_4724
+4724_2	amod	4724_4
+4724_2	has_surface_form	overhead
+4724_3	is_in_sentence	sentence_4724
+4724_3	compound	4724_4
+4724_3	has_surface_form	garage
+4724_3	part_of_entity	garage door opener
+4724_7	is_in_sentence	sentence_4724
+4724_7	ROOT	4724_7
+4724_7	has_surface_form	invented
+4724_6	is_in_sentence	sentence_4724
+4724_6	auxpass	4724_7
+4724_6	has_surface_form	was
+4724_8	is_in_sentence	sentence_4724
+4724_8	agent	4724_7
+4724_8	has_surface_form	by
+4724_9	is_in_sentence	sentence_4724
+4724_9	compound	4724_10
+4724_9	has_surface_form	C.G.
+4724_10	is_in_sentence	sentence_4724
+4724_10	pobj	4724_8
+4724_10	has_surface_form	Johnson
+4724_11	is_in_sentence	sentence_4724
+4724_11	prep	4724_7
+4724_11	has_surface_form	in
+4724_12	is_in_sentence	sentence_4724
+4724_12	pobj	4724_11
+4724_12	is_entity	1926
+1926	surface_form	1926
+4724_13	is_in_sentence	sentence_4724
+4724_13	prep	4724_7
+4724_13	has_surface_form	in
+4724_14	is_in_sentence	sentence_4724
+4724_14	compound	4724_15
+4724_14	has_surface_form	Hartford
+4724_15	is_in_sentence	sentence_4724
+4724_15	pobj	4724_13
+4724_15	has_surface_form	City
+4724_16	is_in_sentence	sentence_4724
+4724_16	punct	4724_15
+4724_16	has_surface_form	,
+4724_17	is_in_sentence	sentence_4724
+4724_17	appos	4724_15
+4724_17	has_surface_form	Indiana
+4724_18	is_in_sentence	sentence_4724
+4724_18	punct	4724_7
+4724_18	has_surface_form	.
+4724_19	is_in_sentence	sentence_4724
+4724_19	dep	4724_19
+4724_19	has_surface_form	
+garage door opener	surface_form	garage door opener
+garage door opener	invented-when	1926

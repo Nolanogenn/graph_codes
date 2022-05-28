@@ -1,0 +1,81 @@
+20355_0	is_in_sentence	sentence_20355
+20355_0	det	20355_4
+20355_0	has_surface_form	The
+20355_4	is_in_sentence	sentence_20355
+20355_4	ROOT	20355_4
+20355_4	has_surface_form	Brigade
+20355_4	part_of_entity	3rd Land Force Brigade
+20355_1	is_in_sentence	sentence_20355
+20355_1	compound	20355_3
+20355_1	has_surface_form	3rd
+20355_1	part_of_entity	3rd Land Force Brigade
+20355_3	is_in_sentence	sentence_20355
+20355_3	compound	20355_4
+20355_3	has_surface_form	Force
+20355_3	part_of_entity	3rd Land Force Brigade
+20355_2	is_in_sentence	sentence_20355
+20355_2	compound	20355_3
+20355_2	has_surface_form	Land
+20355_2	part_of_entity	3rd Land Force Brigade
+20355_5	is_in_sentence	sentence_20355
+20355_5	punct	20355_6
+20355_5	has_surface_form	(
+20355_6	is_in_sentence	sentence_20355
+20355_6	appos	20355_4
+20355_6	has_surface_form	Serbian
+20355_7	is_in_sentence	sentence_20355
+20355_7	punct	20355_6
+20355_7	has_surface_form	:
+20355_8	is_in_sentence	sentence_20355
+20355_8	appos	20355_6
+20355_8	has_surface_form	3
+20355_9	is_in_sentence	sentence_20355
+20355_9	punct	20355_6
+20355_9	has_surface_form	.
+20355_10	is_in_sentence	sentence_20355
+20355_10	compound	20355_11
+20355_10	has_surface_form	brigada
+20355_11	is_in_sentence	sentence_20355
+20355_11	compound	20355_12
+20355_11	has_surface_form	kopnene
+20355_12	is_in_sentence	sentence_20355
+20355_12	nsubj	20355_14
+20355_12	has_surface_form	vojske
+20355_14	is_in_sentence	sentence_20355
+20355_14	ROOT	20355_14
+20355_14	has_surface_form	is
+20355_13	is_in_sentence	sentence_20355
+20355_13	punct	20355_12
+20355_13	has_surface_form	)
+20355_15	is_in_sentence	sentence_20355
+20355_15	det	20355_17
+20355_15	has_surface_form	a
+20355_17	is_in_sentence	sentence_20355
+20355_17	attr	20355_14
+20355_17	has_surface_form	brigade
+20355_16	is_in_sentence	sentence_20355
+20355_16	amod	20355_17
+20355_16	has_surface_form	mixed
+20355_18	is_in_sentence	sentence_20355
+20355_18	prep	20355_17
+20355_18	has_surface_form	of
+20355_19	is_in_sentence	sentence_20355
+20355_19	compound	20355_21
+20355_19	has_surface_form	Serbian
+20355_21	is_in_sentence	sentence_20355
+20355_21	pobj	20355_18
+20355_21	has_surface_form	Forces
+20355_21	part_of_entity	Land Forces
+20355_20	is_in_sentence	sentence_20355
+20355_20	compound	20355_21
+20355_20	has_surface_form	Land
+20355_20	part_of_entity	Land Forces
+20355_22	is_in_sentence	sentence_20355
+20355_22	punct	20355_14
+20355_22	has_surface_form	.
+20355_23	is_in_sentence	sentence_20355
+20355_23	dep	20355_23
+20355_23	has_surface_form	
+3rd Land Force Brigade	surface_form	3rd Land Force Brigade
+3rd Land Force Brigade	has-type	Land Forces
+Land Forces	surface_form	Land Forces

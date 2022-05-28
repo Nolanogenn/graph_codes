@@ -1,0 +1,59 @@
+27728_0	is_in_sentence	sentence_27728
+27728_0	compound	27728_1
+27728_0	has_surface_form	Shaun
+27728_0	part_of_entity	Shaun Hutson
+27728_1	is_in_sentence	sentence_27728
+27728_1	nsubj	27728_6
+27728_1	has_surface_form	Hutson
+27728_1	part_of_entity	Shaun Hutson
+27728_6	is_in_sentence	sentence_27728
+27728_6	ROOT	27728_6
+27728_6	has_surface_form	is
+27728_2	is_in_sentence	sentence_27728
+27728_2	punct	27728_1
+27728_2	has_surface_form	(
+27728_3	is_in_sentence	sentence_27728
+27728_3	acl	27728_1
+27728_3	has_surface_form	born
+27728_4	is_in_sentence	sentence_27728
+27728_4	npadvmod	27728_3
+27728_4	has_surface_form	1958
+27728_5	is_in_sentence	sentence_27728
+27728_5	punct	27728_1
+27728_5	has_surface_form	)
+27728_7	is_in_sentence	sentence_27728
+27728_7	det	27728_9
+27728_7	has_surface_form	a
+27728_9	is_in_sentence	sentence_27728
+27728_9	attr	27728_6
+27728_9	is_entity	novelist
+27728_8	is_in_sentence	sentence_27728
+27728_8	amod	27728_9
+27728_8	has_surface_form	British
+novelist	surface_form	novelist
+27728_10	is_in_sentence	sentence_27728
+27728_10	prep	27728_9
+27728_10	has_surface_form	in
+27728_11	is_in_sentence	sentence_27728
+27728_11	det	27728_15
+27728_11	has_surface_form	the
+27728_15	is_in_sentence	sentence_27728
+27728_15	pobj	27728_10
+27728_15	has_surface_form	genres
+27728_12	is_in_sentence	sentence_27728
+27728_12	nmod	27728_15
+27728_12	has_surface_form	horror
+27728_13	is_in_sentence	sentence_27728
+27728_13	cc	27728_12
+27728_13	has_surface_form	and
+27728_14	is_in_sentence	sentence_27728
+27728_14	conj	27728_12
+27728_14	has_surface_form	crime
+27728_16	is_in_sentence	sentence_27728
+27728_16	punct	27728_6
+27728_16	has_surface_form	.
+27728_17	is_in_sentence	sentence_27728
+27728_17	dep	27728_6
+27728_17	has_surface_form	
+Shaun Hutson	surface_form	Shaun Hutson
+Shaun Hutson	has-occupation	novelist

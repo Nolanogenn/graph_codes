@@ -1,0 +1,58 @@
+7511_0	is_in_sentence	sentence_7511
+7511_0	compound	7511_1
+7511_0	has_surface_form	Saddle
+7511_0	part_of_entity	Saddle Ranch Chop House
+7511_1	is_in_sentence	sentence_7511
+7511_1	compound	7511_3
+7511_1	has_surface_form	Ranch
+7511_1	part_of_entity	Saddle Ranch Chop House
+7511_3	is_in_sentence	sentence_7511
+7511_3	nsubjpass	7511_5
+7511_3	has_surface_form	House
+7511_3	part_of_entity	Saddle Ranch Chop House
+7511_2	is_in_sentence	sentence_7511
+7511_2	compound	7511_3
+7511_2	has_surface_form	Chop
+7511_2	part_of_entity	Saddle Ranch Chop House
+7511_5	is_in_sentence	sentence_7511
+7511_5	ROOT	7511_5
+7511_5	has_surface_form	founded
+7511_4	is_in_sentence	sentence_7511
+7511_4	auxpass	7511_5
+7511_4	has_surface_form	was
+7511_6	is_in_sentence	sentence_7511
+7511_6	prep	7511_5
+7511_6	has_surface_form	in
+7511_7	is_in_sentence	sentence_7511
+7511_7	pobj	7511_6
+7511_7	has_surface_form	September
+7511_8	is_in_sentence	sentence_7511
+7511_8	nummod	7511_7
+7511_8	has_surface_form	1999
+7511_9	is_in_sentence	sentence_7511
+7511_9	prep	7511_5
+7511_9	has_surface_form	as
+7511_10	is_in_sentence	sentence_7511
+7511_10	det	7511_14
+7511_10	has_surface_form	a
+7511_14	is_in_sentence	sentence_7511
+7511_14	pobj	7511_9
+7511_14	is_entity	restaurant
+7511_11	is_in_sentence	sentence_7511
+7511_11	amod	7511_13
+7511_11	has_surface_form	Western
+7511_13	is_in_sentence	sentence_7511
+7511_13	amod	7511_14
+7511_13	has_surface_form	themed
+7511_12	is_in_sentence	sentence_7511
+7511_12	punct	7511_13
+7511_12	has_surface_form	-
+restaurant	surface_form	restaurant
+7511_15	is_in_sentence	sentence_7511
+7511_15	punct	7511_5
+7511_15	has_surface_form	.
+7511_16	is_in_sentence	sentence_7511
+7511_16	dep	7511_16
+7511_16	has_surface_form	
+Saddle Ranch Chop House	surface_form	Saddle Ranch Chop House
+Saddle Ranch Chop House	has-type	restaurant

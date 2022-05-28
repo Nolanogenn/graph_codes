@@ -1,0 +1,51 @@
+12222_0	is_in_sentence	sentence_12222
+12222_0	compound	12222_1
+12222_0	has_surface_form	Muhurtham
+12222_0	part_of_entity	Muhurtham Pathnonnu Muppathinu
+12222_1	is_in_sentence	sentence_12222
+12222_1	compound	12222_2
+12222_1	has_surface_form	Pathnonnu
+12222_1	part_of_entity	Muhurtham Pathnonnu Muppathinu
+12222_2	is_in_sentence	sentence_12222
+12222_2	nsubj	12222_3
+12222_2	has_surface_form	Muppathinu
+12222_2	part_of_entity	Muhurtham Pathnonnu Muppathinu
+12222_3	is_in_sentence	sentence_12222
+12222_3	ROOT	12222_3
+12222_3	has_surface_form	is
+12222_4	is_in_sentence	sentence_12222
+12222_4	det	12222_8
+12222_4	has_surface_form	a
+12222_8	is_in_sentence	sentence_12222
+12222_8	attr	12222_3
+12222_8	has_surface_form	film
+12222_5	is_in_sentence	sentence_12222
+12222_5	nummod	12222_8
+12222_5	has_surface_form	1985
+12222_6	is_in_sentence	sentence_12222
+12222_6	amod	12222_8
+12222_6	has_surface_form	Indian
+12222_7	is_in_sentence	sentence_12222
+12222_7	compound	12222_8
+12222_7	has_surface_form	Malayalam
+12222_9	is_in_sentence	sentence_12222
+12222_9	punct	12222_8
+12222_9	has_surface_form	,
+12222_10	is_in_sentence	sentence_12222
+12222_10	acl	12222_8
+12222_10	has_surface_form	directed
+12222_11	is_in_sentence	sentence_12222
+12222_11	agent	12222_10
+12222_11	has_surface_form	by
+12222_12	is_in_sentence	sentence_12222
+12222_12	pobj	12222_11
+12222_12	is_entity	Joshiy
+Joshiy	surface_form	Joshiy
+12222_13	is_in_sentence	sentence_12222
+12222_13	punct	12222_3
+12222_13	has_surface_form	.
+12222_14	is_in_sentence	sentence_12222
+12222_14	dep	12222_3
+12222_14	has_surface_form	
+Muhurtham Pathnonnu Muppathinu	surface_form	Muhurtham Pathnonnu Muppathinu
+Muhurtham Pathnonnu Muppathinu	movie-has-director	Joshiy

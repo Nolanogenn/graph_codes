@@ -1,0 +1,72 @@
+2597_0	is_in_sentence	sentence_2597
+2597_0	det	2597_1
+2597_0	has_surface_form	The
+2597_0	part_of_entity	The Man in Blue
+2597_1	is_in_sentence	sentence_2597
+2597_1	nsubj	2597_4
+2597_1	has_surface_form	Man
+2597_1	part_of_entity	The Man in Blue
+2597_4	is_in_sentence	sentence_2597
+2597_4	ROOT	2597_4
+2597_4	has_surface_form	is
+2597_2	is_in_sentence	sentence_2597
+2597_2	prep	2597_1
+2597_2	has_surface_form	in
+2597_2	part_of_entity	The Man in Blue
+2597_3	is_in_sentence	sentence_2597
+2597_3	pobj	2597_2
+2597_3	has_surface_form	Blue
+2597_3	part_of_entity	The Man in Blue
+2597_5	is_in_sentence	sentence_2597
+2597_5	det	2597_10
+2597_5	has_surface_form	a
+2597_10	is_in_sentence	sentence_2597
+2597_10	attr	2597_4
+2597_10	has_surface_form	film
+2597_6	is_in_sentence	sentence_2597
+2597_6	nummod	2597_10
+2597_6	has_surface_form	1925
+2597_7	is_in_sentence	sentence_2597
+2597_7	amod	2597_10
+2597_7	has_surface_form	American
+2597_8	is_in_sentence	sentence_2597
+2597_8	amod	2597_10
+2597_8	has_surface_form	silent
+2597_9	is_in_sentence	sentence_2597
+2597_9	compound	2597_10
+2597_9	has_surface_form	drama
+2597_11	is_in_sentence	sentence_2597
+2597_11	acl	2597_10
+2597_11	has_surface_form	directed
+2597_12	is_in_sentence	sentence_2597
+2597_12	agent	2597_11
+2597_12	has_surface_form	by
+2597_13	is_in_sentence	sentence_2597
+2597_13	compound	2597_14
+2597_13	has_surface_form	Edward
+2597_13	part_of_entity	Edward Laemmle
+2597_14	is_in_sentence	sentence_2597
+2597_14	pobj	2597_12
+2597_14	has_surface_form	Laemmle
+2597_14	part_of_entity	Edward Laemmle
+2597_15	is_in_sentence	sentence_2597
+2597_15	cc	2597_11
+2597_15	has_surface_form	and
+2597_16	is_in_sentence	sentence_2597
+2597_16	conj	2597_11
+2597_16	has_surface_form	starring
+2597_17	is_in_sentence	sentence_2597
+2597_17	compound	2597_18
+2597_17	has_surface_form	Herbert
+2597_18	is_in_sentence	sentence_2597
+2597_18	dobj	2597_16
+2597_18	has_surface_form	Rawlinson
+2597_19	is_in_sentence	sentence_2597
+2597_19	punct	2597_4
+2597_19	has_surface_form	.
+2597_20	is_in_sentence	sentence_2597
+2597_20	dep	2597_4
+2597_20	has_surface_form	
+The Man in Blue	surface_form	The Man in Blue
+The Man in Blue	movie-has-director	Edward Laemmle
+Edward Laemmle	surface_form	Edward Laemmle

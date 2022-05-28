@@ -1,0 +1,58 @@
+2002_0	is_in_sentence	sentence_2002
+2002_0	amod	2002_3
+2002_0	has_surface_form	11th
+2002_0	part_of_entity	11th Coast Regiment RNZA
+2002_3	is_in_sentence	sentence_2002
+2002_3	nsubj	2002_4
+2002_3	has_surface_form	RNZA
+2002_3	part_of_entity	11th Coast Regiment RNZA
+2002_1	is_in_sentence	sentence_2002
+2002_1	compound	2002_2
+2002_1	has_surface_form	Coast
+2002_1	part_of_entity	11th Coast Regiment RNZA
+2002_2	is_in_sentence	sentence_2002
+2002_2	compound	2002_3
+2002_2	has_surface_form	Regiment
+2002_2	part_of_entity	11th Coast Regiment RNZA
+2002_4	is_in_sentence	sentence_2002
+2002_4	ROOT	2002_4
+2002_4	has_surface_form	was
+2002_5	is_in_sentence	sentence_2002
+2002_5	det	2002_8
+2002_5	has_surface_form	a
+2002_8	is_in_sentence	sentence_2002
+2002_8	attr	2002_4
+2002_8	has_surface_form	regiment
+2002_8	part_of_entity	coastal artillery regiment
+2002_6	is_in_sentence	sentence_2002
+2002_6	amod	2002_8
+2002_6	has_surface_form	coastal
+2002_6	part_of_entity	coastal artillery regiment
+2002_7	is_in_sentence	sentence_2002
+2002_7	compound	2002_8
+2002_7	has_surface_form	artillery
+2002_7	part_of_entity	coastal artillery regiment
+2002_9	is_in_sentence	sentence_2002
+2002_9	prep	2002_8
+2002_9	has_surface_form	of
+2002_10	is_in_sentence	sentence_2002
+2002_10	det	2002_13
+2002_10	has_surface_form	the
+2002_13	is_in_sentence	sentence_2002
+2002_13	pobj	2002_9
+2002_13	has_surface_form	Army
+2002_11	is_in_sentence	sentence_2002
+2002_11	compound	2002_12
+2002_11	has_surface_form	New
+2002_12	is_in_sentence	sentence_2002
+2002_12	compound	2002_13
+2002_12	has_surface_form	Zealand
+2002_14	is_in_sentence	sentence_2002
+2002_14	punct	2002_4
+2002_14	has_surface_form	.
+2002_15	is_in_sentence	sentence_2002
+2002_15	dep	2002_15
+2002_15	has_surface_form	
+11th Coast Regiment RNZA	surface_form	11th Coast Regiment RNZA
+11th Coast Regiment RNZA	has-type	coastal artillery regiment
+coastal artillery regiment	surface_form	coastal artillery regiment

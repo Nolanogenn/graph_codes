@@ -1,0 +1,56 @@
+9246_0	is_in_sentence	sentence_9246
+9246_0	compound	9246_1
+9246_0	has_surface_form	Giannis
+9246_0	part_of_entity	Giannis Vogiatzis
+9246_1	is_in_sentence	sentence_9246
+9246_1	nsubj	9246_11
+9246_1	has_surface_form	Vogiatzis
+9246_1	part_of_entity	Giannis Vogiatzis
+9246_11	is_in_sentence	sentence_9246
+9246_11	ROOT	9246_11
+9246_11	has_surface_form	is
+9246_2	is_in_sentence	sentence_9246
+9246_2	punct	9246_1
+9246_2	has_surface_form	(
+9246_3	is_in_sentence	sentence_9246
+9246_3	appos	9246_1
+9246_3	has_surface_form	Greek
+9246_4	is_in_sentence	sentence_9246
+9246_4	punct	9246_3
+9246_4	has_surface_form	:
+9246_5	is_in_sentence	sentence_9246
+9246_5	compound	9246_6
+9246_5	has_surface_form	Γιάννης
+9246_6	is_in_sentence	sentence_9246
+9246_6	appos	9246_3
+9246_6	has_surface_form	Βογιατζής
+9246_7	is_in_sentence	sentence_9246
+9246_7	punct	9246_6
+9246_7	has_surface_form	;
+9246_8	is_in_sentence	sentence_9246
+9246_8	acl	9246_6
+9246_8	has_surface_form	born
+9246_9	is_in_sentence	sentence_9246
+9246_9	npadvmod	9246_8
+9246_9	has_surface_form	1926
+9246_10	is_in_sentence	sentence_9246
+9246_10	punct	9246_6
+9246_10	has_surface_form	)
+9246_12	is_in_sentence	sentence_9246
+9246_12	det	9246_14
+9246_12	has_surface_form	a
+9246_14	is_in_sentence	sentence_9246
+9246_14	attr	9246_11
+9246_14	is_entity	actor
+9246_13	is_in_sentence	sentence_9246
+9246_13	amod	9246_14
+9246_13	has_surface_form	Greek
+actor	surface_form	actor
+9246_15	is_in_sentence	sentence_9246
+9246_15	punct	9246_11
+9246_15	has_surface_form	.
+9246_16	is_in_sentence	sentence_9246
+9246_16	dep	9246_11
+9246_16	has_surface_form	
+Giannis Vogiatzis	surface_form	Giannis Vogiatzis
+Giannis Vogiatzis	has-occupation	actor

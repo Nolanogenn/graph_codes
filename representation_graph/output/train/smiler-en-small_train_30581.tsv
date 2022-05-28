@@ -1,0 +1,79 @@
+30580_0	is_in_sentence	sentence_30580
+30580_0	compound	30580_1
+30580_0	has_surface_form	Nelson
+30580_0	part_of_entity	Nelson Rangell
+30580_1	is_in_sentence	sentence_30580
+30580_1	nsubj	30580_9
+30580_1	has_surface_form	Rangell
+30580_1	part_of_entity	Nelson Rangell
+30580_9	is_in_sentence	sentence_30580
+30580_9	ROOT	30580_9
+30580_9	has_surface_form	is
+30580_2	is_in_sentence	sentence_30580
+30580_2	punct	30580_1
+30580_2	has_surface_form	(
+30580_3	is_in_sentence	sentence_30580
+30580_3	acl	30580_1
+30580_3	has_surface_form	born
+30580_4	is_in_sentence	sentence_30580
+30580_4	npadvmod	30580_3
+30580_4	has_surface_form	March
+30580_5	is_in_sentence	sentence_30580
+30580_5	nummod	30580_4
+30580_5	has_surface_form	26
+30580_6	is_in_sentence	sentence_30580
+30580_6	punct	30580_4
+30580_6	has_surface_form	,
+30580_7	is_in_sentence	sentence_30580
+30580_7	nummod	30580_4
+30580_7	has_surface_form	1960
+30580_8	is_in_sentence	sentence_30580
+30580_8	punct	30580_1
+30580_8	has_surface_form	)
+30580_10	is_in_sentence	sentence_30580
+30580_10	det	30580_14
+30580_10	has_surface_form	an
+30580_14	is_in_sentence	sentence_30580
+30580_14	attr	30580_9
+30580_14	has_surface_form	musician
+30580_11	is_in_sentence	sentence_30580
+30580_11	amod	30580_14
+30580_11	has_surface_form	American
+30580_12	is_in_sentence	sentence_30580
+30580_12	amod	30580_14
+30580_12	has_surface_form	smooth
+30580_12	part_of_entity	smooth jazz
+30580_13	is_in_sentence	sentence_30580
+30580_13	compound	30580_14
+30580_13	has_surface_form	jazz
+30580_13	part_of_entity	smooth jazz
+30580_15	is_in_sentence	sentence_30580
+30580_15	cc	30580_14
+30580_15	has_surface_form	and
+30580_16	is_in_sentence	sentence_30580
+30580_16	conj	30580_14
+30580_16	has_surface_form	composer
+30580_17	is_in_sentence	sentence_30580
+30580_17	prep	30580_14
+30580_17	has_surface_form	from
+30580_18	is_in_sentence	sentence_30580
+30580_18	compound	30580_19
+30580_18	has_surface_form	Castle
+30580_19	is_in_sentence	sentence_30580
+30580_19	pobj	30580_17
+30580_19	has_surface_form	Rock
+30580_20	is_in_sentence	sentence_30580
+30580_20	punct	30580_19
+30580_20	has_surface_form	,
+30580_21	is_in_sentence	sentence_30580
+30580_21	appos	30580_19
+30580_21	has_surface_form	Colorado
+30580_22	is_in_sentence	sentence_30580
+30580_22	punct	30580_9
+30580_22	has_surface_form	.
+30580_23	is_in_sentence	sentence_30580
+30580_23	dep	30580_9
+30580_23	has_surface_form	
+Nelson Rangell	surface_form	Nelson Rangell
+Nelson Rangell	has-genre	smooth jazz
+smooth jazz	surface_form	smooth jazz

@@ -1,0 +1,37 @@
+5408_0	is_in_sentence	sentence_5408
+5408_0	det	5408_1
+5408_0	has_surface_form	The
+5408_1	is_in_sentence	sentence_5408
+5408_1	nsubj	5408_5
+5408_1	has_surface_form	Chairman
+5408_5	is_in_sentence	sentence_5408
+5408_5	ROOT	5408_5
+5408_5	has_surface_form	is
+5408_2	is_in_sentence	sentence_5408
+5408_2	prep	5408_1
+5408_2	has_surface_form	of
+5408_3	is_in_sentence	sentence_5408
+5408_3	compound	5408_4
+5408_3	has_surface_form	SC
+5408_3	part_of_entity	SC Riverball
+5408_4	is_in_sentence	sentence_5408
+5408_4	pobj	5408_2
+5408_4	has_surface_form	Riverball
+5408_4	part_of_entity	SC Riverball
+5408_6	is_in_sentence	sentence_5408
+5408_6	compound	5408_7
+5408_6	has_surface_form	Rauno
+5408_6	part_of_entity	Rauno Pasanen
+5408_7	is_in_sentence	sentence_5408
+5408_7	attr	5408_5
+5408_7	has_surface_form	Pasanen
+5408_7	part_of_entity	Rauno Pasanen
+5408_8	is_in_sentence	sentence_5408
+5408_8	punct	5408_5
+5408_8	has_surface_form	.
+5408_9	is_in_sentence	sentence_5408
+5408_9	dep	5408_5
+5408_9	has_surface_form	
+SC Riverball	surface_form	SC Riverball
+SC Riverball	org-leader	Rauno Pasanen
+Rauno Pasanen	surface_form	Rauno Pasanen

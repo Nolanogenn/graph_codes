@@ -1,0 +1,97 @@
+16581_0	is_in_sentence	sentence_16581
+16581_0	det	16581_3
+16581_0	has_surface_form	The
+16581_3	is_in_sentence	sentence_16581
+16581_3	nsubj	16581_11
+16581_3	has_surface_form	point
+16581_1	is_in_sentence	sentence_16581
+16581_1	amod	16581_3
+16581_1	has_surface_form	highest
+16581_2	is_in_sentence	sentence_16581
+16581_2	amod	16581_3
+16581_2	has_surface_form	natural
+16581_11	is_in_sentence	sentence_16581
+16581_11	ROOT	16581_11
+16581_11	has_surface_form	is
+16581_4	is_in_sentence	sentence_16581
+16581_4	prep	16581_3
+16581_4	has_surface_form	in
+16581_5	is_in_sentence	sentence_16581
+16581_5	pobj	16581_4
+16581_5	has_surface_form	Colorado
+16581_6	is_in_sentence	sentence_16581
+16581_6	cc	16581_3
+16581_6	has_surface_form	and
+16581_7	is_in_sentence	sentence_16581
+16581_7	det	16581_10
+16581_7	has_surface_form	the
+16581_10	is_in_sentence	sentence_16581
+16581_10	nsubj	16581_11
+16581_10	has_surface_form	Mountains
+16581_8	is_in_sentence	sentence_16581
+16581_8	amod	16581_10
+16581_8	has_surface_form	entire
+16581_9	is_in_sentence	sentence_16581
+16581_9	compound	16581_10
+16581_9	has_surface_form	Rocky
+16581_12	is_in_sentence	sentence_16581
+16581_12	det	16581_13
+16581_12	has_surface_form	the
+16581_13	is_in_sentence	sentence_16581
+16581_13	attr	16581_11
+16581_13	has_surface_form	summit
+16581_14	is_in_sentence	sentence_16581
+16581_14	prep	16581_13
+16581_14	has_surface_form	of
+16581_15	is_in_sentence	sentence_16581
+16581_15	compound	16581_16
+16581_15	has_surface_form	Mount
+16581_15	part_of_entity	Mount Elbert
+16581_16	is_in_sentence	sentence_16581
+16581_16	pobj	16581_14
+16581_16	has_surface_form	Elbert
+16581_16	part_of_entity	Mount Elbert
+16581_17	is_in_sentence	sentence_16581
+16581_17	prep	16581_16
+16581_17	has_surface_form	in
+16581_18	is_in_sentence	sentence_16581
+16581_18	compound	16581_19
+16581_18	has_surface_form	Lake
+16581_18	part_of_entity	Lake County
+16581_19	is_in_sentence	sentence_16581
+16581_19	pobj	16581_17
+16581_19	has_surface_form	County
+16581_19	part_of_entity	Lake County
+16581_20	is_in_sentence	sentence_16581
+16581_20	prep	16581_13
+16581_20	has_surface_form	at
+16581_21	is_in_sentence	sentence_16581
+16581_21	nummod	16581_22
+16581_21	has_surface_form	14,440
+16581_22	is_in_sentence	sentence_16581
+16581_22	pobj	16581_20
+16581_22	has_surface_form	feet
+16581_23	is_in_sentence	sentence_16581
+16581_23	punct	16581_22
+16581_23	has_surface_form	(
+16581_24	is_in_sentence	sentence_16581
+16581_24	nummod	16581_25
+16581_24	has_surface_form	4401.2
+16581_25	is_in_sentence	sentence_16581
+16581_25	appos	16581_22
+16581_25	has_surface_form	meters
+16581_26	is_in_sentence	sentence_16581
+16581_26	punct	16581_25
+16581_26	has_surface_form	)
+16581_27	is_in_sentence	sentence_16581
+16581_27	appos	16581_22
+16581_27	has_surface_form	elevation
+16581_28	is_in_sentence	sentence_16581
+16581_28	punct	16581_11
+16581_28	has_surface_form	.
+16581_29	is_in_sentence	sentence_16581
+16581_29	dep	16581_29
+16581_29	has_surface_form	
+Lake County	surface_form	Lake County
+Lake County	has-highest-mountain	Mount Elbert
+Mount Elbert	surface_form	Mount Elbert

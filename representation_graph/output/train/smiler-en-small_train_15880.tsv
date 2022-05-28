@@ -1,0 +1,53 @@
+15879_0	is_in_sentence	sentence_15879
+15879_0	nsubj	15879_1
+15879_0	is_entity	Mubarak
+15879_1	is_in_sentence	sentence_15879
+15879_1	ROOT	15879_1
+15879_1	has_surface_form	married
+Mubarak	surface_form	Mubarak
+Mubarak	has-child	Majid Khan
+15879_2	is_in_sentence	sentence_15879
+15879_2	det	15879_4
+15879_2	has_surface_form	the
+15879_4	is_in_sentence	sentence_15879
+15879_4	dobj	15879_1
+15879_4	has_surface_form	cricketer
+15879_3	is_in_sentence	sentence_15879
+15879_3	compound	15879_4
+15879_3	has_surface_form	Test
+15879_5	is_in_sentence	sentence_15879
+15879_5	compound	15879_6
+15879_5	has_surface_form	Jahangir
+15879_6	is_in_sentence	sentence_15879
+15879_6	appos	15879_4
+15879_6	has_surface_form	Khan
+15879_7	is_in_sentence	sentence_15879
+15879_7	cc	15879_1
+15879_7	has_surface_form	and
+15879_8	is_in_sentence	sentence_15879
+15879_8	conj	15879_1
+15879_8	has_surface_form	was
+15879_9	is_in_sentence	sentence_15879
+15879_9	det	15879_10
+15879_9	has_surface_form	the
+15879_10	is_in_sentence	sentence_15879
+15879_10	attr	15879_8
+15879_10	has_surface_form	mother
+15879_11	is_in_sentence	sentence_15879
+15879_11	prep	15879_10
+15879_11	has_surface_form	of
+15879_12	is_in_sentence	sentence_15879
+15879_12	compound	15879_13
+15879_12	has_surface_form	Majid
+15879_12	part_of_entity	Majid Khan
+15879_13	is_in_sentence	sentence_15879
+15879_13	pobj	15879_11
+15879_13	has_surface_form	Khan
+15879_13	part_of_entity	Majid Khan
+15879_14	is_in_sentence	sentence_15879
+15879_14	punct	15879_1
+15879_14	has_surface_form	.
+15879_15	is_in_sentence	sentence_15879
+15879_15	dep	15879_15
+15879_15	has_surface_form	
+Majid Khan	surface_form	Majid Khan

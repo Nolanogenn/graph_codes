@@ -1,0 +1,82 @@
+4677_0	is_in_sentence	sentence_4677
+4677_0	compound	4677_2
+4677_0	has_surface_form	Jones
+4677_0	part_of_entity	Jones Middle School
+4677_2	is_in_sentence	sentence_4677
+4677_2	nsubj	4677_3
+4677_2	has_surface_form	School
+4677_2	part_of_entity	Jones Middle School
+4677_1	is_in_sentence	sentence_4677
+4677_1	compound	4677_2
+4677_1	has_surface_form	Middle
+4677_1	part_of_entity	Jones Middle School
+4677_3	is_in_sentence	sentence_4677
+4677_3	ROOT	4677_3
+4677_3	has_surface_form	is
+4677_4	is_in_sentence	sentence_4677
+4677_4	attr	4677_3
+4677_4	has_surface_form	one
+4677_5	is_in_sentence	sentence_4677
+4677_5	prep	4677_4
+4677_5	has_surface_form	of
+4677_6	is_in_sentence	sentence_4677
+4677_6	nummod	4677_8
+4677_6	has_surface_form	two
+4677_8	is_in_sentence	sentence_4677
+4677_8	pobj	4677_5
+4677_8	has_surface_form	schools
+4677_7	is_in_sentence	sentence_4677
+4677_7	amod	4677_8
+4677_7	has_surface_form	middle
+4677_9	is_in_sentence	sentence_4677
+4677_9	prep	4677_8
+4677_9	has_surface_form	in
+4677_10	is_in_sentence	sentence_4677
+4677_10	det	4677_15
+4677_10	has_surface_form	the
+4677_15	is_in_sentence	sentence_4677
+4677_15	pobj	4677_9
+4677_15	has_surface_form	District
+4677_11	is_in_sentence	sentence_4677
+4677_11	compound	4677_15
+4677_11	has_surface_form	Upper
+4677_11	part_of_entity	Upper Arlington
+4677_12	is_in_sentence	sentence_4677
+4677_12	compound	4677_15
+4677_12	has_surface_form	Arlington
+4677_12	part_of_entity	Upper Arlington
+4677_13	is_in_sentence	sentence_4677
+4677_13	compound	4677_14
+4677_13	has_surface_form	City
+4677_14	is_in_sentence	sentence_4677
+4677_14	compound	4677_15
+4677_14	has_surface_form	School
+4677_16	is_in_sentence	sentence_4677
+4677_16	punct	4677_8
+4677_16	has_surface_form	,
+4677_17	is_in_sentence	sentence_4677
+4677_17	prep	4677_8
+4677_17	has_surface_form	in
+4677_18	is_in_sentence	sentence_4677
+4677_18	compound	4677_19
+4677_18	has_surface_form	Upper
+4677_18	part_of_entity	Upper Arlington
+4677_19	is_in_sentence	sentence_4677
+4677_19	pobj	4677_17
+4677_19	has_surface_form	Arlington
+4677_19	part_of_entity	Upper Arlington
+4677_20	is_in_sentence	sentence_4677
+4677_20	punct	4677_19
+4677_20	has_surface_form	,
+4677_21	is_in_sentence	sentence_4677
+4677_21	appos	4677_19
+4677_21	has_surface_form	Ohio
+4677_22	is_in_sentence	sentence_4677
+4677_22	punct	4677_3
+4677_22	has_surface_form	.
+4677_23	is_in_sentence	sentence_4677
+4677_23	dep	4677_3
+4677_23	has_surface_form	
+Jones Middle School	surface_form	Jones Middle School
+Jones Middle School	is-where	Upper Arlington
+Upper Arlington	surface_form	Upper Arlington

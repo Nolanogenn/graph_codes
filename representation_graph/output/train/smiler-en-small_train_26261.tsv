@@ -1,0 +1,94 @@
+26260_0	is_in_sentence	sentence_26260
+26260_0	compound	26260_1
+26260_0	has_surface_form	Lord
+26260_1	is_in_sentence	sentence_26260
+26260_1	nsubj	26260_2
+26260_1	has_surface_form	Ampthill
+26260_2	is_in_sentence	sentence_26260
+26260_2	ROOT	26260_2
+26260_2	has_surface_form	married
+26260_3	is_in_sentence	sentence_26260
+26260_3	compound	26260_5
+26260_3	has_surface_form	Lady
+26260_5	is_in_sentence	sentence_26260
+26260_5	dobj	26260_2
+26260_5	has_surface_form	Villiers
+26260_5	part_of_entity	Emily Villiers
+26260_4	is_in_sentence	sentence_26260
+26260_4	compound	26260_5
+26260_4	has_surface_form	Emily
+26260_4	part_of_entity	Emily Villiers
+26260_6	is_in_sentence	sentence_26260
+26260_6	punct	26260_5
+26260_6	has_surface_form	,
+26260_7	is_in_sentence	sentence_26260
+26260_7	appos	26260_5
+26260_7	has_surface_form	daughter
+26260_8	is_in_sentence	sentence_26260
+26260_8	prep	26260_7
+26260_8	has_surface_form	of
+26260_9	is_in_sentence	sentence_26260
+26260_9	compound	26260_10
+26260_9	has_surface_form	George
+26260_9	part_of_entity	George Villiers
+26260_10	is_in_sentence	sentence_26260
+26260_10	pobj	26260_8
+26260_10	has_surface_form	Villiers
+26260_10	part_of_entity	George Villiers
+26260_11	is_in_sentence	sentence_26260
+26260_11	punct	26260_10
+26260_11	has_surface_form	,
+26260_12	is_in_sentence	sentence_26260
+26260_12	compound	26260_13
+26260_12	has_surface_form	4th
+26260_13	is_in_sentence	sentence_26260
+26260_13	appos	26260_10
+26260_13	has_surface_form	Earl
+26260_14	is_in_sentence	sentence_26260
+26260_14	prep	26260_13
+26260_14	has_surface_form	of
+26260_15	is_in_sentence	sentence_26260
+26260_15	pobj	26260_14
+26260_15	has_surface_form	Clarendon
+26260_16	is_in_sentence	sentence_26260
+26260_16	punct	26260_5
+26260_16	has_surface_form	,
+26260_17	is_in_sentence	sentence_26260
+26260_17	prep	26260_2
+26260_17	has_surface_form	on
+26260_18	is_in_sentence	sentence_26260
+26260_18	nummod	26260_19
+26260_18	has_surface_form	5
+26260_19	is_in_sentence	sentence_26260
+26260_19	pobj	26260_17
+26260_19	has_surface_form	May
+26260_20	is_in_sentence	sentence_26260
+26260_20	nummod	26260_19
+26260_20	has_surface_form	1868
+26260_21	is_in_sentence	sentence_26260
+26260_21	punct	26260_2
+26260_21	has_surface_form	.
+26260_22	is_in_sentence	sentence_26260
+26260_22	nsubj	26260_23
+26260_22	has_surface_form	They
+26260_23	is_in_sentence	sentence_26260
+26260_23	ROOT	26260_23
+26260_23	has_surface_form	had
+26260_24	is_in_sentence	sentence_26260
+26260_24	nummod	26260_25
+26260_24	has_surface_form	six
+26260_25	is_in_sentence	sentence_26260
+26260_25	dobj	26260_23
+26260_25	has_surface_form	children
+26260_26	is_in_sentence	sentence_26260
+26260_26	punct	26260_23
+26260_26	has_surface_form	:
+26260_27	is_in_sentence	sentence_26260
+26260_27	punct	26260_23
+26260_27	has_surface_form	.
+26260_28	is_in_sentence	sentence_26260
+26260_28	dep	26260_28
+26260_28	has_surface_form	
+Emily Villiers	surface_form	Emily Villiers
+Emily Villiers	has-parent	George Villiers
+George Villiers	surface_form	George Villiers

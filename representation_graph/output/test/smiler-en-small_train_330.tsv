@@ -1,0 +1,100 @@
+329_0	is_in_sentence	sentence_329
+329_0	poss	329_2
+329_0	has_surface_form	My
+329_0	part_of_entity	My Brother Talks to Horses
+329_2	is_in_sentence	sentence_329
+329_2	nsubj	329_5
+329_2	has_surface_form	Talks
+329_2	part_of_entity	My Brother Talks to Horses
+329_1	is_in_sentence	sentence_329
+329_1	compound	329_2
+329_1	has_surface_form	Brother
+329_1	part_of_entity	My Brother Talks to Horses
+329_5	is_in_sentence	sentence_329
+329_5	ROOT	329_5
+329_5	has_surface_form	is
+329_3	is_in_sentence	sentence_329
+329_3	prep	329_2
+329_3	has_surface_form	to
+329_3	part_of_entity	My Brother Talks to Horses
+329_4	is_in_sentence	sentence_329
+329_4	pobj	329_3
+329_4	has_surface_form	Horses
+329_4	part_of_entity	My Brother Talks to Horses
+329_6	is_in_sentence	sentence_329
+329_6	det	329_10
+329_6	has_surface_form	a
+329_10	is_in_sentence	sentence_329
+329_10	attr	329_5
+329_10	has_surface_form	film
+329_7	is_in_sentence	sentence_329
+329_7	nummod	329_10
+329_7	has_surface_form	1947
+329_8	is_in_sentence	sentence_329
+329_8	amod	329_10
+329_8	has_surface_form	American
+329_9	is_in_sentence	sentence_329
+329_9	compound	329_10
+329_9	has_surface_form	comedy
+329_11	is_in_sentence	sentence_329
+329_11	acl	329_10
+329_11	has_surface_form	directed
+329_12	is_in_sentence	sentence_329
+329_12	agent	329_11
+329_12	has_surface_form	by
+329_13	is_in_sentence	sentence_329
+329_13	compound	329_14
+329_13	has_surface_form	Fred
+329_13	part_of_entity	Fred Zinnemann
+329_14	is_in_sentence	sentence_329
+329_14	pobj	329_12
+329_14	has_surface_form	Zinnemann
+329_14	part_of_entity	Fred Zinnemann
+329_15	is_in_sentence	sentence_329
+329_15	punct	329_5
+329_15	has_surface_form	,
+329_16	is_in_sentence	sentence_329
+329_16	advcl	329_5
+329_16	has_surface_form	starring
+329_17	is_in_sentence	sentence_329
+329_17	nmod	329_21
+329_17	has_surface_form	Jackie
+329_21	is_in_sentence	sentence_329
+329_21	dobj	329_16
+329_21	has_surface_form	Jenkins
+329_18	is_in_sentence	sentence_329
+329_18	punct	329_21
+329_18	has_surface_form	'
+329_19	is_in_sentence	sentence_329
+329_19	nmod	329_21
+329_19	has_surface_form	Butch
+329_20	is_in_sentence	sentence_329
+329_20	punct	329_21
+329_20	has_surface_form	'
+329_22	is_in_sentence	sentence_329
+329_22	punct	329_21
+329_22	has_surface_form	,
+329_23	is_in_sentence	sentence_329
+329_23	compound	329_24
+329_23	has_surface_form	Peter
+329_24	is_in_sentence	sentence_329
+329_24	conj	329_21
+329_24	has_surface_form	Lawford
+329_25	is_in_sentence	sentence_329
+329_25	cc	329_24
+329_25	has_surface_form	and
+329_26	is_in_sentence	sentence_329
+329_26	compound	329_27
+329_26	has_surface_form	Beverly
+329_27	is_in_sentence	sentence_329
+329_27	conj	329_24
+329_27	has_surface_form	Tyler
+329_28	is_in_sentence	sentence_329
+329_28	punct	329_5
+329_28	has_surface_form	.
+329_29	is_in_sentence	sentence_329
+329_29	dep	329_29
+329_29	has_surface_form	
+My Brother Talks to Horses	surface_form	My Brother Talks to Horses
+My Brother Talks to Horses	movie-has-director	Fred Zinnemann
+Fred Zinnemann	surface_form	Fred Zinnemann

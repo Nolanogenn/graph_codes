@@ -1,0 +1,99 @@
+25195_0	is_in_sentence	sentence_25195
+25195_0	det	25195_2
+25195_0	has_surface_form	The
+25195_2	is_in_sentence	sentence_25195
+25195_2	nsubj	25195_10
+25195_2	has_surface_form	Department
+25195_2	part_of_entity	Colorado Department of Personnel and Administration
+25195_1	is_in_sentence	sentence_25195
+25195_1	compound	25195_2
+25195_1	has_surface_form	Colorado
+25195_1	part_of_entity	Colorado Department of Personnel and Administration
+25195_10	is_in_sentence	sentence_25195
+25195_10	ROOT	25195_10
+25195_10	has_surface_form	is
+25195_3	is_in_sentence	sentence_25195
+25195_3	prep	25195_2
+25195_3	has_surface_form	of
+25195_3	part_of_entity	Colorado Department of Personnel and Administration
+25195_4	is_in_sentence	sentence_25195
+25195_4	pobj	25195_3
+25195_4	has_surface_form	Personnel
+25195_4	part_of_entity	Colorado Department of Personnel and Administration
+25195_5	is_in_sentence	sentence_25195
+25195_5	cc	25195_4
+25195_5	has_surface_form	and
+25195_5	part_of_entity	Colorado Department of Personnel and Administration
+25195_6	is_in_sentence	sentence_25195
+25195_6	conj	25195_4
+25195_6	has_surface_form	Administration
+25195_6	part_of_entity	Colorado Department of Personnel and Administration
+25195_7	is_in_sentence	sentence_25195
+25195_7	punct	25195_8
+25195_7	has_surface_form	(
+25195_8	is_in_sentence	sentence_25195
+25195_8	appos	25195_2
+25195_8	has_surface_form	DPA
+25195_9	is_in_sentence	sentence_25195
+25195_9	punct	25195_8
+25195_9	has_surface_form	)
+25195_11	is_in_sentence	sentence_25195
+25195_11	det	25195_13
+25195_11	has_surface_form	the
+25195_13	is_in_sentence	sentence_25195
+25195_13	attr	25195_10
+25195_13	is_entity	department
+25195_12	is_in_sentence	sentence_25195
+25195_12	amod	25195_13
+25195_12	has_surface_form	principal
+department	surface_form	department
+25195_14	is_in_sentence	sentence_25195
+25195_14	prep	25195_13
+25195_14	has_surface_form	of
+25195_15	is_in_sentence	sentence_25195
+25195_15	det	25195_18
+25195_15	has_surface_form	the
+25195_18	is_in_sentence	sentence_25195
+25195_18	pobj	25195_14
+25195_18	has_surface_form	government
+25195_16	is_in_sentence	sentence_25195
+25195_16	compound	25195_18
+25195_16	has_surface_form	Colorado
+25195_17	is_in_sentence	sentence_25195
+25195_17	compound	25195_18
+25195_17	has_surface_form	state
+25195_19	is_in_sentence	sentence_25195
+25195_19	amod	25195_13
+25195_19	has_surface_form	responsible
+25195_20	is_in_sentence	sentence_25195
+25195_20	prep	25195_19
+25195_20	has_surface_form	for
+25195_21	is_in_sentence	sentence_25195
+25195_21	amod	25195_23
+25195_21	has_surface_form	statewide
+25195_23	is_in_sentence	sentence_25195
+25195_23	pobj	25195_20
+25195_23	has_surface_form	resources
+25195_22	is_in_sentence	sentence_25195
+25195_22	amod	25195_23
+25195_22	has_surface_form	human
+25195_24	is_in_sentence	sentence_25195
+25195_24	cc	25195_23
+25195_24	has_surface_form	and
+25195_25	is_in_sentence	sentence_25195
+25195_25	amod	25195_27
+25195_25	has_surface_form	other
+25195_27	is_in_sentence	sentence_25195
+25195_27	conj	25195_23
+25195_27	has_surface_form	functions
+25195_26	is_in_sentence	sentence_25195
+25195_26	compound	25195_27
+25195_26	has_surface_form	support
+25195_28	is_in_sentence	sentence_25195
+25195_28	punct	25195_10
+25195_28	has_surface_form	.
+25195_29	is_in_sentence	sentence_25195
+25195_29	dep	25195_29
+25195_29	has_surface_form	
+Colorado Department of Personnel and Administration	surface_form	Colorado Department of Personnel and Administration
+Colorado Department of Personnel and Administration	has-type	department

@@ -1,0 +1,44 @@
+252_0	is_in_sentence	sentence_252
+252_0	compound	252_1
+252_0	has_surface_form	Paul
+252_0	part_of_entity	Paul Balban
+252_1	is_in_sentence	sentence_252
+252_1	nsubj	252_2
+252_1	has_surface_form	Balban
+252_1	part_of_entity	Paul Balban
+252_2	is_in_sentence	sentence_252
+252_2	ROOT	252_2
+252_2	has_surface_form	is
+252_3	is_in_sentence	sentence_252
+252_3	acomp	252_2
+252_3	has_surface_form	married
+252_4	is_in_sentence	sentence_252
+252_4	aux	252_5
+252_4	has_surface_form	to
+252_5	is_in_sentence	sentence_252
+252_5	xcomp	252_3
+252_5	has_surface_form	wife
+252_6	is_in_sentence	sentence_252
+252_6	dobj	252_5
+252_6	is_entity	Gina
+Gina	surface_form	Gina
+252_7	is_in_sentence	sentence_252
+252_7	cc	252_2
+252_7	has_surface_form	and
+252_8	is_in_sentence	sentence_252
+252_8	conj	252_2
+252_8	has_surface_form	has
+252_9	is_in_sentence	sentence_252
+252_9	nummod	252_10
+252_9	has_surface_form	three
+252_10	is_in_sentence	sentence_252
+252_10	dobj	252_8
+252_10	has_surface_form	daughters
+252_11	is_in_sentence	sentence_252
+252_11	punct	252_2
+252_11	has_surface_form	.
+252_12	is_in_sentence	sentence_252
+252_12	dep	252_2
+252_12	has_surface_form	
+Paul Balban	surface_form	Paul Balban
+Paul Balban	has-spouse	Gina

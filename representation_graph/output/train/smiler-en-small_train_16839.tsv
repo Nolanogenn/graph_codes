@@ -1,0 +1,58 @@
+16838_0	is_in_sentence	sentence_16838
+16838_0	compound	16838_1
+16838_0	has_surface_form	Njan
+16838_0	part_of_entity	Njan Kodiswaran
+16838_1	is_in_sentence	sentence_16838
+16838_1	nsubj	16838_2
+16838_1	has_surface_form	Kodiswaran
+16838_1	part_of_entity	Njan Kodiswaran
+16838_2	is_in_sentence	sentence_16838
+16838_2	ROOT	16838_2
+16838_2	has_surface_form	is
+16838_3	is_in_sentence	sentence_16838
+16838_3	det	16838_9
+16838_3	has_surface_form	a
+16838_9	is_in_sentence	sentence_16838
+16838_9	attr	16838_2
+16838_9	has_surface_form	film
+16838_4	is_in_sentence	sentence_16838
+16838_4	nummod	16838_9
+16838_4	has_surface_form	1994
+16838_5	is_in_sentence	sentence_16838
+16838_5	compound	16838_9
+16838_5	has_surface_form	Indian
+16838_6	is_in_sentence	sentence_16838
+16838_6	compound	16838_8
+16838_6	has_surface_form	Malayalam
+16838_8	is_in_sentence	sentence_16838
+16838_8	compound	16838_9
+16838_8	has_surface_form	language
+16838_7	is_in_sentence	sentence_16838
+16838_7	punct	16838_8
+16838_7	has_surface_form	-
+16838_10	is_in_sentence	sentence_16838
+16838_10	punct	16838_9
+16838_10	has_surface_form	,
+16838_11	is_in_sentence	sentence_16838
+16838_11	acl	16838_9
+16838_11	has_surface_form	directed
+16838_12	is_in_sentence	sentence_16838
+16838_12	agent	16838_11
+16838_12	has_surface_form	by
+16838_13	is_in_sentence	sentence_16838
+16838_13	compound	16838_14
+16838_13	has_surface_form	Jose
+16838_13	part_of_entity	Jose Thomas
+16838_14	is_in_sentence	sentence_16838
+16838_14	pobj	16838_12
+16838_14	has_surface_form	Thomas
+16838_14	part_of_entity	Jose Thomas
+16838_15	is_in_sentence	sentence_16838
+16838_15	punct	16838_2
+16838_15	has_surface_form	.
+16838_16	is_in_sentence	sentence_16838
+16838_16	dep	16838_16
+16838_16	has_surface_form	
+Njan Kodiswaran	surface_form	Njan Kodiswaran
+Njan Kodiswaran	movie-has-director	Jose Thomas
+Jose Thomas	surface_form	Jose Thomas

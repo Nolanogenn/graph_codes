@@ -1,0 +1,47 @@
+13641_0	is_in_sentence	sentence_13641
+13641_0	compound	13641_1
+13641_0	has_surface_form	Killion
+13641_0	part_of_entity	Killion Munyama
+13641_1	is_in_sentence	sentence_13641
+13641_1	nsubj	13641_2
+13641_1	has_surface_form	Munyama
+13641_1	part_of_entity	Killion Munyama
+13641_2	is_in_sentence	sentence_13641
+13641_2	ROOT	13641_2
+13641_2	has_surface_form	is
+13641_3	is_in_sentence	sentence_13641
+13641_3	acomp	13641_2
+13641_3	has_surface_form	married
+13641_4	is_in_sentence	sentence_13641
+13641_4	prep	13641_3
+13641_4	has_surface_form	to
+13641_5	is_in_sentence	sentence_13641
+13641_5	pobj	13641_4
+13641_5	is_entity	Elżbieta
+Elżbieta	surface_form	Elżbieta
+13641_6	is_in_sentence	sentence_13641
+13641_6	punct	13641_5
+13641_6	has_surface_form	,
+13641_7	is_in_sentence	sentence_13641
+13641_7	det	13641_8
+13641_7	has_surface_form	a
+13641_8	is_in_sentence	sentence_13641
+13641_8	appos	13641_5
+13641_8	has_surface_form	native
+13641_9	is_in_sentence	sentence_13641
+13641_9	prep	13641_8
+13641_9	has_surface_form	of
+13641_10	is_in_sentence	sentence_13641
+13641_10	compound	13641_11
+13641_10	has_surface_form	Grodzisk
+13641_11	is_in_sentence	sentence_13641
+13641_11	pobj	13641_9
+13641_11	has_surface_form	county
+13641_12	is_in_sentence	sentence_13641
+13641_12	punct	13641_2
+13641_12	has_surface_form	.
+13641_13	is_in_sentence	sentence_13641
+13641_13	dep	13641_13
+13641_13	has_surface_form	
+Killion Munyama	surface_form	Killion Munyama
+Killion Munyama	has-spouse	Elżbieta

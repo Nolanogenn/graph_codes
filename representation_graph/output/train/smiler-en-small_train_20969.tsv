@@ -1,0 +1,65 @@
+20968_0	is_in_sentence	sentence_20968
+20968_0	compound	20968_2
+20968_0	has_surface_form	Mary
+20968_2	is_in_sentence	sentence_20968
+20968_2	compound	20968_3
+20968_2	has_surface_form	Thigpen
+20968_2	part_of_entity	Anita Thigpen Perry
+20968_1	is_in_sentence	sentence_20968
+20968_1	compound	20968_2
+20968_1	has_surface_form	Anita
+20968_1	part_of_entity	Anita Thigpen Perry
+20968_3	is_in_sentence	sentence_20968
+20968_3	nsubj	20968_11
+20968_3	has_surface_form	Perry
+20968_3	part_of_entity	Anita Thigpen Perry
+20968_11	is_in_sentence	sentence_20968
+20968_11	ROOT	20968_11
+20968_11	has_surface_form	is
+20968_4	is_in_sentence	sentence_20968
+20968_4	punct	20968_3
+20968_4	has_surface_form	(
+20968_5	is_in_sentence	sentence_20968
+20968_5	acl	20968_3
+20968_5	has_surface_form	born
+20968_6	is_in_sentence	sentence_20968
+20968_6	npadvmod	20968_5
+20968_6	has_surface_form	May
+20968_7	is_in_sentence	sentence_20968
+20968_7	nummod	20968_6
+20968_7	has_surface_form	5
+20968_8	is_in_sentence	sentence_20968
+20968_8	punct	20968_6
+20968_8	has_surface_form	,
+20968_9	is_in_sentence	sentence_20968
+20968_9	nummod	20968_6
+20968_9	has_surface_form	1952
+20968_10	is_in_sentence	sentence_20968
+20968_10	punct	20968_3
+20968_10	has_surface_form	)
+20968_12	is_in_sentence	sentence_20968
+20968_12	det	20968_13
+20968_12	has_surface_form	the
+20968_13	is_in_sentence	sentence_20968
+20968_13	attr	20968_11
+20968_13	has_surface_form	wife
+20968_14	is_in_sentence	sentence_20968
+20968_14	prep	20968_13
+20968_14	has_surface_form	of
+20968_15	is_in_sentence	sentence_20968
+20968_15	compound	20968_16
+20968_15	has_surface_form	Rick
+20968_15	part_of_entity	Rick Perry
+20968_16	is_in_sentence	sentence_20968
+20968_16	pobj	20968_14
+20968_16	has_surface_form	Perry
+20968_16	part_of_entity	Rick Perry
+20968_17	is_in_sentence	sentence_20968
+20968_17	punct	20968_11
+20968_17	has_surface_form	.
+20968_18	is_in_sentence	sentence_20968
+20968_18	dep	20968_18
+20968_18	has_surface_form	
+Anita Thigpen Perry	surface_form	Anita Thigpen Perry
+Anita Thigpen Perry	has-spouse	Rick Perry
+Rick Perry	surface_form	Rick Perry

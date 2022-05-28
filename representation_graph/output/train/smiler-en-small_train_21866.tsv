@@ -1,0 +1,91 @@
+21865_0	is_in_sentence	sentence_21865
+21865_0	compound	21865_2
+21865_0	has_surface_form	Adauto
+21865_0	part_of_entity	Adauto Neto
+21865_2	is_in_sentence	sentence_21865
+21865_2	nsubj	21865_10
+21865_2	has_surface_form	Calheira
+21865_1	is_in_sentence	sentence_21865
+21865_1	compound	21865_2
+21865_1	has_surface_form	Neto
+21865_1	part_of_entity	Adauto Neto
+21865_10	is_in_sentence	sentence_21865
+21865_10	ROOT	21865_10
+21865_10	has_surface_form	is
+21865_3	is_in_sentence	sentence_21865
+21865_3	punct	21865_2
+21865_3	has_surface_form	(
+21865_4	is_in_sentence	sentence_21865
+21865_4	acl	21865_2
+21865_4	has_surface_form	born
+21865_5	is_in_sentence	sentence_21865
+21865_5	npadvmod	21865_4
+21865_5	has_surface_form	December
+21865_6	is_in_sentence	sentence_21865
+21865_6	nummod	21865_5
+21865_6	has_surface_form	31
+21865_7	is_in_sentence	sentence_21865
+21865_7	punct	21865_5
+21865_7	has_surface_form	,
+21865_8	is_in_sentence	sentence_21865
+21865_8	nummod	21865_5
+21865_8	has_surface_form	1980
+21865_9	is_in_sentence	sentence_21865
+21865_9	punct	21865_2
+21865_9	has_surface_form	)
+21865_11	is_in_sentence	sentence_21865
+21865_11	det	21865_14
+21865_11	has_surface_form	a
+21865_14	is_in_sentence	sentence_21865
+21865_14	attr	21865_10
+21865_14	has_surface_form	player
+21865_12	is_in_sentence	sentence_21865
+21865_12	amod	21865_14
+21865_12	has_surface_form	Brazilian
+21865_13	is_in_sentence	sentence_21865
+21865_13	compound	21865_14
+21865_13	has_surface_form	soccer
+21865_15	is_in_sentence	sentence_21865
+21865_15	advmod	21865_16
+21865_15	has_surface_form	currently
+21865_16	is_in_sentence	sentence_21865
+21865_16	acl	21865_14
+21865_16	has_surface_form	playing
+21865_17	is_in_sentence	sentence_21865
+21865_17	prep	21865_16
+21865_17	has_surface_form	for
+21865_18	is_in_sentence	sentence_21865
+21865_18	compound	21865_19
+21865_18	has_surface_form	Harrisburg
+21865_18	part_of_entity	Harrisburg Heat
+21865_19	is_in_sentence	sentence_21865
+21865_19	pobj	21865_17
+21865_19	has_surface_form	Heat
+21865_19	part_of_entity	Harrisburg Heat
+21865_20	is_in_sentence	sentence_21865
+21865_20	prep	21865_19
+21865_20	has_surface_form	in
+21865_21	is_in_sentence	sentence_21865
+21865_21	det	21865_25
+21865_21	has_surface_form	the
+21865_25	is_in_sentence	sentence_21865
+21865_25	pobj	21865_20
+21865_25	has_surface_form	League
+21865_22	is_in_sentence	sentence_21865
+21865_22	compound	21865_25
+21865_22	has_surface_form	Major
+21865_23	is_in_sentence	sentence_21865
+21865_23	compound	21865_25
+21865_23	has_surface_form	Arena
+21865_24	is_in_sentence	sentence_21865
+21865_24	compound	21865_25
+21865_24	has_surface_form	Soccer
+21865_26	is_in_sentence	sentence_21865
+21865_26	punct	21865_10
+21865_26	has_surface_form	.
+21865_27	is_in_sentence	sentence_21865
+21865_27	dep	21865_10
+21865_27	has_surface_form	
+Adauto Neto	surface_form	Adauto Neto
+Adauto Neto	is-member-of	Harrisburg Heat
+Harrisburg Heat	surface_form	Harrisburg Heat

@@ -1,0 +1,87 @@
+237_0	is_in_sentence	sentence_237
+237_0	det	237_1
+237_0	has_surface_form	A
+237_0	part_of_entity	A Yank on the Burma Road
+237_1	is_in_sentence	sentence_237
+237_1	nsubj	237_6
+237_1	has_surface_form	Yank
+237_1	part_of_entity	A Yank on the Burma Road
+237_6	is_in_sentence	sentence_237
+237_6	ROOT	237_6
+237_6	has_surface_form	is
+237_2	is_in_sentence	sentence_237
+237_2	prep	237_1
+237_2	has_surface_form	on
+237_2	part_of_entity	A Yank on the Burma Road
+237_3	is_in_sentence	sentence_237
+237_3	det	237_5
+237_3	has_surface_form	the
+237_3	part_of_entity	A Yank on the Burma Road
+237_5	is_in_sentence	sentence_237
+237_5	pobj	237_2
+237_5	has_surface_form	Road
+237_5	part_of_entity	A Yank on the Burma Road
+237_4	is_in_sentence	sentence_237
+237_4	compound	237_5
+237_4	has_surface_form	Burma
+237_4	part_of_entity	A Yank on the Burma Road
+237_7	is_in_sentence	sentence_237
+237_7	det	237_10
+237_7	has_surface_form	a
+237_10	is_in_sentence	sentence_237
+237_10	attr	237_6
+237_10	has_surface_form	film
+237_8	is_in_sentence	sentence_237
+237_8	nummod	237_10
+237_8	has_surface_form	1942
+237_9	is_in_sentence	sentence_237
+237_9	compound	237_10
+237_9	has_surface_form	drama
+237_11	is_in_sentence	sentence_237
+237_11	acl	237_10
+237_11	has_surface_form	directed
+237_12	is_in_sentence	sentence_237
+237_12	agent	237_11
+237_12	has_surface_form	by
+237_13	is_in_sentence	sentence_237
+237_13	compound	237_15
+237_13	has_surface_form	George
+237_13	part_of_entity	George B. Seitz
+237_15	is_in_sentence	sentence_237
+237_15	pobj	237_12
+237_15	has_surface_form	Seitz
+237_15	part_of_entity	George B. Seitz
+237_14	is_in_sentence	sentence_237
+237_14	compound	237_15
+237_14	has_surface_form	B.
+237_14	part_of_entity	George B. Seitz
+237_16	is_in_sentence	sentence_237
+237_16	cc	237_11
+237_16	has_surface_form	and
+237_17	is_in_sentence	sentence_237
+237_17	conj	237_11
+237_17	has_surface_form	starring
+237_18	is_in_sentence	sentence_237
+237_18	compound	237_19
+237_18	has_surface_form	Laraine
+237_19	is_in_sentence	sentence_237
+237_19	dobj	237_17
+237_19	has_surface_form	Day
+237_20	is_in_sentence	sentence_237
+237_20	cc	237_19
+237_20	has_surface_form	and
+237_21	is_in_sentence	sentence_237
+237_21	compound	237_22
+237_21	has_surface_form	Barry
+237_22	is_in_sentence	sentence_237
+237_22	conj	237_19
+237_22	has_surface_form	Nelson
+237_23	is_in_sentence	sentence_237
+237_23	punct	237_6
+237_23	has_surface_form	.
+237_24	is_in_sentence	sentence_237
+237_24	dep	237_24
+237_24	has_surface_form	
+A Yank on the Burma Road	surface_form	A Yank on the Burma Road
+A Yank on the Burma Road	movie-has-director	George B. Seitz
+George B. Seitz	surface_form	George B. Seitz

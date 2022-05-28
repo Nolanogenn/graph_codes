@@ -1,0 +1,88 @@
+30256_0	is_in_sentence	sentence_30256
+30256_0	det	30256_2
+30256_0	has_surface_form	The
+30256_2	is_in_sentence	sentence_30256
+30256_2	nsubj	30256_3
+30256_2	has_surface_form	School
+30256_2	part_of_entity	Elmgreen School
+30256_1	is_in_sentence	sentence_30256
+30256_1	compound	30256_2
+30256_1	has_surface_form	Elmgreen
+30256_1	part_of_entity	Elmgreen School
+30256_3	is_in_sentence	sentence_30256
+30256_3	ROOT	30256_3
+30256_3	has_surface_form	is
+30256_4	is_in_sentence	sentence_30256
+30256_4	det	30256_7
+30256_4	has_surface_form	a
+30256_7	is_in_sentence	sentence_30256
+30256_7	attr	30256_3
+30256_7	has_surface_form	school
+30256_5	is_in_sentence	sentence_30256
+30256_5	amod	30256_7
+30256_5	has_surface_form	coeducational
+30256_6	is_in_sentence	sentence_30256
+30256_6	amod	30256_7
+30256_6	has_surface_form	secondary
+30256_8	is_in_sentence	sentence_30256
+30256_8	cc	30256_7
+30256_8	has_surface_form	and
+30256_9	is_in_sentence	sentence_30256
+30256_9	amod	30256_10
+30256_9	has_surface_form	sixth
+30256_10	is_in_sentence	sentence_30256
+30256_10	conj	30256_7
+30256_10	has_surface_form	form
+30256_11	is_in_sentence	sentence_30256
+30256_11	acl	30256_10
+30256_11	has_surface_form	located
+30256_12	is_in_sentence	sentence_30256
+30256_12	prep	30256_11
+30256_12	has_surface_form	in
+30256_13	is_in_sentence	sentence_30256
+30256_13	det	30256_16
+30256_13	has_surface_form	the
+30256_16	is_in_sentence	sentence_30256
+30256_16	pobj	30256_12
+30256_16	has_surface_form	area
+30256_14	is_in_sentence	sentence_30256
+30256_14	compound	30256_15
+30256_14	has_surface_form	West
+30256_14	part_of_entity	West Norwood
+30256_15	is_in_sentence	sentence_30256
+30256_15	compound	30256_16
+30256_15	has_surface_form	Norwood
+30256_15	part_of_entity	West Norwood
+30256_17	is_in_sentence	sentence_30256
+30256_17	prep	30256_16
+30256_17	has_surface_form	of
+30256_18	is_in_sentence	sentence_30256
+30256_18	det	30256_20
+30256_18	has_surface_form	the
+30256_20	is_in_sentence	sentence_30256
+30256_20	pobj	30256_17
+30256_20	has_surface_form	Borough
+30256_19	is_in_sentence	sentence_30256
+30256_19	compound	30256_20
+30256_19	has_surface_form	London
+30256_21	is_in_sentence	sentence_30256
+30256_21	prep	30256_20
+30256_21	has_surface_form	of
+30256_22	is_in_sentence	sentence_30256
+30256_22	pobj	30256_21
+30256_22	has_surface_form	Lambeth
+30256_23	is_in_sentence	sentence_30256
+30256_23	punct	30256_22
+30256_23	has_surface_form	,
+30256_24	is_in_sentence	sentence_30256
+30256_24	appos	30256_22
+30256_24	has_surface_form	England
+30256_25	is_in_sentence	sentence_30256
+30256_25	punct	30256_3
+30256_25	has_surface_form	.
+30256_26	is_in_sentence	sentence_30256
+30256_26	dep	30256_3
+30256_26	has_surface_form	
+Elmgreen School	surface_form	Elmgreen School
+Elmgreen School	is-where	West Norwood
+West Norwood	surface_form	West Norwood

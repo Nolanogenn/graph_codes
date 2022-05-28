@@ -1,0 +1,83 @@
+5392_0	is_in_sentence	sentence_5392
+5392_0	compound	5392_3
+5392_0	has_surface_form	Marine
+5392_0	part_of_entity	Marine Fighter Attack Squadron 122
+5392_3	is_in_sentence	sentence_5392
+5392_3	nsubj	5392_8
+5392_3	has_surface_form	Squadron
+5392_3	part_of_entity	Marine Fighter Attack Squadron 122
+5392_1	is_in_sentence	sentence_5392
+5392_1	compound	5392_3
+5392_1	has_surface_form	Fighter
+5392_1	part_of_entity	Marine Fighter Attack Squadron 122
+5392_2	is_in_sentence	sentence_5392
+5392_2	compound	5392_3
+5392_2	has_surface_form	Attack
+5392_2	part_of_entity	Marine Fighter Attack Squadron 122
+5392_8	is_in_sentence	sentence_5392
+5392_8	ROOT	5392_8
+5392_8	has_surface_form	is
+5392_4	is_in_sentence	sentence_5392
+5392_4	nummod	5392_3
+5392_4	has_surface_form	122
+5392_4	part_of_entity	Marine Fighter Attack Squadron 122
+5392_5	is_in_sentence	sentence_5392
+5392_5	punct	5392_4
+5392_5	has_surface_form	(
+5392_6	is_in_sentence	sentence_5392
+5392_6	appos	5392_4
+5392_6	has_surface_form	VMFA-122
+5392_7	is_in_sentence	sentence_5392
+5392_7	punct	5392_4
+5392_7	has_surface_form	)
+5392_9	is_in_sentence	sentence_5392
+5392_9	det	5392_16
+5392_9	has_surface_form	a
+5392_16	is_in_sentence	sentence_5392
+5392_16	attr	5392_8
+5392_16	has_surface_form	squadron
+5392_16	part_of_entity	fighter attack squadron
+5392_10	is_in_sentence	sentence_5392
+5392_10	compound	5392_11
+5392_10	has_surface_form	United
+5392_11	is_in_sentence	sentence_5392
+5392_11	compound	5392_16
+5392_11	has_surface_form	States
+5392_12	is_in_sentence	sentence_5392
+5392_12	compound	5392_13
+5392_12	has_surface_form	Marine
+5392_13	is_in_sentence	sentence_5392
+5392_13	compound	5392_16
+5392_13	has_surface_form	Corps
+5392_14	is_in_sentence	sentence_5392
+5392_14	compound	5392_15
+5392_14	has_surface_form	fighter
+5392_14	part_of_entity	fighter attack squadron
+5392_15	is_in_sentence	sentence_5392
+5392_15	compound	5392_16
+5392_15	has_surface_form	attack
+5392_15	part_of_entity	fighter attack squadron
+5392_17	is_in_sentence	sentence_5392
+5392_17	acl	5392_16
+5392_17	has_surface_form	flying
+5392_18	is_in_sentence	sentence_5392
+5392_18	det	5392_21
+5392_18	has_surface_form	the
+5392_21	is_in_sentence	sentence_5392
+5392_21	dobj	5392_17
+5392_21	has_surface_form	II
+5392_19	is_in_sentence	sentence_5392
+5392_19	compound	5392_21
+5392_19	has_surface_form	F-35B
+5392_20	is_in_sentence	sentence_5392
+5392_20	compound	5392_21
+5392_20	has_surface_form	Lightning
+5392_22	is_in_sentence	sentence_5392
+5392_22	punct	5392_8
+5392_22	has_surface_form	.
+5392_23	is_in_sentence	sentence_5392
+5392_23	dep	5392_23
+5392_23	has_surface_form	
+Marine Fighter Attack Squadron 122	surface_form	Marine Fighter Attack Squadron 122
+Marine Fighter Attack Squadron 122	has-type	fighter attack squadron
+fighter attack squadron	surface_form	fighter attack squadron

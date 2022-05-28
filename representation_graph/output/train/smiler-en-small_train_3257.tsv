@@ -1,0 +1,45 @@
+3256_0	is_in_sentence	sentence_3256
+3256_0	compound	3256_2
+3256_0	has_surface_form	Chrome
+3256_0	part_of_entity	Chrome Air Service
+3256_2	is_in_sentence	sentence_3256
+3256_2	nsubj	3256_3
+3256_2	has_surface_form	Service
+3256_2	part_of_entity	Chrome Air Service
+3256_1	is_in_sentence	sentence_3256
+3256_1	compound	3256_2
+3256_1	has_surface_form	Air
+3256_1	part_of_entity	Chrome Air Service
+3256_3	is_in_sentence	sentence_3256
+3256_3	ROOT	3256_3
+3256_3	has_surface_form	was
+3256_4	is_in_sentence	sentence_3256
+3256_4	det	3256_5
+3256_4	has_surface_form	an
+3256_5	is_in_sentence	sentence_3256
+3256_5	attr	3256_3
+3256_5	has_surface_form	airline
+3256_6	is_in_sentence	sentence_3256
+3256_6	acl	3256_5
+3256_6	has_surface_form	based
+3256_7	is_in_sentence	sentence_3256
+3256_7	prep	3256_6
+3256_7	has_surface_form	in
+3256_8	is_in_sentence	sentence_3256
+3256_8	pobj	3256_7
+3256_8	is_entity	Lagos
+Lagos	surface_form	Lagos
+3256_9	is_in_sentence	sentence_3256
+3256_9	punct	3256_8
+3256_9	has_surface_form	,
+3256_10	is_in_sentence	sentence_3256
+3256_10	appos	3256_8
+3256_10	has_surface_form	Nigeria
+3256_11	is_in_sentence	sentence_3256
+3256_11	punct	3256_3
+3256_11	has_surface_form	.
+3256_12	is_in_sentence	sentence_3256
+3256_12	dep	3256_3
+3256_12	has_surface_form	
+Chrome Air Service	surface_form	Chrome Air Service
+Chrome Air Service	headquarters	Lagos

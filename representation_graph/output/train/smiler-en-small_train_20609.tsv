@@ -1,0 +1,105 @@
+20608_0	is_in_sentence	sentence_20608
+20608_0	det	20608_1
+20608_0	has_surface_form	A
+20608_0	part_of_entity	A Taste for Killing
+20608_1	is_in_sentence	sentence_20608
+20608_1	nsubj	20608_4
+20608_1	has_surface_form	Taste
+20608_1	part_of_entity	A Taste for Killing
+20608_4	is_in_sentence	sentence_20608
+20608_4	ROOT	20608_4
+20608_4	has_surface_form	is
+20608_2	is_in_sentence	sentence_20608
+20608_2	prep	20608_1
+20608_2	has_surface_form	for
+20608_2	part_of_entity	A Taste for Killing
+20608_3	is_in_sentence	sentence_20608
+20608_3	pobj	20608_2
+20608_3	has_surface_form	Killing
+20608_3	part_of_entity	A Taste for Killing
+20608_5	is_in_sentence	sentence_20608
+20608_5	det	20608_15
+20608_5	has_surface_form	a
+20608_15	is_in_sentence	sentence_20608
+20608_15	attr	20608_4
+20608_15	has_surface_form	film
+20608_6	is_in_sentence	sentence_20608
+20608_6	nummod	20608_15
+20608_6	has_surface_form	1992
+20608_7	is_in_sentence	sentence_20608
+20608_7	nmod	20608_15
+20608_7	has_surface_form	American
+20608_8	is_in_sentence	sentence_20608
+20608_8	amod	20608_13
+20608_8	has_surface_form	made
+20608_13	is_in_sentence	sentence_20608
+20608_13	compound	20608_15
+20608_13	has_surface_form	thriller
+20608_9	is_in_sentence	sentence_20608
+20608_9	punct	20608_8
+20608_9	has_surface_form	-
+20608_10	is_in_sentence	sentence_20608
+20608_10	prep	20608_8
+20608_10	has_surface_form	for
+20608_11	is_in_sentence	sentence_20608
+20608_11	punct	20608_10
+20608_11	has_surface_form	-
+20608_12	is_in_sentence	sentence_20608
+20608_12	pobj	20608_10
+20608_12	has_surface_form	television
+20608_14	is_in_sentence	sentence_20608
+20608_14	compound	20608_15
+20608_14	has_surface_form	drama
+20608_16	is_in_sentence	sentence_20608
+20608_16	acl	20608_15
+20608_16	has_surface_form	directed
+20608_17	is_in_sentence	sentence_20608
+20608_17	agent	20608_16
+20608_17	has_surface_form	by
+20608_18	is_in_sentence	sentence_20608
+20608_18	compound	20608_19
+20608_18	has_surface_form	Lou
+20608_18	part_of_entity	Lou Antonio
+20608_19	is_in_sentence	sentence_20608
+20608_19	pobj	20608_17
+20608_19	has_surface_form	Antonio
+20608_19	part_of_entity	Lou Antonio
+20608_20	is_in_sentence	sentence_20608
+20608_20	cc	20608_16
+20608_20	has_surface_form	and
+20608_21	is_in_sentence	sentence_20608
+20608_21	conj	20608_16
+20608_21	has_surface_form	starring
+20608_22	is_in_sentence	sentence_20608
+20608_22	compound	20608_23
+20608_22	has_surface_form	Michael
+20608_23	is_in_sentence	sentence_20608
+20608_23	dobj	20608_21
+20608_23	has_surface_form	Biehn
+20608_24	is_in_sentence	sentence_20608
+20608_24	punct	20608_23
+20608_24	has_surface_form	,
+20608_25	is_in_sentence	sentence_20608
+20608_25	compound	20608_26
+20608_25	has_surface_form	Jason
+20608_26	is_in_sentence	sentence_20608
+20608_26	conj	20608_23
+20608_26	has_surface_form	Bateman
+20608_27	is_in_sentence	sentence_20608
+20608_27	cc	20608_26
+20608_27	has_surface_form	and
+20608_28	is_in_sentence	sentence_20608
+20608_28	compound	20608_29
+20608_28	has_surface_form	Henry
+20608_29	is_in_sentence	sentence_20608
+20608_29	conj	20608_26
+20608_29	has_surface_form	Thomas
+20608_30	is_in_sentence	sentence_20608
+20608_30	punct	20608_4
+20608_30	has_surface_form	.
+20608_31	is_in_sentence	sentence_20608
+20608_31	dep	20608_4
+20608_31	has_surface_form	
+A Taste for Killing	surface_form	A Taste for Killing
+A Taste for Killing	movie-has-director	Lou Antonio
+Lou Antonio	surface_form	Lou Antonio

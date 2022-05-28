@@ -1,0 +1,73 @@
+601_0	is_in_sentence	sentence_601
+601_0	compound	601_1
+601_0	has_surface_form	James
+601_0	part_of_entity	James Talley
+601_1	is_in_sentence	sentence_601
+601_1	nsubj	601_9
+601_1	has_surface_form	Talley
+601_1	part_of_entity	James Talley
+601_9	is_in_sentence	sentence_601
+601_9	ROOT	601_9
+601_9	has_surface_form	is
+601_2	is_in_sentence	sentence_601
+601_2	punct	601_1
+601_2	has_surface_form	(
+601_3	is_in_sentence	sentence_601
+601_3	acl	601_1
+601_3	has_surface_form	born
+601_4	is_in_sentence	sentence_601
+601_4	npadvmod	601_3
+601_4	has_surface_form	November
+601_5	is_in_sentence	sentence_601
+601_5	nummod	601_4
+601_5	has_surface_form	9
+601_6	is_in_sentence	sentence_601
+601_6	punct	601_4
+601_6	has_surface_form	,
+601_7	is_in_sentence	sentence_601
+601_7	nummod	601_4
+601_7	has_surface_form	1944
+601_8	is_in_sentence	sentence_601
+601_8	punct	601_1
+601_8	has_surface_form	)
+601_10	is_in_sentence	sentence_601
+601_10	det	601_13
+601_10	has_surface_form	an
+601_13	is_in_sentence	sentence_601
+601_13	attr	601_9
+601_13	has_surface_form	blues
+601_13	part_of_entity	country blues
+601_11	is_in_sentence	sentence_601
+601_11	amod	601_13
+601_11	has_surface_form	American
+601_12	is_in_sentence	sentence_601
+601_12	compound	601_13
+601_12	has_surface_form	country
+601_12	part_of_entity	country blues
+601_14	is_in_sentence	sentence_601
+601_14	cc	601_13
+601_14	has_surface_form	and
+601_15	is_in_sentence	sentence_601
+601_15	amod	601_16
+601_15	has_surface_form	electric
+601_16	is_in_sentence	sentence_601
+601_16	conj	601_13
+601_16	has_surface_form	blues
+601_17	is_in_sentence	sentence_601
+601_17	compound	601_19
+601_17	has_surface_form	singer
+601_19	is_in_sentence	sentence_601
+601_19	appos	601_13
+601_19	has_surface_form	songwriter
+601_18	is_in_sentence	sentence_601
+601_18	punct	601_19
+601_18	has_surface_form	-
+601_20	is_in_sentence	sentence_601
+601_20	punct	601_9
+601_20	has_surface_form	.
+601_21	is_in_sentence	sentence_601
+601_21	dep	601_21
+601_21	has_surface_form	
+James Talley	surface_form	James Talley
+James Talley	has-genre	country blues
+country blues	surface_form	country blues

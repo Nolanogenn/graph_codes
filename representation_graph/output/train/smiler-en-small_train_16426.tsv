@@ -1,0 +1,91 @@
+16425_0	is_in_sentence	sentence_16425
+16425_0	det	16425_2
+16425_0	has_surface_form	The
+16425_0	part_of_entity	The Women House of Brescia
+16425_2	is_in_sentence	sentence_16425
+16425_2	nsubj	16425_13
+16425_2	has_surface_form	House
+16425_2	part_of_entity	The Women House of Brescia
+16425_1	is_in_sentence	sentence_16425
+16425_1	compound	16425_2
+16425_1	has_surface_form	Women
+16425_1	part_of_entity	The Women House of Brescia
+16425_13	is_in_sentence	sentence_16425
+16425_13	ROOT	16425_13
+16425_13	has_surface_form	is
+16425_3	is_in_sentence	sentence_16425
+16425_3	prep	16425_2
+16425_3	has_surface_form	of
+16425_3	part_of_entity	The Women House of Brescia
+16425_4	is_in_sentence	sentence_16425
+16425_4	pobj	16425_3
+16425_4	has_surface_form	Brescia
+16425_4	part_of_entity	The Women House of Brescia
+16425_5	is_in_sentence	sentence_16425
+16425_5	punct	16425_6
+16425_5	has_surface_form	(
+16425_6	is_in_sentence	sentence_16425
+16425_6	parataxis	16425_2
+16425_6	has_surface_form	German
+16425_7	is_in_sentence	sentence_16425
+16425_7	punct	16425_6
+16425_7	has_surface_form	:
+16425_8	is_in_sentence	sentence_16425
+16425_8	compound	16425_11
+16425_8	has_surface_form	Das
+16425_11	is_in_sentence	sentence_16425
+16425_11	appos	16425_6
+16425_11	has_surface_form	Brescia
+16425_9	is_in_sentence	sentence_16425
+16425_9	compound	16425_11
+16425_9	has_surface_form	Frauenhaus
+16425_10	is_in_sentence	sentence_16425
+16425_10	compound	16425_11
+16425_10	has_surface_form	von
+16425_12	is_in_sentence	sentence_16425
+16425_12	punct	16425_6
+16425_12	has_surface_form	)
+16425_14	is_in_sentence	sentence_16425
+16425_14	det	16425_20
+16425_14	has_surface_form	a
+16425_20	is_in_sentence	sentence_16425
+16425_20	attr	16425_13
+16425_20	has_surface_form	film
+16425_15	is_in_sentence	sentence_16425
+16425_15	nummod	16425_20
+16425_15	has_surface_form	1920
+16425_16	is_in_sentence	sentence_16425
+16425_16	amod	16425_18
+16425_16	has_surface_form	German
+16425_18	is_in_sentence	sentence_16425
+16425_18	nmod	16425_20
+16425_18	has_surface_form	language
+16425_17	is_in_sentence	sentence_16425
+16425_17	punct	16425_18
+16425_17	has_surface_form	-
+16425_19	is_in_sentence	sentence_16425
+16425_19	amod	16425_20
+16425_19	has_surface_form	silent
+16425_21	is_in_sentence	sentence_16425
+16425_21	acl	16425_20
+16425_21	has_surface_form	directed
+16425_22	is_in_sentence	sentence_16425
+16425_22	agent	16425_21
+16425_22	has_surface_form	by
+16425_23	is_in_sentence	sentence_16425
+16425_23	compound	16425_24
+16425_23	has_surface_form	Hubert
+16425_23	part_of_entity	Hubert Moest
+16425_24	is_in_sentence	sentence_16425
+16425_24	pobj	16425_22
+16425_24	has_surface_form	Moest
+16425_24	part_of_entity	Hubert Moest
+16425_25	is_in_sentence	sentence_16425
+16425_25	punct	16425_13
+16425_25	has_surface_form	.
+16425_26	is_in_sentence	sentence_16425
+16425_26	dep	16425_26
+16425_26	has_surface_form	
+The Women House of Brescia	surface_form	The Women House of Brescia
+The Women House of Brescia	movie-has-director	Hubert Moest
+Hubert Moest	surface_form	Hubert Moest

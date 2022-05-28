@@ -1,0 +1,67 @@
+7195_0	is_in_sentence	sentence_7195
+7195_0	det	7195_3
+7195_0	has_surface_form	The
+7195_3	is_in_sentence	sentence_7195
+7195_3	nsubjpass	7195_5
+7195_3	has_surface_form	grinder
+7195_3	part_of_entity	coffee grinder
+7195_1	is_in_sentence	sentence_7195
+7195_1	amod	7195_3
+7195_1	has_surface_form	first
+7195_2	is_in_sentence	sentence_7195
+7195_2	compound	7195_3
+7195_2	has_surface_form	coffee
+7195_2	part_of_entity	coffee grinder
+7195_5	is_in_sentence	sentence_7195
+7195_5	ROOT	7195_5
+7195_5	has_surface_form	made
+7195_4	is_in_sentence	sentence_7195
+7195_4	auxpass	7195_5
+7195_4	has_surface_form	was
+7195_6	is_in_sentence	sentence_7195
+7195_6	agent	7195_5
+7195_6	has_surface_form	by
+7195_7	is_in_sentence	sentence_7195
+7195_7	compound	7195_8
+7195_7	has_surface_form	Richard
+7195_7	part_of_entity	Richard Dearmann
+7195_8	is_in_sentence	sentence_7195
+7195_8	pobj	7195_6
+7195_8	has_surface_form	Dearmann
+7195_8	part_of_entity	Richard Dearmann
+7195_9	is_in_sentence	sentence_7195
+7195_9	punct	7195_8
+7195_9	has_surface_form	,
+7195_10	is_in_sentence	sentence_7195
+7195_10	det	7195_12
+7195_10	has_surface_form	an
+7195_12	is_in_sentence	sentence_7195
+7195_12	appos	7195_8
+7195_12	has_surface_form	blacksmith
+7195_11	is_in_sentence	sentence_7195
+7195_11	amod	7195_12
+7195_11	has_surface_form	English
+7195_13	is_in_sentence	sentence_7195
+7195_13	prep	7195_12
+7195_13	has_surface_form	from
+7195_14	is_in_sentence	sentence_7195
+7195_14	pobj	7195_13
+7195_14	has_surface_form	Birmingham
+7195_15	is_in_sentence	sentence_7195
+7195_15	punct	7195_5
+7195_15	has_surface_form	,
+7195_16	is_in_sentence	sentence_7195
+7195_16	prep	7195_5
+7195_16	has_surface_form	in
+7195_17	is_in_sentence	sentence_7195
+7195_17	pobj	7195_16
+7195_17	has_surface_form	1799
+7195_18	is_in_sentence	sentence_7195
+7195_18	punct	7195_5
+7195_18	has_surface_form	.
+7195_19	is_in_sentence	sentence_7195
+7195_19	dep	7195_19
+7195_19	has_surface_form	
+coffee grinder	surface_form	coffee grinder
+coffee grinder	invented-by	Richard Dearmann
+Richard Dearmann	surface_form	Richard Dearmann

@@ -1,0 +1,67 @@
+6116_0	is_in_sentence	sentence_6116
+6116_0	det	6116_2
+6116_0	has_surface_form	The
+6116_2	is_in_sentence	sentence_6116
+6116_2	nsubj	6116_7
+6116_2	has_surface_form	lifespan
+6116_1	is_in_sentence	sentence_6116
+6116_1	amod	6116_2
+6116_1	has_surface_form	average
+6116_7	is_in_sentence	sentence_6116
+6116_7	ROOT	6116_7
+6116_7	has_surface_form	is
+6116_3	is_in_sentence	sentence_6116
+6116_3	prep	6116_2
+6116_3	has_surface_form	of
+6116_4	is_in_sentence	sentence_6116
+6116_4	det	6116_6
+6116_4	has_surface_form	the
+6116_6	is_in_sentence	sentence_6116
+6116_6	pobj	6116_3
+6116_6	has_surface_form	dragon
+6116_6	part_of_entity	Jacky dragon
+6116_5	is_in_sentence	sentence_6116
+6116_5	compound	6116_6
+6116_5	has_surface_form	Jacky
+6116_5	part_of_entity	Jacky dragon
+6116_8	is_in_sentence	sentence_6116
+6116_8	nummod	6116_9
+6116_8	has_surface_form	four
+6116_8	part_of_entity	four years
+6116_9	is_in_sentence	sentence_6116
+6116_9	attr	6116_7
+6116_9	has_surface_form	years
+6116_9	part_of_entity	four years
+6116_10	is_in_sentence	sentence_6116
+6116_10	punct	6116_9
+6116_10	has_surface_form	,
+6116_11	is_in_sentence	sentence_6116
+6116_11	nsubj	6116_12
+6116_11	has_surface_form	which
+6116_12	is_in_sentence	sentence_6116
+6116_12	relcl	6116_9
+6116_12	has_surface_form	is
+6116_13	is_in_sentence	sentence_6116
+6116_13	advmod	6116_14
+6116_13	has_surface_form	significantly
+6116_14	is_in_sentence	sentence_6116
+6116_14	acomp	6116_12
+6116_14	has_surface_form	shorter
+6116_15	is_in_sentence	sentence_6116
+6116_15	prep	6116_14
+6116_15	has_surface_form	than
+6116_16	is_in_sentence	sentence_6116
+6116_16	amod	6116_17
+6116_16	has_surface_form	most
+6116_17	is_in_sentence	sentence_6116
+6116_17	pobj	6116_15
+6116_17	has_surface_form	lizards
+6116_18	is_in_sentence	sentence_6116
+6116_18	punct	6116_7
+6116_18	has_surface_form	.
+6116_19	is_in_sentence	sentence_6116
+6116_19	dep	6116_7
+6116_19	has_surface_form	
+Jacky dragon	surface_form	Jacky dragon
+Jacky dragon	has-lifespan	four years
+four years	surface_form	four years

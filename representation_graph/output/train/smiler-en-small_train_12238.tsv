@@ -1,0 +1,65 @@
+12237_0	is_in_sentence	sentence_12237
+12237_0	compound	12237_1
+12237_0	has_surface_form	Ampampamena
+12237_0	part_of_entity	Ampampamena Airport
+12237_1	is_in_sentence	sentence_12237
+12237_1	nsubj	12237_11
+12237_1	has_surface_form	Airport
+12237_1	part_of_entity	Ampampamena Airport
+12237_11	is_in_sentence	sentence_12237
+12237_11	ROOT	12237_11
+12237_11	has_surface_form	is
+12237_2	is_in_sentence	sentence_12237
+12237_2	punct	12237_3
+12237_2	has_surface_form	(
+12237_3	is_in_sentence	sentence_12237
+12237_3	appos	12237_1
+12237_3	has_surface_form	IATA
+12237_4	is_in_sentence	sentence_12237
+12237_4	punct	12237_3
+12237_4	has_surface_form	:
+12237_5	is_in_sentence	sentence_12237
+12237_5	appos	12237_1
+12237_5	has_surface_form	IVA
+12237_6	is_in_sentence	sentence_12237
+12237_6	punct	12237_5
+12237_6	has_surface_form	,
+12237_7	is_in_sentence	sentence_12237
+12237_7	appos	12237_5
+12237_7	has_surface_form	ICAO
+12237_8	is_in_sentence	sentence_12237
+12237_8	punct	12237_5
+12237_8	has_surface_form	:
+12237_9	is_in_sentence	sentence_12237
+12237_9	appos	12237_5
+12237_9	has_surface_form	FMNZ
+12237_10	is_in_sentence	sentence_12237
+12237_10	punct	12237_5
+12237_10	has_surface_form	)
+12237_12	is_in_sentence	sentence_12237
+12237_12	det	12237_13
+12237_12	has_surface_form	an
+12237_13	is_in_sentence	sentence_12237
+12237_13	attr	12237_11
+12237_13	has_surface_form	airport
+12237_14	is_in_sentence	sentence_12237
+12237_14	acl	12237_13
+12237_14	has_surface_form	serving
+12237_15	is_in_sentence	sentence_12237
+12237_15	dobj	12237_14
+12237_15	is_entity	Ambanja
+Ambanja	surface_form	Ambanja
+12237_16	is_in_sentence	sentence_12237
+12237_16	punct	12237_15
+12237_16	has_surface_form	,
+12237_17	is_in_sentence	sentence_12237
+12237_17	appos	12237_15
+12237_17	has_surface_form	Madagascar
+12237_18	is_in_sentence	sentence_12237
+12237_18	punct	12237_11
+12237_18	has_surface_form	.
+12237_19	is_in_sentence	sentence_12237
+12237_19	dep	12237_11
+12237_19	has_surface_form	
+Ampampamena Airport	surface_form	Ampampamena Airport
+Ampampamena Airport	is-where	Ambanja

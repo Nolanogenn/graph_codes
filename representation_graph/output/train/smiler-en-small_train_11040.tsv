@@ -1,0 +1,59 @@
+11039_0	is_in_sentence	sentence_11039
+11039_0	compound	11039_1
+11039_0	has_surface_form	Cristina
+11039_0	part_of_entity	Cristina D'Avena
+11039_1	is_in_sentence	sentence_11039
+11039_1	nsubj	11039_10
+11039_1	has_surface_form	D'Avena
+11039_1	part_of_entity	Cristina D'Avena
+11039_10	is_in_sentence	sentence_11039
+11039_10	ROOT	11039_10
+11039_10	has_surface_form	is
+11039_2	is_in_sentence	sentence_11039
+11039_2	punct	11039_3
+11039_2	has_surface_form	(
+11039_3	is_in_sentence	sentence_11039
+11039_3	parataxis	11039_1
+11039_3	has_surface_form	born
+11039_4	is_in_sentence	sentence_11039
+11039_4	npadvmod	11039_3
+11039_4	has_surface_form	6
+11039_5	is_in_sentence	sentence_11039
+11039_5	npadvmod	11039_3
+11039_5	has_surface_form	July
+11039_6	is_in_sentence	sentence_11039
+11039_6	nummod	11039_5
+11039_6	has_surface_form	1964
+11039_7	is_in_sentence	sentence_11039
+11039_7	prep	11039_3
+11039_7	has_surface_form	in
+11039_8	is_in_sentence	sentence_11039
+11039_8	pobj	11039_7
+11039_8	is_entity	Bologna
+Bologna	surface_form	Bologna
+11039_9	is_in_sentence	sentence_11039
+11039_9	punct	11039_1
+11039_9	has_surface_form	)
+11039_11	is_in_sentence	sentence_11039
+11039_11	det	11039_13
+11039_11	has_surface_form	an
+11039_13	is_in_sentence	sentence_11039
+11039_13	attr	11039_10
+11039_13	has_surface_form	singer
+11039_12	is_in_sentence	sentence_11039
+11039_12	amod	11039_13
+11039_12	has_surface_form	Italian
+11039_14	is_in_sentence	sentence_11039
+11039_14	cc	11039_13
+11039_14	has_surface_form	and
+11039_15	is_in_sentence	sentence_11039
+11039_15	conj	11039_13
+11039_15	has_surface_form	actress
+11039_16	is_in_sentence	sentence_11039
+11039_16	punct	11039_10
+11039_16	has_surface_form	.
+11039_17	is_in_sentence	sentence_11039
+11039_17	dep	11039_17
+11039_17	has_surface_form	
+Cristina D'Avena	surface_form	Cristina D'Avena
+Cristina D'Avena	birth-place	Bologna

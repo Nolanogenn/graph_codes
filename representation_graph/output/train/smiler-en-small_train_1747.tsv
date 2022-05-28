@@ -1,0 +1,91 @@
+1746_0	is_in_sentence	sentence_1746
+1746_0	compound	1746_1
+1746_0	has_surface_form	Dornoch
+1746_0	part_of_entity	Dornoch Academy
+1746_1	is_in_sentence	sentence_1746
+1746_1	nsubj	1746_9
+1746_1	has_surface_form	Academy
+1746_1	part_of_entity	Dornoch Academy
+1746_9	is_in_sentence	sentence_1746
+1746_9	ROOT	1746_9
+1746_9	has_surface_form	is
+1746_2	is_in_sentence	sentence_1746
+1746_2	punct	1746_4
+1746_2	has_surface_form	(
+1746_4	is_in_sentence	sentence_1746
+1746_4	appos	1746_1
+1746_4	has_surface_form	Gaelic
+1746_3	is_in_sentence	sentence_1746
+1746_3	compound	1746_4
+1746_3	has_surface_form	Scottish
+1746_5	is_in_sentence	sentence_1746
+1746_5	punct	1746_4
+1746_5	has_surface_form	:
+1746_6	is_in_sentence	sentence_1746
+1746_6	compound	1746_7
+1746_6	has_surface_form	Acadamaidh
+1746_7	is_in_sentence	sentence_1746
+1746_7	appos	1746_4
+1746_7	has_surface_form	Dhornaich
+1746_8	is_in_sentence	sentence_1746
+1746_8	punct	1746_4
+1746_8	has_surface_form	)
+1746_10	is_in_sentence	sentence_1746
+1746_10	det	1746_13
+1746_10	has_surface_form	a
+1746_13	is_in_sentence	sentence_1746
+1746_13	attr	1746_9
+1746_13	has_surface_form	school
+1746_13	part_of_entity	secondary school
+1746_11	is_in_sentence	sentence_1746
+1746_11	nmod	1746_13
+1746_11	has_surface_form	state
+1746_12	is_in_sentence	sentence_1746
+1746_12	amod	1746_13
+1746_12	has_surface_form	secondary
+1746_12	part_of_entity	secondary school
+1746_14	is_in_sentence	sentence_1746
+1746_14	acl	1746_13
+1746_14	has_surface_form	situated
+1746_15	is_in_sentence	sentence_1746
+1746_15	prep	1746_14
+1746_15	has_surface_form	in
+1746_16	is_in_sentence	sentence_1746
+1746_16	det	1746_18
+1746_16	has_surface_form	the
+1746_18	is_in_sentence	sentence_1746
+1746_18	pobj	1746_15
+1746_18	has_surface_form	town
+1746_17	is_in_sentence	sentence_1746
+1746_17	amod	1746_18
+1746_17	has_surface_form	small
+1746_19	is_in_sentence	sentence_1746
+1746_19	prep	1746_18
+1746_19	has_surface_form	of
+1746_20	is_in_sentence	sentence_1746
+1746_20	pobj	1746_19
+1746_20	has_surface_form	Dornoch
+1746_21	is_in_sentence	sentence_1746
+1746_21	prep	1746_20
+1746_21	has_surface_form	in
+1746_22	is_in_sentence	sentence_1746
+1746_22	pobj	1746_21
+1746_22	has_surface_form	Sutherland
+1746_23	is_in_sentence	sentence_1746
+1746_23	prep	1746_14
+1746_23	has_surface_form	in
+1746_24	is_in_sentence	sentence_1746
+1746_24	amod	1746_25
+1746_24	has_surface_form	northern
+1746_25	is_in_sentence	sentence_1746
+1746_25	pobj	1746_23
+1746_25	has_surface_form	Scotland
+1746_26	is_in_sentence	sentence_1746
+1746_26	punct	1746_9
+1746_26	has_surface_form	.
+1746_27	is_in_sentence	sentence_1746
+1746_27	dep	1746_27
+1746_27	has_surface_form	
+Dornoch Academy	surface_form	Dornoch Academy
+Dornoch Academy	has-type	secondary school
+secondary school	surface_form	secondary school

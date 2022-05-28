@@ -1,0 +1,89 @@
+30130_0	is_in_sentence	sentence_30130
+30130_0	compound	30130_1
+30130_0	has_surface_form	Napa
+30130_0	part_of_entity	Napa Valley College
+30130_1	is_in_sentence	sentence_30130
+30130_1	compound	30130_2
+30130_1	has_surface_form	Valley
+30130_1	part_of_entity	Napa Valley College
+30130_2	is_in_sentence	sentence_30130
+30130_2	nsubj	30130_15
+30130_2	has_surface_form	College
+30130_2	part_of_entity	Napa Valley College
+30130_15	is_in_sentence	sentence_30130
+30130_15	ROOT	30130_15
+30130_15	has_surface_form	is
+30130_3	is_in_sentence	sentence_30130
+30130_3	punct	30130_2
+30130_3	has_surface_form	,
+30130_4	is_in_sentence	sentence_30130
+30130_4	advmod	30130_5
+30130_4	has_surface_form	formerly
+30130_5	is_in_sentence	sentence_30130
+30130_5	acl	30130_2
+30130_5	has_surface_form	known
+30130_6	is_in_sentence	sentence_30130
+30130_6	prep	30130_5
+30130_6	has_surface_form	as
+30130_7	is_in_sentence	sentence_30130
+30130_7	compound	30130_9
+30130_7	has_surface_form	Napa
+30130_9	is_in_sentence	sentence_30130
+30130_9	pobj	30130_6
+30130_9	has_surface_form	College
+30130_8	is_in_sentence	sentence_30130
+30130_8	compound	30130_9
+30130_8	has_surface_form	Junior
+30130_10	is_in_sentence	sentence_30130
+30130_10	cc	30130_9
+30130_10	has_surface_form	and
+30130_11	is_in_sentence	sentence_30130
+30130_11	compound	30130_12
+30130_11	has_surface_form	Napa
+30130_12	is_in_sentence	sentence_30130
+30130_12	compound	30130_13
+30130_12	has_surface_form	Community
+30130_13	is_in_sentence	sentence_30130
+30130_13	pobj	30130_6
+30130_13	has_surface_form	College
+30130_14	is_in_sentence	sentence_30130
+30130_14	punct	30130_2
+30130_14	has_surface_form	,
+30130_16	is_in_sentence	sentence_30130
+30130_16	det	30130_19
+30130_16	has_surface_form	a
+30130_19	is_in_sentence	sentence_30130
+30130_19	attr	30130_15
+30130_19	has_surface_form	college
+30130_19	part_of_entity	community college
+30130_17	is_in_sentence	sentence_30130
+30130_17	amod	30130_18
+30130_17	has_surface_form	public
+30130_18	is_in_sentence	sentence_30130
+30130_18	compound	30130_19
+30130_18	has_surface_form	community
+30130_18	part_of_entity	community college
+30130_20	is_in_sentence	sentence_30130
+30130_20	prep	30130_19
+30130_20	has_surface_form	in
+30130_21	is_in_sentence	sentence_30130
+30130_21	compound	30130_22
+30130_21	has_surface_form	Napa
+30130_22	is_in_sentence	sentence_30130
+30130_22	pobj	30130_20
+30130_22	has_surface_form	Valley
+30130_23	is_in_sentence	sentence_30130
+30130_23	punct	30130_22
+30130_23	has_surface_form	,
+30130_24	is_in_sentence	sentence_30130
+30130_24	appos	30130_22
+30130_24	has_surface_form	California
+30130_25	is_in_sentence	sentence_30130
+30130_25	punct	30130_15
+30130_25	has_surface_form	.
+30130_26	is_in_sentence	sentence_30130
+30130_26	dep	30130_26
+30130_26	has_surface_form	
+Napa Valley College	surface_form	Napa Valley College
+Napa Valley College	has-type	community college
+community college	surface_form	community college

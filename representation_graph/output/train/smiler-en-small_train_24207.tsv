@@ -1,0 +1,65 @@
+24206_0	is_in_sentence	sentence_24206
+24206_0	compound	24206_1
+24206_0	has_surface_form	Larry
+24206_0	part_of_entity	Larry Reisbig
+24206_1	is_in_sentence	sentence_24206
+24206_1	nsubj	24206_10
+24206_1	has_surface_form	Reisbig
+24206_1	part_of_entity	Larry Reisbig
+24206_10	is_in_sentence	sentence_24206
+24206_10	ROOT	24206_10
+24206_10	has_surface_form	was
+24206_2	is_in_sentence	sentence_24206
+24206_2	punct	24206_1
+24206_2	has_surface_form	(
+24206_3	is_in_sentence	sentence_24206
+24206_3	appos	24206_1
+24206_3	has_surface_form	c.1940
+24206_4	is_in_sentence	sentence_24206
+24206_4	punct	24206_3
+24206_4	has_surface_form	–
+24206_5	is_in_sentence	sentence_24206
+24206_5	npadvmod	24206_3
+24206_5	has_surface_form	April
+24206_6	is_in_sentence	sentence_24206
+24206_6	nummod	24206_5
+24206_6	has_surface_form	10
+24206_7	is_in_sentence	sentence_24206
+24206_7	punct	24206_5
+24206_7	has_surface_form	,
+24206_8	is_in_sentence	sentence_24206
+24206_8	nummod	24206_5
+24206_8	has_surface_form	2017
+24206_9	is_in_sentence	sentence_24206
+24206_9	punct	24206_5
+24206_9	has_surface_form	)
+24206_11	is_in_sentence	sentence_24206
+24206_11	det	24206_15
+24206_11	has_surface_form	a
+24206_15	is_in_sentence	sentence_24206
+24206_15	attr	24206_10
+24206_15	has_surface_form	player
+24206_12	is_in_sentence	sentence_24206
+24206_12	amod	24206_15
+24206_12	has_surface_form	former
+24206_13	is_in_sentence	sentence_24206
+24206_13	amod	24206_15
+24206_13	has_surface_form	American
+24206_14	is_in_sentence	sentence_24206
+24206_14	compound	24206_15
+24206_14	has_surface_form	football
+24206_16	is_in_sentence	sentence_24206
+24206_16	cc	24206_15
+24206_16	has_surface_form	and
+24206_17	is_in_sentence	sentence_24206
+24206_17	conj	24206_15
+24206_17	is_entity	coach
+coach	surface_form	coach
+24206_18	is_in_sentence	sentence_24206
+24206_18	punct	24206_10
+24206_18	has_surface_form	.
+24206_19	is_in_sentence	sentence_24206
+24206_19	dep	24206_19
+24206_19	has_surface_form	
+Larry Reisbig	surface_form	Larry Reisbig
+Larry Reisbig	has-type	coach

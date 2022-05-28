@@ -1,0 +1,60 @@
+7427_0	is_in_sentence	sentence_7427
+7427_0	compound	7427_1
+7427_0	has_surface_form	Garden
+7427_0	part_of_entity	Garden City Collegiate
+7427_1	is_in_sentence	sentence_7427
+7427_1	compound	7427_2
+7427_1	has_surface_form	City
+7427_1	part_of_entity	Garden City Collegiate
+7427_2	is_in_sentence	sentence_7427
+7427_2	nsubj	7427_8
+7427_2	has_surface_form	Collegiate
+7427_2	part_of_entity	Garden City Collegiate
+7427_8	is_in_sentence	sentence_7427
+7427_8	ROOT	7427_8
+7427_8	has_surface_form	is
+7427_3	is_in_sentence	sentence_7427
+7427_3	punct	7427_2
+7427_3	has_surface_form	(
+7427_4	is_in_sentence	sentence_7427
+7427_4	appos	7427_2
+7427_4	has_surface_form	GCC
+7427_5	is_in_sentence	sentence_7427
+7427_5	cc	7427_4
+7427_5	has_surface_form	or
+7427_6	is_in_sentence	sentence_7427
+7427_6	conj	7427_4
+7427_6	has_surface_form	GC
+7427_7	is_in_sentence	sentence_7427
+7427_7	punct	7427_2
+7427_7	has_surface_form	)
+7427_9	is_in_sentence	sentence_7427
+7427_9	det	7427_11
+7427_9	has_surface_form	a
+7427_11	is_in_sentence	sentence_7427
+7427_11	attr	7427_8
+7427_11	has_surface_form	school
+7427_10	is_in_sentence	sentence_7427
+7427_10	amod	7427_11
+7427_10	has_surface_form	high
+7427_12	is_in_sentence	sentence_7427
+7427_12	prep	7427_11
+7427_12	has_surface_form	in
+7427_13	is_in_sentence	sentence_7427
+7427_13	pobj	7427_12
+7427_13	is_entity	Winnipeg
+Winnipeg	surface_form	Winnipeg
+7427_14	is_in_sentence	sentence_7427
+7427_14	punct	7427_13
+7427_14	has_surface_form	,
+7427_15	is_in_sentence	sentence_7427
+7427_15	appos	7427_13
+7427_15	has_surface_form	Manitoba
+7427_16	is_in_sentence	sentence_7427
+7427_16	punct	7427_8
+7427_16	has_surface_form	.
+7427_17	is_in_sentence	sentence_7427
+7427_17	dep	7427_8
+7427_17	has_surface_form	
+Garden City Collegiate	surface_form	Garden City Collegiate
+Garden City Collegiate	is-where	Winnipeg

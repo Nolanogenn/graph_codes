@@ -1,0 +1,69 @@
+30163_0	is_in_sentence	sentence_30163
+30163_0	compound	30163_1
+30163_0	has_surface_form	East
+30163_0	part_of_entity	East Side of Heaven
+30163_1	is_in_sentence	sentence_30163
+30163_1	nsubj	30163_4
+30163_1	has_surface_form	Side
+30163_1	part_of_entity	East Side of Heaven
+30163_4	is_in_sentence	sentence_30163
+30163_4	ROOT	30163_4
+30163_4	has_surface_form	is
+30163_2	is_in_sentence	sentence_30163
+30163_2	prep	30163_1
+30163_2	has_surface_form	of
+30163_2	part_of_entity	East Side of Heaven
+30163_3	is_in_sentence	sentence_30163
+30163_3	pobj	30163_2
+30163_3	has_surface_form	Heaven
+30163_3	part_of_entity	East Side of Heaven
+30163_5	is_in_sentence	sentence_30163
+30163_5	det	30163_9
+30163_5	has_surface_form	a
+30163_9	is_in_sentence	sentence_30163
+30163_9	attr	30163_4
+30163_9	has_surface_form	film
+30163_6	is_in_sentence	sentence_30163
+30163_6	nummod	30163_9
+30163_6	has_surface_form	1939
+30163_7	is_in_sentence	sentence_30163
+30163_7	amod	30163_9
+30163_7	has_surface_form	American
+30163_8	is_in_sentence	sentence_30163
+30163_8	amod	30163_9
+30163_8	has_surface_form	musical
+30163_10	is_in_sentence	sentence_30163
+30163_10	acl	30163_9
+30163_10	has_surface_form	directed
+30163_11	is_in_sentence	sentence_30163
+30163_11	agent	30163_10
+30163_11	has_surface_form	by
+30163_12	is_in_sentence	sentence_30163
+30163_12	compound	30163_13
+30163_12	has_surface_form	David
+30163_12	part_of_entity	David Butler
+30163_13	is_in_sentence	sentence_30163
+30163_13	pobj	30163_11
+30163_13	has_surface_form	Butler
+30163_13	part_of_entity	David Butler
+30163_14	is_in_sentence	sentence_30163
+30163_14	cc	30163_10
+30163_14	has_surface_form	and
+30163_15	is_in_sentence	sentence_30163
+30163_15	conj	30163_10
+30163_15	has_surface_form	written
+30163_16	is_in_sentence	sentence_30163
+30163_16	agent	30163_15
+30163_16	has_surface_form	by
+30163_17	is_in_sentence	sentence_30163
+30163_17	compound	30163_18
+30163_17	has_surface_form	William
+30163_18	is_in_sentence	sentence_30163
+30163_18	pobj	30163_16
+30163_18	has_surface_form	M.
+30163_19	is_in_sentence	sentence_30163
+30163_19	dep	30163_16
+30163_19	has_surface_form	
+East Side of Heaven	surface_form	East Side of Heaven
+East Side of Heaven	movie-has-director	David Butler
+David Butler	surface_form	David Butler

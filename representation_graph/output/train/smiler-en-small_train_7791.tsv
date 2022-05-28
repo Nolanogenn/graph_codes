@@ -1,0 +1,62 @@
+7790_0	is_in_sentence	sentence_7790
+7790_0	compound	7790_1
+7790_0	has_surface_form	Gerry
+7790_0	part_of_entity	Gerry Gallagher
+7790_1	is_in_sentence	sentence_7790
+7790_1	nsubj	7790_9
+7790_1	has_surface_form	Gallagher
+7790_1	part_of_entity	Gerry Gallagher
+7790_9	is_in_sentence	sentence_7790
+7790_9	ROOT	7790_9
+7790_9	has_surface_form	is
+7790_2	is_in_sentence	sentence_7790
+7790_2	punct	7790_3
+7790_2	has_surface_form	(
+7790_3	is_in_sentence	sentence_7790
+7790_3	relcl	7790_1
+7790_3	has_surface_form	born
+7790_4	is_in_sentence	sentence_7790
+7790_4	npadvmod	7790_3
+7790_4	has_surface_form	December
+7790_5	is_in_sentence	sentence_7790
+7790_5	nummod	7790_4
+7790_5	has_surface_form	15
+7790_6	is_in_sentence	sentence_7790
+7790_6	punct	7790_4
+7790_6	has_surface_form	,
+7790_7	is_in_sentence	sentence_7790
+7790_7	nummod	7790_4
+7790_7	has_surface_form	1951
+7790_8	is_in_sentence	sentence_7790
+7790_8	punct	7790_1
+7790_8	has_surface_form	)
+7790_10	is_in_sentence	sentence_7790
+7790_10	det	7790_13
+7790_10	has_surface_form	an
+7790_13	is_in_sentence	sentence_7790
+7790_13	attr	7790_9
+7790_13	has_surface_form	coach
+7790_11	is_in_sentence	sentence_7790
+7790_11	amod	7790_13
+7790_11	is_entity	American
+American	surface_form	American
+7790_12	is_in_sentence	sentence_7790
+7790_12	compound	7790_13
+7790_12	has_surface_form	football
+7790_14	is_in_sentence	sentence_7790
+7790_14	cc	7790_13
+7790_14	has_surface_form	and
+7790_15	is_in_sentence	sentence_7790
+7790_15	amod	7790_16
+7790_15	has_surface_form	former
+7790_16	is_in_sentence	sentence_7790
+7790_16	conj	7790_13
+7790_16	has_surface_form	player
+7790_17	is_in_sentence	sentence_7790
+7790_17	punct	7790_9
+7790_17	has_surface_form	.
+7790_18	is_in_sentence	sentence_7790
+7790_18	dep	7790_18
+7790_18	has_surface_form	
+Gerry Gallagher	surface_form	Gerry Gallagher
+Gerry Gallagher	has-nationality	American

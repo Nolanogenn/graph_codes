@@ -4,6 +4,7 @@ import argparse
 import networkx as nx
 from spacy import lang
 import pandas as pd
+import ast
 
 possible_formats = ['pickle', 'graphml','tsv']
 
@@ -51,14 +52,11 @@ class DNetwork(object):
             source_index = t.i
 
             token_id = "{}_{}".format(self.id_sen, source_index)
-
+            sentence_id = "sentence_{}".format(self.id_sen)
             target_index = t.head.i
             dep_label = t.dep_
-            
-            self.G.add_edge(token_id, self.id_sen, label='is_in_sentence')
-            
+            self.G.add_edge(token_id, sentence_id, label='is_in_sentence')
             self.G.add_edge(token_id, "{}_{}".format(self.id_sen, target_index), label=dep_label)
-
             self.G.add_edge(token_id, source_text.replace('\n', ''), label="has_surface_form")
         
         return self.G, doc
@@ -75,24 +73,25 @@ if __name__ == '__main__':
     parser.add_argument("--format", choices=possible_formats, help="The format for the output file", default="graphml")
     parser.add_argument("--entities", help="A file containing the entities extracted from the input file. While the first column has to be the index of the sentence in which the entity appear, and the second column has to be the entity's surface form (how it appears in the text), the following columns can be wathever kind of information you want. The important thing is that the header defines what kind of information it is", default="None")
     parser.add_argument("--relations", help="A file containaing the relations between the entities extracted from the input file. The accepted format is the following: 'relation\thead\ttail'. Don't include an header. An error will raise if you try to integrate relations without entities", default="None")
-
+    parser.add_argument("--compose", help="Whether you want the graphs to be unified in a single networks. If true, the output will be a single network, if false every sentence will be saved as its own separate network. Default=True.", default=True)
+    
     args = parser.parse_args()
 
     language = args.lan
     doc_full = open(args.input).readlines()
     
 
-    output_filename = args.output
     format_output = args.format
 
     nlp_name = spacy_models[language]
     
-    nlp= spacy.load(nlp_name)
+    nlp = spacy.load(nlp_name)
     list_networks = []
 
     if args.relations != "None":
         assert args.entities != "None"
         df_relations = pd.read_csv(args.relations, delimiter='\t', header=None)
+        df_relations = df_relations.fillna('<NONE>')
 
     if args.entities != "None":
         df_entities = pd.read_csv(args.entities, delimiter='\t',header=0)
@@ -100,7 +99,7 @@ if __name__ == '__main__':
         column_surface_form = df_entities.columns[1]
         edges = df_entities.columns[1:]
 
-    for enum, text in enumerate(doc_full[:100]):
+    for enum, text in enumerate(doc_full):
         print("{}/{}".format(enum,len(doc_full)), end='\r')
         id_sen = int(enum)
         network = DNetwork(text, nlp, id_sen)
@@ -138,28 +137,39 @@ if __name__ == '__main__':
             head = row_relations[1]
             tail = row_relations[2]
             graph.add_edge(head, tail, label=relation_name)
-    
+   
         list_networks.append(graph)
-    print("composing the network")
-    print("num of networks: ", len(list_networks))
-    final_network = nx.compose_all(list_networks)
+    
+    compose_boolean = ast.literal_eval(args.compose)
+    if compose_boolean == True:
+        print("composing the network")
+        print("num of networks: ", len(list_networks))
+        final_network = [nx.compose_all(list_networks)]
+        print("network composed!")
+    else:
+        final_network = list(list_networks)
 
-    print("network composed!")
+    for enum, network in enumerate(final_network):
+        if compose_boolean == False:
+            output_filename = "output/{}_{}.{}".format(args.output,enum,format_output)
+        else:
+            output_filename = "output/{}.{}".format(args.output, format_output)
+        print(output_filename)
 
-    if format_output == 'graphml':
-        nx.write_graphml(final_network, 'output/{}.graphml'.format(output_filename))
-    elif format_output == 'pickle':
-        nx.write_gpickle(final_network, 'output/{}.pickle'.format(output_filename))
-    elif format_output == 'tsv':
-        tsv_file = []
-        output_filename_complete = "output/{}".format(output_filename)
-        for edge in final_network.edges():
-            s = edge[0]
-            t = edge[1]
-            data = final_network.get_edge_data(s, t)
-            relation = data['label']
-            tsv_file.append([s, relation, t])
+        if format_output == 'graphml':
+            nx.write_graphml(network, output_filename)
+        elif format_output == 'pickle':
+            nx.write_gpickle(network, output_filename)
+        elif format_output == 'tsv':
+            tsv_file = []
+            for edge in network.edges():
+                s = edge[0]
+                t = edge[1]
+                data = network.get_edge_data(s, t)
+                relation = data['label']
+                tsv_file.append([s, relation, t])
+            df = pd.DataFrame(tsv_file)
+            df.to_csv(output_filename, header=None, index=False, sep='\t')
 
-        df = pd.DataFrame(tsv_file)
-        df.to_csv(output_filename_complete, header=None, index=False, sep='\t')
+
     print("done all!")

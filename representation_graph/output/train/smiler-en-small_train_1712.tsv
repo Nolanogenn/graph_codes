@@ -1,0 +1,51 @@
+1711_0	is_in_sentence	sentence_1711
+1711_0	compound	1711_1
+1711_0	has_surface_form	Nadan
+1711_0	part_of_entity	Nadan Pennum Natupramaniyum
+1711_1	is_in_sentence	sentence_1711
+1711_1	compound	1711_2
+1711_1	has_surface_form	Pennum
+1711_1	part_of_entity	Nadan Pennum Natupramaniyum
+1711_2	is_in_sentence	sentence_1711
+1711_2	nsubj	1711_3
+1711_2	has_surface_form	Natupramaniyum
+1711_2	part_of_entity	Nadan Pennum Natupramaniyum
+1711_3	is_in_sentence	sentence_1711
+1711_3	ROOT	1711_3
+1711_3	has_surface_form	is
+1711_4	is_in_sentence	sentence_1711
+1711_4	det	1711_8
+1711_4	has_surface_form	a
+1711_8	is_in_sentence	sentence_1711
+1711_8	attr	1711_3
+1711_8	has_surface_form	film
+1711_5	is_in_sentence	sentence_1711
+1711_5	nummod	1711_8
+1711_5	has_surface_form	2000
+1711_6	is_in_sentence	sentence_1711
+1711_6	amod	1711_8
+1711_6	has_surface_form	Indian
+1711_7	is_in_sentence	sentence_1711
+1711_7	compound	1711_8
+1711_7	has_surface_form	Malayalam
+1711_9	is_in_sentence	sentence_1711
+1711_9	punct	1711_8
+1711_9	has_surface_form	,
+1711_10	is_in_sentence	sentence_1711
+1711_10	acl	1711_8
+1711_10	has_surface_form	directed
+1711_11	is_in_sentence	sentence_1711
+1711_11	agent	1711_10
+1711_11	has_surface_form	by
+1711_12	is_in_sentence	sentence_1711
+1711_12	pobj	1711_11
+1711_12	is_entity	Rajasenan
+Rajasenan	surface_form	Rajasenan
+1711_13	is_in_sentence	sentence_1711
+1711_13	punct	1711_3
+1711_13	has_surface_form	.
+1711_14	is_in_sentence	sentence_1711
+1711_14	dep	1711_14
+1711_14	has_surface_form	
+Nadan Pennum Natupramaniyum	surface_form	Nadan Pennum Natupramaniyum
+Nadan Pennum Natupramaniyum	movie-has-director	Rajasenan

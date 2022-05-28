@@ -1,0 +1,52 @@
+21774_0	is_in_sentence	sentence_21774
+21774_0	compound	21774_1
+21774_0	has_surface_form	Cleopatra
+21774_0	part_of_entity	Cleopatra Thea
+21774_1	is_in_sentence	sentence_21774
+21774_1	nsubj	21774_2
+21774_1	has_surface_form	Thea
+21774_1	part_of_entity	Cleopatra Thea
+21774_2	is_in_sentence	sentence_21774
+21774_2	ROOT	21774_2
+21774_2	has_surface_form	was
+21774_3	is_in_sentence	sentence_21774
+21774_3	det	21774_4
+21774_3	has_surface_form	a
+21774_4	is_in_sentence	sentence_21774
+21774_4	attr	21774_2
+21774_4	has_surface_form	daughter
+21774_5	is_in_sentence	sentence_21774
+21774_5	prep	21774_4
+21774_5	has_surface_form	of
+21774_6	is_in_sentence	sentence_21774
+21774_6	compound	21774_7
+21774_6	has_surface_form	Ptolemy
+21774_6	part_of_entity	Ptolemy VI
+21774_7	is_in_sentence	sentence_21774
+21774_7	pobj	21774_5
+21774_7	has_surface_form	VI
+21774_7	part_of_entity	Ptolemy VI
+21774_8	is_in_sentence	sentence_21774
+21774_8	cc	21774_7
+21774_8	has_surface_form	and
+21774_9	is_in_sentence	sentence_21774
+21774_9	compound	21774_10
+21774_9	has_surface_form	Cleopatra
+21774_10	is_in_sentence	sentence_21774
+21774_10	conj	21774_7
+21774_10	has_surface_form	II
+21774_11	is_in_sentence	sentence_21774
+21774_11	prep	21774_10
+21774_11	has_surface_form	of
+21774_12	is_in_sentence	sentence_21774
+21774_12	pobj	21774_11
+21774_12	has_surface_form	Egypt
+21774_13	is_in_sentence	sentence_21774
+21774_13	punct	21774_2
+21774_13	has_surface_form	.
+21774_14	is_in_sentence	sentence_21774
+21774_14	dep	21774_14
+21774_14	has_surface_form	
+Cleopatra Thea	surface_form	Cleopatra Thea
+Cleopatra Thea	has-parent	Ptolemy VI
+Ptolemy VI	surface_form	Ptolemy VI

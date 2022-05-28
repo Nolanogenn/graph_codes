@@ -1,0 +1,76 @@
+9097_0	is_in_sentence	sentence_9097
+9097_0	compound	9097_1
+9097_0	has_surface_form	BenBella
+9097_0	part_of_entity	BenBella Books
+9097_1	is_in_sentence	sentence_9097
+9097_1	nsubj	9097_2
+9097_1	has_surface_form	Books
+9097_1	part_of_entity	BenBella Books
+9097_2	is_in_sentence	sentence_9097
+9097_2	ROOT	9097_2
+9097_2	has_surface_form	is
+9097_3	is_in_sentence	sentence_9097
+9097_3	det	9097_6
+9097_3	has_surface_form	an
+9097_6	is_in_sentence	sentence_9097
+9097_6	attr	9097_2
+9097_6	has_surface_form	house
+9097_4	is_in_sentence	sentence_9097
+9097_4	amod	9097_6
+9097_4	has_surface_form	independent
+9097_5	is_in_sentence	sentence_9097
+9097_5	compound	9097_6
+9097_5	has_surface_form	publishing
+9097_7	is_in_sentence	sentence_9097
+9097_7	acl	9097_6
+9097_7	has_surface_form	based
+9097_8	is_in_sentence	sentence_9097
+9097_8	prep	9097_7
+9097_8	has_surface_form	in
+9097_9	is_in_sentence	sentence_9097
+9097_9	pobj	9097_8
+9097_9	has_surface_form	Dallas
+9097_10	is_in_sentence	sentence_9097
+9097_10	punct	9097_9
+9097_10	has_surface_form	,
+9097_11	is_in_sentence	sentence_9097
+9097_11	appos	9097_9
+9097_11	has_surface_form	Texas
+9097_12	is_in_sentence	sentence_9097
+9097_12	punct	9097_2
+9097_12	has_surface_form	.
+9097_13	is_in_sentence	sentence_9097
+9097_13	nsubjpass	9097_15
+9097_13	has_surface_form	BenBella
+9097_15	is_in_sentence	sentence_9097
+9097_15	ROOT	9097_15
+9097_15	has_surface_form	founded
+9097_14	is_in_sentence	sentence_9097
+9097_14	auxpass	9097_15
+9097_14	has_surface_form	was
+9097_16	is_in_sentence	sentence_9097
+9097_16	agent	9097_15
+9097_16	has_surface_form	by
+9097_17	is_in_sentence	sentence_9097
+9097_17	compound	9097_18
+9097_17	has_surface_form	Glenn
+9097_17	part_of_entity	Glenn Yeffeth
+9097_18	is_in_sentence	sentence_9097
+9097_18	pobj	9097_16
+9097_18	has_surface_form	Yeffeth
+9097_18	part_of_entity	Glenn Yeffeth
+9097_19	is_in_sentence	sentence_9097
+9097_19	prep	9097_15
+9097_19	has_surface_form	in
+9097_20	is_in_sentence	sentence_9097
+9097_20	pobj	9097_19
+9097_20	has_surface_form	2001
+9097_21	is_in_sentence	sentence_9097
+9097_21	punct	9097_15
+9097_21	has_surface_form	.
+9097_22	is_in_sentence	sentence_9097
+9097_22	dep	9097_22
+9097_22	has_surface_form	
+BenBella Books	surface_form	BenBella Books
+BenBella Books	org-has-founder	Glenn Yeffeth
+Glenn Yeffeth	surface_form	Glenn Yeffeth

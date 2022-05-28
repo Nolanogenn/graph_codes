@@ -1,0 +1,65 @@
+8793_0	is_in_sentence	sentence_8793
+8793_0	compound	8793_1
+8793_0	has_surface_form	Eddie
+8793_0	part_of_entity	Eddie Fogler
+8793_1	is_in_sentence	sentence_8793
+8793_1	nsubj	8793_9
+8793_1	has_surface_form	Fogler
+8793_1	part_of_entity	Eddie Fogler
+8793_9	is_in_sentence	sentence_8793
+8793_9	ROOT	8793_9
+8793_9	has_surface_form	is
+8793_2	is_in_sentence	sentence_8793
+8793_2	punct	8793_1
+8793_2	has_surface_form	(
+8793_3	is_in_sentence	sentence_8793
+8793_3	acl	8793_1
+8793_3	has_surface_form	born
+8793_4	is_in_sentence	sentence_8793
+8793_4	npadvmod	8793_3
+8793_4	has_surface_form	June
+8793_5	is_in_sentence	sentence_8793
+8793_5	nummod	8793_4
+8793_5	has_surface_form	12
+8793_6	is_in_sentence	sentence_8793
+8793_6	punct	8793_4
+8793_6	has_surface_form	,
+8793_7	is_in_sentence	sentence_8793
+8793_7	nummod	8793_4
+8793_7	has_surface_form	1948
+8793_8	is_in_sentence	sentence_8793
+8793_8	punct	8793_1
+8793_8	has_surface_form	)
+8793_10	is_in_sentence	sentence_8793
+8793_10	det	8793_15
+8793_10	has_surface_form	a
+8793_15	is_in_sentence	sentence_8793
+8793_15	attr	8793_9
+8793_15	has_surface_form	player
+8793_11	is_in_sentence	sentence_8793
+8793_11	amod	8793_15
+8793_11	has_surface_form	retired
+8793_12	is_in_sentence	sentence_8793
+8793_12	amod	8793_15
+8793_12	has_surface_form	American
+8793_13	is_in_sentence	sentence_8793
+8793_13	compound	8793_14
+8793_13	has_surface_form	college
+8793_14	is_in_sentence	sentence_8793
+8793_14	compound	8793_15
+8793_14	has_surface_form	basketball
+8793_16	is_in_sentence	sentence_8793
+8793_16	cc	8793_15
+8793_16	has_surface_form	and
+8793_17	is_in_sentence	sentence_8793
+8793_17	conj	8793_15
+8793_17	is_entity	coach
+coach	surface_form	coach
+8793_18	is_in_sentence	sentence_8793
+8793_18	punct	8793_9
+8793_18	has_surface_form	.
+8793_19	is_in_sentence	sentence_8793
+8793_19	dep	8793_19
+8793_19	has_surface_form	
+Eddie Fogler	surface_form	Eddie Fogler
+Eddie Fogler	has-type	coach

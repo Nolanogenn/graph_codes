@@ -1,0 +1,56 @@
+30492_0	is_in_sentence	sentence_30492
+30492_0	compound	30492_1
+30492_0	has_surface_form	Antonique
+30492_0	part_of_entity	Antonique Smith
+30492_1	is_in_sentence	sentence_30492
+30492_1	nsubj	30492_9
+30492_1	has_surface_form	Smith
+30492_1	part_of_entity	Antonique Smith
+30492_9	is_in_sentence	sentence_30492
+30492_9	ROOT	30492_9
+30492_9	has_surface_form	is
+30492_2	is_in_sentence	sentence_30492
+30492_2	punct	30492_1
+30492_2	has_surface_form	(
+30492_3	is_in_sentence	sentence_30492
+30492_3	acl	30492_1
+30492_3	has_surface_form	born
+30492_4	is_in_sentence	sentence_30492
+30492_4	npadvmod	30492_3
+30492_4	has_surface_form	August
+30492_5	is_in_sentence	sentence_30492
+30492_5	nummod	30492_4
+30492_5	has_surface_form	11
+30492_6	is_in_sentence	sentence_30492
+30492_6	punct	30492_4
+30492_6	has_surface_form	,
+30492_7	is_in_sentence	sentence_30492
+30492_7	nummod	30492_4
+30492_7	has_surface_form	1983
+30492_8	is_in_sentence	sentence_30492
+30492_8	punct	30492_1
+30492_8	has_surface_form	)
+30492_10	is_in_sentence	sentence_30492
+30492_10	det	30492_12
+30492_10	has_surface_form	an
+30492_12	is_in_sentence	sentence_30492
+30492_12	attr	30492_9
+30492_12	is_entity	actress
+30492_11	is_in_sentence	sentence_30492
+30492_11	amod	30492_12
+30492_11	has_surface_form	American
+actress	surface_form	actress
+30492_13	is_in_sentence	sentence_30492
+30492_13	cc	30492_12
+30492_13	has_surface_form	and
+30492_14	is_in_sentence	sentence_30492
+30492_14	conj	30492_12
+30492_14	has_surface_form	singer
+30492_15	is_in_sentence	sentence_30492
+30492_15	punct	30492_9
+30492_15	has_surface_form	.
+30492_16	is_in_sentence	sentence_30492
+30492_16	dep	30492_16
+30492_16	has_surface_form	
+Antonique Smith	surface_form	Antonique Smith
+Antonique Smith	has-occupation	actress

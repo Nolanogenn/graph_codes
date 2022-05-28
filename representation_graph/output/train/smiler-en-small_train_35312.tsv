@@ -1,0 +1,52 @@
+35311_0	is_in_sentence	sentence_35311
+35311_0	compound	35311_1
+35311_0	has_surface_form	Ralph
+35311_0	part_of_entity	Ralph Neville
+35311_1	is_in_sentence	sentence_35311
+35311_1	nsubj	35311_2
+35311_1	has_surface_form	Neville
+35311_1	part_of_entity	Ralph Neville
+35311_2	is_in_sentence	sentence_35311
+35311_2	ROOT	35311_2
+35311_2	has_surface_form	was
+35311_3	is_in_sentence	sentence_35311
+35311_3	det	35311_4
+35311_3	has_surface_form	the
+35311_4	is_in_sentence	sentence_35311
+35311_4	attr	35311_2
+35311_4	has_surface_form	father
+35311_5	is_in_sentence	sentence_35311
+35311_5	prep	35311_4
+35311_5	has_surface_form	of
+35311_6	is_in_sentence	sentence_35311
+35311_6	compound	35311_7
+35311_6	has_surface_form	Henry
+35311_6	part_of_entity	Henry Neville
+35311_7	is_in_sentence	sentence_35311
+35311_7	pobj	35311_5
+35311_7	has_surface_form	Neville
+35311_7	part_of_entity	Henry Neville
+35311_8	is_in_sentence	sentence_35311
+35311_8	punct	35311_7
+35311_8	has_surface_form	,
+35311_9	is_in_sentence	sentence_35311
+35311_9	compound	35311_10
+35311_9	has_surface_form	5th
+35311_10	is_in_sentence	sentence_35311
+35311_10	appos	35311_7
+35311_10	has_surface_form	Earl
+35311_11	is_in_sentence	sentence_35311
+35311_11	prep	35311_10
+35311_11	has_surface_form	of
+35311_12	is_in_sentence	sentence_35311
+35311_12	pobj	35311_11
+35311_12	has_surface_form	Westmorland
+35311_13	is_in_sentence	sentence_35311
+35311_13	punct	35311_2
+35311_13	has_surface_form	.
+35311_14	is_in_sentence	sentence_35311
+35311_14	dep	35311_2
+35311_14	has_surface_form	
+Ralph Neville	surface_form	Ralph Neville
+Ralph Neville	has-child	Henry Neville
+Henry Neville	surface_form	Henry Neville

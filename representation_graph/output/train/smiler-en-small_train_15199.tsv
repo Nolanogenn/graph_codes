@@ -1,0 +1,65 @@
+15198_0	is_in_sentence	sentence_15198
+15198_0	compound	15198_1
+15198_0	has_surface_form	Todd
+15198_0	part_of_entity	Todd DePastino
+15198_1	is_in_sentence	sentence_15198
+15198_1	nsubj	15198_12
+15198_1	has_surface_form	DePastino
+15198_1	part_of_entity	Todd DePastino
+15198_12	is_in_sentence	sentence_15198
+15198_12	ROOT	15198_12
+15198_12	has_surface_form	is
+15198_2	is_in_sentence	sentence_15198
+15198_2	punct	15198_1
+15198_2	has_surface_form	(
+15198_3	is_in_sentence	sentence_15198
+15198_3	acl	15198_1
+15198_3	has_surface_form	born
+15198_4	is_in_sentence	sentence_15198
+15198_4	prep	15198_3
+15198_4	has_surface_form	in
+15198_5	is_in_sentence	sentence_15198
+15198_5	pobj	15198_4
+15198_5	has_surface_form	Pittsburgh
+15198_6	is_in_sentence	sentence_15198
+15198_6	punct	15198_5
+15198_6	has_surface_form	,
+15198_7	is_in_sentence	sentence_15198
+15198_7	conj	15198_5
+15198_7	has_surface_form	Pennsylvania
+15198_8	is_in_sentence	sentence_15198
+15198_8	punct	15198_7
+15198_8	has_surface_form	,
+15198_9	is_in_sentence	sentence_15198
+15198_9	compound	15198_10
+15198_9	has_surface_form	United
+15198_10	is_in_sentence	sentence_15198
+15198_10	conj	15198_7
+15198_10	has_surface_form	States
+15198_11	is_in_sentence	sentence_15198
+15198_11	punct	15198_1
+15198_11	has_surface_form	)
+15198_13	is_in_sentence	sentence_15198
+15198_13	det	15198_14
+15198_13	has_surface_form	an
+15198_14	is_in_sentence	sentence_15198
+15198_14	attr	15198_12
+15198_14	is_entity	author
+author	surface_form	author
+15198_15	is_in_sentence	sentence_15198
+15198_15	cc	15198_14
+15198_15	has_surface_form	and
+15198_16	is_in_sentence	sentence_15198
+15198_16	compound	15198_17
+15198_16	has_surface_form	history
+15198_17	is_in_sentence	sentence_15198
+15198_17	conj	15198_14
+15198_17	has_surface_form	professor
+15198_18	is_in_sentence	sentence_15198
+15198_18	punct	15198_12
+15198_18	has_surface_form	.
+15198_19	is_in_sentence	sentence_15198
+15198_19	dep	15198_12
+15198_19	has_surface_form	
+Todd DePastino	surface_form	Todd DePastino
+Todd DePastino	has-occupation	author

@@ -1,0 +1,96 @@
+1348_0	is_in_sentence	sentence_1348
+1348_0	det	1348_1
+1348_0	has_surface_form	The
+1348_0	part_of_entity	The Man Is Armed
+1348_1	is_in_sentence	sentence_1348
+1348_1	nsubj	1348_2
+1348_1	has_surface_form	Man
+1348_1	part_of_entity	The Man Is Armed
+1348_2	is_in_sentence	sentence_1348
+1348_2	nsubj	1348_4
+1348_2	has_surface_form	Is
+1348_2	part_of_entity	The Man Is Armed
+1348_4	is_in_sentence	sentence_1348
+1348_4	ROOT	1348_4
+1348_4	has_surface_form	is
+1348_3	is_in_sentence	sentence_1348
+1348_3	acomp	1348_2
+1348_3	has_surface_form	Armed
+1348_3	part_of_entity	The Man Is Armed
+1348_5	is_in_sentence	sentence_1348
+1348_5	det	1348_10
+1348_5	has_surface_form	a
+1348_10	is_in_sentence	sentence_1348
+1348_10	attr	1348_4
+1348_10	has_surface_form	film
+1348_6	is_in_sentence	sentence_1348
+1348_6	nummod	1348_7
+1348_6	has_surface_form	1956
+1348_7	is_in_sentence	sentence_1348
+1348_7	compound	1348_10
+1348_7	has_surface_form	film
+1348_8	is_in_sentence	sentence_1348
+1348_8	compound	1348_10
+1348_8	has_surface_form	noir
+1348_9	is_in_sentence	sentence_1348
+1348_9	compound	1348_10
+1348_9	has_surface_form	crime
+1348_11	is_in_sentence	sentence_1348
+1348_11	acl	1348_10
+1348_11	has_surface_form	directed
+1348_12	is_in_sentence	sentence_1348
+1348_12	agent	1348_11
+1348_12	has_surface_form	by
+1348_13	is_in_sentence	sentence_1348
+1348_13	compound	1348_14
+1348_13	has_surface_form	Franklin
+1348_13	part_of_entity	Franklin Adreon
+1348_14	is_in_sentence	sentence_1348
+1348_14	pobj	1348_12
+1348_14	has_surface_form	Adreon
+1348_14	part_of_entity	Franklin Adreon
+1348_15	is_in_sentence	sentence_1348
+1348_15	acl	1348_10
+1348_15	has_surface_form	starring
+1348_16	is_in_sentence	sentence_1348
+1348_16	compound	1348_17
+1348_16	has_surface_form	Dane
+1348_17	is_in_sentence	sentence_1348
+1348_17	dobj	1348_15
+1348_17	has_surface_form	Clark
+1348_18	is_in_sentence	sentence_1348
+1348_18	punct	1348_17
+1348_18	has_surface_form	,
+1348_19	is_in_sentence	sentence_1348
+1348_19	compound	1348_20
+1348_19	has_surface_form	William
+1348_20	is_in_sentence	sentence_1348
+1348_20	appos	1348_17
+1348_20	has_surface_form	Talman
+1348_21	is_in_sentence	sentence_1348
+1348_21	punct	1348_20
+1348_21	has_surface_form	,
+1348_22	is_in_sentence	sentence_1348
+1348_22	compound	1348_23
+1348_22	has_surface_form	May
+1348_23	is_in_sentence	sentence_1348
+1348_23	conj	1348_20
+1348_23	has_surface_form	Wynn
+1348_24	is_in_sentence	sentence_1348
+1348_24	cc	1348_23
+1348_24	has_surface_form	and
+1348_25	is_in_sentence	sentence_1348
+1348_25	compound	1348_26
+1348_25	has_surface_form	Robert
+1348_26	is_in_sentence	sentence_1348
+1348_26	conj	1348_23
+1348_26	has_surface_form	Horton
+1348_27	is_in_sentence	sentence_1348
+1348_27	punct	1348_4
+1348_27	has_surface_form	.
+1348_28	is_in_sentence	sentence_1348
+1348_28	dep	1348_28
+1348_28	has_surface_form	
+The Man Is Armed	surface_form	The Man Is Armed
+The Man Is Armed	movie-has-director	Franklin Adreon
+Franklin Adreon	surface_form	Franklin Adreon

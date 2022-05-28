@@ -1,0 +1,90 @@
+26091_0	is_in_sentence	sentence_26091
+26091_0	compound	26091_1
+26091_0	has_surface_form	Hatamari
+26091_0	part_of_entity	Hatamari Hennu Kiladi Gandu
+26091_1	is_in_sentence	sentence_26091
+26091_1	compound	26091_3
+26091_1	has_surface_form	Hennu
+26091_1	part_of_entity	Hatamari Hennu Kiladi Gandu
+26091_3	is_in_sentence	sentence_26091
+26091_3	nsubj	26091_10
+26091_3	has_surface_form	Gandu
+26091_3	part_of_entity	Hatamari Hennu Kiladi Gandu
+26091_2	is_in_sentence	sentence_26091
+26091_2	compound	26091_3
+26091_2	has_surface_form	Kiladi
+26091_2	part_of_entity	Hatamari Hennu Kiladi Gandu
+26091_10	is_in_sentence	sentence_26091
+26091_10	ROOT	26091_10
+26091_10	has_surface_form	is
+26091_4	is_in_sentence	sentence_26091
+26091_4	punct	26091_5
+26091_4	has_surface_form	(
+26091_5	is_in_sentence	sentence_26091
+26091_5	appos	26091_3
+26091_5	has_surface_form	Kannada
+26091_6	is_in_sentence	sentence_26091
+26091_6	punct	26091_5
+26091_6	has_surface_form	:
+26091_7	is_in_sentence	sentence_26091
+26091_7	compound	26091_8
+26091_7	has_surface_form	ಹಠಮಾರಿಹೆಣ್ಣು
+26091_8	is_in_sentence	sentence_26091
+26091_8	appos	26091_5
+26091_8	has_surface_form	ಕಿಲಾಡಿಗಂಡು
+26091_9	is_in_sentence	sentence_26091
+26091_9	punct	26091_5
+26091_9	has_surface_form	)
+26091_11	is_in_sentence	sentence_26091
+26091_11	det	26091_17
+26091_11	has_surface_form	a
+26091_17	is_in_sentence	sentence_26091
+26091_17	attr	26091_10
+26091_17	has_surface_form	film
+26091_12	is_in_sentence	sentence_26091
+26091_12	nummod	26091_17
+26091_12	has_surface_form	1992
+26091_13	is_in_sentence	sentence_26091
+26091_13	compound	26091_14
+26091_13	has_surface_form	Indian
+26091_14	is_in_sentence	sentence_26091
+26091_14	compound	26091_15
+26091_14	has_surface_form	Kannada
+26091_15	is_in_sentence	sentence_26091
+26091_15	compound	26091_17
+26091_15	has_surface_form	family
+26091_16	is_in_sentence	sentence_26091
+26091_16	compound	26091_17
+26091_16	has_surface_form	drama
+26091_18	is_in_sentence	sentence_26091
+26091_18	acl	26091_17
+26091_18	has_surface_form	directed
+26091_19	is_in_sentence	sentence_26091
+26091_19	agent	26091_18
+26091_19	has_surface_form	by
+26091_20	is_in_sentence	sentence_26091
+26091_20	compound	26091_21
+26091_20	has_surface_form	Renuka
+26091_20	part_of_entity	Renuka Sharma
+26091_21	is_in_sentence	sentence_26091
+26091_21	pobj	26091_19
+26091_21	has_surface_form	Sharma
+26091_21	part_of_entity	Renuka Sharma
+26091_22	is_in_sentence	sentence_26091
+26091_22	cc	26091_18
+26091_22	has_surface_form	and
+26091_23	is_in_sentence	sentence_26091
+26091_23	conj	26091_18
+26091_23	has_surface_form	written
+26091_24	is_in_sentence	sentence_26091
+26091_24	agent	26091_23
+26091_24	has_surface_form	by
+26091_25	is_in_sentence	sentence_26091
+26091_25	pobj	26091_24
+26091_25	has_surface_form	P.
+26091_26	is_in_sentence	sentence_26091
+26091_26	dep	26091_10
+26091_26	has_surface_form	
+Hatamari Hennu Kiladi Gandu	surface_form	Hatamari Hennu Kiladi Gandu
+Hatamari Hennu Kiladi Gandu	movie-has-director	Renuka Sharma
+Renuka Sharma	surface_form	Renuka Sharma

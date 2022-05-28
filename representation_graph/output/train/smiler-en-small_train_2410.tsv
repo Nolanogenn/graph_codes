@@ -1,0 +1,53 @@
+2409_0	is_in_sentence	sentence_2409
+2409_0	det	2409_2
+2409_0	has_surface_form	A
+2409_0	part_of_entity	A Busy Night
+2409_2	is_in_sentence	sentence_2409
+2409_2	nsubj	2409_3
+2409_2	has_surface_form	Night
+2409_2	part_of_entity	A Busy Night
+2409_1	is_in_sentence	sentence_2409
+2409_1	amod	2409_2
+2409_1	has_surface_form	Busy
+2409_1	part_of_entity	A Busy Night
+2409_3	is_in_sentence	sentence_2409
+2409_3	ROOT	2409_3
+2409_3	has_surface_form	is
+2409_4	is_in_sentence	sentence_2409
+2409_4	det	2409_8
+2409_4	has_surface_form	a
+2409_8	is_in_sentence	sentence_2409
+2409_8	attr	2409_3
+2409_8	has_surface_form	film
+2409_5	is_in_sentence	sentence_2409
+2409_5	nummod	2409_8
+2409_5	has_surface_form	2016
+2409_6	is_in_sentence	sentence_2409
+2409_6	amod	2409_8
+2409_6	has_surface_form	Chinese
+2409_7	is_in_sentence	sentence_2409
+2409_7	compound	2409_8
+2409_7	has_surface_form	comedy
+2409_9	is_in_sentence	sentence_2409
+2409_9	acl	2409_8
+2409_9	has_surface_form	directed
+2409_10	is_in_sentence	sentence_2409
+2409_10	agent	2409_9
+2409_10	has_surface_form	by
+2409_11	is_in_sentence	sentence_2409
+2409_11	compound	2409_12
+2409_11	has_surface_form	Wang
+2409_11	part_of_entity	Wang Li
+2409_12	is_in_sentence	sentence_2409
+2409_12	pobj	2409_10
+2409_12	has_surface_form	Li
+2409_12	part_of_entity	Wang Li
+2409_13	is_in_sentence	sentence_2409
+2409_13	punct	2409_3
+2409_13	has_surface_form	.
+2409_14	is_in_sentence	sentence_2409
+2409_14	dep	2409_3
+2409_14	has_surface_form	
+A Busy Night	surface_form	A Busy Night
+A Busy Night	movie-has-director	Wang Li
+Wang Li	surface_form	Wang Li

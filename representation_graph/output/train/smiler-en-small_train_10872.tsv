@@ -1,0 +1,67 @@
+10871_0	is_in_sentence	sentence_10871
+10871_0	compound	10871_1
+10871_0	has_surface_form	Westburn
+10871_0	part_of_entity	Westburn Park
+10871_1	is_in_sentence	sentence_10871
+10871_1	nsubjpass	10871_3
+10871_1	has_surface_form	Park
+10871_1	part_of_entity	Westburn Park
+10871_3	is_in_sentence	sentence_10871
+10871_3	ROOT	10871_3
+10871_3	has_surface_form	located
+10871_2	is_in_sentence	sentence_10871
+10871_2	auxpass	10871_3
+10871_2	has_surface_form	is
+10871_4	is_in_sentence	sentence_10871
+10871_4	prep	10871_3
+10871_4	has_surface_form	in
+10871_5	is_in_sentence	sentence_10871
+10871_5	pobj	10871_4
+10871_5	has_surface_form	Aberdeen
+10871_6	is_in_sentence	sentence_10871
+10871_6	punct	10871_5
+10871_6	has_surface_form	,
+10871_7	is_in_sentence	sentence_10871
+10871_7	appos	10871_5
+10871_7	has_surface_form	Scotland
+10871_8	is_in_sentence	sentence_10871
+10871_8	cc	10871_3
+10871_8	has_surface_form	and
+10871_9	is_in_sentence	sentence_10871
+10871_9	conj	10871_3
+10871_9	has_surface_form	is
+10871_10	is_in_sentence	sentence_10871
+10871_10	det	10871_14
+10871_10	has_surface_form	a
+10871_14	is_in_sentence	sentence_10871
+10871_14	nsubj	10871_15
+10871_14	has_surface_form	Council
+10871_11	is_in_sentence	sentence_10871
+10871_11	amod	10871_14
+10871_11	has_surface_form	large
+10871_12	is_in_sentence	sentence_10871
+10871_12	compound	10871_13
+10871_12	has_surface_form	Aberdeen
+10871_13	is_in_sentence	sentence_10871
+10871_13	compound	10871_14
+10871_13	has_surface_form	City
+10871_15	is_in_sentence	sentence_10871
+10871_15	ccomp	10871_9
+10871_15	has_surface_form	owned
+10871_16	is_in_sentence	sentence_10871
+10871_16	amod	10871_17
+10871_16	has_surface_form	public
+10871_16	part_of_entity	public park
+10871_17	is_in_sentence	sentence_10871
+10871_17	dobj	10871_15
+10871_17	has_surface_form	park
+10871_17	part_of_entity	public park
+10871_18	is_in_sentence	sentence_10871
+10871_18	punct	10871_3
+10871_18	has_surface_form	.
+10871_19	is_in_sentence	sentence_10871
+10871_19	dep	10871_19
+10871_19	has_surface_form	
+Westburn Park	surface_form	Westburn Park
+Westburn Park	has-type	public park
+public park	surface_form	public park

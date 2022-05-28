@@ -1,0 +1,82 @@
+31972_0	is_in_sentence	sentence_31972
+31972_0	det	31972_1
+31972_0	has_surface_form	The
+31972_0	part_of_entity	The Adopted
+31972_1	is_in_sentence	sentence_31972
+31972_1	nsubj	31972_9
+31972_1	has_surface_form	Adopted
+31972_1	part_of_entity	The Adopted
+31972_9	is_in_sentence	sentence_31972
+31972_9	ROOT	31972_9
+31972_9	has_surface_form	is
+31972_2	is_in_sentence	sentence_31972
+31972_2	punct	31972_1
+31972_2	has_surface_form	(
+31972_3	is_in_sentence	sentence_31972
+31972_3	amod	31972_4
+31972_3	has_surface_form	original
+31972_4	is_in_sentence	sentence_31972
+31972_4	appos	31972_1
+31972_4	has_surface_form	title
+31972_5	is_in_sentence	sentence_31972
+31972_5	punct	31972_4
+31972_5	has_surface_form	:
+31972_6	is_in_sentence	sentence_31972
+31972_6	compound	31972_7
+31972_6	has_surface_form	Les
+31972_7	is_in_sentence	sentence_31972
+31972_7	appos	31972_4
+31972_7	has_surface_form	Adoptés
+31972_8	is_in_sentence	sentence_31972
+31972_8	punct	31972_4
+31972_8	has_surface_form	)
+31972_10	is_in_sentence	sentence_31972
+31972_10	det	31972_14
+31972_10	has_surface_form	a
+31972_14	is_in_sentence	sentence_31972
+31972_14	attr	31972_9
+31972_14	has_surface_form	film
+31972_11	is_in_sentence	sentence_31972
+31972_11	nummod	31972_14
+31972_11	has_surface_form	2011
+31972_12	is_in_sentence	sentence_31972
+31972_12	amod	31972_14
+31972_12	has_surface_form	French
+31972_13	is_in_sentence	sentence_31972
+31972_13	compound	31972_14
+31972_13	has_surface_form	drama
+31972_15	is_in_sentence	sentence_31972
+31972_15	acl	31972_14
+31972_15	has_surface_form	directed
+31972_16	is_in_sentence	sentence_31972
+31972_16	cc	31972_15
+31972_16	has_surface_form	and
+31972_17	is_in_sentence	sentence_31972
+31972_17	conj	31972_15
+31972_17	has_surface_form	co
+31972_18	is_in_sentence	sentence_31972
+31972_18	conj	31972_15
+31972_18	has_surface_form	-
+31972_19	is_in_sentence	sentence_31972
+31972_19	acl	31972_14
+31972_19	has_surface_form	written
+31972_20	is_in_sentence	sentence_31972
+31972_20	agent	31972_19
+31972_20	has_surface_form	by
+31972_21	is_in_sentence	sentence_31972
+31972_21	compound	31972_22
+31972_21	has_surface_form	Mélanie
+31972_21	part_of_entity	Mélanie Laurent
+31972_22	is_in_sentence	sentence_31972
+31972_22	pobj	31972_20
+31972_22	has_surface_form	Laurent
+31972_22	part_of_entity	Mélanie Laurent
+31972_23	is_in_sentence	sentence_31972
+31972_23	punct	31972_9
+31972_23	has_surface_form	.
+31972_24	is_in_sentence	sentence_31972
+31972_24	dep	31972_9
+31972_24	has_surface_form	
+The Adopted	surface_form	The Adopted
+The Adopted	movie-has-director	Mélanie Laurent
+Mélanie Laurent	surface_form	Mélanie Laurent

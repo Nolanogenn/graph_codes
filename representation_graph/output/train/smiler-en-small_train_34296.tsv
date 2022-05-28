@@ -1,0 +1,59 @@
+34295_0	is_in_sentence	sentence_34295
+34295_0	compound	34295_1
+34295_0	has_surface_form	Jarmo
+34295_0	part_of_entity	Jarmo Mäkinen
+34295_1	is_in_sentence	sentence_34295
+34295_1	nsubj	34295_12
+34295_1	has_surface_form	Mäkinen
+34295_1	part_of_entity	Jarmo Mäkinen
+34295_12	is_in_sentence	sentence_34295
+34295_12	ROOT	34295_12
+34295_12	has_surface_form	is
+34295_2	is_in_sentence	sentence_34295
+34295_2	punct	34295_3
+34295_2	has_surface_form	(
+34295_3	is_in_sentence	sentence_34295
+34295_3	acl	34295_1
+34295_3	has_surface_form	born
+34295_4	is_in_sentence	sentence_34295
+34295_4	nummod	34295_5
+34295_4	has_surface_form	29
+34295_5	is_in_sentence	sentence_34295
+34295_5	npadvmod	34295_3
+34295_5	has_surface_form	May
+34295_6	is_in_sentence	sentence_34295
+34295_6	nummod	34295_5
+34295_6	has_surface_form	1958
+34295_7	is_in_sentence	sentence_34295
+34295_7	prep	34295_3
+34295_7	has_surface_form	in
+34295_8	is_in_sentence	sentence_34295
+34295_8	pobj	34295_7
+34295_8	is_entity	Karstula
+Karstula	surface_form	Karstula
+34295_9	is_in_sentence	sentence_34295
+34295_9	punct	34295_8
+34295_9	has_surface_form	,
+34295_10	is_in_sentence	sentence_34295
+34295_10	appos	34295_8
+34295_10	has_surface_form	Finland
+34295_11	is_in_sentence	sentence_34295
+34295_11	punct	34295_8
+34295_11	has_surface_form	)
+34295_13	is_in_sentence	sentence_34295
+34295_13	det	34295_15
+34295_13	has_surface_form	a
+34295_15	is_in_sentence	sentence_34295
+34295_15	attr	34295_12
+34295_15	has_surface_form	actor
+34295_14	is_in_sentence	sentence_34295
+34295_14	amod	34295_15
+34295_14	has_surface_form	Finnish
+34295_16	is_in_sentence	sentence_34295
+34295_16	punct	34295_12
+34295_16	has_surface_form	.
+34295_17	is_in_sentence	sentence_34295
+34295_17	dep	34295_12
+34295_17	has_surface_form	
+Jarmo Mäkinen	surface_form	Jarmo Mäkinen
+Jarmo Mäkinen	birth-place	Karstula

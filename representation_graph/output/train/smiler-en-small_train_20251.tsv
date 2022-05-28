@@ -1,0 +1,106 @@
+20250_0	is_in_sentence	sentence_20250
+20250_0	compound	20250_1
+20250_0	has_surface_form	Kymenlaakso
+20250_0	part_of_entity	Kymenlaakso University of Applied Sciences
+20250_1	is_in_sentence	sentence_20250
+20250_1	nsubj	20250_13
+20250_1	has_surface_form	University
+20250_1	part_of_entity	Kymenlaakso University of Applied Sciences
+20250_13	is_in_sentence	sentence_20250
+20250_13	ROOT	20250_13
+20250_13	has_surface_form	was
+20250_2	is_in_sentence	sentence_20250
+20250_2	prep	20250_1
+20250_2	has_surface_form	of
+20250_2	part_of_entity	Kymenlaakso University of Applied Sciences
+20250_3	is_in_sentence	sentence_20250
+20250_3	compound	20250_4
+20250_3	has_surface_form	Applied
+20250_3	part_of_entity	Kymenlaakso University of Applied Sciences
+20250_4	is_in_sentence	sentence_20250
+20250_4	compound	20250_5
+20250_4	has_surface_form	Sciences
+20250_4	part_of_entity	Kymenlaakso University of Applied Sciences
+20250_5	is_in_sentence	sentence_20250
+20250_5	compound	20250_6
+20250_5	has_surface_form	Kymenlaakso
+20250_5	part_of_entity	Kymenlaakso University of Applied Sciences
+20250_6	is_in_sentence	sentence_20250
+20250_6	pobj	20250_2
+20250_6	has_surface_form	University
+20250_6	part_of_entity	Kymenlaakso University of Applied Sciences
+20250_7	is_in_sentence	sentence_20250
+20250_7	prep	20250_6
+20250_7	has_surface_form	of
+20250_7	part_of_entity	Kymenlaakso University of Applied Sciences
+20250_8	is_in_sentence	sentence_20250
+20250_8	compound	20250_9
+20250_8	has_surface_form	Applied
+20250_8	part_of_entity	Kymenlaakso University of Applied Sciences
+20250_9	is_in_sentence	sentence_20250
+20250_9	pobj	20250_7
+20250_9	has_surface_form	Sciences
+20250_9	part_of_entity	Kymenlaakso University of Applied Sciences
+20250_10	is_in_sentence	sentence_20250
+20250_10	punct	20250_11
+20250_10	has_surface_form	(
+20250_11	is_in_sentence	sentence_20250
+20250_11	appos	20250_1
+20250_11	has_surface_form	KyAMK
+20250_12	is_in_sentence	sentence_20250
+20250_12	punct	20250_11
+20250_12	has_surface_form	)
+20250_14	is_in_sentence	sentence_20250
+20250_14	det	20250_15
+20250_14	has_surface_form	a
+20250_15	is_in_sentence	sentence_20250
+20250_15	attr	20250_13
+20250_15	has_surface_form	university
+20250_16	is_in_sentence	sentence_20250
+20250_16	prep	20250_15
+20250_16	has_surface_form	of
+20250_17	is_in_sentence	sentence_20250
+20250_17	amod	20250_18
+20250_17	has_surface_form	applied
+20250_18	is_in_sentence	sentence_20250
+20250_18	pobj	20250_16
+20250_18	has_surface_form	sciences
+20250_19	is_in_sentence	sentence_20250
+20250_19	prep	20250_18
+20250_19	has_surface_form	in
+20250_20	is_in_sentence	sentence_20250
+20250_20	det	20250_21
+20250_20	has_surface_form	the
+20250_21	is_in_sentence	sentence_20250
+20250_21	pobj	20250_19
+20250_21	has_surface_form	region
+20250_22	is_in_sentence	sentence_20250
+20250_22	prep	20250_21
+20250_22	has_surface_form	of
+20250_23	is_in_sentence	sentence_20250
+20250_23	pobj	20250_22
+20250_23	has_surface_form	Kymenlaakso
+20250_24	is_in_sentence	sentence_20250
+20250_24	acl	20250_21
+20250_24	has_surface_form	located
+20250_25	is_in_sentence	sentence_20250
+20250_25	prep	20250_24
+20250_25	has_surface_form	in
+20250_26	is_in_sentence	sentence_20250
+20250_26	pobj	20250_25
+20250_26	has_surface_form	Kotka
+20250_27	is_in_sentence	sentence_20250
+20250_27	cc	20250_26
+20250_27	has_surface_form	and
+20250_28	is_in_sentence	sentence_20250
+20250_28	conj	20250_26
+20250_28	is_entity	Kouvola
+Kouvola	surface_form	Kouvola
+20250_29	is_in_sentence	sentence_20250
+20250_29	punct	20250_13
+20250_29	has_surface_form	.
+20250_30	is_in_sentence	sentence_20250
+20250_30	dep	20250_30
+20250_30	has_surface_form	
+Kymenlaakso University of Applied Sciences	surface_form	Kymenlaakso University of Applied Sciences
+Kymenlaakso University of Applied Sciences	is-where	Kouvola

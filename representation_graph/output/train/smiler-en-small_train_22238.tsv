@@ -1,0 +1,65 @@
+22237_0	is_in_sentence	sentence_22237
+22237_0	compound	22237_1
+22237_0	has_surface_form	Vetri
+22237_0	part_of_entity	Vetri Padigal
+22237_1	is_in_sentence	sentence_22237
+22237_1	nsubj	22237_9
+22237_1	has_surface_form	Padigal
+22237_1	part_of_entity	Vetri Padigal
+22237_9	is_in_sentence	sentence_22237
+22237_9	ROOT	22237_9
+22237_9	has_surface_form	is
+22237_2	is_in_sentence	sentence_22237
+22237_2	punct	22237_3
+22237_2	has_surface_form	(
+22237_3	is_in_sentence	sentence_22237
+22237_3	appos	22237_1
+22237_3	has_surface_form	English
+22237_4	is_in_sentence	sentence_22237
+22237_4	punct	22237_3
+22237_4	has_surface_form	:
+22237_5	is_in_sentence	sentence_22237
+22237_5	appos	22237_1
+22237_5	has_surface_form	Steps
+22237_6	is_in_sentence	sentence_22237
+22237_6	prep	22237_5
+22237_6	has_surface_form	of
+22237_7	is_in_sentence	sentence_22237
+22237_7	pobj	22237_6
+22237_7	has_surface_form	success
+22237_8	is_in_sentence	sentence_22237
+22237_8	punct	22237_1
+22237_8	has_surface_form	)
+22237_10	is_in_sentence	sentence_22237
+22237_10	det	22237_14
+22237_10	has_surface_form	a
+22237_14	is_in_sentence	sentence_22237
+22237_14	attr	22237_9
+22237_14	has_surface_form	film
+22237_11	is_in_sentence	sentence_22237
+22237_11	nummod	22237_14
+22237_11	has_surface_form	1991
+22237_12	is_in_sentence	sentence_22237
+22237_12	compound	22237_14
+22237_12	has_surface_form	Tamil
+22237_13	is_in_sentence	sentence_22237
+22237_13	compound	22237_14
+22237_13	has_surface_form	thriller
+22237_15	is_in_sentence	sentence_22237
+22237_15	acl	22237_14
+22237_15	has_surface_form	directed
+22237_16	is_in_sentence	sentence_22237
+22237_16	agent	22237_15
+22237_16	has_surface_form	by
+22237_17	is_in_sentence	sentence_22237
+22237_17	pobj	22237_16
+22237_17	is_entity	Manobala
+Manobala	surface_form	Manobala
+22237_18	is_in_sentence	sentence_22237
+22237_18	punct	22237_9
+22237_18	has_surface_form	.
+22237_19	is_in_sentence	sentence_22237
+22237_19	dep	22237_9
+22237_19	has_surface_form	
+Vetri Padigal	surface_form	Vetri Padigal
+Vetri Padigal	movie-has-director	Manobala

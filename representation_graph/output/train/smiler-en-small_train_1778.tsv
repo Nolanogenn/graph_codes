@@ -1,0 +1,50 @@
+1777_0	is_in_sentence	sentence_1777
+1777_0	compound	1777_1
+1777_0	has_surface_form	Jonno
+1777_0	part_of_entity	Jonno Zilber
+1777_1	is_in_sentence	sentence_1777
+1777_1	nsubj	1777_2
+1777_1	has_surface_form	Zilber
+1777_1	part_of_entity	Jonno Zilber
+1777_2	is_in_sentence	sentence_1777
+1777_2	ROOT	1777_2
+1777_2	has_surface_form	is
+1777_3	is_in_sentence	sentence_1777
+1777_3	det	1777_8
+1777_3	has_surface_form	a
+1777_8	is_in_sentence	sentence_1777
+1777_8	attr	1777_2
+1777_8	has_surface_form	guitarist
+1777_4	is_in_sentence	sentence_1777
+1777_4	npadvmod	1777_6
+1777_4	has_surface_form	Canberra
+1777_6	is_in_sentence	sentence_1777
+1777_6	amod	1777_7
+1777_6	has_surface_form	based
+1777_5	is_in_sentence	sentence_1777
+1777_5	punct	1777_6
+1777_5	has_surface_form	-
+1777_7	is_in_sentence	sentence_1777
+1777_7	compound	1777_8
+1777_7	is_entity	blues
+blues	surface_form	blues
+1777_9	is_in_sentence	sentence_1777
+1777_9	punct	1777_8
+1777_9	has_surface_form	,
+1777_10	is_in_sentence	sentence_1777
+1777_10	conj	1777_8
+1777_10	has_surface_form	singer
+1777_11	is_in_sentence	sentence_1777
+1777_11	cc	1777_10
+1777_11	has_surface_form	and
+1777_12	is_in_sentence	sentence_1777
+1777_12	conj	1777_10
+1777_12	has_surface_form	songwriter
+1777_13	is_in_sentence	sentence_1777
+1777_13	punct	1777_2
+1777_13	has_surface_form	.
+1777_14	is_in_sentence	sentence_1777
+1777_14	dep	1777_14
+1777_14	has_surface_form	
+Jonno Zilber	surface_form	Jonno Zilber
+Jonno Zilber	has-genre	blues

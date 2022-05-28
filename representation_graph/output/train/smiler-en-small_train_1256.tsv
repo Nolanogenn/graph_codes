@@ -1,0 +1,53 @@
+1255_0	is_in_sentence	sentence_1255
+1255_0	compound	1255_1
+1255_0	has_surface_form	Bering
+1255_0	part_of_entity	Bering Air
+1255_1	is_in_sentence	sentence_1255
+1255_1	nsubj	1255_2
+1255_1	has_surface_form	Air
+1255_1	part_of_entity	Bering Air
+1255_2	is_in_sentence	sentence_1255
+1255_2	ROOT	1255_2
+1255_2	has_surface_form	is
+1255_3	is_in_sentence	sentence_1255
+1255_3	det	1255_5
+1255_3	has_surface_form	an
+1255_5	is_in_sentence	sentence_1255
+1255_5	attr	1255_2
+1255_5	has_surface_form	airline
+1255_4	is_in_sentence	sentence_1255
+1255_4	amod	1255_5
+1255_4	has_surface_form	American
+1255_6	is_in_sentence	sentence_1255
+1255_6	acl	1255_5
+1255_6	has_surface_form	headquartered
+1255_7	is_in_sentence	sentence_1255
+1255_7	prep	1255_6
+1255_7	has_surface_form	in
+1255_8	is_in_sentence	sentence_1255
+1255_8	pobj	1255_7
+1255_8	is_entity	Nome
+Nome	surface_form	Nome
+1255_9	is_in_sentence	sentence_1255
+1255_9	punct	1255_8
+1255_9	has_surface_form	,
+1255_10	is_in_sentence	sentence_1255
+1255_10	conj	1255_8
+1255_10	has_surface_form	Alaska
+1255_11	is_in_sentence	sentence_1255
+1255_11	punct	1255_10
+1255_11	has_surface_form	,
+1255_12	is_in_sentence	sentence_1255
+1255_12	compound	1255_13
+1255_12	has_surface_form	United
+1255_13	is_in_sentence	sentence_1255
+1255_13	conj	1255_10
+1255_13	has_surface_form	States
+1255_14	is_in_sentence	sentence_1255
+1255_14	punct	1255_2
+1255_14	has_surface_form	.
+1255_15	is_in_sentence	sentence_1255
+1255_15	dep	1255_2
+1255_15	has_surface_form	
+Bering Air	surface_form	Bering Air
+Bering Air	headquarters	Nome

@@ -1,0 +1,48 @@
+1061_0	is_in_sentence	sentence_1061
+1061_0	compound	1061_1
+1061_0	has_surface_form	EV
+1061_0	part_of_entity	EV Bozen 84
+1061_1	is_in_sentence	sentence_1061
+1061_1	nsubj	1061_3
+1061_1	has_surface_form	Bozen
+1061_1	part_of_entity	EV Bozen 84
+1061_3	is_in_sentence	sentence_1061
+1061_3	ROOT	1061_3
+1061_3	has_surface_form	is
+1061_2	is_in_sentence	sentence_1061
+1061_2	nummod	1061_1
+1061_2	has_surface_form	84
+1061_2	part_of_entity	EV Bozen 84
+1061_4	is_in_sentence	sentence_1061
+1061_4	det	1061_7
+1061_4	has_surface_form	an
+1061_7	is_in_sentence	sentence_1061
+1061_7	attr	1061_3
+1061_7	has_surface_form	team
+1061_5	is_in_sentence	sentence_1061
+1061_5	compound	1061_6
+1061_5	has_surface_form	ice
+1061_6	is_in_sentence	sentence_1061
+1061_6	compound	1061_7
+1061_6	has_surface_form	hockey
+1061_8	is_in_sentence	sentence_1061
+1061_8	prep	1061_7
+1061_8	has_surface_form	in
+1061_9	is_in_sentence	sentence_1061
+1061_9	pobj	1061_8
+1061_9	is_entity	Bolzano
+Bolzano	surface_form	Bolzano
+1061_10	is_in_sentence	sentence_1061
+1061_10	punct	1061_9
+1061_10	has_surface_form	,
+1061_11	is_in_sentence	sentence_1061
+1061_11	appos	1061_9
+1061_11	has_surface_form	Italy
+1061_12	is_in_sentence	sentence_1061
+1061_12	punct	1061_3
+1061_12	has_surface_form	.
+1061_13	is_in_sentence	sentence_1061
+1061_13	dep	1061_13
+1061_13	has_surface_form	
+EV Bozen 84	surface_form	EV Bozen 84
+EV Bozen 84	is-where	Bolzano

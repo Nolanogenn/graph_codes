@@ -1,0 +1,45 @@
+20480_0	is_in_sentence	sentence_20480
+20480_0	nsubj	20480_1
+20480_0	has_surface_form	Roomba
+20480_1	is_in_sentence	sentence_20480
+20480_1	ROOT	20480_1
+20480_1	has_surface_form	is
+20480_2	is_in_sentence	sentence_20480
+20480_2	det	20480_6
+20480_2	has_surface_form	an
+20480_6	is_in_sentence	sentence_20480
+20480_6	attr	20480_1
+20480_6	has_surface_form	robot
+20480_6	part_of_entity	Vacuum cleaning robot
+20480_3	is_in_sentence	sentence_20480
+20480_3	amod	20480_6
+20480_3	has_surface_form	automated
+20480_4	is_in_sentence	sentence_20480
+20480_4	compound	20480_6
+20480_4	has_surface_form	Vacuum
+20480_4	part_of_entity	Vacuum cleaning robot
+20480_5	is_in_sentence	sentence_20480
+20480_5	compound	20480_6
+20480_5	has_surface_form	cleaning
+20480_5	part_of_entity	Vacuum cleaning robot
+20480_7	is_in_sentence	sentence_20480
+20480_7	advmod	20480_8
+20480_7	has_surface_form	first
+20480_8	is_in_sentence	sentence_20480
+20480_8	acl	20480_6
+20480_8	has_surface_form	released
+20480_9	is_in_sentence	sentence_20480
+20480_9	prep	20480_8
+20480_9	has_surface_form	in
+20480_10	is_in_sentence	sentence_20480
+20480_10	pobj	20480_9
+20480_10	is_entity	2002
+2002	surface_form	2002
+20480_11	is_in_sentence	sentence_20480
+20480_11	punct	20480_1
+20480_11	has_surface_form	.
+20480_12	is_in_sentence	sentence_20480
+20480_12	dep	20480_12
+20480_12	has_surface_form	
+Vacuum cleaning robot	surface_form	Vacuum cleaning robot
+Vacuum cleaning robot	invented-when	2002

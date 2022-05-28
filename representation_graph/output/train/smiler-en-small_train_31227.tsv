@@ -1,0 +1,52 @@
+31226_0	is_in_sentence	sentence_31226
+31226_0	det	31226_2
+31226_0	has_surface_form	The
+31226_2	is_in_sentence	sentence_31226
+31226_2	nsubj	31226_3
+31226_2	has_surface_form	Highway
+31226_2	part_of_entity	Newell Highway
+31226_1	is_in_sentence	sentence_31226
+31226_1	compound	31226_2
+31226_1	has_surface_form	Newell
+31226_1	part_of_entity	Newell Highway
+31226_3	is_in_sentence	sentence_31226
+31226_3	ROOT	31226_3
+31226_3	has_surface_form	is
+31226_4	is_in_sentence	sentence_31226
+31226_4	det	31226_6
+31226_4	has_surface_form	a
+31226_6	is_in_sentence	sentence_31226
+31226_6	attr	31226_3
+31226_6	has_surface_form	highway
+31226_6	part_of_entity	national highway
+31226_5	is_in_sentence	sentence_31226
+31226_5	amod	31226_6
+31226_5	has_surface_form	national
+31226_5	part_of_entity	national highway
+31226_7	is_in_sentence	sentence_31226
+31226_7	prep	31226_6
+31226_7	has_surface_form	in
+31226_8	is_in_sentence	sentence_31226
+31226_8	compound	31226_10
+31226_8	has_surface_form	New
+31226_10	is_in_sentence	sentence_31226
+31226_10	pobj	31226_7
+31226_10	has_surface_form	Wales
+31226_9	is_in_sentence	sentence_31226
+31226_9	compound	31226_10
+31226_9	has_surface_form	South
+31226_11	is_in_sentence	sentence_31226
+31226_11	punct	31226_10
+31226_11	has_surface_form	,
+31226_12	is_in_sentence	sentence_31226
+31226_12	appos	31226_10
+31226_12	has_surface_form	Australia
+31226_13	is_in_sentence	sentence_31226
+31226_13	punct	31226_3
+31226_13	has_surface_form	.
+31226_14	is_in_sentence	sentence_31226
+31226_14	dep	31226_3
+31226_14	has_surface_form	
+Newell Highway	surface_form	Newell Highway
+Newell Highway	has-type	national highway
+national highway	surface_form	national highway

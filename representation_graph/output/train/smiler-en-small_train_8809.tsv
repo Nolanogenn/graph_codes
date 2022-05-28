@@ -1,0 +1,73 @@
+8808_0	is_in_sentence	sentence_8808
+8808_0	compound	8808_2
+8808_0	has_surface_form	Glen
+8808_0	part_of_entity	Glen David Brin
+8808_2	is_in_sentence	sentence_8808
+8808_2	nsubj	8808_10
+8808_2	has_surface_form	Brin
+8808_2	part_of_entity	Glen David Brin
+8808_1	is_in_sentence	sentence_8808
+8808_1	compound	8808_2
+8808_1	has_surface_form	David
+8808_1	part_of_entity	Glen David Brin
+8808_10	is_in_sentence	sentence_8808
+8808_10	ROOT	8808_10
+8808_10	has_surface_form	is
+8808_3	is_in_sentence	sentence_8808
+8808_3	punct	8808_4
+8808_3	has_surface_form	(
+8808_4	is_in_sentence	sentence_8808
+8808_4	relcl	8808_2
+8808_4	has_surface_form	born
+8808_5	is_in_sentence	sentence_8808
+8808_5	npadvmod	8808_4
+8808_5	has_surface_form	October
+8808_6	is_in_sentence	sentence_8808
+8808_6	nummod	8808_5
+8808_6	has_surface_form	6
+8808_7	is_in_sentence	sentence_8808
+8808_7	punct	8808_5
+8808_7	has_surface_form	,
+8808_8	is_in_sentence	sentence_8808
+8808_8	nummod	8808_5
+8808_8	has_surface_form	1950
+8808_9	is_in_sentence	sentence_8808
+8808_9	punct	8808_2
+8808_9	has_surface_form	)
+8808_11	is_in_sentence	sentence_8808
+8808_11	det	8808_13
+8808_11	has_surface_form	an
+8808_13	is_in_sentence	sentence_8808
+8808_13	attr	8808_10
+8808_13	has_surface_form	scientist
+8808_12	is_in_sentence	sentence_8808
+8808_12	amod	8808_13
+8808_12	has_surface_form	American
+8808_14	is_in_sentence	sentence_8808
+8808_14	cc	8808_13
+8808_14	has_surface_form	and
+8808_15	is_in_sentence	sentence_8808
+8808_15	conj	8808_13
+8808_15	has_surface_form	author
+8808_15	part_of_entity	author of science fiction
+8808_16	is_in_sentence	sentence_8808
+8808_16	prep	8808_15
+8808_16	has_surface_form	of
+8808_16	part_of_entity	author of science fiction
+8808_17	is_in_sentence	sentence_8808
+8808_17	compound	8808_18
+8808_17	has_surface_form	science
+8808_17	part_of_entity	author of science fiction
+8808_18	is_in_sentence	sentence_8808
+8808_18	pobj	8808_16
+8808_18	has_surface_form	fiction
+8808_18	part_of_entity	author of science fiction
+8808_19	is_in_sentence	sentence_8808
+8808_19	punct	8808_10
+8808_19	has_surface_form	.
+8808_20	is_in_sentence	sentence_8808
+8808_20	dep	8808_20
+8808_20	has_surface_form	
+Glen David Brin	surface_form	Glen David Brin
+Glen David Brin	has-type	author of science fiction
+author of science fiction	surface_form	author of science fiction

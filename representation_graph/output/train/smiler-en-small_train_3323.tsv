@@ -1,0 +1,60 @@
+3322_0	is_in_sentence	sentence_3322
+3322_0	det	3322_2
+3322_0	has_surface_form	The
+3322_0	part_of_entity	The Brass Bullet
+3322_2	is_in_sentence	sentence_3322
+3322_2	nsubj	3322_3
+3322_2	has_surface_form	Bullet
+3322_2	part_of_entity	The Brass Bullet
+3322_1	is_in_sentence	sentence_3322
+3322_1	compound	3322_2
+3322_1	has_surface_form	Brass
+3322_1	part_of_entity	The Brass Bullet
+3322_3	is_in_sentence	sentence_3322
+3322_3	ROOT	3322_3
+3322_3	has_surface_form	is
+3322_4	is_in_sentence	sentence_3322
+3322_4	det	3322_9
+3322_4	has_surface_form	a
+3322_9	is_in_sentence	sentence_3322
+3322_9	attr	3322_3
+3322_9	has_surface_form	serial
+3322_5	is_in_sentence	sentence_3322
+3322_5	nummod	3322_8
+3322_5	has_surface_form	1918
+3322_8	is_in_sentence	sentence_3322
+3322_8	compound	3322_9
+3322_8	has_surface_form	film
+3322_6	is_in_sentence	sentence_3322
+3322_6	amod	3322_8
+3322_6	has_surface_form	American
+3322_7	is_in_sentence	sentence_3322
+3322_7	compound	3322_8
+3322_7	has_surface_form	adventure
+3322_10	is_in_sentence	sentence_3322
+3322_10	acl	3322_9
+3322_10	has_surface_form	directed
+3322_11	is_in_sentence	sentence_3322
+3322_11	agent	3322_10
+3322_11	has_surface_form	by
+3322_12	is_in_sentence	sentence_3322
+3322_12	compound	3322_14
+3322_12	has_surface_form	Ben
+3322_12	part_of_entity	Ben F. Wilson
+3322_14	is_in_sentence	sentence_3322
+3322_14	pobj	3322_11
+3322_14	has_surface_form	Wilson
+3322_14	part_of_entity	Ben F. Wilson
+3322_13	is_in_sentence	sentence_3322
+3322_13	compound	3322_14
+3322_13	has_surface_form	F.
+3322_13	part_of_entity	Ben F. Wilson
+3322_15	is_in_sentence	sentence_3322
+3322_15	punct	3322_3
+3322_15	has_surface_form	.
+3322_16	is_in_sentence	sentence_3322
+3322_16	dep	3322_3
+3322_16	has_surface_form	
+The Brass Bullet	surface_form	The Brass Bullet
+The Brass Bullet	movie-has-director	Ben F. Wilson
+Ben F. Wilson	surface_form	Ben F. Wilson

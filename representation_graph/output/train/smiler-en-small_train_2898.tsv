@@ -1,0 +1,70 @@
+2897_0	is_in_sentence	sentence_2897
+2897_0	nsubj	2897_1
+2897_0	has_surface_form	McGraw
+2897_1	is_in_sentence	sentence_2897
+2897_1	ROOT	2897_1
+2897_1	has_surface_form	married
+2897_2	is_in_sentence	sentence_2897
+2897_2	compound	2897_3
+2897_2	has_surface_form	Minnie
+2897_2	part_of_entity	Minnie Doyle
+2897_3	is_in_sentence	sentence_2897
+2897_3	dobj	2897_1
+2897_3	has_surface_form	Doyle
+2897_3	part_of_entity	Minnie Doyle
+2897_4	is_in_sentence	sentence_2897
+2897_4	punct	2897_3
+2897_4	has_surface_form	,
+2897_5	is_in_sentence	sentence_2897
+2897_5	det	2897_6
+2897_5	has_surface_form	the
+2897_6	is_in_sentence	sentence_2897
+2897_6	appos	2897_3
+2897_6	has_surface_form	daughter
+2897_7	is_in_sentence	sentence_2897
+2897_7	prep	2897_6
+2897_7	has_surface_form	of
+2897_8	is_in_sentence	sentence_2897
+2897_8	amod	2897_10
+2897_8	has_surface_form	prominent
+2897_10	is_in_sentence	sentence_2897
+2897_10	compound	2897_12
+2897_10	has_surface_form	politician
+2897_9	is_in_sentence	sentence_2897
+2897_9	compound	2897_10
+2897_9	has_surface_form	Baltimore
+2897_12	is_in_sentence	sentence_2897
+2897_12	pobj	2897_7
+2897_12	has_surface_form	Doyle
+2897_12	part_of_entity	Michael Doyle
+2897_11	is_in_sentence	sentence_2897
+2897_11	compound	2897_12
+2897_11	has_surface_form	Michael
+2897_11	part_of_entity	Michael Doyle
+2897_13	is_in_sentence	sentence_2897
+2897_13	punct	2897_3
+2897_13	has_surface_form	,
+2897_14	is_in_sentence	sentence_2897
+2897_14	prep	2897_1
+2897_14	has_surface_form	on
+2897_15	is_in_sentence	sentence_2897
+2897_15	pobj	2897_14
+2897_15	has_surface_form	February
+2897_16	is_in_sentence	sentence_2897
+2897_16	nummod	2897_15
+2897_16	has_surface_form	3
+2897_17	is_in_sentence	sentence_2897
+2897_17	punct	2897_15
+2897_17	has_surface_form	,
+2897_18	is_in_sentence	sentence_2897
+2897_18	nummod	2897_15
+2897_18	has_surface_form	1897
+2897_19	is_in_sentence	sentence_2897
+2897_19	punct	2897_1
+2897_19	has_surface_form	.
+2897_20	is_in_sentence	sentence_2897
+2897_20	dep	2897_20
+2897_20	has_surface_form	
+Minnie Doyle	surface_form	Minnie Doyle
+Minnie Doyle	has-parent	Michael Doyle
+Michael Doyle	surface_form	Michael Doyle

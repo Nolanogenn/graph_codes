@@ -1,0 +1,88 @@
+32946_0	is_in_sentence	sentence_32946
+32946_0	compound	32946_1
+32946_0	has_surface_form	Dod
+32946_0	part_of_entity	Dod Procter
+32946_1	is_in_sentence	sentence_32946
+32946_1	nsubj	32946_12
+32946_1	has_surface_form	Procter
+32946_1	part_of_entity	Dod Procter
+32946_12	is_in_sentence	sentence_32946
+32946_12	ROOT	32946_12
+32946_12	has_surface_form	was
+32946_2	is_in_sentence	sentence_32946
+32946_2	punct	32946_1
+32946_2	has_surface_form	,
+32946_3	is_in_sentence	sentence_32946
+32946_3	amod	32946_6
+32946_3	has_surface_form	born
+32946_6	is_in_sentence	sentence_32946
+32946_6	appos	32946_1
+32946_6	has_surface_form	Shaw
+32946_4	is_in_sentence	sentence_32946
+32946_4	compound	32946_6
+32946_4	has_surface_form	Doris
+32946_5	is_in_sentence	sentence_32946
+32946_5	compound	32946_6
+32946_5	has_surface_form	Margaret
+32946_7	is_in_sentence	sentence_32946
+32946_7	punct	32946_6
+32946_7	has_surface_form	,
+32946_8	is_in_sentence	sentence_32946
+32946_8	conj	32946_6
+32946_8	has_surface_form	RA
+32946_9	is_in_sentence	sentence_32946
+32946_9	punct	32946_8
+32946_9	has_surface_form	(
+32946_10	is_in_sentence	sentence_32946
+32946_10	appos	32946_8
+32946_10	has_surface_form	1890–1972
+32946_11	is_in_sentence	sentence_32946
+32946_11	punct	32946_8
+32946_11	has_surface_form	)
+32946_13	is_in_sentence	sentence_32946
+32946_13	det	32946_15
+32946_13	has_surface_form	an
+32946_15	is_in_sentence	sentence_32946
+32946_15	attr	32946_12
+32946_15	has_surface_form	artist
+32946_14	is_in_sentence	sentence_32946
+32946_14	amod	32946_15
+32946_14	has_surface_form	English
+32946_16	is_in_sentence	sentence_32946
+32946_16	punct	32946_12
+32946_16	has_surface_form	,
+32946_17	is_in_sentence	sentence_32946
+32946_17	cc	32946_12
+32946_17	has_surface_form	and
+32946_18	is_in_sentence	sentence_32946
+32946_18	det	32946_19
+32946_18	has_surface_form	the
+32946_19	is_in_sentence	sentence_32946
+32946_19	conj	32946_12
+32946_19	has_surface_form	wife
+32946_20	is_in_sentence	sentence_32946
+32946_20	prep	32946_19
+32946_20	has_surface_form	of
+32946_21	is_in_sentence	sentence_32946
+32946_21	det	32946_22
+32946_21	has_surface_form	the
+32946_22	is_in_sentence	sentence_32946
+32946_22	pobj	32946_20
+32946_22	has_surface_form	artist
+32946_23	is_in_sentence	sentence_32946
+32946_23	compound	32946_24
+32946_23	has_surface_form	Ernest
+32946_23	part_of_entity	Ernest Procter
+32946_24	is_in_sentence	sentence_32946
+32946_24	appos	32946_22
+32946_24	has_surface_form	Procter
+32946_24	part_of_entity	Ernest Procter
+32946_25	is_in_sentence	sentence_32946
+32946_25	punct	32946_12
+32946_25	has_surface_form	.
+32946_26	is_in_sentence	sentence_32946
+32946_26	dep	32946_12
+32946_26	has_surface_form	
+Dod Procter	surface_form	Dod Procter
+Dod Procter	has-spouse	Ernest Procter
+Ernest Procter	surface_form	Ernest Procter

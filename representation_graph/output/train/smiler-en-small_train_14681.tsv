@@ -1,0 +1,95 @@
+14680_0	is_in_sentence	sentence_14680
+14680_0	nsubj	14680_5
+14680_0	has_surface_form	Movement
+14680_0	part_of_entity	Movement and Location
+14680_5	is_in_sentence	sentence_14680
+14680_5	ROOT	14680_5
+14680_5	has_surface_form	called
+14680_1	is_in_sentence	sentence_14680
+14680_1	cc	14680_0
+14680_1	has_surface_form	and
+14680_1	part_of_entity	Movement and Location
+14680_2	is_in_sentence	sentence_14680
+14680_2	conj	14680_0
+14680_2	has_surface_form	Location
+14680_2	part_of_entity	Movement and Location
+14680_3	is_in_sentence	sentence_14680
+14680_3	punct	14680_5
+14680_3	has_surface_form	(
+14680_4	is_in_sentence	sentence_14680
+14680_4	advmod	14680_5
+14680_4	has_surface_form	also
+14680_6	is_in_sentence	sentence_14680
+14680_6	dobj	14680_5
+14680_6	has_surface_form	Movement
+14680_7	is_in_sentence	sentence_14680
+14680_7	cc	14680_6
+14680_7	has_surface_form	+
+14680_8	is_in_sentence	sentence_14680
+14680_8	conj	14680_6
+14680_8	has_surface_form	Location
+14680_9	is_in_sentence	sentence_14680
+14680_9	punct	14680_5
+14680_9	has_surface_form	)
+14680_10	is_in_sentence	sentence_14680
+14680_10	ccomp	14680_5
+14680_10	has_surface_form	is
+14680_11	is_in_sentence	sentence_14680
+14680_11	det	14680_15
+14680_11	has_surface_form	an
+14680_15	is_in_sentence	sentence_14680
+14680_15	attr	14680_10
+14680_15	has_surface_form	movie
+14680_12	is_in_sentence	sentence_14680
+14680_12	amod	14680_15
+14680_12	has_surface_form	American
+14680_13	is_in_sentence	sentence_14680
+14680_13	compound	14680_14
+14680_13	has_surface_form	science
+14680_14	is_in_sentence	sentence_14680
+14680_14	compound	14680_15
+14680_14	has_surface_form	fiction
+14680_16	is_in_sentence	sentence_14680
+14680_16	acl	14680_15
+14680_16	has_surface_form	set
+14680_17	is_in_sentence	sentence_14680
+14680_17	prep	14680_16
+14680_17	has_surface_form	in
+14680_18	is_in_sentence	sentence_14680
+14680_18	amod	14680_20
+14680_18	has_surface_form	modern
+14680_20	is_in_sentence	sentence_14680
+14680_20	compound	14680_21
+14680_20	has_surface_form	day
+14680_19	is_in_sentence	sentence_14680
+14680_19	punct	14680_20
+14680_19	has_surface_form	-
+14680_21	is_in_sentence	sentence_14680
+14680_21	pobj	14680_17
+14680_21	has_surface_form	Brooklyn
+14680_22	is_in_sentence	sentence_14680
+14680_22	punct	14680_15
+14680_22	has_surface_form	,
+14680_23	is_in_sentence	sentence_14680
+14680_23	acl	14680_15
+14680_23	has_surface_form	directed
+14680_24	is_in_sentence	sentence_14680
+14680_24	agent	14680_23
+14680_24	has_surface_form	by
+14680_25	is_in_sentence	sentence_14680
+14680_25	compound	14680_26
+14680_25	has_surface_form	Alexis
+14680_25	part_of_entity	Alexis Boling
+14680_26	is_in_sentence	sentence_14680
+14680_26	pobj	14680_24
+14680_26	has_surface_form	Boling
+14680_26	part_of_entity	Alexis Boling
+14680_27	is_in_sentence	sentence_14680
+14680_27	punct	14680_5
+14680_27	has_surface_form	.
+14680_28	is_in_sentence	sentence_14680
+14680_28	dep	14680_28
+14680_28	has_surface_form	
+Movement and Location	surface_form	Movement and Location
+Movement and Location	movie-has-director	Alexis Boling
+Alexis Boling	surface_form	Alexis Boling

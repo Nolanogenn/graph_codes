@@ -1,0 +1,77 @@
+13824_0	is_in_sentence	sentence_13824
+13824_0	det	13824_3
+13824_0	has_surface_form	The
+13824_3	is_in_sentence	sentence_13824
+13824_3	nsubj	13824_4
+13824_3	has_surface_form	Bridge
+13824_3	part_of_entity	Wheeling Suspension Bridge
+13824_1	is_in_sentence	sentence_13824
+13824_1	compound	13824_2
+13824_1	has_surface_form	Wheeling
+13824_1	part_of_entity	Wheeling Suspension Bridge
+13824_2	is_in_sentence	sentence_13824
+13824_2	compound	13824_3
+13824_2	has_surface_form	Suspension
+13824_2	part_of_entity	Wheeling Suspension Bridge
+13824_4	is_in_sentence	sentence_13824
+13824_4	ROOT	13824_4
+13824_4	has_surface_form	is
+13824_5	is_in_sentence	sentence_13824
+13824_5	det	13824_7
+13824_5	has_surface_form	a
+13824_7	is_in_sentence	sentence_13824
+13824_7	attr	13824_4
+13824_7	has_surface_form	bridge
+13824_7	part_of_entity	suspension bridge
+13824_6	is_in_sentence	sentence_13824
+13824_6	compound	13824_7
+13824_6	has_surface_form	suspension
+13824_6	part_of_entity	suspension bridge
+13824_8	is_in_sentence	sentence_13824
+13824_8	acl	13824_7
+13824_8	has_surface_form	spanning
+13824_9	is_in_sentence	sentence_13824
+13824_9	det	13824_11
+13824_9	has_surface_form	the
+13824_11	is_in_sentence	sentence_13824
+13824_11	dobj	13824_8
+13824_11	has_surface_form	channel
+13824_10	is_in_sentence	sentence_13824
+13824_10	amod	13824_11
+13824_10	has_surface_form	main
+13824_12	is_in_sentence	sentence_13824
+13824_12	prep	13824_11
+13824_12	has_surface_form	of
+13824_13	is_in_sentence	sentence_13824
+13824_13	det	13824_15
+13824_13	has_surface_form	the
+13824_15	is_in_sentence	sentence_13824
+13824_15	pobj	13824_12
+13824_15	has_surface_form	River
+13824_14	is_in_sentence	sentence_13824
+13824_14	compound	13824_15
+13824_14	has_surface_form	Ohio
+13824_16	is_in_sentence	sentence_13824
+13824_16	prep	13824_11
+13824_16	has_surface_form	at
+13824_17	is_in_sentence	sentence_13824
+13824_17	pobj	13824_16
+13824_17	has_surface_form	Wheeling
+13824_18	is_in_sentence	sentence_13824
+13824_18	punct	13824_17
+13824_18	has_surface_form	,
+13824_19	is_in_sentence	sentence_13824
+13824_19	compound	13824_20
+13824_19	has_surface_form	West
+13824_20	is_in_sentence	sentence_13824
+13824_20	npadvmod	13824_17
+13824_20	has_surface_form	Virginia
+13824_21	is_in_sentence	sentence_13824
+13824_21	punct	13824_4
+13824_21	has_surface_form	.
+13824_22	is_in_sentence	sentence_13824
+13824_22	dep	13824_22
+13824_22	has_surface_form	
+Wheeling Suspension Bridge	surface_form	Wheeling Suspension Bridge
+Wheeling Suspension Bridge	has-type	suspension bridge
+suspension bridge	surface_form	suspension bridge

@@ -1,0 +1,56 @@
+31087_0	is_in_sentence	sentence_31087
+31087_0	compound	31087_1
+31087_0	has_surface_form	Arne
+31087_0	part_of_entity	Arne Legernes
+31087_1	is_in_sentence	sentence_31087
+31087_1	nsubj	31087_10
+31087_1	has_surface_form	Legernes
+31087_1	part_of_entity	Arne Legernes
+31087_10	is_in_sentence	sentence_31087
+31087_10	ROOT	31087_10
+31087_10	has_surface_form	is
+31087_2	is_in_sentence	sentence_31087
+31087_2	punct	31087_1
+31087_2	has_surface_form	(
+31087_3	is_in_sentence	sentence_31087
+31087_3	acl	31087_1
+31087_3	has_surface_form	born
+31087_4	is_in_sentence	sentence_31087
+31087_4	nummod	31087_5
+31087_4	has_surface_form	18
+31087_5	is_in_sentence	sentence_31087
+31087_5	npadvmod	31087_3
+31087_5	has_surface_form	May
+31087_6	is_in_sentence	sentence_31087
+31087_6	nummod	31087_5
+31087_6	has_surface_form	1931
+31087_7	is_in_sentence	sentence_31087
+31087_7	prep	31087_3
+31087_7	has_surface_form	in
+31087_8	is_in_sentence	sentence_31087
+31087_8	pobj	31087_7
+31087_8	is_entity	Molde
+Molde	surface_form	Molde
+31087_9	is_in_sentence	sentence_31087
+31087_9	punct	31087_1
+31087_9	has_surface_form	)
+31087_11	is_in_sentence	sentence_31087
+31087_11	det	31087_14
+31087_11	has_surface_form	a
+31087_14	is_in_sentence	sentence_31087
+31087_14	attr	31087_10
+31087_14	has_surface_form	footballer
+31087_12	is_in_sentence	sentence_31087
+31087_12	amod	31087_14
+31087_12	has_surface_form	retired
+31087_13	is_in_sentence	sentence_31087
+31087_13	amod	31087_14
+31087_13	has_surface_form	Norwegian
+31087_15	is_in_sentence	sentence_31087
+31087_15	punct	31087_10
+31087_15	has_surface_form	.
+31087_16	is_in_sentence	sentence_31087
+31087_16	dep	31087_10
+31087_16	has_surface_form	
+Arne Legernes	surface_form	Arne Legernes
+Arne Legernes	birth-place	Molde

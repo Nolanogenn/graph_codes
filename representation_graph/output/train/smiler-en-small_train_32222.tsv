@@ -1,0 +1,54 @@
+32221_0	is_in_sentence	sentence_32221
+32221_0	det	32221_3
+32221_0	has_surface_form	The
+32221_3	is_in_sentence	sentence_32221
+32221_3	nsubj	32221_4
+32221_3	has_surface_form	College
+32221_3	part_of_entity	Canadian Business College
+32221_1	is_in_sentence	sentence_32221
+32221_1	compound	32221_3
+32221_1	has_surface_form	Canadian
+32221_1	part_of_entity	Canadian Business College
+32221_2	is_in_sentence	sentence_32221
+32221_2	compound	32221_3
+32221_2	has_surface_form	Business
+32221_2	part_of_entity	Canadian Business College
+32221_4	is_in_sentence	sentence_32221
+32221_4	ROOT	32221_4
+32221_4	has_surface_form	is
+32221_5	is_in_sentence	sentence_32221
+32221_5	det	32221_8
+32221_5	has_surface_form	a
+32221_8	is_in_sentence	sentence_32221
+32221_8	attr	32221_4
+32221_8	has_surface_form	college
+32221_6	is_in_sentence	sentence_32221
+32221_6	amod	32221_8
+32221_6	has_surface_form	private
+32221_7	is_in_sentence	sentence_32221
+32221_7	compound	32221_8
+32221_7	has_surface_form	business
+32221_9	is_in_sentence	sentence_32221
+32221_9	acl	32221_8
+32221_9	has_surface_form	based
+32221_10	is_in_sentence	sentence_32221
+32221_10	prep	32221_9
+32221_10	has_surface_form	in
+32221_11	is_in_sentence	sentence_32221
+32221_11	pobj	32221_10
+32221_11	is_entity	Ontario
+Ontario	surface_form	Ontario
+32221_12	is_in_sentence	sentence_32221
+32221_12	punct	32221_11
+32221_12	has_surface_form	,
+32221_13	is_in_sentence	sentence_32221
+32221_13	appos	32221_11
+32221_13	has_surface_form	Canada
+32221_14	is_in_sentence	sentence_32221
+32221_14	punct	32221_4
+32221_14	has_surface_form	.
+32221_15	is_in_sentence	sentence_32221
+32221_15	dep	32221_4
+32221_15	has_surface_form	
+Canadian Business College	surface_form	Canadian Business College
+Canadian Business College	is-where	Ontario

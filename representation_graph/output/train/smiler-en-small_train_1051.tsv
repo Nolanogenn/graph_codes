@@ -1,0 +1,79 @@
+1050_0	is_in_sentence	sentence_1050
+1050_0	compound	1050_1
+1050_0	has_surface_form	Doug
+1050_0	part_of_entity	Doug Gray
+1050_1	is_in_sentence	sentence_1050
+1050_1	ROOT	1050_1
+1050_1	has_surface_form	Gray
+1050_1	part_of_entity	Doug Gray
+1050_2	is_in_sentence	sentence_1050
+1050_2	punct	1050_1
+1050_2	has_surface_form	(
+1050_3	is_in_sentence	sentence_1050
+1050_3	appos	1050_1
+1050_3	has_surface_form	1948-
+1050_4	is_in_sentence	sentence_1050
+1050_4	punct	1050_1
+1050_4	has_surface_form	)
+1050_5	is_in_sentence	sentence_1050
+1050_5	amod	1050_6
+1050_5	has_surface_form	American
+1050_6	is_in_sentence	sentence_1050
+1050_6	ROOT	1050_6
+1050_6	has_surface_form	singer
+1050_7	is_in_sentence	sentence_1050
+1050_7	punct	1050_6
+1050_7	has_surface_form	.
+1050_8	is_in_sentence	sentence_1050
+1050_8	compound	1050_9
+1050_8	has_surface_form	Doug
+1050_8	part_of_entity	Doug Gray
+1050_9	is_in_sentence	sentence_1050
+1050_9	nsubjpass	1050_11
+1050_9	has_surface_form	Gray
+1050_9	part_of_entity	Doug Gray
+1050_11	is_in_sentence	sentence_1050
+1050_11	ROOT	1050_11
+1050_11	has_surface_form	born
+1050_10	is_in_sentence	sentence_1050
+1050_10	auxpass	1050_11
+1050_10	has_surface_form	was
+1050_12	is_in_sentence	sentence_1050
+1050_12	prep	1050_11
+1050_12	has_surface_form	on
+1050_13	is_in_sentence	sentence_1050
+1050_13	pobj	1050_12
+1050_13	has_surface_form	May
+1050_14	is_in_sentence	sentence_1050
+1050_14	nummod	1050_13
+1050_14	has_surface_form	22
+1050_15	is_in_sentence	sentence_1050
+1050_15	punct	1050_13
+1050_15	has_surface_form	,
+1050_16	is_in_sentence	sentence_1050
+1050_16	nummod	1050_13
+1050_16	has_surface_form	1948
+1050_17	is_in_sentence	sentence_1050
+1050_17	prep	1050_11
+1050_17	has_surface_form	in
+1050_18	is_in_sentence	sentence_1050
+1050_18	pobj	1050_17
+1050_18	has_surface_form	Spartanburg
+1050_19	is_in_sentence	sentence_1050
+1050_19	punct	1050_18
+1050_19	has_surface_form	,
+1050_20	is_in_sentence	sentence_1050
+1050_20	compound	1050_21
+1050_20	has_surface_form	South
+1050_21	is_in_sentence	sentence_1050
+1050_21	appos	1050_18
+1050_21	has_surface_form	Carolina
+1050_22	is_in_sentence	sentence_1050
+1050_22	punct	1050_11
+1050_22	has_surface_form	.
+1050_23	is_in_sentence	sentence_1050
+1050_23	dep	1050_11
+1050_23	has_surface_form	
+Doug Gray	surface_form	Doug Gray
+Doug Gray	birth-place	Spartanburg, South Carolina
+Spartanburg, South Carolina	surface_form	Spartanburg, South Carolina

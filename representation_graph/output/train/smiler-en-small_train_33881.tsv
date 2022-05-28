@@ -1,0 +1,78 @@
+33880_0	is_in_sentence	sentence_33880
+33880_0	compound	33880_1
+33880_0	has_surface_form	Edith
+33880_0	part_of_entity	Edith Prescott Luckett Davis
+33880_1	is_in_sentence	sentence_33880
+33880_1	compound	33880_3
+33880_1	has_surface_form	Prescott
+33880_1	part_of_entity	Edith Prescott Luckett Davis
+33880_3	is_in_sentence	sentence_33880
+33880_3	nsubj	33880_4
+33880_3	has_surface_form	Davis
+33880_3	part_of_entity	Edith Prescott Luckett Davis
+33880_2	is_in_sentence	sentence_33880
+33880_2	compound	33880_3
+33880_2	has_surface_form	Luckett
+33880_2	part_of_entity	Edith Prescott Luckett Davis
+33880_4	is_in_sentence	sentence_33880
+33880_4	ROOT	33880_4
+33880_4	has_surface_form	was
+33880_5	is_in_sentence	sentence_33880
+33880_5	det	33880_6
+33880_5	has_surface_form	the
+33880_6	is_in_sentence	sentence_33880
+33880_6	attr	33880_4
+33880_6	has_surface_form	mother
+33880_7	is_in_sentence	sentence_33880
+33880_7	prep	33880_6
+33880_7	has_surface_form	of
+33880_8	is_in_sentence	sentence_33880
+33880_8	compound	33880_9
+33880_8	has_surface_form	Nancy
+33880_8	part_of_entity	Nancy Reagan
+33880_9	is_in_sentence	sentence_33880
+33880_9	pobj	33880_7
+33880_9	has_surface_form	Reagan
+33880_9	part_of_entity	Nancy Reagan
+33880_10	is_in_sentence	sentence_33880
+33880_10	punct	33880_9
+33880_10	has_surface_form	,
+33880_11	is_in_sentence	sentence_33880
+33880_11	compound	33880_12
+33880_11	has_surface_form	First
+33880_12	is_in_sentence	sentence_33880
+33880_12	appos	33880_9
+33880_12	has_surface_form	Lady
+33880_13	is_in_sentence	sentence_33880
+33880_13	prep	33880_12
+33880_13	has_surface_form	of
+33880_14	is_in_sentence	sentence_33880
+33880_14	det	33880_16
+33880_14	has_surface_form	the
+33880_16	is_in_sentence	sentence_33880
+33880_16	pobj	33880_13
+33880_16	has_surface_form	States
+33880_15	is_in_sentence	sentence_33880
+33880_15	compound	33880_16
+33880_15	has_surface_form	United
+33880_17	is_in_sentence	sentence_33880
+33880_17	prep	33880_4
+33880_17	has_surface_form	from
+33880_18	is_in_sentence	sentence_33880
+33880_18	pobj	33880_17
+33880_18	has_surface_form	1981
+33880_19	is_in_sentence	sentence_33880
+33880_19	prep	33880_17
+33880_19	has_surface_form	to
+33880_20	is_in_sentence	sentence_33880
+33880_20	pobj	33880_19
+33880_20	has_surface_form	1989
+33880_21	is_in_sentence	sentence_33880
+33880_21	punct	33880_4
+33880_21	has_surface_form	.
+33880_22	is_in_sentence	sentence_33880
+33880_22	dep	33880_22
+33880_22	has_surface_form	
+Edith Prescott Luckett Davis	surface_form	Edith Prescott Luckett Davis
+Edith Prescott Luckett Davis	has-child	Nancy Reagan
+Nancy Reagan	surface_form	Nancy Reagan

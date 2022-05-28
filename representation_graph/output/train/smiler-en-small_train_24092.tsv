@@ -1,0 +1,76 @@
+24091_0	is_in_sentence	sentence_24091
+24091_0	compound	24091_1
+24091_0	has_surface_form	Dangerous
+24091_0	part_of_entity	Dangerous Medicine
+24091_1	is_in_sentence	sentence_24091
+24091_1	nsubj	24091_2
+24091_1	has_surface_form	Medicine
+24091_1	part_of_entity	Dangerous Medicine
+24091_2	is_in_sentence	sentence_24091
+24091_2	ROOT	24091_2
+24091_2	has_surface_form	is
+24091_3	is_in_sentence	sentence_24091
+24091_3	det	24091_7
+24091_3	has_surface_form	a
+24091_7	is_in_sentence	sentence_24091
+24091_7	attr	24091_2
+24091_7	has_surface_form	film
+24091_4	is_in_sentence	sentence_24091
+24091_4	nummod	24091_7
+24091_4	has_surface_form	1938
+24091_5	is_in_sentence	sentence_24091
+24091_5	amod	24091_7
+24091_5	has_surface_form	British
+24091_6	is_in_sentence	sentence_24091
+24091_6	compound	24091_7
+24091_6	has_surface_form	crime
+24091_8	is_in_sentence	sentence_24091
+24091_8	punct	24091_7
+24091_8	has_surface_form	,
+24091_9	is_in_sentence	sentence_24091
+24091_9	acl	24091_7
+24091_9	has_surface_form	directed
+24091_10	is_in_sentence	sentence_24091
+24091_10	agent	24091_9
+24091_10	has_surface_form	by
+24091_11	is_in_sentence	sentence_24091
+24091_11	compound	24091_13
+24091_11	has_surface_form	Arthur
+24091_13	is_in_sentence	sentence_24091
+24091_13	pobj	24091_10
+24091_13	has_surface_form	Woods
+24091_12	is_in_sentence	sentence_24091
+24091_12	compound	24091_13
+24091_12	has_surface_form	B.
+24091_14	is_in_sentence	sentence_24091
+24091_14	cc	24091_9
+24091_14	has_surface_form	and
+24091_15	is_in_sentence	sentence_24091
+24091_15	conj	24091_9
+24091_15	has_surface_form	starring
+24091_16	is_in_sentence	sentence_24091
+24091_16	compound	24091_17
+24091_16	has_surface_form	Elizabeth
+24091_16	part_of_entity	Elizabeth Allan
+24091_17	is_in_sentence	sentence_24091
+24091_17	dobj	24091_15
+24091_17	has_surface_form	Allan
+24091_17	part_of_entity	Elizabeth Allan
+24091_18	is_in_sentence	sentence_24091
+24091_18	cc	24091_17
+24091_18	has_surface_form	and
+24091_19	is_in_sentence	sentence_24091
+24091_19	compound	24091_20
+24091_19	has_surface_form	Cyril
+24091_20	is_in_sentence	sentence_24091
+24091_20	conj	24091_17
+24091_20	has_surface_form	Ritchard
+24091_21	is_in_sentence	sentence_24091
+24091_21	punct	24091_2
+24091_21	has_surface_form	.
+24091_22	is_in_sentence	sentence_24091
+24091_22	dep	24091_2
+24091_22	has_surface_form	
+Dangerous Medicine	surface_form	Dangerous Medicine
+Dangerous Medicine	starring	Elizabeth Allan
+Elizabeth Allan	surface_form	Elizabeth Allan

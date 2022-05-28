@@ -1,0 +1,93 @@
+12879_0	is_in_sentence	sentence_12879
+12879_0	compound	12879_1
+12879_0	has_surface_form	Fanny
+12879_0	part_of_entity	Fanny Schreck
+12879_1	is_in_sentence	sentence_12879
+12879_1	nsubj	12879_14
+12879_1	has_surface_form	Schreck
+12879_1	part_of_entity	Fanny Schreck
+12879_14	is_in_sentence	sentence_12879
+12879_14	ROOT	12879_14
+12879_14	has_surface_form	was
+12879_2	is_in_sentence	sentence_12879
+12879_2	punct	12879_1
+12879_2	has_surface_form	(
+12879_3	is_in_sentence	sentence_12879
+12879_3	appos	12879_1
+12879_3	has_surface_form	1877–1951
+12879_4	is_in_sentence	sentence_12879
+12879_4	punct	12879_1
+12879_4	has_surface_form	)
+12879_5	is_in_sentence	sentence_12879
+12879_5	punct	12879_1
+12879_5	has_surface_form	,
+12879_6	is_in_sentence	sentence_12879
+12879_6	advmod	12879_7
+12879_6	has_surface_form	also
+12879_7	is_in_sentence	sentence_12879
+12879_7	acl	12879_1
+12879_7	has_surface_form	known
+12879_8	is_in_sentence	sentence_12879
+12879_8	prep	12879_7
+12879_8	has_surface_form	as
+12879_9	is_in_sentence	sentence_12879
+12879_9	compound	12879_12
+12879_9	has_surface_form	Fanny
+12879_9	part_of_entity	Fanny Schreck
+12879_12	is_in_sentence	sentence_12879
+12879_12	pobj	12879_8
+12879_12	has_surface_form	Normann
+12879_10	is_in_sentence	sentence_12879
+12879_10	compound	12879_12
+12879_10	has_surface_form	Schreck
+12879_10	part_of_entity	Fanny Schreck
+12879_11	is_in_sentence	sentence_12879
+12879_11	punct	12879_12
+12879_11	has_surface_form	-
+12879_13	is_in_sentence	sentence_12879
+12879_13	punct	12879_1
+12879_13	has_surface_form	,
+12879_15	is_in_sentence	sentence_12879
+12879_15	det	12879_17
+12879_15	has_surface_form	a
+12879_17	is_in_sentence	sentence_12879
+12879_17	attr	12879_14
+12879_17	has_surface_form	actress
+12879_16	is_in_sentence	sentence_12879
+12879_16	amod	12879_17
+12879_16	has_surface_form	German
+12879_18	is_in_sentence	sentence_12879
+12879_18	punct	12879_14
+12879_18	has_surface_form	.
+12879_19	is_in_sentence	sentence_12879
+12879_19	nsubj	12879_20
+12879_19	has_surface_form	She
+12879_20	is_in_sentence	sentence_12879
+12879_20	ROOT	12879_20
+12879_20	has_surface_form	was
+12879_21	is_in_sentence	sentence_12879
+12879_21	acomp	12879_20
+12879_21	has_surface_form	married
+12879_22	is_in_sentence	sentence_12879
+12879_22	prep	12879_21
+12879_22	has_surface_form	to
+12879_23	is_in_sentence	sentence_12879
+12879_23	compound	12879_25
+12879_23	has_surface_form	actor
+12879_25	is_in_sentence	sentence_12879
+12879_25	pobj	12879_22
+12879_25	has_surface_form	Schreck
+12879_25	part_of_entity	Max Schreck
+12879_24	is_in_sentence	sentence_12879
+12879_24	compound	12879_25
+12879_24	has_surface_form	Max
+12879_24	part_of_entity	Max Schreck
+12879_26	is_in_sentence	sentence_12879
+12879_26	punct	12879_20
+12879_26	has_surface_form	.
+12879_27	is_in_sentence	sentence_12879
+12879_27	dep	12879_27
+12879_27	has_surface_form	
+Fanny Schreck	surface_form	Fanny Schreck
+Fanny Schreck	has-spouse	Max Schreck
+Max Schreck	surface_form	Max Schreck

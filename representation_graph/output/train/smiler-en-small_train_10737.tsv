@@ -1,0 +1,35 @@
+10736_0	is_in_sentence	sentence_10736
+10736_0	compound	10736_1
+10736_0	has_surface_form	Gábor
+10736_0	part_of_entity	Gábor Szabó
+10736_1	is_in_sentence	sentence_10736
+10736_1	nsubjpass	10736_3
+10736_1	has_surface_form	Szabó
+10736_1	part_of_entity	Gábor Szabó
+10736_3	is_in_sentence	sentence_10736
+10736_3	ROOT	10736_3
+10736_3	has_surface_form	born
+10736_2	is_in_sentence	sentence_10736
+10736_2	auxpass	10736_3
+10736_2	has_surface_form	was
+10736_4	is_in_sentence	sentence_10736
+10736_4	prep	10736_3
+10736_4	has_surface_form	in
+10736_5	is_in_sentence	sentence_10736
+10736_5	pobj	10736_4
+10736_5	is_entity	Budapest
+Budapest	surface_form	Budapest
+10736_6	is_in_sentence	sentence_10736
+10736_6	punct	10736_5
+10736_6	has_surface_form	,
+10736_7	is_in_sentence	sentence_10736
+10736_7	appos	10736_5
+10736_7	has_surface_form	Hungary
+10736_8	is_in_sentence	sentence_10736
+10736_8	punct	10736_3
+10736_8	has_surface_form	.
+10736_9	is_in_sentence	sentence_10736
+10736_9	dep	10736_9
+10736_9	has_surface_form	
+Gábor Szabó	surface_form	Gábor Szabó
+Gábor Szabó	birth-place	Budapest

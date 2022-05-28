@@ -1,0 +1,65 @@
+22551_0	is_in_sentence	sentence_22551
+22551_0	compound	22551_1
+22551_0	has_surface_form	Dražen
+22551_0	part_of_entity	Dražen Kutleša
+22551_1	is_in_sentence	sentence_22551
+22551_1	nsubj	22551_8
+22551_1	has_surface_form	Kutleša
+22551_1	part_of_entity	Dražen Kutleša
+22551_8	is_in_sentence	sentence_22551
+22551_8	ROOT	22551_8
+22551_8	has_surface_form	is
+22551_2	is_in_sentence	sentence_22551
+22551_2	punct	22551_3
+22551_2	has_surface_form	(
+22551_3	is_in_sentence	sentence_22551
+22551_3	acl	22551_1
+22551_3	has_surface_form	born
+22551_4	is_in_sentence	sentence_22551
+22551_4	nummod	22551_5
+22551_4	has_surface_form	25
+22551_5	is_in_sentence	sentence_22551
+22551_5	npadvmod	22551_3
+22551_5	has_surface_form	September
+22551_6	is_in_sentence	sentence_22551
+22551_6	nummod	22551_5
+22551_6	has_surface_form	1968
+22551_7	is_in_sentence	sentence_22551
+22551_7	punct	22551_3
+22551_7	has_surface_form	)
+22551_9	is_in_sentence	sentence_22551
+22551_9	det	22551_11
+22551_9	has_surface_form	the
+22551_11	is_in_sentence	sentence_22551
+22551_11	attr	22551_8
+22551_11	is_entity	bishop
+22551_10	is_in_sentence	sentence_22551
+22551_10	amod	22551_11
+22551_10	has_surface_form	current
+bishop	surface_form	bishop
+22551_12	is_in_sentence	sentence_22551
+22551_12	prep	22551_11
+22551_12	has_surface_form	of
+22551_13	is_in_sentence	sentence_22551
+22551_13	pobj	22551_12
+22551_13	has_surface_form	Poreč
+22551_14	is_in_sentence	sentence_22551
+22551_14	cc	22551_13
+22551_14	has_surface_form	and
+22551_15	is_in_sentence	sentence_22551
+22551_15	conj	22551_13
+22551_15	has_surface_form	Pula
+22551_16	is_in_sentence	sentence_22551
+22551_16	prep	22551_11
+22551_16	has_surface_form	in
+22551_17	is_in_sentence	sentence_22551
+22551_17	pobj	22551_16
+22551_17	has_surface_form	Croatia
+22551_18	is_in_sentence	sentence_22551
+22551_18	punct	22551_8
+22551_18	has_surface_form	.
+22551_19	is_in_sentence	sentence_22551
+22551_19	dep	22551_8
+22551_19	has_surface_form	
+Dražen Kutleša	surface_form	Dražen Kutleša
+Dražen Kutleša	has-type	bishop

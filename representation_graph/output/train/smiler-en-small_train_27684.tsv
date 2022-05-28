@@ -1,0 +1,56 @@
+27683_0	is_in_sentence	sentence_27683
+27683_0	det	27683_2
+27683_0	has_surface_form	A
+27683_0	part_of_entity	A Broadway Butterfly
+27683_2	is_in_sentence	sentence_27683
+27683_2	nsubj	27683_3
+27683_2	has_surface_form	Butterfly
+27683_2	part_of_entity	A Broadway Butterfly
+27683_1	is_in_sentence	sentence_27683
+27683_1	compound	27683_2
+27683_1	has_surface_form	Broadway
+27683_1	part_of_entity	A Broadway Butterfly
+27683_3	is_in_sentence	sentence_27683
+27683_3	ROOT	27683_3
+27683_3	has_surface_form	is
+27683_4	is_in_sentence	sentence_27683
+27683_4	det	27683_9
+27683_4	has_surface_form	a
+27683_9	is_in_sentence	sentence_27683
+27683_9	attr	27683_3
+27683_9	has_surface_form	film
+27683_5	is_in_sentence	sentence_27683
+27683_5	nummod	27683_9
+27683_5	has_surface_form	1925
+27683_6	is_in_sentence	sentence_27683
+27683_6	amod	27683_9
+27683_6	has_surface_form	American
+27683_7	is_in_sentence	sentence_27683
+27683_7	amod	27683_9
+27683_7	has_surface_form	silent
+27683_8	is_in_sentence	sentence_27683
+27683_8	compound	27683_9
+27683_8	has_surface_form	comedy
+27683_10	is_in_sentence	sentence_27683
+27683_10	acl	27683_9
+27683_10	has_surface_form	directed
+27683_11	is_in_sentence	sentence_27683
+27683_11	agent	27683_10
+27683_11	has_surface_form	by
+27683_12	is_in_sentence	sentence_27683
+27683_12	compound	27683_13
+27683_12	has_surface_form	William
+27683_12	part_of_entity	William Beaudine
+27683_13	is_in_sentence	sentence_27683
+27683_13	pobj	27683_11
+27683_13	has_surface_form	Beaudine
+27683_13	part_of_entity	William Beaudine
+27683_14	is_in_sentence	sentence_27683
+27683_14	punct	27683_3
+27683_14	has_surface_form	.
+27683_15	is_in_sentence	sentence_27683
+27683_15	dep	27683_3
+27683_15	has_surface_form	
+A Broadway Butterfly	surface_form	A Broadway Butterfly
+A Broadway Butterfly	movie-has-director	William Beaudine
+William Beaudine	surface_form	William Beaudine

@@ -1,0 +1,49 @@
+31113_0	is_in_sentence	sentence_31113
+31113_0	compound	31113_1
+31113_0	has_surface_form	James
+31113_0	part_of_entity	James Gapes
+31113_1	is_in_sentence	sentence_31113
+31113_1	nsubj	31113_2
+31113_1	has_surface_form	Gapes
+31113_1	part_of_entity	James Gapes
+31113_2	is_in_sentence	sentence_31113
+31113_2	ROOT	31113_2
+31113_2	has_surface_form	was
+31113_3	is_in_sentence	sentence_31113
+31113_3	det	31113_4
+31113_3	has_surface_form	the
+31113_4	is_in_sentence	sentence_31113
+31113_4	attr	31113_2
+31113_4	has_surface_form	father
+31113_5	is_in_sentence	sentence_31113
+31113_5	prep	31113_4
+31113_5	has_surface_form	of
+31113_6	is_in_sentence	sentence_31113
+31113_6	det	31113_8
+31113_6	has_surface_form	a
+31113_8	is_in_sentence	sentence_31113
+31113_8	pobj	31113_5
+31113_8	has_surface_form	mayor
+31113_7	is_in_sentence	sentence_31113
+31113_7	amod	31113_8
+31113_7	has_surface_form	later
+31113_9	is_in_sentence	sentence_31113
+31113_9	punct	31113_4
+31113_9	has_surface_form	,
+31113_10	is_in_sentence	sentence_31113
+31113_10	compound	31113_11
+31113_10	has_surface_form	Thomas
+31113_10	part_of_entity	Thomas Gapes
+31113_11	is_in_sentence	sentence_31113
+31113_11	appos	31113_4
+31113_11	has_surface_form	Gapes
+31113_11	part_of_entity	Thomas Gapes
+31113_12	is_in_sentence	sentence_31113
+31113_12	punct	31113_2
+31113_12	has_surface_form	.
+31113_13	is_in_sentence	sentence_31113
+31113_13	dep	31113_2
+31113_13	has_surface_form	
+James Gapes	surface_form	James Gapes
+James Gapes	has-child	Thomas Gapes
+Thomas Gapes	surface_form	Thomas Gapes

@@ -1,0 +1,91 @@
+18940_0	is_in_sentence	sentence_18940
+18940_0	det	18940_1
+18940_0	has_surface_form	A
+18940_0	part_of_entity	A Walk on the Moon
+18940_1	is_in_sentence	sentence_18940
+18940_1	nsubj	18940_5
+18940_1	has_surface_form	Walk
+18940_1	part_of_entity	A Walk on the Moon
+18940_5	is_in_sentence	sentence_18940
+18940_5	ROOT	18940_5
+18940_5	has_surface_form	is
+18940_2	is_in_sentence	sentence_18940
+18940_2	prep	18940_1
+18940_2	has_surface_form	on
+18940_2	part_of_entity	A Walk on the Moon
+18940_3	is_in_sentence	sentence_18940
+18940_3	det	18940_4
+18940_3	has_surface_form	the
+18940_3	part_of_entity	A Walk on the Moon
+18940_4	is_in_sentence	sentence_18940
+18940_4	pobj	18940_2
+18940_4	has_surface_form	Moon
+18940_4	part_of_entity	A Walk on the Moon
+18940_6	is_in_sentence	sentence_18940
+18940_6	det	18940_12
+18940_6	has_surface_form	a
+18940_12	is_in_sentence	sentence_18940
+18940_12	attr	18940_5
+18940_12	has_surface_form	film
+18940_7	is_in_sentence	sentence_18940
+18940_7	nummod	18940_12
+18940_7	has_surface_form	1999
+18940_8	is_in_sentence	sentence_18940
+18940_8	amod	18940_10
+18940_8	has_surface_form	Australian
+18940_10	is_in_sentence	sentence_18940
+18940_10	amod	18940_12
+18940_10	has_surface_form	American
+18940_9	is_in_sentence	sentence_18940
+18940_9	punct	18940_10
+18940_9	has_surface_form	-
+18940_11	is_in_sentence	sentence_18940
+18940_11	compound	18940_12
+18940_11	has_surface_form	drama
+18940_13	is_in_sentence	sentence_18940
+18940_13	acl	18940_12
+18940_13	has_surface_form	starring
+18940_14	is_in_sentence	sentence_18940
+18940_14	compound	18940_15
+18940_14	has_surface_form	Diane
+18940_15	is_in_sentence	sentence_18940
+18940_15	dobj	18940_13
+18940_15	has_surface_form	Lane
+18940_16	is_in_sentence	sentence_18940
+18940_16	punct	18940_15
+18940_16	has_surface_form	,
+18940_17	is_in_sentence	sentence_18940
+18940_17	compound	18940_18
+18940_17	has_surface_form	Viggo
+18940_18	is_in_sentence	sentence_18940
+18940_18	conj	18940_15
+18940_18	has_surface_form	Mortensen
+18940_19	is_in_sentence	sentence_18940
+18940_19	punct	18940_18
+18940_19	has_surface_form	,
+18940_20	is_in_sentence	sentence_18940
+18940_20	compound	18940_21
+18940_20	has_surface_form	Liev
+18940_21	is_in_sentence	sentence_18940
+18940_21	conj	18940_18
+18940_21	has_surface_form	Schreiber
+18940_22	is_in_sentence	sentence_18940
+18940_22	cc	18940_21
+18940_22	has_surface_form	and
+18940_23	is_in_sentence	sentence_18940
+18940_23	compound	18940_24
+18940_23	has_surface_form	Anna
+18940_23	part_of_entity	Anna Paquin
+18940_24	is_in_sentence	sentence_18940
+18940_24	conj	18940_21
+18940_24	has_surface_form	Paquin
+18940_24	part_of_entity	Anna Paquin
+18940_25	is_in_sentence	sentence_18940
+18940_25	punct	18940_5
+18940_25	has_surface_form	.
+18940_26	is_in_sentence	sentence_18940
+18940_26	dep	18940_26
+18940_26	has_surface_form	
+A Walk on the Moon	surface_form	A Walk on the Moon
+A Walk on the Moon	starring	Anna Paquin
+Anna Paquin	surface_form	Anna Paquin

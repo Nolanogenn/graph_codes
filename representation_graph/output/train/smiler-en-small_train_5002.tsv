@@ -1,0 +1,65 @@
+5001_0	is_in_sentence	sentence_5001
+5001_0	compound	5001_1
+5001_0	has_surface_form	Adi
+5001_0	part_of_entity	Adi Braun
+5001_1	is_in_sentence	sentence_5001
+5001_1	nsubj	5001_9
+5001_1	has_surface_form	Braun
+5001_1	part_of_entity	Adi Braun
+5001_9	is_in_sentence	sentence_5001
+5001_9	ROOT	5001_9
+5001_9	has_surface_form	is
+5001_2	is_in_sentence	sentence_5001
+5001_2	punct	5001_1
+5001_2	has_surface_form	(
+5001_3	is_in_sentence	sentence_5001
+5001_3	acl	5001_1
+5001_3	has_surface_form	born
+5001_4	is_in_sentence	sentence_5001
+5001_4	npadvmod	5001_3
+5001_4	has_surface_form	November
+5001_5	is_in_sentence	sentence_5001
+5001_5	nummod	5001_4
+5001_5	has_surface_form	23
+5001_6	is_in_sentence	sentence_5001
+5001_6	punct	5001_4
+5001_6	has_surface_form	,
+5001_7	is_in_sentence	sentence_5001
+5001_7	nummod	5001_4
+5001_7	has_surface_form	1962
+5001_8	is_in_sentence	sentence_5001
+5001_8	punct	5001_1
+5001_8	has_surface_form	)
+5001_10	is_in_sentence	sentence_5001
+5001_10	det	5001_12
+5001_10	has_surface_form	a
+5001_12	is_in_sentence	sentence_5001
+5001_12	attr	5001_9
+5001_12	is_entity	jazz
+5001_11	is_in_sentence	sentence_5001
+5001_11	amod	5001_12
+5001_11	has_surface_form	Canadian
+jazz	surface_form	jazz
+5001_13	is_in_sentence	sentence_5001
+5001_13	cc	5001_12
+5001_13	has_surface_form	and
+5001_14	is_in_sentence	sentence_5001
+5001_14	compound	5001_15
+5001_14	has_surface_form	cabaret
+5001_15	is_in_sentence	sentence_5001
+5001_15	conj	5001_12
+5001_15	has_surface_form	vocalist
+5001_16	is_in_sentence	sentence_5001
+5001_16	cc	5001_15
+5001_16	has_surface_form	and
+5001_17	is_in_sentence	sentence_5001
+5001_17	conj	5001_15
+5001_17	has_surface_form	composer
+5001_18	is_in_sentence	sentence_5001
+5001_18	punct	5001_9
+5001_18	has_surface_form	.
+5001_19	is_in_sentence	sentence_5001
+5001_19	dep	5001_19
+5001_19	has_surface_form	
+Adi Braun	surface_form	Adi Braun
+Adi Braun	has-genre	jazz

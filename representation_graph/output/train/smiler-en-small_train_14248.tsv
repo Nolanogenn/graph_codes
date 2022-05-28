@@ -1,0 +1,94 @@
+14247_0	is_in_sentence	sentence_14247
+14247_0	compound	14247_1
+14247_0	has_surface_form	FK
+14247_0	part_of_entity	FK Hořovicko
+14247_1	is_in_sentence	sentence_14247
+14247_1	nsubj	14247_2
+14247_1	has_surface_form	Hořovicko
+14247_1	part_of_entity	FK Hořovicko
+14247_2	is_in_sentence	sentence_14247
+14247_2	ROOT	14247_2
+14247_2	has_surface_form	is
+14247_3	is_in_sentence	sentence_14247
+14247_3	det	14247_6
+14247_3	has_surface_form	a
+14247_6	is_in_sentence	sentence_14247
+14247_6	attr	14247_2
+14247_6	has_surface_form	club
+14247_4	is_in_sentence	sentence_14247
+14247_4	compound	14247_6
+14247_4	has_surface_form	Czech
+14247_5	is_in_sentence	sentence_14247
+14247_5	compound	14247_6
+14247_5	has_surface_form	football
+14247_7	is_in_sentence	sentence_14247
+14247_7	acl	14247_6
+14247_7	has_surface_form	located
+14247_8	is_in_sentence	sentence_14247
+14247_8	prep	14247_7
+14247_8	has_surface_form	in
+14247_9	is_in_sentence	sentence_14247
+14247_9	pobj	14247_8
+14247_9	has_surface_form	Hořovice
+14247_10	is_in_sentence	sentence_14247
+14247_10	punct	14247_2
+14247_10	has_surface_form	.
+14247_11	is_in_sentence	sentence_14247
+14247_11	compound	14247_12
+14247_11	has_surface_form	Pavel
+14247_11	part_of_entity	Pavel Trávník
+14247_12	is_in_sentence	sentence_14247
+14247_12	nsubjpass	14247_14
+14247_12	has_surface_form	Trávník
+14247_12	part_of_entity	Pavel Trávník
+14247_14	is_in_sentence	sentence_14247
+14247_14	ROOT	14247_14
+14247_14	has_surface_form	announced
+14247_13	is_in_sentence	sentence_14247
+14247_13	auxpass	14247_14
+14247_13	has_surface_form	was
+14247_15	is_in_sentence	sentence_14247
+14247_15	prep	14247_14
+14247_15	has_surface_form	as
+14247_16	is_in_sentence	sentence_14247
+14247_16	poss	14247_18
+14247_16	has_surface_form	their
+14247_18	is_in_sentence	sentence_14247
+14247_18	pobj	14247_15
+14247_18	has_surface_form	coach
+14247_17	is_in_sentence	sentence_14247
+14247_17	amod	14247_18
+14247_17	has_surface_form	new
+14247_19	is_in_sentence	sentence_14247
+14247_19	prep	14247_18
+14247_19	has_surface_form	on
+14247_20	is_in_sentence	sentence_14247
+14247_20	pobj	14247_19
+14247_20	has_surface_form	11
+14247_21	is_in_sentence	sentence_14247
+14247_21	pobj	14247_19
+14247_21	has_surface_form	July
+14247_22	is_in_sentence	sentence_14247
+14247_22	nummod	14247_21
+14247_22	has_surface_form	2011
+14247_23	is_in_sentence	sentence_14247
+14247_23	punct	14247_14
+14247_23	has_surface_form	,
+14247_24	is_in_sentence	sentence_14247
+14247_24	advcl	14247_14
+14247_24	has_surface_form	replacing
+14247_25	is_in_sentence	sentence_14247
+14247_25	compound	14247_26
+14247_25	has_surface_form	Jan
+14247_26	is_in_sentence	sentence_14247
+14247_26	dobj	14247_24
+14247_26	has_surface_form	Berger
+14247_27	is_in_sentence	sentence_14247
+14247_27	punct	14247_14
+14247_27	has_surface_form	.
+14247_28	is_in_sentence	sentence_14247
+14247_28	dep	14247_28
+14247_28	has_surface_form	
+FK Hořovicko	surface_form	FK Hořovicko
+FK Hořovicko	org-leader	Pavel Trávník
+Pavel Trávník	surface_form	Pavel Trávník

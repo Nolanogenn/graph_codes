@@ -1,0 +1,88 @@
+30970_0	is_in_sentence	sentence_30970
+30970_0	punct	30970_24
+30970_0	has_surface_form	,
+30970_24	is_in_sentence	sentence_30970
+30970_24	ROOT	30970_24
+30970_24	has_surface_form	Kissam
+30970_1	is_in_sentence	sentence_30970
+30970_1	nsubj	30970_0
+30970_1	has_surface_form	Orange
+30970_2	is_in_sentence	sentence_30970
+30970_2	punct	30970_1
+30970_2	has_surface_form	,
+30970_3	is_in_sentence	sentence_30970
+30970_3	appos	30970_1
+30970_3	has_surface_form	Texas
+30970_4	is_in_sentence	sentence_30970
+30970_4	punct	30970_1
+30970_4	has_surface_form	;
+30970_5	is_in_sentence	sentence_30970
+30970_5	acl	30970_1
+30970_5	has_surface_form	sponsored
+30970_6	is_in_sentence	sentence_30970
+30970_6	agent	30970_5
+30970_6	has_surface_form	by
+30970_7	is_in_sentence	sentence_30970
+30970_7	compound	30970_8
+30970_7	has_surface_form	Mrs.
+30970_7	part_of_entity	Mrs. Thomas
+30970_8	is_in_sentence	sentence_30970
+30970_8	pobj	30970_6
+30970_8	has_surface_form	Thomas
+30970_8	part_of_entity	Mrs. Thomas
+30970_9	is_in_sentence	sentence_30970
+30970_9	punct	30970_8
+30970_9	has_surface_form	,
+30970_10	is_in_sentence	sentence_30970
+30970_10	appos	30970_8
+30970_10	has_surface_form	daughter
+30970_11	is_in_sentence	sentence_30970
+30970_11	prep	30970_10
+30970_11	has_surface_form	of
+30970_12	is_in_sentence	sentence_30970
+30970_12	compound	30970_13
+30970_12	has_surface_form	Captain
+30970_12	part_of_entity	Captain Howard
+30970_13	is_in_sentence	sentence_30970
+30970_13	pobj	30970_11
+30970_13	has_surface_form	Howard
+30970_13	part_of_entity	Captain Howard
+30970_14	is_in_sentence	sentence_30970
+30970_14	punct	30970_1
+30970_14	has_surface_form	;
+30970_15	is_in_sentence	sentence_30970
+30970_15	cc	30970_1
+30970_15	has_surface_form	and
+30970_16	is_in_sentence	sentence_30970
+30970_16	conj	30970_1
+30970_16	has_surface_form	commissioned
+30970_17	is_in_sentence	sentence_30970
+30970_17	dobj	30970_16
+30970_17	has_surface_form	29
+30970_18	is_in_sentence	sentence_30970
+30970_18	npadvmod	30970_16
+30970_18	has_surface_form	July
+30970_19	is_in_sentence	sentence_30970
+30970_19	nummod	30970_18
+30970_19	has_surface_form	1943
+30970_20	is_in_sentence	sentence_30970
+30970_20	punct	30970_16
+30970_20	has_surface_form	,
+30970_21	is_in_sentence	sentence_30970
+30970_21	compound	30970_22
+30970_21	has_surface_form	Lieutenant
+30970_22	is_in_sentence	sentence_30970
+30970_22	compound	30970_24
+30970_22	has_surface_form	Commander
+30970_23	is_in_sentence	sentence_30970
+30970_23	compound	30970_24
+30970_23	has_surface_form	G.D.
+30970_25	is_in_sentence	sentence_30970
+30970_25	punct	30970_24
+30970_25	has_surface_form	.
+30970_26	is_in_sentence	sentence_30970
+30970_26	dep	30970_26
+30970_26	has_surface_form	
+Mrs. Thomas	surface_form	Mrs. Thomas
+Mrs. Thomas	has-parent	Captain Howard
+Captain Howard	surface_form	Captain Howard

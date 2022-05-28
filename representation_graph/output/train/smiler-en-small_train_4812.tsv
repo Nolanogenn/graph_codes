@@ -1,0 +1,69 @@
+4811_0	is_in_sentence	sentence_4811
+4811_0	compound	4811_1
+4811_0	has_surface_form	Jai
+4811_0	part_of_entity	Jai Prakash University
+4811_1	is_in_sentence	sentence_4811
+4811_1	compound	4811_2
+4811_1	has_surface_form	Prakash
+4811_1	part_of_entity	Jai Prakash University
+4811_2	is_in_sentence	sentence_4811
+4811_2	nsubj	4811_6
+4811_2	has_surface_form	University
+4811_2	part_of_entity	Jai Prakash University
+4811_6	is_in_sentence	sentence_4811
+4811_6	ROOT	4811_6
+4811_6	has_surface_form	is
+4811_3	is_in_sentence	sentence_4811
+4811_3	punct	4811_2
+4811_3	has_surface_form	(
+4811_4	is_in_sentence	sentence_4811
+4811_4	appos	4811_2
+4811_4	has_surface_form	JPU
+4811_5	is_in_sentence	sentence_4811
+4811_5	punct	4811_2
+4811_5	has_surface_form	)
+4811_7	is_in_sentence	sentence_4811
+4811_7	attr	4811_6
+4811_7	has_surface_form	one
+4811_8	is_in_sentence	sentence_4811
+4811_8	prep	4811_7
+4811_8	has_surface_form	of
+4811_9	is_in_sentence	sentence_4811
+4811_9	det	4811_12
+4811_9	has_surface_form	the
+4811_12	is_in_sentence	sentence_4811
+4811_12	pobj	4811_8
+4811_12	has_surface_form	universities
+4811_10	is_in_sentence	sentence_4811
+4811_10	compound	4811_12
+4811_10	has_surface_form	state
+4811_11	is_in_sentence	sentence_4811
+4811_11	compound	4811_12
+4811_11	has_surface_form	premier
+4811_13	is_in_sentence	sentence_4811
+4811_13	prep	4811_12
+4811_13	has_surface_form	in
+4811_14	is_in_sentence	sentence_4811
+4811_14	pobj	4811_13
+4811_14	has_surface_form	Chhapra
+4811_15	is_in_sentence	sentence_4811
+4811_15	punct	4811_14
+4811_15	has_surface_form	,
+4811_16	is_in_sentence	sentence_4811
+4811_16	conj	4811_14
+4811_16	has_surface_form	Bihar
+4811_17	is_in_sentence	sentence_4811
+4811_17	punct	4811_16
+4811_17	has_surface_form	,
+4811_18	is_in_sentence	sentence_4811
+4811_18	appos	4811_14
+4811_18	is_entity	India
+India	surface_form	India
+4811_19	is_in_sentence	sentence_4811
+4811_19	punct	4811_6
+4811_19	has_surface_form	.
+4811_20	is_in_sentence	sentence_4811
+4811_20	dep	4811_6
+4811_20	has_surface_form	
+Jai Prakash University	surface_form	Jai Prakash University
+Jai Prakash University	is-where	India

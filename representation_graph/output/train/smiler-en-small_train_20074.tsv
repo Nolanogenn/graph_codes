@@ -1,0 +1,64 @@
+20073_0	is_in_sentence	sentence_20073
+20073_0	compound	20073_1
+20073_0	has_surface_form	Gregg
+20073_0	part_of_entity	Gregg Brandon
+20073_1	is_in_sentence	sentence_20073
+20073_1	nsubj	20073_9
+20073_1	has_surface_form	Brandon
+20073_1	part_of_entity	Gregg Brandon
+20073_9	is_in_sentence	sentence_20073
+20073_9	ROOT	20073_9
+20073_9	has_surface_form	is
+20073_2	is_in_sentence	sentence_20073
+20073_2	punct	20073_1
+20073_2	has_surface_form	(
+20073_3	is_in_sentence	sentence_20073
+20073_3	acl	20073_1
+20073_3	has_surface_form	born
+20073_4	is_in_sentence	sentence_20073
+20073_4	npadvmod	20073_3
+20073_4	has_surface_form	February
+20073_5	is_in_sentence	sentence_20073
+20073_5	nummod	20073_4
+20073_5	has_surface_form	29
+20073_6	is_in_sentence	sentence_20073
+20073_6	punct	20073_4
+20073_6	has_surface_form	,
+20073_7	is_in_sentence	sentence_20073
+20073_7	nummod	20073_4
+20073_7	has_surface_form	1956
+20073_8	is_in_sentence	sentence_20073
+20073_8	punct	20073_1
+20073_8	has_surface_form	)
+20073_10	is_in_sentence	sentence_20073
+20073_10	det	20073_13
+20073_10	has_surface_form	an
+20073_13	is_in_sentence	sentence_20073
+20073_13	attr	20073_9
+20073_13	has_surface_form	coach
+20073_13	part_of_entity	football coach
+20073_11	is_in_sentence	sentence_20073
+20073_11	amod	20073_13
+20073_11	has_surface_form	American
+20073_12	is_in_sentence	sentence_20073
+20073_12	compound	20073_13
+20073_12	has_surface_form	football
+20073_12	part_of_entity	football coach
+20073_14	is_in_sentence	sentence_20073
+20073_14	cc	20073_13
+20073_14	has_surface_form	and
+20073_15	is_in_sentence	sentence_20073
+20073_15	amod	20073_16
+20073_15	has_surface_form	former
+20073_16	is_in_sentence	sentence_20073
+20073_16	conj	20073_13
+20073_16	has_surface_form	player
+20073_17	is_in_sentence	sentence_20073
+20073_17	punct	20073_9
+20073_17	has_surface_form	.
+20073_18	is_in_sentence	sentence_20073
+20073_18	dep	20073_18
+20073_18	has_surface_form	
+Gregg Brandon	surface_form	Gregg Brandon
+Gregg Brandon	has-type	football coach
+football coach	surface_form	football coach

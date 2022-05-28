@@ -1,0 +1,58 @@
+14440_0	is_in_sentence	sentence_14440
+14440_0	compound	14440_1
+14440_0	has_surface_form	Sam
+14440_0	part_of_entity	Sam Michel
+14440_1	is_in_sentence	sentence_14440
+14440_1	nsubj	14440_2
+14440_1	has_surface_form	Michel
+14440_1	part_of_entity	Sam Michel
+14440_2	is_in_sentence	sentence_14440
+14440_2	ROOT	14440_2
+14440_2	has_surface_form	is
+14440_3	is_in_sentence	sentence_14440
+14440_3	det	14440_5
+14440_3	has_surface_form	an
+14440_5	is_in_sentence	sentence_14440
+14440_5	attr	14440_2
+14440_5	has_surface_form	author
+14440_4	is_in_sentence	sentence_14440
+14440_4	amod	14440_5
+14440_4	has_surface_form	American
+14440_6	is_in_sentence	sentence_14440
+14440_6	punct	14440_2
+14440_6	has_surface_form	.
+14440_7	is_in_sentence	sentence_14440
+14440_7	nsubj	14440_8
+14440_7	has_surface_form	He
+14440_8	is_in_sentence	sentence_14440
+14440_8	ROOT	14440_8
+14440_8	has_surface_form	is
+14440_9	is_in_sentence	sentence_14440
+14440_9	acomp	14440_8
+14440_9	has_surface_form	married
+14440_10	is_in_sentence	sentence_14440
+14440_10	prep	14440_9
+14440_10	has_surface_form	to
+14440_11	is_in_sentence	sentence_14440
+14440_11	det	14440_12
+14440_11	has_surface_form	the
+14440_12	is_in_sentence	sentence_14440
+14440_12	pobj	14440_10
+14440_12	has_surface_form	writer
+14440_13	is_in_sentence	sentence_14440
+14440_13	compound	14440_14
+14440_13	has_surface_form	Noy
+14440_13	part_of_entity	Noy Holland
+14440_14	is_in_sentence	sentence_14440
+14440_14	appos	14440_12
+14440_14	has_surface_form	Holland
+14440_14	part_of_entity	Noy Holland
+14440_15	is_in_sentence	sentence_14440
+14440_15	punct	14440_8
+14440_15	has_surface_form	.
+14440_16	is_in_sentence	sentence_14440
+14440_16	dep	14440_16
+14440_16	has_surface_form	
+Sam Michel	surface_form	Sam Michel
+Sam Michel	has-spouse	Noy Holland
+Noy Holland	surface_form	Noy Holland

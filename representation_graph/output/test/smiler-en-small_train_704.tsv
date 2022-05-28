@@ -1,0 +1,50 @@
+703_0	is_in_sentence	sentence_703
+703_0	det	703_2
+703_0	has_surface_form	The
+703_2	is_in_sentence	sentence_703
+703_2	nsubj	703_3
+703_2	has_surface_form	Burn
+703_2	part_of_entity	Boise Burn
+703_1	is_in_sentence	sentence_703
+703_1	compound	703_2
+703_1	is_entity	Boise
+703_1	part_of_entity	Boise Burn
+Boise	surface_form	Boise
+703_3	is_in_sentence	sentence_703
+703_3	ROOT	703_3
+703_3	has_surface_form	was
+703_4	is_in_sentence	sentence_703
+703_4	det	703_7
+703_4	has_surface_form	an
+703_7	is_in_sentence	sentence_703
+703_7	attr	703_3
+703_7	has_surface_form	team
+703_5	is_in_sentence	sentence_703
+703_5	compound	703_6
+703_5	has_surface_form	arena
+703_6	is_in_sentence	sentence_703
+703_6	compound	703_7
+703_6	has_surface_form	football
+703_8	is_in_sentence	sentence_703
+703_8	acl	703_7
+703_8	has_surface_form	based
+703_9	is_in_sentence	sentence_703
+703_9	prep	703_8
+703_9	has_surface_form	in
+703_10	is_in_sentence	sentence_703
+703_10	pobj	703_9
+703_10	is_entity	Boise
+703_11	is_in_sentence	sentence_703
+703_11	punct	703_10
+703_11	has_surface_form	,
+703_12	is_in_sentence	sentence_703
+703_12	appos	703_10
+703_12	has_surface_form	Idaho
+703_13	is_in_sentence	sentence_703
+703_13	punct	703_3
+703_13	has_surface_form	.
+703_14	is_in_sentence	sentence_703
+703_14	dep	703_14
+703_14	has_surface_form	
+Boise Burn	surface_form	Boise Burn
+Boise Burn	is-where	Boise

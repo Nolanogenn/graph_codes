@@ -1,0 +1,76 @@
+16085_0	is_in_sentence	sentence_16085
+16085_0	compound	16085_1
+16085_0	has_surface_form	Repeat
+16085_0	part_of_entity	Repeat Dive
+16085_1	is_in_sentence	sentence_16085
+16085_1	nsubj	16085_11
+16085_1	has_surface_form	Dive
+16085_1	part_of_entity	Repeat Dive
+16085_11	is_in_sentence	sentence_16085
+16085_11	ROOT	16085_11
+16085_11	has_surface_form	is
+16085_2	is_in_sentence	sentence_16085
+16085_2	punct	16085_3
+16085_2	has_surface_form	(
+16085_3	is_in_sentence	sentence_16085
+16085_3	appos	16085_1
+16085_3	has_surface_form	Hebrew
+16085_4	is_in_sentence	sentence_16085
+16085_4	punct	16085_3
+16085_4	has_surface_form	:
+16085_5	is_in_sentence	sentence_16085
+16085_5	advmod	16085_6
+16085_5	has_surface_form	צלילה
+16085_6	is_in_sentence	sentence_16085
+16085_6	appos	16085_1
+16085_6	has_surface_form	חוזרת‎
+16085_7	is_in_sentence	sentence_16085
+16085_7	punct	16085_6
+16085_7	has_surface_form	,
+16085_8	is_in_sentence	sentence_16085
+16085_8	compound	16085_9
+16085_8	has_surface_form	Tzlila
+16085_9	is_in_sentence	sentence_16085
+16085_9	appos	16085_6
+16085_9	has_surface_form	Chozeret
+16085_10	is_in_sentence	sentence_16085
+16085_10	punct	16085_6
+16085_10	has_surface_form	)
+16085_12	is_in_sentence	sentence_16085
+16085_12	det	16085_16
+16085_12	has_surface_form	a
+16085_16	is_in_sentence	sentence_16085
+16085_16	attr	16085_11
+16085_16	has_surface_form	film
+16085_13	is_in_sentence	sentence_16085
+16085_13	nummod	16085_16
+16085_13	has_surface_form	1982
+16085_14	is_in_sentence	sentence_16085
+16085_14	amod	16085_16
+16085_14	has_surface_form	Israeli
+16085_15	is_in_sentence	sentence_16085
+16085_15	compound	16085_16
+16085_15	has_surface_form	drama
+16085_17	is_in_sentence	sentence_16085
+16085_17	acl	16085_16
+16085_17	has_surface_form	directed
+16085_18	is_in_sentence	sentence_16085
+16085_18	agent	16085_17
+16085_18	has_surface_form	by
+16085_19	is_in_sentence	sentence_16085
+16085_19	compound	16085_20
+16085_19	has_surface_form	Shimon
+16085_19	part_of_entity	Shimon Dotan
+16085_20	is_in_sentence	sentence_16085
+16085_20	pobj	16085_18
+16085_20	has_surface_form	Dotan
+16085_20	part_of_entity	Shimon Dotan
+16085_21	is_in_sentence	sentence_16085
+16085_21	punct	16085_11
+16085_21	has_surface_form	.
+16085_22	is_in_sentence	sentence_16085
+16085_22	dep	16085_22
+16085_22	has_surface_form	
+Repeat Dive	surface_form	Repeat Dive
+Repeat Dive	movie-has-director	Shimon Dotan
+Shimon Dotan	surface_form	Shimon Dotan

@@ -1,0 +1,76 @@
+1969_0	is_in_sentence	sentence_1969
+1969_0	compound	1969_1
+1969_0	has_surface_form	Algona
+1969_0	part_of_entity	Algona Road
+1969_1	is_in_sentence	sentence_1969
+1969_1	nsubj	1969_2
+1969_1	has_surface_form	Road
+1969_1	part_of_entity	Algona Road
+1969_2	is_in_sentence	sentence_1969
+1969_2	ROOT	1969_2
+1969_2	has_surface_form	is
+1969_3	is_in_sentence	sentence_1969
+1969_3	det	1969_6
+1969_3	has_surface_form	a
+1969_6	is_in_sentence	sentence_1969
+1969_6	attr	1969_2
+1969_6	has_surface_form	road
+1969_6	part_of_entity	link road
+1969_4	is_in_sentence	sentence_1969
+1969_4	amod	1969_6
+1969_4	has_surface_form	major
+1969_5	is_in_sentence	sentence_1969
+1969_5	compound	1969_6
+1969_5	has_surface_form	link
+1969_5	part_of_entity	link road
+1969_7	is_in_sentence	sentence_1969
+1969_7	punct	1969_2
+1969_7	has_surface_form	,
+1969_8	is_in_sentence	sentence_1969
+1969_8	advcl	1969_2
+1969_8	has_surface_form	connecting
+1969_9	is_in_sentence	sentence_1969
+1969_9	det	1969_10
+1969_9	has_surface_form	the
+1969_10	is_in_sentence	sentence_1969
+1969_10	dobj	1969_8
+1969_10	has_surface_form	residents
+1969_11	is_in_sentence	sentence_1969
+1969_11	prep	1969_10
+1969_11	has_surface_form	of
+1969_12	is_in_sentence	sentence_1969
+1969_12	compound	1969_13
+1969_12	has_surface_form	Blackmans
+1969_13	is_in_sentence	sentence_1969
+1969_13	pobj	1969_11
+1969_13	has_surface_form	Bay
+1969_14	is_in_sentence	sentence_1969
+1969_14	prep	1969_8
+1969_14	has_surface_form	to
+1969_15	is_in_sentence	sentence_1969
+1969_15	pobj	1969_14
+1969_15	has_surface_form	Kingston
+1969_16	is_in_sentence	sentence_1969
+1969_16	prep	1969_8
+1969_16	has_surface_form	in
+1969_17	is_in_sentence	sentence_1969
+1969_17	compound	1969_18
+1969_17	has_surface_form	Southern
+1969_18	is_in_sentence	sentence_1969
+1969_18	pobj	1969_16
+1969_18	has_surface_form	Tasmania
+1969_19	is_in_sentence	sentence_1969
+1969_19	punct	1969_18
+1969_19	has_surface_form	,
+1969_20	is_in_sentence	sentence_1969
+1969_20	appos	1969_18
+1969_20	has_surface_form	Australia
+1969_21	is_in_sentence	sentence_1969
+1969_21	punct	1969_2
+1969_21	has_surface_form	.
+1969_22	is_in_sentence	sentence_1969
+1969_22	dep	1969_2
+1969_22	has_surface_form	
+Algona Road	surface_form	Algona Road
+Algona Road	has-type	link road
+link road	surface_form	link road

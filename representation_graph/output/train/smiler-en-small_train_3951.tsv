@@ -1,0 +1,44 @@
+3950_0	is_in_sentence	sentence_3950
+3950_0	compound	3950_1
+3950_0	has_surface_form	Lorenzo
+3950_0	part_of_entity	Lorenzo Campeggio
+3950_1	is_in_sentence	sentence_3950
+3950_1	nsubj	3950_5
+3950_1	has_surface_form	Campeggio
+3950_1	part_of_entity	Lorenzo Campeggio
+3950_5	is_in_sentence	sentence_3950
+3950_5	ROOT	3950_5
+3950_5	has_surface_form	was
+3950_2	is_in_sentence	sentence_3950
+3950_2	punct	3950_1
+3950_2	has_surface_form	(
+3950_3	is_in_sentence	sentence_3950
+3950_3	appos	3950_1
+3950_3	has_surface_form	1474–1539
+3950_4	is_in_sentence	sentence_3950
+3950_4	punct	3950_1
+3950_4	has_surface_form	)
+3950_6	is_in_sentence	sentence_3950
+3950_6	det	3950_8
+3950_6	has_surface_form	an
+3950_8	is_in_sentence	sentence_3950
+3950_8	attr	3950_5
+3950_8	is_entity	cardinal
+3950_7	is_in_sentence	sentence_3950
+3950_7	amod	3950_8
+3950_7	has_surface_form	Italian
+cardinal	surface_form	cardinal
+3950_9	is_in_sentence	sentence_3950
+3950_9	cc	3950_8
+3950_9	has_surface_form	and
+3950_10	is_in_sentence	sentence_3950
+3950_10	conj	3950_8
+3950_10	has_surface_form	politician
+3950_11	is_in_sentence	sentence_3950
+3950_11	punct	3950_5
+3950_11	has_surface_form	.
+3950_12	is_in_sentence	sentence_3950
+3950_12	dep	3950_12
+3950_12	has_surface_form	
+Lorenzo Campeggio	surface_form	Lorenzo Campeggio
+Lorenzo Campeggio	has-type	cardinal

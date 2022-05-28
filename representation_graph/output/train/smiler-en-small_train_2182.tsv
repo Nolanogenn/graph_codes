@@ -1,0 +1,55 @@
+2181_0	is_in_sentence	sentence_2181
+2181_0	compound	2181_1
+2181_0	has_surface_form	Dennis
+2181_0	part_of_entity	Dennis Parker
+2181_1	is_in_sentence	sentence_2181
+2181_1	nsubj	2181_9
+2181_1	has_surface_form	Parker
+2181_1	part_of_entity	Dennis Parker
+2181_9	is_in_sentence	sentence_2181
+2181_9	ROOT	2181_9
+2181_9	has_surface_form	is
+2181_2	is_in_sentence	sentence_2181
+2181_2	punct	2181_1
+2181_2	has_surface_form	(
+2181_3	is_in_sentence	sentence_2181
+2181_3	acl	2181_1
+2181_3	has_surface_form	born
+2181_4	is_in_sentence	sentence_2181
+2181_4	npadvmod	2181_3
+2181_4	has_surface_form	March
+2181_5	is_in_sentence	sentence_2181
+2181_5	nummod	2181_4
+2181_5	has_surface_form	23
+2181_6	is_in_sentence	sentence_2181
+2181_6	punct	2181_4
+2181_6	has_surface_form	,
+2181_7	is_in_sentence	sentence_2181
+2181_7	nummod	2181_4
+2181_7	has_surface_form	1950
+2181_8	is_in_sentence	sentence_2181
+2181_8	punct	2181_1
+2181_8	has_surface_form	)
+2181_10	is_in_sentence	sentence_2181
+2181_10	det	2181_13
+2181_10	has_surface_form	an
+2181_13	is_in_sentence	sentence_2181
+2181_13	attr	2181_9
+2181_13	has_surface_form	coach
+2181_13	part_of_entity	football coach
+2181_11	is_in_sentence	sentence_2181
+2181_11	amod	2181_13
+2181_11	has_surface_form	American
+2181_12	is_in_sentence	sentence_2181
+2181_12	compound	2181_13
+2181_12	has_surface_form	football
+2181_12	part_of_entity	football coach
+2181_14	is_in_sentence	sentence_2181
+2181_14	punct	2181_9
+2181_14	has_surface_form	.
+2181_15	is_in_sentence	sentence_2181
+2181_15	dep	2181_15
+2181_15	has_surface_form	
+Dennis Parker	surface_form	Dennis Parker
+Dennis Parker	has-type	football coach
+football coach	surface_form	football coach

@@ -1,0 +1,79 @@
+20244_0	is_in_sentence	sentence_20244
+20244_0	det	20244_2
+20244_0	has_surface_form	The
+20244_2	is_in_sentence	sentence_20244
+20244_2	nsubj	20244_3
+20244_2	has_surface_form	Phloom
+20244_2	part_of_entity	Zoom Phloom
+20244_1	is_in_sentence	sentence_20244
+20244_1	compound	20244_2
+20244_1	has_surface_form	Zoom
+20244_1	part_of_entity	Zoom Phloom
+20244_3	is_in_sentence	sentence_20244
+20244_3	ROOT	20244_3
+20244_3	has_surface_form	is
+20244_4	is_in_sentence	sentence_20244
+20244_4	det	20244_6
+20244_4	has_surface_form	a
+20244_6	is_in_sentence	sentence_20244
+20244_6	attr	20244_3
+20244_6	has_surface_form	flume
+20244_5	is_in_sentence	sentence_20244
+20244_5	compound	20244_6
+20244_5	has_surface_form	log
+20244_7	is_in_sentence	sentence_20244
+20244_7	acl	20244_6
+20244_7	has_surface_form	designed
+20244_8	is_in_sentence	sentence_20244
+20244_8	agent	20244_7
+20244_8	has_surface_form	by
+20244_9	is_in_sentence	sentence_20244
+20244_9	compound	20244_10
+20244_9	has_surface_form	Hopkins
+20244_10	is_in_sentence	sentence_20244
+20244_10	pobj	20244_8
+20244_10	has_surface_form	Rides
+20244_11	is_in_sentence	sentence_20244
+20244_11	punct	20244_3
+20244_11	has_surface_form	.
+20244_12	is_in_sentence	sentence_20244
+20244_12	nsubj	20244_13
+20244_12	has_surface_form	It
+20244_13	is_in_sentence	sentence_20244
+20244_13	ROOT	20244_13
+20244_13	has_surface_form	goes
+20244_14	is_in_sentence	sentence_20244
+20244_14	quantmod	20244_16
+20244_14	has_surface_form	up
+20244_16	is_in_sentence	sentence_20244
+20244_16	nummod	20244_17
+20244_16	has_surface_form	60
+20244_16	part_of_entity	60 feet
+20244_15	is_in_sentence	sentence_20244
+20244_15	quantmod	20244_16
+20244_15	has_surface_form	to
+20244_17	is_in_sentence	sentence_20244
+20244_17	dobj	20244_13
+20244_17	has_surface_form	feet
+20244_17	part_of_entity	60 feet
+20244_18	is_in_sentence	sentence_20244
+20244_18	prep	20244_17
+20244_18	has_surface_form	in
+20244_19	is_in_sentence	sentence_20244
+20244_19	det	20244_21
+20244_19	has_surface_form	the
+20244_21	is_in_sentence	sentence_20244
+20244_21	pobj	20244_18
+20244_21	has_surface_form	Boardwalk
+20244_20	is_in_sentence	sentence_20244
+20244_20	compound	20244_21
+20244_20	has_surface_form	Wildwood
+20244_22	is_in_sentence	sentence_20244
+20244_22	punct	20244_13
+20244_22	has_surface_form	.
+20244_23	is_in_sentence	sentence_20244
+20244_23	dep	20244_23
+20244_23	has_surface_form	
+Zoom Phloom	surface_form	Zoom Phloom
+Zoom Phloom	has-height	60 feet
+60 feet	surface_form	60 feet

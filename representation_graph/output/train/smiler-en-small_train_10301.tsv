@@ -1,0 +1,56 @@
+10300_0	is_in_sentence	sentence_10300
+10300_0	det	10300_1
+10300_0	has_surface_form	A
+10300_1	is_in_sentence	sentence_10300
+10300_1	nsubj	10300_6
+10300_1	has_surface_form	Place
+10300_6	is_in_sentence	sentence_10300
+10300_6	ROOT	10300_6
+10300_6	has_surface_form	is
+10300_2	is_in_sentence	sentence_10300
+10300_2	prep	10300_1
+10300_2	has_surface_form	of
+10300_3	is_in_sentence	sentence_10300
+10300_3	poss	10300_5
+10300_3	has_surface_form	One
+10300_5	is_in_sentence	sentence_10300
+10300_5	pobj	10300_2
+10300_5	has_surface_form	Own
+10300_4	is_in_sentence	sentence_10300
+10300_4	case	10300_3
+10300_4	has_surface_form	's
+10300_7	is_in_sentence	sentence_10300
+10300_7	det	10300_10
+10300_7	has_surface_form	a
+10300_10	is_in_sentence	sentence_10300
+10300_10	attr	10300_6
+10300_10	has_surface_form	film
+10300_8	is_in_sentence	sentence_10300
+10300_8	nummod	10300_10
+10300_8	has_surface_form	1945
+10300_9	is_in_sentence	sentence_10300
+10300_9	amod	10300_10
+10300_9	has_surface_form	British
+10300_11	is_in_sentence	sentence_10300
+10300_11	acl	10300_10
+10300_11	has_surface_form	directed
+10300_12	is_in_sentence	sentence_10300
+10300_12	agent	10300_11
+10300_12	has_surface_form	by
+10300_13	is_in_sentence	sentence_10300
+10300_13	compound	10300_14
+10300_13	has_surface_form	Bernard
+10300_13	part_of_entity	Bernard Knowles
+10300_14	is_in_sentence	sentence_10300
+10300_14	pobj	10300_12
+10300_14	has_surface_form	Knowles
+10300_14	part_of_entity	Bernard Knowles
+10300_15	is_in_sentence	sentence_10300
+10300_15	punct	10300_6
+10300_15	has_surface_form	.
+10300_16	is_in_sentence	sentence_10300
+10300_16	dep	10300_6
+10300_16	has_surface_form	
+A Place of One's Own	surface_form	A Place of One's Own
+A Place of One's Own	movie-has-director	Bernard Knowles
+Bernard Knowles	surface_form	Bernard Knowles

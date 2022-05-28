@@ -1,0 +1,98 @@
+5801_0	is_in_sentence	sentence_5801
+5801_0	dep	5801_3
+5801_0	has_surface_form	Totò
+5801_0	part_of_entity	Totò e Peppino divisi a Berlino
+5801_3	is_in_sentence	sentence_5801
+5801_3	ccomp	5801_17
+5801_3	has_surface_form	divisi
+5801_3	part_of_entity	Totò e Peppino divisi a Berlino
+5801_1	is_in_sentence	sentence_5801
+5801_1	compound	5801_2
+5801_1	has_surface_form	e
+5801_1	part_of_entity	Totò e Peppino divisi a Berlino
+5801_2	is_in_sentence	sentence_5801
+5801_2	nsubj	5801_3
+5801_2	has_surface_form	Peppino
+5801_2	part_of_entity	Totò e Peppino divisi a Berlino
+5801_17	is_in_sentence	sentence_5801
+5801_17	ROOT	5801_17
+5801_17	has_surface_form	is
+5801_4	is_in_sentence	sentence_5801
+5801_4	det	5801_5
+5801_4	has_surface_form	a
+5801_4	part_of_entity	Totò e Peppino divisi a Berlino
+5801_5	is_in_sentence	sentence_5801
+5801_5	dobj	5801_3
+5801_5	has_surface_form	Berlino
+5801_5	part_of_entity	Totò e Peppino divisi a Berlino
+5801_6	is_in_sentence	sentence_5801
+5801_6	punct	5801_3
+5801_6	has_surface_form	,
+5801_7	is_in_sentence	sentence_5801
+5801_7	advmod	5801_8
+5801_7	has_surface_form	internationally
+5801_8	is_in_sentence	sentence_5801
+5801_8	dep	5801_3
+5801_8	has_surface_form	released
+5801_9	is_in_sentence	sentence_5801
+5801_9	prep	5801_8
+5801_9	has_surface_form	as
+5801_10	is_in_sentence	sentence_5801
+5801_10	pobj	5801_9
+5801_10	has_surface_form	Toto
+5801_11	is_in_sentence	sentence_5801
+5801_11	cc	5801_10
+5801_11	has_surface_form	and
+5801_12	is_in_sentence	sentence_5801
+5801_12	conj	5801_10
+5801_12	has_surface_form	Peppino
+5801_13	is_in_sentence	sentence_5801
+5801_13	advcl	5801_8
+5801_13	has_surface_form	Divided
+5801_14	is_in_sentence	sentence_5801
+5801_14	prep	5801_13
+5801_14	has_surface_form	in
+5801_15	is_in_sentence	sentence_5801
+5801_15	pobj	5801_14
+5801_15	has_surface_form	Berlin
+5801_16	is_in_sentence	sentence_5801
+5801_16	punct	5801_17
+5801_16	has_surface_form	,
+5801_18	is_in_sentence	sentence_5801
+5801_18	det	5801_22
+5801_18	has_surface_form	a
+5801_22	is_in_sentence	sentence_5801
+5801_22	attr	5801_17
+5801_22	has_surface_form	film
+5801_19	is_in_sentence	sentence_5801
+5801_19	nummod	5801_22
+5801_19	has_surface_form	1962
+5801_20	is_in_sentence	sentence_5801
+5801_20	amod	5801_22
+5801_20	has_surface_form	Italian
+5801_21	is_in_sentence	sentence_5801
+5801_21	compound	5801_22
+5801_21	has_surface_form	comedy
+5801_23	is_in_sentence	sentence_5801
+5801_23	acl	5801_22
+5801_23	has_surface_form	directed
+5801_24	is_in_sentence	sentence_5801
+5801_24	agent	5801_23
+5801_24	has_surface_form	by
+5801_25	is_in_sentence	sentence_5801
+5801_25	compound	5801_26
+5801_25	has_surface_form	Giorgio
+5801_25	part_of_entity	Giorgio Bianchi
+5801_26	is_in_sentence	sentence_5801
+5801_26	pobj	5801_24
+5801_26	has_surface_form	Bianchi
+5801_26	part_of_entity	Giorgio Bianchi
+5801_27	is_in_sentence	sentence_5801
+5801_27	punct	5801_17
+5801_27	has_surface_form	.
+5801_28	is_in_sentence	sentence_5801
+5801_28	dep	5801_17
+5801_28	has_surface_form	
+Totò e Peppino divisi a Berlino	surface_form	Totò e Peppino divisi a Berlino
+Totò e Peppino divisi a Berlino	movie-has-director	Giorgio Bianchi
+Giorgio Bianchi	surface_form	Giorgio Bianchi

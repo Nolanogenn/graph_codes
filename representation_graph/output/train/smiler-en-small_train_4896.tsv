@@ -1,0 +1,80 @@
+4895_0	is_in_sentence	sentence_4895
+4895_0	compound	4895_1
+4895_0	has_surface_form	Mitch
+4895_0	part_of_entity	Mitch Buonaguro
+4895_1	is_in_sentence	sentence_4895
+4895_1	nsubj	4895_9
+4895_1	has_surface_form	Buonaguro
+4895_1	part_of_entity	Mitch Buonaguro
+4895_9	is_in_sentence	sentence_4895
+4895_9	ROOT	4895_9
+4895_9	has_surface_form	is
+4895_2	is_in_sentence	sentence_4895
+4895_2	punct	4895_1
+4895_2	has_surface_form	(
+4895_3	is_in_sentence	sentence_4895
+4895_3	acl	4895_1
+4895_3	has_surface_form	born
+4895_4	is_in_sentence	sentence_4895
+4895_4	npadvmod	4895_3
+4895_4	has_surface_form	December
+4895_5	is_in_sentence	sentence_4895
+4895_5	nummod	4895_4
+4895_5	has_surface_form	4
+4895_6	is_in_sentence	sentence_4895
+4895_6	punct	4895_4
+4895_6	has_surface_form	,
+4895_7	is_in_sentence	sentence_4895
+4895_7	nummod	4895_4
+4895_7	has_surface_form	1953
+4895_8	is_in_sentence	sentence_4895
+4895_8	punct	4895_1
+4895_8	has_surface_form	)
+4895_10	is_in_sentence	sentence_4895
+4895_10	det	4895_14
+4895_10	has_surface_form	an
+4895_14	is_in_sentence	sentence_4895
+4895_14	attr	4895_9
+4895_14	has_surface_form	coach
+4895_14	part_of_entity	college basketball coach
+4895_11	is_in_sentence	sentence_4895
+4895_11	amod	4895_14
+4895_11	has_surface_form	American
+4895_12	is_in_sentence	sentence_4895
+4895_12	compound	4895_13
+4895_12	has_surface_form	college
+4895_12	part_of_entity	college basketball coach
+4895_13	is_in_sentence	sentence_4895
+4895_13	compound	4895_14
+4895_13	has_surface_form	basketball
+4895_13	part_of_entity	college basketball coach
+4895_15	is_in_sentence	sentence_4895
+4895_15	cc	4895_14
+4895_15	has_surface_form	and
+4895_16	is_in_sentence	sentence_4895
+4895_16	amod	4895_18
+4895_16	has_surface_form	current
+4895_18	is_in_sentence	sentence_4895
+4895_18	conj	4895_14
+4895_18	has_surface_form	coach
+4895_17	is_in_sentence	sentence_4895
+4895_17	amod	4895_18
+4895_17	has_surface_form	assistant
+4895_19	is_in_sentence	sentence_4895
+4895_19	prep	4895_18
+4895_19	has_surface_form	at
+4895_20	is_in_sentence	sentence_4895
+4895_20	compound	4895_21
+4895_20	has_surface_form	Fairfield
+4895_21	is_in_sentence	sentence_4895
+4895_21	pobj	4895_19
+4895_21	has_surface_form	University
+4895_22	is_in_sentence	sentence_4895
+4895_22	punct	4895_9
+4895_22	has_surface_form	.
+4895_23	is_in_sentence	sentence_4895
+4895_23	dep	4895_9
+4895_23	has_surface_form	
+Mitch Buonaguro	surface_form	Mitch Buonaguro
+Mitch Buonaguro	has-type	college basketball coach
+college basketball coach	surface_form	college basketball coach

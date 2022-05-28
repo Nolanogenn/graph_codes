@@ -1,0 +1,49 @@
+23082_0	is_in_sentence	sentence_23082
+23082_0	det	23082_6
+23082_0	has_surface_form	The
+23082_6	is_in_sentence	sentence_23082
+23082_6	nsubjpass	23082_8
+23082_6	has_surface_form	engine
+23082_6	part_of_entity	beam engine
+23082_1	is_in_sentence	sentence_23082
+23082_1	amod	23082_6
+23082_1	has_surface_form	first
+23082_2	is_in_sentence	sentence_23082
+23082_2	npadvmod	23082_4
+23082_2	has_surface_form	steam
+23082_4	is_in_sentence	sentence_23082
+23082_4	amod	23082_6
+23082_4	has_surface_form	related
+23082_3	is_in_sentence	sentence_23082
+23082_3	punct	23082_4
+23082_3	has_surface_form	-
+23082_5	is_in_sentence	sentence_23082
+23082_5	compound	23082_6
+23082_5	has_surface_form	beam
+23082_5	part_of_entity	beam engine
+23082_8	is_in_sentence	sentence_23082
+23082_8	ROOT	23082_8
+23082_8	has_surface_form	developed
+23082_7	is_in_sentence	sentence_23082
+23082_7	auxpass	23082_8
+23082_7	has_surface_form	was
+23082_9	is_in_sentence	sentence_23082
+23082_9	agent	23082_8
+23082_9	has_surface_form	by
+23082_10	is_in_sentence	sentence_23082
+23082_10	compound	23082_11
+23082_10	has_surface_form	Thomas
+23082_10	part_of_entity	Thomas Newcomen
+23082_11	is_in_sentence	sentence_23082
+23082_11	pobj	23082_9
+23082_11	has_surface_form	Newcomen
+23082_11	part_of_entity	Thomas Newcomen
+23082_12	is_in_sentence	sentence_23082
+23082_12	punct	23082_8
+23082_12	has_surface_form	.
+23082_13	is_in_sentence	sentence_23082
+23082_13	dep	23082_13
+23082_13	has_surface_form	
+beam engine	surface_form	beam engine
+beam engine	invented-by	Thomas Newcomen
+Thomas Newcomen	surface_form	Thomas Newcomen

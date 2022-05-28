@@ -1,0 +1,62 @@
+14122_0	is_in_sentence	sentence_14122
+14122_0	compound	14122_1
+14122_0	has_surface_form	Gazmend
+14122_0	part_of_entity	Gazmend Oketa
+14122_1	is_in_sentence	sentence_14122
+14122_1	nsubj	14122_13
+14122_1	has_surface_form	Oketa
+14122_1	part_of_entity	Gazmend Oketa
+14122_13	is_in_sentence	sentence_14122
+14122_13	ROOT	14122_13
+14122_13	has_surface_form	is
+14122_2	is_in_sentence	sentence_14122
+14122_2	punct	14122_3
+14122_2	has_surface_form	(
+14122_3	is_in_sentence	sentence_14122
+14122_3	parataxis	14122_1
+14122_3	has_surface_form	born
+14122_4	is_in_sentence	sentence_14122
+14122_4	nummod	14122_5
+14122_4	has_surface_form	14
+14122_5	is_in_sentence	sentence_14122
+14122_5	npadvmod	14122_3
+14122_5	has_surface_form	December
+14122_6	is_in_sentence	sentence_14122
+14122_6	nummod	14122_5
+14122_6	has_surface_form	1968
+14122_7	is_in_sentence	sentence_14122
+14122_7	prep	14122_3
+14122_7	has_surface_form	in
+14122_8	is_in_sentence	sentence_14122
+14122_8	compound	14122_9
+14122_8	is_entity	Durrës
+14122_9	is_in_sentence	sentence_14122
+14122_9	pobj	14122_7
+14122_9	has_surface_form	District
+Durrës	surface_form	Durrës
+14122_10	is_in_sentence	sentence_14122
+14122_10	punct	14122_9
+14122_10	has_surface_form	,
+14122_11	is_in_sentence	sentence_14122
+14122_11	appos	14122_9
+14122_11	has_surface_form	Albania
+14122_12	is_in_sentence	sentence_14122
+14122_12	punct	14122_9
+14122_12	has_surface_form	)
+14122_14	is_in_sentence	sentence_14122
+14122_14	det	14122_16
+14122_14	has_surface_form	an
+14122_16	is_in_sentence	sentence_14122
+14122_16	attr	14122_13
+14122_16	has_surface_form	politician
+14122_15	is_in_sentence	sentence_14122
+14122_15	amod	14122_16
+14122_15	has_surface_form	Albanian
+14122_17	is_in_sentence	sentence_14122
+14122_17	punct	14122_13
+14122_17	has_surface_form	.
+14122_18	is_in_sentence	sentence_14122
+14122_18	dep	14122_13
+14122_18	has_surface_form	
+Gazmend Oketa	surface_form	Gazmend Oketa
+Gazmend Oketa	birth-place	Durrës

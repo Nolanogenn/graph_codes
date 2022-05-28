@@ -1,0 +1,125 @@
+21216_0	is_in_sentence	sentence_21216
+21216_0	det	21216_2
+21216_0	has_surface_form	The
+21216_0	part_of_entity	The Merry Wives of Vienna
+21216_2	is_in_sentence	sentence_21216
+21216_2	nsubj	21216_14
+21216_2	has_surface_form	Wives
+21216_2	part_of_entity	The Merry Wives of Vienna
+21216_1	is_in_sentence	sentence_21216
+21216_1	compound	21216_2
+21216_1	has_surface_form	Merry
+21216_1	part_of_entity	The Merry Wives of Vienna
+21216_14	is_in_sentence	sentence_21216
+21216_14	ROOT	21216_14
+21216_14	has_surface_form	is
+21216_3	is_in_sentence	sentence_21216
+21216_3	prep	21216_2
+21216_3	has_surface_form	of
+21216_3	part_of_entity	The Merry Wives of Vienna
+21216_4	is_in_sentence	sentence_21216
+21216_4	pobj	21216_3
+21216_4	has_surface_form	Vienna
+21216_4	part_of_entity	The Merry Wives of Vienna
+21216_5	is_in_sentence	sentence_21216
+21216_5	punct	21216_8
+21216_5	has_surface_form	(
+21216_8	is_in_sentence	sentence_21216
+21216_8	parataxis	21216_2
+21216_8	has_surface_form	Die
+21216_6	is_in_sentence	sentence_21216
+21216_6	amod	21216_8
+21216_6	has_surface_form	German
+21216_7	is_in_sentence	sentence_21216
+21216_7	punct	21216_8
+21216_7	has_surface_form	:
+21216_9	is_in_sentence	sentence_21216
+21216_9	compound	21216_12
+21216_9	has_surface_form	lustigen
+21216_12	is_in_sentence	sentence_21216
+21216_12	dobj	21216_8
+21216_12	has_surface_form	Wien
+21216_10	is_in_sentence	sentence_21216
+21216_10	compound	21216_12
+21216_10	has_surface_form	Weiber
+21216_11	is_in_sentence	sentence_21216
+21216_11	compound	21216_12
+21216_11	has_surface_form	von
+21216_13	is_in_sentence	sentence_21216
+21216_13	punct	21216_8
+21216_13	has_surface_form	)
+21216_15	is_in_sentence	sentence_21216
+21216_15	det	21216_20
+21216_15	has_surface_form	a
+21216_20	is_in_sentence	sentence_21216
+21216_20	attr	21216_14
+21216_20	has_surface_form	film
+21216_16	is_in_sentence	sentence_21216
+21216_16	nummod	21216_20
+21216_16	has_surface_form	1931
+21216_17	is_in_sentence	sentence_21216
+21216_17	amod	21216_20
+21216_17	has_surface_form	German
+21216_18	is_in_sentence	sentence_21216
+21216_18	amod	21216_20
+21216_18	has_surface_form	musical
+21216_19	is_in_sentence	sentence_21216
+21216_19	compound	21216_20
+21216_19	has_surface_form	comedy
+21216_21	is_in_sentence	sentence_21216
+21216_21	acl	21216_20
+21216_21	has_surface_form	directed
+21216_22	is_in_sentence	sentence_21216
+21216_22	agent	21216_21
+21216_22	has_surface_form	by
+21216_23	is_in_sentence	sentence_21216
+21216_23	compound	21216_25
+21216_23	has_surface_form	Géza
+21216_23	part_of_entity	Géza von Bolváry
+21216_25	is_in_sentence	sentence_21216
+21216_25	pobj	21216_22
+21216_25	has_surface_form	Bolváry
+21216_25	part_of_entity	Géza von Bolváry
+21216_24	is_in_sentence	sentence_21216
+21216_24	compound	21216_25
+21216_24	has_surface_form	von
+21216_24	part_of_entity	Géza von Bolváry
+21216_26	is_in_sentence	sentence_21216
+21216_26	cc	21216_21
+21216_26	has_surface_form	and
+21216_27	is_in_sentence	sentence_21216
+21216_27	conj	21216_21
+21216_27	has_surface_form	starring
+21216_28	is_in_sentence	sentence_21216
+21216_28	compound	21216_29
+21216_28	has_surface_form	Willi
+21216_29	is_in_sentence	sentence_21216
+21216_29	dobj	21216_27
+21216_29	has_surface_form	Forst
+21216_30	is_in_sentence	sentence_21216
+21216_30	punct	21216_29
+21216_30	has_surface_form	,
+21216_31	is_in_sentence	sentence_21216
+21216_31	compound	21216_32
+21216_31	has_surface_form	Lee
+21216_32	is_in_sentence	sentence_21216
+21216_32	conj	21216_29
+21216_32	has_surface_form	Parry
+21216_33	is_in_sentence	sentence_21216
+21216_33	cc	21216_32
+21216_33	has_surface_form	and
+21216_34	is_in_sentence	sentence_21216
+21216_34	compound	21216_35
+21216_34	has_surface_form	Paul
+21216_35	is_in_sentence	sentence_21216
+21216_35	conj	21216_32
+21216_35	has_surface_form	Hörbiger
+21216_36	is_in_sentence	sentence_21216
+21216_36	punct	21216_14
+21216_36	has_surface_form	.
+21216_37	is_in_sentence	sentence_21216
+21216_37	dep	21216_14
+21216_37	has_surface_form	
+The Merry Wives of Vienna	surface_form	The Merry Wives of Vienna
+The Merry Wives of Vienna	movie-has-director	Géza von Bolváry
+Géza von Bolváry	surface_form	Géza von Bolváry

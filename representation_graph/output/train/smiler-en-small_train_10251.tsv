@@ -1,0 +1,64 @@
+10250_0	is_in_sentence	sentence_10250
+10250_0	compound	10250_1
+10250_0	has_surface_form	Mod
+10250_0	part_of_entity	Mod Fun
+10250_1	is_in_sentence	sentence_10250
+10250_1	nsubj	10250_2
+10250_1	has_surface_form	Fun
+10250_1	part_of_entity	Mod Fun
+10250_2	is_in_sentence	sentence_10250
+10250_2	ROOT	10250_2
+10250_2	has_surface_form	are
+10250_3	is_in_sentence	sentence_10250
+10250_3	det	10250_10
+10250_3	has_surface_form	an
+10250_10	is_in_sentence	sentence_10250
+10250_10	attr	10250_2
+10250_10	has_surface_form	band
+10250_4	is_in_sentence	sentence_10250
+10250_4	amod	10250_10
+10250_4	has_surface_form	American
+10250_5	is_in_sentence	sentence_10250
+10250_5	nmod	10250_6
+10250_5	has_surface_form	power
+10250_5	part_of_entity	power pop
+10250_6	is_in_sentence	sentence_10250
+10250_6	nmod	10250_8
+10250_6	has_surface_form	pop
+10250_6	part_of_entity	power pop
+10250_8	is_in_sentence	sentence_10250
+10250_8	compound	10250_9
+10250_8	has_surface_form	garage
+10250_7	is_in_sentence	sentence_10250
+10250_7	punct	10250_8
+10250_7	has_surface_form	/
+10250_9	is_in_sentence	sentence_10250
+10250_9	compound	10250_10
+10250_9	has_surface_form	punk
+10250_11	is_in_sentence	sentence_10250
+10250_11	prep	10250_10
+10250_11	has_surface_form	from
+10250_12	is_in_sentence	sentence_10250
+10250_12	det	10250_16
+10250_12	has_surface_form	the
+10250_16	is_in_sentence	sentence_10250
+10250_16	pobj	10250_11
+10250_16	has_surface_form	area
+10250_13	is_in_sentence	sentence_10250
+10250_13	compound	10250_14
+10250_13	has_surface_form	New
+10250_14	is_in_sentence	sentence_10250
+10250_14	compound	10250_15
+10250_14	has_surface_form	York
+10250_15	is_in_sentence	sentence_10250
+10250_15	compound	10250_16
+10250_15	has_surface_form	City
+10250_17	is_in_sentence	sentence_10250
+10250_17	punct	10250_2
+10250_17	has_surface_form	.
+10250_18	is_in_sentence	sentence_10250
+10250_18	dep	10250_18
+10250_18	has_surface_form	
+Mod Fun	surface_form	Mod Fun
+Mod Fun	has-genre	power pop
+power pop	surface_form	power pop

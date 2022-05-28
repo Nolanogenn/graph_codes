@@ -1,0 +1,53 @@
+4255_0	is_in_sentence	sentence_4255
+4255_0	compound	4255_1
+4255_0	has_surface_form	Catmose
+4255_0	part_of_entity	Catmose College
+4255_1	is_in_sentence	sentence_4255
+4255_1	nsubj	4255_2
+4255_1	has_surface_form	College
+4255_1	part_of_entity	Catmose College
+4255_2	is_in_sentence	sentence_4255
+4255_2	ROOT	4255_2
+4255_2	has_surface_form	is
+4255_3	is_in_sentence	sentence_4255
+4255_3	det	4255_6
+4255_3	has_surface_form	a
+4255_6	is_in_sentence	sentence_4255
+4255_6	attr	4255_2
+4255_6	has_surface_form	school
+4255_4	is_in_sentence	sentence_4255
+4255_4	amod	4255_6
+4255_4	has_surface_form	secondary
+4255_5	is_in_sentence	sentence_4255
+4255_5	compound	4255_6
+4255_5	has_surface_form	academy
+4255_7	is_in_sentence	sentence_4255
+4255_7	prep	4255_6
+4255_7	has_surface_form	on
+4255_8	is_in_sentence	sentence_4255
+4255_8	compound	4255_9
+4255_8	has_surface_form	Huntsmans
+4255_9	is_in_sentence	sentence_4255
+4255_9	pobj	4255_7
+4255_9	has_surface_form	Drive
+4255_10	is_in_sentence	sentence_4255
+4255_10	prep	4255_9
+4255_10	has_surface_form	in
+4255_11	is_in_sentence	sentence_4255
+4255_11	pobj	4255_10
+4255_11	has_surface_form	Oakham
+4255_12	is_in_sentence	sentence_4255
+4255_12	punct	4255_11
+4255_12	has_surface_form	,
+4255_13	is_in_sentence	sentence_4255
+4255_13	appos	4255_11
+4255_13	has_surface_form	Rutland
+4255_14	is_in_sentence	sentence_4255
+4255_14	punct	4255_2
+4255_14	has_surface_form	.
+4255_15	is_in_sentence	sentence_4255
+4255_15	dep	4255_2
+4255_15	has_surface_form	
+Catmose College	surface_form	Catmose College
+Catmose College	is-where	Huntsmans Drive in Oakham, Rutland
+Huntsmans Drive in Oakham, Rutland	surface_form	Huntsmans Drive in Oakham, Rutland

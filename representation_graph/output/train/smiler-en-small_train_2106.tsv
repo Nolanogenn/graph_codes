@@ -1,0 +1,79 @@
+2105_0	is_in_sentence	sentence_2105
+2105_0	compound	2105_1
+2105_0	has_surface_form	Södra
+2105_0	part_of_entity	Södra Bergsbyn och Stackgrönnan
+2105_1	is_in_sentence	sentence_2105
+2105_1	compound	2105_3
+2105_1	has_surface_form	Bergsbyn
+2105_1	part_of_entity	Södra Bergsbyn och Stackgrönnan
+2105_3	is_in_sentence	sentence_2105
+2105_3	nsubj	2105_4
+2105_3	has_surface_form	Stackgrönnan
+2105_3	part_of_entity	Södra Bergsbyn och Stackgrönnan
+2105_2	is_in_sentence	sentence_2105
+2105_2	compound	2105_3
+2105_2	has_surface_form	och
+2105_2	part_of_entity	Södra Bergsbyn och Stackgrönnan
+2105_4	is_in_sentence	sentence_2105
+2105_4	ROOT	2105_4
+2105_4	has_surface_form	is
+2105_5	is_in_sentence	sentence_2105
+2105_5	det	2105_6
+2105_5	has_surface_form	a
+2105_6	is_in_sentence	sentence_2105
+2105_6	attr	2105_4
+2105_6	has_surface_form	locality
+2105_7	is_in_sentence	sentence_2105
+2105_7	acl	2105_6
+2105_7	has_surface_form	situated
+2105_8	is_in_sentence	sentence_2105
+2105_8	prep	2105_7
+2105_8	has_surface_form	in
+2105_9	is_in_sentence	sentence_2105
+2105_9	compound	2105_10
+2105_9	has_surface_form	Skellefteå
+2105_10	is_in_sentence	sentence_2105
+2105_10	pobj	2105_8
+2105_10	has_surface_form	Municipality
+2105_11	is_in_sentence	sentence_2105
+2105_11	punct	2105_10
+2105_11	has_surface_form	,
+2105_12	is_in_sentence	sentence_2105
+2105_12	compound	2105_13
+2105_12	has_surface_form	Västerbotten
+2105_13	is_in_sentence	sentence_2105
+2105_13	conj	2105_10
+2105_13	has_surface_form	County
+2105_14	is_in_sentence	sentence_2105
+2105_14	punct	2105_13
+2105_14	has_surface_form	,
+2105_15	is_in_sentence	sentence_2105
+2105_15	appos	2105_13
+2105_15	has_surface_form	Sweden
+2105_16	is_in_sentence	sentence_2105
+2105_16	punct	2105_6
+2105_16	has_surface_form	,
+2105_17	is_in_sentence	sentence_2105
+2105_17	prep	2105_4
+2105_17	has_surface_form	with
+2105_18	is_in_sentence	sentence_2105
+2105_18	nummod	2105_19
+2105_18	is_entity	393
+2105_19	is_in_sentence	sentence_2105
+2105_19	pobj	2105_17
+2105_19	has_surface_form	inhabitants
+393	surface_form	393
+2105_20	is_in_sentence	sentence_2105
+2105_20	prep	2105_19
+2105_20	has_surface_form	in
+2105_21	is_in_sentence	sentence_2105
+2105_21	pobj	2105_20
+2105_21	has_surface_form	2010
+2105_22	is_in_sentence	sentence_2105
+2105_22	punct	2105_4
+2105_22	has_surface_form	.
+2105_23	is_in_sentence	sentence_2105
+2105_23	dep	2105_23
+2105_23	has_surface_form	
+Södra Bergsbyn och Stackgrönnan	surface_form	Södra Bergsbyn och Stackgrönnan
+Södra Bergsbyn och Stackgrönnan	has-population	393

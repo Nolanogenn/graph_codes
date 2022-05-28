@@ -1,0 +1,50 @@
+29985_0	is_in_sentence	sentence_29985
+29985_0	compound	29985_1
+29985_0	has_surface_form	Guitar
+29985_0	part_of_entity	Guitar Vader
+29985_1	is_in_sentence	sentence_29985
+29985_1	nsubj	29985_5
+29985_1	has_surface_form	Vader
+29985_1	part_of_entity	Guitar Vader
+29985_5	is_in_sentence	sentence_29985
+29985_5	ROOT	29985_5
+29985_5	has_surface_form	was
+29985_2	is_in_sentence	sentence_29985
+29985_2	punct	29985_3
+29985_2	has_surface_form	(
+29985_3	is_in_sentence	sentence_29985
+29985_3	appos	29985_1
+29985_3	has_surface_form	ギターベイダー
+29985_4	is_in_sentence	sentence_29985
+29985_4	punct	29985_3
+29985_4	has_surface_form	)
+29985_6	is_in_sentence	sentence_29985
+29985_6	det	29985_8
+29985_6	has_surface_form	a
+29985_8	is_in_sentence	sentence_29985
+29985_8	amod	29985_11
+29985_8	has_surface_form	underground
+29985_8	part_of_entity	underground indie rock
+29985_7	is_in_sentence	sentence_29985
+29985_7	amod	29985_8
+29985_7	has_surface_form	Japanese
+29985_11	is_in_sentence	sentence_29985
+29985_11	attr	29985_5
+29985_11	has_surface_form	band
+29985_9	is_in_sentence	sentence_29985
+29985_9	compound	29985_11
+29985_9	has_surface_form	indie
+29985_9	part_of_entity	underground indie rock
+29985_10	is_in_sentence	sentence_29985
+29985_10	compound	29985_11
+29985_10	has_surface_form	rock
+29985_10	part_of_entity	underground indie rock
+29985_12	is_in_sentence	sentence_29985
+29985_12	punct	29985_5
+29985_12	has_surface_form	.
+29985_13	is_in_sentence	sentence_29985
+29985_13	dep	29985_13
+29985_13	has_surface_form	
+Guitar Vader	surface_form	Guitar Vader
+Guitar Vader	has-genre	underground indie rock
+underground indie rock	surface_form	underground indie rock

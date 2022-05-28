@@ -1,0 +1,53 @@
+10941_0	is_in_sentence	sentence_10941
+10941_0	compound	10941_1
+10941_0	has_surface_form	Giuseppe
+10941_0	part_of_entity	Giuseppe Leanza
+10941_1	is_in_sentence	sentence_10941
+10941_1	nsubjpass	10941_9
+10941_1	has_surface_form	Leanza
+10941_1	part_of_entity	Giuseppe Leanza
+10941_9	is_in_sentence	sentence_10941
+10941_9	ROOT	10941_9
+10941_9	has_surface_form	born
+10941_2	is_in_sentence	sentence_10941
+10941_2	punct	10941_1
+10941_2	has_surface_form	(
+10941_3	is_in_sentence	sentence_10941
+10941_3	acl	10941_1
+10941_3	has_surface_form	born
+10941_4	is_in_sentence	sentence_10941
+10941_4	nummod	10941_5
+10941_4	has_surface_form	2
+10941_5	is_in_sentence	sentence_10941
+10941_5	npadvmod	10941_3
+10941_5	has_surface_form	January
+10941_6	is_in_sentence	sentence_10941
+10941_6	nummod	10941_5
+10941_6	has_surface_form	1943
+10941_7	is_in_sentence	sentence_10941
+10941_7	punct	10941_1
+10941_7	has_surface_form	)
+10941_8	is_in_sentence	sentence_10941
+10941_8	auxpass	10941_9
+10941_8	has_surface_form	was
+10941_10	is_in_sentence	sentence_10941
+10941_10	prep	10941_9
+10941_10	has_surface_form	in
+10941_11	is_in_sentence	sentence_10941
+10941_11	pobj	10941_10
+10941_11	is_entity	Cesarò
+Cesarò	surface_form	Cesarò
+10941_12	is_in_sentence	sentence_10941
+10941_12	punct	10941_11
+10941_12	has_surface_form	,
+10941_13	is_in_sentence	sentence_10941
+10941_13	appos	10941_11
+10941_13	has_surface_form	Italy
+10941_14	is_in_sentence	sentence_10941
+10941_14	punct	10941_9
+10941_14	has_surface_form	.
+10941_15	is_in_sentence	sentence_10941
+10941_15	dep	10941_15
+10941_15	has_surface_form	
+Giuseppe Leanza	surface_form	Giuseppe Leanza
+Giuseppe Leanza	birth-place	Cesarò

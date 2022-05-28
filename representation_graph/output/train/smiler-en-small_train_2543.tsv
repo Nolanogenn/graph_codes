@@ -1,0 +1,79 @@
+2542_0	is_in_sentence	sentence_2542
+2542_0	det	2542_1
+2542_0	has_surface_form	The
+2542_0	part_of_entity	The Sea of Trees
+2542_1	is_in_sentence	sentence_2542
+2542_1	nsubj	2542_4
+2542_1	has_surface_form	Sea
+2542_1	part_of_entity	The Sea of Trees
+2542_4	is_in_sentence	sentence_2542
+2542_4	ROOT	2542_4
+2542_4	has_surface_form	is
+2542_2	is_in_sentence	sentence_2542
+2542_2	prep	2542_1
+2542_2	has_surface_form	of
+2542_2	part_of_entity	The Sea of Trees
+2542_3	is_in_sentence	sentence_2542
+2542_3	pobj	2542_2
+2542_3	has_surface_form	Trees
+2542_3	part_of_entity	The Sea of Trees
+2542_5	is_in_sentence	sentence_2542
+2542_5	det	2542_10
+2542_5	has_surface_form	a
+2542_10	is_in_sentence	sentence_2542
+2542_10	attr	2542_4
+2542_10	has_surface_form	film
+2542_6	is_in_sentence	sentence_2542
+2542_6	nummod	2542_10
+2542_6	has_surface_form	2015
+2542_7	is_in_sentence	sentence_2542
+2542_7	amod	2542_10
+2542_7	has_surface_form	American
+2542_8	is_in_sentence	sentence_2542
+2542_8	compound	2542_10
+2542_8	has_surface_form	drama
+2542_9	is_in_sentence	sentence_2542
+2542_9	compound	2542_10
+2542_9	has_surface_form	mystery
+2542_11	is_in_sentence	sentence_2542
+2542_11	acl	2542_10
+2542_11	has_surface_form	directed
+2542_12	is_in_sentence	sentence_2542
+2542_12	agent	2542_11
+2542_12	has_surface_form	by
+2542_13	is_in_sentence	sentence_2542
+2542_13	compound	2542_14
+2542_13	has_surface_form	Gus
+2542_13	part_of_entity	Gus Van Sant
+2542_14	is_in_sentence	sentence_2542
+2542_14	compound	2542_15
+2542_14	has_surface_form	Van
+2542_14	part_of_entity	Gus Van Sant
+2542_15	is_in_sentence	sentence_2542
+2542_15	pobj	2542_12
+2542_15	has_surface_form	Sant
+2542_15	part_of_entity	Gus Van Sant
+2542_16	is_in_sentence	sentence_2542
+2542_16	cc	2542_11
+2542_16	has_surface_form	and
+2542_17	is_in_sentence	sentence_2542
+2542_17	conj	2542_11
+2542_17	has_surface_form	written
+2542_18	is_in_sentence	sentence_2542
+2542_18	agent	2542_17
+2542_18	has_surface_form	by
+2542_19	is_in_sentence	sentence_2542
+2542_19	compound	2542_20
+2542_19	has_surface_form	Chris
+2542_20	is_in_sentence	sentence_2542
+2542_20	pobj	2542_18
+2542_20	has_surface_form	Sparling
+2542_21	is_in_sentence	sentence_2542
+2542_21	punct	2542_4
+2542_21	has_surface_form	.
+2542_22	is_in_sentence	sentence_2542
+2542_22	dep	2542_4
+2542_22	has_surface_form	
+The Sea of Trees	surface_form	The Sea of Trees
+The Sea of Trees	movie-has-director	Gus Van Sant
+Gus Van Sant	surface_form	Gus Van Sant

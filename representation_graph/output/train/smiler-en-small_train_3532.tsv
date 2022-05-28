@@ -1,0 +1,53 @@
+3531_0	is_in_sentence	sentence_3531
+3531_0	compound	3531_2
+3531_0	has_surface_form	Amy
+3531_0	part_of_entity	Amy Johnson Avenue
+3531_2	is_in_sentence	sentence_3531
+3531_2	nsubj	3531_3
+3531_2	has_surface_form	Avenue
+3531_2	part_of_entity	Amy Johnson Avenue
+3531_1	is_in_sentence	sentence_3531
+3531_1	compound	3531_2
+3531_1	has_surface_form	Johnson
+3531_1	part_of_entity	Amy Johnson Avenue
+3531_3	is_in_sentence	sentence_3531
+3531_3	ROOT	3531_3
+3531_3	has_surface_form	is
+3531_4	is_in_sentence	sentence_3531
+3531_4	det	3531_7
+3531_4	has_surface_form	a
+3531_7	is_in_sentence	sentence_3531
+3531_7	attr	3531_3
+3531_7	has_surface_form	road
+3531_7	part_of_entity	arterial road
+3531_5	is_in_sentence	sentence_3531
+3531_5	amod	3531_7
+3531_5	has_surface_form	major
+3531_6	is_in_sentence	sentence_3531
+3531_6	amod	3531_7
+3531_6	has_surface_form	arterial
+3531_6	part_of_entity	arterial road
+3531_8	is_in_sentence	sentence_3531
+3531_8	prep	3531_7
+3531_8	has_surface_form	in
+3531_9	is_in_sentence	sentence_3531
+3531_9	poss	3531_12
+3531_9	has_surface_form	Darwin
+3531_12	is_in_sentence	sentence_3531
+3531_12	pobj	3531_8
+3531_12	has_surface_form	suburbs
+3531_10	is_in_sentence	sentence_3531
+3531_10	case	3531_9
+3531_10	has_surface_form	's
+3531_11	is_in_sentence	sentence_3531
+3531_11	amod	3531_12
+3531_11	has_surface_form	eastern
+3531_13	is_in_sentence	sentence_3531
+3531_13	punct	3531_3
+3531_13	has_surface_form	.
+3531_14	is_in_sentence	sentence_3531
+3531_14	dep	3531_3
+3531_14	has_surface_form	
+Amy Johnson Avenue	surface_form	Amy Johnson Avenue
+Amy Johnson Avenue	has-type	arterial road
+arterial road	surface_form	arterial road

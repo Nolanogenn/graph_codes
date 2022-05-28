@@ -1,0 +1,50 @@
+35064_0	is_in_sentence	sentence_35064
+35064_0	det	35064_2
+35064_0	has_surface_form	The
+35064_0	part_of_entity	The Diamond Master
+35064_2	is_in_sentence	sentence_35064
+35064_2	nsubj	35064_3
+35064_2	has_surface_form	Master
+35064_2	part_of_entity	The Diamond Master
+35064_1	is_in_sentence	sentence_35064
+35064_1	compound	35064_2
+35064_1	has_surface_form	Diamond
+35064_1	part_of_entity	The Diamond Master
+35064_3	is_in_sentence	sentence_35064
+35064_3	ROOT	35064_3
+35064_3	has_surface_form	is
+35064_4	is_in_sentence	sentence_35064
+35064_4	det	35064_7
+35064_4	has_surface_form	a
+35064_7	is_in_sentence	sentence_35064
+35064_7	attr	35064_3
+35064_7	has_surface_form	serial
+35064_5	is_in_sentence	sentence_35064
+35064_5	nummod	35064_6
+35064_5	has_surface_form	1929
+35064_6	is_in_sentence	sentence_35064
+35064_6	compound	35064_7
+35064_6	has_surface_form	film
+35064_8	is_in_sentence	sentence_35064
+35064_8	acl	35064_7
+35064_8	has_surface_form	directed
+35064_9	is_in_sentence	sentence_35064
+35064_9	agent	35064_8
+35064_9	has_surface_form	by
+35064_10	is_in_sentence	sentence_35064
+35064_10	compound	35064_11
+35064_10	has_surface_form	Jack
+35064_10	part_of_entity	Jack Nelson
+35064_11	is_in_sentence	sentence_35064
+35064_11	pobj	35064_9
+35064_11	has_surface_form	Nelson
+35064_11	part_of_entity	Jack Nelson
+35064_12	is_in_sentence	sentence_35064
+35064_12	punct	35064_3
+35064_12	has_surface_form	.
+35064_13	is_in_sentence	sentence_35064
+35064_13	dep	35064_13
+35064_13	has_surface_form	
+The Diamond Master	surface_form	The Diamond Master
+The Diamond Master	movie-has-director	Jack Nelson
+Jack Nelson	surface_form	Jack Nelson

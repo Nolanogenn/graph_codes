@@ -1,0 +1,89 @@
+1811_0	is_in_sentence	sentence_1811
+1811_0	det	1811_2
+1811_0	has_surface_form	A
+1811_0	part_of_entity	A Big Family
+1811_2	is_in_sentence	sentence_1811
+1811_2	ROOT	1811_2
+1811_2	has_surface_form	Family
+1811_2	part_of_entity	A Big Family
+1811_1	is_in_sentence	sentence_1811
+1811_1	compound	1811_2
+1811_1	has_surface_form	Big
+1811_1	part_of_entity	A Big Family
+1811_3	is_in_sentence	sentence_1811
+1811_3	punct	1811_4
+1811_3	has_surface_form	(
+1811_4	is_in_sentence	sentence_1811
+1811_4	appos	1811_2
+1811_4	has_surface_form	Russian
+1811_5	is_in_sentence	sentence_1811
+1811_5	punct	1811_4
+1811_5	has_surface_form	:
+1811_6	is_in_sentence	sentence_1811
+1811_6	punct	1811_9
+1811_6	has_surface_form	Больша́я
+1811_9	is_in_sentence	sentence_1811
+1811_9	appos	1811_4
+1811_9	has_surface_form	translit
+1811_7	is_in_sentence	sentence_1811
+1811_7	nmod	1811_9
+1811_7	has_surface_form	семья́
+1811_8	is_in_sentence	sentence_1811
+1811_8	punct	1811_7
+1811_8	has_surface_form	,
+1811_10	is_in_sentence	sentence_1811
+1811_10	punct	1811_4
+1811_10	has_surface_form	.
+1811_11	is_in_sentence	sentence_1811
+1811_11	dep	1811_13
+1811_11	has_surface_form	 
+1811_13	is_in_sentence	sentence_1811
+1811_13	nsubj	1811_15
+1811_13	has_surface_form	semya
+1811_12	is_in_sentence	sentence_1811
+1811_12	compound	1811_13
+1811_12	has_surface_form	Bolshaya
+1811_15	is_in_sentence	sentence_1811
+1811_15	ROOT	1811_15
+1811_15	has_surface_form	is
+1811_14	is_in_sentence	sentence_1811
+1811_14	punct	1811_13
+1811_14	has_surface_form	)
+1811_16	is_in_sentence	sentence_1811
+1811_16	det	1811_20
+1811_16	has_surface_form	a
+1811_20	is_in_sentence	sentence_1811
+1811_20	attr	1811_15
+1811_20	has_surface_form	film
+1811_17	is_in_sentence	sentence_1811
+1811_17	nummod	1811_20
+1811_17	has_surface_form	1954
+1811_18	is_in_sentence	sentence_1811
+1811_18	amod	1811_20
+1811_18	has_surface_form	Soviet
+1811_19	is_in_sentence	sentence_1811
+1811_19	compound	1811_20
+1811_19	has_surface_form	drama
+1811_21	is_in_sentence	sentence_1811
+1811_21	acl	1811_20
+1811_21	has_surface_form	directed
+1811_22	is_in_sentence	sentence_1811
+1811_22	agent	1811_21
+1811_22	has_surface_form	by
+1811_23	is_in_sentence	sentence_1811
+1811_23	compound	1811_24
+1811_23	has_surface_form	Iosif
+1811_23	part_of_entity	Iosif Kheifits
+1811_24	is_in_sentence	sentence_1811
+1811_24	pobj	1811_22
+1811_24	has_surface_form	Kheifits
+1811_24	part_of_entity	Iosif Kheifits
+1811_25	is_in_sentence	sentence_1811
+1811_25	punct	1811_15
+1811_25	has_surface_form	.
+1811_26	is_in_sentence	sentence_1811
+1811_26	dep	1811_26
+1811_26	has_surface_form	
+A Big Family	surface_form	A Big Family
+A Big Family	movie-has-director	Iosif Kheifits
+Iosif Kheifits	surface_form	Iosif Kheifits

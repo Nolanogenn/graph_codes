@@ -1,0 +1,92 @@
+33789_0	is_in_sentence	sentence_33789
+33789_0	compound	33789_1
+33789_0	has_surface_form	Pennsylvania
+33789_0	part_of_entity	Pennsylvania Route 160
+33789_1	is_in_sentence	sentence_33789
+33789_1	nsubj	33789_8
+33789_1	has_surface_form	Route
+33789_1	part_of_entity	Pennsylvania Route 160
+33789_8	is_in_sentence	sentence_33789
+33789_8	ROOT	33789_8
+33789_8	has_surface_form	is
+33789_2	is_in_sentence	sentence_33789
+33789_2	nummod	33789_1
+33789_2	has_surface_form	160
+33789_2	part_of_entity	Pennsylvania Route 160
+33789_3	is_in_sentence	sentence_33789
+33789_3	punct	33789_1
+33789_3	has_surface_form	(
+33789_4	is_in_sentence	sentence_33789
+33789_4	appos	33789_1
+33789_4	has_surface_form	PA
+33789_5	is_in_sentence	sentence_33789
+33789_5	dep	33789_4
+33789_5	has_surface_form	 
+33789_6	is_in_sentence	sentence_33789
+33789_6	nummod	33789_4
+33789_6	has_surface_form	160
+33789_7	is_in_sentence	sentence_33789
+33789_7	punct	33789_4
+33789_7	has_surface_form	)
+33789_9	is_in_sentence	sentence_33789
+33789_9	det	33789_14
+33789_9	has_surface_form	a
+33789_14	is_in_sentence	sentence_33789
+33789_14	attr	33789_8
+33789_14	has_surface_form	highway
+33789_14	part_of_entity	state highway
+33789_10	is_in_sentence	sentence_33789
+33789_10	nmod	33789_14
+33789_10	has_surface_form	north
+33789_11	is_in_sentence	sentence_33789
+33789_11	punct	33789_10
+33789_11	has_surface_form	–
+33789_12	is_in_sentence	sentence_33789
+33789_12	compound	33789_13
+33789_12	has_surface_form	south
+33789_13	is_in_sentence	sentence_33789
+33789_13	appos	33789_10
+33789_13	has_surface_form	state
+33789_13	part_of_entity	state highway
+33789_15	is_in_sentence	sentence_33789
+33789_15	prep	33789_14
+33789_15	has_surface_form	in
+33789_16	is_in_sentence	sentence_33789
+33789_16	nmod	33789_19
+33789_16	has_surface_form	Somerset
+33789_19	is_in_sentence	sentence_33789
+33789_19	pobj	33789_15
+33789_19	has_surface_form	counties
+33789_17	is_in_sentence	sentence_33789
+33789_17	cc	33789_16
+33789_17	has_surface_form	and
+33789_18	is_in_sentence	sentence_33789
+33789_18	conj	33789_16
+33789_18	has_surface_form	Cambria
+33789_20	is_in_sentence	sentence_33789
+33789_20	prep	33789_14
+33789_20	has_surface_form	in
+33789_21	is_in_sentence	sentence_33789
+33789_21	amod	33789_22
+33789_21	has_surface_form	western
+33789_22	is_in_sentence	sentence_33789
+33789_22	pobj	33789_20
+33789_22	has_surface_form	Pennsylvania
+33789_23	is_in_sentence	sentence_33789
+33789_23	punct	33789_22
+33789_23	has_surface_form	,
+33789_24	is_in_sentence	sentence_33789
+33789_24	compound	33789_25
+33789_24	has_surface_form	United
+33789_25	is_in_sentence	sentence_33789
+33789_25	conj	33789_22
+33789_25	has_surface_form	States
+33789_26	is_in_sentence	sentence_33789
+33789_26	punct	33789_8
+33789_26	has_surface_form	.
+33789_27	is_in_sentence	sentence_33789
+33789_27	dep	33789_8
+33789_27	has_surface_form	
+Pennsylvania Route 160	surface_form	Pennsylvania Route 160
+Pennsylvania Route 160	has-type	state highway
+state highway	surface_form	state highway

@@ -1,0 +1,107 @@
+18267_0	is_in_sentence	sentence_18267
+18267_0	compound	18267_1
+18267_0	has_surface_form	Travis
+18267_0	part_of_entity	Travis Ford
+18267_1	is_in_sentence	sentence_18267
+18267_1	nsubj	18267_9
+18267_1	has_surface_form	Ford
+18267_1	part_of_entity	Travis Ford
+18267_9	is_in_sentence	sentence_18267
+18267_9	ROOT	18267_9
+18267_9	has_surface_form	is
+18267_2	is_in_sentence	sentence_18267
+18267_2	punct	18267_1
+18267_2	has_surface_form	(
+18267_3	is_in_sentence	sentence_18267
+18267_3	acl	18267_1
+18267_3	has_surface_form	born
+18267_4	is_in_sentence	sentence_18267
+18267_4	npadvmod	18267_3
+18267_4	has_surface_form	December
+18267_5	is_in_sentence	sentence_18267
+18267_5	nummod	18267_4
+18267_5	has_surface_form	29
+18267_6	is_in_sentence	sentence_18267
+18267_6	punct	18267_4
+18267_6	has_surface_form	,
+18267_7	is_in_sentence	sentence_18267
+18267_7	nummod	18267_4
+18267_7	has_surface_form	1969
+18267_8	is_in_sentence	sentence_18267
+18267_8	punct	18267_1
+18267_8	has_surface_form	)
+18267_10	is_in_sentence	sentence_18267
+18267_10	det	18267_14
+18267_10	has_surface_form	an
+18267_14	is_in_sentence	sentence_18267
+18267_14	attr	18267_9
+18267_14	has_surface_form	coach
+18267_14	part_of_entity	college basketball coach
+18267_11	is_in_sentence	sentence_18267
+18267_11	amod	18267_14
+18267_11	has_surface_form	American
+18267_12	is_in_sentence	sentence_18267
+18267_12	compound	18267_13
+18267_12	has_surface_form	college
+18267_12	part_of_entity	college basketball coach
+18267_13	is_in_sentence	sentence_18267
+18267_13	compound	18267_14
+18267_13	has_surface_form	basketball
+18267_13	part_of_entity	college basketball coach
+18267_15	is_in_sentence	sentence_18267
+18267_15	punct	18267_14
+18267_15	has_surface_form	,
+18267_16	is_in_sentence	sentence_18267
+18267_16	nsubj	18267_17
+18267_16	has_surface_form	who
+18267_17	is_in_sentence	sentence_18267
+18267_17	relcl	18267_14
+18267_17	has_surface_form	is
+18267_18	is_in_sentence	sentence_18267
+18267_18	advmod	18267_17
+18267_18	has_surface_form	currently
+18267_19	is_in_sentence	sentence_18267
+18267_19	det	18267_21
+18267_19	has_surface_form	the
+18267_21	is_in_sentence	sentence_18267
+18267_21	attr	18267_17
+18267_21	has_surface_form	coach
+18267_20	is_in_sentence	sentence_18267
+18267_20	compound	18267_21
+18267_20	has_surface_form	head
+18267_22	is_in_sentence	sentence_18267
+18267_22	prep	18267_21
+18267_22	has_surface_form	of
+18267_23	is_in_sentence	sentence_18267
+18267_23	det	18267_27
+18267_23	has_surface_form	the
+18267_27	is_in_sentence	sentence_18267
+18267_27	poss	18267_30
+18267_27	has_surface_form	men
+18267_24	is_in_sentence	sentence_18267
+18267_24	compound	18267_26
+18267_24	has_surface_form	Saint
+18267_26	is_in_sentence	sentence_18267
+18267_26	compound	18267_27
+18267_26	has_surface_form	Billikens
+18267_25	is_in_sentence	sentence_18267
+18267_25	compound	18267_26
+18267_25	has_surface_form	Louis
+18267_30	is_in_sentence	sentence_18267
+18267_30	pobj	18267_22
+18267_30	has_surface_form	team
+18267_28	is_in_sentence	sentence_18267
+18267_28	case	18267_27
+18267_28	has_surface_form	's
+18267_29	is_in_sentence	sentence_18267
+18267_29	compound	18267_30
+18267_29	has_surface_form	basketball
+18267_31	is_in_sentence	sentence_18267
+18267_31	punct	18267_9
+18267_31	has_surface_form	.
+18267_32	is_in_sentence	sentence_18267
+18267_32	dep	18267_32
+18267_32	has_surface_form	
+Travis Ford	surface_form	Travis Ford
+Travis Ford	has-type	college basketball coach
+college basketball coach	surface_form	college basketball coach

@@ -1,0 +1,70 @@
+13535_0	is_in_sentence	sentence_13535
+13535_0	det	13535_4
+13535_0	has_surface_form	The
+13535_4	is_in_sentence	sentence_13535
+13535_4	nsubj	13535_12
+13535_4	has_surface_form	School
+13535_4	part_of_entity	Bornemisza Péter High School
+13535_1	is_in_sentence	sentence_13535
+13535_1	compound	13535_2
+13535_1	has_surface_form	Bornemisza
+13535_1	part_of_entity	Bornemisza Péter High School
+13535_2	is_in_sentence	sentence_13535
+13535_2	compound	13535_4
+13535_2	has_surface_form	Péter
+13535_2	part_of_entity	Bornemisza Péter High School
+13535_3	is_in_sentence	sentence_13535
+13535_3	compound	13535_4
+13535_3	has_surface_form	High
+13535_3	part_of_entity	Bornemisza Péter High School
+13535_12	is_in_sentence	sentence_13535
+13535_12	ROOT	13535_12
+13535_12	has_surface_form	is
+13535_5	is_in_sentence	sentence_13535
+13535_5	punct	13535_6
+13535_5	has_surface_form	(
+13535_6	is_in_sentence	sentence_13535
+13535_6	appos	13535_4
+13535_6	has_surface_form	Hungarian
+13535_7	is_in_sentence	sentence_13535
+13535_7	punct	13535_6
+13535_7	has_surface_form	:
+13535_8	is_in_sentence	sentence_13535
+13535_8	compound	13535_10
+13535_8	has_surface_form	Bornemissza
+13535_10	is_in_sentence	sentence_13535
+13535_10	appos	13535_6
+13535_10	has_surface_form	Gimnázium
+13535_9	is_in_sentence	sentence_13535
+13535_9	compound	13535_10
+13535_9	has_surface_form	Péter
+13535_11	is_in_sentence	sentence_13535
+13535_11	punct	13535_6
+13535_11	has_surface_form	)
+13535_13	is_in_sentence	sentence_13535
+13535_13	det	13535_15
+13535_13	has_surface_form	a
+13535_15	is_in_sentence	sentence_13535
+13535_15	attr	13535_12
+13535_15	has_surface_form	school
+13535_14	is_in_sentence	sentence_13535
+13535_14	amod	13535_15
+13535_14	has_surface_form	secondary
+13535_16	is_in_sentence	sentence_13535
+13535_16	acl	13535_15
+13535_16	has_surface_form	located
+13535_17	is_in_sentence	sentence_13535
+13535_17	prep	13535_16
+13535_17	has_surface_form	in
+13535_18	is_in_sentence	sentence_13535
+13535_18	pobj	13535_17
+13535_18	is_entity	Budapest
+Budapest	surface_form	Budapest
+13535_19	is_in_sentence	sentence_13535
+13535_19	punct	13535_12
+13535_19	has_surface_form	.
+13535_20	is_in_sentence	sentence_13535
+13535_20	dep	13535_20
+13535_20	has_surface_form	
+Bornemisza Péter High School	surface_form	Bornemisza Péter High School
+Bornemisza Péter High School	is-where	Budapest

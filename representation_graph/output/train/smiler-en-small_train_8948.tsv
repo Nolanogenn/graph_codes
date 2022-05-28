@@ -1,0 +1,110 @@
+8947_0	is_in_sentence	sentence_8947
+8947_0	compound	8947_1
+8947_0	has_surface_form	Pennsylvania
+8947_0	part_of_entity	Pennsylvania Route 653
+8947_1	is_in_sentence	sentence_8947
+8947_1	nsubj	8947_8
+8947_1	has_surface_form	Route
+8947_1	part_of_entity	Pennsylvania Route 653
+8947_8	is_in_sentence	sentence_8947
+8947_8	ROOT	8947_8
+8947_8	has_surface_form	is
+8947_2	is_in_sentence	sentence_8947
+8947_2	nummod	8947_1
+8947_2	has_surface_form	653
+8947_2	part_of_entity	Pennsylvania Route 653
+8947_3	is_in_sentence	sentence_8947
+8947_3	punct	8947_1
+8947_3	has_surface_form	(
+8947_4	is_in_sentence	sentence_8947
+8947_4	appos	8947_1
+8947_4	has_surface_form	PA
+8947_5	is_in_sentence	sentence_8947
+8947_5	dep	8947_4
+8947_5	has_surface_form	 
+8947_6	is_in_sentence	sentence_8947
+8947_6	nummod	8947_5
+8947_6	has_surface_form	653
+8947_7	is_in_sentence	sentence_8947
+8947_7	punct	8947_4
+8947_7	has_surface_form	)
+8947_9	is_in_sentence	sentence_8947
+8947_9	det	8947_21
+8947_9	has_surface_form	a
+8947_21	is_in_sentence	sentence_8947
+8947_21	attr	8947_8
+8947_21	has_surface_form	highway
+8947_21	part_of_entity	state highway
+8947_10	is_in_sentence	sentence_8947
+8947_10	nummod	8947_12
+8947_10	has_surface_form	26
+8947_12	is_in_sentence	sentence_8947
+8947_12	npadvmod	8947_14
+8947_12	has_surface_form	mile
+8947_11	is_in_sentence	sentence_8947
+8947_11	punct	8947_12
+8947_11	has_surface_form	-
+8947_14	is_in_sentence	sentence_8947
+8947_14	amod	8947_21
+8947_14	has_surface_form	long
+8947_13	is_in_sentence	sentence_8947
+8947_13	punct	8947_14
+8947_13	has_surface_form	-
+8947_15	is_in_sentence	sentence_8947
+8947_15	punct	8947_21
+8947_15	has_surface_form	(
+8947_16	is_in_sentence	sentence_8947
+8947_16	nummod	8947_17
+8947_16	has_surface_form	42
+8947_17	is_in_sentence	sentence_8947
+8947_17	dep	8947_21
+8947_17	has_surface_form	 
+8947_18	is_in_sentence	sentence_8947
+8947_18	appos	8947_17
+8947_18	has_surface_form	km
+8947_19	is_in_sentence	sentence_8947
+8947_19	punct	8947_21
+8947_19	has_surface_form	)
+8947_20	is_in_sentence	sentence_8947
+8947_20	compound	8947_21
+8947_20	has_surface_form	state
+8947_20	part_of_entity	state highway
+8947_22	is_in_sentence	sentence_8947
+8947_22	prep	8947_21
+8947_22	has_surface_form	in
+8947_23	is_in_sentence	sentence_8947
+8947_23	nmod	8947_26
+8947_23	has_surface_form	Fayette
+8947_26	is_in_sentence	sentence_8947
+8947_26	pobj	8947_22
+8947_26	has_surface_form	counties
+8947_24	is_in_sentence	sentence_8947
+8947_24	cc	8947_23
+8947_24	has_surface_form	and
+8947_25	is_in_sentence	sentence_8947
+8947_25	conj	8947_23
+8947_25	has_surface_form	Somerset
+8947_27	is_in_sentence	sentence_8947
+8947_27	prep	8947_21
+8947_27	has_surface_form	in
+8947_28	is_in_sentence	sentence_8947
+8947_28	pobj	8947_27
+8947_28	has_surface_form	Pennsylvania
+8947_29	is_in_sentence	sentence_8947
+8947_29	punct	8947_28
+8947_29	has_surface_form	,
+8947_30	is_in_sentence	sentence_8947
+8947_30	compound	8947_31
+8947_30	has_surface_form	United
+8947_31	is_in_sentence	sentence_8947
+8947_31	appos	8947_28
+8947_31	has_surface_form	States
+8947_32	is_in_sentence	sentence_8947
+8947_32	punct	8947_8
+8947_32	has_surface_form	.
+8947_33	is_in_sentence	sentence_8947
+8947_33	dep	8947_8
+8947_33	has_surface_form	
+Pennsylvania Route 653	surface_form	Pennsylvania Route 653
+Pennsylvania Route 653	has-type	state highway
+state highway	surface_form	state highway

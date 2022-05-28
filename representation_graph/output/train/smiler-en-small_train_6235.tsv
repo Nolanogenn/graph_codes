@@ -1,0 +1,83 @@
+6234_0	is_in_sentence	sentence_6234
+6234_0	nsubj	6234_3
+6234_0	has_surface_form	Taxi
+6234_0	part_of_entity	Taxi to Paradise
+6234_3	is_in_sentence	sentence_6234
+6234_3	ROOT	6234_3
+6234_3	has_surface_form	is
+6234_1	is_in_sentence	sentence_6234
+6234_1	prep	6234_0
+6234_1	has_surface_form	to
+6234_1	part_of_entity	Taxi to Paradise
+6234_2	is_in_sentence	sentence_6234
+6234_2	pobj	6234_1
+6234_2	has_surface_form	Paradise
+6234_2	part_of_entity	Taxi to Paradise
+6234_4	is_in_sentence	sentence_6234
+6234_4	det	6234_8
+6234_4	has_surface_form	a
+6234_8	is_in_sentence	sentence_6234
+6234_8	attr	6234_3
+6234_8	has_surface_form	film
+6234_5	is_in_sentence	sentence_6234
+6234_5	nummod	6234_8
+6234_5	has_surface_form	1933
+6234_6	is_in_sentence	sentence_6234
+6234_6	amod	6234_8
+6234_6	has_surface_form	British
+6234_7	is_in_sentence	sentence_6234
+6234_7	compound	6234_8
+6234_7	has_surface_form	comedy
+6234_9	is_in_sentence	sentence_6234
+6234_9	acl	6234_8
+6234_9	has_surface_form	directed
+6234_10	is_in_sentence	sentence_6234
+6234_10	agent	6234_9
+6234_10	has_surface_form	by
+6234_11	is_in_sentence	sentence_6234
+6234_11	compound	6234_12
+6234_11	has_surface_form	Adrian
+6234_11	part_of_entity	Adrian Brunel
+6234_12	is_in_sentence	sentence_6234
+6234_12	pobj	6234_10
+6234_12	has_surface_form	Brunel
+6234_12	part_of_entity	Adrian Brunel
+6234_13	is_in_sentence	sentence_6234
+6234_13	cc	6234_9
+6234_13	has_surface_form	and
+6234_14	is_in_sentence	sentence_6234
+6234_14	conj	6234_9
+6234_14	has_surface_form	starring
+6234_15	is_in_sentence	sentence_6234
+6234_15	compound	6234_16
+6234_15	has_surface_form	Binnie
+6234_16	is_in_sentence	sentence_6234
+6234_16	dobj	6234_14
+6234_16	has_surface_form	Barnes
+6234_17	is_in_sentence	sentence_6234
+6234_17	punct	6234_16
+6234_17	has_surface_form	,
+6234_18	is_in_sentence	sentence_6234
+6234_18	compound	6234_19
+6234_18	has_surface_form	Garry
+6234_19	is_in_sentence	sentence_6234
+6234_19	conj	6234_16
+6234_19	has_surface_form	Marsh
+6234_20	is_in_sentence	sentence_6234
+6234_20	cc	6234_19
+6234_20	has_surface_form	and
+6234_21	is_in_sentence	sentence_6234
+6234_21	compound	6234_22
+6234_21	has_surface_form	Henry
+6234_22	is_in_sentence	sentence_6234
+6234_22	conj	6234_19
+6234_22	has_surface_form	Wilcoxon
+6234_23	is_in_sentence	sentence_6234
+6234_23	punct	6234_3
+6234_23	has_surface_form	.
+6234_24	is_in_sentence	sentence_6234
+6234_24	dep	6234_3
+6234_24	has_surface_form	
+Taxi to Paradise	surface_form	Taxi to Paradise
+Taxi to Paradise	movie-has-director	Adrian Brunel
+Adrian Brunel	surface_form	Adrian Brunel

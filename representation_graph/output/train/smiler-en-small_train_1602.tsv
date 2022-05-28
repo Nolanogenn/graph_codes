@@ -1,0 +1,94 @@
+1601_0	is_in_sentence	sentence_1601
+1601_0	poss	1601_3
+1601_0	has_surface_form	Gilley
+1601_3	is_in_sentence	sentence_1601
+1601_3	nsubj	1601_4
+1601_3	has_surface_form	wife
+1601_1	is_in_sentence	sentence_1601
+1601_1	case	1601_0
+1601_1	has_surface_form	's
+1601_2	is_in_sentence	sentence_1601
+1601_2	amod	1601_3
+1601_2	has_surface_form	first
+1601_4	is_in_sentence	sentence_1601
+1601_4	ROOT	1601_4
+1601_4	has_surface_form	was
+1601_5	is_in_sentence	sentence_1601
+1601_5	compound	1601_6
+1601_5	has_surface_form	Geraldine
+1601_5	part_of_entity	Geraldine Garrett
+1601_6	is_in_sentence	sentence_1601
+1601_6	attr	1601_4
+1601_6	has_surface_form	Garrett
+1601_6	part_of_entity	Geraldine Garrett
+1601_7	is_in_sentence	sentence_1601
+1601_7	punct	1601_6
+1601_7	has_surface_form	,
+1601_8	is_in_sentence	sentence_1601
+1601_8	nsubj	1601_9
+1601_8	has_surface_form	who
+1601_9	is_in_sentence	sentence_1601
+1601_9	relcl	1601_6
+1601_9	has_surface_form	was
+1601_10	is_in_sentence	sentence_1601
+1601_10	det	1601_11
+1601_10	has_surface_form	the
+1601_11	is_in_sentence	sentence_1601
+1601_11	attr	1601_9
+1601_11	has_surface_form	mother
+1601_12	is_in_sentence	sentence_1601
+1601_12	prep	1601_11
+1601_12	has_surface_form	of
+1601_13	is_in_sentence	sentence_1601
+1601_13	pobj	1601_12
+1601_13	has_surface_form	three
+1601_14	is_in_sentence	sentence_1601
+1601_14	prep	1601_13
+1601_14	has_surface_form	of
+1601_15	is_in_sentence	sentence_1601
+1601_15	poss	1601_17
+1601_15	has_surface_form	his
+1601_17	is_in_sentence	sentence_1601
+1601_17	pobj	1601_14
+1601_17	has_surface_form	children
+1601_16	is_in_sentence	sentence_1601
+1601_16	nummod	1601_17
+1601_16	has_surface_form	four
+1601_18	is_in_sentence	sentence_1601
+1601_18	punct	1601_17
+1601_18	has_surface_form	(
+1601_19	is_in_sentence	sentence_1601
+1601_19	compound	1601_20
+1601_19	has_surface_form	Keith
+1601_19	part_of_entity	Keith Ray
+1601_20	is_in_sentence	sentence_1601
+1601_20	appos	1601_17
+1601_20	has_surface_form	Ray
+1601_20	part_of_entity	Keith Ray
+1601_21	is_in_sentence	sentence_1601
+1601_21	punct	1601_20
+1601_21	has_surface_form	,
+1601_22	is_in_sentence	sentence_1601
+1601_22	conj	1601_20
+1601_22	has_surface_form	Michael
+1601_23	is_in_sentence	sentence_1601
+1601_23	punct	1601_22
+1601_23	has_surface_form	,
+1601_24	is_in_sentence	sentence_1601
+1601_24	cc	1601_22
+1601_24	has_surface_form	and
+1601_25	is_in_sentence	sentence_1601
+1601_25	conj	1601_22
+1601_25	has_surface_form	Kathy
+1601_26	is_in_sentence	sentence_1601
+1601_26	punct	1601_17
+1601_26	has_surface_form	)
+1601_27	is_in_sentence	sentence_1601
+1601_27	punct	1601_4
+1601_27	has_surface_form	.
+1601_28	is_in_sentence	sentence_1601
+1601_28	dep	1601_28
+1601_28	has_surface_form	
+Geraldine Garrett	surface_form	Geraldine Garrett
+Geraldine Garrett	has-child	Keith Ray
+Keith Ray	surface_form	Keith Ray

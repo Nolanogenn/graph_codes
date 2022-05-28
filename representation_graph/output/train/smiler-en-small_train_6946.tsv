@@ -1,0 +1,117 @@
+6945_0	is_in_sentence	sentence_6945
+6945_0	det	6945_1
+6945_0	has_surface_form	The
+6945_0	part_of_entity	The Guitar of Gardel
+6945_1	is_in_sentence	sentence_6945
+6945_1	nsubj	6945_12
+6945_1	has_surface_form	Guitar
+6945_1	part_of_entity	The Guitar of Gardel
+6945_12	is_in_sentence	sentence_6945
+6945_12	ROOT	6945_12
+6945_12	has_surface_form	is
+6945_2	is_in_sentence	sentence_6945
+6945_2	prep	6945_1
+6945_2	has_surface_form	of
+6945_2	part_of_entity	The Guitar of Gardel
+6945_3	is_in_sentence	sentence_6945
+6945_3	pobj	6945_2
+6945_3	has_surface_form	Gardel
+6945_3	part_of_entity	The Guitar of Gardel
+6945_4	is_in_sentence	sentence_6945
+6945_4	punct	6945_5
+6945_4	has_surface_form	(
+6945_5	is_in_sentence	sentence_6945
+6945_5	appos	6945_1
+6945_5	has_surface_form	Spanish
+6945_6	is_in_sentence	sentence_6945
+6945_6	punct	6945_5
+6945_6	has_surface_form	:
+6945_7	is_in_sentence	sentence_6945
+6945_7	compound	6945_10
+6945_7	has_surface_form	La
+6945_10	is_in_sentence	sentence_6945
+6945_10	appos	6945_5
+6945_10	has_surface_form	Gardel
+6945_8	is_in_sentence	sentence_6945
+6945_8	compound	6945_10
+6945_8	has_surface_form	guitarra
+6945_9	is_in_sentence	sentence_6945
+6945_9	nmod	6945_10
+6945_9	has_surface_form	de
+6945_11	is_in_sentence	sentence_6945
+6945_11	punct	6945_5
+6945_11	has_surface_form	)
+6945_13	is_in_sentence	sentence_6945
+6945_13	det	6945_19
+6945_13	has_surface_form	a
+6945_19	is_in_sentence	sentence_6945
+6945_19	attr	6945_12
+6945_19	has_surface_form	film
+6945_14	is_in_sentence	sentence_6945
+6945_14	nummod	6945_19
+6945_14	has_surface_form	1949
+6945_15	is_in_sentence	sentence_6945
+6945_15	amod	6945_17
+6945_15	has_surface_form	Argentine
+6945_17	is_in_sentence	sentence_6945
+6945_17	amod	6945_19
+6945_17	has_surface_form	Spanish
+6945_16	is_in_sentence	sentence_6945
+6945_16	punct	6945_17
+6945_16	has_surface_form	-
+6945_18	is_in_sentence	sentence_6945
+6945_18	amod	6945_19
+6945_18	has_surface_form	musical
+6945_20	is_in_sentence	sentence_6945
+6945_20	acl	6945_19
+6945_20	has_surface_form	directed
+6945_21	is_in_sentence	sentence_6945
+6945_21	agent	6945_20
+6945_21	has_surface_form	by
+6945_22	is_in_sentence	sentence_6945
+6945_22	compound	6945_23
+6945_22	has_surface_form	León
+6945_22	part_of_entity	León Klimovsky
+6945_23	is_in_sentence	sentence_6945
+6945_23	pobj	6945_21
+6945_23	has_surface_form	Klimovsky
+6945_23	part_of_entity	León Klimovsky
+6945_24	is_in_sentence	sentence_6945
+6945_24	cc	6945_20
+6945_24	has_surface_form	and
+6945_25	is_in_sentence	sentence_6945
+6945_25	conj	6945_20
+6945_25	has_surface_form	starring
+6945_26	is_in_sentence	sentence_6945
+6945_26	compound	6945_27
+6945_26	has_surface_form	Agustín
+6945_27	is_in_sentence	sentence_6945
+6945_27	dobj	6945_25
+6945_27	has_surface_form	Irusta
+6945_28	is_in_sentence	sentence_6945
+6945_28	punct	6945_27
+6945_28	has_surface_form	,
+6945_29	is_in_sentence	sentence_6945
+6945_29	compound	6945_30
+6945_29	has_surface_form	Carmen
+6945_30	is_in_sentence	sentence_6945
+6945_30	conj	6945_27
+6945_30	has_surface_form	Sevilla
+6945_31	is_in_sentence	sentence_6945
+6945_31	cc	6945_30
+6945_31	has_surface_form	and
+6945_32	is_in_sentence	sentence_6945
+6945_32	compound	6945_33
+6945_32	has_surface_form	Antonio
+6945_33	is_in_sentence	sentence_6945
+6945_33	conj	6945_30
+6945_33	has_surface_form	Casal
+6945_34	is_in_sentence	sentence_6945
+6945_34	punct	6945_12
+6945_34	has_surface_form	.
+6945_35	is_in_sentence	sentence_6945
+6945_35	dep	6945_12
+6945_35	has_surface_form	
+The Guitar of Gardel	surface_form	The Guitar of Gardel
+The Guitar of Gardel	movie-has-director	León Klimovsky
+León Klimovsky	surface_form	León Klimovsky

@@ -1,0 +1,59 @@
+33521_0	is_in_sentence	sentence_33521
+33521_0	nsubjpass	33521_2
+33521_0	has_surface_form	Lee
+33521_2	is_in_sentence	sentence_33521
+33521_2	ROOT	33521_2
+33521_2	has_surface_form	born
+33521_1	is_in_sentence	sentence_33521
+33521_1	auxpass	33521_2
+33521_1	has_surface_form	was
+33521_3	is_in_sentence	sentence_33521
+33521_3	compound	33521_5
+33521_3	has_surface_form	Claudia
+33521_3	part_of_entity	Claudia Lee Mirkowski
+33521_5	is_in_sentence	sentence_33521
+33521_5	ccomp	33521_2
+33521_5	has_surface_form	Mirkowski
+33521_5	part_of_entity	Claudia Lee Mirkowski
+33521_4	is_in_sentence	sentence_33521
+33521_4	compound	33521_5
+33521_4	has_surface_form	Lee
+33521_4	part_of_entity	Claudia Lee Mirkowski
+33521_6	is_in_sentence	sentence_33521
+33521_6	prep	33521_5
+33521_6	has_surface_form	in
+33521_7	is_in_sentence	sentence_33521
+33521_7	compound	33521_8
+33521_7	has_surface_form	Lafayette
+33521_8	is_in_sentence	sentence_33521
+33521_8	pobj	33521_6
+33521_8	has_surface_form	Indiana
+33521_9	is_in_sentence	sentence_33521
+33521_9	punct	33521_5
+33521_9	has_surface_form	,
+33521_10	is_in_sentence	sentence_33521
+33521_10	prep	33521_2
+33521_10	has_surface_form	to
+33521_11	is_in_sentence	sentence_33521
+33521_11	pobj	33521_10
+33521_11	has_surface_form	Denise
+33521_12	is_in_sentence	sentence_33521
+33521_12	cc	33521_11
+33521_12	has_surface_form	and
+33521_13	is_in_sentence	sentence_33521
+33521_13	compound	33521_14
+33521_13	has_surface_form	Klaudius
+33521_13	part_of_entity	Klaudius Mirkowski
+33521_14	is_in_sentence	sentence_33521
+33521_14	conj	33521_11
+33521_14	has_surface_form	Mirkowski
+33521_14	part_of_entity	Klaudius Mirkowski
+33521_15	is_in_sentence	sentence_33521
+33521_15	punct	33521_2
+33521_15	has_surface_form	.
+33521_16	is_in_sentence	sentence_33521
+33521_16	dep	33521_16
+33521_16	has_surface_form	
+Claudia Lee Mirkowski	surface_form	Claudia Lee Mirkowski
+Claudia Lee Mirkowski	has-parent	Klaudius Mirkowski
+Klaudius Mirkowski	surface_form	Klaudius Mirkowski

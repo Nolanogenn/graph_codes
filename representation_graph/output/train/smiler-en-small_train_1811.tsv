@@ -1,0 +1,57 @@
+1810_0	is_in_sentence	sentence_1810
+1810_0	prep	1810_11
+1810_0	has_surface_form	In
+1810_11	is_in_sentence	sentence_1810
+1810_11	ROOT	1810_11
+1810_11	has_surface_form	invented
+1810_1	is_in_sentence	sentence_1810
+1810_1	pobj	1810_0
+1810_1	is_entity	1981
+1981	surface_form	1981
+1810_2	is_in_sentence	sentence_1810
+1810_2	det	1810_9
+1810_2	has_surface_form	the
+1810_9	is_in_sentence	sentence_1810
+1810_9	nsubjpass	1810_11
+1810_9	has_surface_form	cuff
+1810_9	part_of_entity	blood pressure cuff
+1810_3	is_in_sentence	sentence_1810
+1810_3	amod	1810_9
+1810_3	has_surface_form	first
+1810_4	is_in_sentence	sentence_1810
+1810_4	advmod	1810_5
+1810_4	has_surface_form	fully
+1810_5	is_in_sentence	sentence_1810
+1810_5	amod	1810_9
+1810_5	has_surface_form	automated
+1810_6	is_in_sentence	sentence_1810
+1810_6	amod	1810_9
+1810_6	has_surface_form	ocillometric
+1810_7	is_in_sentence	sentence_1810
+1810_7	compound	1810_8
+1810_7	has_surface_form	blood
+1810_7	part_of_entity	blood pressure cuff
+1810_8	is_in_sentence	sentence_1810
+1810_8	compound	1810_9
+1810_8	has_surface_form	pressure
+1810_8	part_of_entity	blood pressure cuff
+1810_10	is_in_sentence	sentence_1810
+1810_10	auxpass	1810_11
+1810_10	has_surface_form	was
+1810_12	is_in_sentence	sentence_1810
+1810_12	agent	1810_11
+1810_12	has_surface_form	by
+1810_13	is_in_sentence	sentence_1810
+1810_13	compound	1810_14
+1810_13	has_surface_form	Donald
+1810_14	is_in_sentence	sentence_1810
+1810_14	pobj	1810_12
+1810_14	has_surface_form	Nunn
+1810_15	is_in_sentence	sentence_1810
+1810_15	punct	1810_11
+1810_15	has_surface_form	.
+1810_16	is_in_sentence	sentence_1810
+1810_16	dep	1810_16
+1810_16	has_surface_form	
+blood pressure cuff	surface_form	blood pressure cuff
+blood pressure cuff	invented-when	1981

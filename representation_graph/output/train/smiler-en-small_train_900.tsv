@@ -1,0 +1,90 @@
+899_0	is_in_sentence	sentence_899
+899_0	det	899_1
+899_0	has_surface_form	The
+899_0	part_of_entity	The Marines Fly High
+899_1	is_in_sentence	sentence_899
+899_1	compound	899_3
+899_1	has_surface_form	Marines
+899_1	part_of_entity	The Marines Fly High
+899_3	is_in_sentence	sentence_899
+899_3	nsubj	899_4
+899_3	has_surface_form	High
+899_3	part_of_entity	The Marines Fly High
+899_2	is_in_sentence	sentence_899
+899_2	compound	899_3
+899_2	has_surface_form	Fly
+899_2	part_of_entity	The Marines Fly High
+899_4	is_in_sentence	sentence_899
+899_4	ROOT	899_4
+899_4	has_surface_form	is
+899_5	is_in_sentence	sentence_899
+899_5	det	899_8
+899_5	has_surface_form	a
+899_8	is_in_sentence	sentence_899
+899_8	attr	899_4
+899_8	has_surface_form	film
+899_6	is_in_sentence	sentence_899
+899_6	nummod	899_8
+899_6	has_surface_form	1940
+899_7	is_in_sentence	sentence_899
+899_7	compound	899_8
+899_7	has_surface_form	action
+899_9	is_in_sentence	sentence_899
+899_9	punct	899_4
+899_9	has_surface_form	,
+899_10	is_in_sentence	sentence_899
+899_10	advcl	899_4
+899_10	has_surface_form	starring
+899_11	is_in_sentence	sentence_899
+899_11	compound	899_12
+899_11	has_surface_form	Richard
+899_12	is_in_sentence	sentence_899
+899_12	dobj	899_10
+899_12	has_surface_form	Dix
+899_13	is_in_sentence	sentence_899
+899_13	punct	899_12
+899_13	has_surface_form	,
+899_14	is_in_sentence	sentence_899
+899_14	compound	899_15
+899_14	has_surface_form	Chester
+899_14	part_of_entity	Chester Morris
+899_15	is_in_sentence	sentence_899
+899_15	conj	899_12
+899_15	has_surface_form	Morris
+899_15	part_of_entity	Chester Morris
+899_16	is_in_sentence	sentence_899
+899_16	cc	899_15
+899_16	has_surface_form	and
+899_17	is_in_sentence	sentence_899
+899_17	compound	899_18
+899_17	has_surface_form	Lucille
+899_18	is_in_sentence	sentence_899
+899_18	conj	899_15
+899_18	has_surface_form	Ball
+899_19	is_in_sentence	sentence_899
+899_19	cc	899_10
+899_19	has_surface_form	and
+899_20	is_in_sentence	sentence_899
+899_20	conj	899_10
+899_20	has_surface_form	directed
+899_21	is_in_sentence	sentence_899
+899_21	agent	899_20
+899_21	has_surface_form	by
+899_22	is_in_sentence	sentence_899
+899_22	compound	899_23
+899_22	has_surface_form	George
+899_23	is_in_sentence	sentence_899
+899_23	pobj	899_21
+899_23	has_surface_form	Nicholls
+899_24	is_in_sentence	sentence_899
+899_24	punct	899_23
+899_24	has_surface_form	,
+899_25	is_in_sentence	sentence_899
+899_25	appos	899_23
+899_25	has_surface_form	Jr.
+899_26	is_in_sentence	sentence_899
+899_26	dep	899_23
+899_26	has_surface_form	
+The Marines Fly High	surface_form	The Marines Fly High
+The Marines Fly High	starring	Chester Morris
+Chester Morris	surface_form	Chester Morris

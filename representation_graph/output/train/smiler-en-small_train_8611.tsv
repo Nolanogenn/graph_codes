@@ -1,0 +1,77 @@
+8610_0	is_in_sentence	sentence_8610
+8610_0	nmod	8610_2
+8610_0	has_surface_form	Lèvres
+8610_0	part_of_entity	Lèvres de Sang
+8610_2	is_in_sentence	sentence_8610
+8610_2	nsubj	8610_11
+8610_2	has_surface_form	Sang
+8610_2	part_of_entity	Lèvres de Sang
+8610_1	is_in_sentence	sentence_8610
+8610_1	nmod	8610_2
+8610_1	has_surface_form	de
+8610_1	part_of_entity	Lèvres de Sang
+8610_11	is_in_sentence	sentence_8610
+8610_11	ROOT	8610_11
+8610_11	has_surface_form	is
+8610_3	is_in_sentence	sentence_8610
+8610_3	punct	8610_5
+8610_3	has_surface_form	(
+8610_5	is_in_sentence	sentence_8610
+8610_5	appos	8610_2
+8610_5	has_surface_form	title
+8610_4	is_in_sentence	sentence_8610
+8610_4	amod	8610_5
+8610_4	has_surface_form	English
+8610_6	is_in_sentence	sentence_8610
+8610_6	punct	8610_5
+8610_6	has_surface_form	:
+8610_7	is_in_sentence	sentence_8610
+8610_7	appos	8610_5
+8610_7	has_surface_form	Lips
+8610_8	is_in_sentence	sentence_8610
+8610_8	prep	8610_7
+8610_8	has_surface_form	of
+8610_9	is_in_sentence	sentence_8610
+8610_9	pobj	8610_8
+8610_9	has_surface_form	Blood
+8610_10	is_in_sentence	sentence_8610
+8610_10	punct	8610_5
+8610_10	has_surface_form	)
+8610_12	is_in_sentence	sentence_8610
+8610_12	det	8610_16
+8610_12	has_surface_form	a
+8610_16	is_in_sentence	sentence_8610
+8610_16	attr	8610_11
+8610_16	has_surface_form	film
+8610_13	is_in_sentence	sentence_8610
+8610_13	nummod	8610_16
+8610_13	has_surface_form	1975
+8610_14	is_in_sentence	sentence_8610
+8610_14	amod	8610_16
+8610_14	has_surface_form	French
+8610_15	is_in_sentence	sentence_8610
+8610_15	compound	8610_16
+8610_15	has_surface_form	horror
+8610_17	is_in_sentence	sentence_8610
+8610_17	acl	8610_16
+8610_17	has_surface_form	directed
+8610_18	is_in_sentence	sentence_8610
+8610_18	agent	8610_17
+8610_18	has_surface_form	by
+8610_19	is_in_sentence	sentence_8610
+8610_19	compound	8610_20
+8610_19	has_surface_form	Jean
+8610_19	part_of_entity	Jean Rollin
+8610_20	is_in_sentence	sentence_8610
+8610_20	pobj	8610_18
+8610_20	has_surface_form	Rollin
+8610_20	part_of_entity	Jean Rollin
+8610_21	is_in_sentence	sentence_8610
+8610_21	punct	8610_11
+8610_21	has_surface_form	.
+8610_22	is_in_sentence	sentence_8610
+8610_22	dep	8610_22
+8610_22	has_surface_form	
+Lèvres de Sang	surface_form	Lèvres de Sang
+Lèvres de Sang	movie-has-director	Jean Rollin
+Jean Rollin	surface_form	Jean Rollin

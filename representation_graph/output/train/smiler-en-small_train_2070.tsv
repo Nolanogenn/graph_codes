@@ -1,0 +1,113 @@
+2069_0	is_in_sentence	sentence_2069
+2069_0	det	2069_2
+2069_0	has_surface_form	A
+2069_0	part_of_entity	A Commuter Kind of Love
+2069_2	is_in_sentence	sentence_2069
+2069_2	nsubj	2069_11
+2069_2	has_surface_form	Kind
+2069_2	part_of_entity	A Commuter Kind of Love
+2069_1	is_in_sentence	sentence_2069
+2069_1	compound	2069_2
+2069_1	has_surface_form	Commuter
+2069_1	part_of_entity	A Commuter Kind of Love
+2069_11	is_in_sentence	sentence_2069
+2069_11	ROOT	2069_11
+2069_11	has_surface_form	is
+2069_3	is_in_sentence	sentence_2069
+2069_3	prep	2069_2
+2069_3	has_surface_form	of
+2069_3	part_of_entity	A Commuter Kind of Love
+2069_4	is_in_sentence	sentence_2069
+2069_4	pobj	2069_3
+2069_4	has_surface_form	Love
+2069_4	part_of_entity	A Commuter Kind of Love
+2069_5	is_in_sentence	sentence_2069
+2069_5	punct	2069_6
+2069_5	has_surface_form	(
+2069_6	is_in_sentence	sentence_2069
+2069_6	appos	2069_2
+2069_6	has_surface_form	Norwegian
+2069_7	is_in_sentence	sentence_2069
+2069_7	punct	2069_6
+2069_7	has_surface_form	:
+2069_8	is_in_sentence	sentence_2069
+2069_8	compound	2069_9
+2069_8	has_surface_form	Kjærleikens
+2069_9	is_in_sentence	sentence_2069
+2069_9	appos	2069_6
+2069_9	has_surface_form	ferjereiser
+2069_10	is_in_sentence	sentence_2069
+2069_10	punct	2069_6
+2069_10	has_surface_form	)
+2069_12	is_in_sentence	sentence_2069
+2069_12	det	2069_16
+2069_12	has_surface_form	a
+2069_16	is_in_sentence	sentence_2069
+2069_16	attr	2069_11
+2069_16	has_surface_form	film
+2069_13	is_in_sentence	sentence_2069
+2069_13	nummod	2069_16
+2069_13	has_surface_form	1979
+2069_14	is_in_sentence	sentence_2069
+2069_14	amod	2069_16
+2069_14	has_surface_form	Norwegian
+2069_15	is_in_sentence	sentence_2069
+2069_15	compound	2069_16
+2069_15	has_surface_form	drama
+2069_17	is_in_sentence	sentence_2069
+2069_17	acl	2069_16
+2069_17	has_surface_form	directed
+2069_18	is_in_sentence	sentence_2069
+2069_18	agent	2069_17
+2069_18	has_surface_form	by
+2069_19	is_in_sentence	sentence_2069
+2069_19	compound	2069_21
+2069_19	has_surface_form	Hans
+2069_19	part_of_entity	Hans Otto Nicolayssen
+2069_21	is_in_sentence	sentence_2069
+2069_21	pobj	2069_18
+2069_21	has_surface_form	Nicolayssen
+2069_21	part_of_entity	Hans Otto Nicolayssen
+2069_20	is_in_sentence	sentence_2069
+2069_20	compound	2069_21
+2069_20	has_surface_form	Otto
+2069_20	part_of_entity	Hans Otto Nicolayssen
+2069_22	is_in_sentence	sentence_2069
+2069_22	punct	2069_11
+2069_22	has_surface_form	,
+2069_23	is_in_sentence	sentence_2069
+2069_23	advcl	2069_11
+2069_23	has_surface_form	starring
+2069_24	is_in_sentence	sentence_2069
+2069_24	compound	2069_25
+2069_24	has_surface_form	Eilif
+2069_25	is_in_sentence	sentence_2069
+2069_25	dobj	2069_23
+2069_25	has_surface_form	Armand
+2069_26	is_in_sentence	sentence_2069
+2069_26	punct	2069_25
+2069_26	has_surface_form	,
+2069_27	is_in_sentence	sentence_2069
+2069_27	compound	2069_28
+2069_27	has_surface_form	Frøydis
+2069_28	is_in_sentence	sentence_2069
+2069_28	appos	2069_25
+2069_28	has_surface_form	Armand
+2069_29	is_in_sentence	sentence_2069
+2069_29	cc	2069_28
+2069_29	has_surface_form	and
+2069_30	is_in_sentence	sentence_2069
+2069_30	prep	2069_23
+2069_30	has_surface_form	Per
+2069_31	is_in_sentence	sentence_2069
+2069_31	pobj	2069_30
+2069_31	has_surface_form	Jansen
+2069_32	is_in_sentence	sentence_2069
+2069_32	punct	2069_11
+2069_32	has_surface_form	.
+2069_33	is_in_sentence	sentence_2069
+2069_33	dep	2069_33
+2069_33	has_surface_form	
+A Commuter Kind of Love	surface_form	A Commuter Kind of Love
+A Commuter Kind of Love	movie-has-director	Hans Otto Nicolayssen
+Hans Otto Nicolayssen	surface_form	Hans Otto Nicolayssen

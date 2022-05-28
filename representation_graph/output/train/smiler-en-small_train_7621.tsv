@@ -1,0 +1,62 @@
+7620_0	is_in_sentence	sentence_7620
+7620_0	compound	7620_1
+7620_0	has_surface_form	Fiona
+7620_0	part_of_entity	Fiona Hogan
+7620_1	is_in_sentence	sentence_7620
+7620_1	nsubj	7620_2
+7620_1	has_surface_form	Hogan
+7620_1	part_of_entity	Fiona Hogan
+7620_2	is_in_sentence	sentence_7620
+7620_2	ROOT	7620_2
+7620_2	has_surface_form	is
+7620_3	is_in_sentence	sentence_7620
+7620_3	det	7620_5
+7620_3	has_surface_form	an
+7620_5	is_in_sentence	sentence_7620
+7620_5	attr	7620_2
+7620_5	has_surface_form	actress
+7620_4	is_in_sentence	sentence_7620
+7620_4	amod	7620_5
+7620_4	has_surface_form	American
+7620_6	is_in_sentence	sentence_7620
+7620_6	punct	7620_2
+7620_6	has_surface_form	.
+7620_7	is_in_sentence	sentence_7620
+7620_7	nsubjpass	7620_9
+7620_7	has_surface_form	She
+7620_9	is_in_sentence	sentence_7620
+7620_9	ROOT	7620_9
+7620_9	has_surface_form	born
+7620_8	is_in_sentence	sentence_7620
+7620_8	auxpass	7620_9
+7620_8	has_surface_form	was
+7620_10	is_in_sentence	sentence_7620
+7620_10	cc	7620_9
+7620_10	has_surface_form	and
+7620_11	is_in_sentence	sentence_7620
+7620_11	conj	7620_9
+7620_11	has_surface_form	raised
+7620_12	is_in_sentence	sentence_7620
+7620_12	prep	7620_11
+7620_12	has_surface_form	in
+7620_13	is_in_sentence	sentence_7620
+7620_13	compound	7620_14
+7620_13	has_surface_form	New
+7620_13	part_of_entity	New York City
+7620_14	is_in_sentence	sentence_7620
+7620_14	compound	7620_15
+7620_14	has_surface_form	York
+7620_14	part_of_entity	New York City
+7620_15	is_in_sentence	sentence_7620
+7620_15	pobj	7620_12
+7620_15	has_surface_form	City
+7620_15	part_of_entity	New York City
+7620_16	is_in_sentence	sentence_7620
+7620_16	punct	7620_9
+7620_16	has_surface_form	.
+7620_17	is_in_sentence	sentence_7620
+7620_17	dep	7620_17
+7620_17	has_surface_form	
+Fiona Hogan	surface_form	Fiona Hogan
+Fiona Hogan	birth-place	New York City
+New York City	surface_form	New York City

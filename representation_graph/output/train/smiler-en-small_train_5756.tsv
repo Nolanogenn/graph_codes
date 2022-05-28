@@ -1,0 +1,67 @@
+5755_0	is_in_sentence	sentence_5755
+5755_0	compound	5755_1
+5755_0	has_surface_form	Confidentially
+5755_0	part_of_entity	Confidentially Connie
+5755_1	is_in_sentence	sentence_5755
+5755_1	nsubj	5755_2
+5755_1	has_surface_form	Connie
+5755_1	part_of_entity	Confidentially Connie
+5755_2	is_in_sentence	sentence_5755
+5755_2	ROOT	5755_2
+5755_2	has_surface_form	is
+5755_3	is_in_sentence	sentence_5755
+5755_3	det	5755_5
+5755_3	has_surface_form	a
+5755_5	is_in_sentence	sentence_5755
+5755_5	attr	5755_2
+5755_5	has_surface_form	film
+5755_4	is_in_sentence	sentence_5755
+5755_4	nummod	5755_5
+5755_4	has_surface_form	1953
+5755_6	is_in_sentence	sentence_5755
+5755_6	acl	5755_5
+5755_6	has_surface_form	directed
+5755_7	is_in_sentence	sentence_5755
+5755_7	agent	5755_6
+5755_7	has_surface_form	by
+5755_8	is_in_sentence	sentence_5755
+5755_8	compound	5755_9
+5755_8	has_surface_form	Edward
+5755_9	is_in_sentence	sentence_5755
+5755_9	pobj	5755_7
+5755_9	has_surface_form	Buzzell
+5755_10	is_in_sentence	sentence_5755
+5755_10	punct	5755_2
+5755_10	has_surface_form	.
+5755_11	is_in_sentence	sentence_5755
+5755_11	nsubj	5755_12
+5755_11	has_surface_form	It
+5755_12	is_in_sentence	sentence_5755
+5755_12	ROOT	5755_12
+5755_12	has_surface_form	stars
+5755_13	is_in_sentence	sentence_5755
+5755_13	compound	5755_14
+5755_13	has_surface_form	Van
+5755_13	part_of_entity	Van Johnson
+5755_14	is_in_sentence	sentence_5755
+5755_14	dobj	5755_12
+5755_14	has_surface_form	Johnson
+5755_14	part_of_entity	Van Johnson
+5755_15	is_in_sentence	sentence_5755
+5755_15	cc	5755_14
+5755_15	has_surface_form	and
+5755_16	is_in_sentence	sentence_5755
+5755_16	compound	5755_17
+5755_16	has_surface_form	Janet
+5755_17	is_in_sentence	sentence_5755
+5755_17	conj	5755_14
+5755_17	has_surface_form	Leigh
+5755_18	is_in_sentence	sentence_5755
+5755_18	punct	5755_12
+5755_18	has_surface_form	.
+5755_19	is_in_sentence	sentence_5755
+5755_19	dep	5755_12
+5755_19	has_surface_form	
+Confidentially Connie	surface_form	Confidentially Connie
+Confidentially Connie	starring	Van Johnson
+Van Johnson	surface_form	Van Johnson

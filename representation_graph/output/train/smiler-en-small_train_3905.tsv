@@ -1,0 +1,50 @@
+3904_0	is_in_sentence	sentence_3904
+3904_0	compound	3904_1
+3904_0	has_surface_form	Pavel
+3904_0	part_of_entity	Pavel Shumil
+3904_1	is_in_sentence	sentence_3904
+3904_1	nsubj	3904_7
+3904_1	has_surface_form	Shumil
+3904_1	part_of_entity	Pavel Shumil
+3904_7	is_in_sentence	sentence_3904
+3904_7	ROOT	3904_7
+3904_7	has_surface_form	is
+3904_2	is_in_sentence	sentence_3904
+3904_2	punct	3904_1
+3904_2	has_surface_form	(
+3904_3	is_in_sentence	sentence_3904
+3904_3	appos	3904_1
+3904_3	has_surface_form	Па́вел
+3904_4	is_in_sentence	sentence_3904
+3904_4	compound	3904_5
+3904_4	has_surface_form	Ро́бертович
+3904_5	is_in_sentence	sentence_3904
+3904_5	dobj	3904_3
+3904_5	has_surface_form	Шуми́лов
+3904_6	is_in_sentence	sentence_3904
+3904_6	punct	3904_1
+3904_6	has_surface_form	)
+3904_8	is_in_sentence	sentence_3904
+3904_8	det	3904_12
+3904_8	has_surface_form	a
+3904_12	is_in_sentence	sentence_3904
+3904_12	attr	3904_7
+3904_12	is_entity	author
+3904_9	is_in_sentence	sentence_3904
+3904_9	amod	3904_11
+3904_9	has_surface_form	Russian
+3904_11	is_in_sentence	sentence_3904
+3904_11	compound	3904_12
+3904_11	has_surface_form	fiction
+3904_10	is_in_sentence	sentence_3904
+3904_10	compound	3904_11
+3904_10	has_surface_form	science
+author	surface_form	author
+3904_13	is_in_sentence	sentence_3904
+3904_13	punct	3904_7
+3904_13	has_surface_form	.
+3904_14	is_in_sentence	sentence_3904
+3904_14	dep	3904_14
+3904_14	has_surface_form	
+Pavel Shumil	surface_form	Pavel Shumil
+Pavel Shumil	has-occupation	author

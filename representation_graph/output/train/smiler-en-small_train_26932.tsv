@@ -1,0 +1,64 @@
+26931_0	is_in_sentence	sentence_26931
+26931_0	compound	26931_1
+26931_0	has_surface_form	Glenn
+26931_0	part_of_entity	Glenn Caruso
+26931_1	is_in_sentence	sentence_26931
+26931_1	nsubj	26931_9
+26931_1	has_surface_form	Caruso
+26931_1	part_of_entity	Glenn Caruso
+26931_9	is_in_sentence	sentence_26931
+26931_9	ROOT	26931_9
+26931_9	has_surface_form	is
+26931_2	is_in_sentence	sentence_26931
+26931_2	punct	26931_1
+26931_2	has_surface_form	(
+26931_3	is_in_sentence	sentence_26931
+26931_3	acl	26931_1
+26931_3	has_surface_form	born
+26931_4	is_in_sentence	sentence_26931
+26931_4	npadvmod	26931_3
+26931_4	has_surface_form	May
+26931_5	is_in_sentence	sentence_26931
+26931_5	nummod	26931_4
+26931_5	has_surface_form	20
+26931_6	is_in_sentence	sentence_26931
+26931_6	punct	26931_4
+26931_6	has_surface_form	,
+26931_7	is_in_sentence	sentence_26931
+26931_7	nummod	26931_4
+26931_7	has_surface_form	1974
+26931_8	is_in_sentence	sentence_26931
+26931_8	punct	26931_1
+26931_8	has_surface_form	)
+26931_10	is_in_sentence	sentence_26931
+26931_10	det	26931_13
+26931_10	has_surface_form	an
+26931_13	is_in_sentence	sentence_26931
+26931_13	attr	26931_9
+26931_13	has_surface_form	coach
+26931_13	part_of_entity	football coach
+26931_11	is_in_sentence	sentence_26931
+26931_11	amod	26931_13
+26931_11	has_surface_form	American
+26931_12	is_in_sentence	sentence_26931
+26931_12	compound	26931_13
+26931_12	has_surface_form	football
+26931_12	part_of_entity	football coach
+26931_14	is_in_sentence	sentence_26931
+26931_14	cc	26931_13
+26931_14	has_surface_form	and
+26931_15	is_in_sentence	sentence_26931
+26931_15	amod	26931_16
+26931_15	has_surface_form	former
+26931_16	is_in_sentence	sentence_26931
+26931_16	conj	26931_13
+26931_16	has_surface_form	player
+26931_17	is_in_sentence	sentence_26931
+26931_17	punct	26931_9
+26931_17	has_surface_form	.
+26931_18	is_in_sentence	sentence_26931
+26931_18	dep	26931_18
+26931_18	has_surface_form	
+Glenn Caruso	surface_form	Glenn Caruso
+Glenn Caruso	has-type	football coach
+football coach	surface_form	football coach

@@ -1,0 +1,59 @@
+31730_0	is_in_sentence	sentence_31730
+31730_0	compound	31730_1
+31730_0	has_surface_form	Yuri
+31730_0	part_of_entity	Yuri Fedorov
+31730_1	is_in_sentence	sentence_31730
+31730_1	nsubj	31730_9
+31730_1	has_surface_form	Fedorov
+31730_1	part_of_entity	Yuri Fedorov
+31730_9	is_in_sentence	sentence_31730
+31730_9	ROOT	31730_9
+31730_9	has_surface_form	is
+31730_2	is_in_sentence	sentence_31730
+31730_2	punct	31730_1
+31730_2	has_surface_form	(
+31730_3	is_in_sentence	sentence_31730
+31730_3	acl	31730_1
+31730_3	has_surface_form	born
+31730_4	is_in_sentence	sentence_31730
+31730_4	npadvmod	31730_3
+31730_4	has_surface_form	July
+31730_5	is_in_sentence	sentence_31730
+31730_5	nummod	31730_4
+31730_5	has_surface_form	8
+31730_6	is_in_sentence	sentence_31730
+31730_6	punct	31730_4
+31730_6	has_surface_form	,
+31730_7	is_in_sentence	sentence_31730
+31730_7	nummod	31730_4
+31730_7	has_surface_form	1949
+31730_8	is_in_sentence	sentence_31730
+31730_8	punct	31730_1
+31730_8	has_surface_form	)
+31730_10	is_in_sentence	sentence_31730
+31730_10	det	31730_15
+31730_10	has_surface_form	a
+31730_15	is_in_sentence	sentence_31730
+31730_15	attr	31730_9
+31730_15	has_surface_form	defenceman
+31730_11	is_in_sentence	sentence_31730
+31730_11	amod	31730_15
+31730_11	is_entity	Russian
+Russian	surface_form	Russian
+31730_12	is_in_sentence	sentence_31730
+31730_12	amod	31730_15
+31730_12	has_surface_form	retired
+31730_13	is_in_sentence	sentence_31730
+31730_13	compound	31730_14
+31730_13	has_surface_form	ice
+31730_14	is_in_sentence	sentence_31730
+31730_14	compound	31730_15
+31730_14	has_surface_form	hockey
+31730_16	is_in_sentence	sentence_31730
+31730_16	punct	31730_9
+31730_16	has_surface_form	.
+31730_17	is_in_sentence	sentence_31730
+31730_17	dep	31730_17
+31730_17	has_surface_form	
+Yuri Fedorov	surface_form	Yuri Fedorov
+Yuri Fedorov	has-nationality	Russian

@@ -1,0 +1,76 @@
+4930_0	is_in_sentence	sentence_4930
+4930_0	det	4930_2
+4930_0	has_surface_form	The
+4930_2	is_in_sentence	sentence_4930
+4930_2	nsubjpass	4930_4
+4930_2	has_surface_form	engine
+4930_2	part_of_entity	atmospheric engine
+4930_1	is_in_sentence	sentence_4930
+4930_1	amod	4930_2
+4930_1	has_surface_form	atmospheric
+4930_1	part_of_entity	atmospheric engine
+4930_4	is_in_sentence	sentence_4930
+4930_4	ROOT	4930_4
+4930_4	has_surface_form	invented
+4930_3	is_in_sentence	sentence_4930
+4930_3	auxpass	4930_4
+4930_3	has_surface_form	was
+4930_5	is_in_sentence	sentence_4930
+4930_5	agent	4930_4
+4930_5	has_surface_form	by
+4930_6	is_in_sentence	sentence_4930
+4930_6	compound	4930_7
+4930_6	has_surface_form	Thomas
+4930_6	part_of_entity	Thomas Newcomen
+4930_7	is_in_sentence	sentence_4930
+4930_7	pobj	4930_5
+4930_7	has_surface_form	Newcomen
+4930_7	part_of_entity	Thomas Newcomen
+4930_8	is_in_sentence	sentence_4930
+4930_8	prep	4930_4
+4930_8	has_surface_form	in
+4930_9	is_in_sentence	sentence_4930
+4930_9	pobj	4930_8
+4930_9	has_surface_form	1712
+4930_10	is_in_sentence	sentence_4930
+4930_10	punct	4930_4
+4930_10	has_surface_form	,
+4930_11	is_in_sentence	sentence_4930
+4930_11	cc	4930_4
+4930_11	has_surface_form	and
+4930_12	is_in_sentence	sentence_4930
+4930_12	auxpass	4930_14
+4930_12	has_surface_form	is
+4930_14	is_in_sentence	sentence_4930
+4930_14	conj	4930_4
+4930_14	has_surface_form	referred
+4930_13	is_in_sentence	sentence_4930
+4930_13	advmod	4930_14
+4930_13	has_surface_form	often
+4930_15	is_in_sentence	sentence_4930
+4930_15	prep	4930_14
+4930_15	has_surface_form	to
+4930_16	is_in_sentence	sentence_4930
+4930_16	advmod	4930_17
+4930_16	has_surface_form	simply
+4930_17	is_in_sentence	sentence_4930
+4930_17	prep	4930_14
+4930_17	has_surface_form	as
+4930_18	is_in_sentence	sentence_4930
+4930_18	det	4930_20
+4930_18	has_surface_form	a
+4930_20	is_in_sentence	sentence_4930
+4930_20	pobj	4930_17
+4930_20	has_surface_form	engine
+4930_19	is_in_sentence	sentence_4930
+4930_19	compound	4930_20
+4930_19	has_surface_form	Newcomen
+4930_21	is_in_sentence	sentence_4930
+4930_21	punct	4930_4
+4930_21	has_surface_form	.
+4930_22	is_in_sentence	sentence_4930
+4930_22	dep	4930_22
+4930_22	has_surface_form	
+atmospheric engine	surface_form	atmospheric engine
+atmospheric engine	invented-by	Thomas Newcomen
+Thomas Newcomen	surface_form	Thomas Newcomen

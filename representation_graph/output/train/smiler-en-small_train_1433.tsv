@@ -1,0 +1,56 @@
+1432_0	is_in_sentence	sentence_1432
+1432_0	compound	1432_2
+1432_0	has_surface_form	Maria
+1432_0	part_of_entity	Maria Antonia Ferdinanda
+1432_2	is_in_sentence	sentence_1432
+1432_2	nsubj	1432_5
+1432_2	has_surface_form	Ferdinanda
+1432_2	part_of_entity	Maria Antonia Ferdinanda
+1432_1	is_in_sentence	sentence_1432
+1432_1	compound	1432_2
+1432_1	has_surface_form	Antonia
+1432_1	part_of_entity	Maria Antonia Ferdinanda
+1432_5	is_in_sentence	sentence_1432
+1432_5	ROOT	1432_5
+1432_5	has_surface_form	was
+1432_3	is_in_sentence	sentence_1432
+1432_3	prep	1432_2
+1432_3	has_surface_form	of
+1432_4	is_in_sentence	sentence_1432
+1432_4	pobj	1432_3
+1432_4	has_surface_form	Spain
+1432_6	is_in_sentence	sentence_1432
+1432_6	det	1432_8
+1432_6	has_surface_form	the
+1432_8	is_in_sentence	sentence_1432
+1432_8	attr	1432_5
+1432_8	has_surface_form	daughter
+1432_7	is_in_sentence	sentence_1432
+1432_7	amod	1432_8
+1432_7	has_surface_form	youngest
+1432_9	is_in_sentence	sentence_1432
+1432_9	prep	1432_8
+1432_9	has_surface_form	of
+1432_10	is_in_sentence	sentence_1432
+1432_10	compound	1432_11
+1432_10	has_surface_form	Philip
+1432_10	part_of_entity	Philip V
+1432_11	is_in_sentence	sentence_1432
+1432_11	pobj	1432_9
+1432_11	has_surface_form	V
+1432_11	part_of_entity	Philip V
+1432_12	is_in_sentence	sentence_1432
+1432_12	prep	1432_11
+1432_12	has_surface_form	of
+1432_13	is_in_sentence	sentence_1432
+1432_13	pobj	1432_12
+1432_13	has_surface_form	Spain
+1432_14	is_in_sentence	sentence_1432
+1432_14	punct	1432_5
+1432_14	has_surface_form	.
+1432_15	is_in_sentence	sentence_1432
+1432_15	dep	1432_15
+1432_15	has_surface_form	
+Maria Antonia Ferdinanda	surface_form	Maria Antonia Ferdinanda
+Maria Antonia Ferdinanda	has-parent	Philip V
+Philip V	surface_form	Philip V

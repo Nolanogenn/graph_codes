@@ -1,0 +1,68 @@
+3900_0	is_in_sentence	sentence_3900
+3900_0	compound	3900_1
+3900_0	has_surface_form	Saddleback
+3900_0	part_of_entity	Saddleback College
+3900_1	is_in_sentence	sentence_3900
+3900_1	nsubj	3900_4
+3900_1	has_surface_form	College
+3900_1	part_of_entity	Saddleback College
+3900_4	is_in_sentence	sentence_3900
+3900_4	csubj	3900_9
+3900_4	has_surface_form	referred
+3900_2	is_in_sentence	sentence_3900
+3900_2	punct	3900_4
+3900_2	has_surface_form	(
+3900_3	is_in_sentence	sentence_3900
+3900_3	advmod	3900_4
+3900_3	has_surface_form	commonly
+3900_9	is_in_sentence	sentence_3900
+3900_9	ROOT	3900_9
+3900_9	has_surface_form	is
+3900_5	is_in_sentence	sentence_3900
+3900_5	prep	3900_4
+3900_5	has_surface_form	to
+3900_6	is_in_sentence	sentence_3900
+3900_6	prep	3900_4
+3900_6	has_surface_form	as
+3900_7	is_in_sentence	sentence_3900
+3900_7	pobj	3900_6
+3900_7	has_surface_form	Saddleback
+3900_8	is_in_sentence	sentence_3900
+3900_8	punct	3900_4
+3900_8	has_surface_form	)
+3900_10	is_in_sentence	sentence_3900
+3900_10	det	3900_13
+3900_10	has_surface_form	a
+3900_13	is_in_sentence	sentence_3900
+3900_13	attr	3900_9
+3900_13	has_surface_form	college
+3900_11	is_in_sentence	sentence_3900
+3900_11	amod	3900_12
+3900_11	has_surface_form	public
+3900_12	is_in_sentence	sentence_3900
+3900_12	compound	3900_13
+3900_12	has_surface_form	community
+3900_14	is_in_sentence	sentence_3900
+3900_14	prep	3900_13
+3900_14	has_surface_form	in
+3900_15	is_in_sentence	sentence_3900
+3900_15	compound	3900_16
+3900_15	has_surface_form	Mission
+3900_16	is_in_sentence	sentence_3900
+3900_16	pobj	3900_14
+3900_16	has_surface_form	Viejo
+3900_17	is_in_sentence	sentence_3900
+3900_17	punct	3900_16
+3900_17	has_surface_form	,
+3900_18	is_in_sentence	sentence_3900
+3900_18	appos	3900_16
+3900_18	has_surface_form	California
+3900_19	is_in_sentence	sentence_3900
+3900_19	punct	3900_9
+3900_19	has_surface_form	.
+3900_20	is_in_sentence	sentence_3900
+3900_20	dep	3900_20
+3900_20	has_surface_form	
+Saddleback College	surface_form	Saddleback College
+Saddleback College	is-where	Mission Viejo, California
+Mission Viejo, California	surface_form	Mission Viejo, California

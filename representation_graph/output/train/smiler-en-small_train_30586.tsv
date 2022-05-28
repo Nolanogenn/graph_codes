@@ -1,0 +1,75 @@
+30585_0	is_in_sentence	sentence_30585
+30585_0	compound	30585_3
+30585_0	has_surface_form	Graham
+30585_0	part_of_entity	Graham Hill Elementary School
+30585_3	is_in_sentence	sentence_30585
+30585_3	nsubj	30585_4
+30585_3	has_surface_form	School
+30585_3	part_of_entity	Graham Hill Elementary School
+30585_1	is_in_sentence	sentence_30585
+30585_1	compound	30585_3
+30585_1	has_surface_form	Hill
+30585_1	part_of_entity	Graham Hill Elementary School
+30585_2	is_in_sentence	sentence_30585
+30585_2	compound	30585_3
+30585_2	has_surface_form	Elementary
+30585_2	part_of_entity	Graham Hill Elementary School
+30585_4	is_in_sentence	sentence_30585
+30585_4	ROOT	30585_4
+30585_4	has_surface_form	is
+30585_5	is_in_sentence	sentence_30585
+30585_5	det	30585_7
+30585_5	has_surface_form	an
+30585_7	is_in_sentence	sentence_30585
+30585_7	attr	30585_4
+30585_7	has_surface_form	school
+30585_6	is_in_sentence	sentence_30585
+30585_6	amod	30585_7
+30585_6	has_surface_form	elementary
+30585_8	is_in_sentence	sentence_30585
+30585_8	acl	30585_7
+30585_8	has_surface_form	located
+30585_9	is_in_sentence	sentence_30585
+30585_9	prep	30585_8
+30585_9	has_surface_form	in
+30585_10	is_in_sentence	sentence_30585
+30585_10	det	30585_13
+30585_10	has_surface_form	the
+30585_13	is_in_sentence	sentence_30585
+30585_13	pobj	30585_9
+30585_13	has_surface_form	neighborhood
+30585_11	is_in_sentence	sentence_30585
+30585_11	compound	30585_12
+30585_11	has_surface_form	Seward
+30585_11	part_of_entity	Seward Park
+30585_12	is_in_sentence	sentence_30585
+30585_12	compound	30585_13
+30585_12	has_surface_form	Park
+30585_12	part_of_entity	Seward Park
+30585_14	is_in_sentence	sentence_30585
+30585_14	prep	30585_13
+30585_14	has_surface_form	of
+30585_15	is_in_sentence	sentence_30585
+30585_15	pobj	30585_14
+30585_15	has_surface_form	Seattle
+30585_16	is_in_sentence	sentence_30585
+30585_16	punct	30585_15
+30585_16	has_surface_form	,
+30585_17	is_in_sentence	sentence_30585
+30585_17	conj	30585_15
+30585_17	has_surface_form	Washington
+30585_18	is_in_sentence	sentence_30585
+30585_18	punct	30585_17
+30585_18	has_surface_form	,
+30585_19	is_in_sentence	sentence_30585
+30585_19	appos	30585_17
+30585_19	has_surface_form	US
+30585_20	is_in_sentence	sentence_30585
+30585_20	punct	30585_4
+30585_20	has_surface_form	.
+30585_21	is_in_sentence	sentence_30585
+30585_21	dep	30585_4
+30585_21	has_surface_form	
+Graham Hill Elementary School	surface_form	Graham Hill Elementary School
+Graham Hill Elementary School	is-where	Seward Park
+Seward Park	surface_form	Seward Park

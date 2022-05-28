@@ -1,0 +1,80 @@
+20807_0	is_in_sentence	sentence_20807
+20807_0	det	20807_1
+20807_0	has_surface_form	The
+20807_0	part_of_entity	The Man in the Trunk
+20807_1	is_in_sentence	sentence_20807
+20807_1	nsubj	20807_5
+20807_1	has_surface_form	Man
+20807_1	part_of_entity	The Man in the Trunk
+20807_5	is_in_sentence	sentence_20807
+20807_5	ROOT	20807_5
+20807_5	has_surface_form	is
+20807_2	is_in_sentence	sentence_20807
+20807_2	prep	20807_1
+20807_2	has_surface_form	in
+20807_2	part_of_entity	The Man in the Trunk
+20807_3	is_in_sentence	sentence_20807
+20807_3	det	20807_4
+20807_3	has_surface_form	the
+20807_3	part_of_entity	The Man in the Trunk
+20807_4	is_in_sentence	sentence_20807
+20807_4	pobj	20807_2
+20807_4	has_surface_form	Trunk
+20807_4	part_of_entity	The Man in the Trunk
+20807_6	is_in_sentence	sentence_20807
+20807_6	det	20807_10
+20807_6	has_surface_form	a
+20807_10	is_in_sentence	sentence_20807
+20807_10	attr	20807_5
+20807_10	has_surface_form	film
+20807_7	is_in_sentence	sentence_20807
+20807_7	nummod	20807_10
+20807_7	has_surface_form	1942
+20807_8	is_in_sentence	sentence_20807
+20807_8	amod	20807_10
+20807_8	has_surface_form	American
+20807_9	is_in_sentence	sentence_20807
+20807_9	compound	20807_10
+20807_9	has_surface_form	comedy
+20807_11	is_in_sentence	sentence_20807
+20807_11	acl	20807_10
+20807_11	has_surface_form	directed
+20807_12	is_in_sentence	sentence_20807
+20807_12	agent	20807_11
+20807_12	has_surface_form	by
+20807_13	is_in_sentence	sentence_20807
+20807_13	compound	20807_15
+20807_13	has_surface_form	Malcolm
+20807_13	part_of_entity	Malcolm St. Clair
+20807_15	is_in_sentence	sentence_20807
+20807_15	pobj	20807_12
+20807_15	has_surface_form	Clair
+20807_15	part_of_entity	Malcolm St. Clair
+20807_14	is_in_sentence	sentence_20807
+20807_14	compound	20807_15
+20807_14	has_surface_form	St.
+20807_14	part_of_entity	Malcolm St. Clair
+20807_16	is_in_sentence	sentence_20807
+20807_16	cc	20807_11
+20807_16	has_surface_form	and
+20807_17	is_in_sentence	sentence_20807
+20807_17	conj	20807_11
+20807_17	has_surface_form	written
+20807_18	is_in_sentence	sentence_20807
+20807_18	agent	20807_17
+20807_18	has_surface_form	by
+20807_19	is_in_sentence	sentence_20807
+20807_19	compound	20807_20
+20807_19	has_surface_form	John
+20807_20	is_in_sentence	sentence_20807
+20807_20	pobj	20807_18
+20807_20	has_surface_form	Larkin
+20807_21	is_in_sentence	sentence_20807
+20807_21	punct	20807_5
+20807_21	has_surface_form	.
+20807_22	is_in_sentence	sentence_20807
+20807_22	dep	20807_22
+20807_22	has_surface_form	
+The Man in the Trunk	surface_form	The Man in the Trunk
+The Man in the Trunk	movie-has-director	Malcolm St. Clair
+Malcolm St. Clair	surface_form	Malcolm St. Clair

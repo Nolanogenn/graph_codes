@@ -1,0 +1,84 @@
+6200_0	is_in_sentence	sentence_6200
+6200_0	compound	6200_3
+6200_0	has_surface_form	Bernard
+6200_0	part_of_entity	Bernard Tissier de Mallerais
+6200_3	is_in_sentence	sentence_6200
+6200_3	nsubj	6200_12
+6200_3	has_surface_form	Mallerais
+6200_3	part_of_entity	Bernard Tissier de Mallerais
+6200_1	is_in_sentence	sentence_6200
+6200_1	compound	6200_3
+6200_1	has_surface_form	Tissier
+6200_1	part_of_entity	Bernard Tissier de Mallerais
+6200_2	is_in_sentence	sentence_6200
+6200_2	nmod	6200_3
+6200_2	has_surface_form	de
+6200_2	part_of_entity	Bernard Tissier de Mallerais
+6200_12	is_in_sentence	sentence_6200
+6200_12	ROOT	6200_12
+6200_12	has_surface_form	is
+6200_4	is_in_sentence	sentence_6200
+6200_4	punct	6200_3
+6200_4	has_surface_form	,
+6200_5	is_in_sentence	sentence_6200
+6200_5	appos	6200_3
+6200_5	has_surface_form	SSPX
+6200_6	is_in_sentence	sentence_6200
+6200_6	punct	6200_5
+6200_6	has_surface_form	(
+6200_7	is_in_sentence	sentence_6200
+6200_7	acl	6200_5
+6200_7	has_surface_form	born
+6200_8	is_in_sentence	sentence_6200
+6200_8	nummod	6200_9
+6200_8	has_surface_form	14
+6200_9	is_in_sentence	sentence_6200
+6200_9	npadvmod	6200_7
+6200_9	has_surface_form	September
+6200_10	is_in_sentence	sentence_6200
+6200_10	nummod	6200_9
+6200_10	has_surface_form	1945
+6200_11	is_in_sentence	sentence_6200
+6200_11	punct	6200_5
+6200_11	has_surface_form	)
+6200_13	is_in_sentence	sentence_6200
+6200_13	det	6200_16
+6200_13	has_surface_form	a
+6200_16	is_in_sentence	sentence_6200
+6200_16	attr	6200_12
+6200_16	has_surface_form	bishop
+6200_16	part_of_entity	Traditionalist bishop
+6200_14	is_in_sentence	sentence_6200
+6200_14	amod	6200_16
+6200_14	has_surface_form	French
+6200_15	is_in_sentence	sentence_6200
+6200_15	compound	6200_16
+6200_15	has_surface_form	Traditionalist
+6200_15	part_of_entity	Traditionalist bishop
+6200_17	is_in_sentence	sentence_6200
+6200_17	prep	6200_16
+6200_17	has_surface_form	of
+6200_18	is_in_sentence	sentence_6200
+6200_18	det	6200_19
+6200_18	has_surface_form	the
+6200_19	is_in_sentence	sentence_6200
+6200_19	pobj	6200_17
+6200_19	has_surface_form	Society
+6200_20	is_in_sentence	sentence_6200
+6200_20	prep	6200_19
+6200_20	has_surface_form	of
+6200_21	is_in_sentence	sentence_6200
+6200_21	pobj	6200_20
+6200_21	has_surface_form	Saint
+6200_22	is_in_sentence	sentence_6200
+6200_22	compound	6200_23
+6200_22	has_surface_form	Pius
+6200_23	is_in_sentence	sentence_6200
+6200_23	pobj	6200_20
+6200_23	has_surface_form	X.
+6200_24	is_in_sentence	sentence_6200
+6200_24	dep	6200_12
+6200_24	has_surface_form	
+Bernard Tissier de Mallerais	surface_form	Bernard Tissier de Mallerais
+Bernard Tissier de Mallerais	has-type	Traditionalist bishop
+Traditionalist bishop	surface_form	Traditionalist bishop

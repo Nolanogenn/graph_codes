@@ -1,0 +1,58 @@
+19480_0	is_in_sentence	sentence_19480
+19480_0	compound	19480_1
+19480_0	has_surface_form	Radost
+19480_0	part_of_entity	Radost Bokel
+19480_1	is_in_sentence	sentence_19480
+19480_1	nsubj	19480_11
+19480_1	has_surface_form	Bokel
+19480_1	part_of_entity	Radost Bokel
+19480_11	is_in_sentence	sentence_19480
+19480_11	ROOT	19480_11
+19480_11	has_surface_form	is
+19480_2	is_in_sentence	sentence_19480
+19480_2	punct	19480_1
+19480_2	has_surface_form	(
+19480_3	is_in_sentence	sentence_19480
+19480_3	acl	19480_1
+19480_3	has_surface_form	born
+19480_4	is_in_sentence	sentence_19480
+19480_4	nummod	19480_5
+19480_4	has_surface_form	4
+19480_5	is_in_sentence	sentence_19480
+19480_5	npadvmod	19480_3
+19480_5	has_surface_form	June
+19480_6	is_in_sentence	sentence_19480
+19480_6	nummod	19480_5
+19480_6	has_surface_form	1975
+19480_7	is_in_sentence	sentence_19480
+19480_7	prep	19480_3
+19480_7	has_surface_form	in
+19480_8	is_in_sentence	sentence_19480
+19480_8	compound	19480_9
+19480_8	has_surface_form	Bad
+19480_8	part_of_entity	Bad Langensalza
+19480_9	is_in_sentence	sentence_19480
+19480_9	pobj	19480_7
+19480_9	has_surface_form	Langensalza
+19480_9	part_of_entity	Bad Langensalza
+19480_10	is_in_sentence	sentence_19480
+19480_10	punct	19480_1
+19480_10	has_surface_form	)
+19480_12	is_in_sentence	sentence_19480
+19480_12	det	19480_14
+19480_12	has_surface_form	a
+19480_14	is_in_sentence	sentence_19480
+19480_14	attr	19480_11
+19480_14	has_surface_form	actress
+19480_13	is_in_sentence	sentence_19480
+19480_13	amod	19480_14
+19480_13	has_surface_form	German
+19480_15	is_in_sentence	sentence_19480
+19480_15	punct	19480_11
+19480_15	has_surface_form	.
+19480_16	is_in_sentence	sentence_19480
+19480_16	dep	19480_16
+19480_16	has_surface_form	
+Radost Bokel	surface_form	Radost Bokel
+Radost Bokel	birth-place	Bad Langensalza
+Bad Langensalza	surface_form	Bad Langensalza

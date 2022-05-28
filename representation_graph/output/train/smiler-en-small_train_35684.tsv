@@ -1,0 +1,63 @@
+35683_0	is_in_sentence	sentence_35683
+35683_0	compound	35683_1
+35683_0	has_surface_form	North
+35683_0	part_of_entity	North Carolina Highway 242
+35683_1	is_in_sentence	sentence_35683
+35683_1	compound	35683_2
+35683_1	has_surface_form	Carolina
+35683_1	part_of_entity	North Carolina Highway 242
+35683_2	is_in_sentence	sentence_35683
+35683_2	nsubj	35683_9
+35683_2	has_surface_form	Highway
+35683_2	part_of_entity	North Carolina Highway 242
+35683_9	is_in_sentence	sentence_35683
+35683_9	ROOT	35683_9
+35683_9	has_surface_form	is
+35683_3	is_in_sentence	sentence_35683
+35683_3	nummod	35683_2
+35683_3	has_surface_form	242
+35683_3	part_of_entity	North Carolina Highway 242
+35683_4	is_in_sentence	sentence_35683
+35683_4	punct	35683_2
+35683_4	has_surface_form	(
+35683_5	is_in_sentence	sentence_35683
+35683_5	appos	35683_2
+35683_5	has_surface_form	NC
+35683_6	is_in_sentence	sentence_35683
+35683_6	dep	35683_5
+35683_6	has_surface_form	 
+35683_7	is_in_sentence	sentence_35683
+35683_7	nummod	35683_5
+35683_7	has_surface_form	242
+35683_8	is_in_sentence	sentence_35683
+35683_8	punct	35683_5
+35683_8	has_surface_form	)
+35683_10	is_in_sentence	sentence_35683
+35683_10	det	35683_13
+35683_10	has_surface_form	a
+35683_13	is_in_sentence	sentence_35683
+35683_13	attr	35683_9
+35683_13	has_surface_form	highway
+35683_13	part_of_entity	state highway
+35683_11	is_in_sentence	sentence_35683
+35683_11	amod	35683_13
+35683_11	has_surface_form	primary
+35683_12	is_in_sentence	sentence_35683
+35683_12	compound	35683_13
+35683_12	has_surface_form	state
+35683_12	part_of_entity	state highway
+35683_14	is_in_sentence	sentence_35683
+35683_14	prep	35683_13
+35683_14	has_surface_form	in
+35683_15	is_in_sentence	sentence_35683
+35683_15	det	35683_16
+35683_15	has_surface_form	the
+35683_16	is_in_sentence	sentence_35683
+35683_16	pobj	35683_14
+35683_16	has_surface_form	U.
+35683_17	is_in_sentence	sentence_35683
+35683_17	dep	35683_9
+35683_17	has_surface_form	
+North Carolina Highway 242	surface_form	North Carolina Highway 242
+North Carolina Highway 242	has-type	state highway
+state highway	surface_form	state highway

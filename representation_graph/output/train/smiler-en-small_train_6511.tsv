@@ -1,0 +1,55 @@
+6510_0	is_in_sentence	sentence_6510
+6510_0	compound	6510_1
+6510_0	has_surface_form	Paulo
+6510_0	part_of_entity	Paulo Jobim
+6510_1	is_in_sentence	sentence_6510
+6510_1	nsubj	6510_2
+6510_1	has_surface_form	Jobim
+6510_1	part_of_entity	Paulo Jobim
+6510_2	is_in_sentence	sentence_6510
+6510_2	ROOT	6510_2
+6510_2	has_surface_form	was
+6510_3	is_in_sentence	sentence_6510
+6510_3	det	6510_4
+6510_3	has_surface_form	an
+6510_4	is_in_sentence	sentence_6510
+6510_4	attr	6510_2
+6510_4	has_surface_form	architect
+6510_5	is_in_sentence	sentence_6510
+6510_5	cc	6510_4
+6510_5	has_surface_form	and
+6510_6	is_in_sentence	sentence_6510
+6510_6	conj	6510_4
+6510_6	has_surface_form	musician
+6510_7	is_in_sentence	sentence_6510
+6510_7	punct	6510_2
+6510_7	has_surface_form	,
+6510_8	is_in_sentence	sentence_6510
+6510_8	cc	6510_2
+6510_8	has_surface_form	and
+6510_9	is_in_sentence	sentence_6510
+6510_9	det	6510_10
+6510_9	has_surface_form	the
+6510_10	is_in_sentence	sentence_6510
+6510_10	conj	6510_2
+6510_10	has_surface_form	father
+6510_11	is_in_sentence	sentence_6510
+6510_11	prep	6510_10
+6510_11	has_surface_form	of
+6510_12	is_in_sentence	sentence_6510
+6510_12	compound	6510_13
+6510_12	has_surface_form	Daniel
+6510_12	part_of_entity	Daniel Jobim
+6510_13	is_in_sentence	sentence_6510
+6510_13	pobj	6510_11
+6510_13	has_surface_form	Jobim
+6510_13	part_of_entity	Daniel Jobim
+6510_14	is_in_sentence	sentence_6510
+6510_14	punct	6510_2
+6510_14	has_surface_form	.
+6510_15	is_in_sentence	sentence_6510
+6510_15	dep	6510_15
+6510_15	has_surface_form	
+Paulo Jobim	surface_form	Paulo Jobim
+Paulo Jobim	has-child	Daniel Jobim
+Daniel Jobim	surface_form	Daniel Jobim

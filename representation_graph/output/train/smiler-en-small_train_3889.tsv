@@ -1,0 +1,91 @@
+3888_0	is_in_sentence	sentence_3888
+3888_0	compound	3888_1
+3888_0	has_surface_form	Sunshine
+3888_0	part_of_entity	Sunshine Cruz
+3888_1	is_in_sentence	sentence_3888
+3888_1	nsubj	3888_9
+3888_1	has_surface_form	Cruz
+3888_1	part_of_entity	Sunshine Cruz
+3888_9	is_in_sentence	sentence_3888
+3888_9	ROOT	3888_9
+3888_9	has_surface_form	is
+3888_2	is_in_sentence	sentence_3888
+3888_2	punct	3888_1
+3888_2	has_surface_form	(
+3888_3	is_in_sentence	sentence_3888
+3888_3	acl	3888_1
+3888_3	has_surface_form	born
+3888_4	is_in_sentence	sentence_3888
+3888_4	npadvmod	3888_3
+3888_4	has_surface_form	July
+3888_5	is_in_sentence	sentence_3888
+3888_5	nummod	3888_4
+3888_5	has_surface_form	18
+3888_6	is_in_sentence	sentence_3888
+3888_6	punct	3888_4
+3888_6	has_surface_form	,
+3888_7	is_in_sentence	sentence_3888
+3888_7	nummod	3888_4
+3888_7	has_surface_form	1977
+3888_8	is_in_sentence	sentence_3888
+3888_8	punct	3888_1
+3888_8	has_surface_form	)
+3888_10	is_in_sentence	sentence_3888
+3888_10	det	3888_12
+3888_10	has_surface_form	a
+3888_12	is_in_sentence	sentence_3888
+3888_12	attr	3888_9
+3888_12	has_surface_form	actress
+3888_11	is_in_sentence	sentence_3888
+3888_11	compound	3888_12
+3888_11	has_surface_form	Filipina
+3888_13	is_in_sentence	sentence_3888
+3888_13	cc	3888_12
+3888_13	has_surface_form	and
+3888_14	is_in_sentence	sentence_3888
+3888_14	conj	3888_12
+3888_14	has_surface_form	singer
+3888_15	is_in_sentence	sentence_3888
+3888_15	punct	3888_9
+3888_15	has_surface_form	.
+3888_16	is_in_sentence	sentence_3888
+3888_16	nmod	3888_20
+3888_16	has_surface_form	Sunshine
+3888_20	is_in_sentence	sentence_3888
+3888_20	compound	3888_22
+3888_20	has_surface_form	director
+3888_17	is_in_sentence	sentence_3888
+3888_17	amod	3888_20
+3888_17	has_surface_form	married
+3888_18	is_in_sentence	sentence_3888
+3888_18	nmod	3888_20
+3888_18	has_surface_form	actor
+3888_19	is_in_sentence	sentence_3888
+3888_19	punct	3888_20
+3888_19	has_surface_form	/
+3888_22	is_in_sentence	sentence_3888
+3888_22	ROOT	3888_22
+3888_22	has_surface_form	Montano
+3888_22	part_of_entity	Cesar Montano
+3888_21	is_in_sentence	sentence_3888
+3888_21	compound	3888_22
+3888_21	has_surface_form	Cesar
+3888_21	part_of_entity	Cesar Montano
+3888_23	is_in_sentence	sentence_3888
+3888_23	prep	3888_22
+3888_23	has_surface_form	in
+3888_24	is_in_sentence	sentence_3888
+3888_24	pobj	3888_23
+3888_24	has_surface_form	September
+3888_25	is_in_sentence	sentence_3888
+3888_25	nummod	3888_24
+3888_25	has_surface_form	2000
+3888_26	is_in_sentence	sentence_3888
+3888_26	punct	3888_22
+3888_26	has_surface_form	.
+3888_27	is_in_sentence	sentence_3888
+3888_27	dep	3888_27
+3888_27	has_surface_form	
+Sunshine Cruz	surface_form	Sunshine Cruz
+Sunshine Cruz	has-spouse	Cesar Montano
+Cesar Montano	surface_form	Cesar Montano

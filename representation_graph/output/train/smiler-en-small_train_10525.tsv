@@ -1,0 +1,80 @@
+10524_0	is_in_sentence	sentence_10524
+10524_0	amod	10524_1
+10524_0	has_surface_form	Adrian
+10524_0	part_of_entity	Adrian Basta
+10524_1	is_in_sentence	sentence_10524
+10524_1	nsubj	10524_9
+10524_1	has_surface_form	Basta
+10524_1	part_of_entity	Adrian Basta
+10524_9	is_in_sentence	sentence_10524
+10524_9	ROOT	10524_9
+10524_9	has_surface_form	is
+10524_2	is_in_sentence	sentence_10524
+10524_2	punct	10524_1
+10524_2	has_surface_form	(
+10524_3	is_in_sentence	sentence_10524
+10524_3	acl	10524_1
+10524_3	has_surface_form	born
+10524_4	is_in_sentence	sentence_10524
+10524_4	npadvmod	10524_3
+10524_4	has_surface_form	December
+10524_5	is_in_sentence	sentence_10524
+10524_5	nummod	10524_4
+10524_5	has_surface_form	1
+10524_6	is_in_sentence	sentence_10524
+10524_6	punct	10524_4
+10524_6	has_surface_form	,
+10524_7	is_in_sentence	sentence_10524
+10524_7	nummod	10524_4
+10524_7	has_surface_form	1988
+10524_8	is_in_sentence	sentence_10524
+10524_8	punct	10524_1
+10524_8	has_surface_form	)
+10524_10	is_in_sentence	sentence_10524
+10524_10	det	10524_12
+10524_10	has_surface_form	a
+10524_12	is_in_sentence	sentence_10524
+10524_12	attr	10524_9
+10524_12	has_surface_form	footballer
+10524_11	is_in_sentence	sentence_10524
+10524_11	amod	10524_12
+10524_11	has_surface_form	Polish
+10524_13	is_in_sentence	sentence_10524
+10524_13	nsubj	10524_14
+10524_13	has_surface_form	who
+10524_14	is_in_sentence	sentence_10524
+10524_14	relcl	10524_12
+10524_14	has_surface_form	plays
+10524_15	is_in_sentence	sentence_10524
+10524_15	prep	10524_14
+10524_15	has_surface_form	as
+10524_16	is_in_sentence	sentence_10524
+10524_16	det	10524_17
+10524_16	has_surface_form	a
+10524_17	is_in_sentence	sentence_10524
+10524_17	pobj	10524_15
+10524_17	has_surface_form	defender
+10524_18	is_in_sentence	sentence_10524
+10524_18	prep	10524_17
+10524_18	has_surface_form	for
+10524_19	is_in_sentence	sentence_10524
+10524_19	compound	10524_21
+10524_19	has_surface_form	Sandecja
+10524_19	part_of_entity	Sandecja Nowy Sącz
+10524_21	is_in_sentence	sentence_10524
+10524_21	pobj	10524_18
+10524_21	has_surface_form	Sącz
+10524_21	part_of_entity	Sandecja Nowy Sącz
+10524_20	is_in_sentence	sentence_10524
+10524_20	compound	10524_21
+10524_20	has_surface_form	Nowy
+10524_20	part_of_entity	Sandecja Nowy Sącz
+10524_22	is_in_sentence	sentence_10524
+10524_22	punct	10524_9
+10524_22	has_surface_form	.
+10524_23	is_in_sentence	sentence_10524
+10524_23	dep	10524_9
+10524_23	has_surface_form	
+Adrian Basta	surface_form	Adrian Basta
+Adrian Basta	is-member-of	Sandecja Nowy Sącz
+Sandecja Nowy Sącz	surface_form	Sandecja Nowy Sącz

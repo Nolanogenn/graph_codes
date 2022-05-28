@@ -1,0 +1,48 @@
+3003_0	is_in_sentence	sentence_3003
+3003_0	compound	3003_1
+3003_0	has_surface_form	EV
+3003_0	part_of_entity	EV Bozen 84
+3003_1	is_in_sentence	sentence_3003
+3003_1	nsubj	3003_3
+3003_1	has_surface_form	Bozen
+3003_1	part_of_entity	EV Bozen 84
+3003_3	is_in_sentence	sentence_3003
+3003_3	ROOT	3003_3
+3003_3	has_surface_form	is
+3003_2	is_in_sentence	sentence_3003
+3003_2	nummod	3003_1
+3003_2	has_surface_form	84
+3003_2	part_of_entity	EV Bozen 84
+3003_4	is_in_sentence	sentence_3003
+3003_4	det	3003_7
+3003_4	has_surface_form	an
+3003_7	is_in_sentence	sentence_3003
+3003_7	attr	3003_3
+3003_7	has_surface_form	team
+3003_5	is_in_sentence	sentence_3003
+3003_5	compound	3003_6
+3003_5	has_surface_form	ice
+3003_6	is_in_sentence	sentence_3003
+3003_6	compound	3003_7
+3003_6	has_surface_form	hockey
+3003_8	is_in_sentence	sentence_3003
+3003_8	prep	3003_7
+3003_8	has_surface_form	in
+3003_9	is_in_sentence	sentence_3003
+3003_9	pobj	3003_8
+3003_9	is_entity	Bolzano
+Bolzano	surface_form	Bolzano
+3003_10	is_in_sentence	sentence_3003
+3003_10	punct	3003_9
+3003_10	has_surface_form	,
+3003_11	is_in_sentence	sentence_3003
+3003_11	appos	3003_9
+3003_11	has_surface_form	Italy
+3003_12	is_in_sentence	sentence_3003
+3003_12	punct	3003_3
+3003_12	has_surface_form	.
+3003_13	is_in_sentence	sentence_3003
+3003_13	dep	3003_13
+3003_13	has_surface_form	
+EV Bozen 84	surface_form	EV Bozen 84
+EV Bozen 84	is-where	Bolzano

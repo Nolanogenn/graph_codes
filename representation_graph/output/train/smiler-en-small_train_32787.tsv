@@ -1,0 +1,50 @@
+32786_0	is_in_sentence	sentence_32786
+32786_0	compound	32786_1
+32786_0	has_surface_form	Jon
+32786_0	part_of_entity	Jon Cypher
+32786_1	is_in_sentence	sentence_32786
+32786_1	nsubj	32786_9
+32786_1	has_surface_form	Cypher
+32786_1	part_of_entity	Jon Cypher
+32786_9	is_in_sentence	sentence_32786
+32786_9	ROOT	32786_9
+32786_9	has_surface_form	is
+32786_2	is_in_sentence	sentence_32786
+32786_2	punct	32786_1
+32786_2	has_surface_form	(
+32786_3	is_in_sentence	sentence_32786
+32786_3	acl	32786_1
+32786_3	has_surface_form	born
+32786_4	is_in_sentence	sentence_32786
+32786_4	npadvmod	32786_3
+32786_4	has_surface_form	January
+32786_5	is_in_sentence	sentence_32786
+32786_5	nummod	32786_4
+32786_5	has_surface_form	13
+32786_6	is_in_sentence	sentence_32786
+32786_6	punct	32786_4
+32786_6	has_surface_form	,
+32786_7	is_in_sentence	sentence_32786
+32786_7	nummod	32786_4
+32786_7	has_surface_form	1932
+32786_8	is_in_sentence	sentence_32786
+32786_8	punct	32786_1
+32786_8	has_surface_form	)
+32786_10	is_in_sentence	sentence_32786
+32786_10	det	32786_12
+32786_10	has_surface_form	an
+32786_12	is_in_sentence	sentence_32786
+32786_12	attr	32786_9
+32786_12	is_entity	actor
+32786_11	is_in_sentence	sentence_32786
+32786_11	amod	32786_12
+32786_11	has_surface_form	American
+actor	surface_form	actor
+32786_13	is_in_sentence	sentence_32786
+32786_13	punct	32786_9
+32786_13	has_surface_form	.
+32786_14	is_in_sentence	sentence_32786
+32786_14	dep	32786_9
+32786_14	has_surface_form	
+Jon Cypher	surface_form	Jon Cypher
+Jon Cypher	has-occupation	actor

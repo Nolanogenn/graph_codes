@@ -1,0 +1,62 @@
+5595_0	is_in_sentence	sentence_5595
+5595_0	compound	5595_1
+5595_0	has_surface_form	Jim
+5595_0	part_of_entity	Jim Walden
+5595_1	is_in_sentence	sentence_5595
+5595_1	nsubj	5595_9
+5595_1	has_surface_form	Walden
+5595_1	part_of_entity	Jim Walden
+5595_9	is_in_sentence	sentence_5595
+5595_9	ROOT	5595_9
+5595_9	has_surface_form	is
+5595_2	is_in_sentence	sentence_5595
+5595_2	punct	5595_1
+5595_2	has_surface_form	(
+5595_3	is_in_sentence	sentence_5595
+5595_3	acl	5595_1
+5595_3	has_surface_form	born
+5595_4	is_in_sentence	sentence_5595
+5595_4	npadvmod	5595_3
+5595_4	has_surface_form	April
+5595_5	is_in_sentence	sentence_5595
+5595_5	nummod	5595_4
+5595_5	has_surface_form	10
+5595_6	is_in_sentence	sentence_5595
+5595_6	punct	5595_4
+5595_6	has_surface_form	,
+5595_7	is_in_sentence	sentence_5595
+5595_7	nummod	5595_4
+5595_7	has_surface_form	1938
+5595_8	is_in_sentence	sentence_5595
+5595_8	punct	5595_1
+5595_8	has_surface_form	)
+5595_10	is_in_sentence	sentence_5595
+5595_10	det	5595_14
+5595_10	has_surface_form	a
+5595_14	is_in_sentence	sentence_5595
+5595_14	attr	5595_9
+5595_14	has_surface_form	player
+5595_11	is_in_sentence	sentence_5595
+5595_11	amod	5595_14
+5595_11	has_surface_form	former
+5595_12	is_in_sentence	sentence_5595
+5595_12	amod	5595_14
+5595_12	has_surface_form	American
+5595_13	is_in_sentence	sentence_5595
+5595_13	compound	5595_14
+5595_13	has_surface_form	football
+5595_15	is_in_sentence	sentence_5595
+5595_15	cc	5595_14
+5595_15	has_surface_form	and
+5595_16	is_in_sentence	sentence_5595
+5595_16	conj	5595_14
+5595_16	is_entity	coach
+coach	surface_form	coach
+5595_17	is_in_sentence	sentence_5595
+5595_17	punct	5595_9
+5595_17	has_surface_form	.
+5595_18	is_in_sentence	sentence_5595
+5595_18	dep	5595_18
+5595_18	has_surface_form	
+Jim Walden	surface_form	Jim Walden
+Jim Walden	has-type	coach

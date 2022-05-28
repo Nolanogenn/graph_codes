@@ -1,0 +1,50 @@
+1363_0	is_in_sentence	sentence_1363
+1363_0	compound	1363_1
+1363_0	has_surface_form	BBS
+1363_0	part_of_entity	BBS TV
+1363_1	is_in_sentence	sentence_1363
+1363_1	nsubj	1363_6
+1363_1	has_surface_form	TV
+1363_1	part_of_entity	BBS TV
+1363_6	is_in_sentence	sentence_1363
+1363_6	ROOT	1363_6
+1363_6	has_surface_form	is
+1363_2	is_in_sentence	sentence_1363
+1363_2	punct	1363_1
+1363_2	has_surface_form	(
+1363_3	is_in_sentence	sentence_1363
+1363_3	appos	1363_1
+1363_3	has_surface_form	BBS
+1363_4	is_in_sentence	sentence_1363
+1363_4	nummod	1363_3
+1363_4	has_surface_form	1
+1363_5	is_in_sentence	sentence_1363
+1363_5	punct	1363_1
+1363_5	has_surface_form	)
+1363_7	is_in_sentence	sentence_1363
+1363_7	det	1363_10
+1363_7	has_surface_form	the
+1363_10	is_in_sentence	sentence_1363
+1363_10	attr	1363_6
+1363_10	has_surface_form	channel
+1363_8	is_in_sentence	sentence_1363
+1363_8	amod	1363_10
+1363_8	has_surface_form	first
+1363_9	is_in_sentence	sentence_1363
+1363_9	compound	1363_10
+1363_9	has_surface_form	television
+1363_11	is_in_sentence	sentence_1363
+1363_11	prep	1363_10
+1363_11	has_surface_form	of
+1363_12	is_in_sentence	sentence_1363
+1363_12	pobj	1363_11
+1363_12	is_entity	Bhutan
+Bhutan	surface_form	Bhutan
+1363_13	is_in_sentence	sentence_1363
+1363_13	punct	1363_6
+1363_13	has_surface_form	.
+1363_14	is_in_sentence	sentence_1363
+1363_14	dep	1363_14
+1363_14	has_surface_form	
+BBS TV	surface_form	BBS TV
+BBS TV	headquarters	Bhutan

@@ -1,0 +1,75 @@
+5897_0	is_in_sentence	sentence_5897
+5897_0	compound	5897_2
+5897_0	has_surface_form	Rodolfo
+5897_0	part_of_entity	Rodolfo Pérez Pimentel
+5897_2	is_in_sentence	sentence_5897
+5897_2	nsubj	5897_12
+5897_2	has_surface_form	Pimentel
+5897_2	part_of_entity	Rodolfo Pérez Pimentel
+5897_1	is_in_sentence	sentence_5897
+5897_1	compound	5897_2
+5897_1	has_surface_form	Pérez
+5897_1	part_of_entity	Rodolfo Pérez Pimentel
+5897_12	is_in_sentence	sentence_5897
+5897_12	ROOT	5897_12
+5897_12	has_surface_form	is
+5897_3	is_in_sentence	sentence_5897
+5897_3	punct	5897_2
+5897_3	has_surface_form	(
+5897_4	is_in_sentence	sentence_5897
+5897_4	acl	5897_2
+5897_4	has_surface_form	born
+5897_5	is_in_sentence	sentence_5897
+5897_5	npadvmod	5897_4
+5897_5	has_surface_form	November
+5897_6	is_in_sentence	sentence_5897
+5897_6	nummod	5897_5
+5897_6	has_surface_form	2
+5897_7	is_in_sentence	sentence_5897
+5897_7	punct	5897_5
+5897_7	has_surface_form	,
+5897_8	is_in_sentence	sentence_5897
+5897_8	nummod	5897_5
+5897_8	has_surface_form	1939
+5897_9	is_in_sentence	sentence_5897
+5897_9	prep	5897_4
+5897_9	has_surface_form	in
+5897_10	is_in_sentence	sentence_5897
+5897_10	pobj	5897_9
+5897_10	has_surface_form	Guayaquil
+5897_11	is_in_sentence	sentence_5897
+5897_11	punct	5897_2
+5897_11	has_surface_form	)
+5897_13	is_in_sentence	sentence_5897
+5897_13	det	5897_15
+5897_13	has_surface_form	an
+5897_15	is_in_sentence	sentence_5897
+5897_15	attr	5897_12
+5897_15	is_entity	lawyer
+5897_14	is_in_sentence	sentence_5897
+5897_14	amod	5897_15
+5897_14	has_surface_form	Ecuadorian
+lawyer	surface_form	lawyer
+5897_16	is_in_sentence	sentence_5897
+5897_16	punct	5897_15
+5897_16	has_surface_form	,
+5897_17	is_in_sentence	sentence_5897
+5897_17	conj	5897_15
+5897_17	has_surface_form	historian
+5897_18	is_in_sentence	sentence_5897
+5897_18	punct	5897_17
+5897_18	has_surface_form	,
+5897_19	is_in_sentence	sentence_5897
+5897_19	cc	5897_17
+5897_19	has_surface_form	and
+5897_20	is_in_sentence	sentence_5897
+5897_20	conj	5897_17
+5897_20	has_surface_form	biographer
+5897_21	is_in_sentence	sentence_5897
+5897_21	punct	5897_12
+5897_21	has_surface_form	.
+5897_22	is_in_sentence	sentence_5897
+5897_22	dep	5897_22
+5897_22	has_surface_form	
+Rodolfo Pérez Pimentel	surface_form	Rodolfo Pérez Pimentel
+Rodolfo Pérez Pimentel	has-occupation	lawyer

@@ -1,0 +1,60 @@
+20420_0	is_in_sentence	sentence_20420
+20420_0	compound	20420_2
+20420_0	has_surface_form	Evgeny
+20420_0	part_of_entity	Evgeny Shulimovich Margulis
+20420_2	is_in_sentence	sentence_20420
+20420_2	nsubj	20420_4
+20420_2	has_surface_form	Margulis
+20420_2	part_of_entity	Evgeny Shulimovich Margulis
+20420_1	is_in_sentence	sentence_20420
+20420_1	compound	20420_2
+20420_1	has_surface_form	Shulimovich
+20420_1	part_of_entity	Evgeny Shulimovich Margulis
+20420_4	is_in_sentence	sentence_20420
+20420_4	ROOT	20420_4
+20420_4	has_surface_form	born
+20420_3	is_in_sentence	sentence_20420
+20420_3	auxpass	20420_4
+20420_3	has_surface_form	(;
+20420_5	is_in_sentence	sentence_20420
+20420_5	nummod	20420_6
+20420_5	has_surface_form	25
+20420_6	is_in_sentence	sentence_20420
+20420_6	npadvmod	20420_4
+20420_6	has_surface_form	December
+20420_7	is_in_sentence	sentence_20420
+20420_7	nummod	20420_6
+20420_7	has_surface_form	1955
+20420_8	is_in_sentence	sentence_20420
+20420_8	punct	20420_4
+20420_8	has_surface_form	)
+20420_9	is_in_sentence	sentence_20420
+20420_9	ROOT	20420_9
+20420_9	has_surface_form	is
+20420_10	is_in_sentence	sentence_20420
+20420_10	det	20420_15
+20420_10	has_surface_form	a
+20420_15	is_in_sentence	sentence_20420
+20420_15	attr	20420_9
+20420_15	has_surface_form	musician
+20420_11	is_in_sentence	sentence_20420
+20420_11	amod	20420_12
+20420_11	is_entity	Russian
+20420_12	is_in_sentence	sentence_20420
+20420_12	nmod	20420_15
+20420_12	has_surface_form	rock
+Russian	surface_form	Russian
+20420_13	is_in_sentence	sentence_20420
+20420_13	cc	20420_12
+20420_13	has_surface_form	and
+20420_14	is_in_sentence	sentence_20420
+20420_14	conj	20420_12
+20420_14	has_surface_form	blues
+20420_16	is_in_sentence	sentence_20420
+20420_16	punct	20420_9
+20420_16	has_surface_form	.
+20420_17	is_in_sentence	sentence_20420
+20420_17	dep	20420_17
+20420_17	has_surface_form	
+Evgeny Shulimovich Margulis	surface_form	Evgeny Shulimovich Margulis
+Evgeny Shulimovich Margulis	has-nationality	Russian

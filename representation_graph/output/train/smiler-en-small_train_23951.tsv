@@ -1,0 +1,86 @@
+23950_0	is_in_sentence	sentence_23950
+23950_0	advcl	23950_10
+23950_0	has_surface_form	Expanding
+23950_10	is_in_sentence	sentence_23950
+23950_10	ROOT	23950_10
+23950_10	has_surface_form	work
+23950_1	is_in_sentence	sentence_23950
+23950_1	prep	23950_0
+23950_1	has_surface_form	on
+23950_2	is_in_sentence	sentence_23950
+23950_2	pobj	23950_1
+23950_2	has_surface_form	years
+23950_3	is_in_sentence	sentence_23950
+23950_3	prep	23950_2
+23950_3	has_surface_form	of
+23950_4	is_in_sentence	sentence_23950
+23950_4	amod	23950_5
+23950_4	has_surface_form	coordinated
+23950_5	is_in_sentence	sentence_23950
+23950_5	pobj	23950_3
+23950_5	has_surface_form	effort
+23950_6	is_in_sentence	sentence_23950
+23950_6	punct	23950_10
+23950_6	has_surface_form	,
+23950_7	is_in_sentence	sentence_23950
+23950_7	det	23950_8
+23950_7	has_surface_form	the
+23950_8	is_in_sentence	sentence_23950
+23950_8	nsubj	23950_10
+23950_8	has_surface_form	organizations
+23950_9	is_in_sentence	sentence_23950
+23950_9	aux	23950_10
+23950_9	has_surface_form	will
+23950_11	is_in_sentence	sentence_23950
+23950_11	aux	23950_12
+23950_11	has_surface_form	to
+23950_12	is_in_sentence	sentence_23950
+23950_12	xcomp	23950_10
+23950_12	has_surface_form	streamline
+23950_13	is_in_sentence	sentence_23950
+23950_13	det	23950_16
+23950_13	has_surface_form	the
+23950_16	is_in_sentence	sentence_23950
+23950_16	dobj	23950_12
+23950_16	has_surface_form	AI
+23950_16	part_of_entity	Adobe Sensei AI
+23950_14	is_in_sentence	sentence_23950
+23950_14	compound	23950_15
+23950_14	has_surface_form	Adobe
+23950_14	part_of_entity	Adobe Sensei AI
+23950_15	is_in_sentence	sentence_23950
+23950_15	compound	23950_16
+23950_15	has_surface_form	Sensei
+23950_15	part_of_entity	Adobe Sensei AI
+23950_17	is_in_sentence	sentence_23950
+23950_17	cc	23950_16
+23950_17	has_surface_form	and
+23950_18	is_in_sentence	sentence_23950
+23950_18	compound	23950_19
+23950_18	has_surface_form	machine
+23950_19	is_in_sentence	sentence_23950
+23950_19	compound	23950_20
+23950_19	has_surface_form	learning
+23950_20	is_in_sentence	sentence_23950
+23950_20	conj	23950_16
+23950_20	has_surface_form	structure
+23950_21	is_in_sentence	sentence_23950
+23950_21	prep	23950_20
+23950_21	has_surface_form	for
+23950_22	is_in_sentence	sentence_23950
+23950_22	compound	23950_23
+23950_22	has_surface_form	NVIDIA
+23950_22	part_of_entity	NVIDIA GPUs
+23950_23	is_in_sentence	sentence_23950
+23950_23	pobj	23950_21
+23950_23	has_surface_form	GPUs
+23950_23	part_of_entity	NVIDIA GPUs
+23950_24	is_in_sentence	sentence_23950
+23950_24	punct	23950_10
+23950_24	has_surface_form	.
+23950_25	is_in_sentence	sentence_23950
+23950_25	dep	23950_25
+23950_25	has_surface_form	
+Adobe Sensei AI	surface_form	Adobe Sensei AI
+Adobe Sensei AI	no_relation	NVIDIA GPUs
+NVIDIA GPUs	surface_form	NVIDIA GPUs

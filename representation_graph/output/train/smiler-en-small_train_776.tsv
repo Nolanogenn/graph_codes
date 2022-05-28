@@ -1,0 +1,46 @@
+775_0	is_in_sentence	sentence_775
+775_0	compound	775_1
+775_0	has_surface_form	Lisa
+775_0	part_of_entity	Lisa Schwarzbaum
+775_1	is_in_sentence	sentence_775
+775_1	nsubj	775_6
+775_1	has_surface_form	Schwarzbaum
+775_1	part_of_entity	Lisa Schwarzbaum
+775_6	is_in_sentence	sentence_775
+775_6	ROOT	775_6
+775_6	has_surface_form	is
+775_2	is_in_sentence	sentence_775
+775_2	punct	775_1
+775_2	has_surface_form	(
+775_3	is_in_sentence	sentence_775
+775_3	amod	775_1
+775_3	has_surface_form	born
+775_4	is_in_sentence	sentence_775
+775_4	npadvmod	775_3
+775_4	has_surface_form	1952
+775_5	is_in_sentence	sentence_775
+775_5	punct	775_1
+775_5	has_surface_form	)
+775_7	is_in_sentence	sentence_775
+775_7	det	775_10
+775_7	has_surface_form	an
+775_10	is_in_sentence	sentence_775
+775_10	attr	775_6
+775_10	has_surface_form	critic
+775_10	part_of_entity	film critic
+775_8	is_in_sentence	sentence_775
+775_8	amod	775_10
+775_8	has_surface_form	American
+775_9	is_in_sentence	sentence_775
+775_9	compound	775_10
+775_9	has_surface_form	film
+775_9	part_of_entity	film critic
+775_11	is_in_sentence	sentence_775
+775_11	punct	775_6
+775_11	has_surface_form	.
+775_12	is_in_sentence	sentence_775
+775_12	dep	775_12
+775_12	has_surface_form	
+Lisa Schwarzbaum	surface_form	Lisa Schwarzbaum
+Lisa Schwarzbaum	has-occupation	film critic
+film critic	surface_form	film critic

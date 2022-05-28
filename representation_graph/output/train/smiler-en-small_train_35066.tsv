@@ -1,0 +1,102 @@
+35065_0	is_in_sentence	sentence_35065
+35065_0	det	35065_2
+35065_0	has_surface_form	A
+35065_0	part_of_entity	A Good Man in Africa
+35065_2	is_in_sentence	sentence_35065
+35065_2	nsubj	35065_5
+35065_2	has_surface_form	Man
+35065_2	part_of_entity	A Good Man in Africa
+35065_1	is_in_sentence	sentence_35065
+35065_1	compound	35065_2
+35065_1	has_surface_form	Good
+35065_1	part_of_entity	A Good Man in Africa
+35065_5	is_in_sentence	sentence_35065
+35065_5	ROOT	35065_5
+35065_5	has_surface_form	is
+35065_3	is_in_sentence	sentence_35065
+35065_3	prep	35065_2
+35065_3	has_surface_form	in
+35065_3	part_of_entity	A Good Man in Africa
+35065_4	is_in_sentence	sentence_35065
+35065_4	pobj	35065_3
+35065_4	has_surface_form	Africa
+35065_4	part_of_entity	A Good Man in Africa
+35065_6	is_in_sentence	sentence_35065
+35065_6	det	35065_8
+35065_6	has_surface_form	a
+35065_8	is_in_sentence	sentence_35065
+35065_8	attr	35065_5
+35065_8	has_surface_form	film
+35065_7	is_in_sentence	sentence_35065
+35065_7	nummod	35065_8
+35065_7	has_surface_form	1994
+35065_9	is_in_sentence	sentence_35065
+35065_9	punct	35065_8
+35065_9	has_surface_form	,
+35065_10	is_in_sentence	sentence_35065
+35065_10	acl	35065_8
+35065_10	has_surface_form	based
+35065_11	is_in_sentence	sentence_35065
+35065_11	prep	35065_10
+35065_11	has_surface_form	on
+35065_12	is_in_sentence	sentence_35065
+35065_12	compound	35065_13
+35065_12	has_surface_form	William
+35065_13	is_in_sentence	sentence_35065
+35065_13	poss	35065_16
+35065_13	has_surface_form	Boyd
+35065_16	is_in_sentence	sentence_35065
+35065_16	pobj	35065_11
+35065_16	has_surface_form	novel
+35065_14	is_in_sentence	sentence_35065
+35065_14	case	35065_13
+35065_14	has_surface_form	's
+35065_15	is_in_sentence	sentence_35065
+35065_15	nummod	35065_16
+35065_15	has_surface_form	1981
+35065_17	is_in_sentence	sentence_35065
+35065_17	det	35065_19
+35065_17	has_surface_form	A
+35065_17	part_of_entity	A Good Man in Africa
+35065_19	is_in_sentence	sentence_35065
+35065_19	appos	35065_16
+35065_19	has_surface_form	Man
+35065_19	part_of_entity	A Good Man in Africa
+35065_18	is_in_sentence	sentence_35065
+35065_18	compound	35065_19
+35065_18	has_surface_form	Good
+35065_18	part_of_entity	A Good Man in Africa
+35065_20	is_in_sentence	sentence_35065
+35065_20	prep	35065_19
+35065_20	has_surface_form	in
+35065_20	part_of_entity	A Good Man in Africa
+35065_21	is_in_sentence	sentence_35065
+35065_21	pobj	35065_20
+35065_21	has_surface_form	Africa
+35065_21	part_of_entity	A Good Man in Africa
+35065_22	is_in_sentence	sentence_35065
+35065_22	cc	35065_10
+35065_22	has_surface_form	and
+35065_23	is_in_sentence	sentence_35065
+35065_23	conj	35065_10
+35065_23	has_surface_form	directed
+35065_24	is_in_sentence	sentence_35065
+35065_24	agent	35065_23
+35065_24	has_surface_form	by
+35065_25	is_in_sentence	sentence_35065
+35065_25	compound	35065_26
+35065_25	has_surface_form	Bruce
+35065_25	part_of_entity	Bruce Beresford
+35065_26	is_in_sentence	sentence_35065
+35065_26	pobj	35065_24
+35065_26	has_surface_form	Beresford
+35065_26	part_of_entity	Bruce Beresford
+35065_27	is_in_sentence	sentence_35065
+35065_27	punct	35065_5
+35065_27	has_surface_form	.
+35065_28	is_in_sentence	sentence_35065
+35065_28	dep	35065_5
+35065_28	has_surface_form	
+A Good Man in Africa	surface_form	A Good Man in Africa
+A Good Man in Africa	movie-has-director	Bruce Beresford
+Bruce Beresford	surface_form	Bruce Beresford

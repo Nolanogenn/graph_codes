@@ -1,0 +1,53 @@
+6290_0	is_in_sentence	sentence_6290
+6290_0	det	6290_2
+6290_0	has_surface_form	The
+6290_2	is_in_sentence	sentence_6290
+6290_2	nsubj	6290_3
+6290_2	has_surface_form	Tomcats
+6290_2	part_of_entity	Jacksonville Tomcats
+6290_1	is_in_sentence	sentence_6290
+6290_1	compound	6290_2
+6290_1	has_surface_form	Jacksonville
+6290_1	part_of_entity	Jacksonville Tomcats
+6290_3	is_in_sentence	sentence_6290
+6290_3	ROOT	6290_3
+6290_3	has_surface_form	were
+6290_4	is_in_sentence	sentence_6290
+6290_4	det	6290_7
+6290_4	has_surface_form	an
+6290_7	is_in_sentence	sentence_6290
+6290_7	attr	6290_3
+6290_7	has_surface_form	team
+6290_5	is_in_sentence	sentence_6290
+6290_5	compound	6290_6
+6290_5	has_surface_form	arena
+6290_6	is_in_sentence	sentence_6290
+6290_6	compound	6290_7
+6290_6	has_surface_form	football
+6290_8	is_in_sentence	sentence_6290
+6290_8	acl	6290_7
+6290_8	has_surface_form	based
+6290_9	is_in_sentence	sentence_6290
+6290_9	prep	6290_8
+6290_9	has_surface_form	in
+6290_10	is_in_sentence	sentence_6290
+6290_10	pobj	6290_9
+6290_10	has_surface_form	Jacksonville
+6290_11	is_in_sentence	sentence_6290
+6290_11	punct	6290_10
+6290_11	has_surface_form	,
+6290_12	is_in_sentence	sentence_6290
+6290_12	appos	6290_10
+6290_12	has_surface_form	Florida
+6290_13	is_in_sentence	sentence_6290
+6290_13	punct	6290_12
+6290_13	has_surface_form	,
+6290_14	is_in_sentence	sentence_6290
+6290_14	appos	6290_10
+6290_14	has_surface_form	U.
+6290_15	is_in_sentence	sentence_6290
+6290_15	dep	6290_3
+6290_15	has_surface_form	
+Jacksonville Tomcats	surface_form	Jacksonville Tomcats
+Jacksonville Tomcats	is-where	Jacksonville, Florida
+Jacksonville, Florida	surface_form	Jacksonville, Florida

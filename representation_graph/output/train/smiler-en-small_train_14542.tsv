@@ -1,0 +1,40 @@
+14541_0	is_in_sentence	sentence_14541
+14541_0	compound	14541_1
+14541_0	has_surface_form	Jim
+14541_0	part_of_entity	Jim Asato
+14541_1	is_in_sentence	sentence_14541
+14541_1	nsubj	14541_2
+14541_1	has_surface_form	Asato
+14541_1	part_of_entity	Jim Asato
+14541_2	is_in_sentence	sentence_14541
+14541_2	ROOT	14541_2
+14541_2	has_surface_form	was
+14541_3	is_in_sentence	sentence_14541
+14541_3	det	14541_8
+14541_3	has_surface_form	an
+14541_8	is_in_sentence	sentence_14541
+14541_8	attr	14541_2
+14541_8	has_surface_form	coach
+14541_8	part_of_entity	baseball coach
+14541_4	is_in_sentence	sentence_14541
+14541_4	amod	14541_5
+14541_4	has_surface_form	American
+14541_5	is_in_sentence	sentence_14541
+14541_5	nmod	14541_8
+14541_5	has_surface_form	football
+14541_6	is_in_sentence	sentence_14541
+14541_6	cc	14541_5
+14541_6	has_surface_form	and
+14541_7	is_in_sentence	sentence_14541
+14541_7	conj	14541_5
+14541_7	has_surface_form	baseball
+14541_7	part_of_entity	baseball coach
+14541_9	is_in_sentence	sentence_14541
+14541_9	punct	14541_2
+14541_9	has_surface_form	.
+14541_10	is_in_sentence	sentence_14541
+14541_10	dep	14541_10
+14541_10	has_surface_form	
+Jim Asato	surface_form	Jim Asato
+Jim Asato	has-type	baseball coach
+baseball coach	surface_form	baseball coach

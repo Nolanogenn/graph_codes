@@ -1,0 +1,67 @@
+27619_0	is_in_sentence	sentence_27619
+27619_0	compound	27619_1
+27619_0	has_surface_form	Kirby
+27619_0	part_of_entity	Kirby Cannon
+27619_1	is_in_sentence	sentence_27619
+27619_1	nsubj	27619_9
+27619_1	has_surface_form	Cannon
+27619_1	part_of_entity	Kirby Cannon
+27619_9	is_in_sentence	sentence_27619
+27619_9	ROOT	27619_9
+27619_9	has_surface_form	is
+27619_2	is_in_sentence	sentence_27619
+27619_2	punct	27619_1
+27619_2	has_surface_form	(
+27619_3	is_in_sentence	sentence_27619
+27619_3	acl	27619_1
+27619_3	has_surface_form	born
+27619_4	is_in_sentence	sentence_27619
+27619_4	npadvmod	27619_3
+27619_4	has_surface_form	January
+27619_5	is_in_sentence	sentence_27619
+27619_5	nummod	27619_4
+27619_5	has_surface_form	18
+27619_6	is_in_sentence	sentence_27619
+27619_6	punct	27619_4
+27619_6	has_surface_form	,
+27619_7	is_in_sentence	sentence_27619
+27619_7	nummod	27619_4
+27619_7	has_surface_form	1958
+27619_8	is_in_sentence	sentence_27619
+27619_8	punct	27619_4
+27619_8	has_surface_form	)
+27619_10	is_in_sentence	sentence_27619
+27619_10	det	27619_14
+27619_10	has_surface_form	an
+27619_14	is_in_sentence	sentence_27619
+27619_14	attr	27619_9
+27619_14	has_surface_form	coach
+27619_14	part_of_entity	football coach
+27619_11	is_in_sentence	sentence_27619
+27619_11	amod	27619_14
+27619_11	has_surface_form	American
+27619_12	is_in_sentence	sentence_27619
+27619_12	compound	27619_13
+27619_12	has_surface_form	college
+27619_13	is_in_sentence	sentence_27619
+27619_13	compound	27619_14
+27619_13	has_surface_form	football
+27619_13	part_of_entity	football coach
+27619_15	is_in_sentence	sentence_27619
+27619_15	cc	27619_14
+27619_15	has_surface_form	and
+27619_16	is_in_sentence	sentence_27619
+27619_16	amod	27619_17
+27619_16	has_surface_form	former
+27619_17	is_in_sentence	sentence_27619
+27619_17	conj	27619_14
+27619_17	has_surface_form	player
+27619_18	is_in_sentence	sentence_27619
+27619_18	punct	27619_9
+27619_18	has_surface_form	.
+27619_19	is_in_sentence	sentence_27619
+27619_19	dep	27619_19
+27619_19	has_surface_form	
+Kirby Cannon	surface_form	Kirby Cannon
+Kirby Cannon	has-type	football coach
+football coach	surface_form	football coach

@@ -1,0 +1,76 @@
+1774_0	is_in_sentence	sentence_1774
+1774_0	det	1774_4
+1774_0	has_surface_form	The
+1774_4	is_in_sentence	sentence_1774
+1774_4	nsubj	1774_5
+1774_4	has_surface_form	Charity
+1774_4	part_of_entity	Helen Rollason Cancer Charity
+1774_1	is_in_sentence	sentence_1774
+1774_1	compound	1774_2
+1774_1	has_surface_form	Helen
+1774_1	part_of_entity	Helen Rollason Cancer Charity
+1774_2	is_in_sentence	sentence_1774
+1774_2	compound	1774_4
+1774_2	has_surface_form	Rollason
+1774_2	part_of_entity	Helen Rollason Cancer Charity
+1774_3	is_in_sentence	sentence_1774
+1774_3	compound	1774_4
+1774_3	has_surface_form	Cancer
+1774_3	part_of_entity	Helen Rollason Cancer Charity
+1774_5	is_in_sentence	sentence_1774
+1774_5	ROOT	1774_5
+1774_5	has_surface_form	is
+1774_6	is_in_sentence	sentence_1774
+1774_6	det	1774_8
+1774_6	has_surface_form	a
+1774_8	is_in_sentence	sentence_1774
+1774_8	attr	1774_5
+1774_8	is_entity	charity
+1774_7	is_in_sentence	sentence_1774
+1774_7	compound	1774_8
+1774_7	has_surface_form	cancer
+charity	surface_form	charity
+1774_9	is_in_sentence	sentence_1774
+1774_9	prep	1774_8
+1774_9	has_surface_form	in
+1774_10	is_in_sentence	sentence_1774
+1774_10	det	1774_12
+1774_10	has_surface_form	the
+1774_12	is_in_sentence	sentence_1774
+1774_12	pobj	1774_9
+1774_12	has_surface_form	Kingdom
+1774_11	is_in_sentence	sentence_1774
+1774_11	compound	1774_12
+1774_11	has_surface_form	United
+1774_13	is_in_sentence	sentence_1774
+1774_13	nsubj	1774_14
+1774_13	has_surface_form	which
+1774_14	is_in_sentence	sentence_1774
+1774_14	relcl	1774_8
+1774_14	has_surface_form	provides
+1774_15	is_in_sentence	sentence_1774
+1774_15	dobj	1774_14
+1774_15	has_surface_form	support
+1774_16	is_in_sentence	sentence_1774
+1774_16	prep	1774_14
+1774_16	has_surface_form	to
+1774_17	is_in_sentence	sentence_1774
+1774_17	pobj	1774_16
+1774_17	has_surface_form	those
+1774_18	is_in_sentence	sentence_1774
+1774_18	acl	1774_17
+1774_18	has_surface_form	affected
+1774_19	is_in_sentence	sentence_1774
+1774_19	agent	1774_18
+1774_19	has_surface_form	by
+1774_20	is_in_sentence	sentence_1774
+1774_20	pobj	1774_19
+1774_20	has_surface_form	cancer
+1774_21	is_in_sentence	sentence_1774
+1774_21	punct	1774_5
+1774_21	has_surface_form	.
+1774_22	is_in_sentence	sentence_1774
+1774_22	dep	1774_22
+1774_22	has_surface_form	
+Helen Rollason Cancer Charity	surface_form	Helen Rollason Cancer Charity
+Helen Rollason Cancer Charity	has-type	charity

@@ -1,0 +1,82 @@
+30371_0	is_in_sentence	sentence_30371
+30371_0	compound	30371_1
+30371_0	has_surface_form	Pilar
+30371_0	part_of_entity	Pilar Pallete
+30371_1	is_in_sentence	sentence_30371
+30371_1	nsubj	30371_9
+30371_1	has_surface_form	Pallete
+30371_1	part_of_entity	Pilar Pallete
+30371_9	is_in_sentence	sentence_30371
+30371_9	ROOT	30371_9
+30371_9	has_surface_form	is
+30371_2	is_in_sentence	sentence_30371
+30371_2	punct	30371_1
+30371_2	has_surface_form	(
+30371_3	is_in_sentence	sentence_30371
+30371_3	acl	30371_1
+30371_3	has_surface_form	born
+30371_4	is_in_sentence	sentence_30371
+30371_4	npadvmod	30371_3
+30371_4	has_surface_form	September
+30371_5	is_in_sentence	sentence_30371
+30371_5	nummod	30371_4
+30371_5	has_surface_form	3
+30371_6	is_in_sentence	sentence_30371
+30371_6	punct	30371_4
+30371_6	has_surface_form	,
+30371_7	is_in_sentence	sentence_30371
+30371_7	nummod	30371_4
+30371_7	has_surface_form	1928
+30371_8	is_in_sentence	sentence_30371
+30371_8	punct	30371_1
+30371_8	has_surface_form	)
+30371_10	is_in_sentence	sentence_30371
+30371_10	det	30371_12
+30371_10	has_surface_form	a
+30371_12	is_in_sentence	sentence_30371
+30371_12	attr	30371_9
+30371_12	has_surface_form	actress
+30371_11	is_in_sentence	sentence_30371
+30371_11	amod	30371_12
+30371_11	has_surface_form	Peruvian
+30371_13	is_in_sentence	sentence_30371
+30371_13	cc	30371_12
+30371_13	has_surface_form	and
+30371_14	is_in_sentence	sentence_30371
+30371_14	det	30371_16
+30371_14	has_surface_form	the
+30371_16	is_in_sentence	sentence_30371
+30371_16	conj	30371_12
+30371_16	has_surface_form	wife
+30371_15	is_in_sentence	sentence_30371
+30371_15	amod	30371_16
+30371_15	has_surface_form	third
+30371_17	is_in_sentence	sentence_30371
+30371_17	prep	30371_16
+30371_17	has_surface_form	of
+30371_18	is_in_sentence	sentence_30371
+30371_18	det	30371_20
+30371_18	has_surface_form	the
+30371_20	is_in_sentence	sentence_30371
+30371_20	pobj	30371_17
+30371_20	has_surface_form	actor
+30371_19	is_in_sentence	sentence_30371
+30371_19	amod	30371_20
+30371_19	has_surface_form	American
+30371_21	is_in_sentence	sentence_30371
+30371_21	compound	30371_22
+30371_21	has_surface_form	John
+30371_21	part_of_entity	John Wayne
+30371_22	is_in_sentence	sentence_30371
+30371_22	appos	30371_20
+30371_22	has_surface_form	Wayne
+30371_22	part_of_entity	John Wayne
+30371_23	is_in_sentence	sentence_30371
+30371_23	punct	30371_9
+30371_23	has_surface_form	.
+30371_24	is_in_sentence	sentence_30371
+30371_24	dep	30371_9
+30371_24	has_surface_form	
+Pilar Pallete	surface_form	Pilar Pallete
+Pilar Pallete	has-spouse	John Wayne
+John Wayne	surface_form	John Wayne

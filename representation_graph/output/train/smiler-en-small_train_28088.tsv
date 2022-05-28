@@ -1,0 +1,76 @@
+28087_0	is_in_sentence	sentence_28087
+28087_0	compound	28087_1
+28087_0	has_surface_form	Girl
+28087_0	part_of_entity	Girl Hunting
+28087_1	is_in_sentence	sentence_28087
+28087_1	ROOT	28087_1
+28087_1	has_surface_form	Hunting
+28087_1	part_of_entity	Girl Hunting
+28087_2	is_in_sentence	sentence_28087
+28087_2	punct	28087_8
+28087_2	has_surface_form	(
+28087_8	is_in_sentence	sentence_28087
+28087_8	parataxis	28087_1
+28087_8	has_surface_form	is
+28087_3	is_in_sentence	sentence_28087
+28087_3	nsubj	28087_8
+28087_3	has_surface_form	Persian
+28087_4	is_in_sentence	sentence_28087
+28087_4	punct	28087_3
+28087_4	has_surface_form	:
+28087_5	is_in_sentence	sentence_28087
+28087_5	compound	28087_6
+28087_5	has_surface_form	Shekare
+28087_6	is_in_sentence	sentence_28087
+28087_6	appos	28087_3
+28087_6	has_surface_form	khanegi
+28087_7	is_in_sentence	sentence_28087
+28087_7	punct	28087_3
+28087_7	has_surface_form	)
+28087_9	is_in_sentence	sentence_28087
+28087_9	det	28087_13
+28087_9	has_surface_form	a
+28087_13	is_in_sentence	sentence_28087
+28087_13	attr	28087_8
+28087_13	has_surface_form	film
+28087_10	is_in_sentence	sentence_28087
+28087_10	nummod	28087_13
+28087_10	has_surface_form	1951
+28087_11	is_in_sentence	sentence_28087
+28087_11	amod	28087_13
+28087_11	has_surface_form	Iranian
+28087_12	is_in_sentence	sentence_28087
+28087_12	compound	28087_13
+28087_12	has_surface_form	comedy
+28087_14	is_in_sentence	sentence_28087
+28087_14	acl	28087_13
+28087_14	has_surface_form	directed
+28087_15	is_in_sentence	sentence_28087
+28087_15	agent	28087_14
+28087_15	has_surface_form	by
+28087_16	is_in_sentence	sentence_28087
+28087_16	compound	28087_17
+28087_16	has_surface_form	Sadegh
+28087_17	is_in_sentence	sentence_28087
+28087_17	pobj	28087_15
+28087_17	has_surface_form	Bahrami
+28087_18	is_in_sentence	sentence_28087
+28087_18	cc	28087_17
+28087_18	has_surface_form	and
+28087_19	is_in_sentence	sentence_28087
+28087_19	compound	28087_20
+28087_19	has_surface_form	Ali
+28087_19	part_of_entity	Ali Daryabegi
+28087_20	is_in_sentence	sentence_28087
+28087_20	conj	28087_17
+28087_20	has_surface_form	Daryabegi
+28087_20	part_of_entity	Ali Daryabegi
+28087_21	is_in_sentence	sentence_28087
+28087_21	punct	28087_8
+28087_21	has_surface_form	.
+28087_22	is_in_sentence	sentence_28087
+28087_22	dep	28087_1
+28087_22	has_surface_form	
+Girl Hunting	surface_form	Girl Hunting
+Girl Hunting	movie-has-director	Ali Daryabegi
+Ali Daryabegi	surface_form	Ali Daryabegi

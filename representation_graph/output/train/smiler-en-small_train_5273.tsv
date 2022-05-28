@@ -1,0 +1,121 @@
+5272_0	is_in_sentence	sentence_5272
+5272_0	compound	5272_2
+5272_0	has_surface_form	Thomas
+5272_0	part_of_entity	Thomas Sean Connery
+5272_2	is_in_sentence	sentence_5272
+5272_2	nsubjpass	5272_11
+5272_2	has_surface_form	Connery
+5272_2	part_of_entity	Thomas Sean Connery
+5272_1	is_in_sentence	sentence_5272
+5272_1	compound	5272_2
+5272_1	has_surface_form	Sean
+5272_1	part_of_entity	Thomas Sean Connery
+5272_11	is_in_sentence	sentence_5272
+5272_11	ROOT	5272_11
+5272_11	has_surface_form	born
+5272_3	is_in_sentence	sentence_5272
+5272_3	punct	5272_2
+5272_3	has_surface_form	,
+5272_4	is_in_sentence	sentence_5272
+5272_4	acl	5272_2
+5272_4	has_surface_form	named
+5272_5	is_in_sentence	sentence_5272
+5272_5	oprd	5272_4
+5272_5	has_surface_form	Thomas
+5272_6	is_in_sentence	sentence_5272
+5272_6	prep	5272_4
+5272_6	has_surface_form	after
+5272_7	is_in_sentence	sentence_5272
+5272_7	poss	5272_8
+5272_7	has_surface_form	his
+5272_8	is_in_sentence	sentence_5272
+5272_8	pobj	5272_6
+5272_8	has_surface_form	grandfather
+5272_9	is_in_sentence	sentence_5272
+5272_9	punct	5272_2
+5272_9	has_surface_form	,
+5272_10	is_in_sentence	sentence_5272
+5272_10	auxpass	5272_11
+5272_10	has_surface_form	was
+5272_12	is_in_sentence	sentence_5272
+5272_12	prep	5272_11
+5272_12	has_surface_form	in
+5272_13	is_in_sentence	sentence_5272
+5272_13	pobj	5272_12
+5272_13	has_surface_form	Fountainbridge
+5272_14	is_in_sentence	sentence_5272
+5272_14	punct	5272_13
+5272_14	has_surface_form	,
+5272_15	is_in_sentence	sentence_5272
+5272_15	appos	5272_13
+5272_15	has_surface_form	Edinburgh
+5272_16	is_in_sentence	sentence_5272
+5272_16	punct	5272_15
+5272_16	has_surface_form	,
+5272_17	is_in_sentence	sentence_5272
+5272_17	appos	5272_15
+5272_17	has_surface_form	Scotland
+5272_18	is_in_sentence	sentence_5272
+5272_18	prep	5272_11
+5272_18	has_surface_form	on
+5272_19	is_in_sentence	sentence_5272
+5272_19	nummod	5272_21
+5272_19	has_surface_form	25
+5272_21	is_in_sentence	sentence_5272
+5272_21	pobj	5272_18
+5272_21	has_surface_form	1930.[6
+5272_20	is_in_sentence	sentence_5272
+5272_20	compound	5272_21
+5272_20	has_surface_form	August
+5272_22	is_in_sentence	sentence_5272
+5272_22	punct	5272_11
+5272_22	has_surface_form	]
+5272_23	is_in_sentence	sentence_5272
+5272_23	poss	5272_24
+5272_23	has_surface_form	His
+5272_24	is_in_sentence	sentence_5272
+5272_24	nsubj	5272_31
+5272_24	has_surface_form	mother
+5272_31	is_in_sentence	sentence_5272
+5272_31	ROOT	5272_31
+5272_31	has_surface_form	was
+5272_25	is_in_sentence	sentence_5272
+5272_25	punct	5272_24
+5272_25	has_surface_form	,
+5272_26	is_in_sentence	sentence_5272
+5272_26	compound	5272_27
+5272_26	has_surface_form	Euphemia
+5272_26	part_of_entity	Euphemia Effie McBain McLean
+5272_27	is_in_sentence	sentence_5272
+5272_27	compound	5272_29
+5272_27	has_surface_form	Effie
+5272_27	part_of_entity	Euphemia Effie McBain McLean
+5272_29	is_in_sentence	sentence_5272
+5272_29	appos	5272_24
+5272_29	has_surface_form	McLean
+5272_29	part_of_entity	Euphemia Effie McBain McLean
+5272_28	is_in_sentence	sentence_5272
+5272_28	compound	5272_29
+5272_28	has_surface_form	McBain
+5272_28	part_of_entity	Euphemia Effie McBain McLean
+5272_30	is_in_sentence	sentence_5272
+5272_30	punct	5272_24
+5272_30	has_surface_form	,
+5272_32	is_in_sentence	sentence_5272
+5272_32	det	5272_34
+5272_32	has_surface_form	a
+5272_34	is_in_sentence	sentence_5272
+5272_34	attr	5272_31
+5272_34	has_surface_form	woman
+5272_33	is_in_sentence	sentence_5272
+5272_33	compound	5272_34
+5272_33	has_surface_form	cleaning
+5272_35	is_in_sentence	sentence_5272
+5272_35	punct	5272_31
+5272_35	has_surface_form	.
+5272_36	is_in_sentence	sentence_5272
+5272_36	dep	5272_36
+5272_36	has_surface_form	
+Thomas Sean Connery	surface_form	Thomas Sean Connery
+Thomas Sean Connery	has-parent	Euphemia Effie McBain McLean
+Euphemia Effie McBain McLean	surface_form	Euphemia Effie McBain McLean

@@ -1,0 +1,52 @@
+24672_0	is_in_sentence	sentence_24672
+24672_0	compound	24672_1
+24672_0	has_surface_form	Paranormal
+24672_0	part_of_entity	Paranormal Movie
+24672_1	is_in_sentence	sentence_24672
+24672_1	nsubj	24672_2
+24672_1	has_surface_form	Movie
+24672_1	part_of_entity	Paranormal Movie
+24672_2	is_in_sentence	sentence_24672
+24672_2	ROOT	24672_2
+24672_2	has_surface_form	is
+24672_3	is_in_sentence	sentence_24672
+24672_3	det	24672_8
+24672_3	has_surface_form	a
+24672_8	is_in_sentence	sentence_24672
+24672_8	attr	24672_2
+24672_8	has_surface_form	film
+24672_4	is_in_sentence	sentence_24672
+24672_4	nummod	24672_8
+24672_4	has_surface_form	2013
+24672_5	is_in_sentence	sentence_24672
+24672_5	amod	24672_8
+24672_5	has_surface_form	American
+24672_6	is_in_sentence	sentence_24672
+24672_6	compound	24672_7
+24672_6	has_surface_form	parody
+24672_7	is_in_sentence	sentence_24672
+24672_7	compound	24672_8
+24672_7	has_surface_form	comedy
+24672_9	is_in_sentence	sentence_24672
+24672_9	acl	24672_8
+24672_9	has_surface_form	directed
+24672_10	is_in_sentence	sentence_24672
+24672_10	agent	24672_9
+24672_10	has_surface_form	by
+24672_11	is_in_sentence	sentence_24672
+24672_11	compound	24672_12
+24672_11	has_surface_form	Kevin
+24672_11	part_of_entity	Kevin Farley
+24672_12	is_in_sentence	sentence_24672
+24672_12	pobj	24672_10
+24672_12	has_surface_form	Farley
+24672_12	part_of_entity	Kevin Farley
+24672_13	is_in_sentence	sentence_24672
+24672_13	punct	24672_2
+24672_13	has_surface_form	.
+24672_14	is_in_sentence	sentence_24672
+24672_14	dep	24672_14
+24672_14	has_surface_form	
+Paranormal Movie	surface_form	Paranormal Movie
+Paranormal Movie	movie-has-director	Kevin Farley
+Kevin Farley	surface_form	Kevin Farley

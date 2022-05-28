@@ -1,0 +1,62 @@
+26360_0	is_in_sentence	sentence_26360
+26360_0	compound	26360_1
+26360_0	has_surface_form	Michael
+26360_0	part_of_entity	Michael Schottenberg
+26360_1	is_in_sentence	sentence_26360
+26360_1	nsubj	26360_8
+26360_1	has_surface_form	Schottenberg
+26360_1	part_of_entity	Michael Schottenberg
+26360_8	is_in_sentence	sentence_26360
+26360_8	ROOT	26360_8
+26360_8	has_surface_form	is
+26360_2	is_in_sentence	sentence_26360
+26360_2	punct	26360_3
+26360_2	has_surface_form	(
+26360_3	is_in_sentence	sentence_26360
+26360_3	parataxis	26360_1
+26360_3	has_surface_form	born
+26360_4	is_in_sentence	sentence_26360
+26360_4	nummod	26360_5
+26360_4	has_surface_form	10
+26360_5	is_in_sentence	sentence_26360
+26360_5	npadvmod	26360_3
+26360_5	has_surface_form	July
+26360_6	is_in_sentence	sentence_26360
+26360_6	nummod	26360_5
+26360_6	has_surface_form	1952
+26360_7	is_in_sentence	sentence_26360
+26360_7	punct	26360_3
+26360_7	has_surface_form	)
+26360_9	is_in_sentence	sentence_26360
+26360_9	det	26360_11
+26360_9	has_surface_form	an
+26360_11	is_in_sentence	sentence_26360
+26360_11	attr	26360_8
+26360_11	has_surface_form	actor
+26360_10	is_in_sentence	sentence_26360
+26360_10	amod	26360_11
+26360_10	has_surface_form	Austrian
+26360_12	is_in_sentence	sentence_26360
+26360_12	punct	26360_11
+26360_12	has_surface_form	,
+26360_13	is_in_sentence	sentence_26360
+26360_13	compound	26360_14
+26360_13	has_surface_form	film
+26360_14	is_in_sentence	sentence_26360
+26360_14	appos	26360_11
+26360_14	has_surface_form	director
+26360_15	is_in_sentence	sentence_26360
+26360_15	cc	26360_14
+26360_15	has_surface_form	and
+26360_16	is_in_sentence	sentence_26360
+26360_16	conj	26360_14
+26360_16	is_entity	screenwriter
+screenwriter	surface_form	screenwriter
+26360_17	is_in_sentence	sentence_26360
+26360_17	punct	26360_8
+26360_17	has_surface_form	.
+26360_18	is_in_sentence	sentence_26360
+26360_18	dep	26360_18
+26360_18	has_surface_form	
+Michael Schottenberg	surface_form	Michael Schottenberg
+Michael Schottenberg	has-occupation	screenwriter

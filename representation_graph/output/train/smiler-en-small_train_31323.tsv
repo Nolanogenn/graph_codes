@@ -1,0 +1,51 @@
+31322_0	is_in_sentence	sentence_31322
+31322_0	compound	31322_1
+31322_0	has_surface_form	Ebonyi
+31322_0	part_of_entity	Ebonyi State University
+31322_1	is_in_sentence	sentence_31322
+31322_1	compound	31322_2
+31322_1	has_surface_form	State
+31322_1	part_of_entity	Ebonyi State University
+31322_2	is_in_sentence	sentence_31322
+31322_2	npadvmod	31322_6
+31322_2	has_surface_form	University
+31322_2	part_of_entity	Ebonyi State University
+31322_6	is_in_sentence	sentence_31322
+31322_6	ROOT	31322_6
+31322_6	has_surface_form	founded
+31322_3	is_in_sentence	sentence_31322
+31322_3	punct	31322_6
+31322_3	has_surface_form	,
+31322_4	is_in_sentence	sentence_31322
+31322_4	nsubjpass	31322_6
+31322_4	is_entity	Abakaliki
+Abakaliki	surface_form	Abakaliki
+31322_5	is_in_sentence	sentence_31322
+31322_5	auxpass	31322_6
+31322_5	has_surface_form	was
+31322_7	is_in_sentence	sentence_31322
+31322_7	prep	31322_6
+31322_7	has_surface_form	in
+31322_8	is_in_sentence	sentence_31322
+31322_8	pobj	31322_7
+31322_8	has_surface_form	1999
+31322_9	is_in_sentence	sentence_31322
+31322_9	prep	31322_6
+31322_9	has_surface_form	in
+31322_10	is_in_sentence	sentence_31322
+31322_10	pobj	31322_9
+31322_10	is_entity	Abakaliki
+31322_11	is_in_sentence	sentence_31322
+31322_11	punct	31322_10
+31322_11	has_surface_form	,
+31322_12	is_in_sentence	sentence_31322
+31322_12	appos	31322_10
+31322_12	has_surface_form	Nigeria
+31322_13	is_in_sentence	sentence_31322
+31322_13	punct	31322_6
+31322_13	has_surface_form	.
+31322_14	is_in_sentence	sentence_31322
+31322_14	dep	31322_14
+31322_14	has_surface_form	
+Ebonyi State University	surface_form	Ebonyi State University
+Ebonyi State University	is-where	Abakaliki

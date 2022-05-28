@@ -1,0 +1,62 @@
+20755_0	is_in_sentence	sentence_20755
+20755_0	compound	20755_1
+20755_0	has_surface_form	Artists
+20755_0	part_of_entity	Artists House
+20755_1	is_in_sentence	sentence_20755
+20755_1	nsubj	20755_2
+20755_1	has_surface_form	House
+20755_1	part_of_entity	Artists House
+20755_2	is_in_sentence	sentence_20755
+20755_2	ROOT	20755_2
+20755_2	has_surface_form	was
+20755_3	is_in_sentence	sentence_20755
+20755_3	det	20755_8
+20755_3	has_surface_form	a
+20755_8	is_in_sentence	sentence_20755
+20755_8	attr	20755_2
+20755_8	has_surface_form	company
+20755_4	is_in_sentence	sentence_20755
+20755_4	nmod	20755_8
+20755_4	is_entity	jazz
+jazz	surface_form	jazz
+20755_5	is_in_sentence	sentence_20755
+20755_5	cc	20755_4
+20755_5	has_surface_form	and
+20755_6	is_in_sentence	sentence_20755
+20755_6	conj	20755_4
+20755_6	has_surface_form	blues
+20755_7	is_in_sentence	sentence_20755
+20755_7	conj	20755_4
+20755_7	has_surface_form	record
+20755_9	is_in_sentence	sentence_20755
+20755_9	cc	20755_8
+20755_9	has_surface_form	and
+20755_10	is_in_sentence	sentence_20755
+20755_10	conj	20755_8
+20755_10	has_surface_form	label
+20755_11	is_in_sentence	sentence_20755
+20755_11	acl	20755_8
+20755_11	has_surface_form	established
+20755_12	is_in_sentence	sentence_20755
+20755_12	prep	20755_11
+20755_12	has_surface_form	in
+20755_13	is_in_sentence	sentence_20755
+20755_13	pobj	20755_12
+20755_13	has_surface_form	1977
+20755_14	is_in_sentence	sentence_20755
+20755_14	agent	20755_11
+20755_14	has_surface_form	by
+20755_15	is_in_sentence	sentence_20755
+20755_15	compound	20755_16
+20755_15	has_surface_form	John
+20755_16	is_in_sentence	sentence_20755
+20755_16	pobj	20755_14
+20755_16	has_surface_form	Snyder
+20755_17	is_in_sentence	sentence_20755
+20755_17	punct	20755_2
+20755_17	has_surface_form	.
+20755_18	is_in_sentence	sentence_20755
+20755_18	dep	20755_2
+20755_18	has_surface_form	
+Artists House	surface_form	Artists House
+Artists House	has-genre	jazz

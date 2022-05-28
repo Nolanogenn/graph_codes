@@ -1,0 +1,56 @@
+24975_0	is_in_sentence	sentence_24975
+24975_0	compound	24975_1
+24975_0	has_surface_form	Johnny
+24975_0	part_of_entity	Johnny Legend
+24975_1	is_in_sentence	sentence_24975
+24975_1	nsubj	24975_2
+24975_1	has_surface_form	Legend
+24975_1	part_of_entity	Johnny Legend
+24975_2	is_in_sentence	sentence_24975
+24975_2	ROOT	24975_2
+24975_2	has_surface_form	is
+24975_3	is_in_sentence	sentence_24975
+24975_3	det	24975_6
+24975_3	has_surface_form	an
+24975_6	is_in_sentence	sentence_24975
+24975_6	attr	24975_2
+24975_6	has_surface_form	musician
+24975_4	is_in_sentence	sentence_24975
+24975_4	amod	24975_6
+24975_4	has_surface_form	American
+24975_5	is_in_sentence	sentence_24975
+24975_5	advmod	24975_6
+24975_5	is_entity	rockabilly
+rockabilly	surface_form	rockabilly
+24975_7	is_in_sentence	sentence_24975
+24975_7	punct	24975_6
+24975_7	has_surface_form	,
+24975_8	is_in_sentence	sentence_24975
+24975_8	compound	24975_9
+24975_8	has_surface_form	film
+24975_9	is_in_sentence	sentence_24975
+24975_9	conj	24975_6
+24975_9	has_surface_form	producer
+24975_10	is_in_sentence	sentence_24975
+24975_10	punct	24975_9
+24975_10	has_surface_form	,
+24975_11	is_in_sentence	sentence_24975
+24975_11	conj	24975_9
+24975_11	has_surface_form	actor
+24975_12	is_in_sentence	sentence_24975
+24975_12	cc	24975_11
+24975_12	has_surface_form	and
+24975_13	is_in_sentence	sentence_24975
+24975_13	compound	24975_14
+24975_13	has_surface_form	wrestling
+24975_14	is_in_sentence	sentence_24975
+24975_14	conj	24975_11
+24975_14	has_surface_form	manager
+24975_15	is_in_sentence	sentence_24975
+24975_15	punct	24975_2
+24975_15	has_surface_form	.
+24975_16	is_in_sentence	sentence_24975
+24975_16	dep	24975_2
+24975_16	has_surface_form	
+Johnny Legend	surface_form	Johnny Legend
+Johnny Legend	has-genre	rockabilly

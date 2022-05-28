@@ -1,0 +1,66 @@
+18481_0	is_in_sentence	sentence_18481
+18481_0	compound	18481_1
+18481_0	has_surface_form	Sverre
+18481_0	part_of_entity	Sverre Anker Ousdal
+18481_1	is_in_sentence	sentence_18481
+18481_1	compound	18481_2
+18481_1	has_surface_form	Anker
+18481_1	part_of_entity	Sverre Anker Ousdal
+18481_2	is_in_sentence	sentence_18481
+18481_2	nsubj	18481_9
+18481_2	has_surface_form	Ousdal
+18481_2	part_of_entity	Sverre Anker Ousdal
+18481_9	is_in_sentence	sentence_18481
+18481_9	ROOT	18481_9
+18481_9	has_surface_form	is
+18481_3	is_in_sentence	sentence_18481
+18481_3	punct	18481_2
+18481_3	has_surface_form	(
+18481_4	is_in_sentence	sentence_18481
+18481_4	acl	18481_2
+18481_4	has_surface_form	born
+18481_5	is_in_sentence	sentence_18481
+18481_5	nummod	18481_6
+18481_5	has_surface_form	18
+18481_6	is_in_sentence	sentence_18481
+18481_6	npadvmod	18481_4
+18481_6	has_surface_form	July
+18481_7	is_in_sentence	sentence_18481
+18481_7	nummod	18481_6
+18481_7	has_surface_form	1944
+18481_8	is_in_sentence	sentence_18481
+18481_8	punct	18481_2
+18481_8	has_surface_form	)
+18481_10	is_in_sentence	sentence_18481
+18481_10	det	18481_12
+18481_10	has_surface_form	a
+18481_12	is_in_sentence	sentence_18481
+18481_12	attr	18481_9
+18481_12	is_entity	actor
+18481_11	is_in_sentence	sentence_18481
+18481_11	amod	18481_12
+18481_11	has_surface_form	Norwegian
+actor	surface_form	actor
+18481_13	is_in_sentence	sentence_18481
+18481_13	acl	18481_12
+18481_13	has_surface_form	born
+18481_14	is_in_sentence	sentence_18481
+18481_14	prep	18481_13
+18481_14	has_surface_form	in
+18481_15	is_in_sentence	sentence_18481
+18481_15	pobj	18481_14
+18481_15	has_surface_form	Flekkefjord
+18481_16	is_in_sentence	sentence_18481
+18481_16	punct	18481_15
+18481_16	has_surface_form	,
+18481_17	is_in_sentence	sentence_18481
+18481_17	appos	18481_15
+18481_17	has_surface_form	Norway
+18481_18	is_in_sentence	sentence_18481
+18481_18	punct	18481_9
+18481_18	has_surface_form	.
+18481_19	is_in_sentence	sentence_18481
+18481_19	dep	18481_9
+18481_19	has_surface_form	
+Sverre Anker Ousdal	surface_form	Sverre Anker Ousdal
+Sverre Anker Ousdal	has-occupation	actor

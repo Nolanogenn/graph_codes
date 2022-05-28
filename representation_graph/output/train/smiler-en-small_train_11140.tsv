@@ -1,0 +1,79 @@
+11139_0	is_in_sentence	sentence_11139
+11139_0	det	11139_2
+11139_0	has_surface_form	The
+11139_2	is_in_sentence	sentence_11139
+11139_2	nsubj	11139_3
+11139_2	has_surface_form	Center
+11139_2	part_of_entity	Carter Center
+11139_1	is_in_sentence	sentence_11139
+11139_1	compound	11139_2
+11139_1	has_surface_form	Carter
+11139_1	part_of_entity	Carter Center
+11139_3	is_in_sentence	sentence_11139
+11139_3	ROOT	11139_3
+11139_3	has_surface_form	is
+11139_4	is_in_sentence	sentence_11139
+11139_4	det	11139_12
+11139_4	has_surface_form	a
+11139_12	is_in_sentence	sentence_11139
+11139_12	attr	11139_3
+11139_12	has_surface_form	organization
+11139_5	is_in_sentence	sentence_11139
+11139_5	amod	11139_12
+11139_5	has_surface_form	nongovernmental
+11139_6	is_in_sentence	sentence_11139
+11139_6	punct	11139_12
+11139_6	has_surface_form	,
+11139_7	is_in_sentence	sentence_11139
+11139_7	nsubj	11139_6
+11139_7	has_surface_form	not
+11139_8	is_in_sentence	sentence_11139
+11139_8	punct	11139_7
+11139_8	has_surface_form	-
+11139_9	is_in_sentence	sentence_11139
+11139_9	prep	11139_7
+11139_9	has_surface_form	for
+11139_10	is_in_sentence	sentence_11139
+11139_10	punct	11139_9
+11139_10	has_surface_form	-
+11139_11	is_in_sentence	sentence_11139
+11139_11	pobj	11139_9
+11139_11	has_surface_form	profit
+11139_13	is_in_sentence	sentence_11139
+11139_13	acl	11139_12
+11139_13	has_surface_form	founded
+11139_14	is_in_sentence	sentence_11139
+11139_14	prep	11139_13
+11139_14	has_surface_form	in
+11139_15	is_in_sentence	sentence_11139
+11139_15	pobj	11139_14
+11139_15	has_surface_form	1982
+11139_16	is_in_sentence	sentence_11139
+11139_16	agent	11139_13
+11139_16	has_surface_form	by
+11139_17	is_in_sentence	sentence_11139
+11139_17	amod	11139_19
+11139_17	has_surface_form	former
+11139_19	is_in_sentence	sentence_11139
+11139_19	compound	11139_21
+11139_19	has_surface_form	President
+11139_18	is_in_sentence	sentence_11139
+11139_18	compound	11139_19
+11139_18	has_surface_form	U.S.
+11139_21	is_in_sentence	sentence_11139
+11139_21	pobj	11139_16
+11139_21	has_surface_form	Carter
+11139_21	part_of_entity	Jimmy Carter
+11139_20	is_in_sentence	sentence_11139
+11139_20	compound	11139_21
+11139_20	has_surface_form	Jimmy
+11139_20	part_of_entity	Jimmy Carter
+11139_22	is_in_sentence	sentence_11139
+11139_22	punct	11139_3
+11139_22	has_surface_form	.
+11139_23	is_in_sentence	sentence_11139
+11139_23	dep	11139_23
+11139_23	has_surface_form	
+Carter Center	surface_form	Carter Center
+Carter Center	org-has-founder	Jimmy Carter
+Jimmy Carter	surface_form	Jimmy Carter

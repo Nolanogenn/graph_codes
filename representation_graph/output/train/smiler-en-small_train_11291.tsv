@@ -1,0 +1,59 @@
+11290_0	is_in_sentence	sentence_11290
+11290_0	compound	11290_1
+11290_0	has_surface_form	Mera
+11290_0	part_of_entity	Mera Lahoo
+11290_1	is_in_sentence	sentence_11290
+11290_1	nsubj	11290_2
+11290_1	has_surface_form	Lahoo
+11290_1	part_of_entity	Mera Lahoo
+11290_2	is_in_sentence	sentence_11290
+11290_2	ROOT	11290_2
+11290_2	has_surface_form	is
+11290_3	is_in_sentence	sentence_11290
+11290_3	det	11290_6
+11290_3	has_surface_form	a
+11290_6	is_in_sentence	sentence_11290
+11290_6	attr	11290_2
+11290_6	is_entity	film
+11290_4	is_in_sentence	sentence_11290
+11290_4	nummod	11290_6
+11290_4	has_surface_form	1987
+11290_5	is_in_sentence	sentence_11290
+11290_5	amod	11290_6
+11290_5	has_surface_form	Indian
+film	surface_form	film
+11290_7	is_in_sentence	sentence_11290
+11290_7	acl	11290_6
+11290_7	has_surface_form	directed
+11290_8	is_in_sentence	sentence_11290
+11290_8	agent	11290_7
+11290_8	has_surface_form	by
+11290_9	is_in_sentence	sentence_11290
+11290_9	pobj	11290_8
+11290_9	has_surface_form	Veerendra
+11290_10	is_in_sentence	sentence_11290
+11290_10	cc	11290_7
+11290_10	has_surface_form	and
+11290_11	is_in_sentence	sentence_11290
+11290_11	conj	11290_7
+11290_11	has_surface_form	starring
+11290_12	is_in_sentence	sentence_11290
+11290_12	dobj	11290_11
+11290_12	has_surface_form	Govinda
+11290_13	is_in_sentence	sentence_11290
+11290_13	cc	11290_12
+11290_13	has_surface_form	and
+11290_14	is_in_sentence	sentence_11290
+11290_14	compound	11290_15
+11290_14	has_surface_form	Kimi
+11290_15	is_in_sentence	sentence_11290
+11290_15	conj	11290_12
+11290_15	has_surface_form	Katkar
+11290_16	is_in_sentence	sentence_11290
+11290_16	punct	11290_2
+11290_16	has_surface_form	.
+11290_17	is_in_sentence	sentence_11290
+11290_17	dep	11290_2
+11290_17	has_surface_form	
+Mera Lahoo	surface_form	Mera Lahoo
+Mera Lahoo	has-type	film

@@ -1,0 +1,56 @@
+34730_0	is_in_sentence	sentence_34730
+34730_0	compound	34730_1
+34730_0	has_surface_form	Najangalude
+34730_0	part_of_entity	Najangalude Kochu Doctor
+34730_1	is_in_sentence	sentence_34730
+34730_1	compound	34730_2
+34730_1	has_surface_form	Kochu
+34730_1	part_of_entity	Najangalude Kochu Doctor
+34730_2	is_in_sentence	sentence_34730
+34730_2	nsubj	34730_3
+34730_2	has_surface_form	Doctor
+34730_2	part_of_entity	Najangalude Kochu Doctor
+34730_3	is_in_sentence	sentence_34730
+34730_3	ROOT	34730_3
+34730_3	has_surface_form	is
+34730_4	is_in_sentence	sentence_34730
+34730_4	det	34730_8
+34730_4	has_surface_form	a
+34730_8	is_in_sentence	sentence_34730
+34730_8	attr	34730_3
+34730_8	has_surface_form	film
+34730_5	is_in_sentence	sentence_34730
+34730_5	nummod	34730_8
+34730_5	has_surface_form	1989
+34730_6	is_in_sentence	sentence_34730
+34730_6	compound	34730_7
+34730_6	has_surface_form	Indian
+34730_7	is_in_sentence	sentence_34730
+34730_7	compound	34730_8
+34730_7	has_surface_form	Malayalam
+34730_9	is_in_sentence	sentence_34730
+34730_9	punct	34730_8
+34730_9	has_surface_form	,
+34730_10	is_in_sentence	sentence_34730
+34730_10	acl	34730_8
+34730_10	has_surface_form	directed
+34730_11	is_in_sentence	sentence_34730
+34730_11	agent	34730_10
+34730_11	has_surface_form	by
+34730_12	is_in_sentence	sentence_34730
+34730_12	compound	34730_13
+34730_12	has_surface_form	Balachandra
+34730_12	part_of_entity	Balachandra Menon
+34730_13	is_in_sentence	sentence_34730
+34730_13	pobj	34730_11
+34730_13	has_surface_form	Menon
+34730_13	part_of_entity	Balachandra Menon
+34730_14	is_in_sentence	sentence_34730
+34730_14	punct	34730_3
+34730_14	has_surface_form	.
+34730_15	is_in_sentence	sentence_34730
+34730_15	dep	34730_3
+34730_15	has_surface_form	
+Najangalude Kochu Doctor	surface_form	Najangalude Kochu Doctor
+Najangalude Kochu Doctor	movie-has-director	Balachandra Menon
+Balachandra Menon	surface_form	Balachandra Menon

@@ -1,0 +1,70 @@
+443_0	is_in_sentence	sentence_443
+443_0	compound	443_1
+443_0	has_surface_form	Advanced
+443_0	part_of_entity	Advanced Eye Hospital and Institute
+443_1	is_in_sentence	sentence_443
+443_1	compound	443_2
+443_1	has_surface_form	Eye
+443_1	part_of_entity	Advanced Eye Hospital and Institute
+443_2	is_in_sentence	sentence_443
+443_2	nsubj	443_8
+443_2	has_surface_form	Hospital
+443_2	part_of_entity	Advanced Eye Hospital and Institute
+443_8	is_in_sentence	sentence_443
+443_8	ROOT	443_8
+443_8	has_surface_form	is
+443_3	is_in_sentence	sentence_443
+443_3	cc	443_2
+443_3	has_surface_form	and
+443_3	part_of_entity	Advanced Eye Hospital and Institute
+443_4	is_in_sentence	sentence_443
+443_4	conj	443_2
+443_4	has_surface_form	Institute
+443_4	part_of_entity	Advanced Eye Hospital and Institute
+443_5	is_in_sentence	sentence_443
+443_5	punct	443_2
+443_5	has_surface_form	(
+443_6	is_in_sentence	sentence_443
+443_6	appos	443_2
+443_6	has_surface_form	AEHI
+443_7	is_in_sentence	sentence_443
+443_7	punct	443_2
+443_7	has_surface_form	)
+443_9	is_in_sentence	sentence_443
+443_9	det	443_12
+443_9	has_surface_form	a
+443_12	is_in_sentence	sentence_443
+443_12	attr	443_8
+443_12	has_surface_form	hospital
+443_12	part_of_entity	eye hospital
+443_10	is_in_sentence	sentence_443
+443_10	amod	443_12
+443_10	has_surface_form	specialist
+443_11	is_in_sentence	sentence_443
+443_11	compound	443_12
+443_11	has_surface_form	eye
+443_11	part_of_entity	eye hospital
+443_13	is_in_sentence	sentence_443
+443_13	prep	443_12
+443_13	has_surface_form	in
+443_14	is_in_sentence	sentence_443
+443_14	compound	443_15
+443_14	has_surface_form	Navi
+443_15	is_in_sentence	sentence_443
+443_15	pobj	443_13
+443_15	has_surface_form	Mumbai
+443_16	is_in_sentence	sentence_443
+443_16	punct	443_15
+443_16	has_surface_form	,
+443_17	is_in_sentence	sentence_443
+443_17	appos	443_15
+443_17	has_surface_form	Maharashtra
+443_18	is_in_sentence	sentence_443
+443_18	punct	443_8
+443_18	has_surface_form	.
+443_19	is_in_sentence	sentence_443
+443_19	dep	443_8
+443_19	has_surface_form	
+Advanced Eye Hospital and Institute	surface_form	Advanced Eye Hospital and Institute
+Advanced Eye Hospital and Institute	has-type	eye hospital
+eye hospital	surface_form	eye hospital

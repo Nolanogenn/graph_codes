@@ -1,0 +1,62 @@
+23688_0	is_in_sentence	sentence_23688
+23688_0	compound	23688_1
+23688_0	has_surface_form	Gary
+23688_0	part_of_entity	Gary Blackney
+23688_1	is_in_sentence	sentence_23688
+23688_1	nsubj	23688_9
+23688_1	has_surface_form	Blackney
+23688_1	part_of_entity	Gary Blackney
+23688_9	is_in_sentence	sentence_23688
+23688_9	ROOT	23688_9
+23688_9	has_surface_form	is
+23688_2	is_in_sentence	sentence_23688
+23688_2	punct	23688_1
+23688_2	has_surface_form	(
+23688_3	is_in_sentence	sentence_23688
+23688_3	acl	23688_1
+23688_3	has_surface_form	born
+23688_4	is_in_sentence	sentence_23688
+23688_4	npadvmod	23688_3
+23688_4	has_surface_form	December
+23688_5	is_in_sentence	sentence_23688
+23688_5	nummod	23688_4
+23688_5	has_surface_form	12
+23688_6	is_in_sentence	sentence_23688
+23688_6	punct	23688_4
+23688_6	has_surface_form	,
+23688_7	is_in_sentence	sentence_23688
+23688_7	nummod	23688_4
+23688_7	has_surface_form	1944
+23688_8	is_in_sentence	sentence_23688
+23688_8	punct	23688_1
+23688_8	has_surface_form	)
+23688_10	is_in_sentence	sentence_23688
+23688_10	det	23688_15
+23688_10	has_surface_form	an
+23688_15	is_in_sentence	sentence_23688
+23688_15	attr	23688_9
+23688_15	has_surface_form	coach
+23688_15	part_of_entity	college football coach
+23688_11	is_in_sentence	sentence_23688
+23688_11	amod	23688_15
+23688_11	has_surface_form	American
+23688_12	is_in_sentence	sentence_23688
+23688_12	amod	23688_15
+23688_12	has_surface_form	retired
+23688_13	is_in_sentence	sentence_23688
+23688_13	compound	23688_14
+23688_13	has_surface_form	college
+23688_13	part_of_entity	college football coach
+23688_14	is_in_sentence	sentence_23688
+23688_14	compound	23688_15
+23688_14	has_surface_form	football
+23688_14	part_of_entity	college football coach
+23688_16	is_in_sentence	sentence_23688
+23688_16	punct	23688_9
+23688_16	has_surface_form	.
+23688_17	is_in_sentence	sentence_23688
+23688_17	dep	23688_17
+23688_17	has_surface_form	
+Gary Blackney	surface_form	Gary Blackney
+Gary Blackney	has-type	college football coach
+college football coach	surface_form	college football coach

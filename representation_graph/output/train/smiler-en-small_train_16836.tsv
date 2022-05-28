@@ -1,0 +1,59 @@
+16835_0	is_in_sentence	sentence_16835
+16835_0	compound	16835_1
+16835_0	has_surface_form	Helena
+16835_0	part_of_entity	Helena College University of Montana
+16835_1	is_in_sentence	sentence_16835
+16835_1	compound	16835_2
+16835_1	has_surface_form	College
+16835_1	part_of_entity	Helena College University of Montana
+16835_2	is_in_sentence	sentence_16835
+16835_2	nsubj	16835_5
+16835_2	has_surface_form	University
+16835_2	part_of_entity	Helena College University of Montana
+16835_5	is_in_sentence	sentence_16835
+16835_5	ROOT	16835_5
+16835_5	has_surface_form	is
+16835_3	is_in_sentence	sentence_16835
+16835_3	prep	16835_2
+16835_3	has_surface_form	of
+16835_3	part_of_entity	Helena College University of Montana
+16835_4	is_in_sentence	sentence_16835
+16835_4	pobj	16835_3
+16835_4	has_surface_form	Montana
+16835_4	part_of_entity	Helena College University of Montana
+16835_6	is_in_sentence	sentence_16835
+16835_6	det	16835_10
+16835_6	has_surface_form	a
+16835_10	is_in_sentence	sentence_16835
+16835_10	attr	16835_5
+16835_10	has_surface_form	college
+16835_7	is_in_sentence	sentence_16835
+16835_7	nummod	16835_9
+16835_7	has_surface_form	two
+16835_9	is_in_sentence	sentence_16835
+16835_9	compound	16835_10
+16835_9	has_surface_form	year
+16835_8	is_in_sentence	sentence_16835
+16835_8	punct	16835_9
+16835_8	has_surface_form	-
+16835_11	is_in_sentence	sentence_16835
+16835_11	prep	16835_10
+16835_11	has_surface_form	in
+16835_12	is_in_sentence	sentence_16835
+16835_12	pobj	16835_11
+16835_12	has_surface_form	Helena
+16835_13	is_in_sentence	sentence_16835
+16835_13	punct	16835_12
+16835_13	has_surface_form	,
+16835_14	is_in_sentence	sentence_16835
+16835_14	appos	16835_12
+16835_14	has_surface_form	Montana
+16835_15	is_in_sentence	sentence_16835
+16835_15	punct	16835_5
+16835_15	has_surface_form	.
+16835_16	is_in_sentence	sentence_16835
+16835_16	dep	16835_16
+16835_16	has_surface_form	
+Helena College University of Montana	surface_form	Helena College University of Montana
+Helena College University of Montana	is-where	Helena, Montana
+Helena, Montana	surface_form	Helena, Montana

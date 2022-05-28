@@ -1,0 +1,44 @@
+21460_0	is_in_sentence	sentence_21460
+21460_0	compound	21460_1
+21460_0	has_surface_form	Blue
+21460_0	part_of_entity	Blue Jupiter
+21460_1	is_in_sentence	sentence_21460
+21460_1	nsubj	21460_2
+21460_1	has_surface_form	Jupiter
+21460_1	part_of_entity	Blue Jupiter
+21460_2	is_in_sentence	sentence_21460
+21460_2	ROOT	21460_2
+21460_2	has_surface_form	is
+21460_3	is_in_sentence	sentence_21460
+21460_3	det	21460_10
+21460_3	has_surface_form	an
+21460_10	is_in_sentence	sentence_21460
+21460_10	attr	21460_2
+21460_10	has_surface_form	group
+21460_4	is_in_sentence	sentence_21460
+21460_4	det	21460_10
+21460_4	has_surface_form	a
+21460_5	is_in_sentence	sentence_21460
+21460_5	amod	21460_10
+21460_5	has_surface_form	cappella
+21460_6	is_in_sentence	sentence_21460
+21460_6	amod	21460_8
+21460_6	has_surface_form	pop
+21460_8	is_in_sentence	sentence_21460
+21460_8	compound	21460_9
+21460_8	has_surface_form	funk
+21460_7	is_in_sentence	sentence_21460
+21460_7	punct	21460_8
+21460_7	has_surface_form	-
+21460_9	is_in_sentence	sentence_21460
+21460_9	compound	21460_10
+21460_9	has_surface_form	singing
+21460_11	is_in_sentence	sentence_21460
+21460_11	punct	21460_2
+21460_11	has_surface_form	.
+21460_12	is_in_sentence	sentence_21460
+21460_12	dep	21460_12
+21460_12	has_surface_form	
+Blue Jupiter	surface_form	Blue Jupiter
+Blue Jupiter	has-genre	a cappella pop-funk
+a cappella pop-funk	surface_form	a cappella pop-funk

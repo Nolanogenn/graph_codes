@@ -1,0 +1,75 @@
+3816_0	is_in_sentence	sentence_3816
+3816_0	det	3816_3
+3816_0	has_surface_form	The
+3816_0	part_of_entity	The Invincible Masked Rider
+3816_3	is_in_sentence	sentence_3816
+3816_3	nsubj	3816_11
+3816_3	has_surface_form	Rider
+3816_3	part_of_entity	The Invincible Masked Rider
+3816_1	is_in_sentence	sentence_3816
+3816_1	compound	3816_3
+3816_1	has_surface_form	Invincible
+3816_1	part_of_entity	The Invincible Masked Rider
+3816_2	is_in_sentence	sentence_3816
+3816_2	compound	3816_3
+3816_2	has_surface_form	Masked
+3816_2	part_of_entity	The Invincible Masked Rider
+3816_11	is_in_sentence	sentence_3816
+3816_11	ROOT	3816_11
+3816_11	has_surface_form	is
+3816_4	is_in_sentence	sentence_3816
+3816_4	punct	3816_5
+3816_4	has_surface_form	(
+3816_5	is_in_sentence	sentence_3816
+3816_5	appos	3816_3
+3816_5	has_surface_form	Italian
+3816_6	is_in_sentence	sentence_3816
+3816_6	punct	3816_5
+3816_6	has_surface_form	:
+3816_7	is_in_sentence	sentence_3816
+3816_7	amod	3816_9
+3816_7	has_surface_form	L'invincibile
+3816_9	is_in_sentence	sentence_3816
+3816_9	appos	3816_5
+3816_9	has_surface_form	mascherato
+3816_8	is_in_sentence	sentence_3816
+3816_8	compound	3816_9
+3816_8	has_surface_form	cavaliere
+3816_10	is_in_sentence	sentence_3816
+3816_10	punct	3816_5
+3816_10	has_surface_form	)
+3816_12	is_in_sentence	sentence_3816
+3816_12	det	3816_15
+3816_12	has_surface_form	a
+3816_15	is_in_sentence	sentence_3816
+3816_15	attr	3816_11
+3816_15	has_surface_form	film
+3816_13	is_in_sentence	sentence_3816
+3816_13	nummod	3816_15
+3816_13	has_surface_form	1963
+3816_14	is_in_sentence	sentence_3816
+3816_14	compound	3816_15
+3816_14	has_surface_form	adventure
+3816_16	is_in_sentence	sentence_3816
+3816_16	acl	3816_15
+3816_16	has_surface_form	directed
+3816_17	is_in_sentence	sentence_3816
+3816_17	agent	3816_16
+3816_17	has_surface_form	by
+3816_18	is_in_sentence	sentence_3816
+3816_18	compound	3816_19
+3816_18	has_surface_form	Umberto
+3816_18	part_of_entity	Umberto Lenzi
+3816_19	is_in_sentence	sentence_3816
+3816_19	pobj	3816_17
+3816_19	has_surface_form	Lenzi
+3816_19	part_of_entity	Umberto Lenzi
+3816_20	is_in_sentence	sentence_3816
+3816_20	punct	3816_11
+3816_20	has_surface_form	.
+3816_21	is_in_sentence	sentence_3816
+3816_21	dep	3816_21
+3816_21	has_surface_form	
+The Invincible Masked Rider	surface_form	The Invincible Masked Rider
+The Invincible Masked Rider	movie-has-director	Umberto Lenzi
+Umberto Lenzi	surface_form	Umberto Lenzi

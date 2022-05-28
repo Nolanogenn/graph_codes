@@ -1,0 +1,55 @@
+19981_0	is_in_sentence	sentence_19981
+19981_0	compound	19981_1
+19981_0	has_surface_form	Stan
+19981_0	part_of_entity	Stan McGarvey
+19981_1	is_in_sentence	sentence_19981
+19981_1	nsubj	19981_9
+19981_1	has_surface_form	McGarvey
+19981_1	part_of_entity	Stan McGarvey
+19981_9	is_in_sentence	sentence_19981
+19981_9	ROOT	19981_9
+19981_9	has_surface_form	is
+19981_2	is_in_sentence	sentence_19981
+19981_2	punct	19981_1
+19981_2	has_surface_form	(
+19981_3	is_in_sentence	sentence_19981
+19981_3	acl	19981_1
+19981_3	has_surface_form	born
+19981_4	is_in_sentence	sentence_19981
+19981_4	npadvmod	19981_3
+19981_4	has_surface_form	May
+19981_5	is_in_sentence	sentence_19981
+19981_5	nummod	19981_4
+19981_5	has_surface_form	7
+19981_6	is_in_sentence	sentence_19981
+19981_6	punct	19981_4
+19981_6	has_surface_form	,
+19981_7	is_in_sentence	sentence_19981
+19981_7	nummod	19981_4
+19981_7	has_surface_form	1949
+19981_8	is_in_sentence	sentence_19981
+19981_8	punct	19981_1
+19981_8	has_surface_form	)
+19981_10	is_in_sentence	sentence_19981
+19981_10	det	19981_13
+19981_10	has_surface_form	an
+19981_13	is_in_sentence	sentence_19981
+19981_13	attr	19981_9
+19981_13	has_surface_form	coach
+19981_13	part_of_entity	football coach
+19981_11	is_in_sentence	sentence_19981
+19981_11	amod	19981_13
+19981_11	has_surface_form	American
+19981_12	is_in_sentence	sentence_19981
+19981_12	compound	19981_13
+19981_12	has_surface_form	football
+19981_12	part_of_entity	football coach
+19981_14	is_in_sentence	sentence_19981
+19981_14	punct	19981_9
+19981_14	has_surface_form	.
+19981_15	is_in_sentence	sentence_19981
+19981_15	dep	19981_15
+19981_15	has_surface_form	
+Stan McGarvey	surface_form	Stan McGarvey
+Stan McGarvey	has-type	football coach
+football coach	surface_form	football coach

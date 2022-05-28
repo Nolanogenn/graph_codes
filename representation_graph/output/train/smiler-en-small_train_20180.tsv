@@ -1,0 +1,65 @@
+20179_0	is_in_sentence	sentence_20179
+20179_0	compound	20179_1
+20179_0	has_surface_form	Barbara
+20179_0	part_of_entity	Barbara Carr
+20179_1	is_in_sentence	sentence_20179
+20179_1	nsubj	20179_13
+20179_1	has_surface_form	Carr
+20179_1	part_of_entity	Barbara Carr
+20179_13	is_in_sentence	sentence_20179
+20179_13	ROOT	20179_13
+20179_13	has_surface_form	is
+20179_2	is_in_sentence	sentence_20179
+20179_2	punct	20179_3
+20179_2	has_surface_form	(
+20179_3	is_in_sentence	sentence_20179
+20179_3	parataxis	20179_1
+20179_3	has_surface_form	born
+20179_4	is_in_sentence	sentence_20179
+20179_4	compound	20179_6
+20179_4	has_surface_form	Barbara
+20179_6	is_in_sentence	sentence_20179
+20179_6	dobj	20179_3
+20179_6	has_surface_form	Crosby
+20179_5	is_in_sentence	sentence_20179
+20179_5	compound	20179_6
+20179_5	has_surface_form	Jean
+20179_7	is_in_sentence	sentence_20179
+20179_7	punct	20179_6
+20179_7	has_surface_form	,
+20179_8	is_in_sentence	sentence_20179
+20179_8	npadvmod	20179_3
+20179_8	has_surface_form	January
+20179_9	is_in_sentence	sentence_20179
+20179_9	nummod	20179_8
+20179_9	has_surface_form	9
+20179_10	is_in_sentence	sentence_20179
+20179_10	punct	20179_8
+20179_10	has_surface_form	,
+20179_11	is_in_sentence	sentence_20179
+20179_11	nummod	20179_8
+20179_11	has_surface_form	1941
+20179_12	is_in_sentence	sentence_20179
+20179_12	punct	20179_8
+20179_12	has_surface_form	)
+20179_14	is_in_sentence	sentence_20179
+20179_14	det	20179_17
+20179_14	has_surface_form	an
+20179_17	is_in_sentence	sentence_20179
+20179_17	attr	20179_13
+20179_17	has_surface_form	singer
+20179_15	is_in_sentence	sentence_20179
+20179_15	amod	20179_17
+20179_15	has_surface_form	American
+20179_16	is_in_sentence	sentence_20179
+20179_16	compound	20179_17
+20179_16	is_entity	blues
+blues	surface_form	blues
+20179_18	is_in_sentence	sentence_20179
+20179_18	punct	20179_13
+20179_18	has_surface_form	.
+20179_19	is_in_sentence	sentence_20179
+20179_19	dep	20179_19
+20179_19	has_surface_form	
+Barbara Carr	surface_form	Barbara Carr
+Barbara Carr	has-genre	blues

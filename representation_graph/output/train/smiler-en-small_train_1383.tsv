@@ -1,0 +1,45 @@
+1382_0	is_in_sentence	sentence_1382
+1382_0	compound	1382_1
+1382_0	has_surface_form	Johnson
+1382_0	part_of_entity	Johnson University Florida
+1382_1	is_in_sentence	sentence_1382
+1382_1	compound	1382_2
+1382_1	has_surface_form	University
+1382_1	part_of_entity	Johnson University Florida
+1382_2	is_in_sentence	sentence_1382
+1382_2	nsubj	1382_3
+1382_2	has_surface_form	Florida
+1382_2	part_of_entity	Johnson University Florida
+1382_3	is_in_sentence	sentence_1382
+1382_3	ROOT	1382_3
+1382_3	has_surface_form	is
+1382_4	is_in_sentence	sentence_1382
+1382_4	det	1382_6
+1382_4	has_surface_form	a
+1382_6	is_in_sentence	sentence_1382
+1382_6	attr	1382_3
+1382_6	has_surface_form	university
+1382_5	is_in_sentence	sentence_1382
+1382_5	amod	1382_6
+1382_5	has_surface_form	private
+1382_7	is_in_sentence	sentence_1382
+1382_7	prep	1382_6
+1382_7	has_surface_form	in
+1382_8	is_in_sentence	sentence_1382
+1382_8	pobj	1382_7
+1382_8	has_surface_form	Kissimmee
+1382_9	is_in_sentence	sentence_1382
+1382_9	punct	1382_8
+1382_9	has_surface_form	,
+1382_10	is_in_sentence	sentence_1382
+1382_10	appos	1382_8
+1382_10	has_surface_form	Florida
+1382_11	is_in_sentence	sentence_1382
+1382_11	punct	1382_3
+1382_11	has_surface_form	.
+1382_12	is_in_sentence	sentence_1382
+1382_12	dep	1382_12
+1382_12	has_surface_form	
+Johnson University Florida	surface_form	Johnson University Florida
+Johnson University Florida	is-where	Kissimmee, Florida
+Kissimmee, Florida	surface_form	Kissimmee, Florida

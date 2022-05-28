@@ -1,0 +1,50 @@
+29547_0	is_in_sentence	sentence_29547
+29547_0	ROOT	29547_0
+29547_0	has_surface_form	Joseph
+29547_1	is_in_sentence	sentence_29547
+29547_1	cc	29547_0
+29547_1	has_surface_form	and
+29547_2	is_in_sentence	sentence_29547
+29547_2	compound	29547_3
+29547_2	has_surface_form	Ada
+29547_2	part_of_entity	Ada Stotler
+29547_3	is_in_sentence	sentence_29547
+29547_3	conj	29547_0
+29547_3	has_surface_form	Stotler
+29547_3	part_of_entity	Ada Stotler
+29547_4	is_in_sentence	sentence_29547
+29547_4	case	29547_3
+29547_4	has_surface_form	's
+29547_5	is_in_sentence	sentence_29547
+29547_5	conj	29547_0
+29547_5	has_surface_form	daughter
+29547_6	is_in_sentence	sentence_29547
+29547_6	punct	29547_5
+29547_6	has_surface_form	,
+29547_7	is_in_sentence	sentence_29547
+29547_7	appos	29547_5
+29547_7	is_entity	Katherine
+Katherine	surface_form	Katherine
+29547_8	is_in_sentence	sentence_29547
+29547_8	punct	29547_5
+29547_8	has_surface_form	,
+29547_9	is_in_sentence	sentence_29547
+29547_9	amod	29547_10
+29547_9	has_surface_form	married
+29547_10	is_in_sentence	sentence_29547
+29547_10	compound	29547_12
+29547_10	has_surface_form	jockey
+29547_12	is_in_sentence	sentence_29547
+29547_12	appos	29547_5
+29547_12	has_surface_form	Bejshak
+29547_11	is_in_sentence	sentence_29547
+29547_11	compound	29547_12
+29547_11	has_surface_form	John
+29547_13	is_in_sentence	sentence_29547
+29547_13	punct	29547_0
+29547_13	has_surface_form	.
+29547_14	is_in_sentence	sentence_29547
+29547_14	dep	29547_14
+29547_14	has_surface_form	
+Ada Stotler	surface_form	Ada Stotler
+Ada Stotler	has-child	Katherine

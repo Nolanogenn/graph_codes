@@ -1,0 +1,65 @@
+20189_0	is_in_sentence	sentence_20189
+20189_0	det	20189_1
+20189_0	has_surface_form	This
+20189_1	is_in_sentence	sentence_20189
+20189_1	nsubj	20189_2
+20189_1	has_surface_form	area
+20189_2	is_in_sentence	sentence_20189
+20189_2	ROOT	20189_2
+20189_2	has_surface_form	includes
+20189_3	is_in_sentence	sentence_20189
+20189_3	compound	20189_4
+20189_3	has_surface_form	Sri
+20189_3	part_of_entity	Sri Lanka
+20189_4	is_in_sentence	sentence_20189
+20189_4	poss	20189_7
+20189_4	has_surface_form	Lanka
+20189_4	part_of_entity	Sri Lanka
+20189_7	is_in_sentence	sentence_20189
+20189_7	dobj	20189_2
+20189_7	has_surface_form	mountains
+20189_5	is_in_sentence	sentence_20189
+20189_5	case	20189_4
+20189_5	has_surface_form	's
+20189_6	is_in_sentence	sentence_20189
+20189_6	amod	20189_7
+20189_6	has_surface_form	highest
+20189_8	is_in_sentence	sentence_20189
+20189_8	punct	20189_2
+20189_8	has_surface_form	.
+20189_9	is_in_sentence	sentence_20189
+20189_9	punct	20189_11
+20189_9	has_surface_form	(
+20189_11	is_in_sentence	sentence_20189
+20189_11	ROOT	20189_11
+20189_11	has_surface_form	is
+20189_10	is_in_sentence	sentence_20189
+20189_10	nsubj	20189_11
+20189_10	is_entity	Pidurutalagala
+Pidurutalagala	surface_form	Pidurutalagala
+20189_12	is_in_sentence	sentence_20189
+20189_12	det	20189_13
+20189_12	has_surface_form	the
+20189_13	is_in_sentence	sentence_20189
+20189_13	attr	20189_11
+20189_13	has_surface_form	highest
+20189_14	is_in_sentence	sentence_20189
+20189_14	prep	20189_13
+20189_14	has_surface_form	at
+20189_15	is_in_sentence	sentence_20189
+20189_15	nummod	20189_16
+20189_15	has_surface_form	2,524
+20189_16	is_in_sentence	sentence_20189
+20189_16	pobj	20189_14
+20189_16	has_surface_form	m
+20189_17	is_in_sentence	sentence_20189
+20189_17	punct	20189_11
+20189_17	has_surface_form	)
+20189_18	is_in_sentence	sentence_20189
+20189_18	punct	20189_11
+20189_18	has_surface_form	.
+20189_19	is_in_sentence	sentence_20189
+20189_19	dep	20189_19
+20189_19	has_surface_form	
+Sri Lanka	surface_form	Sri Lanka
+Sri Lanka	has-highest-mountain	Pidurutalagala

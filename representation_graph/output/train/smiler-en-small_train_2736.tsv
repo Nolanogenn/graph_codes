@@ -1,0 +1,90 @@
+2735_0	is_in_sentence	sentence_2735
+2735_0	det	2735_1
+2735_0	has_surface_form	The
+2735_0	part_of_entity	The Marines Fly High
+2735_1	is_in_sentence	sentence_2735
+2735_1	compound	2735_3
+2735_1	has_surface_form	Marines
+2735_1	part_of_entity	The Marines Fly High
+2735_3	is_in_sentence	sentence_2735
+2735_3	nsubj	2735_4
+2735_3	has_surface_form	High
+2735_3	part_of_entity	The Marines Fly High
+2735_2	is_in_sentence	sentence_2735
+2735_2	compound	2735_3
+2735_2	has_surface_form	Fly
+2735_2	part_of_entity	The Marines Fly High
+2735_4	is_in_sentence	sentence_2735
+2735_4	ROOT	2735_4
+2735_4	has_surface_form	is
+2735_5	is_in_sentence	sentence_2735
+2735_5	det	2735_8
+2735_5	has_surface_form	a
+2735_8	is_in_sentence	sentence_2735
+2735_8	attr	2735_4
+2735_8	has_surface_form	film
+2735_6	is_in_sentence	sentence_2735
+2735_6	nummod	2735_8
+2735_6	has_surface_form	1940
+2735_7	is_in_sentence	sentence_2735
+2735_7	compound	2735_8
+2735_7	has_surface_form	action
+2735_9	is_in_sentence	sentence_2735
+2735_9	punct	2735_4
+2735_9	has_surface_form	,
+2735_10	is_in_sentence	sentence_2735
+2735_10	advcl	2735_4
+2735_10	has_surface_form	starring
+2735_11	is_in_sentence	sentence_2735
+2735_11	compound	2735_12
+2735_11	has_surface_form	Richard
+2735_11	part_of_entity	Richard Dix
+2735_12	is_in_sentence	sentence_2735
+2735_12	dobj	2735_10
+2735_12	has_surface_form	Dix
+2735_12	part_of_entity	Richard Dix
+2735_13	is_in_sentence	sentence_2735
+2735_13	punct	2735_12
+2735_13	has_surface_form	,
+2735_14	is_in_sentence	sentence_2735
+2735_14	compound	2735_15
+2735_14	has_surface_form	Chester
+2735_15	is_in_sentence	sentence_2735
+2735_15	conj	2735_12
+2735_15	has_surface_form	Morris
+2735_16	is_in_sentence	sentence_2735
+2735_16	cc	2735_15
+2735_16	has_surface_form	and
+2735_17	is_in_sentence	sentence_2735
+2735_17	compound	2735_18
+2735_17	has_surface_form	Lucille
+2735_18	is_in_sentence	sentence_2735
+2735_18	conj	2735_15
+2735_18	has_surface_form	Ball
+2735_19	is_in_sentence	sentence_2735
+2735_19	cc	2735_10
+2735_19	has_surface_form	and
+2735_20	is_in_sentence	sentence_2735
+2735_20	conj	2735_10
+2735_20	has_surface_form	directed
+2735_21	is_in_sentence	sentence_2735
+2735_21	agent	2735_20
+2735_21	has_surface_form	by
+2735_22	is_in_sentence	sentence_2735
+2735_22	compound	2735_23
+2735_22	has_surface_form	George
+2735_23	is_in_sentence	sentence_2735
+2735_23	pobj	2735_21
+2735_23	has_surface_form	Nicholls
+2735_24	is_in_sentence	sentence_2735
+2735_24	punct	2735_23
+2735_24	has_surface_form	,
+2735_25	is_in_sentence	sentence_2735
+2735_25	appos	2735_23
+2735_25	has_surface_form	Jr.
+2735_26	is_in_sentence	sentence_2735
+2735_26	dep	2735_23
+2735_26	has_surface_form	
+The Marines Fly High	surface_form	The Marines Fly High
+The Marines Fly High	starring	Richard Dix
+Richard Dix	surface_form	Richard Dix

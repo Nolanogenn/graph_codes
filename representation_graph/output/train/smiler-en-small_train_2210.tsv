@@ -1,0 +1,56 @@
+2209_0	is_in_sentence	sentence_2209
+2209_0	poss	2209_2
+2209_0	is_entity	Abrams
+2209_2	is_in_sentence	sentence_2209
+2209_2	nsubj	2209_7
+2209_2	has_surface_form	son
+Abrams	surface_form	Abrams
+Abrams	has-child	Richard Jr.
+2209_1	is_in_sentence	sentence_2209
+2209_1	case	2209_0
+2209_1	has_surface_form	's
+2209_7	is_in_sentence	sentence_2209
+2209_7	ROOT	2209_7
+2209_7	has_surface_form	was
+2209_3	is_in_sentence	sentence_2209
+2209_3	punct	2209_2
+2209_3	has_surface_form	,
+2209_4	is_in_sentence	sentence_2209
+2209_4	compound	2209_5
+2209_4	has_surface_form	Richard
+2209_4	part_of_entity	Richard Jr.
+2209_5	is_in_sentence	sentence_2209
+2209_5	appos	2209_2
+2209_5	has_surface_form	Jr.
+2209_5	part_of_entity	Richard Jr.
+2209_6	is_in_sentence	sentence_2209
+2209_6	punct	2209_2
+2209_6	has_surface_form	,
+2209_8	is_in_sentence	sentence_2209
+2209_8	prep	2209_7
+2209_8	has_surface_form	at
+2209_9	is_in_sentence	sentence_2209
+2209_9	amod	2209_10
+2209_9	has_surface_form	high
+2209_10	is_in_sentence	sentence_2209
+2209_10	pobj	2209_8
+2209_10	has_surface_form	school
+2209_11	is_in_sentence	sentence_2209
+2209_11	prep	2209_7
+2209_11	has_surface_form	in
+2209_12	is_in_sentence	sentence_2209
+2209_12	det	2209_14
+2209_12	has_surface_form	the
+2209_14	is_in_sentence	sentence_2209
+2209_14	pobj	2209_11
+2209_14	has_surface_form	1960s
+2209_13	is_in_sentence	sentence_2209
+2209_13	amod	2209_14
+2209_13	has_surface_form	early
+2209_15	is_in_sentence	sentence_2209
+2209_15	punct	2209_7
+2209_15	has_surface_form	.
+2209_16	is_in_sentence	sentence_2209
+2209_16	dep	2209_16
+2209_16	has_surface_form	
+Richard Jr.	surface_form	Richard Jr.

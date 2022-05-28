@@ -1,0 +1,91 @@
+24611_0	is_in_sentence	sentence_24611
+24611_0	det	24611_2
+24611_0	has_surface_form	The
+24611_2	is_in_sentence	sentence_24611
+24611_2	nsubj	24611_13
+24611_2	has_surface_form	person
+24611_1	is_in_sentence	sentence_24611
+24611_1	amod	24611_2
+24611_1	has_surface_form	first
+24611_13	is_in_sentence	sentence_24611
+24611_13	ROOT	24611_13
+24611_13	has_surface_form	was
+24611_3	is_in_sentence	sentence_24611
+24611_3	aux	24611_4
+24611_3	has_surface_form	to
+24611_4	is_in_sentence	sentence_24611
+24611_4	relcl	24611_2
+24611_4	has_surface_form	receive
+24611_5	is_in_sentence	sentence_24611
+24611_5	det	24611_6
+24611_5	has_surface_form	a
+24611_6	is_in_sentence	sentence_24611
+24611_6	dobj	24611_4
+24611_6	has_surface_form	patent
+24611_7	is_in_sentence	sentence_24611
+24611_7	prep	24611_6
+24611_7	has_surface_form	for
+24611_8	is_in_sentence	sentence_24611
+24611_8	det	24611_9
+24611_8	has_surface_form	a
+24611_9	is_in_sentence	sentence_24611
+24611_9	pobj	24611_7
+24611_9	has_surface_form	razor
+24611_9	part_of_entity	razor powered by electricity
+24611_10	is_in_sentence	sentence_24611
+24611_10	acl	24611_9
+24611_10	has_surface_form	powered
+24611_10	part_of_entity	razor powered by electricity
+24611_11	is_in_sentence	sentence_24611
+24611_11	agent	24611_10
+24611_11	has_surface_form	by
+24611_11	part_of_entity	razor powered by electricity
+24611_12	is_in_sentence	sentence_24611
+24611_12	pobj	24611_11
+24611_12	has_surface_form	electricity
+24611_12	part_of_entity	razor powered by electricity
+24611_14	is_in_sentence	sentence_24611
+24611_14	compound	24611_16
+24611_14	has_surface_form	John
+24611_14	part_of_entity	John F. O'Rouke
+24611_16	is_in_sentence	sentence_24611
+24611_16	attr	24611_13
+24611_16	has_surface_form	O'Rouke
+24611_16	part_of_entity	John F. O'Rouke
+24611_15	is_in_sentence	sentence_24611
+24611_15	compound	24611_16
+24611_15	has_surface_form	F.
+24611_15	part_of_entity	John F. O'Rouke
+24611_17	is_in_sentence	sentence_24611
+24611_17	prep	24611_13
+24611_17	has_surface_form	with
+24611_18	is_in_sentence	sentence_24611
+24611_18	poss	24611_20
+24611_18	has_surface_form	his
+24611_20	is_in_sentence	sentence_24611
+24611_20	pobj	24611_17
+24611_20	has_surface_form	patent
+24611_19	is_in_sentence	sentence_24611
+24611_19	compound	24611_20
+24611_19	has_surface_form	US
+24611_21	is_in_sentence	sentence_24611
+24611_21	nummod	24611_20
+24611_21	has_surface_form	616554
+24611_22	is_in_sentence	sentence_24611
+24611_22	acl	24611_20
+24611_22	has_surface_form	filed
+24611_23	is_in_sentence	sentence_24611
+24611_23	prep	24611_22
+24611_23	has_surface_form	in
+24611_24	is_in_sentence	sentence_24611
+24611_24	pobj	24611_23
+24611_24	has_surface_form	1898
+24611_25	is_in_sentence	sentence_24611
+24611_25	punct	24611_13
+24611_25	has_surface_form	.
+24611_26	is_in_sentence	sentence_24611
+24611_26	dep	24611_26
+24611_26	has_surface_form	
+razor powered by electricity	surface_form	razor powered by electricity
+razor powered by electricity	invented-by	John F. O'Rouke
+John F. O'Rouke	surface_form	John F. O'Rouke

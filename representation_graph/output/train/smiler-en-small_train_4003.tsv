@@ -1,0 +1,67 @@
+4002_0	is_in_sentence	sentence_4002
+4002_0	compound	4002_1
+4002_0	has_surface_form	New
+4002_0	part_of_entity	New Friendship
+4002_1	is_in_sentence	sentence_4002
+4002_1	nsubj	4002_8
+4002_1	has_surface_form	Friendship
+4002_1	part_of_entity	New Friendship
+4002_8	is_in_sentence	sentence_4002
+4002_8	ROOT	4002_8
+4002_8	has_surface_form	is
+4002_2	is_in_sentence	sentence_4002
+4002_2	punct	4002_1
+4002_2	has_surface_form	(
+4002_3	is_in_sentence	sentence_4002
+4002_3	appos	4002_1
+4002_3	has_surface_form	Spanish
+4002_4	is_in_sentence	sentence_4002
+4002_4	punct	4002_3
+4002_4	has_surface_form	:
+4002_5	is_in_sentence	sentence_4002
+4002_5	compound	4002_6
+4002_5	has_surface_form	Nuevas
+4002_6	is_in_sentence	sentence_4002
+4002_6	appos	4002_3
+4002_6	has_surface_form	amistades
+4002_7	is_in_sentence	sentence_4002
+4002_7	punct	4002_3
+4002_7	has_surface_form	)
+4002_9	is_in_sentence	sentence_4002
+4002_9	det	4002_13
+4002_9	has_surface_form	a
+4002_13	is_in_sentence	sentence_4002
+4002_13	attr	4002_8
+4002_13	has_surface_form	film
+4002_10	is_in_sentence	sentence_4002
+4002_10	nummod	4002_13
+4002_10	has_surface_form	1963
+4002_11	is_in_sentence	sentence_4002
+4002_11	amod	4002_13
+4002_11	has_surface_form	Spanish
+4002_12	is_in_sentence	sentence_4002
+4002_12	compound	4002_13
+4002_12	has_surface_form	drama
+4002_14	is_in_sentence	sentence_4002
+4002_14	acl	4002_13
+4002_14	has_surface_form	directed
+4002_15	is_in_sentence	sentence_4002
+4002_15	agent	4002_14
+4002_15	has_surface_form	by
+4002_16	is_in_sentence	sentence_4002
+4002_16	compound	4002_17
+4002_16	has_surface_form	Ramón
+4002_16	part_of_entity	Ramón Comas
+4002_17	is_in_sentence	sentence_4002
+4002_17	pobj	4002_15
+4002_17	has_surface_form	Comas
+4002_17	part_of_entity	Ramón Comas
+4002_18	is_in_sentence	sentence_4002
+4002_18	punct	4002_8
+4002_18	has_surface_form	.
+4002_19	is_in_sentence	sentence_4002
+4002_19	dep	4002_19
+4002_19	has_surface_form	
+New Friendship	surface_form	New Friendship
+New Friendship	movie-has-director	Ramón Comas
+Ramón Comas	surface_form	Ramón Comas

@@ -1,0 +1,85 @@
+6402_0	is_in_sentence	sentence_6402
+6402_0	compound	6402_1
+6402_0	has_surface_form	Dover
+6402_0	part_of_entity	Dover Area High School
+6402_1	is_in_sentence	sentence_6402
+6402_1	compound	6402_3
+6402_1	has_surface_form	Area
+6402_1	part_of_entity	Dover Area High School
+6402_3	is_in_sentence	sentence_6402
+6402_3	nsubj	6402_4
+6402_3	has_surface_form	School
+6402_3	part_of_entity	Dover Area High School
+6402_2	is_in_sentence	sentence_6402
+6402_2	compound	6402_3
+6402_2	has_surface_form	High
+6402_2	part_of_entity	Dover Area High School
+6402_4	is_in_sentence	sentence_6402
+6402_4	ROOT	6402_4
+6402_4	has_surface_form	is
+6402_5	is_in_sentence	sentence_6402
+6402_5	det	6402_11
+6402_5	has_surface_form	a
+6402_11	is_in_sentence	sentence_6402
+6402_11	attr	6402_4
+6402_11	has_surface_form	school
+6402_6	is_in_sentence	sentence_6402
+6402_6	amod	6402_11
+6402_6	has_surface_form	midsized
+6402_7	is_in_sentence	sentence_6402
+6402_7	punct	6402_11
+6402_7	has_surface_form	,
+6402_8	is_in_sentence	sentence_6402
+6402_8	amod	6402_11
+6402_8	has_surface_form	suburban
+6402_9	is_in_sentence	sentence_6402
+6402_9	amod	6402_11
+6402_9	has_surface_form	public
+6402_10	is_in_sentence	sentence_6402
+6402_10	amod	6402_11
+6402_10	has_surface_form	high
+6402_12	is_in_sentence	sentence_6402
+6402_12	acl	6402_11
+6402_12	has_surface_form	located
+6402_13	is_in_sentence	sentence_6402
+6402_13	prep	6402_12
+6402_13	has_surface_form	at
+6402_14	is_in_sentence	sentence_6402
+6402_14	nummod	6402_17
+6402_14	has_surface_form	46
+6402_14	part_of_entity	46 West Canal Street in Dover
+6402_17	is_in_sentence	sentence_6402
+6402_17	pobj	6402_13
+6402_17	has_surface_form	Street
+6402_17	part_of_entity	46 West Canal Street in Dover
+6402_15	is_in_sentence	sentence_6402
+6402_15	compound	6402_17
+6402_15	has_surface_form	West
+6402_15	part_of_entity	46 West Canal Street in Dover
+6402_16	is_in_sentence	sentence_6402
+6402_16	compound	6402_17
+6402_16	has_surface_form	Canal
+6402_16	part_of_entity	46 West Canal Street in Dover
+6402_18	is_in_sentence	sentence_6402
+6402_18	prep	6402_17
+6402_18	has_surface_form	in
+6402_18	part_of_entity	46 West Canal Street in Dover
+6402_19	is_in_sentence	sentence_6402
+6402_19	pobj	6402_18
+6402_19	has_surface_form	Dover
+6402_19	part_of_entity	46 West Canal Street in Dover
+6402_20	is_in_sentence	sentence_6402
+6402_20	punct	6402_19
+6402_20	has_surface_form	,
+6402_21	is_in_sentence	sentence_6402
+6402_21	appos	6402_19
+6402_21	has_surface_form	Pennsylvania
+6402_22	is_in_sentence	sentence_6402
+6402_22	punct	6402_4
+6402_22	has_surface_form	.
+6402_23	is_in_sentence	sentence_6402
+6402_23	dep	6402_4
+6402_23	has_surface_form	
+Dover Area High School	surface_form	Dover Area High School
+Dover Area High School	is-where	46 West Canal Street in Dover
+46 West Canal Street in Dover	surface_form	46 West Canal Street in Dover

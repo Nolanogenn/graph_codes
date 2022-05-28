@@ -1,0 +1,47 @@
+1845_0	is_in_sentence	sentence_1845
+1845_0	compound	1845_1
+1845_0	has_surface_form	Stojan
+1845_0	part_of_entity	Stojan Matavulj
+1845_1	is_in_sentence	sentence_1845
+1845_1	nsubj	1845_8
+1845_1	has_surface_form	Matavulj
+1845_1	part_of_entity	Stojan Matavulj
+1845_8	is_in_sentence	sentence_1845
+1845_8	ROOT	1845_8
+1845_8	has_surface_form	is
+1845_2	is_in_sentence	sentence_1845
+1845_2	punct	1845_1
+1845_2	has_surface_form	(
+1845_3	is_in_sentence	sentence_1845
+1845_3	acl	1845_1
+1845_3	has_surface_form	born
+1845_4	is_in_sentence	sentence_1845
+1845_4	nummod	1845_5
+1845_4	has_surface_form	24
+1845_5	is_in_sentence	sentence_1845
+1845_5	npadvmod	1845_3
+1845_5	has_surface_form	February
+1845_6	is_in_sentence	sentence_1845
+1845_6	nummod	1845_5
+1845_6	has_surface_form	1961
+1845_7	is_in_sentence	sentence_1845
+1845_7	punct	1845_1
+1845_7	has_surface_form	)
+1845_9	is_in_sentence	sentence_1845
+1845_9	det	1845_11
+1845_9	has_surface_form	a
+1845_11	is_in_sentence	sentence_1845
+1845_11	attr	1845_8
+1845_11	is_entity	actor
+1845_10	is_in_sentence	sentence_1845
+1845_10	amod	1845_11
+1845_10	has_surface_form	Croatian
+actor	surface_form	actor
+1845_12	is_in_sentence	sentence_1845
+1845_12	punct	1845_8
+1845_12	has_surface_form	.
+1845_13	is_in_sentence	sentence_1845
+1845_13	dep	1845_13
+1845_13	has_surface_form	
+Stojan Matavulj	surface_form	Stojan Matavulj
+Stojan Matavulj	has-occupation	actor

@@ -1,0 +1,85 @@
+19877_0	is_in_sentence	sentence_19877
+19877_0	det	19877_4
+19877_0	has_surface_form	The
+19877_0	part_of_entity	The New York State Department of Health
+19877_4	is_in_sentence	sentence_19877
+19877_4	nsubj	19877_10
+19877_4	has_surface_form	Department
+19877_4	part_of_entity	The New York State Department of Health
+19877_1	is_in_sentence	sentence_19877
+19877_1	compound	19877_2
+19877_1	has_surface_form	New
+19877_1	part_of_entity	The New York State Department of Health
+19877_2	is_in_sentence	sentence_19877
+19877_2	compound	19877_4
+19877_2	has_surface_form	York
+19877_2	part_of_entity	The New York State Department of Health
+19877_3	is_in_sentence	sentence_19877
+19877_3	compound	19877_4
+19877_3	has_surface_form	State
+19877_3	part_of_entity	The New York State Department of Health
+19877_10	is_in_sentence	sentence_19877
+19877_10	ROOT	19877_10
+19877_10	has_surface_form	is
+19877_5	is_in_sentence	sentence_19877
+19877_5	prep	19877_4
+19877_5	has_surface_form	of
+19877_5	part_of_entity	The New York State Department of Health
+19877_6	is_in_sentence	sentence_19877
+19877_6	pobj	19877_5
+19877_6	has_surface_form	Health
+19877_6	part_of_entity	The New York State Department of Health
+19877_7	is_in_sentence	sentence_19877
+19877_7	punct	19877_4
+19877_7	has_surface_form	(
+19877_8	is_in_sentence	sentence_19877
+19877_8	appos	19877_4
+19877_8	has_surface_form	NYSDOH
+19877_9	is_in_sentence	sentence_19877
+19877_9	punct	19877_4
+19877_9	has_surface_form	)
+19877_11	is_in_sentence	sentence_19877
+19877_11	det	19877_12
+19877_11	has_surface_form	the
+19877_12	is_in_sentence	sentence_19877
+19877_12	attr	19877_10
+19877_12	is_entity	department
+department	surface_form	department
+19877_13	is_in_sentence	sentence_19877
+19877_13	prep	19877_12
+19877_13	has_surface_form	of
+19877_14	is_in_sentence	sentence_19877
+19877_14	det	19877_18
+19877_14	has_surface_form	the
+19877_18	is_in_sentence	sentence_19877
+19877_18	pobj	19877_13
+19877_18	has_surface_form	government
+19877_15	is_in_sentence	sentence_19877
+19877_15	compound	19877_16
+19877_15	has_surface_form	New
+19877_16	is_in_sentence	sentence_19877
+19877_16	compound	19877_18
+19877_16	has_surface_form	York
+19877_17	is_in_sentence	sentence_19877
+19877_17	compound	19877_18
+19877_17	has_surface_form	state
+19877_19	is_in_sentence	sentence_19877
+19877_19	amod	19877_12
+19877_19	has_surface_form	responsible
+19877_20	is_in_sentence	sentence_19877
+19877_20	prep	19877_19
+19877_20	has_surface_form	for
+19877_21	is_in_sentence	sentence_19877
+19877_21	amod	19877_22
+19877_21	has_surface_form	public
+19877_22	is_in_sentence	sentence_19877
+19877_22	pobj	19877_20
+19877_22	has_surface_form	health
+19877_23	is_in_sentence	sentence_19877
+19877_23	punct	19877_10
+19877_23	has_surface_form	.
+19877_24	is_in_sentence	sentence_19877
+19877_24	dep	19877_24
+19877_24	has_surface_form	
+The New York State Department of Health	surface_form	The New York State Department of Health
+The New York State Department of Health	has-type	department

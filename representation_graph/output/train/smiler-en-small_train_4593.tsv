@@ -1,0 +1,74 @@
+4592_0	is_in_sentence	sentence_4592
+4592_0	poss	4592_2
+4592_0	has_surface_form	Nina
+4592_2	is_in_sentence	sentence_4592
+4592_2	nsubj	4592_11
+4592_2	has_surface_form	House
+4592_1	is_in_sentence	sentence_4592
+4592_1	case	4592_0
+4592_1	has_surface_form	's
+4592_11	is_in_sentence	sentence_4592
+4592_11	ROOT	4592_11
+4592_11	has_surface_form	is
+4592_3	is_in_sentence	sentence_4592
+4592_3	punct	4592_4
+4592_3	has_surface_form	(
+4592_4	is_in_sentence	sentence_4592
+4592_4	appos	4592_2
+4592_4	has_surface_form	French
+4592_5	is_in_sentence	sentence_4592
+4592_5	punct	4592_4
+4592_5	has_surface_form	:
+4592_6	is_in_sentence	sentence_4592
+4592_6	compound	4592_9
+4592_6	has_surface_form	La
+4592_9	is_in_sentence	sentence_4592
+4592_9	appos	4592_4
+4592_9	has_surface_form	Nina
+4592_7	is_in_sentence	sentence_4592
+4592_7	nmod	4592_9
+4592_7	has_surface_form	Maison
+4592_8	is_in_sentence	sentence_4592
+4592_8	nmod	4592_9
+4592_8	has_surface_form	de
+4592_10	is_in_sentence	sentence_4592
+4592_10	punct	4592_4
+4592_10	has_surface_form	)
+4592_12	is_in_sentence	sentence_4592
+4592_12	det	4592_16
+4592_12	has_surface_form	a
+4592_16	is_in_sentence	sentence_4592
+4592_16	attr	4592_11
+4592_16	has_surface_form	film
+4592_13	is_in_sentence	sentence_4592
+4592_13	nummod	4592_16
+4592_13	has_surface_form	2005
+4592_14	is_in_sentence	sentence_4592
+4592_14	amod	4592_16
+4592_14	has_surface_form	French
+4592_15	is_in_sentence	sentence_4592
+4592_15	compound	4592_16
+4592_15	has_surface_form	drama
+4592_17	is_in_sentence	sentence_4592
+4592_17	acl	4592_16
+4592_17	has_surface_form	directed
+4592_18	is_in_sentence	sentence_4592
+4592_18	agent	4592_17
+4592_18	has_surface_form	by
+4592_19	is_in_sentence	sentence_4592
+4592_19	compound	4592_20
+4592_19	has_surface_form	Richard
+4592_19	part_of_entity	Richard Dembo
+4592_20	is_in_sentence	sentence_4592
+4592_20	pobj	4592_18
+4592_20	has_surface_form	Dembo
+4592_20	part_of_entity	Richard Dembo
+4592_21	is_in_sentence	sentence_4592
+4592_21	punct	4592_11
+4592_21	has_surface_form	.
+4592_22	is_in_sentence	sentence_4592
+4592_22	dep	4592_11
+4592_22	has_surface_form	
+Nina's House	surface_form	Nina's House
+Nina's House	movie-has-director	Richard Dembo
+Richard Dembo	surface_form	Richard Dembo

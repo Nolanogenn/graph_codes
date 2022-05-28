@@ -1,0 +1,73 @@
+32588_0	is_in_sentence	sentence_32588
+32588_0	det	32588_1
+32588_0	has_surface_form	A
+32588_0	part_of_entity	A Night in the Woods
+32588_1	is_in_sentence	sentence_32588
+32588_1	nsubj	32588_5
+32588_1	has_surface_form	Night
+32588_1	part_of_entity	A Night in the Woods
+32588_5	is_in_sentence	sentence_32588
+32588_5	ccomp	32588_9
+32588_5	has_surface_form	is
+32588_2	is_in_sentence	sentence_32588
+32588_2	prep	32588_1
+32588_2	has_surface_form	in
+32588_2	part_of_entity	A Night in the Woods
+32588_3	is_in_sentence	sentence_32588
+32588_3	det	32588_4
+32588_3	has_surface_form	the
+32588_3	part_of_entity	A Night in the Woods
+32588_4	is_in_sentence	sentence_32588
+32588_4	pobj	32588_2
+32588_4	has_surface_form	Woods
+32588_4	part_of_entity	A Night in the Woods
+32588_9	is_in_sentence	sentence_32588
+32588_9	ROOT	32588_9
+32588_9	has_surface_form	found
+32588_6	is_in_sentence	sentence_32588
+32588_6	det	32588_8
+32588_6	has_surface_form	a
+32588_8	is_in_sentence	sentence_32588
+32588_8	nsubj	32588_9
+32588_8	has_surface_form	British
+32588_7	is_in_sentence	sentence_32588
+32588_7	nummod	32588_8
+32588_7	has_surface_form	2012
+32588_10	is_in_sentence	sentence_32588
+32588_10	compound	32588_11
+32588_10	has_surface_form	footage
+32588_11	is_in_sentence	sentence_32588
+32588_11	compound	32588_12
+32588_11	has_surface_form	horror
+32588_12	is_in_sentence	sentence_32588
+32588_12	dobj	32588_9
+32588_12	has_surface_form	film
+32588_13	is_in_sentence	sentence_32588
+32588_13	acl	32588_12
+32588_13	has_surface_form	written
+32588_14	is_in_sentence	sentence_32588
+32588_14	cc	32588_13
+32588_14	has_surface_form	and
+32588_15	is_in_sentence	sentence_32588
+32588_15	conj	32588_13
+32588_15	has_surface_form	directed
+32588_16	is_in_sentence	sentence_32588
+32588_16	agent	32588_15
+32588_16	has_surface_form	by
+32588_17	is_in_sentence	sentence_32588
+32588_17	compound	32588_18
+32588_17	has_surface_form	Richard
+32588_17	part_of_entity	Richard Parry
+32588_18	is_in_sentence	sentence_32588
+32588_18	pobj	32588_16
+32588_18	has_surface_form	Parry
+32588_18	part_of_entity	Richard Parry
+32588_19	is_in_sentence	sentence_32588
+32588_19	punct	32588_9
+32588_19	has_surface_form	.
+32588_20	is_in_sentence	sentence_32588
+32588_20	dep	32588_20
+32588_20	has_surface_form	
+A Night in the Woods	surface_form	A Night in the Woods
+A Night in the Woods	movie-has-director	Richard Parry
+Richard Parry	surface_form	Richard Parry

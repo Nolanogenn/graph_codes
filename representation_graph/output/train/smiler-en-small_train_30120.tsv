@@ -1,0 +1,86 @@
+30119_0	is_in_sentence	sentence_30119
+30119_0	compound	30119_1
+30119_0	has_surface_form	Adriano
+30119_0	part_of_entity	Adriano Francisco
+30119_1	is_in_sentence	sentence_30119
+30119_1	nsubj	30119_9
+30119_1	has_surface_form	Francisco
+30119_1	part_of_entity	Adriano Francisco
+30119_9	is_in_sentence	sentence_30119
+30119_9	ROOT	30119_9
+30119_9	has_surface_form	is
+30119_2	is_in_sentence	sentence_30119
+30119_2	punct	30119_1
+30119_2	has_surface_form	(
+30119_3	is_in_sentence	sentence_30119
+30119_3	acl	30119_1
+30119_3	has_surface_form	born
+30119_4	is_in_sentence	sentence_30119
+30119_4	npadvmod	30119_3
+30119_4	has_surface_form	April
+30119_5	is_in_sentence	sentence_30119
+30119_5	nummod	30119_4
+30119_5	has_surface_form	12
+30119_6	is_in_sentence	sentence_30119
+30119_6	punct	30119_4
+30119_6	has_surface_form	,
+30119_7	is_in_sentence	sentence_30119
+30119_7	nummod	30119_4
+30119_7	has_surface_form	1988
+30119_8	is_in_sentence	sentence_30119
+30119_8	punct	30119_1
+30119_8	has_surface_form	)
+30119_10	is_in_sentence	sentence_30119
+30119_10	det	30119_12
+30119_10	has_surface_form	n
+30119_12	is_in_sentence	sentence_30119
+30119_12	attr	30119_9
+30119_12	has_surface_form	footballer
+30119_11	is_in_sentence	sentence_30119
+30119_11	amod	30119_12
+30119_11	has_surface_form	Brazilian
+30119_13	is_in_sentence	sentence_30119
+30119_13	nsubj	30119_14
+30119_13	has_surface_form	who
+30119_14	is_in_sentence	sentence_30119
+30119_14	relcl	30119_12
+30119_14	has_surface_form	plays
+30119_15	is_in_sentence	sentence_30119
+30119_15	prep	30119_14
+30119_15	has_surface_form	for
+30119_16	is_in_sentence	sentence_30119
+30119_16	compound	30119_17
+30119_16	has_surface_form	Puerto
+30119_16	part_of_entity	Puerto Rico United
+30119_17	is_in_sentence	sentence_30119
+30119_17	compound	30119_18
+30119_17	has_surface_form	Rico
+30119_17	part_of_entity	Puerto Rico United
+30119_18	is_in_sentence	sentence_30119
+30119_18	pobj	30119_15
+30119_18	has_surface_form	United
+30119_18	part_of_entity	Puerto Rico United
+30119_19	is_in_sentence	sentence_30119
+30119_19	prep	30119_18
+30119_19	has_surface_form	in
+30119_20	is_in_sentence	sentence_30119
+30119_20	det	30119_23
+30119_20	has_surface_form	the
+30119_23	is_in_sentence	sentence_30119
+30119_23	pobj	30119_19
+30119_23	has_surface_form	Division
+30119_21	is_in_sentence	sentence_30119
+30119_21	compound	30119_23
+30119_21	has_surface_form	USL
+30119_22	is_in_sentence	sentence_30119
+30119_22	compound	30119_23
+30119_22	has_surface_form	Professional
+30119_24	is_in_sentence	sentence_30119
+30119_24	punct	30119_9
+30119_24	has_surface_form	.
+30119_25	is_in_sentence	sentence_30119
+30119_25	dep	30119_9
+30119_25	has_surface_form	
+Adriano Francisco	surface_form	Adriano Francisco
+Adriano Francisco	is-member-of	Puerto Rico United
+Puerto Rico United	surface_form	Puerto Rico United

@@ -1,0 +1,83 @@
+511_0	is_in_sentence	sentence_511
+511_0	det	511_2
+511_0	has_surface_form	An
+511_2	is_in_sentence	sentence_511
+511_2	nsubjpass	511_12
+511_2	has_surface_form	patent
+511_1	is_in_sentence	sentence_511
+511_1	amod	511_2
+511_1	has_surface_form	early
+511_12	is_in_sentence	sentence_511
+511_12	ROOT	511_12
+511_12	has_surface_form	filed
+511_3	is_in_sentence	sentence_511
+511_3	prep	511_2
+511_3	has_surface_form	for
+511_4	is_in_sentence	sentence_511
+511_4	det	511_6
+511_4	has_surface_form	a
+511_6	is_in_sentence	sentence_511
+511_6	pobj	511_3
+511_6	has_surface_form	meter
+511_6	part_of_entity	parking meter
+511_5	is_in_sentence	sentence_511
+511_5	compound	511_6
+511_5	has_surface_form	parking
+511_5	part_of_entity	parking meter
+511_7	is_in_sentence	sentence_511
+511_7	punct	511_2
+511_7	has_surface_form	,
+511_8	is_in_sentence	sentence_511
+511_8	compound	511_9
+511_8	has_surface_form	U.S.
+511_9	is_in_sentence	sentence_511
+511_9	appos	511_2
+511_9	has_surface_form	patent
+511_10	is_in_sentence	sentence_511
+511_10	punct	511_2
+511_10	has_surface_form	,
+511_11	is_in_sentence	sentence_511
+511_11	auxpass	511_12
+511_11	has_surface_form	was
+511_13	is_in_sentence	sentence_511
+511_13	agent	511_12
+511_13	has_surface_form	by
+511_14	is_in_sentence	sentence_511
+511_14	compound	511_16
+511_14	has_surface_form	Roger
+511_14	part_of_entity	Roger W. Babson
+511_16	is_in_sentence	sentence_511
+511_16	pobj	511_13
+511_16	has_surface_form	Babson
+511_16	part_of_entity	Roger W. Babson
+511_15	is_in_sentence	sentence_511
+511_15	compound	511_16
+511_15	has_surface_form	W.
+511_15	part_of_entity	Roger W. Babson
+511_17	is_in_sentence	sentence_511
+511_17	punct	511_12
+511_17	has_surface_form	,
+511_18	is_in_sentence	sentence_511
+511_18	prep	511_12
+511_18	has_surface_form	on
+511_19	is_in_sentence	sentence_511
+511_19	pobj	511_18
+511_19	has_surface_form	August
+511_20	is_in_sentence	sentence_511
+511_20	nummod	511_19
+511_20	has_surface_form	30
+511_21	is_in_sentence	sentence_511
+511_21	punct	511_19
+511_21	has_surface_form	,
+511_22	is_in_sentence	sentence_511
+511_22	nummod	511_19
+511_22	has_surface_form	1928
+511_23	is_in_sentence	sentence_511
+511_23	punct	511_12
+511_23	has_surface_form	.
+511_24	is_in_sentence	sentence_511
+511_24	dep	511_24
+511_24	has_surface_form	
+parking meter	surface_form	parking meter
+parking meter	invented-by	Roger W. Babson
+Roger W. Babson	surface_form	Roger W. Babson

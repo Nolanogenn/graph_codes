@@ -1,0 +1,64 @@
+11333_0	is_in_sentence	sentence_11333
+11333_0	compound	11333_1
+11333_0	has_surface_form	Robert
+11333_0	part_of_entity	Robert Hooke
+11333_1	is_in_sentence	sentence_11333
+11333_1	nsubj	11333_3
+11333_1	has_surface_form	Hooke
+11333_1	part_of_entity	Robert Hooke
+11333_3	is_in_sentence	sentence_11333
+11333_3	ROOT	11333_3
+11333_3	has_surface_form	helped
+11333_2	is_in_sentence	sentence_11333
+11333_2	advmod	11333_3
+11333_2	has_surface_form	also
+11333_4	is_in_sentence	sentence_11333
+11333_4	nsubj	11333_5
+11333_4	has_surface_form	Boyle
+11333_5	is_in_sentence	sentence_11333
+11333_5	ccomp	11333_3
+11333_5	has_surface_form	produce
+11333_6	is_in_sentence	sentence_11333
+11333_6	det	11333_8
+11333_6	has_surface_form	an
+11333_8	is_in_sentence	sentence_11333
+11333_8	dobj	11333_5
+11333_8	has_surface_form	pump
+11333_8	part_of_entity	air pump which helped to produce the vacuum
+11333_7	is_in_sentence	sentence_11333
+11333_7	compound	11333_8
+11333_7	has_surface_form	air
+11333_7	part_of_entity	air pump which helped to produce the vacuum
+11333_9	is_in_sentence	sentence_11333
+11333_9	nsubj	11333_10
+11333_9	has_surface_form	which
+11333_9	part_of_entity	air pump which helped to produce the vacuum
+11333_10	is_in_sentence	sentence_11333
+11333_10	relcl	11333_8
+11333_10	has_surface_form	helped
+11333_10	part_of_entity	air pump which helped to produce the vacuum
+11333_11	is_in_sentence	sentence_11333
+11333_11	aux	11333_12
+11333_11	has_surface_form	to
+11333_11	part_of_entity	air pump which helped to produce the vacuum
+11333_12	is_in_sentence	sentence_11333
+11333_12	xcomp	11333_10
+11333_12	has_surface_form	produce
+11333_12	part_of_entity	air pump which helped to produce the vacuum
+11333_13	is_in_sentence	sentence_11333
+11333_13	det	11333_14
+11333_13	has_surface_form	the
+11333_13	part_of_entity	air pump which helped to produce the vacuum
+11333_14	is_in_sentence	sentence_11333
+11333_14	dobj	11333_12
+11333_14	has_surface_form	vacuum
+11333_14	part_of_entity	air pump which helped to produce the vacuum
+11333_15	is_in_sentence	sentence_11333
+11333_15	punct	11333_3
+11333_15	has_surface_form	.
+11333_16	is_in_sentence	sentence_11333
+11333_16	dep	11333_16
+11333_16	has_surface_form	
+air pump which helped to produce the vacuum	surface_form	air pump which helped to produce the vacuum
+air pump which helped to produce the vacuum	invented-by	Robert Hooke
+Robert Hooke	surface_form	Robert Hooke

@@ -1,0 +1,70 @@
+22858_0	is_in_sentence	sentence_22858
+22858_0	det	22858_1
+22858_0	has_surface_form	The
+22858_1	is_in_sentence	sentence_22858
+22858_1	compound	22858_2
+22858_1	has_surface_form	word
+22858_2	is_in_sentence	sentence_22858
+22858_2	nsubjpass	22858_4
+22858_2	has_surface_form	semaphore
+22858_4	is_in_sentence	sentence_22858
+22858_4	ROOT	22858_4
+22858_4	has_surface_form	coined
+22858_3	is_in_sentence	sentence_22858
+22858_3	auxpass	22858_4
+22858_3	has_surface_form	was
+22858_5	is_in_sentence	sentence_22858
+22858_5	prep	22858_4
+22858_5	has_surface_form	in
+22858_6	is_in_sentence	sentence_22858
+22858_6	pobj	22858_5
+22858_6	has_surface_form	1801
+22858_7	is_in_sentence	sentence_22858
+22858_7	agent	22858_4
+22858_7	has_surface_form	by
+22858_8	is_in_sentence	sentence_22858
+22858_8	det	22858_10
+22858_8	has_surface_form	the
+22858_10	is_in_sentence	sentence_22858
+22858_10	pobj	22858_7
+22858_10	has_surface_form	inventor
+22858_9	is_in_sentence	sentence_22858
+22858_9	amod	22858_10
+22858_9	has_surface_form	French
+22858_11	is_in_sentence	sentence_22858
+22858_11	prep	22858_10
+22858_11	has_surface_form	of
+22858_12	is_in_sentence	sentence_22858
+22858_12	det	22858_14
+22858_12	has_surface_form	the
+22858_14	is_in_sentence	sentence_22858
+22858_14	pobj	22858_11
+22858_14	has_surface_form	line
+22858_14	part_of_entity	semaphore line
+22858_13	is_in_sentence	sentence_22858
+22858_13	amod	22858_14
+22858_13	has_surface_form	semaphore
+22858_13	part_of_entity	semaphore line
+22858_15	is_in_sentence	sentence_22858
+22858_15	appos	22858_14
+22858_15	has_surface_form	itself
+22858_16	is_in_sentence	sentence_22858
+22858_16	punct	22858_4
+22858_16	has_surface_form	,
+22858_17	is_in_sentence	sentence_22858
+22858_17	compound	22858_18
+22858_17	has_surface_form	Claude
+22858_17	part_of_entity	Claude Chappe
+22858_18	is_in_sentence	sentence_22858
+22858_18	appos	22858_2
+22858_18	has_surface_form	Chappe
+22858_18	part_of_entity	Claude Chappe
+22858_19	is_in_sentence	sentence_22858
+22858_19	punct	22858_4
+22858_19	has_surface_form	.
+22858_20	is_in_sentence	sentence_22858
+22858_20	dep	22858_4
+22858_20	has_surface_form	
+semaphore line	surface_form	semaphore line
+semaphore line	invented-by	Claude Chappe
+Claude Chappe	surface_form	Claude Chappe

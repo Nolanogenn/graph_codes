@@ -1,0 +1,82 @@
+6621_0	is_in_sentence	sentence_6621
+6621_0	compound	6621_1
+6621_0	has_surface_form	Anders
+6621_0	part_of_entity	Anders Hammer
+6621_1	is_in_sentence	sentence_6621
+6621_1	nsubj	6621_13
+6621_1	has_surface_form	Hammer
+6621_1	part_of_entity	Anders Hammer
+6621_13	is_in_sentence	sentence_6621
+6621_13	ROOT	6621_13
+6621_13	has_surface_form	is
+6621_2	is_in_sentence	sentence_6621
+6621_2	punct	6621_1
+6621_2	has_surface_form	(
+6621_3	is_in_sentence	sentence_6621
+6621_3	acl	6621_1
+6621_3	has_surface_form	born
+6621_4	is_in_sentence	sentence_6621
+6621_4	npadvmod	6621_3
+6621_4	has_surface_form	April
+6621_5	is_in_sentence	sentence_6621
+6621_5	nummod	6621_4
+6621_5	has_surface_form	3
+6621_6	is_in_sentence	sentence_6621
+6621_6	punct	6621_4
+6621_6	has_surface_form	,
+6621_7	is_in_sentence	sentence_6621
+6621_7	nummod	6621_4
+6621_7	has_surface_form	1980
+6621_8	is_in_sentence	sentence_6621
+6621_8	prep	6621_3
+6621_8	has_surface_form	in
+6621_9	is_in_sentence	sentence_6621
+6621_9	pobj	6621_8
+6621_9	has_surface_form	Gothenburg
+6621_10	is_in_sentence	sentence_6621
+6621_10	punct	6621_9
+6621_10	has_surface_form	,
+6621_11	is_in_sentence	sentence_6621
+6621_11	appos	6621_9
+6621_11	has_surface_form	Sweden
+6621_12	is_in_sentence	sentence_6621
+6621_12	punct	6621_9
+6621_12	has_surface_form	)
+6621_14	is_in_sentence	sentence_6621
+6621_14	compound	6621_15
+6621_14	has_surface_form	bass
+6621_15	is_in_sentence	sentence_6621
+6621_15	attr	6621_13
+6621_15	has_surface_form	player
+6621_16	is_in_sentence	sentence_6621
+6621_16	prep	6621_15
+6621_16	has_surface_form	for
+6621_17	is_in_sentence	sentence_6621
+6621_17	det	6621_21
+6621_17	has_surface_form	the
+6621_21	is_in_sentence	sentence_6621
+6621_21	pobj	6621_16
+6621_21	has_surface_form	band
+6621_18	is_in_sentence	sentence_6621
+6621_18	amod	6621_21
+6621_18	has_surface_form	melodic
+6621_19	is_in_sentence	sentence_6621
+6621_19	compound	6621_20
+6621_19	has_surface_form	death
+6621_19	part_of_entity	death metal
+6621_20	is_in_sentence	sentence_6621
+6621_20	compound	6621_21
+6621_20	has_surface_form	metal
+6621_20	part_of_entity	death metal
+6621_22	is_in_sentence	sentence_6621
+6621_22	pobj	6621_16
+6621_22	has_surface_form	Nightrage
+6621_23	is_in_sentence	sentence_6621
+6621_23	punct	6621_13
+6621_23	has_surface_form	.
+6621_24	is_in_sentence	sentence_6621
+6621_24	dep	6621_24
+6621_24	has_surface_form	
+Anders Hammer	surface_form	Anders Hammer
+Anders Hammer	has-genre	death metal
+death metal	surface_form	death metal

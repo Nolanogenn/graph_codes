@@ -1,0 +1,88 @@
+32996_0	is_in_sentence	sentence_32996
+32996_0	compound	32996_1
+32996_0	has_surface_form	Susan
+32996_0	part_of_entity	Susan Fleming
+32996_1	is_in_sentence	sentence_32996
+32996_1	nsubj	32996_13
+32996_1	has_surface_form	Fleming
+32996_1	part_of_entity	Susan Fleming
+32996_13	is_in_sentence	sentence_32996
+32996_13	ROOT	32996_13
+32996_13	has_surface_form	was
+32996_2	is_in_sentence	sentence_32996
+32996_2	punct	32996_1
+32996_2	has_surface_form	(
+32996_3	is_in_sentence	sentence_32996
+32996_3	appos	32996_1
+32996_3	has_surface_form	February
+32996_4	is_in_sentence	sentence_32996
+32996_4	nummod	32996_3
+32996_4	has_surface_form	19
+32996_5	is_in_sentence	sentence_32996
+32996_5	punct	32996_3
+32996_5	has_surface_form	,
+32996_6	is_in_sentence	sentence_32996
+32996_6	appos	32996_3
+32996_6	has_surface_form	1908
+32996_7	is_in_sentence	sentence_32996
+32996_7	punct	32996_1
+32996_7	has_surface_form	–
+32996_8	is_in_sentence	sentence_32996
+32996_8	appos	32996_1
+32996_8	has_surface_form	December
+32996_9	is_in_sentence	sentence_32996
+32996_9	nummod	32996_8
+32996_9	has_surface_form	22
+32996_10	is_in_sentence	sentence_32996
+32996_10	punct	32996_8
+32996_10	has_surface_form	,
+32996_11	is_in_sentence	sentence_32996
+32996_11	appos	32996_8
+32996_11	has_surface_form	2002
+32996_12	is_in_sentence	sentence_32996
+32996_12	punct	32996_8
+32996_12	has_surface_form	)
+32996_14	is_in_sentence	sentence_32996
+32996_14	det	32996_16
+32996_14	has_surface_form	an
+32996_16	is_in_sentence	sentence_32996
+32996_16	attr	32996_13
+32996_16	has_surface_form	actress
+32996_15	is_in_sentence	sentence_32996
+32996_15	amod	32996_16
+32996_15	has_surface_form	American
+32996_17	is_in_sentence	sentence_32996
+32996_17	cc	32996_16
+32996_17	has_surface_form	and
+32996_18	is_in_sentence	sentence_32996
+32996_18	det	32996_19
+32996_18	has_surface_form	the
+32996_19	is_in_sentence	sentence_32996
+32996_19	conj	32996_16
+32996_19	has_surface_form	wife
+32996_20	is_in_sentence	sentence_32996
+32996_20	prep	32996_19
+32996_20	has_surface_form	of
+32996_21	is_in_sentence	sentence_32996
+32996_21	amod	32996_22
+32996_21	has_surface_form	comic
+32996_22	is_in_sentence	sentence_32996
+32996_22	compound	32996_24
+32996_22	has_surface_form	actor
+32996_24	is_in_sentence	sentence_32996
+32996_24	pobj	32996_20
+32996_24	has_surface_form	Marx
+32996_24	part_of_entity	Harpo Marx
+32996_23	is_in_sentence	sentence_32996
+32996_23	compound	32996_24
+32996_23	has_surface_form	Harpo
+32996_23	part_of_entity	Harpo Marx
+32996_25	is_in_sentence	sentence_32996
+32996_25	punct	32996_13
+32996_25	has_surface_form	.
+32996_26	is_in_sentence	sentence_32996
+32996_26	dep	32996_13
+32996_26	has_surface_form	
+Susan Fleming	surface_form	Susan Fleming
+Susan Fleming	has-spouse	Harpo Marx
+Harpo Marx	surface_form	Harpo Marx

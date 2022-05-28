@@ -1,0 +1,62 @@
+11984_0	is_in_sentence	sentence_11984
+11984_0	det	11984_2
+11984_0	has_surface_form	The
+11984_2	is_in_sentence	sentence_11984
+11984_2	nsubj	11984_3
+11984_2	has_surface_form	Knights
+11984_2	part_of_entity	Carleton Knights
+11984_1	is_in_sentence	sentence_11984
+11984_1	compound	11984_2
+11984_1	has_surface_form	Carleton
+11984_1	part_of_entity	Carleton Knights
+11984_3	is_in_sentence	sentence_11984
+11984_3	ROOT	11984_3
+11984_3	has_surface_form	are
+11984_4	is_in_sentence	sentence_11984
+11984_4	det	11984_7
+11984_4	has_surface_form	the
+11984_7	is_in_sentence	sentence_11984
+11984_7	attr	11984_3
+11984_7	has_surface_form	teams
+11984_5	is_in_sentence	sentence_11984
+11984_5	nmod	11984_7
+11984_5	has_surface_form	varsity
+11984_6	is_in_sentence	sentence_11984
+11984_6	amod	11984_7
+11984_6	has_surface_form	athletic
+11984_8	is_in_sentence	sentence_11984
+11984_8	prep	11984_7
+11984_8	has_surface_form	of
+11984_9	is_in_sentence	sentence_11984
+11984_9	compound	11984_10
+11984_9	has_surface_form	Carleton
+11984_10	is_in_sentence	sentence_11984
+11984_10	pobj	11984_8
+11984_10	has_surface_form	College
+11984_11	is_in_sentence	sentence_11984
+11984_11	punct	11984_10
+11984_11	has_surface_form	,
+11984_12	is_in_sentence	sentence_11984
+11984_12	acl	11984_10
+11984_12	has_surface_form	located
+11984_13	is_in_sentence	sentence_11984
+11984_13	prep	11984_12
+11984_13	has_surface_form	in
+11984_14	is_in_sentence	sentence_11984
+11984_14	pobj	11984_13
+11984_14	has_surface_form	Northfield
+11984_15	is_in_sentence	sentence_11984
+11984_15	punct	11984_14
+11984_15	has_surface_form	,
+11984_16	is_in_sentence	sentence_11984
+11984_16	appos	11984_14
+11984_16	has_surface_form	Minnesota
+11984_17	is_in_sentence	sentence_11984
+11984_17	punct	11984_3
+11984_17	has_surface_form	.
+11984_18	is_in_sentence	sentence_11984
+11984_18	dep	11984_3
+11984_18	has_surface_form	
+Carleton Knights	surface_form	Carleton Knights
+Carleton Knights	is-where	Northfield, Minnesota
+Northfield, Minnesota	surface_form	Northfield, Minnesota

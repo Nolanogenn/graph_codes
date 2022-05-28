@@ -1,0 +1,111 @@
+23405_0	is_in_sentence	sentence_23405
+23405_0	det	23405_4
+23405_0	has_surface_form	The
+23405_4	is_in_sentence	sentence_23405
+23405_4	nsubj	23405_9
+23405_4	has_surface_form	Library
+23405_4	part_of_entity	Montana State University Library
+23405_1	is_in_sentence	sentence_23405
+23405_1	compound	23405_2
+23405_1	has_surface_form	Montana
+23405_1	part_of_entity	Montana State University Library
+23405_2	is_in_sentence	sentence_23405
+23405_2	compound	23405_3
+23405_2	has_surface_form	State
+23405_2	part_of_entity	Montana State University Library
+23405_3	is_in_sentence	sentence_23405
+23405_3	compound	23405_4
+23405_3	has_surface_form	University
+23405_3	part_of_entity	Montana State University Library
+23405_9	is_in_sentence	sentence_23405
+23405_9	ROOT	23405_9
+23405_9	has_surface_form	is
+23405_5	is_in_sentence	sentence_23405
+23405_5	punct	23405_7
+23405_5	has_surface_form	(
+23405_7	is_in_sentence	sentence_23405
+23405_7	appos	23405_4
+23405_7	has_surface_form	Library
+23405_6	is_in_sentence	sentence_23405
+23405_6	compound	23405_7
+23405_6	has_surface_form	MSU
+23405_8	is_in_sentence	sentence_23405
+23405_8	punct	23405_7
+23405_8	has_surface_form	)
+23405_10	is_in_sentence	sentence_23405
+23405_10	det	23405_12
+23405_10	has_surface_form	the
+23405_12	is_in_sentence	sentence_23405
+23405_12	attr	23405_9
+23405_12	has_surface_form	library
+23405_12	part_of_entity	academic library
+23405_11	is_in_sentence	sentence_23405
+23405_11	amod	23405_12
+23405_11	has_surface_form	academic
+23405_11	part_of_entity	academic library
+23405_13	is_in_sentence	sentence_23405
+23405_13	prep	23405_12
+23405_13	has_surface_form	of
+23405_14	is_in_sentence	sentence_23405
+23405_14	compound	23405_16
+23405_14	has_surface_form	Montana
+23405_16	is_in_sentence	sentence_23405
+23405_16	pobj	23405_13
+23405_16	has_surface_form	University
+23405_15	is_in_sentence	sentence_23405
+23405_15	compound	23405_16
+23405_15	has_surface_form	State
+23405_17	is_in_sentence	sentence_23405
+23405_17	punct	23405_16
+23405_17	has_surface_form	,
+23405_18	is_in_sentence	sentence_23405
+23405_18	poss	23405_23
+23405_18	has_surface_form	Montana
+23405_23	is_in_sentence	sentence_23405
+23405_23	appos	23405_16
+23405_23	has_surface_form	university
+23405_19	is_in_sentence	sentence_23405
+23405_19	case	23405_18
+23405_19	has_surface_form	's
+23405_20	is_in_sentence	sentence_23405
+23405_20	compound	23405_22
+23405_20	has_surface_form	land
+23405_22	is_in_sentence	sentence_23405
+23405_22	compound	23405_23
+23405_22	has_surface_form	grant
+23405_21	is_in_sentence	sentence_23405
+23405_21	punct	23405_22
+23405_21	has_surface_form	-
+23405_24	is_in_sentence	sentence_23405
+23405_24	punct	23405_16
+23405_24	has_surface_form	,
+23405_25	is_in_sentence	sentence_23405
+23405_25	prep	23405_12
+23405_25	has_surface_form	in
+23405_26	is_in_sentence	sentence_23405
+23405_26	pobj	23405_25
+23405_26	has_surface_form	Bozeman
+23405_27	is_in_sentence	sentence_23405
+23405_27	punct	23405_26
+23405_27	has_surface_form	,
+23405_28	is_in_sentence	sentence_23405
+23405_28	conj	23405_26
+23405_28	has_surface_form	Montana
+23405_29	is_in_sentence	sentence_23405
+23405_29	punct	23405_28
+23405_29	has_surface_form	,
+23405_30	is_in_sentence	sentence_23405
+23405_30	compound	23405_31
+23405_30	has_surface_form	United
+23405_31	is_in_sentence	sentence_23405
+23405_31	conj	23405_28
+23405_31	has_surface_form	States
+23405_32	is_in_sentence	sentence_23405
+23405_32	punct	23405_9
+23405_32	has_surface_form	.
+23405_33	is_in_sentence	sentence_23405
+23405_33	dep	23405_9
+23405_33	has_surface_form	
+Montana State University Library	surface_form	Montana State University Library
+Montana State University Library	has-type	academic library
+academic library	surface_form	academic library

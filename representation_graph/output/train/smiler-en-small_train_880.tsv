@@ -1,0 +1,118 @@
+879_0	is_in_sentence	sentence_879
+879_0	compound	879_2
+879_0	has_surface_form	Ibrahim
+879_0	part_of_entity	Ibrahim Medical College
+879_2	is_in_sentence	sentence_879
+879_2	nsubj	879_13
+879_2	has_surface_form	College
+879_2	part_of_entity	Ibrahim Medical College
+879_1	is_in_sentence	sentence_879
+879_1	compound	879_2
+879_1	has_surface_form	Medical
+879_1	part_of_entity	Ibrahim Medical College
+879_13	is_in_sentence	sentence_879
+879_13	ROOT	879_13
+879_13	has_surface_form	is
+879_3	is_in_sentence	sentence_879
+879_3	punct	879_2
+879_3	has_surface_form	(
+879_4	is_in_sentence	sentence_879
+879_4	appos	879_2
+879_4	has_surface_form	IMC
+879_5	is_in_sentence	sentence_879
+879_5	punct	879_2
+879_5	has_surface_form	)
+879_6	is_in_sentence	sentence_879
+879_6	punct	879_7
+879_6	has_surface_form	(
+879_7	is_in_sentence	sentence_879
+879_7	appos	879_2
+879_7	has_surface_form	Bengali
+879_8	is_in_sentence	sentence_879
+879_8	punct	879_7
+879_8	has_surface_form	:
+879_9	is_in_sentence	sentence_879
+879_9	nmod	879_11
+879_9	has_surface_form	ইব্রাহিম
+879_11	is_in_sentence	sentence_879
+879_11	appos	879_7
+879_11	has_surface_form	কলেজ
+879_10	is_in_sentence	sentence_879
+879_10	compound	879_11
+879_10	has_surface_form	মেডিকেল
+879_12	is_in_sentence	sentence_879
+879_12	punct	879_7
+879_12	has_surface_form	)
+879_14	is_in_sentence	sentence_879
+879_14	det	879_17
+879_14	has_surface_form	a
+879_17	is_in_sentence	sentence_879
+879_17	attr	879_13
+879_17	has_surface_form	school
+879_15	is_in_sentence	sentence_879
+879_15	amod	879_17
+879_15	has_surface_form	private
+879_16	is_in_sentence	sentence_879
+879_16	amod	879_17
+879_16	has_surface_form	medical
+879_18	is_in_sentence	sentence_879
+879_18	prep	879_17
+879_18	has_surface_form	in
+879_19	is_in_sentence	sentence_879
+879_19	pobj	879_18
+879_19	has_surface_form	Bangladesh
+879_20	is_in_sentence	sentence_879
+879_20	punct	879_17
+879_20	has_surface_form	,
+879_21	is_in_sentence	sentence_879
+879_21	acl	879_17
+879_21	has_surface_form	established
+879_22	is_in_sentence	sentence_879
+879_22	prep	879_21
+879_22	has_surface_form	in
+879_23	is_in_sentence	sentence_879
+879_23	pobj	879_22
+879_23	has_surface_form	2002
+879_24	is_in_sentence	sentence_879
+879_24	punct	879_13
+879_24	has_surface_form	.
+879_25	is_in_sentence	sentence_879
+879_25	nsubjpass	879_27
+879_25	has_surface_form	It
+879_27	is_in_sentence	sentence_879
+879_27	ROOT	879_27
+879_27	has_surface_form	located
+879_26	is_in_sentence	sentence_879
+879_26	auxpass	879_27
+879_26	has_surface_form	is
+879_28	is_in_sentence	sentence_879
+879_28	prep	879_27
+879_28	has_surface_form	in
+879_29	is_in_sentence	sentence_879
+879_29	det	879_31
+879_29	has_surface_form	the
+879_31	is_in_sentence	sentence_879
+879_31	pobj	879_28
+879_31	has_surface_form	neighborhood
+879_31	part_of_entity	Shahbag neighborhood of Dhaka
+879_30	is_in_sentence	sentence_879
+879_30	compound	879_31
+879_30	has_surface_form	Shahbag
+879_30	part_of_entity	Shahbag neighborhood of Dhaka
+879_32	is_in_sentence	sentence_879
+879_32	prep	879_31
+879_32	has_surface_form	of
+879_32	part_of_entity	Shahbag neighborhood of Dhaka
+879_33	is_in_sentence	sentence_879
+879_33	pobj	879_32
+879_33	has_surface_form	Dhaka
+879_33	part_of_entity	Shahbag neighborhood of Dhaka
+879_34	is_in_sentence	sentence_879
+879_34	punct	879_27
+879_34	has_surface_form	.
+879_35	is_in_sentence	sentence_879
+879_35	dep	879_35
+879_35	has_surface_form	
+Ibrahim Medical College	surface_form	Ibrahim Medical College
+Ibrahim Medical College	is-where	Shahbag neighborhood of Dhaka
+Shahbag neighborhood of Dhaka	surface_form	Shahbag neighborhood of Dhaka

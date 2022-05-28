@@ -1,0 +1,73 @@
+11088_0	is_in_sentence	sentence_11088
+11088_0	compound	11088_1
+11088_0	has_surface_form	Bruce
+11088_0	part_of_entity	Bruce Drake
+11088_1	is_in_sentence	sentence_11088
+11088_1	nsubj	11088_13
+11088_1	has_surface_form	Drake
+11088_1	part_of_entity	Bruce Drake
+11088_13	is_in_sentence	sentence_11088
+11088_13	ROOT	11088_13
+11088_13	has_surface_form	was
+11088_2	is_in_sentence	sentence_11088
+11088_2	punct	11088_1
+11088_2	has_surface_form	(
+11088_3	is_in_sentence	sentence_11088
+11088_3	appos	11088_1
+11088_3	has_surface_form	December
+11088_4	is_in_sentence	sentence_11088
+11088_4	nummod	11088_3
+11088_4	has_surface_form	5
+11088_5	is_in_sentence	sentence_11088
+11088_5	punct	11088_3
+11088_5	has_surface_form	,
+11088_6	is_in_sentence	sentence_11088
+11088_6	nummod	11088_3
+11088_6	has_surface_form	1905
+11088_7	is_in_sentence	sentence_11088
+11088_7	punct	11088_1
+11088_7	has_surface_form	–
+11088_8	is_in_sentence	sentence_11088
+11088_8	appos	11088_1
+11088_8	has_surface_form	December
+11088_9	is_in_sentence	sentence_11088
+11088_9	nummod	11088_8
+11088_9	has_surface_form	4
+11088_10	is_in_sentence	sentence_11088
+11088_10	punct	11088_8
+11088_10	has_surface_form	,
+11088_11	is_in_sentence	sentence_11088
+11088_11	nummod	11088_8
+11088_11	has_surface_form	1983
+11088_12	is_in_sentence	sentence_11088
+11088_12	punct	11088_8
+11088_12	has_surface_form	)
+11088_14	is_in_sentence	sentence_11088
+11088_14	det	11088_16
+11088_14	has_surface_form	a
+11088_16	is_in_sentence	sentence_11088
+11088_16	poss	11088_19
+11088_16	has_surface_form	men
+11088_15	is_in_sentence	sentence_11088
+11088_15	compound	11088_16
+11088_15	has_surface_form	college
+11088_19	is_in_sentence	sentence_11088
+11088_19	attr	11088_13
+11088_19	has_surface_form	coach
+11088_19	part_of_entity	basketball coach
+11088_17	is_in_sentence	sentence_11088
+11088_17	case	11088_16
+11088_17	has_surface_form	's
+11088_18	is_in_sentence	sentence_11088
+11088_18	compound	11088_19
+11088_18	has_surface_form	basketball
+11088_18	part_of_entity	basketball coach
+11088_20	is_in_sentence	sentence_11088
+11088_20	punct	11088_13
+11088_20	has_surface_form	.
+11088_21	is_in_sentence	sentence_11088
+11088_21	dep	11088_21
+11088_21	has_surface_form	
+Bruce Drake	surface_form	Bruce Drake
+Bruce Drake	has-type	basketball coach
+basketball coach	surface_form	basketball coach

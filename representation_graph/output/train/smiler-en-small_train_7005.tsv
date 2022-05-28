@@ -1,0 +1,48 @@
+7004_0	is_in_sentence	sentence_7004
+7004_0	ROOT	7004_0
+7004_0	has_surface_form	Tiferes
+7004_0	part_of_entity	Tiferes Bais Yaakov
+7004_1	is_in_sentence	sentence_7004
+7004_1	compound	7004_2
+7004_1	has_surface_form	Bais
+7004_1	part_of_entity	Tiferes Bais Yaakov
+7004_2	is_in_sentence	sentence_7004
+7004_2	nsubj	7004_3
+7004_2	has_surface_form	Yaakov
+7004_2	part_of_entity	Tiferes Bais Yaakov
+7004_3	is_in_sentence	sentence_7004
+7004_3	ccomp	7004_0
+7004_3	has_surface_form	is
+7004_4	is_in_sentence	sentence_7004
+7004_4	det	7004_7
+7004_4	has_surface_form	a
+7004_7	is_in_sentence	sentence_7004
+7004_7	attr	7004_3
+7004_7	has_surface_form	school
+7004_5	is_in_sentence	sentence_7004
+7004_5	amod	7004_7
+7004_5	has_surface_form	private
+7004_6	is_in_sentence	sentence_7004
+7004_6	amod	7004_7
+7004_6	has_surface_form	Jewish
+7004_8	is_in_sentence	sentence_7004
+7004_8	prep	7004_7
+7004_8	has_surface_form	in
+7004_9	is_in_sentence	sentence_7004
+7004_9	pobj	7004_8
+7004_9	is_entity	Toronto
+Toronto	surface_form	Toronto
+7004_10	is_in_sentence	sentence_7004
+7004_10	punct	7004_9
+7004_10	has_surface_form	,
+7004_11	is_in_sentence	sentence_7004
+7004_11	appos	7004_9
+7004_11	has_surface_form	Ontario
+7004_12	is_in_sentence	sentence_7004
+7004_12	punct	7004_3
+7004_12	has_surface_form	.
+7004_13	is_in_sentence	sentence_7004
+7004_13	dep	7004_0
+7004_13	has_surface_form	
+Tiferes Bais Yaakov	surface_form	Tiferes Bais Yaakov
+Tiferes Bais Yaakov	is-where	Toronto

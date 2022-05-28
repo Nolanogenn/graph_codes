@@ -1,0 +1,98 @@
+6811_0	is_in_sentence	sentence_6811
+6811_0	nsubj	6811_1
+6811_0	has_surface_form	Guinness
+6811_1	is_in_sentence	sentence_6811
+6811_1	ROOT	6811_1
+6811_1	has_surface_form	remarried
+6811_2	is_in_sentence	sentence_6811
+6811_2	prep	6811_1
+6811_2	has_surface_form	in
+6811_3	is_in_sentence	sentence_6811
+6811_3	pobj	6811_2
+6811_3	has_surface_form	1936
+6811_4	is_in_sentence	sentence_6811
+6811_4	prep	6811_1
+6811_4	has_surface_form	to
+6811_5	is_in_sentence	sentence_6811
+6811_5	compound	6811_6
+6811_5	has_surface_form	Elisabeth
+6811_5	part_of_entity	Elisabeth Nelson
+6811_6	is_in_sentence	sentence_6811
+6811_6	pobj	6811_4
+6811_6	has_surface_form	Nelson
+6811_6	part_of_entity	Elisabeth Nelson
+6811_7	is_in_sentence	sentence_6811
+6811_7	punct	6811_6
+6811_7	has_surface_form	(
+6811_8	is_in_sentence	sentence_6811
+6811_8	appos	6811_6
+6811_8	has_surface_form	1912–1999
+6811_9	is_in_sentence	sentence_6811
+6811_9	punct	6811_6
+6811_9	has_surface_form	)
+6811_10	is_in_sentence	sentence_6811
+6811_10	punct	6811_6
+6811_10	has_surface_form	,
+6811_11	is_in_sentence	sentence_6811
+6811_11	appos	6811_6
+6811_11	has_surface_form	daughter
+6811_12	is_in_sentence	sentence_6811
+6811_12	prep	6811_11
+6811_12	has_surface_form	of
+6811_13	is_in_sentence	sentence_6811
+6811_13	compound	6811_15
+6811_13	has_surface_form	Thomas
+6811_13	part_of_entity	Thomas Arthur Nelson
+6811_15	is_in_sentence	sentence_6811
+6811_15	pobj	6811_12
+6811_15	has_surface_form	Nelson
+6811_15	part_of_entity	Thomas Arthur Nelson
+6811_14	is_in_sentence	sentence_6811
+6811_14	compound	6811_15
+6811_14	has_surface_form	Arthur
+6811_14	part_of_entity	Thomas Arthur Nelson
+6811_16	is_in_sentence	sentence_6811
+6811_16	prep	6811_15
+6811_16	has_surface_form	of
+6811_17	is_in_sentence	sentence_6811
+6811_17	det	6811_20
+6811_17	has_surface_form	the
+6811_20	is_in_sentence	sentence_6811
+6811_20	pobj	6811_16
+6811_20	has_surface_form	family
+6811_18	is_in_sentence	sentence_6811
+6811_18	compound	6811_20
+6811_18	has_surface_form	Nelson
+6811_19	is_in_sentence	sentence_6811
+6811_19	compound	6811_20
+6811_19	has_surface_form	publishing
+6811_21	is_in_sentence	sentence_6811
+6811_21	punct	6811_15
+6811_21	has_surface_form	,
+6811_22	is_in_sentence	sentence_6811
+6811_22	prep	6811_25
+6811_22	has_surface_form	with
+6811_25	is_in_sentence	sentence_6811
+6811_25	relcl	6811_15
+6811_25	has_surface_form	had
+6811_23	is_in_sentence	sentence_6811
+6811_23	pobj	6811_22
+6811_23	has_surface_form	whom
+6811_24	is_in_sentence	sentence_6811
+6811_24	nsubj	6811_25
+6811_24	has_surface_form	he
+6811_26	is_in_sentence	sentence_6811
+6811_26	nummod	6811_27
+6811_26	has_surface_form	nine
+6811_27	is_in_sentence	sentence_6811
+6811_27	dobj	6811_25
+6811_27	has_surface_form	children
+6811_28	is_in_sentence	sentence_6811
+6811_28	punct	6811_1
+6811_28	has_surface_form	.
+6811_29	is_in_sentence	sentence_6811
+6811_29	dep	6811_29
+6811_29	has_surface_form	
+Elisabeth Nelson	surface_form	Elisabeth Nelson
+Elisabeth Nelson	has-parent	Thomas Arthur Nelson
+Thomas Arthur Nelson	surface_form	Thomas Arthur Nelson

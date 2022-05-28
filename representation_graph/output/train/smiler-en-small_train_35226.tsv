@@ -1,0 +1,81 @@
+35225_0	is_in_sentence	sentence_35225
+35225_0	compound	35225_1
+35225_0	has_surface_form	Aansoo
+35225_0	part_of_entity	Aansoo Ban Gaye Phool
+35225_1	is_in_sentence	sentence_35225
+35225_1	compound	35225_3
+35225_1	has_surface_form	Ban
+35225_1	part_of_entity	Aansoo Ban Gaye Phool
+35225_3	is_in_sentence	sentence_35225
+35225_3	ROOT	35225_3
+35225_3	has_surface_form	Phool
+35225_3	part_of_entity	Aansoo Ban Gaye Phool
+35225_2	is_in_sentence	sentence_35225
+35225_2	compound	35225_3
+35225_2	has_surface_form	Gaye
+35225_2	part_of_entity	Aansoo Ban Gaye Phool
+35225_4	is_in_sentence	sentence_35225
+35225_4	punct	35225_3
+35225_4	has_surface_form	(
+35225_5	is_in_sentence	sentence_35225
+35225_5	acl	35225_3
+35225_5	has_surface_form	lit
+35225_6	is_in_sentence	sentence_35225
+35225_6	punct	35225_3
+35225_6	has_surface_form	.
+35225_7	is_in_sentence	sentence_35225
+35225_7	dep	35225_8
+35225_7	has_surface_form	 
+35225_8	is_in_sentence	sentence_35225
+35225_8	nsubj	35225_9
+35225_8	has_surface_form	Tears
+35225_9	is_in_sentence	sentence_35225
+35225_9	ROOT	35225_9
+35225_9	has_surface_form	turned
+35225_10	is_in_sentence	sentence_35225
+35225_10	prep	35225_9
+35225_10	has_surface_form	into
+35225_11	is_in_sentence	sentence_35225
+35225_11	pobj	35225_10
+35225_11	has_surface_form	flowers
+35225_12	is_in_sentence	sentence_35225
+35225_12	punct	35225_9
+35225_12	has_surface_form	)
+35225_13	is_in_sentence	sentence_35225
+35225_13	ccomp	35225_9
+35225_13	has_surface_form	is
+35225_14	is_in_sentence	sentence_35225
+35225_14	det	35225_17
+35225_14	has_surface_form	a
+35225_17	is_in_sentence	sentence_35225
+35225_17	attr	35225_13
+35225_17	has_surface_form	movie
+35225_15	is_in_sentence	sentence_35225
+35225_15	nummod	35225_17
+35225_15	has_surface_form	1969
+35225_16	is_in_sentence	sentence_35225
+35225_16	compound	35225_17
+35225_16	has_surface_form	Hindi
+35225_18	is_in_sentence	sentence_35225
+35225_18	acl	35225_17
+35225_18	has_surface_form	directed
+35225_19	is_in_sentence	sentence_35225
+35225_19	agent	35225_18
+35225_19	has_surface_form	by
+35225_20	is_in_sentence	sentence_35225
+35225_20	compound	35225_21
+35225_20	has_surface_form	Satyen
+35225_20	part_of_entity	Satyen Bose
+35225_21	is_in_sentence	sentence_35225
+35225_21	pobj	35225_19
+35225_21	has_surface_form	Bose
+35225_21	part_of_entity	Satyen Bose
+35225_22	is_in_sentence	sentence_35225
+35225_22	punct	35225_9
+35225_22	has_surface_form	.
+35225_23	is_in_sentence	sentence_35225
+35225_23	dep	35225_9
+35225_23	has_surface_form	
+Aansoo Ban Gaye Phool	surface_form	Aansoo Ban Gaye Phool
+Aansoo Ban Gaye Phool	movie-has-director	Satyen Bose
+Satyen Bose	surface_form	Satyen Bose

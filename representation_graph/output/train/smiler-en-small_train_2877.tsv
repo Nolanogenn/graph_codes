@@ -1,0 +1,90 @@
+2876_0	is_in_sentence	sentence_2876
+2876_0	nummod	2876_1
+2876_0	has_surface_form	Three
+2876_0	part_of_entity	Three Steps on Earth
+2876_1	is_in_sentence	sentence_2876
+2876_1	nsubj	2876_12
+2876_1	has_surface_form	Steps
+2876_1	part_of_entity	Three Steps on Earth
+2876_12	is_in_sentence	sentence_2876
+2876_12	ROOT	2876_12
+2876_12	has_surface_form	is
+2876_2	is_in_sentence	sentence_2876
+2876_2	prep	2876_1
+2876_2	has_surface_form	on
+2876_2	part_of_entity	Three Steps on Earth
+2876_3	is_in_sentence	sentence_2876
+2876_3	pobj	2876_2
+2876_3	has_surface_form	Earth
+2876_3	part_of_entity	Three Steps on Earth
+2876_4	is_in_sentence	sentence_2876
+2876_4	punct	2876_5
+2876_4	has_surface_form	(
+2876_5	is_in_sentence	sentence_2876
+2876_5	appos	2876_1
+2876_5	has_surface_form	Polish
+2876_6	is_in_sentence	sentence_2876
+2876_6	punct	2876_5
+2876_6	has_surface_form	:
+2876_7	is_in_sentence	sentence_2876
+2876_7	compound	2876_10
+2876_7	has_surface_form	Trzy
+2876_10	is_in_sentence	sentence_2876
+2876_10	appos	2876_5
+2876_10	has_surface_form	ziemi
+2876_8	is_in_sentence	sentence_2876
+2876_8	compound	2876_10
+2876_8	has_surface_form	kroki
+2876_9	is_in_sentence	sentence_2876
+2876_9	compound	2876_10
+2876_9	has_surface_form	po
+2876_11	is_in_sentence	sentence_2876
+2876_11	punct	2876_5
+2876_11	has_surface_form	)
+2876_13	is_in_sentence	sentence_2876
+2876_13	det	2876_17
+2876_13	has_surface_form	a
+2876_17	is_in_sentence	sentence_2876
+2876_17	attr	2876_12
+2876_17	has_surface_form	film
+2876_14	is_in_sentence	sentence_2876
+2876_14	nummod	2876_17
+2876_14	has_surface_form	1965
+2876_15	is_in_sentence	sentence_2876
+2876_15	amod	2876_17
+2876_15	has_surface_form	Polish
+2876_16	is_in_sentence	sentence_2876
+2876_16	compound	2876_17
+2876_16	has_surface_form	drama
+2876_18	is_in_sentence	sentence_2876
+2876_18	acl	2876_17
+2876_18	has_surface_form	directed
+2876_19	is_in_sentence	sentence_2876
+2876_19	agent	2876_18
+2876_19	has_surface_form	by
+2876_20	is_in_sentence	sentence_2876
+2876_20	compound	2876_21
+2876_20	has_surface_form	Jerzy
+2876_21	is_in_sentence	sentence_2876
+2876_21	pobj	2876_19
+2876_21	has_surface_form	Hoffman
+2876_22	is_in_sentence	sentence_2876
+2876_22	cc	2876_21
+2876_22	has_surface_form	and
+2876_23	is_in_sentence	sentence_2876
+2876_23	compound	2876_24
+2876_23	has_surface_form	Edward
+2876_23	part_of_entity	Edward Skórzewski
+2876_24	is_in_sentence	sentence_2876
+2876_24	conj	2876_21
+2876_24	has_surface_form	Skórzewski
+2876_24	part_of_entity	Edward Skórzewski
+2876_25	is_in_sentence	sentence_2876
+2876_25	punct	2876_12
+2876_25	has_surface_form	.
+2876_26	is_in_sentence	sentence_2876
+2876_26	dep	2876_12
+2876_26	has_surface_form	
+Three Steps on Earth	surface_form	Three Steps on Earth
+Three Steps on Earth	movie-has-director	Edward Skórzewski
+Edward Skórzewski	surface_form	Edward Skórzewski

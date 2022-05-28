@@ -1,0 +1,65 @@
+12060_0	is_in_sentence	sentence_12060
+12060_0	compound	12060_1
+12060_0	has_surface_form	Marlies
+12060_0	part_of_entity	Marlies Bänziger
+12060_1	is_in_sentence	sentence_12060
+12060_1	nsubj	12060_8
+12060_1	has_surface_form	Bänziger
+12060_1	part_of_entity	Marlies Bänziger
+12060_8	is_in_sentence	sentence_12060
+12060_8	ROOT	12060_8
+12060_8	has_surface_form	is
+12060_2	is_in_sentence	sentence_12060
+12060_2	punct	12060_1
+12060_2	has_surface_form	(
+12060_3	is_in_sentence	sentence_12060
+12060_3	acl	12060_1
+12060_3	has_surface_form	born
+12060_4	is_in_sentence	sentence_12060
+12060_4	nummod	12060_5
+12060_4	has_surface_form	14
+12060_5	is_in_sentence	sentence_12060
+12060_5	npadvmod	12060_3
+12060_5	has_surface_form	March
+12060_6	is_in_sentence	sentence_12060
+12060_6	nummod	12060_5
+12060_6	has_surface_form	1960
+12060_7	is_in_sentence	sentence_12060
+12060_7	punct	12060_1
+12060_7	has_surface_form	)
+12060_9	is_in_sentence	sentence_12060
+12060_9	det	12060_11
+12060_9	has_surface_form	a
+12060_11	is_in_sentence	sentence_12060
+12060_11	attr	12060_8
+12060_11	has_surface_form	politician
+12060_10	is_in_sentence	sentence_12060
+12060_10	amod	12060_11
+12060_10	has_surface_form	Swiss
+12060_12	is_in_sentence	sentence_12060
+12060_12	prep	12060_11
+12060_12	has_surface_form	of
+12060_13	is_in_sentence	sentence_12060
+12060_13	det	12060_15
+12060_13	has_surface_form	the
+12060_15	is_in_sentence	sentence_12060
+12060_15	pobj	12060_12
+12060_15	has_surface_form	Party
+12060_14	is_in_sentence	sentence_12060
+12060_14	compound	12060_15
+12060_14	has_surface_form	Green
+12060_16	is_in_sentence	sentence_12060
+12060_16	prep	12060_15
+12060_16	has_surface_form	of
+12060_17	is_in_sentence	sentence_12060
+12060_17	pobj	12060_16
+12060_17	is_entity	Switzerland
+Switzerland	surface_form	Switzerland
+12060_18	is_in_sentence	sentence_12060
+12060_18	punct	12060_8
+12060_18	has_surface_form	.
+12060_19	is_in_sentence	sentence_12060
+12060_19	dep	12060_8
+12060_19	has_surface_form	
+Marlies Bänziger	surface_form	Marlies Bänziger
+Marlies Bänziger	from-country	Switzerland

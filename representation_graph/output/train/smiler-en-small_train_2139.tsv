@@ -1,0 +1,83 @@
+2138_0	is_in_sentence	sentence_2138
+2138_0	det	2138_2
+2138_0	has_surface_form	A
+2138_0	part_of_entity	A Killer Walks
+2138_2	is_in_sentence	sentence_2138
+2138_2	nsubj	2138_3
+2138_2	has_surface_form	Walks
+2138_2	part_of_entity	A Killer Walks
+2138_1	is_in_sentence	sentence_2138
+2138_1	compound	2138_2
+2138_1	has_surface_form	Killer
+2138_1	part_of_entity	A Killer Walks
+2138_3	is_in_sentence	sentence_2138
+2138_3	ROOT	2138_3
+2138_3	has_surface_form	is
+2138_4	is_in_sentence	sentence_2138
+2138_4	det	2138_8
+2138_4	has_surface_form	a
+2138_8	is_in_sentence	sentence_2138
+2138_8	attr	2138_3
+2138_8	has_surface_form	noir
+2138_5	is_in_sentence	sentence_2138
+2138_5	nummod	2138_8
+2138_5	has_surface_form	1952
+2138_6	is_in_sentence	sentence_2138
+2138_6	amod	2138_8
+2138_6	has_surface_form	British
+2138_7	is_in_sentence	sentence_2138
+2138_7	compound	2138_8
+2138_7	has_surface_form	film
+2138_9	is_in_sentence	sentence_2138
+2138_9	acl	2138_8
+2138_9	has_surface_form	directed
+2138_10	is_in_sentence	sentence_2138
+2138_10	agent	2138_9
+2138_10	has_surface_form	by
+2138_11	is_in_sentence	sentence_2138
+2138_11	compound	2138_12
+2138_11	has_surface_form	Ronald
+2138_11	part_of_entity	Ronald Drake
+2138_12	is_in_sentence	sentence_2138
+2138_12	pobj	2138_10
+2138_12	has_surface_form	Drake
+2138_12	part_of_entity	Ronald Drake
+2138_13	is_in_sentence	sentence_2138
+2138_13	cc	2138_9
+2138_13	has_surface_form	and
+2138_14	is_in_sentence	sentence_2138
+2138_14	conj	2138_9
+2138_14	has_surface_form	starring
+2138_15	is_in_sentence	sentence_2138
+2138_15	compound	2138_16
+2138_15	has_surface_form	Laurence
+2138_16	is_in_sentence	sentence_2138
+2138_16	dobj	2138_14
+2138_16	has_surface_form	Harvey
+2138_17	is_in_sentence	sentence_2138
+2138_17	punct	2138_16
+2138_17	has_surface_form	,
+2138_18	is_in_sentence	sentence_2138
+2138_18	compound	2138_19
+2138_18	has_surface_form	Trader
+2138_19	is_in_sentence	sentence_2138
+2138_19	conj	2138_16
+2138_19	has_surface_form	Faulkner
+2138_20	is_in_sentence	sentence_2138
+2138_20	cc	2138_19
+2138_20	has_surface_form	and
+2138_21	is_in_sentence	sentence_2138
+2138_21	compound	2138_22
+2138_21	has_surface_form	Susan
+2138_22	is_in_sentence	sentence_2138
+2138_22	conj	2138_19
+2138_22	has_surface_form	Shaw
+2138_23	is_in_sentence	sentence_2138
+2138_23	punct	2138_3
+2138_23	has_surface_form	.
+2138_24	is_in_sentence	sentence_2138
+2138_24	dep	2138_3
+2138_24	has_surface_form	
+A Killer Walks	surface_form	A Killer Walks
+A Killer Walks	movie-has-director	Ronald Drake
+Ronald Drake	surface_form	Ronald Drake

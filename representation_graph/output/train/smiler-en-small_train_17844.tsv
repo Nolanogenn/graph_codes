@@ -1,0 +1,122 @@
+17843_0	is_in_sentence	sentence_17843
+17843_0	det	17843_1
+17843_0	has_surface_form	The
+17843_1	is_in_sentence	sentence_17843
+17843_1	nmod	17843_5
+17843_1	has_surface_form	University
+17843_1	part_of_entity	University of Shizuoka Junior College
+17843_5	is_in_sentence	sentence_17843
+17843_5	nsubj	17843_15
+17843_5	has_surface_form	College
+17843_5	part_of_entity	University of Shizuoka Junior College
+17843_2	is_in_sentence	sentence_17843
+17843_2	prep	17843_1
+17843_2	has_surface_form	of
+17843_2	part_of_entity	University of Shizuoka Junior College
+17843_3	is_in_sentence	sentence_17843
+17843_3	pobj	17843_2
+17843_3	has_surface_form	Shizuoka
+17843_3	part_of_entity	University of Shizuoka Junior College
+17843_4	is_in_sentence	sentence_17843
+17843_4	compound	17843_5
+17843_4	has_surface_form	Junior
+17843_4	part_of_entity	University of Shizuoka Junior College
+17843_15	is_in_sentence	sentence_17843
+17843_15	ROOT	17843_15
+17843_15	has_surface_form	is
+17843_6	is_in_sentence	sentence_17843
+17843_6	punct	17843_7
+17843_6	has_surface_form	(
+17843_7	is_in_sentence	sentence_17843
+17843_7	parataxis	17843_5
+17843_7	has_surface_form	静岡県立大学短期大学部
+17843_8	is_in_sentence	sentence_17843
+17843_8	punct	17843_7
+17843_8	has_surface_form	,
+17843_9	is_in_sentence	sentence_17843
+17843_9	compound	17843_10
+17843_9	has_surface_form	Shizuoka
+17843_10	is_in_sentence	sentence_17843
+17843_10	compound	17843_13
+17843_10	has_surface_form	Kenritsu
+17843_13	is_in_sentence	sentence_17843
+17843_13	npadvmod	17843_7
+17843_13	has_surface_form	Daigakubu
+17843_11	is_in_sentence	sentence_17843
+17843_11	compound	17843_13
+17843_11	has_surface_form	Daigaku
+17843_12	is_in_sentence	sentence_17843
+17843_12	compound	17843_13
+17843_12	has_surface_form	Tanki
+17843_14	is_in_sentence	sentence_17843
+17843_14	punct	17843_7
+17843_14	has_surface_form	)
+17843_16	is_in_sentence	sentence_17843
+17843_16	det	17843_19
+17843_16	has_surface_form	a
+17843_19	is_in_sentence	sentence_17843
+17843_19	attr	17843_15
+17843_19	has_surface_form	college
+17843_19	part_of_entity	public junior college
+17843_17	is_in_sentence	sentence_17843
+17843_17	amod	17843_19
+17843_17	has_surface_form	public
+17843_17	part_of_entity	public junior college
+17843_18	is_in_sentence	sentence_17843
+17843_18	amod	17843_19
+17843_18	has_surface_form	junior
+17843_18	part_of_entity	public junior college
+17843_20	is_in_sentence	sentence_17843
+17843_20	acl	17843_19
+17843_20	has_surface_form	affiliated
+17843_21	is_in_sentence	sentence_17843
+17843_21	prep	17843_20
+17843_21	has_surface_form	with
+17843_22	is_in_sentence	sentence_17843
+17843_22	pobj	17843_21
+17843_22	has_surface_form	University
+17843_23	is_in_sentence	sentence_17843
+17843_23	prep	17843_22
+17843_23	has_surface_form	of
+17843_24	is_in_sentence	sentence_17843
+17843_24	pobj	17843_23
+17843_24	has_surface_form	Shizuoka
+17843_25	is_in_sentence	sentence_17843
+17843_25	cc	17843_20
+17843_25	has_surface_form	and
+17843_26	is_in_sentence	sentence_17843
+17843_26	conj	17843_20
+17843_26	has_surface_form	located
+17843_27	is_in_sentence	sentence_17843
+17843_27	prep	17843_26
+17843_27	has_surface_form	in
+17843_28	is_in_sentence	sentence_17843
+17843_28	compound	17843_30
+17843_28	has_surface_form	Suruga
+17843_30	is_in_sentence	sentence_17843
+17843_30	pobj	17843_27
+17843_30	has_surface_form	ku
+17843_29	is_in_sentence	sentence_17843
+17843_29	punct	17843_30
+17843_29	has_surface_form	-
+17843_31	is_in_sentence	sentence_17843
+17843_31	punct	17843_30
+17843_31	has_surface_form	,
+17843_32	is_in_sentence	sentence_17843
+17843_32	conj	17843_30
+17843_32	has_surface_form	Shizuoka
+17843_33	is_in_sentence	sentence_17843
+17843_33	punct	17843_32
+17843_33	has_surface_form	,
+17843_34	is_in_sentence	sentence_17843
+17843_34	appos	17843_32
+17843_34	has_surface_form	Japan
+17843_35	is_in_sentence	sentence_17843
+17843_35	punct	17843_15
+17843_35	has_surface_form	.
+17843_36	is_in_sentence	sentence_17843
+17843_36	dep	17843_15
+17843_36	has_surface_form	
+University of Shizuoka Junior College	surface_form	University of Shizuoka Junior College
+University of Shizuoka Junior College	has-type	public junior college
+public junior college	surface_form	public junior college

@@ -1,0 +1,53 @@
+7570_0	is_in_sentence	sentence_7570
+7570_0	compound	7570_1
+7570_0	has_surface_form	Allen
+7570_0	part_of_entity	Allen Boren
+7570_1	is_in_sentence	sentence_7570
+7570_1	nsubj	7570_6
+7570_1	has_surface_form	Boren
+7570_1	part_of_entity	Allen Boren
+7570_6	is_in_sentence	sentence_7570
+7570_6	ROOT	7570_6
+7570_6	has_surface_form	is
+7570_2	is_in_sentence	sentence_7570
+7570_2	punct	7570_1
+7570_2	has_surface_form	(
+7570_3	is_in_sentence	sentence_7570
+7570_3	appos	7570_1
+7570_3	has_surface_form	born
+7570_4	is_in_sentence	sentence_7570
+7570_4	npadvmod	7570_3
+7570_4	has_surface_form	1934
+7570_5	is_in_sentence	sentence_7570
+7570_5	punct	7570_1
+7570_5	has_surface_form	)
+7570_7	is_in_sentence	sentence_7570
+7570_7	det	7570_11
+7570_7	has_surface_form	a
+7570_11	is_in_sentence	sentence_7570
+7570_11	attr	7570_6
+7570_11	has_surface_form	player
+7570_8	is_in_sentence	sentence_7570
+7570_8	amod	7570_11
+7570_8	has_surface_form	former
+7570_9	is_in_sentence	sentence_7570
+7570_9	amod	7570_11
+7570_9	has_surface_form	American
+7570_10	is_in_sentence	sentence_7570
+7570_10	compound	7570_11
+7570_10	has_surface_form	football
+7570_12	is_in_sentence	sentence_7570
+7570_12	cc	7570_11
+7570_12	has_surface_form	and
+7570_13	is_in_sentence	sentence_7570
+7570_13	conj	7570_11
+7570_13	is_entity	coach
+coach	surface_form	coach
+7570_14	is_in_sentence	sentence_7570
+7570_14	punct	7570_6
+7570_14	has_surface_form	.
+7570_15	is_in_sentence	sentence_7570
+7570_15	dep	7570_15
+7570_15	has_surface_form	
+Allen Boren	surface_form	Allen Boren
+Allen Boren	has-type	coach

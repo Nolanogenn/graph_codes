@@ -1,0 +1,124 @@
+31522_0	is_in_sentence	sentence_31522
+31522_0	compound	31522_1
+31522_0	has_surface_form	Miami
+31522_0	part_of_entity	Miami Beach Senior High School
+31522_1	is_in_sentence	sentence_31522
+31522_1	compound	31522_4
+31522_1	has_surface_form	Beach
+31522_1	part_of_entity	Miami Beach Senior High School
+31522_4	is_in_sentence	sentence_31522
+31522_4	nsubj	31522_11
+31522_4	has_surface_form	School
+31522_4	part_of_entity	Miami Beach Senior High School
+31522_2	is_in_sentence	sentence_31522
+31522_2	compound	31522_4
+31522_2	has_surface_form	Senior
+31522_2	part_of_entity	Miami Beach Senior High School
+31522_3	is_in_sentence	sentence_31522
+31522_3	compound	31522_4
+31522_3	has_surface_form	High
+31522_3	part_of_entity	Miami Beach Senior High School
+31522_11	is_in_sentence	sentence_31522
+31522_11	ROOT	31522_11
+31522_11	has_surface_form	is
+31522_5	is_in_sentence	sentence_31522
+31522_5	punct	31522_4
+31522_5	has_surface_form	(
+31522_6	is_in_sentence	sentence_31522
+31522_6	compound	31522_7
+31522_6	has_surface_form	Beach
+31522_7	is_in_sentence	sentence_31522
+31522_7	appos	31522_4
+31522_7	has_surface_form	High
+31522_8	is_in_sentence	sentence_31522
+31522_8	punct	31522_7
+31522_8	has_surface_form	,
+31522_9	is_in_sentence	sentence_31522
+31522_9	npadvmod	31522_7
+31522_9	has_surface_form	MBSH
+31522_10	is_in_sentence	sentence_31522
+31522_10	punct	31522_4
+31522_10	has_surface_form	)
+31522_12	is_in_sentence	sentence_31522
+31522_12	det	31522_14
+31522_12	has_surface_form	a
+31522_14	is_in_sentence	sentence_31522
+31522_14	attr	31522_11
+31522_14	has_surface_form	school
+31522_13	is_in_sentence	sentence_31522
+31522_13	amod	31522_14
+31522_13	has_surface_form	secondary
+31522_15	is_in_sentence	sentence_31522
+31522_15	acl	31522_14
+31522_15	has_surface_form	located
+31522_16	is_in_sentence	sentence_31522
+31522_16	prep	31522_15
+31522_16	has_surface_form	at
+31522_17	is_in_sentence	sentence_31522
+31522_17	pobj	31522_16
+31522_17	has_surface_form	2231
+31522_17	part_of_entity	2231 Prairie Avenue Miami Beach
+31522_18	is_in_sentence	sentence_31522
+31522_18	compound	31522_19
+31522_18	has_surface_form	Prairie
+31522_18	part_of_entity	2231 Prairie Avenue Miami Beach
+31522_19	is_in_sentence	sentence_31522
+31522_19	compound	31522_21
+31522_19	has_surface_form	Avenue
+31522_19	part_of_entity	2231 Prairie Avenue Miami Beach
+31522_21	is_in_sentence	sentence_31522
+31522_21	pobj	31522_16
+31522_21	has_surface_form	Beach
+31522_21	part_of_entity	2231 Prairie Avenue Miami Beach
+31522_20	is_in_sentence	sentence_31522
+31522_20	compound	31522_21
+31522_20	has_surface_form	Miami
+31522_20	part_of_entity	2231 Prairie Avenue Miami Beach
+31522_22	is_in_sentence	sentence_31522
+31522_22	punct	31522_21
+31522_22	has_surface_form	,
+31522_23	is_in_sentence	sentence_31522
+31522_23	appos	31522_21
+31522_23	has_surface_form	Florida
+31522_24	is_in_sentence	sentence_31522
+31522_24	punct	31522_21
+31522_24	has_surface_form	,
+31522_25	is_in_sentence	sentence_31522
+31522_25	prep	31522_11
+31522_25	has_surface_form	across
+31522_26	is_in_sentence	sentence_31522
+31522_26	prep	31522_25
+31522_26	has_surface_form	from
+31522_27	is_in_sentence	sentence_31522
+31522_27	det	31522_31
+31522_27	has_surface_form	the
+31522_31	is_in_sentence	sentence_31522
+31522_31	pobj	31522_26
+31522_31	has_surface_form	Center
+31522_28	is_in_sentence	sentence_31522
+31522_28	compound	31522_29
+31522_28	has_surface_form	Miami
+31522_29	is_in_sentence	sentence_31522
+31522_29	compound	31522_31
+31522_29	has_surface_form	Beach
+31522_30	is_in_sentence	sentence_31522
+31522_30	compound	31522_31
+31522_30	has_surface_form	Convention
+31522_32	is_in_sentence	sentence_31522
+31522_32	cc	31522_31
+31522_32	has_surface_form	and
+31522_33	is_in_sentence	sentence_31522
+31522_33	compound	31522_34
+31522_33	has_surface_form	Botanical
+31522_34	is_in_sentence	sentence_31522
+31522_34	conj	31522_31
+31522_34	has_surface_form	Garden
+31522_35	is_in_sentence	sentence_31522
+31522_35	punct	31522_11
+31522_35	has_surface_form	.
+31522_36	is_in_sentence	sentence_31522
+31522_36	dep	31522_36
+31522_36	has_surface_form	
+Miami Beach Senior High School	surface_form	Miami Beach Senior High School
+Miami Beach Senior High School	is-where	2231 Prairie Avenue Miami Beach
+2231 Prairie Avenue Miami Beach	surface_form	2231 Prairie Avenue Miami Beach

@@ -1,0 +1,63 @@
+11093_0	is_in_sentence	sentence_11093
+11093_0	compound	11093_1
+11093_0	has_surface_form	Chattahoochee
+11093_0	part_of_entity	Chattahoochee Valley Community College
+11093_1	is_in_sentence	sentence_11093
+11093_1	compound	11093_3
+11093_1	has_surface_form	Valley
+11093_1	part_of_entity	Chattahoochee Valley Community College
+11093_3	is_in_sentence	sentence_11093
+11093_3	nsubj	11093_4
+11093_3	has_surface_form	College
+11093_3	part_of_entity	Chattahoochee Valley Community College
+11093_2	is_in_sentence	sentence_11093
+11093_2	compound	11093_3
+11093_2	has_surface_form	Community
+11093_2	part_of_entity	Chattahoochee Valley Community College
+11093_4	is_in_sentence	sentence_11093
+11093_4	ROOT	11093_4
+11093_4	has_surface_form	is
+11093_5	is_in_sentence	sentence_11093
+11093_5	det	11093_7
+11093_5	has_surface_form	a
+11093_7	is_in_sentence	sentence_11093
+11093_7	attr	11093_4
+11093_7	has_surface_form	college
+11093_6	is_in_sentence	sentence_11093
+11093_6	compound	11093_7
+11093_6	has_surface_form	community
+11093_8	is_in_sentence	sentence_11093
+11093_8	prep	11093_7
+11093_8	has_surface_form	in
+11093_9	is_in_sentence	sentence_11093
+11093_9	compound	11093_10
+11093_9	has_surface_form	Phenix
+11093_9	part_of_entity	Phenix City
+11093_10	is_in_sentence	sentence_11093
+11093_10	pobj	11093_8
+11093_10	has_surface_form	City
+11093_10	part_of_entity	Phenix City
+11093_11	is_in_sentence	sentence_11093
+11093_11	punct	11093_10
+11093_11	has_surface_form	,
+11093_12	is_in_sentence	sentence_11093
+11093_12	conj	11093_10
+11093_12	has_surface_form	Alabama
+11093_13	is_in_sentence	sentence_11093
+11093_13	punct	11093_12
+11093_13	has_surface_form	,
+11093_14	is_in_sentence	sentence_11093
+11093_14	compound	11093_15
+11093_14	has_surface_form	United
+11093_15	is_in_sentence	sentence_11093
+11093_15	conj	11093_12
+11093_15	has_surface_form	States
+11093_16	is_in_sentence	sentence_11093
+11093_16	punct	11093_4
+11093_16	has_surface_form	.
+11093_17	is_in_sentence	sentence_11093
+11093_17	dep	11093_4
+11093_17	has_surface_form	
+Chattahoochee Valley Community College	surface_form	Chattahoochee Valley Community College
+Chattahoochee Valley Community College	is-where	Phenix City
+Phenix City	surface_form	Phenix City

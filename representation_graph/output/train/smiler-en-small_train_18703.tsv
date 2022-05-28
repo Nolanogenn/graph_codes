@@ -1,0 +1,90 @@
+18702_0	is_in_sentence	sentence_18702
+18702_0	det	18702_4
+18702_0	has_surface_form	The
+18702_4	is_in_sentence	sentence_18702
+18702_4	nsubj	18702_7
+18702_4	has_surface_form	College
+18702_4	part_of_entity	Florida International University College of Law
+18702_1	is_in_sentence	sentence_18702
+18702_1	compound	18702_3
+18702_1	has_surface_form	Florida
+18702_1	part_of_entity	Florida International University College of Law
+18702_3	is_in_sentence	sentence_18702
+18702_3	compound	18702_4
+18702_3	has_surface_form	University
+18702_3	part_of_entity	Florida International University College of Law
+18702_2	is_in_sentence	sentence_18702
+18702_2	compound	18702_3
+18702_2	has_surface_form	International
+18702_2	part_of_entity	Florida International University College of Law
+18702_7	is_in_sentence	sentence_18702
+18702_7	ROOT	18702_7
+18702_7	has_surface_form	is
+18702_5	is_in_sentence	sentence_18702
+18702_5	prep	18702_4
+18702_5	has_surface_form	of
+18702_5	part_of_entity	Florida International University College of Law
+18702_6	is_in_sentence	sentence_18702
+18702_6	pobj	18702_5
+18702_6	has_surface_form	Law
+18702_6	part_of_entity	Florida International University College of Law
+18702_8	is_in_sentence	sentence_18702
+18702_8	det	18702_10
+18702_8	has_surface_form	the
+18702_10	is_in_sentence	sentence_18702
+18702_10	attr	18702_7
+18702_10	has_surface_form	school
+18702_9	is_in_sentence	sentence_18702
+18702_9	compound	18702_10
+18702_9	has_surface_form	law
+18702_11	is_in_sentence	sentence_18702
+18702_11	prep	18702_10
+18702_11	has_surface_form	of
+18702_12	is_in_sentence	sentence_18702
+18702_12	compound	18702_14
+18702_12	has_surface_form	Florida
+18702_14	is_in_sentence	sentence_18702
+18702_14	pobj	18702_11
+18702_14	has_surface_form	University
+18702_13	is_in_sentence	sentence_18702
+18702_13	compound	18702_14
+18702_13	has_surface_form	International
+18702_15	is_in_sentence	sentence_18702
+18702_15	punct	18702_14
+18702_15	has_surface_form	,
+18702_16	is_in_sentence	sentence_18702
+18702_16	acl	18702_14
+18702_16	has_surface_form	located
+18702_17	is_in_sentence	sentence_18702
+18702_17	prep	18702_16
+18702_17	has_surface_form	in
+18702_18	is_in_sentence	sentence_18702
+18702_18	pobj	18702_17
+18702_18	is_entity	Miami
+Miami	surface_form	Miami
+18702_19	is_in_sentence	sentence_18702
+18702_19	punct	18702_18
+18702_19	has_surface_form	,
+18702_20	is_in_sentence	sentence_18702
+18702_20	conj	18702_18
+18702_20	has_surface_form	Florida
+18702_21	is_in_sentence	sentence_18702
+18702_21	prep	18702_20
+18702_21	has_surface_form	in
+18702_22	is_in_sentence	sentence_18702
+18702_22	det	18702_24
+18702_22	has_surface_form	the
+18702_24	is_in_sentence	sentence_18702
+18702_24	pobj	18702_21
+18702_24	has_surface_form	States
+18702_23	is_in_sentence	sentence_18702
+18702_23	compound	18702_24
+18702_23	has_surface_form	United
+18702_25	is_in_sentence	sentence_18702
+18702_25	punct	18702_7
+18702_25	has_surface_form	.
+18702_26	is_in_sentence	sentence_18702
+18702_26	dep	18702_7
+18702_26	has_surface_form	
+Florida International University College of Law	surface_form	Florida International University College of Law
+Florida International University College of Law	is-where	Miami

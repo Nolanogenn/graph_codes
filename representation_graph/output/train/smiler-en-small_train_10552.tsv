@@ -1,0 +1,53 @@
+10551_0	is_in_sentence	sentence_10551
+10551_0	nsubj	10551_3
+10551_0	has_surface_form	Strings
+10551_0	part_of_entity	Strings of Steel
+10551_3	is_in_sentence	sentence_10551
+10551_3	ROOT	10551_3
+10551_3	has_surface_form	is
+10551_1	is_in_sentence	sentence_10551
+10551_1	prep	10551_0
+10551_1	has_surface_form	of
+10551_1	part_of_entity	Strings of Steel
+10551_2	is_in_sentence	sentence_10551
+10551_2	pobj	10551_1
+10551_2	has_surface_form	Steel
+10551_2	part_of_entity	Strings of Steel
+10551_4	is_in_sentence	sentence_10551
+10551_4	det	10551_8
+10551_4	has_surface_form	a
+10551_8	is_in_sentence	sentence_10551
+10551_8	attr	10551_3
+10551_8	has_surface_form	serial
+10551_5	is_in_sentence	sentence_10551
+10551_5	nummod	10551_7
+10551_5	has_surface_form	1926
+10551_7	is_in_sentence	sentence_10551
+10551_7	compound	10551_8
+10551_7	has_surface_form	film
+10551_6	is_in_sentence	sentence_10551
+10551_6	compound	10551_7
+10551_6	has_surface_form	action
+10551_9	is_in_sentence	sentence_10551
+10551_9	acl	10551_8
+10551_9	has_surface_form	directed
+10551_10	is_in_sentence	sentence_10551
+10551_10	agent	10551_9
+10551_10	has_surface_form	by
+10551_11	is_in_sentence	sentence_10551
+10551_11	compound	10551_12
+10551_11	has_surface_form	Henry
+10551_11	part_of_entity	Henry MacRae
+10551_12	is_in_sentence	sentence_10551
+10551_12	pobj	10551_10
+10551_12	has_surface_form	MacRae
+10551_12	part_of_entity	Henry MacRae
+10551_13	is_in_sentence	sentence_10551
+10551_13	punct	10551_3
+10551_13	has_surface_form	.
+10551_14	is_in_sentence	sentence_10551
+10551_14	dep	10551_14
+10551_14	has_surface_form	
+Strings of Steel	surface_form	Strings of Steel
+Strings of Steel	movie-has-director	Henry MacRae
+Henry MacRae	surface_form	Henry MacRae

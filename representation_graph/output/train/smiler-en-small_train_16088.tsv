@@ -1,0 +1,73 @@
+16087_0	is_in_sentence	sentence_16087
+16087_0	det	16087_2
+16087_0	has_surface_form	The
+16087_2	is_in_sentence	sentence_16087
+16087_2	nsubj	16087_8
+16087_2	has_surface_form	College
+16087_2	part_of_entity	Chandigarh College of Architecture
+16087_1	is_in_sentence	sentence_16087
+16087_1	compound	16087_2
+16087_1	has_surface_form	Chandigarh
+16087_1	part_of_entity	Chandigarh College of Architecture
+16087_8	is_in_sentence	sentence_16087
+16087_8	ROOT	16087_8
+16087_8	has_surface_form	is
+16087_3	is_in_sentence	sentence_16087
+16087_3	prep	16087_2
+16087_3	has_surface_form	of
+16087_3	part_of_entity	Chandigarh College of Architecture
+16087_4	is_in_sentence	sentence_16087
+16087_4	pobj	16087_3
+16087_4	has_surface_form	Architecture
+16087_4	part_of_entity	Chandigarh College of Architecture
+16087_5	is_in_sentence	sentence_16087
+16087_5	punct	16087_2
+16087_5	has_surface_form	(
+16087_6	is_in_sentence	sentence_16087
+16087_6	appos	16087_2
+16087_6	has_surface_form	CCA
+16087_7	is_in_sentence	sentence_16087
+16087_7	punct	16087_6
+16087_7	has_surface_form	)
+16087_9	is_in_sentence	sentence_16087
+16087_9	det	16087_12
+16087_9	has_surface_form	a
+16087_12	is_in_sentence	sentence_16087
+16087_12	attr	16087_8
+16087_12	has_surface_form	education
+16087_10	is_in_sentence	sentence_16087
+16087_10	npadvmod	16087_11
+16087_10	is_entity	college
+16087_11	is_in_sentence	sentence_16087
+16087_11	amod	16087_12
+16087_11	has_surface_form	imparting
+college	surface_form	college
+16087_13	is_in_sentence	sentence_16087
+16087_13	cc	16087_12
+16087_13	has_surface_form	and
+16087_14	is_in_sentence	sentence_16087
+16087_14	conj	16087_12
+16087_14	has_surface_form	research
+16087_15	is_in_sentence	sentence_16087
+16087_15	prep	16087_12
+16087_15	has_surface_form	in
+16087_16	is_in_sentence	sentence_16087
+16087_16	det	16087_17
+16087_16	has_surface_form	the
+16087_17	is_in_sentence	sentence_16087
+16087_17	pobj	16087_15
+16087_17	has_surface_form	field
+16087_18	is_in_sentence	sentence_16087
+16087_18	prep	16087_17
+16087_18	has_surface_form	of
+16087_19	is_in_sentence	sentence_16087
+16087_19	pobj	16087_18
+16087_19	has_surface_form	architecture
+16087_20	is_in_sentence	sentence_16087
+16087_20	punct	16087_8
+16087_20	has_surface_form	.
+16087_21	is_in_sentence	sentence_16087
+16087_21	dep	16087_21
+16087_21	has_surface_form	
+Chandigarh College of Architecture	surface_form	Chandigarh College of Architecture
+Chandigarh College of Architecture	has-type	college

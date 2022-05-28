@@ -1,0 +1,55 @@
+857_0	is_in_sentence	sentence_857
+857_0	det	857_2
+857_0	has_surface_form	The
+857_2	is_in_sentence	sentence_857
+857_2	nsubj	857_3
+857_2	has_surface_form	Library
+857_2	part_of_entity	Rizal Library
+857_1	is_in_sentence	sentence_857
+857_1	compound	857_2
+857_1	has_surface_form	Rizal
+857_1	part_of_entity	Rizal Library
+857_3	is_in_sentence	sentence_857
+857_3	ROOT	857_3
+857_3	has_surface_form	is
+857_4	is_in_sentence	sentence_857
+857_4	det	857_7
+857_4	has_surface_form	the
+857_7	is_in_sentence	sentence_857
+857_7	attr	857_3
+857_7	has_surface_form	library
+857_7	part_of_entity	university library
+857_5	is_in_sentence	sentence_857
+857_5	amod	857_7
+857_5	has_surface_form	main
+857_6	is_in_sentence	sentence_857
+857_6	compound	857_7
+857_6	has_surface_form	university
+857_6	part_of_entity	university library
+857_8	is_in_sentence	sentence_857
+857_8	prep	857_7
+857_8	has_surface_form	of
+857_9	is_in_sentence	sentence_857
+857_9	det	857_13
+857_9	has_surface_form	the
+857_13	is_in_sentence	sentence_857
+857_13	pobj	857_8
+857_13	has_surface_form	University
+857_10	is_in_sentence	sentence_857
+857_10	compound	857_13
+857_10	has_surface_form	Ateneo
+857_11	is_in_sentence	sentence_857
+857_11	nmod	857_13
+857_11	has_surface_form	de
+857_12	is_in_sentence	sentence_857
+857_12	compound	857_13
+857_12	has_surface_form	Manila
+857_14	is_in_sentence	sentence_857
+857_14	punct	857_3
+857_14	has_surface_form	.
+857_15	is_in_sentence	sentence_857
+857_15	dep	857_3
+857_15	has_surface_form	
+Rizal Library	surface_form	Rizal Library
+Rizal Library	has-type	university library
+university library	surface_form	university library

@@ -1,0 +1,65 @@
+8063_0	is_in_sentence	sentence_8063
+8063_0	compound	8063_1
+8063_0	has_surface_form	Diane
+8063_0	part_of_entity	Diane Gibson
+8063_1	is_in_sentence	sentence_8063
+8063_1	nsubj	8063_9
+8063_1	has_surface_form	Gibson
+8063_1	part_of_entity	Diane Gibson
+8063_9	is_in_sentence	sentence_8063
+8063_9	ROOT	8063_9
+8063_9	has_surface_form	accompanied
+8063_2	is_in_sentence	sentence_8063
+8063_2	punct	8063_1
+8063_2	has_surface_form	,
+8063_3	is_in_sentence	sentence_8063
+8063_3	poss	8063_5
+8063_3	is_entity	Debbie
+8063_5	is_in_sentence	sentence_8063
+8063_5	appos	8063_1
+8063_5	has_surface_form	mother
+Debbie	surface_form	Debbie
+8063_4	is_in_sentence	sentence_8063
+8063_4	case	8063_3
+8063_4	has_surface_form	's
+8063_6	is_in_sentence	sentence_8063
+8063_6	cc	8063_5
+8063_6	has_surface_form	and
+8063_7	is_in_sentence	sentence_8063
+8063_7	conj	8063_5
+8063_7	has_surface_form	manager
+8063_8	is_in_sentence	sentence_8063
+8063_8	punct	8063_1
+8063_8	has_surface_form	,
+8063_10	is_in_sentence	sentence_8063
+8063_10	poss	8063_11
+8063_10	has_surface_form	her
+8063_11	is_in_sentence	sentence_8063
+8063_11	dobj	8063_9
+8063_11	has_surface_form	daughter
+8063_12	is_in_sentence	sentence_8063
+8063_12	prep	8063_9
+8063_12	has_surface_form	on
+8063_13	is_in_sentence	sentence_8063
+8063_13	pobj	8063_12
+8063_13	has_surface_form	many
+8063_14	is_in_sentence	sentence_8063
+8063_14	prep	8063_13
+8063_14	has_surface_form	of
+8063_15	is_in_sentence	sentence_8063
+8063_15	det	8063_17
+8063_15	has_surface_form	these
+8063_17	is_in_sentence	sentence_8063
+8063_17	pobj	8063_14
+8063_17	has_surface_form	dates
+8063_16	is_in_sentence	sentence_8063
+8063_16	compound	8063_17
+8063_16	has_surface_form	track
+8063_18	is_in_sentence	sentence_8063
+8063_18	punct	8063_9
+8063_18	has_surface_form	.
+8063_19	is_in_sentence	sentence_8063
+8063_19	dep	8063_19
+8063_19	has_surface_form	
+Diane Gibson	surface_form	Diane Gibson
+Diane Gibson	has-child	Debbie

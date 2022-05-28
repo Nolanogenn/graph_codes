@@ -1,0 +1,87 @@
+4530_0	is_in_sentence	sentence_4530
+4530_0	compound	4530_1
+4530_0	has_surface_form	L'Agnese
+4530_0	part_of_entity	L'Agnese va a morire
+4530_1	is_in_sentence	sentence_4530
+4530_1	dep	4530_3
+4530_1	has_surface_form	va
+4530_1	part_of_entity	L'Agnese va a morire
+4530_3	is_in_sentence	sentence_4530
+4530_3	nsubj	4530_14
+4530_3	has_surface_form	morire
+4530_3	part_of_entity	L'Agnese va a morire
+4530_2	is_in_sentence	sentence_4530
+4530_2	det	4530_3
+4530_2	has_surface_form	a
+4530_2	part_of_entity	L'Agnese va a morire
+4530_14	is_in_sentence	sentence_4530
+4530_14	ROOT	4530_14
+4530_14	has_surface_form	is
+4530_4	is_in_sentence	sentence_4530
+4530_4	punct	4530_3
+4530_4	has_surface_form	,
+4530_5	is_in_sentence	sentence_4530
+4530_5	advmod	4530_6
+4530_5	has_surface_form	internationally
+4530_6	is_in_sentence	sentence_4530
+4530_6	acl	4530_3
+4530_6	has_surface_form	released
+4530_7	is_in_sentence	sentence_4530
+4530_7	prep	4530_6
+4530_7	has_surface_form	as
+4530_8	is_in_sentence	sentence_4530
+4530_8	cc	4530_3
+4530_8	has_surface_form	And
+4530_9	is_in_sentence	sentence_4530
+4530_9	compound	4530_10
+4530_9	has_surface_form	Agnes
+4530_10	is_in_sentence	sentence_4530
+4530_10	appos	4530_3
+4530_10	has_surface_form	Chose
+4530_11	is_in_sentence	sentence_4530
+4530_11	aux	4530_12
+4530_11	has_surface_form	to
+4530_12	is_in_sentence	sentence_4530
+4530_12	xcomp	4530_10
+4530_12	has_surface_form	Die
+4530_13	is_in_sentence	sentence_4530
+4530_13	punct	4530_14
+4530_13	has_surface_form	,
+4530_15	is_in_sentence	sentence_4530
+4530_15	det	4530_19
+4530_15	has_surface_form	a
+4530_19	is_in_sentence	sentence_4530
+4530_19	attr	4530_14
+4530_19	has_surface_form	film
+4530_16	is_in_sentence	sentence_4530
+4530_16	nummod	4530_19
+4530_16	has_surface_form	1976
+4530_17	is_in_sentence	sentence_4530
+4530_17	amod	4530_19
+4530_17	has_surface_form	Italian
+4530_18	is_in_sentence	sentence_4530
+4530_18	compound	4530_19
+4530_18	has_surface_form	drama
+4530_20	is_in_sentence	sentence_4530
+4530_20	acl	4530_19
+4530_20	has_surface_form	directed
+4530_21	is_in_sentence	sentence_4530
+4530_21	agent	4530_20
+4530_21	has_surface_form	by
+4530_22	is_in_sentence	sentence_4530
+4530_22	compound	4530_23
+4530_22	has_surface_form	Giuliano
+4530_22	part_of_entity	Giuliano Montaldo
+4530_23	is_in_sentence	sentence_4530
+4530_23	pobj	4530_21
+4530_23	has_surface_form	Montaldo
+4530_23	part_of_entity	Giuliano Montaldo
+4530_24	is_in_sentence	sentence_4530
+4530_24	punct	4530_14
+4530_24	has_surface_form	.
+4530_25	is_in_sentence	sentence_4530
+4530_25	dep	4530_14
+4530_25	has_surface_form	
+L'Agnese va a morire	surface_form	L'Agnese va a morire
+L'Agnese va a morire	movie-has-director	Giuliano Montaldo
+Giuliano Montaldo	surface_form	Giuliano Montaldo

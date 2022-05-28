@@ -1,0 +1,68 @@
+32543_0	is_in_sentence	sentence_32543
+32543_0	compound	32543_1
+32543_0	has_surface_form	Andrea
+32543_0	part_of_entity	Andrea Seigel
+32543_1	is_in_sentence	sentence_32543
+32543_1	nsubj	32543_13
+32543_1	has_surface_form	Seigel
+32543_1	part_of_entity	Andrea Seigel
+32543_13	is_in_sentence	sentence_32543
+32543_13	ROOT	32543_13
+32543_13	has_surface_form	is
+32543_2	is_in_sentence	sentence_32543
+32543_2	punct	32543_1
+32543_2	has_surface_form	(
+32543_3	is_in_sentence	sentence_32543
+32543_3	acl	32543_1
+32543_3	has_surface_form	born
+32543_4	is_in_sentence	sentence_32543
+32543_4	npadvmod	32543_3
+32543_4	has_surface_form	October
+32543_5	is_in_sentence	sentence_32543
+32543_5	nummod	32543_4
+32543_5	has_surface_form	28
+32543_6	is_in_sentence	sentence_32543
+32543_6	punct	32543_4
+32543_6	has_surface_form	,
+32543_7	is_in_sentence	sentence_32543
+32543_7	nummod	32543_4
+32543_7	has_surface_form	1979
+32543_8	is_in_sentence	sentence_32543
+32543_8	prep	32543_3
+32543_8	has_surface_form	in
+32543_9	is_in_sentence	sentence_32543
+32543_9	pobj	32543_8
+32543_9	has_surface_form	Anaheim
+32543_10	is_in_sentence	sentence_32543
+32543_10	punct	32543_9
+32543_10	has_surface_form	,
+32543_11	is_in_sentence	sentence_32543
+32543_11	appos	32543_9
+32543_11	has_surface_form	California
+32543_12	is_in_sentence	sentence_32543
+32543_12	punct	32543_9
+32543_12	has_surface_form	)
+32543_14	is_in_sentence	sentence_32543
+32543_14	det	32543_16
+32543_14	has_surface_form	an
+32543_16	is_in_sentence	sentence_32543
+32543_16	attr	32543_13
+32543_16	has_surface_form	novelist
+32543_15	is_in_sentence	sentence_32543
+32543_15	amod	32543_16
+32543_15	has_surface_form	American
+32543_17	is_in_sentence	sentence_32543
+32543_17	cc	32543_16
+32543_17	has_surface_form	and
+32543_18	is_in_sentence	sentence_32543
+32543_18	conj	32543_16
+32543_18	has_surface_form	screenwriter
+32543_19	is_in_sentence	sentence_32543
+32543_19	punct	32543_13
+32543_19	has_surface_form	.
+32543_20	is_in_sentence	sentence_32543
+32543_20	dep	32543_20
+32543_20	has_surface_form	
+Andrea Seigel	surface_form	Andrea Seigel
+Andrea Seigel	birth-place	Anaheim, California
+Anaheim, California	surface_form	Anaheim, California

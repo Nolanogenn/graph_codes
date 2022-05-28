@@ -1,0 +1,73 @@
+13251_0	is_in_sentence	sentence_13251
+13251_0	compound	13251_1
+13251_0	has_surface_form	Steve
+13251_0	part_of_entity	Steve Kolander
+13251_1	is_in_sentence	sentence_13251
+13251_1	nsubj	13251_14
+13251_1	has_surface_form	Kolander
+13251_1	part_of_entity	Steve Kolander
+13251_14	is_in_sentence	sentence_13251
+13251_14	ROOT	13251_14
+13251_14	has_surface_form	is
+13251_2	is_in_sentence	sentence_13251
+13251_2	punct	13251_3
+13251_2	has_surface_form	(
+13251_3	is_in_sentence	sentence_13251
+13251_3	relcl	13251_1
+13251_3	has_surface_form	born
+13251_4	is_in_sentence	sentence_13251
+13251_4	npadvmod	13251_3
+13251_4	has_surface_form	November
+13251_5	is_in_sentence	sentence_13251
+13251_5	nummod	13251_4
+13251_5	has_surface_form	15
+13251_6	is_in_sentence	sentence_13251
+13251_6	punct	13251_4
+13251_6	has_surface_form	,
+13251_7	is_in_sentence	sentence_13251
+13251_7	nummod	13251_4
+13251_7	has_surface_form	1961
+13251_8	is_in_sentence	sentence_13251
+13251_8	prep	13251_3
+13251_8	has_surface_form	in
+13251_9	is_in_sentence	sentence_13251
+13251_9	compound	13251_10
+13251_9	has_surface_form	Lake
+13251_10	is_in_sentence	sentence_13251
+13251_10	pobj	13251_8
+13251_10	has_surface_form	Charles
+13251_11	is_in_sentence	sentence_13251
+13251_11	punct	13251_10
+13251_11	has_surface_form	,
+13251_12	is_in_sentence	sentence_13251
+13251_12	appos	13251_10
+13251_12	has_surface_form	Louisiana
+13251_13	is_in_sentence	sentence_13251
+13251_13	punct	13251_10
+13251_13	has_surface_form	)
+13251_15	is_in_sentence	sentence_13251
+13251_15	det	13251_19
+13251_15	has_surface_form	an
+13251_19	is_in_sentence	sentence_13251
+13251_19	attr	13251_14
+13251_19	has_surface_form	artist
+13251_16	is_in_sentence	sentence_13251
+13251_16	amod	13251_19
+13251_16	has_surface_form	American
+13251_17	is_in_sentence	sentence_13251
+13251_17	compound	13251_18
+13251_17	has_surface_form	country
+13251_17	part_of_entity	country music
+13251_18	is_in_sentence	sentence_13251
+13251_18	compound	13251_19
+13251_18	has_surface_form	music
+13251_18	part_of_entity	country music
+13251_20	is_in_sentence	sentence_13251
+13251_20	punct	13251_14
+13251_20	has_surface_form	.
+13251_21	is_in_sentence	sentence_13251
+13251_21	dep	13251_14
+13251_21	has_surface_form	
+Steve Kolander	surface_form	Steve Kolander
+Steve Kolander	has-genre	country music
+country music	surface_form	country music

@@ -1,0 +1,118 @@
+16724_0	is_in_sentence	sentence_16724
+16724_0	compound	16724_2
+16724_0	has_surface_form	Zhejiang
+16724_0	part_of_entity	Zhejiang Gongshang University
+16724_2	is_in_sentence	sentence_16724
+16724_2	ROOT	16724_2
+16724_2	has_surface_form	University
+16724_2	part_of_entity	Zhejiang Gongshang University
+16724_1	is_in_sentence	sentence_16724
+16724_1	compound	16724_2
+16724_1	has_surface_form	Gongshang
+16724_1	part_of_entity	Zhejiang Gongshang University
+16724_3	is_in_sentence	sentence_16724
+16724_3	punct	16724_8
+16724_3	has_surface_form	(
+16724_8	is_in_sentence	sentence_16724
+16724_8	appos	16724_2
+16724_8	has_surface_form	pinyin
+16724_4	is_in_sentence	sentence_16724
+16724_4	nsubj	16724_3
+16724_4	has_surface_form	Chinese
+16724_5	is_in_sentence	sentence_16724
+16724_5	punct	16724_4
+16724_5	has_surface_form	:
+16724_6	is_in_sentence	sentence_16724
+16724_6	appos	16724_4
+16724_6	has_surface_form	浙江工商大学
+16724_7	is_in_sentence	sentence_16724
+16724_7	punct	16724_6
+16724_7	has_surface_form	;
+16724_9	is_in_sentence	sentence_16724
+16724_9	punct	16724_8
+16724_9	has_surface_form	:
+16724_10	is_in_sentence	sentence_16724
+16724_10	compound	16724_12
+16724_10	has_surface_form	Zhèjiāng
+16724_12	is_in_sentence	sentence_16724
+16724_12	nsubj	16724_20
+16724_12	has_surface_form	Dàxué
+16724_11	is_in_sentence	sentence_16724
+16724_11	compound	16724_12
+16724_11	has_surface_form	Gōngshāng
+16724_20	is_in_sentence	sentence_16724
+16724_20	ROOT	16724_20
+16724_20	has_surface_form	is
+16724_13	is_in_sentence	sentence_16724
+16724_13	punct	16724_12
+16724_13	has_surface_form	;
+16724_14	is_in_sentence	sentence_16724
+16724_14	acl	16724_12
+16724_14	has_surface_form	abbreviated
+16724_15	is_in_sentence	sentence_16724
+16724_15	prep	16724_14
+16724_15	has_surface_form	as
+16724_16	is_in_sentence	sentence_16724
+16724_16	pobj	16724_15
+16724_16	has_surface_form	ZJGSU
+16724_17	is_in_sentence	sentence_16724
+16724_17	cc	16724_16
+16724_17	has_surface_form	or
+16724_18	is_in_sentence	sentence_16724
+16724_18	conj	16724_16
+16724_18	has_surface_form	ZJSU
+16724_19	is_in_sentence	sentence_16724
+16724_19	punct	16724_14
+16724_19	has_surface_form	)
+16724_21	is_in_sentence	sentence_16724
+16724_21	det	16724_25
+16724_21	has_surface_form	a
+16724_25	is_in_sentence	sentence_16724
+16724_25	attr	16724_20
+16724_25	has_surface_form	institution
+16724_25	part_of_entity	public higher educational institution
+16724_22	is_in_sentence	sentence_16724
+16724_22	advmod	16724_23
+16724_22	has_surface_form	public
+16724_22	part_of_entity	public higher educational institution
+16724_23	is_in_sentence	sentence_16724
+16724_23	amod	16724_25
+16724_23	has_surface_form	higher
+16724_23	part_of_entity	public higher educational institution
+16724_24	is_in_sentence	sentence_16724
+16724_24	amod	16724_25
+16724_24	has_surface_form	educational
+16724_24	part_of_entity	public higher educational institution
+16724_26	is_in_sentence	sentence_16724
+16724_26	nsubj	16724_27
+16724_26	has_surface_form	that
+16724_27	is_in_sentence	sentence_16724
+16724_27	relcl	16724_25
+16724_27	has_surface_form	focuses
+16724_28	is_in_sentence	sentence_16724
+16724_28	prep	16724_27
+16724_28	has_surface_form	on
+16724_29	is_in_sentence	sentence_16724
+16724_29	det	16724_30
+16724_29	has_surface_form	the
+16724_30	is_in_sentence	sentence_16724
+16724_30	pobj	16724_28
+16724_30	has_surface_form	fields
+16724_31	is_in_sentence	sentence_16724
+16724_31	prep	16724_30
+16724_31	has_surface_form	of
+16724_32	is_in_sentence	sentence_16724
+16724_32	amod	16724_33
+16724_32	has_surface_form	social
+16724_33	is_in_sentence	sentence_16724
+16724_33	pobj	16724_31
+16724_33	has_surface_form	science
+16724_34	is_in_sentence	sentence_16724
+16724_34	punct	16724_20
+16724_34	has_surface_form	.
+16724_35	is_in_sentence	sentence_16724
+16724_35	dep	16724_35
+16724_35	has_surface_form	
+Zhejiang Gongshang University	surface_form	Zhejiang Gongshang University
+Zhejiang Gongshang University	has-type	public higher educational institution
+public higher educational institution	surface_form	public higher educational institution

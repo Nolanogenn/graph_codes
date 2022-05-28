@@ -1,0 +1,68 @@
+6486_0	is_in_sentence	sentence_6486
+6486_0	det	6486_2
+6486_0	has_surface_form	A
+6486_0	part_of_entity	A Woman Misunderstood
+6486_2	is_in_sentence	sentence_6486
+6486_2	nsubj	6486_3
+6486_2	has_surface_form	Misunderstood
+6486_2	part_of_entity	A Woman Misunderstood
+6486_1	is_in_sentence	sentence_6486
+6486_1	compound	6486_2
+6486_1	has_surface_form	Woman
+6486_1	part_of_entity	A Woman Misunderstood
+6486_3	is_in_sentence	sentence_6486
+6486_3	ROOT	6486_3
+6486_3	has_surface_form	is
+6486_4	is_in_sentence	sentence_6486
+6486_4	det	6486_10
+6486_4	has_surface_form	a
+6486_10	is_in_sentence	sentence_6486
+6486_10	attr	6486_3
+6486_10	has_surface_form	film
+6486_5	is_in_sentence	sentence_6486
+6486_5	nummod	6486_10
+6486_5	has_surface_form	1921
+6486_6	is_in_sentence	sentence_6486
+6486_6	amod	6486_10
+6486_6	has_surface_form	British
+6486_7	is_in_sentence	sentence_6486
+6486_7	amod	6486_10
+6486_7	has_surface_form	silent
+6486_8	is_in_sentence	sentence_6486
+6486_8	amod	6486_9
+6486_8	has_surface_form	short
+6486_9	is_in_sentence	sentence_6486
+6486_9	compound	6486_10
+6486_9	has_surface_form	drama
+6486_11	is_in_sentence	sentence_6486
+6486_11	acl	6486_10
+6486_11	has_surface_form	directed
+6486_12	is_in_sentence	sentence_6486
+6486_12	agent	6486_11
+6486_12	has_surface_form	by
+6486_13	is_in_sentence	sentence_6486
+6486_13	compound	6486_14
+6486_13	has_surface_form	Jack
+6486_13	part_of_entity	Jack Raymond
+6486_14	is_in_sentence	sentence_6486
+6486_14	pobj	6486_12
+6486_14	has_surface_form	Raymond
+6486_14	part_of_entity	Jack Raymond
+6486_15	is_in_sentence	sentence_6486
+6486_15	cc	6486_14
+6486_15	has_surface_form	and
+6486_16	is_in_sentence	sentence_6486
+6486_16	compound	6486_17
+6486_16	has_surface_form	Fred
+6486_17	is_in_sentence	sentence_6486
+6486_17	conj	6486_14
+6486_17	has_surface_form	Paul
+6486_18	is_in_sentence	sentence_6486
+6486_18	punct	6486_3
+6486_18	has_surface_form	.
+6486_19	is_in_sentence	sentence_6486
+6486_19	dep	6486_19
+6486_19	has_surface_form	
+A Woman Misunderstood	surface_form	A Woman Misunderstood
+A Woman Misunderstood	movie-has-director	Jack Raymond
+Jack Raymond	surface_form	Jack Raymond

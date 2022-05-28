@@ -1,0 +1,72 @@
+16279_0	is_in_sentence	sentence_16279
+16279_0	compound	16279_2
+16279_0	has_surface_form	Chubu
+16279_0	part_of_entity	Chubu Gakuin University
+16279_2	is_in_sentence	sentence_16279
+16279_2	nsubj	16279_10
+16279_2	has_surface_form	University
+16279_2	part_of_entity	Chubu Gakuin University
+16279_1	is_in_sentence	sentence_16279
+16279_1	compound	16279_2
+16279_1	has_surface_form	Gakuin
+16279_1	part_of_entity	Chubu Gakuin University
+16279_10	is_in_sentence	sentence_16279
+16279_10	ROOT	16279_10
+16279_10	has_surface_form	is
+16279_3	is_in_sentence	sentence_16279
+16279_3	punct	16279_4
+16279_3	has_surface_form	(
+16279_4	is_in_sentence	sentence_16279
+16279_4	appos	16279_2
+16279_4	has_surface_form	中部学院大学
+16279_5	is_in_sentence	sentence_16279
+16279_5	punct	16279_4
+16279_5	has_surface_form	,
+16279_6	is_in_sentence	sentence_16279
+16279_6	compound	16279_8
+16279_6	has_surface_form	Chūbu
+16279_8	is_in_sentence	sentence_16279
+16279_8	appos	16279_4
+16279_8	has_surface_form	daigaku
+16279_7	is_in_sentence	sentence_16279
+16279_7	compound	16279_8
+16279_7	has_surface_form	gakuin
+16279_9	is_in_sentence	sentence_16279
+16279_9	punct	16279_4
+16279_9	has_surface_form	)
+16279_11	is_in_sentence	sentence_16279
+16279_11	det	16279_13
+16279_11	has_surface_form	a
+16279_13	is_in_sentence	sentence_16279
+16279_13	attr	16279_10
+16279_13	has_surface_form	university
+16279_12	is_in_sentence	sentence_16279
+16279_12	amod	16279_13
+16279_12	has_surface_form	private
+16279_14	is_in_sentence	sentence_16279
+16279_14	prep	16279_13
+16279_14	has_surface_form	at
+16279_15	is_in_sentence	sentence_16279
+16279_15	pobj	16279_14
+16279_15	has_surface_form	Seki
+16279_16	is_in_sentence	sentence_16279
+16279_16	punct	16279_15
+16279_16	has_surface_form	,
+16279_17	is_in_sentence	sentence_16279
+16279_17	conj	16279_15
+16279_17	has_surface_form	Gifu
+16279_18	is_in_sentence	sentence_16279
+16279_18	punct	16279_17
+16279_18	has_surface_form	,
+16279_19	is_in_sentence	sentence_16279
+16279_19	npadvmod	16279_17
+16279_19	has_surface_form	Japan
+16279_20	is_in_sentence	sentence_16279
+16279_20	punct	16279_10
+16279_20	has_surface_form	.
+16279_21	is_in_sentence	sentence_16279
+16279_21	dep	16279_10
+16279_21	has_surface_form	
+Chubu Gakuin University	surface_form	Chubu Gakuin University
+Chubu Gakuin University	is-where	Seki, Gifu
+Seki, Gifu	surface_form	Seki, Gifu

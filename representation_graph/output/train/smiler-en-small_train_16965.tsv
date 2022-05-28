@@ -1,0 +1,72 @@
+16964_0	is_in_sentence	sentence_16964
+16964_0	compound	16964_1
+16964_0	has_surface_form	Maja
+16964_0	part_of_entity	Maja Herman Sekulić
+16964_1	is_in_sentence	sentence_16964
+16964_1	compound	16964_2
+16964_1	has_surface_form	Herman
+16964_1	part_of_entity	Maja Herman Sekulić
+16964_2	is_in_sentence	sentence_16964
+16964_2	nsubj	16964_10
+16964_2	has_surface_form	Sekulić
+16964_2	part_of_entity	Maja Herman Sekulić
+16964_10	is_in_sentence	sentence_16964
+16964_10	ROOT	16964_10
+16964_10	has_surface_form	is
+16964_3	is_in_sentence	sentence_16964
+16964_3	punct	16964_2
+16964_3	has_surface_form	(
+16964_4	is_in_sentence	sentence_16964
+16964_4	acl	16964_2
+16964_4	has_surface_form	born
+16964_5	is_in_sentence	sentence_16964
+16964_5	npadvmod	16964_4
+16964_5	has_surface_form	February
+16964_6	is_in_sentence	sentence_16964
+16964_6	nummod	16964_5
+16964_6	has_surface_form	17
+16964_7	is_in_sentence	sentence_16964
+16964_7	punct	16964_5
+16964_7	has_surface_form	,
+16964_8	is_in_sentence	sentence_16964
+16964_8	nummod	16964_5
+16964_8	has_surface_form	1949
+16964_9	is_in_sentence	sentence_16964
+16964_9	punct	16964_2
+16964_9	has_surface_form	)
+16964_11	is_in_sentence	sentence_16964
+16964_11	det	16964_13
+16964_11	has_surface_form	a
+16964_13	is_in_sentence	sentence_16964
+16964_13	attr	16964_10
+16964_13	has_surface_form	poet
+16964_12	is_in_sentence	sentence_16964
+16964_12	amod	16964_13
+16964_12	has_surface_form	Serbian
+16964_14	is_in_sentence	sentence_16964
+16964_14	punct	16964_13
+16964_14	has_surface_form	,
+16964_15	is_in_sentence	sentence_16964
+16964_15	conj	16964_13
+16964_15	has_surface_form	novelist
+16964_16	is_in_sentence	sentence_16964
+16964_16	punct	16964_15
+16964_16	has_surface_form	,
+16964_17	is_in_sentence	sentence_16964
+16964_17	conj	16964_15
+16964_17	has_surface_form	essayist
+16964_18	is_in_sentence	sentence_16964
+16964_18	cc	16964_17
+16964_18	has_surface_form	and
+16964_19	is_in_sentence	sentence_16964
+16964_19	conj	16964_17
+16964_19	is_entity	translator
+translator	surface_form	translator
+16964_20	is_in_sentence	sentence_16964
+16964_20	punct	16964_10
+16964_20	has_surface_form	.
+16964_21	is_in_sentence	sentence_16964
+16964_21	dep	16964_21
+16964_21	has_surface_form	
+Maja Herman Sekulić	surface_form	Maja Herman Sekulić
+Maja Herman Sekulić	has-occupation	translator

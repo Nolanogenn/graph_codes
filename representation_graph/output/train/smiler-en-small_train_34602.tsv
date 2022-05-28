@@ -1,0 +1,70 @@
+34601_0	is_in_sentence	sentence_34601
+34601_0	compound	34601_1
+34601_0	has_surface_form	Rick
+34601_0	part_of_entity	Rick Willis
+34601_1	is_in_sentence	sentence_34601
+34601_1	nsubj	34601_9
+34601_1	has_surface_form	Willis
+34601_1	part_of_entity	Rick Willis
+34601_9	is_in_sentence	sentence_34601
+34601_9	ROOT	34601_9
+34601_9	has_surface_form	is
+34601_2	is_in_sentence	sentence_34601
+34601_2	punct	34601_1
+34601_2	has_surface_form	(
+34601_3	is_in_sentence	sentence_34601
+34601_3	acl	34601_1
+34601_3	has_surface_form	born
+34601_4	is_in_sentence	sentence_34601
+34601_4	npadvmod	34601_3
+34601_4	has_surface_form	February
+34601_5	is_in_sentence	sentence_34601
+34601_5	nummod	34601_4
+34601_5	has_surface_form	4
+34601_6	is_in_sentence	sentence_34601
+34601_6	punct	34601_4
+34601_6	has_surface_form	,
+34601_7	is_in_sentence	sentence_34601
+34601_7	nummod	34601_4
+34601_7	has_surface_form	1966
+34601_8	is_in_sentence	sentence_34601
+34601_8	punct	34601_1
+34601_8	has_surface_form	)
+34601_10	is_in_sentence	sentence_34601
+34601_10	det	34601_12
+34601_10	has_surface_form	an
+34601_12	is_in_sentence	sentence_34601
+34601_12	attr	34601_9
+34601_12	has_surface_form	football
+34601_11	is_in_sentence	sentence_34601
+34601_11	amod	34601_12
+34601_11	has_surface_form	American
+34601_13	is_in_sentence	sentence_34601
+34601_13	punct	34601_12
+34601_13	has_surface_form	,
+34601_14	is_in_sentence	sentence_34601
+34601_14	conj	34601_12
+34601_14	has_surface_form	baseball
+34601_15	is_in_sentence	sentence_34601
+34601_15	punct	34601_14
+34601_15	has_surface_form	,
+34601_16	is_in_sentence	sentence_34601
+34601_16	cc	34601_14
+34601_16	has_surface_form	and
+34601_17	is_in_sentence	sentence_34601
+34601_17	compound	34601_18
+34601_17	has_surface_form	softball
+34601_17	part_of_entity	softball coach
+34601_18	is_in_sentence	sentence_34601
+34601_18	conj	34601_14
+34601_18	has_surface_form	coach
+34601_18	part_of_entity	softball coach
+34601_19	is_in_sentence	sentence_34601
+34601_19	punct	34601_9
+34601_19	has_surface_form	.
+34601_20	is_in_sentence	sentence_34601
+34601_20	dep	34601_20
+34601_20	has_surface_form	
+Rick Willis	surface_form	Rick Willis
+Rick Willis	has-type	softball coach
+softball coach	surface_form	softball coach

@@ -1,0 +1,61 @@
+10534_0	is_in_sentence	sentence_10534
+10534_0	compound	10534_1
+10534_0	has_surface_form	Sam
+10534_0	part_of_entity	Sam Moniac
+10534_1	is_in_sentence	sentence_10534
+10534_1	nsubj	10534_2
+10534_1	has_surface_form	Moniac
+10534_1	part_of_entity	Sam Moniac
+10534_2	is_in_sentence	sentence_10534
+10534_2	ROOT	10534_2
+10534_2	has_surface_form	was
+10534_3	is_in_sentence	sentence_10534
+10534_3	det	10534_4
+10534_3	has_surface_form	the
+10534_4	is_in_sentence	sentence_10534
+10534_4	attr	10534_2
+10534_4	has_surface_form	brother
+10534_5	is_in_sentence	sentence_10534
+10534_5	prep	10534_4
+10534_5	has_surface_form	in
+10534_6	is_in_sentence	sentence_10534
+10534_6	pobj	10534_5
+10534_6	has_surface_form	law
+10534_7	is_in_sentence	sentence_10534
+10534_7	prep	10534_6
+10534_7	has_surface_form	of
+10534_8	is_in_sentence	sentence_10534
+10534_8	compound	10534_9
+10534_8	has_surface_form	William
+10534_9	is_in_sentence	sentence_10534
+10534_9	pobj	10534_7
+10534_9	has_surface_form	Weatherford
+10534_10	is_in_sentence	sentence_10534
+10534_10	cc	10534_9
+10534_10	has_surface_form	and
+10534_11	is_in_sentence	sentence_10534
+10534_11	det	10534_12
+10534_11	has_surface_form	the
+10534_12	is_in_sentence	sentence_10534
+10534_12	conj	10534_9
+10534_12	has_surface_form	father
+10534_13	is_in_sentence	sentence_10534
+10534_13	prep	10534_12
+10534_13	has_surface_form	of
+10534_14	is_in_sentence	sentence_10534
+10534_14	compound	10534_15
+10534_14	has_surface_form	David
+10534_14	part_of_entity	David Moniac
+10534_15	is_in_sentence	sentence_10534
+10534_15	pobj	10534_13
+10534_15	has_surface_form	Moniac
+10534_15	part_of_entity	David Moniac
+10534_16	is_in_sentence	sentence_10534
+10534_16	punct	10534_2
+10534_16	has_surface_form	.
+10534_17	is_in_sentence	sentence_10534
+10534_17	dep	10534_17
+10534_17	has_surface_form	
+Sam Moniac	surface_form	Sam Moniac
+Sam Moniac	has-child	David Moniac
+David Moniac	surface_form	David Moniac

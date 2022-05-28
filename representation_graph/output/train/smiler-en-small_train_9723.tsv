@@ -1,0 +1,115 @@
+9722_0	is_in_sentence	sentence_9722
+9722_0	det	9722_1
+9722_0	has_surface_form	A
+9722_0	part_of_entity	A Man with Heart
+9722_1	is_in_sentence	sentence_9722
+9722_1	nsubj	9722_9
+9722_1	has_surface_form	Man
+9722_1	part_of_entity	A Man with Heart
+9722_9	is_in_sentence	sentence_9722
+9722_9	ROOT	9722_9
+9722_9	has_surface_form	mit
+9722_2	is_in_sentence	sentence_9722
+9722_2	prep	9722_1
+9722_2	has_surface_form	with
+9722_2	part_of_entity	A Man with Heart
+9722_3	is_in_sentence	sentence_9722
+9722_3	pobj	9722_2
+9722_3	has_surface_form	Heart
+9722_3	part_of_entity	A Man with Heart
+9722_4	is_in_sentence	sentence_9722
+9722_4	punct	9722_5
+9722_4	has_surface_form	(
+9722_5	is_in_sentence	sentence_9722
+9722_5	appos	9722_1
+9722_5	has_surface_form	German
+9722_6	is_in_sentence	sentence_9722
+9722_6	punct	9722_5
+9722_6	has_surface_form	:
+9722_7	is_in_sentence	sentence_9722
+9722_7	compound	9722_8
+9722_7	has_surface_form	Ein
+9722_8	is_in_sentence	sentence_9722
+9722_8	nsubj	9722_9
+9722_8	has_surface_form	Mann
+9722_10	is_in_sentence	sentence_9722
+9722_10	dobj	9722_9
+9722_10	has_surface_form	Herz
+9722_11	is_in_sentence	sentence_9722
+9722_11	punct	9722_9
+9722_11	has_surface_form	)
+9722_12	is_in_sentence	sentence_9722
+9722_12	ccomp	9722_9
+9722_12	has_surface_form	is
+9722_13	is_in_sentence	sentence_9722
+9722_13	det	9722_17
+9722_13	has_surface_form	a
+9722_17	is_in_sentence	sentence_9722
+9722_17	attr	9722_12
+9722_17	has_surface_form	film
+9722_14	is_in_sentence	sentence_9722
+9722_14	nummod	9722_17
+9722_14	has_surface_form	1932
+9722_15	is_in_sentence	sentence_9722
+9722_15	amod	9722_17
+9722_15	has_surface_form	German
+9722_16	is_in_sentence	sentence_9722
+9722_16	compound	9722_17
+9722_16	has_surface_form	drama
+9722_18	is_in_sentence	sentence_9722
+9722_18	acl	9722_17
+9722_18	has_surface_form	directed
+9722_19	is_in_sentence	sentence_9722
+9722_19	agent	9722_18
+9722_19	has_surface_form	by
+9722_20	is_in_sentence	sentence_9722
+9722_20	compound	9722_22
+9722_20	has_surface_form	Géza
+9722_20	part_of_entity	Géza von Bolváry
+9722_22	is_in_sentence	sentence_9722
+9722_22	pobj	9722_19
+9722_22	has_surface_form	Bolváry
+9722_22	part_of_entity	Géza von Bolváry
+9722_21	is_in_sentence	sentence_9722
+9722_21	compound	9722_22
+9722_21	has_surface_form	von
+9722_21	part_of_entity	Géza von Bolváry
+9722_23	is_in_sentence	sentence_9722
+9722_23	cc	9722_18
+9722_23	has_surface_form	and
+9722_24	is_in_sentence	sentence_9722
+9722_24	conj	9722_18
+9722_24	has_surface_form	starring
+9722_25	is_in_sentence	sentence_9722
+9722_25	compound	9722_26
+9722_25	has_surface_form	Gustav
+9722_26	is_in_sentence	sentence_9722
+9722_26	dobj	9722_24
+9722_26	has_surface_form	Fröhlich
+9722_27	is_in_sentence	sentence_9722
+9722_27	punct	9722_26
+9722_27	has_surface_form	,
+9722_28	is_in_sentence	sentence_9722
+9722_28	compound	9722_29
+9722_28	has_surface_form	Maria
+9722_29	is_in_sentence	sentence_9722
+9722_29	conj	9722_26
+9722_29	has_surface_form	Matray
+9722_30	is_in_sentence	sentence_9722
+9722_30	cc	9722_29
+9722_30	has_surface_form	and
+9722_31	is_in_sentence	sentence_9722
+9722_31	compound	9722_32
+9722_31	has_surface_form	Gustav
+9722_32	is_in_sentence	sentence_9722
+9722_32	conj	9722_29
+9722_32	has_surface_form	Waldau
+9722_33	is_in_sentence	sentence_9722
+9722_33	punct	9722_9
+9722_33	has_surface_form	.
+9722_34	is_in_sentence	sentence_9722
+9722_34	dep	9722_34
+9722_34	has_surface_form	
+A Man with Heart	surface_form	A Man with Heart
+A Man with Heart	movie-has-director	Géza von Bolváry
+Géza von Bolváry	surface_form	Géza von Bolváry

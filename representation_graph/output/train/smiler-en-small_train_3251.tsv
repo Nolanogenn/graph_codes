@@ -1,0 +1,34 @@
+3250_0	is_in_sentence	sentence_3250
+3250_0	compound	3250_1
+3250_0	has_surface_form	Babulal
+3250_0	part_of_entity	Babulal Marandi
+3250_1	is_in_sentence	sentence_3250
+3250_1	nsubj	3250_2
+3250_1	has_surface_form	Marandi
+3250_1	part_of_entity	Babulal Marandi
+3250_2	is_in_sentence	sentence_3250
+3250_2	ROOT	3250_2
+3250_2	has_surface_form	is
+3250_3	is_in_sentence	sentence_3250
+3250_3	acomp	3250_2
+3250_3	has_surface_form	married
+3250_4	is_in_sentence	sentence_3250
+3250_4	prep	3250_3
+3250_4	has_surface_form	to
+3250_5	is_in_sentence	sentence_3250
+3250_5	compound	3250_6
+3250_5	has_surface_form	Shanti
+3250_5	part_of_entity	Shanti Devi
+3250_6	is_in_sentence	sentence_3250
+3250_6	pobj	3250_4
+3250_6	has_surface_form	Devi
+3250_6	part_of_entity	Shanti Devi
+3250_7	is_in_sentence	sentence_3250
+3250_7	punct	3250_2
+3250_7	has_surface_form	.
+3250_8	is_in_sentence	sentence_3250
+3250_8	dep	3250_2
+3250_8	has_surface_form	
+Babulal Marandi	surface_form	Babulal Marandi
+Babulal Marandi	has-spouse	Shanti Devi
+Shanti Devi	surface_form	Shanti Devi

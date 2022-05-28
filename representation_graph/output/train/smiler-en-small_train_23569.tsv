@@ -1,0 +1,71 @@
+23568_0	is_in_sentence	sentence_23568
+23568_0	det	23568_2
+23568_0	has_surface_form	A
+23568_0	part_of_entity	A Different Story
+23568_2	is_in_sentence	sentence_23568
+23568_2	nsubj	23568_3
+23568_2	has_surface_form	Story
+23568_2	part_of_entity	A Different Story
+23568_1	is_in_sentence	sentence_23568
+23568_1	compound	23568_2
+23568_1	has_surface_form	Different
+23568_1	part_of_entity	A Different Story
+23568_3	is_in_sentence	sentence_23568
+23568_3	ROOT	23568_3
+23568_3	has_surface_form	is
+23568_4	is_in_sentence	sentence_23568
+23568_4	det	23568_7
+23568_4	has_surface_form	a
+23568_7	is_in_sentence	sentence_23568
+23568_7	attr	23568_3
+23568_7	has_surface_form	film
+23568_5	is_in_sentence	sentence_23568
+23568_5	nummod	23568_7
+23568_5	has_surface_form	1978
+23568_6	is_in_sentence	sentence_23568
+23568_6	amod	23568_7
+23568_6	has_surface_form	American
+23568_8	is_in_sentence	sentence_23568
+23568_8	acl	23568_7
+23568_8	has_surface_form	directed
+23568_9	is_in_sentence	sentence_23568
+23568_9	agent	23568_8
+23568_9	has_surface_form	by
+23568_10	is_in_sentence	sentence_23568
+23568_10	compound	23568_11
+23568_10	has_surface_form	Paul
+23568_10	part_of_entity	Paul Aaron
+23568_11	is_in_sentence	sentence_23568
+23568_11	pobj	23568_9
+23568_11	has_surface_form	Aaron
+23568_11	part_of_entity	Paul Aaron
+23568_12	is_in_sentence	sentence_23568
+23568_12	cc	23568_8
+23568_12	has_surface_form	and
+23568_13	is_in_sentence	sentence_23568
+23568_13	conj	23568_8
+23568_13	has_surface_form	starring
+23568_14	is_in_sentence	sentence_23568
+23568_14	compound	23568_15
+23568_14	has_surface_form	Meg
+23568_15	is_in_sentence	sentence_23568
+23568_15	dobj	23568_13
+23568_15	has_surface_form	Foster
+23568_16	is_in_sentence	sentence_23568
+23568_16	cc	23568_15
+23568_16	has_surface_form	and
+23568_17	is_in_sentence	sentence_23568
+23568_17	compound	23568_18
+23568_17	has_surface_form	Perry
+23568_18	is_in_sentence	sentence_23568
+23568_18	conj	23568_15
+23568_18	has_surface_form	King
+23568_19	is_in_sentence	sentence_23568
+23568_19	punct	23568_3
+23568_19	has_surface_form	.
+23568_20	is_in_sentence	sentence_23568
+23568_20	dep	23568_3
+23568_20	has_surface_form	
+A Different Story	surface_form	A Different Story
+A Different Story	movie-has-director	Paul Aaron
+Paul Aaron	surface_form	Paul Aaron

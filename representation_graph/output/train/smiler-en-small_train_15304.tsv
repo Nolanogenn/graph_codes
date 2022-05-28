@@ -1,0 +1,83 @@
+15303_0	is_in_sentence	sentence_15303
+15303_0	nummod	15303_1
+15303_0	has_surface_form	30,000
+15303_0	part_of_entity	30,000 Miles Under the Sea
+15303_1	is_in_sentence	sentence_15303
+15303_1	npadvmod	15303_2
+15303_1	has_surface_form	Miles
+15303_1	part_of_entity	30,000 Miles Under the Sea
+15303_2	is_in_sentence	sentence_15303
+15303_2	prep	15303_14
+15303_2	has_surface_form	Under
+15303_2	part_of_entity	30,000 Miles Under the Sea
+15303_14	is_in_sentence	sentence_15303
+15303_14	ROOT	15303_14
+15303_14	has_surface_form	is
+15303_3	is_in_sentence	sentence_15303
+15303_3	det	15303_4
+15303_3	has_surface_form	the
+15303_3	part_of_entity	30,000 Miles Under the Sea
+15303_4	is_in_sentence	sentence_15303
+15303_4	pobj	15303_2
+15303_4	has_surface_form	Sea
+15303_4	part_of_entity	30,000 Miles Under the Sea
+15303_5	is_in_sentence	sentence_15303
+15303_5	punct	15303_6
+15303_5	has_surface_form	(
+15303_6	is_in_sentence	sentence_15303
+15303_6	nsubj	15303_14
+15303_6	has_surface_form	海底3万マイル
+15303_7	is_in_sentence	sentence_15303
+15303_7	punct	15303_6
+15303_7	has_surface_form	,
+15303_8	is_in_sentence	sentence_15303
+15303_8	compound	15303_11
+15303_8	has_surface_form	Kaitei
+15303_11	is_in_sentence	sentence_15303
+15303_11	compound	15303_12
+15303_11	has_surface_form	man
+15303_9	is_in_sentence	sentence_15303
+15303_9	compound	15303_11
+15303_9	has_surface_form	San
+15303_10	is_in_sentence	sentence_15303
+15303_10	punct	15303_11
+15303_10	has_surface_form	-
+15303_12	is_in_sentence	sentence_15303
+15303_12	appos	15303_6
+15303_12	has_surface_form	Mile
+15303_13	is_in_sentence	sentence_15303
+15303_13	punct	15303_6
+15303_13	has_surface_form	)
+15303_15	is_in_sentence	sentence_15303
+15303_15	det	15303_21
+15303_15	has_surface_form	a
+15303_21	is_in_sentence	sentence_15303
+15303_21	attr	15303_14
+15303_21	has_surface_form	film
+15303_21	part_of_entity	fantasy adventure film
+15303_16	is_in_sentence	sentence_15303
+15303_16	nummod	15303_21
+15303_16	has_surface_form	1970
+15303_17	is_in_sentence	sentence_15303
+15303_17	amod	15303_21
+15303_17	has_surface_form	Japanese
+15303_18	is_in_sentence	sentence_15303
+15303_18	amod	15303_19
+15303_18	has_surface_form	anime
+15303_19	is_in_sentence	sentence_15303
+15303_19	compound	15303_21
+15303_19	has_surface_form	fantasy
+15303_19	part_of_entity	fantasy adventure film
+15303_20	is_in_sentence	sentence_15303
+15303_20	compound	15303_21
+15303_20	has_surface_form	adventure
+15303_20	part_of_entity	fantasy adventure film
+15303_22	is_in_sentence	sentence_15303
+15303_22	punct	15303_14
+15303_22	has_surface_form	.
+15303_23	is_in_sentence	sentence_15303
+15303_23	dep	15303_23
+15303_23	has_surface_form	
+30,000 Miles Under the Sea	surface_form	30,000 Miles Under the Sea
+30,000 Miles Under the Sea	has-type	fantasy adventure film
+fantasy adventure film	surface_form	fantasy adventure film

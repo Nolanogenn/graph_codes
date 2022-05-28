@@ -1,0 +1,55 @@
+28238_0	is_in_sentence	sentence_28238
+28238_0	compound	28238_1
+28238_0	has_surface_form	Lee
+28238_0	part_of_entity	Lee Owens
+28238_1	is_in_sentence	sentence_28238
+28238_1	nsubj	28238_9
+28238_1	has_surface_form	Owens
+28238_1	part_of_entity	Lee Owens
+28238_9	is_in_sentence	sentence_28238
+28238_9	ROOT	28238_9
+28238_9	has_surface_form	is
+28238_2	is_in_sentence	sentence_28238
+28238_2	punct	28238_1
+28238_2	has_surface_form	(
+28238_3	is_in_sentence	sentence_28238
+28238_3	acl	28238_1
+28238_3	has_surface_form	born
+28238_4	is_in_sentence	sentence_28238
+28238_4	npadvmod	28238_3
+28238_4	has_surface_form	July
+28238_5	is_in_sentence	sentence_28238
+28238_5	nummod	28238_4
+28238_5	has_surface_form	17
+28238_6	is_in_sentence	sentence_28238
+28238_6	punct	28238_4
+28238_6	has_surface_form	,
+28238_7	is_in_sentence	sentence_28238
+28238_7	nummod	28238_4
+28238_7	has_surface_form	1956
+28238_8	is_in_sentence	sentence_28238
+28238_8	punct	28238_1
+28238_8	has_surface_form	)
+28238_10	is_in_sentence	sentence_28238
+28238_10	det	28238_13
+28238_10	has_surface_form	an
+28238_13	is_in_sentence	sentence_28238
+28238_13	attr	28238_9
+28238_13	has_surface_form	coach
+28238_13	part_of_entity	football coach
+28238_11	is_in_sentence	sentence_28238
+28238_11	amod	28238_13
+28238_11	has_surface_form	American
+28238_12	is_in_sentence	sentence_28238
+28238_12	compound	28238_13
+28238_12	has_surface_form	football
+28238_12	part_of_entity	football coach
+28238_14	is_in_sentence	sentence_28238
+28238_14	punct	28238_9
+28238_14	has_surface_form	.
+28238_15	is_in_sentence	sentence_28238
+28238_15	dep	28238_15
+28238_15	has_surface_form	
+Lee Owens	surface_form	Lee Owens
+Lee Owens	has-type	football coach
+football coach	surface_form	football coach

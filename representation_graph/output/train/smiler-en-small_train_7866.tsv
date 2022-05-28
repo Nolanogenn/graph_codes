@@ -1,0 +1,73 @@
+7865_0	is_in_sentence	sentence_7865
+7865_0	compound	7865_1
+7865_0	has_surface_form	Royal
+7865_0	part_of_entity	Royal Albert DLR station
+7865_1	is_in_sentence	sentence_7865
+7865_1	compound	7865_3
+7865_1	has_surface_form	Albert
+7865_1	part_of_entity	Royal Albert DLR station
+7865_3	is_in_sentence	sentence_7865
+7865_3	nsubj	7865_4
+7865_3	is_entity	station
+7865_3	part_of_entity	Royal Albert DLR station
+7865_2	is_in_sentence	sentence_7865
+7865_2	compound	7865_3
+7865_2	has_surface_form	DLR
+7865_2	part_of_entity	Royal Albert DLR station
+7865_4	is_in_sentence	sentence_7865
+7865_4	ROOT	7865_4
+7865_4	has_surface_form	is
+station	surface_form	station
+7865_5	is_in_sentence	sentence_7865
+7865_5	det	7865_6
+7865_5	has_surface_form	a
+7865_6	is_in_sentence	sentence_7865
+7865_6	attr	7865_4
+7865_6	is_entity	station
+7865_7	is_in_sentence	sentence_7865
+7865_7	prep	7865_6
+7865_7	has_surface_form	on
+7865_8	is_in_sentence	sentence_7865
+7865_8	det	7865_11
+7865_8	has_surface_form	the
+7865_11	is_in_sentence	sentence_7865
+7865_11	pobj	7865_7
+7865_11	has_surface_form	Railway
+7865_9	is_in_sentence	sentence_7865
+7865_9	compound	7865_10
+7865_9	has_surface_form	Docklands
+7865_10	is_in_sentence	sentence_7865
+7865_10	compound	7865_11
+7865_10	has_surface_form	Light
+7865_12	is_in_sentence	sentence_7865
+7865_12	punct	7865_13
+7865_12	has_surface_form	(
+7865_13	is_in_sentence	sentence_7865
+7865_13	appos	7865_11
+7865_13	has_surface_form	DLR
+7865_14	is_in_sentence	sentence_7865
+7865_14	punct	7865_11
+7865_14	has_surface_form	)
+7865_15	is_in_sentence	sentence_7865
+7865_15	prep	7865_11
+7865_15	has_surface_form	in
+7865_16	is_in_sentence	sentence_7865
+7865_16	pobj	7865_15
+7865_16	has_surface_form	Beckton
+7865_17	is_in_sentence	sentence_7865
+7865_17	prep	7865_6
+7865_17	has_surface_form	in
+7865_18	is_in_sentence	sentence_7865
+7865_18	compound	7865_19
+7865_18	has_surface_form	east
+7865_19	is_in_sentence	sentence_7865
+7865_19	pobj	7865_17
+7865_19	has_surface_form	London
+7865_20	is_in_sentence	sentence_7865
+7865_20	punct	7865_4
+7865_20	has_surface_form	.
+7865_21	is_in_sentence	sentence_7865
+7865_21	dep	7865_21
+7865_21	has_surface_form	
+Royal Albert DLR station	surface_form	Royal Albert DLR station
+Royal Albert DLR station	has-type	station

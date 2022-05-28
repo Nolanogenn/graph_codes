@@ -1,0 +1,54 @@
+30834_0	is_in_sentence	sentence_30834
+30834_0	nsubj	30834_3
+30834_0	has_surface_form	Murder
+30834_0	part_of_entity	Murder with Music
+30834_3	is_in_sentence	sentence_30834
+30834_3	ROOT	30834_3
+30834_3	has_surface_form	is
+30834_1	is_in_sentence	sentence_30834
+30834_1	prep	30834_0
+30834_1	has_surface_form	with
+30834_1	part_of_entity	Murder with Music
+30834_2	is_in_sentence	sentence_30834
+30834_2	pobj	30834_1
+30834_2	has_surface_form	Music
+30834_2	part_of_entity	Murder with Music
+30834_4	is_in_sentence	sentence_30834
+30834_4	det	30834_7
+30834_4	has_surface_form	a
+30834_7	is_in_sentence	sentence_30834
+30834_7	attr	30834_3
+30834_7	has_surface_form	film
+30834_5	is_in_sentence	sentence_30834
+30834_5	nummod	30834_7
+30834_5	has_surface_form	1941
+30834_6	is_in_sentence	sentence_30834
+30834_6	amod	30834_7
+30834_6	has_surface_form	American
+30834_8	is_in_sentence	sentence_30834
+30834_8	acl	30834_7
+30834_8	has_surface_form	directed
+30834_9	is_in_sentence	sentence_30834
+30834_9	agent	30834_8
+30834_9	has_surface_form	by
+30834_10	is_in_sentence	sentence_30834
+30834_10	compound	30834_12
+30834_10	has_surface_form	George
+30834_10	part_of_entity	George P. Quigley
+30834_12	is_in_sentence	sentence_30834
+30834_12	pobj	30834_9
+30834_12	has_surface_form	Quigley
+30834_12	part_of_entity	George P. Quigley
+30834_11	is_in_sentence	sentence_30834
+30834_11	compound	30834_12
+30834_11	has_surface_form	P.
+30834_11	part_of_entity	George P. Quigley
+30834_13	is_in_sentence	sentence_30834
+30834_13	punct	30834_3
+30834_13	has_surface_form	.
+30834_14	is_in_sentence	sentence_30834
+30834_14	dep	30834_14
+30834_14	has_surface_form	
+Murder with Music	surface_form	Murder with Music
+Murder with Music	movie-has-director	George P. Quigley
+George P. Quigley	surface_form	George P. Quigley

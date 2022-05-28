@@ -1,0 +1,69 @@
+17342_0	is_in_sentence	sentence_17342
+17342_0	det	17342_3
+17342_0	has_surface_form	The
+17342_3	is_in_sentence	sentence_17342
+17342_3	nsubj	17342_4
+17342_3	has_surface_form	Paris
+17342_3	part_of_entity	Théâtre de Paris
+17342_1	is_in_sentence	sentence_17342
+17342_1	compound	17342_3
+17342_1	has_surface_form	Théâtre
+17342_1	part_of_entity	Théâtre de Paris
+17342_2	is_in_sentence	sentence_17342
+17342_2	nmod	17342_3
+17342_2	has_surface_form	de
+17342_2	part_of_entity	Théâtre de Paris
+17342_4	is_in_sentence	sentence_17342
+17342_4	ROOT	17342_4
+17342_4	has_surface_form	is
+17342_5	is_in_sentence	sentence_17342
+17342_5	det	17342_6
+17342_5	has_surface_form	a
+17342_6	is_in_sentence	sentence_17342
+17342_6	attr	17342_4
+17342_6	is_entity	theatre
+theatre	surface_form	theatre
+17342_7	is_in_sentence	sentence_17342
+17342_7	acl	17342_6
+17342_7	has_surface_form	located
+17342_8	is_in_sentence	sentence_17342
+17342_8	prep	17342_7
+17342_8	has_surface_form	at
+17342_9	is_in_sentence	sentence_17342
+17342_9	pobj	17342_8
+17342_9	has_surface_form	15
+17342_10	is_in_sentence	sentence_17342
+17342_10	punct	17342_6
+17342_10	has_surface_form	,
+17342_11	is_in_sentence	sentence_17342
+17342_11	amod	17342_12
+17342_11	has_surface_form	rue
+17342_12	is_in_sentence	sentence_17342
+17342_12	appos	17342_6
+17342_12	has_surface_form	Blanche
+17342_13	is_in_sentence	sentence_17342
+17342_13	prep	17342_12
+17342_13	has_surface_form	in
+17342_14	is_in_sentence	sentence_17342
+17342_14	det	17342_16
+17342_14	has_surface_form	the
+17342_16	is_in_sentence	sentence_17342
+17342_16	pobj	17342_13
+17342_16	has_surface_form	arrondissement
+17342_15	is_in_sentence	sentence_17342
+17342_15	amod	17342_16
+17342_15	has_surface_form	9th
+17342_17	is_in_sentence	sentence_17342
+17342_17	prep	17342_16
+17342_17	has_surface_form	of
+17342_18	is_in_sentence	sentence_17342
+17342_18	pobj	17342_17
+17342_18	has_surface_form	Paris
+17342_19	is_in_sentence	sentence_17342
+17342_19	punct	17342_4
+17342_19	has_surface_form	.
+17342_20	is_in_sentence	sentence_17342
+17342_20	dep	17342_20
+17342_20	has_surface_form	
+Théâtre de Paris	surface_form	Théâtre de Paris
+Théâtre de Paris	has-type	theatre

@@ -1,0 +1,91 @@
+27791_0	is_in_sentence	sentence_27791
+27791_0	det	27791_1
+27791_0	has_surface_form	A
+27791_0	part_of_entity	A Dog in Space
+27791_1	is_in_sentence	sentence_27791
+27791_1	nsubj	27791_12
+27791_1	has_surface_form	Dog
+27791_1	part_of_entity	A Dog in Space
+27791_12	is_in_sentence	sentence_27791
+27791_12	ROOT	27791_12
+27791_12	has_surface_form	is
+27791_2	is_in_sentence	sentence_27791
+27791_2	prep	27791_1
+27791_2	has_surface_form	in
+27791_2	part_of_entity	A Dog in Space
+27791_3	is_in_sentence	sentence_27791
+27791_3	pobj	27791_2
+27791_3	has_surface_form	Space
+27791_3	part_of_entity	A Dog in Space
+27791_4	is_in_sentence	sentence_27791
+27791_4	punct	27791_5
+27791_4	has_surface_form	(
+27791_5	is_in_sentence	sentence_27791
+27791_5	appos	27791_1
+27791_5	has_surface_form	Spanish
+27791_6	is_in_sentence	sentence_27791
+27791_6	punct	27791_5
+27791_6	has_surface_form	:
+27791_7	is_in_sentence	sentence_27791
+27791_7	compound	27791_8
+27791_7	has_surface_form	Un
+27791_8	is_in_sentence	sentence_27791
+27791_8	nsubj	27791_12
+27791_8	has_surface_form	perro
+27791_9	is_in_sentence	sentence_27791
+27791_9	nmod	27791_10
+27791_9	has_surface_form	en
+27791_10	is_in_sentence	sentence_27791
+27791_10	appos	27791_8
+27791_10	has_surface_form	órbita
+27791_11	is_in_sentence	sentence_27791
+27791_11	punct	27791_8
+27791_11	has_surface_form	)
+27791_13	is_in_sentence	sentence_27791
+27791_13	det	27791_16
+27791_13	has_surface_form	a
+27791_16	is_in_sentence	sentence_27791
+27791_16	attr	27791_12
+27791_16	has_surface_form	film
+27791_14	is_in_sentence	sentence_27791
+27791_14	nummod	27791_16
+27791_14	has_surface_form	1966
+27791_15	is_in_sentence	sentence_27791
+27791_15	amod	27791_16
+27791_15	has_surface_form	Spanish
+27791_17	is_in_sentence	sentence_27791
+27791_17	acl	27791_16
+27791_17	has_surface_form	directed
+27791_18	is_in_sentence	sentence_27791
+27791_18	agent	27791_17
+27791_18	has_surface_form	by
+27791_19	is_in_sentence	sentence_27791
+27791_19	nmod	27791_21
+27791_19	has_surface_form	Antonio
+27791_19	part_of_entity	Antonio del Amo
+27791_21	is_in_sentence	sentence_27791
+27791_21	pobj	27791_18
+27791_21	has_surface_form	Amo
+27791_21	part_of_entity	Antonio del Amo
+27791_20	is_in_sentence	sentence_27791
+27791_20	nmod	27791_21
+27791_20	has_surface_form	del
+27791_20	part_of_entity	Antonio del Amo
+27791_22	is_in_sentence	sentence_27791
+27791_22	cc	27791_21
+27791_22	has_surface_form	and
+27791_23	is_in_sentence	sentence_27791
+27791_23	compound	27791_24
+27791_23	has_surface_form	Antonio
+27791_24	is_in_sentence	sentence_27791
+27791_24	conj	27791_21
+27791_24	has_surface_form	Román
+27791_25	is_in_sentence	sentence_27791
+27791_25	punct	27791_12
+27791_25	has_surface_form	.
+27791_26	is_in_sentence	sentence_27791
+27791_26	dep	27791_26
+27791_26	has_surface_form	
+A Dog in Space	surface_form	A Dog in Space
+A Dog in Space	movie-has-director	Antonio del Amo
+Antonio del Amo	surface_form	Antonio del Amo

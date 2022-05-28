@@ -1,0 +1,68 @@
+12195_0	is_in_sentence	sentence_12195
+12195_0	compound	12195_1
+12195_0	has_surface_form	Dove
+12195_0	part_of_entity	Dove Bradshaw
+12195_1	is_in_sentence	sentence_12195
+12195_1	nsubj	12195_14
+12195_1	has_surface_form	Bradshaw
+12195_1	part_of_entity	Dove Bradshaw
+12195_14	is_in_sentence	sentence_12195
+12195_14	ROOT	12195_14
+12195_14	has_surface_form	is
+12195_2	is_in_sentence	sentence_12195
+12195_2	punct	12195_1
+12195_2	has_surface_form	(
+12195_3	is_in_sentence	sentence_12195
+12195_3	acl	12195_1
+12195_3	has_surface_form	born
+12195_4	is_in_sentence	sentence_12195
+12195_4	npadvmod	12195_3
+12195_4	has_surface_form	September
+12195_5	is_in_sentence	sentence_12195
+12195_5	nummod	12195_4
+12195_5	has_surface_form	24
+12195_6	is_in_sentence	sentence_12195
+12195_6	punct	12195_4
+12195_6	has_surface_form	,
+12195_7	is_in_sentence	sentence_12195
+12195_7	nummod	12195_4
+12195_7	has_surface_form	1949
+12195_8	is_in_sentence	sentence_12195
+12195_8	punct	12195_4
+12195_8	has_surface_form	,
+12195_9	is_in_sentence	sentence_12195
+12195_9	prep	12195_3
+12195_9	has_surface_form	in
+12195_10	is_in_sentence	sentence_12195
+12195_10	compound	12195_11
+12195_10	has_surface_form	New
+12195_10	part_of_entity	New York City
+12195_11	is_in_sentence	sentence_12195
+12195_11	compound	12195_12
+12195_11	has_surface_form	York
+12195_11	part_of_entity	New York City
+12195_12	is_in_sentence	sentence_12195
+12195_12	pobj	12195_9
+12195_12	has_surface_form	City
+12195_12	part_of_entity	New York City
+12195_13	is_in_sentence	sentence_12195
+12195_13	punct	12195_1
+12195_13	has_surface_form	)
+12195_15	is_in_sentence	sentence_12195
+12195_15	det	12195_17
+12195_15	has_surface_form	an
+12195_17	is_in_sentence	sentence_12195
+12195_17	attr	12195_14
+12195_17	has_surface_form	artist
+12195_16	is_in_sentence	sentence_12195
+12195_16	amod	12195_17
+12195_16	has_surface_form	American
+12195_18	is_in_sentence	sentence_12195
+12195_18	punct	12195_14
+12195_18	has_surface_form	.
+12195_19	is_in_sentence	sentence_12195
+12195_19	dep	12195_14
+12195_19	has_surface_form	
+Dove Bradshaw	surface_form	Dove Bradshaw
+Dove Bradshaw	birth-place	New York City
+New York City	surface_form	New York City

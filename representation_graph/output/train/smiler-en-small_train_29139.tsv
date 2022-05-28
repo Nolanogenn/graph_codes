@@ -1,0 +1,104 @@
+29138_0	is_in_sentence	sentence_29138
+29138_0	det	29138_2
+29138_0	has_surface_form	The
+29138_2	is_in_sentence	sentence_29138
+29138_2	nsubj	29138_3
+29138_2	has_surface_form	gun
+29138_2	part_of_entity	Maxim gun
+29138_1	is_in_sentence	sentence_29138
+29138_1	compound	29138_2
+29138_1	has_surface_form	Maxim
+29138_1	part_of_entity	Maxim gun
+29138_3	is_in_sentence	sentence_29138
+29138_3	ccomp	29138_20
+29138_3	has_surface_form	was
+29138_20	is_in_sentence	sentence_29138
+29138_20	ROOT	29138_20
+29138_20	has_surface_form	was
+29138_4	is_in_sentence	sentence_29138
+29138_4	det	29138_5
+29138_4	has_surface_form	a
+29138_5	is_in_sentence	sentence_29138
+29138_5	attr	29138_3
+29138_5	has_surface_form	weapon
+29138_6	is_in_sentence	sentence_29138
+29138_6	acl	29138_5
+29138_6	has_surface_form	invented
+29138_7	is_in_sentence	sentence_29138
+29138_7	agent	29138_6
+29138_7	has_surface_form	by
+29138_8	is_in_sentence	sentence_29138
+29138_8	npadvmod	29138_10
+29138_8	has_surface_form	American
+29138_10	is_in_sentence	sentence_29138
+29138_10	amod	29138_12
+29138_10	has_surface_form	born
+29138_9	is_in_sentence	sentence_29138
+29138_9	punct	29138_10
+29138_9	has_surface_form	-
+29138_12	is_in_sentence	sentence_29138
+29138_12	compound	29138_15
+29138_12	has_surface_form	inventor
+29138_11	is_in_sentence	sentence_29138
+29138_11	amod	29138_12
+29138_11	has_surface_form	British
+29138_15	is_in_sentence	sentence_29138
+29138_15	pobj	29138_7
+29138_15	has_surface_form	Maxim
+29138_15	part_of_entity	Hiram Stevens Maxim
+29138_13	is_in_sentence	sentence_29138
+29138_13	compound	29138_15
+29138_13	has_surface_form	Hiram
+29138_13	part_of_entity	Hiram Stevens Maxim
+29138_14	is_in_sentence	sentence_29138
+29138_14	compound	29138_15
+29138_14	has_surface_form	Stevens
+29138_14	part_of_entity	Hiram Stevens Maxim
+29138_16	is_in_sentence	sentence_29138
+29138_16	prep	29138_6
+29138_16	has_surface_form	in
+29138_17	is_in_sentence	sentence_29138
+29138_17	pobj	29138_16
+29138_17	has_surface_form	1884
+29138_18	is_in_sentence	sentence_29138
+29138_18	punct	29138_20
+29138_18	has_surface_form	:
+29138_19	is_in_sentence	sentence_29138
+29138_19	nsubj	29138_20
+29138_19	has_surface_form	it
+29138_21	is_in_sentence	sentence_29138
+29138_21	det	29138_27
+29138_21	has_surface_form	the
+29138_27	is_in_sentence	sentence_29138
+29138_27	attr	29138_20
+29138_27	has_surface_form	gun
+29138_22	is_in_sentence	sentence_29138
+29138_22	amod	29138_27
+29138_22	has_surface_form	first
+29138_23	is_in_sentence	sentence_29138
+29138_23	npadvmod	29138_25
+29138_23	has_surface_form	recoil
+29138_25	is_in_sentence	sentence_29138
+29138_25	amod	29138_27
+29138_25	has_surface_form	operated
+29138_24	is_in_sentence	sentence_29138
+29138_24	punct	29138_25
+29138_24	has_surface_form	-
+29138_26	is_in_sentence	sentence_29138
+29138_26	compound	29138_27
+29138_26	has_surface_form	machine
+29138_28	is_in_sentence	sentence_29138
+29138_28	prep	29138_27
+29138_28	has_surface_form	in
+29138_29	is_in_sentence	sentence_29138
+29138_29	pobj	29138_28
+29138_29	has_surface_form	production
+29138_30	is_in_sentence	sentence_29138
+29138_30	punct	29138_20
+29138_30	has_surface_form	.
+29138_31	is_in_sentence	sentence_29138
+29138_31	dep	29138_31
+29138_31	has_surface_form	
+Maxim gun	surface_form	Maxim gun
+Maxim gun	invented-by	Hiram Stevens Maxim
+Hiram Stevens Maxim	surface_form	Hiram Stevens Maxim

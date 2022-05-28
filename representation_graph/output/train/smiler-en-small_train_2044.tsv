@@ -1,0 +1,83 @@
+2043_0	is_in_sentence	sentence_2043
+2043_0	det	2043_2
+2043_0	has_surface_form	The
+2043_0	part_of_entity	The Purple V
+2043_2	is_in_sentence	sentence_2043
+2043_2	nsubj	2043_3
+2043_2	has_surface_form	V
+2043_2	part_of_entity	The Purple V
+2043_1	is_in_sentence	sentence_2043
+2043_1	compound	2043_2
+2043_1	has_surface_form	Purple
+2043_1	part_of_entity	The Purple V
+2043_3	is_in_sentence	sentence_2043
+2043_3	ROOT	2043_3
+2043_3	has_surface_form	is
+2043_4	is_in_sentence	sentence_2043
+2043_4	det	2043_8
+2043_4	has_surface_form	a
+2043_8	is_in_sentence	sentence_2043
+2043_8	attr	2043_3
+2043_8	has_surface_form	film
+2043_5	is_in_sentence	sentence_2043
+2043_5	nummod	2043_8
+2043_5	has_surface_form	1943
+2043_6	is_in_sentence	sentence_2043
+2043_6	amod	2043_8
+2043_6	has_surface_form	American
+2043_7	is_in_sentence	sentence_2043
+2043_7	compound	2043_8
+2043_7	has_surface_form	war
+2043_9	is_in_sentence	sentence_2043
+2043_9	acl	2043_8
+2043_9	has_surface_form	directed
+2043_10	is_in_sentence	sentence_2043
+2043_10	agent	2043_9
+2043_10	has_surface_form	by
+2043_11	is_in_sentence	sentence_2043
+2043_11	compound	2043_12
+2043_11	has_surface_form	George
+2043_11	part_of_entity	George Sherman
+2043_12	is_in_sentence	sentence_2043
+2043_12	pobj	2043_10
+2043_12	has_surface_form	Sherman
+2043_12	part_of_entity	George Sherman
+2043_13	is_in_sentence	sentence_2043
+2043_13	cc	2043_9
+2043_13	has_surface_form	and
+2043_14	is_in_sentence	sentence_2043
+2043_14	conj	2043_9
+2043_14	has_surface_form	starring
+2043_15	is_in_sentence	sentence_2043
+2043_15	compound	2043_16
+2043_15	has_surface_form	John
+2043_16	is_in_sentence	sentence_2043
+2043_16	dobj	2043_14
+2043_16	has_surface_form	Archer
+2043_17	is_in_sentence	sentence_2043
+2043_17	punct	2043_16
+2043_17	has_surface_form	,
+2043_18	is_in_sentence	sentence_2043
+2043_18	compound	2043_19
+2043_18	has_surface_form	Mary
+2043_19	is_in_sentence	sentence_2043
+2043_19	conj	2043_16
+2043_19	has_surface_form	McLeod
+2043_20	is_in_sentence	sentence_2043
+2043_20	cc	2043_19
+2043_20	has_surface_form	and
+2043_21	is_in_sentence	sentence_2043
+2043_21	compound	2043_22
+2043_21	has_surface_form	Fritz
+2043_22	is_in_sentence	sentence_2043
+2043_22	conj	2043_19
+2043_22	has_surface_form	Kortner
+2043_23	is_in_sentence	sentence_2043
+2043_23	punct	2043_3
+2043_23	has_surface_form	.
+2043_24	is_in_sentence	sentence_2043
+2043_24	dep	2043_3
+2043_24	has_surface_form	
+The Purple V	surface_form	The Purple V
+The Purple V	movie-has-director	George Sherman
+George Sherman	surface_form	George Sherman

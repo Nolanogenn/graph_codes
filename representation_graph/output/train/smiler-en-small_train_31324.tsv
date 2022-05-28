@@ -1,0 +1,81 @@
+31323_0	is_in_sentence	sentence_31323
+31323_0	compound	31323_1
+31323_0	has_surface_form	Heavy
+31323_0	part_of_entity	Heavy Industries Taxila Education City University
+31323_1	is_in_sentence	sentence_31323
+31323_1	nmod	31323_5
+31323_1	has_surface_form	Industries
+31323_1	part_of_entity	Heavy Industries Taxila Education City University
+31323_5	is_in_sentence	sentence_31323
+31323_5	nsubj	31323_10
+31323_5	has_surface_form	University
+31323_5	part_of_entity	Heavy Industries Taxila Education City University
+31323_2	is_in_sentence	sentence_31323
+31323_2	compound	31323_4
+31323_2	has_surface_form	Taxila
+31323_2	part_of_entity	Heavy Industries Taxila Education City University
+31323_4	is_in_sentence	sentence_31323
+31323_4	compound	31323_5
+31323_4	has_surface_form	City
+31323_4	part_of_entity	Heavy Industries Taxila Education City University
+31323_3	is_in_sentence	sentence_31323
+31323_3	compound	31323_4
+31323_3	has_surface_form	Education
+31323_3	part_of_entity	Heavy Industries Taxila Education City University
+31323_10	is_in_sentence	sentence_31323
+31323_10	ROOT	31323_10
+31323_10	has_surface_form	is
+31323_6	is_in_sentence	sentence_31323
+31323_6	punct	31323_5
+31323_6	has_surface_form	(
+31323_7	is_in_sentence	sentence_31323
+31323_7	compound	31323_8
+31323_7	has_surface_form	HITEC
+31323_8	is_in_sentence	sentence_31323
+31323_8	appos	31323_5
+31323_8	has_surface_form	University
+31323_9	is_in_sentence	sentence_31323
+31323_9	punct	31323_5
+31323_9	has_surface_form	)
+31323_11	is_in_sentence	sentence_31323
+31323_11	det	31323_13
+31323_11	has_surface_form	a
+31323_13	is_in_sentence	sentence_31323
+31323_13	attr	31323_10
+31323_13	has_surface_form	university
+31323_12	is_in_sentence	sentence_31323
+31323_12	amod	31323_13
+31323_12	has_surface_form	private
+31323_14	is_in_sentence	sentence_31323
+31323_14	acl	31323_13
+31323_14	has_surface_form	located
+31323_15	is_in_sentence	sentence_31323
+31323_15	prep	31323_14
+31323_15	has_surface_form	in
+31323_16	is_in_sentence	sentence_31323
+31323_16	compound	31323_17
+31323_16	has_surface_form	Taxila
+31323_17	is_in_sentence	sentence_31323
+31323_17	pobj	31323_15
+31323_17	has_surface_form	Cantonment
+31323_18	is_in_sentence	sentence_31323
+31323_18	punct	31323_17
+31323_18	has_surface_form	,
+31323_19	is_in_sentence	sentence_31323
+31323_19	conj	31323_17
+31323_19	has_surface_form	Punjab
+31323_20	is_in_sentence	sentence_31323
+31323_20	punct	31323_19
+31323_20	has_surface_form	,
+31323_21	is_in_sentence	sentence_31323
+31323_21	npadvmod	31323_19
+31323_21	has_surface_form	Pakistan
+31323_22	is_in_sentence	sentence_31323
+31323_22	punct	31323_10
+31323_22	has_surface_form	.
+31323_23	is_in_sentence	sentence_31323
+31323_23	dep	31323_10
+31323_23	has_surface_form	
+Heavy Industries Taxila Education City University	surface_form	Heavy Industries Taxila Education City University
+Heavy Industries Taxila Education City University	is-where	Taxila Cantonment, Punjab, Pakistan
+Taxila Cantonment, Punjab, Pakistan	surface_form	Taxila Cantonment, Punjab, Pakistan

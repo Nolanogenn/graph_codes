@@ -1,0 +1,86 @@
+859_0	is_in_sentence	sentence_859
+859_0	det	859_2
+859_0	has_surface_form	The
+859_0	part_of_entity	The Silk Express
+859_2	is_in_sentence	sentence_859
+859_2	nsubj	859_3
+859_2	has_surface_form	Express
+859_2	part_of_entity	The Silk Express
+859_1	is_in_sentence	sentence_859
+859_1	compound	859_2
+859_1	has_surface_form	Silk
+859_1	part_of_entity	The Silk Express
+859_3	is_in_sentence	sentence_859
+859_3	ROOT	859_3
+859_3	has_surface_form	is
+859_4	is_in_sentence	sentence_859
+859_4	det	859_11
+859_4	has_surface_form	a
+859_11	is_in_sentence	sentence_859
+859_11	attr	859_3
+859_11	has_surface_form	film
+859_5	is_in_sentence	sentence_859
+859_5	nummod	859_11
+859_5	has_surface_form	1933
+859_6	is_in_sentence	sentence_859
+859_6	amod	859_11
+859_6	has_surface_form	American
+859_7	is_in_sentence	sentence_859
+859_7	amod	859_11
+859_7	has_surface_form	pre
+859_8	is_in_sentence	sentence_859
+859_8	amod	859_11
+859_8	has_surface_form	-
+859_9	is_in_sentence	sentence_859
+859_9	amod	859_11
+859_9	has_surface_form	Code
+859_10	is_in_sentence	sentence_859
+859_10	compound	859_11
+859_10	has_surface_form	drama
+859_12	is_in_sentence	sentence_859
+859_12	acl	859_11
+859_12	has_surface_form	directed
+859_13	is_in_sentence	sentence_859
+859_13	agent	859_12
+859_13	has_surface_form	by
+859_14	is_in_sentence	sentence_859
+859_14	compound	859_15
+859_14	has_surface_form	Ray
+859_14	part_of_entity	Ray Enright
+859_15	is_in_sentence	sentence_859
+859_15	pobj	859_13
+859_15	has_surface_form	Enright
+859_15	part_of_entity	Ray Enright
+859_16	is_in_sentence	sentence_859
+859_16	cc	859_12
+859_16	has_surface_form	and
+859_17	is_in_sentence	sentence_859
+859_17	conj	859_12
+859_17	has_surface_form	written
+859_18	is_in_sentence	sentence_859
+859_18	agent	859_17
+859_18	has_surface_form	by
+859_19	is_in_sentence	sentence_859
+859_19	compound	859_20
+859_19	has_surface_form	Houston
+859_20	is_in_sentence	sentence_859
+859_20	pobj	859_18
+859_20	has_surface_form	Branch
+859_21	is_in_sentence	sentence_859
+859_21	cc	859_20
+859_21	has_surface_form	and
+859_22	is_in_sentence	sentence_859
+859_22	compound	859_23
+859_22	has_surface_form	Ben
+859_23	is_in_sentence	sentence_859
+859_23	conj	859_20
+859_23	has_surface_form	Markson
+859_24	is_in_sentence	sentence_859
+859_24	punct	859_3
+859_24	has_surface_form	.
+859_25	is_in_sentence	sentence_859
+859_25	dep	859_3
+859_25	has_surface_form	
+The Silk Express	surface_form	The Silk Express
+The Silk Express	movie-has-director	Ray Enright
+Ray Enright	surface_form	Ray Enright

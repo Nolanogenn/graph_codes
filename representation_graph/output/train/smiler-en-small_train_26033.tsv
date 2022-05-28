@@ -1,0 +1,64 @@
+26032_0	is_in_sentence	sentence_26032
+26032_0	compound	26032_1
+26032_0	has_surface_form	California
+26032_0	part_of_entity	California University of Pennsylvania
+26032_1	is_in_sentence	sentence_26032
+26032_1	nsubj	26032_9
+26032_1	has_surface_form	University
+26032_1	part_of_entity	California University of Pennsylvania
+26032_9	is_in_sentence	sentence_26032
+26032_9	ROOT	26032_9
+26032_9	has_surface_form	is
+26032_2	is_in_sentence	sentence_26032
+26032_2	prep	26032_1
+26032_2	has_surface_form	of
+26032_2	part_of_entity	California University of Pennsylvania
+26032_3	is_in_sentence	sentence_26032
+26032_3	pobj	26032_2
+26032_3	has_surface_form	Pennsylvania
+26032_3	part_of_entity	California University of Pennsylvania
+26032_4	is_in_sentence	sentence_26032
+26032_4	punct	26032_1
+26032_4	has_surface_form	(
+26032_5	is_in_sentence	sentence_26032
+26032_5	appos	26032_1
+26032_5	has_surface_form	Cal
+26032_6	is_in_sentence	sentence_26032
+26032_6	dep	26032_5
+26032_6	has_surface_form	 
+26032_7	is_in_sentence	sentence_26032
+26032_7	appos	26032_5
+26032_7	has_surface_form	U
+26032_8	is_in_sentence	sentence_26032
+26032_8	punct	26032_5
+26032_8	has_surface_form	)
+26032_10	is_in_sentence	sentence_26032
+26032_10	det	26032_12
+26032_10	has_surface_form	a
+26032_12	is_in_sentence	sentence_26032
+26032_12	attr	26032_9
+26032_12	has_surface_form	university
+26032_11	is_in_sentence	sentence_26032
+26032_11	amod	26032_12
+26032_11	has_surface_form	public
+26032_13	is_in_sentence	sentence_26032
+26032_13	prep	26032_12
+26032_13	has_surface_form	in
+26032_14	is_in_sentence	sentence_26032
+26032_14	pobj	26032_13
+26032_14	has_surface_form	California
+26032_15	is_in_sentence	sentence_26032
+26032_15	punct	26032_14
+26032_15	has_surface_form	,
+26032_16	is_in_sentence	sentence_26032
+26032_16	appos	26032_14
+26032_16	has_surface_form	Pennsylvania
+26032_17	is_in_sentence	sentence_26032
+26032_17	punct	26032_9
+26032_17	has_surface_form	.
+26032_18	is_in_sentence	sentence_26032
+26032_18	dep	26032_18
+26032_18	has_surface_form	
+California University of Pennsylvania	surface_form	California University of Pennsylvania
+California University of Pennsylvania	is-where	California, Pennsylvania
+California, Pennsylvania	surface_form	California, Pennsylvania

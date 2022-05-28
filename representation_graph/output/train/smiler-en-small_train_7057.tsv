@@ -1,0 +1,44 @@
+7056_0	is_in_sentence	sentence_7056
+7056_0	compound	7056_1
+7056_0	has_surface_form	HC
+7056_0	part_of_entity	HC Fassa
+7056_1	is_in_sentence	sentence_7056
+7056_1	nsubj	7056_2
+7056_1	has_surface_form	Fassa
+7056_1	part_of_entity	HC Fassa
+7056_2	is_in_sentence	sentence_7056
+7056_2	ROOT	7056_2
+7056_2	has_surface_form	is
+7056_3	is_in_sentence	sentence_7056
+7056_3	det	7056_6
+7056_3	has_surface_form	an
+7056_6	is_in_sentence	sentence_7056
+7056_6	attr	7056_2
+7056_6	has_surface_form	team
+7056_4	is_in_sentence	sentence_7056
+7056_4	compound	7056_5
+7056_4	has_surface_form	ice
+7056_5	is_in_sentence	sentence_7056
+7056_5	compound	7056_6
+7056_5	has_surface_form	hockey
+7056_7	is_in_sentence	sentence_7056
+7056_7	prep	7056_6
+7056_7	has_surface_form	in
+7056_8	is_in_sentence	sentence_7056
+7056_8	pobj	7056_7
+7056_8	is_entity	Canazei
+Canazei	surface_form	Canazei
+7056_9	is_in_sentence	sentence_7056
+7056_9	punct	7056_8
+7056_9	has_surface_form	,
+7056_10	is_in_sentence	sentence_7056
+7056_10	appos	7056_8
+7056_10	has_surface_form	Italy
+7056_11	is_in_sentence	sentence_7056
+7056_11	punct	7056_2
+7056_11	has_surface_form	.
+7056_12	is_in_sentence	sentence_7056
+7056_12	dep	7056_12
+7056_12	has_surface_form	
+HC Fassa	surface_form	HC Fassa
+HC Fassa	is-where	Canazei

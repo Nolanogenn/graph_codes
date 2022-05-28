@@ -1,0 +1,58 @@
+1139_0	is_in_sentence	sentence_1139
+1139_0	compound	1139_1
+1139_0	has_surface_form	Ville
+1139_0	part_of_entity	Ville Haapasalo
+1139_1	is_in_sentence	sentence_1139
+1139_1	nsubj	1139_2
+1139_1	has_surface_form	Haapasalo
+1139_1	part_of_entity	Ville Haapasalo
+1139_2	is_in_sentence	sentence_1139
+1139_2	ROOT	1139_2
+1139_2	has_surface_form	married
+1139_3	is_in_sentence	sentence_1139
+1139_3	compound	1139_4
+1139_3	has_surface_form	Saara
+1139_3	part_of_entity	Saara Hedlund
+1139_4	is_in_sentence	sentence_1139
+1139_4	dobj	1139_2
+1139_4	has_surface_form	Hedlund
+1139_4	part_of_entity	Saara Hedlund
+1139_5	is_in_sentence	sentence_1139
+1139_5	prep	1139_2
+1139_5	has_surface_form	in
+1139_6	is_in_sentence	sentence_1139
+1139_6	pobj	1139_5
+1139_6	has_surface_form	1995
+1139_7	is_in_sentence	sentence_1139
+1139_7	cc	1139_2
+1139_7	has_surface_form	and
+1139_8	is_in_sentence	sentence_1139
+1139_8	nsubj	1139_10
+1139_8	has_surface_form	they
+1139_10	is_in_sentence	sentence_1139
+1139_10	conj	1139_2
+1139_10	has_surface_form	reside
+1139_9	is_in_sentence	sentence_1139
+1139_9	advmod	1139_10
+1139_9	has_surface_form	currently
+1139_11	is_in_sentence	sentence_1139
+1139_11	prep	1139_10
+1139_11	has_surface_form	in
+1139_12	is_in_sentence	sentence_1139
+1139_12	pobj	1139_11
+1139_12	has_surface_form	Helsinki
+1139_13	is_in_sentence	sentence_1139
+1139_13	punct	1139_12
+1139_13	has_surface_form	,
+1139_14	is_in_sentence	sentence_1139
+1139_14	appos	1139_12
+1139_14	has_surface_form	Finland
+1139_15	is_in_sentence	sentence_1139
+1139_15	punct	1139_10
+1139_15	has_surface_form	.
+1139_16	is_in_sentence	sentence_1139
+1139_16	dep	1139_2
+1139_16	has_surface_form	
+Ville Haapasalo	surface_form	Ville Haapasalo
+Ville Haapasalo	has-spouse	Saara Hedlund
+Saara Hedlund	surface_form	Saara Hedlund

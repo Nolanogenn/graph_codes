@@ -1,0 +1,50 @@
+22680_0	is_in_sentence	sentence_22680
+22680_0	compound	22680_1
+22680_0	has_surface_form	Matt
+22680_0	part_of_entity	Matt Dababneh
+22680_1	is_in_sentence	sentence_22680
+22680_1	nsubj	22680_2
+22680_1	has_surface_form	Dababneh
+22680_1	part_of_entity	Matt Dababneh
+22680_2	is_in_sentence	sentence_22680
+22680_2	ROOT	22680_2
+22680_2	has_surface_form	is
+22680_3	is_in_sentence	sentence_22680
+22680_3	det	22680_5
+22680_3	has_surface_form	an
+22680_5	is_in_sentence	sentence_22680
+22680_5	attr	22680_2
+22680_5	is_entity	politician
+22680_4	is_in_sentence	sentence_22680
+22680_4	amod	22680_5
+22680_4	has_surface_form	American
+politician	surface_form	politician
+22680_6	is_in_sentence	sentence_22680
+22680_6	nsubj	22680_7
+22680_6	has_surface_form	who
+22680_7	is_in_sentence	sentence_22680
+22680_7	relcl	22680_5
+22680_7	has_surface_form	served
+22680_8	is_in_sentence	sentence_22680
+22680_8	prep	22680_7
+22680_8	has_surface_form	in
+22680_9	is_in_sentence	sentence_22680
+22680_9	det	22680_12
+22680_9	has_surface_form	the
+22680_12	is_in_sentence	sentence_22680
+22680_12	pobj	22680_8
+22680_12	has_surface_form	Assembly
+22680_10	is_in_sentence	sentence_22680
+22680_10	compound	22680_12
+22680_10	has_surface_form	California
+22680_11	is_in_sentence	sentence_22680
+22680_11	compound	22680_12
+22680_11	has_surface_form	State
+22680_13	is_in_sentence	sentence_22680
+22680_13	punct	22680_2
+22680_13	has_surface_form	.
+22680_14	is_in_sentence	sentence_22680
+22680_14	dep	22680_2
+22680_14	has_surface_form	
+Matt Dababneh	surface_form	Matt Dababneh
+Matt Dababneh	has-occupation	politician

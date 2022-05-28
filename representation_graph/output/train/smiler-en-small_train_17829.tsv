@@ -1,0 +1,45 @@
+17828_0	is_in_sentence	sentence_17828
+17828_0	det	17828_3
+17828_0	has_surface_form	The
+17828_3	is_in_sentence	sentence_17828
+17828_3	nsubj	17828_4
+17828_3	has_surface_form	Highway
+17828_3	part_of_entity	West Tamar Highway
+17828_1	is_in_sentence	sentence_17828
+17828_1	compound	17828_2
+17828_1	has_surface_form	West
+17828_1	part_of_entity	West Tamar Highway
+17828_2	is_in_sentence	sentence_17828
+17828_2	compound	17828_3
+17828_2	has_surface_form	Tamar
+17828_2	part_of_entity	West Tamar Highway
+17828_4	is_in_sentence	sentence_17828
+17828_4	ROOT	17828_4
+17828_4	has_surface_form	is
+17828_5	is_in_sentence	sentence_17828
+17828_5	det	17828_6
+17828_5	has_surface_form	a
+17828_6	is_in_sentence	sentence_17828
+17828_6	attr	17828_4
+17828_6	is_entity	highway
+highway	surface_form	highway
+17828_7	is_in_sentence	sentence_17828
+17828_7	prep	17828_6
+17828_7	has_surface_form	in
+17828_8	is_in_sentence	sentence_17828
+17828_8	pobj	17828_7
+17828_8	has_surface_form	Tasmania
+17828_9	is_in_sentence	sentence_17828
+17828_9	punct	17828_8
+17828_9	has_surface_form	,
+17828_10	is_in_sentence	sentence_17828
+17828_10	appos	17828_8
+17828_10	has_surface_form	Australia
+17828_11	is_in_sentence	sentence_17828
+17828_11	punct	17828_4
+17828_11	has_surface_form	.
+17828_12	is_in_sentence	sentence_17828
+17828_12	dep	17828_4
+17828_12	has_surface_form	
+West Tamar Highway	surface_form	West Tamar Highway
+West Tamar Highway	has-type	highway

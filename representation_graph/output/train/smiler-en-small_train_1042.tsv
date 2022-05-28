@@ -1,0 +1,58 @@
+1041_0	is_in_sentence	sentence_1041
+1041_0	compound	1041_1
+1041_0	has_surface_form	Jean
+1041_0	part_of_entity	Jean Schneider
+1041_1	is_in_sentence	sentence_1041
+1041_1	nsubj	1041_2
+1041_1	has_surface_form	Schneider
+1041_1	part_of_entity	Jean Schneider
+1041_2	is_in_sentence	sentence_1041
+1041_2	ROOT	1041_2
+1041_2	has_surface_form	is
+1041_3	is_in_sentence	sentence_1041
+1041_3	det	1041_5
+1041_3	has_surface_form	an
+1041_5	is_in_sentence	sentence_1041
+1041_5	attr	1041_2
+1041_5	has_surface_form	historian
+1041_4	is_in_sentence	sentence_1041
+1041_4	amod	1041_5
+1041_4	has_surface_form	American
+1041_6	is_in_sentence	sentence_1041
+1041_6	punct	1041_2
+1041_6	has_surface_form	.
+1041_7	is_in_sentence	sentence_1041
+1041_7	nsubj	1041_8
+1041_7	has_surface_form	She
+1041_8	is_in_sentence	sentence_1041
+1041_8	ROOT	1041_8
+1041_8	has_surface_form	is
+1041_9	is_in_sentence	sentence_1041
+1041_9	det	1041_11
+1041_9	has_surface_form	a
+1041_11	is_in_sentence	sentence_1041
+1041_11	attr	1041_8
+1041_11	has_surface_form	Prize
+1041_11	part_of_entity	Pulitzer Prize
+1041_10	is_in_sentence	sentence_1041
+1041_10	compound	1041_11
+1041_10	has_surface_form	Pulitzer
+1041_10	part_of_entity	Pulitzer Prize
+1041_12	is_in_sentence	sentence_1041
+1041_12	prep	1041_11
+1041_12	has_surface_form	for
+1041_13	is_in_sentence	sentence_1041
+1041_13	compound	1041_14
+1041_13	has_surface_form	History
+1041_14	is_in_sentence	sentence_1041
+1041_14	pobj	1041_12
+1041_14	has_surface_form	winner
+1041_15	is_in_sentence	sentence_1041
+1041_15	punct	1041_8
+1041_15	has_surface_form	.
+1041_16	is_in_sentence	sentence_1041
+1041_16	dep	1041_16
+1041_16	has_surface_form	
+Jean Schneider	surface_form	Jean Schneider
+Jean Schneider	won-award	Pulitzer Prize
+Pulitzer Prize	surface_form	Pulitzer Prize

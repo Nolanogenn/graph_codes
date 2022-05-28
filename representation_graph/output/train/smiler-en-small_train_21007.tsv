@@ -1,0 +1,79 @@
+21006_0	is_in_sentence	sentence_21006
+21006_0	compound	21006_1
+21006_0	has_surface_form	Egan
+21006_0	part_of_entity	Egan Arley Bernal Gómez
+21006_1	is_in_sentence	sentence_21006
+21006_1	compound	21006_3
+21006_1	has_surface_form	Arley
+21006_1	part_of_entity	Egan Arley Bernal Gómez
+21006_3	is_in_sentence	sentence_21006
+21006_3	nsubj	21006_10
+21006_3	has_surface_form	Gómez
+21006_3	part_of_entity	Egan Arley Bernal Gómez
+21006_2	is_in_sentence	sentence_21006
+21006_2	compound	21006_3
+21006_2	has_surface_form	Bernal
+21006_2	part_of_entity	Egan Arley Bernal Gómez
+21006_10	is_in_sentence	sentence_21006
+21006_10	ROOT	21006_10
+21006_10	has_surface_form	is
+21006_4	is_in_sentence	sentence_21006
+21006_4	punct	21006_5
+21006_4	has_surface_form	(
+21006_5	is_in_sentence	sentence_21006
+21006_5	parataxis	21006_3
+21006_5	has_surface_form	born
+21006_6	is_in_sentence	sentence_21006
+21006_6	nummod	21006_7
+21006_6	has_surface_form	13
+21006_7	is_in_sentence	sentence_21006
+21006_7	npadvmod	21006_5
+21006_7	has_surface_form	January
+21006_8	is_in_sentence	sentence_21006
+21006_8	nummod	21006_7
+21006_8	has_surface_form	1997
+21006_9	is_in_sentence	sentence_21006
+21006_9	punct	21006_3
+21006_9	has_surface_form	)
+21006_11	is_in_sentence	sentence_21006
+21006_11	det	21006_13
+21006_11	has_surface_form	a
+21006_13	is_in_sentence	sentence_21006
+21006_13	attr	21006_10
+21006_13	has_surface_form	cyclist
+21006_12	is_in_sentence	sentence_21006
+21006_12	amod	21006_13
+21006_12	is_entity	Colombian
+Colombian	surface_form	Colombian
+21006_14	is_in_sentence	sentence_21006
+21006_14	punct	21006_13
+21006_14	has_surface_form	,
+21006_15	is_in_sentence	sentence_21006
+21006_15	nsubj	21006_16
+21006_15	has_surface_form	who
+21006_16	is_in_sentence	sentence_21006
+21006_16	relcl	21006_13
+21006_16	has_surface_form	rides
+21006_17	is_in_sentence	sentence_21006
+21006_17	prep	21006_16
+21006_17	has_surface_form	for
+21006_18	is_in_sentence	sentence_21006
+21006_18	compound	21006_19
+21006_18	has_surface_form	UCI
+21006_19	is_in_sentence	sentence_21006
+21006_19	compound	21006_21
+21006_19	has_surface_form	WorldTeam
+21006_21	is_in_sentence	sentence_21006
+21006_21	pobj	21006_17
+21006_21	has_surface_form	Ineos
+21006_20	is_in_sentence	sentence_21006
+21006_20	compound	21006_21
+21006_20	has_surface_form	Team
+21006_22	is_in_sentence	sentence_21006
+21006_22	punct	21006_10
+21006_22	has_surface_form	.
+21006_23	is_in_sentence	sentence_21006
+21006_23	dep	21006_10
+21006_23	has_surface_form	
+Egan Arley Bernal Gómez	surface_form	Egan Arley Bernal Gómez
+Egan Arley Bernal Gómez	has-nationality	Colombian

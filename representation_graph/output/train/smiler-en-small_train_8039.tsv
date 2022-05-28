@@ -1,0 +1,82 @@
+8038_0	is_in_sentence	sentence_8038
+8038_0	compound	8038_1
+8038_0	has_surface_form	Milwaukee
+8038_0	part_of_entity	Milwaukee Area Technical College
+8038_1	is_in_sentence	sentence_8038
+8038_1	compound	8038_3
+8038_1	has_surface_form	Area
+8038_1	part_of_entity	Milwaukee Area Technical College
+8038_3	is_in_sentence	sentence_8038
+8038_3	nsubj	8038_8
+8038_3	has_surface_form	College
+8038_3	part_of_entity	Milwaukee Area Technical College
+8038_2	is_in_sentence	sentence_8038
+8038_2	compound	8038_3
+8038_2	has_surface_form	Technical
+8038_2	part_of_entity	Milwaukee Area Technical College
+8038_8	is_in_sentence	sentence_8038
+8038_8	ROOT	8038_8
+8038_8	has_surface_form	is
+8038_4	is_in_sentence	sentence_8038
+8038_4	punct	8038_3
+8038_4	has_surface_form	(
+8038_5	is_in_sentence	sentence_8038
+8038_5	cc	8038_3
+8038_5	has_surface_form	or
+8038_6	is_in_sentence	sentence_8038
+8038_6	conj	8038_3
+8038_6	has_surface_form	MATC
+8038_7	is_in_sentence	sentence_8038
+8038_7	punct	8038_6
+8038_7	has_surface_form	)
+8038_9	is_in_sentence	sentence_8038
+8038_9	det	8038_17
+8038_9	has_surface_form	a
+8038_17	is_in_sentence	sentence_8038
+8038_17	attr	8038_8
+8038_17	has_surface_form	college
+8038_10	is_in_sentence	sentence_8038
+8038_10	amod	8038_17
+8038_10	has_surface_form	public
+8038_11	is_in_sentence	sentence_8038
+8038_11	nummod	8038_13
+8038_11	has_surface_form	two
+8038_13	is_in_sentence	sentence_8038
+8038_13	nmod	8038_17
+8038_13	has_surface_form	year
+8038_12	is_in_sentence	sentence_8038
+8038_12	punct	8038_13
+8038_12	has_surface_form	-
+8038_14	is_in_sentence	sentence_8038
+8038_14	amod	8038_16
+8038_14	has_surface_form	vocational
+8038_16	is_in_sentence	sentence_8038
+8038_16	amod	8038_17
+8038_16	has_surface_form	technical
+8038_15	is_in_sentence	sentence_8038
+8038_15	punct	8038_16
+8038_15	has_surface_form	-
+8038_18	is_in_sentence	sentence_8038
+8038_18	acl	8038_17
+8038_18	has_surface_form	based
+8038_19	is_in_sentence	sentence_8038
+8038_19	prep	8038_18
+8038_19	has_surface_form	in
+8038_20	is_in_sentence	sentence_8038
+8038_20	pobj	8038_19
+8038_20	has_surface_form	Milwaukee
+8038_21	is_in_sentence	sentence_8038
+8038_21	punct	8038_20
+8038_21	has_surface_form	,
+8038_22	is_in_sentence	sentence_8038
+8038_22	appos	8038_20
+8038_22	has_surface_form	Wisconsin
+8038_23	is_in_sentence	sentence_8038
+8038_23	punct	8038_8
+8038_23	has_surface_form	.
+8038_24	is_in_sentence	sentence_8038
+8038_24	dep	8038_8
+8038_24	has_surface_form	
+Milwaukee Area Technical College	surface_form	Milwaukee Area Technical College
+Milwaukee Area Technical College	is-where	Milwaukee, Wisconsin
+Milwaukee, Wisconsin	surface_form	Milwaukee, Wisconsin

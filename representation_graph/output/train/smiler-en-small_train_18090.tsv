@@ -1,0 +1,93 @@
+18089_0	is_in_sentence	sentence_18089
+18089_0	nsubj	18089_1
+18089_0	has_surface_form	He
+18089_1	is_in_sentence	sentence_18089
+18089_1	ROOT	18089_1
+18089_1	has_surface_form	married
+18089_2	is_in_sentence	sentence_18089
+18089_2	compound	18089_4
+18089_2	has_surface_form	Gloria
+18089_2	part_of_entity	Gloria Anthea Harker
+18089_4	is_in_sentence	sentence_18089
+18089_4	dobj	18089_1
+18089_4	has_surface_form	Harker
+18089_4	part_of_entity	Gloria Anthea Harker
+18089_3	is_in_sentence	sentence_18089
+18089_3	compound	18089_4
+18089_3	has_surface_form	Anthea
+18089_3	part_of_entity	Gloria Anthea Harker
+18089_5	is_in_sentence	sentence_18089
+18089_5	punct	18089_4
+18089_5	has_surface_form	,
+18089_6	is_in_sentence	sentence_18089
+18089_6	appos	18089_4
+18089_6	has_surface_form	daughter
+18089_7	is_in_sentence	sentence_18089
+18089_7	prep	18089_6
+18089_7	has_surface_form	of
+18089_8	is_in_sentence	sentence_18089
+18089_8	compound	18089_10
+18089_8	has_surface_form	Herbert
+18089_8	part_of_entity	Herbert Bryant Harker
+18089_10	is_in_sentence	sentence_18089
+18089_10	pobj	18089_7
+18089_10	has_surface_form	Harker
+18089_10	part_of_entity	Herbert Bryant Harker
+18089_9	is_in_sentence	sentence_18089
+18089_9	compound	18089_10
+18089_9	has_surface_form	Bryant
+18089_9	part_of_entity	Herbert Bryant Harker
+18089_11	is_in_sentence	sentence_18089
+18089_11	punct	18089_10
+18089_11	has_surface_form	,
+18089_12	is_in_sentence	sentence_18089
+18089_12	prep	18089_10
+18089_12	has_surface_form	of
+18089_13	is_in_sentence	sentence_18089
+18089_13	pobj	18089_12
+18089_13	has_surface_form	Melbourne
+18089_14	is_in_sentence	sentence_18089
+18089_14	punct	18089_13
+18089_14	has_surface_form	,
+18089_15	is_in_sentence	sentence_18089
+18089_15	appos	18089_13
+18089_15	has_surface_form	Australia
+18089_16	is_in_sentence	sentence_18089
+18089_16	punct	18089_13
+18089_16	has_surface_form	,
+18089_17	is_in_sentence	sentence_18089
+18089_17	prep	18089_1
+18089_17	has_surface_form	on
+18089_18	is_in_sentence	sentence_18089
+18089_18	nummod	18089_19
+18089_18	has_surface_form	18
+18089_19	is_in_sentence	sentence_18089
+18089_19	pobj	18089_17
+18089_19	has_surface_form	February
+18089_20	is_in_sentence	sentence_18089
+18089_20	nummod	18089_19
+18089_20	has_surface_form	1939
+18089_21	is_in_sentence	sentence_18089
+18089_21	punct	18089_1
+18089_21	has_surface_form	,
+18089_22	is_in_sentence	sentence_18089
+18089_22	cc	18089_1
+18089_22	has_surface_form	and
+18089_23	is_in_sentence	sentence_18089
+18089_23	conj	18089_1
+18089_23	has_surface_form	had
+18089_24	is_in_sentence	sentence_18089
+18089_24	dobj	18089_23
+18089_24	has_surface_form	issue
+18089_25	is_in_sentence	sentence_18089
+18089_25	punct	18089_1
+18089_25	has_surface_form	:
+18089_26	is_in_sentence	sentence_18089
+18089_26	punct	18089_1
+18089_26	has_surface_form	.
+18089_27	is_in_sentence	sentence_18089
+18089_27	dep	18089_1
+18089_27	has_surface_form	
+Gloria Anthea Harker	surface_form	Gloria Anthea Harker
+Gloria Anthea Harker	has-child	Herbert Bryant Harker
+Herbert Bryant Harker	surface_form	Herbert Bryant Harker

@@ -1,0 +1,74 @@
+32208_0	is_in_sentence	sentence_32208
+32208_0	det	32208_2
+32208_0	has_surface_form	The
+32208_2	is_in_sentence	sentence_32208
+32208_2	nsubj	32208_3
+32208_2	has_surface_form	turbine
+32208_2	part_of_entity	Francis turbine
+32208_1	is_in_sentence	sentence_32208
+32208_1	compound	32208_2
+32208_1	has_surface_form	Francis
+32208_1	part_of_entity	Francis turbine
+32208_3	is_in_sentence	sentence_32208
+32208_3	ROOT	32208_3
+32208_3	has_surface_form	is
+32208_4	is_in_sentence	sentence_32208
+32208_4	det	32208_5
+32208_4	has_surface_form	a
+32208_5	is_in_sentence	sentence_32208
+32208_5	attr	32208_3
+32208_5	has_surface_form	type
+32208_6	is_in_sentence	sentence_32208
+32208_6	prep	32208_5
+32208_6	has_surface_form	of
+32208_7	is_in_sentence	sentence_32208
+32208_7	compound	32208_8
+32208_7	has_surface_form	water
+32208_8	is_in_sentence	sentence_32208
+32208_8	pobj	32208_6
+32208_8	has_surface_form	turbine
+32208_9	is_in_sentence	sentence_32208
+32208_9	nsubjpass	32208_11
+32208_9	has_surface_form	that
+32208_11	is_in_sentence	sentence_32208
+32208_11	relcl	32208_5
+32208_11	has_surface_form	developed
+32208_10	is_in_sentence	sentence_32208
+32208_10	auxpass	32208_11
+32208_10	has_surface_form	was
+32208_12	is_in_sentence	sentence_32208
+32208_12	agent	32208_11
+32208_12	has_surface_form	by
+32208_13	is_in_sentence	sentence_32208
+32208_13	compound	32208_15
+32208_13	has_surface_form	James
+32208_13	part_of_entity	James B. Francis
+32208_15	is_in_sentence	sentence_32208
+32208_15	pobj	32208_12
+32208_15	has_surface_form	Francis
+32208_15	part_of_entity	James B. Francis
+32208_14	is_in_sentence	sentence_32208
+32208_14	compound	32208_15
+32208_14	has_surface_form	B.
+32208_14	part_of_entity	James B. Francis
+32208_16	is_in_sentence	sentence_32208
+32208_16	prep	32208_15
+32208_16	has_surface_form	in
+32208_17	is_in_sentence	sentence_32208
+32208_17	pobj	32208_16
+32208_17	has_surface_form	Lowell
+32208_18	is_in_sentence	sentence_32208
+32208_18	punct	32208_17
+32208_18	has_surface_form	,
+32208_19	is_in_sentence	sentence_32208
+32208_19	appos	32208_17
+32208_19	has_surface_form	Massachusetts
+32208_20	is_in_sentence	sentence_32208
+32208_20	punct	32208_3
+32208_20	has_surface_form	.
+32208_21	is_in_sentence	sentence_32208
+32208_21	dep	32208_3
+32208_21	has_surface_form	
+Francis turbine	surface_form	Francis turbine
+Francis turbine	invented-by	James B. Francis
+James B. Francis	surface_form	James B. Francis

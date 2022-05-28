@@ -1,0 +1,94 @@
+13171_0	is_in_sentence	sentence_13171
+13171_0	compound	13171_1
+13171_0	has_surface_form	Susan
+13171_0	part_of_entity	Susan Neville
+13171_1	is_in_sentence	sentence_13171
+13171_1	nsubj	13171_12
+13171_1	has_surface_form	Neville
+13171_1	part_of_entity	Susan Neville
+13171_12	is_in_sentence	sentence_13171
+13171_12	ROOT	13171_12
+13171_12	has_surface_form	is
+13171_2	is_in_sentence	sentence_13171
+13171_2	punct	13171_3
+13171_2	has_surface_form	(
+13171_3	is_in_sentence	sentence_13171
+13171_3	relcl	13171_1
+13171_3	has_surface_form	born
+13171_4	is_in_sentence	sentence_13171
+13171_4	npadvmod	13171_3
+13171_4	has_surface_form	January
+13171_5	is_in_sentence	sentence_13171
+13171_5	nummod	13171_4
+13171_5	has_surface_form	4
+13171_6	is_in_sentence	sentence_13171
+13171_6	punct	13171_4
+13171_6	has_surface_form	,
+13171_7	is_in_sentence	sentence_13171
+13171_7	nummod	13171_4
+13171_7	has_surface_form	1951
+13171_8	is_in_sentence	sentence_13171
+13171_8	appos	13171_4
+13171_8	has_surface_form	Indianapolis
+13171_9	is_in_sentence	sentence_13171
+13171_9	punct	13171_8
+13171_9	has_surface_form	,
+13171_10	is_in_sentence	sentence_13171
+13171_10	appos	13171_8
+13171_10	has_surface_form	Indiana
+13171_11	is_in_sentence	sentence_13171
+13171_11	punct	13171_8
+13171_11	has_surface_form	)
+13171_13	is_in_sentence	sentence_13171
+13171_13	det	13171_17
+13171_13	has_surface_form	an
+13171_17	is_in_sentence	sentence_13171
+13171_17	attr	13171_12
+13171_17	has_surface_form	writer
+13171_14	is_in_sentence	sentence_13171
+13171_14	amod	13171_17
+13171_14	has_surface_form	American
+13171_15	is_in_sentence	sentence_13171
+13171_15	amod	13171_16
+13171_15	has_surface_form	short
+13171_16	is_in_sentence	sentence_13171
+13171_16	compound	13171_17
+13171_16	has_surface_form	story
+13171_18	is_in_sentence	sentence_13171
+13171_18	punct	13171_17
+13171_18	has_surface_form	,
+13171_19	is_in_sentence	sentence_13171
+13171_19	cc	13171_12
+13171_19	has_surface_form	and
+13171_20	is_in_sentence	sentence_13171
+13171_20	conj	13171_12
+13171_20	has_surface_form	writing
+13171_21	is_in_sentence	sentence_13171
+13171_21	dobj	13171_20
+13171_21	has_surface_form	professor
+13171_22	is_in_sentence	sentence_13171
+13171_22	punct	13171_12
+13171_22	has_surface_form	.
+13171_23	is_in_sentence	sentence_13171
+13171_23	nsubj	13171_24
+13171_23	has_surface_form	She
+13171_24	is_in_sentence	sentence_13171
+13171_24	ROOT	13171_24
+13171_24	has_surface_form	married
+13171_25	is_in_sentence	sentence_13171
+13171_25	compound	13171_26
+13171_25	has_surface_form	Ken
+13171_25	part_of_entity	Ken Neville
+13171_26	is_in_sentence	sentence_13171
+13171_26	npadvmod	13171_24
+13171_26	has_surface_form	Neville
+13171_26	part_of_entity	Ken Neville
+13171_27	is_in_sentence	sentence_13171
+13171_27	punct	13171_24
+13171_27	has_surface_form	.
+13171_28	is_in_sentence	sentence_13171
+13171_28	dep	13171_24
+13171_28	has_surface_form	
+Susan Neville	surface_form	Susan Neville
+Susan Neville	has-spouse	Ken Neville
+Ken Neville	surface_form	Ken Neville

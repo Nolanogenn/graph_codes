@@ -1,0 +1,58 @@
+6144_0	is_in_sentence	sentence_6144
+6144_0	compound	6144_1
+6144_0	has_surface_form	Seaton
+6144_0	part_of_entity	Seaton Park
+6144_1	is_in_sentence	sentence_6144
+6144_1	nsubj	6144_2
+6144_1	has_surface_form	Park
+6144_1	part_of_entity	Seaton Park
+6144_2	is_in_sentence	sentence_6144
+6144_2	ROOT	6144_2
+6144_2	has_surface_form	is
+6144_3	is_in_sentence	sentence_6144
+6144_3	det	6144_5
+6144_3	has_surface_form	a
+6144_5	is_in_sentence	sentence_6144
+6144_5	attr	6144_2
+6144_5	has_surface_form	park
+6144_5	part_of_entity	public park
+6144_4	is_in_sentence	sentence_6144
+6144_4	amod	6144_5
+6144_4	has_surface_form	public
+6144_4	part_of_entity	public park
+6144_6	is_in_sentence	sentence_6144
+6144_6	prep	6144_5
+6144_6	has_surface_form	in
+6144_7	is_in_sentence	sentence_6144
+6144_7	det	6144_10
+6144_7	has_surface_form	the
+6144_10	is_in_sentence	sentence_6144
+6144_10	pobj	6144_6
+6144_10	has_surface_form	area
+6144_8	is_in_sentence	sentence_6144
+6144_8	compound	6144_9
+6144_8	has_surface_form	Old
+6144_9	is_in_sentence	sentence_6144
+6144_9	compound	6144_10
+6144_9	has_surface_form	Aberdeen
+6144_11	is_in_sentence	sentence_6144
+6144_11	prep	6144_10
+6144_11	has_surface_form	of
+6144_12	is_in_sentence	sentence_6144
+6144_12	pobj	6144_11
+6144_12	has_surface_form	Aberdeen
+6144_13	is_in_sentence	sentence_6144
+6144_13	punct	6144_12
+6144_13	has_surface_form	,
+6144_14	is_in_sentence	sentence_6144
+6144_14	appos	6144_12
+6144_14	has_surface_form	Scotland
+6144_15	is_in_sentence	sentence_6144
+6144_15	punct	6144_2
+6144_15	has_surface_form	.
+6144_16	is_in_sentence	sentence_6144
+6144_16	dep	6144_2
+6144_16	has_surface_form	
+Seaton Park	surface_form	Seaton Park
+Seaton Park	has-type	public park
+public park	surface_form	public park

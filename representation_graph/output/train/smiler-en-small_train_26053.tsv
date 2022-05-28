@@ -1,0 +1,63 @@
+26052_0	is_in_sentence	sentence_26052
+26052_0	compound	26052_1
+26052_0	has_surface_form	North
+26052_0	part_of_entity	North Carolina Highway 268
+26052_1	is_in_sentence	sentence_26052
+26052_1	compound	26052_2
+26052_1	has_surface_form	Carolina
+26052_1	part_of_entity	North Carolina Highway 268
+26052_2	is_in_sentence	sentence_26052
+26052_2	nsubj	26052_9
+26052_2	has_surface_form	Highway
+26052_2	part_of_entity	North Carolina Highway 268
+26052_9	is_in_sentence	sentence_26052
+26052_9	ROOT	26052_9
+26052_9	has_surface_form	is
+26052_3	is_in_sentence	sentence_26052
+26052_3	nummod	26052_2
+26052_3	has_surface_form	268
+26052_3	part_of_entity	North Carolina Highway 268
+26052_4	is_in_sentence	sentence_26052
+26052_4	punct	26052_2
+26052_4	has_surface_form	(
+26052_5	is_in_sentence	sentence_26052
+26052_5	compound	26052_6
+26052_5	has_surface_form	NC
+26052_6	is_in_sentence	sentence_26052
+26052_6	dep	26052_2
+26052_6	has_surface_form	 
+26052_7	is_in_sentence	sentence_26052
+26052_7	nummod	26052_6
+26052_7	has_surface_form	268
+26052_8	is_in_sentence	sentence_26052
+26052_8	punct	26052_2
+26052_8	has_surface_form	)
+26052_10	is_in_sentence	sentence_26052
+26052_10	det	26052_13
+26052_10	has_surface_form	a
+26052_13	is_in_sentence	sentence_26052
+26052_13	attr	26052_9
+26052_13	has_surface_form	highway
+26052_13	part_of_entity	state highway
+26052_11	is_in_sentence	sentence_26052
+26052_11	amod	26052_13
+26052_11	has_surface_form	primary
+26052_12	is_in_sentence	sentence_26052
+26052_12	compound	26052_13
+26052_12	has_surface_form	state
+26052_12	part_of_entity	state highway
+26052_14	is_in_sentence	sentence_26052
+26052_14	prep	26052_13
+26052_14	has_surface_form	in
+26052_15	is_in_sentence	sentence_26052
+26052_15	det	26052_16
+26052_15	has_surface_form	the
+26052_16	is_in_sentence	sentence_26052
+26052_16	pobj	26052_14
+26052_16	has_surface_form	U.
+26052_17	is_in_sentence	sentence_26052
+26052_17	dep	26052_9
+26052_17	has_surface_form	
+North Carolina Highway 268	surface_form	North Carolina Highway 268
+North Carolina Highway 268	has-type	state highway
+state highway	surface_form	state highway

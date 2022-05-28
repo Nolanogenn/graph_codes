@@ -1,0 +1,38 @@
+14357_0	is_in_sentence	sentence_14357
+14357_0	det	14357_2
+14357_0	has_surface_form	The
+14357_2	is_in_sentence	sentence_14357
+14357_2	nsubj	14357_3
+14357_2	has_surface_form	brothers
+14357_1	is_in_sentence	sentence_14357
+14357_1	compound	14357_2
+14357_1	is_entity	Lumière
+Lumière	surface_form	Lumière
+14357_3	is_in_sentence	sentence_14357
+14357_3	ROOT	14357_3
+14357_3	has_surface_form	invented
+14357_4	is_in_sentence	sentence_14357
+14357_4	det	14357_8
+14357_4	has_surface_form	the
+14357_8	is_in_sentence	sentence_14357
+14357_8	dobj	14357_3
+14357_8	has_surface_form	projector
+14357_8	part_of_entity	movie projector
+14357_5	is_in_sentence	sentence_14357
+14357_5	amod	14357_8
+14357_5	has_surface_form	first
+14357_6	is_in_sentence	sentence_14357
+14357_6	amod	14357_8
+14357_6	has_surface_form	successful
+14357_7	is_in_sentence	sentence_14357
+14357_7	compound	14357_8
+14357_7	has_surface_form	movie
+14357_7	part_of_entity	movie projector
+14357_9	is_in_sentence	sentence_14357
+14357_9	punct	14357_3
+14357_9	has_surface_form	.
+14357_10	is_in_sentence	sentence_14357
+14357_10	dep	14357_10
+14357_10	has_surface_form	
+movie projector	surface_form	movie projector
+movie projector	invented-by	Lumière

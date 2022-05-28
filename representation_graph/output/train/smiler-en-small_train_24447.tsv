@@ -1,0 +1,75 @@
+24446_0	is_in_sentence	sentence_24446
+24446_0	nsubj	24446_1
+24446_0	has_surface_form	Les
+24446_0	part_of_entity	Les copains du dimanche
+24446_1	is_in_sentence	sentence_24446
+24446_1	ROOT	24446_1
+24446_1	has_surface_form	copains
+24446_1	part_of_entity	Les copains du dimanche
+24446_2	is_in_sentence	sentence_24446
+24446_2	compound	24446_3
+24446_2	has_surface_form	du
+24446_2	part_of_entity	Les copains du dimanche
+24446_3	is_in_sentence	sentence_24446
+24446_3	nsubj	24446_4
+24446_3	has_surface_form	dimanche
+24446_3	part_of_entity	Les copains du dimanche
+24446_4	is_in_sentence	sentence_24446
+24446_4	ccomp	24446_1
+24446_4	has_surface_form	is
+24446_5	is_in_sentence	sentence_24446
+24446_5	det	24446_7
+24446_5	has_surface_form	a
+24446_7	is_in_sentence	sentence_24446
+24446_7	attr	24446_4
+24446_7	has_surface_form	film
+24446_6	is_in_sentence	sentence_24446
+24446_6	nummod	24446_7
+24446_6	has_surface_form	1958
+24446_8	is_in_sentence	sentence_24446
+24446_8	nsubj	24446_9
+24446_8	has_surface_form	which
+24446_9	is_in_sentence	sentence_24446
+24446_9	relcl	24446_7
+24446_9	has_surface_form	stars
+24446_10	is_in_sentence	sentence_24446
+24446_10	compound	24446_12
+24446_10	has_surface_form	Jean
+24446_12	is_in_sentence	sentence_24446
+24446_12	dobj	24446_9
+24446_12	has_surface_form	Belmondo
+24446_11	is_in_sentence	sentence_24446
+24446_11	compound	24446_12
+24446_11	has_surface_form	Paul
+24446_13	is_in_sentence	sentence_24446
+24446_13	punct	24446_1
+24446_13	has_surface_form	.
+24446_14	is_in_sentence	sentence_24446
+24446_14	nsubjpass	24446_16
+24446_14	has_surface_form	It
+24446_16	is_in_sentence	sentence_24446
+24446_16	ROOT	24446_16
+24446_16	has_surface_form	directed
+24446_15	is_in_sentence	sentence_24446
+24446_15	auxpass	24446_16
+24446_15	has_surface_form	was
+24446_17	is_in_sentence	sentence_24446
+24446_17	agent	24446_16
+24446_17	has_surface_form	by
+24446_18	is_in_sentence	sentence_24446
+24446_18	compound	24446_19
+24446_18	has_surface_form	Henri
+24446_18	part_of_entity	Henri Aisner
+24446_19	is_in_sentence	sentence_24446
+24446_19	pobj	24446_17
+24446_19	has_surface_form	Aisner
+24446_19	part_of_entity	Henri Aisner
+24446_20	is_in_sentence	sentence_24446
+24446_20	punct	24446_16
+24446_20	has_surface_form	.
+24446_21	is_in_sentence	sentence_24446
+24446_21	dep	24446_21
+24446_21	has_surface_form	
+Les copains du dimanche	surface_form	Les copains du dimanche
+Les copains du dimanche	movie-has-director	Henri Aisner
+Henri Aisner	surface_form	Henri Aisner

@@ -1,0 +1,59 @@
+30962_0	is_in_sentence	sentence_30962
+30962_0	compound	30962_1
+30962_0	has_surface_form	Lise
+30962_0	part_of_entity	Lise Cabble
+30962_1	is_in_sentence	sentence_30962
+30962_1	nsubj	30962_10
+30962_1	has_surface_form	Cabble
+30962_1	part_of_entity	Lise Cabble
+30962_10	is_in_sentence	sentence_30962
+30962_10	ROOT	30962_10
+30962_10	has_surface_form	is
+30962_2	is_in_sentence	sentence_30962
+30962_2	punct	30962_3
+30962_2	has_surface_form	(
+30962_3	is_in_sentence	sentence_30962
+30962_3	acl	30962_1
+30962_3	has_surface_form	born
+30962_4	is_in_sentence	sentence_30962
+30962_4	nummod	30962_5
+30962_4	has_surface_form	10
+30962_5	is_in_sentence	sentence_30962
+30962_5	npadvmod	30962_3
+30962_5	has_surface_form	January
+30962_6	is_in_sentence	sentence_30962
+30962_6	nummod	30962_5
+30962_6	has_surface_form	1958
+30962_7	is_in_sentence	sentence_30962
+30962_7	punct	30962_1
+30962_7	has_surface_form	,
+30962_8	is_in_sentence	sentence_30962
+30962_8	appos	30962_1
+30962_8	is_entity	Amager
+Amager	surface_form	Amager
+30962_9	is_in_sentence	sentence_30962
+30962_9	punct	30962_1
+30962_9	has_surface_form	)
+30962_11	is_in_sentence	sentence_30962
+30962_11	det	30962_13
+30962_11	has_surface_form	a
+30962_13	is_in_sentence	sentence_30962
+30962_13	attr	30962_10
+30962_13	has_surface_form	singer
+30962_12	is_in_sentence	sentence_30962
+30962_12	amod	30962_13
+30962_12	has_surface_form	Danish
+30962_14	is_in_sentence	sentence_30962
+30962_14	cc	30962_13
+30962_14	has_surface_form	and
+30962_15	is_in_sentence	sentence_30962
+30962_15	conj	30962_13
+30962_15	has_surface_form	songwriter
+30962_16	is_in_sentence	sentence_30962
+30962_16	punct	30962_10
+30962_16	has_surface_form	.
+30962_17	is_in_sentence	sentence_30962
+30962_17	dep	30962_17
+30962_17	has_surface_form	
+Lise Cabble	surface_form	Lise Cabble
+Lise Cabble	birth-place	Amager

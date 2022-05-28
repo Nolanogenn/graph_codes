@@ -1,0 +1,83 @@
+15657_0	is_in_sentence	sentence_15657
+15657_0	nsubj	15657_13
+15657_0	has_surface_form	Vacations
+15657_0	part_of_entity	Vacations in Majorca
+15657_13	is_in_sentence	sentence_15657
+15657_13	ROOT	15657_13
+15657_13	has_surface_form	is
+15657_1	is_in_sentence	sentence_15657
+15657_1	prep	15657_0
+15657_1	has_surface_form	in
+15657_1	part_of_entity	Vacations in Majorca
+15657_2	is_in_sentence	sentence_15657
+15657_2	pobj	15657_1
+15657_2	has_surface_form	Majorca
+15657_2	part_of_entity	Vacations in Majorca
+15657_3	is_in_sentence	sentence_15657
+15657_3	punct	15657_4
+15657_3	has_surface_form	(
+15657_4	is_in_sentence	sentence_15657
+15657_4	appos	15657_2
+15657_4	has_surface_form	Italian
+15657_5	is_in_sentence	sentence_15657
+15657_5	punct	15657_4
+15657_5	has_surface_form	:
+15657_6	is_in_sentence	sentence_15657
+15657_6	compound	15657_7
+15657_6	has_surface_form	Brevi
+15657_7	is_in_sentence	sentence_15657
+15657_7	appos	15657_0
+15657_7	has_surface_form	amori
+15657_8	is_in_sentence	sentence_15657
+15657_8	det	15657_11
+15657_8	has_surface_form	a
+15657_11	is_in_sentence	sentence_15657
+15657_11	appos	15657_7
+15657_11	has_surface_form	Majorca
+15657_9	is_in_sentence	sentence_15657
+15657_9	compound	15657_11
+15657_9	has_surface_form	Palma
+15657_10	is_in_sentence	sentence_15657
+15657_10	compound	15657_11
+15657_10	has_surface_form	di
+15657_12	is_in_sentence	sentence_15657
+15657_12	punct	15657_7
+15657_12	has_surface_form	)
+15657_14	is_in_sentence	sentence_15657
+15657_14	det	15657_18
+15657_14	has_surface_form	a
+15657_18	is_in_sentence	sentence_15657
+15657_18	attr	15657_13
+15657_18	has_surface_form	film
+15657_15	is_in_sentence	sentence_15657
+15657_15	nummod	15657_18
+15657_15	has_surface_form	1959
+15657_16	is_in_sentence	sentence_15657
+15657_16	amod	15657_18
+15657_16	has_surface_form	Italian
+15657_17	is_in_sentence	sentence_15657
+15657_17	compound	15657_18
+15657_17	has_surface_form	comedy
+15657_19	is_in_sentence	sentence_15657
+15657_19	acl	15657_18
+15657_19	has_surface_form	directed
+15657_20	is_in_sentence	sentence_15657
+15657_20	agent	15657_19
+15657_20	has_surface_form	by
+15657_21	is_in_sentence	sentence_15657
+15657_21	compound	15657_22
+15657_21	has_surface_form	Giorgio
+15657_21	part_of_entity	Giorgio Bianchi
+15657_22	is_in_sentence	sentence_15657
+15657_22	pobj	15657_20
+15657_22	has_surface_form	Bianchi
+15657_22	part_of_entity	Giorgio Bianchi
+15657_23	is_in_sentence	sentence_15657
+15657_23	punct	15657_13
+15657_23	has_surface_form	.
+15657_24	is_in_sentence	sentence_15657
+15657_24	dep	15657_13
+15657_24	has_surface_form	
+Vacations in Majorca	surface_form	Vacations in Majorca
+Vacations in Majorca	movie-has-director	Giorgio Bianchi
+Giorgio Bianchi	surface_form	Giorgio Bianchi

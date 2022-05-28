@@ -1,0 +1,86 @@
+12446_0	is_in_sentence	sentence_12446
+12446_0	nummod	12446_2
+12446_0	has_surface_form	108
+12446_0	part_of_entity	108 Demon Kings
+12446_2	is_in_sentence	sentence_12446
+12446_2	nsubj	12446_11
+12446_2	has_surface_form	Kings
+12446_2	part_of_entity	108 Demon Kings
+12446_1	is_in_sentence	sentence_12446
+12446_1	compound	12446_2
+12446_1	has_surface_form	Demon
+12446_1	part_of_entity	108 Demon Kings
+12446_11	is_in_sentence	sentence_12446
+12446_11	ROOT	12446_11
+12446_11	has_surface_form	is
+12446_3	is_in_sentence	sentence_12446
+12446_3	punct	12446_2
+12446_3	has_surface_form	(
+12446_4	is_in_sentence	sentence_12446
+12446_4	appos	12446_2
+12446_4	has_surface_form	French
+12446_5	is_in_sentence	sentence_12446
+12446_5	punct	12446_4
+12446_5	has_surface_form	:
+12446_6	is_in_sentence	sentence_12446
+12446_6	nummod	12446_9
+12446_6	has_surface_form	108
+12446_9	is_in_sentence	sentence_12446
+12446_9	appos	12446_4
+12446_9	has_surface_form	Démons
+12446_7	is_in_sentence	sentence_12446
+12446_7	compound	12446_9
+12446_7	has_surface_form	Rois
+12446_8	is_in_sentence	sentence_12446
+12446_8	punct	12446_9
+12446_8	has_surface_form	-
+12446_10	is_in_sentence	sentence_12446
+12446_10	punct	12446_4
+12446_10	has_surface_form	)
+12446_12	is_in_sentence	sentence_12446
+12446_12	det	12446_19
+12446_12	has_surface_form	a
+12446_19	is_in_sentence	sentence_12446
+12446_19	attr	12446_11
+12446_19	has_surface_form	film
+12446_13	is_in_sentence	sentence_12446
+12446_13	nummod	12446_19
+12446_13	has_surface_form	2014
+12446_14	is_in_sentence	sentence_12446
+12446_14	npadvmod	12446_16
+12446_14	has_surface_form	computer
+12446_16	is_in_sentence	sentence_12446
+12446_16	amod	12446_19
+12446_16	has_surface_form	animated
+12446_15	is_in_sentence	sentence_12446
+12446_15	punct	12446_16
+12446_15	has_surface_form	-
+12446_17	is_in_sentence	sentence_12446
+12446_17	compound	12446_19
+12446_17	has_surface_form	family
+12446_18	is_in_sentence	sentence_12446
+12446_18	compound	12446_19
+12446_18	has_surface_form	adventure
+12446_20	is_in_sentence	sentence_12446
+12446_20	acl	12446_19
+12446_20	has_surface_form	directed
+12446_21	is_in_sentence	sentence_12446
+12446_21	agent	12446_20
+12446_21	has_surface_form	by
+12446_22	is_in_sentence	sentence_12446
+12446_22	compound	12446_23
+12446_22	has_surface_form	Pascal
+12446_22	part_of_entity	Pascal Morelli
+12446_23	is_in_sentence	sentence_12446
+12446_23	pobj	12446_21
+12446_23	has_surface_form	Morelli
+12446_23	part_of_entity	Pascal Morelli
+12446_24	is_in_sentence	sentence_12446
+12446_24	punct	12446_11
+12446_24	has_surface_form	.
+12446_25	is_in_sentence	sentence_12446
+12446_25	dep	12446_25
+12446_25	has_surface_form	
+108 Demon Kings	surface_form	108 Demon Kings
+108 Demon Kings	movie-has-director	Pascal Morelli
+Pascal Morelli	surface_form	Pascal Morelli

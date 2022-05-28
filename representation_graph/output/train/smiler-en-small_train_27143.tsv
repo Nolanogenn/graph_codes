@@ -1,0 +1,86 @@
+27142_0	is_in_sentence	sentence_27142
+27142_0	compound	27142_1
+27142_0	has_surface_form	Sir
+27142_1	is_in_sentence	sentence_27142
+27142_1	compound	27142_3
+27142_1	has_surface_form	Peter
+27142_1	part_of_entity	Peter Robert Jackson
+27142_3	is_in_sentence	sentence_27142
+27142_3	compound	27142_5
+27142_3	has_surface_form	Jackson
+27142_3	part_of_entity	Peter Robert Jackson
+27142_2	is_in_sentence	sentence_27142
+27142_2	compound	27142_3
+27142_2	has_surface_form	Robert
+27142_2	part_of_entity	Peter Robert Jackson
+27142_5	is_in_sentence	sentence_27142
+27142_5	nsubj	27142_12
+27142_5	has_surface_form	KNZM
+27142_4	is_in_sentence	sentence_27142
+27142_4	compound	27142_5
+27142_4	has_surface_form	ONZ
+27142_12	is_in_sentence	sentence_27142
+27142_12	ROOT	27142_12
+27142_12	has_surface_form	is
+27142_6	is_in_sentence	sentence_27142
+27142_6	punct	27142_5
+27142_6	has_surface_form	(
+27142_7	is_in_sentence	sentence_27142
+27142_7	acl	27142_5
+27142_7	has_surface_form	born
+27142_8	is_in_sentence	sentence_27142
+27142_8	npadvmod	27142_7
+27142_8	has_surface_form	31
+27142_9	is_in_sentence	sentence_27142
+27142_9	npadvmod	27142_7
+27142_9	has_surface_form	October
+27142_10	is_in_sentence	sentence_27142
+27142_10	nummod	27142_9
+27142_10	has_surface_form	1961
+27142_11	is_in_sentence	sentence_27142
+27142_11	punct	27142_5
+27142_11	has_surface_form	)
+27142_13	is_in_sentence	sentence_27142
+27142_13	det	27142_17
+27142_13	has_surface_form	a
+27142_17	is_in_sentence	sentence_27142
+27142_17	attr	27142_12
+27142_17	has_surface_form	director
+27142_14	is_in_sentence	sentence_27142
+27142_14	compound	27142_15
+27142_14	has_surface_form	New
+27142_14	part_of_entity	New Zealand
+27142_15	is_in_sentence	sentence_27142
+27142_15	compound	27142_17
+27142_15	has_surface_form	Zealand
+27142_15	part_of_entity	New Zealand
+27142_16	is_in_sentence	sentence_27142
+27142_16	compound	27142_17
+27142_16	has_surface_form	film
+27142_18	is_in_sentence	sentence_27142
+27142_18	punct	27142_17
+27142_18	has_surface_form	,
+27142_19	is_in_sentence	sentence_27142
+27142_19	conj	27142_17
+27142_19	has_surface_form	screenwriter
+27142_20	is_in_sentence	sentence_27142
+27142_20	punct	27142_19
+27142_20	has_surface_form	,
+27142_21	is_in_sentence	sentence_27142
+27142_21	cc	27142_19
+27142_21	has_surface_form	and
+27142_22	is_in_sentence	sentence_27142
+27142_22	compound	27142_23
+27142_22	has_surface_form	film
+27142_23	is_in_sentence	sentence_27142
+27142_23	conj	27142_19
+27142_23	has_surface_form	producer
+27142_24	is_in_sentence	sentence_27142
+27142_24	punct	27142_12
+27142_24	has_surface_form	.
+27142_25	is_in_sentence	sentence_27142
+27142_25	dep	27142_25
+27142_25	has_surface_form	
+Peter Robert Jackson	surface_form	Peter Robert Jackson
+Peter Robert Jackson	has-nationality	New Zealand
+New Zealand	surface_form	New Zealand

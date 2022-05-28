@@ -1,0 +1,69 @@
+25728_0	is_in_sentence	sentence_25728
+25728_0	compound	25728_1
+25728_0	has_surface_form	Jai
+25728_0	part_of_entity	Jai Prakash University
+25728_1	is_in_sentence	sentence_25728
+25728_1	compound	25728_2
+25728_1	has_surface_form	Prakash
+25728_1	part_of_entity	Jai Prakash University
+25728_2	is_in_sentence	sentence_25728
+25728_2	nsubj	25728_6
+25728_2	has_surface_form	University
+25728_2	part_of_entity	Jai Prakash University
+25728_6	is_in_sentence	sentence_25728
+25728_6	ROOT	25728_6
+25728_6	has_surface_form	is
+25728_3	is_in_sentence	sentence_25728
+25728_3	punct	25728_2
+25728_3	has_surface_form	(
+25728_4	is_in_sentence	sentence_25728
+25728_4	appos	25728_2
+25728_4	has_surface_form	JPU
+25728_5	is_in_sentence	sentence_25728
+25728_5	punct	25728_2
+25728_5	has_surface_form	)
+25728_7	is_in_sentence	sentence_25728
+25728_7	attr	25728_6
+25728_7	has_surface_form	one
+25728_8	is_in_sentence	sentence_25728
+25728_8	prep	25728_7
+25728_8	has_surface_form	of
+25728_9	is_in_sentence	sentence_25728
+25728_9	det	25728_12
+25728_9	has_surface_form	the
+25728_12	is_in_sentence	sentence_25728
+25728_12	pobj	25728_8
+25728_12	has_surface_form	universities
+25728_10	is_in_sentence	sentence_25728
+25728_10	compound	25728_12
+25728_10	has_surface_form	state
+25728_11	is_in_sentence	sentence_25728
+25728_11	compound	25728_12
+25728_11	has_surface_form	premier
+25728_13	is_in_sentence	sentence_25728
+25728_13	prep	25728_12
+25728_13	has_surface_form	in
+25728_14	is_in_sentence	sentence_25728
+25728_14	pobj	25728_13
+25728_14	is_entity	Chhapra
+Chhapra	surface_form	Chhapra
+25728_15	is_in_sentence	sentence_25728
+25728_15	punct	25728_14
+25728_15	has_surface_form	,
+25728_16	is_in_sentence	sentence_25728
+25728_16	conj	25728_14
+25728_16	has_surface_form	Bihar
+25728_17	is_in_sentence	sentence_25728
+25728_17	punct	25728_16
+25728_17	has_surface_form	,
+25728_18	is_in_sentence	sentence_25728
+25728_18	appos	25728_14
+25728_18	has_surface_form	India
+25728_19	is_in_sentence	sentence_25728
+25728_19	punct	25728_6
+25728_19	has_surface_form	.
+25728_20	is_in_sentence	sentence_25728
+25728_20	dep	25728_6
+25728_20	has_surface_form	
+Jai Prakash University	surface_form	Jai Prakash University
+Jai Prakash University	is-where	Chhapra

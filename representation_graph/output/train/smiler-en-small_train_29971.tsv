@@ -1,0 +1,62 @@
+29970_0	is_in_sentence	sentence_29970
+29970_0	compound	29970_1
+29970_0	has_surface_form	Timothy
+29970_0	part_of_entity	Timothy Stack
+29970_1	is_in_sentence	sentence_29970
+29970_1	nsubj	29970_9
+29970_1	has_surface_form	Stack
+29970_1	part_of_entity	Timothy Stack
+29970_9	is_in_sentence	sentence_29970
+29970_9	ROOT	29970_9
+29970_9	has_surface_form	is
+29970_2	is_in_sentence	sentence_29970
+29970_2	punct	29970_1
+29970_2	has_surface_form	(
+29970_3	is_in_sentence	sentence_29970
+29970_3	acl	29970_1
+29970_3	has_surface_form	born
+29970_4	is_in_sentence	sentence_29970
+29970_4	npadvmod	29970_3
+29970_4	has_surface_form	November
+29970_5	is_in_sentence	sentence_29970
+29970_5	nummod	29970_4
+29970_5	has_surface_form	21
+29970_6	is_in_sentence	sentence_29970
+29970_6	punct	29970_4
+29970_6	has_surface_form	,
+29970_7	is_in_sentence	sentence_29970
+29970_7	nummod	29970_4
+29970_7	has_surface_form	1954
+29970_8	is_in_sentence	sentence_29970
+29970_8	punct	29970_1
+29970_8	has_surface_form	)
+29970_10	is_in_sentence	sentence_29970
+29970_10	det	29970_12
+29970_10	has_surface_form	an
+29970_12	is_in_sentence	sentence_29970
+29970_12	attr	29970_9
+29970_12	has_surface_form	actor
+29970_11	is_in_sentence	sentence_29970
+29970_11	amod	29970_12
+29970_11	has_surface_form	American
+29970_13	is_in_sentence	sentence_29970
+29970_13	punct	29970_12
+29970_13	has_surface_form	,
+29970_14	is_in_sentence	sentence_29970
+29970_14	conj	29970_12
+29970_14	has_surface_form	producer
+29970_15	is_in_sentence	sentence_29970
+29970_15	cc	29970_14
+29970_15	has_surface_form	and
+29970_16	is_in_sentence	sentence_29970
+29970_16	conj	29970_14
+29970_16	is_entity	screenwriter
+screenwriter	surface_form	screenwriter
+29970_17	is_in_sentence	sentence_29970
+29970_17	punct	29970_9
+29970_17	has_surface_form	.
+29970_18	is_in_sentence	sentence_29970
+29970_18	dep	29970_18
+29970_18	has_surface_form	
+Timothy Stack	surface_form	Timothy Stack
+Timothy Stack	has-occupation	screenwriter

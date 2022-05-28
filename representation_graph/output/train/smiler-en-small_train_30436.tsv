@@ -1,0 +1,50 @@
+30435_0	is_in_sentence	sentence_30435
+30435_0	compound	30435_1
+30435_0	has_surface_form	Martina
+30435_0	part_of_entity	Martina Filjak
+30435_1	is_in_sentence	sentence_30435
+30435_1	nsubj	30435_8
+30435_1	has_surface_form	Filjak
+30435_1	part_of_entity	Martina Filjak
+30435_8	is_in_sentence	sentence_30435
+30435_8	ROOT	30435_8
+30435_8	has_surface_form	is
+30435_2	is_in_sentence	sentence_30435
+30435_2	punct	30435_3
+30435_2	has_surface_form	(
+30435_3	is_in_sentence	sentence_30435
+30435_3	acl	30435_1
+30435_3	has_surface_form	born
+30435_4	is_in_sentence	sentence_30435
+30435_4	npadvmod	30435_3
+30435_4	has_surface_form	1978
+30435_5	is_in_sentence	sentence_30435
+30435_5	prep	30435_3
+30435_5	has_surface_form	in
+30435_6	is_in_sentence	sentence_30435
+30435_6	pobj	30435_5
+30435_6	is_entity	Zagreb
+Zagreb	surface_form	Zagreb
+30435_7	is_in_sentence	sentence_30435
+30435_7	punct	30435_1
+30435_7	has_surface_form	)
+30435_9	is_in_sentence	sentence_30435
+30435_9	det	30435_12
+30435_9	has_surface_form	a
+30435_12	is_in_sentence	sentence_30435
+30435_12	attr	30435_8
+30435_12	has_surface_form	pianist
+30435_10	is_in_sentence	sentence_30435
+30435_10	amod	30435_12
+30435_10	has_surface_form	Croatian
+30435_11	is_in_sentence	sentence_30435
+30435_11	compound	30435_12
+30435_11	has_surface_form	concert
+30435_13	is_in_sentence	sentence_30435
+30435_13	punct	30435_8
+30435_13	has_surface_form	.
+30435_14	is_in_sentence	sentence_30435
+30435_14	dep	30435_8
+30435_14	has_surface_form	
+Martina Filjak	surface_form	Martina Filjak
+Martina Filjak	birth-place	Zagreb

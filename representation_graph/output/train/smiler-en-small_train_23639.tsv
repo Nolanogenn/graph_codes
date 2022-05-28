@@ -1,0 +1,85 @@
+23638_0	is_in_sentence	sentence_23638
+23638_0	det	23638_1
+23638_0	has_surface_form	The
+23638_0	part_of_entity	The House in the South
+23638_1	is_in_sentence	sentence_23638
+23638_1	nsubj	23638_13
+23638_1	has_surface_form	House
+23638_1	part_of_entity	The House in the South
+23638_13	is_in_sentence	sentence_23638
+23638_13	ROOT	23638_13
+23638_13	has_surface_form	is
+23638_2	is_in_sentence	sentence_23638
+23638_2	prep	23638_1
+23638_2	has_surface_form	in
+23638_2	part_of_entity	The House in the South
+23638_3	is_in_sentence	sentence_23638
+23638_3	det	23638_4
+23638_3	has_surface_form	the
+23638_3	part_of_entity	The House in the South
+23638_4	is_in_sentence	sentence_23638
+23638_4	pobj	23638_2
+23638_4	has_surface_form	South
+23638_4	part_of_entity	The House in the South
+23638_5	is_in_sentence	sentence_23638
+23638_5	punct	23638_6
+23638_5	has_surface_form	(
+23638_6	is_in_sentence	sentence_23638
+23638_6	appos	23638_1
+23638_6	has_surface_form	Spanish
+23638_7	is_in_sentence	sentence_23638
+23638_7	punct	23638_6
+23638_7	has_surface_form	:
+23638_8	is_in_sentence	sentence_23638
+23638_8	compound	23638_11
+23638_8	has_surface_form	La
+23638_11	is_in_sentence	sentence_23638
+23638_11	appos	23638_6
+23638_11	has_surface_form	Sur
+23638_9	is_in_sentence	sentence_23638
+23638_9	compound	23638_11
+23638_9	has_surface_form	casa
+23638_10	is_in_sentence	sentence_23638
+23638_10	compound	23638_11
+23638_10	has_surface_form	del
+23638_12	is_in_sentence	sentence_23638
+23638_12	punct	23638_6
+23638_12	has_surface_form	)
+23638_14	is_in_sentence	sentence_23638
+23638_14	det	23638_18
+23638_14	has_surface_form	a
+23638_18	is_in_sentence	sentence_23638
+23638_18	attr	23638_13
+23638_18	has_surface_form	film
+23638_15	is_in_sentence	sentence_23638
+23638_15	nummod	23638_18
+23638_15	has_surface_form	1975
+23638_16	is_in_sentence	sentence_23638
+23638_16	amod	23638_18
+23638_16	has_surface_form	Mexican
+23638_17	is_in_sentence	sentence_23638
+23638_17	compound	23638_18
+23638_17	has_surface_form	drama
+23638_19	is_in_sentence	sentence_23638
+23638_19	acl	23638_18
+23638_19	has_surface_form	directed
+23638_20	is_in_sentence	sentence_23638
+23638_20	agent	23638_19
+23638_20	has_surface_form	by
+23638_21	is_in_sentence	sentence_23638
+23638_21	compound	23638_22
+23638_21	has_surface_form	Sergio
+23638_21	part_of_entity	Sergio Olhovich
+23638_22	is_in_sentence	sentence_23638
+23638_22	pobj	23638_20
+23638_22	has_surface_form	Olhovich
+23638_22	part_of_entity	Sergio Olhovich
+23638_23	is_in_sentence	sentence_23638
+23638_23	punct	23638_13
+23638_23	has_surface_form	.
+23638_24	is_in_sentence	sentence_23638
+23638_24	dep	23638_13
+23638_24	has_surface_form	
+The House in the South	surface_form	The House in the South
+The House in the South	movie-has-director	Sergio Olhovich
+Sergio Olhovich	surface_form	Sergio Olhovich

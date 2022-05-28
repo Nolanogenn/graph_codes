@@ -1,0 +1,76 @@
+10823_0	is_in_sentence	sentence_10823
+10823_0	det	10823_4
+10823_0	has_surface_form	The
+10823_4	is_in_sentence	sentence_10823
+10823_4	nsubj	10823_5
+10823_4	has_surface_form	appliance
+10823_4	part_of_entity	NetScreen-5GT ADSL security appliance
+10823_1	is_in_sentence	sentence_10823
+10823_1	amod	10823_4
+10823_1	has_surface_form	NetScreen-5GT
+10823_1	part_of_entity	NetScreen-5GT ADSL security appliance
+10823_2	is_in_sentence	sentence_10823
+10823_2	compound	10823_3
+10823_2	has_surface_form	ADSL
+10823_2	part_of_entity	NetScreen-5GT ADSL security appliance
+10823_3	is_in_sentence	sentence_10823
+10823_3	compound	10823_4
+10823_3	has_surface_form	security
+10823_3	part_of_entity	NetScreen-5GT ADSL security appliance
+10823_5	is_in_sentence	sentence_10823
+10823_5	ROOT	10823_5
+10823_5	has_surface_form	was
+10823_6	is_in_sentence	sentence_10823
+10823_6	det	10823_10
+10823_6	has_surface_form	the
+10823_10	is_in_sentence	sentence_10823
+10823_10	attr	10823_5
+10823_10	has_surface_form	product
+10823_7	is_in_sentence	sentence_10823
+10823_7	amod	10823_10
+10823_7	has_surface_form	first
+10823_8	is_in_sentence	sentence_10823
+10823_8	amod	10823_10
+10823_8	has_surface_form	new
+10823_9	is_in_sentence	sentence_10823
+10823_9	compound	10823_10
+10823_9	has_surface_form	NetScreen
+10823_11	is_in_sentence	sentence_10823
+10823_11	nsubj	10823_12
+10823_11	is_entity	Juniper
+10823_12	is_in_sentence	sentence_10823
+10823_12	relcl	10823_10
+10823_12	has_surface_form	introduced
+Juniper	surface_form	Juniper
+Juniper	first-product	NetScreen-5GT ADSL security appliance
+10823_13	is_in_sentence	sentence_10823
+10823_13	prep	10823_12
+10823_13	has_surface_form	after
+10823_14	is_in_sentence	sentence_10823
+10823_14	det	10823_15
+10823_14	has_surface_form	the
+10823_15	is_in_sentence	sentence_10823
+10823_15	pobj	10823_13
+10823_15	has_surface_form	acquisition
+10823_16	is_in_sentence	sentence_10823
+10823_16	cc	10823_15
+10823_16	has_surface_form	and
+10823_17	is_in_sentence	sentence_10823
+10823_17	poss	10823_20
+10823_17	has_surface_form	its
+10823_20	is_in_sentence	sentence_10823
+10823_20	conj	10823_15
+10823_20	has_surface_form	product
+10823_18	is_in_sentence	sentence_10823
+10823_18	amod	10823_20
+10823_18	has_surface_form	first
+10823_19	is_in_sentence	sentence_10823
+10823_19	amod	10823_20
+10823_19	has_surface_form	wireless
+10823_21	is_in_sentence	sentence_10823
+10823_21	punct	10823_5
+10823_21	has_surface_form	.
+10823_22	is_in_sentence	sentence_10823
+10823_22	dep	10823_22
+10823_22	has_surface_form	
+NetScreen-5GT ADSL security appliance	surface_form	NetScreen-5GT ADSL security appliance

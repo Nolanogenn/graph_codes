@@ -1,0 +1,70 @@
+10210_0	is_in_sentence	sentence_10210
+10210_0	compound	10210_1
+10210_0	has_surface_form	Eric
+10210_0	part_of_entity	Eric Jager
+10210_1	is_in_sentence	sentence_10210
+10210_1	nsubj	10210_8
+10210_1	has_surface_form	Jager
+10210_1	part_of_entity	Eric Jager
+10210_8	is_in_sentence	sentence_10210
+10210_8	ROOT	10210_8
+10210_8	has_surface_form	is
+10210_2	is_in_sentence	sentence_10210
+10210_2	punct	10210_1
+10210_2	has_surface_form	(
+10210_3	is_in_sentence	sentence_10210
+10210_3	acl	10210_1
+10210_3	has_surface_form	born
+10210_4	is_in_sentence	sentence_10210
+10210_4	nummod	10210_5
+10210_4	has_surface_form	27
+10210_5	is_in_sentence	sentence_10210
+10210_5	npadvmod	10210_3
+10210_5	has_surface_form	April
+10210_6	is_in_sentence	sentence_10210
+10210_6	nummod	10210_5
+10210_6	has_surface_form	1957
+10210_7	is_in_sentence	sentence_10210
+10210_7	punct	10210_1
+10210_7	has_surface_form	)
+10210_9	is_in_sentence	sentence_10210
+10210_9	det	10210_12
+10210_9	has_surface_form	an
+10210_12	is_in_sentence	sentence_10210
+10210_12	attr	10210_8
+10210_12	has_surface_form	critic
+10210_10	is_in_sentence	sentence_10210
+10210_10	amod	10210_12
+10210_10	has_surface_form	American
+10210_11	is_in_sentence	sentence_10210
+10210_11	amod	10210_12
+10210_11	has_surface_form	literary
+10210_13	is_in_sentence	sentence_10210
+10210_13	cc	10210_12
+10210_13	has_surface_form	and
+10210_14	is_in_sentence	sentence_10210
+10210_14	det	10210_15
+10210_14	has_surface_form	a
+10210_15	is_in_sentence	sentence_10210
+10210_15	conj	10210_12
+10210_15	has_surface_form	specialist
+10210_16	is_in_sentence	sentence_10210
+10210_16	prep	10210_15
+10210_16	has_surface_form	in
+10210_17	is_in_sentence	sentence_10210
+10210_17	amod	10210_18
+10210_17	has_surface_form	medieval
+10210_17	part_of_entity	medieval literature
+10210_18	is_in_sentence	sentence_10210
+10210_18	pobj	10210_16
+10210_18	has_surface_form	literature
+10210_18	part_of_entity	medieval literature
+10210_19	is_in_sentence	sentence_10210
+10210_19	punct	10210_8
+10210_19	has_surface_form	.
+10210_20	is_in_sentence	sentence_10210
+10210_20	dep	10210_20
+10210_20	has_surface_form	
+Eric Jager	surface_form	Eric Jager
+Eric Jager	has-genre	medieval literature
+medieval literature	surface_form	medieval literature

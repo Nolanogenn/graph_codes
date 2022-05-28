@@ -1,0 +1,58 @@
+2700_0	is_in_sentence	sentence_2700
+2700_0	compound	2700_1
+2700_0	has_surface_form	Psychotic
+2700_0	part_of_entity	Psychotic Waltz
+2700_1	is_in_sentence	sentence_2700
+2700_1	nsubj	2700_2
+2700_1	has_surface_form	Waltz
+2700_1	part_of_entity	Psychotic Waltz
+2700_2	is_in_sentence	sentence_2700
+2700_2	ROOT	2700_2
+2700_2	has_surface_form	is
+2700_3	is_in_sentence	sentence_2700
+2700_3	det	2700_6
+2700_3	has_surface_form	a
+2700_6	is_in_sentence	sentence_2700
+2700_6	attr	2700_2
+2700_6	has_surface_form	band
+2700_4	is_in_sentence	sentence_2700
+2700_4	amod	2700_6
+2700_4	has_surface_form	progressive
+2700_4	part_of_entity	progressive metal
+2700_5	is_in_sentence	sentence_2700
+2700_5	compound	2700_6
+2700_5	has_surface_form	metal
+2700_5	part_of_entity	progressive metal
+2700_7	is_in_sentence	sentence_2700
+2700_7	acl	2700_6
+2700_7	has_surface_form	formed
+2700_8	is_in_sentence	sentence_2700
+2700_8	prep	2700_7
+2700_8	has_surface_form	in
+2700_9	is_in_sentence	sentence_2700
+2700_9	compound	2700_10
+2700_9	has_surface_form	El
+2700_10	is_in_sentence	sentence_2700
+2700_10	pobj	2700_8
+2700_10	has_surface_form	Cajon
+2700_11	is_in_sentence	sentence_2700
+2700_11	punct	2700_10
+2700_11	has_surface_form	,
+2700_12	is_in_sentence	sentence_2700
+2700_12	appos	2700_10
+2700_12	has_surface_form	California
+2700_13	is_in_sentence	sentence_2700
+2700_13	prep	2700_7
+2700_13	has_surface_form	in
+2700_14	is_in_sentence	sentence_2700
+2700_14	pobj	2700_13
+2700_14	has_surface_form	1988
+2700_15	is_in_sentence	sentence_2700
+2700_15	punct	2700_2
+2700_15	has_surface_form	.
+2700_16	is_in_sentence	sentence_2700
+2700_16	dep	2700_16
+2700_16	has_surface_form	
+Psychotic Waltz	surface_form	Psychotic Waltz
+Psychotic Waltz	has-genre	progressive metal
+progressive metal	surface_form	progressive metal

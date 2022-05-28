@@ -1,0 +1,50 @@
+27202_0	is_in_sentence	sentence_27202
+27202_0	compound	27202_1
+27202_0	has_surface_form	CDEC
+27202_0	part_of_entity	CDEC Gaming
+27202_1	is_in_sentence	sentence_27202
+27202_1	nsubj	27202_2
+27202_1	has_surface_form	Gaming
+27202_1	part_of_entity	CDEC Gaming
+27202_2	is_in_sentence	sentence_27202
+27202_2	ROOT	27202_2
+27202_2	has_surface_form	is
+27202_3	is_in_sentence	sentence_27202
+27202_3	det	27202_9
+27202_3	has_surface_form	a
+27202_9	is_in_sentence	sentence_27202
+27202_9	attr	27202_2
+27202_9	has_surface_form	team
+27202_4	is_in_sentence	sentence_27202
+27202_4	amod	27202_9
+27202_4	has_surface_form	Chinese
+27202_5	is_in_sentence	sentence_27202
+27202_5	amod	27202_9
+27202_5	has_surface_form	professional
+27202_6	is_in_sentence	sentence_27202
+27202_6	nmod	27202_8
+27202_6	has_surface_form	Dota
+27202_8	is_in_sentence	sentence_27202
+27202_8	compound	27202_9
+27202_8	has_surface_form	esports
+27202_7	is_in_sentence	sentence_27202
+27202_7	nummod	27202_6
+27202_7	has_surface_form	2
+27202_10	is_in_sentence	sentence_27202
+27202_10	acl	27202_9
+27202_10	has_surface_form	based
+27202_11	is_in_sentence	sentence_27202
+27202_11	prep	27202_10
+27202_11	has_surface_form	in
+27202_12	is_in_sentence	sentence_27202
+27202_12	pobj	27202_11
+27202_12	is_entity	Shanghai
+Shanghai	surface_form	Shanghai
+27202_13	is_in_sentence	sentence_27202
+27202_13	punct	27202_2
+27202_13	has_surface_form	.
+27202_14	is_in_sentence	sentence_27202
+27202_14	dep	27202_14
+27202_14	has_surface_form	
+CDEC Gaming	surface_form	CDEC Gaming
+CDEC Gaming	is-where	Shanghai

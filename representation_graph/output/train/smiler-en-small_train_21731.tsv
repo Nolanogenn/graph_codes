@@ -1,0 +1,60 @@
+21730_0	is_in_sentence	sentence_21730
+21730_0	compound	21730_1
+21730_0	is_entity	Retail
+21730_1	is_in_sentence	sentence_21730
+21730_1	nsubj	21730_12
+21730_1	has_surface_form	Division
+Retail	surface_form	Retail
+Retail	no_relation	Samsonite Company Stores
+21730_12	is_in_sentence	sentence_21730
+21730_12	ROOT	21730_12
+21730_12	has_surface_form	filed
+21730_2	is_in_sentence	sentence_21730
+21730_2	punct	21730_1
+21730_2	has_surface_form	)
+21730_3	is_in_sentence	sentence_21730
+21730_3	punct	21730_1
+21730_3	has_surface_form	,
+21730_4	is_in_sentence	sentence_21730
+21730_4	advmod	21730_5
+21730_4	has_surface_form	formally
+21730_5	is_in_sentence	sentence_21730
+21730_5	acl	21730_1
+21730_5	has_surface_form	known
+21730_6	is_in_sentence	sentence_21730
+21730_6	prep	21730_5
+21730_6	has_surface_form	as
+21730_7	is_in_sentence	sentence_21730
+21730_7	compound	21730_10
+21730_7	has_surface_form	Samsonite
+21730_7	part_of_entity	Samsonite Company Stores
+21730_10	is_in_sentence	sentence_21730
+21730_10	pobj	21730_6
+21730_10	has_surface_form	Inc
+21730_8	is_in_sentence	sentence_21730
+21730_8	compound	21730_10
+21730_8	has_surface_form	Company
+21730_8	part_of_entity	Samsonite Company Stores
+21730_9	is_in_sentence	sentence_21730
+21730_9	compound	21730_10
+21730_9	has_surface_form	Stores
+21730_9	part_of_entity	Samsonite Company Stores
+21730_11	is_in_sentence	sentence_21730
+21730_11	punct	21730_1
+21730_11	has_surface_form	,
+21730_13	is_in_sentence	sentence_21730
+21730_13	nmod	21730_15
+21730_13	has_surface_form	Chapter
+21730_15	is_in_sentence	sentence_21730
+21730_15	dobj	21730_12
+21730_15	has_surface_form	bankruptcy
+21730_14	is_in_sentence	sentence_21730
+21730_14	nummod	21730_13
+21730_14	has_surface_form	11
+21730_16	is_in_sentence	sentence_21730
+21730_16	punct	21730_12
+21730_16	has_surface_form	.
+21730_17	is_in_sentence	sentence_21730
+21730_17	dep	21730_17
+21730_17	has_surface_form	
+Samsonite Company Stores	surface_form	Samsonite Company Stores

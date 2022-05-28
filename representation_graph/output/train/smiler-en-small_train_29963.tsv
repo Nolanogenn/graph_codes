@@ -1,0 +1,73 @@
+29962_0	is_in_sentence	sentence_29962
+29962_0	compound	29962_1
+29962_0	has_surface_form	Drinker
+29962_0	part_of_entity	Drinker Biddle & Reath
+29962_1	is_in_sentence	sentence_29962
+29962_1	nsubj	29962_5
+29962_1	has_surface_form	Biddle
+29962_1	part_of_entity	Drinker Biddle & Reath
+29962_5	is_in_sentence	sentence_29962
+29962_5	ROOT	29962_5
+29962_5	has_surface_form	is
+29962_2	is_in_sentence	sentence_29962
+29962_2	cc	29962_1
+29962_2	has_surface_form	&
+29962_2	part_of_entity	Drinker Biddle & Reath
+29962_3	is_in_sentence	sentence_29962
+29962_3	compound	29962_4
+29962_3	has_surface_form	Reath
+29962_3	part_of_entity	Drinker Biddle & Reath
+29962_4	is_in_sentence	sentence_29962
+29962_4	conj	29962_1
+29962_4	has_surface_form	LLP
+29962_6	is_in_sentence	sentence_29962
+29962_6	det	29962_9
+29962_6	has_surface_form	a
+29962_9	is_in_sentence	sentence_29962
+29962_9	attr	29962_5
+29962_9	has_surface_form	firm
+29962_7	is_in_sentence	sentence_29962
+29962_7	amod	29962_9
+29962_7	has_surface_form	national
+29962_8	is_in_sentence	sentence_29962
+29962_8	compound	29962_9
+29962_8	has_surface_form	law
+29962_10	is_in_sentence	sentence_29962
+29962_10	acl	29962_9
+29962_10	has_surface_form	founded
+29962_11	is_in_sentence	sentence_29962
+29962_11	prep	29962_10
+29962_11	has_surface_form	in
+29962_12	is_in_sentence	sentence_29962
+29962_12	pobj	29962_11
+29962_12	has_surface_form	Philadelphia
+29962_13	is_in_sentence	sentence_29962
+29962_13	prep	29962_10
+29962_13	has_surface_form	in
+29962_14	is_in_sentence	sentence_29962
+29962_14	pobj	29962_13
+29962_14	has_surface_form	1849
+29962_15	is_in_sentence	sentence_29962
+29962_15	agent	29962_10
+29962_15	has_surface_form	by
+29962_16	is_in_sentence	sentence_29962
+29962_16	compound	29962_18
+29962_16	has_surface_form	John
+29962_16	part_of_entity	John Christian Bullitt
+29962_18	is_in_sentence	sentence_29962
+29962_18	pobj	29962_15
+29962_18	has_surface_form	Bullitt
+29962_18	part_of_entity	John Christian Bullitt
+29962_17	is_in_sentence	sentence_29962
+29962_17	compound	29962_18
+29962_17	has_surface_form	Christian
+29962_17	part_of_entity	John Christian Bullitt
+29962_19	is_in_sentence	sentence_29962
+29962_19	punct	29962_5
+29962_19	has_surface_form	.
+29962_20	is_in_sentence	sentence_29962
+29962_20	dep	29962_5
+29962_20	has_surface_form	
+Drinker Biddle & Reath	surface_form	Drinker Biddle & Reath
+Drinker Biddle & Reath	org-has-founder	John Christian Bullitt
+John Christian Bullitt	surface_form	John Christian Bullitt

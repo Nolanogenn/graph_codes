@@ -1,0 +1,65 @@
+34204_0	is_in_sentence	sentence_34204
+34204_0	compound	34204_1
+34204_0	has_surface_form	Immigration
+34204_0	part_of_entity	Immigration Tango
+34204_1	is_in_sentence	sentence_34204
+34204_1	nsubj	34204_2
+34204_1	has_surface_form	Tango
+34204_1	part_of_entity	Immigration Tango
+34204_2	is_in_sentence	sentence_34204
+34204_2	ROOT	34204_2
+34204_2	has_surface_form	is
+34204_3	is_in_sentence	sentence_34204
+34204_3	det	34204_7
+34204_3	has_surface_form	a
+34204_7	is_in_sentence	sentence_34204
+34204_7	attr	34204_2
+34204_7	has_surface_form	film
+34204_4	is_in_sentence	sentence_34204
+34204_4	nummod	34204_7
+34204_4	has_surface_form	2010
+34204_5	is_in_sentence	sentence_34204
+34204_5	amod	34204_7
+34204_5	has_surface_form	American
+34204_6	is_in_sentence	sentence_34204
+34204_6	compound	34204_7
+34204_6	has_surface_form	comedy
+34204_8	is_in_sentence	sentence_34204
+34204_8	acl	34204_7
+34204_8	has_surface_form	directed
+34204_9	is_in_sentence	sentence_34204
+34204_9	agent	34204_8
+34204_9	has_surface_form	by
+34204_10	is_in_sentence	sentence_34204
+34204_10	compound	34204_12
+34204_10	has_surface_form	David
+34204_10	part_of_entity	David Burton Morris
+34204_12	is_in_sentence	sentence_34204
+34204_12	pobj	34204_9
+34204_12	has_surface_form	Morris
+34204_12	part_of_entity	David Burton Morris
+34204_11	is_in_sentence	sentence_34204
+34204_11	compound	34204_12
+34204_11	has_surface_form	Burton
+34204_11	part_of_entity	David Burton Morris
+34204_13	is_in_sentence	sentence_34204
+34204_13	cc	34204_8
+34204_13	has_surface_form	and
+34204_14	is_in_sentence	sentence_34204
+34204_14	conj	34204_8
+34204_14	has_surface_form	written
+34204_15	is_in_sentence	sentence_34204
+34204_15	agent	34204_14
+34204_15	has_surface_form	by
+34204_16	is_in_sentence	sentence_34204
+34204_16	compound	34204_17
+34204_16	has_surface_form	Martin
+34204_17	is_in_sentence	sentence_34204
+34204_17	pobj	34204_15
+34204_17	has_surface_form	L.
+34204_18	is_in_sentence	sentence_34204
+34204_18	dep	34204_2
+34204_18	has_surface_form	
+Immigration Tango	surface_form	Immigration Tango
+Immigration Tango	movie-has-director	David Burton Morris
+David Burton Morris	surface_form	David Burton Morris

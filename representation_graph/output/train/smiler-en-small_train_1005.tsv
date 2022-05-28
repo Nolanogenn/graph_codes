@@ -1,0 +1,100 @@
+1004_0	is_in_sentence	sentence_1004
+1004_0	compound	1004_1
+1004_0	has_surface_form	Yvette
+1004_0	part_of_entity	Yvette Carmen Mimieux
+1004_1	is_in_sentence	sentence_1004
+1004_1	compound	1004_2
+1004_1	has_surface_form	Carmen
+1004_1	part_of_entity	Yvette Carmen Mimieux
+1004_2	is_in_sentence	sentence_1004
+1004_2	nsubjpass	1004_4
+1004_2	has_surface_form	Mimieux
+1004_2	part_of_entity	Yvette Carmen Mimieux
+1004_4	is_in_sentence	sentence_1004
+1004_4	ROOT	1004_4
+1004_4	has_surface_form	born
+1004_3	is_in_sentence	sentence_1004
+1004_3	auxpass	1004_4
+1004_3	has_surface_form	was
+1004_5	is_in_sentence	sentence_1004
+1004_5	prep	1004_4
+1004_5	has_surface_form	in
+1004_6	is_in_sentence	sentence_1004
+1004_6	compound	1004_7
+1004_6	has_surface_form	Los
+1004_7	is_in_sentence	sentence_1004
+1004_7	pobj	1004_5
+1004_7	has_surface_form	Angeles
+1004_8	is_in_sentence	sentence_1004
+1004_8	punct	1004_7
+1004_8	has_surface_form	,
+1004_9	is_in_sentence	sentence_1004
+1004_9	conj	1004_7
+1004_9	has_surface_form	California
+1004_10	is_in_sentence	sentence_1004
+1004_10	punct	1004_9
+1004_10	has_surface_form	,
+1004_11	is_in_sentence	sentence_1004
+1004_11	compound	1004_12
+1004_11	has_surface_form	United
+1004_12	is_in_sentence	sentence_1004
+1004_12	conj	1004_9
+1004_12	has_surface_form	States
+1004_13	is_in_sentence	sentence_1004
+1004_13	punct	1004_4
+1004_13	has_surface_form	,
+1004_14	is_in_sentence	sentence_1004
+1004_14	prep	1004_4
+1004_14	has_surface_form	to
+1004_15	is_in_sentence	sentence_1004
+1004_15	det	1004_17
+1004_15	has_surface_form	a
+1004_17	is_in_sentence	sentence_1004
+1004_17	pobj	1004_14
+1004_17	has_surface_form	father
+1004_16	is_in_sentence	sentence_1004
+1004_16	amod	1004_17
+1004_16	has_surface_form	French
+1004_18	is_in_sentence	sentence_1004
+1004_18	compound	1004_19
+1004_18	has_surface_form	René
+1004_19	is_in_sentence	sentence_1004
+1004_19	appos	1004_17
+1004_19	has_surface_form	Mimieux
+1004_20	is_in_sentence	sentence_1004
+1004_20	cc	1004_19
+1004_20	has_surface_form	and
+1004_21	is_in_sentence	sentence_1004
+1004_21	det	1004_23
+1004_21	has_surface_form	a
+1004_23	is_in_sentence	sentence_1004
+1004_23	pobj	1004_14
+1004_23	has_surface_form	mother
+1004_22	is_in_sentence	sentence_1004
+1004_22	amod	1004_23
+1004_22	has_surface_form	Mexican
+1004_24	is_in_sentence	sentence_1004
+1004_24	compound	1004_27
+1004_24	has_surface_form	Maria
+1004_24	part_of_entity	Maria del Carmen Montemayor
+1004_27	is_in_sentence	sentence_1004
+1004_27	appos	1004_23
+1004_27	has_surface_form	Montemayor
+1004_27	part_of_entity	Maria del Carmen Montemayor
+1004_25	is_in_sentence	sentence_1004
+1004_25	compound	1004_27
+1004_25	has_surface_form	del
+1004_25	part_of_entity	Maria del Carmen Montemayor
+1004_26	is_in_sentence	sentence_1004
+1004_26	compound	1004_27
+1004_26	has_surface_form	Carmen
+1004_26	part_of_entity	Maria del Carmen Montemayor
+1004_28	is_in_sentence	sentence_1004
+1004_28	punct	1004_4
+1004_28	has_surface_form	.
+1004_29	is_in_sentence	sentence_1004
+1004_29	dep	1004_29
+1004_29	has_surface_form	
+Yvette Carmen Mimieux	surface_form	Yvette Carmen Mimieux
+Yvette Carmen Mimieux	has-parent	Maria del Carmen Montemayor
+Maria del Carmen Montemayor	surface_form	Maria del Carmen Montemayor

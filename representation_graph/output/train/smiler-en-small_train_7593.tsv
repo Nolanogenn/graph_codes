@@ -1,0 +1,35 @@
+7592_0	is_in_sentence	sentence_7592
+7592_0	compound	7592_1
+7592_0	has_surface_form	Charlie
+7592_0	part_of_entity	Charlie LeDuff
+7592_1	is_in_sentence	sentence_7592
+7592_1	nsubjpass	7592_3
+7592_1	has_surface_form	LeDuff
+7592_1	part_of_entity	Charlie LeDuff
+7592_3	is_in_sentence	sentence_7592
+7592_3	ROOT	7592_3
+7592_3	has_surface_form	born
+7592_2	is_in_sentence	sentence_7592
+7592_2	auxpass	7592_3
+7592_2	has_surface_form	was
+7592_4	is_in_sentence	sentence_7592
+7592_4	prep	7592_3
+7592_4	has_surface_form	in
+7592_5	is_in_sentence	sentence_7592
+7592_5	pobj	7592_4
+7592_5	is_entity	Portsmouth
+Portsmouth	surface_form	Portsmouth
+7592_6	is_in_sentence	sentence_7592
+7592_6	punct	7592_5
+7592_6	has_surface_form	,
+7592_7	is_in_sentence	sentence_7592
+7592_7	appos	7592_5
+7592_7	has_surface_form	Virginia
+7592_8	is_in_sentence	sentence_7592
+7592_8	punct	7592_3
+7592_8	has_surface_form	.
+7592_9	is_in_sentence	sentence_7592
+7592_9	dep	7592_9
+7592_9	has_surface_form	
+Charlie LeDuff	surface_form	Charlie LeDuff
+Charlie LeDuff	birth-place	Portsmouth

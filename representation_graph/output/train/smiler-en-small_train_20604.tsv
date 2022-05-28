@@ -1,0 +1,102 @@
+20603_0	is_in_sentence	sentence_20603
+20603_0	nsubj	20603_18
+20603_0	has_surface_form	Love
+20603_0	part_of_entity	Love in the Time of Civil War
+20603_18	is_in_sentence	sentence_20603
+20603_18	ROOT	20603_18
+20603_18	has_surface_form	is
+20603_1	is_in_sentence	sentence_20603
+20603_1	prep	20603_0
+20603_1	has_surface_form	in
+20603_1	part_of_entity	Love in the Time of Civil War
+20603_2	is_in_sentence	sentence_20603
+20603_2	det	20603_3
+20603_2	has_surface_form	the
+20603_2	part_of_entity	Love in the Time of Civil War
+20603_3	is_in_sentence	sentence_20603
+20603_3	pobj	20603_1
+20603_3	has_surface_form	Time
+20603_3	part_of_entity	Love in the Time of Civil War
+20603_4	is_in_sentence	sentence_20603
+20603_4	prep	20603_3
+20603_4	has_surface_form	of
+20603_4	part_of_entity	Love in the Time of Civil War
+20603_5	is_in_sentence	sentence_20603
+20603_5	compound	20603_6
+20603_5	has_surface_form	Civil
+20603_5	part_of_entity	Love in the Time of Civil War
+20603_6	is_in_sentence	sentence_20603
+20603_6	pobj	20603_4
+20603_6	has_surface_form	War
+20603_6	part_of_entity	Love in the Time of Civil War
+20603_7	is_in_sentence	sentence_20603
+20603_7	punct	20603_8
+20603_7	has_surface_form	(
+20603_8	is_in_sentence	sentence_20603
+20603_8	parataxis	20603_0
+20603_8	has_surface_form	French
+20603_9	is_in_sentence	sentence_20603
+20603_9	punct	20603_8
+20603_9	has_surface_form	:
+20603_10	is_in_sentence	sentence_20603
+20603_10	npadvmod	20603_0
+20603_10	has_surface_form	L'amour
+20603_11	is_in_sentence	sentence_20603
+20603_11	conj	20603_0
+20603_11	has_surface_form	au
+20603_12	is_in_sentence	sentence_20603
+20603_12	compound	20603_16
+20603_12	has_surface_form	temps
+20603_16	is_in_sentence	sentence_20603
+20603_16	pobj	20603_11
+20603_16	has_surface_form	civile
+20603_13	is_in_sentence	sentence_20603
+20603_13	nmod	20603_16
+20603_13	has_surface_form	de
+20603_14	is_in_sentence	sentence_20603
+20603_14	nmod	20603_16
+20603_14	has_surface_form	la
+20603_15	is_in_sentence	sentence_20603
+20603_15	compound	20603_16
+20603_15	has_surface_form	guerre
+20603_17	is_in_sentence	sentence_20603
+20603_17	punct	20603_18
+20603_17	has_surface_form	)
+20603_19	is_in_sentence	sentence_20603
+20603_19	det	20603_23
+20603_19	has_surface_form	a
+20603_23	is_in_sentence	sentence_20603
+20603_23	attr	20603_18
+20603_23	has_surface_form	film
+20603_20	is_in_sentence	sentence_20603
+20603_20	nummod	20603_23
+20603_20	has_surface_form	2014
+20603_21	is_in_sentence	sentence_20603
+20603_21	amod	20603_23
+20603_21	has_surface_form	Canadian
+20603_22	is_in_sentence	sentence_20603
+20603_22	compound	20603_23
+20603_22	has_surface_form	drama
+20603_24	is_in_sentence	sentence_20603
+20603_24	acl	20603_23
+20603_24	has_surface_form	directed
+20603_25	is_in_sentence	sentence_20603
+20603_25	agent	20603_24
+20603_25	has_surface_form	by
+20603_26	is_in_sentence	sentence_20603
+20603_26	compound	20603_27
+20603_26	has_surface_form	Rodrigue
+20603_26	part_of_entity	Rodrigue Jean
+20603_27	is_in_sentence	sentence_20603
+20603_27	pobj	20603_25
+20603_27	has_surface_form	Jean
+20603_27	part_of_entity	Rodrigue Jean
+20603_28	is_in_sentence	sentence_20603
+20603_28	punct	20603_18
+20603_28	has_surface_form	.
+20603_29	is_in_sentence	sentence_20603
+20603_29	dep	20603_18
+20603_29	has_surface_form	
+Love in the Time of Civil War	surface_form	Love in the Time of Civil War
+Love in the Time of Civil War	movie-has-director	Rodrigue Jean
+Rodrigue Jean	surface_form	Rodrigue Jean

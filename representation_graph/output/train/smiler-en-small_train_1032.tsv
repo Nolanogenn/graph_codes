@@ -1,0 +1,41 @@
+1031_0	is_in_sentence	sentence_1031
+1031_0	compound	1031_1
+1031_0	has_surface_form	Andrea
+1031_0	part_of_entity	Andrea Beaton
+1031_1	is_in_sentence	sentence_1031
+1031_1	nsubj	1031_6
+1031_1	has_surface_form	Beaton
+1031_1	part_of_entity	Andrea Beaton
+1031_6	is_in_sentence	sentence_1031
+1031_6	ROOT	1031_6
+1031_6	has_surface_form	is
+1031_2	is_in_sentence	sentence_1031
+1031_2	punct	1031_1
+1031_2	has_surface_form	,
+1031_3	is_in_sentence	sentence_1031
+1031_3	poss	1031_5
+1031_3	is_entity	Kinnon
+1031_5	is_in_sentence	sentence_1031
+1031_5	appos	1031_1
+1031_5	has_surface_form	daughter
+Kinnon	surface_form	Kinnon
+1031_4	is_in_sentence	sentence_1031
+1031_4	case	1031_3
+1031_4	has_surface_form	's
+1031_7	is_in_sentence	sentence_1031
+1031_7	advmod	1031_6
+1031_7	has_surface_form	also
+1031_8	is_in_sentence	sentence_1031
+1031_8	det	1031_9
+1031_8	has_surface_form	a
+1031_9	is_in_sentence	sentence_1031
+1031_9	attr	1031_6
+1031_9	has_surface_form	fiddler
+1031_10	is_in_sentence	sentence_1031
+1031_10	punct	1031_6
+1031_10	has_surface_form	.
+1031_11	is_in_sentence	sentence_1031
+1031_11	dep	1031_6
+1031_11	has_surface_form	
+Andrea Beaton	surface_form	Andrea Beaton
+Andrea Beaton	has-parent	Kinnon

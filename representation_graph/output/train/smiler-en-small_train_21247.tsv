@@ -1,0 +1,88 @@
+21246_0	is_in_sentence	sentence_21246
+21246_0	compound	21246_1
+21246_0	has_surface_form	Dick
+21246_0	part_of_entity	Dick Tarrant
+21246_1	is_in_sentence	sentence_21246
+21246_1	nsubj	21246_9
+21246_1	has_surface_form	Tarrant
+21246_1	part_of_entity	Dick Tarrant
+21246_9	is_in_sentence	sentence_21246
+21246_9	ROOT	21246_9
+21246_9	has_surface_form	was
+21246_2	is_in_sentence	sentence_21246
+21246_2	punct	21246_1
+21246_2	has_surface_form	(
+21246_3	is_in_sentence	sentence_21246
+21246_3	acl	21246_1
+21246_3	has_surface_form	born
+21246_4	is_in_sentence	sentence_21246
+21246_4	npadvmod	21246_3
+21246_4	has_surface_form	August
+21246_5	is_in_sentence	sentence_21246
+21246_5	nummod	21246_4
+21246_5	has_surface_form	4
+21246_6	is_in_sentence	sentence_21246
+21246_6	punct	21246_4
+21246_6	has_surface_form	,
+21246_7	is_in_sentence	sentence_21246
+21246_7	nummod	21246_4
+21246_7	has_surface_form	1931
+21246_8	is_in_sentence	sentence_21246
+21246_8	punct	21246_1
+21246_8	has_surface_form	)
+21246_10	is_in_sentence	sentence_21246
+21246_10	det	21246_12
+21246_10	has_surface_form	the
+21246_12	is_in_sentence	sentence_21246
+21246_12	poss	21246_15
+21246_12	has_surface_form	men
+21246_11	is_in_sentence	sentence_21246
+21246_11	compound	21246_12
+21246_11	has_surface_form	head
+21246_15	is_in_sentence	sentence_21246
+21246_15	attr	21246_9
+21246_15	has_surface_form	coach
+21246_15	part_of_entity	basketball coach
+21246_13	is_in_sentence	sentence_21246
+21246_13	case	21246_12
+21246_13	has_surface_form	's
+21246_14	is_in_sentence	sentence_21246
+21246_14	compound	21246_15
+21246_14	has_surface_form	basketball
+21246_14	part_of_entity	basketball coach
+21246_16	is_in_sentence	sentence_21246
+21246_16	prep	21246_15
+21246_16	has_surface_form	at
+21246_17	is_in_sentence	sentence_21246
+21246_17	det	21246_18
+21246_17	has_surface_form	the
+21246_18	is_in_sentence	sentence_21246
+21246_18	pobj	21246_16
+21246_18	has_surface_form	University
+21246_19	is_in_sentence	sentence_21246
+21246_19	prep	21246_18
+21246_19	has_surface_form	of
+21246_20	is_in_sentence	sentence_21246
+21246_20	pobj	21246_19
+21246_20	has_surface_form	Richmond
+21246_21	is_in_sentence	sentence_21246
+21246_21	prep	21246_9
+21246_21	has_surface_form	from
+21246_22	is_in_sentence	sentence_21246
+21246_22	pobj	21246_21
+21246_22	has_surface_form	1981
+21246_23	is_in_sentence	sentence_21246
+21246_23	prep	21246_21
+21246_23	has_surface_form	through
+21246_24	is_in_sentence	sentence_21246
+21246_24	pobj	21246_23
+21246_24	has_surface_form	1993
+21246_25	is_in_sentence	sentence_21246
+21246_25	punct	21246_9
+21246_25	has_surface_form	.
+21246_26	is_in_sentence	sentence_21246
+21246_26	dep	21246_26
+21246_26	has_surface_form	
+Dick Tarrant	surface_form	Dick Tarrant
+Dick Tarrant	has-type	basketball coach
+basketball coach	surface_form	basketball coach

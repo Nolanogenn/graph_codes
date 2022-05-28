@@ -1,0 +1,82 @@
+9832_0	is_in_sentence	sentence_9832
+9832_0	det	9832_1
+9832_0	has_surface_form	The
+9832_0	part_of_entity	The Rescue on the River
+9832_1	is_in_sentence	sentence_9832
+9832_1	nmod	9832_8
+9832_1	has_surface_form	Rescue
+9832_1	part_of_entity	The Rescue on the River
+9832_8	is_in_sentence	sentence_9832
+9832_8	nmod	9832_10
+9832_8	has_surface_form	Sauvetage
+9832_2	is_in_sentence	sentence_9832
+9832_2	prep	9832_1
+9832_2	has_surface_form	on
+9832_2	part_of_entity	The Rescue on the River
+9832_3	is_in_sentence	sentence_9832
+9832_3	det	9832_4
+9832_3	has_surface_form	the
+9832_3	part_of_entity	The Rescue on the River
+9832_4	is_in_sentence	sentence_9832
+9832_4	pobj	9832_2
+9832_4	has_surface_form	River
+9832_4	part_of_entity	The Rescue on the River
+9832_5	is_in_sentence	sentence_9832
+9832_5	punct	9832_6
+9832_5	has_surface_form	(
+9832_6	is_in_sentence	sentence_9832
+9832_6	appos	9832_1
+9832_6	has_surface_form	French
+9832_7	is_in_sentence	sentence_9832
+9832_7	punct	9832_6
+9832_7	has_surface_form	:
+9832_10	is_in_sentence	sentence_9832
+9832_10	nsubj	9832_12
+9832_10	has_surface_form	rivière
+9832_9	is_in_sentence	sentence_9832
+9832_9	prep	9832_8
+9832_9	has_surface_form	en
+9832_12	is_in_sentence	sentence_9832
+9832_12	ROOT	9832_12
+9832_12	has_surface_form	was
+9832_11	is_in_sentence	sentence_9832
+9832_11	punct	9832_10
+9832_11	has_surface_form	)
+9832_13	is_in_sentence	sentence_9832
+9832_13	det	9832_17
+9832_13	has_surface_form	an
+9832_17	is_in_sentence	sentence_9832
+9832_17	attr	9832_12
+9832_17	has_surface_form	film
+9832_14	is_in_sentence	sentence_9832
+9832_14	nummod	9832_17
+9832_14	has_surface_form	1896
+9832_15	is_in_sentence	sentence_9832
+9832_15	amod	9832_17
+9832_15	has_surface_form	short
+9832_16	is_in_sentence	sentence_9832
+9832_16	amod	9832_17
+9832_16	has_surface_form	silent
+9832_18	is_in_sentence	sentence_9832
+9832_18	acl	9832_17
+9832_18	has_surface_form	directed
+9832_19	is_in_sentence	sentence_9832
+9832_19	agent	9832_18
+9832_19	has_surface_form	by
+9832_20	is_in_sentence	sentence_9832
+9832_20	compound	9832_21
+9832_20	has_surface_form	Georges
+9832_20	part_of_entity	Georges Méliès
+9832_21	is_in_sentence	sentence_9832
+9832_21	pobj	9832_19
+9832_21	has_surface_form	Méliès
+9832_21	part_of_entity	Georges Méliès
+9832_22	is_in_sentence	sentence_9832
+9832_22	punct	9832_12
+9832_22	has_surface_form	.
+9832_23	is_in_sentence	sentence_9832
+9832_23	dep	9832_23
+9832_23	has_surface_form	
+The Rescue on the River	surface_form	The Rescue on the River
+The Rescue on the River	movie-has-director	Georges Méliès
+Georges Méliès	surface_form	Georges Méliès

@@ -1,0 +1,65 @@
+2419_0	is_in_sentence	sentence_2419
+2419_0	compound	2419_1
+2419_0	has_surface_form	Larry
+2419_0	part_of_entity	Larry Lewis
+2419_1	is_in_sentence	sentence_2419
+2419_1	nsubj	2419_9
+2419_1	has_surface_form	Lewis
+2419_1	part_of_entity	Larry Lewis
+2419_9	is_in_sentence	sentence_2419
+2419_9	ROOT	2419_9
+2419_9	has_surface_form	is
+2419_2	is_in_sentence	sentence_2419
+2419_2	punct	2419_1
+2419_2	has_surface_form	(
+2419_3	is_in_sentence	sentence_2419
+2419_3	acl	2419_1
+2419_3	has_surface_form	born
+2419_4	is_in_sentence	sentence_2419
+2419_4	npadvmod	2419_3
+2419_4	has_surface_form	October
+2419_5	is_in_sentence	sentence_2419
+2419_5	nummod	2419_4
+2419_5	has_surface_form	30
+2419_6	is_in_sentence	sentence_2419
+2419_6	punct	2419_4
+2419_6	has_surface_form	,
+2419_7	is_in_sentence	sentence_2419
+2419_7	nummod	2419_4
+2419_7	has_surface_form	1957
+2419_8	is_in_sentence	sentence_2419
+2419_8	punct	2419_1
+2419_8	has_surface_form	)
+2419_10	is_in_sentence	sentence_2419
+2419_10	det	2419_13
+2419_10	has_surface_form	a
+2419_13	is_in_sentence	sentence_2419
+2419_13	attr	2419_9
+2419_13	has_surface_form	coach
+2419_13	part_of_entity	college football coach
+2419_11	is_in_sentence	sentence_2419
+2419_11	compound	2419_12
+2419_11	has_surface_form	college
+2419_11	part_of_entity	college football coach
+2419_12	is_in_sentence	sentence_2419
+2419_12	compound	2419_13
+2419_12	has_surface_form	football
+2419_12	part_of_entity	college football coach
+2419_14	is_in_sentence	sentence_2419
+2419_14	cc	2419_13
+2419_14	has_surface_form	and
+2419_15	is_in_sentence	sentence_2419
+2419_15	amod	2419_16
+2419_15	has_surface_form	former
+2419_16	is_in_sentence	sentence_2419
+2419_16	conj	2419_13
+2419_16	has_surface_form	player
+2419_17	is_in_sentence	sentence_2419
+2419_17	punct	2419_9
+2419_17	has_surface_form	.
+2419_18	is_in_sentence	sentence_2419
+2419_18	dep	2419_18
+2419_18	has_surface_form	
+Larry Lewis	surface_form	Larry Lewis
+Larry Lewis	has-type	college football coach
+college football coach	surface_form	college football coach

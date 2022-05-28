@@ -1,0 +1,69 @@
+9809_0	is_in_sentence	sentence_9809
+9809_0	compound	9809_2
+9809_0	has_surface_form	Armadillo
+9809_0	part_of_entity	Armadillo Technical Institute
+9809_2	is_in_sentence	sentence_9809
+9809_2	nsubj	9809_6
+9809_2	has_surface_form	Institute
+9809_2	part_of_entity	Armadillo Technical Institute
+9809_1	is_in_sentence	sentence_9809
+9809_1	compound	9809_2
+9809_1	has_surface_form	Technical
+9809_1	part_of_entity	Armadillo Technical Institute
+9809_6	is_in_sentence	sentence_9809
+9809_6	ROOT	9809_6
+9809_6	has_surface_form	is
+9809_3	is_in_sentence	sentence_9809
+9809_3	punct	9809_2
+9809_3	has_surface_form	(
+9809_4	is_in_sentence	sentence_9809
+9809_4	appos	9809_2
+9809_4	has_surface_form	ATI
+9809_5	is_in_sentence	sentence_9809
+9809_5	punct	9809_2
+9809_5	has_surface_form	)
+9809_7	is_in_sentence	sentence_9809
+9809_7	det	9809_11
+9809_7	has_surface_form	a
+9809_11	is_in_sentence	sentence_9809
+9809_11	attr	9809_6
+9809_11	has_surface_form	school
+9809_8	is_in_sentence	sentence_9809
+9809_8	amod	9809_11
+9809_8	has_surface_form	small
+9809_9	is_in_sentence	sentence_9809
+9809_9	amod	9809_10
+9809_9	has_surface_form	public
+9809_10	is_in_sentence	sentence_9809
+9809_10	compound	9809_11
+9809_10	has_surface_form	charter
+9809_12	is_in_sentence	sentence_9809
+9809_12	prep	9809_11
+9809_12	has_surface_form	in
+9809_13	is_in_sentence	sentence_9809
+9809_13	pobj	9809_12
+9809_13	is_entity	Phoenix
+Phoenix	surface_form	Phoenix
+9809_14	is_in_sentence	sentence_9809
+9809_14	punct	9809_13
+9809_14	has_surface_form	,
+9809_15	is_in_sentence	sentence_9809
+9809_15	conj	9809_13
+9809_15	has_surface_form	Oregon
+9809_16	is_in_sentence	sentence_9809
+9809_16	punct	9809_15
+9809_16	has_surface_form	,
+9809_17	is_in_sentence	sentence_9809
+9809_17	compound	9809_18
+9809_17	has_surface_form	United
+9809_18	is_in_sentence	sentence_9809
+9809_18	appos	9809_13
+9809_18	has_surface_form	States
+9809_19	is_in_sentence	sentence_9809
+9809_19	punct	9809_6
+9809_19	has_surface_form	.
+9809_20	is_in_sentence	sentence_9809
+9809_20	dep	9809_6
+9809_20	has_surface_form	
+Armadillo Technical Institute	surface_form	Armadillo Technical Institute
+Armadillo Technical Institute	is-where	Phoenix

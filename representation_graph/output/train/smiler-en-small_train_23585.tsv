@@ -1,0 +1,91 @@
+23584_0	is_in_sentence	sentence_23584
+23584_0	compound	23584_1
+23584_0	has_surface_form	Adam
+23584_0	part_of_entity	Adam Zejer
+23584_1	is_in_sentence	sentence_23584
+23584_1	nsubj	23584_10
+23584_1	has_surface_form	Zejer
+23584_1	part_of_entity	Adam Zejer
+23584_10	is_in_sentence	sentence_23584
+23584_10	ROOT	23584_10
+23584_10	has_surface_form	is
+23584_2	is_in_sentence	sentence_23584
+23584_2	punct	23584_3
+23584_2	has_surface_form	(
+23584_3	is_in_sentence	sentence_23584
+23584_3	acl	23584_1
+23584_3	has_surface_form	born
+23584_4	is_in_sentence	sentence_23584
+23584_4	nummod	23584_5
+23584_4	has_surface_form	3
+23584_5	is_in_sentence	sentence_23584
+23584_5	npadvmod	23584_3
+23584_5	has_surface_form	November
+23584_6	is_in_sentence	sentence_23584
+23584_6	nummod	23584_5
+23584_6	has_surface_form	1963
+23584_7	is_in_sentence	sentence_23584
+23584_7	prep	23584_3
+23584_7	has_surface_form	in
+23584_8	is_in_sentence	sentence_23584
+23584_8	pobj	23584_7
+23584_8	has_surface_form	Olsztyn
+23584_9	is_in_sentence	sentence_23584
+23584_9	punct	23584_3
+23584_9	has_surface_form	)
+23584_11	is_in_sentence	sentence_23584
+23584_11	det	23584_15
+23584_11	has_surface_form	a
+23584_15	is_in_sentence	sentence_23584
+23584_15	attr	23584_10
+23584_15	has_surface_form	footballer
+23584_12	is_in_sentence	sentence_23584
+23584_12	amod	23584_15
+23584_12	has_surface_form	retired
+23584_13	is_in_sentence	sentence_23584
+23584_13	amod	23584_15
+23584_13	has_surface_form	Polish
+23584_14	is_in_sentence	sentence_23584
+23584_14	amod	23584_15
+23584_14	has_surface_form	professional
+23584_16	is_in_sentence	sentence_23584
+23584_16	nsubj	23584_17
+23584_16	has_surface_form	who
+23584_17	is_in_sentence	sentence_23584
+23584_17	relcl	23584_15
+23584_17	has_surface_form	played
+23584_18	is_in_sentence	sentence_23584
+23584_18	prep	23584_17
+23584_18	has_surface_form	for
+23584_19	is_in_sentence	sentence_23584
+23584_19	compound	23584_20
+23584_19	has_surface_form	Zagłębie
+23584_19	part_of_entity	Zagłębie Lubin
+23584_20	is_in_sentence	sentence_23584
+23584_20	pobj	23584_18
+23584_20	has_surface_form	Lubin
+23584_20	part_of_entity	Zagłębie Lubin
+23584_21	is_in_sentence	sentence_23584
+23584_21	punct	23584_20
+23584_21	has_surface_form	,
+23584_22	is_in_sentence	sentence_23584
+23584_22	compound	23584_23
+23584_22	has_surface_form	Stomil
+23584_23	is_in_sentence	sentence_23584
+23584_23	conj	23584_20
+23584_23	has_surface_form	Olsztyn
+23584_24	is_in_sentence	sentence_23584
+23584_24	punct	23584_23
+23584_24	has_surface_form	,
+23584_25	is_in_sentence	sentence_23584
+23584_25	compound	23584_26
+23584_25	has_surface_form	Beşiktaş
+23584_26	is_in_sentence	sentence_23584
+23584_26	conj	23584_23
+23584_26	has_surface_form	J.
+23584_27	is_in_sentence	sentence_23584
+23584_27	dep	23584_10
+23584_27	has_surface_form	
+Adam Zejer	surface_form	Adam Zejer
+Adam Zejer	is-member-of	Zagłębie Lubin
+Zagłębie Lubin	surface_form	Zagłębie Lubin

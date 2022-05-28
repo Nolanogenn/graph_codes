@@ -1,0 +1,34 @@
+31963_0	is_in_sentence	sentence_31963
+31963_0	compound	31963_1
+31963_0	has_surface_form	John
+31963_0	part_of_entity	John Heavner
+31963_1	is_in_sentence	sentence_31963
+31963_1	nsubj	31963_2
+31963_1	has_surface_form	Heavner
+31963_1	part_of_entity	John Heavner
+31963_2	is_in_sentence	sentence_31963
+31963_2	ROOT	31963_2
+31963_2	has_surface_form	is
+31963_3	is_in_sentence	sentence_31963
+31963_3	det	31963_6
+31963_3	has_surface_form	an
+31963_6	is_in_sentence	sentence_31963
+31963_6	attr	31963_2
+31963_6	has_surface_form	coach
+31963_6	part_of_entity	football coach
+31963_4	is_in_sentence	sentence_31963
+31963_4	amod	31963_6
+31963_4	has_surface_form	American
+31963_5	is_in_sentence	sentence_31963
+31963_5	compound	31963_6
+31963_5	has_surface_form	football
+31963_5	part_of_entity	football coach
+31963_7	is_in_sentence	sentence_31963
+31963_7	punct	31963_2
+31963_7	has_surface_form	.
+31963_8	is_in_sentence	sentence_31963
+31963_8	dep	31963_8
+31963_8	has_surface_form	
+John Heavner	surface_form	John Heavner
+John Heavner	has-type	football coach
+football coach	surface_form	football coach

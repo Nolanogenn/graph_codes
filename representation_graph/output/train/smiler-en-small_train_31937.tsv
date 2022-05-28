@@ -1,0 +1,68 @@
+31936_0	is_in_sentence	sentence_31936
+31936_0	compound	31936_1
+31936_0	has_surface_form	BellAmos
+31936_0	part_of_entity	BellAmos School
+31936_1	is_in_sentence	sentence_31936
+31936_1	nsubj	31936_2
+31936_1	has_surface_form	School
+31936_1	part_of_entity	BellAmos School
+31936_2	is_in_sentence	sentence_31936
+31936_2	ROOT	31936_2
+31936_2	has_surface_form	is
+31936_3	is_in_sentence	sentence_31936
+31936_3	det	31936_10
+31936_3	has_surface_form	a
+31936_10	is_in_sentence	sentence_31936
+31936_10	attr	31936_2
+31936_10	has_surface_form	school
+31936_4	is_in_sentence	sentence_31936
+31936_4	amod	31936_10
+31936_4	has_surface_form	private
+31936_5	is_in_sentence	sentence_31936
+31936_5	punct	31936_10
+31936_5	has_surface_form	,
+31936_6	is_in_sentence	sentence_31936
+31936_6	amod	31936_10
+31936_6	has_surface_form	co
+31936_7	is_in_sentence	sentence_31936
+31936_7	amod	31936_10
+31936_7	has_surface_form	-
+31936_8	is_in_sentence	sentence_31936
+31936_8	amod	31936_10
+31936_8	has_surface_form	educational
+31936_9	is_in_sentence	sentence_31936
+31936_9	compound	31936_10
+31936_9	has_surface_form	day
+31936_11	is_in_sentence	sentence_31936
+31936_11	prep	31936_10
+31936_11	has_surface_form	for
+31936_12	is_in_sentence	sentence_31936
+31936_12	compound	31936_13
+31936_12	has_surface_form	grades
+31936_13	is_in_sentence	sentence_31936
+31936_13	pobj	31936_11
+31936_13	has_surface_form	K-9
+31936_14	is_in_sentence	sentence_31936
+31936_14	acl	31936_13
+31936_14	has_surface_form	located
+31936_15	is_in_sentence	sentence_31936
+31936_15	prep	31936_14
+31936_15	has_surface_form	in
+31936_16	is_in_sentence	sentence_31936
+31936_16	pobj	31936_15
+31936_16	has_surface_form	Martin
+31936_17	is_in_sentence	sentence_31936
+31936_17	punct	31936_16
+31936_17	has_surface_form	,
+31936_18	is_in_sentence	sentence_31936
+31936_18	appos	31936_16
+31936_18	has_surface_form	Slovakia
+31936_19	is_in_sentence	sentence_31936
+31936_19	punct	31936_2
+31936_19	has_surface_form	.
+31936_20	is_in_sentence	sentence_31936
+31936_20	dep	31936_2
+31936_20	has_surface_form	
+BellAmos School	surface_form	BellAmos School
+BellAmos School	is-where	Martin, Slovakia
+Martin, Slovakia	surface_form	Martin, Slovakia

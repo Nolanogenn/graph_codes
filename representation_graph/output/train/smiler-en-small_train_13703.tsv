@@ -1,0 +1,88 @@
+13702_0	is_in_sentence	sentence_13702
+13702_0	compound	13702_1
+13702_0	has_surface_form	Nataraja
+13702_0	part_of_entity	Nataraja Service
+13702_1	is_in_sentence	sentence_13702
+13702_1	nsubj	13702_8
+13702_1	has_surface_form	Service
+13702_1	part_of_entity	Nataraja Service
+13702_8	is_in_sentence	sentence_13702
+13702_8	ROOT	13702_8
+13702_8	has_surface_form	is
+13702_2	is_in_sentence	sentence_13702
+13702_2	punct	13702_3
+13702_2	has_surface_form	(
+13702_3	is_in_sentence	sentence_13702
+13702_3	appos	13702_1
+13702_3	has_surface_form	Kannada
+13702_4	is_in_sentence	sentence_13702
+13702_4	punct	13702_3
+13702_4	has_surface_form	:
+13702_5	is_in_sentence	sentence_13702
+13702_5	appos	13702_3
+13702_5	has_surface_form	ನಟರಾಜ
+13702_6	is_in_sentence	sentence_13702
+13702_6	npadvmod	13702_5
+13702_6	has_surface_form	ಸರ್ವಿಸ್
+13702_7	is_in_sentence	sentence_13702
+13702_7	punct	13702_3
+13702_7	has_surface_form	)
+13702_9	is_in_sentence	sentence_13702
+13702_9	det	13702_17
+13702_9	has_surface_form	a
+13702_17	is_in_sentence	sentence_13702
+13702_17	attr	13702_8
+13702_17	has_surface_form	film
+13702_10	is_in_sentence	sentence_13702
+13702_10	nummod	13702_13
+13702_10	has_surface_form	2016
+13702_13	is_in_sentence	sentence_13702
+13702_13	nmod	13702_17
+13702_13	has_surface_form	language
+13702_11	is_in_sentence	sentence_13702
+13702_11	nmod	13702_13
+13702_11	has_surface_form	Indian
+13702_12	is_in_sentence	sentence_13702
+13702_12	nmod	13702_13
+13702_12	has_surface_form	Kannada
+13702_14	is_in_sentence	sentence_13702
+13702_14	amod	13702_17
+13702_14	has_surface_form	romantic
+13702_15	is_in_sentence	sentence_13702
+13702_15	amod	13702_17
+13702_15	has_surface_form	emotional
+13702_16	is_in_sentence	sentence_13702
+13702_16	compound	13702_17
+13702_16	has_surface_form	comedy
+13702_18	is_in_sentence	sentence_13702
+13702_18	acl	13702_17
+13702_18	has_surface_form	directed
+13702_19	is_in_sentence	sentence_13702
+13702_19	agent	13702_18
+13702_19	has_surface_form	by
+13702_20	is_in_sentence	sentence_13702
+13702_20	compound	13702_21
+13702_20	has_surface_form	Pavan
+13702_20	part_of_entity	Pavan Wadeyar
+13702_21	is_in_sentence	sentence_13702
+13702_21	pobj	13702_19
+13702_21	has_surface_form	Wadeyar
+13702_21	part_of_entity	Pavan Wadeyar
+13702_22	is_in_sentence	sentence_13702
+13702_22	punct	13702_21
+13702_22	has_surface_form	,
+13702_23	is_in_sentence	sentence_13702
+13702_23	acl	13702_21
+13702_23	has_surface_form	produced
+13702_24	is_in_sentence	sentence_13702
+13702_24	agent	13702_23
+13702_24	has_surface_form	by
+13702_25	is_in_sentence	sentence_13702
+13702_25	pobj	13702_24
+13702_25	has_surface_form	N.
+13702_26	is_in_sentence	sentence_13702
+13702_26	dep	13702_8
+13702_26	has_surface_form	
+Nataraja Service	surface_form	Nataraja Service
+Nataraja Service	movie-has-director	Pavan Wadeyar
+Pavan Wadeyar	surface_form	Pavan Wadeyar

@@ -1,0 +1,79 @@
+24702_0	is_in_sentence	sentence_24702
+24702_0	compound	24702_1
+24702_0	has_surface_form	Cold
+24702_0	part_of_entity	Cold Hearts
+24702_1	is_in_sentence	sentence_24702
+24702_1	nsubj	24702_2
+24702_1	has_surface_form	Hearts
+24702_1	part_of_entity	Cold Hearts
+24702_2	is_in_sentence	sentence_24702
+24702_2	ccomp	24702_11
+24702_2	has_surface_form	is
+24702_11	is_in_sentence	sentence_24702
+24702_11	ROOT	24702_11
+24702_11	has_surface_form	stars
+24702_3	is_in_sentence	sentence_24702
+24702_3	det	24702_5
+24702_3	has_surface_form	a
+24702_5	is_in_sentence	sentence_24702
+24702_5	attr	24702_2
+24702_5	has_surface_form	film
+24702_4	is_in_sentence	sentence_24702
+24702_4	nummod	24702_5
+24702_4	has_surface_form	1999
+24702_6	is_in_sentence	sentence_24702
+24702_6	acl	24702_5
+24702_6	has_surface_form	directed
+24702_7	is_in_sentence	sentence_24702
+24702_7	agent	24702_6
+24702_7	has_surface_form	by
+24702_8	is_in_sentence	sentence_24702
+24702_8	compound	24702_9
+24702_8	has_surface_form	Robert
+24702_9	is_in_sentence	sentence_24702
+24702_9	pobj	24702_7
+24702_9	has_surface_form	A.
+24702_10	is_in_sentence	sentence_24702
+24702_10	nsubj	24702_11
+24702_10	has_surface_form	It
+24702_12	is_in_sentence	sentence_24702
+24702_12	compound	24702_13
+24702_12	has_surface_form	Marisa
+24702_12	part_of_entity	Marisa Ryan
+24702_13	is_in_sentence	sentence_24702
+24702_13	dobj	24702_11
+24702_13	has_surface_form	Ryan
+24702_13	part_of_entity	Marisa Ryan
+24702_14	is_in_sentence	sentence_24702
+24702_14	punct	24702_13
+24702_14	has_surface_form	,
+24702_15	is_in_sentence	sentence_24702
+24702_15	compound	24702_16
+24702_15	has_surface_form	Robert
+24702_16	is_in_sentence	sentence_24702
+24702_16	conj	24702_13
+24702_16	has_surface_form	Floyd
+24702_17	is_in_sentence	sentence_24702
+24702_17	punct	24702_16
+24702_17	has_surface_form	,
+24702_18	is_in_sentence	sentence_24702
+24702_18	cc	24702_16
+24702_18	has_surface_form	and
+24702_19	is_in_sentence	sentence_24702
+24702_19	compound	24702_21
+24702_19	has_surface_form	Amy
+24702_21	is_in_sentence	sentence_24702
+24702_21	conj	24702_16
+24702_21	has_surface_form	Johnson
+24702_20	is_in_sentence	sentence_24702
+24702_20	compound	24702_21
+24702_20	has_surface_form	Jo
+24702_22	is_in_sentence	sentence_24702
+24702_22	punct	24702_11
+24702_22	has_surface_form	.
+24702_23	is_in_sentence	sentence_24702
+24702_23	dep	24702_11
+24702_23	has_surface_form	
+Cold Hearts	surface_form	Cold Hearts
+Cold Hearts	starring	Marisa Ryan
+Marisa Ryan	surface_form	Marisa Ryan

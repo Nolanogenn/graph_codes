@@ -1,0 +1,53 @@
+30925_0	is_in_sentence	sentence_30925
+30925_0	nsubj	30925_3
+30925_0	has_surface_form	Souvenir
+30925_0	part_of_entity	Souvenir of Gibraltar
+30925_3	is_in_sentence	sentence_30925
+30925_3	ROOT	30925_3
+30925_3	has_surface_form	is
+30925_1	is_in_sentence	sentence_30925
+30925_1	prep	30925_0
+30925_1	has_surface_form	of
+30925_1	part_of_entity	Souvenir of Gibraltar
+30925_2	is_in_sentence	sentence_30925
+30925_2	pobj	30925_1
+30925_2	has_surface_form	Gibraltar
+30925_2	part_of_entity	Souvenir of Gibraltar
+30925_4	is_in_sentence	sentence_30925
+30925_4	det	30925_8
+30925_4	has_surface_form	a
+30925_8	is_in_sentence	sentence_30925
+30925_8	attr	30925_3
+30925_8	has_surface_form	film
+30925_5	is_in_sentence	sentence_30925
+30925_5	nummod	30925_8
+30925_5	has_surface_form	1975
+30925_6	is_in_sentence	sentence_30925
+30925_6	amod	30925_8
+30925_6	has_surface_form	Belgian
+30925_7	is_in_sentence	sentence_30925
+30925_7	compound	30925_8
+30925_7	has_surface_form	drama
+30925_9	is_in_sentence	sentence_30925
+30925_9	acl	30925_8
+30925_9	has_surface_form	directed
+30925_10	is_in_sentence	sentence_30925
+30925_10	agent	30925_9
+30925_10	has_surface_form	by
+30925_11	is_in_sentence	sentence_30925
+30925_11	compound	30925_12
+30925_11	has_surface_form	Henri
+30925_11	part_of_entity	Henri Xhonneux
+30925_12	is_in_sentence	sentence_30925
+30925_12	pobj	30925_10
+30925_12	has_surface_form	Xhonneux
+30925_12	part_of_entity	Henri Xhonneux
+30925_13	is_in_sentence	sentence_30925
+30925_13	punct	30925_3
+30925_13	has_surface_form	.
+30925_14	is_in_sentence	sentence_30925
+30925_14	dep	30925_3
+30925_14	has_surface_form	
+Souvenir of Gibraltar	surface_form	Souvenir of Gibraltar
+Souvenir of Gibraltar	movie-has-director	Henri Xhonneux
+Henri Xhonneux	surface_form	Henri Xhonneux

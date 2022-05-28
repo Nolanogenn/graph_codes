@@ -1,0 +1,76 @@
+32701_0	is_in_sentence	sentence_32701
+32701_0	compound	32701_1
+32701_0	has_surface_form	Maato
+32701_0	part_of_entity	Maato Pettukoku
+32701_1	is_in_sentence	sentence_32701
+32701_1	nsubj	32701_7
+32701_1	has_surface_form	Pettukoku
+32701_1	part_of_entity	Maato Pettukoku
+32701_7	is_in_sentence	sentence_32701
+32701_7	csubj	32701_13
+32701_7	has_surface_form	try
+32701_2	is_in_sentence	sentence_32701
+32701_2	punct	32701_3
+32701_2	has_surface_form	(
+32701_3	is_in_sentence	sentence_32701
+32701_3	appos	32701_1
+32701_3	has_surface_form	English
+32701_4	is_in_sentence	sentence_32701
+32701_4	punct	32701_3
+32701_4	has_surface_form	:
+32701_5	is_in_sentence	sentence_32701
+32701_5	aux	32701_7
+32701_5	has_surface_form	Do
+32701_6	is_in_sentence	sentence_32701
+32701_6	neg	32701_7
+32701_6	has_surface_form	n't
+32701_13	is_in_sentence	sentence_32701
+32701_13	ROOT	32701_13
+32701_13	has_surface_form	is
+32701_8	is_in_sentence	sentence_32701
+32701_8	aux	32701_9
+32701_8	has_surface_form	to
+32701_9	is_in_sentence	sentence_32701
+32701_9	xcomp	32701_7
+32701_9	has_surface_form	mess
+32701_10	is_in_sentence	sentence_32701
+32701_10	prep	32701_9
+32701_10	has_surface_form	with
+32701_11	is_in_sentence	sentence_32701
+32701_11	pobj	32701_10
+32701_11	has_surface_form	us
+32701_12	is_in_sentence	sentence_32701
+32701_12	punct	32701_7
+32701_12	has_surface_form	)
+32701_14	is_in_sentence	sentence_32701
+32701_14	det	32701_18
+32701_14	has_surface_form	a
+32701_18	is_in_sentence	sentence_32701
+32701_18	attr	32701_13
+32701_18	has_surface_form	film
+32701_18	part_of_entity	action film
+32701_15	is_in_sentence	sentence_32701
+32701_15	nummod	32701_18
+32701_15	has_surface_form	1995
+32701_16	is_in_sentence	sentence_32701
+32701_16	compound	32701_17
+32701_16	has_surface_form	Telugu
+32701_17	is_in_sentence	sentence_32701
+32701_17	compound	32701_18
+32701_17	has_surface_form	action
+32701_17	part_of_entity	action film
+32701_19	is_in_sentence	sentence_32701
+32701_19	acl	32701_18
+32701_19	has_surface_form	produced
+32701_20	is_in_sentence	sentence_32701
+32701_20	agent	32701_19
+32701_20	has_surface_form	by
+32701_21	is_in_sentence	sentence_32701
+32701_21	pobj	32701_20
+32701_21	has_surface_form	S.
+32701_22	is_in_sentence	sentence_32701
+32701_22	dep	32701_13
+32701_22	has_surface_form	
+Maato Pettukoku	surface_form	Maato Pettukoku
+Maato Pettukoku	has-type	action film
+action film	surface_form	action film

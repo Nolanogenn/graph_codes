@@ -1,0 +1,65 @@
+31823_0	is_in_sentence	sentence_31823
+31823_0	csubj	31823_3
+31823_0	has_surface_form	Speaking
+31823_0	part_of_entity	Speaking of Murder
+31823_3	is_in_sentence	sentence_31823
+31823_3	ROOT	31823_3
+31823_3	has_surface_form	is
+31823_1	is_in_sentence	sentence_31823
+31823_1	prep	31823_0
+31823_1	has_surface_form	of
+31823_1	part_of_entity	Speaking of Murder
+31823_2	is_in_sentence	sentence_31823
+31823_2	pobj	31823_1
+31823_2	has_surface_form	Murder
+31823_2	part_of_entity	Speaking of Murder
+31823_4	is_in_sentence	sentence_31823
+31823_4	det	31823_8
+31823_4	has_surface_form	a
+31823_8	is_in_sentence	sentence_31823
+31823_8	attr	31823_3
+31823_8	has_surface_form	film
+31823_5	is_in_sentence	sentence_31823
+31823_5	nummod	31823_8
+31823_5	has_surface_form	1957
+31823_6	is_in_sentence	sentence_31823
+31823_6	amod	31823_8
+31823_6	has_surface_form	French
+31823_7	is_in_sentence	sentence_31823
+31823_7	compound	31823_8
+31823_7	has_surface_form	crime
+31823_9	is_in_sentence	sentence_31823
+31823_9	acl	31823_8
+31823_9	has_surface_form	directed
+31823_10	is_in_sentence	sentence_31823
+31823_10	agent	31823_9
+31823_10	has_surface_form	by
+31823_11	is_in_sentence	sentence_31823
+31823_11	compound	31823_12
+31823_11	has_surface_form	Gilles
+31823_11	part_of_entity	Gilles Grangier
+31823_12	is_in_sentence	sentence_31823
+31823_12	pobj	31823_10
+31823_12	has_surface_form	Grangier
+31823_12	part_of_entity	Gilles Grangier
+31823_13	is_in_sentence	sentence_31823
+31823_13	cc	31823_9
+31823_13	has_surface_form	and
+31823_14	is_in_sentence	sentence_31823
+31823_14	conj	31823_9
+31823_14	has_surface_form	starring
+31823_15	is_in_sentence	sentence_31823
+31823_15	compound	31823_16
+31823_15	has_surface_form	Jean
+31823_16	is_in_sentence	sentence_31823
+31823_16	dobj	31823_14
+31823_16	has_surface_form	Gabin
+31823_17	is_in_sentence	sentence_31823
+31823_17	punct	31823_3
+31823_17	has_surface_form	.
+31823_18	is_in_sentence	sentence_31823
+31823_18	dep	31823_3
+31823_18	has_surface_form	
+Speaking of Murder	surface_form	Speaking of Murder
+Speaking of Murder	movie-has-director	Gilles Grangier
+Gilles Grangier	surface_form	Gilles Grangier

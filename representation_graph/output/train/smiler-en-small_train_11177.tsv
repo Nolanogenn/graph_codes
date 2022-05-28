@@ -1,0 +1,102 @@
+11176_0	is_in_sentence	sentence_11176
+11176_0	det	11176_1
+11176_0	has_surface_form	The
+11176_0	part_of_entity	The Shadow of Evil
+11176_1	is_in_sentence	sentence_11176
+11176_1	nsubj	11176_4
+11176_1	has_surface_form	Shadow
+11176_1	part_of_entity	The Shadow of Evil
+11176_4	is_in_sentence	sentence_11176
+11176_4	ROOT	11176_4
+11176_4	has_surface_form	is
+11176_2	is_in_sentence	sentence_11176
+11176_2	prep	11176_1
+11176_2	has_surface_form	of
+11176_2	part_of_entity	The Shadow of Evil
+11176_3	is_in_sentence	sentence_11176
+11176_3	pobj	11176_2
+11176_3	has_surface_form	Evil
+11176_3	part_of_entity	The Shadow of Evil
+11176_5	is_in_sentence	sentence_11176
+11176_5	det	11176_10
+11176_5	has_surface_form	a
+11176_10	is_in_sentence	sentence_11176
+11176_10	attr	11176_4
+11176_10	has_surface_form	film
+11176_6	is_in_sentence	sentence_11176
+11176_6	nummod	11176_10
+11176_6	has_surface_form	1921
+11176_7	is_in_sentence	sentence_11176
+11176_7	amod	11176_10
+11176_7	has_surface_form	British
+11176_8	is_in_sentence	sentence_11176
+11176_8	amod	11176_9
+11176_8	has_surface_form	silent
+11176_9	is_in_sentence	sentence_11176
+11176_9	compound	11176_10
+11176_9	has_surface_form	crime
+11176_11	is_in_sentence	sentence_11176
+11176_11	acl	11176_10
+11176_11	has_surface_form	directed
+11176_12	is_in_sentence	sentence_11176
+11176_12	agent	11176_11
+11176_12	has_surface_form	by
+11176_13	is_in_sentence	sentence_11176
+11176_13	compound	11176_15
+11176_13	has_surface_form	George
+11176_15	is_in_sentence	sentence_11176
+11176_15	pobj	11176_12
+11176_15	has_surface_form	Cooper
+11176_14	is_in_sentence	sentence_11176
+11176_14	compound	11176_15
+11176_14	has_surface_form	A.
+11176_16	is_in_sentence	sentence_11176
+11176_16	cc	11176_15
+11176_16	has_surface_form	and
+11176_17	is_in_sentence	sentence_11176
+11176_17	compound	11176_18
+11176_17	has_surface_form	James
+11176_17	part_of_entity	James Reardon
+11176_18	is_in_sentence	sentence_11176
+11176_18	conj	11176_15
+11176_18	has_surface_form	Reardon
+11176_18	part_of_entity	James Reardon
+11176_19	is_in_sentence	sentence_11176
+11176_19	cc	11176_11
+11176_19	has_surface_form	and
+11176_20	is_in_sentence	sentence_11176
+11176_20	conj	11176_11
+11176_20	has_surface_form	starring
+11176_21	is_in_sentence	sentence_11176
+11176_21	compound	11176_22
+11176_21	has_surface_form	Mary
+11176_22	is_in_sentence	sentence_11176
+11176_22	dobj	11176_20
+11176_22	has_surface_form	Dibley
+11176_23	is_in_sentence	sentence_11176
+11176_23	punct	11176_22
+11176_23	has_surface_form	,
+11176_24	is_in_sentence	sentence_11176
+11176_24	compound	11176_25
+11176_24	has_surface_form	Reginald
+11176_25	is_in_sentence	sentence_11176
+11176_25	conj	11176_22
+11176_25	has_surface_form	Fox
+11176_26	is_in_sentence	sentence_11176
+11176_26	cc	11176_25
+11176_26	has_surface_form	and
+11176_27	is_in_sentence	sentence_11176
+11176_27	compound	11176_28
+11176_27	has_surface_form	Cecil
+11176_28	is_in_sentence	sentence_11176
+11176_28	conj	11176_25
+11176_28	has_surface_form	Humphreys
+11176_29	is_in_sentence	sentence_11176
+11176_29	punct	11176_4
+11176_29	has_surface_form	.
+11176_30	is_in_sentence	sentence_11176
+11176_30	dep	11176_4
+11176_30	has_surface_form	
+The Shadow of Evil	surface_form	The Shadow of Evil
+The Shadow of Evil	movie-has-director	James Reardon
+James Reardon	surface_form	James Reardon

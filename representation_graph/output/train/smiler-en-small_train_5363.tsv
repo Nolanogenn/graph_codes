@@ -1,0 +1,64 @@
+5362_0	is_in_sentence	sentence_5362
+5362_0	compound	5362_1
+5362_0	has_surface_form	Paattum
+5362_0	part_of_entity	Paattum Bharathamum
+5362_1	is_in_sentence	sentence_5362
+5362_1	nsubj	5362_2
+5362_1	has_surface_form	Bharathamum
+5362_1	part_of_entity	Paattum Bharathamum
+5362_2	is_in_sentence	sentence_5362
+5362_2	ROOT	5362_2
+5362_2	has_surface_form	is
+5362_3	is_in_sentence	sentence_5362
+5362_3	det	5362_9
+5362_3	has_surface_form	a
+5362_9	is_in_sentence	sentence_5362
+5362_9	attr	5362_2
+5362_9	has_surface_form	film
+5362_4	is_in_sentence	sentence_5362
+5362_4	nummod	5362_9
+5362_4	has_surface_form	1975
+5362_5	is_in_sentence	sentence_5362
+5362_5	amod	5362_9
+5362_5	has_surface_form	Indian
+5362_6	is_in_sentence	sentence_5362
+5362_6	compound	5362_8
+5362_6	has_surface_form	Tamil
+5362_8	is_in_sentence	sentence_5362
+5362_8	compound	5362_9
+5362_8	has_surface_form	language
+5362_7	is_in_sentence	sentence_5362
+5362_7	punct	5362_8
+5362_7	has_surface_form	-
+5362_10	is_in_sentence	sentence_5362
+5362_10	punct	5362_9
+5362_10	has_surface_form	,
+5362_11	is_in_sentence	sentence_5362
+5362_11	acl	5362_9
+5362_11	has_surface_form	directed
+5362_12	is_in_sentence	sentence_5362
+5362_12	cc	5362_11
+5362_12	has_surface_form	and
+5362_13	is_in_sentence	sentence_5362
+5362_13	conj	5362_11
+5362_13	has_surface_form	produced
+5362_14	is_in_sentence	sentence_5362
+5362_14	agent	5362_13
+5362_14	has_surface_form	by
+5362_15	is_in_sentence	sentence_5362
+5362_15	compound	5362_16
+5362_15	has_surface_form	P.
+5362_15	part_of_entity	P. Madhavan
+5362_16	is_in_sentence	sentence_5362
+5362_16	pobj	5362_14
+5362_16	has_surface_form	Madhavan
+5362_16	part_of_entity	P. Madhavan
+5362_17	is_in_sentence	sentence_5362
+5362_17	punct	5362_2
+5362_17	has_surface_form	.
+5362_18	is_in_sentence	sentence_5362
+5362_18	dep	5362_2
+5362_18	has_surface_form	
+Paattum Bharathamum	surface_form	Paattum Bharathamum
+Paattum Bharathamum	movie-has-director	P. Madhavan
+P. Madhavan	surface_form	P. Madhavan

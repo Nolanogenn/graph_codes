@@ -1,0 +1,50 @@
+4327_0	is_in_sentence	sentence_4327
+4327_0	compound	4327_1
+4327_0	has_surface_form	Dolphin
+4327_0	part_of_entity	Dolphin Air
+4327_1	is_in_sentence	sentence_4327
+4327_1	nsubj	4327_2
+4327_1	has_surface_form	Air
+4327_1	part_of_entity	Dolphin Air
+4327_2	is_in_sentence	sentence_4327
+4327_2	ROOT	4327_2
+4327_2	has_surface_form	was
+4327_3	is_in_sentence	sentence_4327
+4327_3	det	4327_5
+4327_3	has_surface_form	a
+4327_5	is_in_sentence	sentence_4327
+4327_5	attr	4327_2
+4327_5	has_surface_form	airline
+4327_4	is_in_sentence	sentence_4327
+4327_4	compound	4327_5
+4327_4	has_surface_form	charter
+4327_6	is_in_sentence	sentence_4327
+4327_6	acl	4327_5
+4327_6	has_surface_form	based
+4327_7	is_in_sentence	sentence_4327
+4327_7	prep	4327_6
+4327_7	has_surface_form	in
+4327_8	is_in_sentence	sentence_4327
+4327_8	pobj	4327_7
+4327_8	is_entity	Dubai
+Dubai	surface_form	Dubai
+4327_9	is_in_sentence	sentence_4327
+4327_9	punct	4327_8
+4327_9	has_surface_form	,
+4327_10	is_in_sentence	sentence_4327
+4327_10	compound	4327_12
+4327_10	has_surface_form	United
+4327_12	is_in_sentence	sentence_4327
+4327_12	appos	4327_8
+4327_12	has_surface_form	Emirates
+4327_11	is_in_sentence	sentence_4327
+4327_11	compound	4327_12
+4327_11	has_surface_form	Arab
+4327_13	is_in_sentence	sentence_4327
+4327_13	punct	4327_2
+4327_13	has_surface_form	.
+4327_14	is_in_sentence	sentence_4327
+4327_14	dep	4327_2
+4327_14	has_surface_form	
+Dolphin Air	surface_form	Dolphin Air
+Dolphin Air	headquarters	Dubai

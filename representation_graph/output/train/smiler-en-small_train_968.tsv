@@ -1,0 +1,59 @@
+967_0	is_in_sentence	sentence_967
+967_0	nsubj	967_3
+967_0	has_surface_form	Maria
+967_0	part_of_entity	Maria of Romania
+967_3	is_in_sentence	sentence_967
+967_3	ROOT	967_3
+967_3	has_surface_form	was
+967_1	is_in_sentence	sentence_967
+967_1	prep	967_0
+967_1	has_surface_form	of
+967_1	part_of_entity	Maria of Romania
+967_2	is_in_sentence	sentence_967
+967_2	pobj	967_1
+967_2	has_surface_form	Romania
+967_2	part_of_entity	Maria of Romania
+967_4	is_in_sentence	sentence_967
+967_4	det	967_5
+967_4	has_surface_form	the
+967_5	is_in_sentence	sentence_967
+967_5	attr	967_3
+967_5	has_surface_form	mother
+967_6	is_in_sentence	sentence_967
+967_6	prep	967_5
+967_6	has_surface_form	of
+967_7	is_in_sentence	sentence_967
+967_7	compound	967_8
+967_7	has_surface_form	Peter
+967_7	part_of_entity	Peter II
+967_8	is_in_sentence	sentence_967
+967_8	pobj	967_6
+967_8	has_surface_form	II
+967_8	part_of_entity	Peter II
+967_9	is_in_sentence	sentence_967
+967_9	punct	967_5
+967_9	has_surface_form	,
+967_10	is_in_sentence	sentence_967
+967_10	det	967_14
+967_10	has_surface_form	the
+967_14	is_in_sentence	sentence_967
+967_14	appos	967_5
+967_14	has_surface_form	king
+967_11	is_in_sentence	sentence_967
+967_11	amod	967_14
+967_11	has_surface_form	last
+967_12	is_in_sentence	sentence_967
+967_12	amod	967_14
+967_12	has_surface_form	reigning
+967_13	is_in_sentence	sentence_967
+967_13	amod	967_14
+967_13	has_surface_form	Yugoslav
+967_15	is_in_sentence	sentence_967
+967_15	punct	967_3
+967_15	has_surface_form	.
+967_16	is_in_sentence	sentence_967
+967_16	dep	967_16
+967_16	has_surface_form	
+Maria of Romania	surface_form	Maria of Romania
+Maria of Romania	has-child	Peter II
+Peter II	surface_form	Peter II

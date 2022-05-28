@@ -1,0 +1,79 @@
+32322_0	is_in_sentence	sentence_32322
+32322_0	det	32322_3
+32322_0	has_surface_form	The
+32322_0	part_of_entity	The Best Bad Man
+32322_3	is_in_sentence	sentence_32322
+32322_3	nsubj	32322_4
+32322_3	has_surface_form	Man
+32322_3	part_of_entity	The Best Bad Man
+32322_1	is_in_sentence	sentence_32322
+32322_1	compound	32322_3
+32322_1	has_surface_form	Best
+32322_1	part_of_entity	The Best Bad Man
+32322_2	is_in_sentence	sentence_32322
+32322_2	compound	32322_3
+32322_2	has_surface_form	Bad
+32322_2	part_of_entity	The Best Bad Man
+32322_4	is_in_sentence	sentence_32322
+32322_4	ROOT	32322_4
+32322_4	has_surface_form	is
+32322_5	is_in_sentence	sentence_32322
+32322_5	det	32322_10
+32322_5	has_surface_form	a
+32322_10	is_in_sentence	sentence_32322
+32322_10	attr	32322_4
+32322_10	has_surface_form	film
+32322_6	is_in_sentence	sentence_32322
+32322_6	nummod	32322_10
+32322_6	has_surface_form	1925
+32322_7	is_in_sentence	sentence_32322
+32322_7	amod	32322_10
+32322_7	has_surface_form	American
+32322_8	is_in_sentence	sentence_32322
+32322_8	amod	32322_10
+32322_8	has_surface_form	silent
+32322_9	is_in_sentence	sentence_32322
+32322_9	amod	32322_10
+32322_9	has_surface_form	Western
+32322_11	is_in_sentence	sentence_32322
+32322_11	acl	32322_10
+32322_11	has_surface_form	directed
+32322_12	is_in_sentence	sentence_32322
+32322_12	agent	32322_11
+32322_12	has_surface_form	by
+32322_13	is_in_sentence	sentence_32322
+32322_13	compound	32322_15
+32322_13	has_surface_form	John
+32322_13	part_of_entity	John G. Blystone
+32322_15	is_in_sentence	sentence_32322
+32322_15	pobj	32322_12
+32322_15	has_surface_form	Blystone
+32322_15	part_of_entity	John G. Blystone
+32322_14	is_in_sentence	sentence_32322
+32322_14	compound	32322_15
+32322_14	has_surface_form	G.
+32322_14	part_of_entity	John G. Blystone
+32322_16	is_in_sentence	sentence_32322
+32322_16	cc	32322_11
+32322_16	has_surface_form	and
+32322_17	is_in_sentence	sentence_32322
+32322_17	conj	32322_11
+32322_17	has_surface_form	written
+32322_18	is_in_sentence	sentence_32322
+32322_18	agent	32322_17
+32322_18	has_surface_form	by
+32322_19	is_in_sentence	sentence_32322
+32322_19	compound	32322_20
+32322_19	has_surface_form	Lillie
+32322_20	is_in_sentence	sentence_32322
+32322_20	pobj	32322_18
+32322_20	has_surface_form	Hayward
+32322_21	is_in_sentence	sentence_32322
+32322_21	punct	32322_4
+32322_21	has_surface_form	.
+32322_22	is_in_sentence	sentence_32322
+32322_22	dep	32322_4
+32322_22	has_surface_form	
+The Best Bad Man	surface_form	The Best Bad Man
+The Best Bad Man	movie-has-director	John G. Blystone
+John G. Blystone	surface_form	John G. Blystone

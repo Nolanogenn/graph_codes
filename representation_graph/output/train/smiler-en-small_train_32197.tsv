@@ -1,0 +1,47 @@
+32196_0	is_in_sentence	sentence_32196
+32196_0	compound	32196_1
+32196_0	has_surface_form	Rana
+32196_0	part_of_entity	Rana Hussein
+32196_1	is_in_sentence	sentence_32196
+32196_1	nsubj	32196_7
+32196_1	has_surface_form	Hussein
+32196_1	part_of_entity	Rana Hussein
+32196_7	is_in_sentence	sentence_32196
+32196_7	ROOT	32196_7
+32196_7	has_surface_form	is
+32196_2	is_in_sentence	sentence_32196
+32196_2	punct	32196_1
+32196_2	has_surface_form	(
+32196_3	is_in_sentence	sentence_32196
+32196_3	appos	32196_1
+32196_3	has_surface_form	b.
+32196_4	is_in_sentence	sentence_32196
+32196_4	nummod	32196_3
+32196_4	has_surface_form	1969
+32196_5	is_in_sentence	sentence_32196
+32196_5	punct	32196_1
+32196_5	has_surface_form	)
+32196_6	is_in_sentence	sentence_32196
+32196_6	punct	32196_1
+32196_6	has_surface_form	,
+32196_8	is_in_sentence	sentence_32196
+32196_8	poss	32196_11
+32196_8	is_entity	Saddam
+32196_11	is_in_sentence	sentence_32196
+32196_11	attr	32196_7
+32196_11	has_surface_form	daughter
+Saddam	surface_form	Saddam
+Saddam	has-child	Rana Hussein
+32196_9	is_in_sentence	sentence_32196
+32196_9	case	32196_8
+32196_9	has_surface_form	's
+32196_10	is_in_sentence	sentence_32196
+32196_10	amod	32196_11
+32196_10	has_surface_form	second
+32196_12	is_in_sentence	sentence_32196
+32196_12	punct	32196_7
+32196_12	has_surface_form	.
+32196_13	is_in_sentence	sentence_32196
+32196_13	dep	32196_7
+32196_13	has_surface_form	
+Rana Hussein	surface_form	Rana Hussein

@@ -1,0 +1,68 @@
+22540_0	is_in_sentence	sentence_22540
+22540_0	det	22540_2
+22540_0	has_surface_form	The
+22540_0	part_of_entity	The Vladar Company
+22540_2	is_in_sentence	sentence_22540
+22540_2	nsubj	22540_3
+22540_2	has_surface_form	Company
+22540_2	part_of_entity	The Vladar Company
+22540_1	is_in_sentence	sentence_22540
+22540_1	compound	22540_2
+22540_1	has_surface_form	Vladar
+22540_1	part_of_entity	The Vladar Company
+22540_3	is_in_sentence	sentence_22540
+22540_3	ROOT	22540_3
+22540_3	has_surface_form	is
+22540_4	is_in_sentence	sentence_22540
+22540_4	det	22540_9
+22540_4	has_surface_form	a
+22540_9	is_in_sentence	sentence_22540
+22540_9	attr	22540_3
+22540_9	has_surface_form	company
+22540_5	is_in_sentence	sentence_22540
+22540_5	nmod	22540_6
+22540_5	has_surface_form	film
+22540_6	is_in_sentence	sentence_22540
+22540_6	nmod	22540_9
+22540_6	has_surface_form	production
+22540_7	is_in_sentence	sentence_22540
+22540_7	cc	22540_6
+22540_7	has_surface_form	and
+22540_8	is_in_sentence	sentence_22540
+22540_8	conj	22540_6
+22540_8	has_surface_form	distribution
+22540_10	is_in_sentence	sentence_22540
+22540_10	punct	22540_9
+22540_10	has_surface_form	,
+22540_11	is_in_sentence	sentence_22540
+22540_11	acl	22540_9
+22540_11	has_surface_form	led
+22540_12	is_in_sentence	sentence_22540
+22540_12	agent	22540_11
+22540_12	has_surface_form	by
+22540_13	is_in_sentence	sentence_22540
+22540_13	compound	22540_14
+22540_13	has_surface_form	Vlad
+22540_13	part_of_entity	Vlad Yudin
+22540_14	is_in_sentence	sentence_22540
+22540_14	pobj	22540_12
+22540_14	has_surface_form	Yudin
+22540_14	part_of_entity	Vlad Yudin
+22540_15	is_in_sentence	sentence_22540
+22540_15	cc	22540_14
+22540_15	has_surface_form	and
+22540_16	is_in_sentence	sentence_22540
+22540_16	compound	22540_17
+22540_16	has_surface_form	Edwin
+22540_17	is_in_sentence	sentence_22540
+22540_17	conj	22540_14
+22540_17	has_surface_form	Mejia
+22540_18	is_in_sentence	sentence_22540
+22540_18	punct	22540_3
+22540_18	has_surface_form	.
+22540_19	is_in_sentence	sentence_22540
+22540_19	dep	22540_19
+22540_19	has_surface_form	
+The Vladar Company	surface_form	The Vladar Company
+The Vladar Company	org-leader	Vlad Yudin
+Vlad Yudin	surface_form	Vlad Yudin

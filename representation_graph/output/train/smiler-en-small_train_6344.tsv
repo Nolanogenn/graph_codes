@@ -1,0 +1,43 @@
+6343_0	is_in_sentence	sentence_6343
+6343_0	compound	6343_1
+6343_0	has_surface_form	Léon
+6343_0	part_of_entity	Léon Barsacq
+6343_1	is_in_sentence	sentence_6343
+6343_1	nsubj	6343_2
+6343_1	has_surface_form	Barsacq
+6343_1	part_of_entity	Léon Barsacq
+6343_2	is_in_sentence	sentence_6343
+6343_2	ROOT	6343_2
+6343_2	has_surface_form	was
+6343_3	is_in_sentence	sentence_6343
+6343_3	det	6343_4
+6343_3	has_surface_form	the
+6343_4	is_in_sentence	sentence_6343
+6343_4	attr	6343_2
+6343_4	has_surface_form	father
+6343_5	is_in_sentence	sentence_6343
+6343_5	prep	6343_4
+6343_5	has_surface_form	of
+6343_6	is_in_sentence	sentence_6343
+6343_6	compound	6343_7
+6343_6	has_surface_form	film
+6343_7	is_in_sentence	sentence_6343
+6343_7	compound	6343_9
+6343_7	has_surface_form	actor
+6343_9	is_in_sentence	sentence_6343
+6343_9	pobj	6343_5
+6343_9	has_surface_form	Barsacq
+6343_9	part_of_entity	Yves Barsacq
+6343_8	is_in_sentence	sentence_6343
+6343_8	compound	6343_9
+6343_8	has_surface_form	Yves
+6343_8	part_of_entity	Yves Barsacq
+6343_10	is_in_sentence	sentence_6343
+6343_10	punct	6343_2
+6343_10	has_surface_form	.
+6343_11	is_in_sentence	sentence_6343
+6343_11	dep	6343_2
+6343_11	has_surface_form	
+Léon Barsacq	surface_form	Léon Barsacq
+Léon Barsacq	has-child	Yves Barsacq
+Yves Barsacq	surface_form	Yves Barsacq

@@ -1,0 +1,42 @@
+23581_0	is_in_sentence	sentence_23581
+23581_0	nsubj	23581_1
+23581_0	is_entity	WLQV
+23581_1	is_in_sentence	sentence_23581
+23581_1	ROOT	23581_1
+23581_1	has_surface_form	is
+WLQV	surface_form	WLQV
+WLQV	is-where	Detroit, Michigan
+23581_2	is_in_sentence	sentence_23581
+23581_2	det	23581_4
+23581_2	has_surface_form	a
+23581_4	is_in_sentence	sentence_23581
+23581_4	attr	23581_1
+23581_4	has_surface_form	station
+23581_3	is_in_sentence	sentence_23581
+23581_3	compound	23581_4
+23581_3	has_surface_form	radio
+23581_5	is_in_sentence	sentence_23581
+23581_5	acl	23581_4
+23581_5	has_surface_form	serving
+23581_6	is_in_sentence	sentence_23581
+23581_6	det	23581_7
+23581_6	has_surface_form	the
+23581_7	is_in_sentence	sentence_23581
+23581_7	dobj	23581_5
+23581_7	has_surface_form	Detroit
+23581_8	is_in_sentence	sentence_23581
+23581_8	punct	23581_7
+23581_8	has_surface_form	,
+23581_9	is_in_sentence	sentence_23581
+23581_9	compound	23581_10
+23581_9	has_surface_form	Michigan
+23581_10	is_in_sentence	sentence_23581
+23581_10	appos	23581_7
+23581_10	has_surface_form	market
+23581_11	is_in_sentence	sentence_23581
+23581_11	punct	23581_1
+23581_11	has_surface_form	.
+23581_12	is_in_sentence	sentence_23581
+23581_12	dep	23581_12
+23581_12	has_surface_form	
+Detroit, Michigan	surface_form	Detroit, Michigan

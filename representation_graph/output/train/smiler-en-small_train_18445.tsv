@@ -1,0 +1,85 @@
+18444_0	is_in_sentence	sentence_18444
+18444_0	compound	18444_1
+18444_0	has_surface_form	Stephen
+18444_0	part_of_entity	Stephen Henry
+18444_1	is_in_sentence	sentence_18444
+18444_1	nsubj	18444_10
+18444_1	has_surface_form	Henry
+18444_1	part_of_entity	Stephen Henry
+18444_10	is_in_sentence	sentence_18444
+18444_10	ROOT	18444_10
+18444_10	has_surface_form	is
+18444_2	is_in_sentence	sentence_18444
+18444_2	punct	18444_1
+18444_2	has_surface_form	(
+18444_3	is_in_sentence	sentence_18444
+18444_3	acl	18444_1
+18444_3	has_surface_form	born
+18444_4	is_in_sentence	sentence_18444
+18444_4	nummod	18444_5
+18444_4	has_surface_form	27
+18444_5	is_in_sentence	sentence_18444
+18444_5	npadvmod	18444_3
+18444_5	has_surface_form	September
+18444_6	is_in_sentence	sentence_18444
+18444_6	nummod	18444_5
+18444_6	has_surface_form	1968
+18444_7	is_in_sentence	sentence_18444
+18444_7	prep	18444_3
+18444_7	has_surface_form	in
+18444_8	is_in_sentence	sentence_18444
+18444_8	pobj	18444_7
+18444_8	has_surface_form	London
+18444_9	is_in_sentence	sentence_18444
+18444_9	punct	18444_1
+18444_9	has_surface_form	)
+18444_11	is_in_sentence	sentence_18444
+18444_11	det	18444_16
+18444_11	has_surface_form	an
+18444_16	is_in_sentence	sentence_18444
+18444_16	attr	18444_10
+18444_16	has_surface_form	director
+18444_12	is_in_sentence	sentence_18444
+18444_12	npadvmod	18444_14
+18444_12	has_surface_form	award
+18444_14	is_in_sentence	sentence_18444
+18444_14	amod	18444_16
+18444_14	has_surface_form	winning
+18444_13	is_in_sentence	sentence_18444
+18444_13	punct	18444_14
+18444_13	has_surface_form	-
+18444_15	is_in_sentence	sentence_18444
+18444_15	compound	18444_16
+18444_15	has_surface_form	theatre
+18444_17	is_in_sentence	sentence_18444
+18444_17	punct	18444_16
+18444_17	has_surface_form	,
+18444_18	is_in_sentence	sentence_18444
+18444_18	compound	18444_19
+18444_18	has_surface_form	theatre
+18444_18	part_of_entity	theatre producer
+18444_19	is_in_sentence	sentence_18444
+18444_19	conj	18444_16
+18444_19	has_surface_form	producer
+18444_19	part_of_entity	theatre producer
+18444_20	is_in_sentence	sentence_18444
+18444_20	punct	18444_19
+18444_20	has_surface_form	,
+18444_21	is_in_sentence	sentence_18444
+18444_21	cc	18444_19
+18444_21	has_surface_form	and
+18444_22	is_in_sentence	sentence_18444
+18444_22	det	18444_23
+18444_22	has_surface_form	an
+18444_23	is_in_sentence	sentence_18444
+18444_23	conj	18444_19
+18444_23	has_surface_form	educator
+18444_24	is_in_sentence	sentence_18444
+18444_24	punct	18444_10
+18444_24	has_surface_form	.
+18444_25	is_in_sentence	sentence_18444
+18444_25	dep	18444_25
+18444_25	has_surface_form	
+Stephen Henry	surface_form	Stephen Henry
+Stephen Henry	has-occupation	theatre producer
+theatre producer	surface_form	theatre producer

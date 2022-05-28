@@ -1,0 +1,91 @@
+27301_0	is_in_sentence	sentence_27301
+27301_0	compound	27301_1
+27301_0	has_surface_form	Lord
+27301_0	part_of_entity	Lord Faulkner
+27301_1	is_in_sentence	sentence_27301
+27301_1	nsubj	27301_2
+27301_1	has_surface_form	Faulkner
+27301_1	part_of_entity	Lord Faulkner
+27301_2	is_in_sentence	sentence_27301
+27301_2	ROOT	27301_2
+27301_2	has_surface_form	is
+27301_3	is_in_sentence	sentence_27301
+27301_3	acomp	27301_2
+27301_3	has_surface_form	married
+27301_4	is_in_sentence	sentence_27301
+27301_4	prep	27301_3
+27301_4	has_surface_form	to
+27301_5	is_in_sentence	sentence_27301
+27301_5	pobj	27301_4
+27301_5	has_surface_form	Susan
+27301_6	is_in_sentence	sentence_27301
+27301_6	punct	27301_5
+27301_6	has_surface_form	(
+27301_7	is_in_sentence	sentence_27301
+27301_7	compound	27301_8
+27301_7	has_surface_form	née
+27301_8	is_in_sentence	sentence_27301
+27301_8	appos	27301_5
+27301_8	has_surface_form	Heyes
+27301_9	is_in_sentence	sentence_27301
+27301_9	punct	27301_5
+27301_9	has_surface_form	)
+27301_10	is_in_sentence	sentence_27301
+27301_10	punct	27301_5
+27301_10	has_surface_form	,
+27301_11	is_in_sentence	sentence_27301
+27301_11	prep	27301_14
+27301_11	has_surface_form	with
+27301_14	is_in_sentence	sentence_27301
+27301_14	relcl	27301_5
+27301_14	has_surface_form	has
+27301_12	is_in_sentence	sentence_27301
+27301_12	pobj	27301_11
+27301_12	has_surface_form	whom
+27301_13	is_in_sentence	sentence_27301
+27301_13	nsubj	27301_14
+27301_13	has_surface_form	he
+27301_15	is_in_sentence	sentence_27301
+27301_15	nummod	27301_16
+27301_15	has_surface_form	two
+27301_16	is_in_sentence	sentence_27301
+27301_16	dobj	27301_14
+27301_16	has_surface_form	daughters
+27301_17	is_in_sentence	sentence_27301
+27301_17	punct	27301_2
+27301_17	has_surface_form	.
+27301_18	is_in_sentence	sentence_27301
+27301_18	poss	27301_19
+27301_18	has_surface_form	His
+27301_19	is_in_sentence	sentence_27301
+27301_19	nsubj	27301_20
+27301_19	has_surface_form	brother
+27301_20	is_in_sentence	sentence_27301
+27301_20	ROOT	27301_20
+27301_20	has_surface_form	is
+27301_21	is_in_sentence	sentence_27301
+27301_21	det	27301_23
+27301_21	has_surface_form	the
+27301_23	is_in_sentence	sentence_27301
+27301_23	attr	27301_20
+27301_23	has_surface_form	servant
+27301_22	is_in_sentence	sentence_27301
+27301_22	amod	27301_23
+27301_22	has_surface_form	civil
+27301_24	is_in_sentence	sentence_27301
+27301_24	compound	27301_25
+27301_24	has_surface_form	David
+27301_24	part_of_entity	David Faulkner
+27301_25	is_in_sentence	sentence_27301
+27301_25	appos	27301_23
+27301_25	has_surface_form	Faulkner
+27301_25	part_of_entity	David Faulkner
+27301_26	is_in_sentence	sentence_27301
+27301_26	punct	27301_20
+27301_26	has_surface_form	.
+27301_27	is_in_sentence	sentence_27301
+27301_27	dep	27301_20
+27301_27	has_surface_form	
+Lord Faulkner	surface_form	Lord Faulkner
+Lord Faulkner	has-sibling	David Faulkner
+David Faulkner	surface_form	David Faulkner

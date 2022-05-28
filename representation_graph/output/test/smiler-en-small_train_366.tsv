@@ -1,0 +1,44 @@
+365_0	is_in_sentence	sentence_365
+365_0	compound	365_1
+365_0	has_surface_form	North
+365_0	part_of_entity	North Gardner Mountain
+365_1	is_in_sentence	sentence_365
+365_1	compound	365_2
+365_1	has_surface_form	Gardner
+365_1	part_of_entity	North Gardner Mountain
+365_2	is_in_sentence	sentence_365
+365_2	ROOT	365_2
+365_2	has_surface_form	Mountain
+365_2	part_of_entity	North Gardner Mountain
+365_3	is_in_sentence	sentence_365
+365_3	punct	365_2
+365_3	has_surface_form	,
+365_4	is_in_sentence	sentence_365
+365_4	det	365_6
+365_4	has_surface_form	the
+365_6	is_in_sentence	sentence_365
+365_6	appos	365_2
+365_6	has_surface_form	point
+365_5	is_in_sentence	sentence_365
+365_5	amod	365_6
+365_5	has_surface_form	highest
+365_7	is_in_sentence	sentence_365
+365_7	prep	365_6
+365_7	has_surface_form	in
+365_8	is_in_sentence	sentence_365
+365_8	compound	365_9
+365_8	has_surface_form	Okanogan
+365_8	part_of_entity	Okanogan County
+365_9	is_in_sentence	sentence_365
+365_9	pobj	365_7
+365_9	has_surface_form	County
+365_9	part_of_entity	Okanogan County
+365_10	is_in_sentence	sentence_365
+365_10	punct	365_2
+365_10	has_surface_form	.
+365_11	is_in_sentence	sentence_365
+365_11	dep	365_11
+365_11	has_surface_form	
+Okanogan County	surface_form	Okanogan County
+Okanogan County	has-highest-mountain	North Gardner Mountain
+North Gardner Mountain	surface_form	North Gardner Mountain

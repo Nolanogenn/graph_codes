@@ -1,0 +1,55 @@
+591_0	is_in_sentence	sentence_591
+591_0	compound	591_1
+591_0	has_surface_form	Tutta
+591_0	part_of_entity	Tutta Rolf
+591_1	is_in_sentence	sentence_591
+591_1	nsubj	591_2
+591_1	has_surface_form	Rolf
+591_1	part_of_entity	Tutta Rolf
+591_2	is_in_sentence	sentence_591
+591_2	ROOT	591_2
+591_2	has_surface_form	was
+591_3	is_in_sentence	sentence_591
+591_3	det	591_4
+591_3	has_surface_form	the
+591_4	is_in_sentence	sentence_591
+591_4	attr	591_2
+591_4	has_surface_form	mother
+591_5	is_in_sentence	sentence_591
+591_5	prep	591_4
+591_5	has_surface_form	of
+591_6	is_in_sentence	sentence_591
+591_6	compound	591_11
+591_6	has_surface_form	Academy
+591_11	is_in_sentence	sentence_591
+591_11	pobj	591_5
+591_11	has_surface_form	editor
+591_7	is_in_sentence	sentence_591
+591_7	npadvmod	591_9
+591_7	has_surface_form	Award
+591_9	is_in_sentence	sentence_591
+591_9	amod	591_11
+591_9	has_surface_form	winning
+591_8	is_in_sentence	sentence_591
+591_8	punct	591_9
+591_8	has_surface_form	-
+591_10	is_in_sentence	sentence_591
+591_10	compound	591_11
+591_10	has_surface_form	film
+591_12	is_in_sentence	sentence_591
+591_12	compound	591_13
+591_12	has_surface_form	Tom
+591_12	part_of_entity	Tom Rolf
+591_13	is_in_sentence	sentence_591
+591_13	appos	591_11
+591_13	has_surface_form	Rolf
+591_13	part_of_entity	Tom Rolf
+591_14	is_in_sentence	sentence_591
+591_14	punct	591_2
+591_14	has_surface_form	.
+591_15	is_in_sentence	sentence_591
+591_15	dep	591_15
+591_15	has_surface_form	
+Tutta Rolf	surface_form	Tutta Rolf
+Tutta Rolf	has-child	Tom Rolf
+Tom Rolf	surface_form	Tom Rolf

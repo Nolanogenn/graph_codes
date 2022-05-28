@@ -1,0 +1,68 @@
+8925_0	is_in_sentence	sentence_8925
+8925_0	compound	8925_1
+8925_0	has_surface_form	Drew
+8925_0	part_of_entity	Drew Gibbs
+8925_1	is_in_sentence	sentence_8925
+8925_1	nsubj	8925_2
+8925_1	has_surface_form	Gibbs
+8925_1	part_of_entity	Drew Gibbs
+8925_2	is_in_sentence	sentence_8925
+8925_2	ROOT	8925_2
+8925_2	has_surface_form	is
+8925_3	is_in_sentence	sentence_8925
+8925_3	det	8925_7
+8925_3	has_surface_form	a
+8925_7	is_in_sentence	sentence_8925
+8925_7	attr	8925_2
+8925_7	has_surface_form	coach
+8925_7	part_of_entity	head football coach
+8925_4	is_in_sentence	sentence_8925
+8925_4	amod	8925_7
+8925_4	has_surface_form	former
+8925_5	is_in_sentence	sentence_8925
+8925_5	compound	8925_6
+8925_5	has_surface_form	head
+8925_5	part_of_entity	head football coach
+8925_6	is_in_sentence	sentence_8925
+8925_6	compound	8925_7
+8925_6	has_surface_form	football
+8925_6	part_of_entity	head football coach
+8925_8	is_in_sentence	sentence_8925
+8925_8	prep	8925_7
+8925_8	has_surface_form	for
+8925_9	is_in_sentence	sentence_8925
+8925_9	det	8925_12
+8925_9	has_surface_form	the
+8925_12	is_in_sentence	sentence_8925
+8925_12	pobj	8925_8
+8925_12	has_surface_form	Cougars
+8925_10	is_in_sentence	sentence_8925
+8925_10	compound	8925_11
+8925_10	has_surface_form	Kean
+8925_11	is_in_sentence	sentence_8925
+8925_11	compound	8925_12
+8925_11	has_surface_form	University
+8925_13	is_in_sentence	sentence_8925
+8925_13	prep	8925_12
+8925_13	has_surface_form	in
+8925_14	is_in_sentence	sentence_8925
+8925_14	pobj	8925_13
+8925_14	has_surface_form	Union
+8925_15	is_in_sentence	sentence_8925
+8925_15	punct	8925_14
+8925_15	has_surface_form	,
+8925_16	is_in_sentence	sentence_8925
+8925_16	compound	8925_17
+8925_16	has_surface_form	New
+8925_17	is_in_sentence	sentence_8925
+8925_17	appos	8925_14
+8925_17	has_surface_form	Jersey
+8925_18	is_in_sentence	sentence_8925
+8925_18	punct	8925_2
+8925_18	has_surface_form	.
+8925_19	is_in_sentence	sentence_8925
+8925_19	dep	8925_2
+8925_19	has_surface_form	
+Drew Gibbs	surface_form	Drew Gibbs
+Drew Gibbs	has-type	head football coach
+head football coach	surface_form	head football coach

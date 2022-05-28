@@ -1,0 +1,70 @@
+13652_0	is_in_sentence	sentence_13652
+13652_0	compound	13652_1
+13652_0	has_surface_form	Agent
+13652_0	part_of_entity	Agent Red
+13652_1	is_in_sentence	sentence_13652
+13652_1	nsubj	13652_2
+13652_1	has_surface_form	Red
+13652_1	part_of_entity	Agent Red
+13652_2	is_in_sentence	sentence_13652
+13652_2	ROOT	13652_2
+13652_2	has_surface_form	is
+13652_3	is_in_sentence	sentence_13652
+13652_3	det	13652_7
+13652_3	has_surface_form	a
+13652_7	is_in_sentence	sentence_13652
+13652_7	attr	13652_2
+13652_7	has_surface_form	film
+13652_4	is_in_sentence	sentence_13652
+13652_4	nummod	13652_7
+13652_4	has_surface_form	2000
+13652_5	is_in_sentence	sentence_13652
+13652_5	amod	13652_7
+13652_5	has_surface_form	American
+13652_6	is_in_sentence	sentence_13652
+13652_6	compound	13652_7
+13652_6	has_surface_form	action
+13652_8	is_in_sentence	sentence_13652
+13652_8	acl	13652_7
+13652_8	has_surface_form	directed
+13652_9	is_in_sentence	sentence_13652
+13652_9	agent	13652_8
+13652_9	has_surface_form	by
+13652_10	is_in_sentence	sentence_13652
+13652_10	compound	13652_11
+13652_10	has_surface_form	Damian
+13652_10	part_of_entity	Damian Lee
+13652_11	is_in_sentence	sentence_13652
+13652_11	pobj	13652_9
+13652_11	has_surface_form	Lee
+13652_11	part_of_entity	Damian Lee
+13652_12	is_in_sentence	sentence_13652
+13652_12	cc	13652_11
+13652_12	has_surface_form	and
+13652_13	is_in_sentence	sentence_13652
+13652_13	compound	13652_14
+13652_13	has_surface_form	Jim
+13652_14	is_in_sentence	sentence_13652
+13652_14	conj	13652_11
+13652_14	has_surface_form	Wynorski
+13652_15	is_in_sentence	sentence_13652
+13652_15	cc	13652_8
+13652_15	has_surface_form	and
+13652_16	is_in_sentence	sentence_13652
+13652_16	conj	13652_8
+13652_16	has_surface_form	starring
+13652_17	is_in_sentence	sentence_13652
+13652_17	compound	13652_18
+13652_17	has_surface_form	Dolph
+13652_18	is_in_sentence	sentence_13652
+13652_18	dobj	13652_16
+13652_18	has_surface_form	Lundgren
+13652_19	is_in_sentence	sentence_13652
+13652_19	punct	13652_2
+13652_19	has_surface_form	.
+13652_20	is_in_sentence	sentence_13652
+13652_20	dep	13652_20
+13652_20	has_surface_form	
+Agent Red	surface_form	Agent Red
+Agent Red	movie-has-director	Damian Lee
+Damian Lee	surface_form	Damian Lee

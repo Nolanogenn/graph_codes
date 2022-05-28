@@ -1,0 +1,81 @@
+10698_0	is_in_sentence	sentence_10698
+10698_0	compound	10698_1
+10698_0	has_surface_form	Renny
+10698_0	part_of_entity	Renny Lister
+10698_1	is_in_sentence	sentence_10698
+10698_1	nsubj	10698_2
+10698_1	has_surface_form	Lister
+10698_1	part_of_entity	Renny Lister
+10698_2	is_in_sentence	sentence_10698
+10698_2	ROOT	10698_2
+10698_2	has_surface_form	is
+10698_3	is_in_sentence	sentence_10698
+10698_3	det	10698_9
+10698_3	has_surface_form	a
+10698_9	is_in_sentence	sentence_10698
+10698_9	attr	10698_2
+10698_9	has_surface_form	actress
+10698_4	is_in_sentence	sentence_10698
+10698_4	amod	10698_9
+10698_4	has_surface_form	retired
+10698_5	is_in_sentence	sentence_10698
+10698_5	amod	10698_9
+10698_5	has_surface_form	British
+10698_6	is_in_sentence	sentence_10698
+10698_6	nmod	10698_9
+10698_6	has_surface_form	film
+10698_7	is_in_sentence	sentence_10698
+10698_7	cc	10698_6
+10698_7	has_surface_form	and
+10698_8	is_in_sentence	sentence_10698
+10698_8	conj	10698_6
+10698_8	has_surface_form	television
+10698_10	is_in_sentence	sentence_10698
+10698_10	punct	10698_2
+10698_10	has_surface_form	.
+10698_11	is_in_sentence	sentence_10698
+10698_11	compound	10698_12
+10698_11	has_surface_form	Renny
+10698_11	part_of_entity	Renny Lister
+10698_12	is_in_sentence	sentence_10698
+10698_12	nsubj	10698_13
+10698_12	has_surface_form	Lister
+10698_12	part_of_entity	Renny Lister
+10698_13	is_in_sentence	sentence_10698
+10698_13	ROOT	10698_13
+10698_13	has_surface_form	is
+10698_14	is_in_sentence	sentence_10698
+10698_14	acomp	10698_13
+10698_14	has_surface_form	married
+10698_15	is_in_sentence	sentence_10698
+10698_15	aux	10698_16
+10698_15	has_surface_form	to
+10698_16	is_in_sentence	sentence_10698
+10698_16	xcomp	10698_14
+10698_16	has_surface_form	film
+10698_17	is_in_sentence	sentence_10698
+10698_17	cc	10698_16
+10698_17	has_surface_form	and
+10698_18	is_in_sentence	sentence_10698
+10698_18	compound	10698_19
+10698_18	has_surface_form	television
+10698_19	is_in_sentence	sentence_10698
+10698_19	compound	10698_21
+10698_19	has_surface_form	actor
+10698_21	is_in_sentence	sentence_10698
+10698_21	attr	10698_13
+10698_21	has_surface_form	Cope
+10698_21	part_of_entity	Kenneth Cope
+10698_20	is_in_sentence	sentence_10698
+10698_20	compound	10698_21
+10698_20	has_surface_form	Kenneth
+10698_20	part_of_entity	Kenneth Cope
+10698_22	is_in_sentence	sentence_10698
+10698_22	punct	10698_13
+10698_22	has_surface_form	.
+10698_23	is_in_sentence	sentence_10698
+10698_23	dep	10698_13
+10698_23	has_surface_form	
+Renny Lister	surface_form	Renny Lister
+Renny Lister	has-spouse	Kenneth Cope
+Kenneth Cope	surface_form	Kenneth Cope

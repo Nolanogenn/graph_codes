@@ -1,0 +1,56 @@
+11255_0	is_in_sentence	sentence_11255
+11255_0	compound	11255_1
+11255_0	has_surface_form	Julie
+11255_0	part_of_entity	Julie Gold
+11255_1	is_in_sentence	sentence_11255
+11255_1	nsubj	11255_9
+11255_1	has_surface_form	Gold
+11255_1	part_of_entity	Julie Gold
+11255_9	is_in_sentence	sentence_11255
+11255_9	ROOT	11255_9
+11255_9	has_surface_form	is
+11255_2	is_in_sentence	sentence_11255
+11255_2	punct	11255_1
+11255_2	has_surface_form	(
+11255_3	is_in_sentence	sentence_11255
+11255_3	acl	11255_1
+11255_3	has_surface_form	born
+11255_4	is_in_sentence	sentence_11255
+11255_4	npadvmod	11255_3
+11255_4	has_surface_form	February
+11255_5	is_in_sentence	sentence_11255
+11255_5	nummod	11255_4
+11255_5	has_surface_form	3
+11255_6	is_in_sentence	sentence_11255
+11255_6	punct	11255_4
+11255_6	has_surface_form	,
+11255_7	is_in_sentence	sentence_11255
+11255_7	nummod	11255_4
+11255_7	has_surface_form	1956
+11255_8	is_in_sentence	sentence_11255
+11255_8	punct	11255_1
+11255_8	has_surface_form	)
+11255_10	is_in_sentence	sentence_11255
+11255_10	det	11255_14
+11255_10	has_surface_form	an
+11255_14	is_in_sentence	sentence_11255
+11255_14	attr	11255_9
+11255_14	is_entity	songwriter
+11255_11	is_in_sentence	sentence_11255
+11255_11	amod	11255_14
+11255_11	has_surface_form	American
+11255_12	is_in_sentence	sentence_11255
+11255_12	compound	11255_14
+11255_12	has_surface_form	singer
+11255_13	is_in_sentence	sentence_11255
+11255_13	punct	11255_14
+11255_13	has_surface_form	-
+songwriter	surface_form	songwriter
+11255_15	is_in_sentence	sentence_11255
+11255_15	punct	11255_9
+11255_15	has_surface_form	.
+11255_16	is_in_sentence	sentence_11255
+11255_16	dep	11255_9
+11255_16	has_surface_form	
+Julie Gold	surface_form	Julie Gold
+Julie Gold	has-occupation	songwriter

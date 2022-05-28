@@ -1,0 +1,59 @@
+16969_0	is_in_sentence	sentence_16969
+16969_0	compound	16969_1
+16969_0	has_surface_form	Aki
+16969_0	part_of_entity	Aki Thomas
+16969_1	is_in_sentence	sentence_16969
+16969_1	nsubj	16969_9
+16969_1	has_surface_form	Thomas
+16969_1	part_of_entity	Aki Thomas
+16969_9	is_in_sentence	sentence_16969
+16969_9	ROOT	16969_9
+16969_9	has_surface_form	is
+16969_2	is_in_sentence	sentence_16969
+16969_2	punct	16969_1
+16969_2	has_surface_form	(
+16969_3	is_in_sentence	sentence_16969
+16969_3	acl	16969_1
+16969_3	has_surface_form	born
+16969_4	is_in_sentence	sentence_16969
+16969_4	npadvmod	16969_3
+16969_4	has_surface_form	May
+16969_5	is_in_sentence	sentence_16969
+16969_5	nummod	16969_4
+16969_5	has_surface_form	14
+16969_6	is_in_sentence	sentence_16969
+16969_6	punct	16969_4
+16969_6	has_surface_form	,
+16969_7	is_in_sentence	sentence_16969
+16969_7	nummod	16969_4
+16969_7	has_surface_form	1979
+16969_8	is_in_sentence	sentence_16969
+16969_8	punct	16969_1
+16969_8	has_surface_form	)
+16969_10	is_in_sentence	sentence_16969
+16969_10	det	16969_14
+16969_10	has_surface_form	an
+16969_14	is_in_sentence	sentence_16969
+16969_14	attr	16969_9
+16969_14	has_surface_form	coach
+16969_14	part_of_entity	college basketball coach
+16969_11	is_in_sentence	sentence_16969
+16969_11	amod	16969_14
+16969_11	has_surface_form	American
+16969_12	is_in_sentence	sentence_16969
+16969_12	compound	16969_13
+16969_12	has_surface_form	college
+16969_12	part_of_entity	college basketball coach
+16969_13	is_in_sentence	sentence_16969
+16969_13	compound	16969_14
+16969_13	has_surface_form	basketball
+16969_13	part_of_entity	college basketball coach
+16969_15	is_in_sentence	sentence_16969
+16969_15	punct	16969_9
+16969_15	has_surface_form	.
+16969_16	is_in_sentence	sentence_16969
+16969_16	dep	16969_16
+16969_16	has_surface_form	
+Aki Thomas	surface_form	Aki Thomas
+Aki Thomas	has-type	college basketball coach
+college basketball coach	surface_form	college basketball coach

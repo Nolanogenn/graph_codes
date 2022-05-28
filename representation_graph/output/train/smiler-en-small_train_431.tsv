@@ -1,0 +1,109 @@
+430_0	is_in_sentence	sentence_430
+430_0	nsubj	430_1
+430_0	has_surface_form	I
+430_0	part_of_entity	I Am the Guilty One
+430_1	is_in_sentence	sentence_430
+430_1	ROOT	430_1
+430_1	has_surface_form	Am
+430_1	part_of_entity	I Am the Guilty One
+430_2	is_in_sentence	sentence_430
+430_2	det	430_4
+430_2	has_surface_form	the
+430_2	part_of_entity	I Am the Guilty One
+430_4	is_in_sentence	sentence_430
+430_4	attr	430_1
+430_4	has_surface_form	One
+430_4	part_of_entity	I Am the Guilty One
+430_3	is_in_sentence	sentence_430
+430_3	compound	430_4
+430_3	has_surface_form	Guilty
+430_3	part_of_entity	I Am the Guilty One
+430_5	is_in_sentence	sentence_430
+430_5	punct	430_6
+430_5	has_surface_form	(
+430_6	is_in_sentence	sentence_430
+430_6	appos	430_4
+430_6	has_surface_form	Turkish
+430_7	is_in_sentence	sentence_430
+430_7	punct	430_6
+430_7	has_surface_form	:
+430_8	is_in_sentence	sentence_430
+430_8	compound	430_9
+430_8	has_surface_form	Suçlu
+430_9	is_in_sentence	sentence_430
+430_9	appos	430_6
+430_9	has_surface_form	benim
+430_10	is_in_sentence	sentence_430
+430_10	punct	430_6
+430_10	has_surface_form	)
+430_11	is_in_sentence	sentence_430
+430_11	conj	430_1
+430_11	has_surface_form	is
+430_12	is_in_sentence	sentence_430
+430_12	det	430_16
+430_12	has_surface_form	a
+430_16	is_in_sentence	sentence_430
+430_16	attr	430_11
+430_16	has_surface_form	film
+430_13	is_in_sentence	sentence_430
+430_13	nummod	430_16
+430_13	has_surface_form	1953
+430_14	is_in_sentence	sentence_430
+430_14	amod	430_16
+430_14	has_surface_form	Turkish
+430_15	is_in_sentence	sentence_430
+430_15	compound	430_16
+430_15	has_surface_form	drama
+430_17	is_in_sentence	sentence_430
+430_17	acl	430_16
+430_17	has_surface_form	directed
+430_18	is_in_sentence	sentence_430
+430_18	agent	430_17
+430_18	has_surface_form	by
+430_19	is_in_sentence	sentence_430
+430_19	compound	430_20
+430_19	has_surface_form	Semih
+430_19	part_of_entity	Semih Evin
+430_20	is_in_sentence	sentence_430
+430_20	pobj	430_18
+430_20	has_surface_form	Evin
+430_20	part_of_entity	Semih Evin
+430_21	is_in_sentence	sentence_430
+430_21	cc	430_17
+430_21	has_surface_form	and
+430_22	is_in_sentence	sentence_430
+430_22	conj	430_17
+430_22	has_surface_form	starring
+430_23	is_in_sentence	sentence_430
+430_23	compound	430_24
+430_23	has_surface_form	Zeynep
+430_24	is_in_sentence	sentence_430
+430_24	dobj	430_22
+430_24	has_surface_form	Sirmali
+430_25	is_in_sentence	sentence_430
+430_25	punct	430_24
+430_25	has_surface_form	,
+430_26	is_in_sentence	sentence_430
+430_26	compound	430_27
+430_26	has_surface_form	Sadri
+430_27	is_in_sentence	sentence_430
+430_27	conj	430_24
+430_27	has_surface_form	Alisik
+430_28	is_in_sentence	sentence_430
+430_28	cc	430_27
+430_28	has_surface_form	and
+430_29	is_in_sentence	sentence_430
+430_29	compound	430_30
+430_29	has_surface_form	Kemal
+430_30	is_in_sentence	sentence_430
+430_30	conj	430_27
+430_30	has_surface_form	Edige
+430_31	is_in_sentence	sentence_430
+430_31	punct	430_11
+430_31	has_surface_form	.
+430_32	is_in_sentence	sentence_430
+430_32	dep	430_32
+430_32	has_surface_form	
+I Am the Guilty One	surface_form	I Am the Guilty One
+I Am the Guilty One	movie-has-director	Semih Evin
+Semih Evin	surface_form	Semih Evin

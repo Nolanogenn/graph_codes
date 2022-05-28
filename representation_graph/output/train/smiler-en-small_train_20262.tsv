@@ -1,0 +1,56 @@
+20261_0	is_in_sentence	sentence_20261
+20261_0	compound	20261_1
+20261_0	has_surface_form	Abel
+20261_0	part_of_entity	Abel Guier
+20261_1	is_in_sentence	sentence_20261
+20261_1	nsubj	20261_2
+20261_1	has_surface_form	Guier
+20261_1	part_of_entity	Abel Guier
+20261_2	is_in_sentence	sentence_20261
+20261_2	ROOT	20261_2
+20261_2	has_surface_form	is
+20261_3	is_in_sentence	sentence_20261
+20261_3	det	20261_5
+20261_3	has_surface_form	the
+20261_5	is_in_sentence	sentence_20261
+20261_5	attr	20261_2
+20261_5	has_surface_form	guitarist
+20261_4	is_in_sentence	sentence_20261
+20261_4	compound	20261_5
+20261_4	has_surface_form	bass
+20261_6	is_in_sentence	sentence_20261
+20261_6	prep	20261_5
+20261_6	has_surface_form	for
+20261_7	is_in_sentence	sentence_20261
+20261_7	det	20261_11
+20261_7	has_surface_form	the
+20261_11	is_in_sentence	sentence_20261
+20261_11	pobj	20261_6
+20261_11	has_surface_form	group
+20261_8	is_in_sentence	sentence_20261
+20261_8	amod	20261_9
+20261_8	has_surface_form	Costa
+20261_9	is_in_sentence	sentence_20261
+20261_9	amod	20261_11
+20261_9	has_surface_form	Rican
+20261_10	is_in_sentence	sentence_20261
+20261_10	compound	20261_11
+20261_10	has_surface_form	music
+20261_12	is_in_sentence	sentence_20261
+20261_12	appos	20261_11
+20261_12	is_entity	Gandhi
+Gandhi	surface_form	Gandhi
+20261_13	is_in_sentence	sentence_20261
+20261_13	cc	20261_12
+20261_13	has_surface_form	and
+20261_14	is_in_sentence	sentence_20261
+20261_14	conj	20261_12
+20261_14	has_surface_form	Mimayato
+20261_15	is_in_sentence	sentence_20261
+20261_15	punct	20261_2
+20261_15	has_surface_form	.
+20261_16	is_in_sentence	sentence_20261
+20261_16	dep	20261_16
+20261_16	has_surface_form	
+Abel Guier	surface_form	Abel Guier
+Abel Guier	is-member-of	Gandhi

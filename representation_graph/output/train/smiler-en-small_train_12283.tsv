@@ -1,0 +1,46 @@
+12282_0	is_in_sentence	sentence_12282
+12282_0	compound	12282_1
+12282_0	has_surface_form	Banjo
+12282_0	part_of_entity	Banjo Band
+12282_1	is_in_sentence	sentence_12282
+12282_1	nsubj	12282_2
+12282_1	has_surface_form	Band
+12282_1	part_of_entity	Banjo Band
+12282_2	is_in_sentence	sentence_12282
+12282_2	ROOT	12282_2
+12282_2	has_surface_form	is
+12282_3	is_in_sentence	sentence_12282
+12282_3	det	12282_6
+12282_3	has_surface_form	a
+12282_6	is_in_sentence	sentence_12282
+12282_6	attr	12282_2
+12282_6	has_surface_form	band
+12282_4	is_in_sentence	sentence_12282
+12282_4	amod	12282_6
+12282_4	has_surface_form	Czech
+12282_5	is_in_sentence	sentence_12282
+12282_5	compound	12282_6
+12282_5	has_surface_form	jug
+12282_7	is_in_sentence	sentence_12282
+12282_7	acl	12282_6
+12282_7	has_surface_form	led
+12282_8	is_in_sentence	sentence_12282
+12282_8	agent	12282_7
+12282_8	has_surface_form	by
+12282_9	is_in_sentence	sentence_12282
+12282_9	compound	12282_10
+12282_9	has_surface_form	Ivan
+12282_9	part_of_entity	Ivan Mládek
+12282_10	is_in_sentence	sentence_12282
+12282_10	pobj	12282_8
+12282_10	has_surface_form	Mládek
+12282_10	part_of_entity	Ivan Mládek
+12282_11	is_in_sentence	sentence_12282
+12282_11	punct	12282_2
+12282_11	has_surface_form	.
+12282_12	is_in_sentence	sentence_12282
+12282_12	dep	12282_12
+12282_12	has_surface_form	
+Banjo Band	surface_form	Banjo Band
+Banjo Band	org-has-member	Ivan Mládek
+Ivan Mládek	surface_form	Ivan Mládek

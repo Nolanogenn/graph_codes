@@ -1,0 +1,68 @@
+2382_0	is_in_sentence	sentence_2382
+2382_0	det	2382_2
+2382_0	has_surface_form	The
+2382_0	part_of_entity	The Sky Parade
+2382_2	is_in_sentence	sentence_2382
+2382_2	nsubj	2382_3
+2382_2	has_surface_form	Parade
+2382_2	part_of_entity	The Sky Parade
+2382_1	is_in_sentence	sentence_2382
+2382_1	compound	2382_2
+2382_1	has_surface_form	Sky
+2382_1	part_of_entity	The Sky Parade
+2382_3	is_in_sentence	sentence_2382
+2382_3	ROOT	2382_3
+2382_3	has_surface_form	is
+2382_4	is_in_sentence	sentence_2382
+2382_4	det	2382_9
+2382_4	has_surface_form	a
+2382_9	is_in_sentence	sentence_2382
+2382_9	attr	2382_3
+2382_9	has_surface_form	film
+2382_5	is_in_sentence	sentence_2382
+2382_5	nummod	2382_9
+2382_5	has_surface_form	1936
+2382_6	is_in_sentence	sentence_2382
+2382_6	amod	2382_9
+2382_6	has_surface_form	American
+2382_7	is_in_sentence	sentence_2382
+2382_7	compound	2382_8
+2382_7	has_surface_form	aviation
+2382_8	is_in_sentence	sentence_2382
+2382_8	compound	2382_9
+2382_8	has_surface_form	drama
+2382_10	is_in_sentence	sentence_2382
+2382_10	acl	2382_9
+2382_10	has_surface_form	directed
+2382_11	is_in_sentence	sentence_2382
+2382_11	agent	2382_10
+2382_11	has_surface_form	by
+2382_12	is_in_sentence	sentence_2382
+2382_12	compound	2382_13
+2382_12	has_surface_form	Otho
+2382_12	part_of_entity	Otho Lovering
+2382_13	is_in_sentence	sentence_2382
+2382_13	pobj	2382_11
+2382_13	has_surface_form	Lovering
+2382_13	part_of_entity	Otho Lovering
+2382_14	is_in_sentence	sentence_2382
+2382_14	cc	2382_10
+2382_14	has_surface_form	and
+2382_15	is_in_sentence	sentence_2382
+2382_15	conj	2382_10
+2382_15	has_surface_form	written
+2382_16	is_in_sentence	sentence_2382
+2382_16	agent	2382_15
+2382_16	has_surface_form	by
+2382_17	is_in_sentence	sentence_2382
+2382_17	compound	2382_18
+2382_17	has_surface_form	Arthur
+2382_18	is_in_sentence	sentence_2382
+2382_18	pobj	2382_16
+2382_18	has_surface_form	J.
+2382_19	is_in_sentence	sentence_2382
+2382_19	dep	2382_16
+2382_19	has_surface_form	
+The Sky Parade	surface_form	The Sky Parade
+The Sky Parade	movie-has-director	Otho Lovering
+Otho Lovering	surface_form	Otho Lovering

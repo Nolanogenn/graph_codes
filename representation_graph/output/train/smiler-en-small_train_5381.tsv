@@ -1,0 +1,91 @@
+5380_0	is_in_sentence	sentence_5380
+5380_0	compound	5380_1
+5380_0	has_surface_form	Aaron
+5380_0	part_of_entity	Aaron Sterling
+5380_1	is_in_sentence	sentence_5380
+5380_1	nsubj	5380_9
+5380_1	has_surface_form	Sterling
+5380_1	part_of_entity	Aaron Sterling
+5380_9	is_in_sentence	sentence_5380
+5380_9	ROOT	5380_9
+5380_9	has_surface_form	is
+5380_2	is_in_sentence	sentence_5380
+5380_2	punct	5380_1
+5380_2	has_surface_form	(
+5380_3	is_in_sentence	sentence_5380
+5380_3	acl	5380_1
+5380_3	has_surface_form	born
+5380_4	is_in_sentence	sentence_5380
+5380_4	npadvmod	5380_3
+5380_4	has_surface_form	July
+5380_5	is_in_sentence	sentence_5380
+5380_5	nummod	5380_4
+5380_5	has_surface_form	9
+5380_6	is_in_sentence	sentence_5380
+5380_6	punct	5380_4
+5380_6	has_surface_form	,
+5380_7	is_in_sentence	sentence_5380
+5380_7	nummod	5380_4
+5380_7	has_surface_form	1980
+5380_8	is_in_sentence	sentence_5380
+5380_8	punct	5380_1
+5380_8	has_surface_form	)
+5380_10	is_in_sentence	sentence_5380
+5380_10	det	5380_12
+5380_10	has_surface_form	an
+5380_12	is_in_sentence	sentence_5380
+5380_12	attr	5380_9
+5380_12	has_surface_form	drummer
+5380_11	is_in_sentence	sentence_5380
+5380_11	amod	5380_12
+5380_11	has_surface_form	American
+5380_13	is_in_sentence	sentence_5380
+5380_13	punct	5380_12
+5380_13	has_surface_form	,
+5380_14	is_in_sentence	sentence_5380
+5380_14	conj	5380_12
+5380_14	has_surface_form	producer
+5380_15	is_in_sentence	sentence_5380
+5380_15	punct	5380_14
+5380_15	has_surface_form	,
+5380_16	is_in_sentence	sentence_5380
+5380_16	conj	5380_14
+5380_16	has_surface_form	engineer
+5380_17	is_in_sentence	sentence_5380
+5380_17	punct	5380_16
+5380_17	has_surface_form	,
+5380_18	is_in_sentence	sentence_5380
+5380_18	cc	5380_16
+5380_18	has_surface_form	and
+5380_19	is_in_sentence	sentence_5380
+5380_19	compound	5380_20
+5380_19	has_surface_form	session
+5380_19	part_of_entity	session musician
+5380_20	is_in_sentence	sentence_5380
+5380_20	conj	5380_16
+5380_20	has_surface_form	musician
+5380_20	part_of_entity	session musician
+5380_21	is_in_sentence	sentence_5380
+5380_21	nsubj	5380_22
+5380_21	has_surface_form	who
+5380_22	is_in_sentence	sentence_5380
+5380_22	relcl	5380_12
+5380_22	has_surface_form	lives
+5380_23	is_in_sentence	sentence_5380
+5380_23	prep	5380_22
+5380_23	has_surface_form	in
+5380_24	is_in_sentence	sentence_5380
+5380_24	compound	5380_25
+5380_24	has_surface_form	Los
+5380_25	is_in_sentence	sentence_5380
+5380_25	pobj	5380_23
+5380_25	has_surface_form	Angeles
+5380_26	is_in_sentence	sentence_5380
+5380_26	punct	5380_9
+5380_26	has_surface_form	.
+5380_27	is_in_sentence	sentence_5380
+5380_27	dep	5380_9
+5380_27	has_surface_form	
+Aaron Sterling	surface_form	Aaron Sterling
+Aaron Sterling	has-occupation	session musician
+session musician	surface_form	session musician

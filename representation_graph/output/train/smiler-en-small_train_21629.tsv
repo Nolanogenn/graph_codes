@@ -1,0 +1,98 @@
+21628_0	is_in_sentence	sentence_21628
+21628_0	compound	21628_1
+21628_0	has_surface_form	Pennsylvania
+21628_0	part_of_entity	Pennsylvania Route 655
+21628_1	is_in_sentence	sentence_21628
+21628_1	nsubj	21628_7
+21628_1	has_surface_form	Route
+21628_1	part_of_entity	Pennsylvania Route 655
+21628_7	is_in_sentence	sentence_21628
+21628_7	ROOT	21628_7
+21628_7	has_surface_form	is
+21628_2	is_in_sentence	sentence_21628
+21628_2	nummod	21628_1
+21628_2	has_surface_form	655
+21628_2	part_of_entity	Pennsylvania Route 655
+21628_3	is_in_sentence	sentence_21628
+21628_3	punct	21628_1
+21628_3	has_surface_form	(
+21628_4	is_in_sentence	sentence_21628
+21628_4	appos	21628_1
+21628_4	has_surface_form	PA
+21628_5	is_in_sentence	sentence_21628
+21628_5	nummod	21628_4
+21628_5	has_surface_form	655
+21628_6	is_in_sentence	sentence_21628
+21628_6	punct	21628_4
+21628_6	has_surface_form	)
+21628_8	is_in_sentence	sentence_21628
+21628_8	det	21628_19
+21628_8	has_surface_form	an
+21628_19	is_in_sentence	sentence_21628
+21628_19	attr	21628_7
+21628_19	has_surface_form	north
+21628_9	is_in_sentence	sentence_21628
+21628_9	nummod	21628_11
+21628_9	has_surface_form	83
+21628_11	is_in_sentence	sentence_21628
+21628_11	npadvmod	21628_13
+21628_11	has_surface_form	mile
+21628_10	is_in_sentence	sentence_21628
+21628_10	punct	21628_11
+21628_10	has_surface_form	-
+21628_13	is_in_sentence	sentence_21628
+21628_13	amod	21628_19
+21628_13	has_surface_form	long
+21628_12	is_in_sentence	sentence_21628
+21628_12	punct	21628_13
+21628_12	has_surface_form	-
+21628_14	is_in_sentence	sentence_21628
+21628_14	punct	21628_19
+21628_14	has_surface_form	(
+21628_15	is_in_sentence	sentence_21628
+21628_15	nummod	21628_19
+21628_15	has_surface_form	134
+21628_16	is_in_sentence	sentence_21628
+21628_16	dep	21628_19
+21628_16	has_surface_form	 
+21628_17	is_in_sentence	sentence_21628
+21628_17	nmod	21628_19
+21628_17	has_surface_form	km
+21628_18	is_in_sentence	sentence_21628
+21628_18	punct	21628_19
+21628_18	has_surface_form	)
+21628_20	is_in_sentence	sentence_21628
+21628_20	punct	21628_19
+21628_20	has_surface_form	–
+21628_21	is_in_sentence	sentence_21628
+21628_21	compound	21628_22
+21628_21	has_surface_form	south
+21628_22	is_in_sentence	sentence_21628
+21628_22	compound	21628_23
+21628_22	has_surface_form	state
+21628_22	part_of_entity	state highway
+21628_23	is_in_sentence	sentence_21628
+21628_23	appos	21628_19
+21628_23	has_surface_form	highway
+21628_23	part_of_entity	state highway
+21628_24	is_in_sentence	sentence_21628
+21628_24	acl	21628_23
+21628_24	has_surface_form	located
+21628_25	is_in_sentence	sentence_21628
+21628_25	prep	21628_24
+21628_25	has_surface_form	in
+21628_26	is_in_sentence	sentence_21628
+21628_26	amod	21628_27
+21628_26	has_surface_form	central
+21628_27	is_in_sentence	sentence_21628
+21628_27	pobj	21628_25
+21628_27	has_surface_form	Pennsylvania
+21628_28	is_in_sentence	sentence_21628
+21628_28	punct	21628_7
+21628_28	has_surface_form	.
+21628_29	is_in_sentence	sentence_21628
+21628_29	dep	21628_29
+21628_29	has_surface_form	
+Pennsylvania Route 655	surface_form	Pennsylvania Route 655
+Pennsylvania Route 655	has-type	state highway
+state highway	surface_form	state highway

@@ -1,0 +1,98 @@
+16768_0	is_in_sentence	sentence_16768
+16768_0	compound	16768_1
+16768_0	has_surface_form	Andreas
+16768_0	part_of_entity	Andreas Schäffer
+16768_1	is_in_sentence	sentence_16768
+16768_1	nsubj	16768_10
+16768_1	has_surface_form	Schäffer
+16768_1	part_of_entity	Andreas Schäffer
+16768_10	is_in_sentence	sentence_16768
+16768_10	ROOT	16768_10
+16768_10	has_surface_form	is
+16768_2	is_in_sentence	sentence_16768
+16768_2	punct	16768_1
+16768_2	has_surface_form	(
+16768_3	is_in_sentence	sentence_16768
+16768_3	acl	16768_1
+16768_3	has_surface_form	born
+16768_4	is_in_sentence	sentence_16768
+16768_4	nummod	16768_5
+16768_4	has_surface_form	29
+16768_5	is_in_sentence	sentence_16768
+16768_5	npadvmod	16768_3
+16768_5	has_surface_form	May
+16768_6	is_in_sentence	sentence_16768
+16768_6	nummod	16768_5
+16768_6	has_surface_form	1984
+16768_7	is_in_sentence	sentence_16768
+16768_7	prep	16768_3
+16768_7	has_surface_form	in
+16768_8	is_in_sentence	sentence_16768
+16768_8	pobj	16768_7
+16768_8	has_surface_form	Kelheim
+16768_9	is_in_sentence	sentence_16768
+16768_9	punct	16768_1
+16768_9	has_surface_form	)
+16768_11	is_in_sentence	sentence_16768
+16768_11	det	16768_15
+16768_11	has_surface_form	a
+16768_15	is_in_sentence	sentence_16768
+16768_15	attr	16768_10
+16768_15	has_surface_form	footballer
+16768_12	is_in_sentence	sentence_16768
+16768_12	amod	16768_15
+16768_12	has_surface_form	former
+16768_13	is_in_sentence	sentence_16768
+16768_13	amod	16768_15
+16768_13	has_surface_form	professional
+16768_14	is_in_sentence	sentence_16768
+16768_14	amod	16768_15
+16768_14	has_surface_form	German
+16768_16	is_in_sentence	sentence_16768
+16768_16	punct	16768_10
+16768_16	has_surface_form	.
+16768_17	is_in_sentence	sentence_16768
+16768_17	nsubj	16768_18
+16768_17	has_surface_form	Schäffer
+16768_18	is_in_sentence	sentence_16768
+16768_18	ROOT	16768_18
+16768_18	has_surface_form	made
+16768_19	is_in_sentence	sentence_16768
+16768_19	nummod	16768_20
+16768_19	has_surface_form	15
+16768_20	is_in_sentence	sentence_16768
+16768_20	dobj	16768_18
+16768_20	has_surface_form	appearances
+16768_21	is_in_sentence	sentence_16768
+16768_21	prep	16768_20
+16768_21	has_surface_form	for
+16768_22	is_in_sentence	sentence_16768
+16768_22	compound	16768_24
+16768_22	has_surface_form	SSV
+16768_22	part_of_entity	SSV Jahn Regensburg
+16768_24	is_in_sentence	sentence_16768
+16768_24	pobj	16768_21
+16768_24	has_surface_form	Regensburg
+16768_24	part_of_entity	SSV Jahn Regensburg
+16768_23	is_in_sentence	sentence_16768
+16768_23	compound	16768_24
+16768_23	has_surface_form	Jahn
+16768_23	part_of_entity	SSV Jahn Regensburg
+16768_25	is_in_sentence	sentence_16768
+16768_25	prep	16768_18
+16768_25	has_surface_form	in
+16768_26	is_in_sentence	sentence_16768
+16768_26	det	16768_27
+16768_26	has_surface_form	the
+16768_27	is_in_sentence	sentence_16768
+16768_27	pobj	16768_25
+16768_27	has_surface_form	3
+16768_28	is_in_sentence	sentence_16768
+16768_28	punct	16768_18
+16768_28	has_surface_form	.
+16768_29	is_in_sentence	sentence_16768
+16768_29	dep	16768_18
+16768_29	has_surface_form	
+Andreas Schäffer	surface_form	Andreas Schäffer
+Andreas Schäffer	is-member-of	SSV Jahn Regensburg
+SSV Jahn Regensburg	surface_form	SSV Jahn Regensburg

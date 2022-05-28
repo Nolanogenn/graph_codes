@@ -1,0 +1,60 @@
+15239_0	is_in_sentence	sentence_15239
+15239_0	compound	15239_2
+15239_0	has_surface_form	Graeme
+15239_0	part_of_entity	Graeme High School
+15239_2	is_in_sentence	sentence_15239
+15239_2	nsubj	15239_3
+15239_2	has_surface_form	School
+15239_2	part_of_entity	Graeme High School
+15239_1	is_in_sentence	sentence_15239
+15239_1	compound	15239_2
+15239_1	has_surface_form	High
+15239_1	part_of_entity	Graeme High School
+15239_3	is_in_sentence	sentence_15239
+15239_3	ROOT	15239_3
+15239_3	has_surface_form	is
+15239_4	is_in_sentence	sentence_15239
+15239_4	det	15239_10
+15239_4	has_surface_form	a
+15239_10	is_in_sentence	sentence_15239
+15239_10	attr	15239_3
+15239_10	has_surface_form	school
+15239_5	is_in_sentence	sentence_15239
+15239_5	amod	15239_10
+15239_5	has_surface_form	non
+15239_6	is_in_sentence	sentence_15239
+15239_6	amod	15239_10
+15239_6	has_surface_form	-
+15239_7	is_in_sentence	sentence_15239
+15239_7	amod	15239_10
+15239_7	has_surface_form	denominational
+15239_8	is_in_sentence	sentence_15239
+15239_8	amod	15239_10
+15239_8	has_surface_form	public
+15239_9	is_in_sentence	sentence_15239
+15239_9	amod	15239_10
+15239_9	has_surface_form	secondary
+15239_11	is_in_sentence	sentence_15239
+15239_11	acl	15239_10
+15239_11	has_surface_form	located
+15239_12	is_in_sentence	sentence_15239
+15239_12	prep	15239_11
+15239_12	has_surface_form	in
+15239_13	is_in_sentence	sentence_15239
+15239_13	pobj	15239_12
+15239_13	is_entity	Falkirk
+Falkirk	surface_form	Falkirk
+15239_14	is_in_sentence	sentence_15239
+15239_14	punct	15239_13
+15239_14	has_surface_form	,
+15239_15	is_in_sentence	sentence_15239
+15239_15	appos	15239_13
+15239_15	has_surface_form	Scotland
+15239_16	is_in_sentence	sentence_15239
+15239_16	punct	15239_3
+15239_16	has_surface_form	.
+15239_17	is_in_sentence	sentence_15239
+15239_17	dep	15239_3
+15239_17	has_surface_form	
+Graeme High School	surface_form	Graeme High School
+Graeme High School	is-where	Falkirk

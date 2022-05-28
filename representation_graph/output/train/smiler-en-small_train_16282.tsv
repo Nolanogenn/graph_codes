@@ -1,0 +1,58 @@
+16281_0	is_in_sentence	sentence_16281
+16281_0	compound	16281_1
+16281_0	has_surface_form	Anton
+16281_0	part_of_entity	Anton Strout
+16281_1	is_in_sentence	sentence_16281
+16281_1	nsubj	16281_9
+16281_1	has_surface_form	Strout
+16281_1	part_of_entity	Anton Strout
+16281_9	is_in_sentence	sentence_16281
+16281_9	ROOT	16281_9
+16281_9	has_surface_form	is
+16281_2	is_in_sentence	sentence_16281
+16281_2	punct	16281_1
+16281_2	has_surface_form	(
+16281_3	is_in_sentence	sentence_16281
+16281_3	acl	16281_1
+16281_3	has_surface_form	born
+16281_4	is_in_sentence	sentence_16281
+16281_4	npadvmod	16281_3
+16281_4	has_surface_form	January
+16281_5	is_in_sentence	sentence_16281
+16281_5	nummod	16281_4
+16281_5	has_surface_form	24
+16281_6	is_in_sentence	sentence_16281
+16281_6	punct	16281_4
+16281_6	has_surface_form	,
+16281_7	is_in_sentence	sentence_16281
+16281_7	nummod	16281_4
+16281_7	has_surface_form	1970
+16281_8	is_in_sentence	sentence_16281
+16281_8	punct	16281_1
+16281_8	has_surface_form	)
+16281_10	is_in_sentence	sentence_16281
+16281_10	det	16281_14
+16281_10	has_surface_form	an
+16281_14	is_in_sentence	sentence_16281
+16281_14	attr	16281_9
+16281_14	has_surface_form	author
+16281_11	is_in_sentence	sentence_16281
+16281_11	amod	16281_14
+16281_11	has_surface_form	American
+16281_12	is_in_sentence	sentence_16281
+16281_12	amod	16281_13
+16281_12	has_surface_form	urban
+16281_12	part_of_entity	urban fantasy
+16281_13	is_in_sentence	sentence_16281
+16281_13	compound	16281_14
+16281_13	has_surface_form	fantasy
+16281_13	part_of_entity	urban fantasy
+16281_15	is_in_sentence	sentence_16281
+16281_15	punct	16281_9
+16281_15	has_surface_form	.
+16281_16	is_in_sentence	sentence_16281
+16281_16	dep	16281_9
+16281_16	has_surface_form	
+Anton Strout	surface_form	Anton Strout
+Anton Strout	has-genre	urban fantasy
+urban fantasy	surface_form	urban fantasy

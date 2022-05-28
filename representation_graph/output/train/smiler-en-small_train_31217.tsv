@@ -1,0 +1,71 @@
+31216_0	is_in_sentence	sentence_31216
+31216_0	compound	31216_1
+31216_0	has_surface_form	Marine
+31216_0	part_of_entity	Marine Fighter Attack Squadron 251
+31216_1	is_in_sentence	sentence_31216
+31216_1	compound	31216_3
+31216_1	has_surface_form	Fighter
+31216_1	part_of_entity	Marine Fighter Attack Squadron 251
+31216_3	is_in_sentence	sentence_31216
+31216_3	nsubj	31216_8
+31216_3	has_surface_form	Squadron
+31216_3	part_of_entity	Marine Fighter Attack Squadron 251
+31216_2	is_in_sentence	sentence_31216
+31216_2	compound	31216_3
+31216_2	has_surface_form	Attack
+31216_2	part_of_entity	Marine Fighter Attack Squadron 251
+31216_8	is_in_sentence	sentence_31216
+31216_8	ROOT	31216_8
+31216_8	has_surface_form	is
+31216_4	is_in_sentence	sentence_31216
+31216_4	nummod	31216_3
+31216_4	has_surface_form	251
+31216_4	part_of_entity	Marine Fighter Attack Squadron 251
+31216_5	is_in_sentence	sentence_31216
+31216_5	punct	31216_4
+31216_5	has_surface_form	(
+31216_6	is_in_sentence	sentence_31216
+31216_6	appos	31216_4
+31216_6	has_surface_form	VMFA-251
+31216_7	is_in_sentence	sentence_31216
+31216_7	punct	31216_4
+31216_7	has_surface_form	)
+31216_9	is_in_sentence	sentence_31216
+31216_9	det	31216_18
+31216_9	has_surface_form	a
+31216_18	is_in_sentence	sentence_31216
+31216_18	attr	31216_8
+31216_18	is_entity	squadron
+31216_10	is_in_sentence	sentence_31216
+31216_10	compound	31216_11
+31216_10	has_surface_form	United
+31216_11	is_in_sentence	sentence_31216
+31216_11	compound	31216_16
+31216_11	has_surface_form	States
+31216_16	is_in_sentence	sentence_31216
+31216_16	compound	31216_18
+31216_16	has_surface_form	A-18
+31216_12	is_in_sentence	sentence_31216
+31216_12	compound	31216_16
+31216_12	has_surface_form	Marine
+31216_13	is_in_sentence	sentence_31216
+31216_13	nmod	31216_16
+31216_13	has_surface_form	Corps
+31216_14	is_in_sentence	sentence_31216
+31216_14	nmod	31216_16
+31216_14	has_surface_form	F
+31216_15	is_in_sentence	sentence_31216
+31216_15	punct	31216_16
+31216_15	has_surface_form	/
+31216_17	is_in_sentence	sentence_31216
+31216_17	compound	31216_18
+31216_17	has_surface_form	Hornet
+squadron	surface_form	squadron
+31216_19	is_in_sentence	sentence_31216
+31216_19	punct	31216_8
+31216_19	has_surface_form	.
+31216_20	is_in_sentence	sentence_31216
+31216_20	dep	31216_8
+31216_20	has_surface_form	
+Marine Fighter Attack Squadron 251	surface_form	Marine Fighter Attack Squadron 251
+Marine Fighter Attack Squadron 251	has-type	squadron

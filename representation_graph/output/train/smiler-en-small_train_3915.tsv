@@ -1,0 +1,101 @@
+3914_0	is_in_sentence	sentence_3914
+3914_0	ROOT	3914_0
+3914_0	has_surface_form	555325
+3914_1	is_in_sentence	sentence_3914
+3914_1	det	3914_5
+3914_1	has_surface_form	The
+3914_5	is_in_sentence	sentence_3914
+3914_5	nmod	3914_11
+3914_5	has_surface_form	University
+3914_5	part_of_entity	Gubkin Russian State University of Oil and Gas
+3914_2	is_in_sentence	sentence_3914
+3914_2	compound	3914_4
+3914_2	has_surface_form	Gubkin
+3914_2	part_of_entity	Gubkin Russian State University of Oil and Gas
+3914_4	is_in_sentence	sentence_3914
+3914_4	compound	3914_5
+3914_4	has_surface_form	State
+3914_4	part_of_entity	Gubkin Russian State University of Oil and Gas
+3914_3	is_in_sentence	sentence_3914
+3914_3	compound	3914_4
+3914_3	has_surface_form	Russian
+3914_3	part_of_entity	Gubkin Russian State University of Oil and Gas
+3914_11	is_in_sentence	sentence_3914
+3914_11	nsubj	3914_23
+3914_11	has_surface_form	Russian
+3914_6	is_in_sentence	sentence_3914
+3914_6	prep	3914_5
+3914_6	has_surface_form	of
+3914_6	part_of_entity	Gubkin Russian State University of Oil and Gas
+3914_7	is_in_sentence	sentence_3914
+3914_7	pobj	3914_6
+3914_7	has_surface_form	Oil
+3914_7	part_of_entity	Gubkin Russian State University of Oil and Gas
+3914_8	is_in_sentence	sentence_3914
+3914_8	cc	3914_7
+3914_8	has_surface_form	and
+3914_8	part_of_entity	Gubkin Russian State University of Oil and Gas
+3914_9	is_in_sentence	sentence_3914
+3914_9	conj	3914_7
+3914_9	has_surface_form	Gas
+3914_9	part_of_entity	Gubkin Russian State University of Oil and Gas
+3914_10	is_in_sentence	sentence_3914
+3914_10	punct	3914_11
+3914_10	has_surface_form	(
+3914_23	is_in_sentence	sentence_3914
+3914_23	ROOT	3914_23
+3914_23	has_surface_form	is
+3914_12	is_in_sentence	sentence_3914
+3914_12	punct	3914_11
+3914_12	has_surface_form	:
+3914_13	is_in_sentence	sentence_3914
+3914_13	amod	3914_15
+3914_13	has_surface_form	Российский
+3914_15	is_in_sentence	sentence_3914
+3914_15	compound	3914_16
+3914_15	has_surface_form	университет
+3914_14	is_in_sentence	sentence_3914
+3914_14	compound	3914_15
+3914_14	has_surface_form	государственный
+3914_16	is_in_sentence	sentence_3914
+3914_16	appos	3914_11
+3914_16	has_surface_form	нефти
+3914_17	is_in_sentence	sentence_3914
+3914_17	det	3914_21
+3914_17	has_surface_form	и
+3914_21	is_in_sentence	sentence_3914
+3914_21	appos	3914_11
+3914_21	has_surface_form	Губкина
+3914_18	is_in_sentence	sentence_3914
+3914_18	nmod	3914_21
+3914_18	has_surface_form	газа
+3914_19	is_in_sentence	sentence_3914
+3914_19	amod	3914_21
+3914_19	has_surface_form	имени
+3914_20	is_in_sentence	sentence_3914
+3914_20	compound	3914_21
+3914_20	has_surface_form	И.
+3914_22	is_in_sentence	sentence_3914
+3914_22	punct	3914_21
+3914_22	has_surface_form	)
+3914_24	is_in_sentence	sentence_3914
+3914_24	det	3914_25
+3914_24	has_surface_form	a
+3914_25	is_in_sentence	sentence_3914
+3914_25	attr	3914_23
+3914_25	has_surface_form	university
+3914_26	is_in_sentence	sentence_3914
+3914_26	prep	3914_25
+3914_26	has_surface_form	in
+3914_27	is_in_sentence	sentence_3914
+3914_27	pobj	3914_26
+3914_27	is_entity	Moscow
+Moscow	surface_form	Moscow
+3914_28	is_in_sentence	sentence_3914
+3914_28	punct	3914_23
+3914_28	has_surface_form	.
+3914_29	is_in_sentence	sentence_3914
+3914_29	dep	3914_29
+3914_29	has_surface_form	
+Gubkin Russian State University of Oil and Gas	surface_form	Gubkin Russian State University of Oil and Gas
+Gubkin Russian State University of Oil and Gas	is-where	Moscow

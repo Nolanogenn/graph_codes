@@ -1,0 +1,74 @@
+32041_0	is_in_sentence	sentence_32041
+32041_0	compound	32041_1
+32041_0	has_surface_form	Ysgol
+32041_0	part_of_entity	Ysgol Uwchradd Aberteifi
+32041_1	is_in_sentence	sentence_32041
+32041_1	compound	32041_2
+32041_1	has_surface_form	Uwchradd
+32041_1	part_of_entity	Ysgol Uwchradd Aberteifi
+32041_2	is_in_sentence	sentence_32041
+32041_2	nsubj	32041_4
+32041_2	has_surface_form	Aberteifi
+32041_2	part_of_entity	Ysgol Uwchradd Aberteifi
+32041_4	is_in_sentence	sentence_32041
+32041_4	ROOT	32041_4
+32041_4	has_surface_form	translated
+32041_3	is_in_sentence	sentence_32041
+32041_3	punct	32041_2
+32041_3	has_surface_form	,
+32041_5	is_in_sentence	sentence_32041
+32041_5	mark	32041_9
+32041_5	has_surface_form	as
+32041_9	is_in_sentence	sentence_32041
+32041_9	advcl	32041_4
+32041_9	has_surface_form	is
+32041_6	is_in_sentence	sentence_32041
+32041_6	compound	32041_8
+32041_6	has_surface_form	Cardigan
+32041_8	is_in_sentence	sentence_32041
+32041_8	nsubj	32041_9
+32041_8	has_surface_form	School
+32041_7	is_in_sentence	sentence_32041
+32041_7	compound	32041_8
+32041_7	has_surface_form	Secondary
+32041_10	is_in_sentence	sentence_32041
+32041_10	det	32041_13
+32041_10	has_surface_form	a
+32041_13	is_in_sentence	sentence_32041
+32041_13	attr	32041_9
+32041_13	has_surface_form	school
+32041_13	part_of_entity	secondary school
+32041_11	is_in_sentence	sentence_32041
+32041_11	amod	32041_13
+32041_11	has_surface_form	bilingual
+32041_12	is_in_sentence	sentence_32041
+32041_12	amod	32041_13
+32041_12	has_surface_form	secondary
+32041_12	part_of_entity	secondary school
+32041_14	is_in_sentence	sentence_32041
+32041_14	prep	32041_13
+32041_14	has_surface_form	in
+32041_15	is_in_sentence	sentence_32041
+32041_15	pobj	32041_14
+32041_15	has_surface_form	Cardigan
+32041_16	is_in_sentence	sentence_32041
+32041_16	punct	32041_15
+32041_16	has_surface_form	,
+32041_17	is_in_sentence	sentence_32041
+32041_17	conj	32041_15
+32041_17	has_surface_form	Ceredigion
+32041_18	is_in_sentence	sentence_32041
+32041_18	punct	32041_17
+32041_18	has_surface_form	,
+32041_19	is_in_sentence	sentence_32041
+32041_19	npadvmod	32041_17
+32041_19	has_surface_form	Wales
+32041_20	is_in_sentence	sentence_32041
+32041_20	punct	32041_4
+32041_20	has_surface_form	.
+32041_21	is_in_sentence	sentence_32041
+32041_21	dep	32041_4
+32041_21	has_surface_form	
+Ysgol Uwchradd Aberteifi	surface_form	Ysgol Uwchradd Aberteifi
+Ysgol Uwchradd Aberteifi	has-type	secondary school
+secondary school	surface_form	secondary school

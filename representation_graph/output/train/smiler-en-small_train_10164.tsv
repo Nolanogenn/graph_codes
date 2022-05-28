@@ -1,0 +1,64 @@
+10163_0	is_in_sentence	sentence_10163
+10163_0	compound	10163_1
+10163_0	has_surface_form	John
+10163_0	part_of_entity	John Zamberlin
+10163_1	is_in_sentence	sentence_10163
+10163_1	nsubj	10163_9
+10163_1	has_surface_form	Zamberlin
+10163_1	part_of_entity	John Zamberlin
+10163_9	is_in_sentence	sentence_10163
+10163_9	ROOT	10163_9
+10163_9	has_surface_form	is
+10163_2	is_in_sentence	sentence_10163
+10163_2	punct	10163_1
+10163_2	has_surface_form	(
+10163_3	is_in_sentence	sentence_10163
+10163_3	acl	10163_1
+10163_3	has_surface_form	born
+10163_4	is_in_sentence	sentence_10163
+10163_4	npadvmod	10163_3
+10163_4	has_surface_form	February
+10163_5	is_in_sentence	sentence_10163
+10163_5	nummod	10163_4
+10163_5	has_surface_form	13
+10163_6	is_in_sentence	sentence_10163
+10163_6	punct	10163_4
+10163_6	has_surface_form	,
+10163_7	is_in_sentence	sentence_10163
+10163_7	nummod	10163_4
+10163_7	has_surface_form	1956
+10163_8	is_in_sentence	sentence_10163
+10163_8	punct	10163_1
+10163_8	has_surface_form	)
+10163_10	is_in_sentence	sentence_10163
+10163_10	det	10163_13
+10163_10	has_surface_form	an
+10163_13	is_in_sentence	sentence_10163
+10163_13	attr	10163_9
+10163_13	has_surface_form	coach
+10163_13	part_of_entity	football coach
+10163_11	is_in_sentence	sentence_10163
+10163_11	amod	10163_13
+10163_11	has_surface_form	American
+10163_12	is_in_sentence	sentence_10163
+10163_12	compound	10163_13
+10163_12	has_surface_form	football
+10163_12	part_of_entity	football coach
+10163_14	is_in_sentence	sentence_10163
+10163_14	cc	10163_13
+10163_14	has_surface_form	and
+10163_15	is_in_sentence	sentence_10163
+10163_15	amod	10163_16
+10163_15	has_surface_form	former
+10163_16	is_in_sentence	sentence_10163
+10163_16	conj	10163_13
+10163_16	has_surface_form	player
+10163_17	is_in_sentence	sentence_10163
+10163_17	punct	10163_9
+10163_17	has_surface_form	.
+10163_18	is_in_sentence	sentence_10163
+10163_18	dep	10163_18
+10163_18	has_surface_form	
+John Zamberlin	surface_form	John Zamberlin
+John Zamberlin	has-type	football coach
+football coach	surface_form	football coach

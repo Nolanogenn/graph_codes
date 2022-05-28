@@ -1,0 +1,61 @@
+1622_0	is_in_sentence	sentence_1622
+1622_0	compound	1622_1
+1622_0	has_surface_form	Sir
+1622_0	part_of_entity	Sir Frederick John Jackson
+1622_1	is_in_sentence	sentence_1622
+1622_1	compound	1622_3
+1622_1	has_surface_form	Frederick
+1622_1	part_of_entity	Sir Frederick John Jackson
+1622_3	is_in_sentence	sentence_1622
+1622_3	nsubj	1622_8
+1622_3	has_surface_form	Jackson
+1622_3	part_of_entity	Sir Frederick John Jackson
+1622_2	is_in_sentence	sentence_1622
+1622_2	compound	1622_3
+1622_2	has_surface_form	John
+1622_2	part_of_entity	Sir Frederick John Jackson
+1622_8	is_in_sentence	sentence_1622
+1622_8	ROOT	1622_8
+1622_8	has_surface_form	was
+1622_4	is_in_sentence	sentence_1622
+1622_4	punct	1622_3
+1622_4	has_surface_form	,
+1622_5	is_in_sentence	sentence_1622
+1622_5	punct	1622_3
+1622_5	has_surface_form	(
+1622_6	is_in_sentence	sentence_1622
+1622_6	appos	1622_3
+1622_6	has_surface_form	1860–1929
+1622_7	is_in_sentence	sentence_1622
+1622_7	punct	1622_3
+1622_7	has_surface_form	)
+1622_9	is_in_sentence	sentence_1622
+1622_9	det	1622_11
+1622_9	has_surface_form	an
+1622_11	is_in_sentence	sentence_1622
+1622_11	attr	1622_8
+1622_11	has_surface_form	administrator
+1622_10	is_in_sentence	sentence_1622
+1622_10	amod	1622_11
+1622_10	is_entity	English
+English	surface_form	English
+1622_12	is_in_sentence	sentence_1622
+1622_12	punct	1622_11
+1622_12	has_surface_form	,
+1622_13	is_in_sentence	sentence_1622
+1622_13	conj	1622_11
+1622_13	has_surface_form	explorer
+1622_14	is_in_sentence	sentence_1622
+1622_14	cc	1622_13
+1622_14	has_surface_form	and
+1622_15	is_in_sentence	sentence_1622
+1622_15	conj	1622_13
+1622_15	has_surface_form	ornithologist
+1622_16	is_in_sentence	sentence_1622
+1622_16	punct	1622_8
+1622_16	has_surface_form	.
+1622_17	is_in_sentence	sentence_1622
+1622_17	dep	1622_17
+1622_17	has_surface_form	
+Sir Frederick John Jackson	surface_form	Sir Frederick John Jackson
+Sir Frederick John Jackson	has-nationality	English

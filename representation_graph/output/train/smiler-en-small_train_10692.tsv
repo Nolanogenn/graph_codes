@@ -1,0 +1,64 @@
+10691_0	is_in_sentence	sentence_10691
+10691_0	compound	10691_1
+10691_0	has_surface_form	Connell
+10691_0	part_of_entity	Connell Maynor
+10691_1	is_in_sentence	sentence_10691
+10691_1	nsubj	10691_9
+10691_1	has_surface_form	Maynor
+10691_1	part_of_entity	Connell Maynor
+10691_9	is_in_sentence	sentence_10691
+10691_9	ROOT	10691_9
+10691_9	has_surface_form	is
+10691_2	is_in_sentence	sentence_10691
+10691_2	punct	10691_1
+10691_2	has_surface_form	(
+10691_3	is_in_sentence	sentence_10691
+10691_3	acl	10691_1
+10691_3	has_surface_form	born
+10691_4	is_in_sentence	sentence_10691
+10691_4	npadvmod	10691_3
+10691_4	has_surface_form	January
+10691_5	is_in_sentence	sentence_10691
+10691_5	nummod	10691_4
+10691_5	has_surface_form	21
+10691_6	is_in_sentence	sentence_10691
+10691_6	punct	10691_4
+10691_6	has_surface_form	,
+10691_7	is_in_sentence	sentence_10691
+10691_7	nummod	10691_4
+10691_7	has_surface_form	1969
+10691_8	is_in_sentence	sentence_10691
+10691_8	punct	10691_1
+10691_8	has_surface_form	)
+10691_10	is_in_sentence	sentence_10691
+10691_10	det	10691_13
+10691_10	has_surface_form	an
+10691_13	is_in_sentence	sentence_10691
+10691_13	attr	10691_9
+10691_13	has_surface_form	coach
+10691_13	part_of_entity	football coach
+10691_11	is_in_sentence	sentence_10691
+10691_11	amod	10691_13
+10691_11	has_surface_form	American
+10691_12	is_in_sentence	sentence_10691
+10691_12	compound	10691_13
+10691_12	has_surface_form	football
+10691_12	part_of_entity	football coach
+10691_14	is_in_sentence	sentence_10691
+10691_14	cc	10691_13
+10691_14	has_surface_form	and
+10691_15	is_in_sentence	sentence_10691
+10691_15	amod	10691_16
+10691_15	has_surface_form	former
+10691_16	is_in_sentence	sentence_10691
+10691_16	conj	10691_13
+10691_16	has_surface_form	player
+10691_17	is_in_sentence	sentence_10691
+10691_17	punct	10691_9
+10691_17	has_surface_form	.
+10691_18	is_in_sentence	sentence_10691
+10691_18	dep	10691_18
+10691_18	has_surface_form	
+Connell Maynor	surface_form	Connell Maynor
+Connell Maynor	has-type	football coach
+football coach	surface_form	football coach

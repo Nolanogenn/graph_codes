@@ -1,0 +1,104 @@
+29722_0	is_in_sentence	sentence_29722
+29722_0	compound	29722_1
+29722_0	has_surface_form	Marine
+29722_0	part_of_entity	Marine Fighter Attack Squadron 211
+29722_1	is_in_sentence	sentence_29722
+29722_1	compound	29722_3
+29722_1	has_surface_form	Fighter
+29722_1	part_of_entity	Marine Fighter Attack Squadron 211
+29722_3	is_in_sentence	sentence_29722
+29722_3	nsubj	29722_8
+29722_3	has_surface_form	Squadron
+29722_3	part_of_entity	Marine Fighter Attack Squadron 211
+29722_2	is_in_sentence	sentence_29722
+29722_2	compound	29722_3
+29722_2	has_surface_form	Attack
+29722_2	part_of_entity	Marine Fighter Attack Squadron 211
+29722_8	is_in_sentence	sentence_29722
+29722_8	ROOT	29722_8
+29722_8	has_surface_form	is
+29722_4	is_in_sentence	sentence_29722
+29722_4	nummod	29722_3
+29722_4	has_surface_form	211
+29722_4	part_of_entity	Marine Fighter Attack Squadron 211
+29722_5	is_in_sentence	sentence_29722
+29722_5	punct	29722_3
+29722_5	has_surface_form	(
+29722_6	is_in_sentence	sentence_29722
+29722_6	appos	29722_3
+29722_6	has_surface_form	VMFA-211
+29722_7	is_in_sentence	sentence_29722
+29722_7	punct	29722_3
+29722_7	has_surface_form	)
+29722_9	is_in_sentence	sentence_29722
+29722_9	det	29722_16
+29722_9	has_surface_form	a
+29722_16	is_in_sentence	sentence_29722
+29722_16	attr	29722_8
+29722_16	has_surface_form	squadron
+29722_16	part_of_entity	fighter attack squadron
+29722_10	is_in_sentence	sentence_29722
+29722_10	compound	29722_11
+29722_10	has_surface_form	United
+29722_11	is_in_sentence	sentence_29722
+29722_11	compound	29722_16
+29722_11	has_surface_form	States
+29722_12	is_in_sentence	sentence_29722
+29722_12	compound	29722_13
+29722_12	has_surface_form	Marine
+29722_13	is_in_sentence	sentence_29722
+29722_13	compound	29722_16
+29722_13	has_surface_form	Corps
+29722_14	is_in_sentence	sentence_29722
+29722_14	compound	29722_15
+29722_14	has_surface_form	fighter
+29722_14	part_of_entity	fighter attack squadron
+29722_15	is_in_sentence	sentence_29722
+29722_15	compound	29722_16
+29722_15	has_surface_form	attack
+29722_15	part_of_entity	fighter attack squadron
+29722_17	is_in_sentence	sentence_29722
+29722_17	punct	29722_16
+29722_17	has_surface_form	,
+29722_18	is_in_sentence	sentence_29722
+29722_18	advmod	29722_19
+29722_18	has_surface_form	currently
+29722_19	is_in_sentence	sentence_29722
+29722_19	acl	29722_16
+29722_19	has_surface_form	consisting
+29722_20	is_in_sentence	sentence_29722
+29722_20	prep	29722_19
+29722_20	has_surface_form	of
+29722_21	is_in_sentence	sentence_29722
+29722_21	compound	29722_23
+29722_21	has_surface_form	F-35B
+29722_23	is_in_sentence	sentence_29722
+29722_23	compound	29722_24
+29722_23	has_surface_form	II
+29722_22	is_in_sentence	sentence_29722
+29722_22	compound	29722_23
+29722_22	has_surface_form	Lightning
+29722_24	is_in_sentence	sentence_29722
+29722_24	compound	29722_28
+29722_24	has_surface_form	stealth
+29722_28	is_in_sentence	sentence_29722
+29722_28	pobj	29722_20
+29722_28	has_surface_form	jets
+29722_25	is_in_sentence	sentence_29722
+29722_25	compound	29722_27
+29722_25	has_surface_form	STOVL
+29722_27	is_in_sentence	sentence_29722
+29722_27	compound	29722_28
+29722_27	has_surface_form	fighter
+29722_26	is_in_sentence	sentence_29722
+29722_26	compound	29722_27
+29722_26	has_surface_form	strike
+29722_29	is_in_sentence	sentence_29722
+29722_29	punct	29722_8
+29722_29	has_surface_form	.
+29722_30	is_in_sentence	sentence_29722
+29722_30	dep	29722_8
+29722_30	has_surface_form	
+Marine Fighter Attack Squadron 211	surface_form	Marine Fighter Attack Squadron 211
+Marine Fighter Attack Squadron 211	has-type	fighter attack squadron
+fighter attack squadron	surface_form	fighter attack squadron

@@ -1,0 +1,44 @@
+24486_0	is_in_sentence	sentence_24486
+24486_0	compound	24486_1
+24486_0	has_surface_form	Raghad
+24486_0	part_of_entity	Raghad Hussein
+24486_1	is_in_sentence	sentence_24486
+24486_1	nsubj	24486_6
+24486_1	has_surface_form	Hussein
+24486_1	part_of_entity	Raghad Hussein
+24486_6	is_in_sentence	sentence_24486
+24486_6	ROOT	24486_6
+24486_6	has_surface_form	is
+24486_2	is_in_sentence	sentence_24486
+24486_2	punct	24486_1
+24486_2	has_surface_form	(
+24486_3	is_in_sentence	sentence_24486
+24486_3	appos	24486_1
+24486_3	has_surface_form	b.
+24486_4	is_in_sentence	sentence_24486
+24486_4	nummod	24486_3
+24486_4	has_surface_form	1968
+24486_5	is_in_sentence	sentence_24486
+24486_5	punct	24486_1
+24486_5	has_surface_form	)
+24486_7	is_in_sentence	sentence_24486
+24486_7	poss	24486_10
+24486_7	is_entity	Saddam
+24486_10	is_in_sentence	sentence_24486
+24486_10	attr	24486_6
+24486_10	has_surface_form	daughter
+Saddam	surface_form	Saddam
+Saddam	has-child	Raghad Hussein
+24486_8	is_in_sentence	sentence_24486
+24486_8	case	24486_7
+24486_8	has_surface_form	's
+24486_9	is_in_sentence	sentence_24486
+24486_9	amod	24486_10
+24486_9	has_surface_form	oldest
+24486_11	is_in_sentence	sentence_24486
+24486_11	punct	24486_6
+24486_11	has_surface_form	.
+24486_12	is_in_sentence	sentence_24486
+24486_12	dep	24486_6
+24486_12	has_surface_form	
+Raghad Hussein	surface_form	Raghad Hussein

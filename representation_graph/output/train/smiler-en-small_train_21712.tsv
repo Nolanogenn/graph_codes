@@ -1,0 +1,48 @@
+21711_0	is_in_sentence	sentence_21711
+21711_0	det	21711_3
+21711_0	has_surface_form	The
+21711_3	is_in_sentence	sentence_21711
+21711_3	nsubj	21711_4
+21711_3	has_surface_form	América
+21711_3	part_of_entity	Colegio Centro América
+21711_1	is_in_sentence	sentence_21711
+21711_1	compound	21711_2
+21711_1	has_surface_form	Colegio
+21711_1	part_of_entity	Colegio Centro América
+21711_2	is_in_sentence	sentence_21711
+21711_2	compound	21711_3
+21711_2	has_surface_form	Centro
+21711_2	part_of_entity	Colegio Centro América
+21711_4	is_in_sentence	sentence_21711
+21711_4	ROOT	21711_4
+21711_4	has_surface_form	is
+21711_5	is_in_sentence	sentence_21711
+21711_5	det	21711_6
+21711_5	has_surface_form	a
+21711_6	is_in_sentence	sentence_21711
+21711_6	attr	21711_4
+21711_6	has_surface_form	school
+21711_7	is_in_sentence	sentence_21711
+21711_7	acl	21711_6
+21711_7	has_surface_form	located
+21711_8	is_in_sentence	sentence_21711
+21711_8	prep	21711_7
+21711_8	has_surface_form	in
+21711_9	is_in_sentence	sentence_21711
+21711_9	pobj	21711_8
+21711_9	is_entity	Managua
+Managua	surface_form	Managua
+21711_10	is_in_sentence	sentence_21711
+21711_10	punct	21711_9
+21711_10	has_surface_form	,
+21711_11	is_in_sentence	sentence_21711
+21711_11	appos	21711_9
+21711_11	has_surface_form	Nicaragua
+21711_12	is_in_sentence	sentence_21711
+21711_12	punct	21711_4
+21711_12	has_surface_form	.
+21711_13	is_in_sentence	sentence_21711
+21711_13	dep	21711_4
+21711_13	has_surface_form	
+Colegio Centro América	surface_form	Colegio Centro América
+Colegio Centro América	is-where	Managua

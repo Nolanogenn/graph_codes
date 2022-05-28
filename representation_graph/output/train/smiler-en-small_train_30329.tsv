@@ -1,0 +1,77 @@
+30328_0	is_in_sentence	sentence_30328
+30328_0	poss	30328_1
+30328_0	has_surface_form	My
+30328_1	is_in_sentence	sentence_30328
+30328_1	poss	30328_3
+30328_1	has_surface_form	Mother
+30328_3	is_in_sentence	sentence_30328
+30328_3	nsubj	30328_12
+30328_3	has_surface_form	Teahouse
+30328_2	is_in_sentence	sentence_30328
+30328_2	case	30328_1
+30328_2	has_surface_form	's
+30328_12	is_in_sentence	sentence_30328
+30328_12	ROOT	30328_12
+30328_12	has_surface_form	is
+30328_4	is_in_sentence	sentence_30328
+30328_4	punct	30328_5
+30328_4	has_surface_form	(
+30328_5	is_in_sentence	sentence_30328
+30328_5	appos	30328_3
+30328_5	has_surface_form	Chinese
+30328_6	is_in_sentence	sentence_30328
+30328_6	punct	30328_5
+30328_6	has_surface_form	:
+30328_7	is_in_sentence	sentence_30328
+30328_7	compound	30328_9
+30328_7	has_surface_form	Chun
+30328_9	is_in_sentence	sentence_30328
+30328_9	appos	30328_3
+30328_9	has_surface_form	cha
+30328_8	is_in_sentence	sentence_30328
+30328_8	compound	30328_9
+30328_8	has_surface_form	qiu
+30328_10	is_in_sentence	sentence_30328
+30328_10	appos	30328_9
+30328_10	has_surface_form	shi
+30328_11	is_in_sentence	sentence_30328
+30328_11	punct	30328_9
+30328_11	has_surface_form	)
+30328_13	is_in_sentence	sentence_30328
+30328_13	det	30328_17
+30328_13	has_surface_form	a
+30328_17	is_in_sentence	sentence_30328
+30328_17	attr	30328_12
+30328_17	has_surface_form	film
+30328_14	is_in_sentence	sentence_30328
+30328_14	nummod	30328_17
+30328_14	has_surface_form	1988
+30328_15	is_in_sentence	sentence_30328
+30328_15	amod	30328_17
+30328_15	has_surface_form	Taiwanese
+30328_16	is_in_sentence	sentence_30328
+30328_16	compound	30328_17
+30328_16	has_surface_form	drama
+30328_18	is_in_sentence	sentence_30328
+30328_18	acl	30328_17
+30328_18	has_surface_form	directed
+30328_19	is_in_sentence	sentence_30328
+30328_19	agent	30328_18
+30328_19	has_surface_form	by
+30328_20	is_in_sentence	sentence_30328
+30328_20	compound	30328_21
+30328_20	has_surface_form	Chen
+30328_20	part_of_entity	Chen Kunhou
+30328_21	is_in_sentence	sentence_30328
+30328_21	pobj	30328_19
+30328_21	has_surface_form	Kunhou
+30328_21	part_of_entity	Chen Kunhou
+30328_22	is_in_sentence	sentence_30328
+30328_22	punct	30328_12
+30328_22	has_surface_form	.
+30328_23	is_in_sentence	sentence_30328
+30328_23	dep	30328_12
+30328_23	has_surface_form	
+My Mother's Teahouse	surface_form	My Mother's Teahouse
+My Mother's Teahouse	movie-has-director	Chen Kunhou
+Chen Kunhou	surface_form	Chen Kunhou

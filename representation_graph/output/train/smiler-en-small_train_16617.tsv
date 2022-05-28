@@ -1,0 +1,66 @@
+16616_0	is_in_sentence	sentence_16616
+16616_0	det	16616_3
+16616_0	has_surface_form	The
+16616_3	is_in_sentence	sentence_16616
+16616_3	nsubj	16616_4
+16616_3	has_surface_form	Library
+16616_3	part_of_entity	Kern County Library
+16616_1	is_in_sentence	sentence_16616
+16616_1	compound	16616_2
+16616_1	has_surface_form	Kern
+16616_1	part_of_entity	Kern County Library
+16616_2	is_in_sentence	sentence_16616
+16616_2	compound	16616_3
+16616_2	has_surface_form	County
+16616_2	part_of_entity	Kern County Library
+16616_4	is_in_sentence	sentence_16616
+16616_4	ROOT	16616_4
+16616_4	has_surface_form	is
+16616_5	is_in_sentence	sentence_16616
+16616_5	det	16616_8
+16616_5	has_surface_form	a
+16616_8	is_in_sentence	sentence_16616
+16616_8	attr	16616_4
+16616_8	has_surface_form	system
+16616_8	part_of_entity	public library system
+16616_6	is_in_sentence	sentence_16616
+16616_6	amod	16616_7
+16616_6	has_surface_form	public
+16616_6	part_of_entity	public library system
+16616_7	is_in_sentence	sentence_16616
+16616_7	compound	16616_8
+16616_7	has_surface_form	library
+16616_7	part_of_entity	public library system
+16616_9	is_in_sentence	sentence_16616
+16616_9	acl	16616_8
+16616_9	has_surface_form	serving
+16616_10	is_in_sentence	sentence_16616
+16616_10	det	16616_11
+16616_10	has_surface_form	the
+16616_11	is_in_sentence	sentence_16616
+16616_11	dobj	16616_9
+16616_11	has_surface_form	residents
+16616_12	is_in_sentence	sentence_16616
+16616_12	prep	16616_11
+16616_12	has_surface_form	of
+16616_13	is_in_sentence	sentence_16616
+16616_13	compound	16616_14
+16616_13	has_surface_form	Kern
+16616_14	is_in_sentence	sentence_16616
+16616_14	pobj	16616_12
+16616_14	has_surface_form	County
+16616_15	is_in_sentence	sentence_16616
+16616_15	punct	16616_14
+16616_15	has_surface_form	,
+16616_16	is_in_sentence	sentence_16616
+16616_16	appos	16616_14
+16616_16	has_surface_form	California
+16616_17	is_in_sentence	sentence_16616
+16616_17	punct	16616_4
+16616_17	has_surface_form	.
+16616_18	is_in_sentence	sentence_16616
+16616_18	dep	16616_18
+16616_18	has_surface_form	
+Kern County Library	surface_form	Kern County Library
+Kern County Library	has-type	public library system
+public library system	surface_form	public library system

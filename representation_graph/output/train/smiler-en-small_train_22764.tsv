@@ -1,0 +1,58 @@
+22763_0	is_in_sentence	sentence_22763
+22763_0	det	22763_1
+22763_0	has_surface_form	The
+22763_0	part_of_entity	The Story of the Vatican
+22763_1	is_in_sentence	sentence_22763
+22763_1	nsubj	22763_5
+22763_1	has_surface_form	Story
+22763_1	part_of_entity	The Story of the Vatican
+22763_5	is_in_sentence	sentence_22763
+22763_5	ROOT	22763_5
+22763_5	has_surface_form	is
+22763_2	is_in_sentence	sentence_22763
+22763_2	prep	22763_1
+22763_2	has_surface_form	of
+22763_2	part_of_entity	The Story of the Vatican
+22763_3	is_in_sentence	sentence_22763
+22763_3	det	22763_4
+22763_3	has_surface_form	the
+22763_3	part_of_entity	The Story of the Vatican
+22763_4	is_in_sentence	sentence_22763
+22763_4	pobj	22763_2
+22763_4	has_surface_form	Vatican
+22763_4	part_of_entity	The Story of the Vatican
+22763_6	is_in_sentence	sentence_22763
+22763_6	det	22763_9
+22763_6	has_surface_form	a
+22763_9	is_in_sentence	sentence_22763
+22763_9	attr	22763_5
+22763_9	has_surface_form	documentary
+22763_7	is_in_sentence	sentence_22763
+22763_7	nummod	22763_9
+22763_7	has_surface_form	1941
+22763_8	is_in_sentence	sentence_22763
+22763_8	amod	22763_9
+22763_8	has_surface_form	American
+22763_10	is_in_sentence	sentence_22763
+22763_10	acl	22763_9
+22763_10	has_surface_form	directed
+22763_11	is_in_sentence	sentence_22763
+22763_11	agent	22763_10
+22763_11	has_surface_form	by
+22763_12	is_in_sentence	sentence_22763
+22763_12	compound	22763_13
+22763_12	has_surface_form	Jean
+22763_12	part_of_entity	Jean Pages
+22763_13	is_in_sentence	sentence_22763
+22763_13	pobj	22763_11
+22763_13	has_surface_form	Pages
+22763_13	part_of_entity	Jean Pages
+22763_14	is_in_sentence	sentence_22763
+22763_14	punct	22763_5
+22763_14	has_surface_form	.
+22763_15	is_in_sentence	sentence_22763
+22763_15	dep	22763_5
+22763_15	has_surface_form	
+The Story of the Vatican	surface_form	The Story of the Vatican
+The Story of the Vatican	movie-has-director	Jean Pages
+Jean Pages	surface_form	Jean Pages

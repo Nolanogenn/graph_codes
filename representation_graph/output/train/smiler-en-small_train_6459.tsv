@@ -1,0 +1,72 @@
+6458_0	is_in_sentence	sentence_6458
+6458_0	compound	6458_2
+6458_0	has_surface_form	Aston
+6458_0	part_of_entity	Aston Medical School
+6458_2	is_in_sentence	sentence_6458
+6458_2	nsubj	6458_6
+6458_2	has_surface_form	School
+6458_2	part_of_entity	Aston Medical School
+6458_1	is_in_sentence	sentence_6458
+6458_1	compound	6458_2
+6458_1	has_surface_form	Medical
+6458_1	part_of_entity	Aston Medical School
+6458_6	is_in_sentence	sentence_6458
+6458_6	ROOT	6458_6
+6458_6	has_surface_form	is
+6458_3	is_in_sentence	sentence_6458
+6458_3	punct	6458_2
+6458_3	has_surface_form	(
+6458_4	is_in_sentence	sentence_6458
+6458_4	appos	6458_2
+6458_4	has_surface_form	AMS
+6458_5	is_in_sentence	sentence_6458
+6458_5	punct	6458_2
+6458_5	has_surface_form	)
+6458_7	is_in_sentence	sentence_6458
+6458_7	det	6458_8
+6458_7	has_surface_form	a
+6458_8	is_in_sentence	sentence_6458
+6458_8	attr	6458_6
+6458_8	has_surface_form	school
+6458_9	is_in_sentence	sentence_6458
+6458_9	prep	6458_8
+6458_9	has_surface_form	within
+6458_10	is_in_sentence	sentence_6458
+6458_10	compound	6458_11
+6458_10	has_surface_form	Aston
+6458_11	is_in_sentence	sentence_6458
+6458_11	pobj	6458_9
+6458_11	has_surface_form	University
+6458_12	is_in_sentence	sentence_6458
+6458_12	punct	6458_11
+6458_12	has_surface_form	,
+6458_13	is_in_sentence	sentence_6458
+6458_13	acl	6458_11
+6458_13	has_surface_form	located
+6458_14	is_in_sentence	sentence_6458
+6458_14	prep	6458_13
+6458_14	has_surface_form	in
+6458_15	is_in_sentence	sentence_6458
+6458_15	compound	6458_17
+6458_15	is_entity	Birmingham
+6458_17	is_in_sentence	sentence_6458
+6458_17	pobj	6458_14
+6458_17	has_surface_form	centre
+Birmingham	surface_form	Birmingham
+6458_16	is_in_sentence	sentence_6458
+6458_16	compound	6458_17
+6458_16	has_surface_form	city
+6458_18	is_in_sentence	sentence_6458
+6458_18	punct	6458_17
+6458_18	has_surface_form	,
+6458_19	is_in_sentence	sentence_6458
+6458_19	appos	6458_17
+6458_19	has_surface_form	UK
+6458_20	is_in_sentence	sentence_6458
+6458_20	punct	6458_6
+6458_20	has_surface_form	.
+6458_21	is_in_sentence	sentence_6458
+6458_21	dep	6458_6
+6458_21	has_surface_form	
+Aston Medical School	surface_form	Aston Medical School
+Aston Medical School	is-where	Birmingham

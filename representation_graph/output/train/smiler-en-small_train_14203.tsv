@@ -1,0 +1,65 @@
+14202_0	is_in_sentence	sentence_14202
+14202_0	compound	14202_1
+14202_0	has_surface_form	Roy
+14202_0	part_of_entity	Roy Kidd
+14202_1	is_in_sentence	sentence_14202
+14202_1	nsubj	14202_9
+14202_1	has_surface_form	Kidd
+14202_1	part_of_entity	Roy Kidd
+14202_9	is_in_sentence	sentence_14202
+14202_9	ROOT	14202_9
+14202_9	has_surface_form	is
+14202_2	is_in_sentence	sentence_14202
+14202_2	punct	14202_3
+14202_2	has_surface_form	(
+14202_3	is_in_sentence	sentence_14202
+14202_3	acl	14202_1
+14202_3	has_surface_form	born
+14202_4	is_in_sentence	sentence_14202
+14202_4	npadvmod	14202_3
+14202_4	has_surface_form	December
+14202_5	is_in_sentence	sentence_14202
+14202_5	nummod	14202_4
+14202_5	has_surface_form	4
+14202_6	is_in_sentence	sentence_14202
+14202_6	punct	14202_4
+14202_6	has_surface_form	,
+14202_7	is_in_sentence	sentence_14202
+14202_7	nummod	14202_4
+14202_7	has_surface_form	1931
+14202_8	is_in_sentence	sentence_14202
+14202_8	punct	14202_1
+14202_8	has_surface_form	)
+14202_10	is_in_sentence	sentence_14202
+14202_10	det	14202_15
+14202_10	has_surface_form	a
+14202_15	is_in_sentence	sentence_14202
+14202_15	attr	14202_9
+14202_15	has_surface_form	player
+14202_11	is_in_sentence	sentence_14202
+14202_11	amod	14202_15
+14202_11	has_surface_form	former
+14202_12	is_in_sentence	sentence_14202
+14202_12	amod	14202_14
+14202_12	has_surface_form	collegiate
+14202_14	is_in_sentence	sentence_14202
+14202_14	compound	14202_15
+14202_14	has_surface_form	league
+14202_13	is_in_sentence	sentence_14202
+14202_13	compound	14202_14
+14202_13	has_surface_form	football
+14202_16	is_in_sentence	sentence_14202
+14202_16	cc	14202_15
+14202_16	has_surface_form	and
+14202_17	is_in_sentence	sentence_14202
+14202_17	conj	14202_15
+14202_17	is_entity	coach
+coach	surface_form	coach
+14202_18	is_in_sentence	sentence_14202
+14202_18	punct	14202_9
+14202_18	has_surface_form	.
+14202_19	is_in_sentence	sentence_14202
+14202_19	dep	14202_19
+14202_19	has_surface_form	
+Roy Kidd	surface_form	Roy Kidd
+Roy Kidd	has-type	coach

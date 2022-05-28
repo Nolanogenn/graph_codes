@@ -1,0 +1,59 @@
+18605_0	is_in_sentence	sentence_18605
+18605_0	compound	18605_1
+18605_0	has_surface_form	Gary
+18605_0	part_of_entity	Gary Knecht
+18605_1	is_in_sentence	sentence_18605
+18605_1	nsubj	18605_2
+18605_1	has_surface_form	Knecht
+18605_1	part_of_entity	Gary Knecht
+18605_2	is_in_sentence	sentence_18605
+18605_2	ROOT	18605_2
+18605_2	has_surface_form	is
+18605_3	is_in_sentence	sentence_18605
+18605_3	det	18605_5
+18605_3	has_surface_form	a
+18605_5	is_in_sentence	sentence_18605
+18605_5	attr	18605_2
+18605_5	has_surface_form	member
+18605_4	is_in_sentence	sentence_18605
+18605_4	compound	18605_5
+18605_4	has_surface_form	faculty
+18605_6	is_in_sentence	sentence_18605
+18605_6	prep	18605_5
+18605_6	has_surface_form	at
+18605_7	is_in_sentence	sentence_18605
+18605_7	compound	18605_9
+18605_7	has_surface_form	Azusa
+18605_9	is_in_sentence	sentence_18605
+18605_9	pobj	18605_6
+18605_9	has_surface_form	University
+18605_8	is_in_sentence	sentence_18605
+18605_8	compound	18605_9
+18605_8	has_surface_form	Pacific
+18605_10	is_in_sentence	sentence_18605
+18605_10	cc	18605_5
+18605_10	has_surface_form	and
+18605_11	is_in_sentence	sentence_18605
+18605_11	amod	18605_14
+18605_11	has_surface_form	former
+18605_14	is_in_sentence	sentence_18605
+18605_14	conj	18605_5
+18605_14	has_surface_form	coach
+18605_14	part_of_entity	college football coach
+18605_12	is_in_sentence	sentence_18605
+18605_12	compound	18605_13
+18605_12	has_surface_form	college
+18605_12	part_of_entity	college football coach
+18605_13	is_in_sentence	sentence_18605
+18605_13	compound	18605_14
+18605_13	has_surface_form	football
+18605_13	part_of_entity	college football coach
+18605_15	is_in_sentence	sentence_18605
+18605_15	punct	18605_2
+18605_15	has_surface_form	.
+18605_16	is_in_sentence	sentence_18605
+18605_16	dep	18605_16
+18605_16	has_surface_form	
+Gary Knecht	surface_form	Gary Knecht
+Gary Knecht	has-type	college football coach
+college football coach	surface_form	college football coach

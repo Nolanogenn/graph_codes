@@ -1,0 +1,53 @@
+12820_0	is_in_sentence	sentence_12820
+12820_0	compound	12820_1
+12820_0	has_surface_form	Pier
+12820_0	part_of_entity	Pier Milan
+12820_1	is_in_sentence	sentence_12820
+12820_1	nsubj	12820_2
+12820_1	has_surface_form	Milan
+12820_1	part_of_entity	Pier Milan
+12820_2	is_in_sentence	sentence_12820
+12820_2	ROOT	12820_2
+12820_2	has_surface_form	is
+12820_3	is_in_sentence	sentence_12820
+12820_3	det	12820_4
+12820_3	has_surface_form	a
+12820_4	is_in_sentence	sentence_12820
+12820_4	attr	12820_2
+12820_4	is_entity	town
+town	surface_form	town
+12820_5	is_in_sentence	sentence_12820
+12820_5	prep	12820_4
+12820_5	has_surface_form	in
+12820_6	is_in_sentence	sentence_12820
+12820_6	det	12820_7
+12820_6	has_surface_form	the
+12820_7	is_in_sentence	sentence_12820
+12820_7	pobj	12820_5
+12820_7	has_surface_form	Shire
+12820_8	is_in_sentence	sentence_12820
+12820_8	prep	12820_7
+12820_8	has_surface_form	of
+12820_9	is_in_sentence	sentence_12820
+12820_9	pobj	12820_8
+12820_9	has_surface_form	Buloke
+12820_10	is_in_sentence	sentence_12820
+12820_10	punct	12820_9
+12820_10	has_surface_form	,
+12820_11	is_in_sentence	sentence_12820
+12820_11	conj	12820_9
+12820_11	has_surface_form	Victoria
+12820_12	is_in_sentence	sentence_12820
+12820_12	punct	12820_11
+12820_12	has_surface_form	,
+12820_13	is_in_sentence	sentence_12820
+12820_13	appos	12820_11
+12820_13	has_surface_form	Australia
+12820_14	is_in_sentence	sentence_12820
+12820_14	punct	12820_2
+12820_14	has_surface_form	.
+12820_15	is_in_sentence	sentence_12820
+12820_15	dep	12820_2
+12820_15	has_surface_form	
+Pier Milan	surface_form	Pier Milan
+Pier Milan	has-type	town

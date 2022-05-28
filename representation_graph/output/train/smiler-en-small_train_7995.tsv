@@ -1,0 +1,79 @@
+7994_0	is_in_sentence	sentence_7994
+7994_0	compound	7994_1
+7994_0	has_surface_form	Elephant
+7994_0	part_of_entity	Elephant Fury
+7994_1	is_in_sentence	sentence_7994
+7994_1	nsubj	7994_8
+7994_1	has_surface_form	Fury
+7994_1	part_of_entity	Elephant Fury
+7994_8	is_in_sentence	sentence_7994
+7994_8	ROOT	7994_8
+7994_8	has_surface_form	is
+7994_2	is_in_sentence	sentence_7994
+7994_2	punct	7994_3
+7994_2	has_surface_form	(
+7994_3	is_in_sentence	sentence_7994
+7994_3	parataxis	7994_1
+7994_3	has_surface_form	German
+7994_4	is_in_sentence	sentence_7994
+7994_4	punct	7994_3
+7994_4	has_surface_form	:
+7994_5	is_in_sentence	sentence_7994
+7994_5	compound	7994_6
+7994_5	has_surface_form	Gesprengte
+7994_6	is_in_sentence	sentence_7994
+7994_6	appos	7994_3
+7994_6	has_surface_form	Gitter
+7994_7	is_in_sentence	sentence_7994
+7994_7	punct	7994_3
+7994_7	has_surface_form	)
+7994_9	is_in_sentence	sentence_7994
+7994_9	det	7994_15
+7994_9	has_surface_form	a
+7994_15	is_in_sentence	sentence_7994
+7994_15	attr	7994_8
+7994_15	has_surface_form	film
+7994_10	is_in_sentence	sentence_7994
+7994_10	nummod	7994_15
+7994_10	has_surface_form	1953
+7994_11	is_in_sentence	sentence_7994
+7994_11	amod	7994_12
+7994_11	has_surface_form	West
+7994_12	is_in_sentence	sentence_7994
+7994_12	amod	7994_15
+7994_12	has_surface_form	German
+7994_13	is_in_sentence	sentence_7994
+7994_13	compound	7994_14
+7994_13	has_surface_form	drama
+7994_14	is_in_sentence	sentence_7994
+7994_14	compound	7994_15
+7994_14	has_surface_form	war
+7994_16	is_in_sentence	sentence_7994
+7994_16	acl	7994_15
+7994_16	has_surface_form	directed
+7994_17	is_in_sentence	sentence_7994
+7994_17	agent	7994_16
+7994_17	has_surface_form	by
+7994_18	is_in_sentence	sentence_7994
+7994_18	cc	7994_16
+7994_18	has_surface_form	and
+7994_19	is_in_sentence	sentence_7994
+7994_19	conj	7994_16
+7994_19	has_surface_form	starring
+7994_20	is_in_sentence	sentence_7994
+7994_20	compound	7994_21
+7994_20	has_surface_form	Harry
+7994_20	part_of_entity	Harry Piel
+7994_21	is_in_sentence	sentence_7994
+7994_21	dobj	7994_19
+7994_21	has_surface_form	Piel
+7994_21	part_of_entity	Harry Piel
+7994_22	is_in_sentence	sentence_7994
+7994_22	punct	7994_8
+7994_22	has_surface_form	.
+7994_23	is_in_sentence	sentence_7994
+7994_23	dep	7994_8
+7994_23	has_surface_form	
+Elephant Fury	surface_form	Elephant Fury
+Elephant Fury	starring	Harry Piel
+Harry Piel	surface_form	Harry Piel

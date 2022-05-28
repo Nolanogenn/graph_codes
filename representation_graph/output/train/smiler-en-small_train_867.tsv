@@ -1,0 +1,108 @@
+866_0	is_in_sentence	sentence_866
+866_0	punct	866_2
+866_0	has_surface_form	*
+866_2	is_in_sentence	sentence_866
+866_2	nsubj	866_4
+866_2	has_surface_form	d'Amory
+866_2	part_of_entity	Elizabeth d'Amory
+866_1	is_in_sentence	sentence_866
+866_1	compound	866_2
+866_1	has_surface_form	Elizabeth
+866_1	part_of_entity	Elizabeth d'Amory
+866_4	is_in_sentence	sentence_866
+866_4	ROOT	866_4
+866_4	has_surface_form	died
+866_3	is_in_sentence	sentence_866
+866_3	punct	866_4
+866_3	has_surface_form	(
+866_5	is_in_sentence	sentence_866
+866_5	prep	866_4
+866_5	has_surface_form	before
+866_6	is_in_sentence	sentence_866
+866_6	poss	866_7
+866_6	has_surface_form	her
+866_7	is_in_sentence	sentence_866
+866_7	pobj	866_5
+866_7	has_surface_form	husband
+866_8	is_in_sentence	sentence_866
+866_8	punct	866_7
+866_8	has_surface_form	)
+866_9	is_in_sentence	sentence_866
+866_9	nsubj	866_10
+866_9	has_surface_form	who
+866_10	is_in_sentence	sentence_866
+866_10	relcl	866_7
+866_10	has_surface_form	married
+866_11	is_in_sentence	sentence_866
+866_11	compound	866_12
+866_11	has_surface_form	John
+866_12	is_in_sentence	sentence_866
+866_12	dobj	866_10
+866_12	has_surface_form	Bardolf
+866_13	is_in_sentence	sentence_866
+866_13	punct	866_12
+866_13	has_surface_form	,
+866_14	is_in_sentence	sentence_866
+866_14	compound	866_16
+866_14	has_surface_form	3rd
+866_16	is_in_sentence	sentence_866
+866_16	conj	866_12
+866_16	has_surface_form	Bardolf
+866_15	is_in_sentence	sentence_866
+866_15	compound	866_16
+866_15	has_surface_form	Lord
+866_17	is_in_sentence	sentence_866
+866_17	punct	866_18
+866_17	has_surface_form	(
+866_18	is_in_sentence	sentence_866
+866_18	appos	866_16
+866_18	has_surface_form	1311&ndash;1363
+866_19	is_in_sentence	sentence_866
+866_19	punct	866_16
+866_19	has_surface_form	)
+866_20	is_in_sentence	sentence_866
+866_20	cc	866_10
+866_20	has_surface_form	and
+866_21	is_in_sentence	sentence_866
+866_21	conj	866_10
+866_21	has_surface_form	was
+866_22	is_in_sentence	sentence_866
+866_22	attr	866_21
+866_22	has_surface_form	mother
+866_23	is_in_sentence	sentence_866
+866_23	prep	866_22
+866_23	has_surface_form	to
+866_24	is_in_sentence	sentence_866
+866_24	compound	866_25
+866_24	has_surface_form	William
+866_24	part_of_entity	William 4th Lord Bardolf
+866_25	is_in_sentence	sentence_866
+866_25	compound	866_27
+866_25	has_surface_form	4th
+866_25	part_of_entity	William 4th Lord Bardolf
+866_27	is_in_sentence	sentence_866
+866_27	pobj	866_23
+866_27	has_surface_form	Bardolf
+866_27	part_of_entity	William 4th Lord Bardolf
+866_26	is_in_sentence	sentence_866
+866_26	compound	866_27
+866_26	has_surface_form	Lord
+866_26	part_of_entity	William 4th Lord Bardolf
+866_28	is_in_sentence	sentence_866
+866_28	punct	866_27
+866_28	has_surface_form	(
+866_29	is_in_sentence	sentence_866
+866_29	npadvmod	866_27
+866_29	has_surface_form	1349&ndash;1386
+866_30	is_in_sentence	sentence_866
+866_30	punct	866_27
+866_30	has_surface_form	)
+866_31	is_in_sentence	sentence_866
+866_31	punct	866_4
+866_31	has_surface_form	.
+866_32	is_in_sentence	sentence_866
+866_32	dep	866_32
+866_32	has_surface_form	
+Elizabeth d'Amory	surface_form	Elizabeth d'Amory
+Elizabeth d'Amory	has-child	William 4th Lord Bardolf
+William 4th Lord Bardolf	surface_form	William 4th Lord Bardolf

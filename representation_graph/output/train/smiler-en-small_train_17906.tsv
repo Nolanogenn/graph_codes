@@ -1,0 +1,75 @@
+17905_0	is_in_sentence	sentence_17905
+17905_0	compound	17905_2
+17905_0	has_surface_form	Ullathil
+17905_0	part_of_entity	Ullathil Nalla Ullam
+17905_2	is_in_sentence	sentence_17905
+17905_2	ROOT	17905_2
+17905_2	has_surface_form	Ullam
+17905_2	part_of_entity	Ullathil Nalla Ullam
+17905_1	is_in_sentence	sentence_17905
+17905_1	compound	17905_2
+17905_1	has_surface_form	Nalla
+17905_1	part_of_entity	Ullathil Nalla Ullam
+17905_3	is_in_sentence	sentence_17905
+17905_3	punct	17905_4
+17905_3	has_surface_form	(
+17905_4	is_in_sentence	sentence_17905
+17905_4	appos	17905_2
+17905_4	has_surface_form	lit
+17905_5	is_in_sentence	sentence_17905
+17905_5	punct	17905_2
+17905_5	has_surface_form	.
+17905_6	is_in_sentence	sentence_17905
+17905_6	dep	17905_9
+17905_6	has_surface_form	 
+17905_9	is_in_sentence	sentence_17905
+17905_9	nsubj	17905_11
+17905_9	has_surface_form	heart
+17905_7	is_in_sentence	sentence_17905
+17905_7	det	17905_9
+17905_7	has_surface_form	The
+17905_8	is_in_sentence	sentence_17905
+17905_8	amod	17905_9
+17905_8	has_surface_form	good
+17905_11	is_in_sentence	sentence_17905
+17905_11	ROOT	17905_11
+17905_11	has_surface_form	is
+17905_10	is_in_sentence	sentence_17905
+17905_10	punct	17905_9
+17905_10	has_surface_form	)
+17905_12	is_in_sentence	sentence_17905
+17905_12	det	17905_17
+17905_12	has_surface_form	a
+17905_17	is_in_sentence	sentence_17905
+17905_17	attr	17905_11
+17905_17	has_surface_form	film
+17905_13	is_in_sentence	sentence_17905
+17905_13	nummod	17905_17
+17905_13	has_surface_form	1988
+17905_14	is_in_sentence	sentence_17905
+17905_14	compound	17905_17
+17905_14	has_surface_form	Tamil
+17905_15	is_in_sentence	sentence_17905
+17905_15	compound	17905_16
+17905_15	has_surface_form	action
+17905_16	is_in_sentence	sentence_17905
+17905_16	compound	17905_17
+17905_16	has_surface_form	drama
+17905_18	is_in_sentence	sentence_17905
+17905_18	acl	17905_17
+17905_18	has_surface_form	directed
+17905_19	is_in_sentence	sentence_17905
+17905_19	agent	17905_18
+17905_19	has_surface_form	by
+17905_20	is_in_sentence	sentence_17905
+17905_20	pobj	17905_19
+17905_20	is_entity	Manivannan
+Manivannan	surface_form	Manivannan
+17905_21	is_in_sentence	sentence_17905
+17905_21	punct	17905_11
+17905_21	has_surface_form	.
+17905_22	is_in_sentence	sentence_17905
+17905_22	dep	17905_22
+17905_22	has_surface_form	
+Ullathil Nalla Ullam	surface_form	Ullathil Nalla Ullam
+Ullathil Nalla Ullam	movie-has-director	Manivannan

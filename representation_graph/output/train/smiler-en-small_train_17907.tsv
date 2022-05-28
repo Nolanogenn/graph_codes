@@ -1,0 +1,63 @@
+17906_0	is_in_sentence	sentence_17906
+17906_0	compound	17906_1
+17906_0	has_surface_form	North
+17906_0	part_of_entity	North Carolina Highway 133
+17906_1	is_in_sentence	sentence_17906
+17906_1	compound	17906_2
+17906_1	has_surface_form	Carolina
+17906_1	part_of_entity	North Carolina Highway 133
+17906_2	is_in_sentence	sentence_17906
+17906_2	nsubj	17906_9
+17906_2	has_surface_form	Highway
+17906_2	part_of_entity	North Carolina Highway 133
+17906_9	is_in_sentence	sentence_17906
+17906_9	ROOT	17906_9
+17906_9	has_surface_form	is
+17906_3	is_in_sentence	sentence_17906
+17906_3	nummod	17906_2
+17906_3	has_surface_form	133
+17906_3	part_of_entity	North Carolina Highway 133
+17906_4	is_in_sentence	sentence_17906
+17906_4	punct	17906_2
+17906_4	has_surface_form	(
+17906_5	is_in_sentence	sentence_17906
+17906_5	compound	17906_6
+17906_5	has_surface_form	NC
+17906_6	is_in_sentence	sentence_17906
+17906_6	dep	17906_2
+17906_6	has_surface_form	 
+17906_7	is_in_sentence	sentence_17906
+17906_7	nummod	17906_6
+17906_7	has_surface_form	133
+17906_8	is_in_sentence	sentence_17906
+17906_8	punct	17906_2
+17906_8	has_surface_form	)
+17906_10	is_in_sentence	sentence_17906
+17906_10	det	17906_13
+17906_10	has_surface_form	a
+17906_13	is_in_sentence	sentence_17906
+17906_13	attr	17906_9
+17906_13	has_surface_form	highway
+17906_13	part_of_entity	state highway
+17906_11	is_in_sentence	sentence_17906
+17906_11	amod	17906_13
+17906_11	has_surface_form	primary
+17906_12	is_in_sentence	sentence_17906
+17906_12	compound	17906_13
+17906_12	has_surface_form	state
+17906_12	part_of_entity	state highway
+17906_14	is_in_sentence	sentence_17906
+17906_14	prep	17906_13
+17906_14	has_surface_form	in
+17906_15	is_in_sentence	sentence_17906
+17906_15	det	17906_16
+17906_15	has_surface_form	the
+17906_16	is_in_sentence	sentence_17906
+17906_16	pobj	17906_14
+17906_16	has_surface_form	U.
+17906_17	is_in_sentence	sentence_17906
+17906_17	dep	17906_9
+17906_17	has_surface_form	
+North Carolina Highway 133	surface_form	North Carolina Highway 133
+North Carolina Highway 133	has-type	state highway
+state highway	surface_form	state highway

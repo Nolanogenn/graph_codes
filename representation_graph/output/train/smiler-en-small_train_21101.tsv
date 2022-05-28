@@ -1,0 +1,105 @@
+21100_0	is_in_sentence	sentence_21100
+21100_0	compound	21100_1
+21100_0	has_surface_form	Akihisa
+21100_0	part_of_entity	Akihisa Makida
+21100_1	is_in_sentence	sentence_21100
+21100_1	ROOT	21100_1
+21100_1	has_surface_form	Makida
+21100_1	part_of_entity	Akihisa Makida
+21100_2	is_in_sentence	sentence_21100
+21100_2	punct	21100_12
+21100_2	has_surface_form	(
+21100_12	is_in_sentence	sentence_21100
+21100_12	parataxis	21100_1
+21100_12	has_surface_form	is
+21100_3	is_in_sentence	sentence_21100
+21100_3	nsubj	21100_12
+21100_3	has_surface_form	牧田
+21100_4	is_in_sentence	sentence_21100
+21100_4	intj	21100_3
+21100_4	has_surface_form	明久
+21100_5	is_in_sentence	sentence_21100
+21100_5	punct	21100_4
+21100_5	has_surface_form	,
+21100_6	is_in_sentence	sentence_21100
+21100_6	acl	21100_3
+21100_6	has_surface_form	born
+21100_7	is_in_sentence	sentence_21100
+21100_7	npadvmod	21100_6
+21100_7	has_surface_form	June
+21100_8	is_in_sentence	sentence_21100
+21100_8	nummod	21100_7
+21100_8	has_surface_form	3
+21100_9	is_in_sentence	sentence_21100
+21100_9	punct	21100_7
+21100_9	has_surface_form	,
+21100_10	is_in_sentence	sentence_21100
+21100_10	nummod	21100_7
+21100_10	has_surface_form	1982
+21100_11	is_in_sentence	sentence_21100
+21100_11	punct	21100_7
+21100_11	has_surface_form	)
+21100_13	is_in_sentence	sentence_21100
+21100_13	det	21100_17
+21100_13	has_surface_form	a
+21100_17	is_in_sentence	sentence_21100
+21100_17	attr	21100_12
+21100_17	has_surface_form	outfielder
+21100_14	is_in_sentence	sentence_21100
+21100_14	amod	21100_17
+21100_14	has_surface_form	Japanese
+21100_15	is_in_sentence	sentence_21100
+21100_15	amod	21100_17
+21100_15	has_surface_form	professional
+21100_16	is_in_sentence	sentence_21100
+21100_16	compound	21100_17
+21100_16	has_surface_form	baseball
+21100_18	is_in_sentence	sentence_21100
+21100_18	prep	21100_17
+21100_18	has_surface_form	for
+21100_19	is_in_sentence	sentence_21100
+21100_19	det	21100_23
+21100_19	has_surface_form	the
+21100_23	is_in_sentence	sentence_21100
+21100_23	pobj	21100_18
+21100_23	has_surface_form	Eagles
+21100_23	part_of_entity	Tohoku Rakuten Golden Eagles
+21100_20	is_in_sentence	sentence_21100
+21100_20	compound	21100_23
+21100_20	has_surface_form	Tohoku
+21100_20	part_of_entity	Tohoku Rakuten Golden Eagles
+21100_21	is_in_sentence	sentence_21100
+21100_21	compound	21100_23
+21100_21	has_surface_form	Rakuten
+21100_21	part_of_entity	Tohoku Rakuten Golden Eagles
+21100_22	is_in_sentence	sentence_21100
+21100_22	compound	21100_23
+21100_22	has_surface_form	Golden
+21100_22	part_of_entity	Tohoku Rakuten Golden Eagles
+21100_24	is_in_sentence	sentence_21100
+21100_24	prep	21100_23
+21100_24	has_surface_form	in
+21100_25	is_in_sentence	sentence_21100
+21100_25	poss	21100_29
+21100_25	has_surface_form	Japan
+21100_29	is_in_sentence	sentence_21100
+21100_29	pobj	21100_24
+21100_29	has_surface_form	Baseball
+21100_26	is_in_sentence	sentence_21100
+21100_26	case	21100_25
+21100_26	has_surface_form	's
+21100_27	is_in_sentence	sentence_21100
+21100_27	compound	21100_29
+21100_27	has_surface_form	Nippon
+21100_28	is_in_sentence	sentence_21100
+21100_28	compound	21100_29
+21100_28	has_surface_form	Professional
+21100_30	is_in_sentence	sentence_21100
+21100_30	punct	21100_12
+21100_30	has_surface_form	.
+21100_31	is_in_sentence	sentence_21100
+21100_31	dep	21100_31
+21100_31	has_surface_form	
+Akihisa Makida	surface_form	Akihisa Makida
+Akihisa Makida	is-member-of	Tohoku Rakuten Golden Eagles
+Tohoku Rakuten Golden Eagles	surface_form	Tohoku Rakuten Golden Eagles

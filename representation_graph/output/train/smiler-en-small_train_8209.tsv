@@ -1,0 +1,61 @@
+8208_0	is_in_sentence	sentence_8208
+8208_0	compound	8208_1
+8208_0	has_surface_form	Port
+8208_0	part_of_entity	Port O'Brien
+8208_1	is_in_sentence	sentence_8208
+8208_1	nsubj	8208_2
+8208_1	has_surface_form	O'Brien
+8208_1	part_of_entity	Port O'Brien
+8208_2	is_in_sentence	sentence_8208
+8208_2	ROOT	8208_2
+8208_2	has_surface_form	was
+8208_3	is_in_sentence	sentence_8208
+8208_3	det	8208_6
+8208_3	has_surface_form	an
+8208_6	is_in_sentence	sentence_8208
+8208_6	attr	8208_2
+8208_6	has_surface_form	group
+8208_4	is_in_sentence	sentence_8208
+8208_4	amod	8208_6
+8208_4	has_surface_form	American
+8208_5	is_in_sentence	sentence_8208
+8208_5	amod	8208_6
+8208_5	has_surface_form	musical
+8208_7	is_in_sentence	sentence_8208
+8208_7	acl	8208_6
+8208_7	has_surface_form	combining
+8208_8	is_in_sentence	sentence_8208
+8208_8	dobj	8208_7
+8208_8	has_surface_form	elements
+8208_9	is_in_sentence	sentence_8208
+8208_9	prep	8208_8
+8208_9	has_surface_form	of
+8208_10	is_in_sentence	sentence_8208
+8208_10	amod	8208_12
+8208_10	has_surface_form	acoustic
+8208_12	is_in_sentence	sentence_8208
+8208_12	pobj	8208_9
+8208_12	has_surface_form	folk
+8208_11	is_in_sentence	sentence_8208
+8208_11	punct	8208_12
+8208_11	has_surface_form	,
+8208_13	is_in_sentence	sentence_8208
+8208_13	cc	8208_12
+8208_13	has_surface_form	and
+8208_14	is_in_sentence	sentence_8208
+8208_14	amod	8208_15
+8208_14	has_surface_form	indie
+8208_14	part_of_entity	indie rock
+8208_15	is_in_sentence	sentence_8208
+8208_15	conj	8208_12
+8208_15	has_surface_form	rock
+8208_15	part_of_entity	indie rock
+8208_16	is_in_sentence	sentence_8208
+8208_16	punct	8208_2
+8208_16	has_surface_form	.
+8208_17	is_in_sentence	sentence_8208
+8208_17	dep	8208_17
+8208_17	has_surface_form	
+Port O'Brien	surface_form	Port O'Brien
+Port O'Brien	has-genre	indie rock
+indie rock	surface_form	indie rock

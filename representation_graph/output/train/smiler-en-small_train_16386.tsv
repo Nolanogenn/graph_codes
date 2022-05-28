@@ -1,0 +1,128 @@
+16385_0	is_in_sentence	sentence_16385
+16385_0	nsubj	16385_6
+16385_0	has_surface_form	Santa
+16385_0	part_of_entity	Santa and the Ice Cream Bunny
+16385_6	is_in_sentence	sentence_16385
+16385_6	ROOT	16385_6
+16385_6	has_surface_form	is
+16385_1	is_in_sentence	sentence_16385
+16385_1	cc	16385_0
+16385_1	has_surface_form	and
+16385_1	part_of_entity	Santa and the Ice Cream Bunny
+16385_2	is_in_sentence	sentence_16385
+16385_2	det	16385_5
+16385_2	has_surface_form	the
+16385_2	part_of_entity	Santa and the Ice Cream Bunny
+16385_5	is_in_sentence	sentence_16385
+16385_5	conj	16385_0
+16385_5	has_surface_form	Bunny
+16385_5	part_of_entity	Santa and the Ice Cream Bunny
+16385_3	is_in_sentence	sentence_16385
+16385_3	compound	16385_4
+16385_3	has_surface_form	Ice
+16385_3	part_of_entity	Santa and the Ice Cream Bunny
+16385_4	is_in_sentence	sentence_16385
+16385_4	compound	16385_5
+16385_4	has_surface_form	Cream
+16385_4	part_of_entity	Santa and the Ice Cream Bunny
+16385_7	is_in_sentence	sentence_16385
+16385_7	det	16385_12
+16385_7	has_surface_form	a
+16385_12	is_in_sentence	sentence_16385
+16385_12	attr	16385_6
+16385_12	has_surface_form	film
+16385_8	is_in_sentence	sentence_16385
+16385_8	nummod	16385_12
+16385_8	has_surface_form	1972
+16385_9	is_in_sentence	sentence_16385
+16385_9	amod	16385_12
+16385_9	has_surface_form	American
+16385_10	is_in_sentence	sentence_16385
+16385_10	amod	16385_11
+16385_10	has_surface_form	musical
+16385_11	is_in_sentence	sentence_16385
+16385_11	compound	16385_12
+16385_11	has_surface_form	fantasy
+16385_13	is_in_sentence	sentence_16385
+16385_13	acl	16385_12
+16385_13	has_surface_form	written
+16385_14	is_in_sentence	sentence_16385
+16385_14	punct	16385_13
+16385_14	has_surface_form	,
+16385_15	is_in_sentence	sentence_16385
+16385_15	conj	16385_13
+16385_15	has_surface_form	composed
+16385_16	is_in_sentence	sentence_16385
+16385_16	punct	16385_15
+16385_16	has_surface_form	,
+16385_17	is_in_sentence	sentence_16385
+16385_17	conj	16385_15
+16385_17	has_surface_form	shot
+16385_18	is_in_sentence	sentence_16385
+16385_18	punct	16385_17
+16385_18	has_surface_form	,
+16385_19	is_in_sentence	sentence_16385
+16385_19	acl	16385_12
+16385_19	has_surface_form	edited
+16385_20	is_in_sentence	sentence_16385
+16385_20	cc	16385_19
+16385_20	has_surface_form	and
+16385_21	is_in_sentence	sentence_16385
+16385_21	conj	16385_19
+16385_21	has_surface_form	directed
+16385_22	is_in_sentence	sentence_16385
+16385_22	agent	16385_21
+16385_22	has_surface_form	by
+16385_23	is_in_sentence	sentence_16385
+16385_23	compound	16385_24
+16385_23	has_surface_form	R.
+16385_23	part_of_entity	R. Winer
+16385_24	is_in_sentence	sentence_16385
+16385_24	pobj	16385_22
+16385_24	has_surface_form	Winer
+16385_24	part_of_entity	R. Winer
+16385_25	is_in_sentence	sentence_16385
+16385_25	aux	16385_26
+16385_25	has_surface_form	to
+16385_26	is_in_sentence	sentence_16385
+16385_26	advcl	16385_21
+16385_26	has_surface_form	frame
+16385_27	is_in_sentence	sentence_16385
+16385_27	compound	16385_28
+16385_27	has_surface_form	Barry
+16385_28	is_in_sentence	sentence_16385
+16385_28	poss	16385_32
+16385_28	has_surface_form	Mahon
+16385_32	is_in_sentence	sentence_16385
+16385_32	dobj	16385_26
+16385_32	has_surface_form	films
+16385_29	is_in_sentence	sentence_16385
+16385_29	case	16385_28
+16385_29	has_surface_form	's
+16385_30	is_in_sentence	sentence_16385
+16385_30	compound	16385_31
+16385_30	has_surface_form	Childhood
+16385_31	is_in_sentence	sentence_16385
+16385_31	compound	16385_32
+16385_31	has_surface_form	Productions
+16385_33	is_in_sentence	sentence_16385
+16385_33	prep	16385_32
+16385_33	has_surface_form	for
+16385_34	is_in_sentence	sentence_16385
+16385_34	det	16385_36
+16385_34	has_surface_form	a
+16385_36	is_in_sentence	sentence_16385
+16385_36	pobj	16385_33
+16385_36	has_surface_form	release
+16385_35	is_in_sentence	sentence_16385
+16385_35	compound	16385_36
+16385_35	has_surface_form	Christmas
+16385_37	is_in_sentence	sentence_16385
+16385_37	punct	16385_6
+16385_37	has_surface_form	.
+16385_38	is_in_sentence	sentence_16385
+16385_38	dep	16385_6
+16385_38	has_surface_form	
+Santa and the Ice Cream Bunny	surface_form	Santa and the Ice Cream Bunny
+Santa and the Ice Cream Bunny	movie-has-director	R. Winer
+R. Winer	surface_form	R. Winer

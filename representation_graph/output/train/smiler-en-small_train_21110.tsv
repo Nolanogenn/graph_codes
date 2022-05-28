@@ -1,0 +1,59 @@
+21109_0	is_in_sentence	sentence_21109
+21109_0	prep	21109_6
+21109_0	has_surface_form	In
+21109_6	is_in_sentence	sentence_21109
+21109_6	ROOT	21109_6
+21109_6	has_surface_form	released
+21109_1	is_in_sentence	sentence_21109
+21109_1	pobj	21109_0
+21109_1	has_surface_form	March
+21109_2	is_in_sentence	sentence_21109
+21109_2	nummod	21109_1
+21109_2	has_surface_form	2014
+21109_3	is_in_sentence	sentence_21109
+21109_3	punct	21109_6
+21109_3	has_surface_form	,
+21109_4	is_in_sentence	sentence_21109
+21109_4	compound	21109_5
+21109_4	has_surface_form	Neato
+21109_4	part_of_entity	Neato Robotics
+21109_5	is_in_sentence	sentence_21109
+21109_5	nsubj	21109_6
+21109_5	has_surface_form	Robotics
+21109_5	part_of_entity	Neato Robotics
+21109_7	is_in_sentence	sentence_21109
+21109_7	det	21109_9
+21109_7	has_surface_form	an
+21109_9	is_in_sentence	sentence_21109
+21109_9	dobj	21109_6
+21109_9	has_surface_form	model
+21109_8	is_in_sentence	sentence_21109
+21109_8	amod	21109_9
+21109_8	has_surface_form	expanded
+21109_10	is_in_sentence	sentence_21109
+21109_10	acl	21109_9
+21109_10	has_surface_form	dubbed
+21109_11	is_in_sentence	sentence_21109
+21109_11	oprd	21109_10
+21109_11	is_entity	BotVac
+BotVac	surface_form	BotVac
+21109_12	is_in_sentence	sentence_21109
+21109_12	acl	21109_11
+21109_12	has_surface_form	developed
+21109_13	is_in_sentence	sentence_21109
+21109_13	prep	21109_12
+21109_13	has_surface_form	over
+21109_14	is_in_sentence	sentence_21109
+21109_14	amod	21109_15
+21109_14	has_surface_form	several
+21109_15	is_in_sentence	sentence_21109
+21109_15	pobj	21109_13
+21109_15	has_surface_form	years
+21109_16	is_in_sentence	sentence_21109
+21109_16	punct	21109_6
+21109_16	has_surface_form	.
+21109_17	is_in_sentence	sentence_21109
+21109_17	dep	21109_17
+21109_17	has_surface_form	
+Neato Robotics	surface_form	Neato Robotics
+Neato Robotics	no_relation	BotVac

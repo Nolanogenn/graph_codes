@@ -1,0 +1,82 @@
+12072_0	is_in_sentence	sentence_12072
+12072_0	compound	12072_1
+12072_0	is_entity	Murrieta
+12072_0	part_of_entity	Murrieta Valley High School
+12072_1	is_in_sentence	sentence_12072
+12072_1	compound	12072_3
+12072_1	has_surface_form	Valley
+12072_1	part_of_entity	Murrieta Valley High School
+Murrieta	surface_form	Murrieta
+12072_3	is_in_sentence	sentence_12072
+12072_3	nsubj	12072_7
+12072_3	has_surface_form	School
+12072_3	part_of_entity	Murrieta Valley High School
+12072_2	is_in_sentence	sentence_12072
+12072_2	compound	12072_3
+12072_2	has_surface_form	High
+12072_2	part_of_entity	Murrieta Valley High School
+12072_7	is_in_sentence	sentence_12072
+12072_7	ROOT	12072_7
+12072_7	has_surface_form	opened
+12072_4	is_in_sentence	sentence_12072
+12072_4	punct	12072_5
+12072_4	has_surface_form	(
+12072_5	is_in_sentence	sentence_12072
+12072_5	appos	12072_3
+12072_5	has_surface_form	MVHS
+12072_6	is_in_sentence	sentence_12072
+12072_6	punct	12072_3
+12072_6	has_surface_form	)
+12072_8	is_in_sentence	sentence_12072
+12072_8	prep	12072_7
+12072_8	has_surface_form	in
+12072_9	is_in_sentence	sentence_12072
+12072_9	pobj	12072_8
+12072_9	has_surface_form	1990
+12072_10	is_in_sentence	sentence_12072
+12072_10	prep	12072_7
+12072_10	has_surface_form	as
+12072_11	is_in_sentence	sentence_12072
+12072_11	det	12072_18
+12072_11	has_surface_form	the
+12072_18	is_in_sentence	sentence_12072
+12072_18	pobj	12072_10
+12072_18	has_surface_form	school
+12072_12	is_in_sentence	sentence_12072
+12072_12	amod	12072_18
+12072_12	has_surface_form	first
+12072_13	is_in_sentence	sentence_12072
+12072_13	nummod	12072_15
+12072_13	has_surface_form	four
+12072_15	is_in_sentence	sentence_12072
+12072_15	nmod	12072_18
+12072_15	has_surface_form	year
+12072_14	is_in_sentence	sentence_12072
+12072_14	punct	12072_15
+12072_14	has_surface_form	-
+12072_16	is_in_sentence	sentence_12072
+12072_16	amod	12072_18
+12072_16	has_surface_form	comprehensive
+12072_17	is_in_sentence	sentence_12072
+12072_17	amod	12072_18
+12072_17	has_surface_form	high
+12072_19	is_in_sentence	sentence_12072
+12072_19	prep	12072_18
+12072_19	has_surface_form	in
+12072_20	is_in_sentence	sentence_12072
+12072_20	pobj	12072_19
+12072_20	is_entity	Murrieta
+12072_21	is_in_sentence	sentence_12072
+12072_21	punct	12072_20
+12072_21	has_surface_form	,
+12072_22	is_in_sentence	sentence_12072
+12072_22	appos	12072_20
+12072_22	has_surface_form	California
+12072_23	is_in_sentence	sentence_12072
+12072_23	punct	12072_7
+12072_23	has_surface_form	.
+12072_24	is_in_sentence	sentence_12072
+12072_24	dep	12072_24
+12072_24	has_surface_form	
+Murrieta Valley High School	surface_form	Murrieta Valley High School
+Murrieta Valley High School	is-where	Murrieta

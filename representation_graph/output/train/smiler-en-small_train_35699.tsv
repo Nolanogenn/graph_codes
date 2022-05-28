@@ -1,0 +1,96 @@
+35698_0	is_in_sentence	sentence_35698
+35698_0	compound	35698_1
+35698_0	has_surface_form	Robert
+35698_0	part_of_entity	Robert Macaire and Bertrand
+35698_1	is_in_sentence	sentence_35698
+35698_1	nsubj	35698_17
+35698_1	has_surface_form	Macaire
+35698_1	part_of_entity	Robert Macaire and Bertrand
+35698_17	is_in_sentence	sentence_35698
+35698_17	ROOT	35698_17
+35698_17	has_surface_form	is
+35698_2	is_in_sentence	sentence_35698
+35698_2	cc	35698_1
+35698_2	has_surface_form	and
+35698_2	part_of_entity	Robert Macaire and Bertrand
+35698_3	is_in_sentence	sentence_35698
+35698_3	conj	35698_1
+35698_3	has_surface_form	Bertrand
+35698_3	part_of_entity	Robert Macaire and Bertrand
+35698_4	is_in_sentence	sentence_35698
+35698_4	punct	35698_5
+35698_4	has_surface_form	(
+35698_5	is_in_sentence	sentence_35698
+35698_5	appos	35698_1
+35698_5	has_surface_form	French
+35698_6	is_in_sentence	sentence_35698
+35698_6	punct	35698_5
+35698_6	has_surface_form	:
+35698_7	is_in_sentence	sentence_35698
+35698_7	compound	35698_8
+35698_7	has_surface_form	Robert
+35698_8	is_in_sentence	sentence_35698
+35698_8	nsubj	35698_17
+35698_8	has_surface_form	Macaire
+35698_9	is_in_sentence	sentence_35698
+35698_9	compound	35698_10
+35698_9	has_surface_form	et
+35698_10	is_in_sentence	sentence_35698
+35698_10	appos	35698_8
+35698_10	has_surface_form	Bertrand
+35698_11	is_in_sentence	sentence_35698
+35698_11	punct	35698_8
+35698_11	has_surface_form	,
+35698_12	is_in_sentence	sentence_35698
+35698_12	nmod	35698_15
+35698_12	has_surface_form	les
+35698_15	is_in_sentence	sentence_35698
+35698_15	appos	35698_8
+35698_15	has_surface_form	cambrioleurs
+35698_13	is_in_sentence	sentence_35698
+35698_13	nmod	35698_15
+35698_13	has_surface_form	rois
+35698_14	is_in_sentence	sentence_35698
+35698_14	compound	35698_15
+35698_14	has_surface_form	de
+35698_16	is_in_sentence	sentence_35698
+35698_16	punct	35698_8
+35698_16	has_surface_form	)
+35698_18	is_in_sentence	sentence_35698
+35698_18	det	35698_22
+35698_18	has_surface_form	a
+35698_22	is_in_sentence	sentence_35698
+35698_22	attr	35698_17
+35698_22	has_surface_form	film
+35698_19	is_in_sentence	sentence_35698
+35698_19	nummod	35698_22
+35698_19	has_surface_form	1906
+35698_20	is_in_sentence	sentence_35698
+35698_20	amod	35698_22
+35698_20	has_surface_form	French
+35698_21	is_in_sentence	sentence_35698
+35698_21	amod	35698_22
+35698_21	has_surface_form	silent
+35698_23	is_in_sentence	sentence_35698
+35698_23	acl	35698_22
+35698_23	has_surface_form	directed
+35698_24	is_in_sentence	sentence_35698
+35698_24	agent	35698_23
+35698_24	has_surface_form	by
+35698_25	is_in_sentence	sentence_35698
+35698_25	compound	35698_26
+35698_25	has_surface_form	Georges
+35698_25	part_of_entity	Georges Méliès
+35698_26	is_in_sentence	sentence_35698
+35698_26	pobj	35698_24
+35698_26	has_surface_form	Méliès
+35698_26	part_of_entity	Georges Méliès
+35698_27	is_in_sentence	sentence_35698
+35698_27	punct	35698_17
+35698_27	has_surface_form	.
+35698_28	is_in_sentence	sentence_35698
+35698_28	dep	35698_17
+35698_28	has_surface_form	
+Robert Macaire and Bertrand	surface_form	Robert Macaire and Bertrand
+Robert Macaire and Bertrand	movie-has-director	Georges Méliès
+Georges Méliès	surface_form	Georges Méliès

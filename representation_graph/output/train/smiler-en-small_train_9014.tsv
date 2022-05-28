@@ -1,0 +1,62 @@
+9013_0	is_in_sentence	sentence_9013
+9013_0	nsubjpass	9013_2
+9013_0	is_entity	Dent
+9013_2	is_in_sentence	sentence_9013
+9013_2	ROOT	9013_2
+9013_2	has_surface_form	born
+Dent	surface_form	Dent
+Dent	has-parent	John Dent
+9013_1	is_in_sentence	sentence_9013
+9013_1	auxpass	9013_2
+9013_1	has_surface_form	was
+9013_3	is_in_sentence	sentence_9013
+9013_3	prep	9013_2
+9013_3	has_surface_form	in
+9013_4	is_in_sentence	sentence_9013
+9013_4	pobj	9013_3
+9013_4	has_surface_form	Ribston
+9013_5	is_in_sentence	sentence_9013
+9013_5	punct	9013_4
+9013_5	has_surface_form	,
+9013_6	is_in_sentence	sentence_9013
+9013_6	appos	9013_4
+9013_6	has_surface_form	Yorkshire
+9013_7	is_in_sentence	sentence_9013
+9013_7	punct	9013_6
+9013_7	has_surface_form	,
+9013_8	is_in_sentence	sentence_9013
+9013_8	det	9013_9
+9013_8	has_surface_form	the
+9013_9	is_in_sentence	sentence_9013
+9013_9	appos	9013_6
+9013_9	has_surface_form	son
+9013_10	is_in_sentence	sentence_9013
+9013_10	prep	9013_9
+9013_10	has_surface_form	of
+9013_11	is_in_sentence	sentence_9013
+9013_11	det	9013_12
+9013_11	has_surface_form	the
+9013_12	is_in_sentence	sentence_9013
+9013_12	pobj	9013_10
+9013_12	has_surface_form	landowner
+9013_13	is_in_sentence	sentence_9013
+9013_13	cc	9013_12
+9013_13	has_surface_form	and
+9013_14	is_in_sentence	sentence_9013
+9013_14	compound	9013_16
+9013_14	has_surface_form	politician
+9013_16	is_in_sentence	sentence_9013
+9013_16	appos	9013_9
+9013_16	is_entity	Dent
+9013_16	part_of_entity	John Dent
+9013_15	is_in_sentence	sentence_9013
+9013_15	compound	9013_16
+9013_15	has_surface_form	John
+9013_15	part_of_entity	John Dent
+9013_17	is_in_sentence	sentence_9013
+9013_17	punct	9013_2
+9013_17	has_surface_form	.
+9013_18	is_in_sentence	sentence_9013
+9013_18	dep	9013_2
+9013_18	has_surface_form	
+John Dent	surface_form	John Dent

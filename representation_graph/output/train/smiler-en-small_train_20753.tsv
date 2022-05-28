@@ -1,0 +1,99 @@
+20752_0	is_in_sentence	sentence_20752
+20752_0	det	20752_4
+20752_0	has_surface_form	The
+20752_4	is_in_sentence	sentence_20752
+20752_4	nsubj	20752_10
+20752_4	has_surface_form	Department
+20752_4	part_of_entity	New York City Department of Education
+20752_1	is_in_sentence	sentence_20752
+20752_1	compound	20752_2
+20752_1	has_surface_form	New
+20752_1	part_of_entity	New York City Department of Education
+20752_2	is_in_sentence	sentence_20752
+20752_2	compound	20752_3
+20752_2	has_surface_form	York
+20752_2	part_of_entity	New York City Department of Education
+20752_3	is_in_sentence	sentence_20752
+20752_3	compound	20752_4
+20752_3	has_surface_form	City
+20752_3	part_of_entity	New York City Department of Education
+20752_10	is_in_sentence	sentence_20752
+20752_10	ROOT	20752_10
+20752_10	has_surface_form	is
+20752_5	is_in_sentence	sentence_20752
+20752_5	prep	20752_4
+20752_5	has_surface_form	of
+20752_5	part_of_entity	New York City Department of Education
+20752_6	is_in_sentence	sentence_20752
+20752_6	pobj	20752_5
+20752_6	has_surface_form	Education
+20752_6	part_of_entity	New York City Department of Education
+20752_7	is_in_sentence	sentence_20752
+20752_7	punct	20752_8
+20752_7	has_surface_form	(
+20752_8	is_in_sentence	sentence_20752
+20752_8	appos	20752_4
+20752_8	has_surface_form	NYCDOE
+20752_9	is_in_sentence	sentence_20752
+20752_9	punct	20752_8
+20752_9	has_surface_form	)
+20752_11	is_in_sentence	sentence_20752
+20752_11	det	20752_12
+20752_11	has_surface_form	the
+20752_12	is_in_sentence	sentence_20752
+20752_12	attr	20752_10
+20752_12	is_entity	department
+department	surface_form	department
+20752_13	is_in_sentence	sentence_20752
+20752_13	prep	20752_12
+20752_13	has_surface_form	of
+20752_14	is_in_sentence	sentence_20752
+20752_14	det	20752_15
+20752_14	has_surface_form	the
+20752_15	is_in_sentence	sentence_20752
+20752_15	pobj	20752_13
+20752_15	has_surface_form	government
+20752_16	is_in_sentence	sentence_20752
+20752_16	prep	20752_15
+20752_16	has_surface_form	of
+20752_17	is_in_sentence	sentence_20752
+20752_17	compound	20752_18
+20752_17	has_surface_form	New
+20752_18	is_in_sentence	sentence_20752
+20752_18	compound	20752_19
+20752_18	has_surface_form	York
+20752_19	is_in_sentence	sentence_20752
+20752_19	pobj	20752_16
+20752_19	has_surface_form	City
+20752_20	is_in_sentence	sentence_20752
+20752_20	nsubj	20752_21
+20752_20	has_surface_form	that
+20752_21	is_in_sentence	sentence_20752
+20752_21	relcl	20752_12
+20752_21	has_surface_form	manages
+20752_22	is_in_sentence	sentence_20752
+20752_22	det	20752_23
+20752_22	has_surface_form	the
+20752_23	is_in_sentence	sentence_20752
+20752_23	poss	20752_27
+20752_23	has_surface_form	city
+20752_27	is_in_sentence	sentence_20752
+20752_27	dobj	20752_21
+20752_27	has_surface_form	system
+20752_24	is_in_sentence	sentence_20752
+20752_24	case	20752_23
+20752_24	has_surface_form	's
+20752_25	is_in_sentence	sentence_20752
+20752_25	amod	20752_26
+20752_25	has_surface_form	public
+20752_26	is_in_sentence	sentence_20752
+20752_26	compound	20752_27
+20752_26	has_surface_form	school
+20752_28	is_in_sentence	sentence_20752
+20752_28	punct	20752_10
+20752_28	has_surface_form	.
+20752_29	is_in_sentence	sentence_20752
+20752_29	dep	20752_29
+20752_29	has_surface_form	
+New York City Department of Education	surface_form	New York City Department of Education
+New York City Department of Education	has-type	department

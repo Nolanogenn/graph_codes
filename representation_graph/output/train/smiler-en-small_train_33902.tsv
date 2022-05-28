@@ -1,0 +1,58 @@
+33901_0	is_in_sentence	sentence_33901
+33901_0	det	33901_1
+33901_0	has_surface_form	The
+33901_0	part_of_entity	The Law and His Son
+33901_1	is_in_sentence	sentence_33901
+33901_1	nsubj	33901_5
+33901_1	has_surface_form	Law
+33901_1	part_of_entity	The Law and His Son
+33901_5	is_in_sentence	sentence_33901
+33901_5	ROOT	33901_5
+33901_5	has_surface_form	is
+33901_2	is_in_sentence	sentence_33901
+33901_2	cc	33901_1
+33901_2	has_surface_form	and
+33901_2	part_of_entity	The Law and His Son
+33901_3	is_in_sentence	sentence_33901
+33901_3	poss	33901_4
+33901_3	has_surface_form	His
+33901_3	part_of_entity	The Law and His Son
+33901_4	is_in_sentence	sentence_33901
+33901_4	conj	33901_1
+33901_4	has_surface_form	Son
+33901_4	part_of_entity	The Law and His Son
+33901_6	is_in_sentence	sentence_33901
+33901_6	det	33901_10
+33901_6	has_surface_form	a
+33901_10	is_in_sentence	sentence_33901
+33901_10	attr	33901_5
+33901_10	has_surface_form	film
+33901_7	is_in_sentence	sentence_33901
+33901_7	nummod	33901_10
+33901_7	has_surface_form	1913
+33901_8	is_in_sentence	sentence_33901
+33901_8	amod	33901_10
+33901_8	has_surface_form	American
+33901_9	is_in_sentence	sentence_33901
+33901_9	compound	33901_10
+33901_9	has_surface_form	drama
+33901_11	is_in_sentence	sentence_33901
+33901_11	acl	33901_10
+33901_11	has_surface_form	featuring
+33901_12	is_in_sentence	sentence_33901
+33901_12	compound	33901_13
+33901_12	has_surface_form	Harry
+33901_12	part_of_entity	Harry Carey
+33901_13	is_in_sentence	sentence_33901
+33901_13	dobj	33901_11
+33901_13	has_surface_form	Carey
+33901_13	part_of_entity	Harry Carey
+33901_14	is_in_sentence	sentence_33901
+33901_14	punct	33901_5
+33901_14	has_surface_form	.
+33901_15	is_in_sentence	sentence_33901
+33901_15	dep	33901_5
+33901_15	has_surface_form	
+The Law and His Son	surface_form	The Law and His Son
+The Law and His Son	starring	Harry Carey
+Harry Carey	surface_form	Harry Carey

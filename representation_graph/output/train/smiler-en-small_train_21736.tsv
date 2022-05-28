@@ -1,0 +1,65 @@
+21735_0	is_in_sentence	sentence_21735
+21735_0	compound	21735_1
+21735_0	has_surface_form	Kollur
+21735_0	part_of_entity	Kollur Kala
+21735_1	is_in_sentence	sentence_21735
+21735_1	nsubj	21735_2
+21735_1	has_surface_form	Kala
+21735_1	part_of_entity	Kollur Kala
+21735_2	is_in_sentence	sentence_21735
+21735_2	ROOT	21735_2
+21735_2	has_surface_form	is
+21735_3	is_in_sentence	sentence_21735
+21735_3	det	21735_10
+21735_3	has_surface_form	a
+21735_10	is_in_sentence	sentence_21735
+21735_10	attr	21735_2
+21735_10	has_surface_form	film
+21735_4	is_in_sentence	sentence_21735
+21735_4	nummod	21735_10
+21735_4	has_surface_form	1991
+21735_5	is_in_sentence	sentence_21735
+21735_5	amod	21735_10
+21735_5	has_surface_form	Indian
+21735_6	is_in_sentence	sentence_21735
+21735_6	compound	21735_8
+21735_6	has_surface_form	Kannada
+21735_8	is_in_sentence	sentence_21735
+21735_8	compound	21735_10
+21735_8	has_surface_form	language
+21735_7	is_in_sentence	sentence_21735
+21735_7	punct	21735_8
+21735_7	has_surface_form	-
+21735_9	is_in_sentence	sentence_21735
+21735_9	compound	21735_10
+21735_9	has_surface_form	action
+21735_11	is_in_sentence	sentence_21735
+21735_11	punct	21735_10
+21735_11	has_surface_form	,
+21735_12	is_in_sentence	sentence_21735
+21735_12	acl	21735_10
+21735_12	has_surface_form	directed
+21735_13	is_in_sentence	sentence_21735
+21735_13	agent	21735_12
+21735_13	has_surface_form	by
+21735_14	is_in_sentence	sentence_21735
+21735_14	compound	21735_16
+21735_14	has_surface_form	Om
+21735_14	part_of_entity	Om Sai Prakash
+21735_16	is_in_sentence	sentence_21735
+21735_16	pobj	21735_13
+21735_16	has_surface_form	Prakash
+21735_16	part_of_entity	Om Sai Prakash
+21735_15	is_in_sentence	sentence_21735
+21735_15	compound	21735_16
+21735_15	has_surface_form	Sai
+21735_15	part_of_entity	Om Sai Prakash
+21735_17	is_in_sentence	sentence_21735
+21735_17	punct	21735_2
+21735_17	has_surface_form	.
+21735_18	is_in_sentence	sentence_21735
+21735_18	dep	21735_2
+21735_18	has_surface_form	
+Kollur Kala	surface_form	Kollur Kala
+Kollur Kala	movie-has-director	Om Sai Prakash
+Om Sai Prakash	surface_form	Om Sai Prakash

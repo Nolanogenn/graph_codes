@@ -1,0 +1,63 @@
+4371_0	is_in_sentence	sentence_4371
+4371_0	compound	4371_1
+4371_0	has_surface_form	Jack
+4371_0	part_of_entity	Jack Leggett
+4371_1	is_in_sentence	sentence_4371
+4371_1	nsubj	4371_9
+4371_1	has_surface_form	Leggett
+4371_1	part_of_entity	Jack Leggett
+4371_9	is_in_sentence	sentence_4371
+4371_9	ROOT	4371_9
+4371_9	has_surface_form	is
+4371_2	is_in_sentence	sentence_4371
+4371_2	punct	4371_1
+4371_2	has_surface_form	(
+4371_3	is_in_sentence	sentence_4371
+4371_3	acl	4371_1
+4371_3	has_surface_form	born
+4371_4	is_in_sentence	sentence_4371
+4371_4	npadvmod	4371_3
+4371_4	has_surface_form	March
+4371_5	is_in_sentence	sentence_4371
+4371_5	nummod	4371_4
+4371_5	has_surface_form	5
+4371_6	is_in_sentence	sentence_4371
+4371_6	punct	4371_4
+4371_6	has_surface_form	,
+4371_7	is_in_sentence	sentence_4371
+4371_7	nummod	4371_4
+4371_7	has_surface_form	1954
+4371_8	is_in_sentence	sentence_4371
+4371_8	punct	4371_1
+4371_8	has_surface_form	)
+4371_10	is_in_sentence	sentence_4371
+4371_10	det	4371_15
+4371_10	has_surface_form	an
+4371_15	is_in_sentence	sentence_4371
+4371_15	attr	4371_9
+4371_15	has_surface_form	coach
+4371_15	part_of_entity	head college baseball coach
+4371_11	is_in_sentence	sentence_4371
+4371_11	amod	4371_15
+4371_11	has_surface_form	American
+4371_12	is_in_sentence	sentence_4371
+4371_12	compound	4371_13
+4371_12	has_surface_form	head
+4371_12	part_of_entity	head college baseball coach
+4371_13	is_in_sentence	sentence_4371
+4371_13	compound	4371_14
+4371_13	has_surface_form	college
+4371_13	part_of_entity	head college baseball coach
+4371_14	is_in_sentence	sentence_4371
+4371_14	compound	4371_15
+4371_14	has_surface_form	baseball
+4371_14	part_of_entity	head college baseball coach
+4371_16	is_in_sentence	sentence_4371
+4371_16	punct	4371_9
+4371_16	has_surface_form	.
+4371_17	is_in_sentence	sentence_4371
+4371_17	dep	4371_17
+4371_17	has_surface_form	
+Jack Leggett	surface_form	Jack Leggett
+Jack Leggett	has-type	head college baseball coach
+head college baseball coach	surface_form	head college baseball coach

@@ -1,0 +1,73 @@
+9233_0	is_in_sentence	sentence_9233
+9233_0	det	9233_2
+9233_0	has_surface_form	The
+9233_2	is_in_sentence	sentence_9233
+9233_2	nsubj	9233_8
+9233_2	has_surface_form	Department
+9233_2	part_of_entity	Michigan Department of Transportation
+9233_1	is_in_sentence	sentence_9233
+9233_1	compound	9233_2
+9233_1	has_surface_form	Michigan
+9233_1	part_of_entity	Michigan Department of Transportation
+9233_8	is_in_sentence	sentence_9233
+9233_8	ROOT	9233_8
+9233_8	has_surface_form	is
+9233_3	is_in_sentence	sentence_9233
+9233_3	prep	9233_2
+9233_3	has_surface_form	of
+9233_3	part_of_entity	Michigan Department of Transportation
+9233_4	is_in_sentence	sentence_9233
+9233_4	pobj	9233_3
+9233_4	has_surface_form	Transportation
+9233_4	part_of_entity	Michigan Department of Transportation
+9233_5	is_in_sentence	sentence_9233
+9233_5	punct	9233_2
+9233_5	has_surface_form	(
+9233_6	is_in_sentence	sentence_9233
+9233_6	appos	9233_2
+9233_6	has_surface_form	MDOT
+9233_7	is_in_sentence	sentence_9233
+9233_7	punct	9233_2
+9233_7	has_surface_form	)
+9233_9	is_in_sentence	sentence_9233
+9233_9	det	9233_13
+9233_9	has_surface_form	a
+9233_13	is_in_sentence	sentence_9233
+9233_13	attr	9233_8
+9233_13	is_entity	department
+9233_10	is_in_sentence	sentence_9233
+9233_10	amod	9233_11
+9233_10	has_surface_form	constitutional
+9233_11	is_in_sentence	sentence_9233
+9233_11	nmod	9233_13
+9233_11	has_surface_form	government
+9233_12	is_in_sentence	sentence_9233
+9233_12	amod	9233_13
+9233_12	has_surface_form	principal
+department	surface_form	department
+9233_14	is_in_sentence	sentence_9233
+9233_14	prep	9233_13
+9233_14	has_surface_form	of
+9233_15	is_in_sentence	sentence_9233
+9233_15	det	9233_17
+9233_15	has_surface_form	the
+9233_17	is_in_sentence	sentence_9233
+9233_17	pobj	9233_14
+9233_17	has_surface_form	state
+9233_16	is_in_sentence	sentence_9233
+9233_16	compound	9233_17
+9233_16	has_surface_form	US
+9233_18	is_in_sentence	sentence_9233
+9233_18	prep	9233_17
+9233_18	has_surface_form	of
+9233_19	is_in_sentence	sentence_9233
+9233_19	pobj	9233_18
+9233_19	has_surface_form	Michigan
+9233_20	is_in_sentence	sentence_9233
+9233_20	punct	9233_8
+9233_20	has_surface_form	.
+9233_21	is_in_sentence	sentence_9233
+9233_21	dep	9233_8
+9233_21	has_surface_form	
+Michigan Department of Transportation	surface_form	Michigan Department of Transportation
+Michigan Department of Transportation	has-type	department

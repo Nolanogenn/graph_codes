@@ -1,0 +1,62 @@
+2666_0	is_in_sentence	sentence_2666
+2666_0	compound	2666_1
+2666_0	has_surface_form	Document
+2666_0	part_of_entity	Document Records
+2666_1	is_in_sentence	sentence_2666
+2666_1	nsubj	2666_2
+2666_1	has_surface_form	Records
+2666_1	part_of_entity	Document Records
+2666_2	is_in_sentence	sentence_2666
+2666_2	ROOT	2666_2
+2666_2	has_surface_form	is
+2666_3	is_in_sentence	sentence_2666
+2666_3	det	2666_6
+2666_3	has_surface_form	an
+2666_6	is_in_sentence	sentence_2666
+2666_6	attr	2666_2
+2666_6	has_surface_form	label
+2666_4	is_in_sentence	sentence_2666
+2666_4	amod	2666_6
+2666_4	has_surface_form	independent
+2666_5	is_in_sentence	sentence_2666
+2666_5	compound	2666_6
+2666_5	has_surface_form	record
+2666_7	is_in_sentence	sentence_2666
+2666_7	prep	2666_6
+2666_7	has_surface_form	in
+2666_8	is_in_sentence	sentence_2666
+2666_8	pobj	2666_7
+2666_8	has_surface_form	Scotland
+2666_9	is_in_sentence	sentence_2666
+2666_9	nsubj	2666_10
+2666_9	has_surface_form	that
+2666_10	is_in_sentence	sentence_2666
+2666_10	relcl	2666_6
+2666_10	has_surface_form	specializes
+2666_11	is_in_sentence	sentence_2666
+2666_11	prep	2666_10
+2666_11	has_surface_form	in
+2666_12	is_in_sentence	sentence_2666
+2666_12	pcomp	2666_11
+2666_12	has_surface_form	reissuing
+2666_13	is_in_sentence	sentence_2666
+2666_13	amod	2666_14
+2666_13	has_surface_form	vintage
+2666_14	is_in_sentence	sentence_2666
+2666_14	dobj	2666_12
+2666_14	has_surface_form	blues
+2666_15	is_in_sentence	sentence_2666
+2666_15	cc	2666_14
+2666_15	has_surface_form	and
+2666_16	is_in_sentence	sentence_2666
+2666_16	conj	2666_14
+2666_16	is_entity	jazz
+jazz	surface_form	jazz
+2666_17	is_in_sentence	sentence_2666
+2666_17	punct	2666_2
+2666_17	has_surface_form	.
+2666_18	is_in_sentence	sentence_2666
+2666_18	dep	2666_2
+2666_18	has_surface_form	
+Document Records	surface_form	Document Records
+Document Records	has-genre	jazz

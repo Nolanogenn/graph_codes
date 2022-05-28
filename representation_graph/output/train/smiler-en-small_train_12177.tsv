@@ -1,0 +1,55 @@
+12176_0	is_in_sentence	sentence_12176
+12176_0	compound	12176_1
+12176_0	has_surface_form	Drake
+12176_0	part_of_entity	Drake Jensen
+12176_1	is_in_sentence	sentence_12176
+12176_1	nsubj	12176_8
+12176_1	has_surface_form	Jensen
+12176_1	part_of_entity	Drake Jensen
+12176_8	is_in_sentence	sentence_12176
+12176_8	ROOT	12176_8
+12176_8	has_surface_form	is
+12176_2	is_in_sentence	sentence_12176
+12176_2	punct	12176_3
+12176_2	has_surface_form	(
+12176_3	is_in_sentence	sentence_12176
+12176_3	parataxis	12176_1
+12176_3	has_surface_form	born
+12176_4	is_in_sentence	sentence_12176
+12176_4	nummod	12176_5
+12176_4	has_surface_form	15
+12176_5	is_in_sentence	sentence_12176
+12176_5	npadvmod	12176_3
+12176_5	has_surface_form	April
+12176_6	is_in_sentence	sentence_12176
+12176_6	nummod	12176_5
+12176_6	has_surface_form	1970
+12176_7	is_in_sentence	sentence_12176
+12176_7	punct	12176_1
+12176_7	has_surface_form	)
+12176_9	is_in_sentence	sentence_12176
+12176_9	det	12176_13
+12176_9	has_surface_form	a
+12176_13	is_in_sentence	sentence_12176
+12176_13	attr	12176_8
+12176_13	has_surface_form	artist
+12176_10	is_in_sentence	sentence_12176
+12176_10	amod	12176_13
+12176_10	has_surface_form	Canadian
+12176_11	is_in_sentence	sentence_12176
+12176_11	compound	12176_12
+12176_11	has_surface_form	country
+12176_11	part_of_entity	country music
+12176_12	is_in_sentence	sentence_12176
+12176_12	compound	12176_13
+12176_12	has_surface_form	music
+12176_12	part_of_entity	country music
+12176_14	is_in_sentence	sentence_12176
+12176_14	punct	12176_8
+12176_14	has_surface_form	.
+12176_15	is_in_sentence	sentence_12176
+12176_15	dep	12176_8
+12176_15	has_surface_form	
+Drake Jensen	surface_form	Drake Jensen
+Drake Jensen	has-genre	country music
+country music	surface_form	country music

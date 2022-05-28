@@ -1,0 +1,83 @@
+9082_0	is_in_sentence	sentence_9082
+9082_0	det	9082_2
+9082_0	has_surface_form	A
+9082_2	is_in_sentence	sentence_9082
+9082_2	nsubj	9082_3
+9082_2	has_surface_form	gauge
+9082_2	part_of_entity	strain gauge
+9082_1	is_in_sentence	sentence_9082
+9082_1	compound	9082_2
+9082_1	has_surface_form	strain
+9082_1	part_of_entity	strain gauge
+9082_3	is_in_sentence	sentence_9082
+9082_3	ROOT	9082_3
+9082_3	has_surface_form	is
+9082_4	is_in_sentence	sentence_9082
+9082_4	det	9082_5
+9082_4	has_surface_form	a
+9082_5	is_in_sentence	sentence_9082
+9082_5	attr	9082_3
+9082_5	has_surface_form	device
+9082_6	is_in_sentence	sentence_9082
+9082_6	acl	9082_5
+9082_6	has_surface_form	used
+9082_7	is_in_sentence	sentence_9082
+9082_7	aux	9082_8
+9082_7	has_surface_form	to
+9082_8	is_in_sentence	sentence_9082
+9082_8	xcomp	9082_6
+9082_8	has_surface_form	measure
+9082_9	is_in_sentence	sentence_9082
+9082_9	dobj	9082_8
+9082_9	has_surface_form	strain
+9082_10	is_in_sentence	sentence_9082
+9082_10	prep	9082_9
+9082_10	has_surface_form	on
+9082_11	is_in_sentence	sentence_9082
+9082_11	det	9082_12
+9082_11	has_surface_form	an
+9082_12	is_in_sentence	sentence_9082
+9082_12	pobj	9082_10
+9082_12	has_surface_form	object
+9082_13	is_in_sentence	sentence_9082
+9082_13	punct	9082_3
+9082_13	has_surface_form	.
+9082_14	is_in_sentence	sentence_9082
+9082_14	ROOT	9082_14
+9082_14	has_surface_form	Invented
+9082_15	is_in_sentence	sentence_9082
+9082_15	agent	9082_14
+9082_15	has_surface_form	by
+9082_16	is_in_sentence	sentence_9082
+9082_16	compound	9082_18
+9082_16	has_surface_form	Edward
+9082_16	part_of_entity	Edward E. Simmons
+9082_18	is_in_sentence	sentence_9082
+9082_18	pobj	9082_15
+9082_18	has_surface_form	Simmons
+9082_18	part_of_entity	Edward E. Simmons
+9082_17	is_in_sentence	sentence_9082
+9082_17	compound	9082_18
+9082_17	has_surface_form	E.
+9082_17	part_of_entity	Edward E. Simmons
+9082_19	is_in_sentence	sentence_9082
+9082_19	cc	9082_18
+9082_19	has_surface_form	and
+9082_20	is_in_sentence	sentence_9082
+9082_20	compound	9082_22
+9082_20	has_surface_form	Arthur
+9082_22	is_in_sentence	sentence_9082
+9082_22	conj	9082_18
+9082_22	has_surface_form	Ruge
+9082_21	is_in_sentence	sentence_9082
+9082_21	compound	9082_22
+9082_21	has_surface_form	C.
+9082_23	is_in_sentence	sentence_9082
+9082_23	punct	9082_14
+9082_23	has_surface_form	.
+9082_24	is_in_sentence	sentence_9082
+9082_24	dep	9082_24
+9082_24	has_surface_form	
+strain gauge	surface_form	strain gauge
+strain gauge	invented-by	Edward E. Simmons
+Edward E. Simmons	surface_form	Edward E. Simmons

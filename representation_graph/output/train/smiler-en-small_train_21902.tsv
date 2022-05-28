@@ -1,0 +1,62 @@
+21901_0	is_in_sentence	sentence_21901
+21901_0	compound	21901_1
+21901_0	has_surface_form	Noboru
+21901_0	part_of_entity	Noboru Iguchi
+21901_1	is_in_sentence	sentence_21901
+21901_1	nsubj	21901_8
+21901_1	has_surface_form	Iguchi
+21901_1	part_of_entity	Noboru Iguchi
+21901_8	is_in_sentence	sentence_21901
+21901_8	ROOT	21901_8
+21901_8	has_surface_form	is
+21901_2	is_in_sentence	sentence_21901
+21901_2	punct	21901_1
+21901_2	has_surface_form	(
+21901_3	is_in_sentence	sentence_21901
+21901_3	appos	21901_1
+21901_3	has_surface_form	井口昇
+21901_4	is_in_sentence	sentence_21901
+21901_4	punct	21901_3
+21901_4	has_surface_form	,
+21901_5	is_in_sentence	sentence_21901
+21901_5	compound	21901_6
+21901_5	has_surface_form	Iguchi
+21901_6	is_in_sentence	sentence_21901
+21901_6	npadvmod	21901_3
+21901_6	has_surface_form	Noboru
+21901_7	is_in_sentence	sentence_21901
+21901_7	punct	21901_1
+21901_7	has_surface_form	)
+21901_9	is_in_sentence	sentence_21901
+21901_9	det	21901_12
+21901_9	has_surface_form	a
+21901_12	is_in_sentence	sentence_21901
+21901_12	attr	21901_8
+21901_12	has_surface_form	director
+21901_10	is_in_sentence	sentence_21901
+21901_10	amod	21901_12
+21901_10	has_surface_form	Japanese
+21901_11	is_in_sentence	sentence_21901
+21901_11	compound	21901_12
+21901_11	has_surface_form	film
+21901_13	is_in_sentence	sentence_21901
+21901_13	punct	21901_12
+21901_13	has_surface_form	,
+21901_14	is_in_sentence	sentence_21901
+21901_14	conj	21901_12
+21901_14	is_entity	screenwriter
+screenwriter	surface_form	screenwriter
+21901_15	is_in_sentence	sentence_21901
+21901_15	cc	21901_14
+21901_15	has_surface_form	and
+21901_16	is_in_sentence	sentence_21901
+21901_16	conj	21901_14
+21901_16	has_surface_form	actor
+21901_17	is_in_sentence	sentence_21901
+21901_17	punct	21901_8
+21901_17	has_surface_form	.
+21901_18	is_in_sentence	sentence_21901
+21901_18	dep	21901_8
+21901_18	has_surface_form	
+Noboru Iguchi	surface_form	Noboru Iguchi
+Noboru Iguchi	has-occupation	screenwriter

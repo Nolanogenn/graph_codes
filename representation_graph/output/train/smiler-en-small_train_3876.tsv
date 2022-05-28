@@ -1,0 +1,101 @@
+3875_0	is_in_sentence	sentence_3875
+3875_0	compound	3875_1
+3875_0	has_surface_form	Ahmed
+3875_0	part_of_entity	Ahmed Khairy
+3875_1	is_in_sentence	sentence_3875
+3875_1	nsubj	3875_13
+3875_1	has_surface_form	Khairy
+3875_1	part_of_entity	Ahmed Khairy
+3875_13	is_in_sentence	sentence_3875
+3875_13	ROOT	3875_13
+3875_13	has_surface_form	is
+3875_2	is_in_sentence	sentence_3875
+3875_2	punct	3875_3
+3875_2	has_surface_form	(
+3875_3	is_in_sentence	sentence_3875
+3875_3	appos	3875_1
+3875_3	has_surface_form	Arabic
+3875_4	is_in_sentence	sentence_3875
+3875_4	punct	3875_3
+3875_4	has_surface_form	:
+3875_5	is_in_sentence	sentence_3875
+3875_5	compound	3875_6
+3875_5	has_surface_form	أحمد
+3875_6	is_in_sentence	sentence_3875
+3875_6	appos	3875_3
+3875_6	has_surface_form	خيري‎
+3875_7	is_in_sentence	sentence_3875
+3875_7	punct	3875_6
+3875_7	has_surface_form	;
+3875_8	is_in_sentence	sentence_3875
+3875_8	acl	3875_6
+3875_8	has_surface_form	born
+3875_9	is_in_sentence	sentence_3875
+3875_9	npadvmod	3875_8
+3875_9	has_surface_form	1
+3875_10	is_in_sentence	sentence_3875
+3875_10	npadvmod	3875_8
+3875_10	has_surface_form	October
+3875_11	is_in_sentence	sentence_3875
+3875_11	nummod	3875_10
+3875_11	has_surface_form	1987
+3875_12	is_in_sentence	sentence_3875
+3875_12	punct	3875_6
+3875_12	has_surface_form	)
+3875_14	is_in_sentence	sentence_3875
+3875_14	det	3875_16
+3875_14	has_surface_form	an
+3875_16	is_in_sentence	sentence_3875
+3875_16	attr	3875_13
+3875_16	has_surface_form	footballer
+3875_15	is_in_sentence	sentence_3875
+3875_15	amod	3875_16
+3875_15	has_surface_form	Egyptian
+3875_17	is_in_sentence	sentence_3875
+3875_17	nsubj	3875_19
+3875_17	has_surface_form	who
+3875_19	is_in_sentence	sentence_3875
+3875_19	relcl	3875_16
+3875_19	has_surface_form	plays
+3875_18	is_in_sentence	sentence_3875
+3875_18	advmod	3875_19
+3875_18	has_surface_form	currently
+3875_20	is_in_sentence	sentence_3875
+3875_20	prep	3875_19
+3875_20	has_surface_form	as
+3875_21	is_in_sentence	sentence_3875
+3875_21	det	3875_22
+3875_21	has_surface_form	a
+3875_22	is_in_sentence	sentence_3875
+3875_22	pobj	3875_20
+3875_22	has_surface_form	midfielder
+3875_23	is_in_sentence	sentence_3875
+3875_23	prep	3875_22
+3875_23	has_surface_form	for
+3875_24	is_in_sentence	sentence_3875
+3875_24	compound	3875_26
+3875_24	has_surface_form	El
+3875_24	part_of_entity	El Mokawloon SC
+3875_26	is_in_sentence	sentence_3875
+3875_26	pobj	3875_23
+3875_26	has_surface_form	SC
+3875_26	part_of_entity	El Mokawloon SC
+3875_25	is_in_sentence	sentence_3875
+3875_25	compound	3875_26
+3875_25	has_surface_form	Mokawloon
+3875_25	part_of_entity	El Mokawloon SC
+3875_27	is_in_sentence	sentence_3875
+3875_27	prep	3875_26
+3875_27	has_surface_form	of
+3875_28	is_in_sentence	sentence_3875
+3875_28	pobj	3875_27
+3875_28	has_surface_form	Egypt
+3875_29	is_in_sentence	sentence_3875
+3875_29	punct	3875_13
+3875_29	has_surface_form	.
+3875_30	is_in_sentence	sentence_3875
+3875_30	dep	3875_30
+3875_30	has_surface_form	
+Ahmed Khairy	surface_form	Ahmed Khairy
+Ahmed Khairy	is-member-of	El Mokawloon SC
+El Mokawloon SC	surface_form	El Mokawloon SC

@@ -1,0 +1,54 @@
+650_0	is_in_sentence	sentence_650
+650_0	nsubj	650_3
+650_0	has_surface_form	Depth
+650_0	part_of_entity	Depth & Current
+650_3	is_in_sentence	sentence_650
+650_3	ROOT	650_3
+650_3	has_surface_form	is
+650_1	is_in_sentence	sentence_650
+650_1	cc	650_0
+650_1	has_surface_form	&
+650_1	part_of_entity	Depth & Current
+650_2	is_in_sentence	sentence_650
+650_2	conj	650_0
+650_2	has_surface_form	Current
+650_2	part_of_entity	Depth & Current
+650_4	is_in_sentence	sentence_650
+650_4	det	650_6
+650_4	has_surface_form	a
+650_6	is_in_sentence	sentence_650
+650_6	attr	650_3
+650_6	has_surface_form	pop
+650_5	is_in_sentence	sentence_650
+650_5	compound	650_6
+650_5	has_surface_form	noise
+650_7	is_in_sentence	sentence_650
+650_7	punct	650_6
+650_7	has_surface_form	,
+650_8	is_in_sentence	sentence_650
+650_8	advcl	650_3
+650_8	is_entity	shoegazing
+shoegazing	surface_form	shoegazing
+650_9	is_in_sentence	sentence_650
+650_9	dobj	650_8
+650_9	has_surface_form	band
+650_10	is_in_sentence	sentence_650
+650_10	prep	650_8
+650_10	has_surface_form	from
+650_11	is_in_sentence	sentence_650
+650_11	pobj	650_10
+650_11	has_surface_form	Seattle
+650_12	is_in_sentence	sentence_650
+650_12	punct	650_11
+650_12	has_surface_form	,
+650_13	is_in_sentence	sentence_650
+650_13	appos	650_11
+650_13	has_surface_form	Washington
+650_14	is_in_sentence	sentence_650
+650_14	punct	650_3
+650_14	has_surface_form	.
+650_15	is_in_sentence	sentence_650
+650_15	dep	650_3
+650_15	has_surface_form	
+Depth & Current	surface_form	Depth & Current
+Depth & Current	has-genre	shoegazing

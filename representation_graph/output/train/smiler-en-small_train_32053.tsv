@@ -1,0 +1,51 @@
+32052_0	is_in_sentence	sentence_32052
+32052_0	compound	32052_2
+32052_0	has_surface_form	Bayshore
+32052_0	part_of_entity	Bayshore High School
+32052_2	is_in_sentence	sentence_32052
+32052_2	nsubj	32052_3
+32052_2	has_surface_form	School
+32052_2	part_of_entity	Bayshore High School
+32052_1	is_in_sentence	sentence_32052
+32052_1	compound	32052_2
+32052_1	has_surface_form	High
+32052_1	part_of_entity	Bayshore High School
+32052_3	is_in_sentence	sentence_32052
+32052_3	ROOT	32052_3
+32052_3	has_surface_form	is
+32052_4	is_in_sentence	sentence_32052
+32052_4	det	32052_7
+32052_4	has_surface_form	a
+32052_7	is_in_sentence	sentence_32052
+32052_7	attr	32052_3
+32052_7	has_surface_form	school
+32052_5	is_in_sentence	sentence_32052
+32052_5	amod	32052_7
+32052_5	has_surface_form	public
+32052_6	is_in_sentence	sentence_32052
+32052_6	amod	32052_7
+32052_6	has_surface_form	high
+32052_8	is_in_sentence	sentence_32052
+32052_8	acl	32052_7
+32052_8	has_surface_form	located
+32052_9	is_in_sentence	sentence_32052
+32052_9	prep	32052_8
+32052_9	has_surface_form	in
+32052_10	is_in_sentence	sentence_32052
+32052_10	pobj	32052_9
+32052_10	has_surface_form	Bradenton
+32052_11	is_in_sentence	sentence_32052
+32052_11	punct	32052_10
+32052_11	has_surface_form	,
+32052_12	is_in_sentence	sentence_32052
+32052_12	appos	32052_10
+32052_12	has_surface_form	Florida
+32052_13	is_in_sentence	sentence_32052
+32052_13	punct	32052_3
+32052_13	has_surface_form	.
+32052_14	is_in_sentence	sentence_32052
+32052_14	dep	32052_3
+32052_14	has_surface_form	
+Bayshore High School	surface_form	Bayshore High School
+Bayshore High School	is-where	Bradenton, Florida
+Bradenton, Florida	surface_form	Bradenton, Florida

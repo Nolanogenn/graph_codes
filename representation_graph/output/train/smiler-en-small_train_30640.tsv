@@ -1,0 +1,70 @@
+30639_0	is_in_sentence	sentence_30639
+30639_0	compound	30639_1
+30639_0	has_surface_form	Alexandru
+30639_0	part_of_entity	Alexandru Antoniuc
+30639_1	is_in_sentence	sentence_30639
+30639_1	nsubj	30639_10
+30639_1	has_surface_form	Antoniuc
+30639_1	part_of_entity	Alexandru Antoniuc
+30639_10	is_in_sentence	sentence_30639
+30639_10	ROOT	30639_10
+30639_10	has_surface_form	is
+30639_2	is_in_sentence	sentence_30639
+30639_2	punct	30639_3
+30639_2	has_surface_form	(
+30639_3	is_in_sentence	sentence_30639
+30639_3	acl	30639_1
+30639_3	has_surface_form	born
+30639_4	is_in_sentence	sentence_30639
+30639_4	nummod	30639_5
+30639_4	has_surface_form	23
+30639_5	is_in_sentence	sentence_30639
+30639_5	npadvmod	30639_3
+30639_5	has_surface_form	May
+30639_6	is_in_sentence	sentence_30639
+30639_6	nummod	30639_5
+30639_6	has_surface_form	1989
+30639_7	is_in_sentence	sentence_30639
+30639_7	prep	30639_3
+30639_7	has_surface_form	in
+30639_8	is_in_sentence	sentence_30639
+30639_8	pobj	30639_7
+30639_8	has_surface_form	Chişinău
+30639_9	is_in_sentence	sentence_30639
+30639_9	punct	30639_1
+30639_9	has_surface_form	)
+30639_11	is_in_sentence	sentence_30639
+30639_11	det	30639_13
+30639_11	has_surface_form	a
+30639_13	is_in_sentence	sentence_30639
+30639_13	attr	30639_10
+30639_13	has_surface_form	footballer
+30639_12	is_in_sentence	sentence_30639
+30639_12	compound	30639_13
+30639_12	has_surface_form	Moldovan
+30639_14	is_in_sentence	sentence_30639
+30639_14	nsubj	30639_15
+30639_14	has_surface_form	who
+30639_15	is_in_sentence	sentence_30639
+30639_15	relcl	30639_13
+30639_15	has_surface_form	plays
+30639_16	is_in_sentence	sentence_30639
+30639_16	prep	30639_15
+30639_16	has_surface_form	for
+30639_17	is_in_sentence	sentence_30639
+30639_17	compound	30639_18
+30639_17	has_surface_form	FC
+30639_17	part_of_entity	FC Milsami
+30639_18	is_in_sentence	sentence_30639
+30639_18	pobj	30639_16
+30639_18	has_surface_form	Milsami
+30639_18	part_of_entity	FC Milsami
+30639_19	is_in_sentence	sentence_30639
+30639_19	punct	30639_10
+30639_19	has_surface_form	.
+30639_20	is_in_sentence	sentence_30639
+30639_20	dep	30639_10
+30639_20	has_surface_form	
+Alexandru Antoniuc	surface_form	Alexandru Antoniuc
+Alexandru Antoniuc	is-member-of	FC Milsami
+FC Milsami	surface_form	FC Milsami

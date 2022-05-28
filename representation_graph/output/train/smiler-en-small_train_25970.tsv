@@ -1,0 +1,70 @@
+25969_0	is_in_sentence	sentence_25969
+25969_0	det	25969_2
+25969_0	has_surface_form	The
+25969_2	is_in_sentence	sentence_25969
+25969_2	nsubj	25969_5
+25969_2	has_surface_form	Department
+25969_2	part_of_entity	Colorado Department of Corrections
+25969_1	is_in_sentence	sentence_25969
+25969_1	compound	25969_2
+25969_1	has_surface_form	Colorado
+25969_1	part_of_entity	Colorado Department of Corrections
+25969_5	is_in_sentence	sentence_25969
+25969_5	ROOT	25969_5
+25969_5	has_surface_form	is
+25969_3	is_in_sentence	sentence_25969
+25969_3	prep	25969_2
+25969_3	has_surface_form	of
+25969_3	part_of_entity	Colorado Department of Corrections
+25969_4	is_in_sentence	sentence_25969
+25969_4	pobj	25969_3
+25969_4	has_surface_form	Corrections
+25969_4	part_of_entity	Colorado Department of Corrections
+25969_6	is_in_sentence	sentence_25969
+25969_6	det	25969_8
+25969_6	has_surface_form	the
+25969_8	is_in_sentence	sentence_25969
+25969_8	attr	25969_5
+25969_8	is_entity	department
+25969_7	is_in_sentence	sentence_25969
+25969_7	amod	25969_8
+25969_7	has_surface_form	principal
+department	surface_form	department
+25969_9	is_in_sentence	sentence_25969
+25969_9	prep	25969_8
+25969_9	has_surface_form	of
+25969_10	is_in_sentence	sentence_25969
+25969_10	det	25969_13
+25969_10	has_surface_form	the
+25969_13	is_in_sentence	sentence_25969
+25969_13	pobj	25969_9
+25969_13	has_surface_form	government
+25969_11	is_in_sentence	sentence_25969
+25969_11	compound	25969_13
+25969_11	has_surface_form	Colorado
+25969_12	is_in_sentence	sentence_25969
+25969_12	compound	25969_13
+25969_12	has_surface_form	state
+25969_14	is_in_sentence	sentence_25969
+25969_14	nsubj	25969_15
+25969_14	has_surface_form	that
+25969_15	is_in_sentence	sentence_25969
+25969_15	relcl	25969_8
+25969_15	has_surface_form	operates
+25969_16	is_in_sentence	sentence_25969
+25969_16	det	25969_18
+25969_16	has_surface_form	the
+25969_18	is_in_sentence	sentence_25969
+25969_18	dobj	25969_15
+25969_18	has_surface_form	prisons
+25969_17	is_in_sentence	sentence_25969
+25969_17	compound	25969_18
+25969_17	has_surface_form	state
+25969_19	is_in_sentence	sentence_25969
+25969_19	punct	25969_5
+25969_19	has_surface_form	.
+25969_20	is_in_sentence	sentence_25969
+25969_20	dep	25969_20
+25969_20	has_surface_form	
+Colorado Department of Corrections	surface_form	Colorado Department of Corrections
+Colorado Department of Corrections	has-type	department

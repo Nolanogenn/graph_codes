@@ -1,0 +1,53 @@
+452_0	is_in_sentence	sentence_452
+452_0	compound	452_1
+452_0	has_surface_form	Mircea
+452_0	part_of_entity	Mircea Eliade
+452_1	is_in_sentence	sentence_452
+452_1	nsubj	452_2
+452_1	has_surface_form	Eliade
+452_1	part_of_entity	Mircea Eliade
+452_2	is_in_sentence	sentence_452
+452_2	ROOT	452_2
+452_2	has_surface_form	had
+452_3	is_in_sentence	sentence_452
+452_3	det	452_4
+452_3	has_surface_form	a
+452_4	is_in_sentence	sentence_452
+452_4	dobj	452_2
+452_4	has_surface_form	sister
+452_5	is_in_sentence	sentence_452
+452_5	punct	452_4
+452_5	has_surface_form	,
+452_6	is_in_sentence	sentence_452
+452_6	appos	452_4
+452_6	is_entity	Corina
+Corina	surface_form	Corina
+452_7	is_in_sentence	sentence_452
+452_7	punct	452_6
+452_7	has_surface_form	,
+452_8	is_in_sentence	sentence_452
+452_8	det	452_9
+452_8	has_surface_form	the
+452_9	is_in_sentence	sentence_452
+452_9	appos	452_4
+452_9	has_surface_form	mother
+452_10	is_in_sentence	sentence_452
+452_10	prep	452_9
+452_10	has_surface_form	of
+452_11	is_in_sentence	sentence_452
+452_11	compound	452_13
+452_11	has_surface_form	semiologist
+452_13	is_in_sentence	sentence_452
+452_13	pobj	452_10
+452_13	has_surface_form	Alexandrescu
+452_12	is_in_sentence	sentence_452
+452_12	compound	452_13
+452_12	has_surface_form	Sorin
+452_14	is_in_sentence	sentence_452
+452_14	punct	452_2
+452_14	has_surface_form	.
+452_15	is_in_sentence	sentence_452
+452_15	dep	452_15
+452_15	has_surface_form	
+Mircea Eliade	surface_form	Mircea Eliade
+Mircea Eliade	has-sibling	Corina

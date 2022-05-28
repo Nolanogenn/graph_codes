@@ -1,0 +1,50 @@
+33123_0	is_in_sentence	sentence_33123
+33123_0	compound	33123_1
+33123_0	has_surface_form	David
+33123_0	part_of_entity	David Gilmore
+33123_1	is_in_sentence	sentence_33123
+33123_1	nsubj	33123_8
+33123_1	has_surface_form	Gilmore
+33123_1	part_of_entity	David Gilmore
+33123_8	is_in_sentence	sentence_33123
+33123_8	ROOT	33123_8
+33123_8	has_surface_form	is
+33123_2	is_in_sentence	sentence_33123
+33123_2	punct	33123_1
+33123_2	has_surface_form	(
+33123_3	is_in_sentence	sentence_33123
+33123_3	acl	33123_1
+33123_3	has_surface_form	born
+33123_4	is_in_sentence	sentence_33123
+33123_4	npadvmod	33123_3
+33123_4	has_surface_form	5
+33123_5	is_in_sentence	sentence_33123
+33123_5	npadvmod	33123_3
+33123_5	has_surface_form	February
+33123_6	is_in_sentence	sentence_33123
+33123_6	nummod	33123_5
+33123_6	has_surface_form	1964
+33123_7	is_in_sentence	sentence_33123
+33123_7	punct	33123_1
+33123_7	has_surface_form	)
+33123_9	is_in_sentence	sentence_33123
+33123_9	det	33123_12
+33123_9	has_surface_form	an
+33123_12	is_in_sentence	sentence_33123
+33123_12	attr	33123_8
+33123_12	has_surface_form	guitarist
+33123_10	is_in_sentence	sentence_33123
+33123_10	amod	33123_12
+33123_10	has_surface_form	American
+33123_11	is_in_sentence	sentence_33123
+33123_11	compound	33123_12
+33123_11	is_entity	jazz
+jazz	surface_form	jazz
+33123_13	is_in_sentence	sentence_33123
+33123_13	punct	33123_8
+33123_13	has_surface_form	.
+33123_14	is_in_sentence	sentence_33123
+33123_14	dep	33123_14
+33123_14	has_surface_form	
+David Gilmore	surface_form	David Gilmore
+David Gilmore	has-genre	jazz

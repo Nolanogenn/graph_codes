@@ -1,0 +1,59 @@
+17312_0	is_in_sentence	sentence_17312
+17312_0	compound	17312_1
+17312_0	has_surface_form	John
+17312_0	part_of_entity	John Doucette
+17312_1	is_in_sentence	sentence_17312
+17312_1	nsubjpass	17312_3
+17312_1	has_surface_form	Doucette
+17312_1	part_of_entity	John Doucette
+17312_3	is_in_sentence	sentence_17312
+17312_3	ROOT	17312_3
+17312_3	has_surface_form	born
+17312_2	is_in_sentence	sentence_17312
+17312_2	auxpass	17312_3
+17312_2	has_surface_form	was
+17312_4	is_in_sentence	sentence_17312
+17312_4	prep	17312_3
+17312_4	has_surface_form	in
+17312_5	is_in_sentence	sentence_17312
+17312_5	pobj	17312_4
+17312_5	is_entity	Brockton
+Brockton	surface_form	Brockton
+17312_6	is_in_sentence	sentence_17312
+17312_6	punct	17312_5
+17312_6	has_surface_form	,
+17312_7	is_in_sentence	sentence_17312
+17312_7	appos	17312_5
+17312_7	has_surface_form	Massachusetts
+17312_8	is_in_sentence	sentence_17312
+17312_8	punct	17312_7
+17312_8	has_surface_form	,
+17312_9	is_in_sentence	sentence_17312
+17312_9	det	17312_10
+17312_9	has_surface_form	the
+17312_10	is_in_sentence	sentence_17312
+17312_10	appos	17312_7
+17312_10	has_surface_form	eldest
+17312_11	is_in_sentence	sentence_17312
+17312_11	prep	17312_10
+17312_11	has_surface_form	of
+17312_12	is_in_sentence	sentence_17312
+17312_12	nummod	17312_13
+17312_12	has_surface_form	three
+17312_13	is_in_sentence	sentence_17312
+17312_13	pobj	17312_11
+17312_13	has_surface_form	children
+17312_14	is_in_sentence	sentence_17312
+17312_14	prep	17312_13
+17312_14	has_surface_form	of
+17312_15	is_in_sentence	sentence_17312
+17312_15	compound	17312_16
+17312_15	has_surface_form	Nellie
+17312_16	is_in_sentence	sentence_17312
+17312_16	pobj	17312_14
+17312_16	has_surface_form	S.
+17312_17	is_in_sentence	sentence_17312
+17312_17	dep	17312_3
+17312_17	has_surface_form	
+John Doucette	surface_form	John Doucette
+John Doucette	birth-place	Brockton

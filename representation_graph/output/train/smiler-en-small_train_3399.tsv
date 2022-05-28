@@ -1,0 +1,89 @@
+3398_0	is_in_sentence	sentence_3398
+3398_0	compound	3398_1
+3398_0	has_surface_form	Mary
+3398_0	part_of_entity	Mary Szybist
+3398_1	is_in_sentence	sentence_3398
+3398_1	nsubj	3398_8
+3398_1	has_surface_form	Szybist
+3398_1	part_of_entity	Mary Szybist
+3398_8	is_in_sentence	sentence_3398
+3398_8	ROOT	3398_8
+3398_8	has_surface_form	is
+3398_2	is_in_sentence	sentence_3398
+3398_2	punct	3398_3
+3398_2	has_surface_form	(
+3398_3	is_in_sentence	sentence_3398
+3398_3	parataxis	3398_1
+3398_3	has_surface_form	born
+3398_4	is_in_sentence	sentence_3398
+3398_4	nummod	3398_5
+3398_4	has_surface_form	20
+3398_5	is_in_sentence	sentence_3398
+3398_5	npadvmod	3398_3
+3398_5	has_surface_form	September
+3398_6	is_in_sentence	sentence_3398
+3398_6	nummod	3398_5
+3398_6	has_surface_form	1970
+3398_7	is_in_sentence	sentence_3398
+3398_7	punct	3398_1
+3398_7	has_surface_form	)
+3398_9	is_in_sentence	sentence_3398
+3398_9	det	3398_11
+3398_9	has_surface_form	an
+3398_11	is_in_sentence	sentence_3398
+3398_11	attr	3398_8
+3398_11	has_surface_form	poet
+3398_10	is_in_sentence	sentence_3398
+3398_10	amod	3398_11
+3398_10	has_surface_form	American
+3398_12	is_in_sentence	sentence_3398
+3398_12	punct	3398_8
+3398_12	has_surface_form	.
+3398_13	is_in_sentence	sentence_3398
+3398_13	nsubj	3398_14
+3398_13	has_surface_form	She
+3398_14	is_in_sentence	sentence_3398
+3398_14	ROOT	3398_14
+3398_14	has_surface_form	won
+3398_15	is_in_sentence	sentence_3398
+3398_15	det	3398_18
+3398_15	has_surface_form	the
+3398_18	is_in_sentence	sentence_3398
+3398_18	dobj	3398_14
+3398_18	has_surface_form	Award
+3398_18	part_of_entity	National Book Award
+3398_16	is_in_sentence	sentence_3398
+3398_16	compound	3398_18
+3398_16	has_surface_form	National
+3398_16	part_of_entity	National Book Award
+3398_17	is_in_sentence	sentence_3398
+3398_17	compound	3398_18
+3398_17	has_surface_form	Book
+3398_17	part_of_entity	National Book Award
+3398_19	is_in_sentence	sentence_3398
+3398_19	prep	3398_18
+3398_19	has_surface_form	for
+3398_20	is_in_sentence	sentence_3398
+3398_20	pobj	3398_19
+3398_20	has_surface_form	Poetry
+3398_21	is_in_sentence	sentence_3398
+3398_21	prep	3398_14
+3398_21	has_surface_form	for
+3398_22	is_in_sentence	sentence_3398
+3398_22	poss	3398_24
+3398_22	has_surface_form	her
+3398_24	is_in_sentence	sentence_3398
+3398_24	pobj	3398_21
+3398_24	has_surface_form	Incarnadine
+3398_23	is_in_sentence	sentence_3398
+3398_23	compound	3398_24
+3398_23	has_surface_form	collection
+3398_25	is_in_sentence	sentence_3398
+3398_25	punct	3398_14
+3398_25	has_surface_form	.
+3398_26	is_in_sentence	sentence_3398
+3398_26	dep	3398_14
+3398_26	has_surface_form	
+Mary Szybist	surface_form	Mary Szybist
+Mary Szybist	won-award	National Book Award
+National Book Award	surface_form	National Book Award

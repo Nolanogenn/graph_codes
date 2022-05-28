@@ -1,0 +1,44 @@
+15680_0	is_in_sentence	sentence_15680
+15680_0	compound	15680_1
+15680_0	has_surface_form	Matt
+15680_0	part_of_entity	Matt Charman
+15680_1	is_in_sentence	sentence_15680
+15680_1	nsubj	15680_2
+15680_1	has_surface_form	Charman
+15680_1	part_of_entity	Matt Charman
+15680_2	is_in_sentence	sentence_15680
+15680_2	ROOT	15680_2
+15680_2	has_surface_form	is
+15680_3	is_in_sentence	sentence_15680
+15680_3	det	15680_5
+15680_3	has_surface_form	a
+15680_5	is_in_sentence	sentence_15680
+15680_5	attr	15680_2
+15680_5	has_surface_form	screenwriter
+15680_4	is_in_sentence	sentence_15680
+15680_4	amod	15680_5
+15680_4	has_surface_form	British
+15680_6	is_in_sentence	sentence_15680
+15680_6	punct	15680_5
+15680_6	has_surface_form	,
+15680_7	is_in_sentence	sentence_15680
+15680_7	conj	15680_5
+15680_7	is_entity	playwright
+playwright	surface_form	playwright
+15680_8	is_in_sentence	sentence_15680
+15680_8	punct	15680_7
+15680_8	has_surface_form	,
+15680_9	is_in_sentence	sentence_15680
+15680_9	cc	15680_7
+15680_9	has_surface_form	and
+15680_10	is_in_sentence	sentence_15680
+15680_10	conj	15680_7
+15680_10	has_surface_form	producer
+15680_11	is_in_sentence	sentence_15680
+15680_11	punct	15680_2
+15680_11	has_surface_form	.
+15680_12	is_in_sentence	sentence_15680
+15680_12	dep	15680_12
+15680_12	has_surface_form	
+Matt Charman	surface_form	Matt Charman
+Matt Charman	has-occupation	playwright

@@ -1,0 +1,83 @@
+1827_0	is_in_sentence	sentence_1827
+1827_0	nsubj	1827_9
+1827_0	has_surface_form	Harmony
+1827_0	part_of_entity	Harmony at Home
+1827_9	is_in_sentence	sentence_1827
+1827_9	ROOT	1827_9
+1827_9	has_surface_form	is
+1827_1	is_in_sentence	sentence_1827
+1827_1	prep	1827_0
+1827_1	has_surface_form	at
+1827_1	part_of_entity	Harmony at Home
+1827_2	is_in_sentence	sentence_1827
+1827_2	pobj	1827_1
+1827_2	has_surface_form	Home
+1827_2	part_of_entity	Harmony at Home
+1827_3	is_in_sentence	sentence_1827
+1827_3	punct	1827_6
+1827_3	has_surface_form	(
+1827_6	is_in_sentence	sentence_1827
+1827_6	parataxis	1827_0
+1827_6	has_surface_form	Steps
+1827_4	is_in_sentence	sentence_1827
+1827_4	dep	1827_6
+1827_4	has_surface_form	a.
+1827_5	is_in_sentence	sentence_1827
+1827_5	nsubj	1827_6
+1827_5	has_surface_form	She
+1827_7	is_in_sentence	sentence_1827
+1827_7	advmod	1827_6
+1827_7	has_surface_form	Out
+1827_8	is_in_sentence	sentence_1827
+1827_8	punct	1827_6
+1827_8	has_surface_form	)
+1827_10	is_in_sentence	sentence_1827
+1827_10	det	1827_18
+1827_10	has_surface_form	a
+1827_18	is_in_sentence	sentence_1827
+1827_18	attr	1827_9
+1827_18	has_surface_form	film
+1827_11	is_in_sentence	sentence_1827
+1827_11	nummod	1827_18
+1827_11	has_surface_form	1930
+1827_12	is_in_sentence	sentence_1827
+1827_12	amod	1827_18
+1827_12	has_surface_form	pre
+1827_13	is_in_sentence	sentence_1827
+1827_13	amod	1827_18
+1827_13	has_surface_form	-
+1827_14	is_in_sentence	sentence_1827
+1827_14	amod	1827_18
+1827_14	has_surface_form	Code
+1827_15	is_in_sentence	sentence_1827
+1827_15	amod	1827_17
+1827_15	has_surface_form	domestic
+1827_17	is_in_sentence	sentence_1827
+1827_17	compound	1827_18
+1827_17	has_surface_form	comedy
+1827_16	is_in_sentence	sentence_1827
+1827_16	punct	1827_17
+1827_16	has_surface_form	-
+1827_19	is_in_sentence	sentence_1827
+1827_19	acl	1827_18
+1827_19	has_surface_form	directed
+1827_20	is_in_sentence	sentence_1827
+1827_20	agent	1827_19
+1827_20	has_surface_form	by
+1827_21	is_in_sentence	sentence_1827
+1827_21	compound	1827_22
+1827_21	has_surface_form	Hamilton
+1827_21	part_of_entity	Hamilton MacFadden
+1827_22	is_in_sentence	sentence_1827
+1827_22	pobj	1827_20
+1827_22	has_surface_form	MacFadden
+1827_22	part_of_entity	Hamilton MacFadden
+1827_23	is_in_sentence	sentence_1827
+1827_23	punct	1827_9
+1827_23	has_surface_form	.
+1827_24	is_in_sentence	sentence_1827
+1827_24	dep	1827_9
+1827_24	has_surface_form	
+Harmony at Home	surface_form	Harmony at Home
+Harmony at Home	movie-has-director	Hamilton MacFadden
+Hamilton MacFadden	surface_form	Hamilton MacFadden

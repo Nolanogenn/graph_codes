@@ -1,0 +1,79 @@
+1020_0	is_in_sentence	sentence_1020
+1020_0	compound	1020_1
+1020_0	has_surface_form	Philip
+1020_0	part_of_entity	Philip Stanley Wilberforce Goldson
+1020_1	is_in_sentence	sentence_1020
+1020_1	compound	1020_3
+1020_1	has_surface_form	Stanley
+1020_1	part_of_entity	Philip Stanley Wilberforce Goldson
+1020_3	is_in_sentence	sentence_1020
+1020_3	nsubj	1020_13
+1020_3	has_surface_form	Goldson
+1020_3	part_of_entity	Philip Stanley Wilberforce Goldson
+1020_2	is_in_sentence	sentence_1020
+1020_2	compound	1020_3
+1020_2	has_surface_form	Wilberforce
+1020_2	part_of_entity	Philip Stanley Wilberforce Goldson
+1020_13	is_in_sentence	sentence_1020
+1020_13	ROOT	1020_13
+1020_13	has_surface_form	was
+1020_4	is_in_sentence	sentence_1020
+1020_4	punct	1020_3
+1020_4	has_surface_form	(
+1020_5	is_in_sentence	sentence_1020
+1020_5	nummod	1020_6
+1020_5	has_surface_form	25
+1020_6	is_in_sentence	sentence_1020
+1020_6	appos	1020_3
+1020_6	has_surface_form	July
+1020_7	is_in_sentence	sentence_1020
+1020_7	nummod	1020_6
+1020_7	has_surface_form	1923
+1020_8	is_in_sentence	sentence_1020
+1020_8	punct	1020_3
+1020_8	has_surface_form	–
+1020_9	is_in_sentence	sentence_1020
+1020_9	nummod	1020_10
+1020_9	has_surface_form	3
+1020_10	is_in_sentence	sentence_1020
+1020_10	appos	1020_3
+1020_10	has_surface_form	October
+1020_11	is_in_sentence	sentence_1020
+1020_11	nummod	1020_10
+1020_11	has_surface_form	2001
+1020_12	is_in_sentence	sentence_1020
+1020_12	punct	1020_10
+1020_12	has_surface_form	)
+1020_14	is_in_sentence	sentence_1020
+1020_14	det	1020_17
+1020_14	has_surface_form	a
+1020_17	is_in_sentence	sentence_1020
+1020_17	attr	1020_13
+1020_17	has_surface_form	editor
+1020_15	is_in_sentence	sentence_1020
+1020_15	amod	1020_17
+1020_15	is_entity	Belizean
+Belizean	surface_form	Belizean
+1020_16	is_in_sentence	sentence_1020
+1020_16	compound	1020_17
+1020_16	has_surface_form	newspaper
+1020_18	is_in_sentence	sentence_1020
+1020_18	punct	1020_17
+1020_18	has_surface_form	,
+1020_19	is_in_sentence	sentence_1020
+1020_19	appos	1020_17
+1020_19	has_surface_form	activist
+1020_20	is_in_sentence	sentence_1020
+1020_20	cc	1020_19
+1020_20	has_surface_form	and
+1020_21	is_in_sentence	sentence_1020
+1020_21	conj	1020_19
+1020_21	has_surface_form	politician
+1020_22	is_in_sentence	sentence_1020
+1020_22	punct	1020_13
+1020_22	has_surface_form	.
+1020_23	is_in_sentence	sentence_1020
+1020_23	dep	1020_23
+1020_23	has_surface_form	
+Philip Stanley Wilberforce Goldson	surface_form	Philip Stanley Wilberforce Goldson
+Philip Stanley Wilberforce Goldson	has-nationality	Belizean

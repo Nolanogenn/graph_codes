@@ -1,0 +1,44 @@
+1890_0	is_in_sentence	sentence_1890
+1890_0	nsubj	1890_1
+1890_0	is_entity	Lupton
+1890_1	is_in_sentence	sentence_1890
+1890_1	ROOT	1890_1
+1890_1	has_surface_form	was
+Lupton	surface_form	Lupton
+Lupton	has-parent	Adelma Lupton
+1890_2	is_in_sentence	sentence_1890
+1890_2	det	1890_3
+1890_2	has_surface_form	the
+1890_3	is_in_sentence	sentence_1890
+1890_3	attr	1890_1
+1890_3	has_surface_form	son
+1890_4	is_in_sentence	sentence_1890
+1890_4	prep	1890_3
+1890_4	has_surface_form	of
+1890_5	is_in_sentence	sentence_1890
+1890_5	compound	1890_6
+1890_5	has_surface_form	Adelma
+1890_5	part_of_entity	Adelma Lupton
+1890_6	is_in_sentence	sentence_1890
+1890_6	pobj	1890_4
+1890_6	is_entity	Lupton
+1890_6	part_of_entity	Adelma Lupton
+1890_7	is_in_sentence	sentence_1890
+1890_7	cc	1890_6
+1890_7	has_surface_form	and
+1890_8	is_in_sentence	sentence_1890
+1890_8	compound	1890_10
+1890_8	has_surface_form	Dorothy
+1890_10	is_in_sentence	sentence_1890
+1890_10	conj	1890_6
+1890_10	is_entity	Lupton
+1890_9	is_in_sentence	sentence_1890
+1890_9	compound	1890_10
+1890_9	has_surface_form	Marsh
+1890_11	is_in_sentence	sentence_1890
+1890_11	punct	1890_1
+1890_11	has_surface_form	.
+1890_12	is_in_sentence	sentence_1890
+1890_12	dep	1890_1
+1890_12	has_surface_form	
+Adelma Lupton	surface_form	Adelma Lupton

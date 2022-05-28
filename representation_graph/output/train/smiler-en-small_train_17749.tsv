@@ -1,0 +1,95 @@
+17748_0	is_in_sentence	sentence_17748
+17748_0	compound	17748_1
+17748_0	has_surface_form	Joe
+17748_0	part_of_entity	Joe O'Brien
+17748_1	is_in_sentence	sentence_17748
+17748_1	nsubj	17748_3
+17748_1	has_surface_form	O'Brien
+17748_1	part_of_entity	Joe O'Brien
+17748_3	is_in_sentence	sentence_17748
+17748_3	ROOT	17748_3
+17748_3	has_surface_form	refer
+17748_2	is_in_sentence	sentence_17748
+17748_2	aux	17748_3
+17748_2	has_surface_form	may
+17748_4	is_in_sentence	sentence_17748
+17748_4	prep	17748_3
+17748_4	has_surface_form	to
+17748_5	is_in_sentence	sentence_17748
+17748_5	punct	17748_4
+17748_5	has_surface_form	:
+17748_6	is_in_sentence	sentence_17748
+17748_6	compound	17748_7
+17748_6	has_surface_form	Joe
+17748_6	part_of_entity	Joe O'Brien
+17748_7	is_in_sentence	sentence_17748
+17748_7	pobj	17748_4
+17748_7	has_surface_form	O'Brien
+17748_7	part_of_entity	Joe O'Brien
+17748_8	is_in_sentence	sentence_17748
+17748_8	punct	17748_7
+17748_8	has_surface_form	(
+17748_9	is_in_sentence	sentence_17748
+17748_9	appos	17748_7
+17748_9	has_surface_form	basketball
+17748_10	is_in_sentence	sentence_17748
+17748_10	punct	17748_7
+17748_10	has_surface_form	)
+17748_11	is_in_sentence	sentence_17748
+17748_11	punct	17748_12
+17748_11	has_surface_form	(
+17748_12	is_in_sentence	sentence_17748
+17748_12	parataxis	17748_7
+17748_12	has_surface_form	born
+17748_13	is_in_sentence	sentence_17748
+17748_13	npadvmod	17748_12
+17748_13	has_surface_form	1955
+17748_14	is_in_sentence	sentence_17748
+17748_14	punct	17748_12
+17748_14	has_surface_form	)
+17748_15	is_in_sentence	sentence_17748
+17748_15	punct	17748_7
+17748_15	has_surface_form	,
+17748_16	is_in_sentence	sentence_17748
+17748_16	amod	17748_18
+17748_16	has_surface_form	American
+17748_18	is_in_sentence	sentence_17748
+17748_18	appos	17748_7
+17748_18	has_surface_form	coach
+17748_18	part_of_entity	basketball coach
+17748_17	is_in_sentence	sentence_17748
+17748_17	compound	17748_18
+17748_17	has_surface_form	basketball
+17748_17	part_of_entity	basketball coach
+17748_19	is_in_sentence	sentence_17748
+17748_19	compound	17748_20
+17748_19	has_surface_form	Joe
+17748_19	part_of_entity	Joe O'Brien
+17748_20	is_in_sentence	sentence_17748
+17748_20	appos	17748_18
+17748_20	has_surface_form	O'Brien
+17748_20	part_of_entity	Joe O'Brien
+17748_21	is_in_sentence	sentence_17748
+17748_21	punct	17748_22
+17748_21	has_surface_form	(
+17748_22	is_in_sentence	sentence_17748
+17748_22	appos	17748_20
+17748_22	has_surface_form	cyclist
+17748_23	is_in_sentence	sentence_17748
+17748_23	punct	17748_22
+17748_23	has_surface_form	)
+17748_24	is_in_sentence	sentence_17748
+17748_24	punct	17748_25
+17748_24	has_surface_form	(
+17748_25	is_in_sentence	sentence_17748
+17748_25	appos	17748_7
+17748_25	has_surface_form	fl
+17748_26	is_in_sentence	sentence_17748
+17748_26	punct	17748_3
+17748_26	has_surface_form	.
+17748_27	is_in_sentence	sentence_17748
+17748_27	dep	17748_3
+17748_27	has_surface_form	
+Joe O'Brien	surface_form	Joe O'Brien
+Joe O'Brien	has-type	basketball coach
+basketball coach	surface_form	basketball coach

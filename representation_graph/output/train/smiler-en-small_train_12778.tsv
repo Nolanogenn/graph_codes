@@ -1,0 +1,87 @@
+12777_0	is_in_sentence	sentence_12777
+12777_0	compound	12777_1
+12777_0	has_surface_form	Bar
+12777_0	part_of_entity	Bar Harbor Airlines
+12777_1	is_in_sentence	sentence_12777
+12777_1	compound	12777_2
+12777_1	has_surface_form	Harbor
+12777_1	part_of_entity	Bar Harbor Airlines
+12777_2	is_in_sentence	sentence_12777
+12777_2	nsubj	12777_3
+12777_2	has_surface_form	Airlines
+12777_2	part_of_entity	Bar Harbor Airlines
+12777_3	is_in_sentence	sentence_12777
+12777_3	ROOT	12777_3
+12777_3	has_surface_form	was
+12777_4	is_in_sentence	sentence_12777
+12777_4	det	12777_8
+12777_4	has_surface_form	a
+12777_8	is_in_sentence	sentence_12777
+12777_8	attr	12777_3
+12777_8	has_surface_form	airline
+12777_5	is_in_sentence	sentence_12777
+12777_5	compound	12777_6
+12777_5	has_surface_form	United
+12777_6	is_in_sentence	sentence_12777
+12777_6	compound	12777_8
+12777_6	has_surface_form	States
+12777_7	is_in_sentence	sentence_12777
+12777_7	compound	12777_8
+12777_7	has_surface_form	commuter
+12777_9	is_in_sentence	sentence_12777
+12777_9	acl	12777_8
+12777_9	has_surface_form	headquartered
+12777_10	is_in_sentence	sentence_12777
+12777_10	prep	12777_9
+12777_10	has_surface_form	at
+12777_11	is_in_sentence	sentence_12777
+12777_11	compound	12777_12
+12777_11	has_surface_form	Bar
+12777_12	is_in_sentence	sentence_12777
+12777_12	compound	12777_13
+12777_12	has_surface_form	Harbor
+12777_13	is_in_sentence	sentence_12777
+12777_13	pobj	12777_10
+12777_13	has_surface_form	Airport
+12777_14	is_in_sentence	sentence_12777
+12777_14	prep	12777_13
+12777_14	has_surface_form	in
+12777_15	is_in_sentence	sentence_12777
+12777_15	pobj	12777_14
+12777_15	has_surface_form	Trenton
+12777_16	is_in_sentence	sentence_12777
+12777_16	punct	12777_15
+12777_16	has_surface_form	,
+12777_17	is_in_sentence	sentence_12777
+12777_17	appos	12777_15
+12777_17	has_surface_form	Maine
+12777_18	is_in_sentence	sentence_12777
+12777_18	punct	12777_3
+12777_18	has_surface_form	,
+12777_19	is_in_sentence	sentence_12777
+12777_19	cc	12777_3
+12777_19	has_surface_form	and
+12777_20	is_in_sentence	sentence_12777
+12777_20	conj	12777_3
+12777_20	has_surface_form	later
+12777_21	is_in_sentence	sentence_12777
+12777_21	prep	12777_20
+12777_21	has_surface_form	in
+12777_22	is_in_sentence	sentence_12777
+12777_22	pobj	12777_21
+12777_22	has_surface_form	Houston
+12777_23	is_in_sentence	sentence_12777
+12777_23	punct	12777_22
+12777_23	has_surface_form	,
+12777_24	is_in_sentence	sentence_12777
+12777_24	appos	12777_22
+12777_24	has_surface_form	Texas
+12777_25	is_in_sentence	sentence_12777
+12777_25	punct	12777_3
+12777_25	has_surface_form	.
+12777_26	is_in_sentence	sentence_12777
+12777_26	dep	12777_3
+12777_26	has_surface_form	
+Bar Harbor Airlines	surface_form	Bar Harbor Airlines
+Bar Harbor Airlines	headquarters	Bar Harbor Airport in Trenton, Maine
+Bar Harbor Airport in Trenton, Maine	surface_form	Bar Harbor Airport in Trenton, Maine

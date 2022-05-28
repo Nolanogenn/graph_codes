@@ -1,0 +1,67 @@
+30717_0	is_in_sentence	sentence_30717
+30717_0	compound	30717_1
+30717_0	has_surface_form	American
+30717_0	part_of_entity	American Jobs
+30717_1	is_in_sentence	sentence_30717
+30717_1	nsubj	30717_2
+30717_1	has_surface_form	Jobs
+30717_1	part_of_entity	American Jobs
+30717_2	is_in_sentence	sentence_30717
+30717_2	ROOT	30717_2
+30717_2	has_surface_form	is
+30717_3	is_in_sentence	sentence_30717
+30717_3	det	30717_8
+30717_3	has_surface_form	a
+30717_8	is_in_sentence	sentence_30717
+30717_8	attr	30717_2
+30717_8	has_surface_form	documentary
+30717_4	is_in_sentence	sentence_30717
+30717_4	nummod	30717_6
+30717_4	has_surface_form	2004
+30717_6	is_in_sentence	sentence_30717
+30717_6	nmod	30717_8
+30717_6	has_surface_form	film
+30717_5	is_in_sentence	sentence_30717
+30717_5	amod	30717_6
+30717_5	has_surface_form	independent
+30717_7	is_in_sentence	sentence_30717
+30717_7	punct	30717_6
+30717_7	has_surface_form	,
+30717_9	is_in_sentence	sentence_30717
+30717_9	punct	30717_8
+30717_9	has_surface_form	,
+30717_10	is_in_sentence	sentence_30717
+30717_10	acl	30717_8
+30717_10	has_surface_form	written
+30717_11	is_in_sentence	sentence_30717
+30717_11	punct	30717_10
+30717_11	has_surface_form	,
+30717_12	is_in_sentence	sentence_30717
+30717_12	conj	30717_10
+30717_12	has_surface_form	produced
+30717_13	is_in_sentence	sentence_30717
+30717_13	cc	30717_12
+30717_13	has_surface_form	and
+30717_14	is_in_sentence	sentence_30717
+30717_14	conj	30717_12
+30717_14	has_surface_form	directed
+30717_15	is_in_sentence	sentence_30717
+30717_15	agent	30717_14
+30717_15	has_surface_form	by
+30717_16	is_in_sentence	sentence_30717
+30717_16	compound	30717_17
+30717_16	has_surface_form	Greg
+30717_16	part_of_entity	Greg Spotts
+30717_17	is_in_sentence	sentence_30717
+30717_17	pobj	30717_15
+30717_17	has_surface_form	Spotts
+30717_17	part_of_entity	Greg Spotts
+30717_18	is_in_sentence	sentence_30717
+30717_18	punct	30717_2
+30717_18	has_surface_form	.
+30717_19	is_in_sentence	sentence_30717
+30717_19	dep	30717_19
+30717_19	has_surface_form	
+American Jobs	surface_form	American Jobs
+American Jobs	movie-has-director	Greg Spotts
+Greg Spotts	surface_form	Greg Spotts

@@ -1,0 +1,40 @@
+12773_0	is_in_sentence	sentence_12773
+12773_0	compound	12773_1
+12773_0	has_surface_form	Maria
+12773_0	part_of_entity	Maria Alexandrovna
+12773_1	is_in_sentence	sentence_12773
+12773_1	nsubj	12773_2
+12773_1	has_surface_form	Alexandrovna
+12773_1	part_of_entity	Maria Alexandrovna
+12773_2	is_in_sentence	sentence_12773
+12773_2	ROOT	12773_2
+12773_2	has_surface_form	was
+12773_3	is_in_sentence	sentence_12773
+12773_3	det	12773_4
+12773_3	has_surface_form	the
+12773_4	is_in_sentence	sentence_12773
+12773_4	attr	12773_2
+12773_4	has_surface_form	mother
+12773_5	is_in_sentence	sentence_12773
+12773_5	prep	12773_4
+12773_5	has_surface_form	of
+12773_6	is_in_sentence	sentence_12773
+12773_6	compound	12773_8
+12773_6	has_surface_form	Emperor
+12773_8	is_in_sentence	sentence_12773
+12773_8	pobj	12773_5
+12773_8	has_surface_form	III
+12773_8	part_of_entity	Alexander III
+12773_7	is_in_sentence	sentence_12773
+12773_7	compound	12773_8
+12773_7	has_surface_form	Alexander
+12773_7	part_of_entity	Alexander III
+12773_9	is_in_sentence	sentence_12773
+12773_9	punct	12773_2
+12773_9	has_surface_form	.
+12773_10	is_in_sentence	sentence_12773
+12773_10	dep	12773_2
+12773_10	has_surface_form	
+Maria Alexandrovna	surface_form	Maria Alexandrovna
+Maria Alexandrovna	has-child	Alexander III
+Alexander III	surface_form	Alexander III

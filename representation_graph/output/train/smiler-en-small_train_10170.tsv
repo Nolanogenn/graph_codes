@@ -1,0 +1,121 @@
+10169_0	is_in_sentence	sentence_10169
+10169_0	compound	10169_1
+10169_0	has_surface_form	Dead
+10169_0	part_of_entity	Dead Woman from Beverly Hills
+10169_1	is_in_sentence	sentence_10169
+10169_1	nsubj	10169_14
+10169_1	has_surface_form	Woman
+10169_1	part_of_entity	Dead Woman from Beverly Hills
+10169_14	is_in_sentence	sentence_10169
+10169_14	ROOT	10169_14
+10169_14	has_surface_form	is
+10169_2	is_in_sentence	sentence_10169
+10169_2	prep	10169_1
+10169_2	has_surface_form	from
+10169_2	part_of_entity	Dead Woman from Beverly Hills
+10169_3	is_in_sentence	sentence_10169
+10169_3	compound	10169_4
+10169_3	has_surface_form	Beverly
+10169_3	part_of_entity	Dead Woman from Beverly Hills
+10169_4	is_in_sentence	sentence_10169
+10169_4	pobj	10169_2
+10169_4	has_surface_form	Hills
+10169_4	part_of_entity	Dead Woman from Beverly Hills
+10169_5	is_in_sentence	sentence_10169
+10169_5	punct	10169_9
+10169_5	has_surface_form	(
+10169_9	is_in_sentence	sentence_10169
+10169_9	appos	10169_1
+10169_9	has_surface_form	Tote
+10169_6	is_in_sentence	sentence_10169
+10169_6	amod	10169_8
+10169_6	has_surface_form	German
+10169_8	is_in_sentence	sentence_10169
+10169_8	nsubj	10169_9
+10169_8	has_surface_form	Die
+10169_7	is_in_sentence	sentence_10169
+10169_7	punct	10169_8
+10169_7	has_surface_form	:
+10169_10	is_in_sentence	sentence_10169
+10169_10	compound	10169_12
+10169_10	has_surface_form	von
+10169_12	is_in_sentence	sentence_10169
+10169_12	dobj	10169_9
+10169_12	has_surface_form	Hills
+10169_11	is_in_sentence	sentence_10169
+10169_11	compound	10169_12
+10169_11	has_surface_form	Beverly
+10169_13	is_in_sentence	sentence_10169
+10169_13	punct	10169_9
+10169_13	has_surface_form	)
+10169_15	is_in_sentence	sentence_10169
+10169_15	det	10169_20
+10169_15	has_surface_form	a
+10169_20	is_in_sentence	sentence_10169
+10169_20	attr	10169_14
+10169_20	has_surface_form	film
+10169_16	is_in_sentence	sentence_10169
+10169_16	nummod	10169_20
+10169_16	has_surface_form	1964
+10169_17	is_in_sentence	sentence_10169
+10169_17	amod	10169_18
+10169_17	has_surface_form	West
+10169_18	is_in_sentence	sentence_10169
+10169_18	amod	10169_20
+10169_18	has_surface_form	German
+10169_19	is_in_sentence	sentence_10169
+10169_19	compound	10169_20
+10169_19	has_surface_form	drama
+10169_21	is_in_sentence	sentence_10169
+10169_21	acl	10169_20
+10169_21	has_surface_form	directed
+10169_22	is_in_sentence	sentence_10169
+10169_22	agent	10169_21
+10169_22	has_surface_form	by
+10169_23	is_in_sentence	sentence_10169
+10169_23	compound	10169_24
+10169_23	has_surface_form	Michael
+10169_23	part_of_entity	Michael Pfleghar
+10169_24	is_in_sentence	sentence_10169
+10169_24	pobj	10169_22
+10169_24	has_surface_form	Pfleghar
+10169_24	part_of_entity	Michael Pfleghar
+10169_25	is_in_sentence	sentence_10169
+10169_25	cc	10169_21
+10169_25	has_surface_form	and
+10169_26	is_in_sentence	sentence_10169
+10169_26	conj	10169_21
+10169_26	has_surface_form	starring
+10169_27	is_in_sentence	sentence_10169
+10169_27	compound	10169_28
+10169_27	has_surface_form	Heidelinde
+10169_28	is_in_sentence	sentence_10169
+10169_28	dobj	10169_26
+10169_28	has_surface_form	Weis
+10169_29	is_in_sentence	sentence_10169
+10169_29	punct	10169_28
+10169_29	has_surface_form	,
+10169_30	is_in_sentence	sentence_10169
+10169_30	compound	10169_31
+10169_30	has_surface_form	Klausjürgen
+10169_31	is_in_sentence	sentence_10169
+10169_31	conj	10169_28
+10169_31	has_surface_form	Wussow
+10169_32	is_in_sentence	sentence_10169
+10169_32	cc	10169_31
+10169_32	has_surface_form	and
+10169_33	is_in_sentence	sentence_10169
+10169_33	compound	10169_34
+10169_33	has_surface_form	Horst
+10169_34	is_in_sentence	sentence_10169
+10169_34	conj	10169_31
+10169_34	has_surface_form	Frank
+10169_35	is_in_sentence	sentence_10169
+10169_35	punct	10169_14
+10169_35	has_surface_form	.
+10169_36	is_in_sentence	sentence_10169
+10169_36	dep	10169_36
+10169_36	has_surface_form	
+Dead Woman from Beverly Hills	surface_form	Dead Woman from Beverly Hills
+Dead Woman from Beverly Hills	movie-has-director	Michael Pfleghar
+Michael Pfleghar	surface_form	Michael Pfleghar

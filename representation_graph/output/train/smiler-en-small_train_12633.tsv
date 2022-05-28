@@ -1,0 +1,70 @@
+12632_0	is_in_sentence	sentence_12632
+12632_0	det	12632_1
+12632_0	has_surface_form	The
+12632_0	part_of_entity	The village of Unterbrunn
+12632_1	is_in_sentence	sentence_12632
+12632_1	nsubj	12632_4
+12632_1	has_surface_form	village
+12632_1	part_of_entity	The village of Unterbrunn
+12632_4	is_in_sentence	sentence_12632
+12632_4	ROOT	12632_4
+12632_4	has_surface_form	is
+12632_2	is_in_sentence	sentence_12632
+12632_2	prep	12632_1
+12632_2	has_surface_form	of
+12632_2	part_of_entity	The village of Unterbrunn
+12632_3	is_in_sentence	sentence_12632
+12632_3	pobj	12632_2
+12632_3	has_surface_form	Unterbrunn
+12632_3	part_of_entity	The village of Unterbrunn
+12632_5	is_in_sentence	sentence_12632
+12632_5	det	12632_8
+12632_5	has_surface_form	an
+12632_8	is_in_sentence	sentence_12632
+12632_8	attr	12632_4
+12632_8	has_surface_form	quarter
+12632_6	is_in_sentence	sentence_12632
+12632_6	nmod	12632_8
+12632_6	is_entity	Ortsteil
+Ortsteil	surface_form	Ortsteil
+12632_7	is_in_sentence	sentence_12632
+12632_7	punct	12632_8
+12632_7	has_surface_form	(
+12632_9	is_in_sentence	sentence_12632
+12632_9	punct	12632_8
+12632_9	has_surface_form	)
+12632_10	is_in_sentence	sentence_12632
+12632_10	prep	12632_8
+12632_10	has_surface_form	of
+12632_11	is_in_sentence	sentence_12632
+12632_11	det	12632_13
+12632_11	has_surface_form	the
+12632_13	is_in_sentence	sentence_12632
+12632_13	pobj	12632_10
+12632_13	has_surface_form	Gauting
+12632_12	is_in_sentence	sentence_12632
+12632_12	compound	12632_13
+12632_12	has_surface_form	municipality
+12632_14	is_in_sentence	sentence_12632
+12632_14	punct	12632_4
+12632_14	has_surface_form	,
+12632_15	is_in_sentence	sentence_12632
+12632_15	prep	12632_4
+12632_15	has_surface_form	in
+12632_16	is_in_sentence	sentence_12632
+12632_16	pobj	12632_15
+12632_16	has_surface_form	Bavaria
+12632_17	is_in_sentence	sentence_12632
+12632_17	punct	12632_16
+12632_17	has_surface_form	,
+12632_18	is_in_sentence	sentence_12632
+12632_18	appos	12632_16
+12632_18	has_surface_form	Germany
+12632_19	is_in_sentence	sentence_12632
+12632_19	punct	12632_4
+12632_19	has_surface_form	.
+12632_20	is_in_sentence	sentence_12632
+12632_20	dep	12632_4
+12632_20	has_surface_form	
+The village of Unterbrunn	surface_form	The village of Unterbrunn
+The village of Unterbrunn	has-type	Ortsteil

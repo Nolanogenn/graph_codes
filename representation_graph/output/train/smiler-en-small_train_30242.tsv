@@ -1,0 +1,90 @@
+30241_0	is_in_sentence	sentence_30241
+30241_0	det	30241_1
+30241_0	has_surface_form	A
+30241_0	part_of_entity	A Man of Mayfair
+30241_1	is_in_sentence	sentence_30241
+30241_1	nsubj	30241_4
+30241_1	has_surface_form	Man
+30241_1	part_of_entity	A Man of Mayfair
+30241_4	is_in_sentence	sentence_30241
+30241_4	ROOT	30241_4
+30241_4	has_surface_form	is
+30241_2	is_in_sentence	sentence_30241
+30241_2	prep	30241_1
+30241_2	has_surface_form	of
+30241_2	part_of_entity	A Man of Mayfair
+30241_3	is_in_sentence	sentence_30241
+30241_3	pobj	30241_2
+30241_3	has_surface_form	Mayfair
+30241_3	part_of_entity	A Man of Mayfair
+30241_5	is_in_sentence	sentence_30241
+30241_5	det	30241_10
+30241_5	has_surface_form	a
+30241_10	is_in_sentence	sentence_30241
+30241_10	attr	30241_4
+30241_10	has_surface_form	film
+30241_6	is_in_sentence	sentence_30241
+30241_6	nummod	30241_10
+30241_6	has_surface_form	1932
+30241_7	is_in_sentence	sentence_30241
+30241_7	amod	30241_10
+30241_7	has_surface_form	British
+30241_8	is_in_sentence	sentence_30241
+30241_8	amod	30241_10
+30241_8	has_surface_form	musical
+30241_9	is_in_sentence	sentence_30241
+30241_9	compound	30241_10
+30241_9	has_surface_form	comedy
+30241_11	is_in_sentence	sentence_30241
+30241_11	acl	30241_10
+30241_11	has_surface_form	directed
+30241_12	is_in_sentence	sentence_30241
+30241_12	agent	30241_11
+30241_12	has_surface_form	by
+30241_13	is_in_sentence	sentence_30241
+30241_13	compound	30241_14
+30241_13	has_surface_form	Louis
+30241_13	part_of_entity	Louis Mercanton
+30241_14	is_in_sentence	sentence_30241
+30241_14	pobj	30241_12
+30241_14	has_surface_form	Mercanton
+30241_14	part_of_entity	Louis Mercanton
+30241_15	is_in_sentence	sentence_30241
+30241_15	cc	30241_11
+30241_15	has_surface_form	and
+30241_16	is_in_sentence	sentence_30241
+30241_16	conj	30241_11
+30241_16	has_surface_form	starring
+30241_17	is_in_sentence	sentence_30241
+30241_17	compound	30241_18
+30241_17	has_surface_form	Jack
+30241_18	is_in_sentence	sentence_30241
+30241_18	dobj	30241_16
+30241_18	has_surface_form	Buchanan
+30241_19	is_in_sentence	sentence_30241
+30241_19	punct	30241_18
+30241_19	has_surface_form	,
+30241_20	is_in_sentence	sentence_30241
+30241_20	compound	30241_21
+30241_20	has_surface_form	Joan
+30241_21	is_in_sentence	sentence_30241
+30241_21	conj	30241_18
+30241_21	has_surface_form	Barry
+30241_22	is_in_sentence	sentence_30241
+30241_22	cc	30241_21
+30241_22	has_surface_form	and
+30241_23	is_in_sentence	sentence_30241
+30241_23	compound	30241_24
+30241_23	has_surface_form	Warwick
+30241_24	is_in_sentence	sentence_30241
+30241_24	conj	30241_21
+30241_24	has_surface_form	Ward
+30241_25	is_in_sentence	sentence_30241
+30241_25	punct	30241_4
+30241_25	has_surface_form	.
+30241_26	is_in_sentence	sentence_30241
+30241_26	dep	30241_4
+30241_26	has_surface_form	
+A Man of Mayfair	surface_form	A Man of Mayfair
+A Man of Mayfair	movie-has-director	Louis Mercanton
+Louis Mercanton	surface_form	Louis Mercanton

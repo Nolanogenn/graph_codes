@@ -1,0 +1,67 @@
+3273_0	is_in_sentence	sentence_3273
+3273_0	compound	3273_1
+3273_0	has_surface_form	Cold
+3273_0	part_of_entity	Cold Moon
+3273_1	is_in_sentence	sentence_3273
+3273_1	nsubj	3273_8
+3273_1	has_surface_form	Moon
+3273_1	part_of_entity	Cold Moon
+3273_8	is_in_sentence	sentence_3273
+3273_8	ROOT	3273_8
+3273_8	has_surface_form	is
+3273_2	is_in_sentence	sentence_3273
+3273_2	punct	3273_3
+3273_2	has_surface_form	(
+3273_3	is_in_sentence	sentence_3273
+3273_3	appos	3273_1
+3273_3	has_surface_form	French
+3273_4	is_in_sentence	sentence_3273
+3273_4	punct	3273_3
+3273_4	has_surface_form	:
+3273_5	is_in_sentence	sentence_3273
+3273_5	compound	3273_6
+3273_5	has_surface_form	Lune
+3273_6	is_in_sentence	sentence_3273
+3273_6	appos	3273_1
+3273_6	has_surface_form	froide
+3273_7	is_in_sentence	sentence_3273
+3273_7	punct	3273_1
+3273_7	has_surface_form	)
+3273_9	is_in_sentence	sentence_3273
+3273_9	det	3273_13
+3273_9	has_surface_form	a
+3273_13	is_in_sentence	sentence_3273
+3273_13	attr	3273_8
+3273_13	has_surface_form	film
+3273_10	is_in_sentence	sentence_3273
+3273_10	nummod	3273_13
+3273_10	has_surface_form	1991
+3273_11	is_in_sentence	sentence_3273
+3273_11	amod	3273_13
+3273_11	has_surface_form	French
+3273_12	is_in_sentence	sentence_3273
+3273_12	compound	3273_13
+3273_12	has_surface_form	drama
+3273_14	is_in_sentence	sentence_3273
+3273_14	acl	3273_13
+3273_14	has_surface_form	directed
+3273_15	is_in_sentence	sentence_3273
+3273_15	agent	3273_14
+3273_15	has_surface_form	by
+3273_16	is_in_sentence	sentence_3273
+3273_16	compound	3273_17
+3273_16	has_surface_form	Patrick
+3273_16	part_of_entity	Patrick Bouchitey
+3273_17	is_in_sentence	sentence_3273
+3273_17	pobj	3273_15
+3273_17	has_surface_form	Bouchitey
+3273_17	part_of_entity	Patrick Bouchitey
+3273_18	is_in_sentence	sentence_3273
+3273_18	punct	3273_8
+3273_18	has_surface_form	.
+3273_19	is_in_sentence	sentence_3273
+3273_19	dep	3273_19
+3273_19	has_surface_form	
+Cold Moon	surface_form	Cold Moon
+Cold Moon	movie-has-director	Patrick Bouchitey
+Patrick Bouchitey	surface_form	Patrick Bouchitey

@@ -1,0 +1,40 @@
+14270_0	is_in_sentence	sentence_14270
+14270_0	compound	14270_1
+14270_0	has_surface_form	Cold
+14270_0	part_of_entity	Cold Breath
+14270_1	is_in_sentence	sentence_14270
+14270_1	nsubj	14270_2
+14270_1	has_surface_form	Breath
+14270_1	part_of_entity	Cold Breath
+14270_2	is_in_sentence	sentence_14270
+14270_2	ROOT	14270_2
+14270_2	has_surface_form	is
+14270_3	is_in_sentence	sentence_14270
+14270_3	det	14270_5
+14270_3	has_surface_form	a
+14270_5	is_in_sentence	sentence_14270
+14270_5	attr	14270_2
+14270_5	has_surface_form	film
+14270_4	is_in_sentence	sentence_14270
+14270_4	nummod	14270_5
+14270_4	has_surface_form	2017
+14270_6	is_in_sentence	sentence_14270
+14270_6	prep	14270_5
+14270_6	has_surface_form	by
+14270_7	is_in_sentence	sentence_14270
+14270_7	compound	14270_8
+14270_7	has_surface_form	Abbas
+14270_7	part_of_entity	Abbas Raziji
+14270_8	is_in_sentence	sentence_14270
+14270_8	pobj	14270_6
+14270_8	has_surface_form	Raziji
+14270_8	part_of_entity	Abbas Raziji
+14270_9	is_in_sentence	sentence_14270
+14270_9	punct	14270_2
+14270_9	has_surface_form	.
+14270_10	is_in_sentence	sentence_14270
+14270_10	dep	14270_2
+14270_10	has_surface_form	
+Cold Breath	surface_form	Cold Breath
+Cold Breath	movie-has-director	Abbas Raziji
+Abbas Raziji	surface_form	Abbas Raziji

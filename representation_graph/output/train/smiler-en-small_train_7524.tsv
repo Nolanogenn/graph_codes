@@ -1,0 +1,111 @@
+7523_0	is_in_sentence	sentence_7523
+7523_0	compound	7523_1
+7523_0	has_surface_form	Hagar
+7523_0	part_of_entity	Hagar Schon Aaronson Shrieve
+7523_1	is_in_sentence	sentence_7523
+7523_1	compound	7523_3
+7523_1	has_surface_form	Schon
+7523_1	part_of_entity	Hagar Schon Aaronson Shrieve
+7523_3	is_in_sentence	sentence_7523
+7523_3	nsubj	7523_10
+7523_3	has_surface_form	Shrieve
+7523_3	part_of_entity	Hagar Schon Aaronson Shrieve
+7523_2	is_in_sentence	sentence_7523
+7523_2	compound	7523_3
+7523_2	has_surface_form	Aaronson
+7523_2	part_of_entity	Hagar Schon Aaronson Shrieve
+7523_10	is_in_sentence	sentence_7523
+7523_10	ROOT	7523_10
+7523_10	has_surface_form	was
+7523_4	is_in_sentence	sentence_7523
+7523_4	punct	7523_6
+7523_4	has_surface_form	(
+7523_6	is_in_sentence	sentence_7523
+7523_6	parataxis	7523_3
+7523_6	has_surface_form	known
+7523_5	is_in_sentence	sentence_7523
+7523_5	advmod	7523_6
+7523_5	has_surface_form	also
+7523_7	is_in_sentence	sentence_7523
+7523_7	prep	7523_6
+7523_7	has_surface_form	as
+7523_8	is_in_sentence	sentence_7523
+7523_8	pobj	7523_7
+7523_8	has_surface_form	HSAS
+7523_9	is_in_sentence	sentence_7523
+7523_9	punct	7523_6
+7523_9	has_surface_form	)
+7523_11	is_in_sentence	sentence_7523
+7523_11	det	7523_13
+7523_11	has_surface_form	a
+7523_13	is_in_sentence	sentence_7523
+7523_13	attr	7523_10
+7523_13	has_surface_form	band
+7523_12	is_in_sentence	sentence_7523
+7523_12	compound	7523_13
+7523_12	has_surface_form	supergroup
+7523_14	is_in_sentence	sentence_7523
+7523_14	acl	7523_13
+7523_14	has_surface_form	featuring
+7523_15	is_in_sentence	sentence_7523
+7523_15	compound	7523_16
+7523_15	has_surface_form	lead
+7523_16	is_in_sentence	sentence_7523
+7523_16	compound	7523_18
+7523_16	has_surface_form	vocalist
+7523_18	is_in_sentence	sentence_7523
+7523_18	dobj	7523_14
+7523_18	has_surface_form	Hagar
+7523_17	is_in_sentence	sentence_7523
+7523_17	compound	7523_18
+7523_17	has_surface_form	Sammy
+7523_19	is_in_sentence	sentence_7523
+7523_19	punct	7523_10
+7523_19	has_surface_form	,
+7523_20	is_in_sentence	sentence_7523
+7523_20	advcl	7523_10
+7523_20	has_surface_form	lead
+7523_21	is_in_sentence	sentence_7523
+7523_21	compound	7523_23
+7523_21	has_surface_form	guitarist
+7523_23	is_in_sentence	sentence_7523
+7523_23	dobj	7523_20
+7523_23	has_surface_form	Schon
+7523_22	is_in_sentence	sentence_7523
+7523_22	compound	7523_23
+7523_22	has_surface_form	Neal
+7523_24	is_in_sentence	sentence_7523
+7523_24	punct	7523_23
+7523_24	has_surface_form	,
+7523_25	is_in_sentence	sentence_7523
+7523_25	compound	7523_27
+7523_25	has_surface_form	bassist
+7523_27	is_in_sentence	sentence_7523
+7523_27	appos	7523_23
+7523_27	has_surface_form	Aaronson
+7523_26	is_in_sentence	sentence_7523
+7523_26	compound	7523_27
+7523_26	has_surface_form	Kenny
+7523_28	is_in_sentence	sentence_7523
+7523_28	cc	7523_27
+7523_28	has_surface_form	and
+7523_29	is_in_sentence	sentence_7523
+7523_29	compound	7523_31
+7523_29	has_surface_form	drummer
+7523_31	is_in_sentence	sentence_7523
+7523_31	conj	7523_27
+7523_31	has_surface_form	Shrieve
+7523_31	part_of_entity	Michael Shrieve
+7523_30	is_in_sentence	sentence_7523
+7523_30	compound	7523_31
+7523_30	has_surface_form	Michael
+7523_30	part_of_entity	Michael Shrieve
+7523_32	is_in_sentence	sentence_7523
+7523_32	punct	7523_10
+7523_32	has_surface_form	.
+7523_33	is_in_sentence	sentence_7523
+7523_33	dep	7523_33
+7523_33	has_surface_form	
+Hagar Schon Aaronson Shrieve	surface_form	Hagar Schon Aaronson Shrieve
+Hagar Schon Aaronson Shrieve	org-has-member	Michael Shrieve
+Michael Shrieve	surface_form	Michael Shrieve

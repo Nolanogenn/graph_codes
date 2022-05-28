@@ -1,0 +1,62 @@
+25082_0	is_in_sentence	sentence_25082
+25082_0	compound	25082_1
+25082_0	is_entity	Ventura
+25082_0	part_of_entity	Ventura College
+25082_1	is_in_sentence	sentence_25082
+25082_1	nsubj	25082_2
+25082_1	has_surface_form	College
+25082_1	part_of_entity	Ventura College
+Ventura	surface_form	Ventura
+25082_2	is_in_sentence	sentence_25082
+25082_2	ROOT	25082_2
+25082_2	has_surface_form	is
+25082_3	is_in_sentence	sentence_25082
+25082_3	det	25082_9
+25082_3	has_surface_form	a
+25082_9	is_in_sentence	sentence_25082
+25082_9	attr	25082_2
+25082_9	has_surface_form	college
+25082_4	is_in_sentence	sentence_25082
+25082_4	nmod	25082_6
+25082_4	has_surface_form	California
+25082_6	is_in_sentence	sentence_25082
+25082_6	npadvmod	25082_7
+25082_6	has_surface_form	state
+25082_5	is_in_sentence	sentence_25082
+25082_5	punct	25082_6
+25082_5	has_surface_form	-
+25082_7	is_in_sentence	sentence_25082
+25082_7	amod	25082_9
+25082_7	has_surface_form	funded
+25082_8	is_in_sentence	sentence_25082
+25082_8	compound	25082_9
+25082_8	has_surface_form	community
+25082_10	is_in_sentence	sentence_25082
+25082_10	acl	25082_9
+25082_10	has_surface_form	located
+25082_11	is_in_sentence	sentence_25082
+25082_11	prep	25082_10
+25082_11	has_surface_form	in
+25082_12	is_in_sentence	sentence_25082
+25082_12	pobj	25082_11
+25082_12	is_entity	Ventura
+25082_13	is_in_sentence	sentence_25082
+25082_13	punct	25082_12
+25082_13	has_surface_form	,
+25082_14	is_in_sentence	sentence_25082
+25082_14	conj	25082_12
+25082_14	has_surface_form	California
+25082_15	is_in_sentence	sentence_25082
+25082_15	punct	25082_14
+25082_15	has_surface_form	,
+25082_16	is_in_sentence	sentence_25082
+25082_16	appos	25082_14
+25082_16	has_surface_form	USA
+25082_17	is_in_sentence	sentence_25082
+25082_17	punct	25082_2
+25082_17	has_surface_form	.
+25082_18	is_in_sentence	sentence_25082
+25082_18	dep	25082_2
+25082_18	has_surface_form	
+Ventura College	surface_form	Ventura College
+Ventura College	is-where	Ventura

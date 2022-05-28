@@ -1,0 +1,62 @@
+26993_0	is_in_sentence	sentence_26993
+26993_0	compound	26993_1
+26993_0	has_surface_form	Jerry
+26993_0	part_of_entity	Jerry Steele
+26993_1	is_in_sentence	sentence_26993
+26993_1	nsubj	26993_9
+26993_1	has_surface_form	Steele
+26993_1	part_of_entity	Jerry Steele
+26993_9	is_in_sentence	sentence_26993
+26993_9	ROOT	26993_9
+26993_9	has_surface_form	is
+26993_2	is_in_sentence	sentence_26993
+26993_2	punct	26993_3
+26993_2	has_surface_form	(
+26993_3	is_in_sentence	sentence_26993
+26993_3	parataxis	26993_1
+26993_3	has_surface_form	born
+26993_4	is_in_sentence	sentence_26993
+26993_4	npadvmod	26993_3
+26993_4	has_surface_form	March
+26993_5	is_in_sentence	sentence_26993
+26993_5	nummod	26993_4
+26993_5	has_surface_form	10
+26993_6	is_in_sentence	sentence_26993
+26993_6	punct	26993_4
+26993_6	has_surface_form	,
+26993_7	is_in_sentence	sentence_26993
+26993_7	nummod	26993_4
+26993_7	has_surface_form	1939
+26993_8	is_in_sentence	sentence_26993
+26993_8	punct	26993_3
+26993_8	has_surface_form	)
+26993_10	is_in_sentence	sentence_26993
+26993_10	det	26993_14
+26993_10	has_surface_form	a
+26993_14	is_in_sentence	sentence_26993
+26993_14	attr	26993_9
+26993_14	has_surface_form	player
+26993_11	is_in_sentence	sentence_26993
+26993_11	amod	26993_14
+26993_11	has_surface_form	retired
+26993_12	is_in_sentence	sentence_26993
+26993_12	amod	26993_14
+26993_12	has_surface_form	American
+26993_13	is_in_sentence	sentence_26993
+26993_13	compound	26993_14
+26993_13	has_surface_form	basketball
+26993_15	is_in_sentence	sentence_26993
+26993_15	cc	26993_14
+26993_15	has_surface_form	and
+26993_16	is_in_sentence	sentence_26993
+26993_16	conj	26993_14
+26993_16	is_entity	coach
+coach	surface_form	coach
+26993_17	is_in_sentence	sentence_26993
+26993_17	punct	26993_9
+26993_17	has_surface_form	.
+26993_18	is_in_sentence	sentence_26993
+26993_18	dep	26993_18
+26993_18	has_surface_form	
+Jerry Steele	surface_form	Jerry Steele
+Jerry Steele	has-type	coach

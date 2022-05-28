@@ -1,0 +1,63 @@
+2635_0	is_in_sentence	sentence_2635
+2635_0	compound	2635_2
+2635_0	has_surface_form	Thomas
+2635_0	part_of_entity	Thomas Christopher Collins
+2635_2	is_in_sentence	sentence_2635
+2635_2	nsubj	2635_9
+2635_2	has_surface_form	Collins
+2635_2	part_of_entity	Thomas Christopher Collins
+2635_1	is_in_sentence	sentence_2635
+2635_1	compound	2635_2
+2635_1	has_surface_form	Christopher
+2635_1	part_of_entity	Thomas Christopher Collins
+2635_9	is_in_sentence	sentence_2635
+2635_9	ROOT	2635_9
+2635_9	has_surface_form	is
+2635_3	is_in_sentence	sentence_2635
+2635_3	punct	2635_4
+2635_3	has_surface_form	(
+2635_4	is_in_sentence	sentence_2635
+2635_4	parataxis	2635_2
+2635_4	has_surface_form	born
+2635_5	is_in_sentence	sentence_2635
+2635_5	npadvmod	2635_4
+2635_5	has_surface_form	16
+2635_6	is_in_sentence	sentence_2635
+2635_6	npadvmod	2635_4
+2635_6	has_surface_form	January
+2635_7	is_in_sentence	sentence_2635
+2635_7	nummod	2635_6
+2635_7	has_surface_form	1947
+2635_8	is_in_sentence	sentence_2635
+2635_8	punct	2635_2
+2635_8	has_surface_form	)
+2635_10	is_in_sentence	sentence_2635
+2635_10	det	2635_12
+2635_10	has_surface_form	a
+2635_12	is_in_sentence	sentence_2635
+2635_12	attr	2635_9
+2635_12	is_entity	cardinal
+2635_11	is_in_sentence	sentence_2635
+2635_11	amod	2635_12
+2635_11	has_surface_form	Canadian
+cardinal	surface_form	cardinal
+2635_13	is_in_sentence	sentence_2635
+2635_13	prep	2635_12
+2635_13	has_surface_form	of
+2635_14	is_in_sentence	sentence_2635
+2635_14	det	2635_16
+2635_14	has_surface_form	the
+2635_16	is_in_sentence	sentence_2635
+2635_16	pobj	2635_13
+2635_16	has_surface_form	Church
+2635_15	is_in_sentence	sentence_2635
+2635_15	compound	2635_16
+2635_15	has_surface_form	Catholic
+2635_17	is_in_sentence	sentence_2635
+2635_17	punct	2635_9
+2635_17	has_surface_form	.
+2635_18	is_in_sentence	sentence_2635
+2635_18	dep	2635_9
+2635_18	has_surface_form	
+Thomas Christopher Collins	surface_form	Thomas Christopher Collins
+Thomas Christopher Collins	has-type	cardinal

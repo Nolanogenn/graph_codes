@@ -1,0 +1,73 @@
+16125_0	is_in_sentence	sentence_16125
+16125_0	compound	16125_1
+16125_0	has_surface_form	Adrián
+16125_0	part_of_entity	Adrián Kocsis
+16125_1	is_in_sentence	sentence_16125
+16125_1	nsubj	16125_10
+16125_1	has_surface_form	Kocsis
+16125_1	part_of_entity	Adrián Kocsis
+16125_10	is_in_sentence	sentence_16125
+16125_10	ROOT	16125_10
+16125_10	has_surface_form	is
+16125_2	is_in_sentence	sentence_16125
+16125_2	punct	16125_1
+16125_2	has_surface_form	(
+16125_3	is_in_sentence	sentence_16125
+16125_3	acl	16125_1
+16125_3	has_surface_form	born
+16125_4	is_in_sentence	sentence_16125
+16125_4	nummod	16125_5
+16125_4	has_surface_form	25
+16125_5	is_in_sentence	sentence_16125
+16125_5	npadvmod	16125_3
+16125_5	has_surface_form	March
+16125_6	is_in_sentence	sentence_16125
+16125_6	nummod	16125_5
+16125_6	has_surface_form	1991
+16125_7	is_in_sentence	sentence_16125
+16125_7	prep	16125_3
+16125_7	has_surface_form	in
+16125_8	is_in_sentence	sentence_16125
+16125_8	pobj	16125_7
+16125_8	has_surface_form	Körmend
+16125_9	is_in_sentence	sentence_16125
+16125_9	punct	16125_1
+16125_9	has_surface_form	)
+16125_11	is_in_sentence	sentence_16125
+16125_11	det	16125_13
+16125_11	has_surface_form	a
+16125_13	is_in_sentence	sentence_16125
+16125_13	attr	16125_10
+16125_13	has_surface_form	striker
+16125_12	is_in_sentence	sentence_16125
+16125_12	amod	16125_13
+16125_12	has_surface_form	Hungarian
+16125_14	is_in_sentence	sentence_16125
+16125_14	nsubj	16125_16
+16125_14	has_surface_form	who
+16125_16	is_in_sentence	sentence_16125
+16125_16	relcl	16125_13
+16125_16	has_surface_form	plays
+16125_15	is_in_sentence	sentence_16125
+16125_15	advmod	16125_16
+16125_15	has_surface_form	currently
+16125_17	is_in_sentence	sentence_16125
+16125_17	prep	16125_16
+16125_17	has_surface_form	for
+16125_18	is_in_sentence	sentence_16125
+16125_18	compound	16125_19
+16125_18	has_surface_form	Zalaegerszegi
+16125_18	part_of_entity	Zalaegerszegi TE
+16125_19	is_in_sentence	sentence_16125
+16125_19	pobj	16125_17
+16125_19	has_surface_form	TE
+16125_19	part_of_entity	Zalaegerszegi TE
+16125_20	is_in_sentence	sentence_16125
+16125_20	punct	16125_10
+16125_20	has_surface_form	.
+16125_21	is_in_sentence	sentence_16125
+16125_21	dep	16125_10
+16125_21	has_surface_form	
+Adrián Kocsis	surface_form	Adrián Kocsis
+Adrián Kocsis	is-member-of	Zalaegerszegi TE
+Zalaegerszegi TE	surface_form	Zalaegerszegi TE

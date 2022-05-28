@@ -1,0 +1,72 @@
+31720_0	is_in_sentence	sentence_31720
+31720_0	compound	31720_1
+31720_0	has_surface_form	Eine
+31720_0	part_of_entity	Eine Liebe in Deutschland
+31720_1	is_in_sentence	sentence_31720
+31720_1	nsubj	31720_10
+31720_1	has_surface_form	Liebe
+31720_1	part_of_entity	Eine Liebe in Deutschland
+31720_10	is_in_sentence	sentence_31720
+31720_10	ROOT	31720_10
+31720_10	has_surface_form	is
+31720_2	is_in_sentence	sentence_31720
+31720_2	prep	31720_1
+31720_2	has_surface_form	in
+31720_2	part_of_entity	Eine Liebe in Deutschland
+31720_3	is_in_sentence	sentence_31720
+31720_3	pobj	31720_2
+31720_3	has_surface_form	Deutschland
+31720_3	part_of_entity	Eine Liebe in Deutschland
+31720_4	is_in_sentence	sentence_31720
+31720_4	punct	31720_3
+31720_4	has_surface_form	(
+31720_5	is_in_sentence	sentence_31720
+31720_5	det	31720_6
+31720_5	has_surface_form	A
+31720_6	is_in_sentence	sentence_31720
+31720_6	appos	31720_3
+31720_6	has_surface_form	Love
+31720_7	is_in_sentence	sentence_31720
+31720_7	prep	31720_6
+31720_7	has_surface_form	in
+31720_8	is_in_sentence	sentence_31720
+31720_8	pobj	31720_7
+31720_8	has_surface_form	Germany
+31720_9	is_in_sentence	sentence_31720
+31720_9	punct	31720_1
+31720_9	has_surface_form	)
+31720_11	is_in_sentence	sentence_31720
+31720_11	det	31720_14
+31720_11	has_surface_form	a
+31720_14	is_in_sentence	sentence_31720
+31720_14	attr	31720_10
+31720_14	has_surface_form	film
+31720_12	is_in_sentence	sentence_31720
+31720_12	nummod	31720_14
+31720_12	has_surface_form	1983
+31720_13	is_in_sentence	sentence_31720
+31720_13	compound	31720_14
+31720_13	has_surface_form	feature
+31720_15	is_in_sentence	sentence_31720
+31720_15	acl	31720_14
+31720_15	has_surface_form	directed
+31720_16	is_in_sentence	sentence_31720
+31720_16	agent	31720_15
+31720_16	has_surface_form	by
+31720_17	is_in_sentence	sentence_31720
+31720_17	compound	31720_18
+31720_17	has_surface_form	Andrzej
+31720_17	part_of_entity	Andrzej Wajda
+31720_18	is_in_sentence	sentence_31720
+31720_18	pobj	31720_16
+31720_18	has_surface_form	Wajda
+31720_18	part_of_entity	Andrzej Wajda
+31720_19	is_in_sentence	sentence_31720
+31720_19	punct	31720_10
+31720_19	has_surface_form	.
+31720_20	is_in_sentence	sentence_31720
+31720_20	dep	31720_10
+31720_20	has_surface_form	
+Eine Liebe in Deutschland	surface_form	Eine Liebe in Deutschland
+Eine Liebe in Deutschland	movie-has-director	Andrzej Wajda
+Andrzej Wajda	surface_form	Andrzej Wajda

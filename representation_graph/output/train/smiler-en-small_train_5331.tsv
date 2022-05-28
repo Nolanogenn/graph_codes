@@ -1,0 +1,44 @@
+5330_0	is_in_sentence	sentence_5330
+5330_0	compound	5330_1
+5330_0	has_surface_form	Laney
+5330_0	part_of_entity	Laney College
+5330_1	is_in_sentence	sentence_5330
+5330_1	nsubj	5330_2
+5330_1	has_surface_form	College
+5330_1	part_of_entity	Laney College
+5330_2	is_in_sentence	sentence_5330
+5330_2	ROOT	5330_2
+5330_2	has_surface_form	is
+5330_3	is_in_sentence	sentence_5330
+5330_3	det	5330_6
+5330_3	has_surface_form	a
+5330_6	is_in_sentence	sentence_5330
+5330_6	attr	5330_2
+5330_6	has_surface_form	college
+5330_4	is_in_sentence	sentence_5330
+5330_4	amod	5330_5
+5330_4	has_surface_form	public
+5330_5	is_in_sentence	sentence_5330
+5330_5	compound	5330_6
+5330_5	has_surface_form	community
+5330_7	is_in_sentence	sentence_5330
+5330_7	prep	5330_6
+5330_7	has_surface_form	in
+5330_8	is_in_sentence	sentence_5330
+5330_8	pobj	5330_7
+5330_8	has_surface_form	Oakland
+5330_9	is_in_sentence	sentence_5330
+5330_9	punct	5330_8
+5330_9	has_surface_form	,
+5330_10	is_in_sentence	sentence_5330
+5330_10	appos	5330_8
+5330_10	has_surface_form	California
+5330_11	is_in_sentence	sentence_5330
+5330_11	punct	5330_2
+5330_11	has_surface_form	.
+5330_12	is_in_sentence	sentence_5330
+5330_12	dep	5330_12
+5330_12	has_surface_form	
+Laney College	surface_form	Laney College
+Laney College	is-where	Oakland, California
+Oakland, California	surface_form	Oakland, California

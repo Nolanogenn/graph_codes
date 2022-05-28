@@ -1,0 +1,111 @@
+31581_0	is_in_sentence	sentence_31581
+31581_0	mark	31581_11
+31581_0	has_surface_form	After
+31581_0	part_of_entity	After You Duchess
+31581_11	is_in_sentence	sentence_31581
+31581_11	ROOT	31581_11
+31581_11	has_surface_form	is
+31581_1	is_in_sentence	sentence_31581
+31581_1	pobj	31581_0
+31581_1	has_surface_form	You
+31581_1	part_of_entity	After You Duchess
+31581_2	is_in_sentence	sentence_31581
+31581_2	appos	31581_1
+31581_2	has_surface_form	Duchess
+31581_2	part_of_entity	After You Duchess
+31581_3	is_in_sentence	sentence_31581
+31581_3	punct	31581_11
+31581_3	has_surface_form	(
+31581_4	is_in_sentence	sentence_31581
+31581_4	nsubj	31581_11
+31581_4	has_surface_form	French
+31581_5	is_in_sentence	sentence_31581
+31581_5	punct	31581_4
+31581_5	has_surface_form	:
+31581_6	is_in_sentence	sentence_31581
+31581_6	amod	31581_7
+31581_6	has_surface_form	Après
+31581_7	is_in_sentence	sentence_31581
+31581_7	amod	31581_9
+31581_7	has_surface_form	vous
+31581_9	is_in_sentence	sentence_31581
+31581_9	appos	31581_4
+31581_9	has_surface_form	duchesse
+31581_8	is_in_sentence	sentence_31581
+31581_8	punct	31581_7
+31581_8	has_surface_form	,
+31581_10	is_in_sentence	sentence_31581
+31581_10	punct	31581_4
+31581_10	has_surface_form	)
+31581_12	is_in_sentence	sentence_31581
+31581_12	det	31581_16
+31581_12	has_surface_form	a
+31581_16	is_in_sentence	sentence_31581
+31581_16	attr	31581_11
+31581_16	has_surface_form	film
+31581_13	is_in_sentence	sentence_31581
+31581_13	nummod	31581_16
+31581_13	has_surface_form	1954
+31581_14	is_in_sentence	sentence_31581
+31581_14	amod	31581_16
+31581_14	has_surface_form	French
+31581_15	is_in_sentence	sentence_31581
+31581_15	compound	31581_16
+31581_15	has_surface_form	comedy
+31581_17	is_in_sentence	sentence_31581
+31581_17	acl	31581_16
+31581_17	has_surface_form	directed
+31581_18	is_in_sentence	sentence_31581
+31581_18	agent	31581_17
+31581_18	has_surface_form	by
+31581_19	is_in_sentence	sentence_31581
+31581_19	compound	31581_21
+31581_19	has_surface_form	Robert
+31581_19	part_of_entity	Robert de Nesle
+31581_21	is_in_sentence	sentence_31581
+31581_21	pobj	31581_18
+31581_21	has_surface_form	Nesle
+31581_21	part_of_entity	Robert de Nesle
+31581_20	is_in_sentence	sentence_31581
+31581_20	compound	31581_21
+31581_20	has_surface_form	de
+31581_20	part_of_entity	Robert de Nesle
+31581_22	is_in_sentence	sentence_31581
+31581_22	cc	31581_17
+31581_22	has_surface_form	and
+31581_23	is_in_sentence	sentence_31581
+31581_23	conj	31581_17
+31581_23	has_surface_form	starring
+31581_24	is_in_sentence	sentence_31581
+31581_24	compound	31581_25
+31581_24	has_surface_form	Jean
+31581_25	is_in_sentence	sentence_31581
+31581_25	dobj	31581_23
+31581_25	has_surface_form	Parédès
+31581_26	is_in_sentence	sentence_31581
+31581_26	punct	31581_25
+31581_26	has_surface_form	,
+31581_27	is_in_sentence	sentence_31581
+31581_27	compound	31581_28
+31581_27	has_surface_form	Jacqueline
+31581_28	is_in_sentence	sentence_31581
+31581_28	conj	31581_25
+31581_28	has_surface_form	Pierreux
+31581_29	is_in_sentence	sentence_31581
+31581_29	cc	31581_28
+31581_29	has_surface_form	and
+31581_30	is_in_sentence	sentence_31581
+31581_30	compound	31581_31
+31581_30	has_surface_form	Jacques
+31581_31	is_in_sentence	sentence_31581
+31581_31	conj	31581_28
+31581_31	has_surface_form	Morel
+31581_32	is_in_sentence	sentence_31581
+31581_32	punct	31581_11
+31581_32	has_surface_form	.
+31581_33	is_in_sentence	sentence_31581
+31581_33	dep	31581_11
+31581_33	has_surface_form	
+After You Duchess	surface_form	After You Duchess
+After You Duchess	movie-has-director	Robert de Nesle
+Robert de Nesle	surface_form	Robert de Nesle

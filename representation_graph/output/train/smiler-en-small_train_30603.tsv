@@ -1,0 +1,82 @@
+30602_0	is_in_sentence	sentence_30602
+30602_0	compound	30602_1
+30602_0	has_surface_form	Andy
+30602_0	part_of_entity	Andy Stott
+30602_1	is_in_sentence	sentence_30602
+30602_1	nsubj	30602_2
+30602_1	has_surface_form	Stott
+30602_1	part_of_entity	Andy Stott
+30602_2	is_in_sentence	sentence_30602
+30602_2	ROOT	30602_2
+30602_2	has_surface_form	is
+30602_3	is_in_sentence	sentence_30602
+30602_3	det	30602_7
+30602_3	has_surface_form	a
+30602_7	is_in_sentence	sentence_30602
+30602_7	attr	30602_2
+30602_7	has_surface_form	producer
+30602_4	is_in_sentence	sentence_30602
+30602_4	npadvmod	30602_6
+30602_4	has_surface_form	Manchester
+30602_6	is_in_sentence	sentence_30602
+30602_6	amod	30602_7
+30602_6	has_surface_form	based
+30602_5	is_in_sentence	sentence_30602
+30602_5	punct	30602_6
+30602_5	has_surface_form	-
+30602_8	is_in_sentence	sentence_30602
+30602_8	prep	30602_7
+30602_8	has_surface_form	of
+30602_9	is_in_sentence	sentence_30602
+30602_9	pobj	30602_8
+30602_9	has_surface_form	dub
+30602_10	is_in_sentence	sentence_30602
+30602_10	cc	30602_9
+30602_10	has_surface_form	and
+30602_11	is_in_sentence	sentence_30602
+30602_11	compound	30602_12
+30602_11	has_surface_form	techno
+30602_11	part_of_entity	techno music
+30602_12	is_in_sentence	sentence_30602
+30602_12	conj	30602_9
+30602_12	has_surface_form	music
+30602_12	part_of_entity	techno music
+30602_13	is_in_sentence	sentence_30602
+30602_13	nsubj	30602_15
+30602_13	has_surface_form	who
+30602_15	is_in_sentence	sentence_30602
+30602_15	relcl	30602_7
+30602_15	has_surface_form	released
+30602_14	is_in_sentence	sentence_30602
+30602_14	aux	30602_15
+30602_14	has_surface_form	has
+30602_16	is_in_sentence	sentence_30602
+30602_16	nummod	30602_17
+30602_16	has_surface_form	five
+30602_17	is_in_sentence	sentence_30602
+30602_17	dobj	30602_15
+30602_17	has_surface_form	albums
+30602_18	is_in_sentence	sentence_30602
+30602_18	prep	30602_15
+30602_18	has_surface_form	with
+30602_19	is_in_sentence	sentence_30602
+30602_19	det	30602_22
+30602_19	has_surface_form	the
+30602_22	is_in_sentence	sentence_30602
+30602_22	pobj	30602_18
+30602_22	has_surface_form	label
+30602_20	is_in_sentence	sentence_30602
+30602_20	compound	30602_21
+30602_20	has_surface_form	Modern
+30602_21	is_in_sentence	sentence_30602
+30602_21	compound	30602_22
+30602_21	has_surface_form	Love
+30602_23	is_in_sentence	sentence_30602
+30602_23	punct	30602_2
+30602_23	has_surface_form	.
+30602_24	is_in_sentence	sentence_30602
+30602_24	dep	30602_24
+30602_24	has_surface_form	
+Andy Stott	surface_form	Andy Stott
+Andy Stott	has-genre	techno music
+techno music	surface_form	techno music

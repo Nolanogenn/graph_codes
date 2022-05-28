@@ -1,0 +1,79 @@
+13747_0	is_in_sentence	sentence_13747
+13747_0	compound	13747_1
+13747_0	has_surface_form	Props
+13747_0	part_of_entity	Props Inc
+13747_1	is_in_sentence	sentence_13747
+13747_1	nsubj	13747_10
+13747_1	has_surface_form	Inc
+13747_1	part_of_entity	Props Inc
+13747_10	is_in_sentence	sentence_13747
+13747_10	ROOT	13747_10
+13747_10	has_surface_form	is
+13747_2	is_in_sentence	sentence_13747
+13747_2	punct	13747_1
+13747_2	has_surface_form	,
+13747_3	is_in_sentence	sentence_13747
+13747_3	acl	13747_1
+13747_3	has_surface_form	founded
+13747_4	is_in_sentence	sentence_13747
+13747_4	prep	13747_3
+13747_4	has_surface_form	in
+13747_5	is_in_sentence	sentence_13747
+13747_5	pobj	13747_4
+13747_5	has_surface_form	1985
+13747_6	is_in_sentence	sentence_13747
+13747_6	agent	13747_3
+13747_6	has_surface_form	by
+13747_7	is_in_sentence	sentence_13747
+13747_7	compound	13747_8
+13747_7	has_surface_form	Jeff
+13747_7	part_of_entity	Jeff Bertuleit
+13747_8	is_in_sentence	sentence_13747
+13747_8	pobj	13747_6
+13747_8	has_surface_form	Bertuleit
+13747_8	part_of_entity	Jeff Bertuleit
+13747_9	is_in_sentence	sentence_13747
+13747_9	punct	13747_1
+13747_9	has_surface_form	,
+13747_11	is_in_sentence	sentence_13747
+13747_11	det	13747_13
+13747_11	has_surface_form	an
+13747_13	is_in_sentence	sentence_13747
+13747_13	attr	13747_10
+13747_13	has_surface_form	manufacturer
+13747_12	is_in_sentence	sentence_13747
+13747_12	amod	13747_13
+13747_12	has_surface_form	American
+13747_14	is_in_sentence	sentence_13747
+13747_14	prep	13747_13
+13747_14	has_surface_form	of
+13747_15	is_in_sentence	sentence_13747
+13747_15	amod	13747_16
+13747_15	has_surface_form	wooden
+13747_16	is_in_sentence	sentence_13747
+13747_16	pobj	13747_14
+13747_16	has_surface_form	propellers
+13747_17	is_in_sentence	sentence_13747
+13747_17	prep	13747_13
+13747_17	has_surface_form	for
+13747_18	is_in_sentence	sentence_13747
+13747_18	amod	13747_21
+13747_18	has_surface_form	homebuilt
+13747_21	is_in_sentence	sentence_13747
+13747_21	pobj	13747_17
+13747_21	has_surface_form	aircraft
+13747_19	is_in_sentence	sentence_13747
+13747_19	cc	13747_18
+13747_19	has_surface_form	and
+13747_20	is_in_sentence	sentence_13747
+13747_20	conj	13747_18
+13747_20	has_surface_form	ultralight
+13747_22	is_in_sentence	sentence_13747
+13747_22	punct	13747_10
+13747_22	has_surface_form	.
+13747_23	is_in_sentence	sentence_13747
+13747_23	dep	13747_23
+13747_23	has_surface_form	
+Props Inc	surface_form	Props Inc
+Props Inc	org-has-founder	Jeff Bertuleit
+Jeff Bertuleit	surface_form	Jeff Bertuleit

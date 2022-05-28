@@ -1,0 +1,83 @@
+5042_0	is_in_sentence	sentence_5042
+5042_0	compound	5042_1
+5042_0	has_surface_form	Dick
+5042_0	part_of_entity	Dick Cooke
+5042_1	is_in_sentence	sentence_5042
+5042_1	ROOT	5042_1
+5042_1	has_surface_form	Cooke
+5042_1	part_of_entity	Dick Cooke
+5042_2	is_in_sentence	sentence_5042
+5042_2	prep	5042_1
+5042_2	has_surface_form	in
+5042_3	is_in_sentence	sentence_5042
+5042_3	det	5042_8
+5042_3	has_surface_form	a
+5042_8	is_in_sentence	sentence_5042
+5042_8	pobj	5042_2
+5042_8	has_surface_form	coach
+5042_8	part_of_entity	college baseball coach
+5042_4	is_in_sentence	sentence_5042
+5042_4	amod	5042_8
+5042_4	has_surface_form	former
+5042_5	is_in_sentence	sentence_5042
+5042_5	amod	5042_8
+5042_5	has_surface_form	American
+5042_6	is_in_sentence	sentence_5042
+5042_6	compound	5042_7
+5042_6	has_surface_form	college
+5042_6	part_of_entity	college baseball coach
+5042_7	is_in_sentence	sentence_5042
+5042_7	compound	5042_8
+5042_7	has_surface_form	baseball
+5042_7	part_of_entity	college baseball coach
+5042_9	is_in_sentence	sentence_5042
+5042_9	punct	5042_8
+5042_9	has_surface_form	,
+5042_10	is_in_sentence	sentence_5042
+5042_10	nsubj	5042_11
+5042_10	has_surface_form	who
+5042_11	is_in_sentence	sentence_5042
+5042_11	relcl	5042_8
+5042_11	has_surface_form	served
+5042_12	is_in_sentence	sentence_5042
+5042_12	advmod	5042_13
+5042_12	has_surface_form	primarily
+5042_13	is_in_sentence	sentence_5042
+5042_13	prep	5042_11
+5042_13	has_surface_form	as
+5042_14	is_in_sentence	sentence_5042
+5042_14	det	5042_16
+5042_14	has_surface_form	the
+5042_16	is_in_sentence	sentence_5042
+5042_16	pobj	5042_13
+5042_16	has_surface_form	coach
+5042_15	is_in_sentence	sentence_5042
+5042_15	compound	5042_16
+5042_15	has_surface_form	head
+5042_17	is_in_sentence	sentence_5042
+5042_17	prep	5042_16
+5042_17	has_surface_form	of
+5042_18	is_in_sentence	sentence_5042
+5042_18	det	5042_22
+5042_18	has_surface_form	the
+5042_22	is_in_sentence	sentence_5042
+5042_22	pobj	5042_17
+5042_22	has_surface_form	program
+5042_19	is_in_sentence	sentence_5042
+5042_19	compound	5042_20
+5042_19	has_surface_form	Davidson
+5042_20	is_in_sentence	sentence_5042
+5042_20	compound	5042_22
+5042_20	has_surface_form	Wildcats
+5042_21	is_in_sentence	sentence_5042
+5042_21	compound	5042_22
+5042_21	has_surface_form	baseball
+5042_23	is_in_sentence	sentence_5042
+5042_23	punct	5042_1
+5042_23	has_surface_form	.
+5042_24	is_in_sentence	sentence_5042
+5042_24	dep	5042_24
+5042_24	has_surface_form	
+Dick Cooke	surface_form	Dick Cooke
+Dick Cooke	has-type	college baseball coach
+college baseball coach	surface_form	college baseball coach

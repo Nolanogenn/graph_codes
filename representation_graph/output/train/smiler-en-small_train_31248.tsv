@@ -1,0 +1,84 @@
+31247_0	is_in_sentence	sentence_31247
+31247_0	det	31247_3
+31247_0	has_surface_form	The
+31247_0	part_of_entity	The Last Hammer Blow
+31247_3	is_in_sentence	sentence_31247
+31247_3	nsubj	31247_13
+31247_3	has_surface_form	Blow
+31247_3	part_of_entity	The Last Hammer Blow
+31247_1	is_in_sentence	sentence_31247
+31247_1	compound	31247_3
+31247_1	has_surface_form	Last
+31247_1	part_of_entity	The Last Hammer Blow
+31247_2	is_in_sentence	sentence_31247
+31247_2	compound	31247_3
+31247_2	has_surface_form	Hammer
+31247_2	part_of_entity	The Last Hammer Blow
+31247_13	is_in_sentence	sentence_31247
+31247_13	ROOT	31247_13
+31247_13	has_surface_form	is
+31247_4	is_in_sentence	sentence_31247
+31247_4	punct	31247_3
+31247_4	has_surface_form	(
+31247_5	is_in_sentence	sentence_31247
+31247_5	appos	31247_3
+31247_5	has_surface_form	French
+31247_6	is_in_sentence	sentence_31247
+31247_6	punct	31247_3
+31247_6	has_surface_form	:
+31247_7	is_in_sentence	sentence_31247
+31247_7	compound	31247_11
+31247_7	has_surface_form	Le
+31247_11	is_in_sentence	sentence_31247
+31247_11	appos	31247_3
+31247_11	has_surface_form	marteau
+31247_8	is_in_sentence	sentence_31247
+31247_8	compound	31247_11
+31247_8	has_surface_form	Dernier
+31247_9	is_in_sentence	sentence_31247
+31247_9	nmod	31247_11
+31247_9	has_surface_form	Coup
+31247_10	is_in_sentence	sentence_31247
+31247_10	compound	31247_11
+31247_10	has_surface_form	de
+31247_12	is_in_sentence	sentence_31247
+31247_12	punct	31247_3
+31247_12	has_surface_form	)
+31247_14	is_in_sentence	sentence_31247
+31247_14	det	31247_18
+31247_14	has_surface_form	a
+31247_18	is_in_sentence	sentence_31247
+31247_18	attr	31247_13
+31247_18	has_surface_form	film
+31247_15	is_in_sentence	sentence_31247
+31247_15	nummod	31247_18
+31247_15	has_surface_form	2014
+31247_16	is_in_sentence	sentence_31247
+31247_16	amod	31247_18
+31247_16	has_surface_form	French
+31247_17	is_in_sentence	sentence_31247
+31247_17	compound	31247_18
+31247_17	has_surface_form	drama
+31247_19	is_in_sentence	sentence_31247
+31247_19	acl	31247_18
+31247_19	has_surface_form	directed
+31247_20	is_in_sentence	sentence_31247
+31247_20	agent	31247_19
+31247_20	has_surface_form	by
+31247_21	is_in_sentence	sentence_31247
+31247_21	compound	31247_22
+31247_21	has_surface_form	Alix
+31247_21	part_of_entity	Alix Delaporte
+31247_22	is_in_sentence	sentence_31247
+31247_22	pobj	31247_20
+31247_22	has_surface_form	Delaporte
+31247_22	part_of_entity	Alix Delaporte
+31247_23	is_in_sentence	sentence_31247
+31247_23	punct	31247_13
+31247_23	has_surface_form	.
+31247_24	is_in_sentence	sentence_31247
+31247_24	dep	31247_13
+31247_24	has_surface_form	
+The Last Hammer Blow	surface_form	The Last Hammer Blow
+The Last Hammer Blow	movie-has-director	Alix Delaporte
+Alix Delaporte	surface_form	Alix Delaporte

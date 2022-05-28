@@ -1,0 +1,76 @@
+32035_0	is_in_sentence	sentence_32035
+32035_0	compound	32035_1
+32035_0	has_surface_form	Kalat
+32035_0	part_of_entity	Kalat Nakalat
+32035_1	is_in_sentence	sentence_32035
+32035_1	nsubj	32035_2
+32035_1	has_surface_form	Nakalat
+32035_1	part_of_entity	Kalat Nakalat
+32035_2	is_in_sentence	sentence_32035
+32035_2	ROOT	32035_2
+32035_2	has_surface_form	is
+32035_3	is_in_sentence	sentence_32035
+32035_3	det	32035_5
+32035_3	has_surface_form	a
+32035_5	is_in_sentence	sentence_32035
+32035_5	attr	32035_2
+32035_5	has_surface_form	movie
+32035_4	is_in_sentence	sentence_32035
+32035_4	compound	32035_5
+32035_4	has_surface_form	Marathi
+32035_6	is_in_sentence	sentence_32035
+32035_6	acl	32035_5
+32035_6	has_surface_form	released
+32035_7	is_in_sentence	sentence_32035
+32035_7	prep	32035_6
+32035_7	has_surface_form	on
+32035_8	is_in_sentence	sentence_32035
+32035_8	pobj	32035_7
+32035_8	has_surface_form	11
+32035_9	is_in_sentence	sentence_32035
+32035_9	pobj	32035_7
+32035_9	has_surface_form	December
+32035_10	is_in_sentence	sentence_32035
+32035_10	nummod	32035_9
+32035_10	has_surface_form	1989
+32035_11	is_in_sentence	sentence_32035
+32035_11	punct	32035_2
+32035_11	has_surface_form	.
+32035_12	is_in_sentence	sentence_32035
+32035_12	ROOT	32035_12
+32035_12	has_surface_form	Produced
+32035_13	is_in_sentence	sentence_32035
+32035_13	agent	32035_12
+32035_13	has_surface_form	by
+32035_14	is_in_sentence	sentence_32035
+32035_14	compound	32035_15
+32035_14	has_surface_form	Smita
+32035_15	is_in_sentence	sentence_32035
+32035_15	pobj	32035_13
+32035_15	has_surface_form	Talwalkar
+32035_16	is_in_sentence	sentence_32035
+32035_16	cc	32035_12
+32035_16	has_surface_form	and
+32035_17	is_in_sentence	sentence_32035
+32035_17	conj	32035_12
+32035_17	has_surface_form	directed
+32035_18	is_in_sentence	sentence_32035
+32035_18	agent	32035_17
+32035_18	has_surface_form	by
+32035_19	is_in_sentence	sentence_32035
+32035_19	compound	32035_20
+32035_19	has_surface_form	Kanchan
+32035_19	part_of_entity	Kanchan Nayak
+32035_20	is_in_sentence	sentence_32035
+32035_20	pobj	32035_18
+32035_20	has_surface_form	Nayak
+32035_20	part_of_entity	Kanchan Nayak
+32035_21	is_in_sentence	sentence_32035
+32035_21	punct	32035_12
+32035_21	has_surface_form	.
+32035_22	is_in_sentence	sentence_32035
+32035_22	dep	32035_22
+32035_22	has_surface_form	
+Kalat Nakalat	surface_form	Kalat Nakalat
+Kalat Nakalat	movie-has-director	Kanchan Nayak
+Kanchan Nayak	surface_form	Kanchan Nayak

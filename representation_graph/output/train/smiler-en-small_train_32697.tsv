@@ -1,0 +1,62 @@
+32696_0	is_in_sentence	sentence_32696
+32696_0	det	32696_4
+32696_0	has_surface_form	The
+32696_4	is_in_sentence	sentence_32696
+32696_4	nsubjpass	32696_6
+32696_4	has_surface_form	clock
+32696_4	part_of_entity	alarm clock
+32696_1	is_in_sentence	sentence_32696
+32696_1	amod	32696_4
+32696_1	has_surface_form	first
+32696_2	is_in_sentence	sentence_32696
+32696_2	amod	32696_4
+32696_2	has_surface_form	American
+32696_3	is_in_sentence	sentence_32696
+32696_3	compound	32696_4
+32696_3	has_surface_form	alarm
+32696_3	part_of_entity	alarm clock
+32696_6	is_in_sentence	sentence_32696
+32696_6	ROOT	32696_6
+32696_6	has_surface_form	created
+32696_5	is_in_sentence	sentence_32696
+32696_5	auxpass	32696_6
+32696_5	has_surface_form	was
+32696_7	is_in_sentence	sentence_32696
+32696_7	agent	32696_6
+32696_7	has_surface_form	by
+32696_8	is_in_sentence	sentence_32696
+32696_8	compound	32696_9
+32696_8	has_surface_form	Levi
+32696_9	is_in_sentence	sentence_32696
+32696_9	pobj	32696_7
+32696_9	has_surface_form	Hutchins
+32696_10	is_in_sentence	sentence_32696
+32696_10	punct	32696_9
+32696_10	has_surface_form	,
+32696_11	is_in_sentence	sentence_32696
+32696_11	prep	32696_9
+32696_11	has_surface_form	of
+32696_12	is_in_sentence	sentence_32696
+32696_12	compound	32696_13
+32696_12	has_surface_form	New
+32696_13	is_in_sentence	sentence_32696
+32696_13	pobj	32696_11
+32696_13	has_surface_form	Hampshire
+32696_14	is_in_sentence	sentence_32696
+32696_14	punct	32696_6
+32696_14	has_surface_form	,
+32696_15	is_in_sentence	sentence_32696
+32696_15	prep	32696_6
+32696_15	has_surface_form	in
+32696_16	is_in_sentence	sentence_32696
+32696_16	pobj	32696_15
+32696_16	is_entity	1787
+1787	surface_form	1787
+32696_17	is_in_sentence	sentence_32696
+32696_17	punct	32696_6
+32696_17	has_surface_form	.
+32696_18	is_in_sentence	sentence_32696
+32696_18	dep	32696_18
+32696_18	has_surface_form	
+alarm clock	surface_form	alarm clock
+alarm clock	invented-when	1787

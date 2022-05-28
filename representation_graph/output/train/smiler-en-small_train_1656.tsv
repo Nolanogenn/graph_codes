@@ -1,0 +1,105 @@
+1655_0	is_in_sentence	sentence_1655
+1655_0	compound	1655_1
+1655_0	has_surface_form	Hope
+1655_0	part_of_entity	Hope Sandoval
+1655_1	is_in_sentence	sentence_1655
+1655_1	nsubj	1655_9
+1655_1	has_surface_form	Sandoval
+1655_1	part_of_entity	Hope Sandoval
+1655_9	is_in_sentence	sentence_1655
+1655_9	ROOT	1655_9
+1655_9	has_surface_form	is
+1655_2	is_in_sentence	sentence_1655
+1655_2	punct	1655_1
+1655_2	has_surface_form	(
+1655_3	is_in_sentence	sentence_1655
+1655_3	acl	1655_1
+1655_3	has_surface_form	born
+1655_4	is_in_sentence	sentence_1655
+1655_4	npadvmod	1655_3
+1655_4	has_surface_form	June
+1655_5	is_in_sentence	sentence_1655
+1655_5	nummod	1655_4
+1655_5	has_surface_form	24
+1655_6	is_in_sentence	sentence_1655
+1655_6	punct	1655_4
+1655_6	has_surface_form	,
+1655_7	is_in_sentence	sentence_1655
+1655_7	nummod	1655_4
+1655_7	has_surface_form	1966
+1655_8	is_in_sentence	sentence_1655
+1655_8	punct	1655_1
+1655_8	has_surface_form	)
+1655_10	is_in_sentence	sentence_1655
+1655_10	det	1655_14
+1655_10	has_surface_form	an
+1655_14	is_in_sentence	sentence_1655
+1655_14	attr	1655_9
+1655_14	has_surface_form	songwriter
+1655_11	is_in_sentence	sentence_1655
+1655_11	amod	1655_14
+1655_11	has_surface_form	American
+1655_12	is_in_sentence	sentence_1655
+1655_12	compound	1655_14
+1655_12	has_surface_form	singer
+1655_13	is_in_sentence	sentence_1655
+1655_13	punct	1655_14
+1655_13	has_surface_form	-
+1655_15	is_in_sentence	sentence_1655
+1655_15	nsubj	1655_16
+1655_15	has_surface_form	who
+1655_16	is_in_sentence	sentence_1655
+1655_16	relcl	1655_14
+1655_16	has_surface_form	is
+1655_17	is_in_sentence	sentence_1655
+1655_17	det	1655_19
+1655_17	has_surface_form	the
+1655_19	is_in_sentence	sentence_1655
+1655_19	attr	1655_16
+1655_19	has_surface_form	singer
+1655_18	is_in_sentence	sentence_1655
+1655_18	compound	1655_19
+1655_18	has_surface_form	lead
+1655_20	is_in_sentence	sentence_1655
+1655_20	prep	1655_19
+1655_20	has_surface_form	of
+1655_21	is_in_sentence	sentence_1655
+1655_21	compound	1655_22
+1655_21	has_surface_form	Mazzy
+1655_21	part_of_entity	Mazzy Star
+1655_22	is_in_sentence	sentence_1655
+1655_22	nmod	1655_25
+1655_22	has_surface_form	Star
+1655_22	part_of_entity	Mazzy Star
+1655_25	is_in_sentence	sentence_1655
+1655_25	pobj	1655_20
+1655_25	has_surface_form	Sandoval
+1655_25	part_of_entity	Hope Sandoval
+1655_23	is_in_sentence	sentence_1655
+1655_23	cc	1655_22
+1655_23	has_surface_form	and
+1655_24	is_in_sentence	sentence_1655
+1655_24	compound	1655_25
+1655_24	has_surface_form	Hope
+1655_24	part_of_entity	Hope Sandoval
+1655_26	is_in_sentence	sentence_1655
+1655_26	cc	1655_25
+1655_26	has_surface_form	&
+1655_27	is_in_sentence	sentence_1655
+1655_27	det	1655_29
+1655_27	has_surface_form	the
+1655_29	is_in_sentence	sentence_1655
+1655_29	conj	1655_25
+1655_29	has_surface_form	Inventions
+1655_28	is_in_sentence	sentence_1655
+1655_28	compound	1655_29
+1655_28	has_surface_form	Warm
+1655_30	is_in_sentence	sentence_1655
+1655_30	punct	1655_9
+1655_30	has_surface_form	.
+1655_31	is_in_sentence	sentence_1655
+1655_31	dep	1655_9
+1655_31	has_surface_form	
+Hope Sandoval	surface_form	Hope Sandoval
+Hope Sandoval	is-member-of	Mazzy Star
+Mazzy Star	surface_form	Mazzy Star

@@ -1,0 +1,58 @@
+13961_0	is_in_sentence	sentence_13961
+13961_0	compound	13961_1
+13961_0	has_surface_form	Professor
+13961_0	part_of_entity	Professor Beware
+13961_1	is_in_sentence	sentence_13961
+13961_1	nsubj	13961_2
+13961_1	has_surface_form	Beware
+13961_1	part_of_entity	Professor Beware
+13961_2	is_in_sentence	sentence_13961
+13961_2	ROOT	13961_2
+13961_2	has_surface_form	is
+13961_3	is_in_sentence	sentence_13961
+13961_3	det	13961_6
+13961_3	has_surface_form	a
+13961_6	is_in_sentence	sentence_13961
+13961_6	attr	13961_2
+13961_6	has_surface_form	film
+13961_4	is_in_sentence	sentence_13961
+13961_4	nummod	13961_6
+13961_4	has_surface_form	1938
+13961_5	is_in_sentence	sentence_13961
+13961_5	compound	13961_6
+13961_5	has_surface_form	comedy
+13961_7	is_in_sentence	sentence_13961
+13961_7	acl	13961_6
+13961_7	has_surface_form	starring
+13961_8	is_in_sentence	sentence_13961
+13961_8	compound	13961_9
+13961_8	has_surface_form	Harold
+13961_9	is_in_sentence	sentence_13961
+13961_9	dobj	13961_7
+13961_9	has_surface_form	Lloyd
+13961_10	is_in_sentence	sentence_13961
+13961_10	cc	13961_7
+13961_10	has_surface_form	and
+13961_11	is_in_sentence	sentence_13961
+13961_11	conj	13961_7
+13961_11	has_surface_form	directed
+13961_12	is_in_sentence	sentence_13961
+13961_12	agent	13961_11
+13961_12	has_surface_form	by
+13961_13	is_in_sentence	sentence_13961
+13961_13	compound	13961_14
+13961_13	has_surface_form	Elliott
+13961_13	part_of_entity	Elliott Nugent
+13961_14	is_in_sentence	sentence_13961
+13961_14	pobj	13961_12
+13961_14	has_surface_form	Nugent
+13961_14	part_of_entity	Elliott Nugent
+13961_15	is_in_sentence	sentence_13961
+13961_15	punct	13961_2
+13961_15	has_surface_form	.
+13961_16	is_in_sentence	sentence_13961
+13961_16	dep	13961_2
+13961_16	has_surface_form	
+Professor Beware	surface_form	Professor Beware
+Professor Beware	movie-has-director	Elliott Nugent
+Elliott Nugent	surface_form	Elliott Nugent

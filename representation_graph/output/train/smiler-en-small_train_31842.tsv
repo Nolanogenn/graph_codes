@@ -1,0 +1,50 @@
+31841_0	is_in_sentence	sentence_31841
+31841_0	compound	31841_1
+31841_0	has_surface_form	Brady
+31841_0	part_of_entity	Brady Bluhm
+31841_1	is_in_sentence	sentence_31841
+31841_1	nsubj	31841_9
+31841_1	has_surface_form	Bluhm
+31841_1	part_of_entity	Brady Bluhm
+31841_9	is_in_sentence	sentence_31841
+31841_9	ROOT	31841_9
+31841_9	has_surface_form	is
+31841_2	is_in_sentence	sentence_31841
+31841_2	punct	31841_1
+31841_2	has_surface_form	(
+31841_3	is_in_sentence	sentence_31841
+31841_3	acl	31841_1
+31841_3	has_surface_form	born
+31841_4	is_in_sentence	sentence_31841
+31841_4	npadvmod	31841_3
+31841_4	has_surface_form	July
+31841_5	is_in_sentence	sentence_31841
+31841_5	nummod	31841_4
+31841_5	has_surface_form	6
+31841_6	is_in_sentence	sentence_31841
+31841_6	punct	31841_4
+31841_6	has_surface_form	,
+31841_7	is_in_sentence	sentence_31841
+31841_7	nummod	31841_4
+31841_7	has_surface_form	1983
+31841_8	is_in_sentence	sentence_31841
+31841_8	punct	31841_1
+31841_8	has_surface_form	)
+31841_10	is_in_sentence	sentence_31841
+31841_10	det	31841_12
+31841_10	has_surface_form	an
+31841_12	is_in_sentence	sentence_31841
+31841_12	attr	31841_9
+31841_12	has_surface_form	actor
+31841_11	is_in_sentence	sentence_31841
+31841_11	amod	31841_12
+31841_11	is_entity	American
+American	surface_form	American
+31841_13	is_in_sentence	sentence_31841
+31841_13	punct	31841_9
+31841_13	has_surface_form	.
+31841_14	is_in_sentence	sentence_31841
+31841_14	dep	31841_14
+31841_14	has_surface_form	
+Brady Bluhm	surface_form	Brady Bluhm
+Brady Bluhm	has-nationality	American

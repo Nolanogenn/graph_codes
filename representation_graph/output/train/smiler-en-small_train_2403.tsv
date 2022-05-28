@@ -1,0 +1,58 @@
+2402_0	is_in_sentence	sentence_2402
+2402_0	compound	2402_1
+2402_0	has_surface_form	Usaha
+2402_0	part_of_entity	Usaha Tegas
+2402_1	is_in_sentence	sentence_2402
+2402_1	compound	2402_3
+2402_1	has_surface_form	Tegas
+2402_1	part_of_entity	Usaha Tegas
+2402_3	is_in_sentence	sentence_2402
+2402_3	nsubj	2402_4
+2402_3	has_surface_form	Bhd
+2402_2	is_in_sentence	sentence_2402
+2402_2	compound	2402_3
+2402_2	has_surface_form	Sdn
+2402_4	is_in_sentence	sentence_2402
+2402_4	ROOT	2402_4
+2402_4	has_surface_form	is
+2402_5	is_in_sentence	sentence_2402
+2402_5	det	2402_9
+2402_5	has_surface_form	a
+2402_9	is_in_sentence	sentence_2402
+2402_9	attr	2402_4
+2402_9	has_surface_form	company
+2402_6	is_in_sentence	sentence_2402
+2402_6	amod	2402_9
+2402_6	has_surface_form	Malaysian
+2402_7	is_in_sentence	sentence_2402
+2402_7	npadvmod	2402_8
+2402_7	has_surface_form	investment
+2402_8	is_in_sentence	sentence_2402
+2402_8	amod	2402_9
+2402_8	has_surface_form	holding
+2402_10	is_in_sentence	sentence_2402
+2402_10	acl	2402_9
+2402_10	has_surface_form	led
+2402_11	is_in_sentence	sentence_2402
+2402_11	agent	2402_10
+2402_11	has_surface_form	by
+2402_12	is_in_sentence	sentence_2402
+2402_12	compound	2402_14
+2402_12	has_surface_form	billionaire
+2402_14	is_in_sentence	sentence_2402
+2402_14	pobj	2402_11
+2402_14	has_surface_form	Krishnan
+2402_14	part_of_entity	Ananda Krishnan
+2402_13	is_in_sentence	sentence_2402
+2402_13	compound	2402_14
+2402_13	has_surface_form	Ananda
+2402_13	part_of_entity	Ananda Krishnan
+2402_15	is_in_sentence	sentence_2402
+2402_15	punct	2402_4
+2402_15	has_surface_form	.
+2402_16	is_in_sentence	sentence_2402
+2402_16	dep	2402_4
+2402_16	has_surface_form	
+Usaha Tegas	surface_form	Usaha Tegas
+Usaha Tegas	org-leader	Ananda Krishnan
+Ananda Krishnan	surface_form	Ananda Krishnan

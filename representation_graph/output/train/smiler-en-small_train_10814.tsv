@@ -1,0 +1,69 @@
+10813_0	is_in_sentence	sentence_10813
+10813_0	det	10813_3
+10813_0	has_surface_form	The
+10813_0	part_of_entity	The Waterloo County Gaol
+10813_3	is_in_sentence	sentence_10813
+10813_3	nsubj	10813_11
+10813_3	has_surface_form	Gaol
+10813_3	part_of_entity	The Waterloo County Gaol
+10813_1	is_in_sentence	sentence_10813
+10813_1	compound	10813_2
+10813_1	has_surface_form	Waterloo
+10813_1	part_of_entity	The Waterloo County Gaol
+10813_2	is_in_sentence	sentence_10813
+10813_2	compound	10813_3
+10813_2	has_surface_form	County
+10813_2	part_of_entity	The Waterloo County Gaol
+10813_11	is_in_sentence	sentence_10813
+10813_11	ROOT	10813_11
+10813_11	has_surface_form	is
+10813_4	is_in_sentence	sentence_10813
+10813_4	punct	10813_3
+10813_4	has_surface_form	,
+10813_5	is_in_sentence	sentence_10813
+10813_5	acl	10813_3
+10813_5	has_surface_form	located
+10813_6	is_in_sentence	sentence_10813
+10813_6	prep	10813_5
+10813_6	has_surface_form	in
+10813_7	is_in_sentence	sentence_10813
+10813_7	pobj	10813_6
+10813_7	has_surface_form	Kitchener
+10813_8	is_in_sentence	sentence_10813
+10813_8	punct	10813_7
+10813_8	has_surface_form	,
+10813_9	is_in_sentence	sentence_10813
+10813_9	appos	10813_7
+10813_9	has_surface_form	Ontario
+10813_10	is_in_sentence	sentence_10813
+10813_10	punct	10813_7
+10813_10	has_surface_form	,
+10813_12	is_in_sentence	sentence_10813
+10813_12	det	10813_14
+10813_12	has_surface_form	a
+10813_14	is_in_sentence	sentence_10813
+10813_14	attr	10813_11
+10813_14	has_surface_form	prison
+10813_14	part_of_entity	retired prison
+10813_13	is_in_sentence	sentence_10813
+10813_13	amod	10813_14
+10813_13	has_surface_form	retired
+10813_13	part_of_entity	retired prison
+10813_15	is_in_sentence	sentence_10813
+10813_15	cc	10813_14
+10813_15	has_surface_form	and
+10813_16	is_in_sentence	sentence_10813
+10813_16	amod	10813_17
+10813_16	has_surface_form	historic
+10813_17	is_in_sentence	sentence_10813
+10813_17	conj	10813_14
+10813_17	has_surface_form	site
+10813_18	is_in_sentence	sentence_10813
+10813_18	punct	10813_11
+10813_18	has_surface_form	.
+10813_19	is_in_sentence	sentence_10813
+10813_19	dep	10813_19
+10813_19	has_surface_form	
+The Waterloo County Gaol	surface_form	The Waterloo County Gaol
+The Waterloo County Gaol	has-type	retired prison
+retired prison	surface_form	retired prison

@@ -1,0 +1,75 @@
+20061_0	is_in_sentence	sentence_20061
+20061_0	det	20061_2
+20061_0	has_surface_form	The
+20061_0	part_of_entity	The Japanese Dog
+20061_2	is_in_sentence	sentence_20061
+20061_2	nsubj	20061_9
+20061_2	has_surface_form	Dog
+20061_2	part_of_entity	The Japanese Dog
+20061_1	is_in_sentence	sentence_20061
+20061_1	compound	20061_2
+20061_1	has_surface_form	Japanese
+20061_1	part_of_entity	The Japanese Dog
+20061_9	is_in_sentence	sentence_20061
+20061_9	ROOT	20061_9
+20061_9	has_surface_form	is
+20061_3	is_in_sentence	sentence_20061
+20061_3	punct	20061_2
+20061_3	has_surface_form	(
+20061_4	is_in_sentence	sentence_20061
+20061_4	appos	20061_2
+20061_4	has_surface_form	Romanian
+20061_5	is_in_sentence	sentence_20061
+20061_5	punct	20061_2
+20061_5	has_surface_form	:
+20061_6	is_in_sentence	sentence_20061
+20061_6	compound	20061_7
+20061_6	has_surface_form	Câinele
+20061_7	is_in_sentence	sentence_20061
+20061_7	appos	20061_2
+20061_7	has_surface_form	japonez
+20061_8	is_in_sentence	sentence_20061
+20061_8	punct	20061_2
+20061_8	has_surface_form	)
+20061_10	is_in_sentence	sentence_20061
+20061_10	det	20061_14
+20061_10	has_surface_form	a
+20061_14	is_in_sentence	sentence_20061
+20061_14	attr	20061_9
+20061_14	has_surface_form	film
+20061_11	is_in_sentence	sentence_20061
+20061_11	nummod	20061_14
+20061_11	has_surface_form	2013
+20061_12	is_in_sentence	sentence_20061
+20061_12	amod	20061_14
+20061_12	has_surface_form	Romanian
+20061_13	is_in_sentence	sentence_20061
+20061_13	compound	20061_14
+20061_13	has_surface_form	drama
+20061_15	is_in_sentence	sentence_20061
+20061_15	acl	20061_14
+20061_15	has_surface_form	directed
+20061_16	is_in_sentence	sentence_20061
+20061_16	agent	20061_15
+20061_16	has_surface_form	by
+20061_17	is_in_sentence	sentence_20061
+20061_17	compound	20061_19
+20061_17	has_surface_form	Tudor
+20061_17	part_of_entity	Tudor Cristian Jurgiu
+20061_19	is_in_sentence	sentence_20061
+20061_19	pobj	20061_16
+20061_19	has_surface_form	Jurgiu
+20061_19	part_of_entity	Tudor Cristian Jurgiu
+20061_18	is_in_sentence	sentence_20061
+20061_18	compound	20061_19
+20061_18	has_surface_form	Cristian
+20061_18	part_of_entity	Tudor Cristian Jurgiu
+20061_20	is_in_sentence	sentence_20061
+20061_20	punct	20061_9
+20061_20	has_surface_form	.
+20061_21	is_in_sentence	sentence_20061
+20061_21	dep	20061_9
+20061_21	has_surface_form	
+The Japanese Dog	surface_form	The Japanese Dog
+The Japanese Dog	movie-has-director	Tudor Cristian Jurgiu
+Tudor Cristian Jurgiu	surface_form	Tudor Cristian Jurgiu

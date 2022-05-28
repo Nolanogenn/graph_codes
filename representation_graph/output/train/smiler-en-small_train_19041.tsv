@@ -1,0 +1,63 @@
+19040_0	is_in_sentence	sentence_19040
+19040_0	compound	19040_1
+19040_0	has_surface_form	South
+19040_0	part_of_entity	South Carolina Highway 23
+19040_1	is_in_sentence	sentence_19040
+19040_1	compound	19040_2
+19040_1	has_surface_form	Carolina
+19040_1	part_of_entity	South Carolina Highway 23
+19040_2	is_in_sentence	sentence_19040
+19040_2	nsubj	19040_9
+19040_2	has_surface_form	Highway
+19040_2	part_of_entity	South Carolina Highway 23
+19040_9	is_in_sentence	sentence_19040
+19040_9	ROOT	19040_9
+19040_9	has_surface_form	is
+19040_3	is_in_sentence	sentence_19040
+19040_3	nummod	19040_2
+19040_3	has_surface_form	23
+19040_3	part_of_entity	South Carolina Highway 23
+19040_4	is_in_sentence	sentence_19040
+19040_4	punct	19040_9
+19040_4	has_surface_form	(
+19040_5	is_in_sentence	sentence_19040
+19040_5	nsubj	19040_9
+19040_5	has_surface_form	SC
+19040_6	is_in_sentence	sentence_19040
+19040_6	dep	19040_5
+19040_6	has_surface_form	 
+19040_7	is_in_sentence	sentence_19040
+19040_7	nummod	19040_5
+19040_7	has_surface_form	23
+19040_8	is_in_sentence	sentence_19040
+19040_8	punct	19040_5
+19040_8	has_surface_form	)
+19040_10	is_in_sentence	sentence_19040
+19040_10	det	19040_13
+19040_10	has_surface_form	a
+19040_13	is_in_sentence	sentence_19040
+19040_13	attr	19040_9
+19040_13	has_surface_form	highway
+19040_13	part_of_entity	state highway
+19040_11	is_in_sentence	sentence_19040
+19040_11	amod	19040_13
+19040_11	has_surface_form	primary
+19040_12	is_in_sentence	sentence_19040
+19040_12	compound	19040_13
+19040_12	has_surface_form	state
+19040_12	part_of_entity	state highway
+19040_14	is_in_sentence	sentence_19040
+19040_14	prep	19040_13
+19040_14	has_surface_form	in
+19040_15	is_in_sentence	sentence_19040
+19040_15	det	19040_16
+19040_15	has_surface_form	the
+19040_16	is_in_sentence	sentence_19040
+19040_16	pobj	19040_14
+19040_16	has_surface_form	U.
+19040_17	is_in_sentence	sentence_19040
+19040_17	dep	19040_9
+19040_17	has_surface_form	
+South Carolina Highway 23	surface_form	South Carolina Highway 23
+South Carolina Highway 23	has-type	state highway
+state highway	surface_form	state highway

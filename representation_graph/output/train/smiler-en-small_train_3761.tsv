@@ -1,0 +1,83 @@
+3760_0	is_in_sentence	sentence_3760
+3760_0	nsubj	3760_3
+3760_0	has_surface_form	Spider
+3760_0	part_of_entity	Spider and Rose
+3760_3	is_in_sentence	sentence_3760
+3760_3	ROOT	3760_3
+3760_3	has_surface_form	is
+3760_1	is_in_sentence	sentence_3760
+3760_1	cc	3760_0
+3760_1	has_surface_form	and
+3760_1	part_of_entity	Spider and Rose
+3760_2	is_in_sentence	sentence_3760
+3760_2	conj	3760_0
+3760_2	has_surface_form	Rose
+3760_2	part_of_entity	Spider and Rose
+3760_4	is_in_sentence	sentence_3760
+3760_4	det	3760_7
+3760_4	has_surface_form	a
+3760_7	is_in_sentence	sentence_3760
+3760_7	attr	3760_3
+3760_7	has_surface_form	film
+3760_5	is_in_sentence	sentence_3760
+3760_5	nummod	3760_7
+3760_5	has_surface_form	1994
+3760_6	is_in_sentence	sentence_3760
+3760_6	amod	3760_7
+3760_6	has_surface_form	Australian
+3760_8	is_in_sentence	sentence_3760
+3760_8	acl	3760_7
+3760_8	has_surface_form	directed
+3760_9	is_in_sentence	sentence_3760
+3760_9	agent	3760_8
+3760_9	has_surface_form	by
+3760_10	is_in_sentence	sentence_3760
+3760_10	compound	3760_11
+3760_10	has_surface_form	Bill
+3760_10	part_of_entity	Bill Bennett
+3760_11	is_in_sentence	sentence_3760
+3760_11	pobj	3760_9
+3760_11	has_surface_form	Bennett
+3760_11	part_of_entity	Bill Bennett
+3760_12	is_in_sentence	sentence_3760
+3760_12	cc	3760_8
+3760_12	has_surface_form	and
+3760_13	is_in_sentence	sentence_3760
+3760_13	conj	3760_8
+3760_13	has_surface_form	starring
+3760_14	is_in_sentence	sentence_3760
+3760_14	compound	3760_15
+3760_14	has_surface_form	Ruth
+3760_15	is_in_sentence	sentence_3760
+3760_15	dobj	3760_13
+3760_15	has_surface_form	Cracknell
+3760_16	is_in_sentence	sentence_3760
+3760_16	punct	3760_15
+3760_16	has_surface_form	,
+3760_17	is_in_sentence	sentence_3760
+3760_17	compound	3760_18
+3760_17	has_surface_form	Simon
+3760_18	is_in_sentence	sentence_3760
+3760_18	conj	3760_15
+3760_18	has_surface_form	Bossell
+3760_19	is_in_sentence	sentence_3760
+3760_19	punct	3760_18
+3760_19	has_surface_form	,
+3760_20	is_in_sentence	sentence_3760
+3760_20	cc	3760_18
+3760_20	has_surface_form	and
+3760_21	is_in_sentence	sentence_3760
+3760_21	compound	3760_22
+3760_21	has_surface_form	Max
+3760_22	is_in_sentence	sentence_3760
+3760_22	conj	3760_18
+3760_22	has_surface_form	Cullen
+3760_23	is_in_sentence	sentence_3760
+3760_23	punct	3760_3
+3760_23	has_surface_form	.
+3760_24	is_in_sentence	sentence_3760
+3760_24	dep	3760_3
+3760_24	has_surface_form	
+Spider and Rose	surface_form	Spider and Rose
+Spider and Rose	movie-has-director	Bill Bennett
+Bill Bennett	surface_form	Bill Bennett

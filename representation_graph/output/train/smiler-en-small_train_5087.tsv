@@ -1,0 +1,76 @@
+5086_0	is_in_sentence	sentence_5086
+5086_0	det	5086_3
+5086_0	has_surface_form	The
+5086_0	part_of_entity	The Hungarian Air Force
+5086_3	is_in_sentence	sentence_5086
+5086_3	nsubj	5086_10
+5086_3	has_surface_form	Force
+5086_3	part_of_entity	The Hungarian Air Force
+5086_1	is_in_sentence	sentence_5086
+5086_1	amod	5086_3
+5086_1	has_surface_form	Hungarian
+5086_1	part_of_entity	The Hungarian Air Force
+5086_2	is_in_sentence	sentence_5086
+5086_2	compound	5086_3
+5086_2	has_surface_form	Air
+5086_2	part_of_entity	The Hungarian Air Force
+5086_10	is_in_sentence	sentence_5086
+5086_10	ROOT	5086_10
+5086_10	has_surface_form	is
+5086_4	is_in_sentence	sentence_5086
+5086_4	punct	5086_3
+5086_4	has_surface_form	(
+5086_5	is_in_sentence	sentence_5086
+5086_5	appos	5086_3
+5086_5	has_surface_form	Hungarian
+5086_6	is_in_sentence	sentence_5086
+5086_6	punct	5086_5
+5086_6	has_surface_form	:
+5086_7	is_in_sentence	sentence_5086
+5086_7	compound	5086_8
+5086_7	has_surface_form	Magyar
+5086_8	is_in_sentence	sentence_5086
+5086_8	appos	5086_5
+5086_8	has_surface_form	Légierő
+5086_9	is_in_sentence	sentence_5086
+5086_9	punct	5086_5
+5086_9	has_surface_form	)
+5086_11	is_in_sentence	sentence_5086
+5086_11	det	5086_14
+5086_11	has_surface_form	the
+5086_14	is_in_sentence	sentence_5086
+5086_14	attr	5086_10
+5086_14	has_surface_form	branch
+5086_14	part_of_entity	air force branch
+5086_12	is_in_sentence	sentence_5086
+5086_12	compound	5086_13
+5086_12	has_surface_form	air
+5086_12	part_of_entity	air force branch
+5086_13	is_in_sentence	sentence_5086
+5086_13	compound	5086_14
+5086_13	has_surface_form	force
+5086_13	part_of_entity	air force branch
+5086_15	is_in_sentence	sentence_5086
+5086_15	prep	5086_14
+5086_15	has_surface_form	of
+5086_16	is_in_sentence	sentence_5086
+5086_16	det	5086_19
+5086_16	has_surface_form	the
+5086_19	is_in_sentence	sentence_5086
+5086_19	pobj	5086_15
+5086_19	has_surface_form	Forces
+5086_17	is_in_sentence	sentence_5086
+5086_17	compound	5086_19
+5086_17	has_surface_form	Hungarian
+5086_18	is_in_sentence	sentence_5086
+5086_18	compound	5086_19
+5086_18	has_surface_form	Defence
+5086_20	is_in_sentence	sentence_5086
+5086_20	punct	5086_10
+5086_20	has_surface_form	.
+5086_21	is_in_sentence	sentence_5086
+5086_21	dep	5086_10
+5086_21	has_surface_form	
+The Hungarian Air Force	surface_form	The Hungarian Air Force
+The Hungarian Air Force	has-type	air force branch
+air force branch	surface_form	air force branch

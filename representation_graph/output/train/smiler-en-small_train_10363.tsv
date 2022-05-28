@@ -1,0 +1,59 @@
+10362_0	is_in_sentence	sentence_10362
+10362_0	compound	10362_1
+10362_0	has_surface_form	Kathy
+10362_0	part_of_entity	Kathy Diamond
+10362_1	is_in_sentence	sentence_10362
+10362_1	nsubj	10362_2
+10362_1	has_surface_form	Diamond
+10362_1	part_of_entity	Kathy Diamond
+10362_2	is_in_sentence	sentence_10362
+10362_2	ROOT	10362_2
+10362_2	has_surface_form	is
+10362_3	is_in_sentence	sentence_10362
+10362_3	det	10362_10
+10362_3	has_surface_form	a
+10362_10	is_in_sentence	sentence_10362
+10362_10	attr	10362_2
+10362_10	has_surface_form	songwriter
+10362_4	is_in_sentence	sentence_10362
+10362_4	nmod	10362_6
+10362_4	is_entity	funk
+10362_6	is_in_sentence	sentence_10362
+10362_6	compound	10362_7
+10362_6	has_surface_form	disco
+funk	surface_form	funk
+10362_5	is_in_sentence	sentence_10362
+10362_5	punct	10362_6
+10362_5	has_surface_form	/
+10362_7	is_in_sentence	sentence_10362
+10362_7	compound	10362_10
+10362_7	has_surface_form	house
+10362_8	is_in_sentence	sentence_10362
+10362_8	compound	10362_10
+10362_8	has_surface_form	singer
+10362_9	is_in_sentence	sentence_10362
+10362_9	punct	10362_10
+10362_9	has_surface_form	-
+10362_11	is_in_sentence	sentence_10362
+10362_11	prep	10362_10
+10362_11	has_surface_form	from
+10362_12	is_in_sentence	sentence_10362
+10362_12	pobj	10362_11
+10362_12	has_surface_form	London
+10362_13	is_in_sentence	sentence_10362
+10362_13	punct	10362_12
+10362_13	has_surface_form	,
+10362_14	is_in_sentence	sentence_10362
+10362_14	compound	10362_15
+10362_14	has_surface_form	United
+10362_15	is_in_sentence	sentence_10362
+10362_15	appos	10362_12
+10362_15	has_surface_form	Kingdom
+10362_16	is_in_sentence	sentence_10362
+10362_16	punct	10362_2
+10362_16	has_surface_form	.
+10362_17	is_in_sentence	sentence_10362
+10362_17	dep	10362_2
+10362_17	has_surface_form	
+Kathy Diamond	surface_form	Kathy Diamond
+Kathy Diamond	has-genre	funk

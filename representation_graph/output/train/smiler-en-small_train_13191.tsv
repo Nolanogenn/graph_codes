@@ -1,0 +1,79 @@
+13190_0	is_in_sentence	sentence_13190
+13190_0	compound	13190_1
+13190_0	has_surface_form	Abdou
+13190_0	part_of_entity	Abdou Darboe
+13190_1	is_in_sentence	sentence_13190
+13190_1	nsubj	13190_8
+13190_1	has_surface_form	Darboe
+13190_1	part_of_entity	Abdou Darboe
+13190_8	is_in_sentence	sentence_13190
+13190_8	ROOT	13190_8
+13190_8	has_surface_form	is
+13190_2	is_in_sentence	sentence_13190
+13190_2	punct	13190_1
+13190_2	has_surface_form	(
+13190_3	is_in_sentence	sentence_13190
+13190_3	acl	13190_1
+13190_3	has_surface_form	born
+13190_4	is_in_sentence	sentence_13190
+13190_4	nummod	13190_5
+13190_4	has_surface_form	22
+13190_5	is_in_sentence	sentence_13190
+13190_5	npadvmod	13190_3
+13190_5	has_surface_form	December
+13190_6	is_in_sentence	sentence_13190
+13190_6	nummod	13190_5
+13190_6	has_surface_form	1990
+13190_7	is_in_sentence	sentence_13190
+13190_7	punct	13190_1
+13190_7	has_surface_form	)
+13190_9	is_in_sentence	sentence_13190
+13190_9	det	13190_12
+13190_9	has_surface_form	a
+13190_12	is_in_sentence	sentence_13190
+13190_12	attr	13190_8
+13190_12	has_surface_form	striker
+13190_10	is_in_sentence	sentence_13190
+13190_10	amod	13190_12
+13190_10	has_surface_form	Gambian
+13190_11	is_in_sentence	sentence_13190
+13190_11	compound	13190_12
+13190_11	has_surface_form	football
+13190_13	is_in_sentence	sentence_13190
+13190_13	nsubj	13190_15
+13190_13	has_surface_form	who
+13190_15	is_in_sentence	sentence_13190
+13190_15	relcl	13190_12
+13190_15	has_surface_form	plays
+13190_14	is_in_sentence	sentence_13190
+13190_14	advmod	13190_15
+13190_14	has_surface_form	currently
+13190_16	is_in_sentence	sentence_13190
+13190_16	dative	13190_15
+13190_16	has_surface_form	for
+13190_17	is_in_sentence	sentence_13190
+13190_17	compound	13190_18
+13190_17	has_surface_form	Abahani
+13190_17	part_of_entity	Abahani Limited
+13190_18	is_in_sentence	sentence_13190
+13190_18	pobj	13190_16
+13190_18	has_surface_form	Limited
+13190_18	part_of_entity	Abahani Limited
+13190_19	is_in_sentence	sentence_13190
+13190_19	punct	13190_18
+13190_19	has_surface_form	(
+13190_20	is_in_sentence	sentence_13190
+13190_20	appos	13190_18
+13190_20	has_surface_form	Dhaka
+13190_21	is_in_sentence	sentence_13190
+13190_21	punct	13190_18
+13190_21	has_surface_form	)
+13190_22	is_in_sentence	sentence_13190
+13190_22	punct	13190_8
+13190_22	has_surface_form	.
+13190_23	is_in_sentence	sentence_13190
+13190_23	dep	13190_23
+13190_23	has_surface_form	
+Abdou Darboe	surface_form	Abdou Darboe
+Abdou Darboe	is-member-of	Abahani Limited
+Abahani Limited	surface_form	Abahani Limited

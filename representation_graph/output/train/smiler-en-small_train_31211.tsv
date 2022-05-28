@@ -1,0 +1,49 @@
+31210_0	is_in_sentence	sentence_31210
+31210_0	compound	31210_1
+31210_0	has_surface_form	Adam
+31210_0	part_of_entity	Adam Fielding
+31210_1	is_in_sentence	sentence_31210
+31210_1	nsubj	31210_2
+31210_1	has_surface_form	Fielding
+31210_1	part_of_entity	Adam Fielding
+31210_2	is_in_sentence	sentence_31210
+31210_2	ROOT	31210_2
+31210_2	has_surface_form	is
+31210_3	is_in_sentence	sentence_31210
+31210_3	det	31210_9
+31210_3	has_surface_form	a
+31210_9	is_in_sentence	sentence_31210
+31210_9	attr	31210_2
+31210_9	has_surface_form	producer
+31210_9	part_of_entity	music producer
+31210_4	is_in_sentence	sentence_31210
+31210_4	npadvmod	31210_6
+31210_4	has_surface_form	UK
+31210_6	is_in_sentence	sentence_31210
+31210_6	amod	31210_9
+31210_6	has_surface_form	based
+31210_5	is_in_sentence	sentence_31210
+31210_5	punct	31210_6
+31210_5	has_surface_form	-
+31210_7	is_in_sentence	sentence_31210
+31210_7	amod	31210_8
+31210_7	has_surface_form	electronic
+31210_8	is_in_sentence	sentence_31210
+31210_8	compound	31210_9
+31210_8	has_surface_form	music
+31210_8	part_of_entity	music producer
+31210_10	is_in_sentence	sentence_31210
+31210_10	cc	31210_9
+31210_10	has_surface_form	and
+31210_11	is_in_sentence	sentence_31210
+31210_11	conj	31210_9
+31210_11	has_surface_form	composer
+31210_12	is_in_sentence	sentence_31210
+31210_12	punct	31210_2
+31210_12	has_surface_form	.
+31210_13	is_in_sentence	sentence_31210
+31210_13	dep	31210_13
+31210_13	has_surface_form	
+Adam Fielding	surface_form	Adam Fielding
+Adam Fielding	has-occupation	music producer
+music producer	surface_form	music producer

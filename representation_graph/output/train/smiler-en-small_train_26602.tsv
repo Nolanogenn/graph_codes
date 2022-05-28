@@ -1,0 +1,75 @@
+26601_0	is_in_sentence	sentence_26601
+26601_0	nsubj	26601_1
+26601_0	has_surface_form	Hoppy
+26601_0	part_of_entity	Hoppy Serves a Writ
+26601_1	is_in_sentence	sentence_26601
+26601_1	ROOT	26601_1
+26601_1	has_surface_form	Serves
+26601_1	part_of_entity	Hoppy Serves a Writ
+26601_2	is_in_sentence	sentence_26601
+26601_2	det	26601_3
+26601_2	has_surface_form	a
+26601_2	part_of_entity	Hoppy Serves a Writ
+26601_3	is_in_sentence	sentence_26601
+26601_3	nsubj	26601_4
+26601_3	has_surface_form	Writ
+26601_3	part_of_entity	Hoppy Serves a Writ
+26601_4	is_in_sentence	sentence_26601
+26601_4	ccomp	26601_1
+26601_4	has_surface_form	is
+26601_5	is_in_sentence	sentence_26601
+26601_5	det	26601_8
+26601_5	has_surface_form	a
+26601_8	is_in_sentence	sentence_26601
+26601_8	attr	26601_4
+26601_8	has_surface_form	film
+26601_6	is_in_sentence	sentence_26601
+26601_6	nummod	26601_8
+26601_6	has_surface_form	1943
+26601_7	is_in_sentence	sentence_26601
+26601_7	amod	26601_8
+26601_7	has_surface_form	Western
+26601_9	is_in_sentence	sentence_26601
+26601_9	acl	26601_8
+26601_9	has_surface_form	directed
+26601_10	is_in_sentence	sentence_26601
+26601_10	agent	26601_9
+26601_10	has_surface_form	by
+26601_11	is_in_sentence	sentence_26601
+26601_11	compound	26601_12
+26601_11	has_surface_form	George
+26601_12	is_in_sentence	sentence_26601
+26601_12	pobj	26601_10
+26601_12	has_surface_form	Archainbaud
+26601_13	is_in_sentence	sentence_26601
+26601_13	cc	26601_9
+26601_13	has_surface_form	and
+26601_14	is_in_sentence	sentence_26601
+26601_14	conj	26601_9
+26601_14	has_surface_form	starring
+26601_15	is_in_sentence	sentence_26601
+26601_15	compound	26601_16
+26601_15	has_surface_form	William
+26601_15	part_of_entity	William Boyd
+26601_16	is_in_sentence	sentence_26601
+26601_16	dobj	26601_14
+26601_16	has_surface_form	Boyd
+26601_16	part_of_entity	William Boyd
+26601_17	is_in_sentence	sentence_26601
+26601_17	prep	26601_14
+26601_17	has_surface_form	as
+26601_18	is_in_sentence	sentence_26601
+26601_18	compound	26601_19
+26601_18	has_surface_form	Hopalong
+26601_19	is_in_sentence	sentence_26601
+26601_19	pobj	26601_17
+26601_19	has_surface_form	Cassidy
+26601_20	is_in_sentence	sentence_26601
+26601_20	punct	26601_4
+26601_20	has_surface_form	.
+26601_21	is_in_sentence	sentence_26601
+26601_21	dep	26601_21
+26601_21	has_surface_form	
+Hoppy Serves a Writ	surface_form	Hoppy Serves a Writ
+Hoppy Serves a Writ	starring	William Boyd
+William Boyd	surface_form	William Boyd

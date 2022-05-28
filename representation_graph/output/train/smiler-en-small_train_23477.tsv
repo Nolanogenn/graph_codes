@@ -1,0 +1,73 @@
+23476_0	is_in_sentence	sentence_23476
+23476_0	compound	23476_1
+23476_0	has_surface_form	Maltepe
+23476_0	part_of_entity	Maltepe University
+23476_1	is_in_sentence	sentence_23476
+23476_1	nsubj	23476_8
+23476_1	has_surface_form	University
+23476_1	part_of_entity	Maltepe University
+23476_8	is_in_sentence	sentence_23476
+23476_8	ROOT	23476_8
+23476_8	has_surface_form	is
+23476_2	is_in_sentence	sentence_23476
+23476_2	punct	23476_3
+23476_2	has_surface_form	(
+23476_3	is_in_sentence	sentence_23476
+23476_3	appos	23476_1
+23476_3	has_surface_form	Turkish
+23476_4	is_in_sentence	sentence_23476
+23476_4	punct	23476_3
+23476_4	has_surface_form	:
+23476_5	is_in_sentence	sentence_23476
+23476_5	compound	23476_6
+23476_5	has_surface_form	Maltepe
+23476_6	is_in_sentence	sentence_23476
+23476_6	appos	23476_3
+23476_6	has_surface_form	Üniversitesi
+23476_7	is_in_sentence	sentence_23476
+23476_7	punct	23476_3
+23476_7	has_surface_form	)
+23476_9	is_in_sentence	sentence_23476
+23476_9	det	23476_11
+23476_9	has_surface_form	a
+23476_11	is_in_sentence	sentence_23476
+23476_11	attr	23476_8
+23476_11	has_surface_form	university
+23476_11	part_of_entity	private university
+23476_10	is_in_sentence	sentence_23476
+23476_10	amod	23476_11
+23476_10	has_surface_form	private
+23476_10	part_of_entity	private university
+23476_12	is_in_sentence	sentence_23476
+23476_12	acl	23476_11
+23476_12	has_surface_form	located
+23476_13	is_in_sentence	sentence_23476
+23476_13	prep	23476_12
+23476_13	has_surface_form	in
+23476_14	is_in_sentence	sentence_23476
+23476_14	compound	23476_15
+23476_14	has_surface_form	Maltepe
+23476_15	is_in_sentence	sentence_23476
+23476_15	pobj	23476_13
+23476_15	has_surface_form	district
+23476_16	is_in_sentence	sentence_23476
+23476_16	prep	23476_15
+23476_16	has_surface_form	of
+23476_17	is_in_sentence	sentence_23476
+23476_17	pobj	23476_16
+23476_17	has_surface_form	Istanbul
+23476_18	is_in_sentence	sentence_23476
+23476_18	punct	23476_17
+23476_18	has_surface_form	,
+23476_19	is_in_sentence	sentence_23476
+23476_19	appos	23476_17
+23476_19	has_surface_form	Turkey
+23476_20	is_in_sentence	sentence_23476
+23476_20	punct	23476_8
+23476_20	has_surface_form	.
+23476_21	is_in_sentence	sentence_23476
+23476_21	dep	23476_8
+23476_21	has_surface_form	
+Maltepe University	surface_form	Maltepe University
+Maltepe University	has-type	private university
+private university	surface_form	private university

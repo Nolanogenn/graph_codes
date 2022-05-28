@@ -1,0 +1,50 @@
+985_0	is_in_sentence	sentence_985
+985_0	compound	985_1
+985_0	has_surface_form	Butler
+985_0	part_of_entity	Butler University
+985_1	is_in_sentence	sentence_985
+985_1	nsubj	985_2
+985_1	has_surface_form	University
+985_1	part_of_entity	Butler University
+985_2	is_in_sentence	sentence_985
+985_2	ROOT	985_2
+985_2	has_surface_form	is
+985_3	is_in_sentence	sentence_985
+985_3	det	985_5
+985_3	has_surface_form	a
+985_5	is_in_sentence	sentence_985
+985_5	attr	985_2
+985_5	has_surface_form	university
+985_4	is_in_sentence	sentence_985
+985_4	amod	985_5
+985_4	has_surface_form	private
+985_6	is_in_sentence	sentence_985
+985_6	prep	985_5
+985_6	has_surface_form	in
+985_7	is_in_sentence	sentence_985
+985_7	pobj	985_6
+985_7	is_entity	Indianapolis
+Indianapolis	surface_form	Indianapolis
+985_8	is_in_sentence	sentence_985
+985_8	punct	985_7
+985_8	has_surface_form	,
+985_9	is_in_sentence	sentence_985
+985_9	conj	985_7
+985_9	has_surface_form	Indiana
+985_10	is_in_sentence	sentence_985
+985_10	punct	985_9
+985_10	has_surface_form	,
+985_11	is_in_sentence	sentence_985
+985_11	compound	985_12
+985_11	has_surface_form	United
+985_12	is_in_sentence	sentence_985
+985_12	appos	985_9
+985_12	has_surface_form	States
+985_13	is_in_sentence	sentence_985
+985_13	punct	985_2
+985_13	has_surface_form	.
+985_14	is_in_sentence	sentence_985
+985_14	dep	985_2
+985_14	has_surface_form	
+Butler University	surface_form	Butler University
+Butler University	is-where	Indianapolis

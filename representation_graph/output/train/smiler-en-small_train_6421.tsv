@@ -1,0 +1,98 @@
+6420_0	is_in_sentence	sentence_6420
+6420_0	compound	6420_1
+6420_0	has_surface_form	Pennsylvania
+6420_0	part_of_entity	Pennsylvania Route 88
+6420_1	is_in_sentence	sentence_6420
+6420_1	nsubj	6420_7
+6420_1	has_surface_form	Route
+6420_1	part_of_entity	Pennsylvania Route 88
+6420_7	is_in_sentence	sentence_6420
+6420_7	ROOT	6420_7
+6420_7	has_surface_form	is
+6420_2	is_in_sentence	sentence_6420
+6420_2	nummod	6420_1
+6420_2	has_surface_form	88
+6420_2	part_of_entity	Pennsylvania Route 88
+6420_3	is_in_sentence	sentence_6420
+6420_3	punct	6420_1
+6420_3	has_surface_form	(
+6420_4	is_in_sentence	sentence_6420
+6420_4	appos	6420_1
+6420_4	has_surface_form	PA
+6420_5	is_in_sentence	sentence_6420
+6420_5	nummod	6420_4
+6420_5	has_surface_form	88
+6420_6	is_in_sentence	sentence_6420
+6420_6	punct	6420_4
+6420_6	has_surface_form	)
+6420_8	is_in_sentence	sentence_6420
+6420_8	det	6420_23
+6420_8	has_surface_form	a
+6420_23	is_in_sentence	sentence_6420
+6420_23	attr	6420_7
+6420_23	has_surface_form	highway
+6420_23	part_of_entity	state highway
+6420_9	is_in_sentence	sentence_6420
+6420_9	nummod	6420_11
+6420_9	has_surface_form	68
+6420_11	is_in_sentence	sentence_6420
+6420_11	npadvmod	6420_13
+6420_11	has_surface_form	mile
+6420_10	is_in_sentence	sentence_6420
+6420_10	punct	6420_11
+6420_10	has_surface_form	-
+6420_13	is_in_sentence	sentence_6420
+6420_13	nmod	6420_23
+6420_13	has_surface_form	long
+6420_12	is_in_sentence	sentence_6420
+6420_12	punct	6420_13
+6420_12	has_surface_form	-
+6420_14	is_in_sentence	sentence_6420
+6420_14	punct	6420_19
+6420_14	has_surface_form	(
+6420_19	is_in_sentence	sentence_6420
+6420_19	nmod	6420_23
+6420_19	has_surface_form	north
+6420_15	is_in_sentence	sentence_6420
+6420_15	nummod	6420_19
+6420_15	has_surface_form	109
+6420_16	is_in_sentence	sentence_6420
+6420_16	dep	6420_19
+6420_16	has_surface_form	 
+6420_17	is_in_sentence	sentence_6420
+6420_17	nmod	6420_19
+6420_17	has_surface_form	km
+6420_18	is_in_sentence	sentence_6420
+6420_18	punct	6420_19
+6420_18	has_surface_form	)
+6420_20	is_in_sentence	sentence_6420
+6420_20	punct	6420_19
+6420_20	has_surface_form	–
+6420_21	is_in_sentence	sentence_6420
+6420_21	compound	6420_22
+6420_21	has_surface_form	south
+6420_22	is_in_sentence	sentence_6420
+6420_22	compound	6420_23
+6420_22	has_surface_form	state
+6420_22	part_of_entity	state highway
+6420_24	is_in_sentence	sentence_6420
+6420_24	acl	6420_23
+6420_24	has_surface_form	located
+6420_25	is_in_sentence	sentence_6420
+6420_25	prep	6420_24
+6420_25	has_surface_form	in
+6420_26	is_in_sentence	sentence_6420
+6420_26	amod	6420_27
+6420_26	has_surface_form	southwestern
+6420_27	is_in_sentence	sentence_6420
+6420_27	pobj	6420_25
+6420_27	has_surface_form	Pennsylvania
+6420_28	is_in_sentence	sentence_6420
+6420_28	punct	6420_7
+6420_28	has_surface_form	.
+6420_29	is_in_sentence	sentence_6420
+6420_29	dep	6420_29
+6420_29	has_surface_form	
+Pennsylvania Route 88	surface_form	Pennsylvania Route 88
+Pennsylvania Route 88	has-type	state highway
+state highway	surface_form	state highway

@@ -1,0 +1,78 @@
+34502_0	is_in_sentence	sentence_34502
+34502_0	det	34502_1
+34502_0	has_surface_form	The
+34502_1	is_in_sentence	sentence_34502
+34502_1	nmod	34502_4
+34502_1	has_surface_form	University
+34502_1	part_of_entity	University of Zambia Library
+34502_4	is_in_sentence	sentence_34502
+34502_4	nsubj	34502_5
+34502_4	has_surface_form	Library
+34502_4	part_of_entity	University of Zambia Library
+34502_2	is_in_sentence	sentence_34502
+34502_2	prep	34502_1
+34502_2	has_surface_form	of
+34502_2	part_of_entity	University of Zambia Library
+34502_3	is_in_sentence	sentence_34502
+34502_3	pobj	34502_2
+34502_3	has_surface_form	Zambia
+34502_3	part_of_entity	University of Zambia Library
+34502_5	is_in_sentence	sentence_34502
+34502_5	ROOT	34502_5
+34502_5	has_surface_form	is
+34502_6	is_in_sentence	sentence_34502
+34502_6	det	34502_8
+34502_6	has_surface_form	the
+34502_8	is_in_sentence	sentence_34502
+34502_8	attr	34502_5
+34502_8	has_surface_form	library
+34502_8	part_of_entity	academic library
+34502_7	is_in_sentence	sentence_34502
+34502_7	amod	34502_8
+34502_7	has_surface_form	academic
+34502_7	part_of_entity	academic library
+34502_9	is_in_sentence	sentence_34502
+34502_9	prep	34502_8
+34502_9	has_surface_form	of
+34502_10	is_in_sentence	sentence_34502
+34502_10	det	34502_11
+34502_10	has_surface_form	the
+34502_11	is_in_sentence	sentence_34502
+34502_11	pobj	34502_9
+34502_11	has_surface_form	University
+34502_12	is_in_sentence	sentence_34502
+34502_12	prep	34502_11
+34502_12	has_surface_form	of
+34502_13	is_in_sentence	sentence_34502
+34502_13	pobj	34502_12
+34502_13	has_surface_form	Zambia
+34502_14	is_in_sentence	sentence_34502
+34502_14	punct	34502_11
+34502_14	has_surface_form	(
+34502_15	is_in_sentence	sentence_34502
+34502_15	appos	34502_11
+34502_15	has_surface_form	UNZA
+34502_16	is_in_sentence	sentence_34502
+34502_16	punct	34502_11
+34502_16	has_surface_form	)
+34502_17	is_in_sentence	sentence_34502
+34502_17	prep	34502_11
+34502_17	has_surface_form	in
+34502_18	is_in_sentence	sentence_34502
+34502_18	pobj	34502_17
+34502_18	has_surface_form	Lusaka
+34502_19	is_in_sentence	sentence_34502
+34502_19	punct	34502_18
+34502_19	has_surface_form	,
+34502_20	is_in_sentence	sentence_34502
+34502_20	appos	34502_18
+34502_20	has_surface_form	Zambia
+34502_21	is_in_sentence	sentence_34502
+34502_21	punct	34502_5
+34502_21	has_surface_form	.
+34502_22	is_in_sentence	sentence_34502
+34502_22	dep	34502_5
+34502_22	has_surface_form	
+University of Zambia Library	surface_form	University of Zambia Library
+University of Zambia Library	has-type	academic library
+academic library	surface_form	academic library

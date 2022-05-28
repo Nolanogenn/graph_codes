@@ -1,0 +1,73 @@
+34884_0	is_in_sentence	sentence_34884
+34884_0	nsubj	34884_1
+34884_0	has_surface_form	She
+34884_0	part_of_entity	She Had to Eat
+34884_1	is_in_sentence	sentence_34884
+34884_1	ROOT	34884_1
+34884_1	has_surface_form	Had
+34884_1	part_of_entity	She Had to Eat
+34884_2	is_in_sentence	sentence_34884
+34884_2	aux	34884_3
+34884_2	has_surface_form	to
+34884_2	part_of_entity	She Had to Eat
+34884_3	is_in_sentence	sentence_34884
+34884_3	xcomp	34884_1
+34884_3	has_surface_form	Eat
+34884_3	part_of_entity	She Had to Eat
+34884_4	is_in_sentence	sentence_34884
+34884_4	dep	34884_1
+34884_4	has_surface_form	is
+34884_5	is_in_sentence	sentence_34884
+34884_5	det	34884_9
+34884_5	has_surface_form	a
+34884_9	is_in_sentence	sentence_34884
+34884_9	attr	34884_4
+34884_9	has_surface_form	film
+34884_6	is_in_sentence	sentence_34884
+34884_6	nummod	34884_9
+34884_6	has_surface_form	1937
+34884_7	is_in_sentence	sentence_34884
+34884_7	amod	34884_9
+34884_7	has_surface_form	American
+34884_8	is_in_sentence	sentence_34884
+34884_8	compound	34884_9
+34884_8	has_surface_form	comedy
+34884_10	is_in_sentence	sentence_34884
+34884_10	acl	34884_9
+34884_10	has_surface_form	directed
+34884_11	is_in_sentence	sentence_34884
+34884_11	agent	34884_10
+34884_11	has_surface_form	by
+34884_12	is_in_sentence	sentence_34884
+34884_12	compound	34884_14
+34884_12	has_surface_form	Malcolm
+34884_12	part_of_entity	Malcolm St. Clair
+34884_14	is_in_sentence	sentence_34884
+34884_14	pobj	34884_11
+34884_14	has_surface_form	Clair
+34884_14	part_of_entity	Malcolm St. Clair
+34884_13	is_in_sentence	sentence_34884
+34884_13	compound	34884_14
+34884_13	has_surface_form	St.
+34884_13	part_of_entity	Malcolm St. Clair
+34884_15	is_in_sentence	sentence_34884
+34884_15	cc	34884_10
+34884_15	has_surface_form	and
+34884_16	is_in_sentence	sentence_34884
+34884_16	conj	34884_10
+34884_16	has_surface_form	written
+34884_17	is_in_sentence	sentence_34884
+34884_17	agent	34884_16
+34884_17	has_surface_form	by
+34884_18	is_in_sentence	sentence_34884
+34884_18	compound	34884_19
+34884_18	has_surface_form	Samuel
+34884_19	is_in_sentence	sentence_34884
+34884_19	pobj	34884_17
+34884_19	has_surface_form	G.
+34884_20	is_in_sentence	sentence_34884
+34884_20	dep	34884_1
+34884_20	has_surface_form	
+She Had to Eat	surface_form	She Had to Eat
+She Had to Eat	movie-has-director	Malcolm St. Clair
+Malcolm St. Clair	surface_form	Malcolm St. Clair

@@ -1,0 +1,72 @@
+1452_0	is_in_sentence	sentence_1452
+1452_0	prep	1452_5
+1452_0	has_surface_form	In
+1452_5	is_in_sentence	sentence_1452
+1452_5	ROOT	1452_5
+1452_5	has_surface_form	married
+1452_1	is_in_sentence	sentence_1452
+1452_1	pobj	1452_0
+1452_1	has_surface_form	May
+1452_2	is_in_sentence	sentence_1452
+1452_2	nummod	1452_1
+1452_2	has_surface_form	2015
+1452_3	is_in_sentence	sentence_1452
+1452_3	punct	1452_5
+1452_3	has_surface_form	,
+1452_4	is_in_sentence	sentence_1452
+1452_4	nsubj	1452_5
+1452_4	has_surface_form	he
+1452_6	is_in_sentence	sentence_1452
+1452_6	compound	1452_7
+1452_6	has_surface_form	knitwear
+1452_7	is_in_sentence	sentence_1452
+1452_7	compound	1452_10
+1452_7	has_surface_form	designer
+1452_10	is_in_sentence	sentence_1452
+1452_10	dobj	1452_5
+1452_10	has_surface_form	Burda
+1452_10	part_of_entity	Adelle Louise Burda
+1452_8	is_in_sentence	sentence_1452
+1452_8	compound	1452_10
+1452_8	has_surface_form	Adelle
+1452_8	part_of_entity	Adelle Louise Burda
+1452_9	is_in_sentence	sentence_1452
+1452_9	compound	1452_10
+1452_9	has_surface_form	Louise
+1452_9	part_of_entity	Adelle Louise Burda
+1452_11	is_in_sentence	sentence_1452
+1452_11	punct	1452_10
+1452_11	has_surface_form	,
+1452_12	is_in_sentence	sentence_1452
+1452_12	prep	1452_15
+1452_12	has_surface_form	with
+1452_15	is_in_sentence	sentence_1452
+1452_15	relcl	1452_10
+1452_15	has_surface_form	has
+1452_13	is_in_sentence	sentence_1452
+1452_13	pobj	1452_12
+1452_13	has_surface_form	whom
+1452_14	is_in_sentence	sentence_1452
+1452_14	nsubj	1452_15
+1452_14	has_surface_form	he
+1452_16	is_in_sentence	sentence_1452
+1452_16	det	1452_17
+1452_16	has_surface_form	a
+1452_17	is_in_sentence	sentence_1452
+1452_17	dobj	1452_15
+1452_17	has_surface_form	daughter
+1452_18	is_in_sentence	sentence_1452
+1452_18	punct	1452_17
+1452_18	has_surface_form	,
+1452_19	is_in_sentence	sentence_1452
+1452_19	appos	1452_17
+1452_19	is_entity	Izetta
+Izetta	surface_form	Izetta
+1452_20	is_in_sentence	sentence_1452
+1452_20	punct	1452_5
+1452_20	has_surface_form	.
+1452_21	is_in_sentence	sentence_1452
+1452_21	dep	1452_5
+1452_21	has_surface_form	
+Adelle Louise Burda	surface_form	Adelle Louise Burda
+Adelle Louise Burda	has-child	Izetta

@@ -1,0 +1,56 @@
+716_0	is_in_sentence	sentence_716
+716_0	det	716_3
+716_0	has_surface_form	The
+716_3	is_in_sentence	sentence_716
+716_3	nsubjpass	716_5
+716_3	has_surface_form	Center
+716_3	part_of_entity	Koehler Cultural Center
+716_1	is_in_sentence	sentence_716
+716_1	compound	716_3
+716_1	has_surface_form	Koehler
+716_1	part_of_entity	Koehler Cultural Center
+716_2	is_in_sentence	sentence_716
+716_2	compound	716_3
+716_2	has_surface_form	Cultural
+716_2	part_of_entity	Koehler Cultural Center
+716_5	is_in_sentence	sentence_716
+716_5	ROOT	716_5
+716_5	has_surface_form	located
+716_4	is_in_sentence	sentence_716
+716_4	auxpass	716_5
+716_4	has_surface_form	is
+716_6	is_in_sentence	sentence_716
+716_6	prep	716_5
+716_6	has_surface_form	on
+716_7	is_in_sentence	sentence_716
+716_7	det	716_8
+716_7	has_surface_form	the
+716_8	is_in_sentence	sentence_716
+716_8	pobj	716_6
+716_8	has_surface_form	campus
+716_8	part_of_entity	campus of San Antonio College
+716_9	is_in_sentence	sentence_716
+716_9	prep	716_8
+716_9	has_surface_form	of
+716_9	part_of_entity	campus of San Antonio College
+716_10	is_in_sentence	sentence_716
+716_10	compound	716_12
+716_10	has_surface_form	San
+716_10	part_of_entity	campus of San Antonio College
+716_12	is_in_sentence	sentence_716
+716_12	pobj	716_9
+716_12	has_surface_form	College
+716_12	part_of_entity	campus of San Antonio College
+716_11	is_in_sentence	sentence_716
+716_11	compound	716_12
+716_11	has_surface_form	Antonio
+716_11	part_of_entity	campus of San Antonio College
+716_13	is_in_sentence	sentence_716
+716_13	punct	716_5
+716_13	has_surface_form	.
+716_14	is_in_sentence	sentence_716
+716_14	dep	716_14
+716_14	has_surface_form	
+Koehler Cultural Center	surface_form	Koehler Cultural Center
+Koehler Cultural Center	is-where	campus of San Antonio College
+campus of San Antonio College	surface_form	campus of San Antonio College

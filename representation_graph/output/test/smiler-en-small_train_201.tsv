@@ -1,0 +1,70 @@
+200_0	is_in_sentence	sentence_200
+200_0	compound	200_1
+200_0	has_surface_form	Jules
+200_0	part_of_entity	Jules Alphonse Ernest Renoux
+200_1	is_in_sentence	sentence_200
+200_1	compound	200_3
+200_1	has_surface_form	Alphonse
+200_1	part_of_entity	Jules Alphonse Ernest Renoux
+200_3	is_in_sentence	sentence_200
+200_3	nsubj	200_15
+200_3	has_surface_form	Renoux
+200_3	part_of_entity	Jules Alphonse Ernest Renoux
+200_2	is_in_sentence	sentence_200
+200_2	compound	200_3
+200_2	has_surface_form	Ernest
+200_2	part_of_entity	Jules Alphonse Ernest Renoux
+200_15	is_in_sentence	sentence_200
+200_15	ROOT	200_15
+200_15	has_surface_form	was
+200_4	is_in_sentence	sentence_200
+200_4	punct	200_3
+200_4	has_surface_form	(
+200_5	is_in_sentence	sentence_200
+200_5	nummod	200_6
+200_5	has_surface_form	5
+200_6	is_in_sentence	sentence_200
+200_6	appos	200_3
+200_6	has_surface_form	May
+200_7	is_in_sentence	sentence_200
+200_7	nummod	200_6
+200_7	has_surface_form	1863
+200_8	is_in_sentence	sentence_200
+200_8	cc	200_7
+200_8	has_surface_form	&
+200_9	is_in_sentence	sentence_200
+200_9	conj	200_7
+200_9	has_surface_form	ndash
+200_10	is_in_sentence	sentence_200
+200_10	punct	200_3
+200_10	has_surface_form	;
+200_11	is_in_sentence	sentence_200
+200_11	nummod	200_12
+200_11	has_surface_form	9
+200_12	is_in_sentence	sentence_200
+200_12	appos	200_3
+200_12	has_surface_form	June
+200_13	is_in_sentence	sentence_200
+200_13	nummod	200_12
+200_13	has_surface_form	1932
+200_14	is_in_sentence	sentence_200
+200_14	punct	200_12
+200_14	has_surface_form	)
+200_16	is_in_sentence	sentence_200
+200_16	det	200_18
+200_16	has_surface_form	a
+200_18	is_in_sentence	sentence_200
+200_18	attr	200_15
+200_18	has_surface_form	painter
+200_17	is_in_sentence	sentence_200
+200_17	amod	200_18
+200_17	is_entity	French
+French	surface_form	French
+200_19	is_in_sentence	sentence_200
+200_19	punct	200_15
+200_19	has_surface_form	.
+200_20	is_in_sentence	sentence_200
+200_20	dep	200_20
+200_20	has_surface_form	
+Jules Alphonse Ernest Renoux	surface_form	Jules Alphonse Ernest Renoux
+Jules Alphonse Ernest Renoux	has-nationality	French

@@ -1,0 +1,107 @@
+2001_0	is_in_sentence	sentence_2001
+2001_0	compound	2001_2
+2001_0	has_surface_form	Shirley
+2001_0	part_of_entity	Shirley Neil Pettis
+2001_2	is_in_sentence	sentence_2001
+2001_2	nsubj	2001_14
+2001_2	has_surface_form	Pettis
+2001_2	part_of_entity	Shirley Neil Pettis
+2001_1	is_in_sentence	sentence_2001
+2001_1	compound	2001_2
+2001_1	has_surface_form	Neil
+2001_1	part_of_entity	Shirley Neil Pettis
+2001_14	is_in_sentence	sentence_2001
+2001_14	ROOT	2001_14
+2001_14	has_surface_form	was
+2001_3	is_in_sentence	sentence_2001
+2001_3	punct	2001_2
+2001_3	has_surface_form	(
+2001_4	is_in_sentence	sentence_2001
+2001_4	appos	2001_2
+2001_4	has_surface_form	July
+2001_5	is_in_sentence	sentence_2001
+2001_5	nummod	2001_4
+2001_5	has_surface_form	12
+2001_6	is_in_sentence	sentence_2001
+2001_6	punct	2001_4
+2001_6	has_surface_form	,
+2001_7	is_in_sentence	sentence_2001
+2001_7	appos	2001_4
+2001_7	has_surface_form	1924
+2001_8	is_in_sentence	sentence_2001
+2001_8	punct	2001_2
+2001_8	has_surface_form	–
+2001_9	is_in_sentence	sentence_2001
+2001_9	appos	2001_2
+2001_9	has_surface_form	December
+2001_10	is_in_sentence	sentence_2001
+2001_10	nummod	2001_9
+2001_10	has_surface_form	30
+2001_11	is_in_sentence	sentence_2001
+2001_11	punct	2001_9
+2001_11	has_surface_form	,
+2001_12	is_in_sentence	sentence_2001
+2001_12	appos	2001_9
+2001_12	has_surface_form	2016
+2001_13	is_in_sentence	sentence_2001
+2001_13	punct	2001_9
+2001_13	has_surface_form	)
+2001_15	is_in_sentence	sentence_2001
+2001_15	det	2001_17
+2001_15	has_surface_form	an
+2001_17	is_in_sentence	sentence_2001
+2001_17	attr	2001_14
+2001_17	has_surface_form	politician
+2001_16	is_in_sentence	sentence_2001
+2001_16	amod	2001_17
+2001_16	has_surface_form	American
+2001_18	is_in_sentence	sentence_2001
+2001_18	nsubj	2001_19
+2001_18	has_surface_form	who
+2001_19	is_in_sentence	sentence_2001
+2001_19	relcl	2001_17
+2001_19	has_surface_form	served
+2001_20	is_in_sentence	sentence_2001
+2001_20	prep	2001_19
+2001_20	has_surface_form	as
+2001_21	is_in_sentence	sentence_2001
+2001_21	det	2001_22
+2001_21	has_surface_form	a
+2001_22	is_in_sentence	sentence_2001
+2001_22	pobj	2001_20
+2001_22	has_surface_form	U.
+2001_23	is_in_sentence	sentence_2001
+2001_23	poss	2001_24
+2001_23	has_surface_form	Her
+2001_24	is_in_sentence	sentence_2001
+2001_24	appos	2001_22
+2001_24	has_surface_form	husband
+2001_25	is_in_sentence	sentence_2001
+2001_25	compound	2001_26
+2001_25	has_surface_form	Jerry
+2001_25	part_of_entity	Jerry Pettis
+2001_26	is_in_sentence	sentence_2001
+2001_26	pobj	2001_20
+2001_26	has_surface_form	Pettis
+2001_26	part_of_entity	Jerry Pettis
+2001_27	is_in_sentence	sentence_2001
+2001_27	aux	2001_28
+2001_27	has_surface_form	had
+2001_28	is_in_sentence	sentence_2001
+2001_28	ccomp	2001_14
+2001_28	has_surface_form	been
+2001_29	is_in_sentence	sentence_2001
+2001_29	poss	2001_30
+2001_29	has_surface_form	her
+2001_30	is_in_sentence	sentence_2001
+2001_30	attr	2001_28
+2001_30	has_surface_form	predecessor
+2001_31	is_in_sentence	sentence_2001
+2001_31	punct	2001_14
+2001_31	has_surface_form	.
+2001_32	is_in_sentence	sentence_2001
+2001_32	dep	2001_32
+2001_32	has_surface_form	
+Shirley Neil Pettis	surface_form	Shirley Neil Pettis
+Shirley Neil Pettis	has-spouse	Jerry Pettis
+Jerry Pettis	surface_form	Jerry Pettis

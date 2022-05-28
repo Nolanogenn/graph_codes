@@ -1,0 +1,102 @@
+9612_0	is_in_sentence	sentence_9612
+9612_0	det	9612_4
+9612_0	has_surface_form	The
+9612_4	is_in_sentence	sentence_9612
+9612_4	nsubj	9612_12
+9612_4	has_surface_form	Department
+9612_4	part_of_entity	New York State Department of Labor
+9612_1	is_in_sentence	sentence_9612
+9612_1	compound	9612_2
+9612_1	has_surface_form	New
+9612_1	part_of_entity	New York State Department of Labor
+9612_2	is_in_sentence	sentence_9612
+9612_2	compound	9612_3
+9612_2	has_surface_form	York
+9612_2	part_of_entity	New York State Department of Labor
+9612_3	is_in_sentence	sentence_9612
+9612_3	compound	9612_4
+9612_3	has_surface_form	State
+9612_3	part_of_entity	New York State Department of Labor
+9612_12	is_in_sentence	sentence_9612
+9612_12	ROOT	9612_12
+9612_12	has_surface_form	is
+9612_5	is_in_sentence	sentence_9612
+9612_5	prep	9612_4
+9612_5	has_surface_form	of
+9612_5	part_of_entity	New York State Department of Labor
+9612_6	is_in_sentence	sentence_9612
+9612_6	pobj	9612_5
+9612_6	has_surface_form	Labor
+9612_6	part_of_entity	New York State Department of Labor
+9612_7	is_in_sentence	sentence_9612
+9612_7	punct	9612_8
+9612_7	has_surface_form	(
+9612_8	is_in_sentence	sentence_9612
+9612_8	appos	9612_4
+9612_8	has_surface_form	DOL
+9612_9	is_in_sentence	sentence_9612
+9612_9	cc	9612_8
+9612_9	has_surface_form	or
+9612_10	is_in_sentence	sentence_9612
+9612_10	conj	9612_8
+9612_10	has_surface_form	NYSDOL
+9612_11	is_in_sentence	sentence_9612
+9612_11	punct	9612_4
+9612_11	has_surface_form	)
+9612_13	is_in_sentence	sentence_9612
+9612_13	det	9612_14
+9612_13	has_surface_form	the
+9612_14	is_in_sentence	sentence_9612
+9612_14	attr	9612_12
+9612_14	is_entity	department
+department	surface_form	department
+9612_15	is_in_sentence	sentence_9612
+9612_15	prep	9612_14
+9612_15	has_surface_form	of
+9612_16	is_in_sentence	sentence_9612
+9612_16	det	9612_20
+9612_16	has_surface_form	the
+9612_20	is_in_sentence	sentence_9612
+9612_20	pobj	9612_15
+9612_20	has_surface_form	government
+9612_17	is_in_sentence	sentence_9612
+9612_17	compound	9612_18
+9612_17	has_surface_form	New
+9612_18	is_in_sentence	sentence_9612
+9612_18	compound	9612_20
+9612_18	has_surface_form	York
+9612_19	is_in_sentence	sentence_9612
+9612_19	compound	9612_20
+9612_19	has_surface_form	state
+9612_21	is_in_sentence	sentence_9612
+9612_21	nsubj	9612_22
+9612_21	has_surface_form	that
+9612_22	is_in_sentence	sentence_9612
+9612_22	relcl	9612_14
+9612_22	has_surface_form	enforces
+9612_23	is_in_sentence	sentence_9612
+9612_23	compound	9612_24
+9612_23	has_surface_form	labor
+9612_24	is_in_sentence	sentence_9612
+9612_24	dobj	9612_22
+9612_24	has_surface_form	law
+9612_25	is_in_sentence	sentence_9612
+9612_25	cc	9612_24
+9612_25	has_surface_form	and
+9612_26	is_in_sentence	sentence_9612
+9612_26	compound	9612_28
+9612_26	has_surface_form	administers
+9612_28	is_in_sentence	sentence_9612
+9612_28	dobj	9612_22
+9612_28	has_surface_form	benefits
+9612_27	is_in_sentence	sentence_9612
+9612_27	compound	9612_28
+9612_27	has_surface_form	unemployment
+9612_29	is_in_sentence	sentence_9612
+9612_29	punct	9612_12
+9612_29	has_surface_form	.
+9612_30	is_in_sentence	sentence_9612
+9612_30	dep	9612_30
+9612_30	has_surface_form	
+New York State Department of Labor	surface_form	New York State Department of Labor
+New York State Department of Labor	has-type	department

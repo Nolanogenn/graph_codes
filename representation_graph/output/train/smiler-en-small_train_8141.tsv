@@ -1,0 +1,85 @@
+8140_0	is_in_sentence	sentence_8140
+8140_0	compound	8140_1
+8140_0	has_surface_form	Elizabeth
+8140_0	part_of_entity	Elizabeth Trentham
+8140_1	is_in_sentence	sentence_8140
+8140_1	nsubjpass	8140_3
+8140_1	has_surface_form	Trentham
+8140_1	part_of_entity	Elizabeth Trentham
+8140_3	is_in_sentence	sentence_8140
+8140_3	ROOT	8140_3
+8140_3	has_surface_form	born
+8140_2	is_in_sentence	sentence_8140
+8140_2	auxpass	8140_3
+8140_2	has_surface_form	was
+8140_4	is_in_sentence	sentence_8140
+8140_4	prep	8140_3
+8140_4	has_surface_form	at
+8140_5	is_in_sentence	sentence_8140
+8140_5	pobj	8140_4
+8140_5	has_surface_form	Rocester
+8140_6	is_in_sentence	sentence_8140
+8140_6	punct	8140_5
+8140_6	has_surface_form	,
+8140_7	is_in_sentence	sentence_8140
+8140_7	conj	8140_5
+8140_7	has_surface_form	Staffordshire
+8140_8	is_in_sentence	sentence_8140
+8140_8	punct	8140_7
+8140_8	has_surface_form	,
+8140_9	is_in_sentence	sentence_8140
+8140_9	det	8140_10
+8140_9	has_surface_form	the
+8140_10	is_in_sentence	sentence_8140
+8140_10	appos	8140_7
+8140_10	has_surface_form	daughter
+8140_11	is_in_sentence	sentence_8140
+8140_11	prep	8140_10
+8140_11	has_surface_form	of
+8140_12	is_in_sentence	sentence_8140
+8140_12	compound	8140_13
+8140_12	has_surface_form	Thomas
+8140_12	part_of_entity	Thomas Trentham
+8140_13	is_in_sentence	sentence_8140
+8140_13	pobj	8140_11
+8140_13	has_surface_form	Trentham
+8140_13	part_of_entity	Thomas Trentham
+8140_14	is_in_sentence	sentence_8140
+8140_14	cc	8140_13
+8140_14	has_surface_form	and
+8140_15	is_in_sentence	sentence_8140
+8140_15	compound	8140_16
+8140_15	has_surface_form	Jane
+8140_16	is_in_sentence	sentence_8140
+8140_16	conj	8140_13
+8140_16	has_surface_form	Sneyd
+8140_17	is_in_sentence	sentence_8140
+8140_17	punct	8140_3
+8140_17	has_surface_form	.
+8140_18	is_in_sentence	sentence_8140
+8140_18	cc	8140_19
+8140_18	has_surface_form	and
+8140_19	is_in_sentence	sentence_8140
+8140_19	ROOT	8140_19
+8140_19	has_surface_form	Katherine
+8140_20	is_in_sentence	sentence_8140
+8140_20	prep	8140_19
+8140_20	has_surface_form	to
+8140_21	is_in_sentence	sentence_8140
+8140_21	compound	8140_23
+8140_21	has_surface_form	Sir
+8140_23	is_in_sentence	sentence_8140
+8140_23	pobj	8140_20
+8140_23	has_surface_form	Stanhope
+8140_22	is_in_sentence	sentence_8140
+8140_22	compound	8140_23
+8140_22	has_surface_form	John
+8140_24	is_in_sentence	sentence_8140
+8140_24	punct	8140_19
+8140_24	has_surface_form	.
+8140_25	is_in_sentence	sentence_8140
+8140_25	dep	8140_25
+8140_25	has_surface_form	
+Elizabeth Trentham	surface_form	Elizabeth Trentham
+Elizabeth Trentham	has-parent	Thomas Trentham
+Thomas Trentham	surface_form	Thomas Trentham

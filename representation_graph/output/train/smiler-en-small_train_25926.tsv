@@ -1,0 +1,90 @@
+25925_0	is_in_sentence	sentence_25925
+25925_0	det	25925_1
+25925_0	has_surface_form	The
+25925_0	part_of_entity	The Widow from Chicago
+25925_1	is_in_sentence	sentence_25925
+25925_1	nsubj	25925_4
+25925_1	has_surface_form	Widow
+25925_1	part_of_entity	The Widow from Chicago
+25925_4	is_in_sentence	sentence_25925
+25925_4	ROOT	25925_4
+25925_4	has_surface_form	is
+25925_2	is_in_sentence	sentence_25925
+25925_2	prep	25925_1
+25925_2	has_surface_form	from
+25925_2	part_of_entity	The Widow from Chicago
+25925_3	is_in_sentence	sentence_25925
+25925_3	pobj	25925_2
+25925_3	has_surface_form	Chicago
+25925_3	part_of_entity	The Widow from Chicago
+25925_5	is_in_sentence	sentence_25925
+25925_5	det	25925_13
+25925_5	has_surface_form	a
+25925_13	is_in_sentence	sentence_25925
+25925_13	attr	25925_4
+25925_13	has_surface_form	film
+25925_6	is_in_sentence	sentence_25925
+25925_6	nummod	25925_13
+25925_6	has_surface_form	1930
+25925_7	is_in_sentence	sentence_25925
+25925_7	amod	25925_11
+25925_7	has_surface_form	American
+25925_11	is_in_sentence	sentence_25925
+25925_11	compound	25925_13
+25925_11	has_surface_form	crime
+25925_8	is_in_sentence	sentence_25925
+25925_8	amod	25925_11
+25925_8	has_surface_form	pre
+25925_9	is_in_sentence	sentence_25925
+25925_9	amod	25925_11
+25925_9	has_surface_form	-
+25925_10	is_in_sentence	sentence_25925
+25925_10	amod	25925_11
+25925_10	has_surface_form	Code
+25925_12	is_in_sentence	sentence_25925
+25925_12	compound	25925_13
+25925_12	has_surface_form	drama
+25925_14	is_in_sentence	sentence_25925
+25925_14	acl	25925_13
+25925_14	has_surface_form	directed
+25925_15	is_in_sentence	sentence_25925
+25925_15	agent	25925_14
+25925_15	has_surface_form	by
+25925_16	is_in_sentence	sentence_25925
+25925_16	compound	25925_18
+25925_16	has_surface_form	Edward
+25925_18	is_in_sentence	sentence_25925
+25925_18	pobj	25925_15
+25925_18	has_surface_form	Cline
+25925_17	is_in_sentence	sentence_25925
+25925_17	compound	25925_18
+25925_17	has_surface_form	F.
+25925_19	is_in_sentence	sentence_25925
+25925_19	cc	25925_14
+25925_19	has_surface_form	and
+25925_20	is_in_sentence	sentence_25925
+25925_20	conj	25925_14
+25925_20	has_surface_form	starring
+25925_21	is_in_sentence	sentence_25925
+25925_21	compound	25925_22
+25925_21	has_surface_form	Alice
+25925_21	part_of_entity	Alice White
+25925_22	is_in_sentence	sentence_25925
+25925_22	dobj	25925_20
+25925_22	has_surface_form	White
+25925_22	part_of_entity	Alice White
+25925_23	is_in_sentence	sentence_25925
+25925_23	punct	25925_22
+25925_23	has_surface_form	,
+25925_24	is_in_sentence	sentence_25925
+25925_24	compound	25925_25
+25925_24	has_surface_form	Edward
+25925_25	is_in_sentence	sentence_25925
+25925_25	appos	25925_22
+25925_25	has_surface_form	G.
+25925_26	is_in_sentence	sentence_25925
+25925_26	dep	25925_4
+25925_26	has_surface_form	
+The Widow from Chicago	surface_form	The Widow from Chicago
+The Widow from Chicago	starring	Alice White
+Alice White	surface_form	Alice White

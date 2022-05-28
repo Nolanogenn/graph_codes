@@ -1,0 +1,59 @@
+32078_0	is_in_sentence	sentence_32078
+32078_0	compound	32078_1
+32078_0	has_surface_form	Jewel
+32078_0	part_of_entity	Jewel Brown
+32078_1	is_in_sentence	sentence_32078
+32078_1	nsubj	32078_9
+32078_1	has_surface_form	Brown
+32078_1	part_of_entity	Jewel Brown
+32078_9	is_in_sentence	sentence_32078
+32078_9	ROOT	32078_9
+32078_9	has_surface_form	is
+32078_2	is_in_sentence	sentence_32078
+32078_2	punct	32078_1
+32078_2	has_surface_form	(
+32078_3	is_in_sentence	sentence_32078
+32078_3	acl	32078_1
+32078_3	has_surface_form	born
+32078_4	is_in_sentence	sentence_32078
+32078_4	npadvmod	32078_3
+32078_4	has_surface_form	August
+32078_5	is_in_sentence	sentence_32078
+32078_5	nummod	32078_4
+32078_5	has_surface_form	30
+32078_6	is_in_sentence	sentence_32078
+32078_6	punct	32078_4
+32078_6	has_surface_form	,
+32078_7	is_in_sentence	sentence_32078
+32078_7	nummod	32078_4
+32078_7	has_surface_form	1937
+32078_8	is_in_sentence	sentence_32078
+32078_8	punct	32078_1
+32078_8	has_surface_form	)
+32078_10	is_in_sentence	sentence_32078
+32078_10	det	32078_15
+32078_10	has_surface_form	an
+32078_15	is_in_sentence	sentence_32078
+32078_15	attr	32078_9
+32078_15	has_surface_form	singer
+32078_11	is_in_sentence	sentence_32078
+32078_11	amod	32078_12
+32078_11	has_surface_form	American
+32078_12	is_in_sentence	sentence_32078
+32078_12	nmod	32078_15
+32078_12	has_surface_form	jazz
+32078_13	is_in_sentence	sentence_32078
+32078_13	cc	32078_12
+32078_13	has_surface_form	and
+32078_14	is_in_sentence	sentence_32078
+32078_14	conj	32078_12
+32078_14	is_entity	blues
+blues	surface_form	blues
+32078_16	is_in_sentence	sentence_32078
+32078_16	punct	32078_9
+32078_16	has_surface_form	.
+32078_17	is_in_sentence	sentence_32078
+32078_17	dep	32078_17
+32078_17	has_surface_form	
+Jewel Brown	surface_form	Jewel Brown
+Jewel Brown	has-genre	blues

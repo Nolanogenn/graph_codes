@@ -1,0 +1,76 @@
+31528_0	is_in_sentence	sentence_31528
+31528_0	compound	31528_1
+31528_0	has_surface_form	Schloss
+31528_0	part_of_entity	Schloss Körtlinghausen
+31528_1	is_in_sentence	sentence_31528
+31528_1	nsubj	31528_2
+31528_1	has_surface_form	Körtlinghausen
+31528_1	part_of_entity	Schloss Körtlinghausen
+31528_2	is_in_sentence	sentence_31528
+31528_2	ROOT	31528_2
+31528_2	has_surface_form	is
+31528_3	is_in_sentence	sentence_31528
+31528_3	det	31528_7
+31528_3	has_surface_form	a
+31528_7	is_in_sentence	sentence_31528
+31528_7	attr	31528_2
+31528_7	has_surface_form	château
+31528_4	is_in_sentence	sentence_31528
+31528_4	compound	31528_5
+31528_4	has_surface_form	Baroque
+31528_4	part_of_entity	Baroque Schloss
+31528_5	is_in_sentence	sentence_31528
+31528_5	nmod	31528_7
+31528_5	has_surface_form	Schloss
+31528_5	part_of_entity	Baroque Schloss
+31528_6	is_in_sentence	sentence_31528
+31528_6	punct	31528_7
+31528_6	has_surface_form	(
+31528_8	is_in_sentence	sentence_31528
+31528_8	punct	31528_7
+31528_8	has_surface_form	)
+31528_9	is_in_sentence	sentence_31528
+31528_9	prep	31528_2
+31528_9	has_surface_form	in
+31528_10	is_in_sentence	sentence_31528
+31528_10	poss	31528_13
+31528_10	has_surface_form	Germany
+31528_13	is_in_sentence	sentence_31528
+31528_13	pobj	31528_9
+31528_13	has_surface_form	region
+31528_11	is_in_sentence	sentence_31528
+31528_11	case	31528_10
+31528_11	has_surface_form	's
+31528_12	is_in_sentence	sentence_31528
+31528_12	compound	31528_13
+31528_12	has_surface_form	Sauerland
+31528_14	is_in_sentence	sentence_31528
+31528_14	punct	31528_2
+31528_14	has_surface_form	,
+31528_15	is_in_sentence	sentence_31528
+31528_15	advmod	31528_16
+31528_15	has_surface_form	roughly
+31528_16	is_in_sentence	sentence_31528
+31528_16	acomp	31528_2
+31528_16	has_surface_form	equidistant
+31528_17	is_in_sentence	sentence_31528
+31528_17	prep	31528_16
+31528_17	has_surface_form	between
+31528_18	is_in_sentence	sentence_31528
+31528_18	pobj	31528_17
+31528_18	has_surface_form	Dortmund
+31528_19	is_in_sentence	sentence_31528
+31528_19	cc	31528_18
+31528_19	has_surface_form	and
+31528_20	is_in_sentence	sentence_31528
+31528_20	conj	31528_18
+31528_20	has_surface_form	Kassel
+31528_21	is_in_sentence	sentence_31528
+31528_21	punct	31528_2
+31528_21	has_surface_form	.
+31528_22	is_in_sentence	sentence_31528
+31528_22	dep	31528_2
+31528_22	has_surface_form	
+Schloss Körtlinghausen	surface_form	Schloss Körtlinghausen
+Schloss Körtlinghausen	has-type	Baroque Schloss
+Baroque Schloss	surface_form	Baroque Schloss

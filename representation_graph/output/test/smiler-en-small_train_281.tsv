@@ -1,0 +1,71 @@
+280_0	is_in_sentence	sentence_280
+280_0	det	280_1
+280_0	has_surface_form	A
+280_1	is_in_sentence	sentence_280
+280_1	poss	280_3
+280_1	has_surface_form	Penny
+280_3	is_in_sentence	sentence_280
+280_3	nsubj	280_11
+280_3	has_surface_form	History
+280_2	is_in_sentence	sentence_280
+280_2	case	280_1
+280_2	has_surface_form	's
+280_11	is_in_sentence	sentence_280
+280_11	ROOT	280_11
+280_11	has_surface_form	is
+280_4	is_in_sentence	sentence_280
+280_4	punct	280_3
+280_4	has_surface_form	(
+280_5	is_in_sentence	sentence_280
+280_5	appos	280_3
+280_5	has_surface_form	Hungarian
+280_6	is_in_sentence	sentence_280
+280_6	punct	280_3
+280_6	has_surface_form	:
+280_7	is_in_sentence	sentence_280
+280_7	nmod	280_9
+280_7	has_surface_form	Egy
+280_9	is_in_sentence	sentence_280
+280_9	appos	280_3
+280_9	has_surface_form	története
+280_8	is_in_sentence	sentence_280
+280_8	advmod	280_9
+280_8	has_surface_form	krajcár
+280_10	is_in_sentence	sentence_280
+280_10	punct	280_3
+280_10	has_surface_form	)
+280_12	is_in_sentence	sentence_280
+280_12	det	280_15
+280_12	has_surface_form	a
+280_15	is_in_sentence	sentence_280
+280_15	attr	280_11
+280_15	has_surface_form	film
+280_13	is_in_sentence	sentence_280
+280_13	nummod	280_15
+280_13	has_surface_form	1917
+280_14	is_in_sentence	sentence_280
+280_14	amod	280_15
+280_14	has_surface_form	Hungarian
+280_16	is_in_sentence	sentence_280
+280_16	acl	280_15
+280_16	has_surface_form	directed
+280_17	is_in_sentence	sentence_280
+280_17	agent	280_16
+280_17	has_surface_form	by
+280_18	is_in_sentence	sentence_280
+280_18	compound	280_19
+280_18	has_surface_form	Michael
+280_18	part_of_entity	Michael Curtiz
+280_19	is_in_sentence	sentence_280
+280_19	pobj	280_17
+280_19	has_surface_form	Curtiz
+280_19	part_of_entity	Michael Curtiz
+280_20	is_in_sentence	sentence_280
+280_20	punct	280_11
+280_20	has_surface_form	.
+280_21	is_in_sentence	sentence_280
+280_21	dep	280_11
+280_21	has_surface_form	
+A Penny's History	surface_form	A Penny's History
+A Penny's History	movie-has-director	Michael Curtiz
+Michael Curtiz	surface_form	Michael Curtiz

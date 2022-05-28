@@ -1,0 +1,85 @@
+30761_0	is_in_sentence	sentence_30761
+30761_0	det	30761_3
+30761_0	has_surface_form	The
+30761_0	part_of_entity	The Thin Yellow Line
+30761_3	is_in_sentence	sentence_30761
+30761_3	nsubj	30761_12
+30761_3	has_surface_form	Line
+30761_3	part_of_entity	The Thin Yellow Line
+30761_1	is_in_sentence	sentence_30761
+30761_1	compound	30761_3
+30761_1	has_surface_form	Thin
+30761_1	part_of_entity	The Thin Yellow Line
+30761_2	is_in_sentence	sentence_30761
+30761_2	compound	30761_3
+30761_2	has_surface_form	Yellow
+30761_2	part_of_entity	The Thin Yellow Line
+30761_12	is_in_sentence	sentence_30761
+30761_12	ROOT	30761_12
+30761_12	has_surface_form	is
+30761_4	is_in_sentence	sentence_30761
+30761_4	punct	30761_5
+30761_4	has_surface_form	(
+30761_5	is_in_sentence	sentence_30761
+30761_5	appos	30761_3
+30761_5	has_surface_form	Spanish
+30761_6	is_in_sentence	sentence_30761
+30761_6	punct	30761_5
+30761_6	has_surface_form	:
+30761_7	is_in_sentence	sentence_30761
+30761_7	compound	30761_10
+30761_7	has_surface_form	La
+30761_10	is_in_sentence	sentence_30761
+30761_10	appos	30761_5
+30761_10	has_surface_form	amarilla
+30761_8	is_in_sentence	sentence_30761
+30761_8	compound	30761_9
+30761_8	has_surface_form	delgada
+30761_9	is_in_sentence	sentence_30761
+30761_9	compound	30761_10
+30761_9	has_surface_form	línea
+30761_11	is_in_sentence	sentence_30761
+30761_11	punct	30761_5
+30761_11	has_surface_form	)
+30761_13	is_in_sentence	sentence_30761
+30761_13	det	30761_17
+30761_13	has_surface_form	a
+30761_17	is_in_sentence	sentence_30761
+30761_17	attr	30761_12
+30761_17	has_surface_form	film
+30761_14	is_in_sentence	sentence_30761
+30761_14	nummod	30761_17
+30761_14	has_surface_form	2015
+30761_15	is_in_sentence	sentence_30761
+30761_15	amod	30761_17
+30761_15	has_surface_form	Mexican
+30761_16	is_in_sentence	sentence_30761
+30761_16	compound	30761_17
+30761_16	has_surface_form	drama
+30761_18	is_in_sentence	sentence_30761
+30761_18	acl	30761_17
+30761_18	has_surface_form	directed
+30761_19	is_in_sentence	sentence_30761
+30761_19	agent	30761_18
+30761_19	has_surface_form	by
+30761_20	is_in_sentence	sentence_30761
+30761_20	compound	30761_22
+30761_20	has_surface_form	Celso
+30761_20	part_of_entity	Celso R. García
+30761_22	is_in_sentence	sentence_30761
+30761_22	pobj	30761_19
+30761_22	has_surface_form	García
+30761_22	part_of_entity	Celso R. García
+30761_21	is_in_sentence	sentence_30761
+30761_21	compound	30761_22
+30761_21	has_surface_form	R.
+30761_21	part_of_entity	Celso R. García
+30761_23	is_in_sentence	sentence_30761
+30761_23	punct	30761_12
+30761_23	has_surface_form	.
+30761_24	is_in_sentence	sentence_30761
+30761_24	dep	30761_12
+30761_24	has_surface_form	
+The Thin Yellow Line	surface_form	The Thin Yellow Line
+The Thin Yellow Line	movie-has-director	Celso R. García
+Celso R. García	surface_form	Celso R. García

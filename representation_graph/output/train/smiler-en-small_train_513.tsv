@@ -1,0 +1,52 @@
+512_0	is_in_sentence	sentence_512
+512_0	det	512_1
+512_0	has_surface_form	The
+512_0	part_of_entity	The Ambulance
+512_1	is_in_sentence	sentence_512
+512_1	nsubj	512_2
+512_1	has_surface_form	Ambulance
+512_1	part_of_entity	The Ambulance
+512_2	is_in_sentence	sentence_512
+512_2	ROOT	512_2
+512_2	has_surface_form	is
+512_3	is_in_sentence	sentence_512
+512_3	det	512_6
+512_3	has_surface_form	a
+512_6	is_in_sentence	sentence_512
+512_6	attr	512_2
+512_6	has_surface_form	thriller
+512_4	is_in_sentence	sentence_512
+512_4	nummod	512_6
+512_4	has_surface_form	1990
+512_5	is_in_sentence	sentence_512
+512_5	compound	512_6
+512_5	has_surface_form	comedy
+512_7	is_in_sentence	sentence_512
+512_7	acl	512_6
+512_7	has_surface_form	written
+512_8	is_in_sentence	sentence_512
+512_8	cc	512_7
+512_8	has_surface_form	and
+512_9	is_in_sentence	sentence_512
+512_9	conj	512_7
+512_9	has_surface_form	directed
+512_10	is_in_sentence	sentence_512
+512_10	agent	512_9
+512_10	has_surface_form	by
+512_11	is_in_sentence	sentence_512
+512_11	compound	512_12
+512_11	has_surface_form	Larry
+512_11	part_of_entity	Larry Cohen
+512_12	is_in_sentence	sentence_512
+512_12	pobj	512_10
+512_12	has_surface_form	Cohen
+512_12	part_of_entity	Larry Cohen
+512_13	is_in_sentence	sentence_512
+512_13	punct	512_2
+512_13	has_surface_form	.
+512_14	is_in_sentence	sentence_512
+512_14	dep	512_14
+512_14	has_surface_form	
+The Ambulance	surface_form	The Ambulance
+The Ambulance	movie-has-director	Larry Cohen
+Larry Cohen	surface_form	Larry Cohen

@@ -1,0 +1,68 @@
+29864_0	is_in_sentence	sentence_29864
+29864_0	compound	29864_1
+29864_0	has_surface_form	Bill
+29864_0	part_of_entity	Bill Snyder
+29864_1	is_in_sentence	sentence_29864
+29864_1	nsubj	29864_9
+29864_1	has_surface_form	Snyder
+29864_1	part_of_entity	Bill Snyder
+29864_9	is_in_sentence	sentence_29864
+29864_9	ROOT	29864_9
+29864_9	has_surface_form	is
+29864_2	is_in_sentence	sentence_29864
+29864_2	punct	29864_1
+29864_2	has_surface_form	(
+29864_3	is_in_sentence	sentence_29864
+29864_3	acl	29864_1
+29864_3	has_surface_form	born
+29864_4	is_in_sentence	sentence_29864
+29864_4	npadvmod	29864_3
+29864_4	has_surface_form	October
+29864_5	is_in_sentence	sentence_29864
+29864_5	nummod	29864_4
+29864_5	has_surface_form	7
+29864_6	is_in_sentence	sentence_29864
+29864_6	punct	29864_4
+29864_6	has_surface_form	,
+29864_7	is_in_sentence	sentence_29864
+29864_7	nummod	29864_4
+29864_7	has_surface_form	1939
+29864_8	is_in_sentence	sentence_29864
+29864_8	punct	29864_1
+29864_8	has_surface_form	)
+29864_10	is_in_sentence	sentence_29864
+29864_10	det	29864_14
+29864_10	has_surface_form	a
+29864_14	is_in_sentence	sentence_29864
+29864_14	attr	29864_9
+29864_14	has_surface_form	coach
+29864_14	part_of_entity	college football coach
+29864_11	is_in_sentence	sentence_29864
+29864_11	amod	29864_14
+29864_11	has_surface_form	retired
+29864_12	is_in_sentence	sentence_29864
+29864_12	compound	29864_13
+29864_12	has_surface_form	college
+29864_12	part_of_entity	college football coach
+29864_13	is_in_sentence	sentence_29864
+29864_13	compound	29864_14
+29864_13	has_surface_form	football
+29864_13	part_of_entity	college football coach
+29864_15	is_in_sentence	sentence_29864
+29864_15	cc	29864_14
+29864_15	has_surface_form	and
+29864_16	is_in_sentence	sentence_29864
+29864_16	amod	29864_17
+29864_16	has_surface_form	former
+29864_17	is_in_sentence	sentence_29864
+29864_17	conj	29864_14
+29864_17	has_surface_form	player
+29864_18	is_in_sentence	sentence_29864
+29864_18	punct	29864_9
+29864_18	has_surface_form	.
+29864_19	is_in_sentence	sentence_29864
+29864_19	dep	29864_19
+29864_19	has_surface_form	
+Bill Snyder	surface_form	Bill Snyder
+Bill Snyder	has-type	college football coach
+college football coach	surface_form	college football coach

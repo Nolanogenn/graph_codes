@@ -1,0 +1,57 @@
+1936_0	is_in_sentence	sentence_1936
+1936_0	compound	1936_1
+1936_0	has_surface_form	Chemische
+1936_0	part_of_entity	Chemische Werke Kluthe GmbH
+1936_1	is_in_sentence	sentence_1936
+1936_1	compound	1936_3
+1936_1	has_surface_form	Werke
+1936_1	part_of_entity	Chemische Werke Kluthe GmbH
+1936_3	is_in_sentence	sentence_1936
+1936_3	nsubj	1936_4
+1936_3	has_surface_form	GmbH
+1936_3	part_of_entity	Chemische Werke Kluthe GmbH
+1936_2	is_in_sentence	sentence_1936
+1936_2	compound	1936_3
+1936_2	has_surface_form	Kluthe
+1936_2	part_of_entity	Chemische Werke Kluthe GmbH
+1936_4	is_in_sentence	sentence_1936
+1936_4	ROOT	1936_4
+1936_4	has_surface_form	is
+1936_5	is_in_sentence	sentence_1936
+1936_5	det	1936_10
+1936_5	has_surface_form	a
+1936_10	is_in_sentence	sentence_1936
+1936_10	attr	1936_4
+1936_10	has_surface_form	company
+1936_10	part_of_entity	chemical company
+1936_6	is_in_sentence	sentence_1936
+1936_6	npadvmod	1936_8
+1936_6	has_surface_form	German
+1936_8	is_in_sentence	sentence_1936
+1936_8	amod	1936_10
+1936_8	has_surface_form	based
+1936_7	is_in_sentence	sentence_1936
+1936_7	punct	1936_8
+1936_7	has_surface_form	-
+1936_9	is_in_sentence	sentence_1936
+1936_9	compound	1936_10
+1936_9	has_surface_form	chemical
+1936_9	part_of_entity	chemical company
+1936_11	is_in_sentence	sentence_1936
+1936_11	acl	1936_10
+1936_11	has_surface_form	headquartered
+1936_12	is_in_sentence	sentence_1936
+1936_12	prep	1936_11
+1936_12	has_surface_form	in
+1936_13	is_in_sentence	sentence_1936
+1936_13	pobj	1936_12
+1936_13	has_surface_form	Heidelberg
+1936_14	is_in_sentence	sentence_1936
+1936_14	punct	1936_4
+1936_14	has_surface_form	.
+1936_15	is_in_sentence	sentence_1936
+1936_15	dep	1936_15
+1936_15	has_surface_form	
+Chemische Werke Kluthe GmbH	surface_form	Chemische Werke Kluthe GmbH
+Chemische Werke Kluthe GmbH	has-type	chemical company
+chemical company	surface_form	chemical company

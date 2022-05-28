@@ -1,0 +1,93 @@
+7271_0	is_in_sentence	sentence_7271
+7271_0	compound	7271_1
+7271_0	has_surface_form	Blake
+7271_0	part_of_entity	Blake Lindsley
+7271_1	is_in_sentence	sentence_7271
+7271_1	nsubj	7271_9
+7271_1	has_surface_form	Lindsley
+7271_1	part_of_entity	Blake Lindsley
+7271_9	is_in_sentence	sentence_7271
+7271_9	ROOT	7271_9
+7271_9	has_surface_form	is
+7271_2	is_in_sentence	sentence_7271
+7271_2	punct	7271_1
+7271_2	has_surface_form	(
+7271_3	is_in_sentence	sentence_7271
+7271_3	acl	7271_1
+7271_3	has_surface_form	born
+7271_4	is_in_sentence	sentence_7271
+7271_4	npadvmod	7271_3
+7271_4	has_surface_form	December
+7271_5	is_in_sentence	sentence_7271
+7271_5	nummod	7271_4
+7271_5	has_surface_form	19
+7271_6	is_in_sentence	sentence_7271
+7271_6	punct	7271_4
+7271_6	has_surface_form	,
+7271_7	is_in_sentence	sentence_7271
+7271_7	nummod	7271_4
+7271_7	has_surface_form	1973
+7271_8	is_in_sentence	sentence_7271
+7271_8	punct	7271_3
+7271_8	has_surface_form	)
+7271_10	is_in_sentence	sentence_7271
+7271_10	det	7271_12
+7271_10	has_surface_form	an
+7271_12	is_in_sentence	sentence_7271
+7271_12	attr	7271_9
+7271_12	has_surface_form	actress
+7271_11	is_in_sentence	sentence_7271
+7271_11	amod	7271_12
+7271_11	has_surface_form	American
+7271_13	is_in_sentence	sentence_7271
+7271_13	punct	7271_9
+7271_13	has_surface_form	.
+7271_14	is_in_sentence	sentence_7271
+7271_14	nsubjpass	7271_16
+7271_14	has_surface_form	She
+7271_16	is_in_sentence	sentence_7271
+7271_16	ROOT	7271_16
+7271_16	has_surface_form	born
+7271_15	is_in_sentence	sentence_7271
+7271_15	auxpass	7271_16
+7271_15	has_surface_form	was
+7271_17	is_in_sentence	sentence_7271
+7271_17	compound	7271_20
+7271_17	has_surface_form	Norma
+7271_20	is_in_sentence	sentence_7271
+7271_20	dobj	7271_16
+7271_20	has_surface_form	Schlei
+7271_18	is_in_sentence	sentence_7271
+7271_18	compound	7271_20
+7271_18	has_surface_form	Blake
+7271_18	part_of_entity	Blake Lindsley
+7271_19	is_in_sentence	sentence_7271
+7271_19	compound	7271_20
+7271_19	has_surface_form	Lindsley
+7271_19	part_of_entity	Blake Lindsley
+7271_21	is_in_sentence	sentence_7271
+7271_21	prep	7271_20
+7271_21	has_surface_form	in
+7271_22	is_in_sentence	sentence_7271
+7271_22	compound	7271_23
+7271_22	has_surface_form	Los
+7271_22	part_of_entity	Los Angeles
+7271_23	is_in_sentence	sentence_7271
+7271_23	pobj	7271_21
+7271_23	has_surface_form	Angeles
+7271_23	part_of_entity	Los Angeles
+7271_24	is_in_sentence	sentence_7271
+7271_24	punct	7271_23
+7271_24	has_surface_form	,
+7271_25	is_in_sentence	sentence_7271
+7271_25	appos	7271_23
+7271_25	has_surface_form	California
+7271_26	is_in_sentence	sentence_7271
+7271_26	punct	7271_16
+7271_26	has_surface_form	.
+7271_27	is_in_sentence	sentence_7271
+7271_27	dep	7271_27
+7271_27	has_surface_form	
+Blake Lindsley	surface_form	Blake Lindsley
+Blake Lindsley	birth-place	Los Angeles
+Los Angeles	surface_form	Los Angeles

@@ -1,0 +1,67 @@
+20540_0	is_in_sentence	sentence_20540
+20540_0	compound	20540_1
+20540_0	has_surface_form	Michael
+20540_0	part_of_entity	Michael Bloomfield
+20540_1	is_in_sentence	sentence_20540
+20540_1	poss	20540_3
+20540_1	has_surface_form	Bloomfield
+20540_1	part_of_entity	Michael Bloomfield
+20540_3	is_in_sentence	sentence_20540
+20540_3	nsubjpass	20540_5
+20540_3	has_surface_form	mother
+20540_2	is_in_sentence	sentence_20540
+20540_2	case	20540_1
+20540_2	has_surface_form	's
+20540_5	is_in_sentence	sentence_20540
+20540_5	ROOT	20540_5
+20540_5	has_surface_form	born
+20540_4	is_in_sentence	sentence_20540
+20540_4	auxpass	20540_5
+20540_4	has_surface_form	was
+20540_6	is_in_sentence	sentence_20540
+20540_6	compound	20540_7
+20540_6	has_surface_form	Dorothy
+20540_6	part_of_entity	Dorothy Klein
+20540_7	is_in_sentence	sentence_20540
+20540_7	oprd	20540_5
+20540_7	has_surface_form	Klein
+20540_7	part_of_entity	Dorothy Klein
+20540_8	is_in_sentence	sentence_20540
+20540_8	prep	20540_7
+20540_8	has_surface_form	in
+20540_9	is_in_sentence	sentence_20540
+20540_9	pobj	20540_8
+20540_9	has_surface_form	Chicago
+20540_10	is_in_sentence	sentence_20540
+20540_10	prep	20540_5
+20540_10	has_surface_form	in
+20540_11	is_in_sentence	sentence_20540
+20540_11	pobj	20540_10
+20540_11	has_surface_form	1918
+20540_12	is_in_sentence	sentence_20540
+20540_12	cc	20540_5
+20540_12	has_surface_form	and
+20540_13	is_in_sentence	sentence_20540
+20540_13	conj	20540_5
+20540_13	has_surface_form	married
+20540_14	is_in_sentence	sentence_20540
+20540_14	compound	20540_15
+20540_14	has_surface_form	Harold
+20540_15	is_in_sentence	sentence_20540
+20540_15	dobj	20540_13
+20540_15	has_surface_form	Bloomfield
+20540_16	is_in_sentence	sentence_20540
+20540_16	prep	20540_13
+20540_16	has_surface_form	in
+20540_17	is_in_sentence	sentence_20540
+20540_17	pobj	20540_16
+20540_17	has_surface_form	1940
+20540_18	is_in_sentence	sentence_20540
+20540_18	punct	20540_5
+20540_18	has_surface_form	.
+20540_19	is_in_sentence	sentence_20540
+20540_19	dep	20540_19
+20540_19	has_surface_form	
+Michael Bloomfield	surface_form	Michael Bloomfield
+Michael Bloomfield	has-parent	Dorothy Klein
+Dorothy Klein	surface_form	Dorothy Klein

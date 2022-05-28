@@ -1,0 +1,74 @@
+13713_0	is_in_sentence	sentence_13713
+13713_0	compound	13713_1
+13713_0	has_surface_form	Hell
+13713_0	part_of_entity	Hell Baby
+13713_1	is_in_sentence	sentence_13713
+13713_1	nsubj	13713_2
+13713_1	has_surface_form	Baby
+13713_1	part_of_entity	Hell Baby
+13713_2	is_in_sentence	sentence_13713
+13713_2	ROOT	13713_2
+13713_2	has_surface_form	is
+13713_3	is_in_sentence	sentence_13713
+13713_3	det	13713_9
+13713_3	has_surface_form	a
+13713_9	is_in_sentence	sentence_13713
+13713_9	attr	13713_2
+13713_9	has_surface_form	film
+13713_4	is_in_sentence	sentence_13713
+13713_4	nummod	13713_9
+13713_4	has_surface_form	2013
+13713_5	is_in_sentence	sentence_13713
+13713_5	amod	13713_9
+13713_5	has_surface_form	American
+13713_6	is_in_sentence	sentence_13713
+13713_6	compound	13713_8
+13713_6	has_surface_form	horror
+13713_8	is_in_sentence	sentence_13713
+13713_8	compound	13713_9
+13713_8	has_surface_form	comedy
+13713_7	is_in_sentence	sentence_13713
+13713_7	punct	13713_8
+13713_7	has_surface_form	-
+13713_10	is_in_sentence	sentence_13713
+13713_10	acl	13713_9
+13713_10	has_surface_form	written
+13713_11	is_in_sentence	sentence_13713
+13713_11	cc	13713_10
+13713_11	has_surface_form	and
+13713_12	is_in_sentence	sentence_13713
+13713_12	conj	13713_10
+13713_12	has_surface_form	directed
+13713_13	is_in_sentence	sentence_13713
+13713_13	agent	13713_12
+13713_13	has_surface_form	by
+13713_14	is_in_sentence	sentence_13713
+13713_14	compound	13713_16
+13713_14	has_surface_form	Robert
+13713_14	part_of_entity	Robert Ben Garant
+13713_16	is_in_sentence	sentence_13713
+13713_16	pobj	13713_13
+13713_16	has_surface_form	Garant
+13713_16	part_of_entity	Robert Ben Garant
+13713_15	is_in_sentence	sentence_13713
+13713_15	compound	13713_16
+13713_15	has_surface_form	Ben
+13713_15	part_of_entity	Robert Ben Garant
+13713_17	is_in_sentence	sentence_13713
+13713_17	cc	13713_16
+13713_17	has_surface_form	and
+13713_18	is_in_sentence	sentence_13713
+13713_18	compound	13713_19
+13713_18	has_surface_form	Thomas
+13713_19	is_in_sentence	sentence_13713
+13713_19	conj	13713_16
+13713_19	has_surface_form	Lennon
+13713_20	is_in_sentence	sentence_13713
+13713_20	punct	13713_2
+13713_20	has_surface_form	.
+13713_21	is_in_sentence	sentence_13713
+13713_21	dep	13713_2
+13713_21	has_surface_form	
+Hell Baby	surface_form	Hell Baby
+Hell Baby	movie-has-director	Robert Ben Garant
+Robert Ben Garant	surface_form	Robert Ben Garant

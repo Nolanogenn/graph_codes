@@ -1,0 +1,64 @@
+20018_0	is_in_sentence	sentence_20018
+20018_0	compound	20018_1
+20018_0	has_surface_form	Native
+20018_0	part_of_entity	Native Window
+20018_1	is_in_sentence	sentence_20018
+20018_1	nsubj	20018_2
+20018_1	has_surface_form	Window
+20018_1	part_of_entity	Native Window
+20018_2	is_in_sentence	sentence_20018
+20018_2	ROOT	20018_2
+20018_2	has_surface_form	is
+20018_3	is_in_sentence	sentence_20018
+20018_3	det	20018_10
+20018_3	has_surface_form	an
+20018_10	is_in_sentence	sentence_20018
+20018_10	attr	20018_2
+20018_10	has_surface_form	band
+20018_4	is_in_sentence	sentence_20018
+20018_4	amod	20018_10
+20018_4	has_surface_form	American
+20018_5	is_in_sentence	sentence_20018
+20018_5	amod	20018_7
+20018_5	has_surface_form	progressive
+20018_5	part_of_entity	progressive rock
+20018_7	is_in_sentence	sentence_20018
+20018_7	nmod	20018_10
+20018_7	has_surface_form	spin
+20018_6	is_in_sentence	sentence_20018
+20018_6	compound	20018_7
+20018_6	has_surface_form	rock
+20018_6	part_of_entity	progressive rock
+20018_8	is_in_sentence	sentence_20018
+20018_8	punct	20018_7
+20018_8	has_surface_form	-
+20018_9	is_in_sentence	sentence_20018
+20018_9	prt	20018_7
+20018_9	has_surface_form	off
+20018_11	is_in_sentence	sentence_20018
+20018_11	prep	20018_10
+20018_11	has_surface_form	of
+20018_12	is_in_sentence	sentence_20018
+20018_12	det	20018_15
+20018_12	has_surface_form	the
+20018_15	is_in_sentence	sentence_20018
+20018_15	pobj	20018_11
+20018_15	has_surface_form	group
+20018_13	is_in_sentence	sentence_20018
+20018_13	amod	20018_15
+20018_13	has_surface_form	popular
+20018_14	is_in_sentence	sentence_20018
+20018_14	compound	20018_15
+20018_14	has_surface_form	rock
+20018_16	is_in_sentence	sentence_20018
+20018_16	appos	20018_15
+20018_16	has_surface_form	Kansas
+20018_17	is_in_sentence	sentence_20018
+20018_17	punct	20018_2
+20018_17	has_surface_form	.
+20018_18	is_in_sentence	sentence_20018
+20018_18	dep	20018_2
+20018_18	has_surface_form	
+Native Window	surface_form	Native Window
+Native Window	has-genre	progressive rock
+progressive rock	surface_form	progressive rock

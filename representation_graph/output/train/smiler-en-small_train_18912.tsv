@@ -1,0 +1,103 @@
+18911_0	is_in_sentence	sentence_18911
+18911_0	compound	18911_1
+18911_0	has_surface_form	Birch
+18911_0	part_of_entity	Birch Run High School
+18911_1	is_in_sentence	sentence_18911
+18911_1	compound	18911_3
+18911_1	has_surface_form	Run
+18911_1	part_of_entity	Birch Run High School
+18911_3	is_in_sentence	sentence_18911
+18911_3	nsubj	18911_4
+18911_3	has_surface_form	School
+18911_3	part_of_entity	Birch Run High School
+18911_2	is_in_sentence	sentence_18911
+18911_2	compound	18911_3
+18911_2	has_surface_form	High
+18911_2	part_of_entity	Birch Run High School
+18911_4	is_in_sentence	sentence_18911
+18911_4	ROOT	18911_4
+18911_4	has_surface_form	is
+18911_5	is_in_sentence	sentence_18911
+18911_5	det	18911_8
+18911_5	has_surface_form	a
+18911_8	is_in_sentence	sentence_18911
+18911_8	attr	18911_4
+18911_8	has_surface_form	school
+18911_6	is_in_sentence	sentence_18911
+18911_6	amod	18911_8
+18911_6	has_surface_form	public
+18911_7	is_in_sentence	sentence_18911
+18911_7	amod	18911_8
+18911_7	has_surface_form	high
+18911_9	is_in_sentence	sentence_18911
+18911_9	acl	18911_8
+18911_9	has_surface_form	located
+18911_10	is_in_sentence	sentence_18911
+18911_10	prep	18911_9
+18911_10	has_surface_form	at
+18911_11	is_in_sentence	sentence_18911
+18911_11	nummod	18911_13
+18911_11	has_surface_form	12450
+18911_11	part_of_entity	12450 Church Street in Birch Run
+18911_13	is_in_sentence	sentence_18911
+18911_13	pobj	18911_10
+18911_13	has_surface_form	Street
+18911_13	part_of_entity	12450 Church Street in Birch Run
+18911_12	is_in_sentence	sentence_18911
+18911_12	compound	18911_13
+18911_12	has_surface_form	Church
+18911_12	part_of_entity	12450 Church Street in Birch Run
+18911_14	is_in_sentence	sentence_18911
+18911_14	prep	18911_13
+18911_14	has_surface_form	in
+18911_14	part_of_entity	12450 Church Street in Birch Run
+18911_15	is_in_sentence	sentence_18911
+18911_15	compound	18911_16
+18911_15	has_surface_form	Birch
+18911_15	part_of_entity	12450 Church Street in Birch Run
+18911_16	is_in_sentence	sentence_18911
+18911_16	pobj	18911_14
+18911_16	has_surface_form	Run
+18911_16	part_of_entity	12450 Church Street in Birch Run
+18911_17	is_in_sentence	sentence_18911
+18911_17	punct	18911_16
+18911_17	has_surface_form	,
+18911_18	is_in_sentence	sentence_18911
+18911_18	conj	18911_16
+18911_18	has_surface_form	Michigan
+18911_19	is_in_sentence	sentence_18911
+18911_19	cc	18911_18
+18911_19	has_surface_form	and
+18911_20	is_in_sentence	sentence_18911
+18911_20	conj	18911_18
+18911_20	has_surface_form	part
+18911_21	is_in_sentence	sentence_18911
+18911_21	prep	18911_20
+18911_21	has_surface_form	of
+18911_22	is_in_sentence	sentence_18911
+18911_22	det	18911_27
+18911_22	has_surface_form	the
+18911_27	is_in_sentence	sentence_18911
+18911_27	pobj	18911_21
+18911_27	has_surface_form	district
+18911_23	is_in_sentence	sentence_18911
+18911_23	compound	18911_24
+18911_23	has_surface_form	Birch
+18911_24	is_in_sentence	sentence_18911
+18911_24	compound	18911_25
+18911_24	has_surface_form	Run
+18911_25	is_in_sentence	sentence_18911
+18911_25	compound	18911_26
+18911_25	has_surface_form	Area
+18911_26	is_in_sentence	sentence_18911
+18911_26	compound	18911_27
+18911_26	has_surface_form	Schools
+18911_28	is_in_sentence	sentence_18911
+18911_28	punct	18911_4
+18911_28	has_surface_form	.
+18911_29	is_in_sentence	sentence_18911
+18911_29	dep	18911_29
+18911_29	has_surface_form	
+Birch Run High School	surface_form	Birch Run High School
+Birch Run High School	is-where	12450 Church Street in Birch Run
+12450 Church Street in Birch Run	surface_form	12450 Church Street in Birch Run

@@ -1,0 +1,59 @@
+21533_0	is_in_sentence	sentence_21533
+21533_0	compound	21533_1
+21533_0	has_surface_form	Ann
+21533_0	part_of_entity	Ann Scott
+21533_1	is_in_sentence	sentence_21533
+21533_1	nsubj	21533_12
+21533_1	has_surface_form	Scott
+21533_1	part_of_entity	Ann Scott
+21533_12	is_in_sentence	sentence_21533
+21533_12	ROOT	21533_12
+21533_12	has_surface_form	is
+21533_2	is_in_sentence	sentence_21533
+21533_2	punct	21533_1
+21533_2	has_surface_form	(
+21533_3	is_in_sentence	sentence_21533
+21533_3	acl	21533_1
+21533_3	has_surface_form	born
+21533_4	is_in_sentence	sentence_21533
+21533_4	nummod	21533_5
+21533_4	has_surface_form	3
+21533_5	is_in_sentence	sentence_21533
+21533_5	npadvmod	21533_3
+21533_5	has_surface_form	November
+21533_6	is_in_sentence	sentence_21533
+21533_6	nummod	21533_5
+21533_6	has_surface_form	1965
+21533_7	is_in_sentence	sentence_21533
+21533_7	prep	21533_3
+21533_7	has_surface_form	in
+21533_8	is_in_sentence	sentence_21533
+21533_8	pobj	21533_7
+21533_8	is_entity	Paris
+Paris	surface_form	Paris
+21533_9	is_in_sentence	sentence_21533
+21533_9	punct	21533_8
+21533_9	has_surface_form	,
+21533_10	is_in_sentence	sentence_21533
+21533_10	appos	21533_8
+21533_10	has_surface_form	France
+21533_11	is_in_sentence	sentence_21533
+21533_11	punct	21533_8
+21533_11	has_surface_form	)
+21533_13	is_in_sentence	sentence_21533
+21533_13	det	21533_15
+21533_13	has_surface_form	a
+21533_15	is_in_sentence	sentence_21533
+21533_15	attr	21533_12
+21533_15	has_surface_form	novelist
+21533_14	is_in_sentence	sentence_21533
+21533_14	amod	21533_15
+21533_14	has_surface_form	French
+21533_16	is_in_sentence	sentence_21533
+21533_16	punct	21533_12
+21533_16	has_surface_form	.
+21533_17	is_in_sentence	sentence_21533
+21533_17	dep	21533_12
+21533_17	has_surface_form	
+Ann Scott	surface_form	Ann Scott
+Ann Scott	birth-place	Paris

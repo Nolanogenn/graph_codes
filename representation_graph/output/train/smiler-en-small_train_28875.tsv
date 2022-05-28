@@ -1,0 +1,56 @@
+28874_0	is_in_sentence	sentence_28874
+28874_0	compound	28874_1
+28874_0	has_surface_form	Johnny
+28874_0	part_of_entity	Johnny Marks
+28874_1	is_in_sentence	sentence_28874
+28874_1	poss	28874_3
+28874_1	has_surface_form	Marks
+28874_1	part_of_entity	Johnny Marks
+28874_3	is_in_sentence	sentence_28874
+28874_3	nsubj	28874_9
+28874_3	has_surface_form	father
+28874_2	is_in_sentence	sentence_28874
+28874_2	case	28874_1
+28874_2	has_surface_form	's
+28874_9	is_in_sentence	sentence_28874
+28874_9	ROOT	28874_9
+28874_9	has_surface_form	was
+28874_4	is_in_sentence	sentence_28874
+28874_4	punct	28874_3
+28874_4	has_surface_form	,
+28874_5	is_in_sentence	sentence_28874
+28874_5	compound	28874_7
+28874_5	has_surface_form	Louis
+28874_5	part_of_entity	Louis B. Marks
+28874_7	is_in_sentence	sentence_28874
+28874_7	appos	28874_3
+28874_7	has_surface_form	Marks
+28874_7	part_of_entity	Louis B. Marks
+28874_6	is_in_sentence	sentence_28874
+28874_6	compound	28874_7
+28874_6	has_surface_form	B.
+28874_6	part_of_entity	Louis B. Marks
+28874_8	is_in_sentence	sentence_28874
+28874_8	punct	28874_3
+28874_8	has_surface_form	,
+28874_10	is_in_sentence	sentence_28874
+28874_10	det	28874_13
+28874_10	has_surface_form	a
+28874_13	is_in_sentence	sentence_28874
+28874_13	attr	28874_9
+28874_13	has_surface_form	engineer
+28874_11	is_in_sentence	sentence_28874
+28874_11	amod	28874_13
+28874_11	has_surface_form	leading
+28874_12	is_in_sentence	sentence_28874
+28874_12	compound	28874_13
+28874_12	has_surface_form	lighting
+28874_14	is_in_sentence	sentence_28874
+28874_14	punct	28874_9
+28874_14	has_surface_form	.
+28874_15	is_in_sentence	sentence_28874
+28874_15	dep	28874_15
+28874_15	has_surface_form	
+Johnny Marks	surface_form	Johnny Marks
+Johnny Marks	has-parent	Louis B. Marks
+Louis B. Marks	surface_form	Louis B. Marks

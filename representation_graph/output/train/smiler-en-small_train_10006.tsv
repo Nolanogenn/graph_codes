@@ -1,0 +1,72 @@
+10005_0	is_in_sentence	sentence_10005
+10005_0	det	10005_2
+10005_0	has_surface_form	The
+10005_0	part_of_entity	The Clinging Vine
+10005_2	is_in_sentence	sentence_10005
+10005_2	nsubj	10005_3
+10005_2	has_surface_form	Vine
+10005_2	part_of_entity	The Clinging Vine
+10005_1	is_in_sentence	sentence_10005
+10005_1	compound	10005_2
+10005_1	has_surface_form	Clinging
+10005_1	part_of_entity	The Clinging Vine
+10005_3	is_in_sentence	sentence_10005
+10005_3	ROOT	10005_3
+10005_3	has_surface_form	is
+10005_4	is_in_sentence	sentence_10005
+10005_4	det	10005_7
+10005_4	has_surface_form	a
+10005_7	is_in_sentence	sentence_10005
+10005_7	attr	10005_3
+10005_7	has_surface_form	film
+10005_5	is_in_sentence	sentence_10005
+10005_5	nummod	10005_7
+10005_5	has_surface_form	1926
+10005_6	is_in_sentence	sentence_10005
+10005_6	amod	10005_7
+10005_6	has_surface_form	silent
+10005_8	is_in_sentence	sentence_10005
+10005_8	acl	10005_7
+10005_8	has_surface_form	produced
+10005_9	is_in_sentence	sentence_10005
+10005_9	agent	10005_8
+10005_9	has_surface_form	by
+10005_10	is_in_sentence	sentence_10005
+10005_10	compound	10005_12
+10005_10	has_surface_form	Cecil
+10005_12	is_in_sentence	sentence_10005
+10005_12	pobj	10005_9
+10005_12	has_surface_form	DeMille
+10005_11	is_in_sentence	sentence_10005
+10005_11	compound	10005_12
+10005_11	has_surface_form	B.
+10005_13	is_in_sentence	sentence_10005
+10005_13	cc	10005_12
+10005_13	has_surface_form	and
+10005_14	is_in_sentence	sentence_10005
+10005_14	compound	10005_15
+10005_14	has_surface_form	Paul
+10005_15	is_in_sentence	sentence_10005
+10005_15	conj	10005_12
+10005_15	is_entity	Sloane
+Sloane	surface_form	Sloane
+10005_16	is_in_sentence	sentence_10005
+10005_16	cc	10005_8
+10005_16	has_surface_form	and
+10005_17	is_in_sentence	sentence_10005
+10005_17	conj	10005_8
+10005_17	has_surface_form	directed
+10005_18	is_in_sentence	sentence_10005
+10005_18	agent	10005_17
+10005_18	has_surface_form	by
+10005_19	is_in_sentence	sentence_10005
+10005_19	pobj	10005_18
+10005_19	is_entity	Sloane
+10005_20	is_in_sentence	sentence_10005
+10005_20	punct	10005_3
+10005_20	has_surface_form	.
+10005_21	is_in_sentence	sentence_10005
+10005_21	dep	10005_3
+10005_21	has_surface_form	
+The Clinging Vine	surface_form	The Clinging Vine
+The Clinging Vine	movie-has-director	Sloane

@@ -1,0 +1,78 @@
+929_0	is_in_sentence	sentence_929
+929_0	nsubj	929_3
+929_0	has_surface_form	Rebel
+929_0	part_of_entity	Rebel in Town
+929_3	is_in_sentence	sentence_929
+929_3	ROOT	929_3
+929_3	has_surface_form	is
+929_1	is_in_sentence	sentence_929
+929_1	prep	929_0
+929_1	has_surface_form	in
+929_1	part_of_entity	Rebel in Town
+929_2	is_in_sentence	sentence_929
+929_2	pobj	929_1
+929_2	has_surface_form	Town
+929_2	part_of_entity	Rebel in Town
+929_4	is_in_sentence	sentence_929
+929_4	det	929_8
+929_4	has_surface_form	a
+929_8	is_in_sentence	sentence_929
+929_8	attr	929_3
+929_8	has_surface_form	film
+929_5	is_in_sentence	sentence_929
+929_5	nummod	929_8
+929_5	has_surface_form	1956
+929_6	is_in_sentence	sentence_929
+929_6	amod	929_8
+929_6	has_surface_form	American
+929_7	is_in_sentence	sentence_929
+929_7	amod	929_8
+929_7	has_surface_form	Western
+929_9	is_in_sentence	sentence_929
+929_9	acl	929_8
+929_9	has_surface_form	directed
+929_10	is_in_sentence	sentence_929
+929_10	agent	929_9
+929_10	has_surface_form	by
+929_11	is_in_sentence	sentence_929
+929_11	compound	929_13
+929_11	has_surface_form	Alfred
+929_11	part_of_entity	Alfred L. Werker
+929_13	is_in_sentence	sentence_929
+929_13	pobj	929_10
+929_13	has_surface_form	Werker
+929_13	part_of_entity	Alfred L. Werker
+929_12	is_in_sentence	sentence_929
+929_12	compound	929_13
+929_12	has_surface_form	L.
+929_12	part_of_entity	Alfred L. Werker
+929_14	is_in_sentence	sentence_929
+929_14	acl	929_8
+929_14	has_surface_form	starring
+929_15	is_in_sentence	sentence_929
+929_15	compound	929_16
+929_15	has_surface_form	John
+929_16	is_in_sentence	sentence_929
+929_16	dobj	929_14
+929_16	has_surface_form	Payne
+929_17	is_in_sentence	sentence_929
+929_17	punct	929_16
+929_17	has_surface_form	,
+929_18	is_in_sentence	sentence_929
+929_18	compound	929_19
+929_18	has_surface_form	Ruth
+929_19	is_in_sentence	sentence_929
+929_19	appos	929_16
+929_19	has_surface_form	Roman
+929_20	is_in_sentence	sentence_929
+929_20	punct	929_19
+929_20	has_surface_form	,
+929_21	is_in_sentence	sentence_929
+929_21	compound	929_22
+929_21	has_surface_form	J.
+929_22	is_in_sentence	sentence_929
+929_22	dep	929_16
+929_22	has_surface_form	
+Rebel in Town	surface_form	Rebel in Town
+Rebel in Town	movie-has-director	Alfred L. Werker
+Alfred L. Werker	surface_form	Alfred L. Werker

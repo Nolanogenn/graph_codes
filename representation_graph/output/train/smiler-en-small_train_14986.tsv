@@ -1,0 +1,64 @@
+14985_0	is_in_sentence	sentence_14985
+14985_0	compound	14985_1
+14985_0	has_surface_form	China
+14985_0	part_of_entity	China Passage
+14985_1	is_in_sentence	sentence_14985
+14985_1	nsubj	14985_2
+14985_1	has_surface_form	Passage
+14985_1	part_of_entity	China Passage
+14985_2	is_in_sentence	sentence_14985
+14985_2	ROOT	14985_2
+14985_2	has_surface_form	is
+14985_3	is_in_sentence	sentence_14985
+14985_3	det	14985_7
+14985_3	has_surface_form	a
+14985_7	is_in_sentence	sentence_14985
+14985_7	attr	14985_2
+14985_7	has_surface_form	film
+14985_4	is_in_sentence	sentence_14985
+14985_4	nummod	14985_7
+14985_4	has_surface_form	1937
+14985_5	is_in_sentence	sentence_14985
+14985_5	amod	14985_7
+14985_5	has_surface_form	American
+14985_6	is_in_sentence	sentence_14985
+14985_6	compound	14985_7
+14985_6	has_surface_form	mystery
+14985_8	is_in_sentence	sentence_14985
+14985_8	acl	14985_7
+14985_8	has_surface_form	directed
+14985_9	is_in_sentence	sentence_14985
+14985_9	agent	14985_8
+14985_9	has_surface_form	by
+14985_10	is_in_sentence	sentence_14985
+14985_10	compound	14985_11
+14985_10	has_surface_form	Edward
+14985_10	part_of_entity	Edward Killy
+14985_11	is_in_sentence	sentence_14985
+14985_11	pobj	14985_9
+14985_11	has_surface_form	Killy
+14985_11	part_of_entity	Edward Killy
+14985_12	is_in_sentence	sentence_14985
+14985_12	prep	14985_8
+14985_12	has_surface_form	from
+14985_13	is_in_sentence	sentence_14985
+14985_13	det	14985_14
+14985_13	has_surface_form	a
+14985_14	is_in_sentence	sentence_14985
+14985_14	pobj	14985_12
+14985_14	has_surface_form	screenplay
+14985_15	is_in_sentence	sentence_14985
+14985_15	prep	14985_14
+14985_15	has_surface_form	by
+14985_16	is_in_sentence	sentence_14985
+14985_16	compound	14985_17
+14985_16	has_surface_form	Edmund
+14985_17	is_in_sentence	sentence_14985
+14985_17	pobj	14985_15
+14985_17	has_surface_form	L.
+14985_18	is_in_sentence	sentence_14985
+14985_18	dep	14985_2
+14985_18	has_surface_form	
+China Passage	surface_form	China Passage
+China Passage	movie-has-director	Edward Killy
+Edward Killy	surface_form	Edward Killy

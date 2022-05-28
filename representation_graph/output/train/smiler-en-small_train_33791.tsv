@@ -1,0 +1,65 @@
+33790_0	is_in_sentence	sentence_33790
+33790_0	compound	33790_1
+33790_0	has_surface_form	Leon
+33790_0	part_of_entity	Leon Vlemmings
+33790_1	is_in_sentence	sentence_33790
+33790_1	nsubj	33790_10
+33790_1	has_surface_form	Vlemmings
+33790_1	part_of_entity	Leon Vlemmings
+33790_10	is_in_sentence	sentence_33790
+33790_10	ROOT	33790_10
+33790_10	has_surface_form	is
+33790_2	is_in_sentence	sentence_33790
+33790_2	punct	33790_1
+33790_2	has_surface_form	(
+33790_3	is_in_sentence	sentence_33790
+33790_3	acl	33790_1
+33790_3	has_surface_form	born
+33790_4	is_in_sentence	sentence_33790
+33790_4	nummod	33790_5
+33790_4	has_surface_form	3
+33790_5	is_in_sentence	sentence_33790
+33790_5	npadvmod	33790_3
+33790_5	has_surface_form	April
+33790_6	is_in_sentence	sentence_33790
+33790_6	nummod	33790_5
+33790_6	has_surface_form	1970
+33790_7	is_in_sentence	sentence_33790
+33790_7	prep	33790_3
+33790_7	has_surface_form	in
+33790_8	is_in_sentence	sentence_33790
+33790_8	pobj	33790_7
+33790_8	is_entity	Gemert
+Gemert	surface_form	Gemert
+33790_9	is_in_sentence	sentence_33790
+33790_9	punct	33790_1
+33790_9	has_surface_form	)
+33790_11	is_in_sentence	sentence_33790
+33790_11	det	33790_14
+33790_11	has_surface_form	a
+33790_14	is_in_sentence	sentence_33790
+33790_14	attr	33790_10
+33790_14	has_surface_form	manager
+33790_12	is_in_sentence	sentence_33790
+33790_12	amod	33790_14
+33790_12	has_surface_form	Dutch
+33790_13	is_in_sentence	sentence_33790
+33790_13	compound	33790_14
+33790_13	has_surface_form	football
+33790_15	is_in_sentence	sentence_33790
+33790_15	cc	33790_14
+33790_15	has_surface_form	and
+33790_16	is_in_sentence	sentence_33790
+33790_16	amod	33790_17
+33790_16	has_surface_form	former
+33790_17	is_in_sentence	sentence_33790
+33790_17	conj	33790_14
+33790_17	has_surface_form	player
+33790_18	is_in_sentence	sentence_33790
+33790_18	punct	33790_10
+33790_18	has_surface_form	.
+33790_19	is_in_sentence	sentence_33790
+33790_19	dep	33790_19
+33790_19	has_surface_form	
+Leon Vlemmings	surface_form	Leon Vlemmings
+Leon Vlemmings	birth-place	Gemert

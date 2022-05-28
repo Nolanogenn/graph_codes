@@ -1,0 +1,62 @@
+32639_0	is_in_sentence	sentence_32639
+32639_0	compound	32639_1
+32639_0	has_surface_form	Patrick
+32639_0	part_of_entity	Patrick Lindner
+32639_1	is_in_sentence	sentence_32639
+32639_1	nsubj	32639_12
+32639_1	has_surface_form	Lindner
+32639_1	part_of_entity	Patrick Lindner
+32639_12	is_in_sentence	sentence_32639
+32639_12	ROOT	32639_12
+32639_12	has_surface_form	is
+32639_2	is_in_sentence	sentence_32639
+32639_2	punct	32639_3
+32639_2	has_surface_form	(
+32639_3	is_in_sentence	sentence_32639
+32639_3	parataxis	32639_1
+32639_3	has_surface_form	born
+32639_4	is_in_sentence	sentence_32639
+32639_4	nummod	32639_5
+32639_4	has_surface_form	27
+32639_5	is_in_sentence	sentence_32639
+32639_5	npadvmod	32639_3
+32639_5	has_surface_form	September
+32639_6	is_in_sentence	sentence_32639
+32639_6	nummod	32639_5
+32639_6	has_surface_form	1960
+32639_7	is_in_sentence	sentence_32639
+32639_7	prep	32639_3
+32639_7	has_surface_form	in
+32639_8	is_in_sentence	sentence_32639
+32639_8	pobj	32639_7
+32639_8	is_entity	Munich
+Munich	surface_form	Munich
+32639_9	is_in_sentence	sentence_32639
+32639_9	punct	32639_8
+32639_9	has_surface_form	,
+32639_10	is_in_sentence	sentence_32639
+32639_10	appos	32639_8
+32639_10	has_surface_form	Germany
+32639_11	is_in_sentence	sentence_32639
+32639_11	punct	32639_8
+32639_11	has_surface_form	)
+32639_13	is_in_sentence	sentence_32639
+32639_13	det	32639_16
+32639_13	has_surface_form	a
+32639_16	is_in_sentence	sentence_32639
+32639_16	attr	32639_12
+32639_16	has_surface_form	singer
+32639_14	is_in_sentence	sentence_32639
+32639_14	amod	32639_16
+32639_14	has_surface_form	German
+32639_15	is_in_sentence	sentence_32639
+32639_15	compound	32639_16
+32639_15	has_surface_form	Volksmusik
+32639_17	is_in_sentence	sentence_32639
+32639_17	punct	32639_12
+32639_17	has_surface_form	.
+32639_18	is_in_sentence	sentence_32639
+32639_18	dep	32639_18
+32639_18	has_surface_form	
+Patrick Lindner	surface_form	Patrick Lindner
+Patrick Lindner	birth-place	Munich

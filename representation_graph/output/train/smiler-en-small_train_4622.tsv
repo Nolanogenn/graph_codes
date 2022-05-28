@@ -1,0 +1,53 @@
+4621_0	is_in_sentence	sentence_4621
+4621_0	det	4621_1
+4621_0	has_surface_form	The
+4621_1	is_in_sentence	sentence_4621
+4621_1	compound	4621_2
+4621_1	has_surface_form	DA
+4621_1	part_of_entity	DA 001
+4621_2	is_in_sentence	sentence_4621
+4621_2	nsubjpass	4621_5
+4621_2	has_surface_form	001
+4621_2	part_of_entity	DA 001
+4621_5	is_in_sentence	sentence_4621
+4621_5	ROOT	4621_5
+4621_5	has_surface_form	replaced
+4621_3	is_in_sentence	sentence_4621
+4621_3	auxpass	4621_5
+4621_3	has_surface_form	was
+4621_4	is_in_sentence	sentence_4621
+4621_4	advmod	4621_5
+4621_4	has_surface_form	soon
+4621_6	is_in_sentence	sentence_4621
+4621_6	agent	4621_5
+4621_6	has_surface_form	by
+4621_7	is_in_sentence	sentence_4621
+4621_7	det	4621_10
+4621_7	has_surface_form	an
+4621_10	is_in_sentence	sentence_4621
+4621_10	pobj	4621_6
+4621_10	has_surface_form	cleaner
+4621_8	is_in_sentence	sentence_4621
+4621_8	advmod	4621_9
+4621_8	has_surface_form	almost
+4621_9	is_in_sentence	sentence_4621
+4621_9	amod	4621_10
+4621_9	has_surface_form	identical
+4621_11	is_in_sentence	sentence_4621
+4621_11	punct	4621_10
+4621_11	has_surface_form	,
+4621_12	is_in_sentence	sentence_4621
+4621_12	det	4621_13
+4621_12	has_surface_form	the
+4621_13	is_in_sentence	sentence_4621
+4621_13	appos	4621_10
+4621_13	is_entity	DC01
+DC01	surface_form	DC01
+4621_14	is_in_sentence	sentence_4621
+4621_14	punct	4621_5
+4621_14	has_surface_form	.
+4621_15	is_in_sentence	sentence_4621
+4621_15	dep	4621_15
+4621_15	has_surface_form	
+DA 001	surface_form	DA 001
+DA 001	no_relation	DC01

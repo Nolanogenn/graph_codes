@@ -1,0 +1,44 @@
+16686_0	is_in_sentence	sentence_16686
+16686_0	compound	16686_1
+16686_0	has_surface_form	Apollo
+16686_0	part_of_entity	Apollo Bay
+16686_1	is_in_sentence	sentence_16686
+16686_1	nsubj	16686_2
+16686_1	has_surface_form	Bay
+16686_1	part_of_entity	Apollo Bay
+16686_2	is_in_sentence	sentence_16686
+16686_2	ROOT	16686_2
+16686_2	has_surface_form	is
+16686_3	is_in_sentence	sentence_16686
+16686_3	det	16686_5
+16686_3	has_surface_form	a
+16686_5	is_in_sentence	sentence_16686
+16686_5	attr	16686_2
+16686_5	is_entity	town
+16686_4	is_in_sentence	sentence_16686
+16686_4	amod	16686_5
+16686_4	has_surface_form	coastal
+town	surface_form	town
+16686_6	is_in_sentence	sentence_16686
+16686_6	prep	16686_5
+16686_6	has_surface_form	in
+16686_7	is_in_sentence	sentence_16686
+16686_7	amod	16686_8
+16686_7	has_surface_form	southwestern
+16686_8	is_in_sentence	sentence_16686
+16686_8	pobj	16686_6
+16686_8	has_surface_form	Victoria
+16686_9	is_in_sentence	sentence_16686
+16686_9	punct	16686_8
+16686_9	has_surface_form	,
+16686_10	is_in_sentence	sentence_16686
+16686_10	appos	16686_8
+16686_10	has_surface_form	Australia
+16686_11	is_in_sentence	sentence_16686
+16686_11	punct	16686_2
+16686_11	has_surface_form	.
+16686_12	is_in_sentence	sentence_16686
+16686_12	dep	16686_2
+16686_12	has_surface_form	
+Apollo Bay	surface_form	Apollo Bay
+Apollo Bay	has-type	town

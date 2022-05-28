@@ -1,0 +1,82 @@
+1674_0	is_in_sentence	sentence_1674
+1674_0	compound	1674_1
+1674_0	has_surface_form	Yondu
+1674_0	part_of_entity	Yondu Udonta
+1674_1	is_in_sentence	sentence_1674
+1674_1	nsubj	1674_10
+1674_1	has_surface_form	Udonta
+1674_1	part_of_entity	Yondu Udonta
+1674_10	is_in_sentence	sentence_1674
+1674_10	ROOT	1674_10
+1674_10	has_surface_form	is
+1674_2	is_in_sentence	sentence_1674
+1674_2	punct	1674_1
+1674_2	has_surface_form	,
+1674_3	is_in_sentence	sentence_1674
+1674_3	cc	1674_1
+1674_3	has_surface_form	or
+1674_4	is_in_sentence	sentence_1674
+1674_4	advmod	1674_5
+1674_4	has_surface_form	simply
+1674_5	is_in_sentence	sentence_1674
+1674_5	conj	1674_1
+1674_5	has_surface_form	Yondu
+1674_6	is_in_sentence	sentence_1674
+1674_6	punct	1674_5
+1674_6	has_surface_form	(
+1674_7	is_in_sentence	sentence_1674
+1674_7	appos	1674_5
+1674_7	has_surface_form	/ˈjɒnduː/
+1674_8	is_in_sentence	sentence_1674
+1674_8	punct	1674_5
+1674_8	has_surface_form	)
+1674_9	is_in_sentence	sentence_1674
+1674_9	punct	1674_10
+1674_9	has_surface_form	,
+1674_11	is_in_sentence	sentence_1674
+1674_11	det	1674_13
+1674_11	has_surface_form	a
+1674_13	is_in_sentence	sentence_1674
+1674_13	attr	1674_10
+1674_13	has_surface_form	character
+1674_13	part_of_entity	fictional character
+1674_12	is_in_sentence	sentence_1674
+1674_12	amod	1674_13
+1674_12	has_surface_form	fictional
+1674_12	part_of_entity	fictional character
+1674_14	is_in_sentence	sentence_1674
+1674_14	acl	1674_13
+1674_14	has_surface_form	appearing
+1674_15	is_in_sentence	sentence_1674
+1674_15	prep	1674_14
+1674_15	has_surface_form	in
+1674_16	is_in_sentence	sentence_1674
+1674_16	amod	1674_18
+1674_16	has_surface_form	American
+1674_18	is_in_sentence	sentence_1674
+1674_18	pobj	1674_15
+1674_18	has_surface_form	books
+1674_17	is_in_sentence	sentence_1674
+1674_17	amod	1674_18
+1674_17	has_surface_form	comic
+1674_19	is_in_sentence	sentence_1674
+1674_19	acl	1674_18
+1674_19	has_surface_form	published
+1674_20	is_in_sentence	sentence_1674
+1674_20	agent	1674_19
+1674_20	has_surface_form	by
+1674_21	is_in_sentence	sentence_1674
+1674_21	compound	1674_22
+1674_21	has_surface_form	Marvel
+1674_22	is_in_sentence	sentence_1674
+1674_22	pobj	1674_20
+1674_22	has_surface_form	Comics
+1674_23	is_in_sentence	sentence_1674
+1674_23	punct	1674_10
+1674_23	has_surface_form	.
+1674_24	is_in_sentence	sentence_1674
+1674_24	dep	1674_10
+1674_24	has_surface_form	
+Yondu Udonta	surface_form	Yondu Udonta
+Yondu Udonta	has-type	fictional character
+fictional character	surface_form	fictional character

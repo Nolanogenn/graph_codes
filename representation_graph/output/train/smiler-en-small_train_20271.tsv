@@ -1,0 +1,92 @@
+20270_0	is_in_sentence	sentence_20270
+20270_0	compound	20270_2
+20270_0	has_surface_form	John
+20270_0	part_of_entity	John Henry Hobart
+20270_2	is_in_sentence	sentence_20270
+20270_2	nsubj	20270_15
+20270_2	has_surface_form	Hobart
+20270_2	part_of_entity	John Henry Hobart
+20270_1	is_in_sentence	sentence_20270
+20270_1	compound	20270_2
+20270_1	has_surface_form	Henry
+20270_1	part_of_entity	John Henry Hobart
+20270_15	is_in_sentence	sentence_20270
+20270_15	ROOT	20270_15
+20270_15	has_surface_form	was
+20270_3	is_in_sentence	sentence_20270
+20270_3	punct	20270_2
+20270_3	has_surface_form	(
+20270_4	is_in_sentence	sentence_20270
+20270_4	appos	20270_2
+20270_4	has_surface_form	September
+20270_5	is_in_sentence	sentence_20270
+20270_5	nummod	20270_4
+20270_5	has_surface_form	14
+20270_6	is_in_sentence	sentence_20270
+20270_6	punct	20270_4
+20270_6	has_surface_form	,
+20270_7	is_in_sentence	sentence_20270
+20270_7	nummod	20270_8
+20270_7	has_surface_form	1775
+20270_8	is_in_sentence	sentence_20270
+20270_8	dep	20270_4
+20270_8	has_surface_form	 
+20270_9	is_in_sentence	sentence_20270
+20270_9	punct	20270_4
+20270_9	has_surface_form	–
+20270_10	is_in_sentence	sentence_20270
+20270_10	appos	20270_4
+20270_10	has_surface_form	September
+20270_11	is_in_sentence	sentence_20270
+20270_11	nummod	20270_10
+20270_11	has_surface_form	12
+20270_12	is_in_sentence	sentence_20270
+20270_12	punct	20270_10
+20270_12	has_surface_form	,
+20270_13	is_in_sentence	sentence_20270
+20270_13	nummod	20270_10
+20270_13	has_surface_form	1830
+20270_14	is_in_sentence	sentence_20270
+20270_14	punct	20270_4
+20270_14	has_surface_form	)
+20270_16	is_in_sentence	sentence_20270
+20270_16	det	20270_19
+20270_16	has_surface_form	the
+20270_19	is_in_sentence	sentence_20270
+20270_19	attr	20270_15
+20270_19	has_surface_form	bishop
+20270_19	part_of_entity	Episcopal bishop
+20270_17	is_in_sentence	sentence_20270
+20270_17	amod	20270_19
+20270_17	has_surface_form	third
+20270_18	is_in_sentence	sentence_20270
+20270_18	compound	20270_19
+20270_18	has_surface_form	Episcopal
+20270_18	part_of_entity	Episcopal bishop
+20270_20	is_in_sentence	sentence_20270
+20270_20	prep	20270_19
+20270_20	has_surface_form	of
+20270_21	is_in_sentence	sentence_20270
+20270_21	compound	20270_22
+20270_21	has_surface_form	New
+20270_22	is_in_sentence	sentence_20270
+20270_22	pobj	20270_20
+20270_22	has_surface_form	York
+20270_23	is_in_sentence	sentence_20270
+20270_23	punct	20270_19
+20270_23	has_surface_form	(
+20270_24	is_in_sentence	sentence_20270
+20270_24	appos	20270_19
+20270_24	has_surface_form	1816–1830
+20270_25	is_in_sentence	sentence_20270
+20270_25	punct	20270_19
+20270_25	has_surface_form	)
+20270_26	is_in_sentence	sentence_20270
+20270_26	punct	20270_15
+20270_26	has_surface_form	.
+20270_27	is_in_sentence	sentence_20270
+20270_27	dep	20270_27
+20270_27	has_surface_form	
+John Henry Hobart	surface_form	John Henry Hobart
+John Henry Hobart	has-type	Episcopal bishop
+Episcopal bishop	surface_form	Episcopal bishop

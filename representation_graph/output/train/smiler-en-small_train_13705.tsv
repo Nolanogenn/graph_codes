@@ -1,0 +1,83 @@
+13704_0	is_in_sentence	sentence_13704
+13704_0	compound	13704_1
+13704_0	has_surface_form	Sam
+13704_0	part_of_entity	Sam Adams Alliance
+13704_1	is_in_sentence	sentence_13704
+13704_1	compound	13704_2
+13704_1	has_surface_form	Adams
+13704_1	part_of_entity	Sam Adams Alliance
+13704_2	is_in_sentence	sentence_13704
+13704_2	nsubj	13704_6
+13704_2	has_surface_form	Alliance
+13704_2	part_of_entity	Sam Adams Alliance
+13704_6	is_in_sentence	sentence_13704
+13704_6	ROOT	13704_6
+13704_6	has_surface_form	was
+13704_3	is_in_sentence	sentence_13704
+13704_3	punct	13704_2
+13704_3	has_surface_form	(
+13704_4	is_in_sentence	sentence_13704
+13704_4	appos	13704_2
+13704_4	has_surface_form	SAM
+13704_5	is_in_sentence	sentence_13704
+13704_5	punct	13704_2
+13704_5	has_surface_form	)
+13704_7	is_in_sentence	sentence_13704
+13704_7	det	13704_11
+13704_7	has_surface_form	a
+13704_11	is_in_sentence	sentence_13704
+13704_11	attr	13704_6
+13704_11	has_surface_form	organization
+13704_8	is_in_sentence	sentence_13704
+13704_8	amod	13704_11
+13704_8	has_surface_form	non
+13704_9	is_in_sentence	sentence_13704
+13704_9	amod	13704_11
+13704_9	has_surface_form	-
+13704_10	is_in_sentence	sentence_13704
+13704_10	amod	13704_11
+13704_10	has_surface_form	profit
+13704_12	is_in_sentence	sentence_13704
+13704_12	acl	13704_11
+13704_12	has_surface_form	based
+13704_13	is_in_sentence	sentence_13704
+13704_13	prep	13704_12
+13704_13	has_surface_form	in
+13704_14	is_in_sentence	sentence_13704
+13704_14	pobj	13704_13
+13704_14	has_surface_form	Chicago
+13704_15	is_in_sentence	sentence_13704
+13704_15	punct	13704_14
+13704_15	has_surface_form	,
+13704_16	is_in_sentence	sentence_13704
+13704_16	appos	13704_14
+13704_16	has_surface_form	Illinois
+13704_17	is_in_sentence	sentence_13704
+13704_17	punct	13704_6
+13704_17	has_surface_form	.
+13704_18	is_in_sentence	sentence_13704
+13704_18	det	13704_19
+13704_18	has_surface_form	The
+13704_19	is_in_sentence	sentence_13704
+13704_19	nsubj	13704_20
+13704_19	has_surface_form	president
+13704_20	is_in_sentence	sentence_13704
+13704_20	ROOT	13704_20
+13704_20	has_surface_form	was
+13704_21	is_in_sentence	sentence_13704
+13704_21	compound	13704_22
+13704_21	has_surface_form	Eric
+13704_21	part_of_entity	Eric O'Keefe
+13704_22	is_in_sentence	sentence_13704
+13704_22	attr	13704_20
+13704_22	has_surface_form	O'Keefe
+13704_22	part_of_entity	Eric O'Keefe
+13704_23	is_in_sentence	sentence_13704
+13704_23	punct	13704_20
+13704_23	has_surface_form	.
+13704_24	is_in_sentence	sentence_13704
+13704_24	dep	13704_20
+13704_24	has_surface_form	
+Sam Adams Alliance	surface_form	Sam Adams Alliance
+Sam Adams Alliance	org-leader	Eric O'Keefe
+Eric O'Keefe	surface_form	Eric O'Keefe

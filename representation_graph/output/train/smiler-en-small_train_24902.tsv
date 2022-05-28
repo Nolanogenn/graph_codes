@@ -1,0 +1,50 @@
+24901_0	is_in_sentence	sentence_24901
+24901_0	compound	24901_1
+24901_0	has_surface_form	Erin
+24901_0	part_of_entity	Erin Lang
+24901_1	is_in_sentence	sentence_24901
+24901_1	nsubj	24901_9
+24901_1	has_surface_form	Lang
+24901_1	part_of_entity	Erin Lang
+24901_9	is_in_sentence	sentence_24901
+24901_9	ROOT	24901_9
+24901_9	has_surface_form	is
+24901_2	is_in_sentence	sentence_24901
+24901_2	punct	24901_1
+24901_2	has_surface_form	(
+24901_3	is_in_sentence	sentence_24901
+24901_3	acl	24901_1
+24901_3	has_surface_form	born
+24901_4	is_in_sentence	sentence_24901
+24901_4	npadvmod	24901_3
+24901_4	has_surface_form	May
+24901_5	is_in_sentence	sentence_24901
+24901_5	nummod	24901_4
+24901_5	has_surface_form	11
+24901_6	is_in_sentence	sentence_24901
+24901_6	punct	24901_4
+24901_6	has_surface_form	,
+24901_7	is_in_sentence	sentence_24901
+24901_7	nummod	24901_4
+24901_7	has_surface_form	1979
+24901_8	is_in_sentence	sentence_24901
+24901_8	punct	24901_1
+24901_8	has_surface_form	)
+24901_10	is_in_sentence	sentence_24901
+24901_10	det	24901_12
+24901_10	has_surface_form	a
+24901_12	is_in_sentence	sentence_24901
+24901_12	attr	24901_9
+24901_12	is_entity	musician
+24901_11	is_in_sentence	sentence_24901
+24901_11	amod	24901_12
+24901_11	has_surface_form	Canadian
+musician	surface_form	musician
+24901_13	is_in_sentence	sentence_24901
+24901_13	punct	24901_9
+24901_13	has_surface_form	.
+24901_14	is_in_sentence	sentence_24901
+24901_14	dep	24901_14
+24901_14	has_surface_form	
+Erin Lang	surface_form	Erin Lang
+Erin Lang	has-occupation	musician

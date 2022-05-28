@@ -1,0 +1,111 @@
+8502_0	is_in_sentence	sentence_8502
+8502_0	compound	8502_3
+8502_0	has_surface_form	Scouts
+8502_0	part_of_entity	Scouts Musulmans de France
+8502_3	is_in_sentence	sentence_8502
+8502_3	nsubj	8502_12
+8502_3	has_surface_form	France
+8502_3	part_of_entity	Scouts Musulmans de France
+8502_1	is_in_sentence	sentence_8502
+8502_1	nmod	8502_3
+8502_1	has_surface_form	Musulmans
+8502_1	part_of_entity	Scouts Musulmans de France
+8502_2	is_in_sentence	sentence_8502
+8502_2	nmod	8502_3
+8502_2	has_surface_form	de
+8502_2	part_of_entity	Scouts Musulmans de France
+8502_12	is_in_sentence	sentence_8502
+8502_12	ROOT	8502_12
+8502_12	has_surface_form	is
+8502_4	is_in_sentence	sentence_8502
+8502_4	punct	8502_3
+8502_4	has_surface_form	(
+8502_5	is_in_sentence	sentence_8502
+8502_5	compound	8502_6
+8502_5	has_surface_form	Muslim
+8502_6	is_in_sentence	sentence_8502
+8502_6	appos	8502_3
+8502_6	has_surface_form	Scouts
+8502_7	is_in_sentence	sentence_8502
+8502_7	prep	8502_6
+8502_7	has_surface_form	of
+8502_8	is_in_sentence	sentence_8502
+8502_8	pobj	8502_7
+8502_8	has_surface_form	France
+8502_9	is_in_sentence	sentence_8502
+8502_9	punct	8502_8
+8502_9	has_surface_form	,
+8502_10	is_in_sentence	sentence_8502
+8502_10	appos	8502_8
+8502_10	has_surface_form	SMF
+8502_11	is_in_sentence	sentence_8502
+8502_11	punct	8502_8
+8502_11	has_surface_form	)
+8502_13	is_in_sentence	sentence_8502
+8502_13	det	8502_17
+8502_13	has_surface_form	a
+8502_17	is_in_sentence	sentence_8502
+8502_17	attr	8502_12
+8502_17	has_surface_form	organization
+8502_17	part_of_entity	Scouting organization
+8502_14	is_in_sentence	sentence_8502
+8502_14	amod	8502_17
+8502_14	has_surface_form	French
+8502_15	is_in_sentence	sentence_8502
+8502_15	compound	8502_16
+8502_15	has_surface_form	Muslim
+8502_16	is_in_sentence	sentence_8502
+8502_16	compound	8502_17
+8502_16	has_surface_form	Scouting
+8502_16	part_of_entity	Scouting organization
+8502_18	is_in_sentence	sentence_8502
+8502_18	prep	8502_17
+8502_18	has_surface_form	for
+8502_19	is_in_sentence	sentence_8502
+8502_19	pobj	8502_18
+8502_19	has_surface_form	boys
+8502_20	is_in_sentence	sentence_8502
+8502_20	cc	8502_19
+8502_20	has_surface_form	and
+8502_21	is_in_sentence	sentence_8502
+8502_21	conj	8502_19
+8502_21	has_surface_form	girls
+8502_22	is_in_sentence	sentence_8502
+8502_22	prep	8502_17
+8502_22	has_surface_form	between
+8502_23	is_in_sentence	sentence_8502
+8502_23	nummod	8502_26
+8502_23	has_surface_form	8
+8502_26	is_in_sentence	sentence_8502
+8502_26	npadvmod	8502_27
+8502_26	has_surface_form	years
+8502_24	is_in_sentence	sentence_8502
+8502_24	cc	8502_23
+8502_24	has_surface_form	and
+8502_25	is_in_sentence	sentence_8502
+8502_25	conj	8502_23
+8502_25	has_surface_form	21
+8502_27	is_in_sentence	sentence_8502
+8502_27	amod	8502_22
+8502_27	has_surface_form	old
+8502_28	is_in_sentence	sentence_8502
+8502_28	prep	8502_27
+8502_28	has_surface_form	with
+8502_29	is_in_sentence	sentence_8502
+8502_29	advmod	8502_30
+8502_29	has_surface_form	about
+8502_30	is_in_sentence	sentence_8502
+8502_30	nummod	8502_31
+8502_30	has_surface_form	1,000
+8502_31	is_in_sentence	sentence_8502
+8502_31	pobj	8502_28
+8502_31	has_surface_form	members
+8502_32	is_in_sentence	sentence_8502
+8502_32	punct	8502_12
+8502_32	has_surface_form	.
+8502_33	is_in_sentence	sentence_8502
+8502_33	dep	8502_33
+8502_33	has_surface_form	
+Scouts Musulmans de France	surface_form	Scouts Musulmans de France
+Scouts Musulmans de France	has-type	Scouting organization
+Scouting organization	surface_form	Scouting organization

@@ -1,0 +1,56 @@
+8_0	is_in_sentence	sentence_8
+8_0	compound	8_1
+8_0	has_surface_form	Lois
+8_0	part_of_entity	Lois Court
+8_1	is_in_sentence	sentence_8
+8_1	nsubj	8_2
+8_1	has_surface_form	Court
+8_1	part_of_entity	Lois Court
+8_2	is_in_sentence	sentence_8
+8_2	ROOT	8_2
+8_2	has_surface_form	is
+8_3	is_in_sentence	sentence_8
+8_3	acomp	8_2
+8_3	has_surface_form	married
+8_4	is_in_sentence	sentence_8
+8_4	prep	8_3
+8_4	has_surface_form	to
+8_5	is_in_sentence	sentence_8
+8_5	compound	8_6
+8_5	has_surface_form	Patrick
+8_6	is_in_sentence	sentence_8
+8_6	pobj	8_4
+8_6	has_surface_form	Reynolds
+8_7	is_in_sentence	sentence_8
+8_7	cc	8_2
+8_7	has_surface_form	and
+8_8	is_in_sentence	sentence_8
+8_8	conj	8_2
+8_8	has_surface_form	has
+8_9	is_in_sentence	sentence_8
+8_9	nummod	8_10
+8_9	has_surface_form	two
+8_10	is_in_sentence	sentence_8
+8_10	dobj	8_8
+8_10	has_surface_form	sons
+8_11	is_in_sentence	sentence_8
+8_11	punct	8_10
+8_11	has_surface_form	,
+8_12	is_in_sentence	sentence_8
+8_12	appos	8_10
+8_12	is_entity	Nathan
+Nathan	surface_form	Nathan
+8_13	is_in_sentence	sentence_8
+8_13	cc	8_12
+8_13	has_surface_form	and
+8_14	is_in_sentence	sentence_8
+8_14	conj	8_12
+8_14	has_surface_form	Brendan
+8_15	is_in_sentence	sentence_8
+8_15	punct	8_2
+8_15	has_surface_form	.
+8_16	is_in_sentence	sentence_8
+8_16	dep	8_16
+8_16	has_surface_form	
+Lois Court	surface_form	Lois Court
+Lois Court	has-child	Nathan

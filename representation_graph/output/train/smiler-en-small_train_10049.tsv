@@ -1,0 +1,75 @@
+10048_0	is_in_sentence	sentence_10048
+10048_0	compound	10048_2
+10048_0	has_surface_form	Fernando
+10048_0	part_of_entity	Fernando Vallejo Rendón
+10048_2	is_in_sentence	sentence_10048
+10048_2	nsubj	10048_11
+10048_2	has_surface_form	Rendón
+10048_2	part_of_entity	Fernando Vallejo Rendón
+10048_1	is_in_sentence	sentence_10048
+10048_1	compound	10048_2
+10048_1	has_surface_form	Vallejo
+10048_1	part_of_entity	Fernando Vallejo Rendón
+10048_11	is_in_sentence	sentence_10048
+10048_11	ROOT	10048_11
+10048_11	has_surface_form	is
+10048_3	is_in_sentence	sentence_10048
+10048_3	punct	10048_2
+10048_3	has_surface_form	(
+10048_4	is_in_sentence	sentence_10048
+10048_4	acl	10048_2
+10048_4	has_surface_form	born
+10048_5	is_in_sentence	sentence_10048
+10048_5	npadvmod	10048_4
+10048_5	has_surface_form	1942
+10048_6	is_in_sentence	sentence_10048
+10048_6	prep	10048_4
+10048_6	has_surface_form	in
+10048_7	is_in_sentence	sentence_10048
+10048_7	pobj	10048_6
+10048_7	is_entity	Medellín
+Medellín	surface_form	Medellín
+10048_8	is_in_sentence	sentence_10048
+10048_8	punct	10048_7
+10048_8	has_surface_form	,
+10048_9	is_in_sentence	sentence_10048
+10048_9	appos	10048_7
+10048_9	has_surface_form	Colombia
+10048_10	is_in_sentence	sentence_10048
+10048_10	punct	10048_7
+10048_10	has_surface_form	)
+10048_12	is_in_sentence	sentence_10048
+10048_12	det	10048_16
+10048_12	has_surface_form	a
+10048_16	is_in_sentence	sentence_10048
+10048_16	attr	10048_11
+10048_16	has_surface_form	novelist
+10048_13	is_in_sentence	sentence_10048
+10048_13	npadvmod	10048_15
+10048_13	has_surface_form	Colombian
+10048_15	is_in_sentence	sentence_10048
+10048_15	amod	10048_16
+10048_15	has_surface_form	born
+10048_14	is_in_sentence	sentence_10048
+10048_14	punct	10048_15
+10048_14	has_surface_form	-
+10048_17	is_in_sentence	sentence_10048
+10048_17	punct	10048_16
+10048_17	has_surface_form	,
+10048_18	is_in_sentence	sentence_10048
+10048_18	conj	10048_16
+10048_18	has_surface_form	filmmaker
+10048_19	is_in_sentence	sentence_10048
+10048_19	cc	10048_18
+10048_19	has_surface_form	and
+10048_20	is_in_sentence	sentence_10048
+10048_20	conj	10048_18
+10048_20	has_surface_form	essayist
+10048_21	is_in_sentence	sentence_10048
+10048_21	punct	10048_11
+10048_21	has_surface_form	.
+10048_22	is_in_sentence	sentence_10048
+10048_22	dep	10048_11
+10048_22	has_surface_form	
+Fernando Vallejo Rendón	surface_form	Fernando Vallejo Rendón
+Fernando Vallejo Rendón	birth-place	Medellín

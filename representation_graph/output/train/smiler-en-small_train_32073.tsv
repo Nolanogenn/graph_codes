@@ -1,0 +1,73 @@
+32072_0	is_in_sentence	sentence_32072
+32072_0	compound	32072_1
+32072_0	has_surface_form	Gray
+32072_0	part_of_entity	Gray bats
+32072_1	is_in_sentence	sentence_32072
+32072_1	nsubj	32072_3
+32072_1	has_surface_form	bats
+32072_1	part_of_entity	Gray bats
+32072_3	is_in_sentence	sentence_32072
+32072_3	ROOT	32072_3
+32072_3	has_surface_form	live
+32072_2	is_in_sentence	sentence_32072
+32072_2	aux	32072_3
+32072_2	has_surface_form	can
+32072_4	is_in_sentence	sentence_32072
+32072_4	quantmod	32072_6
+32072_4	has_surface_form	up
+32072_6	is_in_sentence	sentence_32072
+32072_6	nummod	32072_7
+32072_6	has_surface_form	17
+32072_6	part_of_entity	17 years
+32072_5	is_in_sentence	sentence_32072
+32072_5	quantmod	32072_6
+32072_5	has_surface_form	to
+32072_7	is_in_sentence	sentence_32072
+32072_7	dobj	32072_3
+32072_7	has_surface_form	years
+32072_7	part_of_entity	17 years
+32072_8	is_in_sentence	sentence_32072
+32072_8	punct	32072_3
+32072_8	has_surface_form	,
+32072_9	is_in_sentence	sentence_32072
+32072_9	cc	32072_3
+32072_9	has_surface_form	but
+32072_10	is_in_sentence	sentence_32072
+32072_10	advmod	32072_12
+32072_10	has_surface_form	only
+32072_12	is_in_sentence	sentence_32072
+32072_12	nummod	32072_13
+32072_12	has_surface_form	50
+32072_11	is_in_sentence	sentence_32072
+32072_11	advmod	32072_12
+32072_11	has_surface_form	about
+32072_13	is_in_sentence	sentence_32072
+32072_13	nsubj	32072_17
+32072_13	has_surface_form	%
+32072_17	is_in_sentence	sentence_32072
+32072_17	conj	32072_3
+32072_17	has_surface_form	survive
+32072_14	is_in_sentence	sentence_32072
+32072_14	prep	32072_13
+32072_14	has_surface_form	of
+32072_15	is_in_sentence	sentence_32072
+32072_15	amod	32072_16
+32072_15	has_surface_form	gray
+32072_16	is_in_sentence	sentence_32072
+32072_16	pobj	32072_14
+32072_16	has_surface_form	bats
+32072_18	is_in_sentence	sentence_32072
+32072_18	prep	32072_17
+32072_18	has_surface_form	to
+32072_19	is_in_sentence	sentence_32072
+32072_19	pobj	32072_18
+32072_19	has_surface_form	maturity
+32072_20	is_in_sentence	sentence_32072
+32072_20	punct	32072_17
+32072_20	has_surface_form	.
+32072_21	is_in_sentence	sentence_32072
+32072_21	dep	32072_21
+32072_21	has_surface_form	
+Gray bats	surface_form	Gray bats
+Gray bats	has-lifespan	17 years
+17 years	surface_form	17 years

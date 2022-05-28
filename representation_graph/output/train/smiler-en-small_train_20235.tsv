@@ -1,0 +1,68 @@
+20234_0	is_in_sentence	sentence_20234
+20234_0	compound	20234_1
+20234_0	has_surface_form	Wesleyan
+20234_0	part_of_entity	Wesleyan College
+20234_1	is_in_sentence	sentence_20234
+20234_1	nsubj	20234_2
+20234_1	has_surface_form	College
+20234_1	part_of_entity	Wesleyan College
+20234_2	is_in_sentence	sentence_20234
+20234_2	ROOT	20234_2
+20234_2	has_surface_form	is
+20234_3	is_in_sentence	sentence_20234
+20234_3	det	20234_10
+20234_3	has_surface_form	a
+20234_10	is_in_sentence	sentence_20234
+20234_10	attr	20234_2
+20234_10	has_surface_form	college
+20234_4	is_in_sentence	sentence_20234
+20234_4	amod	20234_10
+20234_4	has_surface_form	private
+20234_5	is_in_sentence	sentence_20234
+20234_5	punct	20234_10
+20234_5	has_surface_form	,
+20234_6	is_in_sentence	sentence_20234
+20234_6	amod	20234_7
+20234_6	has_surface_form	liberal
+20234_7	is_in_sentence	sentence_20234
+20234_7	compound	20234_8
+20234_7	has_surface_form	arts
+20234_8	is_in_sentence	sentence_20234
+20234_8	poss	20234_10
+20234_8	has_surface_form	women
+20234_9	is_in_sentence	sentence_20234
+20234_9	case	20234_8
+20234_9	has_surface_form	's
+20234_11	is_in_sentence	sentence_20234
+20234_11	acl	20234_10
+20234_11	has_surface_form	located
+20234_12	is_in_sentence	sentence_20234
+20234_12	prep	20234_11
+20234_12	has_surface_form	in
+20234_13	is_in_sentence	sentence_20234
+20234_13	pobj	20234_12
+20234_13	has_surface_form	Macon
+20234_14	is_in_sentence	sentence_20234
+20234_14	punct	20234_13
+20234_14	has_surface_form	,
+20234_15	is_in_sentence	sentence_20234
+20234_15	conj	20234_13
+20234_15	has_surface_form	Georgia
+20234_16	is_in_sentence	sentence_20234
+20234_16	punct	20234_15
+20234_16	has_surface_form	,
+20234_17	is_in_sentence	sentence_20234
+20234_17	compound	20234_18
+20234_17	has_surface_form	United
+20234_18	is_in_sentence	sentence_20234
+20234_18	conj	20234_15
+20234_18	has_surface_form	States
+20234_19	is_in_sentence	sentence_20234
+20234_19	punct	20234_2
+20234_19	has_surface_form	.
+20234_20	is_in_sentence	sentence_20234
+20234_20	dep	20234_2
+20234_20	has_surface_form	
+Wesleyan College	surface_form	Wesleyan College
+Wesleyan College	is-where	Macon, Georgia
+Macon, Georgia	surface_form	Macon, Georgia

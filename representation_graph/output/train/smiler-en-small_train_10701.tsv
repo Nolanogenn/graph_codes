@@ -1,0 +1,57 @@
+10700_0	is_in_sentence	sentence_10700
+10700_0	det	10700_3
+10700_0	has_surface_form	The
+10700_0	part_of_entity	The Girl Chewing Gum
+10700_3	is_in_sentence	sentence_10700
+10700_3	nsubj	10700_4
+10700_3	has_surface_form	Gum
+10700_3	part_of_entity	The Girl Chewing Gum
+10700_1	is_in_sentence	sentence_10700
+10700_1	compound	10700_3
+10700_1	has_surface_form	Girl
+10700_1	part_of_entity	The Girl Chewing Gum
+10700_2	is_in_sentence	sentence_10700
+10700_2	compound	10700_3
+10700_2	has_surface_form	Chewing
+10700_2	part_of_entity	The Girl Chewing Gum
+10700_4	is_in_sentence	sentence_10700
+10700_4	ROOT	10700_4
+10700_4	has_surface_form	is
+10700_5	is_in_sentence	sentence_10700
+10700_5	det	10700_9
+10700_5	has_surface_form	a
+10700_9	is_in_sentence	sentence_10700
+10700_9	attr	10700_4
+10700_9	has_surface_form	film
+10700_6	is_in_sentence	sentence_10700
+10700_6	nummod	10700_9
+10700_6	has_surface_form	1976
+10700_7	is_in_sentence	sentence_10700
+10700_7	amod	10700_9
+10700_7	has_surface_form	British
+10700_8	is_in_sentence	sentence_10700
+10700_8	amod	10700_9
+10700_8	has_surface_form	short
+10700_10	is_in_sentence	sentence_10700
+10700_10	acl	10700_9
+10700_10	has_surface_form	directed
+10700_11	is_in_sentence	sentence_10700
+10700_11	agent	10700_10
+10700_11	has_surface_form	by
+10700_12	is_in_sentence	sentence_10700
+10700_12	compound	10700_13
+10700_12	has_surface_form	John
+10700_12	part_of_entity	John Smith
+10700_13	is_in_sentence	sentence_10700
+10700_13	pobj	10700_11
+10700_13	has_surface_form	Smith
+10700_13	part_of_entity	John Smith
+10700_14	is_in_sentence	sentence_10700
+10700_14	punct	10700_4
+10700_14	has_surface_form	.
+10700_15	is_in_sentence	sentence_10700
+10700_15	dep	10700_4
+10700_15	has_surface_form	
+The Girl Chewing Gum	surface_form	The Girl Chewing Gum
+The Girl Chewing Gum	movie-has-director	John Smith
+John Smith	surface_form	John Smith

@@ -1,0 +1,70 @@
+30235_0	is_in_sentence	sentence_30235
+30235_0	compound	30235_1
+30235_0	has_surface_form	Tuality
+30235_0	part_of_entity	Tuality Community Hospital
+30235_1	is_in_sentence	sentence_30235
+30235_1	compound	30235_2
+30235_1	has_surface_form	Community
+30235_1	part_of_entity	Tuality Community Hospital
+30235_2	is_in_sentence	sentence_30235
+30235_2	nsubj	30235_3
+30235_2	has_surface_form	Hospital
+30235_2	part_of_entity	Tuality Community Hospital
+30235_3	is_in_sentence	sentence_30235
+30235_3	ROOT	30235_3
+30235_3	has_surface_form	is
+30235_4	is_in_sentence	sentence_30235
+30235_4	det	30235_12
+30235_4	has_surface_form	a
+30235_12	is_in_sentence	sentence_30235
+30235_12	attr	30235_3
+30235_12	has_surface_form	facility
+30235_12	part_of_entity	general care medical facility
+30235_5	is_in_sentence	sentence_30235
+30235_5	amod	30235_12
+30235_5	has_surface_form	non
+30235_6	is_in_sentence	sentence_30235
+30235_6	amod	30235_12
+30235_6	has_surface_form	-
+30235_7	is_in_sentence	sentence_30235
+30235_7	amod	30235_12
+30235_7	has_surface_form	profit
+30235_8	is_in_sentence	sentence_30235
+30235_8	punct	30235_12
+30235_8	has_surface_form	,
+30235_9	is_in_sentence	sentence_30235
+30235_9	amod	30235_10
+30235_9	has_surface_form	general
+30235_9	part_of_entity	general care medical facility
+30235_10	is_in_sentence	sentence_30235
+30235_10	nmod	30235_12
+30235_10	has_surface_form	care
+30235_10	part_of_entity	general care medical facility
+30235_11	is_in_sentence	sentence_30235
+30235_11	amod	30235_12
+30235_11	has_surface_form	medical
+30235_11	part_of_entity	general care medical facility
+30235_13	is_in_sentence	sentence_30235
+30235_13	acl	30235_12
+30235_13	has_surface_form	located
+30235_14	is_in_sentence	sentence_30235
+30235_14	prep	30235_13
+30235_14	has_surface_form	in
+30235_15	is_in_sentence	sentence_30235
+30235_15	pobj	30235_14
+30235_15	has_surface_form	Hillsboro
+30235_16	is_in_sentence	sentence_30235
+30235_16	prep	30235_13
+30235_16	has_surface_form	in
+30235_17	is_in_sentence	sentence_30235
+30235_17	det	30235_18
+30235_17	has_surface_form	the
+30235_18	is_in_sentence	sentence_30235
+30235_18	pobj	30235_16
+30235_18	has_surface_form	U.
+30235_19	is_in_sentence	sentence_30235
+30235_19	dep	30235_3
+30235_19	has_surface_form	
+Tuality Community Hospital	surface_form	Tuality Community Hospital
+Tuality Community Hospital	has-type	general care medical facility
+general care medical facility	surface_form	general care medical facility

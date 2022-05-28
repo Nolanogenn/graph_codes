@@ -1,0 +1,54 @@
+2741_0	is_in_sentence	sentence_2741
+2741_0	compound	2741_2
+2741_0	has_surface_form	Jennifer
+2741_0	part_of_entity	Jennifer Shrader Lawrence
+2741_2	is_in_sentence	sentence_2741
+2741_2	nsubj	2741_10
+2741_2	has_surface_form	Lawrence
+2741_2	part_of_entity	Jennifer Shrader Lawrence
+2741_1	is_in_sentence	sentence_2741
+2741_1	compound	2741_2
+2741_1	has_surface_form	Shrader
+2741_1	part_of_entity	Jennifer Shrader Lawrence
+2741_10	is_in_sentence	sentence_2741
+2741_10	ROOT	2741_10
+2741_10	has_surface_form	is
+2741_3	is_in_sentence	sentence_2741
+2741_3	punct	2741_2
+2741_3	has_surface_form	(
+2741_4	is_in_sentence	sentence_2741
+2741_4	acl	2741_2
+2741_4	has_surface_form	born
+2741_5	is_in_sentence	sentence_2741
+2741_5	npadvmod	2741_4
+2741_5	has_surface_form	August
+2741_6	is_in_sentence	sentence_2741
+2741_6	nummod	2741_5
+2741_6	has_surface_form	15
+2741_7	is_in_sentence	sentence_2741
+2741_7	punct	2741_5
+2741_7	has_surface_form	,
+2741_8	is_in_sentence	sentence_2741
+2741_8	nummod	2741_5
+2741_8	has_surface_form	1990
+2741_9	is_in_sentence	sentence_2741
+2741_9	punct	2741_2
+2741_9	has_surface_form	)
+2741_11	is_in_sentence	sentence_2741
+2741_11	det	2741_13
+2741_11	has_surface_form	an
+2741_13	is_in_sentence	sentence_2741
+2741_13	attr	2741_10
+2741_13	has_surface_form	actress
+2741_12	is_in_sentence	sentence_2741
+2741_12	amod	2741_13
+2741_12	is_entity	American
+American	surface_form	American
+2741_14	is_in_sentence	sentence_2741
+2741_14	punct	2741_10
+2741_14	has_surface_form	.
+2741_15	is_in_sentence	sentence_2741
+2741_15	dep	2741_15
+2741_15	has_surface_form	
+Jennifer Shrader Lawrence	surface_form	Jennifer Shrader Lawrence
+Jennifer Shrader Lawrence	has-nationality	American

@@ -1,0 +1,87 @@
+15567_0	is_in_sentence	sentence_15567
+15567_0	det	15567_2
+15567_0	has_surface_form	The
+15567_0	part_of_entity	The Russky Bridge
+15567_2	is_in_sentence	sentence_15567
+15567_2	nsubj	15567_12
+15567_2	has_surface_form	Bridge
+15567_2	part_of_entity	The Russky Bridge
+15567_1	is_in_sentence	sentence_15567
+15567_1	compound	15567_2
+15567_1	has_surface_form	Russky
+15567_1	part_of_entity	The Russky Bridge
+15567_12	is_in_sentence	sentence_15567
+15567_12	ROOT	15567_12
+15567_12	has_surface_form	is
+15567_3	is_in_sentence	sentence_15567
+15567_3	punct	15567_4
+15567_3	has_surface_form	(
+15567_4	is_in_sentence	sentence_15567
+15567_4	appos	15567_2
+15567_4	has_surface_form	Russian
+15567_5	is_in_sentence	sentence_15567
+15567_5	punct	15567_4
+15567_5	has_surface_form	:
+15567_6	is_in_sentence	sentence_15567
+15567_6	compound	15567_7
+15567_6	has_surface_form	Русский
+15567_7	is_in_sentence	sentence_15567
+15567_7	appos	15567_2
+15567_7	has_surface_form	мост
+15567_8	is_in_sentence	sentence_15567
+15567_8	punct	15567_7
+15567_8	has_surface_form	,
+15567_9	is_in_sentence	sentence_15567
+15567_9	compound	15567_10
+15567_9	has_surface_form	Russian
+15567_10	is_in_sentence	sentence_15567
+15567_10	appos	15567_7
+15567_10	has_surface_form	Bridge
+15567_11	is_in_sentence	sentence_15567
+15567_11	punct	15567_7
+15567_11	has_surface_form	)
+15567_13	is_in_sentence	sentence_15567
+15567_13	det	15567_17
+15567_13	has_surface_form	a
+15567_17	is_in_sentence	sentence_15567
+15567_17	attr	15567_12
+15567_17	has_surface_form	bridge
+15567_14	is_in_sentence	sentence_15567
+15567_14	npadvmod	15567_16
+15567_14	has_surface_form	cable
+15567_16	is_in_sentence	sentence_15567
+15567_16	amod	15567_17
+15567_16	has_surface_form	stayed
+15567_15	is_in_sentence	sentence_15567
+15567_15	punct	15567_16
+15567_15	has_surface_form	-
+15567_18	is_in_sentence	sentence_15567
+15567_18	prep	15567_17
+15567_18	has_surface_form	in
+15567_19	is_in_sentence	sentence_15567
+15567_19	pobj	15567_18
+15567_19	has_surface_form	Vladivostok
+15567_20	is_in_sentence	sentence_15567
+15567_20	punct	15567_19
+15567_20	has_surface_form	,
+15567_21	is_in_sentence	sentence_15567
+15567_21	compound	15567_22
+15567_21	has_surface_form	Primorsky
+15567_22	is_in_sentence	sentence_15567
+15567_22	conj	15567_19
+15567_22	has_surface_form	Krai
+15567_23	is_in_sentence	sentence_15567
+15567_23	punct	15567_22
+15567_23	has_surface_form	,
+15567_24	is_in_sentence	sentence_15567
+15567_24	appos	15567_22
+15567_24	has_surface_form	Russia
+15567_25	is_in_sentence	sentence_15567
+15567_25	punct	15567_12
+15567_25	has_surface_form	.
+15567_26	is_in_sentence	sentence_15567
+15567_26	dep	15567_12
+15567_26	has_surface_form	
+The Russky Bridge	surface_form	The Russky Bridge
+The Russky Bridge	has-type	cable-stayed bridge
+cable-stayed bridge	surface_form	cable-stayed bridge

@@ -1,0 +1,83 @@
+22602_0	is_in_sentence	sentence_22602
+22602_0	det	22602_3
+22602_0	has_surface_form	The
+22602_3	is_in_sentence	sentence_22602
+22602_3	nsubj	22602_14
+22602_3	has_surface_form	Tower
+22602_3	part_of_entity	WCAT Radio Tower
+22602_1	is_in_sentence	sentence_22602
+22602_1	compound	22602_3
+22602_1	has_surface_form	WCAT
+22602_1	part_of_entity	WCAT Radio Tower
+22602_2	is_in_sentence	sentence_22602
+22602_2	compound	22602_3
+22602_2	has_surface_form	Radio
+22602_2	part_of_entity	WCAT Radio Tower
+22602_14	is_in_sentence	sentence_22602
+22602_14	ROOT	22602_14
+22602_14	has_surface_form	is
+22602_4	is_in_sentence	sentence_22602
+22602_4	punct	22602_3
+22602_4	has_surface_form	,
+22602_5	is_in_sentence	sentence_22602
+22602_5	prep	22602_14
+22602_5	has_surface_form	at
+22602_6	is_in_sentence	sentence_22602
+22602_6	nummod	22602_7
+22602_6	has_surface_form	135.7
+22602_6	part_of_entity	135.7 metres
+22602_7	is_in_sentence	sentence_22602
+22602_7	pobj	22602_5
+22602_7	has_surface_form	metres
+22602_7	part_of_entity	135.7 metres
+22602_8	is_in_sentence	sentence_22602
+22602_8	punct	22602_7
+22602_8	has_surface_form	(
+22602_9	is_in_sentence	sentence_22602
+22602_9	nummod	22602_10
+22602_9	has_surface_form	445
+22602_10	is_in_sentence	sentence_22602
+22602_10	dep	22602_7
+22602_10	has_surface_form	 
+22602_11	is_in_sentence	sentence_22602
+22602_11	appos	22602_7
+22602_11	has_surface_form	ft
+22602_12	is_in_sentence	sentence_22602
+22602_12	punct	22602_7
+22602_12	has_surface_form	)
+22602_13	is_in_sentence	sentence_22602
+22602_13	punct	22602_14
+22602_13	has_surface_form	,
+22602_15	is_in_sentence	sentence_22602
+22602_15	det	22602_20
+22602_15	has_surface_form	the
+22602_20	is_in_sentence	sentence_22602
+22602_20	attr	22602_14
+22602_20	has_surface_form	structure
+22602_16	is_in_sentence	sentence_22602
+22602_16	amod	22602_20
+22602_16	has_surface_form	tallest
+22602_17	is_in_sentence	sentence_22602
+22602_17	npadvmod	22602_19
+22602_17	has_surface_form	man
+22602_19	is_in_sentence	sentence_22602
+22602_19	amod	22602_20
+22602_19	has_surface_form	made
+22602_18	is_in_sentence	sentence_22602
+22602_18	punct	22602_19
+22602_18	has_surface_form	-
+22602_21	is_in_sentence	sentence_22602
+22602_21	prep	22602_20
+22602_21	has_surface_form	in
+22602_22	is_in_sentence	sentence_22602
+22602_22	pobj	22602_21
+22602_22	has_surface_form	Vermont
+22602_23	is_in_sentence	sentence_22602
+22602_23	punct	22602_14
+22602_23	has_surface_form	.
+22602_24	is_in_sentence	sentence_22602
+22602_24	dep	22602_24
+22602_24	has_surface_form	
+WCAT Radio Tower	surface_form	WCAT Radio Tower
+WCAT Radio Tower	has-height	135.7 metres
+135.7 metres	surface_form	135.7 metres

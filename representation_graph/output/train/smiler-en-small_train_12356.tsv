@@ -1,0 +1,96 @@
+12355_0	is_in_sentence	sentence_12355
+12355_0	compound	12355_1
+12355_0	has_surface_form	Monty
+12355_0	part_of_entity	Monty Works the Wires
+12355_1	is_in_sentence	sentence_12355
+12355_1	nsubj	12355_4
+12355_1	has_surface_form	Works
+12355_1	part_of_entity	Monty Works the Wires
+12355_4	is_in_sentence	sentence_12355
+12355_4	ROOT	12355_4
+12355_4	has_surface_form	is
+12355_2	is_in_sentence	sentence_12355
+12355_2	det	12355_3
+12355_2	has_surface_form	the
+12355_2	part_of_entity	Monty Works the Wires
+12355_3	is_in_sentence	sentence_12355
+12355_3	appos	12355_1
+12355_3	has_surface_form	Wires
+12355_3	part_of_entity	Monty Works the Wires
+12355_5	is_in_sentence	sentence_12355
+12355_5	det	12355_10
+12355_5	has_surface_form	a
+12355_10	is_in_sentence	sentence_12355
+12355_10	attr	12355_4
+12355_10	has_surface_form	film
+12355_6	is_in_sentence	sentence_12355
+12355_6	nummod	12355_10
+12355_6	has_surface_form	1921
+12355_7	is_in_sentence	sentence_12355
+12355_7	amod	12355_10
+12355_7	has_surface_form	British
+12355_8	is_in_sentence	sentence_12355
+12355_8	amod	12355_10
+12355_8	has_surface_form	silent
+12355_9	is_in_sentence	sentence_12355
+12355_9	compound	12355_10
+12355_9	has_surface_form	comedy
+12355_11	is_in_sentence	sentence_12355
+12355_11	acl	12355_10
+12355_11	has_surface_form	directed
+12355_12	is_in_sentence	sentence_12355
+12355_12	agent	12355_11
+12355_12	has_surface_form	by
+12355_13	is_in_sentence	sentence_12355
+12355_13	compound	12355_14
+12355_13	has_surface_form	Manning
+12355_13	part_of_entity	Manning Haynes
+12355_14	is_in_sentence	sentence_12355
+12355_14	pobj	12355_12
+12355_14	has_surface_form	Haynes
+12355_14	part_of_entity	Manning Haynes
+12355_15	is_in_sentence	sentence_12355
+12355_15	cc	12355_14
+12355_15	has_surface_form	and
+12355_16	is_in_sentence	sentence_12355
+12355_16	compound	12355_17
+12355_16	has_surface_form	Challis
+12355_17	is_in_sentence	sentence_12355
+12355_17	conj	12355_14
+12355_17	has_surface_form	Sanderson
+12355_18	is_in_sentence	sentence_12355
+12355_18	cc	12355_11
+12355_18	has_surface_form	and
+12355_19	is_in_sentence	sentence_12355
+12355_19	conj	12355_11
+12355_19	has_surface_form	starring
+12355_20	is_in_sentence	sentence_12355
+12355_20	dobj	12355_19
+12355_20	has_surface_form	Haynes
+12355_21	is_in_sentence	sentence_12355
+12355_21	punct	12355_20
+12355_21	has_surface_form	,
+12355_22	is_in_sentence	sentence_12355
+12355_22	compound	12355_23
+12355_22	has_surface_form	Mildred
+12355_23	is_in_sentence	sentence_12355
+12355_23	conj	12355_20
+12355_23	has_surface_form	Evelyn
+12355_24	is_in_sentence	sentence_12355
+12355_24	cc	12355_23
+12355_24	has_surface_form	and
+12355_25	is_in_sentence	sentence_12355
+12355_25	compound	12355_26
+12355_25	has_surface_form	Eva
+12355_26	is_in_sentence	sentence_12355
+12355_26	conj	12355_23
+12355_26	has_surface_form	Westlake
+12355_27	is_in_sentence	sentence_12355
+12355_27	punct	12355_4
+12355_27	has_surface_form	.
+12355_28	is_in_sentence	sentence_12355
+12355_28	dep	12355_4
+12355_28	has_surface_form	
+Monty Works the Wires	surface_form	Monty Works the Wires
+Monty Works the Wires	movie-has-director	Manning Haynes
+Manning Haynes	surface_form	Manning Haynes

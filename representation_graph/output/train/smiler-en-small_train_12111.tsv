@@ -1,0 +1,73 @@
+12110_0	is_in_sentence	sentence_12110
+12110_0	amod	12110_1
+12110_0	has_surface_form	Secret
+12110_0	part_of_entity	Secret Nation
+12110_1	is_in_sentence	sentence_12110
+12110_1	nsubj	12110_2
+12110_1	has_surface_form	Nation
+12110_1	part_of_entity	Secret Nation
+12110_2	is_in_sentence	sentence_12110
+12110_2	ROOT	12110_2
+12110_2	has_surface_form	is
+12110_3	is_in_sentence	sentence_12110
+12110_3	det	12110_6
+12110_3	has_surface_form	a
+12110_6	is_in_sentence	sentence_12110
+12110_6	attr	12110_2
+12110_6	has_surface_form	thriller
+12110_4	is_in_sentence	sentence_12110
+12110_4	nummod	12110_6
+12110_4	has_surface_form	1992
+12110_5	is_in_sentence	sentence_12110
+12110_5	amod	12110_6
+12110_5	has_surface_form	political
+12110_7	is_in_sentence	sentence_12110
+12110_7	acl	12110_6
+12110_7	has_surface_form	written
+12110_8	is_in_sentence	sentence_12110
+12110_8	agent	12110_7
+12110_8	has_surface_form	by
+12110_9	is_in_sentence	sentence_12110
+12110_9	compound	12110_10
+12110_9	has_surface_form	Edward
+12110_10	is_in_sentence	sentence_12110
+12110_10	pobj	12110_8
+12110_10	has_surface_form	Riche
+12110_11	is_in_sentence	sentence_12110
+12110_11	punct	12110_6
+12110_11	has_surface_form	,
+12110_12	is_in_sentence	sentence_12110
+12110_12	acl	12110_6
+12110_12	has_surface_form	directed
+12110_13	is_in_sentence	sentence_12110
+12110_13	agent	12110_12
+12110_13	has_surface_form	by
+12110_14	is_in_sentence	sentence_12110
+12110_14	compound	12110_15
+12110_14	has_surface_form	Mike
+12110_15	is_in_sentence	sentence_12110
+12110_15	pobj	12110_13
+12110_15	has_surface_form	Jones
+12110_16	is_in_sentence	sentence_12110
+12110_16	cc	12110_12
+12110_16	has_surface_form	and
+12110_17	is_in_sentence	sentence_12110
+12110_17	conj	12110_12
+12110_17	has_surface_form	starring
+12110_18	is_in_sentence	sentence_12110
+12110_18	compound	12110_19
+12110_18	has_surface_form	Cathy
+12110_18	part_of_entity	Cathy Jones
+12110_19	is_in_sentence	sentence_12110
+12110_19	dobj	12110_17
+12110_19	has_surface_form	Jones
+12110_19	part_of_entity	Cathy Jones
+12110_20	is_in_sentence	sentence_12110
+12110_20	punct	12110_2
+12110_20	has_surface_form	.
+12110_21	is_in_sentence	sentence_12110
+12110_21	dep	12110_2
+12110_21	has_surface_form	
+Secret Nation	surface_form	Secret Nation
+Secret Nation	starring	Cathy Jones
+Cathy Jones	surface_form	Cathy Jones

@@ -1,0 +1,72 @@
+2088_0	is_in_sentence	sentence_2088
+2088_0	compound	2088_1
+2088_0	has_surface_form	South
+2088_0	part_of_entity	South Carolina Highway 3
+2088_1	is_in_sentence	sentence_2088
+2088_1	compound	2088_2
+2088_1	has_surface_form	Carolina
+2088_1	part_of_entity	South Carolina Highway 3
+2088_2	is_in_sentence	sentence_2088
+2088_2	nsubj	2088_9
+2088_2	has_surface_form	Highway
+2088_2	part_of_entity	South Carolina Highway 3
+2088_9	is_in_sentence	sentence_2088
+2088_9	ROOT	2088_9
+2088_9	has_surface_form	is
+2088_3	is_in_sentence	sentence_2088
+2088_3	nummod	2088_2
+2088_3	has_surface_form	3
+2088_3	part_of_entity	South Carolina Highway 3
+2088_4	is_in_sentence	sentence_2088
+2088_4	punct	2088_5
+2088_4	has_surface_form	(
+2088_5	is_in_sentence	sentence_2088
+2088_5	appos	2088_2
+2088_5	has_surface_form	SC
+2088_6	is_in_sentence	sentence_2088
+2088_6	dep	2088_5
+2088_6	has_surface_form	 
+2088_7	is_in_sentence	sentence_2088
+2088_7	nummod	2088_5
+2088_7	has_surface_form	3
+2088_8	is_in_sentence	sentence_2088
+2088_8	punct	2088_5
+2088_8	has_surface_form	)
+2088_10	is_in_sentence	sentence_2088
+2088_10	det	2088_12
+2088_10	has_surface_form	a
+2088_12	is_in_sentence	sentence_2088
+2088_12	attr	2088_9
+2088_12	has_surface_form	highway
+2088_12	part_of_entity	state highway
+2088_11	is_in_sentence	sentence_2088
+2088_11	compound	2088_12
+2088_11	has_surface_form	state
+2088_11	part_of_entity	state highway
+2088_13	is_in_sentence	sentence_2088
+2088_13	prep	2088_12
+2088_13	has_surface_form	in
+2088_14	is_in_sentence	sentence_2088
+2088_14	det	2088_16
+2088_14	has_surface_form	the
+2088_16	is_in_sentence	sentence_2088
+2088_16	pobj	2088_13
+2088_16	has_surface_form	part
+2088_15	is_in_sentence	sentence_2088
+2088_15	amod	2088_16
+2088_15	has_surface_form	southern
+2088_17	is_in_sentence	sentence_2088
+2088_17	prep	2088_16
+2088_17	has_surface_form	of
+2088_18	is_in_sentence	sentence_2088
+2088_18	det	2088_19
+2088_18	has_surface_form	the
+2088_19	is_in_sentence	sentence_2088
+2088_19	pobj	2088_17
+2088_19	has_surface_form	U.
+2088_20	is_in_sentence	sentence_2088
+2088_20	dep	2088_17
+2088_20	has_surface_form	
+South Carolina Highway 3	surface_form	South Carolina Highway 3
+South Carolina Highway 3	has-type	state highway
+state highway	surface_form	state highway

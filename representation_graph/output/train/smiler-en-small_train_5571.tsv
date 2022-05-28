@@ -1,0 +1,53 @@
+5570_0	is_in_sentence	sentence_5570
+5570_0	compound	5570_1
+5570_0	has_surface_form	Charles
+5570_0	part_of_entity	Charles Dale
+5570_1	is_in_sentence	sentence_5570
+5570_1	nsubjpass	5570_3
+5570_1	has_surface_form	Dale
+5570_1	part_of_entity	Charles Dale
+5570_3	is_in_sentence	sentence_5570
+5570_3	ROOT	5570_3
+5570_3	has_surface_form	born
+5570_2	is_in_sentence	sentence_5570
+5570_2	auxpass	5570_3
+5570_2	has_surface_form	was
+5570_4	is_in_sentence	sentence_5570
+5570_4	prep	5570_3
+5570_4	has_surface_form	on
+5570_5	is_in_sentence	sentence_5570
+5570_5	nummod	5570_6
+5570_5	has_surface_form	4
+5570_6	is_in_sentence	sentence_5570
+5570_6	pobj	5570_4
+5570_6	has_surface_form	February
+5570_7	is_in_sentence	sentence_5570
+5570_7	nummod	5570_6
+5570_7	has_surface_form	1963
+5570_8	is_in_sentence	sentence_5570
+5570_8	prep	5570_3
+5570_8	has_surface_form	in
+5570_9	is_in_sentence	sentence_5570
+5570_9	pobj	5570_8
+5570_9	is_entity	Tenby
+Tenby	surface_form	Tenby
+5570_10	is_in_sentence	sentence_5570
+5570_10	punct	5570_9
+5570_10	has_surface_form	,
+5570_11	is_in_sentence	sentence_5570
+5570_11	conj	5570_9
+5570_11	has_surface_form	Pembrokeshire
+5570_12	is_in_sentence	sentence_5570
+5570_12	punct	5570_11
+5570_12	has_surface_form	,
+5570_13	is_in_sentence	sentence_5570
+5570_13	npadvmod	5570_11
+5570_13	has_surface_form	Wales
+5570_14	is_in_sentence	sentence_5570
+5570_14	punct	5570_3
+5570_14	has_surface_form	.
+5570_15	is_in_sentence	sentence_5570
+5570_15	dep	5570_3
+5570_15	has_surface_form	
+Charles Dale	surface_form	Charles Dale
+Charles Dale	birth-place	Tenby

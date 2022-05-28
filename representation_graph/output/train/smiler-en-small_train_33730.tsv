@@ -1,0 +1,59 @@
+33729_0	is_in_sentence	sentence_33729
+33729_0	compound	33729_1
+33729_0	has_surface_form	Pennsylvania
+33729_0	part_of_entity	Pennsylvania Route 51
+33729_1	is_in_sentence	sentence_33729
+33729_1	nsubj	33729_7
+33729_1	has_surface_form	Route
+33729_1	part_of_entity	Pennsylvania Route 51
+33729_7	is_in_sentence	sentence_33729
+33729_7	ROOT	33729_7
+33729_7	has_surface_form	is
+33729_2	is_in_sentence	sentence_33729
+33729_2	nummod	33729_1
+33729_2	has_surface_form	51
+33729_2	part_of_entity	Pennsylvania Route 51
+33729_3	is_in_sentence	sentence_33729
+33729_3	punct	33729_1
+33729_3	has_surface_form	(
+33729_4	is_in_sentence	sentence_33729
+33729_4	appos	33729_1
+33729_4	has_surface_form	PA
+33729_5	is_in_sentence	sentence_33729
+33729_5	nummod	33729_4
+33729_5	has_surface_form	51
+33729_6	is_in_sentence	sentence_33729
+33729_6	punct	33729_4
+33729_6	has_surface_form	)
+33729_8	is_in_sentence	sentence_33729
+33729_8	det	33729_11
+33729_8	has_surface_form	a
+33729_11	is_in_sentence	sentence_33729
+33729_11	attr	33729_7
+33729_11	has_surface_form	highway
+33729_11	part_of_entity	state highway
+33729_9	is_in_sentence	sentence_33729
+33729_9	amod	33729_11
+33729_9	has_surface_form	major
+33729_10	is_in_sentence	sentence_33729
+33729_10	compound	33729_11
+33729_10	has_surface_form	state
+33729_10	part_of_entity	state highway
+33729_12	is_in_sentence	sentence_33729
+33729_12	prep	33729_11
+33729_12	has_surface_form	in
+33729_13	is_in_sentence	sentence_33729
+33729_13	compound	33729_14
+33729_13	has_surface_form	Western
+33729_14	is_in_sentence	sentence_33729
+33729_14	pobj	33729_12
+33729_14	has_surface_form	Pennsylvania
+33729_15	is_in_sentence	sentence_33729
+33729_15	punct	33729_7
+33729_15	has_surface_form	.
+33729_16	is_in_sentence	sentence_33729
+33729_16	dep	33729_16
+33729_16	has_surface_form	
+Pennsylvania Route 51	surface_form	Pennsylvania Route 51
+Pennsylvania Route 51	has-type	state highway
+state highway	surface_form	state highway

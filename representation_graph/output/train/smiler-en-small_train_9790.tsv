@@ -1,0 +1,62 @@
+9789_0	is_in_sentence	sentence_9789
+9789_0	compound	9789_1
+9789_0	has_surface_form	Liam
+9789_0	part_of_entity	Liam Cormier
+9789_1	is_in_sentence	sentence_9789
+9789_1	nsubj	9789_9
+9789_1	has_surface_form	Cormier
+9789_1	part_of_entity	Liam Cormier
+9789_9	is_in_sentence	sentence_9789
+9789_9	ROOT	9789_9
+9789_9	has_surface_form	is
+9789_2	is_in_sentence	sentence_9789
+9789_2	punct	9789_1
+9789_2	has_surface_form	(
+9789_3	is_in_sentence	sentence_9789
+9789_3	acl	9789_1
+9789_3	has_surface_form	born
+9789_4	is_in_sentence	sentence_9789
+9789_4	npadvmod	9789_3
+9789_4	has_surface_form	February
+9789_5	is_in_sentence	sentence_9789
+9789_5	nummod	9789_4
+9789_5	has_surface_form	9
+9789_6	is_in_sentence	sentence_9789
+9789_6	punct	9789_4
+9789_6	has_surface_form	,
+9789_7	is_in_sentence	sentence_9789
+9789_7	nummod	9789_4
+9789_7	has_surface_form	1980
+9789_8	is_in_sentence	sentence_9789
+9789_8	punct	9789_1
+9789_8	has_surface_form	)
+9789_10	is_in_sentence	sentence_9789
+9789_10	det	9789_12
+9789_10	has_surface_form	a
+9789_12	is_in_sentence	sentence_9789
+9789_12	attr	9789_9
+9789_12	is_entity	musician
+9789_11	is_in_sentence	sentence_9789
+9789_11	amod	9789_12
+9789_11	has_surface_form	Canadian
+musician	surface_form	musician
+9789_13	is_in_sentence	sentence_9789
+9789_13	prep	9789_12
+9789_13	has_surface_form	from
+9789_14	is_in_sentence	sentence_9789
+9789_14	pobj	9789_13
+9789_14	has_surface_form	Toronto
+9789_15	is_in_sentence	sentence_9789
+9789_15	punct	9789_14
+9789_15	has_surface_form	,
+9789_16	is_in_sentence	sentence_9789
+9789_16	appos	9789_14
+9789_16	has_surface_form	Ontario
+9789_17	is_in_sentence	sentence_9789
+9789_17	punct	9789_9
+9789_17	has_surface_form	.
+9789_18	is_in_sentence	sentence_9789
+9789_18	dep	9789_18
+9789_18	has_surface_form	
+Liam Cormier	surface_form	Liam Cormier
+Liam Cormier	has-occupation	musician

@@ -1,0 +1,59 @@
+19002_0	is_in_sentence	sentence_19002
+19002_0	compound	19002_1
+19002_0	has_surface_form	Claudio
+19002_0	part_of_entity	Claudio Pescia
+19002_1	is_in_sentence	sentence_19002
+19002_1	nsubj	19002_10
+19002_1	has_surface_form	Pescia
+19002_1	part_of_entity	Claudio Pescia
+19002_10	is_in_sentence	sentence_19002
+19002_10	ROOT	19002_10
+19002_10	has_surface_form	is
+19002_2	is_in_sentence	sentence_19002
+19002_2	punct	19002_3
+19002_2	has_surface_form	(
+19002_3	is_in_sentence	sentence_19002
+19002_3	acl	19002_1
+19002_3	has_surface_form	born
+19002_4	is_in_sentence	sentence_19002
+19002_4	nummod	19002_5
+19002_4	has_surface_form	17
+19002_5	is_in_sentence	sentence_19002
+19002_5	npadvmod	19002_3
+19002_5	has_surface_form	November
+19002_6	is_in_sentence	sentence_19002
+19002_6	nummod	19002_5
+19002_6	has_surface_form	1963
+19002_7	is_in_sentence	sentence_19002
+19002_7	prep	19002_3
+19002_7	has_surface_form	in
+19002_8	is_in_sentence	sentence_19002
+19002_8	pobj	19002_7
+19002_8	is_entity	Zurich
+Zurich	surface_form	Zurich
+19002_9	is_in_sentence	sentence_19002
+19002_9	punct	19002_3
+19002_9	has_surface_form	)
+19002_11	is_in_sentence	sentence_19002
+19002_11	det	19002_13
+19002_11	has_surface_form	a
+19002_13	is_in_sentence	sentence_19002
+19002_13	attr	19002_10
+19002_13	has_surface_form	curler
+19002_12	is_in_sentence	sentence_19002
+19002_12	amod	19002_13
+19002_12	has_surface_form	Swiss
+19002_14	is_in_sentence	sentence_19002
+19002_14	prep	19002_13
+19002_14	has_surface_form	from
+19002_15	is_in_sentence	sentence_19002
+19002_15	pobj	19002_14
+19002_15	has_surface_form	Wettswil
+19002_16	is_in_sentence	sentence_19002
+19002_16	punct	19002_10
+19002_16	has_surface_form	.
+19002_17	is_in_sentence	sentence_19002
+19002_17	dep	19002_10
+19002_17	has_surface_form	
+Claudio Pescia	surface_form	Claudio Pescia
+Claudio Pescia	birth-place	Zurich

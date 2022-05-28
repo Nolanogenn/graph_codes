@@ -1,0 +1,74 @@
+10985_0	is_in_sentence	sentence_10985
+10985_0	nsubj	10985_10
+10985_0	has_surface_form	Labyrinth
+10985_0	part_of_entity	Labyrinth of Horror
+10985_10	is_in_sentence	sentence_10985
+10985_10	ROOT	10985_10
+10985_10	has_surface_form	is
+10985_1	is_in_sentence	sentence_10985
+10985_1	prep	10985_0
+10985_1	has_surface_form	of
+10985_1	part_of_entity	Labyrinth of Horror
+10985_2	is_in_sentence	sentence_10985
+10985_2	pobj	10985_1
+10985_2	has_surface_form	Horror
+10985_2	part_of_entity	Labyrinth of Horror
+10985_3	is_in_sentence	sentence_10985
+10985_3	punct	10985_4
+10985_3	has_surface_form	(
+10985_4	is_in_sentence	sentence_10985
+10985_4	appos	10985_0
+10985_4	has_surface_form	German
+10985_5	is_in_sentence	sentence_10985
+10985_5	punct	10985_4
+10985_5	has_surface_form	:
+10985_6	is_in_sentence	sentence_10985
+10985_6	compound	10985_8
+10985_6	has_surface_form	Labyrinth
+10985_8	is_in_sentence	sentence_10985
+10985_8	appos	10985_4
+10985_8	has_surface_form	Grauens
+10985_7	is_in_sentence	sentence_10985
+10985_7	compound	10985_8
+10985_7	has_surface_form	des
+10985_9	is_in_sentence	sentence_10985
+10985_9	punct	10985_4
+10985_9	has_surface_form	)
+10985_11	is_in_sentence	sentence_10985
+10985_11	det	10985_15
+10985_11	has_surface_form	a
+10985_15	is_in_sentence	sentence_10985
+10985_15	attr	10985_10
+10985_15	has_surface_form	film
+10985_12	is_in_sentence	sentence_10985
+10985_12	nummod	10985_15
+10985_12	has_surface_form	1921
+10985_13	is_in_sentence	sentence_10985
+10985_13	amod	10985_15
+10985_13	has_surface_form	Austrian
+10985_14	is_in_sentence	sentence_10985
+10985_14	amod	10985_15
+10985_14	has_surface_form	silent
+10985_16	is_in_sentence	sentence_10985
+10985_16	acl	10985_15
+10985_16	has_surface_form	directed
+10985_17	is_in_sentence	sentence_10985
+10985_17	agent	10985_16
+10985_17	has_surface_form	by
+10985_18	is_in_sentence	sentence_10985
+10985_18	compound	10985_19
+10985_18	has_surface_form	Michael
+10985_18	part_of_entity	Michael Curtiz
+10985_19	is_in_sentence	sentence_10985
+10985_19	pobj	10985_17
+10985_19	has_surface_form	Curtiz
+10985_19	part_of_entity	Michael Curtiz
+10985_20	is_in_sentence	sentence_10985
+10985_20	punct	10985_10
+10985_20	has_surface_form	.
+10985_21	is_in_sentence	sentence_10985
+10985_21	dep	10985_21
+10985_21	has_surface_form	
+Labyrinth of Horror	surface_form	Labyrinth of Horror
+Labyrinth of Horror	movie-has-director	Michael Curtiz
+Michael Curtiz	surface_form	Michael Curtiz

@@ -1,0 +1,56 @@
+15610_0	is_in_sentence	sentence_15610
+15610_0	nmod	15610_3
+15610_0	is_entity	Aoraki
+15610_3	is_in_sentence	sentence_15610
+15610_3	nsubj	15610_4
+15610_3	has_surface_form	Cook
+Aoraki	surface_form	Aoraki
+15610_1	is_in_sentence	sentence_15610
+15610_1	punct	15610_3
+15610_1	has_surface_form	/
+15610_2	is_in_sentence	sentence_15610
+15610_2	compound	15610_3
+15610_2	has_surface_form	Mount
+15610_4	is_in_sentence	sentence_15610
+15610_4	ROOT	15610_4
+15610_4	has_surface_form	is
+15610_5	is_in_sentence	sentence_15610
+15610_5	det	15610_7
+15610_5	has_surface_form	the
+15610_7	is_in_sentence	sentence_15610
+15610_7	attr	15610_4
+15610_7	has_surface_form	point
+15610_6	is_in_sentence	sentence_15610
+15610_6	amod	15610_7
+15610_6	has_surface_form	highest
+15610_8	is_in_sentence	sentence_15610
+15610_8	prep	15610_7
+15610_8	has_surface_form	of
+15610_9	is_in_sentence	sentence_15610
+15610_9	compound	15610_10
+15610_9	has_surface_form	New
+15610_9	part_of_entity	New Zealand
+15610_10	is_in_sentence	sentence_15610
+15610_10	pobj	15610_8
+15610_10	has_surface_form	Zealand
+15610_10	part_of_entity	New Zealand
+15610_11	is_in_sentence	sentence_15610
+15610_11	punct	15610_7
+15610_11	has_surface_form	,
+15610_12	is_in_sentence	sentence_15610
+15610_12	prep	15610_4
+15610_12	has_surface_form	at
+15610_13	is_in_sentence	sentence_15610
+15610_13	nummod	15610_14
+15610_13	has_surface_form	3,754
+15610_14	is_in_sentence	sentence_15610
+15610_14	pobj	15610_12
+15610_14	has_surface_form	metres
+15610_15	is_in_sentence	sentence_15610
+15610_15	punct	15610_4
+15610_15	has_surface_form	.
+15610_16	is_in_sentence	sentence_15610
+15610_16	dep	15610_4
+15610_16	has_surface_form	
+New Zealand	surface_form	New Zealand
+New Zealand	has-highest-mountain	Aoraki

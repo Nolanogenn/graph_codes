@@ -1,0 +1,41 @@
+24885_0	is_in_sentence	sentence_24885
+24885_0	compound	24885_1
+24885_0	has_surface_form	Bhagwant
+24885_0	part_of_entity	Bhagwant University
+24885_1	is_in_sentence	sentence_24885
+24885_1	nsubjpass	24885_3
+24885_1	has_surface_form	University
+24885_1	part_of_entity	Bhagwant University
+24885_3	is_in_sentence	sentence_24885
+24885_3	ROOT	24885_3
+24885_3	has_surface_form	located
+24885_2	is_in_sentence	sentence_24885
+24885_2	auxpass	24885_3
+24885_2	has_surface_form	is
+24885_4	is_in_sentence	sentence_24885
+24885_4	prep	24885_3
+24885_4	has_surface_form	in
+24885_5	is_in_sentence	sentence_24885
+24885_5	pobj	24885_4
+24885_5	is_entity	Ajmer
+Ajmer	surface_form	Ajmer
+24885_6	is_in_sentence	sentence_24885
+24885_6	punct	24885_5
+24885_6	has_surface_form	,
+24885_7	is_in_sentence	sentence_24885
+24885_7	conj	24885_5
+24885_7	has_surface_form	Rajasthan
+24885_8	is_in_sentence	sentence_24885
+24885_8	punct	24885_7
+24885_8	has_surface_form	,
+24885_9	is_in_sentence	sentence_24885
+24885_9	appos	24885_7
+24885_9	has_surface_form	India
+24885_10	is_in_sentence	sentence_24885
+24885_10	punct	24885_3
+24885_10	has_surface_form	.
+24885_11	is_in_sentence	sentence_24885
+24885_11	dep	24885_11
+24885_11	has_surface_form	
+Bhagwant University	surface_form	Bhagwant University
+Bhagwant University	is-where	Ajmer

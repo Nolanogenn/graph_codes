@@ -1,0 +1,108 @@
+10710_0	is_in_sentence	sentence_10710
+10710_0	nsubj	10710_11
+10710_0	has_surface_form	Thirteen
+10710_0	part_of_entity	Thirteen at the Table
+10710_11	is_in_sentence	sentence_10710
+10710_11	ROOT	10710_11
+10710_11	has_surface_form	is
+10710_1	is_in_sentence	sentence_10710
+10710_1	prep	10710_0
+10710_1	has_surface_form	at
+10710_1	part_of_entity	Thirteen at the Table
+10710_2	is_in_sentence	sentence_10710
+10710_2	det	10710_3
+10710_2	has_surface_form	the
+10710_2	part_of_entity	Thirteen at the Table
+10710_3	is_in_sentence	sentence_10710
+10710_3	pobj	10710_1
+10710_3	has_surface_form	Table
+10710_3	part_of_entity	Thirteen at the Table
+10710_4	is_in_sentence	sentence_10710
+10710_4	punct	10710_5
+10710_4	has_surface_form	(
+10710_5	is_in_sentence	sentence_10710
+10710_5	appos	10710_0
+10710_5	has_surface_form	French
+10710_6	is_in_sentence	sentence_10710
+10710_6	punct	10710_5
+10710_6	has_surface_form	:
+10710_7	is_in_sentence	sentence_10710
+10710_7	compound	10710_9
+10710_7	has_surface_form	Treize
+10710_9	is_in_sentence	sentence_10710
+10710_9	appos	10710_0
+10710_9	has_surface_form	table
+10710_8	is_in_sentence	sentence_10710
+10710_8	compound	10710_9
+10710_8	has_surface_form	à
+10710_10	is_in_sentence	sentence_10710
+10710_10	punct	10710_0
+10710_10	has_surface_form	)
+10710_12	is_in_sentence	sentence_10710
+10710_12	det	10710_16
+10710_12	has_surface_form	a
+10710_16	is_in_sentence	sentence_10710
+10710_16	attr	10710_11
+10710_16	has_surface_form	film
+10710_13	is_in_sentence	sentence_10710
+10710_13	nummod	10710_16
+10710_13	has_surface_form	1955
+10710_14	is_in_sentence	sentence_10710
+10710_14	amod	10710_16
+10710_14	has_surface_form	French
+10710_15	is_in_sentence	sentence_10710
+10710_15	compound	10710_16
+10710_15	has_surface_form	comedy
+10710_17	is_in_sentence	sentence_10710
+10710_17	acl	10710_16
+10710_17	has_surface_form	directed
+10710_18	is_in_sentence	sentence_10710
+10710_18	agent	10710_17
+10710_18	has_surface_form	by
+10710_19	is_in_sentence	sentence_10710
+10710_19	compound	10710_20
+10710_19	has_surface_form	André
+10710_19	part_of_entity	André Hunebelle
+10710_20	is_in_sentence	sentence_10710
+10710_20	pobj	10710_18
+10710_20	has_surface_form	Hunebelle
+10710_20	part_of_entity	André Hunebelle
+10710_21	is_in_sentence	sentence_10710
+10710_21	cc	10710_17
+10710_21	has_surface_form	and
+10710_22	is_in_sentence	sentence_10710
+10710_22	conj	10710_17
+10710_22	has_surface_form	starring
+10710_23	is_in_sentence	sentence_10710
+10710_23	compound	10710_24
+10710_23	has_surface_form	Micheline
+10710_24	is_in_sentence	sentence_10710
+10710_24	dobj	10710_22
+10710_24	has_surface_form	Presle
+10710_25	is_in_sentence	sentence_10710
+10710_25	punct	10710_24
+10710_25	has_surface_form	,
+10710_26	is_in_sentence	sentence_10710
+10710_26	compound	10710_27
+10710_26	has_surface_form	Fernand
+10710_27	is_in_sentence	sentence_10710
+10710_27	conj	10710_24
+10710_27	has_surface_form	Gravey
+10710_28	is_in_sentence	sentence_10710
+10710_28	cc	10710_27
+10710_28	has_surface_form	and
+10710_29	is_in_sentence	sentence_10710
+10710_29	compound	10710_30
+10710_29	has_surface_form	Germaine
+10710_30	is_in_sentence	sentence_10710
+10710_30	conj	10710_27
+10710_30	has_surface_form	Montero
+10710_31	is_in_sentence	sentence_10710
+10710_31	punct	10710_11
+10710_31	has_surface_form	.
+10710_32	is_in_sentence	sentence_10710
+10710_32	dep	10710_11
+10710_32	has_surface_form	
+Thirteen at the Table	surface_form	Thirteen at the Table
+Thirteen at the Table	movie-has-director	André Hunebelle
+André Hunebelle	surface_form	André Hunebelle

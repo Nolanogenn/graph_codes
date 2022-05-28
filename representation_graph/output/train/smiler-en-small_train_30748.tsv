@@ -1,0 +1,64 @@
+30747_0	is_in_sentence	sentence_30747
+30747_0	compound	30747_1
+30747_0	has_surface_form	Pete
+30747_0	part_of_entity	Pete Shinnick
+30747_1	is_in_sentence	sentence_30747
+30747_1	nsubj	30747_9
+30747_1	has_surface_form	Shinnick
+30747_1	part_of_entity	Pete Shinnick
+30747_9	is_in_sentence	sentence_30747
+30747_9	ROOT	30747_9
+30747_9	has_surface_form	is
+30747_2	is_in_sentence	sentence_30747
+30747_2	punct	30747_1
+30747_2	has_surface_form	(
+30747_3	is_in_sentence	sentence_30747
+30747_3	acl	30747_1
+30747_3	has_surface_form	born
+30747_4	is_in_sentence	sentence_30747
+30747_4	npadvmod	30747_3
+30747_4	has_surface_form	May
+30747_5	is_in_sentence	sentence_30747
+30747_5	nummod	30747_4
+30747_5	has_surface_form	15
+30747_6	is_in_sentence	sentence_30747
+30747_6	punct	30747_4
+30747_6	has_surface_form	,
+30747_7	is_in_sentence	sentence_30747
+30747_7	nummod	30747_4
+30747_7	has_surface_form	1965
+30747_8	is_in_sentence	sentence_30747
+30747_8	punct	30747_1
+30747_8	has_surface_form	)
+30747_10	is_in_sentence	sentence_30747
+30747_10	det	30747_13
+30747_10	has_surface_form	an
+30747_13	is_in_sentence	sentence_30747
+30747_13	attr	30747_9
+30747_13	has_surface_form	coach
+30747_13	part_of_entity	football coach
+30747_11	is_in_sentence	sentence_30747
+30747_11	amod	30747_13
+30747_11	has_surface_form	American
+30747_12	is_in_sentence	sentence_30747
+30747_12	compound	30747_13
+30747_12	has_surface_form	football
+30747_12	part_of_entity	football coach
+30747_14	is_in_sentence	sentence_30747
+30747_14	cc	30747_13
+30747_14	has_surface_form	and
+30747_15	is_in_sentence	sentence_30747
+30747_15	amod	30747_16
+30747_15	has_surface_form	former
+30747_16	is_in_sentence	sentence_30747
+30747_16	conj	30747_13
+30747_16	has_surface_form	player
+30747_17	is_in_sentence	sentence_30747
+30747_17	punct	30747_9
+30747_17	has_surface_form	.
+30747_18	is_in_sentence	sentence_30747
+30747_18	dep	30747_18
+30747_18	has_surface_form	
+Pete Shinnick	surface_form	Pete Shinnick
+Pete Shinnick	has-type	football coach
+football coach	surface_form	football coach

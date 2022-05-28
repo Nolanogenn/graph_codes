@@ -1,0 +1,77 @@
+12732_0	is_in_sentence	sentence_12732
+12732_0	nsubj	12732_1
+12732_0	has_surface_form	School
+12732_0	part_of_entity	School Is Over
+12732_1	is_in_sentence	sentence_12732
+12732_1	ROOT	12732_1
+12732_1	has_surface_form	Is
+12732_1	part_of_entity	School Is Over
+12732_2	is_in_sentence	sentence_12732
+12732_2	prep	12732_1
+12732_2	has_surface_form	Over
+12732_2	part_of_entity	School Is Over
+12732_3	is_in_sentence	sentence_12732
+12732_3	punct	12732_1
+12732_3	has_surface_form	(
+12732_4	is_in_sentence	sentence_12732
+12732_4	dep	12732_1
+12732_4	has_surface_form	Italian
+12732_5	is_in_sentence	sentence_12732
+12732_5	punct	12732_4
+12732_5	has_surface_form	:
+12732_6	is_in_sentence	sentence_12732
+12732_6	compound	12732_7
+12732_6	has_surface_form	La
+12732_7	is_in_sentence	sentence_12732
+12732_7	attr	12732_1
+12732_7	has_surface_form	scuola
+12732_8	is_in_sentence	sentence_12732
+12732_8	compound	12732_9
+12732_8	has_surface_form	è
+12732_9	is_in_sentence	sentence_12732
+12732_9	appos	12732_7
+12732_9	has_surface_form	finita
+12732_10	is_in_sentence	sentence_12732
+12732_10	punct	12732_7
+12732_10	has_surface_form	)
+12732_11	is_in_sentence	sentence_12732
+12732_11	conj	12732_1
+12732_11	has_surface_form	is
+12732_12	is_in_sentence	sentence_12732
+12732_12	det	12732_16
+12732_12	has_surface_form	a
+12732_16	is_in_sentence	sentence_12732
+12732_16	attr	12732_11
+12732_16	has_surface_form	film
+12732_13	is_in_sentence	sentence_12732
+12732_13	nummod	12732_16
+12732_13	has_surface_form	2010
+12732_14	is_in_sentence	sentence_12732
+12732_14	amod	12732_16
+12732_14	has_surface_form	Italian
+12732_15	is_in_sentence	sentence_12732
+12732_15	compound	12732_16
+12732_15	has_surface_form	drama
+12732_17	is_in_sentence	sentence_12732
+12732_17	acl	12732_16
+12732_17	has_surface_form	directed
+12732_18	is_in_sentence	sentence_12732
+12732_18	agent	12732_17
+12732_18	has_surface_form	by
+12732_19	is_in_sentence	sentence_12732
+12732_19	compound	12732_20
+12732_19	has_surface_form	Valerio
+12732_19	part_of_entity	Valerio Jalongo
+12732_20	is_in_sentence	sentence_12732
+12732_20	pobj	12732_18
+12732_20	has_surface_form	Jalongo
+12732_20	part_of_entity	Valerio Jalongo
+12732_21	is_in_sentence	sentence_12732
+12732_21	punct	12732_11
+12732_21	has_surface_form	.
+12732_22	is_in_sentence	sentence_12732
+12732_22	dep	12732_1
+12732_22	has_surface_form	
+School Is Over	surface_form	School Is Over
+School Is Over	movie-has-director	Valerio Jalongo
+Valerio Jalongo	surface_form	Valerio Jalongo

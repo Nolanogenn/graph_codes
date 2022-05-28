@@ -1,0 +1,82 @@
+20176_0	is_in_sentence	sentence_20176
+20176_0	advmod	20176_1
+20176_0	has_surface_form	Soon
+20176_1	is_in_sentence	sentence_20176
+20176_1	prep	20176_16
+20176_1	has_surface_form	after
+20176_16	is_in_sentence	sentence_20176
+20176_16	ROOT	20176_16
+20176_16	has_surface_form	born
+20176_2	is_in_sentence	sentence_20176
+20176_2	poss	20176_3
+20176_2	has_surface_form	his
+20176_3	is_in_sentence	sentence_20176
+20176_3	pobj	20176_1
+20176_3	has_surface_form	return
+20176_4	is_in_sentence	sentence_20176
+20176_4	prep	20176_3
+20176_4	has_surface_form	to
+20176_5	is_in_sentence	sentence_20176
+20176_5	pobj	20176_4
+20176_5	has_surface_form	Austin
+20176_6	is_in_sentence	sentence_20176
+20176_6	punct	20176_5
+20176_6	has_surface_form	,
+20176_7	is_in_sentence	sentence_20176
+20176_7	compound	20176_8
+20176_7	has_surface_form	John
+20176_7	part_of_entity	John Lomax
+20176_8	is_in_sentence	sentence_20176
+20176_8	poss	20176_10
+20176_8	has_surface_form	Lomax
+20176_8	part_of_entity	John Lomax
+20176_10	is_in_sentence	sentence_20176
+20176_10	appos	20176_5
+20176_10	has_surface_form	son
+20176_9	is_in_sentence	sentence_20176
+20176_9	case	20176_8
+20176_9	has_surface_form	's
+20176_11	is_in_sentence	sentence_20176
+20176_11	punct	20176_10
+20176_11	has_surface_form	,
+20176_12	is_in_sentence	sentence_20176
+20176_12	compound	20176_13
+20176_12	has_surface_form	John
+20176_12	part_of_entity	John Jr.
+20176_13	is_in_sentence	sentence_20176
+20176_13	appos	20176_10
+20176_13	has_surface_form	Jr.
+20176_13	part_of_entity	John Jr.
+20176_14	is_in_sentence	sentence_20176
+20176_14	punct	20176_10
+20176_14	has_surface_form	,
+20176_15	is_in_sentence	sentence_20176
+20176_15	auxpass	20176_16
+20176_15	has_surface_form	was
+20176_17	is_in_sentence	sentence_20176
+20176_17	punct	20176_16
+20176_17	has_surface_form	,
+20176_18	is_in_sentence	sentence_20176
+20176_18	prep	20176_16
+20176_18	has_surface_form	on
+20176_19	is_in_sentence	sentence_20176
+20176_19	pobj	20176_18
+20176_19	has_surface_form	June
+20176_20	is_in_sentence	sentence_20176
+20176_20	nummod	20176_19
+20176_20	has_surface_form	14
+20176_21	is_in_sentence	sentence_20176
+20176_21	punct	20176_19
+20176_21	has_surface_form	,
+20176_22	is_in_sentence	sentence_20176
+20176_22	nummod	20176_19
+20176_22	has_surface_form	1907
+20176_23	is_in_sentence	sentence_20176
+20176_23	punct	20176_16
+20176_23	has_surface_form	.
+20176_24	is_in_sentence	sentence_20176
+20176_24	dep	20176_24
+20176_24	has_surface_form	
+John Lomax	surface_form	John Lomax
+John Lomax	has-child	John Jr.
+John Jr.	surface_form	John Jr.

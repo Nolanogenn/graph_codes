@@ -1,0 +1,76 @@
+8028_0	is_in_sentence	sentence_8028
+8028_0	det	8028_1
+8028_0	has_surface_form	The
+8028_1	is_in_sentence	sentence_8028
+8028_1	nsubjpass	8028_9
+8028_1	has_surface_form	College
+8028_1	part_of_entity	College of Flying Training
+8028_9	is_in_sentence	sentence_8028
+8028_9	ROOT	8028_9
+8028_9	has_surface_form	located
+8028_2	is_in_sentence	sentence_8028
+8028_2	prep	8028_1
+8028_2	has_surface_form	of
+8028_2	part_of_entity	College of Flying Training
+8028_3	is_in_sentence	sentence_8028
+8028_3	compound	8028_4
+8028_3	has_surface_form	Flying
+8028_3	part_of_entity	College of Flying Training
+8028_4	is_in_sentence	sentence_8028
+8028_4	pobj	8028_2
+8028_4	has_surface_form	Training
+8028_4	part_of_entity	College of Flying Training
+8028_5	is_in_sentence	sentence_8028
+8028_5	punct	8028_4
+8028_5	has_surface_form	(
+8028_6	is_in_sentence	sentence_8028
+8028_6	appos	8028_4
+8028_6	has_surface_form	CFT
+8028_7	is_in_sentence	sentence_8028
+8028_7	punct	8028_4
+8028_7	has_surface_form	)
+8028_8	is_in_sentence	sentence_8028
+8028_8	auxpass	8028_9
+8028_8	has_surface_form	is
+8028_10	is_in_sentence	sentence_8028
+8028_10	prep	8028_9
+8028_10	has_surface_form	at
+8028_11	is_in_sentence	sentence_8028
+8028_11	pobj	8028_10
+8028_11	is_entity	Risalpur
+Risalpur	surface_form	Risalpur
+8028_12	is_in_sentence	sentence_8028
+8028_12	punct	8028_11
+8028_12	has_surface_form	,
+8028_13	is_in_sentence	sentence_8028
+8028_13	compound	8028_14
+8028_13	has_surface_form	Nowshera
+8028_14	is_in_sentence	sentence_8028
+8028_14	conj	8028_11
+8028_14	has_surface_form	District
+8028_15	is_in_sentence	sentence_8028
+8028_15	punct	8028_14
+8028_15	has_surface_form	,
+8028_16	is_in_sentence	sentence_8028
+8028_16	compound	8028_18
+8028_16	has_surface_form	Khyber
+8028_18	is_in_sentence	sentence_8028
+8028_18	conj	8028_14
+8028_18	has_surface_form	Pakhtunkhwa
+8028_17	is_in_sentence	sentence_8028
+8028_17	punct	8028_18
+8028_17	has_surface_form	-
+8028_19	is_in_sentence	sentence_8028
+8028_19	punct	8028_18
+8028_19	has_surface_form	,
+8028_20	is_in_sentence	sentence_8028
+8028_20	appos	8028_18
+8028_20	has_surface_form	Pakistan
+8028_21	is_in_sentence	sentence_8028
+8028_21	punct	8028_9
+8028_21	has_surface_form	.
+8028_22	is_in_sentence	sentence_8028
+8028_22	dep	8028_22
+8028_22	has_surface_form	
+College of Flying Training	surface_form	College of Flying Training
+College of Flying Training	is-where	Risalpur

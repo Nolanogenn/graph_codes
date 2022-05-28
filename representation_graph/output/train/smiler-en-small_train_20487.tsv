@@ -1,0 +1,79 @@
+20486_0	is_in_sentence	sentence_20486
+20486_0	det	20486_5
+20486_0	has_surface_form	The
+20486_5	is_in_sentence	sentence_20486
+20486_5	nsubj	20486_6
+20486_5	has_surface_form	Company
+20486_5	part_of_entity	Combination Steel and Iron Company
+20486_1	is_in_sentence	sentence_20486
+20486_1	nmod	20486_2
+20486_1	has_surface_form	Combination
+20486_1	part_of_entity	Combination Steel and Iron Company
+20486_2	is_in_sentence	sentence_20486
+20486_2	nmod	20486_5
+20486_2	has_surface_form	Steel
+20486_2	part_of_entity	Combination Steel and Iron Company
+20486_3	is_in_sentence	sentence_20486
+20486_3	cc	20486_2
+20486_3	has_surface_form	and
+20486_3	part_of_entity	Combination Steel and Iron Company
+20486_4	is_in_sentence	sentence_20486
+20486_4	conj	20486_2
+20486_4	has_surface_form	Iron
+20486_4	part_of_entity	Combination Steel and Iron Company
+20486_6	is_in_sentence	sentence_20486
+20486_6	ROOT	20486_6
+20486_6	has_surface_form	was
+20486_7	is_in_sentence	sentence_20486
+20486_7	det	20486_9
+20486_7	has_surface_form	a
+20486_9	is_in_sentence	sentence_20486
+20486_9	attr	20486_6
+20486_9	has_surface_form	mill
+20486_8	is_in_sentence	sentence_20486
+20486_8	compound	20486_9
+20486_8	has_surface_form	steel
+20486_10	is_in_sentence	sentence_20486
+20486_10	acl	20486_9
+20486_10	has_surface_form	founded
+20486_11	is_in_sentence	sentence_20486
+20486_11	prep	20486_10
+20486_11	has_surface_form	in
+20486_12	is_in_sentence	sentence_20486
+20486_12	pobj	20486_11
+20486_12	has_surface_form	Chester
+20486_13	is_in_sentence	sentence_20486
+20486_13	punct	20486_12
+20486_13	has_surface_form	,
+20486_14	is_in_sentence	sentence_20486
+20486_14	appos	20486_12
+20486_14	has_surface_form	Pennsylvania
+20486_15	is_in_sentence	sentence_20486
+20486_15	agent	20486_10
+20486_15	has_surface_form	by
+20486_16	is_in_sentence	sentence_20486
+20486_16	compound	20486_18
+20486_16	has_surface_form	shipbuilder
+20486_18	is_in_sentence	sentence_20486
+20486_18	pobj	20486_15
+20486_18	has_surface_form	Roach
+20486_18	part_of_entity	John Roach
+20486_17	is_in_sentence	sentence_20486
+20486_17	compound	20486_18
+20486_17	has_surface_form	John
+20486_17	part_of_entity	John Roach
+20486_19	is_in_sentence	sentence_20486
+20486_19	prep	20486_10
+20486_19	has_surface_form	in
+20486_20	is_in_sentence	sentence_20486
+20486_20	pobj	20486_19
+20486_20	has_surface_form	1880
+20486_21	is_in_sentence	sentence_20486
+20486_21	punct	20486_6
+20486_21	has_surface_form	.
+20486_22	is_in_sentence	sentence_20486
+20486_22	dep	20486_22
+20486_22	has_surface_form	
+Combination Steel and Iron Company	surface_form	Combination Steel and Iron Company
+Combination Steel and Iron Company	org-has-founder	John Roach
+John Roach	surface_form	John Roach

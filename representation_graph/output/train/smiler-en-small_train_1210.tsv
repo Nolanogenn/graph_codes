@@ -1,0 +1,71 @@
+1209_0	is_in_sentence	sentence_1209
+1209_0	det	1209_4
+1209_0	has_surface_form	The
+1209_0	part_of_entity	The Seneca Valley School District
+1209_4	is_in_sentence	sentence_1209
+1209_4	nsubj	1209_5
+1209_4	has_surface_form	District
+1209_4	part_of_entity	The Seneca Valley School District
+1209_1	is_in_sentence	sentence_1209
+1209_1	compound	1209_2
+1209_1	has_surface_form	Seneca
+1209_1	part_of_entity	The Seneca Valley School District
+1209_2	is_in_sentence	sentence_1209
+1209_2	compound	1209_4
+1209_2	has_surface_form	Valley
+1209_2	part_of_entity	The Seneca Valley School District
+1209_3	is_in_sentence	sentence_1209
+1209_3	compound	1209_4
+1209_3	has_surface_form	School
+1209_3	part_of_entity	The Seneca Valley School District
+1209_5	is_in_sentence	sentence_1209
+1209_5	ROOT	1209_5
+1209_5	has_surface_form	is
+1209_6	is_in_sentence	sentence_1209
+1209_6	det	1209_9
+1209_6	has_surface_form	a
+1209_9	is_in_sentence	sentence_1209
+1209_9	attr	1209_5
+1209_9	has_surface_form	district
+1209_9	part_of_entity	public school district
+1209_7	is_in_sentence	sentence_1209
+1209_7	amod	1209_8
+1209_7	has_surface_form	public
+1209_7	part_of_entity	public school district
+1209_8	is_in_sentence	sentence_1209
+1209_8	compound	1209_9
+1209_8	has_surface_form	school
+1209_8	part_of_entity	public school district
+1209_10	is_in_sentence	sentence_1209
+1209_10	prep	1209_9
+1209_10	has_surface_form	in
+1209_11	is_in_sentence	sentence_1209
+1209_11	det	1209_13
+1209_11	has_surface_form	the
+1209_13	is_in_sentence	sentence_1209
+1209_13	pobj	1209_10
+1209_13	has_surface_form	suburbs
+1209_12	is_in_sentence	sentence_1209
+1209_12	amod	1209_13
+1209_12	has_surface_form	northern
+1209_14	is_in_sentence	sentence_1209
+1209_14	prep	1209_13
+1209_14	has_surface_form	of
+1209_15	is_in_sentence	sentence_1209
+1209_15	pobj	1209_14
+1209_15	has_surface_form	Pittsburgh
+1209_16	is_in_sentence	sentence_1209
+1209_16	punct	1209_15
+1209_16	has_surface_form	,
+1209_17	is_in_sentence	sentence_1209
+1209_17	appos	1209_15
+1209_17	has_surface_form	Pennsylvania
+1209_18	is_in_sentence	sentence_1209
+1209_18	punct	1209_5
+1209_18	has_surface_form	.
+1209_19	is_in_sentence	sentence_1209
+1209_19	dep	1209_19
+1209_19	has_surface_form	
+The Seneca Valley School District	surface_form	The Seneca Valley School District
+The Seneca Valley School District	has-type	public school district
+public school district	surface_form	public school district

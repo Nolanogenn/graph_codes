@@ -1,0 +1,70 @@
+5638_0	is_in_sentence	sentence_5638
+5638_0	det	5638_2
+5638_0	has_surface_form	The
+5638_2	is_in_sentence	sentence_5638
+5638_2	nsubj	5638_9
+5638_2	has_surface_form	Department
+5638_2	part_of_entity	Chicago Department of Public Health
+5638_1	is_in_sentence	sentence_5638
+5638_1	compound	5638_2
+5638_1	has_surface_form	Chicago
+5638_1	part_of_entity	Chicago Department of Public Health
+5638_9	is_in_sentence	sentence_5638
+5638_9	ROOT	5638_9
+5638_9	has_surface_form	is
+5638_3	is_in_sentence	sentence_5638
+5638_3	prep	5638_2
+5638_3	has_surface_form	of
+5638_3	part_of_entity	Chicago Department of Public Health
+5638_4	is_in_sentence	sentence_5638
+5638_4	compound	5638_5
+5638_4	has_surface_form	Public
+5638_4	part_of_entity	Chicago Department of Public Health
+5638_5	is_in_sentence	sentence_5638
+5638_5	pobj	5638_3
+5638_5	has_surface_form	Health
+5638_5	part_of_entity	Chicago Department of Public Health
+5638_6	is_in_sentence	sentence_5638
+5638_6	punct	5638_7
+5638_6	has_surface_form	(
+5638_7	is_in_sentence	sentence_5638
+5638_7	appos	5638_2
+5638_7	has_surface_form	CDPH
+5638_8	is_in_sentence	sentence_5638
+5638_8	punct	5638_7
+5638_8	has_surface_form	)
+5638_10	is_in_sentence	sentence_5638
+5638_10	det	5638_12
+5638_10	has_surface_form	a
+5638_12	is_in_sentence	sentence_5638
+5638_12	attr	5638_9
+5638_12	has_surface_form	department
+5638_12	part_of_entity	government department
+5638_11	is_in_sentence	sentence_5638
+5638_11	compound	5638_12
+5638_11	has_surface_form	government
+5638_11	part_of_entity	government department
+5638_13	is_in_sentence	sentence_5638
+5638_13	prep	5638_12
+5638_13	has_surface_form	of
+5638_14	is_in_sentence	sentence_5638
+5638_14	det	5638_15
+5638_14	has_surface_form	the
+5638_15	is_in_sentence	sentence_5638
+5638_15	pobj	5638_13
+5638_15	has_surface_form	City
+5638_16	is_in_sentence	sentence_5638
+5638_16	prep	5638_15
+5638_16	has_surface_form	of
+5638_17	is_in_sentence	sentence_5638
+5638_17	pobj	5638_16
+5638_17	has_surface_form	Chicago
+5638_18	is_in_sentence	sentence_5638
+5638_18	punct	5638_9
+5638_18	has_surface_form	.
+5638_19	is_in_sentence	sentence_5638
+5638_19	dep	5638_19
+5638_19	has_surface_form	
+Chicago Department of Public Health	surface_form	Chicago Department of Public Health
+Chicago Department of Public Health	has-type	government department
+government department	surface_form	government department

@@ -1,0 +1,75 @@
+22098_0	is_in_sentence	sentence_22098
+22098_0	compound	22098_2
+22098_0	has_surface_form	Hamamatsu
+22098_0	part_of_entity	Hamamatsu Gakuin University
+22098_2	is_in_sentence	sentence_22098
+22098_2	nsubj	22098_10
+22098_2	has_surface_form	University
+22098_2	part_of_entity	Hamamatsu Gakuin University
+22098_1	is_in_sentence	sentence_22098
+22098_1	compound	22098_2
+22098_1	has_surface_form	Gakuin
+22098_1	part_of_entity	Hamamatsu Gakuin University
+22098_10	is_in_sentence	sentence_22098
+22098_10	ROOT	22098_10
+22098_10	has_surface_form	is
+22098_3	is_in_sentence	sentence_22098
+22098_3	punct	22098_4
+22098_3	has_surface_form	(
+22098_4	is_in_sentence	sentence_22098
+22098_4	appos	22098_2
+22098_4	has_surface_form	浜松学院大学
+22098_5	is_in_sentence	sentence_22098
+22098_5	punct	22098_4
+22098_5	has_surface_form	,
+22098_6	is_in_sentence	sentence_22098
+22098_6	compound	22098_8
+22098_6	has_surface_form	Hamamatsu
+22098_8	is_in_sentence	sentence_22098
+22098_8	appos	22098_4
+22098_8	has_surface_form	Daigaku
+22098_7	is_in_sentence	sentence_22098
+22098_7	compound	22098_8
+22098_7	has_surface_form	Gakuin
+22098_9	is_in_sentence	sentence_22098
+22098_9	punct	22098_4
+22098_9	has_surface_form	)
+22098_11	is_in_sentence	sentence_22098
+22098_11	det	22098_13
+22098_11	has_surface_form	a
+22098_13	is_in_sentence	sentence_22098
+22098_13	attr	22098_10
+22098_13	is_entity	university
+22098_12	is_in_sentence	sentence_22098
+22098_12	amod	22098_13
+22098_12	has_surface_form	private
+university	surface_form	university
+22098_14	is_in_sentence	sentence_22098
+22098_14	prep	22098_13
+22098_14	has_surface_form	in
+22098_15	is_in_sentence	sentence_22098
+22098_15	compound	22098_16
+22098_15	has_surface_form	Hamamatsu
+22098_16	is_in_sentence	sentence_22098
+22098_16	pobj	22098_14
+22098_16	has_surface_form	City
+22098_17	is_in_sentence	sentence_22098
+22098_17	punct	22098_16
+22098_17	has_surface_form	,
+22098_18	is_in_sentence	sentence_22098
+22098_18	compound	22098_20
+22098_18	has_surface_form	Shizuoka
+22098_20	is_in_sentence	sentence_22098
+22098_20	appos	22098_16
+22098_20	has_surface_form	Japan
+22098_19	is_in_sentence	sentence_22098
+22098_19	compound	22098_20
+22098_19	has_surface_form	Prefecture
+22098_21	is_in_sentence	sentence_22098
+22098_21	punct	22098_10
+22098_21	has_surface_form	.
+22098_22	is_in_sentence	sentence_22098
+22098_22	dep	22098_10
+22098_22	has_surface_form	
+Hamamatsu Gakuin University	surface_form	Hamamatsu Gakuin University
+Hamamatsu Gakuin University	has-type	university

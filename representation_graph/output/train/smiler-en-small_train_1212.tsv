@@ -1,0 +1,65 @@
+1211_0	is_in_sentence	sentence_1211
+1211_0	nsubj	1211_1
+1211_0	is_entity	Arar
+1211_1	is_in_sentence	sentence_1211
+1211_1	ROOT	1211_1
+1211_1	has_surface_form	is
+Arar	surface_form	Arar
+1211_2	is_in_sentence	sentence_1211
+1211_2	det	1211_3
+1211_2	has_surface_form	the
+1211_3	is_in_sentence	sentence_1211
+1211_3	attr	1211_1
+1211_3	has_surface_form	father
+1211_4	is_in_sentence	sentence_1211
+1211_4	prep	1211_3
+1211_4	has_surface_form	of
+1211_5	is_in_sentence	sentence_1211
+1211_5	compound	1211_6
+1211_5	has_surface_form	Wasfi
+1211_5	part_of_entity	Wasfi Tal
+1211_6	is_in_sentence	sentence_1211
+1211_6	pobj	1211_4
+1211_6	has_surface_form	Tal
+1211_6	part_of_entity	Wasfi Tal
+1211_7	is_in_sentence	sentence_1211
+1211_7	nsubj	1211_8
+1211_7	has_surface_form	who
+1211_8	is_in_sentence	sentence_1211
+1211_8	relcl	1211_3
+1211_8	has_surface_form	was
+1211_9	is_in_sentence	sentence_1211
+1211_9	det	1211_11
+1211_9	has_surface_form	a
+1211_11	is_in_sentence	sentence_1211
+1211_11	attr	1211_8
+1211_11	has_surface_form	minister
+1211_10	is_in_sentence	sentence_1211
+1211_10	amod	1211_11
+1211_10	has_surface_form	prime
+1211_12	is_in_sentence	sentence_1211
+1211_12	prep	1211_11
+1211_12	has_surface_form	of
+1211_13	is_in_sentence	sentence_1211
+1211_13	pobj	1211_12
+1211_13	has_surface_form	Jordan
+1211_14	is_in_sentence	sentence_1211
+1211_14	prep	1211_8
+1211_14	has_surface_form	for
+1211_15	is_in_sentence	sentence_1211
+1211_15	nummod	1211_17
+1211_15	has_surface_form	three
+1211_17	is_in_sentence	sentence_1211
+1211_17	pobj	1211_14
+1211_17	has_surface_form	terms
+1211_16	is_in_sentence	sentence_1211
+1211_16	amod	1211_17
+1211_16	has_surface_form	separate
+1211_18	is_in_sentence	sentence_1211
+1211_18	punct	1211_1
+1211_18	has_surface_form	.
+1211_19	is_in_sentence	sentence_1211
+1211_19	dep	1211_1
+1211_19	has_surface_form	
+Wasfi Tal	surface_form	Wasfi Tal
+Wasfi Tal	has-parent	Arar

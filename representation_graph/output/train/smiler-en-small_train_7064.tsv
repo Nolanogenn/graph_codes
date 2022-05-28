@@ -1,0 +1,64 @@
+7063_0	is_in_sentence	sentence_7063
+7063_0	compound	7063_1
+7063_0	has_surface_form	Greenfield
+7063_0	part_of_entity	Greenfield Union School District
+7063_1	is_in_sentence	sentence_7063
+7063_1	compound	7063_3
+7063_1	has_surface_form	Union
+7063_1	part_of_entity	Greenfield Union School District
+7063_3	is_in_sentence	sentence_7063
+7063_3	nsubj	7063_4
+7063_3	has_surface_form	District
+7063_3	part_of_entity	Greenfield Union School District
+7063_2	is_in_sentence	sentence_7063
+7063_2	compound	7063_3
+7063_2	has_surface_form	School
+7063_2	part_of_entity	Greenfield Union School District
+7063_4	is_in_sentence	sentence_7063
+7063_4	ROOT	7063_4
+7063_4	has_surface_form	is
+7063_5	is_in_sentence	sentence_7063
+7063_5	det	7063_12
+7063_5	has_surface_form	a
+7063_12	is_in_sentence	sentence_7063
+7063_12	attr	7063_4
+7063_12	has_surface_form	district
+7063_6	is_in_sentence	sentence_7063
+7063_6	compound	7063_8
+7063_6	is_entity	Kindergarten
+7063_8	is_in_sentence	sentence_7063
+7063_8	amod	7063_9
+7063_8	has_surface_form	8th
+Kindergarten	surface_form	Kindergarten
+7063_7	is_in_sentence	sentence_7063
+7063_7	punct	7063_8
+7063_7	has_surface_form	-
+7063_9	is_in_sentence	sentence_7063
+7063_9	nmod	7063_12
+7063_9	has_surface_form	grade
+7063_10	is_in_sentence	sentence_7063
+7063_10	amod	7063_11
+7063_10	has_surface_form	public
+7063_11	is_in_sentence	sentence_7063
+7063_11	compound	7063_12
+7063_11	has_surface_form	school
+7063_13	is_in_sentence	sentence_7063
+7063_13	prep	7063_12
+7063_13	has_surface_form	in
+7063_14	is_in_sentence	sentence_7063
+7063_14	pobj	7063_13
+7063_14	has_surface_form	Bakersfield
+7063_15	is_in_sentence	sentence_7063
+7063_15	punct	7063_14
+7063_15	has_surface_form	,
+7063_16	is_in_sentence	sentence_7063
+7063_16	appos	7063_14
+7063_16	has_surface_form	California
+7063_17	is_in_sentence	sentence_7063
+7063_17	punct	7063_4
+7063_17	has_surface_form	.
+7063_18	is_in_sentence	sentence_7063
+7063_18	dep	7063_18
+7063_18	has_surface_form	
+Greenfield Union School District	surface_form	Greenfield Union School District
+Greenfield Union School District	has-type	Kindergarten

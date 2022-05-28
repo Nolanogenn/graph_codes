@@ -1,0 +1,86 @@
+7784_0	is_in_sentence	sentence_7784
+7784_0	det	7784_1
+7784_0	has_surface_form	The
+7784_1	is_in_sentence	sentence_7784
+7784_1	nsubj	7784_11
+7784_1	has_surface_form	first
+7784_11	is_in_sentence	sentence_7784
+7784_11	ROOT	7784_11
+7784_11	has_surface_form	was
+7784_2	is_in_sentence	sentence_7784
+7784_2	prep	7784_1
+7784_2	has_surface_form	of
+7784_3	is_in_sentence	sentence_7784
+7784_3	pobj	7784_2
+7784_3	has_surface_form	these
+7784_4	is_in_sentence	sentence_7784
+7784_4	punct	7784_1
+7784_4	has_surface_form	,
+7784_5	is_in_sentence	sentence_7784
+7784_5	det	7784_7
+7784_5	has_surface_form	The
+7784_7	is_in_sentence	sentence_7784
+7784_7	appos	7784_1
+7784_7	has_surface_form	Country
+7784_7	part_of_entity	Unconquered Country
+7784_6	is_in_sentence	sentence_7784
+7784_6	compound	7784_7
+7784_6	has_surface_form	Unconquered
+7784_6	part_of_entity	Unconquered Country
+7784_8	is_in_sentence	sentence_7784
+7784_8	punct	7784_7
+7784_8	has_surface_form	(
+7784_9	is_in_sentence	sentence_7784
+7784_9	appos	7784_7
+7784_9	has_surface_form	1986
+7784_10	is_in_sentence	sentence_7784
+7784_10	punct	7784_7
+7784_10	has_surface_form	)
+7784_12	is_in_sentence	sentence_7784
+7784_12	attr	7784_11
+7784_12	has_surface_form	winner
+7784_13	is_in_sentence	sentence_7784
+7784_13	prep	7784_12
+7784_13	has_surface_form	of
+7784_14	is_in_sentence	sentence_7784
+7784_14	det	7784_17
+7784_14	has_surface_form	the
+7784_17	is_in_sentence	sentence_7784
+7784_17	pobj	7784_13
+7784_17	has_surface_form	Award
+7784_17	part_of_entity	World Fantasy Award
+7784_15	is_in_sentence	sentence_7784
+7784_15	compound	7784_16
+7784_15	has_surface_form	World
+7784_15	part_of_entity	World Fantasy Award
+7784_16	is_in_sentence	sentence_7784
+7784_16	compound	7784_17
+7784_16	has_surface_form	Fantasy
+7784_16	part_of_entity	World Fantasy Award
+7784_18	is_in_sentence	sentence_7784
+7784_18	cc	7784_17
+7784_18	has_surface_form	and
+7784_19	is_in_sentence	sentence_7784
+7784_19	compound	7784_22
+7784_19	has_surface_form	British
+7784_22	is_in_sentence	sentence_7784
+7784_22	compound	7784_23
+7784_22	has_surface_form	Association
+7784_20	is_in_sentence	sentence_7784
+7784_20	compound	7784_21
+7784_20	has_surface_form	Science
+7784_21	is_in_sentence	sentence_7784
+7784_21	compound	7784_22
+7784_21	has_surface_form	Fiction
+7784_23	is_in_sentence	sentence_7784
+7784_23	conj	7784_17
+7784_23	has_surface_form	Award
+7784_24	is_in_sentence	sentence_7784
+7784_24	punct	7784_11
+7784_24	has_surface_form	.
+7784_25	is_in_sentence	sentence_7784
+7784_25	dep	7784_11
+7784_25	has_surface_form	
+Unconquered Country	surface_form	Unconquered Country
+Unconquered Country	won-award	World Fantasy Award
+World Fantasy Award	surface_form	World Fantasy Award

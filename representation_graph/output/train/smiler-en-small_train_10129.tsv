@@ -1,0 +1,114 @@
+10128_0	is_in_sentence	sentence_10128
+10128_0	compound	10128_1
+10128_0	has_surface_form	Mohan
+10128_0	part_of_entity	Mohan Maharishi
+10128_1	is_in_sentence	sentence_10128
+10128_1	nsubj	10128_8
+10128_1	has_surface_form	Maharishi
+10128_1	part_of_entity	Mohan Maharishi
+10128_8	is_in_sentence	sentence_10128
+10128_8	ROOT	10128_8
+10128_8	has_surface_form	is
+10128_2	is_in_sentence	sentence_10128
+10128_2	punct	10128_1
+10128_2	has_surface_form	(
+10128_3	is_in_sentence	sentence_10128
+10128_3	appos	10128_1
+10128_3	has_surface_form	Hindi
+10128_4	is_in_sentence	sentence_10128
+10128_4	punct	10128_3
+10128_4	has_surface_form	:
+10128_5	is_in_sentence	sentence_10128
+10128_5	punct	10128_6
+10128_5	has_surface_form	मोहन
+10128_6	is_in_sentence	sentence_10128
+10128_6	appos	10128_3
+10128_6	has_surface_form	महर्षि
+10128_7	is_in_sentence	sentence_10128
+10128_7	punct	10128_3
+10128_7	has_surface_form	)
+10128_9	is_in_sentence	sentence_10128
+10128_9	det	10128_12
+10128_9	has_surface_form	an
+10128_12	is_in_sentence	sentence_10128
+10128_12	attr	10128_8
+10128_12	has_surface_form	director
+10128_10	is_in_sentence	sentence_10128
+10128_10	amod	10128_12
+10128_10	has_surface_form	Indian
+10128_11	is_in_sentence	sentence_10128
+10128_11	compound	10128_12
+10128_11	has_surface_form	theatre
+10128_13	is_in_sentence	sentence_10128
+10128_13	punct	10128_12
+10128_13	has_surface_form	,
+10128_14	is_in_sentence	sentence_10128
+10128_14	conj	10128_12
+10128_14	has_surface_form	actor
+10128_15	is_in_sentence	sentence_10128
+10128_15	cc	10128_14
+10128_15	has_surface_form	and
+10128_16	is_in_sentence	sentence_10128
+10128_16	det	10128_17
+10128_16	has_surface_form	a
+10128_17	is_in_sentence	sentence_10128
+10128_17	conj	10128_14
+10128_17	has_surface_form	playwright
+10128_18	is_in_sentence	sentence_10128
+10128_18	punct	10128_8
+10128_18	has_surface_form	.
+10128_19	is_in_sentence	sentence_10128
+10128_19	nsubjpass	10128_21
+10128_19	has_surface_form	He
+10128_21	is_in_sentence	sentence_10128
+10128_21	ROOT	10128_21
+10128_21	has_surface_form	awarded
+10128_20	is_in_sentence	sentence_10128
+10128_20	auxpass	10128_21
+10128_20	has_surface_form	was
+10128_22	is_in_sentence	sentence_10128
+10128_22	det	10128_26
+10128_22	has_surface_form	the
+10128_26	is_in_sentence	sentence_10128
+10128_26	dobj	10128_21
+10128_26	has_surface_form	Award
+10128_26	part_of_entity	Sangeet Natak Akademi Award
+10128_23	is_in_sentence	sentence_10128
+10128_23	compound	10128_24
+10128_23	has_surface_form	Sangeet
+10128_23	part_of_entity	Sangeet Natak Akademi Award
+10128_24	is_in_sentence	sentence_10128
+10128_24	compound	10128_25
+10128_24	has_surface_form	Natak
+10128_24	part_of_entity	Sangeet Natak Akademi Award
+10128_25	is_in_sentence	sentence_10128
+10128_25	compound	10128_26
+10128_25	has_surface_form	Akademi
+10128_25	part_of_entity	Sangeet Natak Akademi Award
+10128_27	is_in_sentence	sentence_10128
+10128_27	prep	10128_21
+10128_27	has_surface_form	for
+10128_28	is_in_sentence	sentence_10128
+10128_28	punct	10128_29
+10128_28	has_surface_form	'
+10128_29	is_in_sentence	sentence_10128
+10128_29	pobj	10128_27
+10128_29	has_surface_form	Direction
+10128_30	is_in_sentence	sentence_10128
+10128_30	punct	10128_29
+10128_30	has_surface_form	'
+10128_31	is_in_sentence	sentence_10128
+10128_31	prep	10128_21
+10128_31	has_surface_form	in
+10128_32	is_in_sentence	sentence_10128
+10128_32	pobj	10128_31
+10128_32	has_surface_form	1992
+10128_33	is_in_sentence	sentence_10128
+10128_33	punct	10128_21
+10128_33	has_surface_form	.
+10128_34	is_in_sentence	sentence_10128
+10128_34	dep	10128_34
+10128_34	has_surface_form	
+Mohan Maharishi	surface_form	Mohan Maharishi
+Mohan Maharishi	won-award	Sangeet Natak Akademi Award
+Sangeet Natak Akademi Award	surface_form	Sangeet Natak Akademi Award

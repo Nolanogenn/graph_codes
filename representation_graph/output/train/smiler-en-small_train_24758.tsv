@@ -1,0 +1,73 @@
+24757_0	is_in_sentence	sentence_24757
+24757_0	compound	24757_1
+24757_0	has_surface_form	Bosco
+24757_0	part_of_entity	Bosco d'amore
+24757_1	is_in_sentence	sentence_24757
+24757_1	nsubj	24757_10
+24757_1	has_surface_form	d'amore
+24757_1	part_of_entity	Bosco d'amore
+24757_10	is_in_sentence	sentence_24757
+24757_10	ROOT	24757_10
+24757_10	has_surface_form	is
+24757_2	is_in_sentence	sentence_24757
+24757_2	punct	24757_4
+24757_2	has_surface_form	(
+24757_4	is_in_sentence	sentence_24757
+24757_4	parataxis	24757_1
+24757_4	has_surface_form	released
+24757_3	is_in_sentence	sentence_24757
+24757_3	advmod	24757_4
+24757_3	has_surface_form	internationally
+24757_5	is_in_sentence	sentence_24757
+24757_5	prep	24757_4
+24757_5	has_surface_form	as
+24757_6	is_in_sentence	sentence_24757
+24757_6	pobj	24757_5
+24757_6	has_surface_form	Forest
+24757_7	is_in_sentence	sentence_24757
+24757_7	prep	24757_6
+24757_7	has_surface_form	of
+24757_8	is_in_sentence	sentence_24757
+24757_8	pobj	24757_7
+24757_8	has_surface_form	Love
+24757_9	is_in_sentence	sentence_24757
+24757_9	punct	24757_1
+24757_9	has_surface_form	)
+24757_11	is_in_sentence	sentence_24757
+24757_11	det	24757_15
+24757_11	has_surface_form	a
+24757_15	is_in_sentence	sentence_24757
+24757_15	attr	24757_10
+24757_15	has_surface_form	film
+24757_12	is_in_sentence	sentence_24757
+24757_12	nummod	24757_15
+24757_12	has_surface_form	1981
+24757_13	is_in_sentence	sentence_24757
+24757_13	amod	24757_15
+24757_13	has_surface_form	Italian
+24757_14	is_in_sentence	sentence_24757
+24757_14	compound	24757_15
+24757_14	has_surface_form	drama
+24757_16	is_in_sentence	sentence_24757
+24757_16	acl	24757_15
+24757_16	has_surface_form	directed
+24757_17	is_in_sentence	sentence_24757
+24757_17	agent	24757_16
+24757_17	has_surface_form	by
+24757_18	is_in_sentence	sentence_24757
+24757_18	compound	24757_19
+24757_18	has_surface_form	Alberto
+24757_18	part_of_entity	Alberto Bevilacqua
+24757_19	is_in_sentence	sentence_24757
+24757_19	pobj	24757_17
+24757_19	has_surface_form	Bevilacqua
+24757_19	part_of_entity	Alberto Bevilacqua
+24757_20	is_in_sentence	sentence_24757
+24757_20	punct	24757_10
+24757_20	has_surface_form	.
+24757_21	is_in_sentence	sentence_24757
+24757_21	dep	24757_10
+24757_21	has_surface_form	
+Bosco d'amore	surface_form	Bosco d'amore
+Bosco d'amore	movie-has-director	Alberto Bevilacqua
+Alberto Bevilacqua	surface_form	Alberto Bevilacqua

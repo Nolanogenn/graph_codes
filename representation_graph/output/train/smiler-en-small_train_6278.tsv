@@ -1,0 +1,51 @@
+6277_0	is_in_sentence	sentence_6277
+6277_0	compound	6277_2
+6277_0	has_surface_form	Humphry
+6277_0	part_of_entity	Humphry Davy School
+6277_2	is_in_sentence	sentence_6277
+6277_2	nsubj	6277_3
+6277_2	has_surface_form	School
+6277_2	part_of_entity	Humphry Davy School
+6277_1	is_in_sentence	sentence_6277
+6277_1	compound	6277_2
+6277_1	has_surface_form	Davy
+6277_1	part_of_entity	Humphry Davy School
+6277_3	is_in_sentence	sentence_6277
+6277_3	ROOT	6277_3
+6277_3	has_surface_form	is
+6277_4	is_in_sentence	sentence_6277
+6277_4	det	6277_6
+6277_4	has_surface_form	a
+6277_6	is_in_sentence	sentence_6277
+6277_6	attr	6277_3
+6277_6	has_surface_form	school
+6277_5	is_in_sentence	sentence_6277
+6277_5	amod	6277_6
+6277_5	has_surface_form	comprehensive
+6277_7	is_in_sentence	sentence_6277
+6277_7	prep	6277_6
+6277_7	has_surface_form	in
+6277_8	is_in_sentence	sentence_6277
+6277_8	pobj	6277_7
+6277_8	is_entity	Penzance
+Penzance	surface_form	Penzance
+6277_9	is_in_sentence	sentence_6277
+6277_9	punct	6277_8
+6277_9	has_surface_form	,
+6277_10	is_in_sentence	sentence_6277
+6277_10	conj	6277_8
+6277_10	has_surface_form	Cornwall
+6277_11	is_in_sentence	sentence_6277
+6277_11	punct	6277_10
+6277_11	has_surface_form	,
+6277_12	is_in_sentence	sentence_6277
+6277_12	appos	6277_10
+6277_12	has_surface_form	England
+6277_13	is_in_sentence	sentence_6277
+6277_13	punct	6277_3
+6277_13	has_surface_form	.
+6277_14	is_in_sentence	sentence_6277
+6277_14	dep	6277_3
+6277_14	has_surface_form	
+Humphry Davy School	surface_form	Humphry Davy School
+Humphry Davy School	is-where	Penzance

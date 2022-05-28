@@ -1,0 +1,82 @@
+29892_0	is_in_sentence	sentence_29892
+29892_0	compound	29892_1
+29892_0	has_surface_form	Fly
+29892_0	part_of_entity	Fly Panda
+29892_1	is_in_sentence	sentence_29892
+29892_1	nsubj	29892_2
+29892_1	has_surface_form	Panda
+29892_1	part_of_entity	Fly Panda
+29892_2	is_in_sentence	sentence_29892
+29892_2	ROOT	29892_2
+29892_2	has_surface_form	is
+29892_3	is_in_sentence	sentence_29892
+29892_3	det	29892_6
+29892_3	has_surface_form	an
+29892_6	is_in_sentence	sentence_29892
+29892_6	attr	29892_2
+29892_6	has_surface_form	group
+29892_4	is_in_sentence	sentence_29892
+29892_4	amod	29892_6
+29892_4	has_surface_form	American
+29892_5	is_in_sentence	sentence_29892
+29892_5	compound	29892_6
+29892_5	has_surface_form	pop
+29892_7	is_in_sentence	sentence_29892
+29892_7	acl	29892_6
+29892_7	has_surface_form	formed
+29892_8	is_in_sentence	sentence_29892
+29892_8	prep	29892_7
+29892_8	has_surface_form	in
+29892_9	is_in_sentence	sentence_29892
+29892_9	pobj	29892_8
+29892_9	has_surface_form	2012
+29892_10	is_in_sentence	sentence_29892
+29892_10	agent	29892_7
+29892_10	has_surface_form	by
+29892_11	is_in_sentence	sentence_29892
+29892_11	compound	29892_13
+29892_11	has_surface_form	rapper
+29892_13	is_in_sentence	sentence_29892
+29892_13	pobj	29892_10
+29892_13	has_surface_form	Ka$h
+29892_12	is_in_sentence	sentence_29892
+29892_12	compound	29892_13
+29892_12	has_surface_form	Lukas
+29892_14	is_in_sentence	sentence_29892
+29892_14	cc	29892_13
+29892_14	has_surface_form	and
+29892_15	is_in_sentence	sentence_29892
+29892_15	compound	29892_17
+29892_15	has_surface_form	singer
+29892_17	is_in_sentence	sentence_29892
+29892_17	conj	29892_13
+29892_17	has_surface_form	Rae
+29892_17	part_of_entity	Winter Rae
+29892_16	is_in_sentence	sentence_29892
+29892_16	compound	29892_17
+29892_16	has_surface_form	Winter
+29892_16	part_of_entity	Winter Rae
+29892_18	is_in_sentence	sentence_29892
+29892_18	prep	29892_17
+29892_18	has_surface_form	in
+29892_19	is_in_sentence	sentence_29892
+29892_19	compound	29892_20
+29892_19	has_surface_form	Los
+29892_20	is_in_sentence	sentence_29892
+29892_20	pobj	29892_18
+29892_20	has_surface_form	Angeles
+29892_21	is_in_sentence	sentence_29892
+29892_21	punct	29892_20
+29892_21	has_surface_form	,
+29892_22	is_in_sentence	sentence_29892
+29892_22	appos	29892_20
+29892_22	has_surface_form	California
+29892_23	is_in_sentence	sentence_29892
+29892_23	punct	29892_2
+29892_23	has_surface_form	.
+29892_24	is_in_sentence	sentence_29892
+29892_24	dep	29892_24
+29892_24	has_surface_form	
+Fly Panda	surface_form	Fly Panda
+Fly Panda	org-has-member	Winter Rae
+Winter Rae	surface_form	Winter Rae

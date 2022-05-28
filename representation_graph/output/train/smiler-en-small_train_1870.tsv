@@ -1,0 +1,62 @@
+1869_0	is_in_sentence	sentence_1869
+1869_0	compound	1869_1
+1869_0	has_surface_form	Leonardo
+1869_0	part_of_entity	Leonardo Gribeo
+1869_1	is_in_sentence	sentence_1869
+1869_1	nsubj	1869_6
+1869_1	has_surface_form	Gribeo
+1869_1	part_of_entity	Leonardo Gribeo
+1869_6	is_in_sentence	sentence_1869
+1869_6	ROOT	1869_6
+1869_6	has_surface_form	was
+1869_2	is_in_sentence	sentence_1869
+1869_2	punct	1869_4
+1869_2	has_surface_form	(
+1869_4	is_in_sentence	sentence_1869
+1869_4	appos	1869_1
+1869_4	has_surface_form	Century
+1869_3	is_in_sentence	sentence_1869
+1869_3	compound	1869_4
+1869_3	has_surface_form	16th
+1869_5	is_in_sentence	sentence_1869
+1869_5	punct	1869_4
+1869_5	has_surface_form	)
+1869_7	is_in_sentence	sentence_1869
+1869_7	det	1869_9
+1869_7	has_surface_form	an
+1869_9	is_in_sentence	sentence_1869
+1869_9	attr	1869_6
+1869_9	is_entity	conquistador
+1869_8	is_in_sentence	sentence_1869
+1869_8	amod	1869_9
+1869_8	has_surface_form	Italian
+conquistador	surface_form	conquistador
+1869_10	is_in_sentence	sentence_1869
+1869_10	punct	1869_9
+1869_10	has_surface_form	,
+1869_11	is_in_sentence	sentence_1869
+1869_11	prep	1869_9
+1869_11	has_surface_form	in
+1869_12	is_in_sentence	sentence_1869
+1869_12	pobj	1869_11
+1869_12	has_surface_form	service
+1869_13	is_in_sentence	sentence_1869
+1869_13	prep	1869_12
+1869_13	has_surface_form	of
+1869_14	is_in_sentence	sentence_1869
+1869_14	det	1869_16
+1869_14	has_surface_form	the
+1869_16	is_in_sentence	sentence_1869
+1869_16	pobj	1869_13
+1869_16	has_surface_form	Crown
+1869_15	is_in_sentence	sentence_1869
+1869_15	compound	1869_16
+1869_15	has_surface_form	Spanish
+1869_17	is_in_sentence	sentence_1869
+1869_17	punct	1869_6
+1869_17	has_surface_form	.
+1869_18	is_in_sentence	sentence_1869
+1869_18	dep	1869_6
+1869_18	has_surface_form	
+Leonardo Gribeo	surface_form	Leonardo Gribeo
+Leonardo Gribeo	has-occupation	conquistador

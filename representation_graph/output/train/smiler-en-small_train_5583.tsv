@@ -1,0 +1,43 @@
+5582_0	is_in_sentence	sentence_5582
+5582_0	compound	5582_1
+5582_0	has_surface_form	Alba
+5582_0	part_of_entity	Alba Mujica
+5582_1	is_in_sentence	sentence_5582
+5582_1	nsubj	5582_2
+5582_1	has_surface_form	Mujica
+5582_1	part_of_entity	Alba Mujica
+5582_2	is_in_sentence	sentence_5582
+5582_2	ROOT	5582_2
+5582_2	has_surface_form	was
+5582_3	is_in_sentence	sentence_5582
+5582_3	det	5582_4
+5582_3	has_surface_form	the
+5582_4	is_in_sentence	sentence_5582
+5582_4	attr	5582_2
+5582_4	has_surface_form	mother
+5582_5	is_in_sentence	sentence_5582
+5582_5	prep	5582_4
+5582_5	has_surface_form	of
+5582_6	is_in_sentence	sentence_5582
+5582_6	det	5582_7
+5582_6	has_surface_form	the
+5582_7	is_in_sentence	sentence_5582
+5582_7	pobj	5582_5
+5582_7	has_surface_form	actress
+5582_8	is_in_sentence	sentence_5582
+5582_8	compound	5582_9
+5582_8	has_surface_form	Bárbara
+5582_8	part_of_entity	Bárbara Mujica
+5582_9	is_in_sentence	sentence_5582
+5582_9	appos	5582_7
+5582_9	has_surface_form	Mujica
+5582_9	part_of_entity	Bárbara Mujica
+5582_10	is_in_sentence	sentence_5582
+5582_10	punct	5582_2
+5582_10	has_surface_form	.
+5582_11	is_in_sentence	sentence_5582
+5582_11	dep	5582_11
+5582_11	has_surface_form	
+Alba Mujica	surface_form	Alba Mujica
+Alba Mujica	has-child	Bárbara Mujica
+Bárbara Mujica	surface_form	Bárbara Mujica

@@ -1,0 +1,81 @@
+34320_0	is_in_sentence	sentence_34320
+34320_0	det	34320_1
+34320_0	has_surface_form	A
+34320_0	part_of_entity	A Pizza in Jordbro
+34320_1	is_in_sentence	sentence_34320
+34320_1	nsubj	34320_12
+34320_1	has_surface_form	Pizza
+34320_1	part_of_entity	A Pizza in Jordbro
+34320_12	is_in_sentence	sentence_34320
+34320_12	ROOT	34320_12
+34320_12	has_surface_form	is
+34320_2	is_in_sentence	sentence_34320
+34320_2	prep	34320_1
+34320_2	has_surface_form	in
+34320_2	part_of_entity	A Pizza in Jordbro
+34320_3	is_in_sentence	sentence_34320
+34320_3	pobj	34320_2
+34320_3	has_surface_form	Jordbro
+34320_3	part_of_entity	A Pizza in Jordbro
+34320_4	is_in_sentence	sentence_34320
+34320_4	punct	34320_5
+34320_4	has_surface_form	(
+34320_5	is_in_sentence	sentence_34320
+34320_5	appos	34320_1
+34320_5	has_surface_form	Swedish
+34320_6	is_in_sentence	sentence_34320
+34320_6	punct	34320_5
+34320_6	has_surface_form	:
+34320_7	is_in_sentence	sentence_34320
+34320_7	compound	34320_8
+34320_7	has_surface_form	En
+34320_8	is_in_sentence	sentence_34320
+34320_8	appos	34320_1
+34320_8	has_surface_form	pizza
+34320_9	is_in_sentence	sentence_34320
+34320_9	intj	34320_8
+34320_9	has_surface_form	i
+34320_10	is_in_sentence	sentence_34320
+34320_10	npadvmod	34320_8
+34320_10	has_surface_form	jordbro
+34320_11	is_in_sentence	sentence_34320
+34320_11	punct	34320_8
+34320_11	has_surface_form	)
+34320_13	is_in_sentence	sentence_34320
+34320_13	det	34320_17
+34320_13	has_surface_form	a
+34320_17	is_in_sentence	sentence_34320
+34320_17	attr	34320_12
+34320_17	has_surface_form	film
+34320_14	is_in_sentence	sentence_34320
+34320_14	nummod	34320_17
+34320_14	has_surface_form	1994
+34320_15	is_in_sentence	sentence_34320
+34320_15	amod	34320_17
+34320_15	has_surface_form	Swedish
+34320_16	is_in_sentence	sentence_34320
+34320_16	compound	34320_17
+34320_16	has_surface_form	documentary
+34320_18	is_in_sentence	sentence_34320
+34320_18	acl	34320_17
+34320_18	has_surface_form	directed
+34320_19	is_in_sentence	sentence_34320
+34320_19	agent	34320_18
+34320_19	has_surface_form	by
+34320_20	is_in_sentence	sentence_34320
+34320_20	compound	34320_21
+34320_20	has_surface_form	Rainer
+34320_20	part_of_entity	Rainer Hartleb
+34320_21	is_in_sentence	sentence_34320
+34320_21	pobj	34320_19
+34320_21	has_surface_form	Hartleb
+34320_21	part_of_entity	Rainer Hartleb
+34320_22	is_in_sentence	sentence_34320
+34320_22	punct	34320_12
+34320_22	has_surface_form	.
+34320_23	is_in_sentence	sentence_34320
+34320_23	dep	34320_23
+34320_23	has_surface_form	
+A Pizza in Jordbro	surface_form	A Pizza in Jordbro
+A Pizza in Jordbro	movie-has-director	Rainer Hartleb
+Rainer Hartleb	surface_form	Rainer Hartleb

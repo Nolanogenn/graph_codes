@@ -1,0 +1,62 @@
+5307_0	is_in_sentence	sentence_5307
+5307_0	compound	5307_1
+5307_0	has_surface_form	Mike
+5307_0	part_of_entity	Mike Kappus
+5307_1	is_in_sentence	sentence_5307
+5307_1	nsubj	5307_9
+5307_1	has_surface_form	Kappus
+5307_1	part_of_entity	Mike Kappus
+5307_9	is_in_sentence	sentence_5307
+5307_9	ROOT	5307_9
+5307_9	has_surface_form	is
+5307_2	is_in_sentence	sentence_5307
+5307_2	punct	5307_1
+5307_2	has_surface_form	(
+5307_3	is_in_sentence	sentence_5307
+5307_3	acl	5307_1
+5307_3	has_surface_form	born
+5307_4	is_in_sentence	sentence_5307
+5307_4	npadvmod	5307_3
+5307_4	has_surface_form	May
+5307_5	is_in_sentence	sentence_5307
+5307_5	nummod	5307_4
+5307_5	has_surface_form	24
+5307_6	is_in_sentence	sentence_5307
+5307_6	punct	5307_4
+5307_6	has_surface_form	,
+5307_7	is_in_sentence	sentence_5307
+5307_7	nummod	5307_4
+5307_7	has_surface_form	1950
+5307_8	is_in_sentence	sentence_5307
+5307_8	punct	5307_1
+5307_8	has_surface_form	)
+5307_10	is_in_sentence	sentence_5307
+5307_10	det	5307_13
+5307_10	has_surface_form	an
+5307_13	is_in_sentence	sentence_5307
+5307_13	attr	5307_9
+5307_13	has_surface_form	manager
+5307_11	is_in_sentence	sentence_5307
+5307_11	amod	5307_13
+5307_11	is_entity	American
+American	surface_form	American
+5307_12	is_in_sentence	sentence_5307
+5307_12	compound	5307_13
+5307_12	has_surface_form	music
+5307_14	is_in_sentence	sentence_5307
+5307_14	cc	5307_13
+5307_14	has_surface_form	and
+5307_15	is_in_sentence	sentence_5307
+5307_15	compound	5307_16
+5307_15	has_surface_form	record
+5307_16	is_in_sentence	sentence_5307
+5307_16	conj	5307_13
+5307_16	has_surface_form	producer
+5307_17	is_in_sentence	sentence_5307
+5307_17	punct	5307_9
+5307_17	has_surface_form	.
+5307_18	is_in_sentence	sentence_5307
+5307_18	dep	5307_18
+5307_18	has_surface_form	
+Mike Kappus	surface_form	Mike Kappus
+Mike Kappus	has-nationality	American

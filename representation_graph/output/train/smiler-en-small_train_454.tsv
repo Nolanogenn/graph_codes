@@ -1,0 +1,59 @@
+453_0	is_in_sentence	sentence_453
+453_0	amod	453_1
+453_0	has_surface_form	common
+453_0	part_of_entity	common wombats
+453_1	is_in_sentence	sentence_453
+453_1	nsubj	453_2
+453_1	has_surface_form	wombats
+453_1	part_of_entity	common wombats
+453_2	is_in_sentence	sentence_453
+453_2	ROOT	453_2
+453_2	has_surface_form	are
+453_3	is_in_sentence	sentence_453
+453_3	acomp	453_2
+453_3	has_surface_form	herbivorous
+453_4	is_in_sentence	sentence_453
+453_4	punct	453_2
+453_4	has_surface_form	,
+453_5	is_in_sentence	sentence_453
+453_5	advcl	453_2
+453_5	has_surface_form	subsisting
+453_6	is_in_sentence	sentence_453
+453_6	prep	453_5
+453_6	has_surface_form	on
+453_7	is_in_sentence	sentence_453
+453_7	pobj	453_6
+453_7	is_entity	grass
+grass	surface_form	grass
+453_8	is_in_sentence	sentence_453
+453_8	punct	453_7
+453_8	has_surface_form	,
+453_9	is_in_sentence	sentence_453
+453_9	compound	453_10
+453_9	has_surface_form	snow
+453_10	is_in_sentence	sentence_453
+453_10	conj	453_7
+453_10	has_surface_form	tussocks
+453_11	is_in_sentence	sentence_453
+453_11	punct	453_10
+453_11	has_surface_form	,
+453_12	is_in_sentence	sentence_453
+453_12	cc	453_10
+453_12	has_surface_form	and
+453_13	is_in_sentence	sentence_453
+453_13	amod	453_15
+453_13	has_surface_form	other
+453_15	is_in_sentence	sentence_453
+453_15	conj	453_10
+453_15	has_surface_form	materials
+453_14	is_in_sentence	sentence_453
+453_14	compound	453_15
+453_14	has_surface_form	plant
+453_16	is_in_sentence	sentence_453
+453_16	punct	453_2
+453_16	has_surface_form	.
+453_17	is_in_sentence	sentence_453
+453_17	dep	453_17
+453_17	has_surface_form	
+common wombats	surface_form	common wombats
+common wombats	eats	grass

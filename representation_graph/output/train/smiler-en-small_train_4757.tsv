@@ -1,0 +1,65 @@
+4756_0	is_in_sentence	sentence_4756
+4756_0	compound	4756_1
+4756_0	has_surface_form	Selma
+4756_0	part_of_entity	Selma Mutal
+4756_1	is_in_sentence	sentence_4756
+4756_1	nsubj	4756_9
+4756_1	has_surface_form	Mutal
+4756_1	part_of_entity	Selma Mutal
+4756_9	is_in_sentence	sentence_4756
+4756_9	ROOT	4756_9
+4756_9	has_surface_form	is
+4756_2	is_in_sentence	sentence_4756
+4756_2	punct	4756_1
+4756_2	has_surface_form	(
+4756_3	is_in_sentence	sentence_4756
+4756_3	acl	4756_1
+4756_3	has_surface_form	born
+4756_4	is_in_sentence	sentence_4756
+4756_4	prep	4756_3
+4756_4	has_surface_form	in
+4756_5	is_in_sentence	sentence_4756
+4756_5	pobj	4756_4
+4756_5	has_surface_form	Lima
+4756_6	is_in_sentence	sentence_4756
+4756_6	punct	4756_5
+4756_6	has_surface_form	,
+4756_7	is_in_sentence	sentence_4756
+4756_7	appos	4756_5
+4756_7	has_surface_form	Peru
+4756_8	is_in_sentence	sentence_4756
+4756_8	punct	4756_1
+4756_8	has_surface_form	)
+4756_10	is_in_sentence	sentence_4756
+4756_10	det	4756_16
+4756_10	has_surface_form	a
+4756_16	is_in_sentence	sentence_4756
+4756_16	attr	4756_9
+4756_16	has_surface_form	composer
+4756_16	part_of_entity	film score composer
+4756_11	is_in_sentence	sentence_4756
+4756_11	npadvmod	4756_13
+4756_11	has_surface_form	Franco
+4756_13	is_in_sentence	sentence_4756
+4756_13	amod	4756_16
+4756_13	has_surface_form	Dutch
+4756_12	is_in_sentence	sentence_4756
+4756_12	punct	4756_13
+4756_12	has_surface_form	-
+4756_14	is_in_sentence	sentence_4756
+4756_14	compound	4756_16
+4756_14	has_surface_form	film
+4756_14	part_of_entity	film score composer
+4756_15	is_in_sentence	sentence_4756
+4756_15	compound	4756_16
+4756_15	has_surface_form	score
+4756_15	part_of_entity	film score composer
+4756_17	is_in_sentence	sentence_4756
+4756_17	punct	4756_9
+4756_17	has_surface_form	.
+4756_18	is_in_sentence	sentence_4756
+4756_18	dep	4756_9
+4756_18	has_surface_form	
+Selma Mutal	surface_form	Selma Mutal
+Selma Mutal	has-occupation	film score composer
+film score composer	surface_form	film score composer

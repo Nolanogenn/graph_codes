@@ -1,0 +1,44 @@
+31209_0	is_in_sentence	sentence_31209
+31209_0	compound	31209_1
+31209_0	has_surface_form	South
+31209_0	part_of_entity	South Lakeland
+31209_1	is_in_sentence	sentence_31209
+31209_1	nsubj	31209_2
+31209_1	has_surface_form	Lakeland
+31209_1	part_of_entity	South Lakeland
+31209_2	is_in_sentence	sentence_31209
+31209_2	ROOT	31209_2
+31209_2	has_surface_form	is
+31209_3	is_in_sentence	sentence_31209
+31209_3	det	31209_6
+31209_3	has_surface_form	a
+31209_6	is_in_sentence	sentence_31209
+31209_6	attr	31209_2
+31209_6	is_entity	district
+31209_4	is_in_sentence	sentence_31209
+31209_4	amod	31209_6
+31209_4	has_surface_form	local
+31209_5	is_in_sentence	sentence_31209
+31209_5	compound	31209_6
+31209_5	has_surface_form	government
+district	surface_form	district
+31209_7	is_in_sentence	sentence_31209
+31209_7	prep	31209_6
+31209_7	has_surface_form	in
+31209_8	is_in_sentence	sentence_31209
+31209_8	pobj	31209_7
+31209_8	has_surface_form	Cumbria
+31209_9	is_in_sentence	sentence_31209
+31209_9	punct	31209_8
+31209_9	has_surface_form	,
+31209_10	is_in_sentence	sentence_31209
+31209_10	appos	31209_8
+31209_10	has_surface_form	England
+31209_11	is_in_sentence	sentence_31209
+31209_11	punct	31209_2
+31209_11	has_surface_form	.
+31209_12	is_in_sentence	sentence_31209
+31209_12	dep	31209_2
+31209_12	has_surface_form	
+South Lakeland	surface_form	South Lakeland
+South Lakeland	has-type	district

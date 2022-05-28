@@ -1,0 +1,47 @@
+25748_0	is_in_sentence	sentence_25748
+25748_0	compound	25748_1
+25748_0	has_surface_form	Agua
+25748_0	part_of_entity	Agua Poca
+25748_1	is_in_sentence	sentence_25748
+25748_1	nsubj	25748_2
+25748_1	has_surface_form	Poca
+25748_1	part_of_entity	Agua Poca
+25748_2	is_in_sentence	sentence_25748
+25748_2	ROOT	25748_2
+25748_2	has_surface_form	is
+25748_3	is_in_sentence	sentence_25748
+25748_3	det	25748_5
+25748_3	has_surface_form	a
+25748_5	is_in_sentence	sentence_25748
+25748_5	attr	25748_2
+25748_5	is_entity	volcano
+25748_4	is_in_sentence	sentence_25748
+25748_4	amod	25748_5
+25748_4	has_surface_form	monogenetic
+volcano	surface_form	volcano
+25748_6	is_in_sentence	sentence_25748
+25748_6	prep	25748_5
+25748_6	has_surface_form	in
+25748_7	is_in_sentence	sentence_25748
+25748_7	det	25748_9
+25748_7	has_surface_form	the
+25748_9	is_in_sentence	sentence_25748
+25748_9	pobj	25748_6
+25748_9	has_surface_form	Department
+25748_8	is_in_sentence	sentence_25748
+25748_8	compound	25748_9
+25748_8	has_surface_form	Puelén
+25748_10	is_in_sentence	sentence_25748
+25748_10	prep	25748_9
+25748_10	has_surface_form	of
+25748_11	is_in_sentence	sentence_25748
+25748_11	pobj	25748_10
+25748_11	has_surface_form	Argentina
+25748_12	is_in_sentence	sentence_25748
+25748_12	punct	25748_2
+25748_12	has_surface_form	.
+25748_13	is_in_sentence	sentence_25748
+25748_13	dep	25748_13
+25748_13	has_surface_form	
+Agua Poca	surface_form	Agua Poca
+Agua Poca	has-type	volcano

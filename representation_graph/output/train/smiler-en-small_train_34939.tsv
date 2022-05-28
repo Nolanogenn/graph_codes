@@ -1,0 +1,78 @@
+34938_0	is_in_sentence	sentence_34938
+34938_0	nsubj	34938_11
+34938_0	has_surface_form	Needle
+34938_0	part_of_entity	Needle in the Haystack
+34938_11	is_in_sentence	sentence_34938
+34938_11	ROOT	34938_11
+34938_11	has_surface_form	is
+34938_1	is_in_sentence	sentence_34938
+34938_1	prep	34938_0
+34938_1	has_surface_form	in
+34938_1	part_of_entity	Needle in the Haystack
+34938_2	is_in_sentence	sentence_34938
+34938_2	det	34938_3
+34938_2	has_surface_form	the
+34938_2	part_of_entity	Needle in the Haystack
+34938_3	is_in_sentence	sentence_34938
+34938_3	pobj	34938_1
+34938_3	has_surface_form	Haystack
+34938_3	part_of_entity	Needle in the Haystack
+34938_4	is_in_sentence	sentence_34938
+34938_4	punct	34938_5
+34938_4	has_surface_form	(
+34938_5	is_in_sentence	sentence_34938
+34938_5	appos	34938_0
+34938_5	has_surface_form	Portuguese
+34938_6	is_in_sentence	sentence_34938
+34938_6	punct	34938_5
+34938_6	has_surface_form	:
+34938_7	is_in_sentence	sentence_34938
+34938_7	compound	34938_9
+34938_7	has_surface_form	Agulha
+34938_9	is_in_sentence	sentence_34938
+34938_9	appos	34938_5
+34938_9	has_surface_form	Palheiro
+34938_8	is_in_sentence	sentence_34938
+34938_8	det	34938_9
+34938_8	has_surface_form	no
+34938_10	is_in_sentence	sentence_34938
+34938_10	punct	34938_5
+34938_10	has_surface_form	)
+34938_12	is_in_sentence	sentence_34938
+34938_12	det	34938_16
+34938_12	has_surface_form	a
+34938_16	is_in_sentence	sentence_34938
+34938_16	attr	34938_11
+34938_16	has_surface_form	film
+34938_13	is_in_sentence	sentence_34938
+34938_13	nummod	34938_16
+34938_13	has_surface_form	1953
+34938_14	is_in_sentence	sentence_34938
+34938_14	amod	34938_16
+34938_14	has_surface_form	Brazilian
+34938_15	is_in_sentence	sentence_34938
+34938_15	compound	34938_16
+34938_15	has_surface_form	comedy
+34938_17	is_in_sentence	sentence_34938
+34938_17	acl	34938_16
+34938_17	has_surface_form	directed
+34938_18	is_in_sentence	sentence_34938
+34938_18	agent	34938_17
+34938_18	has_surface_form	by
+34938_19	is_in_sentence	sentence_34938
+34938_19	compound	34938_20
+34938_19	has_surface_form	Alex
+34938_19	part_of_entity	Alex Viany
+34938_20	is_in_sentence	sentence_34938
+34938_20	pobj	34938_18
+34938_20	has_surface_form	Viany
+34938_20	part_of_entity	Alex Viany
+34938_21	is_in_sentence	sentence_34938
+34938_21	punct	34938_11
+34938_21	has_surface_form	.
+34938_22	is_in_sentence	sentence_34938
+34938_22	dep	34938_22
+34938_22	has_surface_form	
+Needle in the Haystack	surface_form	Needle in the Haystack
+Needle in the Haystack	movie-has-director	Alex Viany
+Alex Viany	surface_form	Alex Viany

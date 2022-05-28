@@ -1,0 +1,72 @@
+12488_0	is_in_sentence	sentence_12488
+12488_0	det	12488_2
+12488_0	has_surface_form	The
+12488_2	is_in_sentence	sentence_12488
+12488_2	nsubjpass	12488_4
+12488_2	has_surface_form	T20
+12488_1	is_in_sentence	sentence_12488
+12488_1	compound	12488_2
+12488_1	has_surface_form	ThinkPad
+12488_4	is_in_sentence	sentence_12488
+12488_4	ROOT	12488_4
+12488_4	has_surface_form	released
+12488_3	is_in_sentence	sentence_12488
+12488_3	auxpass	12488_4
+12488_3	has_surface_form	was
+12488_5	is_in_sentence	sentence_12488
+12488_5	agent	12488_4
+12488_5	has_surface_form	by
+12488_6	is_in_sentence	sentence_12488
+12488_6	pobj	12488_5
+12488_6	is_entity	IBM
+IBM	surface_form	IBM
+IBM	invented-by	ThinkPad 600 laptops
+12488_7	is_in_sentence	sentence_12488
+12488_7	prep	12488_4
+12488_7	has_surface_form	as
+12488_8	is_in_sentence	sentence_12488
+12488_8	det	12488_9
+12488_8	has_surface_form	the
+12488_9	is_in_sentence	sentence_12488
+12488_9	pobj	12488_7
+12488_9	has_surface_form	successor
+12488_10	is_in_sentence	sentence_12488
+12488_10	prep	12488_9
+12488_10	has_surface_form	to
+12488_11	is_in_sentence	sentence_12488
+12488_11	det	12488_14
+12488_11	has_surface_form	the
+12488_14	is_in_sentence	sentence_12488
+12488_14	pobj	12488_10
+12488_14	has_surface_form	laptops
+12488_14	part_of_entity	ThinkPad 600 laptops
+12488_12	is_in_sentence	sentence_12488
+12488_12	nmod	12488_14
+12488_12	has_surface_form	ThinkPad
+12488_12	part_of_entity	ThinkPad 600 laptops
+12488_13	is_in_sentence	sentence_12488
+12488_13	nummod	12488_14
+12488_13	has_surface_form	600
+12488_13	part_of_entity	ThinkPad 600 laptops
+12488_15	is_in_sentence	sentence_12488
+12488_15	punct	12488_4
+12488_15	has_surface_form	.
+12488_16	is_in_sentence	sentence_12488
+12488_16	ROOT	12488_16
+12488_16	has_surface_form	Despite
+12488_17	is_in_sentence	sentence_12488
+12488_17	det	12488_18
+12488_17	has_surface_form	the
+12488_18	is_in_sentence	sentence_12488
+12488_18	pobj	12488_16
+12488_18	has_surface_form	weight
+12488_19	is_in_sentence	sentence_12488
+12488_19	prep	12488_18
+12488_19	has_surface_form	of
+12488_20	is_in_sentence	sentence_12488
+12488_20	punct	12488_16
+12488_20	has_surface_form	.
+12488_21	is_in_sentence	sentence_12488
+12488_21	dep	12488_16
+12488_21	has_surface_form	
+ThinkPad 600 laptops	surface_form	ThinkPad 600 laptops

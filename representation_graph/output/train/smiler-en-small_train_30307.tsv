@@ -1,0 +1,110 @@
+30306_0	is_in_sentence	sentence_30306
+30306_0	compound	30306_1
+30306_0	has_surface_form	Life
+30306_1	is_in_sentence	sentence_30306
+30306_1	nsubj	30306_10
+30306_1	has_surface_form	expectancy
+30306_10	is_in_sentence	sentence_30306
+30306_10	ROOT	30306_10
+30306_10	has_surface_form	is
+30306_2	is_in_sentence	sentence_30306
+30306_2	prep	30306_1
+30306_2	has_surface_form	of
+30306_3	is_in_sentence	sentence_30306
+30306_3	det	30306_6
+30306_3	has_surface_form	the
+30306_6	is_in_sentence	sentence_30306
+30306_6	pobj	30306_2
+30306_6	has_surface_form	dolphin
+30306_6	part_of_entity	Amazon river dolphin
+30306_4	is_in_sentence	sentence_30306
+30306_4	compound	30306_6
+30306_4	has_surface_form	Amazon
+30306_4	part_of_entity	Amazon river dolphin
+30306_5	is_in_sentence	sentence_30306
+30306_5	compound	30306_6
+30306_5	has_surface_form	river
+30306_5	part_of_entity	Amazon river dolphin
+30306_7	is_in_sentence	sentence_30306
+30306_7	prep	30306_1
+30306_7	has_surface_form	in
+30306_8	is_in_sentence	sentence_30306
+30306_8	det	30306_9
+30306_8	has_surface_form	the
+30306_9	is_in_sentence	sentence_30306
+30306_9	pobj	30306_7
+30306_9	has_surface_form	wild
+30306_11	is_in_sentence	sentence_30306
+30306_11	acomp	30306_10
+30306_11	has_surface_form	unknown
+30306_12	is_in_sentence	sentence_30306
+30306_12	punct	30306_10
+30306_12	has_surface_form	,
+30306_13	is_in_sentence	sentence_30306
+30306_13	cc	30306_10
+30306_13	has_surface_form	but
+30306_14	is_in_sentence	sentence_30306
+30306_14	prep	30306_24
+30306_14	has_surface_form	in
+30306_24	is_in_sentence	sentence_30306
+30306_24	conj	30306_10
+30306_24	has_surface_form	recorded
+30306_15	is_in_sentence	sentence_30306
+30306_15	pobj	30306_14
+30306_15	has_surface_form	captivity
+30306_16	is_in_sentence	sentence_30306
+30306_16	punct	30306_24
+30306_16	has_surface_form	,
+30306_17	is_in_sentence	sentence_30306
+30306_17	det	30306_18
+30306_17	has_surface_form	the
+30306_18	is_in_sentence	sentence_30306
+30306_18	nsubjpass	30306_24
+30306_18	has_surface_form	longevity
+30306_19	is_in_sentence	sentence_30306
+30306_19	prep	30306_18
+30306_19	has_surface_form	of
+30306_20	is_in_sentence	sentence_30306
+30306_20	amod	30306_21
+30306_20	has_surface_form	healthy
+30306_21	is_in_sentence	sentence_30306
+30306_21	pobj	30306_19
+30306_21	has_surface_form	individuals
+30306_22	is_in_sentence	sentence_30306
+30306_22	aux	30306_24
+30306_22	has_surface_form	has
+30306_23	is_in_sentence	sentence_30306
+30306_23	auxpass	30306_24
+30306_23	has_surface_form	been
+30306_25	is_in_sentence	sentence_30306
+30306_25	prep	30306_24
+30306_25	has_surface_form	at
+30306_26	is_in_sentence	sentence_30306
+30306_26	quantmod	30306_27
+30306_26	has_surface_form	between
+30306_26	part_of_entity	between ten and thirty years
+30306_27	is_in_sentence	sentence_30306
+30306_27	nummod	30306_30
+30306_27	has_surface_form	ten
+30306_27	part_of_entity	between ten and thirty years
+30306_30	is_in_sentence	sentence_30306
+30306_30	pobj	30306_25
+30306_30	has_surface_form	years
+30306_30	part_of_entity	between ten and thirty years
+30306_28	is_in_sentence	sentence_30306
+30306_28	cc	30306_27
+30306_28	has_surface_form	and
+30306_28	part_of_entity	between ten and thirty years
+30306_29	is_in_sentence	sentence_30306
+30306_29	conj	30306_27
+30306_29	has_surface_form	thirty
+30306_29	part_of_entity	between ten and thirty years
+30306_31	is_in_sentence	sentence_30306
+30306_31	punct	30306_24
+30306_31	has_surface_form	.
+30306_32	is_in_sentence	sentence_30306
+30306_32	dep	30306_32
+30306_32	has_surface_form	
+Amazon river dolphin	surface_form	Amazon river dolphin
+Amazon river dolphin	has-lifespan	between ten and thirty years
+between ten and thirty years	surface_form	between ten and thirty years

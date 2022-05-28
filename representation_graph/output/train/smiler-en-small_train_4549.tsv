@@ -1,0 +1,58 @@
+4548_0	is_in_sentence	sentence_4548
+4548_0	compound	4548_1
+4548_0	has_surface_form	Andover
+4548_0	part_of_entity	Andover War Memorial Hospital
+4548_1	is_in_sentence	sentence_4548
+4548_1	compound	4548_3
+4548_1	has_surface_form	War
+4548_1	part_of_entity	Andover War Memorial Hospital
+4548_3	is_in_sentence	sentence_4548
+4548_3	nsubj	4548_7
+4548_3	has_surface_form	Hospital
+4548_3	part_of_entity	Andover War Memorial Hospital
+4548_2	is_in_sentence	sentence_4548
+4548_2	compound	4548_3
+4548_2	has_surface_form	Memorial
+4548_2	part_of_entity	Andover War Memorial Hospital
+4548_7	is_in_sentence	sentence_4548
+4548_7	ROOT	4548_7
+4548_7	has_surface_form	is
+4548_4	is_in_sentence	sentence_4548
+4548_4	punct	4548_3
+4548_4	has_surface_form	(
+4548_5	is_in_sentence	sentence_4548
+4548_5	appos	4548_3
+4548_5	has_surface_form	AWMH
+4548_6	is_in_sentence	sentence_4548
+4548_6	punct	4548_3
+4548_6	has_surface_form	)
+4548_8	is_in_sentence	sentence_4548
+4548_8	det	4548_10
+4548_8	has_surface_form	a
+4548_10	is_in_sentence	sentence_4548
+4548_10	attr	4548_7
+4548_10	is_entity	hospital
+4548_9	is_in_sentence	sentence_4548
+4548_9	compound	4548_10
+4548_9	has_surface_form	community
+hospital	surface_form	hospital
+4548_11	is_in_sentence	sentence_4548
+4548_11	prep	4548_10
+4548_11	has_surface_form	in
+4548_12	is_in_sentence	sentence_4548
+4548_12	pobj	4548_11
+4548_12	has_surface_form	Andover
+4548_13	is_in_sentence	sentence_4548
+4548_13	punct	4548_12
+4548_13	has_surface_form	,
+4548_14	is_in_sentence	sentence_4548
+4548_14	appos	4548_12
+4548_14	has_surface_form	Hampshire
+4548_15	is_in_sentence	sentence_4548
+4548_15	punct	4548_7
+4548_15	has_surface_form	.
+4548_16	is_in_sentence	sentence_4548
+4548_16	dep	4548_7
+4548_16	has_surface_form	
+Andover War Memorial Hospital	surface_form	Andover War Memorial Hospital
+Andover War Memorial Hospital	has-type	hospital

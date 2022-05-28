@@ -1,0 +1,64 @@
+25954_0	is_in_sentence	sentence_25954
+25954_0	compound	25954_1
+25954_0	has_surface_form	Azure
+25954_0	part_of_entity	Azure Ray
+25954_1	is_in_sentence	sentence_25954
+25954_1	nsubj	25954_2
+25954_1	has_surface_form	Ray
+25954_1	part_of_entity	Azure Ray
+25954_2	is_in_sentence	sentence_25954
+25954_2	ROOT	25954_2
+25954_2	has_surface_form	is
+25954_3	is_in_sentence	sentence_25954
+25954_3	det	25954_7
+25954_3	has_surface_form	an
+25954_7	is_in_sentence	sentence_25954
+25954_7	attr	25954_2
+25954_7	has_surface_form	duo
+25954_4	is_in_sentence	sentence_25954
+25954_4	amod	25954_7
+25954_4	has_surface_form	American
+25954_5	is_in_sentence	sentence_25954
+25954_5	compound	25954_6
+25954_5	has_surface_form	dream
+25954_6	is_in_sentence	sentence_25954
+25954_6	compound	25954_7
+25954_6	has_surface_form	pop
+25954_8	is_in_sentence	sentence_25954
+25954_8	punct	25954_7
+25954_8	has_surface_form	,
+25954_9	is_in_sentence	sentence_25954
+25954_9	acl	25954_7
+25954_9	has_surface_form	consisting
+25954_10	is_in_sentence	sentence_25954
+25954_10	prep	25954_9
+25954_10	has_surface_form	of
+25954_11	is_in_sentence	sentence_25954
+25954_11	pobj	25954_10
+25954_11	has_surface_form	musicians
+25954_12	is_in_sentence	sentence_25954
+25954_12	compound	25954_13
+25954_12	has_surface_form	Maria
+25954_12	part_of_entity	Maria Taylor
+25954_13	is_in_sentence	sentence_25954
+25954_13	appos	25954_11
+25954_13	has_surface_form	Taylor
+25954_13	part_of_entity	Maria Taylor
+25954_14	is_in_sentence	sentence_25954
+25954_14	cc	25954_13
+25954_14	has_surface_form	and
+25954_15	is_in_sentence	sentence_25954
+25954_15	compound	25954_16
+25954_15	has_surface_form	Orenda
+25954_16	is_in_sentence	sentence_25954
+25954_16	conj	25954_13
+25954_16	has_surface_form	Fink
+25954_17	is_in_sentence	sentence_25954
+25954_17	punct	25954_2
+25954_17	has_surface_form	.
+25954_18	is_in_sentence	sentence_25954
+25954_18	dep	25954_2
+25954_18	has_surface_form	
+Azure Ray	surface_form	Azure Ray
+Azure Ray	org-has-member	Maria Taylor
+Maria Taylor	surface_form	Maria Taylor

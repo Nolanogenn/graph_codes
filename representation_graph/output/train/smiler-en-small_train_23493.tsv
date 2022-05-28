@@ -1,0 +1,63 @@
+23492_0	is_in_sentence	sentence_23492
+23492_0	compound	23492_1
+23492_0	has_surface_form	North
+23492_0	part_of_entity	North Carolina Highway 7
+23492_1	is_in_sentence	sentence_23492
+23492_1	compound	23492_2
+23492_1	has_surface_form	Carolina
+23492_1	part_of_entity	North Carolina Highway 7
+23492_2	is_in_sentence	sentence_23492
+23492_2	nsubj	23492_9
+23492_2	has_surface_form	Highway
+23492_2	part_of_entity	North Carolina Highway 7
+23492_9	is_in_sentence	sentence_23492
+23492_9	ROOT	23492_9
+23492_9	has_surface_form	is
+23492_3	is_in_sentence	sentence_23492
+23492_3	nummod	23492_2
+23492_3	has_surface_form	7
+23492_3	part_of_entity	North Carolina Highway 7
+23492_4	is_in_sentence	sentence_23492
+23492_4	punct	23492_2
+23492_4	has_surface_form	(
+23492_5	is_in_sentence	sentence_23492
+23492_5	appos	23492_2
+23492_5	has_surface_form	NC
+23492_6	is_in_sentence	sentence_23492
+23492_6	dep	23492_5
+23492_6	has_surface_form	 
+23492_7	is_in_sentence	sentence_23492
+23492_7	nummod	23492_5
+23492_7	has_surface_form	7
+23492_8	is_in_sentence	sentence_23492
+23492_8	punct	23492_5
+23492_8	has_surface_form	)
+23492_10	is_in_sentence	sentence_23492
+23492_10	det	23492_13
+23492_10	has_surface_form	a
+23492_13	is_in_sentence	sentence_23492
+23492_13	attr	23492_9
+23492_13	has_surface_form	highway
+23492_13	part_of_entity	state highway
+23492_11	is_in_sentence	sentence_23492
+23492_11	amod	23492_13
+23492_11	has_surface_form	primary
+23492_12	is_in_sentence	sentence_23492
+23492_12	compound	23492_13
+23492_12	has_surface_form	state
+23492_12	part_of_entity	state highway
+23492_14	is_in_sentence	sentence_23492
+23492_14	prep	23492_13
+23492_14	has_surface_form	in
+23492_15	is_in_sentence	sentence_23492
+23492_15	det	23492_16
+23492_15	has_surface_form	the
+23492_16	is_in_sentence	sentence_23492
+23492_16	pobj	23492_14
+23492_16	has_surface_form	U.
+23492_17	is_in_sentence	sentence_23492
+23492_17	dep	23492_9
+23492_17	has_surface_form	
+North Carolina Highway 7	surface_form	North Carolina Highway 7
+North Carolina Highway 7	has-type	state highway
+state highway	surface_form	state highway

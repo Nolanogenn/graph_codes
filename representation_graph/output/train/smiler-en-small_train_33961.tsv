@@ -1,0 +1,56 @@
+33960_0	is_in_sentence	sentence_33960
+33960_0	compound	33960_1
+33960_0	has_surface_form	Alessia
+33960_0	part_of_entity	Alessia Filippi
+33960_1	is_in_sentence	sentence_33960
+33960_1	nsubj	33960_10
+33960_1	has_surface_form	Filippi
+33960_1	part_of_entity	Alessia Filippi
+33960_10	is_in_sentence	sentence_33960
+33960_10	ROOT	33960_10
+33960_10	has_surface_form	is
+33960_2	is_in_sentence	sentence_33960
+33960_2	punct	33960_3
+33960_2	has_surface_form	(
+33960_3	is_in_sentence	sentence_33960
+33960_3	acl	33960_1
+33960_3	has_surface_form	born
+33960_4	is_in_sentence	sentence_33960
+33960_4	npadvmod	33960_3
+33960_4	has_surface_form	23
+33960_5	is_in_sentence	sentence_33960
+33960_5	npadvmod	33960_3
+33960_5	has_surface_form	June
+33960_6	is_in_sentence	sentence_33960
+33960_6	nummod	33960_5
+33960_6	has_surface_form	1987
+33960_7	is_in_sentence	sentence_33960
+33960_7	prep	33960_3
+33960_7	has_surface_form	in
+33960_8	is_in_sentence	sentence_33960
+33960_8	pobj	33960_7
+33960_8	is_entity	Rome
+Rome	surface_form	Rome
+33960_9	is_in_sentence	sentence_33960
+33960_9	punct	33960_1
+33960_9	has_surface_form	)
+33960_11	is_in_sentence	sentence_33960
+33960_11	det	33960_14
+33960_11	has_surface_form	a
+33960_14	is_in_sentence	sentence_33960
+33960_14	attr	33960_10
+33960_14	has_surface_form	swimmer
+33960_12	is_in_sentence	sentence_33960
+33960_12	amod	33960_14
+33960_12	has_surface_form	retired
+33960_13	is_in_sentence	sentence_33960
+33960_13	amod	33960_14
+33960_13	has_surface_form	Italian
+33960_15	is_in_sentence	sentence_33960
+33960_15	punct	33960_10
+33960_15	has_surface_form	.
+33960_16	is_in_sentence	sentence_33960
+33960_16	dep	33960_10
+33960_16	has_surface_form	
+Alessia Filippi	surface_form	Alessia Filippi
+Alessia Filippi	birth-place	Rome

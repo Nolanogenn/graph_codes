@@ -1,0 +1,41 @@
+16601_0	is_in_sentence	sentence_16601
+16601_0	compound	16601_1
+16601_0	has_surface_form	Cooper
+16601_0	part_of_entity	Cooper Cronk
+16601_1	is_in_sentence	sentence_16601
+16601_1	nsubjpass	16601_3
+16601_1	has_surface_form	Cronk
+16601_1	part_of_entity	Cooper Cronk
+16601_3	is_in_sentence	sentence_16601
+16601_3	ROOT	16601_3
+16601_3	has_surface_form	born
+16601_2	is_in_sentence	sentence_16601
+16601_2	auxpass	16601_3
+16601_2	has_surface_form	was
+16601_4	is_in_sentence	sentence_16601
+16601_4	prep	16601_3
+16601_4	has_surface_form	in
+16601_5	is_in_sentence	sentence_16601
+16601_5	pobj	16601_4
+16601_5	is_entity	Brisbane
+Brisbane	surface_form	Brisbane
+16601_6	is_in_sentence	sentence_16601
+16601_6	punct	16601_5
+16601_6	has_surface_form	,
+16601_7	is_in_sentence	sentence_16601
+16601_7	conj	16601_5
+16601_7	has_surface_form	Queensland
+16601_8	is_in_sentence	sentence_16601
+16601_8	punct	16601_7
+16601_8	has_surface_form	,
+16601_9	is_in_sentence	sentence_16601
+16601_9	appos	16601_7
+16601_9	has_surface_form	Australia
+16601_10	is_in_sentence	sentence_16601
+16601_10	punct	16601_3
+16601_10	has_surface_form	.
+16601_11	is_in_sentence	sentence_16601
+16601_11	dep	16601_11
+16601_11	has_surface_form	
+Cooper Cronk	surface_form	Cooper Cronk
+Cooper Cronk	birth-place	Brisbane

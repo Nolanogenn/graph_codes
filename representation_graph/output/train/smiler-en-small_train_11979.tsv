@@ -1,0 +1,81 @@
+11978_0	is_in_sentence	sentence_11978
+11978_0	compound	11978_1
+11978_0	has_surface_form	Heavy
+11978_0	part_of_entity	Heavy Industries Taxila Education City University
+11978_1	is_in_sentence	sentence_11978
+11978_1	nmod	11978_5
+11978_1	has_surface_form	Industries
+11978_1	part_of_entity	Heavy Industries Taxila Education City University
+11978_5	is_in_sentence	sentence_11978
+11978_5	nsubj	11978_10
+11978_5	has_surface_form	University
+11978_5	part_of_entity	Heavy Industries Taxila Education City University
+11978_2	is_in_sentence	sentence_11978
+11978_2	compound	11978_4
+11978_2	has_surface_form	Taxila
+11978_2	part_of_entity	Heavy Industries Taxila Education City University
+11978_4	is_in_sentence	sentence_11978
+11978_4	compound	11978_5
+11978_4	has_surface_form	City
+11978_4	part_of_entity	Heavy Industries Taxila Education City University
+11978_3	is_in_sentence	sentence_11978
+11978_3	compound	11978_4
+11978_3	has_surface_form	Education
+11978_3	part_of_entity	Heavy Industries Taxila Education City University
+11978_10	is_in_sentence	sentence_11978
+11978_10	ROOT	11978_10
+11978_10	has_surface_form	is
+11978_6	is_in_sentence	sentence_11978
+11978_6	punct	11978_5
+11978_6	has_surface_form	(
+11978_7	is_in_sentence	sentence_11978
+11978_7	compound	11978_8
+11978_7	has_surface_form	HITEC
+11978_8	is_in_sentence	sentence_11978
+11978_8	appos	11978_5
+11978_8	has_surface_form	University
+11978_9	is_in_sentence	sentence_11978
+11978_9	punct	11978_5
+11978_9	has_surface_form	)
+11978_11	is_in_sentence	sentence_11978
+11978_11	det	11978_13
+11978_11	has_surface_form	a
+11978_13	is_in_sentence	sentence_11978
+11978_13	attr	11978_10
+11978_13	has_surface_form	university
+11978_12	is_in_sentence	sentence_11978
+11978_12	amod	11978_13
+11978_12	has_surface_form	private
+11978_14	is_in_sentence	sentence_11978
+11978_14	acl	11978_13
+11978_14	has_surface_form	located
+11978_15	is_in_sentence	sentence_11978
+11978_15	prep	11978_14
+11978_15	has_surface_form	in
+11978_16	is_in_sentence	sentence_11978
+11978_16	compound	11978_17
+11978_16	has_surface_form	Taxila
+11978_17	is_in_sentence	sentence_11978
+11978_17	pobj	11978_15
+11978_17	has_surface_form	Cantonment
+11978_18	is_in_sentence	sentence_11978
+11978_18	punct	11978_17
+11978_18	has_surface_form	,
+11978_19	is_in_sentence	sentence_11978
+11978_19	conj	11978_17
+11978_19	has_surface_form	Punjab
+11978_20	is_in_sentence	sentence_11978
+11978_20	punct	11978_19
+11978_20	has_surface_form	,
+11978_21	is_in_sentence	sentence_11978
+11978_21	npadvmod	11978_19
+11978_21	has_surface_form	Pakistan
+11978_22	is_in_sentence	sentence_11978
+11978_22	punct	11978_10
+11978_22	has_surface_form	.
+11978_23	is_in_sentence	sentence_11978
+11978_23	dep	11978_10
+11978_23	has_surface_form	
+Heavy Industries Taxila Education City University	surface_form	Heavy Industries Taxila Education City University
+Heavy Industries Taxila Education City University	is-where	Taxila Cantonment, Punjab, Pakistan
+Taxila Cantonment, Punjab, Pakistan	surface_form	Taxila Cantonment, Punjab, Pakistan

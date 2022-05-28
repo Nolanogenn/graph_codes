@@ -1,0 +1,83 @@
+506_0	is_in_sentence	sentence_506
+506_0	det	506_3
+506_0	has_surface_form	The
+506_3	is_in_sentence	sentence_506
+506_3	nsubj	506_6
+506_3	has_surface_form	School
+506_3	part_of_entity	Colne Community School and College
+506_1	is_in_sentence	sentence_506
+506_1	compound	506_3
+506_1	has_surface_form	Colne
+506_1	part_of_entity	Colne Community School and College
+506_2	is_in_sentence	sentence_506
+506_2	compound	506_3
+506_2	has_surface_form	Community
+506_2	part_of_entity	Colne Community School and College
+506_6	is_in_sentence	sentence_506
+506_6	ROOT	506_6
+506_6	has_surface_form	is
+506_4	is_in_sentence	sentence_506
+506_4	cc	506_3
+506_4	has_surface_form	and
+506_4	part_of_entity	Colne Community School and College
+506_5	is_in_sentence	sentence_506
+506_5	conj	506_3
+506_5	has_surface_form	College
+506_5	part_of_entity	Colne Community School and College
+506_7	is_in_sentence	sentence_506
+506_7	det	506_9
+506_7	has_surface_form	a
+506_9	is_in_sentence	sentence_506
+506_9	attr	506_6
+506_9	has_surface_form	school
+506_8	is_in_sentence	sentence_506
+506_8	amod	506_9
+506_8	has_surface_form	secondary
+506_10	is_in_sentence	sentence_506
+506_10	cc	506_9
+506_10	has_surface_form	and
+506_11	is_in_sentence	sentence_506
+506_11	amod	506_12
+506_11	has_surface_form	sixth
+506_12	is_in_sentence	sentence_506
+506_12	conj	506_9
+506_12	has_surface_form	form
+506_13	is_in_sentence	sentence_506
+506_13	prep	506_9
+506_13	has_surface_form	with
+506_14	is_in_sentence	sentence_506
+506_14	compound	506_15
+506_14	has_surface_form	academy
+506_15	is_in_sentence	sentence_506
+506_15	pobj	506_13
+506_15	has_surface_form	status
+506_16	is_in_sentence	sentence_506
+506_16	acl	506_15
+506_16	has_surface_form	located
+506_17	is_in_sentence	sentence_506
+506_17	prep	506_16
+506_17	has_surface_form	in
+506_18	is_in_sentence	sentence_506
+506_18	pobj	506_17
+506_18	is_entity	Brightlingsea
+Brightlingsea	surface_form	Brightlingsea
+506_19	is_in_sentence	sentence_506
+506_19	punct	506_18
+506_19	has_surface_form	,
+506_20	is_in_sentence	sentence_506
+506_20	conj	506_18
+506_20	has_surface_form	Essex
+506_21	is_in_sentence	sentence_506
+506_21	punct	506_20
+506_21	has_surface_form	,
+506_22	is_in_sentence	sentence_506
+506_22	conj	506_20
+506_22	has_surface_form	England
+506_23	is_in_sentence	sentence_506
+506_23	punct	506_6
+506_23	has_surface_form	.
+506_24	is_in_sentence	sentence_506
+506_24	dep	506_6
+506_24	has_surface_form	
+Colne Community School and College	surface_form	Colne Community School and College
+Colne Community School and College	is-where	Brightlingsea

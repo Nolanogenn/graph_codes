@@ -1,0 +1,98 @@
+10338_0	is_in_sentence	sentence_10338
+10338_0	det	10338_3
+10338_0	has_surface_form	The
+10338_3	is_in_sentence	sentence_10338
+10338_3	nsubj	10338_7
+10338_3	has_surface_form	Exchange
+10338_3	part_of_entity	World Stock Exchange
+10338_1	is_in_sentence	sentence_10338
+10338_1	compound	10338_3
+10338_1	has_surface_form	World
+10338_1	part_of_entity	World Stock Exchange
+10338_2	is_in_sentence	sentence_10338
+10338_2	compound	10338_3
+10338_2	has_surface_form	Stock
+10338_2	part_of_entity	World Stock Exchange
+10338_7	is_in_sentence	sentence_10338
+10338_7	ROOT	10338_7
+10338_7	has_surface_form	was
+10338_4	is_in_sentence	sentence_10338
+10338_4	punct	10338_5
+10338_4	has_surface_form	(
+10338_5	is_in_sentence	sentence_10338
+10338_5	appos	10338_3
+10338_5	has_surface_form	WSE
+10338_6	is_in_sentence	sentence_10338
+10338_6	punct	10338_5
+10338_6	has_surface_form	)
+10338_8	is_in_sentence	sentence_10338
+10338_8	det	10338_11
+10338_8	has_surface_form	a
+10338_11	is_in_sentence	sentence_10338
+10338_11	attr	10338_7
+10338_11	has_surface_form	exchange
+10338_9	is_in_sentence	sentence_10338
+10338_9	amod	10338_10
+10338_9	has_surface_form	virtual
+10338_10	is_in_sentence	sentence_10338
+10338_10	compound	10338_11
+10338_10	has_surface_form	stock
+10338_12	is_in_sentence	sentence_10338
+10338_12	acl	10338_11
+10338_12	has_surface_form	created
+10338_13	is_in_sentence	sentence_10338
+10338_13	compound	10338_15
+10338_13	has_surface_form	Hope
+10338_15	is_in_sentence	sentence_10338
+10338_15	dobj	10338_12
+10338_15	has_surface_form	Pty
+10338_14	is_in_sentence	sentence_10338
+10338_14	compound	10338_15
+10338_14	has_surface_form	Capital
+10338_16	is_in_sentence	sentence_10338
+10338_16	appos	10338_11
+10338_16	has_surface_form	.
+10338_17	is_in_sentence	sentence_10338
+10338_17	prep	10338_16
+10338_17	has_surface_form	of
+10338_18	is_in_sentence	sentence_10338
+10338_18	pobj	10338_17
+10338_18	has_surface_form	Melbourne
+10338_19	is_in_sentence	sentence_10338
+10338_19	punct	10338_18
+10338_19	has_surface_form	,
+10338_20	is_in_sentence	sentence_10338
+10338_20	conj	10338_18
+10338_20	has_surface_form	Australia
+10338_21	is_in_sentence	sentence_10338
+10338_21	cc	10338_7
+10338_21	has_surface_form	and
+10338_22	is_in_sentence	sentence_10338
+10338_22	conj	10338_7
+10338_22	has_surface_form	managed
+10338_23	is_in_sentence	sentence_10338
+10338_23	agent	10338_22
+10338_23	has_surface_form	by
+10338_24	is_in_sentence	sentence_10338
+10338_24	pobj	10338_23
+10338_24	has_surface_form	CEO
+10338_25	is_in_sentence	sentence_10338
+10338_25	punct	10338_24
+10338_25	has_surface_form	,
+10338_26	is_in_sentence	sentence_10338
+10338_26	compound	10338_27
+10338_26	has_surface_form	Luke
+10338_26	part_of_entity	Luke Connell
+10338_27	is_in_sentence	sentence_10338
+10338_27	appos	10338_24
+10338_27	has_surface_form	Connell
+10338_27	part_of_entity	Luke Connell
+10338_28	is_in_sentence	sentence_10338
+10338_28	punct	10338_7
+10338_28	has_surface_form	.
+10338_29	is_in_sentence	sentence_10338
+10338_29	dep	10338_7
+10338_29	has_surface_form	
+World Stock Exchange	surface_form	World Stock Exchange
+World Stock Exchange	org-leader	Luke Connell
+Luke Connell	surface_form	Luke Connell

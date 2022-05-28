@@ -1,0 +1,76 @@
+8804_0	is_in_sentence	sentence_8804
+8804_0	compound	8804_1
+8804_0	has_surface_form	Mannavan
+8804_0	part_of_entity	Mannavan Vanthaanadi
+8804_1	is_in_sentence	sentence_8804
+8804_1	nsubj	8804_10
+8804_1	has_surface_form	Vanthaanadi
+8804_1	part_of_entity	Mannavan Vanthaanadi
+8804_10	is_in_sentence	sentence_8804
+8804_10	ROOT	8804_10
+8804_10	has_surface_form	is
+8804_2	is_in_sentence	sentence_8804
+8804_2	punct	8804_3
+8804_2	has_surface_form	(
+8804_3	is_in_sentence	sentence_8804
+8804_3	appos	8804_1
+8804_3	has_surface_form	English
+8804_4	is_in_sentence	sentence_8804
+8804_4	punct	8804_3
+8804_4	has_surface_form	:
+8804_5	is_in_sentence	sentence_8804
+8804_5	det	8804_6
+8804_5	has_surface_form	The
+8804_6	is_in_sentence	sentence_8804
+8804_6	nsubj	8804_8
+8804_6	has_surface_form	King
+8804_8	is_in_sentence	sentence_8804
+8804_8	appos	8804_1
+8804_8	has_surface_form	Arrived
+8804_7	is_in_sentence	sentence_8804
+8804_7	aux	8804_8
+8804_7	has_surface_form	Has
+8804_9	is_in_sentence	sentence_8804
+8804_9	punct	8804_8
+8804_9	has_surface_form	)
+8804_11	is_in_sentence	sentence_8804
+8804_11	det	8804_15
+8804_11	has_surface_form	a
+8804_15	is_in_sentence	sentence_8804
+8804_15	attr	8804_10
+8804_15	has_surface_form	film
+8804_12	is_in_sentence	sentence_8804
+8804_12	nummod	8804_15
+8804_12	has_surface_form	1975
+8804_13	is_in_sentence	sentence_8804
+8804_13	amod	8804_14
+8804_13	has_surface_form	Indian
+8804_14	is_in_sentence	sentence_8804
+8804_14	compound	8804_15
+8804_14	has_surface_form	Tamil
+8804_16	is_in_sentence	sentence_8804
+8804_16	punct	8804_15
+8804_16	has_surface_form	,
+8804_17	is_in_sentence	sentence_8804
+8804_17	acl	8804_15
+8804_17	has_surface_form	directed
+8804_18	is_in_sentence	sentence_8804
+8804_18	agent	8804_17
+8804_18	has_surface_form	by
+8804_19	is_in_sentence	sentence_8804
+8804_19	compound	8804_20
+8804_19	has_surface_form	P.
+8804_19	part_of_entity	P. Madhavan
+8804_20	is_in_sentence	sentence_8804
+8804_20	pobj	8804_18
+8804_20	has_surface_form	Madhavan
+8804_20	part_of_entity	P. Madhavan
+8804_21	is_in_sentence	sentence_8804
+8804_21	punct	8804_10
+8804_21	has_surface_form	.
+8804_22	is_in_sentence	sentence_8804
+8804_22	dep	8804_10
+8804_22	has_surface_form	
+Mannavan Vanthaanadi	surface_form	Mannavan Vanthaanadi
+Mannavan Vanthaanadi	movie-has-director	P. Madhavan
+P. Madhavan	surface_form	P. Madhavan

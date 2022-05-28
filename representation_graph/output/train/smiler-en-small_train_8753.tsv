@@ -1,0 +1,50 @@
+8752_0	is_in_sentence	sentence_8752
+8752_0	compound	8752_1
+8752_0	has_surface_form	Wivenhoe
+8752_0	part_of_entity	Wivenhoe Pocket
+8752_1	is_in_sentence	sentence_8752
+8752_1	nsubj	8752_2
+8752_1	has_surface_form	Pocket
+8752_1	part_of_entity	Wivenhoe Pocket
+8752_2	is_in_sentence	sentence_8752
+8752_2	ROOT	8752_2
+8752_2	has_surface_form	is
+8752_3	is_in_sentence	sentence_8752
+8752_3	det	8752_5
+8752_3	has_surface_form	a
+8752_5	is_in_sentence	sentence_8752
+8752_5	attr	8752_2
+8752_5	is_entity	suburb
+8752_4	is_in_sentence	sentence_8752
+8752_4	amod	8752_5
+8752_4	has_surface_form	rural
+suburb	surface_form	suburb
+8752_6	is_in_sentence	sentence_8752
+8752_6	prep	8752_5
+8752_6	has_surface_form	of
+8752_7	is_in_sentence	sentence_8752
+8752_7	compound	8752_8
+8752_7	has_surface_form	Somerset
+8752_8	is_in_sentence	sentence_8752
+8752_8	pobj	8752_6
+8752_8	has_surface_form	Region
+8752_9	is_in_sentence	sentence_8752
+8752_9	punct	8752_8
+8752_9	has_surface_form	,
+8752_10	is_in_sentence	sentence_8752
+8752_10	conj	8752_8
+8752_10	has_surface_form	Queensland
+8752_11	is_in_sentence	sentence_8752
+8752_11	punct	8752_10
+8752_11	has_surface_form	,
+8752_12	is_in_sentence	sentence_8752
+8752_12	appos	8752_10
+8752_12	has_surface_form	Australia
+8752_13	is_in_sentence	sentence_8752
+8752_13	punct	8752_2
+8752_13	has_surface_form	.
+8752_14	is_in_sentence	sentence_8752
+8752_14	dep	8752_2
+8752_14	has_surface_form	
+Wivenhoe Pocket	surface_form	Wivenhoe Pocket
+Wivenhoe Pocket	has-type	suburb

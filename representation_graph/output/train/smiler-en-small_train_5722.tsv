@@ -1,0 +1,62 @@
+5721_0	is_in_sentence	sentence_5721
+5721_0	compound	5721_1
+5721_0	has_surface_form	Doug
+5721_0	part_of_entity	Doug Barfield
+5721_1	is_in_sentence	sentence_5721
+5721_1	nsubj	5721_9
+5721_1	has_surface_form	Barfield
+5721_1	part_of_entity	Doug Barfield
+5721_9	is_in_sentence	sentence_5721
+5721_9	ROOT	5721_9
+5721_9	has_surface_form	is
+5721_2	is_in_sentence	sentence_5721
+5721_2	punct	5721_1
+5721_2	has_surface_form	(
+5721_3	is_in_sentence	sentence_5721
+5721_3	acl	5721_1
+5721_3	has_surface_form	born
+5721_4	is_in_sentence	sentence_5721
+5721_4	npadvmod	5721_3
+5721_4	has_surface_form	March
+5721_5	is_in_sentence	sentence_5721
+5721_5	nummod	5721_4
+5721_5	has_surface_form	14
+5721_6	is_in_sentence	sentence_5721
+5721_6	punct	5721_4
+5721_6	has_surface_form	,
+5721_7	is_in_sentence	sentence_5721
+5721_7	nummod	5721_4
+5721_7	has_surface_form	1936
+5721_8	is_in_sentence	sentence_5721
+5721_8	punct	5721_1
+5721_8	has_surface_form	)
+5721_10	is_in_sentence	sentence_5721
+5721_10	det	5721_14
+5721_10	has_surface_form	a
+5721_14	is_in_sentence	sentence_5721
+5721_14	attr	5721_9
+5721_14	has_surface_form	player
+5721_11	is_in_sentence	sentence_5721
+5721_11	amod	5721_14
+5721_11	has_surface_form	former
+5721_12	is_in_sentence	sentence_5721
+5721_12	amod	5721_14
+5721_12	has_surface_form	American
+5721_13	is_in_sentence	sentence_5721
+5721_13	compound	5721_14
+5721_13	has_surface_form	football
+5721_15	is_in_sentence	sentence_5721
+5721_15	cc	5721_14
+5721_15	has_surface_form	and
+5721_16	is_in_sentence	sentence_5721
+5721_16	conj	5721_14
+5721_16	is_entity	coach
+coach	surface_form	coach
+5721_17	is_in_sentence	sentence_5721
+5721_17	punct	5721_9
+5721_17	has_surface_form	.
+5721_18	is_in_sentence	sentence_5721
+5721_18	dep	5721_18
+5721_18	has_surface_form	
+Doug Barfield	surface_form	Doug Barfield
+Doug Barfield	has-type	coach

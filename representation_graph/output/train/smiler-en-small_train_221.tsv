@@ -1,0 +1,50 @@
+220_0	is_in_sentence	sentence_220
+220_0	compound	220_1
+220_0	has_surface_form	Cerro
+220_0	part_of_entity	Cerro Negro
+220_1	is_in_sentence	sentence_220
+220_1	nsubj	220_6
+220_1	has_surface_form	Negro
+220_1	part_of_entity	Cerro Negro
+220_6	is_in_sentence	sentence_220
+220_6	ROOT	220_6
+220_6	has_surface_form	is
+220_2	is_in_sentence	sentence_220
+220_2	punct	220_1
+220_2	has_surface_form	(
+220_3	is_in_sentence	sentence_220
+220_3	nummod	220_4
+220_3	has_surface_form	2000
+220_4	is_in_sentence	sentence_220
+220_4	appos	220_1
+220_4	has_surface_form	m.
+220_5	is_in_sentence	sentence_220
+220_5	punct	220_1
+220_5	has_surface_form	)
+220_7	is_in_sentence	sentence_220
+220_7	det	220_9
+220_7	has_surface_form	the
+220_9	is_in_sentence	sentence_220
+220_9	attr	220_6
+220_9	has_surface_form	mountain
+220_8	is_in_sentence	sentence_220
+220_8	amod	220_9
+220_8	has_surface_form	highest
+220_10	is_in_sentence	sentence_220
+220_10	prep	220_9
+220_10	has_surface_form	of
+220_11	is_in_sentence	sentence_220
+220_11	compound	220_12
+220_11	is_entity	Monagas
+220_12	is_in_sentence	sentence_220
+220_12	pobj	220_10
+220_12	has_surface_form	State
+Monagas	surface_form	Monagas
+Monagas	has-highest-mountain	Cerro Negro
+220_13	is_in_sentence	sentence_220
+220_13	punct	220_6
+220_13	has_surface_form	.
+220_14	is_in_sentence	sentence_220
+220_14	dep	220_6
+220_14	has_surface_form	
+Cerro Negro	surface_form	Cerro Negro

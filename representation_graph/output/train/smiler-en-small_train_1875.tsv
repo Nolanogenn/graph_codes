@@ -1,0 +1,83 @@
+1874_0	is_in_sentence	sentence_1874
+1874_0	amod	1874_1
+1874_0	has_surface_form	Scottish
+1874_1	is_in_sentence	sentence_1874
+1874_1	compound	1874_3
+1874_1	has_surface_form	inventor
+1874_3	is_in_sentence	sentence_1874
+1874_3	nsubj	1874_4
+1874_3	has_surface_form	Bain
+1874_3	part_of_entity	Alexander Bain
+1874_2	is_in_sentence	sentence_1874
+1874_2	compound	1874_3
+1874_2	has_surface_form	Alexander
+1874_2	part_of_entity	Alexander Bain
+1874_4	is_in_sentence	sentence_1874
+1874_4	ROOT	1874_4
+1874_4	has_surface_form	worked
+1874_5	is_in_sentence	sentence_1874
+1874_5	prep	1874_4
+1874_5	has_surface_form	on
+1874_6	is_in_sentence	sentence_1874
+1874_6	amod	1874_10
+1874_6	has_surface_form	chemical
+1874_10	is_in_sentence	sentence_1874
+1874_10	pobj	1874_5
+1874_10	has_surface_form	devices
+1874_10	part_of_entity	fax type devices
+1874_7	is_in_sentence	sentence_1874
+1874_7	amod	1874_10
+1874_7	has_surface_form	mechanical
+1874_8	is_in_sentence	sentence_1874
+1874_8	compound	1874_9
+1874_8	has_surface_form	fax
+1874_8	part_of_entity	fax type devices
+1874_9	is_in_sentence	sentence_1874
+1874_9	compound	1874_10
+1874_9	has_surface_form	type
+1874_9	part_of_entity	fax type devices
+1874_11	is_in_sentence	sentence_1874
+1874_11	cc	1874_4
+1874_11	has_surface_form	and
+1874_12	is_in_sentence	sentence_1874
+1874_12	prep	1874_14
+1874_12	has_surface_form	in
+1874_14	is_in_sentence	sentence_1874
+1874_14	conj	1874_4
+1874_14	has_surface_form	was
+1874_13	is_in_sentence	sentence_1874
+1874_13	pobj	1874_12
+1874_13	has_surface_form	1846
+1874_15	is_in_sentence	sentence_1874
+1874_15	acomp	1874_14
+1874_15	has_surface_form	able
+1874_16	is_in_sentence	sentence_1874
+1874_16	aux	1874_17
+1874_16	has_surface_form	to
+1874_17	is_in_sentence	sentence_1874
+1874_17	xcomp	1874_15
+1874_17	has_surface_form	reproduce
+1874_18	is_in_sentence	sentence_1874
+1874_18	amod	1874_19
+1874_18	has_surface_form	graphic
+1874_19	is_in_sentence	sentence_1874
+1874_19	dobj	1874_17
+1874_19	has_surface_form	signs
+1874_20	is_in_sentence	sentence_1874
+1874_20	prep	1874_19
+1874_20	has_surface_form	in
+1874_21	is_in_sentence	sentence_1874
+1874_21	compound	1874_22
+1874_21	has_surface_form	laboratory
+1874_22	is_in_sentence	sentence_1874
+1874_22	pobj	1874_20
+1874_22	has_surface_form	experiments
+1874_23	is_in_sentence	sentence_1874
+1874_23	punct	1874_14
+1874_23	has_surface_form	.
+1874_24	is_in_sentence	sentence_1874
+1874_24	dep	1874_4
+1874_24	has_surface_form	
+fax type devices	surface_form	fax type devices
+fax type devices	invented-by	Alexander Bain
+Alexander Bain	surface_form	Alexander Bain

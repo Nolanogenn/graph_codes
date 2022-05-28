@@ -1,0 +1,94 @@
+299_0	is_in_sentence	sentence_299
+299_0	compound	299_1
+299_0	has_surface_form	Marc
+299_0	part_of_entity	Marc Lambron
+299_1	is_in_sentence	sentence_299
+299_1	nsubj	299_10
+299_1	has_surface_form	Lambron
+299_1	part_of_entity	Marc Lambron
+299_10	is_in_sentence	sentence_299
+299_10	ROOT	299_10
+299_10	has_surface_form	is
+299_2	is_in_sentence	sentence_299
+299_2	punct	299_1
+299_2	has_surface_form	(
+299_3	is_in_sentence	sentence_299
+299_3	acl	299_1
+299_3	has_surface_form	born
+299_4	is_in_sentence	sentence_299
+299_4	nummod	299_5
+299_4	has_surface_form	4
+299_5	is_in_sentence	sentence_299
+299_5	npadvmod	299_3
+299_5	has_surface_form	February
+299_6	is_in_sentence	sentence_299
+299_6	nummod	299_5
+299_6	has_surface_form	1957
+299_7	is_in_sentence	sentence_299
+299_7	prep	299_3
+299_7	has_surface_form	in
+299_8	is_in_sentence	sentence_299
+299_8	pobj	299_7
+299_8	has_surface_form	Lyon
+299_9	is_in_sentence	sentence_299
+299_9	punct	299_1
+299_9	has_surface_form	)
+299_11	is_in_sentence	sentence_299
+299_11	det	299_13
+299_11	has_surface_form	a
+299_13	is_in_sentence	sentence_299
+299_13	attr	299_10
+299_13	has_surface_form	writer
+299_12	is_in_sentence	sentence_299
+299_12	amod	299_13
+299_12	has_surface_form	French
+299_14	is_in_sentence	sentence_299
+299_14	cc	299_13
+299_14	has_surface_form	and
+299_15	is_in_sentence	sentence_299
+299_15	conj	299_13
+299_15	has_surface_form	winner
+299_16	is_in_sentence	sentence_299
+299_16	prep	299_13
+299_16	has_surface_form	of
+299_17	is_in_sentence	sentence_299
+299_17	det	299_19
+299_17	has_surface_form	the
+299_19	is_in_sentence	sentence_299
+299_19	pobj	299_16
+299_19	has_surface_form	Femina
+299_19	part_of_entity	Prix Femina
+299_18	is_in_sentence	sentence_299
+299_18	compound	299_19
+299_18	has_surface_form	Prix
+299_18	part_of_entity	Prix Femina
+299_20	is_in_sentence	sentence_299
+299_20	punct	299_19
+299_20	has_surface_form	,
+299_21	is_in_sentence	sentence_299
+299_21	appos	299_19
+299_21	has_surface_form	1993
+299_22	is_in_sentence	sentence_299
+299_22	punct	299_19
+299_22	has_surface_form	,
+299_23	is_in_sentence	sentence_299
+299_23	prep	299_10
+299_23	has_surface_form	for
+299_24	is_in_sentence	sentence_299
+299_24	compound	299_26
+299_24	has_surface_form	L'Oeil
+299_26	is_in_sentence	sentence_299
+299_26	pobj	299_23
+299_26	has_surface_form	silence
+299_25	is_in_sentence	sentence_299
+299_25	compound	299_26
+299_25	has_surface_form	du
+299_27	is_in_sentence	sentence_299
+299_27	punct	299_10
+299_27	has_surface_form	.
+299_28	is_in_sentence	sentence_299
+299_28	dep	299_28
+299_28	has_surface_form	
+Marc Lambron	surface_form	Marc Lambron
+Marc Lambron	won-award	Prix Femina
+Prix Femina	surface_form	Prix Femina

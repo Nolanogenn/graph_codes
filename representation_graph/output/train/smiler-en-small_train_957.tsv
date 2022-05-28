@@ -1,0 +1,65 @@
+956_0	is_in_sentence	sentence_956
+956_0	compound	956_1
+956_0	has_surface_form	Mexican
+956_1	is_in_sentence	sentence_956
+956_1	poss	956_3
+956_1	has_surface_form	Spitfire
+956_3	is_in_sentence	sentence_956
+956_3	nsubj	956_4
+956_3	has_surface_form	Elephant
+956_2	is_in_sentence	sentence_956
+956_2	case	956_1
+956_2	has_surface_form	's
+956_4	is_in_sentence	sentence_956
+956_4	ROOT	956_4
+956_4	has_surface_form	is
+956_5	is_in_sentence	sentence_956
+956_5	det	956_9
+956_5	has_surface_form	a
+956_9	is_in_sentence	sentence_956
+956_9	attr	956_4
+956_9	has_surface_form	film
+956_6	is_in_sentence	sentence_956
+956_6	nummod	956_9
+956_6	has_surface_form	1942
+956_7	is_in_sentence	sentence_956
+956_7	amod	956_9
+956_7	has_surface_form	American
+956_8	is_in_sentence	sentence_956
+956_8	compound	956_9
+956_8	has_surface_form	comedy
+956_10	is_in_sentence	sentence_956
+956_10	acl	956_9
+956_10	has_surface_form	directed
+956_11	is_in_sentence	sentence_956
+956_11	agent	956_10
+956_11	has_surface_form	by
+956_12	is_in_sentence	sentence_956
+956_12	compound	956_13
+956_12	has_surface_form	Leslie
+956_12	part_of_entity	Leslie Goodwins
+956_13	is_in_sentence	sentence_956
+956_13	pobj	956_11
+956_13	has_surface_form	Goodwins
+956_13	part_of_entity	Leslie Goodwins
+956_14	is_in_sentence	sentence_956
+956_14	cc	956_10
+956_14	has_surface_form	and
+956_15	is_in_sentence	sentence_956
+956_15	conj	956_10
+956_15	has_surface_form	written
+956_16	is_in_sentence	sentence_956
+956_16	agent	956_15
+956_16	has_surface_form	by
+956_17	is_in_sentence	sentence_956
+956_17	compound	956_19
+956_17	has_surface_form	Charles
+956_19	is_in_sentence	sentence_956
+956_19	dep	956_16
+956_19	has_surface_form	
+956_18	is_in_sentence	sentence_956
+956_18	compound	956_19
+956_18	has_surface_form	E.
+Mexican Spitfire's Elephant	surface_form	Mexican Spitfire's Elephant
+Mexican Spitfire's Elephant	movie-has-director	Leslie Goodwins
+Leslie Goodwins	surface_form	Leslie Goodwins

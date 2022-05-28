@@ -1,0 +1,50 @@
+20569_0	is_in_sentence	sentence_20569
+20569_0	compound	20569_1
+20569_0	has_surface_form	William
+20569_0	part_of_entity	William Benbow
+20569_1	is_in_sentence	sentence_20569
+20569_1	nsubj	20569_8
+20569_1	has_surface_form	Benbow
+20569_1	part_of_entity	William Benbow
+20569_8	is_in_sentence	sentence_20569
+20569_8	ROOT	20569_8
+20569_8	has_surface_form	emigrated
+20569_2	is_in_sentence	sentence_20569
+20569_2	punct	20569_1
+20569_2	has_surface_form	,
+20569_3	is_in_sentence	sentence_20569
+20569_3	poss	20569_4
+20569_3	has_surface_form	his
+20569_4	is_in_sentence	sentence_20569
+20569_4	appos	20569_1
+20569_4	has_surface_form	wife
+20569_5	is_in_sentence	sentence_20569
+20569_5	cc	20569_4
+20569_5	has_surface_form	and
+20569_6	is_in_sentence	sentence_20569
+20569_6	conj	20569_4
+20569_6	has_surface_form	son
+20569_7	is_in_sentence	sentence_20569
+20569_7	conj	20569_4
+20569_7	is_entity	George
+George	surface_form	George
+20569_9	is_in_sentence	sentence_20569
+20569_9	prep	20569_8
+20569_9	has_surface_form	to
+20569_10	is_in_sentence	sentence_20569
+20569_10	pobj	20569_9
+20569_10	has_surface_form	Australia
+20569_11	is_in_sentence	sentence_20569
+20569_11	prep	20569_8
+20569_11	has_surface_form	around
+20569_12	is_in_sentence	sentence_20569
+20569_12	pobj	20569_11
+20569_12	has_surface_form	1853
+20569_13	is_in_sentence	sentence_20569
+20569_13	punct	20569_8
+20569_13	has_surface_form	.
+20569_14	is_in_sentence	sentence_20569
+20569_14	dep	20569_14
+20569_14	has_surface_form	
+William Benbow	surface_form	William Benbow
+William Benbow	has-child	George

@@ -1,0 +1,74 @@
+371_0	is_in_sentence	sentence_371
+371_0	nsubj	371_3
+371_0	has_surface_form	Stars
+371_0	part_of_entity	Stars Over Broadway
+371_3	is_in_sentence	sentence_371
+371_3	ROOT	371_3
+371_3	has_surface_form	is
+371_1	is_in_sentence	sentence_371
+371_1	prep	371_0
+371_1	has_surface_form	Over
+371_1	part_of_entity	Stars Over Broadway
+371_2	is_in_sentence	sentence_371
+371_2	pobj	371_1
+371_2	has_surface_form	Broadway
+371_2	part_of_entity	Stars Over Broadway
+371_4	is_in_sentence	sentence_371
+371_4	det	371_8
+371_4	has_surface_form	a
+371_8	is_in_sentence	sentence_371
+371_8	attr	371_3
+371_8	has_surface_form	film
+371_5	is_in_sentence	sentence_371
+371_5	nummod	371_8
+371_5	has_surface_form	1935
+371_6	is_in_sentence	sentence_371
+371_6	amod	371_8
+371_6	has_surface_form	American
+371_7	is_in_sentence	sentence_371
+371_7	amod	371_8
+371_7	has_surface_form	musical
+371_9	is_in_sentence	sentence_371
+371_9	acl	371_8
+371_9	has_surface_form	directed
+371_10	is_in_sentence	sentence_371
+371_10	agent	371_9
+371_10	has_surface_form	by
+371_11	is_in_sentence	sentence_371
+371_11	compound	371_12
+371_11	has_surface_form	William
+371_11	part_of_entity	William Keighley
+371_12	is_in_sentence	sentence_371
+371_12	pobj	371_10
+371_12	has_surface_form	Keighley
+371_12	part_of_entity	William Keighley
+371_13	is_in_sentence	sentence_371
+371_13	punct	371_12
+371_13	has_surface_form	,
+371_14	is_in_sentence	sentence_371
+371_14	acl	371_12
+371_14	has_surface_form	written
+371_15	is_in_sentence	sentence_371
+371_15	agent	371_14
+371_15	has_surface_form	by
+371_16	is_in_sentence	sentence_371
+371_16	compound	371_17
+371_16	has_surface_form	Jerry
+371_17	is_in_sentence	sentence_371
+371_17	pobj	371_15
+371_17	has_surface_form	Wald
+371_18	is_in_sentence	sentence_371
+371_18	punct	371_17
+371_18	has_surface_form	,
+371_19	is_in_sentence	sentence_371
+371_19	compound	371_20
+371_19	has_surface_form	Julius
+371_20	is_in_sentence	sentence_371
+371_20	appos	371_17
+371_20	has_surface_form	J.
+371_21	is_in_sentence	sentence_371
+371_21	dep	371_17
+371_21	has_surface_form	
+Stars Over Broadway	surface_form	Stars Over Broadway
+Stars Over Broadway	movie-has-director	William Keighley
+William Keighley	surface_form	William Keighley

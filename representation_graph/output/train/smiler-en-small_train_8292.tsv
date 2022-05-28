@@ -1,0 +1,83 @@
+8291_0	is_in_sentence	sentence_8291
+8291_0	compound	8291_1
+8291_0	has_surface_form	Phillip
+8291_0	part_of_entity	Phillip Margolin
+8291_1	is_in_sentence	sentence_8291
+8291_1	nsubj	8291_6
+8291_1	has_surface_form	Margolin
+8291_1	part_of_entity	Phillip Margolin
+8291_6	is_in_sentence	sentence_8291
+8291_6	ROOT	8291_6
+8291_6	has_surface_form	is
+8291_2	is_in_sentence	sentence_8291
+8291_2	punct	8291_1
+8291_2	has_surface_form	(
+8291_3	is_in_sentence	sentence_8291
+8291_3	acl	8291_1
+8291_3	has_surface_form	born
+8291_4	is_in_sentence	sentence_8291
+8291_4	npadvmod	8291_3
+8291_4	has_surface_form	1944
+8291_5	is_in_sentence	sentence_8291
+8291_5	punct	8291_1
+8291_5	has_surface_form	)
+8291_7	is_in_sentence	sentence_8291
+8291_7	det	8291_9
+8291_7	has_surface_form	an
+8291_9	is_in_sentence	sentence_8291
+8291_9	attr	8291_6
+8291_9	has_surface_form	writer
+8291_8	is_in_sentence	sentence_8291
+8291_8	amod	8291_9
+8291_8	has_surface_form	American
+8291_10	is_in_sentence	sentence_8291
+8291_10	prep	8291_9
+8291_10	has_surface_form	of
+8291_11	is_in_sentence	sentence_8291
+8291_11	amod	8291_12
+8291_11	has_surface_form	legal
+8291_12	is_in_sentence	sentence_8291
+8291_12	pobj	8291_10
+8291_12	has_surface_form	thrillers
+8291_13	is_in_sentence	sentence_8291
+8291_13	punct	8291_6
+8291_13	has_surface_form	.
+8291_14	is_in_sentence	sentence_8291
+8291_14	nsubjpass	8291_16
+8291_14	has_surface_form	Margolin
+8291_16	is_in_sentence	sentence_8291
+8291_16	ROOT	8291_16
+8291_16	has_surface_form	born
+8291_15	is_in_sentence	sentence_8291
+8291_15	auxpass	8291_16
+8291_15	has_surface_form	was
+8291_17	is_in_sentence	sentence_8291
+8291_17	prep	8291_16
+8291_17	has_surface_form	in
+8291_18	is_in_sentence	sentence_8291
+8291_18	compound	8291_19
+8291_18	has_surface_form	New
+8291_18	part_of_entity	New York City
+8291_19	is_in_sentence	sentence_8291
+8291_19	compound	8291_20
+8291_19	has_surface_form	York
+8291_19	part_of_entity	New York City
+8291_20	is_in_sentence	sentence_8291
+8291_20	pobj	8291_17
+8291_20	has_surface_form	City
+8291_20	part_of_entity	New York City
+8291_21	is_in_sentence	sentence_8291
+8291_21	prep	8291_16
+8291_21	has_surface_form	in
+8291_22	is_in_sentence	sentence_8291
+8291_22	pobj	8291_21
+8291_22	has_surface_form	1944
+8291_23	is_in_sentence	sentence_8291
+8291_23	punct	8291_16
+8291_23	has_surface_form	.
+8291_24	is_in_sentence	sentence_8291
+8291_24	dep	8291_24
+8291_24	has_surface_form	
+Phillip Margolin	surface_form	Phillip Margolin
+Phillip Margolin	birth-place	New York City
+New York City	surface_form	New York City

@@ -1,0 +1,101 @@
+11606_0	is_in_sentence	sentence_11606
+11606_0	nummod	11606_2
+11606_0	has_surface_form	12
+11606_0	part_of_entity	12 Golden Ducks
+11606_2	is_in_sentence	sentence_11606
+11606_2	nsubj	11606_14
+11606_2	has_surface_form	Ducks
+11606_2	part_of_entity	12 Golden Ducks
+11606_1	is_in_sentence	sentence_11606
+11606_1	compound	11606_2
+11606_1	has_surface_form	Golden
+11606_1	part_of_entity	12 Golden Ducks
+11606_14	is_in_sentence	sentence_11606
+11606_14	ROOT	11606_14
+11606_14	has_surface_form	is
+11606_3	is_in_sentence	sentence_11606
+11606_3	punct	11606_2
+11606_3	has_surface_form	(
+11606_4	is_in_sentence	sentence_11606
+11606_4	amod	11606_5
+11606_4	has_surface_form	simplified
+11606_5	is_in_sentence	sentence_11606
+11606_5	appos	11606_2
+11606_5	has_surface_form	Chinese
+11606_6	is_in_sentence	sentence_11606
+11606_6	punct	11606_5
+11606_6	has_surface_form	:
+11606_7	is_in_sentence	sentence_11606
+11606_7	appos	11606_5
+11606_7	has_surface_form	12金鸭
+11606_8	is_in_sentence	sentence_11606
+11606_8	punct	11606_5
+11606_8	has_surface_form	;
+11606_9	is_in_sentence	sentence_11606
+11606_9	amod	11606_10
+11606_9	has_surface_form	traditional
+11606_10	is_in_sentence	sentence_11606
+11606_10	appos	11606_2
+11606_10	has_surface_form	Chinese
+11606_11	is_in_sentence	sentence_11606
+11606_11	punct	11606_10
+11606_11	has_surface_form	:
+11606_12	is_in_sentence	sentence_11606
+11606_12	appos	11606_10
+11606_12	has_surface_form	12金鴨
+11606_13	is_in_sentence	sentence_11606
+11606_13	punct	11606_10
+11606_13	has_surface_form	)
+11606_15	is_in_sentence	sentence_11606
+11606_15	det	11606_20
+11606_15	has_surface_form	a
+11606_20	is_in_sentence	sentence_11606
+11606_20	attr	11606_14
+11606_20	has_surface_form	film
+11606_16	is_in_sentence	sentence_11606
+11606_16	nummod	11606_20
+11606_16	has_surface_form	2015
+11606_17	is_in_sentence	sentence_11606
+11606_17	compound	11606_18
+11606_17	has_surface_form	Hong
+11606_18	is_in_sentence	sentence_11606
+11606_18	compound	11606_20
+11606_18	has_surface_form	Kong
+11606_19	is_in_sentence	sentence_11606
+11606_19	compound	11606_20
+11606_19	has_surface_form	comedy
+11606_21	is_in_sentence	sentence_11606
+11606_21	acl	11606_20
+11606_21	has_surface_form	directed
+11606_22	is_in_sentence	sentence_11606
+11606_22	agent	11606_21
+11606_22	has_surface_form	by
+11606_23	is_in_sentence	sentence_11606
+11606_23	compound	11606_24
+11606_23	has_surface_form	Matt
+11606_23	part_of_entity	Matt Chow
+11606_24	is_in_sentence	sentence_11606
+11606_24	pobj	11606_22
+11606_24	has_surface_form	Chow
+11606_24	part_of_entity	Matt Chow
+11606_25	is_in_sentence	sentence_11606
+11606_25	cc	11606_21
+11606_25	has_surface_form	and
+11606_26	is_in_sentence	sentence_11606
+11606_26	conj	11606_21
+11606_26	has_surface_form	starring
+11606_27	is_in_sentence	sentence_11606
+11606_27	compound	11606_28
+11606_27	has_surface_form	Sandra
+11606_28	is_in_sentence	sentence_11606
+11606_28	dobj	11606_26
+11606_28	has_surface_form	Ng
+11606_29	is_in_sentence	sentence_11606
+11606_29	punct	11606_14
+11606_29	has_surface_form	.
+11606_30	is_in_sentence	sentence_11606
+11606_30	dep	11606_14
+11606_30	has_surface_form	
+12 Golden Ducks	surface_form	12 Golden Ducks
+12 Golden Ducks	movie-has-director	Matt Chow
+Matt Chow	surface_form	Matt Chow

@@ -1,0 +1,55 @@
+27855_0	is_in_sentence	sentence_27855
+27855_0	compound	27855_1
+27855_0	has_surface_form	John
+27855_0	part_of_entity	John Stiegelmeier
+27855_1	is_in_sentence	sentence_27855
+27855_1	nsubj	27855_9
+27855_1	has_surface_form	Stiegelmeier
+27855_1	part_of_entity	John Stiegelmeier
+27855_9	is_in_sentence	sentence_27855
+27855_9	ROOT	27855_9
+27855_9	has_surface_form	is
+27855_2	is_in_sentence	sentence_27855
+27855_2	punct	27855_1
+27855_2	has_surface_form	(
+27855_3	is_in_sentence	sentence_27855
+27855_3	acl	27855_1
+27855_3	has_surface_form	born
+27855_4	is_in_sentence	sentence_27855
+27855_4	npadvmod	27855_3
+27855_4	has_surface_form	February
+27855_5	is_in_sentence	sentence_27855
+27855_5	nummod	27855_4
+27855_5	has_surface_form	7
+27855_6	is_in_sentence	sentence_27855
+27855_6	punct	27855_4
+27855_6	has_surface_form	,
+27855_7	is_in_sentence	sentence_27855
+27855_7	nummod	27855_4
+27855_7	has_surface_form	1957
+27855_8	is_in_sentence	sentence_27855
+27855_8	punct	27855_1
+27855_8	has_surface_form	)
+27855_10	is_in_sentence	sentence_27855
+27855_10	det	27855_13
+27855_10	has_surface_form	an
+27855_13	is_in_sentence	sentence_27855
+27855_13	attr	27855_9
+27855_13	has_surface_form	coach
+27855_13	part_of_entity	football coach
+27855_11	is_in_sentence	sentence_27855
+27855_11	amod	27855_13
+27855_11	has_surface_form	American
+27855_12	is_in_sentence	sentence_27855
+27855_12	compound	27855_13
+27855_12	has_surface_form	football
+27855_12	part_of_entity	football coach
+27855_14	is_in_sentence	sentence_27855
+27855_14	punct	27855_9
+27855_14	has_surface_form	.
+27855_15	is_in_sentence	sentence_27855
+27855_15	dep	27855_15
+27855_15	has_surface_form	
+John Stiegelmeier	surface_form	John Stiegelmeier
+John Stiegelmeier	has-type	football coach
+football coach	surface_form	football coach

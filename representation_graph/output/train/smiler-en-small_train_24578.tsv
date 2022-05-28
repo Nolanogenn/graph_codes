@@ -1,0 +1,45 @@
+24577_0	is_in_sentence	sentence_24577
+24577_0	compound	24577_1
+24577_0	is_entity	Cosmetics
+24577_1	is_in_sentence	sentence_24577
+24577_1	compound	24577_4
+24577_1	has_surface_form	company
+Cosmetics	surface_form	Cosmetics
+Cosmetics	no_relation	Hans Schwarzkopf GmbH
+24577_4	is_in_sentence	sentence_24577
+24577_4	nsubjpass	24577_6
+24577_4	has_surface_form	GmbH
+24577_4	part_of_entity	Hans Schwarzkopf GmbH
+24577_2	is_in_sentence	sentence_24577
+24577_2	compound	24577_4
+24577_2	has_surface_form	Hans
+24577_2	part_of_entity	Hans Schwarzkopf GmbH
+24577_3	is_in_sentence	sentence_24577
+24577_3	compound	24577_4
+24577_3	has_surface_form	Schwarzkopf
+24577_3	part_of_entity	Hans Schwarzkopf GmbH
+24577_6	is_in_sentence	sentence_24577
+24577_6	ROOT	24577_6
+24577_6	has_surface_form	acquired
+24577_5	is_in_sentence	sentence_24577
+24577_5	auxpass	24577_6
+24577_5	has_surface_form	was
+24577_7	is_in_sentence	sentence_24577
+24577_7	agent	24577_6
+24577_7	has_surface_form	by
+24577_8	is_in_sentence	sentence_24577
+24577_8	pobj	24577_7
+24577_8	has_surface_form	Henkel
+24577_9	is_in_sentence	sentence_24577
+24577_9	prep	24577_6
+24577_9	has_surface_form	in
+24577_10	is_in_sentence	sentence_24577
+24577_10	pobj	24577_9
+24577_10	has_surface_form	1995
+24577_11	is_in_sentence	sentence_24577
+24577_11	punct	24577_6
+24577_11	has_surface_form	.
+24577_12	is_in_sentence	sentence_24577
+24577_12	dep	24577_12
+24577_12	has_surface_form	
+Hans Schwarzkopf GmbH	surface_form	Hans Schwarzkopf GmbH

@@ -1,0 +1,73 @@
+13350_0	is_in_sentence	sentence_13350
+13350_0	compound	13350_1
+13350_0	has_surface_form	Gypsy
+13350_0	part_of_entity	Gypsy Lore
+13350_1	is_in_sentence	sentence_13350
+13350_1	nsubj	13350_10
+13350_1	has_surface_form	Lore
+13350_1	part_of_entity	Gypsy Lore
+13350_10	is_in_sentence	sentence_13350
+13350_10	ROOT	13350_10
+13350_10	has_surface_form	is
+13350_2	is_in_sentence	sentence_13350
+13350_2	punct	13350_1
+13350_2	has_surface_form	(
+13350_3	is_in_sentence	sentence_13350
+13350_3	appos	13350_1
+13350_3	has_surface_form	Hungarian
+13350_4	is_in_sentence	sentence_13350
+13350_4	punct	13350_1
+13350_4	has_surface_form	:
+13350_5	is_in_sentence	sentence_13350
+13350_5	compound	13350_8
+13350_5	has_surface_form	Romani
+13350_8	is_in_sentence	sentence_13350
+13350_8	appos	13350_1
+13350_8	has_surface_form	Cigánytörvény
+13350_6	is_in_sentence	sentence_13350
+13350_6	compound	13350_8
+13350_6	has_surface_form	kris
+13350_7	is_in_sentence	sentence_13350
+13350_7	punct	13350_8
+13350_7	has_surface_form	-
+13350_9	is_in_sentence	sentence_13350
+13350_9	punct	13350_1
+13350_9	has_surface_form	)
+13350_11	is_in_sentence	sentence_13350
+13350_11	det	13350_15
+13350_11	has_surface_form	a
+13350_15	is_in_sentence	sentence_13350
+13350_15	attr	13350_10
+13350_15	has_surface_form	film
+13350_12	is_in_sentence	sentence_13350
+13350_12	nummod	13350_15
+13350_12	has_surface_form	1997
+13350_13	is_in_sentence	sentence_13350
+13350_13	amod	13350_15
+13350_13	has_surface_form	Hungarian
+13350_14	is_in_sentence	sentence_13350
+13350_14	compound	13350_15
+13350_14	has_surface_form	drama
+13350_16	is_in_sentence	sentence_13350
+13350_16	acl	13350_15
+13350_16	has_surface_form	directed
+13350_17	is_in_sentence	sentence_13350
+13350_17	agent	13350_16
+13350_17	has_surface_form	by
+13350_18	is_in_sentence	sentence_13350
+13350_18	compound	13350_19
+13350_18	has_surface_form	Bence
+13350_18	part_of_entity	Bence Gyöngyössy
+13350_19	is_in_sentence	sentence_13350
+13350_19	pobj	13350_17
+13350_19	has_surface_form	Gyöngyössy
+13350_19	part_of_entity	Bence Gyöngyössy
+13350_20	is_in_sentence	sentence_13350
+13350_20	punct	13350_10
+13350_20	has_surface_form	.
+13350_21	is_in_sentence	sentence_13350
+13350_21	dep	13350_10
+13350_21	has_surface_form	
+Gypsy Lore	surface_form	Gypsy Lore
+Gypsy Lore	movie-has-director	Bence Gyöngyössy
+Bence Gyöngyössy	surface_form	Bence Gyöngyössy

@@ -1,0 +1,65 @@
+30865_0	is_in_sentence	sentence_30865
+30865_0	compound	30865_1
+30865_0	has_surface_form	Vyto
+30865_0	part_of_entity	Vyto Ruginis
+30865_1	is_in_sentence	sentence_30865
+30865_1	nsubj	30865_12
+30865_1	has_surface_form	Ruginis
+30865_1	part_of_entity	Vyto Ruginis
+30865_12	is_in_sentence	sentence_30865
+30865_12	ROOT	30865_12
+30865_12	has_surface_form	is
+30865_2	is_in_sentence	sentence_30865
+30865_2	punct	30865_1
+30865_2	has_surface_form	(
+30865_3	is_in_sentence	sentence_30865
+30865_3	amod	30865_5
+30865_3	has_surface_form	born
+30865_5	is_in_sentence	sentence_30865
+30865_5	appos	30865_1
+30865_5	has_surface_form	Ruginis
+30865_4	is_in_sentence	sentence_30865
+30865_4	compound	30865_5
+30865_4	has_surface_form	Vytautas
+30865_6	is_in_sentence	sentence_30865
+30865_6	punct	30865_5
+30865_6	has_surface_form	;
+30865_7	is_in_sentence	sentence_30865
+30865_7	appos	30865_1
+30865_7	has_surface_form	April
+30865_8	is_in_sentence	sentence_30865
+30865_8	nummod	30865_7
+30865_8	has_surface_form	17
+30865_9	is_in_sentence	sentence_30865
+30865_9	punct	30865_7
+30865_9	has_surface_form	,
+30865_10	is_in_sentence	sentence_30865
+30865_10	nummod	30865_7
+30865_10	has_surface_form	1956
+30865_11	is_in_sentence	sentence_30865
+30865_11	punct	30865_7
+30865_11	has_surface_form	)
+30865_13	is_in_sentence	sentence_30865
+30865_13	det	30865_15
+30865_13	has_surface_form	an
+30865_15	is_in_sentence	sentence_30865
+30865_15	attr	30865_12
+30865_15	is_entity	actor
+30865_14	is_in_sentence	sentence_30865
+30865_14	amod	30865_15
+30865_14	has_surface_form	American
+actor	surface_form	actor
+30865_16	is_in_sentence	sentence_30865
+30865_16	cc	30865_15
+30865_16	has_surface_form	and
+30865_17	is_in_sentence	sentence_30865
+30865_17	conj	30865_15
+30865_17	has_surface_form	producer
+30865_18	is_in_sentence	sentence_30865
+30865_18	punct	30865_12
+30865_18	has_surface_form	.
+30865_19	is_in_sentence	sentence_30865
+30865_19	dep	30865_19
+30865_19	has_surface_form	
+Vyto Ruginis	surface_form	Vyto Ruginis
+Vyto Ruginis	has-occupation	actor

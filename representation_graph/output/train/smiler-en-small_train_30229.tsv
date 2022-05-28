@@ -1,0 +1,61 @@
+30228_0	is_in_sentence	sentence_30228
+30228_0	compound	30228_1
+30228_0	has_surface_form	Centennial
+30228_0	part_of_entity	Centennial Collegiate
+30228_1	is_in_sentence	sentence_30228
+30228_1	nsubj	30228_2
+30228_1	has_surface_form	Collegiate
+30228_1	part_of_entity	Centennial Collegiate
+30228_2	is_in_sentence	sentence_30228
+30228_2	ROOT	30228_2
+30228_2	has_surface_form	is
+30228_3	is_in_sentence	sentence_30228
+30228_3	det	30228_5
+30228_3	has_surface_form	a
+30228_5	is_in_sentence	sentence_30228
+30228_5	attr	30228_2
+30228_5	has_surface_form	school
+30228_5	part_of_entity	secondary school
+30228_4	is_in_sentence	sentence_30228
+30228_4	amod	30228_5
+30228_4	has_surface_form	secondary
+30228_4	part_of_entity	secondary school
+30228_6	is_in_sentence	sentence_30228
+30228_6	acl	30228_5
+30228_6	has_surface_form	located
+30228_7	is_in_sentence	sentence_30228
+30228_7	prep	30228_6
+30228_7	has_surface_form	on
+30228_8	is_in_sentence	sentence_30228
+30228_8	compound	30228_9
+30228_8	has_surface_form	Nelson
+30228_9	is_in_sentence	sentence_30228
+30228_9	pobj	30228_7
+30228_9	has_surface_form	Road
+30228_10	is_in_sentence	sentence_30228
+30228_10	prep	30228_6
+30228_10	has_surface_form	in
+30228_11	is_in_sentence	sentence_30228
+30228_11	pobj	30228_10
+30228_11	has_surface_form	Saskatoon
+30228_12	is_in_sentence	sentence_30228
+30228_12	punct	30228_5
+30228_12	has_surface_form	,
+30228_13	is_in_sentence	sentence_30228
+30228_13	appos	30228_5
+30228_13	has_surface_form	Saskatchewan
+30228_14	is_in_sentence	sentence_30228
+30228_14	punct	30228_13
+30228_14	has_surface_form	,
+30228_15	is_in_sentence	sentence_30228
+30228_15	npadvmod	30228_13
+30228_15	has_surface_form	Canada
+30228_16	is_in_sentence	sentence_30228
+30228_16	punct	30228_2
+30228_16	has_surface_form	.
+30228_17	is_in_sentence	sentence_30228
+30228_17	dep	30228_2
+30228_17	has_surface_form	
+Centennial Collegiate	surface_form	Centennial Collegiate
+Centennial Collegiate	has-type	secondary school
+secondary school	surface_form	secondary school

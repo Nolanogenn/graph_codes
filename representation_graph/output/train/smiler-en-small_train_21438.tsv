@@ -1,0 +1,56 @@
+21437_0	is_in_sentence	sentence_21437
+21437_0	compound	21437_1
+21437_0	has_surface_form	Kay
+21437_0	part_of_entity	Kay Hooper
+21437_1	is_in_sentence	sentence_21437
+21437_1	nsubj	21437_2
+21437_1	has_surface_form	Hooper
+21437_1	part_of_entity	Kay Hooper
+21437_2	is_in_sentence	sentence_21437
+21437_2	ROOT	21437_2
+21437_2	has_surface_form	is
+21437_3	is_in_sentence	sentence_21437
+21437_3	det	21437_6
+21437_3	has_surface_form	a
+21437_6	is_in_sentence	sentence_21437
+21437_6	attr	21437_2
+21437_6	has_surface_form	Times
+21437_4	is_in_sentence	sentence_21437
+21437_4	compound	21437_5
+21437_4	has_surface_form	New
+21437_5	is_in_sentence	sentence_21437
+21437_5	compound	21437_6
+21437_5	has_surface_form	York
+21437_7	is_in_sentence	sentence_21437
+21437_7	acl	21437_6
+21437_7	has_surface_form	bestselling
+21437_8	is_in_sentence	sentence_21437
+21437_8	amod	21437_9
+21437_8	has_surface_form	American
+21437_9	is_in_sentence	sentence_21437
+21437_9	dobj	21437_7
+21437_9	is_entity	author
+author	surface_form	author
+21437_10	is_in_sentence	sentence_21437
+21437_10	prep	21437_9
+21437_10	has_surface_form	of
+21437_11	is_in_sentence	sentence_21437
+21437_11	amod	21437_13
+21437_11	has_surface_form	more
+21437_13	is_in_sentence	sentence_21437
+21437_13	nummod	21437_14
+21437_13	has_surface_form	60
+21437_12	is_in_sentence	sentence_21437
+21437_12	quantmod	21437_13
+21437_12	has_surface_form	than
+21437_14	is_in_sentence	sentence_21437
+21437_14	pobj	21437_10
+21437_14	has_surface_form	books
+21437_15	is_in_sentence	sentence_21437
+21437_15	punct	21437_2
+21437_15	has_surface_form	.
+21437_16	is_in_sentence	sentence_21437
+21437_16	dep	21437_2
+21437_16	has_surface_form	
+Kay Hooper	surface_form	Kay Hooper
+Kay Hooper	has-type	author

@@ -1,0 +1,58 @@
+30811_0	is_in_sentence	sentence_30811
+30811_0	compound	30811_1
+30811_0	has_surface_form	François
+30811_0	part_of_entity	François Bausch
+30811_1	is_in_sentence	sentence_30811
+30811_1	nsubj	30811_11
+30811_1	has_surface_form	Bausch
+30811_1	part_of_entity	François Bausch
+30811_11	is_in_sentence	sentence_30811
+30811_11	ROOT	30811_11
+30811_11	has_surface_form	is
+30811_2	is_in_sentence	sentence_30811
+30811_2	punct	30811_3
+30811_2	has_surface_form	(
+30811_3	is_in_sentence	sentence_30811
+30811_3	relcl	30811_1
+30811_3	has_surface_form	born
+30811_4	is_in_sentence	sentence_30811
+30811_4	npadvmod	30811_3
+30811_4	has_surface_form	16
+30811_5	is_in_sentence	sentence_30811
+30811_5	npadvmod	30811_3
+30811_5	has_surface_form	October
+30811_6	is_in_sentence	sentence_30811
+30811_6	nummod	30811_5
+30811_6	has_surface_form	1956
+30811_7	is_in_sentence	sentence_30811
+30811_7	prep	30811_3
+30811_7	has_surface_form	in
+30811_8	is_in_sentence	sentence_30811
+30811_8	compound	30811_9
+30811_8	has_surface_form	Luxembourg
+30811_8	part_of_entity	Luxembourg City
+30811_9	is_in_sentence	sentence_30811
+30811_9	pobj	30811_7
+30811_9	has_surface_form	City
+30811_9	part_of_entity	Luxembourg City
+30811_10	is_in_sentence	sentence_30811
+30811_10	punct	30811_1
+30811_10	has_surface_form	)
+30811_12	is_in_sentence	sentence_30811
+30811_12	det	30811_14
+30811_12	has_surface_form	a
+30811_14	is_in_sentence	sentence_30811
+30811_14	attr	30811_11
+30811_14	has_surface_form	politician
+30811_13	is_in_sentence	sentence_30811
+30811_13	amod	30811_14
+30811_13	has_surface_form	Luxembourgish
+30811_15	is_in_sentence	sentence_30811
+30811_15	punct	30811_11
+30811_15	has_surface_form	.
+30811_16	is_in_sentence	sentence_30811
+30811_16	dep	30811_11
+30811_16	has_surface_form	
+François Bausch	surface_form	François Bausch
+François Bausch	birth-place	Luxembourg City
+Luxembourg City	surface_form	Luxembourg City

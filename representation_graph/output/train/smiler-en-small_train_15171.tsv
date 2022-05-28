@@ -1,0 +1,73 @@
+15170_0	is_in_sentence	sentence_15170
+15170_0	compound	15170_1
+15170_0	has_surface_form	Alex
+15170_0	part_of_entity	Alex Chandon
+15170_1	is_in_sentence	sentence_15170
+15170_1	nsubj	15170_11
+15170_1	has_surface_form	Chandon
+15170_1	part_of_entity	Alex Chandon
+15170_11	is_in_sentence	sentence_15170
+15170_11	ROOT	15170_11
+15170_11	has_surface_form	is
+15170_2	is_in_sentence	sentence_15170
+15170_2	punct	15170_1
+15170_2	has_surface_form	(
+15170_3	is_in_sentence	sentence_15170
+15170_3	acl	15170_1
+15170_3	has_surface_form	born
+15170_4	is_in_sentence	sentence_15170
+15170_4	nummod	15170_5
+15170_4	has_surface_form	3
+15170_5	is_in_sentence	sentence_15170
+15170_5	npadvmod	15170_3
+15170_5	has_surface_form	November
+15170_6	is_in_sentence	sentence_15170
+15170_6	nummod	15170_5
+15170_6	has_surface_form	1968
+15170_7	is_in_sentence	sentence_15170
+15170_7	prep	15170_3
+15170_7	has_surface_form	in
+15170_8	is_in_sentence	sentence_15170
+15170_8	compound	15170_9
+15170_8	has_surface_form	North
+15170_9	is_in_sentence	sentence_15170
+15170_9	pobj	15170_7
+15170_9	has_surface_form	London
+15170_10	is_in_sentence	sentence_15170
+15170_10	punct	15170_1
+15170_10	has_surface_form	)
+15170_12	is_in_sentence	sentence_15170
+15170_12	det	15170_14
+15170_12	has_surface_form	a
+15170_14	is_in_sentence	sentence_15170
+15170_14	attr	15170_11
+15170_14	has_surface_form	director
+15170_13	is_in_sentence	sentence_15170
+15170_13	compound	15170_14
+15170_13	has_surface_form	film
+15170_15	is_in_sentence	sentence_15170
+15170_15	punct	15170_14
+15170_15	has_surface_form	,
+15170_16	is_in_sentence	sentence_15170
+15170_16	conj	15170_14
+15170_16	has_surface_form	writer
+15170_17	is_in_sentence	sentence_15170
+15170_17	cc	15170_16
+15170_17	has_surface_form	and
+15170_18	is_in_sentence	sentence_15170
+15170_18	amod	15170_19
+15170_18	has_surface_form	digital
+15170_18	part_of_entity	digital artist
+15170_19	is_in_sentence	sentence_15170
+15170_19	conj	15170_16
+15170_19	has_surface_form	artist
+15170_19	part_of_entity	digital artist
+15170_20	is_in_sentence	sentence_15170
+15170_20	punct	15170_11
+15170_20	has_surface_form	.
+15170_21	is_in_sentence	sentence_15170
+15170_21	dep	15170_11
+15170_21	has_surface_form	
+Alex Chandon	surface_form	Alex Chandon
+Alex Chandon	has-occupation	digital artist
+digital artist	surface_form	digital artist

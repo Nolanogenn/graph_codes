@@ -1,0 +1,65 @@
+9288_0	is_in_sentence	sentence_9288
+9288_0	det	9288_1
+9288_0	has_surface_form	The
+9288_1	is_in_sentence	sentence_9288
+9288_1	poss	9288_3
+9288_1	is_entity	telautograph
+9288_3	is_in_sentence	sentence_9288
+9288_3	nsubjpass	9288_5
+9288_3	has_surface_form	invention
+telautograph	surface_form	telautograph
+telautograph	invented-by	Elisha Gray
+9288_2	is_in_sentence	sentence_9288
+9288_2	case	9288_1
+9288_2	has_surface_form	's
+9288_5	is_in_sentence	sentence_9288
+9288_5	ROOT	9288_5
+9288_5	has_surface_form	attributed
+9288_4	is_in_sentence	sentence_9288
+9288_4	auxpass	9288_5
+9288_4	has_surface_form	is
+9288_6	is_in_sentence	sentence_9288
+9288_6	prep	9288_5
+9288_6	has_surface_form	to
+9288_7	is_in_sentence	sentence_9288
+9288_7	compound	9288_8
+9288_7	has_surface_form	Elisha
+9288_7	part_of_entity	Elisha Gray
+9288_8	is_in_sentence	sentence_9288
+9288_8	pobj	9288_6
+9288_8	has_surface_form	Gray
+9288_8	part_of_entity	Elisha Gray
+9288_9	is_in_sentence	sentence_9288
+9288_9	punct	9288_8
+9288_9	has_surface_form	,
+9288_10	is_in_sentence	sentence_9288
+9288_10	nsubj	9288_11
+9288_10	has_surface_form	who
+9288_11	is_in_sentence	sentence_9288
+9288_11	relcl	9288_8
+9288_11	has_surface_form	patented
+9288_12	is_in_sentence	sentence_9288
+9288_12	dobj	9288_11
+9288_12	has_surface_form	it
+9288_13	is_in_sentence	sentence_9288
+9288_13	prep	9288_11
+9288_13	has_surface_form	on
+9288_14	is_in_sentence	sentence_9288
+9288_14	pobj	9288_13
+9288_14	has_surface_form	July
+9288_15	is_in_sentence	sentence_9288
+9288_15	nummod	9288_14
+9288_15	has_surface_form	31
+9288_16	is_in_sentence	sentence_9288
+9288_16	punct	9288_14
+9288_16	has_surface_form	,
+9288_17	is_in_sentence	sentence_9288
+9288_17	appos	9288_14
+9288_17	has_surface_form	1888
+9288_18	is_in_sentence	sentence_9288
+9288_18	punct	9288_5
+9288_18	has_surface_form	.
+9288_19	is_in_sentence	sentence_9288
+9288_19	dep	9288_19
+9288_19	has_surface_form	
+Elisha Gray	surface_form	Elisha Gray

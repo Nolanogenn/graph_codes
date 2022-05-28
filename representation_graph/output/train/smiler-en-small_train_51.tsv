@@ -1,0 +1,92 @@
+50_0	is_in_sentence	sentence_50
+50_0	nsubj	50_3
+50_0	has_surface_form	Adventure
+50_0	part_of_entity	Adventure in Diamonds
+50_3	is_in_sentence	sentence_50
+50_3	ROOT	50_3
+50_3	has_surface_form	is
+50_1	is_in_sentence	sentence_50
+50_1	prep	50_0
+50_1	has_surface_form	in
+50_1	part_of_entity	Adventure in Diamonds
+50_2	is_in_sentence	sentence_50
+50_2	pobj	50_1
+50_2	has_surface_form	Diamonds
+50_2	part_of_entity	Adventure in Diamonds
+50_4	is_in_sentence	sentence_50
+50_4	det	50_8
+50_4	has_surface_form	a
+50_8	is_in_sentence	sentence_50
+50_8	attr	50_3
+50_8	has_surface_form	film
+50_5	is_in_sentence	sentence_50
+50_5	nummod	50_8
+50_5	has_surface_form	1940
+50_6	is_in_sentence	sentence_50
+50_6	amod	50_8
+50_6	has_surface_form	American
+50_7	is_in_sentence	sentence_50
+50_7	compound	50_8
+50_7	has_surface_form	crime
+50_9	is_in_sentence	sentence_50
+50_9	acl	50_8
+50_9	has_surface_form	directed
+50_10	is_in_sentence	sentence_50
+50_10	agent	50_9
+50_10	has_surface_form	by
+50_11	is_in_sentence	sentence_50
+50_11	compound	50_12
+50_11	has_surface_form	George
+50_12	is_in_sentence	sentence_50
+50_12	pobj	50_10
+50_12	has_surface_form	Fitzmaurice
+50_13	is_in_sentence	sentence_50
+50_13	cc	50_9
+50_13	has_surface_form	and
+50_14	is_in_sentence	sentence_50
+50_14	conj	50_9
+50_14	has_surface_form	starring
+50_15	is_in_sentence	sentence_50
+50_15	compound	50_16
+50_15	has_surface_form	George
+50_16	is_in_sentence	sentence_50
+50_16	dobj	50_14
+50_16	has_surface_form	Brent
+50_17	is_in_sentence	sentence_50
+50_17	punct	50_16
+50_17	has_surface_form	,
+50_18	is_in_sentence	sentence_50
+50_18	compound	50_19
+50_18	has_surface_form	Isa
+50_19	is_in_sentence	sentence_50
+50_19	appos	50_16
+50_19	has_surface_form	Miranda
+50_20	is_in_sentence	sentence_50
+50_20	punct	50_19
+50_20	has_surface_form	,
+50_21	is_in_sentence	sentence_50
+50_21	compound	50_22
+50_21	has_surface_form	John
+50_22	is_in_sentence	sentence_50
+50_22	conj	50_19
+50_22	has_surface_form	Loder
+50_23	is_in_sentence	sentence_50
+50_23	cc	50_22
+50_23	has_surface_form	and
+50_24	is_in_sentence	sentence_50
+50_24	compound	50_25
+50_24	has_surface_form	Nigel
+50_24	part_of_entity	Nigel Bruce
+50_25	is_in_sentence	sentence_50
+50_25	conj	50_22
+50_25	has_surface_form	Bruce
+50_25	part_of_entity	Nigel Bruce
+50_26	is_in_sentence	sentence_50
+50_26	punct	50_3
+50_26	has_surface_form	.
+50_27	is_in_sentence	sentence_50
+50_27	dep	50_27
+50_27	has_surface_form	
+Adventure in Diamonds	surface_form	Adventure in Diamonds
+Adventure in Diamonds	starring	Nigel Bruce
+Nigel Bruce	surface_form	Nigel Bruce

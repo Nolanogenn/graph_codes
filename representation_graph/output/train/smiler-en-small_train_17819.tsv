@@ -1,0 +1,59 @@
+17818_0	is_in_sentence	sentence_17818
+17818_0	compound	17818_1
+17818_0	has_surface_form	Garrett
+17818_0	part_of_entity	Garrett Smith
+17818_1	is_in_sentence	sentence_17818
+17818_1	nsubj	17818_13
+17818_1	has_surface_form	Smith
+17818_1	part_of_entity	Garrett Smith
+17818_13	is_in_sentence	sentence_17818
+17818_13	ROOT	17818_13
+17818_13	has_surface_form	is
+17818_2	is_in_sentence	sentence_17818
+17818_2	punct	17818_1
+17818_2	has_surface_form	(
+17818_3	is_in_sentence	sentence_17818
+17818_3	acl	17818_1
+17818_3	has_surface_form	born
+17818_4	is_in_sentence	sentence_17818
+17818_4	npadvmod	17818_3
+17818_4	has_surface_form	December
+17818_5	is_in_sentence	sentence_17818
+17818_5	nummod	17818_4
+17818_5	has_surface_form	14
+17818_6	is_in_sentence	sentence_17818
+17818_6	punct	17818_4
+17818_6	has_surface_form	,
+17818_7	is_in_sentence	sentence_17818
+17818_7	nummod	17818_4
+17818_7	has_surface_form	1967
+17818_8	is_in_sentence	sentence_17818
+17818_8	prep	17818_3
+17818_8	has_surface_form	in
+17818_9	is_in_sentence	sentence_17818
+17818_9	pobj	17818_8
+17818_9	has_surface_form	Seattle
+17818_10	is_in_sentence	sentence_17818
+17818_10	punct	17818_9
+17818_10	has_surface_form	,
+17818_11	is_in_sentence	sentence_17818
+17818_11	appos	17818_9
+17818_11	has_surface_form	Washington
+17818_12	is_in_sentence	sentence_17818
+17818_12	punct	17818_9
+17818_12	has_surface_form	)
+17818_14	is_in_sentence	sentence_17818
+17818_14	det	17818_17
+17818_14	has_surface_form	a
+17818_17	is_in_sentence	sentence_17818
+17818_17	dep	17818_13
+17818_17	has_surface_form	
+17818_15	is_in_sentence	sentence_17818
+17818_15	amod	17818_17
+17818_15	has_surface_form	former
+17818_16	is_in_sentence	sentence_17818
+17818_16	compound	17818_17
+17818_16	has_surface_form	U.
+Garrett Smith	surface_form	Garrett Smith
+Garrett Smith	birth-place	Seattle, Washington
+Seattle, Washington	surface_form	Seattle, Washington

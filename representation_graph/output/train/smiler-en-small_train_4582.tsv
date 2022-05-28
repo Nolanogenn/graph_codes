@@ -1,0 +1,62 @@
+4581_0	is_in_sentence	sentence_4581
+4581_0	compound	4581_1
+4581_0	has_surface_form	Gautami
+4581_0	part_of_entity	Gautami Kapoor
+4581_1	is_in_sentence	sentence_4581
+4581_1	nsubj	4581_8
+4581_1	has_surface_form	Kapoor
+4581_1	part_of_entity	Gautami Kapoor
+4581_8	is_in_sentence	sentence_4581
+4581_8	ROOT	4581_8
+4581_8	has_surface_form	is
+4581_2	is_in_sentence	sentence_4581
+4581_2	punct	4581_3
+4581_2	has_surface_form	(
+4581_3	is_in_sentence	sentence_4581
+4581_3	relcl	4581_1
+4581_3	has_surface_form	Born
+4581_4	is_in_sentence	sentence_4581
+4581_4	punct	4581_3
+4581_4	has_surface_form	:
+4581_5	is_in_sentence	sentence_4581
+4581_5	compound	4581_6
+4581_5	has_surface_form	Gautami
+4581_6	is_in_sentence	sentence_4581
+4581_6	npadvmod	4581_3
+4581_6	has_surface_form	Gadgil
+4581_7	is_in_sentence	sentence_4581
+4581_7	punct	4581_3
+4581_7	has_surface_form	)
+4581_9	is_in_sentence	sentence_4581
+4581_9	det	4581_14
+4581_9	has_surface_form	an
+4581_14	is_in_sentence	sentence_4581
+4581_14	attr	4581_8
+4581_14	is_entity	actress
+4581_10	is_in_sentence	sentence_4581
+4581_10	amod	4581_14
+4581_10	has_surface_form	Indian
+4581_11	is_in_sentence	sentence_4581
+4581_11	nmod	4581_14
+4581_11	has_surface_form	television
+4581_12	is_in_sentence	sentence_4581
+4581_12	cc	4581_11
+4581_12	has_surface_form	and
+4581_13	is_in_sentence	sentence_4581
+4581_13	conj	4581_11
+4581_13	has_surface_form	film
+actress	surface_form	actress
+4581_15	is_in_sentence	sentence_4581
+4581_15	cc	4581_14
+4581_15	has_surface_form	and
+4581_16	is_in_sentence	sentence_4581
+4581_16	conj	4581_14
+4581_16	has_surface_form	model
+4581_17	is_in_sentence	sentence_4581
+4581_17	punct	4581_8
+4581_17	has_surface_form	.
+4581_18	is_in_sentence	sentence_4581
+4581_18	dep	4581_18
+4581_18	has_surface_form	
+Gautami Kapoor	surface_form	Gautami Kapoor
+Gautami Kapoor	has-occupation	actress

@@ -1,0 +1,58 @@
+27080_0	is_in_sentence	sentence_27080
+27080_0	compound	27080_1
+27080_0	has_surface_form	BroadbandTV
+27080_0	part_of_entity	BroadbandTV Corporation
+27080_1	is_in_sentence	sentence_27080
+27080_1	nsubj	27080_2
+27080_1	has_surface_form	Corporation
+27080_1	part_of_entity	BroadbandTV Corporation
+27080_2	is_in_sentence	sentence_27080
+27080_2	ROOT	27080_2
+27080_2	has_surface_form	is
+27080_3	is_in_sentence	sentence_27080
+27080_3	det	27080_7
+27080_3	has_surface_form	a
+27080_7	is_in_sentence	sentence_27080
+27080_7	attr	27080_2
+27080_7	has_surface_form	company
+27080_4	is_in_sentence	sentence_27080
+27080_4	amod	27080_7
+27080_4	has_surface_form	Canadian
+27080_5	is_in_sentence	sentence_27080
+27080_5	amod	27080_7
+27080_5	has_surface_form	digital
+27080_6	is_in_sentence	sentence_27080
+27080_6	compound	27080_7
+27080_6	has_surface_form	entertainment
+27080_8	is_in_sentence	sentence_27080
+27080_8	acl	27080_7
+27080_8	has_surface_form	founded
+27080_9	is_in_sentence	sentence_27080
+27080_9	agent	27080_8
+27080_9	has_surface_form	by
+27080_10	is_in_sentence	sentence_27080
+27080_10	compound	27080_12
+27080_10	has_surface_form	CEO
+27080_12	is_in_sentence	sentence_27080
+27080_12	pobj	27080_9
+27080_12	has_surface_form	Rafati
+27080_12	part_of_entity	Shahrzad Rafati
+27080_11	is_in_sentence	sentence_27080
+27080_11	compound	27080_12
+27080_11	has_surface_form	Shahrzad
+27080_11	part_of_entity	Shahrzad Rafati
+27080_13	is_in_sentence	sentence_27080
+27080_13	prep	27080_8
+27080_13	has_surface_form	in
+27080_14	is_in_sentence	sentence_27080
+27080_14	pobj	27080_13
+27080_14	has_surface_form	2005
+27080_15	is_in_sentence	sentence_27080
+27080_15	punct	27080_2
+27080_15	has_surface_form	.
+27080_16	is_in_sentence	sentence_27080
+27080_16	dep	27080_16
+27080_16	has_surface_form	
+BroadbandTV Corporation	surface_form	BroadbandTV Corporation
+BroadbandTV Corporation	org-has-founder	Shahrzad Rafati
+Shahrzad Rafati	surface_form	Shahrzad Rafati

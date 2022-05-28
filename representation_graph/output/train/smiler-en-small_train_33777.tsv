@@ -1,0 +1,76 @@
+33776_0	is_in_sentence	sentence_33776
+33776_0	compound	33776_1
+33776_0	has_surface_form	Randy
+33776_0	part_of_entity	Randy Norton
+33776_1	is_in_sentence	sentence_33776
+33776_1	nsubj	33776_2
+33776_1	has_surface_form	Norton
+33776_1	part_of_entity	Randy Norton
+33776_2	is_in_sentence	sentence_33776
+33776_2	ROOT	33776_2
+33776_2	has_surface_form	is
+33776_3	is_in_sentence	sentence_33776
+33776_3	det	33776_7
+33776_3	has_surface_form	an
+33776_7	is_in_sentence	sentence_33776
+33776_7	attr	33776_2
+33776_7	has_surface_form	coach
+33776_7	part_of_entity	basketball coach
+33776_4	is_in_sentence	sentence_33776
+33776_4	amod	33776_7
+33776_4	has_surface_form	American
+33776_5	is_in_sentence	sentence_33776
+33776_5	compound	33776_6
+33776_5	has_surface_form	college
+33776_6	is_in_sentence	sentence_33776
+33776_6	compound	33776_7
+33776_6	has_surface_form	basketball
+33776_6	part_of_entity	basketball coach
+33776_8	is_in_sentence	sentence_33776
+33776_8	punct	33776_7
+33776_8	has_surface_form	,
+33776_9	is_in_sentence	sentence_33776
+33776_9	advmod	33776_13
+33776_9	has_surface_form	currently
+33776_13	is_in_sentence	sentence_33776
+33776_13	appos	33776_7
+33776_13	has_surface_form	coach
+33776_10	is_in_sentence	sentence_33776
+33776_10	poss	33776_13
+33776_10	has_surface_form	women
+33776_11	is_in_sentence	sentence_33776
+33776_11	case	33776_10
+33776_11	has_surface_form	's
+33776_12	is_in_sentence	sentence_33776
+33776_12	compound	33776_13
+33776_12	has_surface_form	head
+33776_14	is_in_sentence	sentence_33776
+33776_14	prep	33776_13
+33776_14	has_surface_form	at
+33776_15	is_in_sentence	sentence_33776
+33776_15	det	33776_16
+33776_15	has_surface_form	the
+33776_16	is_in_sentence	sentence_33776
+33776_16	pobj	33776_14
+33776_16	has_surface_form	University
+33776_17	is_in_sentence	sentence_33776
+33776_17	prep	33776_16
+33776_17	has_surface_form	of
+33776_18	is_in_sentence	sentence_33776
+33776_18	pobj	33776_17
+33776_18	has_surface_form	Alabama
+33776_19	is_in_sentence	sentence_33776
+33776_19	prep	33776_13
+33776_19	has_surface_form	at
+33776_20	is_in_sentence	sentence_33776
+33776_20	pobj	33776_19
+33776_20	has_surface_form	Birmingham
+33776_21	is_in_sentence	sentence_33776
+33776_21	punct	33776_2
+33776_21	has_surface_form	.
+33776_22	is_in_sentence	sentence_33776
+33776_22	dep	33776_22
+33776_22	has_surface_form	
+Randy Norton	surface_form	Randy Norton
+Randy Norton	has-type	basketball coach
+basketball coach	surface_form	basketball coach

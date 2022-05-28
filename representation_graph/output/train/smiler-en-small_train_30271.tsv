@@ -1,0 +1,91 @@
+30270_0	is_in_sentence	sentence_30270
+30270_0	det	30270_3
+30270_0	has_surface_form	The
+30270_3	is_in_sentence	sentence_30270
+30270_3	nsubjpass	30270_11
+30270_3	has_surface_form	extinguisher
+30270_3	part_of_entity	fire extinguisher
+30270_1	is_in_sentence	sentence_30270
+30270_1	amod	30270_3
+30270_1	has_surface_form	first
+30270_2	is_in_sentence	sentence_30270
+30270_2	compound	30270_3
+30270_2	has_surface_form	fire
+30270_2	part_of_entity	fire extinguisher
+30270_11	is_in_sentence	sentence_30270
+30270_11	ROOT	30270_11
+30270_11	has_surface_form	patented
+30270_4	is_in_sentence	sentence_30270
+30270_4	prep	30270_3
+30270_4	has_surface_form	of
+30270_5	is_in_sentence	sentence_30270
+30270_5	pobj	30270_4
+30270_5	has_surface_form	which
+30270_6	is_in_sentence	sentence_30270
+30270_6	expl	30270_7
+30270_6	has_surface_form	there
+30270_7	is_in_sentence	sentence_30270
+30270_7	relcl	30270_3
+30270_7	has_surface_form	is
+30270_8	is_in_sentence	sentence_30270
+30270_8	det	30270_9
+30270_8	has_surface_form	any
+30270_9	is_in_sentence	sentence_30270
+30270_9	attr	30270_7
+30270_9	has_surface_form	record
+30270_10	is_in_sentence	sentence_30270
+30270_10	auxpass	30270_11
+30270_10	has_surface_form	was
+30270_12	is_in_sentence	sentence_30270
+30270_12	prep	30270_11
+30270_12	has_surface_form	in
+30270_13	is_in_sentence	sentence_30270
+30270_13	pobj	30270_12
+30270_13	has_surface_form	England
+30270_14	is_in_sentence	sentence_30270
+30270_14	prep	30270_11
+30270_14	has_surface_form	in
+30270_15	is_in_sentence	sentence_30270
+30270_15	pobj	30270_14
+30270_15	has_surface_form	1723
+30270_16	is_in_sentence	sentence_30270
+30270_16	agent	30270_11
+30270_16	has_surface_form	by
+30270_17	is_in_sentence	sentence_30270
+30270_17	compound	30270_18
+30270_17	has_surface_form	Ambrose
+30270_17	part_of_entity	Ambrose Godfrey
+30270_18	is_in_sentence	sentence_30270
+30270_18	pobj	30270_16
+30270_18	has_surface_form	Godfrey
+30270_18	part_of_entity	Ambrose Godfrey
+30270_19	is_in_sentence	sentence_30270
+30270_19	punct	30270_18
+30270_19	has_surface_form	,
+30270_20	is_in_sentence	sentence_30270
+30270_20	det	30270_22
+30270_20	has_surface_form	a
+30270_22	is_in_sentence	sentence_30270
+30270_22	appos	30270_18
+30270_22	has_surface_form	chemist
+30270_21	is_in_sentence	sentence_30270
+30270_21	amod	30270_22
+30270_21	has_surface_form	celebrated
+30270_23	is_in_sentence	sentence_30270
+30270_23	prep	30270_22
+30270_23	has_surface_form	at
+30270_24	is_in_sentence	sentence_30270
+30270_24	det	30270_25
+30270_24	has_surface_form	that
+30270_25	is_in_sentence	sentence_30270
+30270_25	pobj	30270_23
+30270_25	has_surface_form	time
+30270_26	is_in_sentence	sentence_30270
+30270_26	punct	30270_11
+30270_26	has_surface_form	.
+30270_27	is_in_sentence	sentence_30270
+30270_27	dep	30270_27
+30270_27	has_surface_form	
+fire extinguisher	surface_form	fire extinguisher
+fire extinguisher	invented-by	Ambrose Godfrey
+Ambrose Godfrey	surface_form	Ambrose Godfrey

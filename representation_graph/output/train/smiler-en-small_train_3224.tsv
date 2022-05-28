@@ -1,0 +1,62 @@
+3223_0	is_in_sentence	sentence_3223
+3223_0	det	3223_2
+3223_0	has_surface_form	A
+3223_0	part_of_entity	A Family Thing
+3223_2	is_in_sentence	sentence_3223
+3223_2	nsubj	3223_3
+3223_2	has_surface_form	Thing
+3223_2	part_of_entity	A Family Thing
+3223_1	is_in_sentence	sentence_3223
+3223_1	compound	3223_2
+3223_1	has_surface_form	Family
+3223_1	part_of_entity	A Family Thing
+3223_3	is_in_sentence	sentence_3223
+3223_3	ROOT	3223_3
+3223_3	has_surface_form	is
+3223_4	is_in_sentence	sentence_3223
+3223_4	det	3223_6
+3223_4	has_surface_form	a
+3223_6	is_in_sentence	sentence_3223
+3223_6	attr	3223_3
+3223_6	has_surface_form	film
+3223_5	is_in_sentence	sentence_3223
+3223_5	nummod	3223_6
+3223_5	has_surface_form	1996
+3223_7	is_in_sentence	sentence_3223
+3223_7	acl	3223_6
+3223_7	has_surface_form	starring
+3223_8	is_in_sentence	sentence_3223
+3223_8	compound	3223_9
+3223_8	has_surface_form	Robert
+3223_8	part_of_entity	Robert Duvall
+3223_9	is_in_sentence	sentence_3223
+3223_9	dobj	3223_7
+3223_9	has_surface_form	Duvall
+3223_9	part_of_entity	Robert Duvall
+3223_10	is_in_sentence	sentence_3223
+3223_10	punct	3223_9
+3223_10	has_surface_form	,
+3223_11	is_in_sentence	sentence_3223
+3223_11	compound	3223_13
+3223_11	has_surface_form	James
+3223_13	is_in_sentence	sentence_3223
+3223_13	conj	3223_9
+3223_13	has_surface_form	Jones
+3223_12	is_in_sentence	sentence_3223
+3223_12	compound	3223_13
+3223_12	has_surface_form	Earl
+3223_14	is_in_sentence	sentence_3223
+3223_14	cc	3223_13
+3223_14	has_surface_form	and
+3223_15	is_in_sentence	sentence_3223
+3223_15	compound	3223_16
+3223_15	has_surface_form	Irma
+3223_16	is_in_sentence	sentence_3223
+3223_16	conj	3223_13
+3223_16	has_surface_form	P.
+3223_17	is_in_sentence	sentence_3223
+3223_17	dep	3223_3
+3223_17	has_surface_form	
+A Family Thing	surface_form	A Family Thing
+A Family Thing	starring	Robert Duvall
+Robert Duvall	surface_form	Robert Duvall

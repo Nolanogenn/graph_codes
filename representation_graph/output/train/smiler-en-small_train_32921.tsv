@@ -1,0 +1,59 @@
+32920_0	is_in_sentence	sentence_32920
+32920_0	compound	32920_1
+32920_0	has_surface_form	Mars
+32920_0	part_of_entity	Mars Williams
+32920_1	is_in_sentence	sentence_32920
+32920_1	nsubj	32920_9
+32920_1	has_surface_form	Williams
+32920_1	part_of_entity	Mars Williams
+32920_9	is_in_sentence	sentence_32920
+32920_9	ROOT	32920_9
+32920_9	has_surface_form	is
+32920_2	is_in_sentence	sentence_32920
+32920_2	punct	32920_1
+32920_2	has_surface_form	(
+32920_3	is_in_sentence	sentence_32920
+32920_3	acl	32920_1
+32920_3	has_surface_form	born
+32920_4	is_in_sentence	sentence_32920
+32920_4	npadvmod	32920_3
+32920_4	has_surface_form	May
+32920_5	is_in_sentence	sentence_32920
+32920_5	nummod	32920_4
+32920_5	has_surface_form	29
+32920_6	is_in_sentence	sentence_32920
+32920_6	punct	32920_4
+32920_6	has_surface_form	,
+32920_7	is_in_sentence	sentence_32920
+32920_7	nummod	32920_4
+32920_7	has_surface_form	1955
+32920_8	is_in_sentence	sentence_32920
+32920_8	punct	32920_1
+32920_8	has_surface_form	)
+32920_10	is_in_sentence	sentence_32920
+32920_10	det	32920_12
+32920_10	has_surface_form	an
+32920_12	is_in_sentence	sentence_32920
+32920_12	attr	32920_9
+32920_12	is_entity	jazz
+32920_11	is_in_sentence	sentence_32920
+32920_11	amod	32920_12
+32920_11	has_surface_form	American
+jazz	surface_form	jazz
+32920_13	is_in_sentence	sentence_32920
+32920_13	cc	32920_12
+32920_13	has_surface_form	and
+32920_14	is_in_sentence	sentence_32920
+32920_14	compound	32920_15
+32920_14	has_surface_form	rock
+32920_15	is_in_sentence	sentence_32920
+32920_15	conj	32920_12
+32920_15	has_surface_form	saxophonist
+32920_16	is_in_sentence	sentence_32920
+32920_16	punct	32920_9
+32920_16	has_surface_form	.
+32920_17	is_in_sentence	sentence_32920
+32920_17	dep	32920_9
+32920_17	has_surface_form	
+Mars Williams	surface_form	Mars Williams
+Mars Williams	has-genre	jazz

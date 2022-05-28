@@ -1,0 +1,92 @@
+28250_0	is_in_sentence	sentence_28250
+28250_0	nsubj	28250_4
+28250_0	has_surface_form	Mr
+28250_4	is_in_sentence	sentence_28250
+28250_4	ROOT	28250_4
+28250_4	has_surface_form	have
+28250_1	is_in_sentence	sentence_28250
+28250_1	cc	28250_0
+28250_1	has_surface_form	and
+28250_2	is_in_sentence	sentence_28250
+28250_2	compound	28250_3
+28250_2	has_surface_form	Mrs
+28250_2	part_of_entity	Mrs Siraj
+28250_3	is_in_sentence	sentence_28250
+28250_3	conj	28250_0
+28250_3	has_surface_form	Siraj
+28250_3	part_of_entity	Mrs Siraj
+28250_5	is_in_sentence	sentence_28250
+28250_5	nummod	28250_6
+28250_5	has_surface_form	one
+28250_6	is_in_sentence	sentence_28250
+28250_6	dobj	28250_4
+28250_6	has_surface_form	daughter
+28250_7	is_in_sentence	sentence_28250
+28250_7	cc	28250_6
+28250_7	has_surface_form	and
+28250_8	is_in_sentence	sentence_28250
+28250_8	nummod	28250_9
+28250_8	has_surface_form	one
+28250_9	is_in_sentence	sentence_28250
+28250_9	conj	28250_6
+28250_9	has_surface_form	son
+28250_10	is_in_sentence	sentence_28250
+28250_10	punct	28250_4
+28250_10	has_surface_form	.
+28250_11	is_in_sentence	sentence_28250
+28250_11	poss	28250_12
+28250_11	has_surface_form	Their
+28250_12	is_in_sentence	sentence_28250
+28250_12	nsubj	28250_18
+28250_12	has_surface_form	daughter
+28250_18	is_in_sentence	sentence_28250
+28250_18	ROOT	28250_18
+28250_18	has_surface_form	is
+28250_13	is_in_sentence	sentence_28250
+28250_13	punct	28250_12
+28250_13	has_surface_form	,
+28250_14	is_in_sentence	sentence_28250
+28250_14	compound	28250_16
+28250_14	has_surface_form	Barrister
+28250_14	part_of_entity	Barrister Sarwat Siraj
+28250_16	is_in_sentence	sentence_28250
+28250_16	appos	28250_12
+28250_16	has_surface_form	Siraj
+28250_16	part_of_entity	Barrister Sarwat Siraj
+28250_15	is_in_sentence	sentence_28250
+28250_15	compound	28250_16
+28250_15	has_surface_form	Sarwat
+28250_15	part_of_entity	Barrister Sarwat Siraj
+28250_17	is_in_sentence	sentence_28250
+28250_17	punct	28250_12
+28250_17	has_surface_form	,
+28250_19	is_in_sentence	sentence_28250
+28250_19	det	28250_21
+28250_19	has_surface_form	a
+28250_21	is_in_sentence	sentence_28250
+28250_21	attr	28250_18
+28250_21	has_surface_form	Advocate
+28250_20	is_in_sentence	sentence_28250
+28250_20	amod	28250_21
+28250_20	has_surface_form	practising
+28250_22	is_in_sentence	sentence_28250
+28250_22	prep	28250_21
+28250_22	has_surface_form	in
+28250_23	is_in_sentence	sentence_28250
+28250_23	compound	28250_25
+28250_23	has_surface_form	Bangladesh
+28250_25	is_in_sentence	sentence_28250
+28250_25	pobj	28250_22
+28250_25	has_surface_form	Court
+28250_24	is_in_sentence	sentence_28250
+28250_24	compound	28250_25
+28250_24	has_surface_form	Supreme
+28250_26	is_in_sentence	sentence_28250
+28250_26	punct	28250_18
+28250_26	has_surface_form	.
+28250_27	is_in_sentence	sentence_28250
+28250_27	dep	28250_27
+28250_27	has_surface_form	
+Mrs Siraj	surface_form	Mrs Siraj
+Mrs Siraj	has-child	Barrister Sarwat Siraj
+Barrister Sarwat Siraj	surface_form	Barrister Sarwat Siraj

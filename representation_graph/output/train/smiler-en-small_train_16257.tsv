@@ -1,0 +1,71 @@
+16256_0	is_in_sentence	sentence_16256
+16256_0	compound	16256_1
+16256_0	has_surface_form	Royce
+16256_0	part_of_entity	Royce Waltman
+16256_1	is_in_sentence	sentence_16256
+16256_1	nsubj	16256_13
+16256_1	has_surface_form	Waltman
+16256_1	part_of_entity	Royce Waltman
+16256_13	is_in_sentence	sentence_16256
+16256_13	ROOT	16256_13
+16256_13	has_surface_form	was
+16256_2	is_in_sentence	sentence_16256
+16256_2	punct	16256_3
+16256_2	has_surface_form	(
+16256_3	is_in_sentence	sentence_16256
+16256_3	appos	16256_1
+16256_3	has_surface_form	January
+16256_4	is_in_sentence	sentence_16256
+16256_4	nummod	16256_3
+16256_4	has_surface_form	8
+16256_5	is_in_sentence	sentence_16256
+16256_5	punct	16256_3
+16256_5	has_surface_form	,
+16256_6	is_in_sentence	sentence_16256
+16256_6	nummod	16256_3
+16256_6	has_surface_form	1942
+16256_7	is_in_sentence	sentence_16256
+16256_7	punct	16256_1
+16256_7	has_surface_form	–
+16256_8	is_in_sentence	sentence_16256
+16256_8	appos	16256_1
+16256_8	has_surface_form	April
+16256_9	is_in_sentence	sentence_16256
+16256_9	nummod	16256_8
+16256_9	has_surface_form	7
+16256_10	is_in_sentence	sentence_16256
+16256_10	punct	16256_8
+16256_10	has_surface_form	,
+16256_11	is_in_sentence	sentence_16256
+16256_11	nummod	16256_8
+16256_11	has_surface_form	2014
+16256_12	is_in_sentence	sentence_16256
+16256_12	punct	16256_8
+16256_12	has_surface_form	)
+16256_14	is_in_sentence	sentence_16256
+16256_14	det	16256_18
+16256_14	has_surface_form	an
+16256_18	is_in_sentence	sentence_16256
+16256_18	attr	16256_13
+16256_18	has_surface_form	coach
+16256_18	part_of_entity	college basketball coach
+16256_15	is_in_sentence	sentence_16256
+16256_15	amod	16256_18
+16256_15	has_surface_form	American
+16256_16	is_in_sentence	sentence_16256
+16256_16	compound	16256_17
+16256_16	has_surface_form	college
+16256_16	part_of_entity	college basketball coach
+16256_17	is_in_sentence	sentence_16256
+16256_17	compound	16256_18
+16256_17	has_surface_form	basketball
+16256_17	part_of_entity	college basketball coach
+16256_19	is_in_sentence	sentence_16256
+16256_19	punct	16256_13
+16256_19	has_surface_form	.
+16256_20	is_in_sentence	sentence_16256
+16256_20	dep	16256_20
+16256_20	has_surface_form	
+Royce Waltman	surface_form	Royce Waltman
+Royce Waltman	has-type	college basketball coach
+college basketball coach	surface_form	college basketball coach

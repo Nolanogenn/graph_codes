@@ -1,0 +1,47 @@
+2342_0	is_in_sentence	sentence_2342
+2342_0	compound	2342_1
+2342_0	has_surface_form	Leo
+2342_0	part_of_entity	Leo Butler
+2342_1	is_in_sentence	sentence_2342
+2342_1	nsubj	2342_8
+2342_1	has_surface_form	Butler
+2342_1	part_of_entity	Leo Butler
+2342_8	is_in_sentence	sentence_2342
+2342_8	ROOT	2342_8
+2342_8	has_surface_form	is
+2342_2	is_in_sentence	sentence_2342
+2342_2	punct	2342_1
+2342_2	has_surface_form	(
+2342_3	is_in_sentence	sentence_2342
+2342_3	amod	2342_1
+2342_3	has_surface_form	born
+2342_4	is_in_sentence	sentence_2342
+2342_4	npadvmod	2342_3
+2342_4	has_surface_form	1974
+2342_5	is_in_sentence	sentence_2342
+2342_5	prep	2342_3
+2342_5	has_surface_form	in
+2342_6	is_in_sentence	sentence_2342
+2342_6	pobj	2342_5
+2342_6	is_entity	Sheffield
+Sheffield	surface_form	Sheffield
+2342_7	is_in_sentence	sentence_2342
+2342_7	punct	2342_1
+2342_7	has_surface_form	)
+2342_9	is_in_sentence	sentence_2342
+2342_9	det	2342_11
+2342_9	has_surface_form	a
+2342_11	is_in_sentence	sentence_2342
+2342_11	attr	2342_8
+2342_11	has_surface_form	playwright
+2342_10	is_in_sentence	sentence_2342
+2342_10	amod	2342_11
+2342_10	has_surface_form	British
+2342_12	is_in_sentence	sentence_2342
+2342_12	punct	2342_8
+2342_12	has_surface_form	.
+2342_13	is_in_sentence	sentence_2342
+2342_13	dep	2342_13
+2342_13	has_surface_form	
+Leo Butler	surface_form	Leo Butler
+Leo Butler	birth-place	Sheffield

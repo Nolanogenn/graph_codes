@@ -1,0 +1,80 @@
+13230_0	is_in_sentence	sentence_13230
+13230_0	nsubj	13230_3
+13230_0	has_surface_form	Murder
+13230_0	part_of_entity	Murder Among Friends
+13230_3	is_in_sentence	sentence_13230
+13230_3	ROOT	13230_3
+13230_3	has_surface_form	is
+13230_1	is_in_sentence	sentence_13230
+13230_1	prep	13230_0
+13230_1	has_surface_form	Among
+13230_1	part_of_entity	Murder Among Friends
+13230_2	is_in_sentence	sentence_13230
+13230_2	pobj	13230_1
+13230_2	has_surface_form	Friends
+13230_2	part_of_entity	Murder Among Friends
+13230_4	is_in_sentence	sentence_13230
+13230_4	det	13230_5
+13230_4	has_surface_form	a
+13230_5	is_in_sentence	sentence_13230
+13230_5	attr	13230_3
+13230_5	has_surface_form	1982
+13230_6	is_in_sentence	sentence_13230
+13230_6	acl	13230_5
+13230_6	has_surface_form	made
+13230_7	is_in_sentence	sentence_13230
+13230_7	prep	13230_6
+13230_7	has_surface_form	for
+13230_8	is_in_sentence	sentence_13230
+13230_8	nmod	13230_10
+13230_8	has_surface_form	television
+13230_10	is_in_sentence	sentence_13230
+13230_10	pobj	13230_7
+13230_10	has_surface_form	film
+13230_9	is_in_sentence	sentence_13230
+13230_9	amod	13230_10
+13230_9	has_surface_form	British
+13230_11	is_in_sentence	sentence_13230
+13230_11	acl	13230_10
+13230_11	has_surface_form	directed
+13230_12	is_in_sentence	sentence_13230
+13230_12	agent	13230_11
+13230_12	has_surface_form	by
+13230_13	is_in_sentence	sentence_13230
+13230_13	compound	13230_14
+13230_13	has_surface_form	David
+13230_13	part_of_entity	David Greene
+13230_14	is_in_sentence	sentence_13230
+13230_14	pobj	13230_12
+13230_14	has_surface_form	Greene
+13230_14	part_of_entity	David Greene
+13230_15	is_in_sentence	sentence_13230
+13230_15	cc	13230_11
+13230_15	has_surface_form	and
+13230_16	is_in_sentence	sentence_13230
+13230_16	conj	13230_11
+13230_16	has_surface_form	starring
+13230_17	is_in_sentence	sentence_13230
+13230_17	compound	13230_18
+13230_17	has_surface_form	Leslie
+13230_18	is_in_sentence	sentence_13230
+13230_18	dobj	13230_16
+13230_18	has_surface_form	Nielsen
+13230_19	is_in_sentence	sentence_13230
+13230_19	cc	13230_18
+13230_19	has_surface_form	and
+13230_20	is_in_sentence	sentence_13230
+13230_20	compound	13230_21
+13230_20	has_surface_form	Sally
+13230_21	is_in_sentence	sentence_13230
+13230_21	conj	13230_18
+13230_21	has_surface_form	Kellerman
+13230_22	is_in_sentence	sentence_13230
+13230_22	punct	13230_3
+13230_22	has_surface_form	.
+13230_23	is_in_sentence	sentence_13230
+13230_23	dep	13230_3
+13230_23	has_surface_form	
+Murder Among Friends	surface_form	Murder Among Friends
+Murder Among Friends	movie-has-director	David Greene
+David Greene	surface_form	David Greene

@@ -1,0 +1,47 @@
+26485_0	is_in_sentence	sentence_26485
+26485_0	det	26485_2
+26485_0	has_surface_form	The
+26485_2	is_in_sentence	sentence_26485
+26485_2	nsubjpass	26485_4
+26485_2	has_surface_form	truck
+26485_2	part_of_entity	tow truck
+26485_1	is_in_sentence	sentence_26485
+26485_1	compound	26485_2
+26485_1	has_surface_form	tow
+26485_1	part_of_entity	tow truck
+26485_4	is_in_sentence	sentence_26485
+26485_4	ROOT	26485_4
+26485_4	has_surface_form	invented
+26485_3	is_in_sentence	sentence_26485
+26485_3	auxpass	26485_4
+26485_3	has_surface_form	was
+26485_5	is_in_sentence	sentence_26485
+26485_5	prep	26485_4
+26485_5	has_surface_form	in
+26485_6	is_in_sentence	sentence_26485
+26485_6	pobj	26485_5
+26485_6	is_entity	1916
+1916	surface_form	1916
+26485_7	is_in_sentence	sentence_26485
+26485_7	agent	26485_4
+26485_7	has_surface_form	by
+26485_8	is_in_sentence	sentence_26485
+26485_8	compound	26485_9
+26485_8	has_surface_form	Ernest
+26485_9	is_in_sentence	sentence_26485
+26485_9	pobj	26485_7
+26485_9	has_surface_form	Holmes
+26485_10	is_in_sentence	sentence_26485
+26485_10	punct	26485_9
+26485_10	has_surface_form	,
+26485_11	is_in_sentence	sentence_26485
+26485_11	appos	26485_9
+26485_11	has_surface_form	Sr
+26485_12	is_in_sentence	sentence_26485
+26485_12	appos	26485_9
+26485_12	has_surface_form	.
+26485_13	is_in_sentence	sentence_26485
+26485_13	dep	26485_4
+26485_13	has_surface_form	
+tow truck	surface_form	tow truck
+tow truck	invented-when	1916

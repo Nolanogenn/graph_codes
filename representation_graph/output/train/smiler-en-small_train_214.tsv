@@ -1,0 +1,104 @@
+213_0	is_in_sentence	sentence_213
+213_0	poss	213_2
+213_0	has_surface_form	Our
+213_0	part_of_entity	Our Miss Doctor
+213_2	is_in_sentence	sentence_213
+213_2	nsubj	213_10
+213_2	has_surface_form	Doctor
+213_2	part_of_entity	Our Miss Doctor
+213_1	is_in_sentence	sentence_213
+213_1	compound	213_2
+213_1	has_surface_form	Miss
+213_1	part_of_entity	Our Miss Doctor
+213_10	is_in_sentence	sentence_213
+213_10	ROOT	213_10
+213_10	has_surface_form	is
+213_3	is_in_sentence	sentence_213
+213_3	punct	213_4
+213_3	has_surface_form	(
+213_4	is_in_sentence	sentence_213
+213_4	appos	213_2
+213_4	has_surface_form	German
+213_5	is_in_sentence	sentence_213
+213_5	punct	213_4
+213_5	has_surface_form	:
+213_6	is_in_sentence	sentence_213
+213_6	compound	213_8
+213_6	has_surface_form	Unser
+213_8	is_in_sentence	sentence_213
+213_8	appos	213_4
+213_8	has_surface_form	Doktor
+213_7	is_in_sentence	sentence_213
+213_7	compound	213_8
+213_7	has_surface_form	Fräulein
+213_9	is_in_sentence	sentence_213
+213_9	punct	213_4
+213_9	has_surface_form	)
+213_11	is_in_sentence	sentence_213
+213_11	det	213_15
+213_11	has_surface_form	a
+213_15	is_in_sentence	sentence_213
+213_15	attr	213_10
+213_15	has_surface_form	film
+213_12	is_in_sentence	sentence_213
+213_12	nummod	213_15
+213_12	has_surface_form	1940
+213_13	is_in_sentence	sentence_213
+213_13	amod	213_15
+213_13	has_surface_form	German
+213_14	is_in_sentence	sentence_213
+213_14	compound	213_15
+213_14	has_surface_form	comedy
+213_16	is_in_sentence	sentence_213
+213_16	acl	213_15
+213_16	has_surface_form	directed
+213_17	is_in_sentence	sentence_213
+213_17	agent	213_16
+213_17	has_surface_form	by
+213_18	is_in_sentence	sentence_213
+213_18	compound	213_19
+213_18	has_surface_form	Erich
+213_19	is_in_sentence	sentence_213
+213_19	pobj	213_17
+213_19	has_surface_form	Engel
+213_20	is_in_sentence	sentence_213
+213_20	cc	213_16
+213_20	has_surface_form	and
+213_21	is_in_sentence	sentence_213
+213_21	conj	213_16
+213_21	has_surface_form	starring
+213_22	is_in_sentence	sentence_213
+213_22	compound	213_23
+213_22	has_surface_form	Jenny
+213_23	is_in_sentence	sentence_213
+213_23	dobj	213_21
+213_23	has_surface_form	Jugo
+213_24	is_in_sentence	sentence_213
+213_24	punct	213_23
+213_24	has_surface_form	,
+213_25	is_in_sentence	sentence_213
+213_25	compound	213_26
+213_25	has_surface_form	Albert
+213_26	is_in_sentence	sentence_213
+213_26	conj	213_23
+213_26	has_surface_form	Matterstock
+213_27	is_in_sentence	sentence_213
+213_27	cc	213_26
+213_27	has_surface_form	and
+213_28	is_in_sentence	sentence_213
+213_28	compound	213_29
+213_28	has_surface_form	Heinz
+213_28	part_of_entity	Heinz Salfner
+213_29	is_in_sentence	sentence_213
+213_29	conj	213_26
+213_29	has_surface_form	Salfner
+213_29	part_of_entity	Heinz Salfner
+213_30	is_in_sentence	sentence_213
+213_30	punct	213_10
+213_30	has_surface_form	.
+213_31	is_in_sentence	sentence_213
+213_31	dep	213_10
+213_31	has_surface_form	
+Our Miss Doctor	surface_form	Our Miss Doctor
+Our Miss Doctor	starring	Heinz Salfner
+Heinz Salfner	surface_form	Heinz Salfner

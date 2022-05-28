@@ -1,0 +1,55 @@
+28702_0	is_in_sentence	sentence_28702
+28702_0	compound	28702_1
+28702_0	has_surface_form	Vishnu
+28702_1	is_in_sentence	sentence_28702
+28702_1	nsubj	28702_2
+28702_1	has_surface_form	Vishal
+28702_2	is_in_sentence	sentence_28702
+28702_2	ROOT	28702_2
+28702_2	has_surface_form	was
+28702_3	is_in_sentence	sentence_28702
+28702_3	acomp	28702_2
+28702_3	has_surface_form	married
+28702_4	is_in_sentence	sentence_28702
+28702_4	prep	28702_3
+28702_4	has_surface_form	to
+28702_5	is_in_sentence	sentence_28702
+28702_5	compound	28702_6
+28702_5	has_surface_form	Rajini
+28702_5	part_of_entity	Rajini Natraj
+28702_6	is_in_sentence	sentence_28702
+28702_6	pobj	28702_4
+28702_6	has_surface_form	Natraj
+28702_6	part_of_entity	Rajini Natraj
+28702_7	is_in_sentence	sentence_28702
+28702_7	punct	28702_6
+28702_7	has_surface_form	,
+28702_8	is_in_sentence	sentence_28702
+28702_8	appos	28702_6
+28702_8	has_surface_form	daughter
+28702_9	is_in_sentence	sentence_28702
+28702_9	prep	28702_8
+28702_9	has_surface_form	of
+28702_10	is_in_sentence	sentence_28702
+28702_10	det	28702_11
+28702_10	has_surface_form	the
+28702_11	is_in_sentence	sentence_28702
+28702_11	pobj	28702_9
+28702_11	has_surface_form	actor
+28702_12	is_in_sentence	sentence_28702
+28702_12	compound	28702_13
+28702_12	has_surface_form	K.
+28702_12	part_of_entity	K. Natraj
+28702_13	is_in_sentence	sentence_28702
+28702_13	appos	28702_11
+28702_13	has_surface_form	Natraj
+28702_13	part_of_entity	K. Natraj
+28702_14	is_in_sentence	sentence_28702
+28702_14	punct	28702_2
+28702_14	has_surface_form	.
+28702_15	is_in_sentence	sentence_28702
+28702_15	dep	28702_15
+28702_15	has_surface_form	
+Rajini Natraj	surface_form	Rajini Natraj
+Rajini Natraj	has-parent	K. Natraj
+K. Natraj	surface_form	K. Natraj

@@ -1,0 +1,54 @@
+32880_0	is_in_sentence	sentence_32880
+32880_0	prep	32880_5
+32880_0	has_surface_form	In
+32880_5	is_in_sentence	sentence_32880
+32880_5	ROOT	32880_5
+32880_5	has_surface_form	launched
+32880_1	is_in_sentence	sentence_32880
+32880_1	pobj	32880_0
+32880_1	has_surface_form	May
+32880_2	is_in_sentence	sentence_32880
+32880_2	nummod	32880_1
+32880_2	has_surface_form	2013
+32880_3	is_in_sentence	sentence_32880
+32880_3	punct	32880_5
+32880_3	has_surface_form	,
+32880_4	is_in_sentence	sentence_32880
+32880_4	nsubj	32880_5
+32880_4	is_entity	VMware
+VMware	surface_form	VMware
+VMware	no_relation	vCloud Hybrid Service
+32880_6	is_in_sentence	sentence_32880
+32880_6	poss	32880_9
+32880_6	has_surface_form	its
+32880_9	is_in_sentence	sentence_32880
+32880_9	dobj	32880_5
+32880_9	has_surface_form	service
+32880_7	is_in_sentence	sentence_32880
+32880_7	amod	32880_9
+32880_7	has_surface_form	own
+32880_8	is_in_sentence	sentence_32880
+32880_8	compound	32880_9
+32880_8	has_surface_form	IaaS
+32880_10	is_in_sentence	sentence_32880
+32880_10	punct	32880_9
+32880_10	has_surface_form	,
+32880_11	is_in_sentence	sentence_32880
+32880_11	compound	32880_13
+32880_11	has_surface_form	vCloud
+32880_11	part_of_entity	vCloud Hybrid Service
+32880_13	is_in_sentence	sentence_32880
+32880_13	appos	32880_9
+32880_13	has_surface_form	Service
+32880_13	part_of_entity	vCloud Hybrid Service
+32880_12	is_in_sentence	sentence_32880
+32880_12	compound	32880_13
+32880_12	has_surface_form	Hybrid
+32880_12	part_of_entity	vCloud Hybrid Service
+32880_14	is_in_sentence	sentence_32880
+32880_14	punct	32880_5
+32880_14	has_surface_form	.
+32880_15	is_in_sentence	sentence_32880
+32880_15	dep	32880_5
+32880_15	has_surface_form	
+vCloud Hybrid Service	surface_form	vCloud Hybrid Service

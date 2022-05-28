@@ -1,0 +1,69 @@
+15050_0	is_in_sentence	sentence_15050
+15050_0	det	15050_3
+15050_0	has_surface_form	The
+15050_3	is_in_sentence	sentence_15050
+15050_3	nsubj	15050_4
+15050_3	has_surface_form	Institute
+15050_3	part_of_entity	Midrand Graduate Institute
+15050_1	is_in_sentence	sentence_15050
+15050_1	compound	15050_3
+15050_1	has_surface_form	Midrand
+15050_1	part_of_entity	Midrand Graduate Institute
+15050_2	is_in_sentence	sentence_15050
+15050_2	compound	15050_3
+15050_2	has_surface_form	Graduate
+15050_2	part_of_entity	Midrand Graduate Institute
+15050_4	is_in_sentence	sentence_15050
+15050_4	ROOT	15050_4
+15050_4	has_surface_form	is
+15050_5	is_in_sentence	sentence_15050
+15050_5	det	15050_11
+15050_5	has_surface_form	a
+15050_11	is_in_sentence	sentence_15050
+15050_11	attr	15050_4
+15050_11	has_surface_form	institution
+15050_11	part_of_entity	higher education institution
+15050_6	is_in_sentence	sentence_15050
+15050_6	amod	15050_7
+15050_6	has_surface_form	South
+15050_7	is_in_sentence	sentence_15050
+15050_7	amod	15050_11
+15050_7	has_surface_form	African
+15050_8	is_in_sentence	sentence_15050
+15050_8	amod	15050_11
+15050_8	has_surface_form	private
+15050_9	is_in_sentence	sentence_15050
+15050_9	amod	15050_10
+15050_9	has_surface_form	higher
+15050_9	part_of_entity	higher education institution
+15050_10	is_in_sentence	sentence_15050
+15050_10	compound	15050_11
+15050_10	has_surface_form	education
+15050_10	part_of_entity	higher education institution
+15050_12	is_in_sentence	sentence_15050
+15050_12	acl	15050_11
+15050_12	has_surface_form	based
+15050_13	is_in_sentence	sentence_15050
+15050_13	prep	15050_12
+15050_13	has_surface_form	in
+15050_14	is_in_sentence	sentence_15050
+15050_14	pobj	15050_13
+15050_14	has_surface_form	Midrand
+15050_15	is_in_sentence	sentence_15050
+15050_15	punct	15050_14
+15050_15	has_surface_form	,
+15050_16	is_in_sentence	sentence_15050
+15050_16	compound	15050_17
+15050_16	has_surface_form	Gauteng
+15050_17	is_in_sentence	sentence_15050
+15050_17	appos	15050_14
+15050_17	has_surface_form	Province
+15050_18	is_in_sentence	sentence_15050
+15050_18	punct	15050_4
+15050_18	has_surface_form	.
+15050_19	is_in_sentence	sentence_15050
+15050_19	dep	15050_4
+15050_19	has_surface_form	
+Midrand Graduate Institute	surface_form	Midrand Graduate Institute
+Midrand Graduate Institute	has-type	higher education institution
+higher education institution	surface_form	higher education institution

@@ -1,0 +1,82 @@
+20863_0	is_in_sentence	sentence_20863
+20863_0	compound	20863_1
+20863_0	has_surface_form	Wayne
+20863_0	part_of_entity	Wayne Hope
+20863_1	is_in_sentence	sentence_20863
+20863_1	nsubj	20863_2
+20863_1	has_surface_form	Hope
+20863_1	part_of_entity	Wayne Hope
+20863_2	is_in_sentence	sentence_20863
+20863_2	ROOT	20863_2
+20863_2	has_surface_form	is
+20863_3	is_in_sentence	sentence_20863
+20863_3	det	20863_5
+20863_3	has_surface_form	an
+20863_5	is_in_sentence	sentence_20863
+20863_5	attr	20863_2
+20863_5	has_surface_form	actor
+20863_4	is_in_sentence	sentence_20863
+20863_4	amod	20863_5
+20863_4	has_surface_form	Australian
+20863_6	is_in_sentence	sentence_20863
+20863_6	punct	20863_5
+20863_6	has_surface_form	,
+20863_7	is_in_sentence	sentence_20863
+20863_7	conj	20863_5
+20863_7	has_surface_form	writer
+20863_8	is_in_sentence	sentence_20863
+20863_8	punct	20863_7
+20863_8	has_surface_form	,
+20863_9	is_in_sentence	sentence_20863
+20863_9	conj	20863_7
+20863_9	has_surface_form	director
+20863_10	is_in_sentence	sentence_20863
+20863_10	punct	20863_9
+20863_10	has_surface_form	,
+20863_11	is_in_sentence	sentence_20863
+20863_11	cc	20863_9
+20863_11	has_surface_form	and
+20863_12	is_in_sentence	sentence_20863
+20863_12	conj	20863_9
+20863_12	has_surface_form	producer
+20863_13	is_in_sentence	sentence_20863
+20863_13	punct	20863_2
+20863_13	has_surface_form	.
+20863_14	is_in_sentence	sentence_20863
+20863_14	nsubj	20863_15
+20863_14	has_surface_form	He
+20863_15	is_in_sentence	sentence_20863
+20863_15	ROOT	20863_15
+20863_15	has_surface_form	is
+20863_16	is_in_sentence	sentence_20863
+20863_16	acomp	20863_15
+20863_16	has_surface_form	married
+20863_17	is_in_sentence	sentence_20863
+20863_17	aux	20863_18
+20863_17	has_surface_form	to
+20863_18	is_in_sentence	sentence_20863
+20863_18	xcomp	20863_16
+20863_18	has_surface_form	comedian
+20863_19	is_in_sentence	sentence_20863
+20863_19	cc	20863_18
+20863_19	has_surface_form	and
+20863_20	is_in_sentence	sentence_20863
+20863_20	conj	20863_18
+20863_20	has_surface_form	actress
+20863_21	is_in_sentence	sentence_20863
+20863_21	compound	20863_22
+20863_21	has_surface_form	Robyn
+20863_21	part_of_entity	Robyn Butler
+20863_22	is_in_sentence	sentence_20863
+20863_22	npadvmod	20863_18
+20863_22	has_surface_form	Butler
+20863_22	part_of_entity	Robyn Butler
+20863_23	is_in_sentence	sentence_20863
+20863_23	punct	20863_15
+20863_23	has_surface_form	.
+20863_24	is_in_sentence	sentence_20863
+20863_24	dep	20863_24
+20863_24	has_surface_form	
+Wayne Hope	surface_form	Wayne Hope
+Wayne Hope	has-spouse	Robyn Butler
+Robyn Butler	surface_form	Robyn Butler

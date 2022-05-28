@@ -1,0 +1,91 @@
+1803_0	is_in_sentence	sentence_1803
+1803_0	compound	1803_1
+1803_0	has_surface_form	source
+1803_1	is_in_sentence	sentence_1803
+1803_1	npadvmod	1803_5
+1803_1	has_surface_form	mouth
+1803_5	is_in_sentence	sentence_1803
+1803_5	ROOT	1803_5
+1803_5	has_surface_form	is
+1803_2	is_in_sentence	sentence_1803
+1803_2	det	1803_4
+1803_2	has_surface_form	The
+1803_4	is_in_sentence	sentence_1803
+1803_4	nsubj	1803_5
+1803_4	has_surface_form	Box
+1803_4	part_of_entity	River Box
+1803_3	is_in_sentence	sentence_1803
+1803_3	compound	1803_4
+1803_3	has_surface_form	River
+1803_3	part_of_entity	River Box
+1803_6	is_in_sentence	sentence_1803
+1803_6	det	1803_8
+1803_6	has_surface_form	a
+1803_8	is_in_sentence	sentence_1803
+1803_8	attr	1803_5
+1803_8	has_surface_form	river
+1803_7	is_in_sentence	sentence_1803
+1803_7	amod	1803_8
+1803_7	has_surface_form	small
+1803_9	is_in_sentence	sentence_1803
+1803_9	punct	1803_8
+1803_9	has_surface_form	,
+1803_10	is_in_sentence	sentence_1803
+1803_10	nummod	1803_11
+1803_10	has_surface_form	14
+1803_10	part_of_entity	14 miles
+1803_11	is_in_sentence	sentence_1803
+1803_11	npadvmod	1803_5
+1803_11	has_surface_form	miles
+1803_11	part_of_entity	14 miles
+1803_12	is_in_sentence	sentence_1803
+1803_12	punct	1803_11
+1803_12	has_surface_form	(
+1803_13	is_in_sentence	sentence_1803
+1803_13	appos	1803_11
+1803_13	has_surface_form	23
+1803_14	is_in_sentence	sentence_1803
+1803_14	dep	1803_11
+1803_14	has_surface_form	 
+1803_15	is_in_sentence	sentence_1803
+1803_15	npadvmod	1803_11
+1803_15	has_surface_form	km
+1803_16	is_in_sentence	sentence_1803
+1803_16	punct	1803_11
+1803_16	has_surface_form	)
+1803_17	is_in_sentence	sentence_1803
+1803_17	prep	1803_11
+1803_17	has_surface_form	in
+1803_18	is_in_sentence	sentence_1803
+1803_18	pobj	1803_17
+1803_18	has_surface_form	length
+1803_19	is_in_sentence	sentence_1803
+1803_19	punct	1803_11
+1803_19	has_surface_form	,
+1803_20	is_in_sentence	sentence_1803
+1803_20	nsubj	1803_21
+1803_20	has_surface_form	that
+1803_21	is_in_sentence	sentence_1803
+1803_21	relcl	1803_11
+1803_21	has_surface_form	flows
+1803_22	is_in_sentence	sentence_1803
+1803_22	prep	1803_21
+1803_22	has_surface_form	through
+1803_23	is_in_sentence	sentence_1803
+1803_23	pobj	1803_22
+1803_23	has_surface_form	Suffolk
+1803_24	is_in_sentence	sentence_1803
+1803_24	punct	1803_23
+1803_24	has_surface_form	,
+1803_25	is_in_sentence	sentence_1803
+1803_25	appos	1803_23
+1803_25	has_surface_form	England
+1803_26	is_in_sentence	sentence_1803
+1803_26	punct	1803_5
+1803_26	has_surface_form	.
+1803_27	is_in_sentence	sentence_1803
+1803_27	dep	1803_27
+1803_27	has_surface_form	
+River Box	surface_form	River Box
+River Box	has-length	14 miles
+14 miles	surface_form	14 miles

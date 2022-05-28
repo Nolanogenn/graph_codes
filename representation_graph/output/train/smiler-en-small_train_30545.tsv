@@ -1,0 +1,65 @@
+30544_0	is_in_sentence	sentence_30544
+30544_0	compound	30544_1
+30544_0	has_surface_form	Michael
+30544_0	part_of_entity	Michael Hertwig
+30544_1	is_in_sentence	sentence_30544
+30544_1	nsubj	30544_10
+30544_1	has_surface_form	Hertwig
+30544_1	part_of_entity	Michael Hertwig
+30544_10	is_in_sentence	sentence_30544
+30544_10	ROOT	30544_10
+30544_10	has_surface_form	is
+30544_2	is_in_sentence	sentence_30544
+30544_2	punct	30544_1
+30544_2	has_surface_form	(
+30544_3	is_in_sentence	sentence_30544
+30544_3	acl	30544_1
+30544_3	has_surface_form	born
+30544_4	is_in_sentence	sentence_30544
+30544_4	nummod	30544_5
+30544_4	has_surface_form	17
+30544_5	is_in_sentence	sentence_30544
+30544_5	npadvmod	30544_3
+30544_5	has_surface_form	November
+30544_6	is_in_sentence	sentence_30544
+30544_6	nummod	30544_5
+30544_6	has_surface_form	1960
+30544_7	is_in_sentence	sentence_30544
+30544_7	prep	30544_3
+30544_7	has_surface_form	in
+30544_8	is_in_sentence	sentence_30544
+30544_8	pobj	30544_7
+30544_8	is_entity	Offenburg
+Offenburg	surface_form	Offenburg
+30544_9	is_in_sentence	sentence_30544
+30544_9	punct	30544_1
+30544_9	has_surface_form	)
+30544_11	is_in_sentence	sentence_30544
+30544_11	det	30544_15
+30544_11	has_surface_form	a
+30544_15	is_in_sentence	sentence_30544
+30544_15	attr	30544_10
+30544_15	has_surface_form	player
+30544_12	is_in_sentence	sentence_30544
+30544_12	amod	30544_15
+30544_12	has_surface_form	former
+30544_13	is_in_sentence	sentence_30544
+30544_13	amod	30544_15
+30544_13	has_surface_form	German
+30544_14	is_in_sentence	sentence_30544
+30544_14	compound	30544_15
+30544_14	has_surface_form	football
+30544_16	is_in_sentence	sentence_30544
+30544_16	cc	30544_15
+30544_16	has_surface_form	and
+30544_17	is_in_sentence	sentence_30544
+30544_17	conj	30544_15
+30544_17	has_surface_form	manager
+30544_18	is_in_sentence	sentence_30544
+30544_18	punct	30544_10
+30544_18	has_surface_form	.
+30544_19	is_in_sentence	sentence_30544
+30544_19	dep	30544_10
+30544_19	has_surface_form	
+Michael Hertwig	surface_form	Michael Hertwig
+Michael Hertwig	birth-place	Offenburg

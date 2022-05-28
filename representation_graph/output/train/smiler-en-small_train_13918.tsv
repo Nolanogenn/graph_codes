@@ -1,0 +1,64 @@
+13917_0	is_in_sentence	sentence_13917
+13917_0	compound	13917_1
+13917_0	has_surface_form	John
+13917_0	part_of_entity	John Audino
+13917_1	is_in_sentence	sentence_13917
+13917_1	nsubj	13917_9
+13917_1	has_surface_form	Audino
+13917_1	part_of_entity	John Audino
+13917_9	is_in_sentence	sentence_13917
+13917_9	ROOT	13917_9
+13917_9	has_surface_form	is
+13917_2	is_in_sentence	sentence_13917
+13917_2	punct	13917_1
+13917_2	has_surface_form	(
+13917_3	is_in_sentence	sentence_13917
+13917_3	acl	13917_1
+13917_3	has_surface_form	born
+13917_4	is_in_sentence	sentence_13917
+13917_4	npadvmod	13917_3
+13917_4	has_surface_form	June
+13917_5	is_in_sentence	sentence_13917
+13917_5	nummod	13917_4
+13917_5	has_surface_form	5
+13917_6	is_in_sentence	sentence_13917
+13917_6	punct	13917_4
+13917_6	has_surface_form	,
+13917_7	is_in_sentence	sentence_13917
+13917_7	nummod	13917_4
+13917_7	has_surface_form	1953
+13917_8	is_in_sentence	sentence_13917
+13917_8	punct	13917_1
+13917_8	has_surface_form	)
+13917_10	is_in_sentence	sentence_13917
+13917_10	det	13917_13
+13917_10	has_surface_form	an
+13917_13	is_in_sentence	sentence_13917
+13917_13	attr	13917_9
+13917_13	has_surface_form	coach
+13917_13	part_of_entity	football coach
+13917_11	is_in_sentence	sentence_13917
+13917_11	amod	13917_13
+13917_11	has_surface_form	American
+13917_12	is_in_sentence	sentence_13917
+13917_12	compound	13917_13
+13917_12	has_surface_form	football
+13917_12	part_of_entity	football coach
+13917_14	is_in_sentence	sentence_13917
+13917_14	cc	13917_13
+13917_14	has_surface_form	and
+13917_15	is_in_sentence	sentence_13917
+13917_15	amod	13917_16
+13917_15	has_surface_form	former
+13917_16	is_in_sentence	sentence_13917
+13917_16	conj	13917_13
+13917_16	has_surface_form	player
+13917_17	is_in_sentence	sentence_13917
+13917_17	punct	13917_9
+13917_17	has_surface_form	.
+13917_18	is_in_sentence	sentence_13917
+13917_18	dep	13917_18
+13917_18	has_surface_form	
+John Audino	surface_form	John Audino
+John Audino	has-type	football coach
+football coach	surface_form	football coach

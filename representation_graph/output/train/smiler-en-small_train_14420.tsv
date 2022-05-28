@@ -1,0 +1,68 @@
+14419_0	is_in_sentence	sentence_14419
+14419_0	compound	14419_1
+14419_0	has_surface_form	Steve
+14419_1	is_in_sentence	sentence_14419
+14419_1	nsubj	14419_8
+14419_1	has_surface_form	McQueen
+14419_8	is_in_sentence	sentence_14419
+14419_8	ROOT	14419_8
+14419_8	has_surface_form	is
+14419_2	is_in_sentence	sentence_14419
+14419_2	punct	14419_1
+14419_2	has_surface_form	:
+14419_3	is_in_sentence	sentence_14419
+14419_3	det	14419_4
+14419_3	has_surface_form	The
+14419_4	is_in_sentence	sentence_14419
+14419_4	appos	14419_1
+14419_4	has_surface_form	Man
+14419_5	is_in_sentence	sentence_14419
+14419_5	cc	14419_4
+14419_5	has_surface_form	&
+14419_6	is_in_sentence	sentence_14419
+14419_6	compound	14419_7
+14419_6	has_surface_form	Le
+14419_7	is_in_sentence	sentence_14419
+14419_7	conj	14419_4
+14419_7	has_surface_form	Mans
+14419_9	is_in_sentence	sentence_14419
+14419_9	det	14419_11
+14419_9	has_surface_form	a
+14419_11	is_in_sentence	sentence_14419
+14419_11	attr	14419_8
+14419_11	has_surface_form	documentary
+14419_10	is_in_sentence	sentence_14419
+14419_10	nummod	14419_11
+14419_10	has_surface_form	2015
+14419_12	is_in_sentence	sentence_14419
+14419_12	acl	14419_11
+14419_12	has_surface_form	directed
+14419_13	is_in_sentence	sentence_14419
+14419_13	agent	14419_12
+14419_13	has_surface_form	by
+14419_14	is_in_sentence	sentence_14419
+14419_14	compound	14419_15
+14419_14	has_surface_form	John
+14419_15	is_in_sentence	sentence_14419
+14419_15	pobj	14419_13
+14419_15	has_surface_form	McKenna
+14419_16	is_in_sentence	sentence_14419
+14419_16	cc	14419_15
+14419_16	has_surface_form	and
+14419_17	is_in_sentence	sentence_14419
+14419_17	compound	14419_18
+14419_17	has_surface_form	Gabriel
+14419_17	part_of_entity	Gabriel Clarke
+14419_18	is_in_sentence	sentence_14419
+14419_18	conj	14419_15
+14419_18	has_surface_form	Clarke
+14419_18	part_of_entity	Gabriel Clarke
+14419_19	is_in_sentence	sentence_14419
+14419_19	punct	14419_8
+14419_19	has_surface_form	.
+14419_20	is_in_sentence	sentence_14419
+14419_20	dep	14419_20
+14419_20	has_surface_form	
+Steve McQueen: The Man & Le Mans	surface_form	Steve McQueen: The Man & Le Mans
+Steve McQueen: The Man & Le Mans	movie-has-director	Gabriel Clarke
+Gabriel Clarke	surface_form	Gabriel Clarke

@@ -1,0 +1,78 @@
+21079_0	is_in_sentence	sentence_21079
+21079_0	det	21079_3
+21079_0	has_surface_form	The
+21079_0	part_of_entity	The Last Jazz Musician
+21079_3	is_in_sentence	sentence_21079
+21079_3	nsubj	21079_4
+21079_3	has_surface_form	Musician
+21079_3	part_of_entity	The Last Jazz Musician
+21079_1	is_in_sentence	sentence_21079
+21079_1	amod	21079_2
+21079_1	has_surface_form	Last
+21079_1	part_of_entity	The Last Jazz Musician
+21079_2	is_in_sentence	sentence_21079
+21079_2	compound	21079_3
+21079_2	has_surface_form	Jazz
+21079_2	part_of_entity	The Last Jazz Musician
+21079_4	is_in_sentence	sentence_21079
+21079_4	ROOT	21079_4
+21079_4	has_surface_form	is
+21079_5	is_in_sentence	sentence_21079
+21079_5	det	21079_10
+21079_5	has_surface_form	a
+21079_10	is_in_sentence	sentence_21079
+21079_10	attr	21079_4
+21079_10	has_surface_form	film
+21079_6	is_in_sentence	sentence_21079
+21079_6	nummod	21079_8
+21079_6	has_surface_form	2010
+21079_8	is_in_sentence	sentence_21079
+21079_8	nmod	21079_10
+21079_8	has_surface_form	mm
+21079_7	is_in_sentence	sentence_21079
+21079_7	nummod	21079_8
+21079_7	has_surface_form	35
+21079_9	is_in_sentence	sentence_21079
+21079_9	amod	21079_10
+21079_9	has_surface_form	short
+21079_11	is_in_sentence	sentence_21079
+21079_11	acl	21079_10
+21079_11	has_surface_form	written
+21079_12	is_in_sentence	sentence_21079
+21079_12	agent	21079_11
+21079_12	has_surface_form	by
+21079_13	is_in_sentence	sentence_21079
+21079_13	compound	21079_15
+21079_13	has_surface_form	Daniel
+21079_15	is_in_sentence	sentence_21079
+21079_15	pobj	21079_12
+21079_15	has_surface_form	Palmer
+21079_14	is_in_sentence	sentence_21079
+21079_14	compound	21079_15
+21079_14	has_surface_form	James
+21079_16	is_in_sentence	sentence_21079
+21079_16	cc	21079_11
+21079_16	has_surface_form	and
+21079_17	is_in_sentence	sentence_21079
+21079_17	conj	21079_11
+21079_17	has_surface_form	directed
+21079_18	is_in_sentence	sentence_21079
+21079_18	agent	21079_17
+21079_18	has_surface_form	by
+21079_19	is_in_sentence	sentence_21079
+21079_19	compound	21079_20
+21079_19	has_surface_form	Lloyd
+21079_19	part_of_entity	Lloyd Handley
+21079_20	is_in_sentence	sentence_21079
+21079_20	pobj	21079_18
+21079_20	has_surface_form	Handley
+21079_20	part_of_entity	Lloyd Handley
+21079_21	is_in_sentence	sentence_21079
+21079_21	punct	21079_4
+21079_21	has_surface_form	.
+21079_22	is_in_sentence	sentence_21079
+21079_22	dep	21079_4
+21079_22	has_surface_form	
+The Last Jazz Musician	surface_form	The Last Jazz Musician
+The Last Jazz Musician	movie-has-director	Lloyd Handley
+Lloyd Handley	surface_form	Lloyd Handley

@@ -1,0 +1,108 @@
+35610_0	is_in_sentence	sentence_35610
+35610_0	det	35610_1
+35610_0	has_surface_form	A
+35610_0	part_of_entity	A Holiday with Piroschka
+35610_1	is_in_sentence	sentence_35610
+35610_1	dep	35610_8
+35610_1	has_surface_form	Holiday
+35610_1	part_of_entity	A Holiday with Piroschka
+35610_8	is_in_sentence	sentence_35610
+35610_8	ROOT	35610_8
+35610_8	has_surface_form	mit
+35610_2	is_in_sentence	sentence_35610
+35610_2	prep	35610_1
+35610_2	has_surface_form	with
+35610_2	part_of_entity	A Holiday with Piroschka
+35610_3	is_in_sentence	sentence_35610
+35610_3	pobj	35610_2
+35610_3	has_surface_form	Piroschka
+35610_3	part_of_entity	A Holiday with Piroschka
+35610_4	is_in_sentence	sentence_35610
+35610_4	punct	35610_5
+35610_4	has_surface_form	(
+35610_5	is_in_sentence	sentence_35610
+35610_5	appos	35610_1
+35610_5	has_surface_form	German
+35610_6	is_in_sentence	sentence_35610
+35610_6	punct	35610_8
+35610_6	has_surface_form	:
+35610_7	is_in_sentence	sentence_35610
+35610_7	nsubj	35610_8
+35610_7	has_surface_form	Ferien
+35610_9	is_in_sentence	sentence_35610
+35610_9	dobj	35610_8
+35610_9	has_surface_form	Piroschka
+35610_10	is_in_sentence	sentence_35610
+35610_10	punct	35610_8
+35610_10	has_surface_form	)
+35610_11	is_in_sentence	sentence_35610
+35610_11	ccomp	35610_8
+35610_11	has_surface_form	is
+35610_12	is_in_sentence	sentence_35610
+35610_12	det	35610_15
+35610_12	has_surface_form	a
+35610_15	is_in_sentence	sentence_35610
+35610_15	attr	35610_11
+35610_15	has_surface_form	film
+35610_13	is_in_sentence	sentence_35610
+35610_13	nummod	35610_15
+35610_13	has_surface_form	1965
+35610_14	is_in_sentence	sentence_35610
+35610_14	compound	35610_15
+35610_14	has_surface_form	comedy
+35610_16	is_in_sentence	sentence_35610
+35610_16	acl	35610_15
+35610_16	has_surface_form	directed
+35610_17	is_in_sentence	sentence_35610
+35610_17	agent	35610_16
+35610_17	has_surface_form	by
+35610_18	is_in_sentence	sentence_35610
+35610_18	compound	35610_20
+35610_18	has_surface_form	Franz
+35610_20	is_in_sentence	sentence_35610
+35610_20	pobj	35610_17
+35610_20	has_surface_form	Gottlieb
+35610_19	is_in_sentence	sentence_35610
+35610_19	compound	35610_20
+35610_19	has_surface_form	Josef
+35610_21	is_in_sentence	sentence_35610
+35610_21	cc	35610_16
+35610_21	has_surface_form	and
+35610_22	is_in_sentence	sentence_35610
+35610_22	conj	35610_16
+35610_22	has_surface_form	starring
+35610_23	is_in_sentence	sentence_35610
+35610_23	compound	35610_24
+35610_23	has_surface_form	Marie
+35610_24	is_in_sentence	sentence_35610
+35610_24	dobj	35610_22
+35610_24	has_surface_form	Versini
+35610_25	is_in_sentence	sentence_35610
+35610_25	punct	35610_24
+35610_25	has_surface_form	,
+35610_26	is_in_sentence	sentence_35610
+35610_26	compound	35610_27
+35610_26	has_surface_form	Götz
+35610_27	is_in_sentence	sentence_35610
+35610_27	conj	35610_24
+35610_27	has_surface_form	George
+35610_28	is_in_sentence	sentence_35610
+35610_28	cc	35610_27
+35610_28	has_surface_form	and
+35610_29	is_in_sentence	sentence_35610
+35610_29	compound	35610_30
+35610_29	has_surface_form	Dietmar
+35610_29	part_of_entity	Dietmar Schönherr
+35610_30	is_in_sentence	sentence_35610
+35610_30	conj	35610_27
+35610_30	has_surface_form	Schönherr
+35610_30	part_of_entity	Dietmar Schönherr
+35610_31	is_in_sentence	sentence_35610
+35610_31	punct	35610_8
+35610_31	has_surface_form	.
+35610_32	is_in_sentence	sentence_35610
+35610_32	dep	35610_32
+35610_32	has_surface_form	
+A Holiday with Piroschka	surface_form	A Holiday with Piroschka
+A Holiday with Piroschka	starring	Dietmar Schönherr
+Dietmar Schönherr	surface_form	Dietmar Schönherr

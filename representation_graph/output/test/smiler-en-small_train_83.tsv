@@ -1,0 +1,95 @@
+82_0	is_in_sentence	sentence_82
+82_0	compound	82_1
+82_0	has_surface_form	Garage
+82_0	part_of_entity	Garage A Trois
+82_1	is_in_sentence	sentence_82
+82_1	nsubj	82_7
+82_1	has_surface_form	A
+82_1	part_of_entity	Garage A Trois
+82_7	is_in_sentence	sentence_82
+82_7	ROOT	82_7
+82_7	has_surface_form	is
+82_2	is_in_sentence	sentence_82
+82_2	pobj	82_1
+82_2	has_surface_form	Trois
+82_2	part_of_entity	Garage A Trois
+82_3	is_in_sentence	sentence_82
+82_3	punct	82_5
+82_3	has_surface_form	(
+82_5	is_in_sentence	sentence_82
+82_5	appos	82_2
+82_5	has_surface_form	GAT
+82_4	is_in_sentence	sentence_82
+82_4	compound	82_5
+82_4	has_surface_form	a.
+82_6	is_in_sentence	sentence_82
+82_6	punct	82_5
+82_6	has_surface_form	)
+82_8	is_in_sentence	sentence_82
+82_8	det	82_9
+82_8	has_surface_form	a
+82_9	is_in_sentence	sentence_82
+82_9	attr	82_7
+82_9	has_surface_form	quartet
+82_10	is_in_sentence	sentence_82
+82_10	prep	82_9
+82_10	has_surface_form	including
+82_11	is_in_sentence	sentence_82
+82_11	compound	82_13
+82_11	has_surface_form	drummer
+82_13	is_in_sentence	sentence_82
+82_13	pobj	82_10
+82_13	has_surface_form	Moore
+82_12	is_in_sentence	sentence_82
+82_12	compound	82_13
+82_12	has_surface_form	Stanton
+82_14	is_in_sentence	sentence_82
+82_14	punct	82_13
+82_14	has_surface_form	,
+82_15	is_in_sentence	sentence_82
+82_15	compound	82_16
+82_15	has_surface_form	saxophonist
+82_16	is_in_sentence	sentence_82
+82_16	conj	82_13
+82_16	has_surface_form	Skerik
+82_17	is_in_sentence	sentence_82
+82_17	punct	82_16
+82_17	has_surface_form	,
+82_18	is_in_sentence	sentence_82
+82_18	conj	82_16
+82_18	has_surface_form	vibraphone
+82_19	is_in_sentence	sentence_82
+82_19	cc	82_18
+82_19	has_surface_form	and
+82_20	is_in_sentence	sentence_82
+82_20	conj	82_18
+82_20	has_surface_form	percussionist
+82_21	is_in_sentence	sentence_82
+82_21	compound	82_22
+82_21	has_surface_form	Mike
+82_22	is_in_sentence	sentence_82
+82_22	appos	82_16
+82_22	has_surface_form	Dillon
+82_23	is_in_sentence	sentence_82
+82_23	cc	82_22
+82_23	has_surface_form	and
+82_24	is_in_sentence	sentence_82
+82_24	amod	82_26
+82_24	has_surface_form	keyboardist
+82_26	is_in_sentence	sentence_82
+82_26	conj	82_22
+82_26	has_surface_form	Benevento
+82_26	part_of_entity	Marco Benevento
+82_25	is_in_sentence	sentence_82
+82_25	compound	82_26
+82_25	has_surface_form	Marco
+82_25	part_of_entity	Marco Benevento
+82_27	is_in_sentence	sentence_82
+82_27	punct	82_7
+82_27	has_surface_form	.
+82_28	is_in_sentence	sentence_82
+82_28	dep	82_28
+82_28	has_surface_form	
+Garage A Trois	surface_form	Garage A Trois
+Garage A Trois	org-has-member	Marco Benevento
+Marco Benevento	surface_form	Marco Benevento

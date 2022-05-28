@@ -1,0 +1,49 @@
+15736_0	is_in_sentence	sentence_15736
+15736_0	compound	15736_1
+15736_0	is_entity	shark
+15736_1	is_in_sentence	sentence_15736
+15736_1	nsubj	15736_2
+15736_1	has_surface_form	lifespans
+shark	surface_form	shark
+shark	has-lifespan	20 to 30 years
+15736_2	is_in_sentence	sentence_15736
+15736_2	ROOT	15736_2
+15736_2	has_surface_form	vary
+15736_3	is_in_sentence	sentence_15736
+15736_3	prep	15736_2
+15736_3	has_surface_form	by
+15736_4	is_in_sentence	sentence_15736
+15736_4	pobj	15736_3
+15736_4	has_surface_form	species
+15736_5	is_in_sentence	sentence_15736
+15736_5	punct	15736_2
+15736_5	has_surface_form	.
+15736_6	is_in_sentence	sentence_15736
+15736_6	advmod	15736_7
+15736_6	has_surface_form	Most
+15736_7	is_in_sentence	sentence_15736
+15736_7	ROOT	15736_7
+15736_7	has_surface_form	live
+15736_8	is_in_sentence	sentence_15736
+15736_8	quantmod	15736_10
+15736_8	has_surface_form	20
+15736_8	part_of_entity	20 to 30 years
+15736_10	is_in_sentence	sentence_15736
+15736_10	nummod	15736_11
+15736_10	has_surface_form	30
+15736_10	part_of_entity	20 to 30 years
+15736_9	is_in_sentence	sentence_15736
+15736_9	quantmod	15736_10
+15736_9	has_surface_form	to
+15736_9	part_of_entity	20 to 30 years
+15736_11	is_in_sentence	sentence_15736
+15736_11	npadvmod	15736_7
+15736_11	has_surface_form	years
+15736_11	part_of_entity	20 to 30 years
+15736_12	is_in_sentence	sentence_15736
+15736_12	punct	15736_7
+15736_12	has_surface_form	.
+15736_13	is_in_sentence	sentence_15736
+15736_13	dep	15736_13
+15736_13	has_surface_form	
+20 to 30 years	surface_form	20 to 30 years

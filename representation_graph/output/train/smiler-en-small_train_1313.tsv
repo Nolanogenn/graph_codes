@@ -1,0 +1,62 @@
+1312_0	is_in_sentence	sentence_1312
+1312_0	compound	1312_1
+1312_0	has_surface_form	Kamila
+1312_0	part_of_entity	Kamila Nasr
+1312_1	is_in_sentence	sentence_1312
+1312_1	nsubj	1312_2
+1312_1	has_surface_form	Nasr
+1312_1	part_of_entity	Kamila Nasr
+1312_2	is_in_sentence	sentence_1312
+1312_2	ROOT	1312_2
+1312_2	has_surface_form	is
+1312_3	is_in_sentence	sentence_1312
+1312_3	det	1312_5
+1312_3	has_surface_form	a
+1312_5	is_in_sentence	sentence_1312
+1312_5	attr	1312_2
+1312_5	is_entity	singer
+1312_4	is_in_sentence	sentence_1312
+1312_4	amod	1312_5
+1312_4	has_surface_form	Canadian
+singer	surface_form	singer
+1312_6	is_in_sentence	sentence_1312
+1312_6	punct	1312_5
+1312_6	has_surface_form	,
+1312_7	is_in_sentence	sentence_1312
+1312_7	conj	1312_5
+1312_7	has_surface_form	composer
+1312_8	is_in_sentence	sentence_1312
+1312_8	cc	1312_7
+1312_8	has_surface_form	and
+1312_9	is_in_sentence	sentence_1312
+1312_9	conj	1312_7
+1312_9	has_surface_form	multi
+1312_10	is_in_sentence	sentence_1312
+1312_10	conj	1312_7
+1312_10	has_surface_form	-
+1312_11	is_in_sentence	sentence_1312
+1312_11	punct	1312_5
+1312_11	has_surface_form	instrumentalist
+1312_12	is_in_sentence	sentence_1312
+1312_12	acl	1312_5
+1312_12	has_surface_form	based
+1312_13	is_in_sentence	sentence_1312
+1312_13	prep	1312_12
+1312_13	has_surface_form	in
+1312_14	is_in_sentence	sentence_1312
+1312_14	pobj	1312_13
+1312_14	has_surface_form	Beijing
+1312_15	is_in_sentence	sentence_1312
+1312_15	punct	1312_14
+1312_15	has_surface_form	,
+1312_16	is_in_sentence	sentence_1312
+1312_16	appos	1312_14
+1312_16	has_surface_form	China
+1312_17	is_in_sentence	sentence_1312
+1312_17	punct	1312_2
+1312_17	has_surface_form	.
+1312_18	is_in_sentence	sentence_1312
+1312_18	dep	1312_2
+1312_18	has_surface_form	
+Kamila Nasr	surface_form	Kamila Nasr
+Kamila Nasr	has-occupation	singer

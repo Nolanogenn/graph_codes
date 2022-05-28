@@ -1,0 +1,87 @@
+18824_0	is_in_sentence	sentence_18824
+18824_0	det	18824_1
+18824_0	has_surface_form	A
+18824_0	part_of_entity	A Son Is Born
+18824_1	is_in_sentence	sentence_18824
+18824_1	nsubj	18824_4
+18824_1	has_surface_form	Son
+18824_1	part_of_entity	A Son Is Born
+18824_4	is_in_sentence	sentence_18824
+18824_4	ROOT	18824_4
+18824_4	has_surface_form	is
+18824_2	is_in_sentence	sentence_18824
+18824_2	auxpass	18824_3
+18824_2	has_surface_form	Is
+18824_2	part_of_entity	A Son Is Born
+18824_3	is_in_sentence	sentence_18824
+18824_3	relcl	18824_1
+18824_3	has_surface_form	Born
+18824_3	part_of_entity	A Son Is Born
+18824_5	is_in_sentence	sentence_18824
+18824_5	det	18824_8
+18824_5	has_surface_form	a
+18824_8	is_in_sentence	sentence_18824
+18824_8	attr	18824_4
+18824_8	has_surface_form	melodrama
+18824_6	is_in_sentence	sentence_18824
+18824_6	nummod	18824_8
+18824_6	has_surface_form	1946
+18824_7	is_in_sentence	sentence_18824
+18824_7	amod	18824_8
+18824_7	has_surface_form	Australian
+18824_9	is_in_sentence	sentence_18824
+18824_9	acl	18824_8
+18824_9	has_surface_form	directed
+18824_10	is_in_sentence	sentence_18824
+18824_10	agent	18824_9
+18824_10	has_surface_form	by
+18824_11	is_in_sentence	sentence_18824
+18824_11	compound	18824_12
+18824_11	has_surface_form	Eric
+18824_11	part_of_entity	Eric Porter
+18824_12	is_in_sentence	sentence_18824
+18824_12	pobj	18824_10
+18824_12	has_surface_form	Porter
+18824_12	part_of_entity	Eric Porter
+18824_13	is_in_sentence	sentence_18824
+18824_13	cc	18824_9
+18824_13	has_surface_form	and
+18824_14	is_in_sentence	sentence_18824
+18824_14	conj	18824_9
+18824_14	has_surface_form	starring
+18824_15	is_in_sentence	sentence_18824
+18824_15	compound	18824_16
+18824_15	has_surface_form	Ron
+18824_16	is_in_sentence	sentence_18824
+18824_16	dobj	18824_14
+18824_16	has_surface_form	Randell
+18824_17	is_in_sentence	sentence_18824
+18824_17	punct	18824_16
+18824_17	has_surface_form	,
+18824_18	is_in_sentence	sentence_18824
+18824_18	compound	18824_19
+18824_18	has_surface_form	Peter
+18824_19	is_in_sentence	sentence_18824
+18824_19	conj	18824_16
+18824_19	has_surface_form	Finch
+18824_20	is_in_sentence	sentence_18824
+18824_20	punct	18824_19
+18824_20	has_surface_form	,
+18824_21	is_in_sentence	sentence_18824
+18824_21	cc	18824_19
+18824_21	has_surface_form	and
+18824_22	is_in_sentence	sentence_18824
+18824_22	compound	18824_23
+18824_22	has_surface_form	Muriel
+18824_23	is_in_sentence	sentence_18824
+18824_23	conj	18824_19
+18824_23	has_surface_form	Steinbeck
+18824_24	is_in_sentence	sentence_18824
+18824_24	punct	18824_4
+18824_24	has_surface_form	.
+18824_25	is_in_sentence	sentence_18824
+18824_25	dep	18824_25
+18824_25	has_surface_form	
+A Son Is Born	surface_form	A Son Is Born
+A Son Is Born	movie-has-director	Eric Porter
+Eric Porter	surface_form	Eric Porter

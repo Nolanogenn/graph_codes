@@ -1,0 +1,108 @@
+34706_0	is_in_sentence	sentence_34706
+34706_0	nsubj	34706_1
+34706_0	has_surface_form	Ida
+34706_0	part_of_entity	Ida Makes a Movie
+34706_1	is_in_sentence	sentence_34706
+34706_1	ROOT	34706_1
+34706_1	has_surface_form	Makes
+34706_1	part_of_entity	Ida Makes a Movie
+34706_2	is_in_sentence	sentence_34706
+34706_2	det	34706_3
+34706_2	has_surface_form	a
+34706_2	part_of_entity	Ida Makes a Movie
+34706_3	is_in_sentence	sentence_34706
+34706_3	nsubj	34706_4
+34706_3	has_surface_form	Movie
+34706_3	part_of_entity	Ida Makes a Movie
+34706_4	is_in_sentence	sentence_34706
+34706_4	ccomp	34706_1
+34706_4	has_surface_form	is
+34706_5	is_in_sentence	sentence_34706
+34706_5	det	34706_8
+34706_5	has_surface_form	a
+34706_8	is_in_sentence	sentence_34706
+34706_8	attr	34706_4
+34706_8	has_surface_form	film
+34706_6	is_in_sentence	sentence_34706
+34706_6	nummod	34706_8
+34706_6	has_surface_form	1979
+34706_7	is_in_sentence	sentence_34706
+34706_7	amod	34706_8
+34706_7	has_surface_form	short
+34706_9	is_in_sentence	sentence_34706
+34706_9	nsubj	34706_10
+34706_9	has_surface_form	that
+34706_10	is_in_sentence	sentence_34706
+34706_10	relcl	34706_8
+34706_10	has_surface_form	inspired
+34706_11	is_in_sentence	sentence_34706
+34706_11	det	34706_13
+34706_11	has_surface_form	the
+34706_13	is_in_sentence	sentence_34706
+34706_13	dobj	34706_10
+34706_13	has_surface_form	franchise
+34706_12	is_in_sentence	sentence_34706
+34706_12	compound	34706_13
+34706_12	has_surface_form	Degrassi
+34706_14	is_in_sentence	sentence_34706
+34706_14	punct	34706_1
+34706_14	has_surface_form	.
+34706_15	is_in_sentence	sentence_34706
+34706_15	nsubjpass	34706_17
+34706_15	has_surface_form	It
+34706_17	is_in_sentence	sentence_34706
+34706_17	ROOT	34706_17
+34706_17	has_surface_form	directed
+34706_16	is_in_sentence	sentence_34706
+34706_16	auxpass	34706_17
+34706_16	has_surface_form	was
+34706_18	is_in_sentence	sentence_34706
+34706_18	agent	34706_17
+34706_18	has_surface_form	by
+34706_19	is_in_sentence	sentence_34706
+34706_19	compound	34706_20
+34706_19	has_surface_form	Kit
+34706_20	is_in_sentence	sentence_34706
+34706_20	pobj	34706_18
+34706_20	has_surface_form	Hood
+34706_21	is_in_sentence	sentence_34706
+34706_21	cc	34706_20
+34706_21	has_surface_form	and
+34706_22	is_in_sentence	sentence_34706
+34706_22	compound	34706_23
+34706_22	has_surface_form	Linda
+34706_22	part_of_entity	Linda Schuyler
+34706_23	is_in_sentence	sentence_34706
+34706_23	conj	34706_20
+34706_23	has_surface_form	Schuyler
+34706_23	part_of_entity	Linda Schuyler
+34706_24	is_in_sentence	sentence_34706
+34706_24	cc	34706_17
+34706_24	has_surface_form	and
+34706_25	is_in_sentence	sentence_34706
+34706_25	auxpass	34706_26
+34706_25	has_surface_form	was
+34706_26	is_in_sentence	sentence_34706
+34706_26	conj	34706_17
+34706_26	has_surface_form	written
+34706_27	is_in_sentence	sentence_34706
+34706_27	agent	34706_26
+34706_27	has_surface_form	by
+34706_28	is_in_sentence	sentence_34706
+34706_28	compound	34706_30
+34706_28	has_surface_form	Amy
+34706_30	is_in_sentence	sentence_34706
+34706_30	pobj	34706_27
+34706_30	has_surface_form	Cooper
+34706_29	is_in_sentence	sentence_34706
+34706_29	compound	34706_30
+34706_29	has_surface_form	Jo
+34706_31	is_in_sentence	sentence_34706
+34706_31	punct	34706_17
+34706_31	has_surface_form	.
+34706_32	is_in_sentence	sentence_34706
+34706_32	dep	34706_32
+34706_32	has_surface_form	
+Ida Makes a Movie	surface_form	Ida Makes a Movie
+Ida Makes a Movie	movie-has-director	Linda Schuyler
+Linda Schuyler	surface_form	Linda Schuyler

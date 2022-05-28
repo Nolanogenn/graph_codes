@@ -1,0 +1,65 @@
+24505_0	is_in_sentence	sentence_24505
+24505_0	compound	24505_1
+24505_0	has_surface_form	Daniele
+24505_0	part_of_entity	Daniele Nardello
+24505_1	is_in_sentence	sentence_24505
+24505_1	nsubj	24505_10
+24505_1	has_surface_form	Nardello
+24505_1	part_of_entity	Daniele Nardello
+24505_10	is_in_sentence	sentence_24505
+24505_10	ROOT	24505_10
+24505_10	has_surface_form	is
+24505_2	is_in_sentence	sentence_24505
+24505_2	punct	24505_3
+24505_2	has_surface_form	(
+24505_3	is_in_sentence	sentence_24505
+24505_3	parataxis	24505_1
+24505_3	has_surface_form	born
+24505_4	is_in_sentence	sentence_24505
+24505_4	nummod	24505_5
+24505_4	has_surface_form	2
+24505_5	is_in_sentence	sentence_24505
+24505_5	npadvmod	24505_3
+24505_5	has_surface_form	August
+24505_6	is_in_sentence	sentence_24505
+24505_6	nummod	24505_5
+24505_6	has_surface_form	1972
+24505_7	is_in_sentence	sentence_24505
+24505_7	prep	24505_3
+24505_7	has_surface_form	in
+24505_8	is_in_sentence	sentence_24505
+24505_8	pobj	24505_7
+24505_8	is_entity	Varese
+Varese	surface_form	Varese
+24505_9	is_in_sentence	sentence_24505
+24505_9	punct	24505_1
+24505_9	has_surface_form	)
+24505_11	is_in_sentence	sentence_24505
+24505_11	det	24505_17
+24505_11	has_surface_form	a
+24505_17	is_in_sentence	sentence_24505
+24505_17	attr	24505_10
+24505_17	has_surface_form	cyclist
+24505_12	is_in_sentence	sentence_24505
+24505_12	amod	24505_17
+24505_12	has_surface_form	retired
+24505_13	is_in_sentence	sentence_24505
+24505_13	amod	24505_17
+24505_13	has_surface_form	Italian
+24505_14	is_in_sentence	sentence_24505
+24505_14	amod	24505_17
+24505_14	has_surface_form	professional
+24505_15	is_in_sentence	sentence_24505
+24505_15	compound	24505_16
+24505_15	has_surface_form	road
+24505_16	is_in_sentence	sentence_24505
+24505_16	compound	24505_17
+24505_16	has_surface_form	racing
+24505_18	is_in_sentence	sentence_24505
+24505_18	punct	24505_10
+24505_18	has_surface_form	.
+24505_19	is_in_sentence	sentence_24505
+24505_19	dep	24505_19
+24505_19	has_surface_form	
+Daniele Nardello	surface_form	Daniele Nardello
+Daniele Nardello	birth-place	Varese

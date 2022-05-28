@@ -1,0 +1,71 @@
+288_0	is_in_sentence	sentence_288
+288_0	det	288_2
+288_0	has_surface_form	A
+288_0	part_of_entity	A Carol Christmas
+288_2	is_in_sentence	sentence_288
+288_2	nsubj	288_3
+288_2	has_surface_form	Christmas
+288_2	part_of_entity	A Carol Christmas
+288_1	is_in_sentence	sentence_288
+288_1	compound	288_2
+288_1	has_surface_form	Carol
+288_1	part_of_entity	A Carol Christmas
+288_3	is_in_sentence	sentence_288
+288_3	ROOT	288_3
+288_3	has_surface_form	is
+288_4	is_in_sentence	sentence_288
+288_4	det	288_6
+288_4	has_surface_form	a
+288_6	is_in_sentence	sentence_288
+288_6	attr	288_3
+288_6	has_surface_form	movie
+288_5	is_in_sentence	sentence_288
+288_5	compound	288_6
+288_5	has_surface_form	TV
+288_7	is_in_sentence	sentence_288
+288_7	acl	288_6
+288_7	has_surface_form	starring
+288_8	is_in_sentence	sentence_288
+288_8	compound	288_9
+288_8	has_surface_form	Tori
+288_8	part_of_entity	Tori Spelling
+288_9	is_in_sentence	sentence_288
+288_9	dobj	288_7
+288_9	has_surface_form	Spelling
+288_9	part_of_entity	Tori Spelling
+288_10	is_in_sentence	sentence_288
+288_10	punct	288_9
+288_10	has_surface_form	,
+288_11	is_in_sentence	sentence_288
+288_11	compound	288_12
+288_11	has_surface_form	Dinah
+288_12	is_in_sentence	sentence_288
+288_12	conj	288_9
+288_12	has_surface_form	Manoff
+288_13	is_in_sentence	sentence_288
+288_13	punct	288_12
+288_13	has_surface_form	,
+288_14	is_in_sentence	sentence_288
+288_14	compound	288_15
+288_14	has_surface_form	William
+288_15	is_in_sentence	sentence_288
+288_15	conj	288_12
+288_15	has_surface_form	Shatner
+288_16	is_in_sentence	sentence_288
+288_16	cc	288_15
+288_16	has_surface_form	and
+288_17	is_in_sentence	sentence_288
+288_17	compound	288_18
+288_17	has_surface_form	Gary
+288_18	is_in_sentence	sentence_288
+288_18	conj	288_15
+288_18	has_surface_form	Coleman
+288_19	is_in_sentence	sentence_288
+288_19	punct	288_3
+288_19	has_surface_form	.
+288_20	is_in_sentence	sentence_288
+288_20	dep	288_20
+288_20	has_surface_form	
+A Carol Christmas	surface_form	A Carol Christmas
+A Carol Christmas	starring	Tori Spelling
+Tori Spelling	surface_form	Tori Spelling

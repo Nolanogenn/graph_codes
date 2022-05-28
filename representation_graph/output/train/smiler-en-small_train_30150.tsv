@@ -1,0 +1,83 @@
+30149_0	is_in_sentence	sentence_30149
+30149_0	compound	30149_2
+30149_0	has_surface_form	New
+30149_0	part_of_entity	New Town Road
+30149_2	is_in_sentence	sentence_30149
+30149_2	nsubj	30149_3
+30149_2	has_surface_form	Road
+30149_2	part_of_entity	New Town Road
+30149_1	is_in_sentence	sentence_30149
+30149_1	compound	30149_2
+30149_1	has_surface_form	Town
+30149_1	part_of_entity	New Town Road
+30149_3	is_in_sentence	sentence_30149
+30149_3	ROOT	30149_3
+30149_3	has_surface_form	is
+30149_4	is_in_sentence	sentence_30149
+30149_4	det	30149_6
+30149_4	has_surface_form	a
+30149_6	is_in_sentence	sentence_30149
+30149_6	attr	30149_3
+30149_6	has_surface_form	road
+30149_6	part_of_entity	link road
+30149_5	is_in_sentence	sentence_30149
+30149_5	compound	30149_6
+30149_5	has_surface_form	link
+30149_5	part_of_entity	link road
+30149_7	is_in_sentence	sentence_30149
+30149_7	nsubj	30149_8
+30149_7	has_surface_form	that
+30149_8	is_in_sentence	sentence_30149
+30149_8	relcl	30149_6
+30149_8	has_surface_form	connects
+30149_9	is_in_sentence	sentence_30149
+30149_9	compound	30149_10
+30149_9	has_surface_form	Elizabeth
+30149_10	is_in_sentence	sentence_30149
+30149_10	dobj	30149_8
+30149_10	has_surface_form	Street
+30149_11	is_in_sentence	sentence_30149
+30149_11	prep	30149_8
+30149_11	has_surface_form	to
+30149_12	is_in_sentence	sentence_30149
+30149_12	det	30149_14
+30149_12	has_surface_form	the
+30149_14	is_in_sentence	sentence_30149
+30149_14	pobj	30149_11
+30149_14	has_surface_form	Road
+30149_13	is_in_sentence	sentence_30149
+30149_13	compound	30149_14
+30149_13	has_surface_form	Main
+30149_15	is_in_sentence	sentence_30149
+30149_15	prep	30149_8
+30149_15	has_surface_form	within
+30149_16	is_in_sentence	sentence_30149
+30149_16	det	30149_18
+30149_16	has_surface_form	the
+30149_18	is_in_sentence	sentence_30149
+30149_18	pobj	30149_15
+30149_18	has_surface_form	area
+30149_17	is_in_sentence	sentence_30149
+30149_17	amod	30149_18
+30149_17	has_surface_form	greater
+30149_19	is_in_sentence	sentence_30149
+30149_19	prep	30149_18
+30149_19	has_surface_form	of
+30149_20	is_in_sentence	sentence_30149
+30149_20	pobj	30149_19
+30149_20	has_surface_form	Hobart
+30149_21	is_in_sentence	sentence_30149
+30149_21	punct	30149_20
+30149_21	has_surface_form	,
+30149_22	is_in_sentence	sentence_30149
+30149_22	appos	30149_20
+30149_22	has_surface_form	Tasmania
+30149_23	is_in_sentence	sentence_30149
+30149_23	punct	30149_3
+30149_23	has_surface_form	.
+30149_24	is_in_sentence	sentence_30149
+30149_24	dep	30149_24
+30149_24	has_surface_form	
+New Town Road	surface_form	New Town Road
+New Town Road	has-type	link road
+link road	surface_form	link road

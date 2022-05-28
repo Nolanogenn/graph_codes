@@ -1,0 +1,40 @@
+32205_0	is_in_sentence	sentence_32205
+32205_0	compound	32205_1
+32205_0	has_surface_form	Richard
+32205_0	part_of_entity	Richard Trevithick
+32205_1	is_in_sentence	sentence_32205
+32205_1	nsubj	32205_2
+32205_1	has_surface_form	Trevithick
+32205_1	part_of_entity	Richard Trevithick
+32205_2	is_in_sentence	sentence_32205
+32205_2	ROOT	32205_2
+32205_2	has_surface_form	built
+32205_3	is_in_sentence	sentence_32205
+32205_3	det	32205_6
+32205_3	has_surface_form	the
+32205_6	is_in_sentence	sentence_32205
+32205_6	dobj	32205_2
+32205_6	has_surface_form	locomotive
+32205_6	part_of_entity	steam locomotive
+32205_4	is_in_sentence	sentence_32205
+32205_4	amod	32205_6
+32205_4	has_surface_form	first
+32205_5	is_in_sentence	sentence_32205
+32205_5	compound	32205_6
+32205_5	has_surface_form	steam
+32205_5	part_of_entity	steam locomotive
+32205_7	is_in_sentence	sentence_32205
+32205_7	prep	32205_2
+32205_7	has_surface_form	in
+32205_8	is_in_sentence	sentence_32205
+32205_8	pobj	32205_7
+32205_8	has_surface_form	1802
+32205_9	is_in_sentence	sentence_32205
+32205_9	punct	32205_2
+32205_9	has_surface_form	.
+32205_10	is_in_sentence	sentence_32205
+32205_10	dep	32205_10
+32205_10	has_surface_form	
+steam locomotive	surface_form	steam locomotive
+steam locomotive	invented-by	Richard Trevithick
+Richard Trevithick	surface_form	Richard Trevithick

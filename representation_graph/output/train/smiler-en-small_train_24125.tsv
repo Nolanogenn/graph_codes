@@ -1,0 +1,41 @@
+24124_0	is_in_sentence	sentence_24124
+24124_0	compound	24124_1
+24124_0	has_surface_form	David
+24124_0	part_of_entity	David Probert
+24124_1	is_in_sentence	sentence_24124
+24124_1	nsubj	24124_6
+24124_1	has_surface_form	Probert
+24124_1	part_of_entity	David Probert
+24124_6	is_in_sentence	sentence_24124
+24124_6	ROOT	24124_6
+24124_6	has_surface_form	is
+24124_2	is_in_sentence	sentence_24124
+24124_2	punct	24124_1
+24124_2	has_surface_form	(
+24124_3	is_in_sentence	sentence_24124
+24124_3	acl	24124_1
+24124_3	has_surface_form	born
+24124_4	is_in_sentence	sentence_24124
+24124_4	npadvmod	24124_3
+24124_4	has_surface_form	1988
+24124_5	is_in_sentence	sentence_24124
+24124_5	punct	24124_1
+24124_5	has_surface_form	)
+24124_7	is_in_sentence	sentence_24124
+24124_7	det	24124_9
+24124_7	has_surface_form	a
+24124_9	is_in_sentence	sentence_24124
+24124_9	attr	24124_6
+24124_9	is_entity	jockey
+24124_8	is_in_sentence	sentence_24124
+24124_8	compound	24124_9
+24124_8	has_surface_form	Welsh
+jockey	surface_form	jockey
+24124_10	is_in_sentence	sentence_24124
+24124_10	punct	24124_6
+24124_10	has_surface_form	.
+24124_11	is_in_sentence	sentence_24124
+24124_11	dep	24124_6
+24124_11	has_surface_form	
+David Probert	surface_form	David Probert
+David Probert	has-occupation	jockey

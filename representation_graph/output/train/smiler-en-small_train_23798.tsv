@@ -1,0 +1,67 @@
+23797_0	is_in_sentence	sentence_23797
+23797_0	compound	23797_1
+23797_0	has_surface_form	Oorum
+23797_0	part_of_entity	Oorum Uravum
+23797_1	is_in_sentence	sentence_23797
+23797_1	nsubj	23797_2
+23797_1	has_surface_form	Uravum
+23797_1	part_of_entity	Oorum Uravum
+23797_2	is_in_sentence	sentence_23797
+23797_2	ROOT	23797_2
+23797_2	has_surface_form	is
+23797_3	is_in_sentence	sentence_23797
+23797_3	det	23797_7
+23797_3	has_surface_form	a
+23797_7	is_in_sentence	sentence_23797
+23797_7	attr	23797_2
+23797_7	has_surface_form	film
+23797_4	is_in_sentence	sentence_23797
+23797_4	nummod	23797_7
+23797_4	has_surface_form	1982
+23797_5	is_in_sentence	sentence_23797
+23797_5	amod	23797_6
+23797_5	has_surface_form	Indian
+23797_6	is_in_sentence	sentence_23797
+23797_6	compound	23797_7
+23797_6	has_surface_form	Tamil
+23797_8	is_in_sentence	sentence_23797
+23797_8	punct	23797_7
+23797_8	has_surface_form	,
+23797_9	is_in_sentence	sentence_23797
+23797_9	acl	23797_7
+23797_9	has_surface_form	directed
+23797_10	is_in_sentence	sentence_23797
+23797_10	agent	23797_9
+23797_10	has_surface_form	by
+23797_11	is_in_sentence	sentence_23797
+23797_11	compound	23797_12
+23797_11	has_surface_form	Major
+23797_11	part_of_entity	Major Sundarrajan
+23797_12	is_in_sentence	sentence_23797
+23797_12	pobj	23797_10
+23797_12	has_surface_form	Sundarrajan
+23797_12	part_of_entity	Major Sundarrajan
+23797_13	is_in_sentence	sentence_23797
+23797_13	cc	23797_9
+23797_13	has_surface_form	and
+23797_14	is_in_sentence	sentence_23797
+23797_14	conj	23797_9
+23797_14	has_surface_form	produced
+23797_15	is_in_sentence	sentence_23797
+23797_15	agent	23797_14
+23797_15	has_surface_form	by
+23797_16	is_in_sentence	sentence_23797
+23797_16	compound	23797_17
+23797_16	has_surface_form	Pushpa
+23797_17	is_in_sentence	sentence_23797
+23797_17	pobj	23797_15
+23797_17	has_surface_form	Rajan
+23797_18	is_in_sentence	sentence_23797
+23797_18	punct	23797_2
+23797_18	has_surface_form	.
+23797_19	is_in_sentence	sentence_23797
+23797_19	dep	23797_2
+23797_19	has_surface_form	
+Oorum Uravum	surface_form	Oorum Uravum
+Oorum Uravum	movie-has-director	Major Sundarrajan
+Major Sundarrajan	surface_form	Major Sundarrajan

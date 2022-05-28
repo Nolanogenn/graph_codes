@@ -1,0 +1,73 @@
+13201_0	is_in_sentence	sentence_13201
+13201_0	compound	13201_1
+13201_0	has_surface_form	Alan
+13201_0	part_of_entity	Alan Moulder
+13201_1	is_in_sentence	sentence_13201
+13201_1	nsubj	13201_8
+13201_1	has_surface_form	Moulder
+13201_1	part_of_entity	Alan Moulder
+13201_8	is_in_sentence	sentence_13201
+13201_8	ROOT	13201_8
+13201_8	has_surface_form	is
+13201_2	is_in_sentence	sentence_13201
+13201_2	punct	13201_1
+13201_2	has_surface_form	(
+13201_3	is_in_sentence	sentence_13201
+13201_3	acl	13201_1
+13201_3	has_surface_form	born
+13201_4	is_in_sentence	sentence_13201
+13201_4	npadvmod	13201_3
+13201_4	has_surface_form	11
+13201_5	is_in_sentence	sentence_13201
+13201_5	npadvmod	13201_3
+13201_5	has_surface_form	June
+13201_6	is_in_sentence	sentence_13201
+13201_6	nummod	13201_5
+13201_6	has_surface_form	1959
+13201_7	is_in_sentence	sentence_13201
+13201_7	punct	13201_1
+13201_7	has_surface_form	)
+13201_9	is_in_sentence	sentence_13201
+13201_9	det	13201_12
+13201_9	has_surface_form	an
+13201_12	is_in_sentence	sentence_13201
+13201_12	attr	13201_8
+13201_12	has_surface_form	producer
+13201_12	part_of_entity	record producer
+13201_10	is_in_sentence	sentence_13201
+13201_10	amod	13201_12
+13201_10	has_surface_form	English
+13201_11	is_in_sentence	sentence_13201
+13201_11	compound	13201_12
+13201_11	has_surface_form	record
+13201_11	part_of_entity	record producer
+13201_13	is_in_sentence	sentence_13201
+13201_13	punct	13201_12
+13201_13	has_surface_form	,
+13201_14	is_in_sentence	sentence_13201
+13201_14	acl	13201_12
+13201_14	has_surface_form	mixing
+13201_15	is_in_sentence	sentence_13201
+13201_15	dobj	13201_14
+13201_15	has_surface_form	engineer
+13201_16	is_in_sentence	sentence_13201
+13201_16	punct	13201_15
+13201_16	has_surface_form	,
+13201_17	is_in_sentence	sentence_13201
+13201_17	cc	13201_15
+13201_17	has_surface_form	and
+13201_18	is_in_sentence	sentence_13201
+13201_18	amod	13201_19
+13201_18	has_surface_form	audio
+13201_19	is_in_sentence	sentence_13201
+13201_19	conj	13201_15
+13201_19	has_surface_form	engineer
+13201_20	is_in_sentence	sentence_13201
+13201_20	punct	13201_8
+13201_20	has_surface_form	.
+13201_21	is_in_sentence	sentence_13201
+13201_21	dep	13201_8
+13201_21	has_surface_form	
+Alan Moulder	surface_form	Alan Moulder
+Alan Moulder	has-occupation	record producer
+record producer	surface_form	record producer

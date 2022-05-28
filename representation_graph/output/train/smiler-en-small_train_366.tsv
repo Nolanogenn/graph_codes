@@ -1,0 +1,85 @@
+365_0	is_in_sentence	sentence_365
+365_0	compound	365_1
+365_0	has_surface_form	Paso
+365_0	part_of_entity	Paso Hospital
+365_1	is_in_sentence	sentence_365
+365_1	nsubj	365_4
+365_1	has_surface_form	Hospital
+365_1	part_of_entity	Paso Hospital
+365_4	is_in_sentence	sentence_365
+365_4	ROOT	365_4
+365_4	has_surface_form	is
+365_2	is_in_sentence	sentence_365
+365_2	cc	365_1
+365_2	has_surface_form	or
+365_3	is_in_sentence	sentence_365
+365_3	conj	365_1
+365_3	has_surface_form	Hospital
+365_5	is_in_sentence	sentence_365
+365_5	det	365_6
+365_5	has_surface_form	a
+365_6	is_in_sentence	sentence_365
+365_6	attr	365_4
+365_6	has_surface_form	village
+365_7	is_in_sentence	sentence_365
+365_7	prep	365_6
+365_7	has_surface_form	in
+365_8	is_in_sentence	sentence_365
+365_8	det	365_10
+365_8	has_surface_form	the
+365_10	is_in_sentence	sentence_365
+365_10	pobj	365_7
+365_10	has_surface_form	Department
+365_9	is_in_sentence	sentence_365
+365_9	compound	365_10
+365_9	has_surface_form	Rivera
+365_11	is_in_sentence	sentence_365
+365_11	prep	365_10
+365_11	has_surface_form	of
+365_12	is_in_sentence	sentence_365
+365_12	amod	365_13
+365_12	has_surface_form	northeastern
+365_13	is_in_sentence	sentence_365
+365_13	pobj	365_11
+365_13	has_surface_form	Uruguay
+365_14	is_in_sentence	sentence_365
+365_14	punct	365_4
+365_14	has_surface_form	.
+365_15	is_in_sentence	sentence_365
+365_15	prep	365_19
+365_15	has_surface_form	In
+365_19	is_in_sentence	sentence_365
+365_19	ROOT	365_19
+365_19	has_surface_form	had
+365_16	is_in_sentence	sentence_365
+365_16	pobj	365_15
+365_16	has_surface_form	2011
+365_17	is_in_sentence	sentence_365
+365_17	compound	365_18
+365_17	has_surface_form	Paso
+365_17	part_of_entity	Paso Hospital
+365_18	is_in_sentence	sentence_365
+365_18	nsubj	365_19
+365_18	has_surface_form	Hospital
+365_18	part_of_entity	Paso Hospital
+365_20	is_in_sentence	sentence_365
+365_20	det	365_21
+365_20	has_surface_form	a
+365_21	is_in_sentence	sentence_365
+365_21	dobj	365_19
+365_21	has_surface_form	population
+365_22	is_in_sentence	sentence_365
+365_22	prep	365_21
+365_22	has_surface_form	of
+365_23	is_in_sentence	sentence_365
+365_23	pobj	365_22
+365_23	is_entity	295
+295	surface_form	295
+365_24	is_in_sentence	sentence_365
+365_24	punct	365_19
+365_24	has_surface_form	.
+365_25	is_in_sentence	sentence_365
+365_25	dep	365_19
+365_25	has_surface_form	
+Paso Hospital	surface_form	Paso Hospital
+Paso Hospital	has-population	295

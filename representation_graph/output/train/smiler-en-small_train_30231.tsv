@@ -1,0 +1,78 @@
+30230_0	is_in_sentence	sentence_30230
+30230_0	nsubj	30230_10
+30230_0	has_surface_form	Julia
+30230_0	part_of_entity	Julia and Julia
+30230_10	is_in_sentence	sentence_30230
+30230_10	ROOT	30230_10
+30230_10	has_surface_form	is
+30230_1	is_in_sentence	sentence_30230
+30230_1	cc	30230_0
+30230_1	has_surface_form	and
+30230_1	part_of_entity	Julia and Julia
+30230_2	is_in_sentence	sentence_30230
+30230_2	conj	30230_0
+30230_2	has_surface_form	Julia
+30230_2	part_of_entity	Julia and Julia
+30230_3	is_in_sentence	sentence_30230
+30230_3	punct	30230_4
+30230_3	has_surface_form	(
+30230_4	is_in_sentence	sentence_30230
+30230_4	appos	30230_0
+30230_4	has_surface_form	Italian
+30230_5	is_in_sentence	sentence_30230
+30230_5	punct	30230_4
+30230_5	has_surface_form	:
+30230_6	is_in_sentence	sentence_30230
+30230_6	compound	30230_8
+30230_6	has_surface_form	Giulia
+30230_8	is_in_sentence	sentence_30230
+30230_8	appos	30230_4
+30230_8	has_surface_form	Giulia
+30230_7	is_in_sentence	sentence_30230
+30230_7	compound	30230_8
+30230_7	has_surface_form	e
+30230_9	is_in_sentence	sentence_30230
+30230_9	punct	30230_4
+30230_9	has_surface_form	)
+30230_11	is_in_sentence	sentence_30230
+30230_11	det	30230_15
+30230_11	has_surface_form	a
+30230_15	is_in_sentence	sentence_30230
+30230_15	attr	30230_10
+30230_15	has_surface_form	film
+30230_12	is_in_sentence	sentence_30230
+30230_12	nummod	30230_15
+30230_12	has_surface_form	1987
+30230_13	is_in_sentence	sentence_30230
+30230_13	amod	30230_15
+30230_13	has_surface_form	Italian
+30230_14	is_in_sentence	sentence_30230
+30230_14	compound	30230_15
+30230_14	has_surface_form	drama
+30230_16	is_in_sentence	sentence_30230
+30230_16	acl	30230_15
+30230_16	has_surface_form	directed
+30230_17	is_in_sentence	sentence_30230
+30230_17	agent	30230_16
+30230_17	has_surface_form	by
+30230_18	is_in_sentence	sentence_30230
+30230_18	compound	30230_20
+30230_18	has_surface_form	Peter
+30230_18	part_of_entity	Peter Del Monte
+30230_20	is_in_sentence	sentence_30230
+30230_20	pobj	30230_17
+30230_20	has_surface_form	Monte
+30230_20	part_of_entity	Peter Del Monte
+30230_19	is_in_sentence	sentence_30230
+30230_19	compound	30230_20
+30230_19	has_surface_form	Del
+30230_19	part_of_entity	Peter Del Monte
+30230_21	is_in_sentence	sentence_30230
+30230_21	punct	30230_10
+30230_21	has_surface_form	.
+30230_22	is_in_sentence	sentence_30230
+30230_22	dep	30230_10
+30230_22	has_surface_form	
+Julia and Julia	surface_form	Julia and Julia
+Julia and Julia	movie-has-director	Peter Del Monte
+Peter Del Monte	surface_form	Peter Del Monte

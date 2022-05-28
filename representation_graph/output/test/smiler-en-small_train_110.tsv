@@ -1,0 +1,97 @@
+109_0	is_in_sentence	sentence_109
+109_0	preconj	109_1
+109_0	has_surface_form	Both
+109_1	is_in_sentence	sentence_109
+109_1	nsubj	109_4
+109_1	has_surface_form	Dožić
+109_4	is_in_sentence	sentence_109
+109_4	ROOT	109_4
+109_4	has_surface_form	were
+109_2	is_in_sentence	sentence_109
+109_2	cc	109_1
+109_2	has_surface_form	and
+109_3	is_in_sentence	sentence_109
+109_3	conj	109_1
+109_3	has_surface_form	Velimirović
+109_5	is_in_sentence	sentence_109
+109_5	prep	109_4
+109_5	has_surface_form	at
+109_6	is_in_sentence	sentence_109
+109_6	compound	109_7
+109_6	has_surface_form	Westminster
+109_7	is_in_sentence	sentence_109
+109_7	pobj	109_5
+109_7	has_surface_form	Abbey
+109_8	is_in_sentence	sentence_109
+109_8	prep	109_4
+109_8	has_surface_form	at
+109_9	is_in_sentence	sentence_109
+109_9	det	109_10
+109_9	has_surface_form	the
+109_10	is_in_sentence	sentence_109
+109_10	pobj	109_8
+109_10	has_surface_form	baptism
+109_11	is_in_sentence	sentence_109
+109_11	prep	109_10
+109_11	has_surface_form	of
+109_12	is_in_sentence	sentence_109
+109_12	compound	109_14
+109_12	has_surface_form	King
+109_14	is_in_sentence	sentence_109
+109_14	pobj	109_11
+109_14	has_surface_form	II
+109_14	part_of_entity	Peter II of Yugoslavia
+109_13	is_in_sentence	sentence_109
+109_13	compound	109_14
+109_13	has_surface_form	Peter
+109_13	part_of_entity	Peter II of Yugoslavia
+109_15	is_in_sentence	sentence_109
+109_15	prep	109_14
+109_15	has_surface_form	of
+109_15	part_of_entity	Peter II of Yugoslavia
+109_16	is_in_sentence	sentence_109
+109_16	poss	109_18
+109_16	has_surface_form	Yugoslavia
+109_16	part_of_entity	Peter II of Yugoslavia
+109_18	is_in_sentence	sentence_109
+109_18	pobj	109_15
+109_18	has_surface_form	son
+109_17	is_in_sentence	sentence_109
+109_17	case	109_16
+109_17	has_surface_form	's
+109_19	is_in_sentence	sentence_109
+109_19	cc	109_14
+109_19	has_surface_form	and
+109_20	is_in_sentence	sentence_109
+109_20	conj	109_14
+109_20	has_surface_form	heir
+109_21	is_in_sentence	sentence_109
+109_21	punct	109_14
+109_21	has_surface_form	,
+109_22	is_in_sentence	sentence_109
+109_22	compound	109_24
+109_22	has_surface_form	Crown
+109_24	is_in_sentence	sentence_109
+109_24	appos	109_14
+109_24	has_surface_form	Alexander
+109_24	part_of_entity	Alexander of Yugoslavia
+109_23	is_in_sentence	sentence_109
+109_23	compound	109_24
+109_23	has_surface_form	Prince
+109_25	is_in_sentence	sentence_109
+109_25	prep	109_24
+109_25	has_surface_form	of
+109_25	part_of_entity	Alexander of Yugoslavia
+109_26	is_in_sentence	sentence_109
+109_26	pobj	109_25
+109_26	has_surface_form	Yugoslavia
+109_26	part_of_entity	Alexander of Yugoslavia
+109_27	is_in_sentence	sentence_109
+109_27	punct	109_4
+109_27	has_surface_form	.
+109_28	is_in_sentence	sentence_109
+109_28	dep	109_28
+109_28	has_surface_form	
+Peter II of Yugoslavia	surface_form	Peter II of Yugoslavia
+Peter II of Yugoslavia	has-child	Alexander of Yugoslavia
+Alexander of Yugoslavia	surface_form	Alexander of Yugoslavia

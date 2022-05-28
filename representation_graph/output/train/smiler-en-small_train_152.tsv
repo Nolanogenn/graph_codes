@@ -1,0 +1,56 @@
+151_0	is_in_sentence	sentence_151
+151_0	compound	151_1
+151_0	has_surface_form	Virgil
+151_0	part_of_entity	Virgil Suárez
+151_1	is_in_sentence	sentence_151
+151_1	nsubj	151_10
+151_1	has_surface_form	Suárez
+151_1	part_of_entity	Virgil Suárez
+151_10	is_in_sentence	sentence_151
+151_10	ROOT	151_10
+151_10	has_surface_form	is
+151_2	is_in_sentence	sentence_151
+151_2	punct	151_1
+151_2	has_surface_form	(
+151_3	is_in_sentence	sentence_151
+151_3	acl	151_1
+151_3	has_surface_form	born
+151_4	is_in_sentence	sentence_151
+151_4	npadvmod	151_3
+151_4	has_surface_form	1962
+151_5	is_in_sentence	sentence_151
+151_5	punct	151_1
+151_5	has_surface_form	,
+151_6	is_in_sentence	sentence_151
+151_6	npadvmod	151_1
+151_6	is_entity	Havana
+Havana	surface_form	Havana
+151_7	is_in_sentence	sentence_151
+151_7	punct	151_6
+151_7	has_surface_form	,
+151_8	is_in_sentence	sentence_151
+151_8	appos	151_6
+151_8	has_surface_form	Cuba
+151_9	is_in_sentence	sentence_151
+151_9	punct	151_6
+151_9	has_surface_form	)
+151_11	is_in_sentence	sentence_151
+151_11	det	151_12
+151_11	has_surface_form	a
+151_12	is_in_sentence	sentence_151
+151_12	attr	151_10
+151_12	has_surface_form	poet
+151_13	is_in_sentence	sentence_151
+151_13	cc	151_12
+151_13	has_surface_form	and
+151_14	is_in_sentence	sentence_151
+151_14	conj	151_12
+151_14	has_surface_form	novelist
+151_15	is_in_sentence	sentence_151
+151_15	punct	151_10
+151_15	has_surface_form	.
+151_16	is_in_sentence	sentence_151
+151_16	dep	151_10
+151_16	has_surface_form	
+Virgil Suárez	surface_form	Virgil Suárez
+Virgil Suárez	birth-place	Havana

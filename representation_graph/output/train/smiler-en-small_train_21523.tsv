@@ -1,0 +1,59 @@
+21522_0	is_in_sentence	sentence_21522
+21522_0	compound	21522_1
+21522_0	has_surface_form	Joe
+21522_0	part_of_entity	Joe Plouff
+21522_1	is_in_sentence	sentence_21522
+21522_1	nsubj	21522_9
+21522_1	has_surface_form	Plouff
+21522_1	part_of_entity	Joe Plouff
+21522_9	is_in_sentence	sentence_21522
+21522_9	ROOT	21522_9
+21522_9	has_surface_form	is
+21522_2	is_in_sentence	sentence_21522
+21522_2	punct	21522_3
+21522_2	has_surface_form	(
+21522_3	is_in_sentence	sentence_21522
+21522_3	acl	21522_1
+21522_3	has_surface_form	born
+21522_4	is_in_sentence	sentence_21522
+21522_4	npadvmod	21522_3
+21522_4	has_surface_form	February
+21522_5	is_in_sentence	sentence_21522
+21522_5	nummod	21522_4
+21522_5	has_surface_form	8
+21522_6	is_in_sentence	sentence_21522
+21522_6	punct	21522_4
+21522_6	has_surface_form	,
+21522_7	is_in_sentence	sentence_21522
+21522_7	nummod	21522_4
+21522_7	has_surface_form	1950
+21522_8	is_in_sentence	sentence_21522
+21522_8	punct	21522_1
+21522_8	has_surface_form	)
+21522_10	is_in_sentence	sentence_21522
+21522_10	det	21522_13
+21522_10	has_surface_form	an
+21522_13	is_in_sentence	sentence_21522
+21522_13	attr	21522_9
+21522_13	has_surface_form	politician
+21522_11	is_in_sentence	sentence_21522
+21522_11	amod	21522_13
+21522_11	is_entity	American
+American	surface_form	American
+21522_12	is_in_sentence	sentence_21522
+21522_12	amod	21522_13
+21522_12	has_surface_form	Democratic
+21522_14	is_in_sentence	sentence_21522
+21522_14	prep	21522_13
+21522_14	has_surface_form	from
+21522_15	is_in_sentence	sentence_21522
+21522_15	pobj	21522_14
+21522_15	has_surface_form	Wisconsin
+21522_16	is_in_sentence	sentence_21522
+21522_16	punct	21522_9
+21522_16	has_surface_form	.
+21522_17	is_in_sentence	sentence_21522
+21522_17	dep	21522_9
+21522_17	has_surface_form	
+Joe Plouff	surface_form	Joe Plouff
+Joe Plouff	has-nationality	American

@@ -1,0 +1,69 @@
+31437_0	is_in_sentence	sentence_31437
+31437_0	ROOT	31437_0
+31437_0	has_surface_form	Pardon
+31437_0	part_of_entity	Pardon My Berth Marks
+31437_1	is_in_sentence	sentence_31437
+31437_1	poss	31437_3
+31437_1	has_surface_form	My
+31437_1	part_of_entity	Pardon My Berth Marks
+31437_3	is_in_sentence	sentence_31437
+31437_3	nsubj	31437_4
+31437_3	has_surface_form	Marks
+31437_3	part_of_entity	Pardon My Berth Marks
+31437_2	is_in_sentence	sentence_31437
+31437_2	compound	31437_3
+31437_2	has_surface_form	Berth
+31437_2	part_of_entity	Pardon My Berth Marks
+31437_4	is_in_sentence	sentence_31437
+31437_4	ccomp	31437_0
+31437_4	has_surface_form	is
+31437_5	is_in_sentence	sentence_31437
+31437_5	det	31437_8
+31437_5	has_surface_form	the
+31437_8	is_in_sentence	sentence_31437
+31437_8	attr	31437_4
+31437_8	has_surface_form	subject
+31437_6	is_in_sentence	sentence_31437
+31437_6	amod	31437_8
+31437_6	has_surface_form	fourth
+31437_7	is_in_sentence	sentence_31437
+31437_7	amod	31437_8
+31437_7	has_surface_form	short
+31437_9	is_in_sentence	sentence_31437
+31437_9	acl	31437_8
+31437_9	has_surface_form	starring
+31437_10	is_in_sentence	sentence_31437
+31437_10	amod	31437_11
+31437_10	has_surface_form	American
+31437_11	is_in_sentence	sentence_31437
+31437_11	compound	31437_13
+31437_11	has_surface_form	comedian
+31437_13	is_in_sentence	sentence_31437
+31437_13	nsubj	31437_14
+31437_13	has_surface_form	Keaton
+31437_13	part_of_entity	Buster Keaton
+31437_12	is_in_sentence	sentence_31437
+31437_12	compound	31437_13
+31437_12	has_surface_form	Buster
+31437_12	part_of_entity	Buster Keaton
+31437_14	is_in_sentence	sentence_31437
+31437_14	relcl	31437_8
+31437_14	has_surface_form	made
+31437_15	is_in_sentence	sentence_31437
+31437_15	prep	31437_14
+31437_15	has_surface_form	for
+31437_16	is_in_sentence	sentence_31437
+31437_16	compound	31437_17
+31437_16	has_surface_form	Columbia
+31437_17	is_in_sentence	sentence_31437
+31437_17	pobj	31437_15
+31437_17	has_surface_form	Pictures
+31437_18	is_in_sentence	sentence_31437
+31437_18	punct	31437_4
+31437_18	has_surface_form	.
+31437_19	is_in_sentence	sentence_31437
+31437_19	dep	31437_0
+31437_19	has_surface_form	
+Pardon My Berth Marks	surface_form	Pardon My Berth Marks
+Pardon My Berth Marks	starring	Buster Keaton
+Buster Keaton	surface_form	Buster Keaton

@@ -1,0 +1,77 @@
+50_0	is_in_sentence	sentence_50
+50_0	nummod	50_1
+50_0	has_surface_form	Two
+50_0	part_of_entity	Two Shots Fired
+50_1	is_in_sentence	sentence_50
+50_1	nsubj	50_2
+50_1	has_surface_form	Shots
+50_1	part_of_entity	Two Shots Fired
+50_2	is_in_sentence	sentence_50
+50_2	ROOT	50_2
+50_2	has_surface_form	Fired
+50_2	part_of_entity	Two Shots Fired
+50_3	is_in_sentence	sentence_50
+50_3	punct	50_2
+50_3	has_surface_form	(
+50_4	is_in_sentence	sentence_50
+50_4	dobj	50_2
+50_4	has_surface_form	Spanish
+50_5	is_in_sentence	sentence_50
+50_5	punct	50_4
+50_5	has_surface_form	:
+50_6	is_in_sentence	sentence_50
+50_6	compound	50_7
+50_6	has_surface_form	Dos
+50_7	is_in_sentence	sentence_50
+50_7	appos	50_4
+50_7	has_surface_form	disparos
+50_8	is_in_sentence	sentence_50
+50_8	punct	50_4
+50_8	has_surface_form	)
+50_9	is_in_sentence	sentence_50
+50_9	ccomp	50_2
+50_9	has_surface_form	is
+50_10	is_in_sentence	sentence_50
+50_10	det	50_14
+50_10	has_surface_form	a
+50_14	is_in_sentence	sentence_50
+50_14	attr	50_9
+50_14	has_surface_form	film
+50_11	is_in_sentence	sentence_50
+50_11	nummod	50_14
+50_11	has_surface_form	2014
+50_12	is_in_sentence	sentence_50
+50_12	amod	50_14
+50_12	has_surface_form	Argentine
+50_13	is_in_sentence	sentence_50
+50_13	compound	50_14
+50_13	has_surface_form	drama
+50_15	is_in_sentence	sentence_50
+50_15	acl	50_14
+50_15	has_surface_form	written
+50_16	is_in_sentence	sentence_50
+50_16	cc	50_15
+50_16	has_surface_form	and
+50_17	is_in_sentence	sentence_50
+50_17	conj	50_15
+50_17	has_surface_form	directed
+50_18	is_in_sentence	sentence_50
+50_18	agent	50_17
+50_18	has_surface_form	by
+50_19	is_in_sentence	sentence_50
+50_19	compound	50_20
+50_19	has_surface_form	Martín
+50_19	part_of_entity	Martín Rejtman
+50_20	is_in_sentence	sentence_50
+50_20	pobj	50_18
+50_20	has_surface_form	Rejtman
+50_20	part_of_entity	Martín Rejtman
+50_21	is_in_sentence	sentence_50
+50_21	punct	50_2
+50_21	has_surface_form	.
+50_22	is_in_sentence	sentence_50
+50_22	dep	50_22
+50_22	has_surface_form	
+Two Shots Fired	surface_form	Two Shots Fired
+Two Shots Fired	movie-has-director	Martín Rejtman
+Martín Rejtman	surface_form	Martín Rejtman

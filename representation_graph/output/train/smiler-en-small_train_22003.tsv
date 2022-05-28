@@ -1,0 +1,94 @@
+22002_0	is_in_sentence	sentence_22002
+22002_0	compound	22002_1
+22002_0	has_surface_form	Alexandre
+22002_0	part_of_entity	Alexandre Jardin
+22002_1	is_in_sentence	sentence_22002
+22002_1	nsubj	22002_8
+22002_1	has_surface_form	Jardin
+22002_1	part_of_entity	Alexandre Jardin
+22002_8	is_in_sentence	sentence_22002
+22002_8	ROOT	22002_8
+22002_8	has_surface_form	is
+22002_2	is_in_sentence	sentence_22002
+22002_2	punct	22002_3
+22002_2	has_surface_form	(
+22002_3	is_in_sentence	sentence_22002
+22002_3	parataxis	22002_1
+22002_3	has_surface_form	born
+22002_4	is_in_sentence	sentence_22002
+22002_4	nummod	22002_5
+22002_4	has_surface_form	14
+22002_5	is_in_sentence	sentence_22002
+22002_5	npadvmod	22002_3
+22002_5	has_surface_form	April
+22002_6	is_in_sentence	sentence_22002
+22002_6	nummod	22002_5
+22002_6	has_surface_form	1965
+22002_7	is_in_sentence	sentence_22002
+22002_7	punct	22002_1
+22002_7	has_surface_form	)
+22002_9	is_in_sentence	sentence_22002
+22002_9	det	22002_11
+22002_9	has_surface_form	a
+22002_11	is_in_sentence	sentence_22002
+22002_11	attr	22002_8
+22002_11	has_surface_form	writer
+22002_10	is_in_sentence	sentence_22002
+22002_10	amod	22002_11
+22002_10	has_surface_form	French
+22002_12	is_in_sentence	sentence_22002
+22002_12	punct	22002_11
+22002_12	has_surface_form	,
+22002_13	is_in_sentence	sentence_22002
+22002_13	compound	22002_14
+22002_13	has_surface_form	film
+22002_14	is_in_sentence	sentence_22002
+22002_14	appos	22002_11
+22002_14	has_surface_form	director
+22002_15	is_in_sentence	sentence_22002
+22002_15	cc	22002_14
+22002_15	has_surface_form	and
+22002_16	is_in_sentence	sentence_22002
+22002_16	conj	22002_14
+22002_16	has_surface_form	winner
+22002_17	is_in_sentence	sentence_22002
+22002_17	prep	22002_14
+22002_17	has_surface_form	of
+22002_18	is_in_sentence	sentence_22002
+22002_18	det	22002_20
+22002_18	has_surface_form	the
+22002_20	is_in_sentence	sentence_22002
+22002_20	pobj	22002_17
+22002_20	has_surface_form	Femina
+22002_20	part_of_entity	Prix Femina
+22002_19	is_in_sentence	sentence_22002
+22002_19	compound	22002_20
+22002_19	has_surface_form	Prix
+22002_19	part_of_entity	Prix Femina
+22002_21	is_in_sentence	sentence_22002
+22002_21	punct	22002_20
+22002_21	has_surface_form	,
+22002_22	is_in_sentence	sentence_22002
+22002_22	appos	22002_20
+22002_22	has_surface_form	1988
+22002_23	is_in_sentence	sentence_22002
+22002_23	punct	22002_20
+22002_23	has_surface_form	,
+22002_24	is_in_sentence	sentence_22002
+22002_24	prep	22002_11
+22002_24	has_surface_form	for
+22002_25	is_in_sentence	sentence_22002
+22002_25	compound	22002_26
+22002_25	has_surface_form	Le
+22002_26	is_in_sentence	sentence_22002
+22002_26	pobj	22002_24
+22002_26	has_surface_form	Zèbre
+22002_27	is_in_sentence	sentence_22002
+22002_27	punct	22002_8
+22002_27	has_surface_form	.
+22002_28	is_in_sentence	sentence_22002
+22002_28	dep	22002_28
+22002_28	has_surface_form	
+Alexandre Jardin	surface_form	Alexandre Jardin
+Alexandre Jardin	won-award	Prix Femina
+Prix Femina	surface_form	Prix Femina

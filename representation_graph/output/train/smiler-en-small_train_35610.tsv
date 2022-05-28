@@ -1,0 +1,63 @@
+35609_0	is_in_sentence	sentence_35609
+35609_0	compound	35609_2
+35609_0	has_surface_form	Mark
+35609_0	part_of_entity	Mark Elliot Zuckerberg
+35609_2	is_in_sentence	sentence_35609
+35609_2	nsubjpass	35609_4
+35609_2	has_surface_form	Zuckerberg
+35609_2	part_of_entity	Mark Elliot Zuckerberg
+35609_1	is_in_sentence	sentence_35609
+35609_1	compound	35609_2
+35609_1	has_surface_form	Elliot
+35609_1	part_of_entity	Mark Elliot Zuckerberg
+35609_4	is_in_sentence	sentence_35609
+35609_4	ROOT	35609_4
+35609_4	has_surface_form	born
+35609_3	is_in_sentence	sentence_35609
+35609_3	auxpass	35609_4
+35609_3	has_surface_form	(;
+35609_5	is_in_sentence	sentence_35609
+35609_5	npadvmod	35609_4
+35609_5	has_surface_form	May
+35609_6	is_in_sentence	sentence_35609
+35609_6	nummod	35609_5
+35609_6	has_surface_form	14
+35609_7	is_in_sentence	sentence_35609
+35609_7	punct	35609_5
+35609_7	has_surface_form	,
+35609_8	is_in_sentence	sentence_35609
+35609_8	nummod	35609_5
+35609_8	has_surface_form	1984
+35609_9	is_in_sentence	sentence_35609
+35609_9	punct	35609_5
+35609_9	has_surface_form	)
+35609_10	is_in_sentence	sentence_35609
+35609_10	ccomp	35609_4
+35609_10	has_surface_form	is
+35609_11	is_in_sentence	sentence_35609
+35609_11	det	35609_14
+35609_11	has_surface_form	an
+35609_14	is_in_sentence	sentence_35609
+35609_14	attr	35609_10
+35609_14	is_entity	entrepreneur
+35609_12	is_in_sentence	sentence_35609
+35609_12	amod	35609_14
+35609_12	has_surface_form	American
+35609_13	is_in_sentence	sentence_35609
+35609_13	compound	35609_14
+35609_13	has_surface_form	technology
+entrepreneur	surface_form	entrepreneur
+35609_15	is_in_sentence	sentence_35609
+35609_15	cc	35609_14
+35609_15	has_surface_form	and
+35609_16	is_in_sentence	sentence_35609
+35609_16	conj	35609_14
+35609_16	has_surface_form	philanthropist
+35609_17	is_in_sentence	sentence_35609
+35609_17	punct	35609_4
+35609_17	has_surface_form	.
+35609_18	is_in_sentence	sentence_35609
+35609_18	dep	35609_18
+35609_18	has_surface_form	
+Mark Elliot Zuckerberg	surface_form	Mark Elliot Zuckerberg
+Mark Elliot Zuckerberg	has-occupation	entrepreneur

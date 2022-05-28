@@ -1,0 +1,61 @@
+1976_0	is_in_sentence	sentence_1976
+1976_0	compound	1976_1
+1976_0	has_surface_form	Sunny
+1976_0	part_of_entity	Sunny Golloway
+1976_1	is_in_sentence	sentence_1976
+1976_1	nsubj	1976_9
+1976_1	has_surface_form	Golloway
+1976_1	part_of_entity	Sunny Golloway
+1976_9	is_in_sentence	sentence_1976
+1976_9	ROOT	1976_9
+1976_9	has_surface_form	was
+1976_2	is_in_sentence	sentence_1976
+1976_2	punct	1976_1
+1976_2	has_surface_form	(
+1976_3	is_in_sentence	sentence_1976
+1976_3	acl	1976_1
+1976_3	has_surface_form	born
+1976_4	is_in_sentence	sentence_1976
+1976_4	prep	1976_3
+1976_4	has_surface_form	in
+1976_5	is_in_sentence	sentence_1976
+1976_5	pobj	1976_4
+1976_5	has_surface_form	Springfield
+1976_6	is_in_sentence	sentence_1976
+1976_6	punct	1976_5
+1976_6	has_surface_form	,
+1976_7	is_in_sentence	sentence_1976
+1976_7	appos	1976_5
+1976_7	has_surface_form	Missouri
+1976_8	is_in_sentence	sentence_1976
+1976_8	punct	1976_5
+1976_8	has_surface_form	)
+1976_10	is_in_sentence	sentence_1976
+1976_10	det	1976_13
+1976_10	has_surface_form	the
+1976_13	is_in_sentence	sentence_1976
+1976_13	attr	1976_9
+1976_13	has_surface_form	coach
+1976_13	part_of_entity	baseball coach
+1976_11	is_in_sentence	sentence_1976
+1976_11	compound	1976_13
+1976_11	has_surface_form	head
+1976_12	is_in_sentence	sentence_1976
+1976_12	compound	1976_13
+1976_12	has_surface_form	baseball
+1976_12	part_of_entity	baseball coach
+1976_14	is_in_sentence	sentence_1976
+1976_14	prep	1976_13
+1976_14	has_surface_form	at
+1976_15	is_in_sentence	sentence_1976
+1976_15	pobj	1976_14
+1976_15	has_surface_form	Auburn
+1976_16	is_in_sentence	sentence_1976
+1976_16	punct	1976_9
+1976_16	has_surface_form	.
+1976_17	is_in_sentence	sentence_1976
+1976_17	dep	1976_17
+1976_17	has_surface_form	
+Sunny Golloway	surface_form	Sunny Golloway
+Sunny Golloway	has-type	baseball coach
+baseball coach	surface_form	baseball coach

@@ -1,0 +1,115 @@
+12241_0	is_in_sentence	sentence_12241
+12241_0	compound	12241_1
+12241_0	has_surface_form	Dona
+12241_0	part_of_entity	Dona Mariquita of My Heart
+12241_1	is_in_sentence	sentence_12241
+12241_1	nsubj	12241_14
+12241_1	has_surface_form	Mariquita
+12241_1	part_of_entity	Dona Mariquita of My Heart
+12241_14	is_in_sentence	sentence_12241
+12241_14	ROOT	12241_14
+12241_14	has_surface_form	is
+12241_2	is_in_sentence	sentence_12241
+12241_2	prep	12241_1
+12241_2	has_surface_form	of
+12241_2	part_of_entity	Dona Mariquita of My Heart
+12241_3	is_in_sentence	sentence_12241
+12241_3	poss	12241_4
+12241_3	has_surface_form	My
+12241_3	part_of_entity	Dona Mariquita of My Heart
+12241_4	is_in_sentence	sentence_12241
+12241_4	pobj	12241_2
+12241_4	has_surface_form	Heart
+12241_4	part_of_entity	Dona Mariquita of My Heart
+12241_5	is_in_sentence	sentence_12241
+12241_5	punct	12241_6
+12241_5	has_surface_form	(
+12241_6	is_in_sentence	sentence_12241
+12241_6	appos	12241_1
+12241_6	has_surface_form	Spanish
+12241_7	is_in_sentence	sentence_12241
+12241_7	punct	12241_6
+12241_7	has_surface_form	:
+12241_8	is_in_sentence	sentence_12241
+12241_8	compound	12241_12
+12241_8	has_surface_form	Doña
+12241_12	is_in_sentence	sentence_12241
+12241_12	appos	12241_6
+12241_12	has_surface_form	corazón
+12241_9	is_in_sentence	sentence_12241
+12241_9	nmod	12241_11
+12241_9	has_surface_form	Mariquita
+12241_11	is_in_sentence	sentence_12241
+12241_11	compound	12241_12
+12241_11	has_surface_form	mi
+12241_10	is_in_sentence	sentence_12241
+12241_10	nmod	12241_11
+12241_10	has_surface_form	de
+12241_13	is_in_sentence	sentence_12241
+12241_13	punct	12241_6
+12241_13	has_surface_form	)
+12241_15	is_in_sentence	sentence_12241
+12241_15	det	12241_19
+12241_15	has_surface_form	a
+12241_19	is_in_sentence	sentence_12241
+12241_19	attr	12241_14
+12241_19	has_surface_form	film
+12241_16	is_in_sentence	sentence_12241
+12241_16	nummod	12241_19
+12241_16	has_surface_form	1953
+12241_17	is_in_sentence	sentence_12241
+12241_17	amod	12241_19
+12241_17	has_surface_form	Mexican
+12241_18	is_in_sentence	sentence_12241
+12241_18	compound	12241_19
+12241_18	has_surface_form	comedy
+12241_20	is_in_sentence	sentence_12241
+12241_20	acl	12241_19
+12241_20	has_surface_form	directed
+12241_21	is_in_sentence	sentence_12241
+12241_21	agent	12241_20
+12241_21	has_surface_form	by
+12241_22	is_in_sentence	sentence_12241
+12241_22	compound	12241_23
+12241_22	has_surface_form	Joaquín
+12241_22	part_of_entity	Joaquín Pardavé
+12241_23	is_in_sentence	sentence_12241
+12241_23	pobj	12241_21
+12241_23	has_surface_form	Pardavé
+12241_23	part_of_entity	Joaquín Pardavé
+12241_24	is_in_sentence	sentence_12241
+12241_24	cc	12241_20
+12241_24	has_surface_form	and
+12241_25	is_in_sentence	sentence_12241
+12241_25	conj	12241_20
+12241_25	has_surface_form	starring
+12241_26	is_in_sentence	sentence_12241
+12241_26	dobj	12241_25
+12241_26	has_surface_form	Pardavé
+12241_27	is_in_sentence	sentence_12241
+12241_27	punct	12241_26
+12241_27	has_surface_form	,
+12241_28	is_in_sentence	sentence_12241
+12241_28	compound	12241_29
+12241_28	has_surface_form	Silvia
+12241_29	is_in_sentence	sentence_12241
+12241_29	conj	12241_26
+12241_29	has_surface_form	Pinal
+12241_30	is_in_sentence	sentence_12241
+12241_30	cc	12241_29
+12241_30	has_surface_form	and
+12241_31	is_in_sentence	sentence_12241
+12241_31	compound	12241_32
+12241_31	has_surface_form	Fernando
+12241_32	is_in_sentence	sentence_12241
+12241_32	conj	12241_29
+12241_32	has_surface_form	Fernández
+12241_33	is_in_sentence	sentence_12241
+12241_33	punct	12241_14
+12241_33	has_surface_form	.
+12241_34	is_in_sentence	sentence_12241
+12241_34	dep	12241_34
+12241_34	has_surface_form	
+Dona Mariquita of My Heart	surface_form	Dona Mariquita of My Heart
+Dona Mariquita of My Heart	movie-has-director	Joaquín Pardavé
+Joaquín Pardavé	surface_form	Joaquín Pardavé

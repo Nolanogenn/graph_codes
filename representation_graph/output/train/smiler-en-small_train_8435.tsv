@@ -1,0 +1,82 @@
+8434_0	is_in_sentence	sentence_8434
+8434_0	compound	8434_1
+8434_0	has_surface_form	James
+8434_0	part_of_entity	James Lyng High School
+8434_1	is_in_sentence	sentence_8434
+8434_1	compound	8434_3
+8434_1	has_surface_form	Lyng
+8434_1	part_of_entity	James Lyng High School
+8434_3	is_in_sentence	sentence_8434
+8434_3	nsubj	8434_12
+8434_3	has_surface_form	School
+8434_3	part_of_entity	James Lyng High School
+8434_2	is_in_sentence	sentence_8434
+8434_2	compound	8434_3
+8434_2	has_surface_form	High
+8434_2	part_of_entity	James Lyng High School
+8434_12	is_in_sentence	sentence_8434
+8434_12	ROOT	8434_12
+8434_12	has_surface_form	is
+8434_4	is_in_sentence	sentence_8434
+8434_4	punct	8434_5
+8434_4	has_surface_form	(
+8434_5	is_in_sentence	sentence_8434
+8434_5	appos	8434_3
+8434_5	has_surface_form	French
+8434_6	is_in_sentence	sentence_8434
+8434_6	punct	8434_5
+8434_6	has_surface_form	:
+8434_7	is_in_sentence	sentence_8434
+8434_7	compound	8434_8
+8434_7	has_surface_form	École
+8434_8	is_in_sentence	sentence_8434
+8434_8	compound	8434_10
+8434_8	has_surface_form	secondaire
+8434_10	is_in_sentence	sentence_8434
+8434_10	appos	8434_3
+8434_10	has_surface_form	Lyng
+8434_9	is_in_sentence	sentence_8434
+8434_9	compound	8434_10
+8434_9	has_surface_form	James
+8434_11	is_in_sentence	sentence_8434
+8434_11	punct	8434_3
+8434_11	has_surface_form	)
+8434_13	is_in_sentence	sentence_8434
+8434_13	det	8434_15
+8434_13	has_surface_form	a
+8434_15	is_in_sentence	sentence_8434
+8434_15	attr	8434_12
+8434_15	has_surface_form	school
+8434_14	is_in_sentence	sentence_8434
+8434_14	amod	8434_15
+8434_14	has_surface_form	high
+8434_16	is_in_sentence	sentence_8434
+8434_16	acl	8434_15
+8434_16	has_surface_form	located
+8434_17	is_in_sentence	sentence_8434
+8434_17	prep	8434_16
+8434_17	has_surface_form	in
+8434_18	is_in_sentence	sentence_8434
+8434_18	pobj	8434_17
+8434_18	is_entity	Montreal
+Montreal	surface_form	Montreal
+8434_19	is_in_sentence	sentence_8434
+8434_19	punct	8434_18
+8434_19	has_surface_form	,
+8434_20	is_in_sentence	sentence_8434
+8434_20	conj	8434_18
+8434_20	has_surface_form	Quebec
+8434_21	is_in_sentence	sentence_8434
+8434_21	punct	8434_20
+8434_21	has_surface_form	,
+8434_22	is_in_sentence	sentence_8434
+8434_22	appos	8434_20
+8434_22	has_surface_form	Canada
+8434_23	is_in_sentence	sentence_8434
+8434_23	punct	8434_12
+8434_23	has_surface_form	.
+8434_24	is_in_sentence	sentence_8434
+8434_24	dep	8434_12
+8434_24	has_surface_form	
+James Lyng High School	surface_form	James Lyng High School
+James Lyng High School	is-where	Montreal

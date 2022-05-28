@@ -1,0 +1,38 @@
+20003_0	is_in_sentence	sentence_20003
+20003_0	det	20003_3
+20003_0	has_surface_form	The
+20003_3	is_in_sentence	sentence_20003
+20003_3	nsubjpass	20003_5
+20003_3	has_surface_form	handkerchiefs
+20003_3	part_of_entity	tissue handkerchiefs
+20003_1	is_in_sentence	sentence_20003
+20003_1	amod	20003_3
+20003_1	has_surface_form	first
+20003_2	is_in_sentence	sentence_20003
+20003_2	compound	20003_3
+20003_2	has_surface_form	tissue
+20003_2	part_of_entity	tissue handkerchiefs
+20003_5	is_in_sentence	sentence_20003
+20003_5	ROOT	20003_5
+20003_5	has_surface_form	introduced
+20003_4	is_in_sentence	sentence_20003
+20003_4	auxpass	20003_5
+20003_4	has_surface_form	were
+20003_6	is_in_sentence	sentence_20003
+20003_6	prep	20003_5
+20003_6	has_surface_form	in
+20003_7	is_in_sentence	sentence_20003
+20003_7	det	20003_8
+20003_7	has_surface_form	the
+20003_8	is_in_sentence	sentence_20003
+20003_8	pobj	20003_6
+20003_8	is_entity	1920s
+1920s	surface_form	1920s
+20003_9	is_in_sentence	sentence_20003
+20003_9	punct	20003_5
+20003_9	has_surface_form	.
+20003_10	is_in_sentence	sentence_20003
+20003_10	dep	20003_10
+20003_10	has_surface_form	
+tissue handkerchiefs	surface_form	tissue handkerchiefs
+tissue handkerchiefs	invented-when	1920s

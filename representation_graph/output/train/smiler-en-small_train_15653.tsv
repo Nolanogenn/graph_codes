@@ -1,0 +1,64 @@
+15652_0	is_in_sentence	sentence_15652
+15652_0	det	15652_2
+15652_0	has_surface_form	The
+15652_2	is_in_sentence	sentence_15652
+15652_2	nsubj	15652_10
+15652_2	has_surface_form	expectancy
+15652_1	is_in_sentence	sentence_15652
+15652_1	compound	15652_2
+15652_1	has_surface_form	life
+15652_10	is_in_sentence	sentence_15652
+15652_10	ROOT	15652_10
+15652_10	has_surface_form	ranges
+15652_3	is_in_sentence	sentence_15652
+15652_3	punct	15652_2
+15652_3	has_surface_form	,
+15652_4	is_in_sentence	sentence_15652
+15652_4	appos	15652_2
+15652_4	has_surface_form	longevity
+15652_5	is_in_sentence	sentence_15652
+15652_5	punct	15652_4
+15652_5	has_surface_form	,
+15652_6	is_in_sentence	sentence_15652
+15652_6	prep	15652_2
+15652_6	has_surface_form	of
+15652_7	is_in_sentence	sentence_15652
+15652_7	amod	15652_9
+15652_7	has_surface_form	female
+15652_9	is_in_sentence	sentence_15652
+15652_9	pobj	15652_6
+15652_9	has_surface_form	sharks
+15652_9	part_of_entity	Gulper sharks
+15652_8	is_in_sentence	sentence_15652
+15652_8	compound	15652_9
+15652_8	has_surface_form	Gulper
+15652_8	part_of_entity	Gulper sharks
+15652_11	is_in_sentence	sentence_15652
+15652_11	prep	15652_10
+15652_11	has_surface_form	between
+15652_11	part_of_entity	between 54 and 70 years
+15652_12	is_in_sentence	sentence_15652
+15652_12	nummod	15652_15
+15652_12	has_surface_form	54
+15652_12	part_of_entity	between 54 and 70 years
+15652_15	is_in_sentence	sentence_15652
+15652_15	pobj	15652_11
+15652_15	has_surface_form	years
+15652_15	part_of_entity	between 54 and 70 years
+15652_13	is_in_sentence	sentence_15652
+15652_13	cc	15652_12
+15652_13	has_surface_form	and
+15652_13	part_of_entity	between 54 and 70 years
+15652_14	is_in_sentence	sentence_15652
+15652_14	conj	15652_12
+15652_14	has_surface_form	70
+15652_14	part_of_entity	between 54 and 70 years
+15652_16	is_in_sentence	sentence_15652
+15652_16	punct	15652_10
+15652_16	has_surface_form	.
+15652_17	is_in_sentence	sentence_15652
+15652_17	dep	15652_17
+15652_17	has_surface_form	
+Gulper sharks	surface_form	Gulper sharks
+Gulper sharks	has-lifespan	between 54 and 70 years
+between 54 and 70 years	surface_form	between 54 and 70 years

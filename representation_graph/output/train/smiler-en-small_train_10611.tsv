@@ -1,0 +1,85 @@
+10610_0	is_in_sentence	sentence_10610
+10610_0	compound	10610_1
+10610_0	has_surface_form	Broken
+10610_0	part_of_entity	Broken Lizard
+10610_1	is_in_sentence	sentence_10610
+10610_1	nsubj	10610_2
+10610_1	has_surface_form	Lizard
+10610_1	part_of_entity	Broken Lizard
+10610_2	is_in_sentence	sentence_10610
+10610_2	ROOT	10610_2
+10610_2	has_surface_form	is
+10610_3	is_in_sentence	sentence_10610
+10610_3	det	10610_6
+10610_3	has_surface_form	an
+10610_6	is_in_sentence	sentence_10610
+10610_6	attr	10610_2
+10610_6	has_surface_form	troupe
+10610_4	is_in_sentence	sentence_10610
+10610_4	amod	10610_6
+10610_4	has_surface_form	American
+10610_5	is_in_sentence	sentence_10610
+10610_5	compound	10610_6
+10610_5	has_surface_form	comedy
+10610_7	is_in_sentence	sentence_10610
+10610_7	nsubj	10610_8
+10610_7	has_surface_form	that
+10610_8	is_in_sentence	sentence_10610
+10610_8	relcl	10610_6
+10610_8	has_surface_form	comprises
+10610_9	is_in_sentence	sentence_10610
+10610_9	compound	10610_10
+10610_9	has_surface_form	Jay
+10610_10	is_in_sentence	sentence_10610
+10610_10	dobj	10610_8
+10610_10	has_surface_form	Chandrasekhar
+10610_11	is_in_sentence	sentence_10610
+10610_11	punct	10610_10
+10610_11	has_surface_form	,
+10610_12	is_in_sentence	sentence_10610
+10610_12	compound	10610_13
+10610_12	has_surface_form	Kevin
+10610_12	part_of_entity	Kevin Heffernan
+10610_13	is_in_sentence	sentence_10610
+10610_13	appos	10610_10
+10610_13	has_surface_form	Heffernan
+10610_13	part_of_entity	Kevin Heffernan
+10610_14	is_in_sentence	sentence_10610
+10610_14	punct	10610_13
+10610_14	has_surface_form	,
+10610_15	is_in_sentence	sentence_10610
+10610_15	compound	10610_16
+10610_15	has_surface_form	Steve
+10610_16	is_in_sentence	sentence_10610
+10610_16	conj	10610_13
+10610_16	has_surface_form	Lemme
+10610_17	is_in_sentence	sentence_10610
+10610_17	punct	10610_16
+10610_17	has_surface_form	,
+10610_18	is_in_sentence	sentence_10610
+10610_18	compound	10610_19
+10610_18	has_surface_form	Paul
+10610_19	is_in_sentence	sentence_10610
+10610_19	conj	10610_16
+10610_19	has_surface_form	Soter
+10610_20	is_in_sentence	sentence_10610
+10610_20	punct	10610_19
+10610_20	has_surface_form	,
+10610_21	is_in_sentence	sentence_10610
+10610_21	cc	10610_19
+10610_21	has_surface_form	and
+10610_22	is_in_sentence	sentence_10610
+10610_22	compound	10610_23
+10610_22	has_surface_form	Erik
+10610_23	is_in_sentence	sentence_10610
+10610_23	conj	10610_19
+10610_23	has_surface_form	Stolhanske
+10610_24	is_in_sentence	sentence_10610
+10610_24	punct	10610_2
+10610_24	has_surface_form	.
+10610_25	is_in_sentence	sentence_10610
+10610_25	dep	10610_25
+10610_25	has_surface_form	
+Broken Lizard	surface_form	Broken Lizard
+Broken Lizard	org-has-member	Kevin Heffernan
+Kevin Heffernan	surface_form	Kevin Heffernan

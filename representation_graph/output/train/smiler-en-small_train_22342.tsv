@@ -1,0 +1,53 @@
+22341_0	is_in_sentence	sentence_22341
+22341_0	compound	22341_2
+22341_0	has_surface_form	Turner
+22341_0	part_of_entity	Turner Memorial Hospital
+22341_2	is_in_sentence	sentence_22341
+22341_2	nsubj	22341_3
+22341_2	has_surface_form	Hospital
+22341_2	part_of_entity	Turner Memorial Hospital
+22341_1	is_in_sentence	sentence_22341
+22341_1	compound	22341_2
+22341_1	has_surface_form	Memorial
+22341_1	part_of_entity	Turner Memorial Hospital
+22341_3	is_in_sentence	sentence_22341
+22341_3	ROOT	22341_3
+22341_3	has_surface_form	is
+22341_4	is_in_sentence	sentence_22341
+22341_4	det	22341_6
+22341_4	has_surface_form	a
+22341_6	is_in_sentence	sentence_22341
+22341_6	attr	22341_3
+22341_6	has_surface_form	hospital
+22341_6	part_of_entity	community hospital
+22341_5	is_in_sentence	sentence_22341
+22341_5	compound	22341_6
+22341_5	has_surface_form	community
+22341_5	part_of_entity	community hospital
+22341_7	is_in_sentence	sentence_22341
+22341_7	prep	22341_6
+22341_7	has_surface_form	in
+22341_8	is_in_sentence	sentence_22341
+22341_8	pobj	22341_7
+22341_8	has_surface_form	Keith
+22341_9	is_in_sentence	sentence_22341
+22341_9	punct	22341_8
+22341_9	has_surface_form	,
+22341_10	is_in_sentence	sentence_22341
+22341_10	conj	22341_8
+22341_10	has_surface_form	Morayshire
+22341_11	is_in_sentence	sentence_22341
+22341_11	punct	22341_10
+22341_11	has_surface_form	,
+22341_12	is_in_sentence	sentence_22341
+22341_12	npadvmod	22341_10
+22341_12	has_surface_form	Scotland
+22341_13	is_in_sentence	sentence_22341
+22341_13	punct	22341_3
+22341_13	has_surface_form	.
+22341_14	is_in_sentence	sentence_22341
+22341_14	dep	22341_3
+22341_14	has_surface_form	
+Turner Memorial Hospital	surface_form	Turner Memorial Hospital
+Turner Memorial Hospital	has-type	community hospital
+community hospital	surface_form	community hospital

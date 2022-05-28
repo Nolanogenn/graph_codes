@@ -1,0 +1,71 @@
+11070_0	is_in_sentence	sentence_11070
+11070_0	compound	11070_1
+11070_0	has_surface_form	California
+11070_0	part_of_entity	California School of Podiatric Medicine
+11070_1	is_in_sentence	sentence_11070
+11070_1	nsubj	11070_9
+11070_1	has_surface_form	School
+11070_1	part_of_entity	California School of Podiatric Medicine
+11070_9	is_in_sentence	sentence_11070
+11070_9	ROOT	11070_9
+11070_9	has_surface_form	is
+11070_2	is_in_sentence	sentence_11070
+11070_2	prep	11070_1
+11070_2	has_surface_form	of
+11070_2	part_of_entity	California School of Podiatric Medicine
+11070_3	is_in_sentence	sentence_11070
+11070_3	compound	11070_4
+11070_3	has_surface_form	Podiatric
+11070_3	part_of_entity	California School of Podiatric Medicine
+11070_4	is_in_sentence	sentence_11070
+11070_4	pobj	11070_2
+11070_4	has_surface_form	Medicine
+11070_4	part_of_entity	California School of Podiatric Medicine
+11070_5	is_in_sentence	sentence_11070
+11070_5	prep	11070_1
+11070_5	has_surface_form	at
+11070_6	is_in_sentence	sentence_11070
+11070_6	compound	11070_8
+11070_6	has_surface_form	Samuel
+11070_8	is_in_sentence	sentence_11070
+11070_8	pobj	11070_5
+11070_8	has_surface_form	University
+11070_7	is_in_sentence	sentence_11070
+11070_7	compound	11070_8
+11070_7	has_surface_form	Merritt
+11070_10	is_in_sentence	sentence_11070
+11070_10	det	11070_13
+11070_10	has_surface_form	a
+11070_13	is_in_sentence	sentence_11070
+11070_13	attr	11070_9
+11070_13	has_surface_form	school
+11070_11	is_in_sentence	sentence_11070
+11070_11	amod	11070_13
+11070_11	has_surface_form	podiatric
+11070_12	is_in_sentence	sentence_11070
+11070_12	amod	11070_13
+11070_12	has_surface_form	medical
+11070_14	is_in_sentence	sentence_11070
+11070_14	acl	11070_13
+11070_14	has_surface_form	based
+11070_15	is_in_sentence	sentence_11070
+11070_15	prep	11070_14
+11070_15	has_surface_form	in
+11070_16	is_in_sentence	sentence_11070
+11070_16	pobj	11070_15
+11070_16	has_surface_form	Oakland
+11070_17	is_in_sentence	sentence_11070
+11070_17	punct	11070_16
+11070_17	has_surface_form	,
+11070_18	is_in_sentence	sentence_11070
+11070_18	appos	11070_16
+11070_18	has_surface_form	California
+11070_19	is_in_sentence	sentence_11070
+11070_19	punct	11070_9
+11070_19	has_surface_form	.
+11070_20	is_in_sentence	sentence_11070
+11070_20	dep	11070_20
+11070_20	has_surface_form	
+California School of Podiatric Medicine	surface_form	California School of Podiatric Medicine
+California School of Podiatric Medicine	is-where	Oakland, California
+Oakland, California	surface_form	Oakland, California

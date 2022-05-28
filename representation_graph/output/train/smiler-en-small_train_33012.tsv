@@ -1,0 +1,57 @@
+33011_0	is_in_sentence	sentence_33011
+33011_0	compound	33011_2
+33011_0	has_surface_form	James
+33011_0	part_of_entity	James Seymour Brett
+33011_2	is_in_sentence	sentence_33011
+33011_2	nsubj	33011_9
+33011_2	has_surface_form	Brett
+33011_2	part_of_entity	James Seymour Brett
+33011_1	is_in_sentence	sentence_33011
+33011_1	compound	33011_2
+33011_1	has_surface_form	Seymour
+33011_1	part_of_entity	James Seymour Brett
+33011_9	is_in_sentence	sentence_33011
+33011_9	ROOT	33011_9
+33011_9	has_surface_form	is
+33011_3	is_in_sentence	sentence_33011
+33011_3	punct	33011_2
+33011_3	has_surface_form	(
+33011_4	is_in_sentence	sentence_33011
+33011_4	acl	33011_2
+33011_4	has_surface_form	born
+33011_5	is_in_sentence	sentence_33011
+33011_5	nummod	33011_6
+33011_5	has_surface_form	3
+33011_6	is_in_sentence	sentence_33011
+33011_6	npadvmod	33011_4
+33011_6	has_surface_form	April
+33011_7	is_in_sentence	sentence_33011
+33011_7	nummod	33011_6
+33011_7	has_surface_form	1974
+33011_8	is_in_sentence	sentence_33011
+33011_8	punct	33011_2
+33011_8	has_surface_form	)
+33011_10	is_in_sentence	sentence_33011
+33011_10	det	33011_12
+33011_10	has_surface_form	an
+33011_12	is_in_sentence	sentence_33011
+33011_12	attr	33011_9
+33011_12	is_entity	composer
+33011_11	is_in_sentence	sentence_33011
+33011_11	amod	33011_12
+33011_11	has_surface_form	English
+composer	surface_form	composer
+33011_13	is_in_sentence	sentence_33011
+33011_13	cc	33011_12
+33011_13	has_surface_form	and
+33011_14	is_in_sentence	sentence_33011
+33011_14	conj	33011_12
+33011_14	has_surface_form	conductor
+33011_15	is_in_sentence	sentence_33011
+33011_15	punct	33011_9
+33011_15	has_surface_form	.
+33011_16	is_in_sentence	sentence_33011
+33011_16	dep	33011_16
+33011_16	has_surface_form	
+James Seymour Brett	surface_form	James Seymour Brett
+James Seymour Brett	has-occupation	composer

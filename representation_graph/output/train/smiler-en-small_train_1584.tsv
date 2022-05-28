@@ -1,0 +1,82 @@
+1583_0	is_in_sentence	sentence_1583
+1583_0	compound	1583_1
+1583_0	has_surface_form	Gila
+1583_0	part_of_entity	Gila Bend High School
+1583_1	is_in_sentence	sentence_1583
+1583_1	compound	1583_3
+1583_1	has_surface_form	Bend
+1583_1	part_of_entity	Gila Bend High School
+1583_3	is_in_sentence	sentence_1583
+1583_3	nsubj	1583_4
+1583_3	has_surface_form	School
+1583_3	part_of_entity	Gila Bend High School
+1583_2	is_in_sentence	sentence_1583
+1583_2	compound	1583_3
+1583_2	has_surface_form	High
+1583_2	part_of_entity	Gila Bend High School
+1583_4	is_in_sentence	sentence_1583
+1583_4	ROOT	1583_4
+1583_4	has_surface_form	is
+1583_5	is_in_sentence	sentence_1583
+1583_5	det	1583_7
+1583_5	has_surface_form	a
+1583_7	is_in_sentence	sentence_1583
+1583_7	attr	1583_4
+1583_7	has_surface_form	school
+1583_6	is_in_sentence	sentence_1583
+1583_6	amod	1583_7
+1583_6	has_surface_form	high
+1583_8	is_in_sentence	sentence_1583
+1583_8	prep	1583_7
+1583_8	has_surface_form	in
+1583_9	is_in_sentence	sentence_1583
+1583_9	compound	1583_10
+1583_9	has_surface_form	Gila
+1583_10	is_in_sentence	sentence_1583
+1583_10	pobj	1583_8
+1583_10	has_surface_form	Bend
+1583_11	is_in_sentence	sentence_1583
+1583_11	punct	1583_10
+1583_11	has_surface_form	,
+1583_12	is_in_sentence	sentence_1583
+1583_12	appos	1583_10
+1583_12	has_surface_form	Arizona
+1583_13	is_in_sentence	sentence_1583
+1583_13	prep	1583_7
+1583_13	has_surface_form	under
+1583_14	is_in_sentence	sentence_1583
+1583_14	det	1583_15
+1583_14	has_surface_form	the
+1583_15	is_in_sentence	sentence_1583
+1583_15	pobj	1583_13
+1583_15	has_surface_form	jurisdiction
+1583_16	is_in_sentence	sentence_1583
+1583_16	prep	1583_15
+1583_16	has_surface_form	of
+1583_17	is_in_sentence	sentence_1583
+1583_17	det	1583_22
+1583_17	has_surface_form	the
+1583_22	is_in_sentence	sentence_1583
+1583_22	pobj	1583_16
+1583_22	has_surface_form	District
+1583_18	is_in_sentence	sentence_1583
+1583_18	compound	1583_19
+1583_18	has_surface_form	Gila
+1583_19	is_in_sentence	sentence_1583
+1583_19	compound	1583_22
+1583_19	has_surface_form	Bend
+1583_20	is_in_sentence	sentence_1583
+1583_20	compound	1583_22
+1583_20	has_surface_form	Unified
+1583_21	is_in_sentence	sentence_1583
+1583_21	compound	1583_22
+1583_21	has_surface_form	School
+1583_23	is_in_sentence	sentence_1583
+1583_23	punct	1583_4
+1583_23	has_surface_form	.
+1583_24	is_in_sentence	sentence_1583
+1583_24	dep	1583_4
+1583_24	has_surface_form	
+Gila Bend High School	surface_form	Gila Bend High School
+Gila Bend High School	is-where	Gila Bend, Arizona
+Gila Bend, Arizona	surface_form	Gila Bend, Arizona

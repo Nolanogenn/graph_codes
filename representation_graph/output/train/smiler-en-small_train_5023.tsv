@@ -1,0 +1,53 @@
+5022_0	is_in_sentence	sentence_5022
+5022_0	compound	5022_1
+5022_0	has_surface_form	Daniel
+5022_0	part_of_entity	Daniel Arsham
+5022_1	is_in_sentence	sentence_5022
+5022_1	nsubj	5022_10
+5022_1	has_surface_form	Arsham
+5022_1	part_of_entity	Daniel Arsham
+5022_10	is_in_sentence	sentence_5022
+5022_10	ROOT	5022_10
+5022_10	has_surface_form	is
+5022_2	is_in_sentence	sentence_5022
+5022_2	punct	5022_3
+5022_2	has_surface_form	(
+5022_3	is_in_sentence	sentence_5022
+5022_3	acl	5022_1
+5022_3	has_surface_form	born
+5022_4	is_in_sentence	sentence_5022
+5022_4	npadvmod	5022_3
+5022_4	has_surface_form	1980
+5022_5	is_in_sentence	sentence_5022
+5022_5	prep	5022_3
+5022_5	has_surface_form	in
+5022_6	is_in_sentence	sentence_5022
+5022_6	pobj	5022_5
+5022_6	has_surface_form	Cleveland
+5022_7	is_in_sentence	sentence_5022
+5022_7	punct	5022_6
+5022_7	has_surface_form	,
+5022_8	is_in_sentence	sentence_5022
+5022_8	appos	5022_6
+5022_8	has_surface_form	Ohio
+5022_9	is_in_sentence	sentence_5022
+5022_9	punct	5022_1
+5022_9	has_surface_form	)
+5022_11	is_in_sentence	sentence_5022
+5022_11	det	5022_13
+5022_11	has_surface_form	an
+5022_13	is_in_sentence	sentence_5022
+5022_13	attr	5022_10
+5022_13	has_surface_form	artist
+5022_12	is_in_sentence	sentence_5022
+5022_12	amod	5022_13
+5022_12	has_surface_form	American
+5022_14	is_in_sentence	sentence_5022
+5022_14	punct	5022_10
+5022_14	has_surface_form	.
+5022_15	is_in_sentence	sentence_5022
+5022_15	dep	5022_10
+5022_15	has_surface_form	
+Daniel Arsham	surface_form	Daniel Arsham
+Daniel Arsham	birth-place	Cleveland, Ohio
+Cleveland, Ohio	surface_form	Cleveland, Ohio

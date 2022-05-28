@@ -1,0 +1,95 @@
+951_0	is_in_sentence	sentence_951
+951_0	compound	951_1
+951_0	has_surface_form	Charles
+951_0	part_of_entity	Charles Delaney
+951_1	is_in_sentence	sentence_951
+951_1	nsubj	951_13
+951_1	has_surface_form	Delaney
+951_1	part_of_entity	Charles Delaney
+951_13	is_in_sentence	sentence_951
+951_13	ROOT	951_13
+951_13	has_surface_form	was
+951_2	is_in_sentence	sentence_951
+951_2	punct	951_3
+951_2	has_surface_form	(
+951_3	is_in_sentence	sentence_951
+951_3	appos	951_1
+951_3	has_surface_form	August
+951_4	is_in_sentence	sentence_951
+951_4	nummod	951_3
+951_4	has_surface_form	9
+951_5	is_in_sentence	sentence_951
+951_5	punct	951_3
+951_5	has_surface_form	,
+951_6	is_in_sentence	sentence_951
+951_6	appos	951_3
+951_6	has_surface_form	1892
+951_7	is_in_sentence	sentence_951
+951_7	punct	951_1
+951_7	has_surface_form	–
+951_8	is_in_sentence	sentence_951
+951_8	appos	951_1
+951_8	has_surface_form	August
+951_9	is_in_sentence	sentence_951
+951_9	nummod	951_8
+951_9	has_surface_form	31
+951_10	is_in_sentence	sentence_951
+951_10	punct	951_8
+951_10	has_surface_form	,
+951_11	is_in_sentence	sentence_951
+951_11	appos	951_8
+951_11	has_surface_form	1959
+951_12	is_in_sentence	sentence_951
+951_12	punct	951_8
+951_12	has_surface_form	)
+951_14	is_in_sentence	sentence_951
+951_14	det	951_16
+951_14	has_surface_form	an
+951_16	is_in_sentence	sentence_951
+951_16	attr	951_13
+951_16	has_surface_form	actor
+951_15	is_in_sentence	sentence_951
+951_15	amod	951_16
+951_15	has_surface_form	American
+951_17	is_in_sentence	sentence_951
+951_17	punct	951_13
+951_17	has_surface_form	.
+951_18	is_in_sentence	sentence_951
+951_18	nsubjpass	951_20
+951_18	has_surface_form	Delaney
+951_20	is_in_sentence	sentence_951
+951_20	ROOT	951_20
+951_20	has_surface_form	born
+951_19	is_in_sentence	sentence_951
+951_19	auxpass	951_20
+951_19	has_surface_form	was
+951_21	is_in_sentence	sentence_951
+951_21	prep	951_20
+951_21	has_surface_form	in
+951_22	is_in_sentence	sentence_951
+951_22	compound	951_23
+951_22	has_surface_form	New
+951_22	part_of_entity	New York City
+951_23	is_in_sentence	sentence_951
+951_23	compound	951_24
+951_23	has_surface_form	York
+951_23	part_of_entity	New York City
+951_24	is_in_sentence	sentence_951
+951_24	pobj	951_21
+951_24	has_surface_form	City
+951_24	part_of_entity	New York City
+951_25	is_in_sentence	sentence_951
+951_25	prep	951_20
+951_25	has_surface_form	in
+951_26	is_in_sentence	sentence_951
+951_26	pobj	951_25
+951_26	has_surface_form	1892
+951_27	is_in_sentence	sentence_951
+951_27	punct	951_20
+951_27	has_surface_form	.
+951_28	is_in_sentence	sentence_951
+951_28	dep	951_28
+951_28	has_surface_form	
+Charles Delaney	surface_form	Charles Delaney
+Charles Delaney	birth-place	New York City
+New York City	surface_form	New York City

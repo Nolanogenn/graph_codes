@@ -1,0 +1,83 @@
+32862_0	is_in_sentence	sentence_32862
+32862_0	det	32862_2
+32862_0	has_surface_form	The
+32862_2	is_in_sentence	sentence_32862
+32862_2	nsubj	32862_5
+32862_2	has_surface_form	Party
+32862_2	part_of_entity	Democratic Party of Canada
+32862_1	is_in_sentence	sentence_32862
+32862_1	compound	32862_2
+32862_1	has_surface_form	Democratic
+32862_1	part_of_entity	Democratic Party of Canada
+32862_5	is_in_sentence	sentence_32862
+32862_5	ROOT	32862_5
+32862_5	has_surface_form	was
+32862_3	is_in_sentence	sentence_32862
+32862_3	prep	32862_2
+32862_3	has_surface_form	of
+32862_3	part_of_entity	Democratic Party of Canada
+32862_4	is_in_sentence	sentence_32862
+32862_4	pobj	32862_3
+32862_4	has_surface_form	Canada
+32862_4	part_of_entity	Democratic Party of Canada
+32862_6	is_in_sentence	sentence_32862
+32862_6	det	32862_11
+32862_6	has_surface_form	a
+32862_11	is_in_sentence	sentence_32862
+32862_11	attr	32862_5
+32862_11	has_surface_form	party
+32862_7	is_in_sentence	sentence_32862
+32862_7	advmod	32862_9
+32862_7	has_surface_form	short
+32862_9	is_in_sentence	sentence_32862
+32862_9	amod	32862_11
+32862_9	has_surface_form	lived
+32862_8	is_in_sentence	sentence_32862
+32862_8	punct	32862_9
+32862_8	has_surface_form	-
+32862_10	is_in_sentence	sentence_32862
+32862_10	amod	32862_11
+32862_10	has_surface_form	political
+32862_12	is_in_sentence	sentence_32862
+32862_12	prep	32862_11
+32862_12	has_surface_form	in
+32862_13	is_in_sentence	sentence_32862
+32862_13	pobj	32862_12
+32862_13	has_surface_form	Canada
+32862_14	is_in_sentence	sentence_32862
+32862_14	punct	32862_5
+32862_14	has_surface_form	.
+32862_15	is_in_sentence	sentence_32862
+32862_15	poss	32862_16
+32862_15	has_surface_form	Its
+32862_16	is_in_sentence	sentence_32862
+32862_16	nsubj	32862_17
+32862_16	has_surface_form	leader
+32862_17	is_in_sentence	sentence_32862
+32862_17	ROOT	32862_17
+32862_17	has_surface_form	was
+32862_18	is_in_sentence	sentence_32862
+32862_18	compound	32862_21
+32862_18	has_surface_form	William
+32862_18	part_of_entity	William Richard Nathaniel Smith
+32862_21	is_in_sentence	sentence_32862
+32862_21	attr	32862_17
+32862_21	has_surface_form	Smith
+32862_21	part_of_entity	William Richard Nathaniel Smith
+32862_19	is_in_sentence	sentence_32862
+32862_19	compound	32862_21
+32862_19	has_surface_form	Richard
+32862_19	part_of_entity	William Richard Nathaniel Smith
+32862_20	is_in_sentence	sentence_32862
+32862_20	compound	32862_21
+32862_20	has_surface_form	Nathaniel
+32862_20	part_of_entity	William Richard Nathaniel Smith
+32862_22	is_in_sentence	sentence_32862
+32862_22	punct	32862_17
+32862_22	has_surface_form	.
+32862_23	is_in_sentence	sentence_32862
+32862_23	dep	32862_17
+32862_23	has_surface_form	
+Democratic Party of Canada	surface_form	Democratic Party of Canada
+Democratic Party of Canada	org-leader	William Richard Nathaniel Smith
+William Richard Nathaniel Smith	surface_form	William Richard Nathaniel Smith

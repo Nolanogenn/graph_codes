@@ -1,0 +1,76 @@
+28036_0	is_in_sentence	sentence_28036
+28036_0	amod	28036_3
+28036_0	has_surface_form	Instant
+28036_0	part_of_entity	Instant or soluble coffee
+28036_3	is_in_sentence	sentence_28036
+28036_3	nsubjpass	28036_5
+28036_3	has_surface_form	coffee
+28036_3	part_of_entity	Instant or soluble coffee
+28036_1	is_in_sentence	sentence_28036
+28036_1	cc	28036_0
+28036_1	has_surface_form	or
+28036_1	part_of_entity	Instant or soluble coffee
+28036_2	is_in_sentence	sentence_28036
+28036_2	conj	28036_0
+28036_2	has_surface_form	soluble
+28036_2	part_of_entity	Instant or soluble coffee
+28036_5	is_in_sentence	sentence_28036
+28036_5	ROOT	28036_5
+28036_5	has_surface_form	invented
+28036_4	is_in_sentence	sentence_28036
+28036_4	auxpass	28036_5
+28036_4	has_surface_form	was
+28036_6	is_in_sentence	sentence_28036
+28036_6	cc	28036_5
+28036_6	has_surface_form	and
+28036_7	is_in_sentence	sentence_28036
+28036_7	conj	28036_5
+28036_7	has_surface_form	patented
+28036_8	is_in_sentence	sentence_28036
+28036_8	prep	28036_7
+28036_8	has_surface_form	in
+28036_9	is_in_sentence	sentence_28036
+28036_9	pobj	28036_8
+28036_9	is_entity	1881
+1881	surface_form	1881
+28036_10	is_in_sentence	sentence_28036
+28036_10	punct	28036_7
+28036_10	has_surface_form	,
+28036_11	is_in_sentence	sentence_28036
+28036_11	agent	28036_7
+28036_11	has_surface_form	by
+28036_12	is_in_sentence	sentence_28036
+28036_12	compound	28036_13
+28036_12	has_surface_form	Alphonse
+28036_13	is_in_sentence	sentence_28036
+28036_13	pobj	28036_11
+28036_13	has_surface_form	Allais
+28036_14	is_in_sentence	sentence_28036
+28036_14	punct	28036_13
+28036_14	has_surface_form	,
+28036_15	is_in_sentence	sentence_28036
+28036_15	appos	28036_13
+28036_15	has_surface_form	France
+28036_16	is_in_sentence	sentence_28036
+28036_16	punct	28036_13
+28036_16	has_surface_form	,
+28036_17	is_in_sentence	sentence_28036
+28036_17	prep	28036_7
+28036_17	has_surface_form	under
+28036_18	is_in_sentence	sentence_28036
+28036_18	compound	28036_19
+28036_18	has_surface_form	patent
+28036_19	is_in_sentence	sentence_28036
+28036_19	pobj	28036_17
+28036_19	has_surface_form	number
+28036_20	is_in_sentence	sentence_28036
+28036_20	nummod	28036_19
+28036_20	has_surface_form	141520
+28036_21	is_in_sentence	sentence_28036
+28036_21	punct	28036_5
+28036_21	has_surface_form	.
+28036_22	is_in_sentence	sentence_28036
+28036_22	dep	28036_22
+28036_22	has_surface_form	
+Instant or soluble coffee	surface_form	Instant or soluble coffee
+Instant or soluble coffee	invented-when	1881

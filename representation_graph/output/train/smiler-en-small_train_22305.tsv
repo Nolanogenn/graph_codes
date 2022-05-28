@@ -1,0 +1,47 @@
+22304_0	is_in_sentence	sentence_22304
+22304_0	det	22304_1
+22304_0	has_surface_form	The
+22304_1	is_in_sentence	sentence_22304
+22304_1	nsubj	22304_3
+22304_1	has_surface_form	album
+22304_3	is_in_sentence	sentence_22304
+22304_3	compound	22304_5
+22304_3	has_surface_form	cover
+22304_2	is_in_sentence	sentence_22304
+22304_2	case	22304_1
+22304_2	has_surface_form	’s
+22304_5	is_in_sentence	sentence_22304
+22304_5	ROOT	22304_5
+22304_5	has_surface_form	features
+22304_4	is_in_sentence	sentence_22304
+22304_4	compound	22304_5
+22304_4	has_surface_form	art
+22304_6	is_in_sentence	sentence_22304
+22304_6	poss	22304_8
+22304_6	is_entity	Humphrey
+22304_8	is_in_sentence	sentence_22304
+22304_8	dobj	22304_5
+22304_8	has_surface_form	daughter
+Humphrey	surface_form	Humphrey
+Humphrey	has-child	Ricci Lynn
+22304_7	is_in_sentence	sentence_22304
+22304_7	case	22304_6
+22304_7	has_surface_form	's
+22304_9	is_in_sentence	sentence_22304
+22304_9	punct	22304_8
+22304_9	has_surface_form	,
+22304_10	is_in_sentence	sentence_22304
+22304_10	compound	22304_11
+22304_10	has_surface_form	Ricci
+22304_10	part_of_entity	Ricci Lynn
+22304_11	is_in_sentence	sentence_22304
+22304_11	appos	22304_8
+22304_11	has_surface_form	Lynn
+22304_11	part_of_entity	Ricci Lynn
+22304_12	is_in_sentence	sentence_22304
+22304_12	punct	22304_5
+22304_12	has_surface_form	.
+22304_13	is_in_sentence	sentence_22304
+22304_13	dep	22304_13
+22304_13	has_surface_form	
+Ricci Lynn	surface_form	Ricci Lynn

@@ -1,0 +1,86 @@
+2786_0	is_in_sentence	sentence_2786
+2786_0	compound	2786_1
+2786_0	has_surface_form	Hillcrest
+2786_0	part_of_entity	Hillcrest Grammar School
+2786_1	is_in_sentence	sentence_2786
+2786_1	compound	2786_2
+2786_1	has_surface_form	Grammar
+2786_1	part_of_entity	Hillcrest Grammar School
+2786_2	is_in_sentence	sentence_2786
+2786_2	nsubj	2786_11
+2786_2	has_surface_form	School
+2786_2	part_of_entity	Hillcrest Grammar School
+2786_11	is_in_sentence	sentence_2786
+2786_11	ROOT	2786_11
+2786_11	has_surface_form	was
+2786_3	is_in_sentence	sentence_2786
+2786_3	prep	2786_2
+2786_3	has_surface_form	in
+2786_4	is_in_sentence	sentence_2786
+2786_4	compound	2786_5
+2786_4	has_surface_form	Cale
+2786_4	part_of_entity	Cale Green
+2786_5	is_in_sentence	sentence_2786
+2786_5	pobj	2786_3
+2786_5	has_surface_form	Green
+2786_5	part_of_entity	Cale Green
+2786_6	is_in_sentence	sentence_2786
+2786_6	punct	2786_5
+2786_6	has_surface_form	,
+2786_7	is_in_sentence	sentence_2786
+2786_7	npadvmod	2786_2
+2786_7	has_surface_form	Stockport
+2786_8	is_in_sentence	sentence_2786
+2786_8	punct	2786_7
+2786_8	has_surface_form	,
+2786_9	is_in_sentence	sentence_2786
+2786_9	compound	2786_10
+2786_9	has_surface_form	Greater
+2786_10	is_in_sentence	sentence_2786
+2786_10	conj	2786_7
+2786_10	has_surface_form	Manchester
+2786_12	is_in_sentence	sentence_2786
+2786_12	det	2786_15
+2786_12	has_surface_form	an
+2786_15	is_in_sentence	sentence_2786
+2786_15	attr	2786_11
+2786_15	has_surface_form	school
+2786_13	is_in_sentence	sentence_2786
+2786_13	amod	2786_15
+2786_13	has_surface_form	independent
+2786_14	is_in_sentence	sentence_2786
+2786_14	compound	2786_15
+2786_14	has_surface_form	day
+2786_16	is_in_sentence	sentence_2786
+2786_16	prep	2786_15
+2786_16	has_surface_form	with
+2786_17	is_in_sentence	sentence_2786
+2786_17	quantmod	2786_18
+2786_17	has_surface_form	around
+2786_18	is_in_sentence	sentence_2786
+2786_18	nummod	2786_19
+2786_18	has_surface_form	200
+2786_19	is_in_sentence	sentence_2786
+2786_19	pobj	2786_16
+2786_19	has_surface_form	pupils
+2786_20	is_in_sentence	sentence_2786
+2786_20	acl	2786_19
+2786_20	has_surface_form	aged
+2786_21	is_in_sentence	sentence_2786
+2786_21	npadvmod	2786_20
+2786_21	has_surface_form	3
+2786_22	is_in_sentence	sentence_2786
+2786_22	prep	2786_20
+2786_22	has_surface_form	to
+2786_23	is_in_sentence	sentence_2786
+2786_23	pobj	2786_22
+2786_23	has_surface_form	16
+2786_24	is_in_sentence	sentence_2786
+2786_24	punct	2786_11
+2786_24	has_surface_form	.
+2786_25	is_in_sentence	sentence_2786
+2786_25	dep	2786_25
+2786_25	has_surface_form	
+Hillcrest Grammar School	surface_form	Hillcrest Grammar School
+Hillcrest Grammar School	is-where	Cale Green
+Cale Green	surface_form	Cale Green

@@ -1,0 +1,65 @@
+5859_0	is_in_sentence	sentence_5859
+5859_0	compound	5859_1
+5859_0	has_surface_form	Moon
+5859_0	part_of_entity	Moon Over Broadway
+5859_1	is_in_sentence	sentence_5859
+5859_1	nsubj	5859_3
+5859_1	has_surface_form	Over
+5859_1	part_of_entity	Moon Over Broadway
+5859_3	is_in_sentence	sentence_5859
+5859_3	ROOT	5859_3
+5859_3	has_surface_form	is
+5859_2	is_in_sentence	sentence_5859
+5859_2	pobj	5859_1
+5859_2	has_surface_form	Broadway
+5859_2	part_of_entity	Moon Over Broadway
+5859_4	is_in_sentence	sentence_5859
+5859_4	det	5859_7
+5859_4	has_surface_form	a
+5859_7	is_in_sentence	sentence_5859
+5859_7	attr	5859_3
+5859_7	has_surface_form	film
+5859_5	is_in_sentence	sentence_5859
+5859_5	nummod	5859_7
+5859_5	has_surface_form	1997
+5859_6	is_in_sentence	sentence_5859
+5859_6	compound	5859_7
+5859_6	has_surface_form	documentary
+5859_8	is_in_sentence	sentence_5859
+5859_8	acl	5859_7
+5859_8	has_surface_form	starring
+5859_9	is_in_sentence	sentence_5859
+5859_9	compound	5859_10
+5859_9	has_surface_form	Carol
+5859_9	part_of_entity	Carol Burnett
+5859_10	is_in_sentence	sentence_5859
+5859_10	dobj	5859_8
+5859_10	has_surface_form	Burnett
+5859_10	part_of_entity	Carol Burnett
+5859_11	is_in_sentence	sentence_5859
+5859_11	cc	5859_8
+5859_11	has_surface_form	and
+5859_12	is_in_sentence	sentence_5859
+5859_12	conj	5859_8
+5859_12	has_surface_form	directed
+5859_13	is_in_sentence	sentence_5859
+5859_13	agent	5859_12
+5859_13	has_surface_form	by
+5859_14	is_in_sentence	sentence_5859
+5859_14	compound	5859_15
+5859_14	has_surface_form	Chris
+5859_15	is_in_sentence	sentence_5859
+5859_15	pobj	5859_13
+5859_15	has_surface_form	Hegedus
+5859_16	is_in_sentence	sentence_5859
+5859_16	cc	5859_15
+5859_16	has_surface_form	and
+5859_17	is_in_sentence	sentence_5859
+5859_17	conj	5859_15
+5859_17	has_surface_form	D.
+5859_18	is_in_sentence	sentence_5859
+5859_18	dep	5859_3
+5859_18	has_surface_form	
+Moon Over Broadway	surface_form	Moon Over Broadway
+Moon Over Broadway	starring	Carol Burnett
+Carol Burnett	surface_form	Carol Burnett

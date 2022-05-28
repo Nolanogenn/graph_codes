@@ -1,0 +1,62 @@
+1906_0	is_in_sentence	sentence_1906
+1906_0	compound	1906_1
+1906_0	has_surface_form	Jeffrey
+1906_0	part_of_entity	Jeffrey Reiner
+1906_1	is_in_sentence	sentence_1906
+1906_1	nsubj	1906_2
+1906_1	has_surface_form	Reiner
+1906_1	part_of_entity	Jeffrey Reiner
+1906_2	is_in_sentence	sentence_1906
+1906_2	ROOT	1906_2
+1906_2	has_surface_form	is
+1906_3	is_in_sentence	sentence_1906
+1906_3	det	1906_6
+1906_3	has_surface_form	an
+1906_6	is_in_sentence	sentence_1906
+1906_6	attr	1906_2
+1906_6	has_surface_form	director
+1906_4	is_in_sentence	sentence_1906
+1906_4	amod	1906_6
+1906_4	has_surface_form	American
+1906_5	is_in_sentence	sentence_1906
+1906_5	compound	1906_6
+1906_5	has_surface_form	film
+1906_7	is_in_sentence	sentence_1906
+1906_7	punct	1906_6
+1906_7	has_surface_form	,
+1906_8	is_in_sentence	sentence_1906
+1906_8	conj	1906_6
+1906_8	has_surface_form	editor
+1906_9	is_in_sentence	sentence_1906
+1906_9	punct	1906_8
+1906_9	has_surface_form	,
+1906_10	is_in_sentence	sentence_1906
+1906_10	conj	1906_8
+1906_10	is_entity	screenwriter
+screenwriter	surface_form	screenwriter
+1906_11	is_in_sentence	sentence_1906
+1906_11	punct	1906_10
+1906_11	has_surface_form	,
+1906_12	is_in_sentence	sentence_1906
+1906_12	compound	1906_13
+1906_12	has_surface_form	television
+1906_13	is_in_sentence	sentence_1906
+1906_13	conj	1906_10
+1906_13	has_surface_form	director
+1906_14	is_in_sentence	sentence_1906
+1906_14	punct	1906_13
+1906_14	has_surface_form	,
+1906_15	is_in_sentence	sentence_1906
+1906_15	cc	1906_13
+1906_15	has_surface_form	and
+1906_16	is_in_sentence	sentence_1906
+1906_16	conj	1906_13
+1906_16	has_surface_form	producer
+1906_17	is_in_sentence	sentence_1906
+1906_17	punct	1906_2
+1906_17	has_surface_form	.
+1906_18	is_in_sentence	sentence_1906
+1906_18	dep	1906_18
+1906_18	has_surface_form	
+Jeffrey Reiner	surface_form	Jeffrey Reiner
+Jeffrey Reiner	has-occupation	screenwriter

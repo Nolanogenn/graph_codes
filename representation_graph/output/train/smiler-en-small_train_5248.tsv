@@ -1,0 +1,66 @@
+5247_0	is_in_sentence	sentence_5247
+5247_0	det	5247_3
+5247_0	has_surface_form	The
+5247_3	is_in_sentence	sentence_5247
+5247_3	nsubjpass	5247_5
+5247_3	has_surface_form	saw
+5247_3	part_of_entity	power miter saw
+5247_1	is_in_sentence	sentence_5247
+5247_1	compound	5247_2
+5247_1	has_surface_form	power
+5247_1	part_of_entity	power miter saw
+5247_2	is_in_sentence	sentence_5247
+5247_2	compound	5247_3
+5247_2	has_surface_form	miter
+5247_2	part_of_entity	power miter saw
+5247_5	is_in_sentence	sentence_5247
+5247_5	ROOT	5247_5
+5247_5	has_surface_form	invented
+5247_4	is_in_sentence	sentence_5247
+5247_4	auxpass	5247_5
+5247_4	has_surface_form	was
+5247_6	is_in_sentence	sentence_5247
+5247_6	agent	5247_5
+5247_6	has_surface_form	by
+5247_7	is_in_sentence	sentence_5247
+5247_7	compound	5247_8
+5247_7	has_surface_form	Ed
+5247_8	is_in_sentence	sentence_5247
+5247_8	pobj	5247_6
+5247_8	has_surface_form	Niehaus
+5247_9	is_in_sentence	sentence_5247
+5247_9	punct	5247_8
+5247_9	has_surface_form	,
+5247_10	is_in_sentence	sentence_5247
+5247_10	det	5247_12
+5247_10	has_surface_form	a
+5247_12	is_in_sentence	sentence_5247
+5247_12	appos	5247_8
+5247_12	has_surface_form	designer
+5247_11	is_in_sentence	sentence_5247
+5247_11	compound	5247_12
+5247_11	has_surface_form	tool
+5247_13	is_in_sentence	sentence_5247
+5247_13	prep	5247_12
+5247_13	has_surface_form	for
+5247_14	is_in_sentence	sentence_5247
+5247_14	pobj	5247_13
+5247_14	has_surface_form	Rockwell
+5247_15	is_in_sentence	sentence_5247
+5247_15	punct	5247_8
+5247_15	has_surface_form	,
+5247_16	is_in_sentence	sentence_5247
+5247_16	prep	5247_5
+5247_16	has_surface_form	in
+5247_17	is_in_sentence	sentence_5247
+5247_17	pobj	5247_16
+5247_17	is_entity	1964
+1964	surface_form	1964
+5247_18	is_in_sentence	sentence_5247
+5247_18	punct	5247_5
+5247_18	has_surface_form	.
+5247_19	is_in_sentence	sentence_5247
+5247_19	dep	5247_19
+5247_19	has_surface_form	
+power miter saw	surface_form	power miter saw
+power miter saw	invented-when	1964

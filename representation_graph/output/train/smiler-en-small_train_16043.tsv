@@ -1,0 +1,70 @@
+16042_0	is_in_sentence	sentence_16042
+16042_0	compound	16042_1
+16042_0	has_surface_form	Poveri
+16042_0	part_of_entity	Poveri milionari
+16042_1	is_in_sentence	sentence_16042
+16042_1	nsubj	16042_9
+16042_1	has_surface_form	milionari
+16042_1	part_of_entity	Poveri milionari
+16042_9	is_in_sentence	sentence_16042
+16042_9	ROOT	16042_9
+16042_9	has_surface_form	is
+16042_2	is_in_sentence	sentence_16042
+16042_2	punct	16042_1
+16042_2	has_surface_form	(
+16042_3	is_in_sentence	sentence_16042
+16042_3	advmod	16042_4
+16042_3	has_surface_form	internationally
+16042_4	is_in_sentence	sentence_16042
+16042_4	acl	16042_1
+16042_4	has_surface_form	released
+16042_5	is_in_sentence	sentence_16042
+16042_5	prep	16042_4
+16042_5	has_surface_form	as
+16042_6	is_in_sentence	sentence_16042
+16042_6	compound	16042_7
+16042_6	has_surface_form	Poor
+16042_7	is_in_sentence	sentence_16042
+16042_7	pobj	16042_5
+16042_7	has_surface_form	Millionaires
+16042_8	is_in_sentence	sentence_16042
+16042_8	punct	16042_1
+16042_8	has_surface_form	)
+16042_10	is_in_sentence	sentence_16042
+16042_10	det	16042_14
+16042_10	has_surface_form	a
+16042_14	is_in_sentence	sentence_16042
+16042_14	attr	16042_9
+16042_14	has_surface_form	film
+16042_11	is_in_sentence	sentence_16042
+16042_11	nummod	16042_14
+16042_11	has_surface_form	1959
+16042_12	is_in_sentence	sentence_16042
+16042_12	amod	16042_14
+16042_12	has_surface_form	Italian
+16042_13	is_in_sentence	sentence_16042
+16042_13	compound	16042_14
+16042_13	has_surface_form	comedy
+16042_15	is_in_sentence	sentence_16042
+16042_15	acl	16042_14
+16042_15	has_surface_form	directed
+16042_16	is_in_sentence	sentence_16042
+16042_16	agent	16042_15
+16042_16	has_surface_form	by
+16042_17	is_in_sentence	sentence_16042
+16042_17	compound	16042_18
+16042_17	has_surface_form	Dino
+16042_17	part_of_entity	Dino Risi
+16042_18	is_in_sentence	sentence_16042
+16042_18	pobj	16042_16
+16042_18	has_surface_form	Risi
+16042_18	part_of_entity	Dino Risi
+16042_19	is_in_sentence	sentence_16042
+16042_19	punct	16042_9
+16042_19	has_surface_form	.
+16042_20	is_in_sentence	sentence_16042
+16042_20	dep	16042_9
+16042_20	has_surface_form	
+Poveri milionari	surface_form	Poveri milionari
+Poveri milionari	movie-has-director	Dino Risi
+Dino Risi	surface_form	Dino Risi

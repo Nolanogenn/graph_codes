@@ -1,0 +1,56 @@
+9464_0	is_in_sentence	sentence_9464
+9464_0	compound	9464_1
+9464_0	has_surface_form	Brian
+9464_0	part_of_entity	Brian Knorr
+9464_1	is_in_sentence	sentence_9464
+9464_1	nsubj	9464_9
+9464_1	has_surface_form	Knorr
+9464_1	part_of_entity	Brian Knorr
+9464_9	is_in_sentence	sentence_9464
+9464_9	ROOT	9464_9
+9464_9	has_surface_form	is
+9464_2	is_in_sentence	sentence_9464
+9464_2	punct	9464_1
+9464_2	has_surface_form	(
+9464_3	is_in_sentence	sentence_9464
+9464_3	acl	9464_1
+9464_3	has_surface_form	born
+9464_4	is_in_sentence	sentence_9464
+9464_4	npadvmod	9464_3
+9464_4	has_surface_form	December
+9464_5	is_in_sentence	sentence_9464
+9464_5	nummod	9464_4
+9464_5	has_surface_form	20
+9464_6	is_in_sentence	sentence_9464
+9464_6	punct	9464_4
+9464_6	has_surface_form	,
+9464_7	is_in_sentence	sentence_9464
+9464_7	nummod	9464_4
+9464_7	has_surface_form	1963
+9464_8	is_in_sentence	sentence_9464
+9464_8	punct	9464_1
+9464_8	has_surface_form	)
+9464_10	is_in_sentence	sentence_9464
+9464_10	det	9464_13
+9464_10	has_surface_form	a
+9464_13	is_in_sentence	sentence_9464
+9464_13	attr	9464_9
+9464_13	has_surface_form	coach
+9464_13	part_of_entity	college football coach
+9464_11	is_in_sentence	sentence_9464
+9464_11	compound	9464_12
+9464_11	has_surface_form	college
+9464_11	part_of_entity	college football coach
+9464_12	is_in_sentence	sentence_9464
+9464_12	compound	9464_13
+9464_12	has_surface_form	football
+9464_12	part_of_entity	college football coach
+9464_14	is_in_sentence	sentence_9464
+9464_14	punct	9464_9
+9464_14	has_surface_form	.
+9464_15	is_in_sentence	sentence_9464
+9464_15	dep	9464_15
+9464_15	has_surface_form	
+Brian Knorr	surface_form	Brian Knorr
+Brian Knorr	has-type	college football coach
+college football coach	surface_form	college football coach

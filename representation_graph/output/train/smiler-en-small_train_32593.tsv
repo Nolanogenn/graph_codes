@@ -1,0 +1,56 @@
+32592_0	is_in_sentence	sentence_32592
+32592_0	det	32592_2
+32592_0	has_surface_form	The
+32592_2	is_in_sentence	sentence_32592
+32592_2	nsubj	32592_3
+32592_2	has_surface_form	Bulldogs
+32592_2	part_of_entity	McPherson Bulldogs
+32592_1	is_in_sentence	sentence_32592
+32592_1	compound	32592_2
+32592_1	has_surface_form	McPherson
+32592_1	part_of_entity	McPherson Bulldogs
+32592_3	is_in_sentence	sentence_32592
+32592_3	ROOT	32592_3
+32592_3	has_surface_form	are
+32592_4	is_in_sentence	sentence_32592
+32592_4	det	32592_6
+32592_4	has_surface_form	the
+32592_6	is_in_sentence	sentence_32592
+32592_6	attr	32592_3
+32592_6	has_surface_form	teams
+32592_5	is_in_sentence	sentence_32592
+32592_5	amod	32592_6
+32592_5	has_surface_form	athletic
+32592_7	is_in_sentence	sentence_32592
+32592_7	nsubj	32592_8
+32592_7	has_surface_form	that
+32592_8	is_in_sentence	sentence_32592
+32592_8	relcl	32592_6
+32592_8	has_surface_form	represent
+32592_9	is_in_sentence	sentence_32592
+32592_9	compound	32592_10
+32592_9	has_surface_form	McPherson
+32592_10	is_in_sentence	sentence_32592
+32592_10	dobj	32592_8
+32592_10	has_surface_form	College
+32592_11	is_in_sentence	sentence_32592
+32592_11	prep	32592_10
+32592_11	has_surface_form	in
+32592_12	is_in_sentence	sentence_32592
+32592_12	pobj	32592_11
+32592_12	has_surface_form	McPherson
+32592_13	is_in_sentence	sentence_32592
+32592_13	punct	32592_12
+32592_13	has_surface_form	,
+32592_14	is_in_sentence	sentence_32592
+32592_14	appos	32592_12
+32592_14	has_surface_form	Kansas
+32592_15	is_in_sentence	sentence_32592
+32592_15	punct	32592_3
+32592_15	has_surface_form	.
+32592_16	is_in_sentence	sentence_32592
+32592_16	dep	32592_3
+32592_16	has_surface_form	
+McPherson Bulldogs	surface_form	McPherson Bulldogs
+McPherson Bulldogs	is-where	McPherson, Kansas
+McPherson, Kansas	surface_form	McPherson, Kansas

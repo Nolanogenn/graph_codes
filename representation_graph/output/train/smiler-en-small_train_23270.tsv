@@ -1,0 +1,63 @@
+23269_0	is_in_sentence	sentence_23269
+23269_0	compound	23269_1
+23269_0	has_surface_form	North
+23269_0	part_of_entity	North Carolina Highway 162
+23269_1	is_in_sentence	sentence_23269
+23269_1	compound	23269_2
+23269_1	has_surface_form	Carolina
+23269_1	part_of_entity	North Carolina Highway 162
+23269_2	is_in_sentence	sentence_23269
+23269_2	nsubj	23269_9
+23269_2	has_surface_form	Highway
+23269_2	part_of_entity	North Carolina Highway 162
+23269_9	is_in_sentence	sentence_23269
+23269_9	ROOT	23269_9
+23269_9	has_surface_form	is
+23269_3	is_in_sentence	sentence_23269
+23269_3	nummod	23269_2
+23269_3	has_surface_form	162
+23269_3	part_of_entity	North Carolina Highway 162
+23269_4	is_in_sentence	sentence_23269
+23269_4	punct	23269_2
+23269_4	has_surface_form	(
+23269_5	is_in_sentence	sentence_23269
+23269_5	nsubj	23269_9
+23269_5	has_surface_form	NC
+23269_6	is_in_sentence	sentence_23269
+23269_6	dep	23269_5
+23269_6	has_surface_form	 
+23269_7	is_in_sentence	sentence_23269
+23269_7	nummod	23269_5
+23269_7	has_surface_form	162
+23269_8	is_in_sentence	sentence_23269
+23269_8	punct	23269_5
+23269_8	has_surface_form	)
+23269_10	is_in_sentence	sentence_23269
+23269_10	det	23269_13
+23269_10	has_surface_form	a
+23269_13	is_in_sentence	sentence_23269
+23269_13	attr	23269_9
+23269_13	has_surface_form	highway
+23269_13	part_of_entity	state highway
+23269_11	is_in_sentence	sentence_23269
+23269_11	amod	23269_13
+23269_11	has_surface_form	primary
+23269_12	is_in_sentence	sentence_23269
+23269_12	compound	23269_13
+23269_12	has_surface_form	state
+23269_12	part_of_entity	state highway
+23269_14	is_in_sentence	sentence_23269
+23269_14	prep	23269_13
+23269_14	has_surface_form	in
+23269_15	is_in_sentence	sentence_23269
+23269_15	det	23269_16
+23269_15	has_surface_form	the
+23269_16	is_in_sentence	sentence_23269
+23269_16	pobj	23269_14
+23269_16	has_surface_form	U.
+23269_17	is_in_sentence	sentence_23269
+23269_17	dep	23269_9
+23269_17	has_surface_form	
+North Carolina Highway 162	surface_form	North Carolina Highway 162
+North Carolina Highway 162	has-type	state highway
+state highway	surface_form	state highway

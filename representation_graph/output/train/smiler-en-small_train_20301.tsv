@@ -1,0 +1,95 @@
+20300_0	is_in_sentence	sentence_20300
+20300_0	compound	20300_1
+20300_0	has_surface_form	Pennsylvania
+20300_0	part_of_entity	Pennsylvania Route 449
+20300_1	is_in_sentence	sentence_20300
+20300_1	nsubj	20300_7
+20300_1	has_surface_form	Route
+20300_1	part_of_entity	Pennsylvania Route 449
+20300_7	is_in_sentence	sentence_20300
+20300_7	ROOT	20300_7
+20300_7	has_surface_form	is
+20300_2	is_in_sentence	sentence_20300
+20300_2	nummod	20300_1
+20300_2	has_surface_form	449
+20300_2	part_of_entity	Pennsylvania Route 449
+20300_3	is_in_sentence	sentence_20300
+20300_3	punct	20300_1
+20300_3	has_surface_form	(
+20300_4	is_in_sentence	sentence_20300
+20300_4	appos	20300_1
+20300_4	has_surface_form	PA
+20300_5	is_in_sentence	sentence_20300
+20300_5	nummod	20300_4
+20300_5	has_surface_form	449
+20300_6	is_in_sentence	sentence_20300
+20300_6	punct	20300_4
+20300_6	has_surface_form	)
+20300_8	is_in_sentence	sentence_20300
+20300_8	det	20300_20
+20300_8	has_surface_form	a
+20300_20	is_in_sentence	sentence_20300
+20300_20	attr	20300_7
+20300_20	has_surface_form	highway
+20300_20	part_of_entity	state highway
+20300_9	is_in_sentence	sentence_20300
+20300_9	nummod	20300_11
+20300_9	has_surface_form	17
+20300_11	is_in_sentence	sentence_20300
+20300_11	npadvmod	20300_13
+20300_11	has_surface_form	mile
+20300_10	is_in_sentence	sentence_20300
+20300_10	punct	20300_11
+20300_10	has_surface_form	-
+20300_13	is_in_sentence	sentence_20300
+20300_13	amod	20300_20
+20300_13	has_surface_form	long
+20300_12	is_in_sentence	sentence_20300
+20300_12	punct	20300_13
+20300_12	has_surface_form	-
+20300_14	is_in_sentence	sentence_20300
+20300_14	punct	20300_20
+20300_14	has_surface_form	(
+20300_15	is_in_sentence	sentence_20300
+20300_15	nummod	20300_20
+20300_15	has_surface_form	27
+20300_16	is_in_sentence	sentence_20300
+20300_16	dep	20300_20
+20300_16	has_surface_form	 
+20300_17	is_in_sentence	sentence_20300
+20300_17	nmod	20300_20
+20300_17	has_surface_form	km
+20300_18	is_in_sentence	sentence_20300
+20300_18	punct	20300_20
+20300_18	has_surface_form	)
+20300_19	is_in_sentence	sentence_20300
+20300_19	compound	20300_20
+20300_19	has_surface_form	state
+20300_19	part_of_entity	state highway
+20300_21	is_in_sentence	sentence_20300
+20300_21	acl	20300_20
+20300_21	has_surface_form	located
+20300_22	is_in_sentence	sentence_20300
+20300_22	prep	20300_21
+20300_22	has_surface_form	in
+20300_23	is_in_sentence	sentence_20300
+20300_23	compound	20300_24
+20300_23	has_surface_form	Potter
+20300_24	is_in_sentence	sentence_20300
+20300_24	pobj	20300_22
+20300_24	has_surface_form	County
+20300_25	is_in_sentence	sentence_20300
+20300_25	punct	20300_24
+20300_25	has_surface_form	,
+20300_26	is_in_sentence	sentence_20300
+20300_26	appos	20300_24
+20300_26	has_surface_form	Pennsylvania
+20300_27	is_in_sentence	sentence_20300
+20300_27	punct	20300_7
+20300_27	has_surface_form	.
+20300_28	is_in_sentence	sentence_20300
+20300_28	dep	20300_7
+20300_28	has_surface_form	
+Pennsylvania Route 449	surface_form	Pennsylvania Route 449
+Pennsylvania Route 449	has-type	state highway
+state highway	surface_form	state highway

@@ -1,0 +1,56 @@
+2261_0	is_in_sentence	sentence_2261
+2261_0	compound	2261_1
+2261_0	has_surface_form	Judi
+2261_0	part_of_entity	Judi Silvano
+2261_1	is_in_sentence	sentence_2261
+2261_1	nsubj	2261_9
+2261_1	has_surface_form	Silvano
+2261_1	part_of_entity	Judi Silvano
+2261_9	is_in_sentence	sentence_2261
+2261_9	ROOT	2261_9
+2261_9	has_surface_form	is
+2261_2	is_in_sentence	sentence_2261
+2261_2	punct	2261_1
+2261_2	has_surface_form	(
+2261_3	is_in_sentence	sentence_2261
+2261_3	acl	2261_1
+2261_3	has_surface_form	born
+2261_4	is_in_sentence	sentence_2261
+2261_4	npadvmod	2261_3
+2261_4	has_surface_form	May
+2261_5	is_in_sentence	sentence_2261
+2261_5	nummod	2261_4
+2261_5	has_surface_form	8
+2261_6	is_in_sentence	sentence_2261
+2261_6	punct	2261_4
+2261_6	has_surface_form	,
+2261_7	is_in_sentence	sentence_2261
+2261_7	nummod	2261_4
+2261_7	has_surface_form	1951
+2261_8	is_in_sentence	sentence_2261
+2261_8	punct	2261_1
+2261_8	has_surface_form	)
+2261_10	is_in_sentence	sentence_2261
+2261_10	det	2261_12
+2261_10	has_surface_form	a
+2261_12	is_in_sentence	sentence_2261
+2261_12	attr	2261_9
+2261_12	has_surface_form	singer
+2261_11	is_in_sentence	sentence_2261
+2261_11	compound	2261_12
+2261_11	is_entity	jazz
+jazz	surface_form	jazz
+2261_13	is_in_sentence	sentence_2261
+2261_13	cc	2261_12
+2261_13	has_surface_form	and
+2261_14	is_in_sentence	sentence_2261
+2261_14	conj	2261_12
+2261_14	has_surface_form	composer
+2261_15	is_in_sentence	sentence_2261
+2261_15	punct	2261_9
+2261_15	has_surface_form	.
+2261_16	is_in_sentence	sentence_2261
+2261_16	dep	2261_16
+2261_16	has_surface_form	
+Judi Silvano	surface_form	Judi Silvano
+Judi Silvano	has-genre	jazz

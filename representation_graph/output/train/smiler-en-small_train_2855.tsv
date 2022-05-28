@@ -1,0 +1,62 @@
+2854_0	is_in_sentence	sentence_2854
+2854_0	compound	2854_1
+2854_0	has_surface_form	Adrian
+2854_0	part_of_entity	Adrian Zaugg
+2854_1	is_in_sentence	sentence_2854
+2854_1	nsubj	2854_10
+2854_1	has_surface_form	Zaugg
+2854_1	part_of_entity	Adrian Zaugg
+2854_10	is_in_sentence	sentence_2854
+2854_10	ROOT	2854_10
+2854_10	has_surface_form	is
+2854_2	is_in_sentence	sentence_2854
+2854_2	punct	2854_1
+2854_2	has_surface_form	(
+2854_3	is_in_sentence	sentence_2854
+2854_3	acl	2854_1
+2854_3	has_surface_form	born
+2854_4	is_in_sentence	sentence_2854
+2854_4	nummod	2854_5
+2854_4	has_surface_form	4
+2854_5	is_in_sentence	sentence_2854
+2854_5	npadvmod	2854_3
+2854_5	has_surface_form	November
+2854_6	is_in_sentence	sentence_2854
+2854_6	nummod	2854_5
+2854_6	has_surface_form	1986
+2854_7	is_in_sentence	sentence_2854
+2854_7	prep	2854_3
+2854_7	has_surface_form	in
+2854_8	is_in_sentence	sentence_2854
+2854_8	pobj	2854_7
+2854_8	is_entity	Singapore
+Singapore	surface_form	Singapore
+2854_9	is_in_sentence	sentence_2854
+2854_9	punct	2854_1
+2854_9	has_surface_form	)
+2854_11	is_in_sentence	sentence_2854
+2854_11	det	2854_16
+2854_11	has_surface_form	a
+2854_16	is_in_sentence	sentence_2854
+2854_16	attr	2854_10
+2854_16	has_surface_form	driver
+2854_12	is_in_sentence	sentence_2854
+2854_12	amod	2854_13
+2854_12	has_surface_form	South
+2854_13	is_in_sentence	sentence_2854
+2854_13	amod	2854_16
+2854_13	has_surface_form	African
+2854_14	is_in_sentence	sentence_2854
+2854_14	compound	2854_15
+2854_14	has_surface_form	race
+2854_15	is_in_sentence	sentence_2854
+2854_15	compound	2854_16
+2854_15	has_surface_form	car
+2854_17	is_in_sentence	sentence_2854
+2854_17	punct	2854_10
+2854_17	has_surface_form	.
+2854_18	is_in_sentence	sentence_2854
+2854_18	dep	2854_10
+2854_18	has_surface_form	
+Adrian Zaugg	surface_form	Adrian Zaugg
+Adrian Zaugg	from-country	Singapore

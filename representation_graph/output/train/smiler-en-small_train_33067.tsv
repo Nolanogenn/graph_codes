@@ -1,0 +1,47 @@
+33066_0	is_in_sentence	sentence_33066
+33066_0	compound	33066_1
+33066_0	has_surface_form	Perry
+33066_0	part_of_entity	Perry Fenwick
+33066_1	is_in_sentence	sentence_33066
+33066_1	nsubj	33066_8
+33066_1	has_surface_form	Fenwick
+33066_1	part_of_entity	Perry Fenwick
+33066_8	is_in_sentence	sentence_33066
+33066_8	ROOT	33066_8
+33066_8	has_surface_form	is
+33066_2	is_in_sentence	sentence_33066
+33066_2	punct	33066_1
+33066_2	has_surface_form	(
+33066_3	is_in_sentence	sentence_33066
+33066_3	acl	33066_1
+33066_3	has_surface_form	born
+33066_4	is_in_sentence	sentence_33066
+33066_4	nummod	33066_5
+33066_4	has_surface_form	29
+33066_5	is_in_sentence	sentence_33066
+33066_5	npadvmod	33066_3
+33066_5	has_surface_form	May
+33066_6	is_in_sentence	sentence_33066
+33066_6	nummod	33066_5
+33066_6	has_surface_form	1962
+33066_7	is_in_sentence	sentence_33066
+33066_7	punct	33066_1
+33066_7	has_surface_form	)
+33066_9	is_in_sentence	sentence_33066
+33066_9	det	33066_11
+33066_9	has_surface_form	an
+33066_11	is_in_sentence	sentence_33066
+33066_11	attr	33066_8
+33066_11	is_entity	actor
+33066_10	is_in_sentence	sentence_33066
+33066_10	amod	33066_11
+33066_10	has_surface_form	English
+actor	surface_form	actor
+33066_12	is_in_sentence	sentence_33066
+33066_12	punct	33066_8
+33066_12	has_surface_form	.
+33066_13	is_in_sentence	sentence_33066
+33066_13	dep	33066_8
+33066_13	has_surface_form	
+Perry Fenwick	surface_form	Perry Fenwick
+Perry Fenwick	has-occupation	actor

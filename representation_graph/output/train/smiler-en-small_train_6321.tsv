@@ -1,0 +1,64 @@
+6320_0	is_in_sentence	sentence_6320
+6320_0	compound	6320_1
+6320_0	has_surface_form	Alba
+6320_0	part_of_entity	Alba Mujica
+6320_1	is_in_sentence	sentence_6320
+6320_1	nsubj	6320_2
+6320_1	has_surface_form	Mujica
+6320_1	part_of_entity	Alba Mujica
+6320_2	is_in_sentence	sentence_6320
+6320_2	ccomp	6320_12
+6320_2	has_surface_form	was
+6320_12	is_in_sentence	sentence_6320
+6320_12	ROOT	6320_12
+6320_12	has_surface_form	was
+6320_3	is_in_sentence	sentence_6320
+6320_3	det	6320_5
+6320_3	has_surface_form	an
+6320_5	is_in_sentence	sentence_6320
+6320_5	attr	6320_2
+6320_5	has_surface_form	film
+6320_4	is_in_sentence	sentence_6320
+6320_4	compound	6320_5
+6320_4	has_surface_form	Argentina
+6320_6	is_in_sentence	sentence_6320
+6320_6	cc	6320_5
+6320_6	has_surface_form	and
+6320_7	is_in_sentence	sentence_6320
+6320_7	compound	6320_8
+6320_7	has_surface_form	stage
+6320_8	is_in_sentence	sentence_6320
+6320_8	conj	6320_5
+6320_8	has_surface_form	actress
+6320_9	is_in_sentence	sentence_6320
+6320_9	punct	6320_12
+6320_9	has_surface_form	;
+6320_10	is_in_sentence	sentence_6320
+6320_10	poss	6320_11
+6320_10	has_surface_form	her
+6320_11	is_in_sentence	sentence_6320
+6320_11	nsubj	6320_12
+6320_11	has_surface_form	mother
+6320_13	is_in_sentence	sentence_6320
+6320_13	det	6320_14
+6320_13	has_surface_form	the
+6320_14	is_in_sentence	sentence_6320
+6320_14	attr	6320_12
+6320_14	has_surface_form	actress
+6320_15	is_in_sentence	sentence_6320
+6320_15	compound	6320_16
+6320_15	has_surface_form	Emilia
+6320_15	part_of_entity	Emilia Rosales
+6320_16	is_in_sentence	sentence_6320
+6320_16	appos	6320_14
+6320_16	has_surface_form	Rosales
+6320_16	part_of_entity	Emilia Rosales
+6320_17	is_in_sentence	sentence_6320
+6320_17	punct	6320_12
+6320_17	has_surface_form	.
+6320_18	is_in_sentence	sentence_6320
+6320_18	dep	6320_18
+6320_18	has_surface_form	
+Alba Mujica	surface_form	Alba Mujica
+Alba Mujica	has-parent	Emilia Rosales
+Emilia Rosales	surface_form	Emilia Rosales

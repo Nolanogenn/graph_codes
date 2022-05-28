@@ -1,0 +1,78 @@
+32395_0	is_in_sentence	sentence_32395
+32395_0	poss	32395_2
+32395_0	has_surface_form	My
+32395_0	part_of_entity	My Dear Subject
+32395_2	is_in_sentence	sentence_32395
+32395_2	nsubj	32395_10
+32395_2	has_surface_form	Subject
+32395_2	part_of_entity	My Dear Subject
+32395_1	is_in_sentence	sentence_32395
+32395_1	amod	32395_2
+32395_1	has_surface_form	Dear
+32395_1	part_of_entity	My Dear Subject
+32395_10	is_in_sentence	sentence_32395
+32395_10	ROOT	32395_10
+32395_10	has_surface_form	is
+32395_3	is_in_sentence	sentence_32395
+32395_3	punct	32395_4
+32395_3	has_surface_form	(
+32395_4	is_in_sentence	sentence_32395
+32395_4	appos	32395_2
+32395_4	has_surface_form	French
+32395_5	is_in_sentence	sentence_32395
+32395_5	punct	32395_4
+32395_5	has_surface_form	:
+32395_6	is_in_sentence	sentence_32395
+32395_6	compound	32395_8
+32395_6	has_surface_form	Mon
+32395_8	is_in_sentence	sentence_32395
+32395_8	appos	32395_4
+32395_8	has_surface_form	sujet
+32395_7	is_in_sentence	sentence_32395
+32395_7	compound	32395_8
+32395_7	has_surface_form	cher
+32395_9	is_in_sentence	sentence_32395
+32395_9	punct	32395_4
+32395_9	has_surface_form	)
+32395_11	is_in_sentence	sentence_32395
+32395_11	det	32395_15
+32395_11	has_surface_form	a
+32395_15	is_in_sentence	sentence_32395
+32395_15	attr	32395_10
+32395_15	has_surface_form	film
+32395_12	is_in_sentence	sentence_32395
+32395_12	nummod	32395_15
+32395_12	has_surface_form	1988
+32395_13	is_in_sentence	sentence_32395
+32395_13	amod	32395_15
+32395_13	has_surface_form	Swiss
+32395_14	is_in_sentence	sentence_32395
+32395_14	compound	32395_15
+32395_14	has_surface_form	drama
+32395_16	is_in_sentence	sentence_32395
+32395_16	acl	32395_15
+32395_16	has_surface_form	directed
+32395_17	is_in_sentence	sentence_32395
+32395_17	agent	32395_16
+32395_17	has_surface_form	by
+32395_18	is_in_sentence	sentence_32395
+32395_18	compound	32395_21
+32395_18	has_surface_form	Anne
+32395_21	is_in_sentence	sentence_32395
+32395_21	pobj	32395_17
+32395_21	has_surface_form	Miéville
+32395_19	is_in_sentence	sentence_32395
+32395_19	punct	32395_21
+32395_19	has_surface_form	-
+32395_20	is_in_sentence	sentence_32395
+32395_20	compound	32395_21
+32395_20	has_surface_form	Marie
+32395_22	is_in_sentence	sentence_32395
+32395_22	punct	32395_10
+32395_22	has_surface_form	.
+32395_23	is_in_sentence	sentence_32395
+32395_23	dep	32395_10
+32395_23	has_surface_form	
+My Dear Subject	surface_form	My Dear Subject
+My Dear Subject	movie-has-director	Anne-Marie Miéville
+Anne-Marie Miéville	surface_form	Anne-Marie Miéville

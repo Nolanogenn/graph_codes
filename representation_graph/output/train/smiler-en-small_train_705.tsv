@@ -1,0 +1,56 @@
+704_0	is_in_sentence	sentence_704
+704_0	compound	704_1
+704_0	has_surface_form	Buffy
+704_0	part_of_entity	Buffy Lawson
+704_1	is_in_sentence	sentence_704
+704_1	nsubj	704_2
+704_1	has_surface_form	Lawson
+704_1	part_of_entity	Buffy Lawson
+704_2	is_in_sentence	sentence_704
+704_2	ROOT	704_2
+704_2	has_surface_form	is
+704_3	is_in_sentence	sentence_704
+704_3	det	704_7
+704_3	has_surface_form	an
+704_7	is_in_sentence	sentence_704
+704_7	attr	704_2
+704_7	has_surface_form	singer
+704_4	is_in_sentence	sentence_704
+704_4	amod	704_7
+704_4	has_surface_form	American
+704_5	is_in_sentence	sentence_704
+704_5	compound	704_7
+704_5	has_surface_form	country
+704_6	is_in_sentence	sentence_704
+704_6	compound	704_7
+704_6	has_surface_form	music
+704_8	is_in_sentence	sentence_704
+704_8	advmod	704_9
+704_8	has_surface_form	formerly
+704_9	is_in_sentence	sentence_704
+704_9	attr	704_2
+704_9	has_surface_form	part
+704_10	is_in_sentence	sentence_704
+704_10	prep	704_9
+704_10	has_surface_form	of
+704_11	is_in_sentence	sentence_704
+704_11	det	704_13
+704_11	has_surface_form	the
+704_13	is_in_sentence	sentence_704
+704_13	pobj	704_10
+704_13	has_surface_form	duo
+704_12	is_in_sentence	sentence_704
+704_12	compound	704_13
+704_12	has_surface_form	music
+704_14	is_in_sentence	sentence_704
+704_14	appos	704_13
+704_14	is_entity	Bomshel
+Bomshel	surface_form	Bomshel
+704_15	is_in_sentence	sentence_704
+704_15	punct	704_2
+704_15	has_surface_form	.
+704_16	is_in_sentence	sentence_704
+704_16	dep	704_16
+704_16	has_surface_form	
+Buffy Lawson	surface_form	Buffy Lawson
+Buffy Lawson	is-member-of	Bomshel

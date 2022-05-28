@@ -1,0 +1,62 @@
+1053_0	is_in_sentence	sentence_1053
+1053_0	compound	1053_1
+1053_0	has_surface_form	Barry
+1053_0	part_of_entity	Barry Burns
+1053_1	is_in_sentence	sentence_1053
+1053_1	nsubj	1053_2
+1053_1	has_surface_form	Burns
+1053_1	part_of_entity	Barry Burns
+1053_2	is_in_sentence	sentence_1053
+1053_2	ROOT	1053_2
+1053_2	has_surface_form	is
+1053_3	is_in_sentence	sentence_1053
+1053_3	det	1053_5
+1053_3	has_surface_form	a
+1053_5	is_in_sentence	sentence_1053
+1053_5	attr	1053_2
+1053_5	has_surface_form	musician
+1053_4	is_in_sentence	sentence_1053
+1053_4	amod	1053_5
+1053_4	has_surface_form	Scottish
+1053_6	is_in_sentence	sentence_1053
+1053_6	advmod	1053_7
+1053_6	has_surface_form	best
+1053_7	is_in_sentence	sentence_1053
+1053_7	acl	1053_5
+1053_7	has_surface_form	known
+1053_8	is_in_sentence	sentence_1053
+1053_8	prep	1053_7
+1053_8	has_surface_form	for
+1053_9	is_in_sentence	sentence_1053
+1053_9	poss	1053_10
+1053_9	has_surface_form	his
+1053_10	is_in_sentence	sentence_1053
+1053_10	pobj	1053_8
+1053_10	has_surface_form	work
+1053_11	is_in_sentence	sentence_1053
+1053_11	prep	1053_10
+1053_11	has_surface_form	with
+1053_12	is_in_sentence	sentence_1053
+1053_12	amod	1053_15
+1053_12	has_surface_form	post
+1053_15	is_in_sentence	sentence_1053
+1053_15	compound	1053_16
+1053_15	has_surface_form	band
+1053_13	is_in_sentence	sentence_1053
+1053_13	amod	1053_15
+1053_13	has_surface_form	-
+1053_14	is_in_sentence	sentence_1053
+1053_14	amod	1053_15
+1053_14	has_surface_form	rock
+1053_16	is_in_sentence	sentence_1053
+1053_16	pobj	1053_11
+1053_16	is_entity	Mogwai
+Mogwai	surface_form	Mogwai
+1053_17	is_in_sentence	sentence_1053
+1053_17	punct	1053_2
+1053_17	has_surface_form	.
+1053_18	is_in_sentence	sentence_1053
+1053_18	dep	1053_2
+1053_18	has_surface_form	
+Barry Burns	surface_form	Barry Burns
+Barry Burns	is-member-of	Mogwai

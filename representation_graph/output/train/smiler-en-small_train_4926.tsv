@@ -1,0 +1,56 @@
+4925_0	is_in_sentence	sentence_4925
+4925_0	det	4925_3
+4925_0	has_surface_form	The
+4925_3	is_in_sentence	sentence_4925
+4925_3	nsubjpass	4925_9
+4925_3	has_surface_form	satellite
+4925_3	part_of_entity	weather satellite
+4925_1	is_in_sentence	sentence_4925
+4925_1	amod	4925_3
+4925_1	has_surface_form	first
+4925_2	is_in_sentence	sentence_4925
+4925_2	compound	4925_3
+4925_2	has_surface_form	weather
+4925_2	part_of_entity	weather satellite
+4925_9	is_in_sentence	sentence_4925
+4925_9	ROOT	4925_9
+4925_9	has_surface_form	launched
+4925_4	is_in_sentence	sentence_4925
+4925_4	punct	4925_3
+4925_4	has_surface_form	,
+4925_5	is_in_sentence	sentence_4925
+4925_5	appos	4925_3
+4925_5	has_surface_form	Vanguard
+4925_6	is_in_sentence	sentence_4925
+4925_6	nummod	4925_5
+4925_6	has_surface_form	2
+4925_7	is_in_sentence	sentence_4925
+4925_7	punct	4925_3
+4925_7	has_surface_form	,
+4925_8	is_in_sentence	sentence_4925
+4925_8	auxpass	4925_9
+4925_8	has_surface_form	was
+4925_10	is_in_sentence	sentence_4925
+4925_10	prep	4925_9
+4925_10	has_surface_form	on
+4925_11	is_in_sentence	sentence_4925
+4925_11	pobj	4925_10
+4925_11	has_surface_form	February
+4925_12	is_in_sentence	sentence_4925
+4925_12	nummod	4925_11
+4925_12	has_surface_form	17
+4925_13	is_in_sentence	sentence_4925
+4925_13	punct	4925_11
+4925_13	has_surface_form	,
+4925_14	is_in_sentence	sentence_4925
+4925_14	nummod	4925_11
+4925_14	is_entity	1959
+1959	surface_form	1959
+4925_15	is_in_sentence	sentence_4925
+4925_15	punct	4925_9
+4925_15	has_surface_form	.
+4925_16	is_in_sentence	sentence_4925
+4925_16	dep	4925_16
+4925_16	has_surface_form	
+weather satellite	surface_form	weather satellite
+weather satellite	invented-when	1959

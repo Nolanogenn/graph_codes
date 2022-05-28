@@ -1,0 +1,53 @@
+9842_0	is_in_sentence	sentence_9842
+9842_0	compound	9842_1
+9842_0	has_surface_form	Roger
+9842_0	part_of_entity	Roger Ward
+9842_1	is_in_sentence	sentence_9842
+9842_1	nsubj	9842_2
+9842_1	has_surface_form	Ward
+9842_1	part_of_entity	Roger Ward
+9842_2	is_in_sentence	sentence_9842
+9842_2	ROOT	9842_2
+9842_2	has_surface_form	is
+9842_3	is_in_sentence	sentence_9842
+9842_3	det	9842_5
+9842_3	has_surface_form	an
+9842_5	is_in_sentence	sentence_9842
+9842_5	attr	9842_2
+9842_5	is_entity	actor
+9842_4	is_in_sentence	sentence_9842
+9842_4	amod	9842_5
+9842_4	has_surface_form	Australian
+actor	surface_form	actor
+9842_6	is_in_sentence	sentence_9842
+9842_6	punct	9842_5
+9842_6	has_surface_form	,
+9842_7	is_in_sentence	sentence_9842
+9842_7	det	9842_8
+9842_7	has_surface_form	a
+9842_8	is_in_sentence	sentence_9842
+9842_8	appos	9842_5
+9842_8	has_surface_form	pioneer
+9842_9	is_in_sentence	sentence_9842
+9842_9	prep	9842_8
+9842_9	has_surface_form	of
+9842_10	is_in_sentence	sentence_9842
+9842_10	amod	9842_11
+9842_10	has_surface_form	Australian
+9842_11	is_in_sentence	sentence_9842
+9842_11	pobj	9842_9
+9842_11	has_surface_form	film
+9842_12	is_in_sentence	sentence_9842
+9842_12	cc	9842_11
+9842_12	has_surface_form	and
+9842_13	is_in_sentence	sentence_9842
+9842_13	conj	9842_11
+9842_13	has_surface_form	television
+9842_14	is_in_sentence	sentence_9842
+9842_14	punct	9842_2
+9842_14	has_surface_form	.
+9842_15	is_in_sentence	sentence_9842
+9842_15	dep	9842_15
+9842_15	has_surface_form	
+Roger Ward	surface_form	Roger Ward
+Roger Ward	has-occupation	actor

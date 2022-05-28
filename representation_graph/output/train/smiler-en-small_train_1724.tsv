@@ -1,0 +1,65 @@
+1723_0	is_in_sentence	sentence_1723
+1723_0	compound	1723_1
+1723_0	has_surface_form	Experiment
+1723_0	part_of_entity	Experiment Alcatraz
+1723_1	is_in_sentence	sentence_1723
+1723_1	nsubj	1723_2
+1723_1	has_surface_form	Alcatraz
+1723_1	part_of_entity	Experiment Alcatraz
+1723_2	is_in_sentence	sentence_1723
+1723_2	ROOT	1723_2
+1723_2	has_surface_form	is
+1723_3	is_in_sentence	sentence_1723
+1723_3	det	1723_7
+1723_3	has_surface_form	a
+1723_7	is_in_sentence	sentence_1723
+1723_7	attr	1723_2
+1723_7	has_surface_form	film
+1723_4	is_in_sentence	sentence_1723
+1723_4	nummod	1723_7
+1723_4	has_surface_form	1950
+1723_5	is_in_sentence	sentence_1723
+1723_5	amod	1723_7
+1723_5	has_surface_form	American
+1723_6	is_in_sentence	sentence_1723
+1723_6	compound	1723_7
+1723_6	has_surface_form	crime
+1723_8	is_in_sentence	sentence_1723
+1723_8	acl	1723_7
+1723_8	has_surface_form	directed
+1723_9	is_in_sentence	sentence_1723
+1723_9	agent	1723_8
+1723_9	has_surface_form	by
+1723_10	is_in_sentence	sentence_1723
+1723_10	compound	1723_12
+1723_10	has_surface_form	Edward
+1723_10	part_of_entity	Edward L. Cahn
+1723_12	is_in_sentence	sentence_1723
+1723_12	pobj	1723_9
+1723_12	has_surface_form	Cahn
+1723_12	part_of_entity	Edward L. Cahn
+1723_11	is_in_sentence	sentence_1723
+1723_11	compound	1723_12
+1723_11	has_surface_form	L.
+1723_11	part_of_entity	Edward L. Cahn
+1723_13	is_in_sentence	sentence_1723
+1723_13	cc	1723_8
+1723_13	has_surface_form	and
+1723_14	is_in_sentence	sentence_1723
+1723_14	conj	1723_8
+1723_14	has_surface_form	written
+1723_15	is_in_sentence	sentence_1723
+1723_15	agent	1723_14
+1723_15	has_surface_form	by
+1723_16	is_in_sentence	sentence_1723
+1723_16	compound	1723_18
+1723_16	has_surface_form	Orville
+1723_18	is_in_sentence	sentence_1723
+1723_18	dep	1723_15
+1723_18	has_surface_form	
+1723_17	is_in_sentence	sentence_1723
+1723_17	compound	1723_18
+1723_17	has_surface_form	H.
+Experiment Alcatraz	surface_form	Experiment Alcatraz
+Experiment Alcatraz	movie-has-director	Edward L. Cahn
+Edward L. Cahn	surface_form	Edward L. Cahn

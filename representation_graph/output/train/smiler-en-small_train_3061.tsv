@@ -1,0 +1,68 @@
+3060_0	is_in_sentence	sentence_3060
+3060_0	det	3060_2
+3060_0	has_surface_form	The
+3060_0	part_of_entity	The Bill Collector
+3060_2	is_in_sentence	sentence_3060
+3060_2	nsubj	3060_3
+3060_2	has_surface_form	Collector
+3060_2	part_of_entity	The Bill Collector
+3060_1	is_in_sentence	sentence_3060
+3060_1	compound	3060_2
+3060_1	has_surface_form	Bill
+3060_1	part_of_entity	The Bill Collector
+3060_3	is_in_sentence	sentence_3060
+3060_3	ROOT	3060_3
+3060_3	has_surface_form	is
+3060_4	is_in_sentence	sentence_3060
+3060_4	det	3060_7
+3060_4	has_surface_form	a
+3060_7	is_in_sentence	sentence_3060
+3060_7	attr	3060_3
+3060_7	has_surface_form	film
+3060_5	is_in_sentence	sentence_3060
+3060_5	compound	3060_7
+3060_5	has_surface_form	family
+3060_6	is_in_sentence	sentence_3060
+3060_6	compound	3060_7
+3060_6	has_surface_form	drama
+3060_8	is_in_sentence	sentence_3060
+3060_8	acl	3060_7
+3060_8	has_surface_form	featuring
+3060_9	is_in_sentence	sentence_3060
+3060_9	compound	3060_10
+3060_9	has_surface_form	Danny
+3060_9	part_of_entity	Danny Trejo
+3060_10	is_in_sentence	sentence_3060
+3060_10	dobj	3060_8
+3060_10	has_surface_form	Trejo
+3060_10	part_of_entity	Danny Trejo
+3060_11	is_in_sentence	sentence_3060
+3060_11	cc	3060_8
+3060_11	has_surface_form	and
+3060_12	is_in_sentence	sentence_3060
+3060_12	conj	3060_8
+3060_12	has_surface_form	written
+3060_13	is_in_sentence	sentence_3060
+3060_13	cc	3060_12
+3060_13	has_surface_form	and
+3060_14	is_in_sentence	sentence_3060
+3060_14	conj	3060_12
+3060_14	has_surface_form	directed
+3060_15	is_in_sentence	sentence_3060
+3060_15	agent	3060_14
+3060_15	has_surface_form	by
+3060_16	is_in_sentence	sentence_3060
+3060_16	compound	3060_17
+3060_16	has_surface_form	Cristobal
+3060_17	is_in_sentence	sentence_3060
+3060_17	pobj	3060_15
+3060_17	has_surface_form	Krusen
+3060_18	is_in_sentence	sentence_3060
+3060_18	punct	3060_3
+3060_18	has_surface_form	.
+3060_19	is_in_sentence	sentence_3060
+3060_19	dep	3060_19
+3060_19	has_surface_form	
+The Bill Collector	surface_form	The Bill Collector
+The Bill Collector	starring	Danny Trejo
+Danny Trejo	surface_form	Danny Trejo

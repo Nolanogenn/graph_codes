@@ -1,0 +1,64 @@
+15274_0	is_in_sentence	sentence_15274
+15274_0	compound	15274_1
+15274_0	has_surface_form	Plum
+15274_1	is_in_sentence	sentence_15274
+15274_1	nsubj	15274_3
+15274_1	has_surface_form	Loco
+15274_3	is_in_sentence	sentence_15274
+15274_3	ROOT	15274_3
+15274_3	has_surface_form	continues
+15274_2	is_in_sentence	sentence_15274
+15274_2	advmod	15274_3
+15274_2	has_surface_form	still
+15274_4	is_in_sentence	sentence_15274
+15274_4	punct	15274_3
+15274_4	has_surface_form	,
+15274_5	is_in_sentence	sentence_15274
+15274_5	prep	15274_3
+15274_5	has_surface_form	with
+15274_6	is_in_sentence	sentence_15274
+15274_6	compound	15274_7
+15274_6	has_surface_form	John
+15274_6	part_of_entity	John Till
+15274_7	is_in_sentence	sentence_15274
+15274_7	poss	15274_9
+15274_7	has_surface_form	Till
+15274_7	part_of_entity	John Till
+15274_9	is_in_sentence	sentence_15274
+15274_9	pobj	15274_5
+15274_9	has_surface_form	son
+15274_8	is_in_sentence	sentence_15274
+15274_8	case	15274_7
+15274_8	has_surface_form	's
+15274_10	is_in_sentence	sentence_15274
+15274_10	punct	15274_9
+15274_10	has_surface_form	,
+15274_11	is_in_sentence	sentence_15274
+15274_11	compound	15274_12
+15274_11	has_surface_form	Shawn
+15274_11	part_of_entity	Shawn Till
+15274_12	is_in_sentence	sentence_15274
+15274_12	appos	15274_9
+15274_12	has_surface_form	Till
+15274_12	part_of_entity	Shawn Till
+15274_13	is_in_sentence	sentence_15274
+15274_13	prep	15274_12
+15274_13	has_surface_form	on
+15274_14	is_in_sentence	sentence_15274
+15274_14	pobj	15274_13
+15274_14	has_surface_form	bass
+15274_15	is_in_sentence	sentence_15274
+15274_15	acl	15274_14
+15274_15	has_surface_form	replacing
+15274_16	is_in_sentence	sentence_15274
+15274_16	dobj	15274_15
+15274_16	has_surface_form	Kalmusky
+15274_17	is_in_sentence	sentence_15274
+15274_17	punct	15274_3
+15274_17	has_surface_form	.
+15274_18	is_in_sentence	sentence_15274
+15274_18	dep	15274_18
+15274_18	has_surface_form	
+John Till	surface_form	John Till
+John Till	has-child	Shawn Till
+Shawn Till	surface_form	Shawn Till

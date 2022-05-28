@@ -1,0 +1,72 @@
+22782_0	is_in_sentence	sentence_22782
+22782_0	prep	22782_11
+22782_0	has_surface_form	In
+22782_11	is_in_sentence	sentence_22782
+22782_11	ROOT	22782_11
+22782_11	has_surface_form	patented
+22782_1	is_in_sentence	sentence_22782
+22782_1	pobj	22782_0
+22782_1	is_entity	1954
+1954	surface_form	1954
+22782_2	is_in_sentence	sentence_22782
+22782_2	det	22782_3
+22782_2	has_surface_form	the
+22782_3	is_in_sentence	sentence_22782
+22782_3	nsubjpass	22782_11
+22782_3	has_surface_form	Wigomat
+22782_4	is_in_sentence	sentence_22782
+22782_4	punct	22782_3
+22782_4	has_surface_form	,
+22782_5	is_in_sentence	sentence_22782
+22782_5	acl	22782_3
+22782_5	has_surface_form	invented
+22782_6	is_in_sentence	sentence_22782
+22782_6	agent	22782_5
+22782_6	has_surface_form	by
+22782_7	is_in_sentence	sentence_22782
+22782_7	compound	22782_8
+22782_7	has_surface_form	Gottlob
+22782_8	is_in_sentence	sentence_22782
+22782_8	pobj	22782_6
+22782_8	has_surface_form	Widmann
+22782_9	is_in_sentence	sentence_22782
+22782_9	punct	22782_3
+22782_9	has_surface_form	,
+22782_10	is_in_sentence	sentence_22782
+22782_10	auxpass	22782_11
+22782_10	has_surface_form	was
+22782_12	is_in_sentence	sentence_22782
+22782_12	prep	22782_11
+22782_12	has_surface_form	in
+22782_13	is_in_sentence	sentence_22782
+22782_13	pobj	22782_12
+22782_13	has_surface_form	Germany
+22782_14	is_in_sentence	sentence_22782
+22782_14	advcl	22782_11
+22782_14	has_surface_form	being
+22782_15	is_in_sentence	sentence_22782
+22782_15	det	22782_19
+22782_15	has_surface_form	the
+22782_19	is_in_sentence	sentence_22782
+22782_19	attr	22782_14
+22782_19	has_surface_form	brewer
+22782_19	part_of_entity	Electrical drip brewer
+22782_16	is_in_sentence	sentence_22782
+22782_16	amod	22782_19
+22782_16	has_surface_form	first
+22782_17	is_in_sentence	sentence_22782
+22782_17	compound	22782_19
+22782_17	has_surface_form	Electrical
+22782_17	part_of_entity	Electrical drip brewer
+22782_18	is_in_sentence	sentence_22782
+22782_18	compound	22782_19
+22782_18	has_surface_form	drip
+22782_18	part_of_entity	Electrical drip brewer
+22782_20	is_in_sentence	sentence_22782
+22782_20	punct	22782_11
+22782_20	has_surface_form	.
+22782_21	is_in_sentence	sentence_22782
+22782_21	dep	22782_21
+22782_21	has_surface_form	
+Electrical drip brewer	surface_form	Electrical drip brewer
+Electrical drip brewer	invented-when	1954

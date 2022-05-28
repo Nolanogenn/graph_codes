@@ -1,0 +1,61 @@
+28921_0	is_in_sentence	sentence_28921
+28921_0	compound	28921_1
+28921_0	has_surface_form	Secret
+28921_0	part_of_entity	Secret Enemies
+28921_1	is_in_sentence	sentence_28921
+28921_1	nsubj	28921_2
+28921_1	has_surface_form	Enemies
+28921_1	part_of_entity	Secret Enemies
+28921_2	is_in_sentence	sentence_28921
+28921_2	ROOT	28921_2
+28921_2	has_surface_form	is
+28921_3	is_in_sentence	sentence_28921
+28921_3	det	28921_7
+28921_3	has_surface_form	a
+28921_7	is_in_sentence	sentence_28921
+28921_7	attr	28921_2
+28921_7	has_surface_form	film
+28921_4	is_in_sentence	sentence_28921
+28921_4	nummod	28921_7
+28921_4	has_surface_form	1942
+28921_5	is_in_sentence	sentence_28921
+28921_5	amod	28921_7
+28921_5	has_surface_form	American
+28921_6	is_in_sentence	sentence_28921
+28921_6	compound	28921_7
+28921_6	has_surface_form	drama
+28921_8	is_in_sentence	sentence_28921
+28921_8	acl	28921_7
+28921_8	has_surface_form	directed
+28921_9	is_in_sentence	sentence_28921
+28921_9	agent	28921_8
+28921_9	has_surface_form	by
+28921_10	is_in_sentence	sentence_28921
+28921_10	compound	28921_11
+28921_10	has_surface_form	Benjamin
+28921_10	part_of_entity	Benjamin Stoloff
+28921_11	is_in_sentence	sentence_28921
+28921_11	pobj	28921_9
+28921_11	has_surface_form	Stoloff
+28921_11	part_of_entity	Benjamin Stoloff
+28921_12	is_in_sentence	sentence_28921
+28921_12	cc	28921_8
+28921_12	has_surface_form	and
+28921_13	is_in_sentence	sentence_28921
+28921_13	conj	28921_8
+28921_13	has_surface_form	written
+28921_14	is_in_sentence	sentence_28921
+28921_14	agent	28921_13
+28921_14	has_surface_form	by
+28921_15	is_in_sentence	sentence_28921
+28921_15	compound	28921_16
+28921_15	has_surface_form	Raymond
+28921_16	is_in_sentence	sentence_28921
+28921_16	pobj	28921_14
+28921_16	has_surface_form	L.
+28921_17	is_in_sentence	sentence_28921
+28921_17	dep	28921_2
+28921_17	has_surface_form	
+Secret Enemies	surface_form	Secret Enemies
+Secret Enemies	movie-has-director	Benjamin Stoloff
+Benjamin Stoloff	surface_form	Benjamin Stoloff

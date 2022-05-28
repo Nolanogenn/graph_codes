@@ -1,0 +1,61 @@
+40_0	is_in_sentence	sentence_40
+40_0	compound	40_1
+40_0	has_surface_form	Ivo
+40_0	part_of_entity	Ivo Opstelten
+40_1	is_in_sentence	sentence_40
+40_1	nsubj	40_2
+40_1	has_surface_form	Opstelten
+40_1	part_of_entity	Ivo Opstelten
+40_2	is_in_sentence	sentence_40
+40_2	ROOT	40_2
+40_2	has_surface_form	is
+40_3	is_in_sentence	sentence_40
+40_3	acomp	40_2
+40_3	has_surface_form	married
+40_4	is_in_sentence	sentence_40
+40_4	prep	40_3
+40_4	has_surface_form	to
+40_5	is_in_sentence	sentence_40
+40_5	compound	40_6
+40_5	has_surface_form	Mariette
+40_5	part_of_entity	Mariette Dutilh
+40_6	is_in_sentence	sentence_40
+40_6	pobj	40_4
+40_6	has_surface_form	Dutilh
+40_6	part_of_entity	Mariette Dutilh
+40_7	is_in_sentence	sentence_40
+40_7	punct	40_6
+40_7	has_surface_form	(
+40_8	is_in_sentence	sentence_40
+40_8	appos	40_6
+40_8	has_surface_form	born
+40_9	is_in_sentence	sentence_40
+40_9	npadvmod	40_8
+40_9	has_surface_form	1945
+40_10	is_in_sentence	sentence_40
+40_10	punct	40_6
+40_10	has_surface_form	)
+40_11	is_in_sentence	sentence_40
+40_11	cc	40_2
+40_11	has_surface_form	and
+40_12	is_in_sentence	sentence_40
+40_12	nsubj	40_13
+40_12	has_surface_form	they
+40_13	is_in_sentence	sentence_40
+40_13	conj	40_2
+40_13	has_surface_form	have
+40_14	is_in_sentence	sentence_40
+40_14	nummod	40_15
+40_14	has_surface_form	four
+40_15	is_in_sentence	sentence_40
+40_15	dobj	40_13
+40_15	has_surface_form	children
+40_16	is_in_sentence	sentence_40
+40_16	punct	40_13
+40_16	has_surface_form	.
+40_17	is_in_sentence	sentence_40
+40_17	dep	40_17
+40_17	has_surface_form	
+Ivo Opstelten	surface_form	Ivo Opstelten
+Ivo Opstelten	has-spouse	Mariette Dutilh
+Mariette Dutilh	surface_form	Mariette Dutilh

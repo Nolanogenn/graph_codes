@@ -1,0 +1,64 @@
+31166_0	is_in_sentence	sentence_31166
+31166_0	compound	31166_1
+31166_0	has_surface_form	Gokulamlo
+31166_0	part_of_entity	Gokulamlo Seeta
+31166_1	is_in_sentence	sentence_31166
+31166_1	nsubj	31166_9
+31166_1	has_surface_form	Seeta
+31166_1	part_of_entity	Gokulamlo Seeta
+31166_9	is_in_sentence	sentence_31166
+31166_9	ROOT	31166_9
+31166_9	has_surface_form	is
+31166_2	is_in_sentence	sentence_31166
+31166_2	punct	31166_3
+31166_2	has_surface_form	(
+31166_3	is_in_sentence	sentence_31166
+31166_3	appos	31166_1
+31166_3	has_surface_form	English
+31166_4	is_in_sentence	sentence_31166
+31166_4	punct	31166_3
+31166_4	has_surface_form	:
+31166_5	is_in_sentence	sentence_31166
+31166_5	acl	31166_3
+31166_5	has_surface_form	Seeta
+31166_6	is_in_sentence	sentence_31166
+31166_6	prep	31166_5
+31166_6	has_surface_form	in
+31166_7	is_in_sentence	sentence_31166
+31166_7	pobj	31166_6
+31166_7	has_surface_form	Gokulam
+31166_8	is_in_sentence	sentence_31166
+31166_8	punct	31166_5
+31166_8	has_surface_form	)
+31166_10	is_in_sentence	sentence_31166
+31166_10	det	31166_14
+31166_10	has_surface_form	a
+31166_14	is_in_sentence	sentence_31166
+31166_14	attr	31166_9
+31166_14	has_surface_form	film
+31166_14	part_of_entity	drama film
+31166_11	is_in_sentence	sentence_31166
+31166_11	nummod	31166_14
+31166_11	has_surface_form	1997
+31166_12	is_in_sentence	sentence_31166
+31166_12	compound	31166_13
+31166_12	has_surface_form	Telugu
+31166_13	is_in_sentence	sentence_31166
+31166_13	compound	31166_14
+31166_13	has_surface_form	drama
+31166_13	part_of_entity	drama film
+31166_15	is_in_sentence	sentence_31166
+31166_15	acl	31166_14
+31166_15	has_surface_form	produced
+31166_16	is_in_sentence	sentence_31166
+31166_16	agent	31166_15
+31166_16	has_surface_form	by
+31166_17	is_in_sentence	sentence_31166
+31166_17	compound	31166_18
+31166_17	has_surface_form	B.
+31166_18	is_in_sentence	sentence_31166
+31166_18	dep	31166_16
+31166_18	has_surface_form	
+Gokulamlo Seeta	surface_form	Gokulamlo Seeta
+Gokulamlo Seeta	has-type	drama film
+drama film	surface_form	drama film

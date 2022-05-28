@@ -1,0 +1,73 @@
+6311_0	is_in_sentence	sentence_6311
+6311_0	compound	6311_1
+6311_0	has_surface_form	Carmen
+6311_0	part_of_entity	Carmen Guzman
+6311_1	is_in_sentence	sentence_6311
+6311_1	nsubj	6311_10
+6311_1	has_surface_form	Guzman
+6311_1	part_of_entity	Carmen Guzman
+6311_10	is_in_sentence	sentence_6311
+6311_10	ROOT	6311_10
+6311_10	has_surface_form	is
+6311_2	is_in_sentence	sentence_6311
+6311_2	punct	6311_1
+6311_2	has_surface_form	,
+6311_3	is_in_sentence	sentence_6311
+6311_3	punct	6311_1
+6311_3	has_surface_form	(
+6311_4	is_in_sentence	sentence_6311
+6311_4	acl	6311_1
+6311_4	has_surface_form	born
+6311_5	is_in_sentence	sentence_6311
+6311_5	npadvmod	6311_4
+6311_5	has_surface_form	July
+6311_6	is_in_sentence	sentence_6311
+6311_6	nummod	6311_5
+6311_6	has_surface_form	16
+6311_7	is_in_sentence	sentence_6311
+6311_7	punct	6311_5
+6311_7	has_surface_form	,
+6311_8	is_in_sentence	sentence_6311
+6311_8	nummod	6311_5
+6311_8	has_surface_form	1985
+6311_9	is_in_sentence	sentence_6311
+6311_9	punct	6311_1
+6311_9	has_surface_form	)
+6311_11	is_in_sentence	sentence_6311
+6311_11	det	6311_19
+6311_11	has_surface_form	a
+6311_19	is_in_sentence	sentence_6311
+6311_19	attr	6311_10
+6311_19	has_surface_form	player
+6311_12	is_in_sentence	sentence_6311
+6311_12	nmod	6311_19
+6311_12	has_surface_form	Dominican
+6311_12	part_of_entity	Dominican Republic
+6311_13	is_in_sentence	sentence_6311
+6311_13	nmod	6311_15
+6311_13	has_surface_form	Republic
+6311_13	part_of_entity	Dominican Republic
+6311_15	is_in_sentence	sentence_6311
+6311_15	amod	6311_19
+6311_15	has_surface_form	American
+6311_14	is_in_sentence	sentence_6311
+6311_14	punct	6311_15
+6311_14	has_surface_form	-
+6311_16	is_in_sentence	sentence_6311
+6311_16	amod	6311_19
+6311_16	has_surface_form	female
+6311_17	is_in_sentence	sentence_6311
+6311_17	amod	6311_19
+6311_17	has_surface_form	professional
+6311_18	is_in_sentence	sentence_6311
+6311_18	compound	6311_19
+6311_18	has_surface_form	basketball
+6311_20	is_in_sentence	sentence_6311
+6311_20	punct	6311_10
+6311_20	has_surface_form	.
+6311_21	is_in_sentence	sentence_6311
+6311_21	dep	6311_21
+6311_21	has_surface_form	
+Carmen Guzman	surface_form	Carmen Guzman
+Carmen Guzman	from-country	Dominican Republic
+Dominican Republic	surface_form	Dominican Republic

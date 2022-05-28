@@ -1,0 +1,61 @@
+131_0	is_in_sentence	sentence_131
+131_0	compound	131_1
+131_0	has_surface_form	Lina
+131_0	part_of_entity	Lina Pizzolongo
+131_1	is_in_sentence	sentence_131
+131_1	nsubj	131_8
+131_1	has_surface_form	Pizzolongo
+131_1	part_of_entity	Lina Pizzolongo
+131_8	is_in_sentence	sentence_131
+131_8	ROOT	131_8
+131_8	has_surface_form	was
+131_2	is_in_sentence	sentence_131
+131_2	punct	131_1
+131_2	has_surface_form	,
+131_3	is_in_sentence	sentence_131
+131_3	nmod	131_6
+131_3	has_surface_form	pianist
+131_6	is_in_sentence	sentence_131
+131_6	appos	131_1
+131_6	has_surface_form	coach
+131_4	is_in_sentence	sentence_131
+131_4	cc	131_3
+131_4	has_surface_form	and
+131_5	is_in_sentence	sentence_131
+131_5	conj	131_3
+131_5	has_surface_form	vocal
+131_7	is_in_sentence	sentence_131
+131_7	punct	131_1
+131_7	has_surface_form	,
+131_9	is_in_sentence	sentence_131
+131_9	det	131_10
+131_9	has_surface_form	the
+131_10	is_in_sentence	sentence_131
+131_10	attr	131_8
+131_10	has_surface_form	mother
+131_11	is_in_sentence	sentence_131
+131_11	prep	131_10
+131_11	has_surface_form	of
+131_12	is_in_sentence	sentence_131
+131_12	poss	131_13
+131_12	has_surface_form	his
+131_13	is_in_sentence	sentence_131
+131_13	pobj	131_11
+131_13	has_surface_form	son
+131_14	is_in_sentence	sentence_131
+131_14	compound	131_15
+131_14	has_surface_form	Gino
+131_14	part_of_entity	Gino Quilico
+131_15	is_in_sentence	sentence_131
+131_15	appos	131_13
+131_15	has_surface_form	Quilico
+131_15	part_of_entity	Gino Quilico
+131_16	is_in_sentence	sentence_131
+131_16	punct	131_8
+131_16	has_surface_form	.
+131_17	is_in_sentence	sentence_131
+131_17	dep	131_17
+131_17	has_surface_form	
+Lina Pizzolongo	surface_form	Lina Pizzolongo
+Lina Pizzolongo	has-child	Gino Quilico
+Gino Quilico	surface_form	Gino Quilico

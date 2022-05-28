@@ -1,0 +1,69 @@
+710_0	is_in_sentence	sentence_710
+710_0	compound	710_2
+710_0	has_surface_form	Edgewater
+710_0	part_of_entity	Edgewater High School
+710_2	is_in_sentence	sentence_710
+710_2	nsubj	710_3
+710_2	has_surface_form	School
+710_2	part_of_entity	Edgewater High School
+710_1	is_in_sentence	sentence_710
+710_1	compound	710_2
+710_1	has_surface_form	High
+710_1	part_of_entity	Edgewater High School
+710_3	is_in_sentence	sentence_710
+710_3	ROOT	710_3
+710_3	has_surface_form	is
+710_4	is_in_sentence	sentence_710
+710_4	det	710_7
+710_4	has_surface_form	a
+710_7	is_in_sentence	sentence_710
+710_7	attr	710_3
+710_7	has_surface_form	school
+710_7	part_of_entity	public secondary school
+710_5	is_in_sentence	sentence_710
+710_5	amod	710_7
+710_5	has_surface_form	public
+710_5	part_of_entity	public secondary school
+710_6	is_in_sentence	sentence_710
+710_6	amod	710_7
+710_6	has_surface_form	secondary
+710_6	part_of_entity	public secondary school
+710_8	is_in_sentence	sentence_710
+710_8	acl	710_7
+710_8	has_surface_form	located
+710_9	is_in_sentence	sentence_710
+710_9	prep	710_8
+710_9	has_surface_form	in
+710_10	is_in_sentence	sentence_710
+710_10	det	710_13
+710_10	has_surface_form	the
+710_13	is_in_sentence	sentence_710
+710_13	pobj	710_9
+710_13	has_surface_form	section
+710_11	is_in_sentence	sentence_710
+710_11	compound	710_12
+710_11	has_surface_form	College
+710_12	is_in_sentence	sentence_710
+710_12	compound	710_13
+710_12	has_surface_form	Park
+710_14	is_in_sentence	sentence_710
+710_14	prep	710_13
+710_14	has_surface_form	of
+710_15	is_in_sentence	sentence_710
+710_15	pobj	710_14
+710_15	has_surface_form	Orlando
+710_16	is_in_sentence	sentence_710
+710_16	punct	710_15
+710_16	has_surface_form	,
+710_17	is_in_sentence	sentence_710
+710_17	appos	710_15
+710_17	has_surface_form	Florida
+710_18	is_in_sentence	sentence_710
+710_18	punct	710_3
+710_18	has_surface_form	.
+710_19	is_in_sentence	sentence_710
+710_19	dep	710_3
+710_19	has_surface_form	
+Edgewater High School	surface_form	Edgewater High School
+Edgewater High School	has-type	public secondary school
+public secondary school	surface_form	public secondary school

@@ -1,0 +1,57 @@
+8030_0	is_in_sentence	sentence_8030
+8030_0	det	8030_3
+8030_0	has_surface_form	A
+8030_0	part_of_entity	A Cell Phone Movie
+8030_3	is_in_sentence	sentence_8030
+8030_3	nsubj	8030_4
+8030_3	has_surface_form	Movie
+8030_3	part_of_entity	A Cell Phone Movie
+8030_1	is_in_sentence	sentence_8030
+8030_1	compound	8030_3
+8030_1	has_surface_form	Cell
+8030_1	part_of_entity	A Cell Phone Movie
+8030_2	is_in_sentence	sentence_8030
+8030_2	compound	8030_3
+8030_2	has_surface_form	Phone
+8030_2	part_of_entity	A Cell Phone Movie
+8030_4	is_in_sentence	sentence_8030
+8030_4	ROOT	8030_4
+8030_4	has_surface_form	is
+8030_5	is_in_sentence	sentence_8030
+8030_5	det	8030_9
+8030_5	has_surface_form	a
+8030_9	is_in_sentence	sentence_8030
+8030_9	attr	8030_4
+8030_9	has_surface_form	film
+8030_6	is_in_sentence	sentence_8030
+8030_6	nummod	8030_9
+8030_6	has_surface_form	2011
+8030_7	is_in_sentence	sentence_8030
+8030_7	amod	8030_9
+8030_7	has_surface_form	Bosnian
+8030_8	is_in_sentence	sentence_8030
+8030_8	compound	8030_9
+8030_8	has_surface_form	documentary
+8030_10	is_in_sentence	sentence_8030
+8030_10	acl	8030_9
+8030_10	has_surface_form	directed
+8030_11	is_in_sentence	sentence_8030
+8030_11	agent	8030_10
+8030_11	has_surface_form	by
+8030_12	is_in_sentence	sentence_8030
+8030_12	compound	8030_13
+8030_12	has_surface_form	Nedžad
+8030_12	part_of_entity	Nedžad Begović
+8030_13	is_in_sentence	sentence_8030
+8030_13	pobj	8030_11
+8030_13	has_surface_form	Begović
+8030_13	part_of_entity	Nedžad Begović
+8030_14	is_in_sentence	sentence_8030
+8030_14	punct	8030_4
+8030_14	has_surface_form	.
+8030_15	is_in_sentence	sentence_8030
+8030_15	dep	8030_15
+8030_15	has_surface_form	
+A Cell Phone Movie	surface_form	A Cell Phone Movie
+A Cell Phone Movie	movie-has-director	Nedžad Begović
+Nedžad Begović	surface_form	Nedžad Begović

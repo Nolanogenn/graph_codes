@@ -1,0 +1,83 @@
+25613_0	is_in_sentence	sentence_25613
+25613_0	det	25613_3
+25613_0	has_surface_form	The
+25613_3	is_in_sentence	sentence_25613
+25613_3	nsubj	25613_17
+25613_3	has_surface_form	College
+25613_3	part_of_entity	Gauhati Medical College and Hospital
+25613_1	is_in_sentence	sentence_25613
+25613_1	compound	25613_3
+25613_1	has_surface_form	Gauhati
+25613_1	part_of_entity	Gauhati Medical College and Hospital
+25613_2	is_in_sentence	sentence_25613
+25613_2	compound	25613_3
+25613_2	has_surface_form	Medical
+25613_2	part_of_entity	Gauhati Medical College and Hospital
+25613_17	is_in_sentence	sentence_25613
+25613_17	ROOT	25613_17
+25613_17	has_surface_form	is
+25613_4	is_in_sentence	sentence_25613
+25613_4	cc	25613_3
+25613_4	has_surface_form	and
+25613_4	part_of_entity	Gauhati Medical College and Hospital
+25613_5	is_in_sentence	sentence_25613
+25613_5	conj	25613_3
+25613_5	has_surface_form	Hospital
+25613_5	part_of_entity	Gauhati Medical College and Hospital
+25613_6	is_in_sentence	sentence_25613
+25613_6	punct	25613_3
+25613_6	has_surface_form	,
+25613_7	is_in_sentence	sentence_25613
+25613_7	det	25613_10
+25613_7	has_surface_form	the
+25613_10	is_in_sentence	sentence_25613
+25613_10	appos	25613_3
+25613_10	has_surface_form	college
+25613_8	is_in_sentence	sentence_25613
+25613_8	amod	25613_10
+25613_8	has_surface_form	second
+25613_9	is_in_sentence	sentence_25613
+25613_9	amod	25613_10
+25613_9	has_surface_form	medical
+25613_11	is_in_sentence	sentence_25613
+25613_11	aux	25613_13
+25613_11	has_surface_form	to
+25613_13	is_in_sentence	sentence_25613
+25613_13	relcl	25613_10
+25613_13	has_surface_form	established
+25613_12	is_in_sentence	sentence_25613
+25613_12	auxpass	25613_13
+25613_12	has_surface_form	be
+25613_14	is_in_sentence	sentence_25613
+25613_14	prep	25613_13
+25613_14	has_surface_form	in
+25613_15	is_in_sentence	sentence_25613
+25613_15	pobj	25613_14
+25613_15	is_entity	Assam
+Assam	surface_form	Assam
+25613_16	is_in_sentence	sentence_25613
+25613_16	punct	25613_3
+25613_16	has_surface_form	,
+25613_18	is_in_sentence	sentence_25613
+25613_18	advmod	25613_17
+25613_18	has_surface_form	also
+25613_19	is_in_sentence	sentence_25613
+25613_19	det	25613_22
+25613_19	has_surface_form	a
+25613_22	is_in_sentence	sentence_25613
+25613_22	attr	25613_17
+25613_22	has_surface_form	institution
+25613_20	is_in_sentence	sentence_25613
+25613_20	compound	25613_21
+25613_20	has_surface_form	health
+25613_21	is_in_sentence	sentence_25613
+25613_21	compound	25613_22
+25613_21	has_surface_form	care
+25613_23	is_in_sentence	sentence_25613
+25613_23	punct	25613_17
+25613_23	has_surface_form	.
+25613_24	is_in_sentence	sentence_25613
+25613_24	dep	25613_24
+25613_24	has_surface_form	
+Gauhati Medical College and Hospital	surface_form	Gauhati Medical College and Hospital
+Gauhati Medical College and Hospital	is-where	Assam

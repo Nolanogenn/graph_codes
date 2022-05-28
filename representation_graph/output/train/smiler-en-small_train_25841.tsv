@@ -1,0 +1,53 @@
+25840_0	is_in_sentence	sentence_25840
+25840_0	nummod	25840_2
+25840_0	has_surface_form	3
+25840_0	part_of_entity	3 Bad Men
+25840_2	is_in_sentence	sentence_25840
+25840_2	nsubj	25840_3
+25840_2	has_surface_form	Men
+25840_2	part_of_entity	3 Bad Men
+25840_1	is_in_sentence	sentence_25840
+25840_1	amod	25840_2
+25840_1	has_surface_form	Bad
+25840_1	part_of_entity	3 Bad Men
+25840_3	is_in_sentence	sentence_25840
+25840_3	ROOT	25840_3
+25840_3	has_surface_form	is
+25840_4	is_in_sentence	sentence_25840
+25840_4	det	25840_8
+25840_4	has_surface_form	a
+25840_8	is_in_sentence	sentence_25840
+25840_8	attr	25840_3
+25840_8	has_surface_form	film
+25840_5	is_in_sentence	sentence_25840
+25840_5	nummod	25840_8
+25840_5	has_surface_form	1926
+25840_6	is_in_sentence	sentence_25840
+25840_6	amod	25840_8
+25840_6	has_surface_form	American
+25840_7	is_in_sentence	sentence_25840
+25840_7	amod	25840_8
+25840_7	has_surface_form	Western
+25840_9	is_in_sentence	sentence_25840
+25840_9	acl	25840_8
+25840_9	has_surface_form	directed
+25840_10	is_in_sentence	sentence_25840
+25840_10	agent	25840_9
+25840_10	has_surface_form	by
+25840_11	is_in_sentence	sentence_25840
+25840_11	compound	25840_12
+25840_11	has_surface_form	John
+25840_11	part_of_entity	John Ford
+25840_12	is_in_sentence	sentence_25840
+25840_12	pobj	25840_10
+25840_12	has_surface_form	Ford
+25840_12	part_of_entity	John Ford
+25840_13	is_in_sentence	sentence_25840
+25840_13	punct	25840_3
+25840_13	has_surface_form	.
+25840_14	is_in_sentence	sentence_25840
+25840_14	dep	25840_14
+25840_14	has_surface_form	
+3 Bad Men	surface_form	3 Bad Men
+3 Bad Men	movie-has-director	John Ford
+John Ford	surface_form	John Ford

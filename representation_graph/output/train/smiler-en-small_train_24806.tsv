@@ -1,0 +1,66 @@
+24805_0	is_in_sentence	sentence_24805
+24805_0	compound	24805_2
+24805_0	has_surface_form	Glenforest
+24805_0	part_of_entity	Glenforest Secondary School
+24805_2	is_in_sentence	sentence_24805
+24805_2	nsubj	24805_6
+24805_2	has_surface_form	School
+24805_2	part_of_entity	Glenforest Secondary School
+24805_1	is_in_sentence	sentence_24805
+24805_1	compound	24805_2
+24805_1	has_surface_form	Secondary
+24805_1	part_of_entity	Glenforest Secondary School
+24805_6	is_in_sentence	sentence_24805
+24805_6	ROOT	24805_6
+24805_6	has_surface_form	is
+24805_3	is_in_sentence	sentence_24805
+24805_3	punct	24805_2
+24805_3	has_surface_form	(
+24805_4	is_in_sentence	sentence_24805
+24805_4	appos	24805_2
+24805_4	has_surface_form	GFSS
+24805_5	is_in_sentence	sentence_24805
+24805_5	punct	24805_2
+24805_5	has_surface_form	)
+24805_7	is_in_sentence	sentence_24805
+24805_7	det	24805_10
+24805_7	has_surface_form	a
+24805_10	is_in_sentence	sentence_24805
+24805_10	attr	24805_6
+24805_10	has_surface_form	school
+24805_8	is_in_sentence	sentence_24805
+24805_8	amod	24805_10
+24805_8	has_surface_form	public
+24805_9	is_in_sentence	sentence_24805
+24805_9	amod	24805_10
+24805_9	has_surface_form	secondary
+24805_11	is_in_sentence	sentence_24805
+24805_11	acl	24805_10
+24805_11	has_surface_form	located
+24805_12	is_in_sentence	sentence_24805
+24805_12	prep	24805_11
+24805_12	has_surface_form	in
+24805_13	is_in_sentence	sentence_24805
+24805_13	pobj	24805_12
+24805_13	is_entity	Mississauga
+Mississauga	surface_form	Mississauga
+24805_14	is_in_sentence	sentence_24805
+24805_14	punct	24805_13
+24805_14	has_surface_form	,
+24805_15	is_in_sentence	sentence_24805
+24805_15	conj	24805_13
+24805_15	has_surface_form	Ontario
+24805_16	is_in_sentence	sentence_24805
+24805_16	punct	24805_15
+24805_16	has_surface_form	,
+24805_17	is_in_sentence	sentence_24805
+24805_17	npadvmod	24805_15
+24805_17	has_surface_form	Canada
+24805_18	is_in_sentence	sentence_24805
+24805_18	punct	24805_6
+24805_18	has_surface_form	.
+24805_19	is_in_sentence	sentence_24805
+24805_19	dep	24805_6
+24805_19	has_surface_form	
+Glenforest Secondary School	surface_form	Glenforest Secondary School
+Glenforest Secondary School	is-where	Mississauga

@@ -1,0 +1,78 @@
+12712_0	is_in_sentence	sentence_12712
+12712_0	det	12712_1
+12712_0	has_surface_form	A
+12712_0	part_of_entity	A Millionaire for Christy
+12712_1	is_in_sentence	sentence_12712
+12712_1	nsubj	12712_4
+12712_1	has_surface_form	Millionaire
+12712_1	part_of_entity	A Millionaire for Christy
+12712_4	is_in_sentence	sentence_12712
+12712_4	ROOT	12712_4
+12712_4	has_surface_form	is
+12712_2	is_in_sentence	sentence_12712
+12712_2	prep	12712_1
+12712_2	has_surface_form	for
+12712_2	part_of_entity	A Millionaire for Christy
+12712_3	is_in_sentence	sentence_12712
+12712_3	pobj	12712_2
+12712_3	has_surface_form	Christy
+12712_3	part_of_entity	A Millionaire for Christy
+12712_5	is_in_sentence	sentence_12712
+12712_5	det	12712_8
+12712_5	has_surface_form	a
+12712_8	is_in_sentence	sentence_12712
+12712_8	attr	12712_4
+12712_8	has_surface_form	film
+12712_6	is_in_sentence	sentence_12712
+12712_6	nummod	12712_8
+12712_6	has_surface_form	1951
+12712_7	is_in_sentence	sentence_12712
+12712_7	compound	12712_8
+12712_7	has_surface_form	comedy
+12712_9	is_in_sentence	sentence_12712
+12712_9	acl	12712_8
+12712_9	has_surface_form	directed
+12712_10	is_in_sentence	sentence_12712
+12712_10	agent	12712_9
+12712_10	has_surface_form	by
+12712_11	is_in_sentence	sentence_12712
+12712_11	compound	12712_12
+12712_11	has_surface_form	George
+12712_12	is_in_sentence	sentence_12712
+12712_12	pobj	12712_10
+12712_12	has_surface_form	Marshall
+12712_13	is_in_sentence	sentence_12712
+12712_13	punct	12712_4
+12712_13	has_surface_form	,
+12712_14	is_in_sentence	sentence_12712
+12712_14	cc	12712_4
+12712_14	has_surface_form	and
+12712_15	is_in_sentence	sentence_12712
+12712_15	conj	12712_4
+12712_15	has_surface_form	starring
+12712_16	is_in_sentence	sentence_12712
+12712_16	compound	12712_17
+12712_16	has_surface_form	Fred
+12712_17	is_in_sentence	sentence_12712
+12712_17	dobj	12712_15
+12712_17	has_surface_form	MacMurray
+12712_18	is_in_sentence	sentence_12712
+12712_18	cc	12712_17
+12712_18	has_surface_form	and
+12712_19	is_in_sentence	sentence_12712
+12712_19	compound	12712_20
+12712_19	has_surface_form	Eleanor
+12712_19	part_of_entity	Eleanor Parker
+12712_20	is_in_sentence	sentence_12712
+12712_20	conj	12712_17
+12712_20	has_surface_form	Parker
+12712_20	part_of_entity	Eleanor Parker
+12712_21	is_in_sentence	sentence_12712
+12712_21	punct	12712_4
+12712_21	has_surface_form	.
+12712_22	is_in_sentence	sentence_12712
+12712_22	dep	12712_22
+12712_22	has_surface_form	
+A Millionaire for Christy	surface_form	A Millionaire for Christy
+A Millionaire for Christy	starring	Eleanor Parker
+Eleanor Parker	surface_form	Eleanor Parker

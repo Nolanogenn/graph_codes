@@ -1,0 +1,83 @@
+34_0	is_in_sentence	sentence_34
+34_0	det	34_2
+34_0	has_surface_form	The
+34_0	part_of_entity	The New Hotel
+34_2	is_in_sentence	sentence_34
+34_2	nsubj	34_3
+34_2	has_surface_form	Hotel
+34_2	part_of_entity	The New Hotel
+34_1	is_in_sentence	sentence_34
+34_1	compound	34_2
+34_1	has_surface_form	New
+34_1	part_of_entity	The New Hotel
+34_3	is_in_sentence	sentence_34
+34_3	ROOT	34_3
+34_3	has_surface_form	is
+34_4	is_in_sentence	sentence_34
+34_4	det	34_8
+34_4	has_surface_form	a
+34_8	is_in_sentence	sentence_34
+34_8	attr	34_3
+34_8	has_surface_form	film
+34_5	is_in_sentence	sentence_34
+34_5	nummod	34_8
+34_5	has_surface_form	1932
+34_6	is_in_sentence	sentence_34
+34_6	amod	34_8
+34_6	has_surface_form	British
+34_7	is_in_sentence	sentence_34
+34_7	amod	34_8
+34_7	has_surface_form	musical
+34_9	is_in_sentence	sentence_34
+34_9	acl	34_8
+34_9	has_surface_form	directed
+34_10	is_in_sentence	sentence_34
+34_10	agent	34_9
+34_10	has_surface_form	by
+34_11	is_in_sentence	sentence_34
+34_11	compound	34_12
+34_11	has_surface_form	Bernard
+34_11	part_of_entity	Bernard Mainwaring
+34_12	is_in_sentence	sentence_34
+34_12	pobj	34_10
+34_12	has_surface_form	Mainwaring
+34_12	part_of_entity	Bernard Mainwaring
+34_13	is_in_sentence	sentence_34
+34_13	cc	34_9
+34_13	has_surface_form	and
+34_14	is_in_sentence	sentence_34
+34_14	conj	34_9
+34_14	has_surface_form	starring
+34_15	is_in_sentence	sentence_34
+34_15	compound	34_16
+34_15	has_surface_form	Norman
+34_16	is_in_sentence	sentence_34
+34_16	dobj	34_14
+34_16	has_surface_form	Long
+34_17	is_in_sentence	sentence_34
+34_17	punct	34_16
+34_17	has_surface_form	,
+34_18	is_in_sentence	sentence_34
+34_18	compound	34_19
+34_18	has_surface_form	Dan
+34_19	is_in_sentence	sentence_34
+34_19	conj	34_16
+34_19	has_surface_form	Young
+34_20	is_in_sentence	sentence_34
+34_20	cc	34_19
+34_20	has_surface_form	and
+34_21	is_in_sentence	sentence_34
+34_21	compound	34_22
+34_21	has_surface_form	Hal
+34_22	is_in_sentence	sentence_34
+34_22	conj	34_19
+34_22	has_surface_form	Gordon
+34_23	is_in_sentence	sentence_34
+34_23	punct	34_3
+34_23	has_surface_form	.
+34_24	is_in_sentence	sentence_34
+34_24	dep	34_24
+34_24	has_surface_form	
+The New Hotel	surface_form	The New Hotel
+The New Hotel	movie-has-director	Bernard Mainwaring
+Bernard Mainwaring	surface_form	Bernard Mainwaring

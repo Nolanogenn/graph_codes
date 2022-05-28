@@ -1,0 +1,70 @@
+3112_0	is_in_sentence	sentence_3112
+3112_0	compound	3112_1
+3112_0	has_surface_form	Crazy
+3112_0	part_of_entity	Crazy Gopalan
+3112_1	is_in_sentence	sentence_3112
+3112_1	nsubj	3112_2
+3112_1	has_surface_form	Gopalan
+3112_1	part_of_entity	Crazy Gopalan
+3112_2	is_in_sentence	sentence_3112
+3112_2	ROOT	3112_2
+3112_2	has_surface_form	is
+3112_3	is_in_sentence	sentence_3112
+3112_3	det	3112_7
+3112_3	has_surface_form	a
+3112_7	is_in_sentence	sentence_3112
+3112_7	attr	3112_2
+3112_7	has_surface_form	film
+3112_4	is_in_sentence	sentence_3112
+3112_4	compound	3112_7
+3112_4	has_surface_form	Malayalam
+3112_5	is_in_sentence	sentence_3112
+3112_5	compound	3112_7
+3112_5	has_surface_form	comedy
+3112_6	is_in_sentence	sentence_3112
+3112_6	compound	3112_7
+3112_6	has_surface_form	thriller
+3112_8	is_in_sentence	sentence_3112
+3112_8	acl	3112_7
+3112_8	has_surface_form	released
+3112_9	is_in_sentence	sentence_3112
+3112_9	prep	3112_8
+3112_9	has_surface_form	in
+3112_10	is_in_sentence	sentence_3112
+3112_10	pobj	3112_9
+3112_10	has_surface_form	2008
+3112_11	is_in_sentence	sentence_3112
+3112_11	punct	3112_2
+3112_11	has_surface_form	.
+3112_12	is_in_sentence	sentence_3112
+3112_12	det	3112_13
+3112_12	has_surface_form	The
+3112_13	is_in_sentence	sentence_3112
+3112_13	nsubjpass	3112_15
+3112_13	has_surface_form	film
+3112_15	is_in_sentence	sentence_3112
+3112_15	ROOT	3112_15
+3112_15	has_surface_form	directed
+3112_14	is_in_sentence	sentence_3112
+3112_14	auxpass	3112_15
+3112_14	has_surface_form	is
+3112_16	is_in_sentence	sentence_3112
+3112_16	agent	3112_15
+3112_16	has_surface_form	by
+3112_17	is_in_sentence	sentence_3112
+3112_17	compound	3112_18
+3112_17	has_surface_form	Deepu
+3112_17	part_of_entity	Deepu Karunakaran
+3112_18	is_in_sentence	sentence_3112
+3112_18	pobj	3112_16
+3112_18	has_surface_form	Karunakaran
+3112_18	part_of_entity	Deepu Karunakaran
+3112_19	is_in_sentence	sentence_3112
+3112_19	punct	3112_15
+3112_19	has_surface_form	.
+3112_20	is_in_sentence	sentence_3112
+3112_20	dep	3112_20
+3112_20	has_surface_form	
+Crazy Gopalan	surface_form	Crazy Gopalan
+Crazy Gopalan	movie-has-director	Deepu Karunakaran
+Deepu Karunakaran	surface_form	Deepu Karunakaran

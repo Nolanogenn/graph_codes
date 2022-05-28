@@ -1,0 +1,44 @@
+2236_0	is_in_sentence	sentence_2236
+2236_0	compound	2236_1
+2236_0	has_surface_form	Piera
+2236_0	part_of_entity	Piera Martell
+2236_1	is_in_sentence	sentence_2236
+2236_1	ROOT	2236_1
+2236_1	has_surface_form	Martell
+2236_1	part_of_entity	Piera Martell
+2236_2	is_in_sentence	sentence_2236
+2236_2	punct	2236_1
+2236_2	has_surface_form	(
+2236_3	is_in_sentence	sentence_2236
+2236_3	acl	2236_1
+2236_3	has_surface_form	born
+2236_4	is_in_sentence	sentence_2236
+2236_4	npadvmod	2236_3
+2236_4	has_surface_form	2
+2236_5	is_in_sentence	sentence_2236
+2236_5	npadvmod	2236_3
+2236_5	has_surface_form	July
+2236_6	is_in_sentence	sentence_2236
+2236_6	nummod	2236_5
+2236_6	has_surface_form	1943
+2236_7	is_in_sentence	sentence_2236
+2236_7	punct	2236_1
+2236_7	has_surface_form	,
+2236_8	is_in_sentence	sentence_2236
+2236_8	prep	2236_1
+2236_8	has_surface_form	in
+2236_9	is_in_sentence	sentence_2236
+2236_9	pobj	2236_8
+2236_9	is_entity	Jona
+Jona	surface_form	Jona
+2236_10	is_in_sentence	sentence_2236
+2236_10	punct	2236_9
+2236_10	has_surface_form	,
+2236_11	is_in_sentence	sentence_2236
+2236_11	appos	2236_9
+2236_11	has_surface_form	St.
+2236_12	is_in_sentence	sentence_2236
+2236_12	dep	2236_9
+2236_12	has_surface_form	
+Piera Martell	surface_form	Piera Martell
+Piera Martell	birth-place	Jona

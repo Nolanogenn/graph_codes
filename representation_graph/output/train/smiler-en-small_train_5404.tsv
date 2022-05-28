@@ -1,0 +1,79 @@
+5403_0	is_in_sentence	sentence_5403
+5403_0	compound	5403_1
+5403_0	has_surface_form	André
+5403_0	part_of_entity	André Hahn
+5403_1	is_in_sentence	sentence_5403
+5403_1	nsubj	5403_8
+5403_1	has_surface_form	Hahn
+5403_1	part_of_entity	André Hahn
+5403_8	is_in_sentence	sentence_5403
+5403_8	ROOT	5403_8
+5403_8	has_surface_form	is
+5403_2	is_in_sentence	sentence_5403
+5403_2	punct	5403_3
+5403_2	has_surface_form	(
+5403_3	is_in_sentence	sentence_5403
+5403_3	parataxis	5403_1
+5403_3	has_surface_form	born
+5403_4	is_in_sentence	sentence_5403
+5403_4	npadvmod	5403_3
+5403_4	has_surface_form	13
+5403_5	is_in_sentence	sentence_5403
+5403_5	npadvmod	5403_3
+5403_5	has_surface_form	August
+5403_6	is_in_sentence	sentence_5403
+5403_6	nummod	5403_5
+5403_6	has_surface_form	1990
+5403_7	is_in_sentence	sentence_5403
+5403_7	punct	5403_3
+5403_7	has_surface_form	)
+5403_9	is_in_sentence	sentence_5403
+5403_9	det	5403_11
+5403_9	has_surface_form	a
+5403_11	is_in_sentence	sentence_5403
+5403_11	attr	5403_8
+5403_11	has_surface_form	footballer
+5403_10	is_in_sentence	sentence_5403
+5403_10	amod	5403_11
+5403_10	has_surface_form	German
+5403_12	is_in_sentence	sentence_5403
+5403_12	nsubj	5403_13
+5403_12	has_surface_form	who
+5403_13	is_in_sentence	sentence_5403
+5403_13	relcl	5403_11
+5403_13	has_surface_form	plays
+5403_14	is_in_sentence	sentence_5403
+5403_14	prep	5403_13
+5403_14	has_surface_form	as
+5403_15	is_in_sentence	sentence_5403
+5403_15	det	5403_16
+5403_15	has_surface_form	a
+5403_16	is_in_sentence	sentence_5403
+5403_16	pobj	5403_14
+5403_16	has_surface_form	winger
+5403_17	is_in_sentence	sentence_5403
+5403_17	cc	5403_14
+5403_17	has_surface_form	and
+5403_18	is_in_sentence	sentence_5403
+5403_18	conj	5403_14
+5403_18	has_surface_form	forward
+5403_19	is_in_sentence	sentence_5403
+5403_19	prep	5403_18
+5403_19	has_surface_form	for
+5403_20	is_in_sentence	sentence_5403
+5403_20	compound	5403_21
+5403_20	has_surface_form	FC
+5403_20	part_of_entity	FC Augsburg
+5403_21	is_in_sentence	sentence_5403
+5403_21	pobj	5403_19
+5403_21	has_surface_form	Augsburg
+5403_21	part_of_entity	FC Augsburg
+5403_22	is_in_sentence	sentence_5403
+5403_22	punct	5403_8
+5403_22	has_surface_form	.
+5403_23	is_in_sentence	sentence_5403
+5403_23	dep	5403_8
+5403_23	has_surface_form	
+André Hahn	surface_form	André Hahn
+André Hahn	is-member-of	FC Augsburg
+FC Augsburg	surface_form	FC Augsburg

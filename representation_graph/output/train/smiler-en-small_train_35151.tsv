@@ -1,0 +1,77 @@
+35150_0	is_in_sentence	sentence_35150
+35150_0	nsubj	35150_11
+35150_0	has_surface_form	Future
+35150_11	is_in_sentence	sentence_35150
+35150_11	ROOT	35150_11
+35150_11	has_surface_form	is
+35150_1	is_in_sentence	sentence_35150
+35150_1	dobj	35150_0
+35150_1	has_surface_form	X
+35150_2	is_in_sentence	sentence_35150
+35150_2	dobj	35150_0
+35150_2	has_surface_form	-
+35150_3	is_in_sentence	sentence_35150
+35150_3	dobj	35150_0
+35150_3	has_surface_form	Cops
+35150_4	is_in_sentence	sentence_35150
+35150_4	punct	35150_3
+35150_4	has_surface_form	(
+35150_5	is_in_sentence	sentence_35150
+35150_5	compound	35150_6
+35150_5	has_surface_form	Mei
+35150_6	is_in_sentence	sentence_35150
+35150_6	compound	35150_8
+35150_6	has_surface_form	loi
+35150_8	is_in_sentence	sentence_35150
+35150_8	compound	35150_9
+35150_8	has_surface_form	chaat
+35150_7	is_in_sentence	sentence_35150
+35150_7	compound	35150_8
+35150_7	has_surface_form	ging
+35150_9	is_in_sentence	sentence_35150
+35150_9	appos	35150_3
+35150_9	has_surface_form	未來警察
+35150_10	is_in_sentence	sentence_35150
+35150_10	punct	35150_3
+35150_10	has_surface_form	)
+35150_12	is_in_sentence	sentence_35150
+35150_12	det	35150_17
+35150_12	has_surface_form	a
+35150_17	is_in_sentence	sentence_35150
+35150_17	attr	35150_11
+35150_17	has_surface_form	film
+35150_13	is_in_sentence	sentence_35150
+35150_13	nummod	35150_15
+35150_13	has_surface_form	2010
+35150_15	is_in_sentence	sentence_35150
+35150_15	compound	35150_17
+35150_15	has_surface_form	fiction
+35150_14	is_in_sentence	sentence_35150
+35150_14	compound	35150_15
+35150_14	has_surface_form	science
+35150_16	is_in_sentence	sentence_35150
+35150_16	compound	35150_17
+35150_16	has_surface_form	action
+35150_18	is_in_sentence	sentence_35150
+35150_18	acl	35150_17
+35150_18	has_surface_form	directed
+35150_19	is_in_sentence	sentence_35150
+35150_19	agent	35150_18
+35150_19	has_surface_form	by
+35150_20	is_in_sentence	sentence_35150
+35150_20	compound	35150_21
+35150_20	has_surface_form	Wong
+35150_20	part_of_entity	Wong Jing
+35150_21	is_in_sentence	sentence_35150
+35150_21	pobj	35150_19
+35150_21	has_surface_form	Jing
+35150_21	part_of_entity	Wong Jing
+35150_22	is_in_sentence	sentence_35150
+35150_22	punct	35150_11
+35150_22	has_surface_form	.
+35150_23	is_in_sentence	sentence_35150
+35150_23	dep	35150_23
+35150_23	has_surface_form	
+Future X-Cops	surface_form	Future X-Cops
+Future X-Cops	movie-has-director	Wong Jing
+Wong Jing	surface_form	Wong Jing

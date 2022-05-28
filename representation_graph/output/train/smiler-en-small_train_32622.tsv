@@ -1,0 +1,92 @@
+32621_0	is_in_sentence	sentence_32621
+32621_0	nsubj	32621_10
+32621_0	has_surface_form	Rita
+32621_0	part_of_entity	Rita the Mosquito
+32621_10	is_in_sentence	sentence_32621
+32621_10	ROOT	32621_10
+32621_10	has_surface_form	is
+32621_1	is_in_sentence	sentence_32621
+32621_1	det	32621_2
+32621_1	has_surface_form	the
+32621_1	part_of_entity	Rita the Mosquito
+32621_2	is_in_sentence	sentence_32621
+32621_2	appos	32621_0
+32621_2	has_surface_form	Mosquito
+32621_2	part_of_entity	Rita the Mosquito
+32621_3	is_in_sentence	sentence_32621
+32621_3	punct	32621_4
+32621_3	has_surface_form	(
+32621_4	is_in_sentence	sentence_32621
+32621_4	appos	32621_0
+32621_4	has_surface_form	Italian
+32621_5	is_in_sentence	sentence_32621
+32621_5	punct	32621_4
+32621_5	has_surface_form	:
+32621_6	is_in_sentence	sentence_32621
+32621_6	compound	32621_8
+32621_6	has_surface_form	Rita
+32621_8	is_in_sentence	sentence_32621
+32621_8	appos	32621_4
+32621_8	has_surface_form	zanzara
+32621_7	is_in_sentence	sentence_32621
+32621_7	compound	32621_8
+32621_7	has_surface_form	la
+32621_9	is_in_sentence	sentence_32621
+32621_9	punct	32621_4
+32621_9	has_surface_form	)
+32621_11	is_in_sentence	sentence_32621
+32621_11	det	32621_15
+32621_11	has_surface_form	a
+32621_15	is_in_sentence	sentence_32621
+32621_15	attr	32621_10
+32621_15	has_surface_form	film
+32621_12	is_in_sentence	sentence_32621
+32621_12	nummod	32621_15
+32621_12	has_surface_form	1966
+32621_13	is_in_sentence	sentence_32621
+32621_13	amod	32621_15
+32621_13	has_surface_form	Italian
+32621_14	is_in_sentence	sentence_32621
+32621_14	amod	32621_15
+32621_14	has_surface_form	musicarello
+32621_16	is_in_sentence	sentence_32621
+32621_16	acl	32621_15
+32621_16	has_surface_form	directed
+32621_17	is_in_sentence	sentence_32621
+32621_17	agent	32621_16
+32621_17	has_surface_form	by
+32621_18	is_in_sentence	sentence_32621
+32621_18	compound	32621_19
+32621_18	has_surface_form	Lina
+32621_18	part_of_entity	Lina Wertmüller
+32621_19	is_in_sentence	sentence_32621
+32621_19	pobj	32621_17
+32621_19	has_surface_form	Wertmüller
+32621_19	part_of_entity	Lina Wertmüller
+32621_20	is_in_sentence	sentence_32621
+32621_20	punct	32621_15
+32621_20	has_surface_form	(
+32621_21	is_in_sentence	sentence_32621
+32621_21	prep	32621_15
+32621_21	has_surface_form	under
+32621_22	is_in_sentence	sentence_32621
+32621_22	det	32621_24
+32621_22	has_surface_form	the
+32621_24	is_in_sentence	sentence_32621
+32621_24	pobj	32621_21
+32621_24	has_surface_form	name
+32621_23	is_in_sentence	sentence_32621
+32621_23	compound	32621_24
+32621_23	has_surface_form	stage
+32621_25	is_in_sentence	sentence_32621
+32621_25	compound	32621_26
+32621_25	has_surface_form	George
+32621_26	is_in_sentence	sentence_32621
+32621_26	appos	32621_15
+32621_26	has_surface_form	H.
+32621_27	is_in_sentence	sentence_32621
+32621_27	dep	32621_15
+32621_27	has_surface_form	
+Rita the Mosquito	surface_form	Rita the Mosquito
+Rita the Mosquito	movie-has-director	Lina Wertmüller
+Lina Wertmüller	surface_form	Lina Wertmüller

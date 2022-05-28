@@ -1,0 +1,64 @@
+25498_0	is_in_sentence	sentence_25498
+25498_0	compound	25498_1
+25498_0	has_surface_form	Peter
+25498_0	part_of_entity	Peter Rossomando
+25498_1	is_in_sentence	sentence_25498
+25498_1	nsubj	25498_9
+25498_1	has_surface_form	Rossomando
+25498_1	part_of_entity	Peter Rossomando
+25498_9	is_in_sentence	sentence_25498
+25498_9	ROOT	25498_9
+25498_9	has_surface_form	is
+25498_2	is_in_sentence	sentence_25498
+25498_2	punct	25498_1
+25498_2	has_surface_form	(
+25498_3	is_in_sentence	sentence_25498
+25498_3	acl	25498_1
+25498_3	has_surface_form	born
+25498_4	is_in_sentence	sentence_25498
+25498_4	npadvmod	25498_3
+25498_4	has_surface_form	April
+25498_5	is_in_sentence	sentence_25498
+25498_5	nummod	25498_4
+25498_5	has_surface_form	7
+25498_6	is_in_sentence	sentence_25498
+25498_6	punct	25498_4
+25498_6	has_surface_form	,
+25498_7	is_in_sentence	sentence_25498
+25498_7	nummod	25498_4
+25498_7	has_surface_form	1972
+25498_8	is_in_sentence	sentence_25498
+25498_8	punct	25498_1
+25498_8	has_surface_form	)
+25498_10	is_in_sentence	sentence_25498
+25498_10	det	25498_13
+25498_10	has_surface_form	an
+25498_13	is_in_sentence	sentence_25498
+25498_13	attr	25498_9
+25498_13	has_surface_form	coach
+25498_13	part_of_entity	football coach
+25498_11	is_in_sentence	sentence_25498
+25498_11	amod	25498_13
+25498_11	has_surface_form	American
+25498_12	is_in_sentence	sentence_25498
+25498_12	compound	25498_13
+25498_12	has_surface_form	football
+25498_12	part_of_entity	football coach
+25498_14	is_in_sentence	sentence_25498
+25498_14	cc	25498_13
+25498_14	has_surface_form	and
+25498_15	is_in_sentence	sentence_25498
+25498_15	amod	25498_16
+25498_15	has_surface_form	former
+25498_16	is_in_sentence	sentence_25498
+25498_16	conj	25498_13
+25498_16	has_surface_form	player
+25498_17	is_in_sentence	sentence_25498
+25498_17	punct	25498_9
+25498_17	has_surface_form	.
+25498_18	is_in_sentence	sentence_25498
+25498_18	dep	25498_18
+25498_18	has_surface_form	
+Peter Rossomando	surface_form	Peter Rossomando
+Peter Rossomando	has-type	football coach
+football coach	surface_form	football coach

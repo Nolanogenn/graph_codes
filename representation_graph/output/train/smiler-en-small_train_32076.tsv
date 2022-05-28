@@ -1,0 +1,49 @@
+32075_0	is_in_sentence	sentence_32075
+32075_0	compound	32075_1
+32075_0	has_surface_form	Juan
+32075_0	part_of_entity	Juan Polainas
+32075_1	is_in_sentence	sentence_32075
+32075_1	nsubj	32075_2
+32075_1	has_surface_form	Polainas
+32075_1	part_of_entity	Juan Polainas
+32075_2	is_in_sentence	sentence_32075
+32075_2	ROOT	32075_2
+32075_2	has_surface_form	is
+32075_3	is_in_sentence	sentence_32075
+32075_3	det	32075_7
+32075_3	has_surface_form	a
+32075_7	is_in_sentence	sentence_32075
+32075_7	attr	32075_2
+32075_7	has_surface_form	film
+32075_4	is_in_sentence	sentence_32075
+32075_4	nummod	32075_7
+32075_4	has_surface_form	1960
+32075_5	is_in_sentence	sentence_32075
+32075_5	amod	32075_7
+32075_5	has_surface_form	Mexican
+32075_6	is_in_sentence	sentence_32075
+32075_6	compound	32075_7
+32075_6	has_surface_form	comedy
+32075_8	is_in_sentence	sentence_32075
+32075_8	acl	32075_7
+32075_8	has_surface_form	directed
+32075_9	is_in_sentence	sentence_32075
+32075_9	agent	32075_8
+32075_9	has_surface_form	by
+32075_10	is_in_sentence	sentence_32075
+32075_10	compound	32075_11
+32075_10	has_surface_form	René
+32075_10	part_of_entity	René Cardona
+32075_11	is_in_sentence	sentence_32075
+32075_11	pobj	32075_9
+32075_11	has_surface_form	Cardona
+32075_11	part_of_entity	René Cardona
+32075_12	is_in_sentence	sentence_32075
+32075_12	punct	32075_2
+32075_12	has_surface_form	.
+32075_13	is_in_sentence	sentence_32075
+32075_13	dep	32075_2
+32075_13	has_surface_form	
+Juan Polainas	surface_form	Juan Polainas
+Juan Polainas	movie-has-director	René Cardona
+René Cardona	surface_form	René Cardona

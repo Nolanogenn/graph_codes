@@ -1,0 +1,53 @@
+3704_0	is_in_sentence	sentence_3704
+3704_0	compound	3704_1
+3704_0	has_surface_form	Ulrich
+3704_0	part_of_entity	Ulrich Lehner
+3704_1	is_in_sentence	sentence_3704
+3704_1	nsubj	3704_2
+3704_1	has_surface_form	Lehner
+3704_1	part_of_entity	Ulrich Lehner
+3704_2	is_in_sentence	sentence_3704
+3704_2	ROOT	3704_2
+3704_2	has_surface_form	retired
+3704_3	is_in_sentence	sentence_3704
+3704_3	prep	3704_2
+3704_3	has_surface_form	from
+3704_4	is_in_sentence	sentence_3704
+3704_4	poss	3704_5
+3704_4	has_surface_form	his
+3704_5	is_in_sentence	sentence_3704
+3704_5	pobj	3704_3
+3704_5	has_surface_form	position
+3704_6	is_in_sentence	sentence_3704
+3704_6	prep	3704_5
+3704_6	has_surface_form	as
+3704_7	is_in_sentence	sentence_3704
+3704_7	pobj	3704_6
+3704_7	has_surface_form	Chairman
+3704_8	is_in_sentence	sentence_3704
+3704_8	prep	3704_7
+3704_8	has_surface_form	of
+3704_9	is_in_sentence	sentence_3704
+3704_9	det	3704_11
+3704_9	has_surface_form	the
+3704_11	is_in_sentence	sentence_3704
+3704_11	pobj	3704_8
+3704_11	has_surface_form	Board
+3704_10	is_in_sentence	sentence_3704
+3704_10	compound	3704_11
+3704_10	has_surface_form	Management
+3704_12	is_in_sentence	sentence_3704
+3704_12	prep	3704_11
+3704_12	has_surface_form	of
+3704_13	is_in_sentence	sentence_3704
+3704_13	compound	3704_14
+3704_13	is_entity	Henkel
+3704_14	is_in_sentence	sentence_3704
+3704_14	pobj	3704_12
+3704_14	has_surface_form	KGaA.
+Henkel	surface_form	Henkel
+3704_15	is_in_sentence	sentence_3704
+3704_15	dep	3704_2
+3704_15	has_surface_form	
+Ulrich Lehner	surface_form	Ulrich Lehner
+Ulrich Lehner	no_relation	Henkel

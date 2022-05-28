@@ -1,0 +1,76 @@
+24686_0	is_in_sentence	sentence_24686
+24686_0	det	24686_2
+24686_0	has_surface_form	The
+24686_0	part_of_entity	The Restaurant School at Walnut Hill College
+24686_2	is_in_sentence	sentence_24686
+24686_2	nsubj	24686_7
+24686_2	has_surface_form	School
+24686_2	part_of_entity	The Restaurant School at Walnut Hill College
+24686_1	is_in_sentence	sentence_24686
+24686_1	compound	24686_2
+24686_1	has_surface_form	Restaurant
+24686_1	part_of_entity	The Restaurant School at Walnut Hill College
+24686_7	is_in_sentence	sentence_24686
+24686_7	ROOT	24686_7
+24686_7	has_surface_form	is
+24686_3	is_in_sentence	sentence_24686
+24686_3	prep	24686_2
+24686_3	has_surface_form	at
+24686_3	part_of_entity	The Restaurant School at Walnut Hill College
+24686_4	is_in_sentence	sentence_24686
+24686_4	compound	24686_6
+24686_4	has_surface_form	Walnut
+24686_4	part_of_entity	The Restaurant School at Walnut Hill College
+24686_6	is_in_sentence	sentence_24686
+24686_6	pobj	24686_3
+24686_6	has_surface_form	College
+24686_6	part_of_entity	The Restaurant School at Walnut Hill College
+24686_5	is_in_sentence	sentence_24686
+24686_5	compound	24686_6
+24686_5	has_surface_form	Hill
+24686_5	part_of_entity	The Restaurant School at Walnut Hill College
+24686_8	is_in_sentence	sentence_24686
+24686_8	det	24686_15
+24686_8	has_surface_form	a
+24686_15	is_in_sentence	sentence_24686
+24686_15	attr	24686_7
+24686_15	has_surface_form	school
+24686_9	is_in_sentence	sentence_24686
+24686_9	amod	24686_15
+24686_9	has_surface_form	private
+24686_10	is_in_sentence	sentence_24686
+24686_10	punct	24686_15
+24686_10	has_surface_form	,
+24686_11	is_in_sentence	sentence_24686
+24686_11	nmod	24686_15
+24686_11	has_surface_form	for
+24686_12	is_in_sentence	sentence_24686
+24686_12	punct	24686_11
+24686_12	has_surface_form	-
+24686_13	is_in_sentence	sentence_24686
+24686_13	pobj	24686_11
+24686_13	has_surface_form	profit
+24686_14	is_in_sentence	sentence_24686
+24686_14	amod	24686_15
+24686_14	has_surface_form	culinary
+24686_16	is_in_sentence	sentence_24686
+24686_16	prep	24686_15
+24686_16	has_surface_form	in
+24686_17	is_in_sentence	sentence_24686
+24686_17	pobj	24686_16
+24686_17	is_entity	Philadelphia
+Philadelphia	surface_form	Philadelphia
+24686_18	is_in_sentence	sentence_24686
+24686_18	punct	24686_17
+24686_18	has_surface_form	,
+24686_19	is_in_sentence	sentence_24686
+24686_19	appos	24686_17
+24686_19	has_surface_form	Pennsylvania
+24686_20	is_in_sentence	sentence_24686
+24686_20	punct	24686_7
+24686_20	has_surface_form	.
+24686_21	is_in_sentence	sentence_24686
+24686_21	dep	24686_21
+24686_21	has_surface_form	
+The Restaurant School at Walnut Hill College	surface_form	The Restaurant School at Walnut Hill College
+The Restaurant School at Walnut Hill College	is-where	Philadelphia

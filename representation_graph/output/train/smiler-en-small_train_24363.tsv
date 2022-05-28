@@ -1,0 +1,94 @@
+24362_0	is_in_sentence	sentence_24362
+24362_0	det	24362_4
+24362_0	has_surface_form	The
+24362_4	is_in_sentence	sentence_24362
+24362_4	nsubjpass	24362_6
+24362_4	has_surface_form	match
+24362_4	part_of_entity	friction match
+24362_1	is_in_sentence	sentence_24362
+24362_1	amod	24362_4
+24362_1	has_surface_form	first
+24362_2	is_in_sentence	sentence_24362
+24362_2	amod	24362_4
+24362_2	has_surface_form	successful
+24362_3	is_in_sentence	sentence_24362
+24362_3	compound	24362_4
+24362_3	has_surface_form	friction
+24362_3	part_of_entity	friction match
+24362_6	is_in_sentence	sentence_24362
+24362_6	ROOT	24362_6
+24362_6	has_surface_form	invented
+24362_5	is_in_sentence	sentence_24362
+24362_5	auxpass	24362_6
+24362_5	has_surface_form	was
+24362_7	is_in_sentence	sentence_24362
+24362_7	prep	24362_6
+24362_7	has_surface_form	in
+24362_8	is_in_sentence	sentence_24362
+24362_8	pobj	24362_7
+24362_8	has_surface_form	1826
+24362_9	is_in_sentence	sentence_24362
+24362_9	agent	24362_6
+24362_9	has_surface_form	by
+24362_10	is_in_sentence	sentence_24362
+24362_10	compound	24362_11
+24362_10	has_surface_form	John
+24362_10	part_of_entity	John Walker
+24362_11	is_in_sentence	sentence_24362
+24362_11	pobj	24362_9
+24362_11	has_surface_form	Walker
+24362_11	part_of_entity	John Walker
+24362_12	is_in_sentence	sentence_24362
+24362_12	punct	24362_11
+24362_12	has_surface_form	,
+24362_13	is_in_sentence	sentence_24362
+24362_13	det	24362_15
+24362_13	has_surface_form	an
+24362_15	is_in_sentence	sentence_24362
+24362_15	appos	24362_11
+24362_15	has_surface_form	chemist
+24362_14	is_in_sentence	sentence_24362
+24362_14	amod	24362_15
+24362_14	has_surface_form	English
+24362_16	is_in_sentence	sentence_24362
+24362_16	cc	24362_15
+24362_16	has_surface_form	and
+24362_17	is_in_sentence	sentence_24362
+24362_17	conj	24362_15
+24362_17	has_surface_form	druggist
+24362_18	is_in_sentence	sentence_24362
+24362_18	prep	24362_15
+24362_18	has_surface_form	from
+24362_19	is_in_sentence	sentence_24362
+24362_19	pobj	24362_18
+24362_19	has_surface_form	Stockton
+24362_20	is_in_sentence	sentence_24362
+24362_20	punct	24362_19
+24362_20	has_surface_form	-
+24362_21	is_in_sentence	sentence_24362
+24362_21	prep	24362_19
+24362_21	has_surface_form	on
+24362_22	is_in_sentence	sentence_24362
+24362_22	punct	24362_21
+24362_22	has_surface_form	-
+24362_23	is_in_sentence	sentence_24362
+24362_23	pobj	24362_21
+24362_23	has_surface_form	Tees
+24362_24	is_in_sentence	sentence_24362
+24362_24	punct	24362_19
+24362_24	has_surface_form	,
+24362_25	is_in_sentence	sentence_24362
+24362_25	compound	24362_26
+24362_25	has_surface_form	County
+24362_26	is_in_sentence	sentence_24362
+24362_26	pobj	24362_18
+24362_26	has_surface_form	Durham
+24362_27	is_in_sentence	sentence_24362
+24362_27	punct	24362_6
+24362_27	has_surface_form	.
+24362_28	is_in_sentence	sentence_24362
+24362_28	dep	24362_6
+24362_28	has_surface_form	
+friction match	surface_form	friction match
+friction match	invented-by	John Walker
+John Walker	surface_form	John Walker

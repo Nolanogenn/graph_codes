@@ -1,0 +1,65 @@
+1830_0	is_in_sentence	sentence_1830
+1830_0	compound	1830_1
+1830_0	has_surface_form	Andreas
+1830_0	part_of_entity	Andreas Pohle
+1830_1	is_in_sentence	sentence_1830
+1830_1	nsubj	1830_10
+1830_1	has_surface_form	Pohle
+1830_1	part_of_entity	Andreas Pohle
+1830_10	is_in_sentence	sentence_1830
+1830_10	ROOT	1830_10
+1830_10	has_surface_form	is
+1830_2	is_in_sentence	sentence_1830
+1830_2	punct	1830_1
+1830_2	has_surface_form	(
+1830_3	is_in_sentence	sentence_1830
+1830_3	acl	1830_1
+1830_3	has_surface_form	born
+1830_4	is_in_sentence	sentence_1830
+1830_4	nummod	1830_5
+1830_4	has_surface_form	6
+1830_5	is_in_sentence	sentence_1830
+1830_5	npadvmod	1830_3
+1830_5	has_surface_form	April
+1830_6	is_in_sentence	sentence_1830
+1830_6	nummod	1830_5
+1830_6	has_surface_form	1981
+1830_7	is_in_sentence	sentence_1830
+1830_7	prep	1830_3
+1830_7	has_surface_form	in
+1830_8	is_in_sentence	sentence_1830
+1830_8	pobj	1830_7
+1830_8	is_entity	Erfurt
+Erfurt	surface_form	Erfurt
+1830_9	is_in_sentence	sentence_1830
+1830_9	punct	1830_1
+1830_9	has_surface_form	)
+1830_11	is_in_sentence	sentence_1830
+1830_11	det	1830_14
+1830_11	has_surface_form	a
+1830_14	is_in_sentence	sentence_1830
+1830_14	attr	1830_10
+1830_14	has_surface_form	jumper
+1830_12	is_in_sentence	sentence_1830
+1830_12	amod	1830_14
+1830_12	has_surface_form	German
+1830_13	is_in_sentence	sentence_1830
+1830_13	amod	1830_14
+1830_13	has_surface_form	long
+1830_15	is_in_sentence	sentence_1830
+1830_15	cc	1830_14
+1830_15	has_surface_form	and
+1830_16	is_in_sentence	sentence_1830
+1830_16	amod	1830_17
+1830_16	has_surface_form	triple
+1830_17	is_in_sentence	sentence_1830
+1830_17	conj	1830_14
+1830_17	has_surface_form	jumper
+1830_18	is_in_sentence	sentence_1830
+1830_18	punct	1830_10
+1830_18	has_surface_form	.
+1830_19	is_in_sentence	sentence_1830
+1830_19	dep	1830_10
+1830_19	has_surface_form	
+Andreas Pohle	surface_form	Andreas Pohle
+Andreas Pohle	birth-place	Erfurt

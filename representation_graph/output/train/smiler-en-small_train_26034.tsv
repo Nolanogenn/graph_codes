@@ -1,0 +1,56 @@
+26033_0	is_in_sentence	sentence_26033
+26033_0	compound	26033_1
+26033_0	has_surface_form	David
+26033_0	part_of_entity	David Batteau
+26033_1	is_in_sentence	sentence_26033
+26033_1	nsubj	26033_9
+26033_1	has_surface_form	Batteau
+26033_1	part_of_entity	David Batteau
+26033_9	is_in_sentence	sentence_26033
+26033_9	ROOT	26033_9
+26033_9	has_surface_form	is
+26033_2	is_in_sentence	sentence_26033
+26033_2	punct	26033_3
+26033_2	has_surface_form	(
+26033_3	is_in_sentence	sentence_26033
+26033_3	parataxis	26033_1
+26033_3	has_surface_form	born
+26033_4	is_in_sentence	sentence_26033
+26033_4	npadvmod	26033_3
+26033_4	has_surface_form	June
+26033_5	is_in_sentence	sentence_26033
+26033_5	nummod	26033_4
+26033_5	has_surface_form	25
+26033_6	is_in_sentence	sentence_26033
+26033_6	punct	26033_4
+26033_6	has_surface_form	,
+26033_7	is_in_sentence	sentence_26033
+26033_7	nummod	26033_4
+26033_7	has_surface_form	1949
+26033_8	is_in_sentence	sentence_26033
+26033_8	punct	26033_1
+26033_8	has_surface_form	)
+26033_10	is_in_sentence	sentence_26033
+26033_10	det	26033_14
+26033_10	has_surface_form	an
+26033_14	is_in_sentence	sentence_26033
+26033_14	attr	26033_9
+26033_14	has_surface_form	songwriter
+26033_11	is_in_sentence	sentence_26033
+26033_11	amod	26033_14
+26033_11	has_surface_form	American
+26033_12	is_in_sentence	sentence_26033
+26033_12	compound	26033_14
+26033_12	is_entity	singer
+singer	surface_form	singer
+26033_13	is_in_sentence	sentence_26033
+26033_13	punct	26033_14
+26033_13	has_surface_form	-
+26033_15	is_in_sentence	sentence_26033
+26033_15	punct	26033_9
+26033_15	has_surface_form	.
+26033_16	is_in_sentence	sentence_26033
+26033_16	dep	26033_16
+26033_16	has_surface_form	
+David Batteau	surface_form	David Batteau
+David Batteau	has-occupation	singer

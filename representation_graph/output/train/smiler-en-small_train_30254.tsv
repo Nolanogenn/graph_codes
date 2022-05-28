@@ -1,0 +1,60 @@
+30253_0	is_in_sentence	sentence_30253
+30253_0	compound	30253_1
+30253_0	has_surface_form	Chapman
+30253_0	part_of_entity	Chapman USD 473
+30253_1	is_in_sentence	sentence_30253
+30253_1	nsubj	30253_3
+30253_1	has_surface_form	USD
+30253_1	part_of_entity	Chapman USD 473
+30253_3	is_in_sentence	sentence_30253
+30253_3	ROOT	30253_3
+30253_3	has_surface_form	is
+30253_2	is_in_sentence	sentence_30253
+30253_2	nummod	30253_1
+30253_2	has_surface_form	473
+30253_2	part_of_entity	Chapman USD 473
+30253_4	is_in_sentence	sentence_30253
+30253_4	det	30253_7
+30253_4	has_surface_form	a
+30253_7	is_in_sentence	sentence_30253
+30253_7	attr	30253_3
+30253_7	has_surface_form	district
+30253_5	is_in_sentence	sentence_30253
+30253_5	amod	30253_7
+30253_5	has_surface_form	unified
+30253_6	is_in_sentence	sentence_30253
+30253_6	compound	30253_7
+30253_6	has_surface_form	school
+30253_8	is_in_sentence	sentence_30253
+30253_8	acl	30253_7
+30253_8	has_surface_form	headquartered
+30253_9	is_in_sentence	sentence_30253
+30253_9	prep	30253_8
+30253_9	has_surface_form	in
+30253_10	is_in_sentence	sentence_30253
+30253_10	pobj	30253_9
+30253_10	has_surface_form	Chapman
+30253_11	is_in_sentence	sentence_30253
+30253_11	punct	30253_10
+30253_11	has_surface_form	,
+30253_12	is_in_sentence	sentence_30253
+30253_12	conj	30253_10
+30253_12	has_surface_form	Kansas
+30253_13	is_in_sentence	sentence_30253
+30253_13	punct	30253_12
+30253_13	has_surface_form	,
+30253_14	is_in_sentence	sentence_30253
+30253_14	compound	30253_15
+30253_14	has_surface_form	United
+30253_15	is_in_sentence	sentence_30253
+30253_15	conj	30253_12
+30253_15	has_surface_form	States
+30253_16	is_in_sentence	sentence_30253
+30253_16	punct	30253_3
+30253_16	has_surface_form	.
+30253_17	is_in_sentence	sentence_30253
+30253_17	dep	30253_3
+30253_17	has_surface_form	
+Chapman USD 473	surface_form	Chapman USD 473
+Chapman USD 473	is-where	Chapman, Kansas
+Chapman, Kansas	surface_form	Chapman, Kansas

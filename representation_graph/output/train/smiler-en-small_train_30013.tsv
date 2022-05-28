@@ -1,0 +1,65 @@
+30012_0	is_in_sentence	sentence_30012
+30012_0	compound	30012_1
+30012_0	has_surface_form	Rod
+30012_0	part_of_entity	Rod Humenuik
+30012_1	is_in_sentence	sentence_30012
+30012_1	nsubj	30012_9
+30012_1	has_surface_form	Humenuik
+30012_1	part_of_entity	Rod Humenuik
+30012_9	is_in_sentence	sentence_30012
+30012_9	ROOT	30012_9
+30012_9	has_surface_form	is
+30012_2	is_in_sentence	sentence_30012
+30012_2	punct	30012_1
+30012_2	has_surface_form	(
+30012_3	is_in_sentence	sentence_30012
+30012_3	acl	30012_1
+30012_3	has_surface_form	born
+30012_4	is_in_sentence	sentence_30012
+30012_4	npadvmod	30012_3
+30012_4	has_surface_form	June
+30012_5	is_in_sentence	sentence_30012
+30012_5	nummod	30012_4
+30012_5	has_surface_form	17
+30012_6	is_in_sentence	sentence_30012
+30012_6	punct	30012_4
+30012_6	has_surface_form	,
+30012_7	is_in_sentence	sentence_30012
+30012_7	nummod	30012_4
+30012_7	has_surface_form	1938
+30012_8	is_in_sentence	sentence_30012
+30012_8	punct	30012_1
+30012_8	has_surface_form	)
+30012_10	is_in_sentence	sentence_30012
+30012_10	det	30012_15
+30012_10	has_surface_form	an
+30012_15	is_in_sentence	sentence_30012
+30012_15	attr	30012_9
+30012_15	has_surface_form	player
+30012_11	is_in_sentence	sentence_30012
+30012_11	amod	30012_15
+30012_11	has_surface_form	American
+30012_12	is_in_sentence	sentence_30012
+30012_12	amod	30012_15
+30012_12	has_surface_form	former
+30012_13	is_in_sentence	sentence_30012
+30012_13	compound	30012_14
+30012_13	has_surface_form	gridiron
+30012_14	is_in_sentence	sentence_30012
+30012_14	compound	30012_15
+30012_14	has_surface_form	football
+30012_16	is_in_sentence	sentence_30012
+30012_16	cc	30012_15
+30012_16	has_surface_form	and
+30012_17	is_in_sentence	sentence_30012
+30012_17	conj	30012_15
+30012_17	is_entity	coach
+coach	surface_form	coach
+30012_18	is_in_sentence	sentence_30012
+30012_18	punct	30012_9
+30012_18	has_surface_form	.
+30012_19	is_in_sentence	sentence_30012
+30012_19	dep	30012_19
+30012_19	has_surface_form	
+Rod Humenuik	surface_form	Rod Humenuik
+Rod Humenuik	has-type	coach

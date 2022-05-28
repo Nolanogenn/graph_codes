@@ -1,0 +1,62 @@
+40_0	is_in_sentence	sentence_40
+40_0	compound	40_1
+40_0	has_surface_form	Progress
+40_0	part_of_entity	Progress Report
+40_1	is_in_sentence	sentence_40
+40_1	nsubj	40_2
+40_1	has_surface_form	Report
+40_1	part_of_entity	Progress Report
+40_2	is_in_sentence	sentence_40
+40_2	ROOT	40_2
+40_2	has_surface_form	is
+40_3	is_in_sentence	sentence_40
+40_3	det	40_7
+40_3	has_surface_form	a
+40_7	is_in_sentence	sentence_40
+40_7	attr	40_2
+40_7	has_surface_form	film
+40_4	is_in_sentence	sentence_40
+40_4	nummod	40_7
+40_4	has_surface_form	2013
+40_5	is_in_sentence	sentence_40
+40_5	amod	40_7
+40_5	has_surface_form	Indian
+40_6	is_in_sentence	sentence_40
+40_6	compound	40_7
+40_6	has_surface_form	Malayalam
+40_8	is_in_sentence	sentence_40
+40_8	punct	40_7
+40_8	has_surface_form	,
+40_9	is_in_sentence	sentence_40
+40_9	acl	40_7
+40_9	has_surface_form	directed
+40_10	is_in_sentence	sentence_40
+40_10	agent	40_9
+40_10	has_surface_form	by
+40_11	is_in_sentence	sentence_40
+40_11	pobj	40_10
+40_11	is_entity	Sajan
+Sajan	surface_form	Sajan
+40_12	is_in_sentence	sentence_40
+40_12	cc	40_9
+40_12	has_surface_form	and
+40_13	is_in_sentence	sentence_40
+40_13	conj	40_9
+40_13	has_surface_form	produced
+40_14	is_in_sentence	sentence_40
+40_14	agent	40_13
+40_14	has_surface_form	by
+40_15	is_in_sentence	sentence_40
+40_15	compound	40_16
+40_15	has_surface_form	Selvan
+40_16	is_in_sentence	sentence_40
+40_16	pobj	40_14
+40_16	has_surface_form	Thamalam
+40_17	is_in_sentence	sentence_40
+40_17	punct	40_2
+40_17	has_surface_form	.
+40_18	is_in_sentence	sentence_40
+40_18	dep	40_2
+40_18	has_surface_form	
+Progress Report	surface_form	Progress Report
+Progress Report	movie-has-director	Sajan

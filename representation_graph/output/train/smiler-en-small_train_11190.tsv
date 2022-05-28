@@ -1,0 +1,102 @@
+11189_0	is_in_sentence	sentence_11189
+11189_0	det	11189_2
+11189_0	has_surface_form	The
+11189_0	part_of_entity	The Crazy Kids of the War
+11189_2	is_in_sentence	sentence_11189
+11189_2	nsubj	11189_18
+11189_2	has_surface_form	Kids
+11189_2	part_of_entity	The Crazy Kids of the War
+11189_1	is_in_sentence	sentence_11189
+11189_1	compound	11189_2
+11189_1	has_surface_form	Crazy
+11189_1	part_of_entity	The Crazy Kids of the War
+11189_18	is_in_sentence	sentence_11189
+11189_18	ROOT	11189_18
+11189_18	has_surface_form	is
+11189_3	is_in_sentence	sentence_11189
+11189_3	prep	11189_2
+11189_3	has_surface_form	of
+11189_3	part_of_entity	The Crazy Kids of the War
+11189_4	is_in_sentence	sentence_11189
+11189_4	det	11189_5
+11189_4	has_surface_form	the
+11189_4	part_of_entity	The Crazy Kids of the War
+11189_5	is_in_sentence	sentence_11189
+11189_5	pobj	11189_3
+11189_5	has_surface_form	War
+11189_5	part_of_entity	The Crazy Kids of the War
+11189_6	is_in_sentence	sentence_11189
+11189_6	punct	11189_7
+11189_6	has_surface_form	(
+11189_7	is_in_sentence	sentence_11189
+11189_7	appos	11189_2
+11189_7	has_surface_form	Italian
+11189_8	is_in_sentence	sentence_11189
+11189_8	punct	11189_7
+11189_8	has_surface_form	:
+11189_9	is_in_sentence	sentence_11189
+11189_9	compound	11189_10
+11189_9	has_surface_form	La
+11189_10	is_in_sentence	sentence_11189
+11189_10	appos	11189_7
+11189_10	has_surface_form	Feldmarescialla
+11189_11	is_in_sentence	sentence_11189
+11189_11	punct	11189_10
+11189_11	has_surface_form	,
+11189_12	is_in_sentence	sentence_11189
+11189_12	appos	11189_10
+11189_12	has_surface_form	French
+11189_13	is_in_sentence	sentence_11189
+11189_13	punct	11189_2
+11189_13	has_surface_form	:
+11189_14	is_in_sentence	sentence_11189
+11189_14	compound	11189_15
+11189_14	has_surface_form	La
+11189_15	is_in_sentence	sentence_11189
+11189_15	compound	11189_16
+11189_15	has_surface_form	grosse
+11189_16	is_in_sentence	sentence_11189
+11189_16	appos	11189_2
+11189_16	has_surface_form	pagaille
+11189_17	is_in_sentence	sentence_11189
+11189_17	punct	11189_16
+11189_17	has_surface_form	)
+11189_19	is_in_sentence	sentence_11189
+11189_19	det	11189_25
+11189_19	has_surface_form	a
+11189_25	is_in_sentence	sentence_11189
+11189_25	attr	11189_18
+11189_25	has_surface_form	film
+11189_20	is_in_sentence	sentence_11189
+11189_20	nummod	11189_25
+11189_20	has_surface_form	1967
+11189_21	is_in_sentence	sentence_11189
+11189_21	amod	11189_23
+11189_21	has_surface_form	Italian
+11189_23	is_in_sentence	sentence_11189
+11189_23	amod	11189_25
+11189_23	has_surface_form	French
+11189_22	is_in_sentence	sentence_11189
+11189_22	punct	11189_23
+11189_22	has_surface_form	-
+11189_24	is_in_sentence	sentence_11189
+11189_24	amod	11189_25
+11189_24	has_surface_form	musicarello
+11189_26	is_in_sentence	sentence_11189
+11189_26	acl	11189_25
+11189_26	has_surface_form	directed
+11189_27	is_in_sentence	sentence_11189
+11189_27	agent	11189_26
+11189_27	has_surface_form	by
+11189_28	is_in_sentence	sentence_11189
+11189_28	pobj	11189_27
+11189_28	is_entity	Steno
+Steno	surface_form	Steno
+11189_29	is_in_sentence	sentence_11189
+11189_29	punct	11189_18
+11189_29	has_surface_form	.
+11189_30	is_in_sentence	sentence_11189
+11189_30	dep	11189_30
+11189_30	has_surface_form	
+The Crazy Kids of the War	surface_form	The Crazy Kids of the War
+The Crazy Kids of the War	movie-has-director	Steno

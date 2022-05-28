@@ -1,0 +1,59 @@
+19836_0	is_in_sentence	sentence_19836
+19836_0	det	19836_2
+19836_0	has_surface_form	The
+19836_2	is_in_sentence	sentence_19836
+19836_2	nsubj	19836_4
+19836_2	has_surface_form	cottontail
+19836_2	part_of_entity	desert cottontail
+19836_1	is_in_sentence	sentence_19836
+19836_1	compound	19836_2
+19836_1	has_surface_form	desert
+19836_1	part_of_entity	desert cottontail
+19836_4	is_in_sentence	sentence_19836
+19836_4	ROOT	19836_4
+19836_4	has_surface_form	eats
+19836_3	is_in_sentence	sentence_19836
+19836_3	advmod	19836_4
+19836_3	has_surface_form	mainly
+19836_5	is_in_sentence	sentence_19836
+19836_5	dobj	19836_4
+19836_5	is_entity	forbs
+forbs	surface_form	forbs
+19836_6	is_in_sentence	sentence_19836
+19836_6	cc	19836_5
+19836_6	has_surface_form	and
+19836_7	is_in_sentence	sentence_19836
+19836_7	conj	19836_5
+19836_7	has_surface_form	grass
+19836_8	is_in_sentence	sentence_19836
+19836_8	punct	19836_5
+19836_8	has_surface_form	,
+19836_9	is_in_sentence	sentence_19836
+19836_9	nsubj	19836_10
+19836_9	has_surface_form	which
+19836_10	is_in_sentence	sentence_19836
+19836_10	relcl	19836_5
+19836_10	has_surface_form	constitutes
+19836_11	is_in_sentence	sentence_19836
+19836_11	nummod	19836_12
+19836_11	has_surface_form	80
+19836_12	is_in_sentence	sentence_19836
+19836_12	dobj	19836_10
+19836_12	has_surface_form	%
+19836_13	is_in_sentence	sentence_19836
+19836_13	prep	19836_12
+19836_13	has_surface_form	of
+19836_14	is_in_sentence	sentence_19836
+19836_14	poss	19836_15
+19836_14	has_surface_form	its
+19836_15	is_in_sentence	sentence_19836
+19836_15	pobj	19836_13
+19836_15	has_surface_form	diet
+19836_16	is_in_sentence	sentence_19836
+19836_16	punct	19836_4
+19836_16	has_surface_form	.
+19836_17	is_in_sentence	sentence_19836
+19836_17	dep	19836_17
+19836_17	has_surface_form	
+desert cottontail	surface_form	desert cottontail
+desert cottontail	eats	forbs

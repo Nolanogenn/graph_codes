@@ -1,0 +1,87 @@
+15129_0	is_in_sentence	sentence_15129
+15129_0	compound	15129_1
+15129_0	has_surface_form	Australian
+15129_0	part_of_entity	Australian Autobus
+15129_1	is_in_sentence	sentence_15129
+15129_1	nsubj	15129_2
+15129_1	has_surface_form	Autobus
+15129_1	part_of_entity	Australian Autobus
+15129_2	is_in_sentence	sentence_15129
+15129_2	ROOT	15129_2
+15129_2	has_surface_form	was
+15129_3	is_in_sentence	sentence_15129
+15129_3	det	15129_6
+15129_3	has_surface_form	an
+15129_6	is_in_sentence	sentence_15129
+15129_6	attr	15129_2
+15129_6	has_surface_form	manufacturer
+15129_4	is_in_sentence	sentence_15129
+15129_4	amod	15129_6
+15129_4	has_surface_form	Australian
+15129_5	is_in_sentence	sentence_15129
+15129_5	compound	15129_6
+15129_5	has_surface_form	bus
+15129_7	is_in_sentence	sentence_15129
+15129_7	acl	15129_6
+15129_7	has_surface_form	based
+15129_8	is_in_sentence	sentence_15129
+15129_8	prep	15129_7
+15129_8	has_surface_form	in
+15129_9	is_in_sentence	sentence_15129
+15129_9	compound	15129_10
+15129_9	has_surface_form	Slacks
+15129_10	is_in_sentence	sentence_15129
+15129_10	pobj	15129_8
+15129_10	has_surface_form	Creek
+15129_11	is_in_sentence	sentence_15129
+15129_11	punct	15129_10
+15129_11	has_surface_form	,
+15129_12	is_in_sentence	sentence_15129
+15129_12	appos	15129_10
+15129_12	has_surface_form	Brisbane
+15129_13	is_in_sentence	sentence_15129
+15129_13	punct	15129_2
+15129_13	has_surface_form	.
+15129_14	is_in_sentence	sentence_15129
+15129_14	compound	15129_15
+15129_14	has_surface_form	Australian
+15129_14	part_of_entity	Australian Autobus
+15129_15	is_in_sentence	sentence_15129
+15129_15	nsubjpass	15129_17
+15129_15	has_surface_form	Autobus
+15129_15	part_of_entity	Australian Autobus
+15129_17	is_in_sentence	sentence_15129
+15129_17	ROOT	15129_17
+15129_17	has_surface_form	founded
+15129_16	is_in_sentence	sentence_15129
+15129_16	auxpass	15129_17
+15129_16	has_surface_form	was
+15129_18	is_in_sentence	sentence_15129
+15129_18	agent	15129_17
+15129_18	has_surface_form	by
+15129_19	is_in_sentence	sentence_15129
+15129_19	compound	15129_20
+15129_19	has_surface_form	Kevin
+15129_20	is_in_sentence	sentence_15129
+15129_20	pobj	15129_18
+15129_20	has_surface_form	Johnson
+15129_21	is_in_sentence	sentence_15129
+15129_21	cc	15129_20
+15129_21	has_surface_form	and
+15129_22	is_in_sentence	sentence_15129
+15129_22	compound	15129_23
+15129_22	has_surface_form	Athol
+15129_22	part_of_entity	Athol McKinnon
+15129_23	is_in_sentence	sentence_15129
+15129_23	conj	15129_20
+15129_23	has_surface_form	McKinnon
+15129_23	part_of_entity	Athol McKinnon
+15129_24	is_in_sentence	sentence_15129
+15129_24	punct	15129_17
+15129_24	has_surface_form	.
+15129_25	is_in_sentence	sentence_15129
+15129_25	dep	15129_17
+15129_25	has_surface_form	
+Australian Autobus	surface_form	Australian Autobus
+Australian Autobus	org-has-founder	Athol McKinnon
+Athol McKinnon	surface_form	Athol McKinnon

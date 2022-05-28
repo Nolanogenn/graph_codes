@@ -1,0 +1,62 @@
+1737_0	is_in_sentence	sentence_1737
+1737_0	compound	1737_1
+1737_0	has_surface_form	Malini
+1737_0	part_of_entity	Malini Rajurkar
+1737_1	is_in_sentence	sentence_1737
+1737_1	nsubj	1737_8
+1737_1	has_surface_form	Rajurkar
+1737_1	part_of_entity	Malini Rajurkar
+1737_8	is_in_sentence	sentence_1737
+1737_8	ROOT	1737_8
+1737_8	has_surface_form	is
+1737_2	is_in_sentence	sentence_1737
+1737_2	punct	1737_1
+1737_2	has_surface_form	(
+1737_3	is_in_sentence	sentence_1737
+1737_3	acl	1737_1
+1737_3	has_surface_form	born
+1737_4	is_in_sentence	sentence_1737
+1737_4	nummod	1737_5
+1737_4	has_surface_form	28
+1737_5	is_in_sentence	sentence_1737
+1737_5	npadvmod	1737_3
+1737_5	has_surface_form	January
+1737_6	is_in_sentence	sentence_1737
+1737_6	nummod	1737_5
+1737_6	has_surface_form	1941
+1737_7	is_in_sentence	sentence_1737
+1737_7	punct	1737_1
+1737_7	has_surface_form	)
+1737_9	is_in_sentence	sentence_1737
+1737_9	det	1737_13
+1737_9	has_surface_form	a
+1737_13	is_in_sentence	sentence_1737
+1737_13	attr	1737_8
+1737_13	is_entity	singer
+1737_10	is_in_sentence	sentence_1737
+1737_10	amod	1737_13
+1737_10	has_surface_form	noted
+1737_11	is_in_sentence	sentence_1737
+1737_11	nmod	1737_13
+1737_11	has_surface_form	Hindustani
+1737_12	is_in_sentence	sentence_1737
+1737_12	amod	1737_13
+1737_12	has_surface_form	classical
+singer	surface_form	singer
+1737_14	is_in_sentence	sentence_1737
+1737_14	prep	1737_13
+1737_14	has_surface_form	of
+1737_15	is_in_sentence	sentence_1737
+1737_15	compound	1737_16
+1737_15	has_surface_form	Gwalior
+1737_16	is_in_sentence	sentence_1737
+1737_16	pobj	1737_14
+1737_16	has_surface_form	Gharana
+1737_17	is_in_sentence	sentence_1737
+1737_17	punct	1737_8
+1737_17	has_surface_form	.
+1737_18	is_in_sentence	sentence_1737
+1737_18	dep	1737_8
+1737_18	has_surface_form	
+Malini Rajurkar	surface_form	Malini Rajurkar
+Malini Rajurkar	has-occupation	singer

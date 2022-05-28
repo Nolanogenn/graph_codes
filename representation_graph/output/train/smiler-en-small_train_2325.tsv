@@ -1,0 +1,104 @@
+2324_0	is_in_sentence	sentence_2324
+2324_0	compound	2324_1
+2324_0	has_surface_form	Cindy
+2324_0	part_of_entity	Cindy Griffin
+2324_1	is_in_sentence	sentence_2324
+2324_1	nsubj	2324_9
+2324_1	has_surface_form	Griffin
+2324_1	part_of_entity	Cindy Griffin
+2324_9	is_in_sentence	sentence_2324
+2324_9	ROOT	2324_9
+2324_9	has_surface_form	is
+2324_2	is_in_sentence	sentence_2324
+2324_2	punct	2324_1
+2324_2	has_surface_form	(
+2324_3	is_in_sentence	sentence_2324
+2324_3	acl	2324_1
+2324_3	has_surface_form	born
+2324_4	is_in_sentence	sentence_2324
+2324_4	npadvmod	2324_3
+2324_4	has_surface_form	July
+2324_5	is_in_sentence	sentence_2324
+2324_5	nummod	2324_4
+2324_5	has_surface_form	11
+2324_6	is_in_sentence	sentence_2324
+2324_6	punct	2324_4
+2324_6	has_surface_form	,
+2324_7	is_in_sentence	sentence_2324
+2324_7	nummod	2324_4
+2324_7	has_surface_form	1969
+2324_8	is_in_sentence	sentence_2324
+2324_8	punct	2324_1
+2324_8	has_surface_form	)
+2324_10	is_in_sentence	sentence_2324
+2324_10	det	2324_14
+2324_10	has_surface_form	an
+2324_14	is_in_sentence	sentence_2324
+2324_14	attr	2324_9
+2324_14	has_surface_form	coach
+2324_14	part_of_entity	college basketball coach
+2324_11	is_in_sentence	sentence_2324
+2324_11	amod	2324_14
+2324_11	has_surface_form	American
+2324_12	is_in_sentence	sentence_2324
+2324_12	compound	2324_13
+2324_12	has_surface_form	college
+2324_12	part_of_entity	college basketball coach
+2324_13	is_in_sentence	sentence_2324
+2324_13	compound	2324_14
+2324_13	has_surface_form	basketball
+2324_13	part_of_entity	college basketball coach
+2324_15	is_in_sentence	sentence_2324
+2324_15	punct	2324_14
+2324_15	has_surface_form	,
+2324_16	is_in_sentence	sentence_2324
+2324_16	advmod	2324_20
+2324_16	has_surface_form	currently
+2324_20	is_in_sentence	sentence_2324
+2324_20	appos	2324_14
+2324_20	has_surface_form	coach
+2324_17	is_in_sentence	sentence_2324
+2324_17	poss	2324_20
+2324_17	has_surface_form	women
+2324_18	is_in_sentence	sentence_2324
+2324_18	case	2324_17
+2324_18	has_surface_form	's
+2324_19	is_in_sentence	sentence_2324
+2324_19	compound	2324_20
+2324_19	has_surface_form	head
+2324_21	is_in_sentence	sentence_2324
+2324_21	prep	2324_20
+2324_21	has_surface_form	at
+2324_22	is_in_sentence	sentence_2324
+2324_22	poss	2324_24
+2324_22	has_surface_form	her
+2324_24	is_in_sentence	sentence_2324
+2324_24	pobj	2324_21
+2324_24	has_surface_form	mater
+2324_23	is_in_sentence	sentence_2324
+2324_23	compound	2324_24
+2324_23	has_surface_form	alma
+2324_25	is_in_sentence	sentence_2324
+2324_25	punct	2324_24
+2324_25	has_surface_form	,
+2324_26	is_in_sentence	sentence_2324
+2324_26	compound	2324_27
+2324_26	has_surface_form	Saint
+2324_27	is_in_sentence	sentence_2324
+2324_27	poss	2324_29
+2324_27	has_surface_form	Joseph
+2324_29	is_in_sentence	sentence_2324
+2324_29	appos	2324_24
+2324_29	has_surface_form	University
+2324_28	is_in_sentence	sentence_2324
+2324_28	case	2324_27
+2324_28	has_surface_form	's
+2324_30	is_in_sentence	sentence_2324
+2324_30	punct	2324_9
+2324_30	has_surface_form	.
+2324_31	is_in_sentence	sentence_2324
+2324_31	dep	2324_9
+2324_31	has_surface_form	
+Cindy Griffin	surface_form	Cindy Griffin
+Cindy Griffin	has-type	college basketball coach
+college basketball coach	surface_form	college basketball coach

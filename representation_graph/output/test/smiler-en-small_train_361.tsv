@@ -1,0 +1,73 @@
+360_0	is_in_sentence	sentence_360
+360_0	compound	360_1
+360_0	has_surface_form	Ducks
+360_0	part_of_entity	Ducks Deluxe
+360_1	is_in_sentence	sentence_360
+360_1	nsubj	360_2
+360_1	has_surface_form	Deluxe
+360_1	part_of_entity	Ducks Deluxe
+360_2	is_in_sentence	sentence_360
+360_2	ROOT	360_2
+360_2	has_surface_form	are
+360_3	is_in_sentence	sentence_360
+360_3	det	360_7
+360_3	has_surface_form	an
+360_7	is_in_sentence	sentence_360
+360_7	attr	360_2
+360_7	has_surface_form	band
+360_4	is_in_sentence	sentence_360
+360_4	amod	360_7
+360_4	has_surface_form	English
+360_5	is_in_sentence	sentence_360
+360_5	compound	360_7
+360_5	has_surface_form	pub
+360_5	part_of_entity	pub rock
+360_6	is_in_sentence	sentence_360
+360_6	compound	360_7
+360_6	has_surface_form	rock
+360_6	part_of_entity	pub rock
+360_8	is_in_sentence	sentence_360
+360_8	prep	360_7
+360_8	has_surface_form	of
+360_9	is_in_sentence	sentence_360
+360_9	det	360_10
+360_9	has_surface_form	the
+360_10	is_in_sentence	sentence_360
+360_10	pobj	360_8
+360_10	has_surface_form	1970s
+360_11	is_in_sentence	sentence_360
+360_11	punct	360_7
+360_11	has_surface_form	,
+360_12	is_in_sentence	sentence_360
+360_12	nsubj	360_13
+360_12	has_surface_form	who
+360_13	is_in_sentence	sentence_360
+360_13	relcl	360_7
+360_13	has_surface_form	continue
+360_14	is_in_sentence	sentence_360
+360_14	aux	360_15
+360_14	has_surface_form	to
+360_15	is_in_sentence	sentence_360
+360_15	xcomp	360_13
+360_15	has_surface_form	tour
+360_16	is_in_sentence	sentence_360
+360_16	cc	360_15
+360_16	has_surface_form	and
+360_17	is_in_sentence	sentence_360
+360_17	conj	360_15
+360_17	has_surface_form	record
+360_18	is_in_sentence	sentence_360
+360_18	amod	360_19
+360_18	has_surface_form	new
+360_19	is_in_sentence	sentence_360
+360_19	dobj	360_17
+360_19	has_surface_form	material
+360_20	is_in_sentence	sentence_360
+360_20	punct	360_2
+360_20	has_surface_form	.
+360_21	is_in_sentence	sentence_360
+360_21	dep	360_21
+360_21	has_surface_form	
+Ducks Deluxe	surface_form	Ducks Deluxe
+Ducks Deluxe	has-genre	pub rock
+pub rock	surface_form	pub rock

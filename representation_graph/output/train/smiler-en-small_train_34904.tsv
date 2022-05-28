@@ -1,0 +1,62 @@
+34903_0	is_in_sentence	sentence_34903
+34903_0	compound	34903_1
+34903_0	has_surface_form	Marc
+34903_0	part_of_entity	Marc Laviolette
+34903_1	is_in_sentence	sentence_34903
+34903_1	nsubj	34903_9
+34903_1	has_surface_form	Laviolette
+34903_1	part_of_entity	Marc Laviolette
+34903_9	is_in_sentence	sentence_34903
+34903_9	ROOT	34903_9
+34903_9	has_surface_form	was
+34903_2	is_in_sentence	sentence_34903
+34903_2	punct	34903_1
+34903_2	has_surface_form	(
+34903_3	is_in_sentence	sentence_34903
+34903_3	acl	34903_1
+34903_3	has_surface_form	born
+34903_4	is_in_sentence	sentence_34903
+34903_4	prep	34903_3
+34903_4	has_surface_form	in
+34903_5	is_in_sentence	sentence_34903
+34903_5	pobj	34903_4
+34903_5	is_entity	Ottawa
+Ottawa	surface_form	Ottawa
+34903_6	is_in_sentence	sentence_34903
+34903_6	punct	34903_5
+34903_6	has_surface_form	,
+34903_7	is_in_sentence	sentence_34903
+34903_7	appos	34903_5
+34903_7	has_surface_form	Ontario
+34903_8	is_in_sentence	sentence_34903
+34903_8	punct	34903_1
+34903_8	has_surface_form	)
+34903_10	is_in_sentence	sentence_34903
+34903_10	attr	34903_9
+34903_10	has_surface_form	Mayor
+34903_11	is_in_sentence	sentence_34903
+34903_11	prep	34903_10
+34903_11	has_surface_form	of
+34903_12	is_in_sentence	sentence_34903
+34903_12	pobj	34903_11
+34903_12	is_entity	Ottawa
+34903_13	is_in_sentence	sentence_34903
+34903_13	prep	34903_9
+34903_13	has_surface_form	for
+34903_14	is_in_sentence	sentence_34903
+34903_14	pobj	34903_13
+34903_14	has_surface_form	much
+34903_15	is_in_sentence	sentence_34903
+34903_15	prep	34903_14
+34903_15	has_surface_form	of
+34903_16	is_in_sentence	sentence_34903
+34903_16	pobj	34903_15
+34903_16	has_surface_form	1991
+34903_17	is_in_sentence	sentence_34903
+34903_17	punct	34903_9
+34903_17	has_surface_form	.
+34903_18	is_in_sentence	sentence_34903
+34903_18	dep	34903_18
+34903_18	has_surface_form	
+Marc Laviolette	surface_form	Marc Laviolette
+Marc Laviolette	birth-place	Ottawa

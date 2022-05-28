@@ -1,0 +1,86 @@
+9921_0	is_in_sentence	sentence_9921
+9921_0	det	9921_2
+9921_0	has_surface_form	The
+9921_0	part_of_entity	The Last Lieutenant
+9921_2	is_in_sentence	sentence_9921
+9921_2	nsubj	9921_8
+9921_2	has_surface_form	Lieutenant
+9921_2	part_of_entity	The Last Lieutenant
+9921_1	is_in_sentence	sentence_9921
+9921_1	compound	9921_2
+9921_1	has_surface_form	Last
+9921_1	part_of_entity	The Last Lieutenant
+9921_8	is_in_sentence	sentence_9921
+9921_8	ROOT	9921_8
+9921_8	has_surface_form	is
+9921_3	is_in_sentence	sentence_9921
+9921_3	punct	9921_6
+9921_3	has_surface_form	(
+9921_6	is_in_sentence	sentence_9921
+9921_6	appos	9921_2
+9921_6	has_surface_form	Secondløitnanten
+9921_4	is_in_sentence	sentence_9921
+9921_4	nmod	9921_6
+9921_4	has_surface_form	Norwegian
+9921_5	is_in_sentence	sentence_9921
+9921_5	punct	9921_6
+9921_5	has_surface_form	:
+9921_7	is_in_sentence	sentence_9921
+9921_7	punct	9921_6
+9921_7	has_surface_form	)
+9921_9	is_in_sentence	sentence_9921
+9921_9	det	9921_11
+9921_9	has_surface_form	a
+9921_11	is_in_sentence	sentence_9921
+9921_11	attr	9921_8
+9921_11	has_surface_form	movie
+9921_10	is_in_sentence	sentence_9921
+9921_10	amod	9921_11
+9921_10	has_surface_form	Norwegian
+9921_12	is_in_sentence	sentence_9921
+9921_12	prep	9921_11
+9921_12	has_surface_form	from
+9921_13	is_in_sentence	sentence_9921
+9921_13	pobj	9921_12
+9921_13	has_surface_form	1993
+9921_14	is_in_sentence	sentence_9921
+9921_14	punct	9921_11
+9921_14	has_surface_form	,
+9921_15	is_in_sentence	sentence_9921
+9921_15	acl	9921_11
+9921_15	has_surface_form	directed
+9921_16	is_in_sentence	sentence_9921
+9921_16	agent	9921_15
+9921_16	has_surface_form	by
+9921_17	is_in_sentence	sentence_9921
+9921_17	compound	9921_19
+9921_17	has_surface_form	Hans
+9921_19	is_in_sentence	sentence_9921
+9921_19	pobj	9921_16
+9921_19	has_surface_form	Moland
+9921_18	is_in_sentence	sentence_9921
+9921_18	compound	9921_19
+9921_18	has_surface_form	Petter
+9921_20	is_in_sentence	sentence_9921
+9921_20	cc	9921_15
+9921_20	has_surface_form	and
+9921_21	is_in_sentence	sentence_9921
+9921_21	conj	9921_15
+9921_21	has_surface_form	starring
+9921_22	is_in_sentence	sentence_9921
+9921_22	compound	9921_23
+9921_22	has_surface_form	Espen
+9921_22	part_of_entity	Espen Skjønberg
+9921_23	is_in_sentence	sentence_9921
+9921_23	dobj	9921_21
+9921_23	has_surface_form	Skjønberg
+9921_23	part_of_entity	Espen Skjønberg
+9921_24	is_in_sentence	sentence_9921
+9921_24	punct	9921_8
+9921_24	has_surface_form	.
+9921_25	is_in_sentence	sentence_9921
+9921_25	dep	9921_8
+9921_25	has_surface_form	
+The Last Lieutenant	surface_form	The Last Lieutenant
+The Last Lieutenant	starring	Espen Skjønberg
+Espen Skjønberg	surface_form	Espen Skjønberg

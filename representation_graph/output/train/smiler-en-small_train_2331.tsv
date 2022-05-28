@@ -1,0 +1,56 @@
+2330_0	is_in_sentence	sentence_2330
+2330_0	compound	2330_1
+2330_0	has_surface_form	Pradeshika
+2330_0	part_of_entity	Pradeshika Varthakal
+2330_1	is_in_sentence	sentence_2330
+2330_1	nsubj	2330_2
+2330_1	has_surface_form	Varthakal
+2330_1	part_of_entity	Pradeshika Varthakal
+2330_2	is_in_sentence	sentence_2330
+2330_2	ROOT	2330_2
+2330_2	has_surface_form	is
+2330_3	is_in_sentence	sentence_2330
+2330_3	det	2330_7
+2330_3	has_surface_form	a
+2330_7	is_in_sentence	sentence_2330
+2330_7	attr	2330_2
+2330_7	has_surface_form	film
+2330_4	is_in_sentence	sentence_2330
+2330_4	nummod	2330_7
+2330_4	has_surface_form	1989
+2330_5	is_in_sentence	sentence_2330
+2330_5	compound	2330_6
+2330_5	has_surface_form	Indian
+2330_6	is_in_sentence	sentence_2330
+2330_6	compound	2330_7
+2330_6	has_surface_form	Malayalam
+2330_8	is_in_sentence	sentence_2330
+2330_8	punct	2330_7
+2330_8	has_surface_form	,
+2330_9	is_in_sentence	sentence_2330
+2330_9	acl	2330_7
+2330_9	has_surface_form	directed
+2330_10	is_in_sentence	sentence_2330
+2330_10	agent	2330_9
+2330_10	has_surface_form	by
+2330_11	is_in_sentence	sentence_2330
+2330_11	pobj	2330_10
+2330_11	is_entity	Kamal
+Kamal	surface_form	Kamal
+2330_12	is_in_sentence	sentence_2330
+2330_12	cc	2330_9
+2330_12	has_surface_form	and
+2330_13	is_in_sentence	sentence_2330
+2330_13	conj	2330_9
+2330_13	has_surface_form	produced
+2330_14	is_in_sentence	sentence_2330
+2330_14	agent	2330_13
+2330_14	has_surface_form	by
+2330_15	is_in_sentence	sentence_2330
+2330_15	pobj	2330_14
+2330_15	has_surface_form	S.
+2330_16	is_in_sentence	sentence_2330
+2330_16	dep	2330_2
+2330_16	has_surface_form	
+Pradeshika Varthakal	surface_form	Pradeshika Varthakal
+Pradeshika Varthakal	movie-has-director	Kamal

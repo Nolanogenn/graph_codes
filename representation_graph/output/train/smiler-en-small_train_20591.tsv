@@ -1,0 +1,94 @@
+20590_0	is_in_sentence	sentence_20590
+20590_0	det	20590_2
+20590_0	has_surface_form	The
+20590_0	part_of_entity	The Illinois Department of Insurance
+20590_2	is_in_sentence	sentence_20590
+20590_2	nsubj	20590_5
+20590_2	has_surface_form	Department
+20590_2	part_of_entity	The Illinois Department of Insurance
+20590_1	is_in_sentence	sentence_20590
+20590_1	compound	20590_2
+20590_1	has_surface_form	Illinois
+20590_1	part_of_entity	The Illinois Department of Insurance
+20590_5	is_in_sentence	sentence_20590
+20590_5	ROOT	20590_5
+20590_5	has_surface_form	is
+20590_3	is_in_sentence	sentence_20590
+20590_3	prep	20590_2
+20590_3	has_surface_form	of
+20590_3	part_of_entity	The Illinois Department of Insurance
+20590_4	is_in_sentence	sentence_20590
+20590_4	pobj	20590_3
+20590_4	has_surface_form	Insurance
+20590_4	part_of_entity	The Illinois Department of Insurance
+20590_6	is_in_sentence	sentence_20590
+20590_6	det	20590_8
+20590_6	has_surface_form	the
+20590_8	is_in_sentence	sentence_20590
+20590_8	attr	20590_5
+20590_8	has_surface_form	department
+20590_8	part_of_entity	code department
+20590_7	is_in_sentence	sentence_20590
+20590_7	compound	20590_8
+20590_7	has_surface_form	code
+20590_7	part_of_entity	code department
+20590_9	is_in_sentence	sentence_20590
+20590_9	prep	20590_8
+20590_9	has_surface_form	of
+20590_10	is_in_sentence	sentence_20590
+20590_10	det	20590_13
+20590_10	has_surface_form	the
+20590_13	is_in_sentence	sentence_20590
+20590_13	pobj	20590_9
+20590_13	has_surface_form	government
+20590_11	is_in_sentence	sentence_20590
+20590_11	compound	20590_13
+20590_11	has_surface_form	Illinois
+20590_12	is_in_sentence	sentence_20590
+20590_12	compound	20590_13
+20590_12	has_surface_form	state
+20590_14	is_in_sentence	sentence_20590
+20590_14	nsubj	20590_15
+20590_14	has_surface_form	that
+20590_15	is_in_sentence	sentence_20590
+20590_15	relcl	20590_8
+20590_15	has_surface_form	regulates
+20590_16	is_in_sentence	sentence_20590
+20590_16	amod	20590_17
+20590_16	has_surface_form	various
+20590_17	is_in_sentence	sentence_20590
+20590_17	dobj	20590_15
+20590_17	has_surface_form	facets
+20590_18	is_in_sentence	sentence_20590
+20590_18	prep	20590_17
+20590_18	has_surface_form	of
+20590_19	is_in_sentence	sentence_20590
+20590_19	det	20590_21
+20590_19	has_surface_form	the
+20590_21	is_in_sentence	sentence_20590
+20590_21	pobj	20590_18
+20590_21	has_surface_form	industries
+20590_20	is_in_sentence	sentence_20590
+20590_20	compound	20590_21
+20590_20	has_surface_form	insurance
+20590_22	is_in_sentence	sentence_20590
+20590_22	cc	20590_21
+20590_22	has_surface_form	and
+20590_23	is_in_sentence	sentence_20590
+20590_23	conj	20590_21
+20590_23	has_surface_form	professions
+20590_24	is_in_sentence	sentence_20590
+20590_24	prep	20590_21
+20590_24	has_surface_form	of
+20590_25	is_in_sentence	sentence_20590
+20590_25	pobj	20590_24
+20590_25	has_surface_form	Illinois
+20590_26	is_in_sentence	sentence_20590
+20590_26	punct	20590_5
+20590_26	has_surface_form	.
+20590_27	is_in_sentence	sentence_20590
+20590_27	dep	20590_27
+20590_27	has_surface_form	
+The Illinois Department of Insurance	surface_form	The Illinois Department of Insurance
+The Illinois Department of Insurance	has-type	code department
+code department	surface_form	code department

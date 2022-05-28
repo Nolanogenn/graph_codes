@@ -1,0 +1,61 @@
+20929_0	is_in_sentence	sentence_20929
+20929_0	compound	20929_1
+20929_0	has_surface_form	Throw
+20929_0	part_of_entity	Throw Rag
+20929_1	is_in_sentence	sentence_20929
+20929_1	nsubj	20929_2
+20929_1	has_surface_form	Rag
+20929_1	part_of_entity	Throw Rag
+20929_2	is_in_sentence	sentence_20929
+20929_2	ROOT	20929_2
+20929_2	has_surface_form	is
+20929_3	is_in_sentence	sentence_20929
+20929_3	det	20929_9
+20929_3	has_surface_form	a
+20929_9	is_in_sentence	sentence_20929
+20929_9	attr	20929_2
+20929_9	has_surface_form	band
+20929_4	is_in_sentence	sentence_20929
+20929_4	nummod	20929_6
+20929_4	has_surface_form	four
+20929_6	is_in_sentence	sentence_20929
+20929_6	compound	20929_9
+20929_6	has_surface_form	piece
+20929_5	is_in_sentence	sentence_20929
+20929_5	punct	20929_6
+20929_5	has_surface_form	-
+20929_7	is_in_sentence	sentence_20929
+20929_7	compound	20929_9
+20929_7	has_surface_form	punk
+20929_7	part_of_entity	punk rock
+20929_8	is_in_sentence	sentence_20929
+20929_8	compound	20929_9
+20929_8	has_surface_form	rock
+20929_8	part_of_entity	punk rock
+20929_10	is_in_sentence	sentence_20929
+20929_10	prep	20929_9
+20929_10	has_surface_form	from
+20929_11	is_in_sentence	sentence_20929
+20929_11	det	20929_13
+20929_11	has_surface_form	the
+20929_13	is_in_sentence	sentence_20929
+20929_13	pobj	20929_10
+20929_13	has_surface_form	Sea
+20929_12	is_in_sentence	sentence_20929
+20929_12	compound	20929_13
+20929_12	has_surface_form	Salton
+20929_14	is_in_sentence	sentence_20929
+20929_14	punct	20929_13
+20929_14	has_surface_form	,
+20929_15	is_in_sentence	sentence_20929
+20929_15	appos	20929_13
+20929_15	has_surface_form	California
+20929_16	is_in_sentence	sentence_20929
+20929_16	punct	20929_2
+20929_16	has_surface_form	.
+20929_17	is_in_sentence	sentence_20929
+20929_17	dep	20929_17
+20929_17	has_surface_form	
+Throw Rag	surface_form	Throw Rag
+Throw Rag	has-genre	punk rock
+punk rock	surface_form	punk rock

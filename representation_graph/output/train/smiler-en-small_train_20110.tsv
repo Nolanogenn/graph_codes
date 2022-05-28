@@ -1,0 +1,76 @@
+20109_0	is_in_sentence	sentence_20109
+20109_0	det	20109_1
+20109_0	has_surface_form	The
+20109_1	is_in_sentence	sentence_20109
+20109_1	nsubj	20109_12
+20109_1	has_surface_form	Princess
+20109_1	part_of_entity	Princess of Wales Hospital
+20109_12	is_in_sentence	sentence_20109
+20109_12	ROOT	20109_12
+20109_12	has_surface_form	is
+20109_2	is_in_sentence	sentence_20109
+20109_2	prep	20109_1
+20109_2	has_surface_form	of
+20109_2	part_of_entity	Princess of Wales Hospital
+20109_3	is_in_sentence	sentence_20109
+20109_3	compound	20109_4
+20109_3	has_surface_form	Wales
+20109_3	part_of_entity	Princess of Wales Hospital
+20109_4	is_in_sentence	sentence_20109
+20109_4	pobj	20109_2
+20109_4	has_surface_form	Hospital
+20109_4	part_of_entity	Princess of Wales Hospital
+20109_5	is_in_sentence	sentence_20109
+20109_5	punct	20109_6
+20109_5	has_surface_form	(
+20109_6	is_in_sentence	sentence_20109
+20109_6	appos	20109_1
+20109_6	has_surface_form	Welsh
+20109_7	is_in_sentence	sentence_20109
+20109_7	punct	20109_6
+20109_7	has_surface_form	:
+20109_8	is_in_sentence	sentence_20109
+20109_8	compound	20109_9
+20109_8	has_surface_form	Ysbyty
+20109_9	is_in_sentence	sentence_20109
+20109_9	compound	20109_10
+20109_9	has_surface_form	Tywysoges
+20109_10	is_in_sentence	sentence_20109
+20109_10	appos	20109_1
+20109_10	has_surface_form	Cymru
+20109_11	is_in_sentence	sentence_20109
+20109_11	punct	20109_1
+20109_11	has_surface_form	)
+20109_13	is_in_sentence	sentence_20109
+20109_13	det	20109_16
+20109_13	has_surface_form	a
+20109_16	is_in_sentence	sentence_20109
+20109_16	attr	20109_12
+20109_16	is_entity	hospital
+20109_14	is_in_sentence	sentence_20109
+20109_14	nmod	20109_16
+20109_14	has_surface_form	district
+20109_15	is_in_sentence	sentence_20109
+20109_15	amod	20109_16
+20109_15	has_surface_form	general
+hospital	surface_form	hospital
+20109_17	is_in_sentence	sentence_20109
+20109_17	prep	20109_16
+20109_17	has_surface_form	in
+20109_18	is_in_sentence	sentence_20109
+20109_18	pobj	20109_17
+20109_18	has_surface_form	Bridgend
+20109_19	is_in_sentence	sentence_20109
+20109_19	punct	20109_18
+20109_19	has_surface_form	,
+20109_20	is_in_sentence	sentence_20109
+20109_20	appos	20109_18
+20109_20	has_surface_form	Wales
+20109_21	is_in_sentence	sentence_20109
+20109_21	punct	20109_12
+20109_21	has_surface_form	.
+20109_22	is_in_sentence	sentence_20109
+20109_22	dep	20109_12
+20109_22	has_surface_form	
+Princess of Wales Hospital	surface_form	Princess of Wales Hospital
+Princess of Wales Hospital	has-type	hospital

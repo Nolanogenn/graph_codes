@@ -1,0 +1,63 @@
+19130_0	is_in_sentence	sentence_19130
+19130_0	poss	19130_2
+19130_0	is_entity	Richard
+19130_2	is_in_sentence	sentence_19130
+19130_2	nsubj	19130_8
+19130_2	has_surface_form	son
+Richard	surface_form	Richard
+Richard	has-child	John Fred Young
+19130_1	is_in_sentence	sentence_19130
+19130_1	case	19130_0
+19130_1	has_surface_form	's
+19130_8	is_in_sentence	sentence_19130
+19130_8	ROOT	19130_8
+19130_8	has_surface_form	plays
+19130_3	is_in_sentence	sentence_19130
+19130_3	punct	19130_2
+19130_3	has_surface_form	,
+19130_4	is_in_sentence	sentence_19130
+19130_4	compound	19130_6
+19130_4	has_surface_form	John
+19130_4	part_of_entity	John Fred Young
+19130_6	is_in_sentence	sentence_19130
+19130_6	appos	19130_2
+19130_6	has_surface_form	Young
+19130_6	part_of_entity	John Fred Young
+19130_5	is_in_sentence	sentence_19130
+19130_5	compound	19130_6
+19130_5	has_surface_form	Fred
+19130_5	part_of_entity	John Fred Young
+19130_7	is_in_sentence	sentence_19130
+19130_7	punct	19130_2
+19130_7	has_surface_form	,
+19130_9	is_in_sentence	sentence_19130
+19130_9	dobj	19130_8
+19130_9	has_surface_form	drums
+19130_10	is_in_sentence	sentence_19130
+19130_10	prep	19130_9
+19130_10	has_surface_form	in
+19130_11	is_in_sentence	sentence_19130
+19130_11	det	19130_16
+19130_11	has_surface_form	the
+19130_16	is_in_sentence	sentence_19130
+19130_16	pobj	19130_10
+19130_16	has_surface_form	Cherry
+19130_12	is_in_sentence	sentence_19130
+19130_12	compound	19130_13
+19130_12	has_surface_form	rock
+19130_13	is_in_sentence	sentence_19130
+19130_13	compound	19130_15
+19130_13	has_surface_form	band
+19130_15	is_in_sentence	sentence_19130
+19130_15	compound	19130_16
+19130_15	has_surface_form	Stone
+19130_14	is_in_sentence	sentence_19130
+19130_14	compound	19130_15
+19130_14	has_surface_form	Black
+19130_17	is_in_sentence	sentence_19130
+19130_17	punct	19130_8
+19130_17	has_surface_form	.
+19130_18	is_in_sentence	sentence_19130
+19130_18	dep	19130_18
+19130_18	has_surface_form	
+John Fred Young	surface_form	John Fred Young

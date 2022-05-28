@@ -1,0 +1,85 @@
+1824_0	is_in_sentence	sentence_1824
+1824_0	det	1824_1
+1824_0	has_surface_form	The
+1824_0	part_of_entity	The Center of the Web
+1824_1	is_in_sentence	sentence_1824
+1824_1	nsubj	1824_5
+1824_1	has_surface_form	Center
+1824_1	part_of_entity	The Center of the Web
+1824_5	is_in_sentence	sentence_1824
+1824_5	ROOT	1824_5
+1824_5	has_surface_form	is
+1824_2	is_in_sentence	sentence_1824
+1824_2	prep	1824_1
+1824_2	has_surface_form	of
+1824_2	part_of_entity	The Center of the Web
+1824_3	is_in_sentence	sentence_1824
+1824_3	det	1824_4
+1824_3	has_surface_form	the
+1824_3	part_of_entity	The Center of the Web
+1824_4	is_in_sentence	sentence_1824
+1824_4	pobj	1824_2
+1824_4	has_surface_form	Web
+1824_4	part_of_entity	The Center of the Web
+1824_6	is_in_sentence	sentence_1824
+1824_6	det	1824_13
+1824_6	has_surface_form	a
+1824_13	is_in_sentence	sentence_1824
+1824_13	attr	1824_5
+1824_13	has_surface_form	film
+1824_7	is_in_sentence	sentence_1824
+1824_7	nummod	1824_13
+1824_7	has_surface_form	1914
+1824_8	is_in_sentence	sentence_1824
+1824_8	amod	1824_13
+1824_8	has_surface_form	American
+1824_9	is_in_sentence	sentence_1824
+1824_9	amod	1824_10
+1824_9	has_surface_form	short
+1824_10	is_in_sentence	sentence_1824
+1824_10	amod	1824_11
+1824_10	has_surface_form	silent
+1824_11	is_in_sentence	sentence_1824
+1824_11	compound	1824_13
+1824_11	has_surface_form	crime
+1824_12	is_in_sentence	sentence_1824
+1824_12	compound	1824_13
+1824_12	has_surface_form	drama
+1824_14	is_in_sentence	sentence_1824
+1824_14	punct	1824_13
+1824_14	has_surface_form	,
+1824_15	is_in_sentence	sentence_1824
+1824_15	acl	1824_13
+1824_15	has_surface_form	directed
+1824_16	is_in_sentence	sentence_1824
+1824_16	agent	1824_15
+1824_16	has_surface_form	by
+1824_17	is_in_sentence	sentence_1824
+1824_17	compound	1824_18
+1824_17	has_surface_form	Jack
+1824_17	part_of_entity	Jack Harvey
+1824_18	is_in_sentence	sentence_1824
+1824_18	pobj	1824_16
+1824_18	has_surface_form	Harvey
+1824_18	part_of_entity	Jack Harvey
+1824_19	is_in_sentence	sentence_1824
+1824_19	prep	1824_18
+1824_19	has_surface_form	for
+1824_20	is_in_sentence	sentence_1824
+1824_20	det	1824_22
+1824_20	has_surface_form	the
+1824_22	is_in_sentence	sentence_1824
+1824_22	pobj	1824_19
+1824_22	has_surface_form	Company
+1824_21	is_in_sentence	sentence_1824
+1824_21	compound	1824_22
+1824_21	has_surface_form	Thanhouser
+1824_23	is_in_sentence	sentence_1824
+1824_23	punct	1824_5
+1824_23	has_surface_form	.
+1824_24	is_in_sentence	sentence_1824
+1824_24	dep	1824_5
+1824_24	has_surface_form	
+The Center of the Web	surface_form	The Center of the Web
+The Center of the Web	movie-has-director	Jack Harvey
+Jack Harvey	surface_form	Jack Harvey

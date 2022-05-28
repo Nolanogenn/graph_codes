@@ -1,0 +1,97 @@
+24513_0	is_in_sentence	sentence_24513
+24513_0	compound	24513_1
+24513_0	has_surface_form	Crime
+24513_0	part_of_entity	Crime News
+24513_1	is_in_sentence	sentence_24513
+24513_1	nsubj	24513_8
+24513_1	has_surface_form	News
+24513_1	part_of_entity	Crime News
+24513_8	is_in_sentence	sentence_24513
+24513_8	ROOT	24513_8
+24513_8	has_surface_form	is
+24513_2	is_in_sentence	sentence_24513
+24513_2	punct	24513_6
+24513_2	has_surface_form	(
+24513_6	is_in_sentence	sentence_24513
+24513_6	appos	24513_1
+24513_6	has_surface_form	nera
+24513_3	is_in_sentence	sentence_24513
+24513_3	nmod	24513_6
+24513_3	has_surface_form	Italian
+24513_4	is_in_sentence	sentence_24513
+24513_4	punct	24513_6
+24513_4	has_surface_form	:
+24513_5	is_in_sentence	sentence_24513
+24513_5	compound	24513_6
+24513_5	has_surface_form	Cronaca
+24513_7	is_in_sentence	sentence_24513
+24513_7	punct	24513_1
+24513_7	has_surface_form	)
+24513_9	is_in_sentence	sentence_24513
+24513_9	det	24513_13
+24513_9	has_surface_form	a
+24513_13	is_in_sentence	sentence_24513
+24513_13	attr	24513_8
+24513_13	has_surface_form	film
+24513_10	is_in_sentence	sentence_24513
+24513_10	nummod	24513_13
+24513_10	has_surface_form	1947
+24513_11	is_in_sentence	sentence_24513
+24513_11	amod	24513_13
+24513_11	has_surface_form	Italian
+24513_12	is_in_sentence	sentence_24513
+24513_12	compound	24513_13
+24513_12	has_surface_form	crime
+24513_14	is_in_sentence	sentence_24513
+24513_14	acl	24513_13
+24513_14	has_surface_form	directed
+24513_15	is_in_sentence	sentence_24513
+24513_15	agent	24513_14
+24513_15	has_surface_form	by
+24513_16	is_in_sentence	sentence_24513
+24513_16	compound	24513_17
+24513_16	has_surface_form	Giorgio
+24513_16	part_of_entity	Giorgio Bianchi
+24513_17	is_in_sentence	sentence_24513
+24513_17	pobj	24513_15
+24513_17	has_surface_form	Bianchi
+24513_17	part_of_entity	Giorgio Bianchi
+24513_18	is_in_sentence	sentence_24513
+24513_18	cc	24513_14
+24513_18	has_surface_form	and
+24513_19	is_in_sentence	sentence_24513
+24513_19	conj	24513_14
+24513_19	has_surface_form	starring
+24513_20	is_in_sentence	sentence_24513
+24513_20	compound	24513_21
+24513_20	has_surface_form	María
+24513_21	is_in_sentence	sentence_24513
+24513_21	dobj	24513_19
+24513_21	has_surface_form	Denis
+24513_22	is_in_sentence	sentence_24513
+24513_22	punct	24513_21
+24513_22	has_surface_form	,
+24513_23	is_in_sentence	sentence_24513
+24513_23	compound	24513_24
+24513_23	has_surface_form	Gino
+24513_24	is_in_sentence	sentence_24513
+24513_24	conj	24513_21
+24513_24	has_surface_form	Cervi
+24513_25	is_in_sentence	sentence_24513
+24513_25	cc	24513_24
+24513_25	has_surface_form	and
+24513_26	is_in_sentence	sentence_24513
+24513_26	compound	24513_27
+24513_26	has_surface_form	Andrea
+24513_27	is_in_sentence	sentence_24513
+24513_27	conj	24513_24
+24513_27	has_surface_form	Checchi
+24513_28	is_in_sentence	sentence_24513
+24513_28	punct	24513_8
+24513_28	has_surface_form	.
+24513_29	is_in_sentence	sentence_24513
+24513_29	dep	24513_8
+24513_29	has_surface_form	
+Crime News	surface_form	Crime News
+Crime News	movie-has-director	Giorgio Bianchi
+Giorgio Bianchi	surface_form	Giorgio Bianchi

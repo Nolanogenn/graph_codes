@@ -1,0 +1,58 @@
+22017_0	is_in_sentence	sentence_22017
+22017_0	det	22017_3
+22017_0	has_surface_form	The
+22017_3	is_in_sentence	sentence_22017
+22017_3	nsubj	22017_10
+22017_3	has_surface_form	lifespan
+22017_1	is_in_sentence	sentence_22017
+22017_1	amod	22017_3
+22017_1	has_surface_form	expected
+22017_2	is_in_sentence	sentence_22017
+22017_2	amod	22017_3
+22017_2	has_surface_form	average
+22017_10	is_in_sentence	sentence_22017
+22017_10	ROOT	22017_10
+22017_10	has_surface_form	is
+22017_4	is_in_sentence	sentence_22017
+22017_4	prep	22017_3
+22017_4	has_surface_form	of
+22017_5	is_in_sentence	sentence_22017
+22017_5	det	22017_9
+22017_5	has_surface_form	a
+22017_9	is_in_sentence	sentence_22017
+22017_9	pobj	22017_4
+22017_9	has_surface_form	Spaniel
+22017_9	part_of_entity	Cavalier King Charles Spaniel
+22017_6	is_in_sentence	sentence_22017
+22017_6	compound	22017_7
+22017_6	has_surface_form	Cavalier
+22017_6	part_of_entity	Cavalier King Charles Spaniel
+22017_7	is_in_sentence	sentence_22017
+22017_7	compound	22017_9
+22017_7	has_surface_form	King
+22017_7	part_of_entity	Cavalier King Charles Spaniel
+22017_8	is_in_sentence	sentence_22017
+22017_8	compound	22017_9
+22017_8	has_surface_form	Charles
+22017_8	part_of_entity	Cavalier King Charles Spaniel
+22017_11	is_in_sentence	sentence_22017
+22017_11	prep	22017_10
+22017_11	has_surface_form	under
+22017_11	part_of_entity	under ten years
+22017_12	is_in_sentence	sentence_22017
+22017_12	nummod	22017_13
+22017_12	has_surface_form	ten
+22017_12	part_of_entity	under ten years
+22017_13	is_in_sentence	sentence_22017
+22017_13	pobj	22017_11
+22017_13	has_surface_form	years
+22017_13	part_of_entity	under ten years
+22017_14	is_in_sentence	sentence_22017
+22017_14	punct	22017_10
+22017_14	has_surface_form	.
+22017_15	is_in_sentence	sentence_22017
+22017_15	dep	22017_15
+22017_15	has_surface_form	
+Cavalier King Charles Spaniel	surface_form	Cavalier King Charles Spaniel
+Cavalier King Charles Spaniel	has-lifespan	under ten years
+under ten years	surface_form	under ten years

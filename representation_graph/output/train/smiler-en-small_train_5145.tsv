@@ -1,0 +1,73 @@
+5144_0	is_in_sentence	sentence_5144
+5144_0	nsubj	5144_1
+5144_0	has_surface_form	Kirk
+5144_1	is_in_sentence	sentence_5144
+5144_1	ROOT	5144_1
+5144_1	has_surface_form	grew
+5144_2	is_in_sentence	sentence_5144
+5144_2	prt	5144_1
+5144_2	has_surface_form	up
+5144_3	is_in_sentence	sentence_5144
+5144_3	prep	5144_1
+5144_3	has_surface_form	in
+5144_4	is_in_sentence	sentence_5144
+5144_4	pobj	5144_3
+5144_4	has_surface_form	Denver
+5144_5	is_in_sentence	sentence_5144
+5144_5	punct	5144_4
+5144_5	has_surface_form	,
+5144_6	is_in_sentence	sentence_5144
+5144_6	appos	5144_4
+5144_6	has_surface_form	Colorado
+5144_7	is_in_sentence	sentence_5144
+5144_7	punct	5144_4
+5144_7	has_surface_form	,
+5144_8	is_in_sentence	sentence_5144
+5144_8	advmod	5144_11
+5144_8	has_surface_form	where
+5144_11	is_in_sentence	sentence_5144
+5144_11	relcl	5144_4
+5144_11	has_surface_form	tutored
+5144_9	is_in_sentence	sentence_5144
+5144_9	nsubjpass	5144_11
+5144_9	has_surface_form	he
+5144_10	is_in_sentence	sentence_5144
+5144_10	auxpass	5144_11
+5144_10	has_surface_form	was
+5144_12	is_in_sentence	sentence_5144
+5144_12	agent	5144_11
+5144_12	has_surface_form	by
+5144_13	is_in_sentence	sentence_5144
+5144_13	compound	5144_14
+5144_13	has_surface_form	Wilberforce
+5144_13	part_of_entity	Wilberforce Whiteman
+5144_14	is_in_sentence	sentence_5144
+5144_14	pobj	5144_12
+5144_14	has_surface_form	Whiteman
+5144_14	part_of_entity	Wilberforce Whiteman
+5144_15	is_in_sentence	sentence_5144
+5144_15	punct	5144_14
+5144_15	has_surface_form	,
+5144_16	is_in_sentence	sentence_5144
+5144_16	compound	5144_17
+5144_16	has_surface_form	Paul
+5144_16	part_of_entity	Paul Whiteman
+5144_17	is_in_sentence	sentence_5144
+5144_17	poss	5144_19
+5144_17	has_surface_form	Whiteman
+5144_17	part_of_entity	Paul Whiteman
+5144_19	is_in_sentence	sentence_5144
+5144_19	appos	5144_14
+5144_19	has_surface_form	father
+5144_18	is_in_sentence	sentence_5144
+5144_18	case	5144_17
+5144_18	has_surface_form	's
+5144_20	is_in_sentence	sentence_5144
+5144_20	punct	5144_1
+5144_20	has_surface_form	.
+5144_21	is_in_sentence	sentence_5144
+5144_21	dep	5144_21
+5144_21	has_surface_form	
+Wilberforce Whiteman	surface_form	Wilberforce Whiteman
+Wilberforce Whiteman	has-child	Paul Whiteman
+Paul Whiteman	surface_form	Paul Whiteman

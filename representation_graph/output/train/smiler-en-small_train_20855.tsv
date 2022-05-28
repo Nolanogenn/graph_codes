@@ -1,0 +1,53 @@
+20854_0	is_in_sentence	sentence_20854
+20854_0	prep	20854_7
+20854_0	has_surface_form	In
+20854_7	is_in_sentence	sentence_20854
+20854_7	ROOT	20854_7
+20854_7	has_surface_form	patented
+20854_1	is_in_sentence	sentence_20854
+20854_1	pobj	20854_0
+20854_1	is_entity	1869
+1869	surface_form	1869
+20854_2	is_in_sentence	sentence_20854
+20854_2	punct	20854_7
+20854_2	has_surface_form	,
+20854_3	is_in_sentence	sentence_20854
+20854_3	amod	20854_4
+20854_3	has_surface_form	American
+20854_4	is_in_sentence	sentence_20854
+20854_4	compound	20854_6
+20854_4	has_surface_form	man
+20854_6	is_in_sentence	sentence_20854
+20854_6	nsubj	20854_7
+20854_6	has_surface_form	Swartwout
+20854_5	is_in_sentence	sentence_20854
+20854_5	compound	20854_6
+20854_5	has_surface_form	Cornelius
+20854_8	is_in_sentence	sentence_20854
+20854_8	det	20854_13
+20854_8	has_surface_form	the
+20854_13	is_in_sentence	sentence_20854
+20854_13	dobj	20854_7
+20854_13	has_surface_form	iron
+20854_13	part_of_entity	waffle iron
+20854_9	is_in_sentence	sentence_20854
+20854_9	compound	20854_11
+20854_9	has_surface_form	stove
+20854_11	is_in_sentence	sentence_20854
+20854_11	compound	20854_13
+20854_11	has_surface_form	top
+20854_10	is_in_sentence	sentence_20854
+20854_10	punct	20854_11
+20854_10	has_surface_form	-
+20854_12	is_in_sentence	sentence_20854
+20854_12	compound	20854_13
+20854_12	has_surface_form	waffle
+20854_12	part_of_entity	waffle iron
+20854_14	is_in_sentence	sentence_20854
+20854_14	punct	20854_7
+20854_14	has_surface_form	.
+20854_15	is_in_sentence	sentence_20854
+20854_15	dep	20854_15
+20854_15	has_surface_form	
+waffle iron	surface_form	waffle iron
+waffle iron	invented-when	1869

@@ -1,0 +1,110 @@
+34163_0	is_in_sentence	sentence_34163
+34163_0	det	34163_1
+34163_0	has_surface_form	A
+34163_0	part_of_entity	A Guide for the Married Man
+34163_1	is_in_sentence	sentence_34163
+34163_1	nsubj	34163_6
+34163_1	has_surface_form	Guide
+34163_1	part_of_entity	A Guide for the Married Man
+34163_6	is_in_sentence	sentence_34163
+34163_6	ROOT	34163_6
+34163_6	has_surface_form	is
+34163_2	is_in_sentence	sentence_34163
+34163_2	prep	34163_1
+34163_2	has_surface_form	for
+34163_2	part_of_entity	A Guide for the Married Man
+34163_3	is_in_sentence	sentence_34163
+34163_3	det	34163_5
+34163_3	has_surface_form	the
+34163_3	part_of_entity	A Guide for the Married Man
+34163_5	is_in_sentence	sentence_34163
+34163_5	pobj	34163_2
+34163_5	has_surface_form	Man
+34163_5	part_of_entity	A Guide for the Married Man
+34163_4	is_in_sentence	sentence_34163
+34163_4	compound	34163_5
+34163_4	has_surface_form	Married
+34163_4	part_of_entity	A Guide for the Married Man
+34163_7	is_in_sentence	sentence_34163
+34163_7	det	34163_13
+34163_7	has_surface_form	a
+34163_13	is_in_sentence	sentence_34163
+34163_13	attr	34163_6
+34163_13	has_surface_form	film
+34163_8	is_in_sentence	sentence_34163
+34163_8	nummod	34163_11
+34163_8	has_surface_form	1967
+34163_11	is_in_sentence	sentence_34163
+34163_11	compound	34163_13
+34163_11	has_surface_form	farce
+34163_9	is_in_sentence	sentence_34163
+34163_9	amod	34163_11
+34163_9	has_surface_form	American
+34163_10	is_in_sentence	sentence_34163
+34163_10	compound	34163_11
+34163_10	has_surface_form	bedroom
+34163_12	is_in_sentence	sentence_34163
+34163_12	compound	34163_13
+34163_12	has_surface_form	comedy
+34163_14	is_in_sentence	sentence_34163
+34163_14	acl	34163_13
+34163_14	has_surface_form	starring
+34163_15	is_in_sentence	sentence_34163
+34163_15	compound	34163_16
+34163_15	has_surface_form	Walter
+34163_16	is_in_sentence	sentence_34163
+34163_16	dobj	34163_14
+34163_16	has_surface_form	Matthau
+34163_17	is_in_sentence	sentence_34163
+34163_17	punct	34163_16
+34163_17	has_surface_form	,
+34163_18	is_in_sentence	sentence_34163
+34163_18	compound	34163_19
+34163_18	has_surface_form	Robert
+34163_19	is_in_sentence	sentence_34163
+34163_19	appos	34163_16
+34163_19	has_surface_form	Morse
+34163_20	is_in_sentence	sentence_34163
+34163_20	punct	34163_16
+34163_20	has_surface_form	,
+34163_21	is_in_sentence	sentence_34163
+34163_21	cc	34163_16
+34163_21	has_surface_form	and
+34163_22	is_in_sentence	sentence_34163
+34163_22	compound	34163_23
+34163_22	has_surface_form	Inger
+34163_23	is_in_sentence	sentence_34163
+34163_23	conj	34163_16
+34163_23	has_surface_form	Stevens
+34163_24	is_in_sentence	sentence_34163
+34163_24	punct	34163_6
+34163_24	has_surface_form	.
+34163_25	is_in_sentence	sentence_34163
+34163_25	nsubjpass	34163_27
+34163_25	has_surface_form	It
+34163_27	is_in_sentence	sentence_34163
+34163_27	ROOT	34163_27
+34163_27	has_surface_form	directed
+34163_26	is_in_sentence	sentence_34163
+34163_26	auxpass	34163_27
+34163_26	has_surface_form	was
+34163_28	is_in_sentence	sentence_34163
+34163_28	agent	34163_27
+34163_28	has_surface_form	by
+34163_29	is_in_sentence	sentence_34163
+34163_29	compound	34163_30
+34163_29	has_surface_form	Gene
+34163_29	part_of_entity	Gene Kelly
+34163_30	is_in_sentence	sentence_34163
+34163_30	pobj	34163_28
+34163_30	has_surface_form	Kelly
+34163_30	part_of_entity	Gene Kelly
+34163_31	is_in_sentence	sentence_34163
+34163_31	punct	34163_27
+34163_31	has_surface_form	.
+34163_32	is_in_sentence	sentence_34163
+34163_32	dep	34163_27
+34163_32	has_surface_form	
+A Guide for the Married Man	surface_form	A Guide for the Married Man
+A Guide for the Married Man	movie-has-director	Gene Kelly
+Gene Kelly	surface_form	Gene Kelly

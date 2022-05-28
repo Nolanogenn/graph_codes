@@ -1,0 +1,84 @@
+8143_0	is_in_sentence	sentence_8143
+8143_0	compound	8143_1
+8143_0	has_surface_form	Annika
+8143_0	part_of_entity	Annika Becker
+8143_1	is_in_sentence	sentence_8143
+8143_1	nsubj	8143_8
+8143_1	has_surface_form	Becker
+8143_1	part_of_entity	Annika Becker
+8143_8	is_in_sentence	sentence_8143
+8143_8	ROOT	8143_8
+8143_8	has_surface_form	is
+8143_2	is_in_sentence	sentence_8143
+8143_2	punct	8143_3
+8143_2	has_surface_form	(
+8143_3	is_in_sentence	sentence_8143
+8143_3	parataxis	8143_1
+8143_3	has_surface_form	born
+8143_4	is_in_sentence	sentence_8143
+8143_4	nummod	8143_5
+8143_4	has_surface_form	12
+8143_5	is_in_sentence	sentence_8143
+8143_5	npadvmod	8143_3
+8143_5	has_surface_form	November
+8143_6	is_in_sentence	sentence_8143
+8143_6	nummod	8143_5
+8143_6	has_surface_form	1981
+8143_7	is_in_sentence	sentence_8143
+8143_7	punct	8143_3
+8143_7	has_surface_form	)
+8143_9	is_in_sentence	sentence_8143
+8143_9	det	8143_13
+8143_9	has_surface_form	a
+8143_13	is_in_sentence	sentence_8143
+8143_13	attr	8143_8
+8143_13	has_surface_form	vaulter
+8143_10	is_in_sentence	sentence_8143
+8143_10	amod	8143_13
+8143_10	has_surface_form	retired
+8143_11	is_in_sentence	sentence_8143
+8143_11	amod	8143_13
+8143_11	has_surface_form	German
+8143_12	is_in_sentence	sentence_8143
+8143_12	compound	8143_13
+8143_12	has_surface_form	pole
+8143_14	is_in_sentence	sentence_8143
+8143_14	punct	8143_8
+8143_14	has_surface_form	.
+8143_15	is_in_sentence	sentence_8143
+8143_15	nsubjpass	8143_17
+8143_15	has_surface_form	Becker
+8143_17	is_in_sentence	sentence_8143
+8143_17	ROOT	8143_17
+8143_17	has_surface_form	born
+8143_16	is_in_sentence	sentence_8143
+8143_16	auxpass	8143_17
+8143_16	has_surface_form	was
+8143_18	is_in_sentence	sentence_8143
+8143_18	prep	8143_17
+8143_18	has_surface_form	in
+8143_19	is_in_sentence	sentence_8143
+8143_19	pobj	8143_18
+8143_19	has_surface_form	Rotenburg
+8143_19	part_of_entity	Rotenburg an der Fulda
+8143_20	is_in_sentence	sentence_8143
+8143_20	det	8143_22
+8143_20	has_surface_form	an
+8143_20	part_of_entity	Rotenburg an der Fulda
+8143_22	is_in_sentence	sentence_8143
+8143_22	appos	8143_19
+8143_22	has_surface_form	Fulda
+8143_22	part_of_entity	Rotenburg an der Fulda
+8143_21	is_in_sentence	sentence_8143
+8143_21	compound	8143_22
+8143_21	has_surface_form	der
+8143_21	part_of_entity	Rotenburg an der Fulda
+8143_23	is_in_sentence	sentence_8143
+8143_23	punct	8143_17
+8143_23	has_surface_form	.
+8143_24	is_in_sentence	sentence_8143
+8143_24	dep	8143_24
+8143_24	has_surface_form	
+Annika Becker	surface_form	Annika Becker
+Annika Becker	birth-place	Rotenburg an der Fulda
+Rotenburg an der Fulda	surface_form	Rotenburg an der Fulda

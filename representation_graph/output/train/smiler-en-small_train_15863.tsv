@@ -1,0 +1,79 @@
+15862_0	is_in_sentence	sentence_15862
+15862_0	compound	15862_1
+15862_0	has_surface_form	AZ
+15862_0	part_of_entity	AZ Groeninge
+15862_1	is_in_sentence	sentence_15862
+15862_1	nsubj	15862_2
+15862_1	has_surface_form	Groeninge
+15862_1	part_of_entity	AZ Groeninge
+15862_2	is_in_sentence	sentence_15862
+15862_2	ROOT	15862_2
+15862_2	has_surface_form	is
+15862_3	is_in_sentence	sentence_15862
+15862_3	det	15862_6
+15862_3	has_surface_form	a
+15862_6	is_in_sentence	sentence_15862
+15862_6	attr	15862_2
+15862_6	has_surface_form	hospital
+15862_6	part_of_entity	teaching hospital
+15862_4	is_in_sentence	sentence_15862
+15862_4	amod	15862_6
+15862_4	has_surface_form	large
+15862_5	is_in_sentence	sentence_15862
+15862_5	compound	15862_6
+15862_5	has_surface_form	teaching
+15862_5	part_of_entity	teaching hospital
+15862_7	is_in_sentence	sentence_15862
+15862_7	punct	15862_6
+15862_7	has_surface_form	,
+15862_8	is_in_sentence	sentence_15862
+15862_8	acl	15862_6
+15862_8	has_surface_form	affiliated
+15862_9	is_in_sentence	sentence_15862
+15862_9	prep	15862_8
+15862_9	has_surface_form	with
+15862_10	is_in_sentence	sentence_15862
+15862_10	det	15862_15
+15862_10	has_surface_form	the
+15862_15	is_in_sentence	sentence_15862
+15862_15	pobj	15862_9
+15862_15	has_surface_form	network
+15862_11	is_in_sentence	sentence_15862
+15862_11	compound	15862_12
+15862_11	has_surface_form	Flemish
+15862_12	is_in_sentence	sentence_15862
+15862_12	compound	15862_14
+15862_12	has_surface_form	KU
+15862_14	is_in_sentence	sentence_15862
+15862_14	compound	15862_15
+15862_14	has_surface_form	Hospital
+15862_13	is_in_sentence	sentence_15862
+15862_13	compound	15862_14
+15862_13	has_surface_form	Leuven
+15862_16	is_in_sentence	sentence_15862
+15862_16	punct	15862_6
+15862_16	has_surface_form	,
+15862_17	is_in_sentence	sentence_15862
+15862_17	prep	15862_6
+15862_17	has_surface_form	in
+15862_18	is_in_sentence	sentence_15862
+15862_18	det	15862_20
+15862_18	has_surface_form	the
+15862_20	is_in_sentence	sentence_15862
+15862_20	pobj	15862_17
+15862_20	has_surface_form	city
+15862_19	is_in_sentence	sentence_15862
+15862_19	amod	15862_20
+15862_19	has_surface_form	Belgian
+15862_21	is_in_sentence	sentence_15862
+15862_21	appos	15862_20
+15862_21	has_surface_form	Kortrijk
+15862_22	is_in_sentence	sentence_15862
+15862_22	punct	15862_2
+15862_22	has_surface_form	.
+15862_23	is_in_sentence	sentence_15862
+15862_23	dep	15862_2
+15862_23	has_surface_form	
+AZ Groeninge	surface_form	AZ Groeninge
+AZ Groeninge	has-type	teaching hospital
+teaching hospital	surface_form	teaching hospital

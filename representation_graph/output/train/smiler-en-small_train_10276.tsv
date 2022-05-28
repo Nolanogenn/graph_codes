@@ -1,0 +1,77 @@
+10275_0	is_in_sentence	sentence_10275
+10275_0	nsubj	10275_3
+10275_0	has_surface_form	Stage
+10275_0	part_of_entity	Stage to Chino
+10275_3	is_in_sentence	sentence_10275
+10275_3	ROOT	10275_3
+10275_3	has_surface_form	is
+10275_1	is_in_sentence	sentence_10275
+10275_1	prep	10275_0
+10275_1	has_surface_form	to
+10275_1	part_of_entity	Stage to Chino
+10275_2	is_in_sentence	sentence_10275
+10275_2	pobj	10275_1
+10275_2	has_surface_form	Chino
+10275_2	part_of_entity	Stage to Chino
+10275_4	is_in_sentence	sentence_10275
+10275_4	det	10275_8
+10275_4	has_surface_form	a
+10275_8	is_in_sentence	sentence_10275
+10275_8	attr	10275_3
+10275_8	has_surface_form	film
+10275_5	is_in_sentence	sentence_10275
+10275_5	nummod	10275_8
+10275_5	has_surface_form	1940
+10275_6	is_in_sentence	sentence_10275
+10275_6	amod	10275_8
+10275_6	has_surface_form	American
+10275_7	is_in_sentence	sentence_10275
+10275_7	amod	10275_8
+10275_7	has_surface_form	western
+10275_9	is_in_sentence	sentence_10275
+10275_9	acl	10275_8
+10275_9	has_surface_form	directed
+10275_10	is_in_sentence	sentence_10275
+10275_10	agent	10275_9
+10275_10	has_surface_form	by
+10275_11	is_in_sentence	sentence_10275
+10275_11	compound	10275_12
+10275_11	has_surface_form	Edward
+10275_11	part_of_entity	Edward Killy
+10275_12	is_in_sentence	sentence_10275
+10275_12	pobj	10275_10
+10275_12	has_surface_form	Killy
+10275_12	part_of_entity	Edward Killy
+10275_13	is_in_sentence	sentence_10275
+10275_13	prep	10275_9
+10275_13	has_surface_form	from
+10275_14	is_in_sentence	sentence_10275
+10275_14	det	10275_15
+10275_14	has_surface_form	a
+10275_15	is_in_sentence	sentence_10275
+10275_15	pobj	10275_13
+10275_15	has_surface_form	screenplay
+10275_16	is_in_sentence	sentence_10275
+10275_16	prep	10275_15
+10275_16	has_surface_form	by
+10275_17	is_in_sentence	sentence_10275
+10275_17	compound	10275_18
+10275_17	has_surface_form	Morton
+10275_18	is_in_sentence	sentence_10275
+10275_18	pobj	10275_16
+10275_18	has_surface_form	Grant
+10275_19	is_in_sentence	sentence_10275
+10275_19	cc	10275_18
+10275_19	has_surface_form	and
+10275_20	is_in_sentence	sentence_10275
+10275_20	compound	10275_21
+10275_20	has_surface_form	Arthur
+10275_21	is_in_sentence	sentence_10275
+10275_21	conj	10275_18
+10275_21	has_surface_form	V.
+10275_22	is_in_sentence	sentence_10275
+10275_22	dep	10275_18
+10275_22	has_surface_form	
+Stage to Chino	surface_form	Stage to Chino
+Stage to Chino	movie-has-director	Edward Killy
+Edward Killy	surface_form	Edward Killy

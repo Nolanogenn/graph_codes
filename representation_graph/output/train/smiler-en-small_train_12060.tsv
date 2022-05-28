@@ -1,0 +1,56 @@
+12059_0	is_in_sentence	sentence_12059
+12059_0	det	12059_3
+12059_0	has_surface_form	The
+12059_3	is_in_sentence	sentence_12059
+12059_3	nsubjpass	12059_5
+12059_3	has_surface_form	elevator
+12059_3	part_of_entity	electric elevator
+12059_1	is_in_sentence	sentence_12059
+12059_1	amod	12059_3
+12059_1	has_surface_form	first
+12059_2	is_in_sentence	sentence_12059
+12059_2	amod	12059_3
+12059_2	has_surface_form	electric
+12059_2	part_of_entity	electric elevator
+12059_5	is_in_sentence	sentence_12059
+12059_5	ROOT	12059_5
+12059_5	has_surface_form	built
+12059_4	is_in_sentence	sentence_12059
+12059_4	auxpass	12059_5
+12059_4	has_surface_form	was
+12059_6	is_in_sentence	sentence_12059
+12059_6	agent	12059_5
+12059_6	has_surface_form	by
+12059_7	is_in_sentence	sentence_12059
+12059_7	compound	12059_9
+12059_7	has_surface_form	Werner
+12059_7	part_of_entity	Werner von Siemens
+12059_9	is_in_sentence	sentence_12059
+12059_9	pobj	12059_6
+12059_9	has_surface_form	Siemens
+12059_9	part_of_entity	Werner von Siemens
+12059_8	is_in_sentence	sentence_12059
+12059_8	compound	12059_9
+12059_8	has_surface_form	von
+12059_8	part_of_entity	Werner von Siemens
+12059_10	is_in_sentence	sentence_12059
+12059_10	prep	12059_5
+12059_10	has_surface_form	in
+12059_11	is_in_sentence	sentence_12059
+12059_11	pobj	12059_10
+12059_11	has_surface_form	1880
+12059_12	is_in_sentence	sentence_12059
+12059_12	prep	12059_5
+12059_12	has_surface_form	in
+12059_13	is_in_sentence	sentence_12059
+12059_13	pobj	12059_12
+12059_13	has_surface_form	Germany
+12059_14	is_in_sentence	sentence_12059
+12059_14	punct	12059_5
+12059_14	has_surface_form	.
+12059_15	is_in_sentence	sentence_12059
+12059_15	dep	12059_15
+12059_15	has_surface_form	
+electric elevator	surface_form	electric elevator
+electric elevator	invented-by	Werner von Siemens
+Werner von Siemens	surface_form	Werner von Siemens

@@ -1,0 +1,47 @@
+6611_0	is_in_sentence	sentence_6611
+6611_0	det	6611_2
+6611_0	has_surface_form	The
+6611_2	is_in_sentence	sentence_6611
+6611_2	nsubj	6611_3
+6611_2	has_surface_form	NC10
+6611_2	part_of_entity	Samsung NC10
+6611_1	is_in_sentence	sentence_6611
+6611_1	compound	6611_2
+6611_1	has_surface_form	Samsung
+6611_1	part_of_entity	Samsung NC10
+6611_3	is_in_sentence	sentence_6611
+6611_3	ROOT	6611_3
+6611_3	has_surface_form	is
+6611_4	is_in_sentence	sentence_6611
+6611_4	det	6611_8
+6611_4	has_surface_form	a
+6611_8	is_in_sentence	sentence_6611
+6611_8	attr	6611_3
+6611_8	has_surface_form	computer
+6611_5	is_in_sentence	sentence_6611
+6611_5	nmod	6611_8
+6611_5	is_entity	subnotebook
+subnotebook	surface_form	subnotebook
+6611_6	is_in_sentence	sentence_6611
+6611_6	punct	6611_7
+6611_6	has_surface_form	/
+6611_7	is_in_sentence	sentence_6611
+6611_7	compound	6611_8
+6611_7	has_surface_form	netbook
+6611_9	is_in_sentence	sentence_6611
+6611_9	acl	6611_8
+6611_9	has_surface_form	designed
+6611_10	is_in_sentence	sentence_6611
+6611_10	agent	6611_9
+6611_10	has_surface_form	by
+6611_11	is_in_sentence	sentence_6611
+6611_11	pobj	6611_10
+6611_11	has_surface_form	Samsung
+6611_12	is_in_sentence	sentence_6611
+6611_12	punct	6611_3
+6611_12	has_surface_form	.
+6611_13	is_in_sentence	sentence_6611
+6611_13	dep	6611_3
+6611_13	has_surface_form	
+Samsung NC10	surface_form	Samsung NC10
+Samsung NC10	has-type	subnotebook

@@ -1,0 +1,108 @@
+10080_0	is_in_sentence	sentence_10080
+10080_0	det	10080_3
+10080_0	has_surface_form	The
+10080_0	part_of_entity	The Richmond Golf Club
+10080_3	is_in_sentence	sentence_10080
+10080_3	nsubj	10080_4
+10080_3	has_surface_form	Club
+10080_3	part_of_entity	The Richmond Golf Club
+10080_1	is_in_sentence	sentence_10080
+10080_1	compound	10080_3
+10080_1	has_surface_form	Richmond
+10080_1	part_of_entity	The Richmond Golf Club
+10080_2	is_in_sentence	sentence_10080
+10080_2	compound	10080_3
+10080_2	has_surface_form	Golf
+10080_2	part_of_entity	The Richmond Golf Club
+10080_4	is_in_sentence	sentence_10080
+10080_4	ROOT	10080_4
+10080_4	has_surface_form	is
+10080_5	is_in_sentence	sentence_10080
+10080_5	det	10080_8
+10080_5	has_surface_form	a
+10080_8	is_in_sentence	sentence_10080
+10080_8	attr	10080_4
+10080_8	has_surface_form	club
+10080_8	part_of_entity	golf club
+10080_6	is_in_sentence	sentence_10080
+10080_6	amod	10080_8
+10080_6	has_surface_form	private
+10080_7	is_in_sentence	sentence_10080
+10080_7	compound	10080_8
+10080_7	has_surface_form	golf
+10080_7	part_of_entity	golf club
+10080_9	is_in_sentence	sentence_10080
+10080_9	poss	10080_13
+10080_9	has_surface_form	whose
+10080_13	is_in_sentence	sentence_10080
+10080_13	nsubj	10080_15
+10080_13	has_surface_form	course
+10080_10	is_in_sentence	sentence_10080
+10080_10	nummod	10080_12
+10080_10	has_surface_form	18
+10080_12	is_in_sentence	sentence_10080
+10080_12	compound	10080_13
+10080_12	has_surface_form	hole
+10080_11	is_in_sentence	sentence_10080
+10080_11	punct	10080_12
+10080_11	has_surface_form	-
+10080_15	is_in_sentence	sentence_10080
+10080_15	relcl	10080_8
+10080_15	has_surface_form	occupies
+10080_14	is_in_sentence	sentence_10080
+10080_14	advmod	10080_15
+10080_14	has_surface_form	now
+10080_16	is_in_sentence	sentence_10080
+10080_16	det	10080_19
+10080_16	has_surface_form	the
+10080_19	is_in_sentence	sentence_10080
+10080_19	dobj	10080_15
+10080_19	has_surface_form	Park
+10080_17	is_in_sentence	sentence_10080
+10080_17	amod	10080_19
+10080_17	has_surface_form	historic
+10080_18	is_in_sentence	sentence_10080
+10080_18	compound	10080_19
+10080_18	has_surface_form	Sudbrook
+10080_20	is_in_sentence	sentence_10080
+10080_20	amod	10080_19
+10080_20	has_surface_form	adjacent
+10080_21	is_in_sentence	sentence_10080
+10080_21	prep	10080_20
+10080_21	has_surface_form	to
+10080_22	is_in_sentence	sentence_10080
+10080_22	compound	10080_23
+10080_22	has_surface_form	Richmond
+10080_23	is_in_sentence	sentence_10080
+10080_23	pobj	10080_21
+10080_23	has_surface_form	Park
+10080_24	is_in_sentence	sentence_10080
+10080_24	punct	10080_19
+10080_24	has_surface_form	,
+10080_25	is_in_sentence	sentence_10080
+10080_25	prep	10080_15
+10080_25	has_surface_form	in
+10080_26	is_in_sentence	sentence_10080
+10080_26	pobj	10080_25
+10080_26	has_surface_form	Petersham
+10080_27	is_in_sentence	sentence_10080
+10080_27	punct	10080_26
+10080_27	has_surface_form	,
+10080_28	is_in_sentence	sentence_10080
+10080_28	compound	10080_29
+10080_28	has_surface_form	south
+10080_29	is_in_sentence	sentence_10080
+10080_29	compound	10080_30
+10080_29	has_surface_form	west
+10080_30	is_in_sentence	sentence_10080
+10080_30	appos	10080_26
+10080_30	has_surface_form	London
+10080_31	is_in_sentence	sentence_10080
+10080_31	punct	10080_4
+10080_31	has_surface_form	.
+10080_32	is_in_sentence	sentence_10080
+10080_32	dep	10080_32
+10080_32	has_surface_form	
+The Richmond Golf Club	surface_form	The Richmond Golf Club
+The Richmond Golf Club	has-type	golf club
+golf club	surface_form	golf club

@@ -1,0 +1,76 @@
+23331_0	is_in_sentence	sentence_23331
+23331_0	prep	23331_3
+23331_0	has_surface_form	In
+23331_3	is_in_sentence	sentence_23331
+23331_3	ROOT	23331_3
+23331_3	has_surface_form	trained
+23331_1	is_in_sentence	sentence_23331
+23331_1	pobj	23331_0
+23331_1	has_surface_form	1983
+23331_2	is_in_sentence	sentence_23331
+23331_2	nsubj	23331_3
+23331_2	has_surface_form	he
+23331_4	is_in_sentence	sentence_23331
+23331_4	compound	23331_5
+23331_4	has_surface_form	Bates
+23331_4	part_of_entity	Bates Motel
+23331_5	is_in_sentence	sentence_23331
+23331_5	dobj	23331_3
+23331_5	has_surface_form	Motel
+23331_5	part_of_entity	Bates Motel
+23331_6	is_in_sentence	sentence_23331
+23331_6	punct	23331_5
+23331_6	has_surface_form	,
+23331_7	is_in_sentence	sentence_23331
+23331_7	det	23331_10
+23331_7	has_surface_form	a
+23331_10	is_in_sentence	sentence_23331
+23331_10	appos	23331_5
+23331_10	has_surface_form	horse
+23331_8	is_in_sentence	sentence_23331
+23331_8	compound	23331_10
+23331_8	has_surface_form	Handicap
+23331_9	is_in_sentence	sentence_23331
+23331_9	compound	23331_10
+23331_9	has_surface_form	race
+23331_11	is_in_sentence	sentence_23331
+23331_11	punct	23331_3
+23331_11	has_surface_form	.
+23331_12	is_in_sentence	sentence_23331
+23331_12	compound	23331_13
+23331_12	has_surface_form	Iselin
+23331_13	is_in_sentence	sentence_23331
+23331_13	nsubj	23331_17
+23331_13	has_surface_form	Handicap
+23331_17	is_in_sentence	sentence_23331
+23331_17	ROOT	23331_17
+23331_17	has_surface_form	won
+23331_14	is_in_sentence	sentence_23331
+23331_14	punct	23331_13
+23331_14	has_surface_form	,
+23331_15	is_in_sentence	sentence_23331
+23331_15	cc	23331_13
+23331_15	has_surface_form	and
+23331_16	is_in_sentence	sentence_23331
+23331_16	advmod	23331_17
+23331_16	has_surface_form	later
+23331_18	is_in_sentence	sentence_23331
+23331_18	det	23331_20
+23331_18	has_surface_form	the
+23331_20	is_in_sentence	sentence_23331
+23331_20	dobj	23331_17
+23331_20	has_surface_form	Award
+23331_20	part_of_entity	Eclipse Award
+23331_19	is_in_sentence	sentence_23331
+23331_19	compound	23331_20
+23331_19	has_surface_form	Eclipse
+23331_19	part_of_entity	Eclipse Award
+23331_21	is_in_sentence	sentence_23331
+23331_21	punct	23331_17
+23331_21	has_surface_form	.
+23331_22	is_in_sentence	sentence_23331
+23331_22	dep	23331_22
+23331_22	has_surface_form	
+Bates Motel	surface_form	Bates Motel
+Bates Motel	won-award	Eclipse Award
+Eclipse Award	surface_form	Eclipse Award

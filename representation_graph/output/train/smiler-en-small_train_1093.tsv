@@ -1,0 +1,79 @@
+1092_0	is_in_sentence	sentence_1092
+1092_0	compound	1092_1
+1092_0	has_surface_form	Banger
+1092_0	part_of_entity	Banger Films
+1092_1	is_in_sentence	sentence_1092
+1092_1	nsubj	1092_2
+1092_1	has_surface_form	Films
+1092_1	part_of_entity	Banger Films
+1092_2	is_in_sentence	sentence_1092
+1092_2	ROOT	1092_2
+1092_2	has_surface_form	is
+1092_3	is_in_sentence	sentence_1092
+1092_3	det	1092_9
+1092_3	has_surface_form	a
+1092_9	is_in_sentence	sentence_1092
+1092_9	attr	1092_2
+1092_9	has_surface_form	company
+1092_9	part_of_entity	production company
+1092_4	is_in_sentence	sentence_1092
+1092_4	amod	1092_9
+1092_4	has_surface_form	Canadian
+1092_5	is_in_sentence	sentence_1092
+1092_5	nmod	1092_9
+1092_5	has_surface_form	film
+1092_6	is_in_sentence	sentence_1092
+1092_6	cc	1092_5
+1092_6	has_surface_form	and
+1092_7	is_in_sentence	sentence_1092
+1092_7	conj	1092_5
+1092_7	has_surface_form	television
+1092_8	is_in_sentence	sentence_1092
+1092_8	conj	1092_5
+1092_8	has_surface_form	production
+1092_8	part_of_entity	production company
+1092_10	is_in_sentence	sentence_1092
+1092_10	punct	1092_9
+1092_10	has_surface_form	,
+1092_11	is_in_sentence	sentence_1092
+1092_11	nsubj	1092_12
+1092_11	has_surface_form	which
+1092_12	is_in_sentence	sentence_1092
+1092_12	relcl	1092_9
+1092_12	has_surface_form	specializes
+1092_13	is_in_sentence	sentence_1092
+1092_13	prep	1092_12
+1092_13	has_surface_form	in
+1092_14	is_in_sentence	sentence_1092
+1092_14	pobj	1092_13
+1092_14	has_surface_form	films
+1092_15	is_in_sentence	sentence_1092
+1092_15	acl	1092_14
+1092_15	has_surface_form	focusing
+1092_16	is_in_sentence	sentence_1092
+1092_16	prep	1092_15
+1092_16	has_surface_form	on
+1092_17	is_in_sentence	sentence_1092
+1092_17	amod	1092_18
+1092_17	has_surface_form	heavy
+1092_18	is_in_sentence	sentence_1092
+1092_18	compound	1092_19
+1092_18	has_surface_form	metal
+1092_19	is_in_sentence	sentence_1092
+1092_19	pobj	1092_16
+1092_19	has_surface_form	music
+1092_20	is_in_sentence	sentence_1092
+1092_20	cc	1092_19
+1092_20	has_surface_form	and
+1092_21	is_in_sentence	sentence_1092
+1092_21	conj	1092_19
+1092_21	has_surface_form	culture
+1092_22	is_in_sentence	sentence_1092
+1092_22	punct	1092_2
+1092_22	has_surface_form	.
+1092_23	is_in_sentence	sentence_1092
+1092_23	dep	1092_23
+1092_23	has_surface_form	
+Banger Films	surface_form	Banger Films
+Banger Films	has-type	production company
+production company	surface_form	production company

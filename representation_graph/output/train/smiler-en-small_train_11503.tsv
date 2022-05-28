@@ -1,0 +1,38 @@
+11502_0	is_in_sentence	sentence_11502
+11502_0	compound	11502_1
+11502_0	has_surface_form	Anchor
+11502_0	part_of_entity	Anchor Street
+11502_1	is_in_sentence	sentence_11502
+11502_1	nsubj	11502_2
+11502_1	has_surface_form	Street
+11502_1	part_of_entity	Anchor Street
+11502_2	is_in_sentence	sentence_11502
+11502_2	ROOT	11502_2
+11502_2	has_surface_form	is
+11502_3	is_in_sentence	sentence_11502
+11502_3	det	11502_4
+11502_3	has_surface_form	a
+11502_4	is_in_sentence	sentence_11502
+11502_4	attr	11502_2
+11502_4	has_surface_form	village
+11502_5	is_in_sentence	sentence_11502
+11502_5	prep	11502_4
+11502_5	has_surface_form	in
+11502_6	is_in_sentence	sentence_11502
+11502_6	pobj	11502_5
+11502_6	is_entity	Norfolk
+Norfolk	surface_form	Norfolk
+11502_7	is_in_sentence	sentence_11502
+11502_7	punct	11502_6
+11502_7	has_surface_form	,
+11502_8	is_in_sentence	sentence_11502
+11502_8	appos	11502_6
+11502_8	has_surface_form	England
+11502_9	is_in_sentence	sentence_11502
+11502_9	punct	11502_2
+11502_9	has_surface_form	.
+11502_10	is_in_sentence	sentence_11502
+11502_10	dep	11502_2
+11502_10	has_surface_form	
+Anchor Street	surface_form	Anchor Street
+Anchor Street	is-where	Norfolk

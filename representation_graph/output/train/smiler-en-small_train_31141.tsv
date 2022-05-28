@@ -1,0 +1,105 @@
+31140_0	is_in_sentence	sentence_31140
+31140_0	compound	31140_1
+31140_0	has_surface_form	John
+31140_0	part_of_entity	John William
+31140_1	is_in_sentence	sentence_31140
+31140_1	nsubj	31140_5
+31140_1	has_surface_form	William
+31140_1	part_of_entity	John William
+31140_5	is_in_sentence	sentence_31140
+31140_5	ROOT	31140_5
+31140_5	has_surface_form	had
+31140_2	is_in_sentence	sentence_31140
+31140_2	cc	31140_1
+31140_2	has_surface_form	and
+31140_3	is_in_sentence	sentence_31140
+31140_3	compound	31140_4
+31140_3	has_surface_form	Ernle
+31140_4	is_in_sentence	sentence_31140
+31140_4	conj	31140_1
+31140_4	has_surface_form	Elizabeth
+31140_6	is_in_sentence	sentence_31140
+31140_6	nummod	31140_7
+31140_6	has_surface_form	two
+31140_7	is_in_sentence	sentence_31140
+31140_7	dobj	31140_5
+31140_7	has_surface_form	sons
+31140_8	is_in_sentence	sentence_31140
+31140_8	punct	31140_7
+31140_8	has_surface_form	,
+31140_9	is_in_sentence	sentence_31140
+31140_9	det	31140_10
+31140_9	has_surface_form	the
+31140_10	is_in_sentence	sentence_31140
+31140_10	compound	31140_14
+31140_10	has_surface_form	author
+31140_14	is_in_sentence	sentence_31140
+31140_14	appos	31140_7
+31140_14	has_surface_form	Drax
+31140_14	part_of_entity	Edward John Moreton Drax
+31140_11	is_in_sentence	sentence_31140
+31140_11	compound	31140_14
+31140_11	has_surface_form	Edward
+31140_11	part_of_entity	Edward John Moreton Drax
+31140_12	is_in_sentence	sentence_31140
+31140_12	compound	31140_14
+31140_12	has_surface_form	John
+31140_12	part_of_entity	Edward John Moreton Drax
+31140_13	is_in_sentence	sentence_31140
+31140_13	compound	31140_14
+31140_13	has_surface_form	Moreton
+31140_13	part_of_entity	Edward John Moreton Drax
+31140_15	is_in_sentence	sentence_31140
+31140_15	cc	31140_14
+31140_15	has_surface_form	and
+31140_16	is_in_sentence	sentence_31140
+31140_16	compound	31140_21
+31140_16	has_surface_form	Admiral
+31140_21	is_in_sentence	sentence_31140
+31140_21	conj	31140_14
+31140_21	has_surface_form	Aylmer
+31140_17	is_in_sentence	sentence_31140
+31140_17	det	31140_21
+31140_17	has_surface_form	The
+31140_18	is_in_sentence	sentence_31140
+31140_18	amod	31140_21
+31140_18	has_surface_form	Honourable
+31140_19	is_in_sentence	sentence_31140
+31140_19	compound	31140_21
+31140_19	has_surface_form	Sir
+31140_20	is_in_sentence	sentence_31140
+31140_20	compound	31140_21
+31140_20	has_surface_form	Reginald
+31140_22	is_in_sentence	sentence_31140
+31140_22	compound	31140_29
+31140_22	has_surface_form	Ranfurly
+31140_29	is_in_sentence	sentence_31140
+31140_29	ROOT	31140_29
+31140_29	has_surface_form	Drax
+31140_23	is_in_sentence	sentence_31140
+31140_23	compound	31140_29
+31140_23	has_surface_form	Plunkett
+31140_24	is_in_sentence	sentence_31140
+31140_24	punct	31140_29
+31140_24	has_surface_form	-
+31140_25	is_in_sentence	sentence_31140
+31140_25	compound	31140_29
+31140_25	has_surface_form	Ernle
+31140_26	is_in_sentence	sentence_31140
+31140_26	punct	31140_29
+31140_26	has_surface_form	-
+31140_27	is_in_sentence	sentence_31140
+31140_27	compound	31140_29
+31140_27	has_surface_form	Erle
+31140_28	is_in_sentence	sentence_31140
+31140_28	punct	31140_29
+31140_28	has_surface_form	-
+31140_30	is_in_sentence	sentence_31140
+31140_30	punct	31140_29
+31140_30	has_surface_form	.
+31140_31	is_in_sentence	sentence_31140
+31140_31	dep	31140_31
+31140_31	has_surface_form	
+John William	surface_form	John William
+John William	has-child	Edward John Moreton Drax
+Edward John Moreton Drax	surface_form	Edward John Moreton Drax

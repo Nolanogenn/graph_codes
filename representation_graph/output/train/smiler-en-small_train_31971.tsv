@@ -1,0 +1,59 @@
+31970_0	is_in_sentence	sentence_31970
+31970_0	compound	31970_1
+31970_0	has_surface_form	Calico
+31970_0	part_of_entity	Calico Sunset
+31970_1	is_in_sentence	sentence_31970
+31970_1	nsubj	31970_2
+31970_1	has_surface_form	Sunset
+31970_1	part_of_entity	Calico Sunset
+31970_2	is_in_sentence	sentence_31970
+31970_2	ROOT	31970_2
+31970_2	has_surface_form	is
+31970_3	is_in_sentence	sentence_31970
+31970_3	det	31970_10
+31970_3	has_surface_form	a
+31970_10	is_in_sentence	sentence_31970
+31970_10	attr	31970_2
+31970_10	has_surface_form	band
+31970_4	is_in_sentence	sentence_31970
+31970_4	nmod	31970_10
+31970_4	has_surface_form	Bakersfield
+31970_5	is_in_sentence	sentence_31970
+31970_5	punct	31970_10
+31970_5	has_surface_form	,
+31970_6	is_in_sentence	sentence_31970
+31970_6	npadvmod	31970_8
+31970_6	has_surface_form	California
+31970_8	is_in_sentence	sentence_31970
+31970_8	amod	31970_10
+31970_8	has_surface_form	based
+31970_7	is_in_sentence	sentence_31970
+31970_7	punct	31970_8
+31970_7	has_surface_form	-
+31970_9	is_in_sentence	sentence_31970
+31970_9	amod	31970_10
+31970_9	has_surface_form	electropop
+31970_11	is_in_sentence	sentence_31970
+31970_11	punct	31970_2
+31970_11	has_surface_form	,
+31970_12	is_in_sentence	sentence_31970
+31970_12	advcl	31970_2
+31970_12	has_surface_form	comprising
+31970_13	is_in_sentence	sentence_31970
+31970_13	dobj	31970_12
+31970_13	is_entity	Joseph
+Joseph	surface_form	Joseph
+31970_14	is_in_sentence	sentence_31970
+31970_14	cc	31970_13
+31970_14	has_surface_form	and
+31970_15	is_in_sentence	sentence_31970
+31970_15	conj	31970_13
+31970_15	has_surface_form	Jenny
+31970_16	is_in_sentence	sentence_31970
+31970_16	punct	31970_2
+31970_16	has_surface_form	.
+31970_17	is_in_sentence	sentence_31970
+31970_17	dep	31970_17
+31970_17	has_surface_form	
+Calico Sunset	surface_form	Calico Sunset
+Calico Sunset	org-has-member	Joseph

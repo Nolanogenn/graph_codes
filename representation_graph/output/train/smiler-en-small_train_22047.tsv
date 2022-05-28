@@ -1,0 +1,91 @@
+22046_0	is_in_sentence	sentence_22046
+22046_0	compound	22046_1
+22046_0	has_surface_form	Zweibrücken
+22046_0	part_of_entity	Zweibrücken Hauptbahnhof
+22046_1	is_in_sentence	sentence_22046
+22046_1	nsubj	22046_2
+22046_1	has_surface_form	Hauptbahnhof
+22046_1	part_of_entity	Zweibrücken Hauptbahnhof
+22046_2	is_in_sentence	sentence_22046
+22046_2	ROOT	22046_2
+22046_2	has_surface_form	is
+22046_3	is_in_sentence	sentence_22046
+22046_3	det	22046_5
+22046_3	has_surface_form	a
+22046_5	is_in_sentence	sentence_22046
+22046_5	attr	22046_2
+22046_5	has_surface_form	station
+22046_5	part_of_entity	through station
+22046_4	is_in_sentence	sentence_22046
+22046_4	amod	22046_5
+22046_4	has_surface_form	through
+22046_4	part_of_entity	through station
+22046_6	is_in_sentence	sentence_22046
+22046_6	prep	22046_5
+22046_6	has_surface_form	with
+22046_7	is_in_sentence	sentence_22046
+22046_7	nummod	22046_8
+22046_7	has_surface_form	two
+22046_8	is_in_sentence	sentence_22046
+22046_8	pobj	22046_6
+22046_8	has_surface_form	platforms
+22046_9	is_in_sentence	sentence_22046
+22046_9	cc	22046_8
+22046_9	has_surface_form	and
+22046_10	is_in_sentence	sentence_22046
+22046_10	nummod	22046_12
+22046_10	has_surface_form	three
+22046_12	is_in_sentence	sentence_22046
+22046_12	conj	22046_8
+22046_12	has_surface_form	tracks
+22046_11	is_in_sentence	sentence_22046
+22046_11	compound	22046_12
+22046_11	has_surface_form	platform
+22046_13	is_in_sentence	sentence_22046
+22046_13	prep	22046_12
+22046_13	has_surface_form	in
+22046_14	is_in_sentence	sentence_22046
+22046_14	det	22046_15
+22046_14	has_surface_form	the
+22046_15	is_in_sentence	sentence_22046
+22046_15	pobj	22046_13
+22046_15	has_surface_form	city
+22046_16	is_in_sentence	sentence_22046
+22046_16	prep	22046_15
+22046_16	has_surface_form	of
+22046_17	is_in_sentence	sentence_22046
+22046_17	pobj	22046_16
+22046_17	has_surface_form	Zweibrücken
+22046_18	is_in_sentence	sentence_22046
+22046_18	prep	22046_8
+22046_18	has_surface_form	in
+22046_19	is_in_sentence	sentence_22046
+22046_19	det	22046_21
+22046_19	has_surface_form	the
+22046_21	is_in_sentence	sentence_22046
+22046_21	pobj	22046_18
+22046_21	has_surface_form	state
+22046_20	is_in_sentence	sentence_22046
+22046_20	amod	22046_21
+22046_20	has_surface_form	German
+22046_22	is_in_sentence	sentence_22046
+22046_22	prep	22046_21
+22046_22	has_surface_form	of
+22046_23	is_in_sentence	sentence_22046
+22046_23	compound	22046_25
+22046_23	has_surface_form	Rhineland
+22046_25	is_in_sentence	sentence_22046
+22046_25	pobj	22046_22
+22046_25	has_surface_form	Palatinate
+22046_24	is_in_sentence	sentence_22046
+22046_24	punct	22046_25
+22046_24	has_surface_form	-
+22046_26	is_in_sentence	sentence_22046
+22046_26	punct	22046_2
+22046_26	has_surface_form	.
+22046_27	is_in_sentence	sentence_22046
+22046_27	dep	22046_2
+22046_27	has_surface_form	
+Zweibrücken Hauptbahnhof	surface_form	Zweibrücken Hauptbahnhof
+Zweibrücken Hauptbahnhof	has-type	through station
+through station	surface_form	through station

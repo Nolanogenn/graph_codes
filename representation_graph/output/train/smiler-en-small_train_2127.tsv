@@ -1,0 +1,53 @@
+2126_0	is_in_sentence	sentence_2126
+2126_0	compound	2126_1
+2126_0	has_surface_form	Marina
+2126_0	part_of_entity	Marina Weisband
+2126_1	is_in_sentence	sentence_2126
+2126_1	nsubj	2126_10
+2126_1	has_surface_form	Weisband
+2126_1	part_of_entity	Marina Weisband
+2126_10	is_in_sentence	sentence_2126
+2126_10	ROOT	2126_10
+2126_10	has_surface_form	is
+2126_2	is_in_sentence	sentence_2126
+2126_2	punct	2126_1
+2126_2	has_surface_form	(
+2126_3	is_in_sentence	sentence_2126
+2126_3	acl	2126_1
+2126_3	has_surface_form	born
+2126_4	is_in_sentence	sentence_2126
+2126_4	nummod	2126_5
+2126_4	has_surface_form	4
+2126_5	is_in_sentence	sentence_2126
+2126_5	npadvmod	2126_3
+2126_5	has_surface_form	October
+2126_6	is_in_sentence	sentence_2126
+2126_6	nummod	2126_5
+2126_6	has_surface_form	1987
+2126_7	is_in_sentence	sentence_2126
+2126_7	prep	2126_3
+2126_7	has_surface_form	in
+2126_8	is_in_sentence	sentence_2126
+2126_8	pobj	2126_7
+2126_8	is_entity	Kiev
+Kiev	surface_form	Kiev
+2126_9	is_in_sentence	sentence_2126
+2126_9	punct	2126_1
+2126_9	has_surface_form	)
+2126_11	is_in_sentence	sentence_2126
+2126_11	det	2126_13
+2126_11	has_surface_form	a
+2126_13	is_in_sentence	sentence_2126
+2126_13	attr	2126_10
+2126_13	has_surface_form	politician
+2126_12	is_in_sentence	sentence_2126
+2126_12	amod	2126_13
+2126_12	has_surface_form	German
+2126_14	is_in_sentence	sentence_2126
+2126_14	punct	2126_10
+2126_14	has_surface_form	.
+2126_15	is_in_sentence	sentence_2126
+2126_15	dep	2126_10
+2126_15	has_surface_form	
+Marina Weisband	surface_form	Marina Weisband
+Marina Weisband	birth-place	Kiev

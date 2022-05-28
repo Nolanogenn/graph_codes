@@ -1,0 +1,56 @@
+15233_0	is_in_sentence	sentence_15233
+15233_0	compound	15233_1
+15233_0	has_surface_form	Davetta
+15233_0	part_of_entity	Davetta Sherwood
+15233_1	is_in_sentence	sentence_15233
+15233_1	nsubj	15233_9
+15233_1	has_surface_form	Sherwood
+15233_1	part_of_entity	Davetta Sherwood
+15233_9	is_in_sentence	sentence_15233
+15233_9	ROOT	15233_9
+15233_9	has_surface_form	is
+15233_2	is_in_sentence	sentence_15233
+15233_2	punct	15233_1
+15233_2	has_surface_form	(
+15233_3	is_in_sentence	sentence_15233
+15233_3	acl	15233_1
+15233_3	has_surface_form	born
+15233_4	is_in_sentence	sentence_15233
+15233_4	npadvmod	15233_3
+15233_4	has_surface_form	January
+15233_5	is_in_sentence	sentence_15233
+15233_5	nummod	15233_4
+15233_5	has_surface_form	27
+15233_6	is_in_sentence	sentence_15233
+15233_6	punct	15233_4
+15233_6	has_surface_form	,
+15233_7	is_in_sentence	sentence_15233
+15233_7	nummod	15233_4
+15233_7	has_surface_form	1984
+15233_8	is_in_sentence	sentence_15233
+15233_8	punct	15233_1
+15233_8	has_surface_form	)
+15233_10	is_in_sentence	sentence_15233
+15233_10	det	15233_12
+15233_10	has_surface_form	an
+15233_12	is_in_sentence	sentence_15233
+15233_12	attr	15233_9
+15233_12	has_surface_form	actress
+15233_11	is_in_sentence	sentence_15233
+15233_11	amod	15233_12
+15233_11	has_surface_form	American
+15233_13	is_in_sentence	sentence_15233
+15233_13	cc	15233_12
+15233_13	has_surface_form	and
+15233_14	is_in_sentence	sentence_15233
+15233_14	conj	15233_12
+15233_14	is_entity	musician
+musician	surface_form	musician
+15233_15	is_in_sentence	sentence_15233
+15233_15	punct	15233_9
+15233_15	has_surface_form	.
+15233_16	is_in_sentence	sentence_15233
+15233_16	dep	15233_16
+15233_16	has_surface_form	
+Davetta Sherwood	surface_form	Davetta Sherwood
+Davetta Sherwood	has-occupation	musician

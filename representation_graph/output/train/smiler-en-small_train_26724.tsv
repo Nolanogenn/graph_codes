@@ -1,0 +1,43 @@
+26723_0	is_in_sentence	sentence_26723
+26723_0	nsubj	26723_1
+26723_0	has_surface_form	Cavendish
+26723_1	is_in_sentence	sentence_26723
+26723_1	amod	26723_4
+26723_1	has_surface_form	married
+26723_4	is_in_sentence	sentence_26723
+26723_4	ROOT	26723_4
+26723_4	has_surface_form	Lucas
+26723_4	part_of_entity	Margaret Lucas
+26723_2	is_in_sentence	sentence_26723
+26723_2	advmod	26723_1
+26723_2	has_surface_form	secondly
+26723_3	is_in_sentence	sentence_26723
+26723_3	compound	26723_4
+26723_3	has_surface_form	Margaret
+26723_3	part_of_entity	Margaret Lucas
+26723_5	is_in_sentence	sentence_26723
+26723_5	punct	26723_4
+26723_5	has_surface_form	,
+26723_6	is_in_sentence	sentence_26723
+26723_6	appos	26723_4
+26723_6	has_surface_form	sister
+26723_7	is_in_sentence	sentence_26723
+26723_7	prep	26723_6
+26723_7	has_surface_form	of
+26723_8	is_in_sentence	sentence_26723
+26723_8	compound	26723_9
+26723_8	has_surface_form	Lord
+26723_8	part_of_entity	Lord Lucas
+26723_9	is_in_sentence	sentence_26723
+26723_9	pobj	26723_7
+26723_9	has_surface_form	Lucas
+26723_9	part_of_entity	Lord Lucas
+26723_10	is_in_sentence	sentence_26723
+26723_10	punct	26723_4
+26723_10	has_surface_form	.
+26723_11	is_in_sentence	sentence_26723
+26723_11	dep	26723_11
+26723_11	has_surface_form	
+Margaret Lucas	surface_form	Margaret Lucas
+Margaret Lucas	has-sibling	Lord Lucas
+Lord Lucas	surface_form	Lord Lucas

@@ -1,0 +1,70 @@
+32640_0	is_in_sentence	sentence_32640
+32640_0	compound	32640_1
+32640_0	has_surface_form	Sevatha
+32640_0	part_of_entity	Sevatha Ponnu
+32640_1	is_in_sentence	sentence_32640
+32640_1	nsubj	32640_8
+32640_1	has_surface_form	Ponnu
+32640_1	part_of_entity	Sevatha Ponnu
+32640_8	is_in_sentence	sentence_32640
+32640_8	ROOT	32640_8
+32640_8	has_surface_form	is
+32640_2	is_in_sentence	sentence_32640
+32640_2	punct	32640_3
+32640_2	has_surface_form	(
+32640_3	is_in_sentence	sentence_32640
+32640_3	appos	32640_1
+32640_3	has_surface_form	English
+32640_4	is_in_sentence	sentence_32640
+32640_4	punct	32640_3
+32640_4	has_surface_form	:
+32640_5	is_in_sentence	sentence_32640
+32640_5	compound	32640_6
+32640_5	has_surface_form	Fair
+32640_6	is_in_sentence	sentence_32640
+32640_6	appos	32640_3
+32640_6	has_surface_form	Girl
+32640_7	is_in_sentence	sentence_32640
+32640_7	punct	32640_3
+32640_7	has_surface_form	)
+32640_9	is_in_sentence	sentence_32640
+32640_9	det	32640_13
+32640_9	has_surface_form	a
+32640_13	is_in_sentence	sentence_32640
+32640_13	attr	32640_8
+32640_13	has_surface_form	film
+32640_10	is_in_sentence	sentence_32640
+32640_10	nummod	32640_13
+32640_10	has_surface_form	1994
+32640_11	is_in_sentence	sentence_32640
+32640_11	compound	32640_13
+32640_11	has_surface_form	Tamil
+32640_12	is_in_sentence	sentence_32640
+32640_12	compound	32640_13
+32640_12	has_surface_form	drama
+32640_14	is_in_sentence	sentence_32640
+32640_14	punct	32640_13
+32640_14	has_surface_form	,
+32640_15	is_in_sentence	sentence_32640
+32640_15	acl	32640_13
+32640_15	has_surface_form	directed
+32640_16	is_in_sentence	sentence_32640
+32640_16	agent	32640_15
+32640_16	has_surface_form	by
+32640_17	is_in_sentence	sentence_32640
+32640_17	compound	32640_18
+32640_17	has_surface_form	A.
+32640_17	part_of_entity	A. Chandrakumar
+32640_18	is_in_sentence	sentence_32640
+32640_18	pobj	32640_16
+32640_18	has_surface_form	Chandrakumar
+32640_18	part_of_entity	A. Chandrakumar
+32640_19	is_in_sentence	sentence_32640
+32640_19	punct	32640_8
+32640_19	has_surface_form	.
+32640_20	is_in_sentence	sentence_32640
+32640_20	dep	32640_20
+32640_20	has_surface_form	
+Sevatha Ponnu	surface_form	Sevatha Ponnu
+Sevatha Ponnu	movie-has-director	A. Chandrakumar
+A. Chandrakumar	surface_form	A. Chandrakumar

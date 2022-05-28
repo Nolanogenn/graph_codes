@@ -1,0 +1,101 @@
+12296_0	is_in_sentence	sentence_12296
+12296_0	compound	12296_1
+12296_0	has_surface_form	Pennsylvania
+12296_0	part_of_entity	Pennsylvania Route 867
+12296_1	is_in_sentence	sentence_12296
+12296_1	nsubj	12296_7
+12296_1	has_surface_form	Route
+12296_1	part_of_entity	Pennsylvania Route 867
+12296_7	is_in_sentence	sentence_12296
+12296_7	ROOT	12296_7
+12296_7	has_surface_form	is
+12296_2	is_in_sentence	sentence_12296
+12296_2	nummod	12296_1
+12296_2	has_surface_form	867
+12296_2	part_of_entity	Pennsylvania Route 867
+12296_3	is_in_sentence	sentence_12296
+12296_3	punct	12296_1
+12296_3	has_surface_form	(
+12296_4	is_in_sentence	sentence_12296
+12296_4	appos	12296_1
+12296_4	has_surface_form	PA
+12296_5	is_in_sentence	sentence_12296
+12296_5	nummod	12296_4
+12296_5	has_surface_form	867
+12296_6	is_in_sentence	sentence_12296
+12296_6	punct	12296_4
+12296_6	has_surface_form	)
+12296_8	is_in_sentence	sentence_12296
+12296_8	det	12296_20
+12296_8	has_surface_form	a
+12296_20	is_in_sentence	sentence_12296
+12296_20	attr	12296_7
+12296_20	has_surface_form	highway
+12296_20	part_of_entity	state highway
+12296_9	is_in_sentence	sentence_12296
+12296_9	nummod	12296_11
+12296_9	has_surface_form	12
+12296_11	is_in_sentence	sentence_12296
+12296_11	npadvmod	12296_13
+12296_11	has_surface_form	mile
+12296_10	is_in_sentence	sentence_12296
+12296_10	punct	12296_11
+12296_10	has_surface_form	-
+12296_13	is_in_sentence	sentence_12296
+12296_13	amod	12296_20
+12296_13	has_surface_form	long
+12296_12	is_in_sentence	sentence_12296
+12296_12	punct	12296_13
+12296_12	has_surface_form	-
+12296_14	is_in_sentence	sentence_12296
+12296_14	punct	12296_20
+12296_14	has_surface_form	(
+12296_15	is_in_sentence	sentence_12296
+12296_15	nummod	12296_20
+12296_15	has_surface_form	19
+12296_16	is_in_sentence	sentence_12296
+12296_16	dep	12296_20
+12296_16	has_surface_form	 
+12296_17	is_in_sentence	sentence_12296
+12296_17	nmod	12296_20
+12296_17	has_surface_form	km
+12296_18	is_in_sentence	sentence_12296
+12296_18	punct	12296_20
+12296_18	has_surface_form	)
+12296_19	is_in_sentence	sentence_12296
+12296_19	compound	12296_20
+12296_19	has_surface_form	state
+12296_19	part_of_entity	state highway
+12296_21	is_in_sentence	sentence_12296
+12296_21	acl	12296_20
+12296_21	has_surface_form	located
+12296_22	is_in_sentence	sentence_12296
+12296_22	prep	12296_21
+12296_22	has_surface_form	in
+12296_23	is_in_sentence	sentence_12296
+12296_23	nmod	12296_26
+12296_23	has_surface_form	Bedford
+12296_26	is_in_sentence	sentence_12296
+12296_26	pobj	12296_22
+12296_26	has_surface_form	counties
+12296_24	is_in_sentence	sentence_12296
+12296_24	cc	12296_23
+12296_24	has_surface_form	and
+12296_25	is_in_sentence	sentence_12296
+12296_25	conj	12296_23
+12296_25	has_surface_form	Blair
+12296_27	is_in_sentence	sentence_12296
+12296_27	prep	12296_21
+12296_27	has_surface_form	in
+12296_28	is_in_sentence	sentence_12296
+12296_28	pobj	12296_27
+12296_28	has_surface_form	Pennsylvania
+12296_29	is_in_sentence	sentence_12296
+12296_29	punct	12296_7
+12296_29	has_surface_form	.
+12296_30	is_in_sentence	sentence_12296
+12296_30	dep	12296_30
+12296_30	has_surface_form	
+Pennsylvania Route 867	surface_form	Pennsylvania Route 867
+Pennsylvania Route 867	has-type	state highway
+state highway	surface_form	state highway

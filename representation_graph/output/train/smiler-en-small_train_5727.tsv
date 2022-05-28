@@ -1,0 +1,73 @@
+5726_0	is_in_sentence	sentence_5726
+5726_0	compound	5726_1
+5726_0	has_surface_form	Country
+5726_0	part_of_entity	Country Joe and the Fish
+5726_1	is_in_sentence	sentence_5726
+5726_1	nsubj	5726_5
+5726_1	has_surface_form	Joe
+5726_1	part_of_entity	Country Joe and the Fish
+5726_5	is_in_sentence	sentence_5726
+5726_5	ROOT	5726_5
+5726_5	has_surface_form	was
+5726_2	is_in_sentence	sentence_5726
+5726_2	cc	5726_1
+5726_2	has_surface_form	and
+5726_2	part_of_entity	Country Joe and the Fish
+5726_3	is_in_sentence	sentence_5726
+5726_3	det	5726_4
+5726_3	has_surface_form	the
+5726_3	part_of_entity	Country Joe and the Fish
+5726_4	is_in_sentence	sentence_5726
+5726_4	conj	5726_1
+5726_4	has_surface_form	Fish
+5726_4	part_of_entity	Country Joe and the Fish
+5726_6	is_in_sentence	sentence_5726
+5726_6	det	5726_10
+5726_6	has_surface_form	an
+5726_10	is_in_sentence	sentence_5726
+5726_10	attr	5726_5
+5726_10	has_surface_form	band
+5726_7	is_in_sentence	sentence_5726
+5726_7	amod	5726_10
+5726_7	has_surface_form	American
+5726_8	is_in_sentence	sentence_5726
+5726_8	amod	5726_10
+5726_8	has_surface_form	psychedelic
+5726_8	part_of_entity	psychedelic rock
+5726_9	is_in_sentence	sentence_5726
+5726_9	compound	5726_10
+5726_9	has_surface_form	rock
+5726_9	part_of_entity	psychedelic rock
+5726_11	is_in_sentence	sentence_5726
+5726_11	acl	5726_10
+5726_11	has_surface_form	formed
+5726_12	is_in_sentence	sentence_5726
+5726_12	prep	5726_11
+5726_12	has_surface_form	in
+5726_13	is_in_sentence	sentence_5726
+5726_13	pobj	5726_12
+5726_13	has_surface_form	Berkeley
+5726_14	is_in_sentence	sentence_5726
+5726_14	punct	5726_13
+5726_14	has_surface_form	,
+5726_15	is_in_sentence	sentence_5726
+5726_15	appos	5726_13
+5726_15	has_surface_form	California
+5726_16	is_in_sentence	sentence_5726
+5726_16	punct	5726_5
+5726_16	has_surface_form	,
+5726_17	is_in_sentence	sentence_5726
+5726_17	prep	5726_5
+5726_17	has_surface_form	in
+5726_18	is_in_sentence	sentence_5726
+5726_18	pobj	5726_17
+5726_18	has_surface_form	1965
+5726_19	is_in_sentence	sentence_5726
+5726_19	punct	5726_5
+5726_19	has_surface_form	.
+5726_20	is_in_sentence	sentence_5726
+5726_20	dep	5726_20
+5726_20	has_surface_form	
+Country Joe and the Fish	surface_form	Country Joe and the Fish
+Country Joe and the Fish	has-genre	psychedelic rock
+psychedelic rock	surface_form	psychedelic rock

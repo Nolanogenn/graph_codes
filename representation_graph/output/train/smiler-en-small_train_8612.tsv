@@ -1,0 +1,57 @@
+8611_0	is_in_sentence	sentence_8611
+8611_0	compound	8611_2
+8611_0	has_surface_form	Brophy
+8611_0	part_of_entity	Brophy College Preparatory
+8611_2	is_in_sentence	sentence_8611
+8611_2	nsubj	8611_3
+8611_2	has_surface_form	Preparatory
+8611_2	part_of_entity	Brophy College Preparatory
+8611_1	is_in_sentence	sentence_8611
+8611_1	compound	8611_2
+8611_1	has_surface_form	College
+8611_1	part_of_entity	Brophy College Preparatory
+8611_3	is_in_sentence	sentence_8611
+8611_3	ROOT	8611_3
+8611_3	has_surface_form	is
+8611_4	is_in_sentence	sentence_8611
+8611_4	det	8611_7
+8611_4	has_surface_form	a
+8611_7	is_in_sentence	sentence_8611
+8611_7	attr	8611_3
+8611_7	has_surface_form	school
+8611_5	is_in_sentence	sentence_8611
+8611_5	nmod	8611_7
+8611_5	has_surface_form	Jesuit
+8611_6	is_in_sentence	sentence_8611
+8611_6	amod	8611_7
+8611_6	has_surface_form	high
+8611_8	is_in_sentence	sentence_8611
+8611_8	prep	8611_7
+8611_8	has_surface_form	in
+8611_9	is_in_sentence	sentence_8611
+8611_9	pobj	8611_8
+8611_9	has_surface_form	Phoenix
+8611_10	is_in_sentence	sentence_8611
+8611_10	punct	8611_9
+8611_10	has_surface_form	,
+8611_11	is_in_sentence	sentence_8611
+8611_11	conj	8611_9
+8611_11	has_surface_form	Arizona
+8611_12	is_in_sentence	sentence_8611
+8611_12	punct	8611_11
+8611_12	has_surface_form	,
+8611_13	is_in_sentence	sentence_8611
+8611_13	compound	8611_14
+8611_13	has_surface_form	United
+8611_14	is_in_sentence	sentence_8611
+8611_14	conj	8611_11
+8611_14	has_surface_form	States
+8611_15	is_in_sentence	sentence_8611
+8611_15	punct	8611_3
+8611_15	has_surface_form	.
+8611_16	is_in_sentence	sentence_8611
+8611_16	dep	8611_3
+8611_16	has_surface_form	
+Brophy College Preparatory	surface_form	Brophy College Preparatory
+Brophy College Preparatory	is-where	Phoenix, Arizona
+Phoenix, Arizona	surface_form	Phoenix, Arizona

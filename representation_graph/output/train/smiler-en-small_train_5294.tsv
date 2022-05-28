@@ -1,0 +1,44 @@
+5293_0	is_in_sentence	sentence_5293
+5293_0	compound	5293_1
+5293_0	has_surface_form	Gerd
+5293_0	part_of_entity	Gerd Henneberg
+5293_1	is_in_sentence	sentence_5293
+5293_1	poss	5293_3
+5293_1	has_surface_form	Henneberg
+5293_1	part_of_entity	Gerd Henneberg
+5293_3	is_in_sentence	sentence_5293
+5293_3	nsubj	5293_7
+5293_3	has_surface_form	father
+5293_2	is_in_sentence	sentence_5293
+5293_2	case	5293_1
+5293_2	has_surface_form	's
+5293_7	is_in_sentence	sentence_5293
+5293_7	ROOT	5293_7
+5293_7	has_surface_form	was
+5293_4	is_in_sentence	sentence_5293
+5293_4	punct	5293_3
+5293_4	has_surface_form	,
+5293_5	is_in_sentence	sentence_5293
+5293_5	appos	5293_3
+5293_5	is_entity	Richard
+Richard	surface_form	Richard
+5293_6	is_in_sentence	sentence_5293
+5293_6	punct	5293_3
+5293_6	has_surface_form	,
+5293_8	is_in_sentence	sentence_5293
+5293_8	det	5293_10
+5293_8	has_surface_form	a
+5293_10	is_in_sentence	sentence_5293
+5293_10	attr	5293_7
+5293_10	has_surface_form	director
+5293_9	is_in_sentence	sentence_5293
+5293_9	compound	5293_10
+5293_9	has_surface_form	theater
+5293_11	is_in_sentence	sentence_5293
+5293_11	punct	5293_7
+5293_11	has_surface_form	.
+5293_12	is_in_sentence	sentence_5293
+5293_12	dep	5293_12
+5293_12	has_surface_form	
+Gerd Henneberg	surface_form	Gerd Henneberg
+Gerd Henneberg	has-parent	Richard

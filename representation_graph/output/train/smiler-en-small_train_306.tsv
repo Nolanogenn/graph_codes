@@ -1,0 +1,65 @@
+305_0	is_in_sentence	sentence_305
+305_0	compound	305_1
+305_0	has_surface_form	Pavel
+305_0	part_of_entity	Pavel Derevyanko
+305_1	is_in_sentence	sentence_305
+305_1	nsubjpass	305_3
+305_1	has_surface_form	Derevyanko
+305_1	part_of_entity	Pavel Derevyanko
+305_3	is_in_sentence	sentence_305
+305_3	ROOT	305_3
+305_3	has_surface_form	born
+305_2	is_in_sentence	sentence_305
+305_2	auxpass	305_3
+305_2	has_surface_form	was
+305_4	is_in_sentence	sentence_305
+305_4	prep	305_3
+305_4	has_surface_form	in
+305_5	is_in_sentence	sentence_305
+305_5	det	305_6
+305_5	has_surface_form	the
+305_6	is_in_sentence	sentence_305
+305_6	pobj	305_4
+305_6	has_surface_form	city
+305_7	is_in_sentence	sentence_305
+305_7	prep	305_6
+305_7	has_surface_form	of
+305_8	is_in_sentence	sentence_305
+305_8	nmod	305_11
+305_8	is_entity	Taganrog
+305_11	is_in_sentence	sentence_305
+305_11	pobj	305_7
+305_11	has_surface_form	Oblast
+Taganrog	surface_form	Taganrog
+305_9	is_in_sentence	sentence_305
+305_9	punct	305_11
+305_9	has_surface_form	,
+305_10	is_in_sentence	sentence_305
+305_10	compound	305_11
+305_10	has_surface_form	Rostov
+305_12	is_in_sentence	sentence_305
+305_12	punct	305_11
+305_12	has_surface_form	,
+305_13	is_in_sentence	sentence_305
+305_13	amod	305_14
+305_13	has_surface_form	Russian
+305_14	is_in_sentence	sentence_305
+305_14	conj	305_11
+305_14	has_surface_form	SFSR
+305_15	is_in_sentence	sentence_305
+305_15	punct	305_14
+305_15	has_surface_form	,
+305_16	is_in_sentence	sentence_305
+305_16	compound	305_17
+305_16	has_surface_form	Soviet
+305_17	is_in_sentence	sentence_305
+305_17	appos	305_14
+305_17	has_surface_form	Union
+305_18	is_in_sentence	sentence_305
+305_18	punct	305_3
+305_18	has_surface_form	.
+305_19	is_in_sentence	sentence_305
+305_19	dep	305_3
+305_19	has_surface_form	
+Pavel Derevyanko	surface_form	Pavel Derevyanko
+Pavel Derevyanko	birth-place	Taganrog

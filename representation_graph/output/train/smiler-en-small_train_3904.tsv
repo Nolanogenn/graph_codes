@@ -1,0 +1,90 @@
+3903_0	is_in_sentence	sentence_3903
+3903_0	compound	3903_1
+3903_0	has_surface_form	China
+3903_0	part_of_entity	China University of Science and Technology
+3903_1	is_in_sentence	sentence_3903
+3903_1	nsubj	3903_13
+3903_1	has_surface_form	University
+3903_1	part_of_entity	China University of Science and Technology
+3903_13	is_in_sentence	sentence_3903
+3903_13	ROOT	3903_13
+3903_13	has_surface_form	is
+3903_2	is_in_sentence	sentence_3903
+3903_2	prep	3903_1
+3903_2	has_surface_form	of
+3903_2	part_of_entity	China University of Science and Technology
+3903_3	is_in_sentence	sentence_3903
+3903_3	pobj	3903_2
+3903_3	has_surface_form	Science
+3903_3	part_of_entity	China University of Science and Technology
+3903_4	is_in_sentence	sentence_3903
+3903_4	cc	3903_3
+3903_4	has_surface_form	and
+3903_4	part_of_entity	China University of Science and Technology
+3903_5	is_in_sentence	sentence_3903
+3903_5	conj	3903_3
+3903_5	has_surface_form	Technology
+3903_5	part_of_entity	China University of Science and Technology
+3903_6	is_in_sentence	sentence_3903
+3903_6	punct	3903_7
+3903_6	has_surface_form	(
+3903_7	is_in_sentence	sentence_3903
+3903_7	appos	3903_1
+3903_7	has_surface_form	CUST
+3903_8	is_in_sentence	sentence_3903
+3903_8	punct	3903_1
+3903_8	has_surface_form	;
+3903_9	is_in_sentence	sentence_3903
+3903_9	appos	3903_1
+3903_9	has_surface_form	Chinese
+3903_10	is_in_sentence	sentence_3903
+3903_10	punct	3903_9
+3903_10	has_surface_form	:
+3903_11	is_in_sentence	sentence_3903
+3903_11	appos	3903_9
+3903_11	has_surface_form	中華科技大學
+3903_12	is_in_sentence	sentence_3903
+3903_12	punct	3903_9
+3903_12	has_surface_form	)
+3903_14	is_in_sentence	sentence_3903
+3903_14	det	3903_16
+3903_14	has_surface_form	a
+3903_16	is_in_sentence	sentence_3903
+3903_16	attr	3903_13
+3903_16	has_surface_form	university
+3903_15	is_in_sentence	sentence_3903
+3903_15	amod	3903_16
+3903_15	has_surface_form	private
+3903_17	is_in_sentence	sentence_3903
+3903_17	acl	3903_16
+3903_17	has_surface_form	located
+3903_18	is_in_sentence	sentence_3903
+3903_18	prep	3903_17
+3903_18	has_surface_form	in
+3903_19	is_in_sentence	sentence_3903
+3903_19	compound	3903_20
+3903_19	has_surface_form	Nangang
+3903_20	is_in_sentence	sentence_3903
+3903_20	pobj	3903_18
+3903_20	has_surface_form	District
+3903_21	is_in_sentence	sentence_3903
+3903_21	punct	3903_20
+3903_21	has_surface_form	,
+3903_22	is_in_sentence	sentence_3903
+3903_22	conj	3903_20
+3903_22	has_surface_form	Taipei
+3903_23	is_in_sentence	sentence_3903
+3903_23	punct	3903_22
+3903_23	has_surface_form	,
+3903_24	is_in_sentence	sentence_3903
+3903_24	appos	3903_22
+3903_24	has_surface_form	Taiwan
+3903_25	is_in_sentence	sentence_3903
+3903_25	punct	3903_13
+3903_25	has_surface_form	.
+3903_26	is_in_sentence	sentence_3903
+3903_26	dep	3903_26
+3903_26	has_surface_form	
+China University of Science and Technology	surface_form	China University of Science and Technology
+China University of Science and Technology	is-where	Nangang District, Taipei
+Nangang District, Taipei	surface_form	Nangang District, Taipei

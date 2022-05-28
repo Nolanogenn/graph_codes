@@ -1,0 +1,70 @@
+8090_0	is_in_sentence	sentence_8090
+8090_0	compound	8090_1
+8090_0	has_surface_form	Sundown
+8090_0	part_of_entity	Sundown Jim
+8090_1	is_in_sentence	sentence_8090
+8090_1	nsubj	8090_2
+8090_1	has_surface_form	Jim
+8090_1	part_of_entity	Sundown Jim
+8090_2	is_in_sentence	sentence_8090
+8090_2	ROOT	8090_2
+8090_2	has_surface_form	is
+8090_3	is_in_sentence	sentence_8090
+8090_3	det	8090_7
+8090_3	has_surface_form	a
+8090_7	is_in_sentence	sentence_8090
+8090_7	attr	8090_2
+8090_7	has_surface_form	film
+8090_4	is_in_sentence	sentence_8090
+8090_4	nummod	8090_7
+8090_4	has_surface_form	1942
+8090_5	is_in_sentence	sentence_8090
+8090_5	amod	8090_7
+8090_5	has_surface_form	American
+8090_6	is_in_sentence	sentence_8090
+8090_6	amod	8090_7
+8090_6	has_surface_form	Western
+8090_8	is_in_sentence	sentence_8090
+8090_8	acl	8090_7
+8090_8	has_surface_form	directed
+8090_9	is_in_sentence	sentence_8090
+8090_9	agent	8090_8
+8090_9	has_surface_form	by
+8090_10	is_in_sentence	sentence_8090
+8090_10	compound	8090_11
+8090_10	has_surface_form	James
+8090_10	part_of_entity	James Tinling
+8090_11	is_in_sentence	sentence_8090
+8090_11	pobj	8090_9
+8090_11	has_surface_form	Tinling
+8090_11	part_of_entity	James Tinling
+8090_12	is_in_sentence	sentence_8090
+8090_12	punct	8090_11
+8090_12	has_surface_form	,
+8090_13	is_in_sentence	sentence_8090
+8090_13	acl	8090_11
+8090_13	has_surface_form	written
+8090_14	is_in_sentence	sentence_8090
+8090_14	agent	8090_13
+8090_14	has_surface_form	by
+8090_15	is_in_sentence	sentence_8090
+8090_15	compound	8090_16
+8090_15	has_surface_form	William
+8090_16	is_in_sentence	sentence_8090
+8090_16	pobj	8090_14
+8090_16	has_surface_form	Bruckner
+8090_17	is_in_sentence	sentence_8090
+8090_17	cc	8090_16
+8090_17	has_surface_form	and
+8090_18	is_in_sentence	sentence_8090
+8090_18	compound	8090_19
+8090_18	has_surface_form	Robert
+8090_19	is_in_sentence	sentence_8090
+8090_19	conj	8090_16
+8090_19	has_surface_form	F.
+8090_20	is_in_sentence	sentence_8090
+8090_20	dep	8090_2
+8090_20	has_surface_form	
+Sundown Jim	surface_form	Sundown Jim
+Sundown Jim	movie-has-director	James Tinling
+James Tinling	surface_form	James Tinling

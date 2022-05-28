@@ -1,0 +1,53 @@
+23641_0	is_in_sentence	sentence_23641
+23641_0	det	23641_3
+23641_0	has_surface_form	The
+23641_3	is_in_sentence	sentence_23641
+23641_3	nsubj	23641_4
+23641_3	has_surface_form	Band
+23641_3	part_of_entity	Freddy Jones Band
+23641_1	is_in_sentence	sentence_23641
+23641_1	compound	23641_2
+23641_1	has_surface_form	Freddy
+23641_1	part_of_entity	Freddy Jones Band
+23641_2	is_in_sentence	sentence_23641
+23641_2	compound	23641_3
+23641_2	has_surface_form	Jones
+23641_2	part_of_entity	Freddy Jones Band
+23641_4	is_in_sentence	sentence_23641
+23641_4	ROOT	23641_4
+23641_4	has_surface_form	is
+23641_5	is_in_sentence	sentence_23641
+23641_5	det	23641_8
+23641_5	has_surface_form	a
+23641_8	is_in_sentence	sentence_23641
+23641_8	attr	23641_4
+23641_8	has_surface_form	band
+23641_6	is_in_sentence	sentence_23641
+23641_6	compound	23641_8
+23641_6	has_surface_form	roots
+23641_6	part_of_entity	roots rock
+23641_7	is_in_sentence	sentence_23641
+23641_7	compound	23641_8
+23641_7	has_surface_form	rock
+23641_7	part_of_entity	roots rock
+23641_9	is_in_sentence	sentence_23641
+23641_9	prep	23641_8
+23641_9	has_surface_form	from
+23641_10	is_in_sentence	sentence_23641
+23641_10	pobj	23641_9
+23641_10	has_surface_form	Chicago
+23641_11	is_in_sentence	sentence_23641
+23641_11	punct	23641_10
+23641_11	has_surface_form	,
+23641_12	is_in_sentence	sentence_23641
+23641_12	appos	23641_10
+23641_12	has_surface_form	Illinois
+23641_13	is_in_sentence	sentence_23641
+23641_13	punct	23641_4
+23641_13	has_surface_form	.
+23641_14	is_in_sentence	sentence_23641
+23641_14	dep	23641_4
+23641_14	has_surface_form	
+Freddy Jones Band	surface_form	Freddy Jones Band
+Freddy Jones Band	has-genre	roots rock
+roots rock	surface_form	roots rock

@@ -1,0 +1,82 @@
+17259_0	is_in_sentence	sentence_17259
+17259_0	compound	17259_1
+17259_0	has_surface_form	Osmanthus
+17259_0	part_of_entity	Osmanthus Alley
+17259_1	is_in_sentence	sentence_17259
+17259_1	nsubj	17259_13
+17259_1	has_surface_form	Alley
+17259_1	part_of_entity	Osmanthus Alley
+17259_13	is_in_sentence	sentence_17259
+17259_13	ROOT	17259_13
+17259_13	has_surface_form	is
+17259_2	is_in_sentence	sentence_17259
+17259_2	punct	17259_7
+17259_2	has_surface_form	(
+17259_7	is_in_sentence	sentence_17259
+17259_7	appos	17259_1
+17259_7	has_surface_form	pinyin
+17259_3	is_in_sentence	sentence_17259
+17259_3	nsubj	17259_2
+17259_3	has_surface_form	Chinese
+17259_4	is_in_sentence	sentence_17259
+17259_4	punct	17259_5
+17259_4	has_surface_form	:
+17259_5	is_in_sentence	sentence_17259
+17259_5	appos	17259_3
+17259_5	has_surface_form	桂花巷
+17259_6	is_in_sentence	sentence_17259
+17259_6	punct	17259_5
+17259_6	has_surface_form	;
+17259_8	is_in_sentence	sentence_17259
+17259_8	punct	17259_7
+17259_8	has_surface_form	:
+17259_9	is_in_sentence	sentence_17259
+17259_9	compound	17259_11
+17259_9	has_surface_form	Guì
+17259_11	is_in_sentence	sentence_17259
+17259_11	appos	17259_7
+17259_11	has_surface_form	Xiàng
+17259_10	is_in_sentence	sentence_17259
+17259_10	compound	17259_11
+17259_10	has_surface_form	Huā
+17259_12	is_in_sentence	sentence_17259
+17259_12	punct	17259_7
+17259_12	has_surface_form	)
+17259_14	is_in_sentence	sentence_17259
+17259_14	det	17259_18
+17259_14	has_surface_form	a
+17259_18	is_in_sentence	sentence_17259
+17259_18	attr	17259_13
+17259_18	has_surface_form	film
+17259_15	is_in_sentence	sentence_17259
+17259_15	nummod	17259_18
+17259_15	has_surface_form	1987
+17259_16	is_in_sentence	sentence_17259
+17259_16	amod	17259_18
+17259_16	has_surface_form	Taiwanese
+17259_17	is_in_sentence	sentence_17259
+17259_17	compound	17259_18
+17259_17	has_surface_form	drama
+17259_19	is_in_sentence	sentence_17259
+17259_19	acl	17259_18
+17259_19	has_surface_form	directed
+17259_20	is_in_sentence	sentence_17259
+17259_20	agent	17259_19
+17259_20	has_surface_form	by
+17259_21	is_in_sentence	sentence_17259
+17259_21	compound	17259_22
+17259_21	has_surface_form	Chen
+17259_21	part_of_entity	Chen Kunhou
+17259_22	is_in_sentence	sentence_17259
+17259_22	pobj	17259_20
+17259_22	has_surface_form	Kunhou
+17259_22	part_of_entity	Chen Kunhou
+17259_23	is_in_sentence	sentence_17259
+17259_23	punct	17259_13
+17259_23	has_surface_form	.
+17259_24	is_in_sentence	sentence_17259
+17259_24	dep	17259_13
+17259_24	has_surface_form	
+Osmanthus Alley	surface_form	Osmanthus Alley
+Osmanthus Alley	movie-has-director	Chen Kunhou
+Chen Kunhou	surface_form	Chen Kunhou

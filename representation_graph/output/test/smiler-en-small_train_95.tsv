@@ -1,0 +1,47 @@
+94_0	is_in_sentence	sentence_94
+94_0	compound	94_1
+94_0	has_surface_form	Masking
+94_0	part_of_entity	Masking tape
+94_1	is_in_sentence	sentence_94
+94_1	nsubjpass	94_3
+94_1	has_surface_form	tape
+94_1	part_of_entity	Masking tape
+94_3	is_in_sentence	sentence_94
+94_3	ROOT	94_3
+94_3	has_surface_form	invented
+94_2	is_in_sentence	sentence_94
+94_2	auxpass	94_3
+94_2	has_surface_form	was
+94_4	is_in_sentence	sentence_94
+94_4	prep	94_3
+94_4	has_surface_form	in
+94_5	is_in_sentence	sentence_94
+94_5	pobj	94_4
+94_5	is_entity	1925
+1925	surface_form	1925
+94_6	is_in_sentence	sentence_94
+94_6	agent	94_3
+94_6	has_surface_form	by
+94_7	is_in_sentence	sentence_94
+94_7	nummod	94_9
+94_7	has_surface_form	3
+94_9	is_in_sentence	sentence_94
+94_9	compound	94_11
+94_9	has_surface_form	employee
+94_8	is_in_sentence	sentence_94
+94_8	compound	94_9
+94_8	has_surface_form	M
+94_11	is_in_sentence	sentence_94
+94_11	pobj	94_6
+94_11	has_surface_form	Drew
+94_10	is_in_sentence	sentence_94
+94_10	compound	94_11
+94_10	has_surface_form	Richard
+94_12	is_in_sentence	sentence_94
+94_12	punct	94_3
+94_12	has_surface_form	.
+94_13	is_in_sentence	sentence_94
+94_13	dep	94_3
+94_13	has_surface_form	
+Masking tape	surface_form	Masking tape
+Masking tape	invented-when	1925

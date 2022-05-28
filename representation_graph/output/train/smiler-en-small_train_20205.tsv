@@ -1,0 +1,76 @@
+20204_0	is_in_sentence	sentence_20204
+20204_0	compound	20204_1
+20204_0	has_surface_form	Thamarai
+20204_0	part_of_entity	Thamarai Nenjam
+20204_1	is_in_sentence	sentence_20204
+20204_1	ROOT	20204_1
+20204_1	has_surface_form	Nenjam
+20204_1	part_of_entity	Thamarai Nenjam
+20204_2	is_in_sentence	sentence_20204
+20204_2	punct	20204_3
+20204_2	has_surface_form	(
+20204_3	is_in_sentence	sentence_20204
+20204_3	appos	20204_1
+20204_3	has_surface_form	transl
+20204_4	is_in_sentence	sentence_20204
+20204_4	punct	20204_3
+20204_4	has_surface_form	.
+20204_5	is_in_sentence	sentence_20204
+20204_5	dep	20204_7
+20204_5	has_surface_form	 
+20204_7	is_in_sentence	sentence_20204
+20204_7	nsubj	20204_9
+20204_7	has_surface_form	Heart
+20204_6	is_in_sentence	sentence_20204
+20204_6	compound	20204_7
+20204_6	has_surface_form	Lotus
+20204_9	is_in_sentence	sentence_20204
+20204_9	ROOT	20204_9
+20204_9	has_surface_form	is
+20204_8	is_in_sentence	sentence_20204
+20204_8	punct	20204_7
+20204_8	has_surface_form	)
+20204_10	is_in_sentence	sentence_20204
+20204_10	det	20204_16
+20204_10	has_surface_form	a
+20204_16	is_in_sentence	sentence_20204
+20204_16	attr	20204_9
+20204_16	has_surface_form	film
+20204_11	is_in_sentence	sentence_20204
+20204_11	nummod	20204_16
+20204_11	has_surface_form	1968
+20204_12	is_in_sentence	sentence_20204
+20204_12	nmod	20204_13
+20204_12	has_surface_form	Indian
+20204_13	is_in_sentence	sentence_20204
+20204_13	nmod	20204_16
+20204_13	has_surface_form	Tamil
+20204_14	is_in_sentence	sentence_20204
+20204_14	amod	20204_16
+20204_14	has_surface_form	romantic
+20204_15	is_in_sentence	sentence_20204
+20204_15	compound	20204_16
+20204_15	has_surface_form	drama
+20204_17	is_in_sentence	sentence_20204
+20204_17	acl	20204_16
+20204_17	has_surface_form	directed
+20204_18	is_in_sentence	sentence_20204
+20204_18	agent	20204_17
+20204_18	has_surface_form	by
+20204_19	is_in_sentence	sentence_20204
+20204_19	compound	20204_20
+20204_19	has_surface_form	K.
+20204_19	part_of_entity	K. Balachandar
+20204_20	is_in_sentence	sentence_20204
+20204_20	pobj	20204_18
+20204_20	has_surface_form	Balachandar
+20204_20	part_of_entity	K. Balachandar
+20204_21	is_in_sentence	sentence_20204
+20204_21	punct	20204_9
+20204_21	has_surface_form	.
+20204_22	is_in_sentence	sentence_20204
+20204_22	dep	20204_22
+20204_22	has_surface_form	
+Thamarai Nenjam	surface_form	Thamarai Nenjam
+Thamarai Nenjam	movie-has-director	K. Balachandar
+K. Balachandar	surface_form	K. Balachandar

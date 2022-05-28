@@ -1,0 +1,64 @@
+33898_0	is_in_sentence	sentence_33898
+33898_0	compound	33898_1
+33898_0	has_surface_form	Jim
+33898_0	part_of_entity	Jim Deere
+33898_1	is_in_sentence	sentence_33898
+33898_1	nsubj	33898_9
+33898_1	has_surface_form	Deere
+33898_1	part_of_entity	Jim Deere
+33898_9	is_in_sentence	sentence_33898
+33898_9	ROOT	33898_9
+33898_9	has_surface_form	is
+33898_2	is_in_sentence	sentence_33898
+33898_2	punct	33898_1
+33898_2	has_surface_form	(
+33898_3	is_in_sentence	sentence_33898
+33898_3	acl	33898_1
+33898_3	has_surface_form	born
+33898_4	is_in_sentence	sentence_33898
+33898_4	npadvmod	33898_3
+33898_4	has_surface_form	June
+33898_5	is_in_sentence	sentence_33898
+33898_5	nummod	33898_4
+33898_5	has_surface_form	2
+33898_6	is_in_sentence	sentence_33898
+33898_6	punct	33898_4
+33898_6	has_surface_form	,
+33898_7	is_in_sentence	sentence_33898
+33898_7	nummod	33898_4
+33898_7	has_surface_form	1967
+33898_8	is_in_sentence	sentence_33898
+33898_8	punct	33898_1
+33898_8	has_surface_form	)
+33898_10	is_in_sentence	sentence_33898
+33898_10	det	33898_13
+33898_10	has_surface_form	an
+33898_13	is_in_sentence	sentence_33898
+33898_13	attr	33898_9
+33898_13	has_surface_form	coach
+33898_13	part_of_entity	football coach
+33898_11	is_in_sentence	sentence_33898
+33898_11	amod	33898_13
+33898_11	has_surface_form	American
+33898_12	is_in_sentence	sentence_33898
+33898_12	compound	33898_13
+33898_12	has_surface_form	football
+33898_12	part_of_entity	football coach
+33898_14	is_in_sentence	sentence_33898
+33898_14	cc	33898_13
+33898_14	has_surface_form	and
+33898_15	is_in_sentence	sentence_33898
+33898_15	amod	33898_16
+33898_15	has_surface_form	former
+33898_16	is_in_sentence	sentence_33898
+33898_16	conj	33898_13
+33898_16	has_surface_form	player
+33898_17	is_in_sentence	sentence_33898
+33898_17	punct	33898_9
+33898_17	has_surface_form	.
+33898_18	is_in_sentence	sentence_33898
+33898_18	dep	33898_18
+33898_18	has_surface_form	
+Jim Deere	surface_form	Jim Deere
+Jim Deere	has-type	football coach
+football coach	surface_form	football coach

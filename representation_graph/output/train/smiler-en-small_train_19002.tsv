@@ -1,0 +1,65 @@
+19001_0	is_in_sentence	sentence_19001
+19001_0	det	19001_1
+19001_0	has_surface_form	The
+19001_1	is_in_sentence	sentence_19001
+19001_1	nsubj	19001_5
+19001_1	has_surface_form	food
+19001_5	is_in_sentence	sentence_19001
+19001_5	ROOT	19001_5
+19001_5	has_surface_form	includes
+19001_2	is_in_sentence	sentence_19001
+19001_2	acl	19001_1
+19001_2	has_surface_form	taken
+19001_3	is_in_sentence	sentence_19001
+19001_3	agent	19001_2
+19001_3	has_surface_form	by
+19001_4	is_in_sentence	sentence_19001
+19001_4	pobj	19001_3
+19001_4	is_entity	gulls
+gulls	surface_form	gulls
+gulls	eats	freshwater invertebrates
+19001_6	is_in_sentence	sentence_19001
+19001_6	dobj	19001_5
+19001_6	has_surface_form	fish
+19001_7	is_in_sentence	sentence_19001
+19001_7	cc	19001_6
+19001_7	has_surface_form	and
+19001_8	is_in_sentence	sentence_19001
+19001_8	conj	19001_6
+19001_8	has_surface_form	marine
+19001_9	is_in_sentence	sentence_19001
+19001_9	cc	19001_8
+19001_9	has_surface_form	and
+19001_10	is_in_sentence	sentence_19001
+19001_10	conj	19001_8
+19001_10	has_surface_form	freshwater
+19001_10	part_of_entity	freshwater invertebrates
+19001_11	is_in_sentence	sentence_19001
+19001_11	conj	19001_6
+19001_11	has_surface_form	invertebrates
+19001_11	part_of_entity	freshwater invertebrates
+19001_12	is_in_sentence	sentence_19001
+19001_12	punct	19001_11
+19001_12	has_surface_form	,
+19001_13	is_in_sentence	sentence_19001
+19001_13	preconj	19001_14
+19001_13	has_surface_form	both
+19001_14	is_in_sentence	sentence_19001
+19001_14	amod	19001_6
+19001_14	has_surface_form	alive
+19001_15	is_in_sentence	sentence_19001
+19001_15	cc	19001_14
+19001_15	has_surface_form	and
+19001_16	is_in_sentence	sentence_19001
+19001_16	advmod	19001_17
+19001_16	has_surface_form	already
+19001_17	is_in_sentence	sentence_19001
+19001_17	conj	19001_14
+19001_17	has_surface_form	dead
+19001_18	is_in_sentence	sentence_19001
+19001_18	punct	19001_5
+19001_18	has_surface_form	.
+19001_19	is_in_sentence	sentence_19001
+19001_19	dep	19001_19
+19001_19	has_surface_form	
+freshwater invertebrates	surface_form	freshwater invertebrates

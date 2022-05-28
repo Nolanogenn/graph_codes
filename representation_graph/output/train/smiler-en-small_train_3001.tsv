@@ -1,0 +1,93 @@
+3000_0	is_in_sentence	sentence_3000
+3000_0	det	3000_4
+3000_0	has_surface_form	The
+3000_4	is_in_sentence	sentence_3000
+3000_4	nsubj	3000_5
+3000_4	has_surface_form	Association
+3000_4	part_of_entity	Sint Maarten Soccer Association
+3000_1	is_in_sentence	sentence_3000
+3000_1	compound	3000_2
+3000_1	has_surface_form	Sint
+3000_1	part_of_entity	Sint Maarten Soccer Association
+3000_2	is_in_sentence	sentence_3000
+3000_2	compound	3000_4
+3000_2	has_surface_form	Maarten
+3000_2	part_of_entity	Sint Maarten Soccer Association
+3000_3	is_in_sentence	sentence_3000
+3000_3	compound	3000_4
+3000_3	has_surface_form	Soccer
+3000_3	part_of_entity	Sint Maarten Soccer Association
+3000_5	is_in_sentence	sentence_3000
+3000_5	ROOT	3000_5
+3000_5	has_surface_form	is
+3000_6	is_in_sentence	sentence_3000
+3000_6	det	3000_8
+3000_6	has_surface_form	the
+3000_8	is_in_sentence	sentence_3000
+3000_8	attr	3000_5
+3000_8	has_surface_form	body
+3000_7	is_in_sentence	sentence_3000
+3000_7	amod	3000_8
+3000_7	has_surface_form	governing
+3000_9	is_in_sentence	sentence_3000
+3000_9	prep	3000_8
+3000_9	has_surface_form	of
+3000_10	is_in_sentence	sentence_3000
+3000_10	pobj	3000_9
+3000_10	has_surface_form	football
+3000_11	is_in_sentence	sentence_3000
+3000_11	prep	3000_8
+3000_11	has_surface_form	in
+3000_12	is_in_sentence	sentence_3000
+3000_12	compound	3000_13
+3000_12	has_surface_form	Sint
+3000_13	is_in_sentence	sentence_3000
+3000_13	pobj	3000_11
+3000_13	has_surface_form	Maarten
+3000_14	is_in_sentence	sentence_3000
+3000_14	punct	3000_5
+3000_14	has_surface_form	.
+3000_15	is_in_sentence	sentence_3000
+3000_15	nsubjpass	3000_17
+3000_15	has_surface_form	It
+3000_17	is_in_sentence	sentence_3000
+3000_17	ROOT	3000_17
+3000_17	has_surface_form	founded
+3000_16	is_in_sentence	sentence_3000
+3000_16	auxpass	3000_17
+3000_16	has_surface_form	was
+3000_18	is_in_sentence	sentence_3000
+3000_18	prep	3000_17
+3000_18	has_surface_form	in
+3000_19	is_in_sentence	sentence_3000
+3000_19	pobj	3000_18
+3000_19	has_surface_form	1986
+3000_20	is_in_sentence	sentence_3000
+3000_20	cc	3000_17
+3000_20	has_surface_form	and
+3000_21	is_in_sentence	sentence_3000
+3000_21	poss	3000_22
+3000_21	has_surface_form	its
+3000_22	is_in_sentence	sentence_3000
+3000_22	nsubj	3000_23
+3000_22	has_surface_form	president
+3000_23	is_in_sentence	sentence_3000
+3000_23	conj	3000_17
+3000_23	has_surface_form	is
+3000_24	is_in_sentence	sentence_3000
+3000_24	compound	3000_25
+3000_24	has_surface_form	Johnny
+3000_24	part_of_entity	Johnny Singh
+3000_25	is_in_sentence	sentence_3000
+3000_25	attr	3000_23
+3000_25	has_surface_form	Singh
+3000_25	part_of_entity	Johnny Singh
+3000_26	is_in_sentence	sentence_3000
+3000_26	punct	3000_23
+3000_26	has_surface_form	.
+3000_27	is_in_sentence	sentence_3000
+3000_27	dep	3000_27
+3000_27	has_surface_form	
+Sint Maarten Soccer Association	surface_form	Sint Maarten Soccer Association
+Sint Maarten Soccer Association	org-leader	Johnny Singh
+Johnny Singh	surface_form	Johnny Singh

@@ -1,0 +1,86 @@
+13364_0	is_in_sentence	sentence_13364
+13364_0	det	13364_2
+13364_0	has_surface_form	That
+13364_0	part_of_entity	That Man George
+13364_2	is_in_sentence	sentence_13364
+13364_2	nsubj	13364_3
+13364_2	has_surface_form	George
+13364_2	part_of_entity	That Man George
+13364_1	is_in_sentence	sentence_13364
+13364_1	compound	13364_2
+13364_1	has_surface_form	Man
+13364_1	part_of_entity	That Man George
+13364_3	is_in_sentence	sentence_13364
+13364_3	ROOT	13364_3
+13364_3	has_surface_form	is
+13364_4	is_in_sentence	sentence_13364
+13364_4	det	13364_8
+13364_4	has_surface_form	a
+13364_8	is_in_sentence	sentence_13364
+13364_8	attr	13364_3
+13364_8	has_surface_form	film
+13364_5	is_in_sentence	sentence_13364
+13364_5	nummod	13364_8
+13364_5	has_surface_form	1966
+13364_6	is_in_sentence	sentence_13364
+13364_6	amod	13364_8
+13364_6	has_surface_form	French
+13364_7	is_in_sentence	sentence_13364
+13364_7	compound	13364_8
+13364_7	has_surface_form	crime
+13364_9	is_in_sentence	sentence_13364
+13364_9	acl	13364_8
+13364_9	has_surface_form	starring
+13364_10	is_in_sentence	sentence_13364
+13364_10	compound	13364_11
+13364_10	has_surface_form	George
+13364_11	is_in_sentence	sentence_13364
+13364_11	dobj	13364_9
+13364_11	has_surface_form	Hamilton
+13364_12	is_in_sentence	sentence_13364
+13364_12	cc	13364_11
+13364_12	has_surface_form	and
+13364_13	is_in_sentence	sentence_13364
+13364_13	compound	13364_14
+13364_13	has_surface_form	Claudine
+13364_14	is_in_sentence	sentence_13364
+13364_14	conj	13364_11
+13364_14	has_surface_form	Auger
+13364_15	is_in_sentence	sentence_13364
+13364_15	punct	13364_3
+13364_15	has_surface_form	.
+13364_16	is_in_sentence	sentence_13364
+13364_16	nsubjpass	13364_18
+13364_16	has_surface_form	It
+13364_18	is_in_sentence	sentence_13364
+13364_18	ROOT	13364_18
+13364_18	has_surface_form	written
+13364_17	is_in_sentence	sentence_13364
+13364_17	auxpass	13364_18
+13364_17	has_surface_form	was
+13364_19	is_in_sentence	sentence_13364
+13364_19	cc	13364_18
+13364_19	has_surface_form	and
+13364_20	is_in_sentence	sentence_13364
+13364_20	conj	13364_18
+13364_20	has_surface_form	directed
+13364_21	is_in_sentence	sentence_13364
+13364_21	agent	13364_20
+13364_21	has_surface_form	by
+13364_22	is_in_sentence	sentence_13364
+13364_22	compound	13364_23
+13364_22	has_surface_form	Jacques
+13364_22	part_of_entity	Jacques Deray
+13364_23	is_in_sentence	sentence_13364
+13364_23	pobj	13364_21
+13364_23	has_surface_form	Deray
+13364_23	part_of_entity	Jacques Deray
+13364_24	is_in_sentence	sentence_13364
+13364_24	punct	13364_18
+13364_24	has_surface_form	.
+13364_25	is_in_sentence	sentence_13364
+13364_25	dep	13364_25
+13364_25	has_surface_form	
+That Man George	surface_form	That Man George
+That Man George	movie-has-director	Jacques Deray
+Jacques Deray	surface_form	Jacques Deray

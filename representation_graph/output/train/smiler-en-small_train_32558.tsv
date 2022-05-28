@@ -1,0 +1,86 @@
+32557_0	is_in_sentence	sentence_32557
+32557_0	det	32557_1
+32557_0	has_surface_form	The
+32557_1	is_in_sentence	sentence_32557
+32557_1	nsubj	32557_7
+32557_1	has_surface_form	University
+32557_1	part_of_entity	University of Fukuoka
+32557_7	is_in_sentence	sentence_32557
+32557_7	ROOT	32557_7
+32557_7	has_surface_form	is
+32557_2	is_in_sentence	sentence_32557
+32557_2	prep	32557_1
+32557_2	has_surface_form	of
+32557_2	part_of_entity	University of Fukuoka
+32557_3	is_in_sentence	sentence_32557
+32557_3	pobj	32557_2
+32557_3	has_surface_form	Fukuoka
+32557_3	part_of_entity	University of Fukuoka
+32557_4	is_in_sentence	sentence_32557
+32557_4	cc	32557_3
+32557_4	has_surface_form	or
+32557_5	is_in_sentence	sentence_32557
+32557_5	compound	32557_6
+32557_5	has_surface_form	Fukuoka
+32557_6	is_in_sentence	sentence_32557
+32557_6	conj	32557_3
+32557_6	has_surface_form	University
+32557_8	is_in_sentence	sentence_32557
+32557_8	det	32557_11
+32557_8	has_surface_form	a
+32557_11	is_in_sentence	sentence_32557
+32557_11	attr	32557_7
+32557_11	has_surface_form	university
+32557_11	part_of_entity	research university
+32557_9	is_in_sentence	sentence_32557
+32557_9	amod	32557_11
+32557_9	has_surface_form	private
+32557_10	is_in_sentence	sentence_32557
+32557_10	compound	32557_11
+32557_10	has_surface_form	research
+32557_10	part_of_entity	research university
+32557_12	is_in_sentence	sentence_32557
+32557_12	acl	32557_11
+32557_12	has_surface_form	located
+32557_13	is_in_sentence	sentence_32557
+32557_13	prep	32557_12
+32557_13	has_surface_form	in
+32557_14	is_in_sentence	sentence_32557
+32557_14	pobj	32557_13
+32557_14	has_surface_form	Fukuoka
+32557_15	is_in_sentence	sentence_32557
+32557_15	punct	32557_11
+32557_15	has_surface_form	,
+32557_16	is_in_sentence	sentence_32557
+32557_16	prep	32557_7
+32557_16	has_surface_form	on
+32557_17	is_in_sentence	sentence_32557
+32557_17	det	32557_18
+32557_17	has_surface_form	the
+32557_18	is_in_sentence	sentence_32557
+32557_18	pobj	32557_16
+32557_18	has_surface_form	island
+32557_19	is_in_sentence	sentence_32557
+32557_19	prep	32557_18
+32557_19	has_surface_form	of
+32557_20	is_in_sentence	sentence_32557
+32557_20	pobj	32557_19
+32557_20	has_surface_form	Kyushu
+32557_21	is_in_sentence	sentence_32557
+32557_21	punct	32557_16
+32557_21	has_surface_form	,
+32557_22	is_in_sentence	sentence_32557
+32557_22	conj	32557_16
+32557_22	has_surface_form	in
+32557_23	is_in_sentence	sentence_32557
+32557_23	pobj	32557_22
+32557_23	has_surface_form	Japan
+32557_24	is_in_sentence	sentence_32557
+32557_24	punct	32557_7
+32557_24	has_surface_form	.
+32557_25	is_in_sentence	sentence_32557
+32557_25	dep	32557_25
+32557_25	has_surface_form	
+University of Fukuoka	surface_form	University of Fukuoka
+University of Fukuoka	has-type	research university
+research university	surface_form	research university

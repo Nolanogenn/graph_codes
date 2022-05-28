@@ -1,0 +1,60 @@
+658_0	is_in_sentence	sentence_658
+658_0	amod	658_2
+658_0	has_surface_form	Mani
+658_0	part_of_entity	Mani di fata
+658_2	is_in_sentence	sentence_658
+658_2	nsubj	658_7
+658_2	has_surface_form	fata
+658_2	part_of_entity	Mani di fata
+658_1	is_in_sentence	sentence_658
+658_1	compound	658_2
+658_1	has_surface_form	di
+658_1	part_of_entity	Mani di fata
+658_7	is_in_sentence	sentence_658
+658_7	ROOT	658_7
+658_7	has_surface_form	is
+658_3	is_in_sentence	sentence_658
+658_3	punct	658_5
+658_3	has_surface_form	(
+658_5	is_in_sentence	sentence_658
+658_5	appos	658_2
+658_5	has_surface_form	hands
+658_4	is_in_sentence	sentence_658
+658_4	compound	658_5
+658_4	has_surface_form	Fairy
+658_6	is_in_sentence	sentence_658
+658_6	punct	658_5
+658_6	has_surface_form	)
+658_8	is_in_sentence	sentence_658
+658_8	det	658_12
+658_8	has_surface_form	a
+658_12	is_in_sentence	sentence_658
+658_12	attr	658_7
+658_12	has_surface_form	film
+658_9	is_in_sentence	sentence_658
+658_9	nummod	658_12
+658_9	has_surface_form	1983
+658_10	is_in_sentence	sentence_658
+658_10	amod	658_12
+658_10	has_surface_form	Italian
+658_11	is_in_sentence	sentence_658
+658_11	compound	658_12
+658_11	has_surface_form	comedy
+658_13	is_in_sentence	sentence_658
+658_13	acl	658_12
+658_13	has_surface_form	directed
+658_14	is_in_sentence	sentence_658
+658_14	agent	658_13
+658_14	has_surface_form	by
+658_15	is_in_sentence	sentence_658
+658_15	pobj	658_14
+658_15	is_entity	Steno
+Steno	surface_form	Steno
+658_16	is_in_sentence	sentence_658
+658_16	punct	658_7
+658_16	has_surface_form	.
+658_17	is_in_sentence	sentence_658
+658_17	dep	658_17
+658_17	has_surface_form	
+Mani di fata	surface_form	Mani di fata
+Mani di fata	movie-has-director	Steno

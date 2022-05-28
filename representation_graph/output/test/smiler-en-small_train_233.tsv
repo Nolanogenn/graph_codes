@@ -1,0 +1,38 @@
+232_0	is_in_sentence	sentence_232
+232_0	compound	232_1
+232_0	has_surface_form	Stow
+232_0	part_of_entity	Stow College
+232_1	is_in_sentence	sentence_232
+232_1	nsubj	232_2
+232_1	has_surface_form	College
+232_1	part_of_entity	Stow College
+232_2	is_in_sentence	sentence_232
+232_2	ROOT	232_2
+232_2	has_surface_form	was
+232_3	is_in_sentence	sentence_232
+232_3	det	232_4
+232_3	has_surface_form	a
+232_4	is_in_sentence	sentence_232
+232_4	attr	232_2
+232_4	is_entity	college
+college	surface_form	college
+232_5	is_in_sentence	sentence_232
+232_5	prep	232_4
+232_5	has_surface_form	in
+232_6	is_in_sentence	sentence_232
+232_6	pobj	232_5
+232_6	has_surface_form	Glasgow
+232_7	is_in_sentence	sentence_232
+232_7	prep	232_4
+232_7	has_surface_form	in
+232_8	is_in_sentence	sentence_232
+232_8	pobj	232_7
+232_8	has_surface_form	Scotland
+232_9	is_in_sentence	sentence_232
+232_9	punct	232_2
+232_9	has_surface_form	.
+232_10	is_in_sentence	sentence_232
+232_10	dep	232_10
+232_10	has_surface_form	
+Stow College	surface_form	Stow College
+Stow College	has-type	college

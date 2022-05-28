@@ -1,0 +1,35 @@
+821_0	is_in_sentence	sentence_821
+821_0	amod	821_1
+821_0	has_surface_form	NTV
+821_0	part_of_entity	NTV PLUS
+821_1	is_in_sentence	sentence_821
+821_1	nsubj	821_2
+821_1	has_surface_form	PLUS
+821_1	part_of_entity	NTV PLUS
+821_2	is_in_sentence	sentence_821
+821_2	ROOT	821_2
+821_2	has_surface_form	is
+821_3	is_in_sentence	sentence_821
+821_3	det	821_5
+821_3	has_surface_form	a
+821_5	is_in_sentence	sentence_821
+821_5	attr	821_2
+821_5	has_surface_form	channel
+821_4	is_in_sentence	sentence_821
+821_4	compound	821_5
+821_4	has_surface_form	television
+821_6	is_in_sentence	sentence_821
+821_6	prep	821_5
+821_6	has_surface_form	in
+821_7	is_in_sentence	sentence_821
+821_7	pobj	821_6
+821_7	is_entity	Nepal
+Nepal	surface_form	Nepal
+821_8	is_in_sentence	sentence_821
+821_8	punct	821_2
+821_8	has_surface_form	.
+821_9	is_in_sentence	sentence_821
+821_9	dep	821_9
+821_9	has_surface_form	
+NTV PLUS	surface_form	NTV PLUS
+NTV PLUS	headquarters	Nepal

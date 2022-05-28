@@ -1,0 +1,64 @@
+20290_0	is_in_sentence	sentence_20290
+20290_0	compound	20290_1
+20290_0	has_surface_form	Perfect
+20290_0	part_of_entity	Perfect Target
+20290_1	is_in_sentence	sentence_20290
+20290_1	nsubj	20290_2
+20290_1	has_surface_form	Target
+20290_1	part_of_entity	Perfect Target
+20290_2	is_in_sentence	sentence_20290
+20290_2	ROOT	20290_2
+20290_2	has_surface_form	is
+20290_3	is_in_sentence	sentence_20290
+20290_3	det	20290_8
+20290_3	has_surface_form	a
+20290_8	is_in_sentence	sentence_20290
+20290_8	attr	20290_2
+20290_8	has_surface_form	film
+20290_4	is_in_sentence	sentence_20290
+20290_4	nummod	20290_8
+20290_4	has_surface_form	1997
+20290_5	is_in_sentence	sentence_20290
+20290_5	nmod	20290_7
+20290_5	has_surface_form	action
+20290_7	is_in_sentence	sentence_20290
+20290_7	compound	20290_8
+20290_7	has_surface_form	thriller
+20290_6	is_in_sentence	sentence_20290
+20290_6	punct	20290_7
+20290_6	has_surface_form	/
+20290_9	is_in_sentence	sentence_20290
+20290_9	acl	20290_8
+20290_9	has_surface_form	directed
+20290_10	is_in_sentence	sentence_20290
+20290_10	agent	20290_9
+20290_10	has_surface_form	by
+20290_11	is_in_sentence	sentence_20290
+20290_11	compound	20290_12
+20290_11	has_surface_form	Sheldon
+20290_12	is_in_sentence	sentence_20290
+20290_12	pobj	20290_10
+20290_12	has_surface_form	Lettich
+20290_13	is_in_sentence	sentence_20290
+20290_13	cc	20290_9
+20290_13	has_surface_form	and
+20290_14	is_in_sentence	sentence_20290
+20290_14	conj	20290_9
+20290_14	has_surface_form	starring
+20290_15	is_in_sentence	sentence_20290
+20290_15	compound	20290_16
+20290_15	has_surface_form	Daniel
+20290_15	part_of_entity	Daniel Bernhardt
+20290_16	is_in_sentence	sentence_20290
+20290_16	dobj	20290_14
+20290_16	has_surface_form	Bernhardt
+20290_16	part_of_entity	Daniel Bernhardt
+20290_17	is_in_sentence	sentence_20290
+20290_17	punct	20290_2
+20290_17	has_surface_form	.
+20290_18	is_in_sentence	sentence_20290
+20290_18	dep	20290_2
+20290_18	has_surface_form	
+Perfect Target	surface_form	Perfect Target
+Perfect Target	starring	Daniel Bernhardt
+Daniel Bernhardt	surface_form	Daniel Bernhardt

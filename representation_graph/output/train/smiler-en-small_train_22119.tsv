@@ -1,0 +1,38 @@
+22118_0	is_in_sentence	sentence_22118
+22118_0	nsubj	22118_1
+22118_0	is_entity	Petrie
+22118_1	is_in_sentence	sentence_22118
+22118_1	ROOT	22118_1
+22118_1	has_surface_form	was
+Petrie	surface_form	Petrie
+Petrie	has-child	Anne Petrie
+22118_2	is_in_sentence	sentence_22118
+22118_2	det	22118_3
+22118_2	has_surface_form	the
+22118_3	is_in_sentence	sentence_22118
+22118_3	attr	22118_1
+22118_3	has_surface_form	mother
+22118_4	is_in_sentence	sentence_22118
+22118_4	prep	22118_3
+22118_4	has_surface_form	of
+22118_5	is_in_sentence	sentence_22118
+22118_5	compound	22118_6
+22118_5	has_surface_form	television
+22118_6	is_in_sentence	sentence_22118
+22118_6	compound	22118_8
+22118_6	has_surface_form	journalist
+22118_8	is_in_sentence	sentence_22118
+22118_8	pobj	22118_4
+22118_8	is_entity	Petrie
+22118_8	part_of_entity	Anne Petrie
+22118_7	is_in_sentence	sentence_22118
+22118_7	compound	22118_8
+22118_7	has_surface_form	Anne
+22118_7	part_of_entity	Anne Petrie
+22118_9	is_in_sentence	sentence_22118
+22118_9	punct	22118_1
+22118_9	has_surface_form	.
+22118_10	is_in_sentence	sentence_22118
+22118_10	dep	22118_1
+22118_10	has_surface_form	
+Anne Petrie	surface_form	Anne Petrie

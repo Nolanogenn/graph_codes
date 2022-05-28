@@ -1,0 +1,54 @@
+8599_0	is_in_sentence	sentence_8599
+8599_0	compound	8599_1
+8599_0	has_surface_form	Lead
+8599_0	part_of_entity	Lead City University
+8599_1	is_in_sentence	sentence_8599
+8599_1	compound	8599_2
+8599_1	has_surface_form	City
+8599_1	part_of_entity	Lead City University
+8599_2	is_in_sentence	sentence_8599
+8599_2	nsubj	8599_3
+8599_2	has_surface_form	University
+8599_2	part_of_entity	Lead City University
+8599_3	is_in_sentence	sentence_8599
+8599_3	ROOT	8599_3
+8599_3	has_surface_form	is
+8599_4	is_in_sentence	sentence_8599
+8599_4	det	8599_6
+8599_4	has_surface_form	a
+8599_6	is_in_sentence	sentence_8599
+8599_6	attr	8599_3
+8599_6	has_surface_form	university
+8599_5	is_in_sentence	sentence_8599
+8599_5	amod	8599_6
+8599_5	has_surface_form	private
+8599_7	is_in_sentence	sentence_8599
+8599_7	prep	8599_6
+8599_7	has_surface_form	in
+8599_8	is_in_sentence	sentence_8599
+8599_8	pobj	8599_7
+8599_8	has_surface_form	Ibadan
+8599_9	is_in_sentence	sentence_8599
+8599_9	punct	8599_6
+8599_9	has_surface_form	,
+8599_10	is_in_sentence	sentence_8599
+8599_10	compound	8599_11
+8599_10	has_surface_form	Oyo
+8599_11	is_in_sentence	sentence_8599
+8599_11	conj	8599_6
+8599_11	has_surface_form	State
+8599_12	is_in_sentence	sentence_8599
+8599_12	punct	8599_11
+8599_12	has_surface_form	,
+8599_13	is_in_sentence	sentence_8599
+8599_13	npadvmod	8599_11
+8599_13	has_surface_form	Nigeria
+8599_14	is_in_sentence	sentence_8599
+8599_14	punct	8599_3
+8599_14	has_surface_form	.
+8599_15	is_in_sentence	sentence_8599
+8599_15	dep	8599_3
+8599_15	has_surface_form	
+Lead City University	surface_form	Lead City University
+Lead City University	is-where	Ibadan, Oyo State, Nigeria
+Ibadan, Oyo State, Nigeria	surface_form	Ibadan, Oyo State, Nigeria

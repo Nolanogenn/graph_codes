@@ -1,0 +1,88 @@
+15072_0	is_in_sentence	sentence_15072
+15072_0	compound	15072_1
+15072_0	has_surface_form	First
+15072_0	part_of_entity	First Star
+15072_1	is_in_sentence	sentence_15072
+15072_1	poss	15072_4
+15072_1	has_surface_form	Star
+15072_1	part_of_entity	First Star
+15072_4	is_in_sentence	sentence_15072
+15072_4	nsubj	15072_5
+15072_4	has_surface_form	release
+15072_2	is_in_sentence	sentence_15072
+15072_2	case	15072_1
+15072_2	has_surface_form	's
+15072_3	is_in_sentence	sentence_15072
+15072_3	amod	15072_4
+15072_3	has_surface_form	inaugural
+15072_5	is_in_sentence	sentence_15072
+15072_5	ROOT	15072_5
+15072_5	has_surface_form	was
+15072_6	is_in_sentence	sentence_15072
+15072_6	det	15072_11
+15072_6	has_surface_form	the
+15072_11	is_in_sentence	sentence_15072
+15072_11	nsubj	15072_12
+15072_11	has_surface_form	computer
+15072_7	is_in_sentence	sentence_15072
+15072_7	nmod	15072_11
+15072_7	has_surface_form	Atari
+15072_8	is_in_sentence	sentence_15072
+15072_8	nummod	15072_10
+15072_8	has_surface_form	8
+15072_10	is_in_sentence	sentence_15072
+15072_10	compound	15072_11
+15072_10	has_surface_form	bit
+15072_9	is_in_sentence	sentence_15072
+15072_9	punct	15072_10
+15072_9	has_surface_form	-
+15072_12	is_in_sentence	sentence_15072
+15072_12	ccomp	15072_5
+15072_12	has_surface_form	shoot
+15072_13	is_in_sentence	sentence_15072
+15072_13	dobj	15072_12
+15072_13	has_surface_form	'em
+15072_14	is_in_sentence	sentence_15072
+15072_14	prt	15072_12
+15072_14	has_surface_form	up
+15072_15	is_in_sentence	sentence_15072
+15072_15	compound	15072_16
+15072_15	has_surface_form	Astro
+15072_15	part_of_entity	Astro Chase
+15072_16	is_in_sentence	sentence_15072
+15072_16	pobj	15072_14
+15072_16	has_surface_form	Chase
+15072_16	part_of_entity	Astro Chase
+15072_17	is_in_sentence	sentence_15072
+15072_17	punct	15072_16
+15072_17	has_surface_form	,
+15072_18	is_in_sentence	sentence_15072
+15072_18	nsubjpass	15072_21
+15072_18	has_surface_form	which
+15072_21	is_in_sentence	sentence_15072
+15072_21	relcl	15072_16
+15072_21	has_surface_form	distributed
+15072_19	is_in_sentence	sentence_15072
+15072_19	auxpass	15072_21
+15072_19	has_surface_form	was
+15072_20	is_in_sentence	sentence_15072
+15072_20	advmod	15072_21
+15072_20	has_surface_form	later
+15072_22	is_in_sentence	sentence_15072
+15072_22	agent	15072_21
+15072_22	has_surface_form	by
+15072_23	is_in_sentence	sentence_15072
+15072_23	compound	15072_24
+15072_23	has_surface_form	Parker
+15072_24	is_in_sentence	sentence_15072
+15072_24	pobj	15072_22
+15072_24	has_surface_form	Brothers
+15072_25	is_in_sentence	sentence_15072
+15072_25	punct	15072_5
+15072_25	has_surface_form	.
+15072_26	is_in_sentence	sentence_15072
+15072_26	dep	15072_5
+15072_26	has_surface_form	
+First Star	surface_form	First Star
+First Star	first-product	Astro Chase
+Astro Chase	surface_form	Astro Chase

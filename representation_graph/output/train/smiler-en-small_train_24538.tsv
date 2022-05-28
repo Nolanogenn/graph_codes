@@ -1,0 +1,97 @@
+24537_0	is_in_sentence	sentence_24537
+24537_0	compound	24537_1
+24537_0	has_surface_form	Yontan
+24537_0	part_of_entity	Yontan Airfield
+24537_1	is_in_sentence	sentence_24537
+24537_1	nsubj	24537_10
+24537_1	has_surface_form	Airfield
+24537_1	part_of_entity	Yontan Airfield
+24537_10	is_in_sentence	sentence_24537
+24537_10	ROOT	24537_10
+24537_10	has_surface_form	is
+24537_2	is_in_sentence	sentence_24537
+24537_2	punct	24537_4
+24537_2	has_surface_form	(
+24537_4	is_in_sentence	sentence_24537
+24537_4	parataxis	24537_1
+24537_4	has_surface_form	known
+24537_3	is_in_sentence	sentence_24537
+24537_3	advmod	24537_4
+24537_3	has_surface_form	also
+24537_5	is_in_sentence	sentence_24537
+24537_5	prep	24537_4
+24537_5	has_surface_form	as
+24537_6	is_in_sentence	sentence_24537
+24537_6	compound	24537_8
+24537_6	has_surface_form	Yomitan
+24537_8	is_in_sentence	sentence_24537
+24537_8	pobj	24537_5
+24537_8	has_surface_form	Airfield
+24537_7	is_in_sentence	sentence_24537
+24537_7	compound	24537_8
+24537_7	has_surface_form	Auxiliary
+24537_9	is_in_sentence	sentence_24537
+24537_9	punct	24537_4
+24537_9	has_surface_form	)
+24537_11	is_in_sentence	sentence_24537
+24537_11	det	24537_14
+24537_11	has_surface_form	a
+24537_14	is_in_sentence	sentence_24537
+24537_14	attr	24537_10
+24537_14	has_surface_form	airfield
+24537_14	part_of_entity	military airfield
+24537_12	is_in_sentence	sentence_24537
+24537_12	amod	24537_14
+24537_12	has_surface_form	former
+24537_13	is_in_sentence	sentence_24537
+24537_13	amod	24537_14
+24537_13	has_surface_form	military
+24537_13	part_of_entity	military airfield
+24537_15	is_in_sentence	sentence_24537
+24537_15	prep	24537_14
+24537_15	has_surface_form	on
+24537_16	is_in_sentence	sentence_24537
+24537_16	pobj	24537_15
+24537_16	has_surface_form	Okinawa
+24537_17	is_in_sentence	sentence_24537
+24537_17	punct	24537_16
+24537_17	has_surface_form	,
+24537_18	is_in_sentence	sentence_24537
+24537_18	acl	24537_14
+24537_18	has_surface_form	located
+24537_19	is_in_sentence	sentence_24537
+24537_19	dobj	24537_18
+24537_19	has_surface_form	Yomitan
+24537_20	is_in_sentence	sentence_24537
+24537_20	punct	24537_19
+24537_20	has_surface_form	,
+24537_21	is_in_sentence	sentence_24537
+24537_21	compound	24537_22
+24537_21	has_surface_form	Okinawa
+24537_22	is_in_sentence	sentence_24537
+24537_22	appos	24537_19
+24537_22	has_surface_form	Village
+24537_23	is_in_sentence	sentence_24537
+24537_23	prep	24537_22
+24537_23	has_surface_form	on
+24537_24	is_in_sentence	sentence_24537
+24537_24	det	24537_27
+24537_24	has_surface_form	the
+24537_27	is_in_sentence	sentence_24537
+24537_27	pobj	24537_23
+24537_27	has_surface_form	coast
+24537_25	is_in_sentence	sentence_24537
+24537_25	nmod	24537_27
+24537_25	has_surface_form	Okinawa
+24537_26	is_in_sentence	sentence_24537
+24537_26	amod	24537_27
+24537_26	has_surface_form	western
+24537_28	is_in_sentence	sentence_24537
+24537_28	punct	24537_10
+24537_28	has_surface_form	.
+24537_29	is_in_sentence	sentence_24537
+24537_29	dep	24537_29
+24537_29	has_surface_form	
+Yontan Airfield	surface_form	Yontan Airfield
+Yontan Airfield	has-type	military airfield
+military airfield	surface_form	military airfield

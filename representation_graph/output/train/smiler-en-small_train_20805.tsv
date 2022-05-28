@@ -1,0 +1,76 @@
+20804_0	is_in_sentence	sentence_20804
+20804_0	compound	20804_1
+20804_0	has_surface_form	Buddy
+20804_0	part_of_entity	Buddy Cannon
+20804_1	is_in_sentence	sentence_20804
+20804_1	nsubj	20804_12
+20804_1	has_surface_form	Cannon
+20804_1	part_of_entity	Buddy Cannon
+20804_12	is_in_sentence	sentence_20804
+20804_12	ROOT	20804_12
+20804_12	has_surface_form	is
+20804_2	is_in_sentence	sentence_20804
+20804_2	punct	20804_1
+20804_2	has_surface_form	(
+20804_3	is_in_sentence	sentence_20804
+20804_3	acl	20804_1
+20804_3	has_surface_form	born
+20804_4	is_in_sentence	sentence_20804
+20804_4	npadvmod	20804_3
+20804_4	has_surface_form	August
+20804_5	is_in_sentence	sentence_20804
+20804_5	nummod	20804_4
+20804_5	has_surface_form	9
+20804_6	is_in_sentence	sentence_20804
+20804_6	punct	20804_4
+20804_6	has_surface_form	,
+20804_7	is_in_sentence	sentence_20804
+20804_7	nummod	20804_8
+20804_7	has_surface_form	1947
+20804_8	is_in_sentence	sentence_20804
+20804_8	conj	20804_4
+20804_8	has_surface_form	Lexington
+20804_9	is_in_sentence	sentence_20804
+20804_9	punct	20804_8
+20804_9	has_surface_form	,
+20804_10	is_in_sentence	sentence_20804
+20804_10	appos	20804_8
+20804_10	has_surface_form	Tennessee
+20804_11	is_in_sentence	sentence_20804
+20804_11	punct	20804_8
+20804_11	has_surface_form	)
+20804_13	is_in_sentence	sentence_20804
+20804_13	det	20804_17
+20804_13	has_surface_form	an
+20804_17	is_in_sentence	sentence_20804
+20804_17	attr	20804_12
+20804_17	has_surface_form	songwriter
+20804_14	is_in_sentence	sentence_20804
+20804_14	amod	20804_17
+20804_14	has_surface_form	American
+20804_15	is_in_sentence	sentence_20804
+20804_15	compound	20804_16
+20804_15	has_surface_form	country
+20804_15	part_of_entity	country music
+20804_16	is_in_sentence	sentence_20804
+20804_16	compound	20804_17
+20804_16	has_surface_form	music
+20804_16	part_of_entity	country music
+20804_18	is_in_sentence	sentence_20804
+20804_18	cc	20804_17
+20804_18	has_surface_form	and
+20804_19	is_in_sentence	sentence_20804
+20804_19	compound	20804_20
+20804_19	has_surface_form	record
+20804_20	is_in_sentence	sentence_20804
+20804_20	conj	20804_17
+20804_20	has_surface_form	producer
+20804_21	is_in_sentence	sentence_20804
+20804_21	punct	20804_12
+20804_21	has_surface_form	.
+20804_22	is_in_sentence	sentence_20804
+20804_22	dep	20804_22
+20804_22	has_surface_form	
+Buddy Cannon	surface_form	Buddy Cannon
+Buddy Cannon	has-genre	country music
+country music	surface_form	country music

@@ -1,0 +1,55 @@
+585_0	is_in_sentence	sentence_585
+585_0	compound	585_1
+585_0	has_surface_form	Pete
+585_0	part_of_entity	Pete Hurt
+585_1	is_in_sentence	sentence_585
+585_1	nsubj	585_9
+585_1	has_surface_form	Hurt
+585_1	part_of_entity	Pete Hurt
+585_9	is_in_sentence	sentence_585
+585_9	ROOT	585_9
+585_9	has_surface_form	is
+585_2	is_in_sentence	sentence_585
+585_2	punct	585_1
+585_2	has_surface_form	(
+585_3	is_in_sentence	sentence_585
+585_3	acl	585_1
+585_3	has_surface_form	born
+585_4	is_in_sentence	sentence_585
+585_4	npadvmod	585_3
+585_4	has_surface_form	September
+585_5	is_in_sentence	sentence_585
+585_5	nummod	585_4
+585_5	has_surface_form	22
+585_6	is_in_sentence	sentence_585
+585_6	punct	585_4
+585_6	has_surface_form	,
+585_7	is_in_sentence	sentence_585
+585_7	nummod	585_4
+585_7	has_surface_form	1956
+585_8	is_in_sentence	sentence_585
+585_8	punct	585_1
+585_8	has_surface_form	)
+585_10	is_in_sentence	sentence_585
+585_10	det	585_13
+585_10	has_surface_form	an
+585_13	is_in_sentence	sentence_585
+585_13	attr	585_9
+585_13	has_surface_form	coach
+585_13	part_of_entity	football coach
+585_11	is_in_sentence	sentence_585
+585_11	amod	585_13
+585_11	has_surface_form	American
+585_12	is_in_sentence	sentence_585
+585_12	compound	585_13
+585_12	has_surface_form	football
+585_12	part_of_entity	football coach
+585_14	is_in_sentence	sentence_585
+585_14	punct	585_9
+585_14	has_surface_form	.
+585_15	is_in_sentence	sentence_585
+585_15	dep	585_15
+585_15	has_surface_form	
+Pete Hurt	surface_form	Pete Hurt
+Pete Hurt	has-type	football coach
+football coach	surface_form	football coach

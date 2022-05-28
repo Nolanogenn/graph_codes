@@ -1,0 +1,107 @@
+11879_0	is_in_sentence	sentence_11879
+11879_0	det	11879_2
+11879_0	has_surface_form	The
+11879_0	part_of_entity	The Prosecutor Hallers
+11879_2	is_in_sentence	sentence_11879
+11879_2	nsubj	11879_10
+11879_2	has_surface_form	Hallers
+11879_2	part_of_entity	The Prosecutor Hallers
+11879_1	is_in_sentence	sentence_11879
+11879_1	compound	11879_2
+11879_1	has_surface_form	Prosecutor
+11879_1	part_of_entity	The Prosecutor Hallers
+11879_10	is_in_sentence	sentence_11879
+11879_10	ROOT	11879_10
+11879_10	has_surface_form	is
+11879_3	is_in_sentence	sentence_11879
+11879_3	punct	11879_2
+11879_3	has_surface_form	(
+11879_4	is_in_sentence	sentence_11879
+11879_4	appos	11879_2
+11879_4	has_surface_form	French
+11879_5	is_in_sentence	sentence_11879
+11879_5	punct	11879_4
+11879_5	has_surface_form	:
+11879_6	is_in_sentence	sentence_11879
+11879_6	compound	11879_8
+11879_6	has_surface_form	Le
+11879_8	is_in_sentence	sentence_11879
+11879_8	appos	11879_4
+11879_8	has_surface_form	Hallers
+11879_7	is_in_sentence	sentence_11879
+11879_7	compound	11879_8
+11879_7	has_surface_form	procureur
+11879_9	is_in_sentence	sentence_11879
+11879_9	punct	11879_4
+11879_9	has_surface_form	)
+11879_11	is_in_sentence	sentence_11879
+11879_11	det	11879_15
+11879_11	has_surface_form	a
+11879_15	is_in_sentence	sentence_11879
+11879_15	attr	11879_10
+11879_15	has_surface_form	film
+11879_12	is_in_sentence	sentence_11879
+11879_12	nummod	11879_15
+11879_12	has_surface_form	1930
+11879_13	is_in_sentence	sentence_11879
+11879_13	amod	11879_15
+11879_13	has_surface_form	French
+11879_14	is_in_sentence	sentence_11879
+11879_14	compound	11879_15
+11879_14	has_surface_form	drama
+11879_16	is_in_sentence	sentence_11879
+11879_16	acl	11879_15
+11879_16	has_surface_form	directed
+11879_17	is_in_sentence	sentence_11879
+11879_17	agent	11879_16
+11879_17	has_surface_form	by
+11879_18	is_in_sentence	sentence_11879
+11879_18	compound	11879_19
+11879_18	has_surface_form	Robert
+11879_18	part_of_entity	Robert Wiene
+11879_19	is_in_sentence	sentence_11879
+11879_19	pobj	11879_17
+11879_19	has_surface_form	Wiene
+11879_19	part_of_entity	Robert Wiene
+11879_20	is_in_sentence	sentence_11879
+11879_20	cc	11879_16
+11879_20	has_surface_form	and
+11879_21	is_in_sentence	sentence_11879
+11879_21	conj	11879_16
+11879_21	has_surface_form	starring
+11879_22	is_in_sentence	sentence_11879
+11879_22	compound	11879_24
+11879_22	has_surface_form	Jean
+11879_24	is_in_sentence	sentence_11879
+11879_24	dobj	11879_21
+11879_24	has_surface_form	Max
+11879_23	is_in_sentence	sentence_11879
+11879_23	punct	11879_24
+11879_23	has_surface_form	-
+11879_25	is_in_sentence	sentence_11879
+11879_25	punct	11879_24
+11879_25	has_surface_form	,
+11879_26	is_in_sentence	sentence_11879
+11879_26	compound	11879_27
+11879_26	has_surface_form	Colette
+11879_27	is_in_sentence	sentence_11879
+11879_27	conj	11879_24
+11879_27	has_surface_form	Darfeuil
+11879_28	is_in_sentence	sentence_11879
+11879_28	cc	11879_27
+11879_28	has_surface_form	and
+11879_29	is_in_sentence	sentence_11879
+11879_29	compound	11879_30
+11879_29	has_surface_form	Suzanne
+11879_30	is_in_sentence	sentence_11879
+11879_30	conj	11879_27
+11879_30	has_surface_form	Delmas
+11879_31	is_in_sentence	sentence_11879
+11879_31	punct	11879_10
+11879_31	has_surface_form	.
+11879_32	is_in_sentence	sentence_11879
+11879_32	dep	11879_10
+11879_32	has_surface_form	
+The Prosecutor Hallers	surface_form	The Prosecutor Hallers
+The Prosecutor Hallers	movie-has-director	Robert Wiene
+Robert Wiene	surface_form	Robert Wiene

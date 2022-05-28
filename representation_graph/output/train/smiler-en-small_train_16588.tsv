@@ -1,0 +1,71 @@
+16587_0	is_in_sentence	sentence_16587
+16587_0	compound	16587_1
+16587_0	has_surface_form	Fred
+16587_0	part_of_entity	Fred C. Beyer High School
+16587_1	is_in_sentence	sentence_16587
+16587_1	compound	16587_2
+16587_1	has_surface_form	C.
+16587_1	part_of_entity	Fred C. Beyer High School
+16587_2	is_in_sentence	sentence_16587
+16587_2	compound	16587_4
+16587_2	has_surface_form	Beyer
+16587_2	part_of_entity	Fred C. Beyer High School
+16587_4	is_in_sentence	sentence_16587
+16587_4	nsubj	16587_5
+16587_4	has_surface_form	School
+16587_4	part_of_entity	Fred C. Beyer High School
+16587_3	is_in_sentence	sentence_16587
+16587_3	compound	16587_4
+16587_3	has_surface_form	High
+16587_3	part_of_entity	Fred C. Beyer High School
+16587_5	is_in_sentence	sentence_16587
+16587_5	ROOT	16587_5
+16587_5	has_surface_form	is
+16587_6	is_in_sentence	sentence_16587
+16587_6	det	16587_8
+16587_6	has_surface_form	a
+16587_8	is_in_sentence	sentence_16587
+16587_8	attr	16587_5
+16587_8	has_surface_form	school
+16587_7	is_in_sentence	sentence_16587
+16587_7	amod	16587_8
+16587_7	has_surface_form	high
+16587_9	is_in_sentence	sentence_16587
+16587_9	prep	16587_8
+16587_9	has_surface_form	in
+16587_10	is_in_sentence	sentence_16587
+16587_10	pobj	16587_9
+16587_10	has_surface_form	Modesto
+16587_11	is_in_sentence	sentence_16587
+16587_11	punct	16587_10
+16587_11	has_surface_form	,
+16587_12	is_in_sentence	sentence_16587
+16587_12	appos	16587_10
+16587_12	has_surface_form	California
+16587_13	is_in_sentence	sentence_16587
+16587_13	punct	16587_10
+16587_13	has_surface_form	,
+16587_14	is_in_sentence	sentence_16587
+16587_14	acl	16587_10
+16587_14	has_surface_form	located
+16587_15	is_in_sentence	sentence_16587
+16587_15	prep	16587_14
+16587_15	has_surface_form	in
+16587_16	is_in_sentence	sentence_16587
+16587_16	det	16587_18
+16587_16	has_surface_form	the
+16587_18	is_in_sentence	sentence_16587
+16587_18	pobj	16587_15
+16587_18	has_surface_form	County
+16587_17	is_in_sentence	sentence_16587
+16587_17	compound	16587_18
+16587_17	has_surface_form	Stanislaus
+16587_19	is_in_sentence	sentence_16587
+16587_19	punct	16587_5
+16587_19	has_surface_form	.
+16587_20	is_in_sentence	sentence_16587
+16587_20	dep	16587_5
+16587_20	has_surface_form	
+Fred C. Beyer High School	surface_form	Fred C. Beyer High School
+Fred C. Beyer High School	is-where	Modesto, California
+Modesto, California	surface_form	Modesto, California

@@ -1,0 +1,77 @@
+30466_0	is_in_sentence	sentence_30466
+30466_0	csubj	30466_10
+30466_0	has_surface_form	Eat
+30466_0	part_of_entity	Eat Sleep Die
+30466_10	is_in_sentence	sentence_30466
+30466_10	ROOT	30466_10
+30466_10	has_surface_form	is
+30466_1	is_in_sentence	sentence_30466
+30466_1	compound	30466_2
+30466_1	has_surface_form	Sleep
+30466_1	part_of_entity	Eat Sleep Die
+30466_2	is_in_sentence	sentence_30466
+30466_2	dobj	30466_0
+30466_2	has_surface_form	Die
+30466_2	part_of_entity	Eat Sleep Die
+30466_3	is_in_sentence	sentence_30466
+30466_3	punct	30466_2
+30466_3	has_surface_form	(
+30466_4	is_in_sentence	sentence_30466
+30466_4	appos	30466_2
+30466_4	has_surface_form	Swedish
+30466_5	is_in_sentence	sentence_30466
+30466_5	punct	30466_4
+30466_5	has_surface_form	:
+30466_6	is_in_sentence	sentence_30466
+30466_6	compound	30466_7
+30466_6	has_surface_form	Äta
+30466_7	is_in_sentence	sentence_30466
+30466_7	appos	30466_2
+30466_7	has_surface_form	sova
+30466_8	is_in_sentence	sentence_30466
+30466_8	advmod	30466_0
+30466_8	has_surface_form	dö
+30466_9	is_in_sentence	sentence_30466
+30466_9	punct	30466_0
+30466_9	has_surface_form	)
+30466_11	is_in_sentence	sentence_30466
+30466_11	det	30466_14
+30466_11	has_surface_form	a
+30466_14	is_in_sentence	sentence_30466
+30466_14	attr	30466_10
+30466_14	has_surface_form	film
+30466_12	is_in_sentence	sentence_30466
+30466_12	nummod	30466_14
+30466_12	has_surface_form	2012
+30466_13	is_in_sentence	sentence_30466
+30466_13	amod	30466_14
+30466_13	has_surface_form	Swedish
+30466_15	is_in_sentence	sentence_30466
+30466_15	acl	30466_14
+30466_15	has_surface_form	written
+30466_16	is_in_sentence	sentence_30466
+30466_16	cc	30466_15
+30466_16	has_surface_form	and
+30466_17	is_in_sentence	sentence_30466
+30466_17	conj	30466_15
+30466_17	has_surface_form	directed
+30466_18	is_in_sentence	sentence_30466
+30466_18	agent	30466_17
+30466_18	has_surface_form	by
+30466_19	is_in_sentence	sentence_30466
+30466_19	compound	30466_20
+30466_19	has_surface_form	Gabriela
+30466_19	part_of_entity	Gabriela Pichler
+30466_20	is_in_sentence	sentence_30466
+30466_20	pobj	30466_18
+30466_20	has_surface_form	Pichler
+30466_20	part_of_entity	Gabriela Pichler
+30466_21	is_in_sentence	sentence_30466
+30466_21	punct	30466_10
+30466_21	has_surface_form	.
+30466_22	is_in_sentence	sentence_30466
+30466_22	dep	30466_22
+30466_22	has_surface_form	
+Eat Sleep Die	surface_form	Eat Sleep Die
+Eat Sleep Die	movie-has-director	Gabriela Pichler
+Gabriela Pichler	surface_form	Gabriela Pichler

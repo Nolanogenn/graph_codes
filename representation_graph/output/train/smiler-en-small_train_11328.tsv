@@ -1,0 +1,72 @@
+11327_0	is_in_sentence	sentence_11327
+11327_0	det	11327_3
+11327_0	has_surface_form	The
+11327_0	part_of_entity	The Canary Yellow Bicycle
+11327_3	is_in_sentence	sentence_11327
+11327_3	nsubj	11327_11
+11327_3	has_surface_form	Bicycle
+11327_3	part_of_entity	The Canary Yellow Bicycle
+11327_1	is_in_sentence	sentence_11327
+11327_1	compound	11327_3
+11327_1	has_surface_form	Canary
+11327_1	part_of_entity	The Canary Yellow Bicycle
+11327_2	is_in_sentence	sentence_11327
+11327_2	compound	11327_3
+11327_2	has_surface_form	Yellow
+11327_2	part_of_entity	The Canary Yellow Bicycle
+11327_11	is_in_sentence	sentence_11327
+11327_11	ROOT	11327_11
+11327_11	has_surface_form	is
+11327_4	is_in_sentence	sentence_11327
+11327_4	punct	11327_3
+11327_4	has_surface_form	(
+11327_5	is_in_sentence	sentence_11327
+11327_5	appos	11327_3
+11327_5	has_surface_form	Greek
+11327_6	is_in_sentence	sentence_11327
+11327_6	punct	11327_5
+11327_6	has_surface_form	:
+11327_7	is_in_sentence	sentence_11327
+11327_7	compound	11327_9
+11327_7	has_surface_form	Το
+11327_9	is_in_sentence	sentence_11327
+11327_9	appos	11327_5
+11327_9	has_surface_form	Ποδήλατο
+11327_8	is_in_sentence	sentence_11327
+11327_8	compound	11327_9
+11327_8	has_surface_form	Καναρινί
+11327_10	is_in_sentence	sentence_11327
+11327_10	punct	11327_5
+11327_10	has_surface_form	)
+11327_12	is_in_sentence	sentence_11327
+11327_12	det	11327_14
+11327_12	has_surface_form	a
+11327_14	is_in_sentence	sentence_11327
+11327_14	attr	11327_11
+11327_14	has_surface_form	film
+11327_13	is_in_sentence	sentence_11327
+11327_13	amod	11327_14
+11327_13	has_surface_form	Greek
+11327_15	is_in_sentence	sentence_11327
+11327_15	acl	11327_14
+11327_15	has_surface_form	directed
+11327_16	is_in_sentence	sentence_11327
+11327_16	agent	11327_15
+11327_16	has_surface_form	by
+11327_17	is_in_sentence	sentence_11327
+11327_17	compound	11327_18
+11327_17	has_surface_form	Dimitris
+11327_17	part_of_entity	Dimitris Stavrakas
+11327_18	is_in_sentence	sentence_11327
+11327_18	pobj	11327_16
+11327_18	has_surface_form	Stavrakas
+11327_18	part_of_entity	Dimitris Stavrakas
+11327_19	is_in_sentence	sentence_11327
+11327_19	punct	11327_11
+11327_19	has_surface_form	.
+11327_20	is_in_sentence	sentence_11327
+11327_20	dep	11327_11
+11327_20	has_surface_form	
+The Canary Yellow Bicycle	surface_form	The Canary Yellow Bicycle
+The Canary Yellow Bicycle	movie-has-director	Dimitris Stavrakas
+Dimitris Stavrakas	surface_form	Dimitris Stavrakas

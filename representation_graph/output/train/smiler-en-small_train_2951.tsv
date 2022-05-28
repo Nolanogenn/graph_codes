@@ -1,0 +1,104 @@
+2950_0	is_in_sentence	sentence_2950
+2950_0	nsubj	2950_10
+2950_0	has_surface_form	Felix
+2950_0	part_of_entity	Felix and Meira
+2950_10	is_in_sentence	sentence_2950
+2950_10	ROOT	2950_10
+2950_10	has_surface_form	is
+2950_1	is_in_sentence	sentence_2950
+2950_1	cc	2950_0
+2950_1	has_surface_form	and
+2950_1	part_of_entity	Felix and Meira
+2950_2	is_in_sentence	sentence_2950
+2950_2	conj	2950_0
+2950_2	has_surface_form	Meira
+2950_2	part_of_entity	Felix and Meira
+2950_3	is_in_sentence	sentence_2950
+2950_3	punct	2950_4
+2950_3	has_surface_form	(
+2950_4	is_in_sentence	sentence_2950
+2950_4	appos	2950_0
+2950_4	has_surface_form	French
+2950_5	is_in_sentence	sentence_2950
+2950_5	punct	2950_4
+2950_5	has_surface_form	:
+2950_6	is_in_sentence	sentence_2950
+2950_6	compound	2950_8
+2950_6	has_surface_form	Félix
+2950_8	is_in_sentence	sentence_2950
+2950_8	appos	2950_0
+2950_8	has_surface_form	Meira
+2950_7	is_in_sentence	sentence_2950
+2950_7	compound	2950_8
+2950_7	has_surface_form	et
+2950_9	is_in_sentence	sentence_2950
+2950_9	punct	2950_0
+2950_9	has_surface_form	)
+2950_11	is_in_sentence	sentence_2950
+2950_11	det	2950_15
+2950_11	has_surface_form	a
+2950_15	is_in_sentence	sentence_2950
+2950_15	attr	2950_10
+2950_15	has_surface_form	film
+2950_12	is_in_sentence	sentence_2950
+2950_12	nummod	2950_15
+2950_12	has_surface_form	2014
+2950_13	is_in_sentence	sentence_2950
+2950_13	amod	2950_15
+2950_13	has_surface_form	Canadian
+2950_14	is_in_sentence	sentence_2950
+2950_14	compound	2950_15
+2950_14	has_surface_form	drama
+2950_16	is_in_sentence	sentence_2950
+2950_16	acl	2950_15
+2950_16	has_surface_form	directed
+2950_17	is_in_sentence	sentence_2950
+2950_17	agent	2950_16
+2950_17	has_surface_form	by
+2950_18	is_in_sentence	sentence_2950
+2950_18	compound	2950_19
+2950_18	has_surface_form	Maxime
+2950_19	is_in_sentence	sentence_2950
+2950_19	pobj	2950_17
+2950_19	has_surface_form	Giroux
+2950_20	is_in_sentence	sentence_2950
+2950_20	cc	2950_16
+2950_20	has_surface_form	and
+2950_21	is_in_sentence	sentence_2950
+2950_21	conj	2950_16
+2950_21	has_surface_form	starring
+2950_22	is_in_sentence	sentence_2950
+2950_22	compound	2950_23
+2950_22	has_surface_form	Martin
+2950_23	is_in_sentence	sentence_2950
+2950_23	dobj	2950_21
+2950_23	has_surface_form	Dubreuil
+2950_24	is_in_sentence	sentence_2950
+2950_24	punct	2950_23
+2950_24	has_surface_form	,
+2950_25	is_in_sentence	sentence_2950
+2950_25	compound	2950_26
+2950_25	has_surface_form	Hadas
+2950_25	part_of_entity	Hadas Yaron
+2950_26	is_in_sentence	sentence_2950
+2950_26	conj	2950_23
+2950_26	has_surface_form	Yaron
+2950_26	part_of_entity	Hadas Yaron
+2950_27	is_in_sentence	sentence_2950
+2950_27	cc	2950_26
+2950_27	has_surface_form	and
+2950_28	is_in_sentence	sentence_2950
+2950_28	compound	2950_29
+2950_28	has_surface_form	Luzer
+2950_29	is_in_sentence	sentence_2950
+2950_29	conj	2950_26
+2950_29	has_surface_form	Twersky
+2950_30	is_in_sentence	sentence_2950
+2950_30	punct	2950_10
+2950_30	has_surface_form	.
+2950_31	is_in_sentence	sentence_2950
+2950_31	dep	2950_10
+2950_31	has_surface_form	
+Felix and Meira	surface_form	Felix and Meira
+Felix and Meira	starring	Hadas Yaron
+Hadas Yaron	surface_form	Hadas Yaron

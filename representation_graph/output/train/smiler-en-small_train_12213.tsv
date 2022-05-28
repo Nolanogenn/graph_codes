@@ -1,0 +1,78 @@
+12212_0	is_in_sentence	sentence_12212
+12212_0	compound	12212_1
+12212_0	has_surface_form	Mike
+12212_0	part_of_entity	Mike Garland
+12212_1	is_in_sentence	sentence_12212
+12212_1	nsubj	12212_9
+12212_1	has_surface_form	Garland
+12212_1	part_of_entity	Mike Garland
+12212_9	is_in_sentence	sentence_12212
+12212_9	ROOT	12212_9
+12212_9	has_surface_form	is
+12212_2	is_in_sentence	sentence_12212
+12212_2	punct	12212_1
+12212_2	has_surface_form	(
+12212_3	is_in_sentence	sentence_12212
+12212_3	acl	12212_1
+12212_3	has_surface_form	born
+12212_4	is_in_sentence	sentence_12212
+12212_4	npadvmod	12212_3
+12212_4	has_surface_form	May
+12212_5	is_in_sentence	sentence_12212
+12212_5	nummod	12212_4
+12212_5	has_surface_form	31
+12212_6	is_in_sentence	sentence_12212
+12212_6	punct	12212_4
+12212_6	has_surface_form	,
+12212_7	is_in_sentence	sentence_12212
+12212_7	nummod	12212_4
+12212_7	has_surface_form	1954
+12212_8	is_in_sentence	sentence_12212
+12212_8	punct	12212_1
+12212_8	has_surface_form	)
+12212_10	is_in_sentence	sentence_12212
+12212_10	det	12212_16
+12212_10	has_surface_form	an
+12212_16	is_in_sentence	sentence_12212
+12212_16	attr	12212_9
+12212_16	has_surface_form	coach
+12212_16	part_of_entity	head college basketball coach
+12212_11	is_in_sentence	sentence_12212
+12212_11	amod	12212_16
+12212_11	has_surface_form	American
+12212_12	is_in_sentence	sentence_12212
+12212_12	amod	12212_16
+12212_12	has_surface_form	former
+12212_13	is_in_sentence	sentence_12212
+12212_13	compound	12212_14
+12212_13	has_surface_form	head
+12212_13	part_of_entity	head college basketball coach
+12212_14	is_in_sentence	sentence_12212
+12212_14	compound	12212_15
+12212_14	has_surface_form	college
+12212_14	part_of_entity	head college basketball coach
+12212_15	is_in_sentence	sentence_12212
+12212_15	compound	12212_16
+12212_15	has_surface_form	basketball
+12212_15	part_of_entity	head college basketball coach
+12212_17	is_in_sentence	sentence_12212
+12212_17	prep	12212_16
+12212_17	has_surface_form	at
+12212_18	is_in_sentence	sentence_12212
+12212_18	compound	12212_19
+12212_18	has_surface_form	Cleveland
+12212_19	is_in_sentence	sentence_12212
+12212_19	compound	12212_20
+12212_19	has_surface_form	State
+12212_20	is_in_sentence	sentence_12212
+12212_20	pobj	12212_17
+12212_20	has_surface_form	University
+12212_21	is_in_sentence	sentence_12212
+12212_21	punct	12212_9
+12212_21	has_surface_form	.
+12212_22	is_in_sentence	sentence_12212
+12212_22	dep	12212_9
+12212_22	has_surface_form	
+Mike Garland	surface_form	Mike Garland
+Mike Garland	has-type	head college basketball coach
+head college basketball coach	surface_form	head college basketball coach

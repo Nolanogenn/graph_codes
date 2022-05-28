@@ -1,0 +1,50 @@
+15258_0	is_in_sentence	sentence_15258
+15258_0	compound	15258_1
+15258_0	has_surface_form	Valerie
+15258_0	part_of_entity	Valerie Tian
+15258_1	is_in_sentence	sentence_15258
+15258_1	nsubj	15258_9
+15258_1	has_surface_form	Tian
+15258_1	part_of_entity	Valerie Tian
+15258_9	is_in_sentence	sentence_15258
+15258_9	ROOT	15258_9
+15258_9	has_surface_form	is
+15258_2	is_in_sentence	sentence_15258
+15258_2	punct	15258_1
+15258_2	has_surface_form	(
+15258_3	is_in_sentence	sentence_15258
+15258_3	acl	15258_1
+15258_3	has_surface_form	born
+15258_4	is_in_sentence	sentence_15258
+15258_4	npadvmod	15258_3
+15258_4	has_surface_form	April
+15258_5	is_in_sentence	sentence_15258
+15258_5	nummod	15258_4
+15258_5	has_surface_form	21
+15258_6	is_in_sentence	sentence_15258
+15258_6	punct	15258_4
+15258_6	has_surface_form	,
+15258_7	is_in_sentence	sentence_15258
+15258_7	nummod	15258_4
+15258_7	has_surface_form	1989
+15258_8	is_in_sentence	sentence_15258
+15258_8	punct	15258_1
+15258_8	has_surface_form	)
+15258_10	is_in_sentence	sentence_15258
+15258_10	det	15258_12
+15258_10	has_surface_form	a
+15258_12	is_in_sentence	sentence_15258
+15258_12	attr	15258_9
+15258_12	is_entity	actress
+15258_11	is_in_sentence	sentence_15258
+15258_11	amod	15258_12
+15258_11	has_surface_form	Canadian
+actress	surface_form	actress
+15258_13	is_in_sentence	sentence_15258
+15258_13	punct	15258_9
+15258_13	has_surface_form	.
+15258_14	is_in_sentence	sentence_15258
+15258_14	dep	15258_14
+15258_14	has_surface_form	
+Valerie Tian	surface_form	Valerie Tian
+Valerie Tian	has-occupation	actress

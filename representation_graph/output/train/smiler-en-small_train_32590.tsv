@@ -1,0 +1,98 @@
+32589_0	is_in_sentence	sentence_32589
+32589_0	compound	32589_1
+32589_0	has_surface_form	Pennsylvania
+32589_0	part_of_entity	Pennsylvania Route 45
+32589_1	is_in_sentence	sentence_32589
+32589_1	nsubj	32589_7
+32589_1	has_surface_form	Route
+32589_1	part_of_entity	Pennsylvania Route 45
+32589_7	is_in_sentence	sentence_32589
+32589_7	ROOT	32589_7
+32589_7	has_surface_form	is
+32589_2	is_in_sentence	sentence_32589
+32589_2	nummod	32589_1
+32589_2	has_surface_form	45
+32589_2	part_of_entity	Pennsylvania Route 45
+32589_3	is_in_sentence	sentence_32589
+32589_3	punct	32589_1
+32589_3	has_surface_form	(
+32589_4	is_in_sentence	sentence_32589
+32589_4	appos	32589_1
+32589_4	has_surface_form	PA
+32589_5	is_in_sentence	sentence_32589
+32589_5	nummod	32589_4
+32589_5	has_surface_form	45
+32589_6	is_in_sentence	sentence_32589
+32589_6	punct	32589_1
+32589_6	has_surface_form	)
+32589_8	is_in_sentence	sentence_32589
+32589_8	det	32589_20
+32589_8	has_surface_form	an
+32589_20	is_in_sentence	sentence_32589
+32589_20	attr	32589_7
+32589_20	has_surface_form	highway
+32589_20	part_of_entity	state highway
+32589_9	is_in_sentence	sentence_32589
+32589_9	nummod	32589_11
+32589_9	has_surface_form	86
+32589_11	is_in_sentence	sentence_32589
+32589_11	npadvmod	32589_13
+32589_11	has_surface_form	mile
+32589_10	is_in_sentence	sentence_32589
+32589_10	punct	32589_11
+32589_10	has_surface_form	-
+32589_13	is_in_sentence	sentence_32589
+32589_13	amod	32589_20
+32589_13	has_surface_form	long
+32589_12	is_in_sentence	sentence_32589
+32589_12	punct	32589_13
+32589_12	has_surface_form	-
+32589_14	is_in_sentence	sentence_32589
+32589_14	punct	32589_20
+32589_14	has_surface_form	(
+32589_15	is_in_sentence	sentence_32589
+32589_15	nummod	32589_20
+32589_15	has_surface_form	138
+32589_16	is_in_sentence	sentence_32589
+32589_16	dep	32589_20
+32589_16	has_surface_form	 
+32589_17	is_in_sentence	sentence_32589
+32589_17	nmod	32589_20
+32589_17	has_surface_form	km
+32589_18	is_in_sentence	sentence_32589
+32589_18	punct	32589_20
+32589_18	has_surface_form	)
+32589_19	is_in_sentence	sentence_32589
+32589_19	compound	32589_20
+32589_19	has_surface_form	state
+32589_19	part_of_entity	state highway
+32589_21	is_in_sentence	sentence_32589
+32589_21	acl	32589_20
+32589_21	has_surface_form	located
+32589_22	is_in_sentence	sentence_32589
+32589_22	prep	32589_21
+32589_22	has_surface_form	in
+32589_23	is_in_sentence	sentence_32589
+32589_23	amod	32589_24
+32589_23	has_surface_form	central
+32589_24	is_in_sentence	sentence_32589
+32589_24	pobj	32589_22
+32589_24	has_surface_form	Pennsylvania
+32589_25	is_in_sentence	sentence_32589
+32589_25	punct	32589_24
+32589_25	has_surface_form	,
+32589_26	is_in_sentence	sentence_32589
+32589_26	compound	32589_27
+32589_26	has_surface_form	United
+32589_27	is_in_sentence	sentence_32589
+32589_27	conj	32589_24
+32589_27	has_surface_form	States
+32589_28	is_in_sentence	sentence_32589
+32589_28	punct	32589_7
+32589_28	has_surface_form	.
+32589_29	is_in_sentence	sentence_32589
+32589_29	dep	32589_7
+32589_29	has_surface_form	
+Pennsylvania Route 45	surface_form	Pennsylvania Route 45
+Pennsylvania Route 45	has-type	state highway
+state highway	surface_form	state highway

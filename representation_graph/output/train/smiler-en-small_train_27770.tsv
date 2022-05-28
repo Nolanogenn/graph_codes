@@ -1,0 +1,59 @@
+27769_0	is_in_sentence	sentence_27769
+27769_0	compound	27769_1
+27769_0	has_surface_form	Coffee
+27769_0	part_of_entity	Coffee County Central High School
+27769_1	is_in_sentence	sentence_27769
+27769_1	compound	27769_4
+27769_1	has_surface_form	County
+27769_1	part_of_entity	Coffee County Central High School
+27769_4	is_in_sentence	sentence_27769
+27769_4	nsubj	27769_5
+27769_4	has_surface_form	School
+27769_4	part_of_entity	Coffee County Central High School
+27769_2	is_in_sentence	sentence_27769
+27769_2	compound	27769_4
+27769_2	has_surface_form	Central
+27769_2	part_of_entity	Coffee County Central High School
+27769_3	is_in_sentence	sentence_27769
+27769_3	compound	27769_4
+27769_3	has_surface_form	High
+27769_3	part_of_entity	Coffee County Central High School
+27769_5	is_in_sentence	sentence_27769
+27769_5	ROOT	27769_5
+27769_5	has_surface_form	is
+27769_6	is_in_sentence	sentence_27769
+27769_6	det	27769_9
+27769_6	has_surface_form	a
+27769_9	is_in_sentence	sentence_27769
+27769_9	attr	27769_5
+27769_9	has_surface_form	school
+27769_7	is_in_sentence	sentence_27769
+27769_7	amod	27769_9
+27769_7	has_surface_form	public
+27769_8	is_in_sentence	sentence_27769
+27769_8	amod	27769_9
+27769_8	has_surface_form	high
+27769_10	is_in_sentence	sentence_27769
+27769_10	acl	27769_9
+27769_10	has_surface_form	located
+27769_11	is_in_sentence	sentence_27769
+27769_11	prep	27769_10
+27769_11	has_surface_form	in
+27769_12	is_in_sentence	sentence_27769
+27769_12	pobj	27769_11
+27769_12	has_surface_form	Manchester
+27769_13	is_in_sentence	sentence_27769
+27769_13	punct	27769_12
+27769_13	has_surface_form	,
+27769_14	is_in_sentence	sentence_27769
+27769_14	appos	27769_12
+27769_14	has_surface_form	Tennessee
+27769_15	is_in_sentence	sentence_27769
+27769_15	punct	27769_5
+27769_15	has_surface_form	.
+27769_16	is_in_sentence	sentence_27769
+27769_16	dep	27769_5
+27769_16	has_surface_form	
+Coffee County Central High School	surface_form	Coffee County Central High School
+Coffee County Central High School	is-where	Manchester, Tennessee
+Manchester, Tennessee	surface_form	Manchester, Tennessee

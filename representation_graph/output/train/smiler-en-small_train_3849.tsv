@@ -1,0 +1,76 @@
+3848_0	is_in_sentence	sentence_3848
+3848_0	compound	3848_1
+3848_0	has_surface_form	Marc
+3848_0	part_of_entity	Marc Beeson
+3848_1	is_in_sentence	sentence_3848
+3848_1	nsubj	3848_13
+3848_1	has_surface_form	Beeson
+3848_1	part_of_entity	Marc Beeson
+3848_13	is_in_sentence	sentence_3848
+3848_13	ROOT	3848_13
+3848_13	has_surface_form	is
+3848_2	is_in_sentence	sentence_3848
+3848_2	punct	3848_1
+3848_2	has_surface_form	(
+3848_3	is_in_sentence	sentence_3848
+3848_3	acl	3848_1
+3848_3	has_surface_form	born
+3848_4	is_in_sentence	sentence_3848
+3848_4	npadvmod	3848_3
+3848_4	has_surface_form	December
+3848_5	is_in_sentence	sentence_3848
+3848_5	nummod	3848_4
+3848_5	has_surface_form	20
+3848_6	is_in_sentence	sentence_3848
+3848_6	punct	3848_4
+3848_6	has_surface_form	,
+3848_7	is_in_sentence	sentence_3848
+3848_7	nummod	3848_4
+3848_7	has_surface_form	1954
+3848_8	is_in_sentence	sentence_3848
+3848_8	prep	3848_3
+3848_8	has_surface_form	in
+3848_9	is_in_sentence	sentence_3848
+3848_9	pobj	3848_8
+3848_9	has_surface_form	Champaign
+3848_10	is_in_sentence	sentence_3848
+3848_10	punct	3848_9
+3848_10	has_surface_form	,
+3848_11	is_in_sentence	sentence_3848
+3848_11	appos	3848_9
+3848_11	has_surface_form	Illinois
+3848_12	is_in_sentence	sentence_3848
+3848_12	punct	3848_9
+3848_12	has_surface_form	)
+3848_14	is_in_sentence	sentence_3848
+3848_14	det	3848_18
+3848_14	has_surface_form	an
+3848_18	is_in_sentence	sentence_3848
+3848_18	attr	3848_13
+3848_18	has_surface_form	singer
+3848_15	is_in_sentence	sentence_3848
+3848_15	amod	3848_18
+3848_15	has_surface_form	American
+3848_16	is_in_sentence	sentence_3848
+3848_16	compound	3848_17
+3848_16	has_surface_form	country
+3848_16	part_of_entity	country music
+3848_17	is_in_sentence	sentence_3848
+3848_17	compound	3848_18
+3848_17	has_surface_form	music
+3848_17	part_of_entity	country music
+3848_19	is_in_sentence	sentence_3848
+3848_19	cc	3848_18
+3848_19	has_surface_form	and
+3848_20	is_in_sentence	sentence_3848
+3848_20	conj	3848_18
+3848_20	has_surface_form	songwriter
+3848_21	is_in_sentence	sentence_3848
+3848_21	punct	3848_13
+3848_21	has_surface_form	.
+3848_22	is_in_sentence	sentence_3848
+3848_22	dep	3848_22
+3848_22	has_surface_form	
+Marc Beeson	surface_form	Marc Beeson
+Marc Beeson	has-genre	country music
+country music	surface_form	country music

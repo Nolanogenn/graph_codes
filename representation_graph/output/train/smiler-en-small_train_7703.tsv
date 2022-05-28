@@ -1,0 +1,75 @@
+7702_0	is_in_sentence	sentence_7702
+7702_0	compound	7702_1
+7702_0	has_surface_form	Emir
+7702_0	part_of_entity	Emir Abdelkader University
+7702_1	is_in_sentence	sentence_7702
+7702_1	compound	7702_2
+7702_1	has_surface_form	Abdelkader
+7702_1	part_of_entity	Emir Abdelkader University
+7702_2	is_in_sentence	sentence_7702
+7702_2	nsubj	7702_16
+7702_2	has_surface_form	University
+7702_2	part_of_entity	Emir Abdelkader University
+7702_16	is_in_sentence	sentence_7702
+7702_16	ROOT	7702_16
+7702_16	has_surface_form	is
+7702_3	is_in_sentence	sentence_7702
+7702_3	prep	7702_2
+7702_3	has_surface_form	of
+7702_4	is_in_sentence	sentence_7702
+7702_4	compound	7702_5
+7702_4	has_surface_form	Islamic
+7702_5	is_in_sentence	sentence_7702
+7702_5	pobj	7702_3
+7702_5	has_surface_form	Sciences
+7702_6	is_in_sentence	sentence_7702
+7702_6	punct	7702_2
+7702_6	has_surface_form	(
+7702_7	is_in_sentence	sentence_7702
+7702_7	appos	7702_2
+7702_7	has_surface_form	Arabic
+7702_8	is_in_sentence	sentence_7702
+7702_8	punct	7702_7
+7702_8	has_surface_form	:
+7702_9	is_in_sentence	sentence_7702
+7702_9	appos	7702_7
+7702_9	has_surface_form	جامعة
+7702_10	is_in_sentence	sentence_7702
+7702_10	compound	7702_11
+7702_10	has_surface_form	الأمير
+7702_11	is_in_sentence	sentence_7702
+7702_11	compound	7702_14
+7702_11	has_surface_form	عبد
+7702_14	is_in_sentence	sentence_7702
+7702_14	appos	7702_9
+7702_14	has_surface_form	الإسلامية
+7702_12	is_in_sentence	sentence_7702
+7702_12	compound	7702_14
+7702_12	has_surface_form	القادر
+7702_13	is_in_sentence	sentence_7702
+7702_13	compound	7702_14
+7702_13	has_surface_form	للعلوم
+7702_15	is_in_sentence	sentence_7702
+7702_15	punct	7702_7
+7702_15	has_surface_form	)
+7702_17	is_in_sentence	sentence_7702
+7702_17	det	7702_18
+7702_17	has_surface_form	a
+7702_18	is_in_sentence	sentence_7702
+7702_18	attr	7702_16
+7702_18	has_surface_form	university
+7702_19	is_in_sentence	sentence_7702
+7702_19	prep	7702_18
+7702_19	has_surface_form	in
+7702_20	is_in_sentence	sentence_7702
+7702_20	pobj	7702_19
+7702_20	is_entity	Algeria
+Algeria	surface_form	Algeria
+7702_21	is_in_sentence	sentence_7702
+7702_21	punct	7702_16
+7702_21	has_surface_form	.
+7702_22	is_in_sentence	sentence_7702
+7702_22	dep	7702_22
+7702_22	has_surface_form	
+Emir Abdelkader University	surface_form	Emir Abdelkader University
+Emir Abdelkader University	is-where	Algeria

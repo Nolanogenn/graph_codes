@@ -1,0 +1,56 @@
+3339_0	is_in_sentence	sentence_3339
+3339_0	compound	3339_1
+3339_0	has_surface_form	David
+3339_0	part_of_entity	David Andrews
+3339_1	is_in_sentence	sentence_3339
+3339_1	nsubj	3339_8
+3339_1	has_surface_form	Andrews
+3339_1	part_of_entity	David Andrews
+3339_8	is_in_sentence	sentence_3339
+3339_8	ROOT	3339_8
+3339_8	has_surface_form	is
+3339_2	is_in_sentence	sentence_3339
+3339_2	punct	3339_3
+3339_2	has_surface_form	(
+3339_3	is_in_sentence	sentence_3339
+3339_3	acl	3339_1
+3339_3	has_surface_form	born
+3339_4	is_in_sentence	sentence_3339
+3339_4	nummod	3339_5
+3339_4	has_surface_form	15
+3339_5	is_in_sentence	sentence_3339
+3339_5	npadvmod	3339_3
+3339_5	has_surface_form	March
+3339_6	is_in_sentence	sentence_3339
+3339_6	nummod	3339_5
+3339_6	has_surface_form	1935
+3339_7	is_in_sentence	sentence_3339
+3339_7	punct	3339_1
+3339_7	has_surface_form	)
+3339_9	is_in_sentence	sentence_3339
+3339_9	det	3339_14
+3339_9	has_surface_form	a
+3339_14	is_in_sentence	sentence_3339
+3339_14	attr	3339_8
+3339_14	has_surface_form	politician
+3339_10	is_in_sentence	sentence_3339
+3339_10	amod	3339_14
+3339_10	has_surface_form	former
+3339_11	is_in_sentence	sentence_3339
+3339_11	amod	3339_14
+3339_11	is_entity	Irish
+Irish	surface_form	Irish
+3339_12	is_in_sentence	sentence_3339
+3339_12	compound	3339_13
+3339_12	has_surface_form	Fianna
+3339_13	is_in_sentence	sentence_3339
+3339_13	compound	3339_14
+3339_13	has_surface_form	Fáil
+3339_15	is_in_sentence	sentence_3339
+3339_15	punct	3339_8
+3339_15	has_surface_form	.
+3339_16	is_in_sentence	sentence_3339
+3339_16	dep	3339_8
+3339_16	has_surface_form	
+David Andrews	surface_form	David Andrews
+David Andrews	has-nationality	Irish

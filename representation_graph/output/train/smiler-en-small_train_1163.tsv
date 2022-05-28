@@ -1,0 +1,66 @@
+1162_0	is_in_sentence	sentence_1162
+1162_0	csubj	1162_2
+1162_0	has_surface_form	Following
+1162_2	is_in_sentence	sentence_1162
+1162_2	ROOT	1162_2
+1162_2	has_surface_form	Is
+1162_2	part_of_entity	Life Is Strange
+1162_1	is_in_sentence	sentence_1162
+1162_1	dobj	1162_0
+1162_1	has_surface_form	Life
+1162_1	part_of_entity	Life Is Strange
+1162_3	is_in_sentence	sentence_1162
+1162_3	acomp	1162_2
+1162_3	has_surface_form	Strange
+1162_3	part_of_entity	Life Is Strange
+1162_4	is_in_sentence	sentence_1162
+1162_4	acomp	1162_2
+1162_4	has_surface_form	was
+1162_5	is_in_sentence	sentence_1162
+1162_5	attr	1162_4
+1162_5	is_entity	Vampyr
+Vampyr	surface_form	Vampyr
+1162_6	is_in_sentence	sentence_1162
+1162_6	punct	1162_5
+1162_6	has_surface_form	,
+1162_7	is_in_sentence	sentence_1162
+1162_7	det	1162_12
+1162_7	has_surface_form	an
+1162_12	is_in_sentence	sentence_1162
+1162_12	appos	1162_5
+1162_12	has_surface_form	game
+1162_8	is_in_sentence	sentence_1162
+1162_8	compound	1162_12
+1162_8	has_surface_form	action
+1162_9	is_in_sentence	sentence_1162
+1162_9	compound	1162_11
+1162_9	has_surface_form	role
+1162_11	is_in_sentence	sentence_1162
+1162_11	compound	1162_12
+1162_11	has_surface_form	playing
+1162_10	is_in_sentence	sentence_1162
+1162_10	punct	1162_11
+1162_10	has_surface_form	-
+1162_13	is_in_sentence	sentence_1162
+1162_13	acl	1162_12
+1162_13	has_surface_form	released
+1162_14	is_in_sentence	sentence_1162
+1162_14	prep	1162_13
+1162_14	has_surface_form	on
+1162_15	is_in_sentence	sentence_1162
+1162_15	nummod	1162_16
+1162_15	has_surface_form	5
+1162_16	is_in_sentence	sentence_1162
+1162_16	pobj	1162_14
+1162_16	has_surface_form	June
+1162_17	is_in_sentence	sentence_1162
+1162_17	nummod	1162_16
+1162_17	has_surface_form	2018
+1162_18	is_in_sentence	sentence_1162
+1162_18	punct	1162_2
+1162_18	has_surface_form	.
+1162_19	is_in_sentence	sentence_1162
+1162_19	dep	1162_19
+1162_19	has_surface_form	
+Life Is Strange	surface_form	Life Is Strange
+Life Is Strange	no_relation	Vampyr

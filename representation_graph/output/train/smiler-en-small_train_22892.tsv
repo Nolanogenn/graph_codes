@@ -1,0 +1,62 @@
+22891_0	is_in_sentence	sentence_22891
+22891_0	compound	22891_1
+22891_0	has_surface_form	Ron
+22891_0	part_of_entity	Ron Blackledge
+22891_1	is_in_sentence	sentence_22891
+22891_1	nsubj	22891_9
+22891_1	has_surface_form	Blackledge
+22891_1	part_of_entity	Ron Blackledge
+22891_9	is_in_sentence	sentence_22891
+22891_9	ROOT	22891_9
+22891_9	has_surface_form	is
+22891_2	is_in_sentence	sentence_22891
+22891_2	punct	22891_1
+22891_2	has_surface_form	(
+22891_3	is_in_sentence	sentence_22891
+22891_3	acl	22891_1
+22891_3	has_surface_form	born
+22891_4	is_in_sentence	sentence_22891
+22891_4	npadvmod	22891_3
+22891_4	has_surface_form	April
+22891_5	is_in_sentence	sentence_22891
+22891_5	nummod	22891_4
+22891_5	has_surface_form	15
+22891_6	is_in_sentence	sentence_22891
+22891_6	punct	22891_4
+22891_6	has_surface_form	,
+22891_7	is_in_sentence	sentence_22891
+22891_7	nummod	22891_4
+22891_7	has_surface_form	1938
+22891_8	is_in_sentence	sentence_22891
+22891_8	punct	22891_1
+22891_8	has_surface_form	)
+22891_10	is_in_sentence	sentence_22891
+22891_10	det	22891_14
+22891_10	has_surface_form	a
+22891_14	is_in_sentence	sentence_22891
+22891_14	attr	22891_9
+22891_14	has_surface_form	player
+22891_11	is_in_sentence	sentence_22891
+22891_11	amod	22891_14
+22891_11	has_surface_form	former
+22891_12	is_in_sentence	sentence_22891
+22891_12	amod	22891_14
+22891_12	has_surface_form	American
+22891_13	is_in_sentence	sentence_22891
+22891_13	compound	22891_14
+22891_13	has_surface_form	football
+22891_15	is_in_sentence	sentence_22891
+22891_15	cc	22891_14
+22891_15	has_surface_form	and
+22891_16	is_in_sentence	sentence_22891
+22891_16	conj	22891_14
+22891_16	is_entity	coach
+coach	surface_form	coach
+22891_17	is_in_sentence	sentence_22891
+22891_17	punct	22891_9
+22891_17	has_surface_form	.
+22891_18	is_in_sentence	sentence_22891
+22891_18	dep	22891_18
+22891_18	has_surface_form	
+Ron Blackledge	surface_form	Ron Blackledge
+Ron Blackledge	has-type	coach

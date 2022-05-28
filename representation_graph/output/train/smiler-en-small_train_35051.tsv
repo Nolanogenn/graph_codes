@@ -1,0 +1,79 @@
+35050_0	is_in_sentence	sentence_35050
+35050_0	compound	35050_1
+35050_0	has_surface_form	Brad
+35050_0	part_of_entity	Brad Henry
+35050_1	is_in_sentence	sentence_35050
+35050_1	nsubjpass	35050_3
+35050_1	has_surface_form	Henry
+35050_1	part_of_entity	Brad Henry
+35050_3	is_in_sentence	sentence_35050
+35050_3	ROOT	35050_3
+35050_3	has_surface_form	born
+35050_2	is_in_sentence	sentence_35050
+35050_2	auxpass	35050_3
+35050_2	has_surface_form	was
+35050_4	is_in_sentence	sentence_35050
+35050_4	prep	35050_3
+35050_4	has_surface_form	in
+35050_5	is_in_sentence	sentence_35050
+35050_5	pobj	35050_4
+35050_5	has_surface_form	Shawnee
+35050_6	is_in_sentence	sentence_35050
+35050_6	punct	35050_5
+35050_6	has_surface_form	,
+35050_7	is_in_sentence	sentence_35050
+35050_7	conj	35050_5
+35050_7	has_surface_form	Oklahoma
+35050_8	is_in_sentence	sentence_35050
+35050_8	punct	35050_7
+35050_8	has_surface_form	,
+35050_9	is_in_sentence	sentence_35050
+35050_9	det	35050_10
+35050_9	has_surface_form	the
+35050_10	is_in_sentence	sentence_35050
+35050_10	appos	35050_7
+35050_10	has_surface_form	son
+35050_11	is_in_sentence	sentence_35050
+35050_11	prep	35050_10
+35050_11	has_surface_form	of
+35050_12	is_in_sentence	sentence_35050
+35050_12	compound	35050_13
+35050_12	has_surface_form	Charles
+35050_12	part_of_entity	Charles Henry
+35050_13	is_in_sentence	sentence_35050
+35050_13	pobj	35050_11
+35050_13	has_surface_form	Henry
+35050_13	part_of_entity	Charles Henry
+35050_14	is_in_sentence	sentence_35050
+35050_14	punct	35050_13
+35050_14	has_surface_form	,
+35050_15	is_in_sentence	sentence_35050
+35050_15	det	35050_17
+35050_15	has_surface_form	a
+35050_17	is_in_sentence	sentence_35050
+35050_17	appos	35050_13
+35050_17	has_surface_form	judge
+35050_16	is_in_sentence	sentence_35050
+35050_16	amod	35050_17
+35050_16	has_surface_form	prominent
+35050_18	is_in_sentence	sentence_35050
+35050_18	cc	35050_17
+35050_18	has_surface_form	and
+35050_19	is_in_sentence	sentence_35050
+35050_19	amod	35050_21
+35050_19	has_surface_form	former
+35050_21	is_in_sentence	sentence_35050
+35050_21	conj	35050_17
+35050_21	has_surface_form	representative
+35050_20	is_in_sentence	sentence_35050
+35050_20	compound	35050_21
+35050_20	has_surface_form	state
+35050_22	is_in_sentence	sentence_35050
+35050_22	punct	35050_3
+35050_22	has_surface_form	.
+35050_23	is_in_sentence	sentence_35050
+35050_23	dep	35050_23
+35050_23	has_surface_form	
+Brad Henry	surface_form	Brad Henry
+Brad Henry	has-parent	Charles Henry
+Charles Henry	surface_form	Charles Henry

@@ -1,0 +1,84 @@
+5623_0	is_in_sentence	sentence_5623
+5623_0	det	5623_3
+5623_0	has_surface_form	The
+5623_0	part_of_entity	The San Francisco Docks
+5623_3	is_in_sentence	sentence_5623
+5623_3	nsubj	5623_4
+5623_3	has_surface_form	Docks
+5623_3	part_of_entity	The San Francisco Docks
+5623_1	is_in_sentence	sentence_5623
+5623_1	compound	5623_2
+5623_1	has_surface_form	San
+5623_1	part_of_entity	The San Francisco Docks
+5623_2	is_in_sentence	sentence_5623
+5623_2	compound	5623_3
+5623_2	has_surface_form	Francisco
+5623_2	part_of_entity	The San Francisco Docks
+5623_4	is_in_sentence	sentence_5623
+5623_4	ROOT	5623_4
+5623_4	has_surface_form	is
+5623_5	is_in_sentence	sentence_5623
+5623_5	det	5623_7
+5623_5	has_surface_form	a
+5623_7	is_in_sentence	sentence_5623
+5623_7	attr	5623_4
+5623_7	has_surface_form	film
+5623_6	is_in_sentence	sentence_5623
+5623_6	nummod	5623_7
+5623_6	has_surface_form	1940
+5623_8	is_in_sentence	sentence_5623
+5623_8	acl	5623_7
+5623_8	has_surface_form	directed
+5623_9	is_in_sentence	sentence_5623
+5623_9	agent	5623_8
+5623_9	has_surface_form	by
+5623_10	is_in_sentence	sentence_5623
+5623_10	compound	5623_11
+5623_10	has_surface_form	Arthur
+5623_11	is_in_sentence	sentence_5623
+5623_11	pobj	5623_9
+5623_11	has_surface_form	Lubin
+5623_12	is_in_sentence	sentence_5623
+5623_12	cc	5623_8
+5623_12	has_surface_form	and
+5623_13	is_in_sentence	sentence_5623
+5623_13	conj	5623_8
+5623_13	has_surface_form	starring
+5623_14	is_in_sentence	sentence_5623
+5623_14	compound	5623_15
+5623_14	has_surface_form	Burgess
+5623_14	part_of_entity	Burgess Meredith
+5623_15	is_in_sentence	sentence_5623
+5623_15	dobj	5623_13
+5623_15	has_surface_form	Meredith
+5623_15	part_of_entity	Burgess Meredith
+5623_16	is_in_sentence	sentence_5623
+5623_16	punct	5623_15
+5623_16	has_surface_form	,
+5623_17	is_in_sentence	sentence_5623
+5623_17	compound	5623_18
+5623_17	has_surface_form	Barry
+5623_18	is_in_sentence	sentence_5623
+5623_18	appos	5623_15
+5623_18	has_surface_form	Fitzgerald
+5623_19	is_in_sentence	sentence_5623
+5623_19	punct	5623_15
+5623_19	has_surface_form	,
+5623_20	is_in_sentence	sentence_5623
+5623_20	cc	5623_15
+5623_20	has_surface_form	and
+5623_21	is_in_sentence	sentence_5623
+5623_21	compound	5623_22
+5623_21	has_surface_form	Irene
+5623_22	is_in_sentence	sentence_5623
+5623_22	conj	5623_15
+5623_22	has_surface_form	Hervey
+5623_23	is_in_sentence	sentence_5623
+5623_23	punct	5623_4
+5623_23	has_surface_form	.
+5623_24	is_in_sentence	sentence_5623
+5623_24	dep	5623_4
+5623_24	has_surface_form	
+The San Francisco Docks	surface_form	The San Francisco Docks
+The San Francisco Docks	starring	Burgess Meredith
+Burgess Meredith	surface_form	Burgess Meredith

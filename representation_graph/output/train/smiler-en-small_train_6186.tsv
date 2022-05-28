@@ -1,0 +1,36 @@
+6185_0	is_in_sentence	sentence_6185
+6185_0	compound	6185_1
+6185_0	has_surface_form	South
+6185_0	part_of_entity	South Coast Highway
+6185_1	is_in_sentence	sentence_6185
+6185_1	compound	6185_2
+6185_1	has_surface_form	Coast
+6185_1	part_of_entity	South Coast Highway
+6185_2	is_in_sentence	sentence_6185
+6185_2	nsubj	6185_3
+6185_2	has_surface_form	Highway
+6185_2	part_of_entity	South Coast Highway
+6185_3	is_in_sentence	sentence_6185
+6185_3	ROOT	6185_3
+6185_3	has_surface_form	is
+6185_4	is_in_sentence	sentence_6185
+6185_4	det	6185_7
+6185_4	has_surface_form	a
+6185_7	is_in_sentence	sentence_6185
+6185_7	attr	6185_3
+6185_7	is_entity	highway
+6185_5	is_in_sentence	sentence_6185
+6185_5	amod	6185_6
+6185_5	has_surface_form	Western
+6185_6	is_in_sentence	sentence_6185
+6185_6	amod	6185_7
+6185_6	has_surface_form	Australian
+highway	surface_form	highway
+6185_8	is_in_sentence	sentence_6185
+6185_8	punct	6185_3
+6185_8	has_surface_form	.
+6185_9	is_in_sentence	sentence_6185
+6185_9	dep	6185_9
+6185_9	has_surface_form	
+South Coast Highway	surface_form	South Coast Highway
+South Coast Highway	has-type	highway

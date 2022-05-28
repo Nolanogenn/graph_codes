@@ -1,0 +1,56 @@
+25936_0	is_in_sentence	sentence_25936
+25936_0	compound	25936_1
+25936_0	has_surface_form	Andy
+25936_0	part_of_entity	Andy Pyle
+25936_1	is_in_sentence	sentence_25936
+25936_1	nsubj	25936_11
+25936_1	has_surface_form	Pyle
+25936_1	part_of_entity	Andy Pyle
+25936_11	is_in_sentence	sentence_25936
+25936_11	ROOT	25936_11
+25936_11	has_surface_form	is
+25936_2	is_in_sentence	sentence_25936
+25936_2	punct	25936_1
+25936_2	has_surface_form	,
+25936_3	is_in_sentence	sentence_25936
+25936_3	acl	25936_1
+25936_3	has_surface_form	born
+25936_4	is_in_sentence	sentence_25936
+25936_4	prep	25936_3
+25936_4	has_surface_form	in
+25936_5	is_in_sentence	sentence_25936
+25936_5	pobj	25936_4
+25936_5	has_surface_form	1945
+25936_6	is_in_sentence	sentence_25936
+25936_6	prep	25936_3
+25936_6	has_surface_form	in
+25936_7	is_in_sentence	sentence_25936
+25936_7	pobj	25936_6
+25936_7	has_surface_form	Luton
+25936_8	is_in_sentence	sentence_25936
+25936_8	punct	25936_7
+25936_8	has_surface_form	,
+25936_9	is_in_sentence	sentence_25936
+25936_9	appos	25936_7
+25936_9	has_surface_form	England
+25936_10	is_in_sentence	sentence_25936
+25936_10	punct	25936_1
+25936_10	has_surface_form	,
+25936_12	is_in_sentence	sentence_25936
+25936_12	det	25936_14
+25936_12	has_surface_form	a
+25936_14	is_in_sentence	sentence_25936
+25936_14	attr	25936_11
+25936_14	has_surface_form	bassist
+25936_13	is_in_sentence	sentence_25936
+25936_13	amod	25936_14
+25936_13	is_entity	British
+British	surface_form	British
+25936_15	is_in_sentence	sentence_25936
+25936_15	punct	25936_11
+25936_15	has_surface_form	.
+25936_16	is_in_sentence	sentence_25936
+25936_16	dep	25936_11
+25936_16	has_surface_form	
+Andy Pyle	surface_form	Andy Pyle
+Andy Pyle	has-nationality	British

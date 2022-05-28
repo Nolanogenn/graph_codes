@@ -1,0 +1,80 @@
+4487_0	is_in_sentence	sentence_4487
+4487_0	compound	4487_2
+4487_0	has_surface_form	Riverview
+4487_0	part_of_entity	Riverview Medical Center
+4487_2	is_in_sentence	sentence_4487
+4487_2	nsubj	4487_3
+4487_2	has_surface_form	Center
+4487_2	part_of_entity	Riverview Medical Center
+4487_1	is_in_sentence	sentence_4487
+4487_1	compound	4487_2
+4487_1	has_surface_form	Medical
+4487_1	part_of_entity	Riverview Medical Center
+4487_3	is_in_sentence	sentence_4487
+4487_3	ROOT	4487_3
+4487_3	has_surface_form	is
+4487_4	is_in_sentence	sentence_4487
+4487_4	det	4487_11
+4487_4	has_surface_form	a
+4487_11	is_in_sentence	sentence_4487
+4487_11	attr	4487_3
+4487_11	has_surface_form	hospital
+4487_11	part_of_entity	community hospital
+4487_5	is_in_sentence	sentence_4487
+4487_5	nummod	4487_7
+4487_5	has_surface_form	476
+4487_7	is_in_sentence	sentence_4487
+4487_7	nmod	4487_11
+4487_7	has_surface_form	bed
+4487_6	is_in_sentence	sentence_4487
+4487_6	punct	4487_7
+4487_6	has_surface_form	-
+4487_8	is_in_sentence	sentence_4487
+4487_8	amod	4487_9
+4487_8	has_surface_form	acute
+4487_9	is_in_sentence	sentence_4487
+4487_9	compound	4487_10
+4487_9	has_surface_form	care
+4487_10	is_in_sentence	sentence_4487
+4487_10	compound	4487_11
+4487_10	has_surface_form	community
+4487_10	part_of_entity	community hospital
+4487_12	is_in_sentence	sentence_4487
+4487_12	acl	4487_11
+4487_12	has_surface_form	located
+4487_13	is_in_sentence	sentence_4487
+4487_13	prep	4487_12
+4487_13	has_surface_form	in
+4487_14	is_in_sentence	sentence_4487
+4487_14	compound	4487_15
+4487_14	has_surface_form	Red
+4487_15	is_in_sentence	sentence_4487
+4487_15	pobj	4487_13
+4487_15	has_surface_form	Bank
+4487_16	is_in_sentence	sentence_4487
+4487_16	punct	4487_15
+4487_16	has_surface_form	,
+4487_17	is_in_sentence	sentence_4487
+4487_17	compound	4487_18
+4487_17	has_surface_form	New
+4487_18	is_in_sentence	sentence_4487
+4487_18	conj	4487_15
+4487_18	has_surface_form	Jersey
+4487_19	is_in_sentence	sentence_4487
+4487_19	punct	4487_18
+4487_19	has_surface_form	,
+4487_20	is_in_sentence	sentence_4487
+4487_20	compound	4487_21
+4487_20	has_surface_form	United
+4487_21	is_in_sentence	sentence_4487
+4487_21	appos	4487_15
+4487_21	has_surface_form	States
+4487_22	is_in_sentence	sentence_4487
+4487_22	punct	4487_3
+4487_22	has_surface_form	.
+4487_23	is_in_sentence	sentence_4487
+4487_23	dep	4487_3
+4487_23	has_surface_form	
+Riverview Medical Center	surface_form	Riverview Medical Center
+Riverview Medical Center	has-type	community hospital
+community hospital	surface_form	community hospital

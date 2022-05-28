@@ -1,0 +1,62 @@
+20203_0	is_in_sentence	sentence_20203
+20203_0	compound	20203_2
+20203_0	has_surface_form	Texas
+20203_0	part_of_entity	Texas Gun Fighter
+20203_2	is_in_sentence	sentence_20203
+20203_2	nsubj	20203_3
+20203_2	has_surface_form	Fighter
+20203_2	part_of_entity	Texas Gun Fighter
+20203_1	is_in_sentence	sentence_20203
+20203_1	compound	20203_2
+20203_1	has_surface_form	Gun
+20203_1	part_of_entity	Texas Gun Fighter
+20203_3	is_in_sentence	sentence_20203
+20203_3	ROOT	20203_3
+20203_3	has_surface_form	is
+20203_4	is_in_sentence	sentence_20203
+20203_4	det	20203_7
+20203_4	has_surface_form	a
+20203_7	is_in_sentence	sentence_20203
+20203_7	attr	20203_3
+20203_7	has_surface_form	film
+20203_5	is_in_sentence	sentence_20203
+20203_5	nummod	20203_7
+20203_5	has_surface_form	1932
+20203_6	is_in_sentence	sentence_20203
+20203_6	amod	20203_7
+20203_6	has_surface_form	western
+20203_8	is_in_sentence	sentence_20203
+20203_8	acl	20203_7
+20203_8	has_surface_form	directed
+20203_9	is_in_sentence	sentence_20203
+20203_9	agent	20203_8
+20203_9	has_surface_form	by
+20203_10	is_in_sentence	sentence_20203
+20203_10	compound	20203_11
+20203_10	has_surface_form	Phil
+20203_10	part_of_entity	Phil Rosen
+20203_11	is_in_sentence	sentence_20203
+20203_11	pobj	20203_9
+20203_11	has_surface_form	Rosen
+20203_11	part_of_entity	Phil Rosen
+20203_12	is_in_sentence	sentence_20203
+20203_12	cc	20203_8
+20203_12	has_surface_form	and
+20203_13	is_in_sentence	sentence_20203
+20203_13	conj	20203_8
+20203_13	has_surface_form	starring
+20203_14	is_in_sentence	sentence_20203
+20203_14	compound	20203_15
+20203_14	has_surface_form	Ken
+20203_15	is_in_sentence	sentence_20203
+20203_15	dobj	20203_13
+20203_15	has_surface_form	Maynard
+20203_16	is_in_sentence	sentence_20203
+20203_16	punct	20203_3
+20203_16	has_surface_form	.
+20203_17	is_in_sentence	sentence_20203
+20203_17	dep	20203_3
+20203_17	has_surface_form	
+Texas Gun Fighter	surface_form	Texas Gun Fighter
+Texas Gun Fighter	movie-has-director	Phil Rosen
+Phil Rosen	surface_form	Phil Rosen

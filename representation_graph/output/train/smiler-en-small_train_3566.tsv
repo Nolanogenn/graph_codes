@@ -1,0 +1,74 @@
+3565_0	is_in_sentence	sentence_3565
+3565_0	nummod	3565_2
+3565_0	has_surface_form	1
+3565_0	part_of_entity	1 Mile North
+3565_2	is_in_sentence	sentence_3565
+3565_2	nsubj	3565_3
+3565_2	has_surface_form	North
+3565_2	part_of_entity	1 Mile North
+3565_1	is_in_sentence	sentence_3565
+3565_1	compound	3565_2
+3565_1	has_surface_form	Mile
+3565_1	part_of_entity	1 Mile North
+3565_3	is_in_sentence	sentence_3565
+3565_3	ROOT	3565_3
+3565_3	has_surface_form	is
+3565_4	is_in_sentence	sentence_3565
+3565_4	det	3565_10
+3565_4	has_surface_form	an
+3565_10	is_in_sentence	sentence_3565
+3565_10	attr	3565_3
+3565_10	has_surface_form	duo
+3565_5	is_in_sentence	sentence_3565
+3565_5	amod	3565_10
+3565_5	has_surface_form	ambient
+3565_6	is_in_sentence	sentence_3565
+3565_6	punct	3565_10
+3565_6	has_surface_form	/
+3565_7	is_in_sentence	sentence_3565
+3565_7	amod	3565_10
+3565_7	has_surface_form	post
+3565_8	is_in_sentence	sentence_3565
+3565_8	amod	3565_10
+3565_8	has_surface_form	-
+3565_9	is_in_sentence	sentence_3565
+3565_9	amod	3565_10
+3565_9	has_surface_form	rock
+3565_11	is_in_sentence	sentence_3565
+3565_11	acl	3565_10
+3565_11	has_surface_form	consisting
+3565_12	is_in_sentence	sentence_3565
+3565_12	prep	3565_11
+3565_12	has_surface_form	of
+3565_13	is_in_sentence	sentence_3565
+3565_13	compound	3565_15
+3565_13	has_surface_form	guitarist
+3565_15	is_in_sentence	sentence_3565
+3565_15	pobj	3565_12
+3565_15	has_surface_form	Hills
+3565_15	part_of_entity	Jon Hills
+3565_14	is_in_sentence	sentence_3565
+3565_14	compound	3565_15
+3565_14	has_surface_form	Jon
+3565_14	part_of_entity	Jon Hills
+3565_16	is_in_sentence	sentence_3565
+3565_16	cc	3565_11
+3565_16	has_surface_form	and
+3565_17	is_in_sentence	sentence_3565
+3565_17	compound	3565_19
+3565_17	has_surface_form	keyboardist
+3565_19	is_in_sentence	sentence_3565
+3565_19	conj	3565_11
+3565_19	has_surface_form	Bajuk
+3565_18	is_in_sentence	sentence_3565
+3565_18	compound	3565_19
+3565_18	has_surface_form	Mark
+3565_20	is_in_sentence	sentence_3565
+3565_20	punct	3565_3
+3565_20	has_surface_form	.
+3565_21	is_in_sentence	sentence_3565
+3565_21	dep	3565_3
+3565_21	has_surface_form	
+1 Mile North	surface_form	1 Mile North
+1 Mile North	org-has-member	Jon Hills
+Jon Hills	surface_form	Jon Hills

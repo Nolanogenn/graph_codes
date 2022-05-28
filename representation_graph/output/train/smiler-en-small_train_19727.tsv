@@ -1,0 +1,75 @@
+19726_0	is_in_sentence	sentence_19726
+19726_0	det	19726_1
+19726_0	has_surface_form	A
+19726_0	part_of_entity	A Lover in Pawn
+19726_1	is_in_sentence	sentence_19726
+19726_1	nsubj	19726_9
+19726_1	has_surface_form	Lover
+19726_1	part_of_entity	A Lover in Pawn
+19726_9	is_in_sentence	sentence_19726
+19726_9	ROOT	19726_9
+19726_9	has_surface_form	is
+19726_2	is_in_sentence	sentence_19726
+19726_2	prep	19726_1
+19726_2	has_surface_form	in
+19726_2	part_of_entity	A Lover in Pawn
+19726_3	is_in_sentence	sentence_19726
+19726_3	pobj	19726_2
+19726_3	has_surface_form	Pawn
+19726_3	part_of_entity	A Lover in Pawn
+19726_4	is_in_sentence	sentence_19726
+19726_4	punct	19726_3
+19726_4	has_surface_form	(
+19726_5	is_in_sentence	sentence_19726
+19726_5	appos	19726_3
+19726_5	has_surface_form	Swedish
+19726_6	is_in_sentence	sentence_19726
+19726_6	punct	19726_5
+19726_6	has_surface_form	:
+19726_7	is_in_sentence	sentence_19726
+19726_7	appos	19726_5
+19726_7	has_surface_form	Mästerman
+19726_8	is_in_sentence	sentence_19726
+19726_8	punct	19726_5
+19726_8	has_surface_form	)
+19726_10	is_in_sentence	sentence_19726
+19726_10	det	19726_15
+19726_10	has_surface_form	a
+19726_15	is_in_sentence	sentence_19726
+19726_15	attr	19726_9
+19726_15	has_surface_form	film
+19726_11	is_in_sentence	sentence_19726
+19726_11	nummod	19726_15
+19726_11	has_surface_form	1920
+19726_12	is_in_sentence	sentence_19726
+19726_12	amod	19726_15
+19726_12	has_surface_form	Swedish
+19726_13	is_in_sentence	sentence_19726
+19726_13	amod	19726_15
+19726_13	has_surface_form	silent
+19726_14	is_in_sentence	sentence_19726
+19726_14	compound	19726_15
+19726_14	has_surface_form	drama
+19726_16	is_in_sentence	sentence_19726
+19726_16	acl	19726_15
+19726_16	has_surface_form	directed
+19726_17	is_in_sentence	sentence_19726
+19726_17	agent	19726_16
+19726_17	has_surface_form	by
+19726_18	is_in_sentence	sentence_19726
+19726_18	compound	19726_19
+19726_18	has_surface_form	Victor
+19726_18	part_of_entity	Victor Sjöström
+19726_19	is_in_sentence	sentence_19726
+19726_19	pobj	19726_17
+19726_19	has_surface_form	Sjöström
+19726_19	part_of_entity	Victor Sjöström
+19726_20	is_in_sentence	sentence_19726
+19726_20	punct	19726_9
+19726_20	has_surface_form	.
+19726_21	is_in_sentence	sentence_19726
+19726_21	dep	19726_21
+19726_21	has_surface_form	
+A Lover in Pawn	surface_form	A Lover in Pawn
+A Lover in Pawn	movie-has-director	Victor Sjöström
+Victor Sjöström	surface_form	Victor Sjöström

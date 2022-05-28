@@ -1,0 +1,75 @@
+10997_0	is_in_sentence	sentence_10997
+10997_0	compound	10997_1
+10997_0	has_surface_form	Emir
+10997_0	part_of_entity	Emir Abdelkader University
+10997_1	is_in_sentence	sentence_10997
+10997_1	compound	10997_2
+10997_1	has_surface_form	Abdelkader
+10997_1	part_of_entity	Emir Abdelkader University
+10997_2	is_in_sentence	sentence_10997
+10997_2	nsubj	10997_16
+10997_2	has_surface_form	University
+10997_2	part_of_entity	Emir Abdelkader University
+10997_16	is_in_sentence	sentence_10997
+10997_16	ROOT	10997_16
+10997_16	has_surface_form	is
+10997_3	is_in_sentence	sentence_10997
+10997_3	prep	10997_2
+10997_3	has_surface_form	of
+10997_4	is_in_sentence	sentence_10997
+10997_4	compound	10997_5
+10997_4	has_surface_form	Islamic
+10997_5	is_in_sentence	sentence_10997
+10997_5	pobj	10997_3
+10997_5	has_surface_form	Sciences
+10997_6	is_in_sentence	sentence_10997
+10997_6	punct	10997_2
+10997_6	has_surface_form	(
+10997_7	is_in_sentence	sentence_10997
+10997_7	appos	10997_2
+10997_7	has_surface_form	Arabic
+10997_8	is_in_sentence	sentence_10997
+10997_8	punct	10997_7
+10997_8	has_surface_form	:
+10997_9	is_in_sentence	sentence_10997
+10997_9	appos	10997_7
+10997_9	has_surface_form	جامعة
+10997_10	is_in_sentence	sentence_10997
+10997_10	compound	10997_11
+10997_10	has_surface_form	الأمير
+10997_11	is_in_sentence	sentence_10997
+10997_11	compound	10997_14
+10997_11	has_surface_form	عبد
+10997_14	is_in_sentence	sentence_10997
+10997_14	appos	10997_9
+10997_14	has_surface_form	الإسلامية
+10997_12	is_in_sentence	sentence_10997
+10997_12	compound	10997_14
+10997_12	has_surface_form	القادر
+10997_13	is_in_sentence	sentence_10997
+10997_13	compound	10997_14
+10997_13	has_surface_form	للعلوم
+10997_15	is_in_sentence	sentence_10997
+10997_15	punct	10997_7
+10997_15	has_surface_form	)
+10997_17	is_in_sentence	sentence_10997
+10997_17	det	10997_18
+10997_17	has_surface_form	a
+10997_18	is_in_sentence	sentence_10997
+10997_18	attr	10997_16
+10997_18	has_surface_form	university
+10997_19	is_in_sentence	sentence_10997
+10997_19	prep	10997_18
+10997_19	has_surface_form	in
+10997_20	is_in_sentence	sentence_10997
+10997_20	pobj	10997_19
+10997_20	is_entity	Algeria
+Algeria	surface_form	Algeria
+10997_21	is_in_sentence	sentence_10997
+10997_21	punct	10997_16
+10997_21	has_surface_form	.
+10997_22	is_in_sentence	sentence_10997
+10997_22	dep	10997_22
+10997_22	has_surface_form	
+Emir Abdelkader University	surface_form	Emir Abdelkader University
+Emir Abdelkader University	is-where	Algeria

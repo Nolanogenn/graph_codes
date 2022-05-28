@@ -1,0 +1,102 @@
+10510_0	is_in_sentence	sentence_10510
+10510_0	det	10510_1
+10510_0	has_surface_form	The
+10510_1	is_in_sentence	sentence_10510
+10510_1	nsubj	10510_19
+10510_1	has_surface_form	University
+10510_1	part_of_entity	University of San Agustin
+10510_19	is_in_sentence	sentence_10510
+10510_19	ROOT	10510_19
+10510_19	has_surface_form	is
+10510_2	is_in_sentence	sentence_10510
+10510_2	prep	10510_1
+10510_2	has_surface_form	of
+10510_2	part_of_entity	University of San Agustin
+10510_3	is_in_sentence	sentence_10510
+10510_3	compound	10510_4
+10510_3	has_surface_form	San
+10510_3	part_of_entity	University of San Agustin
+10510_4	is_in_sentence	sentence_10510
+10510_4	pobj	10510_2
+10510_4	has_surface_form	Agustin
+10510_4	part_of_entity	University of San Agustin
+10510_5	is_in_sentence	sentence_10510
+10510_5	punct	10510_7
+10510_5	has_surface_form	(
+10510_7	is_in_sentence	sentence_10510
+10510_7	parataxis	10510_1
+10510_7	has_surface_form	referred
+10510_6	is_in_sentence	sentence_10510
+10510_6	advmod	10510_7
+10510_6	has_surface_form	commonly
+10510_8	is_in_sentence	sentence_10510
+10510_8	prep	10510_7
+10510_8	has_surface_form	to
+10510_9	is_in_sentence	sentence_10510
+10510_9	prep	10510_7
+10510_9	has_surface_form	as
+10510_10	is_in_sentence	sentence_10510
+10510_10	compound	10510_11
+10510_10	has_surface_form	San
+10510_11	is_in_sentence	sentence_10510
+10510_11	pobj	10510_9
+10510_11	has_surface_form	Agustin
+10510_12	is_in_sentence	sentence_10510
+10510_12	punct	10510_11
+10510_12	has_surface_form	,
+10510_13	is_in_sentence	sentence_10510
+10510_13	compound	10510_14
+10510_13	has_surface_form	San
+10510_14	is_in_sentence	sentence_10510
+10510_14	conj	10510_11
+10510_14	has_surface_form	Ag
+10510_15	is_in_sentence	sentence_10510
+10510_15	punct	10510_14
+10510_15	has_surface_form	,
+10510_16	is_in_sentence	sentence_10510
+10510_16	cc	10510_14
+10510_16	has_surface_form	or
+10510_17	is_in_sentence	sentence_10510
+10510_17	conj	10510_14
+10510_17	has_surface_form	USA
+10510_18	is_in_sentence	sentence_10510
+10510_18	punct	10510_11
+10510_18	has_surface_form	)
+10510_20	is_in_sentence	sentence_10510
+10510_20	det	10510_23
+10510_20	has_surface_form	a
+10510_23	is_in_sentence	sentence_10510
+10510_23	attr	10510_19
+10510_23	has_surface_form	university
+10510_21	is_in_sentence	sentence_10510
+10510_21	amod	10510_23
+10510_21	has_surface_form	private
+10510_22	is_in_sentence	sentence_10510
+10510_22	compound	10510_23
+10510_22	has_surface_form	Catholic
+10510_24	is_in_sentence	sentence_10510
+10510_24	prep	10510_23
+10510_24	has_surface_form	in
+10510_25	is_in_sentence	sentence_10510
+10510_25	compound	10510_26
+10510_25	has_surface_form	Iloilo
+10510_25	part_of_entity	Iloilo City
+10510_26	is_in_sentence	sentence_10510
+10510_26	pobj	10510_24
+10510_26	has_surface_form	City
+10510_26	part_of_entity	Iloilo City
+10510_27	is_in_sentence	sentence_10510
+10510_27	punct	10510_26
+10510_27	has_surface_form	,
+10510_28	is_in_sentence	sentence_10510
+10510_28	appos	10510_26
+10510_28	has_surface_form	Philippines
+10510_29	is_in_sentence	sentence_10510
+10510_29	punct	10510_19
+10510_29	has_surface_form	.
+10510_30	is_in_sentence	sentence_10510
+10510_30	dep	10510_19
+10510_30	has_surface_form	
+University of San Agustin	surface_form	University of San Agustin
+University of San Agustin	is-where	Iloilo City
+Iloilo City	surface_form	Iloilo City

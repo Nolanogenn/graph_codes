@@ -1,0 +1,58 @@
+1925_0	is_in_sentence	sentence_1925
+1925_0	compound	1925_1
+1925_0	has_surface_form	Aayanaki
+1925_0	part_of_entity	Aayanaki Iddaru
+1925_1	is_in_sentence	sentence_1925
+1925_1	nsubj	1925_2
+1925_1	has_surface_form	Iddaru
+1925_1	part_of_entity	Aayanaki Iddaru
+1925_2	is_in_sentence	sentence_1925
+1925_2	ROOT	1925_2
+1925_2	has_surface_form	is
+1925_3	is_in_sentence	sentence_1925
+1925_3	det	1925_7
+1925_3	has_surface_form	a
+1925_7	is_in_sentence	sentence_1925
+1925_7	attr	1925_2
+1925_7	has_surface_form	film
+1925_7	part_of_entity	drama film
+1925_4	is_in_sentence	sentence_1925
+1925_4	nummod	1925_7
+1925_4	has_surface_form	1995
+1925_5	is_in_sentence	sentence_1925
+1925_5	compound	1925_7
+1925_5	has_surface_form	Telugu
+1925_6	is_in_sentence	sentence_1925
+1925_6	compound	1925_7
+1925_6	has_surface_form	drama
+1925_6	part_of_entity	drama film
+1925_8	is_in_sentence	sentence_1925
+1925_8	punct	1925_7
+1925_8	has_surface_form	,
+1925_9	is_in_sentence	sentence_1925
+1925_9	acl	1925_7
+1925_9	has_surface_form	produced
+1925_10	is_in_sentence	sentence_1925
+1925_10	agent	1925_9
+1925_10	has_surface_form	by
+1925_11	is_in_sentence	sentence_1925
+1925_11	compound	1925_12
+1925_11	has_surface_form	Kantipudi
+1925_12	is_in_sentence	sentence_1925
+1925_12	pobj	1925_10
+1925_12	has_surface_form	Satyanarayana
+1925_13	is_in_sentence	sentence_1925
+1925_13	cc	1925_12
+1925_13	has_surface_form	and
+1925_14	is_in_sentence	sentence_1925
+1925_14	conj	1925_12
+1925_14	has_surface_form	Ch
+1925_15	is_in_sentence	sentence_1925
+1925_15	punct	1925_2
+1925_15	has_surface_form	.
+1925_16	is_in_sentence	sentence_1925
+1925_16	dep	1925_2
+1925_16	has_surface_form	
+Aayanaki Iddaru	surface_form	Aayanaki Iddaru
+Aayanaki Iddaru	has-type	drama film
+drama film	surface_form	drama film

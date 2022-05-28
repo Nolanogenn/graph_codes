@@ -1,0 +1,50 @@
+31344_0	is_in_sentence	sentence_31344
+31344_0	compound	31344_1
+31344_0	has_surface_form	Life
+31344_0	part_of_entity	Life School
+31344_1	is_in_sentence	sentence_31344
+31344_1	nsubj	31344_2
+31344_1	has_surface_form	School
+31344_1	part_of_entity	Life School
+31344_2	is_in_sentence	sentence_31344
+31344_2	ROOT	31344_2
+31344_2	has_surface_form	is
+31344_3	is_in_sentence	sentence_31344
+31344_3	det	31344_6
+31344_3	has_surface_form	a
+31344_6	is_in_sentence	sentence_31344
+31344_6	attr	31344_2
+31344_6	has_surface_form	operator
+31344_4	is_in_sentence	sentence_31344
+31344_4	compound	31344_5
+31344_4	has_surface_form	charter
+31344_5	is_in_sentence	sentence_31344
+31344_5	compound	31344_6
+31344_5	has_surface_form	school
+31344_7	is_in_sentence	sentence_31344
+31344_7	acl	31344_6
+31344_7	has_surface_form	headquartered
+31344_8	is_in_sentence	sentence_31344
+31344_8	prep	31344_7
+31344_8	has_surface_form	in
+31344_9	is_in_sentence	sentence_31344
+31344_9	compound	31344_10
+31344_9	has_surface_form	Red
+31344_10	is_in_sentence	sentence_31344
+31344_10	pobj	31344_8
+31344_10	has_surface_form	Oak
+31344_11	is_in_sentence	sentence_31344
+31344_11	punct	31344_10
+31344_11	has_surface_form	,
+31344_12	is_in_sentence	sentence_31344
+31344_12	appos	31344_10
+31344_12	has_surface_form	Texas
+31344_13	is_in_sentence	sentence_31344
+31344_13	punct	31344_2
+31344_13	has_surface_form	.
+31344_14	is_in_sentence	sentence_31344
+31344_14	dep	31344_2
+31344_14	has_surface_form	
+Life School	surface_form	Life School
+Life School	is-where	Red Oak, Texas
+Red Oak, Texas	surface_form	Red Oak, Texas

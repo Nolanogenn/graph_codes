@@ -1,0 +1,94 @@
+17000_0	is_in_sentence	sentence_17000
+17000_0	compound	17000_1
+17000_0	has_surface_form	Alan
+17000_0	part_of_entity	Alan Lake
+17000_1	is_in_sentence	sentence_17000
+17000_1	nsubj	17000_11
+17000_1	has_surface_form	Lake
+17000_1	part_of_entity	Alan Lake
+17000_11	is_in_sentence	sentence_17000
+17000_11	ROOT	17000_11
+17000_11	has_surface_form	was
+17000_2	is_in_sentence	sentence_17000
+17000_2	punct	17000_4
+17000_2	has_surface_form	(
+17000_4	is_in_sentence	sentence_17000
+17000_4	appos	17000_1
+17000_4	has_surface_form	November
+17000_3	is_in_sentence	sentence_17000
+17000_3	nummod	17000_4
+17000_3	has_surface_form	24
+17000_5	is_in_sentence	sentence_17000
+17000_5	nummod	17000_4
+17000_5	has_surface_form	1940
+17000_6	is_in_sentence	sentence_17000
+17000_6	punct	17000_1
+17000_6	has_surface_form	–
+17000_7	is_in_sentence	sentence_17000
+17000_7	nummod	17000_8
+17000_7	has_surface_form	10
+17000_8	is_in_sentence	sentence_17000
+17000_8	appos	17000_1
+17000_8	has_surface_form	October
+17000_9	is_in_sentence	sentence_17000
+17000_9	nummod	17000_8
+17000_9	has_surface_form	1984
+17000_10	is_in_sentence	sentence_17000
+17000_10	punct	17000_8
+17000_10	has_surface_form	)
+17000_12	is_in_sentence	sentence_17000
+17000_12	det	17000_14
+17000_12	has_surface_form	an
+17000_14	is_in_sentence	sentence_17000
+17000_14	attr	17000_11
+17000_14	has_surface_form	actor
+17000_13	is_in_sentence	sentence_17000
+17000_13	amod	17000_14
+17000_13	has_surface_form	English
+17000_15	is_in_sentence	sentence_17000
+17000_15	punct	17000_14
+17000_15	has_surface_form	,
+17000_16	is_in_sentence	sentence_17000
+17000_16	advmod	17000_17
+17000_16	has_surface_form	best
+17000_17	is_in_sentence	sentence_17000
+17000_17	acl	17000_14
+17000_17	has_surface_form	known
+17000_18	is_in_sentence	sentence_17000
+17000_18	prep	17000_17
+17000_18	has_surface_form	as
+17000_19	is_in_sentence	sentence_17000
+17000_19	det	17000_21
+17000_19	has_surface_form	the
+17000_21	is_in_sentence	sentence_17000
+17000_21	pobj	17000_18
+17000_21	has_surface_form	husband
+17000_20	is_in_sentence	sentence_17000
+17000_20	amod	17000_21
+17000_20	has_surface_form	third
+17000_22	is_in_sentence	sentence_17000
+17000_22	prep	17000_21
+17000_22	has_surface_form	of
+17000_23	is_in_sentence	sentence_17000
+17000_23	compound	17000_24
+17000_23	has_surface_form	screen
+17000_24	is_in_sentence	sentence_17000
+17000_24	compound	17000_26
+17000_24	has_surface_form	star
+17000_26	is_in_sentence	sentence_17000
+17000_26	pobj	17000_22
+17000_26	has_surface_form	Dors
+17000_26	part_of_entity	Diana Dors
+17000_25	is_in_sentence	sentence_17000
+17000_25	compound	17000_26
+17000_25	has_surface_form	Diana
+17000_25	part_of_entity	Diana Dors
+17000_27	is_in_sentence	sentence_17000
+17000_27	punct	17000_11
+17000_27	has_surface_form	.
+17000_28	is_in_sentence	sentence_17000
+17000_28	dep	17000_11
+17000_28	has_surface_form	
+Alan Lake	surface_form	Alan Lake
+Alan Lake	has-spouse	Diana Dors
+Diana Dors	surface_form	Diana Dors

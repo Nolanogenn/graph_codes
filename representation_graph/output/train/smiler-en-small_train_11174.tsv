@@ -1,0 +1,115 @@
+11173_0	is_in_sentence	sentence_11173
+11173_0	nsubj	11173_10
+11173_0	has_surface_form	Pablo
+11173_0	part_of_entity	Pablo and Carolina
+11173_10	is_in_sentence	sentence_11173
+11173_10	ROOT	11173_10
+11173_10	has_surface_form	is
+11173_1	is_in_sentence	sentence_11173
+11173_1	cc	11173_0
+11173_1	has_surface_form	and
+11173_1	part_of_entity	Pablo and Carolina
+11173_2	is_in_sentence	sentence_11173
+11173_2	conj	11173_0
+11173_2	has_surface_form	Carolina
+11173_2	part_of_entity	Pablo and Carolina
+11173_3	is_in_sentence	sentence_11173
+11173_3	punct	11173_4
+11173_3	has_surface_form	(
+11173_4	is_in_sentence	sentence_11173
+11173_4	appos	11173_0
+11173_4	has_surface_form	Spanish
+11173_5	is_in_sentence	sentence_11173
+11173_5	punct	11173_4
+11173_5	has_surface_form	:
+11173_6	is_in_sentence	sentence_11173
+11173_6	compound	11173_8
+11173_6	has_surface_form	Pablo
+11173_8	is_in_sentence	sentence_11173
+11173_8	appos	11173_4
+11173_8	has_surface_form	Carolina
+11173_7	is_in_sentence	sentence_11173
+11173_7	compound	11173_8
+11173_7	has_surface_form	y
+11173_9	is_in_sentence	sentence_11173
+11173_9	punct	11173_4
+11173_9	has_surface_form	)
+11173_11	is_in_sentence	sentence_11173
+11173_11	det	11173_16
+11173_11	has_surface_form	a
+11173_16	is_in_sentence	sentence_11173
+11173_16	attr	11173_10
+11173_16	has_surface_form	film
+11173_12	is_in_sentence	sentence_11173
+11173_12	nummod	11173_16
+11173_12	has_surface_form	1957
+11173_13	is_in_sentence	sentence_11173
+11173_13	amod	11173_16
+11173_13	has_surface_form	Mexican
+11173_14	is_in_sentence	sentence_11173
+11173_14	amod	11173_16
+11173_14	has_surface_form	romantic
+11173_15	is_in_sentence	sentence_11173
+11173_15	compound	11173_16
+11173_15	has_surface_form	comedy
+11173_17	is_in_sentence	sentence_11173
+11173_17	acl	11173_16
+11173_17	has_surface_form	directed
+11173_18	is_in_sentence	sentence_11173
+11173_18	agent	11173_17
+11173_18	has_surface_form	by
+11173_19	is_in_sentence	sentence_11173
+11173_19	compound	11173_22
+11173_19	has_surface_form	Mauricio
+11173_19	part_of_entity	Mauricio de la Serna
+11173_22	is_in_sentence	sentence_11173
+11173_22	pobj	11173_18
+11173_22	has_surface_form	Serna
+11173_22	part_of_entity	Mauricio de la Serna
+11173_20	is_in_sentence	sentence_11173
+11173_20	nmod	11173_22
+11173_20	has_surface_form	de
+11173_20	part_of_entity	Mauricio de la Serna
+11173_21	is_in_sentence	sentence_11173
+11173_21	compound	11173_22
+11173_21	has_surface_form	la
+11173_21	part_of_entity	Mauricio de la Serna
+11173_23	is_in_sentence	sentence_11173
+11173_23	cc	11173_17
+11173_23	has_surface_form	and
+11173_24	is_in_sentence	sentence_11173
+11173_24	conj	11173_17
+11173_24	has_surface_form	starring
+11173_25	is_in_sentence	sentence_11173
+11173_25	compound	11173_26
+11173_25	has_surface_form	Pedro
+11173_26	is_in_sentence	sentence_11173
+11173_26	dobj	11173_24
+11173_26	has_surface_form	Infante
+11173_27	is_in_sentence	sentence_11173
+11173_27	punct	11173_26
+11173_27	has_surface_form	,
+11173_28	is_in_sentence	sentence_11173
+11173_28	compound	11173_29
+11173_28	has_surface_form	Irasema
+11173_29	is_in_sentence	sentence_11173
+11173_29	conj	11173_26
+11173_29	has_surface_form	Dilián
+11173_30	is_in_sentence	sentence_11173
+11173_30	cc	11173_29
+11173_30	has_surface_form	and
+11173_31	is_in_sentence	sentence_11173
+11173_31	compound	11173_32
+11173_31	has_surface_form	Alejandro
+11173_32	is_in_sentence	sentence_11173
+11173_32	conj	11173_29
+11173_32	has_surface_form	Ciangherotti
+11173_33	is_in_sentence	sentence_11173
+11173_33	punct	11173_10
+11173_33	has_surface_form	.
+11173_34	is_in_sentence	sentence_11173
+11173_34	dep	11173_10
+11173_34	has_surface_form	
+Pablo and Carolina	surface_form	Pablo and Carolina
+Pablo and Carolina	movie-has-director	Mauricio de la Serna
+Mauricio de la Serna	surface_form	Mauricio de la Serna

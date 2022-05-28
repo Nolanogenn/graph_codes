@@ -1,0 +1,64 @@
+17921_0	is_in_sentence	sentence_17921
+17921_0	compound	17921_1
+17921_0	has_surface_form	Alan
+17921_0	part_of_entity	Alan Bevan
+17921_1	is_in_sentence	sentence_17921
+17921_1	nsubj	17921_2
+17921_1	has_surface_form	Bevan
+17921_1	part_of_entity	Alan Bevan
+17921_2	is_in_sentence	sentence_17921
+17921_2	ROOT	17921_2
+17921_2	has_surface_form	is
+17921_3	is_in_sentence	sentence_17921
+17921_3	det	17921_8
+17921_3	has_surface_form	a
+17921_8	is_in_sentence	sentence_17921
+17921_8	attr	17921_2
+17921_8	has_surface_form	major
+17921_4	is_in_sentence	sentence_17921
+17921_4	amod	17921_8
+17921_4	has_surface_form	piper
+17921_5	is_in_sentence	sentence_17921
+17921_5	cc	17921_4
+17921_5	has_surface_form	and
+17921_6	is_in_sentence	sentence_17921
+17921_6	conj	17921_4
+17921_6	has_surface_form	current
+17921_7	is_in_sentence	sentence_17921
+17921_7	compound	17921_8
+17921_7	has_surface_form	pipe
+17921_9	is_in_sentence	sentence_17921
+17921_9	prep	17921_8
+17921_9	has_surface_form	of
+17921_10	is_in_sentence	sentence_17921
+17921_10	det	17921_15
+17921_10	has_surface_form	the
+17921_15	is_in_sentence	sentence_17921
+17921_15	pobj	17921_9
+17921_15	has_surface_form	Band
+17921_15	part_of_entity	Simon Fraser University Pipe Band
+17921_11	is_in_sentence	sentence_17921
+17921_11	compound	17921_12
+17921_11	has_surface_form	Simon
+17921_11	part_of_entity	Simon Fraser University Pipe Band
+17921_12	is_in_sentence	sentence_17921
+17921_12	compound	17921_15
+17921_12	has_surface_form	Fraser
+17921_12	part_of_entity	Simon Fraser University Pipe Band
+17921_13	is_in_sentence	sentence_17921
+17921_13	compound	17921_15
+17921_13	has_surface_form	University
+17921_13	part_of_entity	Simon Fraser University Pipe Band
+17921_14	is_in_sentence	sentence_17921
+17921_14	compound	17921_15
+17921_14	has_surface_form	Pipe
+17921_14	part_of_entity	Simon Fraser University Pipe Band
+17921_16	is_in_sentence	sentence_17921
+17921_16	punct	17921_2
+17921_16	has_surface_form	.
+17921_17	is_in_sentence	sentence_17921
+17921_17	dep	17921_2
+17921_17	has_surface_form	
+Alan Bevan	surface_form	Alan Bevan
+Alan Bevan	is-member-of	Simon Fraser University Pipe Band
+Simon Fraser University Pipe Band	surface_form	Simon Fraser University Pipe Band

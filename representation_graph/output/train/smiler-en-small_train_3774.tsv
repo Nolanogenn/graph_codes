@@ -1,0 +1,64 @@
+3773_0	is_in_sentence	sentence_3773
+3773_0	compound	3773_1
+3773_0	has_surface_form	Mike
+3773_0	part_of_entity	Mike O'Cain
+3773_1	is_in_sentence	sentence_3773
+3773_1	nsubj	3773_9
+3773_1	has_surface_form	O'Cain
+3773_1	part_of_entity	Mike O'Cain
+3773_9	is_in_sentence	sentence_3773
+3773_9	ROOT	3773_9
+3773_9	has_surface_form	is
+3773_2	is_in_sentence	sentence_3773
+3773_2	punct	3773_1
+3773_2	has_surface_form	(
+3773_3	is_in_sentence	sentence_3773
+3773_3	acl	3773_1
+3773_3	has_surface_form	born
+3773_4	is_in_sentence	sentence_3773
+3773_4	npadvmod	3773_3
+3773_4	has_surface_form	July
+3773_5	is_in_sentence	sentence_3773
+3773_5	nummod	3773_4
+3773_5	has_surface_form	20
+3773_6	is_in_sentence	sentence_3773
+3773_6	punct	3773_4
+3773_6	has_surface_form	,
+3773_7	is_in_sentence	sentence_3773
+3773_7	nummod	3773_4
+3773_7	has_surface_form	1954
+3773_8	is_in_sentence	sentence_3773
+3773_8	punct	3773_1
+3773_8	has_surface_form	)
+3773_10	is_in_sentence	sentence_3773
+3773_10	det	3773_13
+3773_10	has_surface_form	an
+3773_13	is_in_sentence	sentence_3773
+3773_13	attr	3773_9
+3773_13	has_surface_form	coach
+3773_13	part_of_entity	football coach
+3773_11	is_in_sentence	sentence_3773
+3773_11	amod	3773_13
+3773_11	has_surface_form	American
+3773_12	is_in_sentence	sentence_3773
+3773_12	compound	3773_13
+3773_12	has_surface_form	football
+3773_12	part_of_entity	football coach
+3773_14	is_in_sentence	sentence_3773
+3773_14	cc	3773_13
+3773_14	has_surface_form	and
+3773_15	is_in_sentence	sentence_3773
+3773_15	amod	3773_16
+3773_15	has_surface_form	former
+3773_16	is_in_sentence	sentence_3773
+3773_16	conj	3773_13
+3773_16	has_surface_form	player
+3773_17	is_in_sentence	sentence_3773
+3773_17	punct	3773_9
+3773_17	has_surface_form	.
+3773_18	is_in_sentence	sentence_3773
+3773_18	dep	3773_18
+3773_18	has_surface_form	
+Mike O'Cain	surface_form	Mike O'Cain
+Mike O'Cain	has-type	football coach
+football coach	surface_form	football coach

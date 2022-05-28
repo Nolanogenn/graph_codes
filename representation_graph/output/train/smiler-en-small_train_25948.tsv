@@ -1,0 +1,63 @@
+25947_0	is_in_sentence	sentence_25947
+25947_0	compound	25947_1
+25947_0	has_surface_form	Chloe
+25947_0	part_of_entity	Chloe Goodchild
+25947_1	is_in_sentence	sentence_25947
+25947_1	poss	25947_3
+25947_1	has_surface_form	Goodchild
+25947_1	part_of_entity	Chloe Goodchild
+25947_3	is_in_sentence	sentence_25947
+25947_3	nsubj	25947_10
+25947_3	has_surface_form	daughter
+25947_2	is_in_sentence	sentence_25947
+25947_2	case	25947_1
+25947_2	has_surface_form	's
+25947_10	is_in_sentence	sentence_25947
+25947_10	ROOT	25947_10
+25947_10	has_surface_form	is
+25947_4	is_in_sentence	sentence_25947
+25947_4	punct	25947_3
+25947_4	has_surface_form	,
+25947_5	is_in_sentence	sentence_25947
+25947_5	compound	25947_6
+25947_5	has_surface_form	Rebecca
+25947_5	part_of_entity	Rebecca Hannah Goodchild Nash
+25947_6	is_in_sentence	sentence_25947
+25947_6	compound	25947_8
+25947_6	has_surface_form	Hannah
+25947_6	part_of_entity	Rebecca Hannah Goodchild Nash
+25947_8	is_in_sentence	sentence_25947
+25947_8	appos	25947_3
+25947_8	has_surface_form	Nash
+25947_8	part_of_entity	Rebecca Hannah Goodchild Nash
+25947_7	is_in_sentence	sentence_25947
+25947_7	compound	25947_8
+25947_7	has_surface_form	Goodchild
+25947_7	part_of_entity	Rebecca Hannah Goodchild Nash
+25947_9	is_in_sentence	sentence_25947
+25947_9	punct	25947_3
+25947_9	has_surface_form	,
+25947_11	is_in_sentence	sentence_25947
+25947_11	det	25947_15
+25947_11	has_surface_form	a
+25947_15	is_in_sentence	sentence_25947
+25947_15	attr	25947_10
+25947_15	has_surface_form	pianist
+25947_12	is_in_sentence	sentence_25947
+25947_12	amod	25947_15
+25947_12	has_surface_form	classical
+25947_13	is_in_sentence	sentence_25947
+25947_13	cc	25947_12
+25947_13	has_surface_form	and
+25947_14	is_in_sentence	sentence_25947
+25947_14	conj	25947_12
+25947_14	has_surface_form	jazz
+25947_16	is_in_sentence	sentence_25947
+25947_16	punct	25947_10
+25947_16	has_surface_form	.
+25947_17	is_in_sentence	sentence_25947
+25947_17	dep	25947_17
+25947_17	has_surface_form	
+Chloe Goodchild	surface_form	Chloe Goodchild
+Chloe Goodchild	has-child	Rebecca Hannah Goodchild Nash
+Rebecca Hannah Goodchild Nash	surface_form	Rebecca Hannah Goodchild Nash

@@ -1,0 +1,60 @@
+32941_0	is_in_sentence	sentence_32941
+32941_0	compound	32941_1
+32941_0	has_surface_form	Lower
+32941_0	part_of_entity	Lower Columbia College
+32941_1	is_in_sentence	sentence_32941
+32941_1	compound	32941_2
+32941_1	has_surface_form	Columbia
+32941_1	part_of_entity	Lower Columbia College
+32941_2	is_in_sentence	sentence_32941
+32941_2	nsubj	32941_6
+32941_2	has_surface_form	College
+32941_2	part_of_entity	Lower Columbia College
+32941_6	is_in_sentence	sentence_32941
+32941_6	ROOT	32941_6
+32941_6	has_surface_form	is
+32941_3	is_in_sentence	sentence_32941
+32941_3	punct	32941_4
+32941_3	has_surface_form	(
+32941_4	is_in_sentence	sentence_32941
+32941_4	appos	32941_2
+32941_4	has_surface_form	LCC
+32941_5	is_in_sentence	sentence_32941
+32941_5	punct	32941_2
+32941_5	has_surface_form	)
+32941_7	is_in_sentence	sentence_32941
+32941_7	det	32941_10
+32941_7	has_surface_form	a
+32941_10	is_in_sentence	sentence_32941
+32941_10	attr	32941_6
+32941_10	has_surface_form	college
+32941_10	part_of_entity	public community college
+32941_8	is_in_sentence	sentence_32941
+32941_8	amod	32941_9
+32941_8	has_surface_form	public
+32941_8	part_of_entity	public community college
+32941_9	is_in_sentence	sentence_32941
+32941_9	compound	32941_10
+32941_9	has_surface_form	community
+32941_9	part_of_entity	public community college
+32941_11	is_in_sentence	sentence_32941
+32941_11	prep	32941_10
+32941_11	has_surface_form	in
+32941_12	is_in_sentence	sentence_32941
+32941_12	pobj	32941_11
+32941_12	has_surface_form	Longview
+32941_13	is_in_sentence	sentence_32941
+32941_13	punct	32941_12
+32941_13	has_surface_form	,
+32941_14	is_in_sentence	sentence_32941
+32941_14	appos	32941_12
+32941_14	has_surface_form	Washington
+32941_15	is_in_sentence	sentence_32941
+32941_15	punct	32941_6
+32941_15	has_surface_form	.
+32941_16	is_in_sentence	sentence_32941
+32941_16	dep	32941_6
+32941_16	has_surface_form	
+Lower Columbia College	surface_form	Lower Columbia College
+Lower Columbia College	has-type	public community college
+public community college	surface_form	public community college

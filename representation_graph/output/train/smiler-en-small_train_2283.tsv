@@ -1,0 +1,47 @@
+2282_0	is_in_sentence	sentence_2282
+2282_0	advmod	2282_1
+2282_0	has_surface_form	All
+2282_0	part_of_entity	All About Steve
+2282_1	is_in_sentence	sentence_2282
+2282_1	prep	2282_4
+2282_1	has_surface_form	About
+2282_1	part_of_entity	All About Steve
+2282_4	is_in_sentence	sentence_2282
+2282_4	ROOT	2282_4
+2282_4	has_surface_form	won
+2282_2	is_in_sentence	sentence_2282
+2282_2	pobj	2282_1
+2282_2	has_surface_form	Steve
+2282_2	part_of_entity	All About Steve
+2282_3	is_in_sentence	sentence_2282
+2282_3	advmod	2282_4
+2282_3	has_surface_form	ultimately
+2282_5	is_in_sentence	sentence_2282
+2282_5	compound	2282_6
+2282_5	has_surface_form	Worst
+2282_5	part_of_entity	Worst Actress
+2282_6	is_in_sentence	sentence_2282
+2282_6	dobj	2282_4
+2282_6	has_surface_form	Actress
+2282_6	part_of_entity	Worst Actress
+2282_7	is_in_sentence	sentence_2282
+2282_7	cc	2282_6
+2282_7	has_surface_form	and
+2282_8	is_in_sentence	sentence_2282
+2282_8	compound	2282_10
+2282_8	has_surface_form	Worst
+2282_10	is_in_sentence	sentence_2282
+2282_10	conj	2282_6
+2282_10	has_surface_form	Couple
+2282_9	is_in_sentence	sentence_2282
+2282_9	compound	2282_10
+2282_9	has_surface_form	Screen
+2282_11	is_in_sentence	sentence_2282
+2282_11	punct	2282_4
+2282_11	has_surface_form	.
+2282_12	is_in_sentence	sentence_2282
+2282_12	dep	2282_12
+2282_12	has_surface_form	
+All About Steve	surface_form	All About Steve
+All About Steve	won-award	Worst Actress
+Worst Actress	surface_form	Worst Actress

@@ -1,0 +1,52 @@
+4960_0	is_in_sentence	sentence_4960
+4960_0	compound	4960_1
+4960_0	has_surface_form	Maggie
+4960_0	part_of_entity	Maggie Renzi
+4960_1	is_in_sentence	sentence_4960
+4960_1	nsubj	4960_6
+4960_1	has_surface_form	Renzi
+4960_1	part_of_entity	Maggie Renzi
+4960_6	is_in_sentence	sentence_4960
+4960_6	ROOT	4960_6
+4960_6	has_surface_form	is
+4960_2	is_in_sentence	sentence_4960
+4960_2	punct	4960_1
+4960_2	has_surface_form	(
+4960_3	is_in_sentence	sentence_4960
+4960_3	acl	4960_1
+4960_3	has_surface_form	born
+4960_4	is_in_sentence	sentence_4960
+4960_4	npadvmod	4960_3
+4960_4	has_surface_form	1951
+4960_5	is_in_sentence	sentence_4960
+4960_5	punct	4960_1
+4960_5	has_surface_form	)
+4960_7	is_in_sentence	sentence_4960
+4960_7	det	4960_10
+4960_7	has_surface_form	an
+4960_10	is_in_sentence	sentence_4960
+4960_10	attr	4960_6
+4960_10	has_surface_form	producer
+4960_10	part_of_entity	film producer
+4960_8	is_in_sentence	sentence_4960
+4960_8	amod	4960_10
+4960_8	has_surface_form	American
+4960_9	is_in_sentence	sentence_4960
+4960_9	compound	4960_10
+4960_9	has_surface_form	film
+4960_9	part_of_entity	film producer
+4960_11	is_in_sentence	sentence_4960
+4960_11	cc	4960_10
+4960_11	has_surface_form	and
+4960_12	is_in_sentence	sentence_4960
+4960_12	conj	4960_10
+4960_12	has_surface_form	actress
+4960_13	is_in_sentence	sentence_4960
+4960_13	punct	4960_6
+4960_13	has_surface_form	.
+4960_14	is_in_sentence	sentence_4960
+4960_14	dep	4960_14
+4960_14	has_surface_form	
+Maggie Renzi	surface_form	Maggie Renzi
+Maggie Renzi	has-occupation	film producer
+film producer	surface_form	film producer

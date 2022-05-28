@@ -1,0 +1,94 @@
+32601_0	is_in_sentence	sentence_32601
+32601_0	compound	32601_1
+32601_0	has_surface_form	Crazy
+32601_0	part_of_entity	Crazy Romance
+32601_1	is_in_sentence	sentence_32601
+32601_1	nsubj	32601_5
+32601_1	has_surface_form	Romance
+32601_1	part_of_entity	Crazy Romance
+32601_5	is_in_sentence	sentence_32601
+32601_5	ROOT	32601_5
+32601_5	has_surface_form	is
+32601_2	is_in_sentence	sentence_32601
+32601_2	punct	32601_1
+32601_2	has_surface_form	(
+32601_3	is_in_sentence	sentence_32601
+32601_3	appos	32601_1
+32601_3	has_surface_form	求愛反斗星
+32601_4	is_in_sentence	sentence_32601
+32601_4	punct	32601_1
+32601_4	has_surface_form	)
+32601_6	is_in_sentence	sentence_32601
+32601_6	det	32601_12
+32601_6	has_surface_form	a
+32601_12	is_in_sentence	sentence_32601
+32601_12	attr	32601_5
+32601_12	has_surface_form	film
+32601_7	is_in_sentence	sentence_32601
+32601_7	nummod	32601_12
+32601_7	has_surface_form	1985
+32601_8	is_in_sentence	sentence_32601
+32601_8	nmod	32601_9
+32601_8	has_surface_form	Hong
+32601_9	is_in_sentence	sentence_32601
+32601_9	nmod	32601_12
+32601_9	has_surface_form	Kong
+32601_10	is_in_sentence	sentence_32601
+32601_10	amod	32601_12
+32601_10	has_surface_form	romantic
+32601_11	is_in_sentence	sentence_32601
+32601_11	compound	32601_12
+32601_11	has_surface_form	comedy
+32601_13	is_in_sentence	sentence_32601
+32601_13	acl	32601_12
+32601_13	has_surface_form	directed
+32601_14	is_in_sentence	sentence_32601
+32601_14	agent	32601_13
+32601_14	has_surface_form	by
+32601_15	is_in_sentence	sentence_32601
+32601_15	compound	32601_16
+32601_15	has_surface_form	Tommy
+32601_16	is_in_sentence	sentence_32601
+32601_16	pobj	32601_14
+32601_16	has_surface_form	Leung
+32601_17	is_in_sentence	sentence_32601
+32601_17	cc	32601_13
+32601_17	has_surface_form	and
+32601_18	is_in_sentence	sentence_32601
+32601_18	conj	32601_13
+32601_18	has_surface_form	starring
+32601_19	is_in_sentence	sentence_32601
+32601_19	compound	32601_20
+32601_19	has_surface_form	Natalis
+32601_20	is_in_sentence	sentence_32601
+32601_20	dobj	32601_18
+32601_20	has_surface_form	Chan
+32601_21	is_in_sentence	sentence_32601
+32601_21	punct	32601_20
+32601_21	has_surface_form	,
+32601_22	is_in_sentence	sentence_32601
+32601_22	compound	32601_23
+32601_22	has_surface_form	Sylvia
+32601_23	is_in_sentence	sentence_32601
+32601_23	conj	32601_20
+32601_23	has_surface_form	Chang
+32601_24	is_in_sentence	sentence_32601
+32601_24	cc	32601_23
+32601_24	has_surface_form	and
+32601_25	is_in_sentence	sentence_32601
+32601_25	compound	32601_26
+32601_25	has_surface_form	Leslie
+32601_25	part_of_entity	Leslie Cheung
+32601_26	is_in_sentence	sentence_32601
+32601_26	conj	32601_23
+32601_26	has_surface_form	Cheung
+32601_26	part_of_entity	Leslie Cheung
+32601_27	is_in_sentence	sentence_32601
+32601_27	punct	32601_5
+32601_27	has_surface_form	.
+32601_28	is_in_sentence	sentence_32601
+32601_28	dep	32601_5
+32601_28	has_surface_form	
+Crazy Romance	surface_form	Crazy Romance
+Crazy Romance	starring	Leslie Cheung
+Leslie Cheung	surface_form	Leslie Cheung

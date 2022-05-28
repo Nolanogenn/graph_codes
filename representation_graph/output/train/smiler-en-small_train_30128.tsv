@@ -1,0 +1,57 @@
+30127_0	is_in_sentence	sentence_30127
+30127_0	compound	30127_1
+30127_0	has_surface_form	Jaya
+30127_0	part_of_entity	Jaya Engineering College
+30127_1	is_in_sentence	sentence_30127
+30127_1	compound	30127_2
+30127_1	has_surface_form	Engineering
+30127_1	part_of_entity	Jaya Engineering College
+30127_2	is_in_sentence	sentence_30127
+30127_2	nsubj	30127_3
+30127_2	has_surface_form	College
+30127_2	part_of_entity	Jaya Engineering College
+30127_3	is_in_sentence	sentence_30127
+30127_3	ROOT	30127_3
+30127_3	has_surface_form	is
+30127_4	is_in_sentence	sentence_30127
+30127_4	det	30127_6
+30127_4	has_surface_form	an
+30127_6	is_in_sentence	sentence_30127
+30127_6	attr	30127_3
+30127_6	has_surface_form	institute
+30127_5	is_in_sentence	sentence_30127
+30127_5	amod	30127_6
+30127_5	has_surface_form	educational
+30127_7	is_in_sentence	sentence_30127
+30127_7	acl	30127_6
+30127_7	has_surface_form	located
+30127_8	is_in_sentence	sentence_30127
+30127_8	prep	30127_7
+30127_8	has_surface_form	in
+30127_9	is_in_sentence	sentence_30127
+30127_9	pobj	30127_8
+30127_9	has_surface_form	Thiruninravur
+30127_10	is_in_sentence	sentence_30127
+30127_10	punct	30127_9
+30127_10	has_surface_form	,
+30127_11	is_in_sentence	sentence_30127
+30127_11	compound	30127_12
+30127_11	has_surface_form	Tamil
+30127_12	is_in_sentence	sentence_30127
+30127_12	conj	30127_9
+30127_12	has_surface_form	Nadu
+30127_13	is_in_sentence	sentence_30127
+30127_13	punct	30127_12
+30127_13	has_surface_form	,
+30127_14	is_in_sentence	sentence_30127
+30127_14	npadvmod	30127_12
+30127_14	has_surface_form	India
+30127_15	is_in_sentence	sentence_30127
+30127_15	punct	30127_3
+30127_15	has_surface_form	.
+30127_16	is_in_sentence	sentence_30127
+30127_16	dep	30127_16
+30127_16	has_surface_form	
+Jaya Engineering College	surface_form	Jaya Engineering College
+Jaya Engineering College	is-where	Thiruninravur, Tamil Nadu, India
+Thiruninravur, Tamil Nadu, India	surface_form	Thiruninravur, Tamil Nadu, India

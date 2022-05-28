@@ -1,0 +1,55 @@
+6839_0	is_in_sentence	sentence_6839
+6839_0	compound	6839_1
+6839_0	has_surface_form	Amine
+6839_0	part_of_entity	Amine Amamou
+6839_1	is_in_sentence	sentence_6839
+6839_1	nsubj	6839_2
+6839_1	has_surface_form	Amamou
+6839_1	part_of_entity	Amine Amamou
+6839_2	is_in_sentence	sentence_6839
+6839_2	ROOT	6839_2
+6839_2	has_surface_form	is
+6839_3	is_in_sentence	sentence_6839
+6839_3	det	6839_5
+6839_3	has_surface_form	a
+6839_5	is_in_sentence	sentence_6839
+6839_5	attr	6839_2
+6839_5	has_surface_form	footballer
+6839_4	is_in_sentence	sentence_6839
+6839_4	amod	6839_5
+6839_4	has_surface_form	Moroccan
+6839_6	is_in_sentence	sentence_6839
+6839_6	punct	6839_2
+6839_6	has_surface_form	.
+6839_7	is_in_sentence	sentence_6839
+6839_7	nsubjpass	6839_10
+6839_7	has_surface_form	Amamou
+6839_10	is_in_sentence	sentence_6839
+6839_10	ROOT	6839_10
+6839_10	has_surface_form	attached
+6839_8	is_in_sentence	sentence_6839
+6839_8	auxpass	6839_10
+6839_8	has_surface_form	is
+6839_9	is_in_sentence	sentence_6839
+6839_9	advmod	6839_10
+6839_9	has_surface_form	currently
+6839_11	is_in_sentence	sentence_6839
+6839_11	prep	6839_10
+6839_11	has_surface_form	to
+6839_12	is_in_sentence	sentence_6839
+6839_12	compound	6839_13
+6839_12	has_surface_form	Kawkab
+6839_12	part_of_entity	Kawkab Marrakech
+6839_13	is_in_sentence	sentence_6839
+6839_13	pobj	6839_11
+6839_13	has_surface_form	Marrakech
+6839_13	part_of_entity	Kawkab Marrakech
+6839_14	is_in_sentence	sentence_6839
+6839_14	punct	6839_10
+6839_14	has_surface_form	.
+6839_15	is_in_sentence	sentence_6839
+6839_15	dep	6839_15
+6839_15	has_surface_form	
+Amine Amamou	surface_form	Amine Amamou
+Amine Amamou	is-member-of	Kawkab Marrakech
+Kawkab Marrakech	surface_form	Kawkab Marrakech

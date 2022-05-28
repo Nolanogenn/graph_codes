@@ -1,0 +1,53 @@
+14544_0	is_in_sentence	sentence_14544
+14544_0	compound	14544_1
+14544_0	has_surface_form	Carles
+14544_0	part_of_entity	Carles Benavent
+14544_1	is_in_sentence	sentence_14544
+14544_1	nsubj	14544_8
+14544_1	has_surface_form	Benavent
+14544_1	part_of_entity	Carles Benavent
+14544_8	is_in_sentence	sentence_14544
+14544_8	ROOT	14544_8
+14544_8	has_surface_form	is
+14544_2	is_in_sentence	sentence_14544
+14544_2	punct	14544_1
+14544_2	has_surface_form	(
+14544_3	is_in_sentence	sentence_14544
+14544_3	acl	14544_1
+14544_3	has_surface_form	born
+14544_4	is_in_sentence	sentence_14544
+14544_4	nummod	14544_5
+14544_4	has_surface_form	1
+14544_5	is_in_sentence	sentence_14544
+14544_5	npadvmod	14544_3
+14544_5	has_surface_form	March
+14544_6	is_in_sentence	sentence_14544
+14544_6	nummod	14544_5
+14544_6	has_surface_form	1954
+14544_7	is_in_sentence	sentence_14544
+14544_7	punct	14544_1
+14544_7	has_surface_form	)
+14544_9	is_in_sentence	sentence_14544
+14544_9	det	14544_13
+14544_9	has_surface_form	a
+14544_13	is_in_sentence	sentence_14544
+14544_13	attr	14544_8
+14544_13	has_surface_form	bassist
+14544_10	is_in_sentence	sentence_14544
+14544_10	nmod	14544_13
+14544_10	is_entity	flamenco
+flamenco	surface_form	flamenco
+14544_11	is_in_sentence	sentence_14544
+14544_11	cc	14544_10
+14544_11	has_surface_form	and
+14544_12	is_in_sentence	sentence_14544
+14544_12	conj	14544_10
+14544_12	has_surface_form	jazz
+14544_14	is_in_sentence	sentence_14544
+14544_14	punct	14544_8
+14544_14	has_surface_form	.
+14544_15	is_in_sentence	sentence_14544
+14544_15	dep	14544_8
+14544_15	has_surface_form	
+Carles Benavent	surface_form	Carles Benavent
+Carles Benavent	has-genre	flamenco

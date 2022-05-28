@@ -1,0 +1,65 @@
+4028_0	is_in_sentence	sentence_4028
+4028_0	det	4028_1
+4028_0	has_surface_form	The
+4028_0	part_of_entity	The Magic of Disney Animation
+4028_1	is_in_sentence	sentence_4028
+4028_1	nsubj	4028_5
+4028_1	has_surface_form	Magic
+4028_1	part_of_entity	The Magic of Disney Animation
+4028_5	is_in_sentence	sentence_4028
+4028_5	ROOT	4028_5
+4028_5	has_surface_form	was
+4028_2	is_in_sentence	sentence_4028
+4028_2	prep	4028_1
+4028_2	has_surface_form	of
+4028_2	part_of_entity	The Magic of Disney Animation
+4028_3	is_in_sentence	sentence_4028
+4028_3	compound	4028_4
+4028_3	has_surface_form	Disney
+4028_3	part_of_entity	The Magic of Disney Animation
+4028_4	is_in_sentence	sentence_4028
+4028_4	pobj	4028_2
+4028_4	has_surface_form	Animation
+4028_4	part_of_entity	The Magic of Disney Animation
+4028_6	is_in_sentence	sentence_4028
+4028_6	det	4028_7
+4028_6	has_surface_form	a
+4028_7	is_in_sentence	sentence_4028
+4028_7	attr	4028_5
+4028_7	is_entity	show
+show	surface_form	show
+4028_8	is_in_sentence	sentence_4028
+4028_8	cc	4028_7
+4028_8	has_surface_form	and
+4028_9	is_in_sentence	sentence_4028
+4028_9	conj	4028_7
+4028_9	has_surface_form	tour
+4028_10	is_in_sentence	sentence_4028
+4028_10	prep	4028_7
+4028_10	has_surface_form	at
+4028_11	is_in_sentence	sentence_4028
+4028_11	poss	4028_14
+4028_11	has_surface_form	Disney
+4028_14	is_in_sentence	sentence_4028
+4028_14	pobj	4028_10
+4028_14	has_surface_form	Studios
+4028_12	is_in_sentence	sentence_4028
+4028_12	case	4028_11
+4028_12	has_surface_form	's
+4028_13	is_in_sentence	sentence_4028
+4028_13	compound	4028_14
+4028_13	has_surface_form	Hollywood
+4028_15	is_in_sentence	sentence_4028
+4028_15	punct	4028_14
+4028_15	has_surface_form	,
+4028_16	is_in_sentence	sentence_4028
+4028_16	appos	4028_14
+4028_16	has_surface_form	Florida
+4028_17	is_in_sentence	sentence_4028
+4028_17	punct	4028_5
+4028_17	has_surface_form	.
+4028_18	is_in_sentence	sentence_4028
+4028_18	dep	4028_18
+4028_18	has_surface_form	
+The Magic of Disney Animation	surface_form	The Magic of Disney Animation
+The Magic of Disney Animation	has-type	show

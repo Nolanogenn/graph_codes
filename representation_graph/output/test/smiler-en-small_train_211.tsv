@@ -1,0 +1,73 @@
+210_0	is_in_sentence	sentence_210
+210_0	compound	210_1
+210_0	has_surface_form	Night
+210_0	part_of_entity	Night Duty
+210_1	is_in_sentence	sentence_210
+210_1	nsubj	210_2
+210_1	has_surface_form	Duty
+210_1	part_of_entity	Night Duty
+210_2	is_in_sentence	sentence_210
+210_2	ROOT	210_2
+210_2	has_surface_form	is
+210_3	is_in_sentence	sentence_210
+210_3	det	210_9
+210_3	has_surface_form	a
+210_9	is_in_sentence	sentence_210
+210_9	attr	210_2
+210_9	has_surface_form	film
+210_4	is_in_sentence	sentence_210
+210_4	nummod	210_9
+210_4	has_surface_form	1974
+210_5	is_in_sentence	sentence_210
+210_5	compound	210_9
+210_5	has_surface_form	Indian
+210_6	is_in_sentence	sentence_210
+210_6	compound	210_8
+210_6	has_surface_form	Malayalam
+210_8	is_in_sentence	sentence_210
+210_8	compound	210_9
+210_8	has_surface_form	language
+210_7	is_in_sentence	sentence_210
+210_7	punct	210_8
+210_7	has_surface_form	-
+210_10	is_in_sentence	sentence_210
+210_10	punct	210_9
+210_10	has_surface_form	,
+210_11	is_in_sentence	sentence_210
+210_11	acl	210_9
+210_11	has_surface_form	directed
+210_12	is_in_sentence	sentence_210
+210_12	agent	210_11
+210_12	has_surface_form	by
+210_13	is_in_sentence	sentence_210
+210_13	compound	210_14
+210_13	has_surface_form	J.
+210_13	part_of_entity	J. Sasikumar
+210_14	is_in_sentence	sentence_210
+210_14	pobj	210_12
+210_14	has_surface_form	Sasikumar
+210_14	part_of_entity	J. Sasikumar
+210_15	is_in_sentence	sentence_210
+210_15	cc	210_11
+210_15	has_surface_form	and
+210_16	is_in_sentence	sentence_210
+210_16	conj	210_11
+210_16	has_surface_form	produced
+210_17	is_in_sentence	sentence_210
+210_17	agent	210_16
+210_17	has_surface_form	by
+210_18	is_in_sentence	sentence_210
+210_18	compound	210_19
+210_18	has_surface_form	Thiruppathi
+210_19	is_in_sentence	sentence_210
+210_19	pobj	210_17
+210_19	has_surface_form	Chettiyar
+210_20	is_in_sentence	sentence_210
+210_20	punct	210_2
+210_20	has_surface_form	.
+210_21	is_in_sentence	sentence_210
+210_21	dep	210_2
+210_21	has_surface_form	
+Night Duty	surface_form	Night Duty
+Night Duty	movie-has-director	J. Sasikumar
+J. Sasikumar	surface_form	J. Sasikumar

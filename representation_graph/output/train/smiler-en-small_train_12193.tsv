@@ -1,0 +1,85 @@
+12192_0	is_in_sentence	sentence_12192
+12192_0	compound	12192_1
+12192_0	has_surface_form	Barefoot
+12192_0	part_of_entity	Barefoot Jerry
+12192_1	is_in_sentence	sentence_12192
+12192_1	nsubj	12192_2
+12192_1	has_surface_form	Jerry
+12192_1	part_of_entity	Barefoot Jerry
+12192_2	is_in_sentence	sentence_12192
+12192_2	ROOT	12192_2
+12192_2	has_surface_form	is
+12192_3	is_in_sentence	sentence_12192
+12192_3	det	12192_10
+12192_3	has_surface_form	an
+12192_10	is_in_sentence	sentence_12192
+12192_10	attr	12192_2
+12192_10	has_surface_form	band
+12192_4	is_in_sentence	sentence_12192
+12192_4	amod	12192_6
+12192_4	has_surface_form	American
+12192_6	is_in_sentence	sentence_12192
+12192_6	nmod	12192_10
+12192_6	has_surface_form	rock
+12192_5	is_in_sentence	sentence_12192
+12192_5	amod	12192_6
+12192_5	has_surface_form	Southern
+12192_7	is_in_sentence	sentence_12192
+12192_7	cc	12192_6
+12192_7	has_surface_form	and
+12192_8	is_in_sentence	sentence_12192
+12192_8	conj	12192_6
+12192_8	has_surface_form	country
+12192_8	part_of_entity	country rock
+12192_9	is_in_sentence	sentence_12192
+12192_9	compound	12192_10
+12192_9	has_surface_form	rock
+12192_9	part_of_entity	country rock
+12192_11	is_in_sentence	sentence_12192
+12192_11	punct	12192_10
+12192_11	has_surface_form	,
+12192_12	is_in_sentence	sentence_12192
+12192_12	acl	12192_10
+12192_12	has_surface_form	based
+12192_13	is_in_sentence	sentence_12192
+12192_13	prep	12192_12
+12192_13	has_surface_form	in
+12192_14	is_in_sentence	sentence_12192
+12192_14	pobj	12192_13
+12192_14	has_surface_form	Nashville
+12192_15	is_in_sentence	sentence_12192
+12192_15	punct	12192_14
+12192_15	has_surface_form	,
+12192_16	is_in_sentence	sentence_12192
+12192_16	appos	12192_14
+12192_16	has_surface_form	Tennessee
+12192_17	is_in_sentence	sentence_12192
+12192_17	punct	12192_14
+12192_17	has_surface_form	,
+12192_18	is_in_sentence	sentence_12192
+12192_18	advmod	12192_19
+12192_18	has_surface_form	most
+12192_19	is_in_sentence	sentence_12192
+12192_19	amod	12192_14
+12192_19	has_surface_form	active
+12192_20	is_in_sentence	sentence_12192
+12192_20	prep	12192_19
+12192_20	has_surface_form	from
+12192_21	is_in_sentence	sentence_12192
+12192_21	pobj	12192_20
+12192_21	has_surface_form	1971
+12192_22	is_in_sentence	sentence_12192
+12192_22	prep	12192_20
+12192_22	has_surface_form	to
+12192_23	is_in_sentence	sentence_12192
+12192_23	pobj	12192_22
+12192_23	has_surface_form	1977
+12192_24	is_in_sentence	sentence_12192
+12192_24	punct	12192_2
+12192_24	has_surface_form	.
+12192_25	is_in_sentence	sentence_12192
+12192_25	dep	12192_25
+12192_25	has_surface_form	
+Barefoot Jerry	surface_form	Barefoot Jerry
+Barefoot Jerry	has-genre	country rock
+country rock	surface_form	country rock

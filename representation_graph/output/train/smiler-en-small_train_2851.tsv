@@ -1,0 +1,80 @@
+2850_0	is_in_sentence	sentence_2850
+2850_0	compound	2850_2
+2850_0	has_surface_form	Pappa
+2850_0	part_of_entity	Pappa e ciccia
+2850_2	is_in_sentence	sentence_2850
+2850_2	nsubj	2850_12
+2850_2	has_surface_form	ciccia
+2850_2	part_of_entity	Pappa e ciccia
+2850_1	is_in_sentence	sentence_2850
+2850_1	compound	2850_2
+2850_1	has_surface_form	e
+2850_1	part_of_entity	Pappa e ciccia
+2850_12	is_in_sentence	sentence_2850
+2850_12	ROOT	2850_12
+2850_12	has_surface_form	is
+2850_3	is_in_sentence	sentence_2850
+2850_3	punct	2850_2
+2850_3	has_surface_form	(
+2850_4	is_in_sentence	sentence_2850
+2850_4	advmod	2850_5
+2850_4	has_surface_form	also
+2850_5	is_in_sentence	sentence_2850
+2850_5	acl	2850_2
+2850_5	has_surface_form	known
+2850_6	is_in_sentence	sentence_2850
+2850_6	prep	2850_5
+2850_6	has_surface_form	as
+2850_7	is_in_sentence	sentence_2850
+2850_7	pobj	2850_6
+2850_7	has_surface_form	Two
+2850_8	is_in_sentence	sentence_2850
+2850_8	prep	2850_7
+2850_8	has_surface_form	of
+2850_9	is_in_sentence	sentence_2850
+2850_9	det	2850_10
+2850_9	has_surface_form	a
+2850_10	is_in_sentence	sentence_2850
+2850_10	pobj	2850_8
+2850_10	has_surface_form	Kind
+2850_11	is_in_sentence	sentence_2850
+2850_11	punct	2850_2
+2850_11	has_surface_form	)
+2850_13	is_in_sentence	sentence_2850
+2850_13	det	2850_17
+2850_13	has_surface_form	a
+2850_17	is_in_sentence	sentence_2850
+2850_17	attr	2850_12
+2850_17	has_surface_form	film
+2850_14	is_in_sentence	sentence_2850
+2850_14	nummod	2850_17
+2850_14	has_surface_form	1983
+2850_15	is_in_sentence	sentence_2850
+2850_15	amod	2850_17
+2850_15	has_surface_form	Italian
+2850_16	is_in_sentence	sentence_2850
+2850_16	compound	2850_17
+2850_16	has_surface_form	comedy
+2850_18	is_in_sentence	sentence_2850
+2850_18	acl	2850_17
+2850_18	has_surface_form	directed
+2850_19	is_in_sentence	sentence_2850
+2850_19	agent	2850_18
+2850_19	has_surface_form	by
+2850_20	is_in_sentence	sentence_2850
+2850_20	compound	2850_21
+2850_20	has_surface_form	Neri
+2850_20	part_of_entity	Neri Parenti
+2850_21	is_in_sentence	sentence_2850
+2850_21	pobj	2850_19
+2850_21	has_surface_form	Parenti
+2850_21	part_of_entity	Neri Parenti
+2850_22	is_in_sentence	sentence_2850
+2850_22	punct	2850_12
+2850_22	has_surface_form	.
+2850_23	is_in_sentence	sentence_2850
+2850_23	dep	2850_12
+2850_23	has_surface_form	
+Pappa e ciccia	surface_form	Pappa e ciccia
+Pappa e ciccia	movie-has-director	Neri Parenti
+Neri Parenti	surface_form	Neri Parenti

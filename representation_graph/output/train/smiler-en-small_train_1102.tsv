@@ -1,0 +1,76 @@
+1101_0	is_in_sentence	sentence_1101
+1101_0	csubj	1101_4
+1101_0	has_surface_form	Ride
+1101_0	part_of_entity	Ride a Violent Mile
+1101_4	is_in_sentence	sentence_1101
+1101_4	ROOT	1101_4
+1101_4	has_surface_form	is
+1101_1	is_in_sentence	sentence_1101
+1101_1	det	1101_3
+1101_1	has_surface_form	a
+1101_1	part_of_entity	Ride a Violent Mile
+1101_3	is_in_sentence	sentence_1101
+1101_3	dobj	1101_0
+1101_3	has_surface_form	Mile
+1101_3	part_of_entity	Ride a Violent Mile
+1101_2	is_in_sentence	sentence_1101
+1101_2	compound	1101_3
+1101_2	has_surface_form	Violent
+1101_2	part_of_entity	Ride a Violent Mile
+1101_5	is_in_sentence	sentence_1101
+1101_5	det	1101_9
+1101_5	has_surface_form	a
+1101_9	is_in_sentence	sentence_1101
+1101_9	attr	1101_4
+1101_9	has_surface_form	film
+1101_6	is_in_sentence	sentence_1101
+1101_6	nummod	1101_9
+1101_6	has_surface_form	1957
+1101_7	is_in_sentence	sentence_1101
+1101_7	amod	1101_9
+1101_7	has_surface_form	American
+1101_8	is_in_sentence	sentence_1101
+1101_8	amod	1101_9
+1101_8	has_surface_form	Western
+1101_10	is_in_sentence	sentence_1101
+1101_10	acl	1101_9
+1101_10	has_surface_form	directed
+1101_11	is_in_sentence	sentence_1101
+1101_11	agent	1101_10
+1101_11	has_surface_form	by
+1101_12	is_in_sentence	sentence_1101
+1101_12	compound	1101_14
+1101_12	has_surface_form	Charles
+1101_12	part_of_entity	Charles Marquis Warren
+1101_14	is_in_sentence	sentence_1101
+1101_14	pobj	1101_11
+1101_14	has_surface_form	Warren
+1101_14	part_of_entity	Charles Marquis Warren
+1101_13	is_in_sentence	sentence_1101
+1101_13	compound	1101_14
+1101_13	has_surface_form	Marquis
+1101_13	part_of_entity	Charles Marquis Warren
+1101_15	is_in_sentence	sentence_1101
+1101_15	cc	1101_10
+1101_15	has_surface_form	and
+1101_16	is_in_sentence	sentence_1101
+1101_16	conj	1101_10
+1101_16	has_surface_form	written
+1101_17	is_in_sentence	sentence_1101
+1101_17	agent	1101_16
+1101_17	has_surface_form	by
+1101_18	is_in_sentence	sentence_1101
+1101_18	compound	1101_19
+1101_18	has_surface_form	Eric
+1101_19	is_in_sentence	sentence_1101
+1101_19	pobj	1101_17
+1101_19	has_surface_form	Norden
+1101_20	is_in_sentence	sentence_1101
+1101_20	punct	1101_4
+1101_20	has_surface_form	.
+1101_21	is_in_sentence	sentence_1101
+1101_21	dep	1101_4
+1101_21	has_surface_form	
+Ride a Violent Mile	surface_form	Ride a Violent Mile
+Ride a Violent Mile	movie-has-director	Charles Marquis Warren
+Charles Marquis Warren	surface_form	Charles Marquis Warren

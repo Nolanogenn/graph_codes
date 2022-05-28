@@ -1,0 +1,80 @@
+10264_0	is_in_sentence	sentence_10264
+10264_0	nsubj	10264_3
+10264_0	has_surface_form	Millionaires
+10264_0	part_of_entity	Millionaires in Prison
+10264_3	is_in_sentence	sentence_10264
+10264_3	ROOT	10264_3
+10264_3	has_surface_form	is
+10264_1	is_in_sentence	sentence_10264
+10264_1	prep	10264_0
+10264_1	has_surface_form	in
+10264_1	part_of_entity	Millionaires in Prison
+10264_2	is_in_sentence	sentence_10264
+10264_2	pobj	10264_1
+10264_2	has_surface_form	Prison
+10264_2	part_of_entity	Millionaires in Prison
+10264_4	is_in_sentence	sentence_10264
+10264_4	det	10264_9
+10264_4	has_surface_form	a
+10264_9	is_in_sentence	sentence_10264
+10264_9	attr	10264_3
+10264_9	has_surface_form	film
+10264_5	is_in_sentence	sentence_10264
+10264_5	nummod	10264_9
+10264_5	has_surface_form	1940
+10264_6	is_in_sentence	sentence_10264
+10264_6	amod	10264_9
+10264_6	has_surface_form	American
+10264_7	is_in_sentence	sentence_10264
+10264_7	compound	10264_9
+10264_7	has_surface_form	crime
+10264_8	is_in_sentence	sentence_10264
+10264_8	compound	10264_9
+10264_8	has_surface_form	drama
+10264_10	is_in_sentence	sentence_10264
+10264_10	acl	10264_9
+10264_10	has_surface_form	directed
+10264_11	is_in_sentence	sentence_10264
+10264_11	agent	10264_10
+10264_11	has_surface_form	by
+10264_12	is_in_sentence	sentence_10264
+10264_12	compound	10264_13
+10264_12	has_surface_form	Ray
+10264_12	part_of_entity	Ray McCarey
+10264_13	is_in_sentence	sentence_10264
+10264_13	pobj	10264_11
+10264_13	has_surface_form	McCarey
+10264_13	part_of_entity	Ray McCarey
+10264_14	is_in_sentence	sentence_10264
+10264_14	cc	10264_10
+10264_14	has_surface_form	and
+10264_15	is_in_sentence	sentence_10264
+10264_15	conj	10264_10
+10264_15	has_surface_form	written
+10264_16	is_in_sentence	sentence_10264
+10264_16	agent	10264_15
+10264_16	has_surface_form	by
+10264_17	is_in_sentence	sentence_10264
+10264_17	compound	10264_18
+10264_17	has_surface_form	Lynn
+10264_18	is_in_sentence	sentence_10264
+10264_18	pobj	10264_16
+10264_18	has_surface_form	Root
+10264_19	is_in_sentence	sentence_10264
+10264_19	cc	10264_18
+10264_19	has_surface_form	and
+10264_20	is_in_sentence	sentence_10264
+10264_20	compound	10264_21
+10264_20	has_surface_form	Frank
+10264_21	is_in_sentence	sentence_10264
+10264_21	conj	10264_18
+10264_21	has_surface_form	Fenton
+10264_22	is_in_sentence	sentence_10264
+10264_22	punct	10264_3
+10264_22	has_surface_form	.
+10264_23	is_in_sentence	sentence_10264
+10264_23	dep	10264_3
+10264_23	has_surface_form	
+Millionaires in Prison	surface_form	Millionaires in Prison
+Millionaires in Prison	movie-has-director	Ray McCarey
+Ray McCarey	surface_form	Ray McCarey

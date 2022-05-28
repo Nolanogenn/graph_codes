@@ -1,0 +1,101 @@
+9327_0	is_in_sentence	sentence_9327
+9327_0	det	9327_1
+9327_0	has_surface_form	A
+9327_0	part_of_entity	A Hole of My Own Making
+9327_1	is_in_sentence	sentence_9327
+9327_1	nsubj	9327_16
+9327_1	has_surface_form	Hole
+9327_1	part_of_entity	A Hole of My Own Making
+9327_16	is_in_sentence	sentence_9327
+9327_16	ROOT	9327_16
+9327_16	has_surface_form	is
+9327_2	is_in_sentence	sentence_9327
+9327_2	prep	9327_1
+9327_2	has_surface_form	of
+9327_2	part_of_entity	A Hole of My Own Making
+9327_3	is_in_sentence	sentence_9327
+9327_3	poss	9327_5
+9327_3	has_surface_form	My
+9327_3	part_of_entity	A Hole of My Own Making
+9327_5	is_in_sentence	sentence_9327
+9327_5	pobj	9327_2
+9327_5	has_surface_form	Making
+9327_5	part_of_entity	A Hole of My Own Making
+9327_4	is_in_sentence	sentence_9327
+9327_4	compound	9327_5
+9327_4	has_surface_form	Own
+9327_4	part_of_entity	A Hole of My Own Making
+9327_6	is_in_sentence	sentence_9327
+9327_6	punct	9327_9
+9327_6	has_surface_form	(
+9327_9	is_in_sentence	sentence_9327
+9327_9	parataxis	9327_1
+9327_9	has_surface_form	Jibun
+9327_7	is_in_sentence	sentence_9327
+9327_7	advmod	9327_9
+9327_7	has_surface_form	自分の穴の中で
+9327_8	is_in_sentence	sentence_9327
+9327_8	punct	9327_9
+9327_8	has_surface_form	,
+9327_10	is_in_sentence	sentence_9327
+9327_10	det	9327_11
+9327_10	has_surface_form	no
+9327_11	is_in_sentence	sentence_9327
+9327_11	dobj	9327_9
+9327_11	has_surface_form	Ana
+9327_12	is_in_sentence	sentence_9327
+9327_12	det	9327_14
+9327_12	has_surface_form	no
+9327_14	is_in_sentence	sentence_9327
+9327_14	appos	9327_11
+9327_14	has_surface_form	de
+9327_13	is_in_sentence	sentence_9327
+9327_13	compound	9327_14
+9327_13	has_surface_form	Naka
+9327_15	is_in_sentence	sentence_9327
+9327_15	punct	9327_11
+9327_15	has_surface_form	)
+9327_17	is_in_sentence	sentence_9327
+9327_17	det	9327_23
+9327_17	has_surface_form	a
+9327_23	is_in_sentence	sentence_9327
+9327_23	attr	9327_16
+9327_23	has_surface_form	film
+9327_18	is_in_sentence	sentence_9327
+9327_18	nummod	9327_23
+9327_18	has_surface_form	1955
+9327_19	is_in_sentence	sentence_9327
+9327_19	amod	9327_23
+9327_19	has_surface_form	black
+9327_20	is_in_sentence	sentence_9327
+9327_20	cc	9327_19
+9327_20	has_surface_form	and
+9327_21	is_in_sentence	sentence_9327
+9327_21	conj	9327_19
+9327_21	has_surface_form	white
+9327_22	is_in_sentence	sentence_9327
+9327_22	amod	9327_23
+9327_22	has_surface_form	Japanese
+9327_24	is_in_sentence	sentence_9327
+9327_24	acl	9327_23
+9327_24	has_surface_form	directed
+9327_25	is_in_sentence	sentence_9327
+9327_25	agent	9327_24
+9327_25	has_surface_form	by
+9327_26	is_in_sentence	sentence_9327
+9327_26	compound	9327_27
+9327_26	has_surface_form	Tomu
+9327_26	part_of_entity	Tomu Uchida
+9327_27	is_in_sentence	sentence_9327
+9327_27	pobj	9327_25
+9327_27	has_surface_form	Uchida
+9327_27	part_of_entity	Tomu Uchida
+9327_28	is_in_sentence	sentence_9327
+9327_28	punct	9327_16
+9327_28	has_surface_form	.
+9327_29	is_in_sentence	sentence_9327
+9327_29	dep	9327_16
+9327_29	has_surface_form	
+A Hole of My Own Making	surface_form	A Hole of My Own Making
+A Hole of My Own Making	movie-has-director	Tomu Uchida
+Tomu Uchida	surface_form	Tomu Uchida

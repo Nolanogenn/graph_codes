@@ -1,0 +1,65 @@
+8629_0	is_in_sentence	sentence_8629
+8629_0	compound	8629_1
+8629_0	has_surface_form	Marcus
+8629_0	part_of_entity	Marcus Raboy
+8629_1	is_in_sentence	sentence_8629
+8629_1	nsubj	8629_9
+8629_1	has_surface_form	Raboy
+8629_1	part_of_entity	Marcus Raboy
+8629_9	is_in_sentence	sentence_8629
+8629_9	ROOT	8629_9
+8629_9	has_surface_form	is
+8629_2	is_in_sentence	sentence_8629
+8629_2	punct	8629_1
+8629_2	has_surface_form	(
+8629_3	is_in_sentence	sentence_8629
+8629_3	acl	8629_1
+8629_3	has_surface_form	born
+8629_4	is_in_sentence	sentence_8629
+8629_4	npadvmod	8629_3
+8629_4	has_surface_form	November
+8629_5	is_in_sentence	sentence_8629
+8629_5	nummod	8629_4
+8629_5	has_surface_form	30
+8629_6	is_in_sentence	sentence_8629
+8629_6	punct	8629_4
+8629_6	has_surface_form	,
+8629_7	is_in_sentence	sentence_8629
+8629_7	nummod	8629_4
+8629_7	has_surface_form	1965
+8629_8	is_in_sentence	sentence_8629
+8629_8	punct	8629_1
+8629_8	has_surface_form	)
+8629_10	is_in_sentence	sentence_8629
+8629_10	det	8629_16
+8629_10	has_surface_form	an
+8629_16	is_in_sentence	sentence_8629
+8629_16	attr	8629_9
+8629_16	has_surface_form	director
+8629_16	part_of_entity	music video director
+8629_11	is_in_sentence	sentence_8629
+8629_11	amod	8629_16
+8629_11	has_surface_form	American
+8629_12	is_in_sentence	sentence_8629
+8629_12	nmod	8629_15
+8629_12	has_surface_form	film
+8629_15	is_in_sentence	sentence_8629
+8629_15	compound	8629_16
+8629_15	has_surface_form	video
+8629_15	part_of_entity	music video director
+8629_13	is_in_sentence	sentence_8629
+8629_13	cc	8629_12
+8629_13	has_surface_form	and
+8629_14	is_in_sentence	sentence_8629
+8629_14	conj	8629_12
+8629_14	has_surface_form	music
+8629_14	part_of_entity	music video director
+8629_17	is_in_sentence	sentence_8629
+8629_17	punct	8629_9
+8629_17	has_surface_form	.
+8629_18	is_in_sentence	sentence_8629
+8629_18	dep	8629_18
+8629_18	has_surface_form	
+Marcus Raboy	surface_form	Marcus Raboy
+Marcus Raboy	has-occupation	music video director
+music video director	surface_form	music video director

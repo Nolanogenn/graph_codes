@@ -1,0 +1,94 @@
+29460_0	is_in_sentence	sentence_29460
+29460_0	compound	29460_1
+29460_0	has_surface_form	Dean
+29460_0	part_of_entity	Dean Armstrong
+29460_1	is_in_sentence	sentence_29460
+29460_1	nsubj	29460_9
+29460_1	has_surface_form	Armstrong
+29460_1	part_of_entity	Dean Armstrong
+29460_9	is_in_sentence	sentence_29460
+29460_9	ROOT	29460_9
+29460_9	has_surface_form	is
+29460_2	is_in_sentence	sentence_29460
+29460_2	punct	29460_1
+29460_2	has_surface_form	(
+29460_3	is_in_sentence	sentence_29460
+29460_3	acl	29460_1
+29460_3	has_surface_form	born
+29460_4	is_in_sentence	sentence_29460
+29460_4	npadvmod	29460_3
+29460_4	has_surface_form	April
+29460_5	is_in_sentence	sentence_29460
+29460_5	nummod	29460_4
+29460_5	has_surface_form	24
+29460_6	is_in_sentence	sentence_29460
+29460_6	punct	29460_4
+29460_6	has_surface_form	,
+29460_7	is_in_sentence	sentence_29460
+29460_7	nummod	29460_4
+29460_7	has_surface_form	1973
+29460_8	is_in_sentence	sentence_29460
+29460_8	punct	29460_1
+29460_8	has_surface_form	)
+29460_10	is_in_sentence	sentence_29460
+29460_10	det	29460_12
+29460_10	has_surface_form	a
+29460_12	is_in_sentence	sentence_29460
+29460_12	attr	29460_9
+29460_12	has_surface_form	actor
+29460_11	is_in_sentence	sentence_29460
+29460_11	amod	29460_12
+29460_11	has_surface_form	Canadian
+29460_13	is_in_sentence	sentence_29460
+29460_13	punct	29460_12
+29460_13	has_surface_form	,
+29460_14	is_in_sentence	sentence_29460
+29460_14	conj	29460_12
+29460_14	has_surface_form	producer
+29460_15	is_in_sentence	sentence_29460
+29460_15	cc	29460_14
+29460_15	has_surface_form	and
+29460_16	is_in_sentence	sentence_29460
+29460_16	amod	29460_17
+29460_16	has_surface_form	acting
+29460_17	is_in_sentence	sentence_29460
+29460_17	conj	29460_14
+29460_17	has_surface_form	coach
+29460_18	is_in_sentence	sentence_29460
+29460_18	punct	29460_9
+29460_18	has_surface_form	.
+29460_19	is_in_sentence	sentence_29460
+29460_19	nsubjpass	29460_21
+29460_19	has_surface_form	Armstrong
+29460_21	is_in_sentence	sentence_29460
+29460_21	ROOT	29460_21
+29460_21	has_surface_form	born
+29460_20	is_in_sentence	sentence_29460
+29460_20	auxpass	29460_21
+29460_20	has_surface_form	was
+29460_22	is_in_sentence	sentence_29460
+29460_22	prep	29460_21
+29460_22	has_surface_form	in
+29460_23	is_in_sentence	sentence_29460
+29460_23	compound	29460_24
+29460_23	has_surface_form	Owen
+29460_23	part_of_entity	Owen Sound
+29460_24	is_in_sentence	sentence_29460
+29460_24	pobj	29460_22
+29460_24	has_surface_form	Sound
+29460_24	part_of_entity	Owen Sound
+29460_25	is_in_sentence	sentence_29460
+29460_25	punct	29460_24
+29460_25	has_surface_form	,
+29460_26	is_in_sentence	sentence_29460
+29460_26	appos	29460_24
+29460_26	has_surface_form	Ontario
+29460_27	is_in_sentence	sentence_29460
+29460_27	punct	29460_21
+29460_27	has_surface_form	.
+29460_28	is_in_sentence	sentence_29460
+29460_28	dep	29460_28
+29460_28	has_surface_form	
+Dean Armstrong	surface_form	Dean Armstrong
+Dean Armstrong	birth-place	Owen Sound
+Owen Sound	surface_form	Owen Sound

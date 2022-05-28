@@ -1,0 +1,58 @@
+18010_0	is_in_sentence	sentence_18010
+18010_0	compound	18010_1
+18010_0	has_surface_form	Daejin
+18010_0	part_of_entity	Daejin University
+18010_1	is_in_sentence	sentence_18010
+18010_1	nsubj	18010_2
+18010_1	has_surface_form	University
+18010_1	part_of_entity	Daejin University
+18010_2	is_in_sentence	sentence_18010
+18010_2	ROOT	18010_2
+18010_2	has_surface_form	is
+18010_3	is_in_sentence	sentence_18010
+18010_3	det	18010_5
+18010_3	has_surface_form	a
+18010_5	is_in_sentence	sentence_18010
+18010_5	attr	18010_2
+18010_5	has_surface_form	university
+18010_4	is_in_sentence	sentence_18010
+18010_4	amod	18010_5
+18010_4	has_surface_form	private
+18010_6	is_in_sentence	sentence_18010
+18010_6	prep	18010_5
+18010_6	has_surface_form	in
+18010_7	is_in_sentence	sentence_18010
+18010_7	compound	18010_8
+18010_7	has_surface_form	Pocheon
+18010_7	part_of_entity	Pocheon City
+18010_8	is_in_sentence	sentence_18010
+18010_8	pobj	18010_6
+18010_8	has_surface_form	City
+18010_8	part_of_entity	Pocheon City
+18010_9	is_in_sentence	sentence_18010
+18010_9	punct	18010_8
+18010_9	has_surface_form	,
+18010_10	is_in_sentence	sentence_18010
+18010_10	compound	18010_11
+18010_10	has_surface_form	Gyeonggi
+18010_11	is_in_sentence	sentence_18010
+18010_11	appos	18010_8
+18010_11	has_surface_form	province
+18010_12	is_in_sentence	sentence_18010
+18010_12	prep	18010_11
+18010_12	has_surface_form	of
+18010_13	is_in_sentence	sentence_18010
+18010_13	compound	18010_14
+18010_13	has_surface_form	South
+18010_14	is_in_sentence	sentence_18010
+18010_14	pobj	18010_12
+18010_14	has_surface_form	Korea
+18010_15	is_in_sentence	sentence_18010
+18010_15	punct	18010_2
+18010_15	has_surface_form	.
+18010_16	is_in_sentence	sentence_18010
+18010_16	dep	18010_16
+18010_16	has_surface_form	
+Daejin University	surface_form	Daejin University
+Daejin University	is-where	Pocheon City
+Pocheon City	surface_form	Pocheon City

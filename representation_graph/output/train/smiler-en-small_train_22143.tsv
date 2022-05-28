@@ -1,0 +1,64 @@
+22142_0	is_in_sentence	sentence_22142
+22142_0	compound	22142_1
+22142_0	has_surface_form	Dean
+22142_0	part_of_entity	Dean Dillon
+22142_1	is_in_sentence	sentence_22142
+22142_1	nsubj	22142_9
+22142_1	has_surface_form	Dillon
+22142_1	part_of_entity	Dean Dillon
+22142_9	is_in_sentence	sentence_22142
+22142_9	ROOT	22142_9
+22142_9	has_surface_form	is
+22142_2	is_in_sentence	sentence_22142
+22142_2	punct	22142_1
+22142_2	has_surface_form	(
+22142_3	is_in_sentence	sentence_22142
+22142_3	acl	22142_1
+22142_3	has_surface_form	born
+22142_4	is_in_sentence	sentence_22142
+22142_4	npadvmod	22142_3
+22142_4	has_surface_form	March
+22142_5	is_in_sentence	sentence_22142
+22142_5	nummod	22142_4
+22142_5	has_surface_form	26
+22142_6	is_in_sentence	sentence_22142
+22142_6	punct	22142_4
+22142_6	has_surface_form	,
+22142_7	is_in_sentence	sentence_22142
+22142_7	nummod	22142_4
+22142_7	has_surface_form	1955
+22142_8	is_in_sentence	sentence_22142
+22142_8	punct	22142_1
+22142_8	has_surface_form	)
+22142_10	is_in_sentence	sentence_22142
+22142_10	det	22142_14
+22142_10	has_surface_form	an
+22142_14	is_in_sentence	sentence_22142
+22142_14	attr	22142_9
+22142_14	has_surface_form	artist
+22142_11	is_in_sentence	sentence_22142
+22142_11	amod	22142_14
+22142_11	has_surface_form	American
+22142_12	is_in_sentence	sentence_22142
+22142_12	compound	22142_13
+22142_12	has_surface_form	country
+22142_12	part_of_entity	country music
+22142_13	is_in_sentence	sentence_22142
+22142_13	compound	22142_14
+22142_13	has_surface_form	music
+22142_13	part_of_entity	country music
+22142_15	is_in_sentence	sentence_22142
+22142_15	cc	22142_14
+22142_15	has_surface_form	and
+22142_16	is_in_sentence	sentence_22142
+22142_16	conj	22142_14
+22142_16	has_surface_form	songwriter
+22142_17	is_in_sentence	sentence_22142
+22142_17	punct	22142_9
+22142_17	has_surface_form	.
+22142_18	is_in_sentence	sentence_22142
+22142_18	dep	22142_18
+22142_18	has_surface_form	
+Dean Dillon	surface_form	Dean Dillon
+Dean Dillon	has-genre	country music
+country music	surface_form	country music

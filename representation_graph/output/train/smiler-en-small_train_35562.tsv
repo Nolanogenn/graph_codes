@@ -1,0 +1,48 @@
+35561_0	is_in_sentence	sentence_35561
+35561_0	compound	35561_1
+35561_0	has_surface_form	EV
+35561_0	part_of_entity	EV Bozen 84
+35561_1	is_in_sentence	sentence_35561
+35561_1	nsubj	35561_3
+35561_1	has_surface_form	Bozen
+35561_1	part_of_entity	EV Bozen 84
+35561_3	is_in_sentence	sentence_35561
+35561_3	ROOT	35561_3
+35561_3	has_surface_form	is
+35561_2	is_in_sentence	sentence_35561
+35561_2	nummod	35561_1
+35561_2	has_surface_form	84
+35561_2	part_of_entity	EV Bozen 84
+35561_4	is_in_sentence	sentence_35561
+35561_4	det	35561_7
+35561_4	has_surface_form	an
+35561_7	is_in_sentence	sentence_35561
+35561_7	attr	35561_3
+35561_7	has_surface_form	team
+35561_5	is_in_sentence	sentence_35561
+35561_5	compound	35561_6
+35561_5	has_surface_form	ice
+35561_6	is_in_sentence	sentence_35561
+35561_6	compound	35561_7
+35561_6	has_surface_form	hockey
+35561_8	is_in_sentence	sentence_35561
+35561_8	prep	35561_7
+35561_8	has_surface_form	in
+35561_9	is_in_sentence	sentence_35561
+35561_9	pobj	35561_8
+35561_9	is_entity	Bolzano
+Bolzano	surface_form	Bolzano
+35561_10	is_in_sentence	sentence_35561
+35561_10	punct	35561_9
+35561_10	has_surface_form	,
+35561_11	is_in_sentence	sentence_35561
+35561_11	appos	35561_9
+35561_11	has_surface_form	Italy
+35561_12	is_in_sentence	sentence_35561
+35561_12	punct	35561_3
+35561_12	has_surface_form	.
+35561_13	is_in_sentence	sentence_35561
+35561_13	dep	35561_13
+35561_13	has_surface_form	
+EV Bozen 84	surface_form	EV Bozen 84
+EV Bozen 84	is-where	Bolzano

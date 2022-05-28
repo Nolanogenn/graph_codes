@@ -1,0 +1,71 @@
+1144_0	is_in_sentence	sentence_1144
+1144_0	det	1144_2
+1144_0	has_surface_form	A
+1144_0	part_of_entity	A Belfast Story
+1144_2	is_in_sentence	sentence_1144
+1144_2	nsubj	1144_3
+1144_2	has_surface_form	Story
+1144_2	part_of_entity	A Belfast Story
+1144_1	is_in_sentence	sentence_1144
+1144_1	compound	1144_2
+1144_1	has_surface_form	Belfast
+1144_1	part_of_entity	A Belfast Story
+1144_3	is_in_sentence	sentence_1144
+1144_3	ROOT	1144_3
+1144_3	has_surface_form	is
+1144_4	is_in_sentence	sentence_1144
+1144_4	det	1144_8
+1144_4	has_surface_form	a
+1144_8	is_in_sentence	sentence_1144
+1144_8	attr	1144_3
+1144_8	has_surface_form	film
+1144_5	is_in_sentence	sentence_1144
+1144_5	nummod	1144_8
+1144_5	has_surface_form	2013
+1144_6	is_in_sentence	sentence_1144
+1144_6	amod	1144_8
+1144_6	has_surface_form	Irish
+1144_7	is_in_sentence	sentence_1144
+1144_7	compound	1144_8
+1144_7	has_surface_form	crime
+1144_9	is_in_sentence	sentence_1144
+1144_9	acl	1144_8
+1144_9	has_surface_form	written
+1144_10	is_in_sentence	sentence_1144
+1144_10	cc	1144_9
+1144_10	has_surface_form	and
+1144_11	is_in_sentence	sentence_1144
+1144_11	conj	1144_9
+1144_11	has_surface_form	directed
+1144_12	is_in_sentence	sentence_1144
+1144_12	agent	1144_11
+1144_12	has_surface_form	by
+1144_13	is_in_sentence	sentence_1144
+1144_13	compound	1144_14
+1144_13	has_surface_form	Nathan
+1144_13	part_of_entity	Nathan Todd
+1144_14	is_in_sentence	sentence_1144
+1144_14	pobj	1144_12
+1144_14	has_surface_form	Todd
+1144_14	part_of_entity	Nathan Todd
+1144_15	is_in_sentence	sentence_1144
+1144_15	cc	1144_11
+1144_15	has_surface_form	and
+1144_16	is_in_sentence	sentence_1144
+1144_16	conj	1144_11
+1144_16	has_surface_form	starring
+1144_17	is_in_sentence	sentence_1144
+1144_17	compound	1144_18
+1144_17	has_surface_form	Colm
+1144_18	is_in_sentence	sentence_1144
+1144_18	dobj	1144_16
+1144_18	has_surface_form	Meaney
+1144_19	is_in_sentence	sentence_1144
+1144_19	punct	1144_3
+1144_19	has_surface_form	.
+1144_20	is_in_sentence	sentence_1144
+1144_20	dep	1144_3
+1144_20	has_surface_form	
+A Belfast Story	surface_form	A Belfast Story
+A Belfast Story	movie-has-director	Nathan Todd
+Nathan Todd	surface_form	Nathan Todd

@@ -1,0 +1,52 @@
+18497_0	is_in_sentence	sentence_18497
+18497_0	compound	18497_1
+18497_0	has_surface_form	Meg
+18497_0	part_of_entity	Meg Hillier
+18497_1	is_in_sentence	sentence_18497
+18497_1	nsubj	18497_2
+18497_1	has_surface_form	Hillier
+18497_1	part_of_entity	Meg Hillier
+18497_2	is_in_sentence	sentence_18497
+18497_2	ccomp	18497_10
+18497_2	has_surface_form	married
+18497_10	is_in_sentence	sentence_18497
+18497_10	ROOT	18497_10
+18497_10	has_surface_form	have
+18497_3	is_in_sentence	sentence_18497
+18497_3	compound	18497_4
+18497_3	has_surface_form	Joe
+18497_3	part_of_entity	Joe Simpson
+18497_4	is_in_sentence	sentence_18497
+18497_4	dobj	18497_2
+18497_4	has_surface_form	Simpson
+18497_4	part_of_entity	Joe Simpson
+18497_5	is_in_sentence	sentence_18497
+18497_5	prep	18497_2
+18497_5	has_surface_form	in
+18497_6	is_in_sentence	sentence_18497
+18497_6	pobj	18497_5
+18497_6	has_surface_form	1997
+18497_7	is_in_sentence	sentence_18497
+18497_7	punct	18497_10
+18497_7	has_surface_form	;
+18497_8	is_in_sentence	sentence_18497
+18497_8	det	18497_9
+18497_8	has_surface_form	the
+18497_9	is_in_sentence	sentence_18497
+18497_9	nsubj	18497_10
+18497_9	has_surface_form	couple
+18497_11	is_in_sentence	sentence_18497
+18497_11	nummod	18497_12
+18497_11	has_surface_form	three
+18497_12	is_in_sentence	sentence_18497
+18497_12	dobj	18497_10
+18497_12	has_surface_form	children
+18497_13	is_in_sentence	sentence_18497
+18497_13	punct	18497_10
+18497_13	has_surface_form	.
+18497_14	is_in_sentence	sentence_18497
+18497_14	dep	18497_14
+18497_14	has_surface_form	
+Meg Hillier	surface_form	Meg Hillier
+Meg Hillier	has-spouse	Joe Simpson
+Joe Simpson	surface_form	Joe Simpson

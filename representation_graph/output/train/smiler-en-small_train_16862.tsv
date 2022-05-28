@@ -1,0 +1,72 @@
+16861_0	is_in_sentence	sentence_16861
+16861_0	compound	16861_2
+16861_0	has_surface_form	Universidad
+16861_0	part_of_entity	Universidad Autónoma Chapingo
+16861_2	is_in_sentence	sentence_16861
+16861_2	nsubj	16861_8
+16861_2	has_surface_form	Chapingo
+16861_2	part_of_entity	Universidad Autónoma Chapingo
+16861_1	is_in_sentence	sentence_16861
+16861_1	compound	16861_2
+16861_1	has_surface_form	Autónoma
+16861_1	part_of_entity	Universidad Autónoma Chapingo
+16861_8	is_in_sentence	sentence_16861
+16861_8	ROOT	16861_8
+16861_8	has_surface_form	is
+16861_3	is_in_sentence	sentence_16861
+16861_3	punct	16861_6
+16861_3	has_surface_form	(
+16861_6	is_in_sentence	sentence_16861
+16861_6	appos	16861_2
+16861_6	has_surface_form	University
+16861_4	is_in_sentence	sentence_16861
+16861_4	compound	16861_6
+16861_4	has_surface_form	Chapingo
+16861_5	is_in_sentence	sentence_16861
+16861_5	compound	16861_6
+16861_5	has_surface_form	Autonomous
+16861_7	is_in_sentence	sentence_16861
+16861_7	punct	16861_6
+16861_7	has_surface_form	)
+16861_9	is_in_sentence	sentence_16861
+16861_9	det	16861_11
+16861_9	has_surface_form	an
+16861_11	is_in_sentence	sentence_16861
+16861_11	attr	16861_8
+16861_11	has_surface_form	college
+16861_10	is_in_sentence	sentence_16861
+16861_10	amod	16861_11
+16861_10	has_surface_form	agricultural
+16861_12	is_in_sentence	sentence_16861
+16861_12	acl	16861_11
+16861_12	has_surface_form	located
+16861_13	is_in_sentence	sentence_16861
+16861_13	prep	16861_12
+16861_13	has_surface_form	in
+16861_14	is_in_sentence	sentence_16861
+16861_14	pobj	16861_13
+16861_14	has_surface_form	Texcoco
+16861_15	is_in_sentence	sentence_16861
+16861_15	punct	16861_14
+16861_15	has_surface_form	,
+16861_16	is_in_sentence	sentence_16861
+16861_16	compound	16861_17
+16861_16	has_surface_form	Mexico
+16861_17	is_in_sentence	sentence_16861
+16861_17	appos	16861_14
+16861_17	has_surface_form	State
+16861_18	is_in_sentence	sentence_16861
+16861_18	prep	16861_17
+16861_18	has_surface_form	in
+16861_19	is_in_sentence	sentence_16861
+16861_19	pobj	16861_18
+16861_19	has_surface_form	Mexico
+16861_20	is_in_sentence	sentence_16861
+16861_20	punct	16861_8
+16861_20	has_surface_form	.
+16861_21	is_in_sentence	sentence_16861
+16861_21	dep	16861_21
+16861_21	has_surface_form	
+Universidad Autónoma Chapingo	surface_form	Universidad Autónoma Chapingo
+Universidad Autónoma Chapingo	is-where	Texcoco, Mexico State
+Texcoco, Mexico State	surface_form	Texcoco, Mexico State

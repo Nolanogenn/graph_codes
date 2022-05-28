@@ -1,0 +1,62 @@
+16074_0	is_in_sentence	sentence_16074
+16074_0	compound	16074_1
+16074_0	has_surface_form	Claudio
+16074_0	part_of_entity	Claudio Sorrentino
+16074_1	is_in_sentence	sentence_16074
+16074_1	nsubj	16074_10
+16074_1	has_surface_form	Sorrentino
+16074_1	part_of_entity	Claudio Sorrentino
+16074_10	is_in_sentence	sentence_16074
+16074_10	ROOT	16074_10
+16074_10	has_surface_form	is
+16074_2	is_in_sentence	sentence_16074
+16074_2	punct	16074_1
+16074_2	has_surface_form	(
+16074_3	is_in_sentence	sentence_16074
+16074_3	acl	16074_1
+16074_3	has_surface_form	born
+16074_4	is_in_sentence	sentence_16074
+16074_4	nummod	16074_5
+16074_4	has_surface_form	18
+16074_5	is_in_sentence	sentence_16074
+16074_5	npadvmod	16074_3
+16074_5	has_surface_form	July
+16074_6	is_in_sentence	sentence_16074
+16074_6	nummod	16074_5
+16074_6	has_surface_form	1945
+16074_7	is_in_sentence	sentence_16074
+16074_7	prep	16074_3
+16074_7	has_surface_form	in
+16074_8	is_in_sentence	sentence_16074
+16074_8	pobj	16074_7
+16074_8	has_surface_form	Rome
+16074_9	is_in_sentence	sentence_16074
+16074_9	punct	16074_1
+16074_9	has_surface_form	)
+16074_11	is_in_sentence	sentence_16074
+16074_11	det	16074_16
+16074_11	has_surface_form	an
+16074_16	is_in_sentence	sentence_16074
+16074_16	attr	16074_10
+16074_16	is_entity	actor
+16074_12	is_in_sentence	sentence_16074
+16074_12	amod	16074_16
+16074_12	has_surface_form	Italian
+16074_13	is_in_sentence	sentence_16074
+16074_13	nmod	16074_16
+16074_13	is_entity	actor
+actor	surface_form	actor
+16074_14	is_in_sentence	sentence_16074
+16074_14	cc	16074_13
+16074_14	has_surface_form	and
+16074_15	is_in_sentence	sentence_16074
+16074_15	conj	16074_13
+16074_15	has_surface_form	voice
+16074_17	is_in_sentence	sentence_16074
+16074_17	punct	16074_10
+16074_17	has_surface_form	.
+16074_18	is_in_sentence	sentence_16074
+16074_18	dep	16074_10
+16074_18	has_surface_form	
+Claudio Sorrentino	surface_form	Claudio Sorrentino
+Claudio Sorrentino	has-occupation	actor

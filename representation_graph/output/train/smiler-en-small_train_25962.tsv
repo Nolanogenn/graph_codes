@@ -1,0 +1,83 @@
+25961_0	is_in_sentence	sentence_25961
+25961_0	compound	25961_1
+25961_0	has_surface_form	Paul
+25961_0	part_of_entity	Paul Temple Returns
+25961_1	is_in_sentence	sentence_25961
+25961_1	compound	25961_2
+25961_1	has_surface_form	Temple
+25961_1	part_of_entity	Paul Temple Returns
+25961_2	is_in_sentence	sentence_25961
+25961_2	nsubj	25961_3
+25961_2	has_surface_form	Returns
+25961_2	part_of_entity	Paul Temple Returns
+25961_3	is_in_sentence	sentence_25961
+25961_3	ROOT	25961_3
+25961_3	has_surface_form	is
+25961_4	is_in_sentence	sentence_25961
+25961_4	det	25961_8
+25961_4	has_surface_form	a
+25961_8	is_in_sentence	sentence_25961
+25961_8	attr	25961_3
+25961_8	has_surface_form	film
+25961_5	is_in_sentence	sentence_25961
+25961_5	nummod	25961_8
+25961_5	has_surface_form	1952
+25961_6	is_in_sentence	sentence_25961
+25961_6	amod	25961_8
+25961_6	has_surface_form	British
+25961_7	is_in_sentence	sentence_25961
+25961_7	compound	25961_8
+25961_7	has_surface_form	crime
+25961_9	is_in_sentence	sentence_25961
+25961_9	acl	25961_8
+25961_9	has_surface_form	directed
+25961_10	is_in_sentence	sentence_25961
+25961_10	agent	25961_9
+25961_10	has_surface_form	by
+25961_11	is_in_sentence	sentence_25961
+25961_11	compound	25961_12
+25961_11	has_surface_form	Maclean
+25961_11	part_of_entity	Maclean Rogers
+25961_12	is_in_sentence	sentence_25961
+25961_12	pobj	25961_10
+25961_12	has_surface_form	Rogers
+25961_12	part_of_entity	Maclean Rogers
+25961_13	is_in_sentence	sentence_25961
+25961_13	cc	25961_9
+25961_13	has_surface_form	and
+25961_14	is_in_sentence	sentence_25961
+25961_14	conj	25961_9
+25961_14	has_surface_form	starring
+25961_15	is_in_sentence	sentence_25961
+25961_15	compound	25961_16
+25961_15	has_surface_form	John
+25961_16	is_in_sentence	sentence_25961
+25961_16	dobj	25961_14
+25961_16	has_surface_form	Bentley
+25961_17	is_in_sentence	sentence_25961
+25961_17	punct	25961_16
+25961_17	has_surface_form	,
+25961_18	is_in_sentence	sentence_25961
+25961_18	compound	25961_19
+25961_18	has_surface_form	Patricia
+25961_19	is_in_sentence	sentence_25961
+25961_19	conj	25961_16
+25961_19	has_surface_form	Dainton
+25961_20	is_in_sentence	sentence_25961
+25961_20	cc	25961_19
+25961_20	has_surface_form	and
+25961_21	is_in_sentence	sentence_25961
+25961_21	compound	25961_22
+25961_21	has_surface_form	Peter
+25961_22	is_in_sentence	sentence_25961
+25961_22	conj	25961_19
+25961_22	has_surface_form	Gawthorne
+25961_23	is_in_sentence	sentence_25961
+25961_23	punct	25961_3
+25961_23	has_surface_form	.
+25961_24	is_in_sentence	sentence_25961
+25961_24	dep	25961_24
+25961_24	has_surface_form	
+Paul Temple Returns	surface_form	Paul Temple Returns
+Paul Temple Returns	movie-has-director	Maclean Rogers
+Maclean Rogers	surface_form	Maclean Rogers

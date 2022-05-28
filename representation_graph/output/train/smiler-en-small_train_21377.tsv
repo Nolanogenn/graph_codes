@@ -1,0 +1,74 @@
+21376_0	is_in_sentence	sentence_21376
+21376_0	compound	21376_2
+21376_0	has_surface_form	John
+21376_0	part_of_entity	John Arthur Martinez
+21376_2	is_in_sentence	sentence_21376
+21376_2	nsubj	21376_14
+21376_2	has_surface_form	Martinez
+21376_2	part_of_entity	John Arthur Martinez
+21376_1	is_in_sentence	sentence_21376
+21376_1	compound	21376_2
+21376_1	has_surface_form	Arthur
+21376_1	part_of_entity	John Arthur Martinez
+21376_14	is_in_sentence	sentence_21376
+21376_14	ROOT	21376_14
+21376_14	has_surface_form	is
+21376_3	is_in_sentence	sentence_21376
+21376_3	punct	21376_2
+21376_3	has_surface_form	(
+21376_4	is_in_sentence	sentence_21376
+21376_4	acl	21376_2
+21376_4	has_surface_form	born
+21376_5	is_in_sentence	sentence_21376
+21376_5	npadvmod	21376_4
+21376_5	has_surface_form	June
+21376_6	is_in_sentence	sentence_21376
+21376_6	nummod	21376_5
+21376_6	has_surface_form	10
+21376_7	is_in_sentence	sentence_21376
+21376_7	punct	21376_5
+21376_7	has_surface_form	,
+21376_8	is_in_sentence	sentence_21376
+21376_8	nummod	21376_5
+21376_8	has_surface_form	1961
+21376_9	is_in_sentence	sentence_21376
+21376_9	prep	21376_4
+21376_9	has_surface_form	in
+21376_10	is_in_sentence	sentence_21376
+21376_10	pobj	21376_9
+21376_10	has_surface_form	Austin
+21376_11	is_in_sentence	sentence_21376
+21376_11	punct	21376_10
+21376_11	has_surface_form	,
+21376_12	is_in_sentence	sentence_21376
+21376_12	appos	21376_10
+21376_12	has_surface_form	Texas
+21376_13	is_in_sentence	sentence_21376
+21376_13	punct	21376_10
+21376_13	has_surface_form	)
+21376_15	is_in_sentence	sentence_21376
+21376_15	det	21376_19
+21376_15	has_surface_form	an
+21376_19	is_in_sentence	sentence_21376
+21376_19	attr	21376_14
+21376_19	has_surface_form	artist
+21376_16	is_in_sentence	sentence_21376
+21376_16	amod	21376_19
+21376_16	has_surface_form	American
+21376_17	is_in_sentence	sentence_21376
+21376_17	compound	21376_18
+21376_17	has_surface_form	country
+21376_17	part_of_entity	country music
+21376_18	is_in_sentence	sentence_21376
+21376_18	compound	21376_19
+21376_18	has_surface_form	music
+21376_18	part_of_entity	country music
+21376_20	is_in_sentence	sentence_21376
+21376_20	punct	21376_14
+21376_20	has_surface_form	.
+21376_21	is_in_sentence	sentence_21376
+21376_21	dep	21376_14
+21376_21	has_surface_form	
+John Arthur Martinez	surface_form	John Arthur Martinez
+John Arthur Martinez	has-genre	country music
+country music	surface_form	country music

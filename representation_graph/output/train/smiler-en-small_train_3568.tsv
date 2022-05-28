@@ -1,0 +1,50 @@
+3567_0	is_in_sentence	sentence_3567
+3567_0	det	3567_1
+3567_0	has_surface_form	A
+3567_1	is_in_sentence	sentence_3567
+3567_1	poss	3567_3
+3567_1	has_surface_form	Fool
+3567_3	is_in_sentence	sentence_3567
+3567_3	nsubj	3567_4
+3567_3	has_surface_form	Advice
+3567_2	is_in_sentence	sentence_3567
+3567_2	case	3567_1
+3567_2	has_surface_form	's
+3567_4	is_in_sentence	sentence_3567
+3567_4	ROOT	3567_4
+3567_4	has_surface_form	is
+3567_5	is_in_sentence	sentence_3567
+3567_5	det	3567_8
+3567_5	has_surface_form	a
+3567_8	is_in_sentence	sentence_3567
+3567_8	attr	3567_4
+3567_8	has_surface_form	film
+3567_6	is_in_sentence	sentence_3567
+3567_6	nummod	3567_8
+3567_6	has_surface_form	1932
+3567_7	is_in_sentence	sentence_3567
+3567_7	amod	3567_8
+3567_7	has_surface_form	American
+3567_9	is_in_sentence	sentence_3567
+3567_9	acl	3567_8
+3567_9	has_surface_form	directed
+3567_10	is_in_sentence	sentence_3567
+3567_10	agent	3567_9
+3567_10	has_surface_form	by
+3567_11	is_in_sentence	sentence_3567
+3567_11	compound	3567_12
+3567_11	has_surface_form	Ralph
+3567_11	part_of_entity	Ralph Ceder
+3567_12	is_in_sentence	sentence_3567
+3567_12	pobj	3567_10
+3567_12	has_surface_form	Ceder
+3567_12	part_of_entity	Ralph Ceder
+3567_13	is_in_sentence	sentence_3567
+3567_13	punct	3567_4
+3567_13	has_surface_form	.
+3567_14	is_in_sentence	sentence_3567
+3567_14	dep	3567_4
+3567_14	has_surface_form	
+A Fool's Advice	surface_form	A Fool's Advice
+A Fool's Advice	movie-has-director	Ralph Ceder
+Ralph Ceder	surface_form	Ralph Ceder

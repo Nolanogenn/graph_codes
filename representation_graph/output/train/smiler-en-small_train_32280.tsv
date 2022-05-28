@@ -1,0 +1,65 @@
+32279_0	is_in_sentence	sentence_32279
+32279_0	nsubj	32279_3
+32279_0	has_surface_form	Tarzan
+32279_0	part_of_entity	Tarzan the Mighty
+32279_3	is_in_sentence	sentence_32279
+32279_3	ROOT	32279_3
+32279_3	has_surface_form	is
+32279_1	is_in_sentence	sentence_32279
+32279_1	det	32279_2
+32279_1	has_surface_form	the
+32279_1	part_of_entity	Tarzan the Mighty
+32279_2	is_in_sentence	sentence_32279
+32279_2	appos	32279_0
+32279_2	has_surface_form	Mighty
+32279_2	part_of_entity	Tarzan the Mighty
+32279_4	is_in_sentence	sentence_32279
+32279_4	det	32279_9
+32279_4	has_surface_form	a
+32279_9	is_in_sentence	sentence_32279
+32279_9	attr	32279_3
+32279_9	has_surface_form	serial
+32279_5	is_in_sentence	sentence_32279
+32279_5	nummod	32279_8
+32279_5	has_surface_form	1928
+32279_8	is_in_sentence	sentence_32279
+32279_8	compound	32279_9
+32279_8	has_surface_form	film
+32279_6	is_in_sentence	sentence_32279
+32279_6	amod	32279_8
+32279_6	has_surface_form	American
+32279_7	is_in_sentence	sentence_32279
+32279_7	compound	32279_8
+32279_7	has_surface_form	action
+32279_10	is_in_sentence	sentence_32279
+32279_10	acl	32279_9
+32279_10	has_surface_form	directed
+32279_11	is_in_sentence	sentence_32279
+32279_11	agent	32279_10
+32279_11	has_surface_form	by
+32279_12	is_in_sentence	sentence_32279
+32279_12	compound	32279_13
+32279_12	has_surface_form	Jack
+32279_13	is_in_sentence	sentence_32279
+32279_13	pobj	32279_11
+32279_13	has_surface_form	Nelson
+32279_14	is_in_sentence	sentence_32279
+32279_14	cc	32279_13
+32279_14	has_surface_form	and
+32279_15	is_in_sentence	sentence_32279
+32279_15	compound	32279_16
+32279_15	has_surface_form	Ray
+32279_15	part_of_entity	Ray Taylor
+32279_16	is_in_sentence	sentence_32279
+32279_16	conj	32279_13
+32279_16	has_surface_form	Taylor
+32279_16	part_of_entity	Ray Taylor
+32279_17	is_in_sentence	sentence_32279
+32279_17	punct	32279_3
+32279_17	has_surface_form	.
+32279_18	is_in_sentence	sentence_32279
+32279_18	dep	32279_3
+32279_18	has_surface_form	
+Tarzan the Mighty	surface_form	Tarzan the Mighty
+Tarzan the Mighty	movie-has-director	Ray Taylor
+Ray Taylor	surface_form	Ray Taylor

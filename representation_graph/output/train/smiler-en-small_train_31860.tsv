@@ -1,0 +1,93 @@
+31859_0	is_in_sentence	sentence_31859
+31859_0	punct	31859_14
+31859_0	has_surface_form	""""
+31859_14	is_in_sentence	sentence_31859
+31859_14	ROOT	31859_14
+31859_14	has_surface_form	is
+31859_1	is_in_sentence	sentence_31859
+31859_1	nsubj	31859_2
+31859_1	has_surface_form	Roma
+31859_1	part_of_entity	Roma come Chicago
+31859_2	is_in_sentence	sentence_31859
+31859_2	ccomp	31859_14
+31859_2	has_surface_form	come
+31859_2	part_of_entity	Roma come Chicago
+31859_3	is_in_sentence	sentence_31859
+31859_3	npadvmod	31859_2
+31859_3	has_surface_form	Chicago
+31859_3	part_of_entity	Roma come Chicago
+31859_4	is_in_sentence	sentence_31859
+31859_4	punct	31859_8
+31859_4	has_surface_form	(
+31859_8	is_in_sentence	sentence_31859
+31859_8	appos	31859_3
+31859_8	has_surface_form	Rome
+31859_5	is_in_sentence	sentence_31859
+31859_5	advmod	31859_8
+31859_5	has_surface_form	literally
+31859_6	is_in_sentence	sentence_31859
+31859_6	punct	31859_8
+31859_6	has_surface_form	""""
+31859_7	is_in_sentence	sentence_31859
+31859_7	punct	31859_8
+31859_7	has_surface_form	""""
+31859_9	is_in_sentence	sentence_31859
+31859_9	prep	31859_8
+31859_9	has_surface_form	like
+31859_10	is_in_sentence	sentence_31859
+31859_10	pobj	31859_9
+31859_10	has_surface_form	Chicago
+31859_11	is_in_sentence	sentence_31859
+31859_11	punct	31859_8
+31859_11	has_surface_form	""""
+31859_12	is_in_sentence	sentence_31859
+31859_12	punct	31859_2
+31859_12	has_surface_form	""""
+31859_13	is_in_sentence	sentence_31859
+31859_13	punct	31859_14
+31859_13	has_surface_form	)
+31859_15	is_in_sentence	sentence_31859
+31859_15	det	31859_19
+31859_15	has_surface_form	a
+31859_19	is_in_sentence	sentence_31859
+31859_19	attr	31859_14
+31859_19	has_surface_form	film
+31859_16	is_in_sentence	sentence_31859
+31859_16	nummod	31859_19
+31859_16	has_surface_form	1968
+31859_17	is_in_sentence	sentence_31859
+31859_17	amod	31859_19
+31859_17	has_surface_form	Italian
+31859_18	is_in_sentence	sentence_31859
+31859_18	compound	31859_19
+31859_18	has_surface_form	crime
+31859_20	is_in_sentence	sentence_31859
+31859_20	acl	31859_19
+31859_20	has_surface_form	directed
+31859_21	is_in_sentence	sentence_31859
+31859_21	agent	31859_20
+31859_21	has_surface_form	by
+31859_22	is_in_sentence	sentence_31859
+31859_22	compound	31859_24
+31859_22	has_surface_form	Alberto
+31859_22	part_of_entity	Alberto De Martino
+31859_24	is_in_sentence	sentence_31859
+31859_24	pobj	31859_21
+31859_24	has_surface_form	Martino
+31859_24	part_of_entity	Alberto De Martino
+31859_23	is_in_sentence	sentence_31859
+31859_23	compound	31859_24
+31859_23	has_surface_form	De
+31859_23	part_of_entity	Alberto De Martino
+31859_25	is_in_sentence	sentence_31859
+31859_25	punct	31859_14
+31859_25	has_surface_form	.
+31859_26	is_in_sentence	sentence_31859
+31859_26	punct	31859_14
+31859_26	has_surface_form	""""
+31859_27	is_in_sentence	sentence_31859
+31859_27	dep	31859_14
+31859_27	has_surface_form	
+Roma come Chicago	surface_form	Roma come Chicago
+Roma come Chicago	movie-has-director	Alberto De Martino
+Alberto De Martino	surface_form	Alberto De Martino

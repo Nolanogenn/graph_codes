@@ -1,0 +1,82 @@
+5016_0	is_in_sentence	sentence_5016
+5016_0	nsubj	5016_12
+5016_0	has_surface_form	Tales
+5016_0	part_of_entity	Tales of a Long Journey
+5016_12	is_in_sentence	sentence_5016
+5016_12	ROOT	5016_12
+5016_12	has_surface_form	is
+5016_1	is_in_sentence	sentence_5016
+5016_1	prep	5016_0
+5016_1	has_surface_form	of
+5016_1	part_of_entity	Tales of a Long Journey
+5016_2	is_in_sentence	sentence_5016
+5016_2	det	5016_4
+5016_2	has_surface_form	a
+5016_2	part_of_entity	Tales of a Long Journey
+5016_4	is_in_sentence	sentence_5016
+5016_4	pobj	5016_1
+5016_4	has_surface_form	Journey
+5016_4	part_of_entity	Tales of a Long Journey
+5016_3	is_in_sentence	sentence_5016
+5016_3	compound	5016_4
+5016_3	has_surface_form	Long
+5016_3	part_of_entity	Tales of a Long Journey
+5016_5	is_in_sentence	sentence_5016
+5016_5	punct	5016_6
+5016_5	has_surface_form	(
+5016_6	is_in_sentence	sentence_5016
+5016_6	appos	5016_4
+5016_6	has_surface_form	Hungarian
+5016_7	is_in_sentence	sentence_5016
+5016_7	punct	5016_4
+5016_7	has_surface_form	:
+5016_8	is_in_sentence	sentence_5016
+5016_8	conj	5016_0
+5016_8	has_surface_form	Legenda
+5016_9	is_in_sentence	sentence_5016
+5016_9	det	5016_10
+5016_9	has_surface_form	a
+5016_10	is_in_sentence	sentence_5016
+5016_10	appos	5016_8
+5016_10	has_surface_form	vonaton
+5016_11	is_in_sentence	sentence_5016
+5016_11	punct	5016_8
+5016_11	has_surface_form	)
+5016_13	is_in_sentence	sentence_5016
+5016_13	det	5016_17
+5016_13	has_surface_form	a
+5016_17	is_in_sentence	sentence_5016
+5016_17	attr	5016_12
+5016_17	has_surface_form	film
+5016_14	is_in_sentence	sentence_5016
+5016_14	nummod	5016_17
+5016_14	has_surface_form	1963
+5016_15	is_in_sentence	sentence_5016
+5016_15	amod	5016_17
+5016_15	has_surface_form	Hungarian
+5016_16	is_in_sentence	sentence_5016
+5016_16	compound	5016_17
+5016_16	has_surface_form	drama
+5016_18	is_in_sentence	sentence_5016
+5016_18	acl	5016_17
+5016_18	has_surface_form	directed
+5016_19	is_in_sentence	sentence_5016
+5016_19	agent	5016_18
+5016_19	has_surface_form	by
+5016_20	is_in_sentence	sentence_5016
+5016_20	compound	5016_21
+5016_20	has_surface_form	Tamás
+5016_20	part_of_entity	Tamás Rényi
+5016_21	is_in_sentence	sentence_5016
+5016_21	pobj	5016_19
+5016_21	has_surface_form	Rényi
+5016_21	part_of_entity	Tamás Rényi
+5016_22	is_in_sentence	sentence_5016
+5016_22	punct	5016_12
+5016_22	has_surface_form	.
+5016_23	is_in_sentence	sentence_5016
+5016_23	dep	5016_12
+5016_23	has_surface_form	
+Tales of a Long Journey	surface_form	Tales of a Long Journey
+Tales of a Long Journey	movie-has-director	Tamás Rényi
+Tamás Rényi	surface_form	Tamás Rényi

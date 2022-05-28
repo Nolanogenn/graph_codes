@@ -1,0 +1,59 @@
+29872_0	is_in_sentence	sentence_29872
+29872_0	compound	29872_2
+29872_0	has_surface_form	Belfast
+29872_0	part_of_entity	Belfast Central Library
+29872_2	is_in_sentence	sentence_29872
+29872_2	nsubj	29872_3
+29872_2	has_surface_form	Library
+29872_2	part_of_entity	Belfast Central Library
+29872_1	is_in_sentence	sentence_29872
+29872_1	compound	29872_2
+29872_1	has_surface_form	Central
+29872_1	part_of_entity	Belfast Central Library
+29872_3	is_in_sentence	sentence_29872
+29872_3	ROOT	29872_3
+29872_3	has_surface_form	is
+29872_4	is_in_sentence	sentence_29872
+29872_4	det	29872_6
+29872_4	has_surface_form	a
+29872_6	is_in_sentence	sentence_29872
+29872_6	attr	29872_3
+29872_6	has_surface_form	library
+29872_6	part_of_entity	public library
+29872_5	is_in_sentence	sentence_29872
+29872_5	amod	29872_6
+29872_5	has_surface_form	public
+29872_5	part_of_entity	public library
+29872_7	is_in_sentence	sentence_29872
+29872_7	prep	29872_6
+29872_7	has_surface_form	in
+29872_8	is_in_sentence	sentence_29872
+29872_8	compound	29872_9
+29872_8	has_surface_form	Royal
+29872_9	is_in_sentence	sentence_29872
+29872_9	pobj	29872_7
+29872_9	has_surface_form	Avenue
+29872_10	is_in_sentence	sentence_29872
+29872_10	punct	29872_9
+29872_10	has_surface_form	,
+29872_11	is_in_sentence	sentence_29872
+29872_11	conj	29872_9
+29872_11	has_surface_form	Belfast
+29872_12	is_in_sentence	sentence_29872
+29872_12	punct	29872_11
+29872_12	has_surface_form	,
+29872_13	is_in_sentence	sentence_29872
+29872_13	compound	29872_14
+29872_13	has_surface_form	Northern
+29872_14	is_in_sentence	sentence_29872
+29872_14	appos	29872_11
+29872_14	has_surface_form	Ireland
+29872_15	is_in_sentence	sentence_29872
+29872_15	punct	29872_3
+29872_15	has_surface_form	.
+29872_16	is_in_sentence	sentence_29872
+29872_16	dep	29872_16
+29872_16	has_surface_form	
+Belfast Central Library	surface_form	Belfast Central Library
+Belfast Central Library	has-type	public library
+public library	surface_form	public library

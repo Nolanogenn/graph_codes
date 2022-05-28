@@ -1,0 +1,56 @@
+17903_0	is_in_sentence	sentence_17903
+17903_0	compound	17903_1
+17903_0	has_surface_form	Murray
+17903_0	part_of_entity	Murray Schisgal
+17903_1	is_in_sentence	sentence_17903
+17903_1	nsubj	17903_9
+17903_1	has_surface_form	Schisgal
+17903_1	part_of_entity	Murray Schisgal
+17903_9	is_in_sentence	sentence_17903
+17903_9	ROOT	17903_9
+17903_9	has_surface_form	is
+17903_2	is_in_sentence	sentence_17903
+17903_2	punct	17903_1
+17903_2	has_surface_form	(
+17903_3	is_in_sentence	sentence_17903
+17903_3	acl	17903_1
+17903_3	has_surface_form	born
+17903_4	is_in_sentence	sentence_17903
+17903_4	npadvmod	17903_3
+17903_4	has_surface_form	November
+17903_5	is_in_sentence	sentence_17903
+17903_5	nummod	17903_4
+17903_5	has_surface_form	25
+17903_6	is_in_sentence	sentence_17903
+17903_6	punct	17903_4
+17903_6	has_surface_form	,
+17903_7	is_in_sentence	sentence_17903
+17903_7	nummod	17903_4
+17903_7	has_surface_form	1926
+17903_8	is_in_sentence	sentence_17903
+17903_8	punct	17903_1
+17903_8	has_surface_form	)
+17903_10	is_in_sentence	sentence_17903
+17903_10	det	17903_12
+17903_10	has_surface_form	an
+17903_12	is_in_sentence	sentence_17903
+17903_12	attr	17903_9
+17903_12	has_surface_form	playwright
+17903_11	is_in_sentence	sentence_17903
+17903_11	amod	17903_12
+17903_11	has_surface_form	American
+17903_13	is_in_sentence	sentence_17903
+17903_13	cc	17903_12
+17903_13	has_surface_form	and
+17903_14	is_in_sentence	sentence_17903
+17903_14	conj	17903_12
+17903_14	is_entity	screenwriter
+screenwriter	surface_form	screenwriter
+17903_15	is_in_sentence	sentence_17903
+17903_15	punct	17903_9
+17903_15	has_surface_form	.
+17903_16	is_in_sentence	sentence_17903
+17903_16	dep	17903_16
+17903_16	has_surface_form	
+Murray Schisgal	surface_form	Murray Schisgal
+Murray Schisgal	has-occupation	screenwriter

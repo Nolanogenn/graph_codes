@@ -1,0 +1,38 @@
+16885_0	is_in_sentence	sentence_16885
+16885_0	compound	16885_1
+16885_0	has_surface_form	Scale
+16885_0	part_of_entity	Scale insects
+16885_1	is_in_sentence	sentence_16885
+16885_1	nsubj	16885_5
+16885_1	has_surface_form	insects
+16885_1	part_of_entity	Scale insects
+16885_5	is_in_sentence	sentence_16885
+16885_5	ROOT	16885_5
+16885_5	has_surface_form	feed
+16885_2	is_in_sentence	sentence_16885
+16885_2	prep	16885_1
+16885_2	has_surface_form	of
+16885_3	is_in_sentence	sentence_16885
+16885_3	det	16885_4
+16885_3	has_surface_form	all
+16885_4	is_in_sentence	sentence_16885
+16885_4	pobj	16885_2
+16885_4	has_surface_form	ages
+16885_6	is_in_sentence	sentence_16885
+16885_6	prep	16885_5
+16885_6	has_surface_form	by
+16885_7	is_in_sentence	sentence_16885
+16885_7	pcomp	16885_6
+16885_7	has_surface_form	sucking
+16885_8	is_in_sentence	sentence_16885
+16885_8	dobj	16885_7
+16885_8	is_entity	sap
+sap	surface_form	sap
+16885_9	is_in_sentence	sentence_16885
+16885_9	punct	16885_5
+16885_9	has_surface_form	.
+16885_10	is_in_sentence	sentence_16885
+16885_10	dep	16885_10
+16885_10	has_surface_form	
+Scale insects	surface_form	Scale insects
+Scale insects	eats	sap

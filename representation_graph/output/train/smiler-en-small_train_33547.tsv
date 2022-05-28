@@ -1,0 +1,97 @@
+33546_0	is_in_sentence	sentence_33546
+33546_0	compound	33546_1
+33546_0	has_surface_form	Stan
+33546_0	part_of_entity	Stan Rice
+33546_1	is_in_sentence	sentence_33546
+33546_1	nsubj	33546_13
+33546_1	has_surface_form	Rice
+33546_1	part_of_entity	Stan Rice
+33546_13	is_in_sentence	sentence_33546
+33546_13	ROOT	33546_13
+33546_13	has_surface_form	was
+33546_2	is_in_sentence	sentence_33546
+33546_2	punct	33546_3
+33546_2	has_surface_form	(
+33546_3	is_in_sentence	sentence_33546
+33546_3	appos	33546_1
+33546_3	has_surface_form	November
+33546_4	is_in_sentence	sentence_33546
+33546_4	nummod	33546_3
+33546_4	has_surface_form	7
+33546_5	is_in_sentence	sentence_33546
+33546_5	punct	33546_3
+33546_5	has_surface_form	,
+33546_6	is_in_sentence	sentence_33546
+33546_6	nummod	33546_3
+33546_6	has_surface_form	1942
+33546_7	is_in_sentence	sentence_33546
+33546_7	punct	33546_1
+33546_7	has_surface_form	–
+33546_8	is_in_sentence	sentence_33546
+33546_8	appos	33546_1
+33546_8	has_surface_form	December
+33546_9	is_in_sentence	sentence_33546
+33546_9	nummod	33546_8
+33546_9	has_surface_form	9
+33546_10	is_in_sentence	sentence_33546
+33546_10	punct	33546_8
+33546_10	has_surface_form	,
+33546_11	is_in_sentence	sentence_33546
+33546_11	appos	33546_8
+33546_11	has_surface_form	2002
+33546_12	is_in_sentence	sentence_33546
+33546_12	punct	33546_8
+33546_12	has_surface_form	)
+33546_14	is_in_sentence	sentence_33546
+33546_14	det	33546_16
+33546_14	has_surface_form	an
+33546_16	is_in_sentence	sentence_33546
+33546_16	attr	33546_13
+33546_16	has_surface_form	poet
+33546_15	is_in_sentence	sentence_33546
+33546_15	amod	33546_16
+33546_15	has_surface_form	American
+33546_17	is_in_sentence	sentence_33546
+33546_17	cc	33546_16
+33546_17	has_surface_form	and
+33546_18	is_in_sentence	sentence_33546
+33546_18	conj	33546_16
+33546_18	has_surface_form	artist
+33546_19	is_in_sentence	sentence_33546
+33546_19	punct	33546_13
+33546_19	has_surface_form	.
+33546_20	is_in_sentence	sentence_33546
+33546_20	nsubj	33546_21
+33546_20	has_surface_form	He
+33546_21	is_in_sentence	sentence_33546
+33546_21	ROOT	33546_21
+33546_21	has_surface_form	was
+33546_22	is_in_sentence	sentence_33546
+33546_22	det	33546_23
+33546_22	has_surface_form	the
+33546_23	is_in_sentence	sentence_33546
+33546_23	attr	33546_21
+33546_23	has_surface_form	husband
+33546_24	is_in_sentence	sentence_33546
+33546_24	prep	33546_23
+33546_24	has_surface_form	of
+33546_25	is_in_sentence	sentence_33546
+33546_25	compound	33546_27
+33546_25	has_surface_form	author
+33546_27	is_in_sentence	sentence_33546
+33546_27	pobj	33546_24
+33546_27	has_surface_form	Rice
+33546_27	part_of_entity	Anne Rice
+33546_26	is_in_sentence	sentence_33546
+33546_26	compound	33546_27
+33546_26	has_surface_form	Anne
+33546_26	part_of_entity	Anne Rice
+33546_28	is_in_sentence	sentence_33546
+33546_28	punct	33546_21
+33546_28	has_surface_form	.
+33546_29	is_in_sentence	sentence_33546
+33546_29	dep	33546_21
+33546_29	has_surface_form	
+Stan Rice	surface_form	Stan Rice
+Stan Rice	has-spouse	Anne Rice
+Anne Rice	surface_form	Anne Rice

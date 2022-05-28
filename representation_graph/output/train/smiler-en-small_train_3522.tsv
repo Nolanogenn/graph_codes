@@ -1,0 +1,62 @@
+3521_0	is_in_sentence	sentence_3521
+3521_0	compound	3521_1
+3521_0	has_surface_form	Fred
+3521_0	part_of_entity	Fred Akers
+3521_1	is_in_sentence	sentence_3521
+3521_1	nsubj	3521_9
+3521_1	has_surface_form	Akers
+3521_1	part_of_entity	Fred Akers
+3521_9	is_in_sentence	sentence_3521
+3521_9	ROOT	3521_9
+3521_9	has_surface_form	is
+3521_2	is_in_sentence	sentence_3521
+3521_2	punct	3521_1
+3521_2	has_surface_form	(
+3521_3	is_in_sentence	sentence_3521
+3521_3	acl	3521_1
+3521_3	has_surface_form	born
+3521_4	is_in_sentence	sentence_3521
+3521_4	npadvmod	3521_3
+3521_4	has_surface_form	March
+3521_5	is_in_sentence	sentence_3521
+3521_5	nummod	3521_4
+3521_5	has_surface_form	17
+3521_6	is_in_sentence	sentence_3521
+3521_6	punct	3521_4
+3521_6	has_surface_form	,
+3521_7	is_in_sentence	sentence_3521
+3521_7	nummod	3521_4
+3521_7	has_surface_form	1938
+3521_8	is_in_sentence	sentence_3521
+3521_8	punct	3521_1
+3521_8	has_surface_form	)
+3521_10	is_in_sentence	sentence_3521
+3521_10	det	3521_14
+3521_10	has_surface_form	a
+3521_14	is_in_sentence	sentence_3521
+3521_14	attr	3521_9
+3521_14	has_surface_form	player
+3521_11	is_in_sentence	sentence_3521
+3521_11	amod	3521_14
+3521_11	has_surface_form	former
+3521_12	is_in_sentence	sentence_3521
+3521_12	amod	3521_14
+3521_12	has_surface_form	American
+3521_13	is_in_sentence	sentence_3521
+3521_13	compound	3521_14
+3521_13	has_surface_form	football
+3521_15	is_in_sentence	sentence_3521
+3521_15	cc	3521_14
+3521_15	has_surface_form	and
+3521_16	is_in_sentence	sentence_3521
+3521_16	conj	3521_14
+3521_16	is_entity	coach
+coach	surface_form	coach
+3521_17	is_in_sentence	sentence_3521
+3521_17	punct	3521_9
+3521_17	has_surface_form	.
+3521_18	is_in_sentence	sentence_3521
+3521_18	dep	3521_18
+3521_18	has_surface_form	
+Fred Akers	surface_form	Fred Akers
+Fred Akers	has-type	coach

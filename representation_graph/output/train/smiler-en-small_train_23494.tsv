@@ -1,0 +1,81 @@
+23493_0	is_in_sentence	sentence_23493
+23493_0	amod	23493_1
+23493_0	has_surface_form	Esto
+23493_0	part_of_entity	Esto huele mal
+23493_1	is_in_sentence	sentence_23493
+23493_1	compound	23493_2
+23493_1	has_surface_form	huele
+23493_1	part_of_entity	Esto huele mal
+23493_2	is_in_sentence	sentence_23493
+23493_2	nsubj	23493_10
+23493_2	has_surface_form	mal
+23493_2	part_of_entity	Esto huele mal
+23493_10	is_in_sentence	sentence_23493
+23493_10	ROOT	23493_10
+23493_10	has_surface_form	is
+23493_3	is_in_sentence	sentence_23493
+23493_3	punct	23493_4
+23493_3	has_surface_form	(
+23493_4	is_in_sentence	sentence_23493
+23493_4	appos	23493_2
+23493_4	has_surface_form	English
+23493_5	is_in_sentence	sentence_23493
+23493_5	punct	23493_4
+23493_5	has_surface_form	:
+23493_6	is_in_sentence	sentence_23493
+23493_6	nsubj	23493_7
+23493_6	has_surface_form	This
+23493_7	is_in_sentence	sentence_23493
+23493_7	acl	23493_4
+23493_7	has_surface_form	smells
+23493_8	is_in_sentence	sentence_23493
+23493_8	acomp	23493_7
+23493_8	has_surface_form	bad
+23493_9	is_in_sentence	sentence_23493
+23493_9	punct	23493_4
+23493_9	has_surface_form	)
+23493_11	is_in_sentence	sentence_23493
+23493_11	det	23493_16
+23493_11	has_surface_form	a
+23493_16	is_in_sentence	sentence_23493
+23493_16	attr	23493_10
+23493_16	has_surface_form	film
+23493_12	is_in_sentence	sentence_23493
+23493_12	nummod	23493_16
+23493_12	has_surface_form	2007
+23493_13	is_in_sentence	sentence_23493
+23493_13	amod	23493_16
+23493_13	has_surface_form	Colombian
+23493_14	is_in_sentence	sentence_23493
+23493_14	compound	23493_15
+23493_14	has_surface_form	drama
+23493_15	is_in_sentence	sentence_23493
+23493_15	compound	23493_16
+23493_15	has_surface_form	comedy
+23493_17	is_in_sentence	sentence_23493
+23493_17	acl	23493_16
+23493_17	has_surface_form	directed
+23493_18	is_in_sentence	sentence_23493
+23493_18	agent	23493_17
+23493_18	has_surface_form	by
+23493_19	is_in_sentence	sentence_23493
+23493_19	compound	23493_21
+23493_19	has_surface_form	Jorge
+23493_19	part_of_entity	Jorge Ali Triana
+23493_21	is_in_sentence	sentence_23493
+23493_21	pobj	23493_18
+23493_21	has_surface_form	Triana
+23493_21	part_of_entity	Jorge Ali Triana
+23493_20	is_in_sentence	sentence_23493
+23493_20	compound	23493_21
+23493_20	has_surface_form	Ali
+23493_20	part_of_entity	Jorge Ali Triana
+23493_22	is_in_sentence	sentence_23493
+23493_22	punct	23493_10
+23493_22	has_surface_form	.
+23493_23	is_in_sentence	sentence_23493
+23493_23	dep	23493_23
+23493_23	has_surface_form	
+Esto huele mal	surface_form	Esto huele mal
+Esto huele mal	movie-has-director	Jorge Ali Triana
+Jorge Ali Triana	surface_form	Jorge Ali Triana

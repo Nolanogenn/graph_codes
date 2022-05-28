@@ -1,0 +1,40 @@
+11977_0	is_in_sentence	sentence_11977
+11977_0	compound	11977_1
+11977_0	has_surface_form	John
+11977_0	part_of_entity	John Gray
+11977_1	is_in_sentence	sentence_11977
+11977_1	nsubj	11977_3
+11977_1	has_surface_form	Gray
+11977_1	part_of_entity	John Gray
+11977_3	is_in_sentence	sentence_11977
+11977_3	ROOT	11977_3
+11977_3	has_surface_form	invented
+11977_2	is_in_sentence	sentence_11977
+11977_2	advmod	11977_3
+11977_2	has_surface_form	also
+11977_4	is_in_sentence	sentence_11977
+11977_4	det	11977_6
+11977_4	has_surface_form	a
+11977_6	is_in_sentence	sentence_11977
+11977_6	dobj	11977_3
+11977_6	has_surface_form	machine
+11977_6	part_of_entity	belt machine
+11977_5	is_in_sentence	sentence_11977
+11977_5	compound	11977_6
+11977_5	has_surface_form	belt
+11977_5	part_of_entity	belt machine
+11977_7	is_in_sentence	sentence_11977
+11977_7	prep	11977_3
+11977_7	has_surface_form	about
+11977_8	is_in_sentence	sentence_11977
+11977_8	pobj	11977_7
+11977_8	has_surface_form	1890
+11977_9	is_in_sentence	sentence_11977
+11977_9	punct	11977_3
+11977_9	has_surface_form	.
+11977_10	is_in_sentence	sentence_11977
+11977_10	dep	11977_10
+11977_10	has_surface_form	
+belt machine	surface_form	belt machine
+belt machine	invented-by	John Gray
+John Gray	surface_form	John Gray

@@ -1,0 +1,67 @@
+9012_0	is_in_sentence	sentence_9012
+9012_0	det	9012_1
+9012_0	has_surface_form	The
+9012_1	is_in_sentence	sentence_9012
+9012_1	nsubjpass	9012_8
+9012_1	has_surface_form	concept
+9012_8	is_in_sentence	sentence_9012
+9012_8	ROOT	9012_8
+9012_8	has_surface_form	used
+9012_2	is_in_sentence	sentence_9012
+9012_2	prep	9012_1
+9012_2	has_surface_form	of
+9012_3	is_in_sentence	sentence_9012
+9012_3	det	9012_5
+9012_3	has_surface_form	an
+9012_5	is_in_sentence	sentence_9012
+9012_5	pobj	9012_2
+9012_5	has_surface_form	computer
+9012_5	part_of_entity	Interface computer
+9012_4	is_in_sentence	sentence_9012
+9012_4	compound	9012_5
+9012_4	has_surface_form	Interface
+9012_4	part_of_entity	Interface computer
+9012_6	is_in_sentence	sentence_9012
+9012_6	auxpass	9012_8
+9012_6	has_surface_form	was
+9012_7	is_in_sentence	sentence_9012
+9012_7	advmod	9012_8
+9012_7	has_surface_form	first
+9012_9	is_in_sentence	sentence_9012
+9012_9	agent	9012_8
+9012_9	has_surface_form	by
+9012_10	is_in_sentence	sentence_9012
+9012_10	compound	9012_11
+9012_10	has_surface_form	Donald
+9012_10	part_of_entity	Donald Davies
+9012_11	is_in_sentence	sentence_9012
+9012_11	pobj	9012_9
+9012_11	has_surface_form	Davies
+9012_11	part_of_entity	Donald Davies
+9012_12	is_in_sentence	sentence_9012
+9012_12	prep	9012_8
+9012_12	has_surface_form	for
+9012_13	is_in_sentence	sentence_9012
+9012_13	det	9012_15
+9012_13	has_surface_form	the
+9012_15	is_in_sentence	sentence_9012
+9012_15	pobj	9012_12
+9012_15	has_surface_form	network
+9012_14	is_in_sentence	sentence_9012
+9012_14	compound	9012_15
+9012_14	has_surface_form	NPL
+9012_16	is_in_sentence	sentence_9012
+9012_16	prep	9012_8
+9012_16	has_surface_form	in
+9012_17	is_in_sentence	sentence_9012
+9012_17	pobj	9012_16
+9012_17	has_surface_form	1966
+9012_18	is_in_sentence	sentence_9012
+9012_18	punct	9012_8
+9012_18	has_surface_form	.
+9012_19	is_in_sentence	sentence_9012
+9012_19	dep	9012_19
+9012_19	has_surface_form	
+Interface computer	surface_form	Interface computer
+Interface computer	invented-by	Donald Davies
+Donald Davies	surface_form	Donald Davies

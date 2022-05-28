@@ -1,0 +1,50 @@
+10622_0	is_in_sentence	sentence_10622
+10622_0	poss	10622_1
+10622_0	has_surface_form	His
+10622_0	part_of_entity	His brother
+10622_1	is_in_sentence	sentence_10622
+10622_1	nsubj	10622_6
+10622_1	has_surface_form	brother
+10622_1	part_of_entity	His brother
+10622_6	is_in_sentence	sentence_10622
+10622_6	ROOT	10622_6
+10622_6	has_surface_form	is
+10622_2	is_in_sentence	sentence_10622
+10622_2	punct	10622_1
+10622_2	has_surface_form	,
+10622_3	is_in_sentence	sentence_10622
+10622_3	compound	10622_4
+10622_3	is_entity	David
+10622_4	is_in_sentence	sentence_10622
+10622_4	appos	10622_1
+10622_4	has_surface_form	Blumenthal
+David	surface_form	David
+10622_5	is_in_sentence	sentence_10622
+10622_5	punct	10622_1
+10622_5	has_surface_form	,
+10622_7	is_in_sentence	sentence_10622
+10622_7	det	10622_8
+10622_7	has_surface_form	the
+10622_8	is_in_sentence	sentence_10622
+10622_8	attr	10622_6
+10622_8	has_surface_form	President
+10622_9	is_in_sentence	sentence_10622
+10622_9	prep	10622_8
+10622_9	has_surface_form	of
+10622_10	is_in_sentence	sentence_10622
+10622_10	det	10622_12
+10622_10	has_surface_form	the
+10622_12	is_in_sentence	sentence_10622
+10622_12	pobj	10622_9
+10622_12	has_surface_form	Fund
+10622_11	is_in_sentence	sentence_10622
+10622_11	compound	10622_12
+10622_11	has_surface_form	Commonwealth
+10622_13	is_in_sentence	sentence_10622
+10622_13	punct	10622_6
+10622_13	has_surface_form	.
+10622_14	is_in_sentence	sentence_10622
+10622_14	dep	10622_6
+10622_14	has_surface_form	
+His brother	surface_form	His brother
+His brother	has-sibling	David

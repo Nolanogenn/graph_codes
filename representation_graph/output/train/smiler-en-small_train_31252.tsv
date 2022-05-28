@@ -1,0 +1,72 @@
+31251_0	is_in_sentence	sentence_31251
+31251_0	compound	31251_1
+31251_0	has_surface_form	U.
+31251_0	part_of_entity	U. Grant Miller Library
+31251_1	is_in_sentence	sentence_31251
+31251_1	compound	31251_3
+31251_1	has_surface_form	Grant
+31251_1	part_of_entity	U. Grant Miller Library
+31251_3	is_in_sentence	sentence_31251
+31251_3	nsubj	31251_4
+31251_3	has_surface_form	Library
+31251_3	part_of_entity	U. Grant Miller Library
+31251_2	is_in_sentence	sentence_31251
+31251_2	compound	31251_3
+31251_2	has_surface_form	Miller
+31251_2	part_of_entity	U. Grant Miller Library
+31251_4	is_in_sentence	sentence_31251
+31251_4	ROOT	31251_4
+31251_4	has_surface_form	is
+31251_5	is_in_sentence	sentence_31251
+31251_5	det	31251_7
+31251_5	has_surface_form	the
+31251_7	is_in_sentence	sentence_31251
+31251_7	attr	31251_4
+31251_7	has_surface_form	library
+31251_7	part_of_entity	academic library
+31251_6	is_in_sentence	sentence_31251
+31251_6	amod	31251_7
+31251_6	has_surface_form	academic
+31251_6	part_of_entity	academic library
+31251_8	is_in_sentence	sentence_31251
+31251_8	prep	31251_7
+31251_8	has_surface_form	for
+31251_9	is_in_sentence	sentence_31251
+31251_9	pobj	31251_8
+31251_9	has_surface_form	Washington
+31251_10	is_in_sentence	sentence_31251
+31251_10	cc	31251_9
+31251_10	has_surface_form	&
+31251_11	is_in_sentence	sentence_31251
+31251_11	compound	31251_12
+31251_11	has_surface_form	Jefferson
+31251_12	is_in_sentence	sentence_31251
+31251_12	conj	31251_9
+31251_12	has_surface_form	College
+31251_13	is_in_sentence	sentence_31251
+31251_13	punct	31251_9
+31251_13	has_surface_form	,
+31251_14	is_in_sentence	sentence_31251
+31251_14	acl	31251_9
+31251_14	has_surface_form	located
+31251_15	is_in_sentence	sentence_31251
+31251_15	prep	31251_14
+31251_15	has_surface_form	in
+31251_16	is_in_sentence	sentence_31251
+31251_16	pobj	31251_15
+31251_16	has_surface_form	Washington
+31251_17	is_in_sentence	sentence_31251
+31251_17	punct	31251_16
+31251_17	has_surface_form	,
+31251_18	is_in_sentence	sentence_31251
+31251_18	appos	31251_16
+31251_18	has_surface_form	Pennsylvania
+31251_19	is_in_sentence	sentence_31251
+31251_19	punct	31251_4
+31251_19	has_surface_form	.
+31251_20	is_in_sentence	sentence_31251
+31251_20	dep	31251_20
+31251_20	has_surface_form	
+U. Grant Miller Library	surface_form	U. Grant Miller Library
+U. Grant Miller Library	has-type	academic library
+academic library	surface_form	academic library

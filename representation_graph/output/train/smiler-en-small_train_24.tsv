@@ -1,0 +1,75 @@
+23_0	is_in_sentence	sentence_23
+23_0	compound	23_1
+23_0	has_surface_form	Emir
+23_0	part_of_entity	Emir Abdelkader University
+23_1	is_in_sentence	sentence_23
+23_1	compound	23_2
+23_1	has_surface_form	Abdelkader
+23_1	part_of_entity	Emir Abdelkader University
+23_2	is_in_sentence	sentence_23
+23_2	nsubj	23_16
+23_2	has_surface_form	University
+23_2	part_of_entity	Emir Abdelkader University
+23_16	is_in_sentence	sentence_23
+23_16	ROOT	23_16
+23_16	has_surface_form	is
+23_3	is_in_sentence	sentence_23
+23_3	prep	23_2
+23_3	has_surface_form	of
+23_4	is_in_sentence	sentence_23
+23_4	compound	23_5
+23_4	has_surface_form	Islamic
+23_5	is_in_sentence	sentence_23
+23_5	pobj	23_3
+23_5	has_surface_form	Sciences
+23_6	is_in_sentence	sentence_23
+23_6	punct	23_2
+23_6	has_surface_form	(
+23_7	is_in_sentence	sentence_23
+23_7	appos	23_2
+23_7	has_surface_form	Arabic
+23_8	is_in_sentence	sentence_23
+23_8	punct	23_7
+23_8	has_surface_form	:
+23_9	is_in_sentence	sentence_23
+23_9	appos	23_7
+23_9	has_surface_form	جامعة
+23_10	is_in_sentence	sentence_23
+23_10	compound	23_11
+23_10	has_surface_form	الأمير
+23_11	is_in_sentence	sentence_23
+23_11	compound	23_14
+23_11	has_surface_form	عبد
+23_14	is_in_sentence	sentence_23
+23_14	appos	23_9
+23_14	has_surface_form	الإسلامية
+23_12	is_in_sentence	sentence_23
+23_12	compound	23_14
+23_12	has_surface_form	القادر
+23_13	is_in_sentence	sentence_23
+23_13	compound	23_14
+23_13	has_surface_form	للعلوم
+23_15	is_in_sentence	sentence_23
+23_15	punct	23_7
+23_15	has_surface_form	)
+23_17	is_in_sentence	sentence_23
+23_17	det	23_18
+23_17	has_surface_form	a
+23_18	is_in_sentence	sentence_23
+23_18	attr	23_16
+23_18	has_surface_form	university
+23_19	is_in_sentence	sentence_23
+23_19	prep	23_18
+23_19	has_surface_form	in
+23_20	is_in_sentence	sentence_23
+23_20	pobj	23_19
+23_20	is_entity	Algeria
+Algeria	surface_form	Algeria
+23_21	is_in_sentence	sentence_23
+23_21	punct	23_16
+23_21	has_surface_form	.
+23_22	is_in_sentence	sentence_23
+23_22	dep	23_22
+23_22	has_surface_form	
+Emir Abdelkader University	surface_form	Emir Abdelkader University
+Emir Abdelkader University	is-where	Algeria

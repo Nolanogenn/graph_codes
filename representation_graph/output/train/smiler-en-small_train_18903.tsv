@@ -1,0 +1,56 @@
+18902_0	is_in_sentence	sentence_18902
+18902_0	det	18902_2
+18902_0	has_surface_form	A
+18902_0	part_of_entity	A Family Thanksgiving
+18902_2	is_in_sentence	sentence_18902
+18902_2	nsubj	18902_3
+18902_2	has_surface_form	Thanksgiving
+18902_2	part_of_entity	A Family Thanksgiving
+18902_1	is_in_sentence	sentence_18902
+18902_1	compound	18902_2
+18902_1	has_surface_form	Family
+18902_1	part_of_entity	A Family Thanksgiving
+18902_3	is_in_sentence	sentence_18902
+18902_3	ROOT	18902_3
+18902_3	has_surface_form	is
+18902_4	is_in_sentence	sentence_18902
+18902_4	det	18902_9
+18902_4	has_surface_form	a
+18902_9	is_in_sentence	sentence_18902
+18902_9	attr	18902_3
+18902_9	has_surface_form	Movie
+18902_5	is_in_sentence	sentence_18902
+18902_5	nummod	18902_9
+18902_5	has_surface_form	2010
+18902_6	is_in_sentence	sentence_18902
+18902_6	compound	18902_7
+18902_6	has_surface_form	Hallmark
+18902_7	is_in_sentence	sentence_18902
+18902_7	compound	18902_9
+18902_7	has_surface_form	Channel
+18902_8	is_in_sentence	sentence_18902
+18902_8	compound	18902_9
+18902_8	has_surface_form	Original
+18902_10	is_in_sentence	sentence_18902
+18902_10	acl	18902_9
+18902_10	has_surface_form	directed
+18902_11	is_in_sentence	sentence_18902
+18902_11	agent	18902_10
+18902_11	has_surface_form	by
+18902_12	is_in_sentence	sentence_18902
+18902_12	compound	18902_13
+18902_12	has_surface_form	Neill
+18902_12	part_of_entity	Neill Fearnley
+18902_13	is_in_sentence	sentence_18902
+18902_13	pobj	18902_11
+18902_13	has_surface_form	Fearnley
+18902_13	part_of_entity	Neill Fearnley
+18902_14	is_in_sentence	sentence_18902
+18902_14	punct	18902_3
+18902_14	has_surface_form	.
+18902_15	is_in_sentence	sentence_18902
+18902_15	dep	18902_15
+18902_15	has_surface_form	
+A Family Thanksgiving	surface_form	A Family Thanksgiving
+A Family Thanksgiving	movie-has-director	Neill Fearnley
+Neill Fearnley	surface_form	Neill Fearnley

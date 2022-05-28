@@ -1,0 +1,67 @@
+32005_0	is_in_sentence	sentence_32005
+32005_0	det	32005_1
+32005_0	has_surface_form	The
+32005_0	part_of_entity	The Lords of High Decision
+32005_1	is_in_sentence	sentence_32005
+32005_1	nsubj	32005_5
+32005_1	has_surface_form	Lords
+32005_1	part_of_entity	The Lords of High Decision
+32005_5	is_in_sentence	sentence_32005
+32005_5	ROOT	32005_5
+32005_5	has_surface_form	is
+32005_2	is_in_sentence	sentence_32005
+32005_2	prep	32005_1
+32005_2	has_surface_form	of
+32005_2	part_of_entity	The Lords of High Decision
+32005_3	is_in_sentence	sentence_32005
+32005_3	compound	32005_4
+32005_3	has_surface_form	High
+32005_3	part_of_entity	The Lords of High Decision
+32005_4	is_in_sentence	sentence_32005
+32005_4	pobj	32005_2
+32005_4	has_surface_form	Decision
+32005_4	part_of_entity	The Lords of High Decision
+32005_6	is_in_sentence	sentence_32005
+32005_6	det	32005_11
+32005_6	has_surface_form	a
+32005_11	is_in_sentence	sentence_32005
+32005_11	attr	32005_5
+32005_11	has_surface_form	film
+32005_7	is_in_sentence	sentence_32005
+32005_7	nummod	32005_11
+32005_7	has_surface_form	1916
+32005_8	is_in_sentence	sentence_32005
+32005_8	amod	32005_11
+32005_8	has_surface_form	American
+32005_9	is_in_sentence	sentence_32005
+32005_9	amod	32005_11
+32005_9	has_surface_form	silent
+32005_10	is_in_sentence	sentence_32005
+32005_10	compound	32005_11
+32005_10	has_surface_form	drama
+32005_12	is_in_sentence	sentence_32005
+32005_12	punct	32005_11
+32005_12	has_surface_form	,
+32005_13	is_in_sentence	sentence_32005
+32005_13	acl	32005_11
+32005_13	has_surface_form	directed
+32005_14	is_in_sentence	sentence_32005
+32005_14	agent	32005_13
+32005_14	has_surface_form	by
+32005_15	is_in_sentence	sentence_32005
+32005_15	compound	32005_16
+32005_15	has_surface_form	Jack
+32005_15	part_of_entity	Jack Harvey
+32005_16	is_in_sentence	sentence_32005
+32005_16	pobj	32005_14
+32005_16	has_surface_form	Harvey
+32005_16	part_of_entity	Jack Harvey
+32005_17	is_in_sentence	sentence_32005
+32005_17	punct	32005_5
+32005_17	has_surface_form	.
+32005_18	is_in_sentence	sentence_32005
+32005_18	dep	32005_5
+32005_18	has_surface_form	
+The Lords of High Decision	surface_form	The Lords of High Decision
+The Lords of High Decision	movie-has-director	Jack Harvey
+Jack Harvey	surface_form	Jack Harvey

@@ -1,0 +1,58 @@
+1544_0	is_in_sentence	sentence_1544
+1544_0	compound	1544_1
+1544_0	has_surface_form	Daejin
+1544_0	part_of_entity	Daejin University
+1544_1	is_in_sentence	sentence_1544
+1544_1	nsubj	1544_2
+1544_1	has_surface_form	University
+1544_1	part_of_entity	Daejin University
+1544_2	is_in_sentence	sentence_1544
+1544_2	ROOT	1544_2
+1544_2	has_surface_form	is
+1544_3	is_in_sentence	sentence_1544
+1544_3	det	1544_5
+1544_3	has_surface_form	a
+1544_5	is_in_sentence	sentence_1544
+1544_5	attr	1544_2
+1544_5	has_surface_form	university
+1544_4	is_in_sentence	sentence_1544
+1544_4	amod	1544_5
+1544_4	has_surface_form	private
+1544_6	is_in_sentence	sentence_1544
+1544_6	prep	1544_5
+1544_6	has_surface_form	in
+1544_7	is_in_sentence	sentence_1544
+1544_7	compound	1544_8
+1544_7	has_surface_form	Pocheon
+1544_7	part_of_entity	Pocheon City
+1544_8	is_in_sentence	sentence_1544
+1544_8	pobj	1544_6
+1544_8	has_surface_form	City
+1544_8	part_of_entity	Pocheon City
+1544_9	is_in_sentence	sentence_1544
+1544_9	punct	1544_8
+1544_9	has_surface_form	,
+1544_10	is_in_sentence	sentence_1544
+1544_10	compound	1544_11
+1544_10	has_surface_form	Gyeonggi
+1544_11	is_in_sentence	sentence_1544
+1544_11	appos	1544_8
+1544_11	has_surface_form	province
+1544_12	is_in_sentence	sentence_1544
+1544_12	prep	1544_11
+1544_12	has_surface_form	of
+1544_13	is_in_sentence	sentence_1544
+1544_13	compound	1544_14
+1544_13	has_surface_form	South
+1544_14	is_in_sentence	sentence_1544
+1544_14	pobj	1544_12
+1544_14	has_surface_form	Korea
+1544_15	is_in_sentence	sentence_1544
+1544_15	punct	1544_2
+1544_15	has_surface_form	.
+1544_16	is_in_sentence	sentence_1544
+1544_16	dep	1544_16
+1544_16	has_surface_form	
+Daejin University	surface_form	Daejin University
+Daejin University	is-where	Pocheon City
+Pocheon City	surface_form	Pocheon City

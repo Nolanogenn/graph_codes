@@ -1,0 +1,78 @@
+21764_0	is_in_sentence	sentence_21764
+21764_0	compound	21764_1
+21764_0	has_surface_form	Guam
+21764_0	part_of_entity	Guam Community College
+21764_1	is_in_sentence	sentence_21764
+21764_1	compound	21764_2
+21764_1	has_surface_form	Community
+21764_1	part_of_entity	Guam Community College
+21764_2	is_in_sentence	sentence_21764
+21764_2	nsubj	21764_6
+21764_2	has_surface_form	College
+21764_2	part_of_entity	Guam Community College
+21764_6	is_in_sentence	sentence_21764
+21764_6	ROOT	21764_6
+21764_6	has_surface_form	is
+21764_3	is_in_sentence	sentence_21764
+21764_3	punct	21764_4
+21764_3	has_surface_form	(
+21764_4	is_in_sentence	sentence_21764
+21764_4	appos	21764_2
+21764_4	has_surface_form	GCC
+21764_5	is_in_sentence	sentence_21764
+21764_5	punct	21764_4
+21764_5	has_surface_form	)
+21764_7	is_in_sentence	sentence_21764
+21764_7	det	21764_9
+21764_7	has_surface_form	a
+21764_9	is_in_sentence	sentence_21764
+21764_9	attr	21764_6
+21764_9	has_surface_form	college
+21764_8	is_in_sentence	sentence_21764
+21764_8	compound	21764_9
+21764_8	has_surface_form	community
+21764_10	is_in_sentence	sentence_21764
+21764_10	prep	21764_9
+21764_10	has_surface_form	in
+21764_11	is_in_sentence	sentence_21764
+21764_11	pobj	21764_10
+21764_11	has_surface_form	Mangilao
+21764_12	is_in_sentence	sentence_21764
+21764_12	punct	21764_11
+21764_12	has_surface_form	,
+21764_13	is_in_sentence	sentence_21764
+21764_13	appos	21764_11
+21764_13	has_surface_form	Guam
+21764_14	is_in_sentence	sentence_21764
+21764_14	punct	21764_6
+21764_14	has_surface_form	.
+21764_15	is_in_sentence	sentence_21764
+21764_15	det	21764_16
+21764_15	has_surface_form	The
+21764_16	is_in_sentence	sentence_21764
+21764_16	nsubj	21764_17
+21764_16	has_surface_form	president
+21764_17	is_in_sentence	sentence_21764
+21764_17	ROOT	21764_17
+21764_17	has_surface_form	is
+21764_18	is_in_sentence	sentence_21764
+21764_18	compound	21764_20
+21764_18	has_surface_form	Mary
+21764_18	part_of_entity	Mary A.Y. Okada
+21764_20	is_in_sentence	sentence_21764
+21764_20	attr	21764_17
+21764_20	has_surface_form	Okada
+21764_20	part_of_entity	Mary A.Y. Okada
+21764_19	is_in_sentence	sentence_21764
+21764_19	compound	21764_20
+21764_19	has_surface_form	A.Y.
+21764_19	part_of_entity	Mary A.Y. Okada
+21764_21	is_in_sentence	sentence_21764
+21764_21	punct	21764_17
+21764_21	has_surface_form	.
+21764_22	is_in_sentence	sentence_21764
+21764_22	dep	21764_17
+21764_22	has_surface_form	
+Guam Community College	surface_form	Guam Community College
+Guam Community College	org-leader	Mary A.Y. Okada
+Mary A.Y. Okada	surface_form	Mary A.Y. Okada

@@ -1,0 +1,70 @@
+29220_0	is_in_sentence	sentence_29220
+29220_0	compound	29220_1
+29220_0	has_surface_form	Pat
+29220_0	part_of_entity	Pat Duquette
+29220_1	is_in_sentence	sentence_29220
+29220_1	nsubj	29220_9
+29220_1	has_surface_form	Duquette
+29220_1	part_of_entity	Pat Duquette
+29220_9	is_in_sentence	sentence_29220
+29220_9	ROOT	29220_9
+29220_9	has_surface_form	is
+29220_2	is_in_sentence	sentence_29220
+29220_2	punct	29220_1
+29220_2	has_surface_form	(
+29220_3	is_in_sentence	sentence_29220
+29220_3	acl	29220_1
+29220_3	has_surface_form	born
+29220_4	is_in_sentence	sentence_29220
+29220_4	npadvmod	29220_3
+29220_4	has_surface_form	November
+29220_5	is_in_sentence	sentence_29220
+29220_5	nummod	29220_4
+29220_5	has_surface_form	4
+29220_6	is_in_sentence	sentence_29220
+29220_6	punct	29220_4
+29220_6	has_surface_form	,
+29220_7	is_in_sentence	sentence_29220
+29220_7	nummod	29220_4
+29220_7	has_surface_form	1970
+29220_8	is_in_sentence	sentence_29220
+29220_8	punct	29220_1
+29220_8	has_surface_form	)
+29220_10	is_in_sentence	sentence_29220
+29220_10	det	29220_12
+29220_10	has_surface_form	the
+29220_12	is_in_sentence	sentence_29220
+29220_12	poss	29220_15
+29220_12	has_surface_form	men
+29220_11	is_in_sentence	sentence_29220
+29220_11	compound	29220_12
+29220_11	has_surface_form	head
+29220_15	is_in_sentence	sentence_29220
+29220_15	attr	29220_9
+29220_15	has_surface_form	coach
+29220_15	part_of_entity	basketball coach
+29220_13	is_in_sentence	sentence_29220
+29220_13	case	29220_12
+29220_13	has_surface_form	's
+29220_14	is_in_sentence	sentence_29220
+29220_14	compound	29220_15
+29220_14	has_surface_form	basketball
+29220_14	part_of_entity	basketball coach
+29220_16	is_in_sentence	sentence_29220
+29220_16	prep	29220_15
+29220_16	has_surface_form	at
+29220_17	is_in_sentence	sentence_29220
+29220_17	compound	29220_18
+29220_17	has_surface_form	UMass
+29220_18	is_in_sentence	sentence_29220
+29220_18	pobj	29220_16
+29220_18	has_surface_form	Lowell
+29220_19	is_in_sentence	sentence_29220
+29220_19	punct	29220_9
+29220_19	has_surface_form	.
+29220_20	is_in_sentence	sentence_29220
+29220_20	dep	29220_9
+29220_20	has_surface_form	
+Pat Duquette	surface_form	Pat Duquette
+Pat Duquette	has-type	basketball coach
+basketball coach	surface_form	basketball coach

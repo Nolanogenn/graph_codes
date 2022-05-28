@@ -1,0 +1,56 @@
+2226_0	is_in_sentence	sentence_2226
+2226_0	compound	2226_1
+2226_0	has_surface_form	Graeme
+2226_0	part_of_entity	Graeme Revell
+2226_1	is_in_sentence	sentence_2226
+2226_1	nsubj	2226_8
+2226_1	has_surface_form	Revell
+2226_1	part_of_entity	Graeme Revell
+2226_8	is_in_sentence	sentence_2226
+2226_8	ROOT	2226_8
+2226_8	has_surface_form	is
+2226_2	is_in_sentence	sentence_2226
+2226_2	punct	2226_1
+2226_2	has_surface_form	(
+2226_3	is_in_sentence	sentence_2226
+2226_3	acl	2226_1
+2226_3	has_surface_form	born
+2226_4	is_in_sentence	sentence_2226
+2226_4	nummod	2226_5
+2226_4	has_surface_form	23
+2226_5	is_in_sentence	sentence_2226
+2226_5	npadvmod	2226_3
+2226_5	has_surface_form	October
+2226_6	is_in_sentence	sentence_2226
+2226_6	nummod	2226_5
+2226_6	has_surface_form	1955
+2226_7	is_in_sentence	sentence_2226
+2226_7	punct	2226_1
+2226_7	has_surface_form	)
+2226_9	is_in_sentence	sentence_2226
+2226_9	det	2226_12
+2226_9	has_surface_form	a
+2226_12	is_in_sentence	sentence_2226
+2226_12	attr	2226_8
+2226_12	is_entity	musician
+2226_10	is_in_sentence	sentence_2226
+2226_10	compound	2226_11
+2226_10	has_surface_form	New
+2226_11	is_in_sentence	sentence_2226
+2226_11	compound	2226_12
+2226_11	has_surface_form	Zealand
+musician	surface_form	musician
+2226_13	is_in_sentence	sentence_2226
+2226_13	cc	2226_12
+2226_13	has_surface_form	and
+2226_14	is_in_sentence	sentence_2226
+2226_14	conj	2226_12
+2226_14	has_surface_form	composer
+2226_15	is_in_sentence	sentence_2226
+2226_15	punct	2226_8
+2226_15	has_surface_form	.
+2226_16	is_in_sentence	sentence_2226
+2226_16	dep	2226_16
+2226_16	has_surface_form	
+Graeme Revell	surface_form	Graeme Revell
+Graeme Revell	has-occupation	musician

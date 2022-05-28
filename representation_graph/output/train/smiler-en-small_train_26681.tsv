@@ -1,0 +1,91 @@
+26680_0	is_in_sentence	sentence_26680
+26680_0	compound	26680_1
+26680_0	has_surface_form	Mark
+26680_0	part_of_entity	Mark Snyder
+26680_1	is_in_sentence	sentence_26680
+26680_1	nsubj	26680_9
+26680_1	has_surface_form	Snyder
+26680_1	part_of_entity	Mark Snyder
+26680_9	is_in_sentence	sentence_26680
+26680_9	ROOT	26680_9
+26680_9	has_surface_form	is
+26680_2	is_in_sentence	sentence_26680
+26680_2	punct	26680_1
+26680_2	has_surface_form	(
+26680_3	is_in_sentence	sentence_26680
+26680_3	acl	26680_1
+26680_3	has_surface_form	born
+26680_4	is_in_sentence	sentence_26680
+26680_4	npadvmod	26680_3
+26680_4	has_surface_form	December
+26680_5	is_in_sentence	sentence_26680
+26680_5	nummod	26680_4
+26680_5	has_surface_form	30
+26680_6	is_in_sentence	sentence_26680
+26680_6	punct	26680_4
+26680_6	has_surface_form	,
+26680_7	is_in_sentence	sentence_26680
+26680_7	nummod	26680_4
+26680_7	has_surface_form	1964
+26680_8	is_in_sentence	sentence_26680
+26680_8	punct	26680_1
+26680_8	has_surface_form	)
+26680_10	is_in_sentence	sentence_26680
+26680_10	det	26680_13
+26680_10	has_surface_form	an
+26680_13	is_in_sentence	sentence_26680
+26680_13	attr	26680_9
+26680_13	has_surface_form	coach
+26680_13	part_of_entity	football coach
+26680_11	is_in_sentence	sentence_26680
+26680_11	amod	26680_13
+26680_11	has_surface_form	American
+26680_12	is_in_sentence	sentence_26680
+26680_12	compound	26680_13
+26680_12	has_surface_form	football
+26680_12	part_of_entity	football coach
+26680_14	is_in_sentence	sentence_26680
+26680_14	nsubj	26680_15
+26680_14	has_surface_form	who
+26680_15	is_in_sentence	sentence_26680
+26680_15	relcl	26680_13
+26680_15	has_surface_form	is
+26680_16	is_in_sentence	sentence_26680
+26680_16	det	26680_18
+26680_16	has_surface_form	the
+26680_18	is_in_sentence	sentence_26680
+26680_18	amod	26680_19
+26680_18	has_surface_form	defensive
+26680_17	is_in_sentence	sentence_26680
+26680_17	amod	26680_18
+26680_17	has_surface_form	current
+26680_19	is_in_sentence	sentence_26680
+26680_19	conj	26680_9
+26680_19	has_surface_form	ends
+26680_20	is_in_sentence	sentence_26680
+26680_20	dobj	26680_19
+26680_20	has_surface_form	coach
+26680_21	is_in_sentence	sentence_26680
+26680_21	prep	26680_20
+26680_21	has_surface_form	for
+26680_22	is_in_sentence	sentence_26680
+26680_22	det	26680_25
+26680_22	has_surface_form	the
+26680_25	is_in_sentence	sentence_26680
+26680_25	pobj	26680_21
+26680_25	has_surface_form	Seminoles
+26680_23	is_in_sentence	sentence_26680
+26680_23	compound	26680_25
+26680_23	has_surface_form	Florida
+26680_24	is_in_sentence	sentence_26680
+26680_24	compound	26680_25
+26680_24	has_surface_form	State
+26680_26	is_in_sentence	sentence_26680
+26680_26	punct	26680_9
+26680_26	has_surface_form	.
+26680_27	is_in_sentence	sentence_26680
+26680_27	dep	26680_9
+26680_27	has_surface_form	
+Mark Snyder	surface_form	Mark Snyder
+Mark Snyder	has-type	football coach
+football coach	surface_form	football coach

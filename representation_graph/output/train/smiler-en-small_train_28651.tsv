@@ -1,0 +1,72 @@
+28650_0	is_in_sentence	sentence_28650
+28650_0	compound	28650_2
+28650_0	has_surface_form	Aston
+28650_0	part_of_entity	Aston Medical School
+28650_2	is_in_sentence	sentence_28650
+28650_2	nsubj	28650_6
+28650_2	has_surface_form	School
+28650_2	part_of_entity	Aston Medical School
+28650_1	is_in_sentence	sentence_28650
+28650_1	compound	28650_2
+28650_1	has_surface_form	Medical
+28650_1	part_of_entity	Aston Medical School
+28650_6	is_in_sentence	sentence_28650
+28650_6	ROOT	28650_6
+28650_6	has_surface_form	is
+28650_3	is_in_sentence	sentence_28650
+28650_3	punct	28650_2
+28650_3	has_surface_form	(
+28650_4	is_in_sentence	sentence_28650
+28650_4	appos	28650_2
+28650_4	has_surface_form	AMS
+28650_5	is_in_sentence	sentence_28650
+28650_5	punct	28650_2
+28650_5	has_surface_form	)
+28650_7	is_in_sentence	sentence_28650
+28650_7	det	28650_8
+28650_7	has_surface_form	a
+28650_8	is_in_sentence	sentence_28650
+28650_8	attr	28650_6
+28650_8	has_surface_form	school
+28650_9	is_in_sentence	sentence_28650
+28650_9	prep	28650_8
+28650_9	has_surface_form	within
+28650_10	is_in_sentence	sentence_28650
+28650_10	compound	28650_11
+28650_10	has_surface_form	Aston
+28650_11	is_in_sentence	sentence_28650
+28650_11	pobj	28650_9
+28650_11	has_surface_form	University
+28650_12	is_in_sentence	sentence_28650
+28650_12	punct	28650_11
+28650_12	has_surface_form	,
+28650_13	is_in_sentence	sentence_28650
+28650_13	acl	28650_11
+28650_13	has_surface_form	located
+28650_14	is_in_sentence	sentence_28650
+28650_14	prep	28650_13
+28650_14	has_surface_form	in
+28650_15	is_in_sentence	sentence_28650
+28650_15	compound	28650_17
+28650_15	is_entity	Birmingham
+28650_17	is_in_sentence	sentence_28650
+28650_17	pobj	28650_14
+28650_17	has_surface_form	centre
+Birmingham	surface_form	Birmingham
+28650_16	is_in_sentence	sentence_28650
+28650_16	compound	28650_17
+28650_16	has_surface_form	city
+28650_18	is_in_sentence	sentence_28650
+28650_18	punct	28650_17
+28650_18	has_surface_form	,
+28650_19	is_in_sentence	sentence_28650
+28650_19	appos	28650_17
+28650_19	has_surface_form	UK
+28650_20	is_in_sentence	sentence_28650
+28650_20	punct	28650_6
+28650_20	has_surface_form	.
+28650_21	is_in_sentence	sentence_28650
+28650_21	dep	28650_6
+28650_21	has_surface_form	
+Aston Medical School	surface_form	Aston Medical School
+Aston Medical School	is-where	Birmingham

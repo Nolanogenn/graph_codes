@@ -1,0 +1,82 @@
+1098_0	is_in_sentence	sentence_1098
+1098_0	compound	1098_3
+1098_0	has_surface_form	Mary
+1098_0	part_of_entity	Mary Matha Major Seminary
+1098_3	is_in_sentence	sentence_1098
+1098_3	nsubj	1098_4
+1098_3	has_surface_form	Seminary
+1098_3	part_of_entity	Mary Matha Major Seminary
+1098_1	is_in_sentence	sentence_1098
+1098_1	compound	1098_3
+1098_1	has_surface_form	Matha
+1098_1	part_of_entity	Mary Matha Major Seminary
+1098_2	is_in_sentence	sentence_1098
+1098_2	compound	1098_3
+1098_2	has_surface_form	Major
+1098_2	part_of_entity	Mary Matha Major Seminary
+1098_4	is_in_sentence	sentence_1098
+1098_4	ROOT	1098_4
+1098_4	has_surface_form	is
+1098_5	is_in_sentence	sentence_1098
+1098_5	det	1098_7
+1098_5	has_surface_form	a
+1098_7	is_in_sentence	sentence_1098
+1098_7	attr	1098_4
+1098_7	has_surface_form	seminary
+1098_6	is_in_sentence	sentence_1098
+1098_6	amod	1098_7
+1098_6	has_surface_form	Christian
+1098_8	is_in_sentence	sentence_1098
+1098_8	acl	1098_7
+1098_8	has_surface_form	founded
+1098_9	is_in_sentence	sentence_1098
+1098_9	agent	1098_8
+1098_9	has_surface_form	by
+1098_10	is_in_sentence	sentence_1098
+1098_10	compound	1098_12
+1098_10	has_surface_form	Syro
+1098_12	is_in_sentence	sentence_1098
+1098_12	compound	1098_14
+1098_12	has_surface_form	Malabar
+1098_11	is_in_sentence	sentence_1098
+1098_11	punct	1098_12
+1098_11	has_surface_form	-
+1098_14	is_in_sentence	sentence_1098
+1098_14	pobj	1098_9
+1098_14	has_surface_form	Archdiocese
+1098_13	is_in_sentence	sentence_1098
+1098_13	compound	1098_14
+1098_13	has_surface_form	Catholic
+1098_15	is_in_sentence	sentence_1098
+1098_15	prep	1098_14
+1098_15	has_surface_form	of
+1098_16	is_in_sentence	sentence_1098
+1098_16	pobj	1098_15
+1098_16	has_surface_form	Thrissur
+1098_17	is_in_sentence	sentence_1098
+1098_17	prep	1098_14
+1098_17	has_surface_form	in
+1098_18	is_in_sentence	sentence_1098
+1098_18	pobj	1098_17
+1098_18	has_surface_form	Mulayam
+1098_19	is_in_sentence	sentence_1098
+1098_19	punct	1098_18
+1098_19	has_surface_form	,
+1098_20	is_in_sentence	sentence_1098
+1098_20	conj	1098_18
+1098_20	has_surface_form	Thrissur
+1098_21	is_in_sentence	sentence_1098
+1098_21	punct	1098_20
+1098_21	has_surface_form	,
+1098_22	is_in_sentence	sentence_1098
+1098_22	appos	1098_20
+1098_22	has_surface_form	Kerala
+1098_23	is_in_sentence	sentence_1098
+1098_23	punct	1098_4
+1098_23	has_surface_form	.
+1098_24	is_in_sentence	sentence_1098
+1098_24	dep	1098_4
+1098_24	has_surface_form	
+Mary Matha Major Seminary	surface_form	Mary Matha Major Seminary
+Mary Matha Major Seminary	is-where	Mulayam, Thrissur, Kerala
+Mulayam, Thrissur, Kerala	surface_form	Mulayam, Thrissur, Kerala

@@ -1,0 +1,82 @@
+17989_0	is_in_sentence	sentence_17989
+17989_0	det	17989_1
+17989_0	has_surface_form	The
+17989_0	part_of_entity	The Mark of the Day
+17989_1	is_in_sentence	sentence_17989
+17989_1	nsubj	17989_13
+17989_1	has_surface_form	Mark
+17989_1	part_of_entity	The Mark of the Day
+17989_13	is_in_sentence	sentence_17989
+17989_13	ROOT	17989_13
+17989_13	has_surface_form	is
+17989_2	is_in_sentence	sentence_17989
+17989_2	prep	17989_1
+17989_2	has_surface_form	of
+17989_2	part_of_entity	The Mark of the Day
+17989_3	is_in_sentence	sentence_17989
+17989_3	det	17989_4
+17989_3	has_surface_form	the
+17989_3	part_of_entity	The Mark of the Day
+17989_4	is_in_sentence	sentence_17989
+17989_4	pobj	17989_2
+17989_4	has_surface_form	Day
+17989_4	part_of_entity	The Mark of the Day
+17989_5	is_in_sentence	sentence_17989
+17989_5	punct	17989_6
+17989_5	has_surface_form	(
+17989_6	is_in_sentence	sentence_17989
+17989_6	appos	17989_1
+17989_6	has_surface_form	French
+17989_7	is_in_sentence	sentence_17989
+17989_7	punct	17989_6
+17989_7	has_surface_form	:
+17989_8	is_in_sentence	sentence_17989
+17989_8	compound	17989_9
+17989_8	has_surface_form	Le
+17989_9	is_in_sentence	sentence_17989
+17989_9	compound	17989_11
+17989_9	has_surface_form	Point
+17989_11	is_in_sentence	sentence_17989
+17989_11	appos	17989_6
+17989_11	has_surface_form	jour
+17989_10	is_in_sentence	sentence_17989
+17989_10	compound	17989_11
+17989_10	has_surface_form	du
+17989_12	is_in_sentence	sentence_17989
+17989_12	punct	17989_6
+17989_12	has_surface_form	)
+17989_14	is_in_sentence	sentence_17989
+17989_14	det	17989_17
+17989_14	has_surface_form	a
+17989_17	is_in_sentence	sentence_17989
+17989_17	attr	17989_13
+17989_17	has_surface_form	film
+17989_15	is_in_sentence	sentence_17989
+17989_15	nummod	17989_17
+17989_15	has_surface_form	1949
+17989_16	is_in_sentence	sentence_17989
+17989_16	amod	17989_17
+17989_16	has_surface_form	French
+17989_18	is_in_sentence	sentence_17989
+17989_18	acl	17989_17
+17989_18	has_surface_form	directed
+17989_19	is_in_sentence	sentence_17989
+17989_19	agent	17989_18
+17989_19	has_surface_form	by
+17989_20	is_in_sentence	sentence_17989
+17989_20	compound	17989_21
+17989_20	has_surface_form	Louis
+17989_20	part_of_entity	Louis Daquin
+17989_21	is_in_sentence	sentence_17989
+17989_21	pobj	17989_19
+17989_21	has_surface_form	Daquin
+17989_21	part_of_entity	Louis Daquin
+17989_22	is_in_sentence	sentence_17989
+17989_22	punct	17989_13
+17989_22	has_surface_form	.
+17989_23	is_in_sentence	sentence_17989
+17989_23	dep	17989_13
+17989_23	has_surface_form	
+The Mark of the Day	surface_form	The Mark of the Day
+The Mark of the Day	movie-has-director	Louis Daquin
+Louis Daquin	surface_form	Louis Daquin

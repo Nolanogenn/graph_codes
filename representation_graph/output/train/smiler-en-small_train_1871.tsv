@@ -1,0 +1,51 @@
+1870_0	is_in_sentence	sentence_1870
+1870_0	compound	1870_2
+1870_0	has_surface_form	Craiglockhart
+1870_0	part_of_entity	Craiglockhart Primary School
+1870_2	is_in_sentence	sentence_1870
+1870_2	nsubj	1870_3
+1870_2	has_surface_form	School
+1870_2	part_of_entity	Craiglockhart Primary School
+1870_1	is_in_sentence	sentence_1870
+1870_1	compound	1870_2
+1870_1	has_surface_form	Primary
+1870_1	part_of_entity	Craiglockhart Primary School
+1870_3	is_in_sentence	sentence_1870
+1870_3	ROOT	1870_3
+1870_3	has_surface_form	is
+1870_4	is_in_sentence	sentence_1870
+1870_4	det	1870_6
+1870_4	has_surface_form	a
+1870_6	is_in_sentence	sentence_1870
+1870_6	attr	1870_3
+1870_6	has_surface_form	school
+1870_5	is_in_sentence	sentence_1870
+1870_5	amod	1870_6
+1870_5	has_surface_form	primary
+1870_7	is_in_sentence	sentence_1870
+1870_7	prep	1870_6
+1870_7	has_surface_form	in
+1870_8	is_in_sentence	sentence_1870
+1870_8	det	1870_10
+1870_8	has_surface_form	the
+1870_10	is_in_sentence	sentence_1870
+1870_10	pobj	1870_7
+1870_10	has_surface_form	area
+1870_9	is_in_sentence	sentence_1870
+1870_9	compound	1870_10
+1870_9	is_entity	Shandon
+Shandon	surface_form	Shandon
+1870_11	is_in_sentence	sentence_1870
+1870_11	prep	1870_10
+1870_11	has_surface_form	of
+1870_12	is_in_sentence	sentence_1870
+1870_12	pobj	1870_11
+1870_12	has_surface_form	Edinburgh
+1870_13	is_in_sentence	sentence_1870
+1870_13	punct	1870_3
+1870_13	has_surface_form	.
+1870_14	is_in_sentence	sentence_1870
+1870_14	dep	1870_3
+1870_14	has_surface_form	
+Craiglockhart Primary School	surface_form	Craiglockhart Primary School
+Craiglockhart Primary School	is-where	Shandon

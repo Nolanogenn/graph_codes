@@ -1,0 +1,92 @@
+12509_0	is_in_sentence	sentence_12509
+12509_0	det	12509_3
+12509_0	has_surface_form	The
+12509_3	is_in_sentence	sentence_12509
+12509_3	nsubj	12509_6
+12509_3	has_surface_form	School
+12509_3	part_of_entity	Brown University School of Engineering
+12509_1	is_in_sentence	sentence_12509
+12509_1	compound	12509_2
+12509_1	has_surface_form	Brown
+12509_1	part_of_entity	Brown University School of Engineering
+12509_2	is_in_sentence	sentence_12509
+12509_2	compound	12509_3
+12509_2	has_surface_form	University
+12509_2	part_of_entity	Brown University School of Engineering
+12509_6	is_in_sentence	sentence_12509
+12509_6	ROOT	12509_6
+12509_6	has_surface_form	is
+12509_4	is_in_sentence	sentence_12509
+12509_4	prep	12509_3
+12509_4	has_surface_form	of
+12509_4	part_of_entity	Brown University School of Engineering
+12509_5	is_in_sentence	sentence_12509
+12509_5	pobj	12509_4
+12509_5	has_surface_form	Engineering
+12509_5	part_of_entity	Brown University School of Engineering
+12509_7	is_in_sentence	sentence_12509
+12509_7	det	12509_9
+12509_7	has_surface_form	the
+12509_9	is_in_sentence	sentence_12509
+12509_9	attr	12509_6
+12509_9	has_surface_form	school
+12509_8	is_in_sentence	sentence_12509
+12509_8	compound	12509_9
+12509_8	has_surface_form	engineering
+12509_10	is_in_sentence	sentence_12509
+12509_10	prep	12509_9
+12509_10	has_surface_form	at
+12509_11	is_in_sentence	sentence_12509
+12509_11	compound	12509_12
+12509_11	has_surface_form	Brown
+12509_12	is_in_sentence	sentence_12509
+12509_12	pobj	12509_10
+12509_12	has_surface_form	University
+12509_13	is_in_sentence	sentence_12509
+12509_13	punct	12509_12
+12509_13	has_surface_form	,
+12509_14	is_in_sentence	sentence_12509
+12509_14	det	12509_19
+12509_14	has_surface_form	a
+12509_19	is_in_sentence	sentence_12509
+12509_19	appos	12509_12
+12509_19	has_surface_form	university
+12509_15	is_in_sentence	sentence_12509
+12509_15	amod	12509_19
+12509_15	has_surface_form	private
+12509_16	is_in_sentence	sentence_12509
+12509_16	compound	12509_17
+12509_16	has_surface_form	Ivy
+12509_17	is_in_sentence	sentence_12509
+12509_17	compound	12509_19
+12509_17	has_surface_form	League
+12509_18	is_in_sentence	sentence_12509
+12509_18	compound	12509_19
+12509_18	has_surface_form	research
+12509_20	is_in_sentence	sentence_12509
+12509_20	acl	12509_19
+12509_20	has_surface_form	located
+12509_21	is_in_sentence	sentence_12509
+12509_21	prep	12509_20
+12509_21	has_surface_form	in
+12509_22	is_in_sentence	sentence_12509
+12509_22	pobj	12509_21
+12509_22	has_surface_form	Providence
+12509_23	is_in_sentence	sentence_12509
+12509_23	punct	12509_22
+12509_23	has_surface_form	,
+12509_24	is_in_sentence	sentence_12509
+12509_24	compound	12509_25
+12509_24	has_surface_form	Rhode
+12509_25	is_in_sentence	sentence_12509
+12509_25	appos	12509_22
+12509_25	has_surface_form	Island
+12509_26	is_in_sentence	sentence_12509
+12509_26	punct	12509_6
+12509_26	has_surface_form	.
+12509_27	is_in_sentence	sentence_12509
+12509_27	dep	12509_27
+12509_27	has_surface_form	
+Brown University School of Engineering	surface_form	Brown University School of Engineering
+Brown University School of Engineering	is-where	Providence, Rhode Island
+Providence, Rhode Island	surface_form	Providence, Rhode Island

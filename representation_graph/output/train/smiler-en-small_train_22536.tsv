@@ -1,0 +1,75 @@
+22535_0	is_in_sentence	sentence_22535
+22535_0	compound	22535_2
+22535_0	has_surface_form	Firth
+22535_0	part_of_entity	Firth Park Academy
+22535_2	is_in_sentence	sentence_22535
+22535_2	nsubj	22535_3
+22535_2	has_surface_form	Academy
+22535_2	part_of_entity	Firth Park Academy
+22535_1	is_in_sentence	sentence_22535
+22535_1	compound	22535_2
+22535_1	has_surface_form	Park
+22535_1	part_of_entity	Firth Park Academy
+22535_3	is_in_sentence	sentence_22535
+22535_3	ROOT	22535_3
+22535_3	has_surface_form	is
+22535_4	is_in_sentence	sentence_22535
+22535_4	det	22535_7
+22535_4	has_surface_form	a
+22535_7	is_in_sentence	sentence_22535
+22535_7	attr	22535_3
+22535_7	has_surface_form	school
+22535_5	is_in_sentence	sentence_22535
+22535_5	amod	22535_7
+22535_5	has_surface_form	coeducational
+22535_6	is_in_sentence	sentence_22535
+22535_6	amod	22535_7
+22535_6	has_surface_form	secondary
+22535_8	is_in_sentence	sentence_22535
+22535_8	prep	22535_7
+22535_8	has_surface_form	with
+22535_9	is_in_sentence	sentence_22535
+22535_9	compound	22535_10
+22535_9	has_surface_form	academy
+22535_10	is_in_sentence	sentence_22535
+22535_10	pobj	22535_8
+22535_10	has_surface_form	status
+22535_11	is_in_sentence	sentence_22535
+22535_11	punct	22535_10
+22535_11	has_surface_form	,
+22535_12	is_in_sentence	sentence_22535
+22535_12	acl	22535_10
+22535_12	has_surface_form	located
+22535_13	is_in_sentence	sentence_22535
+22535_13	prep	22535_12
+22535_13	has_surface_form	in
+22535_14	is_in_sentence	sentence_22535
+22535_14	det	22535_16
+22535_14	has_surface_form	the
+22535_16	is_in_sentence	sentence_22535
+22535_16	pobj	22535_13
+22535_16	has_surface_form	area
+22535_15	is_in_sentence	sentence_22535
+22535_15	compound	22535_16
+22535_15	is_entity	Shiregreen
+Shiregreen	surface_form	Shiregreen
+22535_17	is_in_sentence	sentence_22535
+22535_17	prep	22535_16
+22535_17	has_surface_form	of
+22535_18	is_in_sentence	sentence_22535
+22535_18	pobj	22535_17
+22535_18	has_surface_form	Sheffield
+22535_19	is_in_sentence	sentence_22535
+22535_19	punct	22535_18
+22535_19	has_surface_form	,
+22535_20	is_in_sentence	sentence_22535
+22535_20	appos	22535_18
+22535_20	has_surface_form	England
+22535_21	is_in_sentence	sentence_22535
+22535_21	punct	22535_3
+22535_21	has_surface_form	.
+22535_22	is_in_sentence	sentence_22535
+22535_22	dep	22535_3
+22535_22	has_surface_form	
+Firth Park Academy	surface_form	Firth Park Academy
+Firth Park Academy	is-where	Shiregreen

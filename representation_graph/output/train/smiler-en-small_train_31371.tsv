@@ -1,0 +1,58 @@
+31370_0	is_in_sentence	sentence_31370
+31370_0	compound	31370_1
+31370_0	has_surface_form	Jason
+31370_0	part_of_entity	Jason Sellers
+31370_1	is_in_sentence	sentence_31370
+31370_1	nsubj	31370_9
+31370_1	has_surface_form	Sellers
+31370_1	part_of_entity	Jason Sellers
+31370_9	is_in_sentence	sentence_31370
+31370_9	ROOT	31370_9
+31370_9	has_surface_form	is
+31370_2	is_in_sentence	sentence_31370
+31370_2	punct	31370_1
+31370_2	has_surface_form	(
+31370_3	is_in_sentence	sentence_31370
+31370_3	acl	31370_1
+31370_3	has_surface_form	born
+31370_4	is_in_sentence	sentence_31370
+31370_4	npadvmod	31370_3
+31370_4	has_surface_form	March
+31370_5	is_in_sentence	sentence_31370
+31370_5	nummod	31370_4
+31370_5	has_surface_form	4
+31370_6	is_in_sentence	sentence_31370
+31370_6	punct	31370_4
+31370_6	has_surface_form	,
+31370_7	is_in_sentence	sentence_31370
+31370_7	nummod	31370_4
+31370_7	has_surface_form	1971
+31370_8	is_in_sentence	sentence_31370
+31370_8	punct	31370_1
+31370_8	has_surface_form	)
+31370_10	is_in_sentence	sentence_31370
+31370_10	det	31370_14
+31370_10	has_surface_form	an
+31370_14	is_in_sentence	sentence_31370
+31370_14	attr	31370_9
+31370_14	has_surface_form	artist
+31370_11	is_in_sentence	sentence_31370
+31370_11	amod	31370_14
+31370_11	has_surface_form	American
+31370_12	is_in_sentence	sentence_31370
+31370_12	compound	31370_13
+31370_12	has_surface_form	country
+31370_12	part_of_entity	country music
+31370_13	is_in_sentence	sentence_31370
+31370_13	compound	31370_14
+31370_13	has_surface_form	music
+31370_13	part_of_entity	country music
+31370_15	is_in_sentence	sentence_31370
+31370_15	punct	31370_9
+31370_15	has_surface_form	.
+31370_16	is_in_sentence	sentence_31370
+31370_16	dep	31370_9
+31370_16	has_surface_form	
+Jason Sellers	surface_form	Jason Sellers
+Jason Sellers	has-genre	country music
+country music	surface_form	country music

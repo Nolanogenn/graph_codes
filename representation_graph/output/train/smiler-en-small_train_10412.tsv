@@ -1,0 +1,83 @@
+10411_0	is_in_sentence	sentence_10411
+10411_0	punct	10411_13
+10411_0	has_surface_form	""""
+10411_13	is_in_sentence	sentence_10411
+10411_13	ROOT	10411_13
+10411_13	has_surface_form	is
+10411_1	is_in_sentence	sentence_10411
+10411_1	compound	10411_2
+10411_1	has_surface_form	La
+10411_1	part_of_entity	La Route impériale
+10411_2	is_in_sentence	sentence_10411
+10411_2	compound	10411_3
+10411_2	has_surface_form	Route
+10411_2	part_of_entity	La Route impériale
+10411_3	is_in_sentence	sentence_10411
+10411_3	nsubj	10411_13
+10411_3	has_surface_form	impériale
+10411_3	part_of_entity	La Route impériale
+10411_4	is_in_sentence	sentence_10411
+10411_4	punct	10411_9
+10411_4	has_surface_form	(
+10411_9	is_in_sentence	sentence_10411
+10411_9	appos	10411_3
+10411_9	has_surface_form	road
+10411_5	is_in_sentence	sentence_10411
+10411_5	punct	10411_9
+10411_5	has_surface_form	""""
+10411_6	is_in_sentence	sentence_10411
+10411_6	punct	10411_9
+10411_6	has_surface_form	""""
+10411_7	is_in_sentence	sentence_10411
+10411_7	det	10411_9
+10411_7	has_surface_form	the
+10411_8	is_in_sentence	sentence_10411
+10411_8	amod	10411_9
+10411_8	has_surface_form	imperial
+10411_10	is_in_sentence	sentence_10411
+10411_10	punct	10411_3
+10411_10	has_surface_form	""""
+10411_11	is_in_sentence	sentence_10411
+10411_11	punct	10411_3
+10411_11	has_surface_form	""""
+10411_12	is_in_sentence	sentence_10411
+10411_12	punct	10411_3
+10411_12	has_surface_form	)
+10411_14	is_in_sentence	sentence_10411
+10411_14	det	10411_17
+10411_14	has_surface_form	a
+10411_17	is_in_sentence	sentence_10411
+10411_17	attr	10411_13
+10411_17	has_surface_form	film
+10411_15	is_in_sentence	sentence_10411
+10411_15	nummod	10411_17
+10411_15	has_surface_form	1935
+10411_16	is_in_sentence	sentence_10411
+10411_16	amod	10411_17
+10411_16	has_surface_form	French
+10411_18	is_in_sentence	sentence_10411
+10411_18	acl	10411_17
+10411_18	has_surface_form	directed
+10411_19	is_in_sentence	sentence_10411
+10411_19	agent	10411_18
+10411_19	has_surface_form	by
+10411_20	is_in_sentence	sentence_10411
+10411_20	compound	10411_21
+10411_20	has_surface_form	Marcel
+10411_20	part_of_entity	Marcel L'Herbier
+10411_21	is_in_sentence	sentence_10411
+10411_21	pobj	10411_19
+10411_21	has_surface_form	L'Herbier
+10411_21	part_of_entity	Marcel L'Herbier
+10411_22	is_in_sentence	sentence_10411
+10411_22	punct	10411_13
+10411_22	has_surface_form	.
+10411_23	is_in_sentence	sentence_10411
+10411_23	punct	10411_13
+10411_23	has_surface_form	""""
+10411_24	is_in_sentence	sentence_10411
+10411_24	dep	10411_13
+10411_24	has_surface_form	
+La Route impériale	surface_form	La Route impériale
+La Route impériale	movie-has-director	Marcel L'Herbier
+Marcel L'Herbier	surface_form	Marcel L'Herbier

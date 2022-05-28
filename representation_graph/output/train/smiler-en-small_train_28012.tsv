@@ -1,0 +1,70 @@
+28011_0	is_in_sentence	sentence_28011
+28011_0	compound	28011_1
+28011_0	has_surface_form	Howards
+28011_0	part_of_entity	Howards End
+28011_1	is_in_sentence	sentence_28011
+28011_1	nsubjpass	28011_3
+28011_1	has_surface_form	End
+28011_1	part_of_entity	Howards End
+28011_3	is_in_sentence	sentence_28011
+28011_3	ROOT	28011_3
+28011_3	has_surface_form	entered
+28011_2	is_in_sentence	sentence_28011
+28011_2	auxpass	28011_3
+28011_2	has_surface_form	was
+28011_4	is_in_sentence	sentence_28011
+28011_4	prep	28011_3
+28011_4	has_surface_form	as
+28011_5	is_in_sentence	sentence_28011
+28011_5	det	28011_7
+28011_5	has_surface_form	an
+28011_7	is_in_sentence	sentence_28011
+28011_7	pobj	28011_4
+28011_7	has_surface_form	selection
+28011_6	is_in_sentence	sentence_28011
+28011_6	amod	28011_7
+28011_6	has_surface_form	official
+28011_8	is_in_sentence	sentence_28011
+28011_8	prep	28011_7
+28011_8	has_surface_form	for
+28011_9	is_in_sentence	sentence_28011
+28011_9	compound	28011_12
+28011_9	has_surface_form	Cannes
+28011_12	is_in_sentence	sentence_28011
+28011_12	pobj	28011_8
+28011_12	has_surface_form	Festival
+28011_10	is_in_sentence	sentence_28011
+28011_10	compound	28011_12
+28011_10	has_surface_form	International
+28011_11	is_in_sentence	sentence_28011
+28011_11	compound	28011_12
+28011_11	has_surface_form	Film
+28011_13	is_in_sentence	sentence_28011
+28011_13	cc	28011_3
+28011_13	has_surface_form	and
+28011_14	is_in_sentence	sentence_28011
+28011_14	conj	28011_3
+28011_14	has_surface_form	won
+28011_15	is_in_sentence	sentence_28011
+28011_15	det	28011_18
+28011_15	has_surface_form	the
+28011_18	is_in_sentence	sentence_28011
+28011_18	dobj	28011_14
+28011_18	has_surface_form	Award
+28011_18	part_of_entity	Anniversary Award
+28011_16	is_in_sentence	sentence_28011
+28011_16	amod	28011_18
+28011_16	has_surface_form	45th
+28011_17	is_in_sentence	sentence_28011
+28011_17	compound	28011_18
+28011_17	has_surface_form	Anniversary
+28011_17	part_of_entity	Anniversary Award
+28011_19	is_in_sentence	sentence_28011
+28011_19	punct	28011_3
+28011_19	has_surface_form	.
+28011_20	is_in_sentence	sentence_28011
+28011_20	dep	28011_20
+28011_20	has_surface_form	
+Howards End	surface_form	Howards End
+Howards End	won-award	Anniversary Award
+Anniversary Award	surface_form	Anniversary Award

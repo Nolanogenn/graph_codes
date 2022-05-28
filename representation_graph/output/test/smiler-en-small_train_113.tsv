@@ -1,0 +1,65 @@
+112_0	is_in_sentence	sentence_112
+112_0	det	112_1
+112_0	has_surface_form	The
+112_1	is_in_sentence	sentence_112
+112_1	nsubj	112_2
+112_1	has_surface_form	Lahore
+112_1	part_of_entity	Lahore Leads University
+112_2	is_in_sentence	sentence_112
+112_2	nsubj	112_7
+112_2	has_surface_form	Leads
+112_2	part_of_entity	Lahore Leads University
+112_7	is_in_sentence	sentence_112
+112_7	ROOT	112_7
+112_7	has_surface_form	is
+112_3	is_in_sentence	sentence_112
+112_3	dobj	112_2
+112_3	has_surface_form	University
+112_3	part_of_entity	Lahore Leads University
+112_4	is_in_sentence	sentence_112
+112_4	punct	112_5
+112_4	has_surface_form	(
+112_5	is_in_sentence	sentence_112
+112_5	appos	112_3
+112_5	has_surface_form	LLU
+112_6	is_in_sentence	sentence_112
+112_6	punct	112_3
+112_6	has_surface_form	)
+112_8	is_in_sentence	sentence_112
+112_8	det	112_10
+112_8	has_surface_form	a
+112_10	is_in_sentence	sentence_112
+112_10	attr	112_7
+112_10	has_surface_form	university
+112_10	part_of_entity	private university
+112_9	is_in_sentence	sentence_112
+112_9	amod	112_10
+112_9	has_surface_form	private
+112_9	part_of_entity	private university
+112_11	is_in_sentence	sentence_112
+112_11	prep	112_10
+112_11	has_surface_form	in
+112_12	is_in_sentence	sentence_112
+112_12	pobj	112_11
+112_12	has_surface_form	Lahore
+112_13	is_in_sentence	sentence_112
+112_13	punct	112_12
+112_13	has_surface_form	,
+112_14	is_in_sentence	sentence_112
+112_14	conj	112_12
+112_14	has_surface_form	Punjab
+112_15	is_in_sentence	sentence_112
+112_15	punct	112_14
+112_15	has_surface_form	,
+112_16	is_in_sentence	sentence_112
+112_16	appos	112_14
+112_16	has_surface_form	Pakistan
+112_17	is_in_sentence	sentence_112
+112_17	punct	112_7
+112_17	has_surface_form	.
+112_18	is_in_sentence	sentence_112
+112_18	dep	112_7
+112_18	has_surface_form	
+Lahore Leads University	surface_form	Lahore Leads University
+Lahore Leads University	has-type	private university
+private university	surface_form	private university

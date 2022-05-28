@@ -1,0 +1,105 @@
+16550_0	is_in_sentence	sentence_16550
+16550_0	nsubj	16550_1
+16550_0	has_surface_form	Elias
+16550_1	is_in_sentence	sentence_16550
+16550_1	ROOT	16550_1
+16550_1	has_surface_form	returned
+16550_2	is_in_sentence	sentence_16550
+16550_2	prep	16550_1
+16550_2	has_surface_form	to
+16550_3	is_in_sentence	sentence_16550
+16550_3	nmod	16550_6
+16550_3	has_surface_form	Blue
+16550_6	is_in_sentence	sentence_16550
+16550_6	pobj	16550_2
+16550_6	has_surface_form	EMI
+16550_4	is_in_sentence	sentence_16550
+16550_4	nmod	16550_6
+16550_4	has_surface_form	Note
+16550_5	is_in_sentence	sentence_16550
+16550_5	punct	16550_6
+16550_5	has_surface_form	/
+16550_7	is_in_sentence	sentence_16550
+16550_7	prep	16550_1
+16550_7	has_surface_form	in
+16550_8	is_in_sentence	sentence_16550
+16550_8	pobj	16550_7
+16550_8	has_surface_form	2007
+16550_9	is_in_sentence	sentence_16550
+16550_9	prep	16550_1
+16550_9	has_surface_form	with
+16550_10	is_in_sentence	sentence_16550
+16550_10	pobj	16550_9
+16550_10	has_surface_form	Something
+16550_10	part_of_entity	Something for You
+16550_11	is_in_sentence	sentence_16550
+16550_11	dative	16550_1
+16550_11	has_surface_form	for
+16550_11	part_of_entity	Something for You
+16550_12	is_in_sentence	sentence_16550
+16550_12	pobj	16550_11
+16550_12	has_surface_form	You
+16550_12	part_of_entity	Something for You
+16550_13	is_in_sentence	sentence_16550
+16550_13	punct	16550_12
+16550_13	has_surface_form	,
+16550_14	is_in_sentence	sentence_16550
+16550_14	nsubj	16550_15
+16550_14	has_surface_form	which
+16550_15	is_in_sentence	sentence_16550
+16550_15	relcl	16550_12
+16550_15	has_surface_form	won
+16550_16	is_in_sentence	sentence_16550
+16550_16	compound	16550_18
+16550_16	has_surface_form	Best
+16550_16	part_of_entity	Best Vocal Album of the Year
+16550_18	is_in_sentence	sentence_16550
+16550_18	dobj	16550_15
+16550_18	has_surface_form	Album
+16550_18	part_of_entity	Best Vocal Album of the Year
+16550_17	is_in_sentence	sentence_16550
+16550_17	compound	16550_18
+16550_17	has_surface_form	Vocal
+16550_17	part_of_entity	Best Vocal Album of the Year
+16550_19	is_in_sentence	sentence_16550
+16550_19	prep	16550_18
+16550_19	has_surface_form	of
+16550_19	part_of_entity	Best Vocal Album of the Year
+16550_20	is_in_sentence	sentence_16550
+16550_20	det	16550_21
+16550_20	has_surface_form	the
+16550_20	part_of_entity	Best Vocal Album of the Year
+16550_21	is_in_sentence	sentence_16550
+16550_21	pobj	16550_19
+16550_21	has_surface_form	Year
+16550_21	part_of_entity	Best Vocal Album of the Year
+16550_22	is_in_sentence	sentence_16550
+16550_22	cc	16550_18
+16550_22	has_surface_form	and
+16550_23	is_in_sentence	sentence_16550
+16550_23	det	16550_26
+16550_23	has_surface_form	the
+16550_26	is_in_sentence	sentence_16550
+16550_26	conj	16550_18
+16550_26	has_surface_form	Award
+16550_24	is_in_sentence	sentence_16550
+16550_24	compound	16550_25
+16550_24	has_surface_form	Gold
+16550_25	is_in_sentence	sentence_16550
+16550_25	compound	16550_26
+16550_25	has_surface_form	Disc
+16550_27	is_in_sentence	sentence_16550
+16550_27	prep	16550_26
+16550_27	has_surface_form	in
+16550_28	is_in_sentence	sentence_16550
+16550_28	pobj	16550_27
+16550_28	has_surface_form	Japan
+16550_29	is_in_sentence	sentence_16550
+16550_29	punct	16550_1
+16550_29	has_surface_form	.
+16550_30	is_in_sentence	sentence_16550
+16550_30	dep	16550_30
+16550_30	has_surface_form	
+Something for You	surface_form	Something for You
+Something for You	won-award	Best Vocal Album of the Year
+Best Vocal Album of the Year	surface_form	Best Vocal Album of the Year

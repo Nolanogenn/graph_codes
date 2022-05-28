@@ -1,0 +1,61 @@
+25805_0	is_in_sentence	sentence_25805
+25805_0	compound	25805_1
+25805_0	has_surface_form	Mark
+25805_0	part_of_entity	Mark Gordon
+25805_1	is_in_sentence	sentence_25805
+25805_1	nsubj	25805_9
+25805_1	has_surface_form	Gordon
+25805_1	part_of_entity	Mark Gordon
+25805_9	is_in_sentence	sentence_25805
+25805_9	ROOT	25805_9
+25805_9	has_surface_form	is
+25805_2	is_in_sentence	sentence_25805
+25805_2	punct	25805_1
+25805_2	has_surface_form	(
+25805_3	is_in_sentence	sentence_25805
+25805_3	acl	25805_1
+25805_3	has_surface_form	born
+25805_4	is_in_sentence	sentence_25805
+25805_4	npadvmod	25805_3
+25805_4	has_surface_form	October
+25805_5	is_in_sentence	sentence_25805
+25805_5	nummod	25805_4
+25805_5	has_surface_form	10
+25805_6	is_in_sentence	sentence_25805
+25805_6	punct	25805_4
+25805_6	has_surface_form	,
+25805_7	is_in_sentence	sentence_25805
+25805_7	nummod	25805_4
+25805_7	has_surface_form	1956
+25805_8	is_in_sentence	sentence_25805
+25805_8	punct	25805_1
+25805_8	has_surface_form	)
+25805_10	is_in_sentence	sentence_25805
+25805_10	det	25805_15
+25805_10	has_surface_form	an
+25805_15	is_in_sentence	sentence_25805
+25805_15	attr	25805_9
+25805_15	has_surface_form	producer
+25805_15	part_of_entity	film producer
+25805_11	is_in_sentence	sentence_25805
+25805_11	amod	25805_15
+25805_11	has_surface_form	American
+25805_12	is_in_sentence	sentence_25805
+25805_12	nmod	25805_15
+25805_12	has_surface_form	television
+25805_13	is_in_sentence	sentence_25805
+25805_13	cc	25805_12
+25805_13	has_surface_form	and
+25805_14	is_in_sentence	sentence_25805
+25805_14	conj	25805_12
+25805_14	has_surface_form	film
+25805_14	part_of_entity	film producer
+25805_16	is_in_sentence	sentence_25805
+25805_16	punct	25805_9
+25805_16	has_surface_form	.
+25805_17	is_in_sentence	sentence_25805
+25805_17	dep	25805_9
+25805_17	has_surface_form	
+Mark Gordon	surface_form	Mark Gordon
+Mark Gordon	has-occupation	film producer
+film producer	surface_form	film producer

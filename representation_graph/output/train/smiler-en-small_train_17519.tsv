@@ -1,0 +1,91 @@
+17518_0	is_in_sentence	sentence_17518
+17518_0	compound	17518_1
+17518_0	has_surface_form	Zizi
+17518_0	part_of_entity	Zizi Jeanmaire
+17518_1	is_in_sentence	sentence_17518
+17518_1	nsubj	17518_11
+17518_1	has_surface_form	Jeanmaire
+17518_1	part_of_entity	Zizi Jeanmaire
+17518_11	is_in_sentence	sentence_17518
+17518_11	ROOT	17518_11
+17518_11	has_surface_form	is
+17518_2	is_in_sentence	sentence_17518
+17518_2	punct	17518_3
+17518_2	has_surface_form	(
+17518_3	is_in_sentence	sentence_17518
+17518_3	acl	17518_1
+17518_3	has_surface_form	born
+17518_4	is_in_sentence	sentence_17518
+17518_4	compound	17518_5
+17518_4	has_surface_form	Renée
+17518_5	is_in_sentence	sentence_17518
+17518_5	compound	17518_6
+17518_5	has_surface_form	Marcelle
+17518_6	is_in_sentence	sentence_17518
+17518_6	npadvmod	17518_3
+17518_6	has_surface_form	Jeanmaire
+17518_7	is_in_sentence	sentence_17518
+17518_7	nummod	17518_6
+17518_7	has_surface_form	29
+17518_8	is_in_sentence	sentence_17518
+17518_8	npadvmod	17518_3
+17518_8	has_surface_form	April
+17518_9	is_in_sentence	sentence_17518
+17518_9	nummod	17518_8
+17518_9	has_surface_form	1924
+17518_10	is_in_sentence	sentence_17518
+17518_10	punct	17518_1
+17518_10	has_surface_form	)
+17518_12	is_in_sentence	sentence_17518
+17518_12	det	17518_15
+17518_12	has_surface_form	a
+17518_15	is_in_sentence	sentence_17518
+17518_15	attr	17518_11
+17518_15	has_surface_form	dancer
+17518_13	is_in_sentence	sentence_17518
+17518_13	amod	17518_15
+17518_13	has_surface_form	French
+17518_14	is_in_sentence	sentence_17518
+17518_14	compound	17518_15
+17518_14	has_surface_form	ballet
+17518_16	is_in_sentence	sentence_17518
+17518_16	cc	17518_15
+17518_16	has_surface_form	and
+17518_17	is_in_sentence	sentence_17518
+17518_17	det	17518_18
+17518_17	has_surface_form	the
+17518_18	is_in_sentence	sentence_17518
+17518_18	conj	17518_15
+17518_18	has_surface_form	widow
+17518_19	is_in_sentence	sentence_17518
+17518_19	prep	17518_18
+17518_19	has_surface_form	of
+17518_20	is_in_sentence	sentence_17518
+17518_20	amod	17518_21
+17518_20	has_surface_form	renowned
+17518_21	is_in_sentence	sentence_17518
+17518_21	pobj	17518_19
+17518_21	has_surface_form	dancer
+17518_22	is_in_sentence	sentence_17518
+17518_22	cc	17518_21
+17518_22	has_surface_form	and
+17518_23	is_in_sentence	sentence_17518
+17518_23	compound	17518_25
+17518_23	has_surface_form	choreographer
+17518_25	is_in_sentence	sentence_17518
+17518_25	conj	17518_21
+17518_25	has_surface_form	Petit
+17518_25	part_of_entity	Roland Petit
+17518_24	is_in_sentence	sentence_17518
+17518_24	compound	17518_25
+17518_24	has_surface_form	Roland
+17518_24	part_of_entity	Roland Petit
+17518_26	is_in_sentence	sentence_17518
+17518_26	punct	17518_11
+17518_26	has_surface_form	.
+17518_27	is_in_sentence	sentence_17518
+17518_27	dep	17518_11
+17518_27	has_surface_form	
+Zizi Jeanmaire	surface_form	Zizi Jeanmaire
+Zizi Jeanmaire	has-spouse	Roland Petit
+Roland Petit	surface_form	Roland Petit

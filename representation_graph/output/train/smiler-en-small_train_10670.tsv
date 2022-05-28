@@ -1,0 +1,79 @@
+10669_0	is_in_sentence	sentence_10669
+10669_0	compound	10669_1
+10669_0	has_surface_form	Jonny
+10669_0	part_of_entity	Jonny Blu
+10669_1	is_in_sentence	sentence_10669
+10669_1	nsubj	10669_2
+10669_1	has_surface_form	Blu
+10669_1	part_of_entity	Jonny Blu
+10669_2	is_in_sentence	sentence_10669
+10669_2	ROOT	10669_2
+10669_2	has_surface_form	is
+10669_3	is_in_sentence	sentence_10669
+10669_3	det	10669_6
+10669_3	has_surface_form	a
+10669_6	is_in_sentence	sentence_10669
+10669_6	attr	10669_2
+10669_6	has_surface_form	songwriter
+10669_4	is_in_sentence	sentence_10669
+10669_4	nmod	10669_6
+10669_4	has_surface_form	singer
+10669_5	is_in_sentence	sentence_10669
+10669_5	punct	10669_6
+10669_5	has_surface_form	/
+10669_7	is_in_sentence	sentence_10669
+10669_7	nsubjpass	10669_9
+10669_7	has_surface_form	who
+10669_9	is_in_sentence	sentence_10669
+10669_9	relcl	10669_6
+10669_9	has_surface_form	born
+10669_8	is_in_sentence	sentence_10669
+10669_8	auxpass	10669_9
+10669_8	has_surface_form	was
+10669_10	is_in_sentence	sentence_10669
+10669_10	cc	10669_9
+10669_10	has_surface_form	and
+10669_11	is_in_sentence	sentence_10669
+10669_11	conj	10669_9
+10669_11	has_surface_form	raised
+10669_12	is_in_sentence	sentence_10669
+10669_12	prep	10669_11
+10669_12	has_surface_form	in
+10669_13	is_in_sentence	sentence_10669
+10669_13	compound	10669_14
+10669_13	has_surface_form	Los
+10669_13	part_of_entity	Los Angeles
+10669_14	is_in_sentence	sentence_10669
+10669_14	pobj	10669_12
+10669_14	has_surface_form	Angeles
+10669_14	part_of_entity	Los Angeles
+10669_15	is_in_sentence	sentence_10669
+10669_15	cc	10669_9
+10669_15	has_surface_form	but
+10669_16	is_in_sentence	sentence_10669
+10669_16	conj	10669_9
+10669_16	has_surface_form	made
+10669_17	is_in_sentence	sentence_10669
+10669_17	poss	10669_19
+10669_17	has_surface_form	his
+10669_19	is_in_sentence	sentence_10669
+10669_19	dobj	10669_16
+10669_19	has_surface_form	debut
+10669_18	is_in_sentence	sentence_10669
+10669_18	amod	10669_19
+10669_18	has_surface_form	professional
+10669_20	is_in_sentence	sentence_10669
+10669_20	prep	10669_16
+10669_20	has_surface_form	in
+10669_21	is_in_sentence	sentence_10669
+10669_21	pobj	10669_20
+10669_21	has_surface_form	China
+10669_22	is_in_sentence	sentence_10669
+10669_22	punct	10669_2
+10669_22	has_surface_form	.
+10669_23	is_in_sentence	sentence_10669
+10669_23	dep	10669_23
+10669_23	has_surface_form	
+Jonny Blu	surface_form	Jonny Blu
+Jonny Blu	birth-place	Los Angeles
+Los Angeles	surface_form	Los Angeles

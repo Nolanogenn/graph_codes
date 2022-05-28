@@ -1,0 +1,44 @@
+28906_0	is_in_sentence	sentence_28906
+28906_0	compound	28906_1
+28906_0	has_surface_form	Steven
+28906_0	part_of_entity	Steven Cole
+28906_1	is_in_sentence	sentence_28906
+28906_1	nsubj	28906_6
+28906_1	has_surface_form	Cole
+28906_1	part_of_entity	Steven Cole
+28906_6	is_in_sentence	sentence_28906
+28906_6	ROOT	28906_6
+28906_6	has_surface_form	is
+28906_2	is_in_sentence	sentence_28906
+28906_2	punct	28906_1
+28906_2	has_surface_form	(
+28906_3	is_in_sentence	sentence_28906
+28906_3	acl	28906_1
+28906_3	has_surface_form	born
+28906_4	is_in_sentence	sentence_28906
+28906_4	npadvmod	28906_3
+28906_4	has_surface_form	1949
+28906_5	is_in_sentence	sentence_28906
+28906_5	punct	28906_1
+28906_5	has_surface_form	)
+28906_7	is_in_sentence	sentence_28906
+28906_7	det	28906_10
+28906_7	has_surface_form	an
+28906_10	is_in_sentence	sentence_28906
+28906_10	attr	28906_6
+28906_10	has_surface_form	singer
+28906_8	is_in_sentence	sentence_28906
+28906_8	amod	28906_10
+28906_8	is_entity	American
+American	surface_form	American
+28906_9	is_in_sentence	sentence_28906
+28906_9	compound	28906_10
+28906_9	has_surface_form	opera
+28906_11	is_in_sentence	sentence_28906
+28906_11	punct	28906_6
+28906_11	has_surface_form	.
+28906_12	is_in_sentence	sentence_28906
+28906_12	dep	28906_12
+28906_12	has_surface_form	
+Steven Cole	surface_form	Steven Cole
+Steven Cole	has-nationality	American

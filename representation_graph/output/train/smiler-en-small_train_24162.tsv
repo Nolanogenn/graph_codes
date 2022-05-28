@@ -1,0 +1,41 @@
+24161_0	is_in_sentence	sentence_24161
+24161_0	compound	24161_1
+24161_0	has_surface_form	Shriro
+24161_0	part_of_entity	Shriro Group
+24161_1	is_in_sentence	sentence_24161
+24161_1	nsubj	24161_2
+24161_1	has_surface_form	Group
+24161_1	part_of_entity	Shriro Group
+24161_2	is_in_sentence	sentence_24161
+24161_2	ROOT	24161_2
+24161_2	has_surface_form	is
+24161_3	is_in_sentence	sentence_24161
+24161_3	det	24161_5
+24161_3	has_surface_form	a
+24161_5	is_in_sentence	sentence_24161
+24161_5	attr	24161_2
+24161_5	is_entity	company
+24161_4	is_in_sentence	sentence_24161
+24161_4	amod	24161_5
+24161_4	has_surface_form	private
+company	surface_form	company
+24161_6	is_in_sentence	sentence_24161
+24161_6	acl	24161_5
+24161_6	has_surface_form	headquartered
+24161_7	is_in_sentence	sentence_24161
+24161_7	prep	24161_6
+24161_7	has_surface_form	in
+24161_8	is_in_sentence	sentence_24161
+24161_8	compound	24161_9
+24161_8	has_surface_form	Hong
+24161_9	is_in_sentence	sentence_24161
+24161_9	pobj	24161_7
+24161_9	has_surface_form	Kong
+24161_10	is_in_sentence	sentence_24161
+24161_10	punct	24161_2
+24161_10	has_surface_form	.
+24161_11	is_in_sentence	sentence_24161
+24161_11	dep	24161_2
+24161_11	has_surface_form	
+Shriro Group	surface_form	Shriro Group
+Shriro Group	has-type	company

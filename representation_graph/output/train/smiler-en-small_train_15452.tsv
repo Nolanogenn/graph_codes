@@ -1,0 +1,60 @@
+15451_0	is_in_sentence	sentence_15451
+15451_0	compound	15451_2
+15451_0	has_surface_form	Aberdeen
+15451_0	part_of_entity	Aberdeen Maternity Hospital
+15451_2	is_in_sentence	sentence_15451
+15451_2	nsubj	15451_6
+15451_2	has_surface_form	Hospital
+15451_2	part_of_entity	Aberdeen Maternity Hospital
+15451_1	is_in_sentence	sentence_15451
+15451_1	compound	15451_2
+15451_1	has_surface_form	Maternity
+15451_1	part_of_entity	Aberdeen Maternity Hospital
+15451_6	is_in_sentence	sentence_15451
+15451_6	ROOT	15451_6
+15451_6	has_surface_form	is
+15451_3	is_in_sentence	sentence_15451
+15451_3	punct	15451_2
+15451_3	has_surface_form	(
+15451_4	is_in_sentence	sentence_15451
+15451_4	appos	15451_2
+15451_4	has_surface_form	AMH
+15451_5	is_in_sentence	sentence_15451
+15451_5	punct	15451_2
+15451_5	has_surface_form	)
+15451_7	is_in_sentence	sentence_15451
+15451_7	det	15451_10
+15451_7	has_surface_form	a
+15451_10	is_in_sentence	sentence_15451
+15451_10	attr	15451_6
+15451_10	has_surface_form	hospital
+15451_10	part_of_entity	specialist maternity hospital
+15451_8	is_in_sentence	sentence_15451
+15451_8	amod	15451_9
+15451_8	has_surface_form	specialist
+15451_8	part_of_entity	specialist maternity hospital
+15451_9	is_in_sentence	sentence_15451
+15451_9	compound	15451_10
+15451_9	has_surface_form	maternity
+15451_9	part_of_entity	specialist maternity hospital
+15451_11	is_in_sentence	sentence_15451
+15451_11	prep	15451_10
+15451_11	has_surface_form	in
+15451_12	is_in_sentence	sentence_15451
+15451_12	pobj	15451_11
+15451_12	has_surface_form	Aberdeen
+15451_13	is_in_sentence	sentence_15451
+15451_13	punct	15451_12
+15451_13	has_surface_form	,
+15451_14	is_in_sentence	sentence_15451
+15451_14	appos	15451_12
+15451_14	has_surface_form	Scotland
+15451_15	is_in_sentence	sentence_15451
+15451_15	punct	15451_6
+15451_15	has_surface_form	.
+15451_16	is_in_sentence	sentence_15451
+15451_16	dep	15451_6
+15451_16	has_surface_form	
+Aberdeen Maternity Hospital	surface_form	Aberdeen Maternity Hospital
+Aberdeen Maternity Hospital	has-type	specialist maternity hospital
+specialist maternity hospital	surface_form	specialist maternity hospital

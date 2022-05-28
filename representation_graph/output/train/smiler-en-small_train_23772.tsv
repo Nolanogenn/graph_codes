@@ -1,0 +1,76 @@
+23771_0	is_in_sentence	sentence_23771
+23771_0	compound	23771_1
+23771_0	has_surface_form	Bruce
+23771_1	is_in_sentence	sentence_23771
+23771_1	compound	23771_4
+23771_1	has_surface_form	Liu
+23771_4	is_in_sentence	sentence_23771
+23771_4	nsubj	23771_14
+23771_4	has_surface_form	lee
+23771_2	is_in_sentence	sentence_23771
+23771_2	compound	23771_4
+23771_2	has_surface_form	Sing
+23771_3	is_in_sentence	sentence_23771
+23771_3	punct	23771_4
+23771_3	has_surface_form	-
+23771_14	is_in_sentence	sentence_23771
+23771_14	ROOT	23771_14
+23771_14	has_surface_form	is
+23771_5	is_in_sentence	sentence_23771
+23771_5	punct	23771_4
+23771_5	has_surface_form	(
+23771_6	is_in_sentence	sentence_23771
+23771_6	acl	23771_4
+23771_6	has_surface_form	born
+23771_7	is_in_sentence	sentence_23771
+23771_7	npadvmod	23771_6
+23771_7	has_surface_form	8
+23771_8	is_in_sentence	sentence_23771
+23771_8	npadvmod	23771_6
+23771_8	has_surface_form	October
+23771_9	is_in_sentence	sentence_23771
+23771_9	nummod	23771_8
+23771_9	has_surface_form	1958
+23771_10	is_in_sentence	sentence_23771
+23771_10	prep	23771_6
+23771_10	has_surface_form	in
+23771_11	is_in_sentence	sentence_23771
+23771_11	compound	23771_12
+23771_11	has_surface_form	Hong
+23771_11	part_of_entity	Hong Kong
+23771_12	is_in_sentence	sentence_23771
+23771_12	pobj	23771_10
+23771_12	has_surface_form	Kong
+23771_12	part_of_entity	Hong Kong
+23771_13	is_in_sentence	sentence_23771
+23771_13	punct	23771_4
+23771_13	has_surface_form	)
+23771_15	is_in_sentence	sentence_23771
+23771_15	det	23771_18
+23771_15	has_surface_form	a
+23771_18	is_in_sentence	sentence_23771
+23771_18	attr	23771_14
+23771_18	has_surface_form	solicitor
+23771_16	is_in_sentence	sentence_23771
+23771_16	compound	23771_17
+23771_16	has_surface_form	Hong
+23771_16	part_of_entity	Hong Kong
+23771_17	is_in_sentence	sentence_23771
+23771_17	compound	23771_18
+23771_17	has_surface_form	Kong
+23771_17	part_of_entity	Hong Kong
+23771_19	is_in_sentence	sentence_23771
+23771_19	cc	23771_18
+23771_19	has_surface_form	and
+23771_20	is_in_sentence	sentence_23771
+23771_20	conj	23771_18
+23771_20	has_surface_form	politician
+23771_21	is_in_sentence	sentence_23771
+23771_21	punct	23771_14
+23771_21	has_surface_form	.
+23771_22	is_in_sentence	sentence_23771
+23771_22	dep	23771_22
+23771_22	has_surface_form	
+Bruce Liu Sing-lee	surface_form	Bruce Liu Sing-lee
+Bruce Liu Sing-lee	birth-place	Hong Kong
+Hong Kong	surface_form	Hong Kong

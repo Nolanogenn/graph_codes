@@ -1,0 +1,56 @@
+22066_0	is_in_sentence	sentence_22066
+22066_0	compound	22066_1
+22066_0	has_surface_form	Dariusz
+22066_0	part_of_entity	Dariusz Góral
+22066_1	is_in_sentence	sentence_22066
+22066_1	nsubj	22066_11
+22066_1	has_surface_form	Góral
+22066_1	part_of_entity	Dariusz Góral
+22066_11	is_in_sentence	sentence_22066
+22066_11	ROOT	22066_11
+22066_11	has_surface_form	is
+22066_2	is_in_sentence	sentence_22066
+22066_2	punct	22066_1
+22066_2	has_surface_form	(
+22066_3	is_in_sentence	sentence_22066
+22066_3	acl	22066_1
+22066_3	has_surface_form	born
+22066_4	is_in_sentence	sentence_22066
+22066_4	npadvmod	22066_3
+22066_4	has_surface_form	April
+22066_5	is_in_sentence	sentence_22066
+22066_5	nummod	22066_4
+22066_5	has_surface_form	20
+22066_6	is_in_sentence	sentence_22066
+22066_6	punct	22066_4
+22066_6	has_surface_form	,
+22066_7	is_in_sentence	sentence_22066
+22066_7	nummod	22066_4
+22066_7	has_surface_form	1991
+22066_8	is_in_sentence	sentence_22066
+22066_8	prep	22066_3
+22066_8	has_surface_form	in
+22066_9	is_in_sentence	sentence_22066
+22066_9	pobj	22066_8
+22066_9	is_entity	Wrocław
+Wrocław	surface_form	Wrocław
+22066_10	is_in_sentence	sentence_22066
+22066_10	punct	22066_1
+22066_10	has_surface_form	)
+22066_12	is_in_sentence	sentence_22066
+22066_12	det	22066_14
+22066_12	has_surface_form	a
+22066_14	is_in_sentence	sentence_22066
+22066_14	attr	22066_11
+22066_14	has_surface_form	footballer
+22066_13	is_in_sentence	sentence_22066
+22066_13	amod	22066_14
+22066_13	has_surface_form	Polish
+22066_15	is_in_sentence	sentence_22066
+22066_15	punct	22066_11
+22066_15	has_surface_form	.
+22066_16	is_in_sentence	sentence_22066
+22066_16	dep	22066_16
+22066_16	has_surface_form	
+Dariusz Góral	surface_form	Dariusz Góral
+Dariusz Góral	birth-place	Wrocław

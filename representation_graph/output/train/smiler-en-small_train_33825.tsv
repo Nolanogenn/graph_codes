@@ -1,0 +1,69 @@
+33824_0	is_in_sentence	sentence_33824
+33824_0	det	33824_2
+33824_0	has_surface_form	A
+33824_0	part_of_entity	A Family Thing
+33824_2	is_in_sentence	sentence_33824
+33824_2	nsubj	33824_3
+33824_2	has_surface_form	Thing
+33824_2	part_of_entity	A Family Thing
+33824_1	is_in_sentence	sentence_33824
+33824_1	compound	33824_2
+33824_1	has_surface_form	Family
+33824_1	part_of_entity	A Family Thing
+33824_3	is_in_sentence	sentence_33824
+33824_3	ROOT	33824_3
+33824_3	has_surface_form	is
+33824_4	is_in_sentence	sentence_33824
+33824_4	det	33824_6
+33824_4	has_surface_form	a
+33824_6	is_in_sentence	sentence_33824
+33824_6	attr	33824_3
+33824_6	has_surface_form	film
+33824_5	is_in_sentence	sentence_33824
+33824_5	nummod	33824_6
+33824_5	has_surface_form	1996
+33824_7	is_in_sentence	sentence_33824
+33824_7	acl	33824_6
+33824_7	has_surface_form	starring
+33824_8	is_in_sentence	sentence_33824
+33824_8	compound	33824_9
+33824_8	has_surface_form	Robert
+33824_9	is_in_sentence	sentence_33824
+33824_9	dobj	33824_7
+33824_9	has_surface_form	Duvall
+33824_10	is_in_sentence	sentence_33824
+33824_10	punct	33824_9
+33824_10	has_surface_form	,
+33824_11	is_in_sentence	sentence_33824
+33824_11	compound	33824_13
+33824_11	has_surface_form	James
+33824_13	is_in_sentence	sentence_33824
+33824_13	conj	33824_9
+33824_13	has_surface_form	Jones
+33824_12	is_in_sentence	sentence_33824
+33824_12	compound	33824_13
+33824_12	has_surface_form	Earl
+33824_14	is_in_sentence	sentence_33824
+33824_14	cc	33824_13
+33824_14	has_surface_form	and
+33824_15	is_in_sentence	sentence_33824
+33824_15	compound	33824_17
+33824_15	has_surface_form	Irma
+33824_15	part_of_entity	Irma P. Hall
+33824_17	is_in_sentence	sentence_33824
+33824_17	conj	33824_13
+33824_17	has_surface_form	Hall
+33824_17	part_of_entity	Irma P. Hall
+33824_16	is_in_sentence	sentence_33824
+33824_16	compound	33824_17
+33824_16	has_surface_form	P.
+33824_16	part_of_entity	Irma P. Hall
+33824_18	is_in_sentence	sentence_33824
+33824_18	punct	33824_3
+33824_18	has_surface_form	.
+33824_19	is_in_sentence	sentence_33824
+33824_19	dep	33824_3
+33824_19	has_surface_form	
+A Family Thing	surface_form	A Family Thing
+A Family Thing	starring	Irma P. Hall
+Irma P. Hall	surface_form	Irma P. Hall

@@ -1,0 +1,80 @@
+23531_0	is_in_sentence	sentence_23531
+23531_0	compound	23531_2
+23531_0	has_surface_form	Marine
+23531_0	part_of_entity	Marine Fighter Attack Squadron 134
+23531_2	is_in_sentence	sentence_23531
+23531_2	compound	23531_3
+23531_2	has_surface_form	Attack
+23531_2	part_of_entity	Marine Fighter Attack Squadron 134
+23531_1	is_in_sentence	sentence_23531
+23531_1	compound	23531_2
+23531_1	has_surface_form	Fighter
+23531_1	part_of_entity	Marine Fighter Attack Squadron 134
+23531_3	is_in_sentence	sentence_23531
+23531_3	nsubj	23531_8
+23531_3	has_surface_form	Squadron
+23531_3	part_of_entity	Marine Fighter Attack Squadron 134
+23531_8	is_in_sentence	sentence_23531
+23531_8	ROOT	23531_8
+23531_8	has_surface_form	was
+23531_4	is_in_sentence	sentence_23531
+23531_4	nummod	23531_3
+23531_4	has_surface_form	134
+23531_4	part_of_entity	Marine Fighter Attack Squadron 134
+23531_5	is_in_sentence	sentence_23531
+23531_5	punct	23531_3
+23531_5	has_surface_form	(
+23531_6	is_in_sentence	sentence_23531
+23531_6	appos	23531_3
+23531_6	has_surface_form	VMFA-134
+23531_7	is_in_sentence	sentence_23531
+23531_7	punct	23531_3
+23531_7	has_surface_form	)
+23531_9	is_in_sentence	sentence_23531
+23531_9	det	23531_15
+23531_9	has_surface_form	a
+23531_15	is_in_sentence	sentence_23531
+23531_15	attr	23531_8
+23531_15	is_entity	squadron
+23531_10	is_in_sentence	sentence_23531
+23531_10	nmod	23531_15
+23531_10	has_surface_form	reserve
+23531_11	is_in_sentence	sentence_23531
+23531_11	nmod	23531_13
+23531_11	has_surface_form	F
+23531_13	is_in_sentence	sentence_23531
+23531_13	nmod	23531_15
+23531_13	has_surface_form	A-18
+23531_12	is_in_sentence	sentence_23531
+23531_12	punct	23531_13
+23531_12	has_surface_form	/
+23531_14	is_in_sentence	sentence_23531
+23531_14	compound	23531_15
+23531_14	has_surface_form	Hornet
+squadron	surface_form	squadron
+23531_16	is_in_sentence	sentence_23531
+23531_16	prep	23531_15
+23531_16	has_surface_form	in
+23531_17	is_in_sentence	sentence_23531
+23531_17	det	23531_21
+23531_17	has_surface_form	the
+23531_21	is_in_sentence	sentence_23531
+23531_21	pobj	23531_16
+23531_21	has_surface_form	Corps
+23531_18	is_in_sentence	sentence_23531
+23531_18	compound	23531_19
+23531_18	has_surface_form	United
+23531_19	is_in_sentence	sentence_23531
+23531_19	compound	23531_21
+23531_19	has_surface_form	States
+23531_20	is_in_sentence	sentence_23531
+23531_20	compound	23531_21
+23531_20	has_surface_form	Marine
+23531_22	is_in_sentence	sentence_23531
+23531_22	punct	23531_8
+23531_22	has_surface_form	.
+23531_23	is_in_sentence	sentence_23531
+23531_23	dep	23531_23
+23531_23	has_surface_form	
+Marine Fighter Attack Squadron 134	surface_form	Marine Fighter Attack Squadron 134
+Marine Fighter Attack Squadron 134	has-type	squadron

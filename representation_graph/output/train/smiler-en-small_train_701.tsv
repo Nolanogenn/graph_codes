@@ -1,0 +1,69 @@
+700_0	is_in_sentence	sentence_700
+700_0	det	700_1
+700_0	has_surface_form	The
+700_0	part_of_entity	The Beggar of Cawnpore
+700_1	is_in_sentence	sentence_700
+700_1	nsubj	700_4
+700_1	has_surface_form	Beggar
+700_1	part_of_entity	The Beggar of Cawnpore
+700_4	is_in_sentence	sentence_700
+700_4	ROOT	700_4
+700_4	has_surface_form	is
+700_2	is_in_sentence	sentence_700
+700_2	prep	700_1
+700_2	has_surface_form	of
+700_2	part_of_entity	The Beggar of Cawnpore
+700_3	is_in_sentence	sentence_700
+700_3	pobj	700_2
+700_3	has_surface_form	Cawnpore
+700_3	part_of_entity	The Beggar of Cawnpore
+700_5	is_in_sentence	sentence_700
+700_5	det	700_11
+700_5	has_surface_form	a
+700_11	is_in_sentence	sentence_700
+700_11	attr	700_4
+700_11	has_surface_form	film
+700_6	is_in_sentence	sentence_700
+700_6	nummod	700_11
+700_6	has_surface_form	1916
+700_7	is_in_sentence	sentence_700
+700_7	amod	700_11
+700_7	has_surface_form	American
+700_8	is_in_sentence	sentence_700
+700_8	amod	700_11
+700_8	has_surface_form	silent
+700_9	is_in_sentence	sentence_700
+700_9	amod	700_11
+700_9	has_surface_form	historical
+700_10	is_in_sentence	sentence_700
+700_10	compound	700_11
+700_10	has_surface_form	drama
+700_12	is_in_sentence	sentence_700
+700_12	acl	700_11
+700_12	has_surface_form	directed
+700_13	is_in_sentence	sentence_700
+700_13	agent	700_12
+700_13	has_surface_form	by
+700_14	is_in_sentence	sentence_700
+700_14	compound	700_15
+700_14	has_surface_form	Charles
+700_14	part_of_entity	Charles Swickard
+700_15	is_in_sentence	sentence_700
+700_15	pobj	700_13
+700_15	has_surface_form	Swickard
+700_15	part_of_entity	Charles Swickard
+700_16	is_in_sentence	sentence_700
+700_16	cc	700_12
+700_16	has_surface_form	and
+700_17	is_in_sentence	sentence_700
+700_17	conj	700_12
+700_17	has_surface_form	starring
+700_18	is_in_sentence	sentence_700
+700_18	compound	700_19
+700_18	has_surface_form	H.
+700_19	is_in_sentence	sentence_700
+700_19	dep	700_17
+700_19	has_surface_form	
+The Beggar of Cawnpore	surface_form	The Beggar of Cawnpore
+The Beggar of Cawnpore	movie-has-director	Charles Swickard
+Charles Swickard	surface_form	Charles Swickard

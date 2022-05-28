@@ -1,0 +1,75 @@
+30570_0	is_in_sentence	sentence_30570
+30570_0	compound	30570_1
+30570_0	has_surface_form	Richard
+30570_0	part_of_entity	Richard Shore Smith
+30570_1	is_in_sentence	sentence_30570
+30570_1	compound	30570_2
+30570_1	has_surface_form	Shore
+30570_1	part_of_entity	Richard Shore Smith
+30570_2	is_in_sentence	sentence_30570
+30570_2	nsubj	30570_14
+30570_2	has_surface_form	Smith
+30570_2	part_of_entity	Richard Shore Smith
+30570_14	is_in_sentence	sentence_30570
+30570_14	ROOT	30570_14
+30570_14	has_surface_form	was
+30570_3	is_in_sentence	sentence_30570
+30570_3	punct	30570_2
+30570_3	has_surface_form	(
+30570_4	is_in_sentence	sentence_30570
+30570_4	appos	30570_2
+30570_4	has_surface_form	December
+30570_5	is_in_sentence	sentence_30570
+30570_5	nummod	30570_4
+30570_5	has_surface_form	11
+30570_6	is_in_sentence	sentence_30570
+30570_6	punct	30570_4
+30570_6	has_surface_form	,
+30570_7	is_in_sentence	sentence_30570
+30570_7	appos	30570_4
+30570_7	has_surface_form	1877
+30570_8	is_in_sentence	sentence_30570
+30570_8	punct	30570_2
+30570_8	has_surface_form	–
+30570_9	is_in_sentence	sentence_30570
+30570_9	appos	30570_2
+30570_9	has_surface_form	May
+30570_10	is_in_sentence	sentence_30570
+30570_10	nummod	30570_9
+30570_10	has_surface_form	19
+30570_11	is_in_sentence	sentence_30570
+30570_11	punct	30570_9
+30570_11	has_surface_form	,
+30570_12	is_in_sentence	sentence_30570
+30570_12	nummod	30570_9
+30570_12	has_surface_form	1953
+30570_13	is_in_sentence	sentence_30570
+30570_13	punct	30570_9
+30570_13	has_surface_form	)
+30570_15	is_in_sentence	sentence_30570
+30570_15	det	30570_18
+30570_15	has_surface_form	an
+30570_18	is_in_sentence	sentence_30570
+30570_18	attr	30570_14
+30570_18	has_surface_form	player
+30570_16	is_in_sentence	sentence_30570
+30570_16	amod	30570_18
+30570_16	has_surface_form	American
+30570_17	is_in_sentence	sentence_30570
+30570_17	compound	30570_18
+30570_17	has_surface_form	football
+30570_19	is_in_sentence	sentence_30570
+30570_19	cc	30570_18
+30570_19	has_surface_form	and
+30570_20	is_in_sentence	sentence_30570
+30570_20	conj	30570_18
+30570_20	is_entity	coach
+coach	surface_form	coach
+30570_21	is_in_sentence	sentence_30570
+30570_21	punct	30570_14
+30570_21	has_surface_form	.
+30570_22	is_in_sentence	sentence_30570
+30570_22	dep	30570_22
+30570_22	has_surface_form	
+Richard Shore Smith	surface_form	Richard Shore Smith
+Richard Shore Smith	has-type	coach

@@ -1,0 +1,37 @@
+27119_0	is_in_sentence	sentence_27119
+27119_0	det	27119_2
+27119_0	has_surface_form	The
+27119_2	is_in_sentence	sentence_27119
+27119_2	nsubj	27119_3
+27119_2	has_surface_form	Backup
+27119_2	part_of_entity	AMT Backup
+27119_1	is_in_sentence	sentence_27119
+27119_1	compound	27119_2
+27119_1	has_surface_form	AMT
+27119_1	part_of_entity	AMT Backup
+27119_3	is_in_sentence	sentence_27119
+27119_3	ROOT	27119_3
+27119_3	has_surface_form	is
+27119_4	is_in_sentence	sentence_27119
+27119_4	det	27119_7
+27119_4	has_surface_form	a
+27119_7	is_in_sentence	sentence_27119
+27119_7	attr	27119_3
+27119_7	has_surface_form	pistol
+27119_7	part_of_entity	semiautomatic pistol
+27119_5	is_in_sentence	sentence_27119
+27119_5	amod	27119_7
+27119_5	has_surface_form	small
+27119_6	is_in_sentence	sentence_27119
+27119_6	amod	27119_7
+27119_6	has_surface_form	semiautomatic
+27119_6	part_of_entity	semiautomatic pistol
+27119_8	is_in_sentence	sentence_27119
+27119_8	punct	27119_3
+27119_8	has_surface_form	.
+27119_9	is_in_sentence	sentence_27119
+27119_9	dep	27119_9
+27119_9	has_surface_form	
+AMT Backup	surface_form	AMT Backup
+AMT Backup	has-type	semiautomatic pistol
+semiautomatic pistol	surface_form	semiautomatic pistol

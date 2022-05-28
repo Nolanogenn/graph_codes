@@ -1,0 +1,44 @@
+16188_0	is_in_sentence	sentence_16188
+16188_0	compound	16188_1
+16188_0	has_surface_form	Bob
+16188_0	part_of_entity	Bob Sedergreen
+16188_1	is_in_sentence	sentence_16188
+16188_1	nsubj	16188_6
+16188_1	has_surface_form	Sedergreen
+16188_1	part_of_entity	Bob Sedergreen
+16188_6	is_in_sentence	sentence_16188
+16188_6	ROOT	16188_6
+16188_6	has_surface_form	is
+16188_2	is_in_sentence	sentence_16188
+16188_2	punct	16188_1
+16188_2	has_surface_form	(
+16188_3	is_in_sentence	sentence_16188
+16188_3	acl	16188_1
+16188_3	has_surface_form	born
+16188_4	is_in_sentence	sentence_16188
+16188_4	npadvmod	16188_3
+16188_4	has_surface_form	1943
+16188_5	is_in_sentence	sentence_16188
+16188_5	punct	16188_1
+16188_5	has_surface_form	)
+16188_7	is_in_sentence	sentence_16188
+16188_7	det	16188_10
+16188_7	has_surface_form	an
+16188_10	is_in_sentence	sentence_16188
+16188_10	attr	16188_6
+16188_10	has_surface_form	pianist
+16188_8	is_in_sentence	sentence_16188
+16188_8	amod	16188_10
+16188_8	has_surface_form	Australian
+16188_9	is_in_sentence	sentence_16188
+16188_9	compound	16188_10
+16188_9	is_entity	jazz
+jazz	surface_form	jazz
+16188_11	is_in_sentence	sentence_16188
+16188_11	punct	16188_6
+16188_11	has_surface_form	.
+16188_12	is_in_sentence	sentence_16188
+16188_12	dep	16188_6
+16188_12	has_surface_form	
+Bob Sedergreen	surface_form	Bob Sedergreen
+Bob Sedergreen	has-genre	jazz

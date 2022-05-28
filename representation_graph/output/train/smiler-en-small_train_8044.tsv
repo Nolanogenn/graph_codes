@@ -1,0 +1,59 @@
+8043_0	is_in_sentence	sentence_8043
+8043_0	compound	8043_1
+8043_0	has_surface_form	Helena
+8043_0	part_of_entity	Helena College University of Montana
+8043_1	is_in_sentence	sentence_8043
+8043_1	compound	8043_2
+8043_1	has_surface_form	College
+8043_1	part_of_entity	Helena College University of Montana
+8043_2	is_in_sentence	sentence_8043
+8043_2	nsubj	8043_5
+8043_2	has_surface_form	University
+8043_2	part_of_entity	Helena College University of Montana
+8043_5	is_in_sentence	sentence_8043
+8043_5	ROOT	8043_5
+8043_5	has_surface_form	is
+8043_3	is_in_sentence	sentence_8043
+8043_3	prep	8043_2
+8043_3	has_surface_form	of
+8043_3	part_of_entity	Helena College University of Montana
+8043_4	is_in_sentence	sentence_8043
+8043_4	pobj	8043_3
+8043_4	has_surface_form	Montana
+8043_4	part_of_entity	Helena College University of Montana
+8043_6	is_in_sentence	sentence_8043
+8043_6	det	8043_10
+8043_6	has_surface_form	a
+8043_10	is_in_sentence	sentence_8043
+8043_10	attr	8043_5
+8043_10	has_surface_form	college
+8043_7	is_in_sentence	sentence_8043
+8043_7	nummod	8043_9
+8043_7	has_surface_form	two
+8043_9	is_in_sentence	sentence_8043
+8043_9	compound	8043_10
+8043_9	has_surface_form	year
+8043_8	is_in_sentence	sentence_8043
+8043_8	punct	8043_9
+8043_8	has_surface_form	-
+8043_11	is_in_sentence	sentence_8043
+8043_11	prep	8043_10
+8043_11	has_surface_form	in
+8043_12	is_in_sentence	sentence_8043
+8043_12	pobj	8043_11
+8043_12	has_surface_form	Helena
+8043_13	is_in_sentence	sentence_8043
+8043_13	punct	8043_12
+8043_13	has_surface_form	,
+8043_14	is_in_sentence	sentence_8043
+8043_14	appos	8043_12
+8043_14	has_surface_form	Montana
+8043_15	is_in_sentence	sentence_8043
+8043_15	punct	8043_5
+8043_15	has_surface_form	.
+8043_16	is_in_sentence	sentence_8043
+8043_16	dep	8043_16
+8043_16	has_surface_form	
+Helena College University of Montana	surface_form	Helena College University of Montana
+Helena College University of Montana	is-where	Helena, Montana
+Helena, Montana	surface_form	Helena, Montana

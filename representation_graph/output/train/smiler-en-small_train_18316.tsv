@@ -1,0 +1,45 @@
+18315_0	is_in_sentence	sentence_18315
+18315_0	compound	18315_1
+18315_0	has_surface_form	Features
+18315_1	is_in_sentence	sentence_18315
+18315_1	ROOT	18315_1
+18315_1	has_surface_form	HD
+18315_2	is_in_sentence	sentence_18315
+18315_2	cc	18315_1
+18315_2	has_surface_form	or
+18315_3	is_in_sentence	sentence_18315
+18315_3	compound	18315_5
+18315_3	has_surface_form	FHD
+18315_5	is_in_sentence	sentence_18315
+18315_5	conj	18315_1
+18315_5	has_surface_form	display
+18315_4	is_in_sentence	sentence_18315
+18315_4	compound	18315_5
+18315_4	has_surface_form	matte
+18315_6	is_in_sentence	sentence_18315
+18315_6	case	18315_5
+18315_6	has_surface_form	's
+18315_7	is_in_sentence	sentence_18315
+18315_7	cc	18315_5
+18315_7	has_surface_form	or
+18315_8	is_in_sentence	sentence_18315
+18315_8	compound	18315_9
+18315_8	has_surface_form	QHD
+18315_8	part_of_entity	QHD touch display
+18315_9	is_in_sentence	sentence_18315
+18315_9	compound	18315_10
+18315_9	has_surface_form	touch
+18315_9	part_of_entity	QHD touch display
+18315_10	is_in_sentence	sentence_18315
+18315_10	conj	18315_1
+18315_10	has_surface_form	display
+18315_10	part_of_entity	QHD touch display
+18315_11	is_in_sentence	sentence_18315
+18315_11	punct	18315_1
+18315_11	has_surface_form	.
+18315_12	is_in_sentence	sentence_18315
+18315_12	dep	18315_12
+18315_12	has_surface_form	
+FHD matte display's	surface_form	FHD matte display's
+FHD matte display's	no_relation	QHD touch display
+QHD touch display	surface_form	QHD touch display

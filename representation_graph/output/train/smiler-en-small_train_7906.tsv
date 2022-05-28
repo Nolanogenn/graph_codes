@@ -1,0 +1,91 @@
+7905_0	is_in_sentence	sentence_7905
+7905_0	compound	7905_1
+7905_0	has_surface_form	Aditya
+7905_0	part_of_entity	Aditya Pancholi
+7905_1	is_in_sentence	sentence_7905
+7905_1	nsubj	7905_11
+7905_1	has_surface_form	Pancholi
+7905_1	part_of_entity	Aditya Pancholi
+7905_11	is_in_sentence	sentence_7905
+7905_11	ROOT	7905_11
+7905_11	has_surface_form	is
+7905_2	is_in_sentence	sentence_7905
+7905_2	punct	7905_3
+7905_2	has_surface_form	(
+7905_3	is_in_sentence	sentence_7905
+7905_3	parataxis	7905_1
+7905_3	has_surface_form	born
+7905_4	is_in_sentence	sentence_7905
+7905_4	compound	7905_5
+7905_4	has_surface_form	Nirmal
+7905_5	is_in_sentence	sentence_7905
+7905_5	dobj	7905_3
+7905_5	has_surface_form	Pancholi
+7905_6	is_in_sentence	sentence_7905
+7905_6	punct	7905_5
+7905_6	has_surface_form	,
+7905_7	is_in_sentence	sentence_7905
+7905_7	nummod	7905_8
+7905_7	has_surface_form	4
+7905_8	is_in_sentence	sentence_7905
+7905_8	npadvmod	7905_3
+7905_8	has_surface_form	January
+7905_9	is_in_sentence	sentence_7905
+7905_9	nummod	7905_8
+7905_9	has_surface_form	1965
+7905_10	is_in_sentence	sentence_7905
+7905_10	punct	7905_3
+7905_10	has_surface_form	)
+7905_12	is_in_sentence	sentence_7905
+7905_12	det	7905_15
+7905_12	has_surface_form	an
+7905_15	is_in_sentence	sentence_7905
+7905_15	attr	7905_11
+7905_15	has_surface_form	actor
+7905_13	is_in_sentence	sentence_7905
+7905_13	amod	7905_15
+7905_13	has_surface_form	Indian
+7905_14	is_in_sentence	sentence_7905
+7905_14	compound	7905_15
+7905_14	has_surface_form	film
+7905_16	is_in_sentence	sentence_7905
+7905_16	punct	7905_15
+7905_16	has_surface_form	,
+7905_17	is_in_sentence	sentence_7905
+7905_17	conj	7905_15
+7905_17	has_surface_form	producer
+7905_18	is_in_sentence	sentence_7905
+7905_18	cc	7905_17
+7905_18	has_surface_form	and
+7905_19	is_in_sentence	sentence_7905
+7905_19	compound	7905_20
+7905_19	has_surface_form	playback
+7905_19	part_of_entity	playback singer
+7905_20	is_in_sentence	sentence_7905
+7905_20	conj	7905_17
+7905_20	has_surface_form	singer
+7905_20	part_of_entity	playback singer
+7905_21	is_in_sentence	sentence_7905
+7905_21	nsubj	7905_22
+7905_21	has_surface_form	who
+7905_22	is_in_sentence	sentence_7905
+7905_22	relcl	7905_15
+7905_22	has_surface_form	appears
+7905_23	is_in_sentence	sentence_7905
+7905_23	prep	7905_22
+7905_23	has_surface_form	in
+7905_24	is_in_sentence	sentence_7905
+7905_24	compound	7905_25
+7905_24	has_surface_form	Bollywood
+7905_25	is_in_sentence	sentence_7905
+7905_25	pobj	7905_23
+7905_25	has_surface_form	films
+7905_26	is_in_sentence	sentence_7905
+7905_26	punct	7905_11
+7905_26	has_surface_form	.
+7905_27	is_in_sentence	sentence_7905
+7905_27	dep	7905_11
+7905_27	has_surface_form	
+Aditya Pancholi	surface_form	Aditya Pancholi
+Aditya Pancholi	has-occupation	playback singer
+playback singer	surface_form	playback singer

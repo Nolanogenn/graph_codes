@@ -1,0 +1,32 @@
+5784_0	is_in_sentence	sentence_5784
+5784_0	compound	5784_1
+5784_0	has_surface_form	Varun
+5784_0	part_of_entity	Varun Khandelwal
+5784_1	is_in_sentence	sentence_5784
+5784_1	nsubj	5784_2
+5784_1	has_surface_form	Khandelwal
+5784_1	part_of_entity	Varun Khandelwal
+5784_2	is_in_sentence	sentence_5784
+5784_2	ROOT	5784_2
+5784_2	has_surface_form	is
+5784_3	is_in_sentence	sentence_5784
+5784_3	det	5784_6
+5784_3	has_surface_form	an
+5784_6	is_in_sentence	sentence_5784
+5784_6	attr	5784_2
+5784_6	is_entity	actor
+5784_4	is_in_sentence	sentence_5784
+5784_4	amod	5784_6
+5784_4	has_surface_form	Indian
+5784_5	is_in_sentence	sentence_5784
+5784_5	compound	5784_6
+5784_5	has_surface_form	television
+actor	surface_form	actor
+5784_7	is_in_sentence	sentence_5784
+5784_7	punct	5784_2
+5784_7	has_surface_form	.
+5784_8	is_in_sentence	sentence_5784
+5784_8	dep	5784_8
+5784_8	has_surface_form	
+Varun Khandelwal	surface_form	Varun Khandelwal
+Varun Khandelwal	has-occupation	actor

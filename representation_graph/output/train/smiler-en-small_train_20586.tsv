@@ -1,0 +1,50 @@
+20585_0	is_in_sentence	sentence_20585
+20585_0	det	20585_2
+20585_0	has_surface_form	The
+20585_0	part_of_entity	The Autism Directory
+20585_2	is_in_sentence	sentence_20585
+20585_2	nsubj	20585_3
+20585_2	has_surface_form	Directory
+20585_2	part_of_entity	The Autism Directory
+20585_1	is_in_sentence	sentence_20585
+20585_1	compound	20585_2
+20585_1	has_surface_form	Autism
+20585_1	part_of_entity	The Autism Directory
+20585_3	is_in_sentence	sentence_20585
+20585_3	ROOT	20585_3
+20585_3	has_surface_form	is
+20585_4	is_in_sentence	sentence_20585
+20585_4	det	20585_6
+20585_4	has_surface_form	a
+20585_6	is_in_sentence	sentence_20585
+20585_6	attr	20585_3
+20585_6	has_surface_form	organisation
+20585_6	part_of_entity	charitable organisation
+20585_5	is_in_sentence	sentence_20585
+20585_5	amod	20585_6
+20585_5	has_surface_form	charitable
+20585_5	part_of_entity	charitable organisation
+20585_7	is_in_sentence	sentence_20585
+20585_7	acl	20585_6
+20585_7	has_surface_form	based
+20585_8	is_in_sentence	sentence_20585
+20585_8	prep	20585_7
+20585_8	has_surface_form	in
+20585_9	is_in_sentence	sentence_20585
+20585_9	det	20585_11
+20585_9	has_surface_form	the
+20585_11	is_in_sentence	sentence_20585
+20585_11	pobj	20585_8
+20585_11	has_surface_form	Kingdom
+20585_10	is_in_sentence	sentence_20585
+20585_10	compound	20585_11
+20585_10	has_surface_form	United
+20585_12	is_in_sentence	sentence_20585
+20585_12	punct	20585_3
+20585_12	has_surface_form	.
+20585_13	is_in_sentence	sentence_20585
+20585_13	dep	20585_3
+20585_13	has_surface_form	
+The Autism Directory	surface_form	The Autism Directory
+The Autism Directory	has-type	charitable organisation
+charitable organisation	surface_form	charitable organisation

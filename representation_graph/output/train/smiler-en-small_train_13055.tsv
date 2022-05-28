@@ -1,0 +1,64 @@
+13054_0	is_in_sentence	sentence_13054
+13054_0	compound	13054_1
+13054_0	has_surface_form	Coten
+13054_0	part_of_entity	Coten End Primary School
+13054_1	is_in_sentence	sentence_13054
+13054_1	compound	13054_3
+13054_1	has_surface_form	End
+13054_1	part_of_entity	Coten End Primary School
+13054_3	is_in_sentence	sentence_13054
+13054_3	nsubj	13054_4
+13054_3	has_surface_form	School
+13054_3	part_of_entity	Coten End Primary School
+13054_2	is_in_sentence	sentence_13054
+13054_2	compound	13054_3
+13054_2	has_surface_form	Primary
+13054_2	part_of_entity	Coten End Primary School
+13054_4	is_in_sentence	sentence_13054
+13054_4	ROOT	13054_4
+13054_4	has_surface_form	is
+13054_5	is_in_sentence	sentence_13054
+13054_5	det	13054_8
+13054_5	has_surface_form	the
+13054_8	is_in_sentence	sentence_13054
+13054_8	attr	13054_4
+13054_8	has_surface_form	school
+13054_6	is_in_sentence	sentence_13054
+13054_6	amod	13054_8
+13054_6	has_surface_form	largest
+13054_7	is_in_sentence	sentence_13054
+13054_7	amod	13054_8
+13054_7	has_surface_form	primary
+13054_9	is_in_sentence	sentence_13054
+13054_9	prep	13054_8
+13054_9	has_surface_form	in
+13054_10	is_in_sentence	sentence_13054
+13054_10	pobj	13054_9
+13054_10	is_entity	Warwick
+Warwick	surface_form	Warwick
+13054_11	is_in_sentence	sentence_13054
+13054_11	punct	13054_8
+13054_11	has_surface_form	,
+13054_12	is_in_sentence	sentence_13054
+13054_12	conj	13054_8
+13054_12	has_surface_form	Warwickshire
+13054_13	is_in_sentence	sentence_13054
+13054_13	prep	13054_12
+13054_13	has_surface_form	with
+13054_14	is_in_sentence	sentence_13054
+13054_14	nummod	13054_15
+13054_14	has_surface_form	436
+13054_15	is_in_sentence	sentence_13054
+13054_15	pobj	13054_13
+13054_15	has_surface_form	children
+13054_16	is_in_sentence	sentence_13054
+13054_16	relcl	13054_8
+13054_16	has_surface_form	enrolled
+13054_17	is_in_sentence	sentence_13054
+13054_17	punct	13054_4
+13054_17	has_surface_form	.
+13054_18	is_in_sentence	sentence_13054
+13054_18	dep	13054_18
+13054_18	has_surface_form	
+Coten End Primary School	surface_form	Coten End Primary School
+Coten End Primary School	is-where	Warwick

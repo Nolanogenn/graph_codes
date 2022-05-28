@@ -1,0 +1,79 @@
+31376_0	is_in_sentence	sentence_31376
+31376_0	det	31376_2
+31376_0	has_surface_form	The
+31376_2	is_in_sentence	sentence_31376
+31376_2	nsubj	31376_8
+31376_2	has_surface_form	Department
+31376_2	part_of_entity	Colorado Department of Education
+31376_1	is_in_sentence	sentence_31376
+31376_1	compound	31376_2
+31376_1	has_surface_form	Colorado
+31376_1	part_of_entity	Colorado Department of Education
+31376_8	is_in_sentence	sentence_31376
+31376_8	ROOT	31376_8
+31376_8	has_surface_form	is
+31376_3	is_in_sentence	sentence_31376
+31376_3	prep	31376_2
+31376_3	has_surface_form	of
+31376_3	part_of_entity	Colorado Department of Education
+31376_4	is_in_sentence	sentence_31376
+31376_4	pobj	31376_3
+31376_4	has_surface_form	Education
+31376_4	part_of_entity	Colorado Department of Education
+31376_5	is_in_sentence	sentence_31376
+31376_5	punct	31376_2
+31376_5	has_surface_form	(
+31376_6	is_in_sentence	sentence_31376
+31376_6	appos	31376_2
+31376_6	has_surface_form	CDE
+31376_7	is_in_sentence	sentence_31376
+31376_7	punct	31376_2
+31376_7	has_surface_form	)
+31376_9	is_in_sentence	sentence_31376
+31376_9	det	31376_11
+31376_9	has_surface_form	the
+31376_11	is_in_sentence	sentence_31376
+31376_11	attr	31376_8
+31376_11	is_entity	department
+31376_10	is_in_sentence	sentence_31376
+31376_10	amod	31376_11
+31376_10	has_surface_form	principal
+department	surface_form	department
+31376_12	is_in_sentence	sentence_31376
+31376_12	prep	31376_11
+31376_12	has_surface_form	of
+31376_13	is_in_sentence	sentence_31376
+31376_13	det	31376_16
+31376_13	has_surface_form	the
+31376_16	is_in_sentence	sentence_31376
+31376_16	pobj	31376_12
+31376_16	has_surface_form	government
+31376_14	is_in_sentence	sentence_31376
+31376_14	compound	31376_16
+31376_14	has_surface_form	Colorado
+31376_15	is_in_sentence	sentence_31376
+31376_15	compound	31376_16
+31376_15	has_surface_form	state
+31376_17	is_in_sentence	sentence_31376
+31376_17	nsubj	31376_18
+31376_17	has_surface_form	that
+31376_18	is_in_sentence	sentence_31376
+31376_18	relcl	31376_11
+31376_18	has_surface_form	is
+31376_19	is_in_sentence	sentence_31376
+31376_19	acomp	31376_18
+31376_19	has_surface_form	responsible
+31376_20	is_in_sentence	sentence_31376
+31376_20	prep	31376_19
+31376_20	has_surface_form	for
+31376_21	is_in_sentence	sentence_31376
+31376_21	pobj	31376_20
+31376_21	has_surface_form	education
+31376_22	is_in_sentence	sentence_31376
+31376_22	punct	31376_8
+31376_22	has_surface_form	.
+31376_23	is_in_sentence	sentence_31376
+31376_23	dep	31376_23
+31376_23	has_surface_form	
+Colorado Department of Education	surface_form	Colorado Department of Education
+Colorado Department of Education	has-type	department

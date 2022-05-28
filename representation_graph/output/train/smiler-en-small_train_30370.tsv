@@ -1,0 +1,60 @@
+30369_0	is_in_sentence	sentence_30369
+30369_0	compound	30369_1
+30369_0	has_surface_form	Western
+30369_0	part_of_entity	Western Nebraska Community College
+30369_1	is_in_sentence	sentence_30369
+30369_1	compound	30369_3
+30369_1	has_surface_form	Nebraska
+30369_1	part_of_entity	Western Nebraska Community College
+30369_3	is_in_sentence	sentence_30369
+30369_3	nsubj	30369_7
+30369_3	has_surface_form	College
+30369_3	part_of_entity	Western Nebraska Community College
+30369_2	is_in_sentence	sentence_30369
+30369_2	compound	30369_3
+30369_2	has_surface_form	Community
+30369_2	part_of_entity	Western Nebraska Community College
+30369_7	is_in_sentence	sentence_30369
+30369_7	ROOT	30369_7
+30369_7	has_surface_form	is
+30369_4	is_in_sentence	sentence_30369
+30369_4	punct	30369_3
+30369_4	has_surface_form	(
+30369_5	is_in_sentence	sentence_30369
+30369_5	appos	30369_3
+30369_5	has_surface_form	WNCC
+30369_6	is_in_sentence	sentence_30369
+30369_6	punct	30369_3
+30369_6	has_surface_form	)
+30369_8	is_in_sentence	sentence_30369
+30369_8	det	30369_10
+30369_8	has_surface_form	a
+30369_10	is_in_sentence	sentence_30369
+30369_10	attr	30369_7
+30369_10	has_surface_form	college
+30369_10	part_of_entity	community college
+30369_9	is_in_sentence	sentence_30369
+30369_9	compound	30369_10
+30369_9	has_surface_form	community
+30369_9	part_of_entity	community college
+30369_11	is_in_sentence	sentence_30369
+30369_11	prep	30369_10
+30369_11	has_surface_form	in
+30369_12	is_in_sentence	sentence_30369
+30369_12	pobj	30369_11
+30369_12	has_surface_form	Scottsbluff
+30369_13	is_in_sentence	sentence_30369
+30369_13	punct	30369_12
+30369_13	has_surface_form	,
+30369_14	is_in_sentence	sentence_30369
+30369_14	appos	30369_12
+30369_14	has_surface_form	Nebraska
+30369_15	is_in_sentence	sentence_30369
+30369_15	punct	30369_7
+30369_15	has_surface_form	.
+30369_16	is_in_sentence	sentence_30369
+30369_16	dep	30369_7
+30369_16	has_surface_form	
+Western Nebraska Community College	surface_form	Western Nebraska Community College
+Western Nebraska Community College	has-type	community college
+community college	surface_form	community college

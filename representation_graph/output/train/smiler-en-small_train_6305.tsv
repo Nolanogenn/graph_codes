@@ -1,0 +1,88 @@
+6304_0	is_in_sentence	sentence_6304
+6304_0	compound	6304_1
+6304_0	has_surface_form	North
+6304_0	part_of_entity	North Carolina
+6304_1	is_in_sentence	sentence_6304
+6304_1	poss	6304_4
+6304_1	has_surface_form	Carolina
+6304_1	part_of_entity	North Carolina
+6304_4	is_in_sentence	sentence_6304
+6304_4	nsubj	6304_12
+6304_4	has_surface_form	Mitchell
+6304_4	part_of_entity	Mount Mitchell
+6304_2	is_in_sentence	sentence_6304
+6304_2	case	6304_1
+6304_2	has_surface_form	's
+6304_3	is_in_sentence	sentence_6304
+6304_3	compound	6304_4
+6304_3	has_surface_form	Mount
+6304_3	part_of_entity	Mount Mitchell
+6304_12	is_in_sentence	sentence_6304
+6304_12	ROOT	6304_12
+6304_12	has_surface_form	is
+6304_5	is_in_sentence	sentence_6304
+6304_5	prep	6304_4
+6304_5	has_surface_form	at
+6304_6	is_in_sentence	sentence_6304
+6304_6	nummod	6304_7
+6304_6	has_surface_form	6,684
+6304_7	is_in_sentence	sentence_6304
+6304_7	pobj	6304_5
+6304_7	has_surface_form	feet
+6304_8	is_in_sentence	sentence_6304
+6304_8	punct	6304_4
+6304_8	has_surface_form	(
+6304_9	is_in_sentence	sentence_6304
+6304_9	nummod	6304_10
+6304_9	has_surface_form	2,037
+6304_10	is_in_sentence	sentence_6304
+6304_10	appos	6304_4
+6304_10	has_surface_form	m
+6304_11	is_in_sentence	sentence_6304
+6304_11	punct	6304_10
+6304_11	has_surface_form	)
+6304_13	is_in_sentence	sentence_6304
+6304_13	det	6304_16
+6304_13	has_surface_form	the
+6304_16	is_in_sentence	sentence_6304
+6304_16	attr	6304_12
+6304_16	has_surface_form	point
+6304_14	is_in_sentence	sentence_6304
+6304_14	amod	6304_16
+6304_14	has_surface_form	highest
+6304_15	is_in_sentence	sentence_6304
+6304_15	punct	6304_16
+6304_15	has_surface_form	-
+6304_17	is_in_sentence	sentence_6304
+6304_17	prep	6304_16
+6304_17	has_surface_form	in
+6304_18	is_in_sentence	sentence_6304
+6304_18	compound	6304_19
+6304_18	has_surface_form	North
+6304_19	is_in_sentence	sentence_6304
+6304_19	pobj	6304_17
+6304_19	has_surface_form	America
+6304_20	is_in_sentence	sentence_6304
+6304_20	advmod	6304_16
+6304_20	has_surface_form	east
+6304_21	is_in_sentence	sentence_6304
+6304_21	prep	6304_20
+6304_21	has_surface_form	of
+6304_22	is_in_sentence	sentence_6304
+6304_22	det	6304_24
+6304_22	has_surface_form	the
+6304_24	is_in_sentence	sentence_6304
+6304_24	pobj	6304_21
+6304_24	has_surface_form	River
+6304_23	is_in_sentence	sentence_6304
+6304_23	compound	6304_24
+6304_23	has_surface_form	Mississippi
+6304_25	is_in_sentence	sentence_6304
+6304_25	punct	6304_12
+6304_25	has_surface_form	.
+6304_26	is_in_sentence	sentence_6304
+6304_26	dep	6304_12
+6304_26	has_surface_form	
+North Carolina	surface_form	North Carolina
+North Carolina	has-highest-mountain	Mount Mitchell
+Mount Mitchell	surface_form	Mount Mitchell

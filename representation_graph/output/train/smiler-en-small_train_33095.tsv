@@ -1,0 +1,53 @@
+33094_0	is_in_sentence	sentence_33094
+33094_0	compound	33094_1
+33094_0	has_surface_form	Lenka
+33094_0	part_of_entity	Lenka Vlasáková
+33094_1	is_in_sentence	sentence_33094
+33094_1	nsubj	33094_10
+33094_1	has_surface_form	Vlasáková
+33094_1	part_of_entity	Lenka Vlasáková
+33094_10	is_in_sentence	sentence_33094
+33094_10	ROOT	33094_10
+33094_10	has_surface_form	is
+33094_2	is_in_sentence	sentence_33094
+33094_2	punct	33094_3
+33094_2	has_surface_form	(
+33094_3	is_in_sentence	sentence_33094
+33094_3	acl	33094_1
+33094_3	has_surface_form	born
+33094_4	is_in_sentence	sentence_33094
+33094_4	nummod	33094_5
+33094_4	has_surface_form	27
+33094_5	is_in_sentence	sentence_33094
+33094_5	npadvmod	33094_3
+33094_5	has_surface_form	April
+33094_6	is_in_sentence	sentence_33094
+33094_6	nummod	33094_5
+33094_6	has_surface_form	1972
+33094_7	is_in_sentence	sentence_33094
+33094_7	prep	33094_3
+33094_7	has_surface_form	in
+33094_8	is_in_sentence	sentence_33094
+33094_8	pobj	33094_7
+33094_8	is_entity	Prague
+Prague	surface_form	Prague
+33094_9	is_in_sentence	sentence_33094
+33094_9	punct	33094_1
+33094_9	has_surface_form	)
+33094_11	is_in_sentence	sentence_33094
+33094_11	det	33094_13
+33094_11	has_surface_form	a
+33094_13	is_in_sentence	sentence_33094
+33094_13	attr	33094_10
+33094_13	has_surface_form	actress
+33094_12	is_in_sentence	sentence_33094
+33094_12	compound	33094_13
+33094_12	has_surface_form	Czech
+33094_14	is_in_sentence	sentence_33094
+33094_14	punct	33094_10
+33094_14	has_surface_form	.
+33094_15	is_in_sentence	sentence_33094
+33094_15	dep	33094_15
+33094_15	has_surface_form	
+Lenka Vlasáková	surface_form	Lenka Vlasáková
+Lenka Vlasáková	birth-place	Prague

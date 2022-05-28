@@ -1,0 +1,95 @@
+8280_0	is_in_sentence	sentence_8280
+8280_0	det	8280_3
+8280_0	has_surface_form	The
+8280_3	is_in_sentence	sentence_8280
+8280_3	nsubj	8280_4
+8280_3	has_surface_form	Highway
+8280_3	part_of_entity	Wide Bay Highway
+8280_1	is_in_sentence	sentence_8280
+8280_1	compound	8280_2
+8280_1	has_surface_form	Wide
+8280_1	part_of_entity	Wide Bay Highway
+8280_2	is_in_sentence	sentence_8280
+8280_2	compound	8280_3
+8280_2	has_surface_form	Bay
+8280_2	part_of_entity	Wide Bay Highway
+8280_4	is_in_sentence	sentence_8280
+8280_4	ROOT	8280_4
+8280_4	has_surface_form	is
+8280_5	is_in_sentence	sentence_8280
+8280_5	det	8280_8
+8280_5	has_surface_form	a
+8280_8	is_in_sentence	sentence_8280
+8280_8	attr	8280_4
+8280_8	has_surface_form	highway
+8280_8	part_of_entity	state highway
+8280_6	is_in_sentence	sentence_8280
+8280_6	amod	8280_7
+8280_6	has_surface_form	short
+8280_7	is_in_sentence	sentence_8280
+8280_7	compound	8280_8
+8280_7	has_surface_form	state
+8280_7	part_of_entity	state highway
+8280_9	is_in_sentence	sentence_8280
+8280_9	prep	8280_8
+8280_9	has_surface_form	of
+8280_10	is_in_sentence	sentence_8280
+8280_10	pobj	8280_9
+8280_10	has_surface_form	Queensland
+8280_11	is_in_sentence	sentence_8280
+8280_11	punct	8280_10
+8280_11	has_surface_form	,
+8280_12	is_in_sentence	sentence_8280
+8280_12	conj	8280_10
+8280_12	has_surface_form	Australia
+8280_13	is_in_sentence	sentence_8280
+8280_13	acl	8280_12
+8280_13	has_surface_form	running
+8280_14	is_in_sentence	sentence_8280
+8280_14	prep	8280_13
+8280_14	has_surface_form	between
+8280_15	is_in_sentence	sentence_8280
+8280_15	pobj	8280_14
+8280_15	has_surface_form	Goomeri
+8280_16	is_in_sentence	sentence_8280
+8280_16	prep	8280_13
+8280_16	has_surface_form	on
+8280_17	is_in_sentence	sentence_8280
+8280_17	det	8280_19
+8280_17	has_surface_form	the
+8280_19	is_in_sentence	sentence_8280
+8280_19	pobj	8280_16
+8280_19	has_surface_form	Highway
+8280_18	is_in_sentence	sentence_8280
+8280_18	compound	8280_19
+8280_18	has_surface_form	Burnett
+8280_20	is_in_sentence	sentence_8280
+8280_20	cc	8280_8
+8280_20	has_surface_form	and
+8280_21	is_in_sentence	sentence_8280
+8280_21	det	8280_22
+8280_21	has_surface_form	a
+8280_22	is_in_sentence	sentence_8280
+8280_22	conj	8280_8
+8280_22	has_surface_form	junction
+8280_23	is_in_sentence	sentence_8280
+8280_23	prep	8280_22
+8280_23	has_surface_form	on
+8280_24	is_in_sentence	sentence_8280
+8280_24	det	8280_26
+8280_24	has_surface_form	the
+8280_26	is_in_sentence	sentence_8280
+8280_26	pobj	8280_23
+8280_26	has_surface_form	Highway
+8280_25	is_in_sentence	sentence_8280
+8280_25	compound	8280_26
+8280_25	has_surface_form	Bruce
+8280_27	is_in_sentence	sentence_8280
+8280_27	punct	8280_4
+8280_27	has_surface_form	.
+8280_28	is_in_sentence	sentence_8280
+8280_28	dep	8280_4
+8280_28	has_surface_form	
+Wide Bay Highway	surface_form	Wide Bay Highway
+Wide Bay Highway	has-type	state highway
+state highway	surface_form	state highway

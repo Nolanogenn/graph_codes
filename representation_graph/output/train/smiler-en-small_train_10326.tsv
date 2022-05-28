@@ -1,0 +1,59 @@
+10325_0	is_in_sentence	sentence_10325
+10325_0	compound	10325_1
+10325_0	has_surface_form	Jamion
+10325_0	part_of_entity	Jamion Christian
+10325_1	is_in_sentence	sentence_10325
+10325_1	nsubj	10325_9
+10325_1	has_surface_form	Christian
+10325_1	part_of_entity	Jamion Christian
+10325_9	is_in_sentence	sentence_10325
+10325_9	ROOT	10325_9
+10325_9	has_surface_form	is
+10325_2	is_in_sentence	sentence_10325
+10325_2	punct	10325_1
+10325_2	has_surface_form	(
+10325_3	is_in_sentence	sentence_10325
+10325_3	acl	10325_1
+10325_3	has_surface_form	born
+10325_4	is_in_sentence	sentence_10325
+10325_4	npadvmod	10325_3
+10325_4	has_surface_form	April
+10325_5	is_in_sentence	sentence_10325
+10325_5	nummod	10325_4
+10325_5	has_surface_form	18
+10325_6	is_in_sentence	sentence_10325
+10325_6	punct	10325_4
+10325_6	has_surface_form	,
+10325_7	is_in_sentence	sentence_10325
+10325_7	nummod	10325_4
+10325_7	has_surface_form	1982
+10325_8	is_in_sentence	sentence_10325
+10325_8	punct	10325_1
+10325_8	has_surface_form	)
+10325_10	is_in_sentence	sentence_10325
+10325_10	det	10325_14
+10325_10	has_surface_form	an
+10325_14	is_in_sentence	sentence_10325
+10325_14	attr	10325_9
+10325_14	has_surface_form	coach
+10325_14	part_of_entity	college basketball coach
+10325_11	is_in_sentence	sentence_10325
+10325_11	amod	10325_14
+10325_11	has_surface_form	American
+10325_12	is_in_sentence	sentence_10325
+10325_12	compound	10325_13
+10325_12	has_surface_form	college
+10325_12	part_of_entity	college basketball coach
+10325_13	is_in_sentence	sentence_10325
+10325_13	compound	10325_14
+10325_13	has_surface_form	basketball
+10325_13	part_of_entity	college basketball coach
+10325_15	is_in_sentence	sentence_10325
+10325_15	punct	10325_9
+10325_15	has_surface_form	.
+10325_16	is_in_sentence	sentence_10325
+10325_16	dep	10325_16
+10325_16	has_surface_form	
+Jamion Christian	surface_form	Jamion Christian
+Jamion Christian	has-type	college basketball coach
+college basketball coach	surface_form	college basketball coach

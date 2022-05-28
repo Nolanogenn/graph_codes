@@ -1,0 +1,65 @@
+22876_0	is_in_sentence	sentence_22876
+22876_0	compound	22876_1
+22876_0	has_surface_form	Maria
+22876_0	part_of_entity	Maria Kannegaard
+22876_1	is_in_sentence	sentence_22876
+22876_1	nsubj	22876_8
+22876_1	has_surface_form	Kannegaard
+22876_1	part_of_entity	Maria Kannegaard
+22876_8	is_in_sentence	sentence_22876
+22876_8	ROOT	22876_8
+22876_8	has_surface_form	is
+22876_2	is_in_sentence	sentence_22876
+22876_2	punct	22876_1
+22876_2	has_surface_form	(
+22876_3	is_in_sentence	sentence_22876
+22876_3	acl	22876_1
+22876_3	has_surface_form	born
+22876_4	is_in_sentence	sentence_22876
+22876_4	nummod	22876_5
+22876_4	has_surface_form	6
+22876_5	is_in_sentence	sentence_22876
+22876_5	npadvmod	22876_3
+22876_5	has_surface_form	October
+22876_6	is_in_sentence	sentence_22876
+22876_6	nummod	22876_5
+22876_6	has_surface_form	1970
+22876_7	is_in_sentence	sentence_22876
+22876_7	punct	22876_1
+22876_7	has_surface_form	)
+22876_9	is_in_sentence	sentence_22876
+22876_9	det	22876_15
+22876_9	has_surface_form	a
+22876_15	is_in_sentence	sentence_22876
+22876_15	attr	22876_8
+22876_15	has_surface_form	musician
+22876_10	is_in_sentence	sentence_22876
+22876_10	npadvmod	22876_12
+22876_10	has_surface_form	Danish
+22876_12	is_in_sentence	sentence_22876
+22876_12	amod	22876_15
+22876_12	has_surface_form	born
+22876_11	is_in_sentence	sentence_22876
+22876_11	punct	22876_12
+22876_11	has_surface_form	-
+22876_13	is_in_sentence	sentence_22876
+22876_13	amod	22876_15
+22876_13	has_surface_form	Norwegian
+22876_14	is_in_sentence	sentence_22876
+22876_14	compound	22876_15
+22876_14	is_entity	jazz
+jazz	surface_form	jazz
+22876_16	is_in_sentence	sentence_22876
+22876_16	cc	22876_15
+22876_16	has_surface_form	and
+22876_17	is_in_sentence	sentence_22876
+22876_17	conj	22876_15
+22876_17	has_surface_form	pianist
+22876_18	is_in_sentence	sentence_22876
+22876_18	punct	22876_8
+22876_18	has_surface_form	.
+22876_19	is_in_sentence	sentence_22876
+22876_19	dep	22876_8
+22876_19	has_surface_form	
+Maria Kannegaard	surface_form	Maria Kannegaard
+Maria Kannegaard	has-genre	jazz

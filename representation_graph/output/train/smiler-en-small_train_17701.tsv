@@ -1,0 +1,79 @@
+17700_0	is_in_sentence	sentence_17700
+17700_0	compound	17700_1
+17700_0	has_surface_form	Georg
+17700_0	part_of_entity	Georg Trakl
+17700_1	is_in_sentence	sentence_17700
+17700_1	nsubj	17700_11
+17700_1	has_surface_form	Trakl
+17700_1	part_of_entity	Georg Trakl
+17700_11	is_in_sentence	sentence_17700
+17700_11	ROOT	17700_11
+17700_11	has_surface_form	was
+17700_2	is_in_sentence	sentence_17700
+17700_2	punct	17700_1
+17700_2	has_surface_form	(
+17700_3	is_in_sentence	sentence_17700
+17700_3	nummod	17700_4
+17700_3	has_surface_form	3
+17700_4	is_in_sentence	sentence_17700
+17700_4	appos	17700_1
+17700_4	has_surface_form	February
+17700_5	is_in_sentence	sentence_17700
+17700_5	nummod	17700_4
+17700_5	has_surface_form	1887
+17700_6	is_in_sentence	sentence_17700
+17700_6	punct	17700_7
+17700_6	has_surface_form	-
+17700_7	is_in_sentence	sentence_17700
+17700_7	nummod	17700_8
+17700_7	has_surface_form	3
+17700_8	is_in_sentence	sentence_17700
+17700_8	npadvmod	17700_4
+17700_8	has_surface_form	November
+17700_9	is_in_sentence	sentence_17700
+17700_9	nummod	17700_8
+17700_9	has_surface_form	1914
+17700_10	is_in_sentence	sentence_17700
+17700_10	punct	17700_8
+17700_10	has_surface_form	)
+17700_12	is_in_sentence	sentence_17700
+17700_12	det	17700_14
+17700_12	has_surface_form	an
+17700_14	is_in_sentence	sentence_17700
+17700_14	attr	17700_11
+17700_14	has_surface_form	poet
+17700_13	is_in_sentence	sentence_17700
+17700_13	amod	17700_14
+17700_13	has_surface_form	Austrian
+17700_15	is_in_sentence	sentence_17700
+17700_15	cc	17700_14
+17700_15	has_surface_form	and
+17700_16	is_in_sentence	sentence_17700
+17700_16	conj	17700_14
+17700_16	has_surface_form	brother
+17700_17	is_in_sentence	sentence_17700
+17700_17	prep	17700_16
+17700_17	has_surface_form	of
+17700_18	is_in_sentence	sentence_17700
+17700_18	det	17700_21
+17700_18	has_surface_form	the
+17700_21	is_in_sentence	sentence_17700
+17700_21	pobj	17700_17
+17700_21	has_surface_form	Trakl
+17700_21	part_of_entity	Grete Trakl
+17700_19	is_in_sentence	sentence_17700
+17700_19	compound	17700_21
+17700_19	has_surface_form	pianist
+17700_20	is_in_sentence	sentence_17700
+17700_20	compound	17700_21
+17700_20	has_surface_form	Grete
+17700_20	part_of_entity	Grete Trakl
+17700_22	is_in_sentence	sentence_17700
+17700_22	punct	17700_11
+17700_22	has_surface_form	.
+17700_23	is_in_sentence	sentence_17700
+17700_23	dep	17700_23
+17700_23	has_surface_form	
+Georg Trakl	surface_form	Georg Trakl
+Georg Trakl	has-sibling	Grete Trakl
+Grete Trakl	surface_form	Grete Trakl

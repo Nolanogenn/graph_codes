@@ -1,0 +1,73 @@
+2506_0	is_in_sentence	sentence_2506
+2506_0	det	2506_2
+2506_0	has_surface_form	The
+2506_2	is_in_sentence	sentence_2506
+2506_2	nsubj	2506_6
+2506_2	has_surface_form	Code
+2506_1	is_in_sentence	sentence_2506
+2506_1	compound	2506_2
+2506_1	has_surface_form	Zip
+2506_6	is_in_sentence	sentence_2506
+2506_6	ROOT	2506_6
+2506_6	has_surface_form	is
+2506_3	is_in_sentence	sentence_2506
+2506_3	prep	2506_2
+2506_3	has_surface_form	for
+2506_4	is_in_sentence	sentence_2506
+2506_4	compound	2506_5
+2506_4	has_surface_form	Star
+2506_4	part_of_entity	Star Tannery
+2506_5	is_in_sentence	sentence_2506
+2506_5	pobj	2506_3
+2506_5	has_surface_form	Tannery
+2506_5	part_of_entity	Star Tannery
+2506_7	is_in_sentence	sentence_2506
+2506_7	attr	2506_6
+2506_7	is_entity	22654
+22654	surface_form	22654
+2506_8	is_in_sentence	sentence_2506
+2506_8	punct	2506_6
+2506_8	has_surface_form	.
+2506_9	is_in_sentence	sentence_2506
+2506_9	compound	2506_10
+2506_9	has_surface_form	Geological
+2506_10	is_in_sentence	sentence_2506
+2506_10	compound	2506_14
+2506_10	has_surface_form	Survey
+2506_14	is_in_sentence	sentence_2506
+2506_14	ROOT	2506_14
+2506_14	has_surface_form	System
+2506_11	is_in_sentence	sentence_2506
+2506_11	compound	2506_12
+2506_11	has_surface_form	Geographic
+2506_12	is_in_sentence	sentence_2506
+2506_12	compound	2506_14
+2506_12	has_surface_form	Names
+2506_13	is_in_sentence	sentence_2506
+2506_13	compound	2506_14
+2506_13	has_surface_form	Information
+2506_15	is_in_sentence	sentence_2506
+2506_15	punct	2506_14
+2506_15	has_surface_form	:
+2506_16	is_in_sentence	sentence_2506
+2506_16	compound	2506_17
+2506_16	has_surface_form	Star
+2506_16	part_of_entity	Star Tannery
+2506_17	is_in_sentence	sentence_2506
+2506_17	appos	2506_14
+2506_17	has_surface_form	Tannery
+2506_17	part_of_entity	Star Tannery
+2506_18	is_in_sentence	sentence_2506
+2506_18	punct	2506_17
+2506_18	has_surface_form	,
+2506_19	is_in_sentence	sentence_2506
+2506_19	appos	2506_17
+2506_19	has_surface_form	Virginia
+2506_20	is_in_sentence	sentence_2506
+2506_20	punct	2506_14
+2506_20	has_surface_form	.
+2506_21	is_in_sentence	sentence_2506
+2506_21	dep	2506_21
+2506_21	has_surface_form	
+Star Tannery	surface_form	Star Tannery
+Star Tannery	post-code	22654

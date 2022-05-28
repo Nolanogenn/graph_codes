@@ -1,0 +1,59 @@
+23427_0	is_in_sentence	sentence_23427
+23427_0	compound	23427_1
+23427_0	has_surface_form	Great
+23427_0	part_of_entity	Great Lakes University of Kisumu
+23427_1	is_in_sentence	sentence_23427
+23427_1	compound	23427_2
+23427_1	has_surface_form	Lakes
+23427_1	part_of_entity	Great Lakes University of Kisumu
+23427_2	is_in_sentence	sentence_23427
+23427_2	nsubj	23427_9
+23427_2	has_surface_form	University
+23427_2	part_of_entity	Great Lakes University of Kisumu
+23427_9	is_in_sentence	sentence_23427
+23427_9	ROOT	23427_9
+23427_9	has_surface_form	is
+23427_3	is_in_sentence	sentence_23427
+23427_3	prep	23427_2
+23427_3	has_surface_form	of
+23427_3	part_of_entity	Great Lakes University of Kisumu
+23427_4	is_in_sentence	sentence_23427
+23427_4	pobj	23427_3
+23427_4	has_surface_form	Kisumu
+23427_4	part_of_entity	Great Lakes University of Kisumu
+23427_5	is_in_sentence	sentence_23427
+23427_5	punct	23427_2
+23427_5	has_surface_form	(
+23427_6	is_in_sentence	sentence_23427
+23427_6	cc	23427_2
+23427_6	has_surface_form	or
+23427_7	is_in_sentence	sentence_23427
+23427_7	conj	23427_2
+23427_7	has_surface_form	GLUK
+23427_8	is_in_sentence	sentence_23427
+23427_8	punct	23427_7
+23427_8	has_surface_form	)
+23427_10	is_in_sentence	sentence_23427
+23427_10	det	23427_14
+23427_10	has_surface_form	a
+23427_14	is_in_sentence	sentence_23427
+23427_14	attr	23427_9
+23427_14	is_entity	university
+23427_11	is_in_sentence	sentence_23427
+23427_11	amod	23427_14
+23427_11	has_surface_form	Kenyan
+23427_12	is_in_sentence	sentence_23427
+23427_12	amod	23427_13
+23427_12	has_surface_form	private
+23427_13	is_in_sentence	sentence_23427
+23427_13	amod	23427_14
+23427_13	has_surface_form	chartered
+university	surface_form	university
+23427_15	is_in_sentence	sentence_23427
+23427_15	punct	23427_9
+23427_15	has_surface_form	.
+23427_16	is_in_sentence	sentence_23427
+23427_16	dep	23427_9
+23427_16	has_surface_form	
+Great Lakes University of Kisumu	surface_form	Great Lakes University of Kisumu
+Great Lakes University of Kisumu	has-type	university

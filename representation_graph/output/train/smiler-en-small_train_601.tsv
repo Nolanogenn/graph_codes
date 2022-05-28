@@ -1,0 +1,72 @@
+600_0	is_in_sentence	sentence_600
+600_0	compound	600_2
+600_0	has_surface_form	Armuchee
+600_0	part_of_entity	Armuchee High School
+600_2	is_in_sentence	sentence_600
+600_2	nsubj	600_3
+600_2	has_surface_form	School
+600_2	part_of_entity	Armuchee High School
+600_1	is_in_sentence	sentence_600
+600_1	compound	600_2
+600_1	has_surface_form	High
+600_1	part_of_entity	Armuchee High School
+600_3	is_in_sentence	sentence_600
+600_3	ROOT	600_3
+600_3	has_surface_form	is
+600_4	is_in_sentence	sentence_600
+600_4	det	600_7
+600_4	has_surface_form	a
+600_7	is_in_sentence	sentence_600
+600_7	attr	600_3
+600_7	has_surface_form	school
+600_5	is_in_sentence	sentence_600
+600_5	amod	600_7
+600_5	has_surface_form	public
+600_6	is_in_sentence	sentence_600
+600_6	amod	600_7
+600_6	has_surface_form	high
+600_8	is_in_sentence	sentence_600
+600_8	acl	600_7
+600_8	has_surface_form	serving
+600_9	is_in_sentence	sentence_600
+600_9	dobj	600_8
+600_9	has_surface_form	grades
+600_10	is_in_sentence	sentence_600
+600_10	npadvmod	600_8
+600_10	has_surface_form	9
+600_11	is_in_sentence	sentence_600
+600_11	punct	600_12
+600_11	has_surface_form	-
+600_12	is_in_sentence	sentence_600
+600_12	prep	600_10
+600_12	has_surface_form	12
+600_13	is_in_sentence	sentence_600
+600_13	prep	600_8
+600_13	has_surface_form	in
+600_14	is_in_sentence	sentence_600
+600_14	pobj	600_13
+600_14	is_entity	Rome
+Rome	surface_form	Rome
+600_15	is_in_sentence	sentence_600
+600_15	punct	600_14
+600_15	has_surface_form	,
+600_16	is_in_sentence	sentence_600
+600_16	conj	600_14
+600_16	has_surface_form	Georgia
+600_17	is_in_sentence	sentence_600
+600_17	punct	600_16
+600_17	has_surface_form	,
+600_18	is_in_sentence	sentence_600
+600_18	compound	600_19
+600_18	has_surface_form	United
+600_19	is_in_sentence	sentence_600
+600_19	conj	600_16
+600_19	has_surface_form	States
+600_20	is_in_sentence	sentence_600
+600_20	punct	600_3
+600_20	has_surface_form	.
+600_21	is_in_sentence	sentence_600
+600_21	dep	600_3
+600_21	has_surface_form	
+Armuchee High School	surface_form	Armuchee High School
+Armuchee High School	is-where	Rome

@@ -1,0 +1,62 @@
+26982_0	is_in_sentence	sentence_26982
+26982_0	det	26982_2
+26982_0	has_surface_form	A
+26982_0	part_of_entity	A Newspaper Nemesis
+26982_2	is_in_sentence	sentence_26982
+26982_2	nsubj	26982_3
+26982_2	has_surface_form	Nemesis
+26982_2	part_of_entity	A Newspaper Nemesis
+26982_1	is_in_sentence	sentence_26982
+26982_1	compound	26982_2
+26982_1	has_surface_form	Newspaper
+26982_1	part_of_entity	A Newspaper Nemesis
+26982_3	is_in_sentence	sentence_26982
+26982_3	ROOT	26982_3
+26982_3	has_surface_form	is
+26982_4	is_in_sentence	sentence_26982
+26982_4	det	26982_10
+26982_4	has_surface_form	a
+26982_10	is_in_sentence	sentence_26982
+26982_10	attr	26982_3
+26982_10	has_surface_form	film
+26982_5	is_in_sentence	sentence_26982
+26982_5	nummod	26982_10
+26982_5	has_surface_form	1915
+26982_6	is_in_sentence	sentence_26982
+26982_6	amod	26982_10
+26982_6	has_surface_form	American
+26982_7	is_in_sentence	sentence_26982
+26982_7	amod	26982_10
+26982_7	has_surface_form	short
+26982_8	is_in_sentence	sentence_26982
+26982_8	amod	26982_10
+26982_8	has_surface_form	silent
+26982_9	is_in_sentence	sentence_26982
+26982_9	compound	26982_10
+26982_9	has_surface_form	drama
+26982_11	is_in_sentence	sentence_26982
+26982_11	punct	26982_10
+26982_11	has_surface_form	,
+26982_12	is_in_sentence	sentence_26982
+26982_12	acl	26982_10
+26982_12	has_surface_form	directed
+26982_13	is_in_sentence	sentence_26982
+26982_13	agent	26982_12
+26982_13	has_surface_form	by
+26982_14	is_in_sentence	sentence_26982
+26982_14	compound	26982_15
+26982_14	has_surface_form	Jack
+26982_14	part_of_entity	Jack Harvey
+26982_15	is_in_sentence	sentence_26982
+26982_15	pobj	26982_13
+26982_15	has_surface_form	Harvey
+26982_15	part_of_entity	Jack Harvey
+26982_16	is_in_sentence	sentence_26982
+26982_16	punct	26982_3
+26982_16	has_surface_form	.
+26982_17	is_in_sentence	sentence_26982
+26982_17	dep	26982_3
+26982_17	has_surface_form	
+A Newspaper Nemesis	surface_form	A Newspaper Nemesis
+A Newspaper Nemesis	movie-has-director	Jack Harvey
+Jack Harvey	surface_form	Jack Harvey

@@ -1,0 +1,70 @@
+23121_0	is_in_sentence	sentence_23121
+23121_0	det	23121_1
+23121_0	has_surface_form	The
+23121_0	part_of_entity	The Skinflint
+23121_1	is_in_sentence	sentence_23121
+23121_1	nsubj	23121_2
+23121_1	has_surface_form	Skinflint
+23121_1	part_of_entity	The Skinflint
+23121_2	is_in_sentence	sentence_23121
+23121_2	ROOT	23121_2
+23121_2	has_surface_form	is
+23121_3	is_in_sentence	sentence_23121
+23121_3	det	23121_9
+23121_3	has_surface_form	a
+23121_9	is_in_sentence	sentence_23121
+23121_9	attr	23121_2
+23121_9	has_surface_form	film
+23121_4	is_in_sentence	sentence_23121
+23121_4	nummod	23121_9
+23121_4	has_surface_form	1915
+23121_5	is_in_sentence	sentence_23121
+23121_5	amod	23121_9
+23121_5	has_surface_form	American
+23121_6	is_in_sentence	sentence_23121
+23121_6	amod	23121_9
+23121_6	has_surface_form	short
+23121_7	is_in_sentence	sentence_23121
+23121_7	amod	23121_9
+23121_7	has_surface_form	silent
+23121_8	is_in_sentence	sentence_23121
+23121_8	compound	23121_9
+23121_8	has_surface_form	drama
+23121_10	is_in_sentence	sentence_23121
+23121_10	punct	23121_9
+23121_10	has_surface_form	,
+23121_11	is_in_sentence	sentence_23121
+23121_11	acl	23121_9
+23121_11	has_surface_form	directed
+23121_12	is_in_sentence	sentence_23121
+23121_12	agent	23121_11
+23121_12	has_surface_form	by
+23121_13	is_in_sentence	sentence_23121
+23121_13	compound	23121_14
+23121_13	has_surface_form	Jack
+23121_13	part_of_entity	Jack Harvey
+23121_14	is_in_sentence	sentence_23121
+23121_14	pobj	23121_12
+23121_14	has_surface_form	Harvey
+23121_14	part_of_entity	Jack Harvey
+23121_15	is_in_sentence	sentence_23121
+23121_15	prep	23121_14
+23121_15	has_surface_form	for
+23121_16	is_in_sentence	sentence_23121
+23121_16	det	23121_18
+23121_16	has_surface_form	the
+23121_18	is_in_sentence	sentence_23121
+23121_18	pobj	23121_15
+23121_18	has_surface_form	Company
+23121_17	is_in_sentence	sentence_23121
+23121_17	compound	23121_18
+23121_17	has_surface_form	Thanhouser
+23121_19	is_in_sentence	sentence_23121
+23121_19	punct	23121_2
+23121_19	has_surface_form	.
+23121_20	is_in_sentence	sentence_23121
+23121_20	dep	23121_2
+23121_20	has_surface_form	
+The Skinflint	surface_form	The Skinflint
+The Skinflint	movie-has-director	Jack Harvey
+Jack Harvey	surface_form	Jack Harvey

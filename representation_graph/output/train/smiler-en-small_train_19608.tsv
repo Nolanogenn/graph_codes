@@ -1,0 +1,79 @@
+19607_0	is_in_sentence	sentence_19607
+19607_0	compound	19607_1
+19607_0	has_surface_form	Natir
+19607_0	part_of_entity	Natir Puja
+19607_1	is_in_sentence	sentence_19607
+19607_1	nsubj	19607_11
+19607_1	has_surface_form	Puja
+19607_1	part_of_entity	Natir Puja
+19607_11	is_in_sentence	sentence_19607
+19607_11	ROOT	19607_11
+19607_11	has_surface_form	is
+19607_2	is_in_sentence	sentence_19607
+19607_2	punct	19607_7
+19607_2	has_surface_form	(
+19607_7	is_in_sentence	sentence_19607
+19607_7	appos	19607_1
+19607_7	has_surface_form	worship
+19607_3	is_in_sentence	sentence_19607
+19607_3	det	19607_5
+19607_3	has_surface_form	The
+19607_5	is_in_sentence	sentence_19607
+19607_5	poss	19607_7
+19607_5	has_surface_form	girl
+19607_4	is_in_sentence	sentence_19607
+19607_4	compound	19607_5
+19607_4	has_surface_form	dancing
+19607_6	is_in_sentence	sentence_19607
+19607_6	case	19607_5
+19607_6	has_surface_form	's
+19607_8	is_in_sentence	sentence_19607
+19607_8	punct	19607_7
+19607_8	has_surface_form	,
+19607_9	is_in_sentence	sentence_19607
+19607_9	appos	19607_7
+19607_9	has_surface_form	1932
+19607_10	is_in_sentence	sentence_19607
+19607_10	punct	19607_7
+19607_10	has_surface_form	)
+19607_12	is_in_sentence	sentence_19607
+19607_12	det	19607_14
+19607_12	has_surface_form	the
+19607_14	is_in_sentence	sentence_19607
+19607_14	attr	19607_11
+19607_14	has_surface_form	film
+19607_13	is_in_sentence	sentence_19607
+19607_13	amod	19607_14
+19607_13	has_surface_form	only
+19607_15	is_in_sentence	sentence_19607
+19607_15	advmod	19607_19
+19607_15	has_surface_form	where
+19607_19	is_in_sentence	sentence_19607
+19607_19	relcl	19607_14
+19607_19	has_surface_form	credited
+19607_16	is_in_sentence	sentence_19607
+19607_16	compound	19607_17
+19607_16	has_surface_form	Rabindranath
+19607_16	part_of_entity	Rabindranath Tagore
+19607_17	is_in_sentence	sentence_19607
+19607_17	nsubjpass	19607_19
+19607_17	has_surface_form	Tagore
+19607_17	part_of_entity	Rabindranath Tagore
+19607_18	is_in_sentence	sentence_19607
+19607_18	auxpass	19607_19
+19607_18	has_surface_form	is
+19607_20	is_in_sentence	sentence_19607
+19607_20	prep	19607_19
+19607_20	has_surface_form	as
+19607_21	is_in_sentence	sentence_19607
+19607_21	pobj	19607_20
+19607_21	has_surface_form	director
+19607_22	is_in_sentence	sentence_19607
+19607_22	punct	19607_11
+19607_22	has_surface_form	.
+19607_23	is_in_sentence	sentence_19607
+19607_23	dep	19607_11
+19607_23	has_surface_form	
+Natir Puja	surface_form	Natir Puja
+Natir Puja	movie-has-director	Rabindranath Tagore
+Rabindranath Tagore	surface_form	Rabindranath Tagore

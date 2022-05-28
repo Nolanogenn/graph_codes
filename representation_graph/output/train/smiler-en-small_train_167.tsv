@@ -1,0 +1,84 @@
+166_0	is_in_sentence	sentence_166
+166_0	det	166_1
+166_0	has_surface_form	The
+166_0	part_of_entity	The Gypsy of Athens
+166_1	is_in_sentence	sentence_166
+166_1	nsubj	166_12
+166_1	has_surface_form	Gypsy
+166_1	part_of_entity	The Gypsy of Athens
+166_12	is_in_sentence	sentence_166
+166_12	ROOT	166_12
+166_12	has_surface_form	is
+166_2	is_in_sentence	sentence_166
+166_2	prep	166_1
+166_2	has_surface_form	of
+166_2	part_of_entity	The Gypsy of Athens
+166_3	is_in_sentence	sentence_166
+166_3	pobj	166_2
+166_3	has_surface_form	Athens
+166_3	part_of_entity	The Gypsy of Athens
+166_4	is_in_sentence	sentence_166
+166_4	punct	166_5
+166_4	has_surface_form	(
+166_5	is_in_sentence	sentence_166
+166_5	appos	166_1
+166_5	has_surface_form	Greek
+166_6	is_in_sentence	sentence_166
+166_6	punct	166_5
+166_6	has_surface_form	:
+166_7	is_in_sentence	sentence_166
+166_7	compound	166_10
+166_7	has_surface_form	Η
+166_10	is_in_sentence	sentence_166
+166_10	appos	166_5
+166_10	has_surface_form	Αθήνας
+166_8	is_in_sentence	sentence_166
+166_8	compound	166_10
+166_8	has_surface_form	τσιγγάνα
+166_9	is_in_sentence	sentence_166
+166_9	compound	166_10
+166_9	has_surface_form	της
+166_11	is_in_sentence	sentence_166
+166_11	punct	166_5
+166_11	has_surface_form	)
+166_13	is_in_sentence	sentence_166
+166_13	det	166_18
+166_13	has_surface_form	a
+166_18	is_in_sentence	sentence_166
+166_18	attr	166_12
+166_18	has_surface_form	film
+166_14	is_in_sentence	sentence_166
+166_14	nummod	166_18
+166_14	has_surface_form	1922
+166_15	is_in_sentence	sentence_166
+166_15	amod	166_18
+166_15	has_surface_form	Greek
+166_16	is_in_sentence	sentence_166
+166_16	amod	166_18
+166_16	has_surface_form	silent
+166_17	is_in_sentence	sentence_166
+166_17	compound	166_18
+166_17	has_surface_form	drama
+166_19	is_in_sentence	sentence_166
+166_19	acl	166_18
+166_19	has_surface_form	directed
+166_20	is_in_sentence	sentence_166
+166_20	agent	166_19
+166_20	has_surface_form	by
+166_21	is_in_sentence	sentence_166
+166_21	compound	166_22
+166_21	has_surface_form	Ahilleas
+166_21	part_of_entity	Ahilleas Madras
+166_22	is_in_sentence	sentence_166
+166_22	pobj	166_20
+166_22	has_surface_form	Madras
+166_22	part_of_entity	Ahilleas Madras
+166_23	is_in_sentence	sentence_166
+166_23	punct	166_12
+166_23	has_surface_form	.
+166_24	is_in_sentence	sentence_166
+166_24	dep	166_12
+166_24	has_surface_form	
+The Gypsy of Athens	surface_form	The Gypsy of Athens
+The Gypsy of Athens	movie-has-director	Ahilleas Madras
+Ahilleas Madras	surface_form	Ahilleas Madras

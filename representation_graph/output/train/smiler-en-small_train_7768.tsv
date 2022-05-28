@@ -1,0 +1,53 @@
+7767_0	is_in_sentence	sentence_7767
+7767_0	nmod	7767_3
+7767_0	has_surface_form	Ray
+7767_3	is_in_sentence	sentence_7767
+7767_3	nsubj	7767_4
+7767_3	has_surface_form	Benner
+7767_1	is_in_sentence	sentence_7767
+7767_1	cc	7767_0
+7767_1	has_surface_form	and
+7767_2	is_in_sentence	sentence_7767
+7767_2	conj	7767_0
+7767_2	has_surface_form	Cecilia
+7767_4	is_in_sentence	sentence_7767
+7767_4	ROOT	7767_4
+7767_4	has_surface_form	invented
+7767_5	is_in_sentence	sentence_7767
+7767_5	det	7767_9
+7767_5	has_surface_form	the
+7767_9	is_in_sentence	sentence_7767
+7767_9	compound	7767_10
+7767_9	has_surface_form	silicone
+7767_6	is_in_sentence	sentence_7767
+7767_6	amod	7767_9
+7767_6	has_surface_form	first
+7767_7	is_in_sentence	sentence_7767
+7767_7	amod	7767_9
+7767_7	has_surface_form	moldable
+7767_8	is_in_sentence	sentence_7767
+7767_8	amod	7767_9
+7767_8	has_surface_form	pure
+7767_10	is_in_sentence	sentence_7767
+7767_10	compound	7767_11
+7767_10	has_surface_form	ear
+7767_10	part_of_entity	ear plug
+7767_11	is_in_sentence	sentence_7767
+7767_11	dobj	7767_4
+7767_11	has_surface_form	plug
+7767_11	part_of_entity	ear plug
+7767_12	is_in_sentence	sentence_7767
+7767_12	prep	7767_11
+7767_12	has_surface_form	in
+7767_13	is_in_sentence	sentence_7767
+7767_13	pobj	7767_12
+7767_13	is_entity	1962
+1962	surface_form	1962
+7767_14	is_in_sentence	sentence_7767
+7767_14	punct	7767_4
+7767_14	has_surface_form	.
+7767_15	is_in_sentence	sentence_7767
+7767_15	dep	7767_15
+7767_15	has_surface_form	
+ear plug	surface_form	ear plug
+ear plug	invented-when	1962

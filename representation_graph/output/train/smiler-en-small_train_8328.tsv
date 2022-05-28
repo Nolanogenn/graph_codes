@@ -1,0 +1,49 @@
+8327_0	is_in_sentence	sentence_8327
+8327_0	compound	8327_1
+8327_0	has_surface_form	Escape
+8327_0	part_of_entity	Escape Dangerous
+8327_1	is_in_sentence	sentence_8327
+8327_1	nsubj	8327_2
+8327_1	has_surface_form	Dangerous
+8327_1	part_of_entity	Escape Dangerous
+8327_2	is_in_sentence	sentence_8327
+8327_2	ROOT	8327_2
+8327_2	has_surface_form	is
+8327_3	is_in_sentence	sentence_8327
+8327_3	det	8327_7
+8327_3	has_surface_form	a
+8327_7	is_in_sentence	sentence_8327
+8327_7	attr	8327_2
+8327_7	has_surface_form	film
+8327_4	is_in_sentence	sentence_8327
+8327_4	nummod	8327_7
+8327_4	has_surface_form	1947
+8327_5	is_in_sentence	sentence_8327
+8327_5	amod	8327_7
+8327_5	has_surface_form	British
+8327_6	is_in_sentence	sentence_8327
+8327_6	compound	8327_7
+8327_6	has_surface_form	drama
+8327_8	is_in_sentence	sentence_8327
+8327_8	acl	8327_7
+8327_8	has_surface_form	directed
+8327_9	is_in_sentence	sentence_8327
+8327_9	agent	8327_8
+8327_9	has_surface_form	by
+8327_10	is_in_sentence	sentence_8327
+8327_10	compound	8327_11
+8327_10	has_surface_form	Digby
+8327_10	part_of_entity	Digby Smith
+8327_11	is_in_sentence	sentence_8327
+8327_11	pobj	8327_9
+8327_11	has_surface_form	Smith
+8327_11	part_of_entity	Digby Smith
+8327_12	is_in_sentence	sentence_8327
+8327_12	punct	8327_2
+8327_12	has_surface_form	.
+8327_13	is_in_sentence	sentence_8327
+8327_13	dep	8327_2
+8327_13	has_surface_form	
+Escape Dangerous	surface_form	Escape Dangerous
+Escape Dangerous	movie-has-director	Digby Smith
+Digby Smith	surface_form	Digby Smith

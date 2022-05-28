@@ -1,0 +1,40 @@
+3106_0	is_in_sentence	sentence_3106
+3106_0	compound	3106_1
+3106_0	has_surface_form	Wojciech
+3106_0	part_of_entity	Wojciech Kossak
+3106_1	is_in_sentence	sentence_3106
+3106_1	nsubj	3106_2
+3106_1	has_surface_form	Kossak
+3106_1	part_of_entity	Wojciech Kossak
+3106_2	is_in_sentence	sentence_3106
+3106_2	ROOT	3106_2
+3106_2	has_surface_form	was
+3106_3	is_in_sentence	sentence_3106
+3106_3	det	3106_4
+3106_3	has_surface_form	the
+3106_4	is_in_sentence	sentence_3106
+3106_4	attr	3106_2
+3106_4	has_surface_form	son
+3106_5	is_in_sentence	sentence_3106
+3106_5	prep	3106_4
+3106_5	has_surface_form	of
+3106_6	is_in_sentence	sentence_3106
+3106_6	compound	3106_8
+3106_6	has_surface_form	painter
+3106_8	is_in_sentence	sentence_3106
+3106_8	pobj	3106_5
+3106_8	has_surface_form	Kossak
+3106_8	part_of_entity	Juliusz Kossak
+3106_7	is_in_sentence	sentence_3106
+3106_7	compound	3106_8
+3106_7	has_surface_form	Juliusz
+3106_7	part_of_entity	Juliusz Kossak
+3106_9	is_in_sentence	sentence_3106
+3106_9	punct	3106_2
+3106_9	has_surface_form	.
+3106_10	is_in_sentence	sentence_3106
+3106_10	dep	3106_2
+3106_10	has_surface_form	
+Wojciech Kossak	surface_form	Wojciech Kossak
+Wojciech Kossak	has-parent	Juliusz Kossak
+Juliusz Kossak	surface_form	Juliusz Kossak

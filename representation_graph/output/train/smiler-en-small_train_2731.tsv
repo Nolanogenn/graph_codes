@@ -1,0 +1,79 @@
+2730_0	is_in_sentence	sentence_2730
+2730_0	compound	2730_1
+2730_0	has_surface_form	Joyce
+2730_0	part_of_entity	Joyce Brabner
+2730_1	is_in_sentence	sentence_2730
+2730_1	nsubj	2730_10
+2730_1	has_surface_form	Brabner
+2730_1	part_of_entity	Joyce Brabner
+2730_10	is_in_sentence	sentence_2730
+2730_10	ROOT	2730_10
+2730_10	has_surface_form	is
+2730_2	is_in_sentence	sentence_2730
+2730_2	punct	2730_1
+2730_2	has_surface_form	(
+2730_3	is_in_sentence	sentence_2730
+2730_3	acl	2730_1
+2730_3	has_surface_form	born
+2730_4	is_in_sentence	sentence_2730
+2730_4	npadvmod	2730_3
+2730_4	has_surface_form	March
+2730_5	is_in_sentence	sentence_2730
+2730_5	nummod	2730_4
+2730_5	has_surface_form	1
+2730_6	is_in_sentence	sentence_2730
+2730_6	punct	2730_4
+2730_6	has_surface_form	,
+2730_7	is_in_sentence	sentence_2730
+2730_7	nummod	2730_4
+2730_7	has_surface_form	1952
+2730_8	is_in_sentence	sentence_2730
+2730_8	punct	2730_1
+2730_8	has_surface_form	)
+2730_9	is_in_sentence	sentence_2730
+2730_9	punct	2730_1
+2730_9	has_surface_form	)
+2730_11	is_in_sentence	sentence_2730
+2730_11	det	2730_12
+2730_11	has_surface_form	a
+2730_12	is_in_sentence	sentence_2730
+2730_12	attr	2730_10
+2730_12	has_surface_form	writer
+2730_13	is_in_sentence	sentence_2730
+2730_13	prep	2730_12
+2730_13	has_surface_form	of
+2730_14	is_in_sentence	sentence_2730
+2730_14	amod	2730_15
+2730_14	has_surface_form	political
+2730_15	is_in_sentence	sentence_2730
+2730_15	pobj	2730_13
+2730_15	has_surface_form	comics
+2730_16	is_in_sentence	sentence_2730
+2730_16	cc	2730_12
+2730_16	has_surface_form	and
+2730_17	is_in_sentence	sentence_2730
+2730_17	det	2730_18
+2730_17	has_surface_form	the
+2730_18	is_in_sentence	sentence_2730
+2730_18	conj	2730_12
+2730_18	has_surface_form	widow
+2730_19	is_in_sentence	sentence_2730
+2730_19	prep	2730_18
+2730_19	has_surface_form	of
+2730_20	is_in_sentence	sentence_2730
+2730_20	compound	2730_21
+2730_20	has_surface_form	Harvey
+2730_20	part_of_entity	Harvey Pekar
+2730_21	is_in_sentence	sentence_2730
+2730_21	pobj	2730_19
+2730_21	has_surface_form	Pekar
+2730_21	part_of_entity	Harvey Pekar
+2730_22	is_in_sentence	sentence_2730
+2730_22	punct	2730_10
+2730_22	has_surface_form	.
+2730_23	is_in_sentence	sentence_2730
+2730_23	dep	2730_10
+2730_23	has_surface_form	
+Joyce Brabner	surface_form	Joyce Brabner
+Joyce Brabner	has-spouse	Harvey Pekar
+Harvey Pekar	surface_form	Harvey Pekar

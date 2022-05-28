@@ -1,0 +1,62 @@
+32091_0	is_in_sentence	sentence_32091
+32091_0	compound	32091_1
+32091_0	has_surface_form	Sayam
+32091_0	part_of_entity	Sayam Sandhya
+32091_1	is_in_sentence	sentence_32091
+32091_1	nsubj	32091_2
+32091_1	has_surface_form	Sandhya
+32091_1	part_of_entity	Sayam Sandhya
+32091_2	is_in_sentence	sentence_32091
+32091_2	ROOT	32091_2
+32091_2	has_surface_form	is
+32091_3	is_in_sentence	sentence_32091
+32091_3	det	32091_7
+32091_3	has_surface_form	a
+32091_7	is_in_sentence	sentence_32091
+32091_7	attr	32091_2
+32091_7	has_surface_form	film
+32091_4	is_in_sentence	sentence_32091
+32091_4	nummod	32091_7
+32091_4	has_surface_form	1986
+32091_5	is_in_sentence	sentence_32091
+32091_5	amod	32091_7
+32091_5	has_surface_form	Indian
+32091_6	is_in_sentence	sentence_32091
+32091_6	compound	32091_7
+32091_6	has_surface_form	Malayalam
+32091_8	is_in_sentence	sentence_32091
+32091_8	punct	32091_7
+32091_8	has_surface_form	,
+32091_9	is_in_sentence	sentence_32091
+32091_9	acl	32091_7
+32091_9	has_surface_form	directed
+32091_10	is_in_sentence	sentence_32091
+32091_10	agent	32091_9
+32091_10	has_surface_form	by
+32091_11	is_in_sentence	sentence_32091
+32091_11	pobj	32091_10
+32091_11	is_entity	Joshiy
+Joshiy	surface_form	Joshiy
+32091_12	is_in_sentence	sentence_32091
+32091_12	cc	32091_9
+32091_12	has_surface_form	and
+32091_13	is_in_sentence	sentence_32091
+32091_13	conj	32091_9
+32091_13	has_surface_form	produced
+32091_14	is_in_sentence	sentence_32091
+32091_14	agent	32091_13
+32091_14	has_surface_form	by
+32091_15	is_in_sentence	sentence_32091
+32091_15	compound	32091_16
+32091_15	has_surface_form	Thiruppathi
+32091_16	is_in_sentence	sentence_32091
+32091_16	pobj	32091_14
+32091_16	has_surface_form	Chettiyar
+32091_17	is_in_sentence	sentence_32091
+32091_17	punct	32091_2
+32091_17	has_surface_form	.
+32091_18	is_in_sentence	sentence_32091
+32091_18	dep	32091_2
+32091_18	has_surface_form	
+Sayam Sandhya	surface_form	Sayam Sandhya
+Sayam Sandhya	movie-has-director	Joshiy

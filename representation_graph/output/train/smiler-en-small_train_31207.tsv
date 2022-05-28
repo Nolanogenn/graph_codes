@@ -1,0 +1,85 @@
+31206_0	is_in_sentence	sentence_31206
+31206_0	compound	31206_1
+31206_0	has_surface_form	Lake
+31206_0	part_of_entity	Lake Havasu High School
+31206_1	is_in_sentence	sentence_31206
+31206_1	compound	31206_3
+31206_1	has_surface_form	Havasu
+31206_1	part_of_entity	Lake Havasu High School
+31206_3	is_in_sentence	sentence_31206
+31206_3	nsubj	31206_4
+31206_3	has_surface_form	School
+31206_3	part_of_entity	Lake Havasu High School
+31206_2	is_in_sentence	sentence_31206
+31206_2	compound	31206_3
+31206_2	has_surface_form	High
+31206_2	part_of_entity	Lake Havasu High School
+31206_4	is_in_sentence	sentence_31206
+31206_4	ROOT	31206_4
+31206_4	has_surface_form	is
+31206_5	is_in_sentence	sentence_31206
+31206_5	det	31206_7
+31206_5	has_surface_form	a
+31206_7	is_in_sentence	sentence_31206
+31206_7	attr	31206_4
+31206_7	has_surface_form	school
+31206_6	is_in_sentence	sentence_31206
+31206_6	amod	31206_7
+31206_6	has_surface_form	high
+31206_8	is_in_sentence	sentence_31206
+31206_8	prep	31206_7
+31206_8	has_surface_form	in
+31206_9	is_in_sentence	sentence_31206
+31206_9	compound	31206_10
+31206_9	has_surface_form	Lake
+31206_10	is_in_sentence	sentence_31206
+31206_10	compound	31206_11
+31206_10	has_surface_form	Havasu
+31206_11	is_in_sentence	sentence_31206
+31206_11	pobj	31206_8
+31206_11	has_surface_form	City
+31206_12	is_in_sentence	sentence_31206
+31206_12	punct	31206_11
+31206_12	has_surface_form	,
+31206_13	is_in_sentence	sentence_31206
+31206_13	appos	31206_11
+31206_13	has_surface_form	Arizona
+31206_14	is_in_sentence	sentence_31206
+31206_14	prep	31206_4
+31206_14	has_surface_form	under
+31206_15	is_in_sentence	sentence_31206
+31206_15	det	31206_16
+31206_15	has_surface_form	the
+31206_16	is_in_sentence	sentence_31206
+31206_16	pobj	31206_14
+31206_16	has_surface_form	jurisdiction
+31206_17	is_in_sentence	sentence_31206
+31206_17	prep	31206_16
+31206_17	has_surface_form	of
+31206_18	is_in_sentence	sentence_31206
+31206_18	det	31206_23
+31206_18	has_surface_form	the
+31206_23	is_in_sentence	sentence_31206
+31206_23	pobj	31206_17
+31206_23	has_surface_form	District
+31206_19	is_in_sentence	sentence_31206
+31206_19	compound	31206_20
+31206_19	has_surface_form	Lake
+31206_20	is_in_sentence	sentence_31206
+31206_20	compound	31206_23
+31206_20	has_surface_form	Havasu
+31206_21	is_in_sentence	sentence_31206
+31206_21	compound	31206_22
+31206_21	has_surface_form	Unified
+31206_22	is_in_sentence	sentence_31206
+31206_22	compound	31206_23
+31206_22	has_surface_form	School
+31206_24	is_in_sentence	sentence_31206
+31206_24	punct	31206_4
+31206_24	has_surface_form	.
+31206_25	is_in_sentence	sentence_31206
+31206_25	dep	31206_4
+31206_25	has_surface_form	
+Lake Havasu High School	surface_form	Lake Havasu High School
+Lake Havasu High School	is-where	Lake Havasu City, Arizona
+Lake Havasu City, Arizona	surface_form	Lake Havasu City, Arizona

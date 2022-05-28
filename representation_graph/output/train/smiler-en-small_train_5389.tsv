@@ -1,0 +1,53 @@
+5388_0	is_in_sentence	sentence_5388
+5388_0	compound	5388_1
+5388_0	has_surface_form	Pennsylvania
+5388_0	part_of_entity	Pennsylvania Route 341
+5388_1	is_in_sentence	sentence_5388
+5388_1	nsubj	5388_7
+5388_1	has_surface_form	Route
+5388_1	part_of_entity	Pennsylvania Route 341
+5388_7	is_in_sentence	sentence_5388
+5388_7	ROOT	5388_7
+5388_7	has_surface_form	is
+5388_2	is_in_sentence	sentence_5388
+5388_2	nummod	5388_1
+5388_2	has_surface_form	341
+5388_2	part_of_entity	Pennsylvania Route 341
+5388_3	is_in_sentence	sentence_5388
+5388_3	punct	5388_1
+5388_3	has_surface_form	(
+5388_4	is_in_sentence	sentence_5388
+5388_4	appos	5388_1
+5388_4	has_surface_form	PA
+5388_5	is_in_sentence	sentence_5388
+5388_5	nummod	5388_4
+5388_5	has_surface_form	341
+5388_6	is_in_sentence	sentence_5388
+5388_6	punct	5388_1
+5388_6	has_surface_form	)
+5388_8	is_in_sentence	sentence_5388
+5388_8	det	5388_10
+5388_8	has_surface_form	a
+5388_10	is_in_sentence	sentence_5388
+5388_10	attr	5388_7
+5388_10	has_surface_form	highway
+5388_10	part_of_entity	state highway
+5388_9	is_in_sentence	sentence_5388
+5388_9	compound	5388_10
+5388_9	has_surface_form	state
+5388_9	part_of_entity	state highway
+5388_11	is_in_sentence	sentence_5388
+5388_11	prep	5388_10
+5388_11	has_surface_form	in
+5388_12	is_in_sentence	sentence_5388
+5388_12	det	5388_13
+5388_12	has_surface_form	the
+5388_13	is_in_sentence	sentence_5388
+5388_13	pobj	5388_11
+5388_13	has_surface_form	U.
+5388_14	is_in_sentence	sentence_5388
+5388_14	dep	5388_7
+5388_14	has_surface_form	
+Pennsylvania Route 341	surface_form	Pennsylvania Route 341
+Pennsylvania Route 341	has-type	state highway
+state highway	surface_form	state highway

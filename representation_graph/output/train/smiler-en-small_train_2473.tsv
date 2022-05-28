@@ -1,0 +1,53 @@
+2472_0	is_in_sentence	sentence_2472
+2472_0	compound	2472_1
+2472_0	has_surface_form	Arkady
+2472_0	part_of_entity	Arkady Ostrovsky
+2472_1	is_in_sentence	sentence_2472
+2472_1	poss	2472_3
+2472_1	has_surface_form	Ostrovsky
+2472_1	part_of_entity	Arkady Ostrovsky
+2472_3	is_in_sentence	sentence_2472
+2472_3	nsubj	2472_7
+2472_3	has_surface_form	son
+2472_2	is_in_sentence	sentence_2472
+2472_2	case	2472_1
+2472_2	has_surface_form	's
+2472_7	is_in_sentence	sentence_2472
+2472_7	ROOT	2472_7
+2472_7	has_surface_form	gives
+2472_4	is_in_sentence	sentence_2472
+2472_4	punct	2472_3
+2472_4	has_surface_form	,
+2472_5	is_in_sentence	sentence_2472
+2472_5	appos	2472_3
+2472_5	is_entity	Mikhail
+Mikhail	surface_form	Mikhail
+2472_6	is_in_sentence	sentence_2472
+2472_6	punct	2472_3
+2472_6	has_surface_form	,
+2472_8	is_in_sentence	sentence_2472
+2472_8	det	2472_9
+2472_8	has_surface_form	another
+2472_9	is_in_sentence	sentence_2472
+2472_9	dobj	2472_7
+2472_9	has_surface_form	version
+2472_10	is_in_sentence	sentence_2472
+2472_10	prep	2472_9
+2472_10	has_surface_form	of
+2472_11	is_in_sentence	sentence_2472
+2472_11	det	2472_13
+2472_11	has_surface_form	the
+2472_13	is_in_sentence	sentence_2472
+2472_13	pobj	2472_10
+2472_13	has_surface_form	story
+2472_12	is_in_sentence	sentence_2472
+2472_12	compound	2472_13
+2472_12	has_surface_form	vocalise
+2472_14	is_in_sentence	sentence_2472
+2472_14	punct	2472_7
+2472_14	has_surface_form	.
+2472_15	is_in_sentence	sentence_2472
+2472_15	dep	2472_15
+2472_15	has_surface_form	
+Arkady Ostrovsky	surface_form	Arkady Ostrovsky
+Arkady Ostrovsky	has-child	Mikhail

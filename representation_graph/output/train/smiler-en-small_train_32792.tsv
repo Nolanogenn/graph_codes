@@ -1,0 +1,65 @@
+32791_0	is_in_sentence	sentence_32791
+32791_0	compound	32791_1
+32791_0	has_surface_form	Gregg
+32791_0	part_of_entity	Gregg Troy
+32791_1	is_in_sentence	sentence_32791
+32791_1	nsubj	32791_9
+32791_1	has_surface_form	Troy
+32791_1	part_of_entity	Gregg Troy
+32791_9	is_in_sentence	sentence_32791
+32791_9	ROOT	32791_9
+32791_9	has_surface_form	is
+32791_2	is_in_sentence	sentence_32791
+32791_2	punct	32791_1
+32791_2	has_surface_form	(
+32791_3	is_in_sentence	sentence_32791
+32791_3	acl	32791_1
+32791_3	has_surface_form	born
+32791_4	is_in_sentence	sentence_32791
+32791_4	npadvmod	32791_3
+32791_4	has_surface_form	December
+32791_5	is_in_sentence	sentence_32791
+32791_5	nummod	32791_4
+32791_5	has_surface_form	19
+32791_6	is_in_sentence	sentence_32791
+32791_6	punct	32791_4
+32791_6	has_surface_form	,
+32791_7	is_in_sentence	sentence_32791
+32791_7	nummod	32791_4
+32791_7	has_surface_form	1950
+32791_8	is_in_sentence	sentence_32791
+32791_8	punct	32791_1
+32791_8	has_surface_form	)
+32791_10	is_in_sentence	sentence_32791
+32791_10	det	32791_16
+32791_10	has_surface_form	an
+32791_16	is_in_sentence	sentence_32791
+32791_16	attr	32791_9
+32791_16	has_surface_form	coach
+32791_16	part_of_entity	Olympic swimming coach
+32791_11	is_in_sentence	sentence_32791
+32791_11	amod	32791_16
+32791_11	has_surface_form	American
+32791_12	is_in_sentence	sentence_32791
+32791_12	nmod	32791_16
+32791_12	has_surface_form	college
+32791_13	is_in_sentence	sentence_32791
+32791_13	cc	32791_12
+32791_13	has_surface_form	and
+32791_14	is_in_sentence	sentence_32791
+32791_14	conj	32791_12
+32791_14	has_surface_form	Olympic
+32791_14	part_of_entity	Olympic swimming coach
+32791_15	is_in_sentence	sentence_32791
+32791_15	conj	32791_12
+32791_15	has_surface_form	swimming
+32791_15	part_of_entity	Olympic swimming coach
+32791_17	is_in_sentence	sentence_32791
+32791_17	punct	32791_9
+32791_17	has_surface_form	.
+32791_18	is_in_sentence	sentence_32791
+32791_18	dep	32791_18
+32791_18	has_surface_form	
+Gregg Troy	surface_form	Gregg Troy
+Gregg Troy	has-type	Olympic swimming coach
+Olympic swimming coach	surface_form	Olympic swimming coach

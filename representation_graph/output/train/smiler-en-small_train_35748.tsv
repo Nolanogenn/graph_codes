@@ -1,0 +1,65 @@
+35747_0	is_in_sentence	sentence_35747
+35747_0	compound	35747_1
+35747_0	has_surface_form	Rona
+35747_0	part_of_entity	Rona Hartner
+35747_1	is_in_sentence	sentence_35747
+35747_1	nsubj	35747_10
+35747_1	has_surface_form	Hartner
+35747_1	part_of_entity	Rona Hartner
+35747_10	is_in_sentence	sentence_35747
+35747_10	ROOT	35747_10
+35747_10	has_surface_form	is
+35747_2	is_in_sentence	sentence_35747
+35747_2	punct	35747_1
+35747_2	has_surface_form	(
+35747_3	is_in_sentence	sentence_35747
+35747_3	acl	35747_1
+35747_3	has_surface_form	born
+35747_4	is_in_sentence	sentence_35747
+35747_4	nummod	35747_8
+35747_4	has_surface_form	9
+35747_8	is_in_sentence	sentence_35747
+35747_8	npadvmod	35747_3
+35747_8	is_entity	Bucharest
+35747_5	is_in_sentence	sentence_35747
+35747_5	nmod	35747_8
+35747_5	has_surface_form	March
+35747_6	is_in_sentence	sentence_35747
+35747_6	nummod	35747_5
+35747_6	has_surface_form	1973
+35747_7	is_in_sentence	sentence_35747
+35747_7	punct	35747_5
+35747_7	has_surface_form	,
+Bucharest	surface_form	Bucharest
+35747_9	is_in_sentence	sentence_35747
+35747_9	punct	35747_1
+35747_9	has_surface_form	)
+35747_11	is_in_sentence	sentence_35747
+35747_11	det	35747_13
+35747_11	has_surface_form	a
+35747_13	is_in_sentence	sentence_35747
+35747_13	attr	35747_10
+35747_13	has_surface_form	actress
+35747_12	is_in_sentence	sentence_35747
+35747_12	amod	35747_13
+35747_12	has_surface_form	Romanian
+35747_14	is_in_sentence	sentence_35747
+35747_14	punct	35747_13
+35747_14	has_surface_form	,
+35747_15	is_in_sentence	sentence_35747
+35747_15	conj	35747_13
+35747_15	has_surface_form	painter
+35747_16	is_in_sentence	sentence_35747
+35747_16	cc	35747_15
+35747_16	has_surface_form	and
+35747_17	is_in_sentence	sentence_35747
+35747_17	conj	35747_15
+35747_17	has_surface_form	singer
+35747_18	is_in_sentence	sentence_35747
+35747_18	punct	35747_10
+35747_18	has_surface_form	.
+35747_19	is_in_sentence	sentence_35747
+35747_19	dep	35747_19
+35747_19	has_surface_form	
+Rona Hartner	surface_form	Rona Hartner
+Rona Hartner	birth-place	Bucharest

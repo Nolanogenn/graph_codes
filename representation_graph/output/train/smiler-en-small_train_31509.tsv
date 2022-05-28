@@ -1,0 +1,65 @@
+31508_0	is_in_sentence	sentence_31508
+31508_0	compound	31508_1
+31508_0	has_surface_form	Ninne
+31508_0	part_of_entity	Ninne Premistha
+31508_1	is_in_sentence	sentence_31508
+31508_1	dep	31508_7
+31508_1	has_surface_form	Premistha
+31508_1	part_of_entity	Ninne Premistha
+31508_7	is_in_sentence	sentence_31508
+31508_7	ROOT	31508_7
+31508_7	has_surface_form	Love
+31508_2	is_in_sentence	sentence_31508
+31508_2	punct	31508_3
+31508_2	has_surface_form	(
+31508_3	is_in_sentence	sentence_31508
+31508_3	appos	31508_1
+31508_3	has_surface_form	English
+31508_4	is_in_sentence	sentence_31508
+31508_4	punct	31508_7
+31508_4	has_surface_form	:
+31508_5	is_in_sentence	sentence_31508
+31508_5	nsubj	31508_7
+31508_5	has_surface_form	I
+31508_6	is_in_sentence	sentence_31508
+31508_6	aux	31508_7
+31508_6	has_surface_form	will
+31508_8	is_in_sentence	sentence_31508
+31508_8	dobj	31508_7
+31508_8	has_surface_form	You
+31508_9	is_in_sentence	sentence_31508
+31508_9	dep	31508_7
+31508_9	has_surface_form	 
+31508_10	is_in_sentence	sentence_31508
+31508_10	punct	31508_7
+31508_10	has_surface_form	!
+31508_11	is_in_sentence	sentence_31508
+31508_11	punct	31508_7
+31508_11	has_surface_form	)
+31508_12	is_in_sentence	sentence_31508
+31508_12	ROOT	31508_12
+31508_12	has_surface_form	is
+31508_13	is_in_sentence	sentence_31508
+31508_13	det	31508_15
+31508_13	has_surface_form	a
+31508_15	is_in_sentence	sentence_31508
+31508_15	attr	31508_12
+31508_15	is_entity	film
+31508_14	is_in_sentence	sentence_31508
+31508_14	compound	31508_15
+31508_14	has_surface_form	Telugu
+film	surface_form	film
+31508_16	is_in_sentence	sentence_31508
+31508_16	acl	31508_15
+31508_16	has_surface_form	produced
+31508_17	is_in_sentence	sentence_31508
+31508_17	agent	31508_16
+31508_17	has_surface_form	by
+31508_18	is_in_sentence	sentence_31508
+31508_18	compound	31508_19
+31508_18	has_surface_form	R.
+31508_19	is_in_sentence	sentence_31508
+31508_19	dep	31508_17
+31508_19	has_surface_form	
+Ninne Premistha	surface_form	Ninne Premistha
+Ninne Premistha	has-type	film

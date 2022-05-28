@@ -1,0 +1,49 @@
+11466_0	is_in_sentence	sentence_11466
+11466_0	compound	11466_1
+11466_0	has_surface_form	Variety
+11466_0	part_of_entity	Variety Time
+11466_1	is_in_sentence	sentence_11466
+11466_1	nsubj	11466_2
+11466_1	has_surface_form	Time
+11466_1	part_of_entity	Variety Time
+11466_2	is_in_sentence	sentence_11466
+11466_2	ROOT	11466_2
+11466_2	has_surface_form	is
+11466_3	is_in_sentence	sentence_11466
+11466_3	det	11466_7
+11466_3	has_surface_form	a
+11466_7	is_in_sentence	sentence_11466
+11466_7	attr	11466_2
+11466_7	has_surface_form	film
+11466_4	is_in_sentence	sentence_11466
+11466_4	nummod	11466_7
+11466_4	has_surface_form	1948
+11466_5	is_in_sentence	sentence_11466
+11466_5	amod	11466_7
+11466_5	has_surface_form	American
+11466_6	is_in_sentence	sentence_11466
+11466_6	compound	11466_7
+11466_6	has_surface_form	variety
+11466_8	is_in_sentence	sentence_11466
+11466_8	acl	11466_7
+11466_8	has_surface_form	directed
+11466_9	is_in_sentence	sentence_11466
+11466_9	agent	11466_8
+11466_9	has_surface_form	by
+11466_10	is_in_sentence	sentence_11466
+11466_10	compound	11466_11
+11466_10	has_surface_form	Hal
+11466_10	part_of_entity	Hal Yates
+11466_11	is_in_sentence	sentence_11466
+11466_11	pobj	11466_9
+11466_11	has_surface_form	Yates
+11466_11	part_of_entity	Hal Yates
+11466_12	is_in_sentence	sentence_11466
+11466_12	punct	11466_2
+11466_12	has_surface_form	.
+11466_13	is_in_sentence	sentence_11466
+11466_13	dep	11466_2
+11466_13	has_surface_form	
+Variety Time	surface_form	Variety Time
+Variety Time	movie-has-director	Hal Yates
+Hal Yates	surface_form	Hal Yates

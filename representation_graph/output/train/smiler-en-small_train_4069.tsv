@@ -1,0 +1,80 @@
+4068_0	is_in_sentence	sentence_4068
+4068_0	det	4068_4
+4068_0	has_surface_form	The
+4068_4	is_in_sentence	sentence_4068
+4068_4	nsubjpass	4068_10
+4068_4	has_surface_form	Academy
+4068_4	part_of_entity	Great Lakes Maritime Academy
+4068_1	is_in_sentence	sentence_4068
+4068_1	compound	4068_4
+4068_1	has_surface_form	Great
+4068_1	part_of_entity	Great Lakes Maritime Academy
+4068_2	is_in_sentence	sentence_4068
+4068_2	compound	4068_4
+4068_2	has_surface_form	Lakes
+4068_2	part_of_entity	Great Lakes Maritime Academy
+4068_3	is_in_sentence	sentence_4068
+4068_3	compound	4068_4
+4068_3	has_surface_form	Maritime
+4068_3	part_of_entity	Great Lakes Maritime Academy
+4068_10	is_in_sentence	sentence_4068
+4068_10	ROOT	4068_10
+4068_10	has_surface_form	located
+4068_5	is_in_sentence	sentence_4068
+4068_5	prep	4068_4
+4068_5	has_surface_form	at
+4068_6	is_in_sentence	sentence_4068
+4068_6	compound	4068_8
+4068_6	has_surface_form	Northwestern
+4068_8	is_in_sentence	sentence_4068
+4068_8	pobj	4068_5
+4068_8	has_surface_form	College
+4068_7	is_in_sentence	sentence_4068
+4068_7	compound	4068_8
+4068_7	has_surface_form	Michigan
+4068_9	is_in_sentence	sentence_4068
+4068_9	auxpass	4068_10
+4068_9	has_surface_form	is
+4068_11	is_in_sentence	sentence_4068
+4068_11	prep	4068_10
+4068_11	has_surface_form	on
+4068_12	is_in_sentence	sentence_4068
+4068_12	compound	4068_13
+4068_12	has_surface_form	West
+4068_12	part_of_entity	West Grand Traverse Bay
+4068_13	is_in_sentence	sentence_4068
+4068_13	compound	4068_15
+4068_13	has_surface_form	Grand
+4068_13	part_of_entity	West Grand Traverse Bay
+4068_15	is_in_sentence	sentence_4068
+4068_15	pobj	4068_11
+4068_15	has_surface_form	Bay
+4068_15	part_of_entity	West Grand Traverse Bay
+4068_14	is_in_sentence	sentence_4068
+4068_14	compound	4068_15
+4068_14	has_surface_form	Traverse
+4068_14	part_of_entity	West Grand Traverse Bay
+4068_16	is_in_sentence	sentence_4068
+4068_16	prep	4068_15
+4068_16	has_surface_form	in
+4068_17	is_in_sentence	sentence_4068
+4068_17	compound	4068_18
+4068_17	has_surface_form	Traverse
+4068_18	is_in_sentence	sentence_4068
+4068_18	pobj	4068_16
+4068_18	has_surface_form	City
+4068_19	is_in_sentence	sentence_4068
+4068_19	punct	4068_18
+4068_19	has_surface_form	,
+4068_20	is_in_sentence	sentence_4068
+4068_20	appos	4068_18
+4068_20	has_surface_form	Michigan
+4068_21	is_in_sentence	sentence_4068
+4068_21	punct	4068_10
+4068_21	has_surface_form	.
+4068_22	is_in_sentence	sentence_4068
+4068_22	dep	4068_10
+4068_22	has_surface_form	
+Great Lakes Maritime Academy	surface_form	Great Lakes Maritime Academy
+Great Lakes Maritime Academy	is-where	West Grand Traverse Bay
+West Grand Traverse Bay	surface_form	West Grand Traverse Bay

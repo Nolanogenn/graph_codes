@@ -1,0 +1,65 @@
+34726_0	is_in_sentence	sentence_34726
+34726_0	compound	34726_1
+34726_0	has_surface_form	Otis
+34726_0	part_of_entity	Otis Williams
+34726_1	is_in_sentence	sentence_34726
+34726_1	nsubj	34726_13
+34726_1	has_surface_form	Williams
+34726_1	part_of_entity	Otis Williams
+34726_13	is_in_sentence	sentence_34726
+34726_13	ROOT	34726_13
+34726_13	has_surface_form	is
+34726_2	is_in_sentence	sentence_34726
+34726_2	punct	34726_3
+34726_2	has_surface_form	(
+34726_3	is_in_sentence	sentence_34726
+34726_3	parataxis	34726_1
+34726_3	has_surface_form	born
+34726_4	is_in_sentence	sentence_34726
+34726_4	compound	34726_6
+34726_4	has_surface_form	Otis
+34726_6	is_in_sentence	sentence_34726
+34726_6	dobj	34726_3
+34726_6	has_surface_form	Jr.
+34726_5	is_in_sentence	sentence_34726
+34726_5	compound	34726_6
+34726_5	has_surface_form	Miles
+34726_7	is_in_sentence	sentence_34726
+34726_7	punct	34726_1
+34726_7	has_surface_form	;
+34726_8	is_in_sentence	sentence_34726
+34726_8	appos	34726_1
+34726_8	has_surface_form	October
+34726_9	is_in_sentence	sentence_34726
+34726_9	nummod	34726_8
+34726_9	has_surface_form	30
+34726_10	is_in_sentence	sentence_34726
+34726_10	punct	34726_8
+34726_10	has_surface_form	,
+34726_11	is_in_sentence	sentence_34726
+34726_11	nummod	34726_8
+34726_11	has_surface_form	1941
+34726_12	is_in_sentence	sentence_34726
+34726_12	punct	34726_8
+34726_12	has_surface_form	)
+34726_14	is_in_sentence	sentence_34726
+34726_14	det	34726_17
+34726_14	has_surface_form	an
+34726_17	is_in_sentence	sentence_34726
+34726_17	attr	34726_13
+34726_17	is_entity	singer
+34726_15	is_in_sentence	sentence_34726
+34726_15	amod	34726_17
+34726_15	has_surface_form	American
+34726_16	is_in_sentence	sentence_34726
+34726_16	compound	34726_17
+34726_16	has_surface_form	baritone
+singer	surface_form	singer
+34726_18	is_in_sentence	sentence_34726
+34726_18	punct	34726_13
+34726_18	has_surface_form	.
+34726_19	is_in_sentence	sentence_34726
+34726_19	dep	34726_19
+34726_19	has_surface_form	
+Otis Williams	surface_form	Otis Williams
+Otis Williams	has-occupation	singer

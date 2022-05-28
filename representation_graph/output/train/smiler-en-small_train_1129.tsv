@@ -1,0 +1,82 @@
+1128_0	is_in_sentence	sentence_1128
+1128_0	compound	1128_1
+1128_0	has_surface_form	Himeji
+1128_0	part_of_entity	Himeji College of Hyogo
+1128_1	is_in_sentence	sentence_1128
+1128_1	nsubj	1128_11
+1128_1	has_surface_form	College
+1128_1	part_of_entity	Himeji College of Hyogo
+1128_11	is_in_sentence	sentence_1128
+1128_11	ROOT	1128_11
+1128_11	has_surface_form	was
+1128_2	is_in_sentence	sentence_1128
+1128_2	prep	1128_1
+1128_2	has_surface_form	of
+1128_2	part_of_entity	Himeji College of Hyogo
+1128_3	is_in_sentence	sentence_1128
+1128_3	pobj	1128_2
+1128_3	has_surface_form	Hyogo
+1128_3	part_of_entity	Himeji College of Hyogo
+1128_4	is_in_sentence	sentence_1128
+1128_4	punct	1128_1
+1128_4	has_surface_form	(
+1128_5	is_in_sentence	sentence_1128
+1128_5	appos	1128_1
+1128_5	has_surface_form	姫路短期大学
+1128_6	is_in_sentence	sentence_1128
+1128_6	punct	1128_5
+1128_6	has_surface_form	,
+1128_7	is_in_sentence	sentence_1128
+1128_7	compound	1128_9
+1128_7	has_surface_form	Himeji
+1128_9	is_in_sentence	sentence_1128
+1128_9	npadvmod	1128_5
+1128_9	has_surface_form	Daigaku
+1128_8	is_in_sentence	sentence_1128
+1128_8	compound	1128_9
+1128_8	has_surface_form	Tanki
+1128_10	is_in_sentence	sentence_1128
+1128_10	punct	1128_5
+1128_10	has_surface_form	)
+1128_12	is_in_sentence	sentence_1128
+1128_12	det	1128_15
+1128_12	has_surface_form	a
+1128_15	is_in_sentence	sentence_1128
+1128_15	attr	1128_11
+1128_15	has_surface_form	college
+1128_15	part_of_entity	public junior college
+1128_13	is_in_sentence	sentence_1128
+1128_13	amod	1128_15
+1128_13	has_surface_form	public
+1128_13	part_of_entity	public junior college
+1128_14	is_in_sentence	sentence_1128
+1128_14	amod	1128_15
+1128_14	has_surface_form	junior
+1128_14	part_of_entity	public junior college
+1128_16	is_in_sentence	sentence_1128
+1128_16	prep	1128_15
+1128_16	has_surface_form	in
+1128_17	is_in_sentence	sentence_1128
+1128_17	pobj	1128_16
+1128_17	has_surface_form	Himeji
+1128_18	is_in_sentence	sentence_1128
+1128_18	punct	1128_17
+1128_18	has_surface_form	,
+1128_19	is_in_sentence	sentence_1128
+1128_19	conj	1128_17
+1128_19	has_surface_form	Hyōgo
+1128_20	is_in_sentence	sentence_1128
+1128_20	punct	1128_19
+1128_20	has_surface_form	,
+1128_21	is_in_sentence	sentence_1128
+1128_21	appos	1128_19
+1128_21	has_surface_form	Japan
+1128_22	is_in_sentence	sentence_1128
+1128_22	punct	1128_11
+1128_22	has_surface_form	.
+1128_23	is_in_sentence	sentence_1128
+1128_23	dep	1128_11
+1128_23	has_surface_form	
+Himeji College of Hyogo	surface_form	Himeji College of Hyogo
+Himeji College of Hyogo	has-type	public junior college
+public junior college	surface_form	public junior college

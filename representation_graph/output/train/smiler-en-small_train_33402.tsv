@@ -1,0 +1,51 @@
+33401_0	is_in_sentence	sentence_33401
+33401_0	compound	33401_2
+33401_0	has_surface_form	Estrella
+33401_0	part_of_entity	Estrella High School
+33401_2	is_in_sentence	sentence_33401
+33401_2	nsubj	33401_3
+33401_2	has_surface_form	School
+33401_2	part_of_entity	Estrella High School
+33401_1	is_in_sentence	sentence_33401
+33401_1	compound	33401_2
+33401_1	has_surface_form	High
+33401_1	part_of_entity	Estrella High School
+33401_3	is_in_sentence	sentence_33401
+33401_3	ROOT	33401_3
+33401_3	has_surface_form	is
+33401_4	is_in_sentence	sentence_33401
+33401_4	det	33401_8
+33401_4	has_surface_form	a
+33401_8	is_in_sentence	sentence_33401
+33401_8	attr	33401_3
+33401_8	has_surface_form	school
+33401_5	is_in_sentence	sentence_33401
+33401_5	amod	33401_6
+33401_5	has_surface_form	public
+33401_6	is_in_sentence	sentence_33401
+33401_6	nmod	33401_8
+33401_6	has_surface_form	charter
+33401_7	is_in_sentence	sentence_33401
+33401_7	amod	33401_8
+33401_7	has_surface_form	high
+33401_9	is_in_sentence	sentence_33401
+33401_9	prep	33401_8
+33401_9	has_surface_form	in
+33401_10	is_in_sentence	sentence_33401
+33401_10	pobj	33401_9
+33401_10	has_surface_form	Avondale
+33401_11	is_in_sentence	sentence_33401
+33401_11	punct	33401_10
+33401_11	has_surface_form	,
+33401_12	is_in_sentence	sentence_33401
+33401_12	appos	33401_10
+33401_12	has_surface_form	Arizona
+33401_13	is_in_sentence	sentence_33401
+33401_13	punct	33401_3
+33401_13	has_surface_form	.
+33401_14	is_in_sentence	sentence_33401
+33401_14	dep	33401_3
+33401_14	has_surface_form	
+Estrella High School	surface_form	Estrella High School
+Estrella High School	is-where	Avondale, Arizona
+Avondale, Arizona	surface_form	Avondale, Arizona

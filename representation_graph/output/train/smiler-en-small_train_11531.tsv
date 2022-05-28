@@ -1,0 +1,71 @@
+11530_0	is_in_sentence	sentence_11530
+11530_0	ROOT	11530_0
+11530_0	has_surface_form	I
+11530_0	part_of_entity	I Don Giovanni della Costa Azzurra
+11530_1	is_in_sentence	sentence_11530
+11530_1	compound	11530_2
+11530_1	has_surface_form	Don
+11530_1	part_of_entity	I Don Giovanni della Costa Azzurra
+11530_2	is_in_sentence	sentence_11530
+11530_2	compound	11530_5
+11530_2	has_surface_form	Giovanni
+11530_2	part_of_entity	I Don Giovanni della Costa Azzurra
+11530_5	is_in_sentence	sentence_11530
+11530_5	appos	11530_0
+11530_5	has_surface_form	Azzurra
+11530_5	part_of_entity	I Don Giovanni della Costa Azzurra
+11530_3	is_in_sentence	sentence_11530
+11530_3	compound	11530_5
+11530_3	has_surface_form	della
+11530_3	part_of_entity	I Don Giovanni della Costa Azzurra
+11530_4	is_in_sentence	sentence_11530
+11530_4	compound	11530_5
+11530_4	has_surface_form	Costa
+11530_4	part_of_entity	I Don Giovanni della Costa Azzurra
+11530_6	is_in_sentence	sentence_11530
+11530_6	punct	11530_0
+11530_6	has_surface_form	/Beach
+11530_7	is_in_sentence	sentence_11530
+11530_7	nsubj	11530_8
+11530_7	has_surface_form	Casanova
+11530_8	is_in_sentence	sentence_11530
+11530_8	ROOT	11530_8
+11530_8	has_surface_form	is
+11530_9	is_in_sentence	sentence_11530
+11530_9	det	11530_12
+11530_9	has_surface_form	a
+11530_12	is_in_sentence	sentence_11530
+11530_12	attr	11530_8
+11530_12	has_surface_form	film
+11530_10	is_in_sentence	sentence_11530
+11530_10	nummod	11530_12
+11530_10	has_surface_form	1962
+11530_11	is_in_sentence	sentence_11530
+11530_11	amod	11530_12
+11530_11	has_surface_form	Italian
+11530_13	is_in_sentence	sentence_11530
+11530_13	punct	11530_12
+11530_13	has_surface_form	,
+11530_14	is_in_sentence	sentence_11530
+11530_14	acl	11530_12
+11530_14	has_surface_form	directed
+11530_15	is_in_sentence	sentence_11530
+11530_15	agent	11530_14
+11530_15	has_surface_form	by
+11530_16	is_in_sentence	sentence_11530
+11530_16	compound	11530_17
+11530_16	has_surface_form	Vittorio
+11530_16	part_of_entity	Vittorio Sala
+11530_17	is_in_sentence	sentence_11530
+11530_17	pobj	11530_15
+11530_17	has_surface_form	Sala
+11530_17	part_of_entity	Vittorio Sala
+11530_18	is_in_sentence	sentence_11530
+11530_18	punct	11530_8
+11530_18	has_surface_form	.
+11530_19	is_in_sentence	sentence_11530
+11530_19	dep	11530_8
+11530_19	has_surface_form	
+I Don Giovanni della Costa Azzurra	surface_form	I Don Giovanni della Costa Azzurra
+I Don Giovanni della Costa Azzurra	movie-has-director	Vittorio Sala
+Vittorio Sala	surface_form	Vittorio Sala

@@ -1,0 +1,56 @@
+23748_0	is_in_sentence	sentence_23748
+23748_0	det	23748_2
+23748_0	has_surface_form	A
+23748_0	part_of_entity	A Plumm Summer
+23748_2	is_in_sentence	sentence_23748
+23748_2	nsubj	23748_3
+23748_2	has_surface_form	Summer
+23748_2	part_of_entity	A Plumm Summer
+23748_1	is_in_sentence	sentence_23748
+23748_1	compound	23748_2
+23748_1	has_surface_form	Plumm
+23748_1	part_of_entity	A Plumm Summer
+23748_3	is_in_sentence	sentence_23748
+23748_3	ROOT	23748_3
+23748_3	has_surface_form	is
+23748_4	is_in_sentence	sentence_23748
+23748_4	det	23748_9
+23748_4	has_surface_form	a
+23748_9	is_in_sentence	sentence_23748
+23748_9	attr	23748_3
+23748_9	has_surface_form	film
+23748_5	is_in_sentence	sentence_23748
+23748_5	nummod	23748_9
+23748_5	has_surface_form	2007
+23748_6	is_in_sentence	sentence_23748
+23748_6	compound	23748_8
+23748_6	has_surface_form	adventure
+23748_8	is_in_sentence	sentence_23748
+23748_8	compound	23748_9
+23748_8	has_surface_form	family
+23748_7	is_in_sentence	sentence_23748
+23748_7	punct	23748_8
+23748_7	has_surface_form	-
+23748_10	is_in_sentence	sentence_23748
+23748_10	acl	23748_9
+23748_10	has_surface_form	directed
+23748_11	is_in_sentence	sentence_23748
+23748_11	agent	23748_10
+23748_11	has_surface_form	by
+23748_12	is_in_sentence	sentence_23748
+23748_12	compound	23748_13
+23748_12	has_surface_form	Caroline
+23748_12	part_of_entity	Caroline Zelder
+23748_13	is_in_sentence	sentence_23748
+23748_13	pobj	23748_11
+23748_13	has_surface_form	Zelder
+23748_13	part_of_entity	Caroline Zelder
+23748_14	is_in_sentence	sentence_23748
+23748_14	punct	23748_3
+23748_14	has_surface_form	.
+23748_15	is_in_sentence	sentence_23748
+23748_15	dep	23748_3
+23748_15	has_surface_form	
+A Plumm Summer	surface_form	A Plumm Summer
+A Plumm Summer	movie-has-director	Caroline Zelder
+Caroline Zelder	surface_form	Caroline Zelder

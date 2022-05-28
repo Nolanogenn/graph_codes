@@ -1,0 +1,43 @@
+7926_0	is_in_sentence	sentence_7926
+7926_0	nsubj	7926_1
+7926_0	has_surface_form	Haddaway
+7926_1	is_in_sentence	sentence_7926
+7926_1	ROOT	7926_1
+7926_1	has_surface_form	launched
+7926_2	is_in_sentence	sentence_7926
+7926_2	det	7926_4
+7926_2	has_surface_form	the
+7926_4	is_in_sentence	sentence_7926
+7926_4	dobj	7926_1
+7926_4	has_surface_form	Lottery
+7926_4	part_of_entity	Lottery at St. Michaels
+7926_3	is_in_sentence	sentence_7926
+7926_3	compound	7926_4
+7926_3	has_surface_form	schooner
+7926_5	is_in_sentence	sentence_7926
+7926_5	prep	7926_4
+7926_5	has_surface_form	at
+7926_5	part_of_entity	Lottery at St. Michaels
+7926_6	is_in_sentence	sentence_7926
+7926_6	compound	7926_7
+7926_6	has_surface_form	St.
+7926_6	part_of_entity	Lottery at St. Michaels
+7926_7	is_in_sentence	sentence_7926
+7926_7	pobj	7926_5
+7926_7	has_surface_form	Michaels
+7926_7	part_of_entity	Lottery at St. Michaels
+7926_8	is_in_sentence	sentence_7926
+7926_8	prep	7926_1
+7926_8	has_surface_form	in
+7926_9	is_in_sentence	sentence_7926
+7926_9	pobj	7926_8
+7926_9	is_entity	1812
+1812	surface_form	1812
+7926_10	is_in_sentence	sentence_7926
+7926_10	punct	7926_1
+7926_10	has_surface_form	.
+7926_11	is_in_sentence	sentence_7926
+7926_11	dep	7926_11
+7926_11	has_surface_form	
+Lottery at St. Michaels	surface_form	Lottery at St. Michaels
+Lottery at St. Michaels	invented-when	1812

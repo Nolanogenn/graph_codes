@@ -1,0 +1,85 @@
+13624_0	is_in_sentence	sentence_13624
+13624_0	compound	13624_1
+13624_0	has_surface_form	Aurore
+13624_0	part_of_entity	Aurore Sarl
+13624_1	is_in_sentence	sentence_13624
+13624_1	nsubj	13624_7
+13624_1	has_surface_form	Sarl
+13624_1	part_of_entity	Aurore Sarl
+13624_7	is_in_sentence	sentence_13624
+13624_7	ROOT	13624_7
+13624_7	has_surface_form	is
+13624_2	is_in_sentence	sentence_13624
+13624_2	punct	13624_1
+13624_2	has_surface_form	(
+13624_3	is_in_sentence	sentence_13624
+13624_3	appos	13624_1
+13624_3	has_surface_form	English
+13624_4	is_in_sentence	sentence_13624
+13624_4	punct	13624_3
+13624_4	has_surface_form	:
+13624_5	is_in_sentence	sentence_13624
+13624_5	appos	13624_3
+13624_5	has_surface_form	Aurora
+13624_6	is_in_sentence	sentence_13624
+13624_6	punct	13624_3
+13624_6	has_surface_form	)
+13624_8	is_in_sentence	sentence_13624
+13624_8	det	13624_11
+13624_8	has_surface_form	a
+13624_11	is_in_sentence	sentence_13624
+13624_11	attr	13624_7
+13624_11	has_surface_form	manufacturer
+13624_9	is_in_sentence	sentence_13624
+13624_9	amod	13624_11
+13624_9	has_surface_form	French
+13624_10	is_in_sentence	sentence_13624
+13624_10	compound	13624_11
+13624_10	has_surface_form	aircraft
+13624_12	is_in_sentence	sentence_13624
+13624_12	acl	13624_11
+13624_12	has_surface_form	based
+13624_13	is_in_sentence	sentence_13624
+13624_13	prep	13624_12
+13624_13	has_surface_form	in
+13624_14	is_in_sentence	sentence_13624
+13624_14	pobj	13624_13
+13624_14	has_surface_form	Sauvagnon
+13624_15	is_in_sentence	sentence_13624
+13624_15	punct	13624_11
+13624_15	has_surface_form	,
+13624_16	is_in_sentence	sentence_13624
+13624_16	acl	13624_11
+13624_16	has_surface_form	founded
+13624_17	is_in_sentence	sentence_13624
+13624_17	agent	13624_16
+13624_17	has_surface_form	by
+13624_18	is_in_sentence	sentence_13624
+13624_18	compound	13624_19
+13624_18	has_surface_form	Michel
+13624_18	part_of_entity	Michel Barry
+13624_19	is_in_sentence	sentence_13624
+13624_19	pobj	13624_17
+13624_19	has_surface_form	Barry
+13624_19	part_of_entity	Michel Barry
+13624_20	is_in_sentence	sentence_13624
+13624_20	prep	13624_16
+13624_20	has_surface_form	in
+13624_21	is_in_sentence	sentence_13624
+13624_21	det	13624_23
+13624_21	has_surface_form	the
+13624_23	is_in_sentence	sentence_13624
+13624_23	pobj	13624_20
+13624_23	has_surface_form	1990s
+13624_22	is_in_sentence	sentence_13624
+13624_22	amod	13624_23
+13624_22	has_surface_form	late
+13624_24	is_in_sentence	sentence_13624
+13624_24	punct	13624_7
+13624_24	has_surface_form	.
+13624_25	is_in_sentence	sentence_13624
+13624_25	dep	13624_25
+13624_25	has_surface_form	
+Aurore Sarl	surface_form	Aurore Sarl
+Aurore Sarl	org-has-founder	Michel Barry
+Michel Barry	surface_form	Michel Barry

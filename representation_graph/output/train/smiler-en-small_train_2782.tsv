@@ -1,0 +1,89 @@
+2781_0	is_in_sentence	sentence_2781
+2781_0	compound	2781_1
+2781_0	has_surface_form	Napa
+2781_0	part_of_entity	Napa Valley College
+2781_1	is_in_sentence	sentence_2781
+2781_1	compound	2781_2
+2781_1	has_surface_form	Valley
+2781_1	part_of_entity	Napa Valley College
+2781_2	is_in_sentence	sentence_2781
+2781_2	nsubj	2781_15
+2781_2	has_surface_form	College
+2781_2	part_of_entity	Napa Valley College
+2781_15	is_in_sentence	sentence_2781
+2781_15	ROOT	2781_15
+2781_15	has_surface_form	is
+2781_3	is_in_sentence	sentence_2781
+2781_3	punct	2781_2
+2781_3	has_surface_form	,
+2781_4	is_in_sentence	sentence_2781
+2781_4	advmod	2781_5
+2781_4	has_surface_form	formerly
+2781_5	is_in_sentence	sentence_2781
+2781_5	acl	2781_2
+2781_5	has_surface_form	known
+2781_6	is_in_sentence	sentence_2781
+2781_6	prep	2781_5
+2781_6	has_surface_form	as
+2781_7	is_in_sentence	sentence_2781
+2781_7	compound	2781_9
+2781_7	has_surface_form	Napa
+2781_9	is_in_sentence	sentence_2781
+2781_9	pobj	2781_6
+2781_9	has_surface_form	College
+2781_8	is_in_sentence	sentence_2781
+2781_8	compound	2781_9
+2781_8	has_surface_form	Junior
+2781_10	is_in_sentence	sentence_2781
+2781_10	cc	2781_9
+2781_10	has_surface_form	and
+2781_11	is_in_sentence	sentence_2781
+2781_11	compound	2781_12
+2781_11	has_surface_form	Napa
+2781_12	is_in_sentence	sentence_2781
+2781_12	compound	2781_13
+2781_12	has_surface_form	Community
+2781_13	is_in_sentence	sentence_2781
+2781_13	pobj	2781_6
+2781_13	has_surface_form	College
+2781_14	is_in_sentence	sentence_2781
+2781_14	punct	2781_2
+2781_14	has_surface_form	,
+2781_16	is_in_sentence	sentence_2781
+2781_16	det	2781_19
+2781_16	has_surface_form	a
+2781_19	is_in_sentence	sentence_2781
+2781_19	attr	2781_15
+2781_19	has_surface_form	college
+2781_19	part_of_entity	community college
+2781_17	is_in_sentence	sentence_2781
+2781_17	amod	2781_18
+2781_17	has_surface_form	public
+2781_18	is_in_sentence	sentence_2781
+2781_18	compound	2781_19
+2781_18	has_surface_form	community
+2781_18	part_of_entity	community college
+2781_20	is_in_sentence	sentence_2781
+2781_20	prep	2781_19
+2781_20	has_surface_form	in
+2781_21	is_in_sentence	sentence_2781
+2781_21	compound	2781_22
+2781_21	has_surface_form	Napa
+2781_22	is_in_sentence	sentence_2781
+2781_22	pobj	2781_20
+2781_22	has_surface_form	Valley
+2781_23	is_in_sentence	sentence_2781
+2781_23	punct	2781_22
+2781_23	has_surface_form	,
+2781_24	is_in_sentence	sentence_2781
+2781_24	appos	2781_22
+2781_24	has_surface_form	California
+2781_25	is_in_sentence	sentence_2781
+2781_25	punct	2781_15
+2781_25	has_surface_form	.
+2781_26	is_in_sentence	sentence_2781
+2781_26	dep	2781_26
+2781_26	has_surface_form	
+Napa Valley College	surface_form	Napa Valley College
+Napa Valley College	has-type	community college
+community college	surface_form	community college

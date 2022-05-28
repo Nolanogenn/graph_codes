@@ -1,0 +1,74 @@
+1686_0	is_in_sentence	sentence_1686
+1686_0	det	1686_2
+1686_0	has_surface_form	The
+1686_0	part_of_entity	The Gown Shop
+1686_2	is_in_sentence	sentence_1686
+1686_2	nsubj	1686_3
+1686_2	has_surface_form	Shop
+1686_2	part_of_entity	The Gown Shop
+1686_1	is_in_sentence	sentence_1686
+1686_1	compound	1686_2
+1686_1	has_surface_form	Gown
+1686_1	part_of_entity	The Gown Shop
+1686_3	is_in_sentence	sentence_1686
+1686_3	ROOT	1686_3
+1686_3	has_surface_form	is
+1686_4	is_in_sentence	sentence_1686
+1686_4	det	1686_9
+1686_4	has_surface_form	a
+1686_9	is_in_sentence	sentence_1686
+1686_9	attr	1686_3
+1686_9	has_surface_form	film
+1686_5	is_in_sentence	sentence_1686
+1686_5	nummod	1686_9
+1686_5	has_surface_form	1923
+1686_6	is_in_sentence	sentence_1686
+1686_6	amod	1686_9
+1686_6	has_surface_form	American
+1686_7	is_in_sentence	sentence_1686
+1686_7	amod	1686_9
+1686_7	has_surface_form	silent
+1686_8	is_in_sentence	sentence_1686
+1686_8	compound	1686_9
+1686_8	has_surface_form	comedy
+1686_10	is_in_sentence	sentence_1686
+1686_10	acl	1686_9
+1686_10	has_surface_form	directed
+1686_11	is_in_sentence	sentence_1686
+1686_11	agent	1686_10
+1686_11	has_surface_form	by
+1686_12	is_in_sentence	sentence_1686
+1686_12	cc	1686_10
+1686_12	has_surface_form	and
+1686_13	is_in_sentence	sentence_1686
+1686_13	conj	1686_10
+1686_13	has_surface_form	starring
+1686_14	is_in_sentence	sentence_1686
+1686_14	compound	1686_15
+1686_14	has_surface_form	Larry
+1686_14	part_of_entity	Larry Semon
+1686_15	is_in_sentence	sentence_1686
+1686_15	dobj	1686_13
+1686_15	has_surface_form	Semon
+1686_15	part_of_entity	Larry Semon
+1686_16	is_in_sentence	sentence_1686
+1686_16	nsubj	1686_17
+1686_16	has_surface_form	that
+1686_17	is_in_sentence	sentence_1686
+1686_17	relcl	1686_9
+1686_17	has_surface_form	featured
+1686_18	is_in_sentence	sentence_1686
+1686_18	compound	1686_19
+1686_18	has_surface_form	Oliver
+1686_19	is_in_sentence	sentence_1686
+1686_19	dobj	1686_17
+1686_19	has_surface_form	Hardy
+1686_20	is_in_sentence	sentence_1686
+1686_20	punct	1686_3
+1686_20	has_surface_form	.
+1686_21	is_in_sentence	sentence_1686
+1686_21	dep	1686_21
+1686_21	has_surface_form	
+The Gown Shop	surface_form	The Gown Shop
+The Gown Shop	starring	Larry Semon
+Larry Semon	surface_form	Larry Semon

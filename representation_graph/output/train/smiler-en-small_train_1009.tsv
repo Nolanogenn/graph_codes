@@ -1,0 +1,117 @@
+1008_0	is_in_sentence	sentence_1008
+1008_0	compound	1008_1
+1008_0	has_surface_form	Mitradev
+1008_0	part_of_entity	Mitradev Mahanta
+1008_1	is_in_sentence	sentence_1008
+1008_1	nsubj	1008_10
+1008_1	has_surface_form	Mahanta
+1008_1	part_of_entity	Mitradev Mahanta
+1008_10	is_in_sentence	sentence_1008
+1008_10	ROOT	1008_10
+1008_10	has_surface_form	was
+1008_2	is_in_sentence	sentence_1008
+1008_2	punct	1008_3
+1008_2	has_surface_form	(
+1008_3	is_in_sentence	sentence_1008
+1008_3	appos	1008_1
+1008_3	has_surface_form	Assamese
+1008_4	is_in_sentence	sentence_1008
+1008_4	punct	1008_3
+1008_4	has_surface_form	:
+1008_5	is_in_sentence	sentence_1008
+1008_5	nmod	1008_6
+1008_5	has_surface_form	মিত্ৰদেৱ
+1008_6	is_in_sentence	sentence_1008
+1008_6	appos	1008_3
+1008_6	has_surface_form	মহন্ত
+1008_7	is_in_sentence	sentence_1008
+1008_7	punct	1008_6
+1008_7	has_surface_form	,
+1008_8	is_in_sentence	sentence_1008
+1008_8	appos	1008_6
+1008_8	has_surface_form	1894–1983
+1008_9	is_in_sentence	sentence_1008
+1008_9	punct	1008_6
+1008_9	has_surface_form	)
+1008_11	is_in_sentence	sentence_1008
+1008_11	det	1008_13
+1008_11	has_surface_form	a
+1008_13	is_in_sentence	sentence_1008
+1008_13	attr	1008_10
+1008_13	has_surface_form	writer
+1008_12	is_in_sentence	sentence_1008
+1008_12	amod	1008_13
+1008_12	has_surface_form	noted
+1008_14	is_in_sentence	sentence_1008
+1008_14	punct	1008_13
+1008_14	has_surface_form	,
+1008_15	is_in_sentence	sentence_1008
+1008_15	conj	1008_13
+1008_15	has_surface_form	dramatist
+1008_16	is_in_sentence	sentence_1008
+1008_16	punct	1008_15
+1008_16	has_surface_form	,
+1008_17	is_in_sentence	sentence_1008
+1008_17	amod	1008_18
+1008_17	has_surface_form	historical
+1008_18	is_in_sentence	sentence_1008
+1008_18	conj	1008_15
+1008_18	has_surface_form	researcher
+1008_19	is_in_sentence	sentence_1008
+1008_19	punct	1008_18
+1008_19	has_surface_form	,
+1008_20	is_in_sentence	sentence_1008
+1008_20	compound	1008_21
+1008_20	has_surface_form	freedom
+1008_21	is_in_sentence	sentence_1008
+1008_21	conj	1008_18
+1008_21	has_surface_form	fighter
+1008_22	is_in_sentence	sentence_1008
+1008_22	cc	1008_21
+1008_22	has_surface_form	and
+1008_23	is_in_sentence	sentence_1008
+1008_23	conj	1008_21
+1008_23	has_surface_form	actor
+1008_24	is_in_sentence	sentence_1008
+1008_24	prep	1008_13
+1008_24	has_surface_form	from
+1008_25	is_in_sentence	sentence_1008
+1008_25	pobj	1008_24
+1008_25	has_surface_form	Assam
+1008_26	is_in_sentence	sentence_1008
+1008_26	punct	1008_10
+1008_26	has_surface_form	.
+1008_27	is_in_sentence	sentence_1008
+1008_27	nsubj	1008_28
+1008_27	has_surface_form	He
+1008_28	is_in_sentence	sentence_1008
+1008_28	ROOT	1008_28
+1008_28	has_surface_form	won
+1008_29	is_in_sentence	sentence_1008
+1008_29	det	1008_33
+1008_29	has_surface_form	the
+1008_33	is_in_sentence	sentence_1008
+1008_33	dobj	1008_28
+1008_33	has_surface_form	Award
+1008_33	part_of_entity	Sangeet Natak Akademi Award
+1008_30	is_in_sentence	sentence_1008
+1008_30	compound	1008_31
+1008_30	has_surface_form	Sangeet
+1008_30	part_of_entity	Sangeet Natak Akademi Award
+1008_31	is_in_sentence	sentence_1008
+1008_31	compound	1008_33
+1008_31	has_surface_form	Natak
+1008_31	part_of_entity	Sangeet Natak Akademi Award
+1008_32	is_in_sentence	sentence_1008
+1008_32	compound	1008_33
+1008_32	has_surface_form	Akademi
+1008_32	part_of_entity	Sangeet Natak Akademi Award
+1008_34	is_in_sentence	sentence_1008
+1008_34	punct	1008_28
+1008_34	has_surface_form	.
+1008_35	is_in_sentence	sentence_1008
+1008_35	dep	1008_35
+1008_35	has_surface_form	
+Mitradev Mahanta	surface_form	Mitradev Mahanta
+Mitradev Mahanta	won-award	Sangeet Natak Akademi Award
+Sangeet Natak Akademi Award	surface_form	Sangeet Natak Akademi Award

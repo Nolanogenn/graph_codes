@@ -1,0 +1,67 @@
+27701_0	is_in_sentence	sentence_27701
+27701_0	compound	27701_1
+27701_0	has_surface_form	Abednico
+27701_0	part_of_entity	Abednico Powell
+27701_1	is_in_sentence	sentence_27701
+27701_1	nsubj	27701_8
+27701_1	has_surface_form	Powell
+27701_1	part_of_entity	Abednico Powell
+27701_8	is_in_sentence	sentence_27701
+27701_8	ROOT	27701_8
+27701_8	has_surface_form	is
+27701_2	is_in_sentence	sentence_27701
+27701_2	punct	27701_3
+27701_2	has_surface_form	(
+27701_3	is_in_sentence	sentence_27701
+27701_3	parataxis	27701_1
+27701_3	has_surface_form	born
+27701_4	is_in_sentence	sentence_27701
+27701_4	nummod	27701_5
+27701_4	has_surface_form	28
+27701_5	is_in_sentence	sentence_27701
+27701_5	npadvmod	27701_3
+27701_5	has_surface_form	January
+27701_6	is_in_sentence	sentence_27701
+27701_6	nummod	27701_5
+27701_6	has_surface_form	1983
+27701_7	is_in_sentence	sentence_27701
+27701_7	punct	27701_1
+27701_7	has_surface_form	)
+27701_9	is_in_sentence	sentence_27701
+27701_9	det	27701_11
+27701_9	has_surface_form	a
+27701_11	is_in_sentence	sentence_27701
+27701_11	attr	27701_8
+27701_11	has_surface_form	footballer
+27701_10	is_in_sentence	sentence_27701
+27701_10	compound	27701_11
+27701_10	has_surface_form	Botswana
+27701_12	is_in_sentence	sentence_27701
+27701_12	nsubj	27701_14
+27701_12	has_surface_form	who
+27701_14	is_in_sentence	sentence_27701
+27701_14	relcl	27701_11
+27701_14	has_surface_form	plays
+27701_13	is_in_sentence	sentence_27701
+27701_13	advmod	27701_14
+27701_13	has_surface_form	currently
+27701_15	is_in_sentence	sentence_27701
+27701_15	prep	27701_14
+27701_15	has_surface_form	for
+27701_16	is_in_sentence	sentence_27701
+27701_16	compound	27701_17
+27701_16	has_surface_form	Mogoditshane
+27701_16	part_of_entity	Mogoditshane Fighters
+27701_17	is_in_sentence	sentence_27701
+27701_17	pobj	27701_15
+27701_17	has_surface_form	Fighters
+27701_17	part_of_entity	Mogoditshane Fighters
+27701_18	is_in_sentence	sentence_27701
+27701_18	punct	27701_8
+27701_18	has_surface_form	.
+27701_19	is_in_sentence	sentence_27701
+27701_19	dep	27701_8
+27701_19	has_surface_form	
+Abednico Powell	surface_form	Abednico Powell
+Abednico Powell	is-member-of	Mogoditshane Fighters
+Mogoditshane Fighters	surface_form	Mogoditshane Fighters

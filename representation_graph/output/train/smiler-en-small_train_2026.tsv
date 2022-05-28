@@ -1,0 +1,76 @@
+2025_0	is_in_sentence	sentence_2025
+2025_0	nummod	2025_1
+2025_0	has_surface_form	300
+2025_0	part_of_entity	300 Entertainment
+2025_1	is_in_sentence	sentence_2025
+2025_1	nsubj	2025_2
+2025_1	has_surface_form	Entertainment
+2025_1	part_of_entity	300 Entertainment
+2025_2	is_in_sentence	sentence_2025
+2025_2	ROOT	2025_2
+2025_2	has_surface_form	is
+2025_3	is_in_sentence	sentence_2025
+2025_3	det	2025_6
+2025_3	has_surface_form	an
+2025_6	is_in_sentence	sentence_2025
+2025_6	attr	2025_2
+2025_6	has_surface_form	label
+2025_4	is_in_sentence	sentence_2025
+2025_4	amod	2025_6
+2025_4	has_surface_form	American
+2025_5	is_in_sentence	sentence_2025
+2025_5	compound	2025_6
+2025_5	has_surface_form	record
+2025_7	is_in_sentence	sentence_2025
+2025_7	acl	2025_6
+2025_7	has_surface_form	founded
+2025_8	is_in_sentence	sentence_2025
+2025_8	agent	2025_7
+2025_8	has_surface_form	by
+2025_9	is_in_sentence	sentence_2025
+2025_9	compound	2025_10
+2025_9	has_surface_form	Lyor
+2025_9	part_of_entity	Lyor Cohen
+2025_10	is_in_sentence	sentence_2025
+2025_10	pobj	2025_8
+2025_10	has_surface_form	Cohen
+2025_10	part_of_entity	Lyor Cohen
+2025_11	is_in_sentence	sentence_2025
+2025_11	punct	2025_10
+2025_11	has_surface_form	,
+2025_12	is_in_sentence	sentence_2025
+2025_12	compound	2025_13
+2025_12	has_surface_form	Roger
+2025_13	is_in_sentence	sentence_2025
+2025_13	conj	2025_10
+2025_13	has_surface_form	Gold
+2025_14	is_in_sentence	sentence_2025
+2025_14	punct	2025_13
+2025_14	has_surface_form	,
+2025_15	is_in_sentence	sentence_2025
+2025_15	compound	2025_16
+2025_15	has_surface_form	Kevin
+2025_16	is_in_sentence	sentence_2025
+2025_16	conj	2025_13
+2025_16	has_surface_form	Liles
+2025_17	is_in_sentence	sentence_2025
+2025_17	punct	2025_16
+2025_17	has_surface_form	,
+2025_18	is_in_sentence	sentence_2025
+2025_18	cc	2025_16
+2025_18	has_surface_form	and
+2025_19	is_in_sentence	sentence_2025
+2025_19	compound	2025_20
+2025_19	has_surface_form	Todd
+2025_20	is_in_sentence	sentence_2025
+2025_20	conj	2025_16
+2025_20	has_surface_form	Moscowitz
+2025_21	is_in_sentence	sentence_2025
+2025_21	punct	2025_2
+2025_21	has_surface_form	.
+2025_22	is_in_sentence	sentence_2025
+2025_22	dep	2025_2
+2025_22	has_surface_form	
+300 Entertainment	surface_form	300 Entertainment
+300 Entertainment	org-has-founder	Lyor Cohen
+Lyor Cohen	surface_form	Lyor Cohen

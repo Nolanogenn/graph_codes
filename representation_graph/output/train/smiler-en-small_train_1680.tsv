@@ -1,0 +1,64 @@
+1679_0	is_in_sentence	sentence_1679
+1679_0	compound	1679_1
+1679_0	has_surface_form	Scott
+1679_0	part_of_entity	Scott Shafer
+1679_1	is_in_sentence	sentence_1679
+1679_1	nsubj	1679_9
+1679_1	has_surface_form	Shafer
+1679_1	part_of_entity	Scott Shafer
+1679_9	is_in_sentence	sentence_1679
+1679_9	ROOT	1679_9
+1679_9	has_surface_form	is
+1679_2	is_in_sentence	sentence_1679
+1679_2	punct	1679_1
+1679_2	has_surface_form	(
+1679_3	is_in_sentence	sentence_1679
+1679_3	acl	1679_1
+1679_3	has_surface_form	born
+1679_4	is_in_sentence	sentence_1679
+1679_4	npadvmod	1679_3
+1679_4	has_surface_form	January
+1679_5	is_in_sentence	sentence_1679
+1679_5	nummod	1679_4
+1679_5	has_surface_form	6
+1679_6	is_in_sentence	sentence_1679
+1679_6	punct	1679_4
+1679_6	has_surface_form	,
+1679_7	is_in_sentence	sentence_1679
+1679_7	nummod	1679_4
+1679_7	has_surface_form	1967
+1679_8	is_in_sentence	sentence_1679
+1679_8	punct	1679_1
+1679_8	has_surface_form	)
+1679_10	is_in_sentence	sentence_1679
+1679_10	det	1679_13
+1679_10	has_surface_form	an
+1679_13	is_in_sentence	sentence_1679
+1679_13	attr	1679_9
+1679_13	has_surface_form	coach
+1679_13	part_of_entity	football coach
+1679_11	is_in_sentence	sentence_1679
+1679_11	amod	1679_13
+1679_11	has_surface_form	American
+1679_12	is_in_sentence	sentence_1679
+1679_12	compound	1679_13
+1679_12	has_surface_form	football
+1679_12	part_of_entity	football coach
+1679_14	is_in_sentence	sentence_1679
+1679_14	cc	1679_13
+1679_14	has_surface_form	and
+1679_15	is_in_sentence	sentence_1679
+1679_15	amod	1679_16
+1679_15	has_surface_form	former
+1679_16	is_in_sentence	sentence_1679
+1679_16	conj	1679_13
+1679_16	has_surface_form	player
+1679_17	is_in_sentence	sentence_1679
+1679_17	punct	1679_9
+1679_17	has_surface_form	.
+1679_18	is_in_sentence	sentence_1679
+1679_18	dep	1679_18
+1679_18	has_surface_form	
+Scott Shafer	surface_form	Scott Shafer
+Scott Shafer	has-type	football coach
+football coach	surface_form	football coach

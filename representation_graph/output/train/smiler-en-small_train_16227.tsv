@@ -1,0 +1,63 @@
+16226_0	is_in_sentence	sentence_16226
+16226_0	det	16226_2
+16226_0	has_surface_form	The
+16226_0	part_of_entity	The Flaming Disc
+16226_2	is_in_sentence	sentence_16226
+16226_2	nsubj	16226_3
+16226_2	has_surface_form	Disc
+16226_2	part_of_entity	The Flaming Disc
+16226_1	is_in_sentence	sentence_16226
+16226_1	compound	16226_2
+16226_1	has_surface_form	Flaming
+16226_1	part_of_entity	The Flaming Disc
+16226_3	is_in_sentence	sentence_16226
+16226_3	ROOT	16226_3
+16226_3	has_surface_form	is
+16226_4	is_in_sentence	sentence_16226
+16226_4	det	16226_10
+16226_4	has_surface_form	a
+16226_10	is_in_sentence	sentence_16226
+16226_10	attr	16226_3
+16226_10	has_surface_form	serial
+16226_5	is_in_sentence	sentence_16226
+16226_5	nummod	16226_10
+16226_5	has_surface_form	1920
+16226_6	is_in_sentence	sentence_16226
+16226_6	amod	16226_10
+16226_6	has_surface_form	American
+16226_7	is_in_sentence	sentence_16226
+16226_7	amod	16226_9
+16226_7	has_surface_form	silent
+16226_9	is_in_sentence	sentence_16226
+16226_9	compound	16226_10
+16226_9	has_surface_form	film
+16226_8	is_in_sentence	sentence_16226
+16226_8	compound	16226_9
+16226_8	has_surface_form	adventure
+16226_11	is_in_sentence	sentence_16226
+16226_11	acl	16226_10
+16226_11	has_surface_form	directed
+16226_12	is_in_sentence	sentence_16226
+16226_12	agent	16226_11
+16226_12	has_surface_form	by
+16226_13	is_in_sentence	sentence_16226
+16226_13	compound	16226_15
+16226_13	has_surface_form	Robert
+16226_13	part_of_entity	Robert F. Hill
+16226_15	is_in_sentence	sentence_16226
+16226_15	pobj	16226_12
+16226_15	has_surface_form	Hill
+16226_15	part_of_entity	Robert F. Hill
+16226_14	is_in_sentence	sentence_16226
+16226_14	compound	16226_15
+16226_14	has_surface_form	F.
+16226_14	part_of_entity	Robert F. Hill
+16226_16	is_in_sentence	sentence_16226
+16226_16	punct	16226_3
+16226_16	has_surface_form	.
+16226_17	is_in_sentence	sentence_16226
+16226_17	dep	16226_3
+16226_17	has_surface_form	
+The Flaming Disc	surface_form	The Flaming Disc
+The Flaming Disc	movie-has-director	Robert F. Hill
+Robert F. Hill	surface_form	Robert F. Hill

@@ -1,0 +1,59 @@
+2326_0	is_in_sentence	sentence_2326
+2326_0	compound	2326_1
+2326_0	has_surface_form	Helena
+2326_0	part_of_entity	Helena College University of Montana
+2326_1	is_in_sentence	sentence_2326
+2326_1	compound	2326_2
+2326_1	has_surface_form	College
+2326_1	part_of_entity	Helena College University of Montana
+2326_2	is_in_sentence	sentence_2326
+2326_2	nsubj	2326_5
+2326_2	has_surface_form	University
+2326_2	part_of_entity	Helena College University of Montana
+2326_5	is_in_sentence	sentence_2326
+2326_5	ROOT	2326_5
+2326_5	has_surface_form	is
+2326_3	is_in_sentence	sentence_2326
+2326_3	prep	2326_2
+2326_3	has_surface_form	of
+2326_3	part_of_entity	Helena College University of Montana
+2326_4	is_in_sentence	sentence_2326
+2326_4	pobj	2326_3
+2326_4	has_surface_form	Montana
+2326_4	part_of_entity	Helena College University of Montana
+2326_6	is_in_sentence	sentence_2326
+2326_6	det	2326_10
+2326_6	has_surface_form	a
+2326_10	is_in_sentence	sentence_2326
+2326_10	attr	2326_5
+2326_10	has_surface_form	college
+2326_7	is_in_sentence	sentence_2326
+2326_7	nummod	2326_9
+2326_7	has_surface_form	two
+2326_9	is_in_sentence	sentence_2326
+2326_9	compound	2326_10
+2326_9	has_surface_form	year
+2326_8	is_in_sentence	sentence_2326
+2326_8	punct	2326_9
+2326_8	has_surface_form	-
+2326_11	is_in_sentence	sentence_2326
+2326_11	prep	2326_10
+2326_11	has_surface_form	in
+2326_12	is_in_sentence	sentence_2326
+2326_12	pobj	2326_11
+2326_12	has_surface_form	Helena
+2326_13	is_in_sentence	sentence_2326
+2326_13	punct	2326_12
+2326_13	has_surface_form	,
+2326_14	is_in_sentence	sentence_2326
+2326_14	appos	2326_12
+2326_14	has_surface_form	Montana
+2326_15	is_in_sentence	sentence_2326
+2326_15	punct	2326_5
+2326_15	has_surface_form	.
+2326_16	is_in_sentence	sentence_2326
+2326_16	dep	2326_16
+2326_16	has_surface_form	
+Helena College University of Montana	surface_form	Helena College University of Montana
+Helena College University of Montana	is-where	Helena, Montana
+Helena, Montana	surface_form	Helena, Montana

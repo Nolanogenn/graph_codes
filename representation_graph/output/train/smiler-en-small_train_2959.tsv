@@ -1,0 +1,101 @@
+2958_0	is_in_sentence	sentence_2958
+2958_0	det	2958_3
+2958_0	has_surface_form	The
+2958_3	is_in_sentence	sentence_2958
+2958_3	nmod	2958_7
+2958_3	has_surface_form	University
+2958_3	part_of_entity	Fryderyk Chopin University of Music
+2958_1	is_in_sentence	sentence_2958
+2958_1	nmod	2958_3
+2958_1	has_surface_form	Fryderyk
+2958_1	part_of_entity	Fryderyk Chopin University of Music
+2958_2	is_in_sentence	sentence_2958
+2958_2	compound	2958_3
+2958_2	has_surface_form	Chopin
+2958_2	part_of_entity	Fryderyk Chopin University of Music
+2958_7	is_in_sentence	sentence_2958
+2958_7	ROOT	2958_7
+2958_7	has_surface_form	Polish
+2958_4	is_in_sentence	sentence_2958
+2958_4	prep	2958_3
+2958_4	has_surface_form	of
+2958_4	part_of_entity	Fryderyk Chopin University of Music
+2958_5	is_in_sentence	sentence_2958
+2958_5	pobj	2958_4
+2958_5	has_surface_form	Music
+2958_5	part_of_entity	Fryderyk Chopin University of Music
+2958_6	is_in_sentence	sentence_2958
+2958_6	punct	2958_7
+2958_6	has_surface_form	(
+2958_8	is_in_sentence	sentence_2958
+2958_8	punct	2958_7
+2958_8	has_surface_form	:
+2958_9	is_in_sentence	sentence_2958
+2958_9	nsubjpass	2958_17
+2958_9	has_surface_form	Uniwersytet
+2958_17	is_in_sentence	sentence_2958
+2958_17	relcl	2958_7
+2958_17	has_surface_form	located
+2958_10	is_in_sentence	sentence_2958
+2958_10	compound	2958_12
+2958_10	has_surface_form	Muzyczny
+2958_12	is_in_sentence	sentence_2958
+2958_12	appos	2958_9
+2958_12	has_surface_form	Chopina
+2958_11	is_in_sentence	sentence_2958
+2958_11	compound	2958_12
+2958_11	has_surface_form	Fryderyka
+2958_13	is_in_sentence	sentence_2958
+2958_13	punct	2958_12
+2958_13	has_surface_form	,
+2958_14	is_in_sentence	sentence_2958
+2958_14	appos	2958_12
+2958_14	has_surface_form	UMFC
+2958_15	is_in_sentence	sentence_2958
+2958_15	punct	2958_12
+2958_15	has_surface_form	)
+2958_16	is_in_sentence	sentence_2958
+2958_16	auxpass	2958_17
+2958_16	has_surface_form	is
+2958_18	is_in_sentence	sentence_2958
+2958_18	prep	2958_17
+2958_18	has_surface_form	at
+2958_19	is_in_sentence	sentence_2958
+2958_19	amod	2958_18
+2958_19	has_surface_form	ulica
+2958_19	part_of_entity	ulica Okólnik 2 in central Warsaw
+2958_20	is_in_sentence	sentence_2958
+2958_20	npadvmod	2958_17
+2958_20	has_surface_form	Okólnik
+2958_20	part_of_entity	ulica Okólnik 2 in central Warsaw
+2958_21	is_in_sentence	sentence_2958
+2958_21	nummod	2958_20
+2958_21	has_surface_form	2
+2958_21	part_of_entity	ulica Okólnik 2 in central Warsaw
+2958_22	is_in_sentence	sentence_2958
+2958_22	prep	2958_20
+2958_22	has_surface_form	in
+2958_22	part_of_entity	ulica Okólnik 2 in central Warsaw
+2958_23	is_in_sentence	sentence_2958
+2958_23	amod	2958_24
+2958_23	has_surface_form	central
+2958_23	part_of_entity	ulica Okólnik 2 in central Warsaw
+2958_24	is_in_sentence	sentence_2958
+2958_24	pobj	2958_22
+2958_24	has_surface_form	Warsaw
+2958_24	part_of_entity	ulica Okólnik 2 in central Warsaw
+2958_25	is_in_sentence	sentence_2958
+2958_25	punct	2958_24
+2958_25	has_surface_form	,
+2958_26	is_in_sentence	sentence_2958
+2958_26	appos	2958_24
+2958_26	has_surface_form	Poland
+2958_27	is_in_sentence	sentence_2958
+2958_27	punct	2958_7
+2958_27	has_surface_form	.
+2958_28	is_in_sentence	sentence_2958
+2958_28	dep	2958_28
+2958_28	has_surface_form	
+Fryderyk Chopin University of Music	surface_form	Fryderyk Chopin University of Music
+Fryderyk Chopin University of Music	is-where	ulica Okólnik 2 in central Warsaw
+ulica Okólnik 2 in central Warsaw	surface_form	ulica Okólnik 2 in central Warsaw

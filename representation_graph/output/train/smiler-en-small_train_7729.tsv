@@ -1,0 +1,103 @@
+7728_0	is_in_sentence	sentence_7728
+7728_0	compound	7728_2
+7728_0	has_surface_form	Boba
+7728_0	part_of_entity	Boba Tea Company
+7728_2	is_in_sentence	sentence_7728
+7728_2	nsubj	7728_3
+7728_2	has_surface_form	Company
+7728_2	part_of_entity	Boba Tea Company
+7728_1	is_in_sentence	sentence_7728
+7728_1	compound	7728_2
+7728_1	has_surface_form	Tea
+7728_1	part_of_entity	Boba Tea Company
+7728_3	is_in_sentence	sentence_7728
+7728_3	ROOT	7728_3
+7728_3	has_surface_form	is
+7728_4	is_in_sentence	sentence_7728
+7728_4	det	7728_8
+7728_4	has_surface_form	a
+7728_8	is_in_sentence	sentence_7728
+7728_8	attr	7728_3
+7728_8	has_surface_form	chain
+7728_5	is_in_sentence	sentence_7728
+7728_5	compound	7728_8
+7728_5	has_surface_form	bubble
+7728_6	is_in_sentence	sentence_7728
+7728_6	compound	7728_7
+7728_6	has_surface_form	tea
+7728_7	is_in_sentence	sentence_7728
+7728_7	compound	7728_8
+7728_7	has_surface_form	restaurant
+7728_9	is_in_sentence	sentence_7728
+7728_9	acl	7728_8
+7728_9	has_surface_form	based
+7728_10	is_in_sentence	sentence_7728
+7728_10	prep	7728_9
+7728_10	has_surface_form	in
+7728_11	is_in_sentence	sentence_7728
+7728_11	pobj	7728_10
+7728_11	has_surface_form	Albuquerque
+7728_12	is_in_sentence	sentence_7728
+7728_12	punct	7728_11
+7728_12	has_surface_form	,
+7728_13	is_in_sentence	sentence_7728
+7728_13	compound	7728_14
+7728_13	has_surface_form	New
+7728_14	is_in_sentence	sentence_7728
+7728_14	appos	7728_11
+7728_14	has_surface_form	Mexico
+7728_15	is_in_sentence	sentence_7728
+7728_15	punct	7728_11
+7728_15	has_surface_form	,
+7728_16	is_in_sentence	sentence_7728
+7728_16	acl	7728_8
+7728_16	has_surface_form	founded
+7728_17	is_in_sentence	sentence_7728
+7728_17	prep	7728_16
+7728_17	has_surface_form	in
+7728_18	is_in_sentence	sentence_7728
+7728_18	pobj	7728_17
+7728_18	has_surface_form	2005
+7728_19	is_in_sentence	sentence_7728
+7728_19	punct	7728_3
+7728_19	has_surface_form	.
+7728_20	is_in_sentence	sentence_7728
+7728_20	det	7728_21
+7728_20	has_surface_form	The
+7728_21	is_in_sentence	sentence_7728
+7728_21	nsubjpass	7728_23
+7728_21	has_surface_form	company
+7728_23	is_in_sentence	sentence_7728
+7728_23	ROOT	7728_23
+7728_23	has_surface_form	founded
+7728_22	is_in_sentence	sentence_7728
+7728_22	auxpass	7728_23
+7728_22	has_surface_form	was
+7728_24	is_in_sentence	sentence_7728
+7728_24	agent	7728_23
+7728_24	has_surface_form	by
+7728_25	is_in_sentence	sentence_7728
+7728_25	pobj	7728_24
+7728_25	has_surface_form	Vi
+7728_25	part_of_entity	Vi and Hoa Luong
+7728_26	is_in_sentence	sentence_7728
+7728_26	cc	7728_25
+7728_26	has_surface_form	and
+7728_26	part_of_entity	Vi and Hoa Luong
+7728_27	is_in_sentence	sentence_7728
+7728_27	compound	7728_28
+7728_27	has_surface_form	Hoa
+7728_27	part_of_entity	Vi and Hoa Luong
+7728_28	is_in_sentence	sentence_7728
+7728_28	conj	7728_25
+7728_28	has_surface_form	Luong
+7728_28	part_of_entity	Vi and Hoa Luong
+7728_29	is_in_sentence	sentence_7728
+7728_29	punct	7728_23
+7728_29	has_surface_form	.
+7728_30	is_in_sentence	sentence_7728
+7728_30	dep	7728_23
+7728_30	has_surface_form	
+Boba Tea Company	surface_form	Boba Tea Company
+Boba Tea Company	org-has-founder	Vi and Hoa Luong
+Vi and Hoa Luong	surface_form	Vi and Hoa Luong

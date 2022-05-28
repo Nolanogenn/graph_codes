@@ -1,0 +1,91 @@
+16384_0	is_in_sentence	sentence_16384
+16384_0	predet	16384_2
+16384_0	has_surface_form	All
+16384_0	part_of_entity	All the Way to Paris
+16384_2	is_in_sentence	sentence_16384
+16384_2	nsubj	16384_5
+16384_2	has_surface_form	Way
+16384_2	part_of_entity	All the Way to Paris
+16384_1	is_in_sentence	sentence_16384
+16384_1	det	16384_2
+16384_1	has_surface_form	the
+16384_1	part_of_entity	All the Way to Paris
+16384_5	is_in_sentence	sentence_16384
+16384_5	ROOT	16384_5
+16384_5	has_surface_form	is
+16384_3	is_in_sentence	sentence_16384
+16384_3	prep	16384_2
+16384_3	has_surface_form	to
+16384_3	part_of_entity	All the Way to Paris
+16384_4	is_in_sentence	sentence_16384
+16384_4	pobj	16384_3
+16384_4	has_surface_form	Paris
+16384_4	part_of_entity	All the Way to Paris
+16384_6	is_in_sentence	sentence_16384
+16384_6	det	16384_11
+16384_6	has_surface_form	a
+16384_11	is_in_sentence	sentence_16384
+16384_11	attr	16384_5
+16384_11	has_surface_form	film
+16384_7	is_in_sentence	sentence_16384
+16384_7	nummod	16384_11
+16384_7	has_surface_form	1965
+16384_8	is_in_sentence	sentence_16384
+16384_8	amod	16384_9
+16384_8	has_surface_form	South
+16384_9	is_in_sentence	sentence_16384
+16384_9	amod	16384_11
+16384_9	has_surface_form	African
+16384_10	is_in_sentence	sentence_16384
+16384_10	compound	16384_11
+16384_10	has_surface_form	comedy
+16384_12	is_in_sentence	sentence_16384
+16384_12	acl	16384_11
+16384_12	has_surface_form	directed
+16384_13	is_in_sentence	sentence_16384
+16384_13	agent	16384_12
+16384_13	has_surface_form	by
+16384_14	is_in_sentence	sentence_16384
+16384_14	compound	16384_15
+16384_14	has_surface_form	Jamie
+16384_15	is_in_sentence	sentence_16384
+16384_15	pobj	16384_13
+16384_15	has_surface_form	Uys
+16384_16	is_in_sentence	sentence_16384
+16384_16	cc	16384_12
+16384_16	has_surface_form	and
+16384_17	is_in_sentence	sentence_16384
+16384_17	conj	16384_12
+16384_17	has_surface_form	starring
+16384_18	is_in_sentence	sentence_16384
+16384_18	dobj	16384_17
+16384_18	has_surface_form	Uys
+16384_19	is_in_sentence	sentence_16384
+16384_19	punct	16384_18
+16384_19	has_surface_form	,
+16384_20	is_in_sentence	sentence_16384
+16384_20	compound	16384_21
+16384_20	has_surface_form	Bob
+16384_21	is_in_sentence	sentence_16384
+16384_21	conj	16384_18
+16384_21	has_surface_form	Courtney
+16384_22	is_in_sentence	sentence_16384
+16384_22	cc	16384_21
+16384_22	has_surface_form	and
+16384_23	is_in_sentence	sentence_16384
+16384_23	compound	16384_24
+16384_23	has_surface_form	Reinet
+16384_23	part_of_entity	Reinet Maasdorf
+16384_24	is_in_sentence	sentence_16384
+16384_24	conj	16384_21
+16384_24	has_surface_form	Maasdorf
+16384_24	part_of_entity	Reinet Maasdorf
+16384_25	is_in_sentence	sentence_16384
+16384_25	punct	16384_5
+16384_25	has_surface_form	.
+16384_26	is_in_sentence	sentence_16384
+16384_26	dep	16384_5
+16384_26	has_surface_form	
+All the Way to Paris	surface_form	All the Way to Paris
+All the Way to Paris	starring	Reinet Maasdorf
+Reinet Maasdorf	surface_form	Reinet Maasdorf

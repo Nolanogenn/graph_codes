@@ -1,0 +1,74 @@
+28771_0	is_in_sentence	sentence_28771
+28771_0	compound	28771_1
+28771_0	has_surface_form	Kiryu
+28771_0	part_of_entity	Kiryu University
+28771_1	is_in_sentence	sentence_28771
+28771_1	nsubj	28771_8
+28771_1	has_surface_form	University
+28771_1	part_of_entity	Kiryu University
+28771_8	is_in_sentence	sentence_28771
+28771_8	ROOT	28771_8
+28771_8	has_surface_form	is
+28771_2	is_in_sentence	sentence_28771
+28771_2	punct	28771_3
+28771_2	has_surface_form	(
+28771_3	is_in_sentence	sentence_28771
+28771_3	appos	28771_1
+28771_3	has_surface_form	桐生大学
+28771_4	is_in_sentence	sentence_28771
+28771_4	punct	28771_3
+28771_4	has_surface_form	,
+28771_5	is_in_sentence	sentence_28771
+28771_5	compound	28771_6
+28771_5	has_surface_form	Kiryū
+28771_6	is_in_sentence	sentence_28771
+28771_6	appos	28771_3
+28771_6	has_surface_form	daigaku
+28771_7	is_in_sentence	sentence_28771
+28771_7	punct	28771_3
+28771_7	has_surface_form	)
+28771_9	is_in_sentence	sentence_28771
+28771_9	det	28771_14
+28771_9	has_surface_form	a
+28771_14	is_in_sentence	sentence_28771
+28771_14	attr	28771_8
+28771_14	has_surface_form	university
+28771_10	is_in_sentence	sentence_28771
+28771_10	amod	28771_14
+28771_10	has_surface_form	co
+28771_11	is_in_sentence	sentence_28771
+28771_11	amod	28771_14
+28771_11	has_surface_form	-
+28771_12	is_in_sentence	sentence_28771
+28771_12	amod	28771_14
+28771_12	has_surface_form	educational
+28771_13	is_in_sentence	sentence_28771
+28771_13	amod	28771_14
+28771_13	has_surface_form	private
+28771_15	is_in_sentence	sentence_28771
+28771_15	prep	28771_14
+28771_15	has_surface_form	in
+28771_16	is_in_sentence	sentence_28771
+28771_16	pobj	28771_15
+28771_16	has_surface_form	Midori
+28771_17	is_in_sentence	sentence_28771
+28771_17	punct	28771_16
+28771_17	has_surface_form	,
+28771_18	is_in_sentence	sentence_28771
+28771_18	conj	28771_16
+28771_18	has_surface_form	Gunma
+28771_19	is_in_sentence	sentence_28771
+28771_19	punct	28771_18
+28771_19	has_surface_form	,
+28771_20	is_in_sentence	sentence_28771
+28771_20	appos	28771_18
+28771_20	has_surface_form	Japan
+28771_21	is_in_sentence	sentence_28771
+28771_21	punct	28771_8
+28771_21	has_surface_form	.
+28771_22	is_in_sentence	sentence_28771
+28771_22	dep	28771_8
+28771_22	has_surface_form	
+Kiryu University	surface_form	Kiryu University
+Kiryu University	is-where	Midori, Gunma, Japan
+Midori, Gunma, Japan	surface_form	Midori, Gunma, Japan

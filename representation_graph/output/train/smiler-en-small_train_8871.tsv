@@ -1,0 +1,89 @@
+8870_0	is_in_sentence	sentence_8870
+8870_0	compound	8870_1
+8870_0	has_surface_form	Bill
+8870_0	part_of_entity	Bill Samko
+8870_1	is_in_sentence	sentence_8870
+8870_1	nsubj	8870_9
+8870_1	has_surface_form	Samko
+8870_1	part_of_entity	Bill Samko
+8870_9	is_in_sentence	sentence_8870
+8870_9	ROOT	8870_9
+8870_9	has_surface_form	is
+8870_2	is_in_sentence	sentence_8870
+8870_2	punct	8870_3
+8870_2	has_surface_form	(
+8870_3	is_in_sentence	sentence_8870
+8870_3	acl	8870_1
+8870_3	has_surface_form	born
+8870_4	is_in_sentence	sentence_8870
+8870_4	npadvmod	8870_3
+8870_4	has_surface_form	July
+8870_5	is_in_sentence	sentence_8870
+8870_5	nummod	8870_4
+8870_5	has_surface_form	8
+8870_6	is_in_sentence	sentence_8870
+8870_6	punct	8870_4
+8870_6	has_surface_form	,
+8870_7	is_in_sentence	sentence_8870
+8870_7	nummod	8870_4
+8870_7	has_surface_form	1952
+8870_8	is_in_sentence	sentence_8870
+8870_8	punct	8870_1
+8870_8	has_surface_form	)
+8870_10	is_in_sentence	sentence_8870
+8870_10	det	8870_14
+8870_10	has_surface_form	a
+8870_14	is_in_sentence	sentence_8870
+8870_14	attr	8870_9
+8870_14	has_surface_form	coach
+8870_14	part_of_entity	assistant football coach
+8870_11	is_in_sentence	sentence_8870
+8870_11	amod	8870_14
+8870_11	has_surface_form	current
+8870_12	is_in_sentence	sentence_8870
+8870_12	amod	8870_14
+8870_12	has_surface_form	assistant
+8870_12	part_of_entity	assistant football coach
+8870_13	is_in_sentence	sentence_8870
+8870_13	compound	8870_14
+8870_13	has_surface_form	football
+8870_13	part_of_entity	assistant football coach
+8870_15	is_in_sentence	sentence_8870
+8870_15	prep	8870_14
+8870_15	has_surface_form	for
+8870_16	is_in_sentence	sentence_8870
+8870_16	det	8870_21
+8870_16	has_surface_form	the
+8870_21	is_in_sentence	sentence_8870
+8870_21	pobj	8870_15
+8870_21	has_surface_form	team
+8870_17	is_in_sentence	sentence_8870
+8870_17	compound	8870_18
+8870_17	has_surface_form	Bentley
+8870_18	is_in_sentence	sentence_8870
+8870_18	compound	8870_21
+8870_18	has_surface_form	University
+8870_19	is_in_sentence	sentence_8870
+8870_19	compound	8870_20
+8870_19	has_surface_form	college
+8870_20	is_in_sentence	sentence_8870
+8870_20	compound	8870_21
+8870_20	has_surface_form	football
+8870_22	is_in_sentence	sentence_8870
+8870_22	prep	8870_21
+8870_22	has_surface_form	of
+8870_23	is_in_sentence	sentence_8870
+8870_23	det	8870_24
+8870_23	has_surface_form	the
+8870_24	is_in_sentence	sentence_8870
+8870_24	pobj	8870_22
+8870_24	has_surface_form	NE-10
+8870_25	is_in_sentence	sentence_8870
+8870_25	punct	8870_9
+8870_25	has_surface_form	.
+8870_26	is_in_sentence	sentence_8870
+8870_26	dep	8870_9
+8870_26	has_surface_form	
+Bill Samko	surface_form	Bill Samko
+Bill Samko	has-type	assistant football coach
+assistant football coach	surface_form	assistant football coach

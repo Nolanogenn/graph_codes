@@ -1,0 +1,87 @@
+241_0	is_in_sentence	sentence_241
+241_0	det	241_2
+241_0	has_surface_form	The
+241_2	is_in_sentence	sentence_241
+241_2	nsubj	241_3
+241_2	has_surface_form	Party
+241_2	part_of_entity	Flag Party
+241_1	is_in_sentence	sentence_241
+241_1	compound	241_2
+241_1	has_surface_form	Flag
+241_1	part_of_entity	Flag Party
+241_3	is_in_sentence	sentence_241
+241_3	ROOT	241_3
+241_3	has_surface_form	is
+241_4	is_in_sentence	sentence_241
+241_4	det	241_7
+241_4	has_surface_form	a
+241_7	is_in_sentence	sentence_241
+241_7	attr	241_3
+241_7	has_surface_form	party
+241_5	is_in_sentence	sentence_241
+241_5	amod	241_7
+241_5	has_surface_form	Salafist
+241_6	is_in_sentence	sentence_241
+241_6	amod	241_7
+241_6	has_surface_form	political
+241_8	is_in_sentence	sentence_241
+241_8	prep	241_7
+241_8	has_surface_form	in
+241_9	is_in_sentence	sentence_241
+241_9	pobj	241_8
+241_9	has_surface_form	Egypt
+241_10	is_in_sentence	sentence_241
+241_10	punct	241_3
+241_10	has_surface_form	.
+241_11	is_in_sentence	sentence_241
+241_11	nsubjpass	241_13
+241_11	has_surface_form	It
+241_13	is_in_sentence	sentence_241
+241_13	ROOT	241_13
+241_13	has_surface_form	founded
+241_12	is_in_sentence	sentence_241
+241_12	auxpass	241_13
+241_12	has_surface_form	was
+241_14	is_in_sentence	sentence_241
+241_14	prep	241_13
+241_14	has_surface_form	in
+241_15	is_in_sentence	sentence_241
+241_15	pobj	241_14
+241_15	has_surface_form	2013
+241_16	is_in_sentence	sentence_241
+241_16	cc	241_13
+241_16	has_surface_form	and
+241_17	is_in_sentence	sentence_241
+241_17	auxpass	241_18
+241_17	has_surface_form	is
+241_18	is_in_sentence	sentence_241
+241_18	conj	241_13
+241_18	has_surface_form	headed
+241_19	is_in_sentence	sentence_241
+241_19	agent	241_18
+241_19	has_surface_form	by
+241_20	is_in_sentence	sentence_241
+241_20	compound	241_23
+241_20	has_surface_form	Hazem
+241_20	part_of_entity	Hazem Salah Abu Ismail
+241_23	is_in_sentence	sentence_241
+241_23	pobj	241_19
+241_23	has_surface_form	Ismail
+241_23	part_of_entity	Hazem Salah Abu Ismail
+241_21	is_in_sentence	sentence_241
+241_21	compound	241_23
+241_21	has_surface_form	Salah
+241_21	part_of_entity	Hazem Salah Abu Ismail
+241_22	is_in_sentence	sentence_241
+241_22	compound	241_23
+241_22	has_surface_form	Abu
+241_22	part_of_entity	Hazem Salah Abu Ismail
+241_24	is_in_sentence	sentence_241
+241_24	punct	241_13
+241_24	has_surface_form	.
+241_25	is_in_sentence	sentence_241
+241_25	dep	241_25
+241_25	has_surface_form	
+Flag Party	surface_form	Flag Party
+Flag Party	org-leader	Hazem Salah Abu Ismail
+Hazem Salah Abu Ismail	surface_form	Hazem Salah Abu Ismail

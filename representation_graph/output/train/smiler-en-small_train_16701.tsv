@@ -1,0 +1,58 @@
+16700_0	is_in_sentence	sentence_16700
+16700_0	compound	16700_1
+16700_0	has_surface_form	Pete
+16700_0	part_of_entity	Pete Herrmann
+16700_1	is_in_sentence	sentence_16700
+16700_1	nsubj	16700_9
+16700_1	has_surface_form	Herrmann
+16700_1	part_of_entity	Pete Herrmann
+16700_9	is_in_sentence	sentence_16700
+16700_9	ROOT	16700_9
+16700_9	has_surface_form	is
+16700_2	is_in_sentence	sentence_16700
+16700_2	punct	16700_1
+16700_2	has_surface_form	(
+16700_3	is_in_sentence	sentence_16700
+16700_3	acl	16700_1
+16700_3	has_surface_form	born
+16700_4	is_in_sentence	sentence_16700
+16700_4	npadvmod	16700_3
+16700_4	has_surface_form	August
+16700_5	is_in_sentence	sentence_16700
+16700_5	nummod	16700_4
+16700_5	has_surface_form	27
+16700_6	is_in_sentence	sentence_16700
+16700_6	punct	16700_4
+16700_6	has_surface_form	,
+16700_7	is_in_sentence	sentence_16700
+16700_7	nummod	16700_4
+16700_7	has_surface_form	1948
+16700_8	is_in_sentence	sentence_16700
+16700_8	punct	16700_1
+16700_8	has_surface_form	)
+16700_10	is_in_sentence	sentence_16700
+16700_10	det	16700_14
+16700_10	has_surface_form	an
+16700_14	is_in_sentence	sentence_16700
+16700_14	attr	16700_9
+16700_14	has_surface_form	coach
+16700_14	part_of_entity	basketball coach
+16700_11	is_in_sentence	sentence_16700
+16700_11	amod	16700_14
+16700_11	has_surface_form	American
+16700_12	is_in_sentence	sentence_16700
+16700_12	amod	16700_14
+16700_12	has_surface_form	retired
+16700_13	is_in_sentence	sentence_16700
+16700_13	compound	16700_14
+16700_13	has_surface_form	basketball
+16700_13	part_of_entity	basketball coach
+16700_15	is_in_sentence	sentence_16700
+16700_15	punct	16700_9
+16700_15	has_surface_form	.
+16700_16	is_in_sentence	sentence_16700
+16700_16	dep	16700_16
+16700_16	has_surface_form	
+Pete Herrmann	surface_form	Pete Herrmann
+Pete Herrmann	has-type	basketball coach
+basketball coach	surface_form	basketball coach

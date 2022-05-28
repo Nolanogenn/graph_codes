@@ -1,0 +1,108 @@
+20869_0	is_in_sentence	sentence_20869
+20869_0	det	20869_1
+20869_0	has_surface_form	A
+20869_0	part_of_entity	A Glass of Beer
+20869_1	is_in_sentence	sentence_20869
+20869_1	nsubj	20869_11
+20869_1	has_surface_form	Glass
+20869_1	part_of_entity	A Glass of Beer
+20869_11	is_in_sentence	sentence_20869
+20869_11	ROOT	20869_11
+20869_11	has_surface_form	is
+20869_2	is_in_sentence	sentence_20869
+20869_2	prep	20869_1
+20869_2	has_surface_form	of
+20869_2	part_of_entity	A Glass of Beer
+20869_3	is_in_sentence	sentence_20869
+20869_3	pobj	20869_2
+20869_3	has_surface_form	Beer
+20869_3	part_of_entity	A Glass of Beer
+20869_4	is_in_sentence	sentence_20869
+20869_4	punct	20869_1
+20869_4	has_surface_form	(
+20869_5	is_in_sentence	sentence_20869
+20869_5	appos	20869_1
+20869_5	has_surface_form	Hungarian
+20869_6	is_in_sentence	sentence_20869
+20869_6	punct	20869_1
+20869_6	has_surface_form	:
+20869_7	is_in_sentence	sentence_20869
+20869_7	compound	20869_9
+20869_7	has_surface_form	Egy
+20869_9	is_in_sentence	sentence_20869
+20869_9	appos	20869_1
+20869_9	has_surface_form	világos
+20869_8	is_in_sentence	sentence_20869
+20869_8	compound	20869_9
+20869_8	has_surface_form	pikoló
+20869_10	is_in_sentence	sentence_20869
+20869_10	punct	20869_1
+20869_10	has_surface_form	)
+20869_12	is_in_sentence	sentence_20869
+20869_12	det	20869_16
+20869_12	has_surface_form	a
+20869_16	is_in_sentence	sentence_20869
+20869_16	attr	20869_11
+20869_16	has_surface_form	film
+20869_13	is_in_sentence	sentence_20869
+20869_13	nummod	20869_16
+20869_13	has_surface_form	1955
+20869_14	is_in_sentence	sentence_20869
+20869_14	amod	20869_16
+20869_14	has_surface_form	Hungarian
+20869_15	is_in_sentence	sentence_20869
+20869_15	compound	20869_16
+20869_15	has_surface_form	comedy
+20869_17	is_in_sentence	sentence_20869
+20869_17	acl	20869_16
+20869_17	has_surface_form	directed
+20869_18	is_in_sentence	sentence_20869
+20869_18	agent	20869_17
+20869_18	has_surface_form	by
+20869_19	is_in_sentence	sentence_20869
+20869_19	compound	20869_20
+20869_19	has_surface_form	Félix
+20869_19	part_of_entity	Félix Máriássy
+20869_20	is_in_sentence	sentence_20869
+20869_20	pobj	20869_18
+20869_20	has_surface_form	Máriássy
+20869_20	part_of_entity	Félix Máriássy
+20869_21	is_in_sentence	sentence_20869
+20869_21	cc	20869_17
+20869_21	has_surface_form	and
+20869_22	is_in_sentence	sentence_20869
+20869_22	conj	20869_17
+20869_22	has_surface_form	starring
+20869_23	is_in_sentence	sentence_20869
+20869_23	compound	20869_24
+20869_23	has_surface_form	Éva
+20869_24	is_in_sentence	sentence_20869
+20869_24	dobj	20869_22
+20869_24	has_surface_form	Ruttkai
+20869_25	is_in_sentence	sentence_20869
+20869_25	punct	20869_24
+20869_25	has_surface_form	,
+20869_26	is_in_sentence	sentence_20869
+20869_26	compound	20869_27
+20869_26	has_surface_form	Tibor
+20869_27	is_in_sentence	sentence_20869
+20869_27	conj	20869_24
+20869_27	has_surface_form	Bitskey
+20869_28	is_in_sentence	sentence_20869
+20869_28	cc	20869_27
+20869_28	has_surface_form	and
+20869_29	is_in_sentence	sentence_20869
+20869_29	compound	20869_30
+20869_29	has_surface_form	Elma
+20869_30	is_in_sentence	sentence_20869
+20869_30	conj	20869_27
+20869_30	has_surface_form	Bulla
+20869_31	is_in_sentence	sentence_20869
+20869_31	punct	20869_11
+20869_31	has_surface_form	.
+20869_32	is_in_sentence	sentence_20869
+20869_32	dep	20869_32
+20869_32	has_surface_form	
+A Glass of Beer	surface_form	A Glass of Beer
+A Glass of Beer	movie-has-director	Félix Máriássy
+Félix Máriássy	surface_form	Félix Máriássy

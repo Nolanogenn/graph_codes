@@ -1,0 +1,72 @@
+18868_0	is_in_sentence	sentence_18868
+18868_0	det	18868_2
+18868_0	has_surface_form	The
+18868_2	is_in_sentence	sentence_18868
+18868_2	nsubj	18868_11
+18868_2	has_surface_form	title
+18868_1	is_in_sentence	sentence_18868
+18868_1	amod	18868_2
+18868_1	has_surface_form	first
+18868_11	is_in_sentence	sentence_18868
+18868_11	ROOT	18868_11
+18868_11	has_surface_form	be
+18868_3	is_in_sentence	sentence_18868
+18868_3	aux	18868_5
+18868_3	has_surface_form	to
+18868_5	is_in_sentence	sentence_18868
+18868_5	relcl	18868_2
+18868_5	has_surface_form	released
+18868_4	is_in_sentence	sentence_18868
+18868_4	auxpass	18868_5
+18868_4	has_surface_form	be
+18868_6	is_in_sentence	sentence_18868
+18868_6	prep	18868_5
+18868_6	has_surface_form	through
+18868_7	is_in_sentence	sentence_18868
+18868_7	compound	18868_8
+18868_7	has_surface_form	Coffee
+18868_7	part_of_entity	Coffee Stain Publishing
+18868_8	is_in_sentence	sentence_18868
+18868_8	compound	18868_9
+18868_8	has_surface_form	Stain
+18868_8	part_of_entity	Coffee Stain Publishing
+18868_9	is_in_sentence	sentence_18868
+18868_9	pobj	18868_6
+18868_9	has_surface_form	Publishing
+18868_9	part_of_entity	Coffee Stain Publishing
+18868_10	is_in_sentence	sentence_18868
+18868_10	aux	18868_11
+18868_10	has_surface_form	will
+18868_12	is_in_sentence	sentence_18868
+18868_12	acomp	18868_11
+18868_12	is_entity	Huntdown
+Huntdown	surface_form	Huntdown
+18868_13	is_in_sentence	sentence_18868
+18868_13	prep	18868_12
+18868_13	has_surface_form	by
+18868_14	is_in_sentence	sentence_18868
+18868_14	amod	18868_16
+18868_14	has_surface_form	Swedish
+18868_16	is_in_sentence	sentence_18868
+18868_16	compound	18868_19
+18868_16	has_surface_form	team
+18868_15	is_in_sentence	sentence_18868
+18868_15	compound	18868_16
+18868_15	has_surface_form	development
+18868_19	is_in_sentence	sentence_18868
+18868_19	pobj	18868_13
+18868_19	has_surface_form	Games
+18868_17	is_in_sentence	sentence_18868
+18868_17	compound	18868_18
+18868_17	has_surface_form	Easy
+18868_18	is_in_sentence	sentence_18868
+18868_18	compound	18868_19
+18868_18	has_surface_form	Trigger
+18868_20	is_in_sentence	sentence_18868
+18868_20	punct	18868_11
+18868_20	has_surface_form	.
+18868_21	is_in_sentence	sentence_18868
+18868_21	dep	18868_11
+18868_21	has_surface_form	
+Coffee Stain Publishing	surface_form	Coffee Stain Publishing
+Coffee Stain Publishing	first-product	Huntdown

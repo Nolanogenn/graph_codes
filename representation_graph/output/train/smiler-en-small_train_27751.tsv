@@ -1,0 +1,53 @@
+27750_0	is_in_sentence	sentence_27750
+27750_0	compound	27750_1
+27750_0	has_surface_form	Limestone
+27750_0	part_of_entity	Limestone College
+27750_1	is_in_sentence	sentence_27750
+27750_1	nsubj	27750_2
+27750_1	has_surface_form	College
+27750_1	part_of_entity	Limestone College
+27750_2	is_in_sentence	sentence_27750
+27750_2	ROOT	27750_2
+27750_2	has_surface_form	is
+27750_3	is_in_sentence	sentence_27750
+27750_3	det	27750_8
+27750_3	has_surface_form	a
+27750_8	is_in_sentence	sentence_27750
+27750_8	attr	27750_2
+27750_8	has_surface_form	college
+27750_4	is_in_sentence	sentence_27750
+27750_4	amod	27750_8
+27750_4	has_surface_form	private
+27750_5	is_in_sentence	sentence_27750
+27750_5	amod	27750_8
+27750_5	has_surface_form	Christian
+27750_6	is_in_sentence	sentence_27750
+27750_6	amod	27750_7
+27750_6	has_surface_form	liberal
+27750_7	is_in_sentence	sentence_27750
+27750_7	compound	27750_8
+27750_7	has_surface_form	arts
+27750_9	is_in_sentence	sentence_27750
+27750_9	prep	27750_8
+27750_9	has_surface_form	in
+27750_10	is_in_sentence	sentence_27750
+27750_10	pobj	27750_9
+27750_10	has_surface_form	Gaffney
+27750_11	is_in_sentence	sentence_27750
+27750_11	punct	27750_10
+27750_11	has_surface_form	,
+27750_12	is_in_sentence	sentence_27750
+27750_12	compound	27750_13
+27750_12	has_surface_form	South
+27750_13	is_in_sentence	sentence_27750
+27750_13	appos	27750_10
+27750_13	has_surface_form	Carolina
+27750_14	is_in_sentence	sentence_27750
+27750_14	punct	27750_2
+27750_14	has_surface_form	.
+27750_15	is_in_sentence	sentence_27750
+27750_15	dep	27750_2
+27750_15	has_surface_form	
+Limestone College	surface_form	Limestone College
+Limestone College	is-where	Gaffney, South Carolina
+Gaffney, South Carolina	surface_form	Gaffney, South Carolina

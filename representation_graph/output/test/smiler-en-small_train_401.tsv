@@ -1,0 +1,89 @@
+400_0	is_in_sentence	sentence_400
+400_0	det	400_3
+400_0	has_surface_form	The
+400_3	is_in_sentence	sentence_400
+400_3	nsubj	400_11
+400_3	has_surface_form	Alliance
+400_3	part_of_entity	Corsican Nationalist Alliance
+400_1	is_in_sentence	sentence_400
+400_1	compound	400_3
+400_1	has_surface_form	Corsican
+400_1	part_of_entity	Corsican Nationalist Alliance
+400_2	is_in_sentence	sentence_400
+400_2	compound	400_3
+400_2	has_surface_form	Nationalist
+400_2	part_of_entity	Corsican Nationalist Alliance
+400_11	is_in_sentence	sentence_400
+400_11	ROOT	400_11
+400_11	has_surface_form	is
+400_4	is_in_sentence	sentence_400
+400_4	punct	400_3
+400_4	has_surface_form	(
+400_5	is_in_sentence	sentence_400
+400_5	appos	400_3
+400_5	has_surface_form	Corsican
+400_6	is_in_sentence	sentence_400
+400_6	punct	400_5
+400_6	has_surface_form	:
+400_7	is_in_sentence	sentence_400
+400_7	compound	400_9
+400_7	has_surface_form	Accolta
+400_9	is_in_sentence	sentence_400
+400_9	appos	400_5
+400_9	has_surface_form	Corsa
+400_8	is_in_sentence	sentence_400
+400_8	compound	400_9
+400_8	has_surface_form	Naziunale
+400_10	is_in_sentence	sentence_400
+400_10	punct	400_5
+400_10	has_surface_form	)
+400_12	is_in_sentence	sentence_400
+400_12	det	400_14
+400_12	has_surface_form	a
+400_14	is_in_sentence	sentence_400
+400_14	attr	400_11
+400_14	has_surface_form	party
+400_13	is_in_sentence	sentence_400
+400_13	amod	400_14
+400_13	has_surface_form	political
+400_15	is_in_sentence	sentence_400
+400_15	acl	400_14
+400_15	has_surface_form	endorsing
+400_16	is_in_sentence	sentence_400
+400_16	amod	400_17
+400_16	has_surface_form	Corsican
+400_17	is_in_sentence	sentence_400
+400_17	dobj	400_15
+400_17	has_surface_form	nationalism
+400_18	is_in_sentence	sentence_400
+400_18	punct	400_11
+400_18	has_surface_form	.
+400_19	is_in_sentence	sentence_400
+400_19	nsubjpass	400_21
+400_19	has_surface_form	It
+400_21	is_in_sentence	sentence_400
+400_21	ROOT	400_21
+400_21	has_surface_form	headed
+400_20	is_in_sentence	sentence_400
+400_20	auxpass	400_21
+400_20	has_surface_form	is
+400_22	is_in_sentence	sentence_400
+400_22	agent	400_21
+400_22	has_surface_form	by
+400_23	is_in_sentence	sentence_400
+400_23	compound	400_24
+400_23	has_surface_form	Pierre
+400_23	part_of_entity	Pierre Poggioli
+400_24	is_in_sentence	sentence_400
+400_24	pobj	400_22
+400_24	has_surface_form	Poggioli
+400_24	part_of_entity	Pierre Poggioli
+400_25	is_in_sentence	sentence_400
+400_25	punct	400_21
+400_25	has_surface_form	.
+400_26	is_in_sentence	sentence_400
+400_26	dep	400_26
+400_26	has_surface_form	
+Corsican Nationalist Alliance	surface_form	Corsican Nationalist Alliance
+Corsican Nationalist Alliance	org-leader	Pierre Poggioli
+Pierre Poggioli	surface_form	Pierre Poggioli

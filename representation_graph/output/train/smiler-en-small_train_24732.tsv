@@ -1,0 +1,59 @@
+24731_0	is_in_sentence	sentence_24731
+24731_0	compound	24731_1
+24731_0	has_surface_form	Brian
+24731_0	part_of_entity	Brian Idalski
+24731_1	is_in_sentence	sentence_24731
+24731_1	nsubj	24731_9
+24731_1	has_surface_form	Idalski
+24731_1	part_of_entity	Brian Idalski
+24731_9	is_in_sentence	sentence_24731
+24731_9	ROOT	24731_9
+24731_9	has_surface_form	is
+24731_2	is_in_sentence	sentence_24731
+24731_2	punct	24731_3
+24731_2	has_surface_form	(
+24731_3	is_in_sentence	sentence_24731
+24731_3	acl	24731_1
+24731_3	has_surface_form	born
+24731_4	is_in_sentence	sentence_24731
+24731_4	npadvmod	24731_3
+24731_4	has_surface_form	January
+24731_5	is_in_sentence	sentence_24731
+24731_5	nummod	24731_4
+24731_5	has_surface_form	23
+24731_6	is_in_sentence	sentence_24731
+24731_6	punct	24731_4
+24731_6	has_surface_form	,
+24731_7	is_in_sentence	sentence_24731
+24731_7	nummod	24731_4
+24731_7	has_surface_form	1971
+24731_8	is_in_sentence	sentence_24731
+24731_8	punct	24731_3
+24731_8	has_surface_form	)
+24731_10	is_in_sentence	sentence_24731
+24731_10	det	24731_14
+24731_10	has_surface_form	an
+24731_14	is_in_sentence	sentence_24731
+24731_14	attr	24731_9
+24731_14	has_surface_form	coach
+24731_14	part_of_entity	ice hockey coach
+24731_11	is_in_sentence	sentence_24731
+24731_11	amod	24731_14
+24731_11	has_surface_form	American
+24731_12	is_in_sentence	sentence_24731
+24731_12	compound	24731_13
+24731_12	has_surface_form	ice
+24731_12	part_of_entity	ice hockey coach
+24731_13	is_in_sentence	sentence_24731
+24731_13	compound	24731_14
+24731_13	has_surface_form	hockey
+24731_13	part_of_entity	ice hockey coach
+24731_15	is_in_sentence	sentence_24731
+24731_15	punct	24731_9
+24731_15	has_surface_form	.
+24731_16	is_in_sentence	sentence_24731
+24731_16	dep	24731_16
+24731_16	has_surface_form	
+Brian Idalski	surface_form	Brian Idalski
+Brian Idalski	has-type	ice hockey coach
+ice hockey coach	surface_form	ice hockey coach

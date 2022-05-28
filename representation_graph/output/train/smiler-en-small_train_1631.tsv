@@ -1,0 +1,52 @@
+1630_0	is_in_sentence	sentence_1630
+1630_0	compound	1630_1
+1630_0	has_surface_form	Adrian
+1630_0	part_of_entity	Adrian Buoncristiani
+1630_1	is_in_sentence	sentence_1630
+1630_1	nsubj	1630_7
+1630_1	has_surface_form	Buoncristiani
+1630_1	part_of_entity	Adrian Buoncristiani
+1630_7	is_in_sentence	sentence_1630
+1630_7	ROOT	1630_7
+1630_7	has_surface_form	is
+1630_2	is_in_sentence	sentence_1630
+1630_2	punct	1630_1
+1630_2	has_surface_form	(
+1630_3	is_in_sentence	sentence_1630
+1630_3	acl	1630_1
+1630_3	has_surface_form	born
+1630_4	is_in_sentence	sentence_1630
+1630_4	npadvmod	1630_3
+1630_4	has_surface_form	c.
+1630_5	is_in_sentence	sentence_1630
+1630_5	nummod	1630_4
+1630_5	has_surface_form	1940
+1630_6	is_in_sentence	sentence_1630
+1630_6	punct	1630_1
+1630_6	has_surface_form	)
+1630_8	is_in_sentence	sentence_1630
+1630_8	det	1630_12
+1630_8	has_surface_form	a
+1630_12	is_in_sentence	sentence_1630
+1630_12	attr	1630_7
+1630_12	has_surface_form	coach
+1630_12	part_of_entity	basketball coach
+1630_9	is_in_sentence	sentence_1630
+1630_9	amod	1630_12
+1630_9	has_surface_form	former
+1630_10	is_in_sentence	sentence_1630
+1630_10	compound	1630_11
+1630_10	has_surface_form	college
+1630_11	is_in_sentence	sentence_1630
+1630_11	compound	1630_12
+1630_11	has_surface_form	basketball
+1630_11	part_of_entity	basketball coach
+1630_13	is_in_sentence	sentence_1630
+1630_13	punct	1630_7
+1630_13	has_surface_form	.
+1630_14	is_in_sentence	sentence_1630
+1630_14	dep	1630_14
+1630_14	has_surface_form	
+Adrian Buoncristiani	surface_form	Adrian Buoncristiani
+Adrian Buoncristiani	has-type	basketball coach
+basketball coach	surface_form	basketball coach

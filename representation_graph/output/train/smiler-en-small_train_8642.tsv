@@ -1,0 +1,61 @@
+8641_0	is_in_sentence	sentence_8641
+8641_0	compound	8641_1
+8641_0	has_surface_form	Denise
+8641_0	part_of_entity	Denise Murray
+8641_1	is_in_sentence	sentence_8641
+8641_1	nsubj	8641_9
+8641_1	has_surface_form	Murray
+8641_1	part_of_entity	Denise Murray
+8641_9	is_in_sentence	sentence_8641
+8641_9	ROOT	8641_9
+8641_9	has_surface_form	is
+8641_2	is_in_sentence	sentence_8641
+8641_2	punct	8641_3
+8641_2	has_surface_form	(
+8641_3	is_in_sentence	sentence_8641
+8641_3	parataxis	8641_1
+8641_3	has_surface_form	born
+8641_4	is_in_sentence	sentence_8641
+8641_4	npadvmod	8641_3
+8641_4	has_surface_form	March
+8641_5	is_in_sentence	sentence_8641
+8641_5	nummod	8641_4
+8641_5	has_surface_form	8
+8641_6	is_in_sentence	sentence_8641
+8641_6	punct	8641_4
+8641_6	has_surface_form	,
+8641_7	is_in_sentence	sentence_8641
+8641_7	nummod	8641_4
+8641_7	has_surface_form	1964
+8641_8	is_in_sentence	sentence_8641
+8641_8	punct	8641_3
+8641_8	has_surface_form	)
+8641_10	is_in_sentence	sentence_8641
+8641_10	det	8641_15
+8641_10	has_surface_form	a
+8641_15	is_in_sentence	sentence_8641
+8641_15	attr	8641_9
+8641_15	has_surface_form	singer
+8641_11	is_in_sentence	sentence_8641
+8641_11	amod	8641_15
+8641_11	has_surface_form	Canadian
+8641_12	is_in_sentence	sentence_8641
+8641_12	amod	8641_13
+8641_12	has_surface_form	female
+8641_13	is_in_sentence	sentence_8641
+8641_13	compound	8641_14
+8641_13	has_surface_form	country
+8641_13	part_of_entity	country music
+8641_14	is_in_sentence	sentence_8641
+8641_14	compound	8641_15
+8641_14	has_surface_form	music
+8641_14	part_of_entity	country music
+8641_16	is_in_sentence	sentence_8641
+8641_16	punct	8641_9
+8641_16	has_surface_form	.
+8641_17	is_in_sentence	sentence_8641
+8641_17	dep	8641_17
+8641_17	has_surface_form	
+Denise Murray	surface_form	Denise Murray
+Denise Murray	has-genre	country music
+country music	surface_form	country music

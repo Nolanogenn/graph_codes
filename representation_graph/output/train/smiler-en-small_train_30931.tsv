@@ -1,0 +1,79 @@
+30930_0	is_in_sentence	sentence_30930
+30930_0	compound	30930_1
+30930_0	has_surface_form	Brian
+30930_0	part_of_entity	Brian Bohannon
+30930_1	is_in_sentence	sentence_30930
+30930_1	nsubj	30930_9
+30930_1	has_surface_form	Bohannon
+30930_1	part_of_entity	Brian Bohannon
+30930_9	is_in_sentence	sentence_30930
+30930_9	ROOT	30930_9
+30930_9	has_surface_form	is
+30930_2	is_in_sentence	sentence_30930
+30930_2	punct	30930_1
+30930_2	has_surface_form	(
+30930_3	is_in_sentence	sentence_30930
+30930_3	acl	30930_1
+30930_3	has_surface_form	born
+30930_4	is_in_sentence	sentence_30930
+30930_4	npadvmod	30930_3
+30930_4	has_surface_form	February
+30930_5	is_in_sentence	sentence_30930
+30930_5	nummod	30930_4
+30930_5	has_surface_form	20
+30930_6	is_in_sentence	sentence_30930
+30930_6	punct	30930_4
+30930_6	has_surface_form	,
+30930_7	is_in_sentence	sentence_30930
+30930_7	nummod	30930_4
+30930_7	has_surface_form	1971
+30930_8	is_in_sentence	sentence_30930
+30930_8	punct	30930_1
+30930_8	has_surface_form	)
+30930_10	is_in_sentence	sentence_30930
+30930_10	det	30930_13
+30930_10	has_surface_form	the
+30930_13	is_in_sentence	sentence_30930
+30930_13	attr	30930_9
+30930_13	has_surface_form	coach
+30930_13	part_of_entity	football coach
+30930_11	is_in_sentence	sentence_30930
+30930_11	compound	30930_13
+30930_11	has_surface_form	head
+30930_12	is_in_sentence	sentence_30930
+30930_12	compound	30930_13
+30930_12	has_surface_form	football
+30930_12	part_of_entity	football coach
+30930_14	is_in_sentence	sentence_30930
+30930_14	prep	30930_13
+30930_14	has_surface_form	at
+30930_15	is_in_sentence	sentence_30930
+30930_15	compound	30930_16
+30930_15	has_surface_form	Kennesaw
+30930_16	is_in_sentence	sentence_30930
+30930_16	compound	30930_17
+30930_16	has_surface_form	State
+30930_17	is_in_sentence	sentence_30930
+30930_17	pobj	30930_14
+30930_17	has_surface_form	University
+30930_18	is_in_sentence	sentence_30930
+30930_18	prep	30930_17
+30930_18	has_surface_form	in
+30930_19	is_in_sentence	sentence_30930
+30930_19	pobj	30930_18
+30930_19	has_surface_form	Kennesaw
+30930_20	is_in_sentence	sentence_30930
+30930_20	punct	30930_17
+30930_20	has_surface_form	,
+30930_21	is_in_sentence	sentence_30930
+30930_21	npadvmod	30930_17
+30930_21	has_surface_form	Georgia
+30930_22	is_in_sentence	sentence_30930
+30930_22	punct	30930_9
+30930_22	has_surface_form	.
+30930_23	is_in_sentence	sentence_30930
+30930_23	dep	30930_9
+30930_23	has_surface_form	
+Brian Bohannon	surface_form	Brian Bohannon
+Brian Bohannon	has-type	football coach
+football coach	surface_form	football coach

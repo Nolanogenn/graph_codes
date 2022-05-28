@@ -1,0 +1,101 @@
+6305_0	is_in_sentence	sentence_6305
+6305_0	det	6305_2
+6305_0	has_surface_form	A
+6305_0	part_of_entity	A Rainbow Plays in My Heart
+6305_2	is_in_sentence	sentence_6305
+6305_2	nsubj	6305_16
+6305_2	has_surface_form	Plays
+6305_2	part_of_entity	A Rainbow Plays in My Heart
+6305_1	is_in_sentence	sentence_6305
+6305_1	compound	6305_2
+6305_1	has_surface_form	Rainbow
+6305_1	part_of_entity	A Rainbow Plays in My Heart
+6305_16	is_in_sentence	sentence_6305
+6305_16	ROOT	6305_16
+6305_16	has_surface_form	is
+6305_3	is_in_sentence	sentence_6305
+6305_3	prep	6305_2
+6305_3	has_surface_form	in
+6305_3	part_of_entity	A Rainbow Plays in My Heart
+6305_4	is_in_sentence	sentence_6305
+6305_4	poss	6305_5
+6305_4	has_surface_form	My
+6305_4	part_of_entity	A Rainbow Plays in My Heart
+6305_5	is_in_sentence	sentence_6305
+6305_5	pobj	6305_3
+6305_5	has_surface_form	Heart
+6305_5	part_of_entity	A Rainbow Plays in My Heart
+6305_6	is_in_sentence	sentence_6305
+6305_6	punct	6305_5
+6305_6	has_surface_form	(
+6305_7	is_in_sentence	sentence_6305
+6305_7	appos	6305_5
+6305_7	has_surface_form	わが胸に虹は消えず
+6305_8	is_in_sentence	sentence_6305
+6305_8	punct	6305_14
+6305_8	has_surface_form	,
+6305_14	is_in_sentence	sentence_6305
+6305_14	appos	6305_2
+6305_14	has_surface_form	kiezu
+6305_9	is_in_sentence	sentence_6305
+6305_9	compound	6305_14
+6305_9	has_surface_form	Waga
+6305_10	is_in_sentence	sentence_6305
+6305_10	compound	6305_12
+6305_10	has_surface_form	mune
+6305_12	is_in_sentence	sentence_6305
+6305_12	compound	6305_14
+6305_12	has_surface_form	niji
+6305_11	is_in_sentence	sentence_6305
+6305_11	compound	6305_12
+6305_11	has_surface_form	ni
+6305_13	is_in_sentence	sentence_6305
+6305_13	compound	6305_14
+6305_13	has_surface_form	wa
+6305_15	is_in_sentence	sentence_6305
+6305_15	punct	6305_14
+6305_15	has_surface_form	)
+6305_17	is_in_sentence	sentence_6305
+6305_17	det	6305_23
+6305_17	has_surface_form	a
+6305_23	is_in_sentence	sentence_6305
+6305_23	attr	6305_16
+6305_23	has_surface_form	film
+6305_18	is_in_sentence	sentence_6305
+6305_18	nummod	6305_23
+6305_18	has_surface_form	1957
+6305_19	is_in_sentence	sentence_6305
+6305_19	amod	6305_23
+6305_19	has_surface_form	black
+6305_20	is_in_sentence	sentence_6305
+6305_20	cc	6305_19
+6305_20	has_surface_form	and
+6305_21	is_in_sentence	sentence_6305
+6305_21	conj	6305_19
+6305_21	has_surface_form	white
+6305_22	is_in_sentence	sentence_6305
+6305_22	amod	6305_23
+6305_22	has_surface_form	Japanese
+6305_24	is_in_sentence	sentence_6305
+6305_24	acl	6305_23
+6305_24	has_surface_form	directed
+6305_25	is_in_sentence	sentence_6305
+6305_25	agent	6305_24
+6305_25	has_surface_form	by
+6305_26	is_in_sentence	sentence_6305
+6305_26	compound	6305_27
+6305_26	has_surface_form	Ishirō
+6305_26	part_of_entity	Ishirō Honda
+6305_27	is_in_sentence	sentence_6305
+6305_27	pobj	6305_25
+6305_27	has_surface_form	Honda
+6305_27	part_of_entity	Ishirō Honda
+6305_28	is_in_sentence	sentence_6305
+6305_28	punct	6305_16
+6305_28	has_surface_form	.
+6305_29	is_in_sentence	sentence_6305
+6305_29	dep	6305_29
+6305_29	has_surface_form	
+A Rainbow Plays in My Heart	surface_form	A Rainbow Plays in My Heart
+A Rainbow Plays in My Heart	movie-has-director	Ishirō Honda
+Ishirō Honda	surface_form	Ishirō Honda

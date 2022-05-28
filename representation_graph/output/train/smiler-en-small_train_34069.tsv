@@ -1,0 +1,55 @@
+34068_0	is_in_sentence	sentence_34068
+34068_0	compound	34068_1
+34068_0	has_surface_form	Rick
+34068_0	part_of_entity	Rick Carter
+34068_1	is_in_sentence	sentence_34068
+34068_1	nsubj	34068_6
+34068_1	has_surface_form	Carter
+34068_1	part_of_entity	Rick Carter
+34068_6	is_in_sentence	sentence_34068
+34068_6	ROOT	34068_6
+34068_6	has_surface_form	is
+34068_2	is_in_sentence	sentence_34068
+34068_2	punct	34068_1
+34068_2	has_surface_form	(
+34068_3	is_in_sentence	sentence_34068
+34068_3	acl	34068_1
+34068_3	has_surface_form	born
+34068_4	is_in_sentence	sentence_34068
+34068_4	npadvmod	34068_3
+34068_4	has_surface_form	1950
+34068_5	is_in_sentence	sentence_34068
+34068_5	punct	34068_1
+34068_5	has_surface_form	)
+34068_7	is_in_sentence	sentence_34068
+34068_7	det	34068_10
+34068_7	has_surface_form	an
+34068_10	is_in_sentence	sentence_34068
+34068_10	attr	34068_6
+34068_10	has_surface_form	designer
+34068_10	part_of_entity	production designer
+34068_8	is_in_sentence	sentence_34068
+34068_8	amod	34068_10
+34068_8	has_surface_form	American
+34068_9	is_in_sentence	sentence_34068
+34068_9	compound	34068_10
+34068_9	has_surface_form	production
+34068_9	part_of_entity	production designer
+34068_11	is_in_sentence	sentence_34068
+34068_11	cc	34068_10
+34068_11	has_surface_form	and
+34068_12	is_in_sentence	sentence_34068
+34068_12	compound	34068_13
+34068_12	has_surface_form	art
+34068_13	is_in_sentence	sentence_34068
+34068_13	conj	34068_10
+34068_13	has_surface_form	director
+34068_14	is_in_sentence	sentence_34068
+34068_14	punct	34068_6
+34068_14	has_surface_form	.
+34068_15	is_in_sentence	sentence_34068
+34068_15	dep	34068_15
+34068_15	has_surface_form	
+Rick Carter	surface_form	Rick Carter
+Rick Carter	has-occupation	production designer
+production designer	surface_form	production designer

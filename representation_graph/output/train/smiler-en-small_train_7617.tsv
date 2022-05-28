@@ -1,0 +1,107 @@
+7616_0	is_in_sentence	sentence_7616
+7616_0	det	7616_2
+7616_0	has_surface_form	A
+7616_0	part_of_entity	A Passenger Disappeared
+7616_2	is_in_sentence	sentence_7616
+7616_2	nsubj	7616_11
+7616_2	has_surface_form	Disappeared
+7616_2	part_of_entity	A Passenger Disappeared
+7616_1	is_in_sentence	sentence_7616
+7616_1	compound	7616_2
+7616_1	has_surface_form	Passenger
+7616_1	part_of_entity	A Passenger Disappeared
+7616_11	is_in_sentence	sentence_7616
+7616_11	ROOT	7616_11
+7616_11	has_surface_form	is
+7616_3	is_in_sentence	sentence_7616
+7616_3	punct	7616_2
+7616_3	has_surface_form	(
+7616_4	is_in_sentence	sentence_7616
+7616_4	appos	7616_2
+7616_4	has_surface_form	Spanish
+7616_5	is_in_sentence	sentence_7616
+7616_5	punct	7616_4
+7616_5	has_surface_form	:
+7616_6	is_in_sentence	sentence_7616
+7616_6	appos	7616_2
+7616_6	has_surface_form	Ha
+7616_7	is_in_sentence	sentence_7616
+7616_7	compound	7616_9
+7616_7	has_surface_form	desaparecido
+7616_9	is_in_sentence	sentence_7616
+7616_9	appos	7616_2
+7616_9	has_surface_form	pasajero
+7616_8	is_in_sentence	sentence_7616
+7616_8	compound	7616_9
+7616_8	has_surface_form	un
+7616_10	is_in_sentence	sentence_7616
+7616_10	punct	7616_2
+7616_10	has_surface_form	)
+7616_12	is_in_sentence	sentence_7616
+7616_12	det	7616_16
+7616_12	has_surface_form	a
+7616_16	is_in_sentence	sentence_7616
+7616_16	attr	7616_11
+7616_16	has_surface_form	film
+7616_13	is_in_sentence	sentence_7616
+7616_13	nummod	7616_16
+7616_13	has_surface_form	1953
+7616_14	is_in_sentence	sentence_7616
+7616_14	amod	7616_16
+7616_14	has_surface_form	Spanish
+7616_15	is_in_sentence	sentence_7616
+7616_15	compound	7616_16
+7616_15	has_surface_form	crime
+7616_17	is_in_sentence	sentence_7616
+7616_17	acl	7616_16
+7616_17	has_surface_form	directed
+7616_18	is_in_sentence	sentence_7616
+7616_18	agent	7616_17
+7616_18	has_surface_form	by
+7616_19	is_in_sentence	sentence_7616
+7616_19	compound	7616_20
+7616_19	has_surface_form	Alejandro
+7616_19	part_of_entity	Alejandro Perla
+7616_20	is_in_sentence	sentence_7616
+7616_20	pobj	7616_18
+7616_20	has_surface_form	Perla
+7616_20	part_of_entity	Alejandro Perla
+7616_21	is_in_sentence	sentence_7616
+7616_21	cc	7616_17
+7616_21	has_surface_form	and
+7616_22	is_in_sentence	sentence_7616
+7616_22	conj	7616_17
+7616_22	has_surface_form	starring
+7616_23	is_in_sentence	sentence_7616
+7616_23	compound	7616_24
+7616_23	has_surface_form	Rafael
+7616_24	is_in_sentence	sentence_7616
+7616_24	dobj	7616_22
+7616_24	has_surface_form	Durán
+7616_25	is_in_sentence	sentence_7616
+7616_25	punct	7616_24
+7616_25	has_surface_form	,
+7616_26	is_in_sentence	sentence_7616
+7616_26	compound	7616_27
+7616_26	has_surface_form	María
+7616_27	is_in_sentence	sentence_7616
+7616_27	conj	7616_24
+7616_27	has_surface_form	Rivas
+7616_28	is_in_sentence	sentence_7616
+7616_28	cc	7616_27
+7616_28	has_surface_form	and
+7616_29	is_in_sentence	sentence_7616
+7616_29	compound	7616_30
+7616_29	has_surface_form	Mario
+7616_30	is_in_sentence	sentence_7616
+7616_30	conj	7616_27
+7616_30	has_surface_form	Berriatúa
+7616_31	is_in_sentence	sentence_7616
+7616_31	punct	7616_11
+7616_31	has_surface_form	.
+7616_32	is_in_sentence	sentence_7616
+7616_32	dep	7616_32
+7616_32	has_surface_form	
+A Passenger Disappeared	surface_form	A Passenger Disappeared
+A Passenger Disappeared	movie-has-director	Alejandro Perla
+Alejandro Perla	surface_form	Alejandro Perla

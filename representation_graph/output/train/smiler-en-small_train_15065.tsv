@@ -1,0 +1,56 @@
+15064_0	is_in_sentence	sentence_15064
+15064_0	compound	15064_1
+15064_0	has_surface_form	James
+15064_0	part_of_entity	James Watt
+15064_1	is_in_sentence	sentence_15064
+15064_1	poss	15064_5
+15064_1	has_surface_form	Watt
+15064_1	part_of_entity	James Watt
+15064_5	is_in_sentence	sentence_15064
+15064_5	nsubjpass	15064_8
+15064_5	has_surface_form	governor
+15064_5	part_of_entity	steam engine governor
+15064_2	is_in_sentence	sentence_15064
+15064_2	case	15064_1
+15064_2	has_surface_form	's
+15064_3	is_in_sentence	sentence_15064
+15064_3	compound	15064_4
+15064_3	has_surface_form	steam
+15064_3	part_of_entity	steam engine governor
+15064_4	is_in_sentence	sentence_15064
+15064_4	compound	15064_5
+15064_4	has_surface_form	engine
+15064_4	part_of_entity	steam engine governor
+15064_8	is_in_sentence	sentence_15064
+15064_8	ROOT	15064_8
+15064_8	has_surface_form	considered
+15064_6	is_in_sentence	sentence_15064
+15064_6	auxpass	15064_8
+15064_6	has_surface_form	is
+15064_7	is_in_sentence	sentence_15064
+15064_7	advmod	15064_8
+15064_7	has_surface_form	generally
+15064_9	is_in_sentence	sentence_15064
+15064_9	det	15064_13
+15064_9	has_surface_form	the
+15064_13	is_in_sentence	sentence_15064
+15064_13	oprd	15064_8
+15064_13	has_surface_form	system
+15064_10	is_in_sentence	sentence_15064
+15064_10	amod	15064_13
+15064_10	has_surface_form	first
+15064_11	is_in_sentence	sentence_15064
+15064_11	amod	15064_13
+15064_11	has_surface_form	powered
+15064_12	is_in_sentence	sentence_15064
+15064_12	compound	15064_13
+15064_12	has_surface_form	feedback
+15064_14	is_in_sentence	sentence_15064
+15064_14	punct	15064_8
+15064_14	has_surface_form	.
+15064_15	is_in_sentence	sentence_15064
+15064_15	dep	15064_15
+15064_15	has_surface_form	
+steam engine governor	surface_form	steam engine governor
+steam engine governor	invented-by	James Watt
+James Watt	surface_form	James Watt

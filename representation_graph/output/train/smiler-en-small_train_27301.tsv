@@ -1,0 +1,94 @@
+27300_0	is_in_sentence	sentence_27300
+27300_0	nsubj	27300_9
+27300_0	has_surface_form	Creature
+27300_0	part_of_entity	Creature with the Blue Hand
+27300_9	is_in_sentence	sentence_27300
+27300_9	nsubj	27300_12
+27300_9	has_surface_form	blaue
+27300_1	is_in_sentence	sentence_27300
+27300_1	prep	27300_0
+27300_1	has_surface_form	with
+27300_1	part_of_entity	Creature with the Blue Hand
+27300_2	is_in_sentence	sentence_27300
+27300_2	det	27300_4
+27300_2	has_surface_form	the
+27300_2	part_of_entity	Creature with the Blue Hand
+27300_4	is_in_sentence	sentence_27300
+27300_4	pobj	27300_1
+27300_4	has_surface_form	Hand
+27300_4	part_of_entity	Creature with the Blue Hand
+27300_3	is_in_sentence	sentence_27300
+27300_3	compound	27300_4
+27300_3	has_surface_form	Blue
+27300_3	part_of_entity	Creature with the Blue Hand
+27300_5	is_in_sentence	sentence_27300
+27300_5	punct	27300_8
+27300_5	has_surface_form	(
+27300_8	is_in_sentence	sentence_27300
+27300_8	appos	27300_0
+27300_8	has_surface_form	Die
+27300_6	is_in_sentence	sentence_27300
+27300_6	amod	27300_8
+27300_6	has_surface_form	German
+27300_7	is_in_sentence	sentence_27300
+27300_7	punct	27300_8
+27300_7	has_surface_form	:
+27300_12	is_in_sentence	sentence_27300
+27300_12	ROOT	27300_12
+27300_12	has_surface_form	is
+27300_10	is_in_sentence	sentence_27300
+27300_10	npadvmod	27300_9
+27300_10	has_surface_form	Hand
+27300_11	is_in_sentence	sentence_27300
+27300_11	punct	27300_9
+27300_11	has_surface_form	)
+27300_13	is_in_sentence	sentence_27300
+27300_13	det	27300_17
+27300_13	has_surface_form	a
+27300_17	is_in_sentence	sentence_27300
+27300_17	attr	27300_12
+27300_17	has_surface_form	film
+27300_14	is_in_sentence	sentence_27300
+27300_14	amod	27300_15
+27300_14	has_surface_form	West
+27300_15	is_in_sentence	sentence_27300
+27300_15	amod	27300_17
+27300_15	has_surface_form	German
+27300_16	is_in_sentence	sentence_27300
+27300_16	compound	27300_17
+27300_16	has_surface_form	horror
+27300_18	is_in_sentence	sentence_27300
+27300_18	acl	27300_17
+27300_18	has_surface_form	directed
+27300_19	is_in_sentence	sentence_27300
+27300_19	agent	27300_18
+27300_19	has_surface_form	by
+27300_20	is_in_sentence	sentence_27300
+27300_20	compound	27300_21
+27300_20	has_surface_form	Alfred
+27300_21	is_in_sentence	sentence_27300
+27300_21	pobj	27300_19
+27300_21	has_surface_form	Vohrer
+27300_22	is_in_sentence	sentence_27300
+27300_22	cc	27300_18
+27300_22	has_surface_form	and
+27300_23	is_in_sentence	sentence_27300
+27300_23	conj	27300_18
+27300_23	has_surface_form	starring
+27300_24	is_in_sentence	sentence_27300
+27300_24	compound	27300_25
+27300_24	has_surface_form	Harald
+27300_24	part_of_entity	Harald Leipnitz
+27300_25	is_in_sentence	sentence_27300
+27300_25	dobj	27300_23
+27300_25	has_surface_form	Leipnitz
+27300_25	part_of_entity	Harald Leipnitz
+27300_26	is_in_sentence	sentence_27300
+27300_26	punct	27300_12
+27300_26	has_surface_form	.
+27300_27	is_in_sentence	sentence_27300
+27300_27	dep	27300_27
+27300_27	has_surface_form	
+Creature with the Blue Hand	surface_form	Creature with the Blue Hand
+Creature with the Blue Hand	starring	Harald Leipnitz
+Harald Leipnitz	surface_form	Harald Leipnitz

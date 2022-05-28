@@ -1,0 +1,50 @@
+18838_0	is_in_sentence	sentence_18838
+18838_0	nsubj	18838_1
+18838_0	has_surface_form	Jones
+18838_1	is_in_sentence	sentence_18838
+18838_1	ROOT	18838_1
+18838_1	has_surface_form	is
+18838_2	is_in_sentence	sentence_18838
+18838_2	acomp	18838_1
+18838_2	has_surface_form	married
+18838_3	is_in_sentence	sentence_18838
+18838_3	prep	18838_2
+18838_3	has_surface_form	to
+18838_4	is_in_sentence	sentence_18838
+18838_4	compound	18838_5
+18838_4	has_surface_form	Robert
+18838_4	part_of_entity	Robert Plant
+18838_5	is_in_sentence	sentence_18838
+18838_5	poss	18838_7
+18838_5	has_surface_form	Plant
+18838_5	part_of_entity	Robert Plant
+18838_7	is_in_sentence	sentence_18838
+18838_7	pobj	18838_3
+18838_7	has_surface_form	daughter
+18838_6	is_in_sentence	sentence_18838
+18838_6	case	18838_5
+18838_6	has_surface_form	's
+18838_8	is_in_sentence	sentence_18838
+18838_8	punct	18838_7
+18838_8	has_surface_form	,
+18838_9	is_in_sentence	sentence_18838
+18838_9	compound	18838_11
+18838_9	has_surface_form	Carmen
+18838_9	part_of_entity	Carmen Jane Plant
+18838_11	is_in_sentence	sentence_18838
+18838_11	appos	18838_7
+18838_11	has_surface_form	Plant
+18838_11	part_of_entity	Carmen Jane Plant
+18838_10	is_in_sentence	sentence_18838
+18838_10	compound	18838_11
+18838_10	has_surface_form	Jane
+18838_10	part_of_entity	Carmen Jane Plant
+18838_12	is_in_sentence	sentence_18838
+18838_12	punct	18838_1
+18838_12	has_surface_form	.
+18838_13	is_in_sentence	sentence_18838
+18838_13	dep	18838_1
+18838_13	has_surface_form	
+Robert Plant	surface_form	Robert Plant
+Robert Plant	has-child	Carmen Jane Plant
+Carmen Jane Plant	surface_form	Carmen Jane Plant

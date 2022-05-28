@@ -1,0 +1,53 @@
+33288_0	is_in_sentence	sentence_33288
+33288_0	compound	33288_1
+33288_0	has_surface_form	Ahang
+33288_0	part_of_entity	Ahang Expressway
+33288_1	is_in_sentence	sentence_33288
+33288_1	nsubj	33288_8
+33288_1	has_surface_form	Expressway
+33288_1	part_of_entity	Ahang Expressway
+33288_8	is_in_sentence	sentence_33288
+33288_8	ROOT	33288_8
+33288_8	has_surface_form	is
+33288_2	is_in_sentence	sentence_33288
+33288_2	punct	33288_1
+33288_2	has_surface_form	(
+33288_3	is_in_sentence	sentence_33288
+33288_3	appos	33288_1
+33288_3	has_surface_form	Persian
+33288_4	is_in_sentence	sentence_33288
+33288_4	punct	33288_1
+33288_4	has_surface_form	:
+33288_5	is_in_sentence	sentence_33288
+33288_5	compound	33288_6
+33288_5	has_surface_form	بزرگراه
+33288_6	is_in_sentence	sentence_33288
+33288_6	appos	33288_1
+33288_6	has_surface_form	آهنگ‎
+33288_7	is_in_sentence	sentence_33288
+33288_7	punct	33288_1
+33288_7	has_surface_form	)
+33288_9	is_in_sentence	sentence_33288
+33288_9	det	33288_10
+33288_9	has_surface_form	an
+33288_10	is_in_sentence	sentence_33288
+33288_10	attr	33288_8
+33288_10	has_surface_form	expressway
+33288_11	is_in_sentence	sentence_33288
+33288_11	prep	33288_10
+33288_11	has_surface_form	in
+33288_12	is_in_sentence	sentence_33288
+33288_12	amod	33288_13
+33288_12	has_surface_form	southeastern
+33288_13	is_in_sentence	sentence_33288
+33288_13	pobj	33288_11
+33288_13	is_entity	Tehran
+Tehran	surface_form	Tehran
+33288_14	is_in_sentence	sentence_33288
+33288_14	punct	33288_8
+33288_14	has_surface_form	.
+33288_15	is_in_sentence	sentence_33288
+33288_15	dep	33288_15
+33288_15	has_surface_form	
+Ahang Expressway	surface_form	Ahang Expressway
+Ahang Expressway	is-where	Tehran

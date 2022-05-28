@@ -1,0 +1,94 @@
+32940_0	is_in_sentence	sentence_32940
+32940_0	compound	32940_1
+32940_0	has_surface_form	Robin
+32940_0	part_of_entity	Robin Ignico
+32940_1	is_in_sentence	sentence_32940
+32940_1	nsubj	32940_6
+32940_1	has_surface_form	Ignico
+32940_1	part_of_entity	Robin Ignico
+32940_6	is_in_sentence	sentence_32940
+32940_6	ROOT	32940_6
+32940_6	has_surface_form	is
+32940_2	is_in_sentence	sentence_32940
+32940_2	punct	32940_1
+32940_2	has_surface_form	(
+32940_3	is_in_sentence	sentence_32940
+32940_3	acl	32940_1
+32940_3	has_surface_form	born
+32940_4	is_in_sentence	sentence_32940
+32940_4	npadvmod	32940_3
+32940_4	has_surface_form	1970
+32940_5	is_in_sentence	sentence_32940
+32940_5	punct	32940_1
+32940_5	has_surface_form	)
+32940_7	is_in_sentence	sentence_32940
+32940_7	det	32940_11
+32940_7	has_surface_form	an
+32940_11	is_in_sentence	sentence_32940
+32940_11	attr	32940_6
+32940_11	has_surface_form	actress
+32940_8	is_in_sentence	sentence_32940
+32940_8	amod	32940_11
+32940_8	has_surface_form	American
+32940_9	is_in_sentence	sentence_32940
+32940_9	amod	32940_11
+32940_9	has_surface_form	former
+32940_10	is_in_sentence	sentence_32940
+32940_10	compound	32940_11
+32940_10	has_surface_form	child
+32940_12	is_in_sentence	sentence_32940
+32940_12	punct	32940_6
+32940_12	has_surface_form	.
+32940_13	is_in_sentence	sentence_32940
+32940_13	compound	32940_14
+32940_13	has_surface_form	Robin
+32940_13	part_of_entity	Robin Ignico
+32940_14	is_in_sentence	sentence_32940
+32940_14	nsubjpass	32940_16
+32940_14	has_surface_form	Ignico
+32940_14	part_of_entity	Robin Ignico
+32940_16	is_in_sentence	sentence_32940
+32940_16	ROOT	32940_16
+32940_16	has_surface_form	born
+32940_15	is_in_sentence	sentence_32940
+32940_15	auxpass	32940_16
+32940_15	has_surface_form	was
+32940_17	is_in_sentence	sentence_32940
+32940_17	prep	32940_16
+32940_17	has_surface_form	on
+32940_18	is_in_sentence	sentence_32940
+32940_18	pobj	32940_17
+32940_18	has_surface_form	August
+32940_19	is_in_sentence	sentence_32940
+32940_19	nummod	32940_18
+32940_19	has_surface_form	20
+32940_20	is_in_sentence	sentence_32940
+32940_20	punct	32940_18
+32940_20	has_surface_form	,
+32940_21	is_in_sentence	sentence_32940
+32940_21	nummod	32940_18
+32940_21	has_surface_form	1970
+32940_22	is_in_sentence	sentence_32940
+32940_22	punct	32940_18
+32940_22	has_surface_form	,
+32940_23	is_in_sentence	sentence_32940
+32940_23	prep	32940_18
+32940_23	has_surface_form	in
+32940_24	is_in_sentence	sentence_32940
+32940_24	pobj	32940_23
+32940_24	has_surface_form	Clearwater
+32940_25	is_in_sentence	sentence_32940
+32940_25	punct	32940_24
+32940_25	has_surface_form	,
+32940_26	is_in_sentence	sentence_32940
+32940_26	appos	32940_24
+32940_26	has_surface_form	Florida
+32940_27	is_in_sentence	sentence_32940
+32940_27	punct	32940_16
+32940_27	has_surface_form	.
+32940_28	is_in_sentence	sentence_32940
+32940_28	dep	32940_28
+32940_28	has_surface_form	
+Robin Ignico	surface_form	Robin Ignico
+Robin Ignico	birth-place	Clearwater, Florida
+Clearwater, Florida	surface_form	Clearwater, Florida

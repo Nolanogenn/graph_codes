@@ -1,0 +1,48 @@
+32341_0	is_in_sentence	sentence_32341
+32341_0	det	32341_2
+32341_0	has_surface_form	The
+32341_0	part_of_entity	The Tolkien Trust
+32341_2	is_in_sentence	sentence_32341
+32341_2	nsubj	32341_3
+32341_2	has_surface_form	Trust
+32341_2	part_of_entity	The Tolkien Trust
+32341_1	is_in_sentence	sentence_32341
+32341_1	compound	32341_2
+32341_1	has_surface_form	Tolkien
+32341_1	part_of_entity	The Tolkien Trust
+32341_3	is_in_sentence	sentence_32341
+32341_3	ROOT	32341_3
+32341_3	has_surface_form	is
+32341_4	is_in_sentence	sentence_32341
+32341_4	det	32341_6
+32341_4	has_surface_form	a
+32341_6	is_in_sentence	sentence_32341
+32341_6	attr	32341_3
+32341_6	is_entity	charity
+32341_5	is_in_sentence	sentence_32341
+32341_5	amod	32341_6
+32341_5	has_surface_form	British
+charity	surface_form	charity
+32341_7	is_in_sentence	sentence_32341
+32341_7	acl	32341_6
+32341_7	has_surface_form	founded
+32341_8	is_in_sentence	sentence_32341
+32341_8	prep	32341_7
+32341_8	has_surface_form	in
+32341_9	is_in_sentence	sentence_32341
+32341_9	pobj	32341_8
+32341_9	has_surface_form	1977
+32341_10	is_in_sentence	sentence_32341
+32341_10	nsubj	32341_11
+32341_10	has_surface_form	that
+32341_11	is_in_sentence	sentence_32341
+32341_11	relcl	32341_6
+32341_11	has_surface_form	manages
+32341_12	is_in_sentence	sentence_32341
+32341_12	compound	32341_13
+32341_12	has_surface_form	J.
+32341_13	is_in_sentence	sentence_32341
+32341_13	dep	32341_11
+32341_13	has_surface_form	
+The Tolkien Trust	surface_form	The Tolkien Trust
+The Tolkien Trust	has-type	charity

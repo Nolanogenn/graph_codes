@@ -1,0 +1,79 @@
+20182_0	is_in_sentence	sentence_20182
+20182_0	det	20182_1
+20182_0	has_surface_form	A
+20182_0	part_of_entity	A Devil of a Woman
+20182_1	is_in_sentence	sentence_20182
+20182_1	nsubj	20182_11
+20182_1	has_surface_form	Devil
+20182_1	part_of_entity	A Devil of a Woman
+20182_11	is_in_sentence	sentence_20182
+20182_11	ROOT	20182_11
+20182_11	has_surface_form	is
+20182_2	is_in_sentence	sentence_20182
+20182_2	prep	20182_1
+20182_2	has_surface_form	of
+20182_2	part_of_entity	A Devil of a Woman
+20182_3	is_in_sentence	sentence_20182
+20182_3	det	20182_4
+20182_3	has_surface_form	a
+20182_3	part_of_entity	A Devil of a Woman
+20182_4	is_in_sentence	sentence_20182
+20182_4	pobj	20182_2
+20182_4	has_surface_form	Woman
+20182_4	part_of_entity	A Devil of a Woman
+20182_5	is_in_sentence	sentence_20182
+20182_5	punct	20182_6
+20182_5	has_surface_form	(
+20182_6	is_in_sentence	sentence_20182
+20182_6	parataxis	20182_1
+20182_6	has_surface_form	German
+20182_7	is_in_sentence	sentence_20182
+20182_7	punct	20182_6
+20182_7	has_surface_form	:
+20182_8	is_in_sentence	sentence_20182
+20182_8	compound	20182_9
+20182_8	has_surface_form	Der
+20182_9	is_in_sentence	sentence_20182
+20182_9	appos	20182_6
+20182_9	has_surface_form	Weibsteufel
+20182_10	is_in_sentence	sentence_20182
+20182_10	punct	20182_6
+20182_10	has_surface_form	)
+20182_12	is_in_sentence	sentence_20182
+20182_12	det	20182_16
+20182_12	has_surface_form	a
+20182_16	is_in_sentence	sentence_20182
+20182_16	attr	20182_11
+20182_16	has_surface_form	film
+20182_13	is_in_sentence	sentence_20182
+20182_13	nummod	20182_16
+20182_13	has_surface_form	1951
+20182_14	is_in_sentence	sentence_20182
+20182_14	amod	20182_16
+20182_14	has_surface_form	Austrian
+20182_15	is_in_sentence	sentence_20182
+20182_15	compound	20182_16
+20182_15	has_surface_form	drama
+20182_17	is_in_sentence	sentence_20182
+20182_17	acl	20182_16
+20182_17	has_surface_form	directed
+20182_18	is_in_sentence	sentence_20182
+20182_18	agent	20182_17
+20182_18	has_surface_form	by
+20182_19	is_in_sentence	sentence_20182
+20182_19	compound	20182_20
+20182_19	has_surface_form	Wolfgang
+20182_19	part_of_entity	Wolfgang Liebeneiner
+20182_20	is_in_sentence	sentence_20182
+20182_20	pobj	20182_18
+20182_20	has_surface_form	Liebeneiner
+20182_20	part_of_entity	Wolfgang Liebeneiner
+20182_21	is_in_sentence	sentence_20182
+20182_21	punct	20182_11
+20182_21	has_surface_form	.
+20182_22	is_in_sentence	sentence_20182
+20182_22	dep	20182_11
+20182_22	has_surface_form	
+A Devil of a Woman	surface_form	A Devil of a Woman
+A Devil of a Woman	movie-has-director	Wolfgang Liebeneiner
+Wolfgang Liebeneiner	surface_form	Wolfgang Liebeneiner

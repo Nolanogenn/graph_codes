@@ -1,0 +1,62 @@
+26910_0	is_in_sentence	sentence_26910
+26910_0	compound	26910_1
+26910_0	has_surface_form	Rick
+26910_0	part_of_entity	Rick Venturi
+26910_1	is_in_sentence	sentence_26910
+26910_1	nsubj	26910_9
+26910_1	has_surface_form	Venturi
+26910_1	part_of_entity	Rick Venturi
+26910_9	is_in_sentence	sentence_26910
+26910_9	ROOT	26910_9
+26910_9	has_surface_form	is
+26910_2	is_in_sentence	sentence_26910
+26910_2	punct	26910_1
+26910_2	has_surface_form	(
+26910_3	is_in_sentence	sentence_26910
+26910_3	acl	26910_1
+26910_3	has_surface_form	born
+26910_4	is_in_sentence	sentence_26910
+26910_4	npadvmod	26910_3
+26910_4	has_surface_form	February
+26910_5	is_in_sentence	sentence_26910
+26910_5	nummod	26910_4
+26910_5	has_surface_form	23
+26910_6	is_in_sentence	sentence_26910
+26910_6	punct	26910_4
+26910_6	has_surface_form	,
+26910_7	is_in_sentence	sentence_26910
+26910_7	nummod	26910_4
+26910_7	has_surface_form	1946
+26910_8	is_in_sentence	sentence_26910
+26910_8	punct	26910_1
+26910_8	has_surface_form	)
+26910_10	is_in_sentence	sentence_26910
+26910_10	det	26910_14
+26910_10	has_surface_form	a
+26910_14	is_in_sentence	sentence_26910
+26910_14	attr	26910_9
+26910_14	has_surface_form	player
+26910_11	is_in_sentence	sentence_26910
+26910_11	amod	26910_14
+26910_11	has_surface_form	former
+26910_12	is_in_sentence	sentence_26910
+26910_12	amod	26910_14
+26910_12	has_surface_form	American
+26910_13	is_in_sentence	sentence_26910
+26910_13	compound	26910_14
+26910_13	has_surface_form	football
+26910_15	is_in_sentence	sentence_26910
+26910_15	cc	26910_14
+26910_15	has_surface_form	and
+26910_16	is_in_sentence	sentence_26910
+26910_16	conj	26910_14
+26910_16	is_entity	coach
+coach	surface_form	coach
+26910_17	is_in_sentence	sentence_26910
+26910_17	punct	26910_9
+26910_17	has_surface_form	.
+26910_18	is_in_sentence	sentence_26910
+26910_18	dep	26910_18
+26910_18	has_surface_form	
+Rick Venturi	surface_form	Rick Venturi
+Rick Venturi	has-type	coach

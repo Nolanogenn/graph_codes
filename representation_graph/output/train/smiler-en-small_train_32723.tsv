@@ -1,0 +1,64 @@
+32722_0	is_in_sentence	sentence_32722
+32722_0	compound	32722_1
+32722_0	has_surface_form	Amanda
+32722_0	part_of_entity	Amanda Fallon
+32722_1	is_in_sentence	sentence_32722
+32722_1	nsubj	32722_2
+32722_1	has_surface_form	Fallon
+32722_1	part_of_entity	Amanda Fallon
+32722_2	is_in_sentence	sentence_32722
+32722_2	ROOT	32722_2
+32722_2	has_surface_form	is
+32722_3	is_in_sentence	sentence_32722
+32722_3	det	32722_12
+32722_3	has_surface_form	a
+32722_12	is_in_sentence	sentence_32722
+32722_12	attr	32722_2
+32722_12	has_surface_form	film
+32722_4	is_in_sentence	sentence_32722
+32722_4	nummod	32722_12
+32722_4	has_surface_form	1973
+32722_5	is_in_sentence	sentence_32722
+32722_5	nmod	32722_12
+32722_5	has_surface_form	American
+32722_6	is_in_sentence	sentence_32722
+32722_6	amod	32722_12
+32722_6	has_surface_form	made
+32722_7	is_in_sentence	sentence_32722
+32722_7	punct	32722_6
+32722_7	has_surface_form	-
+32722_8	is_in_sentence	sentence_32722
+32722_8	prep	32722_6
+32722_8	has_surface_form	for
+32722_9	is_in_sentence	sentence_32722
+32722_9	punct	32722_8
+32722_9	has_surface_form	-
+32722_10	is_in_sentence	sentence_32722
+32722_10	pobj	32722_8
+32722_10	has_surface_form	television
+32722_11	is_in_sentence	sentence_32722
+32722_11	compound	32722_12
+32722_11	has_surface_form	drama
+32722_13	is_in_sentence	sentence_32722
+32722_13	acl	32722_12
+32722_13	has_surface_form	directed
+32722_14	is_in_sentence	sentence_32722
+32722_14	agent	32722_13
+32722_14	has_surface_form	by
+32722_15	is_in_sentence	sentence_32722
+32722_15	compound	32722_16
+32722_15	has_surface_form	Jack
+32722_15	part_of_entity	Jack Laird
+32722_16	is_in_sentence	sentence_32722
+32722_16	pobj	32722_14
+32722_16	has_surface_form	Laird
+32722_16	part_of_entity	Jack Laird
+32722_17	is_in_sentence	sentence_32722
+32722_17	punct	32722_2
+32722_17	has_surface_form	.
+32722_18	is_in_sentence	sentence_32722
+32722_18	dep	32722_2
+32722_18	has_surface_form	
+Amanda Fallon	surface_form	Amanda Fallon
+Amanda Fallon	movie-has-director	Jack Laird
+Jack Laird	surface_form	Jack Laird

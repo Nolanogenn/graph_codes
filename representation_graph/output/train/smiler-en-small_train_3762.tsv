@@ -1,0 +1,76 @@
+3761_0	is_in_sentence	sentence_3761
+3761_0	det	3761_2
+3761_0	has_surface_form	The
+3761_2	is_in_sentence	sentence_3761
+3761_2	nsubj	3761_9
+3761_2	has_surface_form	School
+3761_2	part_of_entity	Fuqua School of Business
+3761_1	is_in_sentence	sentence_3761
+3761_1	compound	3761_2
+3761_1	has_surface_form	Fuqua
+3761_1	part_of_entity	Fuqua School of Business
+3761_9	is_in_sentence	sentence_3761
+3761_9	ROOT	3761_9
+3761_9	has_surface_form	is
+3761_3	is_in_sentence	sentence_3761
+3761_3	prep	3761_2
+3761_3	has_surface_form	of
+3761_3	part_of_entity	Fuqua School of Business
+3761_4	is_in_sentence	sentence_3761
+3761_4	pobj	3761_3
+3761_4	has_surface_form	Business
+3761_4	part_of_entity	Fuqua School of Business
+3761_5	is_in_sentence	sentence_3761
+3761_5	punct	3761_6
+3761_5	has_surface_form	(
+3761_6	is_in_sentence	sentence_3761
+3761_6	parataxis	3761_2
+3761_6	has_surface_form	pronounced
+3761_7	is_in_sentence	sentence_3761
+3761_7	punct	3761_6
+3761_7	has_surface_form	/ˈfjuːkwə/
+3761_8	is_in_sentence	sentence_3761
+3761_8	punct	3761_6
+3761_8	has_surface_form	)
+3761_10	is_in_sentence	sentence_3761
+3761_10	det	3761_12
+3761_10	has_surface_form	the
+3761_12	is_in_sentence	sentence_3761
+3761_12	attr	3761_9
+3761_12	has_surface_form	school
+3761_11	is_in_sentence	sentence_3761
+3761_11	compound	3761_12
+3761_11	has_surface_form	business
+3761_13	is_in_sentence	sentence_3761
+3761_13	prep	3761_12
+3761_13	has_surface_form	of
+3761_14	is_in_sentence	sentence_3761
+3761_14	compound	3761_15
+3761_14	has_surface_form	Duke
+3761_15	is_in_sentence	sentence_3761
+3761_15	pobj	3761_13
+3761_15	has_surface_form	University
+3761_16	is_in_sentence	sentence_3761
+3761_16	prep	3761_15
+3761_16	has_surface_form	in
+3761_17	is_in_sentence	sentence_3761
+3761_17	pobj	3761_16
+3761_17	has_surface_form	Durham
+3761_18	is_in_sentence	sentence_3761
+3761_18	punct	3761_17
+3761_18	has_surface_form	,
+3761_19	is_in_sentence	sentence_3761
+3761_19	compound	3761_20
+3761_19	has_surface_form	North
+3761_20	is_in_sentence	sentence_3761
+3761_20	appos	3761_17
+3761_20	has_surface_form	Carolina
+3761_21	is_in_sentence	sentence_3761
+3761_21	punct	3761_9
+3761_21	has_surface_form	.
+3761_22	is_in_sentence	sentence_3761
+3761_22	dep	3761_9
+3761_22	has_surface_form	
+Fuqua School of Business	surface_form	Fuqua School of Business
+Fuqua School of Business	is-where	Durham, North Carolina
+Durham, North Carolina	surface_form	Durham, North Carolina

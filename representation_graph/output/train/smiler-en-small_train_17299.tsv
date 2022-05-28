@@ -1,0 +1,54 @@
+17298_0	is_in_sentence	sentence_17298
+17298_0	compound	17298_1
+17298_0	has_surface_form	Goopi
+17298_0	part_of_entity	Goopi Gawaiya Bagha Bajaiya
+17298_1	is_in_sentence	sentence_17298
+17298_1	compound	17298_3
+17298_1	has_surface_form	Gawaiya
+17298_1	part_of_entity	Goopi Gawaiya Bagha Bajaiya
+17298_3	is_in_sentence	sentence_17298
+17298_3	nsubj	17298_4
+17298_3	has_surface_form	Bajaiya
+17298_3	part_of_entity	Goopi Gawaiya Bagha Bajaiya
+17298_2	is_in_sentence	sentence_17298
+17298_2	compound	17298_3
+17298_2	has_surface_form	Bagha
+17298_2	part_of_entity	Goopi Gawaiya Bagha Bajaiya
+17298_4	is_in_sentence	sentence_17298
+17298_4	ROOT	17298_4
+17298_4	has_surface_form	is
+17298_5	is_in_sentence	sentence_17298
+17298_5	det	17298_8
+17298_5	has_surface_form	an
+17298_8	is_in_sentence	sentence_17298
+17298_8	attr	17298_4
+17298_8	has_surface_form	film
+17298_6	is_in_sentence	sentence_17298
+17298_6	amod	17298_8
+17298_6	has_surface_form	Indian
+17298_7	is_in_sentence	sentence_17298
+17298_7	amod	17298_8
+17298_7	has_surface_form	animated
+17298_9	is_in_sentence	sentence_17298
+17298_9	acl	17298_8
+17298_9	has_surface_form	directed
+17298_10	is_in_sentence	sentence_17298
+17298_10	agent	17298_9
+17298_10	has_surface_form	by
+17298_11	is_in_sentence	sentence_17298
+17298_11	compound	17298_12
+17298_11	has_surface_form	Shilpa
+17298_11	part_of_entity	Shilpa Ranade
+17298_12	is_in_sentence	sentence_17298
+17298_12	pobj	17298_10
+17298_12	has_surface_form	Ranade
+17298_12	part_of_entity	Shilpa Ranade
+17298_13	is_in_sentence	sentence_17298
+17298_13	punct	17298_4
+17298_13	has_surface_form	.
+17298_14	is_in_sentence	sentence_17298
+17298_14	dep	17298_14
+17298_14	has_surface_form	
+Goopi Gawaiya Bagha Bajaiya	surface_form	Goopi Gawaiya Bagha Bajaiya
+Goopi Gawaiya Bagha Bajaiya	movie-has-director	Shilpa Ranade
+Shilpa Ranade	surface_form	Shilpa Ranade

@@ -1,0 +1,41 @@
+31588_0	is_in_sentence	sentence_31588
+31588_0	compound	31588_2
+31588_0	has_surface_form	Viscountess
+31588_2	is_in_sentence	sentence_31588
+31588_2	nsubj	31588_3
+31588_2	has_surface_form	Martini
+31588_2	part_of_entity	Patrizia Martini
+31588_1	is_in_sentence	sentence_31588
+31588_1	compound	31588_2
+31588_1	has_surface_form	Patrizia
+31588_1	part_of_entity	Patrizia Martini
+31588_3	is_in_sentence	sentence_31588
+31588_3	ROOT	31588_3
+31588_3	has_surface_form	was
+31588_4	is_in_sentence	sentence_31588
+31588_4	det	31588_5
+31588_4	has_surface_form	the
+31588_5	is_in_sentence	sentence_31588
+31588_5	attr	31588_3
+31588_5	has_surface_form	mother
+31588_6	is_in_sentence	sentence_31588
+31588_6	prep	31588_5
+31588_6	has_surface_form	of
+31588_7	is_in_sentence	sentence_31588
+31588_7	pobj	31588_6
+31588_7	is_entity	Alfredo
+Alfredo	surface_form	Alfredo
+31588_8	is_in_sentence	sentence_31588
+31588_8	cc	31588_7
+31588_8	has_surface_form	and
+31588_9	is_in_sentence	sentence_31588
+31588_9	conj	31588_7
+31588_9	has_surface_form	Bianca
+31588_10	is_in_sentence	sentence_31588
+31588_10	punct	31588_3
+31588_10	has_surface_form	.
+31588_11	is_in_sentence	sentence_31588
+31588_11	dep	31588_11
+31588_11	has_surface_form	
+Patrizia Martini	surface_form	Patrizia Martini
+Patrizia Martini	has-child	Alfredo

@@ -1,0 +1,65 @@
+831_0	is_in_sentence	sentence_831
+831_0	compound	831_1
+831_0	has_surface_form	Srebrne
+831_0	part_of_entity	Srebrne Lake
+831_1	is_in_sentence	sentence_831
+831_1	nsubj	831_2
+831_1	has_surface_form	Lake
+831_1	part_of_entity	Srebrne Lake
+831_2	is_in_sentence	sentence_831
+831_2	ROOT	831_2
+831_2	has_surface_form	is
+831_3	is_in_sentence	sentence_831
+831_3	det	831_4
+831_3	has_surface_form	a
+831_4	is_in_sentence	sentence_831
+831_4	attr	831_2
+831_4	is_entity	lake
+lake	surface_form	lake
+831_5	is_in_sentence	sentence_831
+831_5	prep	831_2
+831_5	has_surface_form	in
+831_6	is_in_sentence	sentence_831
+831_6	det	831_7
+831_6	has_surface_form	the
+831_7	is_in_sentence	sentence_831
+831_7	pobj	831_5
+831_7	has_surface_form	location
+831_8	is_in_sentence	sentence_831
+831_8	prep	831_7
+831_8	has_surface_form	of
+831_9	is_in_sentence	sentence_831
+831_9	det	831_12
+831_9	has_surface_form	a
+831_12	is_in_sentence	sentence_831
+831_12	pobj	831_8
+831_12	has_surface_form	pit
+831_10	is_in_sentence	sentence_831
+831_10	amod	831_12
+831_10	has_surface_form	former
+831_11	is_in_sentence	sentence_831
+831_11	amod	831_12
+831_11	has_surface_form	flooded
+831_13	is_in_sentence	sentence_831
+831_13	punct	831_2
+831_13	has_surface_form	,
+831_14	is_in_sentence	sentence_831
+831_14	advcl	831_2
+831_14	has_surface_form	used
+831_15	is_in_sentence	sentence_831
+831_15	prep	831_14
+831_15	has_surface_form	for
+831_16	is_in_sentence	sentence_831
+831_16	compound	831_17
+831_16	has_surface_form	recreation
+831_17	is_in_sentence	sentence_831
+831_17	pobj	831_15
+831_17	has_surface_form	purposes
+831_18	is_in_sentence	sentence_831
+831_18	punct	831_2
+831_18	has_surface_form	.
+831_19	is_in_sentence	sentence_831
+831_19	dep	831_2
+831_19	has_surface_form	
+Srebrne Lake	surface_form	Srebrne Lake
+Srebrne Lake	has-type	lake

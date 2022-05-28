@@ -1,0 +1,97 @@
+11361_0	is_in_sentence	sentence_11361
+11361_0	amod	11361_1
+11361_0	has_surface_form	Red
+11361_0	part_of_entity	Red espresso
+11361_1	is_in_sentence	sentence_11361
+11361_1	nsubj	11361_8
+11361_1	has_surface_form	espresso
+11361_1	part_of_entity	Red espresso
+11361_8	is_in_sentence	sentence_11361
+11361_8	ROOT	11361_8
+11361_8	has_surface_form	is
+11361_2	is_in_sentence	sentence_11361
+11361_2	punct	11361_1
+11361_2	has_surface_form	(
+11361_3	is_in_sentence	sentence_11361
+11361_3	acl	11361_1
+11361_3	has_surface_form	stylised
+11361_4	is_in_sentence	sentence_11361
+11361_4	prep	11361_3
+11361_4	has_surface_form	as
+11361_5	is_in_sentence	sentence_11361
+11361_5	amod	11361_6
+11361_5	has_surface_form	red
+11361_6	is_in_sentence	sentence_11361
+11361_6	pobj	11361_4
+11361_6	has_surface_form	espresso
+11361_7	is_in_sentence	sentence_11361
+11361_7	punct	11361_1
+11361_7	has_surface_form	)
+11361_9	is_in_sentence	sentence_11361
+11361_9	det	11361_11
+11361_9	has_surface_form	the
+11361_11	is_in_sentence	sentence_11361
+11361_11	attr	11361_8
+11361_11	has_surface_form	name
+11361_11	part_of_entity	brand name
+11361_10	is_in_sentence	sentence_11361
+11361_10	compound	11361_11
+11361_10	has_surface_form	brand
+11361_10	part_of_entity	brand name
+11361_12	is_in_sentence	sentence_11361
+11361_12	prep	11361_11
+11361_12	has_surface_form	of
+11361_13	is_in_sentence	sentence_11361
+11361_13	det	11361_18
+11361_13	has_surface_form	The
+11361_18	is_in_sentence	sentence_11361
+11361_18	pobj	11361_12
+11361_18	has_surface_form	Ltd
+11361_14	is_in_sentence	sentence_11361
+11361_14	compound	11361_15
+11361_14	has_surface_form	Red
+11361_15	is_in_sentence	sentence_11361
+11361_15	compound	11361_18
+11361_15	has_surface_form	Espresso
+11361_16	is_in_sentence	sentence_11361
+11361_16	compound	11361_18
+11361_16	has_surface_form	Company
+11361_17	is_in_sentence	sentence_11361
+11361_17	compound	11361_18
+11361_17	has_surface_form	Pty
+11361_19	is_in_sentence	sentence_11361
+11361_19	punct	11361_18
+11361_19	has_surface_form	,
+11361_20	is_in_sentence	sentence_11361
+11361_20	det	11361_23
+11361_20	has_surface_form	a
+11361_23	is_in_sentence	sentence_11361
+11361_23	appos	11361_18
+11361_23	has_surface_form	manufacturer
+11361_21	is_in_sentence	sentence_11361
+11361_21	amod	11361_22
+11361_21	has_surface_form	South
+11361_22	is_in_sentence	sentence_11361
+11361_22	amod	11361_23
+11361_22	has_surface_form	African
+11361_24	is_in_sentence	sentence_11361
+11361_24	prep	11361_23
+11361_24	has_surface_form	of
+11361_25	is_in_sentence	sentence_11361
+11361_25	compound	11361_27
+11361_25	has_surface_form	Rooibos
+11361_27	is_in_sentence	sentence_11361
+11361_27	pobj	11361_24
+11361_27	has_surface_form	products
+11361_26	is_in_sentence	sentence_11361
+11361_26	compound	11361_27
+11361_26	has_surface_form	tea
+11361_28	is_in_sentence	sentence_11361
+11361_28	punct	11361_8
+11361_28	has_surface_form	.
+11361_29	is_in_sentence	sentence_11361
+11361_29	dep	11361_29
+11361_29	has_surface_form	
+Red espresso	surface_form	Red espresso
+Red espresso	has-type	brand name
+brand name	surface_form	brand name

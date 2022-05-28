@@ -1,0 +1,58 @@
+7913_0	is_in_sentence	sentence_7913
+7913_0	compound	7913_1
+7913_0	has_surface_form	NIILM
+7913_0	part_of_entity	NIILM University
+7913_1	is_in_sentence	sentence_7913
+7913_1	nsubj	7913_2
+7913_1	has_surface_form	University
+7913_1	part_of_entity	NIILM University
+7913_2	is_in_sentence	sentence_7913
+7913_2	ROOT	7913_2
+7913_2	has_surface_form	is
+7913_3	is_in_sentence	sentence_7913
+7913_3	det	7913_5
+7913_3	has_surface_form	a
+7913_5	is_in_sentence	sentence_7913
+7913_5	attr	7913_2
+7913_5	has_surface_form	university
+7913_5	part_of_entity	private university
+7913_4	is_in_sentence	sentence_7913
+7913_4	amod	7913_5
+7913_4	has_surface_form	private
+7913_4	part_of_entity	private university
+7913_6	is_in_sentence	sentence_7913
+7913_6	prep	7913_5
+7913_6	has_surface_form	in
+7913_7	is_in_sentence	sentence_7913
+7913_7	pobj	7913_6
+7913_7	has_surface_form	Kaithal
+7913_8	is_in_sentence	sentence_7913
+7913_8	prep	7913_5
+7913_8	has_surface_form	in
+7913_9	is_in_sentence	sentence_7913
+7913_9	det	7913_10
+7913_9	has_surface_form	the
+7913_10	is_in_sentence	sentence_7913
+7913_10	pobj	7913_8
+7913_10	has_surface_form	state
+7913_11	is_in_sentence	sentence_7913
+7913_11	prep	7913_10
+7913_11	has_surface_form	of
+7913_12	is_in_sentence	sentence_7913
+7913_12	pobj	7913_11
+7913_12	has_surface_form	Haryana
+7913_13	is_in_sentence	sentence_7913
+7913_13	punct	7913_12
+7913_13	has_surface_form	,
+7913_14	is_in_sentence	sentence_7913
+7913_14	appos	7913_12
+7913_14	has_surface_form	India
+7913_15	is_in_sentence	sentence_7913
+7913_15	punct	7913_2
+7913_15	has_surface_form	.
+7913_16	is_in_sentence	sentence_7913
+7913_16	dep	7913_16
+7913_16	has_surface_form	
+NIILM University	surface_form	NIILM University
+NIILM University	has-type	private university
+private university	surface_form	private university

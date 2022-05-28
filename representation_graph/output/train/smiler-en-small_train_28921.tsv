@@ -1,0 +1,107 @@
+28920_0	is_in_sentence	sentence_28920
+28920_0	nsubj	28920_1
+28920_0	has_surface_form	He
+28920_1	is_in_sentence	sentence_28920
+28920_1	ROOT	28920_1
+28920_1	has_surface_form	married
+28920_2	is_in_sentence	sentence_28920
+28920_2	compound	28920_5
+28920_2	has_surface_form	Marie
+28920_2	part_of_entity	Marie Victoire de Noailles
+28920_5	is_in_sentence	sentence_28920
+28920_5	dobj	28920_1
+28920_5	has_surface_form	Noailles
+28920_5	part_of_entity	Marie Victoire de Noailles
+28920_3	is_in_sentence	sentence_28920
+28920_3	compound	28920_5
+28920_3	has_surface_form	Victoire
+28920_3	part_of_entity	Marie Victoire de Noailles
+28920_4	is_in_sentence	sentence_28920
+28920_4	nmod	28920_5
+28920_4	has_surface_form	de
+28920_4	part_of_entity	Marie Victoire de Noailles
+28920_6	is_in_sentence	sentence_28920
+28920_6	punct	28920_5
+28920_6	has_surface_form	,
+28920_7	is_in_sentence	sentence_28920
+28920_7	appos	28920_5
+28920_7	has_surface_form	one
+28920_8	is_in_sentence	sentence_28920
+28920_8	prep	28920_7
+28920_8	has_surface_form	of
+28920_9	is_in_sentence	sentence_28920
+28920_9	det	28920_11
+28920_9	has_surface_form	the
+28920_11	is_in_sentence	sentence_28920
+28920_11	pobj	28920_8
+28920_11	has_surface_form	children
+28920_10	is_in_sentence	sentence_28920
+28920_10	nummod	28920_11
+28920_10	has_surface_form	twenty
+28920_12	is_in_sentence	sentence_28920
+28920_12	prep	28920_11
+28920_12	has_surface_form	of
+28920_13	is_in_sentence	sentence_28920
+28920_13	det	28920_14
+28920_13	has_surface_form	the
+28920_14	is_in_sentence	sentence_28920
+28920_14	pobj	28920_12
+28920_14	has_surface_form	Duke
+28920_15	is_in_sentence	sentence_28920
+28920_15	prep	28920_14
+28920_15	has_surface_form	of
+28920_16	is_in_sentence	sentence_28920
+28920_16	pobj	28920_15
+28920_16	has_surface_form	Noailles
+28920_17	is_in_sentence	sentence_28920
+28920_17	cc	28920_16
+28920_17	has_surface_form	and
+28920_18	is_in_sentence	sentence_28920
+28920_18	compound	28920_21
+28920_18	has_surface_form	Marie
+28920_18	part_of_entity	Marie Françoise de Bournonville
+28920_21	is_in_sentence	sentence_28920
+28920_21	conj	28920_16
+28920_21	has_surface_form	Bournonville
+28920_21	part_of_entity	Marie Françoise de Bournonville
+28920_19	is_in_sentence	sentence_28920
+28920_19	nmod	28920_21
+28920_19	has_surface_form	Françoise
+28920_19	part_of_entity	Marie Françoise de Bournonville
+28920_20	is_in_sentence	sentence_28920
+28920_20	nmod	28920_21
+28920_20	has_surface_form	de
+28920_20	part_of_entity	Marie Françoise de Bournonville
+28920_22	is_in_sentence	sentence_28920
+28920_22	punct	28920_1
+28920_22	has_surface_form	.
+28920_23	is_in_sentence	sentence_28920
+28920_23	det	28920_24
+28920_23	has_surface_form	The
+28920_24	is_in_sentence	sentence_28920
+28920_24	nsubj	28920_25
+28920_24	has_surface_form	couple
+28920_25	is_in_sentence	sentence_28920
+28920_25	ROOT	28920_25
+28920_25	has_surface_form	married
+28920_26	is_in_sentence	sentence_28920
+28920_26	prep	28920_25
+28920_26	has_surface_form	on
+28920_27	is_in_sentence	sentence_28920
+28920_27	nummod	28920_28
+28920_27	has_surface_form	25
+28920_28	is_in_sentence	sentence_28920
+28920_28	pobj	28920_26
+28920_28	has_surface_form	January
+28920_29	is_in_sentence	sentence_28920
+28920_29	nummod	28920_28
+28920_29	has_surface_form	1707
+28920_30	is_in_sentence	sentence_28920
+28920_30	punct	28920_25
+28920_30	has_surface_form	.
+28920_31	is_in_sentence	sentence_28920
+28920_31	dep	28920_31
+28920_31	has_surface_form	
+Marie Victoire de Noailles	surface_form	Marie Victoire de Noailles
+Marie Victoire de Noailles	has-parent	Marie Françoise de Bournonville
+Marie Françoise de Bournonville	surface_form	Marie Françoise de Bournonville

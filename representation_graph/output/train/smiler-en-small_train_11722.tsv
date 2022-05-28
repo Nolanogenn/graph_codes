@@ -1,0 +1,90 @@
+11721_0	is_in_sentence	sentence_11721
+11721_0	det	11721_1
+11721_0	has_surface_form	A
+11721_0	part_of_entity	A Moment of Love
+11721_1	is_in_sentence	sentence_11721
+11721_1	nsubj	11721_4
+11721_1	has_surface_form	Moment
+11721_1	part_of_entity	A Moment of Love
+11721_4	is_in_sentence	sentence_11721
+11721_4	ROOT	11721_4
+11721_4	has_surface_form	is
+11721_2	is_in_sentence	sentence_11721
+11721_2	prep	11721_1
+11721_2	has_surface_form	of
+11721_2	part_of_entity	A Moment of Love
+11721_3	is_in_sentence	sentence_11721
+11721_3	pobj	11721_2
+11721_3	has_surface_form	Love
+11721_3	part_of_entity	A Moment of Love
+11721_5	is_in_sentence	sentence_11721
+11721_5	det	11721_13
+11721_5	has_surface_form	a
+11721_13	is_in_sentence	sentence_11721
+11721_13	attr	11721_4
+11721_13	has_surface_form	film
+11721_6	is_in_sentence	sentence_11721
+11721_6	nummod	11721_13
+11721_6	has_surface_form	2013
+11721_7	is_in_sentence	sentence_11721
+11721_7	amod	11721_9
+11721_7	has_surface_form	Chinese
+11721_9	is_in_sentence	sentence_11721
+11721_9	amod	11721_13
+11721_9	has_surface_form	Taiwanese
+11721_8	is_in_sentence	sentence_11721
+11721_8	punct	11721_9
+11721_8	has_surface_form	-
+11721_10	is_in_sentence	sentence_11721
+11721_10	compound	11721_12
+11721_10	has_surface_form	drama
+11721_12	is_in_sentence	sentence_11721
+11721_12	compound	11721_13
+11721_12	has_surface_form	romance
+11721_11	is_in_sentence	sentence_11721
+11721_11	punct	11721_12
+11721_11	has_surface_form	-
+11721_14	is_in_sentence	sentence_11721
+11721_14	acl	11721_13
+11721_14	has_surface_form	directed
+11721_15	is_in_sentence	sentence_11721
+11721_15	agent	11721_14
+11721_15	has_surface_form	by
+11721_16	is_in_sentence	sentence_11721
+11721_16	compound	11721_17
+11721_16	has_surface_form	Gavin
+11721_16	part_of_entity	Gavin Lin
+11721_17	is_in_sentence	sentence_11721
+11721_17	pobj	11721_15
+11721_17	has_surface_form	Lin
+11721_17	part_of_entity	Gavin Lin
+11721_18	is_in_sentence	sentence_11721
+11721_18	cc	11721_14
+11721_18	has_surface_form	and
+11721_19	is_in_sentence	sentence_11721
+11721_19	conj	11721_14
+11721_19	has_surface_form	starring
+11721_20	is_in_sentence	sentence_11721
+11721_20	compound	11721_21
+11721_20	has_surface_form	Liu
+11721_21	is_in_sentence	sentence_11721
+11721_21	dobj	11721_19
+11721_21	has_surface_form	Shishi
+11721_22	is_in_sentence	sentence_11721
+11721_22	cc	11721_21
+11721_22	has_surface_form	and
+11721_23	is_in_sentence	sentence_11721
+11721_23	compound	11721_24
+11721_23	has_surface_form	Vic
+11721_24	is_in_sentence	sentence_11721
+11721_24	conj	11721_21
+11721_24	has_surface_form	Chou
+11721_25	is_in_sentence	sentence_11721
+11721_25	punct	11721_4
+11721_25	has_surface_form	.
+11721_26	is_in_sentence	sentence_11721
+11721_26	dep	11721_4
+11721_26	has_surface_form	
+A Moment of Love	surface_form	A Moment of Love
+A Moment of Love	movie-has-director	Gavin Lin
+Gavin Lin	surface_form	Gavin Lin

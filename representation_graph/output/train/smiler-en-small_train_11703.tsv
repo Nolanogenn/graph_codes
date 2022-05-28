@@ -1,0 +1,73 @@
+11702_0	is_in_sentence	sentence_11702
+11702_0	compound	11702_1
+11702_0	has_surface_form	Sassafras
+11702_0	part_of_entity	Sassafras Mountain
+11702_1	is_in_sentence	sentence_11702
+11702_1	nsubj	11702_16
+11702_1	has_surface_form	Mountain
+11702_1	part_of_entity	Sassafras Mountain
+11702_16	is_in_sentence	sentence_11702
+11702_16	ROOT	11702_16
+11702_16	has_surface_form	is
+11702_2	is_in_sentence	sentence_11702
+11702_2	punct	11702_1
+11702_2	has_surface_form	,
+11702_3	is_in_sentence	sentence_11702
+11702_3	compound	11702_4
+11702_3	has_surface_form	South
+11702_3	part_of_entity	South Carolina
+11702_4	is_in_sentence	sentence_11702
+11702_4	poss	11702_7
+11702_4	has_surface_form	Carolina
+11702_4	part_of_entity	South Carolina
+11702_7	is_in_sentence	sentence_11702
+11702_7	appos	11702_1
+11702_7	has_surface_form	point
+11702_5	is_in_sentence	sentence_11702
+11702_5	case	11702_4
+11702_5	has_surface_form	's
+11702_6	is_in_sentence	sentence_11702
+11702_6	amod	11702_7
+11702_6	has_surface_form	highest
+11702_8	is_in_sentence	sentence_11702
+11702_8	prep	11702_7
+11702_8	has_surface_form	at
+11702_9	is_in_sentence	sentence_11702
+11702_9	nummod	11702_10
+11702_9	has_surface_form	3,560
+11702_10	is_in_sentence	sentence_11702
+11702_10	pobj	11702_8
+11702_10	has_surface_form	feet
+11702_11	is_in_sentence	sentence_11702
+11702_11	punct	11702_10
+11702_11	has_surface_form	(
+11702_12	is_in_sentence	sentence_11702
+11702_12	nummod	11702_13
+11702_12	has_surface_form	1,090
+11702_13	is_in_sentence	sentence_11702
+11702_13	appos	11702_10
+11702_13	has_surface_form	m
+11702_14	is_in_sentence	sentence_11702
+11702_14	punct	11702_10
+11702_14	has_surface_form	)
+11702_15	is_in_sentence	sentence_11702
+11702_15	punct	11702_1
+11702_15	has_surface_form	,
+11702_17	is_in_sentence	sentence_11702
+11702_17	prep	11702_16
+11702_17	has_surface_form	in
+11702_18	is_in_sentence	sentence_11702
+11702_18	det	11702_19
+11702_18	has_surface_form	this
+11702_19	is_in_sentence	sentence_11702
+11702_19	pobj	11702_17
+11702_19	has_surface_form	area
+11702_20	is_in_sentence	sentence_11702
+11702_20	punct	11702_16
+11702_20	has_surface_form	.
+11702_21	is_in_sentence	sentence_11702
+11702_21	dep	11702_21
+11702_21	has_surface_form	
+South Carolina	surface_form	South Carolina
+South Carolina	has-highest-mountain	Sassafras Mountain
+Sassafras Mountain	surface_form	Sassafras Mountain

@@ -1,0 +1,50 @@
+880_0	is_in_sentence	sentence_880
+880_0	compound	880_1
+880_0	has_surface_form	Sydney
+880_0	part_of_entity	Sydney Lyric
+880_1	is_in_sentence	sentence_880
+880_1	nsubj	880_2
+880_1	has_surface_form	Lyric
+880_1	part_of_entity	Sydney Lyric
+880_2	is_in_sentence	sentence_880
+880_2	ROOT	880_2
+880_2	has_surface_form	is
+880_3	is_in_sentence	sentence_880
+880_3	det	880_4
+880_3	has_surface_form	a
+880_4	is_in_sentence	sentence_880
+880_4	attr	880_2
+880_4	is_entity	theatre
+theatre	surface_form	theatre
+880_5	is_in_sentence	sentence_880
+880_5	prep	880_4
+880_5	has_surface_form	in
+880_6	is_in_sentence	sentence_880
+880_6	pobj	880_5
+880_6	has_surface_form	Sydney
+880_7	is_in_sentence	sentence_880
+880_7	punct	880_6
+880_7	has_surface_form	,
+880_8	is_in_sentence	sentence_880
+880_8	compound	880_10
+880_8	has_surface_form	New
+880_10	is_in_sentence	sentence_880
+880_10	conj	880_6
+880_10	has_surface_form	Wales
+880_9	is_in_sentence	sentence_880
+880_9	compound	880_10
+880_9	has_surface_form	South
+880_11	is_in_sentence	sentence_880
+880_11	punct	880_10
+880_11	has_surface_form	,
+880_12	is_in_sentence	sentence_880
+880_12	appos	880_10
+880_12	has_surface_form	Australia
+880_13	is_in_sentence	sentence_880
+880_13	punct	880_2
+880_13	has_surface_form	.
+880_14	is_in_sentence	sentence_880
+880_14	dep	880_2
+880_14	has_surface_form	
+Sydney Lyric	surface_form	Sydney Lyric
+Sydney Lyric	has-type	theatre

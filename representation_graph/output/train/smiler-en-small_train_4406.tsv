@@ -1,0 +1,41 @@
+4405_0	is_in_sentence	sentence_4405
+4405_0	compound	4405_1
+4405_0	has_surface_form	Cathy
+4405_0	part_of_entity	Cathy Basrak
+4405_1	is_in_sentence	sentence_4405
+4405_1	nsubj	4405_6
+4405_1	has_surface_form	Basrak
+4405_1	part_of_entity	Cathy Basrak
+4405_6	is_in_sentence	sentence_4405
+4405_6	ROOT	4405_6
+4405_6	has_surface_form	is
+4405_2	is_in_sentence	sentence_4405
+4405_2	punct	4405_1
+4405_2	has_surface_form	(
+4405_3	is_in_sentence	sentence_4405
+4405_3	acl	4405_1
+4405_3	has_surface_form	born
+4405_4	is_in_sentence	sentence_4405
+4405_4	npadvmod	4405_3
+4405_4	has_surface_form	1977
+4405_5	is_in_sentence	sentence_4405
+4405_5	punct	4405_1
+4405_5	has_surface_form	)
+4405_7	is_in_sentence	sentence_4405
+4405_7	det	4405_9
+4405_7	has_surface_form	an
+4405_9	is_in_sentence	sentence_4405
+4405_9	attr	4405_6
+4405_9	is_entity	violist
+4405_8	is_in_sentence	sentence_4405
+4405_8	amod	4405_9
+4405_8	has_surface_form	American
+violist	surface_form	violist
+4405_10	is_in_sentence	sentence_4405
+4405_10	punct	4405_6
+4405_10	has_surface_form	.
+4405_11	is_in_sentence	sentence_4405
+4405_11	dep	4405_11
+4405_11	has_surface_form	
+Cathy Basrak	surface_form	Cathy Basrak
+Cathy Basrak	has-occupation	violist

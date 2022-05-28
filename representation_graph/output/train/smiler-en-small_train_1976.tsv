@@ -1,0 +1,67 @@
+1975_0	is_in_sentence	sentence_1975
+1975_0	compound	1975_1
+1975_0	has_surface_form	La
+1975_0	part_of_entity	La Vernia High School
+1975_1	is_in_sentence	sentence_1975
+1975_1	compound	1975_3
+1975_1	has_surface_form	Vernia
+1975_1	part_of_entity	La Vernia High School
+1975_3	is_in_sentence	sentence_1975
+1975_3	nsubj	1975_4
+1975_3	has_surface_form	School
+1975_3	part_of_entity	La Vernia High School
+1975_2	is_in_sentence	sentence_1975
+1975_2	compound	1975_3
+1975_2	has_surface_form	High
+1975_2	part_of_entity	La Vernia High School
+1975_4	is_in_sentence	sentence_1975
+1975_4	ROOT	1975_4
+1975_4	has_surface_form	is
+1975_5	is_in_sentence	sentence_1975
+1975_5	det	1975_8
+1975_5	has_surface_form	a
+1975_8	is_in_sentence	sentence_1975
+1975_8	attr	1975_4
+1975_8	has_surface_form	school
+1975_6	is_in_sentence	sentence_1975
+1975_6	amod	1975_8
+1975_6	has_surface_form	public
+1975_7	is_in_sentence	sentence_1975
+1975_7	amod	1975_8
+1975_7	has_surface_form	high
+1975_9	is_in_sentence	sentence_1975
+1975_9	acl	1975_8
+1975_9	has_surface_form	located
+1975_10	is_in_sentence	sentence_1975
+1975_10	prep	1975_9
+1975_10	has_surface_form	in
+1975_11	is_in_sentence	sentence_1975
+1975_11	compound	1975_12
+1975_11	has_surface_form	La
+1975_12	is_in_sentence	sentence_1975
+1975_12	pobj	1975_10
+1975_12	has_surface_form	Vernia
+1975_13	is_in_sentence	sentence_1975
+1975_13	punct	1975_12
+1975_13	has_surface_form	,
+1975_14	is_in_sentence	sentence_1975
+1975_14	appos	1975_12
+1975_14	has_surface_form	Texas
+1975_15	is_in_sentence	sentence_1975
+1975_15	punct	1975_14
+1975_15	has_surface_form	(
+1975_16	is_in_sentence	sentence_1975
+1975_16	appos	1975_14
+1975_16	has_surface_form	USA
+1975_17	is_in_sentence	sentence_1975
+1975_17	punct	1975_12
+1975_17	has_surface_form	)
+1975_18	is_in_sentence	sentence_1975
+1975_18	punct	1975_4
+1975_18	has_surface_form	.
+1975_19	is_in_sentence	sentence_1975
+1975_19	dep	1975_19
+1975_19	has_surface_form	
+La Vernia High School	surface_form	La Vernia High School
+La Vernia High School	is-where	La Vernia, Texas
+La Vernia, Texas	surface_form	La Vernia, Texas

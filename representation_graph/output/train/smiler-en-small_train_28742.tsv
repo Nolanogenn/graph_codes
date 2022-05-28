@@ -1,0 +1,107 @@
+28741_0	is_in_sentence	sentence_28741
+28741_0	det	28741_2
+28741_0	has_surface_form	The
+28741_0	part_of_entity	The Happy Village
+28741_2	is_in_sentence	sentence_28741
+28741_2	nsubj	28741_10
+28741_2	has_surface_form	Village
+28741_2	part_of_entity	The Happy Village
+28741_1	is_in_sentence	sentence_28741
+28741_1	compound	28741_2
+28741_1	has_surface_form	Happy
+28741_1	part_of_entity	The Happy Village
+28741_10	is_in_sentence	sentence_28741
+28741_10	ROOT	28741_10
+28741_10	has_surface_form	is
+28741_3	is_in_sentence	sentence_28741
+28741_3	punct	28741_4
+28741_3	has_surface_form	(
+28741_4	is_in_sentence	sentence_28741
+28741_4	appos	28741_2
+28741_4	has_surface_form	German
+28741_5	is_in_sentence	sentence_28741
+28741_5	punct	28741_4
+28741_5	has_surface_form	:
+28741_6	is_in_sentence	sentence_28741
+28741_6	compound	28741_8
+28741_6	has_surface_form	Das
+28741_8	is_in_sentence	sentence_28741
+28741_8	appos	28741_4
+28741_8	has_surface_form	Dorf
+28741_7	is_in_sentence	sentence_28741
+28741_7	compound	28741_8
+28741_7	has_surface_form	fröhliche
+28741_9	is_in_sentence	sentence_28741
+28741_9	punct	28741_4
+28741_9	has_surface_form	)
+28741_11	is_in_sentence	sentence_28741
+28741_11	det	28741_16
+28741_11	has_surface_form	a
+28741_16	is_in_sentence	sentence_28741
+28741_16	attr	28741_10
+28741_16	has_surface_form	film
+28741_12	is_in_sentence	sentence_28741
+28741_12	nummod	28741_16
+28741_12	has_surface_form	1955
+28741_13	is_in_sentence	sentence_28741
+28741_13	amod	28741_14
+28741_13	has_surface_form	West
+28741_14	is_in_sentence	sentence_28741
+28741_14	amod	28741_16
+28741_14	has_surface_form	German
+28741_15	is_in_sentence	sentence_28741
+28741_15	compound	28741_16
+28741_15	has_surface_form	comedy
+28741_17	is_in_sentence	sentence_28741
+28741_17	acl	28741_16
+28741_17	has_surface_form	directed
+28741_18	is_in_sentence	sentence_28741
+28741_18	agent	28741_17
+28741_18	has_surface_form	by
+28741_19	is_in_sentence	sentence_28741
+28741_19	compound	28741_20
+28741_19	has_surface_form	Rudolf
+28741_19	part_of_entity	Rudolf Schündler
+28741_20	is_in_sentence	sentence_28741
+28741_20	pobj	28741_18
+28741_20	has_surface_form	Schündler
+28741_20	part_of_entity	Rudolf Schündler
+28741_21	is_in_sentence	sentence_28741
+28741_21	cc	28741_17
+28741_21	has_surface_form	and
+28741_22	is_in_sentence	sentence_28741
+28741_22	conj	28741_17
+28741_22	has_surface_form	starring
+28741_23	is_in_sentence	sentence_28741
+28741_23	compound	28741_24
+28741_23	has_surface_form	Hannelore
+28741_24	is_in_sentence	sentence_28741
+28741_24	dobj	28741_22
+28741_24	has_surface_form	Bollmann
+28741_25	is_in_sentence	sentence_28741
+28741_25	punct	28741_24
+28741_25	has_surface_form	,
+28741_26	is_in_sentence	sentence_28741
+28741_26	compound	28741_27
+28741_26	has_surface_form	Carl
+28741_27	is_in_sentence	sentence_28741
+28741_27	conj	28741_24
+28741_27	has_surface_form	Hinrichs
+28741_28	is_in_sentence	sentence_28741
+28741_28	cc	28741_27
+28741_28	has_surface_form	and
+28741_29	is_in_sentence	sentence_28741
+28741_29	compound	28741_30
+28741_29	has_surface_form	Gerhard
+28741_30	is_in_sentence	sentence_28741
+28741_30	conj	28741_27
+28741_30	has_surface_form	Riedmann
+28741_31	is_in_sentence	sentence_28741
+28741_31	punct	28741_10
+28741_31	has_surface_form	.
+28741_32	is_in_sentence	sentence_28741
+28741_32	dep	28741_32
+28741_32	has_surface_form	
+The Happy Village	surface_form	The Happy Village
+The Happy Village	movie-has-director	Rudolf Schündler
+Rudolf Schündler	surface_form	Rudolf Schündler

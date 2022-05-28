@@ -1,0 +1,53 @@
+35670_0	is_in_sentence	sentence_35670
+35670_0	det	35670_1
+35670_0	has_surface_form	The
+35670_1	is_in_sentence	sentence_35670
+35670_1	nsubj	35670_5
+35670_1	has_surface_form	summit
+35670_5	is_in_sentence	sentence_35670
+35670_5	ROOT	35670_5
+35670_5	has_surface_form	is
+35670_2	is_in_sentence	sentence_35670
+35670_2	prep	35670_1
+35670_2	has_surface_form	of
+35670_3	is_in_sentence	sentence_35670
+35670_3	compound	35670_4
+35670_3	has_surface_form	Mount
+35670_3	part_of_entity	Mount Washington
+35670_4	is_in_sentence	sentence_35670
+35670_4	pobj	35670_2
+35670_4	has_surface_form	Washington
+35670_4	part_of_entity	Mount Washington
+35670_6	is_in_sentence	sentence_35670
+35670_6	det	35670_8
+35670_6	has_surface_form	the
+35670_8	is_in_sentence	sentence_35670
+35670_8	attr	35670_5
+35670_8	has_surface_form	point
+35670_7	is_in_sentence	sentence_35670
+35670_7	amod	35670_8
+35670_7	has_surface_form	highest
+35670_9	is_in_sentence	sentence_35670
+35670_9	prep	35670_8
+35670_9	has_surface_form	in
+35670_10	is_in_sentence	sentence_35670
+35670_10	amod	35670_12
+35670_10	has_surface_form	northeastern
+35670_10	part_of_entity	northeastern North America
+35670_12	is_in_sentence	sentence_35670
+35670_12	pobj	35670_9
+35670_12	has_surface_form	America
+35670_12	part_of_entity	northeastern North America
+35670_11	is_in_sentence	sentence_35670
+35670_11	compound	35670_12
+35670_11	has_surface_form	North
+35670_11	part_of_entity	northeastern North America
+35670_13	is_in_sentence	sentence_35670
+35670_13	punct	35670_5
+35670_13	has_surface_form	.
+35670_14	is_in_sentence	sentence_35670
+35670_14	dep	35670_14
+35670_14	has_surface_form	
+northeastern North America	surface_form	northeastern North America
+northeastern North America	has-highest-mountain	Mount Washington
+Mount Washington	surface_form	Mount Washington

@@ -1,0 +1,62 @@
+27828_0	is_in_sentence	sentence_27828
+27828_0	compound	27828_1
+27828_0	has_surface_form	North
+27828_0	part_of_entity	North Carolina Highway
+27828_1	is_in_sentence	sentence_27828
+27828_1	compound	27828_2
+27828_1	has_surface_form	Carolina
+27828_1	part_of_entity	North Carolina Highway
+27828_2	is_in_sentence	sentence_27828
+27828_2	nsubj	27828_9
+27828_2	has_surface_form	Highway
+27828_2	part_of_entity	North Carolina Highway
+27828_9	is_in_sentence	sentence_27828
+27828_9	ROOT	27828_9
+27828_9	has_surface_form	is
+27828_3	is_in_sentence	sentence_27828
+27828_3	nummod	27828_2
+27828_3	has_surface_form	143
+27828_4	is_in_sentence	sentence_27828
+27828_4	punct	27828_2
+27828_4	has_surface_form	(
+27828_5	is_in_sentence	sentence_27828
+27828_5	nsubj	27828_9
+27828_5	has_surface_form	NC
+27828_6	is_in_sentence	sentence_27828
+27828_6	dep	27828_5
+27828_6	has_surface_form	 
+27828_7	is_in_sentence	sentence_27828
+27828_7	nummod	27828_5
+27828_7	has_surface_form	143
+27828_8	is_in_sentence	sentence_27828
+27828_8	punct	27828_5
+27828_8	has_surface_form	)
+27828_10	is_in_sentence	sentence_27828
+27828_10	det	27828_13
+27828_10	has_surface_form	a
+27828_13	is_in_sentence	sentence_27828
+27828_13	attr	27828_9
+27828_13	has_surface_form	highway
+27828_13	part_of_entity	state highway
+27828_11	is_in_sentence	sentence_27828
+27828_11	amod	27828_13
+27828_11	has_surface_form	primary
+27828_12	is_in_sentence	sentence_27828
+27828_12	compound	27828_13
+27828_12	has_surface_form	state
+27828_12	part_of_entity	state highway
+27828_14	is_in_sentence	sentence_27828
+27828_14	prep	27828_13
+27828_14	has_surface_form	in
+27828_15	is_in_sentence	sentence_27828
+27828_15	det	27828_16
+27828_15	has_surface_form	the
+27828_16	is_in_sentence	sentence_27828
+27828_16	pobj	27828_14
+27828_16	has_surface_form	U.
+27828_17	is_in_sentence	sentence_27828
+27828_17	dep	27828_9
+27828_17	has_surface_form	
+North Carolina Highway	surface_form	North Carolina Highway
+North Carolina Highway	has-type	state highway
+state highway	surface_form	state highway

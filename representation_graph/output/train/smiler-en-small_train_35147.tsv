@@ -1,0 +1,80 @@
+35146_0	is_in_sentence	sentence_35146
+35146_0	det	35146_2
+35146_0	has_surface_form	The
+35146_0	part_of_entity	The Jones Family in Hollywood
+35146_2	is_in_sentence	sentence_35146
+35146_2	nsubj	35146_5
+35146_2	has_surface_form	Family
+35146_2	part_of_entity	The Jones Family in Hollywood
+35146_1	is_in_sentence	sentence_35146
+35146_1	compound	35146_2
+35146_1	has_surface_form	Jones
+35146_1	part_of_entity	The Jones Family in Hollywood
+35146_5	is_in_sentence	sentence_35146
+35146_5	ROOT	35146_5
+35146_5	has_surface_form	is
+35146_3	is_in_sentence	sentence_35146
+35146_3	prep	35146_2
+35146_3	has_surface_form	in
+35146_3	part_of_entity	The Jones Family in Hollywood
+35146_4	is_in_sentence	sentence_35146
+35146_4	pobj	35146_3
+35146_4	has_surface_form	Hollywood
+35146_4	part_of_entity	The Jones Family in Hollywood
+35146_6	is_in_sentence	sentence_35146
+35146_6	det	35146_10
+35146_6	has_surface_form	a
+35146_10	is_in_sentence	sentence_35146
+35146_10	attr	35146_5
+35146_10	has_surface_form	film
+35146_7	is_in_sentence	sentence_35146
+35146_7	nummod	35146_10
+35146_7	has_surface_form	1939
+35146_8	is_in_sentence	sentence_35146
+35146_8	amod	35146_10
+35146_8	has_surface_form	American
+35146_9	is_in_sentence	sentence_35146
+35146_9	compound	35146_10
+35146_9	has_surface_form	comedy
+35146_11	is_in_sentence	sentence_35146
+35146_11	acl	35146_10
+35146_11	has_surface_form	directed
+35146_12	is_in_sentence	sentence_35146
+35146_12	agent	35146_11
+35146_12	has_surface_form	by
+35146_13	is_in_sentence	sentence_35146
+35146_13	compound	35146_15
+35146_13	has_surface_form	Malcolm
+35146_13	part_of_entity	Malcolm St. Clair
+35146_15	is_in_sentence	sentence_35146
+35146_15	pobj	35146_12
+35146_15	has_surface_form	Clair
+35146_15	part_of_entity	Malcolm St. Clair
+35146_14	is_in_sentence	sentence_35146
+35146_14	compound	35146_15
+35146_14	has_surface_form	St.
+35146_14	part_of_entity	Malcolm St. Clair
+35146_16	is_in_sentence	sentence_35146
+35146_16	cc	35146_11
+35146_16	has_surface_form	and
+35146_17	is_in_sentence	sentence_35146
+35146_17	conj	35146_11
+35146_17	has_surface_form	written
+35146_18	is_in_sentence	sentence_35146
+35146_18	agent	35146_17
+35146_18	has_surface_form	by
+35146_19	is_in_sentence	sentence_35146
+35146_19	compound	35146_20
+35146_19	has_surface_form	Harold
+35146_20	is_in_sentence	sentence_35146
+35146_20	pobj	35146_18
+35146_20	has_surface_form	Tarshis
+35146_21	is_in_sentence	sentence_35146
+35146_21	punct	35146_5
+35146_21	has_surface_form	.
+35146_22	is_in_sentence	sentence_35146
+35146_22	dep	35146_22
+35146_22	has_surface_form	
+The Jones Family in Hollywood	surface_form	The Jones Family in Hollywood
+The Jones Family in Hollywood	movie-has-director	Malcolm St. Clair
+Malcolm St. Clair	surface_form	Malcolm St. Clair

@@ -1,0 +1,88 @@
+10798_0	is_in_sentence	sentence_10798
+10798_0	compound	10798_1
+10798_0	has_surface_form	Anton
+10798_0	part_of_entity	Anton Ognyanov
+10798_1	is_in_sentence	sentence_10798
+10798_1	nsubj	10798_16
+10798_1	has_surface_form	Ognyanov
+10798_1	part_of_entity	Anton Ognyanov
+10798_16	is_in_sentence	sentence_10798
+10798_16	ROOT	10798_16
+10798_16	has_surface_form	is
+10798_2	is_in_sentence	sentence_10798
+10798_2	punct	10798_3
+10798_2	has_surface_form	(
+10798_3	is_in_sentence	sentence_10798
+10798_3	appos	10798_1
+10798_3	has_surface_form	Bulgarian
+10798_4	is_in_sentence	sentence_10798
+10798_4	punct	10798_3
+10798_4	has_surface_form	:
+10798_5	is_in_sentence	sentence_10798
+10798_5	compound	10798_6
+10798_5	has_surface_form	Антон
+10798_6	is_in_sentence	sentence_10798
+10798_6	appos	10798_3
+10798_6	has_surface_form	Огнянов
+10798_7	is_in_sentence	sentence_10798
+10798_7	punct	10798_6
+10798_7	has_surface_form	;
+10798_8	is_in_sentence	sentence_10798
+10798_8	acl	10798_6
+10798_8	has_surface_form	born
+10798_9	is_in_sentence	sentence_10798
+10798_9	nummod	10798_10
+10798_9	has_surface_form	30
+10798_10	is_in_sentence	sentence_10798
+10798_10	npadvmod	10798_8
+10798_10	has_surface_form	June
+10798_11	is_in_sentence	sentence_10798
+10798_11	nummod	10798_10
+10798_11	has_surface_form	1988
+10798_12	is_in_sentence	sentence_10798
+10798_12	prep	10798_8
+10798_12	has_surface_form	in
+10798_13	is_in_sentence	sentence_10798
+10798_13	compound	10798_14
+10798_13	has_surface_form	Stara
+10798_13	part_of_entity	Stara Zagora
+10798_14	is_in_sentence	sentence_10798
+10798_14	pobj	10798_12
+10798_14	has_surface_form	Zagora
+10798_14	part_of_entity	Stara Zagora
+10798_15	is_in_sentence	sentence_10798
+10798_15	punct	10798_6
+10798_15	has_surface_form	)
+10798_17	is_in_sentence	sentence_10798
+10798_17	det	10798_19
+10798_17	has_surface_form	a
+10798_19	is_in_sentence	sentence_10798
+10798_19	attr	10798_16
+10798_19	has_surface_form	footballer
+10798_18	is_in_sentence	sentence_10798
+10798_18	amod	10798_19
+10798_18	has_surface_form	Bulgarian
+10798_20	is_in_sentence	sentence_10798
+10798_20	nsubj	10798_21
+10798_20	has_surface_form	who
+10798_21	is_in_sentence	sentence_10798
+10798_21	relcl	10798_19
+10798_21	has_surface_form	plays
+10798_22	is_in_sentence	sentence_10798
+10798_22	prep	10798_21
+10798_22	has_surface_form	for
+10798_23	is_in_sentence	sentence_10798
+10798_23	compound	10798_24
+10798_23	has_surface_form	Botev
+10798_24	is_in_sentence	sentence_10798
+10798_24	pobj	10798_22
+10798_24	has_surface_form	Galabovo
+10798_25	is_in_sentence	sentence_10798
+10798_25	punct	10798_16
+10798_25	has_surface_form	.
+10798_26	is_in_sentence	sentence_10798
+10798_26	dep	10798_16
+10798_26	has_surface_form	
+Anton Ognyanov	surface_form	Anton Ognyanov
+Anton Ognyanov	birth-place	Stara Zagora
+Stara Zagora	surface_form	Stara Zagora

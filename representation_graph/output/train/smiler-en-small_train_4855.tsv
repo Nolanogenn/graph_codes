@@ -1,0 +1,44 @@
+4854_0	is_in_sentence	sentence_4854
+4854_0	compound	4854_1
+4854_0	has_surface_form	Baruch
+4854_0	part_of_entity	Baruch Chait
+4854_1	is_in_sentence	sentence_4854
+4854_1	nsubj	4854_2
+4854_1	has_surface_form	Chait
+4854_1	part_of_entity	Baruch Chait
+4854_2	is_in_sentence	sentence_4854
+4854_2	ROOT	4854_2
+4854_2	has_surface_form	is
+4854_3	is_in_sentence	sentence_4854
+4854_3	det	4854_6
+4854_3	has_surface_form	an
+4854_6	is_in_sentence	sentence_4854
+4854_6	attr	4854_2
+4854_6	is_entity	rabbi
+4854_4	is_in_sentence	sentence_4854
+4854_4	nmod	4854_6
+4854_4	has_surface_form	Orthodox
+4854_5	is_in_sentence	sentence_4854
+4854_5	amod	4854_6
+4854_5	has_surface_form	Jewish
+rabbi	surface_form	rabbi
+4854_7	is_in_sentence	sentence_4854
+4854_7	punct	4854_6
+4854_7	has_surface_form	,
+4854_8	is_in_sentence	sentence_4854
+4854_8	conj	4854_6
+4854_8	has_surface_form	musician
+4854_9	is_in_sentence	sentence_4854
+4854_9	cc	4854_8
+4854_9	has_surface_form	and
+4854_10	is_in_sentence	sentence_4854
+4854_10	conj	4854_8
+4854_10	has_surface_form	composer
+4854_11	is_in_sentence	sentence_4854
+4854_11	punct	4854_2
+4854_11	has_surface_form	.
+4854_12	is_in_sentence	sentence_4854
+4854_12	dep	4854_12
+4854_12	has_surface_form	
+Baruch Chait	surface_form	Baruch Chait
+Baruch Chait	has-occupation	rabbi

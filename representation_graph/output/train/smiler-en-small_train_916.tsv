@@ -1,0 +1,65 @@
+915_0	is_in_sentence	sentence_915
+915_0	compound	915_1
+915_0	has_surface_form	Yūji
+915_0	part_of_entity	Yūji Tajiri
+915_1	is_in_sentence	sentence_915
+915_1	nsubj	915_8
+915_1	has_surface_form	Tajiri
+915_1	part_of_entity	Yūji Tajiri
+915_8	is_in_sentence	sentence_915
+915_8	ROOT	915_8
+915_8	has_surface_form	is
+915_2	is_in_sentence	sentence_915
+915_2	punct	915_1
+915_2	has_surface_form	(
+915_3	is_in_sentence	sentence_915
+915_3	appos	915_1
+915_3	has_surface_form	田尻裕司
+915_4	is_in_sentence	sentence_915
+915_4	punct	915_3
+915_4	has_surface_form	,
+915_5	is_in_sentence	sentence_915
+915_5	compound	915_6
+915_5	has_surface_form	Tajiri
+915_6	is_in_sentence	sentence_915
+915_6	appos	915_3
+915_6	has_surface_form	Yūji
+915_7	is_in_sentence	sentence_915
+915_7	punct	915_3
+915_7	has_surface_form	)
+915_9	is_in_sentence	sentence_915
+915_9	det	915_12
+915_9	has_surface_form	a
+915_12	is_in_sentence	sentence_915
+915_12	attr	915_8
+915_12	has_surface_form	director
+915_10	is_in_sentence	sentence_915
+915_10	amod	915_12
+915_10	has_surface_form	Japanese
+915_11	is_in_sentence	sentence_915
+915_11	compound	915_12
+915_11	has_surface_form	film
+915_13	is_in_sentence	sentence_915
+915_13	punct	915_12
+915_13	has_surface_form	,
+915_14	is_in_sentence	sentence_915
+915_14	conj	915_12
+915_14	has_surface_form	screenwriter
+915_15	is_in_sentence	sentence_915
+915_15	punct	915_14
+915_15	has_surface_form	,
+915_16	is_in_sentence	sentence_915
+915_16	cc	915_14
+915_16	has_surface_form	and
+915_17	is_in_sentence	sentence_915
+915_17	conj	915_14
+915_17	is_entity	actor
+actor	surface_form	actor
+915_18	is_in_sentence	sentence_915
+915_18	punct	915_8
+915_18	has_surface_form	.
+915_19	is_in_sentence	sentence_915
+915_19	dep	915_8
+915_19	has_surface_form	
+Yūji Tajiri	surface_form	Yūji Tajiri
+Yūji Tajiri	has-occupation	actor

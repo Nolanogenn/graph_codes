@@ -1,0 +1,65 @@
+23131_0	is_in_sentence	sentence_23131
+23131_0	compound	23131_1
+23131_0	has_surface_form	William
+23131_0	part_of_entity	William Corson
+23131_1	is_in_sentence	sentence_23131
+23131_1	nsubj	23131_13
+23131_1	has_surface_form	Corson
+23131_1	part_of_entity	William Corson
+23131_13	is_in_sentence	sentence_23131
+23131_13	ROOT	23131_13
+23131_13	has_surface_form	was
+23131_2	is_in_sentence	sentence_23131
+23131_2	punct	23131_3
+23131_2	has_surface_form	(
+23131_3	is_in_sentence	sentence_23131
+23131_3	appos	23131_1
+23131_3	has_surface_form	December
+23131_4	is_in_sentence	sentence_23131
+23131_4	nummod	23131_3
+23131_4	has_surface_form	23
+23131_5	is_in_sentence	sentence_23131
+23131_5	punct	23131_3
+23131_5	has_surface_form	,
+23131_6	is_in_sentence	sentence_23131
+23131_6	appos	23131_3
+23131_6	has_surface_form	1909
+23131_7	is_in_sentence	sentence_23131
+23131_7	punct	23131_8
+23131_7	has_surface_form	–
+23131_8	is_in_sentence	sentence_23131
+23131_8	appos	23131_3
+23131_8	has_surface_form	January
+23131_9	is_in_sentence	sentence_23131
+23131_9	nummod	23131_8
+23131_9	has_surface_form	28
+23131_10	is_in_sentence	sentence_23131
+23131_10	punct	23131_8
+23131_10	has_surface_form	,
+23131_11	is_in_sentence	sentence_23131
+23131_11	nummod	23131_8
+23131_11	has_surface_form	1981
+23131_12	is_in_sentence	sentence_23131
+23131_12	punct	23131_8
+23131_12	has_surface_form	)
+23131_14	is_in_sentence	sentence_23131
+23131_14	det	23131_17
+23131_14	has_surface_form	an
+23131_17	is_in_sentence	sentence_23131
+23131_17	attr	23131_13
+23131_17	is_entity	actor
+23131_15	is_in_sentence	sentence_23131
+23131_15	amod	23131_17
+23131_15	has_surface_form	American
+23131_16	is_in_sentence	sentence_23131
+23131_16	compound	23131_17
+23131_16	has_surface_form	film
+actor	surface_form	actor
+23131_18	is_in_sentence	sentence_23131
+23131_18	punct	23131_13
+23131_18	has_surface_form	.
+23131_19	is_in_sentence	sentence_23131
+23131_19	dep	23131_19
+23131_19	has_surface_form	
+William Corson	surface_form	William Corson
+William Corson	has-occupation	actor

@@ -1,0 +1,70 @@
+35451_0	is_in_sentence	sentence_35451
+35451_0	compound	35451_1
+35451_0	has_surface_form	Kungliga
+35451_0	part_of_entity	Kungliga patrasket
+35451_1	is_in_sentence	sentence_35451
+35451_1	nsubj	35451_9
+35451_1	has_surface_form	patrasket
+35451_1	part_of_entity	Kungliga patrasket
+35451_9	is_in_sentence	sentence_35451
+35451_9	ROOT	35451_9
+35451_9	has_surface_form	is
+35451_2	is_in_sentence	sentence_35451
+35451_2	punct	35451_3
+35451_2	has_surface_form	(
+35451_3	is_in_sentence	sentence_35451
+35451_3	appos	35451_1
+35451_3	has_surface_form	English
+35451_4	is_in_sentence	sentence_35451
+35451_4	punct	35451_3
+35451_4	has_surface_form	:
+35451_5	is_in_sentence	sentence_35451
+35451_5	det	35451_7
+35451_5	has_surface_form	The
+35451_7	is_in_sentence	sentence_35451
+35451_7	appos	35451_3
+35451_7	has_surface_form	Rabble
+35451_6	is_in_sentence	sentence_35451
+35451_6	compound	35451_7
+35451_6	has_surface_form	Royal
+35451_8	is_in_sentence	sentence_35451
+35451_8	punct	35451_3
+35451_8	has_surface_form	)
+35451_10	is_in_sentence	sentence_35451
+35451_10	det	35451_14
+35451_10	has_surface_form	a
+35451_14	is_in_sentence	sentence_35451
+35451_14	attr	35451_9
+35451_14	has_surface_form	film
+35451_11	is_in_sentence	sentence_35451
+35451_11	nummod	35451_14
+35451_11	has_surface_form	1945
+35451_12	is_in_sentence	sentence_35451
+35451_12	amod	35451_14
+35451_12	has_surface_form	Swedish
+35451_13	is_in_sentence	sentence_35451
+35451_13	compound	35451_14
+35451_13	has_surface_form	drama
+35451_15	is_in_sentence	sentence_35451
+35451_15	acl	35451_14
+35451_15	has_surface_form	directed
+35451_16	is_in_sentence	sentence_35451
+35451_16	agent	35451_15
+35451_16	has_surface_form	by
+35451_17	is_in_sentence	sentence_35451
+35451_17	compound	35451_18
+35451_17	has_surface_form	Hasse
+35451_17	part_of_entity	Hasse Ekman
+35451_18	is_in_sentence	sentence_35451
+35451_18	pobj	35451_16
+35451_18	has_surface_form	Ekman
+35451_18	part_of_entity	Hasse Ekman
+35451_19	is_in_sentence	sentence_35451
+35451_19	punct	35451_9
+35451_19	has_surface_form	.
+35451_20	is_in_sentence	sentence_35451
+35451_20	dep	35451_20
+35451_20	has_surface_form	
+Kungliga patrasket	surface_form	Kungliga patrasket
+Kungliga patrasket	movie-has-director	Hasse Ekman
+Hasse Ekman	surface_form	Hasse Ekman

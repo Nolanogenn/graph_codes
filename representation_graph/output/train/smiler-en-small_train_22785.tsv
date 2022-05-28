@@ -1,0 +1,64 @@
+22784_0	is_in_sentence	sentence_22784
+22784_0	compound	22784_1
+22784_0	has_surface_form	Mister
+22784_0	part_of_entity	Mister Universo
+22784_1	is_in_sentence	sentence_22784
+22784_1	nsubj	22784_2
+22784_1	has_surface_form	Universo
+22784_1	part_of_entity	Mister Universo
+22784_2	is_in_sentence	sentence_22784
+22784_2	ROOT	22784_2
+22784_2	has_surface_form	is
+22784_3	is_in_sentence	sentence_22784
+22784_3	det	22784_9
+22784_3	has_surface_form	a
+22784_9	is_in_sentence	sentence_22784
+22784_9	attr	22784_2
+22784_9	has_surface_form	film
+22784_4	is_in_sentence	sentence_22784
+22784_4	nummod	22784_9
+22784_4	has_surface_form	2016
+22784_5	is_in_sentence	sentence_22784
+22784_5	amod	22784_7
+22784_5	has_surface_form	Austrian
+22784_7	is_in_sentence	sentence_22784
+22784_7	amod	22784_9
+22784_7	has_surface_form	Italian
+22784_6	is_in_sentence	sentence_22784
+22784_6	punct	22784_7
+22784_6	has_surface_form	-
+22784_8	is_in_sentence	sentence_22784
+22784_8	compound	22784_9
+22784_8	has_surface_form	drama
+22784_10	is_in_sentence	sentence_22784
+22784_10	acl	22784_9
+22784_10	has_surface_form	directed
+22784_11	is_in_sentence	sentence_22784
+22784_11	agent	22784_10
+22784_11	has_surface_form	by
+22784_12	is_in_sentence	sentence_22784
+22784_12	compound	22784_13
+22784_12	has_surface_form	Tizza
+22784_13	is_in_sentence	sentence_22784
+22784_13	pobj	22784_11
+22784_13	has_surface_form	Covi
+22784_14	is_in_sentence	sentence_22784
+22784_14	cc	22784_13
+22784_14	has_surface_form	and
+22784_15	is_in_sentence	sentence_22784
+22784_15	compound	22784_16
+22784_15	has_surface_form	Rainer
+22784_15	part_of_entity	Rainer Frimmel
+22784_16	is_in_sentence	sentence_22784
+22784_16	conj	22784_13
+22784_16	has_surface_form	Frimmel
+22784_16	part_of_entity	Rainer Frimmel
+22784_17	is_in_sentence	sentence_22784
+22784_17	punct	22784_2
+22784_17	has_surface_form	.
+22784_18	is_in_sentence	sentence_22784
+22784_18	dep	22784_2
+22784_18	has_surface_form	
+Mister Universo	surface_form	Mister Universo
+Mister Universo	movie-has-director	Rainer Frimmel
+Rainer Frimmel	surface_form	Rainer Frimmel

@@ -1,0 +1,56 @@
+10641_0	is_in_sentence	sentence_10641
+10641_0	compound	10641_1
+10641_0	has_surface_form	Norman
+10641_0	part_of_entity	Norman Dennis
+10641_1	is_in_sentence	sentence_10641
+10641_1	nsubj	10641_11
+10641_1	has_surface_form	Dennis
+10641_1	part_of_entity	Norman Dennis
+10641_11	is_in_sentence	sentence_10641
+10641_11	ROOT	10641_11
+10641_11	has_surface_form	was
+10641_2	is_in_sentence	sentence_10641
+10641_2	punct	10641_1
+10641_2	has_surface_form	(
+10641_3	is_in_sentence	sentence_10641
+10641_3	nummod	10641_4
+10641_3	has_surface_form	16
+10641_4	is_in_sentence	sentence_10641
+10641_4	appos	10641_1
+10641_4	has_surface_form	August
+10641_5	is_in_sentence	sentence_10641
+10641_5	nummod	10641_4
+10641_5	has_surface_form	1929
+10641_6	is_in_sentence	sentence_10641
+10641_6	punct	10641_1
+10641_6	has_surface_form	–
+10641_7	is_in_sentence	sentence_10641
+10641_7	nummod	10641_8
+10641_7	has_surface_form	13
+10641_8	is_in_sentence	sentence_10641
+10641_8	appos	10641_1
+10641_8	has_surface_form	November
+10641_9	is_in_sentence	sentence_10641
+10641_9	nummod	10641_8
+10641_9	has_surface_form	2010
+10641_10	is_in_sentence	sentence_10641
+10641_10	punct	10641_8
+10641_10	has_surface_form	)
+10641_12	is_in_sentence	sentence_10641
+10641_12	det	10641_14
+10641_12	has_surface_form	a
+10641_14	is_in_sentence	sentence_10641
+10641_14	attr	10641_11
+10641_14	is_entity	sociologist
+10641_13	is_in_sentence	sentence_10641
+10641_13	amod	10641_14
+10641_13	has_surface_form	British
+sociologist	surface_form	sociologist
+10641_15	is_in_sentence	sentence_10641
+10641_15	punct	10641_11
+10641_15	has_surface_form	.
+10641_16	is_in_sentence	sentence_10641
+10641_16	dep	10641_11
+10641_16	has_surface_form	
+Norman Dennis	surface_form	Norman Dennis
+Norman Dennis	has-occupation	sociologist

@@ -1,0 +1,62 @@
+8259_0	is_in_sentence	sentence_8259
+8259_0	compound	8259_2
+8259_0	has_surface_form	Brad
+8259_0	part_of_entity	Brad R. Torgersen
+8259_2	is_in_sentence	sentence_8259
+8259_2	nsubj	8259_10
+8259_2	has_surface_form	Torgersen
+8259_2	part_of_entity	Brad R. Torgersen
+8259_1	is_in_sentence	sentence_8259
+8259_1	compound	8259_2
+8259_1	has_surface_form	R.
+8259_1	part_of_entity	Brad R. Torgersen
+8259_10	is_in_sentence	sentence_8259
+8259_10	ROOT	8259_10
+8259_10	has_surface_form	is
+8259_3	is_in_sentence	sentence_8259
+8259_3	punct	8259_2
+8259_3	has_surface_form	(
+8259_4	is_in_sentence	sentence_8259
+8259_4	acl	8259_2
+8259_4	has_surface_form	born
+8259_5	is_in_sentence	sentence_8259
+8259_5	npadvmod	8259_4
+8259_5	has_surface_form	April
+8259_6	is_in_sentence	sentence_8259
+8259_6	nummod	8259_5
+8259_6	has_surface_form	6
+8259_7	is_in_sentence	sentence_8259
+8259_7	punct	8259_5
+8259_7	has_surface_form	,
+8259_8	is_in_sentence	sentence_8259
+8259_8	nummod	8259_5
+8259_8	has_surface_form	1974
+8259_9	is_in_sentence	sentence_8259
+8259_9	punct	8259_2
+8259_9	has_surface_form	)
+8259_11	is_in_sentence	sentence_8259
+8259_11	det	8259_15
+8259_11	has_surface_form	an
+8259_15	is_in_sentence	sentence_8259
+8259_15	attr	8259_10
+8259_15	has_surface_form	author
+8259_12	is_in_sentence	sentence_8259
+8259_12	amod	8259_14
+8259_12	has_surface_form	American
+8259_14	is_in_sentence	sentence_8259
+8259_14	compound	8259_15
+8259_14	has_surface_form	fiction
+8259_14	part_of_entity	science fiction
+8259_13	is_in_sentence	sentence_8259
+8259_13	compound	8259_14
+8259_13	has_surface_form	science
+8259_13	part_of_entity	science fiction
+8259_16	is_in_sentence	sentence_8259
+8259_16	punct	8259_10
+8259_16	has_surface_form	.
+8259_17	is_in_sentence	sentence_8259
+8259_17	dep	8259_10
+8259_17	has_surface_form	
+Brad R. Torgersen	surface_form	Brad R. Torgersen
+Brad R. Torgersen	has-genre	science fiction
+science fiction	surface_form	science fiction

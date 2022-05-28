@@ -1,0 +1,111 @@
+12240_0	is_in_sentence	sentence_12240
+12240_0	ROOT	12240_0
+12240_0	has_surface_form	Chased
+12240_0	part_of_entity	Chased by the Devil
+12240_1	is_in_sentence	sentence_12240
+12240_1	agent	12240_0
+12240_1	has_surface_form	by
+12240_1	part_of_entity	Chased by the Devil
+12240_2	is_in_sentence	sentence_12240
+12240_2	det	12240_3
+12240_2	has_surface_form	the
+12240_2	part_of_entity	Chased by the Devil
+12240_3	is_in_sentence	sentence_12240
+12240_3	pobj	12240_1
+12240_3	has_surface_form	Devil
+12240_3	part_of_entity	Chased by the Devil
+12240_4	is_in_sentence	sentence_12240
+12240_4	punct	12240_5
+12240_4	has_surface_form	(
+12240_5	is_in_sentence	sentence_12240
+12240_5	appos	12240_3
+12240_5	has_surface_form	German
+12240_6	is_in_sentence	sentence_12240
+12240_6	punct	12240_5
+12240_6	has_surface_form	:
+12240_7	is_in_sentence	sentence_12240
+12240_7	compound	12240_9
+12240_7	has_surface_form	Vom
+12240_9	is_in_sentence	sentence_12240
+12240_9	appos	12240_5
+12240_9	has_surface_form	gejagt
+12240_8	is_in_sentence	sentence_12240
+12240_8	compound	12240_9
+12240_8	has_surface_form	Teufel
+12240_10	is_in_sentence	sentence_12240
+12240_10	punct	12240_5
+12240_10	has_surface_form	)
+12240_11	is_in_sentence	sentence_12240
+12240_11	auxpass	12240_0
+12240_11	has_surface_form	is
+12240_12	is_in_sentence	sentence_12240
+12240_12	det	12240_17
+12240_12	has_surface_form	a
+12240_17	is_in_sentence	sentence_12240
+12240_17	attr	12240_11
+12240_17	has_surface_form	film
+12240_13	is_in_sentence	sentence_12240
+12240_13	nummod	12240_17
+12240_13	has_surface_form	1950
+12240_14	is_in_sentence	sentence_12240
+12240_14	amod	12240_15
+12240_14	has_surface_form	West
+12240_15	is_in_sentence	sentence_12240
+12240_15	amod	12240_17
+12240_15	has_surface_form	German
+12240_16	is_in_sentence	sentence_12240
+12240_16	compound	12240_17
+12240_16	has_surface_form	crime
+12240_18	is_in_sentence	sentence_12240
+12240_18	acl	12240_17
+12240_18	has_surface_form	directed
+12240_19	is_in_sentence	sentence_12240
+12240_19	agent	12240_18
+12240_19	has_surface_form	by
+12240_20	is_in_sentence	sentence_12240
+12240_20	compound	12240_21
+12240_20	has_surface_form	Viktor
+12240_21	is_in_sentence	sentence_12240
+12240_21	pobj	12240_19
+12240_21	has_surface_form	Tourjansky
+12240_22	is_in_sentence	sentence_12240
+12240_22	cc	12240_18
+12240_22	has_surface_form	and
+12240_23	is_in_sentence	sentence_12240
+12240_23	conj	12240_18
+12240_23	has_surface_form	starring
+12240_24	is_in_sentence	sentence_12240
+12240_24	compound	12240_25
+12240_24	has_surface_form	Hans
+12240_24	part_of_entity	Hans Albers
+12240_25	is_in_sentence	sentence_12240
+12240_25	dobj	12240_23
+12240_25	has_surface_form	Albers
+12240_25	part_of_entity	Hans Albers
+12240_26	is_in_sentence	sentence_12240
+12240_26	punct	12240_25
+12240_26	has_surface_form	,
+12240_27	is_in_sentence	sentence_12240
+12240_27	compound	12240_28
+12240_27	has_surface_form	Willy
+12240_28	is_in_sentence	sentence_12240
+12240_28	appos	12240_25
+12240_28	has_surface_form	Birgel
+12240_29	is_in_sentence	sentence_12240
+12240_29	cc	12240_28
+12240_29	has_surface_form	and
+12240_30	is_in_sentence	sentence_12240
+12240_30	compound	12240_31
+12240_30	has_surface_form	Lil
+12240_31	is_in_sentence	sentence_12240
+12240_31	conj	12240_28
+12240_31	has_surface_form	Dagover
+12240_32	is_in_sentence	sentence_12240
+12240_32	punct	12240_11
+12240_32	has_surface_form	.
+12240_33	is_in_sentence	sentence_12240
+12240_33	dep	12240_0
+12240_33	has_surface_form	
+Chased by the Devil	surface_form	Chased by the Devil
+Chased by the Devil	starring	Hans Albers
+Hans Albers	surface_form	Hans Albers

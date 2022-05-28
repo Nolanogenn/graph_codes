@@ -1,0 +1,62 @@
+21030_0	is_in_sentence	sentence_21030
+21030_0	prep	21030_13
+21030_0	has_surface_form	On
+21030_13	is_in_sentence	sentence_21030
+21030_13	ROOT	21030_13
+21030_13	has_surface_form	died
+21030_1	is_in_sentence	sentence_21030
+21030_1	pobj	21030_0
+21030_1	has_surface_form	December
+21030_2	is_in_sentence	sentence_21030
+21030_2	nummod	21030_1
+21030_2	has_surface_form	24
+21030_3	is_in_sentence	sentence_21030
+21030_3	punct	21030_1
+21030_3	has_surface_form	,
+21030_4	is_in_sentence	sentence_21030
+21030_4	nummod	21030_1
+21030_4	has_surface_form	2017
+21030_5	is_in_sentence	sentence_21030
+21030_5	punct	21030_13
+21030_5	has_surface_form	,
+21030_6	is_in_sentence	sentence_21030
+21030_6	poss	21030_8
+21030_6	is_entity	Midnight
+21030_8	is_in_sentence	sentence_21030
+21030_8	nsubj	21030_13
+21030_8	has_surface_form	daughter
+Midnight	surface_form	Midnight
+Midnight	has-child	Heaven McDonald
+21030_7	is_in_sentence	sentence_21030
+21030_7	case	21030_6
+21030_7	has_surface_form	's
+21030_9	is_in_sentence	sentence_21030
+21030_9	punct	21030_8
+21030_9	has_surface_form	,
+21030_10	is_in_sentence	sentence_21030
+21030_10	compound	21030_11
+21030_10	has_surface_form	Heaven
+21030_10	part_of_entity	Heaven McDonald
+21030_11	is_in_sentence	sentence_21030
+21030_11	appos	21030_8
+21030_11	has_surface_form	McDonald
+21030_11	part_of_entity	Heaven McDonald
+21030_12	is_in_sentence	sentence_21030
+21030_12	punct	21030_8
+21030_12	has_surface_form	,
+21030_14	is_in_sentence	sentence_21030
+21030_14	prep	21030_13
+21030_14	has_surface_form	from
+21030_15	is_in_sentence	sentence_21030
+21030_15	amod	21030_16
+21030_15	has_surface_form	liver
+21030_16	is_in_sentence	sentence_21030
+21030_16	pobj	21030_14
+21030_16	has_surface_form	failure
+21030_17	is_in_sentence	sentence_21030
+21030_17	punct	21030_13
+21030_17	has_surface_form	.
+21030_18	is_in_sentence	sentence_21030
+21030_18	dep	21030_18
+21030_18	has_surface_form	
+Heaven McDonald	surface_form	Heaven McDonald

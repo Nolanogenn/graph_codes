@@ -1,0 +1,84 @@
+7716_0	is_in_sentence	sentence_7716
+7716_0	nsubj	7716_1
+7716_0	has_surface_form	God
+7716_0	part_of_entity	God Loves Uganda
+7716_1	is_in_sentence	sentence_7716
+7716_1	ROOT	7716_1
+7716_1	has_surface_form	Loves
+7716_1	part_of_entity	God Loves Uganda
+7716_2	is_in_sentence	sentence_7716
+7716_2	dobj	7716_1
+7716_2	has_surface_form	Uganda
+7716_2	part_of_entity	God Loves Uganda
+7716_3	is_in_sentence	sentence_7716
+7716_3	ccomp	7716_1
+7716_3	has_surface_form	is
+7716_4	is_in_sentence	sentence_7716
+7716_4	det	7716_6
+7716_4	has_surface_form	a
+7716_6	is_in_sentence	sentence_7716
+7716_6	attr	7716_3
+7716_6	has_surface_form	film
+7716_5	is_in_sentence	sentence_7716
+7716_5	compound	7716_6
+7716_5	has_surface_form	documentary
+7716_7	is_in_sentence	sentence_7716
+7716_7	acl	7716_6
+7716_7	has_surface_form	produced
+7716_8	is_in_sentence	sentence_7716
+7716_8	cc	7716_7
+7716_8	has_surface_form	and
+7716_9	is_in_sentence	sentence_7716
+7716_9	conj	7716_7
+7716_9	has_surface_form	directed
+7716_10	is_in_sentence	sentence_7716
+7716_10	agent	7716_9
+7716_10	has_surface_form	by
+7716_11	is_in_sentence	sentence_7716
+7716_11	compound	7716_13
+7716_11	has_surface_form	Roger
+7716_11	part_of_entity	Roger Ross Williams
+7716_13	is_in_sentence	sentence_7716
+7716_13	pobj	7716_10
+7716_13	has_surface_form	Williams
+7716_13	part_of_entity	Roger Ross Williams
+7716_12	is_in_sentence	sentence_7716
+7716_12	compound	7716_13
+7716_12	has_surface_form	Ross
+7716_12	part_of_entity	Roger Ross Williams
+7716_14	is_in_sentence	sentence_7716
+7716_14	punct	7716_13
+7716_14	has_surface_form	,
+7716_15	is_in_sentence	sentence_7716
+7716_15	nsubj	7716_16
+7716_15	has_surface_form	which
+7716_16	is_in_sentence	sentence_7716
+7716_16	relcl	7716_13
+7716_16	has_surface_form	premiered
+7716_17	is_in_sentence	sentence_7716
+7716_17	prep	7716_16
+7716_17	has_surface_form	at
+7716_18	is_in_sentence	sentence_7716
+7716_18	det	7716_22
+7716_18	has_surface_form	the
+7716_22	is_in_sentence	sentence_7716
+7716_22	pobj	7716_17
+7716_22	has_surface_form	Festival
+7716_19	is_in_sentence	sentence_7716
+7716_19	nummod	7716_22
+7716_19	has_surface_form	2013
+7716_20	is_in_sentence	sentence_7716
+7716_20	compound	7716_22
+7716_20	has_surface_form	Sundance
+7716_21	is_in_sentence	sentence_7716
+7716_21	compound	7716_22
+7716_21	has_surface_form	Film
+7716_23	is_in_sentence	sentence_7716
+7716_23	punct	7716_1
+7716_23	has_surface_form	.
+7716_24	is_in_sentence	sentence_7716
+7716_24	dep	7716_24
+7716_24	has_surface_form	
+God Loves Uganda	surface_form	God Loves Uganda
+God Loves Uganda	movie-has-director	Roger Ross Williams
+Roger Ross Williams	surface_form	Roger Ross Williams

@@ -1,0 +1,86 @@
+15183_0	is_in_sentence	sentence_15183
+15183_0	compound	15183_1
+15183_0	has_surface_form	Gifu
+15183_0	part_of_entity	Gifu University of Medical Science
+15183_1	is_in_sentence	sentence_15183
+15183_1	nsubj	15183_13
+15183_1	has_surface_form	University
+15183_1	part_of_entity	Gifu University of Medical Science
+15183_13	is_in_sentence	sentence_15183
+15183_13	ROOT	15183_13
+15183_13	has_surface_form	is
+15183_2	is_in_sentence	sentence_15183
+15183_2	prep	15183_1
+15183_2	has_surface_form	of
+15183_2	part_of_entity	Gifu University of Medical Science
+15183_3	is_in_sentence	sentence_15183
+15183_3	compound	15183_4
+15183_3	has_surface_form	Medical
+15183_3	part_of_entity	Gifu University of Medical Science
+15183_4	is_in_sentence	sentence_15183
+15183_4	pobj	15183_2
+15183_4	has_surface_form	Science
+15183_4	part_of_entity	Gifu University of Medical Science
+15183_5	is_in_sentence	sentence_15183
+15183_5	punct	15183_1
+15183_5	has_surface_form	(
+15183_6	is_in_sentence	sentence_15183
+15183_6	appos	15183_1
+15183_6	has_surface_form	岐阜医療科学大学
+15183_7	is_in_sentence	sentence_15183
+15183_7	punct	15183_6
+15183_7	has_surface_form	,
+15183_8	is_in_sentence	sentence_15183
+15183_8	compound	15183_11
+15183_8	has_surface_form	Gifu
+15183_11	is_in_sentence	sentence_15183
+15183_11	appos	15183_6
+15183_11	has_surface_form	Daigaku
+15183_9	is_in_sentence	sentence_15183
+15183_9	compound	15183_11
+15183_9	has_surface_form	Iryō
+15183_10	is_in_sentence	sentence_15183
+15183_10	compound	15183_11
+15183_10	has_surface_form	Kagaku
+15183_12	is_in_sentence	sentence_15183
+15183_12	punct	15183_6
+15183_12	has_surface_form	)
+15183_14	is_in_sentence	sentence_15183
+15183_14	det	15183_16
+15183_14	has_surface_form	a
+15183_16	is_in_sentence	sentence_15183
+15183_16	attr	15183_13
+15183_16	has_surface_form	university
+15183_15	is_in_sentence	sentence_15183
+15183_15	amod	15183_16
+15183_15	has_surface_form	private
+15183_17	is_in_sentence	sentence_15183
+15183_17	prep	15183_16
+15183_17	has_surface_form	in
+15183_18	is_in_sentence	sentence_15183
+15183_18	pobj	15183_17
+15183_18	has_surface_form	Seki
+15183_19	is_in_sentence	sentence_15183
+15183_19	punct	15183_18
+15183_19	has_surface_form	,
+15183_20	is_in_sentence	sentence_15183
+15183_20	compound	15183_21
+15183_20	has_surface_form	Gifu
+15183_21	is_in_sentence	sentence_15183
+15183_21	conj	15183_18
+15183_21	has_surface_form	Prefecture
+15183_22	is_in_sentence	sentence_15183
+15183_22	punct	15183_21
+15183_22	has_surface_form	,
+15183_23	is_in_sentence	sentence_15183
+15183_23	appos	15183_21
+15183_23	has_surface_form	Japan
+15183_24	is_in_sentence	sentence_15183
+15183_24	punct	15183_13
+15183_24	has_surface_form	.
+15183_25	is_in_sentence	sentence_15183
+15183_25	dep	15183_13
+15183_25	has_surface_form	
+Gifu University of Medical Science	surface_form	Gifu University of Medical Science
+Gifu University of Medical Science	is-where	Seki, Gifu
+Seki, Gifu	surface_form	Seki, Gifu

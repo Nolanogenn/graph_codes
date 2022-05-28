@@ -1,0 +1,58 @@
+25236_0	is_in_sentence	sentence_25236
+25236_0	det	25236_3
+25236_0	has_surface_form	The
+25236_0	part_of_entity	The Philadelphia Water Department
+25236_3	is_in_sentence	sentence_25236
+25236_3	nsubj	25236_4
+25236_3	has_surface_form	Department
+25236_3	part_of_entity	The Philadelphia Water Department
+25236_1	is_in_sentence	sentence_25236
+25236_1	compound	25236_3
+25236_1	has_surface_form	Philadelphia
+25236_1	part_of_entity	The Philadelphia Water Department
+25236_2	is_in_sentence	sentence_25236
+25236_2	compound	25236_3
+25236_2	has_surface_form	Water
+25236_2	part_of_entity	The Philadelphia Water Department
+25236_4	is_in_sentence	sentence_25236
+25236_4	ROOT	25236_4
+25236_4	has_surface_form	is
+25236_5	is_in_sentence	sentence_25236
+25236_5	det	25236_8
+25236_5	has_surface_form	the
+25236_8	is_in_sentence	sentence_25236
+25236_8	attr	25236_4
+25236_8	has_surface_form	utility
+25236_8	part_of_entity	public water utility
+25236_6	is_in_sentence	sentence_25236
+25236_6	amod	25236_7
+25236_6	has_surface_form	public
+25236_6	part_of_entity	public water utility
+25236_7	is_in_sentence	sentence_25236
+25236_7	compound	25236_8
+25236_7	has_surface_form	water
+25236_7	part_of_entity	public water utility
+25236_9	is_in_sentence	sentence_25236
+25236_9	prep	25236_8
+25236_9	has_surface_form	for
+25236_10	is_in_sentence	sentence_25236
+25236_10	det	25236_11
+25236_10	has_surface_form	the
+25236_11	is_in_sentence	sentence_25236
+25236_11	pobj	25236_9
+25236_11	has_surface_form	City
+25236_12	is_in_sentence	sentence_25236
+25236_12	prep	25236_11
+25236_12	has_surface_form	of
+25236_13	is_in_sentence	sentence_25236
+25236_13	pobj	25236_12
+25236_13	has_surface_form	Philadelphia
+25236_14	is_in_sentence	sentence_25236
+25236_14	punct	25236_4
+25236_14	has_surface_form	.
+25236_15	is_in_sentence	sentence_25236
+25236_15	dep	25236_4
+25236_15	has_surface_form	
+The Philadelphia Water Department	surface_form	The Philadelphia Water Department
+The Philadelphia Water Department	has-type	public water utility
+public water utility	surface_form	public water utility

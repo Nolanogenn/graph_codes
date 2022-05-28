@@ -1,0 +1,88 @@
+23106_0	is_in_sentence	sentence_23106
+23106_0	det	23106_1
+23106_0	has_surface_form	The
+23106_0	part_of_entity	The Pride of New York
+23106_1	is_in_sentence	sentence_23106
+23106_1	nsubj	23106_5
+23106_1	has_surface_form	Pride
+23106_1	part_of_entity	The Pride of New York
+23106_5	is_in_sentence	sentence_23106
+23106_5	ROOT	23106_5
+23106_5	has_surface_form	is
+23106_2	is_in_sentence	sentence_23106
+23106_2	prep	23106_1
+23106_2	has_surface_form	of
+23106_2	part_of_entity	The Pride of New York
+23106_3	is_in_sentence	sentence_23106
+23106_3	compound	23106_4
+23106_3	has_surface_form	New
+23106_3	part_of_entity	The Pride of New York
+23106_4	is_in_sentence	sentence_23106
+23106_4	pobj	23106_2
+23106_4	has_surface_form	York
+23106_4	part_of_entity	The Pride of New York
+23106_6	is_in_sentence	sentence_23106
+23106_6	det	23106_13
+23106_6	has_surface_form	a
+23106_13	is_in_sentence	sentence_23106
+23106_13	attr	23106_5
+23106_13	has_surface_form	film
+23106_7	is_in_sentence	sentence_23106
+23106_7	amod	23106_13
+23106_7	has_surface_form	lost
+23106_8	is_in_sentence	sentence_23106
+23106_8	nummod	23106_13
+23106_8	has_surface_form	1917
+23106_9	is_in_sentence	sentence_23106
+23106_9	amod	23106_13
+23106_9	has_surface_form	American
+23106_10	is_in_sentence	sentence_23106
+23106_10	amod	23106_11
+23106_10	has_surface_form	silent
+23106_11	is_in_sentence	sentence_23106
+23106_11	compound	23106_12
+23106_11	has_surface_form	war
+23106_12	is_in_sentence	sentence_23106
+23106_12	compound	23106_13
+23106_12	has_surface_form	drama
+23106_14	is_in_sentence	sentence_23106
+23106_14	acl	23106_13
+23106_14	has_surface_form	directed
+23106_15	is_in_sentence	sentence_23106
+23106_15	agent	23106_14
+23106_15	has_surface_form	by
+23106_16	is_in_sentence	sentence_23106
+23106_16	compound	23106_17
+23106_16	has_surface_form	Raoul
+23106_16	part_of_entity	Raoul Walsh
+23106_17	is_in_sentence	sentence_23106
+23106_17	pobj	23106_15
+23106_17	has_surface_form	Walsh
+23106_17	part_of_entity	Raoul Walsh
+23106_18	is_in_sentence	sentence_23106
+23106_18	cc	23106_14
+23106_18	has_surface_form	and
+23106_19	is_in_sentence	sentence_23106
+23106_19	conj	23106_14
+23106_19	has_surface_form	starring
+23106_20	is_in_sentence	sentence_23106
+23106_20	poss	23106_21
+23106_20	has_surface_form	his
+23106_21	is_in_sentence	sentence_23106
+23106_21	dobj	23106_19
+23106_21	has_surface_form	brother
+23106_22	is_in_sentence	sentence_23106
+23106_22	compound	23106_23
+23106_22	has_surface_form	George
+23106_23	is_in_sentence	sentence_23106
+23106_23	appos	23106_21
+23106_23	has_surface_form	Walsh
+23106_24	is_in_sentence	sentence_23106
+23106_24	punct	23106_5
+23106_24	has_surface_form	.
+23106_25	is_in_sentence	sentence_23106
+23106_25	dep	23106_25
+23106_25	has_surface_form	
+The Pride of New York	surface_form	The Pride of New York
+The Pride of New York	movie-has-director	Raoul Walsh
+Raoul Walsh	surface_form	Raoul Walsh

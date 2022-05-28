@@ -1,0 +1,44 @@
+7154_0	is_in_sentence	sentence_7154
+7154_0	compound	7154_2
+7154_0	has_surface_form	Granddaughter
+7154_2	is_in_sentence	sentence_7154
+7154_2	nsubj	7154_8
+7154_2	has_surface_form	Cohn
+7154_2	part_of_entity	Shaye Cohn
+7154_1	is_in_sentence	sentence_7154
+7154_1	compound	7154_2
+7154_1	has_surface_form	Shaye
+7154_1	part_of_entity	Shaye Cohn
+7154_8	is_in_sentence	sentence_7154
+7154_8	ROOT	7154_8
+7154_8	has_surface_form	is
+7154_3	is_in_sentence	sentence_7154
+7154_3	punct	7154_2
+7154_3	has_surface_form	,
+7154_4	is_in_sentence	sentence_7154
+7154_4	poss	7154_6
+7154_4	is_entity	Joe
+7154_6	is_in_sentence	sentence_7154
+7154_6	appos	7154_2
+7154_6	has_surface_form	daughter
+Joe	surface_form	Joe
+7154_5	is_in_sentence	sentence_7154
+7154_5	case	7154_4
+7154_5	has_surface_form	's
+7154_7	is_in_sentence	sentence_7154
+7154_7	punct	7154_2
+7154_7	has_surface_form	,
+7154_9	is_in_sentence	sentence_7154
+7154_9	det	7154_10
+7154_9	has_surface_form	a
+7154_10	is_in_sentence	sentence_7154
+7154_10	attr	7154_8
+7154_10	has_surface_form	musician
+7154_11	is_in_sentence	sentence_7154
+7154_11	punct	7154_8
+7154_11	has_surface_form	.
+7154_12	is_in_sentence	sentence_7154
+7154_12	dep	7154_12
+7154_12	has_surface_form	
+Shaye Cohn	surface_form	Shaye Cohn
+Shaye Cohn	has-parent	Joe

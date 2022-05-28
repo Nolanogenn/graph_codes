@@ -1,0 +1,101 @@
+17209_0	is_in_sentence	sentence_17209
+17209_0	nsubj	17209_1
+17209_0	has_surface_form	We
+17209_0	part_of_entity	We Are Brothers
+17209_1	is_in_sentence	sentence_17209
+17209_1	ccomp	17209_16
+17209_1	has_surface_form	Are
+17209_1	part_of_entity	We Are Brothers
+17209_16	is_in_sentence	sentence_17209
+17209_16	ROOT	17209_16
+17209_16	has_surface_form	is
+17209_2	is_in_sentence	sentence_17209
+17209_2	attr	17209_1
+17209_2	has_surface_form	Brothers
+17209_2	part_of_entity	We Are Brothers
+17209_3	is_in_sentence	sentence_17209
+17209_3	punct	17209_4
+17209_3	has_surface_form	(
+17209_4	is_in_sentence	sentence_17209
+17209_4	appos	17209_2
+17209_4	has_surface_form	Korean
+17209_5	is_in_sentence	sentence_17209
+17209_5	punct	17209_4
+17209_5	has_surface_form	:
+17209_6	is_in_sentence	sentence_17209
+17209_6	dep	17209_4
+17209_6	has_surface_form	 
+17209_7	is_in_sentence	sentence_17209
+17209_7	compound	17209_8
+17209_7	has_surface_form	우리는
+17209_8	is_in_sentence	sentence_17209
+17209_8	appos	17209_2
+17209_8	has_surface_form	형제입니다
+17209_9	is_in_sentence	sentence_17209
+17209_9	punct	17209_1
+17209_9	has_surface_form	;
+17209_10	is_in_sentence	sentence_17209
+17209_10	appos	17209_0
+17209_10	has_surface_form	RR
+17209_11	is_in_sentence	sentence_17209
+17209_11	punct	17209_10
+17209_11	has_surface_form	:
+17209_12	is_in_sentence	sentence_17209
+17209_12	dep	17209_10
+17209_12	has_surface_form	 
+17209_13	is_in_sentence	sentence_17209
+17209_13	compound	17209_14
+17209_13	has_surface_form	Urineun
+17209_14	is_in_sentence	sentence_17209
+17209_14	appos	17209_10
+17209_14	has_surface_form	Hyeongjeibnida
+17209_15	is_in_sentence	sentence_17209
+17209_15	punct	17209_10
+17209_15	has_surface_form	)
+17209_17	is_in_sentence	sentence_17209
+17209_17	det	17209_24
+17209_17	has_surface_form	a
+17209_24	is_in_sentence	sentence_17209
+17209_24	attr	17209_16
+17209_24	has_surface_form	film
+17209_18	is_in_sentence	sentence_17209
+17209_18	nummod	17209_24
+17209_18	has_surface_form	2014
+17209_19	is_in_sentence	sentence_17209
+17209_19	amod	17209_20
+17209_19	has_surface_form	South
+17209_20	is_in_sentence	sentence_17209
+17209_20	amod	17209_24
+17209_20	has_surface_form	Korean
+17209_21	is_in_sentence	sentence_17209
+17209_21	compound	17209_23
+17209_21	has_surface_form	comedy
+17209_23	is_in_sentence	sentence_17209
+17209_23	compound	17209_24
+17209_23	has_surface_form	drama
+17209_22	is_in_sentence	sentence_17209
+17209_22	punct	17209_23
+17209_22	has_surface_form	-
+17209_25	is_in_sentence	sentence_17209
+17209_25	acl	17209_24
+17209_25	has_surface_form	directed
+17209_26	is_in_sentence	sentence_17209
+17209_26	agent	17209_25
+17209_26	has_surface_form	by
+17209_27	is_in_sentence	sentence_17209
+17209_27	compound	17209_28
+17209_27	has_surface_form	Jang
+17209_27	part_of_entity	Jang Jin
+17209_28	is_in_sentence	sentence_17209
+17209_28	pobj	17209_26
+17209_28	has_surface_form	Jin
+17209_28	part_of_entity	Jang Jin
+17209_29	is_in_sentence	sentence_17209
+17209_29	punct	17209_16
+17209_29	has_surface_form	.
+17209_30	is_in_sentence	sentence_17209
+17209_30	dep	17209_30
+17209_30	has_surface_form	
+We Are Brothers	surface_form	We Are Brothers
+We Are Brothers	movie-has-director	Jang Jin
+Jang Jin	surface_form	Jang Jin

@@ -1,0 +1,78 @@
+20628_0	is_in_sentence	sentence_20628
+20628_0	det	20628_1
+20628_0	has_surface_form	The
+20628_1	is_in_sentence	sentence_20628
+20628_1	nsubj	20628_7
+20628_1	has_surface_form	University
+20628_1	part_of_entity	University of Maine School of Law
+20628_7	is_in_sentence	sentence_20628
+20628_7	ROOT	20628_7
+20628_7	has_surface_form	is
+20628_2	is_in_sentence	sentence_20628
+20628_2	prep	20628_1
+20628_2	has_surface_form	of
+20628_2	part_of_entity	University of Maine School of Law
+20628_3	is_in_sentence	sentence_20628
+20628_3	compound	20628_4
+20628_3	has_surface_form	Maine
+20628_3	part_of_entity	University of Maine School of Law
+20628_4	is_in_sentence	sentence_20628
+20628_4	pobj	20628_2
+20628_4	has_surface_form	School
+20628_4	part_of_entity	University of Maine School of Law
+20628_5	is_in_sentence	sentence_20628
+20628_5	prep	20628_4
+20628_5	has_surface_form	of
+20628_5	part_of_entity	University of Maine School of Law
+20628_6	is_in_sentence	sentence_20628
+20628_6	pobj	20628_5
+20628_6	has_surface_form	Law
+20628_6	part_of_entity	University of Maine School of Law
+20628_8	is_in_sentence	sentence_20628
+20628_8	det	20628_15
+20628_8	has_surface_form	an
+20628_15	is_in_sentence	sentence_20628
+20628_15	attr	20628_7
+20628_15	has_surface_form	school
+20628_9	is_in_sentence	sentence_20628
+20628_9	amod	20628_15
+20628_9	has_surface_form	American
+20628_10	is_in_sentence	sentence_20628
+20628_10	compound	20628_11
+20628_10	has_surface_form	Bar
+20628_11	is_in_sentence	sentence_20628
+20628_11	npadvmod	20628_13
+20628_11	has_surface_form	Association
+20628_13	is_in_sentence	sentence_20628
+20628_13	amod	20628_15
+20628_13	has_surface_form	accredited
+20628_12	is_in_sentence	sentence_20628
+20628_12	punct	20628_13
+20628_12	has_surface_form	-
+20628_14	is_in_sentence	sentence_20628
+20628_14	compound	20628_15
+20628_14	has_surface_form	law
+20628_16	is_in_sentence	sentence_20628
+20628_16	acl	20628_15
+20628_16	has_surface_form	located
+20628_17	is_in_sentence	sentence_20628
+20628_17	prep	20628_16
+20628_17	has_surface_form	in
+20628_18	is_in_sentence	sentence_20628
+20628_18	pobj	20628_17
+20628_18	has_surface_form	Portland
+20628_19	is_in_sentence	sentence_20628
+20628_19	punct	20628_18
+20628_19	has_surface_form	,
+20628_20	is_in_sentence	sentence_20628
+20628_20	appos	20628_18
+20628_20	has_surface_form	Maine
+20628_21	is_in_sentence	sentence_20628
+20628_21	punct	20628_7
+20628_21	has_surface_form	.
+20628_22	is_in_sentence	sentence_20628
+20628_22	dep	20628_7
+20628_22	has_surface_form	
+University of Maine School of Law	surface_form	University of Maine School of Law
+University of Maine School of Law	is-where	Portland, Maine
+Portland, Maine	surface_form	Portland, Maine

@@ -1,0 +1,53 @@
+15722_0	is_in_sentence	sentence_15722
+15722_0	compound	15722_1
+15722_0	has_surface_form	Birhan
+15722_0	part_of_entity	Birhan Keskin
+15722_1	is_in_sentence	sentence_15722
+15722_1	nsubj	15722_10
+15722_1	has_surface_form	Keskin
+15722_1	part_of_entity	Birhan Keskin
+15722_10	is_in_sentence	sentence_15722
+15722_10	ROOT	15722_10
+15722_10	has_surface_form	is
+15722_2	is_in_sentence	sentence_15722
+15722_2	punct	15722_3
+15722_2	has_surface_form	(
+15722_3	is_in_sentence	sentence_15722
+15722_3	acl	15722_1
+15722_3	has_surface_form	born
+15722_4	is_in_sentence	sentence_15722
+15722_4	npadvmod	15722_3
+15722_4	has_surface_form	1963
+15722_5	is_in_sentence	sentence_15722
+15722_5	prep	15722_3
+15722_5	has_surface_form	in
+15722_6	is_in_sentence	sentence_15722
+15722_6	pobj	15722_5
+15722_6	has_surface_form	Kırklareli
+15722_7	is_in_sentence	sentence_15722
+15722_7	punct	15722_6
+15722_7	has_surface_form	,
+15722_8	is_in_sentence	sentence_15722
+15722_8	appos	15722_6
+15722_8	is_entity	Turkey
+Turkey	surface_form	Turkey
+15722_9	is_in_sentence	sentence_15722
+15722_9	punct	15722_6
+15722_9	has_surface_form	)
+15722_11	is_in_sentence	sentence_15722
+15722_11	det	15722_13
+15722_11	has_surface_form	a
+15722_13	is_in_sentence	sentence_15722
+15722_13	attr	15722_10
+15722_13	has_surface_form	poet
+15722_12	is_in_sentence	sentence_15722
+15722_12	amod	15722_13
+15722_12	has_surface_form	Turkish
+15722_14	is_in_sentence	sentence_15722
+15722_14	punct	15722_10
+15722_14	has_surface_form	.
+15722_15	is_in_sentence	sentence_15722
+15722_15	dep	15722_15
+15722_15	has_surface_form	
+Birhan Keskin	surface_form	Birhan Keskin
+Birhan Keskin	from-country	Turkey

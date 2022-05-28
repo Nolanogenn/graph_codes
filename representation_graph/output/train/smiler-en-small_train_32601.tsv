@@ -1,0 +1,124 @@
+32600_0	is_in_sentence	sentence_32600
+32600_0	nsubj	32600_2
+32600_0	has_surface_form	Everything
+32600_0	part_of_entity	Everything Will Be Better in the Morning
+32600_2	is_in_sentence	sentence_32600
+32600_2	csubj	32600_15
+32600_2	has_surface_form	Be
+32600_2	part_of_entity	Everything Will Be Better in the Morning
+32600_1	is_in_sentence	sentence_32600
+32600_1	aux	32600_2
+32600_1	has_surface_form	Will
+32600_1	part_of_entity	Everything Will Be Better in the Morning
+32600_15	is_in_sentence	sentence_32600
+32600_15	ROOT	32600_15
+32600_15	has_surface_form	is
+32600_3	is_in_sentence	sentence_32600
+32600_3	acomp	32600_2
+32600_3	has_surface_form	Better
+32600_3	part_of_entity	Everything Will Be Better in the Morning
+32600_4	is_in_sentence	sentence_32600
+32600_4	prep	32600_3
+32600_4	has_surface_form	in
+32600_4	part_of_entity	Everything Will Be Better in the Morning
+32600_5	is_in_sentence	sentence_32600
+32600_5	det	32600_6
+32600_5	has_surface_form	the
+32600_5	part_of_entity	Everything Will Be Better in the Morning
+32600_6	is_in_sentence	sentence_32600
+32600_6	pobj	32600_4
+32600_6	has_surface_form	Morning
+32600_6	part_of_entity	Everything Will Be Better in the Morning
+32600_7	is_in_sentence	sentence_32600
+32600_7	punct	32600_12
+32600_7	has_surface_form	(
+32600_12	is_in_sentence	sentence_32600
+32600_12	parataxis	32600_2
+32600_12	has_surface_form	alles
+32600_8	is_in_sentence	sentence_32600
+32600_8	nsubj	32600_12
+32600_8	has_surface_form	German
+32600_9	is_in_sentence	sentence_32600
+32600_9	punct	32600_11
+32600_9	has_surface_form	:
+32600_11	is_in_sentence	sentence_32600
+32600_11	appos	32600_8
+32600_11	has_surface_form	ist
+32600_10	is_in_sentence	sentence_32600
+32600_10	compound	32600_11
+32600_10	has_surface_form	Morgen
+32600_13	is_in_sentence	sentence_32600
+32600_13	dobj	32600_12
+32600_13	has_surface_form	besser
+32600_14	is_in_sentence	sentence_32600
+32600_14	punct	32600_12
+32600_14	has_surface_form	)
+32600_16	is_in_sentence	sentence_32600
+32600_16	det	32600_19
+32600_16	has_surface_form	a
+32600_19	is_in_sentence	sentence_32600
+32600_19	attr	32600_15
+32600_19	has_surface_form	film
+32600_17	is_in_sentence	sentence_32600
+32600_17	nummod	32600_19
+32600_17	has_surface_form	1948
+32600_18	is_in_sentence	sentence_32600
+32600_18	amod	32600_19
+32600_18	has_surface_form	German
+32600_20	is_in_sentence	sentence_32600
+32600_20	acl	32600_19
+32600_20	has_surface_form	directed
+32600_21	is_in_sentence	sentence_32600
+32600_21	agent	32600_20
+32600_21	has_surface_form	by
+32600_22	is_in_sentence	sentence_32600
+32600_22	compound	32600_24
+32600_22	has_surface_form	Arthur
+32600_22	part_of_entity	Arthur Maria Rabenalt
+32600_24	is_in_sentence	sentence_32600
+32600_24	pobj	32600_21
+32600_24	has_surface_form	Rabenalt
+32600_24	part_of_entity	Arthur Maria Rabenalt
+32600_23	is_in_sentence	sentence_32600
+32600_23	compound	32600_24
+32600_23	has_surface_form	Maria
+32600_23	part_of_entity	Arthur Maria Rabenalt
+32600_25	is_in_sentence	sentence_32600
+32600_25	cc	32600_20
+32600_25	has_surface_form	and
+32600_26	is_in_sentence	sentence_32600
+32600_26	conj	32600_20
+32600_26	has_surface_form	starring
+32600_27	is_in_sentence	sentence_32600
+32600_27	compound	32600_28
+32600_27	has_surface_form	Ellen
+32600_28	is_in_sentence	sentence_32600
+32600_28	dobj	32600_26
+32600_28	has_surface_form	Schwanneke
+32600_29	is_in_sentence	sentence_32600
+32600_29	punct	32600_28
+32600_29	has_surface_form	,
+32600_30	is_in_sentence	sentence_32600
+32600_30	compound	32600_31
+32600_30	has_surface_form	Jakob
+32600_31	is_in_sentence	sentence_32600
+32600_31	appos	32600_28
+32600_31	has_surface_form	Tiedtke
+32600_32	is_in_sentence	sentence_32600
+32600_32	cc	32600_31
+32600_32	has_surface_form	and
+32600_33	is_in_sentence	sentence_32600
+32600_33	compound	32600_34
+32600_33	has_surface_form	Grethe
+32600_34	is_in_sentence	sentence_32600
+32600_34	conj	32600_31
+32600_34	has_surface_form	Weiser
+32600_35	is_in_sentence	sentence_32600
+32600_35	punct	32600_15
+32600_35	has_surface_form	.
+32600_36	is_in_sentence	sentence_32600
+32600_36	dep	32600_15
+32600_36	has_surface_form	
+Everything Will Be Better in the Morning	surface_form	Everything Will Be Better in the Morning
+Everything Will Be Better in the Morning	movie-has-director	Arthur Maria Rabenalt
+Arthur Maria Rabenalt	surface_form	Arthur Maria Rabenalt

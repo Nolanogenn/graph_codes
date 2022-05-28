@@ -1,0 +1,88 @@
+5979_0	is_in_sentence	sentence_5979
+5979_0	det	5979_2
+5979_0	has_surface_form	The
+5979_2	is_in_sentence	sentence_5979
+5979_2	nsubj	5979_16
+5979_2	has_surface_form	Library
+5979_2	part_of_entity	Cyprus Library
+5979_1	is_in_sentence	sentence_5979
+5979_1	compound	5979_2
+5979_1	has_surface_form	Cyprus
+5979_1	part_of_entity	Cyprus Library
+5979_16	is_in_sentence	sentence_5979
+5979_16	ROOT	5979_16
+5979_16	has_surface_form	is
+5979_3	is_in_sentence	sentence_5979
+5979_3	punct	5979_4
+5979_3	has_surface_form	(
+5979_4	is_in_sentence	sentence_5979
+5979_4	appos	5979_2
+5979_4	has_surface_form	Greek
+5979_5	is_in_sentence	sentence_5979
+5979_5	punct	5979_4
+5979_5	has_surface_form	:
+5979_6	is_in_sentence	sentence_5979
+5979_6	compound	5979_7
+5979_6	has_surface_form	Κυπριακή
+5979_7	is_in_sentence	sentence_5979
+5979_7	compound	5979_9
+5979_7	has_surface_form	Βιβλιοθήκη
+5979_9	is_in_sentence	sentence_5979
+5979_9	appos	5979_4
+5979_9	has_surface_form	Vivliothī́kī
+5979_8	is_in_sentence	sentence_5979
+5979_8	compound	5979_9
+5979_8	has_surface_form	Kypriakī́
+5979_10	is_in_sentence	sentence_5979
+5979_10	punct	5979_9
+5979_10	has_surface_form	,
+5979_11	is_in_sentence	sentence_5979
+5979_11	appos	5979_2
+5979_11	has_surface_form	Turkish
+5979_12	is_in_sentence	sentence_5979
+5979_12	punct	5979_11
+5979_12	has_surface_form	:
+5979_13	is_in_sentence	sentence_5979
+5979_13	compound	5979_14
+5979_13	has_surface_form	Kıbrıs
+5979_14	is_in_sentence	sentence_5979
+5979_14	appos	5979_11
+5979_14	has_surface_form	Kütüphanesi
+5979_15	is_in_sentence	sentence_5979
+5979_15	punct	5979_11
+5979_15	has_surface_form	)
+5979_17	is_in_sentence	sentence_5979
+5979_17	det	5979_19
+5979_17	has_surface_form	the
+5979_19	is_in_sentence	sentence_5979
+5979_19	attr	5979_16
+5979_19	has_surface_form	library
+5979_19	part_of_entity	national library
+5979_18	is_in_sentence	sentence_5979
+5979_18	amod	5979_19
+5979_18	has_surface_form	national
+5979_18	part_of_entity	national library
+5979_20	is_in_sentence	sentence_5979
+5979_20	prep	5979_19
+5979_20	has_surface_form	of
+5979_21	is_in_sentence	sentence_5979
+5979_21	det	5979_22
+5979_21	has_surface_form	the
+5979_22	is_in_sentence	sentence_5979
+5979_22	pobj	5979_20
+5979_22	has_surface_form	Republic
+5979_23	is_in_sentence	sentence_5979
+5979_23	prep	5979_22
+5979_23	has_surface_form	of
+5979_24	is_in_sentence	sentence_5979
+5979_24	pobj	5979_23
+5979_24	has_surface_form	Cyprus
+5979_25	is_in_sentence	sentence_5979
+5979_25	punct	5979_16
+5979_25	has_surface_form	.
+5979_26	is_in_sentence	sentence_5979
+5979_26	dep	5979_16
+5979_26	has_surface_form	
+Cyprus Library	surface_form	Cyprus Library
+Cyprus Library	has-type	national library
+national library	surface_form	national library

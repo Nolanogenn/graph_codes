@@ -1,0 +1,67 @@
+18846_0	is_in_sentence	sentence_18846
+18846_0	compound	18846_1
+18846_0	has_surface_form	Nothing
+18846_0	part_of_entity	Nothing Funny
+18846_1	is_in_sentence	sentence_18846
+18846_1	nsubj	18846_8
+18846_1	has_surface_form	Funny
+18846_1	part_of_entity	Nothing Funny
+18846_8	is_in_sentence	sentence_18846
+18846_8	ROOT	18846_8
+18846_8	has_surface_form	is
+18846_2	is_in_sentence	sentence_18846
+18846_2	punct	18846_3
+18846_2	has_surface_form	(
+18846_3	is_in_sentence	sentence_18846
+18846_3	parataxis	18846_1
+18846_3	has_surface_form	Polish
+18846_4	is_in_sentence	sentence_18846
+18846_4	punct	18846_3
+18846_4	has_surface_form	:
+18846_5	is_in_sentence	sentence_18846
+18846_5	compound	18846_6
+18846_5	has_surface_form	Nic
+18846_6	is_in_sentence	sentence_18846
+18846_6	appos	18846_3
+18846_6	has_surface_form	śmiesznego
+18846_7	is_in_sentence	sentence_18846
+18846_7	punct	18846_3
+18846_7	has_surface_form	)
+18846_9	is_in_sentence	sentence_18846
+18846_9	det	18846_13
+18846_9	has_surface_form	a
+18846_13	is_in_sentence	sentence_18846
+18846_13	attr	18846_8
+18846_13	has_surface_form	film
+18846_10	is_in_sentence	sentence_18846
+18846_10	nummod	18846_13
+18846_10	has_surface_form	1995
+18846_11	is_in_sentence	sentence_18846
+18846_11	amod	18846_13
+18846_11	has_surface_form	Polish
+18846_12	is_in_sentence	sentence_18846
+18846_12	compound	18846_13
+18846_12	has_surface_form	drama
+18846_14	is_in_sentence	sentence_18846
+18846_14	acl	18846_13
+18846_14	has_surface_form	directed
+18846_15	is_in_sentence	sentence_18846
+18846_15	agent	18846_14
+18846_15	has_surface_form	by
+18846_16	is_in_sentence	sentence_18846
+18846_16	compound	18846_17
+18846_16	has_surface_form	Marek
+18846_16	part_of_entity	Marek Koterski
+18846_17	is_in_sentence	sentence_18846
+18846_17	pobj	18846_15
+18846_17	has_surface_form	Koterski
+18846_17	part_of_entity	Marek Koterski
+18846_18	is_in_sentence	sentence_18846
+18846_18	punct	18846_8
+18846_18	has_surface_form	.
+18846_19	is_in_sentence	sentence_18846
+18846_19	dep	18846_8
+18846_19	has_surface_form	
+Nothing Funny	surface_form	Nothing Funny
+Nothing Funny	movie-has-director	Marek Koterski
+Marek Koterski	surface_form	Marek Koterski

@@ -1,0 +1,74 @@
+8538_0	is_in_sentence	sentence_8538
+8538_0	det	8538_1
+8538_0	has_surface_form	The
+8538_0	part_of_entity	The company
+8538_1	is_in_sentence	sentence_8538
+8538_1	poss	8538_4
+8538_1	has_surface_form	company
+8538_1	part_of_entity	The company
+8538_4	is_in_sentence	sentence_8538
+8538_4	nsubj	8538_5
+8538_4	has_surface_form	products
+8538_2	is_in_sentence	sentence_8538
+8538_2	case	8538_1
+8538_2	has_surface_form	's
+8538_3	is_in_sentence	sentence_8538
+8538_3	amod	8538_4
+8538_3	has_surface_form	first
+8538_5	is_in_sentence	sentence_8538
+8538_5	ROOT	8538_5
+8538_5	has_surface_form	were
+8538_6	is_in_sentence	sentence_8538
+8538_6	compound	8538_8
+8538_6	has_surface_form	commodity
+8538_8	is_in_sentence	sentence_8538
+8538_8	attr	8538_5
+8538_8	has_surface_form	additives
+8538_7	is_in_sentence	sentence_8538
+8538_7	compound	8538_8
+8538_7	has_surface_form	food
+8538_9	is_in_sentence	sentence_8538
+8538_9	punct	8538_8
+8538_9	has_surface_form	,
+8538_10	is_in_sentence	sentence_8538
+8538_10	amod	8538_11
+8538_10	has_surface_form	such
+8538_11	is_in_sentence	sentence_8538
+8538_11	prep	8538_8
+8538_11	has_surface_form	as
+8538_12	is_in_sentence	sentence_8538
+8538_12	det	8538_15
+8538_12	has_surface_form	the
+8538_15	is_in_sentence	sentence_8538
+8538_15	pobj	8538_11
+8538_15	has_surface_form	saccharin
+8538_15	part_of_entity	artificial sweetener saccharin
+8538_13	is_in_sentence	sentence_8538
+8538_13	amod	8538_15
+8538_13	has_surface_form	artificial
+8538_13	part_of_entity	artificial sweetener saccharin
+8538_14	is_in_sentence	sentence_8538
+8538_14	compound	8538_15
+8538_14	has_surface_form	sweetener
+8538_14	part_of_entity	artificial sweetener saccharin
+8538_16	is_in_sentence	sentence_8538
+8538_16	punct	8538_15
+8538_16	has_surface_form	,
+8538_17	is_in_sentence	sentence_8538
+8538_17	conj	8538_15
+8538_17	has_surface_form	caffeine
+8538_18	is_in_sentence	sentence_8538
+8538_18	cc	8538_17
+8538_18	has_surface_form	and
+8538_19	is_in_sentence	sentence_8538
+8538_19	conj	8538_17
+8538_19	has_surface_form	vanillin
+8538_20	is_in_sentence	sentence_8538
+8538_20	punct	8538_5
+8538_20	has_surface_form	.
+8538_21	is_in_sentence	sentence_8538
+8538_21	dep	8538_21
+8538_21	has_surface_form	
+The company	surface_form	The company
+The company	first-product	artificial sweetener saccharin
+artificial sweetener saccharin	surface_form	artificial sweetener saccharin

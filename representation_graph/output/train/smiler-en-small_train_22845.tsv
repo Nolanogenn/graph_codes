@@ -1,0 +1,56 @@
+22844_0	is_in_sentence	sentence_22844
+22844_0	compound	22844_1
+22844_0	has_surface_form	Dave
+22844_0	part_of_entity	Dave Buxton
+22844_1	is_in_sentence	sentence_22844
+22844_1	nsubj	22844_8
+22844_1	has_surface_form	Buxton
+22844_1	part_of_entity	Dave Buxton
+22844_8	is_in_sentence	sentence_22844
+22844_8	ROOT	22844_8
+22844_8	has_surface_form	is
+22844_2	is_in_sentence	sentence_22844
+22844_2	punct	22844_1
+22844_2	has_surface_form	(
+22844_3	is_in_sentence	sentence_22844
+22844_3	acl	22844_1
+22844_3	has_surface_form	born
+22844_4	is_in_sentence	sentence_22844
+22844_4	nummod	22844_5
+22844_4	has_surface_form	2
+22844_5	is_in_sentence	sentence_22844
+22844_5	npadvmod	22844_3
+22844_5	has_surface_form	April
+22844_6	is_in_sentence	sentence_22844
+22844_6	nummod	22844_5
+22844_6	has_surface_form	1952
+22844_7	is_in_sentence	sentence_22844
+22844_7	punct	22844_1
+22844_7	has_surface_form	)
+22844_9	is_in_sentence	sentence_22844
+22844_9	det	22844_12
+22844_9	has_surface_form	an
+22844_12	is_in_sentence	sentence_22844
+22844_12	attr	22844_8
+22844_12	has_surface_form	pianist
+22844_10	is_in_sentence	sentence_22844
+22844_10	amod	22844_12
+22844_10	has_surface_form	English
+22844_11	is_in_sentence	sentence_22844
+22844_11	compound	22844_12
+22844_11	is_entity	jazz
+jazz	surface_form	jazz
+22844_13	is_in_sentence	sentence_22844
+22844_13	cc	22844_12
+22844_13	has_surface_form	and
+22844_14	is_in_sentence	sentence_22844
+22844_14	conj	22844_12
+22844_14	has_surface_form	composer
+22844_15	is_in_sentence	sentence_22844
+22844_15	punct	22844_8
+22844_15	has_surface_form	.
+22844_16	is_in_sentence	sentence_22844
+22844_16	dep	22844_16
+22844_16	has_surface_form	
+Dave Buxton	surface_form	Dave Buxton
+Dave Buxton	has-genre	jazz

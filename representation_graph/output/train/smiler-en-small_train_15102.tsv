@@ -1,0 +1,71 @@
+15101_0	is_in_sentence	sentence_15101
+15101_0	nummod	15101_1
+15101_0	has_surface_form	24
+15101_0	part_of_entity	24 Weeks
+15101_1	is_in_sentence	sentence_15101
+15101_1	nsubj	15101_8
+15101_1	has_surface_form	Weeks
+15101_1	part_of_entity	24 Weeks
+15101_8	is_in_sentence	sentence_15101
+15101_8	ROOT	15101_8
+15101_8	has_surface_form	is
+15101_2	is_in_sentence	sentence_15101
+15101_2	punct	15101_6
+15101_2	has_surface_form	(
+15101_6	is_in_sentence	sentence_15101
+15101_6	appos	15101_1
+15101_6	has_surface_form	Wochen
+15101_3	is_in_sentence	sentence_15101
+15101_3	nmod	15101_6
+15101_3	has_surface_form	German
+15101_4	is_in_sentence	sentence_15101
+15101_4	punct	15101_6
+15101_4	has_surface_form	:
+15101_5	is_in_sentence	sentence_15101
+15101_5	nummod	15101_6
+15101_5	has_surface_form	24
+15101_7	is_in_sentence	sentence_15101
+15101_7	punct	15101_6
+15101_7	has_surface_form	)
+15101_9	is_in_sentence	sentence_15101
+15101_9	det	15101_13
+15101_9	has_surface_form	a
+15101_13	is_in_sentence	sentence_15101
+15101_13	attr	15101_8
+15101_13	has_surface_form	film
+15101_10	is_in_sentence	sentence_15101
+15101_10	nummod	15101_13
+15101_10	has_surface_form	2016
+15101_11	is_in_sentence	sentence_15101
+15101_11	amod	15101_13
+15101_11	has_surface_form	German
+15101_12	is_in_sentence	sentence_15101
+15101_12	compound	15101_13
+15101_12	has_surface_form	drama
+15101_14	is_in_sentence	sentence_15101
+15101_14	acl	15101_13
+15101_14	has_surface_form	directed
+15101_15	is_in_sentence	sentence_15101
+15101_15	agent	15101_14
+15101_15	has_surface_form	by
+15101_16	is_in_sentence	sentence_15101
+15101_16	compound	15101_18
+15101_16	has_surface_form	Anne
+15101_16	part_of_entity	Anne Zohra Berrached
+15101_18	is_in_sentence	sentence_15101
+15101_18	pobj	15101_15
+15101_18	has_surface_form	Berrached
+15101_18	part_of_entity	Anne Zohra Berrached
+15101_17	is_in_sentence	sentence_15101
+15101_17	compound	15101_18
+15101_17	has_surface_form	Zohra
+15101_17	part_of_entity	Anne Zohra Berrached
+15101_19	is_in_sentence	sentence_15101
+15101_19	punct	15101_8
+15101_19	has_surface_form	.
+15101_20	is_in_sentence	sentence_15101
+15101_20	dep	15101_20
+15101_20	has_surface_form	
+24 Weeks	surface_form	24 Weeks
+24 Weeks	movie-has-director	Anne Zohra Berrached
+Anne Zohra Berrached	surface_form	Anne Zohra Berrached

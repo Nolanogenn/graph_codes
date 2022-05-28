@@ -1,0 +1,68 @@
+31042_0	is_in_sentence	sentence_31042
+31042_0	det	31042_5
+31042_0	has_surface_form	The
+31042_5	is_in_sentence	sentence_31042
+31042_5	nsubj	31042_6
+31042_5	has_surface_form	System
+31042_5	part_of_entity	Palm Beach County Library System
+31042_1	is_in_sentence	sentence_31042
+31042_1	compound	31042_2
+31042_1	has_surface_form	Palm
+31042_1	part_of_entity	Palm Beach County Library System
+31042_2	is_in_sentence	sentence_31042
+31042_2	compound	31042_3
+31042_2	has_surface_form	Beach
+31042_2	part_of_entity	Palm Beach County Library System
+31042_3	is_in_sentence	sentence_31042
+31042_3	compound	31042_5
+31042_3	has_surface_form	County
+31042_3	part_of_entity	Palm Beach County Library System
+31042_4	is_in_sentence	sentence_31042
+31042_4	compound	31042_5
+31042_4	has_surface_form	Library
+31042_4	part_of_entity	Palm Beach County Library System
+31042_6	is_in_sentence	sentence_31042
+31042_6	ROOT	31042_6
+31042_6	has_surface_form	is
+31042_7	is_in_sentence	sentence_31042
+31042_7	det	31042_10
+31042_7	has_surface_form	the
+31042_10	is_in_sentence	sentence_31042
+31042_10	attr	31042_6
+31042_10	has_surface_form	system
+31042_10	part_of_entity	public library system
+31042_8	is_in_sentence	sentence_31042
+31042_8	amod	31042_9
+31042_8	has_surface_form	public
+31042_8	part_of_entity	public library system
+31042_9	is_in_sentence	sentence_31042
+31042_9	compound	31042_10
+31042_9	has_surface_form	library
+31042_9	part_of_entity	public library system
+31042_11	is_in_sentence	sentence_31042
+31042_11	prep	31042_10
+31042_11	has_surface_form	of
+31042_12	is_in_sentence	sentence_31042
+31042_12	compound	31042_13
+31042_12	has_surface_form	Palm
+31042_13	is_in_sentence	sentence_31042
+31042_13	compound	31042_14
+31042_13	has_surface_form	Beach
+31042_14	is_in_sentence	sentence_31042
+31042_14	pobj	31042_11
+31042_14	has_surface_form	County
+31042_15	is_in_sentence	sentence_31042
+31042_15	punct	31042_14
+31042_15	has_surface_form	,
+31042_16	is_in_sentence	sentence_31042
+31042_16	appos	31042_14
+31042_16	has_surface_form	Florida
+31042_17	is_in_sentence	sentence_31042
+31042_17	punct	31042_6
+31042_17	has_surface_form	.
+31042_18	is_in_sentence	sentence_31042
+31042_18	dep	31042_6
+31042_18	has_surface_form	
+Palm Beach County Library System	surface_form	Palm Beach County Library System
+Palm Beach County Library System	has-type	public library system
+public library system	surface_form	public library system

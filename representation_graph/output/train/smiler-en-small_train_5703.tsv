@@ -1,0 +1,62 @@
+5702_0	is_in_sentence	sentence_5702
+5702_0	compound	5702_1
+5702_0	has_surface_form	Leni
+5702_0	part_of_entity	Leni Harper
+5702_1	is_in_sentence	sentence_5702
+5702_1	nsubj	5702_2
+5702_1	has_surface_form	Harper
+5702_1	part_of_entity	Leni Harper
+5702_2	is_in_sentence	sentence_5702
+5702_2	ROOT	5702_2
+5702_2	has_surface_form	is
+5702_3	is_in_sentence	sentence_5702
+5702_3	det	5702_5
+5702_3	has_surface_form	a
+5702_5	is_in_sentence	sentence_5702
+5702_5	attr	5702_2
+5702_5	is_entity	actress
+5702_4	is_in_sentence	sentence_5702
+5702_4	amod	5702_5
+5702_4	has_surface_form	Scottish
+actress	surface_form	actress
+5702_6	is_in_sentence	sentence_5702
+5702_6	punct	5702_5
+5702_6	has_surface_form	,
+5702_7	is_in_sentence	sentence_5702
+5702_7	advmod	5702_8
+5702_7	has_surface_form	best
+5702_8	is_in_sentence	sentence_5702
+5702_8	acl	5702_5
+5702_8	has_surface_form	known
+5702_9	is_in_sentence	sentence_5702
+5702_9	prep	5702_8
+5702_9	has_surface_form	for
+5702_10	is_in_sentence	sentence_5702
+5702_10	pcomp	5702_9
+5702_10	has_surface_form	playing
+5702_11	is_in_sentence	sentence_5702
+5702_11	dobj	5702_10
+5702_11	has_surface_form	Maddie
+5702_12	is_in_sentence	sentence_5702
+5702_12	prep	5702_10
+5702_12	has_surface_form	in
+5702_13	is_in_sentence	sentence_5702
+5702_13	pobj	5702_12
+5702_13	has_surface_form	Me
+5702_14	is_in_sentence	sentence_5702
+5702_14	cc	5702_5
+5702_14	has_surface_form	And
+5702_15	is_in_sentence	sentence_5702
+5702_15	poss	5702_16
+5702_15	has_surface_form	My
+5702_16	is_in_sentence	sentence_5702
+5702_16	conj	5702_5
+5702_16	has_surface_form	Girl
+5702_17	is_in_sentence	sentence_5702
+5702_17	punct	5702_2
+5702_17	has_surface_form	.
+5702_18	is_in_sentence	sentence_5702
+5702_18	dep	5702_2
+5702_18	has_surface_form	
+Leni Harper	surface_form	Leni Harper
+Leni Harper	has-occupation	actress

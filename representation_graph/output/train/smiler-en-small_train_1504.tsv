@@ -1,0 +1,104 @@
+1503_0	is_in_sentence	sentence_1503
+1503_0	nsubj	1503_7
+1503_0	has_surface_form	Girls
+1503_0	part_of_entity	Girls of Paris
+1503_7	is_in_sentence	sentence_1503
+1503_7	nsubj	1503_11
+1503_7	has_surface_form	filles
+1503_1	is_in_sentence	sentence_1503
+1503_1	prep	1503_0
+1503_1	has_surface_form	of
+1503_1	part_of_entity	Girls of Paris
+1503_2	is_in_sentence	sentence_1503
+1503_2	pobj	1503_1
+1503_2	has_surface_form	Paris
+1503_2	part_of_entity	Girls of Paris
+1503_3	is_in_sentence	sentence_1503
+1503_3	punct	1503_4
+1503_3	has_surface_form	(
+1503_4	is_in_sentence	sentence_1503
+1503_4	appos	1503_0
+1503_4	has_surface_form	French
+1503_5	is_in_sentence	sentence_1503
+1503_5	punct	1503_4
+1503_5	has_surface_form	:
+1503_6	is_in_sentence	sentence_1503
+1503_6	nsubj	1503_7
+1503_6	has_surface_form	Jeunes
+1503_11	is_in_sentence	sentence_1503
+1503_11	ROOT	1503_11
+1503_11	has_surface_form	is
+1503_8	is_in_sentence	sentence_1503
+1503_8	nmod	1503_9
+1503_8	has_surface_form	de
+1503_9	is_in_sentence	sentence_1503
+1503_9	dobj	1503_7
+1503_9	has_surface_form	Paris
+1503_10	is_in_sentence	sentence_1503
+1503_10	punct	1503_7
+1503_10	has_surface_form	)
+1503_12	is_in_sentence	sentence_1503
+1503_12	det	1503_15
+1503_12	has_surface_form	a
+1503_15	is_in_sentence	sentence_1503
+1503_15	attr	1503_11
+1503_15	has_surface_form	film
+1503_13	is_in_sentence	sentence_1503
+1503_13	nummod	1503_15
+1503_13	has_surface_form	1936
+1503_14	is_in_sentence	sentence_1503
+1503_14	amod	1503_15
+1503_14	has_surface_form	French
+1503_16	is_in_sentence	sentence_1503
+1503_16	acl	1503_15
+1503_16	has_surface_form	directed
+1503_17	is_in_sentence	sentence_1503
+1503_17	agent	1503_16
+1503_17	has_surface_form	by
+1503_18	is_in_sentence	sentence_1503
+1503_18	compound	1503_19
+1503_18	has_surface_form	Claude
+1503_18	part_of_entity	Claude Vermorel
+1503_19	is_in_sentence	sentence_1503
+1503_19	pobj	1503_17
+1503_19	has_surface_form	Vermorel
+1503_19	part_of_entity	Claude Vermorel
+1503_20	is_in_sentence	sentence_1503
+1503_20	cc	1503_16
+1503_20	has_surface_form	and
+1503_21	is_in_sentence	sentence_1503
+1503_21	conj	1503_16
+1503_21	has_surface_form	starring
+1503_22	is_in_sentence	sentence_1503
+1503_22	compound	1503_23
+1503_22	has_surface_form	Michel
+1503_23	is_in_sentence	sentence_1503
+1503_23	dobj	1503_21
+1503_23	has_surface_form	Simon
+1503_24	is_in_sentence	sentence_1503
+1503_24	punct	1503_23
+1503_24	has_surface_form	,
+1503_25	is_in_sentence	sentence_1503
+1503_25	compound	1503_26
+1503_25	has_surface_form	Mireille
+1503_26	is_in_sentence	sentence_1503
+1503_26	conj	1503_23
+1503_26	has_surface_form	Balin
+1503_27	is_in_sentence	sentence_1503
+1503_27	cc	1503_26
+1503_27	has_surface_form	and
+1503_28	is_in_sentence	sentence_1503
+1503_28	compound	1503_29
+1503_28	has_surface_form	Paul
+1503_29	is_in_sentence	sentence_1503
+1503_29	conj	1503_26
+1503_29	has_surface_form	Azaïs
+1503_30	is_in_sentence	sentence_1503
+1503_30	punct	1503_11
+1503_30	has_surface_form	.
+1503_31	is_in_sentence	sentence_1503
+1503_31	dep	1503_31
+1503_31	has_surface_form	
+Girls of Paris	surface_form	Girls of Paris
+Girls of Paris	movie-has-director	Claude Vermorel
+Claude Vermorel	surface_form	Claude Vermorel

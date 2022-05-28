@@ -1,0 +1,44 @@
+32143_0	is_in_sentence	sentence_32143
+32143_0	compound	32143_1
+32143_0	has_surface_form	Lake
+32143_0	part_of_entity	Lake Biwa
+32143_1	is_in_sentence	sentence_32143
+32143_1	nsubj	32143_10
+32143_1	has_surface_form	Biwa
+32143_1	part_of_entity	Lake Biwa
+32143_10	is_in_sentence	sentence_32143
+32143_10	ROOT	32143_10
+32143_10	has_surface_form	covers
+32143_2	is_in_sentence	sentence_32143
+32143_2	punct	32143_1
+32143_2	has_surface_form	,
+32143_3	is_in_sentence	sentence_32143
+32143_3	det	32143_6
+32143_3	has_surface_form	the
+32143_6	is_in_sentence	sentence_32143
+32143_6	appos	32143_1
+32143_6	has_surface_form	lake
+32143_4	is_in_sentence	sentence_32143
+32143_4	amod	32143_6
+32143_4	has_surface_form	largest
+32143_5	is_in_sentence	sentence_32143
+32143_5	compound	32143_6
+32143_5	has_surface_form	freshwater
+32143_7	is_in_sentence	sentence_32143
+32143_7	prep	32143_6
+32143_7	has_surface_form	in
+32143_8	is_in_sentence	sentence_32143
+32143_8	pobj	32143_7
+32143_8	is_entity	Japan
+Japan	surface_form	Japan
+32143_9	is_in_sentence	sentence_32143
+32143_9	punct	32143_1
+32143_9	has_surface_form	,
+32143_11	is_in_sentence	sentence_32143
+32143_11	punct	32143_10
+32143_11	has_surface_form	.
+32143_12	is_in_sentence	sentence_32143
+32143_12	dep	32143_12
+32143_12	has_surface_form	
+Lake Biwa	surface_form	Lake Biwa
+Lake Biwa	has-tourist-attraction	Japan

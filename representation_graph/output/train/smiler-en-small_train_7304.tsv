@@ -1,0 +1,97 @@
+7303_0	is_in_sentence	sentence_7303
+7303_0	compound	7303_1
+7303_0	has_surface_form	Matt
+7303_0	part_of_entity	Matt Brady
+7303_1	is_in_sentence	sentence_7303
+7303_1	nsubj	7303_9
+7303_1	has_surface_form	Brady
+7303_1	part_of_entity	Matt Brady
+7303_9	is_in_sentence	sentence_7303
+7303_9	ROOT	7303_9
+7303_9	has_surface_form	is
+7303_2	is_in_sentence	sentence_7303
+7303_2	punct	7303_1
+7303_2	has_surface_form	(
+7303_3	is_in_sentence	sentence_7303
+7303_3	acl	7303_1
+7303_3	has_surface_form	born
+7303_4	is_in_sentence	sentence_7303
+7303_4	npadvmod	7303_3
+7303_4	has_surface_form	October
+7303_5	is_in_sentence	sentence_7303
+7303_5	nummod	7303_4
+7303_5	has_surface_form	1
+7303_6	is_in_sentence	sentence_7303
+7303_6	punct	7303_4
+7303_6	has_surface_form	,
+7303_7	is_in_sentence	sentence_7303
+7303_7	nummod	7303_4
+7303_7	has_surface_form	1965
+7303_8	is_in_sentence	sentence_7303
+7303_8	punct	7303_1
+7303_8	has_surface_form	)
+7303_10	is_in_sentence	sentence_7303
+7303_10	det	7303_14
+7303_10	has_surface_form	an
+7303_14	is_in_sentence	sentence_7303
+7303_14	attr	7303_9
+7303_14	has_surface_form	coach
+7303_14	part_of_entity	basketball coach
+7303_11	is_in_sentence	sentence_7303
+7303_11	amod	7303_14
+7303_11	has_surface_form	American
+7303_12	is_in_sentence	sentence_7303
+7303_12	compound	7303_13
+7303_12	has_surface_form	college
+7303_13	is_in_sentence	sentence_7303
+7303_13	compound	7303_14
+7303_13	has_surface_form	basketball
+7303_13	part_of_entity	basketball coach
+7303_15	is_in_sentence	sentence_7303
+7303_15	nsubj	7303_16
+7303_15	has_surface_form	who
+7303_16	is_in_sentence	sentence_7303
+7303_16	relcl	7303_14
+7303_16	has_surface_form	is
+7303_17	is_in_sentence	sentence_7303
+7303_17	advmod	7303_16
+7303_17	has_surface_form	currently
+7303_18	is_in_sentence	sentence_7303
+7303_18	det	7303_20
+7303_18	has_surface_form	an
+7303_20	is_in_sentence	sentence_7303
+7303_20	attr	7303_16
+7303_20	has_surface_form	coach
+7303_19	is_in_sentence	sentence_7303
+7303_19	amod	7303_20
+7303_19	has_surface_form	assistant
+7303_21	is_in_sentence	sentence_7303
+7303_21	prep	7303_20
+7303_21	has_surface_form	for
+7303_22	is_in_sentence	sentence_7303
+7303_22	det	7303_24
+7303_22	has_surface_form	the
+7303_24	is_in_sentence	sentence_7303
+7303_24	poss	7303_27
+7303_24	has_surface_form	men
+7303_23	is_in_sentence	sentence_7303
+7303_23	compound	7303_24
+7303_23	has_surface_form	Maryland
+7303_27	is_in_sentence	sentence_7303
+7303_27	pobj	7303_21
+7303_27	has_surface_form	team
+7303_25	is_in_sentence	sentence_7303
+7303_25	case	7303_24
+7303_25	has_surface_form	's
+7303_26	is_in_sentence	sentence_7303
+7303_26	compound	7303_27
+7303_26	has_surface_form	basketball
+7303_28	is_in_sentence	sentence_7303
+7303_28	punct	7303_9
+7303_28	has_surface_form	.
+7303_29	is_in_sentence	sentence_7303
+7303_29	dep	7303_29
+7303_29	has_surface_form	
+Matt Brady	surface_form	Matt Brady
+Matt Brady	has-type	basketball coach
+basketball coach	surface_form	basketball coach

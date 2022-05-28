@@ -1,0 +1,107 @@
+13011_0	is_in_sentence	sentence_13011
+13011_0	compound	13011_1
+13011_0	has_surface_form	Tevester
+13011_0	part_of_entity	Tevester Anderson
+13011_1	is_in_sentence	sentence_13011
+13011_1	nsubj	13011_9
+13011_1	has_surface_form	Anderson
+13011_1	part_of_entity	Tevester Anderson
+13011_9	is_in_sentence	sentence_13011
+13011_9	ROOT	13011_9
+13011_9	has_surface_form	is
+13011_2	is_in_sentence	sentence_13011
+13011_2	punct	13011_3
+13011_2	has_surface_form	(
+13011_3	is_in_sentence	sentence_13011
+13011_3	acl	13011_1
+13011_3	has_surface_form	born
+13011_4	is_in_sentence	sentence_13011
+13011_4	npadvmod	13011_3
+13011_4	has_surface_form	February
+13011_5	is_in_sentence	sentence_13011
+13011_5	nummod	13011_4
+13011_5	has_surface_form	25
+13011_6	is_in_sentence	sentence_13011
+13011_6	punct	13011_4
+13011_6	has_surface_form	,
+13011_7	is_in_sentence	sentence_13011
+13011_7	nummod	13011_4
+13011_7	has_surface_form	1937
+13011_8	is_in_sentence	sentence_13011
+13011_8	punct	13011_3
+13011_8	has_surface_form	)
+13011_10	is_in_sentence	sentence_13011
+13011_10	det	13011_15
+13011_10	has_surface_form	a
+13011_15	is_in_sentence	sentence_13011
+13011_15	attr	13011_9
+13011_15	has_surface_form	coach
+13011_15	part_of_entity	college basketball coach
+13011_11	is_in_sentence	sentence_13011
+13011_11	amod	13011_15
+13011_11	has_surface_form	retired
+13011_12	is_in_sentence	sentence_13011
+13011_12	amod	13011_15
+13011_12	has_surface_form	American
+13011_13	is_in_sentence	sentence_13011
+13011_13	compound	13011_14
+13011_13	has_surface_form	college
+13011_13	part_of_entity	college basketball coach
+13011_14	is_in_sentence	sentence_13011
+13011_14	compound	13011_15
+13011_14	has_surface_form	basketball
+13011_14	part_of_entity	college basketball coach
+13011_16	is_in_sentence	sentence_13011
+13011_16	cc	13011_15
+13011_16	has_surface_form	and
+13011_17	is_in_sentence	sentence_13011
+13011_17	amod	13011_18
+13011_17	has_surface_form	former
+13011_18	is_in_sentence	sentence_13011
+13011_18	poss	13011_22
+13011_18	has_surface_form	men
+13011_22	is_in_sentence	sentence_13011
+13011_22	conj	13011_15
+13011_22	has_surface_form	coach
+13011_19	is_in_sentence	sentence_13011
+13011_19	case	13011_18
+13011_19	has_surface_form	's
+13011_20	is_in_sentence	sentence_13011
+13011_20	compound	13011_21
+13011_20	has_surface_form	basketball
+13011_21	is_in_sentence	sentence_13011
+13011_21	compound	13011_22
+13011_21	has_surface_form	head
+13011_23	is_in_sentence	sentence_13011
+13011_23	prep	13011_22
+13011_23	has_surface_form	at
+13011_24	is_in_sentence	sentence_13011
+13011_24	compound	13011_26
+13011_24	has_surface_form	Jackson
+13011_26	is_in_sentence	sentence_13011
+13011_26	pobj	13011_23
+13011_26	has_surface_form	University
+13011_25	is_in_sentence	sentence_13011
+13011_25	compound	13011_26
+13011_25	has_surface_form	State
+13011_27	is_in_sentence	sentence_13011
+13011_27	cc	13011_26
+13011_27	has_surface_form	and
+13011_28	is_in_sentence	sentence_13011
+13011_28	compound	13011_29
+13011_28	has_surface_form	Murray
+13011_29	is_in_sentence	sentence_13011
+13011_29	compound	13011_30
+13011_29	has_surface_form	State
+13011_30	is_in_sentence	sentence_13011
+13011_30	conj	13011_26
+13011_30	has_surface_form	University
+13011_31	is_in_sentence	sentence_13011
+13011_31	punct	13011_9
+13011_31	has_surface_form	.
+13011_32	is_in_sentence	sentence_13011
+13011_32	dep	13011_9
+13011_32	has_surface_form	
+Tevester Anderson	surface_form	Tevester Anderson
+Tevester Anderson	has-type	college basketball coach
+college basketball coach	surface_form	college basketball coach

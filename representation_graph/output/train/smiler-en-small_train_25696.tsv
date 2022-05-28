@@ -1,0 +1,70 @@
+25695_0	is_in_sentence	sentence_25695
+25695_0	compound	25695_3
+25695_0	has_surface_form	CEU
+25695_0	part_of_entity	CEU San Pablo University
+25695_3	is_in_sentence	sentence_25695
+25695_3	nsubj	25695_12
+25695_3	has_surface_form	University
+25695_3	part_of_entity	CEU San Pablo University
+25695_1	is_in_sentence	sentence_25695
+25695_1	compound	25695_2
+25695_1	has_surface_form	San
+25695_1	part_of_entity	CEU San Pablo University
+25695_2	is_in_sentence	sentence_25695
+25695_2	compound	25695_3
+25695_2	has_surface_form	Pablo
+25695_2	part_of_entity	CEU San Pablo University
+25695_12	is_in_sentence	sentence_25695
+25695_12	ROOT	25695_12
+25695_12	has_surface_form	is
+25695_4	is_in_sentence	sentence_25695
+25695_4	punct	25695_5
+25695_4	has_surface_form	(
+25695_5	is_in_sentence	sentence_25695
+25695_5	appos	25695_3
+25695_5	has_surface_form	Spanish
+25695_6	is_in_sentence	sentence_25695
+25695_6	punct	25695_5
+25695_6	has_surface_form	:
+25695_7	is_in_sentence	sentence_25695
+25695_7	compound	25695_8
+25695_7	has_surface_form	Universidad
+25695_8	is_in_sentence	sentence_25695
+25695_8	compound	25695_10
+25695_8	has_surface_form	CEU
+25695_10	is_in_sentence	sentence_25695
+25695_10	appos	25695_3
+25695_10	has_surface_form	Pablo
+25695_9	is_in_sentence	sentence_25695
+25695_9	compound	25695_10
+25695_9	has_surface_form	San
+25695_11	is_in_sentence	sentence_25695
+25695_11	punct	25695_3
+25695_11	has_surface_form	)
+25695_13	is_in_sentence	sentence_25695
+25695_13	det	25695_16
+25695_13	has_surface_form	a
+25695_16	is_in_sentence	sentence_25695
+25695_16	attr	25695_12
+25695_16	has_surface_form	university
+25695_14	is_in_sentence	sentence_25695
+25695_14	amod	25695_16
+25695_14	has_surface_form	private
+25695_15	is_in_sentence	sentence_25695
+25695_15	compound	25695_16
+25695_15	has_surface_form	Catholic
+25695_17	is_in_sentence	sentence_25695
+25695_17	prep	25695_16
+25695_17	has_surface_form	in
+25695_18	is_in_sentence	sentence_25695
+25695_18	pobj	25695_17
+25695_18	is_entity	Madrid
+Madrid	surface_form	Madrid
+25695_19	is_in_sentence	sentence_25695
+25695_19	punct	25695_12
+25695_19	has_surface_form	.
+25695_20	is_in_sentence	sentence_25695
+25695_20	dep	25695_20
+25695_20	has_surface_form	
+CEU San Pablo University	surface_form	CEU San Pablo University
+CEU San Pablo University	is-where	Madrid

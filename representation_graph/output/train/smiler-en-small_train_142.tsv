@@ -1,0 +1,85 @@
+141_0	is_in_sentence	sentence_141
+141_0	det	141_2
+141_0	has_surface_form	The
+141_2	is_in_sentence	sentence_141
+141_2	nsubj	141_3
+141_2	has_surface_form	mule
+141_2	part_of_entity	spinning mule
+141_1	is_in_sentence	sentence_141
+141_1	compound	141_2
+141_1	has_surface_form	spinning
+141_1	part_of_entity	spinning mule
+141_3	is_in_sentence	sentence_141
+141_3	ROOT	141_3
+141_3	has_surface_form	is
+141_4	is_in_sentence	sentence_141
+141_4	det	141_5
+141_4	has_surface_form	a
+141_5	is_in_sentence	sentence_141
+141_5	attr	141_3
+141_5	has_surface_form	machine
+141_6	is_in_sentence	sentence_141
+141_6	acl	141_5
+141_6	has_surface_form	used
+141_7	is_in_sentence	sentence_141
+141_7	aux	141_8
+141_7	has_surface_form	to
+141_8	is_in_sentence	sentence_141
+141_8	xcomp	141_6
+141_8	has_surface_form	spin
+141_9	is_in_sentence	sentence_141
+141_9	dobj	141_8
+141_9	has_surface_form	cotton
+141_10	is_in_sentence	sentence_141
+141_10	cc	141_9
+141_10	has_surface_form	and
+141_11	is_in_sentence	sentence_141
+141_11	amod	141_12
+141_11	has_surface_form	other
+141_12	is_in_sentence	sentence_141
+141_12	conj	141_9
+141_12	has_surface_form	fibres
+141_13	is_in_sentence	sentence_141
+141_13	punct	141_3
+141_13	has_surface_form	.
+141_14	is_in_sentence	sentence_141
+141_14	nsubjpass	141_16
+141_14	has_surface_form	It
+141_16	is_in_sentence	sentence_141
+141_16	ROOT	141_16
+141_16	has_surface_form	invented
+141_15	is_in_sentence	sentence_141
+141_15	auxpass	141_16
+141_15	has_surface_form	was
+141_17	is_in_sentence	sentence_141
+141_17	prep	141_16
+141_17	has_surface_form	between
+141_18	is_in_sentence	sentence_141
+141_18	pobj	141_17
+141_18	has_surface_form	1775
+141_19	is_in_sentence	sentence_141
+141_19	cc	141_18
+141_19	has_surface_form	and
+141_20	is_in_sentence	sentence_141
+141_20	conj	141_18
+141_20	has_surface_form	1779
+141_21	is_in_sentence	sentence_141
+141_21	agent	141_16
+141_21	has_surface_form	by
+141_22	is_in_sentence	sentence_141
+141_22	compound	141_23
+141_22	has_surface_form	Samuel
+141_22	part_of_entity	Samuel Crompton
+141_23	is_in_sentence	sentence_141
+141_23	pobj	141_21
+141_23	has_surface_form	Crompton
+141_23	part_of_entity	Samuel Crompton
+141_24	is_in_sentence	sentence_141
+141_24	punct	141_16
+141_24	has_surface_form	.
+141_25	is_in_sentence	sentence_141
+141_25	dep	141_25
+141_25	has_surface_form	
+spinning mule	surface_form	spinning mule
+spinning mule	invented-by	Samuel Crompton
+Samuel Crompton	surface_form	Samuel Crompton

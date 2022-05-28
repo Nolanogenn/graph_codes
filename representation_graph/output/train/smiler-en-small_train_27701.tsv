@@ -1,0 +1,41 @@
+27700_0	is_in_sentence	sentence_27700
+27700_0	compound	27700_1
+27700_0	has_surface_form	Faye
+27700_0	part_of_entity	Faye Carol
+27700_1	is_in_sentence	sentence_27700
+27700_1	nsubj	27700_2
+27700_1	has_surface_form	Carol
+27700_1	part_of_entity	Faye Carol
+27700_2	is_in_sentence	sentence_27700
+27700_2	ROOT	27700_2
+27700_2	has_surface_form	is
+27700_3	is_in_sentence	sentence_27700
+27700_3	det	27700_7
+27700_3	has_surface_form	a
+27700_7	is_in_sentence	sentence_27700
+27700_7	attr	27700_2
+27700_7	has_surface_form	singer
+27700_4	is_in_sentence	sentence_27700
+27700_4	nmod	27700_7
+27700_4	has_surface_form	jazz
+27700_5	is_in_sentence	sentence_27700
+27700_5	cc	27700_4
+27700_5	has_surface_form	and
+27700_6	is_in_sentence	sentence_27700
+27700_6	conj	27700_4
+27700_6	is_entity	blues
+blues	surface_form	blues
+27700_8	is_in_sentence	sentence_27700
+27700_8	prep	27700_7
+27700_8	has_surface_form	from
+27700_9	is_in_sentence	sentence_27700
+27700_9	pobj	27700_8
+27700_9	has_surface_form	Mississippi
+27700_10	is_in_sentence	sentence_27700
+27700_10	punct	27700_2
+27700_10	has_surface_form	.
+27700_11	is_in_sentence	sentence_27700
+27700_11	dep	27700_11
+27700_11	has_surface_form	
+Faye Carol	surface_form	Faye Carol
+Faye Carol	has-genre	blues

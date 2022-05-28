@@ -1,0 +1,69 @@
+10142_0	is_in_sentence	sentence_10142
+10142_0	compound	10142_1
+10142_0	has_surface_form	Algernon
+10142_0	part_of_entity	Algernon Sydney Thelwall MA
+10142_1	is_in_sentence	sentence_10142
+10142_1	compound	10142_3
+10142_1	has_surface_form	Sydney
+10142_1	part_of_entity	Algernon Sydney Thelwall MA
+10142_3	is_in_sentence	sentence_10142
+10142_3	nsubj	10142_5
+10142_3	has_surface_form	MA
+10142_3	part_of_entity	Algernon Sydney Thelwall MA
+10142_2	is_in_sentence	sentence_10142
+10142_2	compound	10142_3
+10142_2	has_surface_form	Thelwall
+10142_2	part_of_entity	Algernon Sydney Thelwall MA
+10142_5	is_in_sentence	sentence_10142
+10142_5	ROOT	10142_5
+10142_5	has_surface_form	was
+10142_4	is_in_sentence	sentence_10142
+10142_4	punct	10142_3
+10142_4	has_surface_form	,
+10142_6	is_in_sentence	sentence_10142
+10142_6	det	10142_8
+10142_6	has_surface_form	the
+10142_8	is_in_sentence	sentence_10142
+10142_8	attr	10142_5
+10142_8	has_surface_form	son
+10142_7	is_in_sentence	sentence_10142
+10142_7	amod	10142_8
+10142_7	has_surface_form	eldest
+10142_9	is_in_sentence	sentence_10142
+10142_9	prep	10142_8
+10142_9	has_surface_form	of
+10142_10	is_in_sentence	sentence_10142
+10142_10	det	10142_11
+10142_10	has_surface_form	the
+10142_11	is_in_sentence	sentence_10142
+10142_11	pobj	10142_9
+10142_11	has_surface_form	poet
+10142_12	is_in_sentence	sentence_10142
+10142_12	punct	10142_11
+10142_12	has_surface_form	,
+10142_13	is_in_sentence	sentence_10142
+10142_13	conj	10142_11
+10142_13	has_surface_form	radical
+10142_14	is_in_sentence	sentence_10142
+10142_14	cc	10142_13
+10142_14	has_surface_form	and
+10142_15	is_in_sentence	sentence_10142
+10142_15	conj	10142_13
+10142_15	has_surface_form	orator
+10142_16	is_in_sentence	sentence_10142
+10142_16	compound	10142_17
+10142_16	has_surface_form	John
+10142_16	part_of_entity	John Thelwall
+10142_17	is_in_sentence	sentence_10142
+10142_17	pobj	10142_9
+10142_17	has_surface_form	Thelwall
+10142_17	part_of_entity	John Thelwall
+10142_18	is_in_sentence	sentence_10142
+10142_18	punct	10142_5
+10142_18	has_surface_form	.
+10142_19	is_in_sentence	sentence_10142
+10142_19	dep	10142_19
+10142_19	has_surface_form	
+Algernon Sydney Thelwall MA	surface_form	Algernon Sydney Thelwall MA
+Algernon Sydney Thelwall MA	has-parent	John Thelwall
+John Thelwall	surface_form	John Thelwall

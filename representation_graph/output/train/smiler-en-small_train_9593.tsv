@@ -1,0 +1,50 @@
+9592_0	is_in_sentence	sentence_9592
+9592_0	compound	9592_1
+9592_0	has_surface_form	Dorset
+9592_0	part_of_entity	Dorset College
+9592_1	is_in_sentence	sentence_9592
+9592_1	nsubj	9592_2
+9592_1	has_surface_form	College
+9592_1	part_of_entity	Dorset College
+9592_2	is_in_sentence	sentence_9592
+9592_2	ROOT	9592_2
+9592_2	has_surface_form	is
+9592_3	is_in_sentence	sentence_9592
+9592_3	det	9592_5
+9592_3	has_surface_form	a
+9592_5	is_in_sentence	sentence_9592
+9592_5	attr	9592_2
+9592_5	is_entity	college
+9592_4	is_in_sentence	sentence_9592
+9592_4	amod	9592_5
+9592_4	has_surface_form	private
+college	surface_form	college
+9592_6	is_in_sentence	sentence_9592
+9592_6	punct	9592_5
+9592_6	has_surface_form	,
+9592_7	is_in_sentence	sentence_9592
+9592_7	acl	9592_5
+9592_7	has_surface_form	located
+9592_8	is_in_sentence	sentence_9592
+9592_8	prep	9592_7
+9592_8	has_surface_form	on
+9592_9	is_in_sentence	sentence_9592
+9592_9	det	9592_10
+9592_9	has_surface_form	the
+9592_10	is_in_sentence	sentence_9592
+9592_10	pobj	9592_8
+9592_10	has_surface_form	northside
+9592_11	is_in_sentence	sentence_9592
+9592_11	prep	9592_10
+9592_11	has_surface_form	of
+9592_12	is_in_sentence	sentence_9592
+9592_12	pobj	9592_11
+9592_12	has_surface_form	Dublin
+9592_13	is_in_sentence	sentence_9592
+9592_13	punct	9592_2
+9592_13	has_surface_form	.
+9592_14	is_in_sentence	sentence_9592
+9592_14	dep	9592_2
+9592_14	has_surface_form	
+Dorset College	surface_form	Dorset College
+Dorset College	has-type	college

@@ -1,0 +1,52 @@
+31946_0	is_in_sentence	sentence_31946
+31946_0	compound	31946_1
+31946_0	has_surface_form	Byte
+31946_0	part_of_entity	Byte Records
+31946_1	is_in_sentence	sentence_31946
+31946_1	nsubj	31946_2
+31946_1	has_surface_form	Records
+31946_1	part_of_entity	Byte Records
+31946_2	is_in_sentence	sentence_31946
+31946_2	ROOT	31946_2
+31946_2	has_surface_form	is
+31946_3	is_in_sentence	sentence_31946
+31946_3	det	31946_8
+31946_3	has_surface_form	a
+31946_8	is_in_sentence	sentence_31946
+31946_8	nsubj	31946_9
+31946_8	has_surface_form	label
+31946_4	is_in_sentence	sentence_31946
+31946_4	npadvmod	31946_5
+31946_4	has_surface_form	Belgian
+31946_5	is_in_sentence	sentence_31946
+31946_5	amod	31946_8
+31946_5	has_surface_form	based
+31946_6	is_in_sentence	sentence_31946
+31946_6	amod	31946_8
+31946_6	has_surface_form	independent
+31946_7	is_in_sentence	sentence_31946
+31946_7	compound	31946_8
+31946_7	has_surface_form	music
+31946_9	is_in_sentence	sentence_31946
+31946_9	ccomp	31946_2
+31946_9	has_surface_form	specialized
+31946_10	is_in_sentence	sentence_31946
+31946_10	prep	31946_9
+31946_10	has_surface_form	into
+31946_11	is_in_sentence	sentence_31946
+31946_11	compound	31946_12
+31946_11	has_surface_form	dance
+31946_11	part_of_entity	dance music
+31946_12	is_in_sentence	sentence_31946
+31946_12	pobj	31946_10
+31946_12	has_surface_form	music
+31946_12	part_of_entity	dance music
+31946_13	is_in_sentence	sentence_31946
+31946_13	punct	31946_2
+31946_13	has_surface_form	.
+31946_14	is_in_sentence	sentence_31946
+31946_14	dep	31946_14
+31946_14	has_surface_form	
+Byte Records	surface_form	Byte Records
+Byte Records	has-genre	dance music
+dance music	surface_form	dance music

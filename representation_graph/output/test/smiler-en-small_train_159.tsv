@@ -1,0 +1,68 @@
+158_0	is_in_sentence	sentence_158
+158_0	compound	158_1
+158_0	has_surface_form	Wesleyan
+158_0	part_of_entity	Wesleyan College
+158_1	is_in_sentence	sentence_158
+158_1	nsubj	158_2
+158_1	has_surface_form	College
+158_1	part_of_entity	Wesleyan College
+158_2	is_in_sentence	sentence_158
+158_2	ROOT	158_2
+158_2	has_surface_form	is
+158_3	is_in_sentence	sentence_158
+158_3	det	158_10
+158_3	has_surface_form	a
+158_10	is_in_sentence	sentence_158
+158_10	attr	158_2
+158_10	has_surface_form	college
+158_4	is_in_sentence	sentence_158
+158_4	amod	158_10
+158_4	has_surface_form	private
+158_5	is_in_sentence	sentence_158
+158_5	punct	158_10
+158_5	has_surface_form	,
+158_6	is_in_sentence	sentence_158
+158_6	amod	158_7
+158_6	has_surface_form	liberal
+158_7	is_in_sentence	sentence_158
+158_7	compound	158_8
+158_7	has_surface_form	arts
+158_8	is_in_sentence	sentence_158
+158_8	poss	158_10
+158_8	has_surface_form	women
+158_9	is_in_sentence	sentence_158
+158_9	case	158_8
+158_9	has_surface_form	's
+158_11	is_in_sentence	sentence_158
+158_11	acl	158_10
+158_11	has_surface_form	located
+158_12	is_in_sentence	sentence_158
+158_12	prep	158_11
+158_12	has_surface_form	in
+158_13	is_in_sentence	sentence_158
+158_13	pobj	158_12
+158_13	has_surface_form	Macon
+158_14	is_in_sentence	sentence_158
+158_14	punct	158_13
+158_14	has_surface_form	,
+158_15	is_in_sentence	sentence_158
+158_15	conj	158_13
+158_15	has_surface_form	Georgia
+158_16	is_in_sentence	sentence_158
+158_16	punct	158_15
+158_16	has_surface_form	,
+158_17	is_in_sentence	sentence_158
+158_17	compound	158_18
+158_17	has_surface_form	United
+158_18	is_in_sentence	sentence_158
+158_18	conj	158_15
+158_18	has_surface_form	States
+158_19	is_in_sentence	sentence_158
+158_19	punct	158_2
+158_19	has_surface_form	.
+158_20	is_in_sentence	sentence_158
+158_20	dep	158_2
+158_20	has_surface_form	
+Wesleyan College	surface_form	Wesleyan College
+Wesleyan College	is-where	Macon, Georgia
+Macon, Georgia	surface_form	Macon, Georgia

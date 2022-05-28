@@ -1,0 +1,67 @@
+661_0	is_in_sentence	sentence_661
+661_0	det	661_4
+661_0	has_surface_form	The
+661_4	is_in_sentence	sentence_661
+661_4	nsubj	661_8
+661_4	has_surface_form	Department
+661_4	part_of_entity	New York State Department of Mental Hygiene
+661_1	is_in_sentence	sentence_661
+661_1	compound	661_2
+661_1	has_surface_form	New
+661_1	part_of_entity	New York State Department of Mental Hygiene
+661_2	is_in_sentence	sentence_661
+661_2	compound	661_3
+661_2	has_surface_form	York
+661_2	part_of_entity	New York State Department of Mental Hygiene
+661_3	is_in_sentence	sentence_661
+661_3	compound	661_4
+661_3	has_surface_form	State
+661_3	part_of_entity	New York State Department of Mental Hygiene
+661_8	is_in_sentence	sentence_661
+661_8	ROOT	661_8
+661_8	has_surface_form	is
+661_5	is_in_sentence	sentence_661
+661_5	prep	661_4
+661_5	has_surface_form	of
+661_5	part_of_entity	New York State Department of Mental Hygiene
+661_6	is_in_sentence	sentence_661
+661_6	compound	661_7
+661_6	has_surface_form	Mental
+661_6	part_of_entity	New York State Department of Mental Hygiene
+661_7	is_in_sentence	sentence_661
+661_7	pobj	661_5
+661_7	has_surface_form	Hygiene
+661_7	part_of_entity	New York State Department of Mental Hygiene
+661_9	is_in_sentence	sentence_661
+661_9	det	661_10
+661_9	has_surface_form	a
+661_10	is_in_sentence	sentence_661
+661_10	attr	661_8
+661_10	is_entity	department
+department	surface_form	department
+661_11	is_in_sentence	sentence_661
+661_11	prep	661_10
+661_11	has_surface_form	of
+661_12	is_in_sentence	sentence_661
+661_12	det	661_16
+661_12	has_surface_form	the
+661_16	is_in_sentence	sentence_661
+661_16	pobj	661_11
+661_16	has_surface_form	government
+661_13	is_in_sentence	sentence_661
+661_13	compound	661_14
+661_13	has_surface_form	New
+661_14	is_in_sentence	sentence_661
+661_14	compound	661_16
+661_14	has_surface_form	York
+661_15	is_in_sentence	sentence_661
+661_15	compound	661_16
+661_15	has_surface_form	state
+661_17	is_in_sentence	sentence_661
+661_17	punct	661_8
+661_17	has_surface_form	.
+661_18	is_in_sentence	sentence_661
+661_18	dep	661_18
+661_18	has_surface_form	
+New York State Department of Mental Hygiene	surface_form	New York State Department of Mental Hygiene
+New York State Department of Mental Hygiene	has-type	department

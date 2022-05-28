@@ -1,0 +1,85 @@
+24273_0	is_in_sentence	sentence_24273
+24273_0	compound	24273_1
+24273_0	has_surface_form	Aline
+24273_0	part_of_entity	Aline Chrétien
+24273_1	is_in_sentence	sentence_24273
+24273_1	nsubj	24273_12
+24273_1	has_surface_form	Chrétien
+24273_1	part_of_entity	Aline Chrétien
+24273_12	is_in_sentence	sentence_24273
+24273_12	ROOT	24273_12
+24273_12	has_surface_form	is
+24273_2	is_in_sentence	sentence_24273
+24273_2	punct	24273_4
+24273_2	has_surface_form	(
+24273_4	is_in_sentence	sentence_24273
+24273_4	appos	24273_1
+24273_4	has_surface_form	Chaîné
+24273_3	is_in_sentence	sentence_24273
+24273_3	compound	24273_4
+24273_3	has_surface_form	née
+24273_5	is_in_sentence	sentence_24273
+24273_5	punct	24273_4
+24273_5	has_surface_form	;
+24273_6	is_in_sentence	sentence_24273
+24273_6	acl	24273_4
+24273_6	has_surface_form	born
+24273_7	is_in_sentence	sentence_24273
+24273_7	npadvmod	24273_6
+24273_7	has_surface_form	May
+24273_8	is_in_sentence	sentence_24273
+24273_8	nummod	24273_7
+24273_8	has_surface_form	14
+24273_9	is_in_sentence	sentence_24273
+24273_9	punct	24273_7
+24273_9	has_surface_form	,
+24273_10	is_in_sentence	sentence_24273
+24273_10	nummod	24273_7
+24273_10	has_surface_form	1936
+24273_11	is_in_sentence	sentence_24273
+24273_11	punct	24273_4
+24273_11	has_surface_form	)
+24273_13	is_in_sentence	sentence_24273
+24273_13	det	24273_14
+24273_13	has_surface_form	the
+24273_14	is_in_sentence	sentence_24273
+24273_14	attr	24273_12
+24273_14	has_surface_form	wife
+24273_15	is_in_sentence	sentence_24273
+24273_15	prep	24273_14
+24273_15	has_surface_form	of
+24273_16	is_in_sentence	sentence_24273
+24273_16	poss	24273_20
+24273_16	has_surface_form	Canada
+24273_20	is_in_sentence	sentence_24273
+24273_20	pobj	24273_15
+24273_20	has_surface_form	Minister
+24273_17	is_in_sentence	sentence_24273
+24273_17	case	24273_16
+24273_17	has_surface_form	's
+24273_18	is_in_sentence	sentence_24273
+24273_18	amod	24273_20
+24273_18	has_surface_form	twentieth
+24273_19	is_in_sentence	sentence_24273
+24273_19	compound	24273_20
+24273_19	has_surface_form	Prime
+24273_21	is_in_sentence	sentence_24273
+24273_21	punct	24273_20
+24273_21	has_surface_form	,
+24273_22	is_in_sentence	sentence_24273
+24273_22	compound	24273_23
+24273_22	has_surface_form	Jean
+24273_22	part_of_entity	Jean Chrétien
+24273_23	is_in_sentence	sentence_24273
+24273_23	appos	24273_20
+24273_23	has_surface_form	Chrétien
+24273_23	part_of_entity	Jean Chrétien
+24273_24	is_in_sentence	sentence_24273
+24273_24	punct	24273_12
+24273_24	has_surface_form	.
+24273_25	is_in_sentence	sentence_24273
+24273_25	dep	24273_12
+24273_25	has_surface_form	
+Aline Chrétien	surface_form	Aline Chrétien
+Aline Chrétien	has-spouse	Jean Chrétien
+Jean Chrétien	surface_form	Jean Chrétien

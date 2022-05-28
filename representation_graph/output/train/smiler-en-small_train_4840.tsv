@@ -1,0 +1,82 @@
+4839_0	is_in_sentence	sentence_4839
+4839_0	compound	4839_1
+4839_0	has_surface_form	Texas
+4839_0	part_of_entity	Texas State Highway Loop 4
+4839_1	is_in_sentence	sentence_4839
+4839_1	compound	4839_3
+4839_1	has_surface_form	State
+4839_1	part_of_entity	Texas State Highway Loop 4
+4839_3	is_in_sentence	sentence_4839
+4839_3	nsubj	4839_9
+4839_3	has_surface_form	Loop
+4839_3	part_of_entity	Texas State Highway Loop 4
+4839_2	is_in_sentence	sentence_4839
+4839_2	compound	4839_3
+4839_2	has_surface_form	Highway
+4839_2	part_of_entity	Texas State Highway Loop 4
+4839_9	is_in_sentence	sentence_4839
+4839_9	ROOT	4839_9
+4839_9	has_surface_form	is
+4839_4	is_in_sentence	sentence_4839
+4839_4	nummod	4839_3
+4839_4	has_surface_form	4
+4839_4	part_of_entity	Texas State Highway Loop 4
+4839_5	is_in_sentence	sentence_4839
+4839_5	punct	4839_3
+4839_5	has_surface_form	(
+4839_6	is_in_sentence	sentence_4839
+4839_6	appos	4839_3
+4839_6	has_surface_form	Loop
+4839_7	is_in_sentence	sentence_4839
+4839_7	nummod	4839_6
+4839_7	has_surface_form	4
+4839_8	is_in_sentence	sentence_4839
+4839_8	punct	4839_6
+4839_8	has_surface_form	)
+4839_10	is_in_sentence	sentence_4839
+4839_10	det	4839_14
+4839_10	has_surface_form	a
+4839_14	is_in_sentence	sentence_4839
+4839_14	attr	4839_9
+4839_14	has_surface_form	loop
+4839_11	is_in_sentence	sentence_4839
+4839_11	amod	4839_14
+4839_11	has_surface_form	former
+4839_12	is_in_sentence	sentence_4839
+4839_12	compound	4839_14
+4839_12	has_surface_form	state
+4839_12	part_of_entity	state highway
+4839_13	is_in_sentence	sentence_4839
+4839_13	compound	4839_14
+4839_13	has_surface_form	highway
+4839_13	part_of_entity	state highway
+4839_15	is_in_sentence	sentence_4839
+4839_15	prep	4839_14
+4839_15	has_surface_form	into
+4839_16	is_in_sentence	sentence_4839
+4839_16	det	4839_17
+4839_16	has_surface_form	the
+4839_17	is_in_sentence	sentence_4839
+4839_17	pobj	4839_15
+4839_17	has_surface_form	city
+4839_18	is_in_sentence	sentence_4839
+4839_18	prep	4839_17
+4839_18	has_surface_form	of
+4839_19	is_in_sentence	sentence_4839
+4839_19	pobj	4839_18
+4839_19	has_surface_form	Buda
+4839_20	is_in_sentence	sentence_4839
+4839_20	punct	4839_19
+4839_20	has_surface_form	,
+4839_21	is_in_sentence	sentence_4839
+4839_21	appos	4839_19
+4839_21	has_surface_form	Texas
+4839_22	is_in_sentence	sentence_4839
+4839_22	punct	4839_9
+4839_22	has_surface_form	.
+4839_23	is_in_sentence	sentence_4839
+4839_23	dep	4839_9
+4839_23	has_surface_form	
+Texas State Highway Loop 4	surface_form	Texas State Highway Loop 4
+Texas State Highway Loop 4	has-type	state highway
+state highway	surface_form	state highway

@@ -1,0 +1,52 @@
+25912_0	is_in_sentence	sentence_25912
+25912_0	compound	25912_1
+25912_0	has_surface_form	Roaring
+25912_0	part_of_entity	Roaring Wheels
+25912_1	is_in_sentence	sentence_25912
+25912_1	nsubj	25912_2
+25912_1	has_surface_form	Wheels
+25912_1	part_of_entity	Roaring Wheels
+25912_2	is_in_sentence	sentence_25912
+25912_2	ROOT	25912_2
+25912_2	has_surface_form	is
+25912_3	is_in_sentence	sentence_25912
+25912_3	det	25912_8
+25912_3	has_surface_form	a
+25912_8	is_in_sentence	sentence_25912
+25912_8	attr	25912_2
+25912_8	has_surface_form	movie
+25912_4	is_in_sentence	sentence_25912
+25912_4	nummod	25912_8
+25912_4	has_surface_form	2000
+25912_5	is_in_sentence	sentence_25912
+25912_5	compound	25912_6
+25912_5	has_surface_form	Hong
+25912_6	is_in_sentence	sentence_25912
+25912_6	compound	25912_8
+25912_6	has_surface_form	Kong
+25912_7	is_in_sentence	sentence_25912
+25912_7	compound	25912_8
+25912_7	has_surface_form	action
+25912_9	is_in_sentence	sentence_25912
+25912_9	acl	25912_8
+25912_9	has_surface_form	directed
+25912_10	is_in_sentence	sentence_25912
+25912_10	agent	25912_9
+25912_10	has_surface_form	by
+25912_11	is_in_sentence	sentence_25912
+25912_11	compound	25912_12
+25912_11	has_surface_form	Aman
+25912_11	part_of_entity	Aman Chang
+25912_12	is_in_sentence	sentence_25912
+25912_12	pobj	25912_10
+25912_12	has_surface_form	Chang
+25912_12	part_of_entity	Aman Chang
+25912_13	is_in_sentence	sentence_25912
+25912_13	punct	25912_2
+25912_13	has_surface_form	.
+25912_14	is_in_sentence	sentence_25912
+25912_14	dep	25912_14
+25912_14	has_surface_form	
+Roaring Wheels	surface_form	Roaring Wheels
+Roaring Wheels	movie-has-director	Aman Chang
+Aman Chang	surface_form	Aman Chang

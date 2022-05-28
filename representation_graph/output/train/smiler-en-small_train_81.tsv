@@ -1,0 +1,50 @@
+80_0	is_in_sentence	sentence_80
+80_0	det	80_2
+80_0	has_surface_form	A
+80_0	part_of_entity	A Few Questions
+80_2	is_in_sentence	sentence_80
+80_2	nsubj	80_3
+80_2	has_surface_form	Questions
+80_2	part_of_entity	A Few Questions
+80_1	is_in_sentence	sentence_80
+80_1	compound	80_2
+80_1	has_surface_form	Few
+80_1	part_of_entity	A Few Questions
+80_3	is_in_sentence	sentence_80
+80_3	ROOT	80_3
+80_3	has_surface_form	is
+80_4	is_in_sentence	sentence_80
+80_4	compound	80_6
+80_4	has_surface_form	country
+80_4	part_of_entity	country music
+80_6	is_in_sentence	sentence_80
+80_6	compound	80_8
+80_6	has_surface_form	singer
+80_5	is_in_sentence	sentence_80
+80_5	compound	80_6
+80_5	has_surface_form	music
+80_5	part_of_entity	country music
+80_8	is_in_sentence	sentence_80
+80_8	poss	80_11
+80_8	has_surface_form	Walker
+80_7	is_in_sentence	sentence_80
+80_7	compound	80_8
+80_7	has_surface_form	Clay
+80_11	is_in_sentence	sentence_80
+80_11	attr	80_3
+80_11	has_surface_form	album
+80_9	is_in_sentence	sentence_80
+80_9	case	80_8
+80_9	has_surface_form	's
+80_10	is_in_sentence	sentence_80
+80_10	amod	80_11
+80_10	has_surface_form	eighth
+80_12	is_in_sentence	sentence_80
+80_12	punct	80_3
+80_12	has_surface_form	.
+80_13	is_in_sentence	sentence_80
+80_13	dep	80_13
+80_13	has_surface_form	
+A Few Questions	surface_form	A Few Questions
+A Few Questions	has-genre	country music
+country music	surface_form	country music

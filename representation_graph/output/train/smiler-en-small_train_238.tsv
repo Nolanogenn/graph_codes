@@ -1,0 +1,84 @@
+237_0	is_in_sentence	sentence_237
+237_0	det	237_2
+237_0	has_surface_form	The
+237_0	part_of_entity	The Reckless Hour
+237_2	is_in_sentence	sentence_237
+237_2	nsubj	237_3
+237_2	has_surface_form	Hour
+237_2	part_of_entity	The Reckless Hour
+237_1	is_in_sentence	sentence_237
+237_1	compound	237_2
+237_1	has_surface_form	Reckless
+237_1	part_of_entity	The Reckless Hour
+237_3	is_in_sentence	sentence_237
+237_3	ROOT	237_3
+237_3	has_surface_form	is
+237_4	is_in_sentence	sentence_237
+237_4	det	237_9
+237_4	has_surface_form	a
+237_9	is_in_sentence	sentence_237
+237_9	attr	237_3
+237_9	has_surface_form	film
+237_5	is_in_sentence	sentence_237
+237_5	nummod	237_9
+237_5	has_surface_form	1931
+237_6	is_in_sentence	sentence_237
+237_6	amod	237_9
+237_6	has_surface_form	pre
+237_7	is_in_sentence	sentence_237
+237_7	amod	237_9
+237_7	has_surface_form	-
+237_8	is_in_sentence	sentence_237
+237_8	amod	237_9
+237_8	has_surface_form	Code
+237_10	is_in_sentence	sentence_237
+237_10	acl	237_9
+237_10	has_surface_form	directed
+237_11	is_in_sentence	sentence_237
+237_11	agent	237_10
+237_11	has_surface_form	by
+237_12	is_in_sentence	sentence_237
+237_12	compound	237_14
+237_12	has_surface_form	John
+237_12	part_of_entity	John Francis Dillon
+237_14	is_in_sentence	sentence_237
+237_14	pobj	237_11
+237_14	has_surface_form	Dillon
+237_14	part_of_entity	John Francis Dillon
+237_13	is_in_sentence	sentence_237
+237_13	compound	237_14
+237_13	has_surface_form	Francis
+237_13	part_of_entity	John Francis Dillon
+237_15	is_in_sentence	sentence_237
+237_15	cc	237_10
+237_15	has_surface_form	and
+237_16	is_in_sentence	sentence_237
+237_16	acl	237_9
+237_16	has_surface_form	produced
+237_17	is_in_sentence	sentence_237
+237_17	cc	237_16
+237_17	has_surface_form	and
+237_18	is_in_sentence	sentence_237
+237_18	conj	237_16
+237_18	has_surface_form	distributed
+237_19	is_in_sentence	sentence_237
+237_19	agent	237_18
+237_19	has_surface_form	by
+237_20	is_in_sentence	sentence_237
+237_20	compound	237_22
+237_20	has_surface_form	First
+237_22	is_in_sentence	sentence_237
+237_22	pobj	237_19
+237_22	has_surface_form	Pictures
+237_21	is_in_sentence	sentence_237
+237_21	compound	237_22
+237_21	has_surface_form	National
+237_23	is_in_sentence	sentence_237
+237_23	punct	237_3
+237_23	has_surface_form	.
+237_24	is_in_sentence	sentence_237
+237_24	dep	237_3
+237_24	has_surface_form	
+The Reckless Hour	surface_form	The Reckless Hour
+The Reckless Hour	movie-has-director	John Francis Dillon
+John Francis Dillon	surface_form	John Francis Dillon

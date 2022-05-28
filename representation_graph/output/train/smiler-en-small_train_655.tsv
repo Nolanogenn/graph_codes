@@ -1,0 +1,58 @@
+654_0	is_in_sentence	sentence_654
+654_0	compound	654_1
+654_0	has_surface_form	Ed
+654_0	part_of_entity	Ed Hill
+654_1	is_in_sentence	sentence_654
+654_1	nsubj	654_9
+654_1	has_surface_form	Hill
+654_1	part_of_entity	Ed Hill
+654_9	is_in_sentence	sentence_654
+654_9	ROOT	654_9
+654_9	has_surface_form	is
+654_2	is_in_sentence	sentence_654
+654_2	punct	654_1
+654_2	has_surface_form	(
+654_3	is_in_sentence	sentence_654
+654_3	acl	654_1
+654_3	has_surface_form	born
+654_4	is_in_sentence	sentence_654
+654_4	prep	654_3
+654_4	has_surface_form	in
+654_5	is_in_sentence	sentence_654
+654_5	pobj	654_4
+654_5	has_surface_form	Hanford
+654_6	is_in_sentence	sentence_654
+654_6	punct	654_5
+654_6	has_surface_form	,
+654_7	is_in_sentence	sentence_654
+654_7	appos	654_5
+654_7	has_surface_form	California
+654_8	is_in_sentence	sentence_654
+654_8	punct	654_1
+654_8	has_surface_form	)
+654_10	is_in_sentence	sentence_654
+654_10	det	654_14
+654_10	has_surface_form	an
+654_14	is_in_sentence	sentence_654
+654_14	attr	654_9
+654_14	has_surface_form	songwriter
+654_11	is_in_sentence	sentence_654
+654_11	amod	654_14
+654_11	has_surface_form	American
+654_12	is_in_sentence	sentence_654
+654_12	compound	654_13
+654_12	has_surface_form	country
+654_12	part_of_entity	country music
+654_13	is_in_sentence	sentence_654
+654_13	compound	654_14
+654_13	has_surface_form	music
+654_13	part_of_entity	country music
+654_15	is_in_sentence	sentence_654
+654_15	punct	654_9
+654_15	has_surface_form	.
+654_16	is_in_sentence	sentence_654
+654_16	dep	654_16
+654_16	has_surface_form	
+Ed Hill	surface_form	Ed Hill
+Ed Hill	has-genre	country music
+country music	surface_form	country music

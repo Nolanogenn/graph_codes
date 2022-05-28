@@ -1,0 +1,80 @@
+1991_0	is_in_sentence	sentence_1991
+1991_0	det	1991_2
+1991_0	has_surface_form	The
+1991_0	part_of_entity	The Campus Queen
+1991_2	is_in_sentence	sentence_1991
+1991_2	nsubj	1991_3
+1991_2	has_surface_form	Queen
+1991_2	part_of_entity	The Campus Queen
+1991_1	is_in_sentence	sentence_1991
+1991_1	compound	1991_2
+1991_1	has_surface_form	Campus
+1991_1	part_of_entity	The Campus Queen
+1991_3	is_in_sentence	sentence_1991
+1991_3	ROOT	1991_3
+1991_3	has_surface_form	is
+1991_4	is_in_sentence	sentence_1991
+1991_4	det	1991_7
+1991_4	has_surface_form	a
+1991_7	is_in_sentence	sentence_1991
+1991_7	attr	1991_3
+1991_7	has_surface_form	musical
+1991_5	is_in_sentence	sentence_1991
+1991_5	nummod	1991_6
+1991_5	has_surface_form	2004
+1991_6	is_in_sentence	sentence_1991
+1991_6	compound	1991_7
+1991_6	has_surface_form	Nollywood
+1991_8	is_in_sentence	sentence_1991
+1991_8	nsubjpass	1991_10
+1991_8	has_surface_form	that
+1991_10	is_in_sentence	sentence_1991
+1991_10	relcl	1991_7
+1991_10	has_surface_form	directed
+1991_9	is_in_sentence	sentence_1991
+1991_9	auxpass	1991_10
+1991_9	has_surface_form	was
+1991_11	is_in_sentence	sentence_1991
+1991_11	agent	1991_10
+1991_11	has_surface_form	by
+1991_12	is_in_sentence	sentence_1991
+1991_12	compound	1991_13
+1991_12	has_surface_form	Tunde
+1991_12	part_of_entity	Tunde Kelani
+1991_13	is_in_sentence	sentence_1991
+1991_13	pobj	1991_11
+1991_13	has_surface_form	Kelani
+1991_13	part_of_entity	Tunde Kelani
+1991_14	is_in_sentence	sentence_1991
+1991_14	prep	1991_10
+1991_14	has_surface_form	with
+1991_15	is_in_sentence	sentence_1991
+1991_15	pobj	1991_14
+1991_15	has_surface_form	production
+1991_16	is_in_sentence	sentence_1991
+1991_16	prep	1991_15
+1991_16	has_surface_form	from
+1991_17	is_in_sentence	sentence_1991
+1991_17	compound	1991_18
+1991_17	has_surface_form	Mainframe
+1991_18	is_in_sentence	sentence_1991
+1991_18	pobj	1991_16
+1991_18	has_surface_form	Films
+1991_19	is_in_sentence	sentence_1991
+1991_19	cc	1991_18
+1991_19	has_surface_form	and
+1991_20	is_in_sentence	sentence_1991
+1991_20	compound	1991_21
+1991_20	has_surface_form	Television
+1991_21	is_in_sentence	sentence_1991
+1991_21	conj	1991_18
+1991_21	has_surface_form	Productions
+1991_22	is_in_sentence	sentence_1991
+1991_22	punct	1991_3
+1991_22	has_surface_form	.
+1991_23	is_in_sentence	sentence_1991
+1991_23	dep	1991_3
+1991_23	has_surface_form	
+The Campus Queen	surface_form	The Campus Queen
+The Campus Queen	movie-has-director	Tunde Kelani
+Tunde Kelani	surface_form	Tunde Kelani

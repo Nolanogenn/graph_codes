@@ -1,0 +1,69 @@
+33267_0	is_in_sentence	sentence_33267
+33267_0	compound	33267_1
+33267_0	has_surface_form	Robin
+33267_0	part_of_entity	Robin Hood of Texas
+33267_1	is_in_sentence	sentence_33267
+33267_1	nsubj	33267_4
+33267_1	has_surface_form	Hood
+33267_1	part_of_entity	Robin Hood of Texas
+33267_4	is_in_sentence	sentence_33267
+33267_4	ROOT	33267_4
+33267_4	has_surface_form	is
+33267_2	is_in_sentence	sentence_33267
+33267_2	prep	33267_1
+33267_2	has_surface_form	of
+33267_2	part_of_entity	Robin Hood of Texas
+33267_3	is_in_sentence	sentence_33267
+33267_3	pobj	33267_2
+33267_3	has_surface_form	Texas
+33267_3	part_of_entity	Robin Hood of Texas
+33267_5	is_in_sentence	sentence_33267
+33267_5	det	33267_9
+33267_5	has_surface_form	a
+33267_9	is_in_sentence	sentence_33267
+33267_9	attr	33267_4
+33267_9	has_surface_form	film
+33267_6	is_in_sentence	sentence_33267
+33267_6	nummod	33267_9
+33267_6	has_surface_form	1947
+33267_7	is_in_sentence	sentence_33267
+33267_7	amod	33267_9
+33267_7	has_surface_form	American
+33267_8	is_in_sentence	sentence_33267
+33267_8	amod	33267_9
+33267_8	has_surface_form	Western
+33267_10	is_in_sentence	sentence_33267
+33267_10	acl	33267_9
+33267_10	has_surface_form	directed
+33267_11	is_in_sentence	sentence_33267
+33267_11	agent	33267_10
+33267_11	has_surface_form	by
+33267_12	is_in_sentence	sentence_33267
+33267_12	compound	33267_13
+33267_12	has_surface_form	Lesley
+33267_12	part_of_entity	Lesley Selander
+33267_13	is_in_sentence	sentence_33267
+33267_13	pobj	33267_11
+33267_13	has_surface_form	Selander
+33267_13	part_of_entity	Lesley Selander
+33267_14	is_in_sentence	sentence_33267
+33267_14	cc	33267_10
+33267_14	has_surface_form	and
+33267_15	is_in_sentence	sentence_33267
+33267_15	conj	33267_10
+33267_15	has_surface_form	written
+33267_16	is_in_sentence	sentence_33267
+33267_16	agent	33267_15
+33267_16	has_surface_form	by
+33267_17	is_in_sentence	sentence_33267
+33267_17	compound	33267_18
+33267_17	has_surface_form	John
+33267_18	is_in_sentence	sentence_33267
+33267_18	pobj	33267_16
+33267_18	has_surface_form	K.
+33267_19	is_in_sentence	sentence_33267
+33267_19	dep	33267_4
+33267_19	has_surface_form	
+Robin Hood of Texas	surface_form	Robin Hood of Texas
+Robin Hood of Texas	movie-has-director	Lesley Selander
+Lesley Selander	surface_form	Lesley Selander

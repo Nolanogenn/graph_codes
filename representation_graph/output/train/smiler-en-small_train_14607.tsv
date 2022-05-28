@@ -1,0 +1,97 @@
+14606_0	is_in_sentence	sentence_14606
+14606_0	punct	14606_14
+14606_0	has_surface_form	""""
+14606_14	is_in_sentence	sentence_14606
+14606_14	ROOT	14606_14
+14606_14	has_surface_form	is
+14606_1	is_in_sentence	sentence_14606
+14606_1	nsubj	14606_14
+14606_1	has_surface_form	Crime
+14606_1	part_of_entity	Crime at the Chinese Restaurant
+14606_2	is_in_sentence	sentence_14606
+14606_2	prep	14606_1
+14606_2	has_surface_form	at
+14606_2	part_of_entity	Crime at the Chinese Restaurant
+14606_3	is_in_sentence	sentence_14606
+14606_3	det	14606_5
+14606_3	has_surface_form	the
+14606_3	part_of_entity	Crime at the Chinese Restaurant
+14606_5	is_in_sentence	sentence_14606
+14606_5	pobj	14606_2
+14606_5	has_surface_form	Restaurant
+14606_5	part_of_entity	Crime at the Chinese Restaurant
+14606_4	is_in_sentence	sentence_14606
+14606_4	compound	14606_5
+14606_4	has_surface_form	Chinese
+14606_4	part_of_entity	Crime at the Chinese Restaurant
+14606_6	is_in_sentence	sentence_14606
+14606_6	punct	14606_7
+14606_6	has_surface_form	(
+14606_7	is_in_sentence	sentence_14606
+14606_7	appos	14606_1
+14606_7	has_surface_form	Italian
+14606_8	is_in_sentence	sentence_14606
+14606_8	punct	14606_7
+14606_8	has_surface_form	:
+14606_9	is_in_sentence	sentence_14606
+14606_9	compound	14606_12
+14606_9	has_surface_form	Delitto
+14606_12	is_in_sentence	sentence_14606
+14606_12	appos	14606_1
+14606_12	has_surface_form	cinese
+14606_10	is_in_sentence	sentence_14606
+14606_10	compound	14606_12
+14606_10	has_surface_form	al
+14606_11	is_in_sentence	sentence_14606
+14606_11	compound	14606_12
+14606_11	has_surface_form	ristorante
+14606_13	is_in_sentence	sentence_14606
+14606_13	punct	14606_12
+14606_13	has_surface_form	)
+14606_15	is_in_sentence	sentence_14606
+14606_15	det	14606_21
+14606_15	has_surface_form	a
+14606_21	is_in_sentence	sentence_14606
+14606_21	attr	14606_14
+14606_21	has_surface_form	film
+14606_16	is_in_sentence	sentence_14606
+14606_16	nummod	14606_21
+14606_16	has_surface_form	1981
+14606_17	is_in_sentence	sentence_14606
+14606_17	amod	14606_21
+14606_17	has_surface_form	Italian
+14606_18	is_in_sentence	sentence_14606
+14606_18	punct	14606_21
+14606_18	has_surface_form	""""
+14606_19	is_in_sentence	sentence_14606
+14606_19	punct	14606_21
+14606_19	has_surface_form	""""
+14606_20	is_in_sentence	sentence_14606
+14606_20	amod	14606_21
+14606_20	has_surface_form	"poliziottesco""""-comedy"
+14606_22	is_in_sentence	sentence_14606
+14606_22	acl	14606_21
+14606_22	has_surface_form	directed
+14606_23	is_in_sentence	sentence_14606
+14606_23	agent	14606_22
+14606_23	has_surface_form	by
+14606_24	is_in_sentence	sentence_14606
+14606_24	compound	14606_25
+14606_24	has_surface_form	Bruno
+14606_24	part_of_entity	Bruno Corbucci
+14606_25	is_in_sentence	sentence_14606
+14606_25	pobj	14606_23
+14606_25	has_surface_form	Corbucci
+14606_25	part_of_entity	Bruno Corbucci
+14606_26	is_in_sentence	sentence_14606
+14606_26	punct	14606_14
+14606_26	has_surface_form	.
+14606_27	is_in_sentence	sentence_14606
+14606_27	punct	14606_28
+14606_27	has_surface_form	""""
+14606_28	is_in_sentence	sentence_14606
+14606_28	dep	14606_28
+14606_28	has_surface_form	
+Crime at the Chinese Restaurant	surface_form	Crime at the Chinese Restaurant
+Crime at the Chinese Restaurant	movie-has-director	Bruno Corbucci
+Bruno Corbucci	surface_form	Bruno Corbucci

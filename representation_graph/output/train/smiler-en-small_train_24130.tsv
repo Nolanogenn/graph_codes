@@ -1,0 +1,65 @@
+24129_0	is_in_sentence	sentence_24129
+24129_0	compound	24129_1
+24129_0	has_surface_form	Sun
+24129_0	part_of_entity	Sun Honglei
+24129_1	is_in_sentence	sentence_24129
+24129_1	nsubj	24129_14
+24129_1	has_surface_form	Honglei
+24129_1	part_of_entity	Sun Honglei
+24129_14	is_in_sentence	sentence_24129
+24129_14	ROOT	24129_14
+24129_14	has_surface_form	is
+24129_2	is_in_sentence	sentence_24129
+24129_2	punct	24129_5
+24129_2	has_surface_form	(
+24129_5	is_in_sentence	sentence_24129
+24129_5	appos	24129_1
+24129_5	has_surface_form	孙红雷
+24129_3	is_in_sentence	sentence_24129
+24129_3	nmod	24129_5
+24129_3	has_surface_form	Chinese
+24129_4	is_in_sentence	sentence_24129
+24129_4	punct	24129_5
+24129_4	has_surface_form	:
+24129_6	is_in_sentence	sentence_24129
+24129_6	punct	24129_5
+24129_6	has_surface_form	;
+24129_7	is_in_sentence	sentence_24129
+24129_7	acl	24129_5
+24129_7	has_surface_form	born
+24129_8	is_in_sentence	sentence_24129
+24129_8	npadvmod	24129_7
+24129_8	has_surface_form	16
+24129_9	is_in_sentence	sentence_24129
+24129_9	npadvmod	24129_7
+24129_9	has_surface_form	August
+24129_10	is_in_sentence	sentence_24129
+24129_10	nummod	24129_9
+24129_10	has_surface_form	1970
+24129_11	is_in_sentence	sentence_24129
+24129_11	prep	24129_7
+24129_11	has_surface_form	in
+24129_12	is_in_sentence	sentence_24129
+24129_12	pobj	24129_11
+24129_12	is_entity	Harbin
+Harbin	surface_form	Harbin
+24129_13	is_in_sentence	sentence_24129
+24129_13	punct	24129_5
+24129_13	has_surface_form	)
+24129_15	is_in_sentence	sentence_24129
+24129_15	det	24129_17
+24129_15	has_surface_form	a
+24129_17	is_in_sentence	sentence_24129
+24129_17	attr	24129_14
+24129_17	has_surface_form	actor
+24129_16	is_in_sentence	sentence_24129
+24129_16	amod	24129_17
+24129_16	has_surface_form	Chinese
+24129_18	is_in_sentence	sentence_24129
+24129_18	punct	24129_14
+24129_18	has_surface_form	.
+24129_19	is_in_sentence	sentence_24129
+24129_19	dep	24129_14
+24129_19	has_surface_form	
+Sun Honglei	surface_form	Sun Honglei
+Sun Honglei	birth-place	Harbin

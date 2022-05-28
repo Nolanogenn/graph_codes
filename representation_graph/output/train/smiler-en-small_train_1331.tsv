@@ -1,0 +1,64 @@
+1330_0	is_in_sentence	sentence_1330
+1330_0	compound	1330_1
+1330_0	has_surface_form	William
+1330_0	part_of_entity	William Kernan
+1330_1	is_in_sentence	sentence_1330
+1330_1	ROOT	1330_1
+1330_1	has_surface_form	Kernan
+1330_1	part_of_entity	William Kernan
+1330_2	is_in_sentence	sentence_1330
+1330_2	punct	1330_1
+1330_2	has_surface_form	,
+1330_3	is_in_sentence	sentence_1330
+1330_3	appos	1330_1
+1330_3	has_surface_form	one
+1330_4	is_in_sentence	sentence_1330
+1330_4	prep	1330_3
+1330_4	has_surface_form	of
+1330_5	is_in_sentence	sentence_1330
+1330_5	det	1330_7
+1330_5	has_surface_form	the
+1330_7	is_in_sentence	sentence_1330
+1330_7	pobj	1330_4
+1330_7	has_surface_form	settlers
+1330_6	is_in_sentence	sentence_1330
+1330_6	amod	1330_7
+1330_6	has_surface_form	original
+1330_8	is_in_sentence	sentence_1330
+1330_8	cc	1330_7
+1330_8	has_surface_form	and
+1330_9	is_in_sentence	sentence_1330
+1330_9	det	1330_10
+1330_9	has_surface_form	the
+1330_10	is_in_sentence	sentence_1330
+1330_10	conj	1330_7
+1330_10	has_surface_form	father
+1330_11	is_in_sentence	sentence_1330
+1330_11	prep	1330_10
+1330_11	has_surface_form	of
+1330_12	is_in_sentence	sentence_1330
+1330_12	compound	1330_13
+1330_12	has_surface_form	United
+1330_13	is_in_sentence	sentence_1330
+1330_13	pobj	1330_11
+1330_13	has_surface_form	States
+1330_14	is_in_sentence	sentence_1330
+1330_14	compound	1330_16
+1330_14	has_surface_form	Senator
+1330_16	is_in_sentence	sentence_1330
+1330_16	appos	1330_10
+1330_16	has_surface_form	Kernan
+1330_16	part_of_entity	Francis Kernan
+1330_15	is_in_sentence	sentence_1330
+1330_15	compound	1330_16
+1330_15	has_surface_form	Francis
+1330_15	part_of_entity	Francis Kernan
+1330_17	is_in_sentence	sentence_1330
+1330_17	punct	1330_1
+1330_17	has_surface_form	.
+1330_18	is_in_sentence	sentence_1330
+1330_18	dep	1330_18
+1330_18	has_surface_form	
+William Kernan	surface_form	William Kernan
+William Kernan	has-child	Francis Kernan
+Francis Kernan	surface_form	Francis Kernan

@@ -1,0 +1,61 @@
+6002_0	is_in_sentence	sentence_6002
+6002_0	compound	6002_1
+6002_0	has_surface_form	Rodrigo
+6002_0	part_of_entity	Rodrigo Ávila
+6002_1	is_in_sentence	sentence_6002
+6002_1	nsubj	6002_12
+6002_1	has_surface_form	Ávila
+6002_1	part_of_entity	Rodrigo Ávila
+6002_12	is_in_sentence	sentence_6002
+6002_12	ROOT	6002_12
+6002_12	has_surface_form	is
+6002_2	is_in_sentence	sentence_6002
+6002_2	punct	6002_1
+6002_2	has_surface_form	(
+6002_3	is_in_sentence	sentence_6002
+6002_3	acl	6002_1
+6002_3	has_surface_form	born
+6002_4	is_in_sentence	sentence_6002
+6002_4	npadvmod	6002_3
+6002_4	has_surface_form	June
+6002_5	is_in_sentence	sentence_6002
+6002_5	nummod	6002_4
+6002_5	has_surface_form	25
+6002_6	is_in_sentence	sentence_6002
+6002_6	punct	6002_4
+6002_6	has_surface_form	,
+6002_7	is_in_sentence	sentence_6002
+6002_7	nummod	6002_4
+6002_7	has_surface_form	1964
+6002_8	is_in_sentence	sentence_6002
+6002_8	prep	6002_3
+6002_8	has_surface_form	in
+6002_9	is_in_sentence	sentence_6002
+6002_9	compound	6002_10
+6002_9	has_surface_form	San
+6002_9	part_of_entity	San Salvador
+6002_10	is_in_sentence	sentence_6002
+6002_10	pobj	6002_8
+6002_10	has_surface_form	Salvador
+6002_10	part_of_entity	San Salvador
+6002_11	is_in_sentence	sentence_6002
+6002_11	punct	6002_1
+6002_11	has_surface_form	)
+6002_13	is_in_sentence	sentence_6002
+6002_13	det	6002_15
+6002_13	has_surface_form	a
+6002_15	is_in_sentence	sentence_6002
+6002_15	attr	6002_12
+6002_15	has_surface_form	politician
+6002_14	is_in_sentence	sentence_6002
+6002_14	amod	6002_15
+6002_14	has_surface_form	Salvadoran
+6002_16	is_in_sentence	sentence_6002
+6002_16	punct	6002_12
+6002_16	has_surface_form	.
+6002_17	is_in_sentence	sentence_6002
+6002_17	dep	6002_12
+6002_17	has_surface_form	
+Rodrigo Ávila	surface_form	Rodrigo Ávila
+Rodrigo Ávila	birth-place	San Salvador
+San Salvador	surface_form	San Salvador

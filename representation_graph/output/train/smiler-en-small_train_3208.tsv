@@ -1,0 +1,59 @@
+3207_0	is_in_sentence	sentence_3207
+3207_0	compound	3207_1
+3207_0	has_surface_form	Sheppard
+3207_0	part_of_entity	Sheppard Avenue
+3207_1	is_in_sentence	sentence_3207
+3207_1	nsubj	3207_2
+3207_1	has_surface_form	Avenue
+3207_1	part_of_entity	Sheppard Avenue
+3207_2	is_in_sentence	sentence_3207
+3207_2	ROOT	3207_2
+3207_2	has_surface_form	is
+3207_3	is_in_sentence	sentence_3207
+3207_3	det	3207_9
+3207_3	has_surface_form	an
+3207_9	is_in_sentence	sentence_3207
+3207_9	attr	3207_2
+3207_9	has_surface_form	road
+3207_4	is_in_sentence	sentence_3207
+3207_4	nmod	3207_9
+3207_4	has_surface_form	east
+3207_5	is_in_sentence	sentence_3207
+3207_5	punct	3207_4
+3207_5	has_surface_form	–
+3207_6	is_in_sentence	sentence_3207
+3207_6	compound	3207_7
+3207_6	has_surface_form	west
+3207_7	is_in_sentence	sentence_3207
+3207_7	nmod	3207_9
+3207_7	has_surface_form	principal
+3207_8	is_in_sentence	sentence_3207
+3207_8	amod	3207_9
+3207_8	has_surface_form	arterial
+3207_10	is_in_sentence	sentence_3207
+3207_10	prep	3207_9
+3207_10	has_surface_form	in
+3207_11	is_in_sentence	sentence_3207
+3207_11	pobj	3207_10
+3207_11	is_entity	Toronto
+Toronto	surface_form	Toronto
+3207_12	is_in_sentence	sentence_3207
+3207_12	punct	3207_11
+3207_12	has_surface_form	,
+3207_13	is_in_sentence	sentence_3207
+3207_13	conj	3207_11
+3207_13	has_surface_form	Ontario
+3207_14	is_in_sentence	sentence_3207
+3207_14	punct	3207_13
+3207_14	has_surface_form	,
+3207_15	is_in_sentence	sentence_3207
+3207_15	appos	3207_13
+3207_15	has_surface_form	Canada
+3207_16	is_in_sentence	sentence_3207
+3207_16	punct	3207_2
+3207_16	has_surface_form	.
+3207_17	is_in_sentence	sentence_3207
+3207_17	dep	3207_2
+3207_17	has_surface_form	
+Sheppard Avenue	surface_form	Sheppard Avenue
+Sheppard Avenue	is-where	Toronto

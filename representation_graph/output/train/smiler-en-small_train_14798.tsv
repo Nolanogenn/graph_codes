@@ -1,0 +1,65 @@
+14797_0	is_in_sentence	sentence_14797
+14797_0	compound	14797_1
+14797_0	has_surface_form	La
+14797_0	part_of_entity	La Tía Tula
+14797_1	is_in_sentence	sentence_14797
+14797_1	compound	14797_2
+14797_1	has_surface_form	Tía
+14797_1	part_of_entity	La Tía Tula
+14797_2	is_in_sentence	sentence_14797
+14797_2	nsubj	14797_7
+14797_2	has_surface_form	Tula
+14797_2	part_of_entity	La Tía Tula
+14797_7	is_in_sentence	sentence_14797
+14797_7	ROOT	14797_7
+14797_7	has_surface_form	is
+14797_3	is_in_sentence	sentence_14797
+14797_3	punct	14797_5
+14797_3	has_surface_form	(
+14797_5	is_in_sentence	sentence_14797
+14797_5	appos	14797_2
+14797_5	has_surface_form	Tula
+14797_4	is_in_sentence	sentence_14797
+14797_4	compound	14797_5
+14797_4	has_surface_form	Aunt
+14797_6	is_in_sentence	sentence_14797
+14797_6	punct	14797_5
+14797_6	has_surface_form	)
+14797_8	is_in_sentence	sentence_14797
+14797_8	det	14797_10
+14797_8	has_surface_form	a
+14797_10	is_in_sentence	sentence_14797
+14797_10	nmod	14797_12
+14797_10	has_surface_form	film
+14797_9	is_in_sentence	sentence_14797
+14797_9	nummod	14797_10
+14797_9	has_surface_form	1964
+14797_12	is_in_sentence	sentence_14797
+14797_12	attr	14797_7
+14797_12	has_surface_form	film
+14797_11	is_in_sentence	sentence_14797
+14797_11	amod	14797_12
+14797_11	has_surface_form	Spanish
+14797_13	is_in_sentence	sentence_14797
+14797_13	acl	14797_12
+14797_13	has_surface_form	directed
+14797_14	is_in_sentence	sentence_14797
+14797_14	agent	14797_13
+14797_14	has_surface_form	by
+14797_15	is_in_sentence	sentence_14797
+14797_15	compound	14797_16
+14797_15	has_surface_form	Miguel
+14797_15	part_of_entity	Miguel Picazo
+14797_16	is_in_sentence	sentence_14797
+14797_16	pobj	14797_14
+14797_16	has_surface_form	Picazo
+14797_16	part_of_entity	Miguel Picazo
+14797_17	is_in_sentence	sentence_14797
+14797_17	punct	14797_7
+14797_17	has_surface_form	.
+14797_18	is_in_sentence	sentence_14797
+14797_18	dep	14797_18
+14797_18	has_surface_form	
+La Tía Tula	surface_form	La Tía Tula
+La Tía Tula	movie-has-director	Miguel Picazo
+Miguel Picazo	surface_form	Miguel Picazo

@@ -1,0 +1,92 @@
+31120_0	is_in_sentence	sentence_31120
+31120_0	det	31120_1
+31120_0	has_surface_form	The
+31120_1	is_in_sentence	sentence_31120
+31120_1	nsubj	31120_4
+31120_1	has_surface_form	Tour
+31120_1	part_of_entity	Tour of Missouri
+31120_4	is_in_sentence	sentence_31120
+31120_4	ROOT	31120_4
+31120_4	has_surface_form	was
+31120_2	is_in_sentence	sentence_31120
+31120_2	prep	31120_1
+31120_2	has_surface_form	of
+31120_2	part_of_entity	Tour of Missouri
+31120_3	is_in_sentence	sentence_31120
+31120_3	pobj	31120_2
+31120_3	has_surface_form	Missouri
+31120_3	part_of_entity	Tour of Missouri
+31120_5	is_in_sentence	sentence_31120
+31120_5	det	31120_11
+31120_5	has_surface_form	a
+31120_11	is_in_sentence	sentence_31120
+31120_11	attr	31120_4
+31120_11	has_surface_form	race
+31120_11	part_of_entity	stage race
+31120_6	is_in_sentence	sentence_31120
+31120_6	amod	31120_11
+31120_6	has_surface_form	professional
+31120_7	is_in_sentence	sentence_31120
+31120_7	compound	31120_8
+31120_7	has_surface_form	road
+31120_8	is_in_sentence	sentence_31120
+31120_8	compound	31120_9
+31120_8	has_surface_form	bicycle
+31120_9	is_in_sentence	sentence_31120
+31120_9	compound	31120_10
+31120_9	has_surface_form	racing
+31120_10	is_in_sentence	sentence_31120
+31120_10	compound	31120_11
+31120_10	has_surface_form	stage
+31120_10	part_of_entity	stage race
+31120_12	is_in_sentence	sentence_31120
+31120_12	prep	31120_11
+31120_12	has_surface_form	in
+31120_13	is_in_sentence	sentence_31120
+31120_13	pobj	31120_12
+31120_13	has_surface_form	Missouri
+31120_14	is_in_sentence	sentence_31120
+31120_14	nsubj	31120_15
+31120_14	has_surface_form	that
+31120_15	is_in_sentence	sentence_31120
+31120_15	relcl	31120_11
+31120_15	has_surface_form	started
+31120_16	is_in_sentence	sentence_31120
+31120_16	prep	31120_15
+31120_16	has_surface_form	on
+31120_17	is_in_sentence	sentence_31120
+31120_17	pobj	31120_16
+31120_17	has_surface_form	September
+31120_18	is_in_sentence	sentence_31120
+31120_18	nummod	31120_17
+31120_18	has_surface_form	11
+31120_19	is_in_sentence	sentence_31120
+31120_19	punct	31120_17
+31120_19	has_surface_form	,
+31120_20	is_in_sentence	sentence_31120
+31120_20	appos	31120_17
+31120_20	has_surface_form	2007
+31120_21	is_in_sentence	sentence_31120
+31120_21	prep	31120_15
+31120_21	has_surface_form	with
+31120_22	is_in_sentence	sentence_31120
+31120_22	nummod	31120_23
+31120_22	has_surface_form	six
+31120_23	is_in_sentence	sentence_31120
+31120_23	pobj	31120_21
+31120_23	has_surface_form	days
+31120_24	is_in_sentence	sentence_31120
+31120_24	prep	31120_23
+31120_24	has_surface_form	of
+31120_25	is_in_sentence	sentence_31120
+31120_25	pobj	31120_24
+31120_25	has_surface_form	racing
+31120_26	is_in_sentence	sentence_31120
+31120_26	punct	31120_4
+31120_26	has_surface_form	.
+31120_27	is_in_sentence	sentence_31120
+31120_27	dep	31120_27
+31120_27	has_surface_form	
+Tour of Missouri	surface_form	Tour of Missouri
+Tour of Missouri	has-type	stage race
+stage race	surface_form	stage race

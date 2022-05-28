@@ -1,0 +1,65 @@
+7364_0	is_in_sentence	sentence_7364
+7364_0	compound	7364_1
+7364_0	has_surface_form	Ivan
+7364_0	part_of_entity	Ivan Šimko
+7364_1	is_in_sentence	sentence_7364
+7364_1	nsubj	7364_11
+7364_1	has_surface_form	Šimko
+7364_1	part_of_entity	Ivan Šimko
+7364_11	is_in_sentence	sentence_7364
+7364_11	ROOT	7364_11
+7364_11	has_surface_form	is
+7364_2	is_in_sentence	sentence_7364
+7364_2	punct	7364_3
+7364_2	has_surface_form	(
+7364_3	is_in_sentence	sentence_7364
+7364_3	parataxis	7364_1
+7364_3	has_surface_form	born
+7364_4	is_in_sentence	sentence_7364
+7364_4	npadvmod	7364_3
+7364_4	has_surface_form	January
+7364_5	is_in_sentence	sentence_7364
+7364_5	nummod	7364_4
+7364_5	has_surface_form	1
+7364_6	is_in_sentence	sentence_7364
+7364_6	punct	7364_4
+7364_6	has_surface_form	,
+7364_7	is_in_sentence	sentence_7364
+7364_7	nummod	7364_4
+7364_7	has_surface_form	1955
+7364_8	is_in_sentence	sentence_7364
+7364_8	punct	7364_4
+7364_8	has_surface_form	,
+7364_9	is_in_sentence	sentence_7364
+7364_9	appos	7364_4
+7364_9	is_entity	Bratislava
+Bratislava	surface_form	Bratislava
+7364_10	is_in_sentence	sentence_7364
+7364_10	punct	7364_1
+7364_10	has_surface_form	)
+7364_12	is_in_sentence	sentence_7364
+7364_12	amod	7364_13
+7364_12	has_surface_form	Slovak
+7364_13	is_in_sentence	sentence_7364
+7364_13	attr	7364_11
+7364_13	has_surface_form	politician
+7364_14	is_in_sentence	sentence_7364
+7364_14	cc	7364_13
+7364_14	has_surface_form	and
+7364_15	is_in_sentence	sentence_7364
+7364_15	amod	7364_17
+7364_15	has_surface_form	former
+7364_17	is_in_sentence	sentence_7364
+7364_17	conj	7364_13
+7364_17	has_surface_form	Minister
+7364_16	is_in_sentence	sentence_7364
+7364_16	compound	7364_17
+7364_16	has_surface_form	Defence
+7364_18	is_in_sentence	sentence_7364
+7364_18	punct	7364_11
+7364_18	has_surface_form	.
+7364_19	is_in_sentence	sentence_7364
+7364_19	dep	7364_11
+7364_19	has_surface_form	
+Ivan Šimko	surface_form	Ivan Šimko
+Ivan Šimko	birth-place	Bratislava

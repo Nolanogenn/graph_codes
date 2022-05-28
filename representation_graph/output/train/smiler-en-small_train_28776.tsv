@@ -1,0 +1,52 @@
+28775_0	is_in_sentence	sentence_28775
+28775_0	compound	28775_1
+28775_0	has_surface_form	Page
+28775_0	part_of_entity	Page Belcher
+28775_1	is_in_sentence	sentence_28775
+28775_1	nsubjpass	28775_3
+28775_1	has_surface_form	Belcher
+28775_1	part_of_entity	Page Belcher
+28775_3	is_in_sentence	sentence_28775
+28775_3	ROOT	28775_3
+28775_3	has_surface_form	married
+28775_2	is_in_sentence	sentence_28775
+28775_2	auxpass	28775_3
+28775_2	has_surface_form	was
+28775_4	is_in_sentence	sentence_28775
+28775_4	prep	28775_3
+28775_4	has_surface_form	on
+28775_5	is_in_sentence	sentence_28775
+28775_5	pobj	28775_4
+28775_5	has_surface_form	June
+28775_6	is_in_sentence	sentence_28775
+28775_6	nummod	28775_5
+28775_6	has_surface_form	16
+28775_7	is_in_sentence	sentence_28775
+28775_7	punct	28775_5
+28775_7	has_surface_form	,
+28775_8	is_in_sentence	sentence_28775
+28775_8	nummod	28775_5
+28775_8	has_surface_form	1922
+28775_9	is_in_sentence	sentence_28775
+28775_9	punct	28775_3
+28775_9	has_surface_form	,
+28775_10	is_in_sentence	sentence_28775
+28775_10	prep	28775_3
+28775_10	has_surface_form	to
+28775_11	is_in_sentence	sentence_28775
+28775_11	compound	28775_12
+28775_11	has_surface_form	Gladys
+28775_11	part_of_entity	Gladys Collins
+28775_12	is_in_sentence	sentence_28775
+28775_12	pobj	28775_10
+28775_12	has_surface_form	Collins
+28775_12	part_of_entity	Gladys Collins
+28775_13	is_in_sentence	sentence_28775
+28775_13	punct	28775_3
+28775_13	has_surface_form	.
+28775_14	is_in_sentence	sentence_28775
+28775_14	dep	28775_14
+28775_14	has_surface_form	
+Page Belcher	surface_form	Page Belcher
+Page Belcher	has-spouse	Gladys Collins
+Gladys Collins	surface_form	Gladys Collins

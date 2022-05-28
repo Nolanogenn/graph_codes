@@ -1,0 +1,89 @@
+5709_0	is_in_sentence	sentence_5709
+5709_0	det	5709_3
+5709_0	has_surface_form	The
+5709_3	is_in_sentence	sentence_5709
+5709_3	nsubj	5709_4
+5709_3	has_surface_form	Library
+5709_3	part_of_entity	Georgia Tech Library
+5709_1	is_in_sentence	sentence_5709
+5709_1	compound	5709_3
+5709_1	has_surface_form	Georgia
+5709_1	part_of_entity	Georgia Tech Library
+5709_2	is_in_sentence	sentence_5709
+5709_2	compound	5709_3
+5709_2	has_surface_form	Tech
+5709_2	part_of_entity	Georgia Tech Library
+5709_4	is_in_sentence	sentence_5709
+5709_4	ROOT	5709_4
+5709_4	has_surface_form	is
+5709_5	is_in_sentence	sentence_5709
+5709_5	det	5709_7
+5709_5	has_surface_form	an
+5709_7	is_in_sentence	sentence_5709
+5709_7	attr	5709_4
+5709_7	has_surface_form	library
+5709_7	part_of_entity	academic library
+5709_6	is_in_sentence	sentence_5709
+5709_6	amod	5709_7
+5709_6	has_surface_form	academic
+5709_6	part_of_entity	academic library
+5709_8	is_in_sentence	sentence_5709
+5709_8	nsubj	5709_9
+5709_8	has_surface_form	that
+5709_9	is_in_sentence	sentence_5709
+5709_9	relcl	5709_7
+5709_9	has_surface_form	serves
+5709_10	is_in_sentence	sentence_5709
+5709_10	det	5709_11
+5709_10	has_surface_form	the
+5709_11	is_in_sentence	sentence_5709
+5709_11	dobj	5709_9
+5709_11	has_surface_form	needs
+5709_12	is_in_sentence	sentence_5709
+5709_12	prep	5709_11
+5709_12	has_surface_form	of
+5709_13	is_in_sentence	sentence_5709
+5709_13	pobj	5709_12
+5709_13	has_surface_form	students
+5709_14	is_in_sentence	sentence_5709
+5709_14	punct	5709_13
+5709_14	has_surface_form	,
+5709_15	is_in_sentence	sentence_5709
+5709_15	conj	5709_13
+5709_15	has_surface_form	faculty
+5709_16	is_in_sentence	sentence_5709
+5709_16	punct	5709_15
+5709_16	has_surface_form	,
+5709_17	is_in_sentence	sentence_5709
+5709_17	cc	5709_15
+5709_17	has_surface_form	and
+5709_18	is_in_sentence	sentence_5709
+5709_18	conj	5709_15
+5709_18	has_surface_form	staff
+5709_19	is_in_sentence	sentence_5709
+5709_19	prep	5709_18
+5709_19	has_surface_form	at
+5709_20	is_in_sentence	sentence_5709
+5709_20	det	5709_22
+5709_20	has_surface_form	the
+5709_22	is_in_sentence	sentence_5709
+5709_22	pobj	5709_19
+5709_22	has_surface_form	Institute
+5709_21	is_in_sentence	sentence_5709
+5709_21	compound	5709_22
+5709_21	has_surface_form	Georgia
+5709_23	is_in_sentence	sentence_5709
+5709_23	prep	5709_22
+5709_23	has_surface_form	of
+5709_24	is_in_sentence	sentence_5709
+5709_24	pobj	5709_23
+5709_24	has_surface_form	Technology
+5709_25	is_in_sentence	sentence_5709
+5709_25	punct	5709_4
+5709_25	has_surface_form	.
+5709_26	is_in_sentence	sentence_5709
+5709_26	dep	5709_4
+5709_26	has_surface_form	
+Georgia Tech Library	surface_form	Georgia Tech Library
+Georgia Tech Library	has-type	academic library
+academic library	surface_form	academic library

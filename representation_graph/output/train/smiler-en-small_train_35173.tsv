@@ -1,0 +1,78 @@
+35172_0	is_in_sentence	sentence_35172
+35172_0	det	35172_1
+35172_0	has_surface_form	The
+35172_0	part_of_entity	The Dear & Departed
+35172_1	is_in_sentence	sentence_35172
+35172_1	nsubj	35172_4
+35172_1	has_surface_form	Dear
+35172_1	part_of_entity	The Dear & Departed
+35172_4	is_in_sentence	sentence_35172
+35172_4	ROOT	35172_4
+35172_4	has_surface_form	is
+35172_2	is_in_sentence	sentence_35172
+35172_2	cc	35172_1
+35172_2	has_surface_form	&
+35172_2	part_of_entity	The Dear & Departed
+35172_3	is_in_sentence	sentence_35172
+35172_3	conj	35172_1
+35172_3	has_surface_form	Departed
+35172_3	part_of_entity	The Dear & Departed
+35172_5	is_in_sentence	sentence_35172
+35172_5	det	35172_7
+35172_5	has_surface_form	a
+35172_7	is_in_sentence	sentence_35172
+35172_7	attr	35172_4
+35172_7	has_surface_form	band
+35172_6	is_in_sentence	sentence_35172
+35172_6	compound	35172_7
+35172_6	has_surface_form	rock
+35172_8	is_in_sentence	sentence_35172
+35172_8	prep	35172_7
+35172_8	has_surface_form	from
+35172_9	is_in_sentence	sentence_35172
+35172_9	compound	35172_10
+35172_9	has_surface_form	Orange
+35172_10	is_in_sentence	sentence_35172
+35172_10	pobj	35172_8
+35172_10	has_surface_form	County
+35172_11	is_in_sentence	sentence_35172
+35172_11	cc	35172_10
+35172_11	has_surface_form	and
+35172_12	is_in_sentence	sentence_35172
+35172_12	compound	35172_13
+35172_12	has_surface_form	Los
+35172_13	is_in_sentence	sentence_35172
+35172_13	conj	35172_10
+35172_13	has_surface_form	Angeles
+35172_14	is_in_sentence	sentence_35172
+35172_14	punct	35172_13
+35172_14	has_surface_form	,
+35172_15	is_in_sentence	sentence_35172
+35172_15	appos	35172_13
+35172_15	has_surface_form	California
+35172_16	is_in_sentence	sentence_35172
+35172_16	punct	35172_10
+35172_16	has_surface_form	,
+35172_17	is_in_sentence	sentence_35172
+35172_17	acl	35172_10
+35172_17	has_surface_form	founded
+35172_18	is_in_sentence	sentence_35172
+35172_18	agent	35172_17
+35172_18	has_surface_form	by
+35172_19	is_in_sentence	sentence_35172
+35172_19	compound	35172_20
+35172_19	has_surface_form	Dan
+35172_19	part_of_entity	Dan Smith
+35172_20	is_in_sentence	sentence_35172
+35172_20	pobj	35172_18
+35172_20	has_surface_form	Smith
+35172_20	part_of_entity	Dan Smith
+35172_21	is_in_sentence	sentence_35172
+35172_21	punct	35172_4
+35172_21	has_surface_form	.
+35172_22	is_in_sentence	sentence_35172
+35172_22	dep	35172_4
+35172_22	has_surface_form	
+The Dear & Departed	surface_form	The Dear & Departed
+The Dear & Departed	org-has-member	Dan Smith
+Dan Smith	surface_form	Dan Smith

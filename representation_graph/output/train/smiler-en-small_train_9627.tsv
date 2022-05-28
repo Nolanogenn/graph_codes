@@ -1,0 +1,59 @@
+9626_0	is_in_sentence	sentence_9626
+9626_0	compound	9626_1
+9626_0	has_surface_form	William
+9626_0	part_of_entity	William Edington
+9626_1	is_in_sentence	sentence_9626
+9626_1	nsubj	9626_10
+9626_1	has_surface_form	Edington
+9626_1	part_of_entity	William Edington
+9626_10	is_in_sentence	sentence_9626
+9626_10	ROOT	9626_10
+9626_10	has_surface_form	was
+9626_2	is_in_sentence	sentence_9626
+9626_2	punct	9626_3
+9626_2	has_surface_form	(
+9626_3	is_in_sentence	sentence_9626
+9626_3	parataxis	9626_1
+9626_3	has_surface_form	died
+9626_4	is_in_sentence	sentence_9626
+9626_4	npadvmod	9626_3
+9626_4	has_surface_form	6
+9626_5	is_in_sentence	sentence_9626
+9626_5	cc	9626_4
+9626_5	has_surface_form	or
+9626_6	is_in_sentence	sentence_9626
+9626_6	conj	9626_4
+9626_6	has_surface_form	7
+9626_7	is_in_sentence	sentence_9626
+9626_7	conj	9626_4
+9626_7	has_surface_form	October
+9626_8	is_in_sentence	sentence_9626
+9626_8	nummod	9626_7
+9626_8	has_surface_form	1366
+9626_9	is_in_sentence	sentence_9626
+9626_9	punct	9626_3
+9626_9	has_surface_form	)
+9626_11	is_in_sentence	sentence_9626
+9626_11	det	9626_13
+9626_11	has_surface_form	an
+9626_13	is_in_sentence	sentence_9626
+9626_13	attr	9626_10
+9626_13	is_entity	bishop
+9626_12	is_in_sentence	sentence_9626
+9626_12	amod	9626_13
+9626_12	has_surface_form	English
+bishop	surface_form	bishop
+9626_14	is_in_sentence	sentence_9626
+9626_14	cc	9626_13
+9626_14	has_surface_form	and
+9626_15	is_in_sentence	sentence_9626
+9626_15	conj	9626_13
+9626_15	has_surface_form	administrator
+9626_16	is_in_sentence	sentence_9626
+9626_16	punct	9626_10
+9626_16	has_surface_form	.
+9626_17	is_in_sentence	sentence_9626
+9626_17	dep	9626_17
+9626_17	has_surface_form	
+William Edington	surface_form	William Edington
+William Edington	has-type	bishop

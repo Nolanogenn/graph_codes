@@ -1,0 +1,44 @@
+15099_0	is_in_sentence	sentence_15099
+15099_0	compound	15099_1
+15099_0	has_surface_form	Crescent
+15099_0	part_of_entity	Crescent University
+15099_1	is_in_sentence	sentence_15099
+15099_1	nsubjpass	15099_3
+15099_1	has_surface_form	University
+15099_1	part_of_entity	Crescent University
+15099_3	is_in_sentence	sentence_15099
+15099_3	ROOT	15099_3
+15099_3	has_surface_form	located
+15099_2	is_in_sentence	sentence_15099
+15099_2	auxpass	15099_3
+15099_2	has_surface_form	is
+15099_4	is_in_sentence	sentence_15099
+15099_4	prep	15099_3
+15099_4	has_surface_form	in
+15099_5	is_in_sentence	sentence_15099
+15099_5	pobj	15099_4
+15099_5	is_entity	Abeokuta
+Abeokuta	surface_form	Abeokuta
+15099_6	is_in_sentence	sentence_15099
+15099_6	punct	15099_5
+15099_6	has_surface_form	,
+15099_7	is_in_sentence	sentence_15099
+15099_7	compound	15099_8
+15099_7	has_surface_form	Ogun
+15099_8	is_in_sentence	sentence_15099
+15099_8	conj	15099_5
+15099_8	has_surface_form	State
+15099_9	is_in_sentence	sentence_15099
+15099_9	punct	15099_8
+15099_9	has_surface_form	,
+15099_10	is_in_sentence	sentence_15099
+15099_10	npadvmod	15099_8
+15099_10	has_surface_form	Nigeria
+15099_11	is_in_sentence	sentence_15099
+15099_11	punct	15099_3
+15099_11	has_surface_form	.
+15099_12	is_in_sentence	sentence_15099
+15099_12	dep	15099_3
+15099_12	has_surface_form	
+Crescent University	surface_form	Crescent University
+Crescent University	is-where	Abeokuta

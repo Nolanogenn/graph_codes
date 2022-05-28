@@ -1,0 +1,52 @@
+1687_0	is_in_sentence	sentence_1687
+1687_0	compound	1687_1
+1687_0	has_surface_form	Slow
+1687_0	part_of_entity	Slow Gherkin
+1687_1	is_in_sentence	sentence_1687
+1687_1	nsubj	1687_2
+1687_1	has_surface_form	Gherkin
+1687_1	part_of_entity	Slow Gherkin
+1687_2	is_in_sentence	sentence_1687
+1687_2	ROOT	1687_2
+1687_2	has_surface_form	is
+1687_3	is_in_sentence	sentence_1687
+1687_3	det	1687_7
+1687_3	has_surface_form	an
+1687_7	is_in_sentence	sentence_1687
+1687_7	attr	1687_2
+1687_7	has_surface_form	band
+1687_4	is_in_sentence	sentence_1687
+1687_4	amod	1687_7
+1687_4	has_surface_form	American
+1687_5	is_in_sentence	sentence_1687
+1687_5	compound	1687_7
+1687_5	has_surface_form	ska
+1687_5	part_of_entity	ska punk
+1687_6	is_in_sentence	sentence_1687
+1687_6	compound	1687_7
+1687_6	has_surface_form	punk
+1687_6	part_of_entity	ska punk
+1687_8	is_in_sentence	sentence_1687
+1687_8	prep	1687_7
+1687_8	has_surface_form	from
+1687_9	is_in_sentence	sentence_1687
+1687_9	compound	1687_10
+1687_9	has_surface_form	Santa
+1687_10	is_in_sentence	sentence_1687
+1687_10	pobj	1687_8
+1687_10	has_surface_form	Cruz
+1687_11	is_in_sentence	sentence_1687
+1687_11	punct	1687_10
+1687_11	has_surface_form	,
+1687_12	is_in_sentence	sentence_1687
+1687_12	appos	1687_10
+1687_12	has_surface_form	California
+1687_13	is_in_sentence	sentence_1687
+1687_13	punct	1687_2
+1687_13	has_surface_form	.
+1687_14	is_in_sentence	sentence_1687
+1687_14	dep	1687_14
+1687_14	has_surface_form	
+Slow Gherkin	surface_form	Slow Gherkin
+Slow Gherkin	has-genre	ska punk
+ska punk	surface_form	ska punk

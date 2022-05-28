@@ -1,0 +1,60 @@
+12965_0	is_in_sentence	sentence_12965
+12965_0	compound	12965_1
+12965_0	has_surface_form	North
+12965_0	part_of_entity	North Carolina Highway 159
+12965_1	is_in_sentence	sentence_12965
+12965_1	compound	12965_2
+12965_1	has_surface_form	Carolina
+12965_1	part_of_entity	North Carolina Highway 159
+12965_2	is_in_sentence	sentence_12965
+12965_2	nsubj	12965_8
+12965_2	has_surface_form	Highway
+12965_2	part_of_entity	North Carolina Highway 159
+12965_8	is_in_sentence	sentence_12965
+12965_8	ROOT	12965_8
+12965_8	has_surface_form	is
+12965_3	is_in_sentence	sentence_12965
+12965_3	nummod	12965_2
+12965_3	has_surface_form	159
+12965_3	part_of_entity	North Carolina Highway 159
+12965_4	is_in_sentence	sentence_12965
+12965_4	punct	12965_2
+12965_4	has_surface_form	(
+12965_5	is_in_sentence	sentence_12965
+12965_5	appos	12965_2
+12965_5	has_surface_form	NC
+12965_6	is_in_sentence	sentence_12965
+12965_6	nummod	12965_5
+12965_6	has_surface_form	159
+12965_7	is_in_sentence	sentence_12965
+12965_7	punct	12965_5
+12965_7	has_surface_form	)
+12965_9	is_in_sentence	sentence_12965
+12965_9	det	12965_12
+12965_9	has_surface_form	a
+12965_12	is_in_sentence	sentence_12965
+12965_12	attr	12965_8
+12965_12	has_surface_form	highway
+12965_12	part_of_entity	state highway
+12965_10	is_in_sentence	sentence_12965
+12965_10	amod	12965_12
+12965_10	has_surface_form	primary
+12965_11	is_in_sentence	sentence_12965
+12965_11	compound	12965_12
+12965_11	has_surface_form	state
+12965_11	part_of_entity	state highway
+12965_13	is_in_sentence	sentence_12965
+12965_13	prep	12965_12
+12965_13	has_surface_form	in
+12965_14	is_in_sentence	sentence_12965
+12965_14	det	12965_15
+12965_14	has_surface_form	the
+12965_15	is_in_sentence	sentence_12965
+12965_15	pobj	12965_13
+12965_15	has_surface_form	U.
+12965_16	is_in_sentence	sentence_12965
+12965_16	dep	12965_8
+12965_16	has_surface_form	
+North Carolina Highway 159	surface_form	North Carolina Highway 159
+North Carolina Highway 159	has-type	state highway
+state highway	surface_form	state highway

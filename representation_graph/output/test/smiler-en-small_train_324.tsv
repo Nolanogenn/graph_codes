@@ -1,0 +1,67 @@
+323_0	is_in_sentence	sentence_323
+323_0	det	323_1
+323_0	has_surface_form	The
+323_0	part_of_entity	The Anchorite
+323_1	is_in_sentence	sentence_323
+323_1	nsubj	323_8
+323_1	has_surface_form	Anchorite
+323_1	part_of_entity	The Anchorite
+323_8	is_in_sentence	sentence_323
+323_8	ROOT	323_8
+323_8	has_surface_form	is
+323_2	is_in_sentence	sentence_323
+323_2	punct	323_3
+323_2	has_surface_form	(
+323_3	is_in_sentence	sentence_323
+323_3	appos	323_1
+323_3	has_surface_form	Spanish
+323_4	is_in_sentence	sentence_323
+323_4	punct	323_3
+323_4	has_surface_form	:
+323_5	is_in_sentence	sentence_323
+323_5	compound	323_6
+323_5	has_surface_form	El
+323_6	is_in_sentence	sentence_323
+323_6	appos	323_3
+323_6	has_surface_form	anacoreta
+323_7	is_in_sentence	sentence_323
+323_7	punct	323_3
+323_7	has_surface_form	)
+323_9	is_in_sentence	sentence_323
+323_9	det	323_13
+323_9	has_surface_form	a
+323_13	is_in_sentence	sentence_323
+323_13	attr	323_8
+323_13	has_surface_form	film
+323_10	is_in_sentence	sentence_323
+323_10	nummod	323_13
+323_10	has_surface_form	1976
+323_11	is_in_sentence	sentence_323
+323_11	amod	323_13
+323_11	has_surface_form	Spanish
+323_12	is_in_sentence	sentence_323
+323_12	compound	323_13
+323_12	has_surface_form	drama
+323_14	is_in_sentence	sentence_323
+323_14	acl	323_13
+323_14	has_surface_form	directed
+323_15	is_in_sentence	sentence_323
+323_15	agent	323_14
+323_15	has_surface_form	by
+323_16	is_in_sentence	sentence_323
+323_16	compound	323_17
+323_16	has_surface_form	Juan
+323_16	part_of_entity	Juan Estelrich
+323_17	is_in_sentence	sentence_323
+323_17	pobj	323_15
+323_17	has_surface_form	Estelrich
+323_17	part_of_entity	Juan Estelrich
+323_18	is_in_sentence	sentence_323
+323_18	punct	323_8
+323_18	has_surface_form	.
+323_19	is_in_sentence	sentence_323
+323_19	dep	323_19
+323_19	has_surface_form	
+The Anchorite	surface_form	The Anchorite
+The Anchorite	movie-has-director	Juan Estelrich
+Juan Estelrich	surface_form	Juan Estelrich

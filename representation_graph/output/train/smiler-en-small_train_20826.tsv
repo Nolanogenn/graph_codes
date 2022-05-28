@@ -1,0 +1,49 @@
+20825_0	is_in_sentence	sentence_20825
+20825_0	compound	20825_1
+20825_0	has_surface_form	Naughty
+20825_0	part_of_entity	Naughty Dog
+20825_1	is_in_sentence	sentence_20825
+20825_1	nsubj	20825_2
+20825_1	has_surface_form	Dog
+20825_1	part_of_entity	Naughty Dog
+20825_2	is_in_sentence	sentence_20825
+20825_2	ROOT	20825_2
+20825_2	has_surface_form	developed
+20825_3	is_in_sentence	sentence_20825
+20825_3	nummod	20825_6
+20825_3	has_surface_form	three
+20825_6	is_in_sentence	sentence_20825
+20825_6	dobj	20825_2
+20825_6	has_surface_form	games
+20825_4	is_in_sentence	sentence_20825
+20825_4	compound	20825_5
+20825_4	has_surface_form	Crash
+20825_4	part_of_entity	Crash Bandicoot
+20825_5	is_in_sentence	sentence_20825
+20825_5	compound	20825_6
+20825_5	has_surface_form	Bandicoot
+20825_5	part_of_entity	Crash Bandicoot
+20825_7	is_in_sentence	sentence_20825
+20825_7	prep	20825_2
+20825_7	has_surface_form	over
+20825_8	is_in_sentence	sentence_20825
+20825_8	det	20825_11
+20825_8	has_surface_form	the
+20825_11	is_in_sentence	sentence_20825
+20825_11	pobj	20825_7
+20825_11	has_surface_form	years
+20825_9	is_in_sentence	sentence_20825
+20825_9	amod	20825_11
+20825_9	has_surface_form	next
+20825_10	is_in_sentence	sentence_20825
+20825_10	amod	20825_11
+20825_10	has_surface_form	several
+20825_12	is_in_sentence	sentence_20825
+20825_12	punct	20825_2
+20825_12	has_surface_form	.
+20825_13	is_in_sentence	sentence_20825
+20825_13	dep	20825_13
+20825_13	has_surface_form	
+Naughty Dog	surface_form	Naughty Dog
+Naughty Dog	no_relation	Crash Bandicoot
+Crash Bandicoot	surface_form	Crash Bandicoot

@@ -1,0 +1,73 @@
+30782_0	is_in_sentence	sentence_30782
+30782_0	compound	30782_1
+30782_0	has_surface_form	Judi
+30782_0	part_of_entity	Judi Evans
+30782_1	is_in_sentence	sentence_30782
+30782_1	ROOT	30782_1
+30782_1	has_surface_form	Evans
+30782_1	part_of_entity	Judi Evans
+30782_2	is_in_sentence	sentence_30782
+30782_2	punct	30782_4
+30782_2	has_surface_form	(
+30782_4	is_in_sentence	sentence_30782
+30782_4	parataxis	30782_1
+30782_4	has_surface_form	credited
+30782_3	is_in_sentence	sentence_30782
+30782_3	advmod	30782_4
+30782_3	has_surface_form	also
+30782_5	is_in_sentence	sentence_30782
+30782_5	prep	30782_4
+30782_5	has_surface_form	as
+30782_6	is_in_sentence	sentence_30782
+30782_6	compound	30782_8
+30782_6	has_surface_form	Judi
+30782_6	part_of_entity	Judi Evans
+30782_8	is_in_sentence	sentence_30782
+30782_8	pobj	30782_5
+30782_8	has_surface_form	Luciano
+30782_7	is_in_sentence	sentence_30782
+30782_7	compound	30782_8
+30782_7	has_surface_form	Evans
+30782_7	part_of_entity	Judi Evans
+30782_9	is_in_sentence	sentence_30782
+30782_9	punct	30782_8
+30782_9	has_surface_form	,
+30782_10	is_in_sentence	sentence_30782
+30782_10	acl	30782_8
+30782_10	has_surface_form	born
+30782_11	is_in_sentence	sentence_30782
+30782_11	npadvmod	30782_10
+30782_11	has_surface_form	July
+30782_12	is_in_sentence	sentence_30782
+30782_12	nummod	30782_11
+30782_12	has_surface_form	12
+30782_13	is_in_sentence	sentence_30782
+30782_13	punct	30782_11
+30782_13	has_surface_form	,
+30782_14	is_in_sentence	sentence_30782
+30782_14	nummod	30782_11
+30782_14	has_surface_form	1964
+30782_15	is_in_sentence	sentence_30782
+30782_15	punct	30782_8
+30782_15	has_surface_form	)
+30782_16	is_in_sentence	sentence_30782
+30782_16	advcl	30782_4
+30782_16	has_surface_form	is
+30782_17	is_in_sentence	sentence_30782
+30782_17	det	30782_19
+30782_17	has_surface_form	an
+30782_19	is_in_sentence	sentence_30782
+30782_19	attr	30782_16
+30782_19	is_entity	actress
+30782_18	is_in_sentence	sentence_30782
+30782_18	amod	30782_19
+30782_18	has_surface_form	American
+actress	surface_form	actress
+30782_20	is_in_sentence	sentence_30782
+30782_20	punct	30782_4
+30782_20	has_surface_form	.
+30782_21	is_in_sentence	sentence_30782
+30782_21	dep	30782_21
+30782_21	has_surface_form	
+Judi Evans	surface_form	Judi Evans
+Judi Evans	has-occupation	actress

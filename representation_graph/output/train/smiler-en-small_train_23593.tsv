@@ -1,0 +1,49 @@
+23592_0	is_in_sentence	sentence_23592
+23592_0	compound	23592_1
+23592_0	has_surface_form	Deshbandhu
+23592_0	part_of_entity	Deshbandhu College for Girls
+23592_1	is_in_sentence	sentence_23592
+23592_1	nsubj	23592_4
+23592_1	has_surface_form	College
+23592_1	part_of_entity	Deshbandhu College for Girls
+23592_4	is_in_sentence	sentence_23592
+23592_4	ROOT	23592_4
+23592_4	has_surface_form	is
+23592_2	is_in_sentence	sentence_23592
+23592_2	prep	23592_1
+23592_2	has_surface_form	for
+23592_2	part_of_entity	Deshbandhu College for Girls
+23592_3	is_in_sentence	sentence_23592
+23592_3	pobj	23592_2
+23592_3	has_surface_form	Girls
+23592_3	part_of_entity	Deshbandhu College for Girls
+23592_5	is_in_sentence	sentence_23592
+23592_5	det	23592_6
+23592_5	has_surface_form	a
+23592_6	is_in_sentence	sentence_23592
+23592_6	poss	23592_8
+23592_6	has_surface_form	women
+23592_8	is_in_sentence	sentence_23592
+23592_8	attr	23592_4
+23592_8	has_surface_form	college
+23592_7	is_in_sentence	sentence_23592
+23592_7	case	23592_6
+23592_7	has_surface_form	's
+23592_9	is_in_sentence	sentence_23592
+23592_9	acl	23592_8
+23592_9	has_surface_form	located
+23592_10	is_in_sentence	sentence_23592
+23592_10	prep	23592_9
+23592_10	has_surface_form	in
+23592_11	is_in_sentence	sentence_23592
+23592_11	pobj	23592_10
+23592_11	is_entity	Kolkata
+Kolkata	surface_form	Kolkata
+23592_12	is_in_sentence	sentence_23592
+23592_12	punct	23592_4
+23592_12	has_surface_form	.
+23592_13	is_in_sentence	sentence_23592
+23592_13	dep	23592_13
+23592_13	has_surface_form	
+Deshbandhu College for Girls	surface_form	Deshbandhu College for Girls
+Deshbandhu College for Girls	is-where	Kolkata

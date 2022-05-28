@@ -1,0 +1,59 @@
+19937_0	is_in_sentence	sentence_19937
+19937_0	compound	19937_1
+19937_0	has_surface_form	Jewel
+19937_0	part_of_entity	Jewel Brown
+19937_1	is_in_sentence	sentence_19937
+19937_1	nsubj	19937_9
+19937_1	has_surface_form	Brown
+19937_1	part_of_entity	Jewel Brown
+19937_9	is_in_sentence	sentence_19937
+19937_9	ROOT	19937_9
+19937_9	has_surface_form	is
+19937_2	is_in_sentence	sentence_19937
+19937_2	punct	19937_1
+19937_2	has_surface_form	(
+19937_3	is_in_sentence	sentence_19937
+19937_3	acl	19937_1
+19937_3	has_surface_form	born
+19937_4	is_in_sentence	sentence_19937
+19937_4	npadvmod	19937_3
+19937_4	has_surface_form	August
+19937_5	is_in_sentence	sentence_19937
+19937_5	nummod	19937_4
+19937_5	has_surface_form	30
+19937_6	is_in_sentence	sentence_19937
+19937_6	punct	19937_4
+19937_6	has_surface_form	,
+19937_7	is_in_sentence	sentence_19937
+19937_7	nummod	19937_4
+19937_7	has_surface_form	1937
+19937_8	is_in_sentence	sentence_19937
+19937_8	punct	19937_1
+19937_8	has_surface_form	)
+19937_10	is_in_sentence	sentence_19937
+19937_10	det	19937_15
+19937_10	has_surface_form	an
+19937_15	is_in_sentence	sentence_19937
+19937_15	attr	19937_9
+19937_15	has_surface_form	singer
+19937_11	is_in_sentence	sentence_19937
+19937_11	amod	19937_12
+19937_11	has_surface_form	American
+19937_12	is_in_sentence	sentence_19937
+19937_12	nmod	19937_15
+19937_12	is_entity	jazz
+jazz	surface_form	jazz
+19937_13	is_in_sentence	sentence_19937
+19937_13	cc	19937_12
+19937_13	has_surface_form	and
+19937_14	is_in_sentence	sentence_19937
+19937_14	conj	19937_12
+19937_14	has_surface_form	blues
+19937_16	is_in_sentence	sentence_19937
+19937_16	punct	19937_9
+19937_16	has_surface_form	.
+19937_17	is_in_sentence	sentence_19937
+19937_17	dep	19937_17
+19937_17	has_surface_form	
+Jewel Brown	surface_form	Jewel Brown
+Jewel Brown	has-genre	jazz

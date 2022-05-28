@@ -1,0 +1,64 @@
+31783_0	is_in_sentence	sentence_31783
+31783_0	compound	31783_1
+31783_0	has_surface_form	Queen
+31783_0	part_of_entity	Queen Elizabeth
+31783_1	is_in_sentence	sentence_31783
+31783_1	nsubj	31783_2
+31783_1	has_surface_form	Elizabeth
+31783_1	part_of_entity	Queen Elizabeth
+31783_2	is_in_sentence	sentence_31783
+31783_2	ROOT	31783_2
+31783_2	has_surface_form	told
+31783_3	is_in_sentence	sentence_31783
+31783_3	dobj	31783_2
+31783_3	has_surface_form	Chamberlain
+31783_4	is_in_sentence	sentence_31783
+31783_4	mark	31783_11
+31783_4	has_surface_form	that
+31783_11	is_in_sentence	sentence_31783
+31783_11	ccomp	31783_2
+31783_11	has_surface_form	wept
+31783_5	is_in_sentence	sentence_31783
+31783_5	poss	31783_6
+31783_5	has_surface_form	her
+31783_6	is_in_sentence	sentence_31783
+31783_6	nsubj	31783_11
+31783_6	has_surface_form	daughter
+31783_7	is_in_sentence	sentence_31783
+31783_7	punct	31783_6
+31783_7	has_surface_form	,
+31783_8	is_in_sentence	sentence_31783
+31783_8	compound	31783_9
+31783_8	has_surface_form	Princess
+31783_8	part_of_entity	Princess Elizabeth
+31783_9	is_in_sentence	sentence_31783
+31783_9	appos	31783_6
+31783_9	has_surface_form	Elizabeth
+31783_9	part_of_entity	Princess Elizabeth
+31783_10	is_in_sentence	sentence_31783
+31783_10	punct	31783_6
+31783_10	has_surface_form	,
+31783_12	is_in_sentence	sentence_31783
+31783_12	mark	31783_14
+31783_12	has_surface_form	as
+31783_14	is_in_sentence	sentence_31783
+31783_14	advcl	31783_11
+31783_14	has_surface_form	heard
+31783_13	is_in_sentence	sentence_31783
+31783_13	nsubj	31783_14
+31783_13	has_surface_form	she
+31783_15	is_in_sentence	sentence_31783
+31783_15	det	31783_16
+31783_15	has_surface_form	the
+31783_16	is_in_sentence	sentence_31783
+31783_16	dobj	31783_14
+31783_16	has_surface_form	broadcast
+31783_17	is_in_sentence	sentence_31783
+31783_17	punct	31783_2
+31783_17	has_surface_form	.
+31783_18	is_in_sentence	sentence_31783
+31783_18	dep	31783_18
+31783_18	has_surface_form	
+Queen Elizabeth	surface_form	Queen Elizabeth
+Queen Elizabeth	has-child	Princess Elizabeth
+Princess Elizabeth	surface_form	Princess Elizabeth

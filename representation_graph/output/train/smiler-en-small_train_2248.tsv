@@ -1,0 +1,86 @@
+2247_0	is_in_sentence	sentence_2247
+2247_0	det	2247_2
+2247_0	has_surface_form	A
+2247_0	part_of_entity	A Revolutionary Family
+2247_2	is_in_sentence	sentence_2247
+2247_2	ROOT	2247_2
+2247_2	has_surface_form	Family
+2247_2	part_of_entity	A Revolutionary Family
+2247_1	is_in_sentence	sentence_2247
+2247_1	compound	2247_2
+2247_1	has_surface_form	Revolutionary
+2247_1	part_of_entity	A Revolutionary Family
+2247_3	is_in_sentence	sentence_2247
+2247_3	punct	2247_4
+2247_3	has_surface_form	(
+2247_4	is_in_sentence	sentence_2247
+2247_4	appos	2247_2
+2247_4	has_surface_form	Chinese
+2247_5	is_in_sentence	sentence_2247
+2247_5	punct	2247_4
+2247_5	has_surface_form	:
+2247_6	is_in_sentence	sentence_2247
+2247_6	appos	2247_4
+2247_6	has_surface_form	革命家庭
+2247_7	is_in_sentence	sentence_2247
+2247_7	punct	2247_6
+2247_7	has_surface_form	,
+2247_8	is_in_sentence	sentence_2247
+2247_8	conj	2247_6
+2247_8	has_surface_form	translit
+2247_9	is_in_sentence	sentence_2247
+2247_9	punct	2247_4
+2247_9	has_surface_form	.
+2247_10	is_in_sentence	sentence_2247
+2247_10	dep	2247_12
+2247_10	has_surface_form	 
+2247_12	is_in_sentence	sentence_2247
+2247_12	nsubj	2247_14
+2247_12	has_surface_form	jiating
+2247_11	is_in_sentence	sentence_2247
+2247_11	compound	2247_12
+2247_11	has_surface_form	Geming
+2247_14	is_in_sentence	sentence_2247
+2247_14	ROOT	2247_14
+2247_14	has_surface_form	is
+2247_13	is_in_sentence	sentence_2247
+2247_13	punct	2247_12
+2247_13	has_surface_form	)
+2247_15	is_in_sentence	sentence_2247
+2247_15	det	2247_19
+2247_15	has_surface_form	a
+2247_19	is_in_sentence	sentence_2247
+2247_19	attr	2247_14
+2247_19	has_surface_form	film
+2247_16	is_in_sentence	sentence_2247
+2247_16	nummod	2247_19
+2247_16	has_surface_form	1961
+2247_17	is_in_sentence	sentence_2247
+2247_17	amod	2247_19
+2247_17	has_surface_form	Chinese
+2247_18	is_in_sentence	sentence_2247
+2247_18	compound	2247_19
+2247_18	has_surface_form	drama
+2247_20	is_in_sentence	sentence_2247
+2247_20	acl	2247_19
+2247_20	has_surface_form	directed
+2247_21	is_in_sentence	sentence_2247
+2247_21	agent	2247_20
+2247_21	has_surface_form	by
+2247_22	is_in_sentence	sentence_2247
+2247_22	compound	2247_23
+2247_22	has_surface_form	Shui
+2247_22	part_of_entity	Shui Hua
+2247_23	is_in_sentence	sentence_2247
+2247_23	pobj	2247_21
+2247_23	has_surface_form	Hua
+2247_23	part_of_entity	Shui Hua
+2247_24	is_in_sentence	sentence_2247
+2247_24	punct	2247_14
+2247_24	has_surface_form	.
+2247_25	is_in_sentence	sentence_2247
+2247_25	dep	2247_14
+2247_25	has_surface_form	
+A Revolutionary Family	surface_form	A Revolutionary Family
+A Revolutionary Family	movie-has-director	Shui Hua
+Shui Hua	surface_form	Shui Hua

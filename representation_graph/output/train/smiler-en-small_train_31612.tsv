@@ -1,0 +1,44 @@
+31611_0	is_in_sentence	sentence_31611
+31611_0	compound	31611_1
+31611_0	has_surface_form	Joanna
+31611_0	part_of_entity	Joanna Sawyer
+31611_1	is_in_sentence	sentence_31611
+31611_1	nsubj	31611_2
+31611_1	has_surface_form	Sawyer
+31611_1	part_of_entity	Joanna Sawyer
+31611_2	is_in_sentence	sentence_31611
+31611_2	ROOT	31611_2
+31611_2	has_surface_form	is
+31611_3	is_in_sentence	sentence_31611
+31611_3	det	31611_6
+31611_3	has_surface_form	a
+31611_6	is_in_sentence	sentence_31611
+31611_6	attr	31611_2
+31611_6	has_surface_form	actress
+31611_4	is_in_sentence	sentence_31611
+31611_4	amod	31611_6
+31611_4	has_surface_form	British
+31611_5	is_in_sentence	sentence_31611
+31611_5	amod	31611_6
+31611_5	has_surface_form	born
+31611_7	is_in_sentence	sentence_31611
+31611_7	punct	31611_6
+31611_7	has_surface_form	,
+31611_8	is_in_sentence	sentence_31611
+31611_8	conj	31611_6
+31611_8	is_entity	singer
+singer	surface_form	singer
+31611_9	is_in_sentence	sentence_31611
+31611_9	cc	31611_8
+31611_9	has_surface_form	and
+31611_10	is_in_sentence	sentence_31611
+31611_10	conj	31611_8
+31611_10	has_surface_form	choreographer
+31611_11	is_in_sentence	sentence_31611
+31611_11	punct	31611_2
+31611_11	has_surface_form	.
+31611_12	is_in_sentence	sentence_31611
+31611_12	dep	31611_12
+31611_12	has_surface_form	
+Joanna Sawyer	surface_form	Joanna Sawyer
+Joanna Sawyer	has-occupation	singer

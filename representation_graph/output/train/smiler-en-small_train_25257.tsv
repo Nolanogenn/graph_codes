@@ -1,0 +1,117 @@
+25256_0	is_in_sentence	sentence_25256
+25256_0	compound	25256_2
+25256_0	has_surface_form	Ardent
+25256_0	part_of_entity	Ardent Health Services
+25256_2	is_in_sentence	sentence_25256
+25256_2	nsubj	25256_10
+25256_2	has_surface_form	Services
+25256_2	part_of_entity	Ardent Health Services
+25256_1	is_in_sentence	sentence_25256
+25256_1	compound	25256_2
+25256_1	has_surface_form	Health
+25256_1	part_of_entity	Ardent Health Services
+25256_10	is_in_sentence	sentence_25256
+25256_10	ROOT	25256_10
+25256_10	has_surface_form	is
+25256_3	is_in_sentence	sentence_25256
+25256_3	punct	25256_2
+25256_3	has_surface_form	,
+25256_4	is_in_sentence	sentence_25256
+25256_4	advmod	25256_5
+25256_4	has_surface_form	formerly
+25256_5	is_in_sentence	sentence_25256
+25256_5	acl	25256_2
+25256_5	has_surface_form	known
+25256_6	is_in_sentence	sentence_25256
+25256_6	prep	25256_5
+25256_6	has_surface_form	as
+25256_7	is_in_sentence	sentence_25256
+25256_7	compound	25256_9
+25256_7	has_surface_form	Behavioral
+25256_9	is_in_sentence	sentence_25256
+25256_9	pobj	25256_6
+25256_9	has_surface_form	Corporation
+25256_8	is_in_sentence	sentence_25256
+25256_8	compound	25256_9
+25256_8	has_surface_form	Healthcare
+25256_11	is_in_sentence	sentence_25256
+25256_11	det	25256_13
+25256_11	has_surface_form	a
+25256_13	is_in_sentence	sentence_25256
+25256_13	attr	25256_10
+25256_13	has_surface_form	company
+25256_12	is_in_sentence	sentence_25256
+25256_12	compound	25256_13
+25256_12	has_surface_form	healthcare
+25256_14	is_in_sentence	sentence_25256
+25256_14	acl	25256_13
+25256_14	has_surface_form	based
+25256_15	is_in_sentence	sentence_25256
+25256_15	prep	25256_14
+25256_15	has_surface_form	in
+25256_16	is_in_sentence	sentence_25256
+25256_16	pobj	25256_15
+25256_16	has_surface_form	Nashville
+25256_17	is_in_sentence	sentence_25256
+25256_17	punct	25256_16
+25256_17	has_surface_form	,
+25256_18	is_in_sentence	sentence_25256
+25256_18	conj	25256_16
+25256_18	has_surface_form	Tennessee
+25256_19	is_in_sentence	sentence_25256
+25256_19	punct	25256_18
+25256_19	has_surface_form	,
+25256_20	is_in_sentence	sentence_25256
+25256_20	appos	25256_18
+25256_20	has_surface_form	USA
+25256_21	is_in_sentence	sentence_25256
+25256_21	punct	25256_10
+25256_21	has_surface_form	.
+25256_22	is_in_sentence	sentence_25256
+25256_22	det	25256_25
+25256_22	has_surface_form	The
+25256_25	is_in_sentence	sentence_25256
+25256_25	nsubjpass	25256_27
+25256_25	has_surface_form	Corporation
+25256_23	is_in_sentence	sentence_25256
+25256_23	compound	25256_25
+25256_23	has_surface_form	Behavioral
+25256_24	is_in_sentence	sentence_25256
+25256_24	compound	25256_25
+25256_24	has_surface_form	Healthcare
+25256_27	is_in_sentence	sentence_25256
+25256_27	ROOT	25256_27
+25256_27	has_surface_form	founded
+25256_26	is_in_sentence	sentence_25256
+25256_26	auxpass	25256_27
+25256_26	has_surface_form	was
+25256_28	is_in_sentence	sentence_25256
+25256_28	prep	25256_27
+25256_28	has_surface_form	in
+25256_29	is_in_sentence	sentence_25256
+25256_29	pobj	25256_28
+25256_29	has_surface_form	1993
+25256_30	is_in_sentence	sentence_25256
+25256_30	agent	25256_27
+25256_30	has_surface_form	by
+25256_31	is_in_sentence	sentence_25256
+25256_31	compound	25256_33
+25256_31	has_surface_form	Charles
+25256_31	part_of_entity	Charles A. Elcan
+25256_33	is_in_sentence	sentence_25256
+25256_33	pobj	25256_30
+25256_33	has_surface_form	Elcan
+25256_33	part_of_entity	Charles A. Elcan
+25256_32	is_in_sentence	sentence_25256
+25256_32	compound	25256_33
+25256_32	has_surface_form	A.
+25256_32	part_of_entity	Charles A. Elcan
+25256_34	is_in_sentence	sentence_25256
+25256_34	punct	25256_27
+25256_34	has_surface_form	.
+25256_35	is_in_sentence	sentence_25256
+25256_35	dep	25256_35
+25256_35	has_surface_form	
+Ardent Health Services	surface_form	Ardent Health Services
+Ardent Health Services	org-has-founder	Charles A. Elcan
+Charles A. Elcan	surface_form	Charles A. Elcan

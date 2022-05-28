@@ -1,0 +1,65 @@
+8469_0	is_in_sentence	sentence_8469
+8469_0	det	8469_3
+8469_0	has_surface_form	The
+8469_3	is_in_sentence	sentence_8469
+8469_3	nsubjpass	8469_10
+8469_3	has_surface_form	generator
+8469_3	part_of_entity	electromagnetic generator
+8469_1	is_in_sentence	sentence_8469
+8469_1	amod	8469_3
+8469_1	has_surface_form	first
+8469_2	is_in_sentence	sentence_8469
+8469_2	amod	8469_3
+8469_2	has_surface_form	electromagnetic
+8469_2	part_of_entity	electromagnetic generator
+8469_10	is_in_sentence	sentence_8469
+8469_10	ROOT	8469_10
+8469_10	has_surface_form	invented
+8469_4	is_in_sentence	sentence_8469
+8469_4	punct	8469_3
+8469_4	has_surface_form	,
+8469_5	is_in_sentence	sentence_8469
+8469_5	det	8469_7
+8469_5	has_surface_form	the
+8469_7	is_in_sentence	sentence_8469
+8469_7	appos	8469_3
+8469_7	has_surface_form	disk
+8469_6	is_in_sentence	sentence_8469
+8469_6	compound	8469_7
+8469_6	has_surface_form	Faraday
+8469_8	is_in_sentence	sentence_8469
+8469_8	punct	8469_3
+8469_8	has_surface_form	,
+8469_9	is_in_sentence	sentence_8469
+8469_9	auxpass	8469_10
+8469_9	has_surface_form	was
+8469_11	is_in_sentence	sentence_8469
+8469_11	prep	8469_10
+8469_11	has_surface_form	in
+8469_12	is_in_sentence	sentence_8469
+8469_12	pobj	8469_11
+8469_12	is_entity	1831
+1831	surface_form	1831
+8469_13	is_in_sentence	sentence_8469
+8469_13	agent	8469_10
+8469_13	has_surface_form	by
+8469_14	is_in_sentence	sentence_8469
+8469_14	amod	8469_15
+8469_14	has_surface_form	British
+8469_15	is_in_sentence	sentence_8469
+8469_15	compound	8469_17
+8469_15	has_surface_form	scientist
+8469_17	is_in_sentence	sentence_8469
+8469_17	pobj	8469_13
+8469_17	has_surface_form	Faraday
+8469_16	is_in_sentence	sentence_8469
+8469_16	compound	8469_17
+8469_16	has_surface_form	Michael
+8469_18	is_in_sentence	sentence_8469
+8469_18	punct	8469_10
+8469_18	has_surface_form	.
+8469_19	is_in_sentence	sentence_8469
+8469_19	dep	8469_19
+8469_19	has_surface_form	
+electromagnetic generator	surface_form	electromagnetic generator
+electromagnetic generator	invented-when	1831

@@ -1,0 +1,59 @@
+24802_0	is_in_sentence	sentence_24802
+24802_0	compound	24802_1
+24802_0	has_surface_form	Mocking
+24802_0	part_of_entity	Mocking Shadows
+24802_1	is_in_sentence	sentence_24802
+24802_1	nsubj	24802_2
+24802_1	has_surface_form	Shadows
+24802_1	part_of_entity	Mocking Shadows
+24802_2	is_in_sentence	sentence_24802
+24802_2	ROOT	24802_2
+24802_2	has_surface_form	is
+24802_3	is_in_sentence	sentence_24802
+24802_3	det	24802_5
+24802_3	has_surface_form	a
+24802_5	is_in_sentence	sentence_24802
+24802_5	attr	24802_2
+24802_5	has_surface_form	R&B
+24802_4	is_in_sentence	sentence_24802
+24802_4	amod	24802_5
+24802_4	has_surface_form	Canadian
+24802_6	is_in_sentence	sentence_24802
+24802_6	cc	24802_5
+24802_6	has_surface_form	and
+24802_7	is_in_sentence	sentence_24802
+24802_7	nmod	24802_11
+24802_7	has_surface_form	jazz
+24802_11	is_in_sentence	sentence_24802
+24802_11	conj	24802_5
+24802_11	has_surface_form	band
+24802_8	is_in_sentence	sentence_24802
+24802_8	punct	24802_7
+24802_8	has_surface_form	/
+24802_9	is_in_sentence	sentence_24802
+24802_9	compound	24802_10
+24802_9	is_entity	funk
+24802_10	is_in_sentence	sentence_24802
+24802_10	compound	24802_11
+24802_10	has_surface_form	fusion
+funk	surface_form	funk
+24802_12	is_in_sentence	sentence_24802
+24802_12	prep	24802_11
+24802_12	has_surface_form	from
+24802_13	is_in_sentence	sentence_24802
+24802_13	pobj	24802_12
+24802_13	has_surface_form	Calgary
+24802_14	is_in_sentence	sentence_24802
+24802_14	punct	24802_13
+24802_14	has_surface_form	,
+24802_15	is_in_sentence	sentence_24802
+24802_15	appos	24802_13
+24802_15	has_surface_form	Alberta
+24802_16	is_in_sentence	sentence_24802
+24802_16	punct	24802_2
+24802_16	has_surface_form	.
+24802_17	is_in_sentence	sentence_24802
+24802_17	dep	24802_2
+24802_17	has_surface_form	
+Mocking Shadows	surface_form	Mocking Shadows
+Mocking Shadows	has-genre	funk

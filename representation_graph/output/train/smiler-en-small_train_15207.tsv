@@ -1,0 +1,84 @@
+15206_0	is_in_sentence	sentence_15206
+15206_0	compound	15206_1
+15206_0	has_surface_form	Marine
+15206_0	part_of_entity	Marine Fighter Attack Squadron 321
+15206_1	is_in_sentence	sentence_15206
+15206_1	compound	15206_3
+15206_1	has_surface_form	Fighter
+15206_1	part_of_entity	Marine Fighter Attack Squadron 321
+15206_3	is_in_sentence	sentence_15206
+15206_3	nsubj	15206_8
+15206_3	has_surface_form	Squadron
+15206_3	part_of_entity	Marine Fighter Attack Squadron 321
+15206_2	is_in_sentence	sentence_15206
+15206_2	compound	15206_3
+15206_2	has_surface_form	Attack
+15206_2	part_of_entity	Marine Fighter Attack Squadron 321
+15206_8	is_in_sentence	sentence_15206
+15206_8	ROOT	15206_8
+15206_8	has_surface_form	was
+15206_4	is_in_sentence	sentence_15206
+15206_4	nummod	15206_3
+15206_4	has_surface_form	321
+15206_4	part_of_entity	Marine Fighter Attack Squadron 321
+15206_5	is_in_sentence	sentence_15206
+15206_5	punct	15206_3
+15206_5	has_surface_form	(
+15206_6	is_in_sentence	sentence_15206
+15206_6	appos	15206_3
+15206_6	has_surface_form	VMFA-321
+15206_7	is_in_sentence	sentence_15206
+15206_7	punct	15206_3
+15206_7	has_surface_form	)
+15206_9	is_in_sentence	sentence_15206
+15206_9	det	15206_15
+15206_9	has_surface_form	a
+15206_15	is_in_sentence	sentence_15206
+15206_15	attr	15206_8
+15206_15	has_surface_form	squadron
+15206_15	part_of_entity	Marine Corps fighter squadron
+15206_10	is_in_sentence	sentence_15206
+15206_10	compound	15206_11
+15206_10	has_surface_form	United
+15206_11	is_in_sentence	sentence_15206
+15206_11	compound	15206_15
+15206_11	has_surface_form	States
+15206_12	is_in_sentence	sentence_15206
+15206_12	compound	15206_13
+15206_12	has_surface_form	Marine
+15206_12	part_of_entity	Marine Corps fighter squadron
+15206_13	is_in_sentence	sentence_15206
+15206_13	compound	15206_15
+15206_13	has_surface_form	Corps
+15206_13	part_of_entity	Marine Corps fighter squadron
+15206_14	is_in_sentence	sentence_15206
+15206_14	compound	15206_15
+15206_14	has_surface_form	fighter
+15206_14	part_of_entity	Marine Corps fighter squadron
+15206_16	is_in_sentence	sentence_15206
+15206_16	acl	15206_15
+15206_16	has_surface_form	consisting
+15206_17	is_in_sentence	sentence_15206
+15206_17	prep	15206_16
+15206_17	has_surface_form	of
+15206_18	is_in_sentence	sentence_15206
+15206_18	nmod	15206_20
+15206_18	has_surface_form	F
+15206_20	is_in_sentence	sentence_15206
+15206_20	compound	15206_21
+15206_20	has_surface_form	A-18
+15206_19	is_in_sentence	sentence_15206
+15206_19	punct	15206_20
+15206_19	has_surface_form	/
+15206_21	is_in_sentence	sentence_15206
+15206_21	pobj	15206_17
+15206_21	has_surface_form	Hornets
+15206_22	is_in_sentence	sentence_15206
+15206_22	punct	15206_8
+15206_22	has_surface_form	.
+15206_23	is_in_sentence	sentence_15206
+15206_23	dep	15206_8
+15206_23	has_surface_form	
+Marine Fighter Attack Squadron 321	surface_form	Marine Fighter Attack Squadron 321
+Marine Fighter Attack Squadron 321	has-type	Marine Corps fighter squadron
+Marine Corps fighter squadron	surface_form	Marine Corps fighter squadron

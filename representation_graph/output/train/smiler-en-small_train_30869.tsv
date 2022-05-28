@@ -1,0 +1,62 @@
+30868_0	is_in_sentence	sentence_30868
+30868_0	compound	30868_1
+30868_0	has_surface_form	Joe
+30868_0	part_of_entity	Joe Yukica
+30868_1	is_in_sentence	sentence_30868
+30868_1	nsubj	30868_9
+30868_1	has_surface_form	Yukica
+30868_1	part_of_entity	Joe Yukica
+30868_9	is_in_sentence	sentence_30868
+30868_9	ROOT	30868_9
+30868_9	has_surface_form	is
+30868_2	is_in_sentence	sentence_30868
+30868_2	punct	30868_1
+30868_2	has_surface_form	(
+30868_3	is_in_sentence	sentence_30868
+30868_3	acl	30868_1
+30868_3	has_surface_form	born
+30868_4	is_in_sentence	sentence_30868
+30868_4	npadvmod	30868_3
+30868_4	has_surface_form	May
+30868_5	is_in_sentence	sentence_30868
+30868_5	nummod	30868_4
+30868_5	has_surface_form	27
+30868_6	is_in_sentence	sentence_30868
+30868_6	punct	30868_4
+30868_6	has_surface_form	,
+30868_7	is_in_sentence	sentence_30868
+30868_7	nummod	30868_4
+30868_7	has_surface_form	1931
+30868_8	is_in_sentence	sentence_30868
+30868_8	punct	30868_1
+30868_8	has_surface_form	)
+30868_10	is_in_sentence	sentence_30868
+30868_10	det	30868_14
+30868_10	has_surface_form	a
+30868_14	is_in_sentence	sentence_30868
+30868_14	attr	30868_9
+30868_14	has_surface_form	player
+30868_11	is_in_sentence	sentence_30868
+30868_11	amod	30868_14
+30868_11	has_surface_form	former
+30868_12	is_in_sentence	sentence_30868
+30868_12	amod	30868_14
+30868_12	has_surface_form	American
+30868_13	is_in_sentence	sentence_30868
+30868_13	compound	30868_14
+30868_13	has_surface_form	football
+30868_15	is_in_sentence	sentence_30868
+30868_15	cc	30868_14
+30868_15	has_surface_form	and
+30868_16	is_in_sentence	sentence_30868
+30868_16	conj	30868_14
+30868_16	is_entity	coach
+coach	surface_form	coach
+30868_17	is_in_sentence	sentence_30868
+30868_17	punct	30868_9
+30868_17	has_surface_form	.
+30868_18	is_in_sentence	sentence_30868
+30868_18	dep	30868_18
+30868_18	has_surface_form	
+Joe Yukica	surface_form	Joe Yukica
+Joe Yukica	has-type	coach

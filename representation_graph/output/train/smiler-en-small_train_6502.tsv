@@ -1,0 +1,37 @@
+6501_0	is_in_sentence	sentence_6501
+6501_0	compound	6501_1
+6501_0	has_surface_form	Jim
+6501_0	part_of_entity	Jim Deaton
+6501_1	is_in_sentence	sentence_6501
+6501_1	nsubj	6501_2
+6501_1	has_surface_form	Deaton
+6501_1	part_of_entity	Jim Deaton
+6501_2	is_in_sentence	sentence_6501
+6501_2	ROOT	6501_2
+6501_2	has_surface_form	is
+6501_3	is_in_sentence	sentence_6501
+6501_3	det	6501_7
+6501_3	has_surface_form	a
+6501_7	is_in_sentence	sentence_6501
+6501_7	attr	6501_2
+6501_7	has_surface_form	coach
+6501_7	part_of_entity	football coach
+6501_4	is_in_sentence	sentence_6501
+6501_4	amod	6501_7
+6501_4	has_surface_form	former
+6501_5	is_in_sentence	sentence_6501
+6501_5	amod	6501_7
+6501_5	has_surface_form	American
+6501_6	is_in_sentence	sentence_6501
+6501_6	compound	6501_7
+6501_6	has_surface_form	football
+6501_6	part_of_entity	football coach
+6501_8	is_in_sentence	sentence_6501
+6501_8	punct	6501_2
+6501_8	has_surface_form	.
+6501_9	is_in_sentence	sentence_6501
+6501_9	dep	6501_9
+6501_9	has_surface_form	
+Jim Deaton	surface_form	Jim Deaton
+Jim Deaton	has-type	football coach
+football coach	surface_form	football coach

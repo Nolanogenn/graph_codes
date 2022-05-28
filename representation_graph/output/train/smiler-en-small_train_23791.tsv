@@ -1,0 +1,70 @@
+23790_0	is_in_sentence	sentence_23790
+23790_0	compound	23790_1
+23790_0	has_surface_form	Forsyth
+23790_0	part_of_entity	Forsyth Country Day School
+23790_1	is_in_sentence	sentence_23790
+23790_1	compound	23790_3
+23790_1	has_surface_form	Country
+23790_1	part_of_entity	Forsyth Country Day School
+23790_3	is_in_sentence	sentence_23790
+23790_3	nsubj	23790_7
+23790_3	has_surface_form	School
+23790_3	part_of_entity	Forsyth Country Day School
+23790_2	is_in_sentence	sentence_23790
+23790_2	compound	23790_3
+23790_2	has_surface_form	Day
+23790_2	part_of_entity	Forsyth Country Day School
+23790_7	is_in_sentence	sentence_23790
+23790_7	ROOT	23790_7
+23790_7	has_surface_form	is
+23790_4	is_in_sentence	sentence_23790
+23790_4	punct	23790_3
+23790_4	has_surface_form	(
+23790_5	is_in_sentence	sentence_23790
+23790_5	appos	23790_3
+23790_5	has_surface_form	FCDS
+23790_6	is_in_sentence	sentence_23790
+23790_6	punct	23790_3
+23790_6	has_surface_form	)
+23790_8	is_in_sentence	sentence_23790
+23790_8	det	23790_12
+23790_8	has_surface_form	a
+23790_12	is_in_sentence	sentence_23790
+23790_12	attr	23790_7
+23790_12	has_surface_form	school
+23790_9	is_in_sentence	sentence_23790
+23790_9	amod	23790_12
+23790_9	has_surface_form	coeducational
+23790_10	is_in_sentence	sentence_23790
+23790_10	amod	23790_11
+23790_10	has_surface_form	private
+23790_11	is_in_sentence	sentence_23790
+23790_11	compound	23790_12
+23790_11	has_surface_form	day
+23790_13	is_in_sentence	sentence_23790
+23790_13	acl	23790_12
+23790_13	has_surface_form	located
+23790_14	is_in_sentence	sentence_23790
+23790_14	prep	23790_13
+23790_14	has_surface_form	in
+23790_15	is_in_sentence	sentence_23790
+23790_15	pobj	23790_14
+23790_15	has_surface_form	Lewisville
+23790_16	is_in_sentence	sentence_23790
+23790_16	punct	23790_15
+23790_16	has_surface_form	,
+23790_17	is_in_sentence	sentence_23790
+23790_17	compound	23790_18
+23790_17	has_surface_form	North
+23790_18	is_in_sentence	sentence_23790
+23790_18	appos	23790_15
+23790_18	has_surface_form	Carolina
+23790_19	is_in_sentence	sentence_23790
+23790_19	punct	23790_7
+23790_19	has_surface_form	.
+23790_20	is_in_sentence	sentence_23790
+23790_20	dep	23790_7
+23790_20	has_surface_form	
+Forsyth Country Day School	surface_form	Forsyth Country Day School
+Forsyth Country Day School	is-where	Lewisville, North Carolina
+Lewisville, North Carolina	surface_form	Lewisville, North Carolina

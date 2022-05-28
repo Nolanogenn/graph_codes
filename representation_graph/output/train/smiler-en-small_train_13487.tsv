@@ -1,0 +1,64 @@
+13486_0	is_in_sentence	sentence_13486
+13486_0	compound	13486_1
+13486_0	has_surface_form	Peter
+13486_0	part_of_entity	Peter Vaas
+13486_1	is_in_sentence	sentence_13486
+13486_1	nsubj	13486_9
+13486_1	has_surface_form	Vaas
+13486_1	part_of_entity	Peter Vaas
+13486_9	is_in_sentence	sentence_13486
+13486_9	ROOT	13486_9
+13486_9	has_surface_form	is
+13486_2	is_in_sentence	sentence_13486
+13486_2	punct	13486_1
+13486_2	has_surface_form	(
+13486_3	is_in_sentence	sentence_13486
+13486_3	acl	13486_1
+13486_3	has_surface_form	born
+13486_4	is_in_sentence	sentence_13486
+13486_4	npadvmod	13486_3
+13486_4	has_surface_form	April
+13486_5	is_in_sentence	sentence_13486
+13486_5	nummod	13486_4
+13486_5	has_surface_form	26
+13486_6	is_in_sentence	sentence_13486
+13486_6	punct	13486_4
+13486_6	has_surface_form	,
+13486_7	is_in_sentence	sentence_13486
+13486_7	nummod	13486_4
+13486_7	has_surface_form	1952
+13486_8	is_in_sentence	sentence_13486
+13486_8	punct	13486_1
+13486_8	has_surface_form	)
+13486_10	is_in_sentence	sentence_13486
+13486_10	det	13486_13
+13486_10	has_surface_form	an
+13486_13	is_in_sentence	sentence_13486
+13486_13	attr	13486_9
+13486_13	has_surface_form	coach
+13486_13	part_of_entity	football coach
+13486_11	is_in_sentence	sentence_13486
+13486_11	amod	13486_13
+13486_11	has_surface_form	American
+13486_12	is_in_sentence	sentence_13486
+13486_12	compound	13486_13
+13486_12	has_surface_form	football
+13486_12	part_of_entity	football coach
+13486_14	is_in_sentence	sentence_13486
+13486_14	cc	13486_13
+13486_14	has_surface_form	and
+13486_15	is_in_sentence	sentence_13486
+13486_15	amod	13486_16
+13486_15	has_surface_form	former
+13486_16	is_in_sentence	sentence_13486
+13486_16	conj	13486_13
+13486_16	has_surface_form	player
+13486_17	is_in_sentence	sentence_13486
+13486_17	punct	13486_9
+13486_17	has_surface_form	.
+13486_18	is_in_sentence	sentence_13486
+13486_18	dep	13486_18
+13486_18	has_surface_form	
+Peter Vaas	surface_form	Peter Vaas
+Peter Vaas	has-type	football coach
+football coach	surface_form	football coach

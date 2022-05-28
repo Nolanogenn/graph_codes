@@ -1,0 +1,65 @@
+10872_0	is_in_sentence	sentence_10872
+10872_0	nsubj	10872_1
+10872_0	is_entity	Honeyglue
+10872_1	is_in_sentence	sentence_10872
+10872_1	ROOT	10872_1
+10872_1	has_surface_form	is
+Honeyglue	surface_form	Honeyglue
+Honeyglue	movie-has-director	James Bird
+10872_2	is_in_sentence	sentence_10872
+10872_2	det	10872_6
+10872_2	has_surface_form	an
+10872_6	is_in_sentence	sentence_10872
+10872_6	attr	10872_1
+10872_6	has_surface_form	film
+10872_3	is_in_sentence	sentence_10872
+10872_3	amod	10872_6
+10872_3	has_surface_form	American
+10872_4	is_in_sentence	sentence_10872
+10872_4	amod	10872_6
+10872_4	has_surface_form	romantic
+10872_5	is_in_sentence	sentence_10872
+10872_5	compound	10872_6
+10872_5	has_surface_form	drama
+10872_7	is_in_sentence	sentence_10872
+10872_7	acl	10872_6
+10872_7	has_surface_form	written
+10872_8	is_in_sentence	sentence_10872
+10872_8	cc	10872_7
+10872_8	has_surface_form	and
+10872_9	is_in_sentence	sentence_10872
+10872_9	conj	10872_7
+10872_9	has_surface_form	directed
+10872_10	is_in_sentence	sentence_10872
+10872_10	agent	10872_9
+10872_10	has_surface_form	by
+10872_11	is_in_sentence	sentence_10872
+10872_11	compound	10872_12
+10872_11	has_surface_form	James
+10872_11	part_of_entity	James Bird
+10872_12	is_in_sentence	sentence_10872
+10872_12	pobj	10872_10
+10872_12	has_surface_form	Bird
+10872_12	part_of_entity	James Bird
+10872_13	is_in_sentence	sentence_10872
+10872_13	punct	10872_12
+10872_13	has_surface_form	,
+10872_14	is_in_sentence	sentence_10872
+10872_14	acl	10872_12
+10872_14	has_surface_form	produced
+10872_15	is_in_sentence	sentence_10872
+10872_15	agent	10872_14
+10872_15	has_surface_form	by
+10872_16	is_in_sentence	sentence_10872
+10872_16	compound	10872_17
+10872_16	has_surface_form	Zombot
+10872_17	is_in_sentence	sentence_10872
+10872_17	pobj	10872_15
+10872_17	has_surface_form	Pictures
+10872_18	is_in_sentence	sentence_10872
+10872_18	punct	10872_1
+10872_18	has_surface_form	.
+10872_19	is_in_sentence	sentence_10872
+10872_19	dep	10872_1
+10872_19	has_surface_form	
+James Bird	surface_form	James Bird

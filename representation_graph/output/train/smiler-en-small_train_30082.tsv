@@ -1,0 +1,80 @@
+30081_0	is_in_sentence	sentence_30081
+30081_0	det	30081_2
+30081_0	has_surface_form	The
+30081_0	part_of_entity	The Other Son
+30081_2	is_in_sentence	sentence_30081
+30081_2	nsubj	30081_12
+30081_2	has_surface_form	Son
+30081_2	part_of_entity	The Other Son
+30081_1	is_in_sentence	sentence_30081
+30081_1	amod	30081_2
+30081_1	has_surface_form	Other
+30081_1	part_of_entity	The Other Son
+30081_12	is_in_sentence	sentence_30081
+30081_12	ROOT	30081_12
+30081_12	has_surface_form	is
+30081_3	is_in_sentence	sentence_30081
+30081_3	punct	30081_2
+30081_3	has_surface_form	(
+30081_4	is_in_sentence	sentence_30081
+30081_4	amod	30081_5
+30081_4	has_surface_form	original
+30081_5	is_in_sentence	sentence_30081
+30081_5	appos	30081_2
+30081_5	has_surface_form	title
+30081_6	is_in_sentence	sentence_30081
+30081_6	punct	30081_2
+30081_6	has_surface_form	:
+30081_7	is_in_sentence	sentence_30081
+30081_7	compound	30081_10
+30081_7	has_surface_form	Le
+30081_10	is_in_sentence	sentence_30081
+30081_10	appos	30081_2
+30081_10	has_surface_form	l'Autre
+30081_8	is_in_sentence	sentence_30081
+30081_8	compound	30081_10
+30081_8	has_surface_form	Fils
+30081_9	is_in_sentence	sentence_30081
+30081_9	nmod	30081_10
+30081_9	has_surface_form	de
+30081_11	is_in_sentence	sentence_30081
+30081_11	punct	30081_2
+30081_11	has_surface_form	)
+30081_13	is_in_sentence	sentence_30081
+30081_13	det	30081_17
+30081_13	has_surface_form	a
+30081_17	is_in_sentence	sentence_30081
+30081_17	attr	30081_12
+30081_17	has_surface_form	film
+30081_14	is_in_sentence	sentence_30081
+30081_14	nummod	30081_17
+30081_14	has_surface_form	2012
+30081_15	is_in_sentence	sentence_30081
+30081_15	amod	30081_17
+30081_15	has_surface_form	French
+30081_16	is_in_sentence	sentence_30081
+30081_16	compound	30081_17
+30081_16	has_surface_form	drama
+30081_18	is_in_sentence	sentence_30081
+30081_18	acl	30081_17
+30081_18	has_surface_form	directed
+30081_19	is_in_sentence	sentence_30081
+30081_19	agent	30081_18
+30081_19	has_surface_form	by
+30081_20	is_in_sentence	sentence_30081
+30081_20	compound	30081_21
+30081_20	has_surface_form	Lorraine
+30081_20	part_of_entity	Lorraine Lévy
+30081_21	is_in_sentence	sentence_30081
+30081_21	pobj	30081_19
+30081_21	has_surface_form	Lévy
+30081_21	part_of_entity	Lorraine Lévy
+30081_22	is_in_sentence	sentence_30081
+30081_22	punct	30081_12
+30081_22	has_surface_form	.
+30081_23	is_in_sentence	sentence_30081
+30081_23	dep	30081_12
+30081_23	has_surface_form	
+The Other Son	surface_form	The Other Son
+The Other Son	movie-has-director	Lorraine Lévy
+Lorraine Lévy	surface_form	Lorraine Lévy

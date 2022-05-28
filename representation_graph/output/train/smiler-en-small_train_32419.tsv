@@ -1,0 +1,61 @@
+32418_0	is_in_sentence	sentence_32418
+32418_0	compound	32418_1
+32418_0	has_surface_form	John
+32418_0	part_of_entity	John Weller
+32418_1	is_in_sentence	sentence_32418
+32418_1	nsubj	32418_13
+32418_1	has_surface_form	Weller
+32418_1	part_of_entity	John Weller
+32418_13	is_in_sentence	sentence_32418
+32418_13	ROOT	32418_13
+32418_13	has_surface_form	died
+32418_2	is_in_sentence	sentence_32418
+32418_2	punct	32418_1
+32418_2	has_surface_form	,
+32418_3	is_in_sentence	sentence_32418
+32418_3	compound	32418_4
+32418_3	has_surface_form	Paul
+32418_3	part_of_entity	Paul Weller
+32418_4	is_in_sentence	sentence_32418
+32418_4	poss	32418_6
+32418_4	has_surface_form	Weller
+32418_4	part_of_entity	Paul Weller
+32418_6	is_in_sentence	sentence_32418
+32418_6	appos	32418_1
+32418_6	has_surface_form	father
+32418_5	is_in_sentence	sentence_32418
+32418_5	case	32418_4
+32418_5	has_surface_form	's
+32418_7	is_in_sentence	sentence_32418
+32418_7	cc	32418_6
+32418_7	has_surface_form	and
+32418_8	is_in_sentence	sentence_32418
+32418_8	amod	32418_10
+32418_8	has_surface_form	long
+32418_10	is_in_sentence	sentence_32418
+32418_10	compound	32418_11
+32418_10	has_surface_form	time
+32418_9	is_in_sentence	sentence_32418
+32418_9	punct	32418_10
+32418_9	has_surface_form	-
+32418_11	is_in_sentence	sentence_32418
+32418_11	conj	32418_6
+32418_11	has_surface_form	manager
+32418_12	is_in_sentence	sentence_32418
+32418_12	punct	32418_1
+32418_12	has_surface_form	,
+32418_14	is_in_sentence	sentence_32418
+32418_14	prep	32418_13
+32418_14	has_surface_form	from
+32418_15	is_in_sentence	sentence_32418
+32418_15	pobj	32418_14
+32418_15	has_surface_form	pneumonia
+32418_16	is_in_sentence	sentence_32418
+32418_16	punct	32418_13
+32418_16	has_surface_form	.
+32418_17	is_in_sentence	sentence_32418
+32418_17	dep	32418_17
+32418_17	has_surface_form	
+John Weller	surface_form	John Weller
+John Weller	has-child	Paul Weller
+Paul Weller	surface_form	Paul Weller

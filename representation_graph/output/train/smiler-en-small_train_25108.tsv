@@ -1,0 +1,64 @@
+25107_0	is_in_sentence	sentence_25107
+25107_0	compound	25107_1
+25107_0	has_surface_form	Artists
+25107_0	part_of_entity	Artists House
+25107_1	is_in_sentence	sentence_25107
+25107_1	nsubj	25107_2
+25107_1	has_surface_form	House
+25107_1	part_of_entity	Artists House
+25107_2	is_in_sentence	sentence_25107
+25107_2	ROOT	25107_2
+25107_2	has_surface_form	was
+25107_3	is_in_sentence	sentence_25107
+25107_3	det	25107_8
+25107_3	has_surface_form	a
+25107_8	is_in_sentence	sentence_25107
+25107_8	attr	25107_2
+25107_8	has_surface_form	company
+25107_4	is_in_sentence	sentence_25107
+25107_4	nmod	25107_8
+25107_4	has_surface_form	jazz
+25107_5	is_in_sentence	sentence_25107
+25107_5	cc	25107_4
+25107_5	has_surface_form	and
+25107_6	is_in_sentence	sentence_25107
+25107_6	conj	25107_4
+25107_6	has_surface_form	blues
+25107_7	is_in_sentence	sentence_25107
+25107_7	conj	25107_4
+25107_7	has_surface_form	record
+25107_9	is_in_sentence	sentence_25107
+25107_9	cc	25107_8
+25107_9	has_surface_form	and
+25107_10	is_in_sentence	sentence_25107
+25107_10	conj	25107_8
+25107_10	has_surface_form	label
+25107_11	is_in_sentence	sentence_25107
+25107_11	acl	25107_8
+25107_11	has_surface_form	established
+25107_12	is_in_sentence	sentence_25107
+25107_12	prep	25107_11
+25107_12	has_surface_form	in
+25107_13	is_in_sentence	sentence_25107
+25107_13	pobj	25107_12
+25107_13	has_surface_form	1977
+25107_14	is_in_sentence	sentence_25107
+25107_14	agent	25107_11
+25107_14	has_surface_form	by
+25107_15	is_in_sentence	sentence_25107
+25107_15	compound	25107_16
+25107_15	has_surface_form	John
+25107_15	part_of_entity	John Snyder
+25107_16	is_in_sentence	sentence_25107
+25107_16	pobj	25107_14
+25107_16	has_surface_form	Snyder
+25107_16	part_of_entity	John Snyder
+25107_17	is_in_sentence	sentence_25107
+25107_17	punct	25107_2
+25107_17	has_surface_form	.
+25107_18	is_in_sentence	sentence_25107
+25107_18	dep	25107_2
+25107_18	has_surface_form	
+Artists House	surface_form	Artists House
+Artists House	org-has-founder	John Snyder
+John Snyder	surface_form	John Snyder

@@ -1,0 +1,65 @@
+34178_0	is_in_sentence	sentence_34178
+34178_0	compound	34178_1
+34178_0	has_surface_form	Africa
+34178_1	is_in_sentence	sentence_34178
+34178_1	ROOT	34178_1
+34178_1	has_surface_form	Speaks
+34178_2	is_in_sentence	sentence_34178
+34178_2	punct	34178_1
+34178_2	has_surface_form	!
+34178_3	is_in_sentence	sentence_34178
+34178_3	ROOT	34178_3
+34178_3	has_surface_form	is
+34178_4	is_in_sentence	sentence_34178
+34178_4	det	34178_8
+34178_4	has_surface_form	a
+34178_8	is_in_sentence	sentence_34178
+34178_8	attr	34178_3
+34178_8	has_surface_form	film
+34178_5	is_in_sentence	sentence_34178
+34178_5	nummod	34178_8
+34178_5	has_surface_form	1930
+34178_6	is_in_sentence	sentence_34178
+34178_6	amod	34178_8
+34178_6	has_surface_form	American
+34178_7	is_in_sentence	sentence_34178
+34178_7	compound	34178_8
+34178_7	has_surface_form	documentary
+34178_9	is_in_sentence	sentence_34178
+34178_9	acl	34178_8
+34178_9	has_surface_form	directed
+34178_10	is_in_sentence	sentence_34178
+34178_10	agent	34178_9
+34178_10	has_surface_form	by
+34178_11	is_in_sentence	sentence_34178
+34178_11	compound	34178_12
+34178_11	has_surface_form	Walter
+34178_11	part_of_entity	Walter Futter
+34178_12	is_in_sentence	sentence_34178
+34178_12	pobj	34178_10
+34178_12	has_surface_form	Futter
+34178_12	part_of_entity	Walter Futter
+34178_13	is_in_sentence	sentence_34178
+34178_13	cc	34178_9
+34178_13	has_surface_form	and
+34178_14	is_in_sentence	sentence_34178
+34178_14	conj	34178_9
+34178_14	has_surface_form	narrated
+34178_15	is_in_sentence	sentence_34178
+34178_15	agent	34178_14
+34178_15	has_surface_form	by
+34178_16	is_in_sentence	sentence_34178
+34178_16	compound	34178_17
+34178_16	has_surface_form	Lowell
+34178_17	is_in_sentence	sentence_34178
+34178_17	pobj	34178_15
+34178_17	has_surface_form	Thomas
+34178_18	is_in_sentence	sentence_34178
+34178_18	punct	34178_3
+34178_18	has_surface_form	.
+34178_19	is_in_sentence	sentence_34178
+34178_19	dep	34178_19
+34178_19	has_surface_form	
+Africa Speaks!	surface_form	Africa Speaks!
+Africa Speaks!	movie-has-director	Walter Futter
+Walter Futter	surface_form	Walter Futter

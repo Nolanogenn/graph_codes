@@ -1,0 +1,82 @@
+12890_0	is_in_sentence	sentence_12890
+12890_0	compound	12890_1
+12890_0	has_surface_form	Killer
+12890_0	part_of_entity	Killer Pad
+12890_1	is_in_sentence	sentence_12890
+12890_1	nsubj	12890_2
+12890_1	has_surface_form	Pad
+12890_1	part_of_entity	Killer Pad
+12890_2	is_in_sentence	sentence_12890
+12890_2	ROOT	12890_2
+12890_2	has_surface_form	is
+12890_3	is_in_sentence	sentence_12890
+12890_3	det	12890_8
+12890_3	has_surface_form	a
+12890_8	is_in_sentence	sentence_12890
+12890_8	attr	12890_2
+12890_8	has_surface_form	film
+12890_4	is_in_sentence	sentence_12890
+12890_4	nummod	12890_8
+12890_4	has_surface_form	2008
+12890_5	is_in_sentence	sentence_12890
+12890_5	nmod	12890_7
+12890_5	has_surface_form	comedy
+12890_7	is_in_sentence	sentence_12890
+12890_7	compound	12890_8
+12890_7	has_surface_form	horror
+12890_6	is_in_sentence	sentence_12890
+12890_6	punct	12890_7
+12890_6	has_surface_form	/
+12890_9	is_in_sentence	sentence_12890
+12890_9	acl	12890_8
+12890_9	has_surface_form	directed
+12890_10	is_in_sentence	sentence_12890
+12890_10	agent	12890_9
+12890_10	has_surface_form	by
+12890_11	is_in_sentence	sentence_12890
+12890_11	compound	12890_12
+12890_11	has_surface_form	Robert
+12890_11	part_of_entity	Robert Englund
+12890_12	is_in_sentence	sentence_12890
+12890_12	pobj	12890_10
+12890_12	has_surface_form	Englund
+12890_12	part_of_entity	Robert Englund
+12890_13	is_in_sentence	sentence_12890
+12890_13	cc	12890_9
+12890_13	has_surface_form	and
+12890_14	is_in_sentence	sentence_12890
+12890_14	conj	12890_9
+12890_14	has_surface_form	starring
+12890_15	is_in_sentence	sentence_12890
+12890_15	compound	12890_16
+12890_15	has_surface_form	Daniel
+12890_16	is_in_sentence	sentence_12890
+12890_16	dobj	12890_14
+12890_16	has_surface_form	Franzese
+12890_17	is_in_sentence	sentence_12890
+12890_17	punct	12890_16
+12890_17	has_surface_form	,
+12890_18	is_in_sentence	sentence_12890
+12890_18	compound	12890_19
+12890_18	has_surface_form	Eric
+12890_19	is_in_sentence	sentence_12890
+12890_19	conj	12890_16
+12890_19	has_surface_form	Jungmann
+12890_20	is_in_sentence	sentence_12890
+12890_20	cc	12890_19
+12890_20	has_surface_form	and
+12890_21	is_in_sentence	sentence_12890
+12890_21	compound	12890_22
+12890_21	has_surface_form	Shane
+12890_22	is_in_sentence	sentence_12890
+12890_22	conj	12890_19
+12890_22	has_surface_form	McRae
+12890_23	is_in_sentence	sentence_12890
+12890_23	punct	12890_2
+12890_23	has_surface_form	.
+12890_24	is_in_sentence	sentence_12890
+12890_24	dep	12890_24
+12890_24	has_surface_form	
+Killer Pad	surface_form	Killer Pad
+Killer Pad	movie-has-director	Robert Englund
+Robert Englund	surface_form	Robert Englund

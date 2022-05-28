@@ -1,0 +1,48 @@
+25015_0	is_in_sentence	sentence_25015
+25015_0	compound	25015_1
+25015_0	has_surface_form	Jet
+25015_0	part_of_entity	Jet Link Holland
+25015_1	is_in_sentence	sentence_25015
+25015_1	compound	25015_2
+25015_1	has_surface_form	Link
+25015_1	part_of_entity	Jet Link Holland
+25015_2	is_in_sentence	sentence_25015
+25015_2	nsubj	25015_3
+25015_2	has_surface_form	Holland
+25015_2	part_of_entity	Jet Link Holland
+25015_3	is_in_sentence	sentence_25015
+25015_3	ROOT	25015_3
+25015_3	has_surface_form	was
+25015_4	is_in_sentence	sentence_25015
+25015_4	det	25015_6
+25015_4	has_surface_form	a
+25015_6	is_in_sentence	sentence_25015
+25015_6	attr	25015_3
+25015_6	has_surface_form	airline
+25015_5	is_in_sentence	sentence_25015
+25015_5	compound	25015_6
+25015_5	has_surface_form	cargo
+25015_7	is_in_sentence	sentence_25015
+25015_7	acl	25015_6
+25015_7	has_surface_form	based
+25015_8	is_in_sentence	sentence_25015
+25015_8	prep	25015_7
+25015_8	has_surface_form	in
+25015_9	is_in_sentence	sentence_25015
+25015_9	pobj	25015_8
+25015_9	is_entity	Amsterdam
+Amsterdam	surface_form	Amsterdam
+25015_10	is_in_sentence	sentence_25015
+25015_10	punct	25015_9
+25015_10	has_surface_form	,
+25015_11	is_in_sentence	sentence_25015
+25015_11	appos	25015_9
+25015_11	has_surface_form	Netherlands
+25015_12	is_in_sentence	sentence_25015
+25015_12	punct	25015_3
+25015_12	has_surface_form	.
+25015_13	is_in_sentence	sentence_25015
+25015_13	dep	25015_3
+25015_13	has_surface_form	
+Jet Link Holland	surface_form	Jet Link Holland
+Jet Link Holland	headquarters	Amsterdam

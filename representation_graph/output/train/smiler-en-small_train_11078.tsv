@@ -1,0 +1,88 @@
+11077_0	is_in_sentence	sentence_11077
+11077_0	det	11077_2
+11077_0	has_surface_form	The
+11077_2	is_in_sentence	sentence_11077
+11077_2	nsubj	11077_3
+11077_2	has_surface_form	Corinthians
+11077_2	part_of_entity	Arena Corinthians
+11077_1	is_in_sentence	sentence_11077
+11077_1	compound	11077_2
+11077_1	has_surface_form	Arena
+11077_1	part_of_entity	Arena Corinthians
+11077_3	is_in_sentence	sentence_11077
+11077_3	ROOT	11077_3
+11077_3	has_surface_form	is
+11077_4	is_in_sentence	sentence_11077
+11077_4	det	11077_6
+11077_4	has_surface_form	a
+11077_6	is_in_sentence	sentence_11077
+11077_6	attr	11077_3
+11077_6	has_surface_form	stadium
+11077_6	part_of_entity	sports stadium
+11077_5	is_in_sentence	sentence_11077
+11077_5	compound	11077_6
+11077_5	has_surface_form	sports
+11077_5	part_of_entity	sports stadium
+11077_7	is_in_sentence	sentence_11077
+11077_7	acl	11077_6
+11077_7	has_surface_form	located
+11077_8	is_in_sentence	sentence_11077
+11077_8	prep	11077_7
+11077_8	has_surface_form	in
+11077_9	is_in_sentence	sentence_11077
+11077_9	compound	11077_10
+11077_9	has_surface_form	São
+11077_10	is_in_sentence	sentence_11077
+11077_10	pobj	11077_8
+11077_10	has_surface_form	Paulo
+11077_11	is_in_sentence	sentence_11077
+11077_11	punct	11077_10
+11077_11	has_surface_form	,
+11077_12	is_in_sentence	sentence_11077
+11077_12	appos	11077_10
+11077_12	has_surface_form	Brazil
+11077_13	is_in_sentence	sentence_11077
+11077_13	cc	11077_7
+11077_13	has_surface_form	and
+11077_14	is_in_sentence	sentence_11077
+11077_14	conj	11077_7
+11077_14	has_surface_form	owned
+11077_15	is_in_sentence	sentence_11077
+11077_15	punct	11077_14
+11077_15	has_surface_form	,
+11077_16	is_in_sentence	sentence_11077
+11077_16	conj	11077_14
+11077_16	has_surface_form	operated
+11077_17	is_in_sentence	sentence_11077
+11077_17	punct	11077_16
+11077_17	has_surface_form	,
+11077_18	is_in_sentence	sentence_11077
+11077_18	cc	11077_16
+11077_18	has_surface_form	and
+11077_19	is_in_sentence	sentence_11077
+11077_19	conj	11077_16
+11077_19	has_surface_form	used
+11077_20	is_in_sentence	sentence_11077
+11077_20	agent	11077_19
+11077_20	has_surface_form	by
+11077_21	is_in_sentence	sentence_11077
+11077_21	compound	11077_22
+11077_21	has_surface_form	Sport
+11077_22	is_in_sentence	sentence_11077
+11077_22	compound	11077_23
+11077_22	has_surface_form	Club
+11077_23	is_in_sentence	sentence_11077
+11077_23	compound	11077_24
+11077_23	has_surface_form	Corinthians
+11077_24	is_in_sentence	sentence_11077
+11077_24	pobj	11077_20
+11077_24	has_surface_form	Paulista
+11077_25	is_in_sentence	sentence_11077
+11077_25	punct	11077_3
+11077_25	has_surface_form	.
+11077_26	is_in_sentence	sentence_11077
+11077_26	dep	11077_3
+11077_26	has_surface_form	
+Arena Corinthians	surface_form	Arena Corinthians
+Arena Corinthians	has-type	sports stadium
+sports stadium	surface_form	sports stadium

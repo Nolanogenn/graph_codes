@@ -1,0 +1,60 @@
+34625_0	is_in_sentence	sentence_34625
+34625_0	compound	34625_2
+34625_0	has_surface_form	John
+34625_0	part_of_entity	John Smeaton Academy
+34625_2	is_in_sentence	sentence_34625
+34625_2	nsubj	34625_3
+34625_2	has_surface_form	Academy
+34625_2	part_of_entity	John Smeaton Academy
+34625_1	is_in_sentence	sentence_34625
+34625_1	compound	34625_2
+34625_1	has_surface_form	Smeaton
+34625_1	part_of_entity	John Smeaton Academy
+34625_3	is_in_sentence	sentence_34625
+34625_3	ROOT	34625_3
+34625_3	has_surface_form	is
+34625_4	is_in_sentence	sentence_34625
+34625_4	det	34625_8
+34625_4	has_surface_form	an
+34625_8	is_in_sentence	sentence_34625
+34625_8	attr	34625_3
+34625_8	has_surface_form	Form
+34625_5	is_in_sentence	sentence_34625
+34625_5	nmod	34625_8
+34625_5	has_surface_form	academy
+34625_6	is_in_sentence	sentence_34625
+34625_6	cc	34625_5
+34625_6	has_surface_form	and
+34625_7	is_in_sentence	sentence_34625
+34625_7	conj	34625_5
+34625_7	has_surface_form	Sixth
+34625_9	is_in_sentence	sentence_34625
+34625_9	prep	34625_8
+34625_9	has_surface_form	in
+34625_10	is_in_sentence	sentence_34625
+34625_10	pobj	34625_9
+34625_10	is_entity	Leeds
+Leeds	surface_form	Leeds
+34625_11	is_in_sentence	sentence_34625
+34625_11	punct	34625_10
+34625_11	has_surface_form	,
+34625_12	is_in_sentence	sentence_34625
+34625_12	compound	34625_13
+34625_12	has_surface_form	West
+34625_13	is_in_sentence	sentence_34625
+34625_13	conj	34625_10
+34625_13	has_surface_form	Yorkshire
+34625_14	is_in_sentence	sentence_34625
+34625_14	punct	34625_13
+34625_14	has_surface_form	,
+34625_15	is_in_sentence	sentence_34625
+34625_15	npadvmod	34625_13
+34625_15	has_surface_form	England
+34625_16	is_in_sentence	sentence_34625
+34625_16	punct	34625_3
+34625_16	has_surface_form	.
+34625_17	is_in_sentence	sentence_34625
+34625_17	dep	34625_3
+34625_17	has_surface_form	
+John Smeaton Academy	surface_form	John Smeaton Academy
+John Smeaton Academy	is-where	Leeds

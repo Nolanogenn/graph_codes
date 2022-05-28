@@ -1,0 +1,69 @@
+25823_0	is_in_sentence	sentence_25823
+25823_0	poss	25823_1
+25823_0	has_surface_form	My
+25823_0	part_of_entity	My Name Is Petersen
+25823_1	is_in_sentence	sentence_25823
+25823_1	nsubj	25823_2
+25823_1	has_surface_form	Name
+25823_1	part_of_entity	My Name Is Petersen
+25823_2	is_in_sentence	sentence_25823
+25823_2	ROOT	25823_2
+25823_2	has_surface_form	Is
+25823_2	part_of_entity	My Name Is Petersen
+25823_3	is_in_sentence	sentence_25823
+25823_3	attr	25823_2
+25823_3	has_surface_form	Petersen
+25823_3	part_of_entity	My Name Is Petersen
+25823_4	is_in_sentence	sentence_25823
+25823_4	ccomp	25823_2
+25823_4	has_surface_form	is
+25823_5	is_in_sentence	sentence_25823
+25823_5	det	25823_9
+25823_5	has_surface_form	a
+25823_9	is_in_sentence	sentence_25823
+25823_9	attr	25823_4
+25823_9	has_surface_form	film
+25823_6	is_in_sentence	sentence_25823
+25823_6	nummod	25823_9
+25823_6	has_surface_form	1947
+25823_7	is_in_sentence	sentence_25823
+25823_7	amod	25823_9
+25823_7	has_surface_form	Danish
+25823_8	is_in_sentence	sentence_25823
+25823_8	compound	25823_9
+25823_8	has_surface_form	drama
+25823_10	is_in_sentence	sentence_25823
+25823_10	acl	25823_9
+25823_10	has_surface_form	directed
+25823_11	is_in_sentence	sentence_25823
+25823_11	agent	25823_10
+25823_11	has_surface_form	by
+25823_12	is_in_sentence	sentence_25823
+25823_12	compound	25823_13
+25823_12	has_surface_form	Christen
+25823_13	is_in_sentence	sentence_25823
+25823_13	pobj	25823_11
+25823_13	has_surface_form	Jul
+25823_14	is_in_sentence	sentence_25823
+25823_14	cc	25823_10
+25823_14	has_surface_form	and
+25823_15	is_in_sentence	sentence_25823
+25823_15	conj	25823_10
+25823_15	has_surface_form	starring
+25823_16	is_in_sentence	sentence_25823
+25823_16	compound	25823_17
+25823_16	has_surface_form	Poul
+25823_16	part_of_entity	Poul Reichhardt
+25823_17	is_in_sentence	sentence_25823
+25823_17	dobj	25823_15
+25823_17	has_surface_form	Reichhardt
+25823_17	part_of_entity	Poul Reichhardt
+25823_18	is_in_sentence	sentence_25823
+25823_18	punct	25823_2
+25823_18	has_surface_form	.
+25823_19	is_in_sentence	sentence_25823
+25823_19	dep	25823_2
+25823_19	has_surface_form	
+My Name Is Petersen	surface_form	My Name Is Petersen
+My Name Is Petersen	starring	Poul Reichhardt
+Poul Reichhardt	surface_form	Poul Reichhardt

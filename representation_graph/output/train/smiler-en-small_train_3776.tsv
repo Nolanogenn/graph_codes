@@ -1,0 +1,63 @@
+3775_0	is_in_sentence	sentence_3775
+3775_0	compound	3775_2
+3775_0	has_surface_form	Derby
+3775_0	part_of_entity	Derby Grammar School
+3775_2	is_in_sentence	sentence_3775
+3775_2	nsubj	3775_3
+3775_2	has_surface_form	School
+3775_2	part_of_entity	Derby Grammar School
+3775_1	is_in_sentence	sentence_3775
+3775_1	compound	3775_2
+3775_1	has_surface_form	Grammar
+3775_1	part_of_entity	Derby Grammar School
+3775_3	is_in_sentence	sentence_3775
+3775_3	ROOT	3775_3
+3775_3	has_surface_form	is
+3775_4	is_in_sentence	sentence_3775
+3775_4	det	3775_7
+3775_4	has_surface_form	a
+3775_7	is_in_sentence	sentence_3775
+3775_7	attr	3775_3
+3775_7	has_surface_form	school
+3775_5	is_in_sentence	sentence_3775
+3775_5	amod	3775_7
+3775_5	has_surface_form	selective
+3775_6	is_in_sentence	sentence_3775
+3775_6	amod	3775_7
+3775_6	has_surface_form	independent
+3775_8	is_in_sentence	sentence_3775
+3775_8	prep	3775_7
+3775_8	has_surface_form	in
+3775_9	is_in_sentence	sentence_3775
+3775_9	pobj	3775_8
+3775_9	is_entity	Littleover
+Littleover	surface_form	Littleover
+3775_10	is_in_sentence	sentence_3775
+3775_10	prep	3775_7
+3775_10	has_surface_form	near
+3775_11	is_in_sentence	sentence_3775
+3775_11	det	3775_12
+3775_11	has_surface_form	the
+3775_12	is_in_sentence	sentence_3775
+3775_12	pobj	3775_10
+3775_12	has_surface_form	city
+3775_13	is_in_sentence	sentence_3775
+3775_13	prep	3775_12
+3775_13	has_surface_form	of
+3775_14	is_in_sentence	sentence_3775
+3775_14	pobj	3775_13
+3775_14	has_surface_form	Derby
+3775_15	is_in_sentence	sentence_3775
+3775_15	punct	3775_14
+3775_15	has_surface_form	,
+3775_16	is_in_sentence	sentence_3775
+3775_16	appos	3775_14
+3775_16	has_surface_form	England
+3775_17	is_in_sentence	sentence_3775
+3775_17	punct	3775_3
+3775_17	has_surface_form	.
+3775_18	is_in_sentence	sentence_3775
+3775_18	dep	3775_3
+3775_18	has_surface_form	
+Derby Grammar School	surface_form	Derby Grammar School
+Derby Grammar School	is-where	Littleover

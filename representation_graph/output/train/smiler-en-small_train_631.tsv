@@ -1,0 +1,47 @@
+630_0	is_in_sentence	sentence_630
+630_0	compound	630_1
+630_0	has_surface_form	Sonny
+630_0	part_of_entity	Sonny Flood
+630_1	is_in_sentence	sentence_630
+630_1	nsubj	630_8
+630_1	has_surface_form	Flood
+630_1	part_of_entity	Sonny Flood
+630_8	is_in_sentence	sentence_630
+630_8	ROOT	630_8
+630_8	has_surface_form	is
+630_2	is_in_sentence	sentence_630
+630_2	punct	630_1
+630_2	has_surface_form	(
+630_3	is_in_sentence	sentence_630
+630_3	acl	630_1
+630_3	has_surface_form	born
+630_4	is_in_sentence	sentence_630
+630_4	nummod	630_5
+630_4	has_surface_form	18
+630_5	is_in_sentence	sentence_630
+630_5	npadvmod	630_3
+630_5	has_surface_form	November
+630_6	is_in_sentence	sentence_630
+630_6	nummod	630_5
+630_6	has_surface_form	1989
+630_7	is_in_sentence	sentence_630
+630_7	punct	630_1
+630_7	has_surface_form	)
+630_9	is_in_sentence	sentence_630
+630_9	det	630_11
+630_9	has_surface_form	an
+630_11	is_in_sentence	sentence_630
+630_11	attr	630_8
+630_11	is_entity	actor
+630_10	is_in_sentence	sentence_630
+630_10	amod	630_11
+630_10	has_surface_form	English
+actor	surface_form	actor
+630_12	is_in_sentence	sentence_630
+630_12	punct	630_8
+630_12	has_surface_form	.
+630_13	is_in_sentence	sentence_630
+630_13	dep	630_8
+630_13	has_surface_form	
+Sonny Flood	surface_form	Sonny Flood
+Sonny Flood	has-occupation	actor

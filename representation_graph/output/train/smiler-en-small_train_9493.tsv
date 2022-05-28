@@ -1,0 +1,62 @@
+9492_0	is_in_sentence	sentence_9492
+9492_0	nsubj	9492_1
+9492_0	is_entity	Kingston
+9492_1	is_in_sentence	sentence_9492
+9492_1	ROOT	9492_1
+9492_1	has_surface_form	began
+Kingston	surface_form	Kingston
+Kingston	first-product	removable disk drive storage products
+9492_2	is_in_sentence	sentence_9492
+9492_2	xcomp	9492_1
+9492_2	has_surface_form	manufacturing
+9492_3	is_in_sentence	sentence_9492
+9492_3	amod	9492_5
+9492_3	has_surface_form	removable
+9492_3	part_of_entity	removable disk drive storage products
+9492_5	is_in_sentence	sentence_9492
+9492_5	compound	9492_7
+9492_5	has_surface_form	drive
+9492_5	part_of_entity	removable disk drive storage products
+9492_4	is_in_sentence	sentence_9492
+9492_4	compound	9492_5
+9492_4	has_surface_form	disk
+9492_4	part_of_entity	removable disk drive storage products
+9492_7	is_in_sentence	sentence_9492
+9492_7	dobj	9492_2
+9492_7	has_surface_form	products
+9492_7	part_of_entity	removable disk drive storage products
+9492_6	is_in_sentence	sentence_9492
+9492_6	compound	9492_7
+9492_6	has_surface_form	storage
+9492_6	part_of_entity	removable disk drive storage products
+9492_8	is_in_sentence	sentence_9492
+9492_8	prep	9492_2
+9492_8	has_surface_form	in
+9492_9	is_in_sentence	sentence_9492
+9492_9	pobj	9492_8
+9492_9	has_surface_form	1989
+9492_10	is_in_sentence	sentence_9492
+9492_10	prep	9492_2
+9492_10	has_surface_form	in
+9492_11	is_in_sentence	sentence_9492
+9492_11	poss	9492_15
+9492_11	has_surface_form	their
+9492_15	is_in_sentence	sentence_9492
+9492_15	pobj	9492_10
+9492_15	has_surface_form	Division
+9492_12	is_in_sentence	sentence_9492
+9492_12	compound	9492_15
+9492_12	is_entity	Kingston
+9492_13	is_in_sentence	sentence_9492
+9492_13	compound	9492_14
+9492_13	has_surface_form	Storage
+9492_14	is_in_sentence	sentence_9492
+9492_14	compound	9492_15
+9492_14	has_surface_form	Products
+9492_16	is_in_sentence	sentence_9492
+9492_16	punct	9492_1
+9492_16	has_surface_form	.
+9492_17	is_in_sentence	sentence_9492
+9492_17	dep	9492_1
+9492_17	has_surface_form	
+removable disk drive storage products	surface_form	removable disk drive storage products

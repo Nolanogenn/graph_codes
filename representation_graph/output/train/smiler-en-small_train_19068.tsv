@@ -1,0 +1,92 @@
+19067_0	is_in_sentence	sentence_19067
+19067_0	compound	19067_1
+19067_0	has_surface_form	Marine
+19067_0	part_of_entity	Marine Attack Training Squadron 203
+19067_1	is_in_sentence	sentence_19067
+19067_1	compound	19067_2
+19067_1	has_surface_form	Attack
+19067_1	part_of_entity	Marine Attack Training Squadron 203
+19067_2	is_in_sentence	sentence_19067
+19067_2	compound	19067_3
+19067_2	has_surface_form	Training
+19067_2	part_of_entity	Marine Attack Training Squadron 203
+19067_3	is_in_sentence	sentence_19067
+19067_3	nsubj	19067_8
+19067_3	has_surface_form	Squadron
+19067_3	part_of_entity	Marine Attack Training Squadron 203
+19067_8	is_in_sentence	sentence_19067
+19067_8	ROOT	19067_8
+19067_8	has_surface_form	is
+19067_4	is_in_sentence	sentence_19067
+19067_4	nummod	19067_3
+19067_4	has_surface_form	203
+19067_4	part_of_entity	Marine Attack Training Squadron 203
+19067_5	is_in_sentence	sentence_19067
+19067_5	punct	19067_3
+19067_5	has_surface_form	(
+19067_6	is_in_sentence	sentence_19067
+19067_6	appos	19067_3
+19067_6	has_surface_form	VMAT-203
+19067_7	is_in_sentence	sentence_19067
+19067_7	punct	19067_3
+19067_7	has_surface_form	)
+19067_9	is_in_sentence	sentence_19067
+19067_9	det	19067_10
+19067_9	has_surface_form	a
+19067_10	is_in_sentence	sentence_19067
+19067_10	attr	19067_8
+19067_10	is_entity	squadron
+squadron	surface_form	squadron
+19067_11	is_in_sentence	sentence_19067
+19067_11	prep	19067_10
+19067_11	has_surface_form	in
+19067_12	is_in_sentence	sentence_19067
+19067_12	det	19067_16
+19067_12	has_surface_form	the
+19067_16	is_in_sentence	sentence_19067
+19067_16	pobj	19067_11
+19067_16	has_surface_form	Corps
+19067_13	is_in_sentence	sentence_19067
+19067_13	compound	19067_14
+19067_13	has_surface_form	United
+19067_14	is_in_sentence	sentence_19067
+19067_14	compound	19067_16
+19067_14	has_surface_form	States
+19067_15	is_in_sentence	sentence_19067
+19067_15	compound	19067_16
+19067_15	has_surface_form	Marine
+19067_17	is_in_sentence	sentence_19067
+19067_17	nsubj	19067_18
+19067_17	has_surface_form	that
+19067_18	is_in_sentence	sentence_19067
+19067_18	relcl	19067_10
+19067_18	has_surface_form	trains
+19067_19	is_in_sentence	sentence_19067
+19067_19	amod	19067_20
+19067_19	has_surface_form	naval
+19067_20	is_in_sentence	sentence_19067
+19067_20	dobj	19067_18
+19067_20	has_surface_form	aviators
+19067_21	is_in_sentence	sentence_19067
+19067_21	aux	19067_22
+19067_21	has_surface_form	to
+19067_22	is_in_sentence	sentence_19067
+19067_22	xcomp	19067_18
+19067_22	has_surface_form	fly
+19067_23	is_in_sentence	sentence_19067
+19067_23	det	19067_25
+19067_23	has_surface_form	the
+19067_25	is_in_sentence	sentence_19067
+19067_25	dobj	19067_22
+19067_25	has_surface_form	Harrier
+19067_24	is_in_sentence	sentence_19067
+19067_24	compound	19067_25
+19067_24	has_surface_form	AV-8B
+19067_26	is_in_sentence	sentence_19067
+19067_26	punct	19067_8
+19067_26	has_surface_form	.
+19067_27	is_in_sentence	sentence_19067
+19067_27	dep	19067_8
+19067_27	has_surface_form	
+Marine Attack Training Squadron 203	surface_form	Marine Attack Training Squadron 203
+Marine Attack Training Squadron 203	has-type	squadron

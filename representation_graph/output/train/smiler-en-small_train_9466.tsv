@@ -1,0 +1,67 @@
+9465_0	is_in_sentence	sentence_9465
+9465_0	compound	9465_1
+9465_0	has_surface_form	Robert
+9465_0	part_of_entity	Robert Knollys
+9465_1	is_in_sentence	sentence_9465
+9465_1	poss	9465_3
+9465_1	has_surface_form	Knollys
+9465_1	part_of_entity	Robert Knollys
+9465_3	is_in_sentence	sentence_9465
+9465_3	nsubj	9465_4
+9465_3	has_surface_form	children
+9465_2	is_in_sentence	sentence_9465
+9465_2	case	9465_1
+9465_2	has_surface_form	's
+9465_4	is_in_sentence	sentence_9465
+9465_4	ROOT	9465_4
+9465_4	has_surface_form	included
+9465_5	is_in_sentence	sentence_9465
+9465_5	compound	9465_6
+9465_5	has_surface_form	Francis
+9465_5	part_of_entity	Francis Knollys
+9465_6	is_in_sentence	sentence_9465
+9465_6	dobj	9465_4
+9465_6	has_surface_form	Knollys
+9465_6	part_of_entity	Francis Knollys
+9465_7	is_in_sentence	sentence_9465
+9465_7	punct	9465_6
+9465_7	has_surface_form	,
+9465_8	is_in_sentence	sentence_9465
+9465_8	det	9465_9
+9465_8	has_surface_form	a
+9465_9	is_in_sentence	sentence_9465
+9465_9	appos	9465_6
+9465_9	has_surface_form	son
+9465_10	is_in_sentence	sentence_9465
+9465_10	appos	9465_9
+9465_10	has_surface_form	Henry
+9465_11	is_in_sentence	sentence_9465
+9465_11	cc	9465_10
+9465_11	has_surface_form	and
+9465_12	is_in_sentence	sentence_9465
+9465_12	nummod	9465_13
+9465_12	has_surface_form	two
+9465_13	is_in_sentence	sentence_9465
+9465_13	conj	9465_10
+9465_13	has_surface_form	daughters
+9465_14	is_in_sentence	sentence_9465
+9465_14	punct	9465_13
+9465_14	has_surface_form	,
+9465_15	is_in_sentence	sentence_9465
+9465_15	conj	9465_13
+9465_15	has_surface_form	Mary
+9465_16	is_in_sentence	sentence_9465
+9465_16	cc	9465_15
+9465_16	has_surface_form	and
+9465_17	is_in_sentence	sentence_9465
+9465_17	conj	9465_15
+9465_17	has_surface_form	Jane
+9465_18	is_in_sentence	sentence_9465
+9465_18	punct	9465_4
+9465_18	has_surface_form	.
+9465_19	is_in_sentence	sentence_9465
+9465_19	dep	9465_4
+9465_19	has_surface_form	
+Robert Knollys	surface_form	Robert Knollys
+Robert Knollys	has-child	Francis Knollys
+Francis Knollys	surface_form	Francis Knollys

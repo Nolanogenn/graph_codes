@@ -1,0 +1,51 @@
+35707_0	is_in_sentence	sentence_35707
+35707_0	poss	35707_1
+35707_0	has_surface_form	His
+35707_1	is_in_sentence	sentence_35707
+35707_1	nsubj	35707_5
+35707_1	has_surface_form	daughter
+35707_5	is_in_sentence	sentence_35707
+35707_5	ROOT	35707_5
+35707_5	has_surface_form	was
+35707_2	is_in_sentence	sentence_35707
+35707_2	compound	35707_3
+35707_2	has_surface_form	Jessie
+35707_2	part_of_entity	Jessie Hart White
+35707_3	is_in_sentence	sentence_35707
+35707_3	compound	35707_4
+35707_3	has_surface_form	Hart
+35707_3	part_of_entity	Jessie Hart White
+35707_4	is_in_sentence	sentence_35707
+35707_4	appos	35707_1
+35707_4	has_surface_form	White
+35707_4	part_of_entity	Jessie Hart White
+35707_6	is_in_sentence	sentence_35707
+35707_6	det	35707_7
+35707_6	has_surface_form	the
+35707_7	is_in_sentence	sentence_35707
+35707_7	attr	35707_5
+35707_7	has_surface_form	mother
+35707_8	is_in_sentence	sentence_35707
+35707_8	prep	35707_7
+35707_8	has_surface_form	of
+35707_9	is_in_sentence	sentence_35707
+35707_9	compound	35707_11
+35707_9	has_surface_form	E.
+35707_9	part_of_entity	E. B. White
+35707_11	is_in_sentence	sentence_35707
+35707_11	pobj	35707_8
+35707_11	has_surface_form	White
+35707_11	part_of_entity	E. B. White
+35707_10	is_in_sentence	sentence_35707
+35707_10	compound	35707_11
+35707_10	has_surface_form	B.
+35707_10	part_of_entity	E. B. White
+35707_12	is_in_sentence	sentence_35707
+35707_12	punct	35707_5
+35707_12	has_surface_form	.
+35707_13	is_in_sentence	sentence_35707
+35707_13	dep	35707_13
+35707_13	has_surface_form	
+Jessie Hart White	surface_form	Jessie Hart White
+Jessie Hart White	has-child	E. B. White
+E. B. White	surface_form	E. B. White

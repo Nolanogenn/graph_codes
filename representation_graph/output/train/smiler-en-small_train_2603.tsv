@@ -1,0 +1,49 @@
+2602_0	is_in_sentence	sentence_2602
+2602_0	compound	2602_1
+2602_0	has_surface_form	Capital
+2602_0	part_of_entity	Capital Kings
+2602_1	is_in_sentence	sentence_2602
+2602_1	nsubj	2602_2
+2602_1	has_surface_form	Kings
+2602_1	part_of_entity	Capital Kings
+2602_2	is_in_sentence	sentence_2602
+2602_2	ROOT	2602_2
+2602_2	has_surface_form	was
+2602_3	is_in_sentence	sentence_2602
+2602_3	det	2602_5
+2602_3	has_surface_form	an
+2602_5	is_in_sentence	sentence_2602
+2602_5	attr	2602_2
+2602_5	has_surface_form	pop
+2602_4	is_in_sentence	sentence_2602
+2602_4	amod	2602_5
+2602_4	has_surface_form	American
+2602_6	is_in_sentence	sentence_2602
+2602_6	punct	2602_5
+2602_6	has_surface_form	,
+2602_7	is_in_sentence	sentence_2602
+2602_7	conj	2602_5
+2602_7	has_surface_form	CEDM
+2602_8	is_in_sentence	sentence_2602
+2602_8	cc	2602_7
+2602_8	has_surface_form	and
+2602_9	is_in_sentence	sentence_2602
+2602_9	compound	2602_10
+2602_9	has_surface_form	Christian
+2602_9	part_of_entity	Christian pop
+2602_10	is_in_sentence	sentence_2602
+2602_10	conj	2602_7
+2602_10	has_surface_form	pop
+2602_10	part_of_entity	Christian pop
+2602_11	is_in_sentence	sentence_2602
+2602_11	attr	2602_2
+2602_11	has_surface_form	act
+2602_12	is_in_sentence	sentence_2602
+2602_12	punct	2602_2
+2602_12	has_surface_form	.
+2602_13	is_in_sentence	sentence_2602
+2602_13	dep	2602_13
+2602_13	has_surface_form	
+Capital Kings	surface_form	Capital Kings
+Capital Kings	has-genre	Christian pop
+Christian pop	surface_form	Christian pop

@@ -1,0 +1,64 @@
+11748_0	is_in_sentence	sentence_11748
+11748_0	compound	11748_1
+11748_0	has_surface_form	Karl
+11748_0	part_of_entity	Karl Morgan
+11748_1	is_in_sentence	sentence_11748
+11748_1	nsubj	11748_9
+11748_1	has_surface_form	Morgan
+11748_1	part_of_entity	Karl Morgan
+11748_9	is_in_sentence	sentence_11748
+11748_9	ROOT	11748_9
+11748_9	has_surface_form	is
+11748_2	is_in_sentence	sentence_11748
+11748_2	punct	11748_1
+11748_2	has_surface_form	(
+11748_3	is_in_sentence	sentence_11748
+11748_3	acl	11748_1
+11748_3	has_surface_form	born
+11748_4	is_in_sentence	sentence_11748
+11748_4	npadvmod	11748_3
+11748_4	has_surface_form	February
+11748_5	is_in_sentence	sentence_11748
+11748_5	nummod	11748_4
+11748_5	has_surface_form	23
+11748_6	is_in_sentence	sentence_11748
+11748_6	punct	11748_4
+11748_6	has_surface_form	,
+11748_7	is_in_sentence	sentence_11748
+11748_7	nummod	11748_4
+11748_7	has_surface_form	1961
+11748_8	is_in_sentence	sentence_11748
+11748_8	punct	11748_1
+11748_8	has_surface_form	)
+11748_10	is_in_sentence	sentence_11748
+11748_10	det	11748_13
+11748_10	has_surface_form	an
+11748_13	is_in_sentence	sentence_11748
+11748_13	attr	11748_9
+11748_13	has_surface_form	coach
+11748_13	part_of_entity	football coach
+11748_11	is_in_sentence	sentence_11748
+11748_11	amod	11748_13
+11748_11	has_surface_form	American
+11748_12	is_in_sentence	sentence_11748
+11748_12	compound	11748_13
+11748_12	has_surface_form	football
+11748_12	part_of_entity	football coach
+11748_14	is_in_sentence	sentence_11748
+11748_14	cc	11748_13
+11748_14	has_surface_form	and
+11748_15	is_in_sentence	sentence_11748
+11748_15	amod	11748_16
+11748_15	has_surface_form	former
+11748_16	is_in_sentence	sentence_11748
+11748_16	conj	11748_13
+11748_16	has_surface_form	player
+11748_17	is_in_sentence	sentence_11748
+11748_17	punct	11748_9
+11748_17	has_surface_form	.
+11748_18	is_in_sentence	sentence_11748
+11748_18	dep	11748_18
+11748_18	has_surface_form	
+Karl Morgan	surface_form	Karl Morgan
+Karl Morgan	has-type	football coach
+football coach	surface_form	football coach

@@ -1,0 +1,56 @@
+21002_0	is_in_sentence	sentence_21002
+21002_0	det	21002_3
+21002_0	has_surface_form	The
+21002_3	is_in_sentence	sentence_21002
+21002_3	nsubj	21002_11
+21002_3	has_surface_form	demonstration
+21002_1	is_in_sentence	sentence_21002
+21002_1	amod	21002_3
+21002_1	has_surface_form	first
+21002_2	is_in_sentence	sentence_21002
+21002_2	amod	21002_3
+21002_2	has_surface_form	public
+21002_11	is_in_sentence	sentence_21002
+21002_11	ROOT	21002_11
+21002_11	has_surface_form	was
+21002_4	is_in_sentence	sentence_21002
+21002_4	prep	21002_3
+21002_4	has_surface_form	of
+21002_5	is_in_sentence	sentence_21002
+21002_5	det	21002_6
+21002_5	has_surface_form	a
+21002_6	is_in_sentence	sentence_21002
+21002_6	pobj	21002_4
+21002_6	has_surface_form	mouse
+21002_6	part_of_entity	mouse controlling a computer system
+21002_7	is_in_sentence	sentence_21002
+21002_7	acl	21002_6
+21002_7	has_surface_form	controlling
+21002_7	part_of_entity	mouse controlling a computer system
+21002_8	is_in_sentence	sentence_21002
+21002_8	det	21002_10
+21002_8	has_surface_form	a
+21002_8	part_of_entity	mouse controlling a computer system
+21002_10	is_in_sentence	sentence_21002
+21002_10	dobj	21002_7
+21002_10	has_surface_form	system
+21002_10	part_of_entity	mouse controlling a computer system
+21002_9	is_in_sentence	sentence_21002
+21002_9	compound	21002_10
+21002_9	has_surface_form	computer
+21002_9	part_of_entity	mouse controlling a computer system
+21002_12	is_in_sentence	sentence_21002
+21002_12	prep	21002_11
+21002_12	has_surface_form	in
+21002_13	is_in_sentence	sentence_21002
+21002_13	pobj	21002_12
+21002_13	is_entity	1968
+1968	surface_form	1968
+21002_14	is_in_sentence	sentence_21002
+21002_14	punct	21002_11
+21002_14	has_surface_form	.
+21002_15	is_in_sentence	sentence_21002
+21002_15	dep	21002_15
+21002_15	has_surface_form	
+mouse controlling a computer system	surface_form	mouse controlling a computer system
+mouse controlling a computer system	invented-when	1968

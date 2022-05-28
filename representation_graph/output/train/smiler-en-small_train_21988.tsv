@@ -1,0 +1,47 @@
+21987_0	is_in_sentence	sentence_21987
+21987_0	compound	21987_1
+21987_0	has_surface_form	Theertha
+21987_0	part_of_entity	Theertha Karaiyinile
+21987_1	is_in_sentence	sentence_21987
+21987_1	nsubj	21987_2
+21987_1	has_surface_form	Karaiyinile
+21987_1	part_of_entity	Theertha Karaiyinile
+21987_2	is_in_sentence	sentence_21987
+21987_2	ROOT	21987_2
+21987_2	has_surface_form	is
+21987_3	is_in_sentence	sentence_21987
+21987_3	det	21987_7
+21987_3	has_surface_form	a
+21987_7	is_in_sentence	sentence_21987
+21987_7	attr	21987_2
+21987_7	has_surface_form	film
+21987_4	is_in_sentence	sentence_21987
+21987_4	nummod	21987_7
+21987_4	has_surface_form	1987
+21987_5	is_in_sentence	sentence_21987
+21987_5	compound	21987_6
+21987_5	has_surface_form	Indian
+21987_6	is_in_sentence	sentence_21987
+21987_6	compound	21987_7
+21987_6	has_surface_form	Tamil
+21987_8	is_in_sentence	sentence_21987
+21987_8	punct	21987_7
+21987_8	has_surface_form	,
+21987_9	is_in_sentence	sentence_21987
+21987_9	acl	21987_7
+21987_9	has_surface_form	directed
+21987_10	is_in_sentence	sentence_21987
+21987_10	agent	21987_9
+21987_10	has_surface_form	by
+21987_11	is_in_sentence	sentence_21987
+21987_11	pobj	21987_10
+21987_11	is_entity	Manivannan
+Manivannan	surface_form	Manivannan
+21987_12	is_in_sentence	sentence_21987
+21987_12	punct	21987_2
+21987_12	has_surface_form	.
+21987_13	is_in_sentence	sentence_21987
+21987_13	dep	21987_13
+21987_13	has_surface_form	
+Theertha Karaiyinile	surface_form	Theertha Karaiyinile
+Theertha Karaiyinile	movie-has-director	Manivannan

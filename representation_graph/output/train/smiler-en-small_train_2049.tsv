@@ -1,0 +1,75 @@
+2048_0	is_in_sentence	sentence_2048
+2048_0	compound	2048_2
+2048_0	has_surface_form	Paul
+2048_0	part_of_entity	Paul Di Leo
+2048_2	is_in_sentence	sentence_2048
+2048_2	nsubj	2048_3
+2048_2	has_surface_form	Leo
+2048_2	part_of_entity	Paul Di Leo
+2048_1	is_in_sentence	sentence_2048
+2048_1	compound	2048_2
+2048_1	has_surface_form	Di
+2048_1	part_of_entity	Paul Di Leo
+2048_3	is_in_sentence	sentence_2048
+2048_3	ROOT	2048_3
+2048_3	has_surface_form	is
+2048_4	is_in_sentence	sentence_2048
+2048_4	det	2048_6
+2048_4	has_surface_form	an
+2048_6	is_in_sentence	sentence_2048
+2048_6	attr	2048_3
+2048_6	has_surface_form	bassist
+2048_5	is_in_sentence	sentence_2048
+2048_5	amod	2048_6
+2048_5	has_surface_form	American
+2048_7	is_in_sentence	sentence_2048
+2048_7	nsubj	2048_9
+2048_7	has_surface_form	who
+2048_9	is_in_sentence	sentence_2048
+2048_9	relcl	2048_6
+2048_9	has_surface_form	worked
+2048_8	is_in_sentence	sentence_2048
+2048_8	aux	2048_9
+2048_8	has_surface_form	has
+2048_10	is_in_sentence	sentence_2048
+2048_10	prep	2048_9
+2048_10	has_surface_form	with
+2048_11	is_in_sentence	sentence_2048
+2048_11	amod	2048_12
+2048_11	has_surface_form	such
+2048_12	is_in_sentence	sentence_2048
+2048_12	pobj	2048_10
+2048_12	has_surface_form	bands
+2048_13	is_in_sentence	sentence_2048
+2048_13	prep	2048_12
+2048_13	has_surface_form	as
+2048_14	is_in_sentence	sentence_2048
+2048_14	pobj	2048_13
+2048_14	has_surface_form	Nena
+2048_15	is_in_sentence	sentence_2048
+2048_15	punct	2048_14
+2048_15	has_surface_form	,
+2048_16	is_in_sentence	sentence_2048
+2048_16	compound	2048_17
+2048_16	has_surface_form	Adrenaline
+2048_17	is_in_sentence	sentence_2048
+2048_17	conj	2048_14
+2048_17	has_surface_form	Mob
+2048_18	is_in_sentence	sentence_2048
+2048_18	punct	2048_17
+2048_18	has_surface_form	,
+2048_19	is_in_sentence	sentence_2048
+2048_19	cc	2048_17
+2048_19	has_surface_form	and
+2048_20	is_in_sentence	sentence_2048
+2048_20	conj	2048_17
+2048_20	is_entity	Fozzy
+Fozzy	surface_form	Fozzy
+2048_21	is_in_sentence	sentence_2048
+2048_21	punct	2048_3
+2048_21	has_surface_form	.
+2048_22	is_in_sentence	sentence_2048
+2048_22	dep	2048_22
+2048_22	has_surface_form	
+Paul Di Leo	surface_form	Paul Di Leo
+Paul Di Leo	is-member-of	Fozzy

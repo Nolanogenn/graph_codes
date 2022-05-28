@@ -1,0 +1,57 @@
+11775_0	is_in_sentence	sentence_11775
+11775_0	compound	11775_1
+11775_0	has_surface_form	New
+11775_0	part_of_entity	New Hampshire Route 175
+11775_1	is_in_sentence	sentence_11775
+11775_1	compound	11775_2
+11775_1	has_surface_form	Hampshire
+11775_1	part_of_entity	New Hampshire Route 175
+11775_2	is_in_sentence	sentence_11775
+11775_2	nsubj	11775_8
+11775_2	has_surface_form	Route
+11775_2	part_of_entity	New Hampshire Route 175
+11775_8	is_in_sentence	sentence_11775
+11775_8	ROOT	11775_8
+11775_8	has_surface_form	is
+11775_3	is_in_sentence	sentence_11775
+11775_3	nummod	11775_2
+11775_3	has_surface_form	175
+11775_3	part_of_entity	New Hampshire Route 175
+11775_4	is_in_sentence	sentence_11775
+11775_4	punct	11775_2
+11775_4	has_surface_form	(
+11775_5	is_in_sentence	sentence_11775
+11775_5	appos	11775_2
+11775_5	has_surface_form	NH
+11775_6	is_in_sentence	sentence_11775
+11775_6	nummod	11775_5
+11775_6	has_surface_form	175
+11775_7	is_in_sentence	sentence_11775
+11775_7	punct	11775_5
+11775_7	has_surface_form	)
+11775_9	is_in_sentence	sentence_11775
+11775_9	det	11775_11
+11775_9	has_surface_form	a
+11775_11	is_in_sentence	sentence_11775
+11775_11	attr	11775_8
+11775_11	has_surface_form	highway
+11775_11	part_of_entity	state highway
+11775_10	is_in_sentence	sentence_11775
+11775_10	compound	11775_11
+11775_10	has_surface_form	state
+11775_10	part_of_entity	state highway
+11775_12	is_in_sentence	sentence_11775
+11775_12	prep	11775_11
+11775_12	has_surface_form	in
+11775_13	is_in_sentence	sentence_11775
+11775_13	det	11775_14
+11775_13	has_surface_form	the
+11775_14	is_in_sentence	sentence_11775
+11775_14	pobj	11775_12
+11775_14	has_surface_form	U.
+11775_15	is_in_sentence	sentence_11775
+11775_15	dep	11775_8
+11775_15	has_surface_form	
+New Hampshire Route 175	surface_form	New Hampshire Route 175
+New Hampshire Route 175	has-type	state highway
+state highway	surface_form	state highway

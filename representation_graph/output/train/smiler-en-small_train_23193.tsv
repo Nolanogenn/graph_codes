@@ -1,0 +1,70 @@
+23192_0	is_in_sentence	sentence_23192
+23192_0	det	23192_1
+23192_0	has_surface_form	The
+23192_1	is_in_sentence	sentence_23192
+23192_1	nsubj	23192_5
+23192_1	has_surface_form	Army
+23192_1	part_of_entity	Army of the South
+23192_5	is_in_sentence	sentence_23192
+23192_5	ROOT	23192_5
+23192_5	has_surface_form	was
+23192_2	is_in_sentence	sentence_23192
+23192_2	prep	23192_1
+23192_2	has_surface_form	of
+23192_2	part_of_entity	Army of the South
+23192_3	is_in_sentence	sentence_23192
+23192_3	det	23192_4
+23192_3	has_surface_form	the
+23192_3	part_of_entity	Army of the South
+23192_4	is_in_sentence	sentence_23192
+23192_4	pobj	23192_2
+23192_4	has_surface_form	South
+23192_4	part_of_entity	Army of the South
+23192_6	is_in_sentence	sentence_23192
+23192_6	det	23192_9
+23192_6	has_surface_form	a
+23192_9	is_in_sentence	sentence_23192
+23192_9	attr	23192_5
+23192_9	is_entity	army
+23192_7	is_in_sentence	sentence_23192
+23192_7	amod	23192_9
+23192_7	has_surface_form	Confederate
+23192_8	is_in_sentence	sentence_23192
+23192_8	compound	23192_9
+23192_8	has_surface_form	field
+army	surface_form	army
+23192_10	is_in_sentence	sentence_23192
+23192_10	prep	23192_5
+23192_10	has_surface_form	during
+23192_11	is_in_sentence	sentence_23192
+23192_11	det	23192_13
+23192_11	has_surface_form	the
+23192_13	is_in_sentence	sentence_23192
+23192_13	pobj	23192_10
+23192_13	has_surface_form	months
+23192_12	is_in_sentence	sentence_23192
+23192_12	amod	23192_13
+23192_12	has_surface_form	final
+23192_14	is_in_sentence	sentence_23192
+23192_14	prep	23192_13
+23192_14	has_surface_form	of
+23192_15	is_in_sentence	sentence_23192
+23192_15	det	23192_18
+23192_15	has_surface_form	the
+23192_18	is_in_sentence	sentence_23192
+23192_18	pobj	23192_14
+23192_18	has_surface_form	War
+23192_16	is_in_sentence	sentence_23192
+23192_16	compound	23192_18
+23192_16	has_surface_form	American
+23192_17	is_in_sentence	sentence_23192
+23192_17	compound	23192_18
+23192_17	has_surface_form	Civil
+23192_19	is_in_sentence	sentence_23192
+23192_19	punct	23192_5
+23192_19	has_surface_form	.
+23192_20	is_in_sentence	sentence_23192
+23192_20	dep	23192_20
+23192_20	has_surface_form	
+Army of the South	surface_form	Army of the South
+Army of the South	has-type	army

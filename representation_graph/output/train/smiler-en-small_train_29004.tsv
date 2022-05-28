@@ -1,0 +1,53 @@
+29003_0	is_in_sentence	sentence_29003
+29003_0	compound	29003_2
+29003_0	has_surface_form	Mrs.
+29003_0	part_of_entity	Mrs. Tutti Frutti
+29003_2	is_in_sentence	sentence_29003
+29003_2	nsubj	29003_3
+29003_2	has_surface_form	Frutti
+29003_2	part_of_entity	Mrs. Tutti Frutti
+29003_1	is_in_sentence	sentence_29003
+29003_1	compound	29003_2
+29003_1	has_surface_form	Tutti
+29003_1	part_of_entity	Mrs. Tutti Frutti
+29003_3	is_in_sentence	sentence_29003
+29003_3	ROOT	29003_3
+29003_3	has_surface_form	is
+29003_4	is_in_sentence	sentence_29003
+29003_4	det	29003_8
+29003_4	has_surface_form	a
+29003_8	is_in_sentence	sentence_29003
+29003_8	attr	29003_3
+29003_8	has_surface_form	film
+29003_5	is_in_sentence	sentence_29003
+29003_5	nummod	29003_8
+29003_5	has_surface_form	1921
+29003_6	is_in_sentence	sentence_29003
+29003_6	amod	29003_8
+29003_6	has_surface_form	Austrian
+29003_7	is_in_sentence	sentence_29003
+29003_7	amod	29003_8
+29003_7	has_surface_form	silent
+29003_9	is_in_sentence	sentence_29003
+29003_9	acl	29003_8
+29003_9	has_surface_form	directed
+29003_10	is_in_sentence	sentence_29003
+29003_10	agent	29003_9
+29003_10	has_surface_form	by
+29003_11	is_in_sentence	sentence_29003
+29003_11	compound	29003_12
+29003_11	has_surface_form	Michael
+29003_11	part_of_entity	Michael Curtiz
+29003_12	is_in_sentence	sentence_29003
+29003_12	pobj	29003_10
+29003_12	has_surface_form	Curtiz
+29003_12	part_of_entity	Michael Curtiz
+29003_13	is_in_sentence	sentence_29003
+29003_13	punct	29003_3
+29003_13	has_surface_form	.
+29003_14	is_in_sentence	sentence_29003
+29003_14	dep	29003_3
+29003_14	has_surface_form	
+Mrs. Tutti Frutti	surface_form	Mrs. Tutti Frutti
+Mrs. Tutti Frutti	movie-has-director	Michael Curtiz
+Michael Curtiz	surface_form	Michael Curtiz

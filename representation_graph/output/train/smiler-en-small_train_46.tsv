@@ -1,0 +1,115 @@
+45_0	is_in_sentence	sentence_45
+45_0	compound	45_1
+45_0	has_surface_form	Emlak
+45_0	part_of_entity	Emlak Konut Mimar Sinan Anatolian High School
+45_1	is_in_sentence	sentence_45
+45_1	compound	45_6
+45_1	has_surface_form	Konut
+45_1	part_of_entity	Emlak Konut Mimar Sinan Anatolian High School
+45_6	is_in_sentence	sentence_45
+45_6	nsubj	45_22
+45_6	has_surface_form	School
+45_6	part_of_entity	Emlak Konut Mimar Sinan Anatolian High School
+45_2	is_in_sentence	sentence_45
+45_2	compound	45_6
+45_2	has_surface_form	Mimar
+45_2	part_of_entity	Emlak Konut Mimar Sinan Anatolian High School
+45_3	is_in_sentence	sentence_45
+45_3	compound	45_6
+45_3	has_surface_form	Sinan
+45_3	part_of_entity	Emlak Konut Mimar Sinan Anatolian High School
+45_4	is_in_sentence	sentence_45
+45_4	compound	45_6
+45_4	has_surface_form	Anatolian
+45_4	part_of_entity	Emlak Konut Mimar Sinan Anatolian High School
+45_5	is_in_sentence	sentence_45
+45_5	compound	45_6
+45_5	has_surface_form	High
+45_5	part_of_entity	Emlak Konut Mimar Sinan Anatolian High School
+45_22	is_in_sentence	sentence_45
+45_22	ROOT	45_22
+45_22	has_surface_form	is
+45_7	is_in_sentence	sentence_45
+45_7	punct	45_8
+45_7	has_surface_form	(
+45_8	is_in_sentence	sentence_45
+45_8	appos	45_6
+45_8	has_surface_form	Turkish
+45_9	is_in_sentence	sentence_45
+45_9	punct	45_8
+45_9	has_surface_form	:
+45_10	is_in_sentence	sentence_45
+45_10	compound	45_11
+45_10	has_surface_form	Emlak
+45_11	is_in_sentence	sentence_45
+45_11	compound	45_15
+45_11	has_surface_form	Konut
+45_15	is_in_sentence	sentence_45
+45_15	npadvmod	45_8
+45_15	has_surface_form	Lisesi
+45_12	is_in_sentence	sentence_45
+45_12	compound	45_15
+45_12	has_surface_form	Mimar
+45_13	is_in_sentence	sentence_45
+45_13	compound	45_15
+45_13	has_surface_form	Sinan
+45_14	is_in_sentence	sentence_45
+45_14	compound	45_15
+45_14	has_surface_form	Anadolu
+45_16	is_in_sentence	sentence_45
+45_16	punct	45_15
+45_16	has_surface_form	)
+45_17	is_in_sentence	sentence_45
+45_17	cc	45_8
+45_17	has_surface_form	or
+45_18	is_in_sentence	sentence_45
+45_18	conj	45_8
+45_18	has_surface_form	EKMAL
+45_19	is_in_sentence	sentence_45
+45_19	prep	45_18
+45_19	has_surface_form	in
+45_20	is_in_sentence	sentence_45
+45_20	amod	45_19
+45_20	has_surface_form	short
+45_21	is_in_sentence	sentence_45
+45_21	punct	45_6
+45_21	has_surface_form	,
+45_23	is_in_sentence	sentence_45
+45_23	det	45_26
+45_23	has_surface_form	an
+45_26	is_in_sentence	sentence_45
+45_26	attr	45_22
+45_26	has_surface_form	School
+45_24	is_in_sentence	sentence_45
+45_24	compound	45_26
+45_24	has_surface_form	Anatolian
+45_25	is_in_sentence	sentence_45
+45_25	compound	45_26
+45_25	has_surface_form	High
+45_27	is_in_sentence	sentence_45
+45_27	prep	45_26
+45_27	has_surface_form	in
+45_28	is_in_sentence	sentence_45
+45_28	pobj	45_27
+45_28	is_entity	Büyükçekmece
+Büyükçekmece	surface_form	Büyükçekmece
+45_29	is_in_sentence	sentence_45
+45_29	punct	45_28
+45_29	has_surface_form	,
+45_30	is_in_sentence	sentence_45
+45_30	conj	45_28
+45_30	has_surface_form	Istanbul
+45_31	is_in_sentence	sentence_45
+45_31	punct	45_30
+45_31	has_surface_form	,
+45_32	is_in_sentence	sentence_45
+45_32	conj	45_30
+45_32	has_surface_form	Turkey
+45_33	is_in_sentence	sentence_45
+45_33	punct	45_22
+45_33	has_surface_form	.
+45_34	is_in_sentence	sentence_45
+45_34	dep	45_22
+45_34	has_surface_form	
+Emlak Konut Mimar Sinan Anatolian High School	surface_form	Emlak Konut Mimar Sinan Anatolian High School
+Emlak Konut Mimar Sinan Anatolian High School	is-where	Büyükçekmece

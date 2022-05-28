@@ -1,0 +1,47 @@
+22090_0	is_in_sentence	sentence_22090
+22090_0	compound	22090_2
+22090_0	has_surface_form	Ocean
+22090_0	part_of_entity	Ocean Airlines
+22090_2	is_in_sentence	sentence_22090
+22090_2	nsubj	22090_3
+22090_2	has_surface_form	S.
+22090_1	is_in_sentence	sentence_22090
+22090_1	compound	22090_2
+22090_1	has_surface_form	Airlines
+22090_1	part_of_entity	Ocean Airlines
+22090_3	is_in_sentence	sentence_22090
+22090_3	ROOT	22090_3
+22090_3	has_surface_form	was
+22090_4	is_in_sentence	sentence_22090
+22090_4	det	22090_6
+22090_4	has_surface_form	a
+22090_6	is_in_sentence	sentence_22090
+22090_6	attr	22090_3
+22090_6	has_surface_form	airline
+22090_5	is_in_sentence	sentence_22090
+22090_5	compound	22090_6
+22090_5	has_surface_form	cargo
+22090_7	is_in_sentence	sentence_22090
+22090_7	acl	22090_6
+22090_7	has_surface_form	based
+22090_8	is_in_sentence	sentence_22090
+22090_8	prep	22090_7
+22090_8	has_surface_form	in
+22090_9	is_in_sentence	sentence_22090
+22090_9	pobj	22090_8
+22090_9	is_entity	Brescia
+Brescia	surface_form	Brescia
+22090_10	is_in_sentence	sentence_22090
+22090_10	punct	22090_9
+22090_10	has_surface_form	,
+22090_11	is_in_sentence	sentence_22090
+22090_11	appos	22090_9
+22090_11	has_surface_form	Italy
+22090_12	is_in_sentence	sentence_22090
+22090_12	punct	22090_3
+22090_12	has_surface_form	.
+22090_13	is_in_sentence	sentence_22090
+22090_13	dep	22090_13
+22090_13	has_surface_form	
+Ocean Airlines	surface_form	Ocean Airlines
+Ocean Airlines	headquarters	Brescia

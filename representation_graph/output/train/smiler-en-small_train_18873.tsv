@@ -1,0 +1,44 @@
+18872_0	is_in_sentence	sentence_18872
+18872_0	compound	18872_1
+18872_0	has_surface_form	Concord
+18872_0	part_of_entity	Concord University
+18872_1	is_in_sentence	sentence_18872
+18872_1	nsubj	18872_2
+18872_1	has_surface_form	University
+18872_1	part_of_entity	Concord University
+18872_2	is_in_sentence	sentence_18872
+18872_2	ROOT	18872_2
+18872_2	has_surface_form	is
+18872_3	is_in_sentence	sentence_18872
+18872_3	det	18872_5
+18872_3	has_surface_form	a
+18872_5	is_in_sentence	sentence_18872
+18872_5	attr	18872_2
+18872_5	has_surface_form	university
+18872_4	is_in_sentence	sentence_18872
+18872_4	amod	18872_5
+18872_4	has_surface_form	public
+18872_6	is_in_sentence	sentence_18872
+18872_6	prep	18872_5
+18872_6	has_surface_form	in
+18872_7	is_in_sentence	sentence_18872
+18872_7	pobj	18872_6
+18872_7	has_surface_form	Athens
+18872_8	is_in_sentence	sentence_18872
+18872_8	punct	18872_7
+18872_8	has_surface_form	,
+18872_9	is_in_sentence	sentence_18872
+18872_9	compound	18872_10
+18872_9	has_surface_form	West
+18872_10	is_in_sentence	sentence_18872
+18872_10	appos	18872_7
+18872_10	has_surface_form	Virginia
+18872_11	is_in_sentence	sentence_18872
+18872_11	punct	18872_2
+18872_11	has_surface_form	.
+18872_12	is_in_sentence	sentence_18872
+18872_12	dep	18872_12
+18872_12	has_surface_form	
+Concord University	surface_form	Concord University
+Concord University	is-where	Athens, West Virginia
+Athens, West Virginia	surface_form	Athens, West Virginia

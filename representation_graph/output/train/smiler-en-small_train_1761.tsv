@@ -1,0 +1,79 @@
+1760_0	is_in_sentence	sentence_1760
+1760_0	compound	1760_1
+1760_0	has_surface_form	Abeiku
+1760_0	part_of_entity	Abeiku Quansah
+1760_1	is_in_sentence	sentence_1760
+1760_1	nsubj	1760_12
+1760_1	has_surface_form	Quansah
+1760_1	part_of_entity	Abeiku Quansah
+1760_12	is_in_sentence	sentence_1760
+1760_12	ROOT	1760_12
+1760_12	has_surface_form	is
+1760_2	is_in_sentence	sentence_1760
+1760_2	punct	1760_1
+1760_2	has_surface_form	(
+1760_3	is_in_sentence	sentence_1760
+1760_3	acl	1760_1
+1760_3	has_surface_form	born
+1760_4	is_in_sentence	sentence_1760
+1760_4	npadvmod	1760_3
+1760_4	has_surface_form	November
+1760_5	is_in_sentence	sentence_1760
+1760_5	nummod	1760_4
+1760_5	has_surface_form	2
+1760_6	is_in_sentence	sentence_1760
+1760_6	punct	1760_4
+1760_6	has_surface_form	,
+1760_7	is_in_sentence	sentence_1760
+1760_7	nummod	1760_4
+1760_7	has_surface_form	1990
+1760_8	is_in_sentence	sentence_1760
+1760_8	punct	1760_1
+1760_8	has_surface_form	,
+1760_9	is_in_sentence	sentence_1760
+1760_9	prep	1760_1
+1760_9	has_surface_form	in
+1760_10	is_in_sentence	sentence_1760
+1760_10	pobj	1760_9
+1760_10	has_surface_form	Kumasi
+1760_11	is_in_sentence	sentence_1760
+1760_11	punct	1760_1
+1760_11	has_surface_form	)
+1760_13	is_in_sentence	sentence_1760
+1760_13	det	1760_16
+1760_13	has_surface_form	a
+1760_16	is_in_sentence	sentence_1760
+1760_16	attr	1760_12
+1760_16	has_surface_form	footballer
+1760_14	is_in_sentence	sentence_1760
+1760_14	amod	1760_16
+1760_14	has_surface_form	Ghanaian
+1760_15	is_in_sentence	sentence_1760
+1760_15	amod	1760_16
+1760_15	has_surface_form	international
+1760_17	is_in_sentence	sentence_1760
+1760_17	nsubj	1760_18
+1760_17	has_surface_form	who
+1760_18	is_in_sentence	sentence_1760
+1760_18	relcl	1760_16
+1760_18	has_surface_form	plays
+1760_19	is_in_sentence	sentence_1760
+1760_19	prep	1760_18
+1760_19	has_surface_form	for
+1760_20	is_in_sentence	sentence_1760
+1760_20	compound	1760_21
+1760_20	has_surface_form	El
+1760_20	part_of_entity	El Gouna
+1760_21	is_in_sentence	sentence_1760
+1760_21	pobj	1760_19
+1760_21	has_surface_form	Gouna
+1760_21	part_of_entity	El Gouna
+1760_22	is_in_sentence	sentence_1760
+1760_22	punct	1760_12
+1760_22	has_surface_form	.
+1760_23	is_in_sentence	sentence_1760
+1760_23	dep	1760_12
+1760_23	has_surface_form	
+Abeiku Quansah	surface_form	Abeiku Quansah
+Abeiku Quansah	is-member-of	El Gouna
+El Gouna	surface_form	El Gouna

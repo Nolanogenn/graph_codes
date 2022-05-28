@@ -1,0 +1,68 @@
+8582_0	is_in_sentence	sentence_8582
+8582_0	nsubj	8582_10
+8582_0	has_surface_form	Game
+8582_0	part_of_entity	Game of Seduction
+8582_10	is_in_sentence	sentence_8582
+8582_10	ROOT	8582_10
+8582_10	has_surface_form	is
+8582_1	is_in_sentence	sentence_8582
+8582_1	prep	8582_0
+8582_1	has_surface_form	of
+8582_1	part_of_entity	Game of Seduction
+8582_2	is_in_sentence	sentence_8582
+8582_2	pobj	8582_1
+8582_2	has_surface_form	Seduction
+8582_2	part_of_entity	Game of Seduction
+8582_3	is_in_sentence	sentence_8582
+8582_3	punct	8582_4
+8582_3	has_surface_form	(
+8582_4	is_in_sentence	sentence_8582
+8582_4	parataxis	8582_0
+8582_4	has_surface_form	French
+8582_5	is_in_sentence	sentence_8582
+8582_5	punct	8582_4
+8582_5	has_surface_form	:
+8582_6	is_in_sentence	sentence_8582
+8582_6	compound	8582_8
+8582_6	has_surface_form	Une
+8582_8	is_in_sentence	sentence_8582
+8582_8	appos	8582_0
+8582_8	has_surface_form	fidèle
+8582_7	is_in_sentence	sentence_8582
+8582_7	compound	8582_8
+8582_7	has_surface_form	femme
+8582_9	is_in_sentence	sentence_8582
+8582_9	punct	8582_0
+8582_9	has_surface_form	)
+8582_11	is_in_sentence	sentence_8582
+8582_11	det	8582_13
+8582_11	has_surface_form	a
+8582_13	is_in_sentence	sentence_8582
+8582_13	attr	8582_10
+8582_13	has_surface_form	drama
+8582_12	is_in_sentence	sentence_8582
+8582_12	amod	8582_13
+8582_12	has_surface_form	French
+8582_14	is_in_sentence	sentence_8582
+8582_14	acl	8582_13
+8582_14	has_surface_form	directed
+8582_15	is_in_sentence	sentence_8582
+8582_15	agent	8582_14
+8582_15	has_surface_form	by
+8582_16	is_in_sentence	sentence_8582
+8582_16	compound	8582_17
+8582_16	has_surface_form	Roger
+8582_16	part_of_entity	Roger Vadim
+8582_17	is_in_sentence	sentence_8582
+8582_17	pobj	8582_15
+8582_17	has_surface_form	Vadim
+8582_17	part_of_entity	Roger Vadim
+8582_18	is_in_sentence	sentence_8582
+8582_18	punct	8582_10
+8582_18	has_surface_form	.
+8582_19	is_in_sentence	sentence_8582
+8582_19	dep	8582_10
+8582_19	has_surface_form	
+Game of Seduction	surface_form	Game of Seduction
+Game of Seduction	movie-has-director	Roger Vadim
+Roger Vadim	surface_form	Roger Vadim

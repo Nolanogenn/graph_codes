@@ -1,0 +1,101 @@
+20795_0	is_in_sentence	sentence_20795
+20795_0	neg	20795_2
+20795_0	has_surface_form	Not
+20795_0	part_of_entity	Not My Type
+20795_2	is_in_sentence	sentence_20795
+20795_2	nsubj	20795_10
+20795_2	has_surface_form	Type
+20795_2	part_of_entity	Not My Type
+20795_1	is_in_sentence	sentence_20795
+20795_1	poss	20795_2
+20795_1	has_surface_form	My
+20795_1	part_of_entity	Not My Type
+20795_10	is_in_sentence	sentence_20795
+20795_10	ROOT	20795_10
+20795_10	has_surface_form	is
+20795_3	is_in_sentence	sentence_20795
+20795_3	punct	20795_4
+20795_3	has_surface_form	(
+20795_4	is_in_sentence	sentence_20795
+20795_4	appos	20795_2
+20795_4	has_surface_form	French
+20795_5	is_in_sentence	sentence_20795
+20795_5	punct	20795_2
+20795_5	has_surface_form	:
+20795_6	is_in_sentence	sentence_20795
+20795_6	appos	20795_2
+20795_6	has_surface_form	Pas
+20795_7	is_in_sentence	sentence_20795
+20795_7	appos	20795_6
+20795_7	has_surface_form	son
+20795_8	is_in_sentence	sentence_20795
+20795_8	appos	20795_6
+20795_8	has_surface_form	genre
+20795_9	is_in_sentence	sentence_20795
+20795_9	punct	20795_6
+20795_9	has_surface_form	)
+20795_11	is_in_sentence	sentence_20795
+20795_11	det	20795_17
+20795_11	has_surface_form	a
+20795_17	is_in_sentence	sentence_20795
+20795_17	attr	20795_10
+20795_17	has_surface_form	film
+20795_12	is_in_sentence	sentence_20795
+20795_12	nummod	20795_17
+20795_12	has_surface_form	2014
+20795_13	is_in_sentence	sentence_20795
+20795_13	amod	20795_15
+20795_13	has_surface_form	French
+20795_15	is_in_sentence	sentence_20795
+20795_15	amod	20795_17
+20795_15	has_surface_form	Belgian
+20795_14	is_in_sentence	sentence_20795
+20795_14	punct	20795_15
+20795_14	has_surface_form	-
+20795_16	is_in_sentence	sentence_20795
+20795_16	compound	20795_17
+20795_16	has_surface_form	romance
+20795_18	is_in_sentence	sentence_20795
+20795_18	acl	20795_17
+20795_18	has_surface_form	directed
+20795_19	is_in_sentence	sentence_20795
+20795_19	agent	20795_18
+20795_19	has_surface_form	by
+20795_20	is_in_sentence	sentence_20795
+20795_20	compound	20795_21
+20795_20	has_surface_form	Lucas
+20795_20	part_of_entity	Lucas Belvaux
+20795_21	is_in_sentence	sentence_20795
+20795_21	pobj	20795_19
+20795_21	has_surface_form	Belvaux
+20795_21	part_of_entity	Lucas Belvaux
+20795_22	is_in_sentence	sentence_20795
+20795_22	cc	20795_18
+20795_22	has_surface_form	and
+20795_23	is_in_sentence	sentence_20795
+20795_23	conj	20795_18
+20795_23	has_surface_form	starring
+20795_24	is_in_sentence	sentence_20795
+20795_24	compound	20795_25
+20795_24	has_surface_form	Émilie
+20795_25	is_in_sentence	sentence_20795
+20795_25	dobj	20795_23
+20795_25	has_surface_form	Dequenne
+20795_26	is_in_sentence	sentence_20795
+20795_26	cc	20795_25
+20795_26	has_surface_form	and
+20795_27	is_in_sentence	sentence_20795
+20795_27	compound	20795_28
+20795_27	has_surface_form	Loïc
+20795_28	is_in_sentence	sentence_20795
+20795_28	conj	20795_25
+20795_28	has_surface_form	Corbery
+20795_29	is_in_sentence	sentence_20795
+20795_29	punct	20795_10
+20795_29	has_surface_form	.
+20795_30	is_in_sentence	sentence_20795
+20795_30	dep	20795_10
+20795_30	has_surface_form	
+Not My Type	surface_form	Not My Type
+Not My Type	movie-has-director	Lucas Belvaux
+Lucas Belvaux	surface_form	Lucas Belvaux

@@ -1,0 +1,56 @@
+10600_0	is_in_sentence	sentence_10600
+10600_0	det	10600_2
+10600_0	has_surface_form	The
+10600_2	is_in_sentence	sentence_10600
+10600_2	nsubj	10600_3
+10600_2	has_surface_form	Yellowjackets
+10600_2	part_of_entity	Graceland Yellowjackets
+10600_1	is_in_sentence	sentence_10600
+10600_1	compound	10600_2
+10600_1	has_surface_form	Graceland
+10600_1	part_of_entity	Graceland Yellowjackets
+10600_3	is_in_sentence	sentence_10600
+10600_3	ROOT	10600_3
+10600_3	has_surface_form	are
+10600_4	is_in_sentence	sentence_10600
+10600_4	det	10600_6
+10600_4	has_surface_form	the
+10600_6	is_in_sentence	sentence_10600
+10600_6	attr	10600_3
+10600_6	has_surface_form	teams
+10600_5	is_in_sentence	sentence_10600
+10600_5	amod	10600_6
+10600_5	has_surface_form	athletic
+10600_7	is_in_sentence	sentence_10600
+10600_7	nsubj	10600_8
+10600_7	has_surface_form	that
+10600_8	is_in_sentence	sentence_10600
+10600_8	relcl	10600_6
+10600_8	has_surface_form	represent
+10600_9	is_in_sentence	sentence_10600
+10600_9	compound	10600_10
+10600_9	has_surface_form	Graceland
+10600_10	is_in_sentence	sentence_10600
+10600_10	dobj	10600_8
+10600_10	has_surface_form	University
+10600_11	is_in_sentence	sentence_10600
+10600_11	prep	10600_10
+10600_11	has_surface_form	in
+10600_12	is_in_sentence	sentence_10600
+10600_12	pobj	10600_11
+10600_12	has_surface_form	Lamoni
+10600_13	is_in_sentence	sentence_10600
+10600_13	punct	10600_12
+10600_13	has_surface_form	,
+10600_14	is_in_sentence	sentence_10600
+10600_14	appos	10600_12
+10600_14	has_surface_form	Iowa
+10600_15	is_in_sentence	sentence_10600
+10600_15	punct	10600_3
+10600_15	has_surface_form	.
+10600_16	is_in_sentence	sentence_10600
+10600_16	dep	10600_3
+10600_16	has_surface_form	
+Graceland Yellowjackets	surface_form	Graceland Yellowjackets
+Graceland Yellowjackets	is-where	Lamoni, Iowa
+Lamoni, Iowa	surface_form	Lamoni, Iowa

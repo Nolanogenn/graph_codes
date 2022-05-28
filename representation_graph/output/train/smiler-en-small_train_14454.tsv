@@ -1,0 +1,86 @@
+14453_0	is_in_sentence	sentence_14453
+14453_0	det	14453_1
+14453_0	has_surface_form	A
+14453_0	part_of_entity	A Killing in a Small Town
+14453_1	is_in_sentence	sentence_14453
+14453_1	nsubj	14453_6
+14453_1	has_surface_form	Killing
+14453_1	part_of_entity	A Killing in a Small Town
+14453_6	is_in_sentence	sentence_14453
+14453_6	ROOT	14453_6
+14453_6	has_surface_form	is
+14453_2	is_in_sentence	sentence_14453
+14453_2	prep	14453_1
+14453_2	has_surface_form	in
+14453_2	part_of_entity	A Killing in a Small Town
+14453_3	is_in_sentence	sentence_14453
+14453_3	det	14453_5
+14453_3	has_surface_form	a
+14453_3	part_of_entity	A Killing in a Small Town
+14453_5	is_in_sentence	sentence_14453
+14453_5	pobj	14453_2
+14453_5	has_surface_form	Town
+14453_5	part_of_entity	A Killing in a Small Town
+14453_4	is_in_sentence	sentence_14453
+14453_4	compound	14453_5
+14453_4	has_surface_form	Small
+14453_4	part_of_entity	A Killing in a Small Town
+14453_7	is_in_sentence	sentence_14453
+14453_7	det	14453_11
+14453_7	has_surface_form	a
+14453_11	is_in_sentence	sentence_14453
+14453_11	attr	14453_6
+14453_11	has_surface_form	movie
+14453_8	is_in_sentence	sentence_14453
+14453_8	nummod	14453_11
+14453_8	has_surface_form	1990
+14453_9	is_in_sentence	sentence_14453
+14453_9	compound	14453_10
+14453_9	has_surface_form	CBS
+14453_10	is_in_sentence	sentence_14453
+14453_10	compound	14453_11
+14453_10	has_surface_form	television
+14453_12	is_in_sentence	sentence_14453
+14453_12	acl	14453_11
+14453_12	has_surface_form	directed
+14453_13	is_in_sentence	sentence_14453
+14453_13	agent	14453_12
+14453_13	has_surface_form	by
+14453_14	is_in_sentence	sentence_14453
+14453_14	compound	14453_15
+14453_14	has_surface_form	Stephen
+14453_14	part_of_entity	Stephen Gyllenhaal
+14453_15	is_in_sentence	sentence_14453
+14453_15	pobj	14453_13
+14453_15	has_surface_form	Gyllenhaal
+14453_15	part_of_entity	Stephen Gyllenhaal
+14453_16	is_in_sentence	sentence_14453
+14453_16	cc	14453_12
+14453_16	has_surface_form	and
+14453_17	is_in_sentence	sentence_14453
+14453_17	conj	14453_12
+14453_17	has_surface_form	starring
+14453_18	is_in_sentence	sentence_14453
+14453_18	compound	14453_19
+14453_18	has_surface_form	Barbara
+14453_19	is_in_sentence	sentence_14453
+14453_19	dobj	14453_17
+14453_19	has_surface_form	Hershey
+14453_20	is_in_sentence	sentence_14453
+14453_20	cc	14453_19
+14453_20	has_surface_form	and
+14453_21	is_in_sentence	sentence_14453
+14453_21	compound	14453_22
+14453_21	has_surface_form	Brian
+14453_22	is_in_sentence	sentence_14453
+14453_22	conj	14453_19
+14453_22	has_surface_form	Dennehy
+14453_23	is_in_sentence	sentence_14453
+14453_23	punct	14453_6
+14453_23	has_surface_form	.
+14453_24	is_in_sentence	sentence_14453
+14453_24	dep	14453_6
+14453_24	has_surface_form	
+A Killing in a Small Town	surface_form	A Killing in a Small Town
+A Killing in a Small Town	movie-has-director	Stephen Gyllenhaal
+Stephen Gyllenhaal	surface_form	Stephen Gyllenhaal

@@ -1,0 +1,59 @@
+5280_0	is_in_sentence	sentence_5280
+5280_0	compound	5280_2
+5280_0	has_surface_form	Cloud
+5280_0	part_of_entity	Cloud Nine Movies
+5280_2	is_in_sentence	sentence_5280
+5280_2	nsubj	5280_3
+5280_2	has_surface_form	Movies
+5280_2	part_of_entity	Cloud Nine Movies
+5280_1	is_in_sentence	sentence_5280
+5280_1	compound	5280_2
+5280_1	has_surface_form	Nine
+5280_1	part_of_entity	Cloud Nine Movies
+5280_3	is_in_sentence	sentence_5280
+5280_3	ROOT	5280_3
+5280_3	has_surface_form	is
+5280_4	is_in_sentence	sentence_5280
+5280_4	det	5280_10
+5280_4	has_surface_form	a
+5280_10	is_in_sentence	sentence_5280
+5280_10	attr	5280_3
+5280_10	has_surface_form	company
+5280_10	part_of_entity	distribution company
+5280_5	is_in_sentence	sentence_5280
+5280_5	nmod	5280_10
+5280_5	has_surface_form	Tamil
+5280_6	is_in_sentence	sentence_5280
+5280_6	nmod	5280_7
+5280_6	has_surface_form	film
+5280_7	is_in_sentence	sentence_5280
+5280_7	nmod	5280_10
+5280_7	has_surface_form	production
+5280_8	is_in_sentence	sentence_5280
+5280_8	cc	5280_7
+5280_8	has_surface_form	and
+5280_9	is_in_sentence	sentence_5280
+5280_9	conj	5280_7
+5280_9	has_surface_form	distribution
+5280_9	part_of_entity	distribution company
+5280_11	is_in_sentence	sentence_5280
+5280_11	punct	5280_10
+5280_11	has_surface_form	,
+5280_12	is_in_sentence	sentence_5280
+5280_12	acl	5280_10
+5280_12	has_surface_form	based
+5280_13	is_in_sentence	sentence_5280
+5280_13	prep	5280_12
+5280_13	has_surface_form	in
+5280_14	is_in_sentence	sentence_5280
+5280_14	pobj	5280_13
+5280_14	has_surface_form	Chennai
+5280_15	is_in_sentence	sentence_5280
+5280_15	punct	5280_3
+5280_15	has_surface_form	.
+5280_16	is_in_sentence	sentence_5280
+5280_16	dep	5280_16
+5280_16	has_surface_form	
+Cloud Nine Movies	surface_form	Cloud Nine Movies
+Cloud Nine Movies	has-type	distribution company
+distribution company	surface_form	distribution company

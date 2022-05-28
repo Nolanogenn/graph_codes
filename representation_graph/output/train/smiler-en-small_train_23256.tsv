@@ -1,0 +1,59 @@
+23255_0	is_in_sentence	sentence_23255
+23255_0	compound	23255_1
+23255_0	has_surface_form	Oscar
+23255_0	part_of_entity	Oscar Leung
+23255_1	is_in_sentence	sentence_23255
+23255_1	nsubj	23255_10
+23255_1	has_surface_form	Leung
+23255_1	part_of_entity	Oscar Leung
+23255_10	is_in_sentence	sentence_23255
+23255_10	ROOT	23255_10
+23255_10	has_surface_form	is
+23255_2	is_in_sentence	sentence_23255
+23255_2	punct	23255_3
+23255_2	has_surface_form	(
+23255_3	is_in_sentence	sentence_23255
+23255_3	appos	23255_1
+23255_3	has_surface_form	Chinese
+23255_4	is_in_sentence	sentence_23255
+23255_4	punct	23255_3
+23255_4	has_surface_form	:
+23255_5	is_in_sentence	sentence_23255
+23255_5	appos	23255_3
+23255_5	has_surface_form	梁競徽
+23255_6	is_in_sentence	sentence_23255
+23255_6	punct	23255_5
+23255_6	has_surface_form	,
+23255_7	is_in_sentence	sentence_23255
+23255_7	acl	23255_5
+23255_7	has_surface_form	born
+23255_8	is_in_sentence	sentence_23255
+23255_8	npadvmod	23255_7
+23255_8	has_surface_form	1979
+23255_9	is_in_sentence	sentence_23255
+23255_9	punct	23255_3
+23255_9	has_surface_form	)
+23255_11	is_in_sentence	sentence_23255
+23255_11	det	23255_12
+23255_11	has_surface_form	an
+23255_12	is_in_sentence	sentence_23255
+23255_12	attr	23255_10
+23255_12	is_entity	actor
+actor	surface_form	actor
+23255_13	is_in_sentence	sentence_23255
+23255_13	acl	23255_12
+23255_13	has_surface_form	working
+23255_14	is_in_sentence	sentence_23255
+23255_14	prep	23255_13
+23255_14	has_surface_form	for
+23255_15	is_in_sentence	sentence_23255
+23255_15	pobj	23255_14
+23255_15	has_surface_form	TVB
+23255_16	is_in_sentence	sentence_23255
+23255_16	punct	23255_10
+23255_16	has_surface_form	.
+23255_17	is_in_sentence	sentence_23255
+23255_17	dep	23255_17
+23255_17	has_surface_form	
+Oscar Leung	surface_form	Oscar Leung
+Oscar Leung	has-occupation	actor

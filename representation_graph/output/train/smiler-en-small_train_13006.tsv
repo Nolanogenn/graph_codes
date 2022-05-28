@@ -1,0 +1,67 @@
+13005_0	is_in_sentence	sentence_13005
+13005_0	det	13005_1
+13005_0	has_surface_form	The
+13005_1	is_in_sentence	sentence_13005
+13005_1	nsubj	13005_5
+13005_1	has_surface_form	history
+13005_5	is_in_sentence	sentence_13005
+13005_5	ROOT	13005_5
+13005_5	has_surface_form	began
+13005_2	is_in_sentence	sentence_13005
+13005_2	prep	13005_1
+13005_2	has_surface_form	of
+13005_3	is_in_sentence	sentence_13005
+13005_3	amod	13005_4
+13005_3	has_surface_form	artificial
+13005_3	part_of_entity	artificial refrigeration
+13005_4	is_in_sentence	sentence_13005
+13005_4	pobj	13005_2
+13005_4	has_surface_form	refrigeration
+13005_4	part_of_entity	artificial refrigeration
+13005_6	is_in_sentence	sentence_13005
+13005_6	advmod	13005_11
+13005_6	has_surface_form	when
+13005_11	is_in_sentence	sentence_13005
+13005_11	advcl	13005_5
+13005_11	has_surface_form	designed
+13005_7	is_in_sentence	sentence_13005
+13005_7	amod	13005_8
+13005_7	has_surface_form	Scottish
+13005_8	is_in_sentence	sentence_13005
+13005_8	compound	13005_10
+13005_8	has_surface_form	professor
+13005_10	is_in_sentence	sentence_13005
+13005_10	nsubj	13005_11
+13005_10	has_surface_form	Cullen
+13005_10	part_of_entity	William Cullen
+13005_9	is_in_sentence	sentence_13005
+13005_9	compound	13005_10
+13005_9	has_surface_form	William
+13005_9	part_of_entity	William Cullen
+13005_12	is_in_sentence	sentence_13005
+13005_12	det	13005_15
+13005_12	has_surface_form	a
+13005_15	is_in_sentence	sentence_13005
+13005_15	dobj	13005_11
+13005_15	has_surface_form	machine
+13005_13	is_in_sentence	sentence_13005
+13005_13	amod	13005_15
+13005_13	has_surface_form	small
+13005_14	is_in_sentence	sentence_13005
+13005_14	amod	13005_15
+13005_14	has_surface_form	refrigerating
+13005_16	is_in_sentence	sentence_13005
+13005_16	prep	13005_11
+13005_16	has_surface_form	in
+13005_17	is_in_sentence	sentence_13005
+13005_17	pobj	13005_16
+13005_17	has_surface_form	1755
+13005_18	is_in_sentence	sentence_13005
+13005_18	punct	13005_5
+13005_18	has_surface_form	.
+13005_19	is_in_sentence	sentence_13005
+13005_19	dep	13005_19
+13005_19	has_surface_form	
+artificial refrigeration	surface_form	artificial refrigeration
+artificial refrigeration	invented-by	William Cullen
+William Cullen	surface_form	William Cullen

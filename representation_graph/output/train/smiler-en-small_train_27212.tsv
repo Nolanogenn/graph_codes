@@ -1,0 +1,80 @@
+27211_0	is_in_sentence	sentence_27211
+27211_0	ROOT	27211_0
+27211_0	has_surface_form	Paid
+27211_0	part_of_entity	Paid to Love
+27211_1	is_in_sentence	sentence_27211
+27211_1	prep	27211_0
+27211_1	has_surface_form	to
+27211_1	part_of_entity	Paid to Love
+27211_2	is_in_sentence	sentence_27211
+27211_2	pobj	27211_1
+27211_2	has_surface_form	Love
+27211_2	part_of_entity	Paid to Love
+27211_3	is_in_sentence	sentence_27211
+27211_3	auxpass	27211_0
+27211_3	has_surface_form	is
+27211_4	is_in_sentence	sentence_27211
+27211_4	det	27211_9
+27211_4	has_surface_form	a
+27211_9	is_in_sentence	sentence_27211
+27211_9	attr	27211_3
+27211_9	has_surface_form	film
+27211_5	is_in_sentence	sentence_27211
+27211_5	nummod	27211_9
+27211_5	has_surface_form	1927
+27211_6	is_in_sentence	sentence_27211
+27211_6	amod	27211_9
+27211_6	has_surface_form	American
+27211_7	is_in_sentence	sentence_27211
+27211_7	amod	27211_9
+27211_7	has_surface_form	silent
+27211_8	is_in_sentence	sentence_27211
+27211_8	compound	27211_9
+27211_8	has_surface_form	comedy
+27211_10	is_in_sentence	sentence_27211
+27211_10	acl	27211_9
+27211_10	has_surface_form	directed
+27211_11	is_in_sentence	sentence_27211
+27211_11	agent	27211_10
+27211_11	has_surface_form	by
+27211_12	is_in_sentence	sentence_27211
+27211_12	compound	27211_13
+27211_12	has_surface_form	Howard
+27211_12	part_of_entity	Howard Hawks
+27211_13	is_in_sentence	sentence_27211
+27211_13	pobj	27211_11
+27211_13	has_surface_form	Hawks
+27211_13	part_of_entity	Howard Hawks
+27211_14	is_in_sentence	sentence_27211
+27211_14	cc	27211_10
+27211_14	has_surface_form	and
+27211_15	is_in_sentence	sentence_27211
+27211_15	conj	27211_10
+27211_15	has_surface_form	written
+27211_16	is_in_sentence	sentence_27211
+27211_16	agent	27211_15
+27211_16	has_surface_form	by
+27211_17	is_in_sentence	sentence_27211
+27211_17	compound	27211_19
+27211_17	has_surface_form	Malcolm
+27211_19	is_in_sentence	sentence_27211
+27211_19	pobj	27211_16
+27211_19	has_surface_form	Boylan
+27211_18	is_in_sentence	sentence_27211
+27211_18	compound	27211_19
+27211_18	has_surface_form	Stuart
+27211_20	is_in_sentence	sentence_27211
+27211_20	punct	27211_19
+27211_20	has_surface_form	,
+27211_21	is_in_sentence	sentence_27211
+27211_21	compound	27211_22
+27211_21	has_surface_form	William
+27211_22	is_in_sentence	sentence_27211
+27211_22	appos	27211_19
+27211_22	has_surface_form	M.
+27211_23	is_in_sentence	sentence_27211
+27211_23	dep	27211_19
+27211_23	has_surface_form	
+Paid to Love	surface_form	Paid to Love
+Paid to Love	movie-has-director	Howard Hawks
+Howard Hawks	surface_form	Howard Hawks

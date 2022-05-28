@@ -1,0 +1,44 @@
+32398_0	is_in_sentence	sentence_32398
+32398_0	compound	32398_1
+32398_0	has_surface_form	CH
+32398_0	part_of_entity	CH Madrid
+32398_1	is_in_sentence	sentence_32398
+32398_1	nsubj	32398_2
+32398_1	is_entity	Madrid
+32398_1	part_of_entity	CH Madrid
+32398_2	is_in_sentence	sentence_32398
+32398_2	ROOT	32398_2
+32398_2	has_surface_form	is
+Madrid	surface_form	Madrid
+32398_3	is_in_sentence	sentence_32398
+32398_3	det	32398_6
+32398_3	has_surface_form	an
+32398_6	is_in_sentence	sentence_32398
+32398_6	attr	32398_2
+32398_6	has_surface_form	team
+32398_4	is_in_sentence	sentence_32398
+32398_4	compound	32398_5
+32398_4	has_surface_form	ice
+32398_5	is_in_sentence	sentence_32398
+32398_5	compound	32398_6
+32398_5	has_surface_form	hockey
+32398_7	is_in_sentence	sentence_32398
+32398_7	prep	32398_6
+32398_7	has_surface_form	in
+32398_8	is_in_sentence	sentence_32398
+32398_8	pobj	32398_7
+32398_8	is_entity	Madrid
+32398_9	is_in_sentence	sentence_32398
+32398_9	punct	32398_8
+32398_9	has_surface_form	,
+32398_10	is_in_sentence	sentence_32398
+32398_10	appos	32398_8
+32398_10	has_surface_form	Spain
+32398_11	is_in_sentence	sentence_32398
+32398_11	punct	32398_2
+32398_11	has_surface_form	.
+32398_12	is_in_sentence	sentence_32398
+32398_12	dep	32398_2
+32398_12	has_surface_form	
+CH Madrid	surface_form	CH Madrid
+CH Madrid	is-where	Madrid

@@ -1,0 +1,62 @@
+13075_0	is_in_sentence	sentence_13075
+13075_0	compound	13075_1
+13075_0	has_surface_form	Tenpei
+13075_0	part_of_entity	Tenpei Sato
+13075_1	is_in_sentence	sentence_13075
+13075_1	nsubj	13075_9
+13075_1	has_surface_form	Sato
+13075_1	part_of_entity	Tenpei Sato
+13075_9	is_in_sentence	sentence_13075
+13075_9	ROOT	13075_9
+13075_9	has_surface_form	is
+13075_2	is_in_sentence	sentence_13075
+13075_2	punct	13075_3
+13075_2	has_surface_form	(
+13075_3	is_in_sentence	sentence_13075
+13075_3	parataxis	13075_1
+13075_3	has_surface_form	佐藤
+13075_4	is_in_sentence	sentence_13075
+13075_4	punct	13075_3
+13075_4	has_surface_form	天平
+13075_5	is_in_sentence	sentence_13075
+13075_5	punct	13075_3
+13075_5	has_surface_form	,
+13075_6	is_in_sentence	sentence_13075
+13075_6	compound	13075_7
+13075_6	has_surface_form	Satō
+13075_7	is_in_sentence	sentence_13075
+13075_7	npadvmod	13075_3
+13075_7	has_surface_form	Tenpei
+13075_8	is_in_sentence	sentence_13075
+13075_8	punct	13075_3
+13075_8	has_surface_form	)
+13075_10	is_in_sentence	sentence_13075
+13075_10	det	13075_13
+13075_10	has_surface_form	a
+13075_13	is_in_sentence	sentence_13075
+13075_13	attr	13075_9
+13075_13	is_entity	composer
+13075_11	is_in_sentence	sentence_13075
+13075_11	compound	13075_12
+13075_11	has_surface_form	video
+13075_12	is_in_sentence	sentence_13075
+13075_12	compound	13075_13
+13075_12	has_surface_form	game
+composer	surface_form	composer
+13075_14	is_in_sentence	sentence_13075
+13075_14	cc	13075_13
+13075_14	has_surface_form	and
+13075_15	is_in_sentence	sentence_13075
+13075_15	compound	13075_16
+13075_15	has_surface_form	voice
+13075_16	is_in_sentence	sentence_13075
+13075_16	conj	13075_13
+13075_16	has_surface_form	actor
+13075_17	is_in_sentence	sentence_13075
+13075_17	punct	13075_9
+13075_17	has_surface_form	.
+13075_18	is_in_sentence	sentence_13075
+13075_18	dep	13075_9
+13075_18	has_surface_form	
+Tenpei Sato	surface_form	Tenpei Sato
+Tenpei Sato	has-occupation	composer

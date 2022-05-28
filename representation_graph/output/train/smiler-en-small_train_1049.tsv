@@ -1,0 +1,124 @@
+1048_0	is_in_sentence	sentence_1048
+1048_0	det	1048_1
+1048_0	has_surface_form	The
+1048_0	part_of_entity	The Secret of Helene Marimon
+1048_1	is_in_sentence	sentence_1048
+1048_1	nsubj	1048_13
+1048_1	has_surface_form	Secret
+1048_1	part_of_entity	The Secret of Helene Marimon
+1048_13	is_in_sentence	sentence_1048
+1048_13	ROOT	1048_13
+1048_13	has_surface_form	is
+1048_2	is_in_sentence	sentence_1048
+1048_2	prep	1048_1
+1048_2	has_surface_form	of
+1048_2	part_of_entity	The Secret of Helene Marimon
+1048_3	is_in_sentence	sentence_1048
+1048_3	compound	1048_4
+1048_3	has_surface_form	Helene
+1048_3	part_of_entity	The Secret of Helene Marimon
+1048_4	is_in_sentence	sentence_1048
+1048_4	pobj	1048_2
+1048_4	has_surface_form	Marimon
+1048_4	part_of_entity	The Secret of Helene Marimon
+1048_5	is_in_sentence	sentence_1048
+1048_5	punct	1048_6
+1048_5	has_surface_form	(
+1048_6	is_in_sentence	sentence_1048
+1048_6	appos	1048_1
+1048_6	has_surface_form	French
+1048_7	is_in_sentence	sentence_1048
+1048_7	punct	1048_6
+1048_7	has_surface_form	:
+1048_8	is_in_sentence	sentence_1048
+1048_8	compound	1048_11
+1048_8	has_surface_form	Le
+1048_11	is_in_sentence	sentence_1048
+1048_11	appos	1048_6
+1048_11	has_surface_form	Marimon
+1048_9	is_in_sentence	sentence_1048
+1048_9	compound	1048_11
+1048_9	has_surface_form	Secret
+1048_10	is_in_sentence	sentence_1048
+1048_10	compound	1048_11
+1048_10	has_surface_form	d'Hélène
+1048_12	is_in_sentence	sentence_1048
+1048_12	punct	1048_6
+1048_12	has_surface_form	)
+1048_14	is_in_sentence	sentence_1048
+1048_14	det	1048_20
+1048_14	has_surface_form	a
+1048_20	is_in_sentence	sentence_1048
+1048_20	attr	1048_13
+1048_20	has_surface_form	film
+1048_15	is_in_sentence	sentence_1048
+1048_15	nummod	1048_20
+1048_15	has_surface_form	1954
+1048_16	is_in_sentence	sentence_1048
+1048_16	amod	1048_18
+1048_16	has_surface_form	French
+1048_18	is_in_sentence	sentence_1048
+1048_18	amod	1048_20
+1048_18	has_surface_form	Italian
+1048_17	is_in_sentence	sentence_1048
+1048_17	punct	1048_18
+1048_17	has_surface_form	-
+1048_19	is_in_sentence	sentence_1048
+1048_19	compound	1048_20
+1048_19	has_surface_form	drama
+1048_21	is_in_sentence	sentence_1048
+1048_21	acl	1048_20
+1048_21	has_surface_form	directed
+1048_22	is_in_sentence	sentence_1048
+1048_22	agent	1048_21
+1048_22	has_surface_form	by
+1048_23	is_in_sentence	sentence_1048
+1048_23	compound	1048_24
+1048_23	has_surface_form	Henri
+1048_24	is_in_sentence	sentence_1048
+1048_24	pobj	1048_22
+1048_24	has_surface_form	Calef
+1048_25	is_in_sentence	sentence_1048
+1048_25	cc	1048_21
+1048_25	has_surface_form	and
+1048_26	is_in_sentence	sentence_1048
+1048_26	conj	1048_21
+1048_26	has_surface_form	starring
+1048_27	is_in_sentence	sentence_1048
+1048_27	compound	1048_28
+1048_27	has_surface_form	Isa
+1048_27	part_of_entity	Isa Miranda
+1048_28	is_in_sentence	sentence_1048
+1048_28	dobj	1048_26
+1048_28	has_surface_form	Miranda
+1048_28	part_of_entity	Isa Miranda
+1048_29	is_in_sentence	sentence_1048
+1048_29	punct	1048_28
+1048_29	has_surface_form	,
+1048_30	is_in_sentence	sentence_1048
+1048_30	compound	1048_31
+1048_30	has_surface_form	Franck
+1048_31	is_in_sentence	sentence_1048
+1048_31	conj	1048_28
+1048_31	has_surface_form	Villard
+1048_32	is_in_sentence	sentence_1048
+1048_32	cc	1048_31
+1048_32	has_surface_form	and
+1048_33	is_in_sentence	sentence_1048
+1048_33	compound	1048_35
+1048_33	has_surface_form	Carla
+1048_35	is_in_sentence	sentence_1048
+1048_35	conj	1048_31
+1048_35	has_surface_form	Poggio
+1048_34	is_in_sentence	sentence_1048
+1048_34	compound	1048_35
+1048_34	has_surface_form	Del
+1048_36	is_in_sentence	sentence_1048
+1048_36	punct	1048_13
+1048_36	has_surface_form	.
+1048_37	is_in_sentence	sentence_1048
+1048_37	dep	1048_13
+1048_37	has_surface_form	
+The Secret of Helene Marimon	surface_form	The Secret of Helene Marimon
+The Secret of Helene Marimon	starring	Isa Miranda
+Isa Miranda	surface_form	Isa Miranda

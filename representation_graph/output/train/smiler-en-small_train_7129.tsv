@@ -1,0 +1,82 @@
+7128_0	is_in_sentence	sentence_7128
+7128_0	compound	7128_1
+7128_0	has_surface_form	Kavanagh
+7128_0	part_of_entity	Kavanagh College
+7128_1	is_in_sentence	sentence_7128
+7128_1	nsubj	7128_2
+7128_1	has_surface_form	College
+7128_1	part_of_entity	Kavanagh College
+7128_2	is_in_sentence	sentence_7128
+7128_2	ROOT	7128_2
+7128_2	has_surface_form	is
+7128_3	is_in_sentence	sentence_7128
+7128_3	det	7128_15
+7128_3	has_surface_form	a
+7128_15	is_in_sentence	sentence_7128
+7128_15	attr	7128_2
+7128_15	has_surface_form	school
+7128_15	part_of_entity	secondary school
+7128_4	is_in_sentence	sentence_7128
+7128_4	nmod	7128_11
+7128_4	has_surface_form	Catholic
+7128_11	is_in_sentence	sentence_7128
+7128_11	amod	7128_15
+7128_11	has_surface_form	-
+7128_5	is_in_sentence	sentence_7128
+7128_5	punct	7128_11
+7128_5	has_surface_form	,
+7128_6	is_in_sentence	sentence_7128
+7128_6	npadvmod	7128_8
+7128_6	has_surface_form	state
+7128_8	is_in_sentence	sentence_7128
+7128_8	amod	7128_11
+7128_8	has_surface_form	integrated
+7128_7	is_in_sentence	sentence_7128
+7128_7	punct	7128_8
+7128_7	has_surface_form	-
+7128_9	is_in_sentence	sentence_7128
+7128_9	punct	7128_8
+7128_9	has_surface_form	,
+7128_10	is_in_sentence	sentence_7128
+7128_10	conj	7128_8
+7128_10	has_surface_form	co
+7128_12	is_in_sentence	sentence_7128
+7128_12	amod	7128_15
+7128_12	has_surface_form	educational
+7128_13	is_in_sentence	sentence_7128
+7128_13	punct	7128_15
+7128_13	has_surface_form	,
+7128_14	is_in_sentence	sentence_7128
+7128_14	amod	7128_15
+7128_14	has_surface_form	secondary
+7128_14	part_of_entity	secondary school
+7128_16	is_in_sentence	sentence_7128
+7128_16	acl	7128_15
+7128_16	has_surface_form	located
+7128_17	is_in_sentence	sentence_7128
+7128_17	prep	7128_16
+7128_17	has_surface_form	in
+7128_18	is_in_sentence	sentence_7128
+7128_18	amod	7128_19
+7128_18	has_surface_form	central
+7128_19	is_in_sentence	sentence_7128
+7128_19	pobj	7128_17
+7128_19	has_surface_form	Dunedin
+7128_20	is_in_sentence	sentence_7128
+7128_20	punct	7128_19
+7128_20	has_surface_form	,
+7128_21	is_in_sentence	sentence_7128
+7128_21	compound	7128_22
+7128_21	has_surface_form	New
+7128_22	is_in_sentence	sentence_7128
+7128_22	appos	7128_19
+7128_22	has_surface_form	Zealand
+7128_23	is_in_sentence	sentence_7128
+7128_23	punct	7128_2
+7128_23	has_surface_form	.
+7128_24	is_in_sentence	sentence_7128
+7128_24	dep	7128_2
+7128_24	has_surface_form	
+Kavanagh College	surface_form	Kavanagh College
+Kavanagh College	has-type	secondary school
+secondary school	surface_form	secondary school

@@ -1,0 +1,70 @@
+30977_0	is_in_sentence	sentence_30977
+30977_0	compound	30977_1
+30977_0	has_surface_form	Hero
+30977_0	part_of_entity	Hero Brinkman
+30977_1	is_in_sentence	sentence_30977
+30977_1	nsubj	30977_11
+30977_1	has_surface_form	Brinkman
+30977_1	part_of_entity	Hero Brinkman
+30977_11	is_in_sentence	sentence_30977
+30977_11	ROOT	30977_11
+30977_11	has_surface_form	is
+30977_2	is_in_sentence	sentence_30977
+30977_2	punct	30977_1
+30977_2	has_surface_form	(
+30977_3	is_in_sentence	sentence_30977
+30977_3	acl	30977_1
+30977_3	has_surface_form	born
+30977_4	is_in_sentence	sentence_30977
+30977_4	npadvmod	30977_3
+30977_4	has_surface_form	29
+30977_5	is_in_sentence	sentence_30977
+30977_5	npadvmod	30977_3
+30977_5	has_surface_form	December
+30977_6	is_in_sentence	sentence_30977
+30977_6	nummod	30977_5
+30977_6	has_surface_form	1964
+30977_7	is_in_sentence	sentence_30977
+30977_7	punct	30977_1
+30977_7	has_surface_form	,
+30977_8	is_in_sentence	sentence_30977
+30977_8	prep	30977_1
+30977_8	has_surface_form	in
+30977_9	is_in_sentence	sentence_30977
+30977_9	pobj	30977_8
+30977_9	has_surface_form	Almelo
+30977_10	is_in_sentence	sentence_30977
+30977_10	punct	30977_1
+30977_10	has_surface_form	)
+30977_12	is_in_sentence	sentence_30977
+30977_12	det	30977_14
+30977_12	has_surface_form	a
+30977_14	is_in_sentence	sentence_30977
+30977_14	attr	30977_11
+30977_14	has_surface_form	officer
+30977_14	part_of_entity	police officer
+30977_13	is_in_sentence	sentence_30977
+30977_13	compound	30977_14
+30977_13	has_surface_form	police
+30977_13	part_of_entity	police officer
+30977_15	is_in_sentence	sentence_30977
+30977_15	cc	30977_14
+30977_15	has_surface_form	and
+30977_16	is_in_sentence	sentence_30977
+30977_16	amod	30977_18
+30977_16	has_surface_form	former
+30977_18	is_in_sentence	sentence_30977
+30977_18	conj	30977_14
+30977_18	has_surface_form	politician
+30977_17	is_in_sentence	sentence_30977
+30977_17	amod	30977_18
+30977_17	has_surface_form	Dutch
+30977_19	is_in_sentence	sentence_30977
+30977_19	punct	30977_11
+30977_19	has_surface_form	.
+30977_20	is_in_sentence	sentence_30977
+30977_20	dep	30977_20
+30977_20	has_surface_form	
+Hero Brinkman	surface_form	Hero Brinkman
+Hero Brinkman	has-occupation	police officer
+police officer	surface_form	police officer

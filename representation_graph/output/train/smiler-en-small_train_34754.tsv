@@ -1,0 +1,50 @@
+34753_0	is_in_sentence	sentence_34753
+34753_0	compound	34753_1
+34753_0	has_surface_form	Suspicion
+34753_0	part_of_entity	Suspicion Breeds Confidence
+34753_1	is_in_sentence	sentence_34753
+34753_1	compound	34753_2
+34753_1	has_surface_form	Breeds
+34753_1	part_of_entity	Suspicion Breeds Confidence
+34753_2	is_in_sentence	sentence_34753
+34753_2	nsubj	34753_3
+34753_2	has_surface_form	Confidence
+34753_2	part_of_entity	Suspicion Breeds Confidence
+34753_3	is_in_sentence	sentence_34753
+34753_3	ROOT	34753_3
+34753_3	has_surface_form	is
+34753_4	is_in_sentence	sentence_34753
+34753_4	det	34753_8
+34753_4	has_surface_form	a
+34753_8	is_in_sentence	sentence_34753
+34753_8	attr	34753_3
+34753_8	has_surface_form	project
+34753_5	is_in_sentence	sentence_34753
+34753_5	amod	34753_8
+34753_5	has_surface_form	German
+34753_6	is_in_sentence	sentence_34753
+34753_6	amod	34753_7
+34753_6	has_surface_form	electronic
+34753_6	part_of_entity	electronic music
+34753_7	is_in_sentence	sentence_34753
+34753_7	compound	34753_8
+34753_7	has_surface_form	music
+34753_7	part_of_entity	electronic music
+34753_9	is_in_sentence	sentence_34753
+34753_9	prep	34753_8
+34753_9	has_surface_form	of
+34753_10	is_in_sentence	sentence_34753
+34753_10	compound	34753_11
+34753_10	has_surface_form	Tobias
+34753_11	is_in_sentence	sentence_34753
+34753_11	pobj	34753_9
+34753_11	has_surface_form	Schmitt
+34753_12	is_in_sentence	sentence_34753
+34753_12	punct	34753_3
+34753_12	has_surface_form	.
+34753_13	is_in_sentence	sentence_34753
+34753_13	dep	34753_13
+34753_13	has_surface_form	
+Suspicion Breeds Confidence	surface_form	Suspicion Breeds Confidence
+Suspicion Breeds Confidence	has-genre	electronic music
+electronic music	surface_form	electronic music

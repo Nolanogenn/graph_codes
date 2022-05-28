@@ -1,0 +1,75 @@
+9801_0	is_in_sentence	sentence_9801
+9801_0	compound	9801_1
+9801_0	has_surface_form	Scary
+9801_0	part_of_entity	Scary Movie 5
+9801_1	is_in_sentence	sentence_9801
+9801_1	nsubj	9801_13
+9801_1	has_surface_form	Movie
+9801_1	part_of_entity	Scary Movie 5
+9801_13	is_in_sentence	sentence_9801
+9801_13	ROOT	9801_13
+9801_13	has_surface_form	is
+9801_2	is_in_sentence	sentence_9801
+9801_2	nummod	9801_1
+9801_2	has_surface_form	5
+9801_2	part_of_entity	Scary Movie 5
+9801_3	is_in_sentence	sentence_9801
+9801_3	punct	9801_1
+9801_3	has_surface_form	(
+9801_4	is_in_sentence	sentence_9801
+9801_4	acl	9801_1
+9801_4	has_surface_form	stylized
+9801_5	is_in_sentence	sentence_9801
+9801_5	prep	9801_4
+9801_5	has_surface_form	as
+9801_6	is_in_sentence	sentence_9801
+9801_6	compound	9801_7
+9801_6	has_surface_form	Scary
+9801_7	is_in_sentence	sentence_9801
+9801_7	pobj	9801_5
+9801_7	has_surface_form	MoVie
+9801_8	is_in_sentence	sentence_9801
+9801_8	cc	9801_7
+9801_8	has_surface_form	or
+9801_9	is_in_sentence	sentence_9801
+9801_9	compound	9801_11
+9801_9	has_surface_form	Scary
+9801_11	is_in_sentence	sentence_9801
+9801_11	conj	9801_7
+9801_11	has_surface_form	V
+9801_10	is_in_sentence	sentence_9801
+9801_10	compound	9801_11
+9801_10	has_surface_form	Movie
+9801_12	is_in_sentence	sentence_9801
+9801_12	punct	9801_4
+9801_12	has_surface_form	)
+9801_14	is_in_sentence	sentence_9801
+9801_14	det	9801_19
+9801_14	has_surface_form	a
+9801_19	is_in_sentence	sentence_9801
+9801_19	attr	9801_13
+9801_19	has_surface_form	film
+9801_19	part_of_entity	horror comedy film
+9801_15	is_in_sentence	sentence_9801
+9801_15	nummod	9801_19
+9801_15	has_surface_form	2013
+9801_16	is_in_sentence	sentence_9801
+9801_16	amod	9801_19
+9801_16	has_surface_form	American
+9801_17	is_in_sentence	sentence_9801
+9801_17	compound	9801_19
+9801_17	has_surface_form	horror
+9801_17	part_of_entity	horror comedy film
+9801_18	is_in_sentence	sentence_9801
+9801_18	compound	9801_19
+9801_18	has_surface_form	comedy
+9801_18	part_of_entity	horror comedy film
+9801_20	is_in_sentence	sentence_9801
+9801_20	punct	9801_13
+9801_20	has_surface_form	.
+9801_21	is_in_sentence	sentence_9801
+9801_21	dep	9801_13
+9801_21	has_surface_form	
+Scary Movie 5	surface_form	Scary Movie 5
+Scary Movie 5	has-type	horror comedy film
+horror comedy film	surface_form	horror comedy film

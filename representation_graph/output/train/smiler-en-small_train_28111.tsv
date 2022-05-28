@@ -1,0 +1,72 @@
+28110_0	is_in_sentence	sentence_28110
+28110_0	det	28110_4
+28110_0	has_surface_form	The
+28110_4	is_in_sentence	sentence_28110
+28110_4	nsubjpass	28110_10
+28110_4	has_surface_form	lamp
+28110_4	part_of_entity	mercury vapor lamp
+28110_1	is_in_sentence	sentence_28110
+28110_1	amod	28110_4
+28110_1	has_surface_form	first
+28110_2	is_in_sentence	sentence_28110
+28110_2	compound	28110_3
+28110_2	has_surface_form	mercury
+28110_2	part_of_entity	mercury vapor lamp
+28110_3	is_in_sentence	sentence_28110
+28110_3	compound	28110_4
+28110_3	has_surface_form	vapor
+28110_3	part_of_entity	mercury vapor lamp
+28110_10	is_in_sentence	sentence_28110
+28110_10	ROOT	28110_10
+28110_10	has_surface_form	invented
+28110_5	is_in_sentence	sentence_28110
+28110_5	aux	28110_6
+28110_5	has_surface_form	to
+28110_6	is_in_sentence	sentence_28110
+28110_6	relcl	28110_4
+28110_6	has_surface_form	achieve
+28110_7	is_in_sentence	sentence_28110
+28110_7	amod	28110_8
+28110_7	has_surface_form	widespread
+28110_8	is_in_sentence	sentence_28110
+28110_8	dobj	28110_6
+28110_8	has_surface_form	success
+28110_9	is_in_sentence	sentence_28110
+28110_9	auxpass	28110_10
+28110_9	has_surface_form	was
+28110_11	is_in_sentence	sentence_28110
+28110_11	prep	28110_10
+28110_11	has_surface_form	in
+28110_12	is_in_sentence	sentence_28110
+28110_12	pobj	28110_11
+28110_12	has_surface_form	1901
+28110_13	is_in_sentence	sentence_28110
+28110_13	agent	28110_10
+28110_13	has_surface_form	by
+28110_14	is_in_sentence	sentence_28110
+28110_14	amod	28110_15
+28110_14	has_surface_form	American
+28110_15	is_in_sentence	sentence_28110
+28110_15	compound	28110_18
+28110_15	has_surface_form	engineer
+28110_18	is_in_sentence	sentence_28110
+28110_18	pobj	28110_13
+28110_18	has_surface_form	Hewitt
+28110_18	part_of_entity	Peter Cooper Hewitt
+28110_16	is_in_sentence	sentence_28110
+28110_16	compound	28110_18
+28110_16	has_surface_form	Peter
+28110_16	part_of_entity	Peter Cooper Hewitt
+28110_17	is_in_sentence	sentence_28110
+28110_17	compound	28110_18
+28110_17	has_surface_form	Cooper
+28110_17	part_of_entity	Peter Cooper Hewitt
+28110_19	is_in_sentence	sentence_28110
+28110_19	punct	28110_10
+28110_19	has_surface_form	.
+28110_20	is_in_sentence	sentence_28110
+28110_20	dep	28110_20
+28110_20	has_surface_form	
+mercury vapor lamp	surface_form	mercury vapor lamp
+mercury vapor lamp	invented-by	Peter Cooper Hewitt
+Peter Cooper Hewitt	surface_form	Peter Cooper Hewitt

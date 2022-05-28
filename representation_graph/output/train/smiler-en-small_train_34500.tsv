@@ -1,0 +1,64 @@
+34499_0	is_in_sentence	sentence_34499
+34499_0	compound	34499_1
+34499_0	has_surface_form	Perfect
+34499_0	part_of_entity	Perfect Target
+34499_1	is_in_sentence	sentence_34499
+34499_1	nsubj	34499_2
+34499_1	has_surface_form	Target
+34499_1	part_of_entity	Perfect Target
+34499_2	is_in_sentence	sentence_34499
+34499_2	ROOT	34499_2
+34499_2	has_surface_form	is
+34499_3	is_in_sentence	sentence_34499
+34499_3	det	34499_8
+34499_3	has_surface_form	a
+34499_8	is_in_sentence	sentence_34499
+34499_8	attr	34499_2
+34499_8	has_surface_form	film
+34499_4	is_in_sentence	sentence_34499
+34499_4	nummod	34499_8
+34499_4	has_surface_form	1997
+34499_5	is_in_sentence	sentence_34499
+34499_5	nmod	34499_7
+34499_5	has_surface_form	action
+34499_7	is_in_sentence	sentence_34499
+34499_7	compound	34499_8
+34499_7	has_surface_form	thriller
+34499_6	is_in_sentence	sentence_34499
+34499_6	punct	34499_7
+34499_6	has_surface_form	/
+34499_9	is_in_sentence	sentence_34499
+34499_9	acl	34499_8
+34499_9	has_surface_form	directed
+34499_10	is_in_sentence	sentence_34499
+34499_10	agent	34499_9
+34499_10	has_surface_form	by
+34499_11	is_in_sentence	sentence_34499
+34499_11	compound	34499_12
+34499_11	has_surface_form	Sheldon
+34499_11	part_of_entity	Sheldon Lettich
+34499_12	is_in_sentence	sentence_34499
+34499_12	pobj	34499_10
+34499_12	has_surface_form	Lettich
+34499_12	part_of_entity	Sheldon Lettich
+34499_13	is_in_sentence	sentence_34499
+34499_13	cc	34499_9
+34499_13	has_surface_form	and
+34499_14	is_in_sentence	sentence_34499
+34499_14	conj	34499_9
+34499_14	has_surface_form	starring
+34499_15	is_in_sentence	sentence_34499
+34499_15	compound	34499_16
+34499_15	has_surface_form	Daniel
+34499_16	is_in_sentence	sentence_34499
+34499_16	dobj	34499_14
+34499_16	has_surface_form	Bernhardt
+34499_17	is_in_sentence	sentence_34499
+34499_17	punct	34499_2
+34499_17	has_surface_form	.
+34499_18	is_in_sentence	sentence_34499
+34499_18	dep	34499_2
+34499_18	has_surface_form	
+Perfect Target	surface_form	Perfect Target
+Perfect Target	movie-has-director	Sheldon Lettich
+Sheldon Lettich	surface_form	Sheldon Lettich

@@ -1,0 +1,71 @@
+31351_0	is_in_sentence	sentence_31351
+31351_0	det	31351_1
+31351_0	has_surface_form	The
+31351_0	part_of_entity	The Banker
+31351_1	is_in_sentence	sentence_31351
+31351_1	nsubj	31351_2
+31351_1	has_surface_form	Banker
+31351_1	part_of_entity	The Banker
+31351_2	is_in_sentence	sentence_31351
+31351_2	ROOT	31351_2
+31351_2	has_surface_form	is
+31351_3	is_in_sentence	sentence_31351
+31351_3	det	31351_8
+31351_3	has_surface_form	a
+31351_8	is_in_sentence	sentence_31351
+31351_8	attr	31351_2
+31351_8	has_surface_form	film
+31351_4	is_in_sentence	sentence_31351
+31351_4	nummod	31351_8
+31351_4	has_surface_form	2004
+31351_5	is_in_sentence	sentence_31351
+31351_5	amod	31351_7
+31351_5	has_surface_form	live
+31351_7	is_in_sentence	sentence_31351
+31351_7	compound	31351_8
+31351_7	has_surface_form	action
+31351_6	is_in_sentence	sentence_31351
+31351_6	punct	31351_7
+31351_6	has_surface_form	-
+31351_9	is_in_sentence	sentence_31351
+31351_9	nsubj	31351_10
+31351_9	has_surface_form	which
+31351_10	is_in_sentence	sentence_31351
+31351_10	relcl	31351_8
+31351_10	has_surface_form	won
+31351_11	is_in_sentence	sentence_31351
+31351_11	det	31351_13
+31351_11	has_surface_form	the
+31351_13	is_in_sentence	sentence_31351
+31351_13	dobj	31351_10
+31351_13	has_surface_form	Award
+31351_13	part_of_entity	BAFTA Award for Best Short Film
+31351_12	is_in_sentence	sentence_31351
+31351_12	compound	31351_13
+31351_12	has_surface_form	BAFTA
+31351_12	part_of_entity	BAFTA Award for Best Short Film
+31351_14	is_in_sentence	sentence_31351
+31351_14	prep	31351_13
+31351_14	has_surface_form	for
+31351_14	part_of_entity	BAFTA Award for Best Short Film
+31351_15	is_in_sentence	sentence_31351
+31351_15	compound	31351_17
+31351_15	has_surface_form	Best
+31351_15	part_of_entity	BAFTA Award for Best Short Film
+31351_17	is_in_sentence	sentence_31351
+31351_17	pobj	31351_14
+31351_17	has_surface_form	Film
+31351_17	part_of_entity	BAFTA Award for Best Short Film
+31351_16	is_in_sentence	sentence_31351
+31351_16	compound	31351_17
+31351_16	has_surface_form	Short
+31351_16	part_of_entity	BAFTA Award for Best Short Film
+31351_18	is_in_sentence	sentence_31351
+31351_18	punct	31351_2
+31351_18	has_surface_form	.
+31351_19	is_in_sentence	sentence_31351
+31351_19	dep	31351_2
+31351_19	has_surface_form	
+The Banker	surface_form	The Banker
+The Banker	won-award	BAFTA Award for Best Short Film
+BAFTA Award for Best Short Film	surface_form	BAFTA Award for Best Short Film

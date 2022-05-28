@@ -1,0 +1,90 @@
+25794_0	is_in_sentence	sentence_25794
+25794_0	det	25794_2
+25794_0	has_surface_form	The
+25794_2	is_in_sentence	sentence_25794
+25794_2	nsubj	25794_12
+25794_2	has_surface_form	Scouts
+25794_2	part_of_entity	Girl Scouts of Japan
+25794_1	is_in_sentence	sentence_25794
+25794_1	compound	25794_2
+25794_1	has_surface_form	Girl
+25794_1	part_of_entity	Girl Scouts of Japan
+25794_12	is_in_sentence	sentence_25794
+25794_12	ROOT	25794_12
+25794_12	has_surface_form	is
+25794_3	is_in_sentence	sentence_25794
+25794_3	prep	25794_2
+25794_3	has_surface_form	of
+25794_3	part_of_entity	Girl Scouts of Japan
+25794_4	is_in_sentence	sentence_25794
+25794_4	pobj	25794_3
+25794_4	has_surface_form	Japan
+25794_4	part_of_entity	Girl Scouts of Japan
+25794_5	is_in_sentence	sentence_25794
+25794_5	punct	25794_6
+25794_5	has_surface_form	(
+25794_6	is_in_sentence	sentence_25794
+25794_6	appos	25794_2
+25794_6	has_surface_form	ガールスカウト日本連盟
+25794_7	is_in_sentence	sentence_25794
+25794_7	punct	25794_6
+25794_7	has_surface_form	,
+25794_8	is_in_sentence	sentence_25794
+25794_8	compound	25794_10
+25794_8	has_surface_form	Gārusukauto
+25794_10	is_in_sentence	sentence_25794
+25794_10	npadvmod	25794_6
+25794_10	has_surface_form	Renmei
+25794_9	is_in_sentence	sentence_25794
+25794_9	compound	25794_10
+25794_9	has_surface_form	Nippon
+25794_11	is_in_sentence	sentence_25794
+25794_11	punct	25794_6
+25794_11	has_surface_form	)
+25794_13	is_in_sentence	sentence_25794
+25794_13	det	25794_18
+25794_13	has_surface_form	the
+25794_18	is_in_sentence	sentence_25794
+25794_18	attr	25794_12
+25794_18	has_surface_form	organization
+25794_18	part_of_entity	Scouting organization
+25794_14	is_in_sentence	sentence_25794
+25794_14	nmod	25794_17
+25794_14	has_surface_form	girls
+25794_17	is_in_sentence	sentence_25794
+25794_17	compound	25794_18
+25794_17	has_surface_form	Scouting
+25794_17	part_of_entity	Scouting organization
+25794_15	is_in_sentence	sentence_25794
+25794_15	punct	25794_14
+25794_15	has_surface_form	-
+25794_16	is_in_sentence	sentence_25794
+25794_16	cc	25794_14
+25794_16	has_surface_form	only
+25794_19	is_in_sentence	sentence_25794
+25794_19	acl	25794_18
+25794_19	has_surface_form	serving
+25794_20	is_in_sentence	sentence_25794
+25794_20	dobj	25794_19
+25794_20	has_surface_form	Japan
+25794_21	is_in_sentence	sentence_25794
+25794_21	punct	25794_18
+25794_21	has_surface_form	,
+25794_22	is_in_sentence	sentence_25794
+25794_22	acl	25794_18
+25794_22	has_surface_form	founded
+25794_23	is_in_sentence	sentence_25794
+25794_23	prep	25794_22
+25794_23	has_surface_form	in
+25794_24	is_in_sentence	sentence_25794
+25794_24	pobj	25794_23
+25794_24	has_surface_form	1919
+25794_25	is_in_sentence	sentence_25794
+25794_25	punct	25794_12
+25794_25	has_surface_form	.
+25794_26	is_in_sentence	sentence_25794
+25794_26	dep	25794_26
+25794_26	has_surface_form	
+Girl Scouts of Japan	surface_form	Girl Scouts of Japan
+Girl Scouts of Japan	has-type	Scouting organization
+Scouting organization	surface_form	Scouting organization

@@ -1,0 +1,65 @@
+30400_0	is_in_sentence	sentence_30400
+30400_0	compound	30400_1
+30400_0	has_surface_form	Edgar
+30400_0	part_of_entity	Edgar Jr.
+30400_1	is_in_sentence	sentence_30400
+30400_1	nsubj	30400_2
+30400_1	has_surface_form	Jr.
+30400_1	part_of_entity	Edgar Jr.
+30400_2	is_in_sentence	sentence_30400
+30400_2	ROOT	30400_2
+30400_2	has_surface_form	is
+30400_3	is_in_sentence	sentence_30400
+30400_3	det	30400_4
+30400_3	has_surface_form	the
+30400_4	is_in_sentence	sentence_30400
+30400_4	attr	30400_2
+30400_4	has_surface_form	second
+30400_5	is_in_sentence	sentence_30400
+30400_5	prep	30400_4
+30400_5	has_surface_form	of
+30400_6	is_in_sentence	sentence_30400
+30400_6	nummod	30400_7
+30400_6	has_surface_form	five
+30400_7	is_in_sentence	sentence_30400
+30400_7	pobj	30400_5
+30400_7	has_surface_form	children
+30400_8	is_in_sentence	sentence_30400
+30400_8	prep	30400_7
+30400_8	has_surface_form	of
+30400_9	is_in_sentence	sentence_30400
+30400_9	pobj	30400_8
+30400_9	has_surface_form	Ann
+30400_10	is_in_sentence	sentence_30400
+30400_10	punct	30400_9
+30400_10	has_surface_form	(
+30400_11	is_in_sentence	sentence_30400
+30400_11	appos	30400_9
+30400_11	has_surface_form	Loeb
+30400_12	is_in_sentence	sentence_30400
+30400_12	punct	30400_9
+30400_12	has_surface_form	)
+30400_13	is_in_sentence	sentence_30400
+30400_13	cc	30400_9
+30400_13	has_surface_form	and
+30400_14	is_in_sentence	sentence_30400
+30400_14	compound	30400_15
+30400_14	has_surface_form	Edgar
+30400_14	part_of_entity	Edgar Miles Bronfman
+30400_15	is_in_sentence	sentence_30400
+30400_15	compound	30400_16
+30400_15	has_surface_form	Miles
+30400_15	part_of_entity	Edgar Miles Bronfman
+30400_16	is_in_sentence	sentence_30400
+30400_16	conj	30400_9
+30400_16	has_surface_form	Bronfman
+30400_16	part_of_entity	Edgar Miles Bronfman
+30400_17	is_in_sentence	sentence_30400
+30400_17	punct	30400_2
+30400_17	has_surface_form	.
+30400_18	is_in_sentence	sentence_30400
+30400_18	dep	30400_2
+30400_18	has_surface_form	
+Edgar Jr.	surface_form	Edgar Jr.
+Edgar Jr.	has-parent	Edgar Miles Bronfman
+Edgar Miles Bronfman	surface_form	Edgar Miles Bronfman

@@ -1,0 +1,76 @@
+1938_0	is_in_sentence	sentence_1938
+1938_0	compound	1938_1
+1938_0	has_surface_form	Chisato
+1938_0	part_of_entity	Chisato Amate
+1938_1	is_in_sentence	sentence_1938
+1938_1	nsubj	1938_18
+1938_1	has_surface_form	Amate
+1938_1	part_of_entity	Chisato Amate
+1938_18	is_in_sentence	sentence_1938
+1938_18	ROOT	1938_18
+1938_18	has_surface_form	is
+1938_2	is_in_sentence	sentence_1938
+1938_2	punct	1938_4
+1938_2	has_surface_form	(
+1938_4	is_in_sentence	sentence_1938
+1938_4	nmod	1938_7
+1938_4	has_surface_form	千聖
+1938_3	is_in_sentence	sentence_1938
+1938_3	compound	1938_4
+1938_3	has_surface_form	天手
+1938_7	is_in_sentence	sentence_1938
+1938_7	appos	1938_1
+1938_7	has_surface_form	Chisato
+1938_5	is_in_sentence	sentence_1938
+1938_5	punct	1938_7
+1938_5	has_surface_form	,
+1938_6	is_in_sentence	sentence_1938
+1938_6	compound	1938_7
+1938_6	has_surface_form	Amate
+1938_8	is_in_sentence	sentence_1938
+1938_8	acl	1938_7
+1938_8	has_surface_form	born
+1938_9	is_in_sentence	sentence_1938
+1938_9	npadvmod	1938_8
+1938_9	has_surface_form	16
+1938_10	is_in_sentence	sentence_1938
+1938_10	npadvmod	1938_8
+1938_10	has_surface_form	December
+1938_11	is_in_sentence	sentence_1938
+1938_11	nummod	1938_10
+1938_11	has_surface_form	1980
+1938_12	is_in_sentence	sentence_1938
+1938_12	prep	1938_8
+1938_12	has_surface_form	in
+1938_13	is_in_sentence	sentence_1938
+1938_13	compound	1938_14
+1938_13	has_surface_form	Fukuoka
+1938_13	part_of_entity	Fukuoka Prefecture
+1938_14	is_in_sentence	sentence_1938
+1938_14	pobj	1938_12
+1938_14	has_surface_form	Prefecture
+1938_14	part_of_entity	Fukuoka Prefecture
+1938_15	is_in_sentence	sentence_1938
+1938_15	punct	1938_14
+1938_15	has_surface_form	,
+1938_16	is_in_sentence	sentence_1938
+1938_16	appos	1938_14
+1938_16	has_surface_form	Japan
+1938_17	is_in_sentence	sentence_1938
+1938_17	punct	1938_14
+1938_17	has_surface_form	)
+1938_19	is_in_sentence	sentence_1938
+1938_19	det	1938_20
+1938_19	has_surface_form	an
+1938_20	is_in_sentence	sentence_1938
+1938_20	attr	1938_18
+1938_20	has_surface_form	actress
+1938_21	is_in_sentence	sentence_1938
+1938_21	punct	1938_18
+1938_21	has_surface_form	.
+1938_22	is_in_sentence	sentence_1938
+1938_22	dep	1938_22
+1938_22	has_surface_form	
+Chisato Amate	surface_form	Chisato Amate
+Chisato Amate	birth-place	Fukuoka Prefecture
+Fukuoka Prefecture	surface_form	Fukuoka Prefecture

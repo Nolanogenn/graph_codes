@@ -1,0 +1,65 @@
+32928_0	is_in_sentence	sentence_32928
+32928_0	det	32928_3
+32928_0	has_surface_form	The
+32928_3	is_in_sentence	sentence_32928
+32928_3	nsubj	32928_7
+32928_3	has_surface_form	destinations
+32928_1	is_in_sentence	sentence_32928
+32928_1	amod	32928_3
+32928_1	has_surface_form	major
+32928_2	is_in_sentence	sentence_32928
+32928_2	compound	32928_3
+32928_2	has_surface_form	tourist
+32928_7	is_in_sentence	sentence_32928
+32928_7	ROOT	32928_7
+32928_7	has_surface_form	include
+32928_4	is_in_sentence	sentence_32928
+32928_4	prep	32928_3
+32928_4	has_surface_form	in
+32928_5	is_in_sentence	sentence_32928
+32928_5	compound	32928_6
+32928_5	has_surface_form	Kuala
+32928_5	part_of_entity	Kuala Lumpur
+32928_6	is_in_sentence	sentence_32928
+32928_6	pobj	32928_4
+32928_6	has_surface_form	Lumpur
+32928_6	part_of_entity	Kuala Lumpur
+32928_8	is_in_sentence	sentence_32928
+32928_8	xcomp	32928_7
+32928_8	has_surface_form	Petaling
+32928_9	is_in_sentence	sentence_32928
+32928_9	dobj	32928_8
+32928_9	has_surface_form	Street
+32928_10	is_in_sentence	sentence_32928
+32928_10	punct	32928_9
+32928_10	has_surface_form	(
+32928_11	is_in_sentence	sentence_32928
+32928_11	appos	32928_9
+32928_11	has_surface_form	Chinatown
+32928_12	is_in_sentence	sentence_32928
+32928_12	punct	32928_9
+32928_12	has_surface_form	)
+32928_13	is_in_sentence	sentence_32928
+32928_13	punct	32928_8
+32928_13	has_surface_form	,
+32928_14	is_in_sentence	sentence_32928
+32928_14	det	32928_16
+32928_14	has_surface_form	the
+32928_14	part_of_entity	the Merdeka Square
+32928_16	is_in_sentence	sentence_32928
+32928_16	dobj	32928_8
+32928_16	has_surface_form	Square
+32928_16	part_of_entity	the Merdeka Square
+32928_15	is_in_sentence	sentence_32928
+32928_15	compound	32928_16
+32928_15	has_surface_form	Merdeka
+32928_15	part_of_entity	the Merdeka Square
+32928_17	is_in_sentence	sentence_32928
+32928_17	punct	32928_7
+32928_17	has_surface_form	.
+32928_18	is_in_sentence	sentence_32928
+32928_18	dep	32928_18
+32928_18	has_surface_form	
+Kuala Lumpur	surface_form	Kuala Lumpur
+Kuala Lumpur	has-tourist-attraction	the Merdeka Square
+the Merdeka Square	surface_form	the Merdeka Square

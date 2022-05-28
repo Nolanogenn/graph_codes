@@ -1,0 +1,53 @@
+422_0	is_in_sentence	sentence_422
+422_0	compound	422_1
+422_0	has_surface_form	Carles
+422_0	part_of_entity	Carles Benavent
+422_1	is_in_sentence	sentence_422
+422_1	nsubj	422_8
+422_1	has_surface_form	Benavent
+422_1	part_of_entity	Carles Benavent
+422_8	is_in_sentence	sentence_422
+422_8	ROOT	422_8
+422_8	has_surface_form	is
+422_2	is_in_sentence	sentence_422
+422_2	punct	422_1
+422_2	has_surface_form	(
+422_3	is_in_sentence	sentence_422
+422_3	acl	422_1
+422_3	has_surface_form	born
+422_4	is_in_sentence	sentence_422
+422_4	nummod	422_5
+422_4	has_surface_form	1
+422_5	is_in_sentence	sentence_422
+422_5	npadvmod	422_3
+422_5	has_surface_form	March
+422_6	is_in_sentence	sentence_422
+422_6	nummod	422_5
+422_6	has_surface_form	1954
+422_7	is_in_sentence	sentence_422
+422_7	punct	422_1
+422_7	has_surface_form	)
+422_9	is_in_sentence	sentence_422
+422_9	det	422_13
+422_9	has_surface_form	a
+422_13	is_in_sentence	sentence_422
+422_13	attr	422_8
+422_13	has_surface_form	bassist
+422_10	is_in_sentence	sentence_422
+422_10	nmod	422_13
+422_10	has_surface_form	flamenco
+422_11	is_in_sentence	sentence_422
+422_11	cc	422_10
+422_11	has_surface_form	and
+422_12	is_in_sentence	sentence_422
+422_12	conj	422_10
+422_12	is_entity	jazz
+jazz	surface_form	jazz
+422_14	is_in_sentence	sentence_422
+422_14	punct	422_8
+422_14	has_surface_form	.
+422_15	is_in_sentence	sentence_422
+422_15	dep	422_8
+422_15	has_surface_form	
+Carles Benavent	surface_form	Carles Benavent
+Carles Benavent	has-genre	jazz

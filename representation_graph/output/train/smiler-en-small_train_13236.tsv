@@ -1,0 +1,76 @@
+13235_0	is_in_sentence	sentence_13235
+13235_0	compound	13235_1
+13235_0	has_surface_form	Brindavan
+13235_0	part_of_entity	Brindavan College of Engineering
+13235_1	is_in_sentence	sentence_13235
+13235_1	nsubj	13235_11
+13235_1	has_surface_form	College
+13235_1	part_of_entity	Brindavan College of Engineering
+13235_11	is_in_sentence	sentence_13235
+13235_11	ROOT	13235_11
+13235_11	has_surface_form	is
+13235_2	is_in_sentence	sentence_13235
+13235_2	prep	13235_1
+13235_2	has_surface_form	of
+13235_2	part_of_entity	Brindavan College of Engineering
+13235_3	is_in_sentence	sentence_13235
+13235_3	pobj	13235_2
+13235_3	has_surface_form	Engineering
+13235_3	part_of_entity	Brindavan College of Engineering
+13235_4	is_in_sentence	sentence_13235
+13235_4	punct	13235_6
+13235_4	has_surface_form	(
+13235_6	is_in_sentence	sentence_13235
+13235_6	parataxis	13235_1
+13235_6	has_surface_form	referred
+13235_5	is_in_sentence	sentence_13235
+13235_5	advmod	13235_6
+13235_5	has_surface_form	also
+13235_7	is_in_sentence	sentence_13235
+13235_7	prep	13235_6
+13235_7	has_surface_form	to
+13235_8	is_in_sentence	sentence_13235
+13235_8	prep	13235_6
+13235_8	has_surface_form	as
+13235_9	is_in_sentence	sentence_13235
+13235_9	pobj	13235_8
+13235_9	has_surface_form	BrCE
+13235_10	is_in_sentence	sentence_13235
+13235_10	punct	13235_6
+13235_10	has_surface_form	)
+13235_12	is_in_sentence	sentence_13235
+13235_12	det	13235_14
+13235_12	has_surface_form	an
+13235_14	is_in_sentence	sentence_13235
+13235_14	attr	13235_11
+13235_14	has_surface_form	college
+13235_13	is_in_sentence	sentence_13235
+13235_13	compound	13235_14
+13235_13	has_surface_form	engineering
+13235_15	is_in_sentence	sentence_13235
+13235_15	prep	13235_14
+13235_15	has_surface_form	in
+13235_16	is_in_sentence	sentence_13235
+13235_16	pobj	13235_15
+13235_16	is_entity	Bangalore
+Bangalore	surface_form	Bangalore
+13235_17	is_in_sentence	sentence_13235
+13235_17	punct	13235_16
+13235_17	has_surface_form	,
+13235_18	is_in_sentence	sentence_13235
+13235_18	conj	13235_16
+13235_18	has_surface_form	Karnataka
+13235_19	is_in_sentence	sentence_13235
+13235_19	punct	13235_18
+13235_19	has_surface_form	,
+13235_20	is_in_sentence	sentence_13235
+13235_20	appos	13235_18
+13235_20	has_surface_form	India
+13235_21	is_in_sentence	sentence_13235
+13235_21	punct	13235_11
+13235_21	has_surface_form	.
+13235_22	is_in_sentence	sentence_13235
+13235_22	dep	13235_22
+13235_22	has_surface_form	
+Brindavan College of Engineering	surface_form	Brindavan College of Engineering
+Brindavan College of Engineering	is-where	Bangalore

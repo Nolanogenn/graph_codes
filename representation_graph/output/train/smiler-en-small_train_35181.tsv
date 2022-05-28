@@ -1,0 +1,49 @@
+35180_0	is_in_sentence	sentence_35180
+35180_0	compound	35180_1
+35180_0	has_surface_form	HC
+35180_0	part_of_entity	HC Chelny
+35180_1	is_in_sentence	sentence_35180
+35180_1	nsubj	35180_2
+35180_1	has_surface_form	Chelny
+35180_1	part_of_entity	HC Chelny
+35180_2	is_in_sentence	sentence_35180
+35180_2	ROOT	35180_2
+35180_2	has_surface_form	is
+35180_3	is_in_sentence	sentence_35180
+35180_3	det	35180_6
+35180_3	has_surface_form	an
+35180_6	is_in_sentence	sentence_35180
+35180_6	attr	35180_2
+35180_6	has_surface_form	team
+35180_4	is_in_sentence	sentence_35180
+35180_4	compound	35180_5
+35180_4	has_surface_form	ice
+35180_5	is_in_sentence	sentence_35180
+35180_5	compound	35180_6
+35180_5	has_surface_form	hockey
+35180_7	is_in_sentence	sentence_35180
+35180_7	prep	35180_6
+35180_7	has_surface_form	in
+35180_8	is_in_sentence	sentence_35180
+35180_8	compound	35180_9
+35180_8	has_surface_form	Naberezhnye
+35180_8	part_of_entity	Naberezhnye Chelny
+35180_9	is_in_sentence	sentence_35180
+35180_9	pobj	35180_7
+35180_9	has_surface_form	Chelny
+35180_9	part_of_entity	Naberezhnye Chelny
+35180_10	is_in_sentence	sentence_35180
+35180_10	punct	35180_9
+35180_10	has_surface_form	,
+35180_11	is_in_sentence	sentence_35180
+35180_11	appos	35180_9
+35180_11	has_surface_form	Russia
+35180_12	is_in_sentence	sentence_35180
+35180_12	punct	35180_2
+35180_12	has_surface_form	.
+35180_13	is_in_sentence	sentence_35180
+35180_13	dep	35180_13
+35180_13	has_surface_form	
+HC Chelny	surface_form	HC Chelny
+HC Chelny	is-where	Naberezhnye Chelny
+Naberezhnye Chelny	surface_form	Naberezhnye Chelny

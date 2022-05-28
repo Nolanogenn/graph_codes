@@ -1,0 +1,62 @@
+25081_0	is_in_sentence	sentence_25081
+25081_0	nsubj	25081_1
+25081_0	has_surface_form	White
+25081_1	is_in_sentence	sentence_25081
+25081_1	ROOT	25081_1
+25081_1	has_surface_form	was
+25081_2	is_in_sentence	sentence_25081
+25081_2	acomp	25081_1
+25081_2	has_surface_form	married
+25081_3	is_in_sentence	sentence_25081
+25081_3	prep	25081_2
+25081_3	has_surface_form	to
+25081_4	is_in_sentence	sentence_25081
+25081_4	compound	25081_5
+25081_4	has_surface_form	Lori
+25081_4	part_of_entity	Lori Brice
+25081_5	is_in_sentence	sentence_25081
+25081_5	pobj	25081_3
+25081_5	has_surface_form	Brice
+25081_5	part_of_entity	Lori Brice
+25081_6	is_in_sentence	sentence_25081
+25081_6	prep	25081_2
+25081_6	has_surface_form	from
+25081_7	is_in_sentence	sentence_25081
+25081_7	pobj	25081_6
+25081_7	has_surface_form	1981
+25081_8	is_in_sentence	sentence_25081
+25081_8	prep	25081_6
+25081_8	has_surface_form	to
+25081_9	is_in_sentence	sentence_25081
+25081_9	pobj	25081_8
+25081_9	has_surface_form	1993
+25081_10	is_in_sentence	sentence_25081
+25081_10	cc	25081_1
+25081_10	has_surface_form	and
+25081_11	is_in_sentence	sentence_25081
+25081_11	nsubj	25081_12
+25081_11	has_surface_form	they
+25081_12	is_in_sentence	sentence_25081
+25081_12	conj	25081_1
+25081_12	has_surface_form	had
+25081_13	is_in_sentence	sentence_25081
+25081_13	nummod	25081_14
+25081_13	has_surface_form	one
+25081_14	is_in_sentence	sentence_25081
+25081_14	dobj	25081_12
+25081_14	has_surface_form	son
+25081_15	is_in_sentence	sentence_25081
+25081_15	punct	25081_14
+25081_15	has_surface_form	,
+25081_16	is_in_sentence	sentence_25081
+25081_16	appos	25081_14
+25081_16	is_entity	Marshall
+Marshall	surface_form	Marshall
+25081_17	is_in_sentence	sentence_25081
+25081_17	punct	25081_12
+25081_17	has_surface_form	.
+25081_18	is_in_sentence	sentence_25081
+25081_18	dep	25081_1
+25081_18	has_surface_form	
+Lori Brice	surface_form	Lori Brice
+Lori Brice	has-child	Marshall

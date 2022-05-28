@@ -1,0 +1,65 @@
+1411_0	is_in_sentence	sentence_1411
+1411_0	compound	1411_1
+1411_0	has_surface_form	Alex
+1411_0	part_of_entity	Alex Charak
+1411_1	is_in_sentence	sentence_1411
+1411_1	nsubj	1411_9
+1411_1	has_surface_form	Charak
+1411_1	part_of_entity	Alex Charak
+1411_9	is_in_sentence	sentence_1411
+1411_9	ROOT	1411_9
+1411_9	has_surface_form	is
+1411_2	is_in_sentence	sentence_1411
+1411_2	punct	1411_1
+1411_2	has_surface_form	(
+1411_3	is_in_sentence	sentence_1411
+1411_3	acl	1411_1
+1411_3	has_surface_form	born
+1411_4	is_in_sentence	sentence_1411
+1411_4	npadvmod	1411_3
+1411_4	has_surface_form	January
+1411_5	is_in_sentence	sentence_1411
+1411_5	nummod	1411_4
+1411_5	has_surface_form	4
+1411_6	is_in_sentence	sentence_1411
+1411_6	punct	1411_4
+1411_6	has_surface_form	,
+1411_7	is_in_sentence	sentence_1411
+1411_7	nummod	1411_4
+1411_7	has_surface_form	1988
+1411_8	is_in_sentence	sentence_1411
+1411_8	punct	1411_1
+1411_8	has_surface_form	)
+1411_10	is_in_sentence	sentence_1411
+1411_10	det	1411_12
+1411_10	has_surface_form	an
+1411_12	is_in_sentence	sentence_1411
+1411_12	attr	1411_9
+1411_12	has_surface_form	actor
+1411_11	is_in_sentence	sentence_1411
+1411_11	amod	1411_12
+1411_11	has_surface_form	American
+1411_13	is_in_sentence	sentence_1411
+1411_13	punct	1411_12
+1411_13	has_surface_form	,
+1411_14	is_in_sentence	sentence_1411
+1411_14	conj	1411_12
+1411_14	has_surface_form	writer
+1411_15	is_in_sentence	sentence_1411
+1411_15	punct	1411_14
+1411_15	has_surface_form	,
+1411_16	is_in_sentence	sentence_1411
+1411_16	cc	1411_14
+1411_16	has_surface_form	and
+1411_17	is_in_sentence	sentence_1411
+1411_17	conj	1411_14
+1411_17	is_entity	comedian
+comedian	surface_form	comedian
+1411_18	is_in_sentence	sentence_1411
+1411_18	punct	1411_9
+1411_18	has_surface_form	.
+1411_19	is_in_sentence	sentence_1411
+1411_19	dep	1411_9
+1411_19	has_surface_form	
+Alex Charak	surface_form	Alex Charak
+Alex Charak	has-occupation	comedian

@@ -1,0 +1,64 @@
+9132_0	is_in_sentence	sentence_9132
+9132_0	compound	9132_1
+9132_0	has_surface_form	Cowboy
+9132_0	part_of_entity	Cowboy Crush
+9132_1	is_in_sentence	sentence_9132
+9132_1	nsubj	9132_2
+9132_1	has_surface_form	Crush
+9132_1	part_of_entity	Cowboy Crush
+9132_2	is_in_sentence	sentence_9132
+9132_2	ROOT	9132_2
+9132_2	has_surface_form	is
+9132_3	is_in_sentence	sentence_9132
+9132_3	det	9132_7
+9132_3	has_surface_form	an
+9132_7	is_in_sentence	sentence_9132
+9132_7	attr	9132_2
+9132_7	has_surface_form	band
+9132_4	is_in_sentence	sentence_9132
+9132_4	amod	9132_7
+9132_4	has_surface_form	American
+9132_5	is_in_sentence	sentence_9132
+9132_5	compound	9132_7
+9132_5	has_surface_form	country
+9132_5	part_of_entity	country music
+9132_6	is_in_sentence	sentence_9132
+9132_6	compound	9132_7
+9132_6	has_surface_form	music
+9132_6	part_of_entity	country music
+9132_8	is_in_sentence	sentence_9132
+9132_8	acl	9132_7
+9132_8	has_surface_form	signed
+9132_9	is_in_sentence	sentence_9132
+9132_9	prep	9132_8
+9132_9	has_surface_form	to
+9132_10	is_in_sentence	sentence_9132
+9132_10	compound	9132_11
+9132_10	has_surface_form	Curb
+9132_11	is_in_sentence	sentence_9132
+9132_11	poss	9132_16
+9132_11	has_surface_form	Records
+9132_16	is_in_sentence	sentence_9132
+9132_16	pobj	9132_9
+9132_16	has_surface_form	division
+9132_12	is_in_sentence	sentence_9132
+9132_12	case	9132_11
+9132_12	has_surface_form	'
+9132_13	is_in_sentence	sentence_9132
+9132_13	nmod	9132_15
+9132_13	has_surface_form	Asylum
+9132_15	is_in_sentence	sentence_9132
+9132_15	compound	9132_16
+9132_15	has_surface_form	Curb
+9132_14	is_in_sentence	sentence_9132
+9132_14	punct	9132_15
+9132_14	has_surface_form	/
+9132_17	is_in_sentence	sentence_9132
+9132_17	punct	9132_2
+9132_17	has_surface_form	.
+9132_18	is_in_sentence	sentence_9132
+9132_18	dep	9132_2
+9132_18	has_surface_form	
+Cowboy Crush	surface_form	Cowboy Crush
+Cowboy Crush	has-genre	country music
+country music	surface_form	country music

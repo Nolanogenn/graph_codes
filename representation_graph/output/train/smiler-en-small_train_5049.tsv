@@ -1,0 +1,87 @@
+5048_0	is_in_sentence	sentence_5048
+5048_0	nsubj	5048_4
+5048_0	has_surface_form	Action
+5048_0	part_of_entity	Action of the Tiger
+5048_4	is_in_sentence	sentence_5048
+5048_4	ROOT	5048_4
+5048_4	has_surface_form	is
+5048_1	is_in_sentence	sentence_5048
+5048_1	prep	5048_0
+5048_1	has_surface_form	of
+5048_1	part_of_entity	Action of the Tiger
+5048_2	is_in_sentence	sentence_5048
+5048_2	det	5048_3
+5048_2	has_surface_form	the
+5048_2	part_of_entity	Action of the Tiger
+5048_3	is_in_sentence	sentence_5048
+5048_3	pobj	5048_1
+5048_3	has_surface_form	Tiger
+5048_3	part_of_entity	Action of the Tiger
+5048_5	is_in_sentence	sentence_5048
+5048_5	det	5048_12
+5048_5	has_surface_form	a
+5048_12	is_in_sentence	sentence_5048
+5048_12	attr	5048_4
+5048_12	has_surface_form	film
+5048_6	is_in_sentence	sentence_5048
+5048_6	nummod	5048_12
+5048_6	has_surface_form	1957
+5048_7	is_in_sentence	sentence_5048
+5048_7	amod	5048_10
+5048_7	has_surface_form	British
+5048_10	is_in_sentence	sentence_5048
+5048_10	compound	5048_12
+5048_10	has_surface_form	CinemaScope
+5048_8	is_in_sentence	sentence_5048
+5048_8	punct	5048_10
+5048_8	has_surface_form	-
+5048_9	is_in_sentence	sentence_5048
+5048_9	compound	5048_10
+5048_9	has_surface_form	American
+5048_11	is_in_sentence	sentence_5048
+5048_11	compound	5048_12
+5048_11	has_surface_form	action
+5048_13	is_in_sentence	sentence_5048
+5048_13	acl	5048_12
+5048_13	has_surface_form	directed
+5048_14	is_in_sentence	sentence_5048
+5048_14	agent	5048_13
+5048_14	has_surface_form	by
+5048_15	is_in_sentence	sentence_5048
+5048_15	compound	5048_16
+5048_15	has_surface_form	Terence
+5048_15	part_of_entity	Terence Young
+5048_16	is_in_sentence	sentence_5048
+5048_16	pobj	5048_14
+5048_16	has_surface_form	Young
+5048_16	part_of_entity	Terence Young
+5048_17	is_in_sentence	sentence_5048
+5048_17	cc	5048_13
+5048_17	has_surface_form	and
+5048_18	is_in_sentence	sentence_5048
+5048_18	conj	5048_13
+5048_18	has_surface_form	starring
+5048_19	is_in_sentence	sentence_5048
+5048_19	compound	5048_20
+5048_19	has_surface_form	Van
+5048_20	is_in_sentence	sentence_5048
+5048_20	dobj	5048_18
+5048_20	has_surface_form	Johnson
+5048_21	is_in_sentence	sentence_5048
+5048_21	cc	5048_20
+5048_21	has_surface_form	and
+5048_22	is_in_sentence	sentence_5048
+5048_22	compound	5048_23
+5048_22	has_surface_form	Martine
+5048_23	is_in_sentence	sentence_5048
+5048_23	conj	5048_20
+5048_23	has_surface_form	Carol
+5048_24	is_in_sentence	sentence_5048
+5048_24	punct	5048_4
+5048_24	has_surface_form	.
+5048_25	is_in_sentence	sentence_5048
+5048_25	dep	5048_25
+5048_25	has_surface_form	
+Action of the Tiger	surface_form	Action of the Tiger
+Action of the Tiger	movie-has-director	Terence Young
+Terence Young	surface_form	Terence Young

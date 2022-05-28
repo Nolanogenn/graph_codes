@@ -1,0 +1,65 @@
+21208_0	is_in_sentence	sentence_21208
+21208_0	compound	21208_1
+21208_0	has_surface_form	Désirée
+21208_0	part_of_entity	Désirée Bonis
+21208_1	is_in_sentence	sentence_21208
+21208_1	nsubj	21208_11
+21208_1	has_surface_form	Bonis
+21208_1	part_of_entity	Désirée Bonis
+21208_11	is_in_sentence	sentence_21208
+21208_11	ROOT	21208_11
+21208_11	has_surface_form	is
+21208_2	is_in_sentence	sentence_21208
+21208_2	punct	21208_1
+21208_2	has_surface_form	(
+21208_3	is_in_sentence	sentence_21208
+21208_3	acl	21208_1
+21208_3	has_surface_form	born
+21208_4	is_in_sentence	sentence_21208
+21208_4	nummod	21208_5
+21208_4	has_surface_form	5
+21208_5	is_in_sentence	sentence_21208
+21208_5	npadvmod	21208_3
+21208_5	has_surface_form	July
+21208_6	is_in_sentence	sentence_21208
+21208_6	nummod	21208_5
+21208_6	has_surface_form	1959
+21208_7	is_in_sentence	sentence_21208
+21208_7	punct	21208_1
+21208_7	has_surface_form	,
+21208_8	is_in_sentence	sentence_21208
+21208_8	prep	21208_1
+21208_8	has_surface_form	in
+21208_9	is_in_sentence	sentence_21208
+21208_9	pobj	21208_8
+21208_9	is_entity	Velsen
+Velsen	surface_form	Velsen
+21208_10	is_in_sentence	sentence_21208
+21208_10	punct	21208_1
+21208_10	has_surface_form	)
+21208_12	is_in_sentence	sentence_21208
+21208_12	det	21208_15
+21208_12	has_surface_form	a
+21208_15	is_in_sentence	sentence_21208
+21208_15	attr	21208_11
+21208_15	has_surface_form	politician
+21208_13	is_in_sentence	sentence_21208
+21208_13	amod	21208_15
+21208_13	has_surface_form	former
+21208_14	is_in_sentence	sentence_21208
+21208_14	amod	21208_15
+21208_14	has_surface_form	Dutch
+21208_16	is_in_sentence	sentence_21208
+21208_16	cc	21208_15
+21208_16	has_surface_form	and
+21208_17	is_in_sentence	sentence_21208
+21208_17	conj	21208_15
+21208_17	has_surface_form	diplomat
+21208_18	is_in_sentence	sentence_21208
+21208_18	punct	21208_11
+21208_18	has_surface_form	.
+21208_19	is_in_sentence	sentence_21208
+21208_19	dep	21208_19
+21208_19	has_surface_form	
+Désirée Bonis	surface_form	Désirée Bonis
+Désirée Bonis	birth-place	Velsen

@@ -1,0 +1,100 @@
+30242_0	is_in_sentence	sentence_30242
+30242_0	det	30242_7
+30242_0	has_surface_form	The
+30242_0	part_of_entity	The Robert Jones and Agnes Hunt Orthopaedic Hospital
+30242_7	is_in_sentence	sentence_30242
+30242_7	nsubj	30242_17
+30242_7	has_surface_form	Hospital
+30242_7	part_of_entity	The Robert Jones and Agnes Hunt Orthopaedic Hospital
+30242_1	is_in_sentence	sentence_30242
+30242_1	nmod	30242_2
+30242_1	has_surface_form	Robert
+30242_1	part_of_entity	The Robert Jones and Agnes Hunt Orthopaedic Hospital
+30242_2	is_in_sentence	sentence_30242
+30242_2	nmod	30242_7
+30242_2	has_surface_form	Jones
+30242_2	part_of_entity	The Robert Jones and Agnes Hunt Orthopaedic Hospital
+30242_3	is_in_sentence	sentence_30242
+30242_3	cc	30242_2
+30242_3	has_surface_form	and
+30242_3	part_of_entity	The Robert Jones and Agnes Hunt Orthopaedic Hospital
+30242_4	is_in_sentence	sentence_30242
+30242_4	compound	30242_5
+30242_4	has_surface_form	Agnes
+30242_4	part_of_entity	The Robert Jones and Agnes Hunt Orthopaedic Hospital
+30242_5	is_in_sentence	sentence_30242
+30242_5	conj	30242_2
+30242_5	has_surface_form	Hunt
+30242_5	part_of_entity	The Robert Jones and Agnes Hunt Orthopaedic Hospital
+30242_6	is_in_sentence	sentence_30242
+30242_6	compound	30242_7
+30242_6	has_surface_form	Orthopaedic
+30242_6	part_of_entity	The Robert Jones and Agnes Hunt Orthopaedic Hospital
+30242_17	is_in_sentence	sentence_30242
+30242_17	ROOT	30242_17
+30242_17	has_surface_form	is
+30242_8	is_in_sentence	sentence_30242
+30242_8	punct	30242_7
+30242_8	has_surface_form	(
+30242_9	is_in_sentence	sentence_30242
+30242_9	appos	30242_7
+30242_9	has_surface_form	RJAH
+30242_10	is_in_sentence	sentence_30242
+30242_10	punct	30242_7
+30242_10	has_surface_form	)
+30242_11	is_in_sentence	sentence_30242
+30242_11	prep	30242_7
+30242_11	has_surface_form	in
+30242_12	is_in_sentence	sentence_30242
+30242_12	pobj	30242_11
+30242_12	has_surface_form	Oswestry
+30242_13	is_in_sentence	sentence_30242
+30242_13	punct	30242_12
+30242_13	has_surface_form	,
+30242_14	is_in_sentence	sentence_30242
+30242_14	conj	30242_12
+30242_14	has_surface_form	Shropshire
+30242_15	is_in_sentence	sentence_30242
+30242_15	punct	30242_14
+30242_15	has_surface_form	,
+30242_16	is_in_sentence	sentence_30242
+30242_16	conj	30242_14
+30242_16	has_surface_form	England
+30242_18	is_in_sentence	sentence_30242
+30242_18	det	30242_21
+30242_18	has_surface_form	a
+30242_21	is_in_sentence	sentence_30242
+30242_21	attr	30242_17
+30242_21	has_surface_form	hospital
+30242_21	part_of_entity	orthopaedic hospital
+30242_19	is_in_sentence	sentence_30242
+30242_19	amod	30242_21
+30242_19	has_surface_form	specialist
+30242_20	is_in_sentence	sentence_30242
+30242_20	amod	30242_21
+30242_20	has_surface_form	orthopaedic
+30242_20	part_of_entity	orthopaedic hospital
+30242_22	is_in_sentence	sentence_30242
+30242_22	nsubj	30242_23
+30242_22	has_surface_form	which
+30242_23	is_in_sentence	sentence_30242
+30242_23	relcl	30242_21
+30242_23	has_surface_form	provides
+30242_24	is_in_sentence	sentence_30242
+30242_24	amod	30242_26
+30242_24	has_surface_form	elective
+30242_26	is_in_sentence	sentence_30242
+30242_26	dobj	30242_23
+30242_26	has_surface_form	surgery
+30242_25	is_in_sentence	sentence_30242
+30242_25	amod	30242_26
+30242_25	has_surface_form	orthopaedic
+30242_27	is_in_sentence	sentence_30242
+30242_27	punct	30242_17
+30242_27	has_surface_form	.
+30242_28	is_in_sentence	sentence_30242
+30242_28	dep	30242_28
+30242_28	has_surface_form	
+The Robert Jones and Agnes Hunt Orthopaedic Hospital	surface_form	The Robert Jones and Agnes Hunt Orthopaedic Hospital
+The Robert Jones and Agnes Hunt Orthopaedic Hospital	has-type	orthopaedic hospital
+orthopaedic hospital	surface_form	orthopaedic hospital

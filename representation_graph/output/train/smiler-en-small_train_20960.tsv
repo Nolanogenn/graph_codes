@@ -1,0 +1,85 @@
+20959_0	is_in_sentence	sentence_20959
+20959_0	compound	20959_1
+20959_0	has_surface_form	Bruno
+20959_0	part_of_entity	Bruno Šiklić
+20959_1	is_in_sentence	sentence_20959
+20959_1	nsubj	20959_8
+20959_1	has_surface_form	Šiklić
+20959_1	part_of_entity	Bruno Šiklić
+20959_8	is_in_sentence	sentence_20959
+20959_8	ROOT	20959_8
+20959_8	has_surface_form	is
+20959_2	is_in_sentence	sentence_20959
+20959_2	punct	20959_1
+20959_2	has_surface_form	(
+20959_3	is_in_sentence	sentence_20959
+20959_3	acl	20959_1
+20959_3	has_surface_form	born
+20959_4	is_in_sentence	sentence_20959
+20959_4	nummod	20959_5
+20959_4	has_surface_form	14
+20959_5	is_in_sentence	sentence_20959
+20959_5	npadvmod	20959_3
+20959_5	has_surface_form	March
+20959_6	is_in_sentence	sentence_20959
+20959_6	nummod	20959_5
+20959_6	has_surface_form	1983
+20959_7	is_in_sentence	sentence_20959
+20959_7	punct	20959_1
+20959_7	has_surface_form	)
+20959_9	is_in_sentence	sentence_20959
+20959_9	det	20959_12
+20959_9	has_surface_form	a
+20959_12	is_in_sentence	sentence_20959
+20959_12	attr	20959_8
+20959_12	has_surface_form	player
+20959_10	is_in_sentence	sentence_20959
+20959_10	amod	20959_12
+20959_10	has_surface_form	Croatian
+20959_11	is_in_sentence	sentence_20959
+20959_11	compound	20959_12
+20959_11	has_surface_form	football
+20959_13	is_in_sentence	sentence_20959
+20959_13	nsubj	20959_15
+20959_13	has_surface_form	who
+20959_15	is_in_sentence	sentence_20959
+20959_15	relcl	20959_12
+20959_15	has_surface_form	plays
+20959_14	is_in_sentence	sentence_20959
+20959_14	advmod	20959_15
+20959_14	has_surface_form	currently
+20959_16	is_in_sentence	sentence_20959
+20959_16	prep	20959_15
+20959_16	has_surface_form	for
+20959_17	is_in_sentence	sentence_20959
+20959_17	compound	20959_18
+20959_17	has_surface_form	Manama
+20959_17	part_of_entity	Manama Club
+20959_18	is_in_sentence	sentence_20959
+20959_18	pobj	20959_16
+20959_18	has_surface_form	Club
+20959_18	part_of_entity	Manama Club
+20959_19	is_in_sentence	sentence_20959
+20959_19	prep	20959_18
+20959_19	has_surface_form	in
+20959_20	is_in_sentence	sentence_20959
+20959_20	det	20959_23
+20959_20	has_surface_form	the
+20959_23	is_in_sentence	sentence_20959
+20959_23	pobj	20959_19
+20959_23	has_surface_form	League
+20959_21	is_in_sentence	sentence_20959
+20959_21	compound	20959_23
+20959_21	has_surface_form	Bahraini
+20959_22	is_in_sentence	sentence_20959
+20959_22	compound	20959_23
+20959_22	has_surface_form	Premier
+20959_24	is_in_sentence	sentence_20959
+20959_24	punct	20959_8
+20959_24	has_surface_form	.
+20959_25	is_in_sentence	sentence_20959
+20959_25	dep	20959_8
+20959_25	has_surface_form	
+Bruno Šiklić	surface_form	Bruno Šiklić
+Bruno Šiklić	is-member-of	Manama Club
+Manama Club	surface_form	Manama Club

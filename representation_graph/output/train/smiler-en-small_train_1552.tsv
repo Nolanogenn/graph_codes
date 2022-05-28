@@ -1,0 +1,67 @@
+1551_0	is_in_sentence	sentence_1551
+1551_0	compound	1551_1
+1551_0	has_surface_form	Krishna
+1551_0	part_of_entity	Krishna Gopalakrishna
+1551_1	is_in_sentence	sentence_1551
+1551_1	nsubj	1551_2
+1551_1	has_surface_form	Gopalakrishna
+1551_1	part_of_entity	Krishna Gopalakrishna
+1551_2	is_in_sentence	sentence_1551
+1551_2	ROOT	1551_2
+1551_2	has_surface_form	is
+1551_3	is_in_sentence	sentence_1551
+1551_3	det	1551_7
+1551_3	has_surface_form	a
+1551_7	is_in_sentence	sentence_1551
+1551_7	attr	1551_2
+1551_7	has_surface_form	film
+1551_4	is_in_sentence	sentence_1551
+1551_4	nummod	1551_7
+1551_4	has_surface_form	2002
+1551_5	is_in_sentence	sentence_1551
+1551_5	amod	1551_7
+1551_5	has_surface_form	Indian
+1551_6	is_in_sentence	sentence_1551
+1551_6	compound	1551_7
+1551_6	has_surface_form	Malayalam
+1551_8	is_in_sentence	sentence_1551
+1551_8	punct	1551_7
+1551_8	has_surface_form	,
+1551_9	is_in_sentence	sentence_1551
+1551_9	acl	1551_7
+1551_9	has_surface_form	directed
+1551_10	is_in_sentence	sentence_1551
+1551_10	agent	1551_9
+1551_10	has_surface_form	by
+1551_11	is_in_sentence	sentence_1551
+1551_11	compound	1551_12
+1551_11	has_surface_form	Balachandra
+1551_11	part_of_entity	Balachandra Menon
+1551_12	is_in_sentence	sentence_1551
+1551_12	pobj	1551_10
+1551_12	has_surface_form	Menon
+1551_12	part_of_entity	Balachandra Menon
+1551_13	is_in_sentence	sentence_1551
+1551_13	cc	1551_9
+1551_13	has_surface_form	and
+1551_14	is_in_sentence	sentence_1551
+1551_14	conj	1551_9
+1551_14	has_surface_form	produced
+1551_15	is_in_sentence	sentence_1551
+1551_15	agent	1551_14
+1551_15	has_surface_form	by
+1551_16	is_in_sentence	sentence_1551
+1551_16	compound	1551_17
+1551_16	has_surface_form	Krishnan
+1551_17	is_in_sentence	sentence_1551
+1551_17	pobj	1551_15
+1551_17	has_surface_form	Nair
+1551_18	is_in_sentence	sentence_1551
+1551_18	punct	1551_2
+1551_18	has_surface_form	.
+1551_19	is_in_sentence	sentence_1551
+1551_19	dep	1551_2
+1551_19	has_surface_form	
+Krishna Gopalakrishna	surface_form	Krishna Gopalakrishna
+Krishna Gopalakrishna	movie-has-director	Balachandra Menon
+Balachandra Menon	surface_form	Balachandra Menon

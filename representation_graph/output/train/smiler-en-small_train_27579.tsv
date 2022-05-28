@@ -1,0 +1,61 @@
+27578_0	is_in_sentence	sentence_27578
+27578_0	nummod	27578_1
+27578_0	has_surface_form	99
+27578_0	part_of_entity	99 Songs
+27578_1	is_in_sentence	sentence_27578
+27578_1	nsubj	27578_2
+27578_1	has_surface_form	Songs
+27578_1	part_of_entity	99 Songs
+27578_2	is_in_sentence	sentence_27578
+27578_2	ROOT	27578_2
+27578_2	has_surface_form	is
+27578_3	is_in_sentence	sentence_27578
+27578_3	det	27578_11
+27578_3	has_surface_form	an
+27578_11	is_in_sentence	sentence_27578
+27578_11	attr	27578_2
+27578_11	has_surface_form	film
+27578_4	is_in_sentence	sentence_27578
+27578_4	amod	27578_11
+27578_4	has_surface_form	upcoming
+27578_5	is_in_sentence	sentence_27578
+27578_5	amod	27578_11
+27578_5	has_surface_form	Indian
+27578_6	is_in_sentence	sentence_27578
+27578_6	nmod	27578_8
+27578_6	has_surface_form	Hindi
+27578_8	is_in_sentence	sentence_27578
+27578_8	nmod	27578_11
+27578_8	has_surface_form	language
+27578_7	is_in_sentence	sentence_27578
+27578_7	punct	27578_8
+27578_7	has_surface_form	-
+27578_9	is_in_sentence	sentence_27578
+27578_9	amod	27578_10
+27578_9	has_surface_form	musical
+27578_10	is_in_sentence	sentence_27578
+27578_10	compound	27578_11
+27578_10	has_surface_form	romance
+27578_12	is_in_sentence	sentence_27578
+27578_12	acl	27578_11
+27578_12	has_surface_form	directed
+27578_13	is_in_sentence	sentence_27578
+27578_13	agent	27578_12
+27578_13	has_surface_form	by
+27578_14	is_in_sentence	sentence_27578
+27578_14	compound	27578_15
+27578_14	has_surface_form	Vishwesh
+27578_14	part_of_entity	Vishwesh Krishnamoorthy
+27578_15	is_in_sentence	sentence_27578
+27578_15	pobj	27578_13
+27578_15	has_surface_form	Krishnamoorthy
+27578_15	part_of_entity	Vishwesh Krishnamoorthy
+27578_16	is_in_sentence	sentence_27578
+27578_16	punct	27578_2
+27578_16	has_surface_form	.
+27578_17	is_in_sentence	sentence_27578
+27578_17	dep	27578_2
+27578_17	has_surface_form	
+99 Songs	surface_form	99 Songs
+99 Songs	movie-has-director	Vishwesh Krishnamoorthy
+Vishwesh Krishnamoorthy	surface_form	Vishwesh Krishnamoorthy

@@ -1,0 +1,92 @@
+20904_0	is_in_sentence	sentence_20904
+20904_0	det	20904_2
+20904_0	has_surface_form	A
+20904_0	part_of_entity	A Grande Arte
+20904_2	is_in_sentence	sentence_20904
+20904_2	nsubj	20904_17
+20904_2	has_surface_form	Arte
+20904_2	part_of_entity	A Grande Arte
+20904_1	is_in_sentence	sentence_20904
+20904_1	compound	20904_2
+20904_1	has_surface_form	Grande
+20904_1	part_of_entity	A Grande Arte
+20904_17	is_in_sentence	sentence_20904
+20904_17	ROOT	20904_17
+20904_17	has_surface_form	is
+20904_3	is_in_sentence	sentence_20904
+20904_3	punct	20904_2
+20904_3	has_surface_form	(
+20904_4	is_in_sentence	sentence_20904
+20904_4	prep	20904_2
+20904_4	has_surface_form	in
+20904_5	is_in_sentence	sentence_20904
+20904_5	pobj	20904_4
+20904_5	has_surface_form	English
+20904_6	is_in_sentence	sentence_20904
+20904_6	punct	20904_5
+20904_6	has_surface_form	,
+20904_7	is_in_sentence	sentence_20904
+20904_7	det	20904_9
+20904_7	has_surface_form	The
+20904_9	is_in_sentence	sentence_20904
+20904_9	appos	20904_2
+20904_9	has_surface_form	Art
+20904_8	is_in_sentence	sentence_20904
+20904_8	compound	20904_9
+20904_8	has_surface_form	Great
+20904_10	is_in_sentence	sentence_20904
+20904_10	punct	20904_2
+20904_10	has_surface_form	;
+20904_11	is_in_sentence	sentence_20904
+20904_11	compound	20904_12
+20904_11	has_surface_form	US
+20904_12	is_in_sentence	sentence_20904
+20904_12	conj	20904_2
+20904_12	has_surface_form	title
+20904_13	is_in_sentence	sentence_20904
+20904_13	punct	20904_12
+20904_13	has_surface_form	:
+20904_14	is_in_sentence	sentence_20904
+20904_14	appos	20904_12
+20904_14	has_surface_form	Exposure
+20904_15	is_in_sentence	sentence_20904
+20904_15	punct	20904_12
+20904_15	has_surface_form	)
+20904_16	is_in_sentence	sentence_20904
+20904_16	punct	20904_17
+20904_16	has_surface_form	,
+20904_18	is_in_sentence	sentence_20904
+20904_18	det	20904_21
+20904_18	has_surface_form	a
+20904_21	is_in_sentence	sentence_20904
+20904_21	attr	20904_17
+20904_21	has_surface_form	movie
+20904_19	is_in_sentence	sentence_20904
+20904_19	nummod	20904_21
+20904_19	has_surface_form	1991
+20904_20	is_in_sentence	sentence_20904
+20904_20	amod	20904_21
+20904_20	has_surface_form	Brazilian
+20904_22	is_in_sentence	sentence_20904
+20904_22	acl	20904_21
+20904_22	has_surface_form	directed
+20904_23	is_in_sentence	sentence_20904
+20904_23	agent	20904_22
+20904_23	has_surface_form	by
+20904_24	is_in_sentence	sentence_20904
+20904_24	compound	20904_26
+20904_24	has_surface_form	Walter
+20904_24	part_of_entity	Walter Salles
+20904_26	is_in_sentence	sentence_20904
+20904_26	pobj	20904_23
+20904_26	has_surface_form	Jr.
+20904_25	is_in_sentence	sentence_20904
+20904_25	compound	20904_26
+20904_25	has_surface_form	Salles
+20904_25	part_of_entity	Walter Salles
+20904_27	is_in_sentence	sentence_20904
+20904_27	dep	20904_17
+20904_27	has_surface_form	
+A Grande Arte	surface_form	A Grande Arte
+A Grande Arte	movie-has-director	Walter Salles
+Walter Salles	surface_form	Walter Salles

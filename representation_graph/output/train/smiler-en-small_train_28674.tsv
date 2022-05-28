@@ -1,0 +1,76 @@
+28673_0	is_in_sentence	sentence_28673
+28673_0	compound	28673_1
+28673_0	has_surface_form	Aristote
+28673_0	part_of_entity	Aristote Lusinga
+28673_1	is_in_sentence	sentence_28673
+28673_1	nsubj	28673_10
+28673_1	has_surface_form	Lusinga
+28673_1	part_of_entity	Aristote Lusinga
+28673_10	is_in_sentence	sentence_28673
+28673_10	ROOT	28673_10
+28673_10	has_surface_form	is
+28673_2	is_in_sentence	sentence_28673
+28673_2	punct	28673_3
+28673_2	has_surface_form	(
+28673_3	is_in_sentence	sentence_28673
+28673_3	parataxis	28673_1
+28673_3	has_surface_form	born
+28673_4	is_in_sentence	sentence_28673
+28673_4	nummod	28673_5
+28673_4	has_surface_form	20
+28673_5	is_in_sentence	sentence_28673
+28673_5	npadvmod	28673_3
+28673_5	has_surface_form	February
+28673_6	is_in_sentence	sentence_28673
+28673_6	nummod	28673_5
+28673_6	has_surface_form	1990
+28673_7	is_in_sentence	sentence_28673
+28673_7	prep	28673_3
+28673_7	has_surface_form	in
+28673_8	is_in_sentence	sentence_28673
+28673_8	pobj	28673_7
+28673_8	has_surface_form	Nantes
+28673_9	is_in_sentence	sentence_28673
+28673_9	punct	28673_1
+28673_9	has_surface_form	)
+28673_11	is_in_sentence	sentence_28673
+28673_11	det	28673_13
+28673_11	has_surface_form	a
+28673_13	is_in_sentence	sentence_28673
+28673_13	attr	28673_10
+28673_13	has_surface_form	footballer
+28673_12	is_in_sentence	sentence_28673
+28673_12	amod	28673_13
+28673_12	has_surface_form	French
+28673_14	is_in_sentence	sentence_28673
+28673_14	nsubj	28673_15
+28673_14	has_surface_form	who
+28673_15	is_in_sentence	sentence_28673
+28673_15	relcl	28673_13
+28673_15	has_surface_form	plays
+28673_16	is_in_sentence	sentence_28673
+28673_16	prep	28673_15
+28673_16	has_surface_form	for
+28673_17	is_in_sentence	sentence_28673
+28673_17	amod	28673_18
+28673_17	has_surface_form	French
+28673_18	is_in_sentence	sentence_28673
+28673_18	compound	28673_20
+28673_18	has_surface_form	club
+28673_20	is_in_sentence	sentence_28673
+28673_20	pobj	28673_16
+28673_20	has_surface_form	Nantes
+28673_20	part_of_entity	FC Nantes
+28673_19	is_in_sentence	sentence_28673
+28673_19	compound	28673_20
+28673_19	has_surface_form	FC
+28673_19	part_of_entity	FC Nantes
+28673_21	is_in_sentence	sentence_28673
+28673_21	punct	28673_10
+28673_21	has_surface_form	.
+28673_22	is_in_sentence	sentence_28673
+28673_22	dep	28673_10
+28673_22	has_surface_form	
+Aristote Lusinga	surface_form	Aristote Lusinga
+Aristote Lusinga	is-member-of	FC Nantes
+FC Nantes	surface_form	FC Nantes

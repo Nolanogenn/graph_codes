@@ -1,0 +1,67 @@
+8800_0	is_in_sentence	sentence_8800
+8800_0	nsubj	8800_9
+8800_0	has_surface_form	Destroy
+8800_0	part_of_entity	Destroy 2
+8800_9	is_in_sentence	sentence_8800
+8800_9	ROOT	8800_9
+8800_9	has_surface_form	was
+8800_1	is_in_sentence	sentence_8800
+8800_1	nummod	8800_0
+8800_1	has_surface_form	2
+8800_1	part_of_entity	Destroy 2
+8800_2	is_in_sentence	sentence_8800
+8800_2	punct	8800_4
+8800_2	has_surface_form	(
+8800_4	is_in_sentence	sentence_8800
+8800_4	parataxis	8800_0
+8800_4	has_surface_form	called
+8800_3	is_in_sentence	sentence_8800
+8800_3	advmod	8800_4
+8800_3	has_surface_form	sometimes
+8800_5	is_in_sentence	sentence_8800
+8800_5	oprd	8800_4
+8800_5	has_surface_form	Eye
+8800_6	is_in_sentence	sentence_8800
+8800_6	cc	8800_5
+8800_6	has_surface_form	&
+8800_7	is_in_sentence	sentence_8800
+8800_7	conj	8800_5
+8800_7	has_surface_form	Chew
+8800_8	is_in_sentence	sentence_8800
+8800_8	punct	8800_4
+8800_8	has_surface_form	)
+8800_10	is_in_sentence	sentence_8800
+8800_10	det	8800_17
+8800_10	has_surface_form	a
+8800_17	is_in_sentence	sentence_8800
+8800_17	attr	8800_9
+8800_17	has_surface_form	band
+8800_11	is_in_sentence	sentence_8800
+8800_11	advmod	8800_13
+8800_11	has_surface_form	short
+8800_13	is_in_sentence	sentence_8800
+8800_13	amod	8800_17
+8800_13	has_surface_form	lived
+8800_12	is_in_sentence	sentence_8800
+8800_12	punct	8800_13
+8800_12	has_surface_form	-
+8800_14	is_in_sentence	sentence_8800
+8800_14	amod	8800_17
+8800_14	has_surface_form	Japanese
+8800_15	is_in_sentence	sentence_8800
+8800_15	compound	8800_17
+8800_15	has_surface_form	noise
+8800_15	part_of_entity	noise rock
+8800_16	is_in_sentence	sentence_8800
+8800_16	compound	8800_17
+8800_16	has_surface_form	rock
+8800_16	part_of_entity	noise rock
+8800_18	is_in_sentence	sentence_8800
+8800_18	punct	8800_9
+8800_18	has_surface_form	.
+8800_19	is_in_sentence	sentence_8800
+8800_19	dep	8800_19
+8800_19	has_surface_form	
+Destroy 2	surface_form	Destroy 2
+Destroy 2	has-genre	noise rock
+noise rock	surface_form	noise rock

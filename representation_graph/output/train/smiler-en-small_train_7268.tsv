@@ -1,0 +1,67 @@
+7267_0	is_in_sentence	sentence_7267
+7267_0	det	7267_2
+7267_0	has_surface_form	The
+7267_2	is_in_sentence	sentence_7267
+7267_2	nsubjpass	7267_4
+7267_2	has_surface_form	shovel
+7267_2	part_of_entity	Steam shovel
+7267_1	is_in_sentence	sentence_7267
+7267_1	compound	7267_2
+7267_1	has_surface_form	Steam
+7267_1	part_of_entity	Steam shovel
+7267_4	is_in_sentence	sentence_7267
+7267_4	ROOT	7267_4
+7267_4	has_surface_form	invented
+7267_3	is_in_sentence	sentence_7267
+7267_3	auxpass	7267_4
+7267_3	has_surface_form	was
+7267_5	is_in_sentence	sentence_7267
+7267_5	agent	7267_4
+7267_5	has_surface_form	by
+7267_6	is_in_sentence	sentence_7267
+7267_6	compound	7267_7
+7267_6	has_surface_form	William
+7267_6	part_of_entity	William Otis
+7267_7	is_in_sentence	sentence_7267
+7267_7	pobj	7267_5
+7267_7	has_surface_form	Otis
+7267_7	part_of_entity	William Otis
+7267_8	is_in_sentence	sentence_7267
+7267_8	punct	7267_7
+7267_8	has_surface_form	,
+7267_9	is_in_sentence	sentence_7267
+7267_9	nsubj	7267_10
+7267_9	has_surface_form	who
+7267_10	is_in_sentence	sentence_7267
+7267_10	relcl	7267_7
+7267_10	has_surface_form	received
+7267_11	is_in_sentence	sentence_7267
+7267_11	det	7267_12
+7267_11	has_surface_form	a
+7267_12	is_in_sentence	sentence_7267
+7267_12	dobj	7267_10
+7267_12	has_surface_form	patent
+7267_13	is_in_sentence	sentence_7267
+7267_13	prep	7267_12
+7267_13	has_surface_form	for
+7267_14	is_in_sentence	sentence_7267
+7267_14	poss	7267_15
+7267_14	has_surface_form	his
+7267_15	is_in_sentence	sentence_7267
+7267_15	pobj	7267_13
+7267_15	has_surface_form	design
+7267_16	is_in_sentence	sentence_7267
+7267_16	prep	7267_10
+7267_16	has_surface_form	in
+7267_17	is_in_sentence	sentence_7267
+7267_17	pobj	7267_16
+7267_17	has_surface_form	1839
+7267_18	is_in_sentence	sentence_7267
+7267_18	punct	7267_4
+7267_18	has_surface_form	.
+7267_19	is_in_sentence	sentence_7267
+7267_19	dep	7267_19
+7267_19	has_surface_form	
+Steam shovel	surface_form	Steam shovel
+Steam shovel	invented-by	William Otis
+William Otis	surface_form	William Otis

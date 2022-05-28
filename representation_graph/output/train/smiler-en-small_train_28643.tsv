@@ -1,0 +1,50 @@
+28642_0	is_in_sentence	sentence_28642
+28642_0	amod	28642_1
+28642_0	has_surface_form	white
+28642_0	part_of_entity	white rhinos
+28642_1	is_in_sentence	sentence_28642
+28642_1	nsubj	28642_3
+28642_1	has_surface_form	rhinos
+28642_1	part_of_entity	white rhinos
+28642_3	is_in_sentence	sentence_28642
+28642_3	ROOT	28642_3
+28642_3	has_surface_form	live
+28642_2	is_in_sentence	sentence_28642
+28642_2	aux	28642_3
+28642_2	has_surface_form	can
+28642_4	is_in_sentence	sentence_28642
+28642_4	aux	28642_5
+28642_4	has_surface_form	to
+28642_5	is_in_sentence	sentence_28642
+28642_5	xcomp	28642_3
+28642_5	has_surface_form	be
+28642_6	is_in_sentence	sentence_28642
+28642_6	quantmod	28642_10
+28642_6	has_surface_form	up
+28642_10	is_in_sentence	sentence_28642
+28642_10	nummod	28642_11
+28642_10	has_surface_form	50
+28642_7	is_in_sentence	sentence_28642
+28642_7	quantmod	28642_10
+28642_7	has_surface_form	to
+28642_8	is_in_sentence	sentence_28642
+28642_8	compound	28642_10
+28642_8	has_surface_form	40
+28642_9	is_in_sentence	sentence_28642
+28642_9	punct	28642_10
+28642_9	has_surface_form	-
+28642_11	is_in_sentence	sentence_28642
+28642_11	npadvmod	28642_12
+28642_11	has_surface_form	years
+28642_12	is_in_sentence	sentence_28642
+28642_12	acomp	28642_5
+28642_12	has_surface_form	old
+28642_13	is_in_sentence	sentence_28642
+28642_13	punct	28642_3
+28642_13	has_surface_form	.
+28642_14	is_in_sentence	sentence_28642
+28642_14	dep	28642_14
+28642_14	has_surface_form	
+white rhinos	surface_form	white rhinos
+white rhinos	has-lifespan	40-50 years
+40-50 years	surface_form	40-50 years

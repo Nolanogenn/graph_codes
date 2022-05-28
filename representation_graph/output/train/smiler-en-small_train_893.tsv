@@ -1,0 +1,55 @@
+892_0	is_in_sentence	sentence_892
+892_0	nsubj	892_1
+892_0	has_surface_form	He
+892_1	is_in_sentence	sentence_892
+892_1	ROOT	892_1
+892_1	has_surface_form	did
+892_2	is_in_sentence	sentence_892
+892_2	advmod	892_1
+892_2	has_surface_form	so
+892_3	is_in_sentence	sentence_892
+892_3	prep	892_1
+892_3	has_surface_form	with
+892_4	is_in_sentence	sentence_892
+892_4	det	892_5
+892_4	has_surface_form	the
+892_5	is_in_sentence	sentence_892
+892_5	pobj	892_3
+892_5	has_surface_form	permission
+892_6	is_in_sentence	sentence_892
+892_6	prep	892_5
+892_6	has_surface_form	of
+892_7	is_in_sentence	sentence_892
+892_7	compound	892_8
+892_7	has_surface_form	La
+892_7	part_of_entity	La Toya
+892_8	is_in_sentence	sentence_892
+892_8	poss	892_10
+892_8	has_surface_form	Toya
+892_8	part_of_entity	La Toya
+892_10	is_in_sentence	sentence_892
+892_10	pobj	892_6
+892_10	has_surface_form	father
+892_9	is_in_sentence	sentence_892
+892_9	case	892_8
+892_9	has_surface_form	's
+892_11	is_in_sentence	sentence_892
+892_11	punct	892_10
+892_11	has_surface_form	,
+892_12	is_in_sentence	sentence_892
+892_12	compound	892_13
+892_12	has_surface_form	Joe
+892_12	part_of_entity	Joe Jackson
+892_13	is_in_sentence	sentence_892
+892_13	appos	892_10
+892_13	has_surface_form	Jackson
+892_13	part_of_entity	Joe Jackson
+892_14	is_in_sentence	sentence_892
+892_14	punct	892_1
+892_14	has_surface_form	.
+892_15	is_in_sentence	sentence_892
+892_15	dep	892_1
+892_15	has_surface_form	
+La Toya	surface_form	La Toya
+La Toya	has-parent	Joe Jackson
+Joe Jackson	surface_form	Joe Jackson

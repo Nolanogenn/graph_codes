@@ -1,0 +1,93 @@
+20279_0	is_in_sentence	sentence_20279
+20279_0	compound	20279_1
+20279_0	has_surface_form	Mr.
+20279_0	part_of_entity	Mr. X in Bombay
+20279_1	is_in_sentence	sentence_20279
+20279_1	nsubj	20279_10
+20279_1	has_surface_form	X
+20279_1	part_of_entity	Mr. X in Bombay
+20279_10	is_in_sentence	sentence_20279
+20279_10	ROOT	20279_10
+20279_10	has_surface_form	is
+20279_2	is_in_sentence	sentence_20279
+20279_2	prep	20279_1
+20279_2	has_surface_form	in
+20279_2	part_of_entity	Mr. X in Bombay
+20279_3	is_in_sentence	sentence_20279
+20279_3	pobj	20279_2
+20279_3	has_surface_form	Bombay
+20279_3	part_of_entity	Mr. X in Bombay
+20279_4	is_in_sentence	sentence_20279
+20279_4	punct	20279_1
+20279_4	has_surface_form	,
+20279_5	is_in_sentence	sentence_20279
+20279_5	acl	20279_1
+20279_5	has_surface_form	directed
+20279_6	is_in_sentence	sentence_20279
+20279_6	agent	20279_5
+20279_6	has_surface_form	by
+20279_7	is_in_sentence	sentence_20279
+20279_7	compound	20279_8
+20279_7	has_surface_form	Shantilal
+20279_8	is_in_sentence	sentence_20279
+20279_8	pobj	20279_6
+20279_8	has_surface_form	Soni
+20279_9	is_in_sentence	sentence_20279
+20279_9	punct	20279_10
+20279_9	has_surface_form	,
+20279_11	is_in_sentence	sentence_20279
+20279_11	det	20279_17
+20279_11	has_surface_form	a
+20279_17	is_in_sentence	sentence_20279
+20279_17	attr	20279_10
+20279_17	has_surface_form	film
+20279_12	is_in_sentence	sentence_20279
+20279_12	nummod	20279_15
+20279_12	has_surface_form	1964
+20279_15	is_in_sentence	sentence_20279
+20279_15	compound	20279_17
+20279_15	has_surface_form	fiction
+20279_13	is_in_sentence	sentence_20279
+20279_13	amod	20279_15
+20279_13	has_surface_form	Indian
+20279_14	is_in_sentence	sentence_20279
+20279_14	compound	20279_15
+20279_14	has_surface_form	science
+20279_16	is_in_sentence	sentence_20279
+20279_16	compound	20279_17
+20279_16	has_surface_form	thriller
+20279_18	is_in_sentence	sentence_20279
+20279_18	acl	20279_17
+20279_18	has_surface_form	starring
+20279_19	is_in_sentence	sentence_20279
+20279_19	compound	20279_20
+20279_19	has_surface_form	Kishore
+20279_19	part_of_entity	Kishore Kumar
+20279_20	is_in_sentence	sentence_20279
+20279_20	dobj	20279_18
+20279_20	has_surface_form	Kumar
+20279_20	part_of_entity	Kishore Kumar
+20279_21	is_in_sentence	sentence_20279
+20279_21	punct	20279_20
+20279_21	has_surface_form	,
+20279_22	is_in_sentence	sentence_20279
+20279_22	conj	20279_20
+20279_22	has_surface_form	Kumkum
+20279_23	is_in_sentence	sentence_20279
+20279_23	cc	20279_22
+20279_23	has_surface_form	and
+20279_24	is_in_sentence	sentence_20279
+20279_24	compound	20279_25
+20279_24	has_surface_form	Madan
+20279_25	is_in_sentence	sentence_20279
+20279_25	conj	20279_22
+20279_25	has_surface_form	Puri
+20279_26	is_in_sentence	sentence_20279
+20279_26	punct	20279_10
+20279_26	has_surface_form	.
+20279_27	is_in_sentence	sentence_20279
+20279_27	dep	20279_10
+20279_27	has_surface_form	
+Mr. X in Bombay	surface_form	Mr. X in Bombay
+Mr. X in Bombay	starring	Kishore Kumar
+Kishore Kumar	surface_form	Kishore Kumar

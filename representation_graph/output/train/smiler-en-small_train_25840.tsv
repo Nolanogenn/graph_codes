@@ -1,0 +1,65 @@
+25839_0	is_in_sentence	sentence_25839
+25839_0	compound	25839_1
+25839_0	has_surface_form	Alfredo
+25839_0	part_of_entity	Alfredo Chávez
+25839_1	is_in_sentence	sentence_25839
+25839_1	nsubj	25839_9
+25839_1	has_surface_form	Chávez
+25839_1	part_of_entity	Alfredo Chávez
+25839_9	is_in_sentence	sentence_25839
+25839_9	ROOT	25839_9
+25839_9	has_surface_form	is
+25839_2	is_in_sentence	sentence_25839
+25839_2	punct	25839_1
+25839_2	has_surface_form	(
+25839_3	is_in_sentence	sentence_25839
+25839_3	acl	25839_1
+25839_3	has_surface_form	born
+25839_4	is_in_sentence	sentence_25839
+25839_4	npadvmod	25839_3
+25839_4	has_surface_form	October
+25839_5	is_in_sentence	sentence_25839
+25839_5	nummod	25839_4
+25839_5	has_surface_form	23
+25839_6	is_in_sentence	sentence_25839
+25839_6	punct	25839_4
+25839_6	has_surface_form	,
+25839_7	is_in_sentence	sentence_25839
+25839_7	nummod	25839_4
+25839_7	has_surface_form	1989
+25839_8	is_in_sentence	sentence_25839
+25839_8	punct	25839_1
+25839_8	has_surface_form	)
+25839_10	is_in_sentence	sentence_25839
+25839_10	det	25839_13
+25839_10	has_surface_form	a
+25839_13	is_in_sentence	sentence_25839
+25839_13	attr	25839_9
+25839_13	has_surface_form	boxer
+25839_11	is_in_sentence	sentence_25839
+25839_11	amod	25839_13
+25839_11	has_surface_form	Mexican
+25839_12	is_in_sentence	sentence_25839
+25839_12	amod	25839_13
+25839_12	has_surface_form	professional
+25839_14	is_in_sentence	sentence_25839
+25839_14	prep	25839_13
+25839_14	has_surface_form	in
+25839_15	is_in_sentence	sentence_25839
+25839_15	det	25839_17
+25839_15	has_surface_form	the
+25839_17	is_in_sentence	sentence_25839
+25839_17	pobj	25839_14
+25839_17	has_surface_form	division
+25839_16	is_in_sentence	sentence_25839
+25839_16	compound	25839_17
+25839_16	is_entity	Welterweight
+Welterweight	surface_form	Welterweight
+25839_18	is_in_sentence	sentence_25839
+25839_18	punct	25839_9
+25839_18	has_surface_form	.
+25839_19	is_in_sentence	sentence_25839
+25839_19	dep	25839_9
+25839_19	has_surface_form	
+Alfredo Chávez	surface_form	Alfredo Chávez
+Alfredo Chávez	has-weight	Welterweight

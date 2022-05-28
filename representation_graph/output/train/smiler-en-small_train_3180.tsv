@@ -1,0 +1,58 @@
+3179_0	is_in_sentence	sentence_3179
+3179_0	compound	3179_1
+3179_0	has_surface_form	Sona
+3179_0	part_of_entity	Sona College of Technology
+3179_1	is_in_sentence	sentence_3179
+3179_1	nsubj	3179_4
+3179_1	has_surface_form	College
+3179_1	part_of_entity	Sona College of Technology
+3179_4	is_in_sentence	sentence_3179
+3179_4	ROOT	3179_4
+3179_4	has_surface_form	is
+3179_2	is_in_sentence	sentence_3179
+3179_2	prep	3179_1
+3179_2	has_surface_form	of
+3179_2	part_of_entity	Sona College of Technology
+3179_3	is_in_sentence	sentence_3179
+3179_3	pobj	3179_2
+3179_3	has_surface_form	Technology
+3179_3	part_of_entity	Sona College of Technology
+3179_5	is_in_sentence	sentence_3179
+3179_5	det	3179_6
+3179_5	has_surface_form	a
+3179_6	is_in_sentence	sentence_3179
+3179_6	attr	3179_4
+3179_6	is_entity	college
+college	surface_form	college
+3179_7	is_in_sentence	sentence_3179
+3179_7	acl	3179_6
+3179_7	has_surface_form	located
+3179_8	is_in_sentence	sentence_3179
+3179_8	prep	3179_7
+3179_8	has_surface_form	in
+3179_9	is_in_sentence	sentence_3179
+3179_9	pobj	3179_8
+3179_9	has_surface_form	Salem
+3179_10	is_in_sentence	sentence_3179
+3179_10	punct	3179_6
+3179_10	has_surface_form	,
+3179_11	is_in_sentence	sentence_3179
+3179_11	compound	3179_12
+3179_11	has_surface_form	Tamil
+3179_12	is_in_sentence	sentence_3179
+3179_12	attr	3179_4
+3179_12	has_surface_form	Nadu
+3179_13	is_in_sentence	sentence_3179
+3179_13	punct	3179_12
+3179_13	has_surface_form	,
+3179_14	is_in_sentence	sentence_3179
+3179_14	npadvmod	3179_12
+3179_14	has_surface_form	India
+3179_15	is_in_sentence	sentence_3179
+3179_15	punct	3179_4
+3179_15	has_surface_form	.
+3179_16	is_in_sentence	sentence_3179
+3179_16	dep	3179_16
+3179_16	has_surface_form	
+Sona College of Technology	surface_form	Sona College of Technology
+Sona College of Technology	has-type	college

@@ -1,0 +1,66 @@
+2900_0	is_in_sentence	sentence_2900
+2900_0	compound	2900_2
+2900_0	has_surface_form	Alison
+2900_0	part_of_entity	Alison Merrilla Redford
+2900_2	is_in_sentence	sentence_2900
+2900_2	nsubj	2900_11
+2900_2	has_surface_form	Redford
+2900_2	part_of_entity	Alison Merrilla Redford
+2900_1	is_in_sentence	sentence_2900
+2900_1	compound	2900_2
+2900_1	has_surface_form	Merrilla
+2900_1	part_of_entity	Alison Merrilla Redford
+2900_11	is_in_sentence	sentence_2900
+2900_11	ROOT	2900_11
+2900_11	has_surface_form	is
+2900_3	is_in_sentence	sentence_2900
+2900_3	punct	2900_2
+2900_3	has_surface_form	,
+2900_4	is_in_sentence	sentence_2900
+2900_4	punct	2900_2
+2900_4	has_surface_form	(
+2900_5	is_in_sentence	sentence_2900
+2900_5	acl	2900_2
+2900_5	has_surface_form	born
+2900_6	is_in_sentence	sentence_2900
+2900_6	npadvmod	2900_5
+2900_6	has_surface_form	March
+2900_7	is_in_sentence	sentence_2900
+2900_7	nummod	2900_6
+2900_7	has_surface_form	7
+2900_8	is_in_sentence	sentence_2900
+2900_8	punct	2900_6
+2900_8	has_surface_form	,
+2900_9	is_in_sentence	sentence_2900
+2900_9	nummod	2900_6
+2900_9	has_surface_form	1965
+2900_10	is_in_sentence	sentence_2900
+2900_10	punct	2900_2
+2900_10	has_surface_form	)
+2900_12	is_in_sentence	sentence_2900
+2900_12	det	2900_14
+2900_12	has_surface_form	a
+2900_14	is_in_sentence	sentence_2900
+2900_14	attr	2900_11
+2900_14	has_surface_form	lawyer
+2900_13	is_in_sentence	sentence_2900
+2900_13	amod	2900_14
+2900_13	is_entity	Canadian
+Canadian	surface_form	Canadian
+2900_15	is_in_sentence	sentence_2900
+2900_15	cc	2900_14
+2900_15	has_surface_form	and
+2900_16	is_in_sentence	sentence_2900
+2900_16	amod	2900_17
+2900_16	has_surface_form	former
+2900_17	is_in_sentence	sentence_2900
+2900_17	conj	2900_14
+2900_17	has_surface_form	politician
+2900_18	is_in_sentence	sentence_2900
+2900_18	punct	2900_11
+2900_18	has_surface_form	.
+2900_19	is_in_sentence	sentence_2900
+2900_19	dep	2900_19
+2900_19	has_surface_form	
+Alison Merrilla Redford	surface_form	Alison Merrilla Redford
+Alison Merrilla Redford	has-nationality	Canadian

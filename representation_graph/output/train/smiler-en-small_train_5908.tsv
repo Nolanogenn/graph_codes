@@ -1,0 +1,91 @@
+5907_0	is_in_sentence	sentence_5907
+5907_0	compound	5907_1
+5907_0	has_surface_form	Akeem
+5907_0	part_of_entity	Akeem Thomas
+5907_1	is_in_sentence	sentence_5907
+5907_1	nsubj	5907_9
+5907_1	has_surface_form	Thomas
+5907_1	part_of_entity	Akeem Thomas
+5907_9	is_in_sentence	sentence_5907
+5907_9	ROOT	5907_9
+5907_9	has_surface_form	is
+5907_2	is_in_sentence	sentence_5907
+5907_2	punct	5907_3
+5907_2	has_surface_form	(
+5907_3	is_in_sentence	sentence_5907
+5907_3	acl	5907_1
+5907_3	has_surface_form	born
+5907_4	is_in_sentence	sentence_5907
+5907_4	npadvmod	5907_3
+5907_4	has_surface_form	January
+5907_5	is_in_sentence	sentence_5907
+5907_5	nummod	5907_4
+5907_5	has_surface_form	5
+5907_6	is_in_sentence	sentence_5907
+5907_6	punct	5907_4
+5907_6	has_surface_form	,
+5907_7	is_in_sentence	sentence_5907
+5907_7	nummod	5907_4
+5907_7	has_surface_form	1990
+5907_8	is_in_sentence	sentence_5907
+5907_8	punct	5907_1
+5907_8	has_surface_form	)
+5907_10	is_in_sentence	sentence_5907
+5907_10	det	5907_12
+5907_10	has_surface_form	an
+5907_12	is_in_sentence	sentence_5907
+5907_12	attr	5907_9
+5907_12	has_surface_form	footballer
+5907_11	is_in_sentence	sentence_5907
+5907_11	compound	5907_12
+5907_11	has_surface_form	Antiguan
+5907_13	is_in_sentence	sentence_5907
+5907_13	nsubj	5907_15
+5907_13	has_surface_form	who
+5907_15	is_in_sentence	sentence_5907
+5907_15	relcl	5907_12
+5907_15	has_surface_form	plays
+5907_14	is_in_sentence	sentence_5907
+5907_14	advmod	5907_15
+5907_14	has_surface_form	currently
+5907_16	is_in_sentence	sentence_5907
+5907_16	prep	5907_15
+5907_16	has_surface_form	for
+5907_17	is_in_sentence	sentence_5907
+5907_17	compound	5907_18
+5907_17	has_surface_form	Caledonia
+5907_17	part_of_entity	Caledonia AIA
+5907_18	is_in_sentence	sentence_5907
+5907_18	pobj	5907_16
+5907_18	has_surface_form	AIA
+5907_18	part_of_entity	Caledonia AIA
+5907_19	is_in_sentence	sentence_5907
+5907_19	cc	5907_18
+5907_19	has_surface_form	and
+5907_20	is_in_sentence	sentence_5907
+5907_20	det	5907_25
+5907_20	has_surface_form	the
+5907_25	is_in_sentence	sentence_5907
+5907_25	conj	5907_18
+5907_25	has_surface_form	team
+5907_21	is_in_sentence	sentence_5907
+5907_21	nmod	5907_25
+5907_21	has_surface_form	Antigua
+5907_22	is_in_sentence	sentence_5907
+5907_22	cc	5907_21
+5907_22	has_surface_form	and
+5907_23	is_in_sentence	sentence_5907
+5907_23	conj	5907_21
+5907_23	has_surface_form	Barbuda
+5907_24	is_in_sentence	sentence_5907
+5907_24	amod	5907_25
+5907_24	has_surface_form	national
+5907_26	is_in_sentence	sentence_5907
+5907_26	punct	5907_9
+5907_26	has_surface_form	.
+5907_27	is_in_sentence	sentence_5907
+5907_27	dep	5907_27
+5907_27	has_surface_form	
+Akeem Thomas	surface_form	Akeem Thomas
+Akeem Thomas	is-member-of	Caledonia AIA
+Caledonia AIA	surface_form	Caledonia AIA

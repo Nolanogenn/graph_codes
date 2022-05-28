@@ -1,0 +1,91 @@
+21866_0	is_in_sentence	sentence_21866
+21866_0	compound	21866_1
+21866_0	has_surface_form	Marana
+21866_0	part_of_entity	Marana Mrudanga
+21866_1	is_in_sentence	sentence_21866
+21866_1	nsubj	21866_8
+21866_1	has_surface_form	Mrudanga
+21866_1	part_of_entity	Marana Mrudanga
+21866_8	is_in_sentence	sentence_21866
+21866_8	ROOT	21866_8
+21866_8	has_surface_form	is
+21866_2	is_in_sentence	sentence_21866
+21866_2	punct	21866_3
+21866_2	has_surface_form	(
+21866_3	is_in_sentence	sentence_21866
+21866_3	appos	21866_1
+21866_3	has_surface_form	Kannada
+21866_4	is_in_sentence	sentence_21866
+21866_4	punct	21866_3
+21866_4	has_surface_form	:
+21866_5	is_in_sentence	sentence_21866
+21866_5	appos	21866_3
+21866_5	has_surface_form	ಮರಣ
+21866_6	is_in_sentence	sentence_21866
+21866_6	appos	21866_5
+21866_6	has_surface_form	ಮೃದಂಗ
+21866_7	is_in_sentence	sentence_21866
+21866_7	punct	21866_5
+21866_7	has_surface_form	)
+21866_9	is_in_sentence	sentence_21866
+21866_9	det	21866_16
+21866_9	has_surface_form	a
+21866_16	is_in_sentence	sentence_21866
+21866_16	attr	21866_8
+21866_16	has_surface_form	film
+21866_10	is_in_sentence	sentence_21866
+21866_10	nummod	21866_16
+21866_10	has_surface_form	1992
+21866_11	is_in_sentence	sentence_21866
+21866_11	nmod	21866_12
+21866_11	has_surface_form	Indian
+21866_12	is_in_sentence	sentence_21866
+21866_12	nmod	21866_16
+21866_12	has_surface_form	Kannada
+21866_13	is_in_sentence	sentence_21866
+21866_13	amod	21866_14
+21866_13	has_surface_form	political
+21866_14	is_in_sentence	sentence_21866
+21866_14	compound	21866_16
+21866_14	has_surface_form	crime
+21866_15	is_in_sentence	sentence_21866
+21866_15	compound	21866_16
+21866_15	has_surface_form	drama
+21866_17	is_in_sentence	sentence_21866
+21866_17	acl	21866_16
+21866_17	has_surface_form	directed
+21866_18	is_in_sentence	sentence_21866
+21866_18	agent	21866_17
+21866_18	has_surface_form	by
+21866_19	is_in_sentence	sentence_21866
+21866_19	compound	21866_20
+21866_19	has_surface_form	B.
+21866_19	part_of_entity	B. Ramamurthy
+21866_20	is_in_sentence	sentence_21866
+21866_20	pobj	21866_18
+21866_20	has_surface_form	Ramamurthy
+21866_20	part_of_entity	B. Ramamurthy
+21866_21	is_in_sentence	sentence_21866
+21866_21	cc	21866_17
+21866_21	has_surface_form	and
+21866_22	is_in_sentence	sentence_21866
+21866_22	conj	21866_17
+21866_22	has_surface_form	written
+21866_23	is_in_sentence	sentence_21866
+21866_23	agent	21866_22
+21866_23	has_surface_form	by
+21866_24	is_in_sentence	sentence_21866
+21866_24	compound	21866_25
+21866_24	has_surface_form	Sainath
+21866_25	is_in_sentence	sentence_21866
+21866_25	pobj	21866_23
+21866_25	has_surface_form	Thotapalli
+21866_26	is_in_sentence	sentence_21866
+21866_26	punct	21866_8
+21866_26	has_surface_form	.
+21866_27	is_in_sentence	sentence_21866
+21866_27	dep	21866_27
+21866_27	has_surface_form	
+Marana Mrudanga	surface_form	Marana Mrudanga
+Marana Mrudanga	movie-has-director	B. Ramamurthy
+B. Ramamurthy	surface_form	B. Ramamurthy

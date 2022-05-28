@@ -1,0 +1,69 @@
+13626_0	is_in_sentence	sentence_13626
+13626_0	compound	13626_2
+13626_0	has_surface_form	California
+13626_0	part_of_entity	California sea lions
+13626_2	is_in_sentence	sentence_13626
+13626_2	nsubj	13626_3
+13626_2	has_surface_form	lions
+13626_2	part_of_entity	California sea lions
+13626_1	is_in_sentence	sentence_13626
+13626_1	compound	13626_2
+13626_1	has_surface_form	sea
+13626_1	part_of_entity	California sea lions
+13626_3	is_in_sentence	sentence_13626
+13626_3	ROOT	13626_3
+13626_3	has_surface_form	feed
+13626_4	is_in_sentence	sentence_13626
+13626_4	prep	13626_3
+13626_4	has_surface_form	on
+13626_5	is_in_sentence	sentence_13626
+13626_5	det	13626_7
+13626_5	has_surface_form	a
+13626_7	is_in_sentence	sentence_13626
+13626_7	pobj	13626_4
+13626_7	has_surface_form	variety
+13626_6	is_in_sentence	sentence_13626
+13626_6	amod	13626_7
+13626_6	has_surface_form	wide
+13626_8	is_in_sentence	sentence_13626
+13626_8	prep	13626_7
+13626_8	has_surface_form	of
+13626_9	is_in_sentence	sentence_13626
+13626_9	pobj	13626_8
+13626_9	is_entity	seafood
+seafood	surface_form	seafood
+13626_10	is_in_sentence	sentence_13626
+13626_10	punct	13626_3
+13626_10	has_surface_form	,
+13626_11	is_in_sentence	sentence_13626
+13626_11	advmod	13626_12
+13626_11	has_surface_form	mainly
+13626_12	is_in_sentence	sentence_13626
+13626_12	appos	13626_2
+13626_12	has_surface_form	squid
+13626_13	is_in_sentence	sentence_13626
+13626_13	cc	13626_12
+13626_13	has_surface_form	and
+13626_14	is_in_sentence	sentence_13626
+13626_14	conj	13626_12
+13626_14	has_surface_form	fish
+13626_15	is_in_sentence	sentence_13626
+13626_15	punct	13626_3
+13626_15	has_surface_form	,
+13626_16	is_in_sentence	sentence_13626
+13626_16	cc	13626_3
+13626_16	has_surface_form	and
+13626_17	is_in_sentence	sentence_13626
+13626_17	advmod	13626_18
+13626_17	has_surface_form	sometimes
+13626_18	is_in_sentence	sentence_13626
+13626_18	conj	13626_3
+13626_18	has_surface_form	clams
+13626_19	is_in_sentence	sentence_13626
+13626_19	punct	13626_18
+13626_19	has_surface_form	.
+13626_20	is_in_sentence	sentence_13626
+13626_20	dep	13626_20
+13626_20	has_surface_form	
+California sea lions	surface_form	California sea lions
+California sea lions	eats	seafood

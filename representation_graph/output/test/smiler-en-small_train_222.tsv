@@ -1,0 +1,52 @@
+221_0	is_in_sentence	sentence_221
+221_0	compound	221_1
+221_0	has_surface_form	Burning
+221_0	part_of_entity	Burning Heads
+221_1	is_in_sentence	sentence_221
+221_1	nsubj	221_2
+221_1	has_surface_form	Heads
+221_1	part_of_entity	Burning Heads
+221_2	is_in_sentence	sentence_221
+221_2	ROOT	221_2
+221_2	has_surface_form	is
+221_3	is_in_sentence	sentence_221
+221_3	det	221_5
+221_3	has_surface_form	a
+221_5	is_in_sentence	sentence_221
+221_5	attr	221_2
+221_5	has_surface_form	rock
+221_5	part_of_entity	punk rock
+221_4	is_in_sentence	sentence_221
+221_4	compound	221_5
+221_4	has_surface_form	punk
+221_4	part_of_entity	punk rock
+221_6	is_in_sentence	sentence_221
+221_6	cc	221_5
+221_6	has_surface_form	and
+221_7	is_in_sentence	sentence_221
+221_7	compound	221_8
+221_7	has_surface_form	reggae
+221_8	is_in_sentence	sentence_221
+221_8	conj	221_5
+221_8	has_surface_form	band
+221_9	is_in_sentence	sentence_221
+221_9	prep	221_5
+221_9	has_surface_form	from
+221_10	is_in_sentence	sentence_221
+221_10	pobj	221_9
+221_10	has_surface_form	Orleans
+221_11	is_in_sentence	sentence_221
+221_11	punct	221_10
+221_11	has_surface_form	,
+221_12	is_in_sentence	sentence_221
+221_12	appos	221_10
+221_12	has_surface_form	France
+221_13	is_in_sentence	sentence_221
+221_13	punct	221_2
+221_13	has_surface_form	.
+221_14	is_in_sentence	sentence_221
+221_14	dep	221_2
+221_14	has_surface_form	
+Burning Heads	surface_form	Burning Heads
+Burning Heads	has-genre	punk rock
+punk rock	surface_form	punk rock

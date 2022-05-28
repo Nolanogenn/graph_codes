@@ -1,0 +1,65 @@
+21425_0	is_in_sentence	sentence_21425
+21425_0	compound	21425_1
+21425_0	has_surface_form	Hades
+21425_0	part_of_entity	Hades Publications
+21425_1	is_in_sentence	sentence_21425
+21425_1	nsubj	21425_2
+21425_1	has_surface_form	Publications
+21425_1	part_of_entity	Hades Publications
+21425_2	is_in_sentence	sentence_21425
+21425_2	ROOT	21425_2
+21425_2	has_surface_form	is
+21425_3	is_in_sentence	sentence_21425
+21425_3	det	21425_5
+21425_3	has_surface_form	a
+21425_5	is_in_sentence	sentence_21425
+21425_5	attr	21425_2
+21425_5	has_surface_form	company
+21425_4	is_in_sentence	sentence_21425
+21425_4	amod	21425_5
+21425_4	has_surface_form	publishing
+21425_6	is_in_sentence	sentence_21425
+21425_6	acl	21425_5
+21425_6	has_surface_form	owned
+21425_7	is_in_sentence	sentence_21425
+21425_7	agent	21425_6
+21425_7	has_surface_form	by
+21425_8	is_in_sentence	sentence_21425
+21425_8	compound	21425_9
+21425_8	has_surface_form	Brian
+21425_9	is_in_sentence	sentence_21425
+21425_9	pobj	21425_7
+21425_9	has_surface_form	Hades
+21425_10	is_in_sentence	sentence_21425
+21425_10	nsubj	21425_11
+21425_10	has_surface_form	that
+21425_11	is_in_sentence	sentence_21425
+21425_11	relcl	21425_5
+21425_11	has_surface_form	focuses
+21425_12	is_in_sentence	sentence_21425
+21425_12	prep	21425_11
+21425_12	has_surface_form	on
+21425_13	is_in_sentence	sentence_21425
+21425_13	nmod	21425_14
+21425_13	has_surface_form	Science
+21425_14	is_in_sentence	sentence_21425
+21425_14	nmod	21425_17
+21425_14	has_surface_form	Fiction
+21425_17	is_in_sentence	sentence_21425
+21425_17	pobj	21425_12
+21425_17	has_surface_form	literature
+21425_15	is_in_sentence	sentence_21425
+21425_15	cc	21425_14
+21425_15	has_surface_form	and
+21425_16	is_in_sentence	sentence_21425
+21425_16	conj	21425_14
+21425_16	is_entity	Fantasy
+Fantasy	surface_form	Fantasy
+21425_18	is_in_sentence	sentence_21425
+21425_18	punct	21425_2
+21425_18	has_surface_form	.
+21425_19	is_in_sentence	sentence_21425
+21425_19	dep	21425_19
+21425_19	has_surface_form	
+Hades Publications	surface_form	Hades Publications
+Hades Publications	has-genre	Fantasy

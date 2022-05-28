@@ -1,0 +1,62 @@
+3780_0	is_in_sentence	sentence_3780
+3780_0	ROOT	3780_0
+3780_0	has_surface_form	Concerning
+3780_1	is_in_sentence	sentence_3780
+3780_1	det	3780_2
+3780_1	has_surface_form	the
+3780_2	is_in_sentence	sentence_3780
+3780_2	pobj	3780_0
+3780_2	has_surface_form	meeting
+3780_3	is_in_sentence	sentence_3780
+3780_3	prep	3780_2
+3780_3	has_surface_form	of
+3780_4	is_in_sentence	sentence_3780
+3780_4	compound	3780_5
+3780_4	has_surface_form	Ole
+3780_5	is_in_sentence	sentence_3780
+3780_5	pobj	3780_3
+3780_5	has_surface_form	Bull
+3780_6	is_in_sentence	sentence_3780
+3780_6	cc	3780_5
+3780_6	has_surface_form	and
+3780_7	is_in_sentence	sentence_3780
+3780_7	conj	3780_5
+3780_7	is_entity	Myllarguten
+Myllarguten	surface_form	Myllarguten
+3780_8	is_in_sentence	sentence_3780
+3780_8	punct	3780_5
+3780_8	has_surface_form	:
+3780_9	is_in_sentence	sentence_3780
+3780_9	acl	3780_5
+3780_9	has_surface_form	rendered
+3780_10	is_in_sentence	sentence_3780
+3780_10	agent	3780_9
+3780_10	has_surface_form	by
+3780_11	is_in_sentence	sentence_3780
+3780_11	compound	3780_12
+3780_11	has_surface_form	Gregar
+3780_11	part_of_entity	Gregar Torgeirsson
+3780_12	is_in_sentence	sentence_3780
+3780_12	pobj	3780_10
+3780_12	has_surface_form	Torgeirsson
+3780_12	part_of_entity	Gregar Torgeirsson
+3780_13	is_in_sentence	sentence_3780
+3780_13	punct	3780_12
+3780_13	has_surface_form	,
+3780_14	is_in_sentence	sentence_3780
+3780_14	poss	3780_16
+3780_14	is_entity	Myllarguten
+3780_16	is_in_sentence	sentence_3780
+3780_16	appos	3780_12
+3780_16	has_surface_form	son
+3780_15	is_in_sentence	sentence_3780
+3780_15	case	3780_14
+3780_15	has_surface_form	's
+3780_17	is_in_sentence	sentence_3780
+3780_17	punct	3780_0
+3780_17	has_surface_form	.
+3780_18	is_in_sentence	sentence_3780
+3780_18	dep	3780_18
+3780_18	has_surface_form	
+Gregar Torgeirsson	surface_form	Gregar Torgeirsson
+Gregar Torgeirsson	has-parent	Myllarguten

@@ -1,0 +1,58 @@
+10399_0	is_in_sentence	sentence_10399
+10399_0	compound	10399_1
+10399_0	has_surface_form	Jim
+10399_0	part_of_entity	Jim Parsons
+10399_1	is_in_sentence	sentence_10399
+10399_1	nsubjpass	10399_3
+10399_1	has_surface_form	Parsons
+10399_1	part_of_entity	Jim Parsons
+10399_3	is_in_sentence	sentence_10399
+10399_3	ROOT	10399_3
+10399_3	has_surface_form	born
+10399_2	is_in_sentence	sentence_10399
+10399_2	auxpass	10399_3
+10399_2	has_surface_form	was
+10399_4	is_in_sentence	sentence_10399
+10399_4	prep	10399_3
+10399_4	has_surface_form	at
+10399_5	is_in_sentence	sentence_10399
+10399_5	pobj	10399_4
+10399_5	has_surface_form	St.
+10399_6	is_in_sentence	sentence_10399
+10399_6	poss	10399_7
+10399_6	has_surface_form	His
+10399_7	is_in_sentence	sentence_10399
+10399_7	appos	10399_5
+10399_7	has_surface_form	sister
+10399_8	is_in_sentence	sentence_10399
+10399_8	compound	10399_10
+10399_8	has_surface_form	Julie
+10399_8	part_of_entity	Julie Ann
+10399_10	is_in_sentence	sentence_10399
+10399_10	appos	10399_7
+10399_10	has_surface_form	Parsons
+10399_9	is_in_sentence	sentence_10399
+10399_9	compound	10399_10
+10399_9	has_surface_form	Ann
+10399_9	part_of_entity	Julie Ann
+10399_11	is_in_sentence	sentence_10399
+10399_11	conj	10399_3
+10399_11	has_surface_form	is
+10399_12	is_in_sentence	sentence_10399
+10399_12	advmod	10399_11
+10399_12	has_surface_form	also
+10399_13	is_in_sentence	sentence_10399
+10399_13	det	10399_14
+10399_13	has_surface_form	a
+10399_14	is_in_sentence	sentence_10399
+10399_14	attr	10399_11
+10399_14	has_surface_form	teacher
+10399_15	is_in_sentence	sentence_10399
+10399_15	punct	10399_11
+10399_15	has_surface_form	.
+10399_16	is_in_sentence	sentence_10399
+10399_16	dep	10399_16
+10399_16	has_surface_form	
+Jim Parsons	surface_form	Jim Parsons
+Jim Parsons	has-sibling	Julie Ann
+Julie Ann	surface_form	Julie Ann

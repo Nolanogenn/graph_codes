@@ -1,0 +1,77 @@
+8093_0	is_in_sentence	sentence_8093
+8093_0	nmod	8093_2
+8093_0	has_surface_form	Léon
+8093_0	part_of_entity	Léon la lune
+8093_2	is_in_sentence	sentence_8093
+8093_2	dep	8093_10
+8093_2	has_surface_form	lune
+8093_2	part_of_entity	Léon la lune
+8093_1	is_in_sentence	sentence_8093
+8093_1	prep	8093_0
+8093_1	has_surface_form	la
+8093_1	part_of_entity	Léon la lune
+8093_10	is_in_sentence	sentence_8093
+8093_10	ROOT	8093_10
+8093_10	has_surface_form	is
+8093_3	is_in_sentence	sentence_8093
+8093_3	punct	8093_4
+8093_3	has_surface_form	(
+8093_4	is_in_sentence	sentence_8093
+8093_4	appos	8093_2
+8093_4	has_surface_form	English
+8093_5	is_in_sentence	sentence_8093
+8093_5	punct	8093_4
+8093_5	has_surface_form	:
+8093_6	is_in_sentence	sentence_8093
+8093_6	nsubj	8093_10
+8093_6	has_surface_form	Leon
+8093_7	is_in_sentence	sentence_8093
+8093_7	det	8093_8
+8093_7	has_surface_form	the
+8093_8	is_in_sentence	sentence_8093
+8093_8	appos	8093_6
+8093_8	has_surface_form	Moon
+8093_9	is_in_sentence	sentence_8093
+8093_9	punct	8093_6
+8093_9	has_surface_form	)
+8093_11	is_in_sentence	sentence_8093
+8093_11	det	8093_16
+8093_11	has_surface_form	a
+8093_16	is_in_sentence	sentence_8093
+8093_16	attr	8093_10
+8093_16	has_surface_form	film
+8093_12	is_in_sentence	sentence_8093
+8093_12	nummod	8093_16
+8093_12	has_surface_form	1956
+8093_13	is_in_sentence	sentence_8093
+8093_13	amod	8093_16
+8093_13	has_surface_form	French
+8093_14	is_in_sentence	sentence_8093
+8093_14	amod	8093_15
+8093_14	has_surface_form	short
+8093_15	is_in_sentence	sentence_8093
+8093_15	compound	8093_16
+8093_15	has_surface_form	documentary
+8093_17	is_in_sentence	sentence_8093
+8093_17	acl	8093_16
+8093_17	has_surface_form	directed
+8093_18	is_in_sentence	sentence_8093
+8093_18	agent	8093_17
+8093_18	has_surface_form	by
+8093_19	is_in_sentence	sentence_8093
+8093_19	compound	8093_20
+8093_19	has_surface_form	Alain
+8093_19	part_of_entity	Alain Jessua
+8093_20	is_in_sentence	sentence_8093
+8093_20	pobj	8093_18
+8093_20	has_surface_form	Jessua
+8093_20	part_of_entity	Alain Jessua
+8093_21	is_in_sentence	sentence_8093
+8093_21	punct	8093_10
+8093_21	has_surface_form	.
+8093_22	is_in_sentence	sentence_8093
+8093_22	dep	8093_22
+8093_22	has_surface_form	
+Léon la lune	surface_form	Léon la lune
+Léon la lune	movie-has-director	Alain Jessua
+Alain Jessua	surface_form	Alain Jessua

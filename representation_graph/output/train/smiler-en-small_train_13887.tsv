@@ -1,0 +1,72 @@
+13886_0	is_in_sentence	sentence_13886
+13886_0	compound	13886_1
+13886_0	has_surface_form	John
+13886_0	part_of_entity	John Paul the Great Catholic University
+13886_1	is_in_sentence	sentence_13886
+13886_1	nsubj	13886_9
+13886_1	has_surface_form	Paul
+13886_1	part_of_entity	John Paul the Great Catholic University
+13886_9	is_in_sentence	sentence_13886
+13886_9	ROOT	13886_9
+13886_9	has_surface_form	is
+13886_2	is_in_sentence	sentence_13886
+13886_2	det	13886_7
+13886_2	has_surface_form	the
+13886_2	part_of_entity	John Paul the Great Catholic University
+13886_7	is_in_sentence	sentence_13886
+13886_7	appos	13886_1
+13886_7	has_surface_form	JPCatholic
+13886_3	is_in_sentence	sentence_13886
+13886_3	compound	13886_5
+13886_3	has_surface_form	Great
+13886_3	part_of_entity	John Paul the Great Catholic University
+13886_5	is_in_sentence	sentence_13886
+13886_5	nmod	13886_7
+13886_5	has_surface_form	University
+13886_5	part_of_entity	John Paul the Great Catholic University
+13886_4	is_in_sentence	sentence_13886
+13886_4	compound	13886_5
+13886_4	has_surface_form	Catholic
+13886_4	part_of_entity	John Paul the Great Catholic University
+13886_6	is_in_sentence	sentence_13886
+13886_6	punct	13886_7
+13886_6	has_surface_form	(
+13886_8	is_in_sentence	sentence_13886
+13886_8	punct	13886_7
+13886_8	has_surface_form	)
+13886_10	is_in_sentence	sentence_13886
+13886_10	det	13886_14
+13886_10	has_surface_form	a
+13886_14	is_in_sentence	sentence_13886
+13886_14	attr	13886_9
+13886_14	has_surface_form	university
+13886_11	is_in_sentence	sentence_13886
+13886_11	amod	13886_14
+13886_11	has_surface_form	private
+13886_12	is_in_sentence	sentence_13886
+13886_12	compound	13886_13
+13886_12	has_surface_form	Roman
+13886_13	is_in_sentence	sentence_13886
+13886_13	compound	13886_14
+13886_13	has_surface_form	Catholic
+13886_15	is_in_sentence	sentence_13886
+13886_15	prep	13886_14
+13886_15	has_surface_form	in
+13886_16	is_in_sentence	sentence_13886
+13886_16	pobj	13886_15
+13886_16	has_surface_form	Escondido
+13886_17	is_in_sentence	sentence_13886
+13886_17	punct	13886_16
+13886_17	has_surface_form	,
+13886_18	is_in_sentence	sentence_13886
+13886_18	appos	13886_16
+13886_18	has_surface_form	California
+13886_19	is_in_sentence	sentence_13886
+13886_19	punct	13886_9
+13886_19	has_surface_form	.
+13886_20	is_in_sentence	sentence_13886
+13886_20	dep	13886_20
+13886_20	has_surface_form	
+John Paul the Great Catholic University	surface_form	John Paul the Great Catholic University
+John Paul the Great Catholic University	is-where	Escondido, California
+Escondido, California	surface_form	Escondido, California

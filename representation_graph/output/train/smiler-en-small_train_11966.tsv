@@ -1,0 +1,89 @@
+11965_0	is_in_sentence	sentence_11965
+11965_0	compound	11965_1
+11965_0	has_surface_form	Aidin
+11965_0	part_of_entity	Aidin Elmi
+11965_1	is_in_sentence	sentence_11965
+11965_1	nsubj	11965_9
+11965_1	has_surface_form	Elmi
+11965_1	part_of_entity	Aidin Elmi
+11965_9	is_in_sentence	sentence_11965
+11965_9	ROOT	11965_9
+11965_9	has_surface_form	is
+11965_2	is_in_sentence	sentence_11965
+11965_2	punct	11965_1
+11965_2	has_surface_form	(
+11965_3	is_in_sentence	sentence_11965
+11965_3	acl	11965_1
+11965_3	has_surface_form	born
+11965_4	is_in_sentence	sentence_11965
+11965_4	npadvmod	11965_3
+11965_4	has_surface_form	June
+11965_5	is_in_sentence	sentence_11965
+11965_5	nummod	11965_4
+11965_5	has_surface_form	13
+11965_6	is_in_sentence	sentence_11965
+11965_6	punct	11965_4
+11965_6	has_surface_form	,
+11965_7	is_in_sentence	sentence_11965
+11965_7	nummod	11965_4
+11965_7	has_surface_form	1986
+11965_8	is_in_sentence	sentence_11965
+11965_8	punct	11965_1
+11965_8	has_surface_form	)
+11965_10	is_in_sentence	sentence_11965
+11965_10	det	11965_12
+11965_10	has_surface_form	an
+11965_12	is_in_sentence	sentence_11965
+11965_12	attr	11965_9
+11965_12	has_surface_form	footballer
+11965_11	is_in_sentence	sentence_11965
+11965_11	amod	11965_12
+11965_11	has_surface_form	Indonesian
+11965_13	is_in_sentence	sentence_11965
+11965_13	nsubj	11965_15
+11965_13	has_surface_form	who
+11965_15	is_in_sentence	sentence_11965
+11965_15	relcl	11965_12
+11965_15	has_surface_form	plays
+11965_14	is_in_sentence	sentence_11965
+11965_14	advmod	11965_15
+11965_14	has_surface_form	currently
+11965_16	is_in_sentence	sentence_11965
+11965_16	prep	11965_15
+11965_16	has_surface_form	for
+11965_17	is_in_sentence	sentence_11965
+11965_17	compound	11965_19
+11965_17	has_surface_form	Persiram
+11965_17	part_of_entity	Persiram Raja Ampat
+11965_19	is_in_sentence	sentence_11965
+11965_19	pobj	11965_16
+11965_19	has_surface_form	Ampat
+11965_19	part_of_entity	Persiram Raja Ampat
+11965_18	is_in_sentence	sentence_11965
+11965_18	compound	11965_19
+11965_18	has_surface_form	Raja
+11965_18	part_of_entity	Persiram Raja Ampat
+11965_20	is_in_sentence	sentence_11965
+11965_20	prep	11965_19
+11965_20	has_surface_form	in
+11965_21	is_in_sentence	sentence_11965
+11965_21	det	11965_24
+11965_21	has_surface_form	the
+11965_24	is_in_sentence	sentence_11965
+11965_24	pobj	11965_20
+11965_24	has_surface_form	League
+11965_22	is_in_sentence	sentence_11965
+11965_22	compound	11965_24
+11965_22	has_surface_form	Indonesia
+11965_23	is_in_sentence	sentence_11965
+11965_23	compound	11965_24
+11965_23	has_surface_form	Super
+11965_25	is_in_sentence	sentence_11965
+11965_25	punct	11965_9
+11965_25	has_surface_form	.
+11965_26	is_in_sentence	sentence_11965
+11965_26	dep	11965_9
+11965_26	has_surface_form	
+Aidin Elmi	surface_form	Aidin Elmi
+Aidin Elmi	is-member-of	Persiram Raja Ampat
+Persiram Raja Ampat	surface_form	Persiram Raja Ampat

@@ -1,0 +1,101 @@
+3838_0	is_in_sentence	sentence_3838
+3838_0	nsubj	3838_10
+3838_0	has_surface_form	Jacques
+3838_0	part_of_entity	Jacques and Jacotte
+3838_10	is_in_sentence	sentence_3838
+3838_10	ROOT	3838_10
+3838_10	has_surface_form	is
+3838_1	is_in_sentence	sentence_3838
+3838_1	cc	3838_0
+3838_1	has_surface_form	and
+3838_1	part_of_entity	Jacques and Jacotte
+3838_2	is_in_sentence	sentence_3838
+3838_2	conj	3838_0
+3838_2	has_surface_form	Jacotte
+3838_2	part_of_entity	Jacques and Jacotte
+3838_3	is_in_sentence	sentence_3838
+3838_3	punct	3838_4
+3838_3	has_surface_form	(
+3838_4	is_in_sentence	sentence_3838
+3838_4	appos	3838_0
+3838_4	has_surface_form	French
+3838_5	is_in_sentence	sentence_3838
+3838_5	punct	3838_0
+3838_5	has_surface_form	:
+3838_6	is_in_sentence	sentence_3838
+3838_6	compound	3838_8
+3838_6	has_surface_form	Jacques
+3838_8	is_in_sentence	sentence_3838
+3838_8	appos	3838_0
+3838_8	has_surface_form	Jacotte
+3838_7	is_in_sentence	sentence_3838
+3838_7	compound	3838_8
+3838_7	has_surface_form	et
+3838_9	is_in_sentence	sentence_3838
+3838_9	punct	3838_0
+3838_9	has_surface_form	)
+3838_11	is_in_sentence	sentence_3838
+3838_11	det	3838_15
+3838_11	has_surface_form	a
+3838_15	is_in_sentence	sentence_3838
+3838_15	attr	3838_10
+3838_15	has_surface_form	film
+3838_12	is_in_sentence	sentence_3838
+3838_12	nummod	3838_15
+3838_12	has_surface_form	1936
+3838_13	is_in_sentence	sentence_3838
+3838_13	amod	3838_15
+3838_13	has_surface_form	French
+3838_14	is_in_sentence	sentence_3838
+3838_14	compound	3838_15
+3838_14	has_surface_form	comedy
+3838_16	is_in_sentence	sentence_3838
+3838_16	acl	3838_15
+3838_16	has_surface_form	directed
+3838_17	is_in_sentence	sentence_3838
+3838_17	agent	3838_16
+3838_17	has_surface_form	by
+3838_18	is_in_sentence	sentence_3838
+3838_18	compound	3838_19
+3838_18	has_surface_form	Robert
+3838_18	part_of_entity	Robert Péguy
+3838_19	is_in_sentence	sentence_3838
+3838_19	pobj	3838_17
+3838_19	has_surface_form	Péguy
+3838_19	part_of_entity	Robert Péguy
+3838_20	is_in_sentence	sentence_3838
+3838_20	cc	3838_16
+3838_20	has_surface_form	and
+3838_21	is_in_sentence	sentence_3838
+3838_21	conj	3838_16
+3838_21	has_surface_form	starring
+3838_22	is_in_sentence	sentence_3838
+3838_22	compound	3838_23
+3838_22	has_surface_form	Roger
+3838_23	is_in_sentence	sentence_3838
+3838_23	dobj	3838_21
+3838_23	has_surface_form	Tréville
+3838_24	is_in_sentence	sentence_3838
+3838_24	punct	3838_23
+3838_24	has_surface_form	,
+3838_25	is_in_sentence	sentence_3838
+3838_25	conj	3838_23
+3838_25	has_surface_form	Jacotte
+3838_26	is_in_sentence	sentence_3838
+3838_26	cc	3838_25
+3838_26	has_surface_form	and
+3838_27	is_in_sentence	sentence_3838
+3838_27	compound	3838_28
+3838_27	has_surface_form	Germaine
+3838_28	is_in_sentence	sentence_3838
+3838_28	conj	3838_25
+3838_28	has_surface_form	Roger
+3838_29	is_in_sentence	sentence_3838
+3838_29	punct	3838_10
+3838_29	has_surface_form	.
+3838_30	is_in_sentence	sentence_3838
+3838_30	dep	3838_10
+3838_30	has_surface_form	
+Jacques and Jacotte	surface_form	Jacques and Jacotte
+Jacques and Jacotte	movie-has-director	Robert Péguy
+Robert Péguy	surface_form	Robert Péguy

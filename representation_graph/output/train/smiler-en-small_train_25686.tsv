@@ -1,0 +1,82 @@
+25685_0	is_in_sentence	sentence_25685
+25685_0	compound	25685_1
+25685_0	has_surface_form	Milwaukee
+25685_0	part_of_entity	Milwaukee Area Technical College
+25685_1	is_in_sentence	sentence_25685
+25685_1	compound	25685_3
+25685_1	has_surface_form	Area
+25685_1	part_of_entity	Milwaukee Area Technical College
+25685_3	is_in_sentence	sentence_25685
+25685_3	nsubj	25685_8
+25685_3	has_surface_form	College
+25685_3	part_of_entity	Milwaukee Area Technical College
+25685_2	is_in_sentence	sentence_25685
+25685_2	compound	25685_3
+25685_2	has_surface_form	Technical
+25685_2	part_of_entity	Milwaukee Area Technical College
+25685_8	is_in_sentence	sentence_25685
+25685_8	ROOT	25685_8
+25685_8	has_surface_form	is
+25685_4	is_in_sentence	sentence_25685
+25685_4	punct	25685_3
+25685_4	has_surface_form	(
+25685_5	is_in_sentence	sentence_25685
+25685_5	cc	25685_3
+25685_5	has_surface_form	or
+25685_6	is_in_sentence	sentence_25685
+25685_6	conj	25685_3
+25685_6	has_surface_form	MATC
+25685_7	is_in_sentence	sentence_25685
+25685_7	punct	25685_6
+25685_7	has_surface_form	)
+25685_9	is_in_sentence	sentence_25685
+25685_9	det	25685_17
+25685_9	has_surface_form	a
+25685_17	is_in_sentence	sentence_25685
+25685_17	attr	25685_8
+25685_17	has_surface_form	college
+25685_10	is_in_sentence	sentence_25685
+25685_10	amod	25685_17
+25685_10	has_surface_form	public
+25685_11	is_in_sentence	sentence_25685
+25685_11	nummod	25685_13
+25685_11	has_surface_form	two
+25685_13	is_in_sentence	sentence_25685
+25685_13	nmod	25685_17
+25685_13	has_surface_form	year
+25685_12	is_in_sentence	sentence_25685
+25685_12	punct	25685_13
+25685_12	has_surface_form	-
+25685_14	is_in_sentence	sentence_25685
+25685_14	amod	25685_16
+25685_14	has_surface_form	vocational
+25685_16	is_in_sentence	sentence_25685
+25685_16	amod	25685_17
+25685_16	has_surface_form	technical
+25685_15	is_in_sentence	sentence_25685
+25685_15	punct	25685_16
+25685_15	has_surface_form	-
+25685_18	is_in_sentence	sentence_25685
+25685_18	acl	25685_17
+25685_18	has_surface_form	based
+25685_19	is_in_sentence	sentence_25685
+25685_19	prep	25685_18
+25685_19	has_surface_form	in
+25685_20	is_in_sentence	sentence_25685
+25685_20	pobj	25685_19
+25685_20	has_surface_form	Milwaukee
+25685_21	is_in_sentence	sentence_25685
+25685_21	punct	25685_20
+25685_21	has_surface_form	,
+25685_22	is_in_sentence	sentence_25685
+25685_22	appos	25685_20
+25685_22	has_surface_form	Wisconsin
+25685_23	is_in_sentence	sentence_25685
+25685_23	punct	25685_8
+25685_23	has_surface_form	.
+25685_24	is_in_sentence	sentence_25685
+25685_24	dep	25685_8
+25685_24	has_surface_form	
+Milwaukee Area Technical College	surface_form	Milwaukee Area Technical College
+Milwaukee Area Technical College	is-where	Milwaukee, Wisconsin
+Milwaukee, Wisconsin	surface_form	Milwaukee, Wisconsin

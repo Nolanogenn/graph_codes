@@ -1,0 +1,76 @@
+21819_0	is_in_sentence	sentence_21819
+21819_0	compound	21819_1
+21819_0	has_surface_form	Akito
+21819_0	part_of_entity	Akito Fukumori
+21819_1	is_in_sentence	sentence_21819
+21819_1	nsubj	21819_12
+21819_1	has_surface_form	Fukumori
+21819_1	part_of_entity	Akito Fukumori
+21819_12	is_in_sentence	sentence_21819
+21819_12	ROOT	21819_12
+21819_12	has_surface_form	is
+21819_2	is_in_sentence	sentence_21819
+21819_2	punct	21819_4
+21819_2	has_surface_form	(
+21819_4	is_in_sentence	sentence_21819
+21819_4	appos	21819_1
+21819_4	has_surface_form	晃斗
+21819_3	is_in_sentence	sentence_21819
+21819_3	compound	21819_4
+21819_3	has_surface_form	福森
+21819_5	is_in_sentence	sentence_21819
+21819_5	punct	21819_4
+21819_5	has_surface_form	,
+21819_6	is_in_sentence	sentence_21819
+21819_6	acl	21819_4
+21819_6	has_surface_form	born
+21819_7	is_in_sentence	sentence_21819
+21819_7	npadvmod	21819_6
+21819_7	has_surface_form	December
+21819_8	is_in_sentence	sentence_21819
+21819_8	nummod	21819_7
+21819_8	has_surface_form	16
+21819_9	is_in_sentence	sentence_21819
+21819_9	punct	21819_7
+21819_9	has_surface_form	,
+21819_10	is_in_sentence	sentence_21819
+21819_10	nummod	21819_7
+21819_10	has_surface_form	1992
+21819_11	is_in_sentence	sentence_21819
+21819_11	punct	21819_4
+21819_11	has_surface_form	)
+21819_13	is_in_sentence	sentence_21819
+21819_13	det	21819_16
+21819_13	has_surface_form	a
+21819_16	is_in_sentence	sentence_21819
+21819_16	attr	21819_12
+21819_16	has_surface_form	player
+21819_14	is_in_sentence	sentence_21819
+21819_14	amod	21819_16
+21819_14	has_surface_form	Japanese
+21819_15	is_in_sentence	sentence_21819
+21819_15	compound	21819_16
+21819_15	has_surface_form	football
+21819_17	is_in_sentence	sentence_21819
+21819_17	prep	21819_16
+21819_17	has_surface_form	for
+21819_18	is_in_sentence	sentence_21819
+21819_18	compound	21819_20
+21819_18	has_surface_form	Hokkaido
+21819_20	is_in_sentence	sentence_21819
+21819_20	pobj	21819_17
+21819_20	has_surface_form	Sapporo
+21819_20	part_of_entity	Consadole Sapporo
+21819_19	is_in_sentence	sentence_21819
+21819_19	compound	21819_20
+21819_19	has_surface_form	Consadole
+21819_19	part_of_entity	Consadole Sapporo
+21819_21	is_in_sentence	sentence_21819
+21819_21	punct	21819_12
+21819_21	has_surface_form	.
+21819_22	is_in_sentence	sentence_21819
+21819_22	dep	21819_22
+21819_22	has_surface_form	
+Akito Fukumori	surface_form	Akito Fukumori
+Akito Fukumori	is-member-of	Consadole Sapporo
+Consadole Sapporo	surface_form	Consadole Sapporo

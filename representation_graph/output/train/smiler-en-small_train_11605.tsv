@@ -1,0 +1,85 @@
+11604_0	is_in_sentence	sentence_11604
+11604_0	compound	11604_1
+11604_0	has_surface_form	Joe
+11604_0	part_of_entity	Joe Dakota
+11604_1	is_in_sentence	sentence_11604
+11604_1	ROOT	11604_1
+11604_1	has_surface_form	Dakota
+11604_1	part_of_entity	Joe Dakota
+11604_2	is_in_sentence	sentence_11604
+11604_2	punct	11604_4
+11604_2	has_surface_form	(
+11604_4	is_in_sentence	sentence_11604
+11604_4	parataxis	11604_1
+11604_4	has_surface_form	known
+11604_3	is_in_sentence	sentence_11604
+11604_3	advmod	11604_4
+11604_3	has_surface_form	also
+11604_5	is_in_sentence	sentence_11604
+11604_5	prep	11604_4
+11604_5	has_surface_form	as
+11604_6	is_in_sentence	sentence_11604
+11604_6	compound	11604_7
+11604_6	has_surface_form	Spara
+11604_7	is_in_sentence	sentence_11604
+11604_7	pobj	11604_5
+11604_7	has_surface_form	Joe
+11604_8	is_in_sentence	sentence_11604
+11604_8	punct	11604_4
+11604_8	has_surface_form	.
+11604_9	is_in_sentence	sentence_11604
+11604_9	nsubj	11604_10
+11604_9	has_surface_form	e
+11604_10	is_in_sentence	sentence_11604
+11604_10	ROOT	11604_10
+11604_10	has_surface_form	così
+11604_11	is_in_sentence	sentence_11604
+11604_11	dobj	11604_10
+11604_11	has_surface_form	sia
+11604_12	is_in_sentence	sentence_11604
+11604_12	punct	11604_10
+11604_12	has_surface_form	!
+11604_13	is_in_sentence	sentence_11604
+11604_13	punct	11604_10
+11604_13	has_surface_form	)
+11604_14	is_in_sentence	sentence_11604
+11604_14	ROOT	11604_14
+11604_14	has_surface_form	is
+11604_15	is_in_sentence	sentence_11604
+11604_15	det	11604_19
+11604_15	has_surface_form	a
+11604_19	is_in_sentence	sentence_11604
+11604_19	attr	11604_14
+11604_19	has_surface_form	film
+11604_16	is_in_sentence	sentence_11604
+11604_16	nummod	11604_19
+11604_16	has_surface_form	1972
+11604_17	is_in_sentence	sentence_11604
+11604_17	nmod	11604_19
+11604_17	has_surface_form	Spaghetti
+11604_18	is_in_sentence	sentence_11604
+11604_18	amod	11604_19
+11604_18	has_surface_form	Western
+11604_20	is_in_sentence	sentence_11604
+11604_20	acl	11604_19
+11604_20	has_surface_form	directed
+11604_21	is_in_sentence	sentence_11604
+11604_21	agent	11604_20
+11604_21	has_surface_form	by
+11604_22	is_in_sentence	sentence_11604
+11604_22	compound	11604_23
+11604_22	has_surface_form	Emilio
+11604_22	part_of_entity	Emilio Miraglia
+11604_23	is_in_sentence	sentence_11604
+11604_23	pobj	11604_21
+11604_23	has_surface_form	Miraglia
+11604_23	part_of_entity	Emilio Miraglia
+11604_24	is_in_sentence	sentence_11604
+11604_24	punct	11604_14
+11604_24	has_surface_form	.
+11604_25	is_in_sentence	sentence_11604
+11604_25	dep	11604_25
+11604_25	has_surface_form	
+Joe Dakota	surface_form	Joe Dakota
+Joe Dakota	movie-has-director	Emilio Miraglia
+Emilio Miraglia	surface_form	Emilio Miraglia

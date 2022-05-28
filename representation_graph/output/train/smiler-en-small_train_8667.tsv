@@ -1,0 +1,75 @@
+8666_0	is_in_sentence	sentence_8666
+8666_0	compound	8666_1
+8666_0	has_surface_form	Juniper
+8666_0	part_of_entity	Juniper Networks
+8666_1	is_in_sentence	sentence_8666
+8666_1	poss	8666_4
+8666_1	has_surface_form	Networks
+8666_1	part_of_entity	Juniper Networks
+8666_4	is_in_sentence	sentence_8666
+8666_4	nsubj	8666_5
+8666_4	has_surface_form	product
+8666_2	is_in_sentence	sentence_8666
+8666_2	case	8666_1
+8666_2	has_surface_form	'
+8666_3	is_in_sentence	sentence_8666
+8666_3	amod	8666_4
+8666_3	has_surface_form	first
+8666_5	is_in_sentence	sentence_8666
+8666_5	ROOT	8666_5
+8666_5	has_surface_form	was
+8666_6	is_in_sentence	sentence_8666
+8666_6	det	8666_10
+8666_6	has_surface_form	the
+8666_10	is_in_sentence	sentence_8666
+8666_10	attr	8666_5
+8666_10	has_surface_form	system
+8666_10	part_of_entity	Junos router operating system
+8666_7	is_in_sentence	sentence_8666
+8666_7	compound	8666_8
+8666_7	has_surface_form	Junos
+8666_7	part_of_entity	Junos router operating system
+8666_8	is_in_sentence	sentence_8666
+8666_8	compound	8666_10
+8666_8	has_surface_form	router
+8666_8	part_of_entity	Junos router operating system
+8666_9	is_in_sentence	sentence_8666
+8666_9	compound	8666_10
+8666_9	has_surface_form	operating
+8666_9	part_of_entity	Junos router operating system
+8666_11	is_in_sentence	sentence_8666
+8666_11	punct	8666_10
+8666_11	has_surface_form	,
+8666_12	is_in_sentence	sentence_8666
+8666_12	nsubjpass	8666_14
+8666_12	has_surface_form	which
+8666_14	is_in_sentence	sentence_8666
+8666_14	relcl	8666_10
+8666_14	has_surface_form	released
+8666_13	is_in_sentence	sentence_8666
+8666_13	auxpass	8666_14
+8666_13	has_surface_form	was
+8666_15	is_in_sentence	sentence_8666
+8666_15	prep	8666_14
+8666_15	has_surface_form	on
+8666_16	is_in_sentence	sentence_8666
+8666_16	pobj	8666_15
+8666_16	has_surface_form	July
+8666_17	is_in_sentence	sentence_8666
+8666_17	nummod	8666_16
+8666_17	has_surface_form	1
+8666_18	is_in_sentence	sentence_8666
+8666_18	punct	8666_16
+8666_18	has_surface_form	,
+8666_19	is_in_sentence	sentence_8666
+8666_19	nummod	8666_16
+8666_19	has_surface_form	1998
+8666_20	is_in_sentence	sentence_8666
+8666_20	punct	8666_5
+8666_20	has_surface_form	.
+8666_21	is_in_sentence	sentence_8666
+8666_21	dep	8666_21
+8666_21	has_surface_form	
+Juniper Networks	surface_form	Juniper Networks
+Juniper Networks	first-product	Junos router operating system
+Junos router operating system	surface_form	Junos router operating system

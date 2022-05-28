@@ -1,0 +1,50 @@
+28870_0	is_in_sentence	sentence_28870
+28870_0	det	28870_1
+28870_0	has_surface_form	A
+28870_1	is_in_sentence	sentence_28870
+28870_1	poss	28870_3
+28870_1	has_surface_form	City
+28870_3	is_in_sentence	sentence_28870
+28870_3	nsubj	28870_4
+28870_3	has_surface_form	Child
+28870_2	is_in_sentence	sentence_28870
+28870_2	case	28870_1
+28870_2	has_surface_form	's
+28870_4	is_in_sentence	sentence_28870
+28870_4	ROOT	28870_4
+28870_4	has_surface_form	is
+28870_5	is_in_sentence	sentence_28870
+28870_5	det	28870_8
+28870_5	has_surface_form	a
+28870_8	is_in_sentence	sentence_28870
+28870_8	attr	28870_4
+28870_8	has_surface_form	film
+28870_6	is_in_sentence	sentence_28870
+28870_6	nummod	28870_8
+28870_6	has_surface_form	1972
+28870_7	is_in_sentence	sentence_28870
+28870_7	amod	28870_8
+28870_7	has_surface_form	Australian
+28870_9	is_in_sentence	sentence_28870
+28870_9	acl	28870_8
+28870_9	has_surface_form	directed
+28870_10	is_in_sentence	sentence_28870
+28870_10	agent	28870_9
+28870_10	has_surface_form	by
+28870_11	is_in_sentence	sentence_28870
+28870_11	compound	28870_12
+28870_11	has_surface_form	Brian
+28870_11	part_of_entity	Brian Kavanagh
+28870_12	is_in_sentence	sentence_28870
+28870_12	pobj	28870_10
+28870_12	has_surface_form	Kavanagh
+28870_12	part_of_entity	Brian Kavanagh
+28870_13	is_in_sentence	sentence_28870
+28870_13	punct	28870_4
+28870_13	has_surface_form	.
+28870_14	is_in_sentence	sentence_28870
+28870_14	dep	28870_4
+28870_14	has_surface_form	
+A City's Child	surface_form	A City's Child
+A City's Child	movie-has-director	Brian Kavanagh
+Brian Kavanagh	surface_form	Brian Kavanagh

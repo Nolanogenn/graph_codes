@@ -1,0 +1,85 @@
+31177_0	is_in_sentence	sentence_31177
+31177_0	compound	31177_1
+31177_0	has_surface_form	Great
+31177_0	part_of_entity	Great Lakes Christian College
+31177_1	is_in_sentence	sentence_31177
+31177_1	nsubj	31177_7
+31177_1	has_surface_form	Lakes
+31177_1	part_of_entity	Great Lakes Christian College
+31177_7	is_in_sentence	sentence_31177
+31177_7	ROOT	31177_7
+31177_7	has_surface_form	is
+31177_2	is_in_sentence	sentence_31177
+31177_2	compound	31177_3
+31177_2	has_surface_form	Christian
+31177_2	part_of_entity	Great Lakes Christian College
+31177_3	is_in_sentence	sentence_31177
+31177_3	appos	31177_1
+31177_3	has_surface_form	College
+31177_3	part_of_entity	Great Lakes Christian College
+31177_4	is_in_sentence	sentence_31177
+31177_4	punct	31177_5
+31177_4	has_surface_form	(
+31177_5	is_in_sentence	sentence_31177
+31177_5	appos	31177_3
+31177_5	has_surface_form	GLCC
+31177_6	is_in_sentence	sentence_31177
+31177_6	punct	31177_3
+31177_6	has_surface_form	)
+31177_8	is_in_sentence	sentence_31177
+31177_8	det	31177_14
+31177_8	has_surface_form	a
+31177_14	is_in_sentence	sentence_31177
+31177_14	attr	31177_7
+31177_14	has_surface_form	college
+31177_9	is_in_sentence	sentence_31177
+31177_9	amod	31177_14
+31177_9	has_surface_form	private
+31177_10	is_in_sentence	sentence_31177
+31177_10	nummod	31177_12
+31177_10	has_surface_form	four
+31177_12	is_in_sentence	sentence_31177
+31177_12	nmod	31177_14
+31177_12	has_surface_form	year
+31177_11	is_in_sentence	sentence_31177
+31177_11	punct	31177_12
+31177_11	has_surface_form	-
+31177_13	is_in_sentence	sentence_31177
+31177_13	amod	31177_14
+31177_13	has_surface_form	Christian
+31177_15	is_in_sentence	sentence_31177
+31177_15	prep	31177_14
+31177_15	has_surface_form	in
+31177_16	is_in_sentence	sentence_31177
+31177_16	compound	31177_17
+31177_16	is_entity	Delta
+31177_17	is_in_sentence	sentence_31177
+31177_17	pobj	31177_15
+31177_17	has_surface_form	Township
+Delta	surface_form	Delta
+31177_18	is_in_sentence	sentence_31177
+31177_18	punct	31177_17
+31177_18	has_surface_form	,
+31177_19	is_in_sentence	sentence_31177
+31177_19	appos	31177_17
+31177_19	has_surface_form	Michigan
+31177_20	is_in_sentence	sentence_31177
+31177_20	punct	31177_19
+31177_20	has_surface_form	,
+31177_21	is_in_sentence	sentence_31177
+31177_21	appos	31177_19
+31177_21	has_surface_form	west
+31177_22	is_in_sentence	sentence_31177
+31177_22	prep	31177_21
+31177_22	has_surface_form	of
+31177_23	is_in_sentence	sentence_31177
+31177_23	pobj	31177_22
+31177_23	has_surface_form	Lansing
+31177_24	is_in_sentence	sentence_31177
+31177_24	punct	31177_7
+31177_24	has_surface_form	.
+31177_25	is_in_sentence	sentence_31177
+31177_25	dep	31177_7
+31177_25	has_surface_form	
+Great Lakes Christian College	surface_form	Great Lakes Christian College
+Great Lakes Christian College	is-where	Delta

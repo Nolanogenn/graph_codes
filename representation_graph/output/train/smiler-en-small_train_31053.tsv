@@ -1,0 +1,107 @@
+31052_0	is_in_sentence	sentence_31052
+31052_0	compound	31052_1
+31052_0	has_surface_form	Mark
+31052_0	part_of_entity	Mark Egan
+31052_1	is_in_sentence	sentence_31052
+31052_1	nsubj	31052_10
+31052_1	has_surface_form	Egan
+31052_1	part_of_entity	Mark Egan
+31052_10	is_in_sentence	sentence_31052
+31052_10	ROOT	31052_10
+31052_10	has_surface_form	is
+31052_2	is_in_sentence	sentence_31052
+31052_2	punct	31052_1
+31052_2	has_surface_form	(
+31052_3	is_in_sentence	sentence_31052
+31052_3	amod	31052_1
+31052_3	has_surface_form	born
+31052_4	is_in_sentence	sentence_31052
+31052_4	npadvmod	31052_3
+31052_4	has_surface_form	1951
+31052_5	is_in_sentence	sentence_31052
+31052_5	prep	31052_3
+31052_5	has_surface_form	in
+31052_6	is_in_sentence	sentence_31052
+31052_6	pobj	31052_5
+31052_6	has_surface_form	Brockton
+31052_7	is_in_sentence	sentence_31052
+31052_7	punct	31052_6
+31052_7	has_surface_form	,
+31052_8	is_in_sentence	sentence_31052
+31052_8	appos	31052_6
+31052_8	has_surface_form	Massachusetts
+31052_9	is_in_sentence	sentence_31052
+31052_9	punct	31052_6
+31052_9	has_surface_form	)
+31052_11	is_in_sentence	sentence_31052
+31052_11	det	31052_14
+31052_11	has_surface_form	an
+31052_14	is_in_sentence	sentence_31052
+31052_14	attr	31052_10
+31052_14	has_surface_form	bassist
+31052_12	is_in_sentence	sentence_31052
+31052_12	amod	31052_14
+31052_12	has_surface_form	American
+31052_13	is_in_sentence	sentence_31052
+31052_13	compound	31052_14
+31052_13	has_surface_form	jazz
+31052_15	is_in_sentence	sentence_31052
+31052_15	cc	31052_14
+31052_15	has_surface_form	and
+31052_16	is_in_sentence	sentence_31052
+31052_16	conj	31052_14
+31052_16	has_surface_form	trumpeter
+31052_17	is_in_sentence	sentence_31052
+31052_17	acl	31052_14
+31052_17	has_surface_form	known
+31052_18	is_in_sentence	sentence_31052
+31052_18	prep	31052_17
+31052_18	has_surface_form	for
+31052_19	is_in_sentence	sentence_31052
+31052_19	poss	31052_20
+31052_19	has_surface_form	his
+31052_20	is_in_sentence	sentence_31052
+31052_20	pobj	31052_18
+31052_20	has_surface_form	membership
+31052_21	is_in_sentence	sentence_31052
+31052_21	prep	31052_20
+31052_21	has_surface_form	in
+31052_22	is_in_sentence	sentence_31052
+31052_22	det	31052_25
+31052_22	has_surface_form	the
+31052_25	is_in_sentence	sentence_31052
+31052_25	pobj	31052_21
+31052_25	has_surface_form	Group
+31052_25	part_of_entity	Pat Metheny Group
+31052_23	is_in_sentence	sentence_31052
+31052_23	compound	31052_25
+31052_23	has_surface_form	Pat
+31052_23	part_of_entity	Pat Metheny Group
+31052_24	is_in_sentence	sentence_31052
+31052_24	compound	31052_25
+31052_24	has_surface_form	Metheny
+31052_24	part_of_entity	Pat Metheny Group
+31052_26	is_in_sentence	sentence_31052
+31052_26	cc	31052_25
+31052_26	has_surface_form	and
+31052_27	is_in_sentence	sentence_31052
+31052_27	det	31052_30
+31052_27	has_surface_form	the
+31052_30	is_in_sentence	sentence_31052
+31052_30	conj	31052_25
+31052_30	has_surface_form	Orchestra
+31052_28	is_in_sentence	sentence_31052
+31052_28	compound	31052_29
+31052_28	has_surface_form	Gil
+31052_29	is_in_sentence	sentence_31052
+31052_29	compound	31052_30
+31052_29	has_surface_form	Evans
+31052_31	is_in_sentence	sentence_31052
+31052_31	punct	31052_10
+31052_31	has_surface_form	.
+31052_32	is_in_sentence	sentence_31052
+31052_32	dep	31052_10
+31052_32	has_surface_form	
+Mark Egan	surface_form	Mark Egan
+Mark Egan	is-member-of	Pat Metheny Group
+Pat Metheny Group	surface_form	Pat Metheny Group

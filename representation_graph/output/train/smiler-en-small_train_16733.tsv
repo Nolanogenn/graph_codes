@@ -1,0 +1,89 @@
+16732_0	is_in_sentence	sentence_16732
+16732_0	nsubj	16732_3
+16732_0	has_surface_form	Decision
+16732_0	part_of_entity	Decision at Midnight
+16732_3	is_in_sentence	sentence_16732
+16732_3	ROOT	16732_3
+16732_3	has_surface_form	is
+16732_1	is_in_sentence	sentence_16732
+16732_1	prep	16732_0
+16732_1	has_surface_form	at
+16732_1	part_of_entity	Decision at Midnight
+16732_2	is_in_sentence	sentence_16732
+16732_2	pobj	16732_1
+16732_2	has_surface_form	Midnight
+16732_2	part_of_entity	Decision at Midnight
+16732_4	is_in_sentence	sentence_16732
+16732_4	det	16732_10
+16732_4	has_surface_form	a
+16732_10	is_in_sentence	sentence_16732
+16732_10	attr	16732_3
+16732_10	has_surface_form	film
+16732_5	is_in_sentence	sentence_16732
+16732_5	nummod	16732_10
+16732_5	has_surface_form	1963
+16732_6	is_in_sentence	sentence_16732
+16732_6	amod	16732_8
+16732_6	has_surface_form	American
+16732_8	is_in_sentence	sentence_16732
+16732_8	amod	16732_10
+16732_8	has_surface_form	British
+16732_7	is_in_sentence	sentence_16732
+16732_7	punct	16732_8
+16732_7	has_surface_form	-
+16732_9	is_in_sentence	sentence_16732
+16732_9	compound	16732_10
+16732_9	has_surface_form	drama
+16732_11	is_in_sentence	sentence_16732
+16732_11	acl	16732_10
+16732_11	has_surface_form	directed
+16732_12	is_in_sentence	sentence_16732
+16732_12	agent	16732_11
+16732_12	has_surface_form	by
+16732_13	is_in_sentence	sentence_16732
+16732_13	compound	16732_14
+16732_13	has_surface_form	Lewis
+16732_13	part_of_entity	Lewis Allen
+16732_14	is_in_sentence	sentence_16732
+16732_14	pobj	16732_12
+16732_14	has_surface_form	Allen
+16732_14	part_of_entity	Lewis Allen
+16732_15	is_in_sentence	sentence_16732
+16732_15	cc	16732_11
+16732_15	has_surface_form	and
+16732_16	is_in_sentence	sentence_16732
+16732_16	conj	16732_11
+16732_16	has_surface_form	starring
+16732_17	is_in_sentence	sentence_16732
+16732_17	compound	16732_18
+16732_17	has_surface_form	Martin
+16732_18	is_in_sentence	sentence_16732
+16732_18	dobj	16732_16
+16732_18	has_surface_form	Landau
+16732_19	is_in_sentence	sentence_16732
+16732_19	punct	16732_18
+16732_19	has_surface_form	,
+16732_20	is_in_sentence	sentence_16732
+16732_20	compound	16732_21
+16732_20	has_surface_form	Nora
+16732_21	is_in_sentence	sentence_16732
+16732_21	conj	16732_18
+16732_21	has_surface_form	Swinburne
+16732_22	is_in_sentence	sentence_16732
+16732_22	cc	16732_21
+16732_22	has_surface_form	and
+16732_23	is_in_sentence	sentence_16732
+16732_23	compound	16732_24
+16732_23	has_surface_form	Walter
+16732_24	is_in_sentence	sentence_16732
+16732_24	conj	16732_21
+16732_24	has_surface_form	Fitzgerald
+16732_25	is_in_sentence	sentence_16732
+16732_25	punct	16732_3
+16732_25	has_surface_form	.
+16732_26	is_in_sentence	sentence_16732
+16732_26	dep	16732_3
+16732_26	has_surface_form	
+Decision at Midnight	surface_form	Decision at Midnight
+Decision at Midnight	movie-has-director	Lewis Allen
+Lewis Allen	surface_form	Lewis Allen

@@ -1,0 +1,94 @@
+17514_0	is_in_sentence	sentence_17514
+17514_0	compound	17514_1
+17514_0	has_surface_form	Mariko
+17514_0	part_of_entity	Mariko Okada
+17514_1	is_in_sentence	sentence_17514
+17514_1	nsubj	17514_14
+17514_1	has_surface_form	Okada
+17514_1	part_of_entity	Mariko Okada
+17514_14	is_in_sentence	sentence_17514
+17514_14	ROOT	17514_14
+17514_14	has_surface_form	is
+17514_2	is_in_sentence	sentence_17514
+17514_2	punct	17514_4
+17514_2	has_surface_form	(
+17514_4	is_in_sentence	sentence_17514
+17514_4	appos	17514_1
+17514_4	has_surface_form	茉莉子
+17514_3	is_in_sentence	sentence_17514
+17514_3	nmod	17514_4
+17514_3	has_surface_form	岡田
+17514_5	is_in_sentence	sentence_17514
+17514_5	punct	17514_4
+17514_5	has_surface_form	,
+17514_6	is_in_sentence	sentence_17514
+17514_6	compound	17514_7
+17514_6	has_surface_form	Okada
+17514_7	is_in_sentence	sentence_17514
+17514_7	appos	17514_4
+17514_7	has_surface_form	Mariko
+17514_8	is_in_sentence	sentence_17514
+17514_8	punct	17514_7
+17514_8	has_surface_form	,
+17514_9	is_in_sentence	sentence_17514
+17514_9	acl	17514_7
+17514_9	has_surface_form	born
+17514_10	is_in_sentence	sentence_17514
+17514_10	nummod	17514_11
+17514_10	has_surface_form	11
+17514_11	is_in_sentence	sentence_17514
+17514_11	npadvmod	17514_9
+17514_11	has_surface_form	January
+17514_12	is_in_sentence	sentence_17514
+17514_12	nummod	17514_11
+17514_12	has_surface_form	1933
+17514_13	is_in_sentence	sentence_17514
+17514_13	punct	17514_4
+17514_13	has_surface_form	)
+17514_15	is_in_sentence	sentence_17514
+17514_15	det	17514_17
+17514_15	has_surface_form	a
+17514_17	is_in_sentence	sentence_17514
+17514_17	attr	17514_14
+17514_17	has_surface_form	actress
+17514_16	is_in_sentence	sentence_17514
+17514_16	amod	17514_17
+17514_16	has_surface_form	Japanese
+17514_18	is_in_sentence	sentence_17514
+17514_18	punct	17514_14
+17514_18	has_surface_form	.
+17514_19	is_in_sentence	sentence_17514
+17514_19	nsubj	17514_20
+17514_19	has_surface_form	She
+17514_20	is_in_sentence	sentence_17514
+17514_20	ROOT	17514_20
+17514_20	has_surface_form	is
+17514_21	is_in_sentence	sentence_17514
+17514_21	acomp	17514_20
+17514_21	has_surface_form	married
+17514_22	is_in_sentence	sentence_17514
+17514_22	aux	17514_23
+17514_22	has_surface_form	to
+17514_23	is_in_sentence	sentence_17514
+17514_23	xcomp	17514_21
+17514_23	has_surface_form	film
+17514_24	is_in_sentence	sentence_17514
+17514_24	compound	17514_26
+17514_24	has_surface_form	director
+17514_26	is_in_sentence	sentence_17514
+17514_26	dobj	17514_23
+17514_26	has_surface_form	Yoshida
+17514_26	part_of_entity	Yoshishige Yoshida
+17514_25	is_in_sentence	sentence_17514
+17514_25	compound	17514_26
+17514_25	has_surface_form	Yoshishige
+17514_25	part_of_entity	Yoshishige Yoshida
+17514_27	is_in_sentence	sentence_17514
+17514_27	punct	17514_20
+17514_27	has_surface_form	.
+17514_28	is_in_sentence	sentence_17514
+17514_28	dep	17514_28
+17514_28	has_surface_form	
+Mariko Okada	surface_form	Mariko Okada
+Mariko Okada	has-spouse	Yoshishige Yoshida
+Yoshishige Yoshida	surface_form	Yoshishige Yoshida

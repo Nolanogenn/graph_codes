@@ -1,0 +1,58 @@
+5076_0	is_in_sentence	sentence_5076
+5076_0	compound	5076_1
+5076_0	has_surface_form	Arlington
+5076_0	part_of_entity	Arlington Country Day School
+5076_1	is_in_sentence	sentence_5076
+5076_1	compound	5076_3
+5076_1	has_surface_form	Country
+5076_1	part_of_entity	Arlington Country Day School
+5076_3	is_in_sentence	sentence_5076
+5076_3	nsubj	5076_7
+5076_3	has_surface_form	School
+5076_3	part_of_entity	Arlington Country Day School
+5076_2	is_in_sentence	sentence_5076
+5076_2	compound	5076_3
+5076_2	has_surface_form	Day
+5076_2	part_of_entity	Arlington Country Day School
+5076_7	is_in_sentence	sentence_5076
+5076_7	ROOT	5076_7
+5076_7	has_surface_form	was
+5076_4	is_in_sentence	sentence_5076
+5076_4	punct	5076_3
+5076_4	has_surface_form	(
+5076_5	is_in_sentence	sentence_5076
+5076_5	appos	5076_3
+5076_5	has_surface_form	ACDS
+5076_6	is_in_sentence	sentence_5076
+5076_6	punct	5076_3
+5076_6	has_surface_form	)
+5076_8	is_in_sentence	sentence_5076
+5076_8	det	5076_10
+5076_8	has_surface_form	a
+5076_10	is_in_sentence	sentence_5076
+5076_10	attr	5076_7
+5076_10	has_surface_form	school
+5076_9	is_in_sentence	sentence_5076
+5076_9	amod	5076_10
+5076_9	has_surface_form	private
+5076_11	is_in_sentence	sentence_5076
+5076_11	prep	5076_10
+5076_11	has_surface_form	in
+5076_12	is_in_sentence	sentence_5076
+5076_12	pobj	5076_11
+5076_12	has_surface_form	Jacksonville
+5076_13	is_in_sentence	sentence_5076
+5076_13	punct	5076_12
+5076_13	has_surface_form	,
+5076_14	is_in_sentence	sentence_5076
+5076_14	appos	5076_12
+5076_14	has_surface_form	Florida
+5076_15	is_in_sentence	sentence_5076
+5076_15	punct	5076_7
+5076_15	has_surface_form	.
+5076_16	is_in_sentence	sentence_5076
+5076_16	dep	5076_7
+5076_16	has_surface_form	
+Arlington Country Day School	surface_form	Arlington Country Day School
+Arlington Country Day School	is-where	Jacksonville, Florida
+Jacksonville, Florida	surface_form	Jacksonville, Florida

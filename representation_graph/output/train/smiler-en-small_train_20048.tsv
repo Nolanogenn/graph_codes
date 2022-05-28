@@ -1,0 +1,50 @@
+20047_0	is_in_sentence	sentence_20047
+20047_0	compound	20047_1
+20047_0	has_surface_form	Kingfisher
+20047_0	part_of_entity	Kingfisher College
+20047_1	is_in_sentence	sentence_20047
+20047_1	nsubj	20047_2
+20047_1	has_surface_form	College
+20047_1	part_of_entity	Kingfisher College
+20047_2	is_in_sentence	sentence_20047
+20047_2	ROOT	20047_2
+20047_2	has_surface_form	was
+20047_3	is_in_sentence	sentence_20047
+20047_3	det	20047_4
+20047_3	has_surface_form	a
+20047_4	is_in_sentence	sentence_20047
+20047_4	attr	20047_2
+20047_4	is_entity	college
+college	surface_form	college
+20047_5	is_in_sentence	sentence_20047
+20047_5	prep	20047_4
+20047_5	has_surface_form	in
+20047_6	is_in_sentence	sentence_20047
+20047_6	pobj	20047_5
+20047_6	has_surface_form	Kingfisher
+20047_7	is_in_sentence	sentence_20047
+20047_7	punct	20047_6
+20047_7	has_surface_form	,
+20047_8	is_in_sentence	sentence_20047
+20047_8	appos	20047_6
+20047_8	has_surface_form	Oklahoma
+20047_9	is_in_sentence	sentence_20047
+20047_9	prep	20047_2
+20047_9	has_surface_form	from
+20047_10	is_in_sentence	sentence_20047
+20047_10	pobj	20047_9
+20047_10	has_surface_form	1895
+20047_11	is_in_sentence	sentence_20047
+20047_11	prep	20047_9
+20047_11	has_surface_form	to
+20047_12	is_in_sentence	sentence_20047
+20047_12	pobj	20047_11
+20047_12	has_surface_form	1922
+20047_13	is_in_sentence	sentence_20047
+20047_13	punct	20047_2
+20047_13	has_surface_form	.
+20047_14	is_in_sentence	sentence_20047
+20047_14	dep	20047_14
+20047_14	has_surface_form	
+Kingfisher College	surface_form	Kingfisher College
+Kingfisher College	has-type	college

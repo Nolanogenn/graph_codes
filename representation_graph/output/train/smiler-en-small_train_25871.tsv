@@ -1,0 +1,68 @@
+25870_0	is_in_sentence	sentence_25870
+25870_0	det	25870_2
+25870_0	has_surface_form	The
+25870_0	part_of_entity	The Spring Festival
+25870_2	is_in_sentence	sentence_25870
+25870_2	nsubj	25870_8
+25870_2	has_surface_form	Festival
+25870_2	part_of_entity	The Spring Festival
+25870_1	is_in_sentence	sentence_25870
+25870_1	compound	25870_2
+25870_1	has_surface_form	Spring
+25870_1	part_of_entity	The Spring Festival
+25870_8	is_in_sentence	sentence_25870
+25870_8	ROOT	25870_8
+25870_8	has_surface_form	is
+25870_3	is_in_sentence	sentence_25870
+25870_3	punct	25870_6
+25870_3	has_surface_form	(
+25870_6	is_in_sentence	sentence_25870
+25870_6	appos	25870_2
+25870_6	has_surface_form	过年
+25870_4	is_in_sentence	sentence_25870
+25870_4	nmod	25870_6
+25870_4	has_surface_form	Chinese
+25870_5	is_in_sentence	sentence_25870
+25870_5	punct	25870_6
+25870_5	has_surface_form	:
+25870_7	is_in_sentence	sentence_25870
+25870_7	punct	25870_6
+25870_7	has_surface_form	)
+25870_9	is_in_sentence	sentence_25870
+25870_9	det	25870_13
+25870_9	has_surface_form	a
+25870_13	is_in_sentence	sentence_25870
+25870_13	attr	25870_8
+25870_13	has_surface_form	film
+25870_10	is_in_sentence	sentence_25870
+25870_10	nummod	25870_13
+25870_10	has_surface_form	1991
+25870_11	is_in_sentence	sentence_25870
+25870_11	amod	25870_13
+25870_11	has_surface_form	Chinese
+25870_12	is_in_sentence	sentence_25870
+25870_12	compound	25870_13
+25870_12	has_surface_form	drama
+25870_14	is_in_sentence	sentence_25870
+25870_14	acl	25870_13
+25870_14	has_surface_form	directed
+25870_15	is_in_sentence	sentence_25870
+25870_15	agent	25870_14
+25870_15	has_surface_form	by
+25870_16	is_in_sentence	sentence_25870
+25870_16	compound	25870_17
+25870_16	has_surface_form	Huang
+25870_16	part_of_entity	Huang Jianzhong
+25870_17	is_in_sentence	sentence_25870
+25870_17	pobj	25870_15
+25870_17	has_surface_form	Jianzhong
+25870_17	part_of_entity	Huang Jianzhong
+25870_18	is_in_sentence	sentence_25870
+25870_18	punct	25870_8
+25870_18	has_surface_form	.
+25870_19	is_in_sentence	sentence_25870
+25870_19	dep	25870_19
+25870_19	has_surface_form	
+The Spring Festival	surface_form	The Spring Festival
+The Spring Festival	movie-has-director	Huang Jianzhong
+Huang Jianzhong	surface_form	Huang Jianzhong

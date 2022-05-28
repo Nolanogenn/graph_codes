@@ -1,0 +1,55 @@
+30405_0	is_in_sentence	sentence_30405
+30405_0	compound	30405_1
+30405_0	has_surface_form	International
+30405_0	part_of_entity	International University of Korea
+30405_1	is_in_sentence	sentence_30405
+30405_1	nsubj	30405_4
+30405_1	has_surface_form	University
+30405_1	part_of_entity	International University of Korea
+30405_4	is_in_sentence	sentence_30405
+30405_4	ROOT	30405_4
+30405_4	has_surface_form	is
+30405_2	is_in_sentence	sentence_30405
+30405_2	prep	30405_1
+30405_2	has_surface_form	of
+30405_2	part_of_entity	International University of Korea
+30405_3	is_in_sentence	sentence_30405
+30405_3	pobj	30405_2
+30405_3	has_surface_form	Korea
+30405_3	part_of_entity	International University of Korea
+30405_5	is_in_sentence	sentence_30405
+30405_5	det	30405_7
+30405_5	has_surface_form	a
+30405_7	is_in_sentence	sentence_30405
+30405_7	attr	30405_4
+30405_7	has_surface_form	university
+30405_6	is_in_sentence	sentence_30405
+30405_6	amod	30405_7
+30405_6	has_surface_form	private
+30405_8	is_in_sentence	sentence_30405
+30405_8	acl	30405_7
+30405_8	has_surface_form	located
+30405_9	is_in_sentence	sentence_30405
+30405_9	prep	30405_8
+30405_9	has_surface_form	in
+30405_10	is_in_sentence	sentence_30405
+30405_10	pobj	30405_9
+30405_10	has_surface_form	Jinju
+30405_11	is_in_sentence	sentence_30405
+30405_11	punct	30405_10
+30405_11	has_surface_form	,
+30405_12	is_in_sentence	sentence_30405
+30405_12	compound	30405_13
+30405_12	has_surface_form	South
+30405_13	is_in_sentence	sentence_30405
+30405_13	appos	30405_10
+30405_13	has_surface_form	Korea
+30405_14	is_in_sentence	sentence_30405
+30405_14	punct	30405_4
+30405_14	has_surface_form	.
+30405_15	is_in_sentence	sentence_30405
+30405_15	dep	30405_15
+30405_15	has_surface_form	
+International University of Korea	surface_form	International University of Korea
+International University of Korea	is-where	Jinju, South Korea
+Jinju, South Korea	surface_form	Jinju, South Korea

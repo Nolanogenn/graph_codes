@@ -1,0 +1,62 @@
+7720_0	is_in_sentence	sentence_7720
+7720_0	compound	7720_1
+7720_0	has_surface_form	Ragnar
+7720_0	part_of_entity	Ragnar Bjerkreim
+7720_1	is_in_sentence	sentence_7720
+7720_1	nsubj	7720_8
+7720_1	has_surface_form	Bjerkreim
+7720_1	part_of_entity	Ragnar Bjerkreim
+7720_8	is_in_sentence	sentence_7720
+7720_8	ROOT	7720_8
+7720_8	has_surface_form	is
+7720_2	is_in_sentence	sentence_7720
+7720_2	punct	7720_1
+7720_2	has_surface_form	(
+7720_3	is_in_sentence	sentence_7720
+7720_3	acl	7720_1
+7720_3	has_surface_form	born
+7720_4	is_in_sentence	sentence_7720
+7720_4	nummod	7720_5
+7720_4	has_surface_form	19
+7720_5	is_in_sentence	sentence_7720
+7720_5	npadvmod	7720_3
+7720_5	has_surface_form	April
+7720_6	is_in_sentence	sentence_7720
+7720_6	nummod	7720_5
+7720_6	has_surface_form	1958
+7720_7	is_in_sentence	sentence_7720
+7720_7	punct	7720_1
+7720_7	has_surface_form	)
+7720_9	is_in_sentence	sentence_7720
+7720_9	amod	7720_10
+7720_9	has_surface_form	Norwegian
+7720_10	is_in_sentence	sentence_7720
+7720_10	attr	7720_8
+7720_10	is_entity	composer
+composer	surface_form	composer
+7720_11	is_in_sentence	sentence_7720
+7720_11	prep	7720_10
+7720_11	has_surface_form	with
+7720_12	is_in_sentence	sentence_7720
+7720_12	compound	7720_13
+7720_12	has_surface_form	film
+7720_13	is_in_sentence	sentence_7720
+7720_13	pobj	7720_11
+7720_13	has_surface_form	scores
+7720_14	is_in_sentence	sentence_7720
+7720_14	prep	7720_10
+7720_14	has_surface_form	as
+7720_15	is_in_sentence	sentence_7720
+7720_15	poss	7720_16
+7720_15	has_surface_form	his
+7720_16	is_in_sentence	sentence_7720
+7720_16	pobj	7720_14
+7720_16	has_surface_form	specialty
+7720_17	is_in_sentence	sentence_7720
+7720_17	punct	7720_8
+7720_17	has_surface_form	.
+7720_18	is_in_sentence	sentence_7720
+7720_18	dep	7720_8
+7720_18	has_surface_form	
+Ragnar Bjerkreim	surface_form	Ragnar Bjerkreim
+Ragnar Bjerkreim	has-occupation	composer

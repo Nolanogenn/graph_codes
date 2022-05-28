@@ -1,0 +1,62 @@
+13625_0	is_in_sentence	sentence_13625
+13625_0	compound	13625_1
+13625_0	has_surface_form	Perri
+13625_0	part_of_entity	Perri Lister
+13625_1	is_in_sentence	sentence_13625
+13625_1	nsubj	13625_8
+13625_1	has_surface_form	Lister
+13625_1	part_of_entity	Perri Lister
+13625_8	is_in_sentence	sentence_13625
+13625_8	ROOT	13625_8
+13625_8	has_surface_form	is
+13625_2	is_in_sentence	sentence_13625
+13625_2	punct	13625_3
+13625_2	has_surface_form	(
+13625_3	is_in_sentence	sentence_13625
+13625_3	acl	13625_1
+13625_3	has_surface_form	born
+13625_4	is_in_sentence	sentence_13625
+13625_4	nummod	13625_5
+13625_4	has_surface_form	10
+13625_5	is_in_sentence	sentence_13625
+13625_5	npadvmod	13625_3
+13625_5	has_surface_form	April
+13625_6	is_in_sentence	sentence_13625
+13625_6	nummod	13625_5
+13625_6	has_surface_form	1959
+13625_7	is_in_sentence	sentence_13625
+13625_7	punct	13625_1
+13625_7	has_surface_form	)
+13625_9	is_in_sentence	sentence_13625
+13625_9	det	13625_12
+13625_9	has_surface_form	an
+13625_12	is_in_sentence	sentence_13625
+13625_12	attr	13625_8
+13625_12	has_surface_form	dancer
+13625_10	is_in_sentence	sentence_13625
+13625_10	amod	13625_12
+13625_10	has_surface_form	English
+13625_11	is_in_sentence	sentence_13625
+13625_11	amod	13625_12
+13625_11	has_surface_form	former
+13625_13	is_in_sentence	sentence_13625
+13625_13	punct	13625_12
+13625_13	has_surface_form	,
+13625_14	is_in_sentence	sentence_13625
+13625_14	conj	13625_12
+13625_14	is_entity	singer
+singer	surface_form	singer
+13625_15	is_in_sentence	sentence_13625
+13625_15	cc	13625_14
+13625_15	has_surface_form	and
+13625_16	is_in_sentence	sentence_13625
+13625_16	conj	13625_14
+13625_16	has_surface_form	actress
+13625_17	is_in_sentence	sentence_13625
+13625_17	punct	13625_8
+13625_17	has_surface_form	.
+13625_18	is_in_sentence	sentence_13625
+13625_18	dep	13625_18
+13625_18	has_surface_form	
+Perri Lister	surface_form	Perri Lister
+Perri Lister	has-occupation	singer

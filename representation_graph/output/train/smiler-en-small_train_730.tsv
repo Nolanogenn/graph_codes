@@ -1,0 +1,74 @@
+729_0	is_in_sentence	sentence_729
+729_0	det	729_2
+729_0	has_surface_form	This
+729_0	part_of_entity	This Marriage Business
+729_2	is_in_sentence	sentence_729
+729_2	nsubj	729_3
+729_2	has_surface_form	Business
+729_2	part_of_entity	This Marriage Business
+729_1	is_in_sentence	sentence_729
+729_1	compound	729_2
+729_1	has_surface_form	Marriage
+729_1	part_of_entity	This Marriage Business
+729_3	is_in_sentence	sentence_729
+729_3	ROOT	729_3
+729_3	has_surface_form	is
+729_4	is_in_sentence	sentence_729
+729_4	det	729_8
+729_4	has_surface_form	a
+729_8	is_in_sentence	sentence_729
+729_8	attr	729_3
+729_8	has_surface_form	film
+729_5	is_in_sentence	sentence_729
+729_5	nummod	729_8
+729_5	has_surface_form	1938
+729_6	is_in_sentence	sentence_729
+729_6	amod	729_8
+729_6	has_surface_form	American
+729_7	is_in_sentence	sentence_729
+729_7	compound	729_8
+729_7	has_surface_form	comedy
+729_9	is_in_sentence	sentence_729
+729_9	acl	729_8
+729_9	has_surface_form	directed
+729_10	is_in_sentence	sentence_729
+729_10	agent	729_9
+729_10	has_surface_form	by
+729_11	is_in_sentence	sentence_729
+729_11	compound	729_12
+729_11	has_surface_form	Christy
+729_11	part_of_entity	Christy Cabanne
+729_12	is_in_sentence	sentence_729
+729_12	pobj	729_10
+729_12	has_surface_form	Cabanne
+729_12	part_of_entity	Christy Cabanne
+729_13	is_in_sentence	sentence_729
+729_13	prep	729_9
+729_13	has_surface_form	from
+729_14	is_in_sentence	sentence_729
+729_14	det	729_15
+729_14	has_surface_form	a
+729_15	is_in_sentence	sentence_729
+729_15	pobj	729_13
+729_15	has_surface_form	screenplay
+729_16	is_in_sentence	sentence_729
+729_16	prep	729_15
+729_16	has_surface_form	by
+729_17	is_in_sentence	sentence_729
+729_17	compound	729_18
+729_17	has_surface_form	Gladys
+729_18	is_in_sentence	sentence_729
+729_18	pobj	729_16
+729_18	has_surface_form	Atwater
+729_19	is_in_sentence	sentence_729
+729_19	cc	729_18
+729_19	has_surface_form	and
+729_20	is_in_sentence	sentence_729
+729_20	compound	729_21
+729_20	has_surface_form	J.
+729_21	is_in_sentence	sentence_729
+729_21	dep	729_18
+729_21	has_surface_form	
+This Marriage Business	surface_form	This Marriage Business
+This Marriage Business	movie-has-director	Christy Cabanne
+Christy Cabanne	surface_form	Christy Cabanne

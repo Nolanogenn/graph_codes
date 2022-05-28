@@ -1,0 +1,50 @@
+13312_0	is_in_sentence	sentence_13312
+13312_0	compound	13312_1
+13312_0	has_surface_form	Martin
+13312_0	part_of_entity	Martin Sturfält
+13312_1	is_in_sentence	sentence_13312
+13312_1	nsubj	13312_8
+13312_1	has_surface_form	Sturfält
+13312_1	part_of_entity	Martin Sturfält
+13312_8	is_in_sentence	sentence_13312
+13312_8	ROOT	13312_8
+13312_8	has_surface_form	is
+13312_2	is_in_sentence	sentence_13312
+13312_2	punct	13312_1
+13312_2	has_surface_form	(
+13312_3	is_in_sentence	sentence_13312
+13312_3	acl	13312_1
+13312_3	has_surface_form	born
+13312_4	is_in_sentence	sentence_13312
+13312_4	npadvmod	13312_3
+13312_4	has_surface_form	1979
+13312_5	is_in_sentence	sentence_13312
+13312_5	prep	13312_3
+13312_5	has_surface_form	in
+13312_6	is_in_sentence	sentence_13312
+13312_6	pobj	13312_5
+13312_6	is_entity	Katrineholm
+Katrineholm	surface_form	Katrineholm
+13312_7	is_in_sentence	sentence_13312
+13312_7	punct	13312_1
+13312_7	has_surface_form	)
+13312_9	is_in_sentence	sentence_13312
+13312_9	det	13312_12
+13312_9	has_surface_form	a
+13312_12	is_in_sentence	sentence_13312
+13312_12	attr	13312_8
+13312_12	has_surface_form	pianist
+13312_10	is_in_sentence	sentence_13312
+13312_10	amod	13312_12
+13312_10	has_surface_form	Swedish
+13312_11	is_in_sentence	sentence_13312
+13312_11	amod	13312_12
+13312_11	has_surface_form	classical
+13312_13	is_in_sentence	sentence_13312
+13312_13	punct	13312_8
+13312_13	has_surface_form	.
+13312_14	is_in_sentence	sentence_13312
+13312_14	dep	13312_8
+13312_14	has_surface_form	
+Martin Sturfält	surface_form	Martin Sturfält
+Martin Sturfält	birth-place	Katrineholm

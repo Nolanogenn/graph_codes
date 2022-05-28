@@ -1,0 +1,79 @@
+8301_0	is_in_sentence	sentence_8301
+8301_0	compound	8301_1
+8301_0	has_surface_form	Nick
+8301_0	part_of_entity	Nick Holder
+8301_1	is_in_sentence	sentence_8301
+8301_1	nsubj	8301_6
+8301_1	has_surface_form	Holder
+8301_1	part_of_entity	Nick Holder
+8301_6	is_in_sentence	sentence_8301
+8301_6	ROOT	8301_6
+8301_6	has_surface_form	is
+8301_2	is_in_sentence	sentence_8301
+8301_2	punct	8301_1
+8301_2	has_surface_form	(
+8301_3	is_in_sentence	sentence_8301
+8301_3	acl	8301_1
+8301_3	has_surface_form	born
+8301_4	is_in_sentence	sentence_8301
+8301_4	npadvmod	8301_3
+8301_4	has_surface_form	1969
+8301_5	is_in_sentence	sentence_8301
+8301_5	punct	8301_1
+8301_5	has_surface_form	)
+8301_7	is_in_sentence	sentence_8301
+8301_7	det	8301_15
+8301_7	has_surface_form	an
+8301_15	is_in_sentence	sentence_8301
+8301_15	attr	8301_6
+8301_15	has_surface_form	deejay
+8301_8	is_in_sentence	sentence_8301
+8301_8	amod	8301_15
+8301_8	has_surface_form	underground
+8301_9	is_in_sentence	sentence_8301
+8301_9	nmod	8301_11
+8301_9	has_surface_form	hip
+8301_11	is_in_sentence	sentence_8301
+8301_11	nmod	8301_14
+8301_11	has_surface_form	hop
+8301_10	is_in_sentence	sentence_8301
+8301_10	punct	8301_11
+8301_10	has_surface_form	-
+8301_14	is_in_sentence	sentence_8301
+8301_14	compound	8301_15
+8301_14	has_surface_form	music
+8301_14	part_of_entity	house music
+8301_12	is_in_sentence	sentence_8301
+8301_12	cc	8301_11
+8301_12	has_surface_form	and
+8301_13	is_in_sentence	sentence_8301
+8301_13	conj	8301_11
+8301_13	has_surface_form	house
+8301_13	part_of_entity	house music
+8301_16	is_in_sentence	sentence_8301
+8301_16	cc	8301_15
+8301_16	has_surface_form	and
+8301_17	is_in_sentence	sentence_8301
+8301_17	conj	8301_15
+8301_17	has_surface_form	producer
+8301_18	is_in_sentence	sentence_8301
+8301_18	prep	8301_15
+8301_18	has_surface_form	from
+8301_19	is_in_sentence	sentence_8301
+8301_19	pobj	8301_18
+8301_19	has_surface_form	Toronto
+8301_20	is_in_sentence	sentence_8301
+8301_20	punct	8301_19
+8301_20	has_surface_form	,
+8301_21	is_in_sentence	sentence_8301
+8301_21	appos	8301_19
+8301_21	has_surface_form	Ontario
+8301_22	is_in_sentence	sentence_8301
+8301_22	punct	8301_6
+8301_22	has_surface_form	.
+8301_23	is_in_sentence	sentence_8301
+8301_23	dep	8301_23
+8301_23	has_surface_form	
+Nick Holder	surface_form	Nick Holder
+Nick Holder	has-genre	house music
+house music	surface_form	house music

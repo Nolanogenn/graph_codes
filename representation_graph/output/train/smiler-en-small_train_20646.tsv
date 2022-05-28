@@ -1,0 +1,65 @@
+20645_0	is_in_sentence	sentence_20645
+20645_0	compound	20645_1
+20645_0	has_surface_form	Erlend
+20645_0	part_of_entity	Erlend Bratland
+20645_1	is_in_sentence	sentence_20645
+20645_1	nsubj	20645_14
+20645_1	has_surface_form	Bratland
+20645_1	part_of_entity	Erlend Bratland
+20645_14	is_in_sentence	sentence_20645
+20645_14	ROOT	20645_14
+20645_14	has_surface_form	is
+20645_2	is_in_sentence	sentence_20645
+20645_2	punct	20645_1
+20645_2	has_surface_form	(
+20645_3	is_in_sentence	sentence_20645
+20645_3	acl	20645_1
+20645_3	has_surface_form	born
+20645_4	is_in_sentence	sentence_20645
+20645_4	nummod	20645_5
+20645_4	has_surface_form	27
+20645_5	is_in_sentence	sentence_20645
+20645_5	npadvmod	20645_3
+20645_5	has_surface_form	October
+20645_6	is_in_sentence	sentence_20645
+20645_6	nummod	20645_5
+20645_6	has_surface_form	1991
+20645_7	is_in_sentence	sentence_20645
+20645_7	prep	20645_3
+20645_7	has_surface_form	in
+20645_8	is_in_sentence	sentence_20645
+20645_8	pobj	20645_7
+20645_8	is_entity	Husnes
+Husnes	surface_form	Husnes
+20645_9	is_in_sentence	sentence_20645
+20645_9	punct	20645_8
+20645_9	has_surface_form	,
+20645_10	is_in_sentence	sentence_20645
+20645_10	conj	20645_8
+20645_10	has_surface_form	Kvinnherad
+20645_11	is_in_sentence	sentence_20645
+20645_11	punct	20645_10
+20645_11	has_surface_form	,
+20645_12	is_in_sentence	sentence_20645
+20645_12	appos	20645_10
+20645_12	has_surface_form	Norway
+20645_13	is_in_sentence	sentence_20645
+20645_13	punct	20645_10
+20645_13	has_surface_form	)
+20645_15	is_in_sentence	sentence_20645
+20645_15	det	20645_17
+20645_15	has_surface_form	a
+20645_17	is_in_sentence	sentence_20645
+20645_17	attr	20645_14
+20645_17	has_surface_form	singer
+20645_16	is_in_sentence	sentence_20645
+20645_16	amod	20645_17
+20645_16	has_surface_form	Norwegian
+20645_18	is_in_sentence	sentence_20645
+20645_18	punct	20645_14
+20645_18	has_surface_form	.
+20645_19	is_in_sentence	sentence_20645
+20645_19	dep	20645_19
+20645_19	has_surface_form	
+Erlend Bratland	surface_form	Erlend Bratland
+Erlend Bratland	birth-place	Husnes

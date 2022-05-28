@@ -1,0 +1,61 @@
+7830_0	is_in_sentence	sentence_7830
+7830_0	amod	7830_1
+7830_0	has_surface_form	Private
+7830_0	part_of_entity	Private Nurse
+7830_1	is_in_sentence	sentence_7830
+7830_1	nsubj	7830_2
+7830_1	has_surface_form	Nurse
+7830_1	part_of_entity	Private Nurse
+7830_2	is_in_sentence	sentence_7830
+7830_2	ROOT	7830_2
+7830_2	has_surface_form	is
+7830_3	is_in_sentence	sentence_7830
+7830_3	det	7830_7
+7830_3	has_surface_form	a
+7830_7	is_in_sentence	sentence_7830
+7830_7	attr	7830_2
+7830_7	has_surface_form	film
+7830_4	is_in_sentence	sentence_7830
+7830_4	nummod	7830_7
+7830_4	has_surface_form	1941
+7830_5	is_in_sentence	sentence_7830
+7830_5	amod	7830_7
+7830_5	has_surface_form	American
+7830_6	is_in_sentence	sentence_7830
+7830_6	compound	7830_7
+7830_6	has_surface_form	drama
+7830_8	is_in_sentence	sentence_7830
+7830_8	acl	7830_7
+7830_8	has_surface_form	directed
+7830_9	is_in_sentence	sentence_7830
+7830_9	agent	7830_8
+7830_9	has_surface_form	by
+7830_10	is_in_sentence	sentence_7830
+7830_10	compound	7830_11
+7830_10	has_surface_form	David
+7830_10	part_of_entity	David Burton
+7830_11	is_in_sentence	sentence_7830
+7830_11	pobj	7830_9
+7830_11	has_surface_form	Burton
+7830_11	part_of_entity	David Burton
+7830_12	is_in_sentence	sentence_7830
+7830_12	cc	7830_8
+7830_12	has_surface_form	and
+7830_13	is_in_sentence	sentence_7830
+7830_13	conj	7830_8
+7830_13	has_surface_form	written
+7830_14	is_in_sentence	sentence_7830
+7830_14	agent	7830_13
+7830_14	has_surface_form	by
+7830_15	is_in_sentence	sentence_7830
+7830_15	compound	7830_16
+7830_15	has_surface_form	Samuel
+7830_16	is_in_sentence	sentence_7830
+7830_16	pobj	7830_14
+7830_16	has_surface_form	G.
+7830_17	is_in_sentence	sentence_7830
+7830_17	dep	7830_2
+7830_17	has_surface_form	
+Private Nurse	surface_form	Private Nurse
+Private Nurse	movie-has-director	David Burton
+David Burton	surface_form	David Burton

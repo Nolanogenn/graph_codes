@@ -1,0 +1,88 @@
+1389_0	is_in_sentence	sentence_1389
+1389_0	compound	1389_1
+1389_0	has_surface_form	Misha
+1389_0	part_of_entity	Misha B
+1389_1	is_in_sentence	sentence_1389
+1389_1	nsubjpass	1389_3
+1389_1	has_surface_form	B
+1389_1	part_of_entity	Misha B
+1389_3	is_in_sentence	sentence_1389
+1389_3	ROOT	1389_3
+1389_3	has_surface_form	born
+1389_2	is_in_sentence	sentence_1389
+1389_2	auxpass	1389_3
+1389_2	has_surface_form	was
+1389_4	is_in_sentence	sentence_1389
+1389_4	compound	1389_6
+1389_4	has_surface_form	Misha
+1389_6	is_in_sentence	sentence_1389
+1389_6	dobj	1389_3
+1389_6	has_surface_form	Bryan
+1389_5	is_in_sentence	sentence_1389
+1389_5	compound	1389_6
+1389_5	has_surface_form	Amber
+1389_7	is_in_sentence	sentence_1389
+1389_7	prep	1389_3
+1389_7	has_surface_form	on
+1389_8	is_in_sentence	sentence_1389
+1389_8	nummod	1389_9
+1389_8	has_surface_form	10
+1389_9	is_in_sentence	sentence_1389
+1389_9	pobj	1389_7
+1389_9	has_surface_form	February
+1389_10	is_in_sentence	sentence_1389
+1389_10	nummod	1389_9
+1389_10	has_surface_form	1992
+1389_11	is_in_sentence	sentence_1389
+1389_11	punct	1389_3
+1389_11	has_surface_form	,
+1389_12	is_in_sentence	sentence_1389
+1389_12	prep	1389_3
+1389_12	has_surface_form	to
+1389_13	is_in_sentence	sentence_1389
+1389_13	compound	1389_14
+1389_13	has_surface_form	Florence
+1389_13	part_of_entity	Florence Bryan
+1389_14	is_in_sentence	sentence_1389
+1389_14	pobj	1389_12
+1389_14	has_surface_form	Bryan
+1389_14	part_of_entity	Florence Bryan
+1389_15	is_in_sentence	sentence_1389
+1389_15	punct	1389_14
+1389_15	has_surface_form	(
+1389_16	is_in_sentence	sentence_1389
+1389_16	det	1389_19
+1389_16	has_surface_form	a
+1389_19	is_in_sentence	sentence_1389
+1389_19	appos	1389_14
+1389_19	has_surface_form	addict
+1389_17	is_in_sentence	sentence_1389
+1389_17	amod	1389_19
+1389_17	has_surface_form	former
+1389_18	is_in_sentence	sentence_1389
+1389_18	compound	1389_19
+1389_18	has_surface_form	heroin
+1389_20	is_in_sentence	sentence_1389
+1389_20	punct	1389_14
+1389_20	has_surface_form	)
+1389_21	is_in_sentence	sentence_1389
+1389_21	cc	1389_14
+1389_21	has_surface_form	and
+1389_22	is_in_sentence	sentence_1389
+1389_22	det	1389_24
+1389_22	has_surface_form	an
+1389_24	is_in_sentence	sentence_1389
+1389_24	conj	1389_14
+1389_24	has_surface_form	father
+1389_23	is_in_sentence	sentence_1389
+1389_23	amod	1389_24
+1389_23	has_surface_form	unknown
+1389_25	is_in_sentence	sentence_1389
+1389_25	punct	1389_3
+1389_25	has_surface_form	.
+1389_26	is_in_sentence	sentence_1389
+1389_26	dep	1389_26
+1389_26	has_surface_form	
+Misha B	surface_form	Misha B
+Misha B	has-parent	Florence Bryan
+Florence Bryan	surface_form	Florence Bryan

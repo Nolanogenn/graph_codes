@@ -1,0 +1,60 @@
+15255_0	is_in_sentence	sentence_15255
+15255_0	compound	15255_2
+15255_0	has_surface_form	Butler
+15255_0	part_of_entity	Butler Catholic School
+15255_2	is_in_sentence	sentence_15255
+15255_2	nsubj	15255_3
+15255_2	has_surface_form	School
+15255_2	part_of_entity	Butler Catholic School
+15255_1	is_in_sentence	sentence_15255
+15255_1	compound	15255_2
+15255_1	has_surface_form	Catholic
+15255_1	part_of_entity	Butler Catholic School
+15255_3	is_in_sentence	sentence_15255
+15255_3	ROOT	15255_3
+15255_3	has_surface_form	is
+15255_4	is_in_sentence	sentence_15255
+15255_4	det	15255_8
+15255_4	has_surface_form	a
+15255_8	is_in_sentence	sentence_15255
+15255_8	attr	15255_3
+15255_8	has_surface_form	school
+15255_5	is_in_sentence	sentence_15255
+15255_5	amod	15255_8
+15255_5	has_surface_form	Catholic
+15255_6	is_in_sentence	sentence_15255
+15255_6	amod	15255_8
+15255_6	has_surface_form	private
+15255_7	is_in_sentence	sentence_15255
+15255_7	amod	15255_8
+15255_7	has_surface_form	elementary
+15255_9	is_in_sentence	sentence_15255
+15255_9	acl	15255_8
+15255_9	has_surface_form	located
+15255_10	is_in_sentence	sentence_15255
+15255_10	prep	15255_9
+15255_10	has_surface_form	in
+15255_11	is_in_sentence	sentence_15255
+15255_11	pobj	15255_10
+15255_11	has_surface_form	Butler
+15255_12	is_in_sentence	sentence_15255
+15255_12	punct	15255_11
+15255_12	has_surface_form	,
+15255_13	is_in_sentence	sentence_15255
+15255_13	conj	15255_11
+15255_13	has_surface_form	Pennsylvania
+15255_14	is_in_sentence	sentence_15255
+15255_14	punct	15255_13
+15255_14	has_surface_form	,
+15255_15	is_in_sentence	sentence_15255
+15255_15	appos	15255_13
+15255_15	has_surface_form	USA
+15255_16	is_in_sentence	sentence_15255
+15255_16	punct	15255_3
+15255_16	has_surface_form	.
+15255_17	is_in_sentence	sentence_15255
+15255_17	dep	15255_3
+15255_17	has_surface_form	
+Butler Catholic School	surface_form	Butler Catholic School
+Butler Catholic School	is-where	Butler, Pennsylvania
+Butler, Pennsylvania	surface_form	Butler, Pennsylvania

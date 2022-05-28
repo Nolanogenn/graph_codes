@@ -1,0 +1,68 @@
+21324_0	is_in_sentence	sentence_21324
+21324_0	compound	21324_1
+21324_0	has_surface_form	Fox
+21324_0	part_of_entity	Fox Valley Lutheran High School
+21324_1	is_in_sentence	sentence_21324
+21324_1	compound	21324_4
+21324_1	has_surface_form	Valley
+21324_1	part_of_entity	Fox Valley Lutheran High School
+21324_4	is_in_sentence	sentence_21324
+21324_4	nsubj	21324_8
+21324_4	has_surface_form	School
+21324_4	part_of_entity	Fox Valley Lutheran High School
+21324_2	is_in_sentence	sentence_21324
+21324_2	compound	21324_4
+21324_2	has_surface_form	Lutheran
+21324_2	part_of_entity	Fox Valley Lutheran High School
+21324_3	is_in_sentence	sentence_21324
+21324_3	compound	21324_4
+21324_3	has_surface_form	High
+21324_3	part_of_entity	Fox Valley Lutheran High School
+21324_8	is_in_sentence	sentence_21324
+21324_8	ROOT	21324_8
+21324_8	has_surface_form	is
+21324_5	is_in_sentence	sentence_21324
+21324_5	punct	21324_4
+21324_5	has_surface_form	(
+21324_6	is_in_sentence	sentence_21324
+21324_6	appos	21324_4
+21324_6	has_surface_form	FVLHS
+21324_7	is_in_sentence	sentence_21324
+21324_7	punct	21324_4
+21324_7	has_surface_form	)
+21324_9	is_in_sentence	sentence_21324
+21324_9	det	21324_12
+21324_9	has_surface_form	a
+21324_12	is_in_sentence	sentence_21324
+21324_12	attr	21324_8
+21324_12	has_surface_form	school
+21324_10	is_in_sentence	sentence_21324
+21324_10	nmod	21324_12
+21324_10	has_surface_form	Lutheran
+21324_11	is_in_sentence	sentence_21324
+21324_11	amod	21324_12
+21324_11	has_surface_form	high
+21324_13	is_in_sentence	sentence_21324
+21324_13	acl	21324_12
+21324_13	has_surface_form	located
+21324_14	is_in_sentence	sentence_21324
+21324_14	prep	21324_13
+21324_14	has_surface_form	in
+21324_15	is_in_sentence	sentence_21324
+21324_15	pobj	21324_14
+21324_15	has_surface_form	Appleton
+21324_16	is_in_sentence	sentence_21324
+21324_16	punct	21324_15
+21324_16	has_surface_form	,
+21324_17	is_in_sentence	sentence_21324
+21324_17	appos	21324_15
+21324_17	has_surface_form	Wisconsin
+21324_18	is_in_sentence	sentence_21324
+21324_18	punct	21324_8
+21324_18	has_surface_form	.
+21324_19	is_in_sentence	sentence_21324
+21324_19	dep	21324_8
+21324_19	has_surface_form	
+Fox Valley Lutheran High School	surface_form	Fox Valley Lutheran High School
+Fox Valley Lutheran High School	is-where	Appleton, Wisconsin
+Appleton, Wisconsin	surface_form	Appleton, Wisconsin

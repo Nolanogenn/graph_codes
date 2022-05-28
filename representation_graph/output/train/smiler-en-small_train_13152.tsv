@@ -1,0 +1,101 @@
+13151_0	is_in_sentence	sentence_13151
+13151_0	compound	13151_1
+13151_0	has_surface_form	Pennsylvania
+13151_0	part_of_entity	Pennsylvania Route 488
+13151_1	is_in_sentence	sentence_13151
+13151_1	nsubj	13151_7
+13151_1	has_surface_form	Route
+13151_1	part_of_entity	Pennsylvania Route 488
+13151_7	is_in_sentence	sentence_13151
+13151_7	ROOT	13151_7
+13151_7	has_surface_form	is
+13151_2	is_in_sentence	sentence_13151
+13151_2	nummod	13151_1
+13151_2	has_surface_form	488
+13151_2	part_of_entity	Pennsylvania Route 488
+13151_3	is_in_sentence	sentence_13151
+13151_3	punct	13151_1
+13151_3	has_surface_form	(
+13151_4	is_in_sentence	sentence_13151
+13151_4	appos	13151_1
+13151_4	has_surface_form	PA
+13151_5	is_in_sentence	sentence_13151
+13151_5	nummod	13151_4
+13151_5	has_surface_form	488
+13151_6	is_in_sentence	sentence_13151
+13151_6	punct	13151_4
+13151_6	has_surface_form	)
+13151_8	is_in_sentence	sentence_13151
+13151_8	det	13151_20
+13151_8	has_surface_form	a
+13151_20	is_in_sentence	sentence_13151
+13151_20	attr	13151_7
+13151_20	has_surface_form	highway
+13151_20	part_of_entity	state highway
+13151_9	is_in_sentence	sentence_13151
+13151_9	nummod	13151_11
+13151_9	has_surface_form	17
+13151_11	is_in_sentence	sentence_13151
+13151_11	npadvmod	13151_13
+13151_11	has_surface_form	mile
+13151_10	is_in_sentence	sentence_13151
+13151_10	punct	13151_11
+13151_10	has_surface_form	-
+13151_13	is_in_sentence	sentence_13151
+13151_13	amod	13151_20
+13151_13	has_surface_form	long
+13151_12	is_in_sentence	sentence_13151
+13151_12	punct	13151_13
+13151_12	has_surface_form	-
+13151_14	is_in_sentence	sentence_13151
+13151_14	punct	13151_20
+13151_14	has_surface_form	(
+13151_15	is_in_sentence	sentence_13151
+13151_15	nummod	13151_20
+13151_15	has_surface_form	27
+13151_16	is_in_sentence	sentence_13151
+13151_16	dep	13151_20
+13151_16	has_surface_form	 
+13151_17	is_in_sentence	sentence_13151
+13151_17	nmod	13151_20
+13151_17	has_surface_form	km
+13151_18	is_in_sentence	sentence_13151
+13151_18	punct	13151_20
+13151_18	has_surface_form	)
+13151_19	is_in_sentence	sentence_13151
+13151_19	compound	13151_20
+13151_19	has_surface_form	state
+13151_19	part_of_entity	state highway
+13151_21	is_in_sentence	sentence_13151
+13151_21	acl	13151_20
+13151_21	has_surface_form	located
+13151_22	is_in_sentence	sentence_13151
+13151_22	prep	13151_21
+13151_22	has_surface_form	in
+13151_23	is_in_sentence	sentence_13151
+13151_23	nmod	13151_26
+13151_23	has_surface_form	Lawrence
+13151_26	is_in_sentence	sentence_13151
+13151_26	pobj	13151_22
+13151_26	has_surface_form	Counties
+13151_24	is_in_sentence	sentence_13151
+13151_24	cc	13151_23
+13151_24	has_surface_form	and
+13151_25	is_in_sentence	sentence_13151
+13151_25	conj	13151_23
+13151_25	has_surface_form	Butler
+13151_27	is_in_sentence	sentence_13151
+13151_27	prep	13151_21
+13151_27	has_surface_form	in
+13151_28	is_in_sentence	sentence_13151
+13151_28	pobj	13151_27
+13151_28	has_surface_form	Pennsylvania
+13151_29	is_in_sentence	sentence_13151
+13151_29	punct	13151_7
+13151_29	has_surface_form	.
+13151_30	is_in_sentence	sentence_13151
+13151_30	dep	13151_30
+13151_30	has_surface_form	
+Pennsylvania Route 488	surface_form	Pennsylvania Route 488
+Pennsylvania Route 488	has-type	state highway
+state highway	surface_form	state highway

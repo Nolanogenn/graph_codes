@@ -1,0 +1,61 @@
+5541_0	is_in_sentence	sentence_5541
+5541_0	compound	5541_1
+5541_0	has_surface_form	Summer
+5541_0	part_of_entity	Summer Bachelors
+5541_1	is_in_sentence	sentence_5541
+5541_1	nsubj	5541_2
+5541_1	has_surface_form	Bachelors
+5541_1	part_of_entity	Summer Bachelors
+5541_2	is_in_sentence	sentence_5541
+5541_2	ROOT	5541_2
+5541_2	has_surface_form	is
+5541_3	is_in_sentence	sentence_5541
+5541_3	det	5541_9
+5541_3	has_surface_form	a
+5541_9	is_in_sentence	sentence_5541
+5541_9	attr	5541_2
+5541_9	has_surface_form	film
+5541_4	is_in_sentence	sentence_5541
+5541_4	nummod	5541_9
+5541_4	has_surface_form	1926
+5541_5	is_in_sentence	sentence_5541
+5541_5	amod	5541_9
+5541_5	has_surface_form	American
+5541_6	is_in_sentence	sentence_5541
+5541_6	amod	5541_9
+5541_6	has_surface_form	silent
+5541_7	is_in_sentence	sentence_5541
+5541_7	amod	5541_9
+5541_7	has_surface_form	romantic
+5541_8	is_in_sentence	sentence_5541
+5541_8	compound	5541_9
+5541_8	has_surface_form	comedy
+5541_10	is_in_sentence	sentence_5541
+5541_10	acl	5541_9
+5541_10	has_surface_form	produced
+5541_11	is_in_sentence	sentence_5541
+5541_11	cc	5541_10
+5541_11	has_surface_form	and
+5541_12	is_in_sentence	sentence_5541
+5541_12	conj	5541_10
+5541_12	has_surface_form	directed
+5541_13	is_in_sentence	sentence_5541
+5541_13	agent	5541_12
+5541_13	has_surface_form	by
+5541_14	is_in_sentence	sentence_5541
+5541_14	compound	5541_15
+5541_14	has_surface_form	Allan
+5541_14	part_of_entity	Allan Dwan
+5541_15	is_in_sentence	sentence_5541
+5541_15	pobj	5541_13
+5541_15	has_surface_form	Dwan
+5541_15	part_of_entity	Allan Dwan
+5541_16	is_in_sentence	sentence_5541
+5541_16	punct	5541_2
+5541_16	has_surface_form	.
+5541_17	is_in_sentence	sentence_5541
+5541_17	dep	5541_2
+5541_17	has_surface_form	
+Summer Bachelors	surface_form	Summer Bachelors
+Summer Bachelors	movie-has-director	Allan Dwan
+Allan Dwan	surface_form	Allan Dwan

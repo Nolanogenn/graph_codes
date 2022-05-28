@@ -1,0 +1,61 @@
+4760_0	is_in_sentence	sentence_4760
+4760_0	compound	4760_1
+4760_0	has_surface_form	Sindoora
+4760_0	part_of_entity	Sindoora Rekha
+4760_1	is_in_sentence	sentence_4760
+4760_1	nsubj	4760_2
+4760_1	has_surface_form	Rekha
+4760_1	part_of_entity	Sindoora Rekha
+4760_2	is_in_sentence	sentence_4760
+4760_2	ROOT	4760_2
+4760_2	has_surface_form	is
+4760_3	is_in_sentence	sentence_4760
+4760_3	det	4760_7
+4760_3	has_surface_form	a
+4760_7	is_in_sentence	sentence_4760
+4760_7	attr	4760_2
+4760_7	has_surface_form	film
+4760_4	is_in_sentence	sentence_4760
+4760_4	nummod	4760_7
+4760_4	has_surface_form	1995
+4760_5	is_in_sentence	sentence_4760
+4760_5	amod	4760_7
+4760_5	has_surface_form	Indian
+4760_6	is_in_sentence	sentence_4760
+4760_6	compound	4760_7
+4760_6	has_surface_form	Malayalam
+4760_8	is_in_sentence	sentence_4760
+4760_8	punct	4760_7
+4760_8	has_surface_form	,
+4760_9	is_in_sentence	sentence_4760
+4760_9	acl	4760_7
+4760_9	has_surface_form	directed
+4760_10	is_in_sentence	sentence_4760
+4760_10	agent	4760_9
+4760_10	has_surface_form	by
+4760_11	is_in_sentence	sentence_4760
+4760_11	compound	4760_12
+4760_11	has_surface_form	Sibi
+4760_11	part_of_entity	Sibi Malayil
+4760_12	is_in_sentence	sentence_4760
+4760_12	pobj	4760_10
+4760_12	has_surface_form	Malayil
+4760_12	part_of_entity	Sibi Malayil
+4760_13	is_in_sentence	sentence_4760
+4760_13	cc	4760_9
+4760_13	has_surface_form	and
+4760_14	is_in_sentence	sentence_4760
+4760_14	conj	4760_9
+4760_14	has_surface_form	produced
+4760_15	is_in_sentence	sentence_4760
+4760_15	agent	4760_14
+4760_15	has_surface_form	by
+4760_16	is_in_sentence	sentence_4760
+4760_16	pobj	4760_15
+4760_16	has_surface_form	G.
+4760_17	is_in_sentence	sentence_4760
+4760_17	dep	4760_15
+4760_17	has_surface_form	
+Sindoora Rekha	surface_form	Sindoora Rekha
+Sindoora Rekha	movie-has-director	Sibi Malayil
+Sibi Malayil	surface_form	Sibi Malayil

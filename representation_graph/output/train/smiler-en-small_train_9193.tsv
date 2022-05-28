@@ -1,0 +1,70 @@
+9192_0	is_in_sentence	sentence_9192
+9192_0	compound	9192_1
+9192_0	has_surface_form	Kenny
+9192_0	part_of_entity	Kenny Howes
+9192_1	is_in_sentence	sentence_9192
+9192_1	nsubj	9192_9
+9192_1	has_surface_form	Howes
+9192_1	part_of_entity	Kenny Howes
+9192_9	is_in_sentence	sentence_9192
+9192_9	ROOT	9192_9
+9192_9	has_surface_form	is
+9192_2	is_in_sentence	sentence_9192
+9192_2	punct	9192_1
+9192_2	has_surface_form	(
+9192_3	is_in_sentence	sentence_9192
+9192_3	acl	9192_1
+9192_3	has_surface_form	born
+9192_4	is_in_sentence	sentence_9192
+9192_4	npadvmod	9192_3
+9192_4	has_surface_form	February
+9192_5	is_in_sentence	sentence_9192
+9192_5	nummod	9192_4
+9192_5	has_surface_form	10
+9192_6	is_in_sentence	sentence_9192
+9192_6	punct	9192_4
+9192_6	has_surface_form	,
+9192_7	is_in_sentence	sentence_9192
+9192_7	nummod	9192_4
+9192_7	has_surface_form	1970
+9192_8	is_in_sentence	sentence_9192
+9192_8	punct	9192_1
+9192_8	has_surface_form	)
+9192_10	is_in_sentence	sentence_9192
+9192_10	det	9192_12
+9192_10	has_surface_form	an
+9192_12	is_in_sentence	sentence_9192
+9192_12	attr	9192_9
+9192_12	has_surface_form	musician
+9192_11	is_in_sentence	sentence_9192
+9192_11	amod	9192_12
+9192_11	has_surface_form	American
+9192_13	is_in_sentence	sentence_9192
+9192_13	advmod	9192_14
+9192_13	has_surface_form	primarily
+9192_14	is_in_sentence	sentence_9192
+9192_14	prep	9192_12
+9192_14	has_surface_form	in
+9192_15	is_in_sentence	sentence_9192
+9192_15	det	9192_18
+9192_15	has_surface_form	the
+9192_18	is_in_sentence	sentence_9192
+9192_18	pobj	9192_14
+9192_18	has_surface_form	genre
+9192_16	is_in_sentence	sentence_9192
+9192_16	compound	9192_17
+9192_16	has_surface_form	power
+9192_16	part_of_entity	power pop
+9192_17	is_in_sentence	sentence_9192
+9192_17	compound	9192_18
+9192_17	has_surface_form	pop
+9192_17	part_of_entity	power pop
+9192_19	is_in_sentence	sentence_9192
+9192_19	punct	9192_9
+9192_19	has_surface_form	.
+9192_20	is_in_sentence	sentence_9192
+9192_20	dep	9192_9
+9192_20	has_surface_form	
+Kenny Howes	surface_form	Kenny Howes
+Kenny Howes	has-genre	power pop
+power pop	surface_form	power pop

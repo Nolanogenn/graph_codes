@@ -1,0 +1,57 @@
+2601_0	is_in_sentence	sentence_2601
+2601_0	compound	2601_2
+2601_0	has_surface_form	Jon
+2601_0	part_of_entity	Jon Michael Hill
+2601_2	is_in_sentence	sentence_2601
+2601_2	nsubj	2601_3
+2601_2	has_surface_form	Hill
+2601_2	part_of_entity	Jon Michael Hill
+2601_1	is_in_sentence	sentence_2601
+2601_1	compound	2601_2
+2601_1	has_surface_form	Michael
+2601_1	part_of_entity	Jon Michael Hill
+2601_3	is_in_sentence	sentence_2601
+2601_3	ROOT	2601_3
+2601_3	has_surface_form	is
+2601_4	is_in_sentence	sentence_2601
+2601_4	det	2601_6
+2601_4	has_surface_form	an
+2601_6	is_in_sentence	sentence_2601
+2601_6	attr	2601_3
+2601_6	has_surface_form	actor
+2601_5	is_in_sentence	sentence_2601
+2601_5	amod	2601_6
+2601_5	has_surface_form	American
+2601_7	is_in_sentence	sentence_2601
+2601_7	punct	2601_3
+2601_7	has_surface_form	.
+2601_8	is_in_sentence	sentence_2601
+2601_8	nsubjpass	2601_10
+2601_8	has_surface_form	Hill
+2601_10	is_in_sentence	sentence_2601
+2601_10	ROOT	2601_10
+2601_10	has_surface_form	born
+2601_9	is_in_sentence	sentence_2601
+2601_9	auxpass	2601_10
+2601_9	has_surface_form	was
+2601_11	is_in_sentence	sentence_2601
+2601_11	prep	2601_10
+2601_11	has_surface_form	in
+2601_12	is_in_sentence	sentence_2601
+2601_12	pobj	2601_11
+2601_12	has_surface_form	Waukegan
+2601_13	is_in_sentence	sentence_2601
+2601_13	punct	2601_12
+2601_13	has_surface_form	,
+2601_14	is_in_sentence	sentence_2601
+2601_14	appos	2601_12
+2601_14	has_surface_form	Illinois
+2601_15	is_in_sentence	sentence_2601
+2601_15	punct	2601_10
+2601_15	has_surface_form	.
+2601_16	is_in_sentence	sentence_2601
+2601_16	dep	2601_16
+2601_16	has_surface_form	
+Jon Michael Hill	surface_form	Jon Michael Hill
+Jon Michael Hill	birth-place	Waukegan, Illinois
+Waukegan, Illinois	surface_form	Waukegan, Illinois

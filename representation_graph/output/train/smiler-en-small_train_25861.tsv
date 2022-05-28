@@ -1,0 +1,78 @@
+25860_0	is_in_sentence	sentence_25860
+25860_0	det	25860_2
+25860_0	has_surface_form	The
+25860_0	part_of_entity	The Strange House
+25860_2	is_in_sentence	sentence_25860
+25860_2	nsubj	25860_8
+25860_2	has_surface_form	House
+25860_2	part_of_entity	The Strange House
+25860_1	is_in_sentence	sentence_25860
+25860_1	compound	25860_2
+25860_1	has_surface_form	Strange
+25860_1	part_of_entity	The Strange House
+25860_8	is_in_sentence	sentence_25860
+25860_8	ROOT	25860_8
+25860_8	has_surface_form	is
+25860_3	is_in_sentence	sentence_25860
+25860_3	punct	25860_6
+25860_3	has_surface_form	(
+25860_6	is_in_sentence	sentence_25860
+25860_6	appos	25860_2
+25860_6	has_surface_form	通灵之六世古宅
+25860_4	is_in_sentence	sentence_25860
+25860_4	nmod	25860_6
+25860_4	has_surface_form	Chinese
+25860_5	is_in_sentence	sentence_25860
+25860_5	punct	25860_6
+25860_5	has_surface_form	:
+25860_7	is_in_sentence	sentence_25860
+25860_7	punct	25860_6
+25860_7	has_surface_form	)
+25860_9	is_in_sentence	sentence_25860
+25860_9	det	25860_15
+25860_9	has_surface_form	a
+25860_15	is_in_sentence	sentence_25860
+25860_15	attr	25860_8
+25860_15	has_surface_form	film
+25860_10	is_in_sentence	sentence_25860
+25860_10	nummod	25860_15
+25860_10	has_surface_form	2015
+25860_11	is_in_sentence	sentence_25860
+25860_11	amod	25860_12
+25860_11	has_surface_form	Chinese
+25860_12	is_in_sentence	sentence_25860
+25860_12	compound	25860_13
+25860_12	has_surface_form	3D
+25860_13	is_in_sentence	sentence_25860
+25860_13	compound	25860_15
+25860_13	has_surface_form	horror
+25860_14	is_in_sentence	sentence_25860
+25860_14	compound	25860_15
+25860_14	has_surface_form	thriller
+25860_16	is_in_sentence	sentence_25860
+25860_16	acl	25860_15
+25860_16	has_surface_form	directed
+25860_17	is_in_sentence	sentence_25860
+25860_17	agent	25860_16
+25860_17	has_surface_form	by
+25860_18	is_in_sentence	sentence_25860
+25860_18	compound	25860_20
+25860_18	has_surface_form	Danny
+25860_18	part_of_entity	Danny Pang Phat
+25860_20	is_in_sentence	sentence_25860
+25860_20	pobj	25860_17
+25860_20	has_surface_form	Phat
+25860_20	part_of_entity	Danny Pang Phat
+25860_19	is_in_sentence	sentence_25860
+25860_19	compound	25860_20
+25860_19	has_surface_form	Pang
+25860_19	part_of_entity	Danny Pang Phat
+25860_21	is_in_sentence	sentence_25860
+25860_21	punct	25860_8
+25860_21	has_surface_form	.
+25860_22	is_in_sentence	sentence_25860
+25860_22	dep	25860_8
+25860_22	has_surface_form	
+The Strange House	surface_form	The Strange House
+The Strange House	movie-has-director	Danny Pang Phat
+Danny Pang Phat	surface_form	Danny Pang Phat

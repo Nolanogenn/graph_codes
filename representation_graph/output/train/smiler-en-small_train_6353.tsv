@@ -1,0 +1,56 @@
+6352_0	is_in_sentence	sentence_6352
+6352_0	compound	6352_1
+6352_0	has_surface_form	Nick
+6352_0	part_of_entity	Nick Conway
+6352_1	is_in_sentence	sentence_6352
+6352_1	nsubj	6352_11
+6352_1	has_surface_form	Conway
+6352_1	part_of_entity	Nick Conway
+6352_11	is_in_sentence	sentence_6352
+6352_11	ROOT	6352_11
+6352_11	has_surface_form	is
+6352_2	is_in_sentence	sentence_6352
+6352_2	punct	6352_1
+6352_2	has_surface_form	(
+6352_3	is_in_sentence	sentence_6352
+6352_3	acl	6352_1
+6352_3	has_surface_form	born
+6352_4	is_in_sentence	sentence_6352
+6352_4	compound	6352_5
+6352_4	has_surface_form	Nicholas
+6352_5	is_in_sentence	sentence_6352
+6352_5	dobj	6352_3
+6352_5	has_surface_form	Campbell
+6352_6	is_in_sentence	sentence_6352
+6352_6	prep	6352_3
+6352_6	has_surface_form	on
+6352_7	is_in_sentence	sentence_6352
+6352_7	nummod	6352_8
+6352_7	has_surface_form	25
+6352_8	is_in_sentence	sentence_6352
+6352_8	pobj	6352_6
+6352_8	has_surface_form	December
+6352_9	is_in_sentence	sentence_6352
+6352_9	nummod	6352_8
+6352_9	has_surface_form	1962
+6352_10	is_in_sentence	sentence_6352
+6352_10	punct	6352_1
+6352_10	has_surface_form	)
+6352_12	is_in_sentence	sentence_6352
+6352_12	det	6352_14
+6352_12	has_surface_form	an
+6352_14	is_in_sentence	sentence_6352
+6352_14	attr	6352_11
+6352_14	is_entity	actor
+6352_13	is_in_sentence	sentence_6352
+6352_13	amod	6352_14
+6352_13	has_surface_form	English
+actor	surface_form	actor
+6352_15	is_in_sentence	sentence_6352
+6352_15	punct	6352_11
+6352_15	has_surface_form	.
+6352_16	is_in_sentence	sentence_6352
+6352_16	dep	6352_11
+6352_16	has_surface_form	
+Nick Conway	surface_form	Nick Conway
+Nick Conway	has-occupation	actor

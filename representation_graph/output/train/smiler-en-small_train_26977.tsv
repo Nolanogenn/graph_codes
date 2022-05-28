@@ -1,0 +1,84 @@
+26976_0	is_in_sentence	sentence_26976
+26976_0	det	26976_2
+26976_0	has_surface_form	The
+26976_0	part_of_entity	The Miami Story
+26976_2	is_in_sentence	sentence_26976
+26976_2	nsubj	26976_3
+26976_2	has_surface_form	Story
+26976_2	part_of_entity	The Miami Story
+26976_1	is_in_sentence	sentence_26976
+26976_1	compound	26976_2
+26976_1	has_surface_form	Miami
+26976_1	part_of_entity	The Miami Story
+26976_3	is_in_sentence	sentence_26976
+26976_3	ROOT	26976_3
+26976_3	has_surface_form	is
+26976_4	is_in_sentence	sentence_26976
+26976_4	det	26976_10
+26976_4	has_surface_form	a
+26976_10	is_in_sentence	sentence_26976
+26976_10	attr	26976_3
+26976_10	has_surface_form	film
+26976_5	is_in_sentence	sentence_26976
+26976_5	nummod	26976_10
+26976_5	has_surface_form	1954
+26976_6	is_in_sentence	sentence_26976
+26976_6	amod	26976_10
+26976_6	has_surface_form	American
+26976_7	is_in_sentence	sentence_26976
+26976_7	compound	26976_10
+26976_7	has_surface_form	film
+26976_8	is_in_sentence	sentence_26976
+26976_8	compound	26976_10
+26976_8	has_surface_form	noir
+26976_9	is_in_sentence	sentence_26976
+26976_9	compound	26976_10
+26976_9	has_surface_form	crime
+26976_11	is_in_sentence	sentence_26976
+26976_11	acl	26976_10
+26976_11	has_surface_form	directed
+26976_12	is_in_sentence	sentence_26976
+26976_12	agent	26976_11
+26976_12	has_surface_form	by
+26976_13	is_in_sentence	sentence_26976
+26976_13	compound	26976_15
+26976_13	has_surface_form	Fred
+26976_13	part_of_entity	Fred F. Sears
+26976_15	is_in_sentence	sentence_26976
+26976_15	pobj	26976_12
+26976_15	has_surface_form	Sears
+26976_15	part_of_entity	Fred F. Sears
+26976_14	is_in_sentence	sentence_26976
+26976_14	compound	26976_15
+26976_14	has_surface_form	F.
+26976_14	part_of_entity	Fred F. Sears
+26976_16	is_in_sentence	sentence_26976
+26976_16	cc	26976_11
+26976_16	has_surface_form	and
+26976_17	is_in_sentence	sentence_26976
+26976_17	conj	26976_11
+26976_17	has_surface_form	starring
+26976_18	is_in_sentence	sentence_26976
+26976_18	nmod	26976_22
+26976_18	has_surface_form	Barry
+26976_22	is_in_sentence	sentence_26976
+26976_22	dobj	26976_17
+26976_22	has_surface_form	Adler
+26976_19	is_in_sentence	sentence_26976
+26976_19	nmod	26976_22
+26976_19	has_surface_form	Sullivan
+26976_20	is_in_sentence	sentence_26976
+26976_20	cc	26976_19
+26976_20	has_surface_form	and
+26976_21	is_in_sentence	sentence_26976
+26976_21	conj	26976_19
+26976_21	has_surface_form	Luther
+26976_23	is_in_sentence	sentence_26976
+26976_23	punct	26976_3
+26976_23	has_surface_form	.
+26976_24	is_in_sentence	sentence_26976
+26976_24	dep	26976_3
+26976_24	has_surface_form	
+The Miami Story	surface_form	The Miami Story
+The Miami Story	movie-has-director	Fred F. Sears
+Fred F. Sears	surface_form	Fred F. Sears

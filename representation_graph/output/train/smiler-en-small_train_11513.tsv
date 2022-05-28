@@ -1,0 +1,65 @@
+11512_0	is_in_sentence	sentence_11512
+11512_0	det	11512_2
+11512_0	has_surface_form	The
+11512_2	is_in_sentence	sentence_11512
+11512_2	nsubj	11512_3
+11512_2	has_surface_form	Piano
+11512_2	part_of_entity	Optophonic Piano
+11512_1	is_in_sentence	sentence_11512
+11512_1	compound	11512_2
+11512_1	has_surface_form	Optophonic
+11512_1	part_of_entity	Optophonic Piano
+11512_3	is_in_sentence	sentence_11512
+11512_3	ROOT	11512_3
+11512_3	has_surface_form	is
+11512_4	is_in_sentence	sentence_11512
+11512_4	det	11512_7
+11512_4	has_surface_form	an
+11512_7	is_in_sentence	sentence_11512
+11512_7	attr	11512_3
+11512_7	has_surface_form	instrument
+11512_5	is_in_sentence	sentence_11512
+11512_5	amod	11512_7
+11512_5	has_surface_form	electronic
+11512_6	is_in_sentence	sentence_11512
+11512_6	amod	11512_7
+11512_6	has_surface_form	optical
+11512_8	is_in_sentence	sentence_11512
+11512_8	acl	11512_7
+11512_8	has_surface_form	created
+11512_9	is_in_sentence	sentence_11512
+11512_9	agent	11512_8
+11512_9	has_surface_form	by
+11512_10	is_in_sentence	sentence_11512
+11512_10	det	11512_13
+11512_10	has_surface_form	the
+11512_13	is_in_sentence	sentence_11512
+11512_13	compound	11512_16
+11512_13	has_surface_form	painter
+11512_11	is_in_sentence	sentence_11512
+11512_11	compound	11512_12
+11512_11	has_surface_form	Russian
+11512_12	is_in_sentence	sentence_11512
+11512_12	compound	11512_13
+11512_12	has_surface_form	Futurist
+11512_16	is_in_sentence	sentence_11512
+11512_16	pobj	11512_9
+11512_16	has_surface_form	Rossiné
+11512_16	part_of_entity	Vladimir Baranoff Rossiné
+11512_14	is_in_sentence	sentence_11512
+11512_14	compound	11512_16
+11512_14	has_surface_form	Vladimir
+11512_14	part_of_entity	Vladimir Baranoff Rossiné
+11512_15	is_in_sentence	sentence_11512
+11512_15	compound	11512_16
+11512_15	has_surface_form	Baranoff
+11512_15	part_of_entity	Vladimir Baranoff Rossiné
+11512_17	is_in_sentence	sentence_11512
+11512_17	punct	11512_3
+11512_17	has_surface_form	.
+11512_18	is_in_sentence	sentence_11512
+11512_18	dep	11512_3
+11512_18	has_surface_form	
+Optophonic Piano	surface_form	Optophonic Piano
+Optophonic Piano	invented-by	Vladimir Baranoff Rossiné
+Vladimir Baranoff Rossiné	surface_form	Vladimir Baranoff Rossiné

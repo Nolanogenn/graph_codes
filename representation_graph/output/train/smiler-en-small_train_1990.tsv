@@ -1,0 +1,74 @@
+1989_0	is_in_sentence	sentence_1989
+1989_0	compound	1989_1
+1989_0	has_surface_form	Madras
+1989_0	part_of_entity	Madras School of Social Work
+1989_1	is_in_sentence	sentence_1989
+1989_1	nsubj	1989_8
+1989_1	has_surface_form	School
+1989_1	part_of_entity	Madras School of Social Work
+1989_8	is_in_sentence	sentence_1989
+1989_8	ROOT	1989_8
+1989_8	has_surface_form	is
+1989_2	is_in_sentence	sentence_1989
+1989_2	prep	1989_1
+1989_2	has_surface_form	of
+1989_2	part_of_entity	Madras School of Social Work
+1989_3	is_in_sentence	sentence_1989
+1989_3	compound	1989_4
+1989_3	has_surface_form	Social
+1989_3	part_of_entity	Madras School of Social Work
+1989_4	is_in_sentence	sentence_1989
+1989_4	pobj	1989_2
+1989_4	has_surface_form	Work
+1989_4	part_of_entity	Madras School of Social Work
+1989_5	is_in_sentence	sentence_1989
+1989_5	punct	1989_1
+1989_5	has_surface_form	(
+1989_6	is_in_sentence	sentence_1989
+1989_6	appos	1989_1
+1989_6	has_surface_form	MSSW
+1989_7	is_in_sentence	sentence_1989
+1989_7	punct	1989_1
+1989_7	has_surface_form	)
+1989_9	is_in_sentence	sentence_1989
+1989_9	det	1989_11
+1989_9	has_surface_form	an
+1989_11	is_in_sentence	sentence_1989
+1989_11	attr	1989_8
+1989_11	is_entity	college
+1989_10	is_in_sentence	sentence_1989
+1989_10	amod	1989_11
+1989_10	has_surface_form	autonomous
+college	surface_form	college
+1989_12	is_in_sentence	sentence_1989
+1989_12	acl	1989_11
+1989_12	has_surface_form	located
+1989_13	is_in_sentence	sentence_1989
+1989_13	prep	1989_12
+1989_13	has_surface_form	in
+1989_14	is_in_sentence	sentence_1989
+1989_14	pobj	1989_13
+1989_14	has_surface_form	Chennai
+1989_15	is_in_sentence	sentence_1989
+1989_15	punct	1989_14
+1989_15	has_surface_form	,
+1989_16	is_in_sentence	sentence_1989
+1989_16	compound	1989_17
+1989_16	has_surface_form	Tamil
+1989_17	is_in_sentence	sentence_1989
+1989_17	conj	1989_14
+1989_17	has_surface_form	Nadu
+1989_18	is_in_sentence	sentence_1989
+1989_18	punct	1989_17
+1989_18	has_surface_form	,
+1989_19	is_in_sentence	sentence_1989
+1989_19	npadvmod	1989_17
+1989_19	has_surface_form	India
+1989_20	is_in_sentence	sentence_1989
+1989_20	punct	1989_8
+1989_20	has_surface_form	.
+1989_21	is_in_sentence	sentence_1989
+1989_21	dep	1989_21
+1989_21	has_surface_form	
+Madras School of Social Work	surface_form	Madras School of Social Work
+Madras School of Social Work	has-type	college

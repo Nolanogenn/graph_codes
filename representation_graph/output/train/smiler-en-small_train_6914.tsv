@@ -1,0 +1,65 @@
+6913_0	is_in_sentence	sentence_6913
+6913_0	compound	6913_1
+6913_0	has_surface_form	Niamh
+6913_0	part_of_entity	Niamh Parsons
+6913_1	is_in_sentence	sentence_6913
+6913_1	nsubj	6913_9
+6913_1	has_surface_form	Parsons
+6913_1	part_of_entity	Niamh Parsons
+6913_9	is_in_sentence	sentence_6913
+6913_9	ROOT	6913_9
+6913_9	has_surface_form	is
+6913_2	is_in_sentence	sentence_6913
+6913_2	punct	6913_1
+6913_2	has_surface_form	(
+6913_3	is_in_sentence	sentence_6913
+6913_3	acl	6913_1
+6913_3	has_surface_form	born
+6913_4	is_in_sentence	sentence_6913
+6913_4	prep	6913_3
+6913_4	has_surface_form	in
+6913_5	is_in_sentence	sentence_6913
+6913_5	pobj	6913_4
+6913_5	is_entity	Dublin
+Dublin	surface_form	Dublin
+6913_6	is_in_sentence	sentence_6913
+6913_6	punct	6913_5
+6913_6	has_surface_form	,
+6913_7	is_in_sentence	sentence_6913
+6913_7	appos	6913_5
+6913_7	has_surface_form	Ireland
+6913_8	is_in_sentence	sentence_6913
+6913_8	punct	6913_5
+6913_8	has_surface_form	)
+6913_10	is_in_sentence	sentence_6913
+6913_10	det	6913_11
+6913_10	has_surface_form	a
+6913_11	is_in_sentence	sentence_6913
+6913_11	attr	6913_9
+6913_11	has_surface_form	singer
+6913_12	is_in_sentence	sentence_6913
+6913_12	prep	6913_11
+6913_12	has_surface_form	of
+6913_13	is_in_sentence	sentence_6913
+6913_13	amod	6913_17
+6913_13	has_surface_form	contemporary
+6913_17	is_in_sentence	sentence_6913
+6913_17	pobj	6913_12
+6913_17	has_surface_form	music
+6913_14	is_in_sentence	sentence_6913
+6913_14	cc	6913_13
+6913_14	has_surface_form	and
+6913_15	is_in_sentence	sentence_6913
+6913_15	conj	6913_13
+6913_15	has_surface_form	traditional
+6913_16	is_in_sentence	sentence_6913
+6913_16	amod	6913_17
+6913_16	has_surface_form	Irish
+6913_18	is_in_sentence	sentence_6913
+6913_18	punct	6913_9
+6913_18	has_surface_form	.
+6913_19	is_in_sentence	sentence_6913
+6913_19	dep	6913_19
+6913_19	has_surface_form	
+Niamh Parsons	surface_form	Niamh Parsons
+Niamh Parsons	birth-place	Dublin

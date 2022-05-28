@@ -1,0 +1,65 @@
+3911_0	is_in_sentence	sentence_3911
+3911_0	nsubj	3911_1
+3911_0	has_surface_form	He
+3911_1	is_in_sentence	sentence_3911
+3911_1	ROOT	3911_1
+3911_1	has_surface_form	attended
+3911_2	is_in_sentence	sentence_3911
+3911_2	amod	3911_3
+3911_2	has_surface_form	high
+3911_3	is_in_sentence	sentence_3911
+3911_3	dobj	3911_1
+3911_3	has_surface_form	school
+3911_4	is_in_sentence	sentence_3911
+3911_4	prep	3911_1
+3911_4	has_surface_form	with
+3911_5	is_in_sentence	sentence_3911
+3911_5	compound	3911_6
+3911_5	has_surface_form	Ivo
+3911_5	part_of_entity	Ivo Andric
+3911_6	is_in_sentence	sentence_3911
+3911_6	pobj	3911_4
+3911_6	has_surface_form	Andric
+3911_6	part_of_entity	Ivo Andric
+3911_7	is_in_sentence	sentence_3911
+3911_7	punct	3911_6
+3911_7	has_surface_form	,
+3911_8	is_in_sentence	sentence_3911
+3911_8	det	3911_10
+3911_8	has_surface_form	the
+3911_10	is_in_sentence	sentence_3911
+3911_10	appos	3911_6
+3911_10	is_entity	Yugoslav
+3911_9	is_in_sentence	sentence_3911
+3911_9	amod	3911_10
+3911_9	has_surface_form	first
+Yugoslav	surface_form	Yugoslav
+3911_11	is_in_sentence	sentence_3911
+3911_11	aux	3911_12
+3911_11	has_surface_form	to
+3911_12	is_in_sentence	sentence_3911
+3911_12	relcl	3911_10
+3911_12	has_surface_form	win
+3911_13	is_in_sentence	sentence_3911
+3911_13	det	3911_15
+3911_13	has_surface_form	the
+3911_15	is_in_sentence	sentence_3911
+3911_15	dobj	3911_12
+3911_15	has_surface_form	Prize
+3911_14	is_in_sentence	sentence_3911
+3911_14	compound	3911_15
+3911_14	has_surface_form	Nobel
+3911_16	is_in_sentence	sentence_3911
+3911_16	prep	3911_15
+3911_16	has_surface_form	in
+3911_17	is_in_sentence	sentence_3911
+3911_17	pobj	3911_16
+3911_17	has_surface_form	Literature
+3911_18	is_in_sentence	sentence_3911
+3911_18	punct	3911_1
+3911_18	has_surface_form	.
+3911_19	is_in_sentence	sentence_3911
+3911_19	dep	3911_19
+3911_19	has_surface_form	
+Ivo Andric	surface_form	Ivo Andric
+Ivo Andric	has-nationality	Yugoslav

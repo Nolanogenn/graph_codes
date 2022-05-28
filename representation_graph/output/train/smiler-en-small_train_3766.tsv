@@ -1,0 +1,65 @@
+3765_0	is_in_sentence	sentence_3765
+3765_0	compound	3765_1
+3765_0	has_surface_form	Lucien
+3765_0	part_of_entity	Lucien Lux
+3765_1	is_in_sentence	sentence_3765
+3765_1	nsubj	3765_10
+3765_1	has_surface_form	Lux
+3765_1	part_of_entity	Lucien Lux
+3765_10	is_in_sentence	sentence_3765
+3765_10	ROOT	3765_10
+3765_10	has_surface_form	is
+3765_2	is_in_sentence	sentence_3765
+3765_2	punct	3765_1
+3765_2	has_surface_form	(
+3765_3	is_in_sentence	sentence_3765
+3765_3	acl	3765_1
+3765_3	has_surface_form	born
+3765_4	is_in_sentence	sentence_3765
+3765_4	nummod	3765_5
+3765_4	has_surface_form	13
+3765_5	is_in_sentence	sentence_3765
+3765_5	npadvmod	3765_3
+3765_5	has_surface_form	September
+3765_6	is_in_sentence	sentence_3765
+3765_6	nummod	3765_5
+3765_6	has_surface_form	1956
+3765_7	is_in_sentence	sentence_3765
+3765_7	prep	3765_3
+3765_7	has_surface_form	in
+3765_8	is_in_sentence	sentence_3765
+3765_8	pobj	3765_7
+3765_8	is_entity	Troisvierges
+Troisvierges	surface_form	Troisvierges
+3765_9	is_in_sentence	sentence_3765
+3765_9	punct	3765_1
+3765_9	has_surface_form	)
+3765_11	is_in_sentence	sentence_3765
+3765_11	det	3765_12
+3765_11	has_surface_form	a
+3765_12	is_in_sentence	sentence_3765
+3765_12	amod	3765_15
+3765_12	has_surface_form	politician
+3765_15	is_in_sentence	sentence_3765
+3765_15	acomp	3765_10
+3765_15	has_surface_form	unionist
+3765_13	is_in_sentence	sentence_3765
+3765_13	cc	3765_12
+3765_13	has_surface_form	and
+3765_14	is_in_sentence	sentence_3765
+3765_14	conj	3765_12
+3765_14	has_surface_form	trade
+3765_16	is_in_sentence	sentence_3765
+3765_16	prep	3765_15
+3765_16	has_surface_form	from
+3765_17	is_in_sentence	sentence_3765
+3765_17	pobj	3765_16
+3765_17	has_surface_form	Luxembourg
+3765_18	is_in_sentence	sentence_3765
+3765_18	punct	3765_10
+3765_18	has_surface_form	.
+3765_19	is_in_sentence	sentence_3765
+3765_19	dep	3765_10
+3765_19	has_surface_form	
+Lucien Lux	surface_form	Lucien Lux
+Lucien Lux	birth-place	Troisvierges

@@ -1,0 +1,72 @@
+18114_0	is_in_sentence	sentence_18114
+18114_0	det	18114_3
+18114_0	has_surface_form	The
+18114_3	is_in_sentence	sentence_18114
+18114_3	nsubj	18114_7
+18114_3	has_surface_form	Hospice
+18114_3	part_of_entity	North London Hospice
+18114_1	is_in_sentence	sentence_18114
+18114_1	compound	18114_2
+18114_1	has_surface_form	North
+18114_1	part_of_entity	North London Hospice
+18114_2	is_in_sentence	sentence_18114
+18114_2	compound	18114_3
+18114_2	has_surface_form	London
+18114_2	part_of_entity	North London Hospice
+18114_7	is_in_sentence	sentence_18114
+18114_7	ROOT	18114_7
+18114_7	has_surface_form	is
+18114_4	is_in_sentence	sentence_18114
+18114_4	punct	18114_5
+18114_4	has_surface_form	(
+18114_5	is_in_sentence	sentence_18114
+18114_5	appos	18114_3
+18114_5	has_surface_form	NLH
+18114_6	is_in_sentence	sentence_18114
+18114_6	punct	18114_5
+18114_6	has_surface_form	)
+18114_8	is_in_sentence	sentence_18114
+18114_8	det	18114_9
+18114_8	has_surface_form	a
+18114_9	is_in_sentence	sentence_18114
+18114_9	attr	18114_7
+18114_9	is_entity	charity
+charity	surface_form	charity
+18114_10	is_in_sentence	sentence_18114
+18114_10	acl	18114_9
+18114_10	has_surface_form	offering
+18114_11	is_in_sentence	sentence_18114
+18114_11	compound	18114_12
+18114_11	has_surface_form	hospice
+18114_12	is_in_sentence	sentence_18114
+18114_12	dobj	18114_10
+18114_12	has_surface_form	care
+18114_13	is_in_sentence	sentence_18114
+18114_13	prep	18114_10
+18114_13	has_surface_form	to
+18114_14	is_in_sentence	sentence_18114
+18114_14	pobj	18114_13
+18114_14	has_surface_form	patients
+18114_15	is_in_sentence	sentence_18114
+18114_15	prep	18114_14
+18114_15	has_surface_form	with
+18114_16	is_in_sentence	sentence_18114
+18114_16	npadvmod	18114_18
+18114_16	has_surface_form	life
+18114_18	is_in_sentence	sentence_18114
+18114_18	amod	18114_19
+18114_18	has_surface_form	limiting
+18114_17	is_in_sentence	sentence_18114
+18114_17	punct	18114_18
+18114_17	has_surface_form	-
+18114_19	is_in_sentence	sentence_18114
+18114_19	pobj	18114_15
+18114_19	has_surface_form	illnesses
+18114_20	is_in_sentence	sentence_18114
+18114_20	punct	18114_7
+18114_20	has_surface_form	.
+18114_21	is_in_sentence	sentence_18114
+18114_21	dep	18114_7
+18114_21	has_surface_form	
+North London Hospice	surface_form	North London Hospice
+North London Hospice	has-type	charity

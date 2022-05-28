@@ -1,0 +1,58 @@
+33690_0	is_in_sentence	sentence_33690
+33690_0	compound	33690_1
+33690_0	has_surface_form	Brian
+33690_0	part_of_entity	Brian McComas
+33690_1	is_in_sentence	sentence_33690
+33690_1	nsubj	33690_9
+33690_1	has_surface_form	McComas
+33690_1	part_of_entity	Brian McComas
+33690_9	is_in_sentence	sentence_33690
+33690_9	ROOT	33690_9
+33690_9	has_surface_form	is
+33690_2	is_in_sentence	sentence_33690
+33690_2	punct	33690_1
+33690_2	has_surface_form	(
+33690_3	is_in_sentence	sentence_33690
+33690_3	acl	33690_1
+33690_3	has_surface_form	born
+33690_4	is_in_sentence	sentence_33690
+33690_4	npadvmod	33690_3
+33690_4	has_surface_form	May
+33690_5	is_in_sentence	sentence_33690
+33690_5	nummod	33690_4
+33690_5	has_surface_form	23
+33690_6	is_in_sentence	sentence_33690
+33690_6	punct	33690_4
+33690_6	has_surface_form	,
+33690_7	is_in_sentence	sentence_33690
+33690_7	nummod	33690_4
+33690_7	has_surface_form	1972
+33690_8	is_in_sentence	sentence_33690
+33690_8	punct	33690_1
+33690_8	has_surface_form	)
+33690_10	is_in_sentence	sentence_33690
+33690_10	det	33690_14
+33690_10	has_surface_form	an
+33690_14	is_in_sentence	sentence_33690
+33690_14	attr	33690_9
+33690_14	has_surface_form	artist
+33690_11	is_in_sentence	sentence_33690
+33690_11	amod	33690_14
+33690_11	has_surface_form	American
+33690_12	is_in_sentence	sentence_33690
+33690_12	compound	33690_13
+33690_12	has_surface_form	country
+33690_12	part_of_entity	country music
+33690_13	is_in_sentence	sentence_33690
+33690_13	compound	33690_14
+33690_13	has_surface_form	music
+33690_13	part_of_entity	country music
+33690_15	is_in_sentence	sentence_33690
+33690_15	punct	33690_9
+33690_15	has_surface_form	.
+33690_16	is_in_sentence	sentence_33690
+33690_16	dep	33690_9
+33690_16	has_surface_form	
+Brian McComas	surface_form	Brian McComas
+Brian McComas	has-genre	country music
+country music	surface_form	country music

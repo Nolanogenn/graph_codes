@@ -1,0 +1,59 @@
+2231_0	is_in_sentence	sentence_2231
+2231_0	compound	2231_1
+2231_0	has_surface_form	Jerzy
+2231_0	part_of_entity	Jerzy Montag
+2231_1	is_in_sentence	sentence_2231
+2231_1	nsubj	2231_12
+2231_1	has_surface_form	Montag
+2231_1	part_of_entity	Jerzy Montag
+2231_12	is_in_sentence	sentence_2231
+2231_12	ROOT	2231_12
+2231_12	has_surface_form	is
+2231_2	is_in_sentence	sentence_2231
+2231_2	punct	2231_1
+2231_2	has_surface_form	(
+2231_3	is_in_sentence	sentence_2231
+2231_3	acl	2231_1
+2231_3	has_surface_form	born
+2231_4	is_in_sentence	sentence_2231
+2231_4	nummod	2231_5
+2231_4	has_surface_form	13
+2231_5	is_in_sentence	sentence_2231
+2231_5	npadvmod	2231_3
+2231_5	has_surface_form	February
+2231_6	is_in_sentence	sentence_2231
+2231_6	nummod	2231_5
+2231_6	has_surface_form	1947
+2231_7	is_in_sentence	sentence_2231
+2231_7	prep	2231_3
+2231_7	has_surface_form	in
+2231_8	is_in_sentence	sentence_2231
+2231_8	pobj	2231_7
+2231_8	is_entity	Katowice
+Katowice	surface_form	Katowice
+2231_9	is_in_sentence	sentence_2231
+2231_9	punct	2231_8
+2231_9	has_surface_form	,
+2231_10	is_in_sentence	sentence_2231
+2231_10	appos	2231_8
+2231_10	has_surface_form	Silesia
+2231_11	is_in_sentence	sentence_2231
+2231_11	punct	2231_8
+2231_11	has_surface_form	)
+2231_13	is_in_sentence	sentence_2231
+2231_13	det	2231_15
+2231_13	has_surface_form	a
+2231_15	is_in_sentence	sentence_2231
+2231_15	attr	2231_12
+2231_15	has_surface_form	politician
+2231_14	is_in_sentence	sentence_2231
+2231_14	amod	2231_15
+2231_14	has_surface_form	German
+2231_16	is_in_sentence	sentence_2231
+2231_16	punct	2231_12
+2231_16	has_surface_form	.
+2231_17	is_in_sentence	sentence_2231
+2231_17	dep	2231_12
+2231_17	has_surface_form	
+Jerzy Montag	surface_form	Jerzy Montag
+Jerzy Montag	birth-place	Katowice

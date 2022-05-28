@@ -1,0 +1,70 @@
+22080_0	is_in_sentence	sentence_22080
+22080_0	compound	22080_1
+22080_0	has_surface_form	Andrew
+22080_0	part_of_entity	Andrew Bergman
+22080_1	is_in_sentence	sentence_22080
+22080_1	nsubj	22080_9
+22080_1	has_surface_form	Bergman
+22080_1	part_of_entity	Andrew Bergman
+22080_9	is_in_sentence	sentence_22080
+22080_9	ROOT	22080_9
+22080_9	has_surface_form	is
+22080_2	is_in_sentence	sentence_22080
+22080_2	punct	22080_1
+22080_2	has_surface_form	(
+22080_3	is_in_sentence	sentence_22080
+22080_3	acl	22080_1
+22080_3	has_surface_form	born
+22080_4	is_in_sentence	sentence_22080
+22080_4	npadvmod	22080_3
+22080_4	has_surface_form	February
+22080_5	is_in_sentence	sentence_22080
+22080_5	nummod	22080_4
+22080_5	has_surface_form	20
+22080_6	is_in_sentence	sentence_22080
+22080_6	punct	22080_4
+22080_6	has_surface_form	,
+22080_7	is_in_sentence	sentence_22080
+22080_7	nummod	22080_4
+22080_7	has_surface_form	1945
+22080_8	is_in_sentence	sentence_22080
+22080_8	punct	22080_1
+22080_8	has_surface_form	)
+22080_10	is_in_sentence	sentence_22080
+22080_10	det	22080_12
+22080_10	has_surface_form	an
+22080_12	is_in_sentence	sentence_22080
+22080_12	attr	22080_9
+22080_12	has_surface_form	screenwriter
+22080_11	is_in_sentence	sentence_22080
+22080_11	amod	22080_12
+22080_11	has_surface_form	American
+22080_13	is_in_sentence	sentence_22080
+22080_13	punct	22080_12
+22080_13	has_surface_form	,
+22080_14	is_in_sentence	sentence_22080
+22080_14	compound	22080_15
+22080_14	has_surface_form	film
+22080_14	part_of_entity	film director
+22080_15	is_in_sentence	sentence_22080
+22080_15	conj	22080_12
+22080_15	has_surface_form	director
+22080_15	part_of_entity	film director
+22080_16	is_in_sentence	sentence_22080
+22080_16	punct	22080_15
+22080_16	has_surface_form	,
+22080_17	is_in_sentence	sentence_22080
+22080_17	cc	22080_15
+22080_17	has_surface_form	and
+22080_18	is_in_sentence	sentence_22080
+22080_18	conj	22080_15
+22080_18	has_surface_form	novelist
+22080_19	is_in_sentence	sentence_22080
+22080_19	punct	22080_9
+22080_19	has_surface_form	.
+22080_20	is_in_sentence	sentence_22080
+22080_20	dep	22080_9
+22080_20	has_surface_form	
+Andrew Bergman	surface_form	Andrew Bergman
+Andrew Bergman	has-occupation	film director
+film director	surface_form	film director

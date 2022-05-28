@@ -1,0 +1,34 @@
+259_0	is_in_sentence	sentence_259
+259_0	compound	259_1
+259_0	has_surface_form	John
+259_0	part_of_entity	John Peden
+259_1	is_in_sentence	sentence_259
+259_1	nsubj	259_2
+259_1	has_surface_form	Peden
+259_1	part_of_entity	John Peden
+259_2	is_in_sentence	sentence_259
+259_2	ROOT	259_2
+259_2	has_surface_form	was
+259_3	is_in_sentence	sentence_259
+259_3	det	259_6
+259_3	has_surface_form	an
+259_6	is_in_sentence	sentence_259
+259_6	attr	259_2
+259_6	has_surface_form	coach
+259_6	part_of_entity	football coach
+259_4	is_in_sentence	sentence_259
+259_4	amod	259_6
+259_4	has_surface_form	American
+259_5	is_in_sentence	sentence_259
+259_5	compound	259_6
+259_5	has_surface_form	football
+259_5	part_of_entity	football coach
+259_7	is_in_sentence	sentence_259
+259_7	punct	259_2
+259_7	has_surface_form	.
+259_8	is_in_sentence	sentence_259
+259_8	dep	259_8
+259_8	has_surface_form	
+John Peden	surface_form	John Peden
+John Peden	has-type	football coach
+football coach	surface_form	football coach

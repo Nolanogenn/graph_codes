@@ -1,0 +1,64 @@
+32615_0	is_in_sentence	sentence_32615
+32615_0	compound	32615_1
+32615_0	has_surface_form	Shane
+32615_0	part_of_entity	Shane Montgomery
+32615_1	is_in_sentence	sentence_32615
+32615_1	nsubj	32615_9
+32615_1	has_surface_form	Montgomery
+32615_1	part_of_entity	Shane Montgomery
+32615_9	is_in_sentence	sentence_32615
+32615_9	ROOT	32615_9
+32615_9	has_surface_form	is
+32615_2	is_in_sentence	sentence_32615
+32615_2	punct	32615_1
+32615_2	has_surface_form	(
+32615_3	is_in_sentence	sentence_32615
+32615_3	acl	32615_1
+32615_3	has_surface_form	born
+32615_4	is_in_sentence	sentence_32615
+32615_4	npadvmod	32615_3
+32615_4	has_surface_form	March
+32615_5	is_in_sentence	sentence_32615
+32615_5	nummod	32615_4
+32615_5	has_surface_form	14
+32615_6	is_in_sentence	sentence_32615
+32615_6	punct	32615_4
+32615_6	has_surface_form	,
+32615_7	is_in_sentence	sentence_32615
+32615_7	nummod	32615_4
+32615_7	has_surface_form	1967
+32615_8	is_in_sentence	sentence_32615
+32615_8	punct	32615_1
+32615_8	has_surface_form	)
+32615_10	is_in_sentence	sentence_32615
+32615_10	det	32615_13
+32615_10	has_surface_form	an
+32615_13	is_in_sentence	sentence_32615
+32615_13	attr	32615_9
+32615_13	has_surface_form	coach
+32615_13	part_of_entity	football coach
+32615_11	is_in_sentence	sentence_32615
+32615_11	amod	32615_13
+32615_11	has_surface_form	American
+32615_12	is_in_sentence	sentence_32615
+32615_12	compound	32615_13
+32615_12	has_surface_form	football
+32615_12	part_of_entity	football coach
+32615_14	is_in_sentence	sentence_32615
+32615_14	cc	32615_13
+32615_14	has_surface_form	and
+32615_15	is_in_sentence	sentence_32615
+32615_15	amod	32615_16
+32615_15	has_surface_form	former
+32615_16	is_in_sentence	sentence_32615
+32615_16	conj	32615_13
+32615_16	has_surface_form	player
+32615_17	is_in_sentence	sentence_32615
+32615_17	punct	32615_9
+32615_17	has_surface_form	.
+32615_18	is_in_sentence	sentence_32615
+32615_18	dep	32615_18
+32615_18	has_surface_form	
+Shane Montgomery	surface_form	Shane Montgomery
+Shane Montgomery	has-type	football coach
+football coach	surface_form	football coach

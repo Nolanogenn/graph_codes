@@ -1,0 +1,73 @@
+29181_0	is_in_sentence	sentence_29181
+29181_0	compound	29181_1
+29181_0	has_surface_form	Toofani
+29181_0	part_of_entity	Toofani Tarzan
+29181_1	is_in_sentence	sentence_29181
+29181_1	nsubj	29181_9
+29181_1	has_surface_form	Tarzan
+29181_1	part_of_entity	Toofani Tarzan
+29181_9	is_in_sentence	sentence_29181
+29181_9	ROOT	29181_9
+29181_9	has_surface_form	is
+29181_2	is_in_sentence	sentence_29181
+29181_2	punct	29181_1
+29181_2	has_surface_form	(
+29181_3	is_in_sentence	sentence_29181
+29181_3	nmod	29181_7
+29181_3	has_surface_form	Typhoon
+29181_7	is_in_sentence	sentence_29181
+29181_7	appos	29181_1
+29181_7	has_surface_form	Tarzan
+29181_4	is_in_sentence	sentence_29181
+29181_4	nmod	29181_7
+29181_4	has_surface_form	Tarzan
+29181_5	is_in_sentence	sentence_29181
+29181_5	punct	29181_7
+29181_5	has_surface_form	/
+29181_6	is_in_sentence	sentence_29181
+29181_6	compound	29181_7
+29181_6	has_surface_form	Stormy
+29181_8	is_in_sentence	sentence_29181
+29181_8	punct	29181_1
+29181_8	has_surface_form	)
+29181_10	is_in_sentence	sentence_29181
+29181_10	det	29181_15
+29181_10	has_surface_form	a
+29181_15	is_in_sentence	sentence_29181
+29181_15	attr	29181_9
+29181_15	has_surface_form	film
+29181_11	is_in_sentence	sentence_29181
+29181_11	nummod	29181_15
+29181_11	has_surface_form	1937
+29181_12	is_in_sentence	sentence_29181
+29181_12	compound	29181_15
+29181_12	has_surface_form	Hindi
+29181_13	is_in_sentence	sentence_29181
+29181_13	compound	29181_14
+29181_13	has_surface_form	action
+29181_14	is_in_sentence	sentence_29181
+29181_14	compound	29181_15
+29181_14	has_surface_form	adventure
+29181_16	is_in_sentence	sentence_29181
+29181_16	acl	29181_15
+29181_16	has_surface_form	directed
+29181_17	is_in_sentence	sentence_29181
+29181_17	agent	29181_16
+29181_17	has_surface_form	by
+29181_18	is_in_sentence	sentence_29181
+29181_18	compound	29181_19
+29181_18	has_surface_form	Homi
+29181_18	part_of_entity	Homi Wadia
+29181_19	is_in_sentence	sentence_29181
+29181_19	pobj	29181_17
+29181_19	has_surface_form	Wadia
+29181_19	part_of_entity	Homi Wadia
+29181_20	is_in_sentence	sentence_29181
+29181_20	punct	29181_9
+29181_20	has_surface_form	.
+29181_21	is_in_sentence	sentence_29181
+29181_21	dep	29181_21
+29181_21	has_surface_form	
+Toofani Tarzan	surface_form	Toofani Tarzan
+Toofani Tarzan	movie-has-director	Homi Wadia
+Homi Wadia	surface_form	Homi Wadia

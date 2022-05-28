@@ -1,0 +1,54 @@
+21577_0	is_in_sentence	sentence_21577
+21577_0	nsubj	21577_1
+21577_0	is_entity	Richards
+21577_1	is_in_sentence	sentence_21577
+21577_1	ROOT	21577_1
+21577_1	has_surface_form	was
+Richards	surface_form	Richards
+Richards	has-child	Franklin D. Richards
+21577_2	is_in_sentence	sentence_21577
+21577_2	det	21577_3
+21577_2	has_surface_form	a
+21577_3	is_in_sentence	sentence_21577
+21577_3	attr	21577_1
+21577_3	has_surface_form	brother
+21577_4	is_in_sentence	sentence_21577
+21577_4	prep	21577_3
+21577_4	has_surface_form	of
+21577_5	is_in_sentence	sentence_21577
+21577_5	compound	21577_6
+21577_5	has_surface_form	Willard
+21577_6	is_in_sentence	sentence_21577
+21577_6	pobj	21577_4
+21577_6	is_entity	Richards
+21577_7	is_in_sentence	sentence_21577
+21577_7	cc	21577_6
+21577_7	has_surface_form	and
+21577_8	is_in_sentence	sentence_21577
+21577_8	det	21577_9
+21577_8	has_surface_form	the
+21577_9	is_in_sentence	sentence_21577
+21577_9	conj	21577_6
+21577_9	has_surface_form	father
+21577_10	is_in_sentence	sentence_21577
+21577_10	prep	21577_9
+21577_10	has_surface_form	of
+21577_11	is_in_sentence	sentence_21577
+21577_11	compound	21577_13
+21577_11	has_surface_form	Franklin
+21577_11	part_of_entity	Franklin D. Richards
+21577_13	is_in_sentence	sentence_21577
+21577_13	pobj	21577_10
+21577_13	is_entity	Richards
+21577_13	part_of_entity	Franklin D. Richards
+21577_12	is_in_sentence	sentence_21577
+21577_12	compound	21577_13
+21577_12	has_surface_form	D.
+21577_12	part_of_entity	Franklin D. Richards
+21577_14	is_in_sentence	sentence_21577
+21577_14	punct	21577_1
+21577_14	has_surface_form	.
+21577_15	is_in_sentence	sentence_21577
+21577_15	dep	21577_15
+21577_15	has_surface_form	
+Franklin D. Richards	surface_form	Franklin D. Richards

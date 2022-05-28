@@ -1,0 +1,84 @@
+32554_0	is_in_sentence	sentence_32554
+32554_0	det	32554_1
+32554_0	has_surface_form	The
+32554_0	part_of_entity	The Young Will Live
+32554_1	is_in_sentence	sentence_32554
+32554_1	nsubj	32554_3
+32554_1	has_surface_form	Young
+32554_1	part_of_entity	The Young Will Live
+32554_3	is_in_sentence	sentence_32554
+32554_3	nsubj	32554_13
+32554_3	has_surface_form	Live
+32554_3	part_of_entity	The Young Will Live
+32554_2	is_in_sentence	sentence_32554
+32554_2	aux	32554_3
+32554_2	has_surface_form	Will
+32554_2	part_of_entity	The Young Will Live
+32554_13	is_in_sentence	sentence_32554
+32554_13	ROOT	32554_13
+32554_13	has_surface_form	is
+32554_4	is_in_sentence	sentence_32554
+32554_4	punct	32554_3
+32554_4	has_surface_form	(
+32554_5	is_in_sentence	sentence_32554
+32554_5	parataxis	32554_3
+32554_5	has_surface_form	Greek
+32554_6	is_in_sentence	sentence_32554
+32554_6	punct	32554_5
+32554_6	has_surface_form	:
+32554_7	is_in_sentence	sentence_32554
+32554_7	amod	32554_8
+32554_7	has_surface_form	Oi
+32554_8	is_in_sentence	sentence_32554
+32554_8	advmod	32554_3
+32554_8	has_surface_form	neoi
+32554_9	is_in_sentence	sentence_32554
+32554_9	dobj	32554_8
+32554_9	has_surface_form	theloun
+32554_10	is_in_sentence	sentence_32554
+32554_10	nmod	32554_11
+32554_10	has_surface_form	na
+32554_11	is_in_sentence	sentence_32554
+32554_11	npadvmod	32554_8
+32554_11	has_surface_form	zisoun
+32554_12	is_in_sentence	sentence_32554
+32554_12	punct	32554_8
+32554_12	has_surface_form	)
+32554_14	is_in_sentence	sentence_32554
+32554_14	det	32554_18
+32554_14	has_surface_form	a
+32554_18	is_in_sentence	sentence_32554
+32554_18	attr	32554_13
+32554_18	has_surface_form	film
+32554_15	is_in_sentence	sentence_32554
+32554_15	nummod	32554_18
+32554_15	has_surface_form	1965
+32554_16	is_in_sentence	sentence_32554
+32554_16	amod	32554_18
+32554_16	has_surface_form	Greek
+32554_17	is_in_sentence	sentence_32554
+32554_17	compound	32554_18
+32554_17	has_surface_form	drama
+32554_19	is_in_sentence	sentence_32554
+32554_19	acl	32554_18
+32554_19	has_surface_form	directed
+32554_20	is_in_sentence	sentence_32554
+32554_20	agent	32554_19
+32554_20	has_surface_form	by
+32554_21	is_in_sentence	sentence_32554
+32554_21	compound	32554_22
+32554_21	has_surface_form	Nikos
+32554_21	part_of_entity	Nikos Tzimas
+32554_22	is_in_sentence	sentence_32554
+32554_22	pobj	32554_20
+32554_22	has_surface_form	Tzimas
+32554_22	part_of_entity	Nikos Tzimas
+32554_23	is_in_sentence	sentence_32554
+32554_23	punct	32554_13
+32554_23	has_surface_form	.
+32554_24	is_in_sentence	sentence_32554
+32554_24	dep	32554_24
+32554_24	has_surface_form	
+The Young Will Live	surface_form	The Young Will Live
+The Young Will Live	movie-has-director	Nikos Tzimas
+Nikos Tzimas	surface_form	Nikos Tzimas

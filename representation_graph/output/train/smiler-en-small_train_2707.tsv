@@ -1,0 +1,56 @@
+2706_0	is_in_sentence	sentence_2706
+2706_0	compound	2706_1
+2706_0	has_surface_form	Mike
+2706_0	part_of_entity	Mike Giddings
+2706_1	is_in_sentence	sentence_2706
+2706_1	nsubj	2706_7
+2706_1	has_surface_form	Giddings
+2706_1	part_of_entity	Mike Giddings
+2706_7	is_in_sentence	sentence_2706
+2706_7	ROOT	2706_7
+2706_7	has_surface_form	is
+2706_2	is_in_sentence	sentence_2706
+2706_2	punct	2706_1
+2706_2	has_surface_form	(
+2706_3	is_in_sentence	sentence_2706
+2706_3	acl	2706_1
+2706_3	has_surface_form	born
+2706_4	is_in_sentence	sentence_2706
+2706_4	npadvmod	2706_3
+2706_4	has_surface_form	c.
+2706_5	is_in_sentence	sentence_2706
+2706_5	nummod	2706_4
+2706_5	has_surface_form	1933
+2706_6	is_in_sentence	sentence_2706
+2706_6	punct	2706_1
+2706_6	has_surface_form	)
+2706_8	is_in_sentence	sentence_2706
+2706_8	det	2706_12
+2706_8	has_surface_form	a
+2706_12	is_in_sentence	sentence_2706
+2706_12	attr	2706_7
+2706_12	has_surface_form	player
+2706_9	is_in_sentence	sentence_2706
+2706_9	amod	2706_12
+2706_9	has_surface_form	former
+2706_10	is_in_sentence	sentence_2706
+2706_10	amod	2706_12
+2706_10	has_surface_form	American
+2706_11	is_in_sentence	sentence_2706
+2706_11	compound	2706_12
+2706_11	has_surface_form	football
+2706_13	is_in_sentence	sentence_2706
+2706_13	cc	2706_12
+2706_13	has_surface_form	and
+2706_14	is_in_sentence	sentence_2706
+2706_14	conj	2706_12
+2706_14	is_entity	coach
+coach	surface_form	coach
+2706_15	is_in_sentence	sentence_2706
+2706_15	punct	2706_7
+2706_15	has_surface_form	.
+2706_16	is_in_sentence	sentence_2706
+2706_16	dep	2706_16
+2706_16	has_surface_form	
+Mike Giddings	surface_form	Mike Giddings
+Mike Giddings	has-type	coach

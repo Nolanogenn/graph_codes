@@ -1,0 +1,61 @@
+24955_0	is_in_sentence	sentence_24955
+24955_0	det	24955_2
+24955_0	has_surface_form	The
+24955_2	is_in_sentence	sentence_24955
+24955_2	nsubj	24955_3
+24955_2	has_surface_form	remote
+24955_2	part_of_entity	remote intended to control
+24955_1	is_in_sentence	sentence_24955
+24955_1	amod	24955_2
+24955_1	has_surface_form	first
+24955_3	is_in_sentence	sentence_24955
+24955_3	nsubjpass	24955_9
+24955_3	has_surface_form	intended
+24955_3	part_of_entity	remote intended to control
+24955_9	is_in_sentence	sentence_24955
+24955_9	ROOT	24955_9
+24955_9	has_surface_form	developed
+24955_4	is_in_sentence	sentence_24955
+24955_4	aux	24955_5
+24955_4	has_surface_form	to
+24955_4	part_of_entity	remote intended to control
+24955_5	is_in_sentence	sentence_24955
+24955_5	xcomp	24955_3
+24955_5	has_surface_form	control
+24955_5	part_of_entity	remote intended to control
+24955_6	is_in_sentence	sentence_24955
+24955_6	det	24955_7
+24955_6	has_surface_form	a
+24955_7	is_in_sentence	sentence_24955
+24955_7	dobj	24955_5
+24955_7	has_surface_form	television
+24955_8	is_in_sentence	sentence_24955
+24955_8	auxpass	24955_9
+24955_8	has_surface_form	was
+24955_10	is_in_sentence	sentence_24955
+24955_10	agent	24955_9
+24955_10	has_surface_form	by
+24955_11	is_in_sentence	sentence_24955
+24955_11	compound	24955_13
+24955_11	has_surface_form	Zenith
+24955_13	is_in_sentence	sentence_24955
+24955_13	pobj	24955_10
+24955_13	has_surface_form	Corporation
+24955_12	is_in_sentence	sentence_24955
+24955_12	compound	24955_13
+24955_12	has_surface_form	Radio
+24955_14	is_in_sentence	sentence_24955
+24955_14	prep	24955_9
+24955_14	has_surface_form	in
+24955_15	is_in_sentence	sentence_24955
+24955_15	pobj	24955_14
+24955_15	is_entity	1950
+1950	surface_form	1950
+24955_16	is_in_sentence	sentence_24955
+24955_16	punct	24955_9
+24955_16	has_surface_form	.
+24955_17	is_in_sentence	sentence_24955
+24955_17	dep	24955_17
+24955_17	has_surface_form	
+remote intended to control	surface_form	remote intended to control
+remote intended to control	invented-when	1950

@@ -1,0 +1,65 @@
+23262_0	is_in_sentence	sentence_23262
+23262_0	compound	23262_1
+23262_0	has_surface_form	Tony
+23262_0	part_of_entity	Tony Daniels
+23262_1	is_in_sentence	sentence_23262
+23262_1	nsubj	23262_13
+23262_1	has_surface_form	Daniels
+23262_1	part_of_entity	Tony Daniels
+23262_13	is_in_sentence	sentence_23262
+23262_13	ROOT	23262_13
+23262_13	has_surface_form	is
+23262_2	is_in_sentence	sentence_23262
+23262_2	punct	23262_1
+23262_2	has_surface_form	(
+23262_3	is_in_sentence	sentence_23262
+23262_3	acl	23262_1
+23262_3	has_surface_form	born
+23262_4	is_in_sentence	sentence_23262
+23262_4	npadvmod	23262_3
+23262_4	has_surface_form	January
+23262_5	is_in_sentence	sentence_23262
+23262_5	nummod	23262_4
+23262_5	has_surface_form	23
+23262_6	is_in_sentence	sentence_23262
+23262_6	punct	23262_4
+23262_6	has_surface_form	,
+23262_7	is_in_sentence	sentence_23262
+23262_7	nummod	23262_4
+23262_7	has_surface_form	1963
+23262_8	is_in_sentence	sentence_23262
+23262_8	prep	23262_3
+23262_8	has_surface_form	in
+23262_9	is_in_sentence	sentence_23262
+23262_9	pobj	23262_8
+23262_9	is_entity	Toronto
+Toronto	surface_form	Toronto
+23262_10	is_in_sentence	sentence_23262
+23262_10	punct	23262_9
+23262_10	has_surface_form	,
+23262_11	is_in_sentence	sentence_23262
+23262_11	appos	23262_9
+23262_11	has_surface_form	Ontario
+23262_12	is_in_sentence	sentence_23262
+23262_12	punct	23262_9
+23262_12	has_surface_form	)
+23262_14	is_in_sentence	sentence_23262
+23262_14	det	23262_17
+23262_14	has_surface_form	a
+23262_17	is_in_sentence	sentence_23262
+23262_17	attr	23262_13
+23262_17	has_surface_form	actor
+23262_15	is_in_sentence	sentence_23262
+23262_15	amod	23262_17
+23262_15	has_surface_form	Canadian
+23262_16	is_in_sentence	sentence_23262
+23262_16	compound	23262_17
+23262_16	has_surface_form	voice
+23262_18	is_in_sentence	sentence_23262
+23262_18	punct	23262_13
+23262_18	has_surface_form	.
+23262_19	is_in_sentence	sentence_23262
+23262_19	dep	23262_13
+23262_19	has_surface_form	
+Tony Daniels	surface_form	Tony Daniels
+Tony Daniels	birth-place	Toronto

@@ -1,0 +1,65 @@
+11448_0	is_in_sentence	sentence_11448
+11448_0	compound	11448_1
+11448_0	has_surface_form	Hallym
+11448_0	part_of_entity	Hallym University
+11448_1	is_in_sentence	sentence_11448
+11448_1	nsubj	11448_5
+11448_1	has_surface_form	University
+11448_1	part_of_entity	Hallym University
+11448_5	is_in_sentence	sentence_11448
+11448_5	ROOT	11448_5
+11448_5	has_surface_form	is
+11448_2	is_in_sentence	sentence_11448
+11448_2	punct	11448_1
+11448_2	has_surface_form	(
+11448_3	is_in_sentence	sentence_11448
+11448_3	appos	11448_1
+11448_3	has_surface_form	한림대학교
+11448_4	is_in_sentence	sentence_11448
+11448_4	punct	11448_1
+11448_4	has_surface_form	)
+11448_6	is_in_sentence	sentence_11448
+11448_6	det	11448_8
+11448_6	has_surface_form	a
+11448_8	is_in_sentence	sentence_11448
+11448_8	attr	11448_5
+11448_8	has_surface_form	university
+11448_7	is_in_sentence	sentence_11448
+11448_7	amod	11448_8
+11448_7	has_surface_form	private
+11448_9	is_in_sentence	sentence_11448
+11448_9	acl	11448_8
+11448_9	has_surface_form	located
+11448_10	is_in_sentence	sentence_11448
+11448_10	prep	11448_9
+11448_10	has_surface_form	in
+11448_11	is_in_sentence	sentence_11448
+11448_11	pobj	11448_10
+11448_11	is_entity	Chuncheon
+Chuncheon	surface_form	Chuncheon
+11448_12	is_in_sentence	sentence_11448
+11448_12	punct	11448_11
+11448_12	has_surface_form	,
+11448_13	is_in_sentence	sentence_11448
+11448_13	conj	11448_11
+11448_13	has_surface_form	Gangwon
+11448_14	is_in_sentence	sentence_11448
+11448_14	punct	11448_13
+11448_14	has_surface_form	,
+11448_15	is_in_sentence	sentence_11448
+11448_15	conj	11448_13
+11448_15	has_surface_form	Republic
+11448_16	is_in_sentence	sentence_11448
+11448_16	prep	11448_15
+11448_16	has_surface_form	of
+11448_17	is_in_sentence	sentence_11448
+11448_17	pobj	11448_16
+11448_17	has_surface_form	Korea
+11448_18	is_in_sentence	sentence_11448
+11448_18	punct	11448_5
+11448_18	has_surface_form	.
+11448_19	is_in_sentence	sentence_11448
+11448_19	dep	11448_19
+11448_19	has_surface_form	
+Hallym University	surface_form	Hallym University
+Hallym University	is-where	Chuncheon

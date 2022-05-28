@@ -1,0 +1,67 @@
+9038_0	is_in_sentence	sentence_9038
+9038_0	compound	9038_1
+9038_0	has_surface_form	North
+9038_0	part_of_entity	North Hennepin Community College
+9038_1	is_in_sentence	sentence_9038
+9038_1	compound	9038_3
+9038_1	has_surface_form	Hennepin
+9038_1	part_of_entity	North Hennepin Community College
+9038_3	is_in_sentence	sentence_9038
+9038_3	nsubj	9038_7
+9038_3	has_surface_form	College
+9038_3	part_of_entity	North Hennepin Community College
+9038_2	is_in_sentence	sentence_9038
+9038_2	compound	9038_3
+9038_2	has_surface_form	Community
+9038_2	part_of_entity	North Hennepin Community College
+9038_7	is_in_sentence	sentence_9038
+9038_7	ROOT	9038_7
+9038_7	has_surface_form	is
+9038_4	is_in_sentence	sentence_9038
+9038_4	punct	9038_5
+9038_4	has_surface_form	(
+9038_5	is_in_sentence	sentence_9038
+9038_5	appos	9038_3
+9038_5	has_surface_form	NHCC
+9038_6	is_in_sentence	sentence_9038
+9038_6	punct	9038_5
+9038_6	has_surface_form	)
+9038_8	is_in_sentence	sentence_9038
+9038_8	det	9038_11
+9038_8	has_surface_form	a
+9038_11	is_in_sentence	sentence_9038
+9038_11	attr	9038_7
+9038_11	has_surface_form	college
+9038_11	part_of_entity	public community college
+9038_9	is_in_sentence	sentence_9038
+9038_9	amod	9038_10
+9038_9	has_surface_form	public
+9038_9	part_of_entity	public community college
+9038_10	is_in_sentence	sentence_9038
+9038_10	compound	9038_11
+9038_10	has_surface_form	community
+9038_10	part_of_entity	public community college
+9038_12	is_in_sentence	sentence_9038
+9038_12	prep	9038_11
+9038_12	has_surface_form	in
+9038_13	is_in_sentence	sentence_9038
+9038_13	compound	9038_14
+9038_13	has_surface_form	Brooklyn
+9038_14	is_in_sentence	sentence_9038
+9038_14	pobj	9038_12
+9038_14	has_surface_form	Park
+9038_15	is_in_sentence	sentence_9038
+9038_15	punct	9038_14
+9038_15	has_surface_form	,
+9038_16	is_in_sentence	sentence_9038
+9038_16	appos	9038_14
+9038_16	has_surface_form	Minnesota
+9038_17	is_in_sentence	sentence_9038
+9038_17	punct	9038_7
+9038_17	has_surface_form	.
+9038_18	is_in_sentence	sentence_9038
+9038_18	dep	9038_7
+9038_18	has_surface_form	
+North Hennepin Community College	surface_form	North Hennepin Community College
+North Hennepin Community College	has-type	public community college
+public community college	surface_form	public community college

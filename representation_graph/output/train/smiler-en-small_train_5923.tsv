@@ -1,0 +1,65 @@
+5922_0	is_in_sentence	sentence_5922
+5922_0	compound	5922_1
+5922_0	has_surface_form	Mark
+5922_0	part_of_entity	Mark Vincent
+5922_1	is_in_sentence	sentence_5922
+5922_1	nsubj	5922_14
+5922_1	has_surface_form	Vincent
+5922_1	part_of_entity	Mark Vincent
+5922_14	is_in_sentence	sentence_5922
+5922_14	ROOT	5922_14
+5922_14	has_surface_form	is
+5922_2	is_in_sentence	sentence_5922
+5922_2	punct	5922_1
+5922_2	has_surface_form	(
+5922_3	is_in_sentence	sentence_5922
+5922_3	acl	5922_1
+5922_3	has_surface_form	born
+5922_4	is_in_sentence	sentence_5922
+5922_4	nummod	5922_5
+5922_4	has_surface_form	4
+5922_5	is_in_sentence	sentence_5922
+5922_5	npadvmod	5922_3
+5922_5	has_surface_form	September
+5922_6	is_in_sentence	sentence_5922
+5922_6	nummod	5922_5
+5922_6	has_surface_form	1993
+5922_7	is_in_sentence	sentence_5922
+5922_7	prep	5922_3
+5922_7	has_surface_form	in
+5922_8	is_in_sentence	sentence_5922
+5922_8	pobj	5922_7
+5922_8	is_entity	Caringbah
+Caringbah	surface_form	Caringbah
+5922_9	is_in_sentence	sentence_5922
+5922_9	punct	5922_8
+5922_9	has_surface_form	,
+5922_10	is_in_sentence	sentence_5922
+5922_10	compound	5922_12
+5922_10	has_surface_form	New
+5922_12	is_in_sentence	sentence_5922
+5922_12	appos	5922_8
+5922_12	has_surface_form	Wales
+5922_11	is_in_sentence	sentence_5922
+5922_11	compound	5922_12
+5922_11	has_surface_form	South
+5922_13	is_in_sentence	sentence_5922
+5922_13	punct	5922_1
+5922_13	has_surface_form	)
+5922_15	is_in_sentence	sentence_5922
+5922_15	det	5922_17
+5922_15	has_surface_form	an
+5922_17	is_in_sentence	sentence_5922
+5922_17	attr	5922_14
+5922_17	has_surface_form	tenor
+5922_16	is_in_sentence	sentence_5922
+5922_16	amod	5922_17
+5922_16	has_surface_form	Australian
+5922_18	is_in_sentence	sentence_5922
+5922_18	punct	5922_14
+5922_18	has_surface_form	.
+5922_19	is_in_sentence	sentence_5922
+5922_19	dep	5922_14
+5922_19	has_surface_form	
+Mark Vincent	surface_form	Mark Vincent
+Mark Vincent	birth-place	Caringbah

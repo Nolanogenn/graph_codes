@@ -1,0 +1,50 @@
+33744_0	is_in_sentence	sentence_33744
+33744_0	compound	33744_1
+33744_0	has_surface_form	Garry
+33744_0	part_of_entity	Garry Mauro
+33744_1	is_in_sentence	sentence_33744
+33744_1	nsubj	33744_9
+33744_1	has_surface_form	Mauro
+33744_1	part_of_entity	Garry Mauro
+33744_9	is_in_sentence	sentence_33744
+33744_9	ROOT	33744_9
+33744_9	has_surface_form	is
+33744_2	is_in_sentence	sentence_33744
+33744_2	punct	33744_1
+33744_2	has_surface_form	(
+33744_3	is_in_sentence	sentence_33744
+33744_3	acl	33744_1
+33744_3	has_surface_form	born
+33744_4	is_in_sentence	sentence_33744
+33744_4	npadvmod	33744_3
+33744_4	has_surface_form	February
+33744_5	is_in_sentence	sentence_33744
+33744_5	nummod	33744_4
+33744_5	has_surface_form	21
+33744_6	is_in_sentence	sentence_33744
+33744_6	punct	33744_4
+33744_6	has_surface_form	,
+33744_7	is_in_sentence	sentence_33744
+33744_7	nummod	33744_4
+33744_7	has_surface_form	1948
+33744_8	is_in_sentence	sentence_33744
+33744_8	punct	33744_1
+33744_8	has_surface_form	)
+33744_10	is_in_sentence	sentence_33744
+33744_10	det	33744_12
+33744_10	has_surface_form	an
+33744_12	is_in_sentence	sentence_33744
+33744_12	attr	33744_9
+33744_12	has_surface_form	politician
+33744_11	is_in_sentence	sentence_33744
+33744_11	amod	33744_12
+33744_11	is_entity	American
+American	surface_form	American
+33744_13	is_in_sentence	sentence_33744
+33744_13	punct	33744_9
+33744_13	has_surface_form	.
+33744_14	is_in_sentence	sentence_33744
+33744_14	dep	33744_14
+33744_14	has_surface_form	
+Garry Mauro	surface_form	Garry Mauro
+Garry Mauro	has-nationality	American

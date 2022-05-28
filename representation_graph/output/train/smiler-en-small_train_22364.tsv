@@ -1,0 +1,53 @@
+22363_0	is_in_sentence	sentence_22363
+22363_0	compound	22363_1
+22363_0	has_surface_form	Minerva
+22363_0	part_of_entity	Minerva Teichert
+22363_1	is_in_sentence	sentence_22363
+22363_1	nsubjpass	22363_3
+22363_1	has_surface_form	Teichert
+22363_1	part_of_entity	Minerva Teichert
+22363_3	is_in_sentence	sentence_22363
+22363_3	ROOT	22363_3
+22363_3	has_surface_form	born
+22363_2	is_in_sentence	sentence_22363
+22363_2	auxpass	22363_3
+22363_2	has_surface_form	was
+22363_4	is_in_sentence	sentence_22363
+22363_4	prep	22363_3
+22363_4	has_surface_form	on
+22363_5	is_in_sentence	sentence_22363
+22363_5	pobj	22363_4
+22363_5	has_surface_form	August
+22363_6	is_in_sentence	sentence_22363
+22363_6	nummod	22363_5
+22363_6	has_surface_form	28
+22363_7	is_in_sentence	sentence_22363
+22363_7	punct	22363_5
+22363_7	has_surface_form	,
+22363_8	is_in_sentence	sentence_22363
+22363_8	appos	22363_5
+22363_8	has_surface_form	1888
+22363_9	is_in_sentence	sentence_22363
+22363_9	prep	22363_5
+22363_9	has_surface_form	in
+22363_10	is_in_sentence	sentence_22363
+22363_10	pobj	22363_9
+22363_10	is_entity	Ogden
+Ogden	surface_form	Ogden
+22363_11	is_in_sentence	sentence_22363
+22363_11	punct	22363_10
+22363_11	has_surface_form	,
+22363_12	is_in_sentence	sentence_22363
+22363_12	compound	22363_13
+22363_12	has_surface_form	Utah
+22363_13	is_in_sentence	sentence_22363
+22363_13	appos	22363_10
+22363_13	has_surface_form	Territory
+22363_14	is_in_sentence	sentence_22363
+22363_14	punct	22363_3
+22363_14	has_surface_form	.
+22363_15	is_in_sentence	sentence_22363
+22363_15	dep	22363_3
+22363_15	has_surface_form	
+Minerva Teichert	surface_form	Minerva Teichert
+Minerva Teichert	birth-place	Ogden

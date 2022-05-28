@@ -1,0 +1,64 @@
+205_0	is_in_sentence	sentence_205
+205_0	compound	205_1
+205_0	has_surface_form	Mod
+205_0	part_of_entity	Mod Fun
+205_1	is_in_sentence	sentence_205
+205_1	nsubj	205_2
+205_1	has_surface_form	Fun
+205_1	part_of_entity	Mod Fun
+205_2	is_in_sentence	sentence_205
+205_2	ROOT	205_2
+205_2	has_surface_form	are
+205_3	is_in_sentence	sentence_205
+205_3	det	205_10
+205_3	has_surface_form	an
+205_10	is_in_sentence	sentence_205
+205_10	attr	205_2
+205_10	has_surface_form	band
+205_4	is_in_sentence	sentence_205
+205_4	amod	205_10
+205_4	has_surface_form	American
+205_5	is_in_sentence	sentence_205
+205_5	nmod	205_6
+205_5	has_surface_form	power
+205_6	is_in_sentence	sentence_205
+205_6	nmod	205_8
+205_6	has_surface_form	pop
+205_8	is_in_sentence	sentence_205
+205_8	compound	205_9
+205_8	has_surface_form	garage
+205_8	part_of_entity	garage punk
+205_7	is_in_sentence	sentence_205
+205_7	punct	205_8
+205_7	has_surface_form	/
+205_9	is_in_sentence	sentence_205
+205_9	compound	205_10
+205_9	has_surface_form	punk
+205_9	part_of_entity	garage punk
+205_11	is_in_sentence	sentence_205
+205_11	prep	205_10
+205_11	has_surface_form	from
+205_12	is_in_sentence	sentence_205
+205_12	det	205_16
+205_12	has_surface_form	the
+205_16	is_in_sentence	sentence_205
+205_16	pobj	205_11
+205_16	has_surface_form	area
+205_13	is_in_sentence	sentence_205
+205_13	compound	205_14
+205_13	has_surface_form	New
+205_14	is_in_sentence	sentence_205
+205_14	compound	205_15
+205_14	has_surface_form	York
+205_15	is_in_sentence	sentence_205
+205_15	compound	205_16
+205_15	has_surface_form	City
+205_17	is_in_sentence	sentence_205
+205_17	punct	205_2
+205_17	has_surface_form	.
+205_18	is_in_sentence	sentence_205
+205_18	dep	205_18
+205_18	has_surface_form	
+Mod Fun	surface_form	Mod Fun
+Mod Fun	has-genre	garage punk
+garage punk	surface_form	garage punk

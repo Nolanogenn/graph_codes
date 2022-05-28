@@ -1,0 +1,83 @@
+33326_0	is_in_sentence	sentence_33326
+33326_0	det	33326_2
+33326_0	has_surface_form	The
+33326_0	part_of_entity	The Lady Gambles
+33326_2	is_in_sentence	sentence_33326
+33326_2	nsubj	33326_3
+33326_2	has_surface_form	Gambles
+33326_2	part_of_entity	The Lady Gambles
+33326_1	is_in_sentence	sentence_33326
+33326_1	compound	33326_2
+33326_1	has_surface_form	Lady
+33326_1	part_of_entity	The Lady Gambles
+33326_3	is_in_sentence	sentence_33326
+33326_3	ROOT	33326_3
+33326_3	has_surface_form	is
+33326_4	is_in_sentence	sentence_33326
+33326_4	det	33326_9
+33326_4	has_surface_form	a
+33326_9	is_in_sentence	sentence_33326
+33326_9	attr	33326_3
+33326_9	has_surface_form	drama
+33326_5	is_in_sentence	sentence_33326
+33326_5	nummod	33326_9
+33326_5	has_surface_form	1949
+33326_6	is_in_sentence	sentence_33326
+33326_6	amod	33326_9
+33326_6	has_surface_form	American
+33326_7	is_in_sentence	sentence_33326
+33326_7	compound	33326_8
+33326_7	has_surface_form	film
+33326_8	is_in_sentence	sentence_33326
+33326_8	compound	33326_9
+33326_8	has_surface_form	noir
+33326_10	is_in_sentence	sentence_33326
+33326_10	acl	33326_9
+33326_10	has_surface_form	directed
+33326_11	is_in_sentence	sentence_33326
+33326_11	agent	33326_10
+33326_11	has_surface_form	by
+33326_12	is_in_sentence	sentence_33326
+33326_12	compound	33326_13
+33326_12	has_surface_form	Michael
+33326_12	part_of_entity	Michael Gordon
+33326_13	is_in_sentence	sentence_33326
+33326_13	pobj	33326_11
+33326_13	has_surface_form	Gordon
+33326_13	part_of_entity	Michael Gordon
+33326_14	is_in_sentence	sentence_33326
+33326_14	acl	33326_9
+33326_14	has_surface_form	starring
+33326_15	is_in_sentence	sentence_33326
+33326_15	compound	33326_16
+33326_15	has_surface_form	Barbara
+33326_16	is_in_sentence	sentence_33326
+33326_16	dobj	33326_14
+33326_16	has_surface_form	Stanwyck
+33326_17	is_in_sentence	sentence_33326
+33326_17	punct	33326_16
+33326_17	has_surface_form	,
+33326_18	is_in_sentence	sentence_33326
+33326_18	compound	33326_19
+33326_18	has_surface_form	Robert
+33326_19	is_in_sentence	sentence_33326
+33326_19	conj	33326_16
+33326_19	has_surface_form	Preston
+33326_20	is_in_sentence	sentence_33326
+33326_20	cc	33326_19
+33326_20	has_surface_form	and
+33326_21	is_in_sentence	sentence_33326
+33326_21	compound	33326_22
+33326_21	has_surface_form	Stephen
+33326_22	is_in_sentence	sentence_33326
+33326_22	conj	33326_19
+33326_22	has_surface_form	McNally
+33326_23	is_in_sentence	sentence_33326
+33326_23	punct	33326_3
+33326_23	has_surface_form	.
+33326_24	is_in_sentence	sentence_33326
+33326_24	dep	33326_3
+33326_24	has_surface_form	
+The Lady Gambles	surface_form	The Lady Gambles
+The Lady Gambles	movie-has-director	Michael Gordon
+Michael Gordon	surface_form	Michael Gordon

@@ -1,0 +1,77 @@
+8484_0	is_in_sentence	sentence_8484
+8484_0	compound	8484_1
+8484_0	has_surface_form	Coleg
+8484_0	part_of_entity	Coleg Menai
+8484_1	is_in_sentence	sentence_8484
+8484_1	nsubj	8484_10
+8484_1	has_surface_form	Menai
+8484_1	part_of_entity	Coleg Menai
+8484_10	is_in_sentence	sentence_8484
+8484_10	ROOT	8484_10
+8484_10	has_surface_form	is
+8484_2	is_in_sentence	sentence_8484
+8484_2	punct	8484_3
+8484_2	has_surface_form	(
+8484_3	is_in_sentence	sentence_8484
+8484_3	parataxis	8484_1
+8484_3	has_surface_form	Meaning
+8484_4	is_in_sentence	sentence_8484
+8484_4	prep	8484_3
+8484_4	has_surface_form	in
+8484_5	is_in_sentence	sentence_8484
+8484_5	pobj	8484_4
+8484_5	has_surface_form	English
+8484_6	is_in_sentence	sentence_8484
+8484_6	punct	8484_3
+8484_6	has_surface_form	:
+8484_7	is_in_sentence	sentence_8484
+8484_7	compound	8484_8
+8484_7	has_surface_form	Menai
+8484_8	is_in_sentence	sentence_8484
+8484_8	dep	8484_3
+8484_8	has_surface_form	College
+8484_9	is_in_sentence	sentence_8484
+8484_9	punct	8484_3
+8484_9	has_surface_form	)
+8484_11	is_in_sentence	sentence_8484
+8484_11	det	8484_14
+8484_11	has_surface_form	a
+8484_14	is_in_sentence	sentence_8484
+8484_14	attr	8484_10
+8484_14	has_surface_form	college
+8484_12	is_in_sentence	sentence_8484
+8484_12	amod	8484_14
+8484_12	has_surface_form	further
+8484_13	is_in_sentence	sentence_8484
+8484_13	compound	8484_14
+8484_13	has_surface_form	education
+8484_15	is_in_sentence	sentence_8484
+8484_15	acl	8484_14
+8484_15	has_surface_form	located
+8484_16	is_in_sentence	sentence_8484
+8484_16	prep	8484_15
+8484_16	has_surface_form	in
+8484_17	is_in_sentence	sentence_8484
+8484_17	pobj	8484_16
+8484_17	has_surface_form	Bangor
+8484_18	is_in_sentence	sentence_8484
+8484_18	punct	8484_17
+8484_18	has_surface_form	,
+8484_19	is_in_sentence	sentence_8484
+8484_19	conj	8484_17
+8484_19	has_surface_form	Gwynedd
+8484_20	is_in_sentence	sentence_8484
+8484_20	punct	8484_19
+8484_20	has_surface_form	,
+8484_21	is_in_sentence	sentence_8484
+8484_21	appos	8484_19
+8484_21	has_surface_form	Wales
+8484_22	is_in_sentence	sentence_8484
+8484_22	punct	8484_10
+8484_22	has_surface_form	.
+8484_23	is_in_sentence	sentence_8484
+8484_23	dep	8484_10
+8484_23	has_surface_form	
+Coleg Menai	surface_form	Coleg Menai
+Coleg Menai	is-where	Bangor, Gwynedd
+Bangor, Gwynedd	surface_form	Bangor, Gwynedd

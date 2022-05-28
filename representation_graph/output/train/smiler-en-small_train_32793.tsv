@@ -1,0 +1,59 @@
+32792_0	is_in_sentence	sentence_32792
+32792_0	compound	32792_1
+32792_0	has_surface_form	Denise
+32792_0	part_of_entity	Denise Donatelli
+32792_1	is_in_sentence	sentence_32792
+32792_1	nsubj	32792_11
+32792_1	has_surface_form	Donatelli
+32792_1	part_of_entity	Denise Donatelli
+32792_11	is_in_sentence	sentence_32792
+32792_11	ROOT	32792_11
+32792_11	has_surface_form	is
+32792_2	is_in_sentence	sentence_32792
+32792_2	punct	32792_1
+32792_2	has_surface_form	(
+32792_3	is_in_sentence	sentence_32792
+32792_3	acl	32792_1
+32792_3	has_surface_form	born
+32792_4	is_in_sentence	sentence_32792
+32792_4	npadvmod	32792_3
+32792_4	has_surface_form	c.
+32792_5	is_in_sentence	sentence_32792
+32792_5	nummod	32792_4
+32792_5	has_surface_form	1950
+32792_6	is_in_sentence	sentence_32792
+32792_6	punct	32792_1
+32792_6	has_surface_form	,
+32792_7	is_in_sentence	sentence_32792
+32792_7	appos	32792_1
+32792_7	has_surface_form	Allentown
+32792_8	is_in_sentence	sentence_32792
+32792_8	punct	32792_7
+32792_8	has_surface_form	,
+32792_9	is_in_sentence	sentence_32792
+32792_9	appos	32792_7
+32792_9	has_surface_form	Pennsylvania
+32792_10	is_in_sentence	sentence_32792
+32792_10	punct	32792_7
+32792_10	has_surface_form	)
+32792_12	is_in_sentence	sentence_32792
+32792_12	det	32792_15
+32792_12	has_surface_form	an
+32792_15	is_in_sentence	sentence_32792
+32792_15	attr	32792_11
+32792_15	has_surface_form	singer
+32792_13	is_in_sentence	sentence_32792
+32792_13	amod	32792_15
+32792_13	has_surface_form	American
+32792_14	is_in_sentence	sentence_32792
+32792_14	compound	32792_15
+32792_14	is_entity	jazz
+jazz	surface_form	jazz
+32792_16	is_in_sentence	sentence_32792
+32792_16	punct	32792_11
+32792_16	has_surface_form	.
+32792_17	is_in_sentence	sentence_32792
+32792_17	dep	32792_17
+32792_17	has_surface_form	
+Denise Donatelli	surface_form	Denise Donatelli
+Denise Donatelli	has-genre	jazz

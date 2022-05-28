@@ -1,0 +1,41 @@
+2234_0	is_in_sentence	sentence_2234
+2234_0	nsubj	2234_2
+2234_0	has_surface_form	KBO
+2234_2	is_in_sentence	sentence_2234
+2234_2	ROOT	2234_2
+2234_2	has_surface_form	is
+2234_1	is_in_sentence	sentence_2234
+2234_1	punct	2234_0
+2234_1	has_surface_form	!
+2234_3	is_in_sentence	sentence_2234
+2234_3	det	2234_7
+2234_3	has_surface_form	a
+2234_7	is_in_sentence	sentence_2234
+2234_7	attr	2234_2
+2234_7	has_surface_form	band
+2234_4	is_in_sentence	sentence_2234
+2234_4	amod	2234_7
+2234_4	has_surface_form	Serbian
+2234_5	is_in_sentence	sentence_2234
+2234_5	compound	2234_6
+2234_5	has_surface_form	punk
+2234_5	part_of_entity	punk rock
+2234_6	is_in_sentence	sentence_2234
+2234_6	compound	2234_7
+2234_6	has_surface_form	rock
+2234_6	part_of_entity	punk rock
+2234_8	is_in_sentence	sentence_2234
+2234_8	prep	2234_7
+2234_8	has_surface_form	from
+2234_9	is_in_sentence	sentence_2234
+2234_9	pobj	2234_8
+2234_9	has_surface_form	Kragujevac
+2234_10	is_in_sentence	sentence_2234
+2234_10	punct	2234_2
+2234_10	has_surface_form	.
+2234_11	is_in_sentence	sentence_2234
+2234_11	dep	2234_2
+2234_11	has_surface_form	
+KBO!	surface_form	KBO!
+KBO!	has-genre	punk rock
+punk rock	surface_form	punk rock

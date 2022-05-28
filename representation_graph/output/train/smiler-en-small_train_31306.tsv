@@ -1,0 +1,47 @@
+31305_0	is_in_sentence	sentence_31305
+31305_0	compound	31305_1
+31305_0	has_surface_form	Avior
+31305_0	part_of_entity	Avior Airlines
+31305_1	is_in_sentence	sentence_31305
+31305_1	nsubj	31305_2
+31305_1	has_surface_form	Airlines
+31305_1	part_of_entity	Avior Airlines
+31305_2	is_in_sentence	sentence_31305
+31305_2	ROOT	31305_2
+31305_2	has_surface_form	is
+31305_3	is_in_sentence	sentence_31305
+31305_3	det	31305_4
+31305_3	has_surface_form	an
+31305_4	is_in_sentence	sentence_31305
+31305_4	attr	31305_2
+31305_4	has_surface_form	airline
+31305_5	is_in_sentence	sentence_31305
+31305_5	acl	31305_4
+31305_5	has_surface_form	based
+31305_6	is_in_sentence	sentence_31305
+31305_6	prep	31305_5
+31305_6	has_surface_form	in
+31305_7	is_in_sentence	sentence_31305
+31305_7	pobj	31305_6
+31305_7	is_entity	Barcelona
+Barcelona	surface_form	Barcelona
+31305_8	is_in_sentence	sentence_31305
+31305_8	punct	31305_7
+31305_8	has_surface_form	,
+31305_9	is_in_sentence	sentence_31305
+31305_9	conj	31305_7
+31305_9	has_surface_form	Anzoátegui
+31305_10	is_in_sentence	sentence_31305
+31305_10	punct	31305_9
+31305_10	has_surface_form	,
+31305_11	is_in_sentence	sentence_31305
+31305_11	appos	31305_9
+31305_11	has_surface_form	Venezuela
+31305_12	is_in_sentence	sentence_31305
+31305_12	punct	31305_2
+31305_12	has_surface_form	.
+31305_13	is_in_sentence	sentence_31305
+31305_13	dep	31305_13
+31305_13	has_surface_form	
+Avior Airlines	surface_form	Avior Airlines
+Avior Airlines	headquarters	Barcelona

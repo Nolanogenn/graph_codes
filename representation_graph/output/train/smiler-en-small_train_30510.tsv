@@ -1,0 +1,71 @@
+30509_0	is_in_sentence	sentence_30509
+30509_0	compound	30509_1
+30509_0	has_surface_form	Red
+30509_0	part_of_entity	Red Love
+30509_1	is_in_sentence	sentence_30509
+30509_1	nsubj	30509_8
+30509_1	has_surface_form	Love
+30509_1	part_of_entity	Red Love
+30509_8	is_in_sentence	sentence_30509
+30509_8	ROOT	30509_8
+30509_8	has_surface_form	is
+30509_2	is_in_sentence	sentence_30509
+30509_2	punct	30509_3
+30509_2	has_surface_form	(
+30509_3	is_in_sentence	sentence_30509
+30509_3	appos	30509_1
+30509_3	has_surface_form	German
+30509_4	is_in_sentence	sentence_30509
+30509_4	punct	30509_3
+30509_4	has_surface_form	:
+30509_5	is_in_sentence	sentence_30509
+30509_5	compound	30509_6
+30509_5	has_surface_form	Rote
+30509_6	is_in_sentence	sentence_30509
+30509_6	appos	30509_3
+30509_6	has_surface_form	Liebe
+30509_7	is_in_sentence	sentence_30509
+30509_7	punct	30509_3
+30509_7	has_surface_form	)
+30509_9	is_in_sentence	sentence_30509
+30509_9	det	30509_13
+30509_9	has_surface_form	a
+30509_13	is_in_sentence	sentence_30509
+30509_13	attr	30509_8
+30509_13	has_surface_form	film
+30509_10	is_in_sentence	sentence_30509
+30509_10	nummod	30509_13
+30509_10	has_surface_form	1982
+30509_11	is_in_sentence	sentence_30509
+30509_11	amod	30509_13
+30509_11	has_surface_form	German
+30509_12	is_in_sentence	sentence_30509
+30509_12	compound	30509_13
+30509_12	has_surface_form	documentary
+30509_14	is_in_sentence	sentence_30509
+30509_14	acl	30509_13
+30509_14	has_surface_form	directed
+30509_15	is_in_sentence	sentence_30509
+30509_15	agent	30509_14
+30509_15	has_surface_form	by
+30509_16	is_in_sentence	sentence_30509
+30509_16	compound	30509_18
+30509_16	has_surface_form	Rosa
+30509_16	part_of_entity	Rosa von Praunheim
+30509_18	is_in_sentence	sentence_30509
+30509_18	pobj	30509_15
+30509_18	has_surface_form	Praunheim
+30509_18	part_of_entity	Rosa von Praunheim
+30509_17	is_in_sentence	sentence_30509
+30509_17	compound	30509_18
+30509_17	has_surface_form	von
+30509_17	part_of_entity	Rosa von Praunheim
+30509_19	is_in_sentence	sentence_30509
+30509_19	punct	30509_8
+30509_19	has_surface_form	.
+30509_20	is_in_sentence	sentence_30509
+30509_20	dep	30509_8
+30509_20	has_surface_form	
+Red Love	surface_form	Red Love
+Red Love	movie-has-director	Rosa von Praunheim
+Rosa von Praunheim	surface_form	Rosa von Praunheim

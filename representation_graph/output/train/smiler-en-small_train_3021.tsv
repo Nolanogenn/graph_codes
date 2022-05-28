@@ -1,0 +1,86 @@
+3020_0	is_in_sentence	sentence_3020
+3020_0	det	3020_1
+3020_0	has_surface_form	A
+3020_0	part_of_entity	A Life for the Taking
+3020_1	is_in_sentence	sentence_3020
+3020_1	nsubj	3020_9
+3020_1	has_surface_form	Life
+3020_1	part_of_entity	A Life for the Taking
+3020_9	is_in_sentence	sentence_3020
+3020_9	ROOT	3020_9
+3020_9	has_surface_form	ditt
+3020_2	is_in_sentence	sentence_3020
+3020_2	prep	3020_1
+3020_2	has_surface_form	for
+3020_2	part_of_entity	A Life for the Taking
+3020_3	is_in_sentence	sentence_3020
+3020_3	det	3020_4
+3020_3	has_surface_form	the
+3020_3	part_of_entity	A Life for the Taking
+3020_4	is_in_sentence	sentence_3020
+3020_4	pobj	3020_2
+3020_4	has_surface_form	Taking
+3020_4	part_of_entity	A Life for the Taking
+3020_5	is_in_sentence	sentence_3020
+3020_5	punct	3020_4
+3020_5	has_surface_form	(
+3020_6	is_in_sentence	sentence_3020
+3020_6	appos	3020_4
+3020_6	has_surface_form	Swedish
+3020_7	is_in_sentence	sentence_3020
+3020_7	punct	3020_9
+3020_7	has_surface_form	:
+3020_8	is_in_sentence	sentence_3020
+3020_8	nsubj	3020_9
+3020_8	has_surface_form	Tag
+3020_10	is_in_sentence	sentence_3020
+3020_10	dobj	3020_9
+3020_10	has_surface_form	liv
+3020_11	is_in_sentence	sentence_3020
+3020_11	punct	3020_9
+3020_11	has_surface_form	)
+3020_12	is_in_sentence	sentence_3020
+3020_12	ROOT	3020_12
+3020_12	has_surface_form	is
+3020_13	is_in_sentence	sentence_3020
+3020_13	det	3020_17
+3020_13	has_surface_form	a
+3020_17	is_in_sentence	sentence_3020
+3020_17	attr	3020_12
+3020_17	has_surface_form	film
+3020_14	is_in_sentence	sentence_3020
+3020_14	nummod	3020_17
+3020_14	has_surface_form	1995
+3020_15	is_in_sentence	sentence_3020
+3020_15	amod	3020_17
+3020_15	has_surface_form	Swedish
+3020_16	is_in_sentence	sentence_3020
+3020_16	compound	3020_17
+3020_16	has_surface_form	drama
+3020_18	is_in_sentence	sentence_3020
+3020_18	acl	3020_17
+3020_18	has_surface_form	directed
+3020_19	is_in_sentence	sentence_3020
+3020_19	agent	3020_18
+3020_19	has_surface_form	by
+3020_20	is_in_sentence	sentence_3020
+3020_20	pcomp	3020_19
+3020_20	has_surface_form	Göran
+3020_20	part_of_entity	Göran du Rées
+3020_21	is_in_sentence	sentence_3020
+3020_21	compound	3020_22
+3020_21	has_surface_form	du
+3020_21	part_of_entity	Göran du Rées
+3020_22	is_in_sentence	sentence_3020
+3020_22	dobj	3020_20
+3020_22	has_surface_form	Rées
+3020_22	part_of_entity	Göran du Rées
+3020_23	is_in_sentence	sentence_3020
+3020_23	punct	3020_12
+3020_23	has_surface_form	.
+3020_24	is_in_sentence	sentence_3020
+3020_24	dep	3020_12
+3020_24	has_surface_form	
+A Life for the Taking	surface_form	A Life for the Taking
+A Life for the Taking	movie-has-director	Göran du Rées
+Göran du Rées	surface_form	Göran du Rées

@@ -1,0 +1,76 @@
+32009_0	is_in_sentence	sentence_32009
+32009_0	compound	32009_1
+32009_0	has_surface_form	Madeleine
+32009_0	part_of_entity	Madeleine Jana Korbel Albright
+32009_1	is_in_sentence	sentence_32009
+32009_1	nsubj	32009_15
+32009_1	has_surface_form	Jana
+32009_1	part_of_entity	Madeleine Jana Korbel Albright
+32009_15	is_in_sentence	sentence_32009
+32009_15	ROOT	32009_15
+32009_15	has_surface_form	is
+32009_2	is_in_sentence	sentence_32009
+32009_2	compound	32009_3
+32009_2	has_surface_form	Korbel
+32009_2	part_of_entity	Madeleine Jana Korbel Albright
+32009_3	is_in_sentence	sentence_32009
+32009_3	appos	32009_1
+32009_3	has_surface_form	Albright
+32009_3	part_of_entity	Madeleine Jana Korbel Albright
+32009_4	is_in_sentence	sentence_32009
+32009_4	punct	32009_5
+32009_4	has_surface_form	(
+32009_5	is_in_sentence	sentence_32009
+32009_5	parataxis	32009_3
+32009_5	has_surface_form	born
+32009_6	is_in_sentence	sentence_32009
+32009_6	compound	32009_8
+32009_6	has_surface_form	Marie
+32009_8	is_in_sentence	sentence_32009
+32009_8	dobj	32009_5
+32009_8	has_surface_form	Korbelová
+32009_7	is_in_sentence	sentence_32009
+32009_7	compound	32009_8
+32009_7	has_surface_form	Jana
+32009_9	is_in_sentence	sentence_32009
+32009_9	punct	32009_8
+32009_9	has_surface_form	;
+32009_10	is_in_sentence	sentence_32009
+32009_10	appos	32009_8
+32009_10	has_surface_form	May
+32009_11	is_in_sentence	sentence_32009
+32009_11	nummod	32009_10
+32009_11	has_surface_form	15
+32009_12	is_in_sentence	sentence_32009
+32009_12	punct	32009_10
+32009_12	has_surface_form	,
+32009_13	is_in_sentence	sentence_32009
+32009_13	nummod	32009_10
+32009_13	has_surface_form	1937
+32009_14	is_in_sentence	sentence_32009
+32009_14	punct	32009_10
+32009_14	has_surface_form	)
+32009_16	is_in_sentence	sentence_32009
+32009_16	det	32009_18
+32009_16	has_surface_form	an
+32009_18	is_in_sentence	sentence_32009
+32009_18	attr	32009_15
+32009_18	has_surface_form	politician
+32009_17	is_in_sentence	sentence_32009
+32009_17	amod	32009_18
+32009_17	is_entity	American
+American	surface_form	American
+32009_19	is_in_sentence	sentence_32009
+32009_19	cc	32009_18
+32009_19	has_surface_form	and
+32009_20	is_in_sentence	sentence_32009
+32009_20	conj	32009_18
+32009_20	has_surface_form	diplomat
+32009_21	is_in_sentence	sentence_32009
+32009_21	punct	32009_15
+32009_21	has_surface_form	.
+32009_22	is_in_sentence	sentence_32009
+32009_22	dep	32009_22
+32009_22	has_surface_form	
+Madeleine Jana Korbel Albright	surface_form	Madeleine Jana Korbel Albright
+Madeleine Jana Korbel Albright	has-nationality	American

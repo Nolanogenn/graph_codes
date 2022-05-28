@@ -1,0 +1,74 @@
+1396_0	is_in_sentence	sentence_1396
+1396_0	nsubj	1396_7
+1396_0	has_surface_form	Pepe
+1396_0	part_of_entity	Pepe & Fifi
+1396_7	is_in_sentence	sentence_1396
+1396_7	nsubj	1396_10
+1396_7	has_surface_form	și
+1396_1	is_in_sentence	sentence_1396
+1396_1	cc	1396_0
+1396_1	has_surface_form	&
+1396_1	part_of_entity	Pepe & Fifi
+1396_2	is_in_sentence	sentence_1396
+1396_2	conj	1396_0
+1396_2	has_surface_form	Fifi
+1396_2	part_of_entity	Pepe & Fifi
+1396_3	is_in_sentence	sentence_1396
+1396_3	punct	1396_4
+1396_3	has_surface_form	(
+1396_4	is_in_sentence	sentence_1396
+1396_4	appos	1396_0
+1396_4	has_surface_form	Romanian
+1396_5	is_in_sentence	sentence_1396
+1396_5	punct	1396_4
+1396_5	has_surface_form	:
+1396_6	is_in_sentence	sentence_1396
+1396_6	appos	1396_0
+1396_6	has_surface_form	Pepe
+1396_10	is_in_sentence	sentence_1396
+1396_10	ROOT	1396_10
+1396_10	has_surface_form	is
+1396_8	is_in_sentence	sentence_1396
+1396_8	dobj	1396_7
+1396_8	has_surface_form	Fifi
+1396_9	is_in_sentence	sentence_1396
+1396_9	punct	1396_7
+1396_9	has_surface_form	)
+1396_11	is_in_sentence	sentence_1396
+1396_11	det	1396_15
+1396_11	has_surface_form	a
+1396_15	is_in_sentence	sentence_1396
+1396_15	attr	1396_10
+1396_15	has_surface_form	film
+1396_12	is_in_sentence	sentence_1396
+1396_12	nummod	1396_15
+1396_12	has_surface_form	1994
+1396_13	is_in_sentence	sentence_1396
+1396_13	amod	1396_15
+1396_13	has_surface_form	Romanian
+1396_14	is_in_sentence	sentence_1396
+1396_14	compound	1396_15
+1396_14	has_surface_form	drama
+1396_16	is_in_sentence	sentence_1396
+1396_16	acl	1396_15
+1396_16	has_surface_form	directed
+1396_17	is_in_sentence	sentence_1396
+1396_17	agent	1396_16
+1396_17	has_surface_form	by
+1396_18	is_in_sentence	sentence_1396
+1396_18	compound	1396_19
+1396_18	has_surface_form	Dan
+1396_18	part_of_entity	Dan Pița
+1396_19	is_in_sentence	sentence_1396
+1396_19	pobj	1396_17
+1396_19	has_surface_form	Pița
+1396_19	part_of_entity	Dan Pița
+1396_20	is_in_sentence	sentence_1396
+1396_20	punct	1396_10
+1396_20	has_surface_form	.
+1396_21	is_in_sentence	sentence_1396
+1396_21	dep	1396_10
+1396_21	has_surface_form	
+Pepe & Fifi	surface_form	Pepe & Fifi
+Pepe & Fifi	movie-has-director	Dan Pița
+Dan Pița	surface_form	Dan Pița

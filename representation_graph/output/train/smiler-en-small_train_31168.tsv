@@ -1,0 +1,124 @@
+31167_0	is_in_sentence	sentence_31167
+31167_0	compound	31167_4
+31167_0	has_surface_form	Les
+31167_0	part_of_entity	Les Vacances de Monsieur Hulot
+31167_4	is_in_sentence	sentence_31167
+31167_4	nsubj	31167_24
+31167_4	has_surface_form	Hulot
+31167_4	part_of_entity	Les Vacances de Monsieur Hulot
+31167_1	is_in_sentence	sentence_31167
+31167_1	nmod	31167_4
+31167_1	has_surface_form	Vacances
+31167_1	part_of_entity	Les Vacances de Monsieur Hulot
+31167_2	is_in_sentence	sentence_31167
+31167_2	nmod	31167_4
+31167_2	has_surface_form	de
+31167_2	part_of_entity	Les Vacances de Monsieur Hulot
+31167_3	is_in_sentence	sentence_31167
+31167_3	compound	31167_4
+31167_3	has_surface_form	Monsieur
+31167_3	part_of_entity	Les Vacances de Monsieur Hulot
+31167_24	is_in_sentence	sentence_31167
+31167_24	ROOT	31167_24
+31167_24	has_surface_form	is
+31167_5	is_in_sentence	sentence_31167
+31167_5	punct	31167_6
+31167_5	has_surface_form	(
+31167_6	is_in_sentence	sentence_31167
+31167_6	appos	31167_4
+31167_6	has_surface_form	French
+31167_7	is_in_sentence	sentence_31167
+31167_7	punct	31167_6
+31167_7	has_surface_form	:
+31167_8	is_in_sentence	sentence_31167
+31167_8	compound	31167_12
+31167_8	has_surface_form	Les
+31167_12	is_in_sentence	sentence_31167
+31167_12	appos	31167_6
+31167_12	has_surface_form	Hulot
+31167_9	is_in_sentence	sentence_31167
+31167_9	compound	31167_12
+31167_9	has_surface_form	Vacances
+31167_10	is_in_sentence	sentence_31167
+31167_10	compound	31167_12
+31167_10	has_surface_form	de
+31167_11	is_in_sentence	sentence_31167
+31167_11	compound	31167_12
+31167_11	has_surface_form	M.
+31167_13	is_in_sentence	sentence_31167
+31167_13	punct	31167_6
+31167_13	has_surface_form	;
+31167_14	is_in_sentence	sentence_31167
+31167_14	acl	31167_6
+31167_14	has_surface_form	released
+31167_15	is_in_sentence	sentence_31167
+31167_15	prep	31167_14
+31167_15	has_surface_form	as
+31167_16	is_in_sentence	sentence_31167
+31167_16	compound	31167_17
+31167_16	has_surface_form	Monsieur
+31167_17	is_in_sentence	sentence_31167
+31167_17	poss	31167_19
+31167_17	has_surface_form	Hulot
+31167_19	is_in_sentence	sentence_31167
+31167_19	pobj	31167_15
+31167_19	has_surface_form	Holiday
+31167_18	is_in_sentence	sentence_31167
+31167_18	case	31167_17
+31167_18	has_surface_form	's
+31167_20	is_in_sentence	sentence_31167
+31167_20	prep	31167_19
+31167_20	has_surface_form	in
+31167_21	is_in_sentence	sentence_31167
+31167_21	det	31167_22
+31167_21	has_surface_form	the
+31167_22	is_in_sentence	sentence_31167
+31167_22	pobj	31167_20
+31167_22	has_surface_form	US
+31167_23	is_in_sentence	sentence_31167
+31167_23	punct	31167_14
+31167_23	has_surface_form	)
+31167_25	is_in_sentence	sentence_31167
+31167_25	det	31167_29
+31167_25	has_surface_form	a
+31167_29	is_in_sentence	sentence_31167
+31167_29	attr	31167_24
+31167_29	has_surface_form	film
+31167_26	is_in_sentence	sentence_31167
+31167_26	nummod	31167_29
+31167_26	has_surface_form	1953
+31167_27	is_in_sentence	sentence_31167
+31167_27	amod	31167_29
+31167_27	has_surface_form	French
+31167_28	is_in_sentence	sentence_31167
+31167_28	compound	31167_29
+31167_28	has_surface_form	comedy
+31167_30	is_in_sentence	sentence_31167
+31167_30	acl	31167_29
+31167_30	has_surface_form	starring
+31167_31	is_in_sentence	sentence_31167
+31167_31	cc	31167_30
+31167_31	has_surface_form	and
+31167_32	is_in_sentence	sentence_31167
+31167_32	conj	31167_30
+31167_32	has_surface_form	directed
+31167_33	is_in_sentence	sentence_31167
+31167_33	agent	31167_32
+31167_33	has_surface_form	by
+31167_34	is_in_sentence	sentence_31167
+31167_34	compound	31167_35
+31167_34	has_surface_form	Jacques
+31167_34	part_of_entity	Jacques Tati
+31167_35	is_in_sentence	sentence_31167
+31167_35	pobj	31167_33
+31167_35	has_surface_form	Tati
+31167_35	part_of_entity	Jacques Tati
+31167_36	is_in_sentence	sentence_31167
+31167_36	punct	31167_24
+31167_36	has_surface_form	.
+31167_37	is_in_sentence	sentence_31167
+31167_37	dep	31167_37
+31167_37	has_surface_form	
+Les Vacances de Monsieur Hulot	surface_form	Les Vacances de Monsieur Hulot
+Les Vacances de Monsieur Hulot	movie-has-director	Jacques Tati
+Jacques Tati	surface_form	Jacques Tati

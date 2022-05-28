@@ -1,0 +1,50 @@
+21189_0	is_in_sentence	sentence_21189
+21189_0	compound	21189_1
+21189_0	has_surface_form	Ed
+21189_0	part_of_entity	Ed Calle
+21189_1	is_in_sentence	sentence_21189
+21189_1	nsubjpass	21189_8
+21189_1	has_surface_form	Calle
+21189_1	part_of_entity	Ed Calle
+21189_8	is_in_sentence	sentence_21189
+21189_8	ROOT	21189_8
+21189_8	has_surface_form	born
+21189_2	is_in_sentence	sentence_21189
+21189_2	punct	21189_3
+21189_2	has_surface_form	(
+21189_3	is_in_sentence	sentence_21189
+21189_3	parataxis	21189_1
+21189_3	has_surface_form	born
+21189_4	is_in_sentence	sentence_21189
+21189_4	compound	21189_6
+21189_4	has_surface_form	Eduardo
+21189_6	is_in_sentence	sentence_21189
+21189_6	nsubjpass	21189_8
+21189_6	has_surface_form	He
+21189_5	is_in_sentence	sentence_21189
+21189_5	compound	21189_6
+21189_5	has_surface_form	J.
+21189_7	is_in_sentence	sentence_21189
+21189_7	auxpass	21189_8
+21189_7	has_surface_form	was
+21189_9	is_in_sentence	sentence_21189
+21189_9	prep	21189_8
+21189_9	has_surface_form	in
+21189_10	is_in_sentence	sentence_21189
+21189_10	pobj	21189_9
+21189_10	is_entity	Caracas
+Caracas	surface_form	Caracas
+21189_11	is_in_sentence	sentence_21189
+21189_11	punct	21189_10
+21189_11	has_surface_form	,
+21189_12	is_in_sentence	sentence_21189
+21189_12	appos	21189_10
+21189_12	has_surface_form	Venezuela
+21189_13	is_in_sentence	sentence_21189
+21189_13	punct	21189_8
+21189_13	has_surface_form	.
+21189_14	is_in_sentence	sentence_21189
+21189_14	dep	21189_14
+21189_14	has_surface_form	
+Ed Calle	surface_form	Ed Calle
+Ed Calle	birth-place	Caracas

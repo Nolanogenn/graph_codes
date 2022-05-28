@@ -1,0 +1,71 @@
+16816_0	is_in_sentence	sentence_16816
+16816_0	compound	16816_1
+16816_0	has_surface_form	Chatur
+16816_0	part_of_entity	Chatur Lal
+16816_1	is_in_sentence	sentence_16816
+16816_1	poss	16816_3
+16816_1	has_surface_form	Lal
+16816_1	part_of_entity	Chatur Lal
+16816_3	is_in_sentence	sentence_16816
+16816_3	nsubj	16816_9
+16816_3	has_surface_form	son
+16816_2	is_in_sentence	sentence_16816
+16816_2	case	16816_1
+16816_2	has_surface_form	's
+16816_9	is_in_sentence	sentence_16816
+16816_9	ROOT	16816_9
+16816_9	has_surface_form	is
+16816_4	is_in_sentence	sentence_16816
+16816_4	punct	16816_3
+16816_4	has_surface_form	,
+16816_5	is_in_sentence	sentence_16816
+16816_5	compound	16816_7
+16816_5	has_surface_form	Charanjit
+16816_5	part_of_entity	Charanjit Lal Biyavat
+16816_7	is_in_sentence	sentence_16816
+16816_7	appos	16816_3
+16816_7	has_surface_form	Biyavat
+16816_7	part_of_entity	Charanjit Lal Biyavat
+16816_6	is_in_sentence	sentence_16816
+16816_6	compound	16816_7
+16816_6	has_surface_form	Lal
+16816_6	part_of_entity	Charanjit Lal Biyavat
+16816_8	is_in_sentence	sentence_16816
+16816_8	punct	16816_3
+16816_8	has_surface_form	,
+16816_10	is_in_sentence	sentence_16816
+16816_10	det	16816_12
+16816_10	has_surface_form	a
+16816_12	is_in_sentence	sentence_16816
+16816_12	attr	16816_9
+16816_12	has_surface_form	player
+16816_11	is_in_sentence	sentence_16816
+16816_11	compound	16816_12
+16816_11	has_surface_form	tabla
+16816_13	is_in_sentence	sentence_16816
+16816_13	cc	16816_9
+16816_13	has_surface_form	and
+16816_14	is_in_sentence	sentence_16816
+16816_14	aux	16816_15
+16816_14	has_surface_form	has
+16816_15	is_in_sentence	sentence_16816
+16816_15	conj	16816_9
+16816_15	has_surface_form	toured
+16816_16	is_in_sentence	sentence_16816
+16816_16	dobj	16816_15
+16816_16	has_surface_form	Europe
+16816_17	is_in_sentence	sentence_16816
+16816_17	prep	16816_15
+16816_17	has_surface_form	with
+16816_18	is_in_sentence	sentence_16816
+16816_18	pobj	16816_17
+16816_18	has_surface_form	Narayan
+16816_19	is_in_sentence	sentence_16816
+16816_19	punct	16816_9
+16816_19	has_surface_form	.
+16816_20	is_in_sentence	sentence_16816
+16816_20	dep	16816_20
+16816_20	has_surface_form	
+Chatur Lal	surface_form	Chatur Lal
+Chatur Lal	has-child	Charanjit Lal Biyavat
+Charanjit Lal Biyavat	surface_form	Charanjit Lal Biyavat

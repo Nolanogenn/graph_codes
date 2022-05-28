@@ -1,0 +1,58 @@
+2030_0	is_in_sentence	sentence_2030
+2030_0	compound	2030_1
+2030_0	has_surface_form	Nisha
+2030_0	part_of_entity	Nisha Agarwal
+2030_1	is_in_sentence	sentence_2030
+2030_1	nsubj	2030_2
+2030_1	has_surface_form	Agarwal
+2030_1	part_of_entity	Nisha Agarwal
+2030_2	is_in_sentence	sentence_2030
+2030_2	ROOT	2030_2
+2030_2	has_surface_form	married
+2030_3	is_in_sentence	sentence_2030
+2030_3	det	2030_9
+2030_3	has_surface_form	a
+2030_9	is_in_sentence	sentence_2030
+2030_9	dobj	2030_2
+2030_9	has_surface_form	Valecha
+2030_9	part_of_entity	Karan Valecha
+2030_4	is_in_sentence	sentence_2030
+2030_4	npadvmod	2030_6
+2030_4	has_surface_form	Mumbai
+2030_6	is_in_sentence	sentence_2030
+2030_6	amod	2030_7
+2030_6	has_surface_form	based
+2030_5	is_in_sentence	sentence_2030
+2030_5	punct	2030_6
+2030_5	has_surface_form	-
+2030_7	is_in_sentence	sentence_2030
+2030_7	compound	2030_9
+2030_7	has_surface_form	businessman
+2030_8	is_in_sentence	sentence_2030
+2030_8	compound	2030_9
+2030_8	has_surface_form	Karan
+2030_8	part_of_entity	Karan Valecha
+2030_10	is_in_sentence	sentence_2030
+2030_10	prep	2030_2
+2030_10	has_surface_form	on
+2030_11	is_in_sentence	sentence_2030
+2030_11	pobj	2030_10
+2030_11	has_surface_form	December
+2030_12	is_in_sentence	sentence_2030
+2030_12	nummod	2030_11
+2030_12	has_surface_form	28
+2030_13	is_in_sentence	sentence_2030
+2030_13	punct	2030_11
+2030_13	has_surface_form	,
+2030_14	is_in_sentence	sentence_2030
+2030_14	nummod	2030_11
+2030_14	has_surface_form	2013
+2030_15	is_in_sentence	sentence_2030
+2030_15	punct	2030_2
+2030_15	has_surface_form	.
+2030_16	is_in_sentence	sentence_2030
+2030_16	dep	2030_16
+2030_16	has_surface_form	
+Nisha Agarwal	surface_form	Nisha Agarwal
+Nisha Agarwal	has-spouse	Karan Valecha
+Karan Valecha	surface_form	Karan Valecha

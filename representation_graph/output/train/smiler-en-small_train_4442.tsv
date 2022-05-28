@@ -1,0 +1,65 @@
+4441_0	is_in_sentence	sentence_4441
+4441_0	compound	4441_1
+4441_0	has_surface_form	Loyola
+4441_1	is_in_sentence	sentence_4441
+4441_1	nsubj	4441_4
+4441_1	has_surface_form	College
+4441_4	is_in_sentence	sentence_4441
+4441_4	ROOT	4441_4
+4441_4	has_surface_form	is
+4441_2	is_in_sentence	sentence_4441
+4441_2	punct	4441_4
+4441_2	has_surface_form	,
+4441_3	is_in_sentence	sentence_4441
+4441_3	nsubj	4441_4
+4441_3	has_surface_form	Chennai
+4441_5	is_in_sentence	sentence_4441
+4441_5	det	4441_8
+4441_5	has_surface_form	an
+4441_8	is_in_sentence	sentence_4441
+4441_8	attr	4441_4
+4441_8	has_surface_form	college
+4441_8	part_of_entity	Jesuit college
+4441_6	is_in_sentence	sentence_4441
+4441_6	amod	4441_8
+4441_6	has_surface_form	autonomous
+4441_7	is_in_sentence	sentence_4441
+4441_7	compound	4441_8
+4441_7	has_surface_form	Jesuit
+4441_7	part_of_entity	Jesuit college
+4441_9	is_in_sentence	sentence_4441
+4441_9	prep	4441_8
+4441_9	has_surface_form	of
+4441_10	is_in_sentence	sentence_4441
+4441_10	det	4441_11
+4441_10	has_surface_form	the
+4441_11	is_in_sentence	sentence_4441
+4441_11	pobj	4441_9
+4441_11	has_surface_form	University
+4441_12	is_in_sentence	sentence_4441
+4441_12	prep	4441_11
+4441_12	has_surface_form	of
+4441_13	is_in_sentence	sentence_4441
+4441_13	pobj	4441_12
+4441_13	has_surface_form	Madras
+4441_14	is_in_sentence	sentence_4441
+4441_14	punct	4441_13
+4441_14	has_surface_form	,
+4441_15	is_in_sentence	sentence_4441
+4441_15	conj	4441_13
+4441_15	has_surface_form	Chennai
+4441_16	is_in_sentence	sentence_4441
+4441_16	punct	4441_15
+4441_16	has_surface_form	,
+4441_17	is_in_sentence	sentence_4441
+4441_17	appos	4441_15
+4441_17	has_surface_form	India
+4441_18	is_in_sentence	sentence_4441
+4441_18	punct	4441_4
+4441_18	has_surface_form	.
+4441_19	is_in_sentence	sentence_4441
+4441_19	dep	4441_19
+4441_19	has_surface_form	
+Loyola College, Chennai	surface_form	Loyola College, Chennai
+Loyola College, Chennai	has-type	Jesuit college
+Jesuit college	surface_form	Jesuit college

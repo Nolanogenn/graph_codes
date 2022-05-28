@@ -1,0 +1,51 @@
+25112_0	is_in_sentence	sentence_25112
+25112_0	amod	25112_1
+25112_0	has_surface_form	French
+25112_1	is_in_sentence	sentence_25112
+25112_1	compound	25112_3
+25112_1	has_surface_form	physicist
+25112_3	is_in_sentence	sentence_25112
+25112_3	nsubj	25112_4
+25112_3	has_surface_form	Becquerel
+25112_2	is_in_sentence	sentence_25112
+25112_2	compound	25112_3
+25112_2	has_surface_form	Edmund
+25112_4	is_in_sentence	sentence_25112
+25112_4	ROOT	25112_4
+25112_4	has_surface_form	developed
+25112_5	is_in_sentence	sentence_25112
+25112_5	det	25112_10
+25112_5	has_surface_form	the
+25112_10	is_in_sentence	sentence_25112
+25112_10	dobj	25112_4
+25112_10	has_surface_form	apparatus
+25112_10	part_of_entity	overhead projection apparatus
+25112_6	is_in_sentence	sentence_25112
+25112_6	advmod	25112_7
+25112_6	has_surface_form	first
+25112_7	is_in_sentence	sentence_25112
+25112_7	amod	25112_10
+25112_7	has_surface_form	known
+25112_8	is_in_sentence	sentence_25112
+25112_8	amod	25112_10
+25112_8	has_surface_form	overhead
+25112_8	part_of_entity	overhead projection apparatus
+25112_9	is_in_sentence	sentence_25112
+25112_9	compound	25112_10
+25112_9	has_surface_form	projection
+25112_9	part_of_entity	overhead projection apparatus
+25112_11	is_in_sentence	sentence_25112
+25112_11	prep	25112_4
+25112_11	has_surface_form	in
+25112_12	is_in_sentence	sentence_25112
+25112_12	pobj	25112_11
+25112_12	is_entity	1853
+1853	surface_form	1853
+25112_13	is_in_sentence	sentence_25112
+25112_13	punct	25112_4
+25112_13	has_surface_form	.
+25112_14	is_in_sentence	sentence_25112
+25112_14	dep	25112_14
+25112_14	has_surface_form	
+overhead projection apparatus	surface_form	overhead projection apparatus
+overhead projection apparatus	invented-when	1853

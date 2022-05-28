@@ -1,0 +1,56 @@
+1610_0	is_in_sentence	sentence_1610
+1610_0	compound	1610_1
+1610_0	has_surface_form	Kris
+1610_0	part_of_entity	Kris Tyler
+1610_1	is_in_sentence	sentence_1610
+1610_1	nsubj	1610_9
+1610_1	has_surface_form	Tyler
+1610_1	part_of_entity	Kris Tyler
+1610_9	is_in_sentence	sentence_1610
+1610_9	ROOT	1610_9
+1610_9	has_surface_form	is
+1610_2	is_in_sentence	sentence_1610
+1610_2	punct	1610_1
+1610_2	has_surface_form	(
+1610_3	is_in_sentence	sentence_1610
+1610_3	acl	1610_1
+1610_3	has_surface_form	born
+1610_4	is_in_sentence	sentence_1610
+1610_4	prep	1610_3
+1610_4	has_surface_form	in
+1610_5	is_in_sentence	sentence_1610
+1610_5	pobj	1610_4
+1610_5	has_surface_form	Omaha
+1610_6	is_in_sentence	sentence_1610
+1610_6	punct	1610_5
+1610_6	has_surface_form	,
+1610_7	is_in_sentence	sentence_1610
+1610_7	appos	1610_5
+1610_7	has_surface_form	Nebraska
+1610_8	is_in_sentence	sentence_1610
+1610_8	punct	1610_1
+1610_8	has_surface_form	)
+1610_10	is_in_sentence	sentence_1610
+1610_10	det	1610_14
+1610_10	has_surface_form	an
+1610_14	is_in_sentence	sentence_1610
+1610_14	attr	1610_9
+1610_14	has_surface_form	artist
+1610_11	is_in_sentence	sentence_1610
+1610_11	amod	1610_14
+1610_11	is_entity	American
+American	surface_form	American
+1610_12	is_in_sentence	sentence_1610
+1610_12	compound	1610_13
+1610_12	has_surface_form	country
+1610_13	is_in_sentence	sentence_1610
+1610_13	compound	1610_14
+1610_13	has_surface_form	music
+1610_15	is_in_sentence	sentence_1610
+1610_15	punct	1610_9
+1610_15	has_surface_form	.
+1610_16	is_in_sentence	sentence_1610
+1610_16	dep	1610_9
+1610_16	has_surface_form	
+Kris Tyler	surface_form	Kris Tyler
+Kris Tyler	has-nationality	American

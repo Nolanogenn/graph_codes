@@ -1,0 +1,88 @@
+14005_0	is_in_sentence	sentence_14005
+14005_0	compound	14005_1
+14005_0	has_surface_form	Brett
+14005_0	part_of_entity	Brett Branan
+14005_1	is_in_sentence	sentence_14005
+14005_1	nsubj	14005_11
+14005_1	has_surface_form	Branan
+14005_1	part_of_entity	Brett Branan
+14005_11	is_in_sentence	sentence_14005
+14005_11	ROOT	14005_11
+14005_11	has_surface_form	is
+14005_2	is_in_sentence	sentence_14005
+14005_2	punct	14005_1
+14005_2	has_surface_form	(
+14005_3	is_in_sentence	sentence_14005
+14005_3	acl	14005_1
+14005_3	has_surface_form	born
+14005_4	is_in_sentence	sentence_14005
+14005_4	npadvmod	14005_3
+14005_4	has_surface_form	February
+14005_5	is_in_sentence	sentence_14005
+14005_5	nummod	14005_4
+14005_5	has_surface_form	17
+14005_6	is_in_sentence	sentence_14005
+14005_6	punct	14005_4
+14005_6	has_surface_form	,
+14005_7	is_in_sentence	sentence_14005
+14005_7	appos	14005_4
+14005_7	has_surface_form	1983
+14005_8	is_in_sentence	sentence_14005
+14005_8	prep	14005_3
+14005_8	has_surface_form	in
+14005_9	is_in_sentence	sentence_14005
+14005_9	pobj	14005_8
+14005_9	has_surface_form	Atlanta
+14005_10	is_in_sentence	sentence_14005
+14005_10	punct	14005_1
+14005_10	has_surface_form	)
+14005_12	is_in_sentence	sentence_14005
+14005_12	det	14005_13
+14005_12	has_surface_form	a
+14005_13	is_in_sentence	sentence_14005
+14005_13	attr	14005_11
+14005_13	has_surface_form	defender
+14005_14	is_in_sentence	sentence_14005
+14005_14	nsubj	14005_16
+14005_14	has_surface_form	who
+14005_16	is_in_sentence	sentence_14005
+14005_16	relcl	14005_13
+14005_16	has_surface_form	played
+14005_15	is_in_sentence	sentence_14005
+14005_15	advmod	14005_16
+14005_15	has_surface_form	last
+14005_17	is_in_sentence	sentence_14005
+14005_17	prep	14005_16
+14005_17	has_surface_form	for
+14005_18	is_in_sentence	sentence_14005
+14005_18	compound	14005_21
+14005_18	has_surface_form	American
+14005_21	is_in_sentence	sentence_14005
+14005_21	compound	14005_22
+14005_21	has_surface_form	Division
+14005_19	is_in_sentence	sentence_14005
+14005_19	compound	14005_21
+14005_19	has_surface_form	USL
+14005_20	is_in_sentence	sentence_14005
+14005_20	compound	14005_21
+14005_20	has_surface_form	First
+14005_22	is_in_sentence	sentence_14005
+14005_22	compound	14005_24
+14005_22	has_surface_form	side
+14005_24	is_in_sentence	sentence_14005
+14005_24	pobj	14005_17
+14005_24	has_surface_form	Thunder
+14005_24	part_of_entity	Minnesota Thunder
+14005_23	is_in_sentence	sentence_14005
+14005_23	compound	14005_24
+14005_23	has_surface_form	Minnesota
+14005_23	part_of_entity	Minnesota Thunder
+14005_25	is_in_sentence	sentence_14005
+14005_25	punct	14005_11
+14005_25	has_surface_form	.
+14005_26	is_in_sentence	sentence_14005
+14005_26	dep	14005_11
+14005_26	has_surface_form	
+Brett Branan	surface_form	Brett Branan
+Brett Branan	is-member-of	Minnesota Thunder
+Minnesota Thunder	surface_form	Minnesota Thunder

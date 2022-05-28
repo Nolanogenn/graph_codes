@@ -1,0 +1,75 @@
+5234_0	is_in_sentence	sentence_5234
+5234_0	det	5234_1
+5234_0	has_surface_form	A
+5234_0	part_of_entity	A Touch of Zen
+5234_1	is_in_sentence	sentence_5234
+5234_1	nsubj	5234_4
+5234_1	has_surface_form	Touch
+5234_1	part_of_entity	A Touch of Zen
+5234_4	is_in_sentence	sentence_5234
+5234_4	ROOT	5234_4
+5234_4	has_surface_form	is
+5234_2	is_in_sentence	sentence_5234
+5234_2	prep	5234_1
+5234_2	has_surface_form	of
+5234_2	part_of_entity	A Touch of Zen
+5234_3	is_in_sentence	sentence_5234
+5234_3	pobj	5234_2
+5234_3	has_surface_form	Zen
+5234_3	part_of_entity	A Touch of Zen
+5234_5	is_in_sentence	sentence_5234
+5234_5	det	5234_8
+5234_5	has_surface_form	a
+5234_8	is_in_sentence	sentence_5234
+5234_8	attr	5234_4
+5234_8	has_surface_form	film
+5234_6	is_in_sentence	sentence_5234
+5234_6	nummod	5234_8
+5234_6	has_surface_form	1971
+5234_7	is_in_sentence	sentence_5234
+5234_7	compound	5234_8
+5234_7	has_surface_form	wuxia
+5234_9	is_in_sentence	sentence_5234
+5234_9	acl	5234_8
+5234_9	has_surface_form	co
+5234_10	is_in_sentence	sentence_5234
+5234_10	acl	5234_8
+5234_10	has_surface_form	-
+5234_11	is_in_sentence	sentence_5234
+5234_11	amod	5234_8
+5234_11	has_surface_form	edited
+5234_12	is_in_sentence	sentence_5234
+5234_12	punct	5234_11
+5234_12	has_surface_form	,
+5234_13	is_in_sentence	sentence_5234
+5234_13	conj	5234_11
+5234_13	has_surface_form	written
+5234_14	is_in_sentence	sentence_5234
+5234_14	punct	5234_13
+5234_14	has_surface_form	,
+5234_15	is_in_sentence	sentence_5234
+5234_15	cc	5234_13
+5234_15	has_surface_form	and
+5234_16	is_in_sentence	sentence_5234
+5234_16	conj	5234_13
+5234_16	has_surface_form	directed
+5234_17	is_in_sentence	sentence_5234
+5234_17	agent	5234_16
+5234_17	has_surface_form	by
+5234_18	is_in_sentence	sentence_5234
+5234_18	compound	5234_19
+5234_18	has_surface_form	King
+5234_18	part_of_entity	King Hu
+5234_19	is_in_sentence	sentence_5234
+5234_19	pobj	5234_17
+5234_19	has_surface_form	Hu
+5234_19	part_of_entity	King Hu
+5234_20	is_in_sentence	sentence_5234
+5234_20	punct	5234_4
+5234_20	has_surface_form	.
+5234_21	is_in_sentence	sentence_5234
+5234_21	dep	5234_4
+5234_21	has_surface_form	
+A Touch of Zen	surface_form	A Touch of Zen
+A Touch of Zen	movie-has-director	King Hu
+King Hu	surface_form	King Hu

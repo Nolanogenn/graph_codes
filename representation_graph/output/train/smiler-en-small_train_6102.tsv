@@ -1,0 +1,61 @@
+6101_0	is_in_sentence	sentence_6101
+6101_0	compound	6101_3
+6101_0	has_surface_form	Dallas
+6101_0	part_of_entity	Dallas County High School
+6101_3	is_in_sentence	sentence_6101
+6101_3	nsubj	6101_4
+6101_3	has_surface_form	School
+6101_3	part_of_entity	Dallas County High School
+6101_1	is_in_sentence	sentence_6101
+6101_1	compound	6101_3
+6101_1	has_surface_form	County
+6101_1	part_of_entity	Dallas County High School
+6101_2	is_in_sentence	sentence_6101
+6101_2	compound	6101_3
+6101_2	has_surface_form	High
+6101_2	part_of_entity	Dallas County High School
+6101_4	is_in_sentence	sentence_6101
+6101_4	ROOT	6101_4
+6101_4	has_surface_form	is
+6101_5	is_in_sentence	sentence_6101
+6101_5	det	6101_8
+6101_5	has_surface_form	a
+6101_8	is_in_sentence	sentence_6101
+6101_8	attr	6101_4
+6101_8	has_surface_form	school
+6101_6	is_in_sentence	sentence_6101
+6101_6	amod	6101_8
+6101_6	has_surface_form	public
+6101_7	is_in_sentence	sentence_6101
+6101_7	amod	6101_8
+6101_7	has_surface_form	high
+6101_9	is_in_sentence	sentence_6101
+6101_9	prep	6101_8
+6101_9	has_surface_form	in
+6101_10	is_in_sentence	sentence_6101
+6101_10	pobj	6101_9
+6101_10	has_surface_form	Plantersville
+6101_11	is_in_sentence	sentence_6101
+6101_11	punct	6101_10
+6101_11	has_surface_form	,
+6101_12	is_in_sentence	sentence_6101
+6101_12	conj	6101_10
+6101_12	has_surface_form	Alabama
+6101_13	is_in_sentence	sentence_6101
+6101_13	punct	6101_12
+6101_13	has_surface_form	,
+6101_14	is_in_sentence	sentence_6101
+6101_14	compound	6101_15
+6101_14	has_surface_form	United
+6101_15	is_in_sentence	sentence_6101
+6101_15	conj	6101_12
+6101_15	has_surface_form	States
+6101_16	is_in_sentence	sentence_6101
+6101_16	punct	6101_4
+6101_16	has_surface_form	.
+6101_17	is_in_sentence	sentence_6101
+6101_17	dep	6101_4
+6101_17	has_surface_form	
+Dallas County High School	surface_form	Dallas County High School
+Dallas County High School	is-where	Plantersville, Alabama
+Plantersville, Alabama	surface_form	Plantersville, Alabama

@@ -1,0 +1,105 @@
+11154_0	is_in_sentence	sentence_11154
+11154_0	compound	11154_2
+11154_0	has_surface_form	James
+11154_0	part_of_entity	James Vernon Taylor
+11154_2	is_in_sentence	sentence_11154
+11154_2	nsubjpass	11154_4
+11154_2	has_surface_form	Taylor
+11154_2	part_of_entity	James Vernon Taylor
+11154_1	is_in_sentence	sentence_11154
+11154_1	compound	11154_2
+11154_1	has_surface_form	Vernon
+11154_1	part_of_entity	James Vernon Taylor
+11154_4	is_in_sentence	sentence_11154
+11154_4	ROOT	11154_4
+11154_4	has_surface_form	born
+11154_3	is_in_sentence	sentence_11154
+11154_3	auxpass	11154_4
+11154_3	has_surface_form	was
+11154_5	is_in_sentence	sentence_11154
+11154_5	prep	11154_4
+11154_5	has_surface_form	at
+11154_6	is_in_sentence	sentence_11154
+11154_6	compound	11154_8
+11154_6	has_surface_form	Massachusetts
+11154_8	is_in_sentence	sentence_11154
+11154_8	pobj	11154_5
+11154_8	has_surface_form	Hospital
+11154_7	is_in_sentence	sentence_11154
+11154_7	compound	11154_8
+11154_7	has_surface_form	General
+11154_9	is_in_sentence	sentence_11154
+11154_9	prep	11154_8
+11154_9	has_surface_form	in
+11154_10	is_in_sentence	sentence_11154
+11154_10	pobj	11154_9
+11154_10	has_surface_form	Boston
+11154_11	is_in_sentence	sentence_11154
+11154_11	prep	11154_4
+11154_11	has_surface_form	on
+11154_12	is_in_sentence	sentence_11154
+11154_12	pobj	11154_11
+11154_12	has_surface_form	March
+11154_13	is_in_sentence	sentence_11154
+11154_13	nummod	11154_12
+11154_13	has_surface_form	12
+11154_14	is_in_sentence	sentence_11154
+11154_14	punct	11154_12
+11154_14	has_surface_form	,
+11154_15	is_in_sentence	sentence_11154
+11154_15	nummod	11154_12
+11154_15	has_surface_form	1948
+11154_16	is_in_sentence	sentence_11154
+11154_16	punct	11154_12
+11154_16	has_surface_form	,
+11154_17	is_in_sentence	sentence_11154
+11154_17	advmod	11154_25
+11154_17	has_surface_form	where
+11154_25	is_in_sentence	sentence_11154
+11154_25	relcl	11154_12
+11154_25	has_surface_form	worked
+11154_18	is_in_sentence	sentence_11154
+11154_18	poss	11154_19
+11154_18	has_surface_form	his
+11154_19	is_in_sentence	sentence_11154
+11154_19	nsubj	11154_25
+11154_19	has_surface_form	father
+11154_20	is_in_sentence	sentence_11154
+11154_20	punct	11154_19
+11154_20	has_surface_form	,
+11154_21	is_in_sentence	sentence_11154
+11154_21	compound	11154_23
+11154_21	has_surface_form	Isaac
+11154_21	part_of_entity	Isaac M. Taylor
+11154_23	is_in_sentence	sentence_11154
+11154_23	appos	11154_19
+11154_23	has_surface_form	Taylor
+11154_23	part_of_entity	Isaac M. Taylor
+11154_22	is_in_sentence	sentence_11154
+11154_22	compound	11154_23
+11154_22	has_surface_form	M.
+11154_22	part_of_entity	Isaac M. Taylor
+11154_24	is_in_sentence	sentence_11154
+11154_24	punct	11154_19
+11154_24	has_surface_form	,
+11154_26	is_in_sentence	sentence_11154
+11154_26	prep	11154_25
+11154_26	has_surface_form	as
+11154_27	is_in_sentence	sentence_11154
+11154_27	det	11154_29
+11154_27	has_surface_form	a
+11154_29	is_in_sentence	sentence_11154
+11154_29	pobj	11154_26
+11154_29	has_surface_form	physician
+11154_28	is_in_sentence	sentence_11154
+11154_28	amod	11154_29
+11154_28	has_surface_form	resident
+11154_30	is_in_sentence	sentence_11154
+11154_30	punct	11154_4
+11154_30	has_surface_form	.
+11154_31	is_in_sentence	sentence_11154
+11154_31	dep	11154_31
+11154_31	has_surface_form	
+James Vernon Taylor	surface_form	James Vernon Taylor
+James Vernon Taylor	has-parent	Isaac M. Taylor
+Isaac M. Taylor	surface_form	Isaac M. Taylor

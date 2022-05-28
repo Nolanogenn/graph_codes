@@ -1,0 +1,110 @@
+8245_0	is_in_sentence	sentence_8245
+8245_0	det	8245_1
+8245_0	has_surface_form	A
+8245_0	part_of_entity	A Man Who Was Superman
+8245_1	is_in_sentence	sentence_8245
+8245_1	nsubj	8245_20
+8245_1	has_surface_form	Man
+8245_1	part_of_entity	A Man Who Was Superman
+8245_20	is_in_sentence	sentence_8245
+8245_20	ROOT	8245_20
+8245_20	has_surface_form	is
+8245_2	is_in_sentence	sentence_8245
+8245_2	attr	8245_3
+8245_2	has_surface_form	Who
+8245_2	part_of_entity	A Man Who Was Superman
+8245_3	is_in_sentence	sentence_8245
+8245_3	relcl	8245_1
+8245_3	has_surface_form	Was
+8245_3	part_of_entity	A Man Who Was Superman
+8245_4	is_in_sentence	sentence_8245
+8245_4	attr	8245_3
+8245_4	has_surface_form	Superman
+8245_4	part_of_entity	A Man Who Was Superman
+8245_5	is_in_sentence	sentence_8245
+8245_5	punct	8245_6
+8245_5	has_surface_form	(
+8245_6	is_in_sentence	sentence_8245
+8245_6	appos	8245_4
+8245_6	has_surface_form	Korean
+8245_7	is_in_sentence	sentence_8245
+8245_7	punct	8245_6
+8245_7	has_surface_form	:
+8245_8	is_in_sentence	sentence_8245
+8245_8	dep	8245_6
+8245_8	has_surface_form	 
+8245_9	is_in_sentence	sentence_8245
+8245_9	compound	8245_10
+8245_9	has_surface_form	슈퍼맨이었던
+8245_10	is_in_sentence	sentence_8245
+8245_10	appos	8245_4
+8245_10	has_surface_form	사나이
+8245_11	is_in_sentence	sentence_8245
+8245_11	punct	8245_1
+8245_11	has_surface_form	;
+8245_12	is_in_sentence	sentence_8245
+8245_12	conj	8245_1
+8245_12	has_surface_form	RR
+8245_13	is_in_sentence	sentence_8245
+8245_13	punct	8245_12
+8245_13	has_surface_form	:
+8245_14	is_in_sentence	sentence_8245
+8245_14	dep	8245_12
+8245_14	has_surface_form	 
+8245_15	is_in_sentence	sentence_8245
+8245_15	compound	8245_17
+8245_15	has_surface_form	Syupeomaen
+8245_17	is_in_sentence	sentence_8245
+8245_17	compound	8245_18
+8245_17	has_surface_form	ieotteon
+8245_16	is_in_sentence	sentence_8245
+8245_16	punct	8245_17
+8245_16	has_surface_form	-
+8245_18	is_in_sentence	sentence_8245
+8245_18	appos	8245_12
+8245_18	has_surface_form	sanai
+8245_19	is_in_sentence	sentence_8245
+8245_19	punct	8245_12
+8245_19	has_surface_form	)
+8245_21	is_in_sentence	sentence_8245
+8245_21	det	8245_25
+8245_21	has_surface_form	a
+8245_25	is_in_sentence	sentence_8245
+8245_25	attr	8245_20
+8245_25	has_surface_form	film
+8245_22	is_in_sentence	sentence_8245
+8245_22	nummod	8245_25
+8245_22	has_surface_form	2008
+8245_23	is_in_sentence	sentence_8245
+8245_23	amod	8245_24
+8245_23	has_surface_form	South
+8245_24	is_in_sentence	sentence_8245
+8245_24	amod	8245_25
+8245_24	has_surface_form	Korean
+8245_26	is_in_sentence	sentence_8245
+8245_26	acl	8245_25
+8245_26	has_surface_form	directed
+8245_27	is_in_sentence	sentence_8245
+8245_27	agent	8245_26
+8245_27	has_surface_form	by
+8245_28	is_in_sentence	sentence_8245
+8245_28	compound	8245_31
+8245_28	has_surface_form	Jeong
+8245_31	is_in_sentence	sentence_8245
+8245_31	pobj	8245_27
+8245_31	has_surface_form	chul
+8245_29	is_in_sentence	sentence_8245
+8245_29	compound	8245_31
+8245_29	has_surface_form	Yoon
+8245_30	is_in_sentence	sentence_8245
+8245_30	punct	8245_31
+8245_30	has_surface_form	-
+8245_32	is_in_sentence	sentence_8245
+8245_32	punct	8245_20
+8245_32	has_surface_form	.
+8245_33	is_in_sentence	sentence_8245
+8245_33	dep	8245_33
+8245_33	has_surface_form	
+A Man Who Was Superman	surface_form	A Man Who Was Superman
+A Man Who Was Superman	movie-has-director	Jeong Yoon-chul
+Jeong Yoon-chul	surface_form	Jeong Yoon-chul

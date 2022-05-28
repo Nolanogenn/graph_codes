@@ -1,0 +1,81 @@
+4702_0	is_in_sentence	sentence_4702
+4702_0	det	4702_1
+4702_0	has_surface_form	A
+4702_0	part_of_entity	A Yank in Australia
+4702_1	is_in_sentence	sentence_4702
+4702_1	nsubj	4702_4
+4702_1	has_surface_form	Yank
+4702_1	part_of_entity	A Yank in Australia
+4702_4	is_in_sentence	sentence_4702
+4702_4	ROOT	4702_4
+4702_4	has_surface_form	is
+4702_2	is_in_sentence	sentence_4702
+4702_2	prep	4702_1
+4702_2	has_surface_form	in
+4702_2	part_of_entity	A Yank in Australia
+4702_3	is_in_sentence	sentence_4702
+4702_3	pobj	4702_2
+4702_3	has_surface_form	Australia
+4702_3	part_of_entity	A Yank in Australia
+4702_5	is_in_sentence	sentence_4702
+4702_5	det	4702_9
+4702_5	has_surface_form	a
+4702_9	is_in_sentence	sentence_4702
+4702_9	attr	4702_4
+4702_9	has_surface_form	film
+4702_6	is_in_sentence	sentence_4702
+4702_6	nummod	4702_9
+4702_6	has_surface_form	1942
+4702_7	is_in_sentence	sentence_4702
+4702_7	amod	4702_9
+4702_7	has_surface_form	Australian
+4702_8	is_in_sentence	sentence_4702
+4702_8	compound	4702_9
+4702_8	has_surface_form	comedy
+4702_10	is_in_sentence	sentence_4702
+4702_10	acl	4702_9
+4702_10	has_surface_form	directed
+4702_11	is_in_sentence	sentence_4702
+4702_11	agent	4702_10
+4702_11	has_surface_form	by
+4702_12	is_in_sentence	sentence_4702
+4702_12	compound	4702_14
+4702_12	has_surface_form	Alfred
+4702_14	is_in_sentence	sentence_4702
+4702_14	pobj	4702_11
+4702_14	has_surface_form	Goulding
+4702_13	is_in_sentence	sentence_4702
+4702_13	compound	4702_14
+4702_13	has_surface_form	J.
+4702_15	is_in_sentence	sentence_4702
+4702_15	cc	4702_10
+4702_15	has_surface_form	and
+4702_16	is_in_sentence	sentence_4702
+4702_16	conj	4702_10
+4702_16	has_surface_form	starring
+4702_17	is_in_sentence	sentence_4702
+4702_17	compound	4702_18
+4702_17	has_surface_form	Al
+4702_18	is_in_sentence	sentence_4702
+4702_18	dobj	4702_16
+4702_18	has_surface_form	Thomas
+4702_19	is_in_sentence	sentence_4702
+4702_19	cc	4702_18
+4702_19	has_surface_form	and
+4702_20	is_in_sentence	sentence_4702
+4702_20	compound	4702_21
+4702_20	has_surface_form	Hartney
+4702_20	part_of_entity	Hartney Arthur
+4702_21	is_in_sentence	sentence_4702
+4702_21	conj	4702_18
+4702_21	has_surface_form	Arthur
+4702_21	part_of_entity	Hartney Arthur
+4702_22	is_in_sentence	sentence_4702
+4702_22	punct	4702_4
+4702_22	has_surface_form	.
+4702_23	is_in_sentence	sentence_4702
+4702_23	dep	4702_4
+4702_23	has_surface_form	
+A Yank in Australia	surface_form	A Yank in Australia
+A Yank in Australia	starring	Hartney Arthur
+Hartney Arthur	surface_form	Hartney Arthur

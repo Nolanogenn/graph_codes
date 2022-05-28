@@ -1,0 +1,65 @@
+34008_0	is_in_sentence	sentence_34008
+34008_0	compound	34008_1
+34008_0	has_surface_form	Christophe
+34008_0	part_of_entity	Christophe Rinero
+34008_1	is_in_sentence	sentence_34008
+34008_1	nsubj	34008_10
+34008_1	has_surface_form	Rinero
+34008_1	part_of_entity	Christophe Rinero
+34008_10	is_in_sentence	sentence_34008
+34008_10	ROOT	34008_10
+34008_10	has_surface_form	is
+34008_2	is_in_sentence	sentence_34008
+34008_2	punct	34008_1
+34008_2	has_surface_form	(
+34008_3	is_in_sentence	sentence_34008
+34008_3	acl	34008_1
+34008_3	has_surface_form	born
+34008_4	is_in_sentence	sentence_34008
+34008_4	nummod	34008_5
+34008_4	has_surface_form	29
+34008_5	is_in_sentence	sentence_34008
+34008_5	npadvmod	34008_3
+34008_5	has_surface_form	December
+34008_6	is_in_sentence	sentence_34008
+34008_6	nummod	34008_5
+34008_6	has_surface_form	1973
+34008_7	is_in_sentence	sentence_34008
+34008_7	prep	34008_3
+34008_7	has_surface_form	in
+34008_8	is_in_sentence	sentence_34008
+34008_8	pobj	34008_7
+34008_8	is_entity	Moissac
+Moissac	surface_form	Moissac
+34008_9	is_in_sentence	sentence_34008
+34008_9	punct	34008_1
+34008_9	has_surface_form	)
+34008_11	is_in_sentence	sentence_34008
+34008_11	det	34008_17
+34008_11	has_surface_form	a
+34008_17	is_in_sentence	sentence_34008
+34008_17	attr	34008_10
+34008_17	has_surface_form	cyclist
+34008_12	is_in_sentence	sentence_34008
+34008_12	amod	34008_17
+34008_12	has_surface_form	former
+34008_13	is_in_sentence	sentence_34008
+34008_13	amod	34008_17
+34008_13	has_surface_form	French
+34008_14	is_in_sentence	sentence_34008
+34008_14	amod	34008_17
+34008_14	has_surface_form	professional
+34008_15	is_in_sentence	sentence_34008
+34008_15	compound	34008_16
+34008_15	has_surface_form	road
+34008_16	is_in_sentence	sentence_34008
+34008_16	compound	34008_17
+34008_16	has_surface_form	racing
+34008_18	is_in_sentence	sentence_34008
+34008_18	punct	34008_10
+34008_18	has_surface_form	.
+34008_19	is_in_sentence	sentence_34008
+34008_19	dep	34008_19
+34008_19	has_surface_form	
+Christophe Rinero	surface_form	Christophe Rinero
+Christophe Rinero	birth-place	Moissac

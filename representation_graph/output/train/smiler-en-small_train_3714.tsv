@@ -1,0 +1,86 @@
+3713_0	is_in_sentence	sentence_3713
+3713_0	det	3713_2
+3713_0	has_surface_form	The
+3713_0	part_of_entity	The Big Brain
+3713_2	is_in_sentence	sentence_3713
+3713_2	nsubj	3713_3
+3713_2	has_surface_form	Brain
+3713_2	part_of_entity	The Big Brain
+3713_1	is_in_sentence	sentence_3713
+3713_1	compound	3713_2
+3713_1	has_surface_form	Big
+3713_1	part_of_entity	The Big Brain
+3713_3	is_in_sentence	sentence_3713
+3713_3	ROOT	3713_3
+3713_3	has_surface_form	is
+3713_4	is_in_sentence	sentence_3713
+3713_4	det	3713_11
+3713_4	has_surface_form	a
+3713_11	is_in_sentence	sentence_3713
+3713_11	attr	3713_3
+3713_11	has_surface_form	film
+3713_5	is_in_sentence	sentence_3713
+3713_5	nummod	3713_11
+3713_5	has_surface_form	1933
+3713_6	is_in_sentence	sentence_3713
+3713_6	amod	3713_11
+3713_6	has_surface_form	American
+3713_7	is_in_sentence	sentence_3713
+3713_7	amod	3713_11
+3713_7	has_surface_form	pre
+3713_8	is_in_sentence	sentence_3713
+3713_8	amod	3713_11
+3713_8	has_surface_form	-
+3713_9	is_in_sentence	sentence_3713
+3713_9	amod	3713_11
+3713_9	has_surface_form	Code
+3713_10	is_in_sentence	sentence_3713
+3713_10	compound	3713_11
+3713_10	has_surface_form	drama
+3713_12	is_in_sentence	sentence_3713
+3713_12	acl	3713_11
+3713_12	has_surface_form	directed
+3713_13	is_in_sentence	sentence_3713
+3713_13	agent	3713_12
+3713_13	has_surface_form	by
+3713_14	is_in_sentence	sentence_3713
+3713_14	compound	3713_15
+3713_14	has_surface_form	George
+3713_14	part_of_entity	George Archainbaud
+3713_15	is_in_sentence	sentence_3713
+3713_15	pobj	3713_13
+3713_15	has_surface_form	Archainbaud
+3713_15	part_of_entity	George Archainbaud
+3713_16	is_in_sentence	sentence_3713
+3713_16	cc	3713_12
+3713_16	has_surface_form	and
+3713_17	is_in_sentence	sentence_3713
+3713_17	conj	3713_12
+3713_17	has_surface_form	written
+3713_18	is_in_sentence	sentence_3713
+3713_18	agent	3713_17
+3713_18	has_surface_form	by
+3713_19	is_in_sentence	sentence_3713
+3713_19	compound	3713_20
+3713_19	has_surface_form	Sy
+3713_20	is_in_sentence	sentence_3713
+3713_20	pobj	3713_18
+3713_20	has_surface_form	Bartlett
+3713_21	is_in_sentence	sentence_3713
+3713_21	cc	3713_20
+3713_21	has_surface_form	and
+3713_22	is_in_sentence	sentence_3713
+3713_22	compound	3713_23
+3713_22	has_surface_form	Warren
+3713_23	is_in_sentence	sentence_3713
+3713_23	conj	3713_20
+3713_23	has_surface_form	Duff
+3713_24	is_in_sentence	sentence_3713
+3713_24	punct	3713_3
+3713_24	has_surface_form	.
+3713_25	is_in_sentence	sentence_3713
+3713_25	dep	3713_3
+3713_25	has_surface_form	
+The Big Brain	surface_form	The Big Brain
+The Big Brain	movie-has-director	George Archainbaud
+George Archainbaud	surface_form	George Archainbaud

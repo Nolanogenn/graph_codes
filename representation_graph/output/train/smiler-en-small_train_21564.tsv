@@ -1,0 +1,65 @@
+21563_0	is_in_sentence	sentence_21563
+21563_0	compound	21563_1
+21563_0	has_surface_form	Neil
+21563_0	part_of_entity	Neil Yates
+21563_1	is_in_sentence	sentence_21563
+21563_1	nsubj	21563_11
+21563_1	has_surface_form	Yates
+21563_1	part_of_entity	Neil Yates
+21563_11	is_in_sentence	sentence_21563
+21563_11	ROOT	21563_11
+21563_11	has_surface_form	is
+21563_2	is_in_sentence	sentence_21563
+21563_2	punct	21563_1
+21563_2	has_surface_form	(
+21563_3	is_in_sentence	sentence_21563
+21563_3	acl	21563_1
+21563_3	has_surface_form	born
+21563_4	is_in_sentence	sentence_21563
+21563_4	prep	21563_3
+21563_4	has_surface_form	in
+21563_5	is_in_sentence	sentence_21563
+21563_5	pobj	21563_4
+21563_5	has_surface_form	Stockport
+21563_6	is_in_sentence	sentence_21563
+21563_6	punct	21563_5
+21563_6	has_surface_form	,
+21563_7	is_in_sentence	sentence_21563
+21563_7	conj	21563_5
+21563_7	has_surface_form	Cheshire
+21563_8	is_in_sentence	sentence_21563
+21563_8	punct	21563_7
+21563_8	has_surface_form	,
+21563_9	is_in_sentence	sentence_21563
+21563_9	nummod	21563_7
+21563_9	has_surface_form	1970
+21563_10	is_in_sentence	sentence_21563
+21563_10	punct	21563_7
+21563_10	has_surface_form	)
+21563_12	is_in_sentence	sentence_21563
+21563_12	det	21563_14
+21563_12	has_surface_form	a
+21563_14	is_in_sentence	sentence_21563
+21563_14	attr	21563_11
+21563_14	is_entity	jazz
+21563_13	is_in_sentence	sentence_21563
+21563_13	amod	21563_14
+21563_13	has_surface_form	British
+jazz	surface_form	jazz
+21563_15	is_in_sentence	sentence_21563
+21563_15	cc	21563_14
+21563_15	has_surface_form	and
+21563_16	is_in_sentence	sentence_21563
+21563_16	compound	21563_17
+21563_16	has_surface_form	folk
+21563_17	is_in_sentence	sentence_21563
+21563_17	conj	21563_14
+21563_17	has_surface_form	musician
+21563_18	is_in_sentence	sentence_21563
+21563_18	punct	21563_11
+21563_18	has_surface_form	.
+21563_19	is_in_sentence	sentence_21563
+21563_19	dep	21563_11
+21563_19	has_surface_form	
+Neil Yates	surface_form	Neil Yates
+Neil Yates	has-genre	jazz

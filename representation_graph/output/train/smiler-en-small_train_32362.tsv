@@ -1,0 +1,44 @@
+32361_0	is_in_sentence	sentence_32361
+32361_0	compound	32361_1
+32361_0	has_surface_form	South
+32361_0	part_of_entity	South Lakeland
+32361_1	is_in_sentence	sentence_32361
+32361_1	nsubj	32361_2
+32361_1	has_surface_form	Lakeland
+32361_1	part_of_entity	South Lakeland
+32361_2	is_in_sentence	sentence_32361
+32361_2	ROOT	32361_2
+32361_2	has_surface_form	is
+32361_3	is_in_sentence	sentence_32361
+32361_3	det	32361_6
+32361_3	has_surface_form	a
+32361_6	is_in_sentence	sentence_32361
+32361_6	attr	32361_2
+32361_6	is_entity	district
+32361_4	is_in_sentence	sentence_32361
+32361_4	amod	32361_6
+32361_4	has_surface_form	local
+32361_5	is_in_sentence	sentence_32361
+32361_5	compound	32361_6
+32361_5	has_surface_form	government
+district	surface_form	district
+32361_7	is_in_sentence	sentence_32361
+32361_7	prep	32361_6
+32361_7	has_surface_form	in
+32361_8	is_in_sentence	sentence_32361
+32361_8	pobj	32361_7
+32361_8	has_surface_form	Cumbria
+32361_9	is_in_sentence	sentence_32361
+32361_9	punct	32361_8
+32361_9	has_surface_form	,
+32361_10	is_in_sentence	sentence_32361
+32361_10	appos	32361_8
+32361_10	has_surface_form	England
+32361_11	is_in_sentence	sentence_32361
+32361_11	punct	32361_2
+32361_11	has_surface_form	.
+32361_12	is_in_sentence	sentence_32361
+32361_12	dep	32361_2
+32361_12	has_surface_form	
+South Lakeland	surface_form	South Lakeland
+South Lakeland	has-type	district

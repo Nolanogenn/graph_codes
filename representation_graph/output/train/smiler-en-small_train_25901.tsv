@@ -1,0 +1,24 @@
+25900_0	is_in_sentence	sentence_25900
+25900_0	det	25900_1
+25900_0	has_surface_form	The
+25900_1	is_in_sentence	sentence_25900
+25900_1	poss	25900_3
+25900_1	is_entity	Astaires
+25900_3	is_in_sentence	sentence_25900
+25900_3	compound	25900_5
+25900_3	has_surface_form	son
+Astaires	surface_form	Astaires
+Astaires	no_relation	Fred
+25900_2	is_in_sentence	sentence_25900
+25900_2	case	25900_1
+25900_2	has_surface_form	'
+25900_5	is_in_sentence	sentence_25900
+25900_5	ROOT	25900_5
+25900_5	has_surface_form	Jr.
+25900_4	is_in_sentence	sentence_25900
+25900_4	compound	25900_5
+25900_4	is_entity	Fred
+Fred	surface_form	Fred
+25900_6	is_in_sentence	sentence_25900
+25900_6	dep	25900_5
+25900_6	has_surface_form	

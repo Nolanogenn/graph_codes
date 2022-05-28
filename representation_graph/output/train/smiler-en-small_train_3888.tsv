@@ -1,0 +1,51 @@
+3887_0	is_in_sentence	sentence_3887
+3887_0	compound	3887_2
+3887_0	has_surface_form	Estrella
+3887_0	part_of_entity	Estrella High School
+3887_2	is_in_sentence	sentence_3887
+3887_2	nsubj	3887_3
+3887_2	has_surface_form	School
+3887_2	part_of_entity	Estrella High School
+3887_1	is_in_sentence	sentence_3887
+3887_1	compound	3887_2
+3887_1	has_surface_form	High
+3887_1	part_of_entity	Estrella High School
+3887_3	is_in_sentence	sentence_3887
+3887_3	ROOT	3887_3
+3887_3	has_surface_form	is
+3887_4	is_in_sentence	sentence_3887
+3887_4	det	3887_8
+3887_4	has_surface_form	a
+3887_8	is_in_sentence	sentence_3887
+3887_8	attr	3887_3
+3887_8	has_surface_form	school
+3887_5	is_in_sentence	sentence_3887
+3887_5	amod	3887_6
+3887_5	has_surface_form	public
+3887_6	is_in_sentence	sentence_3887
+3887_6	nmod	3887_8
+3887_6	has_surface_form	charter
+3887_7	is_in_sentence	sentence_3887
+3887_7	amod	3887_8
+3887_7	has_surface_form	high
+3887_9	is_in_sentence	sentence_3887
+3887_9	prep	3887_8
+3887_9	has_surface_form	in
+3887_10	is_in_sentence	sentence_3887
+3887_10	pobj	3887_9
+3887_10	has_surface_form	Avondale
+3887_11	is_in_sentence	sentence_3887
+3887_11	punct	3887_10
+3887_11	has_surface_form	,
+3887_12	is_in_sentence	sentence_3887
+3887_12	appos	3887_10
+3887_12	has_surface_form	Arizona
+3887_13	is_in_sentence	sentence_3887
+3887_13	punct	3887_3
+3887_13	has_surface_form	.
+3887_14	is_in_sentence	sentence_3887
+3887_14	dep	3887_3
+3887_14	has_surface_form	
+Estrella High School	surface_form	Estrella High School
+Estrella High School	is-where	Avondale, Arizona
+Avondale, Arizona	surface_form	Avondale, Arizona

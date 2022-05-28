@@ -1,0 +1,55 @@
+14172_0	is_in_sentence	sentence_14172
+14172_0	nummod	14172_1
+14172_0	has_surface_form	10
+14172_0	part_of_entity	10 Terrorists
+14172_1	is_in_sentence	sentence_14172
+14172_1	nsubj	14172_2
+14172_1	has_surface_form	Terrorists
+14172_1	part_of_entity	10 Terrorists
+14172_2	is_in_sentence	sentence_14172
+14172_2	ROOT	14172_2
+14172_2	has_surface_form	is
+14172_3	is_in_sentence	sentence_14172
+14172_3	det	14172_8
+14172_3	has_surface_form	a
+14172_8	is_in_sentence	sentence_14172
+14172_8	attr	14172_2
+14172_8	has_surface_form	film
+14172_4	is_in_sentence	sentence_14172
+14172_4	nummod	14172_8
+14172_4	has_surface_form	2012
+14172_5	is_in_sentence	sentence_14172
+14172_5	amod	14172_8
+14172_5	has_surface_form	Australian
+14172_6	is_in_sentence	sentence_14172
+14172_6	amod	14172_7
+14172_6	has_surface_form	black
+14172_7	is_in_sentence	sentence_14172
+14172_7	compound	14172_8
+14172_7	has_surface_form	comedy
+14172_9	is_in_sentence	sentence_14172
+14172_9	punct	14172_8
+14172_9	has_surface_form	,
+14172_10	is_in_sentence	sentence_14172
+14172_10	acl	14172_8
+14172_10	has_surface_form	directed
+14172_11	is_in_sentence	sentence_14172
+14172_11	agent	14172_10
+14172_11	has_surface_form	by
+14172_12	is_in_sentence	sentence_14172
+14172_12	compound	14172_13
+14172_12	has_surface_form	Dee
+14172_12	part_of_entity	Dee McLachlan
+14172_13	is_in_sentence	sentence_14172
+14172_13	pobj	14172_11
+14172_13	has_surface_form	McLachlan
+14172_13	part_of_entity	Dee McLachlan
+14172_14	is_in_sentence	sentence_14172
+14172_14	punct	14172_2
+14172_14	has_surface_form	.
+14172_15	is_in_sentence	sentence_14172
+14172_15	dep	14172_2
+14172_15	has_surface_form	
+10 Terrorists	surface_form	10 Terrorists
+10 Terrorists	movie-has-director	Dee McLachlan
+Dee McLachlan	surface_form	Dee McLachlan

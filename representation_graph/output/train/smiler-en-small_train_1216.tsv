@@ -1,0 +1,59 @@
+1215_0	is_in_sentence	sentence_1215
+1215_0	compound	1215_1
+1215_0	has_surface_form	Pavitra
+1215_0	part_of_entity	Pavitra Prema
+1215_1	is_in_sentence	sentence_1215
+1215_1	nsubj	1215_8
+1215_1	has_surface_form	Prema
+1215_1	part_of_entity	Pavitra Prema
+1215_8	is_in_sentence	sentence_1215
+1215_8	ROOT	1215_8
+1215_8	has_surface_form	is
+1215_2	is_in_sentence	sentence_1215
+1215_2	punct	1215_3
+1215_2	has_surface_form	(
+1215_3	is_in_sentence	sentence_1215
+1215_3	appos	1215_1
+1215_3	has_surface_form	English
+1215_4	is_in_sentence	sentence_1215
+1215_4	punct	1215_3
+1215_4	has_surface_form	:
+1215_5	is_in_sentence	sentence_1215
+1215_5	compound	1215_6
+1215_5	has_surface_form	Divine
+1215_6	is_in_sentence	sentence_1215
+1215_6	appos	1215_3
+1215_6	has_surface_form	Love
+1215_7	is_in_sentence	sentence_1215
+1215_7	punct	1215_3
+1215_7	has_surface_form	)
+1215_9	is_in_sentence	sentence_1215
+1215_9	det	1215_12
+1215_9	has_surface_form	a
+1215_12	is_in_sentence	sentence_1215
+1215_12	attr	1215_8
+1215_12	is_entity	film
+1215_10	is_in_sentence	sentence_1215
+1215_10	nummod	1215_12
+1215_10	has_surface_form	1998
+1215_11	is_in_sentence	sentence_1215
+1215_11	compound	1215_12
+1215_11	has_surface_form	Telugu
+film	surface_form	film
+1215_13	is_in_sentence	sentence_1215
+1215_13	punct	1215_12
+1215_13	has_surface_form	,
+1215_14	is_in_sentence	sentence_1215
+1215_14	acl	1215_12
+1215_14	has_surface_form	produced
+1215_15	is_in_sentence	sentence_1215
+1215_15	agent	1215_14
+1215_15	has_surface_form	by
+1215_16	is_in_sentence	sentence_1215
+1215_16	pobj	1215_15
+1215_16	has_surface_form	V.
+1215_17	is_in_sentence	sentence_1215
+1215_17	dep	1215_15
+1215_17	has_surface_form	
+Pavitra Prema	surface_form	Pavitra Prema
+Pavitra Prema	has-type	film

@@ -1,0 +1,56 @@
+203_0	is_in_sentence	sentence_203
+203_0	compound	203_1
+203_0	has_surface_form	Connellan
+203_0	part_of_entity	Connellan Airways
+203_1	is_in_sentence	sentence_203
+203_1	nsubj	203_6
+203_1	has_surface_form	Airways
+203_1	part_of_entity	Connellan Airways
+203_6	is_in_sentence	sentence_203
+203_6	ROOT	203_6
+203_6	has_surface_form	was
+203_2	is_in_sentence	sentence_203
+203_2	punct	203_4
+203_2	has_surface_form	(
+203_4	is_in_sentence	sentence_203
+203_4	appos	203_1
+203_4	has_surface_form	Connair
+203_3	is_in_sentence	sentence_203
+203_3	advmod	203_4
+203_3	has_surface_form	later
+203_5	is_in_sentence	sentence_203
+203_5	punct	203_4
+203_5	has_surface_form	)
+203_7	is_in_sentence	sentence_203
+203_7	det	203_8
+203_7	has_surface_form	an
+203_8	is_in_sentence	sentence_203
+203_8	attr	203_6
+203_8	has_surface_form	airline
+203_9	is_in_sentence	sentence_203
+203_9	acl	203_8
+203_9	has_surface_form	headquartered
+203_10	is_in_sentence	sentence_203
+203_10	prep	203_9
+203_10	has_surface_form	in
+203_11	is_in_sentence	sentence_203
+203_11	compound	203_12
+203_11	has_surface_form	Alice
+203_12	is_in_sentence	sentence_203
+203_12	pobj	203_10
+203_12	has_surface_form	Springs
+203_13	is_in_sentence	sentence_203
+203_13	punct	203_12
+203_13	has_surface_form	,
+203_14	is_in_sentence	sentence_203
+203_14	appos	203_12
+203_14	has_surface_form	Australia
+203_15	is_in_sentence	sentence_203
+203_15	punct	203_6
+203_15	has_surface_form	.
+203_16	is_in_sentence	sentence_203
+203_16	dep	203_6
+203_16	has_surface_form	
+Connellan Airways	surface_form	Connellan Airways
+Connellan Airways	headquarters	Alice Springs, Australia
+Alice Springs, Australia	surface_form	Alice Springs, Australia

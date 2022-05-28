@@ -1,0 +1,41 @@
+2959_0	is_in_sentence	sentence_2959
+2959_0	nsubj	2959_1
+2959_0	is_entity	Victoria
+2959_1	is_in_sentence	sentence_2959
+2959_1	ROOT	2959_1
+2959_1	has_surface_form	was
+Victoria	surface_form	Victoria
+Victoria	has-child	Wilhelm II
+2959_2	is_in_sentence	sentence_2959
+2959_2	det	2959_3
+2959_2	has_surface_form	the
+2959_3	is_in_sentence	sentence_2959
+2959_3	attr	2959_1
+2959_3	has_surface_form	mother
+2959_4	is_in_sentence	sentence_2959
+2959_4	prep	2959_3
+2959_4	has_surface_form	of
+2959_5	is_in_sentence	sentence_2959
+2959_5	compound	2959_6
+2959_5	has_surface_form	Wilhelm
+2959_5	part_of_entity	Wilhelm II
+2959_6	is_in_sentence	sentence_2959
+2959_6	pobj	2959_4
+2959_6	has_surface_form	II
+2959_6	part_of_entity	Wilhelm II
+2959_7	is_in_sentence	sentence_2959
+2959_7	punct	2959_6
+2959_7	has_surface_form	,
+2959_8	is_in_sentence	sentence_2959
+2959_8	compound	2959_9
+2959_8	has_surface_form	German
+2959_9	is_in_sentence	sentence_2959
+2959_9	appos	2959_6
+2959_9	has_surface_form	Emperor
+2959_10	is_in_sentence	sentence_2959
+2959_10	punct	2959_1
+2959_10	has_surface_form	.
+2959_11	is_in_sentence	sentence_2959
+2959_11	dep	2959_11
+2959_11	has_surface_form	
+Wilhelm II	surface_form	Wilhelm II

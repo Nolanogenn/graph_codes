@@ -1,0 +1,53 @@
+3686_0	is_in_sentence	sentence_3686
+3686_0	compound	3686_1
+3686_0	is_entity	Sherborn
+3686_0	part_of_entity	Sherborn Library
+3686_1	is_in_sentence	sentence_3686
+3686_1	nsubj	3686_2
+3686_1	has_surface_form	Library
+3686_1	part_of_entity	Sherborn Library
+Sherborn	surface_form	Sherborn
+3686_2	is_in_sentence	sentence_3686
+3686_2	ROOT	3686_2
+3686_2	has_surface_form	is
+3686_3	is_in_sentence	sentence_3686
+3686_3	det	3686_6
+3686_3	has_surface_form	a
+3686_6	is_in_sentence	sentence_3686
+3686_6	attr	3686_2
+3686_6	has_surface_form	library
+3686_4	is_in_sentence	sentence_3686
+3686_4	amod	3686_6
+3686_4	has_surface_form	municipal
+3686_5	is_in_sentence	sentence_3686
+3686_5	amod	3686_6
+3686_5	has_surface_form	public
+3686_7	is_in_sentence	sentence_3686
+3686_7	prep	3686_6
+3686_7	has_surface_form	in
+3686_8	is_in_sentence	sentence_3686
+3686_8	pobj	3686_7
+3686_8	is_entity	Sherborn
+3686_9	is_in_sentence	sentence_3686
+3686_9	punct	3686_8
+3686_9	has_surface_form	,
+3686_10	is_in_sentence	sentence_3686
+3686_10	conj	3686_8
+3686_10	has_surface_form	Massachusetts
+3686_11	is_in_sentence	sentence_3686
+3686_11	punct	3686_10
+3686_11	has_surface_form	,
+3686_12	is_in_sentence	sentence_3686
+3686_12	compound	3686_13
+3686_12	has_surface_form	United
+3686_13	is_in_sentence	sentence_3686
+3686_13	conj	3686_10
+3686_13	has_surface_form	States
+3686_14	is_in_sentence	sentence_3686
+3686_14	punct	3686_2
+3686_14	has_surface_form	.
+3686_15	is_in_sentence	sentence_3686
+3686_15	dep	3686_2
+3686_15	has_surface_form	
+Sherborn Library	surface_form	Sherborn Library
+Sherborn Library	has-tourist-attraction	Sherborn

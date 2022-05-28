@@ -1,0 +1,61 @@
+8216_0	is_in_sentence	sentence_8216
+8216_0	compound	8216_1
+8216_0	has_surface_form	Mango
+8216_0	part_of_entity	Mango Dreams
+8216_1	is_in_sentence	sentence_8216
+8216_1	nsubj	8216_2
+8216_1	has_surface_form	Dreams
+8216_1	part_of_entity	Mango Dreams
+8216_2	is_in_sentence	sentence_8216
+8216_2	ROOT	8216_2
+8216_2	has_surface_form	is
+8216_3	is_in_sentence	sentence_8216
+8216_3	det	8216_9
+8216_3	has_surface_form	a
+8216_9	is_in_sentence	sentence_8216
+8216_9	attr	8216_2
+8216_9	has_surface_form	film
+8216_4	is_in_sentence	sentence_8216
+8216_4	nummod	8216_9
+8216_4	has_surface_form	2016
+8216_5	is_in_sentence	sentence_8216
+8216_5	amod	8216_7
+8216_5	has_surface_form	English
+8216_7	is_in_sentence	sentence_8216
+8216_7	compound	8216_9
+8216_7	has_surface_form	language
+8216_6	is_in_sentence	sentence_8216
+8216_6	punct	8216_7
+8216_6	has_surface_form	-
+8216_8	is_in_sentence	sentence_8216
+8216_8	compound	8216_9
+8216_8	has_surface_form	drama
+8216_10	is_in_sentence	sentence_8216
+8216_10	acl	8216_9
+8216_10	has_surface_form	produced
+8216_11	is_in_sentence	sentence_8216
+8216_11	cc	8216_10
+8216_11	has_surface_form	and
+8216_12	is_in_sentence	sentence_8216
+8216_12	conj	8216_10
+8216_12	has_surface_form	directed
+8216_13	is_in_sentence	sentence_8216
+8216_13	agent	8216_12
+8216_13	has_surface_form	by
+8216_14	is_in_sentence	sentence_8216
+8216_14	compound	8216_15
+8216_14	has_surface_form	John
+8216_14	part_of_entity	John Upchurch
+8216_15	is_in_sentence	sentence_8216
+8216_15	pobj	8216_13
+8216_15	has_surface_form	Upchurch
+8216_15	part_of_entity	John Upchurch
+8216_16	is_in_sentence	sentence_8216
+8216_16	punct	8216_2
+8216_16	has_surface_form	.
+8216_17	is_in_sentence	sentence_8216
+8216_17	dep	8216_17
+8216_17	has_surface_form	
+Mango Dreams	surface_form	Mango Dreams
+Mango Dreams	movie-has-director	John Upchurch
+John Upchurch	surface_form	John Upchurch

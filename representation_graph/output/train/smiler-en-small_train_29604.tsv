@@ -1,0 +1,92 @@
+29603_0	is_in_sentence	sentence_29603
+29603_0	det	29603_2
+29603_0	has_surface_form	The
+29603_0	part_of_entity	The Steel Rope
+29603_2	is_in_sentence	sentence_29603
+29603_2	nsubj	29603_10
+29603_2	has_surface_form	Rope
+29603_2	part_of_entity	The Steel Rope
+29603_1	is_in_sentence	sentence_29603
+29603_1	compound	29603_2
+29603_1	has_surface_form	Steel
+29603_1	part_of_entity	The Steel Rope
+29603_10	is_in_sentence	sentence_29603
+29603_10	ROOT	29603_10
+29603_10	has_surface_form	is
+29603_3	is_in_sentence	sentence_29603
+29603_3	punct	29603_4
+29603_3	has_surface_form	(
+29603_4	is_in_sentence	sentence_29603
+29603_4	appos	29603_2
+29603_4	has_surface_form	Italian
+29603_5	is_in_sentence	sentence_29603
+29603_5	punct	29603_4
+29603_5	has_surface_form	:
+29603_6	is_in_sentence	sentence_29603
+29603_6	compound	29603_8
+29603_6	has_surface_form	La
+29603_8	is_in_sentence	sentence_29603
+29603_8	appos	29603_4
+29603_8	has_surface_form	d'acciaio
+29603_7	is_in_sentence	sentence_29603
+29603_7	compound	29603_8
+29603_7	has_surface_form	corda
+29603_9	is_in_sentence	sentence_29603
+29603_9	punct	29603_4
+29603_9	has_surface_form	)
+29603_11	is_in_sentence	sentence_29603
+29603_11	det	29603_14
+29603_11	has_surface_form	a
+29603_14	is_in_sentence	sentence_29603
+29603_14	attr	29603_10
+29603_14	has_surface_form	film
+29603_12	is_in_sentence	sentence_29603
+29603_12	nummod	29603_14
+29603_12	has_surface_form	1954
+29603_13	is_in_sentence	sentence_29603
+29603_13	compound	29603_14
+29603_13	has_surface_form	melodrama
+29603_15	is_in_sentence	sentence_29603
+29603_15	acl	29603_14
+29603_15	has_surface_form	directed
+29603_16	is_in_sentence	sentence_29603
+29603_16	agent	29603_15
+29603_16	has_surface_form	by
+29603_17	is_in_sentence	sentence_29603
+29603_17	compound	29603_18
+29603_17	has_surface_form	Carlo
+29603_18	is_in_sentence	sentence_29603
+29603_18	pobj	29603_16
+29603_18	has_surface_form	Borghesio
+29603_19	is_in_sentence	sentence_29603
+29603_19	cc	29603_15
+29603_19	has_surface_form	and
+29603_20	is_in_sentence	sentence_29603
+29603_20	conj	29603_15
+29603_20	has_surface_form	starring
+29603_21	is_in_sentence	sentence_29603
+29603_21	compound	29603_22
+29603_21	has_surface_form	Brigitte
+29603_21	part_of_entity	Brigitte Fossey
+29603_22	is_in_sentence	sentence_29603
+29603_22	dobj	29603_20
+29603_22	has_surface_form	Fossey
+29603_22	part_of_entity	Brigitte Fossey
+29603_23	is_in_sentence	sentence_29603
+29603_23	cc	29603_22
+29603_23	has_surface_form	and
+29603_24	is_in_sentence	sentence_29603
+29603_24	compound	29603_25
+29603_24	has_surface_form	Virna
+29603_25	is_in_sentence	sentence_29603
+29603_25	conj	29603_22
+29603_25	has_surface_form	Lisi
+29603_26	is_in_sentence	sentence_29603
+29603_26	punct	29603_10
+29603_26	has_surface_form	.
+29603_27	is_in_sentence	sentence_29603
+29603_27	dep	29603_27
+29603_27	has_surface_form	
+The Steel Rope	surface_form	The Steel Rope
+The Steel Rope	starring	Brigitte Fossey
+Brigitte Fossey	surface_form	Brigitte Fossey

@@ -1,0 +1,88 @@
+31071_0	is_in_sentence	sentence_31071
+31071_0	compound	31071_1
+31071_0	has_surface_form	Arizona
+31071_0	part_of_entity	Arizona Legion
+31071_1	is_in_sentence	sentence_31071
+31071_1	nsubj	31071_2
+31071_1	has_surface_form	Legion
+31071_1	part_of_entity	Arizona Legion
+31071_2	is_in_sentence	sentence_31071
+31071_2	ROOT	31071_2
+31071_2	has_surface_form	is
+31071_3	is_in_sentence	sentence_31071
+31071_3	det	31071_7
+31071_3	has_surface_form	a
+31071_7	is_in_sentence	sentence_31071
+31071_7	attr	31071_2
+31071_7	has_surface_form	film
+31071_4	is_in_sentence	sentence_31071
+31071_4	nummod	31071_7
+31071_4	has_surface_form	1939
+31071_5	is_in_sentence	sentence_31071
+31071_5	amod	31071_7
+31071_5	has_surface_form	American
+31071_6	is_in_sentence	sentence_31071
+31071_6	amod	31071_7
+31071_6	has_surface_form	western
+31071_8	is_in_sentence	sentence_31071
+31071_8	acl	31071_7
+31071_8	has_surface_form	directed
+31071_9	is_in_sentence	sentence_31071
+31071_9	agent	31071_8
+31071_9	has_surface_form	by
+31071_10	is_in_sentence	sentence_31071
+31071_10	compound	31071_11
+31071_10	has_surface_form	David
+31071_10	part_of_entity	David Howard
+31071_11	is_in_sentence	sentence_31071
+31071_11	pobj	31071_9
+31071_11	has_surface_form	Howard
+31071_11	part_of_entity	David Howard
+31071_12	is_in_sentence	sentence_31071
+31071_12	prep	31071_8
+31071_12	has_surface_form	from
+31071_13	is_in_sentence	sentence_31071
+31071_13	det	31071_14
+31071_13	has_surface_form	a
+31071_14	is_in_sentence	sentence_31071
+31071_14	pobj	31071_12
+31071_14	has_surface_form	screenplay
+31071_15	is_in_sentence	sentence_31071
+31071_15	prep	31071_14
+31071_15	has_surface_form	by
+31071_16	is_in_sentence	sentence_31071
+31071_16	compound	31071_17
+31071_16	has_surface_form	Oliver
+31071_17	is_in_sentence	sentence_31071
+31071_17	pobj	31071_15
+31071_17	has_surface_form	Drake
+31071_18	is_in_sentence	sentence_31071
+31071_18	punct	31071_17
+31071_18	has_surface_form	,
+31071_19	is_in_sentence	sentence_31071
+31071_19	acl	31071_14
+31071_19	has_surface_form	based
+31071_20	is_in_sentence	sentence_31071
+31071_20	prep	31071_19
+31071_20	has_surface_form	on
+31071_21	is_in_sentence	sentence_31071
+31071_21	compound	31071_22
+31071_21	has_surface_form	Bernard
+31071_22	is_in_sentence	sentence_31071
+31071_22	poss	31071_24
+31071_22	has_surface_form	McConville
+31071_24	is_in_sentence	sentence_31071
+31071_24	pobj	31071_20
+31071_24	has_surface_form	story
+31071_23	is_in_sentence	sentence_31071
+31071_23	case	31071_22
+31071_23	has_surface_form	's
+31071_25	is_in_sentence	sentence_31071
+31071_25	punct	31071_2
+31071_25	has_surface_form	.
+31071_26	is_in_sentence	sentence_31071
+31071_26	dep	31071_26
+31071_26	has_surface_form	
+Arizona Legion	surface_form	Arizona Legion
+Arizona Legion	movie-has-director	David Howard
+David Howard	surface_form	David Howard

@@ -1,0 +1,64 @@
+15285_0	is_in_sentence	sentence_15285
+15285_0	compound	15285_1
+15285_0	has_surface_form	Puthu
+15285_0	part_of_entity	Puthu Paatu
+15285_1	is_in_sentence	sentence_15285
+15285_1	nsubj	15285_2
+15285_1	has_surface_form	Paatu
+15285_1	part_of_entity	Puthu Paatu
+15285_2	is_in_sentence	sentence_15285
+15285_2	ROOT	15285_2
+15285_2	has_surface_form	is
+15285_3	is_in_sentence	sentence_15285
+15285_3	det	15285_7
+15285_3	has_surface_form	a
+15285_7	is_in_sentence	sentence_15285
+15285_7	attr	15285_2
+15285_7	has_surface_form	film
+15285_4	is_in_sentence	sentence_15285
+15285_4	nummod	15285_7
+15285_4	has_surface_form	1990
+15285_5	is_in_sentence	sentence_15285
+15285_5	amod	15285_6
+15285_5	has_surface_form	Indian
+15285_6	is_in_sentence	sentence_15285
+15285_6	compound	15285_7
+15285_6	has_surface_form	Tamil
+15285_8	is_in_sentence	sentence_15285
+15285_8	punct	15285_7
+15285_8	has_surface_form	,
+15285_9	is_in_sentence	sentence_15285
+15285_9	acl	15285_7
+15285_9	has_surface_form	directed
+15285_10	is_in_sentence	sentence_15285
+15285_10	agent	15285_9
+15285_10	has_surface_form	by
+15285_11	is_in_sentence	sentence_15285
+15285_11	compound	15285_12
+15285_11	has_surface_form	Panju
+15285_11	part_of_entity	Panju Arunachalam
+15285_12	is_in_sentence	sentence_15285
+15285_12	pobj	15285_10
+15285_12	has_surface_form	Arunachalam
+15285_12	part_of_entity	Panju Arunachalam
+15285_13	is_in_sentence	sentence_15285
+15285_13	cc	15285_9
+15285_13	has_surface_form	and
+15285_14	is_in_sentence	sentence_15285
+15285_14	conj	15285_9
+15285_14	has_surface_form	produced
+15285_15	is_in_sentence	sentence_15285
+15285_15	agent	15285_14
+15285_15	has_surface_form	by
+15285_16	is_in_sentence	sentence_15285
+15285_16	pobj	15285_15
+15285_16	has_surface_form	Ilaiyaraaja
+15285_17	is_in_sentence	sentence_15285
+15285_17	punct	15285_2
+15285_17	has_surface_form	.
+15285_18	is_in_sentence	sentence_15285
+15285_18	dep	15285_18
+15285_18	has_surface_form	
+Puthu Paatu	surface_form	Puthu Paatu
+Puthu Paatu	movie-has-director	Panju Arunachalam
+Panju Arunachalam	surface_form	Panju Arunachalam

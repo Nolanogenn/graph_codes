@@ -1,0 +1,77 @@
+32014_0	is_in_sentence	sentence_32014
+32014_0	compound	32014_1
+32014_0	has_surface_form	Bruno
+32014_0	part_of_entity	Bruno Rafael Bronetta da Silva
+32014_1	is_in_sentence	sentence_32014
+32014_1	compound	32014_4
+32014_1	has_surface_form	Rafael
+32014_1	part_of_entity	Bruno Rafael Bronetta da Silva
+32014_4	is_in_sentence	sentence_32014
+32014_4	nsubj	32014_15
+32014_4	has_surface_form	Silva
+32014_4	part_of_entity	Bruno Rafael Bronetta da Silva
+32014_2	is_in_sentence	sentence_32014
+32014_2	compound	32014_4
+32014_2	has_surface_form	Bronetta
+32014_2	part_of_entity	Bruno Rafael Bronetta da Silva
+32014_3	is_in_sentence	sentence_32014
+32014_3	compound	32014_4
+32014_3	has_surface_form	da
+32014_3	part_of_entity	Bruno Rafael Bronetta da Silva
+32014_15	is_in_sentence	sentence_32014
+32014_15	ROOT	32014_15
+32014_15	has_surface_form	is
+32014_5	is_in_sentence	sentence_32014
+32014_5	punct	32014_6
+32014_5	has_surface_form	(
+32014_6	is_in_sentence	sentence_32014
+32014_6	parataxis	32014_4
+32014_6	has_surface_form	born
+32014_7	is_in_sentence	sentence_32014
+32014_7	nummod	32014_8
+32014_7	has_surface_form	19
+32014_8	is_in_sentence	sentence_32014
+32014_8	npadvmod	32014_6
+32014_8	has_surface_form	March
+32014_9	is_in_sentence	sentence_32014
+32014_9	nummod	32014_8
+32014_9	has_surface_form	1984
+32014_10	is_in_sentence	sentence_32014
+32014_10	prep	32014_6
+32014_10	has_surface_form	in
+32014_11	is_in_sentence	sentence_32014
+32014_11	compound	32014_12
+32014_11	has_surface_form	Mogi
+32014_11	part_of_entity	Mogi das Cruzes
+32014_12	is_in_sentence	sentence_32014
+32014_12	compound	32014_13
+32014_12	has_surface_form	das
+32014_12	part_of_entity	Mogi das Cruzes
+32014_13	is_in_sentence	sentence_32014
+32014_13	pobj	32014_10
+32014_13	has_surface_form	Cruzes
+32014_13	part_of_entity	Mogi das Cruzes
+32014_14	is_in_sentence	sentence_32014
+32014_14	punct	32014_4
+32014_14	has_surface_form	)
+32014_16	is_in_sentence	sentence_32014
+32014_16	det	32014_19
+32014_16	has_surface_form	a
+32014_19	is_in_sentence	sentence_32014
+32014_19	attr	32014_15
+32014_19	has_surface_form	footballer
+32014_17	is_in_sentence	sentence_32014
+32014_17	amod	32014_19
+32014_17	has_surface_form	former
+32014_18	is_in_sentence	sentence_32014
+32014_18	amod	32014_19
+32014_18	has_surface_form	Brazilian
+32014_20	is_in_sentence	sentence_32014
+32014_20	punct	32014_15
+32014_20	has_surface_form	.
+32014_21	is_in_sentence	sentence_32014
+32014_21	dep	32014_21
+32014_21	has_surface_form	
+Bruno Rafael Bronetta da Silva	surface_form	Bruno Rafael Bronetta da Silva
+Bruno Rafael Bronetta da Silva	birth-place	Mogi das Cruzes
+Mogi das Cruzes	surface_form	Mogi das Cruzes

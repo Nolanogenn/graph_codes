@@ -1,0 +1,80 @@
+31461_0	is_in_sentence	sentence_31461
+31461_0	compound	31461_1
+31461_0	has_surface_form	Johnny
+31461_0	part_of_entity	Johnny Come Lately
+31461_1	is_in_sentence	sentence_31461
+31461_1	nsubj	31461_3
+31461_1	has_surface_form	Come
+31461_1	part_of_entity	Johnny Come Lately
+31461_3	is_in_sentence	sentence_31461
+31461_3	ROOT	31461_3
+31461_3	has_surface_form	is
+31461_2	is_in_sentence	sentence_31461
+31461_2	advmod	31461_1
+31461_2	has_surface_form	Lately
+31461_2	part_of_entity	Johnny Come Lately
+31461_4	is_in_sentence	sentence_31461
+31461_4	det	31461_7
+31461_4	has_surface_form	a
+31461_7	is_in_sentence	sentence_31461
+31461_7	attr	31461_3
+31461_7	has_surface_form	film
+31461_5	is_in_sentence	sentence_31461
+31461_5	nummod	31461_7
+31461_5	has_surface_form	1943
+31461_6	is_in_sentence	sentence_31461
+31461_6	compound	31461_7
+31461_6	has_surface_form	drama
+31461_8	is_in_sentence	sentence_31461
+31461_8	acl	31461_7
+31461_8	has_surface_form	directed
+31461_9	is_in_sentence	sentence_31461
+31461_9	agent	31461_8
+31461_9	has_surface_form	by
+31461_10	is_in_sentence	sentence_31461
+31461_10	compound	31461_12
+31461_10	has_surface_form	William
+31461_12	is_in_sentence	sentence_31461
+31461_12	pobj	31461_9
+31461_12	has_surface_form	Howard
+31461_11	is_in_sentence	sentence_31461
+31461_11	compound	31461_12
+31461_11	has_surface_form	K.
+31461_13	is_in_sentence	sentence_31461
+31461_13	acl	31461_7
+31461_13	has_surface_form	starring
+31461_14	is_in_sentence	sentence_31461
+31461_14	compound	31461_15
+31461_14	has_surface_form	James
+31461_14	part_of_entity	James Cagney
+31461_15	is_in_sentence	sentence_31461
+31461_15	dobj	31461_13
+31461_15	has_surface_form	Cagney
+31461_15	part_of_entity	James Cagney
+31461_16	is_in_sentence	sentence_31461
+31461_16	punct	31461_15
+31461_16	has_surface_form	,
+31461_17	is_in_sentence	sentence_31461
+31461_17	compound	31461_18
+31461_17	has_surface_form	Grace
+31461_18	is_in_sentence	sentence_31461
+31461_18	conj	31461_15
+31461_18	has_surface_form	George
+31461_19	is_in_sentence	sentence_31461
+31461_19	cc	31461_18
+31461_19	has_surface_form	and
+31461_20	is_in_sentence	sentence_31461
+31461_20	compound	31461_21
+31461_20	has_surface_form	Marjorie
+31461_21	is_in_sentence	sentence_31461
+31461_21	conj	31461_18
+31461_21	has_surface_form	Main
+31461_22	is_in_sentence	sentence_31461
+31461_22	punct	31461_3
+31461_22	has_surface_form	.
+31461_23	is_in_sentence	sentence_31461
+31461_23	dep	31461_3
+31461_23	has_surface_form	
+Johnny Come Lately	surface_form	Johnny Come Lately
+Johnny Come Lately	starring	James Cagney
+James Cagney	surface_form	James Cagney

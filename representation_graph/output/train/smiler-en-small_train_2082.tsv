@@ -1,0 +1,86 @@
+2081_0	is_in_sentence	sentence_2081
+2081_0	compound	2081_2
+2081_0	has_surface_form	Domani
+2081_0	part_of_entity	Domani mi sposo
+2081_2	is_in_sentence	sentence_2081
+2081_2	nsubj	2081_13
+2081_2	has_surface_form	sposo
+2081_2	part_of_entity	Domani mi sposo
+2081_1	is_in_sentence	sentence_2081
+2081_1	compound	2081_2
+2081_1	has_surface_form	mi
+2081_1	part_of_entity	Domani mi sposo
+2081_13	is_in_sentence	sentence_2081
+2081_13	ROOT	2081_13
+2081_13	has_surface_form	is
+2081_3	is_in_sentence	sentence_2081
+2081_3	punct	2081_2
+2081_3	has_surface_form	(
+2081_4	is_in_sentence	sentence_2081
+2081_4	advmod	2081_5
+2081_4	has_surface_form	also
+2081_5	is_in_sentence	sentence_2081
+2081_5	acl	2081_2
+2081_5	has_surface_form	known
+2081_6	is_in_sentence	sentence_2081
+2081_6	prep	2081_5
+2081_6	has_surface_form	as
+2081_7	is_in_sentence	sentence_2081
+2081_7	pobj	2081_6
+2081_7	has_surface_form	Tomorrow
+2081_8	is_in_sentence	sentence_2081
+2081_8	nsubj	2081_10
+2081_8	has_surface_form	I
+2081_10	is_in_sentence	sentence_2081
+2081_10	parataxis	2081_5
+2081_10	has_surface_form	Getting
+2081_9	is_in_sentence	sentence_2081
+2081_9	aux	2081_10
+2081_9	has_surface_form	'm
+2081_11	is_in_sentence	sentence_2081
+2081_11	acomp	2081_10
+2081_11	has_surface_form	Married
+2081_12	is_in_sentence	sentence_2081
+2081_12	punct	2081_2
+2081_12	has_surface_form	)
+2081_14	is_in_sentence	sentence_2081
+2081_14	det	2081_19
+2081_14	has_surface_form	a
+2081_19	is_in_sentence	sentence_2081
+2081_19	attr	2081_13
+2081_19	has_surface_form	film
+2081_15	is_in_sentence	sentence_2081
+2081_15	nummod	2081_19
+2081_15	has_surface_form	1984
+2081_16	is_in_sentence	sentence_2081
+2081_16	amod	2081_19
+2081_16	has_surface_form	Italian
+2081_17	is_in_sentence	sentence_2081
+2081_17	amod	2081_19
+2081_17	has_surface_form	romantic
+2081_18	is_in_sentence	sentence_2081
+2081_18	compound	2081_19
+2081_18	has_surface_form	comedy
+2081_20	is_in_sentence	sentence_2081
+2081_20	acl	2081_19
+2081_20	has_surface_form	directed
+2081_21	is_in_sentence	sentence_2081
+2081_21	agent	2081_20
+2081_21	has_surface_form	by
+2081_22	is_in_sentence	sentence_2081
+2081_22	compound	2081_23
+2081_22	has_surface_form	Francesco
+2081_22	part_of_entity	Francesco Massaro
+2081_23	is_in_sentence	sentence_2081
+2081_23	pobj	2081_21
+2081_23	has_surface_form	Massaro
+2081_23	part_of_entity	Francesco Massaro
+2081_24	is_in_sentence	sentence_2081
+2081_24	punct	2081_13
+2081_24	has_surface_form	.
+2081_25	is_in_sentence	sentence_2081
+2081_25	dep	2081_25
+2081_25	has_surface_form	
+Domani mi sposo	surface_form	Domani mi sposo
+Domani mi sposo	movie-has-director	Francesco Massaro
+Francesco Massaro	surface_form	Francesco Massaro

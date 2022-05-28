@@ -1,0 +1,94 @@
+11626_0	is_in_sentence	sentence_11626
+11626_0	compound	11626_1
+11626_0	has_surface_form	Squire
+11626_1	is_in_sentence	sentence_11626
+11626_1	nsubj	11626_5
+11626_1	has_surface_form	Boone
+11626_5	is_in_sentence	sentence_11626
+11626_5	ROOT	11626_5
+11626_5	has_surface_form	was
+11626_2	is_in_sentence	sentence_11626
+11626_2	punct	11626_1
+11626_2	has_surface_form	,
+11626_3	is_in_sentence	sentence_11626
+11626_3	appos	11626_1
+11626_3	has_surface_form	Sr
+11626_4	is_in_sentence	sentence_11626
+11626_4	appos	11626_1
+11626_4	has_surface_form	.
+11626_6	is_in_sentence	sentence_11626
+11626_6	compound	11626_7
+11626_6	has_surface_form	Daniel
+11626_6	part_of_entity	Daniel Boone
+11626_7	is_in_sentence	sentence_11626
+11626_7	poss	11626_9
+11626_7	has_surface_form	Boone
+11626_7	part_of_entity	Daniel Boone
+11626_9	is_in_sentence	sentence_11626
+11626_9	attr	11626_5
+11626_9	has_surface_form	father
+11626_8	is_in_sentence	sentence_11626
+11626_8	case	11626_7
+11626_8	has_surface_form	’s
+11626_10	is_in_sentence	sentence_11626
+11626_10	cc	11626_9
+11626_10	has_surface_form	and
+11626_11	is_in_sentence	sentence_11626
+11626_11	compound	11626_12
+11626_11	has_surface_form	Levi
+11626_12	is_in_sentence	sentence_11626
+11626_12	conj	11626_9
+11626_12	has_surface_form	Boone
+11626_13	is_in_sentence	sentence_11626
+11626_13	case	11626_12
+11626_13	has_surface_form	’s
+11626_14	is_in_sentence	sentence_11626
+11626_14	amod	11626_16
+11626_14	has_surface_form	great
+11626_16	is_in_sentence	sentence_11626
+11626_16	attr	11626_5
+11626_16	has_surface_form	grandfather
+11626_15	is_in_sentence	sentence_11626
+11626_15	punct	11626_16
+11626_15	has_surface_form	-
+11626_17	is_in_sentence	sentence_11626
+11626_17	punct	11626_5
+11626_17	has_surface_form	,
+11626_18	is_in_sentence	sentence_11626
+11626_18	advcl	11626_5
+11626_18	has_surface_form	making
+11626_19	is_in_sentence	sentence_11626
+11626_19	compound	11626_22
+11626_19	has_surface_form	Levi
+11626_22	is_in_sentence	sentence_11626
+11626_22	poss	11626_26
+11626_22	has_surface_form	Boone
+11626_22	part_of_entity	Daniel Boone
+11626_20	is_in_sentence	sentence_11626
+11626_20	compound	11626_22
+11626_20	has_surface_form	Boone
+11626_21	is_in_sentence	sentence_11626
+11626_21	compound	11626_22
+11626_21	has_surface_form	Daniel
+11626_21	part_of_entity	Daniel Boone
+11626_26	is_in_sentence	sentence_11626
+11626_26	ccomp	11626_18
+11626_26	has_surface_form	nephew
+11626_23	is_in_sentence	sentence_11626
+11626_23	case	11626_22
+11626_23	has_surface_form	's
+11626_24	is_in_sentence	sentence_11626
+11626_24	amod	11626_26
+11626_24	has_surface_form	great
+11626_25	is_in_sentence	sentence_11626
+11626_25	punct	11626_26
+11626_25	has_surface_form	-
+11626_27	is_in_sentence	sentence_11626
+11626_27	punct	11626_5
+11626_27	has_surface_form	.
+11626_28	is_in_sentence	sentence_11626
+11626_28	dep	11626_28
+11626_28	has_surface_form	
+Squire Boone, Sr.	surface_form	Squire Boone, Sr.
+Squire Boone, Sr.	has-child	Daniel Boone
+Daniel Boone	surface_form	Daniel Boone

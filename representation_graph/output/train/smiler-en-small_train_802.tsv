@@ -1,0 +1,102 @@
+801_0	is_in_sentence	sentence_801
+801_0	compound	801_1
+801_0	has_surface_form	Taungoo
+801_0	part_of_entity	Taungoo University
+801_1	is_in_sentence	sentence_801
+801_1	nsubj	801_12
+801_1	has_surface_form	University
+801_1	part_of_entity	Taungoo University
+801_12	is_in_sentence	sentence_801
+801_12	ROOT	801_12
+801_12	has_surface_form	is
+801_2	is_in_sentence	sentence_801
+801_2	cc	801_1
+801_2	has_surface_form	or
+801_3	is_in_sentence	sentence_801
+801_3	det	801_4
+801_3	has_surface_form	the
+801_4	is_in_sentence	sentence_801
+801_4	conj	801_1
+801_4	has_surface_form	University
+801_5	is_in_sentence	sentence_801
+801_5	prep	801_4
+801_5	has_surface_form	of
+801_6	is_in_sentence	sentence_801
+801_6	pobj	801_5
+801_6	has_surface_form	Taungoo
+801_7	is_in_sentence	sentence_801
+801_7	punct	801_8
+801_7	has_surface_form	(
+801_8	is_in_sentence	sentence_801
+801_8	appos	801_1
+801_8	has_surface_form	Burmese
+801_9	is_in_sentence	sentence_801
+801_9	punct	801_8
+801_9	has_surface_form	:
+801_10	is_in_sentence	sentence_801
+801_10	appos	801_8
+801_10	has_surface_form	တောင်ငူတက္ကသိုလ်
+801_11	is_in_sentence	sentence_801
+801_11	punct	801_8
+801_11	has_surface_form	)
+801_13	is_in_sentence	sentence_801
+801_13	det	801_17
+801_13	has_surface_form	a
+801_17	is_in_sentence	sentence_801
+801_17	attr	801_12
+801_17	has_surface_form	university
+801_17	part_of_entity	public liberal arts university
+801_14	is_in_sentence	sentence_801
+801_14	amod	801_17
+801_14	has_surface_form	public
+801_14	part_of_entity	public liberal arts university
+801_15	is_in_sentence	sentence_801
+801_15	amod	801_16
+801_15	has_surface_form	liberal
+801_15	part_of_entity	public liberal arts university
+801_16	is_in_sentence	sentence_801
+801_16	compound	801_17
+801_16	has_surface_form	arts
+801_16	part_of_entity	public liberal arts university
+801_18	is_in_sentence	sentence_801
+801_18	punct	801_17
+801_18	has_surface_form	,
+801_19	is_in_sentence	sentence_801
+801_19	acl	801_17
+801_19	has_surface_form	located
+801_20	is_in_sentence	sentence_801
+801_20	amod	801_21
+801_20	has_surface_form	nearNyaunggine
+801_21	is_in_sentence	sentence_801
+801_21	dobj	801_19
+801_21	has_surface_form	Village
+801_22	is_in_sentence	sentence_801
+801_22	prep	801_21
+801_22	has_surface_form	in
+801_23	is_in_sentence	sentence_801
+801_23	pobj	801_22
+801_23	has_surface_form	Taungoo
+801_24	is_in_sentence	sentence_801
+801_24	punct	801_21
+801_24	has_surface_form	,
+801_25	is_in_sentence	sentence_801
+801_25	compound	801_26
+801_25	has_surface_form	Bago
+801_26	is_in_sentence	sentence_801
+801_26	conj	801_21
+801_26	has_surface_form	Division
+801_27	is_in_sentence	sentence_801
+801_27	punct	801_26
+801_27	has_surface_form	,
+801_28	is_in_sentence	sentence_801
+801_28	npadvmod	801_26
+801_28	has_surface_form	Myanmar
+801_29	is_in_sentence	sentence_801
+801_29	punct	801_12
+801_29	has_surface_form	.
+801_30	is_in_sentence	sentence_801
+801_30	dep	801_12
+801_30	has_surface_form	
+Taungoo University	surface_form	Taungoo University
+Taungoo University	has-type	public liberal arts university
+public liberal arts university	surface_form	public liberal arts university

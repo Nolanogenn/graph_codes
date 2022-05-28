@@ -1,0 +1,83 @@
+30825_0	is_in_sentence	sentence_30825
+30825_0	compound	30825_2
+30825_0	has_surface_form	Woh
+30825_0	part_of_entity	Woh Phir Aayegi
+30825_2	is_in_sentence	sentence_30825
+30825_2	nsubj	30825_4
+30825_2	has_surface_form	Aayegi
+30825_2	part_of_entity	Woh Phir Aayegi
+30825_1	is_in_sentence	sentence_30825
+30825_1	compound	30825_2
+30825_1	has_surface_form	Phir
+30825_1	part_of_entity	Woh Phir Aayegi
+30825_4	is_in_sentence	sentence_30825
+30825_4	ROOT	30825_4
+30825_4	has_surface_form	lit
+30825_3	is_in_sentence	sentence_30825
+30825_3	punct	30825_2
+30825_3	has_surface_form	(
+30825_5	is_in_sentence	sentence_30825
+30825_5	punct	30825_4
+30825_5	has_surface_form	.
+30825_6	is_in_sentence	sentence_30825
+30825_6	dep	30825_9
+30825_6	has_surface_form	 
+30825_9	is_in_sentence	sentence_30825
+30825_9	ccomp	30825_12
+30825_9	has_surface_form	come
+30825_7	is_in_sentence	sentence_30825
+30825_7	nsubj	30825_9
+30825_7	has_surface_form	She
+30825_8	is_in_sentence	sentence_30825
+30825_8	aux	30825_9
+30825_8	has_surface_form	will
+30825_12	is_in_sentence	sentence_30825
+30825_12	ROOT	30825_12
+30825_12	has_surface_form	is
+30825_10	is_in_sentence	sentence_30825
+30825_10	advmod	30825_9
+30825_10	has_surface_form	again
+30825_11	is_in_sentence	sentence_30825
+30825_11	punct	30825_9
+30825_11	has_surface_form	)
+30825_13	is_in_sentence	sentence_30825
+30825_13	det	30825_20
+30825_13	has_surface_form	a
+30825_20	is_in_sentence	sentence_30825
+30825_20	attr	30825_12
+30825_20	has_surface_form	film
+30825_20	part_of_entity	horror film
+30825_14	is_in_sentence	sentence_30825
+30825_14	nummod	30825_20
+30825_14	has_surface_form	1988
+30825_15	is_in_sentence	sentence_30825
+30825_15	amod	30825_17
+30825_15	has_surface_form	Hindi
+30825_17	is_in_sentence	sentence_30825
+30825_17	nmod	30825_20
+30825_17	has_surface_form	language
+30825_16	is_in_sentence	sentence_30825
+30825_16	punct	30825_17
+30825_16	has_surface_form	-
+30825_18	is_in_sentence	sentence_30825
+30825_18	amod	30825_20
+30825_18	has_surface_form	Indian
+30825_19	is_in_sentence	sentence_30825
+30825_19	compound	30825_20
+30825_19	has_surface_form	horror
+30825_19	part_of_entity	horror film
+30825_21	is_in_sentence	sentence_30825
+30825_21	acl	30825_20
+30825_21	has_surface_form	directed
+30825_22	is_in_sentence	sentence_30825
+30825_22	agent	30825_21
+30825_22	has_surface_form	by
+30825_23	is_in_sentence	sentence_30825
+30825_23	compound	30825_24
+30825_23	has_surface_form	B.
+30825_24	is_in_sentence	sentence_30825
+30825_24	dep	30825_22
+30825_24	has_surface_form	
+Woh Phir Aayegi	surface_form	Woh Phir Aayegi
+Woh Phir Aayegi	has-type	horror film
+horror film	surface_form	horror film

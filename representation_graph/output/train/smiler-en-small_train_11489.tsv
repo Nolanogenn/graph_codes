@@ -1,0 +1,76 @@
+11488_0	is_in_sentence	sentence_11488
+11488_0	compound	11488_1
+11488_0	has_surface_form	Marlee
+11488_0	part_of_entity	Marlee Scott
+11488_1	is_in_sentence	sentence_11488
+11488_1	nsubj	11488_14
+11488_1	has_surface_form	Scott
+11488_1	part_of_entity	Marlee Scott
+11488_14	is_in_sentence	sentence_11488
+11488_14	ROOT	11488_14
+11488_14	has_surface_form	is
+11488_2	is_in_sentence	sentence_11488
+11488_2	punct	11488_1
+11488_2	has_surface_form	(
+11488_3	is_in_sentence	sentence_11488
+11488_3	acl	11488_1
+11488_3	has_surface_form	born
+11488_4	is_in_sentence	sentence_11488
+11488_4	npadvmod	11488_3
+11488_4	has_surface_form	January
+11488_5	is_in_sentence	sentence_11488
+11488_5	nummod	11488_4
+11488_5	has_surface_form	1
+11488_6	is_in_sentence	sentence_11488
+11488_6	punct	11488_4
+11488_6	has_surface_form	,
+11488_7	is_in_sentence	sentence_11488
+11488_7	nummod	11488_4
+11488_7	has_surface_form	1986
+11488_8	is_in_sentence	sentence_11488
+11488_8	prep	11488_3
+11488_8	has_surface_form	in
+11488_9	is_in_sentence	sentence_11488
+11488_9	compound	11488_10
+11488_9	has_surface_form	Richmond
+11488_10	is_in_sentence	sentence_11488
+11488_10	pobj	11488_8
+11488_10	has_surface_form	Hill
+11488_11	is_in_sentence	sentence_11488
+11488_11	punct	11488_10
+11488_11	has_surface_form	,
+11488_12	is_in_sentence	sentence_11488
+11488_12	appos	11488_10
+11488_12	has_surface_form	Ontario
+11488_13	is_in_sentence	sentence_11488
+11488_13	punct	11488_10
+11488_13	has_surface_form	)
+11488_15	is_in_sentence	sentence_11488
+11488_15	det	11488_18
+11488_15	has_surface_form	a
+11488_18	is_in_sentence	sentence_11488
+11488_18	attr	11488_14
+11488_18	has_surface_form	singer
+11488_16	is_in_sentence	sentence_11488
+11488_16	compound	11488_18
+11488_16	has_surface_form	country
+11488_16	part_of_entity	country music
+11488_17	is_in_sentence	sentence_11488
+11488_17	compound	11488_18
+11488_17	has_surface_form	music
+11488_17	part_of_entity	country music
+11488_19	is_in_sentence	sentence_11488
+11488_19	cc	11488_18
+11488_19	has_surface_form	and
+11488_20	is_in_sentence	sentence_11488
+11488_20	conj	11488_18
+11488_20	has_surface_form	songwriter
+11488_21	is_in_sentence	sentence_11488
+11488_21	punct	11488_14
+11488_21	has_surface_form	.
+11488_22	is_in_sentence	sentence_11488
+11488_22	dep	11488_22
+11488_22	has_surface_form	
+Marlee Scott	surface_form	Marlee Scott
+Marlee Scott	has-genre	country music
+country music	surface_form	country music

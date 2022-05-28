@@ -1,0 +1,79 @@
+32726_0	is_in_sentence	sentence_32726
+32726_0	det	32726_2
+32726_0	has_surface_form	The
+32726_2	is_in_sentence	sentence_32726
+32726_2	nsubjpass	32726_5
+32726_2	has_surface_form	hyrax
+32726_2	part_of_entity	Bush hyrax
+32726_1	is_in_sentence	sentence_32726
+32726_1	compound	32726_2
+32726_1	has_surface_form	Bush
+32726_1	part_of_entity	Bush hyrax
+32726_5	is_in_sentence	sentence_32726
+32726_5	ROOT	32726_5
+32726_5	has_surface_form	recorded
+32726_3	is_in_sentence	sentence_32726
+32726_3	aux	32726_5
+32726_3	has_surface_form	has
+32726_4	is_in_sentence	sentence_32726
+32726_4	auxpass	32726_5
+32726_4	has_surface_form	been
+32726_6	is_in_sentence	sentence_32726
+32726_6	aux	32726_7
+32726_6	has_surface_form	to
+32726_7	is_in_sentence	sentence_32726
+32726_7	advcl	32726_5
+32726_7	has_surface_form	live
+32726_8	is_in_sentence	sentence_32726
+32726_8	prep	32726_7
+32726_8	has_surface_form	over
+32726_9	is_in_sentence	sentence_32726
+32726_9	nummod	32726_10
+32726_9	has_surface_form	10
+32726_10	is_in_sentence	sentence_32726
+32726_10	pobj	32726_8
+32726_10	has_surface_form	years
+32726_11	is_in_sentence	sentence_32726
+32726_11	prep	32726_7
+32726_11	has_surface_form	in
+32726_12	is_in_sentence	sentence_32726
+32726_12	det	32726_13
+32726_12	has_surface_form	the
+32726_13	is_in_sentence	sentence_32726
+32726_13	pobj	32726_11
+32726_13	has_surface_form	wild
+32726_14	is_in_sentence	sentence_32726
+32726_14	punct	32726_5
+32726_14	has_surface_form	,
+32726_15	is_in_sentence	sentence_32726
+32726_15	prep	32726_5
+32726_15	has_surface_form	with
+32726_16	is_in_sentence	sentence_32726
+32726_16	det	32726_18
+32726_16	has_surface_form	an
+32726_18	is_in_sentence	sentence_32726
+32726_18	pobj	32726_15
+32726_18	has_surface_form	lifespan
+32726_17	is_in_sentence	sentence_32726
+32726_17	amod	32726_18
+32726_17	has_surface_form	average
+32726_19	is_in_sentence	sentence_32726
+32726_19	prep	32726_18
+32726_19	has_surface_form	of
+32726_20	is_in_sentence	sentence_32726
+32726_20	nummod	32726_21
+32726_20	has_surface_form	12
+32726_20	part_of_entity	12 years
+32726_21	is_in_sentence	sentence_32726
+32726_21	pobj	32726_19
+32726_21	has_surface_form	years
+32726_21	part_of_entity	12 years
+32726_22	is_in_sentence	sentence_32726
+32726_22	punct	32726_5
+32726_22	has_surface_form	.
+32726_23	is_in_sentence	sentence_32726
+32726_23	dep	32726_23
+32726_23	has_surface_form	
+Bush hyrax	surface_form	Bush hyrax
+Bush hyrax	has-lifespan	12 years
+12 years	surface_form	12 years

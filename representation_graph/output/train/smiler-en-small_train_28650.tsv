@@ -1,0 +1,65 @@
+28649_0	is_in_sentence	sentence_28649
+28649_0	compound	28649_1
+28649_0	has_surface_form	Mike
+28649_0	part_of_entity	Mike Working
+28649_1	is_in_sentence	sentence_28649
+28649_1	nsubj	28649_9
+28649_1	has_surface_form	Working
+28649_1	part_of_entity	Mike Working
+28649_9	is_in_sentence	sentence_28649
+28649_9	ROOT	28649_9
+28649_9	has_surface_form	is
+28649_2	is_in_sentence	sentence_28649
+28649_2	punct	28649_1
+28649_2	has_surface_form	(
+28649_3	is_in_sentence	sentence_28649
+28649_3	acl	28649_1
+28649_3	has_surface_form	born
+28649_4	is_in_sentence	sentence_28649
+28649_4	npadvmod	28649_3
+28649_4	has_surface_form	December
+28649_5	is_in_sentence	sentence_28649
+28649_5	nummod	28649_4
+28649_5	has_surface_form	16
+28649_6	is_in_sentence	sentence_28649
+28649_6	punct	28649_4
+28649_6	has_surface_form	,
+28649_7	is_in_sentence	sentence_28649
+28649_7	nummod	28649_4
+28649_7	has_surface_form	1947
+28649_8	is_in_sentence	sentence_28649
+28649_8	punct	28649_1
+28649_8	has_surface_form	)
+28649_10	is_in_sentence	sentence_28649
+28649_10	det	28649_15
+28649_10	has_surface_form	an
+28649_15	is_in_sentence	sentence_28649
+28649_15	attr	28649_9
+28649_15	has_surface_form	player
+28649_11	is_in_sentence	sentence_28649
+28649_11	amod	28649_15
+28649_11	has_surface_form	American
+28649_12	is_in_sentence	sentence_28649
+28649_12	amod	28649_15
+28649_12	has_surface_form	former
+28649_13	is_in_sentence	sentence_28649
+28649_13	compound	28649_14
+28649_13	has_surface_form	gridiron
+28649_14	is_in_sentence	sentence_28649
+28649_14	compound	28649_15
+28649_14	has_surface_form	football
+28649_16	is_in_sentence	sentence_28649
+28649_16	cc	28649_15
+28649_16	has_surface_form	and
+28649_17	is_in_sentence	sentence_28649
+28649_17	conj	28649_15
+28649_17	is_entity	coach
+coach	surface_form	coach
+28649_18	is_in_sentence	sentence_28649
+28649_18	punct	28649_9
+28649_18	has_surface_form	.
+28649_19	is_in_sentence	sentence_28649
+28649_19	dep	28649_19
+28649_19	has_surface_form	
+Mike Working	surface_form	Mike Working
+Mike Working	has-type	coach

@@ -1,0 +1,58 @@
+1550_0	is_in_sentence	sentence_1550
+1550_0	compound	1550_1
+1550_0	has_surface_form	Photon
+1550_0	part_of_entity	Photon Band
+1550_1	is_in_sentence	sentence_1550
+1550_1	nsubj	1550_2
+1550_1	has_surface_form	Band
+1550_1	part_of_entity	Photon Band
+1550_2	is_in_sentence	sentence_1550
+1550_2	ROOT	1550_2
+1550_2	has_surface_form	is
+1550_3	is_in_sentence	sentence_1550
+1550_3	det	1550_7
+1550_3	has_surface_form	an
+1550_7	is_in_sentence	sentence_1550
+1550_7	attr	1550_2
+1550_7	has_surface_form	band
+1550_4	is_in_sentence	sentence_1550
+1550_4	amod	1550_7
+1550_4	has_surface_form	American
+1550_5	is_in_sentence	sentence_1550
+1550_5	amod	1550_7
+1550_5	has_surface_form	indie
+1550_5	part_of_entity	indie rock
+1550_6	is_in_sentence	sentence_1550
+1550_6	compound	1550_7
+1550_6	has_surface_form	rock
+1550_6	part_of_entity	indie rock
+1550_8	is_in_sentence	sentence_1550
+1550_8	acl	1550_7
+1550_8	has_surface_form	formed
+1550_9	is_in_sentence	sentence_1550
+1550_9	prep	1550_8
+1550_9	has_surface_form	in
+1550_10	is_in_sentence	sentence_1550
+1550_10	pobj	1550_9
+1550_10	has_surface_form	Philadelphia
+1550_11	is_in_sentence	sentence_1550
+1550_11	punct	1550_10
+1550_11	has_surface_form	,
+1550_12	is_in_sentence	sentence_1550
+1550_12	appos	1550_10
+1550_12	has_surface_form	PA
+1550_13	is_in_sentence	sentence_1550
+1550_13	prep	1550_8
+1550_13	has_surface_form	in
+1550_14	is_in_sentence	sentence_1550
+1550_14	pobj	1550_13
+1550_14	has_surface_form	1994
+1550_15	is_in_sentence	sentence_1550
+1550_15	punct	1550_2
+1550_15	has_surface_form	.
+1550_16	is_in_sentence	sentence_1550
+1550_16	dep	1550_16
+1550_16	has_surface_form	
+Photon Band	surface_form	Photon Band
+Photon Band	has-genre	indie rock
+indie rock	surface_form	indie rock

@@ -1,0 +1,66 @@
+269_0	is_in_sentence	sentence_269
+269_0	compound	269_1
+269_0	has_surface_form	Mabel
+269_0	part_of_entity	Mabel Lost and Won
+269_1	is_in_sentence	sentence_269
+269_1	ROOT	269_1
+269_1	has_surface_form	Lost
+269_1	part_of_entity	Mabel Lost and Won
+269_2	is_in_sentence	sentence_269
+269_2	cc	269_1
+269_2	has_surface_form	and
+269_2	part_of_entity	Mabel Lost and Won
+269_3	is_in_sentence	sentence_269
+269_3	nsubj	269_4
+269_3	has_surface_form	Won
+269_3	part_of_entity	Mabel Lost and Won
+269_4	is_in_sentence	sentence_269
+269_4	conj	269_1
+269_4	has_surface_form	is
+269_5	is_in_sentence	sentence_269
+269_5	det	269_10
+269_5	has_surface_form	a
+269_10	is_in_sentence	sentence_269
+269_10	attr	269_4
+269_10	has_surface_form	film
+269_6	is_in_sentence	sentence_269
+269_6	nummod	269_10
+269_6	has_surface_form	1915
+269_7	is_in_sentence	sentence_269
+269_7	amod	269_10
+269_7	has_surface_form	American
+269_8	is_in_sentence	sentence_269
+269_8	amod	269_9
+269_8	has_surface_form	short
+269_9	is_in_sentence	sentence_269
+269_9	compound	269_10
+269_9	has_surface_form	comedy
+269_11	is_in_sentence	sentence_269
+269_11	acl	269_10
+269_11	has_surface_form	directed
+269_12	is_in_sentence	sentence_269
+269_12	agent	269_11
+269_12	has_surface_form	by
+269_13	is_in_sentence	sentence_269
+269_13	cc	269_11
+269_13	has_surface_form	and
+269_14	is_in_sentence	sentence_269
+269_14	conj	269_11
+269_14	has_surface_form	starring
+269_15	is_in_sentence	sentence_269
+269_15	compound	269_16
+269_15	has_surface_form	Mabel
+269_15	part_of_entity	Mabel Normand
+269_16	is_in_sentence	sentence_269
+269_16	dobj	269_14
+269_16	has_surface_form	Normand
+269_16	part_of_entity	Mabel Normand
+269_17	is_in_sentence	sentence_269
+269_17	punct	269_4
+269_17	has_surface_form	.
+269_18	is_in_sentence	sentence_269
+269_18	dep	269_1
+269_18	has_surface_form	
+Mabel Lost and Won	surface_form	Mabel Lost and Won
+Mabel Lost and Won	movie-has-director	Mabel Normand
+Mabel Normand	surface_form	Mabel Normand

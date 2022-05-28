@@ -1,0 +1,93 @@
+23467_0	is_in_sentence	sentence_23467
+23467_0	compound	23467_1
+23467_0	has_surface_form	Mr.
+23467_0	part_of_entity	Mr. X in Bombay
+23467_1	is_in_sentence	sentence_23467
+23467_1	nsubj	23467_10
+23467_1	has_surface_form	X
+23467_1	part_of_entity	Mr. X in Bombay
+23467_10	is_in_sentence	sentence_23467
+23467_10	ROOT	23467_10
+23467_10	has_surface_form	is
+23467_2	is_in_sentence	sentence_23467
+23467_2	prep	23467_1
+23467_2	has_surface_form	in
+23467_2	part_of_entity	Mr. X in Bombay
+23467_3	is_in_sentence	sentence_23467
+23467_3	pobj	23467_2
+23467_3	has_surface_form	Bombay
+23467_3	part_of_entity	Mr. X in Bombay
+23467_4	is_in_sentence	sentence_23467
+23467_4	punct	23467_1
+23467_4	has_surface_form	,
+23467_5	is_in_sentence	sentence_23467
+23467_5	acl	23467_1
+23467_5	has_surface_form	directed
+23467_6	is_in_sentence	sentence_23467
+23467_6	agent	23467_5
+23467_6	has_surface_form	by
+23467_7	is_in_sentence	sentence_23467
+23467_7	compound	23467_8
+23467_7	has_surface_form	Shantilal
+23467_8	is_in_sentence	sentence_23467
+23467_8	pobj	23467_6
+23467_8	has_surface_form	Soni
+23467_9	is_in_sentence	sentence_23467
+23467_9	punct	23467_10
+23467_9	has_surface_form	,
+23467_11	is_in_sentence	sentence_23467
+23467_11	det	23467_17
+23467_11	has_surface_form	a
+23467_17	is_in_sentence	sentence_23467
+23467_17	attr	23467_10
+23467_17	has_surface_form	film
+23467_12	is_in_sentence	sentence_23467
+23467_12	nummod	23467_15
+23467_12	has_surface_form	1964
+23467_15	is_in_sentence	sentence_23467
+23467_15	compound	23467_17
+23467_15	has_surface_form	fiction
+23467_13	is_in_sentence	sentence_23467
+23467_13	amod	23467_15
+23467_13	has_surface_form	Indian
+23467_14	is_in_sentence	sentence_23467
+23467_14	compound	23467_15
+23467_14	has_surface_form	science
+23467_16	is_in_sentence	sentence_23467
+23467_16	compound	23467_17
+23467_16	has_surface_form	thriller
+23467_18	is_in_sentence	sentence_23467
+23467_18	acl	23467_17
+23467_18	has_surface_form	starring
+23467_19	is_in_sentence	sentence_23467
+23467_19	compound	23467_20
+23467_19	has_surface_form	Kishore
+23467_20	is_in_sentence	sentence_23467
+23467_20	dobj	23467_18
+23467_20	has_surface_form	Kumar
+23467_21	is_in_sentence	sentence_23467
+23467_21	punct	23467_20
+23467_21	has_surface_form	,
+23467_22	is_in_sentence	sentence_23467
+23467_22	conj	23467_20
+23467_22	has_surface_form	Kumkum
+23467_23	is_in_sentence	sentence_23467
+23467_23	cc	23467_22
+23467_23	has_surface_form	and
+23467_24	is_in_sentence	sentence_23467
+23467_24	compound	23467_25
+23467_24	has_surface_form	Madan
+23467_24	part_of_entity	Madan Puri
+23467_25	is_in_sentence	sentence_23467
+23467_25	conj	23467_22
+23467_25	has_surface_form	Puri
+23467_25	part_of_entity	Madan Puri
+23467_26	is_in_sentence	sentence_23467
+23467_26	punct	23467_10
+23467_26	has_surface_form	.
+23467_27	is_in_sentence	sentence_23467
+23467_27	dep	23467_10
+23467_27	has_surface_form	
+Mr. X in Bombay	surface_form	Mr. X in Bombay
+Mr. X in Bombay	starring	Madan Puri
+Madan Puri	surface_form	Madan Puri

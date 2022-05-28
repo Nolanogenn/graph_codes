@@ -1,0 +1,43 @@
+20857_0	is_in_sentence	sentence_20857
+20857_0	amod	20857_2
+20857_0	has_surface_form	Advanced
+20857_2	is_in_sentence	sentence_20857
+20857_2	nsubjpass	20857_4
+20857_2	has_surface_form	turbines
+20857_2	part_of_entity	wind turbines
+20857_1	is_in_sentence	sentence_20857
+20857_1	compound	20857_2
+20857_1	has_surface_form	wind
+20857_1	part_of_entity	wind turbines
+20857_4	is_in_sentence	sentence_20857
+20857_4	ROOT	20857_4
+20857_4	has_surface_form	described
+20857_3	is_in_sentence	sentence_20857
+20857_3	auxpass	20857_4
+20857_3	has_surface_form	were
+20857_5	is_in_sentence	sentence_20857
+20857_5	agent	20857_4
+20857_5	has_surface_form	by
+20857_6	is_in_sentence	sentence_20857
+20857_6	amod	20857_7
+20857_6	has_surface_form	Croatian
+20857_7	is_in_sentence	sentence_20857
+20857_7	compound	20857_9
+20857_7	has_surface_form	inventor
+20857_9	is_in_sentence	sentence_20857
+20857_9	pobj	20857_5
+20857_9	has_surface_form	Veranzio
+20857_9	part_of_entity	Fausto Veranzio
+20857_8	is_in_sentence	sentence_20857
+20857_8	compound	20857_9
+20857_8	has_surface_form	Fausto
+20857_8	part_of_entity	Fausto Veranzio
+20857_10	is_in_sentence	sentence_20857
+20857_10	punct	20857_4
+20857_10	has_surface_form	.
+20857_11	is_in_sentence	sentence_20857
+20857_11	dep	20857_11
+20857_11	has_surface_form	
+wind turbines	surface_form	wind turbines
+wind turbines	invented-by	Fausto Veranzio
+Fausto Veranzio	surface_form	Fausto Veranzio

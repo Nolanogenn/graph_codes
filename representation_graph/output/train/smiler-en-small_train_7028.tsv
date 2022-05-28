@@ -1,0 +1,57 @@
+7027_0	is_in_sentence	sentence_7027
+7027_0	compound	7027_1
+7027_0	has_surface_form	Paul
+7027_0	part_of_entity	Paul Leroy Porter
+7027_1	is_in_sentence	sentence_7027
+7027_1	nsubj	7027_10
+7027_1	has_surface_form	Leroy
+7027_1	part_of_entity	Paul Leroy Porter
+7027_10	is_in_sentence	sentence_7027
+7027_10	ROOT	7027_10
+7027_10	has_surface_form	is
+7027_2	is_in_sentence	sentence_7027
+7027_2	dobj	7027_1
+7027_2	has_surface_form	Porter
+7027_2	part_of_entity	Paul Leroy Porter
+7027_3	is_in_sentence	sentence_7027
+7027_3	punct	7027_2
+7027_3	has_surface_form	(
+7027_4	is_in_sentence	sentence_7027
+7027_4	acl	7027_2
+7027_4	has_surface_form	born
+7027_5	is_in_sentence	sentence_7027
+7027_5	npadvmod	7027_4
+7027_5	has_surface_form	August
+7027_6	is_in_sentence	sentence_7027
+7027_6	nummod	7027_5
+7027_6	has_surface_form	20
+7027_7	is_in_sentence	sentence_7027
+7027_7	punct	7027_5
+7027_7	has_surface_form	,
+7027_8	is_in_sentence	sentence_7027
+7027_8	nummod	7027_5
+7027_8	has_surface_form	1962
+7027_9	is_in_sentence	sentence_7027
+7027_9	punct	7027_2
+7027_9	has_surface_form	)
+7027_11	is_in_sentence	sentence_7027
+7027_11	det	7027_14
+7027_11	has_surface_form	an
+7027_14	is_in_sentence	sentence_7027
+7027_14	attr	7027_10
+7027_14	has_surface_form	musician
+7027_12	is_in_sentence	sentence_7027
+7027_12	amod	7027_14
+7027_12	is_entity	American
+American	surface_form	American
+7027_13	is_in_sentence	sentence_7027
+7027_13	compound	7027_14
+7027_13	has_surface_form	gospel
+7027_15	is_in_sentence	sentence_7027
+7027_15	punct	7027_10
+7027_15	has_surface_form	.
+7027_16	is_in_sentence	sentence_7027
+7027_16	dep	7027_16
+7027_16	has_surface_form	
+Paul Leroy Porter	surface_form	Paul Leroy Porter
+Paul Leroy Porter	has-nationality	American

@@ -1,0 +1,47 @@
+606_0	is_in_sentence	sentence_606
+606_0	compound	606_1
+606_0	has_surface_form	Choo
+606_0	part_of_entity	Choo Jackson
+606_1	is_in_sentence	sentence_606
+606_1	nsubj	606_2
+606_1	has_surface_form	Jackson
+606_1	part_of_entity	Choo Jackson
+606_2	is_in_sentence	sentence_606
+606_2	ROOT	606_2
+606_2	has_surface_form	is
+606_3	is_in_sentence	sentence_606
+606_3	det	606_8
+606_3	has_surface_form	an
+606_8	is_in_sentence	sentence_606
+606_8	attr	606_2
+606_8	has_surface_form	artist
+606_4	is_in_sentence	sentence_606
+606_4	amod	606_8
+606_4	is_entity	American
+American	surface_form	American
+606_5	is_in_sentence	sentence_606
+606_5	compound	606_8
+606_5	has_surface_form	hip
+606_6	is_in_sentence	sentence_606
+606_6	compound	606_7
+606_6	has_surface_form	hop
+606_7	is_in_sentence	sentence_606
+606_7	compound	606_8
+606_7	has_surface_form	recording
+606_9	is_in_sentence	sentence_606
+606_9	punct	606_8
+606_9	has_surface_form	,
+606_10	is_in_sentence	sentence_606
+606_10	cc	606_8
+606_10	has_surface_form	and
+606_11	is_in_sentence	sentence_606
+606_11	conj	606_8
+606_11	has_surface_form	producer
+606_12	is_in_sentence	sentence_606
+606_12	punct	606_2
+606_12	has_surface_form	.
+606_13	is_in_sentence	sentence_606
+606_13	dep	606_13
+606_13	has_surface_form	
+Choo Jackson	surface_form	Choo Jackson
+Choo Jackson	has-nationality	American

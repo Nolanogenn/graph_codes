@@ -1,0 +1,75 @@
+33784_0	is_in_sentence	sentence_33784
+33784_0	compound	33784_1
+33784_0	has_surface_form	Emir
+33784_0	part_of_entity	Emir Abdelkader University
+33784_1	is_in_sentence	sentence_33784
+33784_1	compound	33784_2
+33784_1	has_surface_form	Abdelkader
+33784_1	part_of_entity	Emir Abdelkader University
+33784_2	is_in_sentence	sentence_33784
+33784_2	nsubj	33784_16
+33784_2	has_surface_form	University
+33784_2	part_of_entity	Emir Abdelkader University
+33784_16	is_in_sentence	sentence_33784
+33784_16	ROOT	33784_16
+33784_16	has_surface_form	is
+33784_3	is_in_sentence	sentence_33784
+33784_3	prep	33784_2
+33784_3	has_surface_form	of
+33784_4	is_in_sentence	sentence_33784
+33784_4	compound	33784_5
+33784_4	has_surface_form	Islamic
+33784_5	is_in_sentence	sentence_33784
+33784_5	pobj	33784_3
+33784_5	has_surface_form	Sciences
+33784_6	is_in_sentence	sentence_33784
+33784_6	punct	33784_2
+33784_6	has_surface_form	(
+33784_7	is_in_sentence	sentence_33784
+33784_7	appos	33784_2
+33784_7	has_surface_form	Arabic
+33784_8	is_in_sentence	sentence_33784
+33784_8	punct	33784_7
+33784_8	has_surface_form	:
+33784_9	is_in_sentence	sentence_33784
+33784_9	appos	33784_7
+33784_9	has_surface_form	جامعة
+33784_10	is_in_sentence	sentence_33784
+33784_10	compound	33784_11
+33784_10	has_surface_form	الأمير
+33784_11	is_in_sentence	sentence_33784
+33784_11	compound	33784_14
+33784_11	has_surface_form	عبد
+33784_14	is_in_sentence	sentence_33784
+33784_14	appos	33784_9
+33784_14	has_surface_form	الإسلامية
+33784_12	is_in_sentence	sentence_33784
+33784_12	compound	33784_14
+33784_12	has_surface_form	القادر
+33784_13	is_in_sentence	sentence_33784
+33784_13	compound	33784_14
+33784_13	has_surface_form	للعلوم
+33784_15	is_in_sentence	sentence_33784
+33784_15	punct	33784_7
+33784_15	has_surface_form	)
+33784_17	is_in_sentence	sentence_33784
+33784_17	det	33784_18
+33784_17	has_surface_form	a
+33784_18	is_in_sentence	sentence_33784
+33784_18	attr	33784_16
+33784_18	has_surface_form	university
+33784_19	is_in_sentence	sentence_33784
+33784_19	prep	33784_18
+33784_19	has_surface_form	in
+33784_20	is_in_sentence	sentence_33784
+33784_20	pobj	33784_19
+33784_20	is_entity	Algeria
+Algeria	surface_form	Algeria
+33784_21	is_in_sentence	sentence_33784
+33784_21	punct	33784_16
+33784_21	has_surface_form	.
+33784_22	is_in_sentence	sentence_33784
+33784_22	dep	33784_22
+33784_22	has_surface_form	
+Emir Abdelkader University	surface_form	Emir Abdelkader University
+Emir Abdelkader University	is-where	Algeria

@@ -1,0 +1,53 @@
+8003_0	is_in_sentence	sentence_8003
+8003_0	compound	8003_1
+8003_0	is_entity	Henry
+8003_0	part_of_entity	Henry II
+8003_1	is_in_sentence	sentence_8003
+8003_1	poss	8003_3
+8003_1	has_surface_form	II
+8003_1	part_of_entity	Henry II
+Henry	surface_form	Henry
+8003_3	is_in_sentence	sentence_8003
+8003_3	nsubj	8003_11
+8003_3	has_surface_form	son
+8003_2	is_in_sentence	sentence_8003
+8003_2	case	8003_1
+8003_2	has_surface_form	's
+8003_11	is_in_sentence	sentence_8003
+8003_11	auxpass	8003_13
+8003_11	has_surface_form	was
+8003_4	is_in_sentence	sentence_8003
+8003_4	punct	8003_3
+8003_4	has_surface_form	,
+8003_5	is_in_sentence	sentence_8003
+8003_5	appos	8003_3
+8003_5	is_entity	Henry
+8003_6	is_in_sentence	sentence_8003
+8003_6	punct	8003_3
+8003_6	has_surface_form	,
+8003_7	is_in_sentence	sentence_8003
+8003_7	nummod	8003_8
+8003_7	has_surface_form	two
+8003_8	is_in_sentence	sentence_8003
+8003_8	npadvmod	8003_9
+8003_8	has_surface_form	years
+8003_9	is_in_sentence	sentence_8003
+8003_9	amod	8003_3
+8003_9	has_surface_form	old
+8003_10	is_in_sentence	sentence_8003
+8003_10	punct	8003_3
+8003_10	has_surface_form	,
+8003_13	is_in_sentence	sentence_8003
+8003_13	ROOT	8003_13
+8003_13	has_surface_form	married
+8003_12	is_in_sentence	sentence_8003
+8003_12	advmod	8003_13
+8003_12	has_surface_form	finally
+8003_14	is_in_sentence	sentence_8003
+8003_14	punct	8003_13
+8003_14	has_surface_form	.
+8003_15	is_in_sentence	sentence_8003
+8003_15	dep	8003_15
+8003_15	has_surface_form	
+Henry II	surface_form	Henry II
+Henry II	has-child	Henry

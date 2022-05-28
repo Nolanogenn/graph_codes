@@ -1,0 +1,78 @@
+22025_0	is_in_sentence	sentence_22025
+22025_0	det	22025_3
+22025_0	has_surface_form	The
+22025_0	part_of_entity	The Bob Mathias Story
+22025_3	is_in_sentence	sentence_22025
+22025_3	nsubj	22025_4
+22025_3	has_surface_form	Story
+22025_3	part_of_entity	The Bob Mathias Story
+22025_1	is_in_sentence	sentence_22025
+22025_1	compound	22025_3
+22025_1	has_surface_form	Bob
+22025_1	part_of_entity	The Bob Mathias Story
+22025_2	is_in_sentence	sentence_22025
+22025_2	compound	22025_3
+22025_2	has_surface_form	Mathias
+22025_2	part_of_entity	The Bob Mathias Story
+22025_4	is_in_sentence	sentence_22025
+22025_4	ROOT	22025_4
+22025_4	has_surface_form	is
+22025_5	is_in_sentence	sentence_22025
+22025_5	det	22025_8
+22025_5	has_surface_form	a
+22025_8	is_in_sentence	sentence_22025
+22025_8	attr	22025_4
+22025_8	has_surface_form	film
+22025_6	is_in_sentence	sentence_22025
+22025_6	nummod	22025_8
+22025_6	has_surface_form	1954
+22025_7	is_in_sentence	sentence_22025
+22025_7	compound	22025_8
+22025_7	has_surface_form	drama
+22025_9	is_in_sentence	sentence_22025
+22025_9	acl	22025_8
+22025_9	has_surface_form	directed
+22025_10	is_in_sentence	sentence_22025
+22025_10	agent	22025_9
+22025_10	has_surface_form	by
+22025_11	is_in_sentence	sentence_22025
+22025_11	compound	22025_13
+22025_11	has_surface_form	Francis
+22025_13	is_in_sentence	sentence_22025
+22025_13	pobj	22025_10
+22025_13	has_surface_form	Lyon
+22025_12	is_in_sentence	sentence_22025
+22025_12	compound	22025_13
+22025_12	has_surface_form	D.
+22025_14	is_in_sentence	sentence_22025
+22025_14	punct	22025_4
+22025_14	has_surface_form	,
+22025_15	is_in_sentence	sentence_22025
+22025_15	advcl	22025_4
+22025_15	has_surface_form	starring
+22025_16	is_in_sentence	sentence_22025
+22025_16	compound	22025_17
+22025_16	has_surface_form	Bob
+22025_17	is_in_sentence	sentence_22025
+22025_17	dobj	22025_15
+22025_17	has_surface_form	Mathias
+22025_18	is_in_sentence	sentence_22025
+22025_18	cc	22025_17
+22025_18	has_surface_form	and
+22025_19	is_in_sentence	sentence_22025
+22025_19	compound	22025_20
+22025_19	has_surface_form	Ward
+22025_19	part_of_entity	Ward Bond
+22025_20	is_in_sentence	sentence_22025
+22025_20	conj	22025_17
+22025_20	has_surface_form	Bond
+22025_20	part_of_entity	Ward Bond
+22025_21	is_in_sentence	sentence_22025
+22025_21	punct	22025_4
+22025_21	has_surface_form	.
+22025_22	is_in_sentence	sentence_22025
+22025_22	dep	22025_4
+22025_22	has_surface_form	
+The Bob Mathias Story	surface_form	The Bob Mathias Story
+The Bob Mathias Story	starring	Ward Bond
+Ward Bond	surface_form	Ward Bond

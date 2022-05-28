@@ -1,0 +1,71 @@
+1902_0	is_in_sentence	sentence_1902
+1902_0	compound	1902_2
+1902_0	has_surface_form	Desh
+1902_0	part_of_entity	Desh Bhagat University
+1902_2	is_in_sentence	sentence_1902
+1902_2	nsubj	1902_3
+1902_2	has_surface_form	University
+1902_2	part_of_entity	Desh Bhagat University
+1902_1	is_in_sentence	sentence_1902
+1902_1	compound	1902_2
+1902_1	has_surface_form	Bhagat
+1902_1	part_of_entity	Desh Bhagat University
+1902_3	is_in_sentence	sentence_1902
+1902_3	ROOT	1902_3
+1902_3	has_surface_form	is
+1902_4	is_in_sentence	sentence_1902
+1902_4	det	1902_6
+1902_4	has_surface_form	a
+1902_6	is_in_sentence	sentence_1902
+1902_6	attr	1902_3
+1902_6	has_surface_form	University
+1902_6	part_of_entity	Private University
+1902_5	is_in_sentence	sentence_1902
+1902_5	compound	1902_6
+1902_5	has_surface_form	Private
+1902_5	part_of_entity	Private University
+1902_7	is_in_sentence	sentence_1902
+1902_7	acl	1902_6
+1902_7	has_surface_form	located
+1902_8	is_in_sentence	sentence_1902
+1902_8	prep	1902_7
+1902_8	has_surface_form	in
+1902_9	is_in_sentence	sentence_1902
+1902_9	compound	1902_10
+1902_9	has_surface_form	Mandi
+1902_10	is_in_sentence	sentence_1902
+1902_10	pobj	1902_8
+1902_10	has_surface_form	Gobindgarh
+1902_11	is_in_sentence	sentence_1902
+1902_11	punct	1902_10
+1902_11	has_surface_form	,
+1902_12	is_in_sentence	sentence_1902
+1902_12	compound	1902_14
+1902_12	has_surface_form	District
+1902_14	is_in_sentence	sentence_1902
+1902_14	conj	1902_10
+1902_14	has_surface_form	Sahib
+1902_13	is_in_sentence	sentence_1902
+1902_13	compound	1902_14
+1902_13	has_surface_form	Fatehgarh
+1902_15	is_in_sentence	sentence_1902
+1902_15	punct	1902_14
+1902_15	has_surface_form	,
+1902_16	is_in_sentence	sentence_1902
+1902_16	conj	1902_14
+1902_16	has_surface_form	Punjab
+1902_17	is_in_sentence	sentence_1902
+1902_17	punct	1902_16
+1902_17	has_surface_form	,
+1902_18	is_in_sentence	sentence_1902
+1902_18	appos	1902_16
+1902_18	has_surface_form	India
+1902_19	is_in_sentence	sentence_1902
+1902_19	punct	1902_3
+1902_19	has_surface_form	.
+1902_20	is_in_sentence	sentence_1902
+1902_20	dep	1902_20
+1902_20	has_surface_form	
+Desh Bhagat University	surface_form	Desh Bhagat University
+Desh Bhagat University	has-type	Private University
+Private University	surface_form	Private University

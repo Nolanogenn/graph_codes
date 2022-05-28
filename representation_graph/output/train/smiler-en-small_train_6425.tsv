@@ -1,0 +1,111 @@
+6424_0	is_in_sentence	sentence_6424
+6424_0	det	6424_1
+6424_0	has_surface_form	A
+6424_0	part_of_entity	A Girl Must Live
+6424_1	is_in_sentence	sentence_6424
+6424_1	compound	6424_3
+6424_1	has_surface_form	Girl
+6424_1	part_of_entity	A Girl Must Live
+6424_3	is_in_sentence	sentence_6424
+6424_3	nsubj	6424_4
+6424_3	has_surface_form	Live
+6424_3	part_of_entity	A Girl Must Live
+6424_2	is_in_sentence	sentence_6424
+6424_2	aux	6424_3
+6424_2	has_surface_form	Must
+6424_2	part_of_entity	A Girl Must Live
+6424_4	is_in_sentence	sentence_6424
+6424_4	ROOT	6424_4
+6424_4	has_surface_form	is
+6424_5	is_in_sentence	sentence_6424
+6424_5	det	6424_10
+6424_5	has_surface_form	a
+6424_10	is_in_sentence	sentence_6424
+6424_10	attr	6424_4
+6424_10	has_surface_form	film
+6424_6	is_in_sentence	sentence_6424
+6424_6	nummod	6424_10
+6424_6	has_surface_form	1939
+6424_7	is_in_sentence	sentence_6424
+6424_7	amod	6424_10
+6424_7	has_surface_form	British
+6424_8	is_in_sentence	sentence_6424
+6424_8	amod	6424_10
+6424_8	has_surface_form	romantic
+6424_9	is_in_sentence	sentence_6424
+6424_9	compound	6424_10
+6424_9	has_surface_form	comedy
+6424_11	is_in_sentence	sentence_6424
+6424_11	acl	6424_10
+6424_11	has_surface_form	directed
+6424_12	is_in_sentence	sentence_6424
+6424_12	agent	6424_11
+6424_12	has_surface_form	by
+6424_13	is_in_sentence	sentence_6424
+6424_13	compound	6424_14
+6424_13	has_surface_form	Carol
+6424_13	part_of_entity	Carol Reed
+6424_14	is_in_sentence	sentence_6424
+6424_14	pobj	6424_12
+6424_14	has_surface_form	Reed
+6424_14	part_of_entity	Carol Reed
+6424_15	is_in_sentence	sentence_6424
+6424_15	cc	6424_11
+6424_15	has_surface_form	and
+6424_16	is_in_sentence	sentence_6424
+6424_16	conj	6424_11
+6424_16	has_surface_form	starring
+6424_17	is_in_sentence	sentence_6424
+6424_17	compound	6424_18
+6424_17	has_surface_form	Margaret
+6424_18	is_in_sentence	sentence_6424
+6424_18	dobj	6424_16
+6424_18	has_surface_form	Lockwood
+6424_19	is_in_sentence	sentence_6424
+6424_19	punct	6424_4
+6424_19	has_surface_form	,
+6424_20	is_in_sentence	sentence_6424
+6424_20	prep	6424_4
+6424_20	has_surface_form	with
+6424_21	is_in_sentence	sentence_6424
+6424_21	pcomp	6424_20
+6424_21	has_surface_form	supporting
+6424_22	is_in_sentence	sentence_6424
+6424_22	compound	6424_24
+6424_22	has_surface_form	cast
+6424_24	is_in_sentence	sentence_6424
+6424_24	dobj	6424_21
+6424_24	has_surface_form	Houston
+6424_23	is_in_sentence	sentence_6424
+6424_23	compound	6424_24
+6424_23	has_surface_form	Renee
+6424_25	is_in_sentence	sentence_6424
+6424_25	punct	6424_24
+6424_25	has_surface_form	,
+6424_26	is_in_sentence	sentence_6424
+6424_26	compound	6424_27
+6424_26	has_surface_form	Lilli
+6424_27	is_in_sentence	sentence_6424
+6424_27	conj	6424_24
+6424_27	has_surface_form	Palmer
+6424_28	is_in_sentence	sentence_6424
+6424_28	punct	6424_27
+6424_28	has_surface_form	,
+6424_29	is_in_sentence	sentence_6424
+6424_29	cc	6424_27
+6424_29	has_surface_form	and
+6424_30	is_in_sentence	sentence_6424
+6424_30	compound	6424_31
+6424_30	has_surface_form	Hugh
+6424_31	is_in_sentence	sentence_6424
+6424_31	conj	6424_27
+6424_31	has_surface_form	Sinclair
+6424_32	is_in_sentence	sentence_6424
+6424_32	punct	6424_4
+6424_32	has_surface_form	.
+6424_33	is_in_sentence	sentence_6424
+6424_33	dep	6424_4
+6424_33	has_surface_form	
+A Girl Must Live	surface_form	A Girl Must Live
+A Girl Must Live	movie-has-director	Carol Reed
+Carol Reed	surface_form	Carol Reed

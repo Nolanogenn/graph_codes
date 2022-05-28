@@ -1,0 +1,85 @@
+10936_0	is_in_sentence	sentence_10936
+10936_0	det	10936_5
+10936_0	has_surface_form	The
+10936_5	is_in_sentence	sentence_10936
+10936_5	nsubjpass	10936_7
+10936_5	has_surface_form	scanner
+10936_5	part_of_entity	Full body security scanner
+10936_1	is_in_sentence	sentence_10936
+10936_1	amod	10936_5
+10936_1	has_surface_form	first
+10936_2	is_in_sentence	sentence_10936
+10936_2	amod	10936_3
+10936_2	has_surface_form	Full
+10936_2	part_of_entity	Full body security scanner
+10936_3	is_in_sentence	sentence_10936
+10936_3	compound	10936_4
+10936_3	has_surface_form	body
+10936_3	part_of_entity	Full body security scanner
+10936_4	is_in_sentence	sentence_10936
+10936_4	compound	10936_5
+10936_4	has_surface_form	security
+10936_4	part_of_entity	Full body security scanner
+10936_7	is_in_sentence	sentence_10936
+10936_7	ROOT	10936_7
+10936_7	has_surface_form	developed
+10936_6	is_in_sentence	sentence_10936
+10936_6	auxpass	10936_7
+10936_6	has_surface_form	was
+10936_8	is_in_sentence	sentence_10936
+10936_8	agent	10936_7
+10936_8	has_surface_form	by
+10936_9	is_in_sentence	sentence_10936
+10936_9	compound	10936_12
+10936_9	has_surface_form	Dr.
+10936_12	is_in_sentence	sentence_10936
+10936_12	pobj	10936_8
+10936_12	has_surface_form	Smith,[4][5
+10936_10	is_in_sentence	sentence_10936
+10936_10	compound	10936_12
+10936_10	has_surface_form	Steven
+10936_11	is_in_sentence	sentence_10936
+10936_11	compound	10936_12
+10936_11	has_surface_form	W
+10936_13	is_in_sentence	sentence_10936
+10936_13	punct	10936_12
+10936_13	has_surface_form	]
+10936_14	is_in_sentence	sentence_10936
+10936_14	nsubj	10936_15
+10936_14	has_surface_form	who
+10936_15	is_in_sentence	sentence_10936
+10936_15	relcl	10936_12
+10936_15	has_surface_form	developed
+10936_16	is_in_sentence	sentence_10936
+10936_16	det	10936_21
+10936_16	has_surface_form	the
+10936_21	is_in_sentence	sentence_10936
+10936_21	dobj	10936_15
+10936_21	has_surface_form	scanner
+10936_17	is_in_sentence	sentence_10936
+10936_17	nmod	10936_21
+10936_17	has_surface_form	Secure
+10936_18	is_in_sentence	sentence_10936
+10936_18	nummod	10936_21
+10936_18	has_surface_form	1000
+10936_19	is_in_sentence	sentence_10936
+10936_19	amod	10936_20
+10936_19	has_surface_form	whole
+10936_20	is_in_sentence	sentence_10936
+10936_20	compound	10936_21
+10936_20	has_surface_form	body
+10936_22	is_in_sentence	sentence_10936
+10936_22	prep	10936_15
+10936_22	has_surface_form	in
+10936_23	is_in_sentence	sentence_10936
+10936_23	pobj	10936_22
+10936_23	is_entity	1992
+1992	surface_form	1992
+10936_24	is_in_sentence	sentence_10936
+10936_24	punct	10936_7
+10936_24	has_surface_form	.
+10936_25	is_in_sentence	sentence_10936
+10936_25	dep	10936_25
+10936_25	has_surface_form	
+Full body security scanner	surface_form	Full body security scanner
+Full body security scanner	invented-when	1992

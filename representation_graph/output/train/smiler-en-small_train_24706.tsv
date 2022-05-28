@@ -1,0 +1,72 @@
+24705_0	is_in_sentence	sentence_24705
+24705_0	det	24705_1
+24705_0	has_surface_form	The
+24705_0	part_of_entity	The Gentleman from America
+24705_1	is_in_sentence	sentence_24705
+24705_1	nsubj	24705_4
+24705_1	has_surface_form	Gentleman
+24705_1	part_of_entity	The Gentleman from America
+24705_4	is_in_sentence	sentence_24705
+24705_4	ROOT	24705_4
+24705_4	has_surface_form	is
+24705_2	is_in_sentence	sentence_24705
+24705_2	prep	24705_1
+24705_2	has_surface_form	from
+24705_2	part_of_entity	The Gentleman from America
+24705_3	is_in_sentence	sentence_24705
+24705_3	pobj	24705_2
+24705_3	has_surface_form	America
+24705_3	part_of_entity	The Gentleman from America
+24705_5	is_in_sentence	sentence_24705
+24705_5	det	24705_10
+24705_5	has_surface_form	a
+24705_10	is_in_sentence	sentence_24705
+24705_10	attr	24705_4
+24705_10	has_surface_form	film
+24705_6	is_in_sentence	sentence_24705
+24705_6	nummod	24705_10
+24705_6	has_surface_form	1923
+24705_7	is_in_sentence	sentence_24705
+24705_7	amod	24705_10
+24705_7	has_surface_form	American
+24705_8	is_in_sentence	sentence_24705
+24705_8	amod	24705_10
+24705_8	has_surface_form	silent
+24705_9	is_in_sentence	sentence_24705
+24705_9	compound	24705_10
+24705_9	has_surface_form	comedy
+24705_11	is_in_sentence	sentence_24705
+24705_11	acl	24705_10
+24705_11	has_surface_form	directed
+24705_12	is_in_sentence	sentence_24705
+24705_12	agent	24705_11
+24705_12	has_surface_form	by
+24705_13	is_in_sentence	sentence_24705
+24705_13	compound	24705_14
+24705_13	has_surface_form	Edward
+24705_13	part_of_entity	Edward Sedgwick
+24705_14	is_in_sentence	sentence_24705
+24705_14	pobj	24705_12
+24705_14	has_surface_form	Sedgwick
+24705_14	part_of_entity	Edward Sedgwick
+24705_15	is_in_sentence	sentence_24705
+24705_15	cc	24705_11
+24705_15	has_surface_form	and
+24705_16	is_in_sentence	sentence_24705
+24705_16	conj	24705_11
+24705_16	has_surface_form	featuring
+24705_17	is_in_sentence	sentence_24705
+24705_17	compound	24705_18
+24705_17	has_surface_form	Hoot
+24705_18	is_in_sentence	sentence_24705
+24705_18	dobj	24705_16
+24705_18	has_surface_form	Gibson
+24705_19	is_in_sentence	sentence_24705
+24705_19	punct	24705_4
+24705_19	has_surface_form	.
+24705_20	is_in_sentence	sentence_24705
+24705_20	dep	24705_4
+24705_20	has_surface_form	
+The Gentleman from America	surface_form	The Gentleman from America
+The Gentleman from America	movie-has-director	Edward Sedgwick
+Edward Sedgwick	surface_form	Edward Sedgwick

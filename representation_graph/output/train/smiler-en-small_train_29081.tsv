@@ -1,0 +1,58 @@
+29080_0	is_in_sentence	sentence_29080
+29080_0	compound	29080_1
+29080_0	has_surface_form	Jason
+29080_0	part_of_entity	Jason Freese
+29080_1	is_in_sentence	sentence_29080
+29080_1	nsubj	29080_2
+29080_1	has_surface_form	Freese
+29080_1	part_of_entity	Jason Freese
+29080_2	is_in_sentence	sentence_29080
+29080_2	ROOT	29080_2
+29080_2	has_surface_form	is
+29080_3	is_in_sentence	sentence_29080
+29080_3	det	29080_5
+29080_3	has_surface_form	an
+29080_5	is_in_sentence	sentence_29080
+29080_5	attr	29080_2
+29080_5	has_surface_form	musician
+29080_4	is_in_sentence	sentence_29080
+29080_4	amod	29080_5
+29080_4	has_surface_form	American
+29080_6	is_in_sentence	sentence_29080
+29080_6	punct	29080_5
+29080_6	has_surface_form	,
+29080_7	is_in_sentence	sentence_29080
+29080_7	conj	29080_5
+29080_7	has_surface_form	songwriter
+29080_8	is_in_sentence	sentence_29080
+29080_8	punct	29080_7
+29080_8	has_surface_form	,
+29080_9	is_in_sentence	sentence_29080
+29080_9	compound	29080_10
+29080_9	has_surface_form	record
+29080_10	is_in_sentence	sentence_29080
+29080_10	conj	29080_7
+29080_10	has_surface_form	producer
+29080_11	is_in_sentence	sentence_29080
+29080_11	punct	29080_10
+29080_11	has_surface_form	,
+29080_12	is_in_sentence	sentence_29080
+29080_12	cc	29080_10
+29080_12	has_surface_form	and
+29080_13	is_in_sentence	sentence_29080
+29080_13	compound	29080_14
+29080_13	has_surface_form	recording
+29080_13	part_of_entity	recording engineer
+29080_14	is_in_sentence	sentence_29080
+29080_14	conj	29080_10
+29080_14	has_surface_form	engineer
+29080_14	part_of_entity	recording engineer
+29080_15	is_in_sentence	sentence_29080
+29080_15	punct	29080_2
+29080_15	has_surface_form	.
+29080_16	is_in_sentence	sentence_29080
+29080_16	dep	29080_16
+29080_16	has_surface_form	
+Jason Freese	surface_form	Jason Freese
+Jason Freese	has-occupation	recording engineer
+recording engineer	surface_form	recording engineer

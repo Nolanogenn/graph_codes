@@ -1,0 +1,43 @@
+3527_0	is_in_sentence	sentence_3527
+3527_0	compound	3527_1
+3527_0	has_surface_form	North
+3527_0	part_of_entity	North Starr
+3527_1	is_in_sentence	sentence_3527
+3527_1	nsubj	3527_2
+3527_1	has_surface_form	Starr
+3527_1	part_of_entity	North Starr
+3527_2	is_in_sentence	sentence_3527
+3527_2	ROOT	3527_2
+3527_2	has_surface_form	is
+3527_3	is_in_sentence	sentence_3527
+3527_3	det	3527_5
+3527_3	has_surface_form	a
+3527_5	is_in_sentence	sentence_3527
+3527_5	attr	3527_2
+3527_5	has_surface_form	film
+3527_4	is_in_sentence	sentence_3527
+3527_4	nummod	3527_5
+3527_4	has_surface_form	2008
+3527_6	is_in_sentence	sentence_3527
+3527_6	acl	3527_5
+3527_6	has_surface_form	directed
+3527_7	is_in_sentence	sentence_3527
+3527_7	agent	3527_6
+3527_7	has_surface_form	by
+3527_8	is_in_sentence	sentence_3527
+3527_8	compound	3527_9
+3527_8	has_surface_form	Matthew
+3527_8	part_of_entity	Matthew Stanton
+3527_9	is_in_sentence	sentence_3527
+3527_9	pobj	3527_7
+3527_9	has_surface_form	Stanton
+3527_9	part_of_entity	Matthew Stanton
+3527_10	is_in_sentence	sentence_3527
+3527_10	punct	3527_2
+3527_10	has_surface_form	.
+3527_11	is_in_sentence	sentence_3527
+3527_11	dep	3527_2
+3527_11	has_surface_form	
+North Starr	surface_form	North Starr
+North Starr	movie-has-director	Matthew Stanton
+Matthew Stanton	surface_form	Matthew Stanton

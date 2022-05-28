@@ -1,0 +1,86 @@
+11209_0	is_in_sentence	sentence_11209
+11209_0	amod	11209_2
+11209_0	has_surface_form	American
+11209_2	is_in_sentence	sentence_11209
+11209_2	compound	11209_5
+11209_2	has_surface_form	pioneer
+11209_1	is_in_sentence	sentence_11209
+11209_1	compound	11209_2
+11209_1	has_surface_form	television
+11209_5	is_in_sentence	sentence_11209
+11209_5	nsubj	11209_6
+11209_5	has_surface_form	Farnsworth
+11209_5	part_of_entity	Philo T. Farnsworth
+11209_3	is_in_sentence	sentence_11209
+11209_3	compound	11209_5
+11209_3	has_surface_form	Philo
+11209_3	part_of_entity	Philo T. Farnsworth
+11209_4	is_in_sentence	sentence_11209
+11209_4	compound	11209_5
+11209_4	has_surface_form	T.
+11209_4	part_of_entity	Philo T. Farnsworth
+11209_6	is_in_sentence	sentence_11209
+11209_6	ROOT	11209_6
+11209_6	has_surface_form	invented
+11209_7	is_in_sentence	sentence_11209
+11209_7	det	11209_11
+11209_7	has_surface_form	the
+11209_11	is_in_sentence	sentence_11209
+11209_11	dobj	11209_6
+11209_11	has_surface_form	dissector
+11209_11	part_of_entity	image dissector
+11209_8	is_in_sentence	sentence_11209
+11209_8	amod	11209_11
+11209_8	has_surface_form	first
+11209_9	is_in_sentence	sentence_11209
+11209_9	amod	11209_11
+11209_9	has_surface_form	functional
+11209_10	is_in_sentence	sentence_11209
+11209_10	compound	11209_11
+11209_10	has_surface_form	image
+11209_10	part_of_entity	image dissector
+11209_12	is_in_sentence	sentence_11209
+11209_12	prep	11209_6
+11209_12	has_surface_form	in
+11209_13	is_in_sentence	sentence_11209
+11209_13	pobj	11209_12
+11209_13	has_surface_form	1927
+11209_14	is_in_sentence	sentence_11209
+11209_14	punct	11209_6
+11209_14	has_surface_form	,
+11209_15	is_in_sentence	sentence_11209
+11209_15	advcl	11209_6
+11209_15	has_surface_form	submitting
+11209_16	is_in_sentence	sentence_11209
+11209_16	det	11209_18
+11209_16	has_surface_form	a
+11209_18	is_in_sentence	sentence_11209
+11209_18	dobj	11209_15
+11209_18	has_surface_form	application
+11209_17	is_in_sentence	sentence_11209
+11209_17	compound	11209_18
+11209_17	has_surface_form	patent
+11209_19	is_in_sentence	sentence_11209
+11209_19	prep	11209_15
+11209_19	has_surface_form	on
+11209_20	is_in_sentence	sentence_11209
+11209_20	pobj	11209_19
+11209_20	has_surface_form	January
+11209_21	is_in_sentence	sentence_11209
+11209_21	nummod	11209_20
+11209_21	has_surface_form	7
+11209_22	is_in_sentence	sentence_11209
+11209_22	punct	11209_20
+11209_22	has_surface_form	,
+11209_23	is_in_sentence	sentence_11209
+11209_23	nummod	11209_20
+11209_23	has_surface_form	1927
+11209_24	is_in_sentence	sentence_11209
+11209_24	punct	11209_6
+11209_24	has_surface_form	.
+11209_25	is_in_sentence	sentence_11209
+11209_25	dep	11209_25
+11209_25	has_surface_form	
+image dissector	surface_form	image dissector
+image dissector	invented-by	Philo T. Farnsworth
+Philo T. Farnsworth	surface_form	Philo T. Farnsworth

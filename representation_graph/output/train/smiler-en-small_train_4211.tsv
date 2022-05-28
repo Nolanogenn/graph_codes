@@ -1,0 +1,60 @@
+4210_0	is_in_sentence	sentence_4210
+4210_0	det	4210_1
+4210_0	has_surface_form	A
+4210_0	part_of_entity	A Reason to Believe
+4210_1	is_in_sentence	sentence_4210
+4210_1	nsubj	4210_4
+4210_1	has_surface_form	Reason
+4210_1	part_of_entity	A Reason to Believe
+4210_4	is_in_sentence	sentence_4210
+4210_4	ROOT	4210_4
+4210_4	has_surface_form	is
+4210_2	is_in_sentence	sentence_4210
+4210_2	aux	4210_3
+4210_2	has_surface_form	to
+4210_2	part_of_entity	A Reason to Believe
+4210_3	is_in_sentence	sentence_4210
+4210_3	relcl	4210_1
+4210_3	has_surface_form	Believe
+4210_3	part_of_entity	A Reason to Believe
+4210_5	is_in_sentence	sentence_4210
+4210_5	det	4210_10
+4210_5	has_surface_form	a
+4210_10	is_in_sentence	sentence_4210
+4210_10	attr	4210_4
+4210_10	has_surface_form	film
+4210_6	is_in_sentence	sentence_4210
+4210_6	nummod	4210_8
+4210_6	has_surface_form	1995
+4210_8	is_in_sentence	sentence_4210
+4210_8	nmod	4210_10
+4210_8	has_surface_form	drama
+4210_7	is_in_sentence	sentence_4210
+4210_7	amod	4210_8
+4210_7	has_surface_form	American
+4210_9	is_in_sentence	sentence_4210
+4210_9	amod	4210_10
+4210_9	has_surface_form	independent
+4210_11	is_in_sentence	sentence_4210
+4210_11	acl	4210_10
+4210_11	has_surface_form	directed
+4210_12	is_in_sentence	sentence_4210
+4210_12	agent	4210_11
+4210_12	has_surface_form	by
+4210_13	is_in_sentence	sentence_4210
+4210_13	compound	4210_14
+4210_13	has_surface_form	Douglas
+4210_13	part_of_entity	Douglas Tirola
+4210_14	is_in_sentence	sentence_4210
+4210_14	pobj	4210_12
+4210_14	has_surface_form	Tirola
+4210_14	part_of_entity	Douglas Tirola
+4210_15	is_in_sentence	sentence_4210
+4210_15	punct	4210_4
+4210_15	has_surface_form	.
+4210_16	is_in_sentence	sentence_4210
+4210_16	dep	4210_4
+4210_16	has_surface_form	
+A Reason to Believe	surface_form	A Reason to Believe
+A Reason to Believe	movie-has-director	Douglas Tirola
+Douglas Tirola	surface_form	Douglas Tirola

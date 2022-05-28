@@ -1,0 +1,72 @@
+722_0	is_in_sentence	sentence_722
+722_0	det	722_1
+722_0	has_surface_form	The
+722_1	is_in_sentence	sentence_722
+722_1	nsubj	722_9
+722_1	has_surface_form	University
+722_1	part_of_entity	University of Suwon
+722_9	is_in_sentence	sentence_722
+722_9	ROOT	722_9
+722_9	has_surface_form	is
+722_2	is_in_sentence	sentence_722
+722_2	prep	722_1
+722_2	has_surface_form	of
+722_2	part_of_entity	University of Suwon
+722_3	is_in_sentence	sentence_722
+722_3	pobj	722_2
+722_3	has_surface_form	Suwon
+722_3	part_of_entity	University of Suwon
+722_4	is_in_sentence	sentence_722
+722_4	punct	722_1
+722_4	has_surface_form	(
+722_5	is_in_sentence	sentence_722
+722_5	appos	722_1
+722_5	has_surface_form	Hangeul
+722_6	is_in_sentence	sentence_722
+722_6	punct	722_5
+722_6	has_surface_form	:
+722_7	is_in_sentence	sentence_722
+722_7	appos	722_5
+722_7	has_surface_form	수원대학교
+722_8	is_in_sentence	sentence_722
+722_8	punct	722_5
+722_8	has_surface_form	)
+722_10	is_in_sentence	sentence_722
+722_10	det	722_11
+722_10	has_surface_form	a
+722_11	is_in_sentence	sentence_722
+722_11	attr	722_9
+722_11	has_surface_form	university
+722_12	is_in_sentence	sentence_722
+722_12	prep	722_11
+722_12	has_surface_form	in
+722_13	is_in_sentence	sentence_722
+722_13	pobj	722_12
+722_13	has_surface_form	Hwaseong
+722_14	is_in_sentence	sentence_722
+722_14	punct	722_11
+722_14	has_surface_form	,
+722_15	is_in_sentence	sentence_722
+722_15	compound	722_16
+722_15	has_surface_form	Gyeonggi
+722_16	is_in_sentence	sentence_722
+722_16	conj	722_11
+722_16	has_surface_form	Province
+722_17	is_in_sentence	sentence_722
+722_17	punct	722_16
+722_17	has_surface_form	,
+722_18	is_in_sentence	sentence_722
+722_18	compound	722_19
+722_18	has_surface_form	South
+722_19	is_in_sentence	sentence_722
+722_19	appos	722_16
+722_19	has_surface_form	Korea
+722_20	is_in_sentence	sentence_722
+722_20	punct	722_9
+722_20	has_surface_form	.
+722_21	is_in_sentence	sentence_722
+722_21	dep	722_21
+722_21	has_surface_form	
+University of Suwon	surface_form	University of Suwon
+University of Suwon	is-where	Hwaseong, Gyeonggi
+Hwaseong, Gyeonggi	surface_form	Hwaseong, Gyeonggi

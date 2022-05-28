@@ -1,0 +1,88 @@
+26282_0	is_in_sentence	sentence_26282
+26282_0	compound	26282_1
+26282_0	has_surface_form	Muscle
+26282_0	part_of_entity	Muscle Heat
+26282_1	is_in_sentence	sentence_26282
+26282_1	nsubj	26282_11
+26282_1	has_surface_form	Heat
+26282_1	part_of_entity	Muscle Heat
+26282_11	is_in_sentence	sentence_26282
+26282_11	ROOT	26282_11
+26282_11	has_surface_form	is
+26282_2	is_in_sentence	sentence_26282
+26282_2	punct	26282_1
+26282_2	has_surface_form	(
+26282_3	is_in_sentence	sentence_26282
+26282_3	acl	26282_1
+26282_3	has_surface_form	released
+26282_4	is_in_sentence	sentence_26282
+26282_4	prep	26282_3
+26282_4	has_surface_form	as
+26282_5	is_in_sentence	sentence_26282
+26282_5	compound	26282_6
+26282_5	has_surface_form	Blood
+26282_6	is_in_sentence	sentence_26282
+26282_6	pobj	26282_4
+26282_6	has_surface_form	Heat
+26282_7	is_in_sentence	sentence_26282
+26282_7	prep	26282_6
+26282_7	has_surface_form	in
+26282_8	is_in_sentence	sentence_26282
+26282_8	compound	26282_9
+26282_8	has_surface_form	North
+26282_9	is_in_sentence	sentence_26282
+26282_9	pobj	26282_7
+26282_9	has_surface_form	America
+26282_10	is_in_sentence	sentence_26282
+26282_10	punct	26282_1
+26282_10	has_surface_form	)
+26282_12	is_in_sentence	sentence_26282
+26282_12	det	26282_16
+26282_12	has_surface_form	a
+26282_16	is_in_sentence	sentence_26282
+26282_16	attr	26282_11
+26282_16	has_surface_form	film
+26282_13	is_in_sentence	sentence_26282
+26282_13	nummod	26282_16
+26282_13	has_surface_form	2002
+26282_14	is_in_sentence	sentence_26282
+26282_14	amod	26282_16
+26282_14	has_surface_form	Japanese
+26282_15	is_in_sentence	sentence_26282
+26282_15	compound	26282_16
+26282_15	has_surface_form	action
+26282_17	is_in_sentence	sentence_26282
+26282_17	acl	26282_16
+26282_17	has_surface_form	starring
+26282_18	is_in_sentence	sentence_26282
+26282_18	compound	26282_19
+26282_18	has_surface_form	Kane
+26282_18	part_of_entity	Kane Kosugi
+26282_19	is_in_sentence	sentence_26282
+26282_19	dobj	26282_17
+26282_19	has_surface_form	Kosugi
+26282_19	part_of_entity	Kane Kosugi
+26282_20	is_in_sentence	sentence_26282
+26282_20	cc	26282_17
+26282_20	has_surface_form	and
+26282_21	is_in_sentence	sentence_26282
+26282_21	conj	26282_17
+26282_21	has_surface_form	directed
+26282_22	is_in_sentence	sentence_26282
+26282_22	agent	26282_21
+26282_22	has_surface_form	by
+26282_23	is_in_sentence	sentence_26282
+26282_23	nummod	26282_24
+26282_23	has_surface_form	Ten
+26282_24	is_in_sentence	sentence_26282
+26282_24	pobj	26282_22
+26282_24	has_surface_form	Shimoyama
+26282_25	is_in_sentence	sentence_26282
+26282_25	punct	26282_11
+26282_25	has_surface_form	.
+26282_26	is_in_sentence	sentence_26282
+26282_26	dep	26282_26
+26282_26	has_surface_form	
+Muscle Heat	surface_form	Muscle Heat
+Muscle Heat	starring	Kane Kosugi
+Kane Kosugi	surface_form	Kane Kosugi

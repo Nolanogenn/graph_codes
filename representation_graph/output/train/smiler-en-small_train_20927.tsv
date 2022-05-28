@@ -1,0 +1,64 @@
+20926_0	is_in_sentence	sentence_20926
+20926_0	compound	20926_1
+20926_0	has_surface_form	Themmangu
+20926_0	part_of_entity	Themmangu Paattukaaran
+20926_1	is_in_sentence	sentence_20926
+20926_1	nsubj	20926_2
+20926_1	has_surface_form	Paattukaaran
+20926_1	part_of_entity	Themmangu Paattukaaran
+20926_2	is_in_sentence	sentence_20926
+20926_2	ROOT	20926_2
+20926_2	has_surface_form	is
+20926_3	is_in_sentence	sentence_20926
+20926_3	det	20926_7
+20926_3	has_surface_form	a
+20926_7	is_in_sentence	sentence_20926
+20926_7	attr	20926_2
+20926_7	has_surface_form	film
+20926_4	is_in_sentence	sentence_20926
+20926_4	nummod	20926_7
+20926_4	has_surface_form	1997
+20926_5	is_in_sentence	sentence_20926
+20926_5	amod	20926_6
+20926_5	has_surface_form	Indian
+20926_6	is_in_sentence	sentence_20926
+20926_6	compound	20926_7
+20926_6	has_surface_form	Tamil
+20926_8	is_in_sentence	sentence_20926
+20926_8	punct	20926_7
+20926_8	has_surface_form	,
+20926_9	is_in_sentence	sentence_20926
+20926_9	acl	20926_7
+20926_9	has_surface_form	directed
+20926_10	is_in_sentence	sentence_20926
+20926_10	agent	20926_9
+20926_10	has_surface_form	by
+20926_11	is_in_sentence	sentence_20926
+20926_11	compound	20926_12
+20926_11	has_surface_form	Gangai
+20926_11	part_of_entity	Gangai Amaran
+20926_12	is_in_sentence	sentence_20926
+20926_12	pobj	20926_10
+20926_12	has_surface_form	Amaran
+20926_12	part_of_entity	Gangai Amaran
+20926_13	is_in_sentence	sentence_20926
+20926_13	cc	20926_9
+20926_13	has_surface_form	and
+20926_14	is_in_sentence	sentence_20926
+20926_14	conj	20926_9
+20926_14	has_surface_form	produced
+20926_15	is_in_sentence	sentence_20926
+20926_15	agent	20926_14
+20926_15	has_surface_form	by
+20926_16	is_in_sentence	sentence_20926
+20926_16	pobj	20926_15
+20926_16	has_surface_form	Rajkiran
+20926_17	is_in_sentence	sentence_20926
+20926_17	punct	20926_2
+20926_17	has_surface_form	.
+20926_18	is_in_sentence	sentence_20926
+20926_18	dep	20926_18
+20926_18	has_surface_form	
+Themmangu Paattukaaran	surface_form	Themmangu Paattukaaran
+Themmangu Paattukaaran	movie-has-director	Gangai Amaran
+Gangai Amaran	surface_form	Gangai Amaran

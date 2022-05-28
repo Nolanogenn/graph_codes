@@ -1,0 +1,88 @@
+10981_0	is_in_sentence	sentence_10981
+10981_0	compound	10981_1
+10981_0	has_surface_form	Penny
+10981_0	part_of_entity	Penny Gold
+10981_1	is_in_sentence	sentence_10981
+10981_1	nsubj	10981_2
+10981_1	has_surface_form	Gold
+10981_1	part_of_entity	Penny Gold
+10981_2	is_in_sentence	sentence_10981
+10981_2	ROOT	10981_2
+10981_2	has_surface_form	is
+10981_3	is_in_sentence	sentence_10981
+10981_3	det	10981_7
+10981_3	has_surface_form	a
+10981_7	is_in_sentence	sentence_10981
+10981_7	attr	10981_2
+10981_7	has_surface_form	film
+10981_4	is_in_sentence	sentence_10981
+10981_4	nummod	10981_7
+10981_4	has_surface_form	1973
+10981_5	is_in_sentence	sentence_10981
+10981_5	amod	10981_7
+10981_5	has_surface_form	British
+10981_6	is_in_sentence	sentence_10981
+10981_6	compound	10981_7
+10981_6	has_surface_form	drama
+10981_8	is_in_sentence	sentence_10981
+10981_8	acl	10981_7
+10981_8	has_surface_form	directed
+10981_9	is_in_sentence	sentence_10981
+10981_9	agent	10981_8
+10981_9	has_surface_form	by
+10981_10	is_in_sentence	sentence_10981
+10981_10	compound	10981_11
+10981_10	has_surface_form	Jack
+10981_11	is_in_sentence	sentence_10981
+10981_11	pobj	10981_9
+10981_11	has_surface_form	Cardiff
+10981_12	is_in_sentence	sentence_10981
+10981_12	cc	10981_8
+10981_12	has_surface_form	and
+10981_13	is_in_sentence	sentence_10981
+10981_13	conj	10981_8
+10981_13	has_surface_form	starring
+10981_14	is_in_sentence	sentence_10981
+10981_14	compound	10981_15
+10981_14	has_surface_form	James
+10981_15	is_in_sentence	sentence_10981
+10981_15	dobj	10981_13
+10981_15	has_surface_form	Booth
+10981_16	is_in_sentence	sentence_10981
+10981_16	punct	10981_15
+10981_16	has_surface_form	,
+10981_17	is_in_sentence	sentence_10981
+10981_17	compound	10981_18
+10981_17	has_surface_form	Francesca
+10981_18	is_in_sentence	sentence_10981
+10981_18	conj	10981_15
+10981_18	has_surface_form	Annis
+10981_19	is_in_sentence	sentence_10981
+10981_19	punct	10981_18
+10981_19	has_surface_form	,
+10981_20	is_in_sentence	sentence_10981
+10981_20	compound	10981_21
+10981_20	has_surface_form	Nicky
+10981_20	part_of_entity	Nicky Henson
+10981_21	is_in_sentence	sentence_10981
+10981_21	conj	10981_18
+10981_21	has_surface_form	Henson
+10981_21	part_of_entity	Nicky Henson
+10981_22	is_in_sentence	sentence_10981
+10981_22	cc	10981_21
+10981_22	has_surface_form	and
+10981_23	is_in_sentence	sentence_10981
+10981_23	compound	10981_24
+10981_23	has_surface_form	Joss
+10981_24	is_in_sentence	sentence_10981
+10981_24	conj	10981_21
+10981_24	has_surface_form	Ackland
+10981_25	is_in_sentence	sentence_10981
+10981_25	punct	10981_2
+10981_25	has_surface_form	.
+10981_26	is_in_sentence	sentence_10981
+10981_26	dep	10981_26
+10981_26	has_surface_form	
+Penny Gold	surface_form	Penny Gold
+Penny Gold	starring	Nicky Henson
+Nicky Henson	surface_form	Nicky Henson

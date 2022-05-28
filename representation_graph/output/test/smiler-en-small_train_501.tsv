@@ -1,0 +1,71 @@
+500_0	is_in_sentence	sentence_500
+500_0	nsubj	500_1
+500_0	has_surface_form	Jamo
+500_0	part_of_entity	Jamo bey Hajinski Suleyman oglu
+500_1	is_in_sentence	sentence_500
+500_1	ROOT	500_1
+500_1	has_surface_form	bey
+500_1	part_of_entity	Jamo bey Hajinski Suleyman oglu
+500_2	is_in_sentence	sentence_500
+500_2	compound	500_3
+500_2	has_surface_form	Hajinski
+500_2	part_of_entity	Jamo bey Hajinski Suleyman oglu
+500_3	is_in_sentence	sentence_500
+500_3	compound	500_4
+500_3	has_surface_form	Suleyman
+500_3	part_of_entity	Jamo bey Hajinski Suleyman oglu
+500_4	is_in_sentence	sentence_500
+500_4	nsubj	500_5
+500_4	has_surface_form	oglu
+500_4	part_of_entity	Jamo bey Hajinski Suleyman oglu
+500_5	is_in_sentence	sentence_500
+500_5	ccomp	500_1
+500_5	has_surface_form	(;
+500_6	is_in_sentence	sentence_500
+500_6	npadvmod	500_5
+500_6	has_surface_form	1888
+500_7	is_in_sentence	sentence_500
+500_7	punct	500_6
+500_7	has_surface_form	–
+500_8	is_in_sentence	sentence_500
+500_8	npadvmod	500_5
+500_8	has_surface_form	1942
+500_9	is_in_sentence	sentence_500
+500_9	punct	500_5
+500_9	has_surface_form	)
+500_10	is_in_sentence	sentence_500
+500_10	conj	500_1
+500_10	has_surface_form	was
+500_11	is_in_sentence	sentence_500
+500_11	det	500_13
+500_11	has_surface_form	an
+500_13	is_in_sentence	sentence_500
+500_13	attr	500_10
+500_13	has_surface_form	publicist
+500_12	is_in_sentence	sentence_500
+500_12	compound	500_13
+500_12	is_entity	Azerbaijani
+Azerbaijani	surface_form	Azerbaijani
+500_14	is_in_sentence	sentence_500
+500_14	punct	500_13
+500_14	has_surface_form	,
+500_15	is_in_sentence	sentence_500
+500_15	amod	500_16
+500_15	has_surface_form	public
+500_16	is_in_sentence	sentence_500
+500_16	conj	500_13
+500_16	has_surface_form	figure
+500_17	is_in_sentence	sentence_500
+500_17	cc	500_16
+500_17	has_surface_form	and
+500_18	is_in_sentence	sentence_500
+500_18	conj	500_16
+500_18	has_surface_form	politician
+500_19	is_in_sentence	sentence_500
+500_19	punct	500_1
+500_19	has_surface_form	.
+500_20	is_in_sentence	sentence_500
+500_20	dep	500_20
+500_20	has_surface_form	
+Jamo bey Hajinski Suleyman oglu	surface_form	Jamo bey Hajinski Suleyman oglu
+Jamo bey Hajinski Suleyman oglu	has-nationality	Azerbaijani

@@ -1,0 +1,46 @@
+34850_0	is_in_sentence	sentence_34850
+34850_0	compound	34850_1
+34850_0	has_surface_form	Gertraud
+34850_0	part_of_entity	Gertraud Jesserer
+34850_1	is_in_sentence	sentence_34850
+34850_1	nsubj	34850_2
+34850_1	has_surface_form	Jesserer
+34850_1	part_of_entity	Gertraud Jesserer
+34850_2	is_in_sentence	sentence_34850
+34850_2	ROOT	34850_2
+34850_2	has_surface_form	is
+34850_3	is_in_sentence	sentence_34850
+34850_3	det	34850_4
+34850_3	has_surface_form	the
+34850_4	is_in_sentence	sentence_34850
+34850_4	attr	34850_2
+34850_4	has_surface_form	mother
+34850_5	is_in_sentence	sentence_34850
+34850_5	prep	34850_4
+34850_5	has_surface_form	of
+34850_6	is_in_sentence	sentence_34850
+34850_6	compound	34850_8
+34850_6	has_surface_form	actor
+34850_8	is_in_sentence	sentence_34850
+34850_8	compound	34850_10
+34850_8	has_surface_form	journalist
+34850_7	is_in_sentence	sentence_34850
+34850_7	punct	34850_8
+34850_7	has_surface_form	-
+34850_10	is_in_sentence	sentence_34850
+34850_10	pobj	34850_5
+34850_10	has_surface_form	Vogel
+34850_10	part_of_entity	Nikolas Vogel
+34850_9	is_in_sentence	sentence_34850
+34850_9	compound	34850_10
+34850_9	has_surface_form	Nikolas
+34850_9	part_of_entity	Nikolas Vogel
+34850_11	is_in_sentence	sentence_34850
+34850_11	punct	34850_2
+34850_11	has_surface_form	.
+34850_12	is_in_sentence	sentence_34850
+34850_12	dep	34850_12
+34850_12	has_surface_form	
+Gertraud Jesserer	surface_form	Gertraud Jesserer
+Gertraud Jesserer	has-child	Nikolas Vogel
+Nikolas Vogel	surface_form	Nikolas Vogel

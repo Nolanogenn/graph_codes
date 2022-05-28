@@ -1,0 +1,80 @@
+5258_0	is_in_sentence	sentence_5258
+5258_0	nummod	5258_1
+5258_0	has_surface_form	One
+5258_0	part_of_entity	One Hour Late
+5258_1	is_in_sentence	sentence_5258
+5258_1	compound	5258_2
+5258_1	has_surface_form	Hour
+5258_1	part_of_entity	One Hour Late
+5258_2	is_in_sentence	sentence_5258
+5258_2	nsubj	5258_3
+5258_2	has_surface_form	Late
+5258_2	part_of_entity	One Hour Late
+5258_3	is_in_sentence	sentence_5258
+5258_3	ROOT	5258_3
+5258_3	has_surface_form	is
+5258_4	is_in_sentence	sentence_5258
+5258_4	det	5258_8
+5258_4	has_surface_form	a
+5258_8	is_in_sentence	sentence_5258
+5258_8	attr	5258_3
+5258_8	has_surface_form	film
+5258_5	is_in_sentence	sentence_5258
+5258_5	nummod	5258_8
+5258_5	has_surface_form	1934
+5258_6	is_in_sentence	sentence_5258
+5258_6	amod	5258_8
+5258_6	has_surface_form	American
+5258_7	is_in_sentence	sentence_5258
+5258_7	compound	5258_8
+5258_7	has_surface_form	comedy
+5258_9	is_in_sentence	sentence_5258
+5258_9	acl	5258_8
+5258_9	has_surface_form	directed
+5258_10	is_in_sentence	sentence_5258
+5258_10	agent	5258_9
+5258_10	has_surface_form	by
+5258_11	is_in_sentence	sentence_5258
+5258_11	compound	5258_12
+5258_11	has_surface_form	Ralph
+5258_11	part_of_entity	Ralph Murphy
+5258_12	is_in_sentence	sentence_5258
+5258_12	pobj	5258_10
+5258_12	has_surface_form	Murphy
+5258_12	part_of_entity	Ralph Murphy
+5258_13	is_in_sentence	sentence_5258
+5258_13	cc	5258_9
+5258_13	has_surface_form	and
+5258_14	is_in_sentence	sentence_5258
+5258_14	conj	5258_9
+5258_14	has_surface_form	written
+5258_15	is_in_sentence	sentence_5258
+5258_15	agent	5258_14
+5258_15	has_surface_form	by
+5258_16	is_in_sentence	sentence_5258
+5258_16	compound	5258_17
+5258_16	has_surface_form	Kathryn
+5258_17	is_in_sentence	sentence_5258
+5258_17	pobj	5258_15
+5258_17	has_surface_form	Scola
+5258_18	is_in_sentence	sentence_5258
+5258_18	cc	5258_17
+5258_18	has_surface_form	and
+5258_19	is_in_sentence	sentence_5258
+5258_19	compound	5258_21
+5258_19	has_surface_form	Paul
+5258_21	is_in_sentence	sentence_5258
+5258_21	conj	5258_17
+5258_21	has_surface_form	Smith
+5258_20	is_in_sentence	sentence_5258
+5258_20	compound	5258_21
+5258_20	has_surface_form	Gerard
+5258_22	is_in_sentence	sentence_5258
+5258_22	punct	5258_3
+5258_22	has_surface_form	.
+5258_23	is_in_sentence	sentence_5258
+5258_23	dep	5258_3
+5258_23	has_surface_form	
+One Hour Late	surface_form	One Hour Late
+One Hour Late	movie-has-director	Ralph Murphy
+Ralph Murphy	surface_form	Ralph Murphy

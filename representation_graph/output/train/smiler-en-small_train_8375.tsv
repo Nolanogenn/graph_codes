@@ -1,0 +1,85 @@
+8374_0	is_in_sentence	sentence_8374
+8374_0	compound	8374_1
+8374_0	has_surface_form	Dish
+8374_0	part_of_entity	Dish Dogs
+8374_1	is_in_sentence	sentence_8374
+8374_1	nsubj	8374_2
+8374_1	has_surface_form	Dogs
+8374_1	part_of_entity	Dish Dogs
+8374_2	is_in_sentence	sentence_8374
+8374_2	ROOT	8374_2
+8374_2	has_surface_form	is
+8374_3	is_in_sentence	sentence_8374
+8374_3	det	8374_6
+8374_3	has_surface_form	a
+8374_6	is_in_sentence	sentence_8374
+8374_6	attr	8374_2
+8374_6	has_surface_form	film
+8374_4	is_in_sentence	sentence_8374
+8374_4	amod	8374_6
+8374_4	has_surface_form	romantic
+8374_5	is_in_sentence	sentence_8374
+8374_5	compound	8374_6
+8374_5	has_surface_form	comedy
+8374_7	is_in_sentence	sentence_8374
+8374_7	acl	8374_6
+8374_7	has_surface_form	released
+8374_8	is_in_sentence	sentence_8374
+8374_8	prep	8374_7
+8374_8	has_surface_form	in
+8374_9	is_in_sentence	sentence_8374
+8374_9	pobj	8374_8
+8374_9	has_surface_form	2000
+8374_10	is_in_sentence	sentence_8374
+8374_10	punct	8374_2
+8374_10	has_surface_form	.
+8374_11	is_in_sentence	sentence_8374
+8374_11	nsubj	8374_12
+8374_11	has_surface_form	It
+8374_12	is_in_sentence	sentence_8374
+8374_12	ROOT	8374_12
+8374_12	has_surface_form	stars
+8374_13	is_in_sentence	sentence_8374
+8374_13	compound	8374_14
+8374_13	has_surface_form	Sean
+8374_14	is_in_sentence	sentence_8374
+8374_14	dobj	8374_12
+8374_14	has_surface_form	Astin
+8374_15	is_in_sentence	sentence_8374
+8374_15	cc	8374_14
+8374_15	has_surface_form	and
+8374_16	is_in_sentence	sentence_8374
+8374_16	compound	8374_17
+8374_16	has_surface_form	Matthew
+8374_17	is_in_sentence	sentence_8374
+8374_17	conj	8374_14
+8374_17	has_surface_form	Lillard
+8374_18	is_in_sentence	sentence_8374
+8374_18	cc	8374_12
+8374_18	has_surface_form	and
+8374_19	is_in_sentence	sentence_8374
+8374_19	auxpass	8374_20
+8374_19	has_surface_form	was
+8374_20	is_in_sentence	sentence_8374
+8374_20	conj	8374_12
+8374_20	has_surface_form	directed
+8374_21	is_in_sentence	sentence_8374
+8374_21	agent	8374_20
+8374_21	has_surface_form	by
+8374_22	is_in_sentence	sentence_8374
+8374_22	compound	8374_23
+8374_22	has_surface_form	Robert
+8374_22	part_of_entity	Robert Kubilos
+8374_23	is_in_sentence	sentence_8374
+8374_23	pobj	8374_21
+8374_23	has_surface_form	Kubilos
+8374_23	part_of_entity	Robert Kubilos
+8374_24	is_in_sentence	sentence_8374
+8374_24	punct	8374_12
+8374_24	has_surface_form	.
+8374_25	is_in_sentence	sentence_8374
+8374_25	dep	8374_12
+8374_25	has_surface_form	
+Dish Dogs	surface_form	Dish Dogs
+Dish Dogs	movie-has-director	Robert Kubilos
+Robert Kubilos	surface_form	Robert Kubilos

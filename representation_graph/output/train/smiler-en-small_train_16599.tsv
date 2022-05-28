@@ -1,0 +1,47 @@
+16598_0	is_in_sentence	sentence_16598
+16598_0	det	16598_2
+16598_0	has_surface_form	The
+16598_2	is_in_sentence	sentence_16598
+16598_2	nsubj	16598_3
+16598_2	has_surface_form	N130
+16598_2	part_of_entity	Samsung N130
+16598_1	is_in_sentence	sentence_16598
+16598_1	compound	16598_2
+16598_1	has_surface_form	Samsung
+16598_1	part_of_entity	Samsung N130
+16598_3	is_in_sentence	sentence_16598
+16598_3	ROOT	16598_3
+16598_3	has_surface_form	is
+16598_4	is_in_sentence	sentence_16598
+16598_4	det	16598_8
+16598_4	has_surface_form	a
+16598_8	is_in_sentence	sentence_16598
+16598_8	attr	16598_3
+16598_8	has_surface_form	computer
+16598_5	is_in_sentence	sentence_16598
+16598_5	compound	16598_8
+16598_5	is_entity	subnotebook
+subnotebook	surface_form	subnotebook
+16598_6	is_in_sentence	sentence_16598
+16598_6	punct	16598_7
+16598_6	has_surface_form	/
+16598_7	is_in_sentence	sentence_16598
+16598_7	compound	16598_8
+16598_7	has_surface_form	netbook
+16598_9	is_in_sentence	sentence_16598
+16598_9	acl	16598_8
+16598_9	has_surface_form	designed
+16598_10	is_in_sentence	sentence_16598
+16598_10	agent	16598_9
+16598_10	has_surface_form	by
+16598_11	is_in_sentence	sentence_16598
+16598_11	pobj	16598_10
+16598_11	has_surface_form	Samsung
+16598_12	is_in_sentence	sentence_16598
+16598_12	punct	16598_3
+16598_12	has_surface_form	.
+16598_13	is_in_sentence	sentence_16598
+16598_13	dep	16598_3
+16598_13	has_surface_form	
+Samsung N130	surface_form	Samsung N130
+Samsung N130	has-type	subnotebook

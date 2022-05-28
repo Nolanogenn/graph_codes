@@ -1,0 +1,118 @@
+16667_0	is_in_sentence	sentence_16667
+16667_0	det	16667_1
+16667_0	has_surface_form	The
+16667_0	part_of_entity	The Prisoner of the Maharaja
+16667_1	is_in_sentence	sentence_16667
+16667_1	nsubj	16667_13
+16667_1	has_surface_form	Prisoner
+16667_1	part_of_entity	The Prisoner of the Maharaja
+16667_13	is_in_sentence	sentence_16667
+16667_13	ROOT	16667_13
+16667_13	has_surface_form	is
+16667_2	is_in_sentence	sentence_16667
+16667_2	prep	16667_1
+16667_2	has_surface_form	of
+16667_2	part_of_entity	The Prisoner of the Maharaja
+16667_3	is_in_sentence	sentence_16667
+16667_3	det	16667_4
+16667_3	has_surface_form	the
+16667_3	part_of_entity	The Prisoner of the Maharaja
+16667_4	is_in_sentence	sentence_16667
+16667_4	pobj	16667_2
+16667_4	has_surface_form	Maharaja
+16667_4	part_of_entity	The Prisoner of the Maharaja
+16667_5	is_in_sentence	sentence_16667
+16667_5	punct	16667_8
+16667_5	has_surface_form	(
+16667_8	is_in_sentence	sentence_16667
+16667_8	appos	16667_1
+16667_8	has_surface_form	Die
+16667_6	is_in_sentence	sentence_16667
+16667_6	amod	16667_8
+16667_6	has_surface_form	German
+16667_7	is_in_sentence	sentence_16667
+16667_7	punct	16667_8
+16667_7	has_surface_form	:
+16667_9	is_in_sentence	sentence_16667
+16667_9	compound	16667_11
+16667_9	has_surface_form	Gefangene
+16667_11	is_in_sentence	sentence_16667
+16667_11	dobj	16667_8
+16667_11	has_surface_form	Maharadscha
+16667_10	is_in_sentence	sentence_16667
+16667_10	compound	16667_11
+16667_10	has_surface_form	des
+16667_12	is_in_sentence	sentence_16667
+16667_12	punct	16667_8
+16667_12	has_surface_form	)
+16667_14	is_in_sentence	sentence_16667
+16667_14	det	16667_19
+16667_14	has_surface_form	a
+16667_19	is_in_sentence	sentence_16667
+16667_19	attr	16667_13
+16667_19	has_surface_form	film
+16667_15	is_in_sentence	sentence_16667
+16667_15	nummod	16667_19
+16667_15	has_surface_form	1954
+16667_16	is_in_sentence	sentence_16667
+16667_16	amod	16667_17
+16667_16	has_surface_form	West
+16667_17	is_in_sentence	sentence_16667
+16667_17	amod	16667_19
+16667_17	has_surface_form	German
+16667_18	is_in_sentence	sentence_16667
+16667_18	compound	16667_19
+16667_18	has_surface_form	adventure
+16667_20	is_in_sentence	sentence_16667
+16667_20	acl	16667_19
+16667_20	has_surface_form	directed
+16667_21	is_in_sentence	sentence_16667
+16667_21	agent	16667_20
+16667_21	has_surface_form	by
+16667_22	is_in_sentence	sentence_16667
+16667_22	compound	16667_23
+16667_22	has_surface_form	Veit
+16667_22	part_of_entity	Veit Harlan
+16667_23	is_in_sentence	sentence_16667
+16667_23	pobj	16667_21
+16667_23	has_surface_form	Harlan
+16667_23	part_of_entity	Veit Harlan
+16667_24	is_in_sentence	sentence_16667
+16667_24	cc	16667_20
+16667_24	has_surface_form	and
+16667_25	is_in_sentence	sentence_16667
+16667_25	conj	16667_20
+16667_25	has_surface_form	starring
+16667_26	is_in_sentence	sentence_16667
+16667_26	compound	16667_27
+16667_26	has_surface_form	Kristina
+16667_27	is_in_sentence	sentence_16667
+16667_27	dobj	16667_25
+16667_27	has_surface_form	Söderbaum
+16667_28	is_in_sentence	sentence_16667
+16667_28	punct	16667_27
+16667_28	has_surface_form	,
+16667_29	is_in_sentence	sentence_16667
+16667_29	compound	16667_30
+16667_29	has_surface_form	Willy
+16667_30	is_in_sentence	sentence_16667
+16667_30	conj	16667_27
+16667_30	has_surface_form	Birgel
+16667_31	is_in_sentence	sentence_16667
+16667_31	cc	16667_30
+16667_31	has_surface_form	and
+16667_32	is_in_sentence	sentence_16667
+16667_32	compound	16667_33
+16667_32	has_surface_form	Adrian
+16667_33	is_in_sentence	sentence_16667
+16667_33	conj	16667_30
+16667_33	has_surface_form	Hoven
+16667_34	is_in_sentence	sentence_16667
+16667_34	punct	16667_13
+16667_34	has_surface_form	.
+16667_35	is_in_sentence	sentence_16667
+16667_35	dep	16667_13
+16667_35	has_surface_form	
+The Prisoner of the Maharaja	surface_form	The Prisoner of the Maharaja
+The Prisoner of the Maharaja	movie-has-director	Veit Harlan
+Veit Harlan	surface_form	Veit Harlan

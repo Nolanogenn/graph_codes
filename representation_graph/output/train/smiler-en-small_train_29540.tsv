@@ -1,0 +1,76 @@
+29539_0	is_in_sentence	sentence_29539
+29539_0	compound	29539_1
+29539_0	has_surface_form	Texas
+29539_0	part_of_entity	Texas State Highway Loop 79
+29539_1	is_in_sentence	sentence_29539
+29539_1	compound	29539_3
+29539_1	has_surface_form	State
+29539_1	part_of_entity	Texas State Highway Loop 79
+29539_3	is_in_sentence	sentence_29539
+29539_3	nsubj	29539_9
+29539_3	has_surface_form	Loop
+29539_3	part_of_entity	Texas State Highway Loop 79
+29539_2	is_in_sentence	sentence_29539
+29539_2	compound	29539_3
+29539_2	has_surface_form	Highway
+29539_2	part_of_entity	Texas State Highway Loop 79
+29539_9	is_in_sentence	sentence_29539
+29539_9	ROOT	29539_9
+29539_9	has_surface_form	is
+29539_4	is_in_sentence	sentence_29539
+29539_4	nummod	29539_3
+29539_4	has_surface_form	79
+29539_4	part_of_entity	Texas State Highway Loop 79
+29539_5	is_in_sentence	sentence_29539
+29539_5	punct	29539_3
+29539_5	has_surface_form	(
+29539_6	is_in_sentence	sentence_29539
+29539_6	appos	29539_3
+29539_6	has_surface_form	Loop
+29539_7	is_in_sentence	sentence_29539
+29539_7	nummod	29539_6
+29539_7	has_surface_form	79
+29539_8	is_in_sentence	sentence_29539
+29539_8	punct	29539_6
+29539_8	has_surface_form	)
+29539_10	is_in_sentence	sentence_29539
+29539_10	det	29539_13
+29539_10	has_surface_form	a
+29539_13	is_in_sentence	sentence_29539
+29539_13	attr	29539_9
+29539_13	has_surface_form	loop
+29539_11	is_in_sentence	sentence_29539
+29539_11	compound	29539_13
+29539_11	has_surface_form	state
+29539_11	part_of_entity	state highway
+29539_12	is_in_sentence	sentence_29539
+29539_12	compound	29539_13
+29539_12	has_surface_form	highway
+29539_12	part_of_entity	state highway
+29539_14	is_in_sentence	sentence_29539
+29539_14	prep	29539_13
+29539_14	has_surface_form	in
+29539_15	is_in_sentence	sentence_29539
+29539_15	compound	29539_17
+29539_15	has_surface_form	Val
+29539_17	is_in_sentence	sentence_29539
+29539_17	pobj	29539_14
+29539_17	has_surface_form	County
+29539_16	is_in_sentence	sentence_29539
+29539_16	compound	29539_17
+29539_16	has_surface_form	Verde
+29539_18	is_in_sentence	sentence_29539
+29539_18	prep	29539_13
+29539_18	has_surface_form	in
+29539_19	is_in_sentence	sentence_29539
+29539_19	det	29539_20
+29539_19	has_surface_form	the
+29539_20	is_in_sentence	sentence_29539
+29539_20	pobj	29539_18
+29539_20	has_surface_form	U.
+29539_21	is_in_sentence	sentence_29539
+29539_21	dep	29539_9
+29539_21	has_surface_form	
+Texas State Highway Loop 79	surface_form	Texas State Highway Loop 79
+Texas State Highway Loop 79	has-type	state highway
+state highway	surface_form	state highway

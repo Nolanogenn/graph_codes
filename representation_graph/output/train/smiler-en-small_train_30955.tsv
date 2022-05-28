@@ -1,0 +1,121 @@
+30954_0	is_in_sentence	sentence_30954
+30954_0	det	30954_1
+30954_0	has_surface_form	A
+30954_0	part_of_entity	A Place Near Heaven
+30954_1	is_in_sentence	sentence_30954
+30954_1	nsubj	30954_13
+30954_1	has_surface_form	Place
+30954_1	part_of_entity	A Place Near Heaven
+30954_13	is_in_sentence	sentence_30954
+30954_13	ROOT	30954_13
+30954_13	has_surface_form	is
+30954_2	is_in_sentence	sentence_30954
+30954_2	prep	30954_1
+30954_2	has_surface_form	Near
+30954_2	part_of_entity	A Place Near Heaven
+30954_3	is_in_sentence	sentence_30954
+30954_3	pobj	30954_2
+30954_3	has_surface_form	Heaven
+30954_3	part_of_entity	A Place Near Heaven
+30954_4	is_in_sentence	sentence_30954
+30954_4	punct	30954_5
+30954_4	has_surface_form	(
+30954_5	is_in_sentence	sentence_30954
+30954_5	parataxis	30954_1
+30954_5	has_surface_form	Spanish
+30954_6	is_in_sentence	sentence_30954
+30954_6	punct	30954_5
+30954_6	has_surface_form	:
+30954_7	is_in_sentence	sentence_30954
+30954_7	appos	30954_1
+30954_7	has_surface_form	Un
+30954_8	is_in_sentence	sentence_30954
+30954_8	compound	30954_11
+30954_8	has_surface_form	rincón
+30954_11	is_in_sentence	sentence_30954
+30954_11	appos	30954_7
+30954_11	has_surface_form	cielo
+30954_9	is_in_sentence	sentence_30954
+30954_9	compound	30954_11
+30954_9	has_surface_form	cerca
+30954_10	is_in_sentence	sentence_30954
+30954_10	compound	30954_11
+30954_10	has_surface_form	del
+30954_12	is_in_sentence	sentence_30954
+30954_12	punct	30954_7
+30954_12	has_surface_form	)
+30954_14	is_in_sentence	sentence_30954
+30954_14	det	30954_19
+30954_14	has_surface_form	a
+30954_19	is_in_sentence	sentence_30954
+30954_19	attr	30954_13
+30954_19	has_surface_form	film
+30954_15	is_in_sentence	sentence_30954
+30954_15	nummod	30954_19
+30954_15	has_surface_form	1952
+30954_16	is_in_sentence	sentence_30954
+30954_16	amod	30954_19
+30954_16	has_surface_form	Mexican
+30954_17	is_in_sentence	sentence_30954
+30954_17	compound	30954_19
+30954_17	has_surface_form	comedy
+30954_18	is_in_sentence	sentence_30954
+30954_18	compound	30954_19
+30954_18	has_surface_form	drama
+30954_20	is_in_sentence	sentence_30954
+30954_20	acl	30954_19
+30954_20	has_surface_form	directed
+30954_21	is_in_sentence	sentence_30954
+30954_21	agent	30954_20
+30954_21	has_surface_form	by
+30954_22	is_in_sentence	sentence_30954
+30954_22	compound	30954_24
+30954_22	has_surface_form	Rogelio
+30954_22	part_of_entity	Rogelio A. González
+30954_24	is_in_sentence	sentence_30954
+30954_24	pobj	30954_21
+30954_24	has_surface_form	González
+30954_24	part_of_entity	Rogelio A. González
+30954_23	is_in_sentence	sentence_30954
+30954_23	compound	30954_24
+30954_23	has_surface_form	A.
+30954_23	part_of_entity	Rogelio A. González
+30954_25	is_in_sentence	sentence_30954
+30954_25	cc	30954_20
+30954_25	has_surface_form	and
+30954_26	is_in_sentence	sentence_30954
+30954_26	conj	30954_20
+30954_26	has_surface_form	starring
+30954_27	is_in_sentence	sentence_30954
+30954_27	compound	30954_28
+30954_27	has_surface_form	Pedro
+30954_28	is_in_sentence	sentence_30954
+30954_28	dobj	30954_26
+30954_28	has_surface_form	Infante
+30954_29	is_in_sentence	sentence_30954
+30954_29	punct	30954_28
+30954_29	has_surface_form	,
+30954_30	is_in_sentence	sentence_30954
+30954_30	compound	30954_31
+30954_30	has_surface_form	Marga
+30954_31	is_in_sentence	sentence_30954
+30954_31	appos	30954_28
+30954_31	has_surface_form	López
+30954_32	is_in_sentence	sentence_30954
+30954_32	cc	30954_31
+30954_32	has_surface_form	and
+30954_33	is_in_sentence	sentence_30954
+30954_33	compound	30954_34
+30954_33	has_surface_form	Andrés
+30954_34	is_in_sentence	sentence_30954
+30954_34	conj	30954_31
+30954_34	has_surface_form	Soler
+30954_35	is_in_sentence	sentence_30954
+30954_35	punct	30954_13
+30954_35	has_surface_form	.
+30954_36	is_in_sentence	sentence_30954
+30954_36	dep	30954_13
+30954_36	has_surface_form	
+A Place Near Heaven	surface_form	A Place Near Heaven
+A Place Near Heaven	movie-has-director	Rogelio A. González
+Rogelio A. González	surface_form	Rogelio A. González

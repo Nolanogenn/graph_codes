@@ -1,0 +1,63 @@
+23514_0	is_in_sentence	sentence_23514
+23514_0	compound	23514_1
+23514_0	has_surface_form	Foxford
+23514_0	part_of_entity	Foxford School and Community Arts College
+23514_1	is_in_sentence	sentence_23514
+23514_1	nsubj	23514_6
+23514_1	has_surface_form	School
+23514_1	part_of_entity	Foxford School and Community Arts College
+23514_6	is_in_sentence	sentence_23514
+23514_6	ROOT	23514_6
+23514_6	has_surface_form	is
+23514_2	is_in_sentence	sentence_23514
+23514_2	cc	23514_1
+23514_2	has_surface_form	and
+23514_2	part_of_entity	Foxford School and Community Arts College
+23514_3	is_in_sentence	sentence_23514
+23514_3	compound	23514_4
+23514_3	has_surface_form	Community
+23514_3	part_of_entity	Foxford School and Community Arts College
+23514_4	is_in_sentence	sentence_23514
+23514_4	compound	23514_5
+23514_4	has_surface_form	Arts
+23514_4	part_of_entity	Foxford School and Community Arts College
+23514_5	is_in_sentence	sentence_23514
+23514_5	conj	23514_1
+23514_5	has_surface_form	College
+23514_5	part_of_entity	Foxford School and Community Arts College
+23514_7	is_in_sentence	sentence_23514
+23514_7	det	23514_9
+23514_7	has_surface_form	a
+23514_9	is_in_sentence	sentence_23514
+23514_9	attr	23514_6
+23514_9	has_surface_form	school
+23514_8	is_in_sentence	sentence_23514
+23514_8	amod	23514_9
+23514_8	has_surface_form	comprehensive
+23514_10	is_in_sentence	sentence_23514
+23514_10	prep	23514_9
+23514_10	has_surface_form	in
+23514_11	is_in_sentence	sentence_23514
+23514_11	pobj	23514_10
+23514_11	is_entity	Longford
+Longford	surface_form	Longford
+23514_12	is_in_sentence	sentence_23514
+23514_12	punct	23514_11
+23514_12	has_surface_form	,
+23514_13	is_in_sentence	sentence_23514
+23514_13	conj	23514_11
+23514_13	has_surface_form	Coventry
+23514_14	is_in_sentence	sentence_23514
+23514_14	punct	23514_13
+23514_14	has_surface_form	,
+23514_15	is_in_sentence	sentence_23514
+23514_15	conj	23514_13
+23514_15	has_surface_form	England
+23514_16	is_in_sentence	sentence_23514
+23514_16	punct	23514_6
+23514_16	has_surface_form	.
+23514_17	is_in_sentence	sentence_23514
+23514_17	dep	23514_6
+23514_17	has_surface_form	
+Foxford School and Community Arts College	surface_form	Foxford School and Community Arts College
+Foxford School and Community Arts College	is-where	Longford

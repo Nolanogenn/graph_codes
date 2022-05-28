@@ -1,0 +1,75 @@
+31538_0	is_in_sentence	sentence_31538
+31538_0	compound	31538_1
+31538_0	has_surface_form	Emir
+31538_0	part_of_entity	Emir Abdelkader University
+31538_1	is_in_sentence	sentence_31538
+31538_1	compound	31538_2
+31538_1	has_surface_form	Abdelkader
+31538_1	part_of_entity	Emir Abdelkader University
+31538_2	is_in_sentence	sentence_31538
+31538_2	nsubj	31538_16
+31538_2	has_surface_form	University
+31538_2	part_of_entity	Emir Abdelkader University
+31538_16	is_in_sentence	sentence_31538
+31538_16	ROOT	31538_16
+31538_16	has_surface_form	is
+31538_3	is_in_sentence	sentence_31538
+31538_3	prep	31538_2
+31538_3	has_surface_form	of
+31538_4	is_in_sentence	sentence_31538
+31538_4	compound	31538_5
+31538_4	has_surface_form	Islamic
+31538_5	is_in_sentence	sentence_31538
+31538_5	pobj	31538_3
+31538_5	has_surface_form	Sciences
+31538_6	is_in_sentence	sentence_31538
+31538_6	punct	31538_2
+31538_6	has_surface_form	(
+31538_7	is_in_sentence	sentence_31538
+31538_7	appos	31538_2
+31538_7	has_surface_form	Arabic
+31538_8	is_in_sentence	sentence_31538
+31538_8	punct	31538_7
+31538_8	has_surface_form	:
+31538_9	is_in_sentence	sentence_31538
+31538_9	appos	31538_7
+31538_9	has_surface_form	جامعة
+31538_10	is_in_sentence	sentence_31538
+31538_10	compound	31538_11
+31538_10	has_surface_form	الأمير
+31538_11	is_in_sentence	sentence_31538
+31538_11	compound	31538_14
+31538_11	has_surface_form	عبد
+31538_14	is_in_sentence	sentence_31538
+31538_14	appos	31538_9
+31538_14	has_surface_form	الإسلامية
+31538_12	is_in_sentence	sentence_31538
+31538_12	compound	31538_14
+31538_12	has_surface_form	القادر
+31538_13	is_in_sentence	sentence_31538
+31538_13	compound	31538_14
+31538_13	has_surface_form	للعلوم
+31538_15	is_in_sentence	sentence_31538
+31538_15	punct	31538_7
+31538_15	has_surface_form	)
+31538_17	is_in_sentence	sentence_31538
+31538_17	det	31538_18
+31538_17	has_surface_form	a
+31538_18	is_in_sentence	sentence_31538
+31538_18	attr	31538_16
+31538_18	has_surface_form	university
+31538_19	is_in_sentence	sentence_31538
+31538_19	prep	31538_18
+31538_19	has_surface_form	in
+31538_20	is_in_sentence	sentence_31538
+31538_20	pobj	31538_19
+31538_20	is_entity	Algeria
+Algeria	surface_form	Algeria
+31538_21	is_in_sentence	sentence_31538
+31538_21	punct	31538_16
+31538_21	has_surface_form	.
+31538_22	is_in_sentence	sentence_31538
+31538_22	dep	31538_22
+31538_22	has_surface_form	
+Emir Abdelkader University	surface_form	Emir Abdelkader University
+Emir Abdelkader University	is-where	Algeria

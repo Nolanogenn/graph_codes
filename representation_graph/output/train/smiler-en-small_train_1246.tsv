@@ -1,0 +1,81 @@
+1245_0	is_in_sentence	sentence_1245
+1245_0	compound	1245_2
+1245_0	has_surface_form	John
+1245_0	part_of_entity	John M. Veitch
+1245_2	is_in_sentence	sentence_1245
+1245_2	nsubj	1245_14
+1245_2	has_surface_form	Veitch
+1245_2	part_of_entity	John M. Veitch
+1245_1	is_in_sentence	sentence_1245
+1245_1	compound	1245_2
+1245_1	has_surface_form	M.
+1245_1	part_of_entity	John M. Veitch
+1245_14	is_in_sentence	sentence_1245
+1245_14	ROOT	1245_14
+1245_14	has_surface_form	is
+1245_3	is_in_sentence	sentence_1245
+1245_3	punct	1245_2
+1245_3	has_surface_form	(
+1245_4	is_in_sentence	sentence_1245
+1245_4	acl	1245_2
+1245_4	has_surface_form	born
+1245_5	is_in_sentence	sentence_1245
+1245_5	npadvmod	1245_4
+1245_5	has_surface_form	June
+1245_6	is_in_sentence	sentence_1245
+1245_6	nummod	1245_5
+1245_6	has_surface_form	27
+1245_7	is_in_sentence	sentence_1245
+1245_7	punct	1245_5
+1245_7	has_surface_form	,
+1245_8	is_in_sentence	sentence_1245
+1245_8	nummod	1245_5
+1245_8	has_surface_form	1945
+1245_9	is_in_sentence	sentence_1245
+1245_9	prep	1245_4
+1245_9	has_surface_form	in
+1245_10	is_in_sentence	sentence_1245
+1245_10	pobj	1245_9
+1245_10	has_surface_form	Lexington
+1245_11	is_in_sentence	sentence_1245
+1245_11	punct	1245_10
+1245_11	has_surface_form	,
+1245_12	is_in_sentence	sentence_1245
+1245_12	appos	1245_10
+1245_12	has_surface_form	Kentucky
+1245_13	is_in_sentence	sentence_1245
+1245_13	punct	1245_10
+1245_13	has_surface_form	)
+1245_15	is_in_sentence	sentence_1245
+1245_15	det	1245_17
+1245_15	has_surface_form	an
+1245_17	is_in_sentence	sentence_1245
+1245_17	attr	1245_14
+1245_17	has_surface_form	Hall
+1245_16	is_in_sentence	sentence_1245
+1245_16	compound	1245_17
+1245_16	has_surface_form	American
+1245_18	is_in_sentence	sentence_1245
+1245_18	prep	1245_17
+1245_18	has_surface_form	of
+1245_19	is_in_sentence	sentence_1245
+1245_19	compound	1245_20
+1245_19	has_surface_form	Fame
+1245_20	is_in_sentence	sentence_1245
+1245_20	compound	1245_22
+1245_20	has_surface_form	Thoroughbred
+1245_22	is_in_sentence	sentence_1245
+1245_22	pobj	1245_18
+1245_22	has_surface_form	trainer
+1245_21	is_in_sentence	sentence_1245
+1245_21	compound	1245_22
+1245_21	has_surface_form	horse
+1245_23	is_in_sentence	sentence_1245
+1245_23	punct	1245_14
+1245_23	has_surface_form	.
+1245_24	is_in_sentence	sentence_1245
+1245_24	dep	1245_14
+1245_24	has_surface_form	
+John M. Veitch	surface_form	John M. Veitch
+John M. Veitch	birth-place	Lexington, Kentucky
+Lexington, Kentucky	surface_form	Lexington, Kentucky

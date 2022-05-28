@@ -1,0 +1,59 @@
+3071_0	is_in_sentence	sentence_3071
+3071_0	det	3071_1
+3071_0	has_surface_form	A
+3071_1	is_in_sentence	sentence_3071
+3071_1	poss	3071_3
+3071_1	has_surface_form	Sailor
+3071_3	is_in_sentence	sentence_3071
+3071_3	nsubj	3071_4
+3071_3	has_surface_form	Sweetheart
+3071_2	is_in_sentence	sentence_3071
+3071_2	case	3071_1
+3071_2	has_surface_form	's
+3071_4	is_in_sentence	sentence_3071
+3071_4	ROOT	3071_4
+3071_4	has_surface_form	is
+3071_5	is_in_sentence	sentence_3071
+3071_5	det	3071_11
+3071_5	has_surface_form	a
+3071_11	is_in_sentence	sentence_3071
+3071_11	attr	3071_4
+3071_11	has_surface_form	comedy
+3071_6	is_in_sentence	sentence_3071
+3071_6	nummod	3071_11
+3071_6	has_surface_form	1927
+3071_7	is_in_sentence	sentence_3071
+3071_7	nmod	3071_8
+3071_7	has_surface_form	Warner
+3071_8	is_in_sentence	sentence_3071
+3071_8	nmod	3071_11
+3071_8	has_surface_form	Bros.
+3071_9	is_in_sentence	sentence_3071
+3071_9	amod	3071_11
+3071_9	has_surface_form	silent
+3071_10	is_in_sentence	sentence_3071
+3071_10	compound	3071_11
+3071_10	has_surface_form	film
+3071_12	is_in_sentence	sentence_3071
+3071_12	acl	3071_11
+3071_12	has_surface_form	directed
+3071_13	is_in_sentence	sentence_3071
+3071_13	agent	3071_12
+3071_13	has_surface_form	by
+3071_14	is_in_sentence	sentence_3071
+3071_14	compound	3071_15
+3071_14	has_surface_form	Lloyd
+3071_14	part_of_entity	Lloyd Bacon
+3071_15	is_in_sentence	sentence_3071
+3071_15	pobj	3071_13
+3071_15	has_surface_form	Bacon
+3071_15	part_of_entity	Lloyd Bacon
+3071_16	is_in_sentence	sentence_3071
+3071_16	punct	3071_4
+3071_16	has_surface_form	.
+3071_17	is_in_sentence	sentence_3071
+3071_17	dep	3071_4
+3071_17	has_surface_form	
+A Sailor's Sweetheart	surface_form	A Sailor's Sweetheart
+A Sailor's Sweetheart	movie-has-director	Lloyd Bacon
+Lloyd Bacon	surface_form	Lloyd Bacon

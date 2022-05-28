@@ -1,0 +1,121 @@
+617_0	is_in_sentence	sentence_617
+617_0	det	617_2
+617_0	has_surface_form	All
+617_0	part_of_entity	All Clues Lead to Berlin
+617_2	is_in_sentence	sentence_617
+617_2	nsubj	617_14
+617_2	has_surface_form	Lead
+617_2	part_of_entity	All Clues Lead to Berlin
+617_1	is_in_sentence	sentence_617
+617_1	compound	617_2
+617_1	has_surface_form	Clues
+617_1	part_of_entity	All Clues Lead to Berlin
+617_14	is_in_sentence	sentence_617
+617_14	ROOT	617_14
+617_14	has_surface_form	is
+617_3	is_in_sentence	sentence_617
+617_3	prep	617_2
+617_3	has_surface_form	to
+617_3	part_of_entity	All Clues Lead to Berlin
+617_4	is_in_sentence	sentence_617
+617_4	pobj	617_3
+617_4	has_surface_form	Berlin
+617_4	part_of_entity	All Clues Lead to Berlin
+617_5	is_in_sentence	sentence_617
+617_5	punct	617_9
+617_5	has_surface_form	(
+617_9	is_in_sentence	sentence_617
+617_9	appos	617_4
+617_9	has_surface_form	Spur
+617_6	is_in_sentence	sentence_617
+617_6	amod	617_9
+617_6	has_surface_form	German
+617_7	is_in_sentence	sentence_617
+617_7	punct	617_9
+617_7	has_surface_form	:
+617_8	is_in_sentence	sentence_617
+617_8	compound	617_9
+617_8	has_surface_form	Die
+617_10	is_in_sentence	sentence_617
+617_10	amod	617_11
+617_10	has_surface_form	führt
+617_11	is_in_sentence	sentence_617
+617_11	compound	617_12
+617_11	has_surface_form	nach
+617_12	is_in_sentence	sentence_617
+617_12	npadvmod	617_9
+617_12	has_surface_form	Berlin
+617_13	is_in_sentence	sentence_617
+617_13	punct	617_9
+617_13	has_surface_form	)
+617_15	is_in_sentence	sentence_617
+617_15	det	617_20
+617_15	has_surface_form	a
+617_20	is_in_sentence	sentence_617
+617_20	attr	617_14
+617_20	has_surface_form	film
+617_16	is_in_sentence	sentence_617
+617_16	nummod	617_20
+617_16	has_surface_form	1952
+617_17	is_in_sentence	sentence_617
+617_17	amod	617_18
+617_17	has_surface_form	West
+617_18	is_in_sentence	sentence_617
+617_18	amod	617_20
+617_18	has_surface_form	German
+617_19	is_in_sentence	sentence_617
+617_19	compound	617_20
+617_19	has_surface_form	thriller
+617_21	is_in_sentence	sentence_617
+617_21	acl	617_20
+617_21	has_surface_form	directed
+617_22	is_in_sentence	sentence_617
+617_22	agent	617_21
+617_22	has_surface_form	by
+617_23	is_in_sentence	sentence_617
+617_23	compound	617_24
+617_23	has_surface_form	František
+617_23	part_of_entity	František Čáp
+617_24	is_in_sentence	sentence_617
+617_24	pobj	617_22
+617_24	has_surface_form	Čáp
+617_24	part_of_entity	František Čáp
+617_25	is_in_sentence	sentence_617
+617_25	cc	617_21
+617_25	has_surface_form	and
+617_26	is_in_sentence	sentence_617
+617_26	conj	617_21
+617_26	has_surface_form	starring
+617_27	is_in_sentence	sentence_617
+617_27	compound	617_28
+617_27	has_surface_form	Gordon
+617_28	is_in_sentence	sentence_617
+617_28	dobj	617_26
+617_28	has_surface_form	Howard
+617_29	is_in_sentence	sentence_617
+617_29	punct	617_28
+617_29	has_surface_form	,
+617_30	is_in_sentence	sentence_617
+617_30	compound	617_31
+617_30	has_surface_form	Irina
+617_31	is_in_sentence	sentence_617
+617_31	conj	617_28
+617_31	has_surface_form	Garden
+617_32	is_in_sentence	sentence_617
+617_32	cc	617_31
+617_32	has_surface_form	and
+617_33	is_in_sentence	sentence_617
+617_33	compound	617_34
+617_33	has_surface_form	Kurt
+617_34	is_in_sentence	sentence_617
+617_34	conj	617_31
+617_34	has_surface_form	Meisel
+617_35	is_in_sentence	sentence_617
+617_35	punct	617_14
+617_35	has_surface_form	.
+617_36	is_in_sentence	sentence_617
+617_36	dep	617_14
+617_36	has_surface_form	
+All Clues Lead to Berlin	surface_form	All Clues Lead to Berlin
+All Clues Lead to Berlin	movie-has-director	František Čáp
+František Čáp	surface_form	František Čáp

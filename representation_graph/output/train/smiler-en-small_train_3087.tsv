@@ -1,0 +1,65 @@
+3086_0	is_in_sentence	sentence_3086
+3086_0	det	3086_2
+3086_0	has_surface_form	A
+3086_0	part_of_entity	A Hungry Heart
+3086_2	is_in_sentence	sentence_3086
+3086_2	nsubj	3086_3
+3086_2	has_surface_form	Heart
+3086_2	part_of_entity	A Hungry Heart
+3086_1	is_in_sentence	sentence_3086
+3086_1	compound	3086_2
+3086_1	has_surface_form	Hungry
+3086_1	part_of_entity	A Hungry Heart
+3086_3	is_in_sentence	sentence_3086
+3086_3	ROOT	3086_3
+3086_3	has_surface_form	is
+3086_4	is_in_sentence	sentence_3086
+3086_4	det	3086_8
+3086_4	has_surface_form	a
+3086_8	is_in_sentence	sentence_3086
+3086_8	attr	3086_3
+3086_8	has_surface_form	drama
+3086_5	is_in_sentence	sentence_3086
+3086_5	nummod	3086_8
+3086_5	has_surface_form	1917
+3086_6	is_in_sentence	sentence_3086
+3086_6	amod	3086_7
+3086_6	has_surface_form	silent
+3086_7	is_in_sentence	sentence_3086
+3086_7	compound	3086_8
+3086_7	has_surface_form	film
+3086_9	is_in_sentence	sentence_3086
+3086_9	acl	3086_8
+3086_9	has_surface_form	directed
+3086_10	is_in_sentence	sentence_3086
+3086_10	agent	3086_9
+3086_10	has_surface_form	by
+3086_11	is_in_sentence	sentence_3086
+3086_11	compound	3086_12
+3086_11	has_surface_form	Emile
+3086_11	part_of_entity	Emile Chautard
+3086_12	is_in_sentence	sentence_3086
+3086_12	pobj	3086_10
+3086_12	has_surface_form	Chautard
+3086_12	part_of_entity	Emile Chautard
+3086_13	is_in_sentence	sentence_3086
+3086_13	cc	3086_9
+3086_13	has_surface_form	and
+3086_14	is_in_sentence	sentence_3086
+3086_14	conj	3086_9
+3086_14	has_surface_form	starring
+3086_15	is_in_sentence	sentence_3086
+3086_15	compound	3086_16
+3086_15	has_surface_form	Alice
+3086_16	is_in_sentence	sentence_3086
+3086_16	dobj	3086_14
+3086_16	has_surface_form	Brady
+3086_17	is_in_sentence	sentence_3086
+3086_17	punct	3086_3
+3086_17	has_surface_form	.
+3086_18	is_in_sentence	sentence_3086
+3086_18	dep	3086_18
+3086_18	has_surface_form	
+A Hungry Heart	surface_form	A Hungry Heart
+A Hungry Heart	movie-has-director	Emile Chautard
+Emile Chautard	surface_form	Emile Chautard

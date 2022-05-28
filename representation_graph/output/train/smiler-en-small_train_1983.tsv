@@ -1,0 +1,79 @@
+1982_0	is_in_sentence	sentence_1982
+1982_0	compound	1982_1
+1982_0	has_surface_form	Colt
+1982_0	part_of_entity	Colt Prather
+1982_1	is_in_sentence	sentence_1982
+1982_1	nsubj	1982_14
+1982_1	has_surface_form	Prather
+1982_1	part_of_entity	Colt Prather
+1982_14	is_in_sentence	sentence_1982
+1982_14	ROOT	1982_14
+1982_14	has_surface_form	is
+1982_2	is_in_sentence	sentence_1982
+1982_2	punct	1982_1
+1982_2	has_surface_form	(
+1982_3	is_in_sentence	sentence_1982
+1982_3	acl	1982_1
+1982_3	has_surface_form	born
+1982_4	is_in_sentence	sentence_1982
+1982_4	npadvmod	1982_3
+1982_4	has_surface_form	December
+1982_5	is_in_sentence	sentence_1982
+1982_5	nummod	1982_4
+1982_5	has_surface_form	10
+1982_6	is_in_sentence	sentence_1982
+1982_6	punct	1982_4
+1982_6	has_surface_form	,
+1982_7	is_in_sentence	sentence_1982
+1982_7	nummod	1982_4
+1982_7	has_surface_form	1971
+1982_8	is_in_sentence	sentence_1982
+1982_8	prep	1982_3
+1982_8	has_surface_form	in
+1982_9	is_in_sentence	sentence_1982
+1982_9	compound	1982_10
+1982_9	has_surface_form	El
+1982_10	is_in_sentence	sentence_1982
+1982_10	pobj	1982_8
+1982_10	has_surface_form	Paso
+1982_11	is_in_sentence	sentence_1982
+1982_11	punct	1982_10
+1982_11	has_surface_form	,
+1982_12	is_in_sentence	sentence_1982
+1982_12	appos	1982_10
+1982_12	has_surface_form	Texas
+1982_13	is_in_sentence	sentence_1982
+1982_13	punct	1982_10
+1982_13	has_surface_form	)
+1982_15	is_in_sentence	sentence_1982
+1982_15	det	1982_21
+1982_15	has_surface_form	an
+1982_21	is_in_sentence	sentence_1982
+1982_21	attr	1982_14
+1982_21	has_surface_form	songwriter
+1982_16	is_in_sentence	sentence_1982
+1982_16	amod	1982_21
+1982_16	has_surface_form	American
+1982_17	is_in_sentence	sentence_1982
+1982_17	compound	1982_18
+1982_17	has_surface_form	country
+1982_17	part_of_entity	country music
+1982_18	is_in_sentence	sentence_1982
+1982_18	compound	1982_21
+1982_18	has_surface_form	music
+1982_18	part_of_entity	country music
+1982_19	is_in_sentence	sentence_1982
+1982_19	compound	1982_21
+1982_19	has_surface_form	singer
+1982_20	is_in_sentence	sentence_1982
+1982_20	punct	1982_21
+1982_20	has_surface_form	-
+1982_22	is_in_sentence	sentence_1982
+1982_22	punct	1982_14
+1982_22	has_surface_form	.
+1982_23	is_in_sentence	sentence_1982
+1982_23	dep	1982_23
+1982_23	has_surface_form	
+Colt Prather	surface_form	Colt Prather
+Colt Prather	has-genre	country music
+country music	surface_form	country music

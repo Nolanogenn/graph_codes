@@ -1,0 +1,72 @@
+1403_0	is_in_sentence	sentence_1403
+1403_0	nmod	1403_5
+1403_0	has_surface_form	Institute
+1403_0	part_of_entity	Institute of Management and Computer Studies
+1403_5	is_in_sentence	sentence_1403
+1403_5	nsubj	1403_9
+1403_5	has_surface_form	Studies
+1403_5	part_of_entity	Institute of Management and Computer Studies
+1403_1	is_in_sentence	sentence_1403
+1403_1	prep	1403_0
+1403_1	has_surface_form	of
+1403_1	part_of_entity	Institute of Management and Computer Studies
+1403_2	is_in_sentence	sentence_1403
+1403_2	pobj	1403_1
+1403_2	has_surface_form	Management
+1403_2	part_of_entity	Institute of Management and Computer Studies
+1403_3	is_in_sentence	sentence_1403
+1403_3	cc	1403_2
+1403_3	has_surface_form	and
+1403_3	part_of_entity	Institute of Management and Computer Studies
+1403_4	is_in_sentence	sentence_1403
+1403_4	conj	1403_2
+1403_4	has_surface_form	Computer
+1403_4	part_of_entity	Institute of Management and Computer Studies
+1403_9	is_in_sentence	sentence_1403
+1403_9	ROOT	1403_9
+1403_9	has_surface_form	is
+1403_6	is_in_sentence	sentence_1403
+1403_6	punct	1403_5
+1403_6	has_surface_form	(
+1403_7	is_in_sentence	sentence_1403
+1403_7	appos	1403_5
+1403_7	has_surface_form	IMCOST
+1403_8	is_in_sentence	sentence_1403
+1403_8	punct	1403_5
+1403_8	has_surface_form	)
+1403_10	is_in_sentence	sentence_1403
+1403_10	det	1403_13
+1403_10	has_surface_form	an
+1403_13	is_in_sentence	sentence_1403
+1403_13	attr	1403_9
+1403_13	has_surface_form	school
+1403_11	is_in_sentence	sentence_1403
+1403_11	amod	1403_13
+1403_11	has_surface_form	Indian
+1403_12	is_in_sentence	sentence_1403
+1403_12	compound	1403_13
+1403_12	has_surface_form	business
+1403_14	is_in_sentence	sentence_1403
+1403_14	punct	1403_13
+1403_14	has_surface_form	,
+1403_15	is_in_sentence	sentence_1403
+1403_15	prep	1403_13
+1403_15	has_surface_form	in
+1403_16	is_in_sentence	sentence_1403
+1403_16	pobj	1403_15
+1403_16	is_entity	Thane
+Thane	surface_form	Thane
+1403_17	is_in_sentence	sentence_1403
+1403_17	punct	1403_16
+1403_17	has_surface_form	,
+1403_18	is_in_sentence	sentence_1403
+1403_18	appos	1403_16
+1403_18	has_surface_form	Maharashtra
+1403_19	is_in_sentence	sentence_1403
+1403_19	punct	1403_9
+1403_19	has_surface_form	.
+1403_20	is_in_sentence	sentence_1403
+1403_20	dep	1403_9
+1403_20	has_surface_form	
+Institute of Management and Computer Studies	surface_form	Institute of Management and Computer Studies
+Institute of Management and Computer Studies	is-where	Thane

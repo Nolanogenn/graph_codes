@@ -1,0 +1,59 @@
+21857_0	is_in_sentence	sentence_21857
+21857_0	compound	21857_1
+21857_0	has_surface_form	Homewood
+21857_0	part_of_entity	Homewood School
+21857_1	is_in_sentence	sentence_21857
+21857_1	nmod	21857_5
+21857_1	has_surface_form	School
+21857_1	part_of_entity	Homewood School
+21857_5	is_in_sentence	sentence_21857
+21857_5	nsubj	21857_6
+21857_5	has_surface_form	Centre
+21857_2	is_in_sentence	sentence_21857
+21857_2	cc	21857_1
+21857_2	has_surface_form	and
+21857_3	is_in_sentence	sentence_21857
+21857_3	compound	21857_5
+21857_3	has_surface_form	Sixth
+21857_4	is_in_sentence	sentence_21857
+21857_4	compound	21857_5
+21857_4	has_surface_form	Form
+21857_6	is_in_sentence	sentence_21857
+21857_6	ROOT	21857_6
+21857_6	has_surface_form	is
+21857_7	is_in_sentence	sentence_21857
+21857_7	det	21857_9
+21857_7	has_surface_form	an
+21857_9	is_in_sentence	sentence_21857
+21857_9	attr	21857_6
+21857_9	has_surface_form	school
+21857_8	is_in_sentence	sentence_21857
+21857_8	compound	21857_9
+21857_8	has_surface_form	academy
+21857_10	is_in_sentence	sentence_21857
+21857_10	prep	21857_9
+21857_10	has_surface_form	in
+21857_11	is_in_sentence	sentence_21857
+21857_11	pobj	21857_10
+21857_11	is_entity	Tenterden
+Tenterden	surface_form	Tenterden
+21857_12	is_in_sentence	sentence_21857
+21857_12	punct	21857_11
+21857_12	has_surface_form	,
+21857_13	is_in_sentence	sentence_21857
+21857_13	conj	21857_11
+21857_13	has_surface_form	Kent
+21857_14	is_in_sentence	sentence_21857
+21857_14	punct	21857_13
+21857_14	has_surface_form	,
+21857_15	is_in_sentence	sentence_21857
+21857_15	npadvmod	21857_13
+21857_15	has_surface_form	England
+21857_16	is_in_sentence	sentence_21857
+21857_16	punct	21857_6
+21857_16	has_surface_form	.
+21857_17	is_in_sentence	sentence_21857
+21857_17	dep	21857_6
+21857_17	has_surface_form	
+Homewood School	surface_form	Homewood School
+Homewood School	is-where	Tenterden

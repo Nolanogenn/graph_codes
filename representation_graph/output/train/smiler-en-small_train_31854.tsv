@@ -1,0 +1,61 @@
+31853_0	is_in_sentence	sentence_31853
+31853_0	compound	31853_1
+31853_0	has_surface_form	Saint
+31853_0	part_of_entity	Saint Vincent
+31853_1	is_in_sentence	sentence_31853
+31853_1	poss	31853_4
+31853_1	has_surface_form	Vincent
+31853_1	part_of_entity	Saint Vincent
+31853_4	is_in_sentence	sentence_31853
+31853_4	nsubj	31853_5
+31853_4	has_surface_form	peak
+31853_2	is_in_sentence	sentence_31853
+31853_2	case	31853_1
+31853_2	has_surface_form	's
+31853_3	is_in_sentence	sentence_31853
+31853_3	amod	31853_4
+31853_3	has_surface_form	highest
+31853_5	is_in_sentence	sentence_31853
+31853_5	ROOT	31853_5
+31853_5	has_surface_form	is
+31853_6	is_in_sentence	sentence_31853
+31853_6	compound	31853_8
+31853_6	has_surface_form	La
+31853_6	part_of_entity	La Soufrière
+31853_8	is_in_sentence	sentence_31853
+31853_8	attr	31853_5
+31853_8	has_surface_form	volcano
+31853_7	is_in_sentence	sentence_31853
+31853_7	compound	31853_8
+31853_7	has_surface_form	Soufrière
+31853_7	part_of_entity	La Soufrière
+31853_9	is_in_sentence	sentence_31853
+31853_9	prep	31853_5
+31853_9	has_surface_form	at
+31853_10	is_in_sentence	sentence_31853
+31853_10	nummod	31853_11
+31853_10	has_surface_form	1,234
+31853_11	is_in_sentence	sentence_31853
+31853_11	pobj	31853_9
+31853_11	has_surface_form	m
+31853_12	is_in_sentence	sentence_31853
+31853_12	punct	31853_11
+31853_12	has_surface_form	(
+31853_13	is_in_sentence	sentence_31853
+31853_13	nummod	31853_14
+31853_13	has_surface_form	4,049
+31853_14	is_in_sentence	sentence_31853
+31853_14	appos	31853_11
+31853_14	has_surface_form	ft
+31853_15	is_in_sentence	sentence_31853
+31853_15	punct	31853_11
+31853_15	has_surface_form	)
+31853_16	is_in_sentence	sentence_31853
+31853_16	punct	31853_5
+31853_16	has_surface_form	.
+31853_17	is_in_sentence	sentence_31853
+31853_17	dep	31853_17
+31853_17	has_surface_form	
+Saint Vincent	surface_form	Saint Vincent
+Saint Vincent	has-highest-mountain	La Soufrière
+La Soufrière	surface_form	La Soufrière

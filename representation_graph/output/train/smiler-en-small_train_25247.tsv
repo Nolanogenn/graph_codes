@@ -1,0 +1,63 @@
+25246_0	is_in_sentence	sentence_25246
+25246_0	compound	25246_1
+25246_0	has_surface_form	PeaceHealth
+25246_0	part_of_entity	PeaceHealth Southwest Medical Center
+25246_1	is_in_sentence	sentence_25246
+25246_1	compound	25246_3
+25246_1	has_surface_form	Southwest
+25246_1	part_of_entity	PeaceHealth Southwest Medical Center
+25246_3	is_in_sentence	sentence_25246
+25246_3	nsubj	25246_4
+25246_3	has_surface_form	Center
+25246_3	part_of_entity	PeaceHealth Southwest Medical Center
+25246_2	is_in_sentence	sentence_25246
+25246_2	compound	25246_3
+25246_2	has_surface_form	Medical
+25246_2	part_of_entity	PeaceHealth Southwest Medical Center
+25246_4	is_in_sentence	sentence_25246
+25246_4	ROOT	25246_4
+25246_4	has_surface_form	is
+25246_5	is_in_sentence	sentence_25246
+25246_5	det	25246_10
+25246_5	has_surface_form	a
+25246_10	is_in_sentence	sentence_25246
+25246_10	attr	25246_4
+25246_10	has_surface_form	hospital
+25246_10	part_of_entity	community hospital
+25246_6	is_in_sentence	sentence_25246
+25246_6	nummod	25246_8
+25246_6	has_surface_form	450
+25246_8	is_in_sentence	sentence_25246
+25246_8	compound	25246_10
+25246_8	has_surface_form	bed
+25246_7	is_in_sentence	sentence_25246
+25246_7	punct	25246_8
+25246_7	has_surface_form	-
+25246_9	is_in_sentence	sentence_25246
+25246_9	compound	25246_10
+25246_9	has_surface_form	community
+25246_9	part_of_entity	community hospital
+25246_11	is_in_sentence	sentence_25246
+25246_11	acl	25246_10
+25246_11	has_surface_form	located
+25246_12	is_in_sentence	sentence_25246
+25246_12	prep	25246_11
+25246_12	has_surface_form	in
+25246_13	is_in_sentence	sentence_25246
+25246_13	pobj	25246_12
+25246_13	has_surface_form	Vancouver
+25246_14	is_in_sentence	sentence_25246
+25246_14	punct	25246_13
+25246_14	has_surface_form	,
+25246_15	is_in_sentence	sentence_25246
+25246_15	appos	25246_13
+25246_15	has_surface_form	Washington
+25246_16	is_in_sentence	sentence_25246
+25246_16	punct	25246_4
+25246_16	has_surface_form	.
+25246_17	is_in_sentence	sentence_25246
+25246_17	dep	25246_4
+25246_17	has_surface_form	
+PeaceHealth Southwest Medical Center	surface_form	PeaceHealth Southwest Medical Center
+PeaceHealth Southwest Medical Center	has-type	community hospital
+community hospital	surface_form	community hospital

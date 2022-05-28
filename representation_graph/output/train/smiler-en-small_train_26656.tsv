@@ -1,0 +1,71 @@
+26655_0	is_in_sentence	sentence_26655
+26655_0	det	26655_2
+26655_0	has_surface_form	The
+26655_0	part_of_entity	The Orheim Company
+26655_2	is_in_sentence	sentence_26655
+26655_2	nsubj	26655_9
+26655_2	has_surface_form	Company
+26655_2	part_of_entity	The Orheim Company
+26655_1	is_in_sentence	sentence_26655
+26655_1	compound	26655_2
+26655_1	has_surface_form	Orheim
+26655_1	part_of_entity	The Orheim Company
+26655_9	is_in_sentence	sentence_26655
+26655_9	ROOT	26655_9
+26655_9	has_surface_form	is
+26655_3	is_in_sentence	sentence_26655
+26655_3	punct	26655_7
+26655_3	has_surface_form	(
+26655_7	is_in_sentence	sentence_26655
+26655_7	appos	26655_2
+26655_7	has_surface_form	Orheim
+26655_4	is_in_sentence	sentence_26655
+26655_4	nmod	26655_7
+26655_4	has_surface_form	Norwegian
+26655_5	is_in_sentence	sentence_26655
+26655_5	punct	26655_7
+26655_5	has_surface_form	:
+26655_6	is_in_sentence	sentence_26655
+26655_6	compound	26655_7
+26655_6	has_surface_form	Kompani
+26655_8	is_in_sentence	sentence_26655
+26655_8	punct	26655_2
+26655_8	has_surface_form	)
+26655_10	is_in_sentence	sentence_26655
+26655_10	det	26655_14
+26655_10	has_surface_form	a
+26655_14	is_in_sentence	sentence_26655
+26655_14	attr	26655_9
+26655_14	has_surface_form	film
+26655_11	is_in_sentence	sentence_26655
+26655_11	nummod	26655_14
+26655_11	has_surface_form	2012
+26655_12	is_in_sentence	sentence_26655
+26655_12	amod	26655_14
+26655_12	has_surface_form	Norwegian
+26655_13	is_in_sentence	sentence_26655
+26655_13	compound	26655_14
+26655_13	has_surface_form	drama
+26655_15	is_in_sentence	sentence_26655
+26655_15	acl	26655_14
+26655_15	has_surface_form	directed
+26655_16	is_in_sentence	sentence_26655
+26655_16	agent	26655_15
+26655_16	has_surface_form	by
+26655_17	is_in_sentence	sentence_26655
+26655_17	compound	26655_18
+26655_17	has_surface_form	Arild
+26655_17	part_of_entity	Arild Andresen
+26655_18	is_in_sentence	sentence_26655
+26655_18	pobj	26655_16
+26655_18	has_surface_form	Andresen
+26655_18	part_of_entity	Arild Andresen
+26655_19	is_in_sentence	sentence_26655
+26655_19	punct	26655_9
+26655_19	has_surface_form	.
+26655_20	is_in_sentence	sentence_26655
+26655_20	dep	26655_20
+26655_20	has_surface_form	
+The Orheim Company	surface_form	The Orheim Company
+The Orheim Company	movie-has-director	Arild Andresen
+Arild Andresen	surface_form	Arild Andresen

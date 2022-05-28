@@ -1,0 +1,64 @@
+12701_0	is_in_sentence	sentence_12701
+12701_0	compound	12701_1
+12701_0	has_surface_form	Mike
+12701_0	part_of_entity	Mike Gravier
+12701_1	is_in_sentence	sentence_12701
+12701_1	nsubj	12701_9
+12701_1	has_surface_form	Gravier
+12701_1	part_of_entity	Mike Gravier
+12701_9	is_in_sentence	sentence_12701
+12701_9	ROOT	12701_9
+12701_9	has_surface_form	is
+12701_2	is_in_sentence	sentence_12701
+12701_2	punct	12701_3
+12701_2	has_surface_form	(
+12701_3	is_in_sentence	sentence_12701
+12701_3	acl	12701_1
+12701_3	has_surface_form	born
+12701_4	is_in_sentence	sentence_12701
+12701_4	npadvmod	12701_3
+12701_4	has_surface_form	September
+12701_5	is_in_sentence	sentence_12701
+12701_5	nummod	12701_4
+12701_5	has_surface_form	27
+12701_6	is_in_sentence	sentence_12701
+12701_6	punct	12701_4
+12701_6	has_surface_form	,
+12701_7	is_in_sentence	sentence_12701
+12701_7	nummod	12701_4
+12701_7	has_surface_form	1960
+12701_8	is_in_sentence	sentence_12701
+12701_8	punct	12701_1
+12701_8	has_surface_form	)
+12701_10	is_in_sentence	sentence_12701
+12701_10	det	12701_13
+12701_10	has_surface_form	an
+12701_13	is_in_sentence	sentence_12701
+12701_13	attr	12701_9
+12701_13	has_surface_form	coach
+12701_13	part_of_entity	football coach
+12701_11	is_in_sentence	sentence_12701
+12701_11	amod	12701_13
+12701_11	has_surface_form	American
+12701_12	is_in_sentence	sentence_12701
+12701_12	compound	12701_13
+12701_12	has_surface_form	football
+12701_12	part_of_entity	football coach
+12701_14	is_in_sentence	sentence_12701
+12701_14	cc	12701_13
+12701_14	has_surface_form	and
+12701_15	is_in_sentence	sentence_12701
+12701_15	amod	12701_16
+12701_15	has_surface_form	former
+12701_16	is_in_sentence	sentence_12701
+12701_16	conj	12701_13
+12701_16	has_surface_form	player
+12701_17	is_in_sentence	sentence_12701
+12701_17	punct	12701_9
+12701_17	has_surface_form	.
+12701_18	is_in_sentence	sentence_12701
+12701_18	dep	12701_18
+12701_18	has_surface_form	
+Mike Gravier	surface_form	Mike Gravier
+Mike Gravier	has-type	football coach
+football coach	surface_form	football coach

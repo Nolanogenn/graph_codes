@@ -1,0 +1,88 @@
+406_0	is_in_sentence	sentence_406
+406_0	compound	406_1
+406_0	has_surface_form	Align
+406_0	part_of_entity	Align Technology
+406_1	is_in_sentence	sentence_406
+406_1	nsubjpass	406_3
+406_1	has_surface_form	Technology
+406_1	part_of_entity	Align Technology
+406_3	is_in_sentence	sentence_406
+406_3	ROOT	406_3
+406_3	has_surface_form	founded
+406_2	is_in_sentence	sentence_406
+406_2	auxpass	406_3
+406_2	has_surface_form	was
+406_4	is_in_sentence	sentence_406
+406_4	agent	406_3
+406_4	has_surface_form	by
+406_5	is_in_sentence	sentence_406
+406_5	compound	406_6
+406_5	has_surface_form	Tomer
+406_5	part_of_entity	Tomer Maman
+406_6	is_in_sentence	sentence_406
+406_6	pobj	406_4
+406_6	has_surface_form	Maman
+406_6	part_of_entity	Tomer Maman
+406_7	is_in_sentence	sentence_406
+406_7	punct	406_6
+406_7	has_surface_form	,
+406_8	is_in_sentence	sentence_406
+406_8	compound	406_9
+406_8	has_surface_form	Zia
+406_9	is_in_sentence	sentence_406
+406_9	conj	406_6
+406_9	has_surface_form	Chishti
+406_10	is_in_sentence	sentence_406
+406_10	cc	406_9
+406_10	has_surface_form	and
+406_11	is_in_sentence	sentence_406
+406_11	compound	406_12
+406_11	has_surface_form	Kelsey
+406_12	is_in_sentence	sentence_406
+406_12	conj	406_9
+406_12	has_surface_form	Wirth
+406_13	is_in_sentence	sentence_406
+406_13	prep	406_3
+406_13	has_surface_form	in
+406_14	is_in_sentence	sentence_406
+406_14	pobj	406_13
+406_14	has_surface_form	1997
+406_15	is_in_sentence	sentence_406
+406_15	cc	406_3
+406_15	has_surface_form	and
+406_16	is_in_sentence	sentence_406
+406_16	conj	406_3
+406_16	has_surface_form	began
+406_17	is_in_sentence	sentence_406
+406_17	xcomp	406_16
+406_17	has_surface_form	working
+406_18	is_in_sentence	sentence_406
+406_18	prep	406_17
+406_18	has_surface_form	on
+406_19	is_in_sentence	sentence_406
+406_19	det	406_20
+406_19	has_surface_form	the
+406_20	is_in_sentence	sentence_406
+406_20	pobj	406_18
+406_20	has_surface_form	development
+406_21	is_in_sentence	sentence_406
+406_21	prep	406_20
+406_21	has_surface_form	of
+406_22	is_in_sentence	sentence_406
+406_22	det	406_24
+406_22	has_surface_form	a
+406_24	is_in_sentence	sentence_406
+406_24	pobj	406_21
+406_24	has_surface_form	aligner
+406_23	is_in_sentence	sentence_406
+406_23	amod	406_24
+406_23	has_surface_form	clear
+406_25	is_in_sentence	sentence_406
+406_25	punct	406_3
+406_25	has_surface_form	.
+406_26	is_in_sentence	sentence_406
+406_26	dep	406_26
+406_26	has_surface_form	
+Align Technology	surface_form	Align Technology
+Align Technology	org-has-founder	Tomer Maman
+Tomer Maman	surface_form	Tomer Maman

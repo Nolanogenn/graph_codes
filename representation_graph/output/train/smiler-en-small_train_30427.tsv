@@ -1,0 +1,114 @@
+30426_0	is_in_sentence	sentence_30426
+30426_0	det	30426_1
+30426_0	has_surface_form	A
+30426_0	part_of_entity	A Question of Taste
+30426_1	is_in_sentence	sentence_30426
+30426_1	nsubj	30426_24
+30426_1	has_surface_form	Question
+30426_1	part_of_entity	A Question of Taste
+30426_24	is_in_sentence	sentence_30426
+30426_24	ROOT	30426_24
+30426_24	has_surface_form	is
+30426_2	is_in_sentence	sentence_30426
+30426_2	prep	30426_1
+30426_2	has_surface_form	of
+30426_2	part_of_entity	A Question of Taste
+30426_3	is_in_sentence	sentence_30426
+30426_3	pobj	30426_2
+30426_3	has_surface_form	Taste
+30426_3	part_of_entity	A Question of Taste
+30426_4	is_in_sentence	sentence_30426
+30426_4	punct	30426_5
+30426_4	has_surface_form	(
+30426_5	is_in_sentence	sentence_30426
+30426_5	appos	30426_1
+30426_5	has_surface_form	French
+30426_6	is_in_sentence	sentence_30426
+30426_6	punct	30426_5
+30426_6	has_surface_form	:
+30426_7	is_in_sentence	sentence_30426
+30426_7	compound	30426_10
+30426_7	has_surface_form	Une
+30426_10	is_in_sentence	sentence_30426
+30426_10	appos	30426_1
+30426_10	has_surface_form	goût
+30426_8	is_in_sentence	sentence_30426
+30426_8	compound	30426_10
+30426_8	has_surface_form	affaire
+30426_9	is_in_sentence	sentence_30426
+30426_9	nmod	30426_10
+30426_9	has_surface_form	de
+30426_11	is_in_sentence	sentence_30426
+30426_11	punct	30426_10
+30426_11	has_surface_form	,
+30426_12	is_in_sentence	sentence_30426
+30426_12	advmod	30426_13
+30426_12	has_surface_form	also
+30426_13	is_in_sentence	sentence_30426
+30426_13	acl	30426_10
+30426_13	has_surface_form	known
+30426_14	is_in_sentence	sentence_30426
+30426_14	prep	30426_13
+30426_14	has_surface_form	as
+30426_15	is_in_sentence	sentence_30426
+30426_15	det	30426_16
+30426_15	has_surface_form	A
+30426_16	is_in_sentence	sentence_30426
+30426_16	pobj	30426_14
+30426_16	has_surface_form	Matter
+30426_17	is_in_sentence	sentence_30426
+30426_17	prep	30426_16
+30426_17	has_surface_form	of
+30426_18	is_in_sentence	sentence_30426
+30426_18	pobj	30426_17
+30426_18	has_surface_form	Taste
+30426_19	is_in_sentence	sentence_30426
+30426_19	prep	30426_16
+30426_19	has_surface_form	in
+30426_20	is_in_sentence	sentence_30426
+30426_20	det	30426_22
+30426_20	has_surface_form	the
+30426_22	is_in_sentence	sentence_30426
+30426_22	pobj	30426_19
+30426_22	has_surface_form	States
+30426_21	is_in_sentence	sentence_30426
+30426_21	compound	30426_22
+30426_21	has_surface_form	United
+30426_23	is_in_sentence	sentence_30426
+30426_23	punct	30426_10
+30426_23	has_surface_form	)
+30426_25	is_in_sentence	sentence_30426
+30426_25	det	30426_28
+30426_25	has_surface_form	a
+30426_28	is_in_sentence	sentence_30426
+30426_28	attr	30426_24
+30426_28	has_surface_form	film
+30426_26	is_in_sentence	sentence_30426
+30426_26	nummod	30426_28
+30426_26	has_surface_form	2000
+30426_27	is_in_sentence	sentence_30426
+30426_27	amod	30426_28
+30426_27	has_surface_form	French
+30426_29	is_in_sentence	sentence_30426
+30426_29	acl	30426_28
+30426_29	has_surface_form	directed
+30426_30	is_in_sentence	sentence_30426
+30426_30	agent	30426_29
+30426_30	has_surface_form	by
+30426_31	is_in_sentence	sentence_30426
+30426_31	compound	30426_32
+30426_31	has_surface_form	Bernard
+30426_31	part_of_entity	Bernard Rapp
+30426_32	is_in_sentence	sentence_30426
+30426_32	pobj	30426_30
+30426_32	has_surface_form	Rapp
+30426_32	part_of_entity	Bernard Rapp
+30426_33	is_in_sentence	sentence_30426
+30426_33	punct	30426_24
+30426_33	has_surface_form	.
+30426_34	is_in_sentence	sentence_30426
+30426_34	dep	30426_34
+30426_34	has_surface_form	
+A Question of Taste	surface_form	A Question of Taste
+A Question of Taste	movie-has-director	Bernard Rapp
+Bernard Rapp	surface_form	Bernard Rapp

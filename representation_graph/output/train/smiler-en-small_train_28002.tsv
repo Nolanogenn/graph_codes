@@ -1,0 +1,80 @@
+28001_0	is_in_sentence	sentence_28001
+28001_0	nsubjpass	28001_10
+28001_0	has_surface_form	Santiago
+28001_10	is_in_sentence	sentence_28001
+28001_10	ROOT	28001_10
+28001_10	has_surface_form	born
+28001_1	is_in_sentence	sentence_28001
+28001_1	punct	28001_3
+28001_1	has_surface_form	(
+28001_3	is_in_sentence	sentence_28001
+28001_3	appos	28001_0
+28001_3	has_surface_form	name
+28001_2	is_in_sentence	sentence_28001
+28001_2	compound	28001_3
+28001_2	has_surface_form	birth
+28001_4	is_in_sentence	sentence_28001
+28001_4	punct	28001_0
+28001_4	has_surface_form	:
+28001_5	is_in_sentence	sentence_28001
+28001_5	compound	28001_7
+28001_5	has_surface_form	Zoraida
+28001_5	part_of_entity	Zoraida Santiago Buitrago
+28001_7	is_in_sentence	sentence_28001
+28001_7	appos	28001_0
+28001_7	has_surface_form	Buitrago
+28001_7	part_of_entity	Zoraida Santiago Buitrago
+28001_6	is_in_sentence	sentence_28001
+28001_6	compound	28001_7
+28001_6	has_surface_form	Santiago
+28001_6	part_of_entity	Zoraida Santiago Buitrago
+28001_8	is_in_sentence	sentence_28001
+28001_8	punct	28001_0
+28001_8	has_surface_form	)
+28001_9	is_in_sentence	sentence_28001
+28001_9	auxpass	28001_10
+28001_9	has_surface_form	was
+28001_11	is_in_sentence	sentence_28001
+28001_11	prep	28001_10
+28001_11	has_surface_form	in
+28001_12	is_in_sentence	sentence_28001
+28001_12	pobj	28001_11
+28001_12	has_surface_form	Santurce
+28001_13	is_in_sentence	sentence_28001
+28001_13	punct	28001_12
+28001_13	has_surface_form	,
+28001_14	is_in_sentence	sentence_28001
+28001_14	compound	28001_15
+28001_14	has_surface_form	Puerto
+28001_15	is_in_sentence	sentence_28001
+28001_15	appos	28001_12
+28001_15	has_surface_form	Rico
+28001_16	is_in_sentence	sentence_28001
+28001_16	prep	28001_10
+28001_16	has_surface_form	to
+28001_17	is_in_sentence	sentence_28001
+28001_17	compound	28001_18
+28001_17	has_surface_form	Domingo
+28001_17	part_of_entity	Domingo Santiago
+28001_18	is_in_sentence	sentence_28001
+28001_18	pobj	28001_16
+28001_18	has_surface_form	Santiago
+28001_18	part_of_entity	Domingo Santiago
+28001_19	is_in_sentence	sentence_28001
+28001_19	cc	28001_18
+28001_19	has_surface_form	and
+28001_20	is_in_sentence	sentence_28001
+28001_20	compound	28001_21
+28001_20	has_surface_form	Zayda
+28001_21	is_in_sentence	sentence_28001
+28001_21	conj	28001_18
+28001_21	has_surface_form	Buitrago
+28001_22	is_in_sentence	sentence_28001
+28001_22	punct	28001_10
+28001_22	has_surface_form	.
+28001_23	is_in_sentence	sentence_28001
+28001_23	dep	28001_10
+28001_23	has_surface_form	
+Zoraida Santiago Buitrago	surface_form	Zoraida Santiago Buitrago
+Zoraida Santiago Buitrago	has-parent	Domingo Santiago
+Domingo Santiago	surface_form	Domingo Santiago

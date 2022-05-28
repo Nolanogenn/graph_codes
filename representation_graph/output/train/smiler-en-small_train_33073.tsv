@@ -1,0 +1,62 @@
+33072_0	is_in_sentence	sentence_33072
+33072_0	compound	33072_1
+33072_0	has_surface_form	Nirmiti
+33072_0	part_of_entity	Nirmiti Sawant
+33072_1	is_in_sentence	sentence_33072
+33072_1	nsubj	33072_2
+33072_1	has_surface_form	Sawant
+33072_1	part_of_entity	Nirmiti Sawant
+33072_2	is_in_sentence	sentence_33072
+33072_2	ROOT	33072_2
+33072_2	has_surface_form	is
+33072_3	is_in_sentence	sentence_33072
+33072_3	det	33072_5
+33072_3	has_surface_form	a
+33072_5	is_in_sentence	sentence_33072
+33072_5	attr	33072_2
+33072_5	is_entity	actress
+33072_4	is_in_sentence	sentence_33072
+33072_4	compound	33072_5
+33072_4	has_surface_form	Marathi
+actress	surface_form	actress
+33072_6	is_in_sentence	sentence_33072
+33072_6	punct	33072_5
+33072_6	has_surface_form	,
+33072_7	is_in_sentence	sentence_33072
+33072_7	nsubj	33072_9
+33072_7	has_surface_form	who
+33072_9	is_in_sentence	sentence_33072
+33072_9	relcl	33072_5
+33072_9	has_surface_form	acts
+33072_8	is_in_sentence	sentence_33072
+33072_8	advmod	33072_9
+33072_8	has_surface_form	mainly
+33072_10	is_in_sentence	sentence_33072
+33072_10	prep	33072_9
+33072_10	has_surface_form	in
+33072_11	is_in_sentence	sentence_33072
+33072_11	compound	33072_12
+33072_11	has_surface_form	Marathi
+33072_12	is_in_sentence	sentence_33072
+33072_12	pobj	33072_10
+33072_12	has_surface_form	films
+33072_13	is_in_sentence	sentence_33072
+33072_13	punct	33072_12
+33072_13	has_surface_form	,
+33072_14	is_in_sentence	sentence_33072
+33072_14	conj	33072_12
+33072_14	has_surface_form	television
+33072_15	is_in_sentence	sentence_33072
+33072_15	cc	33072_14
+33072_15	has_surface_form	and
+33072_16	is_in_sentence	sentence_33072
+33072_16	conj	33072_14
+33072_16	has_surface_form	dramas
+33072_17	is_in_sentence	sentence_33072
+33072_17	punct	33072_2
+33072_17	has_surface_form	.
+33072_18	is_in_sentence	sentence_33072
+33072_18	dep	33072_2
+33072_18	has_surface_form	
+Nirmiti Sawant	surface_form	Nirmiti Sawant
+Nirmiti Sawant	has-occupation	actress

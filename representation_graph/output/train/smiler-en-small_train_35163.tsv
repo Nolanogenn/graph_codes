@@ -1,0 +1,87 @@
+35162_0	is_in_sentence	sentence_35162
+35162_0	det	35162_4
+35162_0	has_surface_form	The
+35162_4	is_in_sentence	sentence_35162
+35162_4	nsubj	35162_5
+35162_4	has_surface_form	District
+35162_4	part_of_entity	Celina City School District
+35162_1	is_in_sentence	sentence_35162
+35162_1	compound	35162_2
+35162_1	has_surface_form	Celina
+35162_1	part_of_entity	Celina City School District
+35162_2	is_in_sentence	sentence_35162
+35162_2	compound	35162_3
+35162_2	has_surface_form	City
+35162_2	part_of_entity	Celina City School District
+35162_3	is_in_sentence	sentence_35162
+35162_3	compound	35162_4
+35162_3	has_surface_form	School
+35162_3	part_of_entity	Celina City School District
+35162_5	is_in_sentence	sentence_35162
+35162_5	ROOT	35162_5
+35162_5	has_surface_form	is
+35162_6	is_in_sentence	sentence_35162
+35162_6	det	35162_9
+35162_6	has_surface_form	a
+35162_9	is_in_sentence	sentence_35162
+35162_9	attr	35162_5
+35162_9	has_surface_form	district
+35162_7	is_in_sentence	sentence_35162
+35162_7	amod	35162_8
+35162_7	has_surface_form	public
+35162_8	is_in_sentence	sentence_35162
+35162_8	compound	35162_9
+35162_8	has_surface_form	school
+35162_10	is_in_sentence	sentence_35162
+35162_10	prep	35162_9
+35162_10	has_surface_form	in
+35162_11	is_in_sentence	sentence_35162
+35162_11	compound	35162_12
+35162_11	has_surface_form	Mercer
+35162_11	part_of_entity	Mercer County
+35162_12	is_in_sentence	sentence_35162
+35162_12	pobj	35162_10
+35162_12	has_surface_form	County
+35162_12	part_of_entity	Mercer County
+35162_13	is_in_sentence	sentence_35162
+35162_13	punct	35162_12
+35162_13	has_surface_form	,
+35162_14	is_in_sentence	sentence_35162
+35162_14	appos	35162_12
+35162_14	has_surface_form	Ohio
+35162_15	is_in_sentence	sentence_35162
+35162_15	punct	35162_14
+35162_15	has_surface_form	,
+35162_16	is_in_sentence	sentence_35162
+35162_16	compound	35162_17
+35162_16	has_surface_form	United
+35162_17	is_in_sentence	sentence_35162
+35162_17	conj	35162_14
+35162_17	has_surface_form	States
+35162_18	is_in_sentence	sentence_35162
+35162_18	punct	35162_12
+35162_18	has_surface_form	,
+35162_19	is_in_sentence	sentence_35162
+35162_19	acl	35162_9
+35162_19	has_surface_form	based
+35162_20	is_in_sentence	sentence_35162
+35162_20	prep	35162_19
+35162_20	has_surface_form	in
+35162_21	is_in_sentence	sentence_35162
+35162_21	pobj	35162_20
+35162_21	has_surface_form	Celina
+35162_22	is_in_sentence	sentence_35162
+35162_22	punct	35162_21
+35162_22	has_surface_form	,
+35162_23	is_in_sentence	sentence_35162
+35162_23	appos	35162_21
+35162_23	has_surface_form	Ohio
+35162_24	is_in_sentence	sentence_35162
+35162_24	punct	35162_5
+35162_24	has_surface_form	.
+35162_25	is_in_sentence	sentence_35162
+35162_25	dep	35162_5
+35162_25	has_surface_form	
+Celina City School District	surface_form	Celina City School District
+Celina City School District	is-where	Mercer County
+Mercer County	surface_form	Mercer County

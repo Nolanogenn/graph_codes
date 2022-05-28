@@ -1,0 +1,90 @@
+20303_0	is_in_sentence	sentence_20303
+20303_0	det	20303_4
+20303_0	has_surface_form	The
+20303_4	is_in_sentence	sentence_20303
+20303_4	nsubj	20303_8
+20303_4	has_surface_form	Library
+20303_4	part_of_entity	Harold B. Lee Library
+20303_1	is_in_sentence	sentence_20303
+20303_1	compound	20303_4
+20303_1	has_surface_form	Harold
+20303_1	part_of_entity	Harold B. Lee Library
+20303_2	is_in_sentence	sentence_20303
+20303_2	compound	20303_4
+20303_2	has_surface_form	B.
+20303_2	part_of_entity	Harold B. Lee Library
+20303_3	is_in_sentence	sentence_20303
+20303_3	compound	20303_4
+20303_3	has_surface_form	Lee
+20303_3	part_of_entity	Harold B. Lee Library
+20303_8	is_in_sentence	sentence_20303
+20303_8	ROOT	20303_8
+20303_8	has_surface_form	is
+20303_5	is_in_sentence	sentence_20303
+20303_5	punct	20303_6
+20303_5	has_surface_form	(
+20303_6	is_in_sentence	sentence_20303
+20303_6	appos	20303_4
+20303_6	has_surface_form	HBLL
+20303_7	is_in_sentence	sentence_20303
+20303_7	punct	20303_6
+20303_7	has_surface_form	)
+20303_9	is_in_sentence	sentence_20303
+20303_9	det	20303_12
+20303_9	has_surface_form	the
+20303_12	is_in_sentence	sentence_20303
+20303_12	attr	20303_8
+20303_12	has_surface_form	library
+20303_12	part_of_entity	academic library
+20303_10	is_in_sentence	sentence_20303
+20303_10	amod	20303_12
+20303_10	has_surface_form	main
+20303_11	is_in_sentence	sentence_20303
+20303_11	amod	20303_12
+20303_11	has_surface_form	academic
+20303_11	part_of_entity	academic library
+20303_13	is_in_sentence	sentence_20303
+20303_13	prep	20303_12
+20303_13	has_surface_form	of
+20303_14	is_in_sentence	sentence_20303
+20303_14	compound	20303_16
+20303_14	has_surface_form	Brigham
+20303_16	is_in_sentence	sentence_20303
+20303_16	pobj	20303_13
+20303_16	has_surface_form	University
+20303_15	is_in_sentence	sentence_20303
+20303_15	compound	20303_16
+20303_15	has_surface_form	Young
+20303_17	is_in_sentence	sentence_20303
+20303_17	punct	20303_16
+20303_17	has_surface_form	(
+20303_18	is_in_sentence	sentence_20303
+20303_18	appos	20303_16
+20303_18	has_surface_form	BYU
+20303_19	is_in_sentence	sentence_20303
+20303_19	punct	20303_16
+20303_19	has_surface_form	)
+20303_20	is_in_sentence	sentence_20303
+20303_20	acl	20303_16
+20303_20	has_surface_form	located
+20303_21	is_in_sentence	sentence_20303
+20303_21	prep	20303_20
+20303_21	has_surface_form	in
+20303_22	is_in_sentence	sentence_20303
+20303_22	pobj	20303_21
+20303_22	has_surface_form	Provo
+20303_23	is_in_sentence	sentence_20303
+20303_23	punct	20303_22
+20303_23	has_surface_form	,
+20303_24	is_in_sentence	sentence_20303
+20303_24	appos	20303_22
+20303_24	has_surface_form	Utah
+20303_25	is_in_sentence	sentence_20303
+20303_25	punct	20303_8
+20303_25	has_surface_form	.
+20303_26	is_in_sentence	sentence_20303
+20303_26	dep	20303_8
+20303_26	has_surface_form	
+Harold B. Lee Library	surface_form	Harold B. Lee Library
+Harold B. Lee Library	has-type	academic library
+academic library	surface_form	academic library

@@ -1,0 +1,56 @@
+5999_0	is_in_sentence	sentence_5999
+5999_0	compound	5999_1
+5999_0	has_surface_form	Blanket
+5999_0	part_of_entity	Blanket Music
+5999_1	is_in_sentence	sentence_5999
+5999_1	nsubj	5999_2
+5999_1	has_surface_form	Music
+5999_1	part_of_entity	Blanket Music
+5999_2	is_in_sentence	sentence_5999
+5999_2	ROOT	5999_2
+5999_2	has_surface_form	is
+5999_3	is_in_sentence	sentence_5999
+5999_3	det	5999_10
+5999_3	has_surface_form	a
+5999_10	is_in_sentence	sentence_5999
+5999_10	attr	5999_2
+5999_10	has_surface_form	band
+5999_4	is_in_sentence	sentence_5999
+5999_4	npadvmod	5999_6
+5999_4	is_entity	jazz
+5999_6	is_in_sentence	sentence_5999
+5999_6	amod	5999_10
+5999_6	has_surface_form	influenced
+jazz	surface_form	jazz
+5999_5	is_in_sentence	sentence_5999
+5999_5	punct	5999_6
+5999_5	has_surface_form	-
+5999_7	is_in_sentence	sentence_5999
+5999_7	compound	5999_9
+5999_7	has_surface_form	indie
+5999_9	is_in_sentence	sentence_5999
+5999_9	compound	5999_10
+5999_9	has_surface_form	rock
+5999_8	is_in_sentence	sentence_5999
+5999_8	punct	5999_9
+5999_8	has_surface_form	-
+5999_11	is_in_sentence	sentence_5999
+5999_11	prep	5999_10
+5999_11	has_surface_form	from
+5999_12	is_in_sentence	sentence_5999
+5999_12	pobj	5999_11
+5999_12	has_surface_form	Portland
+5999_13	is_in_sentence	sentence_5999
+5999_13	punct	5999_12
+5999_13	has_surface_form	,
+5999_14	is_in_sentence	sentence_5999
+5999_14	appos	5999_12
+5999_14	has_surface_form	Oregon
+5999_15	is_in_sentence	sentence_5999
+5999_15	punct	5999_2
+5999_15	has_surface_form	.
+5999_16	is_in_sentence	sentence_5999
+5999_16	dep	5999_16
+5999_16	has_surface_form	
+Blanket Music	surface_form	Blanket Music
+Blanket Music	has-genre	jazz

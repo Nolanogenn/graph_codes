@@ -1,0 +1,74 @@
+1768_0	is_in_sentence	sentence_1768
+1768_0	nmod	1768_4
+1768_0	has_surface_form	Cookies
+1768_4	is_in_sentence	sentence_1768
+1768_4	nsubj	1768_5
+1768_4	has_surface_form	Beans
+1768_1	is_in_sentence	sentence_1768
+1768_1	case	1768_0
+1768_1	has_surface_form	'
+1768_2	is_in_sentence	sentence_1768
+1768_2	cc	1768_0
+1768_2	has_surface_form	N
+1768_3	is_in_sentence	sentence_1768
+1768_3	punct	1768_0
+1768_3	has_surface_form	'
+1768_5	is_in_sentence	sentence_1768
+1768_5	ROOT	1768_5
+1768_5	has_surface_form	are
+1768_6	is_in_sentence	sentence_1768
+1768_6	det	1768_10
+1768_6	has_surface_form	a
+1768_10	is_in_sentence	sentence_1768
+1768_10	attr	1768_5
+1768_10	has_surface_form	group
+1768_7	is_in_sentence	sentence_1768
+1768_7	amod	1768_10
+1768_7	has_surface_form	Swedish
+1768_8	is_in_sentence	sentence_1768
+1768_8	compound	1768_9
+1768_8	has_surface_form	country
+1768_9	is_in_sentence	sentence_1768
+1768_9	compound	1768_10
+1768_9	has_surface_form	music
+1768_11	is_in_sentence	sentence_1768
+1768_11	acl	1768_10
+1768_11	has_surface_form	consisting
+1768_12	is_in_sentence	sentence_1768
+1768_12	prep	1768_11
+1768_12	has_surface_form	of
+1768_13	is_in_sentence	sentence_1768
+1768_13	compound	1768_14
+1768_13	has_surface_form	Frida
+1768_13	part_of_entity	Frida Öhrn
+1768_14	is_in_sentence	sentence_1768
+1768_14	pobj	1768_12
+1768_14	has_surface_form	Öhrn
+1768_14	part_of_entity	Frida Öhrn
+1768_15	is_in_sentence	sentence_1768
+1768_15	punct	1768_14
+1768_15	has_surface_form	,
+1768_16	is_in_sentence	sentence_1768
+1768_16	compound	1768_17
+1768_16	has_surface_form	Linda
+1768_17	is_in_sentence	sentence_1768
+1768_17	conj	1768_14
+1768_17	has_surface_form	Ström
+1768_18	is_in_sentence	sentence_1768
+1768_18	cc	1768_17
+1768_18	has_surface_form	and
+1768_19	is_in_sentence	sentence_1768
+1768_19	compound	1768_20
+1768_19	has_surface_form	Charlotte
+1768_20	is_in_sentence	sentence_1768
+1768_20	conj	1768_17
+1768_20	has_surface_form	Centervall
+1768_21	is_in_sentence	sentence_1768
+1768_21	punct	1768_5
+1768_21	has_surface_form	.
+1768_22	is_in_sentence	sentence_1768
+1768_22	dep	1768_22
+1768_22	has_surface_form	
+Cookies 'N' Beans	surface_form	Cookies 'N' Beans
+Cookies 'N' Beans	org-has-member	Frida Öhrn
+Frida Öhrn	surface_form	Frida Öhrn

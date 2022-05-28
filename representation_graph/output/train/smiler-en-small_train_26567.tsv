@@ -1,0 +1,60 @@
+26566_0	is_in_sentence	sentence_26566
+26566_0	compound	26566_1
+26566_0	has_surface_form	Blue
+26566_0	part_of_entity	Blue Moon Aviation
+26566_1	is_in_sentence	sentence_26566
+26566_1	compound	26566_2
+26566_1	has_surface_form	Moon
+26566_1	part_of_entity	Blue Moon Aviation
+26566_2	is_in_sentence	sentence_26566
+26566_2	nsubj	26566_3
+26566_2	has_surface_form	Aviation
+26566_2	part_of_entity	Blue Moon Aviation
+26566_3	is_in_sentence	sentence_26566
+26566_3	ROOT	26566_3
+26566_3	has_surface_form	is
+26566_4	is_in_sentence	sentence_26566
+26566_4	det	26566_7
+26566_4	has_surface_form	a
+26566_7	is_in_sentence	sentence_26566
+26566_7	attr	26566_3
+26566_7	has_surface_form	airline
+26566_5	is_in_sentence	sentence_26566
+26566_5	compound	26566_7
+26566_5	has_surface_form	charter
+26566_6	is_in_sentence	sentence_26566
+26566_6	compound	26566_7
+26566_6	has_surface_form	passenger
+26566_8	is_in_sentence	sentence_26566
+26566_8	acl	26566_7
+26566_8	has_surface_form	based
+26566_9	is_in_sentence	sentence_26566
+26566_9	prep	26566_8
+26566_9	has_surface_form	in
+26566_10	is_in_sentence	sentence_26566
+26566_10	pobj	26566_9
+26566_10	is_entity	Minneapolis
+Minneapolis	surface_form	Minneapolis
+26566_11	is_in_sentence	sentence_26566
+26566_11	punct	26566_10
+26566_11	has_surface_form	,
+26566_12	is_in_sentence	sentence_26566
+26566_12	conj	26566_10
+26566_12	has_surface_form	Minnesota
+26566_13	is_in_sentence	sentence_26566
+26566_13	punct	26566_12
+26566_13	has_surface_form	,
+26566_14	is_in_sentence	sentence_26566
+26566_14	compound	26566_15
+26566_14	has_surface_form	United
+26566_15	is_in_sentence	sentence_26566
+26566_15	conj	26566_12
+26566_15	has_surface_form	States
+26566_16	is_in_sentence	sentence_26566
+26566_16	punct	26566_3
+26566_16	has_surface_form	.
+26566_17	is_in_sentence	sentence_26566
+26566_17	dep	26566_3
+26566_17	has_surface_form	
+Blue Moon Aviation	surface_form	Blue Moon Aviation
+Blue Moon Aviation	headquarters	Minneapolis

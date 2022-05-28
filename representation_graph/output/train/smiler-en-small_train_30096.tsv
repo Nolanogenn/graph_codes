@@ -1,0 +1,107 @@
+30095_0	is_in_sentence	sentence_30095
+30095_0	compound	30095_1
+30095_0	has_surface_form	Martha
+30095_0	part_of_entity	Martha Farmer Brewer
+30095_1	is_in_sentence	sentence_30095
+30095_1	compound	30095_2
+30095_1	has_surface_form	Farmer
+30095_1	part_of_entity	Martha Farmer Brewer
+30095_2	is_in_sentence	sentence_30095
+30095_2	nsubj	30095_14
+30095_2	has_surface_form	Brewer
+30095_2	part_of_entity	Martha Farmer Brewer
+30095_14	is_in_sentence	sentence_30095
+30095_14	ROOT	30095_14
+30095_14	has_surface_form	was
+30095_3	is_in_sentence	sentence_30095
+30095_3	punct	30095_2
+30095_3	has_surface_form	(
+30095_4	is_in_sentence	sentence_30095
+30095_4	appos	30095_2
+30095_4	has_surface_form	October
+30095_5	is_in_sentence	sentence_30095
+30095_5	nummod	30095_4
+30095_5	has_surface_form	26
+30095_6	is_in_sentence	sentence_30095
+30095_6	punct	30095_4
+30095_6	has_surface_form	,
+30095_7	is_in_sentence	sentence_30095
+30095_7	appos	30095_4
+30095_7	has_surface_form	1928
+30095_8	is_in_sentence	sentence_30095
+30095_8	punct	30095_2
+30095_8	has_surface_form	–
+30095_9	is_in_sentence	sentence_30095
+30095_9	appos	30095_2
+30095_9	has_surface_form	November
+30095_10	is_in_sentence	sentence_30095
+30095_10	nummod	30095_9
+30095_10	has_surface_form	14
+30095_11	is_in_sentence	sentence_30095
+30095_11	punct	30095_9
+30095_11	has_surface_form	,
+30095_12	is_in_sentence	sentence_30095
+30095_12	appos	30095_9
+30095_12	has_surface_form	2006
+30095_13	is_in_sentence	sentence_30095
+30095_13	punct	30095_9
+30095_13	has_surface_form	)
+30095_15	is_in_sentence	sentence_30095
+30095_15	det	30095_16
+30095_15	has_surface_form	the
+30095_16	is_in_sentence	sentence_30095
+30095_16	attr	30095_14
+30095_16	has_surface_form	wife
+30095_17	is_in_sentence	sentence_30095
+30095_17	prep	30095_16
+30095_17	has_surface_form	of
+30095_18	is_in_sentence	sentence_30095
+30095_18	poss	30095_21
+30095_18	has_surface_form	Alabama
+30095_21	is_in_sentence	sentence_30095
+30095_21	pobj	30095_17
+30095_21	has_surface_form	governor
+30095_19	is_in_sentence	sentence_30095
+30095_19	case	30095_18
+30095_19	has_surface_form	's
+30095_20	is_in_sentence	sentence_30095
+30095_20	amod	30095_21
+30095_20	has_surface_form	49th
+30095_22	is_in_sentence	sentence_30095
+30095_22	compound	30095_23
+30095_22	has_surface_form	Albert
+30095_22	part_of_entity	Albert Brewer
+30095_23	is_in_sentence	sentence_30095
+30095_23	appos	30095_21
+30095_23	has_surface_form	Brewer
+30095_23	part_of_entity	Albert Brewer
+30095_24	is_in_sentence	sentence_30095
+30095_24	cc	30095_16
+30095_24	has_surface_form	and
+30095_25	is_in_sentence	sentence_30095
+30095_25	det	30095_28
+30095_25	has_surface_form	the
+30095_28	is_in_sentence	sentence_30095
+30095_28	conj	30095_16
+30095_28	has_surface_form	Lady
+30095_26	is_in_sentence	sentence_30095
+30095_26	amod	30095_28
+30095_26	has_surface_form	former
+30095_27	is_in_sentence	sentence_30095
+30095_27	compound	30095_28
+30095_27	has_surface_form	First
+30095_29	is_in_sentence	sentence_30095
+30095_29	prep	30095_28
+30095_29	has_surface_form	of
+30095_30	is_in_sentence	sentence_30095
+30095_30	pobj	30095_29
+30095_30	has_surface_form	Alabama
+30095_31	is_in_sentence	sentence_30095
+30095_31	punct	30095_14
+30095_31	has_surface_form	.
+30095_32	is_in_sentence	sentence_30095
+30095_32	dep	30095_32
+30095_32	has_surface_form	
+Martha Farmer Brewer	surface_form	Martha Farmer Brewer
+Martha Farmer Brewer	has-spouse	Albert Brewer
+Albert Brewer	surface_form	Albert Brewer

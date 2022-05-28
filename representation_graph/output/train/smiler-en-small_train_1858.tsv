@@ -1,0 +1,104 @@
+1857_0	is_in_sentence	sentence_1857
+1857_0	poss	1857_2
+1857_0	has_surface_form	Our
+1857_0	part_of_entity	Our Miss Doctor
+1857_2	is_in_sentence	sentence_1857
+1857_2	nsubj	1857_10
+1857_2	has_surface_form	Doctor
+1857_2	part_of_entity	Our Miss Doctor
+1857_1	is_in_sentence	sentence_1857
+1857_1	compound	1857_2
+1857_1	has_surface_form	Miss
+1857_1	part_of_entity	Our Miss Doctor
+1857_10	is_in_sentence	sentence_1857
+1857_10	ROOT	1857_10
+1857_10	has_surface_form	is
+1857_3	is_in_sentence	sentence_1857
+1857_3	punct	1857_4
+1857_3	has_surface_form	(
+1857_4	is_in_sentence	sentence_1857
+1857_4	appos	1857_2
+1857_4	has_surface_form	German
+1857_5	is_in_sentence	sentence_1857
+1857_5	punct	1857_4
+1857_5	has_surface_form	:
+1857_6	is_in_sentence	sentence_1857
+1857_6	compound	1857_8
+1857_6	has_surface_form	Unser
+1857_8	is_in_sentence	sentence_1857
+1857_8	appos	1857_4
+1857_8	has_surface_form	Doktor
+1857_7	is_in_sentence	sentence_1857
+1857_7	compound	1857_8
+1857_7	has_surface_form	Fräulein
+1857_9	is_in_sentence	sentence_1857
+1857_9	punct	1857_4
+1857_9	has_surface_form	)
+1857_11	is_in_sentence	sentence_1857
+1857_11	det	1857_15
+1857_11	has_surface_form	a
+1857_15	is_in_sentence	sentence_1857
+1857_15	attr	1857_10
+1857_15	has_surface_form	film
+1857_12	is_in_sentence	sentence_1857
+1857_12	nummod	1857_15
+1857_12	has_surface_form	1940
+1857_13	is_in_sentence	sentence_1857
+1857_13	amod	1857_15
+1857_13	has_surface_form	German
+1857_14	is_in_sentence	sentence_1857
+1857_14	compound	1857_15
+1857_14	has_surface_form	comedy
+1857_16	is_in_sentence	sentence_1857
+1857_16	acl	1857_15
+1857_16	has_surface_form	directed
+1857_17	is_in_sentence	sentence_1857
+1857_17	agent	1857_16
+1857_17	has_surface_form	by
+1857_18	is_in_sentence	sentence_1857
+1857_18	compound	1857_19
+1857_18	has_surface_form	Erich
+1857_18	part_of_entity	Erich Engel
+1857_19	is_in_sentence	sentence_1857
+1857_19	pobj	1857_17
+1857_19	has_surface_form	Engel
+1857_19	part_of_entity	Erich Engel
+1857_20	is_in_sentence	sentence_1857
+1857_20	cc	1857_16
+1857_20	has_surface_form	and
+1857_21	is_in_sentence	sentence_1857
+1857_21	conj	1857_16
+1857_21	has_surface_form	starring
+1857_22	is_in_sentence	sentence_1857
+1857_22	compound	1857_23
+1857_22	has_surface_form	Jenny
+1857_23	is_in_sentence	sentence_1857
+1857_23	dobj	1857_21
+1857_23	has_surface_form	Jugo
+1857_24	is_in_sentence	sentence_1857
+1857_24	punct	1857_23
+1857_24	has_surface_form	,
+1857_25	is_in_sentence	sentence_1857
+1857_25	compound	1857_26
+1857_25	has_surface_form	Albert
+1857_26	is_in_sentence	sentence_1857
+1857_26	conj	1857_23
+1857_26	has_surface_form	Matterstock
+1857_27	is_in_sentence	sentence_1857
+1857_27	cc	1857_26
+1857_27	has_surface_form	and
+1857_28	is_in_sentence	sentence_1857
+1857_28	compound	1857_29
+1857_28	has_surface_form	Heinz
+1857_29	is_in_sentence	sentence_1857
+1857_29	conj	1857_26
+1857_29	has_surface_form	Salfner
+1857_30	is_in_sentence	sentence_1857
+1857_30	punct	1857_10
+1857_30	has_surface_form	.
+1857_31	is_in_sentence	sentence_1857
+1857_31	dep	1857_10
+1857_31	has_surface_form	
+Our Miss Doctor	surface_form	Our Miss Doctor
+Our Miss Doctor	movie-has-director	Erich Engel
+Erich Engel	surface_form	Erich Engel

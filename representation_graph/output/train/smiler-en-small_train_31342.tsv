@@ -1,0 +1,56 @@
+31341_0	is_in_sentence	sentence_31341
+31341_0	compound	31341_1
+31341_0	has_surface_form	Bill
+31341_0	part_of_entity	Bill Mondt
+31341_1	is_in_sentence	sentence_31341
+31341_1	nsubj	31341_7
+31341_1	has_surface_form	Mondt
+31341_1	part_of_entity	Bill Mondt
+31341_7	is_in_sentence	sentence_31341
+31341_7	ROOT	31341_7
+31341_7	has_surface_form	is
+31341_2	is_in_sentence	sentence_31341
+31341_2	punct	31341_3
+31341_2	has_surface_form	(
+31341_3	is_in_sentence	sentence_31341
+31341_3	parataxis	31341_1
+31341_3	has_surface_form	born
+31341_4	is_in_sentence	sentence_31341
+31341_4	npadvmod	31341_3
+31341_4	has_surface_form	c.
+31341_5	is_in_sentence	sentence_31341
+31341_5	nummod	31341_4
+31341_5	has_surface_form	1931
+31341_6	is_in_sentence	sentence_31341
+31341_6	punct	31341_1
+31341_6	has_surface_form	)
+31341_8	is_in_sentence	sentence_31341
+31341_8	det	31341_12
+31341_8	has_surface_form	a
+31341_12	is_in_sentence	sentence_31341
+31341_12	attr	31341_7
+31341_12	has_surface_form	player
+31341_9	is_in_sentence	sentence_31341
+31341_9	amod	31341_12
+31341_9	has_surface_form	former
+31341_10	is_in_sentence	sentence_31341
+31341_10	amod	31341_12
+31341_10	has_surface_form	American
+31341_11	is_in_sentence	sentence_31341
+31341_11	compound	31341_12
+31341_11	has_surface_form	football
+31341_13	is_in_sentence	sentence_31341
+31341_13	cc	31341_12
+31341_13	has_surface_form	and
+31341_14	is_in_sentence	sentence_31341
+31341_14	conj	31341_12
+31341_14	is_entity	coach
+coach	surface_form	coach
+31341_15	is_in_sentence	sentence_31341
+31341_15	punct	31341_7
+31341_15	has_surface_form	.
+31341_16	is_in_sentence	sentence_31341
+31341_16	dep	31341_16
+31341_16	has_surface_form	
+Bill Mondt	surface_form	Bill Mondt
+Bill Mondt	has-type	coach

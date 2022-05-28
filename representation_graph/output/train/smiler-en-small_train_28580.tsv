@@ -1,0 +1,79 @@
+28579_0	is_in_sentence	sentence_28579
+28579_0	compound	28579_1
+28579_0	has_surface_form	Monsieur
+28579_0	part_of_entity	Monsieur Octave
+28579_1	is_in_sentence	sentence_28579
+28579_1	nsubj	28579_2
+28579_1	has_surface_form	Octave
+28579_1	part_of_entity	Monsieur Octave
+28579_2	is_in_sentence	sentence_28579
+28579_2	ROOT	28579_2
+28579_2	has_surface_form	is
+28579_3	is_in_sentence	sentence_28579
+28579_3	det	28579_7
+28579_3	has_surface_form	a
+28579_7	is_in_sentence	sentence_28579
+28579_7	attr	28579_2
+28579_7	has_surface_form	film
+28579_4	is_in_sentence	sentence_28579
+28579_4	nummod	28579_7
+28579_4	has_surface_form	1951
+28579_5	is_in_sentence	sentence_28579
+28579_5	amod	28579_7
+28579_5	has_surface_form	French
+28579_6	is_in_sentence	sentence_28579
+28579_6	compound	28579_7
+28579_6	has_surface_form	comedy
+28579_8	is_in_sentence	sentence_28579
+28579_8	acl	28579_7
+28579_8	has_surface_form	directed
+28579_9	is_in_sentence	sentence_28579
+28579_9	agent	28579_8
+28579_9	has_surface_form	by
+28579_10	is_in_sentence	sentence_28579
+28579_10	compound	28579_11
+28579_10	has_surface_form	Maurice
+28579_10	part_of_entity	Maurice Boutel
+28579_11	is_in_sentence	sentence_28579
+28579_11	pobj	28579_9
+28579_11	has_surface_form	Boutel
+28579_11	part_of_entity	Maurice Boutel
+28579_12	is_in_sentence	sentence_28579
+28579_12	cc	28579_8
+28579_12	has_surface_form	and
+28579_13	is_in_sentence	sentence_28579
+28579_13	conj	28579_8
+28579_13	has_surface_form	starring
+28579_14	is_in_sentence	sentence_28579
+28579_14	compound	28579_15
+28579_14	has_surface_form	Pierre
+28579_15	is_in_sentence	sentence_28579
+28579_15	dobj	28579_13
+28579_15	has_surface_form	Larquey
+28579_16	is_in_sentence	sentence_28579
+28579_16	punct	28579_15
+28579_16	has_surface_form	,
+28579_17	is_in_sentence	sentence_28579
+28579_17	compound	28579_18
+28579_17	has_surface_form	Marcel
+28579_18	is_in_sentence	sentence_28579
+28579_18	conj	28579_15
+28579_18	has_surface_form	Pérès
+28579_19	is_in_sentence	sentence_28579
+28579_19	cc	28579_18
+28579_19	has_surface_form	and
+28579_20	is_in_sentence	sentence_28579
+28579_20	compound	28579_21
+28579_20	has_surface_form	Mady
+28579_21	is_in_sentence	sentence_28579
+28579_21	conj	28579_18
+28579_21	has_surface_form	Berry
+28579_22	is_in_sentence	sentence_28579
+28579_22	punct	28579_2
+28579_22	has_surface_form	.
+28579_23	is_in_sentence	sentence_28579
+28579_23	dep	28579_23
+28579_23	has_surface_form	
+Monsieur Octave	surface_form	Monsieur Octave
+Monsieur Octave	movie-has-director	Maurice Boutel
+Maurice Boutel	surface_form	Maurice Boutel

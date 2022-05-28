@@ -1,0 +1,65 @@
+1030_0	is_in_sentence	sentence_1030
+1030_0	compound	1030_1
+1030_0	has_surface_form	Tim
+1030_0	part_of_entity	Tim Lebbon
+1030_1	is_in_sentence	sentence_1030
+1030_1	nsubj	1030_10
+1030_1	has_surface_form	Lebbon
+1030_1	part_of_entity	Tim Lebbon
+1030_10	is_in_sentence	sentence_1030
+1030_10	ROOT	1030_10
+1030_10	has_surface_form	is
+1030_2	is_in_sentence	sentence_1030
+1030_2	punct	1030_1
+1030_2	has_surface_form	(
+1030_3	is_in_sentence	sentence_1030
+1030_3	acl	1030_1
+1030_3	has_surface_form	born
+1030_4	is_in_sentence	sentence_1030
+1030_4	nummod	1030_5
+1030_4	has_surface_form	28
+1030_5	is_in_sentence	sentence_1030
+1030_5	npadvmod	1030_3
+1030_5	has_surface_form	July
+1030_6	is_in_sentence	sentence_1030
+1030_6	nummod	1030_5
+1030_6	has_surface_form	1969
+1030_7	is_in_sentence	sentence_1030
+1030_7	punct	1030_1
+1030_7	has_surface_form	,
+1030_8	is_in_sentence	sentence_1030
+1030_8	appos	1030_1
+1030_8	is_entity	London
+London	surface_form	London
+1030_9	is_in_sentence	sentence_1030
+1030_9	punct	1030_1
+1030_9	has_surface_form	)
+1030_11	is_in_sentence	sentence_1030
+1030_11	det	1030_13
+1030_11	has_surface_form	a
+1030_13	is_in_sentence	sentence_1030
+1030_13	attr	1030_10
+1030_13	has_surface_form	horror
+1030_12	is_in_sentence	sentence_1030
+1030_12	amod	1030_13
+1030_12	has_surface_form	British
+1030_14	is_in_sentence	sentence_1030
+1030_14	cc	1030_13
+1030_14	has_surface_form	and
+1030_15	is_in_sentence	sentence_1030
+1030_15	amod	1030_17
+1030_15	has_surface_form	dark
+1030_17	is_in_sentence	sentence_1030
+1030_17	conj	1030_13
+1030_17	has_surface_form	writer
+1030_16	is_in_sentence	sentence_1030
+1030_16	compound	1030_17
+1030_16	has_surface_form	fantasy
+1030_18	is_in_sentence	sentence_1030
+1030_18	punct	1030_10
+1030_18	has_surface_form	.
+1030_19	is_in_sentence	sentence_1030
+1030_19	dep	1030_10
+1030_19	has_surface_form	
+Tim Lebbon	surface_form	Tim Lebbon
+Tim Lebbon	birth-place	London

@@ -1,0 +1,77 @@
+23045_0	is_in_sentence	sentence_23045
+23045_0	nsubj	23045_1
+23045_0	is_entity	Smith
+23045_1	is_in_sentence	sentence_23045
+23045_1	ROOT	23045_1
+23045_1	has_surface_form	married
+Smith	surface_form	Smith
+Smith	has-child	Willard Carroll Trey Smith III
+23045_2	is_in_sentence	sentence_23045
+23045_2	compound	23045_3
+23045_2	has_surface_form	Sheree
+23045_3	is_in_sentence	sentence_23045
+23045_3	dobj	23045_1
+23045_3	has_surface_form	Zampino
+23045_4	is_in_sentence	sentence_23045
+23045_4	prep	23045_1
+23045_4	has_surface_form	in
+23045_5	is_in_sentence	sentence_23045
+23045_5	pobj	23045_4
+23045_5	has_surface_form	1992
+23045_6	is_in_sentence	sentence_23045
+23045_6	punct	23045_1
+23045_6	has_surface_form	.
+23045_7	is_in_sentence	sentence_23045
+23045_7	poss	23045_8
+23045_7	has_surface_form	Their
+23045_8	is_in_sentence	sentence_23045
+23045_8	nsubjpass	23045_15
+23045_8	has_surface_form	son
+23045_15	is_in_sentence	sentence_23045
+23045_15	ROOT	23045_15
+23045_15	has_surface_form	born
+23045_9	is_in_sentence	sentence_23045
+23045_9	compound	23045_10
+23045_9	has_surface_form	Willard
+23045_9	part_of_entity	Willard Carroll Trey Smith III
+23045_10	is_in_sentence	sentence_23045
+23045_10	appos	23045_8
+23045_10	has_surface_form	Carroll
+23045_10	part_of_entity	Willard Carroll Trey Smith III
+23045_11	is_in_sentence	sentence_23045
+23045_11	compound	23045_13
+23045_11	has_surface_form	Trey
+23045_11	part_of_entity	Willard Carroll Trey Smith III
+23045_13	is_in_sentence	sentence_23045
+23045_13	appos	23045_8
+23045_13	has_surface_form	III
+23045_13	part_of_entity	Willard Carroll Trey Smith III
+23045_12	is_in_sentence	sentence_23045
+23045_12	compound	23045_13
+23045_12	is_entity	Smith
+23045_12	part_of_entity	Willard Carroll Trey Smith III
+23045_14	is_in_sentence	sentence_23045
+23045_14	auxpass	23045_15
+23045_14	has_surface_form	was
+23045_16	is_in_sentence	sentence_23045
+23045_16	prep	23045_15
+23045_16	has_surface_form	on
+23045_17	is_in_sentence	sentence_23045
+23045_17	pobj	23045_16
+23045_17	has_surface_form	November
+23045_18	is_in_sentence	sentence_23045
+23045_18	nummod	23045_17
+23045_18	has_surface_form	11
+23045_19	is_in_sentence	sentence_23045
+23045_19	punct	23045_17
+23045_19	has_surface_form	,
+23045_20	is_in_sentence	sentence_23045
+23045_20	nummod	23045_17
+23045_20	has_surface_form	1992
+23045_21	is_in_sentence	sentence_23045
+23045_21	punct	23045_15
+23045_21	has_surface_form	.
+23045_22	is_in_sentence	sentence_23045
+23045_22	dep	23045_22
+23045_22	has_surface_form	
+Willard Carroll Trey Smith III	surface_form	Willard Carroll Trey Smith III

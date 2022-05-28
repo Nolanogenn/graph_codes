@@ -1,0 +1,64 @@
+30735_0	is_in_sentence	sentence_30735
+30735_0	compound	30735_1
+30735_0	has_surface_form	Educated
+30735_0	part_of_entity	Educated Evans
+30735_1	is_in_sentence	sentence_30735
+30735_1	nsubj	30735_2
+30735_1	has_surface_form	Evans
+30735_1	part_of_entity	Educated Evans
+30735_2	is_in_sentence	sentence_30735
+30735_2	ROOT	30735_2
+30735_2	has_surface_form	is
+30735_3	is_in_sentence	sentence_30735
+30735_3	det	30735_7
+30735_3	has_surface_form	a
+30735_7	is_in_sentence	sentence_30735
+30735_7	attr	30735_2
+30735_7	has_surface_form	film
+30735_4	is_in_sentence	sentence_30735
+30735_4	nummod	30735_7
+30735_4	has_surface_form	1936
+30735_5	is_in_sentence	sentence_30735
+30735_5	amod	30735_7
+30735_5	has_surface_form	British
+30735_6	is_in_sentence	sentence_30735
+30735_6	compound	30735_7
+30735_6	has_surface_form	comedy
+30735_8	is_in_sentence	sentence_30735
+30735_8	punct	30735_7
+30735_8	has_surface_form	,
+30735_9	is_in_sentence	sentence_30735
+30735_9	acl	30735_7
+30735_9	has_surface_form	directed
+30735_10	is_in_sentence	sentence_30735
+30735_10	agent	30735_9
+30735_10	has_surface_form	by
+30735_11	is_in_sentence	sentence_30735
+30735_11	compound	30735_12
+30735_11	has_surface_form	William
+30735_11	part_of_entity	William Beaudine
+30735_12	is_in_sentence	sentence_30735
+30735_12	pobj	30735_10
+30735_12	has_surface_form	Beaudine
+30735_12	part_of_entity	William Beaudine
+30735_13	is_in_sentence	sentence_30735
+30735_13	cc	30735_9
+30735_13	has_surface_form	and
+30735_14	is_in_sentence	sentence_30735
+30735_14	conj	30735_9
+30735_14	has_surface_form	starring
+30735_15	is_in_sentence	sentence_30735
+30735_15	compound	30735_16
+30735_15	has_surface_form	Max
+30735_16	is_in_sentence	sentence_30735
+30735_16	dobj	30735_14
+30735_16	has_surface_form	Miller
+30735_17	is_in_sentence	sentence_30735
+30735_17	punct	30735_2
+30735_17	has_surface_form	.
+30735_18	is_in_sentence	sentence_30735
+30735_18	dep	30735_18
+30735_18	has_surface_form	
+Educated Evans	surface_form	Educated Evans
+Educated Evans	movie-has-director	William Beaudine
+William Beaudine	surface_form	William Beaudine

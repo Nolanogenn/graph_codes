@@ -1,0 +1,82 @@
+20830_0	is_in_sentence	sentence_20830
+20830_0	compound	20830_1
+20830_0	has_surface_form	Tony
+20830_0	part_of_entity	Tony Cohen
+20830_1	is_in_sentence	sentence_20830
+20830_1	nsubj	20830_11
+20830_1	has_surface_form	Cohen
+20830_1	part_of_entity	Tony Cohen
+20830_11	is_in_sentence	sentence_20830
+20830_11	ROOT	20830_11
+20830_11	has_surface_form	was
+20830_2	is_in_sentence	sentence_20830
+20830_2	punct	20830_1
+20830_2	has_surface_form	(
+20830_3	is_in_sentence	sentence_20830
+20830_3	nummod	20830_4
+20830_3	has_surface_form	4
+20830_4	is_in_sentence	sentence_20830
+20830_4	appos	20830_1
+20830_4	has_surface_form	June
+20830_5	is_in_sentence	sentence_20830
+20830_5	nummod	20830_4
+20830_5	has_surface_form	1957
+20830_6	is_in_sentence	sentence_20830
+20830_6	punct	20830_1
+20830_6	has_surface_form	–
+20830_7	is_in_sentence	sentence_20830
+20830_7	nummod	20830_8
+20830_7	has_surface_form	2
+20830_8	is_in_sentence	sentence_20830
+20830_8	appos	20830_1
+20830_8	has_surface_form	August
+20830_9	is_in_sentence	sentence_20830
+20830_9	nummod	20830_8
+20830_9	has_surface_form	2017
+20830_10	is_in_sentence	sentence_20830
+20830_10	punct	20830_8
+20830_10	has_surface_form	)
+20830_12	is_in_sentence	sentence_20830
+20830_12	det	20830_16
+20830_12	has_surface_form	an
+20830_16	is_in_sentence	sentence_20830
+20830_16	attr	20830_11
+20830_16	has_surface_form	producer
+20830_16	part_of_entity	record producer
+20830_13	is_in_sentence	sentence_20830
+20830_13	amod	20830_16
+20830_13	has_surface_form	Australian
+20830_14	is_in_sentence	sentence_20830
+20830_14	compound	20830_15
+20830_14	has_surface_form	music
+20830_15	is_in_sentence	sentence_20830
+20830_15	compound	20830_16
+20830_15	has_surface_form	record
+20830_15	part_of_entity	record producer
+20830_17	is_in_sentence	sentence_20830
+20830_17	cc	20830_16
+20830_17	has_surface_form	and
+20830_18	is_in_sentence	sentence_20830
+20830_18	compound	20830_19
+20830_18	has_surface_form	sound
+20830_19	is_in_sentence	sentence_20830
+20830_19	conj	20830_16
+20830_19	has_surface_form	engineer
+20830_20	is_in_sentence	sentence_20830
+20830_20	acl	20830_16
+20830_20	has_surface_form	based
+20830_21	is_in_sentence	sentence_20830
+20830_21	prep	20830_20
+20830_21	has_surface_form	in
+20830_22	is_in_sentence	sentence_20830
+20830_22	pobj	20830_21
+20830_22	has_surface_form	Melbourne
+20830_23	is_in_sentence	sentence_20830
+20830_23	punct	20830_11
+20830_23	has_surface_form	.
+20830_24	is_in_sentence	sentence_20830
+20830_24	dep	20830_11
+20830_24	has_surface_form	
+Tony Cohen	surface_form	Tony Cohen
+Tony Cohen	has-occupation	record producer
+record producer	surface_form	record producer

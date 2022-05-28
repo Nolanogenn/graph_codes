@@ -1,0 +1,65 @@
+32666_0	is_in_sentence	sentence_32666
+32666_0	compound	32666_1
+32666_0	has_surface_form	Cristina
+32666_0	part_of_entity	Cristina Marocco
+32666_1	is_in_sentence	sentence_32666
+32666_1	nsubj	32666_12
+32666_1	has_surface_form	Marocco
+32666_1	part_of_entity	Cristina Marocco
+32666_12	is_in_sentence	sentence_32666
+32666_12	ROOT	32666_12
+32666_12	has_surface_form	is
+32666_2	is_in_sentence	sentence_32666
+32666_2	punct	32666_3
+32666_2	has_surface_form	(
+32666_3	is_in_sentence	sentence_32666
+32666_3	acl	32666_1
+32666_3	has_surface_form	born
+32666_4	is_in_sentence	sentence_32666
+32666_4	nummod	32666_5
+32666_4	has_surface_form	21
+32666_5	is_in_sentence	sentence_32666
+32666_5	npadvmod	32666_3
+32666_5	has_surface_form	March
+32666_6	is_in_sentence	sentence_32666
+32666_6	nummod	32666_5
+32666_6	has_surface_form	1972
+32666_7	is_in_sentence	sentence_32666
+32666_7	prep	32666_3
+32666_7	has_surface_form	in
+32666_8	is_in_sentence	sentence_32666
+32666_8	pobj	32666_7
+32666_8	has_surface_form	Turin
+32666_9	is_in_sentence	sentence_32666
+32666_9	punct	32666_8
+32666_9	has_surface_form	,
+32666_10	is_in_sentence	sentence_32666
+32666_10	appos	32666_8
+32666_10	has_surface_form	Italy
+32666_11	is_in_sentence	sentence_32666
+32666_11	punct	32666_8
+32666_11	has_surface_form	)
+32666_13	is_in_sentence	sentence_32666
+32666_13	det	32666_15
+32666_13	has_surface_form	an
+32666_15	is_in_sentence	sentence_32666
+32666_15	attr	32666_12
+32666_15	has_surface_form	singer
+32666_14	is_in_sentence	sentence_32666
+32666_14	amod	32666_15
+32666_14	has_surface_form	Italian
+32666_16	is_in_sentence	sentence_32666
+32666_16	cc	32666_15
+32666_16	has_surface_form	and
+32666_17	is_in_sentence	sentence_32666
+32666_17	conj	32666_15
+32666_17	is_entity	actress
+actress	surface_form	actress
+32666_18	is_in_sentence	sentence_32666
+32666_18	punct	32666_12
+32666_18	has_surface_form	.
+32666_19	is_in_sentence	sentence_32666
+32666_19	dep	32666_19
+32666_19	has_surface_form	
+Cristina Marocco	surface_form	Cristina Marocco
+Cristina Marocco	has-occupation	actress

@@ -1,0 +1,79 @@
+15539_0	is_in_sentence	sentence_15539
+15539_0	det	15539_1
+15539_0	has_surface_form	The
+15539_0	part_of_entity	The Girl I Loved
+15539_1	is_in_sentence	sentence_15539
+15539_1	nsubj	15539_4
+15539_1	has_surface_form	Girl
+15539_1	part_of_entity	The Girl I Loved
+15539_4	is_in_sentence	sentence_15539
+15539_4	ROOT	15539_4
+15539_4	has_surface_form	is
+15539_2	is_in_sentence	sentence_15539
+15539_2	nsubj	15539_3
+15539_2	has_surface_form	I
+15539_2	part_of_entity	The Girl I Loved
+15539_3	is_in_sentence	sentence_15539
+15539_3	relcl	15539_1
+15539_3	has_surface_form	Loved
+15539_3	part_of_entity	The Girl I Loved
+15539_5	is_in_sentence	sentence_15539
+15539_5	det	15539_10
+15539_5	has_surface_form	a
+15539_10	is_in_sentence	sentence_15539
+15539_10	attr	15539_4
+15539_10	has_surface_form	film
+15539_6	is_in_sentence	sentence_15539
+15539_6	nummod	15539_8
+15539_6	has_surface_form	1923
+15539_8	is_in_sentence	sentence_15539
+15539_8	nmod	15539_10
+15539_8	has_surface_form	drama
+15539_7	is_in_sentence	sentence_15539
+15539_7	amod	15539_8
+15539_7	has_surface_form	American
+15539_9	is_in_sentence	sentence_15539
+15539_9	amod	15539_10
+15539_9	has_surface_form	silent
+15539_11	is_in_sentence	sentence_15539
+15539_11	acl	15539_10
+15539_11	has_surface_form	directed
+15539_12	is_in_sentence	sentence_15539
+15539_12	agent	15539_11
+15539_12	has_surface_form	by
+15539_13	is_in_sentence	sentence_15539
+15539_13	compound	15539_15
+15539_13	has_surface_form	Joe
+15539_13	part_of_entity	Joe De Grasse
+15539_15	is_in_sentence	sentence_15539
+15539_15	pobj	15539_12
+15539_15	has_surface_form	Grasse
+15539_15	part_of_entity	Joe De Grasse
+15539_14	is_in_sentence	sentence_15539
+15539_14	compound	15539_15
+15539_14	has_surface_form	De
+15539_14	part_of_entity	Joe De Grasse
+15539_16	is_in_sentence	sentence_15539
+15539_16	cc	15539_11
+15539_16	has_surface_form	and
+15539_17	is_in_sentence	sentence_15539
+15539_17	conj	15539_11
+15539_17	has_surface_form	written
+15539_18	is_in_sentence	sentence_15539
+15539_18	agent	15539_17
+15539_18	has_surface_form	by
+15539_19	is_in_sentence	sentence_15539
+15539_19	compound	15539_20
+15539_19	has_surface_form	Albert
+15539_20	is_in_sentence	sentence_15539
+15539_20	pobj	15539_18
+15539_20	has_surface_form	Ray
+15539_21	is_in_sentence	sentence_15539
+15539_21	punct	15539_4
+15539_21	has_surface_form	.
+15539_22	is_in_sentence	sentence_15539
+15539_22	dep	15539_4
+15539_22	has_surface_form	
+The Girl I Loved	surface_form	The Girl I Loved
+The Girl I Loved	movie-has-director	Joe De Grasse
+Joe De Grasse	surface_form	Joe De Grasse

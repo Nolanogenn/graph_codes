@@ -1,0 +1,98 @@
+1557_0	is_in_sentence	sentence_1557
+1557_0	compound	1557_2
+1557_0	has_surface_form	Martin
+1557_0	part_of_entity	Martin Luther McCoy
+1557_2	is_in_sentence	sentence_1557
+1557_2	nsubj	1557_8
+1557_2	has_surface_form	McCoy
+1557_2	part_of_entity	Martin Luther McCoy
+1557_1	is_in_sentence	sentence_1557
+1557_1	compound	1557_2
+1557_1	has_surface_form	Luther
+1557_1	part_of_entity	Martin Luther McCoy
+1557_8	is_in_sentence	sentence_1557
+1557_8	ROOT	1557_8
+1557_8	has_surface_form	is
+1557_3	is_in_sentence	sentence_1557
+1557_3	punct	1557_2
+1557_3	has_surface_form	(
+1557_4	is_in_sentence	sentence_1557
+1557_4	acl	1557_2
+1557_4	has_surface_form	born
+1557_5	is_in_sentence	sentence_1557
+1557_5	npadvmod	1557_4
+1557_5	has_surface_form	July
+1557_6	is_in_sentence	sentence_1557
+1557_6	nummod	1557_5
+1557_6	has_surface_form	1975
+1557_7	is_in_sentence	sentence_1557
+1557_7	punct	1557_2
+1557_7	has_surface_form	)
+1557_9	is_in_sentence	sentence_1557
+1557_9	det	1557_11
+1557_9	has_surface_form	an
+1557_11	is_in_sentence	sentence_1557
+1557_11	attr	1557_8
+1557_11	has_surface_form	musician
+1557_10	is_in_sentence	sentence_1557
+1557_10	amod	1557_11
+1557_10	has_surface_form	American
+1557_12	is_in_sentence	sentence_1557
+1557_12	cc	1557_11
+1557_12	has_surface_form	and
+1557_13	is_in_sentence	sentence_1557
+1557_13	conj	1557_11
+1557_13	has_surface_form	actor
+1557_14	is_in_sentence	sentence_1557
+1557_14	punct	1557_8
+1557_14	has_surface_form	.
+1557_15	is_in_sentence	sentence_1557
+1557_15	nsubj	1557_16
+1557_15	has_surface_form	McCoy
+1557_16	is_in_sentence	sentence_1557
+1557_16	ROOT	1557_16
+1557_16	has_surface_form	is
+1557_17	is_in_sentence	sentence_1557
+1557_17	det	1557_20
+1557_17	has_surface_form	a
+1557_20	is_in_sentence	sentence_1557
+1557_20	attr	1557_16
+1557_20	has_surface_form	native
+1557_18	is_in_sentence	sentence_1557
+1557_18	compound	1557_19
+1557_18	has_surface_form	San
+1557_18	part_of_entity	San Francisco
+1557_19	is_in_sentence	sentence_1557
+1557_19	compound	1557_20
+1557_19	has_surface_form	Francisco
+1557_19	part_of_entity	San Francisco
+1557_21	is_in_sentence	sentence_1557
+1557_21	prep	1557_20
+1557_21	has_surface_form	from
+1557_22	is_in_sentence	sentence_1557
+1557_22	det	1557_27
+1557_22	has_surface_form	the
+1557_27	is_in_sentence	sentence_1557
+1557_27	pobj	1557_21
+1557_27	has_surface_form	neighborhood
+1557_23	is_in_sentence	sentence_1557
+1557_23	compound	1557_25
+1557_23	has_surface_form	Bayview
+1557_25	is_in_sentence	sentence_1557
+1557_25	compound	1557_26
+1557_25	has_surface_form	Hunters
+1557_24	is_in_sentence	sentence_1557
+1557_24	punct	1557_25
+1557_24	has_surface_form	-
+1557_26	is_in_sentence	sentence_1557
+1557_26	compound	1557_27
+1557_26	has_surface_form	Point
+1557_28	is_in_sentence	sentence_1557
+1557_28	punct	1557_16
+1557_28	has_surface_form	.
+1557_29	is_in_sentence	sentence_1557
+1557_29	dep	1557_29
+1557_29	has_surface_form	
+Martin Luther McCoy	surface_form	Martin Luther McCoy
+Martin Luther McCoy	birth-place	San Francisco
+San Francisco	surface_form	San Francisco

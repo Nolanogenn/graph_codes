@@ -1,0 +1,65 @@
+13800_0	is_in_sentence	sentence_13800
+13800_0	compound	13800_1
+13800_0	has_surface_form	Derrick
+13800_0	part_of_entity	Derrick Gardner
+13800_1	is_in_sentence	sentence_13800
+13800_1	nsubj	13800_9
+13800_1	has_surface_form	Gardner
+13800_1	part_of_entity	Derrick Gardner
+13800_9	is_in_sentence	sentence_13800
+13800_9	ROOT	13800_9
+13800_9	has_surface_form	is
+13800_2	is_in_sentence	sentence_13800
+13800_2	punct	13800_1
+13800_2	has_surface_form	(
+13800_3	is_in_sentence	sentence_13800
+13800_3	acl	13800_1
+13800_3	has_surface_form	born
+13800_4	is_in_sentence	sentence_13800
+13800_4	npadvmod	13800_3
+13800_4	has_surface_form	June
+13800_5	is_in_sentence	sentence_13800
+13800_5	nummod	13800_4
+13800_5	has_surface_form	3
+13800_6	is_in_sentence	sentence_13800
+13800_6	punct	13800_4
+13800_6	has_surface_form	,
+13800_7	is_in_sentence	sentence_13800
+13800_7	nummod	13800_4
+13800_7	has_surface_form	1965
+13800_8	is_in_sentence	sentence_13800
+13800_8	punct	13800_1
+13800_8	has_surface_form	)
+13800_10	is_in_sentence	sentence_13800
+13800_10	det	13800_13
+13800_10	has_surface_form	an
+13800_13	is_in_sentence	sentence_13800
+13800_13	attr	13800_9
+13800_13	has_surface_form	trumpeter
+13800_11	is_in_sentence	sentence_13800
+13800_11	amod	13800_13
+13800_11	has_surface_form	American
+13800_12	is_in_sentence	sentence_13800
+13800_12	compound	13800_13
+13800_12	is_entity	jazz
+jazz	surface_form	jazz
+13800_14	is_in_sentence	sentence_13800
+13800_14	prep	13800_13
+13800_14	has_surface_form	from
+13800_15	is_in_sentence	sentence_13800
+13800_15	pobj	13800_14
+13800_15	has_surface_form	Chicago
+13800_16	is_in_sentence	sentence_13800
+13800_16	punct	13800_15
+13800_16	has_surface_form	,
+13800_17	is_in_sentence	sentence_13800
+13800_17	appos	13800_15
+13800_17	has_surface_form	Illinois
+13800_18	is_in_sentence	sentence_13800
+13800_18	punct	13800_9
+13800_18	has_surface_form	.
+13800_19	is_in_sentence	sentence_13800
+13800_19	dep	13800_9
+13800_19	has_surface_form	
+Derrick Gardner	surface_form	Derrick Gardner
+Derrick Gardner	has-genre	jazz

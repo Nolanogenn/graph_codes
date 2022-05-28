@@ -1,0 +1,62 @@
+32278_0	is_in_sentence	sentence_32278
+32278_0	nmod	32278_4
+32278_0	has_surface_form	Hawise
+32278_4	is_in_sentence	sentence_32278
+32278_4	nsubj	32278_9
+32278_4	has_surface_form	granddaughter
+32278_1	is_in_sentence	sentence_32278
+32278_1	cc	32278_0
+32278_1	has_surface_form	and
+32278_2	is_in_sentence	sentence_32278
+32278_2	conj	32278_0
+32278_2	has_surface_form	Baldwin
+32278_3	is_in_sentence	sentence_32278
+32278_3	case	32278_2
+32278_3	has_surface_form	’s
+32278_9	is_in_sentence	sentence_32278
+32278_9	ROOT	32278_9
+32278_9	has_surface_form	was
+32278_5	is_in_sentence	sentence_32278
+32278_5	punct	32278_4
+32278_5	has_surface_form	,
+32278_6	is_in_sentence	sentence_32278
+32278_6	compound	32278_7
+32278_6	has_surface_form	Margaret
+32278_6	part_of_entity	Margaret Wake
+32278_7	is_in_sentence	sentence_32278
+32278_7	appos	32278_4
+32278_7	has_surface_form	Wake
+32278_7	part_of_entity	Margaret Wake
+32278_8	is_in_sentence	sentence_32278
+32278_8	punct	32278_4
+32278_8	has_surface_form	,
+32278_10	is_in_sentence	sentence_32278
+32278_10	det	32278_11
+32278_10	has_surface_form	the
+32278_11	is_in_sentence	sentence_32278
+32278_11	attr	32278_9
+32278_11	has_surface_form	mother
+32278_12	is_in_sentence	sentence_32278
+32278_12	prep	32278_11
+32278_12	has_surface_form	of
+32278_13	is_in_sentence	sentence_32278
+32278_13	pobj	32278_12
+32278_13	has_surface_form	Joan
+32278_13	part_of_entity	Joan of Kent
+32278_14	is_in_sentence	sentence_32278
+32278_14	prep	32278_13
+32278_14	has_surface_form	of
+32278_14	part_of_entity	Joan of Kent
+32278_15	is_in_sentence	sentence_32278
+32278_15	pobj	32278_14
+32278_15	has_surface_form	Kent
+32278_15	part_of_entity	Joan of Kent
+32278_16	is_in_sentence	sentence_32278
+32278_16	punct	32278_9
+32278_16	has_surface_form	.
+32278_17	is_in_sentence	sentence_32278
+32278_17	dep	32278_9
+32278_17	has_surface_form	
+Margaret Wake	surface_form	Margaret Wake
+Margaret Wake	has-child	Joan of Kent
+Joan of Kent	surface_form	Joan of Kent

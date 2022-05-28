@@ -1,0 +1,62 @@
+5970_0	is_in_sentence	sentence_5970
+5970_0	ROOT	5970_0
+5970_0	has_surface_form	Held
+5970_0	part_of_entity	Held for Damages
+5970_1	is_in_sentence	sentence_5970
+5970_1	prep	5970_0
+5970_1	has_surface_form	for
+5970_1	part_of_entity	Held for Damages
+5970_2	is_in_sentence	sentence_5970
+5970_2	pobj	5970_1
+5970_2	has_surface_form	Damages
+5970_2	part_of_entity	Held for Damages
+5970_3	is_in_sentence	sentence_5970
+5970_3	auxpass	5970_0
+5970_3	has_surface_form	is
+5970_4	is_in_sentence	sentence_5970
+5970_4	det	5970_10
+5970_4	has_surface_form	a
+5970_10	is_in_sentence	sentence_5970
+5970_10	attr	5970_3
+5970_10	has_surface_form	film
+5970_5	is_in_sentence	sentence_5970
+5970_5	nummod	5970_10
+5970_5	has_surface_form	1916
+5970_6	is_in_sentence	sentence_5970
+5970_6	amod	5970_10
+5970_6	has_surface_form	American
+5970_7	is_in_sentence	sentence_5970
+5970_7	amod	5970_8
+5970_7	has_surface_form	short
+5970_8	is_in_sentence	sentence_5970
+5970_8	amod	5970_10
+5970_8	has_surface_form	silent
+5970_9	is_in_sentence	sentence_5970
+5970_9	compound	5970_10
+5970_9	has_surface_form	comedy
+5970_11	is_in_sentence	sentence_5970
+5970_11	punct	5970_10
+5970_11	has_surface_form	,
+5970_12	is_in_sentence	sentence_5970
+5970_12	acl	5970_10
+5970_12	has_surface_form	directed
+5970_13	is_in_sentence	sentence_5970
+5970_13	agent	5970_12
+5970_13	has_surface_form	by
+5970_14	is_in_sentence	sentence_5970
+5970_14	compound	5970_15
+5970_14	has_surface_form	Jack
+5970_14	part_of_entity	Jack Harvey
+5970_15	is_in_sentence	sentence_5970
+5970_15	pobj	5970_13
+5970_15	has_surface_form	Harvey
+5970_15	part_of_entity	Jack Harvey
+5970_16	is_in_sentence	sentence_5970
+5970_16	punct	5970_3
+5970_16	has_surface_form	.
+5970_17	is_in_sentence	sentence_5970
+5970_17	dep	5970_17
+5970_17	has_surface_form	
+Held for Damages	surface_form	Held for Damages
+Held for Damages	movie-has-director	Jack Harvey
+Jack Harvey	surface_form	Jack Harvey

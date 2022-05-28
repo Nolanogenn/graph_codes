@@ -1,0 +1,81 @@
+488_0	is_in_sentence	sentence_488
+488_0	det	488_2
+488_0	has_surface_form	A
+488_0	part_of_entity	A Modern Hero
+488_2	is_in_sentence	sentence_488
+488_2	nsubj	488_3
+488_2	has_surface_form	Hero
+488_2	part_of_entity	A Modern Hero
+488_1	is_in_sentence	sentence_488
+488_1	compound	488_2
+488_1	has_surface_form	Modern
+488_1	part_of_entity	A Modern Hero
+488_3	is_in_sentence	sentence_488
+488_3	ROOT	488_3
+488_3	has_surface_form	is
+488_4	is_in_sentence	sentence_488
+488_4	det	488_12
+488_4	has_surface_form	a
+488_12	is_in_sentence	sentence_488
+488_12	attr	488_3
+488_12	has_surface_form	film
+488_5	is_in_sentence	sentence_488
+488_5	nummod	488_12
+488_5	has_surface_form	1934
+488_6	is_in_sentence	sentence_488
+488_6	amod	488_12
+488_6	has_surface_form	American
+488_7	is_in_sentence	sentence_488
+488_7	amod	488_10
+488_7	has_surface_form	pre
+488_10	is_in_sentence	sentence_488
+488_10	compound	488_12
+488_10	has_surface_form	romance
+488_8	is_in_sentence	sentence_488
+488_8	amod	488_10
+488_8	has_surface_form	-
+488_9	is_in_sentence	sentence_488
+488_9	amod	488_10
+488_9	has_surface_form	Code
+488_11	is_in_sentence	sentence_488
+488_11	compound	488_12
+488_11	has_surface_form	drama
+488_13	is_in_sentence	sentence_488
+488_13	acl	488_12
+488_13	has_surface_form	starring
+488_14	is_in_sentence	sentence_488
+488_14	compound	488_15
+488_14	has_surface_form	Richard
+488_15	is_in_sentence	sentence_488
+488_15	dobj	488_13
+488_15	has_surface_form	Barthelmess
+488_16	is_in_sentence	sentence_488
+488_16	cc	488_13
+488_16	has_surface_form	and
+488_17	is_in_sentence	sentence_488
+488_17	conj	488_13
+488_17	has_surface_form	directed
+488_18	is_in_sentence	sentence_488
+488_18	agent	488_17
+488_18	has_surface_form	by
+488_19	is_in_sentence	sentence_488
+488_19	compound	488_21
+488_19	has_surface_form	Georg
+488_19	part_of_entity	Georg Wilhelm Pabst
+488_21	is_in_sentence	sentence_488
+488_21	pobj	488_18
+488_21	has_surface_form	Pabst
+488_21	part_of_entity	Georg Wilhelm Pabst
+488_20	is_in_sentence	sentence_488
+488_20	compound	488_21
+488_20	has_surface_form	Wilhelm
+488_20	part_of_entity	Georg Wilhelm Pabst
+488_22	is_in_sentence	sentence_488
+488_22	punct	488_3
+488_22	has_surface_form	.
+488_23	is_in_sentence	sentence_488
+488_23	dep	488_23
+488_23	has_surface_form	
+A Modern Hero	surface_form	A Modern Hero
+A Modern Hero	movie-has-director	Georg Wilhelm Pabst
+Georg Wilhelm Pabst	surface_form	Georg Wilhelm Pabst

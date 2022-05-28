@@ -1,0 +1,79 @@
+15920_0	is_in_sentence	sentence_15920
+15920_0	compound	15920_1
+15920_0	has_surface_form	Noy
+15920_0	part_of_entity	Noy Holland
+15920_1	is_in_sentence	sentence_15920
+15920_1	nsubj	15920_9
+15920_1	has_surface_form	Holland
+15920_1	part_of_entity	Noy Holland
+15920_9	is_in_sentence	sentence_15920
+15920_9	ROOT	15920_9
+15920_9	has_surface_form	is
+15920_2	is_in_sentence	sentence_15920
+15920_2	punct	15920_1
+15920_2	has_surface_form	(
+15920_3	is_in_sentence	sentence_15920
+15920_3	amod	15920_1
+15920_3	has_surface_form	born
+15920_4	is_in_sentence	sentence_15920
+15920_4	npadvmod	15920_3
+15920_4	has_surface_form	December
+15920_5	is_in_sentence	sentence_15920
+15920_5	nummod	15920_4
+15920_5	has_surface_form	3
+15920_6	is_in_sentence	sentence_15920
+15920_6	punct	15920_4
+15920_6	has_surface_form	,
+15920_7	is_in_sentence	sentence_15920
+15920_7	nummod	15920_4
+15920_7	has_surface_form	1960
+15920_8	is_in_sentence	sentence_15920
+15920_8	punct	15920_1
+15920_8	has_surface_form	)
+15920_10	is_in_sentence	sentence_15920
+15920_10	det	15920_12
+15920_10	has_surface_form	an
+15920_12	is_in_sentence	sentence_15920
+15920_12	attr	15920_9
+15920_12	has_surface_form	writer
+15920_11	is_in_sentence	sentence_15920
+15920_11	amod	15920_12
+15920_11	has_surface_form	American
+15920_13	is_in_sentence	sentence_15920
+15920_13	punct	15920_9
+15920_13	has_surface_form	.
+15920_14	is_in_sentence	sentence_15920
+15920_14	nsubj	15920_15
+15920_14	has_surface_form	She
+15920_15	is_in_sentence	sentence_15920
+15920_15	ROOT	15920_15
+15920_15	has_surface_form	is
+15920_16	is_in_sentence	sentence_15920
+15920_16	acomp	15920_15
+15920_16	has_surface_form	married
+15920_17	is_in_sentence	sentence_15920
+15920_17	prep	15920_16
+15920_17	has_surface_form	to
+15920_18	is_in_sentence	sentence_15920
+15920_18	det	15920_19
+15920_18	has_surface_form	the
+15920_19	is_in_sentence	sentence_15920
+15920_19	pobj	15920_17
+15920_19	has_surface_form	writer
+15920_20	is_in_sentence	sentence_15920
+15920_20	compound	15920_21
+15920_20	has_surface_form	Sam
+15920_20	part_of_entity	Sam Michel
+15920_21	is_in_sentence	sentence_15920
+15920_21	appos	15920_19
+15920_21	has_surface_form	Michel
+15920_21	part_of_entity	Sam Michel
+15920_22	is_in_sentence	sentence_15920
+15920_22	punct	15920_15
+15920_22	has_surface_form	.
+15920_23	is_in_sentence	sentence_15920
+15920_23	dep	15920_23
+15920_23	has_surface_form	
+Noy Holland	surface_form	Noy Holland
+Noy Holland	has-spouse	Sam Michel
+Sam Michel	surface_form	Sam Michel

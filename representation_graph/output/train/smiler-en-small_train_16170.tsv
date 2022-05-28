@@ -1,0 +1,85 @@
+16169_0	is_in_sentence	sentence_16169
+16169_0	compound	16169_1
+16169_0	has_surface_form	Maragadha
+16169_0	part_of_entity	Maragadha Naanayam
+16169_1	is_in_sentence	sentence_16169
+16169_1	nsubj	16169_8
+16169_1	has_surface_form	Naanayam
+16169_1	part_of_entity	Maragadha Naanayam
+16169_8	is_in_sentence	sentence_16169
+16169_8	ROOT	16169_8
+16169_8	has_surface_form	is
+16169_2	is_in_sentence	sentence_16169
+16169_2	punct	16169_3
+16169_2	has_surface_form	(
+16169_3	is_in_sentence	sentence_16169
+16169_3	appos	16169_1
+16169_3	has_surface_form	English
+16169_4	is_in_sentence	sentence_16169
+16169_4	punct	16169_3
+16169_4	has_surface_form	:
+16169_5	is_in_sentence	sentence_16169
+16169_5	compound	16169_6
+16169_5	has_surface_form	Emerald
+16169_6	is_in_sentence	sentence_16169
+16169_6	appos	16169_3
+16169_6	has_surface_form	Coin
+16169_7	is_in_sentence	sentence_16169
+16169_7	punct	16169_3
+16169_7	has_surface_form	)
+16169_9	is_in_sentence	sentence_16169
+16169_9	det	16169_14
+16169_9	has_surface_form	a
+16169_14	is_in_sentence	sentence_16169
+16169_14	attr	16169_8
+16169_14	has_surface_form	film
+16169_10	is_in_sentence	sentence_16169
+16169_10	nummod	16169_14
+16169_10	has_surface_form	2017
+16169_11	is_in_sentence	sentence_16169
+16169_11	compound	16169_14
+16169_11	has_surface_form	Tamil
+16169_12	is_in_sentence	sentence_16169
+16169_12	compound	16169_13
+16169_12	has_surface_form	fantasy
+16169_13	is_in_sentence	sentence_16169
+16169_13	compound	16169_14
+16169_13	has_surface_form	comedy
+16169_15	is_in_sentence	sentence_16169
+16169_15	acl	16169_14
+16169_15	has_surface_form	written
+16169_16	is_in_sentence	sentence_16169
+16169_16	cc	16169_15
+16169_16	has_surface_form	and
+16169_17	is_in_sentence	sentence_16169
+16169_17	conj	16169_15
+16169_17	has_surface_form	directed
+16169_18	is_in_sentence	sentence_16169
+16169_18	agent	16169_17
+16169_18	has_surface_form	by
+16169_19	is_in_sentence	sentence_16169
+16169_19	compound	16169_20
+16169_19	has_surface_form	ARK
+16169_19	part_of_entity	ARK Saravan
+16169_20	is_in_sentence	sentence_16169
+16169_20	pobj	16169_18
+16169_20	has_surface_form	Saravan
+16169_20	part_of_entity	ARK Saravan
+16169_21	is_in_sentence	sentence_16169
+16169_21	cc	16169_17
+16169_21	has_surface_form	and
+16169_22	is_in_sentence	sentence_16169
+16169_22	conj	16169_17
+16169_22	has_surface_form	produced
+16169_23	is_in_sentence	sentence_16169
+16169_23	agent	16169_22
+16169_23	has_surface_form	by
+16169_24	is_in_sentence	sentence_16169
+16169_24	pobj	16169_23
+16169_24	has_surface_form	G.
+16169_25	is_in_sentence	sentence_16169
+16169_25	dep	16169_23
+16169_25	has_surface_form	
+Maragadha Naanayam	surface_form	Maragadha Naanayam
+Maragadha Naanayam	movie-has-director	ARK Saravan
+ARK Saravan	surface_form	ARK Saravan

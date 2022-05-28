@@ -1,0 +1,89 @@
+840_0	is_in_sentence	sentence_840
+840_0	compound	840_3
+840_0	has_surface_form	Point
+840_0	part_of_entity	Point Loma High School
+840_3	is_in_sentence	sentence_840
+840_3	nsubj	840_4
+840_3	has_surface_form	School
+840_3	part_of_entity	Point Loma High School
+840_1	is_in_sentence	sentence_840
+840_1	compound	840_3
+840_1	has_surface_form	Loma
+840_1	part_of_entity	Point Loma High School
+840_2	is_in_sentence	sentence_840
+840_2	compound	840_3
+840_2	has_surface_form	High
+840_2	part_of_entity	Point Loma High School
+840_4	is_in_sentence	sentence_840
+840_4	ROOT	840_4
+840_4	has_surface_form	is
+840_5	is_in_sentence	sentence_840
+840_5	det	840_8
+840_5	has_surface_form	a
+840_8	is_in_sentence	sentence_840
+840_8	attr	840_4
+840_8	has_surface_form	school
+840_6	is_in_sentence	sentence_840
+840_6	amod	840_8
+840_6	has_surface_form	public
+840_7	is_in_sentence	sentence_840
+840_7	amod	840_8
+840_7	has_surface_form	high
+840_9	is_in_sentence	sentence_840
+840_9	prep	840_8
+840_9	has_surface_form	in
+840_10	is_in_sentence	sentence_840
+840_10	det	840_15
+840_10	has_surface_form	the
+840_15	is_in_sentence	sentence_840
+840_15	pobj	840_9
+840_15	has_surface_form	District
+840_11	is_in_sentence	sentence_840
+840_11	compound	840_12
+840_11	has_surface_form	San
+840_11	part_of_entity	San Diego
+840_12	is_in_sentence	sentence_840
+840_12	compound	840_15
+840_12	has_surface_form	Diego
+840_12	part_of_entity	San Diego
+840_13	is_in_sentence	sentence_840
+840_13	compound	840_14
+840_13	has_surface_form	Unified
+840_14	is_in_sentence	sentence_840
+840_14	compound	840_15
+840_14	has_surface_form	School
+840_16	is_in_sentence	sentence_840
+840_16	prep	840_15
+840_16	has_surface_form	in
+840_17	is_in_sentence	sentence_840
+840_17	compound	840_18
+840_17	has_surface_form	San
+840_17	part_of_entity	San Diego
+840_18	is_in_sentence	sentence_840
+840_18	pobj	840_16
+840_18	has_surface_form	Diego
+840_18	part_of_entity	San Diego
+840_19	is_in_sentence	sentence_840
+840_19	punct	840_18
+840_19	has_surface_form	,
+840_20	is_in_sentence	sentence_840
+840_20	conj	840_18
+840_20	has_surface_form	California
+840_21	is_in_sentence	sentence_840
+840_21	punct	840_18
+840_21	has_surface_form	,
+840_22	is_in_sentence	sentence_840
+840_22	compound	840_23
+840_22	has_surface_form	United
+840_23	is_in_sentence	sentence_840
+840_23	appos	840_18
+840_23	has_surface_form	States
+840_24	is_in_sentence	sentence_840
+840_24	punct	840_4
+840_24	has_surface_form	.
+840_25	is_in_sentence	sentence_840
+840_25	dep	840_4
+840_25	has_surface_form	
+Point Loma High School	surface_form	Point Loma High School
+Point Loma High School	is-where	San Diego
+San Diego	surface_form	San Diego

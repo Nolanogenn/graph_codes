@@ -1,0 +1,72 @@
+33557_0	is_in_sentence	sentence_33557
+33557_0	compound	33557_2
+33557_0	has_surface_form	Aston
+33557_0	part_of_entity	Aston Medical School
+33557_2	is_in_sentence	sentence_33557
+33557_2	nsubj	33557_6
+33557_2	has_surface_form	School
+33557_2	part_of_entity	Aston Medical School
+33557_1	is_in_sentence	sentence_33557
+33557_1	compound	33557_2
+33557_1	has_surface_form	Medical
+33557_1	part_of_entity	Aston Medical School
+33557_6	is_in_sentence	sentence_33557
+33557_6	ROOT	33557_6
+33557_6	has_surface_form	is
+33557_3	is_in_sentence	sentence_33557
+33557_3	punct	33557_2
+33557_3	has_surface_form	(
+33557_4	is_in_sentence	sentence_33557
+33557_4	appos	33557_2
+33557_4	has_surface_form	AMS
+33557_5	is_in_sentence	sentence_33557
+33557_5	punct	33557_2
+33557_5	has_surface_form	)
+33557_7	is_in_sentence	sentence_33557
+33557_7	det	33557_8
+33557_7	has_surface_form	a
+33557_8	is_in_sentence	sentence_33557
+33557_8	attr	33557_6
+33557_8	has_surface_form	school
+33557_9	is_in_sentence	sentence_33557
+33557_9	prep	33557_8
+33557_9	has_surface_form	within
+33557_10	is_in_sentence	sentence_33557
+33557_10	compound	33557_11
+33557_10	has_surface_form	Aston
+33557_11	is_in_sentence	sentence_33557
+33557_11	pobj	33557_9
+33557_11	has_surface_form	University
+33557_12	is_in_sentence	sentence_33557
+33557_12	punct	33557_11
+33557_12	has_surface_form	,
+33557_13	is_in_sentence	sentence_33557
+33557_13	acl	33557_11
+33557_13	has_surface_form	located
+33557_14	is_in_sentence	sentence_33557
+33557_14	prep	33557_13
+33557_14	has_surface_form	in
+33557_15	is_in_sentence	sentence_33557
+33557_15	compound	33557_17
+33557_15	is_entity	Birmingham
+33557_17	is_in_sentence	sentence_33557
+33557_17	pobj	33557_14
+33557_17	has_surface_form	centre
+Birmingham	surface_form	Birmingham
+33557_16	is_in_sentence	sentence_33557
+33557_16	compound	33557_17
+33557_16	has_surface_form	city
+33557_18	is_in_sentence	sentence_33557
+33557_18	punct	33557_17
+33557_18	has_surface_form	,
+33557_19	is_in_sentence	sentence_33557
+33557_19	appos	33557_17
+33557_19	has_surface_form	UK
+33557_20	is_in_sentence	sentence_33557
+33557_20	punct	33557_6
+33557_20	has_surface_form	.
+33557_21	is_in_sentence	sentence_33557
+33557_21	dep	33557_6
+33557_21	has_surface_form	
+Aston Medical School	surface_form	Aston Medical School
+Aston Medical School	is-where	Birmingham

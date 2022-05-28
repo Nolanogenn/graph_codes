@@ -1,0 +1,63 @@
+6653_0	is_in_sentence	sentence_6653
+6653_0	compound	6653_1
+6653_0	has_surface_form	North
+6653_0	part_of_entity	North Carolina Highway 704
+6653_1	is_in_sentence	sentence_6653
+6653_1	compound	6653_2
+6653_1	has_surface_form	Carolina
+6653_1	part_of_entity	North Carolina Highway 704
+6653_2	is_in_sentence	sentence_6653
+6653_2	nsubj	6653_9
+6653_2	has_surface_form	Highway
+6653_2	part_of_entity	North Carolina Highway 704
+6653_9	is_in_sentence	sentence_6653
+6653_9	ROOT	6653_9
+6653_9	has_surface_form	is
+6653_3	is_in_sentence	sentence_6653
+6653_3	nummod	6653_2
+6653_3	has_surface_form	704
+6653_3	part_of_entity	North Carolina Highway 704
+6653_4	is_in_sentence	sentence_6653
+6653_4	punct	6653_2
+6653_4	has_surface_form	(
+6653_5	is_in_sentence	sentence_6653
+6653_5	appos	6653_2
+6653_5	has_surface_form	NC
+6653_6	is_in_sentence	sentence_6653
+6653_6	dep	6653_5
+6653_6	has_surface_form	 
+6653_7	is_in_sentence	sentence_6653
+6653_7	nummod	6653_5
+6653_7	has_surface_form	704
+6653_8	is_in_sentence	sentence_6653
+6653_8	punct	6653_5
+6653_8	has_surface_form	)
+6653_10	is_in_sentence	sentence_6653
+6653_10	det	6653_13
+6653_10	has_surface_form	a
+6653_13	is_in_sentence	sentence_6653
+6653_13	attr	6653_9
+6653_13	has_surface_form	highway
+6653_13	part_of_entity	state highway
+6653_11	is_in_sentence	sentence_6653
+6653_11	amod	6653_13
+6653_11	has_surface_form	primary
+6653_12	is_in_sentence	sentence_6653
+6653_12	compound	6653_13
+6653_12	has_surface_form	state
+6653_12	part_of_entity	state highway
+6653_14	is_in_sentence	sentence_6653
+6653_14	prep	6653_13
+6653_14	has_surface_form	in
+6653_15	is_in_sentence	sentence_6653
+6653_15	det	6653_16
+6653_15	has_surface_form	the
+6653_16	is_in_sentence	sentence_6653
+6653_16	pobj	6653_14
+6653_16	has_surface_form	U.
+6653_17	is_in_sentence	sentence_6653
+6653_17	dep	6653_9
+6653_17	has_surface_form	
+North Carolina Highway 704	surface_form	North Carolina Highway 704
+North Carolina Highway 704	has-type	state highway
+state highway	surface_form	state highway

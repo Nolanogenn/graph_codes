@@ -1,0 +1,74 @@
+23031_0	is_in_sentence	sentence_23031
+23031_0	dep	23031_10
+23031_0	has_surface_form	State
+23031_0	part_of_entity	State of Things
+23031_10	is_in_sentence	sentence_23031
+23031_10	ROOT	23031_10
+23031_10	has_surface_form	is
+23031_1	is_in_sentence	sentence_23031
+23031_1	prep	23031_0
+23031_1	has_surface_form	of
+23031_1	part_of_entity	State of Things
+23031_2	is_in_sentence	sentence_23031
+23031_2	pobj	23031_1
+23031_2	has_surface_form	Things
+23031_2	part_of_entity	State of Things
+23031_3	is_in_sentence	sentence_23031
+23031_3	punct	23031_10
+23031_3	has_surface_form	(
+23031_4	is_in_sentence	sentence_23031
+23031_4	nsubj	23031_10
+23031_4	has_surface_form	Romanian
+23031_5	is_in_sentence	sentence_23031
+23031_5	punct	23031_4
+23031_5	has_surface_form	:
+23031_6	is_in_sentence	sentence_23031
+23031_6	compound	23031_8
+23031_6	has_surface_form	Stare
+23031_8	is_in_sentence	sentence_23031
+23031_8	appos	23031_4
+23031_8	has_surface_form	fapt
+23031_7	is_in_sentence	sentence_23031
+23031_7	nmod	23031_8
+23031_7	has_surface_form	de
+23031_9	is_in_sentence	sentence_23031
+23031_9	punct	23031_4
+23031_9	has_surface_form	)
+23031_11	is_in_sentence	sentence_23031
+23031_11	det	23031_15
+23031_11	has_surface_form	a
+23031_15	is_in_sentence	sentence_23031
+23031_15	attr	23031_10
+23031_15	has_surface_form	film
+23031_12	is_in_sentence	sentence_23031
+23031_12	nummod	23031_15
+23031_12	has_surface_form	1995
+23031_13	is_in_sentence	sentence_23031
+23031_13	amod	23031_15
+23031_13	has_surface_form	Romanian
+23031_14	is_in_sentence	sentence_23031
+23031_14	compound	23031_15
+23031_14	has_surface_form	drama
+23031_16	is_in_sentence	sentence_23031
+23031_16	acl	23031_15
+23031_16	has_surface_form	directed
+23031_17	is_in_sentence	sentence_23031
+23031_17	agent	23031_16
+23031_17	has_surface_form	by
+23031_18	is_in_sentence	sentence_23031
+23031_18	compound	23031_19
+23031_18	has_surface_form	Stere
+23031_18	part_of_entity	Stere Gulea
+23031_19	is_in_sentence	sentence_23031
+23031_19	pobj	23031_17
+23031_19	has_surface_form	Gulea
+23031_19	part_of_entity	Stere Gulea
+23031_20	is_in_sentence	sentence_23031
+23031_20	punct	23031_10
+23031_20	has_surface_form	.
+23031_21	is_in_sentence	sentence_23031
+23031_21	dep	23031_21
+23031_21	has_surface_form	
+State of Things	surface_form	State of Things
+State of Things	movie-has-director	Stere Gulea
+Stere Gulea	surface_form	Stere Gulea

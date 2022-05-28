@@ -1,0 +1,89 @@
+14655_0	is_in_sentence	sentence_14655
+14655_0	compound	14655_2
+14655_0	has_surface_form	Intent
+14655_0	part_of_entity	Intent to Kill
+14655_2	is_in_sentence	sentence_14655
+14655_2	nsubj	14655_3
+14655_2	has_surface_form	Kill
+14655_2	part_of_entity	Intent to Kill
+14655_1	is_in_sentence	sentence_14655
+14655_1	aux	14655_2
+14655_1	has_surface_form	to
+14655_1	part_of_entity	Intent to Kill
+14655_3	is_in_sentence	sentence_14655
+14655_3	ROOT	14655_3
+14655_3	has_surface_form	is
+14655_4	is_in_sentence	sentence_14655
+14655_4	det	14655_10
+14655_4	has_surface_form	a
+14655_10	is_in_sentence	sentence_14655
+14655_10	attr	14655_3
+14655_10	has_surface_form	film
+14655_5	is_in_sentence	sentence_14655
+14655_5	nummod	14655_10
+14655_5	has_surface_form	1958
+14655_6	is_in_sentence	sentence_14655
+14655_6	amod	14655_10
+14655_6	has_surface_form	British
+14655_7	is_in_sentence	sentence_14655
+14655_7	compound	14655_8
+14655_7	has_surface_form	film
+14655_8	is_in_sentence	sentence_14655
+14655_8	compound	14655_10
+14655_8	has_surface_form	noir
+14655_9	is_in_sentence	sentence_14655
+14655_9	compound	14655_10
+14655_9	has_surface_form	thriller
+14655_11	is_in_sentence	sentence_14655
+14655_11	acl	14655_10
+14655_11	has_surface_form	directed
+14655_12	is_in_sentence	sentence_14655
+14655_12	agent	14655_11
+14655_12	has_surface_form	by
+14655_13	is_in_sentence	sentence_14655
+14655_13	compound	14655_14
+14655_13	has_surface_form	Jack
+14655_14	is_in_sentence	sentence_14655
+14655_14	pobj	14655_12
+14655_14	has_surface_form	Cardiff
+14655_15	is_in_sentence	sentence_14655
+14655_15	cc	14655_11
+14655_15	has_surface_form	and
+14655_16	is_in_sentence	sentence_14655
+14655_16	conj	14655_11
+14655_16	has_surface_form	starring
+14655_17	is_in_sentence	sentence_14655
+14655_17	compound	14655_18
+14655_17	has_surface_form	Richard
+14655_18	is_in_sentence	sentence_14655
+14655_18	dobj	14655_16
+14655_18	has_surface_form	Todd
+14655_19	is_in_sentence	sentence_14655
+14655_19	punct	14655_18
+14655_19	has_surface_form	,
+14655_20	is_in_sentence	sentence_14655
+14655_20	compound	14655_21
+14655_20	has_surface_form	Betsy
+14655_21	is_in_sentence	sentence_14655
+14655_21	conj	14655_18
+14655_21	has_surface_form	Drake
+14655_22	is_in_sentence	sentence_14655
+14655_22	cc	14655_21
+14655_22	has_surface_form	and
+14655_23	is_in_sentence	sentence_14655
+14655_23	compound	14655_24
+14655_23	has_surface_form	Herbert
+14655_23	part_of_entity	Herbert Lom
+14655_24	is_in_sentence	sentence_14655
+14655_24	conj	14655_21
+14655_24	has_surface_form	Lom
+14655_24	part_of_entity	Herbert Lom
+14655_25	is_in_sentence	sentence_14655
+14655_25	punct	14655_3
+14655_25	has_surface_form	.
+14655_26	is_in_sentence	sentence_14655
+14655_26	dep	14655_3
+14655_26	has_surface_form	
+Intent to Kill	surface_form	Intent to Kill
+Intent to Kill	starring	Herbert Lom
+Herbert Lom	surface_form	Herbert Lom

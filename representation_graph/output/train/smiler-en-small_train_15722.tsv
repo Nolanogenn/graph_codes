@@ -1,0 +1,42 @@
+15721_0	is_in_sentence	sentence_15721
+15721_0	det	15721_3
+15721_0	has_surface_form	The
+15721_3	is_in_sentence	sentence_15721
+15721_3	nsubj	15721_4
+15721_3	has_surface_form	Cemetery
+15721_3	part_of_entity	Southern General Cemetery
+15721_1	is_in_sentence	sentence_15721
+15721_1	compound	15721_2
+15721_1	has_surface_form	Southern
+15721_1	part_of_entity	Southern General Cemetery
+15721_2	is_in_sentence	sentence_15721
+15721_2	compound	15721_3
+15721_2	has_surface_form	General
+15721_2	part_of_entity	Southern General Cemetery
+15721_4	is_in_sentence	sentence_15721
+15721_4	ROOT	15721_4
+15721_4	has_surface_form	is
+15721_5	is_in_sentence	sentence_15721
+15721_5	det	15721_7
+15721_5	has_surface_form	the
+15721_7	is_in_sentence	sentence_15721
+15721_7	attr	15721_4
+15721_7	is_entity	cemetery
+15721_6	is_in_sentence	sentence_15721
+15721_6	amod	15721_7
+15721_6	has_surface_form	largest
+cemetery	surface_form	cemetery
+15721_8	is_in_sentence	sentence_15721
+15721_8	prep	15721_7
+15721_8	has_surface_form	in
+15721_9	is_in_sentence	sentence_15721
+15721_9	pobj	15721_8
+15721_9	has_surface_form	Caracas
+15721_10	is_in_sentence	sentence_15721
+15721_10	punct	15721_4
+15721_10	has_surface_form	.
+15721_11	is_in_sentence	sentence_15721
+15721_11	dep	15721_4
+15721_11	has_surface_form	
+Southern General Cemetery	surface_form	Southern General Cemetery
+Southern General Cemetery	has-type	cemetery

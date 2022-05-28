@@ -1,0 +1,74 @@
+884_0	is_in_sentence	sentence_884
+884_0	det	884_2
+884_0	has_surface_form	A
+884_2	is_in_sentence	sentence_884
+884_2	nsubj	884_3
+884_2	has_surface_form	wheel
+884_2	part_of_entity	Pelton wheel
+884_1	is_in_sentence	sentence_884
+884_1	compound	884_2
+884_1	has_surface_form	Pelton
+884_1	part_of_entity	Pelton wheel
+884_3	is_in_sentence	sentence_884
+884_3	ROOT	884_3
+884_3	has_surface_form	is
+884_4	is_in_sentence	sentence_884
+884_4	det	884_9
+884_4	has_surface_form	an
+884_9	is_in_sentence	sentence_884
+884_9	attr	884_3
+884_9	has_surface_form	turbine
+884_5	is_in_sentence	sentence_884
+884_5	amod	884_7
+884_5	has_surface_form	impulse
+884_7	is_in_sentence	sentence_884
+884_7	compound	884_9
+884_7	has_surface_form	type
+884_6	is_in_sentence	sentence_884
+884_6	punct	884_7
+884_6	has_surface_form	-
+884_8	is_in_sentence	sentence_884
+884_8	compound	884_9
+884_8	has_surface_form	water
+884_10	is_in_sentence	sentence_884
+884_10	acl	884_9
+884_10	has_surface_form	invented
+884_11	is_in_sentence	sentence_884
+884_11	agent	884_10
+884_11	has_surface_form	by
+884_12	is_in_sentence	sentence_884
+884_12	compound	884_14
+884_12	has_surface_form	Lester
+884_12	part_of_entity	Lester Allan Pelton
+884_14	is_in_sentence	sentence_884
+884_14	pobj	884_11
+884_14	has_surface_form	Pelton
+884_14	part_of_entity	Lester Allan Pelton
+884_13	is_in_sentence	sentence_884
+884_13	compound	884_14
+884_13	has_surface_form	Allan
+884_13	part_of_entity	Lester Allan Pelton
+884_15	is_in_sentence	sentence_884
+884_15	prep	884_10
+884_15	has_surface_form	in
+884_16	is_in_sentence	sentence_884
+884_16	det	884_17
+884_16	has_surface_form	the
+884_17	is_in_sentence	sentence_884
+884_17	pobj	884_15
+884_17	has_surface_form	1870s
+884_18	is_in_sentence	sentence_884
+884_18	punct	884_3
+884_18	has_surface_form	.
+884_19	is_in_sentence	sentence_884
+884_19	ROOT	884_19
+884_19	has_surface_form	[
+884_20	is_in_sentence	sentence_884
+884_20	punct	884_19
+884_20	has_surface_form	.
+884_21	is_in_sentence	sentence_884
+884_21	dep	884_19
+884_21	has_surface_form	
+Pelton wheel	surface_form	Pelton wheel
+Pelton wheel	invented-by	Lester Allan Pelton
+Lester Allan Pelton	surface_form	Lester Allan Pelton

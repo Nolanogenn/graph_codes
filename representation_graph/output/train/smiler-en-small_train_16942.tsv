@@ -1,0 +1,115 @@
+16941_0	is_in_sentence	sentence_16941
+16941_0	det	16941_5
+16941_0	has_surface_form	The
+16941_5	is_in_sentence	sentence_16941
+16941_5	nsubj	16941_22
+16941_5	has_surface_form	Olympique
+16941_5	part_of_entity	Course de la Solidarité Olympique
+16941_1	is_in_sentence	sentence_16941
+16941_1	compound	16941_5
+16941_1	has_surface_form	Course
+16941_1	part_of_entity	Course de la Solidarité Olympique
+16941_2	is_in_sentence	sentence_16941
+16941_2	nmod	16941_3
+16941_2	has_surface_form	de
+16941_2	part_of_entity	Course de la Solidarité Olympique
+16941_3	is_in_sentence	sentence_16941
+16941_3	compound	16941_5
+16941_3	has_surface_form	la
+16941_3	part_of_entity	Course de la Solidarité Olympique
+16941_4	is_in_sentence	sentence_16941
+16941_4	compound	16941_5
+16941_4	has_surface_form	Solidarité
+16941_4	part_of_entity	Course de la Solidarité Olympique
+16941_22	is_in_sentence	sentence_16941
+16941_22	ROOT	16941_22
+16941_22	has_surface_form	is
+16941_6	is_in_sentence	sentence_16941
+16941_6	punct	16941_7
+16941_6	has_surface_form	(
+16941_7	is_in_sentence	sentence_16941
+16941_7	appos	16941_5
+16941_7	has_surface_form	Polish
+16941_8	is_in_sentence	sentence_16941
+16941_8	punct	16941_7
+16941_8	has_surface_form	:
+16941_9	is_in_sentence	sentence_16941
+16941_9	compound	16941_10
+16941_9	has_surface_form	Wyścig
+16941_10	is_in_sentence	sentence_16941
+16941_10	npadvmod	16941_7
+16941_10	has_surface_form	Solidarności
+16941_11	is_in_sentence	sentence_16941
+16941_11	compound	16941_12
+16941_11	has_surface_form	i
+16941_12	is_in_sentence	sentence_16941
+16941_12	appos	16941_10
+16941_12	has_surface_form	Olimpijczyków
+16941_13	is_in_sentence	sentence_16941
+16941_13	punct	16941_7
+16941_13	has_surface_form	;
+16941_14	is_in_sentence	sentence_16941
+16941_14	appos	16941_5
+16941_14	has_surface_form	English
+16941_15	is_in_sentence	sentence_16941
+16941_15	punct	16941_14
+16941_15	has_surface_form	:
+16941_16	is_in_sentence	sentence_16941
+16941_16	appos	16941_14
+16941_16	has_surface_form	Race
+16941_17	is_in_sentence	sentence_16941
+16941_17	prep	16941_16
+16941_17	has_surface_form	of
+16941_18	is_in_sentence	sentence_16941
+16941_18	pobj	16941_17
+16941_18	has_surface_form	Solidarity
+16941_19	is_in_sentence	sentence_16941
+16941_19	cc	16941_18
+16941_19	has_surface_form	and
+16941_20	is_in_sentence	sentence_16941
+16941_20	conj	16941_18
+16941_20	has_surface_form	Olympics
+16941_21	is_in_sentence	sentence_16941
+16941_21	punct	16941_16
+16941_21	has_surface_form	)
+16941_23	is_in_sentence	sentence_16941
+16941_23	det	16941_28
+16941_23	has_surface_form	a
+16941_28	is_in_sentence	sentence_16941
+16941_28	attr	16941_22
+16941_28	has_surface_form	race
+16941_28	part_of_entity	stage race
+16941_24	is_in_sentence	sentence_16941
+16941_24	compound	16941_25
+16941_24	has_surface_form	road
+16941_25	is_in_sentence	sentence_16941
+16941_25	compound	16941_26
+16941_25	has_surface_form	bicycle
+16941_26	is_in_sentence	sentence_16941
+16941_26	compound	16941_28
+16941_26	has_surface_form	racing
+16941_27	is_in_sentence	sentence_16941
+16941_27	compound	16941_28
+16941_27	has_surface_form	stage
+16941_27	part_of_entity	stage race
+16941_29	is_in_sentence	sentence_16941
+16941_29	acl	16941_28
+16941_29	has_surface_form	held
+16941_30	is_in_sentence	sentence_16941
+16941_30	advmod	16941_29
+16941_30	has_surface_form	annually
+16941_31	is_in_sentence	sentence_16941
+16941_31	prep	16941_29
+16941_31	has_surface_form	in
+16941_32	is_in_sentence	sentence_16941
+16941_32	pobj	16941_31
+16941_32	has_surface_form	Poland
+16941_33	is_in_sentence	sentence_16941
+16941_33	punct	16941_22
+16941_33	has_surface_form	.
+16941_34	is_in_sentence	sentence_16941
+16941_34	dep	16941_34
+16941_34	has_surface_form	
+Course de la Solidarité Olympique	surface_form	Course de la Solidarité Olympique
+Course de la Solidarité Olympique	has-type	stage race
+stage race	surface_form	stage race

@@ -1,0 +1,113 @@
+30133_0	is_in_sentence	sentence_30133
+30133_0	compound	30133_1
+30133_0	has_surface_form	New
+30133_0	part_of_entity	New York City Department of Design and Construction
+30133_1	is_in_sentence	sentence_30133
+30133_1	compound	30133_2
+30133_1	has_surface_form	York
+30133_1	part_of_entity	New York City Department of Design and Construction
+30133_2	is_in_sentence	sentence_30133
+30133_2	compound	30133_3
+30133_2	has_surface_form	City
+30133_2	part_of_entity	New York City Department of Design and Construction
+30133_3	is_in_sentence	sentence_30133
+30133_3	nsubj	30133_11
+30133_3	has_surface_form	Department
+30133_3	part_of_entity	New York City Department of Design and Construction
+30133_11	is_in_sentence	sentence_30133
+30133_11	ROOT	30133_11
+30133_11	has_surface_form	is
+30133_4	is_in_sentence	sentence_30133
+30133_4	prep	30133_3
+30133_4	has_surface_form	of
+30133_4	part_of_entity	New York City Department of Design and Construction
+30133_5	is_in_sentence	sentence_30133
+30133_5	pobj	30133_4
+30133_5	has_surface_form	Design
+30133_5	part_of_entity	New York City Department of Design and Construction
+30133_6	is_in_sentence	sentence_30133
+30133_6	cc	30133_5
+30133_6	has_surface_form	and
+30133_6	part_of_entity	New York City Department of Design and Construction
+30133_7	is_in_sentence	sentence_30133
+30133_7	conj	30133_5
+30133_7	has_surface_form	Construction
+30133_7	part_of_entity	New York City Department of Design and Construction
+30133_8	is_in_sentence	sentence_30133
+30133_8	punct	30133_9
+30133_8	has_surface_form	(
+30133_9	is_in_sentence	sentence_30133
+30133_9	appos	30133_3
+30133_9	has_surface_form	DDC
+30133_10	is_in_sentence	sentence_30133
+30133_10	punct	30133_9
+30133_10	has_surface_form	)
+30133_12	is_in_sentence	sentence_30133
+30133_12	det	30133_13
+30133_12	has_surface_form	the
+30133_13	is_in_sentence	sentence_30133
+30133_13	attr	30133_11
+30133_13	is_entity	department
+department	surface_form	department
+30133_14	is_in_sentence	sentence_30133
+30133_14	prep	30133_13
+30133_14	has_surface_form	of
+30133_15	is_in_sentence	sentence_30133
+30133_15	det	30133_16
+30133_15	has_surface_form	the
+30133_16	is_in_sentence	sentence_30133
+30133_16	pobj	30133_14
+30133_16	has_surface_form	government
+30133_17	is_in_sentence	sentence_30133
+30133_17	prep	30133_16
+30133_17	has_surface_form	of
+30133_18	is_in_sentence	sentence_30133
+30133_18	compound	30133_19
+30133_18	has_surface_form	New
+30133_19	is_in_sentence	sentence_30133
+30133_19	compound	30133_20
+30133_19	has_surface_form	York
+30133_20	is_in_sentence	sentence_30133
+30133_20	pobj	30133_17
+30133_20	has_surface_form	City
+30133_21	is_in_sentence	sentence_30133
+30133_21	nsubj	30133_22
+30133_21	has_surface_form	that
+30133_22	is_in_sentence	sentence_30133
+30133_22	relcl	30133_13
+30133_22	has_surface_form	builds
+30133_23	is_in_sentence	sentence_30133
+30133_23	dobj	30133_22
+30133_23	has_surface_form	many
+30133_24	is_in_sentence	sentence_30133
+30133_24	prep	30133_23
+30133_24	has_surface_form	of
+30133_25	is_in_sentence	sentence_30133
+30133_25	det	30133_27
+30133_25	has_surface_form	the
+30133_27	is_in_sentence	sentence_30133
+30133_27	pobj	30133_24
+30133_27	has_surface_form	facilities
+30133_26	is_in_sentence	sentence_30133
+30133_26	amod	30133_27
+30133_26	has_surface_form	civic
+30133_28	is_in_sentence	sentence_30133
+30133_28	prep	30133_27
+30133_28	has_surface_form	in
+30133_29	is_in_sentence	sentence_30133
+30133_29	compound	30133_30
+30133_29	has_surface_form	New
+30133_30	is_in_sentence	sentence_30133
+30133_30	compound	30133_31
+30133_30	has_surface_form	York
+30133_31	is_in_sentence	sentence_30133
+30133_31	pobj	30133_28
+30133_31	has_surface_form	City
+30133_32	is_in_sentence	sentence_30133
+30133_32	punct	30133_11
+30133_32	has_surface_form	.
+30133_33	is_in_sentence	sentence_30133
+30133_33	dep	30133_33
+30133_33	has_surface_form	
+New York City Department of Design and Construction	surface_form	New York City Department of Design and Construction
+New York City Department of Design and Construction	has-type	department

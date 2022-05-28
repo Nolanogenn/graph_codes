@@ -1,0 +1,65 @@
+10226_0	is_in_sentence	sentence_10226
+10226_0	compound	10226_1
+10226_0	has_surface_form	James
+10226_0	part_of_entity	James Sun
+10226_1	is_in_sentence	sentence_10226
+10226_1	nsubj	10226_8
+10226_1	has_surface_form	Sun
+10226_1	part_of_entity	James Sun
+10226_8	is_in_sentence	sentence_10226
+10226_8	ROOT	10226_8
+10226_8	has_surface_form	is
+10226_2	is_in_sentence	sentence_10226
+10226_2	punct	10226_3
+10226_2	has_surface_form	(
+10226_3	is_in_sentence	sentence_10226
+10226_3	appos	10226_1
+10226_3	has_surface_form	Korean
+10226_4	is_in_sentence	sentence_10226
+10226_4	punct	10226_3
+10226_4	has_surface_form	:
+10226_5	is_in_sentence	sentence_10226
+10226_5	dep	10226_3
+10226_5	has_surface_form	 
+10226_6	is_in_sentence	sentence_10226
+10226_6	appos	10226_3
+10226_6	has_surface_form	선우신
+10226_7	is_in_sentence	sentence_10226
+10226_7	punct	10226_3
+10226_7	has_surface_form	;
+10226_9	is_in_sentence	sentence_10226
+10226_9	det	10226_10
+10226_9	has_surface_form	an
+10226_10	is_in_sentence	sentence_10226
+10226_10	attr	10226_8
+10226_10	is_entity	entrepreneur
+entrepreneur	surface_form	entrepreneur
+10226_11	is_in_sentence	sentence_10226
+10226_11	punct	10226_10
+10226_11	has_surface_form	,
+10226_12	is_in_sentence	sentence_10226
+10226_12	compound	10226_13
+10226_12	has_surface_form	television
+10226_13	is_in_sentence	sentence_10226
+10226_13	conj	10226_10
+10226_13	has_surface_form	host
+10226_14	is_in_sentence	sentence_10226
+10226_14	punct	10226_13
+10226_14	has_surface_form	,
+10226_15	is_in_sentence	sentence_10226
+10226_15	cc	10226_13
+10226_15	has_surface_form	and
+10226_16	is_in_sentence	sentence_10226
+10226_16	amod	10226_17
+10226_16	has_surface_form	public
+10226_17	is_in_sentence	sentence_10226
+10226_17	conj	10226_13
+10226_17	has_surface_form	speaker
+10226_18	is_in_sentence	sentence_10226
+10226_18	punct	10226_8
+10226_18	has_surface_form	.
+10226_19	is_in_sentence	sentence_10226
+10226_19	dep	10226_8
+10226_19	has_surface_form	
+James Sun	surface_form	James Sun
+James Sun	has-occupation	entrepreneur

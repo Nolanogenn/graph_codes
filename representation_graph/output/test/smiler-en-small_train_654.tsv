@@ -1,0 +1,73 @@
+653_0	is_in_sentence	sentence_653
+653_0	compound	653_1
+653_0	has_surface_form	Maud
+653_0	part_of_entity	Maud Humphrey
+653_1	is_in_sentence	sentence_653
+653_1	nsubj	653_13
+653_1	has_surface_form	Humphrey
+653_1	part_of_entity	Maud Humphrey
+653_13	is_in_sentence	sentence_653
+653_13	ROOT	653_13
+653_13	has_surface_form	was
+653_2	is_in_sentence	sentence_653
+653_2	punct	653_1
+653_2	has_surface_form	(
+653_3	is_in_sentence	sentence_653
+653_3	appos	653_1
+653_3	has_surface_form	March
+653_4	is_in_sentence	sentence_653
+653_4	nummod	653_3
+653_4	has_surface_form	30
+653_5	is_in_sentence	sentence_653
+653_5	punct	653_3
+653_5	has_surface_form	,
+653_6	is_in_sentence	sentence_653
+653_6	nummod	653_3
+653_6	has_surface_form	1868
+653_7	is_in_sentence	sentence_653
+653_7	punct	653_1
+653_7	has_surface_form	–
+653_8	is_in_sentence	sentence_653
+653_8	appos	653_1
+653_8	has_surface_form	November
+653_9	is_in_sentence	sentence_653
+653_9	nummod	653_8
+653_9	has_surface_form	22
+653_10	is_in_sentence	sentence_653
+653_10	punct	653_8
+653_10	has_surface_form	,
+653_11	is_in_sentence	sentence_653
+653_11	appos	653_8
+653_11	has_surface_form	1940
+653_12	is_in_sentence	sentence_653
+653_12	punct	653_8
+653_12	has_surface_form	)
+653_14	is_in_sentence	sentence_653
+653_14	det	653_15
+653_14	has_surface_form	the
+653_15	is_in_sentence	sentence_653
+653_15	attr	653_13
+653_15	has_surface_form	mother
+653_16	is_in_sentence	sentence_653
+653_16	prep	653_15
+653_16	has_surface_form	of
+653_17	is_in_sentence	sentence_653
+653_17	compound	653_19
+653_17	has_surface_form	actor
+653_19	is_in_sentence	sentence_653
+653_19	pobj	653_16
+653_19	has_surface_form	Bogart
+653_19	part_of_entity	Humphrey Bogart
+653_18	is_in_sentence	sentence_653
+653_18	compound	653_19
+653_18	has_surface_form	Humphrey
+653_18	part_of_entity	Humphrey Bogart
+653_20	is_in_sentence	sentence_653
+653_20	punct	653_13
+653_20	has_surface_form	.
+653_21	is_in_sentence	sentence_653
+653_21	dep	653_13
+653_21	has_surface_form	
+Maud Humphrey	surface_form	Maud Humphrey
+Maud Humphrey	has-child	Humphrey Bogart
+Humphrey Bogart	surface_form	Humphrey Bogart

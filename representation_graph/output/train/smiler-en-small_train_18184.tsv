@@ -1,0 +1,62 @@
+18183_0	is_in_sentence	sentence_18183
+18183_0	compound	18183_1
+18183_0	has_surface_form	Jimmy
+18183_0	part_of_entity	Jimmy Sharpe
+18183_1	is_in_sentence	sentence_18183
+18183_1	nsubj	18183_9
+18183_1	has_surface_form	Sharpe
+18183_1	part_of_entity	Jimmy Sharpe
+18183_9	is_in_sentence	sentence_18183
+18183_9	ROOT	18183_9
+18183_9	has_surface_form	is
+18183_2	is_in_sentence	sentence_18183
+18183_2	punct	18183_1
+18183_2	has_surface_form	(
+18183_3	is_in_sentence	sentence_18183
+18183_3	acl	18183_1
+18183_3	has_surface_form	born
+18183_4	is_in_sentence	sentence_18183
+18183_4	npadvmod	18183_3
+18183_4	has_surface_form	October
+18183_5	is_in_sentence	sentence_18183
+18183_5	nummod	18183_4
+18183_5	has_surface_form	31
+18183_6	is_in_sentence	sentence_18183
+18183_6	punct	18183_4
+18183_6	has_surface_form	,
+18183_7	is_in_sentence	sentence_18183
+18183_7	nummod	18183_4
+18183_7	has_surface_form	1939
+18183_8	is_in_sentence	sentence_18183
+18183_8	punct	18183_1
+18183_8	has_surface_form	)
+18183_10	is_in_sentence	sentence_18183
+18183_10	det	18183_14
+18183_10	has_surface_form	a
+18183_14	is_in_sentence	sentence_18183
+18183_14	attr	18183_9
+18183_14	has_surface_form	player
+18183_11	is_in_sentence	sentence_18183
+18183_11	amod	18183_14
+18183_11	has_surface_form	former
+18183_12	is_in_sentence	sentence_18183
+18183_12	amod	18183_14
+18183_12	has_surface_form	American
+18183_13	is_in_sentence	sentence_18183
+18183_13	compound	18183_14
+18183_13	has_surface_form	football
+18183_15	is_in_sentence	sentence_18183
+18183_15	cc	18183_14
+18183_15	has_surface_form	and
+18183_16	is_in_sentence	sentence_18183
+18183_16	conj	18183_14
+18183_16	is_entity	coach
+coach	surface_form	coach
+18183_17	is_in_sentence	sentence_18183
+18183_17	punct	18183_9
+18183_17	has_surface_form	.
+18183_18	is_in_sentence	sentence_18183
+18183_18	dep	18183_18
+18183_18	has_surface_form	
+Jimmy Sharpe	surface_form	Jimmy Sharpe
+Jimmy Sharpe	has-type	coach

@@ -1,0 +1,88 @@
+24962_0	is_in_sentence	sentence_24962
+24962_0	compound	24962_1
+24962_0	has_surface_form	Rodney
+24962_0	part_of_entity	Rodney Watson
+24962_1	is_in_sentence	sentence_24962
+24962_1	nsubj	24962_9
+24962_1	has_surface_form	Watson
+24962_1	part_of_entity	Rodney Watson
+24962_9	is_in_sentence	sentence_24962
+24962_9	ROOT	24962_9
+24962_9	has_surface_form	is
+24962_2	is_in_sentence	sentence_24962
+24962_2	punct	24962_1
+24962_2	has_surface_form	(
+24962_3	is_in_sentence	sentence_24962
+24962_3	acl	24962_1
+24962_3	has_surface_form	born
+24962_4	is_in_sentence	sentence_24962
+24962_4	npadvmod	24962_3
+24962_4	has_surface_form	July
+24962_5	is_in_sentence	sentence_24962
+24962_5	nummod	24962_4
+24962_5	has_surface_form	18
+24962_6	is_in_sentence	sentence_24962
+24962_6	punct	24962_4
+24962_6	has_surface_form	,
+24962_7	is_in_sentence	sentence_24962
+24962_7	nummod	24962_4
+24962_7	has_surface_form	1960
+24962_8	is_in_sentence	sentence_24962
+24962_8	punct	24962_1
+24962_8	has_surface_form	)
+24962_10	is_in_sentence	sentence_24962
+24962_10	det	24962_12
+24962_10	has_surface_form	the
+24962_12	is_in_sentence	sentence_24962
+24962_12	attr	24962_9
+24962_12	has_surface_form	coach
+24962_12	part_of_entity	head coach
+24962_11	is_in_sentence	sentence_24962
+24962_11	compound	24962_12
+24962_11	has_surface_form	head
+24962_11	part_of_entity	head coach
+24962_13	is_in_sentence	sentence_24962
+24962_13	prep	24962_12
+24962_13	has_surface_form	for
+24962_14	is_in_sentence	sentence_24962
+24962_14	det	24962_15
+24962_14	has_surface_form	the
+24962_15	is_in_sentence	sentence_24962
+24962_15	pobj	24962_13
+24962_15	has_surface_form	University
+24962_16	is_in_sentence	sentence_24962
+24962_16	prep	24962_15
+24962_16	has_surface_form	of
+24962_17	is_in_sentence	sentence_24962
+24962_17	compound	24962_20
+24962_17	has_surface_form	Southern
+24962_20	is_in_sentence	sentence_24962
+24962_20	pobj	24962_16
+24962_20	has_surface_form	team
+24962_18	is_in_sentence	sentence_24962
+24962_18	compound	24962_19
+24962_18	has_surface_form	Indiana
+24962_19	is_in_sentence	sentence_24962
+24962_19	compound	24962_20
+24962_19	has_surface_form	basketball
+24962_21	is_in_sentence	sentence_24962
+24962_21	punct	24962_12
+24962_21	has_surface_form	—
+24962_22	is_in_sentence	sentence_24962
+24962_22	det	24962_24
+24962_22	has_surface_form	the
+24962_24	is_in_sentence	sentence_24962
+24962_24	appos	24962_12
+24962_24	has_surface_form	Eagles
+24962_23	is_in_sentence	sentence_24962
+24962_23	compound	24962_24
+24962_23	has_surface_form	Screaming
+24962_25	is_in_sentence	sentence_24962
+24962_25	punct	24962_9
+24962_25	has_surface_form	.
+24962_26	is_in_sentence	sentence_24962
+24962_26	dep	24962_9
+24962_26	has_surface_form	
+Rodney Watson	surface_form	Rodney Watson
+Rodney Watson	has-type	head coach
+head coach	surface_form	head coach

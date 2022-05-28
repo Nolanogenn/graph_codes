@@ -1,0 +1,65 @@
+1136_0	is_in_sentence	sentence_1136
+1136_0	compound	1136_1
+1136_0	has_surface_form	Brian
+1136_0	part_of_entity	Brian Schatz
+1136_1	is_in_sentence	sentence_1136
+1136_1	nsubjpass	1136_3
+1136_1	has_surface_form	Schatz
+1136_1	part_of_entity	Brian Schatz
+1136_3	is_in_sentence	sentence_1136
+1136_3	ROOT	1136_3
+1136_3	has_surface_form	born
+1136_2	is_in_sentence	sentence_1136
+1136_2	auxpass	1136_3
+1136_2	has_surface_form	was
+1136_4	is_in_sentence	sentence_1136
+1136_4	prep	1136_3
+1136_4	has_surface_form	in
+1136_5	is_in_sentence	sentence_1136
+1136_5	compound	1136_6
+1136_5	has_surface_form	Ann
+1136_6	is_in_sentence	sentence_1136
+1136_6	pobj	1136_4
+1136_6	has_surface_form	Arbor
+1136_7	is_in_sentence	sentence_1136
+1136_7	punct	1136_6
+1136_7	has_surface_form	,
+1136_8	is_in_sentence	sentence_1136
+1136_8	appos	1136_6
+1136_8	has_surface_form	Michigan
+1136_9	is_in_sentence	sentence_1136
+1136_9	punct	1136_6
+1136_9	has_surface_form	,
+1136_10	is_in_sentence	sentence_1136
+1136_10	prep	1136_3
+1136_10	has_surface_form	along
+1136_11	is_in_sentence	sentence_1136
+1136_11	prep	1136_10
+1136_11	has_surface_form	with
+1136_12	is_in_sentence	sentence_1136
+1136_12	det	1136_15
+1136_12	has_surface_form	an
+1136_15	is_in_sentence	sentence_1136
+1136_15	pobj	1136_11
+1136_15	has_surface_form	brother
+1136_13	is_in_sentence	sentence_1136
+1136_13	amod	1136_15
+1136_13	has_surface_form	identical
+1136_14	is_in_sentence	sentence_1136
+1136_14	amod	1136_15
+1136_14	has_surface_form	twin
+1136_16	is_in_sentence	sentence_1136
+1136_16	punct	1136_15
+1136_16	has_surface_form	,
+1136_17	is_in_sentence	sentence_1136
+1136_17	appos	1136_15
+1136_17	is_entity	Steve
+Steve	surface_form	Steve
+1136_18	is_in_sentence	sentence_1136
+1136_18	punct	1136_3
+1136_18	has_surface_form	.
+1136_19	is_in_sentence	sentence_1136
+1136_19	dep	1136_3
+1136_19	has_surface_form	
+Brian Schatz	surface_form	Brian Schatz
+Brian Schatz	has-sibling	Steve

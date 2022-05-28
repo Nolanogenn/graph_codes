@@ -1,0 +1,69 @@
+31993_0	is_in_sentence	sentence_31993
+31993_0	det	31993_1
+31993_0	has_surface_form	That
+31993_1	is_in_sentence	sentence_31993
+31993_1	npadvmod	31993_12
+31993_1	has_surface_form	year
+31993_12	is_in_sentence	sentence_31993
+31993_12	ROOT	31993_12
+31993_12	has_surface_form	kidnapped
+31993_2	is_in_sentence	sentence_31993
+31993_2	punct	31993_12
+31993_2	has_surface_form	,
+31993_3	is_in_sentence	sentence_31993
+31993_3	poss	31993_5
+31993_3	is_entity	Sinatra
+31993_5	is_in_sentence	sentence_31993
+31993_5	nsubjpass	31993_12
+31993_5	has_surface_form	son
+Sinatra	surface_form	Sinatra
+Sinatra	has-child	Frank Sinatra Jr.
+31993_4	is_in_sentence	sentence_31993
+31993_4	case	31993_3
+31993_4	has_surface_form	's
+31993_6	is_in_sentence	sentence_31993
+31993_6	punct	31993_5
+31993_6	has_surface_form	,
+31993_7	is_in_sentence	sentence_31993
+31993_7	compound	31993_9
+31993_7	has_surface_form	Frank
+31993_7	part_of_entity	Frank Sinatra Jr.
+31993_9	is_in_sentence	sentence_31993
+31993_9	appos	31993_5
+31993_9	has_surface_form	Jr.
+31993_9	part_of_entity	Frank Sinatra Jr.
+31993_8	is_in_sentence	sentence_31993
+31993_8	compound	31993_9
+31993_8	is_entity	Sinatra
+31993_8	part_of_entity	Frank Sinatra Jr.
+31993_10	is_in_sentence	sentence_31993
+31993_10	punct	31993_5
+31993_10	has_surface_form	,
+31993_11	is_in_sentence	sentence_31993
+31993_11	auxpass	31993_12
+31993_11	has_surface_form	was
+31993_13	is_in_sentence	sentence_31993
+31993_13	punct	31993_12
+31993_13	has_surface_form	,
+31993_14	is_in_sentence	sentence_31993
+31993_14	cc	31993_12
+31993_14	has_surface_form	but
+31993_15	is_in_sentence	sentence_31993
+31993_15	auxpass	31993_17
+31993_15	has_surface_form	was
+31993_17	is_in_sentence	sentence_31993
+31993_17	conj	31993_12
+31993_17	has_surface_form	released
+31993_16	is_in_sentence	sentence_31993
+31993_16	advmod	31993_17
+31993_16	has_surface_form	eventually
+31993_18	is_in_sentence	sentence_31993
+31993_18	oprd	31993_17
+31993_18	has_surface_form	unharmed
+31993_19	is_in_sentence	sentence_31993
+31993_19	punct	31993_12
+31993_19	has_surface_form	.
+31993_20	is_in_sentence	sentence_31993
+31993_20	dep	31993_20
+31993_20	has_surface_form	
+Frank Sinatra Jr.	surface_form	Frank Sinatra Jr.

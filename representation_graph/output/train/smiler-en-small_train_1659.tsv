@@ -1,0 +1,58 @@
+1658_0	is_in_sentence	sentence_1658
+1658_0	compound	1658_1
+1658_0	has_surface_form	Dennis
+1658_0	part_of_entity	Dennis Creehan
+1658_1	is_in_sentence	sentence_1658
+1658_1	nsubj	1658_9
+1658_1	has_surface_form	Creehan
+1658_1	part_of_entity	Dennis Creehan
+1658_9	is_in_sentence	sentence_1658
+1658_9	ROOT	1658_9
+1658_9	has_surface_form	is
+1658_2	is_in_sentence	sentence_1658
+1658_2	punct	1658_3
+1658_2	has_surface_form	(
+1658_3	is_in_sentence	sentence_1658
+1658_3	parataxis	1658_1
+1658_3	has_surface_form	born
+1658_4	is_in_sentence	sentence_1658
+1658_4	npadvmod	1658_3
+1658_4	has_surface_form	August
+1658_5	is_in_sentence	sentence_1658
+1658_5	nummod	1658_4
+1658_5	has_surface_form	16
+1658_6	is_in_sentence	sentence_1658
+1658_6	punct	1658_4
+1658_6	has_surface_form	,
+1658_7	is_in_sentence	sentence_1658
+1658_7	nummod	1658_4
+1658_7	has_surface_form	1949
+1658_8	is_in_sentence	sentence_1658
+1658_8	punct	1658_3
+1658_8	has_surface_form	)
+1658_10	is_in_sentence	sentence_1658
+1658_10	det	1658_14
+1658_10	has_surface_form	an
+1658_14	is_in_sentence	sentence_1658
+1658_14	attr	1658_9
+1658_14	has_surface_form	coach
+1658_14	part_of_entity	football coach
+1658_11	is_in_sentence	sentence_1658
+1658_11	amod	1658_14
+1658_11	has_surface_form	American
+1658_12	is_in_sentence	sentence_1658
+1658_12	compound	1658_13
+1658_12	has_surface_form	gridiron
+1658_13	is_in_sentence	sentence_1658
+1658_13	compound	1658_14
+1658_13	has_surface_form	football
+1658_13	part_of_entity	football coach
+1658_15	is_in_sentence	sentence_1658
+1658_15	punct	1658_9
+1658_15	has_surface_form	.
+1658_16	is_in_sentence	sentence_1658
+1658_16	dep	1658_16
+1658_16	has_surface_form	
+Dennis Creehan	surface_form	Dennis Creehan
+Dennis Creehan	has-type	football coach
+football coach	surface_form	football coach

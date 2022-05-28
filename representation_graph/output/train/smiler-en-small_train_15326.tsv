@@ -1,0 +1,59 @@
+15325_0	is_in_sentence	sentence_15325
+15325_0	compound	15325_1
+15325_0	has_surface_form	Sunken
+15325_0	part_of_entity	Sunken Silver
+15325_1	is_in_sentence	sentence_15325
+15325_1	nsubj	15325_2
+15325_1	has_surface_form	Silver
+15325_1	part_of_entity	Sunken Silver
+15325_2	is_in_sentence	sentence_15325
+15325_2	ROOT	15325_2
+15325_2	has_surface_form	is
+15325_3	is_in_sentence	sentence_15325
+15325_3	det	15325_7
+15325_3	has_surface_form	a
+15325_7	is_in_sentence	sentence_15325
+15325_7	attr	15325_2
+15325_7	has_surface_form	serial
+15325_4	is_in_sentence	sentence_15325
+15325_4	nummod	15325_7
+15325_4	has_surface_form	1925
+15325_5	is_in_sentence	sentence_15325
+15325_5	amod	15325_7
+15325_5	has_surface_form	American
+15325_6	is_in_sentence	sentence_15325
+15325_6	compound	15325_7
+15325_6	has_surface_form	film
+15325_8	is_in_sentence	sentence_15325
+15325_8	acl	15325_7
+15325_8	has_surface_form	directed
+15325_9	is_in_sentence	sentence_15325
+15325_9	agent	15325_8
+15325_9	has_surface_form	by
+15325_10	is_in_sentence	sentence_15325
+15325_10	compound	15325_12
+15325_10	has_surface_form	Spencer
+15325_10	part_of_entity	Spencer Gordon Bennet
+15325_12	is_in_sentence	sentence_15325
+15325_12	pobj	15325_9
+15325_12	has_surface_form	Bennet
+15325_12	part_of_entity	Spencer Gordon Bennet
+15325_11	is_in_sentence	sentence_15325
+15325_11	compound	15325_12
+15325_11	has_surface_form	Gordon
+15325_11	part_of_entity	Spencer Gordon Bennet
+15325_13	is_in_sentence	sentence_15325
+15325_13	cc	15325_12
+15325_13	has_surface_form	and
+15325_14	is_in_sentence	sentence_15325
+15325_14	compound	15325_15
+15325_14	has_surface_form	George
+15325_15	is_in_sentence	sentence_15325
+15325_15	conj	15325_12
+15325_15	has_surface_form	B.
+15325_16	is_in_sentence	sentence_15325
+15325_16	dep	15325_2
+15325_16	has_surface_form	
+Sunken Silver	surface_form	Sunken Silver
+Sunken Silver	movie-has-director	Spencer Gordon Bennet
+Spencer Gordon Bennet	surface_form	Spencer Gordon Bennet

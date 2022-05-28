@@ -1,0 +1,73 @@
+2502_0	is_in_sentence	sentence_2502
+2502_0	compound	2502_1
+2502_0	has_surface_form	Married
+2502_0	part_of_entity	Married Bachelor
+2502_1	is_in_sentence	sentence_2502
+2502_1	nsubj	2502_2
+2502_1	has_surface_form	Bachelor
+2502_1	part_of_entity	Married Bachelor
+2502_2	is_in_sentence	sentence_2502
+2502_2	ROOT	2502_2
+2502_2	has_surface_form	is
+2502_3	is_in_sentence	sentence_2502
+2502_3	det	2502_7
+2502_3	has_surface_form	a
+2502_7	is_in_sentence	sentence_2502
+2502_7	attr	2502_2
+2502_7	has_surface_form	film
+2502_4	is_in_sentence	sentence_2502
+2502_4	nummod	2502_7
+2502_4	has_surface_form	1941
+2502_5	is_in_sentence	sentence_2502
+2502_5	amod	2502_7
+2502_5	has_surface_form	American
+2502_6	is_in_sentence	sentence_2502
+2502_6	compound	2502_7
+2502_6	has_surface_form	comedy
+2502_8	is_in_sentence	sentence_2502
+2502_8	acl	2502_7
+2502_8	has_surface_form	directed
+2502_9	is_in_sentence	sentence_2502
+2502_9	agent	2502_8
+2502_9	has_surface_form	by
+2502_10	is_in_sentence	sentence_2502
+2502_10	compound	2502_11
+2502_10	has_surface_form	Edward
+2502_11	is_in_sentence	sentence_2502
+2502_11	pobj	2502_9
+2502_11	has_surface_form	Buzzell
+2502_12	is_in_sentence	sentence_2502
+2502_12	punct	2502_2
+2502_12	has_surface_form	.
+2502_13	is_in_sentence	sentence_2502
+2502_13	nsubj	2502_14
+2502_13	has_surface_form	It
+2502_14	is_in_sentence	sentence_2502
+2502_14	ROOT	2502_14
+2502_14	has_surface_form	stars
+2502_15	is_in_sentence	sentence_2502
+2502_15	compound	2502_16
+2502_15	has_surface_form	Robert
+2502_15	part_of_entity	Robert Young
+2502_16	is_in_sentence	sentence_2502
+2502_16	dobj	2502_14
+2502_16	has_surface_form	Young
+2502_16	part_of_entity	Robert Young
+2502_17	is_in_sentence	sentence_2502
+2502_17	cc	2502_16
+2502_17	has_surface_form	and
+2502_18	is_in_sentence	sentence_2502
+2502_18	compound	2502_19
+2502_18	has_surface_form	Ruth
+2502_19	is_in_sentence	sentence_2502
+2502_19	conj	2502_16
+2502_19	has_surface_form	Hussey
+2502_20	is_in_sentence	sentence_2502
+2502_20	punct	2502_14
+2502_20	has_surface_form	.
+2502_21	is_in_sentence	sentence_2502
+2502_21	dep	2502_14
+2502_21	has_surface_form	
+Married Bachelor	surface_form	Married Bachelor
+Married Bachelor	starring	Robert Young
+Robert Young	surface_form	Robert Young

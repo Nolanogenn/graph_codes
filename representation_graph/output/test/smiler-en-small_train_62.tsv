@@ -1,0 +1,62 @@
+61_0	is_in_sentence	sentence_61
+61_0	compound	61_1
+61_0	has_surface_form	San
+61_0	part_of_entity	San Francisco Polytechnic High School
+61_1	is_in_sentence	sentence_61
+61_1	compound	61_4
+61_1	has_surface_form	Francisco
+61_1	part_of_entity	San Francisco Polytechnic High School
+61_4	is_in_sentence	sentence_61
+61_4	nsubj	61_5
+61_4	has_surface_form	School
+61_4	part_of_entity	San Francisco Polytechnic High School
+61_2	is_in_sentence	sentence_61
+61_2	compound	61_4
+61_2	has_surface_form	Polytechnic
+61_2	part_of_entity	San Francisco Polytechnic High School
+61_3	is_in_sentence	sentence_61
+61_3	compound	61_4
+61_3	has_surface_form	High
+61_3	part_of_entity	San Francisco Polytechnic High School
+61_5	is_in_sentence	sentence_61
+61_5	ROOT	61_5
+61_5	has_surface_form	was
+61_6	is_in_sentence	sentence_61
+61_6	det	61_9
+61_6	has_surface_form	a
+61_9	is_in_sentence	sentence_61
+61_9	attr	61_5
+61_9	has_surface_form	school
+61_9	part_of_entity	public secondary school
+61_7	is_in_sentence	sentence_61
+61_7	amod	61_9
+61_7	has_surface_form	public
+61_7	part_of_entity	public secondary school
+61_8	is_in_sentence	sentence_61
+61_8	amod	61_9
+61_8	has_surface_form	secondary
+61_8	part_of_entity	public secondary school
+61_10	is_in_sentence	sentence_61
+61_10	prep	61_9
+61_10	has_surface_form	in
+61_11	is_in_sentence	sentence_61
+61_11	compound	61_12
+61_11	has_surface_form	San
+61_12	is_in_sentence	sentence_61
+61_12	pobj	61_10
+61_12	has_surface_form	Francisco
+61_13	is_in_sentence	sentence_61
+61_13	punct	61_12
+61_13	has_surface_form	,
+61_14	is_in_sentence	sentence_61
+61_14	appos	61_12
+61_14	has_surface_form	California
+61_15	is_in_sentence	sentence_61
+61_15	punct	61_5
+61_15	has_surface_form	.
+61_16	is_in_sentence	sentence_61
+61_16	dep	61_16
+61_16	has_surface_form	
+San Francisco Polytechnic High School	surface_form	San Francisco Polytechnic High School
+San Francisco Polytechnic High School	has-type	public secondary school
+public secondary school	surface_form	public secondary school

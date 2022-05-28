@@ -1,0 +1,72 @@
+33532_0	is_in_sentence	sentence_33532
+33532_0	det	33532_2
+33532_0	has_surface_form	The
+33532_0	part_of_entity	The GNOME Project
+33532_2	is_in_sentence	sentence_33532
+33532_2	nsubj	33532_3
+33532_2	has_surface_form	Project
+33532_2	part_of_entity	The GNOME Project
+33532_1	is_in_sentence	sentence_33532
+33532_1	compound	33532_2
+33532_1	has_surface_form	GNOME
+33532_1	part_of_entity	The GNOME Project
+33532_3	is_in_sentence	sentence_33532
+33532_3	ROOT	33532_3
+33532_3	has_surface_form	is
+33532_4	is_in_sentence	sentence_33532
+33532_4	det	33532_5
+33532_4	has_surface_form	a
+33532_5	is_in_sentence	sentence_33532
+33532_5	attr	33532_3
+33532_5	is_entity	community
+community	surface_form	community
+33532_6	is_in_sentence	sentence_33532
+33532_6	prep	33532_5
+33532_6	has_surface_form	behind
+33532_7	is_in_sentence	sentence_33532
+33532_7	det	33532_10
+33532_7	has_surface_form	the
+33532_10	is_in_sentence	sentence_33532
+33532_10	pobj	33532_6
+33532_10	has_surface_form	environment
+33532_8	is_in_sentence	sentence_33532
+33532_8	compound	33532_10
+33532_8	has_surface_form	GNOME
+33532_9	is_in_sentence	sentence_33532
+33532_9	compound	33532_10
+33532_9	has_surface_form	desktop
+33532_11	is_in_sentence	sentence_33532
+33532_11	cc	33532_10
+33532_11	has_surface_form	and
+33532_12	is_in_sentence	sentence_33532
+33532_12	det	33532_14
+33532_12	has_surface_form	the
+33532_14	is_in_sentence	sentence_33532
+33532_14	conj	33532_10
+33532_14	has_surface_form	platform
+33532_13	is_in_sentence	sentence_33532
+33532_13	compound	33532_14
+33532_13	has_surface_form	software
+33532_15	is_in_sentence	sentence_33532
+33532_15	prep	33532_19
+33532_15	has_surface_form	upon
+33532_19	is_in_sentence	sentence_33532
+33532_19	relcl	33532_14
+33532_19	has_surface_form	based
+33532_16	is_in_sentence	sentence_33532
+33532_16	pobj	33532_15
+33532_16	has_surface_form	which
+33532_17	is_in_sentence	sentence_33532
+33532_17	nsubjpass	33532_19
+33532_17	has_surface_form	it
+33532_18	is_in_sentence	sentence_33532
+33532_18	auxpass	33532_19
+33532_18	has_surface_form	is
+33532_20	is_in_sentence	sentence_33532
+33532_20	punct	33532_3
+33532_20	has_surface_form	.
+33532_21	is_in_sentence	sentence_33532
+33532_21	dep	33532_21
+33532_21	has_surface_form	
+The GNOME Project	surface_form	The GNOME Project
+The GNOME Project	has-type	community

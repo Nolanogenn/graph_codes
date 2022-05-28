@@ -1,0 +1,89 @@
+293_0	is_in_sentence	sentence_293
+293_0	det	293_2
+293_0	has_surface_form	A
+293_0	part_of_entity	A Long Return
+293_2	is_in_sentence	sentence_293
+293_2	nsubj	293_14
+293_2	has_surface_form	Return
+293_2	part_of_entity	A Long Return
+293_1	is_in_sentence	sentence_293
+293_1	compound	293_2
+293_1	has_surface_form	Long
+293_1	part_of_entity	A Long Return
+293_14	is_in_sentence	sentence_293
+293_14	ROOT	293_14
+293_14	has_surface_form	is
+293_3	is_in_sentence	sentence_293
+293_3	punct	293_2
+293_3	has_surface_form	,
+293_4	is_in_sentence	sentence_293
+293_4	advmod	293_5
+293_4	has_surface_form	also
+293_5	is_in_sentence	sentence_293
+293_5	acl	293_2
+293_5	has_surface_form	known
+293_6	is_in_sentence	sentence_293
+293_6	agent	293_5
+293_6	has_surface_form	by
+293_7	is_in_sentence	sentence_293
+293_7	det	293_8
+293_7	has_surface_form	the
+293_8	is_in_sentence	sentence_293
+293_8	pobj	293_6
+293_8	has_surface_form	title
+293_9	is_in_sentence	sentence_293
+293_9	compound	293_10
+293_9	has_surface_form	Largo
+293_10	is_in_sentence	sentence_293
+293_10	appos	293_8
+293_10	has_surface_form	Retorno
+293_11	is_in_sentence	sentence_293
+293_11	prep	293_10
+293_11	has_surface_form	in
+293_12	is_in_sentence	sentence_293
+293_12	pobj	293_11
+293_12	has_surface_form	Spain
+293_13	is_in_sentence	sentence_293
+293_13	punct	293_2
+293_13	has_surface_form	,
+293_15	is_in_sentence	sentence_293
+293_15	det	293_19
+293_15	has_surface_form	a
+293_19	is_in_sentence	sentence_293
+293_19	attr	293_14
+293_19	has_surface_form	film
+293_16	is_in_sentence	sentence_293
+293_16	nummod	293_19
+293_16	has_surface_form	1975
+293_17	is_in_sentence	sentence_293
+293_17	amod	293_19
+293_17	has_surface_form	Spanish
+293_18	is_in_sentence	sentence_293
+293_18	amod	293_19
+293_18	has_surface_form	romantic
+293_20	is_in_sentence	sentence_293
+293_20	punct	293_19
+293_20	has_surface_form	,
+293_21	is_in_sentence	sentence_293
+293_21	acl	293_19
+293_21	has_surface_form	directed
+293_22	is_in_sentence	sentence_293
+293_22	agent	293_21
+293_22	has_surface_form	by
+293_23	is_in_sentence	sentence_293
+293_23	compound	293_24
+293_23	has_surface_form	Pedro
+293_23	part_of_entity	Pedro Lazaga
+293_24	is_in_sentence	sentence_293
+293_24	pobj	293_22
+293_24	has_surface_form	Lazaga
+293_24	part_of_entity	Pedro Lazaga
+293_25	is_in_sentence	sentence_293
+293_25	punct	293_14
+293_25	has_surface_form	.
+293_26	is_in_sentence	sentence_293
+293_26	dep	293_14
+293_26	has_surface_form	
+A Long Return	surface_form	A Long Return
+A Long Return	movie-has-director	Pedro Lazaga
+Pedro Lazaga	surface_form	Pedro Lazaga

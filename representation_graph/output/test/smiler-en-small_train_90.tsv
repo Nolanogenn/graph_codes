@@ -1,0 +1,86 @@
+89_0	is_in_sentence	sentence_89
+89_0	det	89_2
+89_0	has_surface_form	The
+89_0	part_of_entity	The Life Line
+89_2	is_in_sentence	sentence_89
+89_2	nsubj	89_3
+89_2	has_surface_form	Line
+89_2	part_of_entity	The Life Line
+89_1	is_in_sentence	sentence_89
+89_1	compound	89_2
+89_1	has_surface_form	Life
+89_1	part_of_entity	The Life Line
+89_3	is_in_sentence	sentence_89
+89_3	ROOT	89_3
+89_3	has_surface_form	is
+89_4	is_in_sentence	sentence_89
+89_4	det	89_9
+89_4	has_surface_form	a
+89_9	is_in_sentence	sentence_89
+89_9	attr	89_3
+89_9	has_surface_form	film
+89_5	is_in_sentence	sentence_89
+89_5	nummod	89_9
+89_5	has_surface_form	1919
+89_6	is_in_sentence	sentence_89
+89_6	amod	89_9
+89_6	has_surface_form	American
+89_7	is_in_sentence	sentence_89
+89_7	amod	89_9
+89_7	has_surface_form	silent
+89_8	is_in_sentence	sentence_89
+89_8	compound	89_9
+89_8	has_surface_form	drama
+89_10	is_in_sentence	sentence_89
+89_10	acl	89_9
+89_10	has_surface_form	directed
+89_11	is_in_sentence	sentence_89
+89_11	agent	89_10
+89_11	has_surface_form	by
+89_12	is_in_sentence	sentence_89
+89_12	compound	89_13
+89_12	has_surface_form	Maurice
+89_12	part_of_entity	Maurice Tourneur
+89_13	is_in_sentence	sentence_89
+89_13	pobj	89_11
+89_13	has_surface_form	Tourneur
+89_13	part_of_entity	Maurice Tourneur
+89_14	is_in_sentence	sentence_89
+89_14	cc	89_10
+89_14	has_surface_form	and
+89_15	is_in_sentence	sentence_89
+89_15	conj	89_10
+89_15	has_surface_form	starring
+89_16	is_in_sentence	sentence_89
+89_16	compound	89_17
+89_16	has_surface_form	Jack
+89_17	is_in_sentence	sentence_89
+89_17	dobj	89_15
+89_17	has_surface_form	Holt
+89_18	is_in_sentence	sentence_89
+89_18	punct	89_17
+89_18	has_surface_form	,
+89_19	is_in_sentence	sentence_89
+89_19	compound	89_20
+89_19	has_surface_form	Wallace
+89_20	is_in_sentence	sentence_89
+89_20	appos	89_17
+89_20	has_surface_form	Beery
+89_21	is_in_sentence	sentence_89
+89_21	cc	89_20
+89_21	has_surface_form	and
+89_22	is_in_sentence	sentence_89
+89_22	compound	89_23
+89_22	has_surface_form	Lew
+89_23	is_in_sentence	sentence_89
+89_23	conj	89_20
+89_23	has_surface_form	Cody
+89_24	is_in_sentence	sentence_89
+89_24	punct	89_3
+89_24	has_surface_form	.
+89_25	is_in_sentence	sentence_89
+89_25	dep	89_3
+89_25	has_surface_form	
+The Life Line	surface_form	The Life Line
+The Life Line	movie-has-director	Maurice Tourneur
+Maurice Tourneur	surface_form	Maurice Tourneur

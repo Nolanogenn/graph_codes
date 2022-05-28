@@ -1,0 +1,58 @@
+2612_0	is_in_sentence	sentence_2612
+2612_0	compound	2612_1
+2612_0	has_surface_form	Carlson
+2612_0	part_of_entity	Carlson School of Management
+2612_1	is_in_sentence	sentence_2612
+2612_1	nsubj	2612_4
+2612_1	has_surface_form	School
+2612_1	part_of_entity	Carlson School of Management
+2612_4	is_in_sentence	sentence_2612
+2612_4	ROOT	2612_4
+2612_4	has_surface_form	is
+2612_2	is_in_sentence	sentence_2612
+2612_2	prep	2612_1
+2612_2	has_surface_form	of
+2612_2	part_of_entity	Carlson School of Management
+2612_3	is_in_sentence	sentence_2612
+2612_3	pobj	2612_2
+2612_3	has_surface_form	Management
+2612_3	part_of_entity	Carlson School of Management
+2612_5	is_in_sentence	sentence_2612
+2612_5	det	2612_7
+2612_5	has_surface_form	a
+2612_7	is_in_sentence	sentence_2612
+2612_7	attr	2612_4
+2612_7	has_surface_form	school
+2612_6	is_in_sentence	sentence_2612
+2612_6	compound	2612_7
+2612_6	has_surface_form	business
+2612_8	is_in_sentence	sentence_2612
+2612_8	prep	2612_7
+2612_8	has_surface_form	at
+2612_9	is_in_sentence	sentence_2612
+2612_9	det	2612_10
+2612_9	has_surface_form	the
+2612_10	is_in_sentence	sentence_2612
+2612_10	pobj	2612_8
+2612_10	has_surface_form	University
+2612_11	is_in_sentence	sentence_2612
+2612_11	prep	2612_10
+2612_11	has_surface_form	of
+2612_12	is_in_sentence	sentence_2612
+2612_12	pobj	2612_11
+2612_12	has_surface_form	Minnesota
+2612_13	is_in_sentence	sentence_2612
+2612_13	prep	2612_10
+2612_13	has_surface_form	in
+2612_14	is_in_sentence	sentence_2612
+2612_14	pobj	2612_13
+2612_14	is_entity	Minneapolis
+Minneapolis	surface_form	Minneapolis
+2612_15	is_in_sentence	sentence_2612
+2612_15	punct	2612_4
+2612_15	has_surface_form	.
+2612_16	is_in_sentence	sentence_2612
+2612_16	dep	2612_16
+2612_16	has_surface_form	
+Carlson School of Management	surface_form	Carlson School of Management
+Carlson School of Management	is-where	Minneapolis

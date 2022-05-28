@@ -1,0 +1,56 @@
+1127_0	is_in_sentence	sentence_1127
+1127_0	compound	1127_1
+1127_0	has_surface_form	Chowan
+1127_0	part_of_entity	Chowan University
+1127_1	is_in_sentence	sentence_1127
+1127_1	nsubj	1127_5
+1127_1	has_surface_form	University
+1127_1	part_of_entity	Chowan University
+1127_5	is_in_sentence	sentence_1127
+1127_5	ROOT	1127_5
+1127_5	has_surface_form	is
+1127_2	is_in_sentence	sentence_1127
+1127_2	punct	1127_1
+1127_2	has_surface_form	(
+1127_3	is_in_sentence	sentence_1127
+1127_3	appos	1127_1
+1127_3	has_surface_form	/tʃoʊˈwɒn/
+1127_4	is_in_sentence	sentence_1127
+1127_4	punct	1127_1
+1127_4	has_surface_form	)
+1127_6	is_in_sentence	sentence_1127
+1127_6	det	1127_9
+1127_6	has_surface_form	a
+1127_9	is_in_sentence	sentence_1127
+1127_9	attr	1127_5
+1127_9	has_surface_form	university
+1127_7	is_in_sentence	sentence_1127
+1127_7	amod	1127_9
+1127_7	has_surface_form	private
+1127_8	is_in_sentence	sentence_1127
+1127_8	compound	1127_9
+1127_8	has_surface_form	Baptist
+1127_10	is_in_sentence	sentence_1127
+1127_10	prep	1127_9
+1127_10	has_surface_form	in
+1127_11	is_in_sentence	sentence_1127
+1127_11	pobj	1127_10
+1127_11	has_surface_form	Murfreesboro
+1127_12	is_in_sentence	sentence_1127
+1127_12	punct	1127_11
+1127_12	has_surface_form	,
+1127_13	is_in_sentence	sentence_1127
+1127_13	compound	1127_14
+1127_13	has_surface_form	North
+1127_14	is_in_sentence	sentence_1127
+1127_14	appos	1127_11
+1127_14	has_surface_form	Carolina
+1127_15	is_in_sentence	sentence_1127
+1127_15	punct	1127_5
+1127_15	has_surface_form	.
+1127_16	is_in_sentence	sentence_1127
+1127_16	dep	1127_5
+1127_16	has_surface_form	
+Chowan University	surface_form	Chowan University
+Chowan University	is-where	Murfreesboro, North Carolina
+Murfreesboro, North Carolina	surface_form	Murfreesboro, North Carolina

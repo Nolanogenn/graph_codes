@@ -1,0 +1,73 @@
+3601_0	is_in_sentence	sentence_3601
+3601_0	compound	3601_1
+3601_0	has_surface_form	Lucy
+3601_0	part_of_entity	Lucy Coats
+3601_1	is_in_sentence	sentence_3601
+3601_1	nsubj	3601_2
+3601_1	has_surface_form	Coats
+3601_1	part_of_entity	Lucy Coats
+3601_2	is_in_sentence	sentence_3601
+3601_2	ROOT	3601_2
+3601_2	has_surface_form	is
+3601_3	is_in_sentence	sentence_3601
+3601_3	det	3601_5
+3601_3	has_surface_form	an
+3601_5	is_in_sentence	sentence_3601
+3601_5	attr	3601_2
+3601_5	has_surface_form	writer
+3601_4	is_in_sentence	sentence_3601
+3601_4	amod	3601_5
+3601_4	has_surface_form	English
+3601_6	is_in_sentence	sentence_3601
+3601_6	prep	3601_5
+3601_6	has_surface_form	of
+3601_7	is_in_sentence	sentence_3601
+3601_7	compound	3601_8
+3601_7	has_surface_form	picture
+3601_7	part_of_entity	picture books
+3601_8	is_in_sentence	sentence_3601
+3601_8	pobj	3601_6
+3601_8	has_surface_form	books
+3601_8	part_of_entity	picture books
+3601_9	is_in_sentence	sentence_3601
+3601_9	punct	3601_8
+3601_9	has_surface_form	,
+3601_10	is_in_sentence	sentence_3601
+3601_10	conj	3601_8
+3601_10	has_surface_form	poetry
+3601_11	is_in_sentence	sentence_3601
+3601_11	punct	3601_10
+3601_11	has_surface_form	,
+3601_12	is_in_sentence	sentence_3601
+3601_12	conj	3601_10
+3601_12	has_surface_form	stories
+3601_13	is_in_sentence	sentence_3601
+3601_13	cc	3601_12
+3601_13	has_surface_form	and
+3601_14	is_in_sentence	sentence_3601
+3601_14	conj	3601_12
+3601_14	has_surface_form	novels
+3601_15	is_in_sentence	sentence_3601
+3601_15	prep	3601_5
+3601_15	has_surface_form	for
+3601_16	is_in_sentence	sentence_3601
+3601_16	pobj	3601_15
+3601_16	has_surface_form	children
+3601_17	is_in_sentence	sentence_3601
+3601_17	prep	3601_16
+3601_17	has_surface_form	of
+3601_18	is_in_sentence	sentence_3601
+3601_18	det	3601_19
+3601_18	has_surface_form	all
+3601_19	is_in_sentence	sentence_3601
+3601_19	pobj	3601_17
+3601_19	has_surface_form	ages
+3601_20	is_in_sentence	sentence_3601
+3601_20	punct	3601_2
+3601_20	has_surface_form	.
+3601_21	is_in_sentence	sentence_3601
+3601_21	dep	3601_2
+3601_21	has_surface_form	
+Lucy Coats	surface_form	Lucy Coats
+Lucy Coats	has-genre	picture books
+picture books	surface_form	picture books

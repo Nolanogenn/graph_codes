@@ -1,0 +1,59 @@
+10389_0	is_in_sentence	sentence_10389
+10389_0	compound	10389_1
+10389_0	has_surface_form	Alex
+10389_0	part_of_entity	Alex Coke
+10389_1	is_in_sentence	sentence_10389
+10389_1	nsubj	10389_10
+10389_1	has_surface_form	Coke
+10389_1	part_of_entity	Alex Coke
+10389_10	is_in_sentence	sentence_10389
+10389_10	ROOT	10389_10
+10389_10	has_surface_form	is
+10389_2	is_in_sentence	sentence_10389
+10389_2	punct	10389_1
+10389_2	has_surface_form	(
+10389_3	is_in_sentence	sentence_10389
+10389_3	acl	10389_1
+10389_3	has_surface_form	born
+10389_4	is_in_sentence	sentence_10389
+10389_4	npadvmod	10389_3
+10389_4	has_surface_form	1953
+10389_5	is_in_sentence	sentence_10389
+10389_5	punct	10389_1
+10389_5	has_surface_form	,
+10389_6	is_in_sentence	sentence_10389
+10389_6	npadvmod	10389_1
+10389_6	has_surface_form	Dallas
+10389_7	is_in_sentence	sentence_10389
+10389_7	punct	10389_6
+10389_7	has_surface_form	,
+10389_8	is_in_sentence	sentence_10389
+10389_8	appos	10389_6
+10389_8	has_surface_form	Texas
+10389_9	is_in_sentence	sentence_10389
+10389_9	punct	10389_6
+10389_9	has_surface_form	)
+10389_11	is_in_sentence	sentence_10389
+10389_11	det	10389_13
+10389_11	has_surface_form	a
+10389_13	is_in_sentence	sentence_10389
+10389_13	attr	10389_10
+10389_13	has_surface_form	saxophonist
+10389_12	is_in_sentence	sentence_10389
+10389_12	compound	10389_13
+10389_12	has_surface_form	jazz
+10389_14	is_in_sentence	sentence_10389
+10389_14	cc	10389_13
+10389_14	has_surface_form	and
+10389_15	is_in_sentence	sentence_10389
+10389_15	conj	10389_13
+10389_15	has_surface_form	flutist
+10389_16	is_in_sentence	sentence_10389
+10389_16	punct	10389_10
+10389_16	has_surface_form	.
+10389_17	is_in_sentence	sentence_10389
+10389_17	dep	10389_17
+10389_17	has_surface_form	
+Alex Coke	surface_form	Alex Coke
+Alex Coke	birth-place	Dallas, Texas
+Dallas, Texas	surface_form	Dallas, Texas

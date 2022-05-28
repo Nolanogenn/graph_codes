@@ -1,0 +1,74 @@
+27252_0	is_in_sentence	sentence_27252
+27252_0	nsubj	27252_1
+27252_0	has_surface_form	He
+27252_1	is_in_sentence	sentence_27252
+27252_1	ROOT	27252_1
+27252_1	has_surface_form	is
+27252_2	is_in_sentence	sentence_27252
+27252_2	advmod	27252_1
+27252_2	has_surface_form	also
+27252_3	is_in_sentence	sentence_27252
+27252_3	det	27252_4
+27252_3	has_surface_form	the
+27252_4	is_in_sentence	sentence_27252
+27252_4	attr	27252_1
+27252_4	has_surface_form	stepfather
+27252_5	is_in_sentence	sentence_27252
+27252_5	prep	27252_4
+27252_5	has_surface_form	of
+27252_6	is_in_sentence	sentence_27252
+27252_6	compound	27252_7
+27252_6	has_surface_form	Brian
+27252_7	is_in_sentence	sentence_27252
+27252_7	pobj	27252_5
+27252_7	has_surface_form	Jones
+27252_8	is_in_sentence	sentence_27252
+27252_8	case	27252_7
+27252_8	has_surface_form	'
+27252_9	is_in_sentence	sentence_27252
+27252_9	cc	27252_7
+27252_9	has_surface_form	and
+27252_10	is_in_sentence	sentence_27252
+27252_10	compound	27252_11
+27252_10	has_surface_form	Linda
+27252_10	part_of_entity	Linda Lawrence
+27252_11	is_in_sentence	sentence_27252
+27252_11	poss	27252_13
+27252_11	has_surface_form	Lawrence
+27252_11	part_of_entity	Linda Lawrence
+27252_13	is_in_sentence	sentence_27252
+27252_13	conj	27252_7
+27252_13	has_surface_form	son
+27252_12	is_in_sentence	sentence_27252
+27252_12	case	27252_11
+27252_12	has_surface_form	's
+27252_14	is_in_sentence	sentence_27252
+27252_14	punct	27252_13
+27252_14	has_surface_form	,
+27252_15	is_in_sentence	sentence_27252
+27252_15	compound	27252_16
+27252_15	has_surface_form	Julian
+27252_16	is_in_sentence	sentence_27252
+27252_16	nmod	27252_20
+27252_16	has_surface_form	Brian
+27252_20	is_in_sentence	sentence_27252
+27252_20	appos	27252_13
+27252_20	has_surface_form	Leitch
+27252_17	is_in_sentence	sentence_27252
+27252_17	punct	27252_20
+27252_17	has_surface_form	(
+27252_18	is_in_sentence	sentence_27252
+27252_18	nmod	27252_20
+27252_18	has_surface_form	Jones
+27252_19	is_in_sentence	sentence_27252
+27252_19	punct	27252_20
+27252_19	has_surface_form	)
+27252_21	is_in_sentence	sentence_27252
+27252_21	punct	27252_1
+27252_21	has_surface_form	.
+27252_22	is_in_sentence	sentence_27252
+27252_22	dep	27252_1
+27252_22	has_surface_form	
+Linda Lawrence	surface_form	Linda Lawrence
+Linda Lawrence	has-child	Julian Brian (Jones) Leitch
+Julian Brian (Jones) Leitch	surface_form	Julian Brian (Jones) Leitch

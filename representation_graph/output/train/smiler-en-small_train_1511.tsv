@@ -1,0 +1,65 @@
+1510_0	is_in_sentence	sentence_1510
+1510_0	compound	1510_1
+1510_0	has_surface_form	Adel
+1510_0	part_of_entity	Adel Mechaal
+1510_1	is_in_sentence	sentence_1510
+1510_1	nsubj	1510_8
+1510_1	has_surface_form	Mechaal
+1510_1	part_of_entity	Adel Mechaal
+1510_8	is_in_sentence	sentence_1510
+1510_8	ROOT	1510_8
+1510_8	has_surface_form	is
+1510_2	is_in_sentence	sentence_1510
+1510_2	punct	1510_1
+1510_2	has_surface_form	(
+1510_3	is_in_sentence	sentence_1510
+1510_3	acl	1510_1
+1510_3	has_surface_form	born
+1510_4	is_in_sentence	sentence_1510
+1510_4	nummod	1510_5
+1510_4	has_surface_form	5
+1510_5	is_in_sentence	sentence_1510
+1510_5	npadvmod	1510_3
+1510_5	has_surface_form	December
+1510_6	is_in_sentence	sentence_1510
+1510_6	nummod	1510_5
+1510_6	has_surface_form	1990
+1510_7	is_in_sentence	sentence_1510
+1510_7	punct	1510_1
+1510_7	has_surface_form	)
+1510_9	is_in_sentence	sentence_1510
+1510_9	det	1510_17
+1510_9	has_surface_form	a
+1510_17	is_in_sentence	sentence_1510
+1510_17	attr	1510_8
+1510_17	has_surface_form	runner
+1510_10	is_in_sentence	sentence_1510
+1510_10	npadvmod	1510_12
+1510_10	is_entity	Morocco
+1510_12	is_in_sentence	sentence_1510
+1510_12	amod	1510_17
+1510_12	has_surface_form	born
+Morocco	surface_form	Morocco
+1510_11	is_in_sentence	sentence_1510
+1510_11	punct	1510_12
+1510_11	has_surface_form	-
+1510_13	is_in_sentence	sentence_1510
+1510_13	amod	1510_17
+1510_13	has_surface_form	Spanish
+1510_14	is_in_sentence	sentence_1510
+1510_14	amod	1510_16
+1510_14	has_surface_form	middle
+1510_16	is_in_sentence	sentence_1510
+1510_16	compound	1510_17
+1510_16	has_surface_form	distance
+1510_15	is_in_sentence	sentence_1510
+1510_15	punct	1510_16
+1510_15	has_surface_form	-
+1510_18	is_in_sentence	sentence_1510
+1510_18	punct	1510_8
+1510_18	has_surface_form	.
+1510_19	is_in_sentence	sentence_1510
+1510_19	dep	1510_19
+1510_19	has_surface_form	
+Adel Mechaal	surface_form	Adel Mechaal
+Adel Mechaal	from-country	Morocco

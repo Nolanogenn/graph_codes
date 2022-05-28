@@ -1,0 +1,44 @@
+21985_0	is_in_sentence	sentence_21985
+21985_0	compound	21985_1
+21985_0	has_surface_form	Dave
+21985_0	part_of_entity	Dave Laurion
+21985_1	is_in_sentence	sentence_21985
+21985_1	nsubj	21985_2
+21985_1	has_surface_form	Laurion
+21985_1	part_of_entity	Dave Laurion
+21985_2	is_in_sentence	sentence_21985
+21985_2	ROOT	21985_2
+21985_2	has_surface_form	is
+21985_3	is_in_sentence	sentence_21985
+21985_3	det	21985_8
+21985_3	has_surface_form	a
+21985_8	is_in_sentence	sentence_21985
+21985_8	attr	21985_2
+21985_8	has_surface_form	player
+21985_4	is_in_sentence	sentence_21985
+21985_4	amod	21985_8
+21985_4	has_surface_form	retired
+21985_5	is_in_sentence	sentence_21985
+21985_5	amod	21985_8
+21985_5	has_surface_form	American
+21985_6	is_in_sentence	sentence_21985
+21985_6	compound	21985_7
+21985_6	has_surface_form	ice
+21985_7	is_in_sentence	sentence_21985
+21985_7	compound	21985_8
+21985_7	has_surface_form	hockey
+21985_9	is_in_sentence	sentence_21985
+21985_9	cc	21985_8
+21985_9	has_surface_form	and
+21985_10	is_in_sentence	sentence_21985
+21985_10	conj	21985_8
+21985_10	is_entity	coach
+coach	surface_form	coach
+21985_11	is_in_sentence	sentence_21985
+21985_11	punct	21985_2
+21985_11	has_surface_form	.
+21985_12	is_in_sentence	sentence_21985
+21985_12	dep	21985_12
+21985_12	has_surface_form	
+Dave Laurion	surface_form	Dave Laurion
+Dave Laurion	has-type	coach

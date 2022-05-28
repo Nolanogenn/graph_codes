@@ -1,0 +1,71 @@
+5958_0	is_in_sentence	sentence_5958
+5958_0	det	5958_2
+5958_0	has_surface_form	The
+5958_0	part_of_entity	The Magical Brush
+5958_2	is_in_sentence	sentence_5958
+5958_2	nsubj	5958_8
+5958_2	has_surface_form	Brush
+5958_2	part_of_entity	The Magical Brush
+5958_1	is_in_sentence	sentence_5958
+5958_1	compound	5958_2
+5958_1	has_surface_form	Magical
+5958_1	part_of_entity	The Magical Brush
+5958_8	is_in_sentence	sentence_5958
+5958_8	ROOT	5958_8
+5958_8	has_surface_form	is
+5958_3	is_in_sentence	sentence_5958
+5958_3	punct	5958_6
+5958_3	has_surface_form	(
+5958_6	is_in_sentence	sentence_5958
+5958_6	appos	5958_2
+5958_6	has_surface_form	神笔马良
+5958_4	is_in_sentence	sentence_5958
+5958_4	nmod	5958_6
+5958_4	has_surface_form	Chinese
+5958_5	is_in_sentence	sentence_5958
+5958_5	punct	5958_6
+5958_5	has_surface_form	:
+5958_7	is_in_sentence	sentence_5958
+5958_7	punct	5958_6
+5958_7	has_surface_form	)
+5958_9	is_in_sentence	sentence_5958
+5958_9	det	5958_14
+5958_9	has_surface_form	a
+5958_14	is_in_sentence	sentence_5958
+5958_14	attr	5958_8
+5958_14	has_surface_form	film
+5958_10	is_in_sentence	sentence_5958
+5958_10	nummod	5958_14
+5958_10	has_surface_form	2014
+5958_11	is_in_sentence	sentence_5958
+5958_11	npadvmod	5958_12
+5958_11	has_surface_form	Chinese
+5958_12	is_in_sentence	sentence_5958
+5958_12	amod	5958_14
+5958_12	has_surface_form	animated
+5958_13	is_in_sentence	sentence_5958
+5958_13	compound	5958_14
+5958_13	has_surface_form	fantasy
+5958_15	is_in_sentence	sentence_5958
+5958_15	acl	5958_14
+5958_15	has_surface_form	directed
+5958_16	is_in_sentence	sentence_5958
+5958_16	agent	5958_15
+5958_16	has_surface_form	by
+5958_17	is_in_sentence	sentence_5958
+5958_17	compound	5958_18
+5958_17	has_surface_form	Frankie
+5958_17	part_of_entity	Frankie Chung
+5958_18	is_in_sentence	sentence_5958
+5958_18	pobj	5958_16
+5958_18	has_surface_form	Chung
+5958_18	part_of_entity	Frankie Chung
+5958_19	is_in_sentence	sentence_5958
+5958_19	punct	5958_8
+5958_19	has_surface_form	.
+5958_20	is_in_sentence	sentence_5958
+5958_20	dep	5958_20
+5958_20	has_surface_form	
+The Magical Brush	surface_form	The Magical Brush
+The Magical Brush	movie-has-director	Frankie Chung
+Frankie Chung	surface_form	Frankie Chung

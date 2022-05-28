@@ -1,0 +1,64 @@
+4437_0	is_in_sentence	sentence_4437
+4437_0	compound	4437_1
+4437_0	has_surface_form	Willie
+4437_0	part_of_entity	Willie Fritz
+4437_1	is_in_sentence	sentence_4437
+4437_1	nsubj	4437_9
+4437_1	has_surface_form	Fritz
+4437_1	part_of_entity	Willie Fritz
+4437_9	is_in_sentence	sentence_4437
+4437_9	ROOT	4437_9
+4437_9	has_surface_form	is
+4437_2	is_in_sentence	sentence_4437
+4437_2	punct	4437_1
+4437_2	has_surface_form	(
+4437_3	is_in_sentence	sentence_4437
+4437_3	acl	4437_1
+4437_3	has_surface_form	born
+4437_4	is_in_sentence	sentence_4437
+4437_4	npadvmod	4437_3
+4437_4	has_surface_form	April
+4437_5	is_in_sentence	sentence_4437
+4437_5	nummod	4437_4
+4437_5	has_surface_form	2
+4437_6	is_in_sentence	sentence_4437
+4437_6	punct	4437_4
+4437_6	has_surface_form	,
+4437_7	is_in_sentence	sentence_4437
+4437_7	nummod	4437_4
+4437_7	has_surface_form	1960
+4437_8	is_in_sentence	sentence_4437
+4437_8	punct	4437_1
+4437_8	has_surface_form	)
+4437_10	is_in_sentence	sentence_4437
+4437_10	det	4437_13
+4437_10	has_surface_form	an
+4437_13	is_in_sentence	sentence_4437
+4437_13	attr	4437_9
+4437_13	has_surface_form	coach
+4437_13	part_of_entity	football coach
+4437_11	is_in_sentence	sentence_4437
+4437_11	amod	4437_13
+4437_11	has_surface_form	American
+4437_12	is_in_sentence	sentence_4437
+4437_12	compound	4437_13
+4437_12	has_surface_form	football
+4437_12	part_of_entity	football coach
+4437_14	is_in_sentence	sentence_4437
+4437_14	cc	4437_13
+4437_14	has_surface_form	and
+4437_15	is_in_sentence	sentence_4437
+4437_15	amod	4437_16
+4437_15	has_surface_form	former
+4437_16	is_in_sentence	sentence_4437
+4437_16	conj	4437_13
+4437_16	has_surface_form	player
+4437_17	is_in_sentence	sentence_4437
+4437_17	punct	4437_9
+4437_17	has_surface_form	.
+4437_18	is_in_sentence	sentence_4437
+4437_18	dep	4437_18
+4437_18	has_surface_form	
+Willie Fritz	surface_form	Willie Fritz
+Willie Fritz	has-type	football coach
+football coach	surface_form	football coach

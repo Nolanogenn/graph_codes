@@ -1,0 +1,48 @@
+3263_0	is_in_sentence	sentence_3263
+3263_0	compound	3263_2
+3263_0	has_surface_form	Cedar
+3263_0	part_of_entity	Cedar Mount Academy
+3263_2	is_in_sentence	sentence_3263
+3263_2	nsubj	3263_3
+3263_2	has_surface_form	Academy
+3263_2	part_of_entity	Cedar Mount Academy
+3263_1	is_in_sentence	sentence_3263
+3263_1	compound	3263_2
+3263_1	has_surface_form	Mount
+3263_1	part_of_entity	Cedar Mount Academy
+3263_3	is_in_sentence	sentence_3263
+3263_3	ROOT	3263_3
+3263_3	has_surface_form	is
+3263_4	is_in_sentence	sentence_3263
+3263_4	det	3263_5
+3263_4	has_surface_form	an
+3263_5	is_in_sentence	sentence_3263
+3263_5	attr	3263_3
+3263_5	has_surface_form	academy
+3263_6	is_in_sentence	sentence_3263
+3263_6	prep	3263_5
+3263_6	has_surface_form	in
+3263_7	is_in_sentence	sentence_3263
+3263_7	pobj	3263_6
+3263_7	is_entity	Gorton
+Gorton	surface_form	Gorton
+3263_8	is_in_sentence	sentence_3263
+3263_8	punct	3263_7
+3263_8	has_surface_form	,
+3263_9	is_in_sentence	sentence_3263
+3263_9	conj	3263_7
+3263_9	has_surface_form	Manchester
+3263_10	is_in_sentence	sentence_3263
+3263_10	punct	3263_9
+3263_10	has_surface_form	,
+3263_11	is_in_sentence	sentence_3263
+3263_11	appos	3263_9
+3263_11	has_surface_form	England
+3263_12	is_in_sentence	sentence_3263
+3263_12	punct	3263_3
+3263_12	has_surface_form	.
+3263_13	is_in_sentence	sentence_3263
+3263_13	dep	3263_3
+3263_13	has_surface_form	
+Cedar Mount Academy	surface_form	Cedar Mount Academy
+Cedar Mount Academy	is-where	Gorton

@@ -1,0 +1,60 @@
+902_0	is_in_sentence	sentence_902
+902_0	compound	902_1
+902_0	has_surface_form	Exotic
+902_0	part_of_entity	Exotic Animal Petting Zoo
+902_1	is_in_sentence	sentence_902
+902_1	compound	902_3
+902_1	has_surface_form	Animal
+902_1	part_of_entity	Exotic Animal Petting Zoo
+902_3	is_in_sentence	sentence_902
+902_3	nsubj	902_4
+902_3	has_surface_form	Zoo
+902_3	part_of_entity	Exotic Animal Petting Zoo
+902_2	is_in_sentence	sentence_902
+902_2	compound	902_3
+902_2	has_surface_form	Petting
+902_2	part_of_entity	Exotic Animal Petting Zoo
+902_4	is_in_sentence	sentence_902
+902_4	ROOT	902_4
+902_4	has_surface_form	is
+902_5	is_in_sentence	sentence_902
+902_5	det	902_8
+902_5	has_surface_form	an
+902_8	is_in_sentence	sentence_902
+902_8	attr	902_4
+902_8	has_surface_form	quartet
+902_6	is_in_sentence	sentence_902
+902_6	amod	902_7
+902_6	has_surface_form	experimental
+902_6	part_of_entity	experimental mathcore
+902_7	is_in_sentence	sentence_902
+902_7	compound	902_8
+902_7	has_surface_form	mathcore
+902_7	part_of_entity	experimental mathcore
+902_9	is_in_sentence	sentence_902
+902_9	acl	902_8
+902_9	has_surface_form	based
+902_10	is_in_sentence	sentence_902
+902_10	prep	902_9
+902_10	has_surface_form	in
+902_11	is_in_sentence	sentence_902
+902_11	compound	902_12
+902_11	has_surface_form	Crown
+902_12	is_in_sentence	sentence_902
+902_12	pobj	902_10
+902_12	has_surface_form	Point
+902_13	is_in_sentence	sentence_902
+902_13	punct	902_12
+902_13	has_surface_form	,
+902_14	is_in_sentence	sentence_902
+902_14	appos	902_12
+902_14	has_surface_form	Indiana
+902_15	is_in_sentence	sentence_902
+902_15	punct	902_4
+902_15	has_surface_form	.
+902_16	is_in_sentence	sentence_902
+902_16	dep	902_4
+902_16	has_surface_form	
+Exotic Animal Petting Zoo	surface_form	Exotic Animal Petting Zoo
+Exotic Animal Petting Zoo	has-genre	experimental mathcore
+experimental mathcore	surface_form	experimental mathcore

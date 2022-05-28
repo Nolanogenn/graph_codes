@@ -1,0 +1,70 @@
+34280_0	is_in_sentence	sentence_34280
+34280_0	compound	34280_5
+34280_0	has_surface_form	John
+34280_5	is_in_sentence	sentence_34280
+34280_5	nsubj	34280_6
+34280_5	has_surface_form	School
+34280_5	part_of_entity	Leonard Community High School
+34280_1	is_in_sentence	sentence_34280
+34280_1	compound	34280_5
+34280_1	has_surface_form	I.
+34280_2	is_in_sentence	sentence_34280
+34280_2	compound	34280_5
+34280_2	has_surface_form	Leonard
+34280_2	part_of_entity	Leonard Community High School
+34280_3	is_in_sentence	sentence_34280
+34280_3	compound	34280_5
+34280_3	has_surface_form	Community
+34280_3	part_of_entity	Leonard Community High School
+34280_4	is_in_sentence	sentence_34280
+34280_4	compound	34280_5
+34280_4	has_surface_form	High
+34280_4	part_of_entity	Leonard Community High School
+34280_6	is_in_sentence	sentence_34280
+34280_6	ROOT	34280_6
+34280_6	has_surface_form	is
+34280_7	is_in_sentence	sentence_34280
+34280_7	det	34280_10
+34280_7	has_surface_form	a
+34280_10	is_in_sentence	sentence_34280
+34280_10	attr	34280_6
+34280_10	has_surface_form	school
+34280_8	is_in_sentence	sentence_34280
+34280_8	amod	34280_10
+34280_8	has_surface_form	public
+34280_9	is_in_sentence	sentence_34280
+34280_9	amod	34280_10
+34280_9	has_surface_form	high
+34280_11	is_in_sentence	sentence_34280
+34280_11	acl	34280_10
+34280_11	has_surface_form	located
+34280_12	is_in_sentence	sentence_34280
+34280_12	prep	34280_11
+34280_12	has_surface_form	in
+34280_13	is_in_sentence	sentence_34280
+34280_13	pobj	34280_12
+34280_13	has_surface_form	Greenacres
+34280_14	is_in_sentence	sentence_34280
+34280_14	punct	34280_13
+34280_14	has_surface_form	,
+34280_15	is_in_sentence	sentence_34280
+34280_15	conj	34280_13
+34280_15	has_surface_form	Florida
+34280_16	is_in_sentence	sentence_34280
+34280_16	punct	34280_15
+34280_16	has_surface_form	,
+34280_17	is_in_sentence	sentence_34280
+34280_17	compound	34280_18
+34280_17	has_surface_form	United
+34280_18	is_in_sentence	sentence_34280
+34280_18	conj	34280_15
+34280_18	has_surface_form	States
+34280_19	is_in_sentence	sentence_34280
+34280_19	punct	34280_6
+34280_19	has_surface_form	.
+34280_20	is_in_sentence	sentence_34280
+34280_20	dep	34280_6
+34280_20	has_surface_form	
+Leonard Community High School	surface_form	Leonard Community High School
+Leonard Community High School	is-where	Greenacres, Florida, United States
+Greenacres, Florida, United States	surface_form	Greenacres, Florida, United States

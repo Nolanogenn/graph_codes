@@ -1,0 +1,57 @@
+27849_0	is_in_sentence	sentence_27849
+27849_0	compound	27849_2
+27849_0	has_surface_form	Jenny
+27849_0	part_of_entity	Jenny Lee Bakery
+27849_2	is_in_sentence	sentence_27849
+27849_2	nsubj	27849_3
+27849_2	has_surface_form	Bakery
+27849_2	part_of_entity	Jenny Lee Bakery
+27849_1	is_in_sentence	sentence_27849
+27849_1	compound	27849_2
+27849_1	has_surface_form	Lee
+27849_1	part_of_entity	Jenny Lee Bakery
+27849_3	is_in_sentence	sentence_27849
+27849_3	ROOT	27849_3
+27849_3	has_surface_form	was
+27849_4	is_in_sentence	sentence_27849
+27849_4	det	27849_6
+27849_4	has_surface_form	a
+27849_6	is_in_sentence	sentence_27849
+27849_6	attr	27849_3
+27849_6	is_entity	bakery
+27849_5	is_in_sentence	sentence_27849
+27849_5	amod	27849_6
+27849_5	has_surface_form	prominent
+bakery	surface_form	bakery
+27849_7	is_in_sentence	sentence_27849
+27849_7	prep	27849_6
+27849_7	has_surface_form	in
+27849_8	is_in_sentence	sentence_27849
+27849_8	compound	27849_9
+27849_8	has_surface_form	McKees
+27849_9	is_in_sentence	sentence_27849
+27849_9	pobj	27849_7
+27849_9	has_surface_form	Rocks
+27849_10	is_in_sentence	sentence_27849
+27849_10	punct	27849_9
+27849_10	has_surface_form	,
+27849_11	is_in_sentence	sentence_27849
+27849_11	appos	27849_9
+27849_11	has_surface_form	Pennsylvania
+27849_12	is_in_sentence	sentence_27849
+27849_12	punct	27849_9
+27849_12	has_surface_form	,
+27849_13	is_in_sentence	sentence_27849
+27849_13	prep	27849_6
+27849_13	has_surface_form	near
+27849_14	is_in_sentence	sentence_27849
+27849_14	pobj	27849_13
+27849_14	has_surface_form	Pittsburgh
+27849_15	is_in_sentence	sentence_27849
+27849_15	punct	27849_3
+27849_15	has_surface_form	.
+27849_16	is_in_sentence	sentence_27849
+27849_16	dep	27849_3
+27849_16	has_surface_form	
+Jenny Lee Bakery	surface_form	Jenny Lee Bakery
+Jenny Lee Bakery	has-type	bakery

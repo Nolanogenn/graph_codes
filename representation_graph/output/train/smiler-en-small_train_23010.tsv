@@ -1,0 +1,52 @@
+23009_0	is_in_sentence	sentence_23009
+23009_0	prep	23009_5
+23009_0	has_surface_form	In
+23009_5	is_in_sentence	sentence_23009
+23009_5	ROOT	23009_5
+23009_5	has_surface_form	married
+23009_1	is_in_sentence	sentence_23009
+23009_1	pobj	23009_0
+23009_1	has_surface_form	1889
+23009_2	is_in_sentence	sentence_23009
+23009_2	punct	23009_5
+23009_2	has_surface_form	,
+23009_3	is_in_sentence	sentence_23009
+23009_3	nsubj	23009_5
+23009_3	has_surface_form	Boone
+23009_4	is_in_sentence	sentence_23009
+23009_4	aux	23009_5
+23009_4	has_surface_form	had
+23009_6	is_in_sentence	sentence_23009
+23009_6	compound	23009_7
+23009_6	has_surface_form	John
+23009_6	part_of_entity	John Lange
+23009_7	is_in_sentence	sentence_23009
+23009_7	poss	23009_9
+23009_7	has_surface_form	Lange
+23009_7	part_of_entity	John Lange
+23009_9	is_in_sentence	sentence_23009
+23009_9	dobj	23009_5
+23009_9	has_surface_form	daughter
+23009_8	is_in_sentence	sentence_23009
+23009_8	case	23009_7
+23009_8	has_surface_form	's
+23009_10	is_in_sentence	sentence_23009
+23009_10	punct	23009_9
+23009_10	has_surface_form	,
+23009_11	is_in_sentence	sentence_23009
+23009_11	compound	23009_12
+23009_11	has_surface_form	Eugenia
+23009_11	part_of_entity	Eugenia Lange
+23009_12	is_in_sentence	sentence_23009
+23009_12	appos	23009_9
+23009_12	has_surface_form	Lange
+23009_12	part_of_entity	Eugenia Lange
+23009_13	is_in_sentence	sentence_23009
+23009_13	punct	23009_5
+23009_13	has_surface_form	.
+23009_14	is_in_sentence	sentence_23009
+23009_14	dep	23009_5
+23009_14	has_surface_form	
+Eugenia Lange	surface_form	Eugenia Lange
+Eugenia Lange	has-parent	John Lange
+John Lange	surface_form	John Lange

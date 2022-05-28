@@ -1,0 +1,49 @@
+9696_0	is_in_sentence	sentence_9696
+9696_0	compound	9696_1
+9696_0	has_surface_form	Madhavapeddi
+9696_0	part_of_entity	Madhavapeddi Satyam
+9696_1	is_in_sentence	sentence_9696
+9696_1	poss	9696_3
+9696_1	has_surface_form	Satyam
+9696_1	part_of_entity	Madhavapeddi Satyam
+9696_3	is_in_sentence	sentence_9696
+9696_3	nsubj	9696_8
+9696_3	has_surface_form	son
+9696_2	is_in_sentence	sentence_9696
+9696_2	case	9696_1
+9696_2	has_surface_form	's
+9696_8	is_in_sentence	sentence_9696
+9696_8	ROOT	9696_8
+9696_8	has_surface_form	instituted
+9696_4	is_in_sentence	sentence_9696
+9696_4	punct	9696_3
+9696_4	has_surface_form	,
+9696_5	is_in_sentence	sentence_9696
+9696_5	compound	9696_6
+9696_5	has_surface_form	Madhavapeddi
+9696_5	part_of_entity	Madhavapeddi Murthy
+9696_6	is_in_sentence	sentence_9696
+9696_6	appos	9696_3
+9696_6	has_surface_form	Murthy
+9696_6	part_of_entity	Madhavapeddi Murthy
+9696_7	is_in_sentence	sentence_9696
+9696_7	punct	9696_3
+9696_7	has_surface_form	,
+9696_9	is_in_sentence	sentence_9696
+9696_9	det	9696_11
+9696_9	has_surface_form	the
+9696_11	is_in_sentence	sentence_9696
+9696_11	dobj	9696_8
+9696_11	has_surface_form	Awards
+9696_10	is_in_sentence	sentence_9696
+9696_10	compound	9696_11
+9696_10	has_surface_form	Madhavapeddi
+9696_12	is_in_sentence	sentence_9696
+9696_12	punct	9696_8
+9696_12	has_surface_form	.
+9696_13	is_in_sentence	sentence_9696
+9696_13	dep	9696_13
+9696_13	has_surface_form	
+Madhavapeddi Satyam	surface_form	Madhavapeddi Satyam
+Madhavapeddi Satyam	has-child	Madhavapeddi Murthy
+Madhavapeddi Murthy	surface_form	Madhavapeddi Murthy

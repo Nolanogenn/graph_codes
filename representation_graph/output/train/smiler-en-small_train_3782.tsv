@@ -1,0 +1,58 @@
+3781_0	is_in_sentence	sentence_3781
+3781_0	compound	3781_1
+3781_0	has_surface_form	Jack
+3781_0	part_of_entity	Jack Crowe
+3781_1	is_in_sentence	sentence_3781
+3781_1	nsubj	3781_9
+3781_1	has_surface_form	Crowe
+3781_1	part_of_entity	Jack Crowe
+3781_9	is_in_sentence	sentence_3781
+3781_9	ROOT	3781_9
+3781_9	has_surface_form	is
+3781_2	is_in_sentence	sentence_3781
+3781_2	punct	3781_1
+3781_2	has_surface_form	(
+3781_3	is_in_sentence	sentence_3781
+3781_3	acl	3781_1
+3781_3	has_surface_form	born
+3781_4	is_in_sentence	sentence_3781
+3781_4	npadvmod	3781_3
+3781_4	has_surface_form	May
+3781_5	is_in_sentence	sentence_3781
+3781_5	nummod	3781_4
+3781_5	has_surface_form	2
+3781_6	is_in_sentence	sentence_3781
+3781_6	punct	3781_4
+3781_6	has_surface_form	,
+3781_7	is_in_sentence	sentence_3781
+3781_7	nummod	3781_4
+3781_7	has_surface_form	1947
+3781_8	is_in_sentence	sentence_3781
+3781_8	punct	3781_1
+3781_8	has_surface_form	)
+3781_10	is_in_sentence	sentence_3781
+3781_10	det	3781_14
+3781_10	has_surface_form	a
+3781_14	is_in_sentence	sentence_3781
+3781_14	attr	3781_9
+3781_14	has_surface_form	coach
+3781_14	part_of_entity	football coach
+3781_11	is_in_sentence	sentence_3781
+3781_11	amod	3781_14
+3781_11	has_surface_form	former
+3781_12	is_in_sentence	sentence_3781
+3781_12	amod	3781_14
+3781_12	has_surface_form	American
+3781_13	is_in_sentence	sentence_3781
+3781_13	compound	3781_14
+3781_13	has_surface_form	football
+3781_13	part_of_entity	football coach
+3781_15	is_in_sentence	sentence_3781
+3781_15	punct	3781_9
+3781_15	has_surface_form	.
+3781_16	is_in_sentence	sentence_3781
+3781_16	dep	3781_16
+3781_16	has_surface_form	
+Jack Crowe	surface_form	Jack Crowe
+Jack Crowe	has-type	football coach
+football coach	surface_form	football coach

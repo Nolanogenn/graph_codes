@@ -1,0 +1,121 @@
+19673_0	is_in_sentence	sentence_19673
+19673_0	det	19673_1
+19673_0	has_surface_form	The
+19673_0	part_of_entity	The Artist and the Model
+19673_1	is_in_sentence	sentence_19673
+19673_1	nmod	19673_8
+19673_1	has_surface_form	Artist
+19673_1	part_of_entity	The Artist and the Model
+19673_8	is_in_sentence	sentence_19673
+19673_8	nsubj	19673_13
+19673_8	has_surface_form	L'artiste
+19673_2	is_in_sentence	sentence_19673
+19673_2	cc	19673_1
+19673_2	has_surface_form	and
+19673_2	part_of_entity	The Artist and the Model
+19673_3	is_in_sentence	sentence_19673
+19673_3	det	19673_4
+19673_3	has_surface_form	the
+19673_3	part_of_entity	The Artist and the Model
+19673_4	is_in_sentence	sentence_19673
+19673_4	conj	19673_1
+19673_4	has_surface_form	Model
+19673_4	part_of_entity	The Artist and the Model
+19673_5	is_in_sentence	sentence_19673
+19673_5	punct	19673_6
+19673_5	has_surface_form	(
+19673_6	is_in_sentence	sentence_19673
+19673_6	appos	19673_1
+19673_6	has_surface_form	French
+19673_7	is_in_sentence	sentence_19673
+19673_7	punct	19673_6
+19673_7	has_surface_form	:
+19673_13	is_in_sentence	sentence_19673
+19673_13	ROOT	19673_13
+19673_13	has_surface_form	is
+19673_9	is_in_sentence	sentence_19673
+19673_9	nmod	19673_11
+19673_9	has_surface_form	et
+19673_11	is_in_sentence	sentence_19673
+19673_11	npadvmod	19673_8
+19673_11	has_surface_form	modèle
+19673_10	is_in_sentence	sentence_19673
+19673_10	appos	19673_9
+19673_10	has_surface_form	son
+19673_12	is_in_sentence	sentence_19673
+19673_12	punct	19673_8
+19673_12	has_surface_form	)
+19673_14	is_in_sentence	sentence_19673
+19673_14	det	19673_21
+19673_14	has_surface_form	a
+19673_21	is_in_sentence	sentence_19673
+19673_21	attr	19673_13
+19673_21	has_surface_form	film
+19673_15	is_in_sentence	sentence_19673
+19673_15	nummod	19673_18
+19673_15	has_surface_form	2012
+19673_18	is_in_sentence	sentence_19673
+19673_18	nmod	19673_21
+19673_18	has_surface_form	language
+19673_16	is_in_sentence	sentence_19673
+19673_16	amod	19673_18
+19673_16	has_surface_form	French
+19673_17	is_in_sentence	sentence_19673
+19673_17	punct	19673_18
+19673_17	has_surface_form	-
+19673_19	is_in_sentence	sentence_19673
+19673_19	amod	19673_21
+19673_19	has_surface_form	Spanish
+19673_20	is_in_sentence	sentence_19673
+19673_20	compound	19673_21
+19673_20	has_surface_form	drama
+19673_22	is_in_sentence	sentence_19673
+19673_22	acl	19673_21
+19673_22	has_surface_form	directed
+19673_23	is_in_sentence	sentence_19673
+19673_23	agent	19673_22
+19673_23	has_surface_form	by
+19673_24	is_in_sentence	sentence_19673
+19673_24	compound	19673_25
+19673_24	has_surface_form	Fernando
+19673_24	part_of_entity	Fernando Trueba
+19673_25	is_in_sentence	sentence_19673
+19673_25	pobj	19673_23
+19673_25	has_surface_form	Trueba
+19673_25	part_of_entity	Fernando Trueba
+19673_26	is_in_sentence	sentence_19673
+19673_26	cc	19673_22
+19673_26	has_surface_form	and
+19673_27	is_in_sentence	sentence_19673
+19673_27	conj	19673_22
+19673_27	has_surface_form	written
+19673_28	is_in_sentence	sentence_19673
+19673_28	agent	19673_27
+19673_28	has_surface_form	by
+19673_29	is_in_sentence	sentence_19673
+19673_29	pobj	19673_28
+19673_29	has_surface_form	Trueba
+19673_30	is_in_sentence	sentence_19673
+19673_30	cc	19673_29
+19673_30	has_surface_form	and
+19673_31	is_in_sentence	sentence_19673
+19673_31	compound	19673_33
+19673_31	has_surface_form	Jean
+19673_33	is_in_sentence	sentence_19673
+19673_33	compound	19673_34
+19673_33	has_surface_form	Claude
+19673_32	is_in_sentence	sentence_19673
+19673_32	punct	19673_33
+19673_32	has_surface_form	-
+19673_34	is_in_sentence	sentence_19673
+19673_34	conj	19673_29
+19673_34	has_surface_form	Carrière
+19673_35	is_in_sentence	sentence_19673
+19673_35	punct	19673_13
+19673_35	has_surface_form	.
+19673_36	is_in_sentence	sentence_19673
+19673_36	dep	19673_36
+19673_36	has_surface_form	
+The Artist and the Model	surface_form	The Artist and the Model
+The Artist and the Model	movie-has-director	Fernando Trueba
+Fernando Trueba	surface_form	Fernando Trueba

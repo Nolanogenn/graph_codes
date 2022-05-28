@@ -1,0 +1,56 @@
+5476_0	is_in_sentence	sentence_5476
+5476_0	compound	5476_1
+5476_0	has_surface_form	Mike
+5476_0	part_of_entity	Mike Gottsch
+5476_1	is_in_sentence	sentence_5476
+5476_1	nsubj	5476_2
+5476_1	has_surface_form	Gottsch
+5476_1	part_of_entity	Mike Gottsch
+5476_2	is_in_sentence	sentence_5476
+5476_2	ROOT	5476_2
+5476_2	has_surface_form	was
+5476_3	is_in_sentence	sentence_5476
+5476_3	det	5476_6
+5476_3	has_surface_form	the
+5476_6	is_in_sentence	sentence_5476
+5476_6	attr	5476_2
+5476_6	has_surface_form	coach
+5476_6	part_of_entity	head football coach
+5476_4	is_in_sentence	sentence_5476
+5476_4	compound	5476_6
+5476_4	has_surface_form	head
+5476_4	part_of_entity	head football coach
+5476_5	is_in_sentence	sentence_5476
+5476_5	compound	5476_6
+5476_5	has_surface_form	football
+5476_5	part_of_entity	head football coach
+5476_7	is_in_sentence	sentence_5476
+5476_7	prep	5476_6
+5476_7	has_surface_form	at
+5476_8	is_in_sentence	sentence_5476
+5476_8	compound	5476_9
+5476_8	has_surface_form	Tabor
+5476_9	is_in_sentence	sentence_5476
+5476_9	pobj	5476_7
+5476_9	has_surface_form	College
+5476_10	is_in_sentence	sentence_5476
+5476_10	prep	5476_9
+5476_10	has_surface_form	in
+5476_11	is_in_sentence	sentence_5476
+5476_11	pobj	5476_10
+5476_11	has_surface_form	Hillsboro
+5476_12	is_in_sentence	sentence_5476
+5476_12	punct	5476_11
+5476_12	has_surface_form	,
+5476_13	is_in_sentence	sentence_5476
+5476_13	appos	5476_11
+5476_13	has_surface_form	Kansas
+5476_14	is_in_sentence	sentence_5476
+5476_14	punct	5476_2
+5476_14	has_surface_form	.
+5476_15	is_in_sentence	sentence_5476
+5476_15	dep	5476_2
+5476_15	has_surface_form	
+Mike Gottsch	surface_form	Mike Gottsch
+Mike Gottsch	has-type	head football coach
+head football coach	surface_form	head football coach

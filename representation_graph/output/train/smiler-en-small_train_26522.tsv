@@ -1,0 +1,68 @@
+26521_0	is_in_sentence	sentence_26521
+26521_0	det	26521_5
+26521_0	has_surface_form	The
+26521_5	is_in_sentence	sentence_26521
+26521_5	nsubjpass	26521_10
+26521_5	has_surface_form	Institute
+26521_5	part_of_entity	Fisheries College and Research Institute
+26521_1	is_in_sentence	sentence_26521
+26521_1	nmod	26521_2
+26521_1	has_surface_form	Fisheries
+26521_1	part_of_entity	Fisheries College and Research Institute
+26521_2	is_in_sentence	sentence_26521
+26521_2	nmod	26521_5
+26521_2	has_surface_form	College
+26521_2	part_of_entity	Fisheries College and Research Institute
+26521_3	is_in_sentence	sentence_26521
+26521_3	cc	26521_2
+26521_3	has_surface_form	and
+26521_3	part_of_entity	Fisheries College and Research Institute
+26521_4	is_in_sentence	sentence_26521
+26521_4	conj	26521_2
+26521_4	has_surface_form	Research
+26521_4	part_of_entity	Fisheries College and Research Institute
+26521_10	is_in_sentence	sentence_26521
+26521_10	ROOT	26521_10
+26521_10	has_surface_form	situated
+26521_6	is_in_sentence	sentence_26521
+26521_6	punct	26521_5
+26521_6	has_surface_form	(
+26521_7	is_in_sentence	sentence_26521
+26521_7	appos	26521_5
+26521_7	has_surface_form	FCRI
+26521_8	is_in_sentence	sentence_26521
+26521_8	punct	26521_5
+26521_8	has_surface_form	)
+26521_9	is_in_sentence	sentence_26521
+26521_9	auxpass	26521_10
+26521_9	has_surface_form	is
+26521_11	is_in_sentence	sentence_26521
+26521_11	prep	26521_10
+26521_11	has_surface_form	in
+26521_12	is_in_sentence	sentence_26521
+26521_12	pobj	26521_11
+26521_12	is_entity	Thoothukudi
+Thoothukudi	surface_form	Thoothukudi
+26521_13	is_in_sentence	sentence_26521
+26521_13	punct	26521_12
+26521_13	has_surface_form	,
+26521_14	is_in_sentence	sentence_26521
+26521_14	compound	26521_15
+26521_14	has_surface_form	Tamil
+26521_15	is_in_sentence	sentence_26521
+26521_15	conj	26521_12
+26521_15	has_surface_form	Nadu
+26521_16	is_in_sentence	sentence_26521
+26521_16	punct	26521_15
+26521_16	has_surface_form	,
+26521_17	is_in_sentence	sentence_26521
+26521_17	npadvmod	26521_15
+26521_17	has_surface_form	India
+26521_18	is_in_sentence	sentence_26521
+26521_18	punct	26521_10
+26521_18	has_surface_form	.
+26521_19	is_in_sentence	sentence_26521
+26521_19	dep	26521_19
+26521_19	has_surface_form	
+Fisheries College and Research Institute	surface_form	Fisheries College and Research Institute
+Fisheries College and Research Institute	is-where	Thoothukudi

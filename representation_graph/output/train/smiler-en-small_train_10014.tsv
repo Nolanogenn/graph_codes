@@ -1,0 +1,43 @@
+10013_0	is_in_sentence	sentence_10013
+10013_0	compound	10013_1
+10013_0	has_surface_form	Charles
+10013_0	part_of_entity	Charles Babbage
+10013_1	is_in_sentence	sentence_10013
+10013_1	nsubj	10013_2
+10013_1	has_surface_form	Babbage
+10013_1	part_of_entity	Charles Babbage
+10013_2	is_in_sentence	sentence_10013
+10013_2	ROOT	10013_2
+10013_2	has_surface_form	began
+10013_3	is_in_sentence	sentence_10013
+10013_3	aux	10013_4
+10013_3	has_surface_form	to
+10013_4	is_in_sentence	sentence_10013
+10013_4	xcomp	10013_2
+10013_4	has_surface_form	construct
+10013_5	is_in_sentence	sentence_10013
+10013_5	det	10013_8
+10013_5	has_surface_form	a
+10013_8	is_in_sentence	sentence_10013
+10013_8	dobj	10013_4
+10013_8	has_surface_form	engine
+10013_8	part_of_entity	Difference engine
+10013_6	is_in_sentence	sentence_10013
+10013_6	amod	10013_8
+10013_6	has_surface_form	small
+10013_7	is_in_sentence	sentence_10013
+10013_7	compound	10013_8
+10013_7	has_surface_form	Difference
+10013_7	part_of_entity	Difference engine
+10013_9	is_in_sentence	sentence_10013
+10013_9	prep	10013_4
+10013_9	has_surface_form	in
+10013_10	is_in_sentence	sentence_10013
+10013_10	pobj	10013_9
+10013_10	has_surface_form	c.
+10013_11	is_in_sentence	sentence_10013
+10013_11	dep	10013_9
+10013_11	has_surface_form	
+Difference engine	surface_form	Difference engine
+Difference engine	invented-by	Charles Babbage
+Charles Babbage	surface_form	Charles Babbage

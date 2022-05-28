@@ -1,0 +1,53 @@
+25955_0	is_in_sentence	sentence_25955
+25955_0	compound	25955_1
+25955_0	has_surface_form	Masafumi
+25955_0	part_of_entity	Masafumi Akikawa
+25955_1	is_in_sentence	sentence_25955
+25955_1	nsubj	25955_9
+25955_1	has_surface_form	Akikawa
+25955_1	part_of_entity	Masafumi Akikawa
+25955_9	is_in_sentence	sentence_25955
+25955_9	ROOT	25955_9
+25955_9	has_surface_form	is
+25955_2	is_in_sentence	sentence_25955
+25955_2	punct	25955_4
+25955_2	has_surface_form	(
+25955_4	is_in_sentence	sentence_25955
+25955_4	appos	25955_1
+25955_4	has_surface_form	雅史
+25955_3	is_in_sentence	sentence_25955
+25955_3	nmod	25955_4
+25955_3	has_surface_form	秋川
+25955_5	is_in_sentence	sentence_25955
+25955_5	punct	25955_4
+25955_5	has_surface_form	,
+25955_6	is_in_sentence	sentence_25955
+25955_6	compound	25955_7
+25955_6	has_surface_form	Akikawa
+25955_7	is_in_sentence	sentence_25955
+25955_7	appos	25955_4
+25955_7	has_surface_form	Masafumi
+25955_8	is_in_sentence	sentence_25955
+25955_8	punct	25955_4
+25955_8	has_surface_form	)
+25955_10	is_in_sentence	sentence_25955
+25955_10	det	25955_13
+25955_10	has_surface_form	a
+25955_13	is_in_sentence	sentence_25955
+25955_13	attr	25955_9
+25955_13	is_entity	singer
+25955_11	is_in_sentence	sentence_25955
+25955_11	amod	25955_13
+25955_11	has_surface_form	Japanese
+25955_12	is_in_sentence	sentence_25955
+25955_12	compound	25955_13
+25955_12	has_surface_form	tenor
+singer	surface_form	singer
+25955_14	is_in_sentence	sentence_25955
+25955_14	punct	25955_9
+25955_14	has_surface_form	.
+25955_15	is_in_sentence	sentence_25955
+25955_15	dep	25955_15
+25955_15	has_surface_form	
+Masafumi Akikawa	surface_form	Masafumi Akikawa
+Masafumi Akikawa	has-occupation	singer

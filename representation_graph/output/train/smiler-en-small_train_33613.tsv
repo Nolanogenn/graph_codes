@@ -1,0 +1,60 @@
+33612_0	is_in_sentence	sentence_33612
+33612_0	compound	33612_2
+33612_0	has_surface_form	Standard
+33612_0	part_of_entity	Standard School District
+33612_2	is_in_sentence	sentence_33612
+33612_2	nsubj	33612_3
+33612_2	has_surface_form	District
+33612_2	part_of_entity	Standard School District
+33612_1	is_in_sentence	sentence_33612
+33612_1	compound	33612_2
+33612_1	has_surface_form	School
+33612_1	part_of_entity	Standard School District
+33612_3	is_in_sentence	sentence_33612
+33612_3	ROOT	33612_3
+33612_3	has_surface_form	is
+33612_4	is_in_sentence	sentence_33612
+33612_4	det	33612_11
+33612_4	has_surface_form	a
+33612_11	is_in_sentence	sentence_33612
+33612_11	attr	33612_3
+33612_11	has_surface_form	district
+33612_5	is_in_sentence	sentence_33612
+33612_5	compound	33612_7
+33612_5	is_entity	Kindergarten
+33612_7	is_in_sentence	sentence_33612
+33612_7	amod	33612_8
+33612_7	has_surface_form	8th
+Kindergarten	surface_form	Kindergarten
+33612_6	is_in_sentence	sentence_33612
+33612_6	punct	33612_7
+33612_6	has_surface_form	-
+33612_8	is_in_sentence	sentence_33612
+33612_8	nmod	33612_11
+33612_8	has_surface_form	grade
+33612_9	is_in_sentence	sentence_33612
+33612_9	amod	33612_10
+33612_9	has_surface_form	public
+33612_10	is_in_sentence	sentence_33612
+33612_10	compound	33612_11
+33612_10	has_surface_form	school
+33612_12	is_in_sentence	sentence_33612
+33612_12	prep	33612_11
+33612_12	has_surface_form	in
+33612_13	is_in_sentence	sentence_33612
+33612_13	pobj	33612_12
+33612_13	has_surface_form	Oildale
+33612_14	is_in_sentence	sentence_33612
+33612_14	punct	33612_13
+33612_14	has_surface_form	,
+33612_15	is_in_sentence	sentence_33612
+33612_15	appos	33612_13
+33612_15	has_surface_form	California
+33612_16	is_in_sentence	sentence_33612
+33612_16	punct	33612_3
+33612_16	has_surface_form	.
+33612_17	is_in_sentence	sentence_33612
+33612_17	dep	33612_17
+33612_17	has_surface_form	
+Standard School District	surface_form	Standard School District
+Standard School District	has-type	Kindergarten

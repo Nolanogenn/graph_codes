@@ -1,0 +1,50 @@
+17442_0	is_in_sentence	sentence_17442
+17442_0	compound	17442_1
+17442_0	has_surface_form	Samantha
+17442_0	part_of_entity	Samantha Mathis
+17442_1	is_in_sentence	sentence_17442
+17442_1	nsubj	17442_9
+17442_1	has_surface_form	Mathis
+17442_1	part_of_entity	Samantha Mathis
+17442_9	is_in_sentence	sentence_17442
+17442_9	ROOT	17442_9
+17442_9	has_surface_form	is
+17442_2	is_in_sentence	sentence_17442
+17442_2	punct	17442_1
+17442_2	has_surface_form	(
+17442_3	is_in_sentence	sentence_17442
+17442_3	acl	17442_1
+17442_3	has_surface_form	born
+17442_4	is_in_sentence	sentence_17442
+17442_4	npadvmod	17442_3
+17442_4	has_surface_form	May
+17442_5	is_in_sentence	sentence_17442
+17442_5	nummod	17442_4
+17442_5	has_surface_form	12
+17442_6	is_in_sentence	sentence_17442
+17442_6	punct	17442_4
+17442_6	has_surface_form	,
+17442_7	is_in_sentence	sentence_17442
+17442_7	nummod	17442_4
+17442_7	has_surface_form	1970
+17442_8	is_in_sentence	sentence_17442
+17442_8	punct	17442_1
+17442_8	has_surface_form	)
+17442_10	is_in_sentence	sentence_17442
+17442_10	det	17442_12
+17442_10	has_surface_form	an
+17442_12	is_in_sentence	sentence_17442
+17442_12	attr	17442_9
+17442_12	is_entity	actress
+17442_11	is_in_sentence	sentence_17442
+17442_11	amod	17442_12
+17442_11	has_surface_form	American
+actress	surface_form	actress
+17442_13	is_in_sentence	sentence_17442
+17442_13	punct	17442_9
+17442_13	has_surface_form	.
+17442_14	is_in_sentence	sentence_17442
+17442_14	dep	17442_14
+17442_14	has_surface_form	
+Samantha Mathis	surface_form	Samantha Mathis
+Samantha Mathis	has-occupation	actress

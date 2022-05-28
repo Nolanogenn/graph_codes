@@ -1,0 +1,91 @@
+17465_0	is_in_sentence	sentence_17465
+17465_0	compound	17465_1
+17465_0	has_surface_form	Patricia
+17465_0	part_of_entity	Patricia Marmont
+17465_1	is_in_sentence	sentence_17465
+17465_1	nsubj	17465_8
+17465_1	has_surface_form	Marmont
+17465_1	part_of_entity	Patricia Marmont
+17465_8	is_in_sentence	sentence_17465
+17465_8	ROOT	17465_8
+17465_8	has_surface_form	is
+17465_2	is_in_sentence	sentence_17465
+17465_2	punct	17465_3
+17465_2	has_surface_form	(
+17465_3	is_in_sentence	sentence_17465
+17465_3	parataxis	17465_1
+17465_3	has_surface_form	born
+17465_4	is_in_sentence	sentence_17465
+17465_4	nummod	17465_5
+17465_4	has_surface_form	9
+17465_5	is_in_sentence	sentence_17465
+17465_5	npadvmod	17465_3
+17465_5	has_surface_form	August
+17465_6	is_in_sentence	sentence_17465
+17465_6	nummod	17465_5
+17465_6	has_surface_form	1921
+17465_7	is_in_sentence	sentence_17465
+17465_7	punct	17465_3
+17465_7	has_surface_form	)
+17465_9	is_in_sentence	sentence_17465
+17465_9	det	17465_11
+17465_9	has_surface_form	a
+17465_11	is_in_sentence	sentence_17465
+17465_11	attr	17465_8
+17465_11	has_surface_form	actress
+17465_10	is_in_sentence	sentence_17465
+17465_10	amod	17465_11
+17465_10	has_surface_form	British
+17465_12	is_in_sentence	sentence_17465
+17465_12	punct	17465_8
+17465_12	has_surface_form	.
+17465_13	is_in_sentence	sentence_17465
+17465_13	nsubj	17465_14
+17465_13	has_surface_form	She
+17465_14	is_in_sentence	sentence_17465
+17465_14	ROOT	17465_14
+17465_14	has_surface_form	is
+17465_15	is_in_sentence	sentence_17465
+17465_15	det	17465_16
+17465_15	has_surface_form	the
+17465_16	is_in_sentence	sentence_17465
+17465_16	attr	17465_14
+17465_16	has_surface_form	daughter
+17465_17	is_in_sentence	sentence_17465
+17465_17	prep	17465_16
+17465_17	has_surface_form	of
+17465_18	is_in_sentence	sentence_17465
+17465_18	compound	17465_19
+17465_18	has_surface_form	Percy
+17465_19	is_in_sentence	sentence_17465
+17465_19	pobj	17465_17
+17465_19	has_surface_form	Marmont
+17465_20	is_in_sentence	sentence_17465
+17465_20	cc	17465_14
+17465_20	has_surface_form	and
+17465_21	is_in_sentence	sentence_17465
+17465_21	conj	17465_14
+17465_21	has_surface_form	was
+17465_22	is_in_sentence	sentence_17465
+17465_22	acomp	17465_21
+17465_22	has_surface_form	married
+17465_23	is_in_sentence	sentence_17465
+17465_23	prep	17465_22
+17465_23	has_surface_form	to
+17465_24	is_in_sentence	sentence_17465
+17465_24	compound	17465_25
+17465_24	has_surface_form	Nigel
+17465_24	part_of_entity	Nigel Green
+17465_25	is_in_sentence	sentence_17465
+17465_25	pobj	17465_23
+17465_25	has_surface_form	Green
+17465_25	part_of_entity	Nigel Green
+17465_26	is_in_sentence	sentence_17465
+17465_26	punct	17465_14
+17465_26	has_surface_form	.
+17465_27	is_in_sentence	sentence_17465
+17465_27	dep	17465_27
+17465_27	has_surface_form	
+Patricia Marmont	surface_form	Patricia Marmont
+Patricia Marmont	has-spouse	Nigel Green
+Nigel Green	surface_form	Nigel Green

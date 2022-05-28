@@ -1,0 +1,58 @@
+29950_0	is_in_sentence	sentence_29950
+29950_0	compound	29950_1
+29950_0	has_surface_form	Robert
+29950_0	part_of_entity	Robert Morley
+29950_1	is_in_sentence	sentence_29950
+29950_1	nsubj	29950_2
+29950_1	has_surface_form	Morley
+29950_1	part_of_entity	Robert Morley
+29950_2	is_in_sentence	sentence_29950
+29950_2	ROOT	29950_2
+29950_2	has_surface_form	married
+29950_3	is_in_sentence	sentence_29950
+29950_3	compound	29950_4
+29950_3	has_surface_form	Joan
+29950_3	part_of_entity	Joan Buckmaster
+29950_4	is_in_sentence	sentence_29950
+29950_4	npadvmod	29950_2
+29950_4	has_surface_form	Buckmaster
+29950_4	part_of_entity	Joan Buckmaster
+29950_5	is_in_sentence	sentence_29950
+29950_5	punct	29950_4
+29950_5	has_surface_form	(
+29950_6	is_in_sentence	sentence_29950
+29950_6	appos	29950_4
+29950_6	has_surface_form	1910–2005
+29950_7	is_in_sentence	sentence_29950
+29950_7	punct	29950_4
+29950_7	has_surface_form	)
+29950_8	is_in_sentence	sentence_29950
+29950_8	punct	29950_4
+29950_8	has_surface_form	,
+29950_9	is_in_sentence	sentence_29950
+29950_9	det	29950_10
+29950_9	has_surface_form	a
+29950_10	is_in_sentence	sentence_29950
+29950_10	appos	29950_4
+29950_10	has_surface_form	daughter
+29950_11	is_in_sentence	sentence_29950
+29950_11	prep	29950_10
+29950_11	has_surface_form	of
+29950_12	is_in_sentence	sentence_29950
+29950_12	compound	29950_14
+29950_12	has_surface_form	Dame
+29950_14	is_in_sentence	sentence_29950
+29950_14	pobj	29950_11
+29950_14	has_surface_form	Cooper
+29950_13	is_in_sentence	sentence_29950
+29950_13	compound	29950_14
+29950_13	has_surface_form	Gladys
+29950_15	is_in_sentence	sentence_29950
+29950_15	punct	29950_2
+29950_15	has_surface_form	.
+29950_16	is_in_sentence	sentence_29950
+29950_16	dep	29950_2
+29950_16	has_surface_form	
+Robert Morley	surface_form	Robert Morley
+Robert Morley	has-spouse	Joan Buckmaster
+Joan Buckmaster	surface_form	Joan Buckmaster

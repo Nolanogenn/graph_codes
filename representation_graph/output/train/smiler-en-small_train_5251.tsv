@@ -1,0 +1,62 @@
+5250_0	is_in_sentence	sentence_5250
+5250_0	det	5250_5
+5250_0	has_surface_form	A
+5250_5	is_in_sentence	sentence_5250
+5250_5	nsubjpass	5250_8
+5250_5	has_surface_form	board
+5250_5	part_of_entity	ironing board
+5250_1	is_in_sentence	sentence_5250
+5250_1	advmod	5250_2
+5250_1	has_surface_form	truly
+5250_2	is_in_sentence	sentence_5250
+5250_2	amod	5250_5
+5250_2	has_surface_form	portable
+5250_3	is_in_sentence	sentence_5250
+5250_3	amod	5250_5
+5250_3	has_surface_form	folding
+5250_4	is_in_sentence	sentence_5250
+5250_4	compound	5250_5
+5250_4	has_surface_form	ironing
+5250_4	part_of_entity	ironing board
+5250_8	is_in_sentence	sentence_5250
+5250_8	ROOT	5250_8
+5250_8	has_surface_form	patented
+5250_6	is_in_sentence	sentence_5250
+5250_6	auxpass	5250_8
+5250_6	has_surface_form	was
+5250_7	is_in_sentence	sentence_5250
+5250_7	advmod	5250_8
+5250_7	has_surface_form	first
+5250_9	is_in_sentence	sentence_5250
+5250_9	prep	5250_8
+5250_9	has_surface_form	in
+5250_10	is_in_sentence	sentence_5250
+5250_10	pobj	5250_9
+5250_10	has_surface_form	Canada
+5250_11	is_in_sentence	sentence_5250
+5250_11	prep	5250_8
+5250_11	has_surface_form	in
+5250_12	is_in_sentence	sentence_5250
+5250_12	pobj	5250_11
+5250_12	is_entity	1875
+1875	surface_form	1875
+5250_13	is_in_sentence	sentence_5250
+5250_13	agent	5250_8
+5250_13	has_surface_form	by
+5250_14	is_in_sentence	sentence_5250
+5250_14	compound	5250_16
+5250_14	has_surface_form	John
+5250_16	is_in_sentence	sentence_5250
+5250_16	pobj	5250_13
+5250_16	has_surface_form	Porter
+5250_15	is_in_sentence	sentence_5250
+5250_15	compound	5250_16
+5250_15	has_surface_form	B.
+5250_17	is_in_sentence	sentence_5250
+5250_17	punct	5250_8
+5250_17	has_surface_form	.
+5250_18	is_in_sentence	sentence_5250
+5250_18	dep	5250_18
+5250_18	has_surface_form	
+ironing board	surface_form	ironing board
+ironing board	invented-when	1875

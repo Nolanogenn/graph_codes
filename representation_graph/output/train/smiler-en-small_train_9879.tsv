@@ -1,0 +1,70 @@
+9878_0	is_in_sentence	sentence_9878
+9878_0	nsubj	9878_1
+9878_0	has_surface_form	God
+9878_0	part_of_entity	God Made Me Funky
+9878_1	is_in_sentence	sentence_9878
+9878_1	ROOT	9878_1
+9878_1	has_surface_form	Made
+9878_1	part_of_entity	God Made Me Funky
+9878_2	is_in_sentence	sentence_9878
+9878_2	nsubj	9878_3
+9878_2	has_surface_form	Me
+9878_2	part_of_entity	God Made Me Funky
+9878_3	is_in_sentence	sentence_9878
+9878_3	nsubj	9878_7
+9878_3	has_surface_form	Funky
+9878_3	part_of_entity	God Made Me Funky
+9878_7	is_in_sentence	sentence_9878
+9878_7	ccomp	9878_1
+9878_7	has_surface_form	is
+9878_4	is_in_sentence	sentence_9878
+9878_4	punct	9878_5
+9878_4	has_surface_form	(
+9878_5	is_in_sentence	sentence_9878
+9878_5	appos	9878_3
+9878_5	has_surface_form	GMMF
+9878_6	is_in_sentence	sentence_9878
+9878_6	punct	9878_3
+9878_6	has_surface_form	)
+9878_8	is_in_sentence	sentence_9878
+9878_8	det	9878_12
+9878_8	has_surface_form	a
+9878_12	is_in_sentence	sentence_9878
+9878_12	attr	9878_7
+9878_12	has_surface_form	group
+9878_9	is_in_sentence	sentence_9878
+9878_9	amod	9878_12
+9878_9	has_surface_form	Canadian
+9878_10	is_in_sentence	sentence_9878
+9878_10	compound	9878_11
+9878_10	is_entity	funk
+9878_11	is_in_sentence	sentence_9878
+9878_11	compound	9878_12
+9878_11	has_surface_form	music
+funk	surface_form	funk
+9878_13	is_in_sentence	sentence_9878
+9878_13	punct	9878_12
+9878_13	has_surface_form	,
+9878_14	is_in_sentence	sentence_9878
+9878_14	acl	9878_12
+9878_14	has_surface_form	formed
+9878_15	is_in_sentence	sentence_9878
+9878_15	prep	9878_14
+9878_15	has_surface_form	in
+9878_16	is_in_sentence	sentence_9878
+9878_16	pobj	9878_15
+9878_16	has_surface_form	1996
+9878_17	is_in_sentence	sentence_9878
+9878_17	prep	9878_14
+9878_17	has_surface_form	in
+9878_18	is_in_sentence	sentence_9878
+9878_18	pobj	9878_17
+9878_18	has_surface_form	Toronto
+9878_19	is_in_sentence	sentence_9878
+9878_19	punct	9878_7
+9878_19	has_surface_form	.
+9878_20	is_in_sentence	sentence_9878
+9878_20	dep	9878_20
+9878_20	has_surface_form	
+God Made Me Funky	surface_form	God Made Me Funky
+God Made Me Funky	has-genre	funk

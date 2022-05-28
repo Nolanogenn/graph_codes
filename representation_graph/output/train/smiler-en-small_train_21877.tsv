@@ -1,0 +1,95 @@
+21876_0	is_in_sentence	sentence_21876
+21876_0	compound	21876_1
+21876_0	has_surface_form	Avid
+21876_0	part_of_entity	Avid Radiopharmaceuticals
+21876_1	is_in_sentence	sentence_21876
+21876_1	nsubj	21876_2
+21876_1	has_surface_form	Radiopharmaceuticals
+21876_1	part_of_entity	Avid Radiopharmaceuticals
+21876_2	is_in_sentence	sentence_21876
+21876_2	ROOT	21876_2
+21876_2	has_surface_form	is
+21876_3	is_in_sentence	sentence_21876
+21876_3	det	21876_5
+21876_3	has_surface_form	an
+21876_5	is_in_sentence	sentence_21876
+21876_5	attr	21876_2
+21876_5	has_surface_form	company
+21876_4	is_in_sentence	sentence_21876
+21876_4	amod	21876_5
+21876_4	has_surface_form	American
+21876_6	is_in_sentence	sentence_21876
+21876_6	punct	21876_5
+21876_6	has_surface_form	,
+21876_7	is_in_sentence	sentence_21876
+21876_7	acl	21876_5
+21876_7	has_surface_form	founded
+21876_8	is_in_sentence	sentence_21876
+21876_8	agent	21876_7
+21876_8	has_surface_form	by
+21876_9	is_in_sentence	sentence_21876
+21876_9	compound	21876_11
+21876_9	has_surface_form	Dr.
+21876_9	part_of_entity	Dr. Daniel Skovronsky
+21876_11	is_in_sentence	sentence_21876
+21876_11	pobj	21876_8
+21876_11	has_surface_form	Skovronsky
+21876_11	part_of_entity	Dr. Daniel Skovronsky
+21876_10	is_in_sentence	sentence_21876
+21876_10	compound	21876_11
+21876_10	has_surface_form	Daniel
+21876_10	part_of_entity	Dr. Daniel Skovronsky
+21876_12	is_in_sentence	sentence_21876
+21876_12	punct	21876_2
+21876_12	has_surface_form	,
+21876_13	is_in_sentence	sentence_21876
+21876_13	cc	21876_2
+21876_13	has_surface_form	and
+21876_14	is_in_sentence	sentence_21876
+21876_14	conj	21876_2
+21876_14	has_surface_form	based
+21876_15	is_in_sentence	sentence_21876
+21876_15	prep	21876_14
+21876_15	has_surface_form	at
+21876_16	is_in_sentence	sentence_21876
+21876_16	det	21876_22
+21876_16	has_surface_form	the
+21876_22	is_in_sentence	sentence_21876
+21876_22	pobj	21876_15
+21876_22	has_surface_form	campus
+21876_17	is_in_sentence	sentence_21876
+21876_17	compound	21876_18
+21876_17	has_surface_form	University
+21876_18	is_in_sentence	sentence_21876
+21876_18	compound	21876_20
+21876_18	has_surface_form	City
+21876_20	is_in_sentence	sentence_21876
+21876_20	compound	21876_22
+21876_20	has_surface_form	Center
+21876_19	is_in_sentence	sentence_21876
+21876_19	compound	21876_20
+21876_19	has_surface_form	Science
+21876_21	is_in_sentence	sentence_21876
+21876_21	compound	21876_22
+21876_21	has_surface_form	research
+21876_23	is_in_sentence	sentence_21876
+21876_23	prep	21876_22
+21876_23	has_surface_form	in
+21876_24	is_in_sentence	sentence_21876
+21876_24	pobj	21876_23
+21876_24	has_surface_form	Philadelphia
+21876_25	is_in_sentence	sentence_21876
+21876_25	punct	21876_24
+21876_25	has_surface_form	,
+21876_26	is_in_sentence	sentence_21876
+21876_26	appos	21876_24
+21876_26	has_surface_form	Pennsylvania
+21876_27	is_in_sentence	sentence_21876
+21876_27	punct	21876_2
+21876_27	has_surface_form	.
+21876_28	is_in_sentence	sentence_21876
+21876_28	dep	21876_2
+21876_28	has_surface_form	
+Avid Radiopharmaceuticals	surface_form	Avid Radiopharmaceuticals
+Avid Radiopharmaceuticals	org-has-founder	Dr. Daniel Skovronsky
+Dr. Daniel Skovronsky	surface_form	Dr. Daniel Skovronsky

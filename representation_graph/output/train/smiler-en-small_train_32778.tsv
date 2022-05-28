@@ -1,0 +1,64 @@
+32777_0	is_in_sentence	sentence_32777
+32777_0	compound	32777_1
+32777_0	has_surface_form	Sundar
+32777_0	part_of_entity	Sundar Bou
+32777_1	is_in_sentence	sentence_32777
+32777_1	nsubj	32777_8
+32777_1	has_surface_form	Bou
+32777_1	part_of_entity	Sundar Bou
+32777_8	is_in_sentence	sentence_32777
+32777_8	ROOT	32777_8
+32777_8	has_surface_form	is
+32777_2	is_in_sentence	sentence_32777
+32777_2	punct	32777_1
+32777_2	has_surface_form	(
+32777_3	is_in_sentence	sentence_32777
+32777_3	appos	32777_1
+32777_3	has_surface_form	Bengali
+32777_4	is_in_sentence	sentence_32777
+32777_4	punct	32777_3
+32777_4	has_surface_form	:
+32777_5	is_in_sentence	sentence_32777
+32777_5	appos	32777_3
+32777_5	has_surface_form	সুন্দর
+32777_6	is_in_sentence	sentence_32777
+32777_6	appos	32777_1
+32777_6	has_surface_form	বউ
+32777_7	is_in_sentence	sentence_32777
+32777_7	punct	32777_1
+32777_7	has_surface_form	)
+32777_9	is_in_sentence	sentence_32777
+32777_9	det	32777_12
+32777_9	has_surface_form	a
+32777_12	is_in_sentence	sentence_32777
+32777_12	attr	32777_8
+32777_12	has_surface_form	film
+32777_10	is_in_sentence	sentence_32777
+32777_10	nummod	32777_12
+32777_10	has_surface_form	1999
+32777_11	is_in_sentence	sentence_32777
+32777_11	compound	32777_12
+32777_11	has_surface_form	Bengali
+32777_13	is_in_sentence	sentence_32777
+32777_13	acl	32777_12
+32777_13	has_surface_form	directed
+32777_14	is_in_sentence	sentence_32777
+32777_14	agent	32777_13
+32777_14	has_surface_form	by
+32777_15	is_in_sentence	sentence_32777
+32777_15	compound	32777_16
+32777_15	has_surface_form	Sujit
+32777_15	part_of_entity	Sujit Guha
+32777_16	is_in_sentence	sentence_32777
+32777_16	pobj	32777_14
+32777_16	has_surface_form	Guha
+32777_16	part_of_entity	Sujit Guha
+32777_17	is_in_sentence	sentence_32777
+32777_17	punct	32777_8
+32777_17	has_surface_form	.
+32777_18	is_in_sentence	sentence_32777
+32777_18	dep	32777_8
+32777_18	has_surface_form	
+Sundar Bou	surface_form	Sundar Bou
+Sundar Bou	movie-has-director	Sujit Guha
+Sujit Guha	surface_form	Sujit Guha

@@ -1,0 +1,67 @@
+6678_0	is_in_sentence	sentence_6678
+6678_0	compound	6678_1
+6678_0	has_surface_form	Ponnum
+6678_0	part_of_entity	Ponnum Poovum
+6678_1	is_in_sentence	sentence_6678
+6678_1	nsubj	6678_2
+6678_1	has_surface_form	Poovum
+6678_1	part_of_entity	Ponnum Poovum
+6678_2	is_in_sentence	sentence_6678
+6678_2	ROOT	6678_2
+6678_2	has_surface_form	is
+6678_3	is_in_sentence	sentence_6678
+6678_3	det	6678_9
+6678_3	has_surface_form	a
+6678_9	is_in_sentence	sentence_6678
+6678_9	attr	6678_2
+6678_9	has_surface_form	film
+6678_4	is_in_sentence	sentence_6678
+6678_4	nummod	6678_9
+6678_4	has_surface_form	1982
+6678_5	is_in_sentence	sentence_6678
+6678_5	compound	6678_9
+6678_5	has_surface_form	Indian
+6678_6	is_in_sentence	sentence_6678
+6678_6	compound	6678_8
+6678_6	has_surface_form	Malayalam
+6678_8	is_in_sentence	sentence_6678
+6678_8	compound	6678_9
+6678_8	has_surface_form	language
+6678_7	is_in_sentence	sentence_6678
+6678_7	punct	6678_8
+6678_7	has_surface_form	-
+6678_10	is_in_sentence	sentence_6678
+6678_10	punct	6678_9
+6678_10	has_surface_form	,
+6678_11	is_in_sentence	sentence_6678
+6678_11	acl	6678_9
+6678_11	has_surface_form	directed
+6678_12	is_in_sentence	sentence_6678
+6678_12	agent	6678_11
+6678_12	has_surface_form	by
+6678_13	is_in_sentence	sentence_6678
+6678_13	compound	6678_14
+6678_13	has_surface_form	A.
+6678_13	part_of_entity	A. Vincent
+6678_14	is_in_sentence	sentence_6678
+6678_14	pobj	6678_12
+6678_14	has_surface_form	Vincent
+6678_14	part_of_entity	A. Vincent
+6678_15	is_in_sentence	sentence_6678
+6678_15	cc	6678_11
+6678_15	has_surface_form	and
+6678_16	is_in_sentence	sentence_6678
+6678_16	conj	6678_11
+6678_16	has_surface_form	produced
+6678_17	is_in_sentence	sentence_6678
+6678_17	agent	6678_16
+6678_17	has_surface_form	by
+6678_18	is_in_sentence	sentence_6678
+6678_18	pobj	6678_17
+6678_18	has_surface_form	S.
+6678_19	is_in_sentence	sentence_6678
+6678_19	dep	6678_2
+6678_19	has_surface_form	
+Ponnum Poovum	surface_form	Ponnum Poovum
+Ponnum Poovum	movie-has-director	A. Vincent
+A. Vincent	surface_form	A. Vincent

@@ -1,0 +1,79 @@
+20659_0	is_in_sentence	sentence_20659
+20659_0	compound	20659_1
+20659_0	has_surface_form	Duplicate
+20659_0	part_of_entity	Duplicate Sholay
+20659_1	is_in_sentence	sentence_20659
+20659_1	nsubj	20659_2
+20659_1	has_surface_form	Sholay
+20659_1	part_of_entity	Duplicate Sholay
+20659_2	is_in_sentence	sentence_20659
+20659_2	ROOT	20659_2
+20659_2	has_surface_form	is
+20659_3	is_in_sentence	sentence_20659
+20659_3	det	20659_6
+20659_3	has_surface_form	a
+20659_6	is_in_sentence	sentence_20659
+20659_6	attr	20659_2
+20659_6	has_surface_form	film
+20659_4	is_in_sentence	sentence_20659
+20659_4	nummod	20659_6
+20659_4	has_surface_form	2002
+20659_5	is_in_sentence	sentence_20659
+20659_5	compound	20659_6
+20659_5	has_surface_form	spoof
+20659_7	is_in_sentence	sentence_20659
+20659_7	nsubj	20659_8
+20659_7	has_surface_form	that
+20659_8	is_in_sentence	sentence_20659
+20659_8	relcl	20659_6
+20659_8	has_surface_form	parodies
+20659_9	is_in_sentence	sentence_20659
+20659_9	det	20659_14
+20659_9	has_surface_form	the
+20659_14	is_in_sentence	sentence_20659
+20659_14	dobj	20659_8
+20659_14	has_surface_form	Sholay
+20659_10	is_in_sentence	sentence_20659
+20659_10	nummod	20659_11
+20659_10	has_surface_form	1975
+20659_11	is_in_sentence	sentence_20659
+20659_11	amod	20659_14
+20659_11	has_surface_form	classic
+20659_12	is_in_sentence	sentence_20659
+20659_12	compound	20659_14
+20659_12	has_surface_form	Bollywood
+20659_13	is_in_sentence	sentence_20659
+20659_13	compound	20659_14
+20659_13	has_surface_form	blockbuster
+20659_15	is_in_sentence	sentence_20659
+20659_15	punct	20659_2
+20659_15	has_surface_form	.
+20659_16	is_in_sentence	sentence_20659
+20659_16	nsubjpass	20659_18
+20659_16	has_surface_form	It
+20659_18	is_in_sentence	sentence_20659
+20659_18	ROOT	20659_18
+20659_18	has_surface_form	directed
+20659_17	is_in_sentence	sentence_20659
+20659_17	auxpass	20659_18
+20659_17	has_surface_form	was
+20659_19	is_in_sentence	sentence_20659
+20659_19	agent	20659_18
+20659_19	has_surface_form	by
+20659_20	is_in_sentence	sentence_20659
+20659_20	compound	20659_21
+20659_20	has_surface_form	Kanti
+20659_20	part_of_entity	Kanti Shah
+20659_21	is_in_sentence	sentence_20659
+20659_21	pobj	20659_19
+20659_21	has_surface_form	Shah
+20659_21	part_of_entity	Kanti Shah
+20659_22	is_in_sentence	sentence_20659
+20659_22	punct	20659_18
+20659_22	has_surface_form	.
+20659_23	is_in_sentence	sentence_20659
+20659_23	dep	20659_18
+20659_23	has_surface_form	
+Duplicate Sholay	surface_form	Duplicate Sholay
+Duplicate Sholay	movie-has-director	Kanti Shah
+Kanti Shah	surface_form	Kanti Shah

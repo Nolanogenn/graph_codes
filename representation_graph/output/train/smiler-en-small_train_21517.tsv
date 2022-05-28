@@ -1,0 +1,60 @@
+21516_0	is_in_sentence	sentence_21516
+21516_0	compound	21516_3
+21516_0	has_surface_form	James
+21516_0	part_of_entity	James Mosher Elementary School
+21516_3	is_in_sentence	sentence_21516
+21516_3	nsubjpass	21516_5
+21516_3	has_surface_form	School
+21516_3	part_of_entity	James Mosher Elementary School
+21516_1	is_in_sentence	sentence_21516
+21516_1	compound	21516_3
+21516_1	has_surface_form	Mosher
+21516_1	part_of_entity	James Mosher Elementary School
+21516_2	is_in_sentence	sentence_21516
+21516_2	compound	21516_3
+21516_2	has_surface_form	Elementary
+21516_2	part_of_entity	James Mosher Elementary School
+21516_5	is_in_sentence	sentence_21516
+21516_5	ROOT	21516_5
+21516_5	has_surface_form	located
+21516_4	is_in_sentence	sentence_21516
+21516_4	auxpass	21516_5
+21516_4	has_surface_form	is
+21516_6	is_in_sentence	sentence_21516
+21516_6	prep	21516_5
+21516_6	has_surface_form	in
+21516_7	is_in_sentence	sentence_21516
+21516_7	compound	21516_8
+21516_7	has_surface_form	West
+21516_7	part_of_entity	West Baltimore
+21516_8	is_in_sentence	sentence_21516
+21516_8	pobj	21516_6
+21516_8	has_surface_form	Baltimore
+21516_8	part_of_entity	West Baltimore
+21516_9	is_in_sentence	sentence_21516
+21516_9	prep	21516_5
+21516_9	has_surface_form	in
+21516_10	is_in_sentence	sentence_21516
+21516_10	det	21516_14
+21516_10	has_surface_form	the
+21516_14	is_in_sentence	sentence_21516
+21516_14	pobj	21516_9
+21516_14	has_surface_form	neighborhood
+21516_11	is_in_sentence	sentence_21516
+21516_11	nmod	21516_13
+21516_11	has_surface_form	Bridgeview
+21516_13	is_in_sentence	sentence_21516
+21516_13	compound	21516_14
+21516_13	has_surface_form	Greenlawn
+21516_12	is_in_sentence	sentence_21516
+21516_12	punct	21516_13
+21516_12	has_surface_form	/
+21516_15	is_in_sentence	sentence_21516
+21516_15	punct	21516_5
+21516_15	has_surface_form	.
+21516_16	is_in_sentence	sentence_21516
+21516_16	dep	21516_16
+21516_16	has_surface_form	
+James Mosher Elementary School	surface_form	James Mosher Elementary School
+James Mosher Elementary School	is-where	West Baltimore
+West Baltimore	surface_form	West Baltimore

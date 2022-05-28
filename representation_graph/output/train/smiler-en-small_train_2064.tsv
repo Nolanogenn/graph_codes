@@ -1,0 +1,70 @@
+2063_0	is_in_sentence	sentence_2063
+2063_0	compound	2063_1
+2063_0	has_surface_form	Pennsylvania
+2063_0	part_of_entity	Pennsylvania College of Technology
+2063_1	is_in_sentence	sentence_2063
+2063_1	nsubj	2063_11
+2063_1	has_surface_form	College
+2063_1	part_of_entity	Pennsylvania College of Technology
+2063_11	is_in_sentence	sentence_2063
+2063_11	ROOT	2063_11
+2063_11	has_surface_form	is
+2063_2	is_in_sentence	sentence_2063
+2063_2	prep	2063_1
+2063_2	has_surface_form	of
+2063_2	part_of_entity	Pennsylvania College of Technology
+2063_3	is_in_sentence	sentence_2063
+2063_3	pobj	2063_2
+2063_3	has_surface_form	Technology
+2063_3	part_of_entity	Pennsylvania College of Technology
+2063_4	is_in_sentence	sentence_2063
+2063_4	punct	2063_1
+2063_4	has_surface_form	,
+2063_5	is_in_sentence	sentence_2063
+2063_5	acl	2063_1
+2063_5	has_surface_form	known
+2063_6	is_in_sentence	sentence_2063
+2063_6	advmod	2063_5
+2063_6	has_surface_form	informally
+2063_7	is_in_sentence	sentence_2063
+2063_7	prep	2063_5
+2063_7	has_surface_form	as
+2063_8	is_in_sentence	sentence_2063
+2063_8	compound	2063_9
+2063_8	has_surface_form	Penn
+2063_9	is_in_sentence	sentence_2063
+2063_9	pobj	2063_7
+2063_9	has_surface_form	College
+2063_10	is_in_sentence	sentence_2063
+2063_10	punct	2063_1
+2063_10	has_surface_form	,
+2063_12	is_in_sentence	sentence_2063
+2063_12	det	2063_14
+2063_12	has_surface_form	a
+2063_14	is_in_sentence	sentence_2063
+2063_14	attr	2063_11
+2063_14	has_surface_form	college
+2063_13	is_in_sentence	sentence_2063
+2063_13	amod	2063_14
+2063_13	has_surface_form	public
+2063_15	is_in_sentence	sentence_2063
+2063_15	prep	2063_14
+2063_15	has_surface_form	in
+2063_16	is_in_sentence	sentence_2063
+2063_16	pobj	2063_15
+2063_16	has_surface_form	Williamsport
+2063_17	is_in_sentence	sentence_2063
+2063_17	punct	2063_16
+2063_17	has_surface_form	,
+2063_18	is_in_sentence	sentence_2063
+2063_18	appos	2063_16
+2063_18	has_surface_form	Pennsylvania
+2063_19	is_in_sentence	sentence_2063
+2063_19	punct	2063_11
+2063_19	has_surface_form	.
+2063_20	is_in_sentence	sentence_2063
+2063_20	dep	2063_20
+2063_20	has_surface_form	
+Pennsylvania College of Technology	surface_form	Pennsylvania College of Technology
+Pennsylvania College of Technology	is-where	Williamsport, Pennsylvania
+Williamsport, Pennsylvania	surface_form	Williamsport, Pennsylvania

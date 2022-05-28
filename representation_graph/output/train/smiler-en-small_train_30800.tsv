@@ -1,0 +1,74 @@
+30799_0	is_in_sentence	sentence_30799
+30799_0	compound	30799_1
+30799_0	has_surface_form	Naked
+30799_0	part_of_entity	Naked Campus
+30799_1	is_in_sentence	sentence_30799
+30799_1	nsubj	30799_2
+30799_1	has_surface_form	Campus
+30799_1	part_of_entity	Naked Campus
+30799_2	is_in_sentence	sentence_30799
+30799_2	ROOT	30799_2
+30799_2	has_surface_form	is
+30799_3	is_in_sentence	sentence_30799
+30799_3	det	30799_6
+30799_3	has_surface_form	a
+30799_6	is_in_sentence	sentence_30799
+30799_6	attr	30799_2
+30799_6	has_surface_form	film
+30799_4	is_in_sentence	sentence_30799
+30799_4	nummod	30799_6
+30799_4	has_surface_form	1982
+30799_5	is_in_sentence	sentence_30799
+30799_5	compound	30799_6
+30799_5	has_surface_form	drama
+30799_7	is_in_sentence	sentence_30799
+30799_7	acl	30799_6
+30799_7	has_surface_form	directed
+30799_8	is_in_sentence	sentence_30799
+30799_8	agent	30799_7
+30799_8	has_surface_form	by
+30799_9	is_in_sentence	sentence_30799
+30799_9	compound	30799_11
+30799_9	has_surface_form	Robert
+30799_9	part_of_entity	Robert E. Morris
+30799_11	is_in_sentence	sentence_30799
+30799_11	pobj	30799_8
+30799_11	has_surface_form	Morris
+30799_11	part_of_entity	Robert E. Morris
+30799_10	is_in_sentence	sentence_30799
+30799_10	compound	30799_11
+30799_10	has_surface_form	E.
+30799_10	part_of_entity	Robert E. Morris
+30799_12	is_in_sentence	sentence_30799
+30799_12	cc	30799_7
+30799_12	has_surface_form	and
+30799_13	is_in_sentence	sentence_30799
+30799_13	conj	30799_7
+30799_13	has_surface_form	starring
+30799_14	is_in_sentence	sentence_30799
+30799_14	compound	30799_15
+30799_14	has_surface_form	Peter
+30799_15	is_in_sentence	sentence_30799
+30799_15	compound	30799_16
+30799_15	has_surface_form	Knight
+30799_16	is_in_sentence	sentence_30799
+30799_16	dobj	30799_13
+30799_16	has_surface_form	Silander
+30799_17	is_in_sentence	sentence_30799
+30799_17	cc	30799_16
+30799_17	has_surface_form	and
+30799_18	is_in_sentence	sentence_30799
+30799_18	compound	30799_19
+30799_18	has_surface_form	Robert
+30799_19	is_in_sentence	sentence_30799
+30799_19	conj	30799_16
+30799_19	has_surface_form	Dryer
+30799_20	is_in_sentence	sentence_30799
+30799_20	punct	30799_2
+30799_20	has_surface_form	.
+30799_21	is_in_sentence	sentence_30799
+30799_21	dep	30799_2
+30799_21	has_surface_form	
+Naked Campus	surface_form	Naked Campus
+Naked Campus	movie-has-director	Robert E. Morris
+Robert E. Morris	surface_form	Robert E. Morris

@@ -1,0 +1,79 @@
+8267_0	is_in_sentence	sentence_8267
+8267_0	det	8267_1
+8267_0	has_surface_form	The
+8267_0	part_of_entity	The Marshal of Mesa City
+8267_1	is_in_sentence	sentence_8267
+8267_1	nsubj	8267_5
+8267_1	has_surface_form	Marshal
+8267_1	part_of_entity	The Marshal of Mesa City
+8267_5	is_in_sentence	sentence_8267
+8267_5	ROOT	8267_5
+8267_5	has_surface_form	is
+8267_2	is_in_sentence	sentence_8267
+8267_2	prep	8267_1
+8267_2	has_surface_form	of
+8267_2	part_of_entity	The Marshal of Mesa City
+8267_3	is_in_sentence	sentence_8267
+8267_3	compound	8267_4
+8267_3	has_surface_form	Mesa
+8267_3	part_of_entity	The Marshal of Mesa City
+8267_4	is_in_sentence	sentence_8267
+8267_4	pobj	8267_2
+8267_4	has_surface_form	City
+8267_4	part_of_entity	The Marshal of Mesa City
+8267_6	is_in_sentence	sentence_8267
+8267_6	det	8267_10
+8267_6	has_surface_form	a
+8267_10	is_in_sentence	sentence_8267
+8267_10	attr	8267_5
+8267_10	has_surface_form	film
+8267_7	is_in_sentence	sentence_8267
+8267_7	nummod	8267_10
+8267_7	has_surface_form	1939
+8267_8	is_in_sentence	sentence_8267
+8267_8	amod	8267_10
+8267_8	has_surface_form	American
+8267_9	is_in_sentence	sentence_8267
+8267_9	amod	8267_10
+8267_9	has_surface_form	western
+8267_11	is_in_sentence	sentence_8267
+8267_11	acl	8267_10
+8267_11	has_surface_form	directed
+8267_12	is_in_sentence	sentence_8267
+8267_12	agent	8267_11
+8267_12	has_surface_form	by
+8267_13	is_in_sentence	sentence_8267
+8267_13	compound	8267_14
+8267_13	has_surface_form	David
+8267_13	part_of_entity	David Howard
+8267_14	is_in_sentence	sentence_8267
+8267_14	pobj	8267_12
+8267_14	has_surface_form	Howard
+8267_14	part_of_entity	David Howard
+8267_15	is_in_sentence	sentence_8267
+8267_15	prep	8267_11
+8267_15	has_surface_form	from
+8267_16	is_in_sentence	sentence_8267
+8267_16	det	8267_17
+8267_16	has_surface_form	a
+8267_17	is_in_sentence	sentence_8267
+8267_17	pobj	8267_15
+8267_17	has_surface_form	screenplay
+8267_18	is_in_sentence	sentence_8267
+8267_18	prep	8267_17
+8267_18	has_surface_form	by
+8267_19	is_in_sentence	sentence_8267
+8267_19	compound	8267_21
+8267_19	has_surface_form	Jack
+8267_21	is_in_sentence	sentence_8267
+8267_21	pobj	8267_18
+8267_21	has_surface_form	Jr.
+8267_20	is_in_sentence	sentence_8267
+8267_20	compound	8267_21
+8267_20	has_surface_form	Lait
+8267_22	is_in_sentence	sentence_8267
+8267_22	dep	8267_5
+8267_22	has_surface_form	
+The Marshal of Mesa City	surface_form	The Marshal of Mesa City
+The Marshal of Mesa City	movie-has-director	David Howard
+David Howard	surface_form	David Howard

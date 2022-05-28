@@ -1,0 +1,56 @@
+12374_0	is_in_sentence	sentence_12374
+12374_0	nsubj	12374_3
+12374_0	has_surface_form	Depth
+12374_0	part_of_entity	Depth & Current
+12374_3	is_in_sentence	sentence_12374
+12374_3	ROOT	12374_3
+12374_3	has_surface_form	is
+12374_1	is_in_sentence	sentence_12374
+12374_1	cc	12374_0
+12374_1	has_surface_form	&
+12374_1	part_of_entity	Depth & Current
+12374_2	is_in_sentence	sentence_12374
+12374_2	conj	12374_0
+12374_2	has_surface_form	Current
+12374_2	part_of_entity	Depth & Current
+12374_4	is_in_sentence	sentence_12374
+12374_4	det	12374_6
+12374_4	has_surface_form	a
+12374_6	is_in_sentence	sentence_12374
+12374_6	attr	12374_3
+12374_6	has_surface_form	pop
+12374_6	part_of_entity	noise pop
+12374_5	is_in_sentence	sentence_12374
+12374_5	compound	12374_6
+12374_5	has_surface_form	noise
+12374_5	part_of_entity	noise pop
+12374_7	is_in_sentence	sentence_12374
+12374_7	punct	12374_6
+12374_7	has_surface_form	,
+12374_8	is_in_sentence	sentence_12374
+12374_8	advcl	12374_3
+12374_8	has_surface_form	shoegazing
+12374_9	is_in_sentence	sentence_12374
+12374_9	dobj	12374_8
+12374_9	has_surface_form	band
+12374_10	is_in_sentence	sentence_12374
+12374_10	prep	12374_8
+12374_10	has_surface_form	from
+12374_11	is_in_sentence	sentence_12374
+12374_11	pobj	12374_10
+12374_11	has_surface_form	Seattle
+12374_12	is_in_sentence	sentence_12374
+12374_12	punct	12374_11
+12374_12	has_surface_form	,
+12374_13	is_in_sentence	sentence_12374
+12374_13	appos	12374_11
+12374_13	has_surface_form	Washington
+12374_14	is_in_sentence	sentence_12374
+12374_14	punct	12374_3
+12374_14	has_surface_form	.
+12374_15	is_in_sentence	sentence_12374
+12374_15	dep	12374_3
+12374_15	has_surface_form	
+Depth & Current	surface_form	Depth & Current
+Depth & Current	has-genre	noise pop
+noise pop	surface_form	noise pop

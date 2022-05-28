@@ -1,0 +1,45 @@
+34055_0	is_in_sentence	sentence_34055
+34055_0	compound	34055_1
+34055_0	has_surface_form	Philip
+34055_0	part_of_entity	Philip Stanhope Dodd
+34055_1	is_in_sentence	sentence_34055
+34055_1	compound	34055_2
+34055_1	has_surface_form	Stanhope
+34055_1	part_of_entity	Philip Stanhope Dodd
+34055_2	is_in_sentence	sentence_34055
+34055_2	nsubj	34055_3
+34055_2	has_surface_form	Dodd
+34055_2	part_of_entity	Philip Stanhope Dodd
+34055_3	is_in_sentence	sentence_34055
+34055_3	ROOT	34055_3
+34055_3	has_surface_form	was
+34055_4	is_in_sentence	sentence_34055
+34055_4	attr	34055_3
+34055_4	has_surface_form	son
+34055_5	is_in_sentence	sentence_34055
+34055_5	prep	34055_4
+34055_5	has_surface_form	of
+34055_6	is_in_sentence	sentence_34055
+34055_6	det	34055_9
+34055_6	has_surface_form	the
+34055_9	is_in_sentence	sentence_34055
+34055_9	pobj	34055_5
+34055_9	has_surface_form	Dodd
+34055_9	part_of_entity	Rev. Richard Dodd
+34055_7	is_in_sentence	sentence_34055
+34055_7	compound	34055_9
+34055_7	has_surface_form	Rev.
+34055_7	part_of_entity	Rev. Richard Dodd
+34055_8	is_in_sentence	sentence_34055
+34055_8	compound	34055_9
+34055_8	has_surface_form	Richard
+34055_8	part_of_entity	Rev. Richard Dodd
+34055_10	is_in_sentence	sentence_34055
+34055_10	punct	34055_3
+34055_10	has_surface_form	.
+34055_11	is_in_sentence	sentence_34055
+34055_11	dep	34055_3
+34055_11	has_surface_form	
+Philip Stanhope Dodd	surface_form	Philip Stanhope Dodd
+Philip Stanhope Dodd	has-parent	Rev. Richard Dodd
+Rev. Richard Dodd	surface_form	Rev. Richard Dodd

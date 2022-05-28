@@ -1,0 +1,58 @@
+32076_0	is_in_sentence	sentence_32076
+32076_0	compound	32076_1
+32076_0	has_surface_form	Daejin
+32076_0	part_of_entity	Daejin University
+32076_1	is_in_sentence	sentence_32076
+32076_1	nsubj	32076_2
+32076_1	has_surface_form	University
+32076_1	part_of_entity	Daejin University
+32076_2	is_in_sentence	sentence_32076
+32076_2	ROOT	32076_2
+32076_2	has_surface_form	is
+32076_3	is_in_sentence	sentence_32076
+32076_3	det	32076_5
+32076_3	has_surface_form	a
+32076_5	is_in_sentence	sentence_32076
+32076_5	attr	32076_2
+32076_5	has_surface_form	university
+32076_4	is_in_sentence	sentence_32076
+32076_4	amod	32076_5
+32076_4	has_surface_form	private
+32076_6	is_in_sentence	sentence_32076
+32076_6	prep	32076_5
+32076_6	has_surface_form	in
+32076_7	is_in_sentence	sentence_32076
+32076_7	compound	32076_8
+32076_7	has_surface_form	Pocheon
+32076_7	part_of_entity	Pocheon City
+32076_8	is_in_sentence	sentence_32076
+32076_8	pobj	32076_6
+32076_8	has_surface_form	City
+32076_8	part_of_entity	Pocheon City
+32076_9	is_in_sentence	sentence_32076
+32076_9	punct	32076_8
+32076_9	has_surface_form	,
+32076_10	is_in_sentence	sentence_32076
+32076_10	compound	32076_11
+32076_10	has_surface_form	Gyeonggi
+32076_11	is_in_sentence	sentence_32076
+32076_11	appos	32076_8
+32076_11	has_surface_form	province
+32076_12	is_in_sentence	sentence_32076
+32076_12	prep	32076_11
+32076_12	has_surface_form	of
+32076_13	is_in_sentence	sentence_32076
+32076_13	compound	32076_14
+32076_13	has_surface_form	South
+32076_14	is_in_sentence	sentence_32076
+32076_14	pobj	32076_12
+32076_14	has_surface_form	Korea
+32076_15	is_in_sentence	sentence_32076
+32076_15	punct	32076_2
+32076_15	has_surface_form	.
+32076_16	is_in_sentence	sentence_32076
+32076_16	dep	32076_16
+32076_16	has_surface_form	
+Daejin University	surface_form	Daejin University
+Daejin University	is-where	Pocheon City
+Pocheon City	surface_form	Pocheon City

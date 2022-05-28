@@ -1,0 +1,59 @@
+23892_0	is_in_sentence	sentence_23892
+23892_0	ROOT	23892_0
+23892_0	has_surface_form	Born
+23892_1	is_in_sentence	sentence_23892
+23892_1	prep	23892_0
+23892_1	has_surface_form	in
+23892_2	is_in_sentence	sentence_23892
+23892_2	pobj	23892_1
+23892_2	has_surface_form	Munich
+23892_3	is_in_sentence	sentence_23892
+23892_3	punct	23892_2
+23892_3	has_surface_form	,
+23892_4	is_in_sentence	sentence_23892
+23892_4	conj	23892_2
+23892_4	has_surface_form	Germany
+23892_5	is_in_sentence	sentence_23892
+23892_5	punct	23892_4
+23892_5	has_surface_form	,
+23892_6	is_in_sentence	sentence_23892
+23892_6	poss	23892_8
+23892_6	is_entity	Hamauzu
+23892_8	is_in_sentence	sentence_23892
+23892_8	conj	23892_4
+23892_8	has_surface_form	father
+Hamauzu	surface_form	Hamauzu
+Hamauzu	has-parent	Akimori Hamauzu
+23892_7	is_in_sentence	sentence_23892
+23892_7	case	23892_6
+23892_7	has_surface_form	’s
+23892_9	is_in_sentence	sentence_23892
+23892_9	punct	23892_8
+23892_9	has_surface_form	,
+23892_10	is_in_sentence	sentence_23892
+23892_10	compound	23892_11
+23892_10	has_surface_form	Akimori
+23892_10	part_of_entity	Akimori Hamauzu
+23892_11	is_in_sentence	sentence_23892
+23892_11	conj	23892_8
+23892_11	is_entity	Hamauzu
+23892_11	part_of_entity	Akimori Hamauzu
+23892_12	is_in_sentence	sentence_23892
+23892_12	punct	23892_11
+23892_12	has_surface_form	,
+23892_13	is_in_sentence	sentence_23892
+23892_13	det	23892_15
+23892_13	has_surface_form	an
+23892_15	is_in_sentence	sentence_23892
+23892_15	appos	23892_11
+23892_15	has_surface_form	singer
+23892_14	is_in_sentence	sentence_23892
+23892_14	compound	23892_15
+23892_14	has_surface_form	opera
+23892_16	is_in_sentence	sentence_23892
+23892_16	punct	23892_0
+23892_16	has_surface_form	.
+23892_17	is_in_sentence	sentence_23892
+23892_17	dep	23892_17
+23892_17	has_surface_form	
+Akimori Hamauzu	surface_form	Akimori Hamauzu

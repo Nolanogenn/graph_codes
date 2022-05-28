@@ -1,0 +1,91 @@
+1419_0	is_in_sentence	sentence_1419
+1419_0	compound	1419_1
+1419_0	has_surface_form	Fall
+1419_0	part_of_entity	Fall Guy
+1419_1	is_in_sentence	sentence_1419
+1419_1	nsubj	1419_10
+1419_1	has_surface_form	Guy
+1419_1	part_of_entity	Fall Guy
+1419_10	is_in_sentence	sentence_1419
+1419_10	ROOT	1419_10
+1419_10	has_surface_form	is
+1419_2	is_in_sentence	sentence_1419
+1419_2	punct	1419_3
+1419_2	has_surface_form	(
+1419_3	is_in_sentence	sentence_1419
+1419_3	appos	1419_1
+1419_3	has_surface_form	蒲田行進曲
+1419_4	is_in_sentence	sentence_1419
+1419_4	punct	1419_3
+1419_4	has_surface_form	,
+1419_5	is_in_sentence	sentence_1419
+1419_5	compound	1419_8
+1419_5	has_surface_form	Kamata
+1419_8	is_in_sentence	sentence_1419
+1419_8	appos	1419_3
+1419_8	has_surface_form	kyoku
+1419_6	is_in_sentence	sentence_1419
+1419_6	compound	1419_8
+1419_6	has_surface_form	koshin
+1419_7	is_in_sentence	sentence_1419
+1419_7	punct	1419_8
+1419_7	has_surface_form	-
+1419_9	is_in_sentence	sentence_1419
+1419_9	punct	1419_3
+1419_9	has_surface_form	)
+1419_11	is_in_sentence	sentence_1419
+1419_11	det	1419_14
+1419_11	has_surface_form	a
+1419_14	is_in_sentence	sentence_1419
+1419_14	attr	1419_10
+1419_14	has_surface_form	film
+1419_12	is_in_sentence	sentence_1419
+1419_12	nummod	1419_14
+1419_12	has_surface_form	1982
+1419_13	is_in_sentence	sentence_1419
+1419_13	amod	1419_14
+1419_13	has_surface_form	Japanese
+1419_15	is_in_sentence	sentence_1419
+1419_15	acl	1419_14
+1419_15	has_surface_form	directed
+1419_16	is_in_sentence	sentence_1419
+1419_16	agent	1419_15
+1419_16	has_surface_form	by
+1419_17	is_in_sentence	sentence_1419
+1419_17	compound	1419_18
+1419_17	has_surface_form	Kinji
+1419_17	part_of_entity	Kinji Fukasaku
+1419_18	is_in_sentence	sentence_1419
+1419_18	pobj	1419_16
+1419_18	has_surface_form	Fukasaku
+1419_18	part_of_entity	Kinji Fukasaku
+1419_19	is_in_sentence	sentence_1419
+1419_19	punct	1419_14
+1419_19	has_surface_form	,
+1419_20	is_in_sentence	sentence_1419
+1419_20	prep	1419_10
+1419_20	has_surface_form	with
+1419_21	is_in_sentence	sentence_1419
+1419_21	compound	1419_22
+1419_21	has_surface_form	art
+1419_22	is_in_sentence	sentence_1419
+1419_22	pobj	1419_20
+1419_22	has_surface_form	direction
+1419_23	is_in_sentence	sentence_1419
+1419_23	prep	1419_22
+1419_23	has_surface_form	by
+1419_24	is_in_sentence	sentence_1419
+1419_24	compound	1419_25
+1419_24	has_surface_form	Akira
+1419_25	is_in_sentence	sentence_1419
+1419_25	pobj	1419_23
+1419_25	has_surface_form	Takahashi
+1419_26	is_in_sentence	sentence_1419
+1419_26	punct	1419_10
+1419_26	has_surface_form	.
+1419_27	is_in_sentence	sentence_1419
+1419_27	dep	1419_10
+1419_27	has_surface_form	
+Fall Guy	surface_form	Fall Guy
+Fall Guy	movie-has-director	Kinji Fukasaku
+Kinji Fukasaku	surface_form	Kinji Fukasaku

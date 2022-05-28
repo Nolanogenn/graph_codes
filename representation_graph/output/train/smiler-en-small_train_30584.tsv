@@ -1,0 +1,32 @@
+30583_0	is_in_sentence	sentence_30583
+30583_0	compound	30583_1
+30583_0	has_surface_form	Ruff
+30583_0	part_of_entity	Ruff Sqwad
+30583_1	is_in_sentence	sentence_30583
+30583_1	nsubj	30583_2
+30583_1	has_surface_form	Sqwad
+30583_1	part_of_entity	Ruff Sqwad
+30583_2	is_in_sentence	sentence_30583
+30583_2	ROOT	30583_2
+30583_2	has_surface_form	are
+30583_3	is_in_sentence	sentence_30583
+30583_3	det	30583_6
+30583_3	has_surface_form	an
+30583_6	is_in_sentence	sentence_30583
+30583_6	attr	30583_2
+30583_6	has_surface_form	crew
+30583_4	is_in_sentence	sentence_30583
+30583_4	amod	30583_6
+30583_4	has_surface_form	English
+30583_5	is_in_sentence	sentence_30583
+30583_5	compound	30583_6
+30583_5	is_entity	grime
+grime	surface_form	grime
+30583_7	is_in_sentence	sentence_30583
+30583_7	punct	30583_2
+30583_7	has_surface_form	.
+30583_8	is_in_sentence	sentence_30583
+30583_8	dep	30583_8
+30583_8	has_surface_form	
+Ruff Sqwad	surface_form	Ruff Sqwad
+Ruff Sqwad	has-genre	grime

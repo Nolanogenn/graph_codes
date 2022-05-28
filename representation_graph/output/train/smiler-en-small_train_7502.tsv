@@ -1,0 +1,55 @@
+7501_0	is_in_sentence	sentence_7501
+7501_0	compound	7501_1
+7501_0	has_surface_form	Jonathan
+7501_0	part_of_entity	Jonathan Rosenbaum
+7501_1	is_in_sentence	sentence_7501
+7501_1	nsubj	7501_9
+7501_1	has_surface_form	Rosenbaum
+7501_1	part_of_entity	Jonathan Rosenbaum
+7501_9	is_in_sentence	sentence_7501
+7501_9	ROOT	7501_9
+7501_9	has_surface_form	is
+7501_2	is_in_sentence	sentence_7501
+7501_2	punct	7501_1
+7501_2	has_surface_form	(
+7501_3	is_in_sentence	sentence_7501
+7501_3	acl	7501_1
+7501_3	has_surface_form	born
+7501_4	is_in_sentence	sentence_7501
+7501_4	npadvmod	7501_3
+7501_4	has_surface_form	February
+7501_5	is_in_sentence	sentence_7501
+7501_5	nummod	7501_4
+7501_5	has_surface_form	27
+7501_6	is_in_sentence	sentence_7501
+7501_6	punct	7501_4
+7501_6	has_surface_form	,
+7501_7	is_in_sentence	sentence_7501
+7501_7	nummod	7501_4
+7501_7	has_surface_form	1943
+7501_8	is_in_sentence	sentence_7501
+7501_8	punct	7501_1
+7501_8	has_surface_form	)
+7501_10	is_in_sentence	sentence_7501
+7501_10	det	7501_13
+7501_10	has_surface_form	an
+7501_13	is_in_sentence	sentence_7501
+7501_13	attr	7501_9
+7501_13	has_surface_form	critic
+7501_13	part_of_entity	film critic
+7501_11	is_in_sentence	sentence_7501
+7501_11	amod	7501_13
+7501_11	has_surface_form	American
+7501_12	is_in_sentence	sentence_7501
+7501_12	compound	7501_13
+7501_12	has_surface_form	film
+7501_12	part_of_entity	film critic
+7501_14	is_in_sentence	sentence_7501
+7501_14	punct	7501_9
+7501_14	has_surface_form	.
+7501_15	is_in_sentence	sentence_7501
+7501_15	dep	7501_15
+7501_15	has_surface_form	
+Jonathan Rosenbaum	surface_form	Jonathan Rosenbaum
+Jonathan Rosenbaum	has-occupation	film critic
+film critic	surface_form	film critic

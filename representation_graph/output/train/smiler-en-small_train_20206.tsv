@@ -1,0 +1,92 @@
+20205_0	is_in_sentence	sentence_20205
+20205_0	compound	20205_2
+20205_0	has_surface_form	Ade
+20205_0	part_of_entity	Ade Iwan Setiawan
+20205_2	is_in_sentence	sentence_20205
+20205_2	nsubj	20205_10
+20205_2	has_surface_form	Setiawan
+20205_2	part_of_entity	Ade Iwan Setiawan
+20205_1	is_in_sentence	sentence_20205
+20205_1	compound	20205_2
+20205_1	has_surface_form	Iwan
+20205_1	part_of_entity	Ade Iwan Setiawan
+20205_10	is_in_sentence	sentence_20205
+20205_10	ROOT	20205_10
+20205_10	has_surface_form	is
+20205_3	is_in_sentence	sentence_20205
+20205_3	punct	20205_2
+20205_3	has_surface_form	(
+20205_4	is_in_sentence	sentence_20205
+20205_4	acl	20205_2
+20205_4	has_surface_form	born
+20205_5	is_in_sentence	sentence_20205
+20205_5	npadvmod	20205_4
+20205_5	has_surface_form	March
+20205_6	is_in_sentence	sentence_20205
+20205_6	nummod	20205_5
+20205_6	has_surface_form	19
+20205_7	is_in_sentence	sentence_20205
+20205_7	punct	20205_5
+20205_7	has_surface_form	,
+20205_8	is_in_sentence	sentence_20205
+20205_8	nummod	20205_5
+20205_8	has_surface_form	1984
+20205_9	is_in_sentence	sentence_20205
+20205_9	punct	20205_2
+20205_9	has_surface_form	)
+20205_11	is_in_sentence	sentence_20205
+20205_11	det	20205_13
+20205_11	has_surface_form	an
+20205_13	is_in_sentence	sentence_20205
+20205_13	attr	20205_10
+20205_13	has_surface_form	footballer
+20205_12	is_in_sentence	sentence_20205
+20205_12	amod	20205_13
+20205_12	has_surface_form	Indonesian
+20205_14	is_in_sentence	sentence_20205
+20205_14	nsubj	20205_16
+20205_14	has_surface_form	who
+20205_16	is_in_sentence	sentence_20205
+20205_16	relcl	20205_13
+20205_16	has_surface_form	plays
+20205_15	is_in_sentence	sentence_20205
+20205_15	advmod	20205_16
+20205_15	has_surface_form	currently
+20205_17	is_in_sentence	sentence_20205
+20205_17	prep	20205_16
+20205_17	has_surface_form	for
+20205_18	is_in_sentence	sentence_20205
+20205_18	compound	20205_19
+20205_18	has_surface_form	Persebaya
+20205_18	part_of_entity	Persebaya Surabaya
+20205_19	is_in_sentence	sentence_20205
+20205_19	pobj	20205_17
+20205_19	has_surface_form	Surabaya
+20205_19	part_of_entity	Persebaya Surabaya
+20205_20	is_in_sentence	sentence_20205
+20205_20	prep	20205_19
+20205_20	has_surface_form	in
+20205_21	is_in_sentence	sentence_20205
+20205_21	det	20205_25
+20205_21	has_surface_form	the
+20205_25	is_in_sentence	sentence_20205
+20205_25	pobj	20205_20
+20205_25	has_surface_form	Division
+20205_22	is_in_sentence	sentence_20205
+20205_22	compound	20205_23
+20205_22	has_surface_form	Liga
+20205_23	is_in_sentence	sentence_20205
+20205_23	compound	20205_25
+20205_23	has_surface_form	Indonesia
+20205_24	is_in_sentence	sentence_20205
+20205_24	compound	20205_25
+20205_24	has_surface_form	Premier
+20205_26	is_in_sentence	sentence_20205
+20205_26	punct	20205_10
+20205_26	has_surface_form	.
+20205_27	is_in_sentence	sentence_20205
+20205_27	dep	20205_10
+20205_27	has_surface_form	
+Ade Iwan Setiawan	surface_form	Ade Iwan Setiawan
+Ade Iwan Setiawan	is-member-of	Persebaya Surabaya
+Persebaya Surabaya	surface_form	Persebaya Surabaya

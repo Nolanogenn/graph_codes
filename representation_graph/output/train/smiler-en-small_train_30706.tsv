@@ -1,0 +1,79 @@
+30705_0	is_in_sentence	sentence_30705
+30705_0	det	30705_2
+30705_0	has_surface_form	The
+30705_2	is_in_sentence	sentence_30705
+30705_2	nsubj	30705_7
+30705_2	has_surface_form	mountains
+30705_1	is_in_sentence	sentence_30705
+30705_1	amod	30705_2
+30705_1	has_surface_form	highest
+30705_7	is_in_sentence	sentence_30705
+30705_7	ROOT	30705_7
+30705_7	has_surface_form	are
+30705_3	is_in_sentence	sentence_30705
+30705_3	prep	30705_2
+30705_3	has_surface_form	of
+30705_4	is_in_sentence	sentence_30705
+30705_4	det	30705_6
+30705_4	has_surface_form	the
+30705_6	is_in_sentence	sentence_30705
+30705_6	pobj	30705_3
+30705_6	has_surface_form	Forest
+30705_6	part_of_entity	Bavarian Forest
+30705_5	is_in_sentence	sentence_30705
+30705_5	compound	30705_6
+30705_5	has_surface_form	Bavarian
+30705_5	part_of_entity	Bavarian Forest
+30705_8	is_in_sentence	sentence_30705
+30705_8	det	30705_10
+30705_8	has_surface_form	the
+30705_10	is_in_sentence	sentence_30705
+30705_10	attr	30705_7
+30705_10	has_surface_form	Arber
+30705_10	part_of_entity	Great Arber
+30705_9	is_in_sentence	sentence_30705
+30705_9	compound	30705_10
+30705_9	has_surface_form	Great
+30705_9	part_of_entity	Great Arber
+30705_11	is_in_sentence	sentence_30705
+30705_11	prep	30705_7
+30705_11	has_surface_form	at
+30705_12	is_in_sentence	sentence_30705
+30705_12	nummod	30705_13
+30705_12	has_surface_form	1,456
+30705_13	is_in_sentence	sentence_30705
+30705_13	pobj	30705_11
+30705_13	has_surface_form	m
+30705_14	is_in_sentence	sentence_30705
+30705_14	cc	30705_13
+30705_14	has_surface_form	and
+30705_15	is_in_sentence	sentence_30705
+30705_15	det	30705_17
+30705_15	has_surface_form	the
+30705_17	is_in_sentence	sentence_30705
+30705_17	conj	30705_13
+30705_17	has_surface_form	Rachel
+30705_16	is_in_sentence	sentence_30705
+30705_16	compound	30705_17
+30705_16	has_surface_form	Great
+30705_18	is_in_sentence	sentence_30705
+30705_18	punct	30705_17
+30705_18	has_surface_form	(
+30705_19	is_in_sentence	sentence_30705
+30705_19	nummod	30705_20
+30705_19	has_surface_form	1,453
+30705_20	is_in_sentence	sentence_30705
+30705_20	appos	30705_17
+30705_20	has_surface_form	m
+30705_21	is_in_sentence	sentence_30705
+30705_21	punct	30705_17
+30705_21	has_surface_form	)
+30705_22	is_in_sentence	sentence_30705
+30705_22	punct	30705_7
+30705_22	has_surface_form	.
+30705_23	is_in_sentence	sentence_30705
+30705_23	dep	30705_23
+30705_23	has_surface_form	
+Bavarian Forest	surface_form	Bavarian Forest
+Bavarian Forest	has-highest-mountain	Great Arber
+Great Arber	surface_form	Great Arber

@@ -1,0 +1,70 @@
+5050_0	is_in_sentence	sentence_5050
+5050_0	compound	5050_1
+5050_0	has_surface_form	Leone
+5050_0	part_of_entity	Leone Ginzburg
+5050_1	is_in_sentence	sentence_5050
+5050_1	nsubj	5050_2
+5050_1	has_surface_form	Ginzburg
+5050_1	part_of_entity	Leone Ginzburg
+5050_2	is_in_sentence	sentence_5050
+5050_2	ROOT	5050_2
+5050_2	has_surface_form	was
+5050_3	is_in_sentence	sentence_5050
+5050_3	det	5050_4
+5050_3	has_surface_form	the
+5050_4	is_in_sentence	sentence_5050
+5050_4	attr	5050_2
+5050_4	has_surface_form	husband
+5050_5	is_in_sentence	sentence_5050
+5050_5	prep	5050_4
+5050_5	has_surface_form	of
+5050_6	is_in_sentence	sentence_5050
+5050_6	det	5050_8
+5050_6	has_surface_form	the
+5050_8	is_in_sentence	sentence_5050
+5050_8	pobj	5050_5
+5050_8	has_surface_form	author
+5050_7	is_in_sentence	sentence_5050
+5050_7	amod	5050_8
+5050_7	has_surface_form	renowned
+5050_9	is_in_sentence	sentence_5050
+5050_9	compound	5050_10
+5050_9	has_surface_form	Natalia
+5050_10	is_in_sentence	sentence_5050
+5050_10	appos	5050_8
+5050_10	has_surface_form	Ginzburg
+5050_11	is_in_sentence	sentence_5050
+5050_11	cc	5050_10
+5050_11	has_surface_form	and
+5050_12	is_in_sentence	sentence_5050
+5050_12	det	5050_13
+5050_12	has_surface_form	the
+5050_13	is_in_sentence	sentence_5050
+5050_13	conj	5050_10
+5050_13	has_surface_form	father
+5050_14	is_in_sentence	sentence_5050
+5050_14	prep	5050_13
+5050_14	has_surface_form	of
+5050_15	is_in_sentence	sentence_5050
+5050_15	det	5050_16
+5050_15	has_surface_form	the
+5050_16	is_in_sentence	sentence_5050
+5050_16	pobj	5050_14
+5050_16	has_surface_form	historian
+5050_17	is_in_sentence	sentence_5050
+5050_17	compound	5050_18
+5050_17	has_surface_form	Carlo
+5050_17	part_of_entity	Carlo Ginzburg
+5050_18	is_in_sentence	sentence_5050
+5050_18	appos	5050_16
+5050_18	has_surface_form	Ginzburg
+5050_18	part_of_entity	Carlo Ginzburg
+5050_19	is_in_sentence	sentence_5050
+5050_19	punct	5050_2
+5050_19	has_surface_form	.
+5050_20	is_in_sentence	sentence_5050
+5050_20	dep	5050_2
+5050_20	has_surface_form	
+Leone Ginzburg	surface_form	Leone Ginzburg
+Leone Ginzburg	has-child	Carlo Ginzburg
+Carlo Ginzburg	surface_form	Carlo Ginzburg

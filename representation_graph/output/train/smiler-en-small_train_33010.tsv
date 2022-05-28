@@ -1,0 +1,68 @@
+33009_0	is_in_sentence	sentence_33009
+33009_0	compound	33009_1
+33009_0	has_surface_form	Speed
+33009_0	part_of_entity	Speed Walking
+33009_1	is_in_sentence	sentence_33009
+33009_1	nsubj	33009_7
+33009_1	has_surface_form	Walking
+33009_1	part_of_entity	Speed Walking
+33009_7	is_in_sentence	sentence_33009
+33009_7	ROOT	33009_7
+33009_7	has_surface_form	is
+33009_2	is_in_sentence	sentence_33009
+33009_2	punct	33009_1
+33009_2	has_surface_form	(
+33009_3	is_in_sentence	sentence_33009
+33009_3	appos	33009_1
+33009_3	has_surface_form	Danish
+33009_4	is_in_sentence	sentence_33009
+33009_4	punct	33009_3
+33009_4	has_surface_form	:
+33009_5	is_in_sentence	sentence_33009
+33009_5	appos	33009_3
+33009_5	has_surface_form	Kapgang
+33009_6	is_in_sentence	sentence_33009
+33009_6	punct	33009_3
+33009_6	has_surface_form	)
+33009_8	is_in_sentence	sentence_33009
+33009_8	det	33009_12
+33009_8	has_surface_form	a
+33009_12	is_in_sentence	sentence_33009
+33009_12	attr	33009_7
+33009_12	has_surface_form	film
+33009_9	is_in_sentence	sentence_33009
+33009_9	nummod	33009_12
+33009_9	has_surface_form	2014
+33009_10	is_in_sentence	sentence_33009
+33009_10	amod	33009_12
+33009_10	has_surface_form	Danish
+33009_11	is_in_sentence	sentence_33009
+33009_11	compound	33009_12
+33009_11	has_surface_form	drama
+33009_13	is_in_sentence	sentence_33009
+33009_13	acl	33009_12
+33009_13	has_surface_form	directed
+33009_14	is_in_sentence	sentence_33009
+33009_14	agent	33009_13
+33009_14	has_surface_form	by
+33009_15	is_in_sentence	sentence_33009
+33009_15	compound	33009_17
+33009_15	has_surface_form	Niels
+33009_15	part_of_entity	Niels Arden Oplev
+33009_17	is_in_sentence	sentence_33009
+33009_17	pobj	33009_14
+33009_17	has_surface_form	Oplev
+33009_17	part_of_entity	Niels Arden Oplev
+33009_16	is_in_sentence	sentence_33009
+33009_16	compound	33009_17
+33009_16	has_surface_form	Arden
+33009_16	part_of_entity	Niels Arden Oplev
+33009_18	is_in_sentence	sentence_33009
+33009_18	punct	33009_7
+33009_18	has_surface_form	.
+33009_19	is_in_sentence	sentence_33009
+33009_19	dep	33009_7
+33009_19	has_surface_form	
+Speed Walking	surface_form	Speed Walking
+Speed Walking	movie-has-director	Niels Arden Oplev
+Niels Arden Oplev	surface_form	Niels Arden Oplev

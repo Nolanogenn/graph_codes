@@ -1,0 +1,60 @@
+8859_0	is_in_sentence	sentence_8859
+8859_0	compound	8859_2
+8859_0	has_surface_form	Adzi
+8859_0	part_of_entity	Adzi Tepe Airport
+8859_2	is_in_sentence	sentence_8859
+8859_2	nsubj	8859_8
+8859_2	has_surface_form	Airport
+8859_2	part_of_entity	Adzi Tepe Airport
+8859_1	is_in_sentence	sentence_8859
+8859_1	compound	8859_2
+8859_1	has_surface_form	Tepe
+8859_1	part_of_entity	Adzi Tepe Airport
+8859_8	is_in_sentence	sentence_8859
+8859_8	ROOT	8859_8
+8859_8	has_surface_form	is
+8859_3	is_in_sentence	sentence_8859
+8859_3	punct	8859_2
+8859_3	has_surface_form	(
+8859_4	is_in_sentence	sentence_8859
+8859_4	compound	8859_6
+8859_4	has_surface_form	Аџи
+8859_6	is_in_sentence	sentence_8859
+8859_6	appos	8859_2
+8859_6	has_surface_form	Аеродром
+8859_5	is_in_sentence	sentence_8859
+8859_5	compound	8859_6
+8859_5	has_surface_form	Тепе
+8859_7	is_in_sentence	sentence_8859
+8859_7	punct	8859_2
+8859_7	has_surface_form	)
+8859_9	is_in_sentence	sentence_8859
+8859_9	det	8859_10
+8859_9	has_surface_form	an
+8859_10	is_in_sentence	sentence_8859
+8859_10	attr	8859_8
+8859_10	has_surface_form	airport
+8859_11	is_in_sentence	sentence_8859
+8859_11	prep	8859_10
+8859_11	has_surface_form	in
+8859_12	is_in_sentence	sentence_8859
+8859_12	pobj	8859_11
+8859_12	is_entity	Kumanovo
+Kumanovo	surface_form	Kumanovo
+8859_13	is_in_sentence	sentence_8859
+8859_13	punct	8859_12
+8859_13	has_surface_form	,
+8859_14	is_in_sentence	sentence_8859
+8859_14	compound	8859_15
+8859_14	has_surface_form	North
+8859_15	is_in_sentence	sentence_8859
+8859_15	appos	8859_12
+8859_15	has_surface_form	Macedonia
+8859_16	is_in_sentence	sentence_8859
+8859_16	punct	8859_8
+8859_16	has_surface_form	.
+8859_17	is_in_sentence	sentence_8859
+8859_17	dep	8859_17
+8859_17	has_surface_form	
+Adzi Tepe Airport	surface_form	Adzi Tepe Airport
+Adzi Tepe Airport	is-where	Kumanovo

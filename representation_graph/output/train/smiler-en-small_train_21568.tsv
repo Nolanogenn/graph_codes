@@ -1,0 +1,66 @@
+21567_0	is_in_sentence	sentence_21567
+21567_0	compound	21567_2
+21567_0	has_surface_form	Raymond
+21567_0	part_of_entity	Raymond Leo Burke
+21567_2	is_in_sentence	sentence_21567
+21567_2	nsubj	21567_10
+21567_2	has_surface_form	Burke
+21567_2	part_of_entity	Raymond Leo Burke
+21567_1	is_in_sentence	sentence_21567
+21567_1	compound	21567_2
+21567_1	has_surface_form	Leo
+21567_1	part_of_entity	Raymond Leo Burke
+21567_10	is_in_sentence	sentence_21567
+21567_10	ROOT	21567_10
+21567_10	has_surface_form	is
+21567_3	is_in_sentence	sentence_21567
+21567_3	punct	21567_2
+21567_3	has_surface_form	(
+21567_4	is_in_sentence	sentence_21567
+21567_4	acl	21567_2
+21567_4	has_surface_form	born
+21567_5	is_in_sentence	sentence_21567
+21567_5	npadvmod	21567_4
+21567_5	has_surface_form	June
+21567_6	is_in_sentence	sentence_21567
+21567_6	nummod	21567_5
+21567_6	has_surface_form	30
+21567_7	is_in_sentence	sentence_21567
+21567_7	punct	21567_5
+21567_7	has_surface_form	,
+21567_8	is_in_sentence	sentence_21567
+21567_8	nummod	21567_5
+21567_8	has_surface_form	1948
+21567_9	is_in_sentence	sentence_21567
+21567_9	punct	21567_2
+21567_9	has_surface_form	)
+21567_11	is_in_sentence	sentence_21567
+21567_11	det	21567_13
+21567_11	has_surface_form	an
+21567_13	is_in_sentence	sentence_21567
+21567_13	attr	21567_10
+21567_13	is_entity	cardinal
+21567_12	is_in_sentence	sentence_21567
+21567_12	amod	21567_13
+21567_12	has_surface_form	American
+cardinal	surface_form	cardinal
+21567_14	is_in_sentence	sentence_21567
+21567_14	prep	21567_13
+21567_14	has_surface_form	of
+21567_15	is_in_sentence	sentence_21567
+21567_15	det	21567_17
+21567_15	has_surface_form	the
+21567_17	is_in_sentence	sentence_21567
+21567_17	pobj	21567_14
+21567_17	has_surface_form	Church
+21567_16	is_in_sentence	sentence_21567
+21567_16	compound	21567_17
+21567_16	has_surface_form	Catholic
+21567_18	is_in_sentence	sentence_21567
+21567_18	punct	21567_10
+21567_18	has_surface_form	.
+21567_19	is_in_sentence	sentence_21567
+21567_19	dep	21567_10
+21567_19	has_surface_form	
+Raymond Leo Burke	surface_form	Raymond Leo Burke
+Raymond Leo Burke	has-type	cardinal

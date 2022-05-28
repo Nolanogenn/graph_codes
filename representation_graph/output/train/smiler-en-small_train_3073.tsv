@@ -1,0 +1,80 @@
+3072_0	is_in_sentence	sentence_3072
+3072_0	compound	3072_1
+3072_0	has_surface_form	Balázs
+3072_0	part_of_entity	Balázs Schrancz
+3072_1	is_in_sentence	sentence_3072
+3072_1	nsubj	3072_10
+3072_1	has_surface_form	Schrancz
+3072_1	part_of_entity	Balázs Schrancz
+3072_10	is_in_sentence	sentence_3072
+3072_10	ROOT	3072_10
+3072_10	has_surface_form	is
+3072_2	is_in_sentence	sentence_3072
+3072_2	punct	3072_3
+3072_2	has_surface_form	(
+3072_3	is_in_sentence	sentence_3072
+3072_3	parataxis	3072_1
+3072_3	has_surface_form	born
+3072_4	is_in_sentence	sentence_3072
+3072_4	npadvmod	3072_3
+3072_4	has_surface_form	7
+3072_5	is_in_sentence	sentence_3072
+3072_5	npadvmod	3072_3
+3072_5	has_surface_form	August
+3072_6	is_in_sentence	sentence_3072
+3072_6	nummod	3072_5
+3072_6	has_surface_form	1977
+3072_7	is_in_sentence	sentence_3072
+3072_7	prep	3072_3
+3072_7	has_surface_form	in
+3072_8	is_in_sentence	sentence_3072
+3072_8	pobj	3072_7
+3072_8	has_surface_form	Budapest
+3072_9	is_in_sentence	sentence_3072
+3072_9	punct	3072_1
+3072_9	has_surface_form	)
+3072_11	is_in_sentence	sentence_3072
+3072_11	det	3072_14
+3072_11	has_surface_form	a
+3072_14	is_in_sentence	sentence_3072
+3072_14	attr	3072_10
+3072_14	has_surface_form	player
+3072_12	is_in_sentence	sentence_3072
+3072_12	amod	3072_14
+3072_12	has_surface_form	Hungarian
+3072_13	is_in_sentence	sentence_3072
+3072_13	compound	3072_14
+3072_13	has_surface_form	football
+3072_15	is_in_sentence	sentence_3072
+3072_15	nsubj	3072_17
+3072_15	has_surface_form	who
+3072_17	is_in_sentence	sentence_3072
+3072_17	relcl	3072_14
+3072_17	has_surface_form	plays
+3072_16	is_in_sentence	sentence_3072
+3072_16	advmod	3072_17
+3072_16	has_surface_form	currently
+3072_18	is_in_sentence	sentence_3072
+3072_18	prep	3072_17
+3072_18	has_surface_form	for
+3072_19	is_in_sentence	sentence_3072
+3072_19	compound	3072_20
+3072_19	has_surface_form	Pécsi
+3072_19	part_of_entity	Pécsi Mecsek FC
+3072_20	is_in_sentence	sentence_3072
+3072_20	compound	3072_21
+3072_20	has_surface_form	Mecsek
+3072_20	part_of_entity	Pécsi Mecsek FC
+3072_21	is_in_sentence	sentence_3072
+3072_21	pobj	3072_18
+3072_21	has_surface_form	FC
+3072_21	part_of_entity	Pécsi Mecsek FC
+3072_22	is_in_sentence	sentence_3072
+3072_22	punct	3072_10
+3072_22	has_surface_form	.
+3072_23	is_in_sentence	sentence_3072
+3072_23	dep	3072_10
+3072_23	has_surface_form	
+Balázs Schrancz	surface_form	Balázs Schrancz
+Balázs Schrancz	is-member-of	Pécsi Mecsek FC
+Pécsi Mecsek FC	surface_form	Pécsi Mecsek FC

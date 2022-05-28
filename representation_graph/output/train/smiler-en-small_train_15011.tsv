@@ -1,0 +1,55 @@
+15010_0	is_in_sentence	sentence_15010
+15010_0	compound	15010_1
+15010_0	has_surface_form	Parakou
+15010_0	part_of_entity	Parakou Shipping
+15010_1	is_in_sentence	sentence_15010
+15010_1	nmod	15010_4
+15010_1	has_surface_form	Shipping
+15010_1	part_of_entity	Parakou Shipping
+15010_4	is_in_sentence	sentence_15010
+15010_4	nsubj	15010_5
+15010_4	has_surface_form	Group
+15010_2	is_in_sentence	sentence_15010
+15010_2	cc	15010_1
+15010_2	has_surface_form	or
+15010_3	is_in_sentence	sentence_15010
+15010_3	compound	15010_4
+15010_3	has_surface_form	Parakou
+15010_5	is_in_sentence	sentence_15010
+15010_5	ROOT	15010_5
+15010_5	has_surface_form	is
+15010_6	is_in_sentence	sentence_15010
+15010_6	det	15010_10
+15010_6	has_surface_form	a
+15010_10	is_in_sentence	sentence_15010
+15010_10	attr	15010_5
+15010_10	has_surface_form	firm
+15010_10	part_of_entity	shipping firm
+15010_7	is_in_sentence	sentence_15010
+15010_7	compound	15010_8
+15010_7	has_surface_form	Hong
+15010_8	is_in_sentence	sentence_15010
+15010_8	compound	15010_10
+15010_8	has_surface_form	Kong
+15010_9	is_in_sentence	sentence_15010
+15010_9	compound	15010_10
+15010_9	has_surface_form	shipping
+15010_9	part_of_entity	shipping firm
+15010_11	is_in_sentence	sentence_15010
+15010_11	acl	15010_10
+15010_11	has_surface_form	founded
+15010_12	is_in_sentence	sentence_15010
+15010_12	prep	15010_11
+15010_12	has_surface_form	in
+15010_13	is_in_sentence	sentence_15010
+15010_13	pobj	15010_12
+15010_13	has_surface_form	1985
+15010_14	is_in_sentence	sentence_15010
+15010_14	punct	15010_5
+15010_14	has_surface_form	.
+15010_15	is_in_sentence	sentence_15010
+15010_15	dep	15010_15
+15010_15	has_surface_form	
+Parakou Shipping	surface_form	Parakou Shipping
+Parakou Shipping	has-type	shipping firm
+shipping firm	surface_form	shipping firm

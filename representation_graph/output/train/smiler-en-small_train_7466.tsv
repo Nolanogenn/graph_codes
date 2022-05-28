@@ -1,0 +1,63 @@
+7465_0	is_in_sentence	sentence_7465
+7465_0	compound	7465_1
+7465_0	has_surface_form	Southern
+7465_0	part_of_entity	Southern Virginia University
+7465_1	is_in_sentence	sentence_7465
+7465_1	compound	7465_2
+7465_1	has_surface_form	Virginia
+7465_1	part_of_entity	Southern Virginia University
+7465_2	is_in_sentence	sentence_7465
+7465_2	nsubj	7465_6
+7465_2	has_surface_form	University
+7465_2	part_of_entity	Southern Virginia University
+7465_6	is_in_sentence	sentence_7465
+7465_6	ROOT	7465_6
+7465_6	has_surface_form	is
+7465_3	is_in_sentence	sentence_7465
+7465_3	punct	7465_4
+7465_3	has_surface_form	(
+7465_4	is_in_sentence	sentence_7465
+7465_4	appos	7465_2
+7465_4	has_surface_form	SVU
+7465_5	is_in_sentence	sentence_7465
+7465_5	punct	7465_2
+7465_5	has_surface_form	)
+7465_7	is_in_sentence	sentence_7465
+7465_7	det	7465_11
+7465_7	has_surface_form	a
+7465_11	is_in_sentence	sentence_7465
+7465_11	attr	7465_6
+7465_11	has_surface_form	college
+7465_8	is_in_sentence	sentence_7465
+7465_8	amod	7465_11
+7465_8	has_surface_form	private
+7465_9	is_in_sentence	sentence_7465
+7465_9	amod	7465_10
+7465_9	has_surface_form	liberal
+7465_10	is_in_sentence	sentence_7465
+7465_10	compound	7465_11
+7465_10	has_surface_form	arts
+7465_12	is_in_sentence	sentence_7465
+7465_12	prep	7465_11
+7465_12	has_surface_form	in
+7465_13	is_in_sentence	sentence_7465
+7465_13	compound	7465_14
+7465_13	has_surface_form	Buena
+7465_14	is_in_sentence	sentence_7465
+7465_14	pobj	7465_12
+7465_14	has_surface_form	Vista
+7465_15	is_in_sentence	sentence_7465
+7465_15	punct	7465_14
+7465_15	has_surface_form	,
+7465_16	is_in_sentence	sentence_7465
+7465_16	appos	7465_14
+7465_16	has_surface_form	Virginia
+7465_17	is_in_sentence	sentence_7465
+7465_17	punct	7465_6
+7465_17	has_surface_form	.
+7465_18	is_in_sentence	sentence_7465
+7465_18	dep	7465_6
+7465_18	has_surface_form	
+Southern Virginia University	surface_form	Southern Virginia University
+Southern Virginia University	is-where	Buena Vista, Virginia
+Buena Vista, Virginia	surface_form	Buena Vista, Virginia

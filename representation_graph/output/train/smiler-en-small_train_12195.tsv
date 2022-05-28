@@ -1,0 +1,71 @@
+12194_0	is_in_sentence	sentence_12194
+12194_0	compound	12194_1
+12194_0	has_surface_form	California
+12194_0	part_of_entity	California School of Podiatric Medicine
+12194_1	is_in_sentence	sentence_12194
+12194_1	nsubj	12194_9
+12194_1	has_surface_form	School
+12194_1	part_of_entity	California School of Podiatric Medicine
+12194_9	is_in_sentence	sentence_12194
+12194_9	ROOT	12194_9
+12194_9	has_surface_form	is
+12194_2	is_in_sentence	sentence_12194
+12194_2	prep	12194_1
+12194_2	has_surface_form	of
+12194_2	part_of_entity	California School of Podiatric Medicine
+12194_3	is_in_sentence	sentence_12194
+12194_3	compound	12194_4
+12194_3	has_surface_form	Podiatric
+12194_3	part_of_entity	California School of Podiatric Medicine
+12194_4	is_in_sentence	sentence_12194
+12194_4	pobj	12194_2
+12194_4	has_surface_form	Medicine
+12194_4	part_of_entity	California School of Podiatric Medicine
+12194_5	is_in_sentence	sentence_12194
+12194_5	prep	12194_1
+12194_5	has_surface_form	at
+12194_6	is_in_sentence	sentence_12194
+12194_6	compound	12194_8
+12194_6	has_surface_form	Samuel
+12194_8	is_in_sentence	sentence_12194
+12194_8	pobj	12194_5
+12194_8	has_surface_form	University
+12194_7	is_in_sentence	sentence_12194
+12194_7	compound	12194_8
+12194_7	has_surface_form	Merritt
+12194_10	is_in_sentence	sentence_12194
+12194_10	det	12194_13
+12194_10	has_surface_form	a
+12194_13	is_in_sentence	sentence_12194
+12194_13	attr	12194_9
+12194_13	has_surface_form	school
+12194_11	is_in_sentence	sentence_12194
+12194_11	amod	12194_13
+12194_11	has_surface_form	podiatric
+12194_12	is_in_sentence	sentence_12194
+12194_12	amod	12194_13
+12194_12	has_surface_form	medical
+12194_14	is_in_sentence	sentence_12194
+12194_14	acl	12194_13
+12194_14	has_surface_form	based
+12194_15	is_in_sentence	sentence_12194
+12194_15	prep	12194_14
+12194_15	has_surface_form	in
+12194_16	is_in_sentence	sentence_12194
+12194_16	pobj	12194_15
+12194_16	has_surface_form	Oakland
+12194_17	is_in_sentence	sentence_12194
+12194_17	punct	12194_16
+12194_17	has_surface_form	,
+12194_18	is_in_sentence	sentence_12194
+12194_18	appos	12194_16
+12194_18	has_surface_form	California
+12194_19	is_in_sentence	sentence_12194
+12194_19	punct	12194_9
+12194_19	has_surface_form	.
+12194_20	is_in_sentence	sentence_12194
+12194_20	dep	12194_20
+12194_20	has_surface_form	
+California School of Podiatric Medicine	surface_form	California School of Podiatric Medicine
+California School of Podiatric Medicine	is-where	Oakland, California
+Oakland, California	surface_form	Oakland, California

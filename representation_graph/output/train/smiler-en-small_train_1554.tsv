@@ -1,0 +1,99 @@
+1553_0	is_in_sentence	sentence_1553
+1553_0	compound	1553_1
+1553_0	has_surface_form	Andrei
+1553_0	part_of_entity	Andrei Aleksandrovich Ovchinnikov
+1553_1	is_in_sentence	sentence_1553
+1553_1	compound	1553_2
+1553_1	has_surface_form	Aleksandrovich
+1553_1	part_of_entity	Andrei Aleksandrovich Ovchinnikov
+1553_2	is_in_sentence	sentence_1553
+1553_2	nsubj	1553_15
+1553_2	has_surface_form	Ovchinnikov
+1553_2	part_of_entity	Andrei Aleksandrovich Ovchinnikov
+1553_15	is_in_sentence	sentence_1553
+1553_15	ROOT	1553_15
+1553_15	has_surface_form	is
+1553_3	is_in_sentence	sentence_1553
+1553_3	punct	1553_2
+1553_3	has_surface_form	(
+1553_4	is_in_sentence	sentence_1553
+1553_4	appos	1553_2
+1553_4	has_surface_form	Russian
+1553_5	is_in_sentence	sentence_1553
+1553_5	punct	1553_2
+1553_5	has_surface_form	:
+1553_6	is_in_sentence	sentence_1553
+1553_6	compound	1553_8
+1553_6	has_surface_form	Андрей
+1553_8	is_in_sentence	sentence_1553
+1553_8	appos	1553_2
+1553_8	has_surface_form	Овчинников
+1553_7	is_in_sentence	sentence_1553
+1553_7	compound	1553_8
+1553_7	has_surface_form	Александрович
+1553_9	is_in_sentence	sentence_1553
+1553_9	punct	1553_8
+1553_9	has_surface_form	;
+1553_10	is_in_sentence	sentence_1553
+1553_10	acl	1553_2
+1553_10	has_surface_form	born
+1553_11	is_in_sentence	sentence_1553
+1553_11	npadvmod	1553_10
+1553_11	has_surface_form	17
+1553_12	is_in_sentence	sentence_1553
+1553_12	npadvmod	1553_10
+1553_12	has_surface_form	November
+1553_13	is_in_sentence	sentence_1553
+1553_13	nummod	1553_12
+1553_13	has_surface_form	1986
+1553_14	is_in_sentence	sentence_1553
+1553_14	punct	1553_2
+1553_14	has_surface_form	)
+1553_16	is_in_sentence	sentence_1553
+1553_16	det	1553_20
+1553_16	has_surface_form	a
+1553_20	is_in_sentence	sentence_1553
+1553_20	attr	1553_15
+1553_20	has_surface_form	player
+1553_17	is_in_sentence	sentence_1553
+1553_17	amod	1553_20
+1553_17	has_surface_form	Russian
+1553_18	is_in_sentence	sentence_1553
+1553_18	amod	1553_20
+1553_18	has_surface_form	professional
+1553_19	is_in_sentence	sentence_1553
+1553_19	compound	1553_20
+1553_19	has_surface_form	football
+1553_21	is_in_sentence	sentence_1553
+1553_21	punct	1553_15
+1553_21	has_surface_form	.
+1553_22	is_in_sentence	sentence_1553
+1553_22	nsubj	1553_23
+1553_22	has_surface_form	He
+1553_23	is_in_sentence	sentence_1553
+1553_23	ROOT	1553_23
+1553_23	has_surface_form	plays
+1553_24	is_in_sentence	sentence_1553
+1553_24	prep	1553_23
+1553_24	has_surface_form	for
+1553_25	is_in_sentence	sentence_1553
+1553_25	compound	1553_27
+1553_25	has_surface_form	FC
+1553_25	part_of_entity	FC Metallurg Lipetsk
+1553_27	is_in_sentence	sentence_1553
+1553_27	pobj	1553_24
+1553_27	has_surface_form	Lipetsk
+1553_27	part_of_entity	FC Metallurg Lipetsk
+1553_26	is_in_sentence	sentence_1553
+1553_26	compound	1553_27
+1553_26	has_surface_form	Metallurg
+1553_26	part_of_entity	FC Metallurg Lipetsk
+1553_28	is_in_sentence	sentence_1553
+1553_28	punct	1553_23
+1553_28	has_surface_form	.
+1553_29	is_in_sentence	sentence_1553
+1553_29	dep	1553_29
+1553_29	has_surface_form	
+Andrei Aleksandrovich Ovchinnikov	surface_form	Andrei Aleksandrovich Ovchinnikov
+Andrei Aleksandrovich Ovchinnikov	is-member-of	FC Metallurg Lipetsk
+FC Metallurg Lipetsk	surface_form	FC Metallurg Lipetsk

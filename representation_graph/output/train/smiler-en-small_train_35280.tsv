@@ -1,0 +1,62 @@
+35279_0	is_in_sentence	sentence_35279
+35279_0	compound	35279_1
+35279_0	has_surface_form	Dave
+35279_0	part_of_entity	Dave Kragthorpe
+35279_1	is_in_sentence	sentence_35279
+35279_1	nsubj	35279_9
+35279_1	has_surface_form	Kragthorpe
+35279_1	part_of_entity	Dave Kragthorpe
+35279_9	is_in_sentence	sentence_35279
+35279_9	ROOT	35279_9
+35279_9	has_surface_form	is
+35279_2	is_in_sentence	sentence_35279
+35279_2	punct	35279_1
+35279_2	has_surface_form	(
+35279_3	is_in_sentence	sentence_35279
+35279_3	acl	35279_1
+35279_3	has_surface_form	born
+35279_4	is_in_sentence	sentence_35279
+35279_4	npadvmod	35279_3
+35279_4	has_surface_form	May
+35279_5	is_in_sentence	sentence_35279
+35279_5	nummod	35279_4
+35279_5	has_surface_form	1
+35279_6	is_in_sentence	sentence_35279
+35279_6	punct	35279_4
+35279_6	has_surface_form	,
+35279_7	is_in_sentence	sentence_35279
+35279_7	nummod	35279_4
+35279_7	has_surface_form	1933
+35279_8	is_in_sentence	sentence_35279
+35279_8	punct	35279_1
+35279_8	has_surface_form	)
+35279_10	is_in_sentence	sentence_35279
+35279_10	det	35279_14
+35279_10	has_surface_form	a
+35279_14	is_in_sentence	sentence_35279
+35279_14	attr	35279_9
+35279_14	has_surface_form	player
+35279_11	is_in_sentence	sentence_35279
+35279_11	amod	35279_14
+35279_11	has_surface_form	former
+35279_12	is_in_sentence	sentence_35279
+35279_12	amod	35279_14
+35279_12	has_surface_form	American
+35279_13	is_in_sentence	sentence_35279
+35279_13	compound	35279_14
+35279_13	has_surface_form	football
+35279_15	is_in_sentence	sentence_35279
+35279_15	cc	35279_14
+35279_15	has_surface_form	and
+35279_16	is_in_sentence	sentence_35279
+35279_16	conj	35279_14
+35279_16	is_entity	coach
+coach	surface_form	coach
+35279_17	is_in_sentence	sentence_35279
+35279_17	punct	35279_9
+35279_17	has_surface_form	.
+35279_18	is_in_sentence	sentence_35279
+35279_18	dep	35279_18
+35279_18	has_surface_form	
+Dave Kragthorpe	surface_form	Dave Kragthorpe
+Dave Kragthorpe	has-type	coach

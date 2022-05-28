@@ -1,0 +1,64 @@
+12048_0	is_in_sentence	sentence_12048
+12048_0	compound	12048_1
+12048_0	has_surface_form	State
+12048_0	part_of_entity	State University of Bangladesh
+12048_1	is_in_sentence	sentence_12048
+12048_1	nsubj	12048_7
+12048_1	has_surface_form	University
+12048_1	part_of_entity	State University of Bangladesh
+12048_7	is_in_sentence	sentence_12048
+12048_7	ROOT	12048_7
+12048_7	has_surface_form	is
+12048_2	is_in_sentence	sentence_12048
+12048_2	prep	12048_1
+12048_2	has_surface_form	of
+12048_2	part_of_entity	State University of Bangladesh
+12048_3	is_in_sentence	sentence_12048
+12048_3	pobj	12048_2
+12048_3	has_surface_form	Bangladesh
+12048_3	part_of_entity	State University of Bangladesh
+12048_4	is_in_sentence	sentence_12048
+12048_4	punct	12048_1
+12048_4	has_surface_form	(
+12048_5	is_in_sentence	sentence_12048
+12048_5	appos	12048_1
+12048_5	has_surface_form	SUB
+12048_6	is_in_sentence	sentence_12048
+12048_6	punct	12048_1
+12048_6	has_surface_form	)
+12048_8	is_in_sentence	sentence_12048
+12048_8	det	12048_10
+12048_8	has_surface_form	a
+12048_10	is_in_sentence	sentence_12048
+12048_10	attr	12048_7
+12048_10	has_surface_form	University
+12048_9	is_in_sentence	sentence_12048
+12048_9	compound	12048_10
+12048_9	has_surface_form	Private
+12048_11	is_in_sentence	sentence_12048
+12048_11	prep	12048_10
+12048_11	has_surface_form	in
+12048_12	is_in_sentence	sentence_12048
+12048_12	pobj	12048_11
+12048_12	is_entity	Dhanmondi
+Dhanmondi	surface_form	Dhanmondi
+12048_13	is_in_sentence	sentence_12048
+12048_13	punct	12048_12
+12048_13	has_surface_form	,
+12048_14	is_in_sentence	sentence_12048
+12048_14	conj	12048_12
+12048_14	has_surface_form	Dhaka
+12048_15	is_in_sentence	sentence_12048
+12048_15	punct	12048_14
+12048_15	has_surface_form	,
+12048_16	is_in_sentence	sentence_12048
+12048_16	appos	12048_14
+12048_16	has_surface_form	Bangladesh
+12048_17	is_in_sentence	sentence_12048
+12048_17	punct	12048_7
+12048_17	has_surface_form	.
+12048_18	is_in_sentence	sentence_12048
+12048_18	dep	12048_7
+12048_18	has_surface_form	
+State University of Bangladesh	surface_form	State University of Bangladesh
+State University of Bangladesh	is-where	Dhanmondi

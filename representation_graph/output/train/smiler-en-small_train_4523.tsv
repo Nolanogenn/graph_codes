@@ -1,0 +1,73 @@
+4522_0	is_in_sentence	sentence_4522
+4522_0	compound	4522_1
+4522_0	has_surface_form	John
+4522_0	part_of_entity	John Christopher Depp II
+4522_1	is_in_sentence	sentence_4522
+4522_1	compound	4522_3
+4522_1	has_surface_form	Christopher
+4522_1	part_of_entity	John Christopher Depp II
+4522_3	is_in_sentence	sentence_4522
+4522_3	nsubj	4522_11
+4522_3	has_surface_form	II
+4522_3	part_of_entity	John Christopher Depp II
+4522_2	is_in_sentence	sentence_4522
+4522_2	compound	4522_3
+4522_2	has_surface_form	Depp
+4522_2	part_of_entity	John Christopher Depp II
+4522_11	is_in_sentence	sentence_4522
+4522_11	ROOT	4522_11
+4522_11	has_surface_form	is
+4522_4	is_in_sentence	sentence_4522
+4522_4	punct	4522_3
+4522_4	has_surface_form	(
+4522_5	is_in_sentence	sentence_4522
+4522_5	acl	4522_3
+4522_5	has_surface_form	born
+4522_6	is_in_sentence	sentence_4522
+4522_6	npadvmod	4522_5
+4522_6	has_surface_form	June
+4522_7	is_in_sentence	sentence_4522
+4522_7	nummod	4522_6
+4522_7	has_surface_form	9
+4522_8	is_in_sentence	sentence_4522
+4522_8	punct	4522_6
+4522_8	has_surface_form	,
+4522_9	is_in_sentence	sentence_4522
+4522_9	nummod	4522_6
+4522_9	has_surface_form	1963
+4522_10	is_in_sentence	sentence_4522
+4522_10	punct	4522_3
+4522_10	has_surface_form	)
+4522_12	is_in_sentence	sentence_4522
+4522_12	det	4522_14
+4522_12	has_surface_form	an
+4522_14	is_in_sentence	sentence_4522
+4522_14	attr	4522_11
+4522_14	has_surface_form	actor
+4522_13	is_in_sentence	sentence_4522
+4522_13	amod	4522_14
+4522_13	is_entity	American
+American	surface_form	American
+4522_15	is_in_sentence	sentence_4522
+4522_15	punct	4522_14
+4522_15	has_surface_form	,
+4522_16	is_in_sentence	sentence_4522
+4522_16	conj	4522_14
+4522_16	has_surface_form	producer
+4522_17	is_in_sentence	sentence_4522
+4522_17	punct	4522_16
+4522_17	has_surface_form	,
+4522_18	is_in_sentence	sentence_4522
+4522_18	cc	4522_16
+4522_18	has_surface_form	and
+4522_19	is_in_sentence	sentence_4522
+4522_19	conj	4522_16
+4522_19	has_surface_form	musician
+4522_20	is_in_sentence	sentence_4522
+4522_20	punct	4522_11
+4522_20	has_surface_form	.
+4522_21	is_in_sentence	sentence_4522
+4522_21	dep	4522_21
+4522_21	has_surface_form	
+John Christopher Depp II	surface_form	John Christopher Depp II
+John Christopher Depp II	has-nationality	American

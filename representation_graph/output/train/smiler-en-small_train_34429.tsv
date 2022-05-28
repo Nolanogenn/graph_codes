@@ -1,0 +1,65 @@
+34428_0	is_in_sentence	sentence_34428
+34428_0	compound	34428_1
+34428_0	has_surface_form	Porca
+34428_0	part_of_entity	Porca vacca
+34428_1	is_in_sentence	sentence_34428
+34428_1	nsubj	34428_2
+34428_1	has_surface_form	vacca
+34428_1	part_of_entity	Porca vacca
+34428_2	is_in_sentence	sentence_34428
+34428_2	ROOT	34428_2
+34428_2	has_surface_form	is
+34428_3	is_in_sentence	sentence_34428
+34428_3	det	34428_9
+34428_3	has_surface_form	a
+34428_9	is_in_sentence	sentence_34428
+34428_9	attr	34428_2
+34428_9	has_surface_form	film
+34428_4	is_in_sentence	sentence_34428
+34428_4	nummod	34428_9
+34428_4	has_surface_form	1982
+34428_5	is_in_sentence	sentence_34428
+34428_5	amod	34428_9
+34428_5	has_surface_form	Italian
+34428_6	is_in_sentence	sentence_34428
+34428_6	compound	34428_8
+34428_6	has_surface_form	war
+34428_8	is_in_sentence	sentence_34428
+34428_8	compound	34428_9
+34428_8	has_surface_form	comedy
+34428_7	is_in_sentence	sentence_34428
+34428_7	punct	34428_8
+34428_7	has_surface_form	-
+34428_10	is_in_sentence	sentence_34428
+34428_10	acl	34428_9
+34428_10	has_surface_form	written
+34428_11	is_in_sentence	sentence_34428
+34428_11	cc	34428_10
+34428_11	has_surface_form	and
+34428_12	is_in_sentence	sentence_34428
+34428_12	conj	34428_10
+34428_12	has_surface_form	directed
+34428_13	is_in_sentence	sentence_34428
+34428_13	agent	34428_12
+34428_13	has_surface_form	by
+34428_14	is_in_sentence	sentence_34428
+34428_14	compound	34428_15
+34428_14	has_surface_form	Pasquale
+34428_14	part_of_entity	Pasquale Festa Campanile
+34428_15	is_in_sentence	sentence_34428
+34428_15	compound	34428_16
+34428_15	has_surface_form	Festa
+34428_15	part_of_entity	Pasquale Festa Campanile
+34428_16	is_in_sentence	sentence_34428
+34428_16	pobj	34428_13
+34428_16	has_surface_form	Campanile
+34428_16	part_of_entity	Pasquale Festa Campanile
+34428_17	is_in_sentence	sentence_34428
+34428_17	punct	34428_2
+34428_17	has_surface_form	.
+34428_18	is_in_sentence	sentence_34428
+34428_18	dep	34428_2
+34428_18	has_surface_form	
+Porca vacca	surface_form	Porca vacca
+Porca vacca	movie-has-director	Pasquale Festa Campanile
+Pasquale Festa Campanile	surface_form	Pasquale Festa Campanile

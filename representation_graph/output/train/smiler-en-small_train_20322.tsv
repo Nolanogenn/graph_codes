@@ -1,0 +1,108 @@
+20321_0	is_in_sentence	sentence_20321
+20321_0	det	20321_3
+20321_0	has_surface_form	A
+20321_0	part_of_entity	A Prussian Love Story
+20321_3	is_in_sentence	sentence_20321
+20321_3	nsubj	20321_10
+20321_3	has_surface_form	Story
+20321_3	part_of_entity	A Prussian Love Story
+20321_1	is_in_sentence	sentence_20321
+20321_1	compound	20321_2
+20321_1	has_surface_form	Prussian
+20321_1	part_of_entity	A Prussian Love Story
+20321_2	is_in_sentence	sentence_20321
+20321_2	compound	20321_3
+20321_2	has_surface_form	Love
+20321_2	part_of_entity	A Prussian Love Story
+20321_10	is_in_sentence	sentence_20321
+20321_10	ROOT	20321_10
+20321_10	has_surface_form	is
+20321_4	is_in_sentence	sentence_20321
+20321_4	punct	20321_5
+20321_4	has_surface_form	(
+20321_5	is_in_sentence	sentence_20321
+20321_5	appos	20321_3
+20321_5	has_surface_form	German
+20321_6	is_in_sentence	sentence_20321
+20321_6	punct	20321_5
+20321_6	has_surface_form	:
+20321_7	is_in_sentence	sentence_20321
+20321_7	compound	20321_8
+20321_7	has_surface_form	Preußische
+20321_8	is_in_sentence	sentence_20321
+20321_8	appos	20321_5
+20321_8	has_surface_form	Liebesgeschichte
+20321_9	is_in_sentence	sentence_20321
+20321_9	punct	20321_5
+20321_9	has_surface_form	)
+20321_11	is_in_sentence	sentence_20321
+20321_11	det	20321_16
+20321_11	has_surface_form	a
+20321_16	is_in_sentence	sentence_20321
+20321_16	attr	20321_10
+20321_16	has_surface_form	film
+20321_12	is_in_sentence	sentence_20321
+20321_12	nummod	20321_16
+20321_12	has_surface_form	1938
+20321_13	is_in_sentence	sentence_20321
+20321_13	amod	20321_16
+20321_13	has_surface_form	German
+20321_14	is_in_sentence	sentence_20321
+20321_14	amod	20321_15
+20321_14	has_surface_form	historical
+20321_15	is_in_sentence	sentence_20321
+20321_15	compound	20321_16
+20321_15	has_surface_form	romance
+20321_17	is_in_sentence	sentence_20321
+20321_17	acl	20321_16
+20321_17	has_surface_form	directed
+20321_18	is_in_sentence	sentence_20321
+20321_18	agent	20321_17
+20321_18	has_surface_form	by
+20321_19	is_in_sentence	sentence_20321
+20321_19	compound	20321_20
+20321_19	has_surface_form	Paul
+20321_19	part_of_entity	Paul Martin
+20321_20	is_in_sentence	sentence_20321
+20321_20	pobj	20321_18
+20321_20	has_surface_form	Martin
+20321_20	part_of_entity	Paul Martin
+20321_21	is_in_sentence	sentence_20321
+20321_21	cc	20321_17
+20321_21	has_surface_form	and
+20321_22	is_in_sentence	sentence_20321
+20321_22	conj	20321_17
+20321_22	has_surface_form	starring
+20321_23	is_in_sentence	sentence_20321
+20321_23	compound	20321_24
+20321_23	has_surface_form	Karl
+20321_24	is_in_sentence	sentence_20321
+20321_24	dobj	20321_22
+20321_24	has_surface_form	Günther
+20321_25	is_in_sentence	sentence_20321
+20321_25	punct	20321_24
+20321_25	has_surface_form	,
+20321_26	is_in_sentence	sentence_20321
+20321_26	compound	20321_27
+20321_26	has_surface_form	Hans
+20321_27	is_in_sentence	sentence_20321
+20321_27	conj	20321_24
+20321_27	has_surface_form	Nielsen
+20321_28	is_in_sentence	sentence_20321
+20321_28	cc	20321_27
+20321_28	has_surface_form	and
+20321_29	is_in_sentence	sentence_20321
+20321_29	compound	20321_30
+20321_29	has_surface_form	Willy
+20321_30	is_in_sentence	sentence_20321
+20321_30	conj	20321_27
+20321_30	has_surface_form	Fritsch
+20321_31	is_in_sentence	sentence_20321
+20321_31	punct	20321_10
+20321_31	has_surface_form	.
+20321_32	is_in_sentence	sentence_20321
+20321_32	dep	20321_32
+20321_32	has_surface_form	
+A Prussian Love Story	surface_form	A Prussian Love Story
+A Prussian Love Story	movie-has-director	Paul Martin
+Paul Martin	surface_form	Paul Martin

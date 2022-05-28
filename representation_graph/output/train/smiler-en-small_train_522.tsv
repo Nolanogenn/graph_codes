@@ -1,0 +1,94 @@
+521_0	is_in_sentence	sentence_521
+521_0	compound	521_1
+521_0	has_surface_form	Sasu
+521_0	part_of_entity	Sasu Numbari Jawai Dus Numbari
+521_1	is_in_sentence	sentence_521
+521_1	compound	521_2
+521_1	has_surface_form	Numbari
+521_1	part_of_entity	Sasu Numbari Jawai Dus Numbari
+521_2	is_in_sentence	sentence_521
+521_2	nsubj	521_5
+521_2	has_surface_form	Jawai
+521_2	part_of_entity	Sasu Numbari Jawai Dus Numbari
+521_5	is_in_sentence	sentence_521
+521_5	ROOT	521_5
+521_5	has_surface_form	is
+521_3	is_in_sentence	sentence_521
+521_3	compound	521_4
+521_3	has_surface_form	Dus
+521_3	part_of_entity	Sasu Numbari Jawai Dus Numbari
+521_4	is_in_sentence	sentence_521
+521_4	appos	521_2
+521_4	has_surface_form	Numbari
+521_4	part_of_entity	Sasu Numbari Jawai Dus Numbari
+521_6	is_in_sentence	sentence_521
+521_6	det	521_8
+521_6	has_surface_form	a
+521_8	is_in_sentence	sentence_521
+521_8	attr	521_5
+521_8	has_surface_form	movie
+521_7	is_in_sentence	sentence_521
+521_7	compound	521_8
+521_7	has_surface_form	Marathi
+521_9	is_in_sentence	sentence_521
+521_9	acl	521_8
+521_9	has_surface_form	released
+521_10	is_in_sentence	sentence_521
+521_10	prep	521_9
+521_10	has_surface_form	on
+521_11	is_in_sentence	sentence_521
+521_11	nummod	521_12
+521_11	has_surface_form	7
+521_12	is_in_sentence	sentence_521
+521_12	pobj	521_10
+521_12	has_surface_form	March
+521_13	is_in_sentence	sentence_521
+521_13	nummod	521_12
+521_13	has_surface_form	2008
+521_14	is_in_sentence	sentence_521
+521_14	punct	521_5
+521_14	has_surface_form	.
+521_15	is_in_sentence	sentence_521
+521_15	nsubjpass	521_17
+521_15	has_surface_form	It
+521_17	is_in_sentence	sentence_521
+521_17	ROOT	521_17
+521_17	has_surface_form	produced
+521_16	is_in_sentence	sentence_521
+521_16	auxpass	521_17
+521_16	has_surface_form	was
+521_18	is_in_sentence	sentence_521
+521_18	agent	521_17
+521_18	has_surface_form	by
+521_19	is_in_sentence	sentence_521
+521_19	compound	521_20
+521_19	has_surface_form	Harsh
+521_20	is_in_sentence	sentence_521
+521_20	pobj	521_18
+521_20	has_surface_form	Patil
+521_21	is_in_sentence	sentence_521
+521_21	cc	521_17
+521_21	has_surface_form	and
+521_22	is_in_sentence	sentence_521
+521_22	conj	521_17
+521_22	has_surface_form	directed
+521_23	is_in_sentence	sentence_521
+521_23	agent	521_22
+521_23	has_surface_form	by
+521_24	is_in_sentence	sentence_521
+521_24	compound	521_25
+521_24	has_surface_form	Vijay
+521_24	part_of_entity	Vijay Patkar
+521_25	is_in_sentence	sentence_521
+521_25	pobj	521_23
+521_25	has_surface_form	Patkar
+521_25	part_of_entity	Vijay Patkar
+521_26	is_in_sentence	sentence_521
+521_26	punct	521_17
+521_26	has_surface_form	.
+521_27	is_in_sentence	sentence_521
+521_27	dep	521_27
+521_27	has_surface_form	
+Sasu Numbari Jawai Dus Numbari	surface_form	Sasu Numbari Jawai Dus Numbari
+Sasu Numbari Jawai Dus Numbari	movie-has-director	Vijay Patkar
+Vijay Patkar	surface_form	Vijay Patkar

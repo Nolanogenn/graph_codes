@@ -1,0 +1,65 @@
+8636_0	is_in_sentence	sentence_8636
+8636_0	compound	8636_1
+8636_0	has_surface_form	Joe
+8636_0	part_of_entity	Joe Kučera
+8636_1	is_in_sentence	sentence_8636
+8636_1	nsubj	8636_11
+8636_1	has_surface_form	Kučera
+8636_1	part_of_entity	Joe Kučera
+8636_11	is_in_sentence	sentence_8636
+8636_11	ROOT	8636_11
+8636_11	has_surface_form	is
+8636_2	is_in_sentence	sentence_8636
+8636_2	punct	8636_3
+8636_2	has_surface_form	(
+8636_3	is_in_sentence	sentence_8636
+8636_3	relcl	8636_1
+8636_3	has_surface_form	born
+8636_4	is_in_sentence	sentence_8636
+8636_4	compound	8636_5
+8636_4	has_surface_form	Josef
+8636_5	is_in_sentence	sentence_8636
+8636_5	dobj	8636_3
+8636_5	has_surface_form	Kučera
+8636_6	is_in_sentence	sentence_8636
+8636_6	punct	8636_1
+8636_6	has_surface_form	;
+8636_7	is_in_sentence	sentence_8636
+8636_7	nummod	8636_8
+8636_7	has_surface_form	8
+8636_8	is_in_sentence	sentence_8636
+8636_8	appos	8636_1
+8636_8	has_surface_form	July
+8636_9	is_in_sentence	sentence_8636
+8636_9	nummod	8636_8
+8636_9	has_surface_form	1943
+8636_10	is_in_sentence	sentence_8636
+8636_10	punct	8636_8
+8636_10	has_surface_form	)
+8636_12	is_in_sentence	sentence_8636
+8636_12	det	8636_15
+8636_12	has_surface_form	a
+8636_15	is_in_sentence	sentence_8636
+8636_15	attr	8636_11
+8636_15	has_surface_form	saxophonist
+8636_13	is_in_sentence	sentence_8636
+8636_13	amod	8636_14
+8636_13	has_surface_form	Czech
+8636_14	is_in_sentence	sentence_8636
+8636_14	compound	8636_15
+8636_14	is_entity	jazz
+jazz	surface_form	jazz
+8636_16	is_in_sentence	sentence_8636
+8636_16	cc	8636_15
+8636_16	has_surface_form	and
+8636_17	is_in_sentence	sentence_8636
+8636_17	conj	8636_15
+8636_17	has_surface_form	flautist
+8636_18	is_in_sentence	sentence_8636
+8636_18	punct	8636_11
+8636_18	has_surface_form	.
+8636_19	is_in_sentence	sentence_8636
+8636_19	dep	8636_19
+8636_19	has_surface_form	
+Joe Kučera	surface_form	Joe Kučera
+Joe Kučera	has-genre	jazz

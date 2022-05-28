@@ -1,0 +1,59 @@
+18110_0	is_in_sentence	sentence_18110
+18110_0	compound	18110_1
+18110_0	has_surface_form	Sanem
+18110_0	part_of_entity	Sanem Çelik
+18110_1	is_in_sentence	sentence_18110
+18110_1	nsubj	18110_8
+18110_1	has_surface_form	Çelik
+18110_1	part_of_entity	Sanem Çelik
+18110_8	is_in_sentence	sentence_18110
+18110_8	ROOT	18110_8
+18110_8	has_surface_form	is
+18110_2	is_in_sentence	sentence_18110
+18110_2	punct	18110_3
+18110_2	has_surface_form	(
+18110_3	is_in_sentence	sentence_18110
+18110_3	acl	18110_1
+18110_3	has_surface_form	born
+18110_4	is_in_sentence	sentence_18110
+18110_4	nummod	18110_5
+18110_4	has_surface_form	18
+18110_5	is_in_sentence	sentence_18110
+18110_5	npadvmod	18110_3
+18110_5	has_surface_form	May
+18110_6	is_in_sentence	sentence_18110
+18110_6	nummod	18110_5
+18110_6	has_surface_form	1975
+18110_7	is_in_sentence	sentence_18110
+18110_7	punct	18110_1
+18110_7	has_surface_form	)
+18110_9	is_in_sentence	sentence_18110
+18110_9	det	18110_11
+18110_9	has_surface_form	a
+18110_11	is_in_sentence	sentence_18110
+18110_11	attr	18110_8
+18110_11	has_surface_form	actress
+18110_10	is_in_sentence	sentence_18110
+18110_10	amod	18110_11
+18110_10	has_surface_form	Turkish
+18110_12	is_in_sentence	sentence_18110
+18110_12	punct	18110_11
+18110_12	has_surface_form	,
+18110_13	is_in_sentence	sentence_18110
+18110_13	conj	18110_11
+18110_13	is_entity	artist
+artist	surface_form	artist
+18110_14	is_in_sentence	sentence_18110
+18110_14	cc	18110_13
+18110_14	has_surface_form	and
+18110_15	is_in_sentence	sentence_18110
+18110_15	conj	18110_13
+18110_15	has_surface_form	dancer
+18110_16	is_in_sentence	sentence_18110
+18110_16	punct	18110_8
+18110_16	has_surface_form	.
+18110_17	is_in_sentence	sentence_18110
+18110_17	dep	18110_17
+18110_17	has_surface_form	
+Sanem Çelik	surface_form	Sanem Çelik
+Sanem Çelik	has-occupation	artist

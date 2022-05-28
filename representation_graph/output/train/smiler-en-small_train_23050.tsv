@@ -1,0 +1,67 @@
+23049_0	is_in_sentence	sentence_23049
+23049_0	compound	23049_1
+23049_0	has_surface_form	Coph
+23049_0	part_of_entity	Coph Nia
+23049_1	is_in_sentence	sentence_23049
+23049_1	nsubj	23049_2
+23049_1	has_surface_form	Nia
+23049_1	part_of_entity	Coph Nia
+23049_2	is_in_sentence	sentence_23049
+23049_2	ROOT	23049_2
+23049_2	has_surface_form	is
+23049_3	is_in_sentence	sentence_23049
+23049_3	det	23049_4
+23049_3	has_surface_form	the
+23049_4	is_in_sentence	sentence_23049
+23049_4	attr	23049_2
+23049_4	has_surface_form	name
+23049_5	is_in_sentence	sentence_23049
+23049_5	acl	23049_4
+23049_5	has_surface_form	given
+23049_6	is_in_sentence	sentence_23049
+23049_6	dative	23049_5
+23049_6	has_surface_form	to
+23049_7	is_in_sentence	sentence_23049
+23049_7	det	23049_13
+23049_7	has_surface_form	the
+23049_13	is_in_sentence	sentence_23049
+23049_13	pobj	23049_6
+23049_13	has_surface_form	act
+23049_8	is_in_sentence	sentence_23049
+23049_8	amod	23049_13
+23049_8	has_surface_form	dark
+23049_9	is_in_sentence	sentence_23049
+23049_9	nmod	23049_11
+23049_9	has_surface_form	ambient
+23049_11	is_in_sentence	sentence_23049
+23049_11	nmod	23049_13
+23049_11	has_surface_form	ambient
+23049_11	part_of_entity	ambient industrial
+23049_10	is_in_sentence	sentence_23049
+23049_10	punct	23049_11
+23049_10	has_surface_form	/
+23049_12	is_in_sentence	sentence_23049
+23049_12	amod	23049_13
+23049_12	has_surface_form	industrial
+23049_12	part_of_entity	ambient industrial
+23049_14	is_in_sentence	sentence_23049
+23049_14	acl	23049_13
+23049_14	has_surface_form	formed
+23049_15	is_in_sentence	sentence_23049
+23049_15	agent	23049_14
+23049_15	has_surface_form	by
+23049_16	is_in_sentence	sentence_23049
+23049_16	compound	23049_17
+23049_16	has_surface_form	Aldenon
+23049_17	is_in_sentence	sentence_23049
+23049_17	pobj	23049_15
+23049_17	has_surface_form	Sartorial
+23049_18	is_in_sentence	sentence_23049
+23049_18	punct	23049_2
+23049_18	has_surface_form	.
+23049_19	is_in_sentence	sentence_23049
+23049_19	dep	23049_2
+23049_19	has_surface_form	
+Coph Nia	surface_form	Coph Nia
+Coph Nia	has-genre	ambient industrial
+ambient industrial	surface_form	ambient industrial

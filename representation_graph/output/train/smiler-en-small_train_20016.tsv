@@ -1,0 +1,97 @@
+20015_0	is_in_sentence	sentence_20015
+20015_0	compound	20015_1
+20015_0	has_surface_form	Arturo
+20015_0	part_of_entity	Arturo Freeman
+20015_1	is_in_sentence	sentence_20015
+20015_1	nsubj	20015_9
+20015_1	has_surface_form	Freeman
+20015_1	part_of_entity	Arturo Freeman
+20015_9	is_in_sentence	sentence_20015
+20015_9	ROOT	20015_9
+20015_9	has_surface_form	is
+20015_2	is_in_sentence	sentence_20015
+20015_2	punct	20015_1
+20015_2	has_surface_form	(
+20015_3	is_in_sentence	sentence_20015
+20015_3	acl	20015_1
+20015_3	has_surface_form	born
+20015_4	is_in_sentence	sentence_20015
+20015_4	npadvmod	20015_3
+20015_4	has_surface_form	October
+20015_5	is_in_sentence	sentence_20015
+20015_5	nummod	20015_4
+20015_5	has_surface_form	27
+20015_6	is_in_sentence	sentence_20015
+20015_6	punct	20015_4
+20015_6	has_surface_form	,
+20015_7	is_in_sentence	sentence_20015
+20015_7	nummod	20015_4
+20015_7	has_surface_form	1976
+20015_8	is_in_sentence	sentence_20015
+20015_8	punct	20015_1
+20015_8	has_surface_form	)
+20015_10	is_in_sentence	sentence_20015
+20015_10	det	20015_14
+20015_10	has_surface_form	a
+20015_14	is_in_sentence	sentence_20015
+20015_14	attr	20015_9
+20015_14	has_surface_form	player
+20015_11	is_in_sentence	sentence_20015
+20015_11	amod	20015_14
+20015_11	has_surface_form	former
+20015_12	is_in_sentence	sentence_20015
+20015_12	amod	20015_14
+20015_12	has_surface_form	American
+20015_13	is_in_sentence	sentence_20015
+20015_13	compound	20015_14
+20015_13	has_surface_form	football
+20015_15	is_in_sentence	sentence_20015
+20015_15	nsubj	20015_16
+20015_15	has_surface_form	who
+20015_16	is_in_sentence	sentence_20015
+20015_16	relcl	20015_14
+20015_16	has_surface_form	played
+20015_17	is_in_sentence	sentence_20015
+20015_17	dobj	20015_16
+20015_17	has_surface_form	safety
+20015_18	is_in_sentence	sentence_20015
+20015_18	prep	20015_17
+20015_18	has_surface_form	for
+20015_19	is_in_sentence	sentence_20015
+20015_19	det	20015_20
+20015_19	has_surface_form	the
+20015_20	is_in_sentence	sentence_20015
+20015_20	poss	20015_23
+20015_20	has_surface_form	NFL
+20015_23	is_in_sentence	sentence_20015
+20015_23	pobj	20015_18
+20015_23	has_surface_form	Dolphins
+20015_23	part_of_entity	Miami Dolphins
+20015_21	is_in_sentence	sentence_20015
+20015_21	case	20015_20
+20015_21	has_surface_form	's
+20015_22	is_in_sentence	sentence_20015
+20015_22	compound	20015_23
+20015_22	has_surface_form	Miami
+20015_22	part_of_entity	Miami Dolphins
+20015_24	is_in_sentence	sentence_20015
+20015_24	cc	20015_23
+20015_24	has_surface_form	and
+20015_25	is_in_sentence	sentence_20015
+20015_25	compound	20015_27
+20015_25	has_surface_form	New
+20015_27	is_in_sentence	sentence_20015
+20015_27	conj	20015_23
+20015_27	has_surface_form	Patriots
+20015_26	is_in_sentence	sentence_20015
+20015_26	compound	20015_27
+20015_26	has_surface_form	England
+20015_28	is_in_sentence	sentence_20015
+20015_28	punct	20015_9
+20015_28	has_surface_form	.
+20015_29	is_in_sentence	sentence_20015
+20015_29	dep	20015_9
+20015_29	has_surface_form	
+Arturo Freeman	surface_form	Arturo Freeman
+Arturo Freeman	is-member-of	Miami Dolphins
+Miami Dolphins	surface_form	Miami Dolphins

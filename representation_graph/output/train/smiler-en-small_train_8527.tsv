@@ -1,0 +1,124 @@
+8526_0	is_in_sentence	sentence_8526
+8526_0	compound	8526_1
+8526_0	has_surface_form	Student
+8526_0	part_of_entity	Student Life in Merry Springtime
+8526_1	is_in_sentence	sentence_8526
+8526_1	npadvmod	8526_12
+8526_1	has_surface_form	Life
+8526_1	part_of_entity	Student Life in Merry Springtime
+8526_12	is_in_sentence	sentence_8526
+8526_12	ROOT	8526_12
+8526_12	has_surface_form	die
+8526_2	is_in_sentence	sentence_8526
+8526_2	prep	8526_1
+8526_2	has_surface_form	in
+8526_2	part_of_entity	Student Life in Merry Springtime
+8526_3	is_in_sentence	sentence_8526
+8526_3	compound	8526_4
+8526_3	has_surface_form	Merry
+8526_3	part_of_entity	Student Life in Merry Springtime
+8526_4	is_in_sentence	sentence_8526
+8526_4	pobj	8526_2
+8526_4	has_surface_form	Springtime
+8526_4	part_of_entity	Student Life in Merry Springtime
+8526_5	is_in_sentence	sentence_8526
+8526_5	punct	8526_6
+8526_5	has_surface_form	(
+8526_6	is_in_sentence	sentence_8526
+8526_6	appos	8526_1
+8526_6	has_surface_form	German
+8526_7	is_in_sentence	sentence_8526
+8526_7	punct	8526_6
+8526_7	has_surface_form	:
+8526_8	is_in_sentence	sentence_8526
+8526_8	compound	8526_9
+8526_8	has_surface_form	Student
+8526_9	is_in_sentence	sentence_8526
+8526_9	appos	8526_6
+8526_9	has_surface_form	sein
+8526_10	is_in_sentence	sentence_8526
+8526_10	punct	8526_12
+8526_10	has_surface_form	,
+8526_11	is_in_sentence	sentence_8526
+8526_11	nsubj	8526_12
+8526_11	has_surface_form	wenn
+8526_13	is_in_sentence	sentence_8526
+8526_13	compound	8526_14
+8526_13	has_surface_form	Veilchen
+8526_14	is_in_sentence	sentence_8526
+8526_14	dobj	8526_12
+8526_14	has_surface_form	blühen
+8526_15	is_in_sentence	sentence_8526
+8526_15	punct	8526_12
+8526_15	has_surface_form	)
+8526_16	is_in_sentence	sentence_8526
+8526_16	ROOT	8526_16
+8526_16	has_surface_form	is
+8526_17	is_in_sentence	sentence_8526
+8526_17	det	8526_21
+8526_17	has_surface_form	a
+8526_21	is_in_sentence	sentence_8526
+8526_21	attr	8526_16
+8526_21	has_surface_form	film
+8526_18	is_in_sentence	sentence_8526
+8526_18	nummod	8526_21
+8526_18	has_surface_form	1931
+8526_19	is_in_sentence	sentence_8526
+8526_19	amod	8526_21
+8526_19	has_surface_form	German
+8526_20	is_in_sentence	sentence_8526
+8526_20	amod	8526_21
+8526_20	has_surface_form	musical
+8526_22	is_in_sentence	sentence_8526
+8526_22	acl	8526_21
+8526_22	has_surface_form	directed
+8526_23	is_in_sentence	sentence_8526
+8526_23	agent	8526_22
+8526_23	has_surface_form	by
+8526_24	is_in_sentence	sentence_8526
+8526_24	compound	8526_25
+8526_24	has_surface_form	Heinz
+8526_24	part_of_entity	Heinz Paul
+8526_25	is_in_sentence	sentence_8526
+8526_25	pobj	8526_23
+8526_25	has_surface_form	Paul
+8526_25	part_of_entity	Heinz Paul
+8526_26	is_in_sentence	sentence_8526
+8526_26	cc	8526_22
+8526_26	has_surface_form	and
+8526_27	is_in_sentence	sentence_8526
+8526_27	conj	8526_22
+8526_27	has_surface_form	starring
+8526_28	is_in_sentence	sentence_8526
+8526_28	compound	8526_29
+8526_28	has_surface_form	Franz
+8526_29	is_in_sentence	sentence_8526
+8526_29	dobj	8526_27
+8526_29	has_surface_form	Baumann
+8526_30	is_in_sentence	sentence_8526
+8526_30	punct	8526_29
+8526_30	has_surface_form	,
+8526_31	is_in_sentence	sentence_8526
+8526_31	compound	8526_32
+8526_31	has_surface_form	Anita
+8526_32	is_in_sentence	sentence_8526
+8526_32	conj	8526_29
+8526_32	has_surface_form	Dorris
+8526_33	is_in_sentence	sentence_8526
+8526_33	cc	8526_32
+8526_33	has_surface_form	and
+8526_34	is_in_sentence	sentence_8526
+8526_34	compound	8526_35
+8526_34	has_surface_form	Fritz
+8526_35	is_in_sentence	sentence_8526
+8526_35	conj	8526_32
+8526_35	has_surface_form	Alberti
+8526_36	is_in_sentence	sentence_8526
+8526_36	punct	8526_16
+8526_36	has_surface_form	.
+8526_37	is_in_sentence	sentence_8526
+8526_37	dep	8526_37
+8526_37	has_surface_form	
+Student Life in Merry Springtime	surface_form	Student Life in Merry Springtime
+Student Life in Merry Springtime	movie-has-director	Heinz Paul
+Heinz Paul	surface_form	Heinz Paul

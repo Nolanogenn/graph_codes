@@ -1,0 +1,53 @@
+28504_0	is_in_sentence	sentence_28504
+28504_0	compound	28504_1
+28504_0	has_surface_form	SARbot
+28504_0	part_of_entity	SARbot UK
+28504_1	is_in_sentence	sentence_28504
+28504_1	nsubj	28504_2
+28504_1	has_surface_form	UK
+28504_1	part_of_entity	SARbot UK
+28504_2	is_in_sentence	sentence_28504
+28504_2	ROOT	28504_2
+28504_2	has_surface_form	is
+28504_3	is_in_sentence	sentence_28504
+28504_3	det	28504_8
+28504_3	has_surface_form	an
+28504_8	is_in_sentence	sentence_28504
+28504_8	attr	28504_2
+28504_8	is_entity	charity
+28504_4	is_in_sentence	sentence_28504
+28504_4	amod	28504_8
+28504_4	has_surface_form	underwater
+28504_5	is_in_sentence	sentence_28504
+28504_5	nmod	28504_8
+28504_5	has_surface_form	search
+28504_6	is_in_sentence	sentence_28504
+28504_6	cc	28504_5
+28504_6	has_surface_form	and
+28504_7	is_in_sentence	sentence_28504
+28504_7	conj	28504_5
+28504_7	has_surface_form	rescue
+charity	surface_form	charity
+28504_9	is_in_sentence	sentence_28504
+28504_9	acl	28504_8
+28504_9	has_surface_form	based
+28504_10	is_in_sentence	sentence_28504
+28504_10	prep	28504_9
+28504_10	has_surface_form	in
+28504_11	is_in_sentence	sentence_28504
+28504_11	det	28504_13
+28504_11	has_surface_form	the
+28504_13	is_in_sentence	sentence_28504
+28504_13	pobj	28504_10
+28504_13	has_surface_form	Kingdom
+28504_12	is_in_sentence	sentence_28504
+28504_12	compound	28504_13
+28504_12	has_surface_form	United
+28504_14	is_in_sentence	sentence_28504
+28504_14	punct	28504_2
+28504_14	has_surface_form	.
+28504_15	is_in_sentence	sentence_28504
+28504_15	dep	28504_2
+28504_15	has_surface_form	
+SARbot UK	surface_form	SARbot UK
+SARbot UK	has-type	charity

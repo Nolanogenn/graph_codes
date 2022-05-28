@@ -1,0 +1,127 @@
+172_0	is_in_sentence	sentence_172
+172_0	det	172_1
+172_0	has_surface_form	A
+172_0	part_of_entity	A Story of Little Italy
+172_1	is_in_sentence	sentence_172
+172_1	nsubj	172_5
+172_1	has_surface_form	Story
+172_1	part_of_entity	A Story of Little Italy
+172_5	is_in_sentence	sentence_172
+172_5	ROOT	172_5
+172_5	has_surface_form	is
+172_2	is_in_sentence	sentence_172
+172_2	prep	172_1
+172_2	has_surface_form	of
+172_2	part_of_entity	A Story of Little Italy
+172_3	is_in_sentence	sentence_172
+172_3	compound	172_4
+172_3	has_surface_form	Little
+172_3	part_of_entity	A Story of Little Italy
+172_4	is_in_sentence	sentence_172
+172_4	pobj	172_2
+172_4	has_surface_form	Italy
+172_4	part_of_entity	A Story of Little Italy
+172_6	is_in_sentence	sentence_172
+172_6	det	172_12
+172_6	has_surface_form	a
+172_12	is_in_sentence	sentence_172
+172_12	attr	172_5
+172_12	has_surface_form	film
+172_7	is_in_sentence	sentence_172
+172_7	nummod	172_12
+172_7	has_surface_form	1914
+172_8	is_in_sentence	sentence_172
+172_8	amod	172_12
+172_8	has_surface_form	American
+172_9	is_in_sentence	sentence_172
+172_9	amod	172_12
+172_9	has_surface_form	silent
+172_10	is_in_sentence	sentence_172
+172_10	amod	172_11
+172_10	has_surface_form	short
+172_11	is_in_sentence	sentence_172
+172_11	compound	172_12
+172_11	has_surface_form	drama
+172_13	is_in_sentence	sentence_172
+172_13	acl	172_12
+172_13	has_surface_form	directed
+172_14	is_in_sentence	sentence_172
+172_14	agent	172_13
+172_14	has_surface_form	by
+172_15	is_in_sentence	sentence_172
+172_15	compound	172_16
+172_15	has_surface_form	Lorimer
+172_16	is_in_sentence	sentence_172
+172_16	pobj	172_14
+172_16	has_surface_form	Johnston
+172_17	is_in_sentence	sentence_172
+172_17	punct	172_5
+172_17	has_surface_form	.
+172_18	is_in_sentence	sentence_172
+172_18	det	172_19
+172_18	has_surface_form	The
+172_19	is_in_sentence	sentence_172
+172_19	nsubj	172_20
+172_19	has_surface_form	film
+172_20	is_in_sentence	sentence_172
+172_20	ROOT	172_20
+172_20	has_surface_form	stars
+172_21	is_in_sentence	sentence_172
+172_21	compound	172_22
+172_21	has_surface_form	Sydney
+172_22	is_in_sentence	sentence_172
+172_22	dobj	172_20
+172_22	has_surface_form	Ayres
+172_23	is_in_sentence	sentence_172
+172_23	punct	172_22
+172_23	has_surface_form	,
+172_24	is_in_sentence	sentence_172
+172_24	compound	172_25
+172_24	has_surface_form	Jacques
+172_25	is_in_sentence	sentence_172
+172_25	appos	172_22
+172_25	has_surface_form	Jaccard
+172_26	is_in_sentence	sentence_172
+172_26	punct	172_25
+172_26	has_surface_form	,
+172_27	is_in_sentence	sentence_172
+172_27	compound	172_28
+172_27	has_surface_form	Jack
+172_27	part_of_entity	Jack Richardson
+172_28	is_in_sentence	sentence_172
+172_28	conj	172_25
+172_28	has_surface_form	Richardson
+172_28	part_of_entity	Jack Richardson
+172_29	is_in_sentence	sentence_172
+172_29	punct	172_28
+172_29	has_surface_form	,
+172_30	is_in_sentence	sentence_172
+172_30	compound	172_31
+172_30	has_surface_form	Vivian
+172_31	is_in_sentence	sentence_172
+172_31	conj	172_28
+172_31	has_surface_form	Rich
+172_32	is_in_sentence	sentence_172
+172_32	punct	172_31
+172_32	has_surface_form	,
+172_33	is_in_sentence	sentence_172
+172_33	cc	172_31
+172_33	has_surface_form	and
+172_34	is_in_sentence	sentence_172
+172_34	compound	172_36
+172_34	has_surface_form	Harry
+172_36	is_in_sentence	sentence_172
+172_36	conj	172_31
+172_36	has_surface_form	Meter
+172_35	is_in_sentence	sentence_172
+172_35	compound	172_36
+172_35	has_surface_form	Van
+172_37	is_in_sentence	sentence_172
+172_37	punct	172_20
+172_37	has_surface_form	.
+172_38	is_in_sentence	sentence_172
+172_38	dep	172_20
+172_38	has_surface_form	
+A Story of Little Italy	surface_form	A Story of Little Italy
+A Story of Little Italy	starring	Jack Richardson
+Jack Richardson	surface_form	Jack Richardson

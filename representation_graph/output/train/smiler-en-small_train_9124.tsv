@@ -1,0 +1,77 @@
+9123_0	is_in_sentence	sentence_9123
+9123_0	nsubj	9123_10
+9123_0	has_surface_form	Return
+9123_0	part_of_entity	Return to Ithaca
+9123_10	is_in_sentence	sentence_9123
+9123_10	ROOT	9123_10
+9123_10	has_surface_form	is
+9123_1	is_in_sentence	sentence_9123
+9123_1	prep	9123_0
+9123_1	has_surface_form	to
+9123_1	part_of_entity	Return to Ithaca
+9123_2	is_in_sentence	sentence_9123
+9123_2	pobj	9123_1
+9123_2	has_surface_form	Ithaca
+9123_2	part_of_entity	Return to Ithaca
+9123_3	is_in_sentence	sentence_9123
+9123_3	punct	9123_4
+9123_3	has_surface_form	(
+9123_4	is_in_sentence	sentence_9123
+9123_4	parataxis	9123_0
+9123_4	has_surface_form	French
+9123_5	is_in_sentence	sentence_9123
+9123_5	punct	9123_4
+9123_5	has_surface_form	:
+9123_6	is_in_sentence	sentence_9123
+9123_6	nmod	9123_8
+9123_6	has_surface_form	Retour
+9123_8	is_in_sentence	sentence_9123
+9123_8	appos	9123_4
+9123_8	has_surface_form	Ithaque
+9123_7	is_in_sentence	sentence_9123
+9123_7	nmod	9123_8
+9123_7	has_surface_form	à
+9123_9	is_in_sentence	sentence_9123
+9123_9	punct	9123_4
+9123_9	has_surface_form	)
+9123_11	is_in_sentence	sentence_9123
+9123_11	det	9123_16
+9123_11	has_surface_form	a
+9123_16	is_in_sentence	sentence_9123
+9123_16	attr	9123_10
+9123_16	has_surface_form	film
+9123_12	is_in_sentence	sentence_9123
+9123_12	nummod	9123_16
+9123_12	has_surface_form	2014
+9123_13	is_in_sentence	sentence_9123
+9123_13	compound	9123_15
+9123_13	has_surface_form	comedy
+9123_15	is_in_sentence	sentence_9123
+9123_15	compound	9123_16
+9123_15	has_surface_form	drama
+9123_14	is_in_sentence	sentence_9123
+9123_14	punct	9123_15
+9123_14	has_surface_form	-
+9123_17	is_in_sentence	sentence_9123
+9123_17	acl	9123_16
+9123_17	has_surface_form	directed
+9123_18	is_in_sentence	sentence_9123
+9123_18	agent	9123_17
+9123_18	has_surface_form	by
+9123_19	is_in_sentence	sentence_9123
+9123_19	compound	9123_20
+9123_19	has_surface_form	Laurent
+9123_19	part_of_entity	Laurent Cantet
+9123_20	is_in_sentence	sentence_9123
+9123_20	pobj	9123_18
+9123_20	has_surface_form	Cantet
+9123_20	part_of_entity	Laurent Cantet
+9123_21	is_in_sentence	sentence_9123
+9123_21	punct	9123_10
+9123_21	has_surface_form	.
+9123_22	is_in_sentence	sentence_9123
+9123_22	dep	9123_10
+9123_22	has_surface_form	
+Return to Ithaca	surface_form	Return to Ithaca
+Return to Ithaca	movie-has-director	Laurent Cantet
+Laurent Cantet	surface_form	Laurent Cantet

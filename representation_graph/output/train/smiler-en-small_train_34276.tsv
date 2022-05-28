@@ -1,0 +1,96 @@
+34275_0	is_in_sentence	sentence_34275
+34275_0	det	34275_1
+34275_0	has_surface_form	The
+34275_0	part_of_entity	The Man Is Armed
+34275_1	is_in_sentence	sentence_34275
+34275_1	nsubj	34275_2
+34275_1	has_surface_form	Man
+34275_1	part_of_entity	The Man Is Armed
+34275_2	is_in_sentence	sentence_34275
+34275_2	nsubj	34275_4
+34275_2	has_surface_form	Is
+34275_2	part_of_entity	The Man Is Armed
+34275_4	is_in_sentence	sentence_34275
+34275_4	ROOT	34275_4
+34275_4	has_surface_form	is
+34275_3	is_in_sentence	sentence_34275
+34275_3	acomp	34275_2
+34275_3	has_surface_form	Armed
+34275_3	part_of_entity	The Man Is Armed
+34275_5	is_in_sentence	sentence_34275
+34275_5	det	34275_10
+34275_5	has_surface_form	a
+34275_10	is_in_sentence	sentence_34275
+34275_10	attr	34275_4
+34275_10	has_surface_form	film
+34275_6	is_in_sentence	sentence_34275
+34275_6	nummod	34275_7
+34275_6	has_surface_form	1956
+34275_7	is_in_sentence	sentence_34275
+34275_7	compound	34275_10
+34275_7	has_surface_form	film
+34275_8	is_in_sentence	sentence_34275
+34275_8	compound	34275_10
+34275_8	has_surface_form	noir
+34275_9	is_in_sentence	sentence_34275
+34275_9	compound	34275_10
+34275_9	has_surface_form	crime
+34275_11	is_in_sentence	sentence_34275
+34275_11	acl	34275_10
+34275_11	has_surface_form	directed
+34275_12	is_in_sentence	sentence_34275
+34275_12	agent	34275_11
+34275_12	has_surface_form	by
+34275_13	is_in_sentence	sentence_34275
+34275_13	compound	34275_14
+34275_13	has_surface_form	Franklin
+34275_14	is_in_sentence	sentence_34275
+34275_14	pobj	34275_12
+34275_14	has_surface_form	Adreon
+34275_15	is_in_sentence	sentence_34275
+34275_15	acl	34275_10
+34275_15	has_surface_form	starring
+34275_16	is_in_sentence	sentence_34275
+34275_16	compound	34275_17
+34275_16	has_surface_form	Dane
+34275_17	is_in_sentence	sentence_34275
+34275_17	dobj	34275_15
+34275_17	has_surface_form	Clark
+34275_18	is_in_sentence	sentence_34275
+34275_18	punct	34275_17
+34275_18	has_surface_form	,
+34275_19	is_in_sentence	sentence_34275
+34275_19	compound	34275_20
+34275_19	has_surface_form	William
+34275_20	is_in_sentence	sentence_34275
+34275_20	appos	34275_17
+34275_20	has_surface_form	Talman
+34275_21	is_in_sentence	sentence_34275
+34275_21	punct	34275_20
+34275_21	has_surface_form	,
+34275_22	is_in_sentence	sentence_34275
+34275_22	compound	34275_23
+34275_22	has_surface_form	May
+34275_22	part_of_entity	May Wynn
+34275_23	is_in_sentence	sentence_34275
+34275_23	conj	34275_20
+34275_23	has_surface_form	Wynn
+34275_23	part_of_entity	May Wynn
+34275_24	is_in_sentence	sentence_34275
+34275_24	cc	34275_23
+34275_24	has_surface_form	and
+34275_25	is_in_sentence	sentence_34275
+34275_25	compound	34275_26
+34275_25	has_surface_form	Robert
+34275_26	is_in_sentence	sentence_34275
+34275_26	conj	34275_23
+34275_26	has_surface_form	Horton
+34275_27	is_in_sentence	sentence_34275
+34275_27	punct	34275_4
+34275_27	has_surface_form	.
+34275_28	is_in_sentence	sentence_34275
+34275_28	dep	34275_28
+34275_28	has_surface_form	
+The Man Is Armed	surface_form	The Man Is Armed
+The Man Is Armed	starring	May Wynn
+May Wynn	surface_form	May Wynn

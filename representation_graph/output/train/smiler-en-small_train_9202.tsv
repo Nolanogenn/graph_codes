@@ -1,0 +1,77 @@
+9201_0	is_in_sentence	sentence_9201
+9201_0	compound	9201_2
+9201_0	has_surface_form	Pierre
+9201_2	is_in_sentence	sentence_9201
+9201_2	compound	9201_3
+9201_2	has_surface_form	Antoine
+9201_1	is_in_sentence	sentence_9201
+9201_1	punct	9201_2
+9201_1	has_surface_form	-
+9201_3	is_in_sentence	sentence_9201
+9201_3	nsubj	9201_11
+9201_3	has_surface_form	Grison
+9201_11	is_in_sentence	sentence_9201
+9201_11	ROOT	9201_11
+9201_11	has_surface_form	is
+9201_4	is_in_sentence	sentence_9201
+9201_4	punct	9201_3
+9201_4	has_surface_form	,
+9201_5	is_in_sentence	sentence_9201
+9201_5	advmod	9201_6
+9201_5	has_surface_form	better
+9201_6	is_in_sentence	sentence_9201
+9201_6	acl	9201_3
+9201_6	has_surface_form	known
+9201_7	is_in_sentence	sentence_9201
+9201_7	prep	9201_6
+9201_7	has_surface_form	as
+9201_8	is_in_sentence	sentence_9201
+9201_8	compound	9201_9
+9201_8	has_surface_form	Krazy
+9201_9	is_in_sentence	sentence_9201
+9201_9	pobj	9201_7
+9201_9	has_surface_form	Baldhead
+9201_10	is_in_sentence	sentence_9201
+9201_10	punct	9201_3
+9201_10	has_surface_form	,
+9201_12	is_in_sentence	sentence_9201
+9201_12	det	9201_16
+9201_12	has_surface_form	a
+9201_16	is_in_sentence	sentence_9201
+9201_16	attr	9201_11
+9201_16	has_surface_form	artist
+9201_13	is_in_sentence	sentence_9201
+9201_13	amod	9201_16
+9201_13	has_surface_form	French
+9201_14	is_in_sentence	sentence_9201
+9201_14	amod	9201_15
+9201_14	has_surface_form	electronic
+9201_14	part_of_entity	electronic music
+9201_15	is_in_sentence	sentence_9201
+9201_15	compound	9201_16
+9201_15	has_surface_form	music
+9201_15	part_of_entity	electronic music
+9201_17	is_in_sentence	sentence_9201
+9201_17	acl	9201_16
+9201_17	has_surface_form	signed
+9201_18	is_in_sentence	sentence_9201
+9201_18	prep	9201_17
+9201_18	has_surface_form	to
+9201_19	is_in_sentence	sentence_9201
+9201_19	compound	9201_20
+9201_19	has_surface_form	Ed
+9201_20	is_in_sentence	sentence_9201
+9201_20	compound	9201_21
+9201_20	has_surface_form	Banger
+9201_21	is_in_sentence	sentence_9201
+9201_21	pobj	9201_18
+9201_21	has_surface_form	Records
+9201_22	is_in_sentence	sentence_9201
+9201_22	punct	9201_11
+9201_22	has_surface_form	.
+9201_23	is_in_sentence	sentence_9201
+9201_23	dep	9201_11
+9201_23	has_surface_form	
+Pierre-Antoine Grison	surface_form	Pierre-Antoine Grison
+Pierre-Antoine Grison	has-genre	electronic music
+electronic music	surface_form	electronic music

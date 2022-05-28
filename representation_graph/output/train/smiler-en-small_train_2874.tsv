@@ -1,0 +1,62 @@
+2873_0	is_in_sentence	sentence_2873
+2873_0	compound	2873_1
+2873_0	has_surface_form	Diane
+2873_0	part_of_entity	Diane Duane
+2873_1	is_in_sentence	sentence_2873
+2873_1	nsubj	2873_9
+2873_1	has_surface_form	Duane
+2873_1	part_of_entity	Diane Duane
+2873_9	is_in_sentence	sentence_2873
+2873_9	ROOT	2873_9
+2873_9	has_surface_form	is
+2873_2	is_in_sentence	sentence_2873
+2873_2	punct	2873_1
+2873_2	has_surface_form	(
+2873_3	is_in_sentence	sentence_2873
+2873_3	acl	2873_1
+2873_3	has_surface_form	born
+2873_4	is_in_sentence	sentence_2873
+2873_4	npadvmod	2873_3
+2873_4	has_surface_form	May
+2873_5	is_in_sentence	sentence_2873
+2873_5	nummod	2873_4
+2873_5	has_surface_form	18
+2873_6	is_in_sentence	sentence_2873
+2873_6	punct	2873_4
+2873_6	has_surface_form	,
+2873_7	is_in_sentence	sentence_2873
+2873_7	nummod	2873_4
+2873_7	has_surface_form	1952
+2873_8	is_in_sentence	sentence_2873
+2873_8	punct	2873_1
+2873_8	has_surface_form	)
+2873_10	is_in_sentence	sentence_2873
+2873_10	det	2873_13
+2873_10	has_surface_form	an
+2873_13	is_in_sentence	sentence_2873
+2873_13	attr	2873_9
+2873_13	has_surface_form	fiction
+2873_11	is_in_sentence	sentence_2873
+2873_11	amod	2873_13
+2873_11	has_surface_form	American
+2873_12	is_in_sentence	sentence_2873
+2873_12	compound	2873_13
+2873_12	has_surface_form	science
+2873_14	is_in_sentence	sentence_2873
+2873_14	cc	2873_13
+2873_14	has_surface_form	and
+2873_15	is_in_sentence	sentence_2873
+2873_15	compound	2873_16
+2873_15	is_entity	fantasy
+2873_16	is_in_sentence	sentence_2873
+2873_16	conj	2873_13
+2873_16	has_surface_form	author
+fantasy	surface_form	fantasy
+2873_17	is_in_sentence	sentence_2873
+2873_17	punct	2873_9
+2873_17	has_surface_form	.
+2873_18	is_in_sentence	sentence_2873
+2873_18	dep	2873_18
+2873_18	has_surface_form	
+Diane Duane	surface_form	Diane Duane
+Diane Duane	has-genre	fantasy

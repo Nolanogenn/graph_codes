@@ -1,0 +1,59 @@
+31602_0	is_in_sentence	sentence_31602
+31602_0	det	31602_3
+31602_0	has_surface_form	The
+31602_3	is_in_sentence	sentence_31602
+31602_3	nsubj	31602_4
+31602_3	has_surface_form	projector
+31602_3	part_of_entity	movie projector
+31602_1	is_in_sentence	sentence_31602
+31602_1	amod	31602_3
+31602_1	has_surface_form	first
+31602_2	is_in_sentence	sentence_31602
+31602_2	compound	31602_3
+31602_2	has_surface_form	movie
+31602_2	part_of_entity	movie projector
+31602_4	is_in_sentence	sentence_31602
+31602_4	ROOT	31602_4
+31602_4	has_surface_form	was
+31602_5	is_in_sentence	sentence_31602
+31602_5	det	31602_6
+31602_5	has_surface_form	the
+31602_6	is_in_sentence	sentence_31602
+31602_6	attr	31602_4
+31602_6	has_surface_form	Zoopraxiscope
+31602_7	is_in_sentence	sentence_31602
+31602_7	punct	31602_6
+31602_7	has_surface_form	,
+31602_8	is_in_sentence	sentence_31602
+31602_8	acl	31602_6
+31602_8	has_surface_form	invented
+31602_9	is_in_sentence	sentence_31602
+31602_9	agent	31602_8
+31602_9	has_surface_form	by
+31602_10	is_in_sentence	sentence_31602
+31602_10	amod	31602_11
+31602_10	has_surface_form	British
+31602_11	is_in_sentence	sentence_31602
+31602_11	compound	31602_13
+31602_11	has_surface_form	photographer
+31602_13	is_in_sentence	sentence_31602
+31602_13	pobj	31602_9
+31602_13	has_surface_form	Muybridge
+31602_12	is_in_sentence	sentence_31602
+31602_12	compound	31602_13
+31602_12	has_surface_form	Eadweard
+31602_14	is_in_sentence	sentence_31602
+31602_14	prep	31602_8
+31602_14	has_surface_form	in
+31602_15	is_in_sentence	sentence_31602
+31602_15	pobj	31602_14
+31602_15	is_entity	1879
+1879	surface_form	1879
+31602_16	is_in_sentence	sentence_31602
+31602_16	punct	31602_4
+31602_16	has_surface_form	.
+31602_17	is_in_sentence	sentence_31602
+31602_17	dep	31602_17
+31602_17	has_surface_form	
+movie projector	surface_form	movie projector
+movie projector	invented-when	1879

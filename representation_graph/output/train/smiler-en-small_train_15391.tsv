@@ -1,0 +1,65 @@
+15390_0	is_in_sentence	sentence_15390
+15390_0	compound	15390_1
+15390_0	has_surface_form	David
+15390_0	part_of_entity	David Dalglish
+15390_1	is_in_sentence	sentence_15390
+15390_1	nsubj	15390_9
+15390_1	has_surface_form	Dalglish
+15390_1	part_of_entity	David Dalglish
+15390_9	is_in_sentence	sentence_15390
+15390_9	ROOT	15390_9
+15390_9	has_surface_form	is
+15390_2	is_in_sentence	sentence_15390
+15390_2	punct	15390_1
+15390_2	has_surface_form	(
+15390_3	is_in_sentence	sentence_15390
+15390_3	acl	15390_1
+15390_3	has_surface_form	born
+15390_4	is_in_sentence	sentence_15390
+15390_4	npadvmod	15390_3
+15390_4	has_surface_form	April
+15390_5	is_in_sentence	sentence_15390
+15390_5	nummod	15390_4
+15390_5	has_surface_form	2
+15390_6	is_in_sentence	sentence_15390
+15390_6	punct	15390_4
+15390_6	has_surface_form	,
+15390_7	is_in_sentence	sentence_15390
+15390_7	nummod	15390_4
+15390_7	has_surface_form	1984
+15390_8	is_in_sentence	sentence_15390
+15390_8	punct	15390_1
+15390_8	has_surface_form	)
+15390_10	is_in_sentence	sentence_15390
+15390_10	det	15390_12
+15390_10	has_surface_form	an
+15390_12	is_in_sentence	sentence_15390
+15390_12	attr	15390_9
+15390_12	has_surface_form	writer
+15390_11	is_in_sentence	sentence_15390
+15390_11	amod	15390_12
+15390_11	has_surface_form	American
+15390_13	is_in_sentence	sentence_15390
+15390_13	prep	15390_12
+15390_13	has_surface_form	of
+15390_14	is_in_sentence	sentence_15390
+15390_14	amod	15390_16
+15390_14	has_surface_form	epic
+15390_14	part_of_entity	epic fantasy fiction
+15390_16	is_in_sentence	sentence_15390
+15390_16	pobj	15390_13
+15390_16	has_surface_form	fiction
+15390_16	part_of_entity	epic fantasy fiction
+15390_15	is_in_sentence	sentence_15390
+15390_15	compound	15390_16
+15390_15	has_surface_form	fantasy
+15390_15	part_of_entity	epic fantasy fiction
+15390_17	is_in_sentence	sentence_15390
+15390_17	punct	15390_9
+15390_17	has_surface_form	.
+15390_18	is_in_sentence	sentence_15390
+15390_18	dep	15390_9
+15390_18	has_surface_form	
+David Dalglish	surface_form	David Dalglish
+David Dalglish	has-genre	epic fantasy fiction
+epic fantasy fiction	surface_form	epic fantasy fiction

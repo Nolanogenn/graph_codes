@@ -1,0 +1,71 @@
+22264_0	is_in_sentence	sentence_22264
+22264_0	det	22264_2
+22264_0	has_surface_form	The
+22264_0	part_of_entity	The Other Bank
+22264_2	is_in_sentence	sentence_22264
+22264_2	nsubj	22264_9
+22264_2	has_surface_form	Bank
+22264_2	part_of_entity	The Other Bank
+22264_1	is_in_sentence	sentence_22264
+22264_1	compound	22264_2
+22264_1	has_surface_form	Other
+22264_1	part_of_entity	The Other Bank
+22264_9	is_in_sentence	sentence_22264
+22264_9	ROOT	22264_9
+22264_9	has_surface_form	is
+22264_3	is_in_sentence	sentence_22264
+22264_3	punct	22264_9
+22264_3	has_surface_form	(
+22264_4	is_in_sentence	sentence_22264
+22264_4	nsubj	22264_9
+22264_4	has_surface_form	Georgian
+22264_5	is_in_sentence	sentence_22264
+22264_5	punct	22264_4
+22264_5	has_surface_form	:
+22264_6	is_in_sentence	sentence_22264
+22264_6	compound	22264_7
+22264_6	has_surface_form	გაღმა
+22264_7	is_in_sentence	sentence_22264
+22264_7	appos	22264_4
+22264_7	has_surface_form	ნაპირი
+22264_8	is_in_sentence	sentence_22264
+22264_8	punct	22264_4
+22264_8	has_surface_form	)
+22264_10	is_in_sentence	sentence_22264
+22264_10	det	22264_14
+22264_10	has_surface_form	a
+22264_14	is_in_sentence	sentence_22264
+22264_14	attr	22264_9
+22264_14	has_surface_form	film
+22264_11	is_in_sentence	sentence_22264
+22264_11	nummod	22264_14
+22264_11	has_surface_form	2009
+22264_12	is_in_sentence	sentence_22264
+22264_12	amod	22264_14
+22264_12	has_surface_form	Georgian
+22264_13	is_in_sentence	sentence_22264
+22264_13	compound	22264_14
+22264_13	has_surface_form	drama
+22264_15	is_in_sentence	sentence_22264
+22264_15	acl	22264_14
+22264_15	has_surface_form	directed
+22264_16	is_in_sentence	sentence_22264
+22264_16	agent	22264_15
+22264_16	has_surface_form	by
+22264_17	is_in_sentence	sentence_22264
+22264_17	compound	22264_18
+22264_17	has_surface_form	Giorgi
+22264_17	part_of_entity	Giorgi Ovashvili
+22264_18	is_in_sentence	sentence_22264
+22264_18	pobj	22264_16
+22264_18	has_surface_form	Ovashvili
+22264_18	part_of_entity	Giorgi Ovashvili
+22264_19	is_in_sentence	sentence_22264
+22264_19	punct	22264_9
+22264_19	has_surface_form	.
+22264_20	is_in_sentence	sentence_22264
+22264_20	dep	22264_20
+22264_20	has_surface_form	
+The Other Bank	surface_form	The Other Bank
+The Other Bank	movie-has-director	Giorgi Ovashvili
+Giorgi Ovashvili	surface_form	Giorgi Ovashvili

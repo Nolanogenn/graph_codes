@@ -1,0 +1,73 @@
+2364_0	is_in_sentence	sentence_2364
+2364_0	compound	2364_1
+2364_0	has_surface_form	Garden
+2364_0	part_of_entity	Garden City Community College
+2364_1	is_in_sentence	sentence_2364
+2364_1	compound	2364_3
+2364_1	has_surface_form	City
+2364_1	part_of_entity	Garden City Community College
+2364_3	is_in_sentence	sentence_2364
+2364_3	nsubj	2364_11
+2364_3	has_surface_form	College
+2364_3	part_of_entity	Garden City Community College
+2364_2	is_in_sentence	sentence_2364
+2364_2	nmod	2364_3
+2364_2	has_surface_form	Community
+2364_2	part_of_entity	Garden City Community College
+2364_11	is_in_sentence	sentence_2364
+2364_11	ROOT	2364_11
+2364_11	has_surface_form	is
+2364_4	is_in_sentence	sentence_2364
+2364_4	punct	2364_3
+2364_4	has_surface_form	(
+2364_5	is_in_sentence	sentence_2364
+2364_5	compound	2364_6
+2364_5	has_surface_form	Garden
+2364_6	is_in_sentence	sentence_2364
+2364_6	compound	2364_7
+2364_6	has_surface_form	City
+2364_7	is_in_sentence	sentence_2364
+2364_7	appos	2364_3
+2364_7	has_surface_form	CC
+2364_8	is_in_sentence	sentence_2364
+2364_8	cc	2364_7
+2364_8	has_surface_form	or
+2364_9	is_in_sentence	sentence_2364
+2364_9	conj	2364_7
+2364_9	has_surface_form	GCCC
+2364_10	is_in_sentence	sentence_2364
+2364_10	punct	2364_3
+2364_10	has_surface_form	)
+2364_12	is_in_sentence	sentence_2364
+2364_12	det	2364_14
+2364_12	has_surface_form	a
+2364_14	is_in_sentence	sentence_2364
+2364_14	attr	2364_11
+2364_14	has_surface_form	college
+2364_13	is_in_sentence	sentence_2364
+2364_13	compound	2364_14
+2364_13	has_surface_form	community
+2364_15	is_in_sentence	sentence_2364
+2364_15	prep	2364_14
+2364_15	has_surface_form	in
+2364_16	is_in_sentence	sentence_2364
+2364_16	compound	2364_17
+2364_16	has_surface_form	Garden
+2364_17	is_in_sentence	sentence_2364
+2364_17	pobj	2364_15
+2364_17	has_surface_form	City
+2364_18	is_in_sentence	sentence_2364
+2364_18	punct	2364_17
+2364_18	has_surface_form	,
+2364_19	is_in_sentence	sentence_2364
+2364_19	appos	2364_17
+2364_19	has_surface_form	Kansas
+2364_20	is_in_sentence	sentence_2364
+2364_20	punct	2364_11
+2364_20	has_surface_form	.
+2364_21	is_in_sentence	sentence_2364
+2364_21	dep	2364_11
+2364_21	has_surface_form	
+Garden City Community College	surface_form	Garden City Community College
+Garden City Community College	is-where	Garden City, Kansas
+Garden City, Kansas	surface_form	Garden City, Kansas

@@ -1,0 +1,56 @@
+28736_0	is_in_sentence	sentence_28736
+28736_0	compound	28736_1
+28736_0	has_surface_form	Mila
+28736_0	part_of_entity	Mila Mason
+28736_1	is_in_sentence	sentence_28736
+28736_1	nsubj	28736_9
+28736_1	has_surface_form	Mason
+28736_1	part_of_entity	Mila Mason
+28736_9	is_in_sentence	sentence_28736
+28736_9	ROOT	28736_9
+28736_9	has_surface_form	is
+28736_2	is_in_sentence	sentence_28736
+28736_2	punct	28736_1
+28736_2	has_surface_form	(
+28736_3	is_in_sentence	sentence_28736
+28736_3	acl	28736_1
+28736_3	has_surface_form	born
+28736_4	is_in_sentence	sentence_28736
+28736_4	npadvmod	28736_3
+28736_4	has_surface_form	August
+28736_5	is_in_sentence	sentence_28736
+28736_5	nummod	28736_4
+28736_5	has_surface_form	22
+28736_6	is_in_sentence	sentence_28736
+28736_6	punct	28736_4
+28736_6	has_surface_form	,
+28736_7	is_in_sentence	sentence_28736
+28736_7	nummod	28736_4
+28736_7	has_surface_form	1963
+28736_8	is_in_sentence	sentence_28736
+28736_8	punct	28736_1
+28736_8	has_surface_form	)
+28736_10	is_in_sentence	sentence_28736
+28736_10	det	28736_14
+28736_10	has_surface_form	an
+28736_14	is_in_sentence	sentence_28736
+28736_14	attr	28736_9
+28736_14	has_surface_form	artist
+28736_11	is_in_sentence	sentence_28736
+28736_11	amod	28736_14
+28736_11	is_entity	American
+American	surface_form	American
+28736_12	is_in_sentence	sentence_28736
+28736_12	compound	28736_13
+28736_12	has_surface_form	country
+28736_13	is_in_sentence	sentence_28736
+28736_13	compound	28736_14
+28736_13	has_surface_form	music
+28736_15	is_in_sentence	sentence_28736
+28736_15	punct	28736_9
+28736_15	has_surface_form	.
+28736_16	is_in_sentence	sentence_28736
+28736_16	dep	28736_9
+28736_16	has_surface_form	
+Mila Mason	surface_form	Mila Mason
+Mila Mason	has-nationality	American

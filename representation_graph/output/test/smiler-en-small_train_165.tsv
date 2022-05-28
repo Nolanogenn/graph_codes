@@ -1,0 +1,55 @@
+164_0	is_in_sentence	sentence_164
+164_0	compound	164_1
+164_0	has_surface_form	Mike
+164_0	part_of_entity	Mike Lucas
+164_1	is_in_sentence	sentence_164
+164_1	nsubj	164_9
+164_1	has_surface_form	Lucas
+164_1	part_of_entity	Mike Lucas
+164_9	is_in_sentence	sentence_164
+164_9	ROOT	164_9
+164_9	has_surface_form	is
+164_2	is_in_sentence	sentence_164
+164_2	punct	164_1
+164_2	has_surface_form	(
+164_3	is_in_sentence	sentence_164
+164_3	acl	164_1
+164_3	has_surface_form	born
+164_4	is_in_sentence	sentence_164
+164_4	npadvmod	164_3
+164_4	has_surface_form	March
+164_5	is_in_sentence	sentence_164
+164_5	nummod	164_4
+164_5	has_surface_form	7
+164_6	is_in_sentence	sentence_164
+164_6	punct	164_4
+164_6	has_surface_form	,
+164_7	is_in_sentence	sentence_164
+164_7	nummod	164_4
+164_7	has_surface_form	1959
+164_8	is_in_sentence	sentence_164
+164_8	punct	164_1
+164_8	has_surface_form	)
+164_10	is_in_sentence	sentence_164
+164_10	det	164_13
+164_10	has_surface_form	an
+164_13	is_in_sentence	sentence_164
+164_13	attr	164_9
+164_13	has_surface_form	coach
+164_13	part_of_entity	football coach
+164_11	is_in_sentence	sentence_164
+164_11	amod	164_13
+164_11	has_surface_form	American
+164_12	is_in_sentence	sentence_164
+164_12	compound	164_13
+164_12	has_surface_form	football
+164_12	part_of_entity	football coach
+164_14	is_in_sentence	sentence_164
+164_14	punct	164_9
+164_14	has_surface_form	.
+164_15	is_in_sentence	sentence_164
+164_15	dep	164_15
+164_15	has_surface_form	
+Mike Lucas	surface_form	Mike Lucas
+Mike Lucas	has-type	football coach
+football coach	surface_form	football coach

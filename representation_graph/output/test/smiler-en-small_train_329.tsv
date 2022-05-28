@@ -1,0 +1,55 @@
+328_0	is_in_sentence	sentence_328
+328_0	compound	328_1
+328_0	has_surface_form	Pakuan
+328_0	part_of_entity	Pakuan University
+328_1	is_in_sentence	sentence_328
+328_1	nsubj	328_5
+328_1	has_surface_form	University
+328_1	part_of_entity	Pakuan University
+328_5	is_in_sentence	sentence_328
+328_5	ROOT	328_5
+328_5	has_surface_form	is
+328_2	is_in_sentence	sentence_328
+328_2	punct	328_3
+328_2	has_surface_form	(
+328_3	is_in_sentence	sentence_328
+328_3	appos	328_1
+328_3	has_surface_form	UNPAK
+328_4	is_in_sentence	sentence_328
+328_4	punct	328_3
+328_4	has_surface_form	)
+328_6	is_in_sentence	sentence_328
+328_6	det	328_11
+328_6	has_surface_form	the
+328_11	is_in_sentence	sentence_328
+328_11	attr	328_5
+328_11	has_surface_form	university
+328_11	part_of_entity	private university
+328_7	is_in_sentence	sentence_328
+328_7	amod	328_11
+328_7	has_surface_form	oldest
+328_8	is_in_sentence	sentence_328
+328_8	cc	328_7
+328_8	has_surface_form	and
+328_9	is_in_sentence	sentence_328
+328_9	conj	328_7
+328_9	has_surface_form	biggest
+328_10	is_in_sentence	sentence_328
+328_10	amod	328_11
+328_10	has_surface_form	private
+328_10	part_of_entity	private university
+328_12	is_in_sentence	sentence_328
+328_12	prep	328_11
+328_12	has_surface_form	in
+328_13	is_in_sentence	sentence_328
+328_13	pobj	328_12
+328_13	has_surface_form	Bogor
+328_14	is_in_sentence	sentence_328
+328_14	punct	328_5
+328_14	has_surface_form	.
+328_15	is_in_sentence	sentence_328
+328_15	dep	328_5
+328_15	has_surface_form	
+Pakuan University	surface_form	Pakuan University
+Pakuan University	has-type	private university
+private university	surface_form	private university

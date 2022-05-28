@@ -1,0 +1,112 @@
+186_0	is_in_sentence	sentence_186
+186_0	det	186_2
+186_0	has_surface_form	The
+186_0	part_of_entity	The Cavalry Regiment El Rey
+186_2	is_in_sentence	sentence_186
+186_2	compound	186_4
+186_2	has_surface_form	Regiment
+186_2	part_of_entity	The Cavalry Regiment El Rey
+186_1	is_in_sentence	sentence_186
+186_1	compound	186_2
+186_1	has_surface_form	Cavalry
+186_1	part_of_entity	The Cavalry Regiment El Rey
+186_4	is_in_sentence	sentence_186
+186_4	nsubj	186_13
+186_4	has_surface_form	Rey
+186_4	part_of_entity	The Cavalry Regiment El Rey
+186_3	is_in_sentence	sentence_186
+186_3	compound	186_4
+186_3	has_surface_form	El
+186_3	part_of_entity	The Cavalry Regiment El Rey
+186_13	is_in_sentence	sentence_186
+186_13	ROOT	186_13
+186_13	has_surface_form	is
+186_5	is_in_sentence	sentence_186
+186_5	punct	186_6
+186_5	has_surface_form	(
+186_6	is_in_sentence	sentence_186
+186_6	appos	186_4
+186_6	has_surface_form	Spanish
+186_7	is_in_sentence	sentence_186
+186_7	punct	186_6
+186_7	has_surface_form	:
+186_8	is_in_sentence	sentence_186
+186_8	compound	186_10
+186_8	has_surface_form	Regimiento
+186_10	is_in_sentence	sentence_186
+186_10	compound	186_12
+186_10	has_surface_form	Caballería
+186_9	is_in_sentence	sentence_186
+186_9	compound	186_10
+186_9	has_surface_form	de
+186_12	is_in_sentence	sentence_186
+186_12	appos	186_4
+186_12	has_surface_form	Rey
+186_11	is_in_sentence	sentence_186
+186_11	compound	186_12
+186_11	has_surface_form	El
+186_14	is_in_sentence	sentence_186
+186_14	det	186_17
+186_14	has_surface_form	the
+186_17	is_in_sentence	sentence_186
+186_17	attr	186_13
+186_17	has_surface_form	regiment
+186_17	part_of_entity	cavalry regiment
+186_15	is_in_sentence	sentence_186
+186_15	amod	186_17
+186_15	has_surface_form	oldest
+186_16	is_in_sentence	sentence_186
+186_16	compound	186_17
+186_16	has_surface_form	cavalry
+186_16	part_of_entity	cavalry regiment
+186_18	is_in_sentence	sentence_186
+186_18	prep	186_17
+186_18	has_surface_form	in
+186_19	is_in_sentence	sentence_186
+186_19	det	186_21
+186_19	has_surface_form	the
+186_21	is_in_sentence	sentence_186
+186_21	pobj	186_18
+186_21	has_surface_form	Army
+186_20	is_in_sentence	sentence_186
+186_20	compound	186_21
+186_20	has_surface_form	Spanish
+186_22	is_in_sentence	sentence_186
+186_22	punct	186_13
+186_22	has_surface_form	,
+186_23	is_in_sentence	sentence_186
+186_23	advcl	186_13
+186_23	has_surface_form	distinguishing
+186_24	is_in_sentence	sentence_186
+186_24	dobj	186_23
+186_24	has_surface_form	itself
+186_25	is_in_sentence	sentence_186
+186_25	prep	186_23
+186_25	has_surface_form	on
+186_26	is_in_sentence	sentence_186
+186_26	amod	186_27
+186_26	has_surface_form	several
+186_27	is_in_sentence	sentence_186
+186_27	pobj	186_25
+186_27	has_surface_form	occasions
+186_28	is_in_sentence	sentence_186
+186_28	prep	186_23
+186_28	has_surface_form	during
+186_29	is_in_sentence	sentence_186
+186_29	det	186_31
+186_29	has_surface_form	the
+186_31	is_in_sentence	sentence_186
+186_31	pobj	186_28
+186_31	has_surface_form	War
+186_30	is_in_sentence	sentence_186
+186_30	compound	186_31
+186_30	has_surface_form	Peninsular
+186_32	is_in_sentence	sentence_186
+186_32	punct	186_13
+186_32	has_surface_form	.
+186_33	is_in_sentence	sentence_186
+186_33	dep	186_13
+186_33	has_surface_form	
+The Cavalry Regiment El Rey	surface_form	The Cavalry Regiment El Rey
+The Cavalry Regiment El Rey	has-type	cavalry regiment
+cavalry regiment	surface_form	cavalry regiment

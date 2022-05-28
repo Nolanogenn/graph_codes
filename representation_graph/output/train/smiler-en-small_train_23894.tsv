@@ -1,0 +1,65 @@
+23893_0	is_in_sentence	sentence_23893
+23893_0	det	23893_3
+23893_0	has_surface_form	The
+23893_3	is_in_sentence	sentence_23893
+23893_3	nsubj	23893_4
+23893_3	has_surface_form	Hospital
+23893_3	part_of_entity	Northern General Hospital
+23893_1	is_in_sentence	sentence_23893
+23893_1	compound	23893_2
+23893_1	has_surface_form	Northern
+23893_1	part_of_entity	Northern General Hospital
+23893_2	is_in_sentence	sentence_23893
+23893_2	compound	23893_3
+23893_2	has_surface_form	General
+23893_2	part_of_entity	Northern General Hospital
+23893_4	is_in_sentence	sentence_23893
+23893_4	ROOT	23893_4
+23893_4	has_surface_form	is
+23893_5	is_in_sentence	sentence_23893
+23893_5	det	23893_8
+23893_5	has_surface_form	a
+23893_8	is_in_sentence	sentence_23893
+23893_8	attr	23893_4
+23893_8	has_surface_form	hospital
+23893_8	part_of_entity	teaching hospital
+23893_6	is_in_sentence	sentence_23893
+23893_6	amod	23893_8
+23893_6	has_surface_form	large
+23893_7	is_in_sentence	sentence_23893
+23893_7	compound	23893_8
+23893_7	has_surface_form	teaching
+23893_7	part_of_entity	teaching hospital
+23893_9	is_in_sentence	sentence_23893
+23893_9	cc	23893_8
+23893_9	has_surface_form	and
+23893_10	is_in_sentence	sentence_23893
+23893_10	compound	23893_12
+23893_10	has_surface_form	Major
+23893_12	is_in_sentence	sentence_23893
+23893_12	conj	23893_8
+23893_12	has_surface_form	Centre
+23893_11	is_in_sentence	sentence_23893
+23893_11	compound	23893_12
+23893_11	has_surface_form	Trauma
+23893_13	is_in_sentence	sentence_23893
+23893_13	prep	23893_12
+23893_13	has_surface_form	in
+23893_14	is_in_sentence	sentence_23893
+23893_14	pobj	23893_13
+23893_14	has_surface_form	Sheffield
+23893_15	is_in_sentence	sentence_23893
+23893_15	punct	23893_14
+23893_15	has_surface_form	,
+23893_16	is_in_sentence	sentence_23893
+23893_16	appos	23893_14
+23893_16	has_surface_form	England
+23893_17	is_in_sentence	sentence_23893
+23893_17	punct	23893_4
+23893_17	has_surface_form	.
+23893_18	is_in_sentence	sentence_23893
+23893_18	dep	23893_4
+23893_18	has_surface_form	
+Northern General Hospital	surface_form	Northern General Hospital
+Northern General Hospital	has-type	teaching hospital
+teaching hospital	surface_form	teaching hospital

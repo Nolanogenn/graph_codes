@@ -1,0 +1,45 @@
+12929_0	is_in_sentence	sentence_12929
+12929_0	compound	12929_1
+12929_0	has_surface_form	Johnson
+12929_0	part_of_entity	Johnson University Florida
+12929_1	is_in_sentence	sentence_12929
+12929_1	compound	12929_2
+12929_1	has_surface_form	University
+12929_1	part_of_entity	Johnson University Florida
+12929_2	is_in_sentence	sentence_12929
+12929_2	nsubj	12929_3
+12929_2	has_surface_form	Florida
+12929_2	part_of_entity	Johnson University Florida
+12929_3	is_in_sentence	sentence_12929
+12929_3	ROOT	12929_3
+12929_3	has_surface_form	is
+12929_4	is_in_sentence	sentence_12929
+12929_4	det	12929_6
+12929_4	has_surface_form	a
+12929_6	is_in_sentence	sentence_12929
+12929_6	attr	12929_3
+12929_6	has_surface_form	university
+12929_5	is_in_sentence	sentence_12929
+12929_5	amod	12929_6
+12929_5	has_surface_form	private
+12929_7	is_in_sentence	sentence_12929
+12929_7	prep	12929_6
+12929_7	has_surface_form	in
+12929_8	is_in_sentence	sentence_12929
+12929_8	pobj	12929_7
+12929_8	has_surface_form	Kissimmee
+12929_9	is_in_sentence	sentence_12929
+12929_9	punct	12929_8
+12929_9	has_surface_form	,
+12929_10	is_in_sentence	sentence_12929
+12929_10	appos	12929_8
+12929_10	has_surface_form	Florida
+12929_11	is_in_sentence	sentence_12929
+12929_11	punct	12929_3
+12929_11	has_surface_form	.
+12929_12	is_in_sentence	sentence_12929
+12929_12	dep	12929_12
+12929_12	has_surface_form	
+Johnson University Florida	surface_form	Johnson University Florida
+Johnson University Florida	is-where	Kissimmee, Florida
+Kissimmee, Florida	surface_form	Kissimmee, Florida

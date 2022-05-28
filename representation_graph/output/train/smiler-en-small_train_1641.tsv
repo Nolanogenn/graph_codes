@@ -1,0 +1,65 @@
+1640_0	is_in_sentence	sentence_1640
+1640_0	compound	1640_1
+1640_0	has_surface_form	Britain
+1640_0	part_of_entity	Britain Patterson
+1640_1	is_in_sentence	sentence_1640
+1640_1	nsubj	1640_4
+1640_1	has_surface_form	Patterson
+1640_1	part_of_entity	Britain Patterson
+1640_4	is_in_sentence	sentence_1640
+1640_4	ccomp	1640_11
+1640_4	has_surface_form	spelled
+1640_2	is_in_sentence	sentence_1640
+1640_2	punct	1640_1
+1640_2	has_surface_form	,
+1640_3	is_in_sentence	sentence_1640
+1640_3	advmod	1640_4
+1640_3	has_surface_form	sometimes
+1640_11	is_in_sentence	sentence_1640
+1640_11	ROOT	1640_11
+1640_11	has_surface_form	was
+1640_5	is_in_sentence	sentence_1640
+1640_5	compound	1640_6
+1640_5	has_surface_form	Brit
+1640_6	is_in_sentence	sentence_1640
+1640_6	dobj	1640_4
+1640_6	has_surface_form	Patterson
+1640_7	is_in_sentence	sentence_1640
+1640_7	cc	1640_6
+1640_7	has_surface_form	and
+1640_8	is_in_sentence	sentence_1640
+1640_8	compound	1640_9
+1640_8	has_surface_form	Britton
+1640_9	is_in_sentence	sentence_1640
+1640_9	conj	1640_6
+1640_9	has_surface_form	Patterson
+1640_10	is_in_sentence	sentence_1640
+1640_10	punct	1640_11
+1640_10	has_surface_form	,
+1640_12	is_in_sentence	sentence_1640
+1640_12	det	1640_15
+1640_12	has_surface_form	an
+1640_15	is_in_sentence	sentence_1640
+1640_15	attr	1640_11
+1640_15	has_surface_form	player
+1640_13	is_in_sentence	sentence_1640
+1640_13	amod	1640_15
+1640_13	has_surface_form	American
+1640_14	is_in_sentence	sentence_1640
+1640_14	compound	1640_15
+1640_14	has_surface_form	football
+1640_16	is_in_sentence	sentence_1640
+1640_16	cc	1640_15
+1640_16	has_surface_form	and
+1640_17	is_in_sentence	sentence_1640
+1640_17	conj	1640_15
+1640_17	is_entity	coach
+coach	surface_form	coach
+1640_18	is_in_sentence	sentence_1640
+1640_18	punct	1640_11
+1640_18	has_surface_form	.
+1640_19	is_in_sentence	sentence_1640
+1640_19	dep	1640_19
+1640_19	has_surface_form	
+Britain Patterson	surface_form	Britain Patterson
+Britain Patterson	has-type	coach

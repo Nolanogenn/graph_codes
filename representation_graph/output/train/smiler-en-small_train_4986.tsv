@@ -1,0 +1,52 @@
+4985_0	is_in_sentence	sentence_4985
+4985_0	nsubjpass	4985_10
+4985_0	has_surface_form	Most
+4985_10	is_in_sentence	sentence_4985
+4985_10	ROOT	4985_10
+4985_10	has_surface_form	offered
+4985_1	is_in_sentence	sentence_4985
+4985_1	prep	4985_0
+4985_1	has_surface_form	of
+4985_2	is_in_sentence	sentence_4985
+4985_2	compound	4985_3
+4985_2	has_surface_form	Western
+4985_2	part_of_entity	Western Digital
+4985_3	is_in_sentence	sentence_4985
+4985_3	poss	4985_8
+4985_3	has_surface_form	Digital
+4985_3	part_of_entity	Western Digital
+4985_8	is_in_sentence	sentence_4985
+4985_8	pobj	4985_1
+4985_8	has_surface_form	products
+4985_4	is_in_sentence	sentence_4985
+4985_4	case	4985_3
+4985_4	has_surface_form	’s
+4985_5	is_in_sentence	sentence_4985
+4985_5	compound	4985_6
+4985_5	has_surface_form	consumer
+4985_6	is_in_sentence	sentence_4985
+4985_6	compound	4985_7
+4985_6	has_surface_form	flash
+4985_6	part_of_entity	flash memory
+4985_7	is_in_sentence	sentence_4985
+4985_7	compound	4985_8
+4985_7	has_surface_form	memory
+4985_7	part_of_entity	flash memory
+4985_9	is_in_sentence	sentence_4985
+4985_9	auxpass	4985_10
+4985_9	has_surface_form	are
+4985_11	is_in_sentence	sentence_4985
+4985_11	prep	4985_10
+4985_11	has_surface_form	through
+4985_12	is_in_sentence	sentence_4985
+4985_12	pobj	4985_11
+4985_12	has_surface_form	SanDisk
+4985_13	is_in_sentence	sentence_4985
+4985_13	punct	4985_10
+4985_13	has_surface_form	.
+4985_14	is_in_sentence	sentence_4985
+4985_14	dep	4985_10
+4985_14	has_surface_form	
+Western Digital	surface_form	Western Digital
+Western Digital	no_relation	flash memory
+flash memory	surface_form	flash memory

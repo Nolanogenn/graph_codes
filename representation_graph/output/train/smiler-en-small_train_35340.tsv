@@ -1,0 +1,86 @@
+35339_0	is_in_sentence	sentence_35339
+35339_0	prep	35339_11
+35339_0	has_surface_form	In
+35339_11	is_in_sentence	sentence_35339
+35339_11	ROOT	35339_11
+35339_11	has_surface_form	married
+35339_1	is_in_sentence	sentence_35339
+35339_1	pobj	35339_0
+35339_1	has_surface_form	1904
+35339_2	is_in_sentence	sentence_35339
+35339_2	punct	35339_11
+35339_2	has_surface_form	,
+35339_3	is_in_sentence	sentence_35339
+35339_3	compound	35339_4
+35339_3	has_surface_form	John
+35339_3	part_of_entity	John Archibald
+35339_4	is_in_sentence	sentence_35339
+35339_4	poss	35339_6
+35339_4	has_surface_form	Archibald
+35339_4	part_of_entity	John Archibald
+35339_6	is_in_sentence	sentence_35339
+35339_6	nsubj	35339_11
+35339_6	has_surface_form	daughter
+35339_5	is_in_sentence	sentence_35339
+35339_5	case	35339_4
+35339_5	has_surface_form	's
+35339_7	is_in_sentence	sentence_35339
+35339_7	punct	35339_6
+35339_7	has_surface_form	,
+35339_8	is_in_sentence	sentence_35339
+35339_8	compound	35339_10
+35339_8	has_surface_form	Janet
+35339_8	part_of_entity	Janet Mary Archibald
+35339_10	is_in_sentence	sentence_35339
+35339_10	appos	35339_6
+35339_10	has_surface_form	Archibald
+35339_10	part_of_entity	Janet Mary Archibald
+35339_9	is_in_sentence	sentence_35339
+35339_9	compound	35339_10
+35339_9	has_surface_form	Mary
+35339_9	part_of_entity	Janet Mary Archibald
+35339_12	is_in_sentence	sentence_35339
+35339_12	compound	35339_13
+35339_12	has_surface_form	Edwin
+35339_13	is_in_sentence	sentence_35339
+35339_13	dobj	35339_11
+35339_13	has_surface_form	Fowles
+35339_14	is_in_sentence	sentence_35339
+35339_14	punct	35339_13
+35339_14	has_surface_form	(
+35339_15	is_in_sentence	sentence_35339
+35339_15	advmod	35339_17
+35339_15	has_surface_form	also
+35339_17	is_in_sentence	sentence_35339
+35339_17	appos	35339_13
+35339_17	has_surface_form	Member
+35339_16	is_in_sentence	sentence_35339
+35339_16	det	35339_17
+35339_16	has_surface_form	a
+35339_18	is_in_sentence	sentence_35339
+35339_18	prep	35339_17
+35339_18	has_surface_form	of
+35339_19	is_in_sentence	sentence_35339
+35339_19	det	35339_22
+35339_19	has_surface_form	the
+35339_22	is_in_sentence	sentence_35339
+35339_22	pobj	35339_18
+35339_22	has_surface_form	Council
+35339_20	is_in_sentence	sentence_35339
+35339_20	compound	35339_22
+35339_20	has_surface_form	Queensland
+35339_21	is_in_sentence	sentence_35339
+35339_21	compound	35339_22
+35339_21	has_surface_form	Legislative
+35339_23	is_in_sentence	sentence_35339
+35339_23	punct	35339_13
+35339_23	has_surface_form	)
+35339_24	is_in_sentence	sentence_35339
+35339_24	punct	35339_11
+35339_24	has_surface_form	.
+35339_25	is_in_sentence	sentence_35339
+35339_25	dep	35339_25
+35339_25	has_surface_form	
+Janet Mary Archibald	surface_form	Janet Mary Archibald
+Janet Mary Archibald	has-parent	John Archibald
+John Archibald	surface_form	John Archibald

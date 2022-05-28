@@ -1,0 +1,72 @@
+3593_0	is_in_sentence	sentence_3593
+3593_0	compound	3593_2
+3593_0	has_surface_form	Fujita
+3593_0	part_of_entity	Fujita Health University
+3593_2	is_in_sentence	sentence_3593
+3593_2	nsubj	3593_10
+3593_2	has_surface_form	University
+3593_2	part_of_entity	Fujita Health University
+3593_1	is_in_sentence	sentence_3593
+3593_1	compound	3593_2
+3593_1	has_surface_form	Health
+3593_1	part_of_entity	Fujita Health University
+3593_10	is_in_sentence	sentence_3593
+3593_10	ROOT	3593_10
+3593_10	has_surface_form	is
+3593_3	is_in_sentence	sentence_3593
+3593_3	punct	3593_2
+3593_3	has_surface_form	(
+3593_4	is_in_sentence	sentence_3593
+3593_4	appos	3593_2
+3593_4	has_surface_form	藤田医科大学
+3593_5	is_in_sentence	sentence_3593
+3593_5	punct	3593_4
+3593_5	has_surface_form	,
+3593_6	is_in_sentence	sentence_3593
+3593_6	compound	3593_8
+3593_6	has_surface_form	Fujita
+3593_8	is_in_sentence	sentence_3593
+3593_8	npadvmod	3593_4
+3593_8	has_surface_form	Daigaku
+3593_7	is_in_sentence	sentence_3593
+3593_7	compound	3593_8
+3593_7	has_surface_form	Ika
+3593_9	is_in_sentence	sentence_3593
+3593_9	punct	3593_4
+3593_9	has_surface_form	)
+3593_11	is_in_sentence	sentence_3593
+3593_11	det	3593_13
+3593_11	has_surface_form	a
+3593_13	is_in_sentence	sentence_3593
+3593_13	attr	3593_10
+3593_13	has_surface_form	university
+3593_12	is_in_sentence	sentence_3593
+3593_12	amod	3593_13
+3593_12	has_surface_form	private
+3593_14	is_in_sentence	sentence_3593
+3593_14	prep	3593_13
+3593_14	has_surface_form	at
+3593_15	is_in_sentence	sentence_3593
+3593_15	pobj	3593_14
+3593_15	has_surface_form	Toyoake
+3593_16	is_in_sentence	sentence_3593
+3593_16	punct	3593_15
+3593_16	has_surface_form	,
+3593_17	is_in_sentence	sentence_3593
+3593_17	conj	3593_15
+3593_17	has_surface_form	Aichi
+3593_18	is_in_sentence	sentence_3593
+3593_18	punct	3593_17
+3593_18	has_surface_form	,
+3593_19	is_in_sentence	sentence_3593
+3593_19	appos	3593_17
+3593_19	has_surface_form	Japan
+3593_20	is_in_sentence	sentence_3593
+3593_20	punct	3593_10
+3593_20	has_surface_form	.
+3593_21	is_in_sentence	sentence_3593
+3593_21	dep	3593_10
+3593_21	has_surface_form	
+Fujita Health University	surface_form	Fujita Health University
+Fujita Health University	is-where	Toyoake, Aichi
+Toyoake, Aichi	surface_form	Toyoake, Aichi

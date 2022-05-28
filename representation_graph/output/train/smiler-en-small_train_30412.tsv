@@ -1,0 +1,45 @@
+30411_0	is_in_sentence	sentence_30411
+30411_0	poss	30411_2
+30411_0	is_entity	Snider
+30411_2	is_in_sentence	sentence_30411
+30411_2	nsubj	30411_8
+30411_2	has_surface_form	son
+Snider	surface_form	Snider
+Snider	has-child	Cody Blue Snider
+30411_1	is_in_sentence	sentence_30411
+30411_1	case	30411_0
+30411_1	has_surface_form	's
+30411_8	is_in_sentence	sentence_30411
+30411_8	ROOT	30411_8
+30411_8	has_surface_form	directed
+30411_3	is_in_sentence	sentence_30411
+30411_3	punct	30411_2
+30411_3	has_surface_form	,
+30411_4	is_in_sentence	sentence_30411
+30411_4	compound	30411_6
+30411_4	has_surface_form	Cody
+30411_4	part_of_entity	Cody Blue Snider
+30411_6	is_in_sentence	sentence_30411
+30411_6	appos	30411_2
+30411_6	is_entity	Snider
+30411_6	part_of_entity	Cody Blue Snider
+30411_5	is_in_sentence	sentence_30411
+30411_5	compound	30411_6
+30411_5	has_surface_form	Blue
+30411_5	part_of_entity	Cody Blue Snider
+30411_7	is_in_sentence	sentence_30411
+30411_7	punct	30411_2
+30411_7	has_surface_form	,
+30411_9	is_in_sentence	sentence_30411
+30411_9	det	30411_10
+30411_9	has_surface_form	the
+30411_10	is_in_sentence	sentence_30411
+30411_10	dobj	30411_8
+30411_10	has_surface_form	video
+30411_11	is_in_sentence	sentence_30411
+30411_11	punct	30411_8
+30411_11	has_surface_form	.
+30411_12	is_in_sentence	sentence_30411
+30411_12	dep	30411_12
+30411_12	has_surface_form	
+Cody Blue Snider	surface_form	Cody Blue Snider

@@ -1,0 +1,93 @@
+8080_0	is_in_sentence	sentence_8080
+8080_0	csubj	8080_4
+8080_0	has_surface_form	Fight
+8080_0	part_of_entity	Fight for Your Lady
+8080_4	is_in_sentence	sentence_8080
+8080_4	ROOT	8080_4
+8080_4	has_surface_form	is
+8080_1	is_in_sentence	sentence_8080
+8080_1	prep	8080_0
+8080_1	has_surface_form	for
+8080_1	part_of_entity	Fight for Your Lady
+8080_2	is_in_sentence	sentence_8080
+8080_2	poss	8080_3
+8080_2	has_surface_form	Your
+8080_2	part_of_entity	Fight for Your Lady
+8080_3	is_in_sentence	sentence_8080
+8080_3	pobj	8080_1
+8080_3	has_surface_form	Lady
+8080_3	part_of_entity	Fight for Your Lady
+8080_5	is_in_sentence	sentence_8080
+8080_5	det	8080_9
+8080_5	has_surface_form	a
+8080_9	is_in_sentence	sentence_8080
+8080_9	attr	8080_4
+8080_9	has_surface_form	film
+8080_6	is_in_sentence	sentence_8080
+8080_6	nummod	8080_9
+8080_6	has_surface_form	1937
+8080_7	is_in_sentence	sentence_8080
+8080_7	amod	8080_9
+8080_7	has_surface_form	American
+8080_8	is_in_sentence	sentence_8080
+8080_8	compound	8080_9
+8080_8	has_surface_form	comedy
+8080_10	is_in_sentence	sentence_8080
+8080_10	acl	8080_9
+8080_10	has_surface_form	directed
+8080_11	is_in_sentence	sentence_8080
+8080_11	agent	8080_10
+8080_11	has_surface_form	by
+8080_12	is_in_sentence	sentence_8080
+8080_12	compound	8080_13
+8080_12	has_surface_form	Benjamin
+8080_12	part_of_entity	Benjamin Stoloff
+8080_13	is_in_sentence	sentence_8080
+8080_13	pobj	8080_11
+8080_13	has_surface_form	Stoloff
+8080_13	part_of_entity	Benjamin Stoloff
+8080_14	is_in_sentence	sentence_8080
+8080_14	cc	8080_10
+8080_14	has_surface_form	and
+8080_15	is_in_sentence	sentence_8080
+8080_15	conj	8080_10
+8080_15	has_surface_form	written
+8080_16	is_in_sentence	sentence_8080
+8080_16	agent	8080_15
+8080_16	has_surface_form	by
+8080_17	is_in_sentence	sentence_8080
+8080_17	compound	8080_18
+8080_17	has_surface_form	Ernest
+8080_18	is_in_sentence	sentence_8080
+8080_18	pobj	8080_16
+8080_18	has_surface_form	Pagano
+8080_19	is_in_sentence	sentence_8080
+8080_19	punct	8080_18
+8080_19	has_surface_form	,
+8080_20	is_in_sentence	sentence_8080
+8080_20	compound	8080_21
+8080_20	has_surface_form	Harry
+8080_21	is_in_sentence	sentence_8080
+8080_21	appos	8080_18
+8080_21	has_surface_form	Segall
+8080_22	is_in_sentence	sentence_8080
+8080_22	cc	8080_21
+8080_22	has_surface_form	and
+8080_23	is_in_sentence	sentence_8080
+8080_23	compound	8080_25
+8080_23	has_surface_form	Harold
+8080_25	is_in_sentence	sentence_8080
+8080_25	conj	8080_21
+8080_25	has_surface_form	Kusel
+8080_24	is_in_sentence	sentence_8080
+8080_24	compound	8080_25
+8080_24	has_surface_form	Daniel
+8080_26	is_in_sentence	sentence_8080
+8080_26	punct	8080_4
+8080_26	has_surface_form	.
+8080_27	is_in_sentence	sentence_8080
+8080_27	dep	8080_4
+8080_27	has_surface_form	
+Fight for Your Lady	surface_form	Fight for Your Lady
+Fight for Your Lady	movie-has-director	Benjamin Stoloff
+Benjamin Stoloff	surface_form	Benjamin Stoloff

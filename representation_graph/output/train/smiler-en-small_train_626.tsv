@@ -1,0 +1,58 @@
+625_0	is_in_sentence	sentence_625
+625_0	det	625_1
+625_0	has_surface_form	The
+625_0	part_of_entity	The Lives of Others
+625_1	is_in_sentence	sentence_625
+625_1	nsubj	625_4
+625_1	has_surface_form	Lives
+625_1	part_of_entity	The Lives of Others
+625_4	is_in_sentence	sentence_625
+625_4	ROOT	625_4
+625_4	has_surface_form	won
+625_2	is_in_sentence	sentence_625
+625_2	prep	625_1
+625_2	has_surface_form	of
+625_2	part_of_entity	The Lives of Others
+625_3	is_in_sentence	sentence_625
+625_3	pobj	625_2
+625_3	has_surface_form	Others
+625_3	part_of_entity	The Lives of Others
+625_5	is_in_sentence	sentence_625
+625_5	det	625_7
+625_5	has_surface_form	the
+625_7	is_in_sentence	sentence_625
+625_7	dobj	625_4
+625_7	has_surface_form	Oscar
+625_7	part_of_entity	Oscar for Best Foreign Language Film
+625_6	is_in_sentence	sentence_625
+625_6	nummod	625_7
+625_6	has_surface_form	2006
+625_8	is_in_sentence	sentence_625
+625_8	prep	625_7
+625_8	has_surface_form	for
+625_8	part_of_entity	Oscar for Best Foreign Language Film
+625_9	is_in_sentence	sentence_625
+625_9	compound	625_12
+625_9	has_surface_form	Best
+625_9	part_of_entity	Oscar for Best Foreign Language Film
+625_12	is_in_sentence	sentence_625
+625_12	pobj	625_8
+625_12	has_surface_form	Film
+625_12	part_of_entity	Oscar for Best Foreign Language Film
+625_10	is_in_sentence	sentence_625
+625_10	compound	625_11
+625_10	has_surface_form	Foreign
+625_10	part_of_entity	Oscar for Best Foreign Language Film
+625_11	is_in_sentence	sentence_625
+625_11	compound	625_12
+625_11	has_surface_form	Language
+625_11	part_of_entity	Oscar for Best Foreign Language Film
+625_13	is_in_sentence	sentence_625
+625_13	punct	625_4
+625_13	has_surface_form	.
+625_14	is_in_sentence	sentence_625
+625_14	dep	625_4
+625_14	has_surface_form	
+The Lives of Others	surface_form	The Lives of Others
+The Lives of Others	won-award	Oscar for Best Foreign Language Film
+Oscar for Best Foreign Language Film	surface_form	Oscar for Best Foreign Language Film

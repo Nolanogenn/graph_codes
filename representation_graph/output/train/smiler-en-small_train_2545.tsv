@@ -1,0 +1,44 @@
+2544_0	is_in_sentence	sentence_2544
+2544_0	det	2544_5
+2544_0	has_surface_form	The
+2544_5	is_in_sentence	sentence_2544
+2544_5	nsubj	2544_6
+2544_5	has_surface_form	product
+2544_1	is_in_sentence	sentence_2544
+2544_1	amod	2544_5
+2544_1	has_surface_form	first
+2544_2	is_in_sentence	sentence_2544
+2544_2	nmod	2544_5
+2544_2	has_surface_form	Clean
+2544_2	part_of_entity	Clean & Clear
+2544_3	is_in_sentence	sentence_2544
+2544_3	cc	2544_2
+2544_3	has_surface_form	&
+2544_3	part_of_entity	Clean & Clear
+2544_4	is_in_sentence	sentence_2544
+2544_4	conj	2544_2
+2544_4	has_surface_form	Clear
+2544_4	part_of_entity	Clean & Clear
+2544_6	is_in_sentence	sentence_2544
+2544_6	ROOT	2544_6
+2544_6	has_surface_form	was
+2544_7	is_in_sentence	sentence_2544
+2544_7	det	2544_9
+2544_7	has_surface_form	a
+2544_9	is_in_sentence	sentence_2544
+2544_9	attr	2544_6
+2544_9	has_surface_form	cleanser
+2544_9	part_of_entity	skin cleanser
+2544_8	is_in_sentence	sentence_2544
+2544_8	compound	2544_9
+2544_8	has_surface_form	skin
+2544_8	part_of_entity	skin cleanser
+2544_10	is_in_sentence	sentence_2544
+2544_10	punct	2544_6
+2544_10	has_surface_form	.
+2544_11	is_in_sentence	sentence_2544
+2544_11	dep	2544_11
+2544_11	has_surface_form	
+Clean & Clear	surface_form	Clean & Clear
+Clean & Clear	first-product	skin cleanser
+skin cleanser	surface_form	skin cleanser

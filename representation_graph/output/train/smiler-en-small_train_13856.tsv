@@ -1,0 +1,62 @@
+13855_0	is_in_sentence	sentence_13855
+13855_0	compound	13855_1
+13855_0	has_surface_form	Kristoffer
+13855_0	part_of_entity	Kristoffer Zetterstrand
+13855_1	is_in_sentence	sentence_13855
+13855_1	nsubj	13855_13
+13855_1	has_surface_form	Zetterstrand
+13855_1	part_of_entity	Kristoffer Zetterstrand
+13855_13	is_in_sentence	sentence_13855
+13855_13	ROOT	13855_13
+13855_13	has_surface_form	is
+13855_2	is_in_sentence	sentence_13855
+13855_2	punct	13855_1
+13855_2	has_surface_form	(
+13855_3	is_in_sentence	sentence_13855
+13855_3	acl	13855_1
+13855_3	has_surface_form	born
+13855_4	is_in_sentence	sentence_13855
+13855_4	npadvmod	13855_3
+13855_4	has_surface_form	September
+13855_5	is_in_sentence	sentence_13855
+13855_5	nummod	13855_4
+13855_5	has_surface_form	27
+13855_6	is_in_sentence	sentence_13855
+13855_6	punct	13855_4
+13855_6	has_surface_form	,
+13855_7	is_in_sentence	sentence_13855
+13855_7	nummod	13855_4
+13855_7	has_surface_form	1973
+13855_8	is_in_sentence	sentence_13855
+13855_8	prep	13855_3
+13855_8	has_surface_form	in
+13855_9	is_in_sentence	sentence_13855
+13855_9	pobj	13855_8
+13855_9	is_entity	Stockholm
+Stockholm	surface_form	Stockholm
+13855_10	is_in_sentence	sentence_13855
+13855_10	punct	13855_9
+13855_10	has_surface_form	,
+13855_11	is_in_sentence	sentence_13855
+13855_11	appos	13855_9
+13855_11	has_surface_form	Sweden
+13855_12	is_in_sentence	sentence_13855
+13855_12	punct	13855_9
+13855_12	has_surface_form	)
+13855_14	is_in_sentence	sentence_13855
+13855_14	det	13855_16
+13855_14	has_surface_form	a
+13855_16	is_in_sentence	sentence_13855
+13855_16	attr	13855_13
+13855_16	has_surface_form	artist
+13855_15	is_in_sentence	sentence_13855
+13855_15	amod	13855_16
+13855_15	has_surface_form	Swedish
+13855_17	is_in_sentence	sentence_13855
+13855_17	punct	13855_13
+13855_17	has_surface_form	.
+13855_18	is_in_sentence	sentence_13855
+13855_18	dep	13855_13
+13855_18	has_surface_form	
+Kristoffer Zetterstrand	surface_form	Kristoffer Zetterstrand
+Kristoffer Zetterstrand	birth-place	Stockholm

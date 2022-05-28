@@ -1,0 +1,102 @@
+5926_0	is_in_sentence	sentence_5926
+5926_0	det	5926_1
+5926_0	has_surface_form	A
+5926_0	part_of_entity	A Night of Horror
+5926_1	is_in_sentence	sentence_5926
+5926_1	nsubj	5926_11
+5926_1	has_surface_form	Night
+5926_1	part_of_entity	A Night of Horror
+5926_11	is_in_sentence	sentence_5926
+5926_11	ROOT	5926_11
+5926_11	has_surface_form	is
+5926_2	is_in_sentence	sentence_5926
+5926_2	prep	5926_1
+5926_2	has_surface_form	of
+5926_2	part_of_entity	A Night of Horror
+5926_3	is_in_sentence	sentence_5926
+5926_3	pobj	5926_2
+5926_3	has_surface_form	Horror
+5926_3	part_of_entity	A Night of Horror
+5926_4	is_in_sentence	sentence_5926
+5926_4	punct	5926_5
+5926_4	has_surface_form	(
+5926_5	is_in_sentence	sentence_5926
+5926_5	appos	5926_1
+5926_5	has_surface_form	German
+5926_6	is_in_sentence	sentence_5926
+5926_6	punct	5926_5
+5926_6	has_surface_form	:
+5926_7	is_in_sentence	sentence_5926
+5926_7	compound	5926_9
+5926_7	has_surface_form	Nächte
+5926_9	is_in_sentence	sentence_5926
+5926_9	appos	5926_5
+5926_9	has_surface_form	Grauens
+5926_8	is_in_sentence	sentence_5926
+5926_8	compound	5926_9
+5926_8	has_surface_form	des
+5926_10	is_in_sentence	sentence_5926
+5926_10	punct	5926_5
+5926_10	has_surface_form	)
+5926_12	is_in_sentence	sentence_5926
+5926_12	det	5926_17
+5926_12	has_surface_form	a
+5926_17	is_in_sentence	sentence_5926
+5926_17	attr	5926_11
+5926_17	has_surface_form	film
+5926_13	is_in_sentence	sentence_5926
+5926_13	nummod	5926_17
+5926_13	has_surface_form	1916
+5926_14	is_in_sentence	sentence_5926
+5926_14	amod	5926_17
+5926_14	has_surface_form	silent
+5926_15	is_in_sentence	sentence_5926
+5926_15	amod	5926_17
+5926_15	has_surface_form	German
+5926_16	is_in_sentence	sentence_5926
+5926_16	compound	5926_17
+5926_16	has_surface_form	horror
+5926_18	is_in_sentence	sentence_5926
+5926_18	acl	5926_17
+5926_18	has_surface_form	directed
+5926_19	is_in_sentence	sentence_5926
+5926_19	agent	5926_18
+5926_19	has_surface_form	by
+5926_20	is_in_sentence	sentence_5926
+5926_20	compound	5926_21
+5926_20	has_surface_form	Richard
+5926_20	part_of_entity	Richard Oswald
+5926_21	is_in_sentence	sentence_5926
+5926_21	pobj	5926_19
+5926_21	has_surface_form	Oswald
+5926_21	part_of_entity	Richard Oswald
+5926_22	is_in_sentence	sentence_5926
+5926_22	punct	5926_21
+5926_22	has_surface_form	,
+5926_23	is_in_sentence	sentence_5926
+5926_23	compound	5926_24
+5926_23	has_surface_form	Arthur
+5926_24	is_in_sentence	sentence_5926
+5926_24	appos	5926_21
+5926_24	has_surface_form	Robison
+5926_25	is_in_sentence	sentence_5926
+5926_25	cc	5926_18
+5926_25	has_surface_form	and
+5926_26	is_in_sentence	sentence_5926
+5926_26	conj	5926_18
+5926_26	has_surface_form	starring
+5926_27	is_in_sentence	sentence_5926
+5926_27	compound	5926_28
+5926_27	has_surface_form	Werner
+5926_28	is_in_sentence	sentence_5926
+5926_28	dobj	5926_26
+5926_28	has_surface_form	Krauss
+5926_29	is_in_sentence	sentence_5926
+5926_29	punct	5926_11
+5926_29	has_surface_form	.
+5926_30	is_in_sentence	sentence_5926
+5926_30	dep	5926_11
+5926_30	has_surface_form	
+A Night of Horror	surface_form	A Night of Horror
+A Night of Horror	movie-has-director	Richard Oswald
+Richard Oswald	surface_form	Richard Oswald

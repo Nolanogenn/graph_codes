@@ -1,0 +1,61 @@
+21116_0	is_in_sentence	sentence_21116
+21116_0	compound	21116_1
+21116_0	has_surface_form	Macro
+21116_0	part_of_entity	Macro Sea
+21116_1	is_in_sentence	sentence_21116
+21116_1	nsubj	21116_2
+21116_1	has_surface_form	Sea
+21116_1	part_of_entity	Macro Sea
+21116_2	is_in_sentence	sentence_21116
+21116_2	ROOT	21116_2
+21116_2	has_surface_form	is
+21116_3	is_in_sentence	sentence_21116
+21116_3	det	21116_8
+21116_3	has_surface_form	an
+21116_8	is_in_sentence	sentence_21116
+21116_8	attr	21116_2
+21116_8	has_surface_form	firm
+21116_4	is_in_sentence	sentence_21116
+21116_4	amod	21116_8
+21116_4	has_surface_form	American
+21116_5	is_in_sentence	sentence_21116
+21116_5	amod	21116_6
+21116_5	has_surface_form	real
+21116_6	is_in_sentence	sentence_21116
+21116_6	compound	21116_7
+21116_6	has_surface_form	estate
+21116_7	is_in_sentence	sentence_21116
+21116_7	compound	21116_8
+21116_7	has_surface_form	development
+21116_9	is_in_sentence	sentence_21116
+21116_9	acl	21116_8
+21116_9	has_surface_form	formed
+21116_10	is_in_sentence	sentence_21116
+21116_10	prep	21116_9
+21116_10	has_surface_form	in
+21116_11	is_in_sentence	sentence_21116
+21116_11	pobj	21116_10
+21116_11	has_surface_form	2009
+21116_12	is_in_sentence	sentence_21116
+21116_12	agent	21116_9
+21116_12	has_surface_form	by
+21116_13	is_in_sentence	sentence_21116
+21116_13	compound	21116_15
+21116_13	has_surface_form	developer
+21116_15	is_in_sentence	sentence_21116
+21116_15	pobj	21116_12
+21116_15	has_surface_form	Belt
+21116_15	part_of_entity	David Belt
+21116_14	is_in_sentence	sentence_21116
+21116_14	compound	21116_15
+21116_14	has_surface_form	David
+21116_14	part_of_entity	David Belt
+21116_16	is_in_sentence	sentence_21116
+21116_16	punct	21116_2
+21116_16	has_surface_form	.
+21116_17	is_in_sentence	sentence_21116
+21116_17	dep	21116_2
+21116_17	has_surface_form	
+Macro Sea	surface_form	Macro Sea
+Macro Sea	org-has-founder	David Belt
+David Belt	surface_form	David Belt

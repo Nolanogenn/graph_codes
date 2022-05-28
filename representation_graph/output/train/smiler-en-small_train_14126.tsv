@@ -1,0 +1,57 @@
+14125_0	is_in_sentence	sentence_14125
+14125_0	det	14125_1
+14125_0	has_surface_form	A
+14125_0	part_of_entity	A tu per tu
+14125_1	is_in_sentence	sentence_14125
+14125_1	nsubj	14125_4
+14125_1	has_surface_form	tu
+14125_1	part_of_entity	A tu per tu
+14125_4	is_in_sentence	sentence_14125
+14125_4	ROOT	14125_4
+14125_4	has_surface_form	is
+14125_2	is_in_sentence	sentence_14125
+14125_2	prep	14125_1
+14125_2	has_surface_form	per
+14125_2	part_of_entity	A tu per tu
+14125_3	is_in_sentence	sentence_14125
+14125_3	pobj	14125_2
+14125_3	has_surface_form	tu
+14125_3	part_of_entity	A tu per tu
+14125_5	is_in_sentence	sentence_14125
+14125_5	det	14125_9
+14125_5	has_surface_form	a
+14125_9	is_in_sentence	sentence_14125
+14125_9	attr	14125_4
+14125_9	has_surface_form	film
+14125_6	is_in_sentence	sentence_14125
+14125_6	nummod	14125_9
+14125_6	has_surface_form	1984
+14125_7	is_in_sentence	sentence_14125
+14125_7	amod	14125_9
+14125_7	has_surface_form	Italian
+14125_8	is_in_sentence	sentence_14125
+14125_8	compound	14125_9
+14125_8	has_surface_form	comedy
+14125_10	is_in_sentence	sentence_14125
+14125_10	acl	14125_9
+14125_10	has_surface_form	directed
+14125_11	is_in_sentence	sentence_14125
+14125_11	agent	14125_10
+14125_11	has_surface_form	by
+14125_12	is_in_sentence	sentence_14125
+14125_12	compound	14125_13
+14125_12	has_surface_form	Sergio
+14125_12	part_of_entity	Sergio Corbucci
+14125_13	is_in_sentence	sentence_14125
+14125_13	pobj	14125_11
+14125_13	has_surface_form	Corbucci
+14125_13	part_of_entity	Sergio Corbucci
+14125_14	is_in_sentence	sentence_14125
+14125_14	punct	14125_4
+14125_14	has_surface_form	.
+14125_15	is_in_sentence	sentence_14125
+14125_15	dep	14125_15
+14125_15	has_surface_form	
+A tu per tu	surface_form	A tu per tu
+A tu per tu	movie-has-director	Sergio Corbucci
+Sergio Corbucci	surface_form	Sergio Corbucci

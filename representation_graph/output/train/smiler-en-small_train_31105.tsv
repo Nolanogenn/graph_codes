@@ -1,0 +1,62 @@
+31104_0	is_in_sentence	sentence_31104
+31104_0	compound	31104_1
+31104_0	has_surface_form	Dariusz
+31104_0	part_of_entity	Dariusz Koseła
+31104_1	is_in_sentence	sentence_31104
+31104_1	nsubj	31104_11
+31104_1	has_surface_form	Koseła
+31104_1	part_of_entity	Dariusz Koseła
+31104_11	is_in_sentence	sentence_31104
+31104_11	ROOT	31104_11
+31104_11	has_surface_form	is
+31104_2	is_in_sentence	sentence_31104
+31104_2	punct	31104_1
+31104_2	has_surface_form	(
+31104_3	is_in_sentence	sentence_31104
+31104_3	acl	31104_1
+31104_3	has_surface_form	born
+31104_4	is_in_sentence	sentence_31104
+31104_4	npadvmod	31104_3
+31104_4	has_surface_form	February
+31104_5	is_in_sentence	sentence_31104
+31104_5	nummod	31104_4
+31104_5	has_surface_form	12
+31104_6	is_in_sentence	sentence_31104
+31104_6	punct	31104_4
+31104_6	has_surface_form	,
+31104_7	is_in_sentence	sentence_31104
+31104_7	nummod	31104_4
+31104_7	has_surface_form	1970
+31104_8	is_in_sentence	sentence_31104
+31104_8	prep	31104_3
+31104_8	has_surface_form	in
+31104_9	is_in_sentence	sentence_31104
+31104_9	pobj	31104_8
+31104_9	is_entity	Zabrze
+Zabrze	surface_form	Zabrze
+31104_10	is_in_sentence	sentence_31104
+31104_10	punct	31104_1
+31104_10	has_surface_form	)
+31104_12	is_in_sentence	sentence_31104
+31104_12	det	31104_16
+31104_12	has_surface_form	a
+31104_16	is_in_sentence	sentence_31104
+31104_16	attr	31104_11
+31104_16	has_surface_form	player
+31104_13	is_in_sentence	sentence_31104
+31104_13	amod	31104_16
+31104_13	has_surface_form	retired
+31104_14	is_in_sentence	sentence_31104
+31104_14	amod	31104_16
+31104_14	has_surface_form	Polish
+31104_15	is_in_sentence	sentence_31104
+31104_15	compound	31104_16
+31104_15	has_surface_form	football
+31104_17	is_in_sentence	sentence_31104
+31104_17	punct	31104_11
+31104_17	has_surface_form	.
+31104_18	is_in_sentence	sentence_31104
+31104_18	dep	31104_18
+31104_18	has_surface_form	
+Dariusz Koseła	surface_form	Dariusz Koseła
+Dariusz Koseła	birth-place	Zabrze

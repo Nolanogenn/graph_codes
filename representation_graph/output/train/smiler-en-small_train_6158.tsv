@@ -1,0 +1,62 @@
+6157_0	is_in_sentence	sentence_6157
+6157_0	compound	6157_1
+6157_0	has_surface_form	Out
+6157_0	part_of_entity	Out Run
+6157_1	is_in_sentence	sentence_6157
+6157_1	nsubj	6157_7
+6157_1	has_surface_form	Run
+6157_1	part_of_entity	Out Run
+6157_7	is_in_sentence	sentence_6157
+6157_7	ROOT	6157_7
+6157_7	has_surface_form	became
+6157_2	is_in_sentence	sentence_6157
+6157_2	punct	6157_1
+6157_2	has_surface_form	,
+6157_3	is_in_sentence	sentence_6157
+6157_3	acl	6157_1
+6157_3	has_surface_form	released
+6157_4	is_in_sentence	sentence_6157
+6157_4	prep	6157_3
+6157_4	has_surface_form	in
+6157_5	is_in_sentence	sentence_6157
+6157_5	pobj	6157_4
+6157_5	has_surface_form	1986
+6157_6	is_in_sentence	sentence_6157
+6157_6	punct	6157_1
+6157_6	has_surface_form	,
+6157_8	is_in_sentence	sentence_6157
+6157_8	poss	6157_13
+6157_8	is_entity	Sega
+6157_13	is_in_sentence	sentence_6157
+6157_13	attr	6157_7
+6157_13	has_surface_form	cabinet
+Sega	surface_form	Sega
+6157_9	is_in_sentence	sentence_6157
+6157_9	case	6157_8
+6157_9	has_surface_form	's
+6157_10	is_in_sentence	sentence_6157
+6157_10	amod	6157_11
+6157_10	has_surface_form	best
+6157_11	is_in_sentence	sentence_6157
+6157_11	amod	6157_13
+6157_11	has_surface_form	selling
+6157_12	is_in_sentence	sentence_6157
+6157_12	compound	6157_13
+6157_12	has_surface_form	arcade
+6157_14	is_in_sentence	sentence_6157
+6157_14	prep	6157_13
+6157_14	has_surface_form	of
+6157_15	is_in_sentence	sentence_6157
+6157_15	det	6157_16
+6157_15	has_surface_form	the
+6157_16	is_in_sentence	sentence_6157
+6157_16	pobj	6157_14
+6157_16	has_surface_form	1980s
+6157_17	is_in_sentence	sentence_6157
+6157_17	punct	6157_7
+6157_17	has_surface_form	.
+6157_18	is_in_sentence	sentence_6157
+6157_18	dep	6157_18
+6157_18	has_surface_form	
+Out Run	surface_form	Out Run
+Out Run	no_relation	Sega

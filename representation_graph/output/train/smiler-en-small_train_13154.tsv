@@ -1,0 +1,91 @@
+13153_0	is_in_sentence	sentence_13153
+13153_0	compound	13153_1
+13153_0	has_surface_form	Aadu
+13153_0	part_of_entity	Aadu Puli
+13153_1	is_in_sentence	sentence_13153
+13153_1	nsubj	13153_3
+13153_1	has_surface_form	Puli
+13153_1	part_of_entity	Aadu Puli
+13153_3	is_in_sentence	sentence_13153
+13153_3	ROOT	13153_3
+13153_3	has_surface_form	lit
+13153_2	is_in_sentence	sentence_13153
+13153_2	punct	13153_3
+13153_2	has_surface_form	(
+13153_4	is_in_sentence	sentence_13153
+13153_4	punct	13153_3
+13153_4	has_surface_form	.
+13153_5	is_in_sentence	sentence_13153
+13153_5	dep	13153_6
+13153_5	has_surface_form	 
+13153_6	is_in_sentence	sentence_13153
+13153_6	nsubj	13153_10
+13153_6	has_surface_form	Goat
+13153_10	is_in_sentence	sentence_13153
+13153_10	ROOT	13153_10
+13153_10	has_surface_form	is
+13153_7	is_in_sentence	sentence_13153
+13153_7	punct	13153_6
+13153_7	has_surface_form	,
+13153_8	is_in_sentence	sentence_13153
+13153_8	appos	13153_6
+13153_8	has_surface_form	Tiger
+13153_9	is_in_sentence	sentence_13153
+13153_9	punct	13153_6
+13153_9	has_surface_form	)
+13153_11	is_in_sentence	sentence_13153
+13153_11	det	13153_18
+13153_11	has_surface_form	a
+13153_18	is_in_sentence	sentence_13153
+13153_18	attr	13153_10
+13153_18	has_surface_form	film
+13153_12	is_in_sentence	sentence_13153
+13153_12	nummod	13153_18
+13153_12	has_surface_form	2011
+13153_13	is_in_sentence	sentence_13153
+13153_13	amod	13153_18
+13153_13	has_surface_form	Indian
+13153_14	is_in_sentence	sentence_13153
+13153_14	compound	13153_18
+13153_14	has_surface_form	Tamil
+13153_15	is_in_sentence	sentence_13153
+13153_15	compound	13153_16
+13153_15	has_surface_form	language
+13153_16	is_in_sentence	sentence_13153
+13153_16	compound	13153_17
+13153_16	has_surface_form	action
+13153_17	is_in_sentence	sentence_13153
+13153_17	compound	13153_18
+13153_17	has_surface_form	masala
+13153_19	is_in_sentence	sentence_13153
+13153_19	acl	13153_18
+13153_19	has_surface_form	written
+13153_20	is_in_sentence	sentence_13153
+13153_20	cc	13153_19
+13153_20	has_surface_form	and
+13153_21	is_in_sentence	sentence_13153
+13153_21	conj	13153_19
+13153_21	has_surface_form	directed
+13153_22	is_in_sentence	sentence_13153
+13153_22	agent	13153_21
+13153_22	has_surface_form	by
+13153_23	is_in_sentence	sentence_13153
+13153_23	compound	13153_25
+13153_23	has_surface_form	newcomer
+13153_25	is_in_sentence	sentence_13153
+13153_25	pobj	13153_22
+13153_25	has_surface_form	Prakash
+13153_25	part_of_entity	Vijay Prakash
+13153_24	is_in_sentence	sentence_13153
+13153_24	compound	13153_25
+13153_24	has_surface_form	Vijay
+13153_24	part_of_entity	Vijay Prakash
+13153_26	is_in_sentence	sentence_13153
+13153_26	punct	13153_10
+13153_26	has_surface_form	.
+13153_27	is_in_sentence	sentence_13153
+13153_27	dep	13153_10
+13153_27	has_surface_form	
+Aadu Puli	surface_form	Aadu Puli
+Aadu Puli	movie-has-director	Vijay Prakash
+Vijay Prakash	surface_form	Vijay Prakash

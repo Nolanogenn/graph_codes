@@ -1,0 +1,94 @@
+25402_0	is_in_sentence	sentence_25402
+25402_0	nsubj	25402_1
+25402_0	has_surface_form	She
+25402_1	is_in_sentence	sentence_25402
+25402_1	ROOT	25402_1
+25402_1	has_surface_form	gave
+25402_2	is_in_sentence	sentence_25402
+25402_2	dobj	25402_1
+25402_2	has_surface_form	birth
+25402_3	is_in_sentence	sentence_25402
+25402_3	prep	25402_1
+25402_3	has_surface_form	to
+25402_4	is_in_sentence	sentence_25402
+25402_4	pobj	25402_3
+25402_4	has_surface_form	twins
+25402_5	is_in_sentence	sentence_25402
+25402_5	dobj	25402_4
+25402_5	has_surface_form	Herbert
+25402_6	is_in_sentence	sentence_25402
+25402_6	punct	25402_5
+25402_6	has_surface_form	(
+25402_7	is_in_sentence	sentence_25402
+25402_7	appos	25402_5
+25402_7	has_surface_form	1921
+25402_8	is_in_sentence	sentence_25402
+25402_8	punct	25402_5
+25402_8	has_surface_form	-
+25402_9	is_in_sentence	sentence_25402
+25402_9	nummod	25402_5
+25402_9	has_surface_form	2008
+25402_10	is_in_sentence	sentence_25402
+25402_10	punct	25402_5
+25402_10	has_surface_form	)
+25402_11	is_in_sentence	sentence_25402
+25402_11	cc	25402_1
+25402_11	has_surface_form	and
+25402_12	is_in_sentence	sentence_25402
+25402_12	compound	25402_13
+25402_12	has_surface_form	Bernard
+25402_12	part_of_entity	Bernard Zipkin
+25402_13	is_in_sentence	sentence_25402
+25402_13	conj	25402_1
+25402_13	has_surface_form	Zipkin
+25402_13	part_of_entity	Bernard Zipkin
+25402_14	is_in_sentence	sentence_25402
+25402_14	punct	25402_13
+25402_14	has_surface_form	(
+25402_15	is_in_sentence	sentence_25402
+25402_15	appos	25402_13
+25402_15	has_surface_form	1921
+25402_16	is_in_sentence	sentence_25402
+25402_16	punct	25402_13
+25402_16	has_surface_form	-
+25402_17	is_in_sentence	sentence_25402
+25402_17	appos	25402_13
+25402_17	has_surface_form	2016
+25402_18	is_in_sentence	sentence_25402
+25402_18	punct	25402_13
+25402_18	has_surface_form	)
+25402_19	is_in_sentence	sentence_25402
+25402_19	punct	25402_13
+25402_19	has_surface_form	,
+25402_20	is_in_sentence	sentence_25402
+25402_20	prep	25402_1
+25402_20	has_surface_form	by
+25402_21	is_in_sentence	sentence_25402
+25402_21	compound	25402_22
+25402_21	has_surface_form	Harry
+25402_21	part_of_entity	Harry Zipkin
+25402_22	is_in_sentence	sentence_25402
+25402_22	pobj	25402_20
+25402_22	has_surface_form	Zipkin
+25402_22	part_of_entity	Harry Zipkin
+25402_23	is_in_sentence	sentence_25402
+25402_23	punct	25402_22
+25402_23	has_surface_form	,
+25402_24	is_in_sentence	sentence_25402
+25402_24	det	25402_26
+25402_24	has_surface_form	a
+25402_26	is_in_sentence	sentence_25402
+25402_26	appos	25402_22
+25402_26	has_surface_form	painter
+25402_25	is_in_sentence	sentence_25402
+25402_25	compound	25402_26
+25402_25	has_surface_form	Brooklyn
+25402_27	is_in_sentence	sentence_25402
+25402_27	punct	25402_1
+25402_27	has_surface_form	.
+25402_28	is_in_sentence	sentence_25402
+25402_28	dep	25402_28
+25402_28	has_surface_form	
+Harry Zipkin	surface_form	Harry Zipkin
+Harry Zipkin	has-child	Bernard Zipkin
+Bernard Zipkin	surface_form	Bernard Zipkin

@@ -1,0 +1,86 @@
+32300_0	is_in_sentence	sentence_32300
+32300_0	det	32300_2
+32300_0	has_surface_form	A
+32300_0	part_of_entity	A Simple Case
+32300_2	is_in_sentence	sentence_32300
+32300_2	nsubj	32300_12
+32300_2	has_surface_form	Case
+32300_2	part_of_entity	A Simple Case
+32300_1	is_in_sentence	sentence_32300
+32300_1	compound	32300_2
+32300_1	has_surface_form	Simple
+32300_1	part_of_entity	A Simple Case
+32300_12	is_in_sentence	sentence_32300
+32300_12	ROOT	32300_12
+32300_12	has_surface_form	is
+32300_3	is_in_sentence	sentence_32300
+32300_3	punct	32300_4
+32300_3	has_surface_form	(
+32300_4	is_in_sentence	sentence_32300
+32300_4	appos	32300_2
+32300_4	has_surface_form	Russian
+32300_5	is_in_sentence	sentence_32300
+32300_5	punct	32300_4
+32300_5	has_surface_form	:
+32300_6	is_in_sentence	sentence_32300
+32300_6	compound	32300_7
+32300_6	has_surface_form	Простой
+32300_7	is_in_sentence	sentence_32300
+32300_7	appos	32300_2
+32300_7	has_surface_form	случай
+32300_8	is_in_sentence	sentence_32300
+32300_8	punct	32300_7
+32300_8	has_surface_form	,
+32300_9	is_in_sentence	sentence_32300
+32300_9	compound	32300_10
+32300_9	has_surface_form	Prostoy
+32300_10	is_in_sentence	sentence_32300
+32300_10	appos	32300_7
+32300_10	has_surface_form	sloochay
+32300_11	is_in_sentence	sentence_32300
+32300_11	punct	32300_7
+32300_11	has_surface_form	)
+32300_13	is_in_sentence	sentence_32300
+32300_13	det	32300_16
+32300_13	has_surface_form	a
+32300_16	is_in_sentence	sentence_32300
+32300_16	attr	32300_12
+32300_16	has_surface_form	film
+32300_14	is_in_sentence	sentence_32300
+32300_14	nummod	32300_16
+32300_14	has_surface_form	1932
+32300_15	is_in_sentence	sentence_32300
+32300_15	amod	32300_16
+32300_15	has_surface_form	Soviet
+32300_17	is_in_sentence	sentence_32300
+32300_17	acl	32300_16
+32300_17	has_surface_form	directed
+32300_18	is_in_sentence	sentence_32300
+32300_18	agent	32300_17
+32300_18	has_surface_form	by
+32300_19	is_in_sentence	sentence_32300
+32300_19	compound	32300_20
+32300_19	has_surface_form	Vsevolod
+32300_19	part_of_entity	Vsevolod Pudovkin
+32300_20	is_in_sentence	sentence_32300
+32300_20	pobj	32300_18
+32300_20	has_surface_form	Pudovkin
+32300_20	part_of_entity	Vsevolod Pudovkin
+32300_21	is_in_sentence	sentence_32300
+32300_21	cc	32300_20
+32300_21	has_surface_form	and
+32300_22	is_in_sentence	sentence_32300
+32300_22	compound	32300_23
+32300_22	has_surface_form	Mikhail
+32300_23	is_in_sentence	sentence_32300
+32300_23	conj	32300_20
+32300_23	has_surface_form	Doller
+32300_24	is_in_sentence	sentence_32300
+32300_24	punct	32300_12
+32300_24	has_surface_form	.
+32300_25	is_in_sentence	sentence_32300
+32300_25	dep	32300_12
+32300_25	has_surface_form	
+A Simple Case	surface_form	A Simple Case
+A Simple Case	movie-has-director	Vsevolod Pudovkin
+Vsevolod Pudovkin	surface_form	Vsevolod Pudovkin

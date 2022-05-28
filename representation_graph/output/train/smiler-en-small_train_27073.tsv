@@ -1,0 +1,62 @@
+27072_0	is_in_sentence	sentence_27072
+27072_0	compound	27072_1
+27072_0	has_surface_form	Pennsylvania
+27072_0	part_of_entity	Pennsylvania Route 329
+27072_1	is_in_sentence	sentence_27072
+27072_1	nsubj	27072_7
+27072_1	has_surface_form	Route
+27072_1	part_of_entity	Pennsylvania Route 329
+27072_7	is_in_sentence	sentence_27072
+27072_7	ROOT	27072_7
+27072_7	has_surface_form	is
+27072_2	is_in_sentence	sentence_27072
+27072_2	nummod	27072_1
+27072_2	has_surface_form	329
+27072_2	part_of_entity	Pennsylvania Route 329
+27072_3	is_in_sentence	sentence_27072
+27072_3	punct	27072_1
+27072_3	has_surface_form	(
+27072_4	is_in_sentence	sentence_27072
+27072_4	appos	27072_1
+27072_4	has_surface_form	PA
+27072_5	is_in_sentence	sentence_27072
+27072_5	nummod	27072_4
+27072_5	has_surface_form	329
+27072_6	is_in_sentence	sentence_27072
+27072_6	punct	27072_4
+27072_6	has_surface_form	)
+27072_8	is_in_sentence	sentence_27072
+27072_8	det	27072_11
+27072_8	has_surface_form	a
+27072_11	is_in_sentence	sentence_27072
+27072_11	attr	27072_7
+27072_11	has_surface_form	highway
+27072_11	part_of_entity	state highway
+27072_9	is_in_sentence	sentence_27072
+27072_9	compound	27072_11
+27072_9	has_surface_form	Pennsylvania
+27072_10	is_in_sentence	sentence_27072
+27072_10	compound	27072_11
+27072_10	has_surface_form	state
+27072_10	part_of_entity	state highway
+27072_12	is_in_sentence	sentence_27072
+27072_12	nsubj	27072_13
+27072_12	has_surface_form	which
+27072_13	is_in_sentence	sentence_27072
+27072_13	relcl	27072_11
+27072_13	has_surface_form	runs
+27072_14	is_in_sentence	sentence_27072
+27072_14	prep	27072_13
+27072_14	has_surface_form	for
+27072_15	is_in_sentence	sentence_27072
+27072_15	pobj	27072_14
+27072_15	has_surface_form	12
+27072_16	is_in_sentence	sentence_27072
+27072_16	punct	27072_7
+27072_16	has_surface_form	.
+27072_17	is_in_sentence	sentence_27072
+27072_17	dep	27072_7
+27072_17	has_surface_form	
+Pennsylvania Route 329	surface_form	Pennsylvania Route 329
+Pennsylvania Route 329	has-type	state highway
+state highway	surface_form	state highway

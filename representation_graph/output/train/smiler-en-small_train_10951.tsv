@@ -1,0 +1,88 @@
+10950_0	is_in_sentence	sentence_10950
+10950_0	compound	10950_1
+10950_0	has_surface_form	Krishnan
+10950_0	part_of_entity	Krishnan Vandhaan
+10950_1	is_in_sentence	sentence_10950
+10950_1	nsubj	10950_9
+10950_1	has_surface_form	Vandhaan
+10950_1	part_of_entity	Krishnan Vandhaan
+10950_9	is_in_sentence	sentence_10950
+10950_9	ROOT	10950_9
+10950_9	has_surface_form	is
+10950_2	is_in_sentence	sentence_10950
+10950_2	punct	10950_1
+10950_2	has_surface_form	(
+10950_3	is_in_sentence	sentence_10950
+10950_3	appos	10950_1
+10950_3	has_surface_form	English
+10950_4	is_in_sentence	sentence_10950
+10950_4	punct	10950_1
+10950_4	has_surface_form	:
+10950_5	is_in_sentence	sentence_10950
+10950_5	nsubj	10950_7
+10950_5	has_surface_form	Krishnan
+10950_7	is_in_sentence	sentence_10950
+10950_7	acl	10950_1
+10950_7	has_surface_form	came
+10950_6	is_in_sentence	sentence_10950
+10950_6	aux	10950_7
+10950_6	has_surface_form	had
+10950_8	is_in_sentence	sentence_10950
+10950_8	punct	10950_7
+10950_8	has_surface_form	)
+10950_10	is_in_sentence	sentence_10950
+10950_10	det	10950_14
+10950_10	has_surface_form	a
+10950_14	is_in_sentence	sentence_10950
+10950_14	attr	10950_9
+10950_14	has_surface_form	film
+10950_11	is_in_sentence	sentence_10950
+10950_11	nummod	10950_14
+10950_11	has_surface_form	1987
+10950_12	is_in_sentence	sentence_10950
+10950_12	compound	10950_13
+10950_12	has_surface_form	Indian
+10950_13	is_in_sentence	sentence_10950
+10950_13	compound	10950_14
+10950_13	has_surface_form	Tamil
+10950_15	is_in_sentence	sentence_10950
+10950_15	punct	10950_14
+10950_15	has_surface_form	,
+10950_16	is_in_sentence	sentence_10950
+10950_16	acl	10950_14
+10950_16	has_surface_form	directed
+10950_17	is_in_sentence	sentence_10950
+10950_17	agent	10950_16
+10950_17	has_surface_form	by
+10950_18	is_in_sentence	sentence_10950
+10950_18	compound	10950_19
+10950_18	has_surface_form	K.
+10950_18	part_of_entity	K. Vijayan
+10950_19	is_in_sentence	sentence_10950
+10950_19	pobj	10950_17
+10950_19	has_surface_form	Vijayan
+10950_19	part_of_entity	K. Vijayan
+10950_20	is_in_sentence	sentence_10950
+10950_20	cc	10950_16
+10950_20	has_surface_form	and
+10950_21	is_in_sentence	sentence_10950
+10950_21	conj	10950_16
+10950_21	has_surface_form	produced
+10950_22	is_in_sentence	sentence_10950
+10950_22	agent	10950_21
+10950_22	has_surface_form	by
+10950_23	is_in_sentence	sentence_10950
+10950_23	compound	10950_24
+10950_23	has_surface_form	Thengai
+10950_24	is_in_sentence	sentence_10950
+10950_24	pobj	10950_22
+10950_24	has_surface_form	Srinivasan
+10950_25	is_in_sentence	sentence_10950
+10950_25	punct	10950_9
+10950_25	has_surface_form	.
+10950_26	is_in_sentence	sentence_10950
+10950_26	dep	10950_9
+10950_26	has_surface_form	
+Krishnan Vandhaan	surface_form	Krishnan Vandhaan
+Krishnan Vandhaan	movie-has-director	K. Vijayan
+K. Vijayan	surface_form	K. Vijayan

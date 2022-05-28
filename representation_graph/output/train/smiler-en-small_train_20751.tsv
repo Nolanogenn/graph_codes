@@ -1,0 +1,62 @@
+20750_0	is_in_sentence	sentence_20750
+20750_0	compound	20750_1
+20750_0	has_surface_form	Stanley
+20750_0	part_of_entity	Stanley Townsend
+20750_1	is_in_sentence	sentence_20750
+20750_1	nsubj	20750_2
+20750_1	has_surface_form	Townsend
+20750_1	part_of_entity	Stanley Townsend
+20750_2	is_in_sentence	sentence_20750
+20750_2	ROOT	20750_2
+20750_2	has_surface_form	is
+20750_3	is_in_sentence	sentence_20750
+20750_3	det	20750_5
+20750_3	has_surface_form	an
+20750_5	is_in_sentence	sentence_20750
+20750_5	attr	20750_2
+20750_5	has_surface_form	actor
+20750_4	is_in_sentence	sentence_20750
+20750_4	amod	20750_5
+20750_4	has_surface_form	Irish
+20750_6	is_in_sentence	sentence_20750
+20750_6	punct	20750_2
+20750_6	has_surface_form	.
+20750_7	is_in_sentence	sentence_20750
+20750_7	nsubjpass	20750_9
+20750_7	has_surface_form	Townsend
+20750_9	is_in_sentence	sentence_20750
+20750_9	ROOT	20750_9
+20750_9	has_surface_form	born
+20750_8	is_in_sentence	sentence_20750
+20750_8	auxpass	20750_9
+20750_8	has_surface_form	was
+20750_10	is_in_sentence	sentence_20750
+20750_10	cc	20750_9
+20750_10	has_surface_form	and
+20750_11	is_in_sentence	sentence_20750
+20750_11	conj	20750_9
+20750_11	has_surface_form	brought
+20750_12	is_in_sentence	sentence_20750
+20750_12	prt	20750_11
+20750_12	has_surface_form	up
+20750_13	is_in_sentence	sentence_20750
+20750_13	prep	20750_11
+20750_13	has_surface_form	in
+20750_14	is_in_sentence	sentence_20750
+20750_14	pobj	20750_13
+20750_14	is_entity	Dublin
+Dublin	surface_form	Dublin
+20750_15	is_in_sentence	sentence_20750
+20750_15	punct	20750_14
+20750_15	has_surface_form	,
+20750_16	is_in_sentence	sentence_20750
+20750_16	appos	20750_14
+20750_16	has_surface_form	Ireland
+20750_17	is_in_sentence	sentence_20750
+20750_17	punct	20750_9
+20750_17	has_surface_form	.
+20750_18	is_in_sentence	sentence_20750
+20750_18	dep	20750_18
+20750_18	has_surface_form	
+Stanley Townsend	surface_form	Stanley Townsend
+Stanley Townsend	birth-place	Dublin

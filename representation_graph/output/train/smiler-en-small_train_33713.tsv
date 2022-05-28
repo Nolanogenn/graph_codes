@@ -1,0 +1,62 @@
+33712_0	is_in_sentence	sentence_33712
+33712_0	compound	33712_1
+33712_0	has_surface_form	Michał
+33712_0	part_of_entity	Michał Białk
+33712_1	is_in_sentence	sentence_33712
+33712_1	nsubj	33712_12
+33712_1	has_surface_form	Białk
+33712_1	part_of_entity	Michał Białk
+33712_12	is_in_sentence	sentence_33712
+33712_12	ROOT	33712_12
+33712_12	has_surface_form	is
+33712_2	is_in_sentence	sentence_33712
+33712_2	punct	33712_3
+33712_2	has_surface_form	(
+33712_3	is_in_sentence	sentence_33712
+33712_3	parataxis	33712_1
+33712_3	has_surface_form	born
+33712_4	is_in_sentence	sentence_33712
+33712_4	npadvmod	33712_3
+33712_4	has_surface_form	March
+33712_5	is_in_sentence	sentence_33712
+33712_5	nummod	33712_4
+33712_5	has_surface_form	4
+33712_6	is_in_sentence	sentence_33712
+33712_6	punct	33712_4
+33712_6	has_surface_form	,
+33712_7	is_in_sentence	sentence_33712
+33712_7	nummod	33712_4
+33712_7	has_surface_form	1982
+33712_8	is_in_sentence	sentence_33712
+33712_8	appos	33712_4
+33712_8	has_surface_form	Kraków
+33712_9	is_in_sentence	sentence_33712
+33712_9	punct	33712_8
+33712_9	has_surface_form	,
+33712_10	is_in_sentence	sentence_33712
+33712_10	appos	33712_8
+33712_10	has_surface_form	Poland
+33712_11	is_in_sentence	sentence_33712
+33712_11	punct	33712_8
+33712_11	has_surface_form	)
+33712_13	is_in_sentence	sentence_33712
+33712_13	det	33712_16
+33712_13	has_surface_form	a
+33712_16	is_in_sentence	sentence_33712
+33712_16	attr	33712_12
+33712_16	has_surface_form	pianist
+33712_14	is_in_sentence	sentence_33712
+33712_14	amod	33712_16
+33712_14	is_entity	Polish
+Polish	surface_form	Polish
+33712_15	is_in_sentence	sentence_33712
+33712_15	amod	33712_16
+33712_15	has_surface_form	classical
+33712_17	is_in_sentence	sentence_33712
+33712_17	punct	33712_12
+33712_17	has_surface_form	.
+33712_18	is_in_sentence	sentence_33712
+33712_18	dep	33712_12
+33712_18	has_surface_form	
+Michał Białk	surface_form	Michał Białk
+Michał Białk	has-nationality	Polish

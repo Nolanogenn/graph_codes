@@ -1,0 +1,74 @@
+17214_0	is_in_sentence	sentence_17214
+17214_0	compound	17214_1
+17214_0	has_surface_form	Sinner
+17214_0	part_of_entity	Sinner Take All
+17214_1	is_in_sentence	sentence_17214
+17214_1	nsubj	17214_3
+17214_1	has_surface_form	Take
+17214_1	part_of_entity	Sinner Take All
+17214_3	is_in_sentence	sentence_17214
+17214_3	ROOT	17214_3
+17214_3	has_surface_form	is
+17214_2	is_in_sentence	sentence_17214
+17214_2	appos	17214_1
+17214_2	has_surface_form	All
+17214_2	part_of_entity	Sinner Take All
+17214_4	is_in_sentence	sentence_17214
+17214_4	det	17214_8
+17214_4	has_surface_form	a
+17214_8	is_in_sentence	sentence_17214
+17214_8	attr	17214_3
+17214_8	has_surface_form	film
+17214_5	is_in_sentence	sentence_17214
+17214_5	nummod	17214_6
+17214_5	has_surface_form	1936
+17214_6	is_in_sentence	sentence_17214
+17214_6	compound	17214_8
+17214_6	has_surface_form	murder
+17214_7	is_in_sentence	sentence_17214
+17214_7	compound	17214_8
+17214_7	has_surface_form	mystery
+17214_9	is_in_sentence	sentence_17214
+17214_9	acl	17214_8
+17214_9	has_surface_form	directed
+17214_10	is_in_sentence	sentence_17214
+17214_10	agent	17214_9
+17214_10	has_surface_form	by
+17214_11	is_in_sentence	sentence_17214
+17214_11	compound	17214_12
+17214_11	has_surface_form	Errol
+17214_11	part_of_entity	Errol Taggart
+17214_12	is_in_sentence	sentence_17214
+17214_12	pobj	17214_10
+17214_12	has_surface_form	Taggart
+17214_12	part_of_entity	Errol Taggart
+17214_13	is_in_sentence	sentence_17214
+17214_13	cc	17214_9
+17214_13	has_surface_form	and
+17214_14	is_in_sentence	sentence_17214
+17214_14	conj	17214_9
+17214_14	has_surface_form	starring
+17214_15	is_in_sentence	sentence_17214
+17214_15	compound	17214_16
+17214_15	has_surface_form	Bruce
+17214_16	is_in_sentence	sentence_17214
+17214_16	dobj	17214_14
+17214_16	has_surface_form	Cabot
+17214_17	is_in_sentence	sentence_17214
+17214_17	cc	17214_16
+17214_17	has_surface_form	and
+17214_18	is_in_sentence	sentence_17214
+17214_18	compound	17214_19
+17214_18	has_surface_form	Margaret
+17214_19	is_in_sentence	sentence_17214
+17214_19	conj	17214_16
+17214_19	has_surface_form	Lindsay
+17214_20	is_in_sentence	sentence_17214
+17214_20	punct	17214_3
+17214_20	has_surface_form	.
+17214_21	is_in_sentence	sentence_17214
+17214_21	dep	17214_3
+17214_21	has_surface_form	
+Sinner Take All	surface_form	Sinner Take All
+Sinner Take All	movie-has-director	Errol Taggart
+Errol Taggart	surface_form	Errol Taggart

@@ -1,0 +1,74 @@
+9420_0	is_in_sentence	sentence_9420
+9420_0	nsubj	9420_10
+9420_0	has_surface_form	Requiem
+9420_0	part_of_entity	Requiem for Dominic
+9420_10	is_in_sentence	sentence_9420
+9420_10	ROOT	9420_10
+9420_10	has_surface_form	is
+9420_1	is_in_sentence	sentence_9420
+9420_1	prep	9420_0
+9420_1	has_surface_form	for
+9420_1	part_of_entity	Requiem for Dominic
+9420_2	is_in_sentence	sentence_9420
+9420_2	pobj	9420_1
+9420_2	has_surface_form	Dominic
+9420_2	part_of_entity	Requiem for Dominic
+9420_3	is_in_sentence	sentence_9420
+9420_3	punct	9420_4
+9420_3	has_surface_form	(
+9420_4	is_in_sentence	sentence_9420
+9420_4	appos	9420_0
+9420_4	has_surface_form	German
+9420_5	is_in_sentence	sentence_9420
+9420_5	punct	9420_4
+9420_5	has_surface_form	:
+9420_6	is_in_sentence	sentence_9420
+9420_6	compound	9420_8
+9420_6	has_surface_form	Requiem
+9420_8	is_in_sentence	sentence_9420
+9420_8	appos	9420_4
+9420_8	has_surface_form	Dominik
+9420_7	is_in_sentence	sentence_9420
+9420_7	compound	9420_8
+9420_7	has_surface_form	für
+9420_9	is_in_sentence	sentence_9420
+9420_9	punct	9420_4
+9420_9	has_surface_form	)
+9420_11	is_in_sentence	sentence_9420
+9420_11	det	9420_15
+9420_11	has_surface_form	a
+9420_15	is_in_sentence	sentence_9420
+9420_15	attr	9420_10
+9420_15	has_surface_form	film
+9420_12	is_in_sentence	sentence_9420
+9420_12	nummod	9420_15
+9420_12	has_surface_form	1991
+9420_13	is_in_sentence	sentence_9420
+9420_13	amod	9420_15
+9420_13	has_surface_form	Austrian
+9420_14	is_in_sentence	sentence_9420
+9420_14	compound	9420_15
+9420_14	has_surface_form	drama
+9420_16	is_in_sentence	sentence_9420
+9420_16	acl	9420_15
+9420_16	has_surface_form	directed
+9420_17	is_in_sentence	sentence_9420
+9420_17	agent	9420_16
+9420_17	has_surface_form	by
+9420_18	is_in_sentence	sentence_9420
+9420_18	compound	9420_19
+9420_18	has_surface_form	Robert
+9420_18	part_of_entity	Robert Dornhelm
+9420_19	is_in_sentence	sentence_9420
+9420_19	pobj	9420_17
+9420_19	has_surface_form	Dornhelm
+9420_19	part_of_entity	Robert Dornhelm
+9420_20	is_in_sentence	sentence_9420
+9420_20	punct	9420_10
+9420_20	has_surface_form	.
+9420_21	is_in_sentence	sentence_9420
+9420_21	dep	9420_10
+9420_21	has_surface_form	
+Requiem for Dominic	surface_form	Requiem for Dominic
+Requiem for Dominic	movie-has-director	Robert Dornhelm
+Robert Dornhelm	surface_form	Robert Dornhelm

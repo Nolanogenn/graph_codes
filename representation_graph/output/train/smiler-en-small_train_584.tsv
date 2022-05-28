@@ -1,0 +1,76 @@
+583_0	is_in_sentence	sentence_583
+583_0	compound	583_1
+583_0	has_surface_form	Hollywood
+583_0	part_of_entity	Hollywood Ending
+583_1	is_in_sentence	sentence_583
+583_1	nsubj	583_2
+583_1	has_surface_form	Ending
+583_1	part_of_entity	Hollywood Ending
+583_2	is_in_sentence	sentence_583
+583_2	ROOT	583_2
+583_2	has_surface_form	is
+583_3	is_in_sentence	sentence_583
+583_3	det	583_7
+583_3	has_surface_form	a
+583_7	is_in_sentence	sentence_583
+583_7	attr	583_2
+583_7	has_surface_form	film
+583_4	is_in_sentence	sentence_583
+583_4	nummod	583_7
+583_4	has_surface_form	2002
+583_5	is_in_sentence	sentence_583
+583_5	amod	583_7
+583_5	has_surface_form	American
+583_6	is_in_sentence	sentence_583
+583_6	compound	583_7
+583_6	has_surface_form	comedy
+583_8	is_in_sentence	sentence_583
+583_8	acl	583_7
+583_8	has_surface_form	written
+583_9	is_in_sentence	sentence_583
+583_9	cc	583_8
+583_9	has_surface_form	and
+583_10	is_in_sentence	sentence_583
+583_10	conj	583_8
+583_10	has_surface_form	directed
+583_11	is_in_sentence	sentence_583
+583_11	agent	583_10
+583_11	has_surface_form	by
+583_12	is_in_sentence	sentence_583
+583_12	compound	583_13
+583_12	has_surface_form	Woody
+583_12	part_of_entity	Woody Allen
+583_13	is_in_sentence	sentence_583
+583_13	pobj	583_11
+583_13	has_surface_form	Allen
+583_13	part_of_entity	Woody Allen
+583_14	is_in_sentence	sentence_583
+583_14	punct	583_13
+583_14	has_surface_form	,
+583_15	is_in_sentence	sentence_583
+583_15	nsubj	583_17
+583_15	has_surface_form	who
+583_17	is_in_sentence	sentence_583
+583_17	relcl	583_13
+583_17	has_surface_form	plays
+583_16	is_in_sentence	sentence_583
+583_16	advmod	583_17
+583_16	has_surface_form	also
+583_18	is_in_sentence	sentence_583
+583_18	det	583_20
+583_18	has_surface_form	the
+583_20	is_in_sentence	sentence_583
+583_20	dobj	583_17
+583_20	has_surface_form	character
+583_19	is_in_sentence	sentence_583
+583_19	amod	583_20
+583_19	has_surface_form	principal
+583_21	is_in_sentence	sentence_583
+583_21	punct	583_2
+583_21	has_surface_form	.
+583_22	is_in_sentence	sentence_583
+583_22	dep	583_22
+583_22	has_surface_form	
+Hollywood Ending	surface_form	Hollywood Ending
+Hollywood Ending	movie-has-director	Woody Allen
+Woody Allen	surface_form	Woody Allen

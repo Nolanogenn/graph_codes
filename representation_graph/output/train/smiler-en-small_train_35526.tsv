@@ -1,0 +1,72 @@
+35525_0	is_in_sentence	sentence_35525
+35525_0	compound	35525_2
+35525_0	has_surface_form	Aston
+35525_0	part_of_entity	Aston Medical School
+35525_2	is_in_sentence	sentence_35525
+35525_2	nsubj	35525_6
+35525_2	has_surface_form	School
+35525_2	part_of_entity	Aston Medical School
+35525_1	is_in_sentence	sentence_35525
+35525_1	compound	35525_2
+35525_1	has_surface_form	Medical
+35525_1	part_of_entity	Aston Medical School
+35525_6	is_in_sentence	sentence_35525
+35525_6	ROOT	35525_6
+35525_6	has_surface_form	is
+35525_3	is_in_sentence	sentence_35525
+35525_3	punct	35525_2
+35525_3	has_surface_form	(
+35525_4	is_in_sentence	sentence_35525
+35525_4	appos	35525_2
+35525_4	has_surface_form	AMS
+35525_5	is_in_sentence	sentence_35525
+35525_5	punct	35525_2
+35525_5	has_surface_form	)
+35525_7	is_in_sentence	sentence_35525
+35525_7	det	35525_8
+35525_7	has_surface_form	a
+35525_8	is_in_sentence	sentence_35525
+35525_8	attr	35525_6
+35525_8	has_surface_form	school
+35525_9	is_in_sentence	sentence_35525
+35525_9	prep	35525_8
+35525_9	has_surface_form	within
+35525_10	is_in_sentence	sentence_35525
+35525_10	compound	35525_11
+35525_10	has_surface_form	Aston
+35525_11	is_in_sentence	sentence_35525
+35525_11	pobj	35525_9
+35525_11	has_surface_form	University
+35525_12	is_in_sentence	sentence_35525
+35525_12	punct	35525_11
+35525_12	has_surface_form	,
+35525_13	is_in_sentence	sentence_35525
+35525_13	acl	35525_11
+35525_13	has_surface_form	located
+35525_14	is_in_sentence	sentence_35525
+35525_14	prep	35525_13
+35525_14	has_surface_form	in
+35525_15	is_in_sentence	sentence_35525
+35525_15	compound	35525_17
+35525_15	is_entity	Birmingham
+35525_17	is_in_sentence	sentence_35525
+35525_17	pobj	35525_14
+35525_17	has_surface_form	centre
+Birmingham	surface_form	Birmingham
+35525_16	is_in_sentence	sentence_35525
+35525_16	compound	35525_17
+35525_16	has_surface_form	city
+35525_18	is_in_sentence	sentence_35525
+35525_18	punct	35525_17
+35525_18	has_surface_form	,
+35525_19	is_in_sentence	sentence_35525
+35525_19	appos	35525_17
+35525_19	has_surface_form	UK
+35525_20	is_in_sentence	sentence_35525
+35525_20	punct	35525_6
+35525_20	has_surface_form	.
+35525_21	is_in_sentence	sentence_35525
+35525_21	dep	35525_6
+35525_21	has_surface_form	
+Aston Medical School	surface_form	Aston Medical School
+Aston Medical School	is-where	Birmingham

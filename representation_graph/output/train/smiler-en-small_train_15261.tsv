@@ -1,0 +1,82 @@
+15260_0	is_in_sentence	sentence_15260
+15260_0	det	15260_2
+15260_0	has_surface_form	The
+15260_2	is_in_sentence	sentence_15260
+15260_2	nsubj	15260_3
+15260_2	has_surface_form	laser
+15260_2	part_of_entity	laser diode
+15260_1	is_in_sentence	sentence_15260
+15260_1	amod	15260_2
+15260_1	has_surface_form	first
+15260_3	is_in_sentence	sentence_15260
+15260_3	nsubj	15260_9
+15260_3	has_surface_form	diode
+15260_3	part_of_entity	laser diode
+15260_9	is_in_sentence	sentence_15260
+15260_9	ROOT	15260_9
+15260_9	has_surface_form	was
+15260_4	is_in_sentence	sentence_15260
+15260_4	aux	15260_5
+15260_4	has_surface_form	to
+15260_5	is_in_sentence	sentence_15260
+15260_5	xcomp	15260_3
+15260_5	has_surface_form	achieve
+15260_6	is_in_sentence	sentence_15260
+15260_6	amod	15260_8
+15260_6	has_surface_form	continuous
+15260_8	is_in_sentence	sentence_15260
+15260_8	dobj	15260_5
+15260_8	has_surface_form	operation
+15260_7	is_in_sentence	sentence_15260
+15260_7	compound	15260_8
+15260_7	has_surface_form	wave
+15260_10	is_in_sentence	sentence_15260
+15260_10	det	15260_12
+15260_10	has_surface_form	a
+15260_12	is_in_sentence	sentence_15260
+15260_12	attr	15260_9
+15260_12	has_surface_form	heterostructure
+15260_11	is_in_sentence	sentence_15260
+15260_11	amod	15260_12
+15260_11	has_surface_form	double
+15260_13	is_in_sentence	sentence_15260
+15260_13	acl	15260_12
+15260_13	has_surface_form	demonstrated
+15260_14	is_in_sentence	sentence_15260
+15260_14	prep	15260_13
+15260_14	has_surface_form	in
+15260_15	is_in_sentence	sentence_15260
+15260_15	pobj	15260_14
+15260_15	has_surface_form	1970
+15260_16	is_in_sentence	sentence_15260
+15260_16	advmod	15260_17
+15260_16	has_surface_form	essentially
+15260_17	is_in_sentence	sentence_15260
+15260_17	advmod	15260_13
+15260_17	has_surface_form	simultaneously
+15260_18	is_in_sentence	sentence_15260
+15260_18	agent	15260_13
+15260_18	has_surface_form	by
+15260_19	is_in_sentence	sentence_15260
+15260_19	compound	15260_20
+15260_19	has_surface_form	Zhores
+15260_19	part_of_entity	Zhores Alferov
+15260_20	is_in_sentence	sentence_15260
+15260_20	pobj	15260_18
+15260_20	has_surface_form	Alferov
+15260_20	part_of_entity	Zhores Alferov
+15260_21	is_in_sentence	sentence_15260
+15260_21	cc	15260_20
+15260_21	has_surface_form	and
+15260_22	is_in_sentence	sentence_15260
+15260_22	conj	15260_20
+15260_22	has_surface_form	collaborators
+15260_23	is_in_sentence	sentence_15260
+15260_23	punct	15260_9
+15260_23	has_surface_form	.
+15260_24	is_in_sentence	sentence_15260
+15260_24	dep	15260_24
+15260_24	has_surface_form	
+laser diode	surface_form	laser diode
+laser diode	invented-by	Zhores Alferov
+Zhores Alferov	surface_form	Zhores Alferov

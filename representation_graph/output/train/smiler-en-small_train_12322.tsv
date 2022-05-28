@@ -1,0 +1,37 @@
+12321_0	is_in_sentence	sentence_12321
+12321_0	compound	12321_1
+12321_0	has_surface_form	Jerry
+12321_0	part_of_entity	Jerry Pimm
+12321_1	is_in_sentence	sentence_12321
+12321_1	nsubj	12321_2
+12321_1	has_surface_form	Pimm
+12321_1	part_of_entity	Jerry Pimm
+12321_2	is_in_sentence	sentence_12321
+12321_2	ROOT	12321_2
+12321_2	has_surface_form	is
+12321_3	is_in_sentence	sentence_12321
+12321_3	det	12321_7
+12321_3	has_surface_form	an
+12321_7	is_in_sentence	sentence_12321
+12321_7	attr	12321_2
+12321_7	has_surface_form	coach
+12321_7	part_of_entity	basketball coach
+12321_4	is_in_sentence	sentence_12321
+12321_4	amod	12321_7
+12321_4	has_surface_form	American
+12321_5	is_in_sentence	sentence_12321
+12321_5	amod	12321_7
+12321_5	has_surface_form	former
+12321_6	is_in_sentence	sentence_12321
+12321_6	compound	12321_7
+12321_6	has_surface_form	basketball
+12321_6	part_of_entity	basketball coach
+12321_8	is_in_sentence	sentence_12321
+12321_8	punct	12321_2
+12321_8	has_surface_form	.
+12321_9	is_in_sentence	sentence_12321
+12321_9	dep	12321_9
+12321_9	has_surface_form	
+Jerry Pimm	surface_form	Jerry Pimm
+Jerry Pimm	has-type	basketball coach
+basketball coach	surface_form	basketball coach

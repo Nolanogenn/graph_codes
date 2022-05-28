@@ -1,0 +1,65 @@
+10479_0	is_in_sentence	sentence_10479
+10479_0	compound	10479_1
+10479_0	is_entity	Pittsburg
+10479_0	part_of_entity	Pittsburg Pittsburg Los Medanos College
+10479_1	is_in_sentence	sentence_10479
+10479_1	compound	10479_4
+10479_1	is_entity	Pittsburg
+10479_1	part_of_entity	Pittsburg Pittsburg Los Medanos College
+Pittsburg	surface_form	Pittsburg
+10479_4	is_in_sentence	sentence_10479
+10479_4	nsubj	10479_8
+10479_4	has_surface_form	College
+10479_4	part_of_entity	Pittsburg Pittsburg Los Medanos College
+10479_2	is_in_sentence	sentence_10479
+10479_2	compound	10479_3
+10479_2	has_surface_form	Los
+10479_2	part_of_entity	Pittsburg Pittsburg Los Medanos College
+10479_3	is_in_sentence	sentence_10479
+10479_3	compound	10479_4
+10479_3	has_surface_form	Medanos
+10479_3	part_of_entity	Pittsburg Pittsburg Los Medanos College
+10479_8	is_in_sentence	sentence_10479
+10479_8	ROOT	10479_8
+10479_8	has_surface_form	is
+10479_5	is_in_sentence	sentence_10479
+10479_5	punct	10479_4
+10479_5	has_surface_form	(
+10479_6	is_in_sentence	sentence_10479
+10479_6	appos	10479_4
+10479_6	has_surface_form	LMC
+10479_7	is_in_sentence	sentence_10479
+10479_7	punct	10479_4
+10479_7	has_surface_form	)
+10479_9	is_in_sentence	sentence_10479
+10479_9	det	10479_12
+10479_9	has_surface_form	a
+10479_12	is_in_sentence	sentence_10479
+10479_12	attr	10479_8
+10479_12	has_surface_form	college
+10479_10	is_in_sentence	sentence_10479
+10479_10	amod	10479_11
+10479_10	has_surface_form	public
+10479_11	is_in_sentence	sentence_10479
+10479_11	compound	10479_12
+10479_11	has_surface_form	community
+10479_13	is_in_sentence	sentence_10479
+10479_13	prep	10479_12
+10479_13	has_surface_form	in
+10479_14	is_in_sentence	sentence_10479
+10479_14	pobj	10479_13
+10479_14	is_entity	Pittsburg
+10479_15	is_in_sentence	sentence_10479
+10479_15	punct	10479_14
+10479_15	has_surface_form	,
+10479_16	is_in_sentence	sentence_10479
+10479_16	appos	10479_14
+10479_16	has_surface_form	California
+10479_17	is_in_sentence	sentence_10479
+10479_17	punct	10479_8
+10479_17	has_surface_form	.
+10479_18	is_in_sentence	sentence_10479
+10479_18	dep	10479_18
+10479_18	has_surface_form	
+Pittsburg Pittsburg Los Medanos College	surface_form	Pittsburg Pittsburg Los Medanos College
+Pittsburg Pittsburg Los Medanos College	is-where	Pittsburg

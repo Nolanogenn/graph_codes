@@ -1,0 +1,82 @@
+21157_0	is_in_sentence	sentence_21157
+21157_0	det	21157_2
+21157_0	has_surface_form	The
+21157_2	is_in_sentence	sentence_21157
+21157_2	nsubj	21157_8
+21157_2	has_surface_form	Department
+21157_2	part_of_entity	California Department of Corporations
+21157_1	is_in_sentence	sentence_21157
+21157_1	compound	21157_2
+21157_1	has_surface_form	California
+21157_1	part_of_entity	California Department of Corporations
+21157_8	is_in_sentence	sentence_21157
+21157_8	ROOT	21157_8
+21157_8	has_surface_form	was
+21157_3	is_in_sentence	sentence_21157
+21157_3	prep	21157_2
+21157_3	has_surface_form	of
+21157_3	part_of_entity	California Department of Corporations
+21157_4	is_in_sentence	sentence_21157
+21157_4	pobj	21157_3
+21157_4	has_surface_form	Corporations
+21157_4	part_of_entity	California Department of Corporations
+21157_5	is_in_sentence	sentence_21157
+21157_5	punct	21157_2
+21157_5	has_surface_form	(
+21157_6	is_in_sentence	sentence_21157
+21157_6	appos	21157_2
+21157_6	has_surface_form	DOC
+21157_7	is_in_sentence	sentence_21157
+21157_7	punct	21157_2
+21157_7	has_surface_form	)
+21157_9	is_in_sentence	sentence_21157
+21157_9	det	21157_10
+21157_9	has_surface_form	a
+21157_10	is_in_sentence	sentence_21157
+21157_10	attr	21157_8
+21157_10	is_entity	department
+department	surface_form	department
+21157_11	is_in_sentence	sentence_21157
+21157_11	prep	21157_10
+21157_11	has_surface_form	within
+21157_12	is_in_sentence	sentence_21157
+21157_12	det	21157_20
+21157_12	has_surface_form	the
+21157_20	is_in_sentence	sentence_21157
+21157_20	pobj	21157_11
+21157_20	has_surface_form	Agency
+21157_13	is_in_sentence	sentence_21157
+21157_13	amod	21157_20
+21157_13	has_surface_form	former
+21157_14	is_in_sentence	sentence_21157
+21157_14	compound	21157_15
+21157_14	has_surface_form	California
+21157_15	is_in_sentence	sentence_21157
+21157_15	nmod	21157_20
+21157_15	has_surface_form	Business
+21157_16	is_in_sentence	sentence_21157
+21157_16	punct	21157_15
+21157_16	has_surface_form	,
+21157_17	is_in_sentence	sentence_21157
+21157_17	conj	21157_15
+21157_17	has_surface_form	Transportation
+21157_18	is_in_sentence	sentence_21157
+21157_18	cc	21157_17
+21157_18	has_surface_form	and
+21157_19	is_in_sentence	sentence_21157
+21157_19	conj	21157_17
+21157_19	has_surface_form	Housing
+21157_21	is_in_sentence	sentence_21157
+21157_21	prep	21157_20
+21157_21	has_surface_form	in
+21157_22	is_in_sentence	sentence_21157
+21157_22	pobj	21157_21
+21157_22	has_surface_form	California
+21157_23	is_in_sentence	sentence_21157
+21157_23	punct	21157_8
+21157_23	has_surface_form	.
+21157_24	is_in_sentence	sentence_21157
+21157_24	dep	21157_24
+21157_24	has_surface_form	
+California Department of Corporations	surface_form	California Department of Corporations
+California Department of Corporations	has-type	department

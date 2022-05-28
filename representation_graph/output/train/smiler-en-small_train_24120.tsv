@@ -1,0 +1,67 @@
+24119_0	is_in_sentence	sentence_24119
+24119_0	compound	24119_1
+24119_0	has_surface_form	Jack
+24119_0	part_of_entity	Jack Kilby
+24119_1	is_in_sentence	sentence_24119
+24119_1	nsubj	24119_12
+24119_1	has_surface_form	Kilby
+24119_1	part_of_entity	Jack Kilby
+24119_12	is_in_sentence	sentence_24119
+24119_12	ROOT	24119_12
+24119_12	has_surface_form	invented
+24119_2	is_in_sentence	sentence_24119
+24119_2	punct	24119_1
+24119_2	has_surface_form	,
+24119_3	is_in_sentence	sentence_24119
+24119_3	det	24119_4
+24119_3	has_surface_form	an
+24119_4	is_in_sentence	sentence_24119
+24119_4	appos	24119_1
+24119_4	has_surface_form	employee
+24119_5	is_in_sentence	sentence_24119
+24119_5	prep	24119_4
+24119_5	has_surface_form	at
+24119_6	is_in_sentence	sentence_24119
+24119_6	poss	24119_10
+24119_6	has_surface_form	TI
+24119_10	is_in_sentence	sentence_24119
+24119_10	pobj	24119_5
+24119_10	has_surface_form	Labs
+24119_7	is_in_sentence	sentence_24119
+24119_7	case	24119_6
+24119_7	has_surface_form	's
+24119_8	is_in_sentence	sentence_24119
+24119_8	compound	24119_10
+24119_8	has_surface_form	Central
+24119_9	is_in_sentence	sentence_24119
+24119_9	compound	24119_10
+24119_9	has_surface_form	Research
+24119_11	is_in_sentence	sentence_24119
+24119_11	punct	24119_1
+24119_11	has_surface_form	,
+24119_13	is_in_sentence	sentence_24119
+24119_13	det	24119_15
+24119_13	has_surface_form	the
+24119_15	is_in_sentence	sentence_24119
+24119_15	dobj	24119_12
+24119_15	has_surface_form	circuit
+24119_15	part_of_entity	integrated circuit
+24119_14	is_in_sentence	sentence_24119
+24119_14	amod	24119_15
+24119_14	has_surface_form	integrated
+24119_14	part_of_entity	integrated circuit
+24119_16	is_in_sentence	sentence_24119
+24119_16	prep	24119_12
+24119_16	has_surface_form	in
+24119_17	is_in_sentence	sentence_24119
+24119_17	pobj	24119_16
+24119_17	has_surface_form	1958
+24119_18	is_in_sentence	sentence_24119
+24119_18	punct	24119_12
+24119_18	has_surface_form	.
+24119_19	is_in_sentence	sentence_24119
+24119_19	dep	24119_19
+24119_19	has_surface_form	
+integrated circuit	surface_form	integrated circuit
+integrated circuit	invented-by	Jack Kilby
+Jack Kilby	surface_form	Jack Kilby

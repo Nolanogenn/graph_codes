@@ -1,0 +1,65 @@
+1878_0	is_in_sentence	sentence_1878
+1878_0	poss	1878_1
+1878_0	has_surface_form	My
+1878_0	part_of_entity	My Friend Joe
+1878_1	is_in_sentence	sentence_1878
+1878_1	nsubj	1878_3
+1878_1	has_surface_form	Friend
+1878_1	part_of_entity	My Friend Joe
+1878_3	is_in_sentence	sentence_1878
+1878_3	ROOT	1878_3
+1878_3	has_surface_form	is
+1878_2	is_in_sentence	sentence_1878
+1878_2	appos	1878_1
+1878_2	has_surface_form	Joe
+1878_2	part_of_entity	My Friend Joe
+1878_4	is_in_sentence	sentence_1878
+1878_4	det	1878_6
+1878_4	has_surface_form	a
+1878_6	is_in_sentence	sentence_1878
+1878_6	attr	1878_3
+1878_6	has_surface_form	film
+1878_5	is_in_sentence	sentence_1878
+1878_5	nummod	1878_6
+1878_5	has_surface_form	1996
+1878_7	is_in_sentence	sentence_1878
+1878_7	acl	1878_6
+1878_7	has_surface_form	directed
+1878_8	is_in_sentence	sentence_1878
+1878_8	agent	1878_7
+1878_8	has_surface_form	by
+1878_9	is_in_sentence	sentence_1878
+1878_9	compound	1878_10
+1878_9	has_surface_form	Chris
+1878_10	is_in_sentence	sentence_1878
+1878_10	pobj	1878_8
+1878_10	has_surface_form	Bould
+1878_11	is_in_sentence	sentence_1878
+1878_11	acl	1878_10
+1878_11	has_surface_form	starring
+1878_12	is_in_sentence	sentence_1878
+1878_12	compound	1878_13
+1878_12	has_surface_form	Schuyler
+1878_13	is_in_sentence	sentence_1878
+1878_13	dobj	1878_11
+1878_13	has_surface_form	Fisk
+1878_14	is_in_sentence	sentence_1878
+1878_14	cc	1878_13
+1878_14	has_surface_form	and
+1878_15	is_in_sentence	sentence_1878
+1878_15	compound	1878_16
+1878_15	has_surface_form	John
+1878_15	part_of_entity	John Cleere
+1878_16	is_in_sentence	sentence_1878
+1878_16	conj	1878_13
+1878_16	has_surface_form	Cleere
+1878_16	part_of_entity	John Cleere
+1878_17	is_in_sentence	sentence_1878
+1878_17	punct	1878_3
+1878_17	has_surface_form	.
+1878_18	is_in_sentence	sentence_1878
+1878_18	dep	1878_3
+1878_18	has_surface_form	
+My Friend Joe	surface_form	My Friend Joe
+My Friend Joe	starring	John Cleere
+John Cleere	surface_form	John Cleere

@@ -1,0 +1,60 @@
+11643_0	is_in_sentence	sentence_11643
+11643_0	nsubj	11643_2
+11643_0	has_surface_form	Dennis
+11643_2	is_in_sentence	sentence_11643
+11643_2	ROOT	11643_2
+11643_2	has_surface_form	adopted
+11643_1	is_in_sentence	sentence_11643
+11643_1	advmod	11643_2
+11643_1	has_surface_form	also
+11643_3	is_in_sentence	sentence_11643
+11643_3	compound	11643_5
+11643_3	has_surface_form	Katherine
+11643_3	part_of_entity	Katherine Denise Buelle
+11643_5	is_in_sentence	sentence_11643
+11643_5	dobj	11643_2
+11643_5	has_surface_form	Buelle
+11643_5	part_of_entity	Katherine Denise Buelle
+11643_4	is_in_sentence	sentence_11643
+11643_4	compound	11643_5
+11643_4	has_surface_form	Denise
+11643_4	part_of_entity	Katherine Denise Buelle
+11643_6	is_in_sentence	sentence_11643
+11643_6	punct	11643_5
+11643_6	has_surface_form	,
+11643_7	is_in_sentence	sentence_11643
+11643_7	poss	11643_9
+11643_7	is_entity	Arleen
+11643_9	is_in_sentence	sentence_11643
+11643_9	appos	11643_5
+11643_9	has_surface_form	daughter
+Arleen	surface_form	Arleen
+11643_8	is_in_sentence	sentence_11643
+11643_8	case	11643_7
+11643_8	has_surface_form	's
+11643_10	is_in_sentence	sentence_11643
+11643_10	prep	11643_9
+11643_10	has_surface_form	by
+11643_11	is_in_sentence	sentence_11643
+11643_11	poss	11643_13
+11643_11	has_surface_form	her
+11643_13	is_in_sentence	sentence_11643
+11643_13	pobj	11643_10
+11643_13	has_surface_form	husband
+11643_12	is_in_sentence	sentence_11643
+11643_12	amod	11643_13
+11643_12	has_surface_form	first
+11643_14	is_in_sentence	sentence_11643
+11643_14	compound	11643_15
+11643_14	has_surface_form	Mike
+11643_15	is_in_sentence	sentence_11643
+11643_15	appos	11643_13
+11643_15	has_surface_form	Buelle
+11643_16	is_in_sentence	sentence_11643
+11643_16	punct	11643_2
+11643_16	has_surface_form	.
+11643_17	is_in_sentence	sentence_11643
+11643_17	dep	11643_2
+11643_17	has_surface_form	
+Katherine Denise Buelle	surface_form	Katherine Denise Buelle
+Katherine Denise Buelle	has-parent	Arleen

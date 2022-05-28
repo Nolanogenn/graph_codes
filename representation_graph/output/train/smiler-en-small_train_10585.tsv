@@ -1,0 +1,85 @@
+10584_0	is_in_sentence	sentence_10584
+10584_0	compound	10584_1
+10584_0	has_surface_form	Marco
+10584_0	part_of_entity	Marco Columbro
+10584_1	is_in_sentence	sentence_10584
+10584_1	nsubj	10584_8
+10584_1	has_surface_form	Columbro
+10584_1	part_of_entity	Marco Columbro
+10584_8	is_in_sentence	sentence_10584
+10584_8	ROOT	10584_8
+10584_8	has_surface_form	is
+10584_2	is_in_sentence	sentence_10584
+10584_2	punct	10584_1
+10584_2	has_surface_form	(
+10584_3	is_in_sentence	sentence_10584
+10584_3	acl	10584_1
+10584_3	has_surface_form	born
+10584_4	is_in_sentence	sentence_10584
+10584_4	nummod	10584_5
+10584_4	has_surface_form	28
+10584_5	is_in_sentence	sentence_10584
+10584_5	npadvmod	10584_3
+10584_5	has_surface_form	June
+10584_6	is_in_sentence	sentence_10584
+10584_6	nummod	10584_5
+10584_6	has_surface_form	1950
+10584_7	is_in_sentence	sentence_10584
+10584_7	punct	10584_1
+10584_7	has_surface_form	)
+10584_9	is_in_sentence	sentence_10584
+10584_9	det	10584_14
+10584_9	has_surface_form	an
+10584_14	is_in_sentence	sentence_10584
+10584_14	attr	10584_8
+10584_14	has_surface_form	host
+10584_10	is_in_sentence	sentence_10584
+10584_10	amod	10584_14
+10584_10	has_surface_form	Italian
+10584_11	is_in_sentence	sentence_10584
+10584_11	nmod	10584_14
+10584_11	has_surface_form	actor
+10584_12	is_in_sentence	sentence_10584
+10584_12	cc	10584_11
+10584_12	has_surface_form	and
+10584_13	is_in_sentence	sentence_10584
+10584_13	conj	10584_11
+10584_13	has_surface_form	television
+10584_15	is_in_sentence	sentence_10584
+10584_15	punct	10584_8
+10584_15	has_surface_form	.
+10584_16	is_in_sentence	sentence_10584
+10584_16	compound	10584_17
+10584_16	has_surface_form	Marco
+10584_16	part_of_entity	Marco Columbro
+10584_17	is_in_sentence	sentence_10584
+10584_17	nsubjpass	10584_19
+10584_17	has_surface_form	Columbro
+10584_17	part_of_entity	Marco Columbro
+10584_19	is_in_sentence	sentence_10584
+10584_19	ROOT	10584_19
+10584_19	has_surface_form	born
+10584_18	is_in_sentence	sentence_10584
+10584_18	auxpass	10584_19
+10584_18	has_surface_form	was
+10584_20	is_in_sentence	sentence_10584
+10584_20	prep	10584_19
+10584_20	has_surface_form	in
+10584_21	is_in_sentence	sentence_10584
+10584_21	pobj	10584_20
+10584_21	is_entity	Viareggio
+Viareggio	surface_form	Viareggio
+10584_22	is_in_sentence	sentence_10584
+10584_22	punct	10584_21
+10584_22	has_surface_form	,
+10584_23	is_in_sentence	sentence_10584
+10584_23	appos	10584_21
+10584_23	has_surface_form	Tuscany
+10584_24	is_in_sentence	sentence_10584
+10584_24	punct	10584_19
+10584_24	has_surface_form	.
+10584_25	is_in_sentence	sentence_10584
+10584_25	dep	10584_19
+10584_25	has_surface_form	
+Marco Columbro	surface_form	Marco Columbro
+Marco Columbro	birth-place	Viareggio

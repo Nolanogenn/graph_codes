@@ -1,0 +1,71 @@
+7904_0	is_in_sentence	sentence_7904
+7904_0	compound	7904_1
+7904_0	has_surface_form	California
+7904_0	part_of_entity	California School of Podiatric Medicine
+7904_1	is_in_sentence	sentence_7904
+7904_1	nsubj	7904_9
+7904_1	has_surface_form	School
+7904_1	part_of_entity	California School of Podiatric Medicine
+7904_9	is_in_sentence	sentence_7904
+7904_9	ROOT	7904_9
+7904_9	has_surface_form	is
+7904_2	is_in_sentence	sentence_7904
+7904_2	prep	7904_1
+7904_2	has_surface_form	of
+7904_2	part_of_entity	California School of Podiatric Medicine
+7904_3	is_in_sentence	sentence_7904
+7904_3	compound	7904_4
+7904_3	has_surface_form	Podiatric
+7904_3	part_of_entity	California School of Podiatric Medicine
+7904_4	is_in_sentence	sentence_7904
+7904_4	pobj	7904_2
+7904_4	has_surface_form	Medicine
+7904_4	part_of_entity	California School of Podiatric Medicine
+7904_5	is_in_sentence	sentence_7904
+7904_5	prep	7904_1
+7904_5	has_surface_form	at
+7904_6	is_in_sentence	sentence_7904
+7904_6	compound	7904_8
+7904_6	has_surface_form	Samuel
+7904_8	is_in_sentence	sentence_7904
+7904_8	pobj	7904_5
+7904_8	has_surface_form	University
+7904_7	is_in_sentence	sentence_7904
+7904_7	compound	7904_8
+7904_7	has_surface_form	Merritt
+7904_10	is_in_sentence	sentence_7904
+7904_10	det	7904_13
+7904_10	has_surface_form	a
+7904_13	is_in_sentence	sentence_7904
+7904_13	attr	7904_9
+7904_13	has_surface_form	school
+7904_11	is_in_sentence	sentence_7904
+7904_11	amod	7904_13
+7904_11	has_surface_form	podiatric
+7904_12	is_in_sentence	sentence_7904
+7904_12	amod	7904_13
+7904_12	has_surface_form	medical
+7904_14	is_in_sentence	sentence_7904
+7904_14	acl	7904_13
+7904_14	has_surface_form	based
+7904_15	is_in_sentence	sentence_7904
+7904_15	prep	7904_14
+7904_15	has_surface_form	in
+7904_16	is_in_sentence	sentence_7904
+7904_16	pobj	7904_15
+7904_16	has_surface_form	Oakland
+7904_17	is_in_sentence	sentence_7904
+7904_17	punct	7904_16
+7904_17	has_surface_form	,
+7904_18	is_in_sentence	sentence_7904
+7904_18	appos	7904_16
+7904_18	has_surface_form	California
+7904_19	is_in_sentence	sentence_7904
+7904_19	punct	7904_9
+7904_19	has_surface_form	.
+7904_20	is_in_sentence	sentence_7904
+7904_20	dep	7904_20
+7904_20	has_surface_form	
+California School of Podiatric Medicine	surface_form	California School of Podiatric Medicine
+California School of Podiatric Medicine	is-where	Oakland, California
+Oakland, California	surface_form	Oakland, California

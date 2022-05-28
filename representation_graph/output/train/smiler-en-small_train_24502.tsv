@@ -1,0 +1,71 @@
+24501_0	is_in_sentence	sentence_24501
+24501_0	prep	24501_8
+24501_0	has_surface_form	On
+24501_8	is_in_sentence	sentence_24501
+24501_8	ROOT	24501_8
+24501_8	has_surface_form	married
+24501_1	is_in_sentence	sentence_24501
+24501_1	pobj	24501_0
+24501_1	has_surface_form	May
+24501_2	is_in_sentence	sentence_24501
+24501_2	nummod	24501_1
+24501_2	has_surface_form	6
+24501_3	is_in_sentence	sentence_24501
+24501_3	punct	24501_1
+24501_3	has_surface_form	,
+24501_4	is_in_sentence	sentence_24501
+24501_4	nummod	24501_1
+24501_4	has_surface_form	1900
+24501_5	is_in_sentence	sentence_24501
+24501_5	punct	24501_8
+24501_5	has_surface_form	,
+24501_6	is_in_sentence	sentence_24501
+24501_6	compound	24501_7
+24501_6	has_surface_form	Al
+24501_6	part_of_entity	Al Smith
+24501_7	is_in_sentence	sentence_24501
+24501_7	nsubj	24501_8
+24501_7	has_surface_form	Smith
+24501_7	part_of_entity	Al Smith
+24501_9	is_in_sentence	sentence_24501
+24501_9	compound	24501_11
+24501_9	has_surface_form	Catherine
+24501_9	part_of_entity	Catherine Ann Dunn
+24501_11	is_in_sentence	sentence_24501
+24501_11	dobj	24501_8
+24501_11	has_surface_form	Dunn
+24501_11	part_of_entity	Catherine Ann Dunn
+24501_10	is_in_sentence	sentence_24501
+24501_10	compound	24501_11
+24501_10	has_surface_form	Ann
+24501_10	part_of_entity	Catherine Ann Dunn
+24501_12	is_in_sentence	sentence_24501
+24501_12	punct	24501_11
+24501_12	has_surface_form	,
+24501_13	is_in_sentence	sentence_24501
+24501_13	prep	24501_16
+24501_13	has_surface_form	with
+24501_16	is_in_sentence	sentence_24501
+24501_16	relcl	24501_11
+24501_16	has_surface_form	had
+24501_14	is_in_sentence	sentence_24501
+24501_14	pobj	24501_13
+24501_14	has_surface_form	whom
+24501_15	is_in_sentence	sentence_24501
+24501_15	nsubj	24501_16
+24501_15	has_surface_form	he
+24501_17	is_in_sentence	sentence_24501
+24501_17	nummod	24501_18
+24501_17	has_surface_form	five
+24501_18	is_in_sentence	sentence_24501
+24501_18	dobj	24501_16
+24501_18	has_surface_form	children
+24501_19	is_in_sentence	sentence_24501
+24501_19	punct	24501_8
+24501_19	has_surface_form	.
+24501_20	is_in_sentence	sentence_24501
+24501_20	dep	24501_20
+24501_20	has_surface_form	
+Al Smith	surface_form	Al Smith
+Al Smith	has-spouse	Catherine Ann Dunn
+Catherine Ann Dunn	surface_form	Catherine Ann Dunn

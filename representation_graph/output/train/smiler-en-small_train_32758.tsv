@@ -1,0 +1,62 @@
+32757_0	is_in_sentence	sentence_32757
+32757_0	compound	32757_1
+32757_0	has_surface_form	Flavio
+32757_0	part_of_entity	Flavio Boltro
+32757_1	is_in_sentence	sentence_32757
+32757_1	nsubj	32757_9
+32757_1	has_surface_form	Boltro
+32757_1	part_of_entity	Flavio Boltro
+32757_9	is_in_sentence	sentence_32757
+32757_9	ROOT	32757_9
+32757_9	has_surface_form	is
+32757_2	is_in_sentence	sentence_32757
+32757_2	punct	32757_1
+32757_2	has_surface_form	(
+32757_3	is_in_sentence	sentence_32757
+32757_3	acl	32757_1
+32757_3	has_surface_form	born
+32757_4	is_in_sentence	sentence_32757
+32757_4	npadvmod	32757_3
+32757_4	has_surface_form	May
+32757_5	is_in_sentence	sentence_32757
+32757_5	nummod	32757_4
+32757_5	has_surface_form	5
+32757_6	is_in_sentence	sentence_32757
+32757_6	punct	32757_4
+32757_6	has_surface_form	,
+32757_7	is_in_sentence	sentence_32757
+32757_7	nummod	32757_4
+32757_7	has_surface_form	1961
+32757_8	is_in_sentence	sentence_32757
+32757_8	punct	32757_1
+32757_8	has_surface_form	)
+32757_10	is_in_sentence	sentence_32757
+32757_10	det	32757_12
+32757_10	has_surface_form	an
+32757_12	is_in_sentence	sentence_32757
+32757_12	attr	32757_9
+32757_12	has_surface_form	trumpet
+32757_11	is_in_sentence	sentence_32757
+32757_11	amod	32757_12
+32757_11	has_surface_form	Italian
+32757_13	is_in_sentence	sentence_32757
+32757_13	cc	32757_12
+32757_13	has_surface_form	and
+32757_14	is_in_sentence	sentence_32757
+32757_14	conj	32757_12
+32757_14	has_surface_form	flugelhorn
+32757_15	is_in_sentence	sentence_32757
+32757_15	compound	32757_16
+32757_15	is_entity	jazz
+32757_16	is_in_sentence	sentence_32757
+32757_16	attr	32757_9
+32757_16	has_surface_form	player
+jazz	surface_form	jazz
+32757_17	is_in_sentence	sentence_32757
+32757_17	punct	32757_9
+32757_17	has_surface_form	.
+32757_18	is_in_sentence	sentence_32757
+32757_18	dep	32757_18
+32757_18	has_surface_form	
+Flavio Boltro	surface_form	Flavio Boltro
+Flavio Boltro	has-genre	jazz

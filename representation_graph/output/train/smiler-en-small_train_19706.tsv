@@ -1,0 +1,97 @@
+19705_0	is_in_sentence	sentence_19705
+19705_0	det	19705_1
+19705_0	has_surface_form	Another
+19705_1	is_in_sentence	sentence_19705
+19705_1	dep	19705_17
+19705_1	has_surface_form	fact
+19705_17	is_in_sentence	sentence_19705
+19705_17	ROOT	19705_17
+19705_17	has_surface_form	is
+19705_2	is_in_sentence	sentence_19705
+19705_2	acl	19705_1
+19705_2	has_surface_form	supporting
+19705_3	is_in_sentence	sentence_19705
+19705_3	det	19705_4
+19705_3	has_surface_form	the
+19705_4	is_in_sentence	sentence_19705
+19705_4	dobj	19705_2
+19705_4	has_surface_form	theory
+19705_5	is_in_sentence	sentence_19705
+19705_5	mark	19705_8
+19705_5	has_surface_form	that
+19705_8	is_in_sentence	sentence_19705
+19705_8	acl	19705_4
+19705_8	has_surface_form	was
+19705_6	is_in_sentence	sentence_19705
+19705_6	compound	19705_7
+19705_6	has_surface_form	Aurelia
+19705_6	part_of_entity	Aurelia Cotta
+19705_7	is_in_sentence	sentence_19705
+19705_7	nsubj	19705_8
+19705_7	has_surface_form	Cotta
+19705_7	part_of_entity	Aurelia Cotta
+19705_9	is_in_sentence	sentence_19705
+19705_9	det	19705_10
+19705_9	has_surface_form	the
+19705_10	is_in_sentence	sentence_19705
+19705_10	attr	19705_8
+19705_10	has_surface_form	mother
+19705_11	is_in_sentence	sentence_19705
+19705_11	prep	19705_10
+19705_11	has_surface_form	of
+19705_12	is_in_sentence	sentence_19705
+19705_12	compound	19705_14
+19705_12	has_surface_form	Marcus
+19705_12	part_of_entity	Marcus Aurelius Cotta Maximus Messalinus
+19705_14	is_in_sentence	sentence_19705
+19705_14	compound	19705_15
+19705_14	has_surface_form	Cotta
+19705_14	part_of_entity	Marcus Aurelius Cotta Maximus Messalinus
+19705_13	is_in_sentence	sentence_19705
+19705_13	compound	19705_14
+19705_13	has_surface_form	Aurelius
+19705_13	part_of_entity	Marcus Aurelius Cotta Maximus Messalinus
+19705_15	is_in_sentence	sentence_19705
+19705_15	pobj	19705_11
+19705_15	has_surface_form	Maximus
+19705_15	part_of_entity	Marcus Aurelius Cotta Maximus Messalinus
+19705_16	is_in_sentence	sentence_19705
+19705_16	nsubj	19705_17
+19705_16	has_surface_form	Messalinus
+19705_16	part_of_entity	Marcus Aurelius Cotta Maximus Messalinus
+19705_18	is_in_sentence	sentence_19705
+19705_18	mark	19705_22
+19705_18	has_surface_form	that
+19705_22	is_in_sentence	sentence_19705
+19705_22	ccomp	19705_17
+19705_22	has_surface_form	adopted
+19705_19	is_in_sentence	sentence_19705
+19705_19	nsubjpass	19705_22
+19705_19	has_surface_form	he
+19705_20	is_in_sentence	sentence_19705
+19705_20	auxpass	19705_22
+19705_20	has_surface_form	was
+19705_21	is_in_sentence	sentence_19705
+19705_21	advmod	19705_22
+19705_21	has_surface_form	later
+19705_23	is_in_sentence	sentence_19705
+19705_23	prep	19705_22
+19705_23	has_surface_form	into
+19705_24	is_in_sentence	sentence_19705
+19705_24	det	19705_26
+19705_24	has_surface_form	the
+19705_26	is_in_sentence	sentence_19705
+19705_26	pobj	19705_23
+19705_26	has_surface_form	Cottae
+19705_25	is_in_sentence	sentence_19705
+19705_25	compound	19705_26
+19705_25	has_surface_form	Aurelii
+19705_27	is_in_sentence	sentence_19705
+19705_27	punct	19705_17
+19705_27	has_surface_form	.
+19705_28	is_in_sentence	sentence_19705
+19705_28	dep	19705_17
+19705_28	has_surface_form	
+Aurelia Cotta	surface_form	Aurelia Cotta
+Aurelia Cotta	has-child	Marcus Aurelius Cotta Maximus Messalinus
+Marcus Aurelius Cotta Maximus Messalinus	surface_form	Marcus Aurelius Cotta Maximus Messalinus

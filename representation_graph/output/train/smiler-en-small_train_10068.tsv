@@ -1,0 +1,94 @@
+10067_0	is_in_sentence	sentence_10067
+10067_0	det	10067_1
+10067_0	has_surface_form	The
+10067_1	is_in_sentence	sentence_10067
+10067_1	nsubjpass	10067_15
+10067_1	has_surface_form	first
+10067_15	is_in_sentence	sentence_10067
+10067_15	ROOT	10067_15
+10067_15	has_surface_form	born
+10067_2	is_in_sentence	sentence_10067
+10067_2	prep	10067_1
+10067_2	has_surface_form	of
+10067_3	is_in_sentence	sentence_10067
+10067_3	pobj	10067_2
+10067_3	has_surface_form	David
+10067_4	is_in_sentence	sentence_10067
+10067_4	cc	10067_3
+10067_4	has_surface_form	and
+10067_5	is_in_sentence	sentence_10067
+10067_5	compound	10067_6
+10067_5	has_surface_form	Lucy
+10067_5	part_of_entity	Lucy Stanton
+10067_6	is_in_sentence	sentence_10067
+10067_6	conj	10067_3
+10067_6	has_surface_form	Stanton
+10067_6	part_of_entity	Lucy Stanton
+10067_7	is_in_sentence	sentence_10067
+10067_7	case	10067_6
+10067_7	has_surface_form	's
+10067_8	is_in_sentence	sentence_10067
+10067_8	nummod	10067_9
+10067_8	has_surface_form	four
+10067_9	is_in_sentence	sentence_10067
+10067_9	pobj	10067_2
+10067_9	has_surface_form	children
+10067_10	is_in_sentence	sentence_10067
+10067_10	punct	10067_1
+10067_10	has_surface_form	,
+10067_11	is_in_sentence	sentence_10067
+10067_11	compound	10067_12
+10067_11	has_surface_form	Edwin
+10067_11	part_of_entity	Edwin McMasters
+10067_12	is_in_sentence	sentence_10067
+10067_12	appos	10067_1
+10067_12	has_surface_form	McMasters
+10067_12	part_of_entity	Edwin McMasters
+10067_13	is_in_sentence	sentence_10067
+10067_13	punct	10067_1
+10067_13	has_surface_form	,
+10067_14	is_in_sentence	sentence_10067
+10067_14	auxpass	10067_15
+10067_14	has_surface_form	was
+10067_16	is_in_sentence	sentence_10067
+10067_16	prep	10067_15
+10067_16	has_surface_form	to
+10067_17	is_in_sentence	sentence_10067
+10067_17	pobj	10067_16
+10067_17	has_surface_form	them
+10067_18	is_in_sentence	sentence_10067
+10067_18	prep	10067_15
+10067_18	has_surface_form	on
+10067_19	is_in_sentence	sentence_10067
+10067_19	pobj	10067_18
+10067_19	has_surface_form	December
+10067_20	is_in_sentence	sentence_10067
+10067_20	nummod	10067_19
+10067_20	has_surface_form	19
+10067_21	is_in_sentence	sentence_10067
+10067_21	punct	10067_19
+10067_21	has_surface_form	,
+10067_22	is_in_sentence	sentence_10067
+10067_22	appos	10067_19
+10067_22	has_surface_form	1814
+10067_23	is_in_sentence	sentence_10067
+10067_23	prep	10067_19
+10067_23	has_surface_form	in
+10067_24	is_in_sentence	sentence_10067
+10067_24	pobj	10067_23
+10067_24	has_surface_form	Steubenville
+10067_25	is_in_sentence	sentence_10067
+10067_25	punct	10067_24
+10067_25	has_surface_form	,
+10067_26	is_in_sentence	sentence_10067
+10067_26	appos	10067_24
+10067_26	has_surface_form	Ohio
+10067_27	is_in_sentence	sentence_10067
+10067_27	punct	10067_15
+10067_27	has_surface_form	.
+10067_28	is_in_sentence	sentence_10067
+10067_28	dep	10067_28
+10067_28	has_surface_form	
+Edwin McMasters	surface_form	Edwin McMasters
+Edwin McMasters	has-parent	Lucy Stanton
+Lucy Stanton	surface_form	Lucy Stanton

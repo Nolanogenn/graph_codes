@@ -1,0 +1,62 @@
+24320_0	is_in_sentence	sentence_24320
+24320_0	compound	24320_1
+24320_0	has_surface_form	Amrutha
+24320_0	part_of_entity	Amrutha Geetham
+24320_1	is_in_sentence	sentence_24320
+24320_1	nsubj	24320_2
+24320_1	has_surface_form	Geetham
+24320_1	part_of_entity	Amrutha Geetham
+24320_2	is_in_sentence	sentence_24320
+24320_2	ROOT	24320_2
+24320_2	has_surface_form	is
+24320_3	is_in_sentence	sentence_24320
+24320_3	det	24320_7
+24320_3	has_surface_form	a
+24320_7	is_in_sentence	sentence_24320
+24320_7	attr	24320_2
+24320_7	has_surface_form	film
+24320_4	is_in_sentence	sentence_24320
+24320_4	nummod	24320_7
+24320_4	has_surface_form	1982
+24320_5	is_in_sentence	sentence_24320
+24320_5	compound	24320_6
+24320_5	has_surface_form	Indian
+24320_6	is_in_sentence	sentence_24320
+24320_6	compound	24320_7
+24320_6	has_surface_form	Malayalam
+24320_8	is_in_sentence	sentence_24320
+24320_8	punct	24320_7
+24320_8	has_surface_form	,
+24320_9	is_in_sentence	sentence_24320
+24320_9	acl	24320_7
+24320_9	has_surface_form	directed
+24320_10	is_in_sentence	sentence_24320
+24320_10	agent	24320_9
+24320_10	has_surface_form	by
+24320_11	is_in_sentence	sentence_24320
+24320_11	pobj	24320_10
+24320_11	is_entity	Baby
+Baby	surface_form	Baby
+24320_12	is_in_sentence	sentence_24320
+24320_12	cc	24320_9
+24320_12	has_surface_form	and
+24320_13	is_in_sentence	sentence_24320
+24320_13	conj	24320_9
+24320_13	has_surface_form	produced
+24320_14	is_in_sentence	sentence_24320
+24320_14	agent	24320_13
+24320_14	has_surface_form	by
+24320_15	is_in_sentence	sentence_24320
+24320_15	compound	24320_16
+24320_15	has_surface_form	Sivan
+24320_16	is_in_sentence	sentence_24320
+24320_16	pobj	24320_14
+24320_16	has_surface_form	Kunnampilly
+24320_17	is_in_sentence	sentence_24320
+24320_17	punct	24320_2
+24320_17	has_surface_form	.
+24320_18	is_in_sentence	sentence_24320
+24320_18	dep	24320_2
+24320_18	has_surface_form	
+Amrutha Geetham	surface_form	Amrutha Geetham
+Amrutha Geetham	movie-has-director	Baby

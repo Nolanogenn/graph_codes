@@ -1,0 +1,82 @@
+8415_0	is_in_sentence	sentence_8415
+8415_0	compound	8415_1
+8415_0	has_surface_form	Levent
+8415_0	part_of_entity	Levent Kazak
+8415_1	is_in_sentence	sentence_8415
+8415_1	nsubj	8415_8
+8415_1	has_surface_form	Kazak
+8415_1	part_of_entity	Levent Kazak
+8415_8	is_in_sentence	sentence_8415
+8415_8	ROOT	8415_8
+8415_8	has_surface_form	is
+8415_2	is_in_sentence	sentence_8415
+8415_2	punct	8415_1
+8415_2	has_surface_form	(
+8415_3	is_in_sentence	sentence_8415
+8415_3	acl	8415_1
+8415_3	has_surface_form	born
+8415_4	is_in_sentence	sentence_8415
+8415_4	nummod	8415_5
+8415_4	has_surface_form	5
+8415_5	is_in_sentence	sentence_8415
+8415_5	npadvmod	8415_3
+8415_5	has_surface_form	May
+8415_6	is_in_sentence	sentence_8415
+8415_6	nummod	8415_5
+8415_6	has_surface_form	1967
+8415_7	is_in_sentence	sentence_8415
+8415_7	punct	8415_1
+8415_7	has_surface_form	)
+8415_9	is_in_sentence	sentence_8415
+8415_9	det	8415_11
+8415_9	has_surface_form	a
+8415_11	is_in_sentence	sentence_8415
+8415_11	attr	8415_8
+8415_11	has_surface_form	screenwriter
+8415_10	is_in_sentence	sentence_8415
+8415_10	amod	8415_11
+8415_10	has_surface_form	Turkish
+8415_12	is_in_sentence	sentence_8415
+8415_12	cc	8415_11
+8415_12	has_surface_form	and
+8415_13	is_in_sentence	sentence_8415
+8415_13	conj	8415_11
+8415_13	has_surface_form	actor
+8415_14	is_in_sentence	sentence_8415
+8415_14	punct	8415_8
+8415_14	has_surface_form	.
+8415_15	is_in_sentence	sentence_8415
+8415_15	compound	8415_16
+8415_15	has_surface_form	Levent
+8415_15	part_of_entity	Levent Kazak
+8415_16	is_in_sentence	sentence_8415
+8415_16	nsubjpass	8415_18
+8415_16	has_surface_form	Kazak
+8415_16	part_of_entity	Levent Kazak
+8415_18	is_in_sentence	sentence_8415
+8415_18	ROOT	8415_18
+8415_18	has_surface_form	born
+8415_17	is_in_sentence	sentence_8415
+8415_17	auxpass	8415_18
+8415_17	has_surface_form	was
+8415_19	is_in_sentence	sentence_8415
+8415_19	prep	8415_18
+8415_19	has_surface_form	in
+8415_20	is_in_sentence	sentence_8415
+8415_20	pobj	8415_19
+8415_20	is_entity	Ankara
+Ankara	surface_form	Ankara
+8415_21	is_in_sentence	sentence_8415
+8415_21	prep	8415_18
+8415_21	has_surface_form	in
+8415_22	is_in_sentence	sentence_8415
+8415_22	pobj	8415_21
+8415_22	has_surface_form	1967
+8415_23	is_in_sentence	sentence_8415
+8415_23	punct	8415_18
+8415_23	has_surface_form	.
+8415_24	is_in_sentence	sentence_8415
+8415_24	dep	8415_24
+8415_24	has_surface_form	
+Levent Kazak	surface_form	Levent Kazak
+Levent Kazak	birth-place	Ankara

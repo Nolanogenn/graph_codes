@@ -1,0 +1,69 @@
+9467_0	is_in_sentence	sentence_9467
+9467_0	det	9467_1
+9467_0	has_surface_form	A
+9467_0	part_of_entity	A Class to Remember
+9467_1	is_in_sentence	sentence_9467
+9467_1	nsubj	9467_9
+9467_1	has_surface_form	Class
+9467_1	part_of_entity	A Class to Remember
+9467_9	is_in_sentence	sentence_9467
+9467_9	ROOT	9467_9
+9467_9	has_surface_form	is
+9467_2	is_in_sentence	sentence_9467
+9467_2	aux	9467_3
+9467_2	has_surface_form	to
+9467_2	part_of_entity	A Class to Remember
+9467_3	is_in_sentence	sentence_9467
+9467_3	acl	9467_1
+9467_3	has_surface_form	Remember
+9467_3	part_of_entity	A Class to Remember
+9467_4	is_in_sentence	sentence_9467
+9467_4	punct	9467_3
+9467_4	has_surface_form	(
+9467_5	is_in_sentence	sentence_9467
+9467_5	intj	9467_3
+9467_5	has_surface_form	学校
+9467_6	is_in_sentence	sentence_9467
+9467_6	punct	9467_5
+9467_6	has_surface_form	,
+9467_7	is_in_sentence	sentence_9467
+9467_7	npadvmod	9467_5
+9467_7	has_surface_form	Gakko
+9467_8	is_in_sentence	sentence_9467
+9467_8	punct	9467_3
+9467_8	has_surface_form	)
+9467_10	is_in_sentence	sentence_9467
+9467_10	det	9467_13
+9467_10	has_surface_form	a
+9467_13	is_in_sentence	sentence_9467
+9467_13	attr	9467_9
+9467_13	has_surface_form	film
+9467_11	is_in_sentence	sentence_9467
+9467_11	nummod	9467_13
+9467_11	has_surface_form	1993
+9467_12	is_in_sentence	sentence_9467
+9467_12	amod	9467_13
+9467_12	has_surface_form	Japanese
+9467_14	is_in_sentence	sentence_9467
+9467_14	acl	9467_13
+9467_14	has_surface_form	directed
+9467_15	is_in_sentence	sentence_9467
+9467_15	agent	9467_14
+9467_15	has_surface_form	by
+9467_16	is_in_sentence	sentence_9467
+9467_16	compound	9467_17
+9467_16	has_surface_form	Yōji
+9467_16	part_of_entity	Yōji Yamada
+9467_17	is_in_sentence	sentence_9467
+9467_17	pobj	9467_15
+9467_17	has_surface_form	Yamada
+9467_17	part_of_entity	Yōji Yamada
+9467_18	is_in_sentence	sentence_9467
+9467_18	punct	9467_9
+9467_18	has_surface_form	.
+9467_19	is_in_sentence	sentence_9467
+9467_19	dep	9467_19
+9467_19	has_surface_form	
+A Class to Remember	surface_form	A Class to Remember
+A Class to Remember	movie-has-director	Yōji Yamada
+Yōji Yamada	surface_form	Yōji Yamada

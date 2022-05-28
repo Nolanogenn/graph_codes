@@ -1,0 +1,59 @@
+23502_0	is_in_sentence	sentence_23502
+23502_0	compound	23502_2
+23502_0	has_surface_form	Monte
+23502_0	part_of_entity	Monte Carlo Nights
+23502_2	is_in_sentence	sentence_23502
+23502_2	nsubj	23502_3
+23502_2	has_surface_form	Nights
+23502_2	part_of_entity	Monte Carlo Nights
+23502_1	is_in_sentence	sentence_23502
+23502_1	compound	23502_2
+23502_1	has_surface_form	Carlo
+23502_1	part_of_entity	Monte Carlo Nights
+23502_3	is_in_sentence	sentence_23502
+23502_3	ROOT	23502_3
+23502_3	has_surface_form	is
+23502_4	is_in_sentence	sentence_23502
+23502_4	det	23502_10
+23502_4	has_surface_form	a
+23502_10	is_in_sentence	sentence_23502
+23502_10	attr	23502_3
+23502_10	has_surface_form	film
+23502_5	is_in_sentence	sentence_23502
+23502_5	nummod	23502_10
+23502_5	has_surface_form	1934
+23502_6	is_in_sentence	sentence_23502
+23502_6	amod	23502_10
+23502_6	has_surface_form	American
+23502_7	is_in_sentence	sentence_23502
+23502_7	amod	23502_10
+23502_7	has_surface_form	pre
+23502_8	is_in_sentence	sentence_23502
+23502_8	amod	23502_10
+23502_8	has_surface_form	-
+23502_9	is_in_sentence	sentence_23502
+23502_9	amod	23502_10
+23502_9	has_surface_form	Code
+23502_11	is_in_sentence	sentence_23502
+23502_11	acl	23502_10
+23502_11	has_surface_form	directed
+23502_12	is_in_sentence	sentence_23502
+23502_12	agent	23502_11
+23502_12	has_surface_form	by
+23502_13	is_in_sentence	sentence_23502
+23502_13	compound	23502_14
+23502_13	has_surface_form	William
+23502_13	part_of_entity	William Nigh
+23502_14	is_in_sentence	sentence_23502
+23502_14	pobj	23502_12
+23502_14	has_surface_form	Nigh
+23502_14	part_of_entity	William Nigh
+23502_15	is_in_sentence	sentence_23502
+23502_15	punct	23502_3
+23502_15	has_surface_form	.
+23502_16	is_in_sentence	sentence_23502
+23502_16	dep	23502_3
+23502_16	has_surface_form	
+Monte Carlo Nights	surface_form	Monte Carlo Nights
+Monte Carlo Nights	movie-has-director	William Nigh
+William Nigh	surface_form	William Nigh

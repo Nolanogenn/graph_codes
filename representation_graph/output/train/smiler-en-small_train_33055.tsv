@@ -1,0 +1,76 @@
+33054_0	is_in_sentence	sentence_33054
+33054_0	compound	33054_1
+33054_0	has_surface_form	Melanie
+33054_0	part_of_entity	Melanie Balcomb
+33054_1	is_in_sentence	sentence_33054
+33054_1	nsubj	33054_10
+33054_1	has_surface_form	Balcomb
+33054_1	part_of_entity	Melanie Balcomb
+33054_10	is_in_sentence	sentence_33054
+33054_10	ROOT	33054_10
+33054_10	has_surface_form	was
+33054_2	is_in_sentence	sentence_33054
+33054_2	punct	33054_1
+33054_2	has_surface_form	(
+33054_3	is_in_sentence	sentence_33054
+33054_3	acl	33054_1
+33054_3	has_surface_form	born
+33054_4	is_in_sentence	sentence_33054
+33054_4	npadvmod	33054_3
+33054_4	has_surface_form	September
+33054_5	is_in_sentence	sentence_33054
+33054_5	nummod	33054_4
+33054_5	has_surface_form	24
+33054_6	is_in_sentence	sentence_33054
+33054_6	punct	33054_4
+33054_6	has_surface_form	,
+33054_7	is_in_sentence	sentence_33054
+33054_7	nummod	33054_4
+33054_7	has_surface_form	1962
+33054_8	is_in_sentence	sentence_33054
+33054_8	punct	33054_4
+33054_8	has_surface_form	)
+33054_9	is_in_sentence	sentence_33054
+33054_9	punct	33054_1
+33054_9	has_surface_form	,
+33054_11	is_in_sentence	sentence_33054
+33054_11	det	33054_13
+33054_11	has_surface_form	the
+33054_13	is_in_sentence	sentence_33054
+33054_13	attr	33054_10
+33054_13	has_surface_form	coach
+33054_13	part_of_entity	head coach
+33054_12	is_in_sentence	sentence_33054
+33054_12	compound	33054_13
+33054_12	has_surface_form	head
+33054_12	part_of_entity	head coach
+33054_14	is_in_sentence	sentence_33054
+33054_14	prep	33054_13
+33054_14	has_surface_form	of
+33054_15	is_in_sentence	sentence_33054
+33054_15	det	33054_17
+33054_15	has_surface_form	the
+33054_17	is_in_sentence	sentence_33054
+33054_17	poss	33054_20
+33054_17	has_surface_form	women
+33054_16	is_in_sentence	sentence_33054
+33054_16	compound	33054_17
+33054_16	has_surface_form	Vanderbilt
+33054_20	is_in_sentence	sentence_33054
+33054_20	pobj	33054_14
+33054_20	has_surface_form	team
+33054_18	is_in_sentence	sentence_33054
+33054_18	case	33054_17
+33054_18	has_surface_form	's
+33054_19	is_in_sentence	sentence_33054
+33054_19	compound	33054_20
+33054_19	has_surface_form	basketball
+33054_21	is_in_sentence	sentence_33054
+33054_21	punct	33054_10
+33054_21	has_surface_form	.
+33054_22	is_in_sentence	sentence_33054
+33054_22	dep	33054_22
+33054_22	has_surface_form	
+Melanie Balcomb	surface_form	Melanie Balcomb
+Melanie Balcomb	has-type	head coach
+head coach	surface_form	head coach

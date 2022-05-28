@@ -1,0 +1,80 @@
+4014_0	is_in_sentence	sentence_4014
+4014_0	compound	4014_1
+4014_0	has_surface_form	Joe
+4014_0	part_of_entity	Joe Loth
+4014_1	is_in_sentence	sentence_4014
+4014_1	nsubj	4014_9
+4014_1	has_surface_form	Loth
+4014_1	part_of_entity	Joe Loth
+4014_9	is_in_sentence	sentence_4014
+4014_9	ROOT	4014_9
+4014_9	has_surface_form	is
+4014_2	is_in_sentence	sentence_4014
+4014_2	punct	4014_1
+4014_2	has_surface_form	(
+4014_3	is_in_sentence	sentence_4014
+4014_3	acl	4014_1
+4014_3	has_surface_form	born
+4014_4	is_in_sentence	sentence_4014
+4014_4	npadvmod	4014_3
+4014_4	has_surface_form	January
+4014_5	is_in_sentence	sentence_4014
+4014_5	nummod	4014_4
+4014_5	has_surface_form	17
+4014_6	is_in_sentence	sentence_4014
+4014_6	punct	4014_4
+4014_6	has_surface_form	,
+4014_7	is_in_sentence	sentence_4014
+4014_7	nummod	4014_4
+4014_7	has_surface_form	1967
+4014_8	is_in_sentence	sentence_4014
+4014_8	punct	4014_1
+4014_8	has_surface_form	)
+4014_10	is_in_sentence	sentence_4014
+4014_10	compound	4014_12
+4014_10	has_surface_form	head
+4014_10	part_of_entity	head football coach
+4014_12	is_in_sentence	sentence_4014
+4014_12	attr	4014_9
+4014_12	has_surface_form	coach
+4014_12	part_of_entity	head football coach
+4014_11	is_in_sentence	sentence_4014
+4014_11	compound	4014_12
+4014_11	has_surface_form	football
+4014_11	part_of_entity	head football coach
+4014_13	is_in_sentence	sentence_4014
+4014_13	prep	4014_12
+4014_13	has_surface_form	for
+4014_14	is_in_sentence	sentence_4014
+4014_14	compound	4014_15
+4014_14	has_surface_form	Western
+4014_15	is_in_sentence	sentence_4014
+4014_15	compound	4014_17
+4014_15	has_surface_form	Connecticut
+4014_17	is_in_sentence	sentence_4014
+4014_17	pobj	4014_13
+4014_17	has_surface_form	University
+4014_16	is_in_sentence	sentence_4014
+4014_16	compound	4014_17
+4014_16	has_surface_form	State
+4014_18	is_in_sentence	sentence_4014
+4014_18	prep	4014_17
+4014_18	has_surface_form	in
+4014_19	is_in_sentence	sentence_4014
+4014_19	pobj	4014_18
+4014_19	has_surface_form	Danbury
+4014_20	is_in_sentence	sentence_4014
+4014_20	punct	4014_19
+4014_20	has_surface_form	,
+4014_21	is_in_sentence	sentence_4014
+4014_21	npadvmod	4014_19
+4014_21	has_surface_form	Connecticut
+4014_22	is_in_sentence	sentence_4014
+4014_22	punct	4014_9
+4014_22	has_surface_form	.
+4014_23	is_in_sentence	sentence_4014
+4014_23	dep	4014_9
+4014_23	has_surface_form	
+Joe Loth	surface_form	Joe Loth
+Joe Loth	has-type	head football coach
+head football coach	surface_form	head football coach

@@ -1,0 +1,59 @@
+30884_0	is_in_sentence	sentence_30884
+30884_0	compound	30884_1
+30884_0	has_surface_form	Investment
+30884_0	part_of_entity	Investment AB Öresund
+30884_1	is_in_sentence	sentence_30884
+30884_1	compound	30884_2
+30884_1	has_surface_form	AB
+30884_1	part_of_entity	Investment AB Öresund
+30884_2	is_in_sentence	sentence_30884
+30884_2	nsubj	30884_3
+30884_2	has_surface_form	Öresund
+30884_2	part_of_entity	Investment AB Öresund
+30884_3	is_in_sentence	sentence_30884
+30884_3	ROOT	30884_3
+30884_3	has_surface_form	is
+30884_4	is_in_sentence	sentence_30884
+30884_4	det	30884_7
+30884_4	has_surface_form	a
+30884_7	is_in_sentence	sentence_30884
+30884_7	attr	30884_3
+30884_7	has_surface_form	company
+30884_5	is_in_sentence	sentence_30884
+30884_5	amod	30884_7
+30884_5	has_surface_form	Swedish
+30884_6	is_in_sentence	sentence_30884
+30884_6	compound	30884_7
+30884_6	has_surface_form	investment
+30884_8	is_in_sentence	sentence_30884
+30884_8	acl	30884_7
+30884_8	has_surface_form	controlled
+30884_9	is_in_sentence	sentence_30884
+30884_9	agent	30884_8
+30884_9	has_surface_form	by
+30884_10	is_in_sentence	sentence_30884
+30884_10	compound	30884_11
+30884_10	has_surface_form	Mats
+30884_10	part_of_entity	Mats Qviberg
+30884_11	is_in_sentence	sentence_30884
+30884_11	pobj	30884_9
+30884_11	has_surface_form	Qviberg
+30884_11	part_of_entity	Mats Qviberg
+30884_12	is_in_sentence	sentence_30884
+30884_12	cc	30884_11
+30884_12	has_surface_form	and
+30884_13	is_in_sentence	sentence_30884
+30884_13	compound	30884_14
+30884_13	has_surface_form	Sven
+30884_14	is_in_sentence	sentence_30884
+30884_14	conj	30884_11
+30884_14	has_surface_form	Hagströmer
+30884_15	is_in_sentence	sentence_30884
+30884_15	punct	30884_3
+30884_15	has_surface_form	.
+30884_16	is_in_sentence	sentence_30884
+30884_16	dep	30884_3
+30884_16	has_surface_form	
+Investment AB Öresund	surface_form	Investment AB Öresund
+Investment AB Öresund	org-leader	Mats Qviberg
+Mats Qviberg	surface_form	Mats Qviberg

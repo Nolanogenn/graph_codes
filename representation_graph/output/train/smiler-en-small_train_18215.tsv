@@ -1,0 +1,64 @@
+18214_0	is_in_sentence	sentence_18214
+18214_0	compound	18214_1
+18214_0	has_surface_form	Antony
+18214_0	part_of_entity	Antony Beevor
+18214_1	is_in_sentence	sentence_18214
+18214_1	nsubj	18214_2
+18214_1	has_surface_form	Beevor
+18214_1	part_of_entity	Antony Beevor
+18214_2	is_in_sentence	sentence_18214
+18214_2	ccomp	18214_10
+18214_2	has_surface_form	is
+18214_10	is_in_sentence	sentence_18214
+18214_10	ROOT	18214_10
+18214_10	has_surface_form	have
+18214_3	is_in_sentence	sentence_18214
+18214_3	acomp	18214_2
+18214_3	has_surface_form	married
+18214_4	is_in_sentence	sentence_18214
+18214_4	aux	18214_5
+18214_4	has_surface_form	to
+18214_5	is_in_sentence	sentence_18214
+18214_5	xcomp	18214_3
+18214_5	has_surface_form	biographer
+18214_6	is_in_sentence	sentence_18214
+18214_6	compound	18214_7
+18214_6	has_surface_form	Artemis
+18214_6	part_of_entity	Artemis Cooper
+18214_7	is_in_sentence	sentence_18214
+18214_7	dobj	18214_5
+18214_7	has_surface_form	Cooper
+18214_7	part_of_entity	Artemis Cooper
+18214_8	is_in_sentence	sentence_18214
+18214_8	punct	18214_10
+18214_8	has_surface_form	;
+18214_9	is_in_sentence	sentence_18214
+18214_9	nsubj	18214_10
+18214_9	has_surface_form	they
+18214_11	is_in_sentence	sentence_18214
+18214_11	nummod	18214_12
+18214_11	has_surface_form	two
+18214_12	is_in_sentence	sentence_18214
+18214_12	dobj	18214_10
+18214_12	has_surface_form	children
+18214_13	is_in_sentence	sentence_18214
+18214_13	punct	18214_12
+18214_13	has_surface_form	,
+18214_14	is_in_sentence	sentence_18214
+18214_14	conj	18214_12
+18214_14	has_surface_form	Nella
+18214_15	is_in_sentence	sentence_18214
+18214_15	cc	18214_14
+18214_15	has_surface_form	and
+18214_16	is_in_sentence	sentence_18214
+18214_16	conj	18214_14
+18214_16	has_surface_form	Adam
+18214_17	is_in_sentence	sentence_18214
+18214_17	punct	18214_10
+18214_17	has_surface_form	.
+18214_18	is_in_sentence	sentence_18214
+18214_18	dep	18214_18
+18214_18	has_surface_form	
+Antony Beevor	surface_form	Antony Beevor
+Antony Beevor	has-spouse	Artemis Cooper
+Artemis Cooper	surface_form	Artemis Cooper

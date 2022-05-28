@@ -1,0 +1,52 @@
+21942_0	is_in_sentence	sentence_21942
+21942_0	nummod	21942_1
+21942_0	has_surface_form	13
+21942_0	part_of_entity	13 Moons
+21942_1	is_in_sentence	sentence_21942
+21942_1	nsubj	21942_2
+21942_1	has_surface_form	Moons
+21942_1	part_of_entity	13 Moons
+21942_2	is_in_sentence	sentence_21942
+21942_2	ROOT	21942_2
+21942_2	has_surface_form	is
+21942_3	is_in_sentence	sentence_21942
+21942_3	det	21942_8
+21942_3	has_surface_form	a
+21942_8	is_in_sentence	sentence_21942
+21942_8	attr	21942_2
+21942_8	has_surface_form	film
+21942_4	is_in_sentence	sentence_21942
+21942_4	nummod	21942_8
+21942_4	has_surface_form	2002
+21942_5	is_in_sentence	sentence_21942
+21942_5	compound	21942_7
+21942_5	has_surface_form	comedy
+21942_7	is_in_sentence	sentence_21942
+21942_7	compound	21942_8
+21942_7	has_surface_form	drama
+21942_6	is_in_sentence	sentence_21942
+21942_6	punct	21942_7
+21942_6	has_surface_form	-
+21942_9	is_in_sentence	sentence_21942
+21942_9	acl	21942_8
+21942_9	has_surface_form	directed
+21942_10	is_in_sentence	sentence_21942
+21942_10	agent	21942_9
+21942_10	has_surface_form	by
+21942_11	is_in_sentence	sentence_21942
+21942_11	compound	21942_12
+21942_11	has_surface_form	Alexandre
+21942_11	part_of_entity	Alexandre Rockwell
+21942_12	is_in_sentence	sentence_21942
+21942_12	pobj	21942_10
+21942_12	has_surface_form	Rockwell
+21942_12	part_of_entity	Alexandre Rockwell
+21942_13	is_in_sentence	sentence_21942
+21942_13	punct	21942_2
+21942_13	has_surface_form	.
+21942_14	is_in_sentence	sentence_21942
+21942_14	dep	21942_14
+21942_14	has_surface_form	
+13 Moons	surface_form	13 Moons
+13 Moons	movie-has-director	Alexandre Rockwell
+Alexandre Rockwell	surface_form	Alexandre Rockwell

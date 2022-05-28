@@ -1,0 +1,57 @@
+15915_0	is_in_sentence	sentence_15915
+15915_0	compound	15915_1
+15915_0	has_surface_form	Andy
+15915_1	is_in_sentence	sentence_15915
+15915_1	poss	15915_4
+15915_1	has_surface_form	Hardy
+15915_4	is_in_sentence	sentence_15915
+15915_4	nsubj	15915_5
+15915_4	has_surface_form	Life
+15915_2	is_in_sentence	sentence_15915
+15915_2	case	15915_1
+15915_2	has_surface_form	's
+15915_3	is_in_sentence	sentence_15915
+15915_3	compound	15915_4
+15915_3	has_surface_form	Double
+15915_5	is_in_sentence	sentence_15915
+15915_5	ROOT	15915_5
+15915_5	has_surface_form	is
+15915_6	is_in_sentence	sentence_15915
+15915_6	det	15915_9
+15915_6	has_surface_form	a
+15915_9	is_in_sentence	sentence_15915
+15915_9	attr	15915_5
+15915_9	has_surface_form	film
+15915_7	is_in_sentence	sentence_15915
+15915_7	nummod	15915_9
+15915_7	has_surface_form	1942
+15915_8	is_in_sentence	sentence_15915
+15915_8	compound	15915_9
+15915_8	has_surface_form	comedy
+15915_10	is_in_sentence	sentence_15915
+15915_10	acl	15915_9
+15915_10	has_surface_form	directed
+15915_11	is_in_sentence	sentence_15915
+15915_11	agent	15915_10
+15915_11	has_surface_form	by
+15915_12	is_in_sentence	sentence_15915
+15915_12	compound	15915_14
+15915_12	has_surface_form	George
+15915_12	part_of_entity	George B. Seitz
+15915_14	is_in_sentence	sentence_15915
+15915_14	pobj	15915_11
+15915_14	has_surface_form	Seitz
+15915_14	part_of_entity	George B. Seitz
+15915_13	is_in_sentence	sentence_15915
+15915_13	compound	15915_14
+15915_13	has_surface_form	B.
+15915_13	part_of_entity	George B. Seitz
+15915_15	is_in_sentence	sentence_15915
+15915_15	punct	15915_5
+15915_15	has_surface_form	.
+15915_16	is_in_sentence	sentence_15915
+15915_16	dep	15915_5
+15915_16	has_surface_form	
+Andy Hardy's Double Life	surface_form	Andy Hardy's Double Life
+Andy Hardy's Double Life	movie-has-director	George B. Seitz
+George B. Seitz	surface_form	George B. Seitz

@@ -1,0 +1,50 @@
+20763_0	is_in_sentence	sentence_20763
+20763_0	compound	20763_1
+20763_0	has_surface_form	Wil
+20763_0	part_of_entity	Wil Röttgen
+20763_1	is_in_sentence	sentence_20763
+20763_1	nsubj	20763_9
+20763_1	has_surface_form	Röttgen
+20763_1	part_of_entity	Wil Röttgen
+20763_9	is_in_sentence	sentence_20763
+20763_9	ROOT	20763_9
+20763_9	has_surface_form	is
+20763_2	is_in_sentence	sentence_20763
+20763_2	punct	20763_1
+20763_2	has_surface_form	(
+20763_3	is_in_sentence	sentence_20763
+20763_3	acl	20763_1
+20763_3	has_surface_form	born
+20763_4	is_in_sentence	sentence_20763
+20763_4	npadvmod	20763_3
+20763_4	has_surface_form	September
+20763_5	is_in_sentence	sentence_20763
+20763_5	nummod	20763_4
+20763_5	has_surface_form	20
+20763_6	is_in_sentence	sentence_20763
+20763_6	punct	20763_4
+20763_6	has_surface_form	,
+20763_7	is_in_sentence	sentence_20763
+20763_7	nummod	20763_4
+20763_7	has_surface_form	1966
+20763_8	is_in_sentence	sentence_20763
+20763_8	punct	20763_1
+20763_8	has_surface_form	)
+20763_10	is_in_sentence	sentence_20763
+20763_10	det	20763_12
+20763_10	has_surface_form	a
+20763_12	is_in_sentence	sentence_20763
+20763_12	attr	20763_9
+20763_12	is_entity	actor
+20763_11	is_in_sentence	sentence_20763
+20763_11	amod	20763_12
+20763_11	has_surface_form	German
+actor	surface_form	actor
+20763_13	is_in_sentence	sentence_20763
+20763_13	punct	20763_9
+20763_13	has_surface_form	.
+20763_14	is_in_sentence	sentence_20763
+20763_14	dep	20763_9
+20763_14	has_surface_form	
+Wil Röttgen	surface_form	Wil Röttgen
+Wil Röttgen	has-occupation	actor

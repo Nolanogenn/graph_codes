@@ -1,0 +1,121 @@
+32508_0	is_in_sentence	sentence_32508
+32508_0	det	32508_1
+32508_0	has_surface_form	The
+32508_0	part_of_entity	The Queen of Moulin Rouge
+32508_1	is_in_sentence	sentence_32508
+32508_1	nsubj	32508_14
+32508_1	has_surface_form	Queen
+32508_1	part_of_entity	The Queen of Moulin Rouge
+32508_14	is_in_sentence	sentence_32508
+32508_14	ROOT	32508_14
+32508_14	has_surface_form	is
+32508_2	is_in_sentence	sentence_32508
+32508_2	prep	32508_1
+32508_2	has_surface_form	of
+32508_2	part_of_entity	The Queen of Moulin Rouge
+32508_3	is_in_sentence	sentence_32508
+32508_3	compound	32508_4
+32508_3	has_surface_form	Moulin
+32508_3	part_of_entity	The Queen of Moulin Rouge
+32508_4	is_in_sentence	sentence_32508
+32508_4	pobj	32508_2
+32508_4	has_surface_form	Rouge
+32508_4	part_of_entity	The Queen of Moulin Rouge
+32508_5	is_in_sentence	sentence_32508
+32508_5	punct	32508_14
+32508_5	has_surface_form	(
+32508_6	is_in_sentence	sentence_32508
+32508_6	nsubj	32508_14
+32508_6	has_surface_form	German
+32508_7	is_in_sentence	sentence_32508
+32508_7	punct	32508_8
+32508_7	has_surface_form	:
+32508_8	is_in_sentence	sentence_32508
+32508_8	appos	32508_6
+32508_8	has_surface_form	Die
+32508_9	is_in_sentence	sentence_32508
+32508_9	compound	32508_12
+32508_9	has_surface_form	Königin
+32508_12	is_in_sentence	sentence_32508
+32508_12	dobj	32508_8
+32508_12	has_surface_form	Rouge
+32508_10	is_in_sentence	sentence_32508
+32508_10	compound	32508_12
+32508_10	has_surface_form	von
+32508_11	is_in_sentence	sentence_32508
+32508_11	compound	32508_12
+32508_11	has_surface_form	Moulin
+32508_13	is_in_sentence	sentence_32508
+32508_13	punct	32508_8
+32508_13	has_surface_form	)
+32508_15	is_in_sentence	sentence_32508
+32508_15	det	32508_20
+32508_15	has_surface_form	a
+32508_20	is_in_sentence	sentence_32508
+32508_20	attr	32508_14
+32508_20	has_surface_form	film
+32508_16	is_in_sentence	sentence_32508
+32508_16	nummod	32508_20
+32508_16	has_surface_form	1926
+32508_17	is_in_sentence	sentence_32508
+32508_17	amod	32508_20
+32508_17	has_surface_form	Austrian
+32508_18	is_in_sentence	sentence_32508
+32508_18	amod	32508_20
+32508_18	has_surface_form	silent
+32508_19	is_in_sentence	sentence_32508
+32508_19	compound	32508_20
+32508_19	has_surface_form	comedy
+32508_21	is_in_sentence	sentence_32508
+32508_21	acl	32508_20
+32508_21	has_surface_form	directed
+32508_22	is_in_sentence	sentence_32508
+32508_22	agent	32508_21
+32508_22	has_surface_form	by
+32508_23	is_in_sentence	sentence_32508
+32508_23	compound	32508_24
+32508_23	has_surface_form	Robert
+32508_23	part_of_entity	Robert Wiene
+32508_24	is_in_sentence	sentence_32508
+32508_24	pobj	32508_22
+32508_24	has_surface_form	Wiene
+32508_24	part_of_entity	Robert Wiene
+32508_25	is_in_sentence	sentence_32508
+32508_25	cc	32508_21
+32508_25	has_surface_form	and
+32508_26	is_in_sentence	sentence_32508
+32508_26	conj	32508_21
+32508_26	has_surface_form	starring
+32508_27	is_in_sentence	sentence_32508
+32508_27	compound	32508_28
+32508_27	has_surface_form	Mady
+32508_28	is_in_sentence	sentence_32508
+32508_28	dobj	32508_26
+32508_28	has_surface_form	Christians
+32508_29	is_in_sentence	sentence_32508
+32508_29	punct	32508_28
+32508_29	has_surface_form	,
+32508_30	is_in_sentence	sentence_32508
+32508_30	compound	32508_31
+32508_30	has_surface_form	André
+32508_31	is_in_sentence	sentence_32508
+32508_31	conj	32508_28
+32508_31	has_surface_form	Roanne
+32508_32	is_in_sentence	sentence_32508
+32508_32	cc	32508_31
+32508_32	has_surface_form	and
+32508_33	is_in_sentence	sentence_32508
+32508_33	compound	32508_34
+32508_33	has_surface_form	Livio
+32508_34	is_in_sentence	sentence_32508
+32508_34	conj	32508_31
+32508_34	has_surface_form	Pavanelli
+32508_35	is_in_sentence	sentence_32508
+32508_35	punct	32508_14
+32508_35	has_surface_form	.
+32508_36	is_in_sentence	sentence_32508
+32508_36	dep	32508_36
+32508_36	has_surface_form	
+The Queen of Moulin Rouge	surface_form	The Queen of Moulin Rouge
+The Queen of Moulin Rouge	movie-has-director	Robert Wiene
+Robert Wiene	surface_form	Robert Wiene

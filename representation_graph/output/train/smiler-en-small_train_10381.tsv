@@ -1,0 +1,46 @@
+10380_0	is_in_sentence	sentence_10380
+10380_0	nummod	10380_1
+10380_0	has_surface_form	11
+10380_0	part_of_entity	11 O'Clock
+10380_1	is_in_sentence	sentence_10380
+10380_1	nsubj	10380_2
+10380_1	has_surface_form	O'Clock
+10380_1	part_of_entity	11 O'Clock
+10380_2	is_in_sentence	sentence_10380
+10380_2	ROOT	10380_2
+10380_2	has_surface_form	is
+10380_3	is_in_sentence	sentence_10380
+10380_3	det	10380_6
+10380_3	has_surface_form	a
+10380_6	is_in_sentence	sentence_10380
+10380_6	attr	10380_2
+10380_6	has_surface_form	film
+10380_4	is_in_sentence	sentence_10380
+10380_4	nummod	10380_6
+10380_4	has_surface_form	1948
+10380_5	is_in_sentence	sentence_10380
+10380_5	compound	10380_6
+10380_5	has_surface_form	action
+10380_7	is_in_sentence	sentence_10380
+10380_7	acl	10380_6
+10380_7	has_surface_form	directed
+10380_8	is_in_sentence	sentence_10380
+10380_8	agent	10380_7
+10380_8	has_surface_form	by
+10380_9	is_in_sentence	sentence_10380
+10380_9	compound	10380_10
+10380_9	has_surface_form	Homi
+10380_9	part_of_entity	Homi Wadia
+10380_10	is_in_sentence	sentence_10380
+10380_10	pobj	10380_8
+10380_10	has_surface_form	Wadia
+10380_10	part_of_entity	Homi Wadia
+10380_11	is_in_sentence	sentence_10380
+10380_11	punct	10380_2
+10380_11	has_surface_form	.
+10380_12	is_in_sentence	sentence_10380
+10380_12	dep	10380_12
+10380_12	has_surface_form	
+11 O'Clock	surface_form	11 O'Clock
+11 O'Clock	movie-has-director	Homi Wadia
+Homi Wadia	surface_form	Homi Wadia

@@ -1,0 +1,53 @@
+33540_0	is_in_sentence	sentence_33540
+33540_0	compound	33540_1
+33540_0	has_surface_form	Wade
+33540_0	part_of_entity	Wade Simoneaux
+33540_1	is_in_sentence	sentence_33540
+33540_1	nsubj	33540_2
+33540_1	has_surface_form	Simoneaux
+33540_1	part_of_entity	Wade Simoneaux
+33540_2	is_in_sentence	sentence_33540
+33540_2	ROOT	33540_2
+33540_2	has_surface_form	is
+33540_3	is_in_sentence	sentence_33540
+33540_3	det	33540_6
+33540_3	has_surface_form	a
+33540_6	is_in_sentence	sentence_33540
+33540_6	attr	33540_2
+33540_6	is_entity	coach
+33540_4	is_in_sentence	sentence_33540
+33540_4	amod	33540_6
+33540_4	has_surface_form	former
+33540_5	is_in_sentence	sentence_33540
+33540_5	compound	33540_6
+33540_5	has_surface_form	head
+coach	surface_form	coach
+33540_7	is_in_sentence	sentence_33540
+33540_7	prep	33540_6
+33540_7	has_surface_form	of
+33540_8	is_in_sentence	sentence_33540
+33540_8	det	33540_13
+33540_8	has_surface_form	the
+33540_13	is_in_sentence	sentence_33540
+33540_13	pobj	33540_7
+33540_13	has_surface_form	team
+33540_9	is_in_sentence	sentence_33540
+33540_9	compound	33540_10
+33540_9	has_surface_form	Louisiana
+33540_10	is_in_sentence	sentence_33540
+33540_10	compound	33540_11
+33540_10	has_surface_form	Tech
+33540_11	is_in_sentence	sentence_33540
+33540_11	compound	33540_13
+33540_11	has_surface_form	Bulldogs
+33540_12	is_in_sentence	sentence_33540
+33540_12	compound	33540_13
+33540_12	has_surface_form	baseball
+33540_14	is_in_sentence	sentence_33540
+33540_14	punct	33540_2
+33540_14	has_surface_form	.
+33540_15	is_in_sentence	sentence_33540
+33540_15	dep	33540_15
+33540_15	has_surface_form	
+Wade Simoneaux	surface_form	Wade Simoneaux
+Wade Simoneaux	has-type	coach

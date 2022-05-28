@@ -1,0 +1,55 @@
+11325_0	is_in_sentence	sentence_11325
+11325_0	compound	11325_1
+11325_0	has_surface_form	Carl
+11325_0	part_of_entity	Carl Pelini
+11325_1	is_in_sentence	sentence_11325
+11325_1	nsubj	11325_9
+11325_1	has_surface_form	Pelini
+11325_1	part_of_entity	Carl Pelini
+11325_9	is_in_sentence	sentence_11325
+11325_9	ROOT	11325_9
+11325_9	has_surface_form	is
+11325_2	is_in_sentence	sentence_11325
+11325_2	punct	11325_1
+11325_2	has_surface_form	(
+11325_3	is_in_sentence	sentence_11325
+11325_3	acl	11325_1
+11325_3	has_surface_form	born
+11325_4	is_in_sentence	sentence_11325
+11325_4	npadvmod	11325_3
+11325_4	has_surface_form	July
+11325_5	is_in_sentence	sentence_11325
+11325_5	nummod	11325_4
+11325_5	has_surface_form	15
+11325_6	is_in_sentence	sentence_11325
+11325_6	punct	11325_4
+11325_6	has_surface_form	,
+11325_7	is_in_sentence	sentence_11325
+11325_7	nummod	11325_4
+11325_7	has_surface_form	1965
+11325_8	is_in_sentence	sentence_11325
+11325_8	punct	11325_1
+11325_8	has_surface_form	)
+11325_10	is_in_sentence	sentence_11325
+11325_10	det	11325_13
+11325_10	has_surface_form	an
+11325_13	is_in_sentence	sentence_11325
+11325_13	attr	11325_9
+11325_13	has_surface_form	coach
+11325_13	part_of_entity	football coach
+11325_11	is_in_sentence	sentence_11325
+11325_11	amod	11325_13
+11325_11	has_surface_form	American
+11325_12	is_in_sentence	sentence_11325
+11325_12	compound	11325_13
+11325_12	has_surface_form	football
+11325_12	part_of_entity	football coach
+11325_14	is_in_sentence	sentence_11325
+11325_14	punct	11325_9
+11325_14	has_surface_form	.
+11325_15	is_in_sentence	sentence_11325
+11325_15	dep	11325_15
+11325_15	has_surface_form	
+Carl Pelini	surface_form	Carl Pelini
+Carl Pelini	has-type	football coach
+football coach	surface_form	football coach

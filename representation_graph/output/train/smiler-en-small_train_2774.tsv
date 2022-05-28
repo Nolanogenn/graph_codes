@@ -1,0 +1,89 @@
+2773_0	is_in_sentence	sentence_2773
+2773_0	compound	2773_1
+2773_0	has_surface_form	Šarūnas
+2773_0	part_of_entity	Šarūnas Sauka
+2773_1	is_in_sentence	sentence_2773
+2773_1	nsubj	2773_10
+2773_1	has_surface_form	Sauka
+2773_1	part_of_entity	Šarūnas Sauka
+2773_10	is_in_sentence	sentence_2773
+2773_10	ROOT	2773_10
+2773_10	has_surface_form	is
+2773_2	is_in_sentence	sentence_2773
+2773_2	punct	2773_1
+2773_2	has_surface_form	(
+2773_3	is_in_sentence	sentence_2773
+2773_3	acl	2773_1
+2773_3	has_surface_form	born
+2773_4	is_in_sentence	sentence_2773
+2773_4	npadvmod	2773_3
+2773_4	has_surface_form	1958
+2773_5	is_in_sentence	sentence_2773
+2773_5	prep	2773_3
+2773_5	has_surface_form	in
+2773_6	is_in_sentence	sentence_2773
+2773_6	pobj	2773_5
+2773_6	has_surface_form	Vilnius
+2773_7	is_in_sentence	sentence_2773
+2773_7	punct	2773_6
+2773_7	has_surface_form	,
+2773_8	is_in_sentence	sentence_2773
+2773_8	appos	2773_6
+2773_8	has_surface_form	Lithuania
+2773_9	is_in_sentence	sentence_2773
+2773_9	punct	2773_6
+2773_9	has_surface_form	)
+2773_11	is_in_sentence	sentence_2773
+2773_11	det	2773_13
+2773_11	has_surface_form	a
+2773_13	is_in_sentence	sentence_2773
+2773_13	attr	2773_10
+2773_13	has_surface_form	painter
+2773_12	is_in_sentence	sentence_2773
+2773_12	amod	2773_13
+2773_12	has_surface_form	postmodern
+2773_14	is_in_sentence	sentence_2773
+2773_14	punct	2773_10
+2773_14	has_surface_form	.
+2773_15	is_in_sentence	sentence_2773
+2773_15	prep	2773_20
+2773_15	has_surface_form	In
+2773_20	is_in_sentence	sentence_2773
+2773_20	ROOT	2773_20
+2773_20	has_surface_form	awarded
+2773_16	is_in_sentence	sentence_2773
+2773_16	pobj	2773_15
+2773_16	has_surface_form	1989
+2773_17	is_in_sentence	sentence_2773
+2773_17	punct	2773_20
+2773_17	has_surface_form	,
+2773_18	is_in_sentence	sentence_2773
+2773_18	nsubjpass	2773_20
+2773_18	has_surface_form	he
+2773_19	is_in_sentence	sentence_2773
+2773_19	auxpass	2773_20
+2773_19	has_surface_form	was
+2773_21	is_in_sentence	sentence_2773
+2773_21	det	2773_24
+2773_21	has_surface_form	the
+2773_24	is_in_sentence	sentence_2773
+2773_24	dobj	2773_20
+2773_24	has_surface_form	Prize
+2773_24	part_of_entity	Lithuanian National Prize
+2773_22	is_in_sentence	sentence_2773
+2773_22	compound	2773_24
+2773_22	has_surface_form	Lithuanian
+2773_22	part_of_entity	Lithuanian National Prize
+2773_23	is_in_sentence	sentence_2773
+2773_23	compound	2773_24
+2773_23	has_surface_form	National
+2773_23	part_of_entity	Lithuanian National Prize
+2773_25	is_in_sentence	sentence_2773
+2773_25	punct	2773_20
+2773_25	has_surface_form	.
+2773_26	is_in_sentence	sentence_2773
+2773_26	dep	2773_20
+2773_26	has_surface_form	
+Šarūnas Sauka	surface_form	Šarūnas Sauka
+Šarūnas Sauka	won-award	Lithuanian National Prize
+Lithuanian National Prize	surface_form	Lithuanian National Prize

@@ -1,0 +1,70 @@
+11734_0	is_in_sentence	sentence_11734
+11734_0	compound	11734_1
+11734_0	has_surface_form	Juan
+11734_0	part_of_entity	Juan Fernando Cordero Cueva
+11734_1	is_in_sentence	sentence_11734
+11734_1	compound	11734_3
+11734_1	has_surface_form	Fernando
+11734_1	part_of_entity	Juan Fernando Cordero Cueva
+11734_3	is_in_sentence	sentence_11734
+11734_3	nsubj	11734_13
+11734_3	has_surface_form	Cueva
+11734_3	part_of_entity	Juan Fernando Cordero Cueva
+11734_2	is_in_sentence	sentence_11734
+11734_2	compound	11734_3
+11734_2	has_surface_form	Cordero
+11734_2	part_of_entity	Juan Fernando Cordero Cueva
+11734_13	is_in_sentence	sentence_11734
+11734_13	ROOT	11734_13
+11734_13	has_surface_form	is
+11734_4	is_in_sentence	sentence_11734
+11734_4	punct	11734_3
+11734_4	has_surface_form	(
+11734_5	is_in_sentence	sentence_11734
+11734_5	acl	11734_3
+11734_5	has_surface_form	born
+11734_6	is_in_sentence	sentence_11734
+11734_6	npadvmod	11734_5
+11734_6	has_surface_form	May
+11734_7	is_in_sentence	sentence_11734
+11734_7	nummod	11734_6
+11734_7	has_surface_form	27
+11734_8	is_in_sentence	sentence_11734
+11734_8	punct	11734_6
+11734_8	has_surface_form	,
+11734_9	is_in_sentence	sentence_11734
+11734_9	nummod	11734_6
+11734_9	has_surface_form	1952
+11734_10	is_in_sentence	sentence_11734
+11734_10	prep	11734_5
+11734_10	has_surface_form	in
+11734_11	is_in_sentence	sentence_11734
+11734_11	pobj	11734_10
+11734_11	is_entity	Cuenca
+Cuenca	surface_form	Cuenca
+11734_12	is_in_sentence	sentence_11734
+11734_12	punct	11734_3
+11734_12	has_surface_form	)
+11734_14	is_in_sentence	sentence_11734
+11734_14	det	11734_16
+11734_14	has_surface_form	an
+11734_16	is_in_sentence	sentence_11734
+11734_16	attr	11734_13
+11734_16	has_surface_form	politician
+11734_15	is_in_sentence	sentence_11734
+11734_15	amod	11734_16
+11734_15	has_surface_form	Ecuadorian
+11734_17	is_in_sentence	sentence_11734
+11734_17	cc	11734_16
+11734_17	has_surface_form	and
+11734_18	is_in_sentence	sentence_11734
+11734_18	conj	11734_16
+11734_18	has_surface_form	architect
+11734_19	is_in_sentence	sentence_11734
+11734_19	punct	11734_13
+11734_19	has_surface_form	.
+11734_20	is_in_sentence	sentence_11734
+11734_20	dep	11734_20
+11734_20	has_surface_form	
+Juan Fernando Cordero Cueva	surface_form	Juan Fernando Cordero Cueva
+Juan Fernando Cordero Cueva	birth-place	Cuenca

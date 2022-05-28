@@ -1,0 +1,55 @@
+10006_0	is_in_sentence	sentence_10006
+10006_0	compound	10006_1
+10006_0	has_surface_form	Moraine
+10006_0	part_of_entity	Moraine Valley Community College
+10006_1	is_in_sentence	sentence_10006
+10006_1	compound	10006_3
+10006_1	has_surface_form	Valley
+10006_1	part_of_entity	Moraine Valley Community College
+10006_3	is_in_sentence	sentence_10006
+10006_3	nsubj	10006_4
+10006_3	has_surface_form	College
+10006_3	part_of_entity	Moraine Valley Community College
+10006_2	is_in_sentence	sentence_10006
+10006_2	compound	10006_3
+10006_2	has_surface_form	Community
+10006_2	part_of_entity	Moraine Valley Community College
+10006_4	is_in_sentence	sentence_10006
+10006_4	ROOT	10006_4
+10006_4	has_surface_form	is
+10006_5	is_in_sentence	sentence_10006
+10006_5	det	10006_8
+10006_5	has_surface_form	a
+10006_8	is_in_sentence	sentence_10006
+10006_8	attr	10006_4
+10006_8	has_surface_form	college
+10006_6	is_in_sentence	sentence_10006
+10006_6	amod	10006_7
+10006_6	has_surface_form	public
+10006_7	is_in_sentence	sentence_10006
+10006_7	compound	10006_8
+10006_7	has_surface_form	community
+10006_9	is_in_sentence	sentence_10006
+10006_9	prep	10006_8
+10006_9	has_surface_form	in
+10006_10	is_in_sentence	sentence_10006
+10006_10	compound	10006_11
+10006_10	has_surface_form	Palos
+10006_11	is_in_sentence	sentence_10006
+10006_11	pobj	10006_9
+10006_11	has_surface_form	Hills
+10006_12	is_in_sentence	sentence_10006
+10006_12	punct	10006_11
+10006_12	has_surface_form	,
+10006_13	is_in_sentence	sentence_10006
+10006_13	appos	10006_11
+10006_13	has_surface_form	Illinois
+10006_14	is_in_sentence	sentence_10006
+10006_14	punct	10006_4
+10006_14	has_surface_form	.
+10006_15	is_in_sentence	sentence_10006
+10006_15	dep	10006_4
+10006_15	has_surface_form	
+Moraine Valley Community College	surface_form	Moraine Valley Community College
+Moraine Valley Community College	is-where	Palos Hills, Illinois
+Palos Hills, Illinois	surface_form	Palos Hills, Illinois

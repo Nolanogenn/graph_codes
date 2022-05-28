@@ -1,0 +1,70 @@
+30490_0	is_in_sentence	sentence_30490
+30490_0	det	30490_3
+30490_0	has_surface_form	The
+30490_3	is_in_sentence	sentence_30490
+30490_3	nsubj	30490_4
+30490_3	has_surface_form	secretary
+30490_1	is_in_sentence	sentence_30490
+30490_1	amod	30490_3
+30490_1	has_surface_form	first
+30490_2	is_in_sentence	sentence_30490
+30490_2	amod	30490_3
+30490_2	has_surface_form	national
+30490_4	is_in_sentence	sentence_30490
+30490_4	ROOT	30490_4
+30490_4	has_surface_form	was
+30490_5	is_in_sentence	sentence_30490
+30490_5	compound	30490_6
+30490_5	has_surface_form	Samuel
+30490_5	part_of_entity	Samuel Perry
+30490_6	is_in_sentence	sentence_30490
+30490_6	attr	30490_4
+30490_6	has_surface_form	Perry
+30490_6	part_of_entity	Samuel Perry
+30490_7	is_in_sentence	sentence_30490
+30490_7	punct	30490_4
+30490_7	has_surface_form	,
+30490_8	is_in_sentence	sentence_30490
+30490_8	advmod	30490_10
+30490_8	has_surface_form	later
+30490_10	is_in_sentence	sentence_30490
+30490_10	attr	30490_4
+30490_10	has_surface_form	Member
+30490_9	is_in_sentence	sentence_30490
+30490_9	det	30490_10
+30490_9	has_surface_form	a
+30490_11	is_in_sentence	sentence_30490
+30490_11	prep	30490_10
+30490_11	has_surface_form	of
+30490_12	is_in_sentence	sentence_30490
+30490_12	pobj	30490_11
+30490_12	has_surface_form	Parliament
+30490_13	is_in_sentence	sentence_30490
+30490_13	cc	30490_10
+30490_13	has_surface_form	and
+30490_14	is_in_sentence	sentence_30490
+30490_14	det	30490_15
+30490_14	has_surface_form	the
+30490_15	is_in_sentence	sentence_30490
+30490_15	conj	30490_10
+30490_15	has_surface_form	father
+30490_16	is_in_sentence	sentence_30490
+30490_16	prep	30490_15
+30490_16	has_surface_form	of
+30490_17	is_in_sentence	sentence_30490
+30490_17	compound	30490_18
+30490_17	has_surface_form	Fred
+30490_17	part_of_entity	Fred Perry
+30490_18	is_in_sentence	sentence_30490
+30490_18	pobj	30490_16
+30490_18	has_surface_form	Perry
+30490_18	part_of_entity	Fred Perry
+30490_19	is_in_sentence	sentence_30490
+30490_19	punct	30490_4
+30490_19	has_surface_form	.
+30490_20	is_in_sentence	sentence_30490
+30490_20	dep	30490_4
+30490_20	has_surface_form	
+Samuel Perry	surface_form	Samuel Perry
+Samuel Perry	has-child	Fred Perry
+Fred Perry	surface_form	Fred Perry

@@ -1,0 +1,52 @@
+31600_0	is_in_sentence	sentence_31600
+31600_0	compound	31600_1
+31600_0	has_surface_form	Geary
+31600_0	part_of_entity	Geary Gravel
+31600_1	is_in_sentence	sentence_31600
+31600_1	nsubj	31600_2
+31600_1	has_surface_form	Gravel
+31600_1	part_of_entity	Geary Gravel
+31600_2	is_in_sentence	sentence_31600
+31600_2	ROOT	31600_2
+31600_2	has_surface_form	is
+31600_3	is_in_sentence	sentence_31600
+31600_3	det	31600_7
+31600_3	has_surface_form	an
+31600_7	is_in_sentence	sentence_31600
+31600_7	attr	31600_2
+31600_7	has_surface_form	author
+31600_4	is_in_sentence	sentence_31600
+31600_4	amod	31600_6
+31600_4	has_surface_form	American
+31600_6	is_in_sentence	sentence_31600
+31600_6	compound	31600_7
+31600_6	has_surface_form	fiction
+31600_6	part_of_entity	science fiction
+31600_5	is_in_sentence	sentence_31600
+31600_5	compound	31600_6
+31600_5	has_surface_form	science
+31600_5	part_of_entity	science fiction
+31600_8	is_in_sentence	sentence_31600
+31600_8	cc	31600_7
+31600_8	has_surface_form	and
+31600_9	is_in_sentence	sentence_31600
+31600_9	amod	31600_12
+31600_9	has_surface_form	professional
+31600_12	is_in_sentence	sentence_31600
+31600_12	conj	31600_7
+31600_12	has_surface_form	interpreter
+31600_10	is_in_sentence	sentence_31600
+31600_10	compound	31600_11
+31600_10	has_surface_form	sign
+31600_11	is_in_sentence	sentence_31600
+31600_11	compound	31600_12
+31600_11	has_surface_form	language
+31600_13	is_in_sentence	sentence_31600
+31600_13	punct	31600_2
+31600_13	has_surface_form	.
+31600_14	is_in_sentence	sentence_31600
+31600_14	dep	31600_14
+31600_14	has_surface_form	
+Geary Gravel	surface_form	Geary Gravel
+Geary Gravel	has-genre	science fiction
+science fiction	surface_form	science fiction

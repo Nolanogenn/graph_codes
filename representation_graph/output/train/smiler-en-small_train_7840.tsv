@@ -1,0 +1,111 @@
+7839_0	is_in_sentence	sentence_7839
+7839_0	compound	7839_1
+7839_0	has_surface_form	Jill
+7839_0	part_of_entity	Jill Esmond
+7839_1	is_in_sentence	sentence_7839
+7839_1	nsubj	7839_16
+7839_1	has_surface_form	Esmond
+7839_1	part_of_entity	Jill Esmond
+7839_16	is_in_sentence	sentence_7839
+7839_16	ROOT	7839_16
+7839_16	has_surface_form	was
+7839_2	is_in_sentence	sentence_7839
+7839_2	punct	7839_3
+7839_2	has_surface_form	(
+7839_3	is_in_sentence	sentence_7839
+7839_3	parataxis	7839_1
+7839_3	has_surface_form	born
+7839_4	is_in_sentence	sentence_7839
+7839_4	compound	7839_6
+7839_4	has_surface_form	Jill
+7839_4	part_of_entity	Jill Esmond
+7839_6	is_in_sentence	sentence_7839
+7839_6	dobj	7839_3
+7839_6	has_surface_form	Moore
+7839_5	is_in_sentence	sentence_7839
+7839_5	compound	7839_6
+7839_5	has_surface_form	Esmond
+7839_5	part_of_entity	Jill Esmond
+7839_7	is_in_sentence	sentence_7839
+7839_7	punct	7839_1
+7839_7	has_surface_form	;
+7839_8	is_in_sentence	sentence_7839
+7839_8	nummod	7839_9
+7839_8	has_surface_form	26
+7839_9	is_in_sentence	sentence_7839
+7839_9	appos	7839_1
+7839_9	has_surface_form	January
+7839_10	is_in_sentence	sentence_7839
+7839_10	nummod	7839_9
+7839_10	has_surface_form	1908
+7839_11	is_in_sentence	sentence_7839
+7839_11	punct	7839_9
+7839_11	has_surface_form	–
+7839_12	is_in_sentence	sentence_7839
+7839_12	nummod	7839_9
+7839_12	has_surface_form	28
+7839_13	is_in_sentence	sentence_7839
+7839_13	npadvmod	7839_9
+7839_13	has_surface_form	July
+7839_14	is_in_sentence	sentence_7839
+7839_14	nummod	7839_13
+7839_14	has_surface_form	1990
+7839_15	is_in_sentence	sentence_7839
+7839_15	punct	7839_9
+7839_15	has_surface_form	)
+7839_17	is_in_sentence	sentence_7839
+7839_17	det	7839_19
+7839_17	has_surface_form	an
+7839_19	is_in_sentence	sentence_7839
+7839_19	attr	7839_16
+7839_19	has_surface_form	stage
+7839_18	is_in_sentence	sentence_7839
+7839_18	amod	7839_19
+7839_18	has_surface_form	English
+7839_20	is_in_sentence	sentence_7839
+7839_20	cc	7839_19
+7839_20	has_surface_form	and
+7839_21	is_in_sentence	sentence_7839
+7839_21	compound	7839_22
+7839_21	has_surface_form	screen
+7839_22	is_in_sentence	sentence_7839
+7839_22	conj	7839_19
+7839_22	has_surface_form	actress
+7839_23	is_in_sentence	sentence_7839
+7839_23	punct	7839_16
+7839_23	has_surface_form	.
+7839_24	is_in_sentence	sentence_7839
+7839_24	nsubj	7839_25
+7839_24	has_surface_form	She
+7839_25	is_in_sentence	sentence_7839
+7839_25	ROOT	7839_25
+7839_25	has_surface_form	was
+7839_26	is_in_sentence	sentence_7839
+7839_26	det	7839_28
+7839_26	has_surface_form	the
+7839_28	is_in_sentence	sentence_7839
+7839_28	attr	7839_25
+7839_28	has_surface_form	wife
+7839_27	is_in_sentence	sentence_7839
+7839_27	amod	7839_28
+7839_27	has_surface_form	first
+7839_29	is_in_sentence	sentence_7839
+7839_29	prep	7839_28
+7839_29	has_surface_form	of
+7839_30	is_in_sentence	sentence_7839
+7839_30	compound	7839_31
+7839_30	has_surface_form	Laurence
+7839_30	part_of_entity	Laurence Olivier
+7839_31	is_in_sentence	sentence_7839
+7839_31	pobj	7839_29
+7839_31	has_surface_form	Olivier
+7839_31	part_of_entity	Laurence Olivier
+7839_32	is_in_sentence	sentence_7839
+7839_32	punct	7839_25
+7839_32	has_surface_form	.
+7839_33	is_in_sentence	sentence_7839
+7839_33	dep	7839_25
+7839_33	has_surface_form	
+Jill Esmond	surface_form	Jill Esmond
+Jill Esmond	has-spouse	Laurence Olivier
+Laurence Olivier	surface_form	Laurence Olivier

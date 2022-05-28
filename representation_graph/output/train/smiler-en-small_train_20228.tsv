@@ -1,0 +1,52 @@
+20227_0	is_in_sentence	sentence_20227
+20227_0	compound	20227_1
+20227_0	has_surface_form	Ayres
+20227_0	part_of_entity	Ayres Corporation
+20227_1	is_in_sentence	sentence_20227
+20227_1	nsubj	20227_2
+20227_1	has_surface_form	Corporation
+20227_1	part_of_entity	Ayres Corporation
+20227_2	is_in_sentence	sentence_20227
+20227_2	ROOT	20227_2
+20227_2	has_surface_form	was
+20227_3	is_in_sentence	sentence_20227
+20227_3	det	20227_6
+20227_3	has_surface_form	a
+20227_6	is_in_sentence	sentence_20227
+20227_6	attr	20227_2
+20227_6	has_surface_form	manufacturer
+20227_4	is_in_sentence	sentence_20227
+20227_4	compound	20227_6
+20227_4	has_surface_form	US
+20227_5	is_in_sentence	sentence_20227
+20227_5	compound	20227_6
+20227_5	has_surface_form	aircraft
+20227_7	is_in_sentence	sentence_20227
+20227_7	acl	20227_6
+20227_7	has_surface_form	owned
+20227_8	is_in_sentence	sentence_20227
+20227_8	cc	20227_7
+20227_8	has_surface_form	and
+20227_9	is_in_sentence	sentence_20227
+20227_9	conj	20227_7
+20227_9	has_surface_form	run
+20227_10	is_in_sentence	sentence_20227
+20227_10	agent	20227_9
+20227_10	has_surface_form	by
+20227_11	is_in_sentence	sentence_20227
+20227_11	compound	20227_12
+20227_11	has_surface_form	Fred
+20227_11	part_of_entity	Fred Ayres
+20227_12	is_in_sentence	sentence_20227
+20227_12	pobj	20227_10
+20227_12	has_surface_form	Ayres
+20227_12	part_of_entity	Fred Ayres
+20227_13	is_in_sentence	sentence_20227
+20227_13	punct	20227_2
+20227_13	has_surface_form	.
+20227_14	is_in_sentence	sentence_20227
+20227_14	dep	20227_2
+20227_14	has_surface_form	
+Ayres Corporation	surface_form	Ayres Corporation
+Ayres Corporation	org-leader	Fred Ayres
+Fred Ayres	surface_form	Fred Ayres

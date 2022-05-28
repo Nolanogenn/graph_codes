@@ -1,0 +1,85 @@
+9531_0	is_in_sentence	sentence_9531
+9531_0	compound	9531_1
+9531_0	has_surface_form	Crazy
+9531_0	part_of_entity	Crazy Town
+9531_1	is_in_sentence	sentence_9531
+9531_1	nsubj	9531_8
+9531_1	has_surface_form	Town
+9531_1	part_of_entity	Crazy Town
+9531_8	is_in_sentence	sentence_9531
+9531_8	ROOT	9531_8
+9531_8	has_surface_form	is
+9531_2	is_in_sentence	sentence_9531
+9531_2	punct	9531_1
+9531_2	has_surface_form	(
+9531_3	is_in_sentence	sentence_9531
+9531_3	advmod	9531_4
+9531_3	has_surface_form	sometimes
+9531_4	is_in_sentence	sentence_9531
+9531_4	acl	9531_1
+9531_4	has_surface_form	abbreviated
+9531_5	is_in_sentence	sentence_9531
+9531_5	prep	9531_4
+9531_5	has_surface_form	as
+9531_6	is_in_sentence	sentence_9531
+9531_6	pobj	9531_5
+9531_6	has_surface_form	CXT
+9531_7	is_in_sentence	sentence_9531
+9531_7	punct	9531_1
+9531_7	has_surface_form	)
+9531_9	is_in_sentence	sentence_9531
+9531_9	det	9531_13
+9531_9	has_surface_form	an
+9531_13	is_in_sentence	sentence_9531
+9531_13	attr	9531_8
+9531_13	has_surface_form	band
+9531_10	is_in_sentence	sentence_9531
+9531_10	amod	9531_13
+9531_10	has_surface_form	American
+9531_11	is_in_sentence	sentence_9531
+9531_11	compound	9531_12
+9531_11	has_surface_form	rap
+9531_11	part_of_entity	rap rock
+9531_12	is_in_sentence	sentence_9531
+9531_12	compound	9531_13
+9531_12	has_surface_form	rock
+9531_12	part_of_entity	rap rock
+9531_14	is_in_sentence	sentence_9531
+9531_14	punct	9531_13
+9531_14	has_surface_form	,
+9531_15	is_in_sentence	sentence_9531
+9531_15	acl	9531_13
+9531_15	has_surface_form	formed
+9531_16	is_in_sentence	sentence_9531
+9531_16	prep	9531_15
+9531_16	has_surface_form	in
+9531_17	is_in_sentence	sentence_9531
+9531_17	pobj	9531_16
+9531_17	has_surface_form	1995
+9531_18	is_in_sentence	sentence_9531
+9531_18	agent	9531_15
+9531_18	has_surface_form	by
+9531_19	is_in_sentence	sentence_9531
+9531_19	compound	9531_20
+9531_19	has_surface_form	Bret
+9531_20	is_in_sentence	sentence_9531
+9531_20	pobj	9531_18
+9531_20	has_surface_form	Mazur
+9531_21	is_in_sentence	sentence_9531
+9531_21	cc	9531_20
+9531_21	has_surface_form	and
+9531_22	is_in_sentence	sentence_9531
+9531_22	compound	9531_23
+9531_22	has_surface_form	Seth
+9531_23	is_in_sentence	sentence_9531
+9531_23	conj	9531_20
+9531_23	has_surface_form	Binzer
+9531_24	is_in_sentence	sentence_9531
+9531_24	punct	9531_8
+9531_24	has_surface_form	.
+9531_25	is_in_sentence	sentence_9531
+9531_25	dep	9531_25
+9531_25	has_surface_form	
+Crazy Town	surface_form	Crazy Town
+Crazy Town	has-genre	rap rock
+rap rock	surface_form	rap rock

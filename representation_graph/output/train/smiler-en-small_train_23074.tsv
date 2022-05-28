@@ -1,0 +1,83 @@
+23073_0	is_in_sentence	sentence_23073
+23073_0	det	23073_1
+23073_0	has_surface_form	A
+23073_0	part_of_entity	A Separation
+23073_1	is_in_sentence	sentence_23073
+23073_1	nsubj	23073_2
+23073_1	has_surface_form	Separation
+23073_1	part_of_entity	A Separation
+23073_2	is_in_sentence	sentence_23073
+23073_2	ROOT	23073_2
+23073_2	has_surface_form	won
+23073_3	is_in_sentence	sentence_23073
+23073_3	det	23073_4
+23073_3	has_surface_form	the
+23073_4	is_in_sentence	sentence_23073
+23073_4	dobj	23073_2
+23073_4	has_surface_form	Oscar
+23073_4	part_of_entity	Oscar for Best Foreign Language Film
+23073_5	is_in_sentence	sentence_23073
+23073_5	prep	23073_2
+23073_5	has_surface_form	for
+23073_5	part_of_entity	Oscar for Best Foreign Language Film
+23073_6	is_in_sentence	sentence_23073
+23073_6	compound	23073_9
+23073_6	has_surface_form	Best
+23073_6	part_of_entity	Oscar for Best Foreign Language Film
+23073_9	is_in_sentence	sentence_23073
+23073_9	pobj	23073_5
+23073_9	has_surface_form	Film
+23073_9	part_of_entity	Oscar for Best Foreign Language Film
+23073_7	is_in_sentence	sentence_23073
+23073_7	compound	23073_8
+23073_7	has_surface_form	Foreign
+23073_7	part_of_entity	Oscar for Best Foreign Language Film
+23073_8	is_in_sentence	sentence_23073
+23073_8	compound	23073_9
+23073_8	has_surface_form	Language
+23073_8	part_of_entity	Oscar for Best Foreign Language Film
+23073_10	is_in_sentence	sentence_23073
+23073_10	prep	23073_2
+23073_10	has_surface_form	in
+23073_11	is_in_sentence	sentence_23073
+23073_11	pobj	23073_10
+23073_11	has_surface_form	2012
+23073_12	is_in_sentence	sentence_23073
+23073_12	punct	23073_2
+23073_12	has_surface_form	,
+23073_13	is_in_sentence	sentence_23073
+23073_13	advcl	23073_2
+23073_13	has_surface_form	becoming
+23073_14	is_in_sentence	sentence_23073
+23073_14	det	23073_17
+23073_14	has_surface_form	the
+23073_17	is_in_sentence	sentence_23073
+23073_17	attr	23073_13
+23073_17	has_surface_form	film
+23073_15	is_in_sentence	sentence_23073
+23073_15	amod	23073_17
+23073_15	has_surface_form	first
+23073_16	is_in_sentence	sentence_23073
+23073_16	amod	23073_17
+23073_16	has_surface_form	Iranian
+23073_18	is_in_sentence	sentence_23073
+23073_18	aux	23073_19
+23073_18	has_surface_form	to
+23073_19	is_in_sentence	sentence_23073
+23073_19	relcl	23073_17
+23073_19	has_surface_form	win
+23073_20	is_in_sentence	sentence_23073
+23073_20	det	23073_21
+23073_20	has_surface_form	the
+23073_21	is_in_sentence	sentence_23073
+23073_21	dobj	23073_19
+23073_21	has_surface_form	award
+23073_22	is_in_sentence	sentence_23073
+23073_22	punct	23073_2
+23073_22	has_surface_form	.
+23073_23	is_in_sentence	sentence_23073
+23073_23	dep	23073_23
+23073_23	has_surface_form	
+A Separation	surface_form	A Separation
+A Separation	won-award	Oscar for Best Foreign Language Film
+Oscar for Best Foreign Language Film	surface_form	Oscar for Best Foreign Language Film

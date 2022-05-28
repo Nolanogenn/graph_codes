@@ -1,0 +1,64 @@
+11971_0	is_in_sentence	sentence_11971
+11971_0	compound	11971_1
+11971_0	has_surface_form	Steve
+11971_0	part_of_entity	Steve Addazio
+11971_1	is_in_sentence	sentence_11971
+11971_1	nsubj	11971_9
+11971_1	has_surface_form	Addazio
+11971_1	part_of_entity	Steve Addazio
+11971_9	is_in_sentence	sentence_11971
+11971_9	ROOT	11971_9
+11971_9	has_surface_form	is
+11971_2	is_in_sentence	sentence_11971
+11971_2	punct	11971_1
+11971_2	has_surface_form	(
+11971_3	is_in_sentence	sentence_11971
+11971_3	acl	11971_1
+11971_3	has_surface_form	born
+11971_4	is_in_sentence	sentence_11971
+11971_4	npadvmod	11971_3
+11971_4	has_surface_form	June
+11971_5	is_in_sentence	sentence_11971
+11971_5	nummod	11971_4
+11971_5	has_surface_form	1
+11971_6	is_in_sentence	sentence_11971
+11971_6	punct	11971_4
+11971_6	has_surface_form	,
+11971_7	is_in_sentence	sentence_11971
+11971_7	nummod	11971_4
+11971_7	has_surface_form	1959
+11971_8	is_in_sentence	sentence_11971
+11971_8	punct	11971_1
+11971_8	has_surface_form	)
+11971_10	is_in_sentence	sentence_11971
+11971_10	det	11971_13
+11971_10	has_surface_form	an
+11971_13	is_in_sentence	sentence_11971
+11971_13	attr	11971_9
+11971_13	has_surface_form	coach
+11971_13	part_of_entity	football coach
+11971_11	is_in_sentence	sentence_11971
+11971_11	amod	11971_13
+11971_11	has_surface_form	American
+11971_12	is_in_sentence	sentence_11971
+11971_12	compound	11971_13
+11971_12	has_surface_form	football
+11971_12	part_of_entity	football coach
+11971_14	is_in_sentence	sentence_11971
+11971_14	cc	11971_13
+11971_14	has_surface_form	and
+11971_15	is_in_sentence	sentence_11971
+11971_15	amod	11971_16
+11971_15	has_surface_form	former
+11971_16	is_in_sentence	sentence_11971
+11971_16	conj	11971_13
+11971_16	has_surface_form	player
+11971_17	is_in_sentence	sentence_11971
+11971_17	punct	11971_9
+11971_17	has_surface_form	.
+11971_18	is_in_sentence	sentence_11971
+11971_18	dep	11971_18
+11971_18	has_surface_form	
+Steve Addazio	surface_form	Steve Addazio
+Steve Addazio	has-type	football coach
+football coach	surface_form	football coach

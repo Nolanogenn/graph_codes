@@ -1,0 +1,35 @@
+311_0	is_in_sentence	sentence_311
+311_0	compound	311_1
+311_0	has_surface_form	Mount
+311_0	part_of_entity	Mount Kanlaon
+311_1	is_in_sentence	sentence_311
+311_1	ROOT	311_1
+311_1	has_surface_form	Kanlaon
+311_1	part_of_entity	Mount Kanlaon
+311_2	is_in_sentence	sentence_311
+311_2	punct	311_1
+311_2	has_surface_form	,
+311_3	is_in_sentence	sentence_311
+311_3	det	311_5
+311_3	has_surface_form	the
+311_5	is_in_sentence	sentence_311
+311_5	appos	311_1
+311_5	has_surface_form	peak
+311_4	is_in_sentence	sentence_311
+311_4	amod	311_5
+311_4	has_surface_form	highest
+311_6	is_in_sentence	sentence_311
+311_6	prep	311_5
+311_6	has_surface_form	in
+311_7	is_in_sentence	sentence_311
+311_7	pobj	311_6
+311_7	is_entity	Negros
+Negros	surface_form	Negros
+Negros	has-highest-mountain	Mount Kanlaon
+311_8	is_in_sentence	sentence_311
+311_8	punct	311_1
+311_8	has_surface_form	.
+311_9	is_in_sentence	sentence_311
+311_9	dep	311_1
+311_9	has_surface_form	
+Mount Kanlaon	surface_form	Mount Kanlaon

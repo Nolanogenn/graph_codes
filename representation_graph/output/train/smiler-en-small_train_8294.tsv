@@ -1,0 +1,83 @@
+8293_0	is_in_sentence	sentence_8293
+8293_0	compound	8293_1
+8293_0	has_surface_form	Cameron
+8293_0	part_of_entity	Cameron Dollar
+8293_1	is_in_sentence	sentence_8293
+8293_1	nsubj	8293_9
+8293_1	has_surface_form	Dollar
+8293_1	part_of_entity	Cameron Dollar
+8293_9	is_in_sentence	sentence_8293
+8293_9	ROOT	8293_9
+8293_9	has_surface_form	is
+8293_2	is_in_sentence	sentence_8293
+8293_2	punct	8293_1
+8293_2	has_surface_form	(
+8293_3	is_in_sentence	sentence_8293
+8293_3	acl	8293_1
+8293_3	has_surface_form	born
+8293_4	is_in_sentence	sentence_8293
+8293_4	npadvmod	8293_3
+8293_4	has_surface_form	December
+8293_5	is_in_sentence	sentence_8293
+8293_5	nummod	8293_4
+8293_5	has_surface_form	9
+8293_6	is_in_sentence	sentence_8293
+8293_6	punct	8293_4
+8293_6	has_surface_form	,
+8293_7	is_in_sentence	sentence_8293
+8293_7	nummod	8293_4
+8293_7	has_surface_form	1975
+8293_8	is_in_sentence	sentence_8293
+8293_8	punct	8293_1
+8293_8	has_surface_form	)
+8293_10	is_in_sentence	sentence_8293
+8293_10	det	8293_14
+8293_10	has_surface_form	an
+8293_14	is_in_sentence	sentence_8293
+8293_14	attr	8293_9
+8293_14	has_surface_form	coach
+8293_14	part_of_entity	college basketball coach
+8293_11	is_in_sentence	sentence_8293
+8293_11	amod	8293_14
+8293_11	has_surface_form	American
+8293_12	is_in_sentence	sentence_8293
+8293_12	compound	8293_13
+8293_12	has_surface_form	college
+8293_12	part_of_entity	college basketball coach
+8293_13	is_in_sentence	sentence_8293
+8293_13	compound	8293_14
+8293_13	has_surface_form	basketball
+8293_13	part_of_entity	college basketball coach
+8293_15	is_in_sentence	sentence_8293
+8293_15	nsubj	8293_16
+8293_15	has_surface_form	who
+8293_16	is_in_sentence	sentence_8293
+8293_16	relcl	8293_14
+8293_16	has_surface_form	is
+8293_17	is_in_sentence	sentence_8293
+8293_17	det	8293_18
+8293_17	has_surface_form	an
+8293_18	is_in_sentence	sentence_8293
+8293_18	attr	8293_16
+8293_18	has_surface_form	assistant
+8293_19	is_in_sentence	sentence_8293
+8293_19	prep	8293_18
+8293_19	has_surface_form	for
+8293_20	is_in_sentence	sentence_8293
+8293_20	det	8293_22
+8293_20	has_surface_form	the
+8293_22	is_in_sentence	sentence_8293
+8293_22	pobj	8293_19
+8293_22	has_surface_form	Huskies
+8293_21	is_in_sentence	sentence_8293
+8293_21	compound	8293_22
+8293_21	has_surface_form	Washington
+8293_23	is_in_sentence	sentence_8293
+8293_23	punct	8293_9
+8293_23	has_surface_form	.
+8293_24	is_in_sentence	sentence_8293
+8293_24	dep	8293_9
+8293_24	has_surface_form	
+Cameron Dollar	surface_form	Cameron Dollar
+Cameron Dollar	has-type	college basketball coach
+college basketball coach	surface_form	college basketball coach

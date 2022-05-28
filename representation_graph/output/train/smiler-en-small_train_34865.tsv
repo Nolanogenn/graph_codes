@@ -1,0 +1,70 @@
+34864_0	is_in_sentence	sentence_34864
+34864_0	compound	34864_1
+34864_0	has_surface_form	Smoke
+34864_0	part_of_entity	Smoke Lightning
+34864_1	is_in_sentence	sentence_34864
+34864_1	nsubj	34864_2
+34864_1	has_surface_form	Lightning
+34864_1	part_of_entity	Smoke Lightning
+34864_2	is_in_sentence	sentence_34864
+34864_2	ROOT	34864_2
+34864_2	has_surface_form	is
+34864_3	is_in_sentence	sentence_34864
+34864_3	det	34864_10
+34864_3	has_surface_form	a
+34864_10	is_in_sentence	sentence_34864
+34864_10	attr	34864_2
+34864_10	has_surface_form	film
+34864_4	is_in_sentence	sentence_34864
+34864_4	nummod	34864_10
+34864_4	has_surface_form	1933
+34864_5	is_in_sentence	sentence_34864
+34864_5	amod	34864_10
+34864_5	has_surface_form	American
+34864_6	is_in_sentence	sentence_34864
+34864_6	compound	34864_10
+34864_6	has_surface_form	Pre
+34864_7	is_in_sentence	sentence_34864
+34864_7	amod	34864_10
+34864_7	has_surface_form	-
+34864_8	is_in_sentence	sentence_34864
+34864_8	amod	34864_10
+34864_8	has_surface_form	Code
+34864_9	is_in_sentence	sentence_34864
+34864_9	amod	34864_10
+34864_9	has_surface_form	Western
+34864_11	is_in_sentence	sentence_34864
+34864_11	acl	34864_10
+34864_11	has_surface_form	directed
+34864_12	is_in_sentence	sentence_34864
+34864_12	agent	34864_11
+34864_12	has_surface_form	by
+34864_13	is_in_sentence	sentence_34864
+34864_13	compound	34864_14
+34864_13	has_surface_form	David
+34864_13	part_of_entity	David Howard
+34864_14	is_in_sentence	sentence_34864
+34864_14	pobj	34864_12
+34864_14	has_surface_form	Howard
+34864_14	part_of_entity	David Howard
+34864_15	is_in_sentence	sentence_34864
+34864_15	cc	34864_11
+34864_15	has_surface_form	and
+34864_16	is_in_sentence	sentence_34864
+34864_16	conj	34864_11
+34864_16	has_surface_form	written
+34864_17	is_in_sentence	sentence_34864
+34864_17	agent	34864_16
+34864_17	has_surface_form	by
+34864_18	is_in_sentence	sentence_34864
+34864_18	compound	34864_19
+34864_18	has_surface_form	Sidney
+34864_19	is_in_sentence	sentence_34864
+34864_19	pobj	34864_17
+34864_19	has_surface_form	D.
+34864_20	is_in_sentence	sentence_34864
+34864_20	dep	34864_2
+34864_20	has_surface_form	
+Smoke Lightning	surface_form	Smoke Lightning
+Smoke Lightning	movie-has-director	David Howard
+David Howard	surface_form	David Howard

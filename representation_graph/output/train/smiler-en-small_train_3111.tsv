@@ -1,0 +1,82 @@
+3110_0	is_in_sentence	sentence_3110
+3110_0	compound	3110_1
+3110_0	has_surface_form	Vinnie
+3110_0	part_of_entity	Vinnie Curto
+3110_1	is_in_sentence	sentence_3110
+3110_1	nsubj	3110_12
+3110_1	has_surface_form	Curto
+3110_1	part_of_entity	Vinnie Curto
+3110_12	is_in_sentence	sentence_3110
+3110_12	ROOT	3110_12
+3110_12	has_surface_form	is
+3110_2	is_in_sentence	sentence_3110
+3110_2	punct	3110_1
+3110_2	has_surface_form	(
+3110_3	is_in_sentence	sentence_3110
+3110_3	acl	3110_1
+3110_3	has_surface_form	born
+3110_4	is_in_sentence	sentence_3110
+3110_4	npadvmod	3110_3
+3110_4	has_surface_form	July
+3110_5	is_in_sentence	sentence_3110
+3110_5	nummod	3110_4
+3110_5	has_surface_form	10
+3110_6	is_in_sentence	sentence_3110
+3110_6	punct	3110_4
+3110_6	has_surface_form	,
+3110_7	is_in_sentence	sentence_3110
+3110_7	nummod	3110_4
+3110_7	has_surface_form	1955
+3110_8	is_in_sentence	sentence_3110
+3110_8	prep	3110_3
+3110_8	has_surface_form	in
+3110_9	is_in_sentence	sentence_3110
+3110_9	compound	3110_10
+3110_9	has_surface_form	East
+3110_10	is_in_sentence	sentence_3110
+3110_10	pobj	3110_8
+3110_10	has_surface_form	Boston
+3110_11	is_in_sentence	sentence_3110
+3110_11	punct	3110_1
+3110_11	has_surface_form	)
+3110_13	is_in_sentence	sentence_3110
+3110_13	det	3110_17
+3110_13	has_surface_form	a
+3110_17	is_in_sentence	sentence_3110
+3110_17	attr	3110_12
+3110_17	has_surface_form	boxer
+3110_14	is_in_sentence	sentence_3110
+3110_14	amod	3110_17
+3110_14	has_surface_form	retired
+3110_15	is_in_sentence	sentence_3110
+3110_15	amod	3110_17
+3110_15	has_surface_form	American
+3110_16	is_in_sentence	sentence_3110
+3110_16	amod	3110_17
+3110_16	has_surface_form	professional
+3110_18	is_in_sentence	sentence_3110
+3110_18	prep	3110_17
+3110_18	has_surface_form	in
+3110_19	is_in_sentence	sentence_3110
+3110_19	det	3110_22
+3110_19	has_surface_form	the
+3110_22	is_in_sentence	sentence_3110
+3110_22	pobj	3110_18
+3110_22	has_surface_form	division
+3110_20	is_in_sentence	sentence_3110
+3110_20	compound	3110_21
+3110_20	has_surface_form	Super
+3110_20	part_of_entity	Super Middleweight
+3110_21	is_in_sentence	sentence_3110
+3110_21	compound	3110_22
+3110_21	has_surface_form	Middleweight
+3110_21	part_of_entity	Super Middleweight
+3110_23	is_in_sentence	sentence_3110
+3110_23	punct	3110_12
+3110_23	has_surface_form	.
+3110_24	is_in_sentence	sentence_3110
+3110_24	dep	3110_24
+3110_24	has_surface_form	
+Vinnie Curto	surface_form	Vinnie Curto
+Vinnie Curto	has-weight	Super Middleweight
+Super Middleweight	surface_form	Super Middleweight

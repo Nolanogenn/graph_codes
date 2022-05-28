@@ -1,0 +1,96 @@
+2395_0	is_in_sentence	sentence_2395
+2395_0	det	2395_1
+2395_0	has_surface_form	The
+2395_0	part_of_entity	The Man Is Armed
+2395_1	is_in_sentence	sentence_2395
+2395_1	nsubj	2395_2
+2395_1	has_surface_form	Man
+2395_1	part_of_entity	The Man Is Armed
+2395_2	is_in_sentence	sentence_2395
+2395_2	nsubj	2395_4
+2395_2	has_surface_form	Is
+2395_2	part_of_entity	The Man Is Armed
+2395_4	is_in_sentence	sentence_2395
+2395_4	ROOT	2395_4
+2395_4	has_surface_form	is
+2395_3	is_in_sentence	sentence_2395
+2395_3	acomp	2395_2
+2395_3	has_surface_form	Armed
+2395_3	part_of_entity	The Man Is Armed
+2395_5	is_in_sentence	sentence_2395
+2395_5	det	2395_10
+2395_5	has_surface_form	a
+2395_10	is_in_sentence	sentence_2395
+2395_10	attr	2395_4
+2395_10	has_surface_form	film
+2395_6	is_in_sentence	sentence_2395
+2395_6	nummod	2395_7
+2395_6	has_surface_form	1956
+2395_7	is_in_sentence	sentence_2395
+2395_7	compound	2395_10
+2395_7	has_surface_form	film
+2395_8	is_in_sentence	sentence_2395
+2395_8	compound	2395_10
+2395_8	has_surface_form	noir
+2395_9	is_in_sentence	sentence_2395
+2395_9	compound	2395_10
+2395_9	has_surface_form	crime
+2395_11	is_in_sentence	sentence_2395
+2395_11	acl	2395_10
+2395_11	has_surface_form	directed
+2395_12	is_in_sentence	sentence_2395
+2395_12	agent	2395_11
+2395_12	has_surface_form	by
+2395_13	is_in_sentence	sentence_2395
+2395_13	compound	2395_14
+2395_13	has_surface_form	Franklin
+2395_14	is_in_sentence	sentence_2395
+2395_14	pobj	2395_12
+2395_14	has_surface_form	Adreon
+2395_15	is_in_sentence	sentence_2395
+2395_15	acl	2395_10
+2395_15	has_surface_form	starring
+2395_16	is_in_sentence	sentence_2395
+2395_16	compound	2395_17
+2395_16	has_surface_form	Dane
+2395_16	part_of_entity	Dane Clark
+2395_17	is_in_sentence	sentence_2395
+2395_17	dobj	2395_15
+2395_17	has_surface_form	Clark
+2395_17	part_of_entity	Dane Clark
+2395_18	is_in_sentence	sentence_2395
+2395_18	punct	2395_17
+2395_18	has_surface_form	,
+2395_19	is_in_sentence	sentence_2395
+2395_19	compound	2395_20
+2395_19	has_surface_form	William
+2395_20	is_in_sentence	sentence_2395
+2395_20	appos	2395_17
+2395_20	has_surface_form	Talman
+2395_21	is_in_sentence	sentence_2395
+2395_21	punct	2395_20
+2395_21	has_surface_form	,
+2395_22	is_in_sentence	sentence_2395
+2395_22	compound	2395_23
+2395_22	has_surface_form	May
+2395_23	is_in_sentence	sentence_2395
+2395_23	conj	2395_20
+2395_23	has_surface_form	Wynn
+2395_24	is_in_sentence	sentence_2395
+2395_24	cc	2395_23
+2395_24	has_surface_form	and
+2395_25	is_in_sentence	sentence_2395
+2395_25	compound	2395_26
+2395_25	has_surface_form	Robert
+2395_26	is_in_sentence	sentence_2395
+2395_26	conj	2395_23
+2395_26	has_surface_form	Horton
+2395_27	is_in_sentence	sentence_2395
+2395_27	punct	2395_4
+2395_27	has_surface_form	.
+2395_28	is_in_sentence	sentence_2395
+2395_28	dep	2395_28
+2395_28	has_surface_form	
+The Man Is Armed	surface_form	The Man Is Armed
+The Man Is Armed	starring	Dane Clark
+Dane Clark	surface_form	Dane Clark

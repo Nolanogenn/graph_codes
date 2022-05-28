@@ -1,0 +1,62 @@
+8819_0	is_in_sentence	sentence_8819
+8819_0	det	8819_1
+8819_0	has_surface_form	The
+8819_1	is_in_sentence	sentence_8819
+8819_1	nsubjpass	8819_12
+8819_1	has_surface_form	son
+8819_12	is_in_sentence	sentence_8819
+8819_12	ROOT	8819_12
+8819_12	has_surface_form	born
+8819_2	is_in_sentence	sentence_8819
+8819_2	prep	8819_1
+8819_2	has_surface_form	of
+8819_3	is_in_sentence	sentence_8819
+8819_3	compound	8819_4
+8819_3	has_surface_form	João
+8819_4	is_in_sentence	sentence_8819
+8819_4	compound	8819_5
+8819_4	has_surface_form	Amélio
+8819_5	is_in_sentence	sentence_8819
+8819_5	pobj	8819_2
+8819_5	is_entity	Coelho
+Coelho	surface_form	Coelho
+8819_6	is_in_sentence	sentence_8819
+8819_6	cc	8819_5
+8819_6	has_surface_form	and
+8819_7	is_in_sentence	sentence_8819
+8819_7	compound	8819_8
+8819_7	has_surface_form	Guilhermina
+8819_7	part_of_entity	Guilhermina Cunha
+8819_8	is_in_sentence	sentence_8819
+8819_8	pobj	8819_2
+8819_8	has_surface_form	Cunha
+8819_8	part_of_entity	Guilhermina Cunha
+8819_9	is_in_sentence	sentence_8819
+8819_9	punct	8819_12
+8819_9	has_surface_form	,
+8819_10	is_in_sentence	sentence_8819
+8819_10	nsubjpass	8819_12
+8819_10	is_entity	Coelho
+8819_11	is_in_sentence	sentence_8819
+8819_11	auxpass	8819_12
+8819_11	has_surface_form	was
+8819_13	is_in_sentence	sentence_8819
+8819_13	prep	8819_12
+8819_13	has_surface_form	in
+8819_14	is_in_sentence	sentence_8819
+8819_14	pobj	8819_13
+8819_14	has_surface_form	Franca
+8819_15	is_in_sentence	sentence_8819
+8819_15	punct	8819_14
+8819_15	has_surface_form	,
+8819_16	is_in_sentence	sentence_8819
+8819_16	appos	8819_14
+8819_16	has_surface_form	Brazil
+8819_17	is_in_sentence	sentence_8819
+8819_17	punct	8819_12
+8819_17	has_surface_form	.
+8819_18	is_in_sentence	sentence_8819
+8819_18	dep	8819_18
+8819_18	has_surface_form	
+Guilhermina Cunha	surface_form	Guilhermina Cunha
+Guilhermina Cunha	has-child	Coelho

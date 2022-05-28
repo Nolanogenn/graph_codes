@@ -1,0 +1,71 @@
+5884_0	is_in_sentence	sentence_5884
+5884_0	compound	5884_1
+5884_0	has_surface_form	California
+5884_0	part_of_entity	California School of Podiatric Medicine
+5884_1	is_in_sentence	sentence_5884
+5884_1	nsubj	5884_9
+5884_1	has_surface_form	School
+5884_1	part_of_entity	California School of Podiatric Medicine
+5884_9	is_in_sentence	sentence_5884
+5884_9	ROOT	5884_9
+5884_9	has_surface_form	is
+5884_2	is_in_sentence	sentence_5884
+5884_2	prep	5884_1
+5884_2	has_surface_form	of
+5884_2	part_of_entity	California School of Podiatric Medicine
+5884_3	is_in_sentence	sentence_5884
+5884_3	compound	5884_4
+5884_3	has_surface_form	Podiatric
+5884_3	part_of_entity	California School of Podiatric Medicine
+5884_4	is_in_sentence	sentence_5884
+5884_4	pobj	5884_2
+5884_4	has_surface_form	Medicine
+5884_4	part_of_entity	California School of Podiatric Medicine
+5884_5	is_in_sentence	sentence_5884
+5884_5	prep	5884_1
+5884_5	has_surface_form	at
+5884_6	is_in_sentence	sentence_5884
+5884_6	compound	5884_8
+5884_6	has_surface_form	Samuel
+5884_8	is_in_sentence	sentence_5884
+5884_8	pobj	5884_5
+5884_8	has_surface_form	University
+5884_7	is_in_sentence	sentence_5884
+5884_7	compound	5884_8
+5884_7	has_surface_form	Merritt
+5884_10	is_in_sentence	sentence_5884
+5884_10	det	5884_13
+5884_10	has_surface_form	a
+5884_13	is_in_sentence	sentence_5884
+5884_13	attr	5884_9
+5884_13	has_surface_form	school
+5884_11	is_in_sentence	sentence_5884
+5884_11	amod	5884_13
+5884_11	has_surface_form	podiatric
+5884_12	is_in_sentence	sentence_5884
+5884_12	amod	5884_13
+5884_12	has_surface_form	medical
+5884_14	is_in_sentence	sentence_5884
+5884_14	acl	5884_13
+5884_14	has_surface_form	based
+5884_15	is_in_sentence	sentence_5884
+5884_15	prep	5884_14
+5884_15	has_surface_form	in
+5884_16	is_in_sentence	sentence_5884
+5884_16	pobj	5884_15
+5884_16	has_surface_form	Oakland
+5884_17	is_in_sentence	sentence_5884
+5884_17	punct	5884_16
+5884_17	has_surface_form	,
+5884_18	is_in_sentence	sentence_5884
+5884_18	appos	5884_16
+5884_18	has_surface_form	California
+5884_19	is_in_sentence	sentence_5884
+5884_19	punct	5884_9
+5884_19	has_surface_form	.
+5884_20	is_in_sentence	sentence_5884
+5884_20	dep	5884_20
+5884_20	has_surface_form	
+California School of Podiatric Medicine	surface_form	California School of Podiatric Medicine
+California School of Podiatric Medicine	is-where	Oakland, California
+Oakland, California	surface_form	Oakland, California

@@ -1,0 +1,66 @@
+3667_0	is_in_sentence	sentence_3667
+3667_0	compound	3667_2
+3667_0	has_surface_form	National
+3667_0	part_of_entity	National Louis University
+3667_2	is_in_sentence	sentence_3667
+3667_2	nsubj	3667_6
+3667_2	has_surface_form	University
+3667_2	part_of_entity	National Louis University
+3667_1	is_in_sentence	sentence_3667
+3667_1	compound	3667_2
+3667_1	has_surface_form	Louis
+3667_1	part_of_entity	National Louis University
+3667_6	is_in_sentence	sentence_3667
+3667_6	ROOT	3667_6
+3667_6	has_surface_form	is
+3667_3	is_in_sentence	sentence_3667
+3667_3	punct	3667_4
+3667_3	has_surface_form	(
+3667_4	is_in_sentence	sentence_3667
+3667_4	appos	3667_2
+3667_4	has_surface_form	NLU
+3667_5	is_in_sentence	sentence_3667
+3667_5	punct	3667_4
+3667_5	has_surface_form	)
+3667_7	is_in_sentence	sentence_3667
+3667_7	det	3667_9
+3667_7	has_surface_form	a
+3667_9	is_in_sentence	sentence_3667
+3667_9	attr	3667_6
+3667_9	has_surface_form	university
+3667_8	is_in_sentence	sentence_3667
+3667_8	amod	3667_9
+3667_8	has_surface_form	private
+3667_10	is_in_sentence	sentence_3667
+3667_10	prep	3667_9
+3667_10	has_surface_form	with
+3667_11	is_in_sentence	sentence_3667
+3667_11	poss	3667_13
+3667_11	has_surface_form	its
+3667_13	is_in_sentence	sentence_3667
+3667_13	pobj	3667_10
+3667_13	has_surface_form	campus
+3667_12	is_in_sentence	sentence_3667
+3667_12	amod	3667_13
+3667_12	has_surface_form	main
+3667_14	is_in_sentence	sentence_3667
+3667_14	prep	3667_13
+3667_14	has_surface_form	in
+3667_15	is_in_sentence	sentence_3667
+3667_15	pobj	3667_14
+3667_15	is_entity	Chicago
+Chicago	surface_form	Chicago
+3667_16	is_in_sentence	sentence_3667
+3667_16	punct	3667_15
+3667_16	has_surface_form	,
+3667_17	is_in_sentence	sentence_3667
+3667_17	appos	3667_15
+3667_17	has_surface_form	Illinois
+3667_18	is_in_sentence	sentence_3667
+3667_18	punct	3667_6
+3667_18	has_surface_form	.
+3667_19	is_in_sentence	sentence_3667
+3667_19	dep	3667_6
+3667_19	has_surface_form	
+National Louis University	surface_form	National Louis University
+National Louis University	is-where	Chicago

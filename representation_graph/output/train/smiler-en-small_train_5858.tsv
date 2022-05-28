@@ -1,0 +1,49 @@
+5857_0	is_in_sentence	sentence_5857
+5857_0	compound	5857_1
+5857_0	has_surface_form	Annan
+5857_0	part_of_entity	Annan Thangachi
+5857_1	is_in_sentence	sentence_5857
+5857_1	nsubj	5857_2
+5857_1	has_surface_form	Thangachi
+5857_1	part_of_entity	Annan Thangachi
+5857_2	is_in_sentence	sentence_5857
+5857_2	ROOT	5857_2
+5857_2	has_surface_form	is
+5857_3	is_in_sentence	sentence_5857
+5857_3	quantmod	5857_4
+5857_3	has_surface_form	a
+5857_4	is_in_sentence	sentence_5857
+5857_4	attr	5857_2
+5857_4	has_surface_form	1999
+5857_5	is_in_sentence	sentence_5857
+5857_5	compound	5857_7
+5857_5	has_surface_form	Tamil
+5857_7	is_in_sentence	sentence_5857
+5857_7	ROOT	5857_7
+5857_7	has_surface_form	film
+5857_6	is_in_sentence	sentence_5857
+5857_6	compound	5857_7
+5857_6	has_surface_form	drama
+5857_8	is_in_sentence	sentence_5857
+5857_8	acl	5857_7
+5857_8	has_surface_form	directed
+5857_9	is_in_sentence	sentence_5857
+5857_9	agent	5857_8
+5857_9	has_surface_form	by
+5857_10	is_in_sentence	sentence_5857
+5857_10	compound	5857_11
+5857_10	has_surface_form	Charan
+5857_10	part_of_entity	Charan Raj
+5857_11	is_in_sentence	sentence_5857
+5857_11	pobj	5857_9
+5857_11	has_surface_form	Raj
+5857_11	part_of_entity	Charan Raj
+5857_12	is_in_sentence	sentence_5857
+5857_12	punct	5857_7
+5857_12	has_surface_form	.
+5857_13	is_in_sentence	sentence_5857
+5857_13	dep	5857_13
+5857_13	has_surface_form	
+Annan Thangachi	surface_form	Annan Thangachi
+Annan Thangachi	movie-has-director	Charan Raj
+Charan Raj	surface_form	Charan Raj

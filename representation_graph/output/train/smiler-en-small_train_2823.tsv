@@ -1,0 +1,85 @@
+2822_0	is_in_sentence	sentence_2822
+2822_0	compound	2822_1
+2822_0	has_surface_form	Andrey
+2822_0	part_of_entity	Andrey Batt
+2822_1	is_in_sentence	sentence_2822
+2822_1	nsubj	2822_10
+2822_1	has_surface_form	Batt
+2822_1	part_of_entity	Andrey Batt
+2822_10	is_in_sentence	sentence_2822
+2822_10	ROOT	2822_10
+2822_10	has_surface_form	is
+2822_2	is_in_sentence	sentence_2822
+2822_2	punct	2822_3
+2822_2	has_surface_form	(
+2822_3	is_in_sentence	sentence_2822
+2822_3	parataxis	2822_1
+2822_3	has_surface_form	born
+2822_4	is_in_sentence	sentence_2822
+2822_4	npadvmod	2822_3
+2822_4	has_surface_form	August
+2822_5	is_in_sentence	sentence_2822
+2822_5	nummod	2822_4
+2822_5	has_surface_form	6
+2822_6	is_in_sentence	sentence_2822
+2822_6	punct	2822_4
+2822_6	has_surface_form	,
+2822_7	is_in_sentence	sentence_2822
+2822_7	nummod	2822_4
+2822_7	has_surface_form	1985
+2822_8	is_in_sentence	sentence_2822
+2822_8	punct	2822_3
+2822_8	has_surface_form	)
+2822_9	is_in_sentence	sentence_2822
+2822_9	punct	2822_1
+2822_9	has_surface_form	,
+2822_11	is_in_sentence	sentence_2822
+2822_11	det	2822_13
+2822_11	has_surface_form	a
+2822_13	is_in_sentence	sentence_2822
+2822_13	attr	2822_10
+2822_13	has_surface_form	actor
+2822_12	is_in_sentence	sentence_2822
+2822_12	amod	2822_13
+2822_12	has_surface_form	Russian
+2822_14	is_in_sentence	sentence_2822
+2822_14	punct	2822_13
+2822_14	has_surface_form	,
+2822_15	is_in_sentence	sentence_2822
+2822_15	conj	2822_13
+2822_15	has_surface_form	rapper
+2822_16	is_in_sentence	sentence_2822
+2822_16	punct	2822_15
+2822_16	has_surface_form	,
+2822_17	is_in_sentence	sentence_2822
+2822_17	conj	2822_15
+2822_17	has_surface_form	songwriter
+2822_18	is_in_sentence	sentence_2822
+2822_18	punct	2822_17
+2822_18	has_surface_form	,
+2822_19	is_in_sentence	sentence_2822
+2822_19	compound	2822_20
+2822_19	has_surface_form	record
+2822_19	part_of_entity	record producer
+2822_20	is_in_sentence	sentence_2822
+2822_20	conj	2822_17
+2822_20	has_surface_form	producer
+2822_20	part_of_entity	record producer
+2822_21	is_in_sentence	sentence_2822
+2822_21	cc	2822_20
+2822_21	has_surface_form	and
+2822_22	is_in_sentence	sentence_2822
+2822_22	compound	2822_23
+2822_22	has_surface_form	film
+2822_23	is_in_sentence	sentence_2822
+2822_23	conj	2822_20
+2822_23	has_surface_form	producer
+2822_24	is_in_sentence	sentence_2822
+2822_24	punct	2822_10
+2822_24	has_surface_form	.
+2822_25	is_in_sentence	sentence_2822
+2822_25	dep	2822_25
+2822_25	has_surface_form	
+Andrey Batt	surface_form	Andrey Batt
+Andrey Batt	has-occupation	record producer
+record producer	surface_form	record producer

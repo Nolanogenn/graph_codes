@@ -1,0 +1,72 @@
+25607_0	is_in_sentence	sentence_25607
+25607_0	compound	25607_1
+25607_0	has_surface_form	Shahjalal
+25607_0	part_of_entity	Shahjalal University of Science and Technology
+25607_1	is_in_sentence	sentence_25607
+25607_1	nsubj	25607_9
+25607_1	has_surface_form	University
+25607_1	part_of_entity	Shahjalal University of Science and Technology
+25607_9	is_in_sentence	sentence_25607
+25607_9	ROOT	25607_9
+25607_9	has_surface_form	is
+25607_2	is_in_sentence	sentence_25607
+25607_2	prep	25607_1
+25607_2	has_surface_form	of
+25607_2	part_of_entity	Shahjalal University of Science and Technology
+25607_3	is_in_sentence	sentence_25607
+25607_3	pobj	25607_2
+25607_3	has_surface_form	Science
+25607_3	part_of_entity	Shahjalal University of Science and Technology
+25607_4	is_in_sentence	sentence_25607
+25607_4	cc	25607_3
+25607_4	has_surface_form	and
+25607_4	part_of_entity	Shahjalal University of Science and Technology
+25607_5	is_in_sentence	sentence_25607
+25607_5	conj	25607_3
+25607_5	has_surface_form	Technology
+25607_5	part_of_entity	Shahjalal University of Science and Technology
+25607_6	is_in_sentence	sentence_25607
+25607_6	punct	25607_7
+25607_6	has_surface_form	(
+25607_7	is_in_sentence	sentence_25607
+25607_7	appos	25607_1
+25607_7	has_surface_form	SUST
+25607_8	is_in_sentence	sentence_25607
+25607_8	punct	25607_7
+25607_8	has_surface_form	)
+25607_10	is_in_sentence	sentence_25607
+25607_10	det	25607_13
+25607_10	has_surface_form	a
+25607_13	is_in_sentence	sentence_25607
+25607_13	attr	25607_9
+25607_13	has_surface_form	university
+25607_11	is_in_sentence	sentence_25607
+25607_11	amod	25607_12
+25607_11	has_surface_form	public
+25607_12	is_in_sentence	sentence_25607
+25607_12	compound	25607_13
+25607_12	has_surface_form	research
+25607_14	is_in_sentence	sentence_25607
+25607_14	acl	25607_13
+25607_14	has_surface_form	based
+25607_15	is_in_sentence	sentence_25607
+25607_15	prep	25607_14
+25607_15	has_surface_form	in
+25607_16	is_in_sentence	sentence_25607
+25607_16	pobj	25607_15
+25607_16	is_entity	Sylhet
+Sylhet	surface_form	Sylhet
+25607_17	is_in_sentence	sentence_25607
+25607_17	punct	25607_16
+25607_17	has_surface_form	,
+25607_18	is_in_sentence	sentence_25607
+25607_18	appos	25607_16
+25607_18	has_surface_form	Bangladesh
+25607_19	is_in_sentence	sentence_25607
+25607_19	punct	25607_9
+25607_19	has_surface_form	.
+25607_20	is_in_sentence	sentence_25607
+25607_20	dep	25607_9
+25607_20	has_surface_form	
+Shahjalal University of Science and Technology	surface_form	Shahjalal University of Science and Technology
+Shahjalal University of Science and Technology	is-where	Sylhet

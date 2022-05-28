@@ -1,0 +1,55 @@
+25165_0	is_in_sentence	sentence_25165
+25165_0	det	25165_1
+25165_0	has_surface_form	A
+25165_0	part_of_entity	A Day Without a Mexican
+25165_1	is_in_sentence	sentence_25165
+25165_1	nsubj	25165_5
+25165_1	has_surface_form	Day
+25165_1	part_of_entity	A Day Without a Mexican
+25165_5	is_in_sentence	sentence_25165
+25165_5	ROOT	25165_5
+25165_5	has_surface_form	is
+25165_2	is_in_sentence	sentence_25165
+25165_2	prep	25165_1
+25165_2	has_surface_form	Without
+25165_2	part_of_entity	A Day Without a Mexican
+25165_3	is_in_sentence	sentence_25165
+25165_3	det	25165_4
+25165_3	has_surface_form	a
+25165_3	part_of_entity	A Day Without a Mexican
+25165_4	is_in_sentence	sentence_25165
+25165_4	pobj	25165_2
+25165_4	has_surface_form	Mexican
+25165_4	part_of_entity	A Day Without a Mexican
+25165_6	is_in_sentence	sentence_25165
+25165_6	det	25165_8
+25165_6	has_surface_form	a
+25165_8	is_in_sentence	sentence_25165
+25165_8	attr	25165_5
+25165_8	has_surface_form	film
+25165_7	is_in_sentence	sentence_25165
+25165_7	nummod	25165_8
+25165_7	has_surface_form	2004
+25165_9	is_in_sentence	sentence_25165
+25165_9	acl	25165_8
+25165_9	has_surface_form	directed
+25165_10	is_in_sentence	sentence_25165
+25165_10	agent	25165_9
+25165_10	has_surface_form	by
+25165_11	is_in_sentence	sentence_25165
+25165_11	compound	25165_12
+25165_11	has_surface_form	Sergio
+25165_11	part_of_entity	Sergio Arau
+25165_12	is_in_sentence	sentence_25165
+25165_12	pobj	25165_10
+25165_12	has_surface_form	Arau
+25165_12	part_of_entity	Sergio Arau
+25165_13	is_in_sentence	sentence_25165
+25165_13	punct	25165_5
+25165_13	has_surface_form	.
+25165_14	is_in_sentence	sentence_25165
+25165_14	dep	25165_5
+25165_14	has_surface_form	
+A Day Without a Mexican	surface_form	A Day Without a Mexican
+A Day Without a Mexican	movie-has-director	Sergio Arau
+Sergio Arau	surface_form	Sergio Arau

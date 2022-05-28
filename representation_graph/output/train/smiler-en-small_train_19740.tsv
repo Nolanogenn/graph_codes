@@ -1,0 +1,48 @@
+19739_0	is_in_sentence	sentence_19739
+19739_0	compound	19739_1
+19739_0	has_surface_form	EV
+19739_0	part_of_entity	EV Bozen 84
+19739_1	is_in_sentence	sentence_19739
+19739_1	nsubj	19739_3
+19739_1	has_surface_form	Bozen
+19739_1	part_of_entity	EV Bozen 84
+19739_3	is_in_sentence	sentence_19739
+19739_3	ROOT	19739_3
+19739_3	has_surface_form	is
+19739_2	is_in_sentence	sentence_19739
+19739_2	nummod	19739_1
+19739_2	has_surface_form	84
+19739_2	part_of_entity	EV Bozen 84
+19739_4	is_in_sentence	sentence_19739
+19739_4	det	19739_7
+19739_4	has_surface_form	an
+19739_7	is_in_sentence	sentence_19739
+19739_7	attr	19739_3
+19739_7	has_surface_form	team
+19739_5	is_in_sentence	sentence_19739
+19739_5	compound	19739_6
+19739_5	has_surface_form	ice
+19739_6	is_in_sentence	sentence_19739
+19739_6	compound	19739_7
+19739_6	has_surface_form	hockey
+19739_8	is_in_sentence	sentence_19739
+19739_8	prep	19739_7
+19739_8	has_surface_form	in
+19739_9	is_in_sentence	sentence_19739
+19739_9	pobj	19739_8
+19739_9	is_entity	Bolzano
+Bolzano	surface_form	Bolzano
+19739_10	is_in_sentence	sentence_19739
+19739_10	punct	19739_9
+19739_10	has_surface_form	,
+19739_11	is_in_sentence	sentence_19739
+19739_11	appos	19739_9
+19739_11	has_surface_form	Italy
+19739_12	is_in_sentence	sentence_19739
+19739_12	punct	19739_3
+19739_12	has_surface_form	.
+19739_13	is_in_sentence	sentence_19739
+19739_13	dep	19739_13
+19739_13	has_surface_form	
+EV Bozen 84	surface_form	EV Bozen 84
+EV Bozen 84	is-where	Bolzano

@@ -1,0 +1,60 @@
+30957_0	is_in_sentence	sentence_30957
+30957_0	nsubj	30957_1
+30957_0	is_entity	Cleveland
+30957_1	is_in_sentence	sentence_30957
+30957_1	ROOT	30957_1
+30957_1	has_surface_form	was
+Cleveland	surface_form	Cleveland
+Cleveland	has-parent	Dr. Mather Cleveland
+30957_2	is_in_sentence	sentence_30957
+30957_2	det	30957_4
+30957_2	has_surface_form	the
+30957_4	is_in_sentence	sentence_30957
+30957_4	attr	30957_1
+30957_4	has_surface_form	son
+30957_3	is_in_sentence	sentence_30957
+30957_3	amod	30957_4
+30957_3	has_surface_form	eldest
+30957_5	is_in_sentence	sentence_30957
+30957_5	prep	30957_4
+30957_5	has_surface_form	of
+30957_6	is_in_sentence	sentence_30957
+30957_6	compound	30957_8
+30957_6	has_surface_form	Dr.
+30957_6	part_of_entity	Dr. Mather Cleveland
+30957_8	is_in_sentence	sentence_30957
+30957_8	pobj	30957_5
+30957_8	is_entity	Cleveland
+30957_8	part_of_entity	Dr. Mather Cleveland
+30957_7	is_in_sentence	sentence_30957
+30957_7	compound	30957_8
+30957_7	has_surface_form	Mather
+30957_7	part_of_entity	Dr. Mather Cleveland
+30957_9	is_in_sentence	sentence_30957
+30957_9	cc	30957_8
+30957_9	has_surface_form	and
+30957_10	is_in_sentence	sentence_30957
+30957_10	compound	30957_11
+30957_10	has_surface_form	Susan
+30957_11	is_in_sentence	sentence_30957
+30957_11	conj	30957_8
+30957_11	has_surface_form	Everett
+30957_12	is_in_sentence	sentence_30957
+30957_12	punct	30957_11
+30957_12	has_surface_form	(
+30957_13	is_in_sentence	sentence_30957
+30957_13	nmod	30957_15
+30957_13	has_surface_form	Colgate
+30957_15	is_in_sentence	sentence_30957
+30957_15	appos	30957_11
+30957_15	is_entity	Cleveland
+30957_14	is_in_sentence	sentence_30957
+30957_14	punct	30957_15
+30957_14	has_surface_form	)
+30957_16	is_in_sentence	sentence_30957
+30957_16	punct	30957_1
+30957_16	has_surface_form	.
+30957_17	is_in_sentence	sentence_30957
+30957_17	dep	30957_1
+30957_17	has_surface_form	
+Dr. Mather Cleveland	surface_form	Dr. Mather Cleveland

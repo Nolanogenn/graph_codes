@@ -1,0 +1,78 @@
+24905_0	is_in_sentence	sentence_24905
+24905_0	compound	24905_2
+24905_0	has_surface_form	Auguste
+24905_2	is_in_sentence	sentence_24905
+24905_2	compound	24905_5
+24905_2	has_surface_form	Laurent
+24905_1	is_in_sentence	sentence_24905
+24905_1	compound	24905_2
+24905_1	has_surface_form	Victor
+24905_5	is_in_sentence	sentence_24905
+24905_5	nsubj	24905_6
+24905_5	has_surface_form	Perier
+24905_3	is_in_sentence	sentence_24905
+24905_3	compound	24905_5
+24905_3	has_surface_form	Casimir
+24905_4	is_in_sentence	sentence_24905
+24905_4	punct	24905_5
+24905_4	has_surface_form	-
+24905_6	is_in_sentence	sentence_24905
+24905_6	ROOT	24905_6
+24905_6	has_surface_form	was
+24905_7	is_in_sentence	sentence_24905
+24905_7	det	24905_8
+24905_7	has_surface_form	the
+24905_8	is_in_sentence	sentence_24905
+24905_8	attr	24905_6
+24905_8	has_surface_form	son
+24905_9	is_in_sentence	sentence_24905
+24905_9	prep	24905_8
+24905_9	has_surface_form	of
+24905_10	is_in_sentence	sentence_24905
+24905_10	compound	24905_12
+24905_10	has_surface_form	Casimir
+24905_10	part_of_entity	Casimir Pierre Perier
+24905_12	is_in_sentence	sentence_24905
+24905_12	pobj	24905_9
+24905_12	has_surface_form	Perier
+24905_12	part_of_entity	Casimir Pierre Perier
+24905_11	is_in_sentence	sentence_24905
+24905_11	compound	24905_12
+24905_11	has_surface_form	Pierre
+24905_11	part_of_entity	Casimir Pierre Perier
+24905_13	is_in_sentence	sentence_24905
+24905_13	cc	24905_12
+24905_13	has_surface_form	and
+24905_14	is_in_sentence	sentence_24905
+24905_14	det	24905_15
+24905_14	has_surface_form	the
+24905_15	is_in_sentence	sentence_24905
+24905_15	conj	24905_12
+24905_15	has_surface_form	father
+24905_16	is_in_sentence	sentence_24905
+24905_16	prep	24905_15
+24905_16	has_surface_form	of
+24905_17	is_in_sentence	sentence_24905
+24905_17	compound	24905_21
+24905_17	has_surface_form	President
+24905_21	is_in_sentence	sentence_24905
+24905_21	pobj	24905_16
+24905_21	has_surface_form	Perier
+24905_18	is_in_sentence	sentence_24905
+24905_18	compound	24905_21
+24905_18	has_surface_form	Jean
+24905_19	is_in_sentence	sentence_24905
+24905_19	compound	24905_21
+24905_19	has_surface_form	Casimir
+24905_20	is_in_sentence	sentence_24905
+24905_20	punct	24905_21
+24905_20	has_surface_form	-
+24905_22	is_in_sentence	sentence_24905
+24905_22	punct	24905_6
+24905_22	has_surface_form	.
+24905_23	is_in_sentence	sentence_24905
+24905_23	dep	24905_6
+24905_23	has_surface_form	
+Auguste Victor Laurent Casimir-Perier	surface_form	Auguste Victor Laurent Casimir-Perier
+Auguste Victor Laurent Casimir-Perier	has-parent	Casimir Pierre Perier
+Casimir Pierre Perier	surface_form	Casimir Pierre Perier

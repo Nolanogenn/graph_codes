@@ -1,0 +1,77 @@
+1364_0	is_in_sentence	sentence_1364
+1364_0	nummod	1364_1
+1364_0	has_surface_form	10000
+1364_0	part_of_entity	10000 Years Later
+1364_1	is_in_sentence	sentence_1364
+1364_1	npadvmod	1364_2
+1364_1	has_surface_form	Years
+1364_1	part_of_entity	10000 Years Later
+1364_2	is_in_sentence	sentence_1364
+1364_2	advmod	1364_4
+1364_2	has_surface_form	Later
+1364_2	part_of_entity	10000 Years Later
+1364_4	is_in_sentence	sentence_1364
+1364_4	nsubj	1364_8
+1364_4	has_surface_form	Chinese
+1364_3	is_in_sentence	sentence_1364
+1364_3	punct	1364_4
+1364_3	has_surface_form	(
+1364_8	is_in_sentence	sentence_1364
+1364_8	ROOT	1364_8
+1364_8	has_surface_form	is
+1364_5	is_in_sentence	sentence_1364
+1364_5	punct	1364_4
+1364_5	has_surface_form	:
+1364_6	is_in_sentence	sentence_1364
+1364_6	appos	1364_4
+1364_6	has_surface_form	一万年以后
+1364_7	is_in_sentence	sentence_1364
+1364_7	punct	1364_4
+1364_7	has_surface_form	)
+1364_9	is_in_sentence	sentence_1364
+1364_9	det	1364_16
+1364_9	has_surface_form	a
+1364_16	is_in_sentence	sentence_1364
+1364_16	attr	1364_8
+1364_16	has_surface_form	film
+1364_10	is_in_sentence	sentence_1364
+1364_10	nummod	1364_16
+1364_10	has_surface_form	2015
+1364_11	is_in_sentence	sentence_1364
+1364_11	npadvmod	1364_12
+1364_11	has_surface_form	Chinese
+1364_12	is_in_sentence	sentence_1364
+1364_12	amod	1364_16
+1364_12	has_surface_form	animated
+1364_13	is_in_sentence	sentence_1364
+1364_13	amod	1364_16
+1364_13	has_surface_form	epic
+1364_14	is_in_sentence	sentence_1364
+1364_14	compound	1364_15
+1364_14	has_surface_form	action
+1364_15	is_in_sentence	sentence_1364
+1364_15	compound	1364_16
+1364_15	has_surface_form	fantasy
+1364_17	is_in_sentence	sentence_1364
+1364_17	acl	1364_16
+1364_17	has_surface_form	directed
+1364_18	is_in_sentence	sentence_1364
+1364_18	agent	1364_17
+1364_18	has_surface_form	by
+1364_19	is_in_sentence	sentence_1364
+1364_19	compound	1364_20
+1364_19	has_surface_form	Yi
+1364_19	part_of_entity	Yi Li
+1364_20	is_in_sentence	sentence_1364
+1364_20	pobj	1364_18
+1364_20	has_surface_form	Li
+1364_20	part_of_entity	Yi Li
+1364_21	is_in_sentence	sentence_1364
+1364_21	punct	1364_8
+1364_21	has_surface_form	.
+1364_22	is_in_sentence	sentence_1364
+1364_22	dep	1364_8
+1364_22	has_surface_form	
+10000 Years Later	surface_form	10000 Years Later
+10000 Years Later	movie-has-director	Yi Li
+Yi Li	surface_form	Yi Li

@@ -1,0 +1,57 @@
+31599_0	is_in_sentence	sentence_31599
+31599_0	ROOT	31599_0
+31599_0	has_surface_form	Superman
+31599_1	is_in_sentence	sentence_31599
+31599_1	punct	31599_0
+31599_1	has_surface_form	:
+31599_2	is_in_sentence	sentence_31599
+31599_2	compound	31599_3
+31599_2	has_surface_form	Ultimate
+31599_3	is_in_sentence	sentence_31599
+31599_3	nsubj	31599_4
+31599_3	has_surface_form	Flight
+31599_4	is_in_sentence	sentence_31599
+31599_4	acl	31599_0
+31599_4	has_surface_form	is
+31599_5	is_in_sentence	sentence_31599
+31599_5	det	31599_9
+31599_5	has_surface_form	a
+31599_9	is_in_sentence	sentence_31599
+31599_9	attr	31599_4
+31599_9	has_surface_form	coaster
+31599_9	part_of_entity	flying roller coaster
+31599_6	is_in_sentence	sentence_31599
+31599_6	npadvmod	31599_7
+31599_6	has_surface_form	steel
+31599_7	is_in_sentence	sentence_31599
+31599_7	amod	31599_9
+31599_7	has_surface_form	flying
+31599_7	part_of_entity	flying roller coaster
+31599_8	is_in_sentence	sentence_31599
+31599_8	compound	31599_9
+31599_8	has_surface_form	roller
+31599_8	part_of_entity	flying roller coaster
+31599_10	is_in_sentence	sentence_31599
+31599_10	acl	31599_9
+31599_10	has_surface_form	designed
+31599_11	is_in_sentence	sentence_31599
+31599_11	agent	31599_10
+31599_11	has_surface_form	by
+31599_12	is_in_sentence	sentence_31599
+31599_12	pobj	31599_11
+31599_12	has_surface_form	Bolliger
+31599_13	is_in_sentence	sentence_31599
+31599_13	cc	31599_12
+31599_13	has_surface_form	&
+31599_14	is_in_sentence	sentence_31599
+31599_14	conj	31599_12
+31599_14	has_surface_form	Mabillard
+31599_15	is_in_sentence	sentence_31599
+31599_15	punct	31599_4
+31599_15	has_surface_form	.
+31599_16	is_in_sentence	sentence_31599
+31599_16	dep	31599_0
+31599_16	has_surface_form	
+Superman: Ultimate Flight	surface_form	Superman: Ultimate Flight
+Superman: Ultimate Flight	has-type	flying roller coaster
+flying roller coaster	surface_form	flying roller coaster

@@ -1,0 +1,73 @@
+550_0	is_in_sentence	sentence_550
+550_0	compound	550_1
+550_0	has_surface_form	William
+550_0	part_of_entity	William Kennedy Laurie Dickson
+550_1	is_in_sentence	sentence_550
+550_1	compound	550_3
+550_1	has_surface_form	Kennedy
+550_1	part_of_entity	William Kennedy Laurie Dickson
+550_3	is_in_sentence	sentence_550
+550_3	nsubj	550_14
+550_3	has_surface_form	Dickson
+550_3	part_of_entity	William Kennedy Laurie Dickson
+550_2	is_in_sentence	sentence_550
+550_2	compound	550_3
+550_2	has_surface_form	Laurie
+550_2	part_of_entity	William Kennedy Laurie Dickson
+550_14	is_in_sentence	sentence_550
+550_14	ROOT	550_14
+550_14	has_surface_form	designed
+550_4	is_in_sentence	sentence_550
+550_4	punct	550_3
+550_4	has_surface_form	,
+550_5	is_in_sentence	sentence_550
+550_5	det	550_7
+550_5	has_surface_form	a
+550_7	is_in_sentence	sentence_550
+550_7	appos	550_3
+550_7	has_surface_form	inventor
+550_6	is_in_sentence	sentence_550
+550_6	amod	550_7
+550_6	has_surface_form	Scottish
+550_8	is_in_sentence	sentence_550
+550_8	cc	550_7
+550_8	has_surface_form	and
+550_9	is_in_sentence	sentence_550
+550_9	conj	550_7
+550_9	has_surface_form	employee
+550_10	is_in_sentence	sentence_550
+550_10	prep	550_7
+550_10	has_surface_form	of
+550_11	is_in_sentence	sentence_550
+550_11	compound	550_12
+550_11	has_surface_form	Thomas
+550_12	is_in_sentence	sentence_550
+550_12	pobj	550_10
+550_12	has_surface_form	Edison
+550_13	is_in_sentence	sentence_550
+550_13	punct	550_3
+550_13	has_surface_form	,
+550_15	is_in_sentence	sentence_550
+550_15	det	550_17
+550_15	has_surface_form	the
+550_17	is_in_sentence	sentence_550
+550_17	dobj	550_14
+550_17	is_entity	camera
+550_16	is_in_sentence	sentence_550
+550_16	compound	550_17
+550_16	has_surface_form	Kinetograph
+camera	surface_form	camera
+camera	invented-by	William Kennedy Laurie Dickson
+550_18	is_in_sentence	sentence_550
+550_18	prep	550_14
+550_18	has_surface_form	in
+550_19	is_in_sentence	sentence_550
+550_19	pobj	550_18
+550_19	has_surface_form	1891
+550_20	is_in_sentence	sentence_550
+550_20	punct	550_14
+550_20	has_surface_form	.
+550_21	is_in_sentence	sentence_550
+550_21	dep	550_21
+550_21	has_surface_form	
+William Kennedy Laurie Dickson	surface_form	William Kennedy Laurie Dickson

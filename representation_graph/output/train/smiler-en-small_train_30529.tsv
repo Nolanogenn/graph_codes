@@ -1,0 +1,70 @@
+30528_0	is_in_sentence	sentence_30528
+30528_0	compound	30528_1
+30528_0	has_surface_form	Guitar
+30528_0	part_of_entity	Guitar Wolf
+30528_1	is_in_sentence	sentence_30528
+30528_1	nsubj	30528_7
+30528_1	has_surface_form	Wolf
+30528_1	part_of_entity	Guitar Wolf
+30528_7	is_in_sentence	sentence_30528
+30528_7	ROOT	30528_7
+30528_7	has_surface_form	is
+30528_2	is_in_sentence	sentence_30528
+30528_2	punct	30528_3
+30528_2	has_surface_form	(
+30528_3	is_in_sentence	sentence_30528
+30528_3	appos	30528_1
+30528_3	has_surface_form	Japanese
+30528_4	is_in_sentence	sentence_30528
+30528_4	punct	30528_3
+30528_4	has_surface_form	:
+30528_5	is_in_sentence	sentence_30528
+30528_5	appos	30528_3
+30528_5	has_surface_form	ギターウルフ
+30528_6	is_in_sentence	sentence_30528
+30528_6	punct	30528_3
+30528_6	has_surface_form	)
+30528_8	is_in_sentence	sentence_30528
+30528_8	det	30528_13
+30528_8	has_surface_form	a
+30528_13	is_in_sentence	sentence_30528
+30528_13	attr	30528_7
+30528_13	has_surface_form	trio
+30528_9	is_in_sentence	sentence_30528
+30528_9	amod	30528_13
+30528_9	has_surface_form	Japanese
+30528_10	is_in_sentence	sentence_30528
+30528_10	compound	30528_11
+30528_10	has_surface_form	garage
+30528_10	part_of_entity	garage rock
+30528_11	is_in_sentence	sentence_30528
+30528_11	compound	30528_12
+30528_11	has_surface_form	rock
+30528_11	part_of_entity	garage rock
+30528_12	is_in_sentence	sentence_30528
+30528_12	compound	30528_13
+30528_12	has_surface_form	power
+30528_14	is_in_sentence	sentence_30528
+30528_14	acl	30528_13
+30528_14	has_surface_form	founded
+30528_15	is_in_sentence	sentence_30528
+30528_15	prep	30528_14
+30528_15	has_surface_form	in
+30528_16	is_in_sentence	sentence_30528
+30528_16	pobj	30528_15
+30528_16	has_surface_form	Tokyo
+30528_17	is_in_sentence	sentence_30528
+30528_17	prep	30528_14
+30528_17	has_surface_form	in
+30528_18	is_in_sentence	sentence_30528
+30528_18	pobj	30528_17
+30528_18	has_surface_form	1987
+30528_19	is_in_sentence	sentence_30528
+30528_19	punct	30528_7
+30528_19	has_surface_form	.
+30528_20	is_in_sentence	sentence_30528
+30528_20	dep	30528_20
+30528_20	has_surface_form	
+Guitar Wolf	surface_form	Guitar Wolf
+Guitar Wolf	has-genre	garage rock
+garage rock	surface_form	garage rock

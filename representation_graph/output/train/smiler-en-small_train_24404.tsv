@@ -1,0 +1,92 @@
+24403_0	is_in_sentence	sentence_24403
+24403_0	det	24403_1
+24403_0	has_surface_form	The
+24403_0	part_of_entity	The House of the Yellow Carpet
+24403_1	is_in_sentence	sentence_24403
+24403_1	nsubj	24403_15
+24403_1	has_surface_form	House
+24403_1	part_of_entity	The House of the Yellow Carpet
+24403_15	is_in_sentence	sentence_24403
+24403_15	ROOT	24403_15
+24403_15	has_surface_form	is
+24403_2	is_in_sentence	sentence_24403
+24403_2	prep	24403_1
+24403_2	has_surface_form	of
+24403_2	part_of_entity	The House of the Yellow Carpet
+24403_3	is_in_sentence	sentence_24403
+24403_3	det	24403_5
+24403_3	has_surface_form	the
+24403_3	part_of_entity	The House of the Yellow Carpet
+24403_5	is_in_sentence	sentence_24403
+24403_5	pobj	24403_2
+24403_5	has_surface_form	Carpet
+24403_5	part_of_entity	The House of the Yellow Carpet
+24403_4	is_in_sentence	sentence_24403
+24403_4	compound	24403_5
+24403_4	has_surface_form	Yellow
+24403_4	part_of_entity	The House of the Yellow Carpet
+24403_6	is_in_sentence	sentence_24403
+24403_6	punct	24403_7
+24403_6	has_surface_form	(
+24403_7	is_in_sentence	sentence_24403
+24403_7	appos	24403_1
+24403_7	has_surface_form	Italian
+24403_8	is_in_sentence	sentence_24403
+24403_8	punct	24403_7
+24403_8	has_surface_form	:
+24403_9	is_in_sentence	sentence_24403
+24403_9	compound	24403_13
+24403_9	has_surface_form	La
+24403_13	is_in_sentence	sentence_24403
+24403_13	appos	24403_7
+24403_13	has_surface_form	giallo
+24403_10	is_in_sentence	sentence_24403
+24403_10	compound	24403_13
+24403_10	has_surface_form	casa
+24403_11	is_in_sentence	sentence_24403
+24403_11	compound	24403_13
+24403_11	has_surface_form	del
+24403_12	is_in_sentence	sentence_24403
+24403_12	compound	24403_13
+24403_12	has_surface_form	tappeto
+24403_14	is_in_sentence	sentence_24403
+24403_14	punct	24403_7
+24403_14	has_surface_form	)
+24403_16	is_in_sentence	sentence_24403
+24403_16	det	24403_20
+24403_16	has_surface_form	a
+24403_20	is_in_sentence	sentence_24403
+24403_20	attr	24403_15
+24403_20	has_surface_form	film
+24403_17	is_in_sentence	sentence_24403
+24403_17	nummod	24403_20
+24403_17	has_surface_form	1983
+24403_18	is_in_sentence	sentence_24403
+24403_18	amod	24403_20
+24403_18	has_surface_form	Italian
+24403_19	is_in_sentence	sentence_24403
+24403_19	compound	24403_20
+24403_19	has_surface_form	giallo
+24403_21	is_in_sentence	sentence_24403
+24403_21	acl	24403_20
+24403_21	has_surface_form	directed
+24403_22	is_in_sentence	sentence_24403
+24403_22	agent	24403_21
+24403_22	has_surface_form	by
+24403_23	is_in_sentence	sentence_24403
+24403_23	compound	24403_24
+24403_23	has_surface_form	Carlo
+24403_23	part_of_entity	Carlo Lizzani
+24403_24	is_in_sentence	sentence_24403
+24403_24	pobj	24403_22
+24403_24	has_surface_form	Lizzani
+24403_24	part_of_entity	Carlo Lizzani
+24403_25	is_in_sentence	sentence_24403
+24403_25	punct	24403_15
+24403_25	has_surface_form	.
+24403_26	is_in_sentence	sentence_24403
+24403_26	dep	24403_26
+24403_26	has_surface_form	
+The House of the Yellow Carpet	surface_form	The House of the Yellow Carpet
+The House of the Yellow Carpet	movie-has-director	Carlo Lizzani
+Carlo Lizzani	surface_form	Carlo Lizzani

@@ -1,0 +1,85 @@
+32685_0	is_in_sentence	sentence_32685
+32685_0	compound	32685_1
+32685_0	has_surface_form	Mt.
+32685_0	part_of_entity	Mt. Washington
+32685_1	is_in_sentence	sentence_32685
+32685_1	poss	32685_3
+32685_1	has_surface_form	Washington
+32685_1	part_of_entity	Mt. Washington
+32685_3	is_in_sentence	sentence_32685
+32685_3	nsubj	32685_4
+32685_3	has_surface_form	peak
+32685_2	is_in_sentence	sentence_32685
+32685_2	case	32685_1
+32685_2	has_surface_form	's
+32685_4	is_in_sentence	sentence_32685
+32685_4	ROOT	32685_4
+32685_4	has_surface_form	is
+32685_5	is_in_sentence	sentence_32685
+32685_5	det	32685_6
+32685_5	has_surface_form	the
+32685_6	is_in_sentence	sentence_32685
+32685_6	attr	32685_4
+32685_6	has_surface_form	highest
+32685_7	is_in_sentence	sentence_32685
+32685_7	prep	32685_6
+32685_7	has_surface_form	in
+32685_8	is_in_sentence	sentence_32685
+32685_8	det	32685_9
+32685_8	has_surface_form	the
+32685_9	is_in_sentence	sentence_32685
+32685_9	pobj	32685_7
+32685_9	has_surface_form	Northeast
+32685_10	is_in_sentence	sentence_32685
+32685_10	punct	32685_4
+32685_10	has_surface_form	.
+32685_11	is_in_sentence	sentence_32685
+32685_11	det	32685_14
+32685_11	has_surface_form	The
+32685_14	is_in_sentence	sentence_32685
+32685_14	nsubj	32685_18
+32685_14	has_surface_form	highway
+32685_12	is_in_sentence	sentence_32685
+32685_12	amod	32685_14
+32685_12	has_surface_form	principal
+32685_13	is_in_sentence	sentence_32685
+32685_13	compound	32685_14
+32685_13	has_surface_form	state
+32685_18	is_in_sentence	sentence_32685
+32685_18	ROOT	32685_18
+32685_18	has_surface_form	is
+32685_15	is_in_sentence	sentence_32685
+32685_15	prep	32685_14
+32685_15	has_surface_form	in
+32685_16	is_in_sentence	sentence_32685
+32685_16	compound	32685_17
+32685_16	has_surface_form	Coös
+32685_16	part_of_entity	Coös County
+32685_17	is_in_sentence	sentence_32685
+32685_17	pobj	32685_15
+32685_17	has_surface_form	County
+32685_17	part_of_entity	Coös County
+32685_19	is_in_sentence	sentence_32685
+32685_19	det	32685_22
+32685_19	has_surface_form	the
+32685_22	is_in_sentence	sentence_32685
+32685_22	attr	32685_18
+32685_22	has_surface_form	Route
+32685_20	is_in_sentence	sentence_32685
+32685_20	compound	32685_21
+32685_20	has_surface_form	New
+32685_21	is_in_sentence	sentence_32685
+32685_21	compound	32685_22
+32685_21	has_surface_form	Hampshire
+32685_23	is_in_sentence	sentence_32685
+32685_23	nummod	32685_22
+32685_23	has_surface_form	16
+32685_24	is_in_sentence	sentence_32685
+32685_24	punct	32685_18
+32685_24	has_surface_form	.
+32685_25	is_in_sentence	sentence_32685
+32685_25	dep	32685_18
+32685_25	has_surface_form	
+Coös County	surface_form	Coös County
+Coös County	has-highest-mountain	Mt. Washington
+Mt. Washington	surface_form	Mt. Washington

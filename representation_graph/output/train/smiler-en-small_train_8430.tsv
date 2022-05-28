@@ -1,0 +1,51 @@
+8429_0	is_in_sentence	sentence_8429
+8429_0	nsubj	8429_3
+8429_0	is_entity	Flockhart
+8429_3	is_in_sentence	sentence_8429
+8429_3	ROOT	8429_3
+8429_3	has_surface_form	have
+Flockhart	surface_form	Flockhart
+Flockhart	has-child	Liam Flockhart Ford
+8429_1	is_in_sentence	sentence_8429
+8429_1	cc	8429_0
+8429_1	has_surface_form	and
+8429_2	is_in_sentence	sentence_8429
+8429_2	conj	8429_0
+8429_2	has_surface_form	Ford
+8429_4	is_in_sentence	sentence_8429
+8429_4	nsubj	8429_5
+8429_4	has_surface_form	one
+8429_5	is_in_sentence	sentence_8429
+8429_5	ccomp	8429_3
+8429_5	has_surface_form	adopted
+8429_6	is_in_sentence	sentence_8429
+8429_6	dobj	8429_5
+8429_6	has_surface_form	son
+8429_7	is_in_sentence	sentence_8429
+8429_7	advmod	8429_5
+8429_7	has_surface_form	together
+8429_8	is_in_sentence	sentence_8429
+8429_8	punct	8429_5
+8429_8	has_surface_form	,
+8429_9	is_in_sentence	sentence_8429
+8429_9	compound	8429_11
+8429_9	has_surface_form	Liam
+8429_9	part_of_entity	Liam Flockhart Ford
+8429_11	is_in_sentence	sentence_8429
+8429_11	dobj	8429_3
+8429_11	has_surface_form	Ford
+8429_11	part_of_entity	Liam Flockhart Ford
+8429_10	is_in_sentence	sentence_8429
+8429_10	compound	8429_11
+8429_10	is_entity	Flockhart
+8429_10	part_of_entity	Liam Flockhart Ford
+8429_12	is_in_sentence	sentence_8429
+8429_12	punct	8429_11
+8429_12	has_surface_form	(
+8429_13	is_in_sentence	sentence_8429
+8429_13	compound	8429_14
+8429_13	has_surface_form	b.
+8429_14	is_in_sentence	sentence_8429
+8429_14	dep	8429_11
+8429_14	has_surface_form	
+Liam Flockhart Ford	surface_form	Liam Flockhart Ford

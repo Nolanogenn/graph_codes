@@ -1,0 +1,90 @@
+8835_0	is_in_sentence	sentence_8835
+8835_0	det	8835_4
+8835_0	has_surface_form	The
+8835_4	is_in_sentence	sentence_8835
+8835_4	nsubj	8835_5
+8835_4	has_surface_form	Inc
+8835_4	part_of_entity	Monarch Beverage Company Inc
+8835_1	is_in_sentence	sentence_8835
+8835_1	compound	8835_2
+8835_1	has_surface_form	Monarch
+8835_1	part_of_entity	Monarch Beverage Company Inc
+8835_2	is_in_sentence	sentence_8835
+8835_2	compound	8835_4
+8835_2	has_surface_form	Beverage
+8835_2	part_of_entity	Monarch Beverage Company Inc
+8835_3	is_in_sentence	sentence_8835
+8835_3	compound	8835_4
+8835_3	has_surface_form	Company
+8835_3	part_of_entity	Monarch Beverage Company Inc
+8835_5	is_in_sentence	sentence_8835
+8835_5	ROOT	8835_5
+8835_5	has_surface_form	is
+8835_6	is_in_sentence	sentence_8835
+8835_6	det	8835_11
+8835_6	has_surface_form	a
+8835_11	is_in_sentence	sentence_8835
+8835_11	attr	8835_5
+8835_11	has_surface_form	company
+8835_7	is_in_sentence	sentence_8835
+8835_7	amod	8835_11
+8835_7	has_surface_form	diversified
+8835_8	is_in_sentence	sentence_8835
+8835_8	punct	8835_11
+8835_8	has_surface_form	,
+8835_9	is_in_sentence	sentence_8835
+8835_9	amod	8835_11
+8835_9	has_surface_form	international
+8835_10	is_in_sentence	sentence_8835
+8835_10	compound	8835_11
+8835_10	has_surface_form	beverage
+8835_12	is_in_sentence	sentence_8835
+8835_12	acl	8835_11
+8835_12	has_surface_form	based
+8835_13	is_in_sentence	sentence_8835
+8835_13	prep	8835_12
+8835_13	has_surface_form	in
+8835_14	is_in_sentence	sentence_8835
+8835_14	pobj	8835_13
+8835_14	has_surface_form	Atlanta
+8835_15	is_in_sentence	sentence_8835
+8835_15	punct	8835_14
+8835_15	has_surface_form	,
+8835_16	is_in_sentence	sentence_8835
+8835_16	appos	8835_14
+8835_16	has_surface_form	Georgia
+8835_17	is_in_sentence	sentence_8835
+8835_17	punct	8835_5
+8835_17	has_surface_form	.
+8835_18	is_in_sentence	sentence_8835
+8835_18	det	8835_19
+8835_18	has_surface_form	The
+8835_19	is_in_sentence	sentence_8835
+8835_19	poss	8835_21
+8835_19	has_surface_form	company
+8835_21	is_in_sentence	sentence_8835
+8835_21	nsubj	8835_22
+8835_21	has_surface_form	CEO
+8835_20	is_in_sentence	sentence_8835
+8835_20	case	8835_19
+8835_20	has_surface_form	's
+8835_22	is_in_sentence	sentence_8835
+8835_22	ROOT	8835_22
+8835_22	has_surface_form	is
+8835_23	is_in_sentence	sentence_8835
+8835_23	compound	8835_24
+8835_23	has_surface_form	Jacques
+8835_23	part_of_entity	Jacques Bombal
+8835_24	is_in_sentence	sentence_8835
+8835_24	attr	8835_22
+8835_24	has_surface_form	Bombal
+8835_24	part_of_entity	Jacques Bombal
+8835_25	is_in_sentence	sentence_8835
+8835_25	punct	8835_22
+8835_25	has_surface_form	.
+8835_26	is_in_sentence	sentence_8835
+8835_26	dep	8835_22
+8835_26	has_surface_form	
+Monarch Beverage Company Inc	surface_form	Monarch Beverage Company Inc
+Monarch Beverage Company Inc	org-leader	Jacques Bombal
+Jacques Bombal	surface_form	Jacques Bombal

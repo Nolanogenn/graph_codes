@@ -1,0 +1,70 @@
+9782_0	is_in_sentence	sentence_9782
+9782_0	compound	9782_1
+9782_0	has_surface_form	Bob
+9782_0	part_of_entity	Bob Regan
+9782_1	is_in_sentence	sentence_9782
+9782_1	nsubj	9782_2
+9782_1	has_surface_form	Regan
+9782_1	part_of_entity	Bob Regan
+9782_2	is_in_sentence	sentence_9782
+9782_2	ROOT	9782_2
+9782_2	has_surface_form	is
+9782_3	is_in_sentence	sentence_9782
+9782_3	det	9782_6
+9782_3	has_surface_form	a
+9782_6	is_in_sentence	sentence_9782
+9782_6	attr	9782_2
+9782_6	has_surface_form	Dove
+9782_4	is_in_sentence	sentence_9782
+9782_4	nmod	9782_6
+9782_4	has_surface_form	Grammy
+9782_5	is_in_sentence	sentence_9782
+9782_5	punct	9782_6
+9782_5	has_surface_form	,
+9782_7	is_in_sentence	sentence_9782
+9782_7	punct	9782_6
+9782_7	has_surface_form	,
+9782_8	is_in_sentence	sentence_9782
+9782_8	cc	9782_6
+9782_8	has_surface_form	and
+9782_9	is_in_sentence	sentence_9782
+9782_9	compound	9782_11
+9782_9	has_surface_form	Nashville
+9782_11	is_in_sentence	sentence_9782
+9782_11	conj	9782_6
+9782_11	has_surface_form	Hall
+9782_10	is_in_sentence	sentence_9782
+9782_10	compound	9782_11
+9782_10	has_surface_form	Songwriters
+9782_12	is_in_sentence	sentence_9782
+9782_12	prep	9782_11
+9782_12	has_surface_form	of
+9782_13	is_in_sentence	sentence_9782
+9782_13	pobj	9782_12
+9782_13	has_surface_form	Fame
+9782_14	is_in_sentence	sentence_9782
+9782_14	acomp	9782_2
+9782_14	has_surface_form	nominated
+9782_15	is_in_sentence	sentence_9782
+9782_15	amod	9782_18
+9782_15	has_surface_form	American
+9782_18	is_in_sentence	sentence_9782
+9782_18	dobj	9782_14
+9782_18	has_surface_form	songwriter
+9782_16	is_in_sentence	sentence_9782
+9782_16	compound	9782_17
+9782_16	has_surface_form	country
+9782_16	part_of_entity	country music
+9782_17	is_in_sentence	sentence_9782
+9782_17	compound	9782_18
+9782_17	has_surface_form	music
+9782_17	part_of_entity	country music
+9782_19	is_in_sentence	sentence_9782
+9782_19	punct	9782_2
+9782_19	has_surface_form	.
+9782_20	is_in_sentence	sentence_9782
+9782_20	dep	9782_20
+9782_20	has_surface_form	
+Bob Regan	surface_form	Bob Regan
+Bob Regan	has-genre	country music
+country music	surface_form	country music

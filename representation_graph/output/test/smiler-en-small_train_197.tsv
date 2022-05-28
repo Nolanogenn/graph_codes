@@ -1,0 +1,47 @@
+196_0	is_in_sentence	sentence_196
+196_0	compound	196_1
+196_0	has_surface_form	Jonathan
+196_0	part_of_entity	Jonathan Bridge
+196_1	is_in_sentence	sentence_196
+196_1	nsubj	196_8
+196_1	has_surface_form	Bridge
+196_1	part_of_entity	Jonathan Bridge
+196_8	is_in_sentence	sentence_196
+196_8	ROOT	196_8
+196_8	has_surface_form	is
+196_2	is_in_sentence	sentence_196
+196_2	punct	196_1
+196_2	has_surface_form	(
+196_3	is_in_sentence	sentence_196
+196_3	acl	196_1
+196_3	has_surface_form	born
+196_4	is_in_sentence	sentence_196
+196_4	npadvmod	196_3
+196_4	has_surface_form	1966
+196_5	is_in_sentence	sentence_196
+196_5	prep	196_3
+196_5	has_surface_form	in
+196_6	is_in_sentence	sentence_196
+196_6	pobj	196_5
+196_6	is_entity	Manchester
+Manchester	surface_form	Manchester
+196_7	is_in_sentence	sentence_196
+196_7	punct	196_1
+196_7	has_surface_form	)
+196_9	is_in_sentence	sentence_196
+196_9	det	196_11
+196_9	has_surface_form	an
+196_11	is_in_sentence	sentence_196
+196_11	attr	196_8
+196_11	has_surface_form	actor
+196_10	is_in_sentence	sentence_196
+196_10	amod	196_11
+196_10	has_surface_form	English
+196_12	is_in_sentence	sentence_196
+196_12	punct	196_8
+196_12	has_surface_form	.
+196_13	is_in_sentence	sentence_196
+196_13	dep	196_8
+196_13	has_surface_form	
+Jonathan Bridge	surface_form	Jonathan Bridge
+Jonathan Bridge	birth-place	Manchester

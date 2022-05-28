@@ -1,0 +1,71 @@
+13200_0	is_in_sentence	sentence_13200
+13200_0	compound	13200_1
+13200_0	has_surface_form	Marine
+13200_0	part_of_entity	Marine Fighter Attack Squadron 115
+13200_1	is_in_sentence	sentence_13200
+13200_1	compound	13200_3
+13200_1	has_surface_form	Fighter
+13200_1	part_of_entity	Marine Fighter Attack Squadron 115
+13200_3	is_in_sentence	sentence_13200
+13200_3	nsubj	13200_8
+13200_3	has_surface_form	Squadron
+13200_3	part_of_entity	Marine Fighter Attack Squadron 115
+13200_2	is_in_sentence	sentence_13200
+13200_2	compound	13200_3
+13200_2	has_surface_form	Attack
+13200_2	part_of_entity	Marine Fighter Attack Squadron 115
+13200_8	is_in_sentence	sentence_13200
+13200_8	ROOT	13200_8
+13200_8	has_surface_form	is
+13200_4	is_in_sentence	sentence_13200
+13200_4	nummod	13200_3
+13200_4	has_surface_form	115
+13200_4	part_of_entity	Marine Fighter Attack Squadron 115
+13200_5	is_in_sentence	sentence_13200
+13200_5	punct	13200_3
+13200_5	has_surface_form	(
+13200_6	is_in_sentence	sentence_13200
+13200_6	appos	13200_3
+13200_6	has_surface_form	VMFA-115
+13200_7	is_in_sentence	sentence_13200
+13200_7	punct	13200_3
+13200_7	has_surface_form	)
+13200_9	is_in_sentence	sentence_13200
+13200_9	det	13200_18
+13200_9	has_surface_form	a
+13200_18	is_in_sentence	sentence_13200
+13200_18	attr	13200_8
+13200_18	is_entity	squadron
+13200_10	is_in_sentence	sentence_13200
+13200_10	compound	13200_11
+13200_10	has_surface_form	United
+13200_11	is_in_sentence	sentence_13200
+13200_11	compound	13200_16
+13200_11	has_surface_form	States
+13200_16	is_in_sentence	sentence_13200
+13200_16	compound	13200_18
+13200_16	has_surface_form	A-18
+13200_12	is_in_sentence	sentence_13200
+13200_12	compound	13200_16
+13200_12	has_surface_form	Marine
+13200_13	is_in_sentence	sentence_13200
+13200_13	nmod	13200_16
+13200_13	has_surface_form	Corps
+13200_14	is_in_sentence	sentence_13200
+13200_14	nmod	13200_16
+13200_14	has_surface_form	F
+13200_15	is_in_sentence	sentence_13200
+13200_15	punct	13200_16
+13200_15	has_surface_form	/
+13200_17	is_in_sentence	sentence_13200
+13200_17	compound	13200_18
+13200_17	has_surface_form	Hornet
+squadron	surface_form	squadron
+13200_19	is_in_sentence	sentence_13200
+13200_19	punct	13200_8
+13200_19	has_surface_form	.
+13200_20	is_in_sentence	sentence_13200
+13200_20	dep	13200_8
+13200_20	has_surface_form	
+Marine Fighter Attack Squadron 115	surface_form	Marine Fighter Attack Squadron 115
+Marine Fighter Attack Squadron 115	has-type	squadron

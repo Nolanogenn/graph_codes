@@ -1,0 +1,82 @@
+33347_0	is_in_sentence	sentence_33347
+33347_0	compound	33347_1
+33347_0	has_surface_form	Luc
+33347_0	part_of_entity	Luc Van den Bossche
+33347_1	is_in_sentence	sentence_33347
+33347_1	nmod	33347_3
+33347_1	has_surface_form	Van
+33347_1	part_of_entity	Luc Van den Bossche
+33347_3	is_in_sentence	sentence_33347
+33347_3	nsubj	33347_11
+33347_3	has_surface_form	Bossche
+33347_3	part_of_entity	Luc Van den Bossche
+33347_2	is_in_sentence	sentence_33347
+33347_2	compound	33347_3
+33347_2	has_surface_form	den
+33347_2	part_of_entity	Luc Van den Bossche
+33347_11	is_in_sentence	sentence_33347
+33347_11	ROOT	33347_11
+33347_11	has_surface_form	is
+33347_4	is_in_sentence	sentence_33347
+33347_4	punct	33347_5
+33347_4	has_surface_form	(
+33347_5	is_in_sentence	sentence_33347
+33347_5	appos	33347_3
+33347_5	has_surface_form	Aalst
+33347_6	is_in_sentence	sentence_33347
+33347_6	punct	33347_5
+33347_6	has_surface_form	,
+33347_7	is_in_sentence	sentence_33347
+33347_7	nummod	33347_8
+33347_7	has_surface_form	16
+33347_8	is_in_sentence	sentence_33347
+33347_8	npadvmod	33347_5
+33347_8	has_surface_form	September
+33347_9	is_in_sentence	sentence_33347
+33347_9	nummod	33347_8
+33347_9	has_surface_form	1947
+33347_10	is_in_sentence	sentence_33347
+33347_10	punct	33347_5
+33347_10	has_surface_form	)
+33347_12	is_in_sentence	sentence_33347
+33347_12	det	33347_15
+33347_12	has_surface_form	a
+33347_15	is_in_sentence	sentence_33347
+33347_15	attr	33347_11
+33347_15	is_entity	politician
+33347_13	is_in_sentence	sentence_33347
+33347_13	amod	33347_15
+33347_13	has_surface_form	Belgian
+33347_14	is_in_sentence	sentence_33347
+33347_14	amod	33347_15
+33347_14	has_surface_form	socialist
+politician	surface_form	politician
+33347_16	is_in_sentence	sentence_33347
+33347_16	cc	33347_15
+33347_16	has_surface_form	and
+33347_17	is_in_sentence	sentence_33347
+33347_17	conj	33347_15
+33347_17	has_surface_form	father
+33347_18	is_in_sentence	sentence_33347
+33347_18	prep	33347_15
+33347_18	has_surface_form	of
+33347_19	is_in_sentence	sentence_33347
+33347_19	compound	33347_20
+33347_19	has_surface_form	Freya
+33347_20	is_in_sentence	sentence_33347
+33347_20	compound	33347_22
+33347_20	has_surface_form	Van
+33347_22	is_in_sentence	sentence_33347
+33347_22	pobj	33347_18
+33347_22	has_surface_form	Bossche
+33347_21	is_in_sentence	sentence_33347
+33347_21	compound	33347_22
+33347_21	has_surface_form	den
+33347_23	is_in_sentence	sentence_33347
+33347_23	punct	33347_11
+33347_23	has_surface_form	.
+33347_24	is_in_sentence	sentence_33347
+33347_24	dep	33347_11
+33347_24	has_surface_form	
+Luc Van den Bossche	surface_form	Luc Van den Bossche
+Luc Van den Bossche	has-occupation	politician

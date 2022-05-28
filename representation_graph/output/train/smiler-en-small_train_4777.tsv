@@ -1,0 +1,62 @@
+4776_0	is_in_sentence	sentence_4776
+4776_0	compound	4776_1
+4776_0	has_surface_form	Document
+4776_0	part_of_entity	Document Records
+4776_1	is_in_sentence	sentence_4776
+4776_1	nsubj	4776_2
+4776_1	has_surface_form	Records
+4776_1	part_of_entity	Document Records
+4776_2	is_in_sentence	sentence_4776
+4776_2	ROOT	4776_2
+4776_2	has_surface_form	is
+4776_3	is_in_sentence	sentence_4776
+4776_3	det	4776_6
+4776_3	has_surface_form	an
+4776_6	is_in_sentence	sentence_4776
+4776_6	attr	4776_2
+4776_6	has_surface_form	label
+4776_4	is_in_sentence	sentence_4776
+4776_4	amod	4776_6
+4776_4	has_surface_form	independent
+4776_5	is_in_sentence	sentence_4776
+4776_5	compound	4776_6
+4776_5	has_surface_form	record
+4776_7	is_in_sentence	sentence_4776
+4776_7	prep	4776_6
+4776_7	has_surface_form	in
+4776_8	is_in_sentence	sentence_4776
+4776_8	pobj	4776_7
+4776_8	has_surface_form	Scotland
+4776_9	is_in_sentence	sentence_4776
+4776_9	nsubj	4776_10
+4776_9	has_surface_form	that
+4776_10	is_in_sentence	sentence_4776
+4776_10	relcl	4776_6
+4776_10	has_surface_form	specializes
+4776_11	is_in_sentence	sentence_4776
+4776_11	prep	4776_10
+4776_11	has_surface_form	in
+4776_12	is_in_sentence	sentence_4776
+4776_12	pcomp	4776_11
+4776_12	has_surface_form	reissuing
+4776_13	is_in_sentence	sentence_4776
+4776_13	amod	4776_14
+4776_13	has_surface_form	vintage
+4776_14	is_in_sentence	sentence_4776
+4776_14	dobj	4776_12
+4776_14	is_entity	blues
+blues	surface_form	blues
+4776_15	is_in_sentence	sentence_4776
+4776_15	cc	4776_14
+4776_15	has_surface_form	and
+4776_16	is_in_sentence	sentence_4776
+4776_16	conj	4776_14
+4776_16	has_surface_form	jazz
+4776_17	is_in_sentence	sentence_4776
+4776_17	punct	4776_2
+4776_17	has_surface_form	.
+4776_18	is_in_sentence	sentence_4776
+4776_18	dep	4776_2
+4776_18	has_surface_form	
+Document Records	surface_form	Document Records
+Document Records	has-genre	blues

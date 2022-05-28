@@ -1,0 +1,59 @@
+16023_0	is_in_sentence	sentence_16023
+16023_0	compound	16023_1
+16023_0	has_surface_form	Marc
+16023_0	part_of_entity	Marc Ford
+16023_1	is_in_sentence	sentence_16023
+16023_1	nsubj	16023_9
+16023_1	has_surface_form	Ford
+16023_1	part_of_entity	Marc Ford
+16023_9	is_in_sentence	sentence_16023
+16023_9	ROOT	16023_9
+16023_9	has_surface_form	is
+16023_2	is_in_sentence	sentence_16023
+16023_2	punct	16023_1
+16023_2	has_surface_form	(
+16023_3	is_in_sentence	sentence_16023
+16023_3	acl	16023_1
+16023_3	has_surface_form	born
+16023_4	is_in_sentence	sentence_16023
+16023_4	npadvmod	16023_3
+16023_4	has_surface_form	April
+16023_5	is_in_sentence	sentence_16023
+16023_5	nummod	16023_4
+16023_5	has_surface_form	13
+16023_6	is_in_sentence	sentence_16023
+16023_6	punct	16023_4
+16023_6	has_surface_form	,
+16023_7	is_in_sentence	sentence_16023
+16023_7	nummod	16023_4
+16023_7	has_surface_form	1966
+16023_8	is_in_sentence	sentence_16023
+16023_8	punct	16023_1
+16023_8	has_surface_form	)
+16023_10	is_in_sentence	sentence_16023
+16023_10	det	16023_15
+16023_10	has_surface_form	an
+16023_15	is_in_sentence	sentence_16023
+16023_15	attr	16023_9
+16023_15	has_surface_form	guitarist
+16023_11	is_in_sentence	sentence_16023
+16023_11	amod	16023_15
+16023_11	is_entity	American
+American	surface_form	American
+16023_12	is_in_sentence	sentence_16023
+16023_12	compound	16023_14
+16023_12	has_surface_form	blues
+16023_14	is_in_sentence	sentence_16023
+16023_14	compound	16023_15
+16023_14	has_surface_form	rock
+16023_13	is_in_sentence	sentence_16023
+16023_13	punct	16023_14
+16023_13	has_surface_form	-
+16023_16	is_in_sentence	sentence_16023
+16023_16	punct	16023_9
+16023_16	has_surface_form	.
+16023_17	is_in_sentence	sentence_16023
+16023_17	dep	16023_17
+16023_17	has_surface_form	
+Marc Ford	surface_form	Marc Ford
+Marc Ford	has-nationality	American

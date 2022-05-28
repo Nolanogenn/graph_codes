@@ -1,0 +1,62 @@
+5085_0	is_in_sentence	sentence_5085
+5085_0	compound	5085_1
+5085_0	has_surface_form	Milica
+5085_0	part_of_entity	Milica Majstorović
+5085_1	is_in_sentence	sentence_5085
+5085_1	nsubj	5085_13
+5085_1	has_surface_form	Majstorović
+5085_1	part_of_entity	Milica Majstorović
+5085_13	is_in_sentence	sentence_5085
+5085_13	ROOT	5085_13
+5085_13	has_surface_form	is
+5085_2	is_in_sentence	sentence_5085
+5085_2	punct	5085_3
+5085_2	has_surface_form	(
+5085_3	is_in_sentence	sentence_5085
+5085_3	appos	5085_1
+5085_3	has_surface_form	Serbian
+5085_4	is_in_sentence	sentence_5085
+5085_4	punct	5085_3
+5085_4	has_surface_form	:
+5085_5	is_in_sentence	sentence_5085
+5085_5	compound	5085_6
+5085_5	has_surface_form	Милица
+5085_6	is_in_sentence	sentence_5085
+5085_6	appos	5085_1
+5085_6	has_surface_form	Мајсторовић
+5085_7	is_in_sentence	sentence_5085
+5085_7	punct	5085_6
+5085_7	has_surface_form	;
+5085_8	is_in_sentence	sentence_5085
+5085_8	acl	5085_6
+5085_8	has_surface_form	born
+5085_9	is_in_sentence	sentence_5085
+5085_9	nummod	5085_10
+5085_9	has_surface_form	9
+5085_10	is_in_sentence	sentence_5085
+5085_10	npadvmod	5085_8
+5085_10	has_surface_form	October
+5085_11	is_in_sentence	sentence_5085
+5085_11	nummod	5085_10
+5085_11	has_surface_form	1989
+5085_12	is_in_sentence	sentence_5085
+5085_12	punct	5085_6
+5085_12	has_surface_form	)
+5085_14	is_in_sentence	sentence_5085
+5085_14	det	5085_16
+5085_14	has_surface_form	a
+5085_16	is_in_sentence	sentence_5085
+5085_16	attr	5085_13
+5085_16	is_entity	singer
+5085_15	is_in_sentence	sentence_5085
+5085_15	amod	5085_16
+5085_15	has_surface_form	Serbian
+singer	surface_form	singer
+5085_17	is_in_sentence	sentence_5085
+5085_17	punct	5085_13
+5085_17	has_surface_form	.
+5085_18	is_in_sentence	sentence_5085
+5085_18	dep	5085_18
+5085_18	has_surface_form	
+Milica Majstorović	surface_form	Milica Majstorović
+Milica Majstorović	has-occupation	singer

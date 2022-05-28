@@ -1,0 +1,74 @@
+10924_0	is_in_sentence	sentence_10924
+10924_0	amod	10924_1
+10924_0	has_surface_form	Australian
+10924_1	is_in_sentence	sentence_10924
+10924_1	compound	10924_4
+10924_1	has_surface_form	inventor
+10924_4	is_in_sentence	sentence_10924
+10924_4	nsubjpass	10924_7
+10924_4	has_surface_form	Farrell
+10924_4	part_of_entity	Myra Juliet Farrell
+10924_2	is_in_sentence	sentence_10924
+10924_2	compound	10924_4
+10924_2	has_surface_form	Myra
+10924_2	part_of_entity	Myra Juliet Farrell
+10924_3	is_in_sentence	sentence_10924
+10924_3	compound	10924_4
+10924_3	has_surface_form	Juliet
+10924_3	part_of_entity	Myra Juliet Farrell
+10924_7	is_in_sentence	sentence_10924
+10924_7	ROOT	10924_7
+10924_7	has_surface_form	credited
+10924_5	is_in_sentence	sentence_10924
+10924_5	auxpass	10924_7
+10924_5	has_surface_form	is
+10924_6	is_in_sentence	sentence_10924
+10924_6	advmod	10924_7
+10924_6	has_surface_form	also
+10924_8	is_in_sentence	sentence_10924
+10924_8	prep	10924_7
+10924_8	has_surface_form	with
+10924_9	is_in_sentence	sentence_10924
+10924_9	pcomp	10924_8
+10924_9	has_surface_form	inventing
+10924_10	is_in_sentence	sentence_10924
+10924_10	det	10924_13
+10924_10	has_surface_form	a
+10924_13	is_in_sentence	sentence_10924
+10924_13	dobj	10924_9
+10924_13	has_surface_form	stud
+10924_13	part_of_entity	press stud
+10924_11	is_in_sentence	sentence_10924
+10924_11	amod	10924_13
+10924_11	has_surface_form	stitchless
+10924_12	is_in_sentence	sentence_10924
+10924_12	compound	10924_13
+10924_12	has_surface_form	press
+10924_12	part_of_entity	press stud
+10924_14	is_in_sentence	sentence_10924
+10924_14	cc	10924_13
+10924_14	has_surface_form	and
+10924_15	is_in_sentence	sentence_10924
+10924_15	det	10924_17
+10924_15	has_surface_form	the
+10924_17	is_in_sentence	sentence_10924
+10924_17	conj	10924_13
+10924_17	has_surface_form	hook
+10924_16	is_in_sentence	sentence_10924
+10924_16	amod	10924_17
+10924_16	has_surface_form	stitchless
+10924_18	is_in_sentence	sentence_10924
+10924_18	cc	10924_17
+10924_18	has_surface_form	and
+10924_19	is_in_sentence	sentence_10924
+10924_19	conj	10924_17
+10924_19	has_surface_form	eye
+10924_20	is_in_sentence	sentence_10924
+10924_20	punct	10924_7
+10924_20	has_surface_form	.
+10924_21	is_in_sentence	sentence_10924
+10924_21	dep	10924_21
+10924_21	has_surface_form	
+press stud	surface_form	press stud
+press stud	invented-by	Myra Juliet Farrell
+Myra Juliet Farrell	surface_form	Myra Juliet Farrell

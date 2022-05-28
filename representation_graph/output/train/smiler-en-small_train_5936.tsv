@@ -1,0 +1,78 @@
+5935_0	is_in_sentence	sentence_5935
+5935_0	det	5935_1
+5935_0	has_surface_form	A
+5935_0	part_of_entity	A Bell for Adano
+5935_1	is_in_sentence	sentence_5935
+5935_1	nsubj	5935_7
+5935_1	has_surface_form	Bell
+5935_1	part_of_entity	A Bell for Adano
+5935_7	is_in_sentence	sentence_5935
+5935_7	ROOT	5935_7
+5935_7	has_surface_form	is
+5935_2	is_in_sentence	sentence_5935
+5935_2	prep	5935_1
+5935_2	has_surface_form	for
+5935_2	part_of_entity	A Bell for Adano
+5935_3	is_in_sentence	sentence_5935
+5935_3	pobj	5935_2
+5935_3	has_surface_form	Adano
+5935_3	part_of_entity	A Bell for Adano
+5935_4	is_in_sentence	sentence_5935
+5935_4	punct	5935_3
+5935_4	has_surface_form	(
+5935_5	is_in_sentence	sentence_5935
+5935_5	appos	5935_3
+5935_5	has_surface_form	1945
+5935_6	is_in_sentence	sentence_5935
+5935_6	punct	5935_3
+5935_6	has_surface_form	)
+5935_8	is_in_sentence	sentence_5935
+5935_8	det	5935_9
+5935_8	has_surface_form	a
+5935_9	is_in_sentence	sentence_5935
+5935_9	attr	5935_7
+5935_9	has_surface_form	film
+5935_10	is_in_sentence	sentence_5935
+5935_10	acl	5935_9
+5935_10	has_surface_form	directed
+5935_11	is_in_sentence	sentence_5935
+5935_11	agent	5935_10
+5935_11	has_surface_form	by
+5935_12	is_in_sentence	sentence_5935
+5935_12	compound	5935_13
+5935_12	has_surface_form	Henry
+5935_12	part_of_entity	Henry King
+5935_13	is_in_sentence	sentence_5935
+5935_13	pobj	5935_11
+5935_13	has_surface_form	King
+5935_13	part_of_entity	Henry King
+5935_14	is_in_sentence	sentence_5935
+5935_14	cc	5935_10
+5935_14	has_surface_form	and
+5935_15	is_in_sentence	sentence_5935
+5935_15	conj	5935_10
+5935_15	has_surface_form	starring
+5935_16	is_in_sentence	sentence_5935
+5935_16	compound	5935_17
+5935_16	has_surface_form	John
+5935_17	is_in_sentence	sentence_5935
+5935_17	dobj	5935_15
+5935_17	has_surface_form	Hodiak
+5935_18	is_in_sentence	sentence_5935
+5935_18	cc	5935_17
+5935_18	has_surface_form	and
+5935_19	is_in_sentence	sentence_5935
+5935_19	compound	5935_20
+5935_19	has_surface_form	Gene
+5935_20	is_in_sentence	sentence_5935
+5935_20	conj	5935_17
+5935_20	has_surface_form	Tierney
+5935_21	is_in_sentence	sentence_5935
+5935_21	punct	5935_7
+5935_21	has_surface_form	.
+5935_22	is_in_sentence	sentence_5935
+5935_22	dep	5935_7
+5935_22	has_surface_form	
+A Bell for Adano	surface_form	A Bell for Adano
+A Bell for Adano	movie-has-director	Henry King
+Henry King	surface_form	Henry King

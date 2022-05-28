@@ -1,0 +1,84 @@
+29998_0	is_in_sentence	sentence_29998
+29998_0	nsubj	29998_1
+29998_0	has_surface_form	Un
+29998_0	part_of_entity	Un amore a Roma
+29998_1	is_in_sentence	sentence_29998
+29998_1	nsubj	29998_12
+29998_1	has_surface_form	amore
+29998_1	part_of_entity	Un amore a Roma
+29998_12	is_in_sentence	sentence_29998
+29998_12	ROOT	29998_12
+29998_12	has_surface_form	is
+29998_2	is_in_sentence	sentence_29998
+29998_2	det	29998_3
+29998_2	has_surface_form	a
+29998_2	part_of_entity	Un amore a Roma
+29998_3	is_in_sentence	sentence_29998
+29998_3	dobj	29998_1
+29998_3	has_surface_form	Roma
+29998_3	part_of_entity	Un amore a Roma
+29998_4	is_in_sentence	sentence_29998
+29998_4	punct	29998_3
+29998_4	has_surface_form	(
+29998_5	is_in_sentence	sentence_29998
+29998_5	advmod	29998_6
+29998_5	has_surface_form	internationally
+29998_6	is_in_sentence	sentence_29998
+29998_6	acl	29998_3
+29998_6	has_surface_form	released
+29998_7	is_in_sentence	sentence_29998
+29998_7	prep	29998_6
+29998_7	has_surface_form	as
+29998_8	is_in_sentence	sentence_29998
+29998_8	pobj	29998_7
+29998_8	has_surface_form	Love
+29998_9	is_in_sentence	sentence_29998
+29998_9	prep	29998_8
+29998_9	has_surface_form	in
+29998_10	is_in_sentence	sentence_29998
+29998_10	pobj	29998_9
+29998_10	has_surface_form	Rome
+29998_11	is_in_sentence	sentence_29998
+29998_11	punct	29998_3
+29998_11	has_surface_form	)
+29998_13	is_in_sentence	sentence_29998
+29998_13	det	29998_18
+29998_13	has_surface_form	a
+29998_18	is_in_sentence	sentence_29998
+29998_18	attr	29998_12
+29998_18	has_surface_form	film
+29998_14	is_in_sentence	sentence_29998
+29998_14	nummod	29998_18
+29998_14	has_surface_form	1960
+29998_15	is_in_sentence	sentence_29998
+29998_15	amod	29998_18
+29998_15	has_surface_form	Italian
+29998_16	is_in_sentence	sentence_29998
+29998_16	amod	29998_18
+29998_16	has_surface_form	romantic
+29998_17	is_in_sentence	sentence_29998
+29998_17	compound	29998_18
+29998_17	has_surface_form	drama
+29998_19	is_in_sentence	sentence_29998
+29998_19	acl	29998_18
+29998_19	has_surface_form	directed
+29998_20	is_in_sentence	sentence_29998
+29998_20	agent	29998_19
+29998_20	has_surface_form	by
+29998_21	is_in_sentence	sentence_29998
+29998_21	compound	29998_22
+29998_21	has_surface_form	Dino
+29998_21	part_of_entity	Dino Risi
+29998_22	is_in_sentence	sentence_29998
+29998_22	pobj	29998_20
+29998_22	has_surface_form	Risi
+29998_22	part_of_entity	Dino Risi
+29998_23	is_in_sentence	sentence_29998
+29998_23	punct	29998_12
+29998_23	has_surface_form	.
+29998_24	is_in_sentence	sentence_29998
+29998_24	dep	29998_12
+29998_24	has_surface_form	
+Un amore a Roma	surface_form	Un amore a Roma
+Un amore a Roma	movie-has-director	Dino Risi
+Dino Risi	surface_form	Dino Risi

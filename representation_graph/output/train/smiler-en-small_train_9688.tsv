@@ -1,0 +1,76 @@
+9687_0	is_in_sentence	sentence_9687
+9687_0	compound	9687_1
+9687_0	has_surface_form	Chester
+9687_0	part_of_entity	Chester Leonard Lenny Gault
+9687_1	is_in_sentence	sentence_9687
+9687_1	compound	9687_3
+9687_1	has_surface_form	Leonard
+9687_1	part_of_entity	Chester Leonard Lenny Gault
+9687_3	is_in_sentence	sentence_9687
+9687_3	nsubj	9687_15
+9687_3	has_surface_form	Gault
+9687_3	part_of_entity	Chester Leonard Lenny Gault
+9687_2	is_in_sentence	sentence_9687
+9687_2	compound	9687_3
+9687_2	has_surface_form	Lenny
+9687_2	part_of_entity	Chester Leonard Lenny Gault
+9687_15	is_in_sentence	sentence_9687
+9687_15	ROOT	9687_15
+9687_15	has_surface_form	is
+9687_4	is_in_sentence	sentence_9687
+9687_4	punct	9687_3
+9687_4	has_surface_form	(
+9687_5	is_in_sentence	sentence_9687
+9687_5	appos	9687_3
+9687_5	has_surface_form	August
+9687_6	is_in_sentence	sentence_9687
+9687_6	nummod	9687_5
+9687_6	has_surface_form	16
+9687_7	is_in_sentence	sentence_9687
+9687_7	punct	9687_5
+9687_7	has_surface_form	,
+9687_8	is_in_sentence	sentence_9687
+9687_8	nummod	9687_5
+9687_8	has_surface_form	1942
+9687_9	is_in_sentence	sentence_9687
+9687_9	punct	9687_10
+9687_9	has_surface_form	-
+9687_10	is_in_sentence	sentence_9687
+9687_10	npadvmod	9687_3
+9687_10	has_surface_form	April
+9687_11	is_in_sentence	sentence_9687
+9687_11	nummod	9687_10
+9687_11	has_surface_form	21
+9687_12	is_in_sentence	sentence_9687
+9687_12	punct	9687_10
+9687_12	has_surface_form	,
+9687_13	is_in_sentence	sentence_9687
+9687_13	nummod	9687_10
+9687_13	has_surface_form	2012
+9687_14	is_in_sentence	sentence_9687
+9687_14	punct	9687_3
+9687_14	has_surface_form	)
+9687_16	is_in_sentence	sentence_9687
+9687_16	det	9687_20
+9687_16	has_surface_form	an
+9687_20	is_in_sentence	sentence_9687
+9687_20	attr	9687_15
+9687_20	has_surface_form	singer
+9687_17	is_in_sentence	sentence_9687
+9687_17	amod	9687_20
+9687_17	has_surface_form	American
+9687_18	is_in_sentence	sentence_9687
+9687_18	compound	9687_19
+9687_18	is_entity	country
+9687_19	is_in_sentence	sentence_9687
+9687_19	compound	9687_20
+9687_19	has_surface_form	music
+country	surface_form	country
+9687_21	is_in_sentence	sentence_9687
+9687_21	punct	9687_15
+9687_21	has_surface_form	.
+9687_22	is_in_sentence	sentence_9687
+9687_22	dep	9687_22
+9687_22	has_surface_form	
+Chester Leonard Lenny Gault	surface_form	Chester Leonard Lenny Gault
+Chester Leonard Lenny Gault	has-genre	country

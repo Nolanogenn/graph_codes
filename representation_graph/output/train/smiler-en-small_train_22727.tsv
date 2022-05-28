@@ -1,0 +1,83 @@
+22726_0	is_in_sentence	sentence_22726
+22726_0	det	22726_2
+22726_0	has_surface_form	The
+22726_2	is_in_sentence	sentence_22726
+22726_2	nsubj	22726_9
+22726_2	has_surface_form	Department
+22726_2	part_of_entity	California Department of Consumer Affairs
+22726_1	is_in_sentence	sentence_22726
+22726_1	compound	22726_2
+22726_1	has_surface_form	California
+22726_1	part_of_entity	California Department of Consumer Affairs
+22726_9	is_in_sentence	sentence_22726
+22726_9	ROOT	22726_9
+22726_9	has_surface_form	is
+22726_3	is_in_sentence	sentence_22726
+22726_3	prep	22726_2
+22726_3	has_surface_form	of
+22726_3	part_of_entity	California Department of Consumer Affairs
+22726_4	is_in_sentence	sentence_22726
+22726_4	compound	22726_5
+22726_4	has_surface_form	Consumer
+22726_4	part_of_entity	California Department of Consumer Affairs
+22726_5	is_in_sentence	sentence_22726
+22726_5	pobj	22726_3
+22726_5	has_surface_form	Affairs
+22726_5	part_of_entity	California Department of Consumer Affairs
+22726_6	is_in_sentence	sentence_22726
+22726_6	punct	22726_2
+22726_6	has_surface_form	(
+22726_7	is_in_sentence	sentence_22726
+22726_7	appos	22726_2
+22726_7	has_surface_form	DCA
+22726_8	is_in_sentence	sentence_22726
+22726_8	punct	22726_2
+22726_8	has_surface_form	)
+22726_10	is_in_sentence	sentence_22726
+22726_10	det	22726_11
+22726_10	has_surface_form	a
+22726_11	is_in_sentence	sentence_22726
+22726_11	attr	22726_9
+22726_11	is_entity	department
+department	surface_form	department
+22726_12	is_in_sentence	sentence_22726
+22726_12	prep	22726_11
+22726_12	has_surface_form	within
+22726_13	is_in_sentence	sentence_22726
+22726_13	det	22726_15
+22726_13	has_surface_form	the
+22726_15	is_in_sentence	sentence_22726
+22726_15	pobj	22726_12
+22726_15	has_surface_form	Business
+22726_14	is_in_sentence	sentence_22726
+22726_14	compound	22726_15
+22726_14	has_surface_form	California
+22726_16	is_in_sentence	sentence_22726
+22726_16	punct	22726_15
+22726_16	has_surface_form	,
+22726_17	is_in_sentence	sentence_22726
+22726_17	compound	22726_18
+22726_17	has_surface_form	Consumer
+22726_18	is_in_sentence	sentence_22726
+22726_18	conj	22726_15
+22726_18	has_surface_form	Services
+22726_19	is_in_sentence	sentence_22726
+22726_19	punct	22726_18
+22726_19	has_surface_form	,
+22726_20	is_in_sentence	sentence_22726
+22726_20	cc	22726_18
+22726_20	has_surface_form	and
+22726_21	is_in_sentence	sentence_22726
+22726_21	compound	22726_22
+22726_21	has_surface_form	Housing
+22726_22	is_in_sentence	sentence_22726
+22726_22	conj	22726_18
+22726_22	has_surface_form	Agency
+22726_23	is_in_sentence	sentence_22726
+22726_23	punct	22726_9
+22726_23	has_surface_form	.
+22726_24	is_in_sentence	sentence_22726
+22726_24	dep	22726_9
+22726_24	has_surface_form	
+California Department of Consumer Affairs	surface_form	California Department of Consumer Affairs
+California Department of Consumer Affairs	has-type	department

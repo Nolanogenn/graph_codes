@@ -1,0 +1,74 @@
+17715_0	is_in_sentence	sentence_17715
+17715_0	compound	17715_1
+17715_0	has_surface_form	Louis
+17715_1	is_in_sentence	sentence_17715
+17715_1	poss	17715_3
+17715_1	has_surface_form	World
+17715_3	is_in_sentence	sentence_17715
+17715_3	nsubj	17715_8
+17715_3	has_surface_form	Fair
+17715_2	is_in_sentence	sentence_17715
+17715_2	case	17715_1
+17715_2	has_surface_form	's
+17715_8	is_in_sentence	sentence_17715
+17715_8	ROOT	17715_8
+17715_8	has_surface_form	won
+17715_4	is_in_sentence	sentence_17715
+17715_4	punct	17715_3
+17715_4	has_surface_form	,
+17715_5	is_in_sentence	sentence_17715
+17715_5	conj	17715_3
+17715_5	has_surface_form	Binney
+17715_6	is_in_sentence	sentence_17715
+17715_6	cc	17715_5
+17715_6	has_surface_form	&
+17715_7	is_in_sentence	sentence_17715
+17715_7	conj	17715_5
+17715_7	has_surface_form	Smith
+17715_9	is_in_sentence	sentence_17715
+17715_9	det	17715_11
+17715_9	has_surface_form	the
+17715_11	is_in_sentence	sentence_17715
+17715_11	dobj	17715_8
+17715_11	has_surface_form	Medal
+17715_11	part_of_entity	Gold Medal
+17715_10	is_in_sentence	sentence_17715
+17715_10	compound	17715_11
+17715_10	has_surface_form	Gold
+17715_10	part_of_entity	Gold Medal
+17715_12	is_in_sentence	sentence_17715
+17715_12	prep	17715_8
+17715_12	has_surface_form	for
+17715_13	is_in_sentence	sentence_17715
+17715_13	poss	17715_20
+17715_13	has_surface_form	their
+17715_20	is_in_sentence	sentence_17715
+17715_20	pobj	17715_12
+17715_20	has_surface_form	chalk
+17715_14	is_in_sentence	sentence_17715
+17715_14	compound	17715_20
+17715_14	has_surface_form	An
+17715_15	is_in_sentence	sentence_17715
+17715_15	punct	17715_20
+17715_15	has_surface_form	-
+17715_16	is_in_sentence	sentence_17715
+17715_16	compound	17715_18
+17715_16	has_surface_form	Du
+17715_18	is_in_sentence	sentence_17715
+17715_18	amod	17715_20
+17715_18	has_surface_form	Septic
+17715_17	is_in_sentence	sentence_17715
+17715_17	punct	17715_18
+17715_17	has_surface_form	-
+17715_19	is_in_sentence	sentence_17715
+17715_19	compound	17715_20
+17715_19	has_surface_form	dustless
+17715_21	is_in_sentence	sentence_17715
+17715_21	punct	17715_8
+17715_21	has_surface_form	.
+17715_22	is_in_sentence	sentence_17715
+17715_22	dep	17715_22
+17715_22	has_surface_form	
+An-Du-Septic dustless chalk	surface_form	An-Du-Septic dustless chalk
+An-Du-Septic dustless chalk	won-award	Gold Medal
+Gold Medal	surface_form	Gold Medal

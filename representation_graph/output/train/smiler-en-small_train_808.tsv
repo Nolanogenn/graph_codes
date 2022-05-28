@@ -1,0 +1,72 @@
+807_0	is_in_sentence	sentence_807
+807_0	det	807_5
+807_0	has_surface_form	The
+807_5	is_in_sentence	sentence_807
+807_5	nsubjpass	807_7
+807_5	has_surface_form	alarm
+807_5	part_of_entity	electric fire alarm
+807_1	is_in_sentence	sentence_807
+807_1	amod	807_5
+807_1	has_surface_form	first
+807_2	is_in_sentence	sentence_807
+807_2	amod	807_5
+807_2	has_surface_form	automatic
+807_3	is_in_sentence	sentence_807
+807_3	amod	807_4
+807_3	has_surface_form	electric
+807_3	part_of_entity	electric fire alarm
+807_4	is_in_sentence	sentence_807
+807_4	compound	807_5
+807_4	has_surface_form	fire
+807_4	part_of_entity	electric fire alarm
+807_7	is_in_sentence	sentence_807
+807_7	ROOT	807_7
+807_7	has_surface_form	patented
+807_6	is_in_sentence	sentence_807
+807_6	auxpass	807_7
+807_6	has_surface_form	was
+807_8	is_in_sentence	sentence_807
+807_8	prep	807_7
+807_8	has_surface_form	in
+807_9	is_in_sentence	sentence_807
+807_9	pobj	807_8
+807_9	is_entity	1890
+1890	surface_form	1890
+807_10	is_in_sentence	sentence_807
+807_10	agent	807_7
+807_10	has_surface_form	by
+807_11	is_in_sentence	sentence_807
+807_11	compound	807_12
+807_11	has_surface_form	Francis
+807_12	is_in_sentence	sentence_807
+807_12	compound	807_13
+807_12	has_surface_form	Robbins
+807_13	is_in_sentence	sentence_807
+807_13	pobj	807_10
+807_13	has_surface_form	Upton
+807_14	is_in_sentence	sentence_807
+807_14	punct	807_13
+807_14	has_surface_form	,
+807_15	is_in_sentence	sentence_807
+807_15	det	807_16
+807_15	has_surface_form	an
+807_16	is_in_sentence	sentence_807
+807_16	appos	807_13
+807_16	has_surface_form	associate
+807_17	is_in_sentence	sentence_807
+807_17	prep	807_16
+807_17	has_surface_form	of
+807_18	is_in_sentence	sentence_807
+807_18	compound	807_19
+807_18	has_surface_form	Thomas
+807_19	is_in_sentence	sentence_807
+807_19	pobj	807_17
+807_19	has_surface_form	Edison
+807_20	is_in_sentence	sentence_807
+807_20	punct	807_7
+807_20	has_surface_form	.
+807_21	is_in_sentence	sentence_807
+807_21	dep	807_21
+807_21	has_surface_form	
+electric fire alarm	surface_form	electric fire alarm
+electric fire alarm	invented-when	1890

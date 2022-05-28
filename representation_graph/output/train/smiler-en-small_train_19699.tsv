@@ -1,0 +1,59 @@
+19698_0	is_in_sentence	sentence_19698
+19698_0	compound	19698_1
+19698_0	has_surface_form	Arthur
+19698_0	part_of_entity	Arthur Roche
+19698_1	is_in_sentence	sentence_19698
+19698_1	nsubj	19698_8
+19698_1	has_surface_form	Roche
+19698_1	part_of_entity	Arthur Roche
+19698_8	is_in_sentence	sentence_19698
+19698_8	ROOT	19698_8
+19698_8	has_surface_form	is
+19698_2	is_in_sentence	sentence_19698
+19698_2	punct	19698_1
+19698_2	has_surface_form	(
+19698_3	is_in_sentence	sentence_19698
+19698_3	acl	19698_1
+19698_3	has_surface_form	born
+19698_4	is_in_sentence	sentence_19698
+19698_4	nummod	19698_5
+19698_4	has_surface_form	6
+19698_5	is_in_sentence	sentence_19698
+19698_5	npadvmod	19698_3
+19698_5	has_surface_form	March
+19698_6	is_in_sentence	sentence_19698
+19698_6	nummod	19698_5
+19698_6	has_surface_form	1950
+19698_7	is_in_sentence	sentence_19698
+19698_7	punct	19698_1
+19698_7	has_surface_form	)
+19698_9	is_in_sentence	sentence_19698
+19698_9	det	19698_11
+19698_9	has_surface_form	an
+19698_11	is_in_sentence	sentence_19698
+19698_11	attr	19698_8
+19698_11	is_entity	archbishop
+19698_10	is_in_sentence	sentence_19698
+19698_10	amod	19698_11
+19698_10	has_surface_form	English
+archbishop	surface_form	archbishop
+19698_12	is_in_sentence	sentence_19698
+19698_12	prep	19698_11
+19698_12	has_surface_form	of
+19698_13	is_in_sentence	sentence_19698
+19698_13	det	19698_15
+19698_13	has_surface_form	the
+19698_15	is_in_sentence	sentence_19698
+19698_15	pobj	19698_12
+19698_15	has_surface_form	Church
+19698_14	is_in_sentence	sentence_19698
+19698_14	compound	19698_15
+19698_14	has_surface_form	Catholic
+19698_16	is_in_sentence	sentence_19698
+19698_16	punct	19698_8
+19698_16	has_surface_form	.
+19698_17	is_in_sentence	sentence_19698
+19698_17	dep	19698_17
+19698_17	has_surface_form	
+Arthur Roche	surface_form	Arthur Roche
+Arthur Roche	has-type	archbishop

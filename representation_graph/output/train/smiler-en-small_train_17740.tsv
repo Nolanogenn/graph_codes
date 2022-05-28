@@ -1,0 +1,103 @@
+17739_0	is_in_sentence	sentence_17739
+17739_0	det	17739_1
+17739_0	has_surface_form	The
+17739_0	part_of_entity	The Victoria & Alfred Waterfront
+17739_1	is_in_sentence	sentence_17739
+17739_1	nsubj	17739_21
+17739_1	has_surface_form	Victoria
+17739_1	part_of_entity	The Victoria & Alfred Waterfront
+17739_21	is_in_sentence	sentence_17739
+17739_21	ROOT	17739_21
+17739_21	has_surface_form	is
+17739_2	is_in_sentence	sentence_17739
+17739_2	cc	17739_1
+17739_2	has_surface_form	&
+17739_2	part_of_entity	The Victoria & Alfred Waterfront
+17739_3	is_in_sentence	sentence_17739
+17739_3	compound	17739_4
+17739_3	has_surface_form	Alfred
+17739_3	part_of_entity	The Victoria & Alfred Waterfront
+17739_4	is_in_sentence	sentence_17739
+17739_4	conj	17739_1
+17739_4	has_surface_form	Waterfront
+17739_4	part_of_entity	The Victoria & Alfred Waterfront
+17739_5	is_in_sentence	sentence_17739
+17739_5	punct	17739_1
+17739_5	has_surface_form	,
+17739_6	is_in_sentence	sentence_17739
+17739_6	acl	17739_1
+17739_6	has_surface_form	built
+17739_7	is_in_sentence	sentence_17739
+17739_7	prep	17739_6
+17739_7	has_surface_form	on
+17739_8	is_in_sentence	sentence_17739
+17739_8	pobj	17739_7
+17739_8	has_surface_form	top
+17739_9	is_in_sentence	sentence_17739
+17739_9	prep	17739_8
+17739_9	has_surface_form	of
+17739_10	is_in_sentence	sentence_17739
+17739_10	pobj	17739_9
+17739_10	has_surface_form	part
+17739_11	is_in_sentence	sentence_17739
+17739_11	prep	17739_10
+17739_11	has_surface_form	of
+17739_12	is_in_sentence	sentence_17739
+17739_12	det	17739_13
+17739_12	has_surface_form	the
+17739_13	is_in_sentence	sentence_17739
+17739_13	pobj	17739_11
+17739_13	has_surface_form	docks
+17739_14	is_in_sentence	sentence_17739
+17739_14	prep	17739_13
+17739_14	has_surface_form	of
+17739_15	is_in_sentence	sentence_17739
+17739_15	det	17739_16
+17739_15	has_surface_form	the
+17739_16	is_in_sentence	sentence_17739
+17739_16	pobj	17739_14
+17739_16	has_surface_form	Port
+17739_17	is_in_sentence	sentence_17739
+17739_17	prep	17739_16
+17739_17	has_surface_form	of
+17739_18	is_in_sentence	sentence_17739
+17739_18	compound	17739_19
+17739_18	has_surface_form	Cape
+17739_18	part_of_entity	Cape Town
+17739_19	is_in_sentence	sentence_17739
+17739_19	pobj	17739_17
+17739_19	has_surface_form	Town
+17739_19	part_of_entity	Cape Town
+17739_20	is_in_sentence	sentence_17739
+17739_20	punct	17739_1
+17739_20	has_surface_form	,
+17739_22	is_in_sentence	sentence_17739
+17739_22	det	17739_23
+17739_22	has_surface_form	the
+17739_23	is_in_sentence	sentence_17739
+17739_23	poss	17739_28
+17739_23	has_surface_form	city
+17739_28	is_in_sentence	sentence_17739
+17739_28	attr	17739_21
+17739_28	has_surface_form	attraction
+17739_24	is_in_sentence	sentence_17739
+17739_24	case	17739_23
+17739_24	has_surface_form	's
+17739_25	is_in_sentence	sentence_17739
+17739_25	advmod	17739_26
+17739_25	has_surface_form	most
+17739_26	is_in_sentence	sentence_17739
+17739_26	amod	17739_28
+17739_26	has_surface_form	visited
+17739_27	is_in_sentence	sentence_17739
+17739_27	compound	17739_28
+17739_27	has_surface_form	tourist
+17739_29	is_in_sentence	sentence_17739
+17739_29	punct	17739_21
+17739_29	has_surface_form	.
+17739_30	is_in_sentence	sentence_17739
+17739_30	dep	17739_30
+17739_30	has_surface_form	
+Cape Town	surface_form	Cape Town
+Cape Town	has-tourist-attraction	The Victoria & Alfred Waterfront
+The Victoria & Alfred Waterfront	surface_form	The Victoria & Alfred Waterfront

@@ -1,0 +1,93 @@
+3516_0	is_in_sentence	sentence_3516
+3516_0	compound	3516_1
+3516_0	has_surface_form	Central
+3516_0	part_of_entity	Central Taiwan University of Science and Technology
+3516_1	is_in_sentence	sentence_3516
+3516_1	compound	3516_2
+3516_1	has_surface_form	Taiwan
+3516_1	part_of_entity	Central Taiwan University of Science and Technology
+3516_2	is_in_sentence	sentence_3516
+3516_2	nmod	3516_8
+3516_2	has_surface_form	University
+3516_2	part_of_entity	Central Taiwan University of Science and Technology
+3516_8	is_in_sentence	sentence_3516
+3516_8	nsubj	3516_14
+3516_8	has_surface_form	CTUST
+3516_3	is_in_sentence	sentence_3516
+3516_3	prep	3516_2
+3516_3	has_surface_form	of
+3516_3	part_of_entity	Central Taiwan University of Science and Technology
+3516_4	is_in_sentence	sentence_3516
+3516_4	pobj	3516_3
+3516_4	has_surface_form	Science
+3516_4	part_of_entity	Central Taiwan University of Science and Technology
+3516_5	is_in_sentence	sentence_3516
+3516_5	cc	3516_4
+3516_5	has_surface_form	and
+3516_5	part_of_entity	Central Taiwan University of Science and Technology
+3516_6	is_in_sentence	sentence_3516
+3516_6	conj	3516_4
+3516_6	has_surface_form	Technology
+3516_6	part_of_entity	Central Taiwan University of Science and Technology
+3516_7	is_in_sentence	sentence_3516
+3516_7	punct	3516_8
+3516_7	has_surface_form	(
+3516_14	is_in_sentence	sentence_3516
+3516_14	ROOT	3516_14
+3516_14	has_surface_form	is
+3516_9	is_in_sentence	sentence_3516
+3516_9	punct	3516_8
+3516_9	has_surface_form	;
+3516_10	is_in_sentence	sentence_3516
+3516_10	conj	3516_8
+3516_10	has_surface_form	Chinese
+3516_11	is_in_sentence	sentence_3516
+3516_11	punct	3516_10
+3516_11	has_surface_form	:
+3516_12	is_in_sentence	sentence_3516
+3516_12	appos	3516_10
+3516_12	has_surface_form	中臺科技大學
+3516_13	is_in_sentence	sentence_3516
+3516_13	punct	3516_10
+3516_13	has_surface_form	)
+3516_15	is_in_sentence	sentence_3516
+3516_15	det	3516_17
+3516_15	has_surface_form	a
+3516_17	is_in_sentence	sentence_3516
+3516_17	attr	3516_14
+3516_17	has_surface_form	university
+3516_16	is_in_sentence	sentence_3516
+3516_16	amod	3516_17
+3516_16	has_surface_form	private
+3516_18	is_in_sentence	sentence_3516
+3516_18	prep	3516_17
+3516_18	has_surface_form	in
+3516_19	is_in_sentence	sentence_3516
+3516_19	compound	3516_20
+3516_19	has_surface_form	Beitun
+3516_19	part_of_entity	Beitun District
+3516_20	is_in_sentence	sentence_3516
+3516_20	pobj	3516_18
+3516_20	has_surface_form	District
+3516_20	part_of_entity	Beitun District
+3516_21	is_in_sentence	sentence_3516
+3516_21	punct	3516_20
+3516_21	has_surface_form	,
+3516_22	is_in_sentence	sentence_3516
+3516_22	appos	3516_20
+3516_22	has_surface_form	Taichung
+3516_23	is_in_sentence	sentence_3516
+3516_23	punct	3516_22
+3516_23	has_surface_form	,
+3516_24	is_in_sentence	sentence_3516
+3516_24	appos	3516_22
+3516_24	has_surface_form	Taiwan
+3516_25	is_in_sentence	sentence_3516
+3516_25	punct	3516_14
+3516_25	has_surface_form	.
+3516_26	is_in_sentence	sentence_3516
+3516_26	dep	3516_26
+3516_26	has_surface_form	
+Central Taiwan University of Science and Technology	surface_form	Central Taiwan University of Science and Technology
+Central Taiwan University of Science and Technology	is-where	Beitun District
+Beitun District	surface_form	Beitun District

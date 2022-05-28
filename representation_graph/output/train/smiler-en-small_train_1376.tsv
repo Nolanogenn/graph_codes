@@ -1,0 +1,79 @@
+1375_0	is_in_sentence	sentence_1375
+1375_0	compound	1375_1
+1375_0	has_surface_form	Actress
+1375_1	is_in_sentence	sentence_1375
+1375_1	compound	1375_2
+1375_1	has_surface_form	Susan
+1375_1	part_of_entity	Susan Anspach
+1375_2	is_in_sentence	sentence_1375
+1375_2	nsubj	1375_3
+1375_2	has_surface_form	Anspach
+1375_2	part_of_entity	Susan Anspach
+1375_3	is_in_sentence	sentence_1375
+1375_3	ROOT	1375_3
+1375_3	has_surface_form	contended
+1375_4	is_in_sentence	sentence_1375
+1375_4	mark	1375_19
+1375_4	has_surface_form	that
+1375_19	is_in_sentence	sentence_1375
+1375_19	ccomp	1375_3
+1375_19	has_surface_form	fathered
+1375_5	is_in_sentence	sentence_1375
+1375_5	poss	1375_6
+1375_5	has_surface_form	her
+1375_6	is_in_sentence	sentence_1375
+1375_6	nsubjpass	1375_19
+1375_6	has_surface_form	son
+1375_7	is_in_sentence	sentence_1375
+1375_7	punct	1375_6
+1375_7	has_surface_form	,
+1375_8	is_in_sentence	sentence_1375
+1375_8	compound	1375_9
+1375_8	has_surface_form	Caleb
+1375_8	part_of_entity	Caleb Goddard
+1375_9	is_in_sentence	sentence_1375
+1375_9	appos	1375_6
+1375_9	has_surface_form	Goddard
+1375_9	part_of_entity	Caleb Goddard
+1375_10	is_in_sentence	sentence_1375
+1375_10	punct	1375_6
+1375_10	has_surface_form	(
+1375_11	is_in_sentence	sentence_1375
+1375_11	acl	1375_6
+1375_11	has_surface_form	born
+1375_12	is_in_sentence	sentence_1375
+1375_12	npadvmod	1375_11
+1375_12	has_surface_form	September
+1375_13	is_in_sentence	sentence_1375
+1375_13	nummod	1375_12
+1375_13	has_surface_form	26
+1375_14	is_in_sentence	sentence_1375
+1375_14	punct	1375_12
+1375_14	has_surface_form	,
+1375_15	is_in_sentence	sentence_1375
+1375_15	nummod	1375_12
+1375_15	has_surface_form	1970
+1375_16	is_in_sentence	sentence_1375
+1375_16	punct	1375_6
+1375_16	has_surface_form	)
+1375_17	is_in_sentence	sentence_1375
+1375_17	punct	1375_6
+1375_17	has_surface_form	,
+1375_18	is_in_sentence	sentence_1375
+1375_18	auxpass	1375_19
+1375_18	has_surface_form	was
+1375_20	is_in_sentence	sentence_1375
+1375_20	agent	1375_19
+1375_20	has_surface_form	by
+1375_21	is_in_sentence	sentence_1375
+1375_21	pobj	1375_20
+1375_21	has_surface_form	Nicholson
+1375_22	is_in_sentence	sentence_1375
+1375_22	punct	1375_3
+1375_22	has_surface_form	.
+1375_23	is_in_sentence	sentence_1375
+1375_23	dep	1375_3
+1375_23	has_surface_form	
+Susan Anspach	surface_form	Susan Anspach
+Susan Anspach	has-child	Caleb Goddard
+Caleb Goddard	surface_form	Caleb Goddard

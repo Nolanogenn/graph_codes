@@ -1,0 +1,100 @@
+8042_0	is_in_sentence	sentence_8042
+8042_0	det	8042_2
+8042_0	has_surface_form	The
+8042_2	is_in_sentence	sentence_8042
+8042_2	ROOT	8042_2
+8042_2	has_surface_form	Tyne
+8042_2	part_of_entity	River Tyne
+8042_1	is_in_sentence	sentence_8042
+8042_1	compound	8042_2
+8042_1	has_surface_form	River
+8042_1	part_of_entity	River Tyne
+8042_3	is_in_sentence	sentence_8042
+8042_3	punct	8042_2
+8042_3	has_surface_form	/ˈtaɪn/
+8042_4	is_in_sentence	sentence_8042
+8042_4	punct	8042_5
+8042_4	has_surface_form	(
+8042_5	is_in_sentence	sentence_8042
+8042_5	nsubj	8042_7
+8042_5	has_surface_form	listen
+8042_7	is_in_sentence	sentence_8042
+8042_7	ROOT	8042_7
+8042_7	has_surface_form	is
+8042_6	is_in_sentence	sentence_8042
+8042_6	punct	8042_5
+8042_6	has_surface_form	)
+8042_8	is_in_sentence	sentence_8042
+8042_8	det	8042_9
+8042_8	has_surface_form	a
+8042_9	is_in_sentence	sentence_8042
+8042_9	attr	8042_7
+8042_9	has_surface_form	river
+8042_10	is_in_sentence	sentence_8042
+8042_10	prep	8042_9
+8042_10	has_surface_form	in
+8042_11	is_in_sentence	sentence_8042
+8042_11	compound	8042_12
+8042_11	has_surface_form	North
+8042_12	is_in_sentence	sentence_8042
+8042_12	compound	8042_13
+8042_12	has_surface_form	East
+8042_13	is_in_sentence	sentence_8042
+8042_13	pobj	8042_10
+8042_13	has_surface_form	England
+8042_14	is_in_sentence	sentence_8042
+8042_14	cc	8042_13
+8042_14	has_surface_form	and
+8042_15	is_in_sentence	sentence_8042
+8042_15	poss	8042_16
+8042_15	has_surface_form	its
+8042_16	is_in_sentence	sentence_8042
+8042_16	conj	8042_13
+8042_16	has_surface_form	length
+8042_17	is_in_sentence	sentence_8042
+8042_17	punct	8042_16
+8042_17	has_surface_form	(
+8042_18	is_in_sentence	sentence_8042
+8042_18	prep	8042_16
+8042_18	has_surface_form	excluding
+8042_19	is_in_sentence	sentence_8042
+8042_19	pobj	8042_18
+8042_19	has_surface_form	tributaries
+8042_20	is_in_sentence	sentence_8042
+8042_20	punct	8042_7
+8042_20	has_surface_form	)
+8042_21	is_in_sentence	sentence_8042
+8042_21	ROOT	8042_21
+8042_21	has_surface_form	is
+8042_22	is_in_sentence	sentence_8042
+8042_22	nummod	8042_23
+8042_22	has_surface_form	73
+8042_22	part_of_entity	73 miles
+8042_23	is_in_sentence	sentence_8042
+8042_23	attr	8042_21
+8042_23	has_surface_form	miles
+8042_23	part_of_entity	73 miles
+8042_24	is_in_sentence	sentence_8042
+8042_24	punct	8042_23
+8042_24	has_surface_form	(
+8042_25	is_in_sentence	sentence_8042
+8042_25	nummod	8042_26
+8042_25	has_surface_form	118
+8042_26	is_in_sentence	sentence_8042
+8042_26	dep	8042_23
+8042_26	has_surface_form	 
+8042_27	is_in_sentence	sentence_8042
+8042_27	npadvmod	8042_23
+8042_27	has_surface_form	km
+8042_28	is_in_sentence	sentence_8042
+8042_28	punct	8042_23
+8042_28	has_surface_form	)
+8042_29	is_in_sentence	sentence_8042
+8042_29	punct	8042_21
+8042_29	has_surface_form	.
+8042_30	is_in_sentence	sentence_8042
+8042_30	dep	8042_30
+8042_30	has_surface_form	
+River Tyne	surface_form	River Tyne
+River Tyne	has-length	73 miles
+73 miles	surface_form	73 miles

@@ -1,0 +1,56 @@
+30461_0	is_in_sentence	sentence_30461
+30461_0	compound	30461_1
+30461_0	has_surface_form	Olof
+30461_0	part_of_entity	Olof Bergqvist
+30461_1	is_in_sentence	sentence_30461
+30461_1	nsubj	30461_11
+30461_1	has_surface_form	Bergqvist
+30461_1	part_of_entity	Olof Bergqvist
+30461_11	is_in_sentence	sentence_30461
+30461_11	ROOT	30461_11
+30461_11	has_surface_form	was
+30461_2	is_in_sentence	sentence_30461
+30461_2	punct	30461_1
+30461_2	has_surface_form	(
+30461_3	is_in_sentence	sentence_30461
+30461_3	nummod	30461_4
+30461_3	has_surface_form	24
+30461_4	is_in_sentence	sentence_30461
+30461_4	appos	30461_1
+30461_4	has_surface_form	September
+30461_5	is_in_sentence	sentence_30461
+30461_5	nummod	30461_4
+30461_5	has_surface_form	1862
+30461_6	is_in_sentence	sentence_30461
+30461_6	punct	30461_4
+30461_6	has_surface_form	–
+30461_7	is_in_sentence	sentence_30461
+30461_7	nummod	30461_8
+30461_7	has_surface_form	20
+30461_8	is_in_sentence	sentence_30461
+30461_8	appos	30461_4
+30461_8	has_surface_form	October
+30461_9	is_in_sentence	sentence_30461
+30461_9	nummod	30461_8
+30461_9	has_surface_form	1940
+30461_10	is_in_sentence	sentence_30461
+30461_10	punct	30461_8
+30461_10	has_surface_form	)
+30461_12	is_in_sentence	sentence_30461
+30461_12	det	30461_14
+30461_12	has_surface_form	a
+30461_14	is_in_sentence	sentence_30461
+30461_14	attr	30461_11
+30461_14	is_entity	bishop
+30461_13	is_in_sentence	sentence_30461
+30461_13	amod	30461_14
+30461_13	has_surface_form	Swedish
+bishop	surface_form	bishop
+30461_15	is_in_sentence	sentence_30461
+30461_15	punct	30461_11
+30461_15	has_surface_form	.
+30461_16	is_in_sentence	sentence_30461
+30461_16	dep	30461_11
+30461_16	has_surface_form	
+Olof Bergqvist	surface_form	Olof Bergqvist
+Olof Bergqvist	has-type	bishop

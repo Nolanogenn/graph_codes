@@ -1,0 +1,75 @@
+31548_0	is_in_sentence	sentence_31548
+31548_0	compound	31548_1
+31548_0	has_surface_form	Flor
+31548_0	part_of_entity	Flor Ayala Robles Linares
+31548_1	is_in_sentence	sentence_31548
+31548_1	compound	31548_3
+31548_1	has_surface_form	Ayala
+31548_1	part_of_entity	Flor Ayala Robles Linares
+31548_3	is_in_sentence	sentence_31548
+31548_3	nsubj	31548_16
+31548_3	has_surface_form	Linares
+31548_3	part_of_entity	Flor Ayala Robles Linares
+31548_2	is_in_sentence	sentence_31548
+31548_2	compound	31548_3
+31548_2	has_surface_form	Robles
+31548_2	part_of_entity	Flor Ayala Robles Linares
+31548_16	is_in_sentence	sentence_31548
+31548_16	ROOT	31548_16
+31548_16	has_surface_form	is
+31548_4	is_in_sentence	sentence_31548
+31548_4	punct	31548_3
+31548_4	has_surface_form	(
+31548_5	is_in_sentence	sentence_31548
+31548_5	acl	31548_3
+31548_5	has_surface_form	born
+31548_6	is_in_sentence	sentence_31548
+31548_6	npadvmod	31548_5
+31548_6	has_surface_form	April
+31548_7	is_in_sentence	sentence_31548
+31548_7	nummod	31548_6
+31548_7	has_surface_form	22
+31548_8	is_in_sentence	sentence_31548
+31548_8	punct	31548_6
+31548_8	has_surface_form	,
+31548_9	is_in_sentence	sentence_31548
+31548_9	nummod	31548_6
+31548_9	has_surface_form	1972
+31548_10	is_in_sentence	sentence_31548
+31548_10	prep	31548_5
+31548_10	has_surface_form	in
+31548_11	is_in_sentence	sentence_31548
+31548_11	compound	31548_12
+31548_11	has_surface_form	Mexico
+31548_11	part_of_entity	Mexico City
+31548_12	is_in_sentence	sentence_31548
+31548_12	pobj	31548_10
+31548_12	has_surface_form	City
+31548_12	part_of_entity	Mexico City
+31548_13	is_in_sentence	sentence_31548
+31548_13	punct	31548_12
+31548_13	has_surface_form	,
+31548_14	is_in_sentence	sentence_31548
+31548_14	appos	31548_12
+31548_14	has_surface_form	Mexico
+31548_15	is_in_sentence	sentence_31548
+31548_15	punct	31548_12
+31548_15	has_surface_form	)
+31548_17	is_in_sentence	sentence_31548
+31548_17	det	31548_19
+31548_17	has_surface_form	a
+31548_19	is_in_sentence	sentence_31548
+31548_19	attr	31548_16
+31548_19	has_surface_form	politician
+31548_18	is_in_sentence	sentence_31548
+31548_18	amod	31548_19
+31548_18	has_surface_form	Mexican
+31548_20	is_in_sentence	sentence_31548
+31548_20	punct	31548_16
+31548_20	has_surface_form	.
+31548_21	is_in_sentence	sentence_31548
+31548_21	dep	31548_16
+31548_21	has_surface_form	
+Flor Ayala Robles Linares	surface_form	Flor Ayala Robles Linares
+Flor Ayala Robles Linares	birth-place	Mexico City
+Mexico City	surface_form	Mexico City

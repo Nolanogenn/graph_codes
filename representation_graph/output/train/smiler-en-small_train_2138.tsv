@@ -1,0 +1,83 @@
+2137_0	is_in_sentence	sentence_2137
+2137_0	compound	2137_1
+2137_0	has_surface_form	Tokyo
+2137_0	part_of_entity	Tokyo File 212
+2137_1	is_in_sentence	sentence_2137
+2137_1	nsubj	2137_8
+2137_1	has_surface_form	File
+2137_1	part_of_entity	Tokyo File 212
+2137_8	is_in_sentence	sentence_2137
+2137_8	ROOT	2137_8
+2137_8	has_surface_form	is
+2137_2	is_in_sentence	sentence_2137
+2137_2	nummod	2137_1
+2137_2	has_surface_form	212
+2137_2	part_of_entity	Tokyo File 212
+2137_3	is_in_sentence	sentence_2137
+2137_3	punct	2137_4
+2137_3	has_surface_form	(
+2137_4	is_in_sentence	sentence_2137
+2137_4	appos	2137_1
+2137_4	has_surface_form	Japanese
+2137_5	is_in_sentence	sentence_2137
+2137_5	punct	2137_4
+2137_5	has_surface_form	:
+2137_6	is_in_sentence	sentence_2137
+2137_6	appos	2137_4
+2137_6	has_surface_form	東京ファイル212
+2137_7	is_in_sentence	sentence_2137
+2137_7	punct	2137_4
+2137_7	has_surface_form	)
+2137_9	is_in_sentence	sentence_2137
+2137_9	det	2137_12
+2137_9	has_surface_form	a
+2137_12	is_in_sentence	sentence_2137
+2137_12	attr	2137_8
+2137_12	has_surface_form	film
+2137_12	part_of_entity	spy film
+2137_10	is_in_sentence	sentence_2137
+2137_10	nummod	2137_12
+2137_10	has_surface_form	1951
+2137_11	is_in_sentence	sentence_2137
+2137_11	compound	2137_12
+2137_11	has_surface_form	spy
+2137_11	part_of_entity	spy film
+2137_13	is_in_sentence	sentence_2137
+2137_13	acl	2137_12
+2137_13	has_surface_form	directed
+2137_14	is_in_sentence	sentence_2137
+2137_14	agent	2137_13
+2137_14	has_surface_form	by
+2137_15	is_in_sentence	sentence_2137
+2137_15	compound	2137_16
+2137_15	has_surface_form	Dorrell
+2137_16	is_in_sentence	sentence_2137
+2137_16	pobj	2137_14
+2137_16	has_surface_form	McGowan
+2137_17	is_in_sentence	sentence_2137
+2137_17	dep	2137_16
+2137_17	has_surface_form	 
+2137_18	is_in_sentence	sentence_2137
+2137_18	punct	2137_8
+2137_18	has_surface_form	[
+2137_19	is_in_sentence	sentence_2137
+2137_19	attr	2137_8
+2137_19	has_surface_form	fr
+2137_20	is_in_sentence	sentence_2137
+2137_20	punct	2137_8
+2137_20	has_surface_form	]
+2137_21	is_in_sentence	sentence_2137
+2137_21	cc	2137_8
+2137_21	has_surface_form	and
+2137_22	is_in_sentence	sentence_2137
+2137_22	compound	2137_23
+2137_22	has_surface_form	Stuart
+2137_23	is_in_sentence	sentence_2137
+2137_23	conj	2137_8
+2137_23	has_surface_form	E.
+2137_24	is_in_sentence	sentence_2137
+2137_24	dep	2137_8
+2137_24	has_surface_form	
+Tokyo File 212	surface_form	Tokyo File 212
+Tokyo File 212	has-type	spy film
+spy film	surface_form	spy film

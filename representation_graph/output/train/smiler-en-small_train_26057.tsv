@@ -1,0 +1,56 @@
+26056_0	is_in_sentence	sentence_26056
+26056_0	compound	26056_1
+26056_0	has_surface_form	Frankenstein
+26056_0	part_of_entity	Frankenstein Created Woman
+26056_1	is_in_sentence	sentence_26056
+26056_1	compound	26056_2
+26056_1	has_surface_form	Created
+26056_1	part_of_entity	Frankenstein Created Woman
+26056_2	is_in_sentence	sentence_26056
+26056_2	nsubj	26056_3
+26056_2	has_surface_form	Woman
+26056_2	part_of_entity	Frankenstein Created Woman
+26056_3	is_in_sentence	sentence_26056
+26056_3	ROOT	26056_3
+26056_3	has_surface_form	is
+26056_4	is_in_sentence	sentence_26056
+26056_4	det	26056_9
+26056_4	has_surface_form	a
+26056_9	is_in_sentence	sentence_26056
+26056_9	attr	26056_3
+26056_9	has_surface_form	film
+26056_5	is_in_sentence	sentence_26056
+26056_5	nummod	26056_9
+26056_5	has_surface_form	1967
+26056_6	is_in_sentence	sentence_26056
+26056_6	compound	26056_7
+26056_6	has_surface_form	British
+26056_7	is_in_sentence	sentence_26056
+26056_7	compound	26056_9
+26056_7	has_surface_form	Hammer
+26056_8	is_in_sentence	sentence_26056
+26056_8	compound	26056_9
+26056_8	has_surface_form	horror
+26056_10	is_in_sentence	sentence_26056
+26056_10	acl	26056_9
+26056_10	has_surface_form	directed
+26056_11	is_in_sentence	sentence_26056
+26056_11	agent	26056_10
+26056_11	has_surface_form	by
+26056_12	is_in_sentence	sentence_26056
+26056_12	compound	26056_13
+26056_12	has_surface_form	Terence
+26056_12	part_of_entity	Terence Fisher
+26056_13	is_in_sentence	sentence_26056
+26056_13	pobj	26056_11
+26056_13	has_surface_form	Fisher
+26056_13	part_of_entity	Terence Fisher
+26056_14	is_in_sentence	sentence_26056
+26056_14	punct	26056_3
+26056_14	has_surface_form	.
+26056_15	is_in_sentence	sentence_26056
+26056_15	dep	26056_15
+26056_15	has_surface_form	
+Frankenstein Created Woman	surface_form	Frankenstein Created Woman
+Frankenstein Created Woman	movie-has-director	Terence Fisher
+Terence Fisher	surface_form	Terence Fisher

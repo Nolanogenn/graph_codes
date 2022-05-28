@@ -1,0 +1,62 @@
+32027_0	is_in_sentence	sentence_32027
+32027_0	compound	32027_1
+32027_0	has_surface_form	Michael
+32027_0	part_of_entity	Michael Schiefel
+32027_1	is_in_sentence	sentence_32027
+32027_1	nsubj	32027_11
+32027_1	has_surface_form	Schiefel
+32027_1	part_of_entity	Michael Schiefel
+32027_11	is_in_sentence	sentence_32027
+32027_11	ROOT	32027_11
+32027_11	has_surface_form	is
+32027_2	is_in_sentence	sentence_32027
+32027_2	punct	32027_1
+32027_2	has_surface_form	(
+32027_3	is_in_sentence	sentence_32027
+32027_3	acl	32027_1
+32027_3	has_surface_form	born
+32027_4	is_in_sentence	sentence_32027
+32027_4	npadvmod	32027_3
+32027_4	has_surface_form	1970
+32027_5	is_in_sentence	sentence_32027
+32027_5	prep	32027_3
+32027_5	has_surface_form	in
+32027_6	is_in_sentence	sentence_32027
+32027_6	pobj	32027_5
+32027_6	has_surface_form	Münster
+32027_7	is_in_sentence	sentence_32027
+32027_7	punct	32027_6
+32027_7	has_surface_form	,
+32027_8	is_in_sentence	sentence_32027
+32027_8	compound	32027_9
+32027_8	has_surface_form	West
+32027_9	is_in_sentence	sentence_32027
+32027_9	appos	32027_6
+32027_9	has_surface_form	Germany
+32027_10	is_in_sentence	sentence_32027
+32027_10	punct	32027_6
+32027_10	has_surface_form	)
+32027_12	is_in_sentence	sentence_32027
+32027_12	det	32027_13
+32027_12	has_surface_form	a
+32027_13	is_in_sentence	sentence_32027
+32027_13	attr	32027_11
+32027_13	has_surface_form	jazz
+32027_14	is_in_sentence	sentence_32027
+32027_14	cc	32027_13
+32027_14	has_surface_form	and
+32027_15	is_in_sentence	sentence_32027
+32027_15	amod	32027_16
+32027_15	has_surface_form	experimental
+32027_16	is_in_sentence	sentence_32027
+32027_16	conj	32027_13
+32027_16	is_entity	singer
+singer	surface_form	singer
+32027_17	is_in_sentence	sentence_32027
+32027_17	punct	32027_11
+32027_17	has_surface_form	.
+32027_18	is_in_sentence	sentence_32027
+32027_18	dep	32027_18
+32027_18	has_surface_form	
+Michael Schiefel	surface_form	Michael Schiefel
+Michael Schiefel	has-occupation	singer

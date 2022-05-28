@@ -1,0 +1,94 @@
+3585_0	is_in_sentence	sentence_3585
+3585_0	compound	3585_1
+3585_0	has_surface_form	Caleb
+3585_0	part_of_entity	Caleb Porter
+3585_1	is_in_sentence	sentence_3585
+3585_1	nsubj	3585_9
+3585_1	has_surface_form	Porter
+3585_1	part_of_entity	Caleb Porter
+3585_9	is_in_sentence	sentence_3585
+3585_9	ROOT	3585_9
+3585_9	has_surface_form	is
+3585_2	is_in_sentence	sentence_3585
+3585_2	punct	3585_1
+3585_2	has_surface_form	(
+3585_3	is_in_sentence	sentence_3585
+3585_3	acl	3585_1
+3585_3	has_surface_form	born
+3585_4	is_in_sentence	sentence_3585
+3585_4	npadvmod	3585_3
+3585_4	has_surface_form	February
+3585_5	is_in_sentence	sentence_3585
+3585_5	nummod	3585_4
+3585_5	has_surface_form	18
+3585_6	is_in_sentence	sentence_3585
+3585_6	punct	3585_4
+3585_6	has_surface_form	,
+3585_7	is_in_sentence	sentence_3585
+3585_7	nummod	3585_4
+3585_7	has_surface_form	1975
+3585_8	is_in_sentence	sentence_3585
+3585_8	punct	3585_1
+3585_8	has_surface_form	)
+3585_10	is_in_sentence	sentence_3585
+3585_10	det	3585_13
+3585_10	has_surface_form	an
+3585_13	is_in_sentence	sentence_3585
+3585_13	attr	3585_9
+3585_13	has_surface_form	coach
+3585_13	part_of_entity	soccer coach
+3585_11	is_in_sentence	sentence_3585
+3585_11	amod	3585_13
+3585_11	has_surface_form	American
+3585_12	is_in_sentence	sentence_3585
+3585_12	compound	3585_13
+3585_12	has_surface_form	soccer
+3585_12	part_of_entity	soccer coach
+3585_14	is_in_sentence	sentence_3585
+3585_14	nsubj	3585_15
+3585_14	has_surface_form	who
+3585_15	is_in_sentence	sentence_3585
+3585_15	relcl	3585_13
+3585_15	has_surface_form	is
+3585_16	is_in_sentence	sentence_3585
+3585_16	det	3585_18
+3585_16	has_surface_form	the
+3585_18	is_in_sentence	sentence_3585
+3585_18	attr	3585_15
+3585_18	has_surface_form	coach
+3585_17	is_in_sentence	sentence_3585
+3585_17	compound	3585_18
+3585_17	has_surface_form	head
+3585_19	is_in_sentence	sentence_3585
+3585_19	prep	3585_18
+3585_19	has_surface_form	of
+3585_20	is_in_sentence	sentence_3585
+3585_20	compound	3585_21
+3585_20	has_surface_form	Major
+3585_21	is_in_sentence	sentence_3585
+3585_21	compound	3585_23
+3585_21	has_surface_form	League
+3585_23	is_in_sentence	sentence_3585
+3585_23	compound	3585_26
+3585_23	has_surface_form	club
+3585_22	is_in_sentence	sentence_3585
+3585_22	compound	3585_23
+3585_22	has_surface_form	Soccer
+3585_26	is_in_sentence	sentence_3585
+3585_26	pobj	3585_19
+3585_26	has_surface_form	SC
+3585_24	is_in_sentence	sentence_3585
+3585_24	compound	3585_26
+3585_24	has_surface_form	Columbus
+3585_25	is_in_sentence	sentence_3585
+3585_25	compound	3585_26
+3585_25	has_surface_form	Crew
+3585_27	is_in_sentence	sentence_3585
+3585_27	punct	3585_9
+3585_27	has_surface_form	.
+3585_28	is_in_sentence	sentence_3585
+3585_28	dep	3585_9
+3585_28	has_surface_form	
+Caleb Porter	surface_form	Caleb Porter
+Caleb Porter	has-type	soccer coach
+soccer coach	surface_form	soccer coach

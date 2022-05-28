@@ -1,0 +1,70 @@
+35758_0	is_in_sentence	sentence_35758
+35758_0	det	35758_2
+35758_0	has_surface_form	The
+35758_2	is_in_sentence	sentence_35758
+35758_2	nsubjpass	35758_7
+35758_2	has_surface_form	machine
+35758_2	part_of_entity	machine for making espresso
+35758_1	is_in_sentence	sentence_35758
+35758_1	amod	35758_2
+35758_1	has_surface_form	first
+35758_7	is_in_sentence	sentence_35758
+35758_7	ROOT	35758_7
+35758_7	has_surface_form	built
+35758_3	is_in_sentence	sentence_35758
+35758_3	prep	35758_2
+35758_3	has_surface_form	for
+35758_3	part_of_entity	machine for making espresso
+35758_4	is_in_sentence	sentence_35758
+35758_4	pcomp	35758_3
+35758_4	has_surface_form	making
+35758_4	part_of_entity	machine for making espresso
+35758_5	is_in_sentence	sentence_35758
+35758_5	dobj	35758_4
+35758_5	has_surface_form	espresso
+35758_5	part_of_entity	machine for making espresso
+35758_6	is_in_sentence	sentence_35758
+35758_6	auxpass	35758_7
+35758_6	has_surface_form	was
+35758_8	is_in_sentence	sentence_35758
+35758_8	cc	35758_7
+35758_8	has_surface_form	and
+35758_9	is_in_sentence	sentence_35758
+35758_9	conj	35758_7
+35758_9	has_surface_form	patented
+35758_10	is_in_sentence	sentence_35758
+35758_10	prep	35758_9
+35758_10	has_surface_form	in
+35758_11	is_in_sentence	sentence_35758
+35758_11	pobj	35758_10
+35758_11	is_entity	1884
+1884	surface_form	1884
+35758_12	is_in_sentence	sentence_35758
+35758_12	agent	35758_9
+35758_12	has_surface_form	by
+35758_13	is_in_sentence	sentence_35758
+35758_13	compound	35758_14
+35758_13	has_surface_form	Angelo
+35758_14	is_in_sentence	sentence_35758
+35758_14	pobj	35758_12
+35758_14	has_surface_form	Moriondo
+35758_15	is_in_sentence	sentence_35758
+35758_15	prep	35758_14
+35758_15	has_surface_form	of
+35758_16	is_in_sentence	sentence_35758
+35758_16	pobj	35758_15
+35758_16	has_surface_form	Turin
+35758_17	is_in_sentence	sentence_35758
+35758_17	punct	35758_16
+35758_17	has_surface_form	,
+35758_18	is_in_sentence	sentence_35758
+35758_18	appos	35758_16
+35758_18	has_surface_form	Italy
+35758_19	is_in_sentence	sentence_35758
+35758_19	punct	35758_7
+35758_19	has_surface_form	.
+35758_20	is_in_sentence	sentence_35758
+35758_20	dep	35758_20
+35758_20	has_surface_form	
+machine for making espresso	surface_form	machine for making espresso
+machine for making espresso	invented-when	1884

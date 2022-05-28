@@ -1,0 +1,77 @@
+14581_0	is_in_sentence	sentence_14581
+14581_0	det	14581_5
+14581_0	has_surface_form	The
+14581_5	is_in_sentence	sentence_14581
+14581_5	poss	14581_10
+14581_5	has_surface_form	Defender
+14581_5	part_of_entity	Los Angeles County Public Defender
+14581_1	is_in_sentence	sentence_14581
+14581_1	compound	14581_2
+14581_1	has_surface_form	Los
+14581_1	part_of_entity	Los Angeles County Public Defender
+14581_2	is_in_sentence	sentence_14581
+14581_2	compound	14581_3
+14581_2	has_surface_form	Angeles
+14581_2	part_of_entity	Los Angeles County Public Defender
+14581_3	is_in_sentence	sentence_14581
+14581_3	compound	14581_5
+14581_3	has_surface_form	County
+14581_3	part_of_entity	Los Angeles County Public Defender
+14581_4	is_in_sentence	sentence_14581
+14581_4	compound	14581_5
+14581_4	has_surface_form	Public
+14581_4	part_of_entity	Los Angeles County Public Defender
+14581_10	is_in_sentence	sentence_14581
+14581_10	nsubj	14581_11
+14581_10	has_surface_form	office
+14581_6	is_in_sentence	sentence_14581
+14581_6	case	14581_5
+14581_6	has_surface_form	's
+14581_7	is_in_sentence	sentence_14581
+14581_7	punct	14581_10
+14581_7	has_surface_form	(
+14581_8	is_in_sentence	sentence_14581
+14581_8	nmod	14581_10
+14581_8	has_surface_form	LACPD
+14581_9	is_in_sentence	sentence_14581
+14581_9	punct	14581_10
+14581_9	has_surface_form	)
+14581_11	is_in_sentence	sentence_14581
+14581_11	ROOT	14581_11
+14581_11	has_surface_form	is
+14581_12	is_in_sentence	sentence_14581
+14581_12	det	14581_13
+14581_12	has_surface_form	an
+14581_13	is_in_sentence	sentence_14581
+14581_13	attr	14581_11
+14581_13	is_entity	agency
+agency	surface_form	agency
+14581_14	is_in_sentence	sentence_14581
+14581_14	prep	14581_13
+14581_14	has_surface_form	of
+14581_15	is_in_sentence	sentence_14581
+14581_15	det	14581_16
+14581_15	has_surface_form	the
+14581_16	is_in_sentence	sentence_14581
+14581_16	pobj	14581_14
+14581_16	has_surface_form	government
+14581_17	is_in_sentence	sentence_14581
+14581_17	prep	14581_16
+14581_17	has_surface_form	of
+14581_18	is_in_sentence	sentence_14581
+14581_18	compound	14581_19
+14581_18	has_surface_form	Los
+14581_19	is_in_sentence	sentence_14581
+14581_19	compound	14581_20
+14581_19	has_surface_form	Angeles
+14581_20	is_in_sentence	sentence_14581
+14581_20	pobj	14581_17
+14581_20	has_surface_form	County
+14581_21	is_in_sentence	sentence_14581
+14581_21	punct	14581_11
+14581_21	has_surface_form	.
+14581_22	is_in_sentence	sentence_14581
+14581_22	dep	14581_11
+14581_22	has_surface_form	
+Los Angeles County Public Defender	surface_form	Los Angeles County Public Defender
+Los Angeles County Public Defender	has-type	agency

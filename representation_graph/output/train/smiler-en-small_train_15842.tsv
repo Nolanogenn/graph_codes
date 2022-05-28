@@ -1,0 +1,80 @@
+15841_0	is_in_sentence	sentence_15841
+15841_0	det	15841_2
+15841_0	has_surface_form	The
+15841_0	part_of_entity	The Skeleton Twins
+15841_2	is_in_sentence	sentence_15841
+15841_2	nsubj	15841_3
+15841_2	has_surface_form	Twins
+15841_2	part_of_entity	The Skeleton Twins
+15841_1	is_in_sentence	sentence_15841
+15841_1	compound	15841_2
+15841_1	has_surface_form	Skeleton
+15841_1	part_of_entity	The Skeleton Twins
+15841_3	is_in_sentence	sentence_15841
+15841_3	ROOT	15841_3
+15841_3	has_surface_form	is
+15841_4	is_in_sentence	sentence_15841
+15841_4	det	15841_10
+15841_4	has_surface_form	a
+15841_10	is_in_sentence	sentence_15841
+15841_10	attr	15841_3
+15841_10	has_surface_form	film
+15841_5	is_in_sentence	sentence_15841
+15841_5	nummod	15841_10
+15841_5	has_surface_form	2014
+15841_6	is_in_sentence	sentence_15841
+15841_6	amod	15841_10
+15841_6	has_surface_form	American
+15841_7	is_in_sentence	sentence_15841
+15841_7	compound	15841_9
+15841_7	has_surface_form	comedy
+15841_9	is_in_sentence	sentence_15841
+15841_9	compound	15841_10
+15841_9	has_surface_form	drama
+15841_8	is_in_sentence	sentence_15841
+15841_8	punct	15841_9
+15841_8	has_surface_form	-
+15841_11	is_in_sentence	sentence_15841
+15841_11	acl	15841_10
+15841_11	has_surface_form	directed
+15841_12	is_in_sentence	sentence_15841
+15841_12	agent	15841_11
+15841_12	has_surface_form	by
+15841_13	is_in_sentence	sentence_15841
+15841_13	compound	15841_14
+15841_13	has_surface_form	Craig
+15841_13	part_of_entity	Craig Johnson
+15841_14	is_in_sentence	sentence_15841
+15841_14	pobj	15841_12
+15841_14	has_surface_form	Johnson
+15841_14	part_of_entity	Craig Johnson
+15841_15	is_in_sentence	sentence_15841
+15841_15	cc	15841_11
+15841_15	has_surface_form	and
+15841_16	is_in_sentence	sentence_15841
+15841_16	conj	15841_11
+15841_16	has_surface_form	starring
+15841_17	is_in_sentence	sentence_15841
+15841_17	compound	15841_18
+15841_17	has_surface_form	Bill
+15841_18	is_in_sentence	sentence_15841
+15841_18	dobj	15841_16
+15841_18	has_surface_form	Hader
+15841_19	is_in_sentence	sentence_15841
+15841_19	cc	15841_18
+15841_19	has_surface_form	and
+15841_20	is_in_sentence	sentence_15841
+15841_20	compound	15841_21
+15841_20	has_surface_form	Kristen
+15841_21	is_in_sentence	sentence_15841
+15841_21	conj	15841_18
+15841_21	has_surface_form	Wiig
+15841_22	is_in_sentence	sentence_15841
+15841_22	punct	15841_3
+15841_22	has_surface_form	.
+15841_23	is_in_sentence	sentence_15841
+15841_23	dep	15841_3
+15841_23	has_surface_form	
+The Skeleton Twins	surface_form	The Skeleton Twins
+The Skeleton Twins	movie-has-director	Craig Johnson
+Craig Johnson	surface_form	Craig Johnson

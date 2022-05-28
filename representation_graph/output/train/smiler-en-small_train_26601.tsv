@@ -1,0 +1,50 @@
+26600_0	is_in_sentence	sentence_26600
+26600_0	compound	26600_1
+26600_0	has_surface_form	Hurricane
+26600_0	part_of_entity	Hurricane Films
+26600_1	is_in_sentence	sentence_26600
+26600_1	nsubj	26600_2
+26600_1	has_surface_form	Films
+26600_1	part_of_entity	Hurricane Films
+26600_2	is_in_sentence	sentence_26600
+26600_2	ROOT	26600_2
+26600_2	has_surface_form	is
+26600_3	is_in_sentence	sentence_26600
+26600_3	det	26600_6
+26600_3	has_surface_form	a
+26600_6	is_in_sentence	sentence_26600
+26600_6	attr	26600_2
+26600_6	has_surface_form	company
+26600_6	part_of_entity	film production company
+26600_4	is_in_sentence	sentence_26600
+26600_4	compound	26600_5
+26600_4	has_surface_form	film
+26600_4	part_of_entity	film production company
+26600_5	is_in_sentence	sentence_26600
+26600_5	compound	26600_6
+26600_5	has_surface_form	production
+26600_5	part_of_entity	film production company
+26600_7	is_in_sentence	sentence_26600
+26600_7	acl	26600_6
+26600_7	has_surface_form	based
+26600_8	is_in_sentence	sentence_26600
+26600_8	prep	26600_7
+26600_8	has_surface_form	in
+26600_9	is_in_sentence	sentence_26600
+26600_9	pobj	26600_8
+26600_9	has_surface_form	Liverpool
+26600_10	is_in_sentence	sentence_26600
+26600_10	punct	26600_9
+26600_10	has_surface_form	,
+26600_11	is_in_sentence	sentence_26600
+26600_11	appos	26600_9
+26600_11	has_surface_form	England
+26600_12	is_in_sentence	sentence_26600
+26600_12	punct	26600_2
+26600_12	has_surface_form	.
+26600_13	is_in_sentence	sentence_26600
+26600_13	dep	26600_2
+26600_13	has_surface_form	
+Hurricane Films	surface_form	Hurricane Films
+Hurricane Films	has-type	film production company
+film production company	surface_form	film production company

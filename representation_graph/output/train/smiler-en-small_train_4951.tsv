@@ -1,0 +1,55 @@
+4950_0	is_in_sentence	sentence_4950
+4950_0	compound	4950_1
+4950_0	has_surface_form	Connie
+4950_0	part_of_entity	Connie Cato
+4950_1	is_in_sentence	sentence_4950
+4950_1	nsubj	4950_9
+4950_1	has_surface_form	Cato
+4950_1	part_of_entity	Connie Cato
+4950_9	is_in_sentence	sentence_4950
+4950_9	ROOT	4950_9
+4950_9	has_surface_form	is
+4950_2	is_in_sentence	sentence_4950
+4950_2	punct	4950_1
+4950_2	has_surface_form	(
+4950_3	is_in_sentence	sentence_4950
+4950_3	acl	4950_1
+4950_3	has_surface_form	born
+4950_4	is_in_sentence	sentence_4950
+4950_4	npadvmod	4950_3
+4950_4	has_surface_form	March
+4950_5	is_in_sentence	sentence_4950
+4950_5	nummod	4950_4
+4950_5	has_surface_form	30
+4950_6	is_in_sentence	sentence_4950
+4950_6	punct	4950_4
+4950_6	has_surface_form	,
+4950_7	is_in_sentence	sentence_4950
+4950_7	nummod	4950_4
+4950_7	has_surface_form	1955
+4950_8	is_in_sentence	sentence_4950
+4950_8	punct	4950_1
+4950_8	has_surface_form	)
+4950_10	is_in_sentence	sentence_4950
+4950_10	det	4950_13
+4950_10	has_surface_form	a
+4950_13	is_in_sentence	sentence_4950
+4950_13	attr	4950_9
+4950_13	has_surface_form	singer
+4950_11	is_in_sentence	sentence_4950
+4950_11	compound	4950_13
+4950_11	has_surface_form	country
+4950_11	part_of_entity	country music
+4950_12	is_in_sentence	sentence_4950
+4950_12	compound	4950_13
+4950_12	has_surface_form	music
+4950_12	part_of_entity	country music
+4950_14	is_in_sentence	sentence_4950
+4950_14	punct	4950_9
+4950_14	has_surface_form	.
+4950_15	is_in_sentence	sentence_4950
+4950_15	dep	4950_15
+4950_15	has_surface_form	
+Connie Cato	surface_form	Connie Cato
+Connie Cato	has-genre	country music
+country music	surface_form	country music

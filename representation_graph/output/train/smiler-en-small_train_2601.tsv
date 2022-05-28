@@ -1,0 +1,69 @@
+2600_0	is_in_sentence	sentence_2600
+2600_0	compound	2600_2
+2600_0	has_surface_form	Highbury
+2600_0	part_of_entity	Highbury Preparatory School
+2600_2	is_in_sentence	sentence_2600
+2600_2	nsubj	2600_3
+2600_2	has_surface_form	School
+2600_2	part_of_entity	Highbury Preparatory School
+2600_1	is_in_sentence	sentence_2600
+2600_1	compound	2600_2
+2600_1	has_surface_form	Preparatory
+2600_1	part_of_entity	Highbury Preparatory School
+2600_3	is_in_sentence	sentence_2600
+2600_3	ROOT	2600_3
+2600_3	has_surface_form	is
+2600_4	is_in_sentence	sentence_2600
+2600_4	det	2600_6
+2600_4	has_surface_form	a
+2600_6	is_in_sentence	sentence_2600
+2600_6	attr	2600_3
+2600_6	has_surface_form	school
+2600_5	is_in_sentence	sentence_2600
+2600_5	amod	2600_6
+2600_5	has_surface_form	private
+2600_7	is_in_sentence	sentence_2600
+2600_7	prep	2600_6
+2600_7	has_surface_form	for
+2600_8	is_in_sentence	sentence_2600
+2600_8	pobj	2600_7
+2600_8	has_surface_form	boys
+2600_9	is_in_sentence	sentence_2600
+2600_9	acl	2600_8
+2600_9	has_surface_form	located
+2600_10	is_in_sentence	sentence_2600
+2600_10	prep	2600_9
+2600_10	has_surface_form	in
+2600_11	is_in_sentence	sentence_2600
+2600_11	pobj	2600_10
+2600_11	has_surface_form	Hillcrest
+2600_12	is_in_sentence	sentence_2600
+2600_12	punct	2600_11
+2600_12	has_surface_form	,
+2600_13	is_in_sentence	sentence_2600
+2600_13	compound	2600_15
+2600_13	has_surface_form	KwaZulu
+2600_15	is_in_sentence	sentence_2600
+2600_15	conj	2600_11
+2600_15	has_surface_form	Natal
+2600_14	is_in_sentence	sentence_2600
+2600_14	punct	2600_15
+2600_14	has_surface_form	-
+2600_16	is_in_sentence	sentence_2600
+2600_16	punct	2600_15
+2600_16	has_surface_form	,
+2600_17	is_in_sentence	sentence_2600
+2600_17	compound	2600_18
+2600_17	has_surface_form	South
+2600_18	is_in_sentence	sentence_2600
+2600_18	npadvmod	2600_15
+2600_18	has_surface_form	Africa
+2600_19	is_in_sentence	sentence_2600
+2600_19	punct	2600_3
+2600_19	has_surface_form	.
+2600_20	is_in_sentence	sentence_2600
+2600_20	dep	2600_20
+2600_20	has_surface_form	
+Highbury Preparatory School	surface_form	Highbury Preparatory School
+Highbury Preparatory School	is-where	Hillcrest, KwaZulu-Natal
+Hillcrest, KwaZulu-Natal	surface_form	Hillcrest, KwaZulu-Natal

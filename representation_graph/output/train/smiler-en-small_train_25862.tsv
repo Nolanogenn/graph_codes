@@ -1,0 +1,70 @@
+25861_0	is_in_sentence	sentence_25861
+25861_0	compound	25861_1
+25861_0	has_surface_form	Bruno
+25861_0	part_of_entity	Bruno Baveni
+25861_1	is_in_sentence	sentence_25861
+25861_1	nsubj	25861_11
+25861_1	has_surface_form	Baveni
+25861_1	part_of_entity	Bruno Baveni
+25861_11	is_in_sentence	sentence_25861
+25861_11	ROOT	25861_11
+25861_11	has_surface_form	is
+25861_2	is_in_sentence	sentence_25861
+25861_2	punct	25861_3
+25861_2	has_surface_form	(
+25861_3	is_in_sentence	sentence_25861
+25861_3	parataxis	25861_1
+25861_3	has_surface_form	born
+25861_4	is_in_sentence	sentence_25861
+25861_4	nummod	25861_5
+25861_4	has_surface_form	15
+25861_5	is_in_sentence	sentence_25861
+25861_5	npadvmod	25861_3
+25861_5	has_surface_form	December
+25861_6	is_in_sentence	sentence_25861
+25861_6	nummod	25861_5
+25861_6	has_surface_form	1939
+25861_7	is_in_sentence	sentence_25861
+25861_7	prep	25861_3
+25861_7	has_surface_form	in
+25861_8	is_in_sentence	sentence_25861
+25861_8	compound	25861_9
+25861_8	has_surface_form	Sestri
+25861_8	part_of_entity	Sestri Levante
+25861_9	is_in_sentence	sentence_25861
+25861_9	pobj	25861_7
+25861_9	has_surface_form	Levante
+25861_9	part_of_entity	Sestri Levante
+25861_10	is_in_sentence	sentence_25861
+25861_10	punct	25861_1
+25861_10	has_surface_form	)
+25861_12	is_in_sentence	sentence_25861
+25861_12	det	25861_16
+25861_12	has_surface_form	a
+25861_16	is_in_sentence	sentence_25861
+25861_16	attr	25861_11
+25861_16	has_surface_form	player
+25861_13	is_in_sentence	sentence_25861
+25861_13	amod	25861_16
+25861_13	has_surface_form	retired
+25861_14	is_in_sentence	sentence_25861
+25861_14	amod	25861_16
+25861_14	has_surface_form	Italian
+25861_15	is_in_sentence	sentence_25861
+25861_15	compound	25861_16
+25861_15	has_surface_form	football
+25861_17	is_in_sentence	sentence_25861
+25861_17	cc	25861_16
+25861_17	has_surface_form	and
+25861_18	is_in_sentence	sentence_25861
+25861_18	conj	25861_16
+25861_18	has_surface_form	coach
+25861_19	is_in_sentence	sentence_25861
+25861_19	punct	25861_11
+25861_19	has_surface_form	.
+25861_20	is_in_sentence	sentence_25861
+25861_20	dep	25861_20
+25861_20	has_surface_form	
+Bruno Baveni	surface_form	Bruno Baveni
+Bruno Baveni	birth-place	Sestri Levante
+Sestri Levante	surface_form	Sestri Levante

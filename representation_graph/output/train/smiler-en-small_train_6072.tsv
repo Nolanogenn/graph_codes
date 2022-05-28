@@ -1,0 +1,61 @@
+6071_0	is_in_sentence	sentence_6071
+6071_0	compound	6071_1
+6071_0	has_surface_form	Brambletye
+6071_0	part_of_entity	Brambletye School
+6071_1	is_in_sentence	sentence_6071
+6071_1	nsubj	6071_2
+6071_1	has_surface_form	School
+6071_1	part_of_entity	Brambletye School
+6071_2	is_in_sentence	sentence_6071
+6071_2	ROOT	6071_2
+6071_2	has_surface_form	is
+6071_3	is_in_sentence	sentence_6071
+6071_3	det	6071_5
+6071_3	has_surface_form	a
+6071_5	is_in_sentence	sentence_6071
+6071_5	attr	6071_2
+6071_5	has_surface_form	day
+6071_4	is_in_sentence	sentence_6071
+6071_4	amod	6071_5
+6071_4	has_surface_form	coeducational
+6071_6	is_in_sentence	sentence_6071
+6071_6	cc	6071_5
+6071_6	has_surface_form	and
+6071_7	is_in_sentence	sentence_6071
+6071_7	amod	6071_9
+6071_7	has_surface_form	boarding
+6071_9	is_in_sentence	sentence_6071
+6071_9	conj	6071_5
+6071_9	has_surface_form	school
+6071_8	is_in_sentence	sentence_6071
+6071_8	amod	6071_9
+6071_8	has_surface_form	preparatory
+6071_10	is_in_sentence	sentence_6071
+6071_10	prep	6071_9
+6071_10	has_surface_form	in
+6071_11	is_in_sentence	sentence_6071
+6071_11	compound	6071_12
+6071_11	has_surface_form	East
+6071_11	part_of_entity	East Grinstead
+6071_12	is_in_sentence	sentence_6071
+6071_12	pobj	6071_10
+6071_12	has_surface_form	Grinstead
+6071_12	part_of_entity	East Grinstead
+6071_13	is_in_sentence	sentence_6071
+6071_13	punct	6071_12
+6071_13	has_surface_form	,
+6071_14	is_in_sentence	sentence_6071
+6071_14	compound	6071_15
+6071_14	has_surface_form	West
+6071_15	is_in_sentence	sentence_6071
+6071_15	appos	6071_12
+6071_15	has_surface_form	Sussex
+6071_16	is_in_sentence	sentence_6071
+6071_16	punct	6071_2
+6071_16	has_surface_form	.
+6071_17	is_in_sentence	sentence_6071
+6071_17	dep	6071_2
+6071_17	has_surface_form	
+Brambletye School	surface_form	Brambletye School
+Brambletye School	is-where	East Grinstead
+East Grinstead	surface_form	East Grinstead

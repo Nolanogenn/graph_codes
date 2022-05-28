@@ -1,0 +1,55 @@
+33971_0	is_in_sentence	sentence_33971
+33971_0	det	33971_4
+33971_0	has_surface_form	The
+33971_4	is_in_sentence	sentence_33971
+33971_4	nsubj	33971_5
+33971_4	has_surface_form	School
+33971_4	part_of_entity	Meadville Lombard Theological School
+33971_1	is_in_sentence	sentence_33971
+33971_1	compound	33971_2
+33971_1	has_surface_form	Meadville
+33971_1	part_of_entity	Meadville Lombard Theological School
+33971_2	is_in_sentence	sentence_33971
+33971_2	compound	33971_4
+33971_2	has_surface_form	Lombard
+33971_2	part_of_entity	Meadville Lombard Theological School
+33971_3	is_in_sentence	sentence_33971
+33971_3	compound	33971_4
+33971_3	has_surface_form	Theological
+33971_3	part_of_entity	Meadville Lombard Theological School
+33971_5	is_in_sentence	sentence_33971
+33971_5	ROOT	33971_5
+33971_5	has_surface_form	is
+33971_6	is_in_sentence	sentence_33971
+33971_6	det	33971_9
+33971_6	has_surface_form	a
+33971_9	is_in_sentence	sentence_33971
+33971_9	attr	33971_5
+33971_9	has_surface_form	seminary
+33971_7	is_in_sentence	sentence_33971
+33971_7	amod	33971_8
+33971_7	has_surface_form	Unitarian
+33971_8	is_in_sentence	sentence_33971
+33971_8	compound	33971_9
+33971_8	has_surface_form	Universalist
+33971_10	is_in_sentence	sentence_33971
+33971_10	prep	33971_9
+33971_10	has_surface_form	in
+33971_11	is_in_sentence	sentence_33971
+33971_11	pobj	33971_10
+33971_11	is_entity	Chicago
+Chicago	surface_form	Chicago
+33971_12	is_in_sentence	sentence_33971
+33971_12	punct	33971_11
+33971_12	has_surface_form	,
+33971_13	is_in_sentence	sentence_33971
+33971_13	appos	33971_11
+33971_13	has_surface_form	Illinois
+33971_14	is_in_sentence	sentence_33971
+33971_14	punct	33971_5
+33971_14	has_surface_form	.
+33971_15	is_in_sentence	sentence_33971
+33971_15	dep	33971_5
+33971_15	has_surface_form	
+Meadville Lombard Theological School	surface_form	Meadville Lombard Theological School
+Meadville Lombard Theological School	is-where	Chicago

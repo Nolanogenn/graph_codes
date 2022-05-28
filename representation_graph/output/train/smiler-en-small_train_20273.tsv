@@ -1,0 +1,79 @@
+20272_0	is_in_sentence	sentence_20272
+20272_0	compound	20272_1
+20272_0	has_surface_form	Adventure
+20272_0	part_of_entity	Adventure Ltd.
+20272_1	is_in_sentence	sentence_20272
+20272_1	nsubj	20272_2
+20272_1	has_surface_form	Ltd.
+20272_1	part_of_entity	Adventure Ltd.
+20272_2	is_in_sentence	sentence_20272
+20272_2	ROOT	20272_2
+20272_2	has_surface_form	is
+20272_3	is_in_sentence	sentence_20272
+20272_3	det	20272_7
+20272_3	has_surface_form	a
+20272_7	is_in_sentence	sentence_20272
+20272_7	attr	20272_2
+20272_7	has_surface_form	film
+20272_4	is_in_sentence	sentence_20272
+20272_4	nummod	20272_7
+20272_4	has_surface_form	1935
+20272_5	is_in_sentence	sentence_20272
+20272_5	amod	20272_7
+20272_5	has_surface_form	British
+20272_6	is_in_sentence	sentence_20272
+20272_6	compound	20272_7
+20272_6	has_surface_form	adventure
+20272_8	is_in_sentence	sentence_20272
+20272_8	acl	20272_7
+20272_8	has_surface_form	directed
+20272_9	is_in_sentence	sentence_20272
+20272_9	agent	20272_8
+20272_9	has_surface_form	by
+20272_10	is_in_sentence	sentence_20272
+20272_10	compound	20272_11
+20272_10	has_surface_form	George
+20272_10	part_of_entity	George King
+20272_11	is_in_sentence	sentence_20272
+20272_11	pobj	20272_9
+20272_11	has_surface_form	King
+20272_11	part_of_entity	George King
+20272_12	is_in_sentence	sentence_20272
+20272_12	cc	20272_8
+20272_12	has_surface_form	and
+20272_13	is_in_sentence	sentence_20272
+20272_13	conj	20272_8
+20272_13	has_surface_form	starring
+20272_14	is_in_sentence	sentence_20272
+20272_14	compound	20272_15
+20272_14	has_surface_form	Harry
+20272_15	is_in_sentence	sentence_20272
+20272_15	dobj	20272_13
+20272_15	has_surface_form	Milton
+20272_16	is_in_sentence	sentence_20272
+20272_16	punct	20272_15
+20272_16	has_surface_form	,
+20272_17	is_in_sentence	sentence_20272
+20272_17	compound	20272_18
+20272_17	has_surface_form	Pearl
+20272_18	is_in_sentence	sentence_20272
+20272_18	conj	20272_15
+20272_18	has_surface_form	Argyle
+20272_19	is_in_sentence	sentence_20272
+20272_19	cc	20272_18
+20272_19	has_surface_form	and
+20272_20	is_in_sentence	sentence_20272
+20272_20	compound	20272_21
+20272_20	has_surface_form	Sebastian
+20272_21	is_in_sentence	sentence_20272
+20272_21	conj	20272_18
+20272_21	has_surface_form	Shaw
+20272_22	is_in_sentence	sentence_20272
+20272_22	punct	20272_2
+20272_22	has_surface_form	.
+20272_23	is_in_sentence	sentence_20272
+20272_23	dep	20272_2
+20272_23	has_surface_form	
+Adventure Ltd.	surface_form	Adventure Ltd.
+Adventure Ltd.	movie-has-director	George King
+George King	surface_form	George King

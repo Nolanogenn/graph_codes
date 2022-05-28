@@ -1,0 +1,78 @@
+11469_0	is_in_sentence	sentence_11469
+11469_0	nsubj	11469_3
+11469_0	has_surface_form	Queen
+11469_0	part_of_entity	Queen of Earth
+11469_3	is_in_sentence	sentence_11469
+11469_3	ROOT	11469_3
+11469_3	has_surface_form	is
+11469_1	is_in_sentence	sentence_11469
+11469_1	prep	11469_0
+11469_1	has_surface_form	of
+11469_1	part_of_entity	Queen of Earth
+11469_2	is_in_sentence	sentence_11469
+11469_2	pobj	11469_1
+11469_2	has_surface_form	Earth
+11469_2	part_of_entity	Queen of Earth
+11469_4	is_in_sentence	sentence_11469
+11469_4	det	11469_9
+11469_4	has_surface_form	a
+11469_9	is_in_sentence	sentence_11469
+11469_9	attr	11469_3
+11469_9	has_surface_form	film
+11469_5	is_in_sentence	sentence_11469
+11469_5	nummod	11469_9
+11469_5	has_surface_form	2015
+11469_6	is_in_sentence	sentence_11469
+11469_6	amod	11469_9
+11469_6	has_surface_form	American
+11469_7	is_in_sentence	sentence_11469
+11469_7	amod	11469_8
+11469_7	has_surface_form	psychological
+11469_8	is_in_sentence	sentence_11469
+11469_8	compound	11469_9
+11469_8	has_surface_form	thriller
+11469_10	is_in_sentence	sentence_11469
+11469_10	acl	11469_9
+11469_10	has_surface_form	written
+11469_11	is_in_sentence	sentence_11469
+11469_11	punct	11469_10
+11469_11	has_surface_form	,
+11469_12	is_in_sentence	sentence_11469
+11469_12	acl	11469_9
+11469_12	has_surface_form	co
+11469_13	is_in_sentence	sentence_11469
+11469_13	acl	11469_9
+11469_13	has_surface_form	-
+11469_14	is_in_sentence	sentence_11469
+11469_14	amod	11469_9
+11469_14	has_surface_form	produced
+11469_15	is_in_sentence	sentence_11469
+11469_15	cc	11469_14
+11469_15	has_surface_form	and
+11469_16	is_in_sentence	sentence_11469
+11469_16	conj	11469_14
+11469_16	has_surface_form	directed
+11469_17	is_in_sentence	sentence_11469
+11469_17	agent	11469_16
+11469_17	has_surface_form	by
+11469_18	is_in_sentence	sentence_11469
+11469_18	compound	11469_20
+11469_18	has_surface_form	Alex
+11469_18	part_of_entity	Alex Ross Perry
+11469_20	is_in_sentence	sentence_11469
+11469_20	pobj	11469_17
+11469_20	has_surface_form	Perry
+11469_20	part_of_entity	Alex Ross Perry
+11469_19	is_in_sentence	sentence_11469
+11469_19	compound	11469_20
+11469_19	has_surface_form	Ross
+11469_19	part_of_entity	Alex Ross Perry
+11469_21	is_in_sentence	sentence_11469
+11469_21	punct	11469_3
+11469_21	has_surface_form	.
+11469_22	is_in_sentence	sentence_11469
+11469_22	dep	11469_22
+11469_22	has_surface_form	
+Queen of Earth	surface_form	Queen of Earth
+Queen of Earth	movie-has-director	Alex Ross Perry
+Alex Ross Perry	surface_form	Alex Ross Perry

@@ -1,0 +1,59 @@
+19970_0	is_in_sentence	sentence_19970
+19970_0	compound	19970_1
+19970_0	has_surface_form	Benedetta
+19970_0	part_of_entity	Benedetta Ponticelli
+19970_1	is_in_sentence	sentence_19970
+19970_1	nsubj	19970_11
+19970_1	has_surface_form	Ponticelli
+19970_1	part_of_entity	Benedetta Ponticelli
+19970_11	is_in_sentence	sentence_19970
+19970_11	ROOT	19970_11
+19970_11	has_surface_form	is
+19970_2	is_in_sentence	sentence_19970
+19970_2	punct	19970_3
+19970_2	has_surface_form	(
+19970_3	is_in_sentence	sentence_19970
+19970_3	acl	19970_1
+19970_3	has_surface_form	born
+19970_4	is_in_sentence	sentence_19970
+19970_4	npadvmod	19970_3
+19970_4	has_surface_form	December
+19970_5	is_in_sentence	sentence_19970
+19970_5	nummod	19970_4
+19970_5	has_surface_form	22
+19970_6	is_in_sentence	sentence_19970
+19970_6	punct	19970_4
+19970_6	has_surface_form	,
+19970_7	is_in_sentence	sentence_19970
+19970_7	nummod	19970_4
+19970_7	has_surface_form	1979
+19970_8	is_in_sentence	sentence_19970
+19970_8	prep	19970_3
+19970_8	has_surface_form	in
+19970_9	is_in_sentence	sentence_19970
+19970_9	pobj	19970_8
+19970_9	is_entity	Siena
+Siena	surface_form	Siena
+19970_10	is_in_sentence	sentence_19970
+19970_10	punct	19970_1
+19970_10	has_surface_form	)
+19970_12	is_in_sentence	sentence_19970
+19970_12	det	19970_15
+19970_12	has_surface_form	an
+19970_15	is_in_sentence	sentence_19970
+19970_15	attr	19970_11
+19970_15	has_surface_form	actress
+19970_13	is_in_sentence	sentence_19970
+19970_13	amod	19970_15
+19970_13	has_surface_form	Italian
+19970_14	is_in_sentence	sentence_19970
+19970_14	compound	19970_15
+19970_14	has_surface_form	voice
+19970_16	is_in_sentence	sentence_19970
+19970_16	punct	19970_11
+19970_16	has_surface_form	.
+19970_17	is_in_sentence	sentence_19970
+19970_17	dep	19970_17
+19970_17	has_surface_form	
+Benedetta Ponticelli	surface_form	Benedetta Ponticelli
+Benedetta Ponticelli	birth-place	Siena

@@ -1,0 +1,55 @@
+25420_0	is_in_sentence	sentence_25420
+25420_0	compound	25420_1
+25420_0	has_surface_form	Paola
+25420_0	part_of_entity	Paola Senatore
+25420_1	is_in_sentence	sentence_25420
+25420_1	nsubj	25420_8
+25420_1	has_surface_form	Senatore
+25420_1	part_of_entity	Paola Senatore
+25420_8	is_in_sentence	sentence_25420
+25420_8	ROOT	25420_8
+25420_8	has_surface_form	is
+25420_2	is_in_sentence	sentence_25420
+25420_2	punct	25420_1
+25420_2	has_surface_form	(
+25420_3	is_in_sentence	sentence_25420
+25420_3	acl	25420_1
+25420_3	has_surface_form	born
+25420_4	is_in_sentence	sentence_25420
+25420_4	nummod	25420_5
+25420_4	has_surface_form	9
+25420_5	is_in_sentence	sentence_25420
+25420_5	npadvmod	25420_3
+25420_5	has_surface_form	November
+25420_6	is_in_sentence	sentence_25420
+25420_6	nummod	25420_5
+25420_6	has_surface_form	1949
+25420_7	is_in_sentence	sentence_25420
+25420_7	punct	25420_1
+25420_7	has_surface_form	)
+25420_9	is_in_sentence	sentence_25420
+25420_9	det	25420_13
+25420_9	has_surface_form	an
+25420_13	is_in_sentence	sentence_25420
+25420_13	attr	25420_8
+25420_13	has_surface_form	actress
+25420_13	part_of_entity	film actress
+25420_10	is_in_sentence	sentence_25420
+25420_10	amod	25420_13
+25420_10	has_surface_form	Italian
+25420_11	is_in_sentence	sentence_25420
+25420_11	amod	25420_13
+25420_11	has_surface_form	retired
+25420_12	is_in_sentence	sentence_25420
+25420_12	compound	25420_13
+25420_12	has_surface_form	film
+25420_12	part_of_entity	film actress
+25420_14	is_in_sentence	sentence_25420
+25420_14	punct	25420_8
+25420_14	has_surface_form	.
+25420_15	is_in_sentence	sentence_25420
+25420_15	dep	25420_8
+25420_15	has_surface_form	
+Paola Senatore	surface_form	Paola Senatore
+Paola Senatore	has-occupation	film actress
+film actress	surface_form	film actress

@@ -1,0 +1,55 @@
+4889_0	is_in_sentence	sentence_4889
+4889_0	compound	4889_1
+4889_0	has_surface_form	Armenter
+4889_0	part_of_entity	Armenter Chatmon
+4889_1	is_in_sentence	sentence_4889
+4889_1	nsubj	4889_2
+4889_1	has_surface_form	Chatmon
+4889_1	part_of_entity	Armenter Chatmon
+4889_2	is_in_sentence	sentence_4889
+4889_2	ROOT	4889_2
+4889_2	has_surface_form	managed
+4889_3	is_in_sentence	sentence_4889
+4889_3	det	4889_4
+4889_3	has_surface_form	that
+4889_4	is_in_sentence	sentence_4889
+4889_4	dobj	4889_2
+4889_4	has_surface_form	group
+4889_5	is_in_sentence	sentence_4889
+4889_5	punct	4889_4
+4889_5	has_surface_form	,
+4889_6	is_in_sentence	sentence_4889
+4889_6	nsubj	4889_7
+4889_6	has_surface_form	which
+4889_7	is_in_sentence	sentence_4889
+4889_7	relcl	4889_4
+4889_7	has_surface_form	included
+4889_8	is_in_sentence	sentence_4889
+4889_8	poss	4889_9
+4889_8	has_surface_form	his
+4889_9	is_in_sentence	sentence_4889
+4889_9	dobj	4889_7
+4889_9	has_surface_form	brother
+4889_10	is_in_sentence	sentence_4889
+4889_10	compound	4889_11
+4889_10	has_surface_form	Lonnie
+4889_10	part_of_entity	Lonnie Chatmon
+4889_11	is_in_sentence	sentence_4889
+4889_11	appos	4889_9
+4889_11	has_surface_form	Chatmon
+4889_11	part_of_entity	Lonnie Chatmon
+4889_12	is_in_sentence	sentence_4889
+4889_12	prep	4889_7
+4889_12	has_surface_form	on
+4889_13	is_in_sentence	sentence_4889
+4889_13	pobj	4889_12
+4889_13	has_surface_form	fiddle
+4889_14	is_in_sentence	sentence_4889
+4889_14	punct	4889_2
+4889_14	has_surface_form	.
+4889_15	is_in_sentence	sentence_4889
+4889_15	dep	4889_15
+4889_15	has_surface_form	
+Armenter Chatmon	surface_form	Armenter Chatmon
+Armenter Chatmon	has-sibling	Lonnie Chatmon
+Lonnie Chatmon	surface_form	Lonnie Chatmon

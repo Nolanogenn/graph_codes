@@ -1,0 +1,51 @@
+5440_0	is_in_sentence	sentence_5440
+5440_0	nsubj	5440_1
+5440_0	is_entity	KDE
+5440_1	is_in_sentence	sentence_5440
+5440_1	ROOT	5440_1
+5440_1	has_surface_form	is
+KDE	surface_form	KDE
+KDE	has-type	free software community
+5440_2	is_in_sentence	sentence_5440
+5440_2	det	5440_6
+5440_2	has_surface_form	an
+5440_6	is_in_sentence	sentence_5440
+5440_6	attr	5440_1
+5440_6	has_surface_form	community
+5440_6	part_of_entity	free software community
+5440_3	is_in_sentence	sentence_5440
+5440_3	amod	5440_6
+5440_3	has_surface_form	international
+5440_4	is_in_sentence	sentence_5440
+5440_4	amod	5440_5
+5440_4	has_surface_form	free
+5440_4	part_of_entity	free software community
+5440_5	is_in_sentence	sentence_5440
+5440_5	compound	5440_6
+5440_5	has_surface_form	software
+5440_5	part_of_entity	free software community
+5440_7	is_in_sentence	sentence_5440
+5440_7	acl	5440_6
+5440_7	has_surface_form	developing
+5440_8	is_in_sentence	sentence_5440
+5440_8	amod	5440_12
+5440_8	has_surface_form	Free
+5440_12	is_in_sentence	sentence_5440
+5440_12	dobj	5440_7
+5440_12	has_surface_form	software
+5440_9	is_in_sentence	sentence_5440
+5440_9	cc	5440_8
+5440_9	has_surface_form	and
+5440_10	is_in_sentence	sentence_5440
+5440_10	compound	5440_11
+5440_10	has_surface_form	Open
+5440_11	is_in_sentence	sentence_5440
+5440_11	conj	5440_8
+5440_11	has_surface_form	Source
+5440_13	is_in_sentence	sentence_5440
+5440_13	punct	5440_1
+5440_13	has_surface_form	.
+5440_14	is_in_sentence	sentence_5440
+5440_14	dep	5440_14
+5440_14	has_surface_form	
+free software community	surface_form	free software community

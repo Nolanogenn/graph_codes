@@ -1,0 +1,83 @@
+9374_0	is_in_sentence	sentence_9374
+9374_0	compound	9374_2
+9374_0	has_surface_form	Daari
+9374_0	part_of_entity	Daari Tappida Maga
+9374_2	is_in_sentence	sentence_9374
+9374_2	nsubj	9374_10
+9374_2	has_surface_form	Maga
+9374_2	part_of_entity	Daari Tappida Maga
+9374_1	is_in_sentence	sentence_9374
+9374_1	compound	9374_2
+9374_1	has_surface_form	Tappida
+9374_1	part_of_entity	Daari Tappida Maga
+9374_10	is_in_sentence	sentence_9374
+9374_10	ROOT	9374_10
+9374_10	has_surface_form	is
+9374_3	is_in_sentence	sentence_9374
+9374_3	punct	9374_4
+9374_3	has_surface_form	(
+9374_4	is_in_sentence	sentence_9374
+9374_4	appos	9374_2
+9374_4	has_surface_form	Kannada
+9374_5	is_in_sentence	sentence_9374
+9374_5	punct	9374_4
+9374_5	has_surface_form	:
+9374_6	is_in_sentence	sentence_9374
+9374_6	appos	9374_4
+9374_6	has_surface_form	ದಾರಿ
+9374_7	is_in_sentence	sentence_9374
+9374_7	prep	9374_6
+9374_7	has_surface_form	ತಪ್ಪಿದ
+9374_8	is_in_sentence	sentence_9374
+9374_8	appos	9374_7
+9374_8	has_surface_form	ಮಗ
+9374_9	is_in_sentence	sentence_9374
+9374_9	punct	9374_4
+9374_9	has_surface_form	)
+9374_11	is_in_sentence	sentence_9374
+9374_11	det	9374_15
+9374_11	has_surface_form	a
+9374_15	is_in_sentence	sentence_9374
+9374_15	attr	9374_10
+9374_15	has_surface_form	film
+9374_12	is_in_sentence	sentence_9374
+9374_12	nummod	9374_15
+9374_12	has_surface_form	1975
+9374_13	is_in_sentence	sentence_9374
+9374_13	compound	9374_14
+9374_13	has_surface_form	Indian
+9374_14	is_in_sentence	sentence_9374
+9374_14	compound	9374_15
+9374_14	has_surface_form	Kannada
+9374_16	is_in_sentence	sentence_9374
+9374_16	punct	9374_15
+9374_16	has_surface_form	,
+9374_17	is_in_sentence	sentence_9374
+9374_17	acl	9374_15
+9374_17	has_surface_form	produced
+9374_18	is_in_sentence	sentence_9374
+9374_18	cc	9374_17
+9374_18	has_surface_form	and
+9374_19	is_in_sentence	sentence_9374
+9374_19	conj	9374_17
+9374_19	has_surface_form	directed
+9374_20	is_in_sentence	sentence_9374
+9374_20	agent	9374_19
+9374_20	has_surface_form	by
+9374_21	is_in_sentence	sentence_9374
+9374_21	compound	9374_22
+9374_21	has_surface_form	Peketi
+9374_21	part_of_entity	Peketi Sivaram
+9374_22	is_in_sentence	sentence_9374
+9374_22	pobj	9374_20
+9374_22	has_surface_form	Sivaram
+9374_22	part_of_entity	Peketi Sivaram
+9374_23	is_in_sentence	sentence_9374
+9374_23	punct	9374_10
+9374_23	has_surface_form	.
+9374_24	is_in_sentence	sentence_9374
+9374_24	dep	9374_10
+9374_24	has_surface_form	
+Daari Tappida Maga	surface_form	Daari Tappida Maga
+Daari Tappida Maga	movie-has-director	Peketi Sivaram
+Peketi Sivaram	surface_form	Peketi Sivaram

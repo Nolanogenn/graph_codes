@@ -1,0 +1,64 @@
+16234_0	is_in_sentence	sentence_16234
+16234_0	compound	16234_1
+16234_0	has_surface_form	Racing
+16234_0	part_of_entity	Racing Blood
+16234_1	is_in_sentence	sentence_16234
+16234_1	nsubj	16234_2
+16234_1	has_surface_form	Blood
+16234_1	part_of_entity	Racing Blood
+16234_2	is_in_sentence	sentence_16234
+16234_2	ROOT	16234_2
+16234_2	has_surface_form	is
+16234_3	is_in_sentence	sentence_16234
+16234_3	det	16234_7
+16234_3	has_surface_form	a
+16234_7	is_in_sentence	sentence_16234
+16234_7	attr	16234_2
+16234_7	has_surface_form	film
+16234_4	is_in_sentence	sentence_16234
+16234_4	nummod	16234_7
+16234_4	has_surface_form	1954
+16234_5	is_in_sentence	sentence_16234
+16234_5	amod	16234_7
+16234_5	has_surface_form	American
+16234_6	is_in_sentence	sentence_16234
+16234_6	compound	16234_7
+16234_6	has_surface_form	drama
+16234_8	is_in_sentence	sentence_16234
+16234_8	acl	16234_7
+16234_8	has_surface_form	directed
+16234_9	is_in_sentence	sentence_16234
+16234_9	agent	16234_8
+16234_9	has_surface_form	by
+16234_10	is_in_sentence	sentence_16234
+16234_10	compound	16234_11
+16234_10	has_surface_form	Wesley
+16234_10	part_of_entity	Wesley Barry
+16234_11	is_in_sentence	sentence_16234
+16234_11	pobj	16234_9
+16234_11	has_surface_form	Barry
+16234_11	part_of_entity	Wesley Barry
+16234_12	is_in_sentence	sentence_16234
+16234_12	cc	16234_8
+16234_12	has_surface_form	and
+16234_13	is_in_sentence	sentence_16234
+16234_13	conj	16234_8
+16234_13	has_surface_form	written
+16234_14	is_in_sentence	sentence_16234
+16234_14	agent	16234_13
+16234_14	has_surface_form	by
+16234_15	is_in_sentence	sentence_16234
+16234_15	compound	16234_16
+16234_15	has_surface_form	Samuel
+16234_16	is_in_sentence	sentence_16234
+16234_16	pobj	16234_14
+16234_16	has_surface_form	Roeca
+16234_17	is_in_sentence	sentence_16234
+16234_17	punct	16234_2
+16234_17	has_surface_form	.
+16234_18	is_in_sentence	sentence_16234
+16234_18	dep	16234_2
+16234_18	has_surface_form	
+Racing Blood	surface_form	Racing Blood
+Racing Blood	movie-has-director	Wesley Barry
+Wesley Barry	surface_form	Wesley Barry

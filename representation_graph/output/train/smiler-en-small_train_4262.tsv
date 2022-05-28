@@ -1,0 +1,62 @@
+4261_0	is_in_sentence	sentence_4261
+4261_0	compound	4261_1
+4261_0	has_surface_form	Brandon
+4261_0	part_of_entity	Brandon Beal
+4261_1	is_in_sentence	sentence_4261
+4261_1	nsubj	4261_8
+4261_1	has_surface_form	Beal
+4261_1	part_of_entity	Brandon Beal
+4261_8	is_in_sentence	sentence_4261
+4261_8	ROOT	4261_8
+4261_8	has_surface_form	is
+4261_2	is_in_sentence	sentence_4261
+4261_2	punct	4261_1
+4261_2	has_surface_form	(
+4261_3	is_in_sentence	sentence_4261
+4261_3	acl	4261_1
+4261_3	has_surface_form	born
+4261_4	is_in_sentence	sentence_4261
+4261_4	npadvmod	4261_3
+4261_4	has_surface_form	16
+4261_5	is_in_sentence	sentence_4261
+4261_5	npadvmod	4261_3
+4261_5	has_surface_form	December
+4261_6	is_in_sentence	sentence_4261
+4261_6	nummod	4261_5
+4261_6	has_surface_form	1983
+4261_7	is_in_sentence	sentence_4261
+4261_7	punct	4261_1
+4261_7	has_surface_form	)
+4261_9	is_in_sentence	sentence_4261
+4261_9	det	4261_11
+4261_9	has_surface_form	an
+4261_11	is_in_sentence	sentence_4261
+4261_11	attr	4261_8
+4261_11	is_entity	singer
+4261_10	is_in_sentence	sentence_4261
+4261_10	amod	4261_11
+4261_10	has_surface_form	American
+singer	surface_form	singer
+4261_12	is_in_sentence	sentence_4261
+4261_12	punct	4261_11
+4261_12	has_surface_form	,
+4261_13	is_in_sentence	sentence_4261
+4261_13	conj	4261_11
+4261_13	has_surface_form	songwriter
+4261_14	is_in_sentence	sentence_4261
+4261_14	punct	4261_13
+4261_14	has_surface_form	,
+4261_15	is_in_sentence	sentence_4261
+4261_15	cc	4261_13
+4261_15	has_surface_form	&
+4261_16	is_in_sentence	sentence_4261
+4261_16	conj	4261_13
+4261_16	has_surface_form	producer
+4261_17	is_in_sentence	sentence_4261
+4261_17	punct	4261_8
+4261_17	has_surface_form	.
+4261_18	is_in_sentence	sentence_4261
+4261_18	dep	4261_18
+4261_18	has_surface_form	
+Brandon Beal	surface_form	Brandon Beal
+Brandon Beal	has-occupation	singer

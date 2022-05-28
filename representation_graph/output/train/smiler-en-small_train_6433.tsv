@@ -1,0 +1,50 @@
+6432_0	is_in_sentence	sentence_6432
+6432_0	det	6432_3
+6432_0	has_surface_form	The
+6432_3	is_in_sentence	sentence_6432
+6432_3	nsubj	6432_4
+6432_3	has_surface_form	Library
+6432_3	part_of_entity	Waukegan Public Library
+6432_1	is_in_sentence	sentence_6432
+6432_1	compound	6432_3
+6432_1	has_surface_form	Waukegan
+6432_1	part_of_entity	Waukegan Public Library
+6432_2	is_in_sentence	sentence_6432
+6432_2	compound	6432_3
+6432_2	has_surface_form	Public
+6432_2	part_of_entity	Waukegan Public Library
+6432_4	is_in_sentence	sentence_6432
+6432_4	ROOT	6432_4
+6432_4	has_surface_form	is
+6432_5	is_in_sentence	sentence_6432
+6432_5	det	6432_7
+6432_5	has_surface_form	the
+6432_7	is_in_sentence	sentence_6432
+6432_7	attr	6432_4
+6432_7	has_surface_form	library
+6432_7	part_of_entity	public library
+6432_6	is_in_sentence	sentence_6432
+6432_6	amod	6432_7
+6432_6	has_surface_form	public
+6432_6	part_of_entity	public library
+6432_8	is_in_sentence	sentence_6432
+6432_8	acl	6432_7
+6432_8	has_surface_form	serving
+6432_9	is_in_sentence	sentence_6432
+6432_9	dobj	6432_8
+6432_9	has_surface_form	Waukegan
+6432_10	is_in_sentence	sentence_6432
+6432_10	punct	6432_9
+6432_10	has_surface_form	,
+6432_11	is_in_sentence	sentence_6432
+6432_11	appos	6432_9
+6432_11	has_surface_form	Illinois
+6432_12	is_in_sentence	sentence_6432
+6432_12	punct	6432_4
+6432_12	has_surface_form	.
+6432_13	is_in_sentence	sentence_6432
+6432_13	dep	6432_4
+6432_13	has_surface_form	
+Waukegan Public Library	surface_form	Waukegan Public Library
+Waukegan Public Library	has-type	public library
+public library	surface_form	public library

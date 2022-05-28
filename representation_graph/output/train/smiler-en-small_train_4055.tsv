@@ -1,0 +1,78 @@
+4054_0	is_in_sentence	sentence_4054
+4054_0	det	4054_1
+4054_0	has_surface_form	The
+4054_0	part_of_entity	The Story of Fausta
+4054_1	is_in_sentence	sentence_4054
+4054_1	nsubj	4054_11
+4054_1	has_surface_form	Story
+4054_1	part_of_entity	The Story of Fausta
+4054_11	is_in_sentence	sentence_4054
+4054_11	ROOT	4054_11
+4054_11	has_surface_form	is
+4054_2	is_in_sentence	sentence_4054
+4054_2	prep	4054_1
+4054_2	has_surface_form	of
+4054_2	part_of_entity	The Story of Fausta
+4054_3	is_in_sentence	sentence_4054
+4054_3	pobj	4054_2
+4054_3	has_surface_form	Fausta
+4054_3	part_of_entity	The Story of Fausta
+4054_4	is_in_sentence	sentence_4054
+4054_4	punct	4054_5
+4054_4	has_surface_form	(
+4054_5	is_in_sentence	sentence_4054
+4054_5	parataxis	4054_1
+4054_5	has_surface_form	Portuguese
+4054_6	is_in_sentence	sentence_4054
+4054_6	punct	4054_5
+4054_6	has_surface_form	:
+4054_7	is_in_sentence	sentence_4054
+4054_7	compound	4054_9
+4054_7	has_surface_form	Romance
+4054_9	is_in_sentence	sentence_4054
+4054_9	appos	4054_5
+4054_9	has_surface_form	Empregada
+4054_8	is_in_sentence	sentence_4054
+4054_8	compound	4054_9
+4054_8	has_surface_form	da
+4054_10	is_in_sentence	sentence_4054
+4054_10	punct	4054_5
+4054_10	has_surface_form	)
+4054_12	is_in_sentence	sentence_4054
+4054_12	det	4054_16
+4054_12	has_surface_form	a
+4054_16	is_in_sentence	sentence_4054
+4054_16	attr	4054_11
+4054_16	has_surface_form	film
+4054_13	is_in_sentence	sentence_4054
+4054_13	nummod	4054_16
+4054_13	has_surface_form	1988
+4054_14	is_in_sentence	sentence_4054
+4054_14	amod	4054_16
+4054_14	has_surface_form	Brazilian
+4054_15	is_in_sentence	sentence_4054
+4054_15	compound	4054_16
+4054_15	has_surface_form	drama
+4054_17	is_in_sentence	sentence_4054
+4054_17	acl	4054_16
+4054_17	has_surface_form	directed
+4054_18	is_in_sentence	sentence_4054
+4054_18	agent	4054_17
+4054_18	has_surface_form	by
+4054_19	is_in_sentence	sentence_4054
+4054_19	compound	4054_20
+4054_19	has_surface_form	Bruno
+4054_19	part_of_entity	Bruno Barreto
+4054_20	is_in_sentence	sentence_4054
+4054_20	pobj	4054_18
+4054_20	has_surface_form	Barreto
+4054_20	part_of_entity	Bruno Barreto
+4054_21	is_in_sentence	sentence_4054
+4054_21	punct	4054_11
+4054_21	has_surface_form	.
+4054_22	is_in_sentence	sentence_4054
+4054_22	dep	4054_22
+4054_22	has_surface_form	
+The Story of Fausta	surface_form	The Story of Fausta
+The Story of Fausta	movie-has-director	Bruno Barreto
+Bruno Barreto	surface_form	Bruno Barreto

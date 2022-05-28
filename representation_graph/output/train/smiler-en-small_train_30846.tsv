@@ -1,0 +1,67 @@
+30845_0	is_in_sentence	sentence_30845
+30845_0	prep	30845_8
+30845_0	has_surface_form	On
+30845_8	is_in_sentence	sentence_30845
+30845_8	ROOT	30845_8
+30845_8	has_surface_form	married
+30845_1	is_in_sentence	sentence_30845
+30845_1	pobj	30845_0
+30845_1	has_surface_form	June
+30845_2	is_in_sentence	sentence_30845
+30845_2	nummod	30845_1
+30845_2	has_surface_form	10
+30845_3	is_in_sentence	sentence_30845
+30845_3	punct	30845_1
+30845_3	has_surface_form	,
+30845_4	is_in_sentence	sentence_30845
+30845_4	nummod	30845_1
+30845_4	has_surface_form	1958
+30845_5	is_in_sentence	sentence_30845
+30845_5	punct	30845_8
+30845_5	has_surface_form	,
+30845_6	is_in_sentence	sentence_30845
+30845_6	compound	30845_7
+30845_6	has_surface_form	Donald
+30845_6	part_of_entity	Donald Pritzker
+30845_7	is_in_sentence	sentence_30845
+30845_7	nsubj	30845_8
+30845_7	has_surface_form	Pritzker
+30845_7	part_of_entity	Donald Pritzker
+30845_9	is_in_sentence	sentence_30845
+30845_9	compound	30845_10
+30845_9	has_surface_form	Sue
+30845_9	part_of_entity	Sue Sandel
+30845_10	is_in_sentence	sentence_30845
+30845_10	dobj	30845_8
+30845_10	has_surface_form	Sandel
+30845_10	part_of_entity	Sue Sandel
+30845_11	is_in_sentence	sentence_30845
+30845_11	punct	30845_10
+30845_11	has_surface_form	(
+30845_12	is_in_sentence	sentence_30845
+30845_12	appos	30845_10
+30845_12	has_surface_form	1932–1982
+30845_13	is_in_sentence	sentence_30845
+30845_13	punct	30845_10
+30845_13	has_surface_form	)
+30845_14	is_in_sentence	sentence_30845
+30845_14	punct	30845_10
+30845_14	has_surface_form	,
+30845_15	is_in_sentence	sentence_30845
+30845_15	appos	30845_10
+30845_15	has_surface_form	daughter
+30845_16	is_in_sentence	sentence_30845
+30845_16	prep	30845_15
+30845_16	has_surface_form	of
+30845_17	is_in_sentence	sentence_30845
+30845_17	compound	30845_18
+30845_17	has_surface_form	Albert
+30845_18	is_in_sentence	sentence_30845
+30845_18	pobj	30845_16
+30845_18	has_surface_form	L.
+30845_19	is_in_sentence	sentence_30845
+30845_19	dep	30845_8
+30845_19	has_surface_form	
+Donald Pritzker	surface_form	Donald Pritzker
+Donald Pritzker	has-spouse	Sue Sandel
+Sue Sandel	surface_form	Sue Sandel

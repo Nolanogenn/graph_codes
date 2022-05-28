@@ -1,0 +1,88 @@
+10321_0	is_in_sentence	sentence_10321
+10321_0	poss	10321_3
+10321_0	has_surface_form	Children
+10321_3	is_in_sentence	sentence_10321
+10321_3	compound	10321_5
+10321_3	has_surface_form	portal
+10321_1	is_in_sentence	sentence_10321
+10321_1	case	10321_0
+10321_1	has_surface_form	's
+10321_2	is_in_sentence	sentence_10321
+10321_2	compound	10321_3
+10321_2	has_surface_form	literature
+10321_5	is_in_sentence	sentence_10321
+10321_5	nsubj	10321_12
+10321_5	has_surface_form	Fletcher
+10321_5	part_of_entity	Penelope Fletcher
+10321_4	is_in_sentence	sentence_10321
+10321_4	compound	10321_5
+10321_4	has_surface_form	Penelope
+10321_4	part_of_entity	Penelope Fletcher
+10321_12	is_in_sentence	sentence_10321
+10321_12	ROOT	10321_12
+10321_12	has_surface_form	is
+10321_6	is_in_sentence	sentence_10321
+10321_6	punct	10321_7
+10321_6	has_surface_form	(
+10321_7	is_in_sentence	sentence_10321
+10321_7	acl	10321_5
+10321_7	has_surface_form	born
+10321_8	is_in_sentence	sentence_10321
+10321_8	nummod	10321_9
+10321_8	has_surface_form	22
+10321_9	is_in_sentence	sentence_10321
+10321_9	npadvmod	10321_7
+10321_9	has_surface_form	July
+10321_10	is_in_sentence	sentence_10321
+10321_10	nummod	10321_9
+10321_10	has_surface_form	1988
+10321_11	is_in_sentence	sentence_10321
+10321_11	punct	10321_5
+10321_11	has_surface_form	)
+10321_13	is_in_sentence	sentence_10321
+10321_13	det	10321_15
+10321_13	has_surface_form	a
+10321_15	is_in_sentence	sentence_10321
+10321_15	attr	10321_12
+10321_15	has_surface_form	writer
+10321_14	is_in_sentence	sentence_10321
+10321_14	amod	10321_15
+10321_14	has_surface_form	British
+10321_16	is_in_sentence	sentence_10321
+10321_16	prep	10321_15
+10321_16	has_surface_form	of
+10321_17	is_in_sentence	sentence_10321
+10321_17	amod	10321_18
+10321_17	has_surface_form	paranormal
+10321_18	is_in_sentence	sentence_10321
+10321_18	pobj	10321_16
+10321_18	has_surface_form	romance
+10321_19	is_in_sentence	sentence_10321
+10321_19	cc	10321_18
+10321_19	has_surface_form	and
+10321_20	is_in_sentence	sentence_10321
+10321_20	amod	10321_22
+10321_20	has_surface_form	young
+10321_22	is_in_sentence	sentence_10321
+10321_22	compound	10321_24
+10321_22	has_surface_form	adult
+10321_21	is_in_sentence	sentence_10321
+10321_21	punct	10321_22
+10321_21	has_surface_form	-
+10321_24	is_in_sentence	sentence_10321
+10321_24	conj	10321_18
+10321_24	has_surface_form	fiction
+10321_24	part_of_entity	fantasy fiction
+10321_23	is_in_sentence	sentence_10321
+10321_23	compound	10321_24
+10321_23	has_surface_form	fantasy
+10321_23	part_of_entity	fantasy fiction
+10321_25	is_in_sentence	sentence_10321
+10321_25	punct	10321_12
+10321_25	has_surface_form	.
+10321_26	is_in_sentence	sentence_10321
+10321_26	dep	10321_26
+10321_26	has_surface_form	
+Penelope Fletcher	surface_form	Penelope Fletcher
+Penelope Fletcher	has-genre	fantasy fiction
+fantasy fiction	surface_form	fantasy fiction

@@ -1,0 +1,47 @@
+32610_0	is_in_sentence	sentence_32610
+32610_0	compound	32610_1
+32610_0	has_surface_form	Sesham
+32610_0	part_of_entity	Sesham Kazhchayil
+32610_1	is_in_sentence	sentence_32610
+32610_1	nsubj	32610_2
+32610_1	has_surface_form	Kazhchayil
+32610_1	part_of_entity	Sesham Kazhchayil
+32610_2	is_in_sentence	sentence_32610
+32610_2	ROOT	32610_2
+32610_2	has_surface_form	is
+32610_3	is_in_sentence	sentence_32610
+32610_3	det	32610_7
+32610_3	has_surface_form	a
+32610_7	is_in_sentence	sentence_32610
+32610_7	attr	32610_2
+32610_7	has_surface_form	film
+32610_4	is_in_sentence	sentence_32610
+32610_4	nummod	32610_7
+32610_4	has_surface_form	1983
+32610_5	is_in_sentence	sentence_32610
+32610_5	amod	32610_7
+32610_5	has_surface_form	Indian
+32610_6	is_in_sentence	sentence_32610
+32610_6	compound	32610_7
+32610_6	has_surface_form	Malayalam
+32610_8	is_in_sentence	sentence_32610
+32610_8	punct	32610_7
+32610_8	has_surface_form	,
+32610_9	is_in_sentence	sentence_32610
+32610_9	acl	32610_7
+32610_9	has_surface_form	directed
+32610_10	is_in_sentence	sentence_32610
+32610_10	agent	32610_9
+32610_10	has_surface_form	by
+32610_11	is_in_sentence	sentence_32610
+32610_11	pobj	32610_10
+32610_11	is_entity	Balachandramenon
+Balachandramenon	surface_form	Balachandramenon
+32610_12	is_in_sentence	sentence_32610
+32610_12	punct	32610_2
+32610_12	has_surface_form	.
+32610_13	is_in_sentence	sentence_32610
+32610_13	dep	32610_2
+32610_13	has_surface_form	
+Sesham Kazhchayil	surface_form	Sesham Kazhchayil
+Sesham Kazhchayil	movie-has-director	Balachandramenon

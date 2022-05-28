@@ -1,0 +1,70 @@
+340_0	is_in_sentence	sentence_340
+340_0	det	340_2
+340_0	has_surface_form	The
+340_2	is_in_sentence	sentence_340
+340_2	nsubj	340_3
+340_2	has_surface_form	stove
+340_2	part_of_entity	Franklin stove
+340_1	is_in_sentence	sentence_340
+340_1	compound	340_2
+340_1	has_surface_form	Franklin
+340_1	part_of_entity	Franklin stove
+340_3	is_in_sentence	sentence_340
+340_3	ROOT	340_3
+340_3	has_surface_form	is
+340_4	is_in_sentence	sentence_340
+340_4	det	340_8
+340_4	has_surface_form	a
+340_8	is_in_sentence	sentence_340
+340_8	attr	340_3
+340_8	has_surface_form	fireplace
+340_5	is_in_sentence	sentence_340
+340_5	npadvmod	340_7
+340_5	has_surface_form	metal
+340_7	is_in_sentence	sentence_340
+340_7	amod	340_8
+340_7	has_surface_form	lined
+340_6	is_in_sentence	sentence_340
+340_6	punct	340_7
+340_6	has_surface_form	-
+340_9	is_in_sentence	sentence_340
+340_9	acl	340_8
+340_9	has_surface_form	named
+340_10	is_in_sentence	sentence_340
+340_10	prep	340_9
+340_10	has_surface_form	after
+340_11	is_in_sentence	sentence_340
+340_11	compound	340_12
+340_11	has_surface_form	Benjamin
+340_11	part_of_entity	Benjamin Franklin
+340_12	is_in_sentence	sentence_340
+340_12	pobj	340_10
+340_12	has_surface_form	Franklin
+340_12	part_of_entity	Benjamin Franklin
+340_13	is_in_sentence	sentence_340
+340_13	punct	340_12
+340_13	has_surface_form	,
+340_14	is_in_sentence	sentence_340
+340_14	nsubj	340_15
+340_14	has_surface_form	who
+340_15	is_in_sentence	sentence_340
+340_15	relcl	340_12
+340_15	has_surface_form	invented
+340_16	is_in_sentence	sentence_340
+340_16	dobj	340_15
+340_16	has_surface_form	it
+340_17	is_in_sentence	sentence_340
+340_17	prep	340_15
+340_17	has_surface_form	in
+340_18	is_in_sentence	sentence_340
+340_18	pobj	340_17
+340_18	has_surface_form	1741
+340_19	is_in_sentence	sentence_340
+340_19	punct	340_3
+340_19	has_surface_form	.
+340_20	is_in_sentence	sentence_340
+340_20	dep	340_20
+340_20	has_surface_form	
+Franklin stove	surface_form	Franklin stove
+Franklin stove	invented-by	Benjamin Franklin
+Benjamin Franklin	surface_form	Benjamin Franklin

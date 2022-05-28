@@ -1,0 +1,86 @@
+31133_0	is_in_sentence	sentence_31133
+31133_0	det	31133_2
+31133_0	has_surface_form	The
+31133_0	part_of_entity	The Labour Leader
+31133_2	is_in_sentence	sentence_31133
+31133_2	nsubj	31133_3
+31133_2	has_surface_form	Leader
+31133_2	part_of_entity	The Labour Leader
+31133_1	is_in_sentence	sentence_31133
+31133_1	compound	31133_2
+31133_1	has_surface_form	Labour
+31133_1	part_of_entity	The Labour Leader
+31133_3	is_in_sentence	sentence_31133
+31133_3	ROOT	31133_3
+31133_3	has_surface_form	is
+31133_4	is_in_sentence	sentence_31133
+31133_4	det	31133_9
+31133_4	has_surface_form	a
+31133_9	is_in_sentence	sentence_31133
+31133_9	attr	31133_3
+31133_9	has_surface_form	film
+31133_5	is_in_sentence	sentence_31133
+31133_5	nummod	31133_9
+31133_5	has_surface_form	1917
+31133_6	is_in_sentence	sentence_31133
+31133_6	amod	31133_9
+31133_6	has_surface_form	British
+31133_7	is_in_sentence	sentence_31133
+31133_7	amod	31133_9
+31133_7	has_surface_form	silent
+31133_8	is_in_sentence	sentence_31133
+31133_8	compound	31133_9
+31133_8	has_surface_form	drama
+31133_10	is_in_sentence	sentence_31133
+31133_10	acl	31133_9
+31133_10	has_surface_form	directed
+31133_11	is_in_sentence	sentence_31133
+31133_11	agent	31133_10
+31133_11	has_surface_form	by
+31133_12	is_in_sentence	sentence_31133
+31133_12	compound	31133_13
+31133_12	has_surface_form	Thomas
+31133_12	part_of_entity	Thomas Bentley
+31133_13	is_in_sentence	sentence_31133
+31133_13	pobj	31133_11
+31133_13	has_surface_form	Bentley
+31133_13	part_of_entity	Thomas Bentley
+31133_14	is_in_sentence	sentence_31133
+31133_14	cc	31133_10
+31133_14	has_surface_form	and
+31133_15	is_in_sentence	sentence_31133
+31133_15	conj	31133_10
+31133_15	has_surface_form	starring
+31133_16	is_in_sentence	sentence_31133
+31133_16	compound	31133_17
+31133_16	has_surface_form	Fred
+31133_17	is_in_sentence	sentence_31133
+31133_17	dobj	31133_15
+31133_17	has_surface_form	Groves
+31133_18	is_in_sentence	sentence_31133
+31133_18	punct	31133_17
+31133_18	has_surface_form	,
+31133_19	is_in_sentence	sentence_31133
+31133_19	compound	31133_20
+31133_19	has_surface_form	Fay
+31133_20	is_in_sentence	sentence_31133
+31133_20	conj	31133_17
+31133_20	has_surface_form	Compton
+31133_21	is_in_sentence	sentence_31133
+31133_21	cc	31133_20
+31133_21	has_surface_form	and
+31133_22	is_in_sentence	sentence_31133
+31133_22	compound	31133_23
+31133_22	has_surface_form	Owen
+31133_23	is_in_sentence	sentence_31133
+31133_23	conj	31133_20
+31133_23	has_surface_form	Nares
+31133_24	is_in_sentence	sentence_31133
+31133_24	punct	31133_3
+31133_24	has_surface_form	.
+31133_25	is_in_sentence	sentence_31133
+31133_25	dep	31133_3
+31133_25	has_surface_form	
+The Labour Leader	surface_form	The Labour Leader
+The Labour Leader	movie-has-director	Thomas Bentley
+Thomas Bentley	surface_form	Thomas Bentley

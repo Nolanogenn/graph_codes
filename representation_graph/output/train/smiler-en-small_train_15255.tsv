@@ -1,0 +1,94 @@
+15254_0	is_in_sentence	sentence_15254
+15254_0	compound	15254_1
+15254_0	has_surface_form	Fleming
+15254_0	part_of_entity	Fleming College
+15254_1	is_in_sentence	sentence_15254
+15254_1	nsubj	15254_11
+15254_1	has_surface_form	College
+15254_1	part_of_entity	Fleming College
+15254_11	is_in_sentence	sentence_15254
+15254_11	ROOT	15254_11
+15254_11	has_surface_form	is
+15254_2	is_in_sentence	sentence_15254
+15254_2	punct	15254_1
+15254_2	has_surface_form	,
+15254_3	is_in_sentence	sentence_15254
+15254_3	advmod	15254_4
+15254_3	has_surface_form	also
+15254_4	is_in_sentence	sentence_15254
+15254_4	acl	15254_1
+15254_4	has_surface_form	known
+15254_5	is_in_sentence	sentence_15254
+15254_5	prep	15254_4
+15254_5	has_surface_form	as
+15254_6	is_in_sentence	sentence_15254
+15254_6	compound	15254_9
+15254_6	has_surface_form	Sir
+15254_9	is_in_sentence	sentence_15254
+15254_9	pobj	15254_5
+15254_9	has_surface_form	College
+15254_9	part_of_entity	Fleming College
+15254_7	is_in_sentence	sentence_15254
+15254_7	compound	15254_9
+15254_7	has_surface_form	Sandford
+15254_8	is_in_sentence	sentence_15254
+15254_8	compound	15254_9
+15254_8	has_surface_form	Fleming
+15254_8	part_of_entity	Fleming College
+15254_10	is_in_sentence	sentence_15254
+15254_10	punct	15254_1
+15254_10	has_surface_form	,
+15254_12	is_in_sentence	sentence_15254
+15254_12	det	15254_14
+15254_12	has_surface_form	an
+15254_14	is_in_sentence	sentence_15254
+15254_14	attr	15254_11
+15254_14	has_surface_form	College
+15254_13	is_in_sentence	sentence_15254
+15254_13	compound	15254_14
+15254_13	has_surface_form	Ontario
+15254_15	is_in_sentence	sentence_15254
+15254_15	prep	15254_14
+15254_15	has_surface_form	of
+15254_16	is_in_sentence	sentence_15254
+15254_16	compound	15254_17
+15254_16	has_surface_form	Applied
+15254_17	is_in_sentence	sentence_15254
+15254_17	pobj	15254_15
+15254_17	has_surface_form	Arts
+15254_18	is_in_sentence	sentence_15254
+15254_18	cc	15254_17
+15254_18	has_surface_form	and
+15254_19	is_in_sentence	sentence_15254
+15254_19	conj	15254_17
+15254_19	has_surface_form	Technology
+15254_20	is_in_sentence	sentence_15254
+15254_20	acl	15254_14
+15254_20	has_surface_form	located
+15254_21	is_in_sentence	sentence_15254
+15254_21	prep	15254_20
+15254_21	has_surface_form	at
+15254_22	is_in_sentence	sentence_15254
+15254_22	pobj	15254_21
+15254_22	has_surface_form	Peterborough
+15254_23	is_in_sentence	sentence_15254
+15254_23	punct	15254_22
+15254_23	has_surface_form	,
+15254_24	is_in_sentence	sentence_15254
+15254_24	conj	15254_22
+15254_24	has_surface_form	Ontario
+15254_25	is_in_sentence	sentence_15254
+15254_25	punct	15254_24
+15254_25	has_surface_form	,
+15254_26	is_in_sentence	sentence_15254
+15254_26	npadvmod	15254_24
+15254_26	has_surface_form	Canada
+15254_27	is_in_sentence	sentence_15254
+15254_27	punct	15254_11
+15254_27	has_surface_form	.
+15254_28	is_in_sentence	sentence_15254
+15254_28	dep	15254_11
+15254_28	has_surface_form	
+Fleming College	surface_form	Fleming College
+Fleming College	is-where	Peterborough, Ontario
+Peterborough, Ontario	surface_form	Peterborough, Ontario

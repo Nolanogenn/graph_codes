@@ -1,0 +1,107 @@
+34111_0	is_in_sentence	sentence_34111
+34111_0	det	34111_1
+34111_0	has_surface_form	The
+34111_1	is_in_sentence	sentence_34111
+34111_1	nsubj	34111_17
+34111_1	has_surface_form	Blues
+34111_1	part_of_entity	Blues and Royals
+34111_17	is_in_sentence	sentence_34111
+34111_17	ROOT	34111_17
+34111_17	has_surface_form	is
+34111_2	is_in_sentence	sentence_34111
+34111_2	cc	34111_1
+34111_2	has_surface_form	and
+34111_2	part_of_entity	Blues and Royals
+34111_3	is_in_sentence	sentence_34111
+34111_3	conj	34111_1
+34111_3	has_surface_form	Royals
+34111_3	part_of_entity	Blues and Royals
+34111_4	is_in_sentence	sentence_34111
+34111_4	punct	34111_1
+34111_4	has_surface_form	(
+34111_5	is_in_sentence	sentence_34111
+34111_5	compound	34111_7
+34111_5	has_surface_form	Royal
+34111_7	is_in_sentence	sentence_34111
+34111_7	appos	34111_1
+34111_7	has_surface_form	Guards
+34111_6	is_in_sentence	sentence_34111
+34111_6	compound	34111_7
+34111_6	has_surface_form	Horse
+34111_8	is_in_sentence	sentence_34111
+34111_8	cc	34111_7
+34111_8	has_surface_form	and
+34111_9	is_in_sentence	sentence_34111
+34111_9	amod	34111_10
+34111_9	has_surface_form	1st
+34111_10	is_in_sentence	sentence_34111
+34111_10	conj	34111_7
+34111_10	has_surface_form	Dragoons
+34111_11	is_in_sentence	sentence_34111
+34111_11	punct	34111_1
+34111_11	has_surface_form	)
+34111_12	is_in_sentence	sentence_34111
+34111_12	punct	34111_15
+34111_12	has_surface_form	(
+34111_15	is_in_sentence	sentence_34111
+34111_15	appos	34111_1
+34111_15	has_surface_form	D
+34111_13	is_in_sentence	sentence_34111
+34111_13	nmod	34111_15
+34111_13	has_surface_form	RHG
+34111_14	is_in_sentence	sentence_34111
+34111_14	punct	34111_15
+34111_14	has_surface_form	/
+34111_16	is_in_sentence	sentence_34111
+34111_16	punct	34111_1
+34111_16	has_surface_form	)
+34111_18	is_in_sentence	sentence_34111
+34111_18	det	34111_20
+34111_18	has_surface_form	a
+34111_20	is_in_sentence	sentence_34111
+34111_20	attr	34111_17
+34111_20	has_surface_form	regiment
+34111_20	part_of_entity	cavalry regiment
+34111_19	is_in_sentence	sentence_34111
+34111_19	compound	34111_20
+34111_19	has_surface_form	cavalry
+34111_19	part_of_entity	cavalry regiment
+34111_21	is_in_sentence	sentence_34111
+34111_21	prep	34111_20
+34111_21	has_surface_form	of
+34111_22	is_in_sentence	sentence_34111
+34111_22	det	34111_24
+34111_22	has_surface_form	the
+34111_24	is_in_sentence	sentence_34111
+34111_24	pobj	34111_21
+34111_24	has_surface_form	Army
+34111_23	is_in_sentence	sentence_34111
+34111_23	compound	34111_24
+34111_23	has_surface_form	British
+34111_25	is_in_sentence	sentence_34111
+34111_25	punct	34111_24
+34111_25	has_surface_form	,
+34111_26	is_in_sentence	sentence_34111
+34111_26	appos	34111_24
+34111_26	has_surface_form	part
+34111_27	is_in_sentence	sentence_34111
+34111_27	prep	34111_26
+34111_27	has_surface_form	of
+34111_28	is_in_sentence	sentence_34111
+34111_28	det	34111_30
+34111_28	has_surface_form	the
+34111_30	is_in_sentence	sentence_34111
+34111_30	pobj	34111_27
+34111_30	has_surface_form	Cavalry
+34111_29	is_in_sentence	sentence_34111
+34111_29	compound	34111_30
+34111_29	has_surface_form	Household
+34111_31	is_in_sentence	sentence_34111
+34111_31	punct	34111_17
+34111_31	has_surface_form	.
+34111_32	is_in_sentence	sentence_34111
+34111_32	dep	34111_17
+34111_32	has_surface_form	
+Blues and Royals	surface_form	Blues and Royals
+Blues and Royals	has-type	cavalry regiment
+cavalry regiment	surface_form	cavalry regiment

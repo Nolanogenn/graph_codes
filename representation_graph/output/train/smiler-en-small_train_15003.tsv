@@ -1,0 +1,76 @@
+15002_0	is_in_sentence	sentence_15002
+15002_0	compound	15002_1
+15002_0	has_surface_form	Algis
+15002_0	part_of_entity	Algis Jankauskas
+15002_1	is_in_sentence	sentence_15002
+15002_1	nsubj	15002_10
+15002_1	has_surface_form	Jankauskas
+15002_1	part_of_entity	Algis Jankauskas
+15002_10	is_in_sentence	sentence_15002
+15002_10	ROOT	15002_10
+15002_10	has_surface_form	is
+15002_2	is_in_sentence	sentence_15002
+15002_2	punct	15002_3
+15002_2	has_surface_form	(
+15002_3	is_in_sentence	sentence_15002
+15002_3	acl	15002_1
+15002_3	has_surface_form	born
+15002_4	is_in_sentence	sentence_15002
+15002_4	nummod	15002_5
+15002_4	has_surface_form	27
+15002_5	is_in_sentence	sentence_15002
+15002_5	npadvmod	15002_3
+15002_5	has_surface_form	September
+15002_6	is_in_sentence	sentence_15002
+15002_6	nummod	15002_5
+15002_6	has_surface_form	1982
+15002_7	is_in_sentence	sentence_15002
+15002_7	prep	15002_3
+15002_7	has_surface_form	in
+15002_8	is_in_sentence	sentence_15002
+15002_8	pobj	15002_7
+15002_8	has_surface_form	Vilnius
+15002_9	is_in_sentence	sentence_15002
+15002_9	punct	15002_3
+15002_9	has_surface_form	)
+15002_11	is_in_sentence	sentence_15002
+15002_11	det	15002_15
+15002_11	has_surface_form	a
+15002_15	is_in_sentence	sentence_15002
+15002_15	attr	15002_10
+15002_15	has_surface_form	player
+15002_12	is_in_sentence	sentence_15002
+15002_12	amod	15002_15
+15002_12	has_surface_form	Lithuanian
+15002_13	is_in_sentence	sentence_15002
+15002_13	amod	15002_15
+15002_13	has_surface_form	professional
+15002_14	is_in_sentence	sentence_15002
+15002_14	compound	15002_15
+15002_14	has_surface_form	football
+15002_16	is_in_sentence	sentence_15002
+15002_16	advmod	15002_17
+15002_16	has_surface_form	currently
+15002_17	is_in_sentence	sentence_15002
+15002_17	acl	15002_15
+15002_17	has_surface_form	playing
+15002_18	is_in_sentence	sentence_15002
+15002_18	prep	15002_17
+15002_18	has_surface_form	for
+15002_19	is_in_sentence	sentence_15002
+15002_19	compound	15002_20
+15002_19	has_surface_form	FK
+15002_19	part_of_entity	FK Sūduva
+15002_20	is_in_sentence	sentence_15002
+15002_20	pobj	15002_18
+15002_20	has_surface_form	Sūduva
+15002_20	part_of_entity	FK Sūduva
+15002_21	is_in_sentence	sentence_15002
+15002_21	punct	15002_10
+15002_21	has_surface_form	.
+15002_22	is_in_sentence	sentence_15002
+15002_22	dep	15002_10
+15002_22	has_surface_form	
+Algis Jankauskas	surface_form	Algis Jankauskas
+Algis Jankauskas	is-member-of	FK Sūduva
+FK Sūduva	surface_form	FK Sūduva

@@ -1,0 +1,65 @@
+16506_0	is_in_sentence	sentence_16506
+16506_0	compound	16506_1
+16506_0	has_surface_form	Gorantha
+16506_0	part_of_entity	Gorantha Deepam
+16506_1	is_in_sentence	sentence_16506
+16506_1	nsubj	16506_2
+16506_1	has_surface_form	Deepam
+16506_1	part_of_entity	Gorantha Deepam
+16506_2	is_in_sentence	sentence_16506
+16506_2	ROOT	16506_2
+16506_2	has_surface_form	is
+16506_3	is_in_sentence	sentence_16506
+16506_3	det	16506_7
+16506_3	has_surface_form	a
+16506_7	is_in_sentence	sentence_16506
+16506_7	attr	16506_2
+16506_7	has_surface_form	film
+16506_4	is_in_sentence	sentence_16506
+16506_4	nummod	16506_7
+16506_4	has_surface_form	1978
+16506_5	is_in_sentence	sentence_16506
+16506_5	compound	16506_6
+16506_5	has_surface_form	Telugu
+16506_6	is_in_sentence	sentence_16506
+16506_6	compound	16506_7
+16506_6	has_surface_form	drama
+16506_8	is_in_sentence	sentence_16506
+16506_8	prep	16506_7
+16506_8	has_surface_form	from
+16506_9	is_in_sentence	sentence_16506
+16506_9	det	16506_13
+16506_9	has_surface_form	the
+16506_13	is_in_sentence	sentence_16506
+16506_13	pobj	16506_8
+16506_13	has_surface_form	duo
+16506_10	is_in_sentence	sentence_16506
+16506_10	compound	16506_12
+16506_10	has_surface_form	writer
+16506_12	is_in_sentence	sentence_16506
+16506_12	compound	16506_13
+16506_12	has_surface_form	director
+16506_11	is_in_sentence	sentence_16506
+16506_11	punct	16506_12
+16506_11	has_surface_form	-
+16506_14	is_in_sentence	sentence_16506
+16506_14	prep	16506_13
+16506_14	has_surface_form	of
+16506_15	is_in_sentence	sentence_16506
+16506_15	pobj	16506_14
+16506_15	has_surface_form	Ramana
+16506_16	is_in_sentence	sentence_16506
+16506_16	cc	16506_15
+16506_16	has_surface_form	and
+16506_17	is_in_sentence	sentence_16506
+16506_17	conj	16506_15
+16506_17	is_entity	Bapu
+Bapu	surface_form	Bapu
+16506_18	is_in_sentence	sentence_16506
+16506_18	punct	16506_2
+16506_18	has_surface_form	.
+16506_19	is_in_sentence	sentence_16506
+16506_19	dep	16506_19
+16506_19	has_surface_form	
+Gorantha Deepam	surface_form	Gorantha Deepam
+Gorantha Deepam	movie-has-director	Bapu

@@ -1,0 +1,40 @@
+1626_0	is_in_sentence	sentence_1626
+1626_0	compound	1626_1
+1626_0	has_surface_form	Wera
+1626_0	part_of_entity	Wera Frydtberg
+1626_1	is_in_sentence	sentence_1626
+1626_1	nsubj	1626_2
+1626_1	has_surface_form	Frydtberg
+1626_1	part_of_entity	Wera Frydtberg
+1626_2	is_in_sentence	sentence_1626
+1626_2	ROOT	1626_2
+1626_2	has_surface_form	was
+1626_3	is_in_sentence	sentence_1626
+1626_3	det	1626_4
+1626_3	has_surface_form	the
+1626_4	is_in_sentence	sentence_1626
+1626_4	attr	1626_2
+1626_4	has_surface_form	mother
+1626_5	is_in_sentence	sentence_1626
+1626_5	prep	1626_4
+1626_5	has_surface_form	of
+1626_6	is_in_sentence	sentence_1626
+1626_6	compound	1626_8
+1626_6	has_surface_form	historian
+1626_8	is_in_sentence	sentence_1626
+1626_8	pobj	1626_5
+1626_8	has_surface_form	Urbach
+1626_8	part_of_entity	Karina Urbach
+1626_7	is_in_sentence	sentence_1626
+1626_7	compound	1626_8
+1626_7	has_surface_form	Karina
+1626_7	part_of_entity	Karina Urbach
+1626_9	is_in_sentence	sentence_1626
+1626_9	punct	1626_2
+1626_9	has_surface_form	.
+1626_10	is_in_sentence	sentence_1626
+1626_10	dep	1626_10
+1626_10	has_surface_form	
+Wera Frydtberg	surface_form	Wera Frydtberg
+Wera Frydtberg	has-child	Karina Urbach
+Karina Urbach	surface_form	Karina Urbach

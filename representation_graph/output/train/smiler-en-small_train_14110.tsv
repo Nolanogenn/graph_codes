@@ -1,0 +1,95 @@
+14109_0	is_in_sentence	sentence_14109
+14109_0	compound	14109_1
+14109_0	has_surface_form	Naan
+14109_0	part_of_entity	Naan Paadum Paadal
+14109_1	is_in_sentence	sentence_14109
+14109_1	compound	14109_2
+14109_1	has_surface_form	Paadum
+14109_1	part_of_entity	Naan Paadum Paadal
+14109_2	is_in_sentence	sentence_14109
+14109_2	ROOT	14109_2
+14109_2	has_surface_form	Paadal
+14109_2	part_of_entity	Naan Paadum Paadal
+14109_3	is_in_sentence	sentence_14109
+14109_3	punct	14109_2
+14109_3	has_surface_form	(
+14109_4	is_in_sentence	sentence_14109
+14109_4	acl	14109_2
+14109_4	has_surface_form	lit
+14109_5	is_in_sentence	sentence_14109
+14109_5	punct	14109_2
+14109_5	has_surface_form	.
+14109_6	is_in_sentence	sentence_14109
+14109_6	dep	14109_8
+14109_6	has_surface_form	 
+14109_8	is_in_sentence	sentence_14109
+14109_8	nsubj	14109_12
+14109_8	has_surface_form	song
+14109_7	is_in_sentence	sentence_14109
+14109_7	det	14109_8
+14109_7	has_surface_form	The
+14109_12	is_in_sentence	sentence_14109
+14109_12	ROOT	14109_12
+14109_12	has_surface_form	is
+14109_9	is_in_sentence	sentence_14109
+14109_9	nsubj	14109_10
+14109_9	has_surface_form	I
+14109_10	is_in_sentence	sentence_14109
+14109_10	relcl	14109_8
+14109_10	has_surface_form	sing
+14109_11	is_in_sentence	sentence_14109
+14109_11	punct	14109_8
+14109_11	has_surface_form	)
+14109_13	is_in_sentence	sentence_14109
+14109_13	det	14109_19
+14109_13	has_surface_form	a
+14109_19	is_in_sentence	sentence_14109
+14109_19	attr	14109_12
+14109_19	has_surface_form	film
+14109_14	is_in_sentence	sentence_14109
+14109_14	nummod	14109_19
+14109_14	has_surface_form	1984
+14109_15	is_in_sentence	sentence_14109
+14109_15	amod	14109_19
+14109_15	has_surface_form	Indian
+14109_16	is_in_sentence	sentence_14109
+14109_16	compound	14109_18
+14109_16	has_surface_form	Tamil
+14109_18	is_in_sentence	sentence_14109
+14109_18	compound	14109_19
+14109_18	has_surface_form	language
+14109_17	is_in_sentence	sentence_14109
+14109_17	punct	14109_18
+14109_17	has_surface_form	-
+14109_20	is_in_sentence	sentence_14109
+14109_20	acl	14109_19
+14109_20	has_surface_form	directed
+14109_21	is_in_sentence	sentence_14109
+14109_21	agent	14109_20
+14109_21	has_surface_form	by
+14109_22	is_in_sentence	sentence_14109
+14109_22	compound	14109_23
+14109_22	has_surface_form	R.
+14109_22	part_of_entity	R. Sundarrajan
+14109_23	is_in_sentence	sentence_14109
+14109_23	pobj	14109_21
+14109_23	has_surface_form	Sundarrajan
+14109_23	part_of_entity	R. Sundarrajan
+14109_24	is_in_sentence	sentence_14109
+14109_24	cc	14109_20
+14109_24	has_surface_form	and
+14109_25	is_in_sentence	sentence_14109
+14109_25	conj	14109_20
+14109_25	has_surface_form	produced
+14109_26	is_in_sentence	sentence_14109
+14109_26	agent	14109_25
+14109_26	has_surface_form	by
+14109_27	is_in_sentence	sentence_14109
+14109_27	compound	14109_28
+14109_27	has_surface_form	C.
+14109_28	is_in_sentence	sentence_14109
+14109_28	dep	14109_26
+14109_28	has_surface_form	
+Naan Paadum Paadal	surface_form	Naan Paadum Paadal
+Naan Paadum Paadal	movie-has-director	R. Sundarrajan
+R. Sundarrajan	surface_form	R. Sundarrajan

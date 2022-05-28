@@ -1,0 +1,53 @@
+12500_0	is_in_sentence	sentence_12500
+12500_0	compound	12500_1
+12500_0	has_surface_form	Alan
+12500_0	part_of_entity	Alan Khazei
+12500_1	is_in_sentence	sentence_12500
+12500_1	nsubj	12500_9
+12500_1	has_surface_form	Khazei
+12500_1	part_of_entity	Alan Khazei
+12500_9	is_in_sentence	sentence_12500
+12500_9	ROOT	12500_9
+12500_9	has_surface_form	is
+12500_2	is_in_sentence	sentence_12500
+12500_2	punct	12500_1
+12500_2	has_surface_form	(
+12500_3	is_in_sentence	sentence_12500
+12500_3	acl	12500_1
+12500_3	has_surface_form	born
+12500_4	is_in_sentence	sentence_12500
+12500_4	npadvmod	12500_3
+12500_4	has_surface_form	May
+12500_5	is_in_sentence	sentence_12500
+12500_5	nummod	12500_4
+12500_5	has_surface_form	28
+12500_6	is_in_sentence	sentence_12500
+12500_6	punct	12500_4
+12500_6	has_surface_form	,
+12500_7	is_in_sentence	sentence_12500
+12500_7	nummod	12500_4
+12500_7	has_surface_form	1961
+12500_8	is_in_sentence	sentence_12500
+12500_8	punct	12500_1
+12500_8	has_surface_form	)
+12500_10	is_in_sentence	sentence_12500
+12500_10	det	12500_13
+12500_10	has_surface_form	an
+12500_13	is_in_sentence	sentence_12500
+12500_13	attr	12500_9
+12500_13	has_surface_form	entrepreneur
+12500_11	is_in_sentence	sentence_12500
+12500_11	amod	12500_13
+12500_11	is_entity	American
+American	surface_form	American
+12500_12	is_in_sentence	sentence_12500
+12500_12	amod	12500_13
+12500_12	has_surface_form	social
+12500_14	is_in_sentence	sentence_12500
+12500_14	punct	12500_9
+12500_14	has_surface_form	.
+12500_15	is_in_sentence	sentence_12500
+12500_15	dep	12500_15
+12500_15	has_surface_form	
+Alan Khazei	surface_form	Alan Khazei
+Alan Khazei	has-nationality	American

@@ -1,0 +1,56 @@
+21266_0	is_in_sentence	sentence_21266
+21266_0	compound	21266_1
+21266_0	has_surface_form	Charles
+21266_0	part_of_entity	Charles Gayle
+21266_1	is_in_sentence	sentence_21266
+21266_1	nsubj	21266_9
+21266_1	has_surface_form	Gayle
+21266_1	part_of_entity	Charles Gayle
+21266_9	is_in_sentence	sentence_21266
+21266_9	ROOT	21266_9
+21266_9	has_surface_form	is
+21266_2	is_in_sentence	sentence_21266
+21266_2	punct	21266_1
+21266_2	has_surface_form	(
+21266_3	is_in_sentence	sentence_21266
+21266_3	acl	21266_1
+21266_3	has_surface_form	born
+21266_4	is_in_sentence	sentence_21266
+21266_4	npadvmod	21266_3
+21266_4	has_surface_form	February
+21266_5	is_in_sentence	sentence_21266
+21266_5	nummod	21266_4
+21266_5	has_surface_form	28
+21266_6	is_in_sentence	sentence_21266
+21266_6	punct	21266_4
+21266_6	has_surface_form	,
+21266_7	is_in_sentence	sentence_21266
+21266_7	nummod	21266_4
+21266_7	has_surface_form	1939
+21266_8	is_in_sentence	sentence_21266
+21266_8	punct	21266_1
+21266_8	has_surface_form	)
+21266_10	is_in_sentence	sentence_21266
+21266_10	det	21266_14
+21266_10	has_surface_form	an
+21266_14	is_in_sentence	sentence_21266
+21266_14	attr	21266_9
+21266_14	has_surface_form	musician
+21266_11	is_in_sentence	sentence_21266
+21266_11	amod	21266_14
+21266_11	has_surface_form	American
+21266_12	is_in_sentence	sentence_21266
+21266_12	amod	21266_13
+21266_12	has_surface_form	free
+21266_13	is_in_sentence	sentence_21266
+21266_13	compound	21266_14
+21266_13	is_entity	jazz
+jazz	surface_form	jazz
+21266_15	is_in_sentence	sentence_21266
+21266_15	punct	21266_9
+21266_15	has_surface_form	.
+21266_16	is_in_sentence	sentence_21266
+21266_16	dep	21266_16
+21266_16	has_surface_form	
+Charles Gayle	surface_form	Charles Gayle
+Charles Gayle	has-genre	jazz

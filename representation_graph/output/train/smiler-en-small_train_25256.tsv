@@ -1,0 +1,87 @@
+25255_0	is_in_sentence	sentence_25255
+25255_0	compound	25255_2
+25255_0	has_surface_form	Florida
+25255_0	part_of_entity	Florida State University
+25255_2	is_in_sentence	sentence_25255
+25255_2	nsubj	25255_9
+25255_2	has_surface_form	University
+25255_2	part_of_entity	Florida State University
+25255_1	is_in_sentence	sentence_25255
+25255_1	compound	25255_2
+25255_1	has_surface_form	State
+25255_1	part_of_entity	Florida State University
+25255_9	is_in_sentence	sentence_25255
+25255_9	ROOT	25255_9
+25255_9	has_surface_form	is
+25255_3	is_in_sentence	sentence_25255
+25255_3	punct	25255_2
+25255_3	has_surface_form	(
+25255_4	is_in_sentence	sentence_25255
+25255_4	compound	25255_5
+25255_4	has_surface_form	Florida
+25255_5	is_in_sentence	sentence_25255
+25255_5	appos	25255_2
+25255_5	has_surface_form	State
+25255_6	is_in_sentence	sentence_25255
+25255_6	cc	25255_5
+25255_6	has_surface_form	or
+25255_7	is_in_sentence	sentence_25255
+25255_7	conj	25255_5
+25255_7	has_surface_form	FSU
+25255_8	is_in_sentence	sentence_25255
+25255_8	punct	25255_2
+25255_8	has_surface_form	)
+25255_10	is_in_sentence	sentence_25255
+25255_10	det	25255_20
+25255_10	has_surface_form	a
+25255_20	is_in_sentence	sentence_25255
+25255_20	attr	25255_9
+25255_20	has_surface_form	university
+25255_11	is_in_sentence	sentence_25255
+25255_11	amod	25255_20
+25255_11	has_surface_form	public
+25255_12	is_in_sentence	sentence_25255
+25255_12	nmod	25255_14
+25255_12	has_surface_form	space
+25255_14	is_in_sentence	sentence_25255
+25255_14	nmod	25255_19
+25255_14	has_surface_form	grant
+25255_13	is_in_sentence	sentence_25255
+25255_13	punct	25255_14
+25255_13	has_surface_form	-
+25255_19	is_in_sentence	sentence_25255
+25255_19	compound	25255_20
+25255_19	has_surface_form	research
+25255_15	is_in_sentence	sentence_25255
+25255_15	cc	25255_14
+25255_15	has_surface_form	and
+25255_16	is_in_sentence	sentence_25255
+25255_16	compound	25255_18
+25255_16	has_surface_form	sea
+25255_18	is_in_sentence	sentence_25255
+25255_18	conj	25255_14
+25255_18	has_surface_form	grant
+25255_17	is_in_sentence	sentence_25255
+25255_17	punct	25255_18
+25255_17	has_surface_form	-
+25255_21	is_in_sentence	sentence_25255
+25255_21	prep	25255_20
+25255_21	has_surface_form	in
+25255_22	is_in_sentence	sentence_25255
+25255_22	pobj	25255_21
+25255_22	has_surface_form	Tallahassee
+25255_23	is_in_sentence	sentence_25255
+25255_23	punct	25255_22
+25255_23	has_surface_form	,
+25255_24	is_in_sentence	sentence_25255
+25255_24	appos	25255_22
+25255_24	has_surface_form	Florida
+25255_25	is_in_sentence	sentence_25255
+25255_25	punct	25255_9
+25255_25	has_surface_form	.
+25255_26	is_in_sentence	sentence_25255
+25255_26	dep	25255_9
+25255_26	has_surface_form	
+Florida State University	surface_form	Florida State University
+Florida State University	is-where	Tallahassee, Florida
+Tallahassee, Florida	surface_form	Tallahassee, Florida

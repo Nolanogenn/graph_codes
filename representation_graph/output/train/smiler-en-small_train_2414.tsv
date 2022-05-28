@@ -1,0 +1,91 @@
+2413_0	is_in_sentence	sentence_2413
+2413_0	compound	2413_1
+2413_0	has_surface_form	Adam
+2413_0	part_of_entity	Adam Zejer
+2413_1	is_in_sentence	sentence_2413
+2413_1	nsubj	2413_10
+2413_1	has_surface_form	Zejer
+2413_1	part_of_entity	Adam Zejer
+2413_10	is_in_sentence	sentence_2413
+2413_10	ROOT	2413_10
+2413_10	has_surface_form	is
+2413_2	is_in_sentence	sentence_2413
+2413_2	punct	2413_3
+2413_2	has_surface_form	(
+2413_3	is_in_sentence	sentence_2413
+2413_3	acl	2413_1
+2413_3	has_surface_form	born
+2413_4	is_in_sentence	sentence_2413
+2413_4	nummod	2413_5
+2413_4	has_surface_form	3
+2413_5	is_in_sentence	sentence_2413
+2413_5	npadvmod	2413_3
+2413_5	has_surface_form	November
+2413_6	is_in_sentence	sentence_2413
+2413_6	nummod	2413_5
+2413_6	has_surface_form	1963
+2413_7	is_in_sentence	sentence_2413
+2413_7	prep	2413_3
+2413_7	has_surface_form	in
+2413_8	is_in_sentence	sentence_2413
+2413_8	pobj	2413_7
+2413_8	has_surface_form	Olsztyn
+2413_9	is_in_sentence	sentence_2413
+2413_9	punct	2413_3
+2413_9	has_surface_form	)
+2413_11	is_in_sentence	sentence_2413
+2413_11	det	2413_15
+2413_11	has_surface_form	a
+2413_15	is_in_sentence	sentence_2413
+2413_15	attr	2413_10
+2413_15	has_surface_form	footballer
+2413_12	is_in_sentence	sentence_2413
+2413_12	amod	2413_15
+2413_12	has_surface_form	retired
+2413_13	is_in_sentence	sentence_2413
+2413_13	amod	2413_15
+2413_13	has_surface_form	Polish
+2413_14	is_in_sentence	sentence_2413
+2413_14	amod	2413_15
+2413_14	has_surface_form	professional
+2413_16	is_in_sentence	sentence_2413
+2413_16	nsubj	2413_17
+2413_16	has_surface_form	who
+2413_17	is_in_sentence	sentence_2413
+2413_17	relcl	2413_15
+2413_17	has_surface_form	played
+2413_18	is_in_sentence	sentence_2413
+2413_18	prep	2413_17
+2413_18	has_surface_form	for
+2413_19	is_in_sentence	sentence_2413
+2413_19	compound	2413_20
+2413_19	has_surface_form	Zagłębie
+2413_19	part_of_entity	Zagłębie Lubin
+2413_20	is_in_sentence	sentence_2413
+2413_20	pobj	2413_18
+2413_20	has_surface_form	Lubin
+2413_20	part_of_entity	Zagłębie Lubin
+2413_21	is_in_sentence	sentence_2413
+2413_21	punct	2413_20
+2413_21	has_surface_form	,
+2413_22	is_in_sentence	sentence_2413
+2413_22	compound	2413_23
+2413_22	has_surface_form	Stomil
+2413_23	is_in_sentence	sentence_2413
+2413_23	conj	2413_20
+2413_23	has_surface_form	Olsztyn
+2413_24	is_in_sentence	sentence_2413
+2413_24	punct	2413_23
+2413_24	has_surface_form	,
+2413_25	is_in_sentence	sentence_2413
+2413_25	compound	2413_26
+2413_25	has_surface_form	Beşiktaş
+2413_26	is_in_sentence	sentence_2413
+2413_26	conj	2413_23
+2413_26	has_surface_form	J.
+2413_27	is_in_sentence	sentence_2413
+2413_27	dep	2413_10
+2413_27	has_surface_form	
+Adam Zejer	surface_form	Adam Zejer
+Adam Zejer	is-member-of	Zagłębie Lubin
+Zagłębie Lubin	surface_form	Zagłębie Lubin

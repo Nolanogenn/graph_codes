@@ -1,0 +1,65 @@
+25215_0	is_in_sentence	sentence_25215
+25215_0	compound	25215_1
+25215_0	has_surface_form	Ken
+25215_0	part_of_entity	Ken Watanabe
+25215_1	is_in_sentence	sentence_25215
+25215_1	nsubj	25215_14
+25215_1	has_surface_form	Watanabe
+25215_1	part_of_entity	Ken Watanabe
+25215_14	is_in_sentence	sentence_25215
+25215_14	ROOT	25215_14
+25215_14	has_surface_form	is
+25215_2	is_in_sentence	sentence_25215
+25215_2	punct	25215_1
+25215_2	has_surface_form	(
+25215_3	is_in_sentence	sentence_25215
+25215_3	appos	25215_1
+25215_3	has_surface_form	渡辺
+25215_4	is_in_sentence	sentence_25215
+25215_4	nummod	25215_3
+25215_4	has_surface_form	謙
+25215_5	is_in_sentence	sentence_25215
+25215_5	compound	25215_6
+25215_5	has_surface_form	Watanabe
+25215_6	is_in_sentence	sentence_25215
+25215_6	appos	25215_1
+25215_6	has_surface_form	Ken
+25215_7	is_in_sentence	sentence_25215
+25215_7	punct	25215_6
+25215_7	has_surface_form	,
+25215_8	is_in_sentence	sentence_25215
+25215_8	acl	25215_6
+25215_8	has_surface_form	born
+25215_9	is_in_sentence	sentence_25215
+25215_9	npadvmod	25215_8
+25215_9	has_surface_form	October
+25215_10	is_in_sentence	sentence_25215
+25215_10	nummod	25215_9
+25215_10	has_surface_form	21
+25215_11	is_in_sentence	sentence_25215
+25215_11	punct	25215_9
+25215_11	has_surface_form	,
+25215_12	is_in_sentence	sentence_25215
+25215_12	nummod	25215_9
+25215_12	has_surface_form	1959
+25215_13	is_in_sentence	sentence_25215
+25215_13	punct	25215_6
+25215_13	has_surface_form	)
+25215_15	is_in_sentence	sentence_25215
+25215_15	det	25215_17
+25215_15	has_surface_form	a
+25215_17	is_in_sentence	sentence_25215
+25215_17	attr	25215_14
+25215_17	has_surface_form	actor
+25215_16	is_in_sentence	sentence_25215
+25215_16	amod	25215_17
+25215_16	is_entity	Japanese
+Japanese	surface_form	Japanese
+25215_18	is_in_sentence	sentence_25215
+25215_18	punct	25215_14
+25215_18	has_surface_form	.
+25215_19	is_in_sentence	sentence_25215
+25215_19	dep	25215_19
+25215_19	has_surface_form	
+Ken Watanabe	surface_form	Ken Watanabe
+Ken Watanabe	has-nationality	Japanese

@@ -1,0 +1,72 @@
+2241_0	is_in_sentence	sentence_2241
+2241_0	compound	2241_1
+2241_0	has_surface_form	North
+2241_0	part_of_entity	North Carolina Highway 109
+2241_1	is_in_sentence	sentence_2241
+2241_1	compound	2241_2
+2241_1	has_surface_form	Carolina
+2241_1	part_of_entity	North Carolina Highway 109
+2241_2	is_in_sentence	sentence_2241
+2241_2	nsubj	2241_9
+2241_2	has_surface_form	Highway
+2241_2	part_of_entity	North Carolina Highway 109
+2241_9	is_in_sentence	sentence_2241
+2241_9	ROOT	2241_9
+2241_9	has_surface_form	is
+2241_3	is_in_sentence	sentence_2241
+2241_3	nummod	2241_2
+2241_3	has_surface_form	109
+2241_3	part_of_entity	North Carolina Highway 109
+2241_4	is_in_sentence	sentence_2241
+2241_4	punct	2241_2
+2241_4	has_surface_form	(
+2241_5	is_in_sentence	sentence_2241
+2241_5	appos	2241_2
+2241_5	has_surface_form	NC
+2241_6	is_in_sentence	sentence_2241
+2241_6	dep	2241_5
+2241_6	has_surface_form	 
+2241_7	is_in_sentence	sentence_2241
+2241_7	nummod	2241_5
+2241_7	has_surface_form	109
+2241_8	is_in_sentence	sentence_2241
+2241_8	punct	2241_5
+2241_8	has_surface_form	)
+2241_10	is_in_sentence	sentence_2241
+2241_10	det	2241_15
+2241_10	has_surface_form	a
+2241_15	is_in_sentence	sentence_2241
+2241_15	attr	2241_9
+2241_15	has_surface_form	highway
+2241_15	part_of_entity	state highway
+2241_11	is_in_sentence	sentence_2241
+2241_11	nmod	2241_15
+2241_11	has_surface_form	north
+2241_12	is_in_sentence	sentence_2241
+2241_12	punct	2241_11
+2241_12	has_surface_form	–
+2241_13	is_in_sentence	sentence_2241
+2241_13	compound	2241_14
+2241_13	has_surface_form	south
+2241_14	is_in_sentence	sentence_2241
+2241_14	appos	2241_11
+2241_14	has_surface_form	state
+2241_14	part_of_entity	state highway
+2241_16	is_in_sentence	sentence_2241
+2241_16	prep	2241_15
+2241_16	has_surface_form	in
+2241_17	is_in_sentence	sentence_2241
+2241_17	compound	2241_18
+2241_17	has_surface_form	North
+2241_18	is_in_sentence	sentence_2241
+2241_18	pobj	2241_16
+2241_18	has_surface_form	Carolina
+2241_19	is_in_sentence	sentence_2241
+2241_19	punct	2241_9
+2241_19	has_surface_form	.
+2241_20	is_in_sentence	sentence_2241
+2241_20	dep	2241_9
+2241_20	has_surface_form	
+North Carolina Highway 109	surface_form	North Carolina Highway 109
+North Carolina Highway 109	has-type	state highway
+state highway	surface_form	state highway

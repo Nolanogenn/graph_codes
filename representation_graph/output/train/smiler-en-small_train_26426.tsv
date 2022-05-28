@@ -1,0 +1,59 @@
+26425_0	is_in_sentence	sentence_26425
+26425_0	compound	26425_1
+26425_0	has_surface_form	Don
+26425_0	part_of_entity	Don Diamont
+26425_1	is_in_sentence	sentence_26425
+26425_1	nsubj	26425_12
+26425_1	has_surface_form	Diamont
+26425_1	part_of_entity	Don Diamont
+26425_12	is_in_sentence	sentence_26425
+26425_12	ROOT	26425_12
+26425_12	has_surface_form	is
+26425_2	is_in_sentence	sentence_26425
+26425_2	punct	26425_3
+26425_2	has_surface_form	(
+26425_3	is_in_sentence	sentence_26425
+26425_3	parataxis	26425_1
+26425_3	has_surface_form	born
+26425_4	is_in_sentence	sentence_26425
+26425_4	compound	26425_5
+26425_4	has_surface_form	Donald
+26425_5	is_in_sentence	sentence_26425
+26425_5	dobj	26425_3
+26425_5	has_surface_form	Feinberg
+26425_6	is_in_sentence	sentence_26425
+26425_6	punct	26425_1
+26425_6	has_surface_form	;
+26425_7	is_in_sentence	sentence_26425
+26425_7	appos	26425_1
+26425_7	has_surface_form	December
+26425_8	is_in_sentence	sentence_26425
+26425_8	nummod	26425_7
+26425_8	has_surface_form	31
+26425_9	is_in_sentence	sentence_26425
+26425_9	punct	26425_7
+26425_9	has_surface_form	,
+26425_10	is_in_sentence	sentence_26425
+26425_10	appos	26425_7
+26425_10	has_surface_form	1962
+26425_11	is_in_sentence	sentence_26425
+26425_11	punct	26425_7
+26425_11	has_surface_form	)
+26425_13	is_in_sentence	sentence_26425
+26425_13	det	26425_15
+26425_13	has_surface_form	an
+26425_15	is_in_sentence	sentence_26425
+26425_15	attr	26425_12
+26425_15	is_entity	actor
+26425_14	is_in_sentence	sentence_26425
+26425_14	amod	26425_15
+26425_14	has_surface_form	American
+actor	surface_form	actor
+26425_16	is_in_sentence	sentence_26425
+26425_16	punct	26425_12
+26425_16	has_surface_form	.
+26425_17	is_in_sentence	sentence_26425
+26425_17	dep	26425_12
+26425_17	has_surface_form	
+Don Diamont	surface_form	Don Diamont
+Don Diamont	has-occupation	actor

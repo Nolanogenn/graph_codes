@@ -1,0 +1,62 @@
+16569_0	is_in_sentence	sentence_16569
+16569_0	compound	16569_1
+16569_0	has_surface_form	Bill
+16569_0	part_of_entity	Bill Yeoman
+16569_1	is_in_sentence	sentence_16569
+16569_1	nsubj	16569_9
+16569_1	has_surface_form	Yeoman
+16569_1	part_of_entity	Bill Yeoman
+16569_9	is_in_sentence	sentence_16569
+16569_9	ROOT	16569_9
+16569_9	has_surface_form	is
+16569_2	is_in_sentence	sentence_16569
+16569_2	punct	16569_1
+16569_2	has_surface_form	(
+16569_3	is_in_sentence	sentence_16569
+16569_3	acl	16569_1
+16569_3	has_surface_form	born
+16569_4	is_in_sentence	sentence_16569
+16569_4	npadvmod	16569_3
+16569_4	has_surface_form	December
+16569_5	is_in_sentence	sentence_16569
+16569_5	nummod	16569_4
+16569_5	has_surface_form	26
+16569_6	is_in_sentence	sentence_16569
+16569_6	punct	16569_4
+16569_6	has_surface_form	,
+16569_7	is_in_sentence	sentence_16569
+16569_7	nummod	16569_4
+16569_7	has_surface_form	1927
+16569_8	is_in_sentence	sentence_16569
+16569_8	punct	16569_1
+16569_8	has_surface_form	)
+16569_10	is_in_sentence	sentence_16569
+16569_10	det	16569_14
+16569_10	has_surface_form	a
+16569_14	is_in_sentence	sentence_16569
+16569_14	attr	16569_9
+16569_14	has_surface_form	player
+16569_11	is_in_sentence	sentence_16569
+16569_11	amod	16569_14
+16569_11	has_surface_form	former
+16569_12	is_in_sentence	sentence_16569
+16569_12	amod	16569_14
+16569_12	has_surface_form	American
+16569_13	is_in_sentence	sentence_16569
+16569_13	compound	16569_14
+16569_13	has_surface_form	football
+16569_15	is_in_sentence	sentence_16569
+16569_15	cc	16569_14
+16569_15	has_surface_form	and
+16569_16	is_in_sentence	sentence_16569
+16569_16	conj	16569_14
+16569_16	is_entity	coach
+coach	surface_form	coach
+16569_17	is_in_sentence	sentence_16569
+16569_17	punct	16569_9
+16569_17	has_surface_form	.
+16569_18	is_in_sentence	sentence_16569
+16569_18	dep	16569_18
+16569_18	has_surface_form	
+Bill Yeoman	surface_form	Bill Yeoman
+Bill Yeoman	has-type	coach

@@ -1,0 +1,76 @@
+20586_0	is_in_sentence	sentence_20586
+20586_0	poss	20586_2
+20586_0	has_surface_form	Ahmed
+20586_2	is_in_sentence	sentence_20586
+20586_2	nsubj	20586_12
+20586_2	has_surface_form	granddaughter
+20586_1	is_in_sentence	sentence_20586
+20586_1	case	20586_0
+20586_1	has_surface_form	's
+20586_12	is_in_sentence	sentence_20586
+20586_12	ROOT	20586_12
+20586_12	has_surface_form	is
+20586_3	is_in_sentence	sentence_20586
+20586_3	punct	20586_2
+20586_3	has_surface_form	,
+20586_4	is_in_sentence	sentence_20586
+20586_4	compound	20586_5
+20586_4	has_surface_form	Nashid
+20586_4	part_of_entity	Nashid Kamal
+20586_5	is_in_sentence	sentence_20586
+20586_5	appos	20586_2
+20586_5	has_surface_form	Kamal
+20586_5	part_of_entity	Nashid Kamal
+20586_6	is_in_sentence	sentence_20586
+20586_6	punct	20586_5
+20586_6	has_surface_form	,
+20586_7	is_in_sentence	sentence_20586
+20586_7	appos	20586_5
+20586_7	has_surface_form	daughter
+20586_8	is_in_sentence	sentence_20586
+20586_8	prep	20586_7
+20586_8	has_surface_form	of
+20586_9	is_in_sentence	sentence_20586
+20586_9	compound	20586_10
+20586_9	has_surface_form	Mustafa
+20586_9	part_of_entity	Mustafa Kamal
+20586_10	is_in_sentence	sentence_20586
+20586_10	pobj	20586_8
+20586_10	has_surface_form	Kamal
+20586_10	part_of_entity	Mustafa Kamal
+20586_11	is_in_sentence	sentence_20586
+20586_11	punct	20586_5
+20586_11	has_surface_form	,
+20586_13	is_in_sentence	sentence_20586
+20586_13	det	20586_14
+20586_13	has_surface_form	a
+20586_14	is_in_sentence	sentence_20586
+20586_14	attr	20586_12
+20586_14	has_surface_form	singer
+20586_15	is_in_sentence	sentence_20586
+20586_15	punct	20586_14
+20586_15	has_surface_form	,
+20586_16	is_in_sentence	sentence_20586
+20586_16	appos	20586_14
+20586_16	has_surface_form	professor
+20586_17	is_in_sentence	sentence_20586
+20586_17	prep	20586_16
+20586_17	has_surface_form	of
+20586_18	is_in_sentence	sentence_20586
+20586_18	pobj	20586_17
+20586_18	has_surface_form	demography
+20586_19	is_in_sentence	sentence_20586
+20586_19	cc	20586_18
+20586_19	has_surface_form	and
+20586_20	is_in_sentence	sentence_20586
+20586_20	conj	20586_18
+20586_20	has_surface_form	writer
+20586_21	is_in_sentence	sentence_20586
+20586_21	punct	20586_12
+20586_21	has_surface_form	.
+20586_22	is_in_sentence	sentence_20586
+20586_22	dep	20586_22
+20586_22	has_surface_form	
+Nashid Kamal	surface_form	Nashid Kamal
+Nashid Kamal	has-parent	Mustafa Kamal
+Mustafa Kamal	surface_form	Mustafa Kamal

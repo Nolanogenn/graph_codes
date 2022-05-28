@@ -1,0 +1,67 @@
+9886_0	is_in_sentence	sentence_9886
+9886_0	det	9886_1
+9886_0	has_surface_form	The
+9886_1	is_in_sentence	sentence_9886
+9886_1	nsubj	9886_2
+9886_1	has_surface_form	company
+9886_2	is_in_sentence	sentence_9886
+9886_2	ROOT	9886_2
+9886_2	has_surface_form	unveiled
+9886_3	is_in_sentence	sentence_9886
+9886_3	det	9886_5
+9886_3	has_surface_form	the
+9886_5	is_in_sentence	sentence_9886
+9886_5	dobj	9886_2
+9886_5	has_surface_form	Partners
+9886_5	part_of_entity	Zynga Partners for Mobile
+9886_4	is_in_sentence	sentence_9886
+9886_4	compound	9886_5
+9886_4	is_entity	Zynga
+9886_4	part_of_entity	Zynga Partners for Mobile
+Zynga	surface_form	Zynga
+9886_6	is_in_sentence	sentence_9886
+9886_6	prep	9886_5
+9886_6	has_surface_form	for
+9886_6	part_of_entity	Zynga Partners for Mobile
+9886_7	is_in_sentence	sentence_9886
+9886_7	compound	9886_8
+9886_7	has_surface_form	Mobile
+9886_7	part_of_entity	Zynga Partners for Mobile
+9886_8	is_in_sentence	sentence_9886
+9886_8	pobj	9886_6
+9886_8	has_surface_form	program
+9886_9	is_in_sentence	sentence_9886
+9886_9	aux	9886_10
+9886_9	has_surface_form	to
+9886_10	is_in_sentence	sentence_9886
+9886_10	advcl	9886_2
+9886_10	has_surface_form	help
+9886_11	is_in_sentence	sentence_9886
+9886_11	xcomp	9886_10
+9886_11	has_surface_form	increase
+9886_12	is_in_sentence	sentence_9886
+9886_12	poss	9886_14
+9886_12	is_entity	Zynga
+9886_14	is_in_sentence	sentence_9886
+9886_14	dobj	9886_11
+9886_14	has_surface_form	presence
+9886_13	is_in_sentence	sentence_9886
+9886_13	case	9886_12
+9886_13	has_surface_form	's
+9886_15	is_in_sentence	sentence_9886
+9886_15	prep	9886_14
+9886_15	has_surface_form	on
+9886_16	is_in_sentence	sentence_9886
+9886_16	amod	9886_17
+9886_16	has_surface_form	mobile
+9886_17	is_in_sentence	sentence_9886
+9886_17	pobj	9886_15
+9886_17	has_surface_form	devices
+9886_18	is_in_sentence	sentence_9886
+9886_18	punct	9886_2
+9886_18	has_surface_form	.
+9886_19	is_in_sentence	sentence_9886
+9886_19	dep	9886_19
+9886_19	has_surface_form	
+Zynga Partners for Mobile	surface_form	Zynga Partners for Mobile
+Zynga Partners for Mobile	no_relation	Zynga

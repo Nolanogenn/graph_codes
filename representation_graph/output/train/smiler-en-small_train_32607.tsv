@@ -1,0 +1,80 @@
+32606_0	is_in_sentence	sentence_32606
+32606_0	det	32606_2
+32606_0	has_surface_form	The
+32606_0	part_of_entity	The White Wall
+32606_2	is_in_sentence	sentence_32606
+32606_2	nsubj	32606_10
+32606_2	has_surface_form	Wall
+32606_2	part_of_entity	The White Wall
+32606_1	is_in_sentence	sentence_32606
+32606_1	compound	32606_2
+32606_1	has_surface_form	White
+32606_1	part_of_entity	The White Wall
+32606_10	is_in_sentence	sentence_32606
+32606_10	ROOT	32606_10
+32606_10	has_surface_form	is
+32606_3	is_in_sentence	sentence_32606
+32606_3	punct	32606_2
+32606_3	has_surface_form	(
+32606_4	is_in_sentence	sentence_32606
+32606_4	appos	32606_2
+32606_4	has_surface_form	Swedish
+32606_5	is_in_sentence	sentence_32606
+32606_5	punct	32606_4
+32606_5	has_surface_form	:
+32606_6	is_in_sentence	sentence_32606
+32606_6	compound	32606_8
+32606_6	has_surface_form	Den
+32606_8	is_in_sentence	sentence_32606
+32606_8	appos	32606_4
+32606_8	has_surface_form	väggen
+32606_7	is_in_sentence	sentence_32606
+32606_7	compound	32606_8
+32606_7	has_surface_form	vita
+32606_9	is_in_sentence	sentence_32606
+32606_9	punct	32606_4
+32606_9	has_surface_form	)
+32606_11	is_in_sentence	sentence_32606
+32606_11	det	32606_15
+32606_11	has_surface_form	a
+32606_15	is_in_sentence	sentence_32606
+32606_15	attr	32606_10
+32606_15	has_surface_form	film
+32606_12	is_in_sentence	sentence_32606
+32606_12	nummod	32606_15
+32606_12	has_surface_form	1975
+32606_13	is_in_sentence	sentence_32606
+32606_13	amod	32606_15
+32606_13	has_surface_form	Swedish
+32606_14	is_in_sentence	sentence_32606
+32606_14	compound	32606_15
+32606_14	has_surface_form	drama
+32606_16	is_in_sentence	sentence_32606
+32606_16	acl	32606_15
+32606_16	has_surface_form	written
+32606_17	is_in_sentence	sentence_32606
+32606_17	cc	32606_16
+32606_17	has_surface_form	and
+32606_18	is_in_sentence	sentence_32606
+32606_18	conj	32606_16
+32606_18	has_surface_form	directed
+32606_19	is_in_sentence	sentence_32606
+32606_19	agent	32606_18
+32606_19	has_surface_form	by
+32606_20	is_in_sentence	sentence_32606
+32606_20	compound	32606_21
+32606_20	has_surface_form	Stig
+32606_20	part_of_entity	Stig Björkman
+32606_21	is_in_sentence	sentence_32606
+32606_21	pobj	32606_19
+32606_21	has_surface_form	Björkman
+32606_21	part_of_entity	Stig Björkman
+32606_22	is_in_sentence	sentence_32606
+32606_22	punct	32606_10
+32606_22	has_surface_form	.
+32606_23	is_in_sentence	sentence_32606
+32606_23	dep	32606_23
+32606_23	has_surface_form	
+The White Wall	surface_form	The White Wall
+The White Wall	movie-has-director	Stig Björkman
+Stig Björkman	surface_form	Stig Björkman

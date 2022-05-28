@@ -1,0 +1,80 @@
+15413_0	is_in_sentence	sentence_15413
+15413_0	nsubj	15413_10
+15413_0	has_surface_form	Satan
+15413_0	part_of_entity	Satan in Prison
+15413_10	is_in_sentence	sentence_15413
+15413_10	ROOT	15413_10
+15413_10	has_surface_form	is
+15413_1	is_in_sentence	sentence_15413
+15413_1	prep	15413_0
+15413_1	has_surface_form	in
+15413_1	part_of_entity	Satan in Prison
+15413_2	is_in_sentence	sentence_15413
+15413_2	pobj	15413_1
+15413_2	has_surface_form	Prison
+15413_2	part_of_entity	Satan in Prison
+15413_3	is_in_sentence	sentence_15413
+15413_3	punct	15413_4
+15413_3	has_surface_form	(
+15413_4	is_in_sentence	sentence_15413
+15413_4	appos	15413_0
+15413_4	has_surface_form	French
+15413_5	is_in_sentence	sentence_15413
+15413_5	punct	15413_4
+15413_5	has_surface_form	:
+15413_6	is_in_sentence	sentence_15413
+15413_6	appos	15413_0
+15413_6	has_surface_form	Satan
+15413_7	is_in_sentence	sentence_15413
+15413_7	prep	15413_6
+15413_7	has_surface_form	en
+15413_8	is_in_sentence	sentence_15413
+15413_8	pobj	15413_7
+15413_8	has_surface_form	prison
+15413_9	is_in_sentence	sentence_15413
+15413_9	punct	15413_6
+15413_9	has_surface_form	)
+15413_11	is_in_sentence	sentence_15413
+15413_11	det	15413_15
+15413_11	has_surface_form	a
+15413_15	is_in_sentence	sentence_15413
+15413_15	attr	15413_10
+15413_15	has_surface_form	film
+15413_12	is_in_sentence	sentence_15413
+15413_12	nummod	15413_15
+15413_12	has_surface_form	1907
+15413_13	is_in_sentence	sentence_15413
+15413_13	amod	15413_15
+15413_13	has_surface_form	short
+15413_14	is_in_sentence	sentence_15413
+15413_14	amod	15413_15
+15413_14	has_surface_form	silent
+15413_16	is_in_sentence	sentence_15413
+15413_16	acl	15413_15
+15413_16	has_surface_form	directed
+15413_17	is_in_sentence	sentence_15413
+15413_17	agent	15413_16
+15413_17	has_surface_form	by
+15413_18	is_in_sentence	sentence_15413
+15413_18	cc	15413_16
+15413_18	has_surface_form	and
+15413_19	is_in_sentence	sentence_15413
+15413_19	conj	15413_16
+15413_19	has_surface_form	starring
+15413_20	is_in_sentence	sentence_15413
+15413_20	compound	15413_21
+15413_20	has_surface_form	Georges
+15413_20	part_of_entity	Georges Méliès
+15413_21	is_in_sentence	sentence_15413
+15413_21	dobj	15413_19
+15413_21	has_surface_form	Méliès
+15413_21	part_of_entity	Georges Méliès
+15413_22	is_in_sentence	sentence_15413
+15413_22	punct	15413_10
+15413_22	has_surface_form	.
+15413_23	is_in_sentence	sentence_15413
+15413_23	dep	15413_10
+15413_23	has_surface_form	
+Satan in Prison	surface_form	Satan in Prison
+Satan in Prison	movie-has-director	Georges Méliès
+Georges Méliès	surface_form	Georges Méliès

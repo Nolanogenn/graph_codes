@@ -1,0 +1,76 @@
+10860_0	is_in_sentence	sentence_10860
+10860_0	compound	10860_1
+10860_0	has_surface_form	Annie
+10860_0	part_of_entity	Annie Finch
+10860_1	is_in_sentence	sentence_10860
+10860_1	nsubj	10860_15
+10860_1	has_surface_form	Finch
+10860_1	part_of_entity	Annie Finch
+10860_15	is_in_sentence	sentence_10860
+10860_15	ROOT	10860_15
+10860_15	has_surface_form	is
+10860_2	is_in_sentence	sentence_10860
+10860_2	punct	10860_1
+10860_2	has_surface_form	(
+10860_3	is_in_sentence	sentence_10860
+10860_3	acl	10860_1
+10860_3	has_surface_form	born
+10860_4	is_in_sentence	sentence_10860
+10860_4	npadvmod	10860_3
+10860_4	has_surface_form	October
+10860_5	is_in_sentence	sentence_10860
+10860_5	nummod	10860_4
+10860_5	has_surface_form	31
+10860_6	is_in_sentence	sentence_10860
+10860_6	punct	10860_4
+10860_6	has_surface_form	,
+10860_7	is_in_sentence	sentence_10860
+10860_7	nummod	10860_4
+10860_7	has_surface_form	1956
+10860_8	is_in_sentence	sentence_10860
+10860_8	prep	10860_3
+10860_8	has_surface_form	in
+10860_9	is_in_sentence	sentence_10860
+10860_9	compound	10860_10
+10860_9	has_surface_form	New
+10860_9	part_of_entity	New Rochelle
+10860_10	is_in_sentence	sentence_10860
+10860_10	pobj	10860_8
+10860_10	has_surface_form	Rochelle
+10860_10	part_of_entity	New Rochelle
+10860_11	is_in_sentence	sentence_10860
+10860_11	punct	10860_10
+10860_11	has_surface_form	,
+10860_12	is_in_sentence	sentence_10860
+10860_12	compound	10860_13
+10860_12	has_surface_form	New
+10860_13	is_in_sentence	sentence_10860
+10860_13	appos	10860_10
+10860_13	has_surface_form	York
+10860_14	is_in_sentence	sentence_10860
+10860_14	punct	10860_10
+10860_14	has_surface_form	)
+10860_16	is_in_sentence	sentence_10860
+10860_16	det	10860_18
+10860_16	has_surface_form	an
+10860_18	is_in_sentence	sentence_10860
+10860_18	attr	10860_15
+10860_18	has_surface_form	poet
+10860_17	is_in_sentence	sentence_10860
+10860_17	amod	10860_18
+10860_17	has_surface_form	American
+10860_19	is_in_sentence	sentence_10860
+10860_19	cc	10860_18
+10860_19	has_surface_form	and
+10860_20	is_in_sentence	sentence_10860
+10860_20	conj	10860_18
+10860_20	has_surface_form	writer
+10860_21	is_in_sentence	sentence_10860
+10860_21	punct	10860_15
+10860_21	has_surface_form	.
+10860_22	is_in_sentence	sentence_10860
+10860_22	dep	10860_15
+10860_22	has_surface_form	
+Annie Finch	surface_form	Annie Finch
+Annie Finch	birth-place	New Rochelle
+New Rochelle	surface_form	New Rochelle

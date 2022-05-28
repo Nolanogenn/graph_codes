@@ -1,0 +1,53 @@
+4001_0	is_in_sentence	sentence_4001
+4001_0	det	4001_2
+4001_0	has_surface_form	The
+4001_2	is_in_sentence	sentence_4001
+4001_2	nsubj	4001_8
+4001_2	has_surface_form	lifespan
+4001_1	is_in_sentence	sentence_4001
+4001_1	amod	4001_2
+4001_1	has_surface_form	average
+4001_8	is_in_sentence	sentence_4001
+4001_8	ROOT	4001_8
+4001_8	has_surface_form	is
+4001_3	is_in_sentence	sentence_4001
+4001_3	prep	4001_2
+4001_3	has_surface_form	of
+4001_4	is_in_sentence	sentence_4001
+4001_4	det	4001_7
+4001_4	has_surface_form	a
+4001_7	is_in_sentence	sentence_4001
+4001_7	pobj	4001_3
+4001_7	has_surface_form	deer
+4001_7	part_of_entity	Père David deer
+4001_5	is_in_sentence	sentence_4001
+4001_5	compound	4001_7
+4001_5	has_surface_form	Père
+4001_5	part_of_entity	Père David deer
+4001_6	is_in_sentence	sentence_4001
+4001_6	compound	4001_7
+4001_6	has_surface_form	David
+4001_6	part_of_entity	Père David deer
+4001_9	is_in_sentence	sentence_4001
+4001_9	quantmod	4001_11
+4001_9	has_surface_form	up
+4001_11	is_in_sentence	sentence_4001
+4001_11	nummod	4001_12
+4001_11	has_surface_form	18
+4001_11	part_of_entity	18 years
+4001_10	is_in_sentence	sentence_4001
+4001_10	quantmod	4001_11
+4001_10	has_surface_form	to
+4001_12	is_in_sentence	sentence_4001
+4001_12	attr	4001_8
+4001_12	has_surface_form	years
+4001_12	part_of_entity	18 years
+4001_13	is_in_sentence	sentence_4001
+4001_13	punct	4001_8
+4001_13	has_surface_form	.
+4001_14	is_in_sentence	sentence_4001
+4001_14	dep	4001_14
+4001_14	has_surface_form	
+Père David deer	surface_form	Père David deer
+Père David deer	has-lifespan	18 years
+18 years	surface_form	18 years

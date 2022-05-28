@@ -1,0 +1,76 @@
+20799_0	is_in_sentence	sentence_20799
+20799_0	compound	20799_1
+20799_0	has_surface_form	C.
+20799_0	part_of_entity	C. Radhakrishnan
+20799_1	is_in_sentence	sentence_20799
+20799_1	nsubj	20799_8
+20799_1	has_surface_form	Radhakrishnan
+20799_1	part_of_entity	C. Radhakrishnan
+20799_8	is_in_sentence	sentence_20799
+20799_8	ROOT	20799_8
+20799_8	has_surface_form	is
+20799_2	is_in_sentence	sentence_20799
+20799_2	punct	20799_1
+20799_2	has_surface_form	(
+20799_3	is_in_sentence	sentence_20799
+20799_3	acl	20799_1
+20799_3	has_surface_form	born
+20799_4	is_in_sentence	sentence_20799
+20799_4	nummod	20799_5
+20799_4	has_surface_form	15
+20799_5	is_in_sentence	sentence_20799
+20799_5	npadvmod	20799_3
+20799_5	has_surface_form	February
+20799_6	is_in_sentence	sentence_20799
+20799_6	nummod	20799_5
+20799_6	has_surface_form	1939
+20799_7	is_in_sentence	sentence_20799
+20799_7	punct	20799_1
+20799_7	has_surface_form	)
+20799_9	is_in_sentence	sentence_20799
+20799_9	det	20799_13
+20799_9	has_surface_form	a
+20799_13	is_in_sentence	sentence_20799
+20799_13	attr	20799_8
+20799_13	has_surface_form	director
+20799_13	part_of_entity	film director
+20799_10	is_in_sentence	sentence_20799
+20799_10	nmod	20799_13
+20799_10	has_surface_form	writer
+20799_11	is_in_sentence	sentence_20799
+20799_11	cc	20799_10
+20799_11	has_surface_form	and
+20799_12	is_in_sentence	sentence_20799
+20799_12	conj	20799_10
+20799_12	has_surface_form	film
+20799_12	part_of_entity	film director
+20799_14	is_in_sentence	sentence_20799
+20799_14	prep	20799_13
+20799_14	has_surface_form	in
+20799_15	is_in_sentence	sentence_20799
+20799_15	compound	20799_16
+20799_15	has_surface_form	Malayalam
+20799_16	is_in_sentence	sentence_20799
+20799_16	pobj	20799_14
+20799_16	has_surface_form	language
+20799_17	is_in_sentence	sentence_20799
+20799_17	prep	20799_13
+20799_17	has_surface_form	from
+20799_18	is_in_sentence	sentence_20799
+20799_18	pobj	20799_17
+20799_18	has_surface_form	Kerala
+20799_19	is_in_sentence	sentence_20799
+20799_19	punct	20799_18
+20799_19	has_surface_form	,
+20799_20	is_in_sentence	sentence_20799
+20799_20	appos	20799_18
+20799_20	has_surface_form	India
+20799_21	is_in_sentence	sentence_20799
+20799_21	punct	20799_8
+20799_21	has_surface_form	.
+20799_22	is_in_sentence	sentence_20799
+20799_22	dep	20799_8
+20799_22	has_surface_form	
+C. Radhakrishnan	surface_form	C. Radhakrishnan
+C. Radhakrishnan	has-occupation	film director
+film director	surface_form	film director

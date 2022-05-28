@@ -1,0 +1,79 @@
+23306_0	is_in_sentence	sentence_23306
+23306_0	compound	23306_1
+23306_0	has_surface_form	Pamela
+23306_0	part_of_entity	Pamela Chopra
+23306_1	is_in_sentence	sentence_23306
+23306_1	nsubj	23306_6
+23306_1	has_surface_form	Chopra
+23306_1	part_of_entity	Pamela Chopra
+23306_6	is_in_sentence	sentence_23306
+23306_6	ROOT	23306_6
+23306_6	has_surface_form	is
+23306_2	is_in_sentence	sentence_23306
+23306_2	punct	23306_1
+23306_2	has_surface_form	(
+23306_3	is_in_sentence	sentence_23306
+23306_3	acl	23306_1
+23306_3	has_surface_form	born
+23306_4	is_in_sentence	sentence_23306
+23306_4	npadvmod	23306_3
+23306_4	has_surface_form	1938
+23306_5	is_in_sentence	sentence_23306
+23306_5	punct	23306_1
+23306_5	has_surface_form	)
+23306_7	is_in_sentence	sentence_23306
+23306_7	det	23306_10
+23306_7	has_surface_form	a
+23306_10	is_in_sentence	sentence_23306
+23306_10	attr	23306_6
+23306_10	has_surface_form	singer
+23306_8	is_in_sentence	sentence_23306
+23306_8	compound	23306_10
+23306_8	has_surface_form	Bollywood
+23306_9	is_in_sentence	sentence_23306
+23306_9	compound	23306_10
+23306_9	has_surface_form	playback
+23306_11	is_in_sentence	sentence_23306
+23306_11	punct	23306_6
+23306_11	has_surface_form	.
+23306_12	is_in_sentence	sentence_23306
+23306_12	nsubj	23306_13
+23306_12	has_surface_form	She
+23306_13	is_in_sentence	sentence_23306
+23306_13	ROOT	23306_13
+23306_13	has_surface_form	is
+23306_14	is_in_sentence	sentence_23306
+23306_14	det	23306_15
+23306_14	has_surface_form	the
+23306_15	is_in_sentence	sentence_23306
+23306_15	attr	23306_13
+23306_15	has_surface_form	widow
+23306_16	is_in_sentence	sentence_23306
+23306_16	prep	23306_15
+23306_16	has_surface_form	of
+23306_17	is_in_sentence	sentence_23306
+23306_17	amod	23306_19
+23306_17	has_surface_form	veteran
+23306_19	is_in_sentence	sentence_23306
+23306_19	compound	23306_21
+23306_19	has_surface_form	director
+23306_18	is_in_sentence	sentence_23306
+23306_18	compound	23306_19
+23306_18	has_surface_form	film
+23306_21	is_in_sentence	sentence_23306
+23306_21	pobj	23306_16
+23306_21	has_surface_form	Chopra
+23306_21	part_of_entity	Yash Chopra
+23306_20	is_in_sentence	sentence_23306
+23306_20	compound	23306_21
+23306_20	has_surface_form	Yash
+23306_20	part_of_entity	Yash Chopra
+23306_22	is_in_sentence	sentence_23306
+23306_22	punct	23306_13
+23306_22	has_surface_form	.
+23306_23	is_in_sentence	sentence_23306
+23306_23	dep	23306_13
+23306_23	has_surface_form	
+Pamela Chopra	surface_form	Pamela Chopra
+Pamela Chopra	has-spouse	Yash Chopra
+Yash Chopra	surface_form	Yash Chopra

@@ -1,0 +1,60 @@
+31374_0	is_in_sentence	sentence_31374
+31374_0	compound	31374_2
+31374_0	has_surface_form	Y
+31374_0	part_of_entity	Y C McNease
+31374_2	is_in_sentence	sentence_31374
+31374_2	nsubj	31374_8
+31374_2	has_surface_form	McNease
+31374_2	part_of_entity	Y C McNease
+31374_1	is_in_sentence	sentence_31374
+31374_1	compound	31374_2
+31374_1	has_surface_form	C
+31374_1	part_of_entity	Y C McNease
+31374_8	is_in_sentence	sentence_31374
+31374_8	ROOT	31374_8
+31374_8	has_surface_form	is
+31374_3	is_in_sentence	sentence_31374
+31374_3	punct	31374_2
+31374_3	has_surface_form	(
+31374_4	is_in_sentence	sentence_31374
+31374_4	acl	31374_2
+31374_4	has_surface_form	born
+31374_5	is_in_sentence	sentence_31374
+31374_5	npadvmod	31374_4
+31374_5	has_surface_form	c.
+31374_6	is_in_sentence	sentence_31374
+31374_6	nummod	31374_5
+31374_6	has_surface_form	1936
+31374_7	is_in_sentence	sentence_31374
+31374_7	punct	31374_2
+31374_7	has_surface_form	)
+31374_9	is_in_sentence	sentence_31374
+31374_9	det	31374_14
+31374_9	has_surface_form	a
+31374_14	is_in_sentence	sentence_31374
+31374_14	attr	31374_8
+31374_14	has_surface_form	coach
+31374_14	part_of_entity	college football coach
+31374_10	is_in_sentence	sentence_31374
+31374_10	amod	31374_14
+31374_10	has_surface_form	former
+31374_11	is_in_sentence	sentence_31374
+31374_11	amod	31374_14
+31374_11	has_surface_form	American
+31374_12	is_in_sentence	sentence_31374
+31374_12	compound	31374_13
+31374_12	has_surface_form	college
+31374_12	part_of_entity	college football coach
+31374_13	is_in_sentence	sentence_31374
+31374_13	compound	31374_14
+31374_13	has_surface_form	football
+31374_13	part_of_entity	college football coach
+31374_15	is_in_sentence	sentence_31374
+31374_15	punct	31374_8
+31374_15	has_surface_form	.
+31374_16	is_in_sentence	sentence_31374
+31374_16	dep	31374_16
+31374_16	has_surface_form	
+Y C McNease	surface_form	Y C McNease
+Y C McNease	has-type	college football coach
+college football coach	surface_form	college football coach

@@ -1,0 +1,71 @@
+256_0	is_in_sentence	sentence_256
+256_0	compound	256_1
+256_0	has_surface_form	St.
+256_0	part_of_entity	St. Clair County Community College
+256_1	is_in_sentence	sentence_256
+256_1	compound	256_2
+256_1	has_surface_form	Clair
+256_1	part_of_entity	St. Clair County Community College
+256_2	is_in_sentence	sentence_256
+256_2	compound	256_3
+256_2	has_surface_form	County
+256_2	part_of_entity	St. Clair County Community College
+256_3	is_in_sentence	sentence_256
+256_3	nmod	256_4
+256_3	has_surface_form	Community
+256_3	part_of_entity	St. Clair County Community College
+256_4	is_in_sentence	sentence_256
+256_4	nmod	256_6
+256_4	has_surface_form	College
+256_4	part_of_entity	St. Clair County Community College
+256_6	is_in_sentence	sentence_256
+256_6	nsubj	256_8
+256_6	has_surface_form	SC4
+256_5	is_in_sentence	sentence_256
+256_5	punct	256_6
+256_5	has_surface_form	(
+256_8	is_in_sentence	sentence_256
+256_8	ROOT	256_8
+256_8	has_surface_form	is
+256_7	is_in_sentence	sentence_256
+256_7	punct	256_6
+256_7	has_surface_form	)
+256_9	is_in_sentence	sentence_256
+256_9	det	256_12
+256_9	has_surface_form	a
+256_12	is_in_sentence	sentence_256
+256_12	attr	256_8
+256_12	has_surface_form	college
+256_12	part_of_entity	public community college
+256_10	is_in_sentence	sentence_256
+256_10	amod	256_11
+256_10	has_surface_form	public
+256_10	part_of_entity	public community college
+256_11	is_in_sentence	sentence_256
+256_11	compound	256_12
+256_11	has_surface_form	community
+256_11	part_of_entity	public community college
+256_13	is_in_sentence	sentence_256
+256_13	prep	256_12
+256_13	has_surface_form	in
+256_14	is_in_sentence	sentence_256
+256_14	compound	256_15
+256_14	has_surface_form	Port
+256_15	is_in_sentence	sentence_256
+256_15	pobj	256_13
+256_15	has_surface_form	Huron
+256_16	is_in_sentence	sentence_256
+256_16	punct	256_15
+256_16	has_surface_form	,
+256_17	is_in_sentence	sentence_256
+256_17	appos	256_15
+256_17	has_surface_form	Michigan
+256_18	is_in_sentence	sentence_256
+256_18	punct	256_8
+256_18	has_surface_form	.
+256_19	is_in_sentence	sentence_256
+256_19	dep	256_8
+256_19	has_surface_form	
+St. Clair County Community College	surface_form	St. Clair County Community College
+St. Clair County Community College	has-type	public community college
+public community college	surface_form	public community college

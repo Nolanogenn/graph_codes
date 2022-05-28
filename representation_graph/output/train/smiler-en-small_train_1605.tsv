@@ -1,0 +1,67 @@
+1604_0	is_in_sentence	sentence_1604
+1604_0	compound	1604_1
+1604_0	has_surface_form	Dick
+1604_0	part_of_entity	Dick Halterman
+1604_1	is_in_sentence	sentence_1604
+1604_1	nsubj	1604_9
+1604_1	has_surface_form	Halterman
+1604_1	part_of_entity	Dick Halterman
+1604_9	is_in_sentence	sentence_1604
+1604_9	ROOT	1604_9
+1604_9	has_surface_form	is
+1604_2	is_in_sentence	sentence_1604
+1604_2	punct	1604_1
+1604_2	has_surface_form	(
+1604_3	is_in_sentence	sentence_1604
+1604_3	acl	1604_1
+1604_3	has_surface_form	born
+1604_4	is_in_sentence	sentence_1604
+1604_4	npadvmod	1604_3
+1604_4	has_surface_form	April
+1604_5	is_in_sentence	sentence_1604
+1604_5	nummod	1604_4
+1604_5	has_surface_form	28
+1604_6	is_in_sentence	sentence_1604
+1604_6	punct	1604_4
+1604_6	has_surface_form	,
+1604_7	is_in_sentence	sentence_1604
+1604_7	nummod	1604_4
+1604_7	has_surface_form	1947
+1604_8	is_in_sentence	sentence_1604
+1604_8	punct	1604_1
+1604_8	has_surface_form	)
+1604_10	is_in_sentence	sentence_1604
+1604_10	det	1604_14
+1604_10	has_surface_form	a
+1604_14	is_in_sentence	sentence_1604
+1604_14	poss	1604_17
+1604_14	has_surface_form	women
+1604_11	is_in_sentence	sentence_1604
+1604_11	amod	1604_14
+1604_11	has_surface_form	former
+1604_12	is_in_sentence	sentence_1604
+1604_12	amod	1604_14
+1604_12	has_surface_form	American
+1604_13	is_in_sentence	sentence_1604
+1604_13	amod	1604_14
+1604_13	has_surface_form	collegiate
+1604_17	is_in_sentence	sentence_1604
+1604_17	attr	1604_9
+1604_17	has_surface_form	coach
+1604_17	part_of_entity	basketball coach
+1604_15	is_in_sentence	sentence_1604
+1604_15	case	1604_14
+1604_15	has_surface_form	's
+1604_16	is_in_sentence	sentence_1604
+1604_16	compound	1604_17
+1604_16	has_surface_form	basketball
+1604_16	part_of_entity	basketball coach
+1604_18	is_in_sentence	sentence_1604
+1604_18	punct	1604_9
+1604_18	has_surface_form	.
+1604_19	is_in_sentence	sentence_1604
+1604_19	dep	1604_19
+1604_19	has_surface_form	
+Dick Halterman	surface_form	Dick Halterman
+Dick Halterman	has-type	basketball coach
+basketball coach	surface_form	basketball coach

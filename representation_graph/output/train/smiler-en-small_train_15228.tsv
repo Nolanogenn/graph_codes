@@ -1,0 +1,95 @@
+15227_0	is_in_sentence	sentence_15227
+15227_0	amod	15227_2
+15227_0	has_surface_form	Little
+15227_0	part_of_entity	Little Buddy Doyle
+15227_2	is_in_sentence	sentence_15227
+15227_2	nsubj	15227_10
+15227_2	has_surface_form	Doyle
+15227_2	part_of_entity	Little Buddy Doyle
+15227_1	is_in_sentence	sentence_15227
+15227_1	compound	15227_2
+15227_1	has_surface_form	Buddy
+15227_1	part_of_entity	Little Buddy Doyle
+15227_10	is_in_sentence	sentence_15227
+15227_10	ROOT	15227_10
+15227_10	has_surface_form	died
+15227_3	is_in_sentence	sentence_15227
+15227_3	punct	15227_2
+15227_3	has_surface_form	(
+15227_4	is_in_sentence	sentence_15227
+15227_4	acl	15227_2
+15227_4	has_surface_form	born
+15227_5	is_in_sentence	sentence_15227
+15227_5	npadvmod	15227_4
+15227_5	has_surface_form	March
+15227_6	is_in_sentence	sentence_15227
+15227_6	nummod	15227_5
+15227_6	has_surface_form	20
+15227_7	is_in_sentence	sentence_15227
+15227_7	punct	15227_5
+15227_7	has_surface_form	,
+15227_8	is_in_sentence	sentence_15227
+15227_8	nummod	15227_5
+15227_8	has_surface_form	1911
+15227_9	is_in_sentence	sentence_15227
+15227_9	punct	15227_2
+15227_9	has_surface_form	;
+15227_11	is_in_sentence	sentence_15227
+15227_11	npadvmod	15227_10
+15227_11	has_surface_form	c.
+15227_12	is_in_sentence	sentence_15227
+15227_12	nummod	15227_11
+15227_12	has_surface_form	1960
+15227_13	is_in_sentence	sentence_15227
+15227_13	punct	15227_10
+15227_13	has_surface_form	)
+15227_14	is_in_sentence	sentence_15227
+15227_14	dep	15227_10
+15227_14	has_surface_form	was
+15227_15	is_in_sentence	sentence_15227
+15227_15	det	15227_18
+15227_15	has_surface_form	an
+15227_18	is_in_sentence	sentence_15227
+15227_18	attr	15227_14
+15227_18	has_surface_form	blues
+15227_16	is_in_sentence	sentence_15227
+15227_16	compound	15227_17
+15227_16	has_surface_form	American
+15227_17	is_in_sentence	sentence_15227
+15227_17	compound	15227_18
+15227_17	has_surface_form	Memphis
+15227_19	is_in_sentence	sentence_15227
+15227_19	cc	15227_18
+15227_19	has_surface_form	and
+15227_20	is_in_sentence	sentence_15227
+15227_20	compound	15227_21
+15227_20	has_surface_form	country
+15227_20	part_of_entity	country blues
+15227_21	is_in_sentence	sentence_15227
+15227_21	compound	15227_22
+15227_21	has_surface_form	blues
+15227_21	part_of_entity	country blues
+15227_22	is_in_sentence	sentence_15227
+15227_22	conj	15227_18
+15227_22	has_surface_form	guitarist
+15227_23	is_in_sentence	sentence_15227
+15227_23	punct	15227_22
+15227_23	has_surface_form	,
+15227_24	is_in_sentence	sentence_15227
+15227_24	conj	15227_22
+15227_24	has_surface_form	singer
+15227_25	is_in_sentence	sentence_15227
+15227_25	cc	15227_24
+15227_25	has_surface_form	and
+15227_26	is_in_sentence	sentence_15227
+15227_26	conj	15227_24
+15227_26	has_surface_form	songwriter
+15227_27	is_in_sentence	sentence_15227
+15227_27	punct	15227_10
+15227_27	has_surface_form	.
+15227_28	is_in_sentence	sentence_15227
+15227_28	dep	15227_28
+15227_28	has_surface_form	
+Little Buddy Doyle	surface_form	Little Buddy Doyle
+Little Buddy Doyle	has-genre	country blues
+country blues	surface_form	country blues

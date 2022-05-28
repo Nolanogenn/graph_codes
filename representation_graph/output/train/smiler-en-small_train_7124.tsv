@@ -1,0 +1,65 @@
+7123_0	is_in_sentence	sentence_7123
+7123_0	compound	7123_2
+7123_0	has_surface_form	Marine
+7123_0	part_of_entity	Marine Fighter Attack Squadron 351
+7123_2	is_in_sentence	sentence_7123
+7123_2	compound	7123_3
+7123_2	has_surface_form	Attack
+7123_2	part_of_entity	Marine Fighter Attack Squadron 351
+7123_1	is_in_sentence	sentence_7123
+7123_1	compound	7123_2
+7123_1	has_surface_form	Fighter
+7123_1	part_of_entity	Marine Fighter Attack Squadron 351
+7123_3	is_in_sentence	sentence_7123
+7123_3	nsubj	7123_8
+7123_3	has_surface_form	Squadron
+7123_3	part_of_entity	Marine Fighter Attack Squadron 351
+7123_8	is_in_sentence	sentence_7123
+7123_8	ROOT	7123_8
+7123_8	has_surface_form	was
+7123_4	is_in_sentence	sentence_7123
+7123_4	nummod	7123_3
+7123_4	has_surface_form	351
+7123_4	part_of_entity	Marine Fighter Attack Squadron 351
+7123_5	is_in_sentence	sentence_7123
+7123_5	punct	7123_4
+7123_5	has_surface_form	(
+7123_6	is_in_sentence	sentence_7123
+7123_6	appos	7123_4
+7123_6	has_surface_form	VMFA-351
+7123_7	is_in_sentence	sentence_7123
+7123_7	punct	7123_4
+7123_7	has_surface_form	)
+7123_9	is_in_sentence	sentence_7123
+7123_9	det	7123_11
+7123_9	has_surface_form	a
+7123_11	is_in_sentence	sentence_7123
+7123_11	attr	7123_8
+7123_11	is_entity	squadron
+7123_10	is_in_sentence	sentence_7123
+7123_10	compound	7123_11
+7123_10	has_surface_form	fighter
+squadron	surface_form	squadron
+7123_12	is_in_sentence	sentence_7123
+7123_12	prep	7123_11
+7123_12	has_surface_form	in
+7123_13	is_in_sentence	sentence_7123
+7123_13	det	7123_16
+7123_13	has_surface_form	the
+7123_16	is_in_sentence	sentence_7123
+7123_16	pobj	7123_12
+7123_16	has_surface_form	Reserve
+7123_14	is_in_sentence	sentence_7123
+7123_14	compound	7123_15
+7123_14	has_surface_form	Marine
+7123_15	is_in_sentence	sentence_7123
+7123_15	compound	7123_16
+7123_15	has_surface_form	Forces
+7123_17	is_in_sentence	sentence_7123
+7123_17	punct	7123_8
+7123_17	has_surface_form	.
+7123_18	is_in_sentence	sentence_7123
+7123_18	dep	7123_8
+7123_18	has_surface_form	
+Marine Fighter Attack Squadron 351	surface_form	Marine Fighter Attack Squadron 351
+Marine Fighter Attack Squadron 351	has-type	squadron

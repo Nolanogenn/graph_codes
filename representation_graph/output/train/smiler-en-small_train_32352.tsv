@@ -1,0 +1,59 @@
+32351_0	is_in_sentence	sentence_32351
+32351_0	amod	32351_4
+32351_0	has_surface_form	Commercial
+32351_4	is_in_sentence	sentence_32351
+32351_4	nsubjpass	32351_6
+32351_4	has_surface_form	machines
+32351_4	part_of_entity	popcorn machines
+32351_1	is_in_sentence	sentence_32351
+32351_1	amod	32351_2
+32351_1	has_surface_form	large
+32351_2	is_in_sentence	sentence_32351
+32351_2	compound	32351_3
+32351_2	has_surface_form	scale
+32351_3	is_in_sentence	sentence_32351
+32351_3	compound	32351_4
+32351_3	has_surface_form	popcorn
+32351_3	part_of_entity	popcorn machines
+32351_6	is_in_sentence	sentence_32351
+32351_6	ROOT	32351_6
+32351_6	has_surface_form	invented
+32351_5	is_in_sentence	sentence_32351
+32351_5	auxpass	32351_6
+32351_5	has_surface_form	were
+32351_7	is_in_sentence	sentence_32351
+32351_7	agent	32351_6
+32351_7	has_surface_form	by
+32351_8	is_in_sentence	sentence_32351
+32351_8	compound	32351_9
+32351_8	has_surface_form	Charles
+32351_9	is_in_sentence	sentence_32351
+32351_9	pobj	32351_7
+32351_9	has_surface_form	Cretors
+32351_10	is_in_sentence	sentence_32351
+32351_10	prep	32351_6
+32351_10	has_surface_form	in
+32351_11	is_in_sentence	sentence_32351
+32351_11	det	32351_14
+32351_11	has_surface_form	the
+32351_14	is_in_sentence	sentence_32351
+32351_14	pobj	32351_10
+32351_14	has_surface_form	century
+32351_14	part_of_entity	Late 19th century
+32351_12	is_in_sentence	sentence_32351
+32351_12	amod	32351_14
+32351_12	has_surface_form	Late
+32351_12	part_of_entity	Late 19th century
+32351_13	is_in_sentence	sentence_32351
+32351_13	amod	32351_14
+32351_13	has_surface_form	19th
+32351_13	part_of_entity	Late 19th century
+32351_15	is_in_sentence	sentence_32351
+32351_15	punct	32351_6
+32351_15	has_surface_form	.
+32351_16	is_in_sentence	sentence_32351
+32351_16	dep	32351_16
+32351_16	has_surface_form	
+popcorn machines	surface_form	popcorn machines
+popcorn machines	invented-when	Late 19th century
+Late 19th century	surface_form	Late 19th century

@@ -1,0 +1,65 @@
+33303_0	is_in_sentence	sentence_33303
+33303_0	compound	33303_1
+33303_0	has_surface_form	Garry
+33303_0	part_of_entity	Garry Schyman
+33303_1	is_in_sentence	sentence_33303
+33303_1	nsubj	33303_6
+33303_1	has_surface_form	Schyman
+33303_1	part_of_entity	Garry Schyman
+33303_6	is_in_sentence	sentence_33303
+33303_6	ROOT	33303_6
+33303_6	has_surface_form	is
+33303_2	is_in_sentence	sentence_33303
+33303_2	punct	33303_1
+33303_2	has_surface_form	(
+33303_3	is_in_sentence	sentence_33303
+33303_3	acl	33303_1
+33303_3	has_surface_form	born
+33303_4	is_in_sentence	sentence_33303
+33303_4	npadvmod	33303_3
+33303_4	has_surface_form	1954
+33303_5	is_in_sentence	sentence_33303
+33303_5	punct	33303_1
+33303_5	has_surface_form	)
+33303_7	is_in_sentence	sentence_33303
+33303_7	det	33303_9
+33303_7	has_surface_form	an
+33303_9	is_in_sentence	sentence_33303
+33303_9	attr	33303_6
+33303_9	has_surface_form	film
+33303_8	is_in_sentence	sentence_33303
+33303_8	amod	33303_9
+33303_8	has_surface_form	American
+33303_10	is_in_sentence	sentence_33303
+33303_10	punct	33303_9
+33303_10	has_surface_form	,
+33303_11	is_in_sentence	sentence_33303
+33303_11	conj	33303_9
+33303_11	has_surface_form	television
+33303_12	is_in_sentence	sentence_33303
+33303_12	punct	33303_11
+33303_12	has_surface_form	,
+33303_13	is_in_sentence	sentence_33303
+33303_13	cc	33303_11
+33303_13	has_surface_form	and
+33303_14	is_in_sentence	sentence_33303
+33303_14	compound	33303_15
+33303_14	has_surface_form	video
+33303_15	is_in_sentence	sentence_33303
+33303_15	compound	33303_16
+33303_15	has_surface_form	game
+33303_16	is_in_sentence	sentence_33303
+33303_16	compound	33303_17
+33303_16	has_surface_form	music
+33303_17	is_in_sentence	sentence_33303
+33303_17	conj	33303_11
+33303_17	is_entity	composer
+composer	surface_form	composer
+33303_18	is_in_sentence	sentence_33303
+33303_18	punct	33303_6
+33303_18	has_surface_form	.
+33303_19	is_in_sentence	sentence_33303
+33303_19	dep	33303_6
+33303_19	has_surface_form	
+Garry Schyman	surface_form	Garry Schyman
+Garry Schyman	has-occupation	composer

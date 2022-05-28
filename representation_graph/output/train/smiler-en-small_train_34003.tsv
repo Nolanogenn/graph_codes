@@ -1,0 +1,59 @@
+34002_0	is_in_sentence	sentence_34002
+34002_0	det	34002_2
+34002_0	has_surface_form	The
+34002_2	is_in_sentence	sentence_34002
+34002_2	nsubj	34002_6
+34002_2	has_surface_form	Memorial
+34002_2	part_of_entity	War Memorial of Montreal West
+34002_1	is_in_sentence	sentence_34002
+34002_1	compound	34002_2
+34002_1	has_surface_form	War
+34002_1	part_of_entity	War Memorial of Montreal West
+34002_6	is_in_sentence	sentence_34002
+34002_6	ROOT	34002_6
+34002_6	has_surface_form	is
+34002_3	is_in_sentence	sentence_34002
+34002_3	prep	34002_2
+34002_3	has_surface_form	of
+34002_3	part_of_entity	War Memorial of Montreal West
+34002_4	is_in_sentence	sentence_34002
+34002_4	compound	34002_5
+34002_4	has_surface_form	Montreal
+34002_4	part_of_entity	War Memorial of Montreal West
+34002_5	is_in_sentence	sentence_34002
+34002_5	pobj	34002_3
+34002_5	has_surface_form	West
+34002_5	part_of_entity	War Memorial of Montreal West
+34002_7	is_in_sentence	sentence_34002
+34002_7	det	34002_8
+34002_7	has_surface_form	a
+34002_8	is_in_sentence	sentence_34002
+34002_8	attr	34002_6
+34002_8	is_entity	monument
+monument	surface_form	monument
+34002_9	is_in_sentence	sentence_34002
+34002_9	prep	34002_8
+34002_9	has_surface_form	in
+34002_10	is_in_sentence	sentence_34002
+34002_10	pobj	34002_9
+34002_10	has_surface_form	Montreal
+34002_11	is_in_sentence	sentence_34002
+34002_11	punct	34002_10
+34002_11	has_surface_form	,
+34002_12	is_in_sentence	sentence_34002
+34002_12	conj	34002_10
+34002_12	has_surface_form	Quebec
+34002_13	is_in_sentence	sentence_34002
+34002_13	punct	34002_12
+34002_13	has_surface_form	,
+34002_14	is_in_sentence	sentence_34002
+34002_14	appos	34002_12
+34002_14	has_surface_form	Canada
+34002_15	is_in_sentence	sentence_34002
+34002_15	punct	34002_6
+34002_15	has_surface_form	.
+34002_16	is_in_sentence	sentence_34002
+34002_16	dep	34002_6
+34002_16	has_surface_form	
+War Memorial of Montreal West	surface_form	War Memorial of Montreal West
+War Memorial of Montreal West	has-type	monument

@@ -1,0 +1,37 @@
+9614_0	is_in_sentence	sentence_9614
+9614_0	compound	9614_1
+9614_0	has_surface_form	Mark
+9614_0	part_of_entity	Mark Peach
+9614_1	is_in_sentence	sentence_9614
+9614_1	nsubj	9614_2
+9614_1	has_surface_form	Peach
+9614_1	part_of_entity	Mark Peach
+9614_2	is_in_sentence	sentence_9614
+9614_2	ROOT	9614_2
+9614_2	has_surface_form	is
+9614_3	is_in_sentence	sentence_9614
+9614_3	det	9614_7
+9614_3	has_surface_form	a
+9614_7	is_in_sentence	sentence_9614
+9614_7	attr	9614_2
+9614_7	has_surface_form	coach
+9614_7	part_of_entity	football coach
+9614_4	is_in_sentence	sentence_9614
+9614_4	amod	9614_7
+9614_4	has_surface_form	former
+9614_5	is_in_sentence	sentence_9614
+9614_5	amod	9614_7
+9614_5	has_surface_form	American
+9614_6	is_in_sentence	sentence_9614
+9614_6	compound	9614_7
+9614_6	has_surface_form	football
+9614_6	part_of_entity	football coach
+9614_8	is_in_sentence	sentence_9614
+9614_8	punct	9614_2
+9614_8	has_surface_form	.
+9614_9	is_in_sentence	sentence_9614
+9614_9	dep	9614_9
+9614_9	has_surface_form	
+Mark Peach	surface_form	Mark Peach
+Mark Peach	has-type	football coach
+football coach	surface_form	football coach

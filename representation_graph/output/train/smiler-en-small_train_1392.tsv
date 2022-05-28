@@ -1,0 +1,101 @@
+1391_0	is_in_sentence	sentence_1391
+1391_0	compound	1391_1
+1391_0	has_surface_form	Pennsylvania
+1391_0	part_of_entity	Pennsylvania Route 410
+1391_1	is_in_sentence	sentence_1391
+1391_1	nsubj	1391_7
+1391_1	has_surface_form	Route
+1391_1	part_of_entity	Pennsylvania Route 410
+1391_7	is_in_sentence	sentence_1391
+1391_7	ROOT	1391_7
+1391_7	has_surface_form	is
+1391_2	is_in_sentence	sentence_1391
+1391_2	nummod	1391_1
+1391_2	has_surface_form	410
+1391_2	part_of_entity	Pennsylvania Route 410
+1391_3	is_in_sentence	sentence_1391
+1391_3	punct	1391_1
+1391_3	has_surface_form	(
+1391_4	is_in_sentence	sentence_1391
+1391_4	appos	1391_1
+1391_4	has_surface_form	PA
+1391_5	is_in_sentence	sentence_1391
+1391_5	nummod	1391_4
+1391_5	has_surface_form	410
+1391_6	is_in_sentence	sentence_1391
+1391_6	punct	1391_4
+1391_6	has_surface_form	)
+1391_8	is_in_sentence	sentence_1391
+1391_8	det	1391_20
+1391_8	has_surface_form	a
+1391_20	is_in_sentence	sentence_1391
+1391_20	attr	1391_7
+1391_20	has_surface_form	highway
+1391_20	part_of_entity	state highway
+1391_9	is_in_sentence	sentence_1391
+1391_9	nummod	1391_11
+1391_9	has_surface_form	9
+1391_11	is_in_sentence	sentence_1391
+1391_11	npadvmod	1391_13
+1391_11	has_surface_form	mile
+1391_10	is_in_sentence	sentence_1391
+1391_10	punct	1391_11
+1391_10	has_surface_form	-
+1391_13	is_in_sentence	sentence_1391
+1391_13	amod	1391_20
+1391_13	has_surface_form	long
+1391_12	is_in_sentence	sentence_1391
+1391_12	punct	1391_13
+1391_12	has_surface_form	-
+1391_14	is_in_sentence	sentence_1391
+1391_14	punct	1391_20
+1391_14	has_surface_form	(
+1391_15	is_in_sentence	sentence_1391
+1391_15	nummod	1391_20
+1391_15	has_surface_form	14
+1391_16	is_in_sentence	sentence_1391
+1391_16	dep	1391_20
+1391_16	has_surface_form	 
+1391_17	is_in_sentence	sentence_1391
+1391_17	nmod	1391_20
+1391_17	has_surface_form	km
+1391_18	is_in_sentence	sentence_1391
+1391_18	punct	1391_20
+1391_18	has_surface_form	)
+1391_19	is_in_sentence	sentence_1391
+1391_19	compound	1391_20
+1391_19	has_surface_form	state
+1391_19	part_of_entity	state highway
+1391_21	is_in_sentence	sentence_1391
+1391_21	acl	1391_20
+1391_21	has_surface_form	located
+1391_22	is_in_sentence	sentence_1391
+1391_22	prep	1391_21
+1391_22	has_surface_form	in
+1391_23	is_in_sentence	sentence_1391
+1391_23	pobj	1391_22
+1391_23	has_surface_form	Jefferson
+1391_24	is_in_sentence	sentence_1391
+1391_24	cc	1391_23
+1391_24	has_surface_form	and
+1391_25	is_in_sentence	sentence_1391
+1391_25	compound	1391_26
+1391_25	has_surface_form	Clearfield
+1391_26	is_in_sentence	sentence_1391
+1391_26	conj	1391_23
+1391_26	has_surface_form	Counties
+1391_27	is_in_sentence	sentence_1391
+1391_27	prep	1391_21
+1391_27	has_surface_form	in
+1391_28	is_in_sentence	sentence_1391
+1391_28	pobj	1391_27
+1391_28	has_surface_form	Pennsylvania
+1391_29	is_in_sentence	sentence_1391
+1391_29	punct	1391_7
+1391_29	has_surface_form	.
+1391_30	is_in_sentence	sentence_1391
+1391_30	dep	1391_30
+1391_30	has_surface_form	
+Pennsylvania Route 410	surface_form	Pennsylvania Route 410
+Pennsylvania Route 410	has-type	state highway
+state highway	surface_form	state highway

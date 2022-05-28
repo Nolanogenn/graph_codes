@@ -1,0 +1,50 @@
+31168_0	is_in_sentence	sentence_31168
+31168_0	compound	31168_1
+31168_0	has_surface_form	Jennie
+31168_0	part_of_entity	Jennie Fields
+31168_1	is_in_sentence	sentence_31168
+31168_1	nsubj	31168_9
+31168_1	has_surface_form	Fields
+31168_1	part_of_entity	Jennie Fields
+31168_9	is_in_sentence	sentence_31168
+31168_9	ROOT	31168_9
+31168_9	has_surface_form	is
+31168_2	is_in_sentence	sentence_31168
+31168_2	punct	31168_1
+31168_2	has_surface_form	(
+31168_3	is_in_sentence	sentence_31168
+31168_3	acl	31168_1
+31168_3	has_surface_form	born
+31168_4	is_in_sentence	sentence_31168
+31168_4	npadvmod	31168_3
+31168_4	has_surface_form	July
+31168_5	is_in_sentence	sentence_31168
+31168_5	nummod	31168_4
+31168_5	has_surface_form	25
+31168_6	is_in_sentence	sentence_31168
+31168_6	punct	31168_4
+31168_6	has_surface_form	,
+31168_7	is_in_sentence	sentence_31168
+31168_7	nummod	31168_4
+31168_7	has_surface_form	1953
+31168_8	is_in_sentence	sentence_31168
+31168_8	punct	31168_1
+31168_8	has_surface_form	)
+31168_10	is_in_sentence	sentence_31168
+31168_10	det	31168_12
+31168_10	has_surface_form	an
+31168_12	is_in_sentence	sentence_31168
+31168_12	attr	31168_9
+31168_12	is_entity	novelist
+31168_11	is_in_sentence	sentence_31168
+31168_11	amod	31168_12
+31168_11	has_surface_form	American
+novelist	surface_form	novelist
+31168_13	is_in_sentence	sentence_31168
+31168_13	punct	31168_9
+31168_13	has_surface_form	.
+31168_14	is_in_sentence	sentence_31168
+31168_14	dep	31168_9
+31168_14	has_surface_form	
+Jennie Fields	surface_form	Jennie Fields
+Jennie Fields	has-occupation	novelist

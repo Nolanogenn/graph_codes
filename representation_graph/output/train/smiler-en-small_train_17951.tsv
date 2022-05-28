@@ -1,0 +1,101 @@
+17950_0	is_in_sentence	sentence_17950
+17950_0	compound	17950_1
+17950_0	has_surface_form	Spicy
+17950_0	part_of_entity	Spicy Chile
+17950_1	is_in_sentence	sentence_17950
+17950_1	nsubj	17950_8
+17950_1	has_surface_form	Chile
+17950_1	part_of_entity	Spicy Chile
+17950_8	is_in_sentence	sentence_17950
+17950_8	ROOT	17950_8
+17950_8	has_surface_form	is
+17950_2	is_in_sentence	sentence_17950
+17950_2	punct	17950_3
+17950_2	has_surface_form	(
+17950_3	is_in_sentence	sentence_17950
+17950_3	appos	17950_1
+17950_3	has_surface_form	Spanish
+17950_4	is_in_sentence	sentence_17950
+17950_4	punct	17950_3
+17950_4	has_surface_form	:
+17950_5	is_in_sentence	sentence_17950
+17950_5	compound	17950_6
+17950_5	has_surface_form	Chile
+17950_6	is_in_sentence	sentence_17950
+17950_6	appos	17950_3
+17950_6	has_surface_form	picante
+17950_7	is_in_sentence	sentence_17950
+17950_7	punct	17950_3
+17950_7	has_surface_form	)
+17950_9	is_in_sentence	sentence_17950
+17950_9	det	17950_13
+17950_9	has_surface_form	a
+17950_13	is_in_sentence	sentence_17950
+17950_13	attr	17950_8
+17950_13	has_surface_form	film
+17950_10	is_in_sentence	sentence_17950
+17950_10	nummod	17950_13
+17950_10	has_surface_form	1983
+17950_11	is_in_sentence	sentence_17950
+17950_11	amod	17950_13
+17950_11	has_surface_form	Mexican
+17950_12	is_in_sentence	sentence_17950
+17950_12	compound	17950_13
+17950_12	has_surface_form	comedy
+17950_14	is_in_sentence	sentence_17950
+17950_14	acl	17950_13
+17950_14	has_surface_form	directed
+17950_15	is_in_sentence	sentence_17950
+17950_15	agent	17950_14
+17950_15	has_surface_form	by
+17950_16	is_in_sentence	sentence_17950
+17950_16	compound	17950_18
+17950_16	has_surface_form	René
+17950_16	part_of_entity	René Cardona Jr.
+17950_18	is_in_sentence	sentence_17950
+17950_18	pobj	17950_15
+17950_18	has_surface_form	Jr.
+17950_18	part_of_entity	René Cardona Jr.
+17950_17	is_in_sentence	sentence_17950
+17950_17	compound	17950_18
+17950_17	has_surface_form	Cardona
+17950_17	part_of_entity	René Cardona Jr.
+17950_19	is_in_sentence	sentence_17950
+17950_19	cc	17950_14
+17950_19	has_surface_form	and
+17950_20	is_in_sentence	sentence_17950
+17950_20	conj	17950_14
+17950_20	has_surface_form	starring
+17950_21	is_in_sentence	sentence_17950
+17950_21	compound	17950_22
+17950_21	has_surface_form	Andrés
+17950_22	is_in_sentence	sentence_17950
+17950_22	dobj	17950_20
+17950_22	has_surface_form	García
+17950_23	is_in_sentence	sentence_17950
+17950_23	punct	17950_22
+17950_23	has_surface_form	,
+17950_24	is_in_sentence	sentence_17950
+17950_24	compound	17950_25
+17950_24	has_surface_form	Angélica
+17950_25	is_in_sentence	sentence_17950
+17950_25	conj	17950_22
+17950_25	has_surface_form	Chain
+17950_26	is_in_sentence	sentence_17950
+17950_26	cc	17950_25
+17950_26	has_surface_form	and
+17950_27	is_in_sentence	sentence_17950
+17950_27	conj	17950_25
+17950_27	has_surface_form	Alberto
+17950_28	is_in_sentence	sentence_17950
+17950_28	dobj	17950_20
+17950_28	has_surface_form	Rojas
+17950_29	is_in_sentence	sentence_17950
+17950_29	punct	17950_8
+17950_29	has_surface_form	.
+17950_30	is_in_sentence	sentence_17950
+17950_30	dep	17950_8
+17950_30	has_surface_form	
+Spicy Chile	surface_form	Spicy Chile
+Spicy Chile	movie-has-director	René Cardona Jr.
+René Cardona Jr.	surface_form	René Cardona Jr.

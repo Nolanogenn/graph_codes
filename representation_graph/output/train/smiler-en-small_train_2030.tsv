@@ -1,0 +1,86 @@
+2029_0	is_in_sentence	sentence_2029
+2029_0	compound	2029_2
+2029_0	has_surface_form	Sapporo
+2029_0	part_of_entity	Sapporo Medical University
+2029_2	is_in_sentence	sentence_2029
+2029_2	nsubj	2029_10
+2029_2	has_surface_form	University
+2029_2	part_of_entity	Sapporo Medical University
+2029_1	is_in_sentence	sentence_2029
+2029_1	compound	2029_2
+2029_1	has_surface_form	Medical
+2029_1	part_of_entity	Sapporo Medical University
+2029_10	is_in_sentence	sentence_2029
+2029_10	ROOT	2029_10
+2029_10	has_surface_form	is
+2029_3	is_in_sentence	sentence_2029
+2029_3	punct	2029_2
+2029_3	has_surface_form	(
+2029_4	is_in_sentence	sentence_2029
+2029_4	nsubj	2029_3
+2029_4	has_surface_form	札幌医科大学
+2029_5	is_in_sentence	sentence_2029
+2029_5	punct	2029_4
+2029_5	has_surface_form	,
+2029_6	is_in_sentence	sentence_2029
+2029_6	appos	2029_2
+2029_6	has_surface_form	Sapporo
+2029_7	is_in_sentence	sentence_2029
+2029_7	nmod	2029_8
+2029_7	has_surface_form	ika
+2029_8	is_in_sentence	sentence_2029
+2029_8	appos	2029_6
+2029_8	has_surface_form	daigaku
+2029_9	is_in_sentence	sentence_2029
+2029_9	punct	2029_6
+2029_9	has_surface_form	)
+2029_11	is_in_sentence	sentence_2029
+2029_11	det	2029_13
+2029_11	has_surface_form	a
+2029_13	is_in_sentence	sentence_2029
+2029_13	attr	2029_10
+2029_13	has_surface_form	university
+2029_13	part_of_entity	public university
+2029_12	is_in_sentence	sentence_2029
+2029_12	amod	2029_13
+2029_12	has_surface_form	public
+2029_12	part_of_entity	public university
+2029_14	is_in_sentence	sentence_2029
+2029_14	prep	2029_13
+2029_14	has_surface_form	in
+2029_15	is_in_sentence	sentence_2029
+2029_15	compound	2029_17
+2029_15	has_surface_form	Chūō
+2029_17	is_in_sentence	sentence_2029
+2029_17	pobj	2029_14
+2029_17	has_surface_form	ku
+2029_16	is_in_sentence	sentence_2029
+2029_16	punct	2029_17
+2029_16	has_surface_form	-
+2029_18	is_in_sentence	sentence_2029
+2029_18	punct	2029_17
+2029_18	has_surface_form	,
+2029_19	is_in_sentence	sentence_2029
+2029_19	conj	2029_17
+2029_19	has_surface_form	Sapporo
+2029_20	is_in_sentence	sentence_2029
+2029_20	punct	2029_19
+2029_20	has_surface_form	,
+2029_21	is_in_sentence	sentence_2029
+2029_21	conj	2029_19
+2029_21	has_surface_form	Hokkaidō
+2029_22	is_in_sentence	sentence_2029
+2029_22	punct	2029_21
+2029_22	has_surface_form	,
+2029_23	is_in_sentence	sentence_2029
+2029_23	conj	2029_21
+2029_23	has_surface_form	Japan
+2029_24	is_in_sentence	sentence_2029
+2029_24	punct	2029_10
+2029_24	has_surface_form	.
+2029_25	is_in_sentence	sentence_2029
+2029_25	dep	2029_10
+2029_25	has_surface_form	
+Sapporo Medical University	surface_form	Sapporo Medical University
+Sapporo Medical University	has-type	public university
+public university	surface_form	public university

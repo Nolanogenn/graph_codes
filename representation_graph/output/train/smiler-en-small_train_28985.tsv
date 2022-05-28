@@ -1,0 +1,53 @@
+28984_0	is_in_sentence	sentence_28984
+28984_0	compound	28984_2
+28984_0	has_surface_form	Turriff
+28984_0	part_of_entity	Turriff Cottage Hospital
+28984_2	is_in_sentence	sentence_28984
+28984_2	nsubj	28984_3
+28984_2	has_surface_form	Hospital
+28984_2	part_of_entity	Turriff Cottage Hospital
+28984_1	is_in_sentence	sentence_28984
+28984_1	compound	28984_2
+28984_1	has_surface_form	Cottage
+28984_1	part_of_entity	Turriff Cottage Hospital
+28984_3	is_in_sentence	sentence_28984
+28984_3	ROOT	28984_3
+28984_3	has_surface_form	is
+28984_4	is_in_sentence	sentence_28984
+28984_4	det	28984_6
+28984_4	has_surface_form	a
+28984_6	is_in_sentence	sentence_28984
+28984_6	attr	28984_3
+28984_6	has_surface_form	hospital
+28984_6	part_of_entity	community hospital
+28984_5	is_in_sentence	sentence_28984
+28984_5	compound	28984_6
+28984_5	has_surface_form	community
+28984_5	part_of_entity	community hospital
+28984_7	is_in_sentence	sentence_28984
+28984_7	prep	28984_6
+28984_7	has_surface_form	in
+28984_8	is_in_sentence	sentence_28984
+28984_8	pobj	28984_7
+28984_8	has_surface_form	Turriff
+28984_9	is_in_sentence	sentence_28984
+28984_9	punct	28984_8
+28984_9	has_surface_form	,
+28984_10	is_in_sentence	sentence_28984
+28984_10	conj	28984_8
+28984_10	has_surface_form	Aberdeenshire
+28984_11	is_in_sentence	sentence_28984
+28984_11	punct	28984_10
+28984_11	has_surface_form	,
+28984_12	is_in_sentence	sentence_28984
+28984_12	appos	28984_10
+28984_12	has_surface_form	Scotland
+28984_13	is_in_sentence	sentence_28984
+28984_13	punct	28984_3
+28984_13	has_surface_form	.
+28984_14	is_in_sentence	sentence_28984
+28984_14	dep	28984_3
+28984_14	has_surface_form	
+Turriff Cottage Hospital	surface_form	Turriff Cottage Hospital
+Turriff Cottage Hospital	has-type	community hospital
+community hospital	surface_form	community hospital

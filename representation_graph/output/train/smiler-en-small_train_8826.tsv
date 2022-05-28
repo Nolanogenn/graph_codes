@@ -1,0 +1,66 @@
+8825_0	is_in_sentence	sentence_8825
+8825_0	compound	8825_2
+8825_0	has_surface_form	Bath
+8825_0	part_of_entity	Bath Local School District
+8825_2	is_in_sentence	sentence_8825
+8825_2	compound	8825_3
+8825_2	has_surface_form	School
+8825_2	part_of_entity	Bath Local School District
+8825_1	is_in_sentence	sentence_8825
+8825_1	compound	8825_2
+8825_1	has_surface_form	Local
+8825_1	part_of_entity	Bath Local School District
+8825_3	is_in_sentence	sentence_8825
+8825_3	nsubj	8825_4
+8825_3	has_surface_form	District
+8825_3	part_of_entity	Bath Local School District
+8825_4	is_in_sentence	sentence_8825
+8825_4	ROOT	8825_4
+8825_4	has_surface_form	is
+8825_5	is_in_sentence	sentence_8825
+8825_5	det	8825_8
+8825_5	has_surface_form	a
+8825_8	is_in_sentence	sentence_8825
+8825_8	attr	8825_4
+8825_8	has_surface_form	system
+8825_6	is_in_sentence	sentence_8825
+8825_6	amod	8825_7
+8825_6	has_surface_form	public
+8825_7	is_in_sentence	sentence_8825
+8825_7	compound	8825_8
+8825_7	has_surface_form	school
+8825_9	is_in_sentence	sentence_8825
+8825_9	acl	8825_8
+8825_9	has_surface_form	located
+8825_10	is_in_sentence	sentence_8825
+8825_10	prep	8825_9
+8825_10	has_surface_form	in
+8825_11	is_in_sentence	sentence_8825
+8825_11	compound	8825_12
+8825_11	has_surface_form	Bath
+8825_11	part_of_entity	Bath Township
+8825_12	is_in_sentence	sentence_8825
+8825_12	pobj	8825_10
+8825_12	has_surface_form	Township
+8825_12	part_of_entity	Bath Township
+8825_13	is_in_sentence	sentence_8825
+8825_13	prep	8825_12
+8825_13	has_surface_form	near
+8825_14	is_in_sentence	sentence_8825
+8825_14	pobj	8825_13
+8825_14	has_surface_form	Lima
+8825_15	is_in_sentence	sentence_8825
+8825_15	punct	8825_14
+8825_15	has_surface_form	,
+8825_16	is_in_sentence	sentence_8825
+8825_16	appos	8825_14
+8825_16	has_surface_form	Ohio
+8825_17	is_in_sentence	sentence_8825
+8825_17	punct	8825_4
+8825_17	has_surface_form	.
+8825_18	is_in_sentence	sentence_8825
+8825_18	dep	8825_4
+8825_18	has_surface_form	
+Bath Local School District	surface_form	Bath Local School District
+Bath Local School District	is-where	Bath Township
+Bath Township	surface_form	Bath Township

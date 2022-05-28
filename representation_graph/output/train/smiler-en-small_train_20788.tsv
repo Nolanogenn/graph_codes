@@ -1,0 +1,59 @@
+20787_0	is_in_sentence	sentence_20787
+20787_0	compound	20787_1
+20787_0	has_surface_form	Florence
+20787_0	part_of_entity	Florence Gilbert
+20787_1	is_in_sentence	sentence_20787
+20787_1	poss	20787_4
+20787_1	has_surface_form	Gilbert
+20787_1	part_of_entity	Florence Gilbert
+20787_4	is_in_sentence	sentence_20787
+20787_4	nsubj	20787_5
+20787_4	has_surface_form	husband
+20787_2	is_in_sentence	sentence_20787
+20787_2	case	20787_1
+20787_2	has_surface_form	's
+20787_3	is_in_sentence	sentence_20787
+20787_3	amod	20787_4
+20787_3	has_surface_form	third
+20787_5	is_in_sentence	sentence_20787
+20787_5	ROOT	20787_5
+20787_5	has_surface_form	was
+20787_6	is_in_sentence	sentence_20787
+20787_6	compound	20787_8
+20787_6	has_surface_form	Albert
+20787_6	part_of_entity	Albert S. Chase
+20787_8	is_in_sentence	sentence_20787
+20787_8	attr	20787_5
+20787_8	has_surface_form	Chase
+20787_8	part_of_entity	Albert S. Chase
+20787_7	is_in_sentence	sentence_20787
+20787_7	compound	20787_8
+20787_7	has_surface_form	S.
+20787_7	part_of_entity	Albert S. Chase
+20787_9	is_in_sentence	sentence_20787
+20787_9	nsubj	20787_11
+20787_9	has_surface_form	who
+20787_11	is_in_sentence	sentence_20787
+20787_11	relcl	20787_8
+20787_11	has_surface_form	adopted
+20787_10	is_in_sentence	sentence_20787
+20787_10	advmod	20787_11
+20787_10	has_surface_form	legally
+20787_12	is_in_sentence	sentence_20787
+20787_12	det	20787_14
+20787_12	has_surface_form	both
+20787_14	is_in_sentence	sentence_20787
+20787_14	dobj	20787_11
+20787_14	has_surface_form	children
+20787_13	is_in_sentence	sentence_20787
+20787_13	poss	20787_14
+20787_13	has_surface_form	her
+20787_15	is_in_sentence	sentence_20787
+20787_15	punct	20787_5
+20787_15	has_surface_form	.
+20787_16	is_in_sentence	sentence_20787
+20787_16	dep	20787_16
+20787_16	has_surface_form	
+Florence Gilbert	surface_form	Florence Gilbert
+Florence Gilbert	has-spouse	Albert S. Chase
+Albert S. Chase	surface_form	Albert S. Chase

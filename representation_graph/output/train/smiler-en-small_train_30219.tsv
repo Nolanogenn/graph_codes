@@ -1,0 +1,56 @@
+30218_0	is_in_sentence	sentence_30218
+30218_0	compound	30218_1
+30218_0	has_surface_form	Rain
+30218_0	part_of_entity	Rain Pryor
+30218_1	is_in_sentence	sentence_30218
+30218_1	nsubj	30218_9
+30218_1	has_surface_form	Pryor
+30218_1	part_of_entity	Rain Pryor
+30218_9	is_in_sentence	sentence_30218
+30218_9	ROOT	30218_9
+30218_9	has_surface_form	is
+30218_2	is_in_sentence	sentence_30218
+30218_2	punct	30218_1
+30218_2	has_surface_form	(
+30218_3	is_in_sentence	sentence_30218
+30218_3	acl	30218_1
+30218_3	has_surface_form	born
+30218_4	is_in_sentence	sentence_30218
+30218_4	npadvmod	30218_3
+30218_4	has_surface_form	July
+30218_5	is_in_sentence	sentence_30218
+30218_5	nummod	30218_4
+30218_5	has_surface_form	16
+30218_6	is_in_sentence	sentence_30218
+30218_6	punct	30218_4
+30218_6	has_surface_form	,
+30218_7	is_in_sentence	sentence_30218
+30218_7	nummod	30218_4
+30218_7	has_surface_form	1969
+30218_8	is_in_sentence	sentence_30218
+30218_8	punct	30218_1
+30218_8	has_surface_form	)
+30218_10	is_in_sentence	sentence_30218
+30218_10	det	30218_12
+30218_10	has_surface_form	an
+30218_12	is_in_sentence	sentence_30218
+30218_12	attr	30218_9
+30218_12	has_surface_form	actress
+30218_11	is_in_sentence	sentence_30218
+30218_11	amod	30218_12
+30218_11	has_surface_form	American
+30218_13	is_in_sentence	sentence_30218
+30218_13	cc	30218_12
+30218_13	has_surface_form	and
+30218_14	is_in_sentence	sentence_30218
+30218_14	conj	30218_12
+30218_14	is_entity	comedian
+comedian	surface_form	comedian
+30218_15	is_in_sentence	sentence_30218
+30218_15	punct	30218_9
+30218_15	has_surface_form	.
+30218_16	is_in_sentence	sentence_30218
+30218_16	dep	30218_16
+30218_16	has_surface_form	
+Rain Pryor	surface_form	Rain Pryor
+Rain Pryor	has-occupation	comedian

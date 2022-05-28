@@ -1,0 +1,85 @@
+9271_0	is_in_sentence	sentence_9271
+9271_0	compound	9271_1
+9271_0	has_surface_form	Rick
+9271_0	part_of_entity	Rick Comley
+9271_1	is_in_sentence	sentence_9271
+9271_1	nsubj	9271_9
+9271_1	has_surface_form	Comley
+9271_1	part_of_entity	Rick Comley
+9271_9	is_in_sentence	sentence_9271
+9271_9	ROOT	9271_9
+9271_9	has_surface_form	is
+9271_2	is_in_sentence	sentence_9271
+9271_2	punct	9271_1
+9271_2	has_surface_form	(
+9271_3	is_in_sentence	sentence_9271
+9271_3	acl	9271_1
+9271_3	has_surface_form	born
+9271_4	is_in_sentence	sentence_9271
+9271_4	npadvmod	9271_3
+9271_4	has_surface_form	January
+9271_5	is_in_sentence	sentence_9271
+9271_5	nummod	9271_4
+9271_5	has_surface_form	20
+9271_6	is_in_sentence	sentence_9271
+9271_6	punct	9271_4
+9271_6	has_surface_form	,
+9271_7	is_in_sentence	sentence_9271
+9271_7	nummod	9271_4
+9271_7	has_surface_form	1947
+9271_8	is_in_sentence	sentence_9271
+9271_8	punct	9271_1
+9271_8	has_surface_form	)
+9271_10	is_in_sentence	sentence_9271
+9271_10	det	9271_15
+9271_10	has_surface_form	a
+9271_15	is_in_sentence	sentence_9271
+9271_15	attr	9271_9
+9271_15	has_surface_form	player
+9271_11	is_in_sentence	sentence_9271
+9271_11	amod	9271_15
+9271_11	has_surface_form	former
+9271_12	is_in_sentence	sentence_9271
+9271_12	amod	9271_15
+9271_12	has_surface_form	collegiate
+9271_13	is_in_sentence	sentence_9271
+9271_13	compound	9271_14
+9271_13	has_surface_form	ice
+9271_14	is_in_sentence	sentence_9271
+9271_14	compound	9271_15
+9271_14	has_surface_form	hockey
+9271_16	is_in_sentence	sentence_9271
+9271_16	cc	9271_15
+9271_16	has_surface_form	and
+9271_17	is_in_sentence	sentence_9271
+9271_17	amod	9271_19
+9271_17	has_surface_form	former
+9271_19	is_in_sentence	sentence_9271
+9271_19	conj	9271_15
+9271_19	has_surface_form	coach
+9271_19	part_of_entity	head coach
+9271_18	is_in_sentence	sentence_9271
+9271_18	compound	9271_19
+9271_18	has_surface_form	head
+9271_18	part_of_entity	head coach
+9271_20	is_in_sentence	sentence_9271
+9271_20	prep	9271_19
+9271_20	has_surface_form	at
+9271_21	is_in_sentence	sentence_9271
+9271_21	compound	9271_23
+9271_21	has_surface_form	Michigan
+9271_23	is_in_sentence	sentence_9271
+9271_23	pobj	9271_20
+9271_23	has_surface_form	University
+9271_22	is_in_sentence	sentence_9271
+9271_22	compound	9271_23
+9271_22	has_surface_form	State
+9271_24	is_in_sentence	sentence_9271
+9271_24	punct	9271_9
+9271_24	has_surface_form	.
+9271_25	is_in_sentence	sentence_9271
+9271_25	dep	9271_9
+9271_25	has_surface_form	
+Rick Comley	surface_form	Rick Comley
+Rick Comley	has-type	head coach
+head coach	surface_form	head coach

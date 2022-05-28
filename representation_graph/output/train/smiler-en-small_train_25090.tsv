@@ -1,0 +1,87 @@
+25089_0	is_in_sentence	sentence_25089
+25089_0	poss	25089_2
+25089_0	has_surface_form	His
+25089_0	part_of_entity	His Highness Love
+25089_2	is_in_sentence	sentence_25089
+25089_2	nsubj	25089_10
+25089_2	has_surface_form	Love
+25089_2	part_of_entity	His Highness Love
+25089_1	is_in_sentence	sentence_25089
+25089_1	compound	25089_2
+25089_1	has_surface_form	Highness
+25089_1	part_of_entity	His Highness Love
+25089_10	is_in_sentence	sentence_25089
+25089_10	ROOT	25089_10
+25089_10	has_surface_form	is
+25089_3	is_in_sentence	sentence_25089
+25089_3	punct	25089_4
+25089_3	has_surface_form	(
+25089_4	is_in_sentence	sentence_25089
+25089_4	appos	25089_2
+25089_4	has_surface_form	French
+25089_5	is_in_sentence	sentence_25089
+25089_5	punct	25089_4
+25089_5	has_surface_form	:
+25089_6	is_in_sentence	sentence_25089
+25089_6	compound	25089_8
+25089_6	has_surface_form	Son
+25089_8	is_in_sentence	sentence_25089
+25089_8	appos	25089_4
+25089_8	has_surface_form	l'amour
+25089_7	is_in_sentence	sentence_25089
+25089_7	compound	25089_8
+25089_7	has_surface_form	altesse
+25089_9	is_in_sentence	sentence_25089
+25089_9	punct	25089_4
+25089_9	has_surface_form	)
+25089_11	is_in_sentence	sentence_25089
+25089_11	det	25089_15
+25089_11	has_surface_form	a
+25089_15	is_in_sentence	sentence_25089
+25089_15	attr	25089_10
+25089_15	has_surface_form	film
+25089_12	is_in_sentence	sentence_25089
+25089_12	nummod	25089_15
+25089_12	has_surface_form	1931
+25089_13	is_in_sentence	sentence_25089
+25089_13	amod	25089_15
+25089_13	has_surface_form	German
+25089_14	is_in_sentence	sentence_25089
+25089_14	compound	25089_15
+25089_14	has_surface_form	comedy
+25089_16	is_in_sentence	sentence_25089
+25089_16	acl	25089_15
+25089_16	has_surface_form	directed
+25089_17	is_in_sentence	sentence_25089
+25089_17	agent	25089_16
+25089_17	has_surface_form	by
+25089_18	is_in_sentence	sentence_25089
+25089_18	compound	25089_19
+25089_18	has_surface_form	Robert
+25089_19	is_in_sentence	sentence_25089
+25089_19	pobj	25089_17
+25089_19	has_surface_form	Péguy
+25089_20	is_in_sentence	sentence_25089
+25089_20	punct	25089_19
+25089_20	has_surface_form	,
+25089_21	is_in_sentence	sentence_25089
+25089_21	compound	25089_22
+25089_21	has_surface_form	Erich
+25089_22	is_in_sentence	sentence_25089
+25089_22	appos	25089_19
+25089_22	has_surface_form	Schmidt
+25089_23	is_in_sentence	sentence_25089
+25089_23	cc	25089_22
+25089_23	has_surface_form	and
+25089_24	is_in_sentence	sentence_25089
+25089_24	compound	25089_25
+25089_24	has_surface_form	Joe
+25089_25	is_in_sentence	sentence_25089
+25089_25	conj	25089_22
+25089_25	has_surface_form	May.
+25089_26	is_in_sentence	sentence_25089
+25089_26	dep	25089_10
+25089_26	has_surface_form	
+His Highness Love	surface_form	His Highness Love
+His Highness Love	movie-has-director	Joe May
+Joe May	surface_form	Joe May

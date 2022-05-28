@@ -1,0 +1,50 @@
+5781_0	is_in_sentence	sentence_5781
+5781_0	det	5781_2
+5781_0	has_surface_form	The
+5781_2	is_in_sentence	sentence_5781
+5781_2	nsubj	5781_9
+5781_2	has_surface_form	game
+5781_1	is_in_sentence	sentence_5781
+5781_1	amod	5781_2
+5781_1	has_surface_form	first
+5781_9	is_in_sentence	sentence_5781
+5781_9	ROOT	5781_9
+5781_9	has_surface_form	was
+5781_3	is_in_sentence	sentence_5781
+5781_3	acl	5781_2
+5781_3	has_surface_form	developed
+5781_4	is_in_sentence	sentence_5781
+5781_4	prep	5781_3
+5781_4	has_surface_form	under
+5781_5	is_in_sentence	sentence_5781
+5781_5	det	5781_8
+5781_5	has_surface_form	the
+5781_8	is_in_sentence	sentence_5781
+5781_8	pobj	5781_4
+5781_8	has_surface_form	moniker
+5781_6	is_in_sentence	sentence_5781
+5781_6	compound	5781_7
+5781_6	has_surface_form	Cryo
+5781_6	part_of_entity	Cryo Interactive
+5781_7	is_in_sentence	sentence_5781
+5781_7	compound	5781_8
+5781_7	has_surface_form	Interactive
+5781_7	part_of_entity	Cryo Interactive
+5781_10	is_in_sentence	sentence_5781
+5781_10	det	5781_12
+5781_10	has_surface_form	the
+5781_12	is_in_sentence	sentence_5781
+5781_12	attr	5781_9
+5781_12	is_entity	Dune
+5781_11	is_in_sentence	sentence_5781
+5781_11	amod	5781_12
+5781_11	has_surface_form	hit
+Dune	surface_form	Dune
+5781_13	is_in_sentence	sentence_5781
+5781_13	punct	5781_9
+5781_13	has_surface_form	.
+5781_14	is_in_sentence	sentence_5781
+5781_14	dep	5781_14
+5781_14	has_surface_form	
+Cryo Interactive	surface_form	Cryo Interactive
+Cryo Interactive	first-product	Dune

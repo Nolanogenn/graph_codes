@@ -1,0 +1,62 @@
+9512_0	is_in_sentence	sentence_9512
+9512_0	compound	9512_1
+9512_0	has_surface_form	Elizabeth
+9512_0	part_of_entity	Elizabeth Moon
+9512_1	is_in_sentence	sentence_9512
+9512_1	nsubj	9512_9
+9512_1	has_surface_form	Moon
+9512_1	part_of_entity	Elizabeth Moon
+9512_9	is_in_sentence	sentence_9512
+9512_9	ROOT	9512_9
+9512_9	has_surface_form	is
+9512_2	is_in_sentence	sentence_9512
+9512_2	punct	9512_1
+9512_2	has_surface_form	(
+9512_3	is_in_sentence	sentence_9512
+9512_3	acl	9512_1
+9512_3	has_surface_form	born
+9512_4	is_in_sentence	sentence_9512
+9512_4	npadvmod	9512_3
+9512_4	has_surface_form	March
+9512_5	is_in_sentence	sentence_9512
+9512_5	nummod	9512_4
+9512_5	has_surface_form	7
+9512_6	is_in_sentence	sentence_9512
+9512_6	punct	9512_4
+9512_6	has_surface_form	,
+9512_7	is_in_sentence	sentence_9512
+9512_7	nummod	9512_4
+9512_7	has_surface_form	1945
+9512_8	is_in_sentence	sentence_9512
+9512_8	punct	9512_1
+9512_8	has_surface_form	)
+9512_10	is_in_sentence	sentence_9512
+9512_10	det	9512_13
+9512_10	has_surface_form	an
+9512_13	is_in_sentence	sentence_9512
+9512_13	attr	9512_9
+9512_13	has_surface_form	fiction
+9512_11	is_in_sentence	sentence_9512
+9512_11	amod	9512_13
+9512_11	has_surface_form	American
+9512_12	is_in_sentence	sentence_9512
+9512_12	compound	9512_13
+9512_12	has_surface_form	science
+9512_14	is_in_sentence	sentence_9512
+9512_14	cc	9512_13
+9512_14	has_surface_form	and
+9512_15	is_in_sentence	sentence_9512
+9512_15	compound	9512_16
+9512_15	is_entity	fantasy
+9512_16	is_in_sentence	sentence_9512
+9512_16	conj	9512_13
+9512_16	has_surface_form	writer
+fantasy	surface_form	fantasy
+9512_17	is_in_sentence	sentence_9512
+9512_17	punct	9512_9
+9512_17	has_surface_form	.
+9512_18	is_in_sentence	sentence_9512
+9512_18	dep	9512_9
+9512_18	has_surface_form	
+Elizabeth Moon	surface_form	Elizabeth Moon
+Elizabeth Moon	has-genre	fantasy

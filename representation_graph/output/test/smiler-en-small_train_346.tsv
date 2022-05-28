@@ -1,0 +1,107 @@
+345_0	is_in_sentence	sentence_345
+345_0	det	345_3
+345_0	has_surface_form	The
+345_3	is_in_sentence	sentence_345
+345_3	nsubj	345_8
+345_3	has_surface_form	lion
+345_3	part_of_entity	California sea lion
+345_1	is_in_sentence	sentence_345
+345_1	compound	345_3
+345_1	has_surface_form	California
+345_1	part_of_entity	California sea lion
+345_2	is_in_sentence	sentence_345
+345_2	compound	345_3
+345_2	has_surface_form	sea
+345_2	part_of_entity	California sea lion
+345_8	is_in_sentence	sentence_345
+345_8	ROOT	345_8
+345_8	has_surface_form	is
+345_4	is_in_sentence	sentence_345
+345_4	punct	345_3
+345_4	has_surface_form	(
+345_5	is_in_sentence	sentence_345
+345_5	compound	345_6
+345_5	has_surface_form	Zalophus
+345_6	is_in_sentence	sentence_345
+345_6	appos	345_3
+345_6	has_surface_form	californianus
+345_7	is_in_sentence	sentence_345
+345_7	punct	345_3
+345_7	has_surface_form	)
+345_9	is_in_sentence	sentence_345
+345_9	det	345_12
+345_9	has_surface_form	a
+345_12	is_in_sentence	sentence_345
+345_12	attr	345_8
+345_12	has_surface_form	seal
+345_10	is_in_sentence	sentence_345
+345_10	amod	345_12
+345_10	has_surface_form	coastal
+345_11	is_in_sentence	sentence_345
+345_11	amod	345_12
+345_11	has_surface_form	eared
+345_13	is_in_sentence	sentence_345
+345_13	amod	345_12
+345_13	has_surface_form	native
+345_14	is_in_sentence	sentence_345
+345_14	prep	345_13
+345_14	has_surface_form	to
+345_15	is_in_sentence	sentence_345
+345_15	amod	345_17
+345_15	has_surface_form	western
+345_17	is_in_sentence	sentence_345
+345_17	pobj	345_14
+345_17	has_surface_form	America.9
+345_16	is_in_sentence	sentence_345
+345_16	compound	345_17
+345_16	has_surface_form	North
+345_18	is_in_sentence	sentence_345
+345_18	pobj	345_14
+345_18	has_surface_form	ft
+345_19	is_in_sentence	sentence_345
+345_19	pobj	345_14
+345_19	has_surface_form	)
+345_20	is_in_sentence	sentence_345
+345_20	amod	345_12
+345_20	has_surface_form	long
+345_21	is_in_sentence	sentence_345
+345_21	cc	345_8
+345_21	has_surface_form	and
+345_22	is_in_sentence	sentence_345
+345_22	conj	345_8
+345_22	has_surface_form	weigh
+345_23	is_in_sentence	sentence_345
+345_23	quantmod	345_25
+345_23	has_surface_form	up
+345_25	is_in_sentence	sentence_345
+345_25	nummod	345_26
+345_25	has_surface_form	350
+345_25	part_of_entity	350 kg
+345_24	is_in_sentence	sentence_345
+345_24	quantmod	345_25
+345_24	has_surface_form	to
+345_26	is_in_sentence	sentence_345
+345_26	dobj	345_22
+345_26	has_surface_form	kg
+345_26	part_of_entity	350 kg
+345_27	is_in_sentence	sentence_345
+345_27	punct	345_26
+345_27	has_surface_form	(
+345_28	is_in_sentence	sentence_345
+345_28	nummod	345_29
+345_28	has_surface_form	770
+345_29	is_in_sentence	sentence_345
+345_29	appos	345_26
+345_29	has_surface_form	lb
+345_30	is_in_sentence	sentence_345
+345_30	punct	345_26
+345_30	has_surface_form	)
+345_31	is_in_sentence	sentence_345
+345_31	punct	345_8
+345_31	has_surface_form	.
+345_32	is_in_sentence	sentence_345
+345_32	dep	345_32
+345_32	has_surface_form	
+California sea lion	surface_form	California sea lion
+California sea lion	has-weight	350 kg
+350 kg	surface_form	350 kg

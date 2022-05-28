@@ -1,0 +1,47 @@
+26264_0	is_in_sentence	sentence_26264
+26264_0	compound	26264_1
+26264_0	has_surface_form	Emma
+26264_0	part_of_entity	Emma Trevayne
+26264_1	is_in_sentence	sentence_26264
+26264_1	nsubj	26264_2
+26264_1	has_surface_form	Trevayne
+26264_1	part_of_entity	Emma Trevayne
+26264_2	is_in_sentence	sentence_26264
+26264_2	ROOT	26264_2
+26264_2	has_surface_form	is
+26264_3	is_in_sentence	sentence_26264
+26264_3	det	26264_11
+26264_3	has_surface_form	a
+26264_11	is_in_sentence	sentence_26264
+26264_11	attr	26264_2
+26264_11	is_entity	author
+26264_4	is_in_sentence	sentence_26264
+26264_4	amod	26264_11
+26264_4	has_surface_form	British
+26264_5	is_in_sentence	sentence_26264
+26264_5	punct	26264_7
+26264_5	has_surface_form	(
+26264_7	is_in_sentence	sentence_26264
+26264_7	preconj	26264_4
+26264_7	has_surface_form	American
+26264_6	is_in_sentence	sentence_26264
+26264_6	nmod	26264_7
+26264_6	has_surface_form	expatriate
+26264_8	is_in_sentence	sentence_26264
+26264_8	punct	26264_7
+26264_8	has_surface_form	)
+26264_9	is_in_sentence	sentence_26264
+26264_9	amod	26264_10
+26264_9	has_surface_form	speculative
+26264_10	is_in_sentence	sentence_26264
+26264_10	compound	26264_11
+26264_10	has_surface_form	fiction
+author	surface_form	author
+26264_12	is_in_sentence	sentence_26264
+26264_12	punct	26264_2
+26264_12	has_surface_form	.
+26264_13	is_in_sentence	sentence_26264
+26264_13	dep	26264_13
+26264_13	has_surface_form	
+Emma Trevayne	surface_form	Emma Trevayne
+Emma Trevayne	has-occupation	author

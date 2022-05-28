@@ -1,0 +1,50 @@
+20060_0	is_in_sentence	sentence_20060
+20060_0	compound	20060_1
+20060_0	has_surface_form	Marie
+20060_0	part_of_entity	Marie Brennan
+20060_1	is_in_sentence	sentence_20060
+20060_1	nsubj	20060_2
+20060_1	has_surface_form	Brennan
+20060_1	part_of_entity	Marie Brennan
+20060_2	is_in_sentence	sentence_20060
+20060_2	ROOT	20060_2
+20060_2	has_surface_form	is
+20060_3	is_in_sentence	sentence_20060
+20060_3	det	20060_4
+20060_3	has_surface_form	the
+20060_4	is_in_sentence	sentence_20060
+20060_4	attr	20060_2
+20060_4	has_surface_form	pseudonym
+20060_5	is_in_sentence	sentence_20060
+20060_5	prep	20060_4
+20060_5	has_surface_form	of
+20060_6	is_in_sentence	sentence_20060
+20060_6	compound	20060_7
+20060_6	has_surface_form	Bryn
+20060_7	is_in_sentence	sentence_20060
+20060_7	pobj	20060_5
+20060_7	has_surface_form	Neuenschwander
+20060_8	is_in_sentence	sentence_20060
+20060_8	punct	20060_7
+20060_8	has_surface_form	,
+20060_9	is_in_sentence	sentence_20060
+20060_9	det	20060_12
+20060_9	has_surface_form	an
+20060_12	is_in_sentence	sentence_20060
+20060_12	appos	20060_7
+20060_12	has_surface_form	author
+20060_10	is_in_sentence	sentence_20060
+20060_10	amod	20060_12
+20060_10	has_surface_form	American
+20060_11	is_in_sentence	sentence_20060
+20060_11	compound	20060_12
+20060_11	is_entity	fantasy
+fantasy	surface_form	fantasy
+20060_13	is_in_sentence	sentence_20060
+20060_13	punct	20060_2
+20060_13	has_surface_form	.
+20060_14	is_in_sentence	sentence_20060
+20060_14	dep	20060_14
+20060_14	has_surface_form	
+Marie Brennan	surface_form	Marie Brennan
+Marie Brennan	has-genre	fantasy

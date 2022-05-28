@@ -1,0 +1,102 @@
+12604_0	is_in_sentence	sentence_12604
+12604_0	compound	12604_1
+12604_0	has_surface_form	Sudan
+12604_0	part_of_entity	Sudan University of Science and Technology
+12604_1	is_in_sentence	sentence_12604
+12604_1	nsubj	12604_10
+12604_1	has_surface_form	University
+12604_1	part_of_entity	Sudan University of Science and Technology
+12604_10	is_in_sentence	sentence_12604
+12604_10	ROOT	12604_10
+12604_10	has_surface_form	is
+12604_2	is_in_sentence	sentence_12604
+12604_2	prep	12604_1
+12604_2	has_surface_form	of
+12604_2	part_of_entity	Sudan University of Science and Technology
+12604_3	is_in_sentence	sentence_12604
+12604_3	pobj	12604_2
+12604_3	has_surface_form	Science
+12604_3	part_of_entity	Sudan University of Science and Technology
+12604_4	is_in_sentence	sentence_12604
+12604_4	cc	12604_3
+12604_4	has_surface_form	and
+12604_4	part_of_entity	Sudan University of Science and Technology
+12604_5	is_in_sentence	sentence_12604
+12604_5	conj	12604_3
+12604_5	has_surface_form	Technology
+12604_5	part_of_entity	Sudan University of Science and Technology
+12604_6	is_in_sentence	sentence_12604
+12604_6	punct	12604_7
+12604_6	has_surface_form	(
+12604_7	is_in_sentence	sentence_12604
+12604_7	parataxis	12604_1
+12604_7	has_surface_form	abbreviated
+12604_8	is_in_sentence	sentence_12604
+12604_8	dobj	12604_7
+12604_8	has_surface_form	SUST
+12604_9	is_in_sentence	sentence_12604
+12604_9	punct	12604_7
+12604_9	has_surface_form	)
+12604_11	is_in_sentence	sentence_12604
+12604_11	det	12604_14
+12604_11	has_surface_form	the
+12604_14	is_in_sentence	sentence_12604
+12604_14	attr	12604_10
+12604_14	has_surface_form	university
+12604_12	is_in_sentence	sentence_12604
+12604_12	amod	12604_14
+12604_12	has_surface_form	largest
+12604_13	is_in_sentence	sentence_12604
+12604_13	amod	12604_14
+12604_13	has_surface_form	public
+12604_15	is_in_sentence	sentence_12604
+12604_15	prep	12604_14
+12604_15	has_surface_form	in
+12604_16	is_in_sentence	sentence_12604
+12604_16	pobj	12604_15
+12604_16	has_surface_form	Sudan
+12604_17	is_in_sentence	sentence_12604
+12604_17	punct	12604_10
+12604_17	has_surface_form	,
+12604_18	is_in_sentence	sentence_12604
+12604_18	prep	12604_10
+12604_18	has_surface_form	with
+12604_19	is_in_sentence	sentence_12604
+12604_19	nummod	12604_23
+12604_19	has_surface_form	ten
+12604_23	is_in_sentence	sentence_12604
+12604_23	pobj	12604_18
+12604_23	has_surface_form	campuses
+12604_20	is_in_sentence	sentence_12604
+12604_20	punct	12604_21
+12604_20	has_surface_form	(
+12604_21	is_in_sentence	sentence_12604
+12604_21	prep	12604_19
+12604_21	has_surface_form	10
+12604_22	is_in_sentence	sentence_12604
+12604_22	punct	12604_23
+12604_22	has_surface_form	)
+12604_24	is_in_sentence	sentence_12604
+12604_24	prep	12604_23
+12604_24	has_surface_form	in
+12604_25	is_in_sentence	sentence_12604
+12604_25	det	12604_26
+12604_25	has_surface_form	the
+12604_26	is_in_sentence	sentence_12604
+12604_26	pobj	12604_24
+12604_26	has_surface_form	state
+12604_27	is_in_sentence	sentence_12604
+12604_27	prep	12604_26
+12604_27	has_surface_form	of
+12604_28	is_in_sentence	sentence_12604
+12604_28	pobj	12604_27
+12604_28	is_entity	Khartoum
+Khartoum	surface_form	Khartoum
+12604_29	is_in_sentence	sentence_12604
+12604_29	punct	12604_10
+12604_29	has_surface_form	.
+12604_30	is_in_sentence	sentence_12604
+12604_30	dep	12604_30
+12604_30	has_surface_form	
+Sudan University of Science and Technology	surface_form	Sudan University of Science and Technology
+Sudan University of Science and Technology	is-where	Khartoum

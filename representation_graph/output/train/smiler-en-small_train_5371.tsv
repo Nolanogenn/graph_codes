@@ -1,0 +1,82 @@
+5370_0	is_in_sentence	sentence_5370
+5370_0	det	5370_3
+5370_0	has_surface_form	The
+5370_3	is_in_sentence	sentence_5370
+5370_3	nsubj	5370_8
+5370_3	has_surface_form	span
+5370_1	is_in_sentence	sentence_5370
+5370_1	amod	5370_2
+5370_1	has_surface_form	natural
+5370_2	is_in_sentence	sentence_5370
+5370_2	compound	5370_3
+5370_2	has_surface_form	life
+5370_8	is_in_sentence	sentence_5370
+5370_8	ROOT	5370_8
+5370_8	has_surface_form	is
+5370_4	is_in_sentence	sentence_5370
+5370_4	prep	5370_3
+5370_4	has_surface_form	of
+5370_5	is_in_sentence	sentence_5370
+5370_5	det	5370_7
+5370_5	has_surface_form	the
+5370_7	is_in_sentence	sentence_5370
+5370_7	pobj	5370_4
+5370_7	has_surface_form	Collie
+5370_7	part_of_entity	Border Collie
+5370_6	is_in_sentence	sentence_5370
+5370_6	compound	5370_7
+5370_6	has_surface_form	Border
+5370_6	part_of_entity	Border Collie
+5370_9	is_in_sentence	sentence_5370
+5370_9	quantmod	5370_10
+5370_9	has_surface_form	between
+5370_9	part_of_entity	between 10 and 14 years
+5370_10	is_in_sentence	sentence_5370
+5370_10	nummod	5370_13
+5370_10	has_surface_form	10
+5370_10	part_of_entity	between 10 and 14 years
+5370_13	is_in_sentence	sentence_5370
+5370_13	attr	5370_8
+5370_13	has_surface_form	years
+5370_13	part_of_entity	between 10 and 14 years
+5370_11	is_in_sentence	sentence_5370
+5370_11	cc	5370_10
+5370_11	has_surface_form	and
+5370_11	part_of_entity	between 10 and 14 years
+5370_12	is_in_sentence	sentence_5370
+5370_12	conj	5370_10
+5370_12	has_surface_form	14
+5370_12	part_of_entity	between 10 and 14 years
+5370_14	is_in_sentence	sentence_5370
+5370_14	punct	5370_8
+5370_14	has_surface_form	,
+5370_15	is_in_sentence	sentence_5370
+5370_15	prep	5370_8
+5370_15	has_surface_form	with
+5370_16	is_in_sentence	sentence_5370
+5370_16	det	5370_18
+5370_16	has_surface_form	an
+5370_18	is_in_sentence	sentence_5370
+5370_18	pobj	5370_15
+5370_18	has_surface_form	lifespan
+5370_17	is_in_sentence	sentence_5370
+5370_17	amod	5370_18
+5370_17	has_surface_form	average
+5370_19	is_in_sentence	sentence_5370
+5370_19	prep	5370_18
+5370_19	has_surface_form	of
+5370_20	is_in_sentence	sentence_5370
+5370_20	nummod	5370_21
+5370_20	has_surface_form	12
+5370_21	is_in_sentence	sentence_5370
+5370_21	pobj	5370_19
+5370_21	has_surface_form	years
+5370_22	is_in_sentence	sentence_5370
+5370_22	punct	5370_8
+5370_22	has_surface_form	.
+5370_23	is_in_sentence	sentence_5370
+5370_23	dep	5370_23
+5370_23	has_surface_form	
+Border Collie	surface_form	Border Collie
+Border Collie	has-lifespan	between 10 and 14 years
+between 10 and 14 years	surface_form	between 10 and 14 years

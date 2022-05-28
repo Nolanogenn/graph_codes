@@ -1,0 +1,114 @@
+6553_0	is_in_sentence	sentence_6553
+6553_0	det	6553_2
+6553_0	has_surface_form	The
+6553_0	part_of_entity	The Tango Star
+6553_2	is_in_sentence	sentence_6553
+6553_2	nsubj	6553_11
+6553_2	has_surface_form	Star
+6553_2	part_of_entity	The Tango Star
+6553_1	is_in_sentence	sentence_6553
+6553_1	compound	6553_2
+6553_1	has_surface_form	Tango
+6553_1	part_of_entity	The Tango Star
+6553_11	is_in_sentence	sentence_6553
+6553_11	ROOT	6553_11
+6553_11	has_surface_form	is
+6553_3	is_in_sentence	sentence_6553
+6553_3	punct	6553_4
+6553_3	has_surface_form	(
+6553_4	is_in_sentence	sentence_6553
+6553_4	appos	6553_2
+6553_4	has_surface_form	Spanish
+6553_5	is_in_sentence	sentence_6553
+6553_5	punct	6553_4
+6553_5	has_surface_form	:
+6553_6	is_in_sentence	sentence_6553
+6553_6	compound	6553_9
+6553_6	has_surface_form	El
+6553_9	is_in_sentence	sentence_6553
+6553_9	appos	6553_4
+6553_9	has_surface_form	tango
+6553_7	is_in_sentence	sentence_6553
+6553_7	compound	6553_9
+6553_7	has_surface_form	astro
+6553_8	is_in_sentence	sentence_6553
+6553_8	compound	6553_9
+6553_8	has_surface_form	del
+6553_10	is_in_sentence	sentence_6553
+6553_10	punct	6553_4
+6553_10	has_surface_form	)
+6553_12	is_in_sentence	sentence_6553
+6553_12	det	6553_16
+6553_12	has_surface_form	a
+6553_16	is_in_sentence	sentence_6553
+6553_16	attr	6553_11
+6553_16	has_surface_form	film
+6553_13	is_in_sentence	sentence_6553
+6553_13	nummod	6553_16
+6553_13	has_surface_form	1940
+6553_14	is_in_sentence	sentence_6553
+6553_14	amod	6553_16
+6553_14	has_surface_form	Argentine
+6553_15	is_in_sentence	sentence_6553
+6553_15	amod	6553_16
+6553_15	has_surface_form	musical
+6553_17	is_in_sentence	sentence_6553
+6553_17	acl	6553_16
+6553_17	has_surface_form	directed
+6553_18	is_in_sentence	sentence_6553
+6553_18	agent	6553_17
+6553_18	has_surface_form	by
+6553_19	is_in_sentence	sentence_6553
+6553_19	compound	6553_20
+6553_19	has_surface_form	Luis
+6553_20	is_in_sentence	sentence_6553
+6553_20	compound	6553_21
+6553_20	has_surface_form	Bayón
+6553_21	is_in_sentence	sentence_6553
+6553_21	pobj	6553_18
+6553_21	has_surface_form	Herrera
+6553_22	is_in_sentence	sentence_6553
+6553_22	cc	6553_17
+6553_22	has_surface_form	and
+6553_23	is_in_sentence	sentence_6553
+6553_23	conj	6553_17
+6553_23	has_surface_form	starring
+6553_24	is_in_sentence	sentence_6553
+6553_24	nmod	6553_26
+6553_24	has_surface_form	Hugo
+6553_24	part_of_entity	Hugo del Carril
+6553_26	is_in_sentence	sentence_6553
+6553_26	dobj	6553_23
+6553_26	has_surface_form	Carril
+6553_26	part_of_entity	Hugo del Carril
+6553_25	is_in_sentence	sentence_6553
+6553_25	nmod	6553_26
+6553_25	has_surface_form	del
+6553_25	part_of_entity	Hugo del Carril
+6553_27	is_in_sentence	sentence_6553
+6553_27	punct	6553_26
+6553_27	has_surface_form	,
+6553_28	is_in_sentence	sentence_6553
+6553_28	compound	6553_29
+6553_28	has_surface_form	Amanda
+6553_29	is_in_sentence	sentence_6553
+6553_29	conj	6553_26
+6553_29	has_surface_form	Ledesma
+6553_30	is_in_sentence	sentence_6553
+6553_30	cc	6553_29
+6553_30	has_surface_form	and
+6553_31	is_in_sentence	sentence_6553
+6553_31	compound	6553_32
+6553_31	has_surface_form	Berta
+6553_32	is_in_sentence	sentence_6553
+6553_32	conj	6553_29
+6553_32	has_surface_form	Aliana
+6553_33	is_in_sentence	sentence_6553
+6553_33	punct	6553_11
+6553_33	has_surface_form	.
+6553_34	is_in_sentence	sentence_6553
+6553_34	dep	6553_11
+6553_34	has_surface_form	
+The Tango Star	surface_form	The Tango Star
+The Tango Star	starring	Hugo del Carril
+Hugo del Carril	surface_form	Hugo del Carril

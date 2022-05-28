@@ -1,0 +1,88 @@
+19239_0	is_in_sentence	sentence_19239
+19239_0	compound	19239_1
+19239_0	has_surface_form	Love
+19239_0	part_of_entity	Love Pain Kuch Bhi Karega
+19239_1	is_in_sentence	sentence_19239
+19239_1	compound	19239_2
+19239_1	has_surface_form	Pain
+19239_1	part_of_entity	Love Pain Kuch Bhi Karega
+19239_2	is_in_sentence	sentence_19239
+19239_2	compound	19239_4
+19239_2	has_surface_form	Kuch
+19239_2	part_of_entity	Love Pain Kuch Bhi Karega
+19239_4	is_in_sentence	sentence_19239
+19239_4	nsubj	19239_5
+19239_4	has_surface_form	Karega
+19239_4	part_of_entity	Love Pain Kuch Bhi Karega
+19239_3	is_in_sentence	sentence_19239
+19239_3	compound	19239_4
+19239_3	has_surface_form	Bhi
+19239_3	part_of_entity	Love Pain Kuch Bhi Karega
+19239_5	is_in_sentence	sentence_19239
+19239_5	ROOT	19239_5
+19239_5	has_surface_form	is
+19239_6	is_in_sentence	sentence_19239
+19239_6	det	19239_13
+19239_6	has_surface_form	a
+19239_13	is_in_sentence	sentence_19239
+19239_13	attr	19239_5
+19239_13	has_surface_form	film
+19239_7	is_in_sentence	sentence_19239
+19239_7	nummod	19239_13
+19239_7	has_surface_form	2016
+19239_8	is_in_sentence	sentence_19239
+19239_8	amod	19239_13
+19239_8	has_surface_form	Indian
+19239_9	is_in_sentence	sentence_19239
+19239_9	compound	19239_11
+19239_9	has_surface_form	Odia
+19239_11	is_in_sentence	sentence_19239
+19239_11	compound	19239_13
+19239_11	has_surface_form	language
+19239_10	is_in_sentence	sentence_19239
+19239_10	punct	19239_11
+19239_10	has_surface_form	-
+19239_12	is_in_sentence	sentence_19239
+19239_12	compound	19239_13
+19239_12	has_surface_form	drama
+19239_14	is_in_sentence	sentence_19239
+19239_14	acl	19239_13
+19239_14	has_surface_form	directed
+19239_15	is_in_sentence	sentence_19239
+19239_15	agent	19239_14
+19239_15	has_surface_form	by
+19239_16	is_in_sentence	sentence_19239
+19239_16	compound	19239_17
+19239_16	has_surface_form	Ashok
+19239_16	part_of_entity	Ashok Pati
+19239_17	is_in_sentence	sentence_19239
+19239_17	pobj	19239_15
+19239_17	has_surface_form	Pati
+19239_17	part_of_entity	Ashok Pati
+19239_18	is_in_sentence	sentence_19239
+19239_18	cc	19239_14
+19239_18	has_surface_form	and
+19239_19	is_in_sentence	sentence_19239
+19239_19	conj	19239_14
+19239_19	has_surface_form	produced
+19239_20	is_in_sentence	sentence_19239
+19239_20	agent	19239_19
+19239_20	has_surface_form	by
+19239_21	is_in_sentence	sentence_19239
+19239_21	compound	19239_23
+19239_21	has_surface_form	Tarang
+19239_23	is_in_sentence	sentence_19239
+19239_23	pobj	19239_20
+19239_23	has_surface_form	Productions
+19239_22	is_in_sentence	sentence_19239
+19239_22	compound	19239_23
+19239_22	has_surface_form	Cine
+19239_24	is_in_sentence	sentence_19239
+19239_24	punct	19239_5
+19239_24	has_surface_form	.
+19239_25	is_in_sentence	sentence_19239
+19239_25	dep	19239_5
+19239_25	has_surface_form	
+Love Pain Kuch Bhi Karega	surface_form	Love Pain Kuch Bhi Karega
+Love Pain Kuch Bhi Karega	movie-has-director	Ashok Pati
+Ashok Pati	surface_form	Ashok Pati

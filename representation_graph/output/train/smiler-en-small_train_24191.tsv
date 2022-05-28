@@ -1,0 +1,39 @@
+24190_0	is_in_sentence	sentence_24190
+24190_0	compound	24190_2
+24190_0	has_surface_form	John
+24190_0	part_of_entity	John Z. Lee
+24190_2	is_in_sentence	sentence_24190
+24190_2	nsubjpass	24190_4
+24190_2	has_surface_form	Lee
+24190_2	part_of_entity	John Z. Lee
+24190_1	is_in_sentence	sentence_24190
+24190_1	compound	24190_2
+24190_1	has_surface_form	Z.
+24190_1	part_of_entity	John Z. Lee
+24190_4	is_in_sentence	sentence_24190
+24190_4	ROOT	24190_4
+24190_4	has_surface_form	born
+24190_3	is_in_sentence	sentence_24190
+24190_3	auxpass	24190_4
+24190_3	has_surface_form	was
+24190_5	is_in_sentence	sentence_24190
+24190_5	prep	24190_4
+24190_5	has_surface_form	in
+24190_6	is_in_sentence	sentence_24190
+24190_6	pobj	24190_5
+24190_6	is_entity	Aachen
+Aachen	surface_form	Aachen
+24190_7	is_in_sentence	sentence_24190
+24190_7	punct	24190_6
+24190_7	has_surface_form	,
+24190_8	is_in_sentence	sentence_24190
+24190_8	appos	24190_6
+24190_8	has_surface_form	Germany
+24190_9	is_in_sentence	sentence_24190
+24190_9	punct	24190_4
+24190_9	has_surface_form	.
+24190_10	is_in_sentence	sentence_24190
+24190_10	dep	24190_4
+24190_10	has_surface_form	
+John Z. Lee	surface_form	John Z. Lee
+John Z. Lee	birth-place	Aachen

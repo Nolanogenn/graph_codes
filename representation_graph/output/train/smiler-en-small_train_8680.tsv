@@ -1,0 +1,55 @@
+8679_0	is_in_sentence	sentence_8679
+8679_0	det	8679_2
+8679_0	has_surface_form	The
+8679_2	is_in_sentence	sentence_8679
+8679_2	nsubj	8679_5
+8679_2	has_surface_form	School
+8679_2	part_of_entity	Fiji School of Medicine
+8679_1	is_in_sentence	sentence_8679
+8679_1	compound	8679_2
+8679_1	has_surface_form	Fiji
+8679_1	part_of_entity	Fiji School of Medicine
+8679_5	is_in_sentence	sentence_8679
+8679_5	ROOT	8679_5
+8679_5	has_surface_form	is
+8679_3	is_in_sentence	sentence_8679
+8679_3	prep	8679_2
+8679_3	has_surface_form	of
+8679_3	part_of_entity	Fiji School of Medicine
+8679_4	is_in_sentence	sentence_8679
+8679_4	pobj	8679_3
+8679_4	has_surface_form	Medicine
+8679_4	part_of_entity	Fiji School of Medicine
+8679_6	is_in_sentence	sentence_8679
+8679_6	det	8679_8
+8679_6	has_surface_form	a
+8679_8	is_in_sentence	sentence_8679
+8679_8	attr	8679_5
+8679_8	has_surface_form	institution
+8679_7	is_in_sentence	sentence_8679
+8679_7	amod	8679_8
+8679_7	has_surface_form	tertiary
+8679_9	is_in_sentence	sentence_8679
+8679_9	acl	8679_8
+8679_9	has_surface_form	based
+8679_10	is_in_sentence	sentence_8679
+8679_10	prep	8679_9
+8679_10	has_surface_form	in
+8679_11	is_in_sentence	sentence_8679
+8679_11	pobj	8679_10
+8679_11	is_entity	Suva
+Suva	surface_form	Suva
+8679_12	is_in_sentence	sentence_8679
+8679_12	punct	8679_8
+8679_12	has_surface_form	,
+8679_13	is_in_sentence	sentence_8679
+8679_13	appos	8679_8
+8679_13	has_surface_form	Fiji
+8679_14	is_in_sentence	sentence_8679
+8679_14	punct	8679_5
+8679_14	has_surface_form	.
+8679_15	is_in_sentence	sentence_8679
+8679_15	dep	8679_5
+8679_15	has_surface_form	
+Fiji School of Medicine	surface_form	Fiji School of Medicine
+Fiji School of Medicine	is-where	Suva

@@ -1,0 +1,52 @@
+32713_0	is_in_sentence	sentence_32713
+32713_0	compound	32713_1
+32713_0	has_surface_form	Rimini
+32713_0	part_of_entity	Rimini Rimini
+32713_1	is_in_sentence	sentence_32713
+32713_1	nsubj	32713_2
+32713_1	has_surface_form	Rimini
+32713_1	part_of_entity	Rimini Rimini
+32713_2	is_in_sentence	sentence_32713
+32713_2	ROOT	32713_2
+32713_2	has_surface_form	is
+32713_3	is_in_sentence	sentence_32713
+32713_3	det	32713_8
+32713_3	has_surface_form	a
+32713_8	is_in_sentence	sentence_32713
+32713_8	attr	32713_2
+32713_8	has_surface_form	film
+32713_4	is_in_sentence	sentence_32713
+32713_4	nummod	32713_8
+32713_4	has_surface_form	1987
+32713_5	is_in_sentence	sentence_32713
+32713_5	amod	32713_8
+32713_5	has_surface_form	Italian
+32713_6	is_in_sentence	sentence_32713
+32713_6	compound	32713_7
+32713_6	has_surface_form	anthology
+32713_7	is_in_sentence	sentence_32713
+32713_7	compound	32713_8
+32713_7	has_surface_form	comedy
+32713_9	is_in_sentence	sentence_32713
+32713_9	acl	32713_8
+32713_9	has_surface_form	directed
+32713_10	is_in_sentence	sentence_32713
+32713_10	agent	32713_9
+32713_10	has_surface_form	by
+32713_11	is_in_sentence	sentence_32713
+32713_11	compound	32713_12
+32713_11	has_surface_form	Sergio
+32713_11	part_of_entity	Sergio Corbucci
+32713_12	is_in_sentence	sentence_32713
+32713_12	pobj	32713_10
+32713_12	has_surface_form	Corbucci
+32713_12	part_of_entity	Sergio Corbucci
+32713_13	is_in_sentence	sentence_32713
+32713_13	punct	32713_2
+32713_13	has_surface_form	.
+32713_14	is_in_sentence	sentence_32713
+32713_14	dep	32713_14
+32713_14	has_surface_form	
+Rimini Rimini	surface_form	Rimini Rimini
+Rimini Rimini	movie-has-director	Sergio Corbucci
+Sergio Corbucci	surface_form	Sergio Corbucci

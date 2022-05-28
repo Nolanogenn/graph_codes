@@ -1,0 +1,74 @@
+21477_0	is_in_sentence	sentence_21477
+21477_0	nsubj	21477_10
+21477_0	has_surface_form	Return
+21477_0	part_of_entity	Return from Hell
+21477_10	is_in_sentence	sentence_21477
+21477_10	ROOT	21477_10
+21477_10	has_surface_form	is
+21477_1	is_in_sentence	sentence_21477
+21477_1	prep	21477_0
+21477_1	has_surface_form	from
+21477_1	part_of_entity	Return from Hell
+21477_2	is_in_sentence	sentence_21477
+21477_2	pobj	21477_1
+21477_2	has_surface_form	Hell
+21477_2	part_of_entity	Return from Hell
+21477_3	is_in_sentence	sentence_21477
+21477_3	punct	21477_4
+21477_3	has_surface_form	(
+21477_4	is_in_sentence	sentence_21477
+21477_4	appos	21477_2
+21477_4	has_surface_form	Romanian
+21477_5	is_in_sentence	sentence_21477
+21477_5	punct	21477_2
+21477_5	has_surface_form	:
+21477_6	is_in_sentence	sentence_21477
+21477_6	compound	21477_8
+21477_6	has_surface_form	Întoarcerea
+21477_8	is_in_sentence	sentence_21477
+21477_8	appos	21477_2
+21477_8	has_surface_form	iad
+21477_7	is_in_sentence	sentence_21477
+21477_7	compound	21477_8
+21477_7	has_surface_form	din
+21477_9	is_in_sentence	sentence_21477
+21477_9	punct	21477_2
+21477_9	has_surface_form	)
+21477_11	is_in_sentence	sentence_21477
+21477_11	det	21477_15
+21477_11	has_surface_form	a
+21477_15	is_in_sentence	sentence_21477
+21477_15	attr	21477_10
+21477_15	has_surface_form	film
+21477_12	is_in_sentence	sentence_21477
+21477_12	nummod	21477_15
+21477_12	has_surface_form	1983
+21477_13	is_in_sentence	sentence_21477
+21477_13	amod	21477_15
+21477_13	has_surface_form	Romanian
+21477_14	is_in_sentence	sentence_21477
+21477_14	compound	21477_15
+21477_14	has_surface_form	drama
+21477_16	is_in_sentence	sentence_21477
+21477_16	acl	21477_15
+21477_16	has_surface_form	directed
+21477_17	is_in_sentence	sentence_21477
+21477_17	agent	21477_16
+21477_17	has_surface_form	by
+21477_18	is_in_sentence	sentence_21477
+21477_18	compound	21477_19
+21477_18	has_surface_form	Nicolae
+21477_18	part_of_entity	Nicolae Mărgineanu
+21477_19	is_in_sentence	sentence_21477
+21477_19	pobj	21477_17
+21477_19	has_surface_form	Mărgineanu
+21477_19	part_of_entity	Nicolae Mărgineanu
+21477_20	is_in_sentence	sentence_21477
+21477_20	punct	21477_10
+21477_20	has_surface_form	.
+21477_21	is_in_sentence	sentence_21477
+21477_21	dep	21477_10
+21477_21	has_surface_form	
+Return from Hell	surface_form	Return from Hell
+Return from Hell	movie-has-director	Nicolae Mărgineanu
+Nicolae Mărgineanu	surface_form	Nicolae Mărgineanu

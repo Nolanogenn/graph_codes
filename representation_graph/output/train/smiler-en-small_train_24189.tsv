@@ -1,0 +1,74 @@
+24188_0	is_in_sentence	sentence_24188
+24188_0	det	24188_2
+24188_0	has_surface_form	A
+24188_0	part_of_entity	A Ruined Life
+24188_2	is_in_sentence	sentence_24188
+24188_2	nsubj	24188_10
+24188_2	has_surface_form	Life
+24188_2	part_of_entity	A Ruined Life
+24188_1	is_in_sentence	sentence_24188
+24188_1	compound	24188_2
+24188_1	has_surface_form	Ruined
+24188_1	part_of_entity	A Ruined Life
+24188_10	is_in_sentence	sentence_24188
+24188_10	ROOT	24188_10
+24188_10	has_surface_form	is
+24188_3	is_in_sentence	sentence_24188
+24188_3	punct	24188_4
+24188_3	has_surface_form	(
+24188_4	is_in_sentence	sentence_24188
+24188_4	appos	24188_2
+24188_4	has_surface_form	Swedish
+24188_5	is_in_sentence	sentence_24188
+24188_5	punct	24188_4
+24188_5	has_surface_form	:
+24188_6	is_in_sentence	sentence_24188
+24188_6	compound	24188_8
+24188_6	has_surface_form	Ett
+24188_8	is_in_sentence	sentence_24188
+24188_8	appos	24188_4
+24188_8	has_surface_form	giftermål
+24188_7	is_in_sentence	sentence_24188
+24188_7	compound	24188_8
+24188_7	has_surface_form	hemligt
+24188_9	is_in_sentence	sentence_24188
+24188_9	punct	24188_4
+24188_9	has_surface_form	)
+24188_11	is_in_sentence	sentence_24188
+24188_11	det	24188_15
+24188_11	has_surface_form	a
+24188_15	is_in_sentence	sentence_24188
+24188_15	attr	24188_10
+24188_15	has_surface_form	film
+24188_12	is_in_sentence	sentence_24188
+24188_12	nummod	24188_15
+24188_12	has_surface_form	1912
+24188_13	is_in_sentence	sentence_24188
+24188_13	amod	24188_15
+24188_13	has_surface_form	Swedish
+24188_14	is_in_sentence	sentence_24188
+24188_14	amod	24188_15
+24188_14	has_surface_form	silent
+24188_16	is_in_sentence	sentence_24188
+24188_16	acl	24188_15
+24188_16	has_surface_form	directed
+24188_17	is_in_sentence	sentence_24188
+24188_17	agent	24188_16
+24188_17	has_surface_form	by
+24188_18	is_in_sentence	sentence_24188
+24188_18	compound	24188_19
+24188_18	has_surface_form	Victor
+24188_18	part_of_entity	Victor Sjöström
+24188_19	is_in_sentence	sentence_24188
+24188_19	pobj	24188_17
+24188_19	has_surface_form	Sjöström
+24188_19	part_of_entity	Victor Sjöström
+24188_20	is_in_sentence	sentence_24188
+24188_20	punct	24188_10
+24188_20	has_surface_form	.
+24188_21	is_in_sentence	sentence_24188
+24188_21	dep	24188_21
+24188_21	has_surface_form	
+A Ruined Life	surface_form	A Ruined Life
+A Ruined Life	movie-has-director	Victor Sjöström
+Victor Sjöström	surface_form	Victor Sjöström

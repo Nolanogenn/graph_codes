@@ -1,0 +1,61 @@
+22054_0	is_in_sentence	sentence_22054
+22054_0	compound	22054_1
+22054_0	has_surface_form	Anna
+22054_0	part_of_entity	Anna Asp
+22054_1	is_in_sentence	sentence_22054
+22054_1	nsubj	22054_8
+22054_1	has_surface_form	Asp
+22054_1	part_of_entity	Anna Asp
+22054_8	is_in_sentence	sentence_22054
+22054_8	ROOT	22054_8
+22054_8	has_surface_form	is
+22054_2	is_in_sentence	sentence_22054
+22054_2	punct	22054_1
+22054_2	has_surface_form	(
+22054_3	is_in_sentence	sentence_22054
+22054_3	acl	22054_1
+22054_3	has_surface_form	born
+22054_4	is_in_sentence	sentence_22054
+22054_4	nummod	22054_5
+22054_4	has_surface_form	16
+22054_5	is_in_sentence	sentence_22054
+22054_5	npadvmod	22054_3
+22054_5	has_surface_form	May
+22054_6	is_in_sentence	sentence_22054
+22054_6	nummod	22054_5
+22054_6	has_surface_form	1946
+22054_7	is_in_sentence	sentence_22054
+22054_7	punct	22054_1
+22054_7	has_surface_form	)
+22054_9	is_in_sentence	sentence_22054
+22054_9	det	22054_12
+22054_9	has_surface_form	a
+22054_12	is_in_sentence	sentence_22054
+22054_12	attr	22054_8
+22054_12	has_surface_form	designer
+22054_12	part_of_entity	production designer
+22054_10	is_in_sentence	sentence_22054
+22054_10	amod	22054_12
+22054_10	has_surface_form	Swedish
+22054_11	is_in_sentence	sentence_22054
+22054_11	compound	22054_12
+22054_11	has_surface_form	production
+22054_11	part_of_entity	production designer
+22054_13	is_in_sentence	sentence_22054
+22054_13	cc	22054_12
+22054_13	has_surface_form	and
+22054_14	is_in_sentence	sentence_22054
+22054_14	compound	22054_15
+22054_14	has_surface_form	art
+22054_15	is_in_sentence	sentence_22054
+22054_15	conj	22054_12
+22054_15	has_surface_form	director
+22054_16	is_in_sentence	sentence_22054
+22054_16	punct	22054_8
+22054_16	has_surface_form	.
+22054_17	is_in_sentence	sentence_22054
+22054_17	dep	22054_17
+22054_17	has_surface_form	
+Anna Asp	surface_form	Anna Asp
+Anna Asp	has-occupation	production designer
+production designer	surface_form	production designer

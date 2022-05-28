@@ -1,0 +1,70 @@
+11217_0	is_in_sentence	sentence_11217
+11217_0	compound	11217_1
+11217_0	has_surface_form	Ben
+11217_0	part_of_entity	Ben Frank
+11217_1	is_in_sentence	sentence_11217
+11217_1	nsubj	11217_7
+11217_1	has_surface_form	Frank
+11217_1	part_of_entity	Ben Frank
+11217_7	is_in_sentence	sentence_11217
+11217_7	ROOT	11217_7
+11217_7	has_surface_form	was
+11217_2	is_in_sentence	sentence_11217
+11217_2	punct	11217_1
+11217_2	has_surface_form	(
+11217_3	is_in_sentence	sentence_11217
+11217_3	appos	11217_1
+11217_3	has_surface_form	1934
+11217_4	is_in_sentence	sentence_11217
+11217_4	punct	11217_5
+11217_4	has_surface_form	-
+11217_5	is_in_sentence	sentence_11217
+11217_5	prep	11217_3
+11217_5	has_surface_form	1990
+11217_6	is_in_sentence	sentence_11217
+11217_6	punct	11217_1
+11217_6	has_surface_form	)
+11217_8	is_in_sentence	sentence_11217
+11217_8	det	11217_11
+11217_8	has_surface_form	a
+11217_11	is_in_sentence	sentence_11217
+11217_11	attr	11217_7
+11217_11	has_surface_form	actor
+11217_9	is_in_sentence	sentence_11217
+11217_9	amod	11217_11
+11217_9	has_surface_form	veteran
+11217_10	is_in_sentence	sentence_11217
+11217_10	compound	11217_11
+11217_10	has_surface_form	character
+11217_12	is_in_sentence	sentence_11217
+11217_12	punct	11217_7
+11217_12	has_surface_form	.
+11217_13	is_in_sentence	sentence_11217
+11217_13	poss	11217_14
+11217_13	has_surface_form	His
+11217_14	is_in_sentence	sentence_11217
+11217_14	nsubj	11217_15
+11217_14	has_surface_form	wife
+11217_15	is_in_sentence	sentence_11217
+11217_15	ROOT	11217_15
+11217_15	has_surface_form	was
+11217_16	is_in_sentence	sentence_11217
+11217_16	compound	11217_18
+11217_16	has_surface_form	producer
+11217_18	is_in_sentence	sentence_11217
+11217_18	attr	11217_15
+11217_18	has_surface_form	Frank
+11217_18	part_of_entity	Bobbi Frank
+11217_17	is_in_sentence	sentence_11217
+11217_17	compound	11217_18
+11217_17	has_surface_form	Bobbi
+11217_17	part_of_entity	Bobbi Frank
+11217_19	is_in_sentence	sentence_11217
+11217_19	punct	11217_15
+11217_19	has_surface_form	.
+11217_20	is_in_sentence	sentence_11217
+11217_20	dep	11217_20
+11217_20	has_surface_form	
+Ben Frank	surface_form	Ben Frank
+Ben Frank	has-spouse	Bobbi Frank
+Bobbi Frank	surface_form	Bobbi Frank

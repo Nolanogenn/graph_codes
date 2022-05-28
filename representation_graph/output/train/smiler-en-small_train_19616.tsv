@@ -1,0 +1,50 @@
+19615_0	is_in_sentence	sentence_19615
+19615_0	compound	19615_1
+19615_0	has_surface_form	Luc
+19615_0	part_of_entity	Luc Jochimsen
+19615_1	is_in_sentence	sentence_19615
+19615_1	nsubjpass	19615_3
+19615_1	has_surface_form	Jochimsen
+19615_1	part_of_entity	Luc Jochimsen
+19615_3	is_in_sentence	sentence_19615
+19615_3	ROOT	19615_3
+19615_3	has_surface_form	born
+19615_2	is_in_sentence	sentence_19615
+19615_2	auxpass	19615_3
+19615_2	has_surface_form	was
+19615_4	is_in_sentence	sentence_19615
+19615_4	prep	19615_3
+19615_4	has_surface_form	in
+19615_5	is_in_sentence	sentence_19615
+19615_5	pobj	19615_4
+19615_5	is_entity	Nuremberg
+Nuremberg	surface_form	Nuremberg
+19615_6	is_in_sentence	sentence_19615
+19615_6	punct	19615_5
+19615_6	has_surface_form	,
+19615_7	is_in_sentence	sentence_19615
+19615_7	det	19615_8
+19615_7	has_surface_form	the
+19615_8	is_in_sentence	sentence_19615
+19615_8	appos	19615_5
+19615_8	has_surface_form	daughter
+19615_9	is_in_sentence	sentence_19615
+19615_9	prep	19615_8
+19615_9	has_surface_form	of
+19615_10	is_in_sentence	sentence_19615
+19615_10	det	19615_12
+19615_10	has_surface_form	a
+19615_12	is_in_sentence	sentence_19615
+19615_12	pobj	19615_9
+19615_12	has_surface_form	dealer
+19615_11	is_in_sentence	sentence_19615
+19615_11	compound	19615_12
+19615_11	has_surface_form	vehicle
+19615_13	is_in_sentence	sentence_19615
+19615_13	punct	19615_3
+19615_13	has_surface_form	.
+19615_14	is_in_sentence	sentence_19615
+19615_14	dep	19615_14
+19615_14	has_surface_form	
+Luc Jochimsen	surface_form	Luc Jochimsen
+Luc Jochimsen	birth-place	Nuremberg

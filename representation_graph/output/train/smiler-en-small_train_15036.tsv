@@ -1,0 +1,83 @@
+15035_0	is_in_sentence	sentence_15035
+15035_0	intj	15035_3
+15035_0	has_surface_form	Meet
+15035_0	part_of_entity	Meet Mr. Penny
+15035_3	is_in_sentence	sentence_15035
+15035_3	ROOT	15035_3
+15035_3	has_surface_form	is
+15035_1	is_in_sentence	sentence_15035
+15035_1	compound	15035_2
+15035_1	has_surface_form	Mr.
+15035_1	part_of_entity	Meet Mr. Penny
+15035_2	is_in_sentence	sentence_15035
+15035_2	nsubj	15035_3
+15035_2	has_surface_form	Penny
+15035_2	part_of_entity	Meet Mr. Penny
+15035_4	is_in_sentence	sentence_15035
+15035_4	det	15035_8
+15035_4	has_surface_form	a
+15035_8	is_in_sentence	sentence_15035
+15035_8	attr	15035_3
+15035_8	has_surface_form	film
+15035_5	is_in_sentence	sentence_15035
+15035_5	nummod	15035_8
+15035_5	has_surface_form	1938
+15035_6	is_in_sentence	sentence_15035
+15035_6	amod	15035_8
+15035_6	has_surface_form	British
+15035_7	is_in_sentence	sentence_15035
+15035_7	compound	15035_8
+15035_7	has_surface_form	comedy
+15035_9	is_in_sentence	sentence_15035
+15035_9	acl	15035_8
+15035_9	has_surface_form	directed
+15035_10	is_in_sentence	sentence_15035
+15035_10	agent	15035_9
+15035_10	has_surface_form	by
+15035_11	is_in_sentence	sentence_15035
+15035_11	compound	15035_12
+15035_11	has_surface_form	David
+15035_11	part_of_entity	David MacDonald
+15035_12	is_in_sentence	sentence_15035
+15035_12	pobj	15035_10
+15035_12	has_surface_form	MacDonald
+15035_12	part_of_entity	David MacDonald
+15035_13	is_in_sentence	sentence_15035
+15035_13	cc	15035_9
+15035_13	has_surface_form	and
+15035_14	is_in_sentence	sentence_15035
+15035_14	conj	15035_9
+15035_14	has_surface_form	starring
+15035_15	is_in_sentence	sentence_15035
+15035_15	compound	15035_16
+15035_15	has_surface_form	Richard
+15035_16	is_in_sentence	sentence_15035
+15035_16	dobj	15035_14
+15035_16	has_surface_form	Goolden
+15035_17	is_in_sentence	sentence_15035
+15035_17	punct	15035_16
+15035_17	has_surface_form	,
+15035_18	is_in_sentence	sentence_15035
+15035_18	compound	15035_19
+15035_18	has_surface_form	Vic
+15035_19	is_in_sentence	sentence_15035
+15035_19	conj	15035_16
+15035_19	has_surface_form	Oliver
+15035_20	is_in_sentence	sentence_15035
+15035_20	cc	15035_19
+15035_20	has_surface_form	and
+15035_21	is_in_sentence	sentence_15035
+15035_21	compound	15035_22
+15035_21	has_surface_form	Fabia
+15035_22	is_in_sentence	sentence_15035
+15035_22	conj	15035_19
+15035_22	has_surface_form	Drake
+15035_23	is_in_sentence	sentence_15035
+15035_23	punct	15035_3
+15035_23	has_surface_form	.
+15035_24	is_in_sentence	sentence_15035
+15035_24	dep	15035_24
+15035_24	has_surface_form	
+Meet Mr. Penny	surface_form	Meet Mr. Penny
+Meet Mr. Penny	movie-has-director	David MacDonald
+David MacDonald	surface_form	David MacDonald

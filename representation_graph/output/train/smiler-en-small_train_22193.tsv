@@ -1,0 +1,51 @@
+22192_0	is_in_sentence	sentence_22192
+22192_0	compound	22192_2
+22192_0	has_surface_form	Freight
+22192_0	part_of_entity	Freight Runners Express
+22192_2	is_in_sentence	sentence_22192
+22192_2	nsubj	22192_3
+22192_2	has_surface_form	Express
+22192_2	part_of_entity	Freight Runners Express
+22192_1	is_in_sentence	sentence_22192
+22192_1	compound	22192_2
+22192_1	has_surface_form	Runners
+22192_1	part_of_entity	Freight Runners Express
+22192_3	is_in_sentence	sentence_22192
+22192_3	ROOT	22192_3
+22192_3	has_surface_form	is
+22192_4	is_in_sentence	sentence_22192
+22192_4	det	22192_7
+22192_4	has_surface_form	a
+22192_7	is_in_sentence	sentence_22192
+22192_7	attr	22192_3
+22192_7	has_surface_form	carrier
+22192_5	is_in_sentence	sentence_22192
+22192_5	compound	22192_7
+22192_5	has_surface_form	US
+22192_6	is_in_sentence	sentence_22192
+22192_6	compound	22192_7
+22192_6	has_surface_form	air
+22192_8	is_in_sentence	sentence_22192
+22192_8	acl	22192_7
+22192_8	has_surface_form	based
+22192_9	is_in_sentence	sentence_22192
+22192_9	prep	22192_8
+22192_9	has_surface_form	in
+22192_10	is_in_sentence	sentence_22192
+22192_10	pobj	22192_9
+22192_10	is_entity	Milwaukee
+Milwaukee	surface_form	Milwaukee
+22192_11	is_in_sentence	sentence_22192
+22192_11	punct	22192_10
+22192_11	has_surface_form	,
+22192_12	is_in_sentence	sentence_22192
+22192_12	appos	22192_10
+22192_12	has_surface_form	Wisconsin
+22192_13	is_in_sentence	sentence_22192
+22192_13	punct	22192_3
+22192_13	has_surface_form	.
+22192_14	is_in_sentence	sentence_22192
+22192_14	dep	22192_3
+22192_14	has_surface_form	
+Freight Runners Express	surface_form	Freight Runners Express
+Freight Runners Express	headquarters	Milwaukee

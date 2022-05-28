@@ -1,0 +1,66 @@
+34425_0	is_in_sentence	sentence_34425
+34425_0	compound	34425_1
+34425_0	has_surface_form	Carl
+34425_0	part_of_entity	Carl Heinrich Zöllner
+34425_1	is_in_sentence	sentence_34425
+34425_1	compound	34425_2
+34425_1	has_surface_form	Heinrich
+34425_1	part_of_entity	Carl Heinrich Zöllner
+34425_2	is_in_sentence	sentence_34425
+34425_2	nsubj	34425_14
+34425_2	has_surface_form	Zöllner
+34425_2	part_of_entity	Carl Heinrich Zöllner
+34425_14	is_in_sentence	sentence_34425
+34425_14	ROOT	34425_14
+34425_14	has_surface_form	was
+34425_3	is_in_sentence	sentence_34425
+34425_3	punct	34425_2
+34425_3	has_surface_form	(
+34425_4	is_in_sentence	sentence_34425
+34425_4	acl	34425_2
+34425_4	has_surface_form	born
+34425_5	is_in_sentence	sentence_34425
+34425_5	amod	34425_6
+34425_5	has_surface_form	modern
+34425_6	is_in_sentence	sentence_34425
+34425_6	npadvmod	34425_4
+34425_6	is_entity	Oleśnica
+Oleśnica	surface_form	Oleśnica
+34425_7	is_in_sentence	sentence_34425
+34425_7	punct	34425_6
+34425_7	has_surface_form	,
+34425_8	is_in_sentence	sentence_34425
+34425_8	conj	34425_6
+34425_8	has_surface_form	Poland
+34425_9	is_in_sentence	sentence_34425
+34425_9	punct	34425_6
+34425_9	has_surface_form	;
+34425_10	is_in_sentence	sentence_34425
+34425_10	appos	34425_6
+34425_10	has_surface_form	1792
+34425_11	is_in_sentence	sentence_34425
+34425_11	punct	34425_6
+34425_11	has_surface_form	–
+34425_12	is_in_sentence	sentence_34425
+34425_12	appos	34425_6
+34425_12	has_surface_form	1836
+34425_13	is_in_sentence	sentence_34425
+34425_13	punct	34425_2
+34425_13	has_surface_form	)
+34425_15	is_in_sentence	sentence_34425
+34425_15	det	34425_17
+34425_15	has_surface_form	a
+34425_17	is_in_sentence	sentence_34425
+34425_17	attr	34425_14
+34425_17	has_surface_form	composer
+34425_16	is_in_sentence	sentence_34425
+34425_16	amod	34425_17
+34425_16	has_surface_form	German
+34425_18	is_in_sentence	sentence_34425
+34425_18	punct	34425_14
+34425_18	has_surface_form	.
+34425_19	is_in_sentence	sentence_34425
+34425_19	dep	34425_19
+34425_19	has_surface_form	
+Carl Heinrich Zöllner	surface_form	Carl Heinrich Zöllner
+Carl Heinrich Zöllner	birth-place	Oleśnica

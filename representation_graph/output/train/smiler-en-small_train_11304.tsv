@@ -1,0 +1,88 @@
+11303_0	is_in_sentence	sentence_11303
+11303_0	det	11303_2
+11303_0	has_surface_form	The
+11303_2	is_in_sentence	sentence_11303
+11303_2	nsubj	11303_3
+11303_2	has_surface_form	Museum
+11303_2	part_of_entity	Airpower Museum
+11303_1	is_in_sentence	sentence_11303
+11303_1	compound	11303_2
+11303_1	has_surface_form	Airpower
+11303_1	part_of_entity	Airpower Museum
+11303_3	is_in_sentence	sentence_11303
+11303_3	ROOT	11303_3
+11303_3	has_surface_form	is
+11303_4	is_in_sentence	sentence_11303
+11303_4	det	11303_16
+11303_4	has_surface_form	a
+11303_16	is_in_sentence	sentence_11303
+11303_16	attr	11303_3
+11303_16	has_surface_form	museum
+11303_16	part_of_entity	aviation museum
+11303_5	is_in_sentence	sentence_11303
+11303_5	nummod	11303_9
+11303_5	has_surface_form	20,000
+11303_9	is_in_sentence	sentence_11303
+11303_9	nmod	11303_16
+11303_9	has_surface_form	foot
+11303_6	is_in_sentence	sentence_11303
+11303_6	punct	11303_9
+11303_6	has_surface_form	-
+11303_7	is_in_sentence	sentence_11303
+11303_7	amod	11303_9
+11303_7	has_surface_form	square
+11303_8	is_in_sentence	sentence_11303
+11303_8	punct	11303_9
+11303_8	has_surface_form	-
+11303_10	is_in_sentence	sentence_11303
+11303_10	punct	11303_16
+11303_10	has_surface_form	(
+11303_11	is_in_sentence	sentence_11303
+11303_11	nummod	11303_16
+11303_11	has_surface_form	1,900
+11303_12	is_in_sentence	sentence_11303
+11303_12	dep	11303_16
+11303_12	has_surface_form	 
+11303_13	is_in_sentence	sentence_11303
+11303_13	punct	11303_12
+11303_13	has_surface_form	m2
+11303_14	is_in_sentence	sentence_11303
+11303_14	punct	11303_16
+11303_14	has_surface_form	)
+11303_15	is_in_sentence	sentence_11303
+11303_15	compound	11303_16
+11303_15	has_surface_form	aviation
+11303_15	part_of_entity	aviation museum
+11303_17	is_in_sentence	sentence_11303
+11303_17	acl	11303_16
+11303_17	has_surface_form	located
+11303_18	is_in_sentence	sentence_11303
+11303_18	prep	11303_17
+11303_18	has_surface_form	near
+11303_19	is_in_sentence	sentence_11303
+11303_19	pobj	11303_18
+11303_19	has_surface_form	Blakesburg
+11303_20	is_in_sentence	sentence_11303
+11303_20	punct	11303_19
+11303_20	has_surface_form	,
+11303_21	is_in_sentence	sentence_11303
+11303_21	appos	11303_19
+11303_21	has_surface_form	Iowa
+11303_22	is_in_sentence	sentence_11303
+11303_22	prep	11303_21
+11303_22	has_surface_form	on
+11303_23	is_in_sentence	sentence_11303
+11303_23	compound	11303_24
+11303_23	has_surface_form	Antique
+11303_24	is_in_sentence	sentence_11303
+11303_24	pobj	11303_22
+11303_24	has_surface_form	Airfield
+11303_25	is_in_sentence	sentence_11303
+11303_25	punct	11303_3
+11303_25	has_surface_form	.
+11303_26	is_in_sentence	sentence_11303
+11303_26	dep	11303_26
+11303_26	has_surface_form	
+Airpower Museum	surface_form	Airpower Museum
+Airpower Museum	has-type	aviation museum
+aviation museum	surface_form	aviation museum

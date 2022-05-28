@@ -1,0 +1,70 @@
+34818_0	is_in_sentence	sentence_34818
+34818_0	det	34818_4
+34818_0	has_surface_form	The
+34818_4	is_in_sentence	sentence_34818
+34818_4	nsubjpass	34818_6
+34818_4	has_surface_form	machine
+34818_4	part_of_entity	paper machine
+34818_1	is_in_sentence	sentence_34818
+34818_1	amod	34818_4
+34818_1	has_surface_form	first
+34818_2	is_in_sentence	sentence_34818
+34818_2	amod	34818_4
+34818_2	has_surface_form	modern
+34818_3	is_in_sentence	sentence_34818
+34818_3	compound	34818_4
+34818_3	has_surface_form	paper
+34818_3	part_of_entity	paper machine
+34818_6	is_in_sentence	sentence_34818
+34818_6	ROOT	34818_6
+34818_6	has_surface_form	invented
+34818_5	is_in_sentence	sentence_34818
+34818_5	auxpass	34818_6
+34818_5	has_surface_form	was
+34818_7	is_in_sentence	sentence_34818
+34818_7	prep	34818_6
+34818_7	has_surface_form	in
+34818_8	is_in_sentence	sentence_34818
+34818_8	pobj	34818_7
+34818_8	has_surface_form	Britain
+34818_9	is_in_sentence	sentence_34818
+34818_9	agent	34818_6
+34818_9	has_surface_form	by
+34818_10	is_in_sentence	sentence_34818
+34818_10	pobj	34818_9
+34818_10	has_surface_form	Henry
+34818_11	is_in_sentence	sentence_34818
+34818_11	cc	34818_10
+34818_11	has_surface_form	and
+34818_12	is_in_sentence	sentence_34818
+34818_12	compound	34818_13
+34818_12	has_surface_form	Sealy
+34818_12	part_of_entity	Sealy Fourdrinier
+34818_13	is_in_sentence	sentence_34818
+34818_13	conj	34818_10
+34818_13	has_surface_form	Fourdrinier
+34818_13	part_of_entity	Sealy Fourdrinier
+34818_14	is_in_sentence	sentence_34818
+34818_14	punct	34818_6
+34818_14	has_surface_form	,
+34818_15	is_in_sentence	sentence_34818
+34818_15	cc	34818_6
+34818_15	has_surface_form	and
+34818_16	is_in_sentence	sentence_34818
+34818_16	conj	34818_6
+34818_16	has_surface_form	patented
+34818_17	is_in_sentence	sentence_34818
+34818_17	prep	34818_16
+34818_17	has_surface_form	in
+34818_18	is_in_sentence	sentence_34818
+34818_18	pobj	34818_17
+34818_18	has_surface_form	1806
+34818_19	is_in_sentence	sentence_34818
+34818_19	punct	34818_6
+34818_19	has_surface_form	.
+34818_20	is_in_sentence	sentence_34818
+34818_20	dep	34818_20
+34818_20	has_surface_form	
+paper machine	surface_form	paper machine
+paper machine	invented-by	Sealy Fourdrinier
+Sealy Fourdrinier	surface_form	Sealy Fourdrinier

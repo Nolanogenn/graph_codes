@@ -1,0 +1,85 @@
+32139_0	is_in_sentence	sentence_32139
+32139_0	compound	32139_1
+32139_0	has_surface_form	Benny
+32139_0	part_of_entity	Benny Golson
+32139_1	is_in_sentence	sentence_32139
+32139_1	nsubj	32139_9
+32139_1	has_surface_form	Golson
+32139_1	part_of_entity	Benny Golson
+32139_9	is_in_sentence	sentence_32139
+32139_9	ROOT	32139_9
+32139_9	has_surface_form	is
+32139_2	is_in_sentence	sentence_32139
+32139_2	punct	32139_1
+32139_2	has_surface_form	(
+32139_3	is_in_sentence	sentence_32139
+32139_3	acl	32139_1
+32139_3	has_surface_form	born
+32139_4	is_in_sentence	sentence_32139
+32139_4	npadvmod	32139_3
+32139_4	has_surface_form	January
+32139_5	is_in_sentence	sentence_32139
+32139_5	nummod	32139_4
+32139_5	has_surface_form	25
+32139_6	is_in_sentence	sentence_32139
+32139_6	punct	32139_4
+32139_6	has_surface_form	,
+32139_7	is_in_sentence	sentence_32139
+32139_7	nummod	32139_4
+32139_7	has_surface_form	1929
+32139_8	is_in_sentence	sentence_32139
+32139_8	punct	32139_1
+32139_8	has_surface_form	)
+32139_10	is_in_sentence	sentence_32139
+32139_10	det	32139_17
+32139_10	has_surface_form	an
+32139_17	is_in_sentence	sentence_32139
+32139_17	attr	32139_9
+32139_17	has_surface_form	tenor
+32139_11	is_in_sentence	sentence_32139
+32139_11	amod	32139_17
+32139_11	has_surface_form	American
+32139_12	is_in_sentence	sentence_32139
+32139_12	nmod	32139_15
+32139_12	has_surface_form	bebop
+32139_15	is_in_sentence	sentence_32139
+32139_15	compound	32139_17
+32139_15	has_surface_form	bop
+32139_15	part_of_entity	hard bop
+32139_13	is_in_sentence	sentence_32139
+32139_13	punct	32139_15
+32139_13	has_surface_form	/
+32139_14	is_in_sentence	sentence_32139
+32139_14	amod	32139_15
+32139_14	has_surface_form	hard
+32139_14	part_of_entity	hard bop
+32139_16	is_in_sentence	sentence_32139
+32139_16	compound	32139_17
+32139_16	has_surface_form	jazz
+32139_18	is_in_sentence	sentence_32139
+32139_18	appos	32139_17
+32139_18	has_surface_form	saxophonist
+32139_19	is_in_sentence	sentence_32139
+32139_19	punct	32139_18
+32139_19	has_surface_form	,
+32139_20	is_in_sentence	sentence_32139
+32139_20	appos	32139_18
+32139_20	has_surface_form	composer
+32139_21	is_in_sentence	sentence_32139
+32139_21	punct	32139_20
+32139_21	has_surface_form	,
+32139_22	is_in_sentence	sentence_32139
+32139_22	cc	32139_20
+32139_22	has_surface_form	and
+32139_23	is_in_sentence	sentence_32139
+32139_23	conj	32139_20
+32139_23	has_surface_form	arranger
+32139_24	is_in_sentence	sentence_32139
+32139_24	punct	32139_9
+32139_24	has_surface_form	.
+32139_25	is_in_sentence	sentence_32139
+32139_25	dep	32139_25
+32139_25	has_surface_form	
+Benny Golson	surface_form	Benny Golson
+Benny Golson	has-genre	hard bop
+hard bop	surface_form	hard bop

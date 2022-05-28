@@ -1,0 +1,80 @@
+5324_0	is_in_sentence	sentence_5324
+5324_0	det	5324_2
+5324_0	has_surface_form	The
+5324_0	part_of_entity	The New Godfathers
+5324_2	is_in_sentence	sentence_5324
+5324_2	nsubj	5324_12
+5324_2	has_surface_form	Godfathers
+5324_2	part_of_entity	The New Godfathers
+5324_1	is_in_sentence	sentence_5324
+5324_1	compound	5324_2
+5324_1	has_surface_form	New
+5324_1	part_of_entity	The New Godfathers
+5324_12	is_in_sentence	sentence_5324
+5324_12	ROOT	5324_12
+5324_12	has_surface_form	is
+5324_3	is_in_sentence	sentence_5324
+5324_3	punct	5324_2
+5324_3	has_surface_form	(
+5324_4	is_in_sentence	sentence_5324
+5324_4	nsubj	5324_3
+5324_4	has_surface_form	Italian
+5324_5	is_in_sentence	sentence_5324
+5324_5	punct	5324_7
+5324_5	has_surface_form	:
+5324_7	is_in_sentence	sentence_5324
+5324_7	parataxis	5324_2
+5324_7	has_surface_form	contrabbandieri
+5324_6	is_in_sentence	sentence_5324
+5324_6	nsubj	5324_7
+5324_6	has_surface_form	I
+5324_8	is_in_sentence	sentence_5324
+5324_8	dep	5324_7
+5324_8	has_surface_form	di
+5324_9	is_in_sentence	sentence_5324
+5324_9	compound	5324_10
+5324_9	has_surface_form	Santa
+5324_10	is_in_sentence	sentence_5324
+5324_10	dobj	5324_7
+5324_10	has_surface_form	Lucia
+5324_11	is_in_sentence	sentence_5324
+5324_11	punct	5324_7
+5324_11	has_surface_form	)
+5324_13	is_in_sentence	sentence_5324
+5324_13	det	5324_17
+5324_13	has_surface_form	a
+5324_17	is_in_sentence	sentence_5324
+5324_17	attr	5324_12
+5324_17	has_surface_form	film
+5324_14	is_in_sentence	sentence_5324
+5324_14	nummod	5324_17
+5324_14	has_surface_form	1979
+5324_15	is_in_sentence	sentence_5324
+5324_15	amod	5324_17
+5324_15	has_surface_form	Italian
+5324_16	is_in_sentence	sentence_5324
+5324_16	compound	5324_17
+5324_16	has_surface_form	poliziottesco
+5324_18	is_in_sentence	sentence_5324
+5324_18	acl	5324_17
+5324_18	has_surface_form	directed
+5324_19	is_in_sentence	sentence_5324
+5324_19	agent	5324_18
+5324_19	has_surface_form	by
+5324_20	is_in_sentence	sentence_5324
+5324_20	compound	5324_21
+5324_20	has_surface_form	Alfonso
+5324_20	part_of_entity	Alfonso Brescia
+5324_21	is_in_sentence	sentence_5324
+5324_21	pobj	5324_19
+5324_21	has_surface_form	Brescia
+5324_21	part_of_entity	Alfonso Brescia
+5324_22	is_in_sentence	sentence_5324
+5324_22	punct	5324_12
+5324_22	has_surface_form	.
+5324_23	is_in_sentence	sentence_5324
+5324_23	dep	5324_23
+5324_23	has_surface_form	
+The New Godfathers	surface_form	The New Godfathers
+The New Godfathers	movie-has-director	Alfonso Brescia
+Alfonso Brescia	surface_form	Alfonso Brescia

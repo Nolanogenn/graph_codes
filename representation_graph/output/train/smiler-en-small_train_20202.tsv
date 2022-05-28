@@ -1,0 +1,119 @@
+20201_0	is_in_sentence	sentence_20201
+20201_0	compound	20201_1
+20201_0	has_surface_form	Air
+20201_0	part_of_entity	Air Force
+20201_1	is_in_sentence	sentence_20201
+20201_1	compound	20201_2
+20201_1	has_surface_form	Force
+20201_1	part_of_entity	Air Force
+20201_2	is_in_sentence	sentence_20201
+20201_2	compound	20201_4
+20201_2	has_surface_form	editor
+20201_4	is_in_sentence	sentence_20201
+20201_4	nsubj	20201_5
+20201_4	has_surface_form	Amy
+20201_3	is_in_sentence	sentence_20201
+20201_3	compound	20201_4
+20201_3	has_surface_form	George
+20201_5	is_in_sentence	sentence_20201
+20201_5	ROOT	20201_5
+20201_5	has_surface_form	won
+20201_6	is_in_sentence	sentence_20201
+20201_6	det	20201_9
+20201_6	has_surface_form	the
+20201_9	is_in_sentence	sentence_20201
+20201_9	dobj	20201_5
+20201_9	has_surface_form	Award
+20201_9	part_of_entity	Academy Award for Best Film Editing
+20201_7	is_in_sentence	sentence_20201
+20201_7	nummod	20201_9
+20201_7	has_surface_form	1944
+20201_8	is_in_sentence	sentence_20201
+20201_8	compound	20201_9
+20201_8	has_surface_form	Academy
+20201_8	part_of_entity	Academy Award for Best Film Editing
+20201_10	is_in_sentence	sentence_20201
+20201_10	prep	20201_9
+20201_10	has_surface_form	for
+20201_10	part_of_entity	Academy Award for Best Film Editing
+20201_11	is_in_sentence	sentence_20201
+20201_11	compound	20201_13
+20201_11	has_surface_form	Best
+20201_11	part_of_entity	Academy Award for Best Film Editing
+20201_13	is_in_sentence	sentence_20201
+20201_13	pobj	20201_10
+20201_13	has_surface_form	Editing
+20201_13	part_of_entity	Academy Award for Best Film Editing
+20201_12	is_in_sentence	sentence_20201
+20201_12	compound	20201_13
+20201_12	has_surface_form	Film
+20201_12	part_of_entity	Academy Award for Best Film Editing
+20201_14	is_in_sentence	sentence_20201
+20201_14	punct	20201_5
+20201_14	has_surface_form	,
+20201_15	is_in_sentence	sentence_20201
+20201_15	advcl	20201_5
+20201_15	has_surface_form	defeating
+20201_16	is_in_sentence	sentence_20201
+20201_16	dobj	20201_15
+20201_16	has_surface_form	Casablanca
+20201_17	is_in_sentence	sentence_20201
+20201_17	punct	20201_16
+20201_17	has_surface_form	,
+20201_18	is_in_sentence	sentence_20201
+20201_18	prep	20201_22
+20201_18	has_surface_form	For
+20201_22	is_in_sentence	sentence_20201
+20201_22	conj	20201_16
+20201_22	has_surface_form	Tolls
+20201_19	is_in_sentence	sentence_20201
+20201_19	pobj	20201_18
+20201_19	has_surface_form	Whom
+20201_20	is_in_sentence	sentence_20201
+20201_20	det	20201_22
+20201_20	has_surface_form	the
+20201_21	is_in_sentence	sentence_20201
+20201_21	compound	20201_22
+20201_21	has_surface_form	Bell
+20201_23	is_in_sentence	sentence_20201
+20201_23	punct	20201_22
+20201_23	has_surface_form	,
+20201_24	is_in_sentence	sentence_20201
+20201_24	nummod	20201_25
+20201_24	has_surface_form	Five
+20201_25	is_in_sentence	sentence_20201
+20201_25	appos	20201_22
+20201_25	has_surface_form	Graves
+20201_26	is_in_sentence	sentence_20201
+20201_26	prep	20201_25
+20201_26	has_surface_form	to
+20201_27	is_in_sentence	sentence_20201
+20201_27	pobj	20201_26
+20201_27	has_surface_form	Cairo
+20201_28	is_in_sentence	sentence_20201
+20201_28	punct	20201_22
+20201_28	has_surface_form	,
+20201_29	is_in_sentence	sentence_20201
+20201_29	cc	20201_22
+20201_29	has_surface_form	and
+20201_30	is_in_sentence	sentence_20201
+20201_30	det	20201_31
+20201_30	has_surface_form	The
+20201_31	is_in_sentence	sentence_20201
+20201_31	conj	20201_22
+20201_31	has_surface_form	Song
+20201_32	is_in_sentence	sentence_20201
+20201_32	prep	20201_31
+20201_32	has_surface_form	of
+20201_33	is_in_sentence	sentence_20201
+20201_33	pobj	20201_32
+20201_33	has_surface_form	Bernadette
+20201_34	is_in_sentence	sentence_20201
+20201_34	punct	20201_5
+20201_34	has_surface_form	.
+20201_35	is_in_sentence	sentence_20201
+20201_35	dep	20201_35
+20201_35	has_surface_form	
+Air Force	surface_form	Air Force
+Air Force	won-award	Academy Award for Best Film Editing
+Academy Award for Best Film Editing	surface_form	Academy Award for Best Film Editing

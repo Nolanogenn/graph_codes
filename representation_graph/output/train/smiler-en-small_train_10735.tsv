@@ -1,0 +1,104 @@
+10734_0	is_in_sentence	sentence_10734
+10734_0	compound	10734_1
+10734_0	has_surface_form	Julia
+10734_0	part_of_entity	Julia Glass
+10734_1	is_in_sentence	sentence_10734
+10734_1	nsubj	10734_9
+10734_1	has_surface_form	Glass
+10734_1	part_of_entity	Julia Glass
+10734_9	is_in_sentence	sentence_10734
+10734_9	ROOT	10734_9
+10734_9	has_surface_form	is
+10734_2	is_in_sentence	sentence_10734
+10734_2	punct	10734_1
+10734_2	has_surface_form	(
+10734_3	is_in_sentence	sentence_10734
+10734_3	acl	10734_1
+10734_3	has_surface_form	born
+10734_4	is_in_sentence	sentence_10734
+10734_4	npadvmod	10734_3
+10734_4	has_surface_form	March
+10734_5	is_in_sentence	sentence_10734
+10734_5	nummod	10734_4
+10734_5	has_surface_form	23
+10734_6	is_in_sentence	sentence_10734
+10734_6	punct	10734_4
+10734_6	has_surface_form	,
+10734_7	is_in_sentence	sentence_10734
+10734_7	nummod	10734_4
+10734_7	has_surface_form	1956
+10734_8	is_in_sentence	sentence_10734
+10734_8	punct	10734_1
+10734_8	has_surface_form	)
+10734_10	is_in_sentence	sentence_10734
+10734_10	det	10734_12
+10734_10	has_surface_form	an
+10734_12	is_in_sentence	sentence_10734
+10734_12	attr	10734_9
+10734_12	has_surface_form	novelist
+10734_11	is_in_sentence	sentence_10734
+10734_11	amod	10734_12
+10734_11	has_surface_form	American
+10734_13	is_in_sentence	sentence_10734
+10734_13	punct	10734_9
+10734_13	has_surface_form	.
+10734_14	is_in_sentence	sentence_10734
+10734_14	poss	10734_16
+10734_14	has_surface_form	Her
+10734_16	is_in_sentence	sentence_10734
+10734_16	nsubj	10734_21
+10734_16	has_surface_form	novel
+10734_15	is_in_sentence	sentence_10734
+10734_15	compound	10734_16
+10734_15	has_surface_form	debut
+10734_21	is_in_sentence	sentence_10734
+10734_21	ROOT	10734_21
+10734_21	has_surface_form	won
+10734_17	is_in_sentence	sentence_10734
+10734_17	punct	10734_16
+10734_17	has_surface_form	,
+10734_18	is_in_sentence	sentence_10734
+10734_18	nummod	10734_19
+10734_18	has_surface_form	Three
+10734_19	is_in_sentence	sentence_10734
+10734_19	appos	10734_16
+10734_19	has_surface_form	Junes
+10734_20	is_in_sentence	sentence_10734
+10734_20	punct	10734_16
+10734_20	has_surface_form	,
+10734_22	is_in_sentence	sentence_10734
+10734_22	det	10734_25
+10734_22	has_surface_form	the
+10734_25	is_in_sentence	sentence_10734
+10734_25	dobj	10734_21
+10734_25	has_surface_form	Award
+10734_25	part_of_entity	National Book Award
+10734_23	is_in_sentence	sentence_10734
+10734_23	compound	10734_25
+10734_23	has_surface_form	National
+10734_23	part_of_entity	National Book Award
+10734_24	is_in_sentence	sentence_10734
+10734_24	compound	10734_25
+10734_24	has_surface_form	Book
+10734_24	part_of_entity	National Book Award
+10734_26	is_in_sentence	sentence_10734
+10734_26	prep	10734_25
+10734_26	has_surface_form	for
+10734_27	is_in_sentence	sentence_10734
+10734_27	pobj	10734_26
+10734_27	has_surface_form	Fiction
+10734_28	is_in_sentence	sentence_10734
+10734_28	prep	10734_21
+10734_28	has_surface_form	in
+10734_29	is_in_sentence	sentence_10734
+10734_29	pobj	10734_28
+10734_29	has_surface_form	2002
+10734_30	is_in_sentence	sentence_10734
+10734_30	punct	10734_21
+10734_30	has_surface_form	.
+10734_31	is_in_sentence	sentence_10734
+10734_31	dep	10734_31
+10734_31	has_surface_form	
+Julia Glass	surface_form	Julia Glass
+Julia Glass	won-award	National Book Award
+National Book Award	surface_form	National Book Award

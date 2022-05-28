@@ -1,0 +1,62 @@
+21683_0	is_in_sentence	sentence_21683
+21683_0	compound	21683_1
+21683_0	has_surface_form	Markku
+21683_0	part_of_entity	Markku Uusipaavalniemi
+21683_1	is_in_sentence	sentence_21683
+21683_1	nsubj	21683_10
+21683_1	has_surface_form	Uusipaavalniemi
+21683_1	part_of_entity	Markku Uusipaavalniemi
+21683_10	is_in_sentence	sentence_21683
+21683_10	ROOT	21683_10
+21683_10	has_surface_form	is
+21683_2	is_in_sentence	sentence_21683
+21683_2	punct	21683_3
+21683_2	has_surface_form	(
+21683_3	is_in_sentence	sentence_21683
+21683_3	parataxis	21683_1
+21683_3	has_surface_form	born
+21683_4	is_in_sentence	sentence_21683
+21683_4	nummod	21683_5
+21683_4	has_surface_form	23
+21683_5	is_in_sentence	sentence_21683
+21683_5	npadvmod	21683_3
+21683_5	has_surface_form	November
+21683_6	is_in_sentence	sentence_21683
+21683_6	nummod	21683_5
+21683_6	has_surface_form	1966
+21683_7	is_in_sentence	sentence_21683
+21683_7	prep	21683_3
+21683_7	has_surface_form	in
+21683_8	is_in_sentence	sentence_21683
+21683_8	pobj	21683_7
+21683_8	is_entity	Karkkila
+Karkkila	surface_form	Karkkila
+21683_9	is_in_sentence	sentence_21683
+21683_9	punct	21683_1
+21683_9	has_surface_form	)
+21683_11	is_in_sentence	sentence_21683
+21683_11	det	21683_13
+21683_11	has_surface_form	a
+21683_13	is_in_sentence	sentence_21683
+21683_13	attr	21683_10
+21683_13	has_surface_form	curler
+21683_12	is_in_sentence	sentence_21683
+21683_12	amod	21683_13
+21683_12	has_surface_form	Finnish
+21683_14	is_in_sentence	sentence_21683
+21683_14	cc	21683_13
+21683_14	has_surface_form	and
+21683_15	is_in_sentence	sentence_21683
+21683_15	amod	21683_16
+21683_15	has_surface_form	former
+21683_16	is_in_sentence	sentence_21683
+21683_16	conj	21683_13
+21683_16	has_surface_form	politician
+21683_17	is_in_sentence	sentence_21683
+21683_17	punct	21683_10
+21683_17	has_surface_form	.
+21683_18	is_in_sentence	sentence_21683
+21683_18	dep	21683_10
+21683_18	has_surface_form	
+Markku Uusipaavalniemi	surface_form	Markku Uusipaavalniemi
+Markku Uusipaavalniemi	birth-place	Karkkila

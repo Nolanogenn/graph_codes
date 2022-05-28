@@ -1,0 +1,59 @@
+2720_0	is_in_sentence	sentence_2720
+2720_0	nsubj	2720_1
+2720_0	is_entity	Harley
+2720_1	is_in_sentence	sentence_2720
+2720_1	ROOT	2720_1
+2720_1	has_surface_form	was
+Harley	surface_form	Harley
+Harley	has-parent	Edward Harley
+2720_2	is_in_sentence	sentence_2720
+2720_2	det	2720_4
+2720_2	has_surface_form	the
+2720_4	is_in_sentence	sentence_2720
+2720_4	attr	2720_1
+2720_4	has_surface_form	son
+2720_3	is_in_sentence	sentence_2720
+2720_3	amod	2720_4
+2720_3	has_surface_form	second
+2720_5	is_in_sentence	sentence_2720
+2720_5	prep	2720_4
+2720_5	has_surface_form	of
+2720_6	is_in_sentence	sentence_2720
+2720_6	compound	2720_7
+2720_6	has_surface_form	Edward
+2720_6	part_of_entity	Edward Harley
+2720_7	is_in_sentence	sentence_2720
+2720_7	pobj	2720_5
+2720_7	is_entity	Harley
+2720_7	part_of_entity	Edward Harley
+2720_8	is_in_sentence	sentence_2720
+2720_8	punct	2720_7
+2720_8	has_surface_form	,
+2720_9	is_in_sentence	sentence_2720
+2720_9	compound	2720_10
+2720_9	has_surface_form	3rd
+2720_10	is_in_sentence	sentence_2720
+2720_10	appos	2720_4
+2720_10	has_surface_form	Earl
+2720_11	is_in_sentence	sentence_2720
+2720_11	prep	2720_10
+2720_11	has_surface_form	of
+2720_12	is_in_sentence	sentence_2720
+2720_12	pobj	2720_11
+2720_12	has_surface_form	Oxford
+2720_13	is_in_sentence	sentence_2720
+2720_13	cc	2720_12
+2720_13	has_surface_form	and
+2720_14	is_in_sentence	sentence_2720
+2720_14	compound	2720_15
+2720_14	has_surface_form	Earl
+2720_15	is_in_sentence	sentence_2720
+2720_15	conj	2720_10
+2720_15	has_surface_form	Mortimer
+2720_16	is_in_sentence	sentence_2720
+2720_16	punct	2720_1
+2720_16	has_surface_form	.
+2720_17	is_in_sentence	sentence_2720
+2720_17	dep	2720_1
+2720_17	has_surface_form	
+Edward Harley	surface_form	Edward Harley

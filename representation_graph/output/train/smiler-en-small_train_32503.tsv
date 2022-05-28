@@ -1,0 +1,59 @@
+32502_0	is_in_sentence	sentence_32502
+32502_0	det	32502_1
+32502_0	has_surface_form	The
+32502_1	is_in_sentence	sentence_32502
+32502_1	poss	32502_3
+32502_1	has_surface_form	Cow
+32502_3	is_in_sentence	sentence_32502
+32502_3	nsubj	32502_4
+32502_3	has_surface_form	Kimona
+32502_2	is_in_sentence	sentence_32502
+32502_2	case	32502_1
+32502_2	has_surface_form	's
+32502_4	is_in_sentence	sentence_32502
+32502_4	ROOT	32502_4
+32502_4	has_surface_form	is
+32502_5	is_in_sentence	sentence_32502
+32502_5	det	32502_8
+32502_5	has_surface_form	a
+32502_8	is_in_sentence	sentence_32502
+32502_8	attr	32502_4
+32502_8	has_surface_form	film
+32502_6	is_in_sentence	sentence_32502
+32502_6	nummod	32502_8
+32502_6	has_surface_form	1926
+32502_7	is_in_sentence	sentence_32502
+32502_7	amod	32502_8
+32502_7	has_surface_form	American
+32502_9	is_in_sentence	sentence_32502
+32502_9	acl	32502_8
+32502_9	has_surface_form	starring
+32502_10	is_in_sentence	sentence_32502
+32502_10	compound	32502_11
+32502_10	has_surface_form	Glenn
+32502_10	part_of_entity	Glenn Tryon
+32502_11	is_in_sentence	sentence_32502
+32502_11	dobj	32502_9
+32502_11	has_surface_form	Tryon
+32502_11	part_of_entity	Glenn Tryon
+32502_12	is_in_sentence	sentence_32502
+32502_12	cc	32502_9
+32502_12	has_surface_form	and
+32502_13	is_in_sentence	sentence_32502
+32502_13	conj	32502_9
+32502_13	has_surface_form	featuring
+32502_14	is_in_sentence	sentence_32502
+32502_14	compound	32502_15
+32502_14	has_surface_form	Oliver
+32502_15	is_in_sentence	sentence_32502
+32502_15	dobj	32502_13
+32502_15	has_surface_form	Hardy
+32502_16	is_in_sentence	sentence_32502
+32502_16	punct	32502_4
+32502_16	has_surface_form	.
+32502_17	is_in_sentence	sentence_32502
+32502_17	dep	32502_17
+32502_17	has_surface_form	
+The Cow's Kimona	surface_form	The Cow's Kimona
+The Cow's Kimona	starring	Glenn Tryon
+Glenn Tryon	surface_form	Glenn Tryon

@@ -1,0 +1,53 @@
+18051_0	is_in_sentence	sentence_18051
+18051_0	compound	18051_1
+18051_0	has_surface_form	Pedro
+18051_0	part_of_entity	Pedro Díaz
+18051_1	is_in_sentence	sentence_18051
+18051_1	nsubj	18051_9
+18051_1	has_surface_form	Díaz
+18051_1	part_of_entity	Pedro Díaz
+18051_9	is_in_sentence	sentence_18051
+18051_9	ROOT	18051_9
+18051_9	has_surface_form	was
+18051_2	is_in_sentence	sentence_18051
+18051_2	punct	18051_1
+18051_2	has_surface_form	(
+18051_3	is_in_sentence	sentence_18051
+18051_3	appos	18051_1
+18051_3	has_surface_form	1546
+18051_4	is_in_sentence	sentence_18051
+18051_4	punct	18051_1
+18051_4	has_surface_form	–
+18051_5	is_in_sentence	sentence_18051
+18051_5	nummod	18051_6
+18051_5	has_surface_form	12
+18051_6	is_in_sentence	sentence_18051
+18051_6	appos	18051_1
+18051_6	has_surface_form	January
+18051_7	is_in_sentence	sentence_18051
+18051_7	nummod	18051_6
+18051_7	has_surface_form	1618
+18051_8	is_in_sentence	sentence_18051
+18051_8	punct	18051_6
+18051_8	has_surface_form	)
+18051_10	is_in_sentence	sentence_18051
+18051_10	det	18051_12
+18051_10	has_surface_form	a
+18051_12	is_in_sentence	sentence_18051
+18051_12	compound	18051_13
+18051_12	has_surface_form	Catholic
+18051_11	is_in_sentence	sentence_18051
+18051_11	compound	18051_12
+18051_11	has_surface_form	Roman
+18051_13	is_in_sentence	sentence_18051
+18051_13	attr	18051_9
+18051_13	is_entity	missionary
+missionary	surface_form	missionary
+18051_14	is_in_sentence	sentence_18051
+18051_14	punct	18051_9
+18051_14	has_surface_form	.
+18051_15	is_in_sentence	sentence_18051
+18051_15	dep	18051_9
+18051_15	has_surface_form	
+Pedro Díaz	surface_form	Pedro Díaz
+Pedro Díaz	has-occupation	missionary

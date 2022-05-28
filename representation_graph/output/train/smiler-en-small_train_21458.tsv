@@ -1,0 +1,50 @@
+21457_0	is_in_sentence	sentence_21457
+21457_0	compound	21457_1
+21457_0	has_surface_form	Wivenhoe
+21457_0	part_of_entity	Wivenhoe Pocket
+21457_1	is_in_sentence	sentence_21457
+21457_1	nsubj	21457_2
+21457_1	has_surface_form	Pocket
+21457_1	part_of_entity	Wivenhoe Pocket
+21457_2	is_in_sentence	sentence_21457
+21457_2	ROOT	21457_2
+21457_2	has_surface_form	is
+21457_3	is_in_sentence	sentence_21457
+21457_3	det	21457_5
+21457_3	has_surface_form	a
+21457_5	is_in_sentence	sentence_21457
+21457_5	attr	21457_2
+21457_5	is_entity	suburb
+21457_4	is_in_sentence	sentence_21457
+21457_4	amod	21457_5
+21457_4	has_surface_form	rural
+suburb	surface_form	suburb
+21457_6	is_in_sentence	sentence_21457
+21457_6	prep	21457_5
+21457_6	has_surface_form	of
+21457_7	is_in_sentence	sentence_21457
+21457_7	compound	21457_8
+21457_7	has_surface_form	Somerset
+21457_8	is_in_sentence	sentence_21457
+21457_8	pobj	21457_6
+21457_8	has_surface_form	Region
+21457_9	is_in_sentence	sentence_21457
+21457_9	punct	21457_8
+21457_9	has_surface_form	,
+21457_10	is_in_sentence	sentence_21457
+21457_10	conj	21457_8
+21457_10	has_surface_form	Queensland
+21457_11	is_in_sentence	sentence_21457
+21457_11	punct	21457_10
+21457_11	has_surface_form	,
+21457_12	is_in_sentence	sentence_21457
+21457_12	appos	21457_10
+21457_12	has_surface_form	Australia
+21457_13	is_in_sentence	sentence_21457
+21457_13	punct	21457_2
+21457_13	has_surface_form	.
+21457_14	is_in_sentence	sentence_21457
+21457_14	dep	21457_2
+21457_14	has_surface_form	
+Wivenhoe Pocket	surface_form	Wivenhoe Pocket
+Wivenhoe Pocket	has-type	suburb

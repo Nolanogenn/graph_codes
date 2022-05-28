@@ -1,0 +1,73 @@
+10923_0	is_in_sentence	sentence_10923
+10923_0	compound	10923_1
+10923_0	has_surface_form	Adam
+10923_0	part_of_entity	Adam Bouzid
+10923_1	is_in_sentence	sentence_10923
+10923_1	nsubj	10923_8
+10923_1	has_surface_form	Bouzid
+10923_1	part_of_entity	Adam Bouzid
+10923_8	is_in_sentence	sentence_10923
+10923_8	ROOT	10923_8
+10923_8	has_surface_form	is
+10923_2	is_in_sentence	sentence_10923
+10923_2	punct	10923_1
+10923_2	has_surface_form	(
+10923_3	is_in_sentence	sentence_10923
+10923_3	acl	10923_1
+10923_3	has_surface_form	born
+10923_4	is_in_sentence	sentence_10923
+10923_4	npadvmod	10923_3
+10923_4	has_surface_form	30
+10923_5	is_in_sentence	sentence_10923
+10923_5	npadvmod	10923_3
+10923_5	has_surface_form	November
+10923_6	is_in_sentence	sentence_10923
+10923_6	nummod	10923_5
+10923_6	has_surface_form	1987
+10923_7	is_in_sentence	sentence_10923
+10923_7	punct	10923_1
+10923_7	has_surface_form	)
+10923_9	is_in_sentence	sentence_10923
+10923_9	det	10923_13
+10923_9	has_surface_form	a
+10923_13	is_in_sentence	sentence_10923
+10923_13	attr	10923_8
+10923_13	has_surface_form	footballer
+10923_10	is_in_sentence	sentence_10923
+10923_10	amod	10923_12
+10923_10	has_surface_form	French
+10923_12	is_in_sentence	sentence_10923
+10923_12	compound	10923_13
+10923_12	has_surface_form	Algerian
+10923_11	is_in_sentence	sentence_10923
+10923_11	punct	10923_12
+10923_11	has_surface_form	-
+10923_14	is_in_sentence	sentence_10923
+10923_14	nsubj	10923_16
+10923_14	has_surface_form	who
+10923_16	is_in_sentence	sentence_10923
+10923_16	relcl	10923_13
+10923_16	has_surface_form	plays
+10923_15	is_in_sentence	sentence_10923
+10923_15	advmod	10923_16
+10923_15	has_surface_form	currently
+10923_17	is_in_sentence	sentence_10923
+10923_17	prep	10923_16
+10923_17	has_surface_form	for
+10923_18	is_in_sentence	sentence_10923
+10923_18	compound	10923_19
+10923_18	has_surface_form	SVN
+10923_18	part_of_entity	SVN Zweibrücken
+10923_19	is_in_sentence	sentence_10923
+10923_19	pobj	10923_17
+10923_19	has_surface_form	Zweibrücken
+10923_19	part_of_entity	SVN Zweibrücken
+10923_20	is_in_sentence	sentence_10923
+10923_20	punct	10923_8
+10923_20	has_surface_form	.
+10923_21	is_in_sentence	sentence_10923
+10923_21	dep	10923_8
+10923_21	has_surface_form	
+Adam Bouzid	surface_form	Adam Bouzid
+Adam Bouzid	is-member-of	SVN Zweibrücken
+SVN Zweibrücken	surface_form	SVN Zweibrücken

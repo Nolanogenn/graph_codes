@@ -1,0 +1,71 @@
+4058_0	is_in_sentence	sentence_4058
+4058_0	compound	4058_1
+4058_0	has_surface_form	Pennsylvania
+4058_0	part_of_entity	Pennsylvania Route 641
+4058_1	is_in_sentence	sentence_4058
+4058_1	nsubj	4058_7
+4058_1	has_surface_form	Route
+4058_1	part_of_entity	Pennsylvania Route 641
+4058_7	is_in_sentence	sentence_4058
+4058_7	ROOT	4058_7
+4058_7	has_surface_form	is
+4058_2	is_in_sentence	sentence_4058
+4058_2	nummod	4058_1
+4058_2	has_surface_form	641
+4058_2	part_of_entity	Pennsylvania Route 641
+4058_3	is_in_sentence	sentence_4058
+4058_3	punct	4058_1
+4058_3	has_surface_form	(
+4058_4	is_in_sentence	sentence_4058
+4058_4	appos	4058_1
+4058_4	has_surface_form	PA
+4058_5	is_in_sentence	sentence_4058
+4058_5	nummod	4058_4
+4058_5	has_surface_form	641
+4058_6	is_in_sentence	sentence_4058
+4058_6	punct	4058_4
+4058_6	has_surface_form	)
+4058_8	is_in_sentence	sentence_4058
+4058_8	det	4058_10
+4058_8	has_surface_form	a
+4058_10	is_in_sentence	sentence_4058
+4058_10	attr	4058_7
+4058_10	has_surface_form	route
+4058_10	part_of_entity	state route
+4058_9	is_in_sentence	sentence_4058
+4058_9	compound	4058_10
+4058_9	has_surface_form	state
+4058_9	part_of_entity	state route
+4058_11	is_in_sentence	sentence_4058
+4058_11	acl	4058_10
+4058_11	has_surface_form	located
+4058_12	is_in_sentence	sentence_4058
+4058_12	prep	4058_11
+4058_12	has_surface_form	in
+4058_13	is_in_sentence	sentence_4058
+4058_13	compound	4058_14
+4058_13	has_surface_form	Central
+4058_14	is_in_sentence	sentence_4058
+4058_14	pobj	4058_12
+4058_14	has_surface_form	Pennsylvania
+4058_15	is_in_sentence	sentence_4058
+4058_15	prep	4058_11
+4058_15	has_surface_form	in
+4058_16	is_in_sentence	sentence_4058
+4058_16	det	4058_18
+4058_16	has_surface_form	the
+4058_18	is_in_sentence	sentence_4058
+4058_18	pobj	4058_15
+4058_18	has_surface_form	States
+4058_17	is_in_sentence	sentence_4058
+4058_17	compound	4058_18
+4058_17	has_surface_form	United
+4058_19	is_in_sentence	sentence_4058
+4058_19	punct	4058_7
+4058_19	has_surface_form	.
+4058_20	is_in_sentence	sentence_4058
+4058_20	dep	4058_7
+4058_20	has_surface_form	
+Pennsylvania Route 641	surface_form	Pennsylvania Route 641
+Pennsylvania Route 641	has-type	state route
+state route	surface_form	state route

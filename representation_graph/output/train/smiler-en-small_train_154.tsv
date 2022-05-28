@@ -1,0 +1,73 @@
+153_0	is_in_sentence	sentence_153
+153_0	compound	153_1
+153_0	has_surface_form	Passport
+153_0	part_of_entity	Passport Husband
+153_1	is_in_sentence	sentence_153
+153_1	nsubj	153_2
+153_1	has_surface_form	Husband
+153_1	part_of_entity	Passport Husband
+153_2	is_in_sentence	sentence_153
+153_2	ROOT	153_2
+153_2	has_surface_form	is
+153_3	is_in_sentence	sentence_153
+153_3	det	153_7
+153_3	has_surface_form	a
+153_7	is_in_sentence	sentence_153
+153_7	attr	153_2
+153_7	has_surface_form	film
+153_4	is_in_sentence	sentence_153
+153_4	nummod	153_7
+153_4	has_surface_form	1938
+153_5	is_in_sentence	sentence_153
+153_5	amod	153_7
+153_5	has_surface_form	American
+153_6	is_in_sentence	sentence_153
+153_6	compound	153_7
+153_6	has_surface_form	comedy
+153_8	is_in_sentence	sentence_153
+153_8	acl	153_7
+153_8	has_surface_form	directed
+153_9	is_in_sentence	sentence_153
+153_9	agent	153_8
+153_9	has_surface_form	by
+153_10	is_in_sentence	sentence_153
+153_10	compound	153_11
+153_10	has_surface_form	James
+153_10	part_of_entity	James Tinling
+153_11	is_in_sentence	sentence_153
+153_11	pobj	153_9
+153_11	has_surface_form	Tinling
+153_11	part_of_entity	James Tinling
+153_12	is_in_sentence	sentence_153
+153_12	cc	153_8
+153_12	has_surface_form	and
+153_13	is_in_sentence	sentence_153
+153_13	conj	153_8
+153_13	has_surface_form	written
+153_14	is_in_sentence	sentence_153
+153_14	agent	153_13
+153_14	has_surface_form	by
+153_15	is_in_sentence	sentence_153
+153_15	compound	153_16
+153_15	has_surface_form	Karen
+153_16	is_in_sentence	sentence_153
+153_16	pobj	153_14
+153_16	has_surface_form	DeWolf
+153_17	is_in_sentence	sentence_153
+153_17	cc	153_16
+153_17	has_surface_form	and
+153_18	is_in_sentence	sentence_153
+153_18	compound	153_19
+153_18	has_surface_form	Robert
+153_19	is_in_sentence	sentence_153
+153_19	conj	153_16
+153_19	has_surface_form	Chapin
+153_20	is_in_sentence	sentence_153
+153_20	punct	153_2
+153_20	has_surface_form	.
+153_21	is_in_sentence	sentence_153
+153_21	dep	153_2
+153_21	has_surface_form	
+Passport Husband	surface_form	Passport Husband
+Passport Husband	movie-has-director	James Tinling
+James Tinling	surface_form	James Tinling

@@ -1,0 +1,67 @@
+20038_0	is_in_sentence	sentence_20038
+20038_0	det	20038_1
+20038_0	has_surface_form	A
+20038_0	part_of_entity	A Gangstergirl
+20038_1	is_in_sentence	sentence_20038
+20038_1	nsubj	20038_8
+20038_1	has_surface_form	Gangstergirl
+20038_1	part_of_entity	A Gangstergirl
+20038_8	is_in_sentence	sentence_20038
+20038_8	ROOT	20038_8
+20038_8	has_surface_form	is
+20038_2	is_in_sentence	sentence_20038
+20038_2	punct	20038_3
+20038_2	has_surface_form	(
+20038_3	is_in_sentence	sentence_20038
+20038_3	appos	20038_1
+20038_3	has_surface_form	Dutch
+20038_4	is_in_sentence	sentence_20038
+20038_4	punct	20038_3
+20038_4	has_surface_form	:
+20038_5	is_in_sentence	sentence_20038
+20038_5	compound	20038_6
+20038_5	has_surface_form	Het
+20038_6	is_in_sentence	sentence_20038
+20038_6	appos	20038_3
+20038_6	has_surface_form	Gangstermeisje
+20038_7	is_in_sentence	sentence_20038
+20038_7	punct	20038_3
+20038_7	has_surface_form	)
+20038_9	is_in_sentence	sentence_20038
+20038_9	det	20038_13
+20038_9	has_surface_form	a
+20038_13	is_in_sentence	sentence_20038
+20038_13	attr	20038_8
+20038_13	has_surface_form	film
+20038_10	is_in_sentence	sentence_20038
+20038_10	nummod	20038_13
+20038_10	has_surface_form	1966
+20038_11	is_in_sentence	sentence_20038
+20038_11	amod	20038_13
+20038_11	has_surface_form	Dutch
+20038_12	is_in_sentence	sentence_20038
+20038_12	compound	20038_13
+20038_12	has_surface_form	drama
+20038_14	is_in_sentence	sentence_20038
+20038_14	acl	20038_13
+20038_14	has_surface_form	directed
+20038_15	is_in_sentence	sentence_20038
+20038_15	agent	20038_14
+20038_15	has_surface_form	by
+20038_16	is_in_sentence	sentence_20038
+20038_16	compound	20038_17
+20038_16	has_surface_form	Frans
+20038_16	part_of_entity	Frans Weisz
+20038_17	is_in_sentence	sentence_20038
+20038_17	pobj	20038_15
+20038_17	has_surface_form	Weisz
+20038_17	part_of_entity	Frans Weisz
+20038_18	is_in_sentence	sentence_20038
+20038_18	punct	20038_8
+20038_18	has_surface_form	.
+20038_19	is_in_sentence	sentence_20038
+20038_19	dep	20038_8
+20038_19	has_surface_form	
+A Gangstergirl	surface_form	A Gangstergirl
+A Gangstergirl	movie-has-director	Frans Weisz
+Frans Weisz	surface_form	Frans Weisz

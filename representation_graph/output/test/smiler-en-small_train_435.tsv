@@ -1,0 +1,70 @@
+434_0	is_in_sentence	sentence_434
+434_0	poss	434_2
+434_0	has_surface_form	Brando
+434_2	is_in_sentence	sentence_434
+434_2	compound	434_4
+434_2	has_surface_form	grandson
+434_1	is_in_sentence	sentence_434
+434_1	case	434_0
+434_1	has_surface_form	's
+434_4	is_in_sentence	sentence_434
+434_4	nsubj	434_15
+434_4	has_surface_form	Brando
+434_4	part_of_entity	Tuki Brando
+434_3	is_in_sentence	sentence_434
+434_3	compound	434_4
+434_3	has_surface_form	Tuki
+434_3	part_of_entity	Tuki Brando
+434_15	is_in_sentence	sentence_434
+434_15	ROOT	434_15
+434_15	has_surface_form	is
+434_5	is_in_sentence	sentence_434
+434_5	punct	434_4
+434_5	has_surface_form	(
+434_6	is_in_sentence	sentence_434
+434_6	acl	434_4
+434_6	has_surface_form	born
+434_7	is_in_sentence	sentence_434
+434_7	npadvmod	434_6
+434_7	has_surface_form	1990
+434_8	is_in_sentence	sentence_434
+434_8	punct	434_4
+434_8	has_surface_form	)
+434_9	is_in_sentence	sentence_434
+434_9	punct	434_4
+434_9	has_surface_form	,
+434_10	is_in_sentence	sentence_434
+434_10	appos	434_4
+434_10	has_surface_form	son
+434_11	is_in_sentence	sentence_434
+434_11	prep	434_10
+434_11	has_surface_form	of
+434_12	is_in_sentence	sentence_434
+434_12	compound	434_13
+434_12	has_surface_form	Cheyenne
+434_12	part_of_entity	Cheyenne Brando
+434_13	is_in_sentence	sentence_434
+434_13	pobj	434_11
+434_13	has_surface_form	Brando
+434_13	part_of_entity	Cheyenne Brando
+434_14	is_in_sentence	sentence_434
+434_14	punct	434_4
+434_14	has_surface_form	,
+434_16	is_in_sentence	sentence_434
+434_16	det	434_18
+434_16	has_surface_form	a
+434_18	is_in_sentence	sentence_434
+434_18	attr	434_15
+434_18	has_surface_form	model
+434_17	is_in_sentence	sentence_434
+434_17	compound	434_18
+434_17	has_surface_form	fashion
+434_19	is_in_sentence	sentence_434
+434_19	punct	434_15
+434_19	has_surface_form	.
+434_20	is_in_sentence	sentence_434
+434_20	dep	434_20
+434_20	has_surface_form	
+Tuki Brando	surface_form	Tuki Brando
+Tuki Brando	has-parent	Cheyenne Brando
+Cheyenne Brando	surface_form	Cheyenne Brando

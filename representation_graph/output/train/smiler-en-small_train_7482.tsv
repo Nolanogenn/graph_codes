@@ -1,0 +1,48 @@
+7481_0	is_in_sentence	sentence_7481
+7481_0	compound	7481_2
+7481_0	has_surface_form	Avialeasing
+7481_0	part_of_entity	Avialeasing Aviation Company
+7481_2	is_in_sentence	sentence_7481
+7481_2	nsubj	7481_3
+7481_2	has_surface_form	Company
+7481_2	part_of_entity	Avialeasing Aviation Company
+7481_1	is_in_sentence	sentence_7481
+7481_1	compound	7481_2
+7481_1	has_surface_form	Aviation
+7481_1	part_of_entity	Avialeasing Aviation Company
+7481_3	is_in_sentence	sentence_7481
+7481_3	ROOT	7481_3
+7481_3	has_surface_form	is
+7481_4	is_in_sentence	sentence_7481
+7481_4	det	7481_6
+7481_4	has_surface_form	a
+7481_6	is_in_sentence	sentence_7481
+7481_6	attr	7481_3
+7481_6	has_surface_form	airline
+7481_5	is_in_sentence	sentence_7481
+7481_5	compound	7481_6
+7481_5	has_surface_form	cargo
+7481_7	is_in_sentence	sentence_7481
+7481_7	acl	7481_6
+7481_7	has_surface_form	based
+7481_8	is_in_sentence	sentence_7481
+7481_8	prep	7481_7
+7481_8	has_surface_form	in
+7481_9	is_in_sentence	sentence_7481
+7481_9	pobj	7481_8
+7481_9	is_entity	Tashkent
+Tashkent	surface_form	Tashkent
+7481_10	is_in_sentence	sentence_7481
+7481_10	punct	7481_9
+7481_10	has_surface_form	,
+7481_11	is_in_sentence	sentence_7481
+7481_11	appos	7481_9
+7481_11	has_surface_form	Uzbekistan
+7481_12	is_in_sentence	sentence_7481
+7481_12	punct	7481_3
+7481_12	has_surface_form	.
+7481_13	is_in_sentence	sentence_7481
+7481_13	dep	7481_3
+7481_13	has_surface_form	
+Avialeasing Aviation Company	surface_form	Avialeasing Aviation Company
+Avialeasing Aviation Company	headquarters	Tashkent

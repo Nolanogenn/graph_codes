@@ -1,0 +1,50 @@
+5934_0	is_in_sentence	sentence_5934
+5934_0	compound	5934_1
+5934_0	has_surface_form	Wivenhoe
+5934_0	part_of_entity	Wivenhoe Pocket
+5934_1	is_in_sentence	sentence_5934
+5934_1	nsubj	5934_2
+5934_1	has_surface_form	Pocket
+5934_1	part_of_entity	Wivenhoe Pocket
+5934_2	is_in_sentence	sentence_5934
+5934_2	ROOT	5934_2
+5934_2	has_surface_form	is
+5934_3	is_in_sentence	sentence_5934
+5934_3	det	5934_5
+5934_3	has_surface_form	a
+5934_5	is_in_sentence	sentence_5934
+5934_5	attr	5934_2
+5934_5	is_entity	suburb
+5934_4	is_in_sentence	sentence_5934
+5934_4	amod	5934_5
+5934_4	has_surface_form	rural
+suburb	surface_form	suburb
+5934_6	is_in_sentence	sentence_5934
+5934_6	prep	5934_5
+5934_6	has_surface_form	of
+5934_7	is_in_sentence	sentence_5934
+5934_7	compound	5934_8
+5934_7	has_surface_form	Somerset
+5934_8	is_in_sentence	sentence_5934
+5934_8	pobj	5934_6
+5934_8	has_surface_form	Region
+5934_9	is_in_sentence	sentence_5934
+5934_9	punct	5934_8
+5934_9	has_surface_form	,
+5934_10	is_in_sentence	sentence_5934
+5934_10	conj	5934_8
+5934_10	has_surface_form	Queensland
+5934_11	is_in_sentence	sentence_5934
+5934_11	punct	5934_10
+5934_11	has_surface_form	,
+5934_12	is_in_sentence	sentence_5934
+5934_12	appos	5934_10
+5934_12	has_surface_form	Australia
+5934_13	is_in_sentence	sentence_5934
+5934_13	punct	5934_2
+5934_13	has_surface_form	.
+5934_14	is_in_sentence	sentence_5934
+5934_14	dep	5934_2
+5934_14	has_surface_form	
+Wivenhoe Pocket	surface_form	Wivenhoe Pocket
+Wivenhoe Pocket	has-type	suburb

@@ -1,0 +1,54 @@
+17267_0	is_in_sentence	sentence_17267
+17267_0	compound	17267_1
+17267_0	has_surface_form	RM
+17267_0	part_of_entity	RM Films International
+17267_1	is_in_sentence	sentence_17267
+17267_1	compound	17267_2
+17267_1	has_surface_form	Films
+17267_1	part_of_entity	RM Films International
+17267_2	is_in_sentence	sentence_17267
+17267_2	nsubj	17267_3
+17267_2	has_surface_form	International
+17267_2	part_of_entity	RM Films International
+17267_3	is_in_sentence	sentence_17267
+17267_3	ROOT	17267_3
+17267_3	has_surface_form	is
+17267_4	is_in_sentence	sentence_17267
+17267_4	det	17267_7
+17267_4	has_surface_form	a
+17267_7	is_in_sentence	sentence_17267
+17267_7	attr	17267_3
+17267_7	has_surface_form	company
+17267_7	part_of_entity	film distribution company
+17267_5	is_in_sentence	sentence_17267
+17267_5	compound	17267_6
+17267_5	has_surface_form	film
+17267_5	part_of_entity	film distribution company
+17267_6	is_in_sentence	sentence_17267
+17267_6	compound	17267_7
+17267_6	has_surface_form	distribution
+17267_6	part_of_entity	film distribution company
+17267_8	is_in_sentence	sentence_17267
+17267_8	acl	17267_7
+17267_8	has_surface_form	based
+17267_9	is_in_sentence	sentence_17267
+17267_9	prep	17267_8
+17267_9	has_surface_form	in
+17267_10	is_in_sentence	sentence_17267
+17267_10	pobj	17267_9
+17267_10	has_surface_form	Hollywood
+17267_11	is_in_sentence	sentence_17267
+17267_11	punct	17267_10
+17267_11	has_surface_form	,
+17267_12	is_in_sentence	sentence_17267
+17267_12	appos	17267_10
+17267_12	has_surface_form	California
+17267_13	is_in_sentence	sentence_17267
+17267_13	punct	17267_3
+17267_13	has_surface_form	.
+17267_14	is_in_sentence	sentence_17267
+17267_14	dep	17267_14
+17267_14	has_surface_form	
+RM Films International	surface_form	RM Films International
+RM Films International	has-type	film distribution company
+film distribution company	surface_form	film distribution company

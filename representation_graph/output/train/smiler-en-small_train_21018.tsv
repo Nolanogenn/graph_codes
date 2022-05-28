@@ -1,0 +1,121 @@
+21017_0	is_in_sentence	sentence_21017
+21017_0	det	21017_1
+21017_0	has_surface_form	A
+21017_0	part_of_entity	A Daughter of the Poor
+21017_1	is_in_sentence	sentence_21017
+21017_1	nsubj	21017_5
+21017_1	has_surface_form	Daughter
+21017_1	part_of_entity	A Daughter of the Poor
+21017_5	is_in_sentence	sentence_21017
+21017_5	ROOT	21017_5
+21017_5	has_surface_form	is
+21017_2	is_in_sentence	sentence_21017
+21017_2	prep	21017_1
+21017_2	has_surface_form	of
+21017_2	part_of_entity	A Daughter of the Poor
+21017_3	is_in_sentence	sentence_21017
+21017_3	det	21017_4
+21017_3	has_surface_form	the
+21017_3	part_of_entity	A Daughter of the Poor
+21017_4	is_in_sentence	sentence_21017
+21017_4	pobj	21017_2
+21017_4	has_surface_form	Poor
+21017_4	part_of_entity	A Daughter of the Poor
+21017_6	is_in_sentence	sentence_21017
+21017_6	det	21017_9
+21017_6	has_surface_form	a
+21017_9	is_in_sentence	sentence_21017
+21017_9	attr	21017_5
+21017_9	has_surface_form	film
+21017_7	is_in_sentence	sentence_21017
+21017_7	nummod	21017_9
+21017_7	has_surface_form	1917
+21017_8	is_in_sentence	sentence_21017
+21017_8	amod	21017_9
+21017_8	has_surface_form	silent
+21017_10	is_in_sentence	sentence_21017
+21017_10	acl	21017_9
+21017_10	has_surface_form	produced
+21017_11	is_in_sentence	sentence_21017
+21017_11	agent	21017_10
+21017_11	has_surface_form	by
+21017_12	is_in_sentence	sentence_21017
+21017_12	compound	21017_13
+21017_12	has_surface_form	Fine
+21017_13	is_in_sentence	sentence_21017
+21017_13	compound	21017_15
+21017_13	has_surface_form	Arts
+21017_15	is_in_sentence	sentence_21017
+21017_15	pobj	21017_11
+21017_15	has_surface_form	Company
+21017_14	is_in_sentence	sentence_21017
+21017_14	compound	21017_15
+21017_14	has_surface_form	Film
+21017_16	is_in_sentence	sentence_21017
+21017_16	cc	21017_10
+21017_16	has_surface_form	and
+21017_17	is_in_sentence	sentence_21017
+21017_17	conj	21017_10
+21017_17	has_surface_form	released
+21017_18	is_in_sentence	sentence_21017
+21017_18	agent	21017_17
+21017_18	has_surface_form	by
+21017_19	is_in_sentence	sentence_21017
+21017_19	compound	21017_21
+21017_19	has_surface_form	Triangle
+21017_21	is_in_sentence	sentence_21017
+21017_21	pobj	21017_18
+21017_21	has_surface_form	Corporation
+21017_20	is_in_sentence	sentence_21017
+21017_20	compound	21017_21
+21017_20	has_surface_form	Film
+21017_22	is_in_sentence	sentence_21017
+21017_22	punct	21017_5
+21017_22	has_surface_form	.
+21017_23	is_in_sentence	sentence_21017
+21017_23	det	21017_24
+21017_23	has_surface_form	The
+21017_24	is_in_sentence	sentence_21017
+21017_24	nsubjpass	21017_26
+21017_24	has_surface_form	film
+21017_26	is_in_sentence	sentence_21017
+21017_26	ROOT	21017_26
+21017_26	has_surface_form	directed
+21017_25	is_in_sentence	sentence_21017
+21017_25	auxpass	21017_26
+21017_25	has_surface_form	was
+21017_27	is_in_sentence	sentence_21017
+21017_27	agent	21017_26
+21017_27	has_surface_form	by
+21017_28	is_in_sentence	sentence_21017
+21017_28	compound	21017_29
+21017_28	has_surface_form	Edward
+21017_28	part_of_entity	Edward Dillon
+21017_29	is_in_sentence	sentence_21017
+21017_29	pobj	21017_27
+21017_29	has_surface_form	Dillon
+21017_29	part_of_entity	Edward Dillon
+21017_30	is_in_sentence	sentence_21017
+21017_30	cc	21017_26
+21017_30	has_surface_form	and
+21017_31	is_in_sentence	sentence_21017
+21017_31	conj	21017_26
+21017_31	has_surface_form	starred
+21017_32	is_in_sentence	sentence_21017
+21017_32	amod	21017_34
+21017_32	has_surface_form	young
+21017_34	is_in_sentence	sentence_21017
+21017_34	dobj	21017_31
+21017_34	has_surface_form	Love
+21017_33	is_in_sentence	sentence_21017
+21017_33	compound	21017_34
+21017_33	has_surface_form	Bessie
+21017_35	is_in_sentence	sentence_21017
+21017_35	punct	21017_26
+21017_35	has_surface_form	.
+21017_36	is_in_sentence	sentence_21017
+21017_36	dep	21017_26
+21017_36	has_surface_form	
+A Daughter of the Poor	surface_form	A Daughter of the Poor
+A Daughter of the Poor	movie-has-director	Edward Dillon
+Edward Dillon	surface_form	Edward Dillon

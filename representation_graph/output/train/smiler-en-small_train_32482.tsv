@@ -1,0 +1,65 @@
+32481_0	is_in_sentence	sentence_32481
+32481_0	compound	32481_1
+32481_0	has_surface_form	Mao
+32481_0	part_of_entity	Mao Zedong
+32481_1	is_in_sentence	sentence_32481
+32481_1	nsubj	32481_13
+32481_1	has_surface_form	Zedong
+32481_1	part_of_entity	Mao Zedong
+32481_13	is_in_sentence	sentence_32481
+32481_13	ROOT	32481_13
+32481_13	has_surface_form	was
+32481_2	is_in_sentence	sentence_32481
+32481_2	punct	32481_3
+32481_2	has_surface_form	(
+32481_3	is_in_sentence	sentence_32481
+32481_3	appos	32481_1
+32481_3	has_surface_form	December
+32481_4	is_in_sentence	sentence_32481
+32481_4	nummod	32481_3
+32481_4	has_surface_form	26
+32481_5	is_in_sentence	sentence_32481
+32481_5	punct	32481_3
+32481_5	has_surface_form	,
+32481_6	is_in_sentence	sentence_32481
+32481_6	nummod	32481_3
+32481_6	has_surface_form	1893
+32481_7	is_in_sentence	sentence_32481
+32481_7	punct	32481_8
+32481_7	has_surface_form	-
+32481_8	is_in_sentence	sentence_32481
+32481_8	npadvmod	32481_3
+32481_8	has_surface_form	September
+32481_9	is_in_sentence	sentence_32481
+32481_9	nummod	32481_8
+32481_9	has_surface_form	9
+32481_10	is_in_sentence	sentence_32481
+32481_10	punct	32481_8
+32481_10	has_surface_form	,
+32481_11	is_in_sentence	sentence_32481
+32481_11	nummod	32481_8
+32481_11	has_surface_form	1976
+32481_12	is_in_sentence	sentence_32481
+32481_12	punct	32481_8
+32481_12	has_surface_form	)
+32481_14	is_in_sentence	sentence_32481
+32481_14	det	32481_17
+32481_14	has_surface_form	a
+32481_17	is_in_sentence	sentence_32481
+32481_17	attr	32481_13
+32481_17	has_surface_form	revolutionary
+32481_15	is_in_sentence	sentence_32481
+32481_15	amod	32481_17
+32481_15	is_entity	Chinese
+Chinese	surface_form	Chinese
+32481_16	is_in_sentence	sentence_32481
+32481_16	amod	32481_17
+32481_16	has_surface_form	communist
+32481_18	is_in_sentence	sentence_32481
+32481_18	punct	32481_13
+32481_18	has_surface_form	.
+32481_19	is_in_sentence	sentence_32481
+32481_19	dep	32481_13
+32481_19	has_surface_form	
+Mao Zedong	surface_form	Mao Zedong
+Mao Zedong	has-nationality	Chinese

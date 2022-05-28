@@ -1,0 +1,81 @@
+22717_0	is_in_sentence	sentence_22717
+22717_0	nsubj	22717_1
+22717_0	has_surface_form	They
+22717_0	part_of_entity	They Met in Guayaquil
+22717_1	is_in_sentence	sentence_22717
+22717_1	nsubj	22717_12
+22717_1	has_surface_form	Met
+22717_1	part_of_entity	They Met in Guayaquil
+22717_12	is_in_sentence	sentence_22717
+22717_12	ROOT	22717_12
+22717_12	has_surface_form	is
+22717_2	is_in_sentence	sentence_22717
+22717_2	prep	22717_1
+22717_2	has_surface_form	in
+22717_2	part_of_entity	They Met in Guayaquil
+22717_3	is_in_sentence	sentence_22717
+22717_3	pobj	22717_2
+22717_3	has_surface_form	Guayaquil
+22717_3	part_of_entity	They Met in Guayaquil
+22717_4	is_in_sentence	sentence_22717
+22717_4	punct	22717_5
+22717_4	has_surface_form	(
+22717_5	is_in_sentence	sentence_22717
+22717_5	parataxis	22717_1
+22717_5	has_surface_form	Spanish
+22717_6	is_in_sentence	sentence_22717
+22717_6	punct	22717_5
+22717_6	has_surface_form	:
+22717_7	is_in_sentence	sentence_22717
+22717_7	compound	22717_8
+22717_7	has_surface_form	Se
+22717_8	is_in_sentence	sentence_22717
+22717_8	nsubj	22717_12
+22717_8	has_surface_form	conocieron
+22717_9	is_in_sentence	sentence_22717
+22717_9	prep	22717_8
+22717_9	has_surface_form	en
+22717_10	is_in_sentence	sentence_22717
+22717_10	pobj	22717_9
+22717_10	has_surface_form	Guayaquil
+22717_11	is_in_sentence	sentence_22717
+22717_11	punct	22717_8
+22717_11	has_surface_form	)
+22717_13	is_in_sentence	sentence_22717
+22717_13	det	22717_17
+22717_13	has_surface_form	a
+22717_17	is_in_sentence	sentence_22717
+22717_17	attr	22717_12
+22717_17	has_surface_form	film
+22717_14	is_in_sentence	sentence_22717
+22717_14	nummod	22717_17
+22717_14	has_surface_form	1949
+22717_15	is_in_sentence	sentence_22717
+22717_15	amod	22717_17
+22717_15	has_surface_form	Ecuadorian
+22717_16	is_in_sentence	sentence_22717
+22717_16	compound	22717_17
+22717_16	has_surface_form	drama
+22717_18	is_in_sentence	sentence_22717
+22717_18	acl	22717_17
+22717_18	has_surface_form	directed
+22717_19	is_in_sentence	sentence_22717
+22717_19	agent	22717_18
+22717_19	has_surface_form	by
+22717_20	is_in_sentence	sentence_22717
+22717_20	compound	22717_21
+22717_20	has_surface_form	Paco
+22717_20	part_of_entity	Paco Villar
+22717_21	is_in_sentence	sentence_22717
+22717_21	pobj	22717_19
+22717_21	has_surface_form	Villar
+22717_21	part_of_entity	Paco Villar
+22717_22	is_in_sentence	sentence_22717
+22717_22	punct	22717_12
+22717_22	has_surface_form	.
+22717_23	is_in_sentence	sentence_22717
+22717_23	dep	22717_23
+22717_23	has_surface_form	
+They Met in Guayaquil	surface_form	They Met in Guayaquil
+They Met in Guayaquil	movie-has-director	Paco Villar
+Paco Villar	surface_form	Paco Villar

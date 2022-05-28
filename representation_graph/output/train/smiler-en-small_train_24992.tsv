@@ -1,0 +1,89 @@
+24991_0	is_in_sentence	sentence_24991
+24991_0	compound	24991_1
+24991_0	has_surface_form	Pennsylvania
+24991_0	part_of_entity	Pennsylvania Route 56
+24991_1	is_in_sentence	sentence_24991
+24991_1	nsubj	24991_7
+24991_1	has_surface_form	Route
+24991_1	part_of_entity	Pennsylvania Route 56
+24991_7	is_in_sentence	sentence_24991
+24991_7	ROOT	24991_7
+24991_7	has_surface_form	is
+24991_2	is_in_sentence	sentence_24991
+24991_2	nummod	24991_1
+24991_2	has_surface_form	56
+24991_2	part_of_entity	Pennsylvania Route 56
+24991_3	is_in_sentence	sentence_24991
+24991_3	punct	24991_1
+24991_3	has_surface_form	(
+24991_4	is_in_sentence	sentence_24991
+24991_4	appos	24991_1
+24991_4	has_surface_form	PA
+24991_5	is_in_sentence	sentence_24991
+24991_5	nummod	24991_4
+24991_5	has_surface_form	56
+24991_6	is_in_sentence	sentence_24991
+24991_6	punct	24991_1
+24991_6	has_surface_form	)
+24991_8	is_in_sentence	sentence_24991
+24991_8	det	24991_20
+24991_8	has_surface_form	a
+24991_20	is_in_sentence	sentence_24991
+24991_20	attr	24991_7
+24991_20	has_surface_form	highway
+24991_20	part_of_entity	state highway
+24991_9	is_in_sentence	sentence_24991
+24991_9	nummod	24991_11
+24991_9	has_surface_form	108
+24991_11	is_in_sentence	sentence_24991
+24991_11	npadvmod	24991_13
+24991_11	has_surface_form	mile
+24991_10	is_in_sentence	sentence_24991
+24991_10	punct	24991_11
+24991_10	has_surface_form	-
+24991_13	is_in_sentence	sentence_24991
+24991_13	amod	24991_20
+24991_13	has_surface_form	long
+24991_12	is_in_sentence	sentence_24991
+24991_12	punct	24991_13
+24991_12	has_surface_form	-
+24991_14	is_in_sentence	sentence_24991
+24991_14	punct	24991_20
+24991_14	has_surface_form	(
+24991_15	is_in_sentence	sentence_24991
+24991_15	nummod	24991_20
+24991_15	has_surface_form	174
+24991_16	is_in_sentence	sentence_24991
+24991_16	dep	24991_20
+24991_16	has_surface_form	 
+24991_17	is_in_sentence	sentence_24991
+24991_17	nmod	24991_20
+24991_17	has_surface_form	km
+24991_18	is_in_sentence	sentence_24991
+24991_18	punct	24991_20
+24991_18	has_surface_form	)
+24991_19	is_in_sentence	sentence_24991
+24991_19	compound	24991_20
+24991_19	has_surface_form	state
+24991_19	part_of_entity	state highway
+24991_21	is_in_sentence	sentence_24991
+24991_21	acl	24991_20
+24991_21	has_surface_form	located
+24991_22	is_in_sentence	sentence_24991
+24991_22	prep	24991_21
+24991_22	has_surface_form	in
+24991_23	is_in_sentence	sentence_24991
+24991_23	amod	24991_24
+24991_23	has_surface_form	central
+24991_24	is_in_sentence	sentence_24991
+24991_24	pobj	24991_22
+24991_24	has_surface_form	Pennsylvania
+24991_25	is_in_sentence	sentence_24991
+24991_25	punct	24991_7
+24991_25	has_surface_form	.
+24991_26	is_in_sentence	sentence_24991
+24991_26	dep	24991_26
+24991_26	has_surface_form	
+Pennsylvania Route 56	surface_form	Pennsylvania Route 56
+Pennsylvania Route 56	has-type	state highway
+state highway	surface_form	state highway

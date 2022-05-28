@@ -1,0 +1,70 @@
+10012_0	is_in_sentence	sentence_10012
+10012_0	compound	10012_1
+10012_0	has_surface_form	Bart
+10012_0	part_of_entity	Bart Andrus
+10012_1	is_in_sentence	sentence_10012
+10012_1	nsubj	10012_9
+10012_1	has_surface_form	Andrus
+10012_1	part_of_entity	Bart Andrus
+10012_9	is_in_sentence	sentence_10012
+10012_9	ROOT	10012_9
+10012_9	has_surface_form	is
+10012_2	is_in_sentence	sentence_10012
+10012_2	punct	10012_1
+10012_2	has_surface_form	(
+10012_3	is_in_sentence	sentence_10012
+10012_3	acl	10012_1
+10012_3	has_surface_form	born
+10012_4	is_in_sentence	sentence_10012
+10012_4	npadvmod	10012_3
+10012_4	has_surface_form	March
+10012_5	is_in_sentence	sentence_10012
+10012_5	nummod	10012_4
+10012_5	has_surface_form	30
+10012_6	is_in_sentence	sentence_10012
+10012_6	punct	10012_4
+10012_6	has_surface_form	,
+10012_7	is_in_sentence	sentence_10012
+10012_7	nummod	10012_4
+10012_7	has_surface_form	1958
+10012_8	is_in_sentence	sentence_10012
+10012_8	punct	10012_4
+10012_8	has_surface_form	)
+10012_10	is_in_sentence	sentence_10012
+10012_10	det	10012_14
+10012_10	has_surface_form	an
+10012_14	is_in_sentence	sentence_10012
+10012_14	attr	10012_9
+10012_14	has_surface_form	coach
+10012_14	part_of_entity	football coach
+10012_11	is_in_sentence	sentence_10012
+10012_11	amod	10012_14
+10012_11	has_surface_form	American
+10012_12	is_in_sentence	sentence_10012
+10012_12	amod	10012_14
+10012_12	has_surface_form	professional
+10012_13	is_in_sentence	sentence_10012
+10012_13	compound	10012_14
+10012_13	has_surface_form	football
+10012_13	part_of_entity	football coach
+10012_15	is_in_sentence	sentence_10012
+10012_15	cc	10012_14
+10012_15	has_surface_form	and
+10012_16	is_in_sentence	sentence_10012
+10012_16	amod	10012_18
+10012_16	has_surface_form	former
+10012_18	is_in_sentence	sentence_10012
+10012_18	conj	10012_14
+10012_18	has_surface_form	player
+10012_17	is_in_sentence	sentence_10012
+10012_17	amod	10012_18
+10012_17	has_surface_form	collegiate
+10012_19	is_in_sentence	sentence_10012
+10012_19	punct	10012_9
+10012_19	has_surface_form	.
+10012_20	is_in_sentence	sentence_10012
+10012_20	dep	10012_20
+10012_20	has_surface_form	
+Bart Andrus	surface_form	Bart Andrus
+Bart Andrus	has-type	football coach
+football coach	surface_form	football coach

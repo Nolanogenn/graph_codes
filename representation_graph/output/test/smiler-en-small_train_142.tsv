@@ -1,0 +1,62 @@
+141_0	is_in_sentence	sentence_141
+141_0	compound	141_1
+141_0	has_surface_form	Bob
+141_0	part_of_entity	Bob Cortese
+141_1	is_in_sentence	sentence_141
+141_1	nsubj	141_9
+141_1	has_surface_form	Cortese
+141_1	part_of_entity	Bob Cortese
+141_9	is_in_sentence	sentence_141
+141_9	ROOT	141_9
+141_9	has_surface_form	is
+141_2	is_in_sentence	sentence_141
+141_2	punct	141_1
+141_2	has_surface_form	(
+141_3	is_in_sentence	sentence_141
+141_3	acl	141_1
+141_3	has_surface_form	born
+141_4	is_in_sentence	sentence_141
+141_4	npadvmod	141_3
+141_4	has_surface_form	March
+141_5	is_in_sentence	sentence_141
+141_5	nummod	141_4
+141_5	has_surface_form	8
+141_6	is_in_sentence	sentence_141
+141_6	punct	141_4
+141_6	has_surface_form	,
+141_7	is_in_sentence	sentence_141
+141_7	nummod	141_4
+141_7	has_surface_form	1943
+141_8	is_in_sentence	sentence_141
+141_8	punct	141_1
+141_8	has_surface_form	)
+141_10	is_in_sentence	sentence_141
+141_10	det	141_14
+141_10	has_surface_form	a
+141_14	is_in_sentence	sentence_141
+141_14	attr	141_9
+141_14	has_surface_form	player
+141_11	is_in_sentence	sentence_141
+141_11	amod	141_14
+141_11	has_surface_form	former
+141_12	is_in_sentence	sentence_141
+141_12	amod	141_14
+141_12	has_surface_form	American
+141_13	is_in_sentence	sentence_141
+141_13	compound	141_14
+141_13	has_surface_form	football
+141_15	is_in_sentence	sentence_141
+141_15	cc	141_14
+141_15	has_surface_form	and
+141_16	is_in_sentence	sentence_141
+141_16	conj	141_14
+141_16	is_entity	coach
+coach	surface_form	coach
+141_17	is_in_sentence	sentence_141
+141_17	punct	141_9
+141_17	has_surface_form	.
+141_18	is_in_sentence	sentence_141
+141_18	dep	141_18
+141_18	has_surface_form	
+Bob Cortese	surface_form	Bob Cortese
+Bob Cortese	has-type	coach

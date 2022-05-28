@@ -1,0 +1,62 @@
+514_0	is_in_sentence	sentence_514
+514_0	det	514_2
+514_0	has_surface_form	The
+514_2	is_in_sentence	sentence_514
+514_2	nsubj	514_12
+514_2	has_surface_form	Glove
+514_1	is_in_sentence	sentence_514
+514_1	compound	514_2
+514_1	has_surface_form	Sayre
+514_12	is_in_sentence	sentence_514
+514_12	ROOT	514_12
+514_12	has_surface_form	was
+514_3	is_in_sentence	sentence_514
+514_3	punct	514_2
+514_3	has_surface_form	,
+514_4	is_in_sentence	sentence_514
+514_4	acl	514_2
+514_4	has_surface_form	created
+514_5	is_in_sentence	sentence_514
+514_5	agent	514_4
+514_5	has_surface_form	by
+514_6	is_in_sentence	sentence_514
+514_6	compound	514_7
+514_6	has_surface_form	Electronic
+514_7	is_in_sentence	sentence_514
+514_7	compound	514_8
+514_7	has_surface_form	Visualization
+514_8	is_in_sentence	sentence_514
+514_8	pobj	514_5
+514_8	has_surface_form	Laboratory
+514_9	is_in_sentence	sentence_514
+514_9	prep	514_4
+514_9	has_surface_form	in
+514_10	is_in_sentence	sentence_514
+514_10	pobj	514_9
+514_10	is_entity	1977
+1977	surface_form	1977
+514_11	is_in_sentence	sentence_514
+514_11	punct	514_2
+514_11	has_surface_form	,
+514_13	is_in_sentence	sentence_514
+514_13	det	514_16
+514_13	has_surface_form	the
+514_16	is_in_sentence	sentence_514
+514_16	attr	514_12
+514_16	has_surface_form	glove
+514_16	part_of_entity	wired glove
+514_14	is_in_sentence	sentence_514
+514_14	amod	514_16
+514_14	has_surface_form	first
+514_15	is_in_sentence	sentence_514
+514_15	amod	514_16
+514_15	has_surface_form	wired
+514_15	part_of_entity	wired glove
+514_17	is_in_sentence	sentence_514
+514_17	punct	514_12
+514_17	has_surface_form	.
+514_18	is_in_sentence	sentence_514
+514_18	dep	514_12
+514_18	has_surface_form	
+wired glove	surface_form	wired glove
+wired glove	invented-when	1977

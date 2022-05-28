@@ -1,0 +1,65 @@
+3678_0	is_in_sentence	sentence_3678
+3678_0	nsubj	3678_1
+3678_0	is_entity	ConDFW
+3678_1	is_in_sentence	sentence_3678
+3678_1	ROOT	3678_1
+3678_1	has_surface_form	was
+ConDFW	surface_form	ConDFW
+ConDFW	has-genre	science fiction
+3678_2	is_in_sentence	sentence_3678
+3678_2	det	3678_5
+3678_2	has_surface_form	a
+3678_5	is_in_sentence	sentence_3678
+3678_5	attr	3678_1
+3678_5	has_surface_form	fiction
+3678_5	part_of_entity	science fiction
+3678_3	is_in_sentence	sentence_3678
+3678_3	amod	3678_5
+3678_3	has_surface_form	literary
+3678_4	is_in_sentence	sentence_3678
+3678_4	compound	3678_5
+3678_4	has_surface_form	science
+3678_4	part_of_entity	science fiction
+3678_6	is_in_sentence	sentence_3678
+3678_6	cc	3678_5
+3678_6	has_surface_form	and
+3678_7	is_in_sentence	sentence_3678
+3678_7	compound	3678_8
+3678_7	has_surface_form	fantasy
+3678_8	is_in_sentence	sentence_3678
+3678_8	conj	3678_5
+3678_8	has_surface_form	convention
+3678_9	is_in_sentence	sentence_3678
+3678_9	acl	3678_8
+3678_9	has_surface_form	held
+3678_10	is_in_sentence	sentence_3678
+3678_10	advmod	3678_9
+3678_10	has_surface_form	annually
+3678_11	is_in_sentence	sentence_3678
+3678_11	prep	3678_9
+3678_11	has_surface_form	in
+3678_12	is_in_sentence	sentence_3678
+3678_12	det	3678_17
+3678_12	has_surface_form	the
+3678_17	is_in_sentence	sentence_3678
+3678_17	pobj	3678_11
+3678_17	has_surface_form	area
+3678_13	is_in_sentence	sentence_3678
+3678_13	nmod	3678_15
+3678_13	has_surface_form	Dallas
+3678_15	is_in_sentence	sentence_3678
+3678_15	nmod	3678_17
+3678_15	has_surface_form	Texas
+3678_14	is_in_sentence	sentence_3678
+3678_14	punct	3678_15
+3678_14	has_surface_form	,
+3678_16	is_in_sentence	sentence_3678
+3678_16	punct	3678_15
+3678_16	has_surface_form	,
+3678_18	is_in_sentence	sentence_3678
+3678_18	punct	3678_1
+3678_18	has_surface_form	.
+3678_19	is_in_sentence	sentence_3678
+3678_19	dep	3678_19
+3678_19	has_surface_form	
+science fiction	surface_form	science fiction

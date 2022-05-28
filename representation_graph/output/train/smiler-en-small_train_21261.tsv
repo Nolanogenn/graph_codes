@@ -1,0 +1,79 @@
+21260_0	is_in_sentence	sentence_21260
+21260_0	compound	21260_1
+21260_0	has_surface_form	Atomic
+21260_0	part_of_entity	Atomic Kitten
+21260_1	is_in_sentence	sentence_21260
+21260_1	nsubj	21260_2
+21260_1	has_surface_form	Kitten
+21260_1	part_of_entity	Atomic Kitten
+21260_2	is_in_sentence	sentence_21260
+21260_2	ROOT	21260_2
+21260_2	has_surface_form	are
+21260_3	is_in_sentence	sentence_21260
+21260_3	det	21260_7
+21260_3	has_surface_form	a
+21260_7	is_in_sentence	sentence_21260
+21260_7	attr	21260_2
+21260_7	has_surface_form	group
+21260_4	is_in_sentence	sentence_21260
+21260_4	amod	21260_7
+21260_4	has_surface_form	British
+21260_5	is_in_sentence	sentence_21260
+21260_5	compound	21260_6
+21260_5	has_surface_form	pop
+21260_6	is_in_sentence	sentence_21260
+21260_6	compound	21260_7
+21260_6	has_surface_form	girl
+21260_8	is_in_sentence	sentence_21260
+21260_8	acl	21260_7
+21260_8	has_surface_form	formed
+21260_9	is_in_sentence	sentence_21260
+21260_9	prep	21260_8
+21260_9	has_surface_form	in
+21260_10	is_in_sentence	sentence_21260
+21260_10	pobj	21260_9
+21260_10	has_surface_form	Liverpool
+21260_11	is_in_sentence	sentence_21260
+21260_11	prep	21260_8
+21260_11	has_surface_form	in
+21260_12	is_in_sentence	sentence_21260
+21260_12	pobj	21260_11
+21260_12	has_surface_form	1998
+21260_13	is_in_sentence	sentence_21260
+21260_13	poss	21260_15
+21260_13	has_surface_form	whose
+21260_15	is_in_sentence	sentence_21260
+21260_15	nsubj	21260_16
+21260_15	has_surface_form	members
+21260_14	is_in_sentence	sentence_21260
+21260_14	amod	21260_15
+21260_14	has_surface_form	current
+21260_16	is_in_sentence	sentence_21260
+21260_16	relcl	21260_7
+21260_16	has_surface_form	are
+21260_17	is_in_sentence	sentence_21260
+21260_17	compound	21260_18
+21260_17	has_surface_form	Natasha
+21260_18	is_in_sentence	sentence_21260
+21260_18	attr	21260_16
+21260_18	has_surface_form	Hamilton
+21260_19	is_in_sentence	sentence_21260
+21260_19	cc	21260_18
+21260_19	has_surface_form	and
+21260_20	is_in_sentence	sentence_21260
+21260_20	compound	21260_21
+21260_20	has_surface_form	Liz
+21260_20	part_of_entity	Liz McClarnon
+21260_21	is_in_sentence	sentence_21260
+21260_21	conj	21260_18
+21260_21	has_surface_form	McClarnon
+21260_21	part_of_entity	Liz McClarnon
+21260_22	is_in_sentence	sentence_21260
+21260_22	punct	21260_2
+21260_22	has_surface_form	.
+21260_23	is_in_sentence	sentence_21260
+21260_23	dep	21260_2
+21260_23	has_surface_form	
+Atomic Kitten	surface_form	Atomic Kitten
+Atomic Kitten	org-has-member	Liz McClarnon
+Liz McClarnon	surface_form	Liz McClarnon

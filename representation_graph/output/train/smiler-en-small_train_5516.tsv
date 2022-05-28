@@ -1,0 +1,58 @@
+5515_0	is_in_sentence	sentence_5515
+5515_0	compound	5515_1
+5515_0	has_surface_form	Daejin
+5515_0	part_of_entity	Daejin University
+5515_1	is_in_sentence	sentence_5515
+5515_1	nsubj	5515_2
+5515_1	has_surface_form	University
+5515_1	part_of_entity	Daejin University
+5515_2	is_in_sentence	sentence_5515
+5515_2	ROOT	5515_2
+5515_2	has_surface_form	is
+5515_3	is_in_sentence	sentence_5515
+5515_3	det	5515_5
+5515_3	has_surface_form	a
+5515_5	is_in_sentence	sentence_5515
+5515_5	attr	5515_2
+5515_5	has_surface_form	university
+5515_4	is_in_sentence	sentence_5515
+5515_4	amod	5515_5
+5515_4	has_surface_form	private
+5515_6	is_in_sentence	sentence_5515
+5515_6	prep	5515_5
+5515_6	has_surface_form	in
+5515_7	is_in_sentence	sentence_5515
+5515_7	compound	5515_8
+5515_7	has_surface_form	Pocheon
+5515_7	part_of_entity	Pocheon City
+5515_8	is_in_sentence	sentence_5515
+5515_8	pobj	5515_6
+5515_8	has_surface_form	City
+5515_8	part_of_entity	Pocheon City
+5515_9	is_in_sentence	sentence_5515
+5515_9	punct	5515_8
+5515_9	has_surface_form	,
+5515_10	is_in_sentence	sentence_5515
+5515_10	compound	5515_11
+5515_10	has_surface_form	Gyeonggi
+5515_11	is_in_sentence	sentence_5515
+5515_11	appos	5515_8
+5515_11	has_surface_form	province
+5515_12	is_in_sentence	sentence_5515
+5515_12	prep	5515_11
+5515_12	has_surface_form	of
+5515_13	is_in_sentence	sentence_5515
+5515_13	compound	5515_14
+5515_13	has_surface_form	South
+5515_14	is_in_sentence	sentence_5515
+5515_14	pobj	5515_12
+5515_14	has_surface_form	Korea
+5515_15	is_in_sentence	sentence_5515
+5515_15	punct	5515_2
+5515_15	has_surface_form	.
+5515_16	is_in_sentence	sentence_5515
+5515_16	dep	5515_16
+5515_16	has_surface_form	
+Daejin University	surface_form	Daejin University
+Daejin University	is-where	Pocheon City
+Pocheon City	surface_form	Pocheon City

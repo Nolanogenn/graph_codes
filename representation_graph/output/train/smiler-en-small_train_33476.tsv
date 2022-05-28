@@ -1,0 +1,73 @@
+33475_0	is_in_sentence	sentence_33475
+33475_0	compound	33475_1
+33475_0	has_surface_form	Lina
+33475_0	part_of_entity	Lina Pizzolongo
+33475_1	is_in_sentence	sentence_33475
+33475_1	nsubj	33475_8
+33475_1	has_surface_form	Pizzolongo
+33475_1	part_of_entity	Lina Pizzolongo
+33475_8	is_in_sentence	sentence_33475
+33475_8	ROOT	33475_8
+33475_8	has_surface_form	was
+33475_2	is_in_sentence	sentence_33475
+33475_2	punct	33475_1
+33475_2	has_surface_form	,
+33475_3	is_in_sentence	sentence_33475
+33475_3	nmod	33475_6
+33475_3	has_surface_form	pianist
+33475_6	is_in_sentence	sentence_33475
+33475_6	appos	33475_1
+33475_6	has_surface_form	coach
+33475_4	is_in_sentence	sentence_33475
+33475_4	cc	33475_3
+33475_4	has_surface_form	and
+33475_5	is_in_sentence	sentence_33475
+33475_5	conj	33475_3
+33475_5	has_surface_form	vocal
+33475_7	is_in_sentence	sentence_33475
+33475_7	punct	33475_1
+33475_7	has_surface_form	,
+33475_9	is_in_sentence	sentence_33475
+33475_9	det	33475_10
+33475_9	has_surface_form	the
+33475_10	is_in_sentence	sentence_33475
+33475_10	attr	33475_8
+33475_10	has_surface_form	mother
+33475_11	is_in_sentence	sentence_33475
+33475_11	prep	33475_10
+33475_11	has_surface_form	of
+33475_12	is_in_sentence	sentence_33475
+33475_12	poss	33475_13
+33475_12	has_surface_form	his
+33475_13	is_in_sentence	sentence_33475
+33475_13	pobj	33475_11
+33475_13	has_surface_form	son
+33475_14	is_in_sentence	sentence_33475
+33475_14	compound	33475_15
+33475_14	has_surface_form	Gino
+33475_15	is_in_sentence	sentence_33475
+33475_15	appos	33475_13
+33475_15	has_surface_form	Quilico
+33475_16	is_in_sentence	sentence_33475
+33475_16	cc	33475_10
+33475_16	has_surface_form	and
+33475_17	is_in_sentence	sentence_33475
+33475_17	compound	33475_19
+33475_17	has_surface_form	daughter
+33475_19	is_in_sentence	sentence_33475
+33475_19	conj	33475_10
+33475_19	has_surface_form	Quilico
+33475_19	part_of_entity	Donna Quilico
+33475_18	is_in_sentence	sentence_33475
+33475_18	compound	33475_19
+33475_18	has_surface_form	Donna
+33475_18	part_of_entity	Donna Quilico
+33475_20	is_in_sentence	sentence_33475
+33475_20	punct	33475_8
+33475_20	has_surface_form	.
+33475_21	is_in_sentence	sentence_33475
+33475_21	dep	33475_21
+33475_21	has_surface_form	
+Lina Pizzolongo	surface_form	Lina Pizzolongo
+Lina Pizzolongo	has-child	Donna Quilico
+Donna Quilico	surface_form	Donna Quilico

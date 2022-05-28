@@ -1,0 +1,64 @@
+30110_0	is_in_sentence	sentence_30110
+30110_0	compound	30110_1
+30110_0	has_surface_form	Lorenzo
+30110_0	part_of_entity	Lorenzo Romar
+30110_1	is_in_sentence	sentence_30110
+30110_1	nsubj	30110_9
+30110_1	has_surface_form	Romar
+30110_1	part_of_entity	Lorenzo Romar
+30110_9	is_in_sentence	sentence_30110
+30110_9	ROOT	30110_9
+30110_9	has_surface_form	is
+30110_2	is_in_sentence	sentence_30110
+30110_2	punct	30110_1
+30110_2	has_surface_form	(
+30110_3	is_in_sentence	sentence_30110
+30110_3	acl	30110_1
+30110_3	has_surface_form	born
+30110_4	is_in_sentence	sentence_30110
+30110_4	npadvmod	30110_3
+30110_4	has_surface_form	November
+30110_5	is_in_sentence	sentence_30110
+30110_5	nummod	30110_4
+30110_5	has_surface_form	13
+30110_6	is_in_sentence	sentence_30110
+30110_6	punct	30110_4
+30110_6	has_surface_form	,
+30110_7	is_in_sentence	sentence_30110
+30110_7	nummod	30110_4
+30110_7	has_surface_form	1958
+30110_8	is_in_sentence	sentence_30110
+30110_8	punct	30110_1
+30110_8	has_surface_form	)
+30110_10	is_in_sentence	sentence_30110
+30110_10	det	30110_13
+30110_10	has_surface_form	an
+30110_13	is_in_sentence	sentence_30110
+30110_13	attr	30110_9
+30110_13	has_surface_form	coach
+30110_13	part_of_entity	basketball coach
+30110_11	is_in_sentence	sentence_30110
+30110_11	amod	30110_13
+30110_11	has_surface_form	American
+30110_12	is_in_sentence	sentence_30110
+30110_12	compound	30110_13
+30110_12	has_surface_form	basketball
+30110_12	part_of_entity	basketball coach
+30110_14	is_in_sentence	sentence_30110
+30110_14	cc	30110_13
+30110_14	has_surface_form	and
+30110_15	is_in_sentence	sentence_30110
+30110_15	amod	30110_16
+30110_15	has_surface_form	former
+30110_16	is_in_sentence	sentence_30110
+30110_16	conj	30110_13
+30110_16	has_surface_form	player
+30110_17	is_in_sentence	sentence_30110
+30110_17	punct	30110_9
+30110_17	has_surface_form	.
+30110_18	is_in_sentence	sentence_30110
+30110_18	dep	30110_18
+30110_18	has_surface_form	
+Lorenzo Romar	surface_form	Lorenzo Romar
+Lorenzo Romar	has-type	basketball coach
+basketball coach	surface_form	basketball coach

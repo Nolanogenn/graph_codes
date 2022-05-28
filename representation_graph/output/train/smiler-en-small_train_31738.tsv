@@ -1,0 +1,81 @@
+31737_0	is_in_sentence	sentence_31737
+31737_0	det	31737_1
+31737_0	has_surface_form	A
+31737_0	part_of_entity	A Woman of Distinction
+31737_1	is_in_sentence	sentence_31737
+31737_1	nsubj	31737_4
+31737_1	has_surface_form	Woman
+31737_1	part_of_entity	A Woman of Distinction
+31737_4	is_in_sentence	sentence_31737
+31737_4	ROOT	31737_4
+31737_4	has_surface_form	is
+31737_2	is_in_sentence	sentence_31737
+31737_2	prep	31737_1
+31737_2	has_surface_form	of
+31737_2	part_of_entity	A Woman of Distinction
+31737_3	is_in_sentence	sentence_31737
+31737_3	pobj	31737_2
+31737_3	has_surface_form	Distinction
+31737_3	part_of_entity	A Woman of Distinction
+31737_5	is_in_sentence	sentence_31737
+31737_5	det	31737_10
+31737_5	has_surface_form	a
+31737_10	is_in_sentence	sentence_31737
+31737_10	attr	31737_4
+31737_10	has_surface_form	film
+31737_6	is_in_sentence	sentence_31737
+31737_6	nummod	31737_10
+31737_6	has_surface_form	1950
+31737_7	is_in_sentence	sentence_31737
+31737_7	amod	31737_10
+31737_7	has_surface_form	American
+31737_8	is_in_sentence	sentence_31737
+31737_8	amod	31737_10
+31737_8	has_surface_form	romantic
+31737_9	is_in_sentence	sentence_31737
+31737_9	compound	31737_10
+31737_9	has_surface_form	comedy
+31737_11	is_in_sentence	sentence_31737
+31737_11	acl	31737_10
+31737_11	has_surface_form	directed
+31737_12	is_in_sentence	sentence_31737
+31737_12	agent	31737_11
+31737_12	has_surface_form	by
+31737_13	is_in_sentence	sentence_31737
+31737_13	compound	31737_14
+31737_13	has_surface_form	Edward
+31737_13	part_of_entity	Edward Buzzell
+31737_14	is_in_sentence	sentence_31737
+31737_14	pobj	31737_12
+31737_14	has_surface_form	Buzzell
+31737_14	part_of_entity	Edward Buzzell
+31737_15	is_in_sentence	sentence_31737
+31737_15	cc	31737_11
+31737_15	has_surface_form	and
+31737_16	is_in_sentence	sentence_31737
+31737_16	conj	31737_11
+31737_16	has_surface_form	starring
+31737_17	is_in_sentence	sentence_31737
+31737_17	compound	31737_18
+31737_17	has_surface_form	Rosalind
+31737_18	is_in_sentence	sentence_31737
+31737_18	dobj	31737_16
+31737_18	has_surface_form	Russell
+31737_19	is_in_sentence	sentence_31737
+31737_19	cc	31737_18
+31737_19	has_surface_form	and
+31737_20	is_in_sentence	sentence_31737
+31737_20	compound	31737_21
+31737_20	has_surface_form	Ray
+31737_21	is_in_sentence	sentence_31737
+31737_21	conj	31737_18
+31737_21	has_surface_form	Milland
+31737_22	is_in_sentence	sentence_31737
+31737_22	punct	31737_4
+31737_22	has_surface_form	.
+31737_23	is_in_sentence	sentence_31737
+31737_23	dep	31737_23
+31737_23	has_surface_form	
+A Woman of Distinction	surface_form	A Woman of Distinction
+A Woman of Distinction	movie-has-director	Edward Buzzell
+Edward Buzzell	surface_form	Edward Buzzell

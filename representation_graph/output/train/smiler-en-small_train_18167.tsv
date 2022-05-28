@@ -1,0 +1,66 @@
+18166_0	is_in_sentence	sentence_18166
+18166_0	poss	18166_1
+18166_0	has_surface_form	My
+18166_0	part_of_entity	My Brother Anastasia
+18166_1	is_in_sentence	sentence_18166
+18166_1	nsubj	18166_10
+18166_1	has_surface_form	Brother
+18166_1	part_of_entity	My Brother Anastasia
+18166_10	is_in_sentence	sentence_18166
+18166_10	ROOT	18166_10
+18166_10	has_surface_form	is
+18166_2	is_in_sentence	sentence_18166
+18166_2	appos	18166_1
+18166_2	has_surface_form	Anastasia
+18166_2	part_of_entity	My Brother Anastasia
+18166_3	is_in_sentence	sentence_18166
+18166_3	punct	18166_4
+18166_3	has_surface_form	(
+18166_4	is_in_sentence	sentence_18166
+18166_4	appos	18166_1
+18166_4	has_surface_form	Italian
+18166_5	is_in_sentence	sentence_18166
+18166_5	punct	18166_4
+18166_5	has_surface_form	:
+18166_6	is_in_sentence	sentence_18166
+18166_6	compound	18166_7
+18166_6	has_surface_form	Anastasia
+18166_7	is_in_sentence	sentence_18166
+18166_7	appos	18166_1
+18166_7	has_surface_form	mio
+18166_8	is_in_sentence	sentence_18166
+18166_8	advmod	18166_7
+18166_8	has_surface_form	fratello
+18166_9	is_in_sentence	sentence_18166
+18166_9	punct	18166_7
+18166_9	has_surface_form	)
+18166_11	is_in_sentence	sentence_18166
+18166_11	det	18166_13
+18166_11	has_surface_form	a
+18166_13	is_in_sentence	sentence_18166
+18166_13	attr	18166_10
+18166_13	has_surface_form	commedia
+18166_12	is_in_sentence	sentence_18166
+18166_12	nummod	18166_13
+18166_12	has_surface_form	1973
+18166_14	is_in_sentence	sentence_18166
+18166_14	appos	18166_13
+18166_14	has_surface_form	all'italiana
+18166_15	is_in_sentence	sentence_18166
+18166_15	acl	18166_13
+18166_15	has_surface_form	directed
+18166_16	is_in_sentence	sentence_18166
+18166_16	agent	18166_15
+18166_16	has_surface_form	by
+18166_17	is_in_sentence	sentence_18166
+18166_17	pobj	18166_16
+18166_17	is_entity	Steno
+Steno	surface_form	Steno
+18166_18	is_in_sentence	sentence_18166
+18166_18	punct	18166_10
+18166_18	has_surface_form	.
+18166_19	is_in_sentence	sentence_18166
+18166_19	dep	18166_19
+18166_19	has_surface_form	
+My Brother Anastasia	surface_form	My Brother Anastasia
+My Brother Anastasia	movie-has-director	Steno

@@ -1,0 +1,56 @@
+31389_0	is_in_sentence	sentence_31389
+31389_0	compound	31389_1
+31389_0	has_surface_form	Odean
+31389_0	part_of_entity	Odean Pope
+31389_1	is_in_sentence	sentence_31389
+31389_1	nsubj	31389_9
+31389_1	has_surface_form	Pope
+31389_1	part_of_entity	Odean Pope
+31389_9	is_in_sentence	sentence_31389
+31389_9	ROOT	31389_9
+31389_9	has_surface_form	is
+31389_2	is_in_sentence	sentence_31389
+31389_2	punct	31389_1
+31389_2	has_surface_form	(
+31389_3	is_in_sentence	sentence_31389
+31389_3	acl	31389_1
+31389_3	has_surface_form	born
+31389_4	is_in_sentence	sentence_31389
+31389_4	npadvmod	31389_3
+31389_4	has_surface_form	October
+31389_5	is_in_sentence	sentence_31389
+31389_5	nummod	31389_4
+31389_5	has_surface_form	24
+31389_6	is_in_sentence	sentence_31389
+31389_6	punct	31389_4
+31389_6	has_surface_form	,
+31389_7	is_in_sentence	sentence_31389
+31389_7	nummod	31389_4
+31389_7	has_surface_form	1938
+31389_8	is_in_sentence	sentence_31389
+31389_8	punct	31389_1
+31389_8	has_surface_form	)
+31389_10	is_in_sentence	sentence_31389
+31389_10	det	31389_13
+31389_10	has_surface_form	an
+31389_13	is_in_sentence	sentence_31389
+31389_13	attr	31389_9
+31389_13	has_surface_form	tenor
+31389_11	is_in_sentence	sentence_31389
+31389_11	amod	31389_13
+31389_11	has_surface_form	American
+31389_12	is_in_sentence	sentence_31389
+31389_12	compound	31389_13
+31389_12	is_entity	jazz
+jazz	surface_form	jazz
+31389_14	is_in_sentence	sentence_31389
+31389_14	appos	31389_13
+31389_14	has_surface_form	saxophonist
+31389_15	is_in_sentence	sentence_31389
+31389_15	punct	31389_9
+31389_15	has_surface_form	.
+31389_16	is_in_sentence	sentence_31389
+31389_16	dep	31389_9
+31389_16	has_surface_form	
+Odean Pope	surface_form	Odean Pope
+Odean Pope	has-genre	jazz

@@ -1,0 +1,92 @@
+20986_0	is_in_sentence	sentence_20986
+20986_0	compound	20986_1
+20986_0	has_surface_form	Sky
+20986_0	part_of_entity	Sky Scrapper
+20986_1	is_in_sentence	sentence_20986
+20986_1	nsubj	20986_10
+20986_1	has_surface_form	Scrapper
+20986_1	part_of_entity	Sky Scrapper
+20986_10	is_in_sentence	sentence_20986
+20986_10	ROOT	20986_10
+20986_10	has_surface_form	is
+20986_2	is_in_sentence	sentence_20986
+20986_2	punct	20986_1
+20986_2	has_surface_form	(
+20986_3	is_in_sentence	sentence_20986
+20986_3	advmod	20986_4
+20986_3	has_surface_form	also
+20986_4	is_in_sentence	sentence_20986
+20986_4	acl	20986_1
+20986_4	has_surface_form	known
+20986_5	is_in_sentence	sentence_20986
+20986_5	prep	20986_4
+20986_5	has_surface_form	as
+20986_6	is_in_sentence	sentence_20986
+20986_6	compound	20986_8
+20986_6	has_surface_form	Starry
+20986_8	is_in_sentence	sentence_20986
+20986_8	pobj	20986_5
+20986_8	has_surface_form	Ripper
+20986_7	is_in_sentence	sentence_20986
+20986_7	compound	20986_8
+20986_7	has_surface_form	Sky
+20986_9	is_in_sentence	sentence_20986
+20986_9	punct	20986_1
+20986_9	has_surface_form	)
+20986_11	is_in_sentence	sentence_20986
+20986_11	det	20986_14
+20986_11	has_surface_form	a
+20986_14	is_in_sentence	sentence_20986
+20986_14	attr	20986_10
+20986_14	has_surface_form	coaster
+20986_14	part_of_entity	flying roller coaster
+20986_12	is_in_sentence	sentence_20986
+20986_12	amod	20986_14
+20986_12	has_surface_form	flying
+20986_12	part_of_entity	flying roller coaster
+20986_13	is_in_sentence	sentence_20986
+20986_13	compound	20986_14
+20986_13	has_surface_form	roller
+20986_13	part_of_entity	flying roller coaster
+20986_15	is_in_sentence	sentence_20986
+20986_15	prep	20986_14
+20986_15	has_surface_form	at
+20986_16	is_in_sentence	sentence_20986
+20986_16	compound	20986_17
+20986_16	has_surface_form	World
+20986_17	is_in_sentence	sentence_20986
+20986_17	pobj	20986_15
+20986_17	has_surface_form	Joyland
+20986_18	is_in_sentence	sentence_20986
+20986_18	prep	20986_17
+20986_18	has_surface_form	in
+20986_19	is_in_sentence	sentence_20986
+20986_19	pobj	20986_18
+20986_19	has_surface_form	Wujin
+20986_20	is_in_sentence	sentence_20986
+20986_20	punct	20986_19
+20986_20	has_surface_form	,
+20986_21	is_in_sentence	sentence_20986
+20986_21	conj	20986_19
+20986_21	has_surface_form	Changzhou
+20986_22	is_in_sentence	sentence_20986
+20986_22	punct	20986_21
+20986_22	has_surface_form	,
+20986_23	is_in_sentence	sentence_20986
+20986_23	conj	20986_21
+20986_23	has_surface_form	Jiangsu
+20986_24	is_in_sentence	sentence_20986
+20986_24	punct	20986_23
+20986_24	has_surface_form	,
+20986_25	is_in_sentence	sentence_20986
+20986_25	appos	20986_23
+20986_25	has_surface_form	China
+20986_26	is_in_sentence	sentence_20986
+20986_26	punct	20986_10
+20986_26	has_surface_form	.
+20986_27	is_in_sentence	sentence_20986
+20986_27	dep	20986_10
+20986_27	has_surface_form	
+Sky Scrapper	surface_form	Sky Scrapper
+Sky Scrapper	has-type	flying roller coaster
+flying roller coaster	surface_form	flying roller coaster

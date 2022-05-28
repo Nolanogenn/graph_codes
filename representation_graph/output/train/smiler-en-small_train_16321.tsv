@@ -1,0 +1,108 @@
+16320_0	is_in_sentence	sentence_16320
+16320_0	nsubj	16320_12
+16320_0	has_surface_form	Scandal
+16320_0	part_of_entity	Scandal on Park Street
+16320_12	is_in_sentence	sentence_16320
+16320_12	ROOT	16320_12
+16320_12	has_surface_form	is
+16320_1	is_in_sentence	sentence_16320
+16320_1	prep	16320_0
+16320_1	has_surface_form	on
+16320_1	part_of_entity	Scandal on Park Street
+16320_2	is_in_sentence	sentence_16320
+16320_2	compound	16320_3
+16320_2	has_surface_form	Park
+16320_2	part_of_entity	Scandal on Park Street
+16320_3	is_in_sentence	sentence_16320
+16320_3	pobj	16320_1
+16320_3	has_surface_form	Street
+16320_3	part_of_entity	Scandal on Park Street
+16320_4	is_in_sentence	sentence_16320
+16320_4	punct	16320_5
+16320_4	has_surface_form	(
+16320_5	is_in_sentence	sentence_16320
+16320_5	appos	16320_0
+16320_5	has_surface_form	German
+16320_6	is_in_sentence	sentence_16320
+16320_6	punct	16320_5
+16320_6	has_surface_form	:
+16320_7	is_in_sentence	sentence_16320
+16320_7	appos	16320_5
+16320_7	has_surface_form	Skandal
+16320_8	is_in_sentence	sentence_16320
+16320_8	prep	16320_7
+16320_8	has_surface_form	in
+16320_9	is_in_sentence	sentence_16320
+16320_9	compound	16320_10
+16320_9	has_surface_form	der
+16320_10	is_in_sentence	sentence_16320
+16320_10	pobj	16320_8
+16320_10	has_surface_form	Parkstraße
+16320_11	is_in_sentence	sentence_16320
+16320_11	punct	16320_5
+16320_11	has_surface_form	)
+16320_13	is_in_sentence	sentence_16320
+16320_13	det	16320_16
+16320_13	has_surface_form	a
+16320_16	is_in_sentence	sentence_16320
+16320_16	attr	16320_12
+16320_16	has_surface_form	film
+16320_14	is_in_sentence	sentence_16320
+16320_14	nummod	16320_16
+16320_14	has_surface_form	1932
+16320_15	is_in_sentence	sentence_16320
+16320_15	amod	16320_16
+16320_15	has_surface_form	German
+16320_17	is_in_sentence	sentence_16320
+16320_17	acl	16320_16
+16320_17	has_surface_form	directed
+16320_18	is_in_sentence	sentence_16320
+16320_18	agent	16320_17
+16320_18	has_surface_form	by
+16320_19	is_in_sentence	sentence_16320
+16320_19	compound	16320_20
+16320_19	has_surface_form	Franz
+16320_19	part_of_entity	Franz Wenzler
+16320_20	is_in_sentence	sentence_16320
+16320_20	pobj	16320_18
+16320_20	has_surface_form	Wenzler
+16320_20	part_of_entity	Franz Wenzler
+16320_21	is_in_sentence	sentence_16320
+16320_21	cc	16320_17
+16320_21	has_surface_form	and
+16320_22	is_in_sentence	sentence_16320
+16320_22	conj	16320_17
+16320_22	has_surface_form	starring
+16320_23	is_in_sentence	sentence_16320
+16320_23	compound	16320_24
+16320_23	has_surface_form	Camilla
+16320_24	is_in_sentence	sentence_16320
+16320_24	dobj	16320_22
+16320_24	has_surface_form	Spira
+16320_25	is_in_sentence	sentence_16320
+16320_25	punct	16320_24
+16320_25	has_surface_form	,
+16320_26	is_in_sentence	sentence_16320
+16320_26	compound	16320_27
+16320_26	has_surface_form	Fritz
+16320_27	is_in_sentence	sentence_16320
+16320_27	conj	16320_24
+16320_27	has_surface_form	Kampers
+16320_28	is_in_sentence	sentence_16320
+16320_28	cc	16320_27
+16320_28	has_surface_form	and
+16320_29	is_in_sentence	sentence_16320
+16320_29	compound	16320_30
+16320_29	has_surface_form	Kurt
+16320_30	is_in_sentence	sentence_16320
+16320_30	conj	16320_27
+16320_30	has_surface_form	Lilien
+16320_31	is_in_sentence	sentence_16320
+16320_31	punct	16320_12
+16320_31	has_surface_form	.
+16320_32	is_in_sentence	sentence_16320
+16320_32	dep	16320_12
+16320_32	has_surface_form	
+Scandal on Park Street	surface_form	Scandal on Park Street
+Scandal on Park Street	movie-has-director	Franz Wenzler
+Franz Wenzler	surface_form	Franz Wenzler

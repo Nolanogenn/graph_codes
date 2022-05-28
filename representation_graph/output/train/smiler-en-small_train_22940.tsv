@@ -1,0 +1,64 @@
+22939_0	is_in_sentence	sentence_22939
+22939_0	compound	22939_2
+22939_0	has_surface_form	Marine
+22939_0	part_of_entity	Marine Fighter Attack Squadron 334
+22939_2	is_in_sentence	sentence_22939
+22939_2	compound	22939_3
+22939_2	has_surface_form	Attack
+22939_2	part_of_entity	Marine Fighter Attack Squadron 334
+22939_1	is_in_sentence	sentence_22939
+22939_1	compound	22939_2
+22939_1	has_surface_form	Fighter
+22939_1	part_of_entity	Marine Fighter Attack Squadron 334
+22939_3	is_in_sentence	sentence_22939
+22939_3	nsubj	22939_8
+22939_3	has_surface_form	Squadron
+22939_3	part_of_entity	Marine Fighter Attack Squadron 334
+22939_8	is_in_sentence	sentence_22939
+22939_8	ROOT	22939_8
+22939_8	has_surface_form	was
+22939_4	is_in_sentence	sentence_22939
+22939_4	nummod	22939_3
+22939_4	has_surface_form	334
+22939_4	part_of_entity	Marine Fighter Attack Squadron 334
+22939_5	is_in_sentence	sentence_22939
+22939_5	punct	22939_6
+22939_5	has_surface_form	(
+22939_6	is_in_sentence	sentence_22939
+22939_6	appos	22939_3
+22939_6	has_surface_form	VMFA-334
+22939_7	is_in_sentence	sentence_22939
+22939_7	punct	22939_6
+22939_7	has_surface_form	)
+22939_9	is_in_sentence	sentence_22939
+22939_9	det	22939_15
+22939_9	has_surface_form	a
+22939_15	is_in_sentence	sentence_22939
+22939_15	attr	22939_8
+22939_15	has_surface_form	squadron
+22939_15	part_of_entity	fighter squadron
+22939_10	is_in_sentence	sentence_22939
+22939_10	compound	22939_11
+22939_10	has_surface_form	United
+22939_11	is_in_sentence	sentence_22939
+22939_11	compound	22939_15
+22939_11	has_surface_form	States
+22939_12	is_in_sentence	sentence_22939
+22939_12	compound	22939_13
+22939_12	has_surface_form	Marine
+22939_13	is_in_sentence	sentence_22939
+22939_13	compound	22939_15
+22939_13	has_surface_form	Corps
+22939_14	is_in_sentence	sentence_22939
+22939_14	compound	22939_15
+22939_14	has_surface_form	fighter
+22939_14	part_of_entity	fighter squadron
+22939_16	is_in_sentence	sentence_22939
+22939_16	punct	22939_8
+22939_16	has_surface_form	.
+22939_17	is_in_sentence	sentence_22939
+22939_17	dep	22939_8
+22939_17	has_surface_form	
+Marine Fighter Attack Squadron 334	surface_form	Marine Fighter Attack Squadron 334
+Marine Fighter Attack Squadron 334	has-type	fighter squadron
+fighter squadron	surface_form	fighter squadron

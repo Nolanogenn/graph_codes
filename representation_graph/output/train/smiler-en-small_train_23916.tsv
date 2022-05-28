@@ -1,0 +1,56 @@
+23915_0	is_in_sentence	sentence_23915
+23915_0	compound	23915_1
+23915_0	has_surface_form	Dario
+23915_0	part_of_entity	Dario Lari
+23915_1	is_in_sentence	sentence_23915
+23915_1	nsubj	23915_10
+23915_1	has_surface_form	Lari
+23915_1	part_of_entity	Dario Lari
+23915_10	is_in_sentence	sentence_23915
+23915_10	ROOT	23915_10
+23915_10	has_surface_form	is
+23915_2	is_in_sentence	sentence_23915
+23915_2	punct	23915_1
+23915_2	has_surface_form	(
+23915_3	is_in_sentence	sentence_23915
+23915_3	acl	23915_1
+23915_3	has_surface_form	born
+23915_4	is_in_sentence	sentence_23915
+23915_4	nummod	23915_5
+23915_4	has_surface_form	22
+23915_5	is_in_sentence	sentence_23915
+23915_5	npadvmod	23915_3
+23915_5	has_surface_form	October
+23915_6	is_in_sentence	sentence_23915
+23915_6	nummod	23915_5
+23915_6	has_surface_form	1979
+23915_7	is_in_sentence	sentence_23915
+23915_7	prep	23915_3
+23915_7	has_surface_form	in
+23915_8	is_in_sentence	sentence_23915
+23915_8	pobj	23915_7
+23915_8	is_entity	Livorno
+Livorno	surface_form	Livorno
+23915_9	is_in_sentence	sentence_23915
+23915_9	punct	23915_1
+23915_9	has_surface_form	)
+23915_11	is_in_sentence	sentence_23915
+23915_11	det	23915_12
+23915_11	has_surface_form	a
+23915_12	is_in_sentence	sentence_23915
+23915_12	attr	23915_10
+23915_12	has_surface_form	rower
+23915_13	is_in_sentence	sentence_23915
+23915_13	prep	23915_12
+23915_13	has_surface_form	from
+23915_14	is_in_sentence	sentence_23915
+23915_14	pobj	23915_13
+23915_14	has_surface_form	Italy
+23915_15	is_in_sentence	sentence_23915
+23915_15	punct	23915_10
+23915_15	has_surface_form	.
+23915_16	is_in_sentence	sentence_23915
+23915_16	dep	23915_16
+23915_16	has_surface_form	
+Dario Lari	surface_form	Dario Lari
+Dario Lari	birth-place	Livorno

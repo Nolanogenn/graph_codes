@@ -1,0 +1,75 @@
+21056_0	is_in_sentence	sentence_21056
+21056_0	compound	21056_1
+21056_0	has_surface_form	Shahid
+21056_0	part_of_entity	Shahid Beheshti University of Medical Sciences
+21056_1	is_in_sentence	sentence_21056
+21056_1	compound	21056_2
+21056_1	has_surface_form	Beheshti
+21056_1	part_of_entity	Shahid Beheshti University of Medical Sciences
+21056_2	is_in_sentence	sentence_21056
+21056_2	nsubj	21056_6
+21056_2	has_surface_form	University
+21056_2	part_of_entity	Shahid Beheshti University of Medical Sciences
+21056_6	is_in_sentence	sentence_21056
+21056_6	ROOT	21056_6
+21056_6	has_surface_form	is
+21056_3	is_in_sentence	sentence_21056
+21056_3	prep	21056_2
+21056_3	has_surface_form	of
+21056_3	part_of_entity	Shahid Beheshti University of Medical Sciences
+21056_4	is_in_sentence	sentence_21056
+21056_4	compound	21056_5
+21056_4	has_surface_form	Medical
+21056_4	part_of_entity	Shahid Beheshti University of Medical Sciences
+21056_5	is_in_sentence	sentence_21056
+21056_5	pobj	21056_3
+21056_5	has_surface_form	Sciences
+21056_5	part_of_entity	Shahid Beheshti University of Medical Sciences
+21056_7	is_in_sentence	sentence_21056
+21056_7	attr	21056_6
+21056_7	has_surface_form	one
+21056_8	is_in_sentence	sentence_21056
+21056_8	prep	21056_7
+21056_8	has_surface_form	of
+21056_9	is_in_sentence	sentence_21056
+21056_9	det	21056_12
+21056_9	has_surface_form	the
+21056_12	is_in_sentence	sentence_21056
+21056_12	pobj	21056_8
+21056_12	has_surface_form	universities
+21056_10	is_in_sentence	sentence_21056
+21056_10	nummod	21056_12
+21056_10	has_surface_form	three
+21056_11	is_in_sentence	sentence_21056
+21056_11	amod	21056_12
+21056_11	has_surface_form	medical
+21056_13	is_in_sentence	sentence_21056
+21056_13	prep	21056_12
+21056_13	has_surface_form	in
+21056_14	is_in_sentence	sentence_21056
+21056_14	pobj	21056_13
+21056_14	is_entity	Tehran
+Tehran	surface_form	Tehran
+21056_15	is_in_sentence	sentence_21056
+21056_15	punct	21056_14
+21056_15	has_surface_form	,
+21056_16	is_in_sentence	sentence_21056
+21056_16	det	21056_17
+21056_16	has_surface_form	the
+21056_17	is_in_sentence	sentence_21056
+21056_17	appos	21056_14
+21056_17	has_surface_form	capital
+21056_18	is_in_sentence	sentence_21056
+21056_18	prep	21056_17
+21056_18	has_surface_form	of
+21056_19	is_in_sentence	sentence_21056
+21056_19	pobj	21056_18
+21056_19	has_surface_form	Iran
+21056_20	is_in_sentence	sentence_21056
+21056_20	punct	21056_6
+21056_20	has_surface_form	.
+21056_21	is_in_sentence	sentence_21056
+21056_21	dep	21056_21
+21056_21	has_surface_form	
+Shahid Beheshti University of Medical Sciences	surface_form	Shahid Beheshti University of Medical Sciences
+Shahid Beheshti University of Medical Sciences	is-where	Tehran

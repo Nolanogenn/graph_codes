@@ -1,0 +1,50 @@
+1197_0	is_in_sentence	sentence_1197
+1197_0	compound	1197_1
+1197_0	has_surface_form	Ente
+1197_0	part_of_entity	Ente Kalithozhan
+1197_1	is_in_sentence	sentence_1197
+1197_1	nsubj	1197_2
+1197_1	has_surface_form	Kalithozhan
+1197_1	part_of_entity	Ente Kalithozhan
+1197_2	is_in_sentence	sentence_1197
+1197_2	ROOT	1197_2
+1197_2	has_surface_form	is
+1197_3	is_in_sentence	sentence_1197
+1197_3	det	1197_7
+1197_3	has_surface_form	a
+1197_7	is_in_sentence	sentence_1197
+1197_7	attr	1197_2
+1197_7	is_entity	film
+1197_4	is_in_sentence	sentence_1197
+1197_4	nummod	1197_7
+1197_4	has_surface_form	1984
+1197_5	is_in_sentence	sentence_1197
+1197_5	amod	1197_7
+1197_5	has_surface_form	Indian
+1197_6	is_in_sentence	sentence_1197
+1197_6	compound	1197_7
+1197_6	has_surface_form	Malayalam
+film	surface_form	film
+1197_8	is_in_sentence	sentence_1197
+1197_8	punct	1197_7
+1197_8	has_surface_form	,
+1197_9	is_in_sentence	sentence_1197
+1197_9	acl	1197_7
+1197_9	has_surface_form	directed
+1197_10	is_in_sentence	sentence_1197
+1197_10	cc	1197_9
+1197_10	has_surface_form	and
+1197_11	is_in_sentence	sentence_1197
+1197_11	conj	1197_9
+1197_11	has_surface_form	produced
+1197_12	is_in_sentence	sentence_1197
+1197_12	agent	1197_11
+1197_12	has_surface_form	by
+1197_13	is_in_sentence	sentence_1197
+1197_13	compound	1197_14
+1197_13	has_surface_form	M.
+1197_14	is_in_sentence	sentence_1197
+1197_14	dep	1197_12
+1197_14	has_surface_form	
+Ente Kalithozhan	surface_form	Ente Kalithozhan
+Ente Kalithozhan	has-type	film

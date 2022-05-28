@@ -1,0 +1,56 @@
+10341_0	is_in_sentence	sentence_10341
+10341_0	compound	10341_1
+10341_0	has_surface_form	Barbara
+10341_0	part_of_entity	Barbara Dennerlein
+10341_1	is_in_sentence	sentence_10341
+10341_1	nsubj	10341_10
+10341_1	has_surface_form	Dennerlein
+10341_1	part_of_entity	Barbara Dennerlein
+10341_10	is_in_sentence	sentence_10341
+10341_10	ROOT	10341_10
+10341_10	has_surface_form	is
+10341_2	is_in_sentence	sentence_10341
+10341_2	punct	10341_3
+10341_2	has_surface_form	(
+10341_3	is_in_sentence	sentence_10341
+10341_3	parataxis	10341_1
+10341_3	has_surface_form	born
+10341_4	is_in_sentence	sentence_10341
+10341_4	nummod	10341_5
+10341_4	has_surface_form	25
+10341_5	is_in_sentence	sentence_10341
+10341_5	npadvmod	10341_3
+10341_5	has_surface_form	September
+10341_6	is_in_sentence	sentence_10341
+10341_6	nummod	10341_5
+10341_6	has_surface_form	1964
+10341_7	is_in_sentence	sentence_10341
+10341_7	prep	10341_3
+10341_7	has_surface_form	in
+10341_8	is_in_sentence	sentence_10341
+10341_8	pobj	10341_7
+10341_8	has_surface_form	Munich
+10341_9	is_in_sentence	sentence_10341
+10341_9	punct	10341_1
+10341_9	has_surface_form	)
+10341_11	is_in_sentence	sentence_10341
+10341_11	det	10341_13
+10341_11	has_surface_form	a
+10341_13	is_in_sentence	sentence_10341
+10341_13	compound	10341_14
+10341_13	is_entity	jazz
+10341_12	is_in_sentence	sentence_10341
+10341_12	amod	10341_13
+10341_12	has_surface_form	German
+10341_14	is_in_sentence	sentence_10341
+10341_14	acomp	10341_10
+10341_14	has_surface_form	organist
+jazz	surface_form	jazz
+10341_15	is_in_sentence	sentence_10341
+10341_15	punct	10341_10
+10341_15	has_surface_form	.
+10341_16	is_in_sentence	sentence_10341
+10341_16	dep	10341_16
+10341_16	has_surface_form	
+Barbara Dennerlein	surface_form	Barbara Dennerlein
+Barbara Dennerlein	has-genre	jazz

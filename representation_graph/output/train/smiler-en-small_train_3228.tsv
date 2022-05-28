@@ -1,0 +1,91 @@
+3227_0	is_in_sentence	sentence_3227
+3227_0	compound	3227_1
+3227_0	has_surface_form	Luz
+3227_1	is_in_sentence	sentence_3227
+3227_1	compound	3227_3
+3227_1	has_surface_form	Eufemia
+3227_3	is_in_sentence	sentence_3227
+3227_3	nsubj	3227_15
+3227_3	has_surface_form	Gutiérrez
+3227_2	is_in_sentence	sentence_3227
+3227_2	compound	3227_3
+3227_2	has_surface_form	Vela
+3227_15	is_in_sentence	sentence_3227
+3227_15	ROOT	3227_15
+3227_15	has_surface_form	is
+3227_4	is_in_sentence	sentence_3227
+3227_4	punct	3227_3
+3227_4	has_surface_form	,
+3227_5	is_in_sentence	sentence_3227
+3227_5	advmod	3227_6
+3227_5	has_surface_form	better
+3227_6	is_in_sentence	sentence_3227
+3227_6	acl	3227_3
+3227_6	has_surface_form	known
+3227_7	is_in_sentence	sentence_3227
+3227_7	prep	3227_6
+3227_7	has_surface_form	as
+3227_8	is_in_sentence	sentence_3227
+3227_8	compound	3227_9
+3227_8	has_surface_form	Lucé
+3227_8	part_of_entity	Lucé Vela
+3227_9	is_in_sentence	sentence_3227
+3227_9	pobj	3227_7
+3227_9	has_surface_form	Vela
+3227_9	part_of_entity	Lucé Vela
+3227_10	is_in_sentence	sentence_3227
+3227_10	punct	3227_3
+3227_10	has_surface_form	,
+3227_11	is_in_sentence	sentence_3227
+3227_11	punct	3227_3
+3227_11	has_surface_form	(
+3227_12	is_in_sentence	sentence_3227
+3227_12	appos	3227_3
+3227_12	has_surface_form	born
+3227_13	is_in_sentence	sentence_3227
+3227_13	npadvmod	3227_12
+3227_13	has_surface_form	1961
+3227_14	is_in_sentence	sentence_3227
+3227_14	punct	3227_3
+3227_14	has_surface_form	)
+3227_16	is_in_sentence	sentence_3227
+3227_16	det	3227_17
+3227_16	has_surface_form	the
+3227_17	is_in_sentence	sentence_3227
+3227_17	attr	3227_15
+3227_17	has_surface_form	wife
+3227_18	is_in_sentence	sentence_3227
+3227_18	prep	3227_17
+3227_18	has_surface_form	of
+3227_19	is_in_sentence	sentence_3227
+3227_19	amod	3227_20
+3227_19	has_surface_form	former
+3227_20	is_in_sentence	sentence_3227
+3227_20	pobj	3227_18
+3227_20	has_surface_form	Governor
+3227_21	is_in_sentence	sentence_3227
+3227_21	prep	3227_20
+3227_21	has_surface_form	of
+3227_22	is_in_sentence	sentence_3227
+3227_22	compound	3227_23
+3227_22	has_surface_form	Puerto
+3227_23	is_in_sentence	sentence_3227
+3227_23	pobj	3227_21
+3227_23	has_surface_form	Rico
+3227_24	is_in_sentence	sentence_3227
+3227_24	compound	3227_25
+3227_24	has_surface_form	Luis
+3227_24	part_of_entity	Luis Fortuño
+3227_25	is_in_sentence	sentence_3227
+3227_25	pobj	3227_18
+3227_25	has_surface_form	Fortuño
+3227_25	part_of_entity	Luis Fortuño
+3227_26	is_in_sentence	sentence_3227
+3227_26	punct	3227_15
+3227_26	has_surface_form	.
+3227_27	is_in_sentence	sentence_3227
+3227_27	dep	3227_15
+3227_27	has_surface_form	
+Lucé Vela	surface_form	Lucé Vela
+Lucé Vela	has-spouse	Luis Fortuño
+Luis Fortuño	surface_form	Luis Fortuño

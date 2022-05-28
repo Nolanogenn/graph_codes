@@ -1,0 +1,52 @@
+25508_0	is_in_sentence	sentence_25508
+25508_0	compound	25508_1
+25508_0	has_surface_form	Billie
+25508_0	part_of_entity	Billie Jean
+25508_1	is_in_sentence	sentence_25508
+25508_1	poss	25508_3
+25508_1	has_surface_form	Jean
+25508_1	part_of_entity	Billie Jean
+25508_3	is_in_sentence	sentence_25508
+25508_3	nsubjpass	25508_10
+25508_3	has_surface_form	daughter
+25508_2	is_in_sentence	sentence_25508
+25508_2	case	25508_1
+25508_2	has_surface_form	's
+25508_10	is_in_sentence	sentence_25508
+25508_10	ROOT	25508_10
+25508_10	has_surface_form	adopted
+25508_4	is_in_sentence	sentence_25508
+25508_4	punct	25508_3
+25508_4	has_surface_form	,
+25508_5	is_in_sentence	sentence_25508
+25508_5	compound	25508_6
+25508_5	has_surface_form	Jeri
+25508_5	part_of_entity	Jeri Lynn
+25508_6	is_in_sentence	sentence_25508
+25508_6	appos	25508_3
+25508_6	has_surface_form	Lynn
+25508_6	part_of_entity	Jeri Lynn
+25508_7	is_in_sentence	sentence_25508
+25508_7	punct	25508_3
+25508_7	has_surface_form	,
+25508_8	is_in_sentence	sentence_25508
+25508_8	auxpass	25508_10
+25508_8	has_surface_form	was
+25508_9	is_in_sentence	sentence_25508
+25508_9	advmod	25508_10
+25508_9	has_surface_form	legally
+25508_11	is_in_sentence	sentence_25508
+25508_11	agent	25508_10
+25508_11	has_surface_form	by
+25508_12	is_in_sentence	sentence_25508
+25508_12	pobj	25508_11
+25508_12	has_surface_form	Johnny
+25508_13	is_in_sentence	sentence_25508
+25508_13	punct	25508_10
+25508_13	has_surface_form	.
+25508_14	is_in_sentence	sentence_25508
+25508_14	dep	25508_14
+25508_14	has_surface_form	
+Billie Jean	surface_form	Billie Jean
+Billie Jean	has-child	Jeri Lynn
+Jeri Lynn	surface_form	Jeri Lynn

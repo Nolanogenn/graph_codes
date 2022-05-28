@@ -1,0 +1,61 @@
+13122_0	is_in_sentence	sentence_13122
+13122_0	compound	13122_1
+13122_0	has_surface_form	Linda
+13122_0	part_of_entity	Linda Martell
+13122_1	is_in_sentence	sentence_13122
+13122_1	nsubjpass	13122_3
+13122_1	has_surface_form	Martell
+13122_1	part_of_entity	Linda Martell
+13122_3	is_in_sentence	sentence_13122
+13122_3	ROOT	13122_3
+13122_3	has_surface_form	born
+13122_2	is_in_sentence	sentence_13122
+13122_2	auxpass	13122_3
+13122_2	has_surface_form	was
+13122_4	is_in_sentence	sentence_13122
+13122_4	prep	13122_3
+13122_4	has_surface_form	in
+13122_5	is_in_sentence	sentence_13122
+13122_5	pobj	13122_4
+13122_5	has_surface_form	Leesville
+13122_6	is_in_sentence	sentence_13122
+13122_6	punct	13122_5
+13122_6	has_surface_form	,
+13122_7	is_in_sentence	sentence_13122
+13122_7	compound	13122_8
+13122_7	has_surface_form	South
+13122_8	is_in_sentence	sentence_13122
+13122_8	appos	13122_5
+13122_8	has_surface_form	Carolina
+13122_9	is_in_sentence	sentence_13122
+13122_9	punct	13122_5
+13122_9	has_surface_form	,
+13122_10	is_in_sentence	sentence_13122
+13122_10	det	13122_11
+13122_10	has_surface_form	the
+13122_11	is_in_sentence	sentence_13122
+13122_11	appos	13122_5
+13122_11	has_surface_form	daughter
+13122_12	is_in_sentence	sentence_13122
+13122_12	prep	13122_11
+13122_12	has_surface_form	of
+13122_13	is_in_sentence	sentence_13122
+13122_13	compound	13122_15
+13122_13	has_surface_form	pastor
+13122_15	is_in_sentence	sentence_13122
+13122_15	pobj	13122_12
+13122_15	has_surface_form	Bynem
+13122_15	part_of_entity	Clarence Bynem
+13122_14	is_in_sentence	sentence_13122
+13122_14	compound	13122_15
+13122_14	has_surface_form	Clarence
+13122_14	part_of_entity	Clarence Bynem
+13122_16	is_in_sentence	sentence_13122
+13122_16	punct	13122_3
+13122_16	has_surface_form	.
+13122_17	is_in_sentence	sentence_13122
+13122_17	dep	13122_17
+13122_17	has_surface_form	
+Linda Martell	surface_form	Linda Martell
+Linda Martell	has-parent	Clarence Bynem
+Clarence Bynem	surface_form	Clarence Bynem

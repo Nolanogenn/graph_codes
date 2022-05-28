@@ -1,0 +1,56 @@
+33015_0	is_in_sentence	sentence_33015
+33015_0	compound	33015_1
+33015_0	has_surface_form	Sue
+33015_0	part_of_entity	Sue Devaney
+33015_1	is_in_sentence	sentence_33015
+33015_1	nsubj	33015_11
+33015_1	has_surface_form	Devaney
+33015_1	part_of_entity	Sue Devaney
+33015_11	is_in_sentence	sentence_33015
+33015_11	ROOT	33015_11
+33015_11	has_surface_form	is
+33015_2	is_in_sentence	sentence_33015
+33015_2	punct	33015_3
+33015_2	has_surface_form	(
+33015_3	is_in_sentence	sentence_33015
+33015_3	relcl	33015_1
+33015_3	has_surface_form	born
+33015_4	is_in_sentence	sentence_33015
+33015_4	compound	33015_5
+33015_4	has_surface_form	Susan
+33015_5	is_in_sentence	sentence_33015
+33015_5	dobj	33015_3
+33015_5	has_surface_form	Barber
+33015_6	is_in_sentence	sentence_33015
+33015_6	punct	33015_5
+33015_6	has_surface_form	,
+33015_7	is_in_sentence	sentence_33015
+33015_7	nummod	33015_8
+33015_7	has_surface_form	2
+33015_8	is_in_sentence	sentence_33015
+33015_8	npadvmod	33015_3
+33015_8	has_surface_form	July
+33015_9	is_in_sentence	sentence_33015
+33015_9	nummod	33015_8
+33015_9	has_surface_form	1967
+33015_10	is_in_sentence	sentence_33015
+33015_10	punct	33015_1
+33015_10	has_surface_form	)
+33015_12	is_in_sentence	sentence_33015
+33015_12	det	33015_14
+33015_12	has_surface_form	an
+33015_14	is_in_sentence	sentence_33015
+33015_14	attr	33015_11
+33015_14	is_entity	actress
+33015_13	is_in_sentence	sentence_33015
+33015_13	compound	33015_14
+33015_13	has_surface_form	English
+actress	surface_form	actress
+33015_15	is_in_sentence	sentence_33015
+33015_15	punct	33015_11
+33015_15	has_surface_form	.
+33015_16	is_in_sentence	sentence_33015
+33015_16	dep	33015_16
+33015_16	has_surface_form	
+Sue Devaney	surface_form	Sue Devaney
+Sue Devaney	has-occupation	actress

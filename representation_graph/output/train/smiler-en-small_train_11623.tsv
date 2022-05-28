@@ -1,0 +1,62 @@
+11622_0	is_in_sentence	sentence_11622
+11622_0	det	11622_2
+11622_0	has_surface_form	The
+11622_2	is_in_sentence	sentence_11622
+11622_2	nsubjpass	11622_8
+11622_2	has_surface_form	patent
+11622_1	is_in_sentence	sentence_11622
+11622_1	amod	11622_2
+11622_1	has_surface_form	first
+11622_8	is_in_sentence	sentence_11622
+11622_8	ROOT	11622_8
+11622_8	has_surface_form	filed
+11622_3	is_in_sentence	sentence_11622
+11622_3	prep	11622_2
+11622_3	has_surface_form	for
+11622_4	is_in_sentence	sentence_11622
+11622_4	det	11622_6
+11622_4	has_surface_form	a
+11622_6	is_in_sentence	sentence_11622
+11622_6	pobj	11622_3
+11622_6	has_surface_form	wrench
+11622_6	part_of_entity	torque wrench
+11622_5	is_in_sentence	sentence_11622
+11622_5	compound	11622_6
+11622_5	has_surface_form	torque
+11622_5	part_of_entity	torque wrench
+11622_7	is_in_sentence	sentence_11622
+11622_7	auxpass	11622_8
+11622_7	has_surface_form	was
+11622_9	is_in_sentence	sentence_11622
+11622_9	agent	11622_8
+11622_9	has_surface_form	by
+11622_10	is_in_sentence	sentence_11622
+11622_10	compound	11622_12
+11622_10	has_surface_form	John
+11622_12	is_in_sentence	sentence_11622
+11622_12	pobj	11622_9
+11622_12	has_surface_form	Sharp
+11622_11	is_in_sentence	sentence_11622
+11622_11	compound	11622_12
+11622_11	has_surface_form	H.
+11622_13	is_in_sentence	sentence_11622
+11622_13	prep	11622_12
+11622_13	has_surface_form	of
+11622_14	is_in_sentence	sentence_11622
+11622_14	pobj	11622_13
+11622_14	has_surface_form	Chicago
+11622_15	is_in_sentence	sentence_11622
+11622_15	prep	11622_8
+11622_15	has_surface_form	in
+11622_16	is_in_sentence	sentence_11622
+11622_16	pobj	11622_15
+11622_16	is_entity	1931
+1931	surface_form	1931
+11622_17	is_in_sentence	sentence_11622
+11622_17	punct	11622_8
+11622_17	has_surface_form	.
+11622_18	is_in_sentence	sentence_11622
+11622_18	dep	11622_18
+11622_18	has_surface_form	
+torque wrench	surface_form	torque wrench
+torque wrench	invented-when	1931

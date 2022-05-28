@@ -1,0 +1,79 @@
+1190_0	is_in_sentence	sentence_1190
+1190_0	nsubj	1190_1
+1190_0	has_surface_form	Hunt
+1190_1	is_in_sentence	sentence_1190
+1190_1	ROOT	1190_1
+1190_1	has_surface_form	married
+1190_2	is_in_sentence	sentence_1190
+1190_2	dobj	1190_1
+1190_2	is_entity	Alice
+Alice	surface_form	Alice
+Alice	has-parent	Right Reverend Robert Eden
+1190_3	is_in_sentence	sentence_1190
+1190_3	punct	1190_2
+1190_3	has_surface_form	,
+1190_4	is_in_sentence	sentence_1190
+1190_4	appos	1190_2
+1190_4	has_surface_form	daughter
+1190_5	is_in_sentence	sentence_1190
+1190_5	prep	1190_4
+1190_5	has_surface_form	of
+1190_6	is_in_sentence	sentence_1190
+1190_6	det	1190_10
+1190_6	has_surface_form	the
+1190_10	is_in_sentence	sentence_1190
+1190_10	pobj	1190_5
+1190_10	has_surface_form	Eden
+1190_10	part_of_entity	Right Reverend Robert Eden
+1190_7	is_in_sentence	sentence_1190
+1190_7	amod	1190_8
+1190_7	has_surface_form	Right
+1190_7	part_of_entity	Right Reverend Robert Eden
+1190_8	is_in_sentence	sentence_1190
+1190_8	compound	1190_10
+1190_8	has_surface_form	Reverend
+1190_8	part_of_entity	Right Reverend Robert Eden
+1190_9	is_in_sentence	sentence_1190
+1190_9	compound	1190_10
+1190_9	has_surface_form	Robert
+1190_9	part_of_entity	Right Reverend Robert Eden
+1190_11	is_in_sentence	sentence_1190
+1190_11	punct	1190_10
+1190_11	has_surface_form	,
+1190_12	is_in_sentence	sentence_1190
+1190_12	appos	1190_10
+1190_12	has_surface_form	Bishop
+1190_13	is_in_sentence	sentence_1190
+1190_13	prep	1190_12
+1190_13	has_surface_form	of
+1190_14	is_in_sentence	sentence_1190
+1190_14	pobj	1190_13
+1190_14	has_surface_form	Moray
+1190_15	is_in_sentence	sentence_1190
+1190_15	punct	1190_14
+1190_15	has_surface_form	,
+1190_16	is_in_sentence	sentence_1190
+1190_16	conj	1190_14
+1190_16	has_surface_form	Ross
+1190_17	is_in_sentence	sentence_1190
+1190_17	cc	1190_16
+1190_17	has_surface_form	and
+1190_18	is_in_sentence	sentence_1190
+1190_18	conj	1190_16
+1190_18	has_surface_form	Caithness
+1190_19	is_in_sentence	sentence_1190
+1190_19	punct	1190_2
+1190_19	has_surface_form	,
+1190_20	is_in_sentence	sentence_1190
+1190_20	prep	1190_1
+1190_20	has_surface_form	in
+1190_21	is_in_sentence	sentence_1190
+1190_21	pobj	1190_20
+1190_21	has_surface_form	1857
+1190_22	is_in_sentence	sentence_1190
+1190_22	punct	1190_1
+1190_22	has_surface_form	.
+1190_23	is_in_sentence	sentence_1190
+1190_23	dep	1190_23
+1190_23	has_surface_form	
+Right Reverend Robert Eden	surface_form	Right Reverend Robert Eden

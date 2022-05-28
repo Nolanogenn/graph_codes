@@ -1,0 +1,119 @@
+2216_0	is_in_sentence	sentence_2216
+2216_0	compound	2216_1
+2216_0	has_surface_form	Suzhou
+2216_0	part_of_entity	Suzhou University of Science and Technology
+2216_1	is_in_sentence	sentence_2216
+2216_1	ROOT	2216_1
+2216_1	has_surface_form	University
+2216_1	part_of_entity	Suzhou University of Science and Technology
+2216_2	is_in_sentence	sentence_2216
+2216_2	prep	2216_1
+2216_2	has_surface_form	of
+2216_2	part_of_entity	Suzhou University of Science and Technology
+2216_3	is_in_sentence	sentence_2216
+2216_3	pobj	2216_2
+2216_3	has_surface_form	Science
+2216_3	part_of_entity	Suzhou University of Science and Technology
+2216_4	is_in_sentence	sentence_2216
+2216_4	cc	2216_3
+2216_4	has_surface_form	and
+2216_4	part_of_entity	Suzhou University of Science and Technology
+2216_5	is_in_sentence	sentence_2216
+2216_5	conj	2216_3
+2216_5	has_surface_form	Technology
+2216_5	part_of_entity	Suzhou University of Science and Technology
+2216_6	is_in_sentence	sentence_2216
+2216_6	punct	2216_7
+2216_6	has_surface_form	(
+2216_7	is_in_sentence	sentence_2216
+2216_7	appos	2216_1
+2216_7	has_surface_form	Chinese
+2216_8	is_in_sentence	sentence_2216
+2216_8	punct	2216_7
+2216_8	has_surface_form	:
+2216_9	is_in_sentence	sentence_2216
+2216_9	appos	2216_7
+2216_9	has_surface_form	苏州科技大学
+2216_10	is_in_sentence	sentence_2216
+2216_10	punct	2216_9
+2216_10	has_surface_form	;
+2216_11	is_in_sentence	sentence_2216
+2216_11	appos	2216_1
+2216_11	has_surface_form	pinyin
+2216_12	is_in_sentence	sentence_2216
+2216_12	punct	2216_11
+2216_12	has_surface_form	:
+2216_13	is_in_sentence	sentence_2216
+2216_13	compound	2216_15
+2216_13	has_surface_form	Sūzhōu
+2216_15	is_in_sentence	sentence_2216
+2216_15	nsubj	2216_17
+2216_15	has_surface_form	Dàxué
+2216_14	is_in_sentence	sentence_2216
+2216_14	compound	2216_15
+2216_14	has_surface_form	Kējì
+2216_17	is_in_sentence	sentence_2216
+2216_17	ROOT	2216_17
+2216_17	has_surface_form	is
+2216_16	is_in_sentence	sentence_2216
+2216_16	punct	2216_15
+2216_16	has_surface_form	)
+2216_18	is_in_sentence	sentence_2216
+2216_18	det	2216_20
+2216_18	has_surface_form	a
+2216_20	is_in_sentence	sentence_2216
+2216_20	attr	2216_17
+2216_20	has_surface_form	university
+2216_20	part_of_entity	public university
+2216_19	is_in_sentence	sentence_2216
+2216_19	amod	2216_20
+2216_19	has_surface_form	public
+2216_19	part_of_entity	public university
+2216_21	is_in_sentence	sentence_2216
+2216_21	acl	2216_20
+2216_21	has_surface_form	located
+2216_22	is_in_sentence	sentence_2216
+2216_22	prep	2216_21
+2216_22	has_surface_form	in
+2216_23	is_in_sentence	sentence_2216
+2216_23	det	2216_29
+2216_23	has_surface_form	the
+2216_29	is_in_sentence	sentence_2216
+2216_29	pobj	2216_22
+2216_29	has_surface_form	Zone
+2216_24	is_in_sentence	sentence_2216
+2216_24	nmod	2216_25
+2216_24	has_surface_form	Suzhou
+2216_25	is_in_sentence	sentence_2216
+2216_25	nmod	2216_29
+2216_25	has_surface_form	High
+2216_26	is_in_sentence	sentence_2216
+2216_26	cc	2216_25
+2216_26	has_surface_form	&
+2216_27	is_in_sentence	sentence_2216
+2216_27	conj	2216_25
+2216_27	has_surface_form	Technology
+2216_28	is_in_sentence	sentence_2216
+2216_28	compound	2216_29
+2216_28	has_surface_form	Development
+2216_30	is_in_sentence	sentence_2216
+2216_30	punct	2216_29
+2216_30	has_surface_form	,
+2216_31	is_in_sentence	sentence_2216
+2216_31	conj	2216_29
+2216_31	has_surface_form	Jiangsu
+2216_32	is_in_sentence	sentence_2216
+2216_32	punct	2216_31
+2216_32	has_surface_form	,
+2216_33	is_in_sentence	sentence_2216
+2216_33	appos	2216_31
+2216_33	has_surface_form	China
+2216_34	is_in_sentence	sentence_2216
+2216_34	punct	2216_17
+2216_34	has_surface_form	.
+2216_35	is_in_sentence	sentence_2216
+2216_35	dep	2216_17
+2216_35	has_surface_form	
+Suzhou University of Science and Technology	surface_form	Suzhou University of Science and Technology
+Suzhou University of Science and Technology	has-type	public university
+public university	surface_form	public university

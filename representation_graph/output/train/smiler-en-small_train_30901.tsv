@@ -1,0 +1,55 @@
+30900_0	is_in_sentence	sentence_30900
+30900_0	compound	30900_1
+30900_0	has_surface_form	Mickey
+30900_0	part_of_entity	Mickey Andrews
+30900_1	is_in_sentence	sentence_30900
+30900_1	nsubj	30900_9
+30900_1	has_surface_form	Andrews
+30900_1	part_of_entity	Mickey Andrews
+30900_9	is_in_sentence	sentence_30900
+30900_9	ROOT	30900_9
+30900_9	has_surface_form	is
+30900_2	is_in_sentence	sentence_30900
+30900_2	punct	30900_1
+30900_2	has_surface_form	(
+30900_3	is_in_sentence	sentence_30900
+30900_3	acl	30900_1
+30900_3	has_surface_form	born
+30900_4	is_in_sentence	sentence_30900
+30900_4	npadvmod	30900_3
+30900_4	has_surface_form	May
+30900_5	is_in_sentence	sentence_30900
+30900_5	nummod	30900_4
+30900_5	has_surface_form	20
+30900_6	is_in_sentence	sentence_30900
+30900_6	punct	30900_4
+30900_6	has_surface_form	,
+30900_7	is_in_sentence	sentence_30900
+30900_7	nummod	30900_4
+30900_7	has_surface_form	1942
+30900_8	is_in_sentence	sentence_30900
+30900_8	punct	30900_1
+30900_8	has_surface_form	)
+30900_10	is_in_sentence	sentence_30900
+30900_10	det	30900_13
+30900_10	has_surface_form	an
+30900_13	is_in_sentence	sentence_30900
+30900_13	attr	30900_9
+30900_13	has_surface_form	coach
+30900_13	part_of_entity	football coach
+30900_11	is_in_sentence	sentence_30900
+30900_11	amod	30900_13
+30900_11	has_surface_form	American
+30900_12	is_in_sentence	sentence_30900
+30900_12	compound	30900_13
+30900_12	has_surface_form	football
+30900_12	part_of_entity	football coach
+30900_14	is_in_sentence	sentence_30900
+30900_14	punct	30900_9
+30900_14	has_surface_form	.
+30900_15	is_in_sentence	sentence_30900
+30900_15	dep	30900_15
+30900_15	has_surface_form	
+Mickey Andrews	surface_form	Mickey Andrews
+Mickey Andrews	has-type	football coach
+football coach	surface_form	football coach

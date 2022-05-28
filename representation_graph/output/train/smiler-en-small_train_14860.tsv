@@ -1,0 +1,81 @@
+14859_0	is_in_sentence	sentence_14859
+14859_0	det	14859_1
+14859_0	has_surface_form	A
+14859_0	part_of_entity	A Kind of Murder
+14859_1	is_in_sentence	sentence_14859
+14859_1	nsubj	14859_4
+14859_1	has_surface_form	Kind
+14859_1	part_of_entity	A Kind of Murder
+14859_4	is_in_sentence	sentence_14859
+14859_4	ROOT	14859_4
+14859_4	has_surface_form	is
+14859_2	is_in_sentence	sentence_14859
+14859_2	prep	14859_1
+14859_2	has_surface_form	of
+14859_2	part_of_entity	A Kind of Murder
+14859_3	is_in_sentence	sentence_14859
+14859_3	pobj	14859_2
+14859_3	has_surface_form	Murder
+14859_3	part_of_entity	A Kind of Murder
+14859_5	is_in_sentence	sentence_14859
+14859_5	det	14859_10
+14859_5	has_surface_form	a
+14859_10	is_in_sentence	sentence_14859
+14859_10	attr	14859_4
+14859_10	has_surface_form	film
+14859_6	is_in_sentence	sentence_14859
+14859_6	nummod	14859_10
+14859_6	has_surface_form	2016
+14859_7	is_in_sentence	sentence_14859
+14859_7	amod	14859_10
+14859_7	has_surface_form	American
+14859_8	is_in_sentence	sentence_14859
+14859_8	compound	14859_9
+14859_8	has_surface_form	mystery
+14859_9	is_in_sentence	sentence_14859
+14859_9	compound	14859_10
+14859_9	has_surface_form	thriller
+14859_11	is_in_sentence	sentence_14859
+14859_11	punct	14859_10
+14859_11	has_surface_form	,
+14859_12	is_in_sentence	sentence_14859
+14859_12	acl	14859_10
+14859_12	has_surface_form	directed
+14859_13	is_in_sentence	sentence_14859
+14859_13	agent	14859_12
+14859_13	has_surface_form	by
+14859_14	is_in_sentence	sentence_14859
+14859_14	compound	14859_15
+14859_14	has_surface_form	Andy
+14859_14	part_of_entity	Andy Goddard
+14859_15	is_in_sentence	sentence_14859
+14859_15	pobj	14859_13
+14859_15	has_surface_form	Goddard
+14859_15	part_of_entity	Andy Goddard
+14859_16	is_in_sentence	sentence_14859
+14859_16	prep	14859_12
+14859_16	has_surface_form	from
+14859_17	is_in_sentence	sentence_14859
+14859_17	det	14859_18
+14859_17	has_surface_form	a
+14859_18	is_in_sentence	sentence_14859
+14859_18	pobj	14859_16
+14859_18	has_surface_form	screenplay
+14859_19	is_in_sentence	sentence_14859
+14859_19	prep	14859_18
+14859_19	has_surface_form	by
+14859_20	is_in_sentence	sentence_14859
+14859_20	compound	14859_21
+14859_20	has_surface_form	Susan
+14859_21	is_in_sentence	sentence_14859
+14859_21	pobj	14859_19
+14859_21	has_surface_form	Boyd
+14859_22	is_in_sentence	sentence_14859
+14859_22	punct	14859_4
+14859_22	has_surface_form	.
+14859_23	is_in_sentence	sentence_14859
+14859_23	dep	14859_4
+14859_23	has_surface_form	
+A Kind of Murder	surface_form	A Kind of Murder
+A Kind of Murder	movie-has-director	Andy Goddard
+Andy Goddard	surface_form	Andy Goddard

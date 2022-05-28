@@ -1,0 +1,67 @@
+8740_0	is_in_sentence	sentence_8740
+8740_0	compound	8740_1
+8740_0	has_surface_form	Rosedale
+8740_0	part_of_entity	Rosedale Union School District
+8740_1	is_in_sentence	sentence_8740
+8740_1	compound	8740_3
+8740_1	has_surface_form	Union
+8740_1	part_of_entity	Rosedale Union School District
+8740_3	is_in_sentence	sentence_8740
+8740_3	nsubj	8740_4
+8740_3	has_surface_form	District
+8740_3	part_of_entity	Rosedale Union School District
+8740_2	is_in_sentence	sentence_8740
+8740_2	compound	8740_3
+8740_2	has_surface_form	School
+8740_2	part_of_entity	Rosedale Union School District
+8740_4	is_in_sentence	sentence_8740
+8740_4	ROOT	8740_4
+8740_4	has_surface_form	is
+8740_5	is_in_sentence	sentence_8740
+8740_5	det	8740_12
+8740_5	has_surface_form	a
+8740_12	is_in_sentence	sentence_8740
+8740_12	attr	8740_4
+8740_12	has_surface_form	district
+8740_12	part_of_entity	public school district
+8740_6	is_in_sentence	sentence_8740
+8740_6	compound	8740_8
+8740_6	has_surface_form	Kindergarten
+8740_8	is_in_sentence	sentence_8740
+8740_8	amod	8740_9
+8740_8	has_surface_form	8th
+8740_7	is_in_sentence	sentence_8740
+8740_7	punct	8740_8
+8740_7	has_surface_form	-
+8740_9	is_in_sentence	sentence_8740
+8740_9	nmod	8740_12
+8740_9	has_surface_form	grade
+8740_10	is_in_sentence	sentence_8740
+8740_10	amod	8740_11
+8740_10	has_surface_form	public
+8740_10	part_of_entity	public school district
+8740_11	is_in_sentence	sentence_8740
+8740_11	compound	8740_12
+8740_11	has_surface_form	school
+8740_11	part_of_entity	public school district
+8740_13	is_in_sentence	sentence_8740
+8740_13	prep	8740_12
+8740_13	has_surface_form	in
+8740_14	is_in_sentence	sentence_8740
+8740_14	pobj	8740_13
+8740_14	has_surface_form	Bakersfield
+8740_15	is_in_sentence	sentence_8740
+8740_15	punct	8740_14
+8740_15	has_surface_form	,
+8740_16	is_in_sentence	sentence_8740
+8740_16	appos	8740_14
+8740_16	has_surface_form	California
+8740_17	is_in_sentence	sentence_8740
+8740_17	punct	8740_4
+8740_17	has_surface_form	.
+8740_18	is_in_sentence	sentence_8740
+8740_18	dep	8740_18
+8740_18	has_surface_form	
+Rosedale Union School District	surface_form	Rosedale Union School District
+Rosedale Union School District	has-type	public school district
+public school district	surface_form	public school district

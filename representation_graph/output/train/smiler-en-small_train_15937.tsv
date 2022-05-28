@@ -1,0 +1,115 @@
+15936_0	is_in_sentence	sentence_15936
+15936_0	det	15936_1
+15936_0	has_surface_form	The
+15936_0	part_of_entity	The Tango on Broadway
+15936_1	is_in_sentence	sentence_15936
+15936_1	nsubj	15936_12
+15936_1	has_surface_form	Tango
+15936_1	part_of_entity	The Tango on Broadway
+15936_12	is_in_sentence	sentence_15936
+15936_12	ROOT	15936_12
+15936_12	has_surface_form	is
+15936_2	is_in_sentence	sentence_15936
+15936_2	prep	15936_1
+15936_2	has_surface_form	on
+15936_2	part_of_entity	The Tango on Broadway
+15936_3	is_in_sentence	sentence_15936
+15936_3	pobj	15936_2
+15936_3	has_surface_form	Broadway
+15936_3	part_of_entity	The Tango on Broadway
+15936_4	is_in_sentence	sentence_15936
+15936_4	punct	15936_5
+15936_4	has_surface_form	(
+15936_5	is_in_sentence	sentence_15936
+15936_5	appos	15936_1
+15936_5	has_surface_form	Spanish
+15936_6	is_in_sentence	sentence_15936
+15936_6	punct	15936_5
+15936_6	has_surface_form	:
+15936_7	is_in_sentence	sentence_15936
+15936_7	compound	15936_8
+15936_7	has_surface_form	El
+15936_8	is_in_sentence	sentence_15936
+15936_8	appos	15936_5
+15936_8	has_surface_form	tango
+15936_9	is_in_sentence	sentence_15936
+15936_9	prep	15936_8
+15936_9	has_surface_form	en
+15936_10	is_in_sentence	sentence_15936
+15936_10	pobj	15936_9
+15936_10	has_surface_form	Broadway
+15936_11	is_in_sentence	sentence_15936
+15936_11	punct	15936_5
+15936_11	has_surface_form	)
+15936_13	is_in_sentence	sentence_15936
+15936_13	det	15936_17
+15936_13	has_surface_form	a
+15936_17	is_in_sentence	sentence_15936
+15936_17	attr	15936_12
+15936_17	has_surface_form	film
+15936_14	is_in_sentence	sentence_15936
+15936_14	nummod	15936_17
+15936_14	has_surface_form	1934
+15936_15	is_in_sentence	sentence_15936
+15936_15	amod	15936_17
+15936_15	has_surface_form	American
+15936_16	is_in_sentence	sentence_15936
+15936_16	amod	15936_17
+15936_16	has_surface_form	musical
+15936_18	is_in_sentence	sentence_15936
+15936_18	acl	15936_17
+15936_18	has_surface_form	directed
+15936_19	is_in_sentence	sentence_15936
+15936_19	agent	15936_18
+15936_19	has_surface_form	by
+15936_20	is_in_sentence	sentence_15936
+15936_20	compound	15936_22
+15936_20	has_surface_form	Louis
+15936_20	part_of_entity	Louis J. Gasnier
+15936_22	is_in_sentence	sentence_15936
+15936_22	pobj	15936_19
+15936_22	has_surface_form	Gasnier
+15936_22	part_of_entity	Louis J. Gasnier
+15936_21	is_in_sentence	sentence_15936
+15936_21	compound	15936_22
+15936_21	has_surface_form	J.
+15936_21	part_of_entity	Louis J. Gasnier
+15936_23	is_in_sentence	sentence_15936
+15936_23	cc	15936_18
+15936_23	has_surface_form	and
+15936_24	is_in_sentence	sentence_15936
+15936_24	conj	15936_18
+15936_24	has_surface_form	starring
+15936_25	is_in_sentence	sentence_15936
+15936_25	compound	15936_26
+15936_25	has_surface_form	Carlos
+15936_26	is_in_sentence	sentence_15936
+15936_26	dobj	15936_24
+15936_26	has_surface_form	Gardel
+15936_27	is_in_sentence	sentence_15936
+15936_27	punct	15936_26
+15936_27	has_surface_form	,
+15936_28	is_in_sentence	sentence_15936
+15936_28	compound	15936_29
+15936_28	has_surface_form	Trini
+15936_29	is_in_sentence	sentence_15936
+15936_29	conj	15936_26
+15936_29	has_surface_form	Ramos
+15936_30	is_in_sentence	sentence_15936
+15936_30	cc	15936_29
+15936_30	has_surface_form	and
+15936_31	is_in_sentence	sentence_15936
+15936_31	compound	15936_32
+15936_31	has_surface_form	Blanca
+15936_32	is_in_sentence	sentence_15936
+15936_32	conj	15936_29
+15936_32	has_surface_form	Vischer
+15936_33	is_in_sentence	sentence_15936
+15936_33	punct	15936_12
+15936_33	has_surface_form	.
+15936_34	is_in_sentence	sentence_15936
+15936_34	dep	15936_34
+15936_34	has_surface_form	
+The Tango on Broadway	surface_form	The Tango on Broadway
+The Tango on Broadway	movie-has-director	Louis J. Gasnier
+Louis J. Gasnier	surface_form	Louis J. Gasnier

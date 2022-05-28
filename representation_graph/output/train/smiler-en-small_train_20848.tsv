@@ -1,0 +1,84 @@
+20847_0	is_in_sentence	sentence_20847
+20847_0	det	20847_1
+20847_0	has_surface_form	A
+20847_0	part_of_entity	A Girl Called Jules
+20847_1	is_in_sentence	sentence_20847
+20847_1	nmod	20847_3
+20847_1	has_surface_form	Girl
+20847_1	part_of_entity	A Girl Called Jules
+20847_3	is_in_sentence	sentence_20847
+20847_3	ROOT	20847_3
+20847_3	has_surface_form	Jules
+20847_3	part_of_entity	A Girl Called Jules
+20847_2	is_in_sentence	sentence_20847
+20847_2	acl	20847_1
+20847_2	has_surface_form	Called
+20847_2	part_of_entity	A Girl Called Jules
+20847_4	is_in_sentence	sentence_20847
+20847_4	punct	20847_13
+20847_4	has_surface_form	(
+20847_13	is_in_sentence	sentence_20847
+20847_13	parataxis	20847_3
+20847_13	has_surface_form	is
+20847_5	is_in_sentence	sentence_20847
+20847_5	nsubj	20847_13
+20847_5	has_surface_form	Italian
+20847_6	is_in_sentence	sentence_20847
+20847_6	punct	20847_5
+20847_6	has_surface_form	:
+20847_7	is_in_sentence	sentence_20847
+20847_7	compound	20847_11
+20847_7	has_surface_form	La
+20847_11	is_in_sentence	sentence_20847
+20847_11	appos	20847_5
+20847_11	has_surface_form	Giulio
+20847_8	is_in_sentence	sentence_20847
+20847_8	compound	20847_11
+20847_8	has_surface_form	ragazza
+20847_9	is_in_sentence	sentence_20847
+20847_9	compound	20847_10
+20847_9	has_surface_form	di
+20847_10	is_in_sentence	sentence_20847
+20847_10	compound	20847_11
+20847_10	has_surface_form	nome
+20847_12	is_in_sentence	sentence_20847
+20847_12	punct	20847_5
+20847_12	has_surface_form	)
+20847_14	is_in_sentence	sentence_20847
+20847_14	det	20847_18
+20847_14	has_surface_form	a
+20847_18	is_in_sentence	sentence_20847
+20847_18	attr	20847_13
+20847_18	has_surface_form	film
+20847_15	is_in_sentence	sentence_20847
+20847_15	nummod	20847_18
+20847_15	has_surface_form	1970
+20847_16	is_in_sentence	sentence_20847
+20847_16	amod	20847_18
+20847_16	has_surface_form	Italian
+20847_17	is_in_sentence	sentence_20847
+20847_17	compound	20847_18
+20847_17	has_surface_form	drama
+20847_19	is_in_sentence	sentence_20847
+20847_19	acl	20847_18
+20847_19	has_surface_form	directed
+20847_20	is_in_sentence	sentence_20847
+20847_20	agent	20847_19
+20847_20	has_surface_form	by
+20847_21	is_in_sentence	sentence_20847
+20847_21	compound	20847_22
+20847_21	has_surface_form	Tonino
+20847_21	part_of_entity	Tonino Valerii
+20847_22	is_in_sentence	sentence_20847
+20847_22	pobj	20847_20
+20847_22	has_surface_form	Valerii
+20847_22	part_of_entity	Tonino Valerii
+20847_23	is_in_sentence	sentence_20847
+20847_23	punct	20847_13
+20847_23	has_surface_form	.
+20847_24	is_in_sentence	sentence_20847
+20847_24	dep	20847_24
+20847_24	has_surface_form	
+A Girl Called Jules	surface_form	A Girl Called Jules
+A Girl Called Jules	movie-has-director	Tonino Valerii
+Tonino Valerii	surface_form	Tonino Valerii

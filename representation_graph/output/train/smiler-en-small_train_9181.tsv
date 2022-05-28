@@ -1,0 +1,82 @@
+9180_0	is_in_sentence	sentence_9180
+9180_0	compound	9180_1
+9180_0	has_surface_form	Mord
+9180_0	part_of_entity	Mord Em'ly
+9180_1	is_in_sentence	sentence_9180
+9180_1	nsubj	9180_2
+9180_1	has_surface_form	Em'ly
+9180_1	part_of_entity	Mord Em'ly
+9180_2	is_in_sentence	sentence_9180
+9180_2	ROOT	9180_2
+9180_2	has_surface_form	is
+9180_3	is_in_sentence	sentence_9180
+9180_3	det	9180_8
+9180_3	has_surface_form	a
+9180_8	is_in_sentence	sentence_9180
+9180_8	attr	9180_2
+9180_8	has_surface_form	film
+9180_4	is_in_sentence	sentence_9180
+9180_4	nummod	9180_8
+9180_4	has_surface_form	1922
+9180_5	is_in_sentence	sentence_9180
+9180_5	amod	9180_8
+9180_5	has_surface_form	British
+9180_6	is_in_sentence	sentence_9180
+9180_6	amod	9180_8
+9180_6	has_surface_form	silent
+9180_7	is_in_sentence	sentence_9180
+9180_7	compound	9180_8
+9180_7	has_surface_form	drama
+9180_9	is_in_sentence	sentence_9180
+9180_9	acl	9180_8
+9180_9	has_surface_form	directed
+9180_10	is_in_sentence	sentence_9180
+9180_10	agent	9180_9
+9180_10	has_surface_form	by
+9180_11	is_in_sentence	sentence_9180
+9180_11	compound	9180_12
+9180_11	has_surface_form	George
+9180_11	part_of_entity	George Pearson
+9180_12	is_in_sentence	sentence_9180
+9180_12	pobj	9180_10
+9180_12	has_surface_form	Pearson
+9180_12	part_of_entity	George Pearson
+9180_13	is_in_sentence	sentence_9180
+9180_13	cc	9180_9
+9180_13	has_surface_form	and
+9180_14	is_in_sentence	sentence_9180
+9180_14	conj	9180_9
+9180_14	has_surface_form	starring
+9180_15	is_in_sentence	sentence_9180
+9180_15	compound	9180_16
+9180_15	has_surface_form	Betty
+9180_16	is_in_sentence	sentence_9180
+9180_16	dobj	9180_14
+9180_16	has_surface_form	Balfour
+9180_17	is_in_sentence	sentence_9180
+9180_17	punct	9180_16
+9180_17	has_surface_form	,
+9180_18	is_in_sentence	sentence_9180
+9180_18	compound	9180_19
+9180_18	has_surface_form	Rex
+9180_19	is_in_sentence	sentence_9180
+9180_19	appos	9180_16
+9180_19	has_surface_form	Davis
+9180_20	is_in_sentence	sentence_9180
+9180_20	cc	9180_19
+9180_20	has_surface_form	and
+9180_21	is_in_sentence	sentence_9180
+9180_21	compound	9180_22
+9180_21	has_surface_form	Elsie
+9180_22	is_in_sentence	sentence_9180
+9180_22	conj	9180_19
+9180_22	has_surface_form	Craven
+9180_23	is_in_sentence	sentence_9180
+9180_23	punct	9180_2
+9180_23	has_surface_form	.
+9180_24	is_in_sentence	sentence_9180
+9180_24	dep	9180_24
+9180_24	has_surface_form	
+Mord Em'ly	surface_form	Mord Em'ly
+Mord Em'ly	movie-has-director	George Pearson
+George Pearson	surface_form	George Pearson

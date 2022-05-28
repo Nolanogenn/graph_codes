@@ -1,0 +1,44 @@
+4826_0	is_in_sentence	sentence_4826
+4826_0	compound	4826_1
+4826_0	has_surface_form	Nancy
+4826_0	part_of_entity	Nancy O'Meara
+4826_1	is_in_sentence	sentence_4826
+4826_1	nsubj	4826_2
+4826_1	has_surface_form	O'Meara
+4826_1	part_of_entity	Nancy O'Meara
+4826_2	is_in_sentence	sentence_4826
+4826_2	ROOT	4826_2
+4826_2	has_surface_form	is
+4826_3	is_in_sentence	sentence_4826
+4826_3	det	4826_5
+4826_3	has_surface_form	an
+4826_5	is_in_sentence	sentence_4826
+4826_5	attr	4826_2
+4826_5	is_entity	dancer
+4826_4	is_in_sentence	sentence_4826
+4826_4	amod	4826_5
+4826_4	has_surface_form	American
+dancer	surface_form	dancer
+4826_6	is_in_sentence	sentence_4826
+4826_6	punct	4826_5
+4826_6	has_surface_form	,
+4826_7	is_in_sentence	sentence_4826
+4826_7	conj	4826_5
+4826_7	has_surface_form	choreographer
+4826_8	is_in_sentence	sentence_4826
+4826_8	cc	4826_7
+4826_8	has_surface_form	and
+4826_9	is_in_sentence	sentence_4826
+4826_9	amod	4826_10
+4826_9	has_surface_form	occasional
+4826_10	is_in_sentence	sentence_4826
+4826_10	conj	4826_7
+4826_10	has_surface_form	actress
+4826_11	is_in_sentence	sentence_4826
+4826_11	punct	4826_2
+4826_11	has_surface_form	.
+4826_12	is_in_sentence	sentence_4826
+4826_12	dep	4826_12
+4826_12	has_surface_form	
+Nancy O'Meara	surface_form	Nancy O'Meara
+Nancy O'Meara	has-occupation	dancer

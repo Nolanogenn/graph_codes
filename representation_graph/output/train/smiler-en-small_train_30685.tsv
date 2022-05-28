@@ -1,0 +1,76 @@
+30684_0	is_in_sentence	sentence_30684
+30684_0	compound	30684_1
+30684_0	has_surface_form	Kurt
+30684_0	part_of_entity	Kurt Zellers
+30684_1	is_in_sentence	sentence_30684
+30684_1	nsubj	30684_15
+30684_1	has_surface_form	Zellers
+30684_1	part_of_entity	Kurt Zellers
+30684_15	is_in_sentence	sentence_30684
+30684_15	ROOT	30684_15
+30684_15	has_surface_form	is
+30684_2	is_in_sentence	sentence_30684
+30684_2	punct	30684_1
+30684_2	has_surface_form	(
+30684_3	is_in_sentence	sentence_30684
+30684_3	acl	30684_1
+30684_3	has_surface_form	born
+30684_4	is_in_sentence	sentence_30684
+30684_4	npadvmod	30684_3
+30684_4	has_surface_form	October
+30684_5	is_in_sentence	sentence_30684
+30684_5	nummod	30684_4
+30684_5	has_surface_form	16
+30684_6	is_in_sentence	sentence_30684
+30684_6	punct	30684_4
+30684_6	has_surface_form	,
+30684_7	is_in_sentence	sentence_30684
+30684_7	nummod	30684_4
+30684_7	has_surface_form	1969
+30684_8	is_in_sentence	sentence_30684
+30684_8	prep	30684_3
+30684_8	has_surface_form	in
+30684_9	is_in_sentence	sentence_30684
+30684_9	compound	30684_10
+30684_9	has_surface_form	Grand
+30684_9	part_of_entity	Grand Forks
+30684_10	is_in_sentence	sentence_30684
+30684_10	pobj	30684_8
+30684_10	has_surface_form	Forks
+30684_10	part_of_entity	Grand Forks
+30684_11	is_in_sentence	sentence_30684
+30684_11	punct	30684_10
+30684_11	has_surface_form	,
+30684_12	is_in_sentence	sentence_30684
+30684_12	compound	30684_13
+30684_12	has_surface_form	North
+30684_13	is_in_sentence	sentence_30684
+30684_13	appos	30684_10
+30684_13	has_surface_form	Dakota
+30684_14	is_in_sentence	sentence_30684
+30684_14	punct	30684_10
+30684_14	has_surface_form	)
+30684_16	is_in_sentence	sentence_30684
+30684_16	det	30684_18
+30684_16	has_surface_form	an
+30684_18	is_in_sentence	sentence_30684
+30684_18	attr	30684_15
+30684_18	has_surface_form	politician
+30684_17	is_in_sentence	sentence_30684
+30684_17	amod	30684_18
+30684_17	has_surface_form	American
+30684_19	is_in_sentence	sentence_30684
+30684_19	prep	30684_18
+30684_19	has_surface_form	from
+30684_20	is_in_sentence	sentence_30684
+30684_20	pobj	30684_19
+30684_20	has_surface_form	Minnesota
+30684_21	is_in_sentence	sentence_30684
+30684_21	punct	30684_15
+30684_21	has_surface_form	.
+30684_22	is_in_sentence	sentence_30684
+30684_22	dep	30684_15
+30684_22	has_surface_form	
+Kurt Zellers	surface_form	Kurt Zellers
+Kurt Zellers	birth-place	Grand Forks
+Grand Forks	surface_form	Grand Forks

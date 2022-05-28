@@ -1,0 +1,43 @@
+33334_0	is_in_sentence	sentence_33334
+33334_0	compound	33334_1
+33334_0	has_surface_form	Gyan
+33334_0	part_of_entity	Gyan Kendra Secondary School
+33334_1	is_in_sentence	sentence_33334
+33334_1	compound	33334_3
+33334_1	has_surface_form	Kendra
+33334_1	part_of_entity	Gyan Kendra Secondary School
+33334_3	is_in_sentence	sentence_33334
+33334_3	nsubjpass	33334_5
+33334_3	has_surface_form	School
+33334_3	part_of_entity	Gyan Kendra Secondary School
+33334_2	is_in_sentence	sentence_33334
+33334_2	compound	33334_3
+33334_2	has_surface_form	Secondary
+33334_2	part_of_entity	Gyan Kendra Secondary School
+33334_5	is_in_sentence	sentence_33334
+33334_5	ROOT	33334_5
+33334_5	has_surface_form	located
+33334_4	is_in_sentence	sentence_33334
+33334_4	auxpass	33334_5
+33334_4	has_surface_form	is
+33334_6	is_in_sentence	sentence_33334
+33334_6	prep	33334_5
+33334_6	has_surface_form	in
+33334_7	is_in_sentence	sentence_33334
+33334_7	pobj	33334_6
+33334_7	is_entity	Mumbai
+Mumbai	surface_form	Mumbai
+33334_8	is_in_sentence	sentence_33334
+33334_8	punct	33334_7
+33334_8	has_surface_form	,
+33334_9	is_in_sentence	sentence_33334
+33334_9	appos	33334_7
+33334_9	has_surface_form	India
+33334_10	is_in_sentence	sentence_33334
+33334_10	punct	33334_5
+33334_10	has_surface_form	.
+33334_11	is_in_sentence	sentence_33334
+33334_11	dep	33334_11
+33334_11	has_surface_form	
+Gyan Kendra Secondary School	surface_form	Gyan Kendra Secondary School
+Gyan Kendra Secondary School	is-where	Mumbai

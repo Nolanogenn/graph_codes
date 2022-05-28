@@ -1,0 +1,67 @@
+11277_0	is_in_sentence	sentence_11277
+11277_0	compound	11277_1
+11277_0	has_surface_form	Pizza
+11277_0	part_of_entity	Pizza Man
+11277_1	is_in_sentence	sentence_11277
+11277_1	nsubj	11277_2
+11277_1	has_surface_form	Man
+11277_1	part_of_entity	Pizza Man
+11277_2	is_in_sentence	sentence_11277
+11277_2	ROOT	11277_2
+11277_2	has_surface_form	is
+11277_3	is_in_sentence	sentence_11277
+11277_3	det	11277_6
+11277_3	has_surface_form	a
+11277_6	is_in_sentence	sentence_11277
+11277_6	attr	11277_2
+11277_6	has_surface_form	film
+11277_4	is_in_sentence	sentence_11277
+11277_4	nummod	11277_6
+11277_4	has_surface_form	1991
+11277_5	is_in_sentence	sentence_11277
+11277_5	compound	11277_6
+11277_5	has_surface_form	comedy
+11277_7	is_in_sentence	sentence_11277
+11277_7	acl	11277_6
+11277_7	has_surface_form	starring
+11277_8	is_in_sentence	sentence_11277
+11277_8	compound	11277_9
+11277_8	has_surface_form	Bill
+11277_8	part_of_entity	Bill Maher
+11277_9	is_in_sentence	sentence_11277
+11277_9	dobj	11277_7
+11277_9	has_surface_form	Maher
+11277_9	part_of_entity	Bill Maher
+11277_10	is_in_sentence	sentence_11277
+11277_10	cc	11277_9
+11277_10	has_surface_form	and
+11277_11	is_in_sentence	sentence_11277
+11277_11	compound	11277_12
+11277_11	has_surface_form	Annabelle
+11277_12	is_in_sentence	sentence_11277
+11277_12	conj	11277_9
+11277_12	has_surface_form	Gurwitch
+11277_13	is_in_sentence	sentence_11277
+11277_13	punct	11277_6
+11277_13	has_surface_form	;
+11277_14	is_in_sentence	sentence_11277
+11277_14	acl	11277_6
+11277_14	has_surface_form	written
+11277_15	is_in_sentence	sentence_11277
+11277_15	cc	11277_14
+11277_15	has_surface_form	and
+11277_16	is_in_sentence	sentence_11277
+11277_16	conj	11277_14
+11277_16	has_surface_form	directed
+11277_17	is_in_sentence	sentence_11277
+11277_17	agent	11277_16
+11277_17	has_surface_form	by
+11277_18	is_in_sentence	sentence_11277
+11277_18	compound	11277_19
+11277_18	has_surface_form	J.
+11277_19	is_in_sentence	sentence_11277
+11277_19	dep	11277_17
+11277_19	has_surface_form	
+Pizza Man	surface_form	Pizza Man
+Pizza Man	starring	Bill Maher
+Bill Maher	surface_form	Bill Maher

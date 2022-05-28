@@ -1,0 +1,60 @@
+8838_0	is_in_sentence	sentence_8838
+8838_0	compound	8838_2
+8838_0	has_surface_form	David
+8838_0	part_of_entity	David A. Carter
+8838_2	is_in_sentence	sentence_8838
+8838_2	nsubj	8838_10
+8838_2	has_surface_form	Carter
+8838_2	part_of_entity	David A. Carter
+8838_1	is_in_sentence	sentence_8838
+8838_1	compound	8838_2
+8838_1	has_surface_form	A.
+8838_1	part_of_entity	David A. Carter
+8838_10	is_in_sentence	sentence_8838
+8838_10	ROOT	8838_10
+8838_10	has_surface_form	is
+8838_3	is_in_sentence	sentence_8838
+8838_3	punct	8838_2
+8838_3	has_surface_form	(
+8838_4	is_in_sentence	sentence_8838
+8838_4	acl	8838_2
+8838_4	has_surface_form	born
+8838_5	is_in_sentence	sentence_8838
+8838_5	npadvmod	8838_4
+8838_5	has_surface_form	March
+8838_6	is_in_sentence	sentence_8838
+8838_6	nummod	8838_5
+8838_6	has_surface_form	4
+8838_7	is_in_sentence	sentence_8838
+8838_7	punct	8838_5
+8838_7	has_surface_form	,
+8838_8	is_in_sentence	sentence_8838
+8838_8	nummod	8838_5
+8838_8	has_surface_form	1957
+8838_9	is_in_sentence	sentence_8838
+8838_9	punct	8838_2
+8838_9	has_surface_form	)
+8838_11	is_in_sentence	sentence_8838
+8838_11	det	8838_13
+8838_11	has_surface_form	an
+8838_13	is_in_sentence	sentence_8838
+8838_13	attr	8838_10
+8838_13	is_entity	author
+8838_12	is_in_sentence	sentence_8838
+8838_12	amod	8838_13
+8838_12	has_surface_form	American
+author	surface_form	author
+8838_14	is_in_sentence	sentence_8838
+8838_14	cc	8838_13
+8838_14	has_surface_form	and
+8838_15	is_in_sentence	sentence_8838
+8838_15	conj	8838_13
+8838_15	has_surface_form	illustrator
+8838_16	is_in_sentence	sentence_8838
+8838_16	punct	8838_10
+8838_16	has_surface_form	.
+8838_17	is_in_sentence	sentence_8838
+8838_17	dep	8838_17
+8838_17	has_surface_form	
+David A. Carter	surface_form	David A. Carter
+David A. Carter	has-occupation	author

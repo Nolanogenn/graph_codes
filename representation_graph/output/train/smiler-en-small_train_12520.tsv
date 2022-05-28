@@ -1,0 +1,80 @@
+12519_0	is_in_sentence	sentence_12519
+12519_0	nsubj	12519_3
+12519_0	has_surface_form	Adam
+12519_0	part_of_entity	Adam & Steve
+12519_3	is_in_sentence	sentence_12519
+12519_3	ROOT	12519_3
+12519_3	has_surface_form	is
+12519_1	is_in_sentence	sentence_12519
+12519_1	cc	12519_0
+12519_1	has_surface_form	&
+12519_1	part_of_entity	Adam & Steve
+12519_2	is_in_sentence	sentence_12519
+12519_2	conj	12519_0
+12519_2	has_surface_form	Steve
+12519_2	part_of_entity	Adam & Steve
+12519_4	is_in_sentence	sentence_12519
+12519_4	det	12519_9
+12519_4	has_surface_form	a
+12519_9	is_in_sentence	sentence_12519
+12519_9	attr	12519_3
+12519_9	has_surface_form	film
+12519_5	is_in_sentence	sentence_12519
+12519_5	nummod	12519_9
+12519_5	has_surface_form	2005
+12519_6	is_in_sentence	sentence_12519
+12519_6	amod	12519_7
+12519_6	has_surface_form	gay
+12519_7	is_in_sentence	sentence_12519
+12519_7	amod	12519_9
+12519_7	has_surface_form	romantic
+12519_8	is_in_sentence	sentence_12519
+12519_8	compound	12519_9
+12519_8	has_surface_form	comedy
+12519_10	is_in_sentence	sentence_12519
+12519_10	acl	12519_9
+12519_10	has_surface_form	directed
+12519_11	is_in_sentence	sentence_12519
+12519_11	agent	12519_10
+12519_11	has_surface_form	by
+12519_12	is_in_sentence	sentence_12519
+12519_12	cc	12519_10
+12519_12	has_surface_form	and
+12519_13	is_in_sentence	sentence_12519
+12519_13	conj	12519_10
+12519_13	has_surface_form	starring
+12519_14	is_in_sentence	sentence_12519
+12519_14	compound	12519_15
+12519_14	has_surface_form	Craig
+12519_14	part_of_entity	Craig Chester
+12519_15	is_in_sentence	sentence_12519
+12519_15	dobj	12519_13
+12519_15	has_surface_form	Chester
+12519_15	part_of_entity	Craig Chester
+12519_16	is_in_sentence	sentence_12519
+12519_16	punct	12519_15
+12519_16	has_surface_form	,
+12519_17	is_in_sentence	sentence_12519
+12519_17	nsubj	12519_19
+12519_17	has_surface_form	who
+12519_19	is_in_sentence	sentence_12519
+12519_19	relcl	12519_15
+12519_19	has_surface_form	wrote
+12519_18	is_in_sentence	sentence_12519
+12519_18	advmod	12519_19
+12519_18	has_surface_form	also
+12519_20	is_in_sentence	sentence_12519
+12519_20	det	12519_21
+12519_20	has_surface_form	the
+12519_21	is_in_sentence	sentence_12519
+12519_21	dobj	12519_19
+12519_21	has_surface_form	screenplay
+12519_22	is_in_sentence	sentence_12519
+12519_22	punct	12519_3
+12519_22	has_surface_form	.
+12519_23	is_in_sentence	sentence_12519
+12519_23	dep	12519_23
+12519_23	has_surface_form	
+Adam & Steve	surface_form	Adam & Steve
+Adam & Steve	starring	Craig Chester
+Craig Chester	surface_form	Craig Chester

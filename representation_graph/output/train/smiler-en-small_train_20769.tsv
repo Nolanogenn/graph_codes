@@ -1,0 +1,58 @@
+20768_0	is_in_sentence	sentence_20768
+20768_0	compound	20768_1
+20768_0	has_surface_form	Frank
+20768_0	part_of_entity	Frank Tavani
+20768_1	is_in_sentence	sentence_20768
+20768_1	nsubj	20768_9
+20768_1	has_surface_form	Tavani
+20768_1	part_of_entity	Frank Tavani
+20768_9	is_in_sentence	sentence_20768
+20768_9	ROOT	20768_9
+20768_9	has_surface_form	is
+20768_2	is_in_sentence	sentence_20768
+20768_2	punct	20768_1
+20768_2	has_surface_form	(
+20768_3	is_in_sentence	sentence_20768
+20768_3	acl	20768_1
+20768_3	has_surface_form	born
+20768_4	is_in_sentence	sentence_20768
+20768_4	npadvmod	20768_3
+20768_4	has_surface_form	July
+20768_5	is_in_sentence	sentence_20768
+20768_5	nummod	20768_4
+20768_5	has_surface_form	31
+20768_6	is_in_sentence	sentence_20768
+20768_6	punct	20768_4
+20768_6	has_surface_form	,
+20768_7	is_in_sentence	sentence_20768
+20768_7	nummod	20768_4
+20768_7	has_surface_form	1953
+20768_8	is_in_sentence	sentence_20768
+20768_8	punct	20768_1
+20768_8	has_surface_form	)
+20768_10	is_in_sentence	sentence_20768
+20768_10	det	20768_14
+20768_10	has_surface_form	a
+20768_14	is_in_sentence	sentence_20768
+20768_14	attr	20768_9
+20768_14	has_surface_form	coach
+20768_14	part_of_entity	football coach
+20768_11	is_in_sentence	sentence_20768
+20768_11	amod	20768_14
+20768_11	has_surface_form	former
+20768_12	is_in_sentence	sentence_20768
+20768_12	amod	20768_14
+20768_12	has_surface_form	American
+20768_13	is_in_sentence	sentence_20768
+20768_13	compound	20768_14
+20768_13	has_surface_form	football
+20768_13	part_of_entity	football coach
+20768_15	is_in_sentence	sentence_20768
+20768_15	punct	20768_9
+20768_15	has_surface_form	.
+20768_16	is_in_sentence	sentence_20768
+20768_16	dep	20768_16
+20768_16	has_surface_form	
+Frank Tavani	surface_form	Frank Tavani
+Frank Tavani	has-type	football coach
+football coach	surface_form	football coach

@@ -1,0 +1,55 @@
+1961_0	is_in_sentence	sentence_1961
+1961_0	compound	1961_1
+1961_0	has_surface_form	Albert
+1961_0	part_of_entity	Albert Gazal
+1961_1	is_in_sentence	sentence_1961
+1961_1	nsubj	1961_2
+1961_1	has_surface_form	Gazal
+1961_1	part_of_entity	Albert Gazal
+1961_2	is_in_sentence	sentence_1961
+1961_2	ROOT	1961_2
+1961_2	has_surface_form	is
+1961_3	is_in_sentence	sentence_1961
+1961_3	det	1961_6
+1961_3	has_surface_form	a
+1961_6	is_in_sentence	sentence_1961
+1961_6	attr	1961_2
+1961_6	has_surface_form	footballer
+1961_4	is_in_sentence	sentence_1961
+1961_4	amod	1961_6
+1961_4	has_surface_form	retired
+1961_5	is_in_sentence	sentence_1961
+1961_5	amod	1961_6
+1961_5	has_surface_form	Israeli
+1961_7	is_in_sentence	sentence_1961
+1961_7	nsubj	1961_8
+1961_7	has_surface_form	who
+1961_8	is_in_sentence	sentence_1961
+1961_8	relcl	1961_6
+1961_8	has_surface_form	was
+1961_9	is_in_sentence	sentence_1961
+1961_9	det	1961_10
+1961_9	has_surface_form	a
+1961_10	is_in_sentence	sentence_1961
+1961_10	attr	1961_8
+1961_10	has_surface_form	player
+1961_11	is_in_sentence	sentence_1961
+1961_11	prep	1961_10
+1961_11	has_surface_form	in
+1961_12	is_in_sentence	sentence_1961
+1961_12	compound	1961_13
+1961_12	has_surface_form	Maccabi
+1961_12	part_of_entity	Maccabi Netanya
+1961_13	is_in_sentence	sentence_1961
+1961_13	pobj	1961_11
+1961_13	has_surface_form	Netanya
+1961_13	part_of_entity	Maccabi Netanya
+1961_14	is_in_sentence	sentence_1961
+1961_14	punct	1961_2
+1961_14	has_surface_form	.
+1961_15	is_in_sentence	sentence_1961
+1961_15	dep	1961_2
+1961_15	has_surface_form	
+Albert Gazal	surface_form	Albert Gazal
+Albert Gazal	is-member-of	Maccabi Netanya
+Maccabi Netanya	surface_form	Maccabi Netanya

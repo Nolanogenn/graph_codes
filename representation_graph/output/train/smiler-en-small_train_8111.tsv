@@ -1,0 +1,76 @@
+8110_0	is_in_sentence	sentence_8110
+8110_0	compound	8110_1
+8110_0	has_surface_form	Bobby
+8110_0	part_of_entity	Bobby Moffat
+8110_1	is_in_sentence	sentence_8110
+8110_1	nsubj	8110_2
+8110_1	has_surface_form	Moffat
+8110_1	part_of_entity	Bobby Moffat
+8110_2	is_in_sentence	sentence_8110
+8110_2	ROOT	8110_2
+8110_2	has_surface_form	is
+8110_3	is_in_sentence	sentence_8110
+8110_3	det	8110_6
+8110_3	has_surface_form	an
+8110_6	is_in_sentence	sentence_8110
+8110_6	attr	8110_2
+8110_6	has_surface_form	footballer
+8110_4	is_in_sentence	sentence_8110
+8110_4	amod	8110_6
+8110_4	has_surface_form	English
+8110_5	is_in_sentence	sentence_8110
+8110_5	amod	8110_6
+8110_5	has_surface_form	retired
+8110_7	is_in_sentence	sentence_8110
+8110_7	nsubj	8110_8
+8110_7	has_surface_form	who
+8110_8	is_in_sentence	sentence_8110
+8110_8	relcl	8110_6
+8110_8	has_surface_form	played
+8110_9	is_in_sentence	sentence_8110
+8110_9	nummod	8110_10
+8110_9	has_surface_form	eight
+8110_10	is_in_sentence	sentence_8110
+8110_10	dobj	8110_8
+8110_10	has_surface_form	seasons
+8110_11	is_in_sentence	sentence_8110
+8110_11	prep	8110_8
+8110_11	has_surface_form	with
+8110_12	is_in_sentence	sentence_8110
+8110_12	det	8110_14
+8110_12	has_surface_form	the
+8110_14	is_in_sentence	sentence_8110
+8110_14	pobj	8110_11
+8110_14	has_surface_form	Tornado
+8110_14	part_of_entity	Dallas Tornado
+8110_13	is_in_sentence	sentence_8110
+8110_13	compound	8110_14
+8110_13	has_surface_form	Dallas
+8110_13	part_of_entity	Dallas Tornado
+8110_15	is_in_sentence	sentence_8110
+8110_15	prep	8110_14
+8110_15	has_surface_form	of
+8110_16	is_in_sentence	sentence_8110
+8110_16	det	8110_20
+8110_16	has_surface_form	the
+8110_20	is_in_sentence	sentence_8110
+8110_20	pobj	8110_15
+8110_20	has_surface_form	League
+8110_17	is_in_sentence	sentence_8110
+8110_17	compound	8110_18
+8110_17	has_surface_form	North
+8110_18	is_in_sentence	sentence_8110
+8110_18	compound	8110_20
+8110_18	has_surface_form	American
+8110_19	is_in_sentence	sentence_8110
+8110_19	compound	8110_20
+8110_19	has_surface_form	Soccer
+8110_21	is_in_sentence	sentence_8110
+8110_21	punct	8110_2
+8110_21	has_surface_form	.
+8110_22	is_in_sentence	sentence_8110
+8110_22	dep	8110_2
+8110_22	has_surface_form	
+Bobby Moffat	surface_form	Bobby Moffat
+Bobby Moffat	is-member-of	Dallas Tornado
+Dallas Tornado	surface_form	Dallas Tornado

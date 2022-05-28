@@ -1,0 +1,70 @@
+10851_0	is_in_sentence	sentence_10851
+10851_0	compound	10851_1
+10851_0	has_surface_form	Jim
+10851_0	part_of_entity	Jim Nesbitt
+10851_1	is_in_sentence	sentence_10851
+10851_1	nsubj	10851_13
+10851_1	has_surface_form	Nesbitt
+10851_1	part_of_entity	Jim Nesbitt
+10851_13	is_in_sentence	sentence_10851
+10851_13	ROOT	10851_13
+10851_13	has_surface_form	was
+10851_2	is_in_sentence	sentence_10851
+10851_2	punct	10851_1
+10851_2	has_surface_form	(
+10851_3	is_in_sentence	sentence_10851
+10851_3	appos	10851_1
+10851_3	has_surface_form	December
+10851_4	is_in_sentence	sentence_10851
+10851_4	nummod	10851_3
+10851_4	has_surface_form	1
+10851_5	is_in_sentence	sentence_10851
+10851_5	punct	10851_3
+10851_5	has_surface_form	,
+10851_6	is_in_sentence	sentence_10851
+10851_6	nummod	10851_3
+10851_6	has_surface_form	1931
+10851_7	is_in_sentence	sentence_10851
+10851_7	punct	10851_1
+10851_7	has_surface_form	–
+10851_8	is_in_sentence	sentence_10851
+10851_8	appos	10851_1
+10851_8	has_surface_form	November
+10851_9	is_in_sentence	sentence_10851
+10851_9	nummod	10851_8
+10851_9	has_surface_form	29
+10851_10	is_in_sentence	sentence_10851
+10851_10	punct	10851_8
+10851_10	has_surface_form	,
+10851_11	is_in_sentence	sentence_10851
+10851_11	appos	10851_8
+10851_11	has_surface_form	2007
+10851_12	is_in_sentence	sentence_10851
+10851_12	punct	10851_8
+10851_12	has_surface_form	)
+10851_14	is_in_sentence	sentence_10851
+10851_14	det	10851_18
+10851_14	has_surface_form	an
+10851_18	is_in_sentence	sentence_10851
+10851_18	attr	10851_13
+10851_18	has_surface_form	singer
+10851_15	is_in_sentence	sentence_10851
+10851_15	amod	10851_18
+10851_15	has_surface_form	American
+10851_16	is_in_sentence	sentence_10851
+10851_16	compound	10851_17
+10851_16	has_surface_form	country
+10851_16	part_of_entity	country music
+10851_17	is_in_sentence	sentence_10851
+10851_17	compound	10851_18
+10851_17	has_surface_form	music
+10851_17	part_of_entity	country music
+10851_19	is_in_sentence	sentence_10851
+10851_19	punct	10851_13
+10851_19	has_surface_form	.
+10851_20	is_in_sentence	sentence_10851
+10851_20	dep	10851_20
+10851_20	has_surface_form	
+Jim Nesbitt	surface_form	Jim Nesbitt
+Jim Nesbitt	has-genre	country music
+country music	surface_form	country music

@@ -1,0 +1,67 @@
+29091_0	is_in_sentence	sentence_29091
+29091_0	det	29091_2
+29091_0	has_surface_form	The
+29091_2	is_in_sentence	sentence_29091
+29091_2	nsubj	29091_5
+29091_2	has_surface_form	School
+29091_2	part_of_entity	Case School of Engineering
+29091_1	is_in_sentence	sentence_29091
+29091_1	compound	29091_2
+29091_1	has_surface_form	Case
+29091_1	part_of_entity	Case School of Engineering
+29091_5	is_in_sentence	sentence_29091
+29091_5	ROOT	29091_5
+29091_5	has_surface_form	is
+29091_3	is_in_sentence	sentence_29091
+29091_3	prep	29091_2
+29091_3	has_surface_form	of
+29091_3	part_of_entity	Case School of Engineering
+29091_4	is_in_sentence	sentence_29091
+29091_4	pobj	29091_3
+29091_4	has_surface_form	Engineering
+29091_4	part_of_entity	Case School of Engineering
+29091_6	is_in_sentence	sentence_29091
+29091_6	det	29091_8
+29091_6	has_surface_form	the
+29091_8	is_in_sentence	sentence_29091
+29091_8	attr	29091_5
+29091_8	has_surface_form	school
+29091_7	is_in_sentence	sentence_29091
+29091_7	compound	29091_8
+29091_7	has_surface_form	engineering
+29091_9	is_in_sentence	sentence_29091
+29091_9	prep	29091_8
+29091_9	has_surface_form	at
+29091_10	is_in_sentence	sentence_29091
+29091_10	compound	29091_13
+29091_10	has_surface_form	Case
+29091_13	is_in_sentence	sentence_29091
+29091_13	pobj	29091_9
+29091_13	has_surface_form	University
+29091_11	is_in_sentence	sentence_29091
+29091_11	compound	29091_12
+29091_11	has_surface_form	Western
+29091_12	is_in_sentence	sentence_29091
+29091_12	compound	29091_13
+29091_12	has_surface_form	Reserve
+29091_14	is_in_sentence	sentence_29091
+29091_14	prep	29091_13
+29091_14	has_surface_form	in
+29091_15	is_in_sentence	sentence_29091
+29091_15	pobj	29091_14
+29091_15	has_surface_form	Cleveland
+29091_16	is_in_sentence	sentence_29091
+29091_16	punct	29091_15
+29091_16	has_surface_form	,
+29091_17	is_in_sentence	sentence_29091
+29091_17	appos	29091_15
+29091_17	has_surface_form	Ohio
+29091_18	is_in_sentence	sentence_29091
+29091_18	punct	29091_5
+29091_18	has_surface_form	.
+29091_19	is_in_sentence	sentence_29091
+29091_19	dep	29091_5
+29091_19	has_surface_form	
+Case School of Engineering	surface_form	Case School of Engineering
+Case School of Engineering	is-where	Cleveland, Ohio
+Cleveland, Ohio	surface_form	Cleveland, Ohio

@@ -1,0 +1,74 @@
+20362_0	is_in_sentence	sentence_20362
+20362_0	compound	20362_1
+20362_0	has_surface_form	Ed
+20362_0	part_of_entity	Ed Blankmeyer
+20362_1	is_in_sentence	sentence_20362
+20362_1	nsubj	20362_9
+20362_1	has_surface_form	Blankmeyer
+20362_1	part_of_entity	Ed Blankmeyer
+20362_9	is_in_sentence	sentence_20362
+20362_9	ROOT	20362_9
+20362_9	has_surface_form	is
+20362_2	is_in_sentence	sentence_20362
+20362_2	punct	20362_3
+20362_2	has_surface_form	(
+20362_3	is_in_sentence	sentence_20362
+20362_3	acl	20362_1
+20362_3	has_surface_form	born
+20362_4	is_in_sentence	sentence_20362
+20362_4	npadvmod	20362_3
+20362_4	has_surface_form	December
+20362_5	is_in_sentence	sentence_20362
+20362_5	nummod	20362_4
+20362_5	has_surface_form	15
+20362_6	is_in_sentence	sentence_20362
+20362_6	punct	20362_4
+20362_6	has_surface_form	,
+20362_7	is_in_sentence	sentence_20362
+20362_7	nummod	20362_4
+20362_7	has_surface_form	1954
+20362_8	is_in_sentence	sentence_20362
+20362_8	punct	20362_1
+20362_8	has_surface_form	)
+20362_10	is_in_sentence	sentence_20362
+20362_10	det	20362_14
+20362_10	has_surface_form	an
+20362_14	is_in_sentence	sentence_20362
+20362_14	attr	20362_9
+20362_14	has_surface_form	coach
+20362_14	part_of_entity	college baseball coach
+20362_11	is_in_sentence	sentence_20362
+20362_11	amod	20362_14
+20362_11	has_surface_form	American
+20362_12	is_in_sentence	sentence_20362
+20362_12	compound	20362_13
+20362_12	has_surface_form	college
+20362_12	part_of_entity	college baseball coach
+20362_13	is_in_sentence	sentence_20362
+20362_13	compound	20362_14
+20362_13	has_surface_form	baseball
+20362_13	part_of_entity	college baseball coach
+20362_15	is_in_sentence	sentence_20362
+20362_15	punct	20362_14
+20362_15	has_surface_form	,
+20362_16	is_in_sentence	sentence_20362
+20362_16	det	20362_18
+20362_16	has_surface_form	the
+20362_18	is_in_sentence	sentence_20362
+20362_18	appos	20362_14
+20362_18	has_surface_form	coach
+20362_17	is_in_sentence	sentence_20362
+20362_17	compound	20362_18
+20362_17	has_surface_form	head
+20362_19	is_in_sentence	sentence_20362
+20362_19	prep	20362_18
+20362_19	has_surface_form	of
+20362_20	is_in_sentence	sentence_20362
+20362_20	pobj	20362_19
+20362_20	has_surface_form	St.
+20362_21	is_in_sentence	sentence_20362
+20362_21	dep	20362_9
+20362_21	has_surface_form	
+Ed Blankmeyer	surface_form	Ed Blankmeyer
+Ed Blankmeyer	has-type	college baseball coach
+college baseball coach	surface_form	college baseball coach

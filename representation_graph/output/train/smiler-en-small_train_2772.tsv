@@ -1,0 +1,97 @@
+2771_0	is_in_sentence	sentence_2771
+2771_0	det	2771_2
+2771_0	has_surface_form	The
+2771_2	is_in_sentence	sentence_2771
+2771_2	nsubj	2771_7
+2771_2	has_surface_form	pendulum
+2771_2	part_of_entity	Foucault pendulum
+2771_1	is_in_sentence	sentence_2771
+2771_1	compound	2771_2
+2771_1	has_surface_form	Foucault
+2771_1	part_of_entity	Foucault pendulum
+2771_7	is_in_sentence	sentence_2771
+2771_7	ROOT	2771_7
+2771_7	has_surface_form	is
+2771_3	is_in_sentence	sentence_2771
+2771_3	cc	2771_2
+2771_3	has_surface_form	or
+2771_4	is_in_sentence	sentence_2771
+2771_4	poss	2771_6
+2771_4	has_surface_form	Foucault
+2771_6	is_in_sentence	sentence_2771
+2771_6	conj	2771_2
+2771_6	has_surface_form	pendulum
+2771_5	is_in_sentence	sentence_2771
+2771_5	case	2771_4
+2771_5	has_surface_form	's
+2771_8	is_in_sentence	sentence_2771
+2771_8	det	2771_10
+2771_8	has_surface_form	a
+2771_10	is_in_sentence	sentence_2771
+2771_10	attr	2771_7
+2771_10	has_surface_form	device
+2771_9	is_in_sentence	sentence_2771
+2771_9	amod	2771_10
+2771_9	has_surface_form	simple
+2771_11	is_in_sentence	sentence_2771
+2771_11	acl	2771_10
+2771_11	has_surface_form	named
+2771_12	is_in_sentence	sentence_2771
+2771_12	prep	2771_11
+2771_12	has_surface_form	after
+2771_13	is_in_sentence	sentence_2771
+2771_13	amod	2771_14
+2771_13	has_surface_form	French
+2771_14	is_in_sentence	sentence_2771
+2771_14	compound	2771_16
+2771_14	has_surface_form	physicist
+2771_16	is_in_sentence	sentence_2771
+2771_16	pobj	2771_12
+2771_16	has_surface_form	Foucault
+2771_16	part_of_entity	Léon Foucault
+2771_15	is_in_sentence	sentence_2771
+2771_15	compound	2771_16
+2771_15	has_surface_form	Léon
+2771_15	part_of_entity	Léon Foucault
+2771_17	is_in_sentence	sentence_2771
+2771_17	cc	2771_7
+2771_17	has_surface_form	and
+2771_18	is_in_sentence	sentence_2771
+2771_18	conj	2771_7
+2771_18	has_surface_form	conceived
+2771_19	is_in_sentence	sentence_2771
+2771_19	prep	2771_18
+2771_19	has_surface_form	as
+2771_20	is_in_sentence	sentence_2771
+2771_20	det	2771_21
+2771_20	has_surface_form	an
+2771_21	is_in_sentence	sentence_2771
+2771_21	pobj	2771_19
+2771_21	has_surface_form	experiment
+2771_22	is_in_sentence	sentence_2771
+2771_22	aux	2771_23
+2771_22	has_surface_form	to
+2771_23	is_in_sentence	sentence_2771
+2771_23	relcl	2771_21
+2771_23	has_surface_form	demonstrate
+2771_24	is_in_sentence	sentence_2771
+2771_24	det	2771_25
+2771_24	has_surface_form	the
+2771_25	is_in_sentence	sentence_2771
+2771_25	poss	2771_27
+2771_25	has_surface_form	Earth
+2771_27	is_in_sentence	sentence_2771
+2771_27	dobj	2771_23
+2771_27	has_surface_form	rotation
+2771_26	is_in_sentence	sentence_2771
+2771_26	case	2771_25
+2771_26	has_surface_form	's
+2771_28	is_in_sentence	sentence_2771
+2771_28	punct	2771_7
+2771_28	has_surface_form	.
+2771_29	is_in_sentence	sentence_2771
+2771_29	dep	2771_29
+2771_29	has_surface_form	
+Foucault pendulum	surface_form	Foucault pendulum
+Foucault pendulum	invented-by	Léon Foucault
+Léon Foucault	surface_form	Léon Foucault

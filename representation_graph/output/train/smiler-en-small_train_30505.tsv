@@ -1,0 +1,88 @@
+30504_0	is_in_sentence	sentence_30504
+30504_0	compound	30504_1
+30504_0	has_surface_form	Ivar
+30504_0	part_of_entity	Ivar Bjørnson
+30504_1	is_in_sentence	sentence_30504
+30504_1	nsubj	30504_10
+30504_1	has_surface_form	Bjørnson
+30504_1	part_of_entity	Ivar Bjørnson
+30504_10	is_in_sentence	sentence_30504
+30504_10	ROOT	30504_10
+30504_10	has_surface_form	is
+30504_2	is_in_sentence	sentence_30504
+30504_2	punct	30504_1
+30504_2	has_surface_form	(
+30504_3	is_in_sentence	sentence_30504
+30504_3	acl	30504_1
+30504_3	has_surface_form	born
+30504_4	is_in_sentence	sentence_30504
+30504_4	nummod	30504_5
+30504_4	has_surface_form	27
+30504_5	is_in_sentence	sentence_30504
+30504_5	npadvmod	30504_3
+30504_5	has_surface_form	November
+30504_6	is_in_sentence	sentence_30504
+30504_6	nummod	30504_5
+30504_6	has_surface_form	1977
+30504_7	is_in_sentence	sentence_30504
+30504_7	prep	30504_3
+30504_7	has_surface_form	in
+30504_8	is_in_sentence	sentence_30504
+30504_8	pobj	30504_7
+30504_8	has_surface_form	Etne
+30504_9	is_in_sentence	sentence_30504
+30504_9	punct	30504_1
+30504_9	has_surface_form	)
+30504_11	is_in_sentence	sentence_30504
+30504_11	det	30504_15
+30504_11	has_surface_form	a
+30504_15	is_in_sentence	sentence_30504
+30504_15	attr	30504_10
+30504_15	has_surface_form	guitarist
+30504_12	is_in_sentence	sentence_30504
+30504_12	amod	30504_13
+30504_12	has_surface_form	Norwegian
+30504_13	is_in_sentence	sentence_30504
+30504_13	nmod	30504_15
+30504_13	has_surface_form	composer
+30504_14	is_in_sentence	sentence_30504
+30504_14	punct	30504_15
+30504_14	has_surface_form	/
+30504_16	is_in_sentence	sentence_30504
+30504_16	prep	30504_15
+30504_16	has_surface_form	for
+30504_17	is_in_sentence	sentence_30504
+30504_17	det	30504_23
+30504_17	has_surface_form	the
+30504_23	is_in_sentence	sentence_30504
+30504_23	pobj	30504_16
+30504_23	has_surface_form	band
+30504_18	is_in_sentence	sentence_30504
+30504_18	amod	30504_23
+30504_18	has_surface_form	progressive
+30504_19	is_in_sentence	sentence_30504
+30504_19	amod	30504_21
+30504_19	has_surface_form	black
+30504_21	is_in_sentence	sentence_30504
+30504_21	amod	30504_23
+30504_21	has_surface_form	viking
+30504_21	part_of_entity	viking metal
+30504_20	is_in_sentence	sentence_30504
+30504_20	punct	30504_21
+30504_20	has_surface_form	/
+30504_22	is_in_sentence	sentence_30504
+30504_22	compound	30504_23
+30504_22	has_surface_form	metal
+30504_22	part_of_entity	viking metal
+30504_24	is_in_sentence	sentence_30504
+30504_24	appos	30504_23
+30504_24	has_surface_form	Enslaved
+30504_25	is_in_sentence	sentence_30504
+30504_25	punct	30504_10
+30504_25	has_surface_form	.
+30504_26	is_in_sentence	sentence_30504
+30504_26	dep	30504_26
+30504_26	has_surface_form	
+Ivar Bjørnson	surface_form	Ivar Bjørnson
+Ivar Bjørnson	has-genre	viking metal
+viking metal	surface_form	viking metal

@@ -1,0 +1,77 @@
+10771_0	is_in_sentence	sentence_10771
+10771_0	compound	10771_1
+10771_0	has_surface_form	Conquest
+10771_0	part_of_entity	Conquest Airlines
+10771_1	is_in_sentence	sentence_10771
+10771_1	nsubj	10771_2
+10771_1	has_surface_form	Airlines
+10771_1	part_of_entity	Conquest Airlines
+10771_2	is_in_sentence	sentence_10771
+10771_2	ROOT	10771_2
+10771_2	has_surface_form	was
+10771_3	is_in_sentence	sentence_10771
+10771_3	det	10771_6
+10771_3	has_surface_form	an
+10771_6	is_in_sentence	sentence_10771
+10771_6	attr	10771_2
+10771_6	has_surface_form	airline
+10771_4	is_in_sentence	sentence_10771
+10771_4	amod	10771_6
+10771_4	has_surface_form	American
+10771_5	is_in_sentence	sentence_10771
+10771_5	amod	10771_6
+10771_5	has_surface_form	regional
+10771_7	is_in_sentence	sentence_10771
+10771_7	advmod	10771_8
+10771_7	has_surface_form	initially
+10771_8	is_in_sentence	sentence_10771
+10771_8	acl	10771_6
+10771_8	has_surface_form	headquartered
+10771_9	is_in_sentence	sentence_10771
+10771_9	prep	10771_8
+10771_9	has_surface_form	in
+10771_10	is_in_sentence	sentence_10771
+10771_10	compound	10771_11
+10771_10	has_surface_form	Jefferson
+10771_11	is_in_sentence	sentence_10771
+10771_11	pobj	10771_9
+10771_11	has_surface_form	County
+10771_12	is_in_sentence	sentence_10771
+10771_12	punct	10771_11
+10771_12	has_surface_form	,
+10771_13	is_in_sentence	sentence_10771
+10771_13	appos	10771_11
+10771_13	has_surface_form	Texas
+10771_14	is_in_sentence	sentence_10771
+10771_14	punct	10771_8
+10771_14	has_surface_form	,
+10771_15	is_in_sentence	sentence_10771
+10771_15	cc	10771_8
+10771_15	has_surface_form	and
+10771_16	is_in_sentence	sentence_10771
+10771_16	advmod	10771_17
+10771_16	has_surface_form	later
+10771_17	is_in_sentence	sentence_10771
+10771_17	conj	10771_8
+10771_17	has_surface_form	headquartered
+10771_18	is_in_sentence	sentence_10771
+10771_18	prep	10771_17
+10771_18	has_surface_form	in
+10771_19	is_in_sentence	sentence_10771
+10771_19	pobj	10771_18
+10771_19	has_surface_form	Austin
+10771_20	is_in_sentence	sentence_10771
+10771_20	punct	10771_19
+10771_20	has_surface_form	,
+10771_21	is_in_sentence	sentence_10771
+10771_21	appos	10771_19
+10771_21	has_surface_form	Texas
+10771_22	is_in_sentence	sentence_10771
+10771_22	punct	10771_2
+10771_22	has_surface_form	.
+10771_23	is_in_sentence	sentence_10771
+10771_23	dep	10771_2
+10771_23	has_surface_form	
+Conquest Airlines	surface_form	Conquest Airlines
+Conquest Airlines	headquarters	Austin, Texas
+Austin, Texas	surface_form	Austin, Texas

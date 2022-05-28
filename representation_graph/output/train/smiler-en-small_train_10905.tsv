@@ -1,0 +1,50 @@
+10904_0	is_in_sentence	sentence_10904
+10904_0	det	10904_2
+10904_0	has_surface_form	The
+10904_0	part_of_entity	The Golden Gallows
+10904_2	is_in_sentence	sentence_10904
+10904_2	nsubj	10904_3
+10904_2	has_surface_form	Gallows
+10904_2	part_of_entity	The Golden Gallows
+10904_1	is_in_sentence	sentence_10904
+10904_1	compound	10904_2
+10904_1	has_surface_form	Golden
+10904_1	part_of_entity	The Golden Gallows
+10904_3	is_in_sentence	sentence_10904
+10904_3	ROOT	10904_3
+10904_3	has_surface_form	is
+10904_4	is_in_sentence	sentence_10904
+10904_4	det	10904_8
+10904_4	has_surface_form	a
+10904_8	is_in_sentence	sentence_10904
+10904_8	attr	10904_3
+10904_8	has_surface_form	film
+10904_5	is_in_sentence	sentence_10904
+10904_5	nummod	10904_8
+10904_5	has_surface_form	1922
+10904_6	is_in_sentence	sentence_10904
+10904_6	amod	10904_8
+10904_6	has_surface_form	American
+10904_7	is_in_sentence	sentence_10904
+10904_7	amod	10904_8
+10904_7	has_surface_form	silent
+10904_9	is_in_sentence	sentence_10904
+10904_9	acl	10904_8
+10904_9	has_surface_form	starring
+10904_10	is_in_sentence	sentence_10904
+10904_10	compound	10904_11
+10904_10	has_surface_form	Miss
+10904_10	part_of_entity	Miss DuPont
+10904_11	is_in_sentence	sentence_10904
+10904_11	dobj	10904_9
+10904_11	has_surface_form	DuPont
+10904_11	part_of_entity	Miss DuPont
+10904_12	is_in_sentence	sentence_10904
+10904_12	punct	10904_3
+10904_12	has_surface_form	.
+10904_13	is_in_sentence	sentence_10904
+10904_13	dep	10904_3
+10904_13	has_surface_form	
+The Golden Gallows	surface_form	The Golden Gallows
+The Golden Gallows	starring	Miss DuPont
+Miss DuPont	surface_form	Miss DuPont

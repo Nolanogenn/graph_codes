@@ -1,0 +1,65 @@
+23742_0	is_in_sentence	sentence_23742
+23742_0	compound	23742_1
+23742_0	has_surface_form	Lord
+23742_1	is_in_sentence	sentence_23742
+23742_1	nsubj	23742_2
+23742_1	has_surface_form	Kesteven
+23742_2	is_in_sentence	sentence_23742
+23742_2	ROOT	23742_2
+23742_2	has_surface_form	married
+23742_3	is_in_sentence	sentence_23742
+23742_3	compound	23742_4
+23742_3	has_surface_form	Julia
+23742_3	part_of_entity	Julia Maria
+23742_4	is_in_sentence	sentence_23742
+23742_4	dobj	23742_2
+23742_4	has_surface_form	Maria
+23742_4	part_of_entity	Julia Maria
+23742_5	is_in_sentence	sentence_23742
+23742_5	punct	23742_4
+23742_5	has_surface_form	,
+23742_6	is_in_sentence	sentence_23742
+23742_6	appos	23742_4
+23742_6	has_surface_form	daughter
+23742_7	is_in_sentence	sentence_23742
+23742_7	prep	23742_6
+23742_7	has_surface_form	of
+23742_8	is_in_sentence	sentence_23742
+23742_8	compound	23742_10
+23742_8	has_surface_form	Sir
+23742_8	part_of_entity	Sir Robert Sheffield
+23742_10	is_in_sentence	sentence_23742
+23742_10	pobj	23742_7
+23742_10	has_surface_form	Sheffield
+23742_10	part_of_entity	Sir Robert Sheffield
+23742_9	is_in_sentence	sentence_23742
+23742_9	compound	23742_10
+23742_9	has_surface_form	Robert
+23742_9	part_of_entity	Sir Robert Sheffield
+23742_11	is_in_sentence	sentence_23742
+23742_11	punct	23742_10
+23742_11	has_surface_form	,
+23742_12	is_in_sentence	sentence_23742
+23742_12	compound	23742_13
+23742_12	has_surface_form	4th
+23742_13	is_in_sentence	sentence_23742
+23742_13	appos	23742_10
+23742_13	has_surface_form	Baronet
+23742_14	is_in_sentence	sentence_23742
+23742_14	punct	23742_4
+23742_14	has_surface_form	,
+23742_15	is_in_sentence	sentence_23742
+23742_15	prep	23742_2
+23742_15	has_surface_form	in
+23742_16	is_in_sentence	sentence_23742
+23742_16	pobj	23742_15
+23742_16	has_surface_form	1847
+23742_17	is_in_sentence	sentence_23742
+23742_17	punct	23742_2
+23742_17	has_surface_form	.
+23742_18	is_in_sentence	sentence_23742
+23742_18	dep	23742_18
+23742_18	has_surface_form	
+Julia Maria	surface_form	Julia Maria
+Julia Maria	has-parent	Sir Robert Sheffield
+Sir Robert Sheffield	surface_form	Sir Robert Sheffield

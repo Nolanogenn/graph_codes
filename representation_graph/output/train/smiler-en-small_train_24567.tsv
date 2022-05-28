@@ -1,0 +1,61 @@
+24566_0	is_in_sentence	sentence_24566
+24566_0	compound	24566_1
+24566_0	has_surface_form	Kathy
+24566_0	part_of_entity	Kathy Diamond
+24566_1	is_in_sentence	sentence_24566
+24566_1	nsubj	24566_2
+24566_1	has_surface_form	Diamond
+24566_1	part_of_entity	Kathy Diamond
+24566_2	is_in_sentence	sentence_24566
+24566_2	ROOT	24566_2
+24566_2	has_surface_form	is
+24566_3	is_in_sentence	sentence_24566
+24566_3	det	24566_10
+24566_3	has_surface_form	a
+24566_10	is_in_sentence	sentence_24566
+24566_10	attr	24566_2
+24566_10	has_surface_form	songwriter
+24566_4	is_in_sentence	sentence_24566
+24566_4	nmod	24566_6
+24566_4	has_surface_form	funk
+24566_6	is_in_sentence	sentence_24566
+24566_6	compound	24566_7
+24566_6	has_surface_form	disco
+24566_6	part_of_entity	disco house
+24566_5	is_in_sentence	sentence_24566
+24566_5	punct	24566_6
+24566_5	has_surface_form	/
+24566_7	is_in_sentence	sentence_24566
+24566_7	compound	24566_10
+24566_7	has_surface_form	house
+24566_7	part_of_entity	disco house
+24566_8	is_in_sentence	sentence_24566
+24566_8	compound	24566_10
+24566_8	has_surface_form	singer
+24566_9	is_in_sentence	sentence_24566
+24566_9	punct	24566_10
+24566_9	has_surface_form	-
+24566_11	is_in_sentence	sentence_24566
+24566_11	prep	24566_10
+24566_11	has_surface_form	from
+24566_12	is_in_sentence	sentence_24566
+24566_12	pobj	24566_11
+24566_12	has_surface_form	London
+24566_13	is_in_sentence	sentence_24566
+24566_13	punct	24566_12
+24566_13	has_surface_form	,
+24566_14	is_in_sentence	sentence_24566
+24566_14	compound	24566_15
+24566_14	has_surface_form	United
+24566_15	is_in_sentence	sentence_24566
+24566_15	appos	24566_12
+24566_15	has_surface_form	Kingdom
+24566_16	is_in_sentence	sentence_24566
+24566_16	punct	24566_2
+24566_16	has_surface_form	.
+24566_17	is_in_sentence	sentence_24566
+24566_17	dep	24566_2
+24566_17	has_surface_form	
+Kathy Diamond	surface_form	Kathy Diamond
+Kathy Diamond	has-genre	disco house
+disco house	surface_form	disco house

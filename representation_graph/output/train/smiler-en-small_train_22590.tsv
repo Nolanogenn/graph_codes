@@ -1,0 +1,62 @@
+22589_0	is_in_sentence	sentence_22589
+22589_0	compound	22589_1
+22589_0	has_surface_form	Jeff
+22589_0	part_of_entity	Jeff Marx
+22589_1	is_in_sentence	sentence_22589
+22589_1	nsubj	22589_9
+22589_1	has_surface_form	Marx
+22589_1	part_of_entity	Jeff Marx
+22589_9	is_in_sentence	sentence_22589
+22589_9	ROOT	22589_9
+22589_9	has_surface_form	is
+22589_2	is_in_sentence	sentence_22589
+22589_2	punct	22589_3
+22589_2	has_surface_form	(
+22589_3	is_in_sentence	sentence_22589
+22589_3	parataxis	22589_1
+22589_3	has_surface_form	born
+22589_4	is_in_sentence	sentence_22589
+22589_4	npadvmod	22589_3
+22589_4	has_surface_form	September
+22589_5	is_in_sentence	sentence_22589
+22589_5	nummod	22589_4
+22589_5	has_surface_form	10
+22589_6	is_in_sentence	sentence_22589
+22589_6	punct	22589_4
+22589_6	has_surface_form	,
+22589_7	is_in_sentence	sentence_22589
+22589_7	nummod	22589_4
+22589_7	has_surface_form	1970
+22589_8	is_in_sentence	sentence_22589
+22589_8	punct	22589_3
+22589_8	has_surface_form	)
+22589_10	is_in_sentence	sentence_22589
+22589_10	det	22589_12
+22589_10	has_surface_form	an
+22589_12	is_in_sentence	sentence_22589
+22589_12	attr	22589_9
+22589_12	is_entity	composer
+22589_11	is_in_sentence	sentence_22589
+22589_11	amod	22589_12
+22589_11	has_surface_form	American
+composer	surface_form	composer
+22589_13	is_in_sentence	sentence_22589
+22589_13	cc	22589_12
+22589_13	has_surface_form	and
+22589_14	is_in_sentence	sentence_22589
+22589_14	conj	22589_12
+22589_14	has_surface_form	lyricist
+22589_15	is_in_sentence	sentence_22589
+22589_15	prep	22589_12
+22589_15	has_surface_form	of
+22589_16	is_in_sentence	sentence_22589
+22589_16	pobj	22589_15
+22589_16	has_surface_form	musicals
+22589_17	is_in_sentence	sentence_22589
+22589_17	punct	22589_9
+22589_17	has_surface_form	.
+22589_18	is_in_sentence	sentence_22589
+22589_18	dep	22589_18
+22589_18	has_surface_form	
+Jeff Marx	surface_form	Jeff Marx
+Jeff Marx	has-occupation	composer

@@ -1,0 +1,41 @@
+2593_0	is_in_sentence	sentence_2593
+2593_0	poss	2593_2
+2593_0	is_entity	Lenner
+2593_2	is_in_sentence	sentence_2593
+2593_2	nsubj	2593_3
+2593_2	has_surface_form	father
+Lenner	surface_form	Lenner
+Lenner	has-child	Arthur Green
+2593_1	is_in_sentence	sentence_2593
+2593_1	case	2593_0
+2593_1	has_surface_form	’s
+2593_3	is_in_sentence	sentence_2593
+2593_3	ROOT	2593_3
+2593_3	has_surface_form	was
+2593_4	is_in_sentence	sentence_2593
+2593_4	compound	2593_5
+2593_4	has_surface_form	Arthur
+2593_4	part_of_entity	Arthur Green
+2593_5	is_in_sentence	sentence_2593
+2593_5	attr	2593_3
+2593_5	has_surface_form	Green
+2593_5	part_of_entity	Arthur Green
+2593_6	is_in_sentence	sentence_2593
+2593_6	punct	2593_5
+2593_6	has_surface_form	,
+2593_7	is_in_sentence	sentence_2593
+2593_7	det	2593_9
+2593_7	has_surface_form	a
+2593_9	is_in_sentence	sentence_2593
+2593_9	appos	2593_5
+2593_9	has_surface_form	performer
+2593_8	is_in_sentence	sentence_2593
+2593_8	compound	2593_9
+2593_8	has_surface_form	variety
+2593_10	is_in_sentence	sentence_2593
+2593_10	punct	2593_3
+2593_10	has_surface_form	.
+2593_11	is_in_sentence	sentence_2593
+2593_11	dep	2593_11
+2593_11	has_surface_form	
+Arthur Green	surface_form	Arthur Green

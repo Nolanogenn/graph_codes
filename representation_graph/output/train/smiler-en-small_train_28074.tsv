@@ -1,0 +1,58 @@
+28073_0	is_in_sentence	sentence_28073
+28073_0	compound	28073_1
+28073_0	has_surface_form	George
+28073_0	part_of_entity	George Henshaw
+28073_1	is_in_sentence	sentence_28073
+28073_1	nsubj	28073_9
+28073_1	has_surface_form	Henshaw
+28073_1	part_of_entity	George Henshaw
+28073_9	is_in_sentence	sentence_28073
+28073_9	ROOT	28073_9
+28073_9	has_surface_form	is
+28073_2	is_in_sentence	sentence_28073
+28073_2	punct	28073_1
+28073_2	has_surface_form	(
+28073_3	is_in_sentence	sentence_28073
+28073_3	acl	28073_1
+28073_3	has_surface_form	born
+28073_4	is_in_sentence	sentence_28073
+28073_4	npadvmod	28073_3
+28073_4	has_surface_form	January
+28073_5	is_in_sentence	sentence_28073
+28073_5	nummod	28073_4
+28073_5	has_surface_form	22
+28073_6	is_in_sentence	sentence_28073
+28073_6	punct	28073_4
+28073_6	has_surface_form	,
+28073_7	is_in_sentence	sentence_28073
+28073_7	nummod	28073_4
+28073_7	has_surface_form	1948
+28073_8	is_in_sentence	sentence_28073
+28073_8	punct	28073_1
+28073_8	has_surface_form	)
+28073_10	is_in_sentence	sentence_28073
+28073_10	det	28073_14
+28073_10	has_surface_form	a
+28073_14	is_in_sentence	sentence_28073
+28073_14	attr	28073_9
+28073_14	has_surface_form	coach
+28073_14	part_of_entity	football coach
+28073_11	is_in_sentence	sentence_28073
+28073_11	amod	28073_14
+28073_11	has_surface_form	former
+28073_12	is_in_sentence	sentence_28073
+28073_12	amod	28073_14
+28073_12	has_surface_form	American
+28073_13	is_in_sentence	sentence_28073
+28073_13	compound	28073_14
+28073_13	has_surface_form	football
+28073_13	part_of_entity	football coach
+28073_15	is_in_sentence	sentence_28073
+28073_15	punct	28073_9
+28073_15	has_surface_form	.
+28073_16	is_in_sentence	sentence_28073
+28073_16	dep	28073_16
+28073_16	has_surface_form	
+George Henshaw	surface_form	George Henshaw
+George Henshaw	has-type	football coach
+football coach	surface_form	football coach

@@ -1,0 +1,73 @@
+22316_0	is_in_sentence	sentence_22316
+22316_0	compound	22316_1
+22316_0	has_surface_form	David
+22316_0	part_of_entity	David Guterson
+22316_1	is_in_sentence	sentence_22316
+22316_1	nsubjpass	22316_3
+22316_1	has_surface_form	Guterson
+22316_1	part_of_entity	David Guterson
+22316_3	is_in_sentence	sentence_22316
+22316_3	ROOT	22316_3
+22316_3	has_surface_form	born
+22316_2	is_in_sentence	sentence_22316
+22316_2	auxpass	22316_3
+22316_2	has_surface_form	was
+22316_4	is_in_sentence	sentence_22316
+22316_4	npadvmod	22316_3
+22316_4	has_surface_form	May4
+22316_5	is_in_sentence	sentence_22316
+22316_5	punct	22316_4
+22316_5	has_surface_form	,
+22316_6	is_in_sentence	sentence_22316
+22316_6	appos	22316_4
+22316_6	has_surface_form	1956
+22316_7	is_in_sentence	sentence_22316
+22316_7	punct	22316_4
+22316_7	has_surface_form	,
+22316_8	is_in_sentence	sentence_22316
+22316_8	prep	22316_3
+22316_8	has_surface_form	in
+22316_9	is_in_sentence	sentence_22316
+22316_9	pobj	22316_8
+22316_9	has_surface_form	Seattle
+22316_10	is_in_sentence	sentence_22316
+22316_10	punct	22316_9
+22316_10	has_surface_form	,
+22316_11	is_in_sentence	sentence_22316
+22316_11	conj	22316_9
+22316_11	has_surface_form	Washington
+22316_12	is_in_sentence	sentence_22316
+22316_12	det	22316_13
+22316_12	has_surface_form	the
+22316_13	is_in_sentence	sentence_22316
+22316_13	appos	22316_11
+22316_13	has_surface_form	son
+22316_14	is_in_sentence	sentence_22316
+22316_14	prep	22316_13
+22316_14	has_surface_form	of
+22316_15	is_in_sentence	sentence_22316
+22316_15	amod	22316_16
+22316_15	has_surface_form	criminal
+22316_16	is_in_sentence	sentence_22316
+22316_16	compound	22316_17
+22316_16	has_surface_form	defense
+22316_17	is_in_sentence	sentence_22316
+22316_17	compound	22316_19
+22316_17	has_surface_form	lawyer
+22316_19	is_in_sentence	sentence_22316
+22316_19	pobj	22316_14
+22316_19	has_surface_form	Guterson
+22316_19	part_of_entity	Murray Guterson
+22316_18	is_in_sentence	sentence_22316
+22316_18	compound	22316_19
+22316_18	has_surface_form	Murray
+22316_18	part_of_entity	Murray Guterson
+22316_20	is_in_sentence	sentence_22316
+22316_20	punct	22316_3
+22316_20	has_surface_form	.
+22316_21	is_in_sentence	sentence_22316
+22316_21	dep	22316_21
+22316_21	has_surface_form	
+David Guterson	surface_form	David Guterson
+David Guterson	has-parent	Murray Guterson
+Murray Guterson	surface_form	Murray Guterson

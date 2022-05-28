@@ -1,0 +1,35 @@
+31451_0	is_in_sentence	sentence_31451
+31451_0	compound	31451_1
+31451_0	has_surface_form	Ardmore
+31451_0	part_of_entity	Ardmore Residence
+31451_1	is_in_sentence	sentence_31451
+31451_1	nsubj	31451_2
+31451_1	has_surface_form	Residence
+31451_1	part_of_entity	Ardmore Residence
+31451_2	is_in_sentence	sentence_31451
+31451_2	ROOT	31451_2
+31451_2	has_surface_form	is
+31451_3	is_in_sentence	sentence_31451
+31451_3	det	31451_5
+31451_3	has_surface_form	a
+31451_5	is_in_sentence	sentence_31451
+31451_5	attr	31451_2
+31451_5	has_surface_form	development
+31451_4	is_in_sentence	sentence_31451
+31451_4	amod	31451_5
+31451_4	has_surface_form	residential
+31451_6	is_in_sentence	sentence_31451
+31451_6	prep	31451_5
+31451_6	has_surface_form	in
+31451_7	is_in_sentence	sentence_31451
+31451_7	pobj	31451_6
+31451_7	is_entity	Singapore
+Singapore	surface_form	Singapore
+31451_8	is_in_sentence	sentence_31451
+31451_8	punct	31451_2
+31451_8	has_surface_form	.
+31451_9	is_in_sentence	sentence_31451
+31451_9	dep	31451_2
+31451_9	has_surface_form	
+Ardmore Residence	surface_form	Ardmore Residence
+Ardmore Residence	is-where	Singapore

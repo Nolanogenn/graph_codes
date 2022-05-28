@@ -1,0 +1,62 @@
+9216_0	is_in_sentence	sentence_9216
+9216_0	det	9216_3
+9216_0	has_surface_form	The
+9216_3	is_in_sentence	sentence_9216
+9216_3	nsubj	9216_4
+9216_3	has_surface_form	Library
+9216_3	part_of_entity	Seby Jones Library
+9216_1	is_in_sentence	sentence_9216
+9216_1	compound	9216_2
+9216_1	has_surface_form	Seby
+9216_1	part_of_entity	Seby Jones Library
+9216_2	is_in_sentence	sentence_9216
+9216_2	compound	9216_3
+9216_2	has_surface_form	Jones
+9216_2	part_of_entity	Seby Jones Library
+9216_4	is_in_sentence	sentence_9216
+9216_4	ROOT	9216_4
+9216_4	has_surface_form	is
+9216_5	is_in_sentence	sentence_9216
+9216_5	det	9216_8
+9216_5	has_surface_form	the
+9216_8	is_in_sentence	sentence_9216
+9216_8	attr	9216_4
+9216_8	has_surface_form	library
+9216_8	part_of_entity	academic library
+9216_6	is_in_sentence	sentence_9216
+9216_6	amod	9216_8
+9216_6	has_surface_form	primary
+9216_7	is_in_sentence	sentence_9216
+9216_7	amod	9216_8
+9216_7	has_surface_form	academic
+9216_7	part_of_entity	academic library
+9216_9	is_in_sentence	sentence_9216
+9216_9	prep	9216_8
+9216_9	has_surface_form	on
+9216_10	is_in_sentence	sentence_9216
+9216_10	det	9216_11
+9216_10	has_surface_form	the
+9216_11	is_in_sentence	sentence_9216
+9216_11	pobj	9216_9
+9216_11	has_surface_form	campus
+9216_12	is_in_sentence	sentence_9216
+9216_12	prep	9216_11
+9216_12	has_surface_form	of
+9216_13	is_in_sentence	sentence_9216
+9216_13	compound	9216_14
+9216_13	has_surface_form	Toccoa
+9216_14	is_in_sentence	sentence_9216
+9216_14	compound	9216_15
+9216_14	has_surface_form	Falls
+9216_15	is_in_sentence	sentence_9216
+9216_15	pobj	9216_12
+9216_15	has_surface_form	College
+9216_16	is_in_sentence	sentence_9216
+9216_16	punct	9216_4
+9216_16	has_surface_form	.
+9216_17	is_in_sentence	sentence_9216
+9216_17	dep	9216_17
+9216_17	has_surface_form	
+Seby Jones Library	surface_form	Seby Jones Library
+Seby Jones Library	has-type	academic library
+academic library	surface_form	academic library

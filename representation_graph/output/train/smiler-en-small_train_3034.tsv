@@ -1,0 +1,80 @@
+3033_0	is_in_sentence	sentence_3033
+3033_0	compound	3033_1
+3033_0	has_surface_form	Sir
+3033_1	is_in_sentence	sentence_3033
+3033_1	compound	3033_3
+3033_1	has_surface_form	Peter
+3033_1	part_of_entity	Peter Robert Jackson
+3033_3	is_in_sentence	sentence_3033
+3033_3	nsubj	3033_10
+3033_3	has_surface_form	Jackson
+3033_3	part_of_entity	Peter Robert Jackson
+3033_2	is_in_sentence	sentence_3033
+3033_2	compound	3033_3
+3033_2	has_surface_form	Robert
+3033_2	part_of_entity	Peter Robert Jackson
+3033_10	is_in_sentence	sentence_3033
+3033_10	ROOT	3033_10
+3033_10	has_surface_form	is
+3033_4	is_in_sentence	sentence_3033
+3033_4	punct	3033_3
+3033_4	has_surface_form	(
+3033_5	is_in_sentence	sentence_3033
+3033_5	acl	3033_3
+3033_5	has_surface_form	born
+3033_6	is_in_sentence	sentence_3033
+3033_6	npadvmod	3033_5
+3033_6	has_surface_form	31
+3033_7	is_in_sentence	sentence_3033
+3033_7	npadvmod	3033_5
+3033_7	has_surface_form	October
+3033_8	is_in_sentence	sentence_3033
+3033_8	nummod	3033_7
+3033_8	has_surface_form	1961
+3033_9	is_in_sentence	sentence_3033
+3033_9	punct	3033_3
+3033_9	has_surface_form	)
+3033_11	is_in_sentence	sentence_3033
+3033_11	det	3033_15
+3033_11	has_surface_form	a
+3033_15	is_in_sentence	sentence_3033
+3033_15	attr	3033_10
+3033_15	has_surface_form	director
+3033_15	part_of_entity	film director
+3033_12	is_in_sentence	sentence_3033
+3033_12	compound	3033_13
+3033_12	has_surface_form	New
+3033_13	is_in_sentence	sentence_3033
+3033_13	compound	3033_15
+3033_13	has_surface_form	Zealand
+3033_14	is_in_sentence	sentence_3033
+3033_14	compound	3033_15
+3033_14	has_surface_form	film
+3033_14	part_of_entity	film director
+3033_16	is_in_sentence	sentence_3033
+3033_16	punct	3033_15
+3033_16	has_surface_form	,
+3033_17	is_in_sentence	sentence_3033
+3033_17	conj	3033_15
+3033_17	has_surface_form	screenwriter
+3033_18	is_in_sentence	sentence_3033
+3033_18	punct	3033_17
+3033_18	has_surface_form	,
+3033_19	is_in_sentence	sentence_3033
+3033_19	cc	3033_17
+3033_19	has_surface_form	and
+3033_20	is_in_sentence	sentence_3033
+3033_20	compound	3033_21
+3033_20	has_surface_form	film
+3033_21	is_in_sentence	sentence_3033
+3033_21	conj	3033_17
+3033_21	has_surface_form	producer
+3033_22	is_in_sentence	sentence_3033
+3033_22	punct	3033_10
+3033_22	has_surface_form	.
+3033_23	is_in_sentence	sentence_3033
+3033_23	dep	3033_10
+3033_23	has_surface_form	
+Peter Robert Jackson	surface_form	Peter Robert Jackson
+Peter Robert Jackson	has-occupation	film director
+film director	surface_form	film director

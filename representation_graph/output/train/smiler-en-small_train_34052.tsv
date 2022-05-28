@@ -1,0 +1,94 @@
+34051_0	is_in_sentence	sentence_34051
+34051_0	compound	34051_1
+34051_0	has_surface_form	Honeymoon
+34051_0	part_of_entity	Honeymoon Trip
+34051_1	is_in_sentence	sentence_34051
+34051_1	nsubj	34051_9
+34051_1	has_surface_form	Trip
+34051_1	part_of_entity	Honeymoon Trip
+34051_9	is_in_sentence	sentence_34051
+34051_9	ROOT	34051_9
+34051_9	has_surface_form	is
+34051_2	is_in_sentence	sentence_34051
+34051_2	punct	34051_3
+34051_2	has_surface_form	(
+34051_3	is_in_sentence	sentence_34051
+34051_3	appos	34051_1
+34051_3	has_surface_form	French
+34051_4	is_in_sentence	sentence_34051
+34051_4	punct	34051_3
+34051_4	has_surface_form	:
+34051_5	is_in_sentence	sentence_34051
+34051_5	compound	34051_7
+34051_5	has_surface_form	Voyage
+34051_7	is_in_sentence	sentence_34051
+34051_7	appos	34051_3
+34051_7	has_surface_form	noces
+34051_6	is_in_sentence	sentence_34051
+34051_6	compound	34051_7
+34051_6	has_surface_form	de
+34051_8	is_in_sentence	sentence_34051
+34051_8	punct	34051_3
+34051_8	has_surface_form	)
+34051_10	is_in_sentence	sentence_34051
+34051_10	det	34051_16
+34051_10	has_surface_form	a
+34051_16	is_in_sentence	sentence_34051
+34051_16	attr	34051_9
+34051_16	has_surface_form	film
+34051_11	is_in_sentence	sentence_34051
+34051_11	nummod	34051_16
+34051_11	has_surface_form	1933
+34051_12	is_in_sentence	sentence_34051
+34051_12	amod	34051_14
+34051_12	has_surface_form	Austrian
+34051_14	is_in_sentence	sentence_34051
+34051_14	amod	34051_16
+34051_14	has_surface_form	French
+34051_13	is_in_sentence	sentence_34051
+34051_13	punct	34051_14
+34051_13	has_surface_form	-
+34051_15	is_in_sentence	sentence_34051
+34051_15	compound	34051_16
+34051_15	has_surface_form	comedy
+34051_17	is_in_sentence	sentence_34051
+34051_17	acl	34051_16
+34051_17	has_surface_form	directed
+34051_18	is_in_sentence	sentence_34051
+34051_18	agent	34051_17
+34051_18	has_surface_form	by
+34051_19	is_in_sentence	sentence_34051
+34051_19	compound	34051_20
+34051_19	has_surface_form	Germain
+34051_19	part_of_entity	Germain Fried
+34051_20	is_in_sentence	sentence_34051
+34051_20	pobj	34051_18
+34051_20	has_surface_form	Fried
+34051_20	part_of_entity	Germain Fried
+34051_21	is_in_sentence	sentence_34051
+34051_21	punct	34051_20
+34051_21	has_surface_form	,
+34051_22	is_in_sentence	sentence_34051
+34051_22	compound	34051_23
+34051_22	has_surface_form	Joe
+34051_23	is_in_sentence	sentence_34051
+34051_23	appos	34051_20
+34051_23	has_surface_form	May
+34051_24	is_in_sentence	sentence_34051
+34051_24	cc	34051_23
+34051_24	has_surface_form	and
+34051_25	is_in_sentence	sentence_34051
+34051_25	compound	34051_26
+34051_25	has_surface_form	Erich
+34051_26	is_in_sentence	sentence_34051
+34051_26	conj	34051_23
+34051_26	has_surface_form	Schmidt
+34051_27	is_in_sentence	sentence_34051
+34051_27	punct	34051_9
+34051_27	has_surface_form	.
+34051_28	is_in_sentence	sentence_34051
+34051_28	dep	34051_9
+34051_28	has_surface_form	
+Honeymoon Trip	surface_form	Honeymoon Trip
+Honeymoon Trip	movie-has-director	Germain Fried
+Germain Fried	surface_form	Germain Fried

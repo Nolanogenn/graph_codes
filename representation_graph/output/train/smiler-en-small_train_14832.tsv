@@ -1,0 +1,41 @@
+14831_0	is_in_sentence	sentence_14831
+14831_0	compound	14831_1
+14831_0	has_surface_form	Berytos
+14831_0	part_of_entity	Berytos Airlines
+14831_1	is_in_sentence	sentence_14831
+14831_1	nsubj	14831_2
+14831_1	has_surface_form	Airlines
+14831_1	part_of_entity	Berytos Airlines
+14831_2	is_in_sentence	sentence_14831
+14831_2	ROOT	14831_2
+14831_2	has_surface_form	was
+14831_3	is_in_sentence	sentence_14831
+14831_3	det	14831_4
+14831_3	has_surface_form	an
+14831_4	is_in_sentence	sentence_14831
+14831_4	attr	14831_2
+14831_4	has_surface_form	airline
+14831_5	is_in_sentence	sentence_14831
+14831_5	acl	14831_4
+14831_5	has_surface_form	based
+14831_6	is_in_sentence	sentence_14831
+14831_6	prep	14831_5
+14831_6	has_surface_form	in
+14831_7	is_in_sentence	sentence_14831
+14831_7	pobj	14831_6
+14831_7	is_entity	Hazmieh
+Hazmieh	surface_form	Hazmieh
+14831_8	is_in_sentence	sentence_14831
+14831_8	punct	14831_7
+14831_8	has_surface_form	,
+14831_9	is_in_sentence	sentence_14831
+14831_9	appos	14831_7
+14831_9	has_surface_form	Lebanon
+14831_10	is_in_sentence	sentence_14831
+14831_10	punct	14831_2
+14831_10	has_surface_form	.
+14831_11	is_in_sentence	sentence_14831
+14831_11	dep	14831_2
+14831_11	has_surface_form	
+Berytos Airlines	surface_form	Berytos Airlines
+Berytos Airlines	headquarters	Hazmieh

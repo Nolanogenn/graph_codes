@@ -1,0 +1,95 @@
+9382_0	is_in_sentence	sentence_9382
+9382_0	det	9382_2
+9382_0	has_surface_form	The
+9382_0	part_of_entity	The Illinois Department of Juvenile Justice
+9382_2	is_in_sentence	sentence_9382
+9382_2	nsubj	9382_9
+9382_2	has_surface_form	Department
+9382_2	part_of_entity	The Illinois Department of Juvenile Justice
+9382_1	is_in_sentence	sentence_9382
+9382_1	compound	9382_2
+9382_1	has_surface_form	Illinois
+9382_1	part_of_entity	The Illinois Department of Juvenile Justice
+9382_9	is_in_sentence	sentence_9382
+9382_9	ROOT	9382_9
+9382_9	has_surface_form	is
+9382_3	is_in_sentence	sentence_9382
+9382_3	prep	9382_2
+9382_3	has_surface_form	of
+9382_3	part_of_entity	The Illinois Department of Juvenile Justice
+9382_4	is_in_sentence	sentence_9382
+9382_4	compound	9382_5
+9382_4	has_surface_form	Juvenile
+9382_4	part_of_entity	The Illinois Department of Juvenile Justice
+9382_5	is_in_sentence	sentence_9382
+9382_5	pobj	9382_3
+9382_5	has_surface_form	Justice
+9382_5	part_of_entity	The Illinois Department of Juvenile Justice
+9382_6	is_in_sentence	sentence_9382
+9382_6	punct	9382_7
+9382_6	has_surface_form	(
+9382_7	is_in_sentence	sentence_9382
+9382_7	appos	9382_2
+9382_7	has_surface_form	IDJJ
+9382_8	is_in_sentence	sentence_9382
+9382_8	punct	9382_7
+9382_8	has_surface_form	)
+9382_10	is_in_sentence	sentence_9382
+9382_10	det	9382_12
+9382_10	has_surface_form	the
+9382_12	is_in_sentence	sentence_9382
+9382_12	attr	9382_9
+9382_12	has_surface_form	department
+9382_12	part_of_entity	code department
+9382_11	is_in_sentence	sentence_9382
+9382_11	compound	9382_12
+9382_11	has_surface_form	code
+9382_11	part_of_entity	code department
+9382_13	is_in_sentence	sentence_9382
+9382_13	prep	9382_12
+9382_13	has_surface_form	of
+9382_14	is_in_sentence	sentence_9382
+9382_14	det	9382_17
+9382_14	has_surface_form	the
+9382_17	is_in_sentence	sentence_9382
+9382_17	pobj	9382_13
+9382_17	has_surface_form	government
+9382_15	is_in_sentence	sentence_9382
+9382_15	compound	9382_17
+9382_15	has_surface_form	Illinois
+9382_16	is_in_sentence	sentence_9382
+9382_16	compound	9382_17
+9382_16	has_surface_form	state
+9382_18	is_in_sentence	sentence_9382
+9382_18	nsubj	9382_19
+9382_18	has_surface_form	that
+9382_19	is_in_sentence	sentence_9382
+9382_19	relcl	9382_12
+9382_19	has_surface_form	acts
+9382_20	is_in_sentence	sentence_9382
+9382_20	prep	9382_19
+9382_20	has_surface_form	as
+9382_21	is_in_sentence	sentence_9382
+9382_21	det	9382_25
+9382_21	has_surface_form	the
+9382_25	is_in_sentence	sentence_9382
+9382_25	pobj	9382_20
+9382_25	has_surface_form	agency
+9382_22	is_in_sentence	sentence_9382
+9382_22	nmod	9382_25
+9382_22	has_surface_form	state
+9382_23	is_in_sentence	sentence_9382
+9382_23	compound	9382_24
+9382_23	has_surface_form	juvenile
+9382_24	is_in_sentence	sentence_9382
+9382_24	compound	9382_25
+9382_24	has_surface_form	corrections
+9382_26	is_in_sentence	sentence_9382
+9382_26	punct	9382_9
+9382_26	has_surface_form	.
+9382_27	is_in_sentence	sentence_9382
+9382_27	dep	9382_27
+9382_27	has_surface_form	
+The Illinois Department of Juvenile Justice	surface_form	The Illinois Department of Juvenile Justice
+The Illinois Department of Juvenile Justice	has-type	code department
+code department	surface_form	code department

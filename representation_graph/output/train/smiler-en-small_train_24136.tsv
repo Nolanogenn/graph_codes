@@ -1,0 +1,58 @@
+24135_0	is_in_sentence	sentence_24135
+24135_0	det	24135_2
+24135_0	has_surface_form	The
+24135_2	is_in_sentence	sentence_24135
+24135_2	nsubj	24135_6
+24135_2	has_surface_form	mountain
+24135_1	is_in_sentence	sentence_24135
+24135_1	amod	24135_2
+24135_1	has_surface_form	highest
+24135_6	is_in_sentence	sentence_24135
+24135_6	ROOT	24135_6
+24135_6	has_surface_form	is
+24135_3	is_in_sentence	sentence_24135
+24135_3	prep	24135_2
+24135_3	has_surface_form	in
+24135_4	is_in_sentence	sentence_24135
+24135_4	compound	24135_5
+24135_4	has_surface_form	Ouray
+24135_4	part_of_entity	Ouray County
+24135_5	is_in_sentence	sentence_24135
+24135_5	pobj	24135_3
+24135_5	has_surface_form	County
+24135_5	part_of_entity	Ouray County
+24135_7	is_in_sentence	sentence_24135
+24135_7	compound	24135_8
+24135_7	has_surface_form	Mount
+24135_7	part_of_entity	Mount Sneffels
+24135_8	is_in_sentence	sentence_24135
+24135_8	attr	24135_6
+24135_8	has_surface_form	Sneffels
+24135_8	part_of_entity	Mount Sneffels
+24135_9	is_in_sentence	sentence_24135
+24135_9	prep	24135_6
+24135_9	has_surface_form	at
+24135_10	is_in_sentence	sentence_24135
+24135_10	nummod	24135_11
+24135_10	has_surface_form	14,150
+24135_11	is_in_sentence	sentence_24135
+24135_11	npadvmod	24135_12
+24135_11	has_surface_form	feet
+24135_12	is_in_sentence	sentence_24135
+24135_12	prep	24135_9
+24135_12	has_surface_form	above
+24135_13	is_in_sentence	sentence_24135
+24135_13	compound	24135_14
+24135_13	has_surface_form	sea
+24135_14	is_in_sentence	sentence_24135
+24135_14	pobj	24135_12
+24135_14	has_surface_form	level
+24135_15	is_in_sentence	sentence_24135
+24135_15	punct	24135_6
+24135_15	has_surface_form	.
+24135_16	is_in_sentence	sentence_24135
+24135_16	dep	24135_6
+24135_16	has_surface_form	
+Ouray County	surface_form	Ouray County
+Ouray County	has-highest-mountain	Mount Sneffels
+Mount Sneffels	surface_form	Mount Sneffels

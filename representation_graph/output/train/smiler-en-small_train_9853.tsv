@@ -1,0 +1,81 @@
+9852_0	is_in_sentence	sentence_9852
+9852_0	amod	9852_1
+9852_0	has_surface_form	Cold
+9852_0	part_of_entity	Cold Blood Warm Heart
+9852_1	is_in_sentence	sentence_9852
+9852_1	nmod	9852_3
+9852_1	has_surface_form	Blood
+9852_1	part_of_entity	Cold Blood Warm Heart
+9852_3	is_in_sentence	sentence_9852
+9852_3	nsubj	9852_7
+9852_3	has_surface_form	Heart
+9852_3	part_of_entity	Cold Blood Warm Heart
+9852_2	is_in_sentence	sentence_9852
+9852_2	compound	9852_3
+9852_2	has_surface_form	Warm
+9852_2	part_of_entity	Cold Blood Warm Heart
+9852_7	is_in_sentence	sentence_9852
+9852_7	ROOT	9852_7
+9852_7	has_surface_form	is
+9852_4	is_in_sentence	sentence_9852
+9852_4	punct	9852_5
+9852_4	has_surface_form	(
+9852_5	is_in_sentence	sentence_9852
+9852_5	appos	9852_3
+9852_5	has_surface_form	天地男兒
+9852_6	is_in_sentence	sentence_9852
+9852_6	punct	9852_5
+9852_6	has_surface_form	)
+9852_8	is_in_sentence	sentence_9852
+9852_8	det	9852_13
+9852_8	has_surface_form	a
+9852_13	is_in_sentence	sentence_9852
+9852_13	attr	9852_7
+9852_13	has_surface_form	thriller
+9852_13	part_of_entity	crime thriller
+9852_9	is_in_sentence	sentence_9852
+9852_9	nummod	9852_13
+9852_9	has_surface_form	1996
+9852_10	is_in_sentence	sentence_9852
+9852_10	compound	9852_11
+9852_10	has_surface_form	Hong
+9852_11	is_in_sentence	sentence_9852
+9852_11	compound	9852_13
+9852_11	has_surface_form	Kong
+9852_12	is_in_sentence	sentence_9852
+9852_12	compound	9852_13
+9852_12	has_surface_form	crime
+9852_12	part_of_entity	crime thriller
+9852_14	is_in_sentence	sentence_9852
+9852_14	cc	9852_13
+9852_14	has_surface_form	and
+9852_15	is_in_sentence	sentence_9852
+9852_15	amod	9852_16
+9852_15	has_surface_form	romantic
+9852_16	is_in_sentence	sentence_9852
+9852_16	compound	9852_18
+9852_16	has_surface_form	drama
+9852_18	is_in_sentence	sentence_9852
+9852_18	attr	9852_7
+9852_18	has_surface_form	series
+9852_17	is_in_sentence	sentence_9852
+9852_17	compound	9852_18
+9852_17	has_surface_form	television
+9852_19	is_in_sentence	sentence_9852
+9852_19	acl	9852_18
+9852_19	has_surface_form	produced
+9852_20	is_in_sentence	sentence_9852
+9852_20	agent	9852_19
+9852_20	has_surface_form	by
+9852_21	is_in_sentence	sentence_9852
+9852_21	pobj	9852_20
+9852_21	has_surface_form	TVB
+9852_22	is_in_sentence	sentence_9852
+9852_22	punct	9852_7
+9852_22	has_surface_form	.
+9852_23	is_in_sentence	sentence_9852
+9852_23	dep	9852_23
+9852_23	has_surface_form	
+Cold Blood Warm Heart	surface_form	Cold Blood Warm Heart
+Cold Blood Warm Heart	has-genre	crime thriller
+crime thriller	surface_form	crime thriller

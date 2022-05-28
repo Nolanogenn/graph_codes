@@ -1,0 +1,62 @@
+8711_0	is_in_sentence	sentence_8711
+8711_0	compound	8711_1
+8711_0	has_surface_form	Albert
+8711_0	part_of_entity	Albert Garzia
+8711_1	is_in_sentence	sentence_8711
+8711_1	nsubj	8711_8
+8711_1	has_surface_form	Garzia
+8711_1	part_of_entity	Albert Garzia
+8711_8	is_in_sentence	sentence_8711
+8711_8	ROOT	8711_8
+8711_8	has_surface_form	is
+8711_2	is_in_sentence	sentence_8711
+8711_2	punct	8711_1
+8711_2	has_surface_form	(
+8711_3	is_in_sentence	sentence_8711
+8711_3	acl	8711_1
+8711_3	has_surface_form	born
+8711_4	is_in_sentence	sentence_8711
+8711_4	nummod	8711_5
+8711_4	has_surface_form	27
+8711_5	is_in_sentence	sentence_8711
+8711_5	npadvmod	8711_3
+8711_5	has_surface_form	July
+8711_6	is_in_sentence	sentence_8711
+8711_6	nummod	8711_5
+8711_6	has_surface_form	1977
+8711_7	is_in_sentence	sentence_8711
+8711_7	punct	8711_1
+8711_7	has_surface_form	)
+8711_9	is_in_sentence	sentence_8711
+8711_9	det	8711_11
+8711_9	has_surface_form	a
+8711_11	is_in_sentence	sentence_8711
+8711_11	attr	8711_8
+8711_11	has_surface_form	composer
+8711_10	is_in_sentence	sentence_8711
+8711_10	amod	8711_11
+8711_10	has_surface_form	Maltese
+8711_12	is_in_sentence	sentence_8711
+8711_12	punct	8711_11
+8711_12	has_surface_form	,
+8711_13	is_in_sentence	sentence_8711
+8711_13	conj	8711_11
+8711_13	is_entity	musician
+musician	surface_form	musician
+8711_14	is_in_sentence	sentence_8711
+8711_14	cc	8711_13
+8711_14	has_surface_form	and
+8711_15	is_in_sentence	sentence_8711
+8711_15	conj	8711_13
+8711_15	has_surface_form	music
+8711_16	is_in_sentence	sentence_8711
+8711_16	appos	8711_11
+8711_16	has_surface_form	teacher
+8711_17	is_in_sentence	sentence_8711
+8711_17	punct	8711_8
+8711_17	has_surface_form	.
+8711_18	is_in_sentence	sentence_8711
+8711_18	dep	8711_8
+8711_18	has_surface_form	
+Albert Garzia	surface_form	Albert Garzia
+Albert Garzia	has-occupation	musician

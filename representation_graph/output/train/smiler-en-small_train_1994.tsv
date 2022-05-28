@@ -1,0 +1,118 @@
+1993_0	is_in_sentence	sentence_1993
+1993_0	det	1993_1
+1993_0	has_surface_form	A
+1993_0	part_of_entity	A Girl from Chicago
+1993_1	is_in_sentence	sentence_1993
+1993_1	nsubj	1993_12
+1993_1	has_surface_form	Girl
+1993_1	part_of_entity	A Girl from Chicago
+1993_12	is_in_sentence	sentence_1993
+1993_12	ROOT	1993_12
+1993_12	has_surface_form	is
+1993_2	is_in_sentence	sentence_1993
+1993_2	prep	1993_1
+1993_2	has_surface_form	from
+1993_2	part_of_entity	A Girl from Chicago
+1993_3	is_in_sentence	sentence_1993
+1993_3	pobj	1993_2
+1993_3	has_surface_form	Chicago
+1993_3	part_of_entity	A Girl from Chicago
+1993_4	is_in_sentence	sentence_1993
+1993_4	punct	1993_5
+1993_4	has_surface_form	(
+1993_5	is_in_sentence	sentence_1993
+1993_5	appos	1993_1
+1993_5	has_surface_form	Spanish
+1993_6	is_in_sentence	sentence_1993
+1993_6	punct	1993_5
+1993_6	has_surface_form	:
+1993_7	is_in_sentence	sentence_1993
+1993_7	compound	1993_10
+1993_7	has_surface_form	Una
+1993_10	is_in_sentence	sentence_1993
+1993_10	appos	1993_5
+1993_10	has_surface_form	Chicago
+1993_8	is_in_sentence	sentence_1993
+1993_8	compound	1993_10
+1993_8	has_surface_form	chica
+1993_9	is_in_sentence	sentence_1993
+1993_9	compound	1993_10
+1993_9	has_surface_form	de
+1993_11	is_in_sentence	sentence_1993
+1993_11	punct	1993_5
+1993_11	has_surface_form	)
+1993_13	is_in_sentence	sentence_1993
+1993_13	det	1993_17
+1993_13	has_surface_form	a
+1993_17	is_in_sentence	sentence_1993
+1993_17	attr	1993_12
+1993_17	has_surface_form	film
+1993_14	is_in_sentence	sentence_1993
+1993_14	nummod	1993_17
+1993_14	has_surface_form	1960
+1993_15	is_in_sentence	sentence_1993
+1993_15	amod	1993_17
+1993_15	has_surface_form	Spanish
+1993_16	is_in_sentence	sentence_1993
+1993_16	compound	1993_17
+1993_16	has_surface_form	comedy
+1993_18	is_in_sentence	sentence_1993
+1993_18	acl	1993_17
+1993_18	has_surface_form	directed
+1993_19	is_in_sentence	sentence_1993
+1993_19	agent	1993_18
+1993_19	has_surface_form	by
+1993_20	is_in_sentence	sentence_1993
+1993_20	compound	1993_22
+1993_20	has_surface_form	Manuel
+1993_20	part_of_entity	Manuel Mur Oti
+1993_22	is_in_sentence	sentence_1993
+1993_22	pobj	1993_19
+1993_22	has_surface_form	Oti
+1993_22	part_of_entity	Manuel Mur Oti
+1993_21	is_in_sentence	sentence_1993
+1993_21	compound	1993_22
+1993_21	has_surface_form	Mur
+1993_21	part_of_entity	Manuel Mur Oti
+1993_23	is_in_sentence	sentence_1993
+1993_23	cc	1993_18
+1993_23	has_surface_form	and
+1993_24	is_in_sentence	sentence_1993
+1993_24	conj	1993_18
+1993_24	has_surface_form	starring
+1993_25	is_in_sentence	sentence_1993
+1993_25	compound	1993_27
+1993_25	has_surface_form	Ana
+1993_27	is_in_sentence	sentence_1993
+1993_27	dobj	1993_24
+1993_27	has_surface_form	Lepe
+1993_26	is_in_sentence	sentence_1993
+1993_26	compound	1993_27
+1993_26	has_surface_form	Bertha
+1993_28	is_in_sentence	sentence_1993
+1993_28	punct	1993_27
+1993_28	has_surface_form	,
+1993_29	is_in_sentence	sentence_1993
+1993_29	compound	1993_30
+1993_29	has_surface_form	Javier
+1993_30	is_in_sentence	sentence_1993
+1993_30	conj	1993_27
+1993_30	has_surface_form	Armet
+1993_31	is_in_sentence	sentence_1993
+1993_31	cc	1993_30
+1993_31	has_surface_form	and
+1993_32	is_in_sentence	sentence_1993
+1993_32	compound	1993_33
+1993_32	has_surface_form	Rafael
+1993_33	is_in_sentence	sentence_1993
+1993_33	conj	1993_30
+1993_33	has_surface_form	Durán
+1993_34	is_in_sentence	sentence_1993
+1993_34	punct	1993_12
+1993_34	has_surface_form	.
+1993_35	is_in_sentence	sentence_1993
+1993_35	dep	1993_12
+1993_35	has_surface_form	
+A Girl from Chicago	surface_form	A Girl from Chicago
+A Girl from Chicago	movie-has-director	Manuel Mur Oti
+Manuel Mur Oti	surface_form	Manuel Mur Oti

@@ -1,0 +1,97 @@
+13976_0	is_in_sentence	sentence_13976
+13976_0	compound	13976_1
+13976_0	has_surface_form	Koyil
+13976_0	part_of_entity	Koyil Kaalai
+13976_1	is_in_sentence	sentence_13976
+13976_1	nsubj	13976_13
+13976_1	has_surface_form	Kaalai
+13976_1	part_of_entity	Koyil Kaalai
+13976_13	is_in_sentence	sentence_13976
+13976_13	ROOT	13976_13
+13976_13	has_surface_form	is
+13976_2	is_in_sentence	sentence_13976
+13976_2	punct	13976_3
+13976_2	has_surface_form	(
+13976_3	is_in_sentence	sentence_13976
+13976_3	appos	13976_1
+13976_3	has_surface_form	Tamil
+13976_4	is_in_sentence	sentence_13976
+13976_4	punct	13976_3
+13976_4	has_surface_form	:
+13976_5	is_in_sentence	sentence_13976
+13976_5	nummod	13976_6
+13976_5	has_surface_form	கோயில்
+13976_6	is_in_sentence	sentence_13976
+13976_6	appos	13976_3
+13976_6	has_surface_form	காளை
+13976_7	is_in_sentence	sentence_13976
+13976_7	punct	13976_13
+13976_7	has_surface_form	;
+13976_8	is_in_sentence	sentence_13976
+13976_8	nsubj	13976_13
+13976_8	has_surface_form	English
+13976_9	is_in_sentence	sentence_13976
+13976_9	punct	13976_8
+13976_9	has_surface_form	:
+13976_10	is_in_sentence	sentence_13976
+13976_10	compound	13976_11
+13976_10	has_surface_form	Temple
+13976_11	is_in_sentence	sentence_13976
+13976_11	appos	13976_8
+13976_11	has_surface_form	Bull
+13976_12	is_in_sentence	sentence_13976
+13976_12	punct	13976_8
+13976_12	has_surface_form	)
+13976_14	is_in_sentence	sentence_13976
+13976_14	det	13976_18
+13976_14	has_surface_form	a
+13976_18	is_in_sentence	sentence_13976
+13976_18	attr	13976_13
+13976_18	has_surface_form	film
+13976_15	is_in_sentence	sentence_13976
+13976_15	nummod	13976_18
+13976_15	has_surface_form	1993
+13976_16	is_in_sentence	sentence_13976
+13976_16	compound	13976_18
+13976_16	has_surface_form	Tamil
+13976_17	is_in_sentence	sentence_13976
+13976_17	compound	13976_18
+13976_17	has_surface_form	drama
+13976_19	is_in_sentence	sentence_13976
+13976_19	punct	13976_18
+13976_19	has_surface_form	,
+13976_20	is_in_sentence	sentence_13976
+13976_20	acl	13976_18
+13976_20	has_surface_form	directed
+13976_21	is_in_sentence	sentence_13976
+13976_21	cc	13976_20
+13976_21	has_surface_form	and
+13976_22	is_in_sentence	sentence_13976
+13976_22	conj	13976_20
+13976_22	has_surface_form	produced
+13976_23	is_in_sentence	sentence_13976
+13976_23	agent	13976_22
+13976_23	has_surface_form	by
+13976_24	is_in_sentence	sentence_13976
+13976_24	compound	13976_25
+13976_24	has_surface_form	Gangai
+13976_24	part_of_entity	Gangai Amaran
+13976_25	is_in_sentence	sentence_13976
+13976_25	pobj	13976_23
+13976_25	has_surface_form	Amaran
+13976_25	part_of_entity	Gangai Amaran
+13976_26	is_in_sentence	sentence_13976
+13976_26	cc	13976_25
+13976_26	has_surface_form	and
+13976_27	is_in_sentence	sentence_13976
+13976_27	conj	13976_25
+13976_27	has_surface_form	Ilaiyaraaja
+13976_28	is_in_sentence	sentence_13976
+13976_28	punct	13976_13
+13976_28	has_surface_form	.
+13976_29	is_in_sentence	sentence_13976
+13976_29	dep	13976_13
+13976_29	has_surface_form	
+Koyil Kaalai	surface_form	Koyil Kaalai
+Koyil Kaalai	movie-has-director	Gangai Amaran
+Gangai Amaran	surface_form	Gangai Amaran

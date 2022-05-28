@@ -1,0 +1,129 @@
+10986_0	is_in_sentence	sentence_10986
+10986_0	compound	10986_1
+10986_0	has_surface_form	Marie
+10986_0	part_of_entity	Marie Clotilde of France
+10986_1	is_in_sentence	sentence_10986
+10986_1	nsubj	10986_25
+10986_1	has_surface_form	Clotilde
+10986_1	part_of_entity	Marie Clotilde of France
+10986_25	is_in_sentence	sentence_10986
+10986_25	ROOT	10986_25
+10986_25	has_surface_form	was
+10986_2	is_in_sentence	sentence_10986
+10986_2	prep	10986_1
+10986_2	has_surface_form	of
+10986_2	part_of_entity	Marie Clotilde of France
+10986_3	is_in_sentence	sentence_10986
+10986_3	pobj	10986_2
+10986_3	has_surface_form	France
+10986_3	part_of_entity	Marie Clotilde of France
+10986_4	is_in_sentence	sentence_10986
+10986_4	punct	10986_8
+10986_4	has_surface_form	(
+10986_8	is_in_sentence	sentence_10986
+10986_8	appos	10986_1
+10986_8	has_surface_form	Xavière
+10986_5	is_in_sentence	sentence_10986
+10986_5	compound	10986_8
+10986_5	has_surface_form	Marie
+10986_6	is_in_sentence	sentence_10986
+10986_6	compound	10986_8
+10986_6	has_surface_form	Adélaïde
+10986_7	is_in_sentence	sentence_10986
+10986_7	compound	10986_8
+10986_7	has_surface_form	Clotilde
+10986_9	is_in_sentence	sentence_10986
+10986_9	punct	10986_8
+10986_9	has_surface_form	;
+10986_10	is_in_sentence	sentence_10986
+10986_10	nummod	10986_11
+10986_10	has_surface_form	23
+10986_11	is_in_sentence	sentence_10986
+10986_11	appos	10986_1
+10986_11	has_surface_form	September
+10986_12	is_in_sentence	sentence_10986
+10986_12	nummod	10986_11
+10986_12	has_surface_form	1759
+10986_13	is_in_sentence	sentence_10986
+10986_13	punct	10986_11
+10986_13	has_surface_form	–
+10986_14	is_in_sentence	sentence_10986
+10986_14	nummod	10986_15
+10986_14	has_surface_form	7
+10986_15	is_in_sentence	sentence_10986
+10986_15	appos	10986_11
+10986_15	has_surface_form	March
+10986_16	is_in_sentence	sentence_10986
+10986_16	nummod	10986_15
+10986_16	has_surface_form	1802
+10986_17	is_in_sentence	sentence_10986
+10986_17	punct	10986_15
+10986_17	has_surface_form	)
+10986_18	is_in_sentence	sentence_10986
+10986_18	punct	10986_11
+10986_18	has_surface_form	,
+10986_19	is_in_sentence	sentence_10986
+10986_19	acl	10986_11
+10986_19	has_surface_form	known
+10986_20	is_in_sentence	sentence_10986
+10986_20	prep	10986_19
+10986_20	has_surface_form	as
+10986_21	is_in_sentence	sentence_10986
+10986_21	pobj	10986_20
+10986_21	has_surface_form	Clotilda
+10986_22	is_in_sentence	sentence_10986
+10986_22	prep	10986_19
+10986_22	has_surface_form	in
+10986_23	is_in_sentence	sentence_10986
+10986_23	pobj	10986_22
+10986_23	has_surface_form	Italy
+10986_24	is_in_sentence	sentence_10986
+10986_24	punct	10986_11
+10986_24	has_surface_form	,
+10986_26	is_in_sentence	sentence_10986
+10986_26	attr	10986_25
+10986_26	has_surface_form	Queen
+10986_27	is_in_sentence	sentence_10986
+10986_27	prep	10986_26
+10986_27	has_surface_form	of
+10986_28	is_in_sentence	sentence_10986
+10986_28	pobj	10986_27
+10986_28	has_surface_form	Sardinia
+10986_29	is_in_sentence	sentence_10986
+10986_29	prep	10986_25
+10986_29	has_surface_form	by
+10986_30	is_in_sentence	sentence_10986
+10986_30	pobj	10986_29
+10986_30	has_surface_form	marriage
+10986_31	is_in_sentence	sentence_10986
+10986_31	prep	10986_30
+10986_31	has_surface_form	to
+10986_32	is_in_sentence	sentence_10986
+10986_32	compound	10986_34
+10986_32	has_surface_form	Charles
+10986_32	part_of_entity	Charles Emmanuel IV of Sardinia
+10986_34	is_in_sentence	sentence_10986
+10986_34	pobj	10986_31
+10986_34	has_surface_form	IV
+10986_34	part_of_entity	Charles Emmanuel IV of Sardinia
+10986_33	is_in_sentence	sentence_10986
+10986_33	compound	10986_34
+10986_33	has_surface_form	Emmanuel
+10986_33	part_of_entity	Charles Emmanuel IV of Sardinia
+10986_35	is_in_sentence	sentence_10986
+10986_35	prep	10986_34
+10986_35	has_surface_form	of
+10986_35	part_of_entity	Charles Emmanuel IV of Sardinia
+10986_36	is_in_sentence	sentence_10986
+10986_36	pobj	10986_35
+10986_36	has_surface_form	Sardinia
+10986_36	part_of_entity	Charles Emmanuel IV of Sardinia
+10986_37	is_in_sentence	sentence_10986
+10986_37	punct	10986_25
+10986_37	has_surface_form	.
+10986_38	is_in_sentence	sentence_10986
+10986_38	dep	10986_38
+10986_38	has_surface_form	
+Marie Clotilde of France	surface_form	Marie Clotilde of France
+Marie Clotilde of France	has-spouse	Charles Emmanuel IV of Sardinia
+Charles Emmanuel IV of Sardinia	surface_form	Charles Emmanuel IV of Sardinia

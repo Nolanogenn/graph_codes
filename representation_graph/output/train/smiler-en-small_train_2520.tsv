@@ -1,0 +1,54 @@
+2519_0	is_in_sentence	sentence_2519
+2519_0	compound	2519_2
+2519_0	has_surface_form	Jefferson
+2519_0	part_of_entity	Jefferson Bingham Miller
+2519_2	is_in_sentence	sentence_2519
+2519_2	nsubj	2519_10
+2519_2	has_surface_form	Miller
+2519_2	part_of_entity	Jefferson Bingham Miller
+2519_1	is_in_sentence	sentence_2519
+2519_1	compound	2519_2
+2519_1	has_surface_form	Bingham
+2519_1	part_of_entity	Jefferson Bingham Miller
+2519_10	is_in_sentence	sentence_2519
+2519_10	ROOT	2519_10
+2519_10	has_surface_form	is
+2519_3	is_in_sentence	sentence_2519
+2519_3	punct	2519_2
+2519_3	has_surface_form	(
+2519_4	is_in_sentence	sentence_2519
+2519_4	acl	2519_2
+2519_4	has_surface_form	born
+2519_5	is_in_sentence	sentence_2519
+2519_5	npadvmod	2519_4
+2519_5	has_surface_form	June
+2519_6	is_in_sentence	sentence_2519
+2519_6	nummod	2519_5
+2519_6	has_surface_form	27
+2519_7	is_in_sentence	sentence_2519
+2519_7	punct	2519_5
+2519_7	has_surface_form	,
+2519_8	is_in_sentence	sentence_2519
+2519_8	nummod	2519_5
+2519_8	has_surface_form	1959
+2519_9	is_in_sentence	sentence_2519
+2519_9	punct	2519_2
+2519_9	has_surface_form	)
+2519_11	is_in_sentence	sentence_2519
+2519_11	det	2519_13
+2519_11	has_surface_form	an
+2519_13	is_in_sentence	sentence_2519
+2519_13	attr	2519_10
+2519_13	has_surface_form	politician
+2519_12	is_in_sentence	sentence_2519
+2519_12	amod	2519_13
+2519_12	is_entity	American
+American	surface_form	American
+2519_14	is_in_sentence	sentence_2519
+2519_14	punct	2519_10
+2519_14	has_surface_form	.
+2519_15	is_in_sentence	sentence_2519
+2519_15	dep	2519_10
+2519_15	has_surface_form	
+Jefferson Bingham Miller	surface_form	Jefferson Bingham Miller
+Jefferson Bingham Miller	has-nationality	American

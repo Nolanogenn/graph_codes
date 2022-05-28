@@ -1,0 +1,67 @@
+8784_0	is_in_sentence	sentence_8784
+8784_0	compound	8784_1
+8784_0	has_surface_form	Range
+8784_0	part_of_entity	Range Law
+8784_1	is_in_sentence	sentence_8784
+8784_1	nsubj	8784_2
+8784_1	has_surface_form	Law
+8784_1	part_of_entity	Range Law
+8784_2	is_in_sentence	sentence_8784
+8784_2	ROOT	8784_2
+8784_2	has_surface_form	is
+8784_3	is_in_sentence	sentence_8784
+8784_3	det	8784_9
+8784_3	has_surface_form	a
+8784_9	is_in_sentence	sentence_8784
+8784_9	attr	8784_2
+8784_9	has_surface_form	film
+8784_4	is_in_sentence	sentence_8784
+8784_4	nummod	8784_9
+8784_4	has_surface_form	1931
+8784_5	is_in_sentence	sentence_8784
+8784_5	amod	8784_9
+8784_5	has_surface_form	Pre
+8784_6	is_in_sentence	sentence_8784
+8784_6	amod	8784_9
+8784_6	has_surface_form	-
+8784_7	is_in_sentence	sentence_8784
+8784_7	amod	8784_9
+8784_7	has_surface_form	Code
+8784_8	is_in_sentence	sentence_8784
+8784_8	amod	8784_9
+8784_8	has_surface_form	Western
+8784_10	is_in_sentence	sentence_8784
+8784_10	acl	8784_9
+8784_10	has_surface_form	directed
+8784_11	is_in_sentence	sentence_8784
+8784_11	agent	8784_10
+8784_11	has_surface_form	by
+8784_12	is_in_sentence	sentence_8784
+8784_12	compound	8784_13
+8784_12	has_surface_form	Phil
+8784_12	part_of_entity	Phil Rosen
+8784_13	is_in_sentence	sentence_8784
+8784_13	pobj	8784_11
+8784_13	has_surface_form	Rosen
+8784_13	part_of_entity	Phil Rosen
+8784_14	is_in_sentence	sentence_8784
+8784_14	cc	8784_10
+8784_14	has_surface_form	and
+8784_15	is_in_sentence	sentence_8784
+8784_15	conj	8784_10
+8784_15	has_surface_form	starring
+8784_16	is_in_sentence	sentence_8784
+8784_16	compound	8784_17
+8784_16	has_surface_form	Ken
+8784_17	is_in_sentence	sentence_8784
+8784_17	dobj	8784_15
+8784_17	has_surface_form	Maynard
+8784_18	is_in_sentence	sentence_8784
+8784_18	punct	8784_2
+8784_18	has_surface_form	.
+8784_19	is_in_sentence	sentence_8784
+8784_19	dep	8784_2
+8784_19	has_surface_form	
+Range Law	surface_form	Range Law
+Range Law	movie-has-director	Phil Rosen
+Phil Rosen	surface_form	Phil Rosen

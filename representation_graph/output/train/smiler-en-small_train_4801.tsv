@@ -1,0 +1,68 @@
+4800_0	is_in_sentence	sentence_4800
+4800_0	compound	4800_2
+4800_0	has_surface_form	William
+4800_0	part_of_entity	William Kevin Donley
+4800_2	is_in_sentence	sentence_4800
+4800_2	nsubj	4800_10
+4800_2	has_surface_form	Donley
+4800_2	part_of_entity	William Kevin Donley
+4800_1	is_in_sentence	sentence_4800
+4800_1	compound	4800_2
+4800_1	has_surface_form	Kevin
+4800_1	part_of_entity	William Kevin Donley
+4800_10	is_in_sentence	sentence_4800
+4800_10	ROOT	4800_10
+4800_10	has_surface_form	is
+4800_3	is_in_sentence	sentence_4800
+4800_3	punct	4800_2
+4800_3	has_surface_form	(
+4800_4	is_in_sentence	sentence_4800
+4800_4	acl	4800_2
+4800_4	has_surface_form	born
+4800_5	is_in_sentence	sentence_4800
+4800_5	npadvmod	4800_4
+4800_5	has_surface_form	July
+4800_6	is_in_sentence	sentence_4800
+4800_6	nummod	4800_5
+4800_6	has_surface_form	4
+4800_7	is_in_sentence	sentence_4800
+4800_7	punct	4800_5
+4800_7	has_surface_form	,
+4800_8	is_in_sentence	sentence_4800
+4800_8	nummod	4800_5
+4800_8	has_surface_form	1951
+4800_9	is_in_sentence	sentence_4800
+4800_9	punct	4800_2
+4800_9	has_surface_form	)
+4800_11	is_in_sentence	sentence_4800
+4800_11	det	4800_14
+4800_11	has_surface_form	an
+4800_14	is_in_sentence	sentence_4800
+4800_14	attr	4800_10
+4800_14	has_surface_form	coach
+4800_14	part_of_entity	football coach
+4800_12	is_in_sentence	sentence_4800
+4800_12	amod	4800_14
+4800_12	has_surface_form	American
+4800_13	is_in_sentence	sentence_4800
+4800_13	compound	4800_14
+4800_13	has_surface_form	football
+4800_13	part_of_entity	football coach
+4800_15	is_in_sentence	sentence_4800
+4800_15	cc	4800_14
+4800_15	has_surface_form	and
+4800_16	is_in_sentence	sentence_4800
+4800_16	amod	4800_17
+4800_16	has_surface_form	former
+4800_17	is_in_sentence	sentence_4800
+4800_17	conj	4800_14
+4800_17	has_surface_form	player
+4800_18	is_in_sentence	sentence_4800
+4800_18	punct	4800_10
+4800_18	has_surface_form	.
+4800_19	is_in_sentence	sentence_4800
+4800_19	dep	4800_19
+4800_19	has_surface_form	
+William Kevin Donley	surface_form	William Kevin Donley
+William Kevin Donley	has-type	football coach
+football coach	surface_form	football coach

@@ -1,0 +1,60 @@
+20992_0	is_in_sentence	sentence_20992
+20992_0	compound	20992_2
+20992_0	has_surface_form	Fruitvale
+20992_0	part_of_entity	Fruitvale School District
+20992_2	is_in_sentence	sentence_20992
+20992_2	nsubj	20992_3
+20992_2	has_surface_form	District
+20992_2	part_of_entity	Fruitvale School District
+20992_1	is_in_sentence	sentence_20992
+20992_1	compound	20992_2
+20992_1	has_surface_form	School
+20992_1	part_of_entity	Fruitvale School District
+20992_3	is_in_sentence	sentence_20992
+20992_3	ROOT	20992_3
+20992_3	has_surface_form	is
+20992_4	is_in_sentence	sentence_20992
+20992_4	det	20992_11
+20992_4	has_surface_form	a
+20992_11	is_in_sentence	sentence_20992
+20992_11	attr	20992_3
+20992_11	has_surface_form	district
+20992_5	is_in_sentence	sentence_20992
+20992_5	npadvmod	20992_7
+20992_5	is_entity	kindergarten
+20992_7	is_in_sentence	sentence_20992
+20992_7	amod	20992_8
+20992_7	has_surface_form	8th
+kindergarten	surface_form	kindergarten
+20992_6	is_in_sentence	sentence_20992
+20992_6	punct	20992_7
+20992_6	has_surface_form	-
+20992_8	is_in_sentence	sentence_20992
+20992_8	nmod	20992_11
+20992_8	has_surface_form	grade
+20992_9	is_in_sentence	sentence_20992
+20992_9	amod	20992_10
+20992_9	has_surface_form	public
+20992_10	is_in_sentence	sentence_20992
+20992_10	compound	20992_11
+20992_10	has_surface_form	school
+20992_12	is_in_sentence	sentence_20992
+20992_12	prep	20992_11
+20992_12	has_surface_form	in
+20992_13	is_in_sentence	sentence_20992
+20992_13	pobj	20992_12
+20992_13	has_surface_form	Fruitvale
+20992_14	is_in_sentence	sentence_20992
+20992_14	punct	20992_13
+20992_14	has_surface_form	,
+20992_15	is_in_sentence	sentence_20992
+20992_15	appos	20992_13
+20992_15	has_surface_form	California
+20992_16	is_in_sentence	sentence_20992
+20992_16	punct	20992_3
+20992_16	has_surface_form	.
+20992_17	is_in_sentence	sentence_20992
+20992_17	dep	20992_17
+20992_17	has_surface_form	
+Fruitvale School District	surface_form	Fruitvale School District
+Fruitvale School District	has-type	kindergarten

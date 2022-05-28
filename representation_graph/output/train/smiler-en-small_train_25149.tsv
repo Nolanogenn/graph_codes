@@ -1,0 +1,70 @@
+25148_0	is_in_sentence	sentence_25148
+25148_0	compound	25148_1
+25148_0	has_surface_form	David
+25148_0	part_of_entity	David Drake
+25148_1	is_in_sentence	sentence_25148
+25148_1	nsubj	25148_9
+25148_1	has_surface_form	Drake
+25148_1	part_of_entity	David Drake
+25148_9	is_in_sentence	sentence_25148
+25148_9	ROOT	25148_9
+25148_9	has_surface_form	is
+25148_2	is_in_sentence	sentence_25148
+25148_2	punct	25148_1
+25148_2	has_surface_form	(
+25148_3	is_in_sentence	sentence_25148
+25148_3	acl	25148_1
+25148_3	has_surface_form	born
+25148_4	is_in_sentence	sentence_25148
+25148_4	npadvmod	25148_3
+25148_4	has_surface_form	September
+25148_5	is_in_sentence	sentence_25148
+25148_5	nummod	25148_4
+25148_5	has_surface_form	24
+25148_6	is_in_sentence	sentence_25148
+25148_6	punct	25148_4
+25148_6	has_surface_form	,
+25148_7	is_in_sentence	sentence_25148
+25148_7	nummod	25148_4
+25148_7	has_surface_form	1945
+25148_8	is_in_sentence	sentence_25148
+25148_8	punct	25148_1
+25148_8	has_surface_form	)
+25148_10	is_in_sentence	sentence_25148
+25148_10	det	25148_12
+25148_10	has_surface_form	an
+25148_12	is_in_sentence	sentence_25148
+25148_12	attr	25148_9
+25148_12	has_surface_form	author
+25148_11	is_in_sentence	sentence_25148
+25148_11	amod	25148_12
+25148_11	has_surface_form	American
+25148_13	is_in_sentence	sentence_25148
+25148_13	prep	25148_12
+25148_13	has_surface_form	of
+25148_14	is_in_sentence	sentence_25148
+25148_14	compound	25148_15
+25148_14	has_surface_form	science
+25148_14	part_of_entity	science fiction
+25148_15	is_in_sentence	sentence_25148
+25148_15	pobj	25148_13
+25148_15	has_surface_form	fiction
+25148_15	part_of_entity	science fiction
+25148_16	is_in_sentence	sentence_25148
+25148_16	cc	25148_15
+25148_16	has_surface_form	and
+25148_17	is_in_sentence	sentence_25148
+25148_17	compound	25148_18
+25148_17	has_surface_form	fantasy
+25148_18	is_in_sentence	sentence_25148
+25148_18	conj	25148_15
+25148_18	has_surface_form	literature
+25148_19	is_in_sentence	sentence_25148
+25148_19	punct	25148_9
+25148_19	has_surface_form	.
+25148_20	is_in_sentence	sentence_25148
+25148_20	dep	25148_20
+25148_20	has_surface_form	
+David Drake	surface_form	David Drake
+David Drake	has-genre	science fiction
+science fiction	surface_form	science fiction

@@ -1,0 +1,86 @@
+1027_0	is_in_sentence	sentence_1027
+1027_0	nsubj	1027_6
+1027_0	has_surface_form	Elevations
+1027_6	is_in_sentence	sentence_1027
+1027_6	ROOT	1027_6
+1027_6	has_surface_form	vary
+1027_1	is_in_sentence	sentence_1027
+1027_1	prep	1027_0
+1027_1	has_surface_form	within
+1027_2	is_in_sentence	sentence_1027
+1027_2	det	1027_5
+1027_2	has_surface_form	the
+1027_5	is_in_sentence	sentence_1027
+1027_5	pobj	1027_1
+1027_5	has_surface_form	District
+1027_5	part_of_entity	Rincon Mountain District
+1027_3	is_in_sentence	sentence_1027
+1027_3	compound	1027_5
+1027_3	has_surface_form	Rincon
+1027_3	part_of_entity	Rincon Mountain District
+1027_4	is_in_sentence	sentence_1027
+1027_4	compound	1027_5
+1027_4	has_surface_form	Mountain
+1027_4	part_of_entity	Rincon Mountain District
+1027_7	is_in_sentence	sentence_1027
+1027_7	prep	1027_6
+1027_7	has_surface_form	from
+1027_8	is_in_sentence	sentence_1027
+1027_8	pobj	1027_7
+1027_8	has_surface_form	2,670
+1027_9	is_in_sentence	sentence_1027
+1027_9	prep	1027_7
+1027_9	has_surface_form	to
+1027_10	is_in_sentence	sentence_1027
+1027_10	nummod	1027_11
+1027_10	has_surface_form	8,666
+1027_11	is_in_sentence	sentence_1027
+1027_11	pobj	1027_9
+1027_11	has_surface_form	feet
+1027_12	is_in_sentence	sentence_1027
+1027_12	punct	1027_11
+1027_12	has_surface_form	(
+1027_13	is_in_sentence	sentence_1027
+1027_13	quantmod	1027_15
+1027_13	has_surface_form	814
+1027_15	is_in_sentence	sentence_1027
+1027_15	nummod	1027_16
+1027_15	has_surface_form	2,641
+1027_14	is_in_sentence	sentence_1027
+1027_14	quantmod	1027_15
+1027_14	has_surface_form	to
+1027_16	is_in_sentence	sentence_1027
+1027_16	appos	1027_11
+1027_16	has_surface_form	m
+1027_17	is_in_sentence	sentence_1027
+1027_17	punct	1027_11
+1027_17	has_surface_form	)
+1027_18	is_in_sentence	sentence_1027
+1027_18	prep	1027_6
+1027_18	has_surface_form	at
+1027_19	is_in_sentence	sentence_1027
+1027_19	det	1027_20
+1027_19	has_surface_form	the
+1027_20	is_in_sentence	sentence_1027
+1027_20	pobj	1027_18
+1027_20	has_surface_form	summit
+1027_21	is_in_sentence	sentence_1027
+1027_21	prep	1027_20
+1027_21	has_surface_form	of
+1027_22	is_in_sentence	sentence_1027
+1027_22	compound	1027_23
+1027_22	has_surface_form	Mica
+1027_22	part_of_entity	Mica Mountain
+1027_23	is_in_sentence	sentence_1027
+1027_23	pobj	1027_21
+1027_23	has_surface_form	Mountain
+1027_23	part_of_entity	Mica Mountain
+1027_24	is_in_sentence	sentence_1027
+1027_24	punct	1027_6
+1027_24	has_surface_form	.
+1027_25	is_in_sentence	sentence_1027
+1027_25	dep	1027_25
+1027_25	has_surface_form	
+Rincon Mountain District	surface_form	Rincon Mountain District
+Rincon Mountain District	has-highest-mountain	Mica Mountain
+Mica Mountain	surface_form	Mica Mountain

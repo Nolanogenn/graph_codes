@@ -1,0 +1,45 @@
+263_0	is_in_sentence	sentence_263
+263_0	compound	263_1
+263_0	has_surface_form	Johnson
+263_0	part_of_entity	Johnson University Florida
+263_1	is_in_sentence	sentence_263
+263_1	compound	263_2
+263_1	has_surface_form	University
+263_1	part_of_entity	Johnson University Florida
+263_2	is_in_sentence	sentence_263
+263_2	nsubj	263_3
+263_2	has_surface_form	Florida
+263_2	part_of_entity	Johnson University Florida
+263_3	is_in_sentence	sentence_263
+263_3	ROOT	263_3
+263_3	has_surface_form	is
+263_4	is_in_sentence	sentence_263
+263_4	det	263_6
+263_4	has_surface_form	a
+263_6	is_in_sentence	sentence_263
+263_6	attr	263_3
+263_6	has_surface_form	university
+263_5	is_in_sentence	sentence_263
+263_5	amod	263_6
+263_5	has_surface_form	private
+263_7	is_in_sentence	sentence_263
+263_7	prep	263_6
+263_7	has_surface_form	in
+263_8	is_in_sentence	sentence_263
+263_8	pobj	263_7
+263_8	has_surface_form	Kissimmee
+263_9	is_in_sentence	sentence_263
+263_9	punct	263_8
+263_9	has_surface_form	,
+263_10	is_in_sentence	sentence_263
+263_10	appos	263_8
+263_10	has_surface_form	Florida
+263_11	is_in_sentence	sentence_263
+263_11	punct	263_3
+263_11	has_surface_form	.
+263_12	is_in_sentence	sentence_263
+263_12	dep	263_12
+263_12	has_surface_form	
+Johnson University Florida	surface_form	Johnson University Florida
+Johnson University Florida	is-where	Kissimmee, Florida
+Kissimmee, Florida	surface_form	Kissimmee, Florida

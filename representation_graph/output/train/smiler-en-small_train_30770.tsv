@@ -1,0 +1,89 @@
+30769_0	is_in_sentence	sentence_30769
+30769_0	compound	30769_1
+30769_0	has_surface_form	Benedicta
+30769_0	part_of_entity	Benedicta Ebbesdotter of Hvide
+30769_1	is_in_sentence	sentence_30769
+30769_1	nsubj	30769_10
+30769_1	has_surface_form	Ebbesdotter
+30769_1	part_of_entity	Benedicta Ebbesdotter of Hvide
+30769_10	is_in_sentence	sentence_30769
+30769_10	ROOT	30769_10
+30769_10	has_surface_form	was
+30769_2	is_in_sentence	sentence_30769
+30769_2	prep	30769_1
+30769_2	has_surface_form	of
+30769_2	part_of_entity	Benedicta Ebbesdotter of Hvide
+30769_3	is_in_sentence	sentence_30769
+30769_3	pobj	30769_2
+30769_3	has_surface_form	Hvide
+30769_3	part_of_entity	Benedicta Ebbesdotter of Hvide
+30769_4	is_in_sentence	sentence_30769
+30769_4	punct	30769_3
+30769_4	has_surface_form	(
+30769_5	is_in_sentence	sentence_30769
+30769_5	appos	30769_3
+30769_5	has_surface_form	c.
+30769_6	is_in_sentence	sentence_30769
+30769_6	nummod	30769_5
+30769_6	has_surface_form	1199
+30769_7	is_in_sentence	sentence_30769
+30769_7	cc	30769_5
+30769_7	has_surface_form	or
+30769_8	is_in_sentence	sentence_30769
+30769_8	conj	30769_5
+30769_8	has_surface_form	1200
+30769_9	is_in_sentence	sentence_30769
+30769_9	punct	30769_3
+30769_9	has_surface_form	)
+30769_11	is_in_sentence	sentence_30769
+30769_11	det	30769_14
+30769_11	has_surface_form	a
+30769_14	is_in_sentence	sentence_30769
+30769_14	attr	30769_10
+30769_14	has_surface_form	consort
+30769_12	is_in_sentence	sentence_30769
+30769_12	amod	30769_14
+30769_12	has_surface_form	Swedish
+30769_13	is_in_sentence	sentence_30769
+30769_13	compound	30769_14
+30769_13	has_surface_form	queen
+30769_15	is_in_sentence	sentence_30769
+30769_15	punct	30769_14
+30769_15	has_surface_form	,
+30769_16	is_in_sentence	sentence_30769
+30769_16	amod	30769_17
+30769_16	has_surface_form	first
+30769_17	is_in_sentence	sentence_30769
+30769_17	appos	30769_14
+30769_17	has_surface_form	consort
+30769_18	is_in_sentence	sentence_30769
+30769_18	prep	30769_17
+30769_18	has_surface_form	of
+30769_19	is_in_sentence	sentence_30769
+30769_19	compound	30769_21
+30769_19	has_surface_form	king
+30769_21	is_in_sentence	sentence_30769
+30769_21	pobj	30769_18
+30769_21	has_surface_form	II
+30769_21	part_of_entity	Sverker II of Sweden
+30769_20	is_in_sentence	sentence_30769
+30769_20	compound	30769_21
+30769_20	has_surface_form	Sverker
+30769_20	part_of_entity	Sverker II of Sweden
+30769_22	is_in_sentence	sentence_30769
+30769_22	prep	30769_21
+30769_22	has_surface_form	of
+30769_22	part_of_entity	Sverker II of Sweden
+30769_23	is_in_sentence	sentence_30769
+30769_23	pobj	30769_22
+30769_23	has_surface_form	Sweden
+30769_23	part_of_entity	Sverker II of Sweden
+30769_24	is_in_sentence	sentence_30769
+30769_24	punct	30769_10
+30769_24	has_surface_form	.
+30769_25	is_in_sentence	sentence_30769
+30769_25	dep	30769_25
+30769_25	has_surface_form	
+Benedicta Ebbesdotter of Hvide	surface_form	Benedicta Ebbesdotter of Hvide
+Benedicta Ebbesdotter of Hvide	has-spouse	Sverker II of Sweden
+Sverker II of Sweden	surface_form	Sverker II of Sweden

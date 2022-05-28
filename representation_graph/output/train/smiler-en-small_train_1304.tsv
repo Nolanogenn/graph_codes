@@ -1,0 +1,52 @@
+1303_0	is_in_sentence	sentence_1303
+1303_0	compound	1303_1
+1303_0	has_surface_form	Master
+1303_0	part_of_entity	Master Kapuram
+1303_1	is_in_sentence	sentence_1303
+1303_1	nsubj	1303_2
+1303_1	has_surface_form	Kapuram
+1303_1	part_of_entity	Master Kapuram
+1303_2	is_in_sentence	sentence_1303
+1303_2	ROOT	1303_2
+1303_2	has_surface_form	is
+1303_3	is_in_sentence	sentence_1303
+1303_3	det	1303_7
+1303_3	has_surface_form	a
+1303_7	is_in_sentence	sentence_1303
+1303_7	attr	1303_2
+1303_7	has_surface_form	film
+1303_7	part_of_entity	drama film
+1303_4	is_in_sentence	sentence_1303
+1303_4	nummod	1303_7
+1303_4	has_surface_form	1990
+1303_5	is_in_sentence	sentence_1303
+1303_5	compound	1303_6
+1303_5	has_surface_form	Telugu
+1303_6	is_in_sentence	sentence_1303
+1303_6	compound	1303_7
+1303_6	has_surface_form	drama
+1303_6	part_of_entity	drama film
+1303_8	is_in_sentence	sentence_1303
+1303_8	punct	1303_7
+1303_8	has_surface_form	,
+1303_9	is_in_sentence	sentence_1303
+1303_9	acl	1303_7
+1303_9	has_surface_form	produced
+1303_10	is_in_sentence	sentence_1303
+1303_10	agent	1303_9
+1303_10	has_surface_form	by
+1303_11	is_in_sentence	sentence_1303
+1303_11	pobj	1303_10
+1303_11	has_surface_form	Vijay
+1303_12	is_in_sentence	sentence_1303
+1303_12	cc	1303_11
+1303_12	has_surface_form	and
+1303_13	is_in_sentence	sentence_1303
+1303_13	conj	1303_11
+1303_13	has_surface_form	Y.
+1303_14	is_in_sentence	sentence_1303
+1303_14	dep	1303_2
+1303_14	has_surface_form	
+Master Kapuram	surface_form	Master Kapuram
+Master Kapuram	has-type	drama film
+drama film	surface_form	drama film

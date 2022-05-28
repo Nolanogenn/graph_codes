@@ -1,0 +1,87 @@
+27034_0	is_in_sentence	sentence_27034
+27034_0	compound	27034_1
+27034_0	has_surface_form	John
+27034_0	part_of_entity	John McEuen
+27034_1	is_in_sentence	sentence_27034
+27034_1	nsubj	27034_10
+27034_1	has_surface_form	McEuen
+27034_1	part_of_entity	John McEuen
+27034_10	is_in_sentence	sentence_27034
+27034_10	ROOT	27034_10
+27034_10	has_surface_form	is
+27034_2	is_in_sentence	sentence_27034
+27034_2	punct	27034_1
+27034_2	has_surface_form	(
+27034_3	is_in_sentence	sentence_27034
+27034_3	acl	27034_1
+27034_3	has_surface_form	born
+27034_4	is_in_sentence	sentence_27034
+27034_4	npadvmod	27034_3
+27034_4	has_surface_form	December
+27034_5	is_in_sentence	sentence_27034
+27034_5	nummod	27034_4
+27034_5	has_surface_form	19
+27034_6	is_in_sentence	sentence_27034
+27034_6	punct	27034_4
+27034_6	has_surface_form	,
+27034_7	is_in_sentence	sentence_27034
+27034_7	nummod	27034_4
+27034_7	has_surface_form	1945
+27034_8	is_in_sentence	sentence_27034
+27034_8	punct	27034_4
+27034_8	has_surface_form	)
+27034_9	is_in_sentence	sentence_27034
+27034_9	punct	27034_1
+27034_9	has_surface_form	,
+27034_11	is_in_sentence	sentence_27034
+27034_11	det	27034_14
+27034_11	has_surface_form	an
+27034_14	is_in_sentence	sentence_27034
+27034_14	attr	27034_10
+27034_14	has_surface_form	musician
+27034_12	is_in_sentence	sentence_27034
+27034_12	amod	27034_14
+27034_12	has_surface_form	American
+27034_13	is_in_sentence	sentence_27034
+27034_13	compound	27034_14
+27034_13	has_surface_form	folk
+27034_15	is_in_sentence	sentence_27034
+27034_15	cc	27034_14
+27034_15	has_surface_form	and
+27034_16	is_in_sentence	sentence_27034
+27034_16	amod	27034_17
+27034_16	has_surface_form	founding
+27034_17	is_in_sentence	sentence_27034
+27034_17	conj	27034_14
+27034_17	has_surface_form	member
+27034_18	is_in_sentence	sentence_27034
+27034_18	prep	27034_17
+27034_18	has_surface_form	of
+27034_19	is_in_sentence	sentence_27034
+27034_19	det	27034_23
+27034_19	has_surface_form	the
+27034_23	is_in_sentence	sentence_27034
+27034_23	pobj	27034_18
+27034_23	has_surface_form	Band
+27034_23	part_of_entity	Nitty Gritty Dirt Band
+27034_20	is_in_sentence	sentence_27034
+27034_20	compound	27034_23
+27034_20	has_surface_form	Nitty
+27034_20	part_of_entity	Nitty Gritty Dirt Band
+27034_21	is_in_sentence	sentence_27034
+27034_21	compound	27034_23
+27034_21	has_surface_form	Gritty
+27034_21	part_of_entity	Nitty Gritty Dirt Band
+27034_22	is_in_sentence	sentence_27034
+27034_22	compound	27034_23
+27034_22	has_surface_form	Dirt
+27034_22	part_of_entity	Nitty Gritty Dirt Band
+27034_24	is_in_sentence	sentence_27034
+27034_24	punct	27034_10
+27034_24	has_surface_form	.
+27034_25	is_in_sentence	sentence_27034
+27034_25	dep	27034_10
+27034_25	has_surface_form	
+John McEuen	surface_form	John McEuen
+John McEuen	is-member-of	Nitty Gritty Dirt Band
+Nitty Gritty Dirt Band	surface_form	Nitty Gritty Dirt Band

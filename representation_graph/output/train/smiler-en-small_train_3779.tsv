@@ -1,0 +1,61 @@
+3778_0	is_in_sentence	sentence_3778
+3778_0	compound	3778_1
+3778_0	has_surface_form	Michael
+3778_0	part_of_entity	Michael Gitlin
+3778_1	is_in_sentence	sentence_3778
+3778_1	nsubj	3778_12
+3778_1	has_surface_form	Gitlin
+3778_1	part_of_entity	Michael Gitlin
+3778_12	is_in_sentence	sentence_3778
+3778_12	ROOT	3778_12
+3778_12	has_surface_form	is
+3778_2	is_in_sentence	sentence_3778
+3778_2	punct	3778_1
+3778_2	has_surface_form	(
+3778_3	is_in_sentence	sentence_3778
+3778_3	amod	3778_1
+3778_3	has_surface_form	born
+3778_4	is_in_sentence	sentence_3778
+3778_4	npadvmod	3778_3
+3778_4	has_surface_form	1943
+3778_5	is_in_sentence	sentence_3778
+3778_5	prep	3778_3
+3778_5	has_surface_form	in
+3778_6	is_in_sentence	sentence_3778
+3778_6	compound	3778_7
+3778_6	has_surface_form	Cape
+3778_6	part_of_entity	Cape Town
+3778_7	is_in_sentence	sentence_3778
+3778_7	pobj	3778_5
+3778_7	has_surface_form	Town
+3778_7	part_of_entity	Cape Town
+3778_8	is_in_sentence	sentence_3778
+3778_8	punct	3778_7
+3778_8	has_surface_form	,
+3778_9	is_in_sentence	sentence_3778
+3778_9	compound	3778_10
+3778_9	has_surface_form	South
+3778_10	is_in_sentence	sentence_3778
+3778_10	appos	3778_7
+3778_10	has_surface_form	Africa
+3778_11	is_in_sentence	sentence_3778
+3778_11	punct	3778_7
+3778_11	has_surface_form	)
+3778_13	is_in_sentence	sentence_3778
+3778_13	det	3778_15
+3778_13	has_surface_form	a
+3778_15	is_in_sentence	sentence_3778
+3778_15	attr	3778_12
+3778_15	has_surface_form	sculptor
+3778_14	is_in_sentence	sentence_3778
+3778_14	amod	3778_15
+3778_14	has_surface_form	contemporary
+3778_16	is_in_sentence	sentence_3778
+3778_16	punct	3778_12
+3778_16	has_surface_form	.
+3778_17	is_in_sentence	sentence_3778
+3778_17	dep	3778_12
+3778_17	has_surface_form	
+Michael Gitlin	surface_form	Michael Gitlin
+Michael Gitlin	birth-place	Cape Town
+Cape Town	surface_form	Cape Town

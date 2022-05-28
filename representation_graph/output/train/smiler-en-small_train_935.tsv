@@ -1,0 +1,107 @@
+934_0	is_in_sentence	sentence_934
+934_0	det	934_2
+934_0	has_surface_form	A
+934_0	part_of_entity	A Crazy Night
+934_2	is_in_sentence	sentence_934
+934_2	npadvmod	934_10
+934_2	has_surface_form	Night
+934_2	part_of_entity	A Crazy Night
+934_1	is_in_sentence	sentence_934
+934_1	compound	934_2
+934_1	has_surface_form	Crazy
+934_1	part_of_entity	A Crazy Night
+934_10	is_in_sentence	sentence_934
+934_10	ROOT	934_10
+934_10	has_surface_form	is
+934_3	is_in_sentence	sentence_934
+934_3	punct	934_10
+934_3	has_surface_form	(
+934_4	is_in_sentence	sentence_934
+934_4	nsubj	934_10
+934_4	has_surface_form	German
+934_5	is_in_sentence	sentence_934
+934_5	punct	934_8
+934_5	has_surface_form	:
+934_8	is_in_sentence	sentence_934
+934_8	appos	934_4
+934_8	has_surface_form	Nacht
+934_6	is_in_sentence	sentence_934
+934_6	compound	934_8
+934_6	has_surface_form	Eine
+934_7	is_in_sentence	sentence_934
+934_7	compound	934_8
+934_7	has_surface_form	tolle
+934_9	is_in_sentence	sentence_934
+934_9	punct	934_4
+934_9	has_surface_form	)
+934_11	is_in_sentence	sentence_934
+934_11	det	934_16
+934_11	has_surface_form	a
+934_16	is_in_sentence	sentence_934
+934_16	attr	934_10
+934_16	has_surface_form	film
+934_12	is_in_sentence	sentence_934
+934_12	nummod	934_16
+934_12	has_surface_form	1927
+934_13	is_in_sentence	sentence_934
+934_13	amod	934_16
+934_13	has_surface_form	German
+934_14	is_in_sentence	sentence_934
+934_14	amod	934_16
+934_14	has_surface_form	silent
+934_15	is_in_sentence	sentence_934
+934_15	compound	934_16
+934_15	has_surface_form	comedy
+934_17	is_in_sentence	sentence_934
+934_17	acl	934_16
+934_17	has_surface_form	directed
+934_18	is_in_sentence	sentence_934
+934_18	agent	934_17
+934_18	has_surface_form	by
+934_19	is_in_sentence	sentence_934
+934_19	compound	934_20
+934_19	has_surface_form	Richard
+934_19	part_of_entity	Richard Oswald
+934_20	is_in_sentence	sentence_934
+934_20	pobj	934_18
+934_20	has_surface_form	Oswald
+934_20	part_of_entity	Richard Oswald
+934_21	is_in_sentence	sentence_934
+934_21	cc	934_17
+934_21	has_surface_form	and
+934_22	is_in_sentence	sentence_934
+934_22	conj	934_17
+934_22	has_surface_form	starring
+934_23	is_in_sentence	sentence_934
+934_23	compound	934_24
+934_23	has_surface_form	Ossi
+934_24	is_in_sentence	sentence_934
+934_24	dobj	934_22
+934_24	has_surface_form	Oswalda
+934_25	is_in_sentence	sentence_934
+934_25	punct	934_24
+934_25	has_surface_form	,
+934_26	is_in_sentence	sentence_934
+934_26	compound	934_27
+934_26	has_surface_form	Harry
+934_27	is_in_sentence	sentence_934
+934_27	conj	934_24
+934_27	has_surface_form	Liedtke
+934_28	is_in_sentence	sentence_934
+934_28	cc	934_27
+934_28	has_surface_form	and
+934_29	is_in_sentence	sentence_934
+934_29	compound	934_30
+934_29	has_surface_form	Henry
+934_30	is_in_sentence	sentence_934
+934_30	conj	934_27
+934_30	has_surface_form	Bender
+934_31	is_in_sentence	sentence_934
+934_31	punct	934_10
+934_31	has_surface_form	.
+934_32	is_in_sentence	sentence_934
+934_32	dep	934_10
+934_32	has_surface_form	
+A Crazy Night	surface_form	A Crazy Night
+A Crazy Night	movie-has-director	Richard Oswald
+Richard Oswald	surface_form	Richard Oswald

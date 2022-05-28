@@ -1,0 +1,53 @@
+4805_0	is_in_sentence	sentence_4805
+4805_0	compound	4805_1
+4805_0	has_surface_form	Corinne
+4805_0	part_of_entity	Corinne Marchand
+4805_1	is_in_sentence	sentence_4805
+4805_1	nsubj	4805_10
+4805_1	has_surface_form	Marchand
+4805_1	part_of_entity	Corinne Marchand
+4805_10	is_in_sentence	sentence_4805
+4805_10	ROOT	4805_10
+4805_10	has_surface_form	is
+4805_2	is_in_sentence	sentence_4805
+4805_2	punct	4805_3
+4805_2	has_surface_form	(
+4805_3	is_in_sentence	sentence_4805
+4805_3	parataxis	4805_1
+4805_3	has_surface_form	born
+4805_4	is_in_sentence	sentence_4805
+4805_4	nummod	4805_5
+4805_4	has_surface_form	4
+4805_5	is_in_sentence	sentence_4805
+4805_5	npadvmod	4805_3
+4805_5	has_surface_form	December
+4805_6	is_in_sentence	sentence_4805
+4805_6	nummod	4805_5
+4805_6	has_surface_form	1931
+4805_7	is_in_sentence	sentence_4805
+4805_7	prep	4805_3
+4805_7	has_surface_form	in
+4805_8	is_in_sentence	sentence_4805
+4805_8	pobj	4805_7
+4805_8	is_entity	Paris
+Paris	surface_form	Paris
+4805_9	is_in_sentence	sentence_4805
+4805_9	punct	4805_3
+4805_9	has_surface_form	)
+4805_11	is_in_sentence	sentence_4805
+4805_11	det	4805_13
+4805_11	has_surface_form	a
+4805_13	is_in_sentence	sentence_4805
+4805_13	attr	4805_10
+4805_13	has_surface_form	actress
+4805_12	is_in_sentence	sentence_4805
+4805_12	amod	4805_13
+4805_12	has_surface_form	French
+4805_14	is_in_sentence	sentence_4805
+4805_14	punct	4805_10
+4805_14	has_surface_form	.
+4805_15	is_in_sentence	sentence_4805
+4805_15	dep	4805_15
+4805_15	has_surface_form	
+Corinne Marchand	surface_form	Corinne Marchand
+Corinne Marchand	birth-place	Paris

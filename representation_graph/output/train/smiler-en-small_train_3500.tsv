@@ -1,0 +1,67 @@
+3499_0	is_in_sentence	sentence_3499
+3499_0	compound	3499_1
+3499_0	has_surface_form	GEMS
+3499_0	part_of_entity	GEMS Education
+3499_1	is_in_sentence	sentence_3499
+3499_1	nsubj	3499_13
+3499_1	has_surface_form	Education
+3499_1	part_of_entity	GEMS Education
+3499_13	is_in_sentence	sentence_3499
+3499_13	ROOT	3499_13
+3499_13	has_surface_form	is
+3499_2	is_in_sentence	sentence_3499
+3499_2	punct	3499_1
+3499_2	has_surface_form	,
+3499_3	is_in_sentence	sentence_3499
+3499_3	acl	3499_1
+3499_3	has_surface_form	founded
+3499_4	is_in_sentence	sentence_3499
+3499_4	prep	3499_3
+3499_4	has_surface_form	as
+3499_5	is_in_sentence	sentence_3499
+3499_5	compound	3499_8
+3499_5	has_surface_form	Global
+3499_8	is_in_sentence	sentence_3499
+3499_8	pobj	3499_4
+3499_8	has_surface_form	Systems
+3499_6	is_in_sentence	sentence_3499
+3499_6	compound	3499_8
+3499_6	has_surface_form	Education
+3499_7	is_in_sentence	sentence_3499
+3499_7	compound	3499_8
+3499_7	has_surface_form	Management
+3499_9	is_in_sentence	sentence_3499
+3499_9	punct	3499_8
+3499_9	has_surface_form	(
+3499_10	is_in_sentence	sentence_3499
+3499_10	appos	3499_8
+3499_10	has_surface_form	GEMS
+3499_11	is_in_sentence	sentence_3499
+3499_11	punct	3499_8
+3499_11	has_surface_form	)
+3499_12	is_in_sentence	sentence_3499
+3499_12	punct	3499_13
+3499_12	has_surface_form	,
+3499_14	is_in_sentence	sentence_3499
+3499_14	det	3499_17
+3499_14	has_surface_form	an
+3499_17	is_in_sentence	sentence_3499
+3499_17	attr	3499_13
+3499_17	has_surface_form	company
+3499_17	part_of_entity	education company
+3499_15	is_in_sentence	sentence_3499
+3499_15	amod	3499_17
+3499_15	has_surface_form	international
+3499_16	is_in_sentence	sentence_3499
+3499_16	compound	3499_17
+3499_16	has_surface_form	education
+3499_16	part_of_entity	education company
+3499_18	is_in_sentence	sentence_3499
+3499_18	punct	3499_13
+3499_18	has_surface_form	.
+3499_19	is_in_sentence	sentence_3499
+3499_19	dep	3499_13
+3499_19	has_surface_form	
+GEMS Education	surface_form	GEMS Education
+GEMS Education	has-type	education company
+education company	surface_form	education company

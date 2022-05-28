@@ -1,0 +1,69 @@
+12208_0	is_in_sentence	sentence_12208
+12208_0	compound	12208_1
+12208_0	has_surface_form	Chuck
+12208_0	part_of_entity	Chuck Norris vs Communism
+12208_1	is_in_sentence	sentence_12208
+12208_1	nsubj	12208_4
+12208_1	has_surface_form	Norris
+12208_1	part_of_entity	Chuck Norris vs Communism
+12208_4	is_in_sentence	sentence_12208
+12208_4	ROOT	12208_4
+12208_4	has_surface_form	is
+12208_2	is_in_sentence	sentence_12208
+12208_2	prep	12208_1
+12208_2	has_surface_form	vs
+12208_2	part_of_entity	Chuck Norris vs Communism
+12208_3	is_in_sentence	sentence_12208
+12208_3	pobj	12208_2
+12208_3	has_surface_form	Communism
+12208_3	part_of_entity	Chuck Norris vs Communism
+12208_5	is_in_sentence	sentence_12208
+12208_5	det	12208_11
+12208_5	has_surface_form	a
+12208_11	is_in_sentence	sentence_12208
+12208_11	attr	12208_4
+12208_11	has_surface_form	film
+12208_6	is_in_sentence	sentence_12208
+12208_6	nummod	12208_11
+12208_6	has_surface_form	2015
+12208_7	is_in_sentence	sentence_12208
+12208_7	amod	12208_9
+12208_7	has_surface_form	Romanian
+12208_9	is_in_sentence	sentence_12208
+12208_9	amod	12208_11
+12208_9	has_surface_form	British
+12208_8	is_in_sentence	sentence_12208
+12208_8	punct	12208_9
+12208_8	has_surface_form	-
+12208_10	is_in_sentence	sentence_12208
+12208_10	compound	12208_11
+12208_10	has_surface_form	documentary
+12208_12	is_in_sentence	sentence_12208
+12208_12	acl	12208_11
+12208_12	has_surface_form	written
+12208_13	is_in_sentence	sentence_12208
+12208_13	cc	12208_12
+12208_13	has_surface_form	and
+12208_14	is_in_sentence	sentence_12208
+12208_14	conj	12208_12
+12208_14	has_surface_form	directed
+12208_15	is_in_sentence	sentence_12208
+12208_15	agent	12208_14
+12208_15	has_surface_form	by
+12208_16	is_in_sentence	sentence_12208
+12208_16	compound	12208_17
+12208_16	has_surface_form	Ilinca
+12208_16	part_of_entity	Ilinca Călugăreanu
+12208_17	is_in_sentence	sentence_12208
+12208_17	pobj	12208_15
+12208_17	has_surface_form	Călugăreanu
+12208_17	part_of_entity	Ilinca Călugăreanu
+12208_18	is_in_sentence	sentence_12208
+12208_18	punct	12208_4
+12208_18	has_surface_form	.
+12208_19	is_in_sentence	sentence_12208
+12208_19	dep	12208_4
+12208_19	has_surface_form	
+Chuck Norris vs Communism	surface_form	Chuck Norris vs Communism
+Chuck Norris vs Communism	movie-has-director	Ilinca Călugăreanu
+Ilinca Călugăreanu	surface_form	Ilinca Călugăreanu

@@ -1,0 +1,56 @@
+1506_0	is_in_sentence	sentence_1506
+1506_0	compound	1506_1
+1506_0	has_surface_form	Themmadi
+1506_0	part_of_entity	Themmadi Velappan
+1506_1	is_in_sentence	sentence_1506
+1506_1	nsubj	1506_2
+1506_1	has_surface_form	Velappan
+1506_1	part_of_entity	Themmadi Velappan
+1506_2	is_in_sentence	sentence_1506
+1506_2	ROOT	1506_2
+1506_2	has_surface_form	is
+1506_3	is_in_sentence	sentence_1506
+1506_3	det	1506_7
+1506_3	has_surface_form	a
+1506_7	is_in_sentence	sentence_1506
+1506_7	attr	1506_2
+1506_7	has_surface_form	film
+1506_4	is_in_sentence	sentence_1506
+1506_4	nummod	1506_7
+1506_4	has_surface_form	1976
+1506_5	is_in_sentence	sentence_1506
+1506_5	amod	1506_7
+1506_5	has_surface_form	Indian
+1506_6	is_in_sentence	sentence_1506
+1506_6	compound	1506_7
+1506_6	has_surface_form	Malayalam
+1506_8	is_in_sentence	sentence_1506
+1506_8	punct	1506_7
+1506_8	has_surface_form	,
+1506_9	is_in_sentence	sentence_1506
+1506_9	acl	1506_7
+1506_9	has_surface_form	directed
+1506_10	is_in_sentence	sentence_1506
+1506_10	agent	1506_9
+1506_10	has_surface_form	by
+1506_11	is_in_sentence	sentence_1506
+1506_11	pobj	1506_10
+1506_11	is_entity	Hariharan
+Hariharan	surface_form	Hariharan
+1506_12	is_in_sentence	sentence_1506
+1506_12	cc	1506_9
+1506_12	has_surface_form	and
+1506_13	is_in_sentence	sentence_1506
+1506_13	conj	1506_9
+1506_13	has_surface_form	produced
+1506_14	is_in_sentence	sentence_1506
+1506_14	agent	1506_13
+1506_14	has_surface_form	by
+1506_15	is_in_sentence	sentence_1506
+1506_15	pobj	1506_14
+1506_15	has_surface_form	G.
+1506_16	is_in_sentence	sentence_1506
+1506_16	dep	1506_14
+1506_16	has_surface_form	
+Themmadi Velappan	surface_form	Themmadi Velappan
+Themmadi Velappan	movie-has-director	Hariharan

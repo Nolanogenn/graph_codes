@@ -1,0 +1,46 @@
+4199_0	is_in_sentence	sentence_4199
+4199_0	compound	4199_1
+4199_0	has_surface_form	Armyan
+4199_0	part_of_entity	Armyan Bernstein
+4199_1	is_in_sentence	sentence_4199
+4199_1	nsubj	4199_2
+4199_1	has_surface_form	Bernstein
+4199_1	part_of_entity	Armyan Bernstein
+4199_2	is_in_sentence	sentence_4199
+4199_2	ROOT	4199_2
+4199_2	has_surface_form	is
+4199_3	is_in_sentence	sentence_4199
+4199_3	det	4199_6
+4199_3	has_surface_form	an
+4199_6	is_in_sentence	sentence_4199
+4199_6	attr	4199_2
+4199_6	has_surface_form	producer
+4199_6	part_of_entity	film producer
+4199_4	is_in_sentence	sentence_4199
+4199_4	amod	4199_6
+4199_4	has_surface_form	American
+4199_5	is_in_sentence	sentence_4199
+4199_5	compound	4199_6
+4199_5	has_surface_form	film
+4199_5	part_of_entity	film producer
+4199_7	is_in_sentence	sentence_4199
+4199_7	punct	4199_6
+4199_7	has_surface_form	,
+4199_8	is_in_sentence	sentence_4199
+4199_8	conj	4199_6
+4199_8	has_surface_form	director
+4199_9	is_in_sentence	sentence_4199
+4199_9	cc	4199_8
+4199_9	has_surface_form	and
+4199_10	is_in_sentence	sentence_4199
+4199_10	conj	4199_8
+4199_10	has_surface_form	screenwriter
+4199_11	is_in_sentence	sentence_4199
+4199_11	punct	4199_2
+4199_11	has_surface_form	.
+4199_12	is_in_sentence	sentence_4199
+4199_12	dep	4199_12
+4199_12	has_surface_form	
+Armyan Bernstein	surface_form	Armyan Bernstein
+Armyan Bernstein	has-occupation	film producer
+film producer	surface_form	film producer

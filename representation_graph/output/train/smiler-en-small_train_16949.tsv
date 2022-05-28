@@ -1,0 +1,59 @@
+16948_0	is_in_sentence	sentence_16948
+16948_0	compound	16948_1
+16948_0	has_surface_form	Lee
+16948_0	part_of_entity	Lee Jamieson
+16948_1	is_in_sentence	sentence_16948
+16948_1	nsubj	16948_8
+16948_1	has_surface_form	Jamieson
+16948_1	part_of_entity	Lee Jamieson
+16948_8	is_in_sentence	sentence_16948
+16948_8	ROOT	16948_8
+16948_8	has_surface_form	is
+16948_2	is_in_sentence	sentence_16948
+16948_2	punct	16948_3
+16948_2	has_surface_form	(
+16948_3	is_in_sentence	sentence_16948
+16948_3	parataxis	16948_1
+16948_3	has_surface_form	born
+16948_4	is_in_sentence	sentence_16948
+16948_4	nummod	16948_5
+16948_4	has_surface_form	14
+16948_5	is_in_sentence	sentence_16948
+16948_5	npadvmod	16948_3
+16948_5	has_surface_form	December
+16948_6	is_in_sentence	sentence_16948
+16948_6	nummod	16948_5
+16948_6	has_surface_form	1977
+16948_7	is_in_sentence	sentence_16948
+16948_7	punct	16948_3
+16948_7	has_surface_form	)
+16948_9	is_in_sentence	sentence_16948
+16948_9	det	16948_11
+16948_9	has_surface_form	an
+16948_11	is_in_sentence	sentence_16948
+16948_11	attr	16948_8
+16948_11	has_surface_form	author
+16948_10	is_in_sentence	sentence_16948
+16948_10	amod	16948_11
+16948_10	has_surface_form	English
+16948_12	is_in_sentence	sentence_16948
+16948_12	punct	16948_11
+16948_12	has_surface_form	,
+16948_13	is_in_sentence	sentence_16948
+16948_13	conj	16948_11
+16948_13	has_surface_form	journalist
+16948_14	is_in_sentence	sentence_16948
+16948_14	cc	16948_13
+16948_14	has_surface_form	and
+16948_15	is_in_sentence	sentence_16948
+16948_15	conj	16948_13
+16948_15	is_entity	lecturer
+lecturer	surface_form	lecturer
+16948_16	is_in_sentence	sentence_16948
+16948_16	punct	16948_8
+16948_16	has_surface_form	.
+16948_17	is_in_sentence	sentence_16948
+16948_17	dep	16948_8
+16948_17	has_surface_form	
+Lee Jamieson	surface_form	Lee Jamieson
+Lee Jamieson	has-occupation	lecturer

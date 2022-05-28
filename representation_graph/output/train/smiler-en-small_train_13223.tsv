@@ -1,0 +1,65 @@
+13222_0	is_in_sentence	sentence_13222
+13222_0	ROOT	13222_0
+13222_0	has_surface_form	Aferim
+13222_1	is_in_sentence	sentence_13222
+13222_1	punct	13222_0
+13222_1	has_surface_form	!
+13222_2	is_in_sentence	sentence_13222
+13222_2	punct	13222_3
+13222_2	has_surface_form	(
+13222_3	is_in_sentence	sentence_13222
+13222_3	nsubj	13222_8
+13222_3	has_surface_form	English
+13222_8	is_in_sentence	sentence_13222
+13222_8	ROOT	13222_8
+13222_8	has_surface_form	is
+13222_4	is_in_sentence	sentence_13222
+13222_4	punct	13222_3
+13222_4	has_surface_form	:
+13222_5	is_in_sentence	sentence_13222
+13222_5	appos	13222_3
+13222_5	has_surface_form	Bravo
+13222_6	is_in_sentence	sentence_13222
+13222_6	punct	13222_5
+13222_6	has_surface_form	!
+13222_7	is_in_sentence	sentence_13222
+13222_7	punct	13222_5
+13222_7	has_surface_form	)
+13222_9	is_in_sentence	sentence_13222
+13222_9	det	13222_13
+13222_9	has_surface_form	a
+13222_13	is_in_sentence	sentence_13222
+13222_13	attr	13222_8
+13222_13	has_surface_form	film
+13222_10	is_in_sentence	sentence_13222
+13222_10	nummod	13222_13
+13222_10	has_surface_form	2015
+13222_11	is_in_sentence	sentence_13222
+13222_11	amod	13222_13
+13222_11	has_surface_form	Romanian
+13222_12	is_in_sentence	sentence_13222
+13222_12	compound	13222_13
+13222_12	has_surface_form	drama
+13222_14	is_in_sentence	sentence_13222
+13222_14	acl	13222_13
+13222_14	has_surface_form	directed
+13222_15	is_in_sentence	sentence_13222
+13222_15	agent	13222_14
+13222_15	has_surface_form	by
+13222_16	is_in_sentence	sentence_13222
+13222_16	compound	13222_17
+13222_16	has_surface_form	Radu
+13222_16	part_of_entity	Radu Jude
+13222_17	is_in_sentence	sentence_13222
+13222_17	pobj	13222_15
+13222_17	has_surface_form	Jude
+13222_17	part_of_entity	Radu Jude
+13222_18	is_in_sentence	sentence_13222
+13222_18	punct	13222_8
+13222_18	has_surface_form	.
+13222_19	is_in_sentence	sentence_13222
+13222_19	dep	13222_8
+13222_19	has_surface_form	
+Aferim!	surface_form	Aferim!
+Aferim!	movie-has-director	Radu Jude
+Radu Jude	surface_form	Radu Jude

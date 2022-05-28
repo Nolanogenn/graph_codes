@@ -1,0 +1,69 @@
+31880_0	is_in_sentence	sentence_31880
+31880_0	det	31880_3
+31880_0	has_surface_form	The
+31880_3	is_in_sentence	sentence_31880
+31880_3	nsubj	31880_4
+31880_3	has_surface_form	Patriots
+31880_3	part_of_entity	George Mason Patriots
+31880_1	is_in_sentence	sentence_31880
+31880_1	compound	31880_3
+31880_1	has_surface_form	George
+31880_1	part_of_entity	George Mason Patriots
+31880_2	is_in_sentence	sentence_31880
+31880_2	compound	31880_3
+31880_2	has_surface_form	Mason
+31880_2	part_of_entity	George Mason Patriots
+31880_4	is_in_sentence	sentence_31880
+31880_4	ROOT	31880_4
+31880_4	has_surface_form	are
+31880_5	is_in_sentence	sentence_31880
+31880_5	det	31880_7
+31880_5	has_surface_form	the
+31880_7	is_in_sentence	sentence_31880
+31880_7	attr	31880_4
+31880_7	has_surface_form	teams
+31880_6	is_in_sentence	sentence_31880
+31880_6	amod	31880_7
+31880_6	has_surface_form	athletic
+31880_8	is_in_sentence	sentence_31880
+31880_8	prep	31880_7
+31880_8	has_surface_form	of
+31880_9	is_in_sentence	sentence_31880
+31880_9	compound	31880_10
+31880_9	has_surface_form	George
+31880_10	is_in_sentence	sentence_31880
+31880_10	compound	31880_11
+31880_10	has_surface_form	Mason
+31880_11	is_in_sentence	sentence_31880
+31880_11	pobj	31880_8
+31880_11	has_surface_form	University
+31880_12	is_in_sentence	sentence_31880
+31880_12	punct	31880_11
+31880_12	has_surface_form	(
+31880_13	is_in_sentence	sentence_31880
+31880_13	appos	31880_11
+31880_13	has_surface_form	GMU
+31880_14	is_in_sentence	sentence_31880
+31880_14	punct	31880_11
+31880_14	has_surface_form	)
+31880_15	is_in_sentence	sentence_31880
+31880_15	prep	31880_11
+31880_15	has_surface_form	of
+31880_16	is_in_sentence	sentence_31880
+31880_16	pobj	31880_15
+31880_16	has_surface_form	Fairfax
+31880_17	is_in_sentence	sentence_31880
+31880_17	punct	31880_16
+31880_17	has_surface_form	,
+31880_18	is_in_sentence	sentence_31880
+31880_18	appos	31880_16
+31880_18	has_surface_form	Virginia
+31880_19	is_in_sentence	sentence_31880
+31880_19	punct	31880_4
+31880_19	has_surface_form	.
+31880_20	is_in_sentence	sentence_31880
+31880_20	dep	31880_20
+31880_20	has_surface_form	
+George Mason Patriots	surface_form	George Mason Patriots
+George Mason Patriots	is-where	Fairfax, Virginia
+Fairfax, Virginia	surface_form	Fairfax, Virginia

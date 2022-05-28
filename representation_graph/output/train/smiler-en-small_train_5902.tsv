@@ -1,0 +1,74 @@
+5901_0	is_in_sentence	sentence_5901
+5901_0	det	5901_3
+5901_0	has_surface_form	The
+5901_3	is_in_sentence	sentence_5901
+5901_3	nsubj	5901_4
+5901_3	has_surface_form	Company
+5901_3	part_of_entity	Cooper Car Company
+5901_1	is_in_sentence	sentence_5901
+5901_1	compound	5901_3
+5901_1	has_surface_form	Cooper
+5901_1	part_of_entity	Cooper Car Company
+5901_2	is_in_sentence	sentence_5901
+5901_2	compound	5901_3
+5901_2	has_surface_form	Car
+5901_2	part_of_entity	Cooper Car Company
+5901_4	is_in_sentence	sentence_5901
+5901_4	ROOT	5901_4
+5901_4	has_surface_form	is
+5901_5	is_in_sentence	sentence_5901
+5901_5	det	5901_7
+5901_5	has_surface_form	a
+5901_7	is_in_sentence	sentence_5901
+5901_7	attr	5901_4
+5901_7	has_surface_form	manufacturer
+5901_6	is_in_sentence	sentence_5901
+5901_6	compound	5901_7
+5901_6	has_surface_form	car
+5901_8	is_in_sentence	sentence_5901
+5901_8	acl	5901_7
+5901_8	has_surface_form	founded
+5901_9	is_in_sentence	sentence_5901
+5901_9	prep	5901_8
+5901_9	has_surface_form	in
+5901_10	is_in_sentence	sentence_5901
+5901_10	pobj	5901_9
+5901_10	has_surface_form	December
+5901_11	is_in_sentence	sentence_5901
+5901_11	nummod	5901_10
+5901_11	has_surface_form	1947
+5901_12	is_in_sentence	sentence_5901
+5901_12	agent	5901_8
+5901_12	has_surface_form	by
+5901_13	is_in_sentence	sentence_5901
+5901_13	compound	5901_14
+5901_13	has_surface_form	Charles
+5901_14	is_in_sentence	sentence_5901
+5901_14	pobj	5901_12
+5901_14	has_surface_form	Cooper
+5901_15	is_in_sentence	sentence_5901
+5901_15	cc	5901_14
+5901_15	has_surface_form	and
+5901_16	is_in_sentence	sentence_5901
+5901_16	poss	5901_17
+5901_16	has_surface_form	his
+5901_17	is_in_sentence	sentence_5901
+5901_17	conj	5901_14
+5901_17	has_surface_form	son
+5901_18	is_in_sentence	sentence_5901
+5901_18	compound	5901_19
+5901_18	has_surface_form	John
+5901_18	part_of_entity	John Cooper
+5901_19	is_in_sentence	sentence_5901
+5901_19	appos	5901_17
+5901_19	has_surface_form	Cooper
+5901_19	part_of_entity	John Cooper
+5901_20	is_in_sentence	sentence_5901
+5901_20	punct	5901_4
+5901_20	has_surface_form	.
+5901_21	is_in_sentence	sentence_5901
+5901_21	dep	5901_4
+5901_21	has_surface_form	
+Cooper Car Company	surface_form	Cooper Car Company
+Cooper Car Company	org-has-founder	John Cooper
+John Cooper	surface_form	John Cooper

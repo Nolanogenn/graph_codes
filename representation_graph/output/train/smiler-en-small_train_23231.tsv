@@ -1,0 +1,42 @@
+23230_0	is_in_sentence	sentence_23230
+23230_0	det	23230_3
+23230_0	has_surface_form	The
+23230_3	is_in_sentence	sentence_23230
+23230_3	nsubj	23230_4
+23230_3	has_surface_form	Memorial
+23230_3	part_of_entity	Wilfrid Laurier Memorial
+23230_1	is_in_sentence	sentence_23230
+23230_1	compound	23230_2
+23230_1	has_surface_form	Wilfrid
+23230_1	part_of_entity	Wilfrid Laurier Memorial
+23230_2	is_in_sentence	sentence_23230
+23230_2	compound	23230_3
+23230_2	has_surface_form	Laurier
+23230_2	part_of_entity	Wilfrid Laurier Memorial
+23230_4	is_in_sentence	sentence_23230
+23230_4	ROOT	23230_4
+23230_4	has_surface_form	is
+23230_5	is_in_sentence	sentence_23230
+23230_5	det	23230_6
+23230_5	has_surface_form	a
+23230_6	is_in_sentence	sentence_23230
+23230_6	attr	23230_4
+23230_6	is_entity	monument
+monument	surface_form	monument
+23230_7	is_in_sentence	sentence_23230
+23230_7	prep	23230_6
+23230_7	has_surface_form	in
+23230_8	is_in_sentence	sentence_23230
+23230_8	compound	23230_9
+23230_8	has_surface_form	Downtown
+23230_9	is_in_sentence	sentence_23230
+23230_9	pobj	23230_7
+23230_9	has_surface_form	Montreal
+23230_10	is_in_sentence	sentence_23230
+23230_10	punct	23230_4
+23230_10	has_surface_form	.
+23230_11	is_in_sentence	sentence_23230
+23230_11	dep	23230_4
+23230_11	has_surface_form	
+Wilfrid Laurier Memorial	surface_form	Wilfrid Laurier Memorial
+Wilfrid Laurier Memorial	has-type	monument

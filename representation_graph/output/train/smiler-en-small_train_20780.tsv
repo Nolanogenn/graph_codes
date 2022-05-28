@@ -1,0 +1,96 @@
+20779_0	is_in_sentence	sentence_20779
+20779_0	poss	20779_1
+20779_0	has_surface_form	My
+20779_0	part_of_entity	My Blood Runs Cold
+20779_1	is_in_sentence	sentence_20779
+20779_1	compound	20779_2
+20779_1	has_surface_form	Blood
+20779_1	part_of_entity	My Blood Runs Cold
+20779_2	is_in_sentence	sentence_20779
+20779_2	compound	20779_3
+20779_2	has_surface_form	Runs
+20779_2	part_of_entity	My Blood Runs Cold
+20779_3	is_in_sentence	sentence_20779
+20779_3	nsubj	20779_4
+20779_3	has_surface_form	Cold
+20779_3	part_of_entity	My Blood Runs Cold
+20779_4	is_in_sentence	sentence_20779
+20779_4	ROOT	20779_4
+20779_4	has_surface_form	is
+20779_5	is_in_sentence	sentence_20779
+20779_5	det	20779_9
+20779_5	has_surface_form	a
+20779_9	is_in_sentence	sentence_20779
+20779_9	attr	20779_4
+20779_9	has_surface_form	film
+20779_6	is_in_sentence	sentence_20779
+20779_6	nummod	20779_9
+20779_6	has_surface_form	1965
+20779_7	is_in_sentence	sentence_20779
+20779_7	amod	20779_9
+20779_7	has_surface_form	American
+20779_8	is_in_sentence	sentence_20779
+20779_8	compound	20779_9
+20779_8	has_surface_form	thriller
+20779_10	is_in_sentence	sentence_20779
+20779_10	acl	20779_9
+20779_10	has_surface_form	starring
+20779_11	is_in_sentence	sentence_20779
+20779_11	compound	20779_12
+20779_11	has_surface_form	Troy
+20779_12	is_in_sentence	sentence_20779
+20779_12	dobj	20779_10
+20779_12	has_surface_form	Donahue
+20779_13	is_in_sentence	sentence_20779
+20779_13	prep	20779_10
+20779_13	has_surface_form	with
+20779_14	is_in_sentence	sentence_20779
+20779_14	compound	20779_15
+20779_14	has_surface_form	Joey
+20779_15	is_in_sentence	sentence_20779
+20779_15	pobj	20779_13
+20779_15	has_surface_form	Heatherton
+20779_16	is_in_sentence	sentence_20779
+20779_16	prep	20779_10
+20779_16	has_surface_form	as
+20779_17	is_in_sentence	sentence_20779
+20779_17	poss	20779_19
+20779_17	has_surface_form	his
+20779_19	is_in_sentence	sentence_20779
+20779_19	pobj	20779_16
+20779_19	has_surface_form	interest
+20779_18	is_in_sentence	sentence_20779
+20779_18	compound	20779_19
+20779_18	has_surface_form	love
+20779_20	is_in_sentence	sentence_20779
+20779_20	punct	20779_4
+20779_20	has_surface_form	.
+20779_21	is_in_sentence	sentence_20779
+20779_21	nsubjpass	20779_23
+20779_21	has_surface_form	It
+20779_23	is_in_sentence	sentence_20779
+20779_23	ROOT	20779_23
+20779_23	has_surface_form	directed
+20779_22	is_in_sentence	sentence_20779
+20779_22	auxpass	20779_23
+20779_22	has_surface_form	was
+20779_24	is_in_sentence	sentence_20779
+20779_24	agent	20779_23
+20779_24	has_surface_form	by
+20779_25	is_in_sentence	sentence_20779
+20779_25	compound	20779_26
+20779_25	has_surface_form	William
+20779_25	part_of_entity	William Conrad
+20779_26	is_in_sentence	sentence_20779
+20779_26	pobj	20779_24
+20779_26	has_surface_form	Conrad
+20779_26	part_of_entity	William Conrad
+20779_27	is_in_sentence	sentence_20779
+20779_27	punct	20779_23
+20779_27	has_surface_form	.
+20779_28	is_in_sentence	sentence_20779
+20779_28	dep	20779_28
+20779_28	has_surface_form	
+My Blood Runs Cold	surface_form	My Blood Runs Cold
+My Blood Runs Cold	movie-has-director	William Conrad
+William Conrad	surface_form	William Conrad

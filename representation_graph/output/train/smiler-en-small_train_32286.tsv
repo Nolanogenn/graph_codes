@@ -1,0 +1,59 @@
+32285_0	is_in_sentence	sentence_32285
+32285_0	compound	32285_1
+32285_0	has_surface_form	Exeter
+32285_0	part_of_entity	Exeter Township Senior High School
+32285_1	is_in_sentence	sentence_32285
+32285_1	compound	32285_4
+32285_1	has_surface_form	Township
+32285_1	part_of_entity	Exeter Township Senior High School
+32285_4	is_in_sentence	sentence_32285
+32285_4	nsubj	32285_5
+32285_4	has_surface_form	School
+32285_4	part_of_entity	Exeter Township Senior High School
+32285_2	is_in_sentence	sentence_32285
+32285_2	compound	32285_4
+32285_2	has_surface_form	Senior
+32285_2	part_of_entity	Exeter Township Senior High School
+32285_3	is_in_sentence	sentence_32285
+32285_3	compound	32285_4
+32285_3	has_surface_form	High
+32285_3	part_of_entity	Exeter Township Senior High School
+32285_5	is_in_sentence	sentence_32285
+32285_5	ROOT	32285_5
+32285_5	has_surface_form	is
+32285_6	is_in_sentence	sentence_32285
+32285_6	det	32285_9
+32285_6	has_surface_form	a
+32285_9	is_in_sentence	sentence_32285
+32285_9	attr	32285_5
+32285_9	has_surface_form	school
+32285_7	is_in_sentence	sentence_32285
+32285_7	amod	32285_9
+32285_7	has_surface_form	public
+32285_8	is_in_sentence	sentence_32285
+32285_8	amod	32285_9
+32285_8	has_surface_form	secondary
+32285_10	is_in_sentence	sentence_32285
+32285_10	acl	32285_9
+32285_10	has_surface_form	located
+32285_11	is_in_sentence	sentence_32285
+32285_11	prep	32285_10
+32285_11	has_surface_form	in
+32285_12	is_in_sentence	sentence_32285
+32285_12	pobj	32285_11
+32285_12	has_surface_form	Reading
+32285_13	is_in_sentence	sentence_32285
+32285_13	punct	32285_12
+32285_13	has_surface_form	,
+32285_14	is_in_sentence	sentence_32285
+32285_14	npadvmod	32285_12
+32285_14	has_surface_form	Pennsylvania
+32285_15	is_in_sentence	sentence_32285
+32285_15	punct	32285_5
+32285_15	has_surface_form	.
+32285_16	is_in_sentence	sentence_32285
+32285_16	dep	32285_5
+32285_16	has_surface_form	
+Exeter Township Senior High School	surface_form	Exeter Township Senior High School
+Exeter Township Senior High School	is-where	Reading, Pennsylvania
+Reading, Pennsylvania	surface_form	Reading, Pennsylvania

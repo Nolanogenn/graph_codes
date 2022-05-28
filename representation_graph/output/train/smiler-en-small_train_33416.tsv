@@ -1,0 +1,55 @@
+33415_0	is_in_sentence	sentence_33415
+33415_0	compound	33415_1
+33415_0	has_surface_form	Kenneth
+33415_0	part_of_entity	Kenneth Fink
+33415_1	is_in_sentence	sentence_33415
+33415_1	nsubj	33415_2
+33415_1	has_surface_form	Fink
+33415_1	part_of_entity	Kenneth Fink
+33415_2	is_in_sentence	sentence_33415
+33415_2	ROOT	33415_2
+33415_2	has_surface_form	is
+33415_3	is_in_sentence	sentence_33415
+33415_3	det	33415_6
+33415_3	has_surface_form	an
+33415_6	is_in_sentence	sentence_33415
+33415_6	attr	33415_2
+33415_6	has_surface_form	director
+33415_4	is_in_sentence	sentence_33415
+33415_4	amod	33415_6
+33415_4	has_surface_form	American
+33415_5	is_in_sentence	sentence_33415
+33415_5	compound	33415_6
+33415_5	has_surface_form	television
+33415_7	is_in_sentence	sentence_33415
+33415_7	cc	33415_6
+33415_7	has_surface_form	and
+33415_8	is_in_sentence	sentence_33415
+33415_8	compound	33415_9
+33415_8	has_surface_form	television
+33415_8	part_of_entity	television producer
+33415_9	is_in_sentence	sentence_33415
+33415_9	conj	33415_6
+33415_9	has_surface_form	producer
+33415_9	part_of_entity	television producer
+33415_10	is_in_sentence	sentence_33415
+33415_10	prep	33415_6
+33415_10	has_surface_form	of
+33415_11	is_in_sentence	sentence_33415
+33415_11	amod	33415_13
+33415_11	has_surface_form	several
+33415_13	is_in_sentence	sentence_33415
+33415_13	pobj	33415_10
+33415_13	has_surface_form	series
+33415_12	is_in_sentence	sentence_33415
+33415_12	compound	33415_13
+33415_12	has_surface_form	television
+33415_14	is_in_sentence	sentence_33415
+33415_14	punct	33415_2
+33415_14	has_surface_form	.
+33415_15	is_in_sentence	sentence_33415
+33415_15	dep	33415_2
+33415_15	has_surface_form	
+Kenneth Fink	surface_form	Kenneth Fink
+Kenneth Fink	has-occupation	television producer
+television producer	surface_form	television producer

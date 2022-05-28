@@ -1,0 +1,52 @@
+703_0	is_in_sentence	sentence_703
+703_0	compound	703_1
+703_0	has_surface_form	Milan
+703_0	part_of_entity	Milan Brown
+703_1	is_in_sentence	sentence_703
+703_1	nsubj	703_7
+703_1	has_surface_form	Brown
+703_1	part_of_entity	Milan Brown
+703_7	is_in_sentence	sentence_703
+703_7	ROOT	703_7
+703_7	has_surface_form	is
+703_2	is_in_sentence	sentence_703
+703_2	punct	703_1
+703_2	has_surface_form	(
+703_3	is_in_sentence	sentence_703
+703_3	acl	703_1
+703_3	has_surface_form	born
+703_4	is_in_sentence	sentence_703
+703_4	npadvmod	703_3
+703_4	has_surface_form	January
+703_5	is_in_sentence	sentence_703
+703_5	nummod	703_4
+703_5	has_surface_form	1971
+703_6	is_in_sentence	sentence_703
+703_6	punct	703_1
+703_6	has_surface_form	)
+703_8	is_in_sentence	sentence_703
+703_8	det	703_12
+703_8	has_surface_form	an
+703_12	is_in_sentence	sentence_703
+703_12	attr	703_7
+703_12	has_surface_form	coach
+703_12	part_of_entity	basketball coach
+703_9	is_in_sentence	sentence_703
+703_9	amod	703_12
+703_9	has_surface_form	American
+703_10	is_in_sentence	sentence_703
+703_10	compound	703_11
+703_10	has_surface_form	college
+703_11	is_in_sentence	sentence_703
+703_11	compound	703_12
+703_11	has_surface_form	basketball
+703_11	part_of_entity	basketball coach
+703_13	is_in_sentence	sentence_703
+703_13	punct	703_7
+703_13	has_surface_form	.
+703_14	is_in_sentence	sentence_703
+703_14	dep	703_14
+703_14	has_surface_form	
+Milan Brown	surface_form	Milan Brown
+Milan Brown	has-type	basketball coach
+basketball coach	surface_form	basketball coach

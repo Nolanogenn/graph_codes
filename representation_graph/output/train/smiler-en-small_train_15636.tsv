@@ -1,0 +1,69 @@
+15635_0	is_in_sentence	sentence_15635
+15635_0	compound	15635_1
+15635_0	has_surface_form	Turtle
+15635_0	part_of_entity	Turtle Mountain Community College
+15635_1	is_in_sentence	sentence_15635
+15635_1	compound	15635_2
+15635_1	has_surface_form	Mountain
+15635_1	part_of_entity	Turtle Mountain Community College
+15635_2	is_in_sentence	sentence_15635
+15635_2	compound	15635_3
+15635_2	has_surface_form	Community
+15635_2	part_of_entity	Turtle Mountain Community College
+15635_3	is_in_sentence	sentence_15635
+15635_3	nsubj	15635_7
+15635_3	has_surface_form	College
+15635_3	part_of_entity	Turtle Mountain Community College
+15635_7	is_in_sentence	sentence_15635
+15635_7	ROOT	15635_7
+15635_7	has_surface_form	is
+15635_4	is_in_sentence	sentence_15635
+15635_4	punct	15635_3
+15635_4	has_surface_form	(
+15635_5	is_in_sentence	sentence_15635
+15635_5	appos	15635_3
+15635_5	has_surface_form	TMCC
+15635_6	is_in_sentence	sentence_15635
+15635_6	punct	15635_3
+15635_6	has_surface_form	)
+15635_8	is_in_sentence	sentence_15635
+15635_8	det	15635_12
+15635_8	has_surface_form	a
+15635_12	is_in_sentence	sentence_15635
+15635_12	attr	15635_7
+15635_12	has_surface_form	college
+15635_12	part_of_entity	community college
+15635_9	is_in_sentence	sentence_15635
+15635_9	amod	15635_12
+15635_9	has_surface_form	private
+15635_10	is_in_sentence	sentence_15635
+15635_10	amod	15635_11
+15635_10	has_surface_form	tribal
+15635_11	is_in_sentence	sentence_15635
+15635_11	compound	15635_12
+15635_11	has_surface_form	community
+15635_11	part_of_entity	community college
+15635_13	is_in_sentence	sentence_15635
+15635_13	prep	15635_12
+15635_13	has_surface_form	in
+15635_14	is_in_sentence	sentence_15635
+15635_14	pobj	15635_13
+15635_14	has_surface_form	Belcourt
+15635_15	is_in_sentence	sentence_15635
+15635_15	punct	15635_14
+15635_15	has_surface_form	,
+15635_16	is_in_sentence	sentence_15635
+15635_16	compound	15635_17
+15635_16	has_surface_form	North
+15635_17	is_in_sentence	sentence_15635
+15635_17	appos	15635_14
+15635_17	has_surface_form	Dakota
+15635_18	is_in_sentence	sentence_15635
+15635_18	punct	15635_7
+15635_18	has_surface_form	.
+15635_19	is_in_sentence	sentence_15635
+15635_19	dep	15635_19
+15635_19	has_surface_form	
+Turtle Mountain Community College	surface_form	Turtle Mountain Community College
+Turtle Mountain Community College	has-type	community college
+community college	surface_form	community college

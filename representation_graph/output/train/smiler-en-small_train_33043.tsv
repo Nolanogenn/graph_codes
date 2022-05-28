@@ -1,0 +1,65 @@
+33042_0	is_in_sentence	sentence_33042
+33042_0	compound	33042_1
+33042_0	has_surface_form	Thathamme
+33042_0	part_of_entity	Thathamme Poocha Poocha
+33042_1	is_in_sentence	sentence_33042
+33042_1	compound	33042_2
+33042_1	has_surface_form	Poocha
+33042_1	part_of_entity	Thathamme Poocha Poocha
+33042_2	is_in_sentence	sentence_33042
+33042_2	nsubj	33042_3
+33042_2	has_surface_form	Poocha
+33042_2	part_of_entity	Thathamme Poocha Poocha
+33042_3	is_in_sentence	sentence_33042
+33042_3	ROOT	33042_3
+33042_3	has_surface_form	is
+33042_4	is_in_sentence	sentence_33042
+33042_4	det	33042_8
+33042_4	has_surface_form	a
+33042_8	is_in_sentence	sentence_33042
+33042_8	attr	33042_3
+33042_8	has_surface_form	film
+33042_5	is_in_sentence	sentence_33042
+33042_5	nummod	33042_8
+33042_5	has_surface_form	1984
+33042_6	is_in_sentence	sentence_33042
+33042_6	amod	33042_8
+33042_6	has_surface_form	Indian
+33042_7	is_in_sentence	sentence_33042
+33042_7	compound	33042_8
+33042_7	has_surface_form	Malayalam
+33042_9	is_in_sentence	sentence_33042
+33042_9	punct	33042_8
+33042_9	has_surface_form	,
+33042_10	is_in_sentence	sentence_33042
+33042_10	acl	33042_8
+33042_10	has_surface_form	directed
+33042_11	is_in_sentence	sentence_33042
+33042_11	agent	33042_10
+33042_11	has_surface_form	by
+33042_12	is_in_sentence	sentence_33042
+33042_12	compound	33042_13
+33042_12	has_surface_form	Balu
+33042_12	part_of_entity	Balu Kiriyath
+33042_13	is_in_sentence	sentence_33042
+33042_13	pobj	33042_11
+33042_13	has_surface_form	Kiriyath
+33042_13	part_of_entity	Balu Kiriyath
+33042_14	is_in_sentence	sentence_33042
+33042_14	cc	33042_10
+33042_14	has_surface_form	and
+33042_15	is_in_sentence	sentence_33042
+33042_15	conj	33042_10
+33042_15	has_surface_form	produced
+33042_16	is_in_sentence	sentence_33042
+33042_16	agent	33042_15
+33042_16	has_surface_form	by
+33042_17	is_in_sentence	sentence_33042
+33042_17	pobj	33042_16
+33042_17	has_surface_form	P.
+33042_18	is_in_sentence	sentence_33042
+33042_18	dep	33042_3
+33042_18	has_surface_form	
+Thathamme Poocha Poocha	surface_form	Thathamme Poocha Poocha
+Thathamme Poocha Poocha	movie-has-director	Balu Kiriyath
+Balu Kiriyath	surface_form	Balu Kiriyath

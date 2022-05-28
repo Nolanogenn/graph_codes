@@ -1,0 +1,58 @@
+32116_0	is_in_sentence	sentence_32116
+32116_0	compound	32116_1
+32116_0	has_surface_form	Marty
+32116_0	part_of_entity	Marty Callner
+32116_1	is_in_sentence	sentence_32116
+32116_1	nsubj	32116_10
+32116_1	has_surface_form	Callner
+32116_1	part_of_entity	Marty Callner
+32116_10	is_in_sentence	sentence_32116
+32116_10	ROOT	32116_10
+32116_10	has_surface_form	is
+32116_2	is_in_sentence	sentence_32116
+32116_2	punct	32116_1
+32116_2	has_surface_form	(
+32116_3	is_in_sentence	sentence_32116
+32116_3	acl	32116_1
+32116_3	has_surface_form	born
+32116_4	is_in_sentence	sentence_32116
+32116_4	npadvmod	32116_3
+32116_4	has_surface_form	1950
+32116_5	is_in_sentence	sentence_32116
+32116_5	prep	32116_3
+32116_5	has_surface_form	in
+32116_6	is_in_sentence	sentence_32116
+32116_6	pobj	32116_5
+32116_6	has_surface_form	Cincinnati
+32116_7	is_in_sentence	sentence_32116
+32116_7	punct	32116_6
+32116_7	has_surface_form	,
+32116_8	is_in_sentence	sentence_32116
+32116_8	appos	32116_6
+32116_8	has_surface_form	Ohio
+32116_9	is_in_sentence	sentence_32116
+32116_9	punct	32116_6
+32116_9	has_surface_form	)
+32116_11	is_in_sentence	sentence_32116
+32116_11	det	32116_14
+32116_11	has_surface_form	an
+32116_14	is_in_sentence	sentence_32116
+32116_14	attr	32116_10
+32116_14	has_surface_form	director
+32116_14	part_of_entity	television director
+32116_12	is_in_sentence	sentence_32116
+32116_12	amod	32116_14
+32116_12	has_surface_form	American
+32116_13	is_in_sentence	sentence_32116
+32116_13	compound	32116_14
+32116_13	has_surface_form	television
+32116_13	part_of_entity	television director
+32116_15	is_in_sentence	sentence_32116
+32116_15	punct	32116_10
+32116_15	has_surface_form	.
+32116_16	is_in_sentence	sentence_32116
+32116_16	dep	32116_10
+32116_16	has_surface_form	
+Marty Callner	surface_form	Marty Callner
+Marty Callner	has-occupation	television director
+television director	surface_form	television director

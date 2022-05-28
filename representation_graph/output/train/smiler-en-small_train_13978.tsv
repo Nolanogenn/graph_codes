@@ -1,0 +1,64 @@
+13977_0	is_in_sentence	sentence_13977
+13977_0	compound	13977_1
+13977_0	has_surface_form	Bill
+13977_0	part_of_entity	Bill Lynch
+13977_1	is_in_sentence	sentence_13977
+13977_1	nsubj	13977_9
+13977_1	has_surface_form	Lynch
+13977_1	part_of_entity	Bill Lynch
+13977_9	is_in_sentence	sentence_13977
+13977_9	ROOT	13977_9
+13977_9	has_surface_form	is
+13977_2	is_in_sentence	sentence_13977
+13977_2	punct	13977_3
+13977_2	has_surface_form	(
+13977_3	is_in_sentence	sentence_13977
+13977_3	acl	13977_1
+13977_3	has_surface_form	born
+13977_4	is_in_sentence	sentence_13977
+13977_4	npadvmod	13977_3
+13977_4	has_surface_form	June
+13977_5	is_in_sentence	sentence_13977
+13977_5	nummod	13977_4
+13977_5	has_surface_form	12
+13977_6	is_in_sentence	sentence_13977
+13977_6	punct	13977_4
+13977_6	has_surface_form	,
+13977_7	is_in_sentence	sentence_13977
+13977_7	nummod	13977_4
+13977_7	has_surface_form	1954
+13977_8	is_in_sentence	sentence_13977
+13977_8	punct	13977_1
+13977_8	has_surface_form	)
+13977_10	is_in_sentence	sentence_13977
+13977_10	det	13977_13
+13977_10	has_surface_form	an
+13977_13	is_in_sentence	sentence_13977
+13977_13	attr	13977_9
+13977_13	has_surface_form	coach
+13977_13	part_of_entity	football coach
+13977_11	is_in_sentence	sentence_13977
+13977_11	amod	13977_13
+13977_11	has_surface_form	American
+13977_12	is_in_sentence	sentence_13977
+13977_12	compound	13977_13
+13977_12	has_surface_form	football
+13977_12	part_of_entity	football coach
+13977_14	is_in_sentence	sentence_13977
+13977_14	cc	13977_13
+13977_14	has_surface_form	and
+13977_15	is_in_sentence	sentence_13977
+13977_15	amod	13977_16
+13977_15	has_surface_form	former
+13977_16	is_in_sentence	sentence_13977
+13977_16	conj	13977_13
+13977_16	has_surface_form	player
+13977_17	is_in_sentence	sentence_13977
+13977_17	punct	13977_9
+13977_17	has_surface_form	.
+13977_18	is_in_sentence	sentence_13977
+13977_18	dep	13977_18
+13977_18	has_surface_form	
+Bill Lynch	surface_form	Bill Lynch
+Bill Lynch	has-type	football coach
+football coach	surface_form	football coach

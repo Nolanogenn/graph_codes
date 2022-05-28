@@ -1,0 +1,58 @@
+28979_0	is_in_sentence	sentence_28979
+28979_0	compound	28979_1
+28979_0	has_surface_form	Pete
+28979_0	part_of_entity	Pete Adrian
+28979_1	is_in_sentence	sentence_28979
+28979_1	nsubj	28979_9
+28979_1	has_surface_form	Adrian
+28979_1	part_of_entity	Pete Adrian
+28979_9	is_in_sentence	sentence_28979
+28979_9	ROOT	28979_9
+28979_9	has_surface_form	is
+28979_2	is_in_sentence	sentence_28979
+28979_2	punct	28979_1
+28979_2	has_surface_form	(
+28979_3	is_in_sentence	sentence_28979
+28979_3	acl	28979_1
+28979_3	has_surface_form	born
+28979_4	is_in_sentence	sentence_28979
+28979_4	npadvmod	28979_3
+28979_4	has_surface_form	August
+28979_5	is_in_sentence	sentence_28979
+28979_5	nummod	28979_4
+28979_5	has_surface_form	11
+28979_6	is_in_sentence	sentence_28979
+28979_6	punct	28979_4
+28979_6	has_surface_form	,
+28979_7	is_in_sentence	sentence_28979
+28979_7	nummod	28979_4
+28979_7	has_surface_form	1948
+28979_8	is_in_sentence	sentence_28979
+28979_8	punct	28979_1
+28979_8	has_surface_form	)
+28979_10	is_in_sentence	sentence_28979
+28979_10	det	28979_14
+28979_10	has_surface_form	a
+28979_14	is_in_sentence	sentence_28979
+28979_14	attr	28979_9
+28979_14	has_surface_form	coach
+28979_14	part_of_entity	football coach
+28979_11	is_in_sentence	sentence_28979
+28979_11	amod	28979_14
+28979_11	has_surface_form	former
+28979_12	is_in_sentence	sentence_28979
+28979_12	amod	28979_14
+28979_12	has_surface_form	American
+28979_13	is_in_sentence	sentence_28979
+28979_13	compound	28979_14
+28979_13	has_surface_form	football
+28979_13	part_of_entity	football coach
+28979_15	is_in_sentence	sentence_28979
+28979_15	punct	28979_9
+28979_15	has_surface_form	.
+28979_16	is_in_sentence	sentence_28979
+28979_16	dep	28979_16
+28979_16	has_surface_form	
+Pete Adrian	surface_form	Pete Adrian
+Pete Adrian	has-type	football coach
+football coach	surface_form	football coach

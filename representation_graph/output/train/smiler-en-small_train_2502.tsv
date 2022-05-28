@@ -1,0 +1,85 @@
+2501_0	is_in_sentence	sentence_2501
+2501_0	compound	2501_1
+2501_0	has_surface_form	Anton
+2501_0	part_of_entity	Anton Samba
+2501_1	is_in_sentence	sentence_2501
+2501_1	nsubj	2501_9
+2501_1	has_surface_form	Samba
+2501_1	part_of_entity	Anton Samba
+2501_9	is_in_sentence	sentence_2501
+2501_9	ROOT	2501_9
+2501_9	has_surface_form	is
+2501_2	is_in_sentence	sentence_2501
+2501_2	punct	2501_1
+2501_2	has_surface_form	(
+2501_3	is_in_sentence	sentence_2501
+2501_3	acl	2501_1
+2501_3	has_surface_form	born
+2501_4	is_in_sentence	sentence_2501
+2501_4	npadvmod	2501_3
+2501_4	has_surface_form	April
+2501_5	is_in_sentence	sentence_2501
+2501_5	nummod	2501_4
+2501_5	has_surface_form	5
+2501_6	is_in_sentence	sentence_2501
+2501_6	punct	2501_4
+2501_6	has_surface_form	,
+2501_7	is_in_sentence	sentence_2501
+2501_7	nummod	2501_4
+2501_7	has_surface_form	1982
+2501_8	is_in_sentence	sentence_2501
+2501_8	punct	2501_1
+2501_8	has_surface_form	)
+2501_10	is_in_sentence	sentence_2501
+2501_10	det	2501_12
+2501_10	has_surface_form	an
+2501_12	is_in_sentence	sentence_2501
+2501_12	attr	2501_9
+2501_12	has_surface_form	footballer
+2501_11	is_in_sentence	sentence_2501
+2501_11	amod	2501_12
+2501_11	has_surface_form	Indonesian
+2501_13	is_in_sentence	sentence_2501
+2501_13	nsubj	2501_15
+2501_13	has_surface_form	that
+2501_15	is_in_sentence	sentence_2501
+2501_15	relcl	2501_12
+2501_15	has_surface_form	plays
+2501_14	is_in_sentence	sentence_2501
+2501_14	advmod	2501_15
+2501_14	has_surface_form	currently
+2501_16	is_in_sentence	sentence_2501
+2501_16	prep	2501_15
+2501_16	has_surface_form	for
+2501_17	is_in_sentence	sentence_2501
+2501_17	compound	2501_18
+2501_17	has_surface_form	PSMS
+2501_17	part_of_entity	PSMS Medan
+2501_18	is_in_sentence	sentence_2501
+2501_18	pobj	2501_16
+2501_18	has_surface_form	Medan
+2501_18	part_of_entity	PSMS Medan
+2501_19	is_in_sentence	sentence_2501
+2501_19	prep	2501_15
+2501_19	has_surface_form	in
+2501_20	is_in_sentence	sentence_2501
+2501_20	det	2501_23
+2501_20	has_surface_form	the
+2501_23	is_in_sentence	sentence_2501
+2501_23	pobj	2501_19
+2501_23	has_surface_form	League
+2501_21	is_in_sentence	sentence_2501
+2501_21	compound	2501_23
+2501_21	has_surface_form	Indonesia
+2501_22	is_in_sentence	sentence_2501
+2501_22	compound	2501_23
+2501_22	has_surface_form	Super
+2501_24	is_in_sentence	sentence_2501
+2501_24	punct	2501_9
+2501_24	has_surface_form	.
+2501_25	is_in_sentence	sentence_2501
+2501_25	dep	2501_9
+2501_25	has_surface_form	
+Anton Samba	surface_form	Anton Samba
+Anton Samba	is-member-of	PSMS Medan
+PSMS Medan	surface_form	PSMS Medan

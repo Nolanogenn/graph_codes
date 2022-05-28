@@ -1,0 +1,78 @@
+13000_0	is_in_sentence	sentence_13000
+13000_0	det	13000_3
+13000_0	has_surface_form	The
+13000_0	part_of_entity	The Great Hospital Mystery
+13000_3	is_in_sentence	sentence_13000
+13000_3	nsubj	13000_4
+13000_3	has_surface_form	Mystery
+13000_3	part_of_entity	The Great Hospital Mystery
+13000_1	is_in_sentence	sentence_13000
+13000_1	compound	13000_3
+13000_1	has_surface_form	Great
+13000_1	part_of_entity	The Great Hospital Mystery
+13000_2	is_in_sentence	sentence_13000
+13000_2	compound	13000_3
+13000_2	has_surface_form	Hospital
+13000_2	part_of_entity	The Great Hospital Mystery
+13000_4	is_in_sentence	sentence_13000
+13000_4	ROOT	13000_4
+13000_4	has_surface_form	is
+13000_5	is_in_sentence	sentence_13000
+13000_5	det	13000_9
+13000_5	has_surface_form	a
+13000_9	is_in_sentence	sentence_13000
+13000_9	attr	13000_4
+13000_9	has_surface_form	film
+13000_6	is_in_sentence	sentence_13000
+13000_6	nummod	13000_9
+13000_6	has_surface_form	1937
+13000_7	is_in_sentence	sentence_13000
+13000_7	amod	13000_9
+13000_7	has_surface_form	American
+13000_8	is_in_sentence	sentence_13000
+13000_8	compound	13000_9
+13000_8	has_surface_form	crime
+13000_10	is_in_sentence	sentence_13000
+13000_10	acl	13000_9
+13000_10	has_surface_form	directed
+13000_11	is_in_sentence	sentence_13000
+13000_11	agent	13000_10
+13000_11	has_surface_form	by
+13000_12	is_in_sentence	sentence_13000
+13000_12	compound	13000_13
+13000_12	has_surface_form	James
+13000_12	part_of_entity	James Tinling
+13000_13	is_in_sentence	sentence_13000
+13000_13	pobj	13000_11
+13000_13	has_surface_form	Tinling
+13000_13	part_of_entity	James Tinling
+13000_14	is_in_sentence	sentence_13000
+13000_14	cc	13000_10
+13000_14	has_surface_form	and
+13000_15	is_in_sentence	sentence_13000
+13000_15	conj	13000_10
+13000_15	has_surface_form	written
+13000_16	is_in_sentence	sentence_13000
+13000_16	agent	13000_15
+13000_16	has_surface_form	by
+13000_17	is_in_sentence	sentence_13000
+13000_17	compound	13000_18
+13000_17	has_surface_form	Bess
+13000_18	is_in_sentence	sentence_13000
+13000_18	pobj	13000_16
+13000_18	has_surface_form	Meredyth
+13000_19	is_in_sentence	sentence_13000
+13000_19	punct	13000_18
+13000_19	has_surface_form	,
+13000_20	is_in_sentence	sentence_13000
+13000_20	compound	13000_21
+13000_20	has_surface_form	William
+13000_21	is_in_sentence	sentence_13000
+13000_21	appos	13000_18
+13000_21	has_surface_form	M.
+13000_22	is_in_sentence	sentence_13000
+13000_22	dep	13000_18
+13000_22	has_surface_form	
+The Great Hospital Mystery	surface_form	The Great Hospital Mystery
+The Great Hospital Mystery	movie-has-director	James Tinling
+James Tinling	surface_form	James Tinling

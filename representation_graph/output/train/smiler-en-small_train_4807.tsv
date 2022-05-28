@@ -1,0 +1,81 @@
+4806_0	is_in_sentence	sentence_4806
+4806_0	compound	4806_1
+4806_0	has_surface_form	Heavy
+4806_0	part_of_entity	Heavy Industries Taxila Education City University
+4806_1	is_in_sentence	sentence_4806
+4806_1	nmod	4806_5
+4806_1	has_surface_form	Industries
+4806_1	part_of_entity	Heavy Industries Taxila Education City University
+4806_5	is_in_sentence	sentence_4806
+4806_5	nsubj	4806_10
+4806_5	has_surface_form	University
+4806_5	part_of_entity	Heavy Industries Taxila Education City University
+4806_2	is_in_sentence	sentence_4806
+4806_2	compound	4806_4
+4806_2	has_surface_form	Taxila
+4806_2	part_of_entity	Heavy Industries Taxila Education City University
+4806_4	is_in_sentence	sentence_4806
+4806_4	compound	4806_5
+4806_4	has_surface_form	City
+4806_4	part_of_entity	Heavy Industries Taxila Education City University
+4806_3	is_in_sentence	sentence_4806
+4806_3	compound	4806_4
+4806_3	has_surface_form	Education
+4806_3	part_of_entity	Heavy Industries Taxila Education City University
+4806_10	is_in_sentence	sentence_4806
+4806_10	ROOT	4806_10
+4806_10	has_surface_form	is
+4806_6	is_in_sentence	sentence_4806
+4806_6	punct	4806_5
+4806_6	has_surface_form	(
+4806_7	is_in_sentence	sentence_4806
+4806_7	compound	4806_8
+4806_7	has_surface_form	HITEC
+4806_8	is_in_sentence	sentence_4806
+4806_8	appos	4806_5
+4806_8	has_surface_form	University
+4806_9	is_in_sentence	sentence_4806
+4806_9	punct	4806_5
+4806_9	has_surface_form	)
+4806_11	is_in_sentence	sentence_4806
+4806_11	det	4806_13
+4806_11	has_surface_form	a
+4806_13	is_in_sentence	sentence_4806
+4806_13	attr	4806_10
+4806_13	has_surface_form	university
+4806_12	is_in_sentence	sentence_4806
+4806_12	amod	4806_13
+4806_12	has_surface_form	private
+4806_14	is_in_sentence	sentence_4806
+4806_14	acl	4806_13
+4806_14	has_surface_form	located
+4806_15	is_in_sentence	sentence_4806
+4806_15	prep	4806_14
+4806_15	has_surface_form	in
+4806_16	is_in_sentence	sentence_4806
+4806_16	compound	4806_17
+4806_16	has_surface_form	Taxila
+4806_17	is_in_sentence	sentence_4806
+4806_17	pobj	4806_15
+4806_17	has_surface_form	Cantonment
+4806_18	is_in_sentence	sentence_4806
+4806_18	punct	4806_17
+4806_18	has_surface_form	,
+4806_19	is_in_sentence	sentence_4806
+4806_19	conj	4806_17
+4806_19	has_surface_form	Punjab
+4806_20	is_in_sentence	sentence_4806
+4806_20	punct	4806_19
+4806_20	has_surface_form	,
+4806_21	is_in_sentence	sentence_4806
+4806_21	npadvmod	4806_19
+4806_21	has_surface_form	Pakistan
+4806_22	is_in_sentence	sentence_4806
+4806_22	punct	4806_10
+4806_22	has_surface_form	.
+4806_23	is_in_sentence	sentence_4806
+4806_23	dep	4806_10
+4806_23	has_surface_form	
+Heavy Industries Taxila Education City University	surface_form	Heavy Industries Taxila Education City University
+Heavy Industries Taxila Education City University	is-where	Taxila Cantonment, Punjab, Pakistan
+Taxila Cantonment, Punjab, Pakistan	surface_form	Taxila Cantonment, Punjab, Pakistan

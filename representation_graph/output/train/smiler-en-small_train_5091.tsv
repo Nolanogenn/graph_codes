@@ -1,0 +1,53 @@
+5090_0	is_in_sentence	sentence_5090
+5090_0	compound	5090_1
+5090_0	has_surface_form	Philip
+5090_0	part_of_entity	Philip Repyngdon
+5090_1	is_in_sentence	sentence_5090
+5090_1	nsubj	5090_9
+5090_1	has_surface_form	Repyngdon
+5090_1	part_of_entity	Philip Repyngdon
+5090_9	is_in_sentence	sentence_5090
+5090_9	ROOT	5090_9
+5090_9	has_surface_form	was
+5090_2	is_in_sentence	sentence_5090
+5090_2	punct	5090_1
+5090_2	has_surface_form	(
+5090_3	is_in_sentence	sentence_5090
+5090_3	appos	5090_1
+5090_3	has_surface_form	c.
+5090_4	is_in_sentence	sentence_5090
+5090_4	nummod	5090_3
+5090_4	has_surface_form	1345
+5090_5	is_in_sentence	sentence_5090
+5090_5	dep	5090_3
+5090_5	has_surface_form	 
+5090_6	is_in_sentence	sentence_5090
+5090_6	punct	5090_1
+5090_6	has_surface_form	–
+5090_7	is_in_sentence	sentence_5090
+5090_7	appos	5090_1
+5090_7	has_surface_form	1424
+5090_8	is_in_sentence	sentence_5090
+5090_8	punct	5090_1
+5090_8	has_surface_form	)
+5090_10	is_in_sentence	sentence_5090
+5090_10	det	5090_11
+5090_10	has_surface_form	a
+5090_11	is_in_sentence	sentence_5090
+5090_11	attr	5090_9
+5090_11	is_entity	bishop
+bishop	surface_form	bishop
+5090_12	is_in_sentence	sentence_5090
+5090_12	cc	5090_11
+5090_12	has_surface_form	and
+5090_13	is_in_sentence	sentence_5090
+5090_13	conj	5090_11
+5090_13	has_surface_form	cardinal
+5090_14	is_in_sentence	sentence_5090
+5090_14	punct	5090_9
+5090_14	has_surface_form	.
+5090_15	is_in_sentence	sentence_5090
+5090_15	dep	5090_15
+5090_15	has_surface_form	
+Philip Repyngdon	surface_form	Philip Repyngdon
+Philip Repyngdon	has-type	bishop

@@ -1,0 +1,124 @@
+5154_0	is_in_sentence	sentence_5154
+5154_0	compound	5154_1
+5154_0	has_surface_form	Miami
+5154_0	part_of_entity	Miami Beach Senior High School
+5154_1	is_in_sentence	sentence_5154
+5154_1	compound	5154_4
+5154_1	has_surface_form	Beach
+5154_1	part_of_entity	Miami Beach Senior High School
+5154_4	is_in_sentence	sentence_5154
+5154_4	nsubj	5154_11
+5154_4	has_surface_form	School
+5154_4	part_of_entity	Miami Beach Senior High School
+5154_2	is_in_sentence	sentence_5154
+5154_2	compound	5154_4
+5154_2	has_surface_form	Senior
+5154_2	part_of_entity	Miami Beach Senior High School
+5154_3	is_in_sentence	sentence_5154
+5154_3	compound	5154_4
+5154_3	has_surface_form	High
+5154_3	part_of_entity	Miami Beach Senior High School
+5154_11	is_in_sentence	sentence_5154
+5154_11	ROOT	5154_11
+5154_11	has_surface_form	is
+5154_5	is_in_sentence	sentence_5154
+5154_5	punct	5154_4
+5154_5	has_surface_form	(
+5154_6	is_in_sentence	sentence_5154
+5154_6	compound	5154_7
+5154_6	has_surface_form	Beach
+5154_7	is_in_sentence	sentence_5154
+5154_7	appos	5154_4
+5154_7	has_surface_form	High
+5154_8	is_in_sentence	sentence_5154
+5154_8	punct	5154_7
+5154_8	has_surface_form	,
+5154_9	is_in_sentence	sentence_5154
+5154_9	npadvmod	5154_7
+5154_9	has_surface_form	MBSH
+5154_10	is_in_sentence	sentence_5154
+5154_10	punct	5154_4
+5154_10	has_surface_form	)
+5154_12	is_in_sentence	sentence_5154
+5154_12	det	5154_14
+5154_12	has_surface_form	a
+5154_14	is_in_sentence	sentence_5154
+5154_14	attr	5154_11
+5154_14	has_surface_form	school
+5154_13	is_in_sentence	sentence_5154
+5154_13	amod	5154_14
+5154_13	has_surface_form	secondary
+5154_15	is_in_sentence	sentence_5154
+5154_15	acl	5154_14
+5154_15	has_surface_form	located
+5154_16	is_in_sentence	sentence_5154
+5154_16	prep	5154_15
+5154_16	has_surface_form	at
+5154_17	is_in_sentence	sentence_5154
+5154_17	pobj	5154_16
+5154_17	has_surface_form	2231
+5154_17	part_of_entity	2231 Prairie Avenue Miami Beach
+5154_18	is_in_sentence	sentence_5154
+5154_18	compound	5154_19
+5154_18	has_surface_form	Prairie
+5154_18	part_of_entity	2231 Prairie Avenue Miami Beach
+5154_19	is_in_sentence	sentence_5154
+5154_19	compound	5154_21
+5154_19	has_surface_form	Avenue
+5154_19	part_of_entity	2231 Prairie Avenue Miami Beach
+5154_21	is_in_sentence	sentence_5154
+5154_21	pobj	5154_16
+5154_21	has_surface_form	Beach
+5154_21	part_of_entity	2231 Prairie Avenue Miami Beach
+5154_20	is_in_sentence	sentence_5154
+5154_20	compound	5154_21
+5154_20	has_surface_form	Miami
+5154_20	part_of_entity	2231 Prairie Avenue Miami Beach
+5154_22	is_in_sentence	sentence_5154
+5154_22	punct	5154_21
+5154_22	has_surface_form	,
+5154_23	is_in_sentence	sentence_5154
+5154_23	appos	5154_21
+5154_23	has_surface_form	Florida
+5154_24	is_in_sentence	sentence_5154
+5154_24	punct	5154_21
+5154_24	has_surface_form	,
+5154_25	is_in_sentence	sentence_5154
+5154_25	prep	5154_11
+5154_25	has_surface_form	across
+5154_26	is_in_sentence	sentence_5154
+5154_26	prep	5154_25
+5154_26	has_surface_form	from
+5154_27	is_in_sentence	sentence_5154
+5154_27	det	5154_31
+5154_27	has_surface_form	the
+5154_31	is_in_sentence	sentence_5154
+5154_31	pobj	5154_26
+5154_31	has_surface_form	Center
+5154_28	is_in_sentence	sentence_5154
+5154_28	compound	5154_29
+5154_28	has_surface_form	Miami
+5154_29	is_in_sentence	sentence_5154
+5154_29	compound	5154_31
+5154_29	has_surface_form	Beach
+5154_30	is_in_sentence	sentence_5154
+5154_30	compound	5154_31
+5154_30	has_surface_form	Convention
+5154_32	is_in_sentence	sentence_5154
+5154_32	cc	5154_31
+5154_32	has_surface_form	and
+5154_33	is_in_sentence	sentence_5154
+5154_33	compound	5154_34
+5154_33	has_surface_form	Botanical
+5154_34	is_in_sentence	sentence_5154
+5154_34	conj	5154_31
+5154_34	has_surface_form	Garden
+5154_35	is_in_sentence	sentence_5154
+5154_35	punct	5154_11
+5154_35	has_surface_form	.
+5154_36	is_in_sentence	sentence_5154
+5154_36	dep	5154_36
+5154_36	has_surface_form	
+Miami Beach Senior High School	surface_form	Miami Beach Senior High School
+Miami Beach Senior High School	is-where	2231 Prairie Avenue Miami Beach
+2231 Prairie Avenue Miami Beach	surface_form	2231 Prairie Avenue Miami Beach

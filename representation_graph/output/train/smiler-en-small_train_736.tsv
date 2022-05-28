@@ -1,0 +1,99 @@
+735_0	is_in_sentence	sentence_735
+735_0	compound	735_2
+735_0	has_surface_form	Anna
+735_0	part_of_entity	Anna van Egmont
+735_2	is_in_sentence	sentence_735
+735_2	dep	735_11
+735_2	has_surface_form	Egmont
+735_2	part_of_entity	Anna van Egmont
+735_1	is_in_sentence	sentence_735
+735_1	compound	735_2
+735_1	has_surface_form	van
+735_1	part_of_entity	Anna van Egmont
+735_11	is_in_sentence	sentence_735
+735_11	ROOT	735_11
+735_11	has_surface_form	was
+735_3	is_in_sentence	sentence_735
+735_3	punct	735_4
+735_3	has_surface_form	(
+735_4	is_in_sentence	sentence_735
+735_4	appos	735_2
+735_4	has_surface_form	March
+735_5	is_in_sentence	sentence_735
+735_5	nummod	735_4
+735_5	has_surface_form	1533
+735_6	is_in_sentence	sentence_735
+735_6	punct	735_2
+735_6	has_surface_form	–
+735_7	is_in_sentence	sentence_735
+735_7	nummod	735_8
+735_7	has_surface_form	24
+735_8	is_in_sentence	sentence_735
+735_8	nsubj	735_11
+735_8	has_surface_form	March
+735_9	is_in_sentence	sentence_735
+735_9	nummod	735_8
+735_9	has_surface_form	1558
+735_10	is_in_sentence	sentence_735
+735_10	punct	735_8
+735_10	has_surface_form	)
+735_12	is_in_sentence	sentence_735
+735_12	det	735_14
+735_12	has_surface_form	a
+735_14	is_in_sentence	sentence_735
+735_14	attr	735_11
+735_14	has_surface_form	heiress
+735_13	is_in_sentence	sentence_735
+735_13	amod	735_14
+735_13	has_surface_form	Dutch
+735_15	is_in_sentence	sentence_735
+735_15	nsubj	735_16
+735_15	has_surface_form	who
+735_16	is_in_sentence	sentence_735
+735_16	relcl	735_14
+735_16	has_surface_form	became
+735_17	is_in_sentence	sentence_735
+735_17	det	735_19
+735_17	has_surface_form	the
+735_19	is_in_sentence	sentence_735
+735_19	attr	735_16
+735_19	has_surface_form	wife
+735_18	is_in_sentence	sentence_735
+735_18	amod	735_19
+735_18	has_surface_form	first
+735_20	is_in_sentence	sentence_735
+735_20	prep	735_19
+735_20	has_surface_form	of
+735_21	is_in_sentence	sentence_735
+735_21	pobj	735_20
+735_21	has_surface_form	William
+735_21	part_of_entity	William the Silent
+735_22	is_in_sentence	sentence_735
+735_22	det	735_23
+735_22	has_surface_form	the
+735_22	part_of_entity	William the Silent
+735_23	is_in_sentence	sentence_735
+735_23	appos	735_21
+735_23	has_surface_form	Silent
+735_23	part_of_entity	William the Silent
+735_24	is_in_sentence	sentence_735
+735_24	punct	735_23
+735_24	has_surface_form	,
+735_25	is_in_sentence	sentence_735
+735_25	appos	735_21
+735_25	has_surface_form	Prince
+735_26	is_in_sentence	sentence_735
+735_26	prep	735_25
+735_26	has_surface_form	of
+735_27	is_in_sentence	sentence_735
+735_27	pobj	735_26
+735_27	has_surface_form	Orange
+735_28	is_in_sentence	sentence_735
+735_28	punct	735_11
+735_28	has_surface_form	.
+735_29	is_in_sentence	sentence_735
+735_29	dep	735_11
+735_29	has_surface_form	
+Anna van Egmont	surface_form	Anna van Egmont
+Anna van Egmont	has-spouse	William the Silent
+William the Silent	surface_form	William the Silent

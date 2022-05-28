@@ -1,0 +1,67 @@
+1331_0	is_in_sentence	sentence_1331
+1331_0	compound	1331_1
+1331_0	has_surface_form	Takayuki
+1331_0	part_of_entity	Takayuki Inoue
+1331_1	is_in_sentence	sentence_1331
+1331_1	nsubj	1331_8
+1331_1	has_surface_form	Inoue
+1331_1	part_of_entity	Takayuki Inoue
+1331_8	is_in_sentence	sentence_1331
+1331_8	ROOT	1331_8
+1331_8	has_surface_form	is
+1331_2	is_in_sentence	sentence_1331
+1331_2	punct	1331_3
+1331_2	has_surface_form	(
+1331_3	is_in_sentence	sentence_1331
+1331_3	appos	1331_1
+1331_3	has_surface_form	井上隆之
+1331_4	is_in_sentence	sentence_1331
+1331_4	punct	1331_3
+1331_4	has_surface_form	,
+1331_5	is_in_sentence	sentence_1331
+1331_5	compound	1331_6
+1331_5	has_surface_form	Inoue
+1331_6	is_in_sentence	sentence_1331
+1331_6	npadvmod	1331_3
+1331_6	has_surface_form	Takayuki
+1331_7	is_in_sentence	sentence_1331
+1331_7	punct	1331_3
+1331_7	has_surface_form	)
+1331_9	is_in_sentence	sentence_1331
+1331_9	det	1331_12
+1331_9	has_surface_form	a
+1331_12	is_in_sentence	sentence_1331
+1331_12	attr	1331_8
+1331_12	has_surface_form	actor
+1331_12	part_of_entity	voice actor
+1331_10	is_in_sentence	sentence_1331
+1331_10	amod	1331_12
+1331_10	has_surface_form	Japanese
+1331_11	is_in_sentence	sentence_1331
+1331_11	compound	1331_12
+1331_11	has_surface_form	voice
+1331_11	part_of_entity	voice actor
+1331_13	is_in_sentence	sentence_1331
+1331_13	nsubj	1331_14
+1331_13	has_surface_form	who
+1331_14	is_in_sentence	sentence_1331
+1331_14	relcl	1331_12
+1331_14	has_surface_form	voices
+1331_15	is_in_sentence	sentence_1331
+1331_15	amod	1331_17
+1331_15	has_surface_form	various
+1331_17	is_in_sentence	sentence_1331
+1331_17	dobj	1331_14
+1331_17	has_surface_form	characters
+1331_16	is_in_sentence	sentence_1331
+1331_16	compound	1331_17
+1331_16	has_surface_form	anime
+1331_18	is_in_sentence	sentence_1331
+1331_18	punct	1331_8
+1331_18	has_surface_form	.
+1331_19	is_in_sentence	sentence_1331
+1331_19	dep	1331_8
+1331_19	has_surface_form	
+Takayuki Inoue	surface_form	Takayuki Inoue
+Takayuki Inoue	has-occupation	voice actor
+voice actor	surface_form	voice actor

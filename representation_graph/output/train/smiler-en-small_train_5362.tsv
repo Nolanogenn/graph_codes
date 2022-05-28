@@ -1,0 +1,91 @@
+5361_0	is_in_sentence	sentence_5361
+5361_0	nummod	5361_1
+5361_0	has_surface_form	3
+5361_0	part_of_entity	3 Deewarein
+5361_1	is_in_sentence	sentence_5361
+5361_1	ROOT	5361_1
+5361_1	has_surface_form	Deewarein
+5361_1	part_of_entity	3 Deewarein
+5361_2	is_in_sentence	sentence_5361
+5361_2	punct	5361_1
+5361_2	has_surface_form	(
+5361_3	is_in_sentence	sentence_5361
+5361_3	acl	5361_1
+5361_3	has_surface_form	lit
+5361_4	is_in_sentence	sentence_5361
+5361_4	punct	5361_1
+5361_4	has_surface_form	.
+5361_5	is_in_sentence	sentence_5361
+5361_5	dep	5361_7
+5361_5	has_surface_form	 
+5361_7	is_in_sentence	sentence_5361
+5361_7	nsubj	5361_9
+5361_7	has_surface_form	Walls
+5361_6	is_in_sentence	sentence_5361
+5361_6	nummod	5361_7
+5361_6	has_surface_form	3
+5361_9	is_in_sentence	sentence_5361
+5361_9	ROOT	5361_9
+5361_9	has_surface_form	is
+5361_8	is_in_sentence	sentence_5361
+5361_8	punct	5361_7
+5361_8	has_surface_form	)
+5361_10	is_in_sentence	sentence_5361
+5361_10	det	5361_15
+5361_10	has_surface_form	a
+5361_15	is_in_sentence	sentence_5361
+5361_15	attr	5361_9
+5361_15	has_surface_form	film
+5361_11	is_in_sentence	sentence_5361
+5361_11	nummod	5361_15
+5361_11	has_surface_form	2003
+5361_12	is_in_sentence	sentence_5361
+5361_12	compound	5361_13
+5361_12	has_surface_form	Indian
+5361_13	is_in_sentence	sentence_5361
+5361_13	compound	5361_15
+5361_13	has_surface_form	Hindi
+5361_14	is_in_sentence	sentence_5361
+5361_14	compound	5361_15
+5361_14	has_surface_form	crime
+5361_16	is_in_sentence	sentence_5361
+5361_16	acl	5361_15
+5361_16	has_surface_form	written
+5361_17	is_in_sentence	sentence_5361
+5361_17	punct	5361_16
+5361_17	has_surface_form	,
+5361_18	is_in_sentence	sentence_5361
+5361_18	conj	5361_16
+5361_18	has_surface_form	directed
+5361_19	is_in_sentence	sentence_5361
+5361_19	cc	5361_18
+5361_19	has_surface_form	and
+5361_20	is_in_sentence	sentence_5361
+5361_20	conj	5361_18
+5361_20	has_surface_form	co
+5361_21	is_in_sentence	sentence_5361
+5361_21	conj	5361_18
+5361_21	has_surface_form	-
+5361_22	is_in_sentence	sentence_5361
+5361_22	conj	5361_18
+5361_22	has_surface_form	starred
+5361_23	is_in_sentence	sentence_5361
+5361_23	agent	5361_22
+5361_23	has_surface_form	by
+5361_24	is_in_sentence	sentence_5361
+5361_24	compound	5361_25
+5361_24	has_surface_form	Nagesh
+5361_24	part_of_entity	Nagesh Kukunoor
+5361_25	is_in_sentence	sentence_5361
+5361_25	pobj	5361_23
+5361_25	has_surface_form	Kukunoor
+5361_25	part_of_entity	Nagesh Kukunoor
+5361_26	is_in_sentence	sentence_5361
+5361_26	punct	5361_9
+5361_26	has_surface_form	.
+5361_27	is_in_sentence	sentence_5361
+5361_27	dep	5361_9
+5361_27	has_surface_form	
+3 Deewarein	surface_form	3 Deewarein
+3 Deewarein	movie-has-director	Nagesh Kukunoor
+Nagesh Kukunoor	surface_form	Nagesh Kukunoor

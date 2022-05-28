@@ -1,0 +1,61 @@
+26390_0	is_in_sentence	sentence_26390
+26390_0	compound	26390_1
+26390_0	has_surface_form	Dead
+26390_0	part_of_entity	Dead Game
+26390_1	is_in_sentence	sentence_26390
+26390_1	nsubj	26390_2
+26390_1	has_surface_form	Game
+26390_1	part_of_entity	Dead Game
+26390_2	is_in_sentence	sentence_26390
+26390_2	ROOT	26390_2
+26390_2	has_surface_form	is
+26390_3	is_in_sentence	sentence_26390
+26390_3	det	26390_7
+26390_3	has_surface_form	a
+26390_7	is_in_sentence	sentence_26390
+26390_7	attr	26390_2
+26390_7	has_surface_form	film
+26390_4	is_in_sentence	sentence_26390
+26390_4	nummod	26390_7
+26390_4	has_surface_form	1923
+26390_5	is_in_sentence	sentence_26390
+26390_5	amod	26390_7
+26390_5	has_surface_form	American
+26390_6	is_in_sentence	sentence_26390
+26390_6	amod	26390_7
+26390_6	has_surface_form	Western
+26390_8	is_in_sentence	sentence_26390
+26390_8	acl	26390_7
+26390_8	has_surface_form	directed
+26390_9	is_in_sentence	sentence_26390
+26390_9	agent	26390_8
+26390_9	has_surface_form	by
+26390_10	is_in_sentence	sentence_26390
+26390_10	compound	26390_11
+26390_10	has_surface_form	Edward
+26390_10	part_of_entity	Edward Sedgwick
+26390_11	is_in_sentence	sentence_26390
+26390_11	pobj	26390_9
+26390_11	has_surface_form	Sedgwick
+26390_11	part_of_entity	Edward Sedgwick
+26390_12	is_in_sentence	sentence_26390
+26390_12	cc	26390_8
+26390_12	has_surface_form	and
+26390_13	is_in_sentence	sentence_26390
+26390_13	conj	26390_8
+26390_13	has_surface_form	featuring
+26390_14	is_in_sentence	sentence_26390
+26390_14	compound	26390_15
+26390_14	has_surface_form	Hoot
+26390_15	is_in_sentence	sentence_26390
+26390_15	dobj	26390_13
+26390_15	has_surface_form	Gibson
+26390_16	is_in_sentence	sentence_26390
+26390_16	punct	26390_2
+26390_16	has_surface_form	.
+26390_17	is_in_sentence	sentence_26390
+26390_17	dep	26390_2
+26390_17	has_surface_form	
+Dead Game	surface_form	Dead Game
+Dead Game	movie-has-director	Edward Sedgwick
+Edward Sedgwick	surface_form	Edward Sedgwick

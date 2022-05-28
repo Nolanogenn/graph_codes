@@ -1,0 +1,88 @@
+20089_0	is_in_sentence	sentence_20089
+20089_0	compound	20089_1
+20089_0	has_surface_form	Sherwin
+20089_0	part_of_entity	Sherwin Bitsui
+20089_1	is_in_sentence	sentence_20089
+20089_1	nsubj	20089_10
+20089_1	has_surface_form	Bitsui
+20089_1	part_of_entity	Sherwin Bitsui
+20089_10	is_in_sentence	sentence_20089
+20089_10	ROOT	20089_10
+20089_10	has_surface_form	is
+20089_2	is_in_sentence	sentence_20089
+20089_2	punct	20089_1
+20089_2	has_surface_form	(
+20089_3	is_in_sentence	sentence_20089
+20089_3	acl	20089_1
+20089_3	has_surface_form	born
+20089_4	is_in_sentence	sentence_20089
+20089_4	nummod	20089_6
+20089_4	has_surface_form	1974
+20089_6	is_in_sentence	sentence_20089
+20089_6	npadvmod	20089_3
+20089_6	has_surface_form	Defiance
+20089_6	part_of_entity	Fort Defiance
+20089_5	is_in_sentence	sentence_20089
+20089_5	compound	20089_6
+20089_5	has_surface_form	Fort
+20089_5	part_of_entity	Fort Defiance
+20089_7	is_in_sentence	sentence_20089
+20089_7	punct	20089_6
+20089_7	has_surface_form	,
+20089_8	is_in_sentence	sentence_20089
+20089_8	npadvmod	20089_6
+20089_8	has_surface_form	Arizona
+20089_9	is_in_sentence	sentence_20089
+20089_9	punct	20089_6
+20089_9	has_surface_form	)
+20089_11	is_in_sentence	sentence_20089
+20089_11	advmod	20089_10
+20089_11	has_surface_form	originally
+20089_12	is_in_sentence	sentence_20089
+20089_12	prep	20089_10
+20089_12	has_surface_form	from
+20089_13	is_in_sentence	sentence_20089
+20089_13	pobj	20089_12
+20089_13	has_surface_form	Baaʼoogeedí
+20089_14	is_in_sentence	sentence_20089
+20089_14	punct	20089_13
+20089_14	has_surface_form	(
+20089_15	is_in_sentence	sentence_20089
+20089_15	compound	20089_16
+20089_15	has_surface_form	White
+20089_16	is_in_sentence	sentence_20089
+20089_16	appos	20089_13
+20089_16	has_surface_form	Cone
+20089_17	is_in_sentence	sentence_20089
+20089_17	punct	20089_16
+20089_17	has_surface_form	,
+20089_18	is_in_sentence	sentence_20089
+20089_18	npadvmod	20089_16
+20089_18	has_surface_form	Arizona
+20089_19	is_in_sentence	sentence_20089
+20089_19	punct	20089_16
+20089_19	has_surface_form	)
+20089_20	is_in_sentence	sentence_20089
+20089_20	punct	20089_13
+20089_20	has_surface_form	,
+20089_21	is_in_sentence	sentence_20089
+20089_21	prep	20089_10
+20089_21	has_surface_form	on
+20089_22	is_in_sentence	sentence_20089
+20089_22	det	20089_24
+20089_22	has_surface_form	the
+20089_24	is_in_sentence	sentence_20089
+20089_24	pobj	20089_21
+20089_24	has_surface_form	Nation
+20089_23	is_in_sentence	sentence_20089
+20089_23	compound	20089_24
+20089_23	has_surface_form	Navajo
+20089_25	is_in_sentence	sentence_20089
+20089_25	punct	20089_10
+20089_25	has_surface_form	.
+20089_26	is_in_sentence	sentence_20089
+20089_26	dep	20089_26
+20089_26	has_surface_form	
+Sherwin Bitsui	surface_form	Sherwin Bitsui
+Sherwin Bitsui	birth-place	Fort Defiance
+Fort Defiance	surface_form	Fort Defiance

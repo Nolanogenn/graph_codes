@@ -1,0 +1,64 @@
+16878_0	is_in_sentence	sentence_16878
+16878_0	compound	16878_1
+16878_0	has_surface_form	John
+16878_0	part_of_entity	John Gutekunst
+16878_1	is_in_sentence	sentence_16878
+16878_1	nsubj	16878_9
+16878_1	has_surface_form	Gutekunst
+16878_1	part_of_entity	John Gutekunst
+16878_9	is_in_sentence	sentence_16878
+16878_9	ROOT	16878_9
+16878_9	has_surface_form	is
+16878_2	is_in_sentence	sentence_16878
+16878_2	punct	16878_1
+16878_2	has_surface_form	(
+16878_3	is_in_sentence	sentence_16878
+16878_3	acl	16878_1
+16878_3	has_surface_form	born
+16878_4	is_in_sentence	sentence_16878
+16878_4	npadvmod	16878_3
+16878_4	has_surface_form	April
+16878_5	is_in_sentence	sentence_16878
+16878_5	nummod	16878_4
+16878_5	has_surface_form	13
+16878_6	is_in_sentence	sentence_16878
+16878_6	punct	16878_4
+16878_6	has_surface_form	,
+16878_7	is_in_sentence	sentence_16878
+16878_7	nummod	16878_4
+16878_7	has_surface_form	1944
+16878_8	is_in_sentence	sentence_16878
+16878_8	punct	16878_1
+16878_8	has_surface_form	)
+16878_10	is_in_sentence	sentence_16878
+16878_10	det	16878_13
+16878_10	has_surface_form	an
+16878_13	is_in_sentence	sentence_16878
+16878_13	attr	16878_9
+16878_13	has_surface_form	coach
+16878_13	part_of_entity	football coach
+16878_11	is_in_sentence	sentence_16878
+16878_11	amod	16878_13
+16878_11	has_surface_form	American
+16878_12	is_in_sentence	sentence_16878
+16878_12	compound	16878_13
+16878_12	has_surface_form	football
+16878_12	part_of_entity	football coach
+16878_14	is_in_sentence	sentence_16878
+16878_14	cc	16878_13
+16878_14	has_surface_form	and
+16878_15	is_in_sentence	sentence_16878
+16878_15	amod	16878_16
+16878_15	has_surface_form	former
+16878_16	is_in_sentence	sentence_16878
+16878_16	conj	16878_13
+16878_16	has_surface_form	player
+16878_17	is_in_sentence	sentence_16878
+16878_17	punct	16878_9
+16878_17	has_surface_form	.
+16878_18	is_in_sentence	sentence_16878
+16878_18	dep	16878_18
+16878_18	has_surface_form	
+John Gutekunst	surface_form	John Gutekunst
+John Gutekunst	has-type	football coach
+football coach	surface_form	football coach

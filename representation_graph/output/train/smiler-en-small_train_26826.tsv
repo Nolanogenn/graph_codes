@@ -1,0 +1,66 @@
+26825_0	is_in_sentence	sentence_26825
+26825_0	det	26825_4
+26825_0	has_surface_form	The
+26825_4	is_in_sentence	sentence_26825
+26825_4	nsubj	26825_5
+26825_4	has_surface_form	Library
+26825_4	part_of_entity	Johnson County Public Library
+26825_1	is_in_sentence	sentence_26825
+26825_1	compound	26825_2
+26825_1	has_surface_form	Johnson
+26825_1	part_of_entity	Johnson County Public Library
+26825_2	is_in_sentence	sentence_26825
+26825_2	compound	26825_4
+26825_2	has_surface_form	County
+26825_2	part_of_entity	Johnson County Public Library
+26825_3	is_in_sentence	sentence_26825
+26825_3	compound	26825_4
+26825_3	has_surface_form	Public
+26825_3	part_of_entity	Johnson County Public Library
+26825_5	is_in_sentence	sentence_26825
+26825_5	ROOT	26825_5
+26825_5	has_surface_form	is
+26825_6	is_in_sentence	sentence_26825
+26825_6	det	26825_8
+26825_6	has_surface_form	a
+26825_8	is_in_sentence	sentence_26825
+26825_8	attr	26825_5
+26825_8	has_surface_form	library
+26825_8	part_of_entity	public library
+26825_7	is_in_sentence	sentence_26825
+26825_7	amod	26825_8
+26825_7	has_surface_form	public
+26825_7	part_of_entity	public library
+26825_9	is_in_sentence	sentence_26825
+26825_9	acl	26825_8
+26825_9	has_surface_form	serving
+26825_10	is_in_sentence	sentence_26825
+26825_10	det	26825_11
+26825_10	has_surface_form	the
+26825_11	is_in_sentence	sentence_26825
+26825_11	dobj	26825_9
+26825_11	has_surface_form	residents
+26825_12	is_in_sentence	sentence_26825
+26825_12	prep	26825_11
+26825_12	has_surface_form	of
+26825_13	is_in_sentence	sentence_26825
+26825_13	compound	26825_14
+26825_13	has_surface_form	Johnson
+26825_14	is_in_sentence	sentence_26825
+26825_14	pobj	26825_12
+26825_14	has_surface_form	County
+26825_15	is_in_sentence	sentence_26825
+26825_15	punct	26825_14
+26825_15	has_surface_form	,
+26825_16	is_in_sentence	sentence_26825
+26825_16	appos	26825_14
+26825_16	has_surface_form	Kentucky
+26825_17	is_in_sentence	sentence_26825
+26825_17	punct	26825_5
+26825_17	has_surface_form	.
+26825_18	is_in_sentence	sentence_26825
+26825_18	dep	26825_5
+26825_18	has_surface_form	
+Johnson County Public Library	surface_form	Johnson County Public Library
+Johnson County Public Library	has-type	public library
+public library	surface_form	public library

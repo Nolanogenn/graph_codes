@@ -1,0 +1,68 @@
+13573_0	is_in_sentence	sentence_13573
+13573_0	compound	13573_1
+13573_0	has_surface_form	Great
+13573_0	part_of_entity	Great Guy
+13573_1	is_in_sentence	sentence_13573
+13573_1	nsubj	13573_2
+13573_1	has_surface_form	Guy
+13573_1	part_of_entity	Great Guy
+13573_2	is_in_sentence	sentence_13573
+13573_2	ROOT	13573_2
+13573_2	has_surface_form	is
+13573_3	is_in_sentence	sentence_13573
+13573_3	det	13573_8
+13573_3	has_surface_form	a
+13573_8	is_in_sentence	sentence_13573
+13573_8	attr	13573_2
+13573_8	has_surface_form	noir
+13573_4	is_in_sentence	sentence_13573
+13573_4	nummod	13573_8
+13573_4	has_surface_form	1936
+13573_5	is_in_sentence	sentence_13573
+13573_5	amod	13573_8
+13573_5	has_surface_form	American
+13573_6	is_in_sentence	sentence_13573
+13573_6	compound	13573_7
+13573_6	has_surface_form	crime
+13573_7	is_in_sentence	sentence_13573
+13573_7	compound	13573_8
+13573_7	has_surface_form	film
+13573_9	is_in_sentence	sentence_13573
+13573_9	acl	13573_8
+13573_9	has_surface_form	directed
+13573_10	is_in_sentence	sentence_13573
+13573_10	agent	13573_9
+13573_10	has_surface_form	by
+13573_11	is_in_sentence	sentence_13573
+13573_11	compound	13573_13
+13573_11	has_surface_form	John
+13573_11	part_of_entity	John G. Blystone
+13573_13	is_in_sentence	sentence_13573
+13573_13	pobj	13573_10
+13573_13	has_surface_form	Blystone
+13573_13	part_of_entity	John G. Blystone
+13573_12	is_in_sentence	sentence_13573
+13573_12	compound	13573_13
+13573_12	has_surface_form	G.
+13573_12	part_of_entity	John G. Blystone
+13573_14	is_in_sentence	sentence_13573
+13573_14	cc	13573_9
+13573_14	has_surface_form	and
+13573_15	is_in_sentence	sentence_13573
+13573_15	conj	13573_9
+13573_15	has_surface_form	starring
+13573_16	is_in_sentence	sentence_13573
+13573_16	compound	13573_17
+13573_16	has_surface_form	James
+13573_17	is_in_sentence	sentence_13573
+13573_17	dobj	13573_15
+13573_17	has_surface_form	Cagney
+13573_18	is_in_sentence	sentence_13573
+13573_18	punct	13573_2
+13573_18	has_surface_form	.
+13573_19	is_in_sentence	sentence_13573
+13573_19	dep	13573_2
+13573_19	has_surface_form	
+Great Guy	surface_form	Great Guy
+Great Guy	movie-has-director	John G. Blystone
+John G. Blystone	surface_form	John G. Blystone

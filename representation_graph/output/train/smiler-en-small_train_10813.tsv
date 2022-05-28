@@ -1,0 +1,58 @@
+10812_0	is_in_sentence	sentence_10812
+10812_0	compound	10812_1
+10812_0	has_surface_form	Chhattisgarh
+10812_0	part_of_entity	Chhattisgarh Institute of Technology
+10812_1	is_in_sentence	sentence_10812
+10812_1	nsubj	10812_4
+10812_1	has_surface_form	Institute
+10812_1	part_of_entity	Chhattisgarh Institute of Technology
+10812_4	is_in_sentence	sentence_10812
+10812_4	ROOT	10812_4
+10812_4	has_surface_form	is
+10812_2	is_in_sentence	sentence_10812
+10812_2	prep	10812_1
+10812_2	has_surface_form	of
+10812_2	part_of_entity	Chhattisgarh Institute of Technology
+10812_3	is_in_sentence	sentence_10812
+10812_3	pobj	10812_2
+10812_3	has_surface_form	Technology
+10812_3	part_of_entity	Chhattisgarh Institute of Technology
+10812_5	is_in_sentence	sentence_10812
+10812_5	det	10812_8
+10812_5	has_surface_form	a
+10812_8	is_in_sentence	sentence_10812
+10812_8	attr	10812_4
+10812_8	is_entity	college
+10812_6	is_in_sentence	sentence_10812
+10812_6	amod	10812_8
+10812_6	has_surface_form	private
+10812_7	is_in_sentence	sentence_10812
+10812_7	compound	10812_8
+10812_7	has_surface_form	engineering
+college	surface_form	college
+10812_9	is_in_sentence	sentence_10812
+10812_9	prep	10812_8
+10812_9	has_surface_form	in
+10812_10	is_in_sentence	sentence_10812
+10812_10	pobj	10812_9
+10812_10	has_surface_form	Rajnandgaon
+10812_11	is_in_sentence	sentence_10812
+10812_11	punct	10812_10
+10812_11	has_surface_form	,
+10812_12	is_in_sentence	sentence_10812
+10812_12	conj	10812_10
+10812_12	has_surface_form	Chhattisgarh
+10812_13	is_in_sentence	sentence_10812
+10812_13	punct	10812_12
+10812_13	has_surface_form	,
+10812_14	is_in_sentence	sentence_10812
+10812_14	npadvmod	10812_12
+10812_14	has_surface_form	India
+10812_15	is_in_sentence	sentence_10812
+10812_15	punct	10812_4
+10812_15	has_surface_form	.
+10812_16	is_in_sentence	sentence_10812
+10812_16	dep	10812_16
+10812_16	has_surface_form	
+Chhattisgarh Institute of Technology	surface_form	Chhattisgarh Institute of Technology
+Chhattisgarh Institute of Technology	has-type	college

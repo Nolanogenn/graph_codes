@@ -1,0 +1,88 @@
+18_0	is_in_sentence	sentence_18
+18_0	compound	18_1
+18_0	has_surface_form	Françoise
+18_1	is_in_sentence	sentence_18
+18_1	nsubj	18_15
+18_1	has_surface_form	d'Aubigné
+18_15	is_in_sentence	sentence_18
+18_15	ROOT	18_15
+18_15	has_surface_form	was
+18_2	is_in_sentence	sentence_18
+18_2	punct	18_1
+18_2	has_surface_form	,
+18_3	is_in_sentence	sentence_18
+18_3	compound	18_5
+18_3	has_surface_form	Marquise
+18_5	is_in_sentence	sentence_18
+18_5	conj	18_1
+18_5	has_surface_form	Maintenon
+18_4	is_in_sentence	sentence_18
+18_4	compound	18_5
+18_4	has_surface_form	de
+18_6	is_in_sentence	sentence_18
+18_6	punct	18_5
+18_6	has_surface_form	(
+18_7	is_in_sentence	sentence_18
+18_7	nummod	18_8
+18_7	has_surface_form	27
+18_8	is_in_sentence	sentence_18
+18_8	appos	18_5
+18_8	has_surface_form	November
+18_9	is_in_sentence	sentence_18
+18_9	nummod	18_8
+18_9	has_surface_form	1635
+18_10	is_in_sentence	sentence_18
+18_10	punct	18_5
+18_10	has_surface_form	–
+18_11	is_in_sentence	sentence_18
+18_11	nummod	18_12
+18_11	has_surface_form	15
+18_12	is_in_sentence	sentence_18
+18_12	appos	18_5
+18_12	has_surface_form	April
+18_13	is_in_sentence	sentence_18
+18_13	nummod	18_12
+18_13	has_surface_form	1719
+18_14	is_in_sentence	sentence_18
+18_14	punct	18_5
+18_14	has_surface_form	)
+18_16	is_in_sentence	sentence_18
+18_16	det	18_18
+18_16	has_surface_form	the
+18_18	is_in_sentence	sentence_18
+18_18	attr	18_15
+18_18	has_surface_form	wife
+18_17	is_in_sentence	sentence_18
+18_17	amod	18_18
+18_17	has_surface_form	second
+18_19	is_in_sentence	sentence_18
+18_19	prep	18_18
+18_19	has_surface_form	of
+18_20	is_in_sentence	sentence_18
+18_20	compound	18_22
+18_20	has_surface_form	King
+18_22	is_in_sentence	sentence_18
+18_22	pobj	18_19
+18_22	has_surface_form	XIV
+18_22	part_of_entity	Louis XIV of France
+18_21	is_in_sentence	sentence_18
+18_21	compound	18_22
+18_21	has_surface_form	Louis
+18_21	part_of_entity	Louis XIV of France
+18_23	is_in_sentence	sentence_18
+18_23	prep	18_22
+18_23	has_surface_form	of
+18_23	part_of_entity	Louis XIV of France
+18_24	is_in_sentence	sentence_18
+18_24	pobj	18_23
+18_24	has_surface_form	France
+18_24	part_of_entity	Louis XIV of France
+18_25	is_in_sentence	sentence_18
+18_25	punct	18_15
+18_25	has_surface_form	.
+18_26	is_in_sentence	sentence_18
+18_26	dep	18_26
+18_26	has_surface_form	
+Françoise d'Aubigné, Marquise de Maintenon	surface_form	Françoise d'Aubigné, Marquise de Maintenon
+Françoise d'Aubigné, Marquise de Maintenon	has-spouse	Louis XIV of France
+Louis XIV of France	surface_form	Louis XIV of France

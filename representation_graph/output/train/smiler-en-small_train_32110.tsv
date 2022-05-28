@@ -1,0 +1,127 @@
+32109_0	is_in_sentence	sentence_32109
+32109_0	det	32109_2
+32109_0	has_surface_form	A
+32109_0	part_of_entity	A Fishy Story
+32109_2	is_in_sentence	sentence_32109
+32109_2	nmod	32109_8
+32109_2	has_surface_form	Story
+32109_2	part_of_entity	A Fishy Story
+32109_1	is_in_sentence	sentence_32109
+32109_1	compound	32109_2
+32109_1	has_surface_form	Fishy
+32109_1	part_of_entity	A Fishy Story
+32109_8	is_in_sentence	sentence_32109
+32109_8	ROOT	32109_8
+32109_8	has_surface_form	pinyin
+32109_3	is_in_sentence	sentence_32109
+32109_3	punct	32109_4
+32109_3	has_surface_form	(
+32109_4	is_in_sentence	sentence_32109
+32109_4	appos	32109_2
+32109_4	has_surface_form	Chinese
+32109_5	is_in_sentence	sentence_32109
+32109_5	punct	32109_6
+32109_5	has_surface_form	:
+32109_6	is_in_sentence	sentence_32109
+32109_6	appos	32109_4
+32109_6	has_surface_form	不脫襪的人
+32109_7	is_in_sentence	sentence_32109
+32109_7	punct	32109_4
+32109_7	has_surface_form	;
+32109_9	is_in_sentence	sentence_32109
+32109_9	punct	32109_8
+32109_9	has_surface_form	:
+32109_10	is_in_sentence	sentence_32109
+32109_10	nsubj	32109_16
+32109_10	has_surface_form	Bù
+32109_16	is_in_sentence	sentence_32109
+32109_16	ROOT	32109_16
+32109_16	has_surface_form	is
+32109_11	is_in_sentence	sentence_32109
+32109_11	intj	32109_10
+32109_11	has_surface_form	tuō
+32109_12	is_in_sentence	sentence_32109
+32109_12	nmod	32109_14
+32109_12	has_surface_form	wà
+32109_14	is_in_sentence	sentence_32109
+32109_14	appos	32109_11
+32109_14	has_surface_form	rén
+32109_13	is_in_sentence	sentence_32109
+32109_13	nmod	32109_14
+32109_13	has_surface_form	de
+32109_15	is_in_sentence	sentence_32109
+32109_15	punct	32109_11
+32109_15	has_surface_form	)
+32109_17	is_in_sentence	sentence_32109
+32109_17	det	32109_22
+32109_17	has_surface_form	a
+32109_22	is_in_sentence	sentence_32109
+32109_22	attr	32109_16
+32109_22	has_surface_form	film
+32109_18	is_in_sentence	sentence_32109
+32109_18	nummod	32109_22
+32109_18	has_surface_form	1989
+32109_19	is_in_sentence	sentence_32109
+32109_19	compound	32109_20
+32109_19	has_surface_form	Hong
+32109_20	is_in_sentence	sentence_32109
+32109_20	compound	32109_22
+32109_20	has_surface_form	Kong
+32109_21	is_in_sentence	sentence_32109
+32109_21	compound	32109_22
+32109_21	has_surface_form	drama
+32109_23	is_in_sentence	sentence_32109
+32109_23	acl	32109_22
+32109_23	has_surface_form	directed
+32109_24	is_in_sentence	sentence_32109
+32109_24	agent	32109_23
+32109_24	has_surface_form	by
+32109_25	is_in_sentence	sentence_32109
+32109_25	compound	32109_26
+32109_25	has_surface_form	Anthony
+32109_25	part_of_entity	Anthony Chan
+32109_26	is_in_sentence	sentence_32109
+32109_26	pobj	32109_24
+32109_26	has_surface_form	Chan
+32109_26	part_of_entity	Anthony Chan
+32109_27	is_in_sentence	sentence_32109
+32109_27	cc	32109_23
+32109_27	has_surface_form	and
+32109_28	is_in_sentence	sentence_32109
+32109_28	conj	32109_23
+32109_28	has_surface_form	starring
+32109_29	is_in_sentence	sentence_32109
+32109_29	compound	32109_30
+32109_29	has_surface_form	Kenny
+32109_30	is_in_sentence	sentence_32109
+32109_30	dobj	32109_28
+32109_30	has_surface_form	Bee
+32109_31	is_in_sentence	sentence_32109
+32109_31	punct	32109_30
+32109_31	has_surface_form	,
+32109_32	is_in_sentence	sentence_32109
+32109_32	compound	32109_33
+32109_32	has_surface_form	Maggie
+32109_33	is_in_sentence	sentence_32109
+32109_33	conj	32109_30
+32109_33	has_surface_form	Cheung
+32109_34	is_in_sentence	sentence_32109
+32109_34	cc	32109_33
+32109_34	has_surface_form	and
+32109_35	is_in_sentence	sentence_32109
+32109_35	compound	32109_36
+32109_35	has_surface_form	Anthony
+32109_35	part_of_entity	Anthony Chan
+32109_36	is_in_sentence	sentence_32109
+32109_36	conj	32109_33
+32109_36	has_surface_form	Chan
+32109_36	part_of_entity	Anthony Chan
+32109_37	is_in_sentence	sentence_32109
+32109_37	punct	32109_16
+32109_37	has_surface_form	.
+32109_38	is_in_sentence	sentence_32109
+32109_38	dep	32109_38
+32109_38	has_surface_form	
+A Fishy Story	surface_form	A Fishy Story
+A Fishy Story	movie-has-director	Anthony Chan
+Anthony Chan	surface_form	Anthony Chan

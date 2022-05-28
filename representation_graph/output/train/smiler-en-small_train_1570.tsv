@@ -1,0 +1,71 @@
+1569_0	is_in_sentence	sentence_1569
+1569_0	poss	1569_2
+1569_0	has_surface_form	My
+1569_0	part_of_entity	My Dear Brother
+1569_2	is_in_sentence	sentence_1569
+1569_2	npadvmod	1569_4
+1569_2	has_surface_form	Brother
+1569_2	part_of_entity	My Dear Brother
+1569_1	is_in_sentence	sentence_1569
+1569_1	amod	1569_2
+1569_1	has_surface_form	Dear
+1569_1	part_of_entity	My Dear Brother
+1569_4	is_in_sentence	sentence_1569
+1569_4	nsubj	1569_9
+1569_4	has_surface_form	Turkish
+1569_3	is_in_sentence	sentence_1569
+1569_3	punct	1569_4
+1569_3	has_surface_form	(
+1569_9	is_in_sentence	sentence_1569
+1569_9	ROOT	1569_9
+1569_9	has_surface_form	is
+1569_5	is_in_sentence	sentence_1569
+1569_5	punct	1569_4
+1569_5	has_surface_form	:
+1569_6	is_in_sentence	sentence_1569
+1569_6	compound	1569_7
+1569_6	has_surface_form	Canım
+1569_7	is_in_sentence	sentence_1569
+1569_7	npadvmod	1569_4
+1569_7	has_surface_form	Kardeşim
+1569_8	is_in_sentence	sentence_1569
+1569_8	punct	1569_4
+1569_8	has_surface_form	)
+1569_10	is_in_sentence	sentence_1569
+1569_10	det	1569_14
+1569_10	has_surface_form	a
+1569_14	is_in_sentence	sentence_1569
+1569_14	attr	1569_9
+1569_14	has_surface_form	film
+1569_11	is_in_sentence	sentence_1569
+1569_11	nummod	1569_14
+1569_11	has_surface_form	1973
+1569_12	is_in_sentence	sentence_1569
+1569_12	amod	1569_14
+1569_12	has_surface_form	Turkish
+1569_13	is_in_sentence	sentence_1569
+1569_13	compound	1569_14
+1569_13	has_surface_form	drama
+1569_15	is_in_sentence	sentence_1569
+1569_15	acl	1569_14
+1569_15	has_surface_form	directed
+1569_16	is_in_sentence	sentence_1569
+1569_16	agent	1569_15
+1569_16	has_surface_form	by
+1569_17	is_in_sentence	sentence_1569
+1569_17	compound	1569_18
+1569_17	has_surface_form	Ertem
+1569_17	part_of_entity	Ertem Eğilmez
+1569_18	is_in_sentence	sentence_1569
+1569_18	pobj	1569_16
+1569_18	has_surface_form	Eğilmez
+1569_18	part_of_entity	Ertem Eğilmez
+1569_19	is_in_sentence	sentence_1569
+1569_19	punct	1569_9
+1569_19	has_surface_form	.
+1569_20	is_in_sentence	sentence_1569
+1569_20	dep	1569_20
+1569_20	has_surface_form	
+My Dear Brother	surface_form	My Dear Brother
+My Dear Brother	movie-has-director	Ertem Eğilmez
+Ertem Eğilmez	surface_form	Ertem Eğilmez

@@ -1,0 +1,53 @@
+4081_0	is_in_sentence	sentence_4081
+4081_0	compound	4081_1
+4081_0	has_surface_form	Mary
+4081_0	part_of_entity	Mary Fife Laning
+4081_1	is_in_sentence	sentence_4081
+4081_1	compound	4081_2
+4081_1	has_surface_form	Fife
+4081_1	part_of_entity	Mary Fife Laning
+4081_2	is_in_sentence	sentence_4081
+4081_2	nsubj	4081_3
+4081_2	has_surface_form	Laning
+4081_2	part_of_entity	Mary Fife Laning
+4081_3	is_in_sentence	sentence_4081
+4081_3	ROOT	4081_3
+4081_3	has_surface_form	was
+4081_4	is_in_sentence	sentence_4081
+4081_4	det	4081_6
+4081_4	has_surface_form	an
+4081_6	is_in_sentence	sentence_4081
+4081_6	attr	4081_3
+4081_6	has_surface_form	painter
+4081_5	is_in_sentence	sentence_4081
+4081_5	amod	4081_6
+4081_5	has_surface_form	American
+4081_7	is_in_sentence	sentence_4081
+4081_7	cc	4081_6
+4081_7	has_surface_form	and
+4081_8	is_in_sentence	sentence_4081
+4081_8	conj	4081_6
+4081_8	has_surface_form	wife
+4081_9	is_in_sentence	sentence_4081
+4081_9	prep	4081_6
+4081_9	has_surface_form	of
+4081_10	is_in_sentence	sentence_4081
+4081_10	compound	4081_12
+4081_10	has_surface_form	artist
+4081_12	is_in_sentence	sentence_4081
+4081_12	pobj	4081_9
+4081_12	has_surface_form	Laning
+4081_12	part_of_entity	Edward Laning
+4081_11	is_in_sentence	sentence_4081
+4081_11	compound	4081_12
+4081_11	has_surface_form	Edward
+4081_11	part_of_entity	Edward Laning
+4081_13	is_in_sentence	sentence_4081
+4081_13	punct	4081_3
+4081_13	has_surface_form	.
+4081_14	is_in_sentence	sentence_4081
+4081_14	dep	4081_3
+4081_14	has_surface_form	
+Mary Fife Laning	surface_form	Mary Fife Laning
+Mary Fife Laning	has-spouse	Edward Laning
+Edward Laning	surface_form	Edward Laning

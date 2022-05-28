@@ -1,0 +1,59 @@
+28169_0	is_in_sentence	sentence_28169
+28169_0	compound	28169_1
+28169_0	has_surface_form	Marvin
+28169_0	part_of_entity	Marvin X
+28169_1	is_in_sentence	sentence_28169
+28169_1	nsubj	28169_9
+28169_1	has_surface_form	X
+28169_1	part_of_entity	Marvin X
+28169_9	is_in_sentence	sentence_28169
+28169_9	ROOT	28169_9
+28169_9	has_surface_form	is
+28169_2	is_in_sentence	sentence_28169
+28169_2	punct	28169_1
+28169_2	has_surface_form	(
+28169_3	is_in_sentence	sentence_28169
+28169_3	acl	28169_1
+28169_3	has_surface_form	born
+28169_4	is_in_sentence	sentence_28169
+28169_4	npadvmod	28169_3
+28169_4	has_surface_form	May
+28169_5	is_in_sentence	sentence_28169
+28169_5	nummod	28169_4
+28169_5	has_surface_form	29
+28169_6	is_in_sentence	sentence_28169
+28169_6	punct	28169_4
+28169_6	has_surface_form	,
+28169_7	is_in_sentence	sentence_28169
+28169_7	nummod	28169_4
+28169_7	has_surface_form	1944
+28169_8	is_in_sentence	sentence_28169
+28169_8	punct	28169_1
+28169_8	has_surface_form	)
+28169_10	is_in_sentence	sentence_28169
+28169_10	det	28169_11
+28169_10	has_surface_form	a
+28169_11	is_in_sentence	sentence_28169
+28169_11	attr	28169_9
+28169_11	has_surface_form	poet
+28169_12	is_in_sentence	sentence_28169
+28169_12	punct	28169_11
+28169_12	has_surface_form	,
+28169_13	is_in_sentence	sentence_28169
+28169_13	conj	28169_11
+28169_13	has_surface_form	playwright
+28169_14	is_in_sentence	sentence_28169
+28169_14	cc	28169_13
+28169_14	has_surface_form	and
+28169_15	is_in_sentence	sentence_28169
+28169_15	conj	28169_13
+28169_15	is_entity	essayist
+essayist	surface_form	essayist
+28169_16	is_in_sentence	sentence_28169
+28169_16	punct	28169_9
+28169_16	has_surface_form	.
+28169_17	is_in_sentence	sentence_28169
+28169_17	dep	28169_9
+28169_17	has_surface_form	
+Marvin X	surface_form	Marvin X
+Marvin X	has-occupation	essayist

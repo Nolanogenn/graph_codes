@@ -1,0 +1,51 @@
+34261_0	is_in_sentence	sentence_34261
+34261_0	compound	34261_1
+34261_0	has_surface_form	Dixons
+34261_0	part_of_entity	Dixons City Academy
+34261_1	is_in_sentence	sentence_34261
+34261_1	compound	34261_2
+34261_1	has_surface_form	City
+34261_1	part_of_entity	Dixons City Academy
+34261_2	is_in_sentence	sentence_34261
+34261_2	nsubj	34261_3
+34261_2	has_surface_form	Academy
+34261_2	part_of_entity	Dixons City Academy
+34261_3	is_in_sentence	sentence_34261
+34261_3	ROOT	34261_3
+34261_3	has_surface_form	is
+34261_4	is_in_sentence	sentence_34261
+34261_4	det	34261_5
+34261_4	has_surface_form	an
+34261_5	is_in_sentence	sentence_34261
+34261_5	attr	34261_3
+34261_5	has_surface_form	academy
+34261_6	is_in_sentence	sentence_34261
+34261_6	prep	34261_5
+34261_6	has_surface_form	in
+34261_7	is_in_sentence	sentence_34261
+34261_7	pobj	34261_6
+34261_7	is_entity	Bradford
+Bradford	surface_form	Bradford
+34261_8	is_in_sentence	sentence_34261
+34261_8	punct	34261_7
+34261_8	has_surface_form	,
+34261_9	is_in_sentence	sentence_34261
+34261_9	compound	34261_10
+34261_9	has_surface_form	West
+34261_10	is_in_sentence	sentence_34261
+34261_10	conj	34261_7
+34261_10	has_surface_form	Yorkshire
+34261_11	is_in_sentence	sentence_34261
+34261_11	punct	34261_10
+34261_11	has_surface_form	,
+34261_12	is_in_sentence	sentence_34261
+34261_12	npadvmod	34261_10
+34261_12	has_surface_form	England
+34261_13	is_in_sentence	sentence_34261
+34261_13	punct	34261_3
+34261_13	has_surface_form	.
+34261_14	is_in_sentence	sentence_34261
+34261_14	dep	34261_3
+34261_14	has_surface_form	
+Dixons City Academy	surface_form	Dixons City Academy
+Dixons City Academy	is-where	Bradford

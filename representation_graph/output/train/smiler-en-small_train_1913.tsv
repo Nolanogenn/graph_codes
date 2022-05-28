@@ -1,0 +1,67 @@
+1912_0	is_in_sentence	sentence_1912
+1912_0	compound	1912_1
+1912_0	has_surface_form	Delray
+1912_0	part_of_entity	Delray Brooks
+1912_1	is_in_sentence	sentence_1912
+1912_1	nsubj	1912_9
+1912_1	has_surface_form	Brooks
+1912_1	part_of_entity	Delray Brooks
+1912_9	is_in_sentence	sentence_1912
+1912_9	ROOT	1912_9
+1912_9	has_surface_form	is
+1912_2	is_in_sentence	sentence_1912
+1912_2	punct	1912_1
+1912_2	has_surface_form	(
+1912_3	is_in_sentence	sentence_1912
+1912_3	acl	1912_1
+1912_3	has_surface_form	born
+1912_4	is_in_sentence	sentence_1912
+1912_4	npadvmod	1912_3
+1912_4	has_surface_form	October
+1912_5	is_in_sentence	sentence_1912
+1912_5	nummod	1912_4
+1912_5	has_surface_form	24
+1912_6	is_in_sentence	sentence_1912
+1912_6	punct	1912_4
+1912_6	has_surface_form	,
+1912_7	is_in_sentence	sentence_1912
+1912_7	nummod	1912_4
+1912_7	has_surface_form	1965
+1912_8	is_in_sentence	sentence_1912
+1912_8	punct	1912_1
+1912_8	has_surface_form	)
+1912_10	is_in_sentence	sentence_1912
+1912_10	det	1912_13
+1912_10	has_surface_form	an
+1912_13	is_in_sentence	sentence_1912
+1912_13	attr	1912_9
+1912_13	has_surface_form	coach
+1912_13	part_of_entity	basketball coach
+1912_11	is_in_sentence	sentence_1912
+1912_11	amod	1912_13
+1912_11	has_surface_form	American
+1912_12	is_in_sentence	sentence_1912
+1912_12	compound	1912_13
+1912_12	has_surface_form	basketball
+1912_12	part_of_entity	basketball coach
+1912_14	is_in_sentence	sentence_1912
+1912_14	cc	1912_13
+1912_14	has_surface_form	and
+1912_15	is_in_sentence	sentence_1912
+1912_15	amod	1912_17
+1912_15	has_surface_form	former
+1912_17	is_in_sentence	sentence_1912
+1912_17	conj	1912_13
+1912_17	has_surface_form	player
+1912_16	is_in_sentence	sentence_1912
+1912_16	compound	1912_17
+1912_16	has_surface_form	basketball
+1912_18	is_in_sentence	sentence_1912
+1912_18	punct	1912_9
+1912_18	has_surface_form	.
+1912_19	is_in_sentence	sentence_1912
+1912_19	dep	1912_19
+1912_19	has_surface_form	
+Delray Brooks	surface_form	Delray Brooks
+Delray Brooks	has-type	basketball coach
+basketball coach	surface_form	basketball coach

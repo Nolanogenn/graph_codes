@@ -1,0 +1,83 @@
+35200_0	is_in_sentence	sentence_35200
+35200_0	compound	35200_1
+35200_0	has_surface_form	Maurice
+35200_0	part_of_entity	Maurice Hinchey
+35200_1	is_in_sentence	sentence_35200
+35200_1	nsubj	35200_2
+35200_1	has_surface_form	Hinchey
+35200_1	part_of_entity	Maurice Hinchey
+35200_2	is_in_sentence	sentence_35200
+35200_2	ROOT	35200_2
+35200_2	has_surface_form	had
+35200_3	is_in_sentence	sentence_35200
+35200_3	nummod	35200_5
+35200_3	has_surface_form	three
+35200_5	is_in_sentence	sentence_35200
+35200_5	dobj	35200_2
+35200_5	has_surface_form	children
+35200_4	is_in_sentence	sentence_35200
+35200_4	amod	35200_5
+35200_4	has_surface_form	grown
+35200_6	is_in_sentence	sentence_35200
+35200_6	punct	35200_2
+35200_6	has_surface_form	.
+35200_7	is_in_sentence	sentence_35200
+35200_7	nsubj	35200_16
+35200_7	has_surface_form	He
+35200_16	is_in_sentence	sentence_35200
+35200_16	ROOT	35200_16
+35200_16	has_surface_form	resided
+35200_8	is_in_sentence	sentence_35200
+35200_8	cc	35200_7
+35200_8	has_surface_form	and
+35200_9	is_in_sentence	sentence_35200
+35200_9	poss	35200_10
+35200_9	has_surface_form	his
+35200_10	is_in_sentence	sentence_35200
+35200_10	conj	35200_7
+35200_10	has_surface_form	wife
+35200_11	is_in_sentence	sentence_35200
+35200_11	punct	35200_10
+35200_11	has_surface_form	,
+35200_12	is_in_sentence	sentence_35200
+35200_12	compound	35200_13
+35200_12	has_surface_form	Ilene
+35200_12	part_of_entity	Ilene Marder Hinchey
+35200_13	is_in_sentence	sentence_35200
+35200_13	compound	35200_14
+35200_13	has_surface_form	Marder
+35200_13	part_of_entity	Ilene Marder Hinchey
+35200_14	is_in_sentence	sentence_35200
+35200_14	appos	35200_10
+35200_14	has_surface_form	Hinchey
+35200_14	part_of_entity	Ilene Marder Hinchey
+35200_15	is_in_sentence	sentence_35200
+35200_15	punct	35200_10
+35200_15	has_surface_form	,
+35200_17	is_in_sentence	sentence_35200
+35200_17	advmod	35200_16
+35200_17	has_surface_form	together
+35200_18	is_in_sentence	sentence_35200
+35200_18	prep	35200_16
+35200_18	has_surface_form	in
+35200_19	is_in_sentence	sentence_35200
+35200_19	pobj	35200_18
+35200_19	has_surface_form	Saugerties
+35200_20	is_in_sentence	sentence_35200
+35200_20	punct	35200_19
+35200_20	has_surface_form	,
+35200_21	is_in_sentence	sentence_35200
+35200_21	compound	35200_22
+35200_21	has_surface_form	New
+35200_22	is_in_sentence	sentence_35200
+35200_22	npadvmod	35200_19
+35200_22	has_surface_form	York
+35200_23	is_in_sentence	sentence_35200
+35200_23	punct	35200_16
+35200_23	has_surface_form	.
+35200_24	is_in_sentence	sentence_35200
+35200_24	dep	35200_16
+35200_24	has_surface_form	
+Maurice Hinchey	surface_form	Maurice Hinchey
+Maurice Hinchey	has-spouse	Ilene Marder Hinchey
+Ilene Marder Hinchey	surface_form	Ilene Marder Hinchey

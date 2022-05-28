@@ -1,0 +1,55 @@
+208_0	is_in_sentence	sentence_208
+208_0	det	208_2
+208_0	has_surface_form	The
+208_2	is_in_sentence	sentence_208
+208_2	nsubj	208_3
+208_2	has_surface_form	Library
+208_2	part_of_entity	Codrington Library
+208_1	is_in_sentence	sentence_208
+208_1	compound	208_2
+208_1	has_surface_form	Codrington
+208_1	part_of_entity	Codrington Library
+208_3	is_in_sentence	sentence_208
+208_3	ROOT	208_3
+208_3	has_surface_form	is
+208_4	is_in_sentence	sentence_208
+208_4	det	208_6
+208_4	has_surface_form	an
+208_6	is_in_sentence	sentence_208
+208_6	attr	208_3
+208_6	has_surface_form	library
+208_6	part_of_entity	academic library
+208_5	is_in_sentence	sentence_208
+208_5	amod	208_6
+208_5	has_surface_form	academic
+208_5	part_of_entity	academic library
+208_7	is_in_sentence	sentence_208
+208_7	prep	208_6
+208_7	has_surface_form	in
+208_8	is_in_sentence	sentence_208
+208_8	det	208_9
+208_8	has_surface_form	the
+208_9	is_in_sentence	sentence_208
+208_9	pobj	208_7
+208_9	has_surface_form	city
+208_10	is_in_sentence	sentence_208
+208_10	prep	208_9
+208_10	has_surface_form	of
+208_11	is_in_sentence	sentence_208
+208_11	pobj	208_10
+208_11	has_surface_form	Oxford
+208_12	is_in_sentence	sentence_208
+208_12	punct	208_11
+208_12	has_surface_form	,
+208_13	is_in_sentence	sentence_208
+208_13	appos	208_11
+208_13	has_surface_form	England
+208_14	is_in_sentence	sentence_208
+208_14	punct	208_3
+208_14	has_surface_form	.
+208_15	is_in_sentence	sentence_208
+208_15	dep	208_3
+208_15	has_surface_form	
+Codrington Library	surface_form	Codrington Library
+Codrington Library	has-type	academic library
+academic library	surface_form	academic library

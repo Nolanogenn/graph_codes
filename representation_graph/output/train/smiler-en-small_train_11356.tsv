@@ -1,0 +1,72 @@
+11355_0	is_in_sentence	sentence_11355
+11355_0	compound	11355_2
+11355_0	has_surface_form	Aston
+11355_0	part_of_entity	Aston Medical School
+11355_2	is_in_sentence	sentence_11355
+11355_2	nsubj	11355_6
+11355_2	has_surface_form	School
+11355_2	part_of_entity	Aston Medical School
+11355_1	is_in_sentence	sentence_11355
+11355_1	compound	11355_2
+11355_1	has_surface_form	Medical
+11355_1	part_of_entity	Aston Medical School
+11355_6	is_in_sentence	sentence_11355
+11355_6	ROOT	11355_6
+11355_6	has_surface_form	is
+11355_3	is_in_sentence	sentence_11355
+11355_3	punct	11355_2
+11355_3	has_surface_form	(
+11355_4	is_in_sentence	sentence_11355
+11355_4	appos	11355_2
+11355_4	has_surface_form	AMS
+11355_5	is_in_sentence	sentence_11355
+11355_5	punct	11355_2
+11355_5	has_surface_form	)
+11355_7	is_in_sentence	sentence_11355
+11355_7	det	11355_8
+11355_7	has_surface_form	a
+11355_8	is_in_sentence	sentence_11355
+11355_8	attr	11355_6
+11355_8	has_surface_form	school
+11355_9	is_in_sentence	sentence_11355
+11355_9	prep	11355_8
+11355_9	has_surface_form	within
+11355_10	is_in_sentence	sentence_11355
+11355_10	compound	11355_11
+11355_10	has_surface_form	Aston
+11355_11	is_in_sentence	sentence_11355
+11355_11	pobj	11355_9
+11355_11	has_surface_form	University
+11355_12	is_in_sentence	sentence_11355
+11355_12	punct	11355_11
+11355_12	has_surface_form	,
+11355_13	is_in_sentence	sentence_11355
+11355_13	acl	11355_11
+11355_13	has_surface_form	located
+11355_14	is_in_sentence	sentence_11355
+11355_14	prep	11355_13
+11355_14	has_surface_form	in
+11355_15	is_in_sentence	sentence_11355
+11355_15	compound	11355_17
+11355_15	is_entity	Birmingham
+11355_17	is_in_sentence	sentence_11355
+11355_17	pobj	11355_14
+11355_17	has_surface_form	centre
+Birmingham	surface_form	Birmingham
+11355_16	is_in_sentence	sentence_11355
+11355_16	compound	11355_17
+11355_16	has_surface_form	city
+11355_18	is_in_sentence	sentence_11355
+11355_18	punct	11355_17
+11355_18	has_surface_form	,
+11355_19	is_in_sentence	sentence_11355
+11355_19	appos	11355_17
+11355_19	has_surface_form	UK
+11355_20	is_in_sentence	sentence_11355
+11355_20	punct	11355_6
+11355_20	has_surface_form	.
+11355_21	is_in_sentence	sentence_11355
+11355_21	dep	11355_6
+11355_21	has_surface_form	
+Aston Medical School	surface_form	Aston Medical School
+Aston Medical School	is-where	Birmingham

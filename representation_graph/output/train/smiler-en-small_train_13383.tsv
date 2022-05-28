@@ -1,0 +1,105 @@
+13382_0	is_in_sentence	sentence_13382
+13382_0	det	13382_1
+13382_0	has_surface_form	A
+13382_0	part_of_entity	A Fall from Grace
+13382_1	is_in_sentence	sentence_13382
+13382_1	nsubj	13382_4
+13382_1	has_surface_form	Fall
+13382_1	part_of_entity	A Fall from Grace
+13382_4	is_in_sentence	sentence_13382
+13382_4	ROOT	13382_4
+13382_4	has_surface_form	is
+13382_2	is_in_sentence	sentence_13382
+13382_2	prep	13382_1
+13382_2	has_surface_form	from
+13382_2	part_of_entity	A Fall from Grace
+13382_3	is_in_sentence	sentence_13382
+13382_3	pobj	13382_2
+13382_3	has_surface_form	Grace
+13382_3	part_of_entity	A Fall from Grace
+13382_5	is_in_sentence	sentence_13382
+13382_5	det	13382_11
+13382_5	has_surface_form	an
+13382_11	is_in_sentence	sentence_13382
+13382_11	attr	13382_4
+13382_11	has_surface_form	film
+13382_6	is_in_sentence	sentence_13382
+13382_6	amod	13382_11
+13382_6	has_surface_form	upcoming
+13382_7	is_in_sentence	sentence_13382
+13382_7	amod	13382_11
+13382_7	has_surface_form	American
+13382_8	is_in_sentence	sentence_13382
+13382_8	nmod	13382_10
+13382_8	has_surface_form	mystery
+13382_10	is_in_sentence	sentence_13382
+13382_10	compound	13382_11
+13382_10	has_surface_form	thriller
+13382_9	is_in_sentence	sentence_13382
+13382_9	punct	13382_10
+13382_9	has_surface_form	/
+13382_12	is_in_sentence	sentence_13382
+13382_12	acl	13382_11
+13382_12	has_surface_form	co
+13382_13	is_in_sentence	sentence_13382
+13382_13	amod	13382_11
+13382_13	has_surface_form	-
+13382_14	is_in_sentence	sentence_13382
+13382_14	amod	13382_11
+13382_14	has_surface_form	written
+13382_15	is_in_sentence	sentence_13382
+13382_15	cc	13382_14
+13382_15	has_surface_form	and
+13382_16	is_in_sentence	sentence_13382
+13382_16	conj	13382_14
+13382_16	has_surface_form	directed
+13382_17	is_in_sentence	sentence_13382
+13382_17	agent	13382_16
+13382_17	has_surface_form	by
+13382_18	is_in_sentence	sentence_13382
+13382_18	compound	13382_19
+13382_18	has_surface_form	Jennifer
+13382_18	part_of_entity	Jennifer Lynch
+13382_19	is_in_sentence	sentence_13382
+13382_19	pobj	13382_17
+13382_19	has_surface_form	Lynch
+13382_19	part_of_entity	Jennifer Lynch
+13382_20	is_in_sentence	sentence_13382
+13382_20	cc	13382_16
+13382_20	has_surface_form	and
+13382_21	is_in_sentence	sentence_13382
+13382_21	conj	13382_16
+13382_21	has_surface_form	starring
+13382_22	is_in_sentence	sentence_13382
+13382_22	compound	13382_23
+13382_22	has_surface_form	Vincent
+13382_23	is_in_sentence	sentence_13382
+13382_23	dobj	13382_21
+13382_23	has_surface_form	D'Onofrio
+13382_24	is_in_sentence	sentence_13382
+13382_24	punct	13382_23
+13382_24	has_surface_form	,
+13382_25	is_in_sentence	sentence_13382
+13382_25	compound	13382_26
+13382_25	has_surface_form	Forest
+13382_26	is_in_sentence	sentence_13382
+13382_26	appos	13382_23
+13382_26	has_surface_form	Whitaker
+13382_27	is_in_sentence	sentence_13382
+13382_27	cc	13382_26
+13382_27	has_surface_form	and
+13382_28	is_in_sentence	sentence_13382
+13382_28	compound	13382_29
+13382_28	has_surface_form	Tim
+13382_29	is_in_sentence	sentence_13382
+13382_29	conj	13382_26
+13382_29	has_surface_form	Roth
+13382_30	is_in_sentence	sentence_13382
+13382_30	punct	13382_4
+13382_30	has_surface_form	.
+13382_31	is_in_sentence	sentence_13382
+13382_31	dep	13382_4
+13382_31	has_surface_form	
+A Fall from Grace	surface_form	A Fall from Grace
+A Fall from Grace	movie-has-director	Jennifer Lynch
+Jennifer Lynch	surface_form	Jennifer Lynch

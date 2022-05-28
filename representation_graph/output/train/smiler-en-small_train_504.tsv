@@ -1,0 +1,61 @@
+503_0	is_in_sentence	sentence_503
+503_0	compound	503_1
+503_0	has_surface_form	ABC
+503_0	part_of_entity	ABC miłości
+503_1	is_in_sentence	sentence_503
+503_1	nsubj	503_7
+503_1	has_surface_form	miłości
+503_1	part_of_entity	ABC miłości
+503_7	is_in_sentence	sentence_503
+503_7	ROOT	503_7
+503_7	has_surface_form	is
+503_2	is_in_sentence	sentence_503
+503_2	punct	503_3
+503_2	has_surface_form	(
+503_3	is_in_sentence	sentence_503
+503_3	appos	503_1
+503_3	has_surface_form	ABC
+503_4	is_in_sentence	sentence_503
+503_4	prep	503_3
+503_4	has_surface_form	of
+503_5	is_in_sentence	sentence_503
+503_5	pobj	503_4
+503_5	has_surface_form	Love
+503_6	is_in_sentence	sentence_503
+503_6	punct	503_3
+503_6	has_surface_form	)
+503_8	is_in_sentence	sentence_503
+503_8	det	503_11
+503_8	has_surface_form	a
+503_11	is_in_sentence	sentence_503
+503_11	attr	503_7
+503_11	has_surface_form	film
+503_9	is_in_sentence	sentence_503
+503_9	nummod	503_11
+503_9	has_surface_form	1935
+503_10	is_in_sentence	sentence_503
+503_10	amod	503_11
+503_10	has_surface_form	Polish
+503_12	is_in_sentence	sentence_503
+503_12	acl	503_11
+503_12	has_surface_form	directed
+503_13	is_in_sentence	sentence_503
+503_13	agent	503_12
+503_13	has_surface_form	by
+503_14	is_in_sentence	sentence_503
+503_14	compound	503_15
+503_14	has_surface_form	Michał
+503_14	part_of_entity	Michał Waszyński
+503_15	is_in_sentence	sentence_503
+503_15	pobj	503_13
+503_15	has_surface_form	Waszyński
+503_15	part_of_entity	Michał Waszyński
+503_16	is_in_sentence	sentence_503
+503_16	punct	503_7
+503_16	has_surface_form	.
+503_17	is_in_sentence	sentence_503
+503_17	dep	503_7
+503_17	has_surface_form	
+ABC miłości	surface_form	ABC miłości
+ABC miłości	movie-has-director	Michał Waszyński
+Michał Waszyński	surface_form	Michał Waszyński

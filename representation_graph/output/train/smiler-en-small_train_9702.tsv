@@ -1,0 +1,64 @@
+9701_0	is_in_sentence	sentence_9701
+9701_0	compound	9701_1
+9701_0	has_surface_form	Light
+9701_0	part_of_entity	Light Asylum
+9701_1	is_in_sentence	sentence_9701
+9701_1	nsubj	9701_2
+9701_1	has_surface_form	Asylum
+9701_1	part_of_entity	Light Asylum
+9701_2	is_in_sentence	sentence_9701
+9701_2	ROOT	9701_2
+9701_2	has_surface_form	is
+9701_3	is_in_sentence	sentence_9701
+9701_3	det	9701_9
+9701_3	has_surface_form	a
+9701_9	is_in_sentence	sentence_9701
+9701_9	attr	9701_2
+9701_9	has_surface_form	duo
+9701_4	is_in_sentence	sentence_9701
+9701_4	npadvmod	9701_6
+9701_4	has_surface_form	Brooklyn
+9701_6	is_in_sentence	sentence_9701
+9701_6	amod	9701_9
+9701_6	has_surface_form	based
+9701_5	is_in_sentence	sentence_9701
+9701_5	punct	9701_6
+9701_5	has_surface_form	-
+9701_7	is_in_sentence	sentence_9701
+9701_7	amod	9701_8
+9701_7	has_surface_form	electronic
+9701_8	is_in_sentence	sentence_9701
+9701_8	compound	9701_9
+9701_8	has_surface_form	music
+9701_10	is_in_sentence	sentence_9701
+9701_10	acl	9701_9
+9701_10	has_surface_form	consisting
+9701_11	is_in_sentence	sentence_9701
+9701_11	prep	9701_10
+9701_11	has_surface_form	of
+9701_12	is_in_sentence	sentence_9701
+9701_12	compound	9701_13
+9701_12	has_surface_form	Shannon
+9701_12	part_of_entity	Shannon Funchess
+9701_13	is_in_sentence	sentence_9701
+9701_13	pobj	9701_11
+9701_13	has_surface_form	Funchess
+9701_13	part_of_entity	Shannon Funchess
+9701_14	is_in_sentence	sentence_9701
+9701_14	cc	9701_13
+9701_14	has_surface_form	and
+9701_15	is_in_sentence	sentence_9701
+9701_15	compound	9701_16
+9701_15	has_surface_form	Bruno
+9701_16	is_in_sentence	sentence_9701
+9701_16	conj	9701_13
+9701_16	has_surface_form	Coviello
+9701_17	is_in_sentence	sentence_9701
+9701_17	punct	9701_2
+9701_17	has_surface_form	.
+9701_18	is_in_sentence	sentence_9701
+9701_18	dep	9701_2
+9701_18	has_surface_form	
+Light Asylum	surface_form	Light Asylum
+Light Asylum	org-has-member	Shannon Funchess
+Shannon Funchess	surface_form	Shannon Funchess

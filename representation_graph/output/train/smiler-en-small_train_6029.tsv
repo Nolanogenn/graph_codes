@@ -1,0 +1,62 @@
+6028_0	is_in_sentence	sentence_6028
+6028_0	det	6028_4
+6028_0	has_surface_form	A
+6028_4	is_in_sentence	sentence_6028
+6028_4	nsubjpass	6028_6
+6028_4	has_surface_form	projector
+6028_4	part_of_entity	movie projector
+6028_1	is_in_sentence	sentence_6028
+6028_1	advmod	6028_2
+6028_1	has_surface_form	more
+6028_2	is_in_sentence	sentence_6028
+6028_2	amod	6028_4
+6028_2	has_surface_form	sophisticated
+6028_3	is_in_sentence	sentence_6028
+6028_3	compound	6028_4
+6028_3	has_surface_form	movie
+6028_3	part_of_entity	movie projector
+6028_6	is_in_sentence	sentence_6028
+6028_6	ROOT	6028_6
+6028_6	has_surface_form	invented
+6028_5	is_in_sentence	sentence_6028
+6028_5	auxpass	6028_6
+6028_5	has_surface_form	was
+6028_7	is_in_sentence	sentence_6028
+6028_7	agent	6028_6
+6028_7	has_surface_form	by
+6028_8	is_in_sentence	sentence_6028
+6028_8	compound	6028_11
+6028_8	has_surface_form	Frenchman
+6028_11	is_in_sentence	sentence_6028
+6028_11	pobj	6028_7
+6028_11	has_surface_form	Prince
+6028_11	part_of_entity	Louis Le Prince
+6028_9	is_in_sentence	sentence_6028
+6028_9	compound	6028_11
+6028_9	has_surface_form	Louis
+6028_9	part_of_entity	Louis Le Prince
+6028_10	is_in_sentence	sentence_6028
+6028_10	compound	6028_11
+6028_10	has_surface_form	Le
+6028_10	part_of_entity	Louis Le Prince
+6028_12	is_in_sentence	sentence_6028
+6028_12	mark	6028_13
+6028_12	has_surface_form	while
+6028_13	is_in_sentence	sentence_6028
+6028_13	advcl	6028_6
+6028_13	has_surface_form	working
+6028_14	is_in_sentence	sentence_6028
+6028_14	prep	6028_13
+6028_14	has_surface_form	in
+6028_15	is_in_sentence	sentence_6028
+6028_15	pobj	6028_14
+6028_15	has_surface_form	Leeds
+6028_16	is_in_sentence	sentence_6028
+6028_16	punct	6028_6
+6028_16	has_surface_form	.
+6028_17	is_in_sentence	sentence_6028
+6028_17	dep	6028_17
+6028_17	has_surface_form	
+movie projector	surface_form	movie projector
+movie projector	invented-by	Louis Le Prince
+Louis Le Prince	surface_form	Louis Le Prince

@@ -1,0 +1,69 @@
+16603_0	is_in_sentence	sentence_16603
+16603_0	det	16603_1
+16603_0	has_surface_form	The
+16603_1	is_in_sentence	sentence_16603
+16603_1	nsubjpass	16603_3
+16603_1	has_surface_form	county
+16603_3	is_in_sentence	sentence_16603
+16603_3	ROOT	16603_3
+16603_3	has_surface_form	named
+16603_2	is_in_sentence	sentence_16603
+16603_2	auxpass	16603_3
+16603_2	has_surface_form	was
+16603_4	is_in_sentence	sentence_16603
+16603_4	prep	16603_3
+16603_4	has_surface_form	in
+16603_5	is_in_sentence	sentence_16603
+16603_5	pobj	16603_4
+16603_5	has_surface_form	honor
+16603_6	is_in_sentence	sentence_16603
+16603_6	prep	16603_5
+16603_6	has_surface_form	of
+16603_7	is_in_sentence	sentence_16603
+16603_7	compound	16603_10
+16603_7	has_surface_form	Dr.
+16603_10	is_in_sentence	sentence_16603
+16603_10	pobj	16603_6
+16603_10	has_surface_form	Throckmorton
+16603_10	part_of_entity	William E. Throckmorton
+16603_8	is_in_sentence	sentence_16603
+16603_8	compound	16603_10
+16603_8	has_surface_form	William
+16603_8	part_of_entity	William E. Throckmorton
+16603_9	is_in_sentence	sentence_16603
+16603_9	compound	16603_10
+16603_9	has_surface_form	E.
+16603_9	part_of_entity	William E. Throckmorton
+16603_11	is_in_sentence	sentence_16603
+16603_11	punct	16603_10
+16603_11	has_surface_form	,
+16603_12	is_in_sentence	sentence_16603
+16603_12	det	16603_13
+16603_12	has_surface_form	the
+16603_13	is_in_sentence	sentence_16603
+16603_13	appos	16603_10
+16603_13	has_surface_form	father
+16603_14	is_in_sentence	sentence_16603
+16603_14	prep	16603_13
+16603_14	has_surface_form	of
+16603_15	is_in_sentence	sentence_16603
+16603_15	compound	16603_17
+16603_15	has_surface_form	James
+16603_15	part_of_entity	James W. Throckmorton
+16603_17	is_in_sentence	sentence_16603
+16603_17	pobj	16603_14
+16603_17	has_surface_form	Throckmorton
+16603_17	part_of_entity	James W. Throckmorton
+16603_16	is_in_sentence	sentence_16603
+16603_16	compound	16603_17
+16603_16	has_surface_form	W.
+16603_16	part_of_entity	James W. Throckmorton
+16603_18	is_in_sentence	sentence_16603
+16603_18	punct	16603_3
+16603_18	has_surface_form	.
+16603_19	is_in_sentence	sentence_16603
+16603_19	dep	16603_3
+16603_19	has_surface_form	
+William E. Throckmorton	surface_form	William E. Throckmorton
+William E. Throckmorton	has-child	James W. Throckmorton
+James W. Throckmorton	surface_form	James W. Throckmorton

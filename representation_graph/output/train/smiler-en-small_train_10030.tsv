@@ -1,0 +1,62 @@
+10029_0	is_in_sentence	sentence_10029
+10029_0	det	10029_2
+10029_0	has_surface_form	The
+10029_0	part_of_entity	The Flying Twins
+10029_2	is_in_sentence	sentence_10029
+10029_2	nsubj	10029_3
+10029_2	has_surface_form	Twins
+10029_2	part_of_entity	The Flying Twins
+10029_1	is_in_sentence	sentence_10029
+10029_1	compound	10029_2
+10029_1	has_surface_form	Flying
+10029_1	part_of_entity	The Flying Twins
+10029_3	is_in_sentence	sentence_10029
+10029_3	ROOT	10029_3
+10029_3	has_surface_form	is
+10029_4	is_in_sentence	sentence_10029
+10029_4	det	10029_10
+10029_4	has_surface_form	a
+10029_10	is_in_sentence	sentence_10029
+10029_10	attr	10029_3
+10029_10	has_surface_form	film
+10029_5	is_in_sentence	sentence_10029
+10029_5	nummod	10029_10
+10029_5	has_surface_form	1915
+10029_6	is_in_sentence	sentence_10029
+10029_6	amod	10029_10
+10029_6	has_surface_form	American
+10029_7	is_in_sentence	sentence_10029
+10029_7	amod	10029_10
+10029_7	has_surface_form	short
+10029_8	is_in_sentence	sentence_10029
+10029_8	amod	10029_10
+10029_8	has_surface_form	silent
+10029_9	is_in_sentence	sentence_10029
+10029_9	compound	10029_10
+10029_9	has_surface_form	drama
+10029_11	is_in_sentence	sentence_10029
+10029_11	punct	10029_10
+10029_11	has_surface_form	,
+10029_12	is_in_sentence	sentence_10029
+10029_12	acl	10029_10
+10029_12	has_surface_form	directed
+10029_13	is_in_sentence	sentence_10029
+10029_13	agent	10029_12
+10029_13	has_surface_form	by
+10029_14	is_in_sentence	sentence_10029
+10029_14	compound	10029_15
+10029_14	has_surface_form	Jack
+10029_14	part_of_entity	Jack Harvey
+10029_15	is_in_sentence	sentence_10029
+10029_15	pobj	10029_13
+10029_15	has_surface_form	Harvey
+10029_15	part_of_entity	Jack Harvey
+10029_16	is_in_sentence	sentence_10029
+10029_16	punct	10029_3
+10029_16	has_surface_form	.
+10029_17	is_in_sentence	sentence_10029
+10029_17	dep	10029_3
+10029_17	has_surface_form	
+The Flying Twins	surface_form	The Flying Twins
+The Flying Twins	movie-has-director	Jack Harvey
+Jack Harvey	surface_form	Jack Harvey

@@ -1,0 +1,41 @@
+20805_0	is_in_sentence	sentence_20805
+20805_0	compound	20805_1
+20805_0	has_surface_form	Dhirendra
+20805_0	part_of_entity	Dhirendra Mehta
+20805_1	is_in_sentence	sentence_20805
+20805_1	nsubjpass	20805_3
+20805_1	has_surface_form	Mehta
+20805_1	part_of_entity	Dhirendra Mehta
+20805_3	is_in_sentence	sentence_20805
+20805_3	ROOT	20805_3
+20805_3	has_surface_form	born
+20805_2	is_in_sentence	sentence_20805
+20805_2	auxpass	20805_3
+20805_2	has_surface_form	was
+20805_4	is_in_sentence	sentence_20805
+20805_4	prep	20805_3
+20805_4	has_surface_form	in
+20805_5	is_in_sentence	sentence_20805
+20805_5	pobj	20805_4
+20805_5	is_entity	Ahmedabad
+Ahmedabad	surface_form	Ahmedabad
+20805_6	is_in_sentence	sentence_20805
+20805_6	prep	20805_3
+20805_6	has_surface_form	on
+20805_7	is_in_sentence	sentence_20805
+20805_7	nummod	20805_8
+20805_7	has_surface_form	29
+20805_8	is_in_sentence	sentence_20805
+20805_8	pobj	20805_6
+20805_8	has_surface_form	August
+20805_9	is_in_sentence	sentence_20805
+20805_9	nummod	20805_8
+20805_9	has_surface_form	1944
+20805_10	is_in_sentence	sentence_20805
+20805_10	punct	20805_3
+20805_10	has_surface_form	.
+20805_11	is_in_sentence	sentence_20805
+20805_11	dep	20805_11
+20805_11	has_surface_form	
+Dhirendra Mehta	surface_form	Dhirendra Mehta
+Dhirendra Mehta	birth-place	Ahmedabad

@@ -1,0 +1,54 @@
+1228_0	is_in_sentence	sentence_1228
+1228_0	compound	1228_2
+1228_0	has_surface_form	Southaven
+1228_0	part_of_entity	Southaven High School
+1228_2	is_in_sentence	sentence_1228
+1228_2	nsubj	1228_3
+1228_2	has_surface_form	School
+1228_2	part_of_entity	Southaven High School
+1228_1	is_in_sentence	sentence_1228
+1228_1	compound	1228_2
+1228_1	has_surface_form	High
+1228_1	part_of_entity	Southaven High School
+1228_3	is_in_sentence	sentence_1228
+1228_3	ROOT	1228_3
+1228_3	has_surface_form	is
+1228_4	is_in_sentence	sentence_1228
+1228_4	det	1228_7
+1228_4	has_surface_form	a
+1228_7	is_in_sentence	sentence_1228
+1228_7	attr	1228_3
+1228_7	has_surface_form	school
+1228_7	part_of_entity	public secondary school
+1228_5	is_in_sentence	sentence_1228
+1228_5	amod	1228_7
+1228_5	has_surface_form	public
+1228_5	part_of_entity	public secondary school
+1228_6	is_in_sentence	sentence_1228
+1228_6	amod	1228_7
+1228_6	has_surface_form	secondary
+1228_6	part_of_entity	public secondary school
+1228_8	is_in_sentence	sentence_1228
+1228_8	acl	1228_7
+1228_8	has_surface_form	located
+1228_9	is_in_sentence	sentence_1228
+1228_9	prep	1228_8
+1228_9	has_surface_form	in
+1228_10	is_in_sentence	sentence_1228
+1228_10	pobj	1228_9
+1228_10	has_surface_form	Southaven
+1228_11	is_in_sentence	sentence_1228
+1228_11	punct	1228_10
+1228_11	has_surface_form	,
+1228_12	is_in_sentence	sentence_1228
+1228_12	appos	1228_10
+1228_12	has_surface_form	Mississippi
+1228_13	is_in_sentence	sentence_1228
+1228_13	punct	1228_3
+1228_13	has_surface_form	.
+1228_14	is_in_sentence	sentence_1228
+1228_14	dep	1228_14
+1228_14	has_surface_form	
+Southaven High School	surface_form	Southaven High School
+Southaven High School	has-type	public secondary school
+public secondary school	surface_form	public secondary school

@@ -1,0 +1,53 @@
+6812_0	is_in_sentence	sentence_6812
+6812_0	nsubjpass	6812_2
+6812_0	is_entity	Chamuel
+6812_2	is_in_sentence	sentence_6812
+6812_2	ROOT	6812_2
+6812_2	has_surface_form	born
+Chamuel	surface_form	Chamuel
+Chamuel	has-parent	Jacques Chamuel
+6812_1	is_in_sentence	sentence_6812
+6812_1	auxpass	6812_2
+6812_1	has_surface_form	was
+6812_3	is_in_sentence	sentence_6812
+6812_3	prep	6812_2
+6812_3	has_surface_form	in
+6812_4	is_in_sentence	sentence_6812
+6812_4	pobj	6812_3
+6812_4	has_surface_form	Wellesley
+6812_5	is_in_sentence	sentence_6812
+6812_5	punct	6812_4
+6812_5	has_surface_form	,
+6812_6	is_in_sentence	sentence_6812
+6812_6	appos	6812_4
+6812_6	has_surface_form	Massachusetts
+6812_7	is_in_sentence	sentence_6812
+6812_7	punct	6812_4
+6812_7	has_surface_form	,
+6812_8	is_in_sentence	sentence_6812
+6812_8	prep	6812_2
+6812_8	has_surface_form	to
+6812_9	is_in_sentence	sentence_6812
+6812_9	compound	6812_10
+6812_9	has_surface_form	Joalie
+6812_10	is_in_sentence	sentence_6812
+6812_10	pobj	6812_8
+6812_10	has_surface_form	Davie
+6812_11	is_in_sentence	sentence_6812
+6812_11	cc	6812_10
+6812_11	has_surface_form	and
+6812_12	is_in_sentence	sentence_6812
+6812_12	compound	6812_13
+6812_12	has_surface_form	Jacques
+6812_12	part_of_entity	Jacques Chamuel
+6812_13	is_in_sentence	sentence_6812
+6812_13	conj	6812_10
+6812_13	is_entity	Chamuel
+6812_13	part_of_entity	Jacques Chamuel
+6812_14	is_in_sentence	sentence_6812
+6812_14	punct	6812_2
+6812_14	has_surface_form	.
+6812_15	is_in_sentence	sentence_6812
+6812_15	dep	6812_2
+6812_15	has_surface_form	
+Jacques Chamuel	surface_form	Jacques Chamuel

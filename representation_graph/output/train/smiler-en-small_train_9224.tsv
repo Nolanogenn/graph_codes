@@ -1,0 +1,89 @@
+9223_0	is_in_sentence	sentence_9223
+9223_0	compound	9223_1
+9223_0	has_surface_form	Ernie
+9223_0	part_of_entity	Ernie Nestor
+9223_1	is_in_sentence	sentence_9223
+9223_1	nsubj	9223_9
+9223_1	has_surface_form	Nestor
+9223_1	part_of_entity	Ernie Nestor
+9223_9	is_in_sentence	sentence_9223
+9223_9	ROOT	9223_9
+9223_9	has_surface_form	is
+9223_2	is_in_sentence	sentence_9223
+9223_2	punct	9223_1
+9223_2	has_surface_form	(
+9223_3	is_in_sentence	sentence_9223
+9223_3	acl	9223_1
+9223_3	has_surface_form	born
+9223_4	is_in_sentence	sentence_9223
+9223_4	npadvmod	9223_3
+9223_4	has_surface_form	August
+9223_5	is_in_sentence	sentence_9223
+9223_5	nummod	9223_4
+9223_5	has_surface_form	19
+9223_6	is_in_sentence	sentence_9223
+9223_6	punct	9223_4
+9223_6	has_surface_form	,
+9223_7	is_in_sentence	sentence_9223
+9223_7	nummod	9223_4
+9223_7	has_surface_form	1946
+9223_8	is_in_sentence	sentence_9223
+9223_8	punct	9223_1
+9223_8	has_surface_form	)
+9223_10	is_in_sentence	sentence_9223
+9223_10	det	9223_14
+9223_10	has_surface_form	an
+9223_14	is_in_sentence	sentence_9223
+9223_14	attr	9223_9
+9223_14	has_surface_form	coach
+9223_14	part_of_entity	college basketball coach
+9223_11	is_in_sentence	sentence_9223
+9223_11	amod	9223_14
+9223_11	has_surface_form	American
+9223_12	is_in_sentence	sentence_9223
+9223_12	compound	9223_13
+9223_12	has_surface_form	college
+9223_12	part_of_entity	college basketball coach
+9223_13	is_in_sentence	sentence_9223
+9223_13	compound	9223_14
+9223_13	has_surface_form	basketball
+9223_13	part_of_entity	college basketball coach
+9223_15	is_in_sentence	sentence_9223
+9223_15	punct	9223_14
+9223_15	has_surface_form	,
+9223_16	is_in_sentence	sentence_9223
+9223_16	advmod	9223_19
+9223_16	has_surface_form	formally
+9223_19	is_in_sentence	sentence_9223
+9223_19	appos	9223_14
+9223_19	has_surface_form	coach
+9223_17	is_in_sentence	sentence_9223
+9223_17	det	9223_19
+9223_17	has_surface_form	an
+9223_18	is_in_sentence	sentence_9223
+9223_18	amod	9223_19
+9223_18	has_surface_form	assistant
+9223_20	is_in_sentence	sentence_9223
+9223_20	prep	9223_19
+9223_20	has_surface_form	at
+9223_21	is_in_sentence	sentence_9223
+9223_21	det	9223_22
+9223_21	has_surface_form	the
+9223_22	is_in_sentence	sentence_9223
+9223_22	pobj	9223_20
+9223_22	has_surface_form	University
+9223_23	is_in_sentence	sentence_9223
+9223_23	prep	9223_22
+9223_23	has_surface_form	of
+9223_24	is_in_sentence	sentence_9223
+9223_24	pobj	9223_23
+9223_24	has_surface_form	Missouri
+9223_25	is_in_sentence	sentence_9223
+9223_25	punct	9223_9
+9223_25	has_surface_form	.
+9223_26	is_in_sentence	sentence_9223
+9223_26	dep	9223_26
+9223_26	has_surface_form	
+Ernie Nestor	surface_form	Ernie Nestor
+Ernie Nestor	has-type	college basketball coach
+college basketball coach	surface_form	college basketball coach

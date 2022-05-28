@@ -1,0 +1,101 @@
+18961_0	is_in_sentence	sentence_18961
+18961_0	nmod	18961_2
+18961_0	has_surface_form	Pappa
+18961_0	part_of_entity	Pappa tar gull
+18961_2	is_in_sentence	sentence_18961
+18961_2	nsubj	18961_10
+18961_2	has_surface_form	gull
+18961_2	part_of_entity	Pappa tar gull
+18961_1	is_in_sentence	sentence_18961
+18961_1	compound	18961_2
+18961_1	has_surface_form	tar
+18961_1	part_of_entity	Pappa tar gull
+18961_10	is_in_sentence	sentence_18961
+18961_10	ROOT	18961_10
+18961_10	has_surface_form	is
+18961_3	is_in_sentence	sentence_18961
+18961_3	punct	18961_2
+18961_3	has_surface_form	(
+18961_4	is_in_sentence	sentence_18961
+18961_4	appos	18961_2
+18961_4	has_surface_form	English
+18961_5	is_in_sentence	sentence_18961
+18961_5	punct	18961_2
+18961_5	has_surface_form	:
+18961_6	is_in_sentence	sentence_18961
+18961_6	poss	18961_8
+18961_6	has_surface_form	Daddy
+18961_8	is_in_sentence	sentence_18961
+18961_8	appos	18961_2
+18961_8	has_surface_form	Success
+18961_7	is_in_sentence	sentence_18961
+18961_7	case	18961_6
+18961_7	has_surface_form	's
+18961_9	is_in_sentence	sentence_18961
+18961_9	punct	18961_2
+18961_9	has_surface_form	)
+18961_11	is_in_sentence	sentence_18961
+18961_11	det	18961_15
+18961_11	has_surface_form	a
+18961_15	is_in_sentence	sentence_18961
+18961_15	attr	18961_10
+18961_15	has_surface_form	film
+18961_12	is_in_sentence	sentence_18961
+18961_12	nummod	18961_15
+18961_12	has_surface_form	1964
+18961_13	is_in_sentence	sentence_18961
+18961_13	amod	18961_15
+18961_13	has_surface_form	Norwegian
+18961_14	is_in_sentence	sentence_18961
+18961_14	compound	18961_15
+18961_14	has_surface_form	comedy
+18961_16	is_in_sentence	sentence_18961
+18961_16	acl	18961_15
+18961_16	has_surface_form	written
+18961_17	is_in_sentence	sentence_18961
+18961_17	cc	18961_16
+18961_17	has_surface_form	and
+18961_18	is_in_sentence	sentence_18961
+18961_18	conj	18961_16
+18961_18	has_surface_form	directed
+18961_19	is_in_sentence	sentence_18961
+18961_19	agent	18961_18
+18961_19	has_surface_form	by
+18961_20	is_in_sentence	sentence_18961
+18961_20	compound	18961_21
+18961_20	has_surface_form	Arne
+18961_20	part_of_entity	Arne Skouen
+18961_21	is_in_sentence	sentence_18961
+18961_21	pobj	18961_19
+18961_21	has_surface_form	Skouen
+18961_21	part_of_entity	Arne Skouen
+18961_22	is_in_sentence	sentence_18961
+18961_22	punct	18961_10
+18961_22	has_surface_form	,
+18961_23	is_in_sentence	sentence_18961
+18961_23	advcl	18961_10
+18961_23	has_surface_form	starring
+18961_24	is_in_sentence	sentence_18961
+18961_24	compound	18961_25
+18961_24	has_surface_form	Sølvi
+18961_25	is_in_sentence	sentence_18961
+18961_25	dobj	18961_23
+18961_25	has_surface_form	Wang
+18961_26	is_in_sentence	sentence_18961
+18961_26	cc	18961_25
+18961_26	has_surface_form	and
+18961_27	is_in_sentence	sentence_18961
+18961_27	compound	18961_28
+18961_27	has_surface_form	Henki
+18961_28	is_in_sentence	sentence_18961
+18961_28	conj	18961_25
+18961_28	has_surface_form	Kolstad
+18961_29	is_in_sentence	sentence_18961
+18961_29	punct	18961_10
+18961_29	has_surface_form	.
+18961_30	is_in_sentence	sentence_18961
+18961_30	dep	18961_10
+18961_30	has_surface_form	
+Pappa tar gull	surface_form	Pappa tar gull
+Pappa tar gull	movie-has-director	Arne Skouen
+Arne Skouen	surface_form	Arne Skouen

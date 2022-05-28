@@ -1,0 +1,56 @@
+32479_0	is_in_sentence	sentence_32479
+32479_0	compound	32479_1
+32479_0	has_surface_form	Warren
+32479_0	part_of_entity	Warren Clarke
+32479_1	is_in_sentence	sentence_32479
+32479_1	nsubj	32479_11
+32479_1	has_surface_form	Clarke
+32479_1	part_of_entity	Warren Clarke
+32479_11	is_in_sentence	sentence_32479
+32479_11	ROOT	32479_11
+32479_11	has_surface_form	was
+32479_2	is_in_sentence	sentence_32479
+32479_2	punct	32479_1
+32479_2	has_surface_form	(
+32479_3	is_in_sentence	sentence_32479
+32479_3	nummod	32479_4
+32479_3	has_surface_form	26
+32479_4	is_in_sentence	sentence_32479
+32479_4	appos	32479_1
+32479_4	has_surface_form	April
+32479_5	is_in_sentence	sentence_32479
+32479_5	nummod	32479_4
+32479_5	has_surface_form	1947
+32479_6	is_in_sentence	sentence_32479
+32479_6	punct	32479_8
+32479_6	has_surface_form	–
+32479_8	is_in_sentence	sentence_32479
+32479_8	appos	32479_4
+32479_8	has_surface_form	November
+32479_7	is_in_sentence	sentence_32479
+32479_7	nummod	32479_8
+32479_7	has_surface_form	12
+32479_9	is_in_sentence	sentence_32479
+32479_9	nummod	32479_8
+32479_9	has_surface_form	2014
+32479_10	is_in_sentence	sentence_32479
+32479_10	punct	32479_8
+32479_10	has_surface_form	)
+32479_12	is_in_sentence	sentence_32479
+32479_12	det	32479_14
+32479_12	has_surface_form	an
+32479_14	is_in_sentence	sentence_32479
+32479_14	attr	32479_11
+32479_14	has_surface_form	actor
+32479_13	is_in_sentence	sentence_32479
+32479_13	amod	32479_14
+32479_13	is_entity	English
+English	surface_form	English
+32479_15	is_in_sentence	sentence_32479
+32479_15	punct	32479_11
+32479_15	has_surface_form	.
+32479_16	is_in_sentence	sentence_32479
+32479_16	dep	32479_11
+32479_16	has_surface_form	
+Warren Clarke	surface_form	Warren Clarke
+Warren Clarke	has-nationality	English

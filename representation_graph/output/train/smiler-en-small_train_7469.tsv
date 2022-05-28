@@ -1,0 +1,74 @@
+7468_0	is_in_sentence	sentence_7468
+7468_0	det	7468_4
+7468_0	has_surface_form	The
+7468_4	is_in_sentence	sentence_7468
+7468_4	poss	7468_6
+7468_4	has_surface_form	Prosecutor
+7468_1	is_in_sentence	sentence_7468
+7468_1	compound	7468_4
+7468_1	has_surface_form	French
+7468_2	is_in_sentence	sentence_7468
+7468_2	compound	7468_4
+7468_2	has_surface_form	Financial
+7468_3	is_in_sentence	sentence_7468
+7468_3	compound	7468_4
+7468_3	has_surface_form	Public
+7468_6	is_in_sentence	sentence_7468
+7468_6	nsubj	7468_7
+7468_6	has_surface_form	Office
+7468_5	is_in_sentence	sentence_7468
+7468_5	case	7468_4
+7468_5	has_surface_form	's
+7468_7	is_in_sentence	sentence_7468
+7468_7	ROOT	7468_7
+7468_7	has_surface_form	launched
+7468_8	is_in_sentence	sentence_7468
+7468_8	det	7468_9
+7468_8	has_surface_form	an
+7468_9	is_in_sentence	sentence_7468
+7468_9	dobj	7468_7
+7468_9	has_surface_form	investigation
+7468_10	is_in_sentence	sentence_7468
+7468_10	prep	7468_9
+7468_10	has_surface_form	into
+7468_11	is_in_sentence	sentence_7468
+7468_11	compound	7468_13
+7468_11	has_surface_form	President
+7468_13	is_in_sentence	sentence_7468
+7468_13	poss	7468_15
+7468_13	has_surface_form	Conde
+7468_13	part_of_entity	Alpha Conde
+7468_12	is_in_sentence	sentence_7468
+7468_12	compound	7468_13
+7468_12	has_surface_form	Alpha
+7468_12	part_of_entity	Alpha Conde
+7468_15	is_in_sentence	sentence_7468
+7468_15	pobj	7468_10
+7468_15	has_surface_form	son
+7468_14	is_in_sentence	sentence_7468
+7468_14	case	7468_13
+7468_14	has_surface_form	's
+7468_16	is_in_sentence	sentence_7468
+7468_16	punct	7468_15
+7468_16	has_surface_form	,
+7468_17	is_in_sentence	sentence_7468
+7468_17	compound	7468_19
+7468_17	has_surface_form	Mohamed
+7468_17	part_of_entity	Mohamed Alpha Condé
+7468_19	is_in_sentence	sentence_7468
+7468_19	appos	7468_15
+7468_19	has_surface_form	Condé
+7468_19	part_of_entity	Mohamed Alpha Condé
+7468_18	is_in_sentence	sentence_7468
+7468_18	compound	7468_19
+7468_18	has_surface_form	Alpha
+7468_18	part_of_entity	Mohamed Alpha Condé
+7468_20	is_in_sentence	sentence_7468
+7468_20	punct	7468_7
+7468_20	has_surface_form	.
+7468_21	is_in_sentence	sentence_7468
+7468_21	dep	7468_7
+7468_21	has_surface_form	
+Alpha Conde	surface_form	Alpha Conde
+Alpha Conde	has-child	Mohamed Alpha Condé
+Mohamed Alpha Condé	surface_form	Mohamed Alpha Condé

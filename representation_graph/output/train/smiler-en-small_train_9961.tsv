@@ -1,0 +1,62 @@
+9960_0	is_in_sentence	sentence_9960
+9960_0	compound	9960_1
+9960_0	has_surface_form	Prematho
+9960_0	part_of_entity	Prematho Raa
+9960_1	is_in_sentence	sentence_9960
+9960_1	nsubj	9960_9
+9960_1	has_surface_form	Raa
+9960_1	part_of_entity	Prematho Raa
+9960_9	is_in_sentence	sentence_9960
+9960_9	ROOT	9960_9
+9960_9	has_surface_form	is
+9960_2	is_in_sentence	sentence_9960
+9960_2	punct	9960_5
+9960_2	has_surface_form	(
+9960_5	is_in_sentence	sentence_9960
+9960_5	parataxis	9960_1
+9960_5	has_surface_form	Come
+9960_3	is_in_sentence	sentence_9960
+9960_3	nsubj	9960_5
+9960_3	has_surface_form	English
+9960_4	is_in_sentence	sentence_9960
+9960_4	punct	9960_5
+9960_4	has_surface_form	:
+9960_6	is_in_sentence	sentence_9960
+9960_6	prep	9960_5
+9960_6	has_surface_form	with
+9960_7	is_in_sentence	sentence_9960
+9960_7	pobj	9960_6
+9960_7	has_surface_form	Love
+9960_8	is_in_sentence	sentence_9960
+9960_8	punct	9960_5
+9960_8	has_surface_form	)
+9960_10	is_in_sentence	sentence_9960
+9960_10	det	9960_14
+9960_10	has_surface_form	a
+9960_14	is_in_sentence	sentence_9960
+9960_14	attr	9960_9
+9960_14	is_entity	film
+9960_11	is_in_sentence	sentence_9960
+9960_11	nummod	9960_14
+9960_11	has_surface_form	2001
+9960_12	is_in_sentence	sentence_9960
+9960_12	compound	9960_13
+9960_12	has_surface_form	Telugu
+9960_13	is_in_sentence	sentence_9960
+9960_13	compound	9960_14
+9960_13	has_surface_form	language
+film	surface_form	film
+9960_15	is_in_sentence	sentence_9960
+9960_15	acl	9960_14
+9960_15	has_surface_form	produced
+9960_16	is_in_sentence	sentence_9960
+9960_16	agent	9960_15
+9960_16	has_surface_form	by
+9960_17	is_in_sentence	sentence_9960
+9960_17	pobj	9960_16
+9960_17	has_surface_form	T.
+9960_18	is_in_sentence	sentence_9960
+9960_18	dep	9960_9
+9960_18	has_surface_form	
+Prematho Raa	surface_form	Prematho Raa
+Prematho Raa	has-type	film

@@ -1,0 +1,62 @@
+20949_0	is_in_sentence	sentence_20949
+20949_0	compound	20949_1
+20949_0	has_surface_form	Joe
+20949_0	part_of_entity	Joe Novak
+20949_1	is_in_sentence	sentence_20949
+20949_1	nsubj	20949_9
+20949_1	has_surface_form	Novak
+20949_1	part_of_entity	Joe Novak
+20949_9	is_in_sentence	sentence_20949
+20949_9	ROOT	20949_9
+20949_9	has_surface_form	is
+20949_2	is_in_sentence	sentence_20949
+20949_2	punct	20949_1
+20949_2	has_surface_form	(
+20949_3	is_in_sentence	sentence_20949
+20949_3	acl	20949_1
+20949_3	has_surface_form	born
+20949_4	is_in_sentence	sentence_20949
+20949_4	npadvmod	20949_3
+20949_4	has_surface_form	April
+20949_5	is_in_sentence	sentence_20949
+20949_5	nummod	20949_4
+20949_5	has_surface_form	19
+20949_6	is_in_sentence	sentence_20949
+20949_6	punct	20949_4
+20949_6	has_surface_form	,
+20949_7	is_in_sentence	sentence_20949
+20949_7	nummod	20949_4
+20949_7	has_surface_form	1945
+20949_8	is_in_sentence	sentence_20949
+20949_8	punct	20949_1
+20949_8	has_surface_form	)
+20949_10	is_in_sentence	sentence_20949
+20949_10	det	20949_14
+20949_10	has_surface_form	a
+20949_14	is_in_sentence	sentence_20949
+20949_14	attr	20949_9
+20949_14	has_surface_form	player
+20949_11	is_in_sentence	sentence_20949
+20949_11	amod	20949_14
+20949_11	has_surface_form	former
+20949_12	is_in_sentence	sentence_20949
+20949_12	amod	20949_14
+20949_12	has_surface_form	American
+20949_13	is_in_sentence	sentence_20949
+20949_13	compound	20949_14
+20949_13	has_surface_form	football
+20949_15	is_in_sentence	sentence_20949
+20949_15	cc	20949_14
+20949_15	has_surface_form	and
+20949_16	is_in_sentence	sentence_20949
+20949_16	conj	20949_14
+20949_16	is_entity	coach
+coach	surface_form	coach
+20949_17	is_in_sentence	sentence_20949
+20949_17	punct	20949_9
+20949_17	has_surface_form	.
+20949_18	is_in_sentence	sentence_20949
+20949_18	dep	20949_18
+20949_18	has_surface_form	
+Joe Novak	surface_form	Joe Novak
+Joe Novak	has-type	coach

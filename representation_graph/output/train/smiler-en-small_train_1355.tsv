@@ -1,0 +1,71 @@
+1354_0	is_in_sentence	sentence_1354
+1354_0	det	1354_2
+1354_0	has_surface_form	The
+1354_0	part_of_entity	The Wild Eye
+1354_2	is_in_sentence	sentence_1354
+1354_2	nsubj	1354_9
+1354_2	has_surface_form	Eye
+1354_2	part_of_entity	The Wild Eye
+1354_1	is_in_sentence	sentence_1354
+1354_1	compound	1354_2
+1354_1	has_surface_form	Wild
+1354_1	part_of_entity	The Wild Eye
+1354_9	is_in_sentence	sentence_1354
+1354_9	ROOT	1354_9
+1354_9	has_surface_form	is
+1354_3	is_in_sentence	sentence_1354
+1354_3	punct	1354_4
+1354_3	has_surface_form	(
+1354_4	is_in_sentence	sentence_1354
+1354_4	appos	1354_2
+1354_4	has_surface_form	Italian
+1354_5	is_in_sentence	sentence_1354
+1354_5	punct	1354_4
+1354_5	has_surface_form	:
+1354_6	is_in_sentence	sentence_1354
+1354_6	prep	1354_4
+1354_6	has_surface_form	L'occhio
+1354_7	is_in_sentence	sentence_1354
+1354_7	pobj	1354_6
+1354_7	has_surface_form	selvaggio
+1354_8	is_in_sentence	sentence_1354
+1354_8	punct	1354_4
+1354_8	has_surface_form	)
+1354_10	is_in_sentence	sentence_1354
+1354_10	det	1354_14
+1354_10	has_surface_form	a
+1354_14	is_in_sentence	sentence_1354
+1354_14	attr	1354_9
+1354_14	has_surface_form	film
+1354_11	is_in_sentence	sentence_1354
+1354_11	nummod	1354_14
+1354_11	has_surface_form	1967
+1354_12	is_in_sentence	sentence_1354
+1354_12	amod	1354_14
+1354_12	has_surface_form	Italian
+1354_13	is_in_sentence	sentence_1354
+1354_13	compound	1354_14
+1354_13	has_surface_form	drama
+1354_15	is_in_sentence	sentence_1354
+1354_15	acl	1354_14
+1354_15	has_surface_form	directed
+1354_16	is_in_sentence	sentence_1354
+1354_16	agent	1354_15
+1354_16	has_surface_form	by
+1354_17	is_in_sentence	sentence_1354
+1354_17	compound	1354_18
+1354_17	has_surface_form	Paolo
+1354_17	part_of_entity	Paolo Cavara
+1354_18	is_in_sentence	sentence_1354
+1354_18	pobj	1354_16
+1354_18	has_surface_form	Cavara
+1354_18	part_of_entity	Paolo Cavara
+1354_19	is_in_sentence	sentence_1354
+1354_19	punct	1354_9
+1354_19	has_surface_form	.
+1354_20	is_in_sentence	sentence_1354
+1354_20	dep	1354_9
+1354_20	has_surface_form	
+The Wild Eye	surface_form	The Wild Eye
+The Wild Eye	movie-has-director	Paolo Cavara
+Paolo Cavara	surface_form	Paolo Cavara

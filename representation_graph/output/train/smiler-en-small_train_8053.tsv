@@ -1,0 +1,53 @@
+8052_0	is_in_sentence	sentence_8052
+8052_0	compound	8052_1
+8052_0	has_surface_form	Kate
+8052_0	part_of_entity	Kate Yeung
+8052_1	is_in_sentence	sentence_8052
+8052_1	nsubj	8052_7
+8052_1	has_surface_form	Yeung
+8052_1	part_of_entity	Kate Yeung
+8052_7	is_in_sentence	sentence_8052
+8052_7	ROOT	8052_7
+8052_7	has_surface_form	is
+8052_2	is_in_sentence	sentence_8052
+8052_2	punct	8052_3
+8052_2	has_surface_form	(
+8052_3	is_in_sentence	sentence_8052
+8052_3	appos	8052_1
+8052_3	has_surface_form	Chinese
+8052_4	is_in_sentence	sentence_8052
+8052_4	punct	8052_3
+8052_4	has_surface_form	:
+8052_5	is_in_sentence	sentence_8052
+8052_5	appos	8052_3
+8052_5	has_surface_form	楊淇
+8052_6	is_in_sentence	sentence_8052
+8052_6	punct	8052_3
+8052_6	has_surface_form	)
+8052_8	is_in_sentence	sentence_8052
+8052_8	det	8052_11
+8052_8	has_surface_form	an
+8052_11	is_in_sentence	sentence_8052
+8052_11	attr	8052_7
+8052_11	is_entity	actress
+8052_9	is_in_sentence	sentence_8052
+8052_9	compound	8052_10
+8052_9	has_surface_form	Hong
+8052_10	is_in_sentence	sentence_8052
+8052_10	compound	8052_11
+8052_10	has_surface_form	Kong
+actress	surface_form	actress
+8052_12	is_in_sentence	sentence_8052
+8052_12	cc	8052_11
+8052_12	has_surface_form	and
+8052_13	is_in_sentence	sentence_8052
+8052_13	conj	8052_11
+8052_13	has_surface_form	singer
+8052_14	is_in_sentence	sentence_8052
+8052_14	punct	8052_7
+8052_14	has_surface_form	.
+8052_15	is_in_sentence	sentence_8052
+8052_15	dep	8052_15
+8052_15	has_surface_form	
+Kate Yeung	surface_form	Kate Yeung
+Kate Yeung	has-occupation	actress

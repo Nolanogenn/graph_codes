@@ -1,0 +1,58 @@
+296_0	is_in_sentence	sentence_296
+296_0	compound	296_1
+296_0	has_surface_form	Daejin
+296_0	part_of_entity	Daejin University
+296_1	is_in_sentence	sentence_296
+296_1	nsubj	296_2
+296_1	has_surface_form	University
+296_1	part_of_entity	Daejin University
+296_2	is_in_sentence	sentence_296
+296_2	ROOT	296_2
+296_2	has_surface_form	is
+296_3	is_in_sentence	sentence_296
+296_3	det	296_5
+296_3	has_surface_form	a
+296_5	is_in_sentence	sentence_296
+296_5	attr	296_2
+296_5	has_surface_form	university
+296_4	is_in_sentence	sentence_296
+296_4	amod	296_5
+296_4	has_surface_form	private
+296_6	is_in_sentence	sentence_296
+296_6	prep	296_5
+296_6	has_surface_form	in
+296_7	is_in_sentence	sentence_296
+296_7	compound	296_8
+296_7	has_surface_form	Pocheon
+296_7	part_of_entity	Pocheon City
+296_8	is_in_sentence	sentence_296
+296_8	pobj	296_6
+296_8	has_surface_form	City
+296_8	part_of_entity	Pocheon City
+296_9	is_in_sentence	sentence_296
+296_9	punct	296_8
+296_9	has_surface_form	,
+296_10	is_in_sentence	sentence_296
+296_10	compound	296_11
+296_10	has_surface_form	Gyeonggi
+296_11	is_in_sentence	sentence_296
+296_11	appos	296_8
+296_11	has_surface_form	province
+296_12	is_in_sentence	sentence_296
+296_12	prep	296_11
+296_12	has_surface_form	of
+296_13	is_in_sentence	sentence_296
+296_13	compound	296_14
+296_13	has_surface_form	South
+296_14	is_in_sentence	sentence_296
+296_14	pobj	296_12
+296_14	has_surface_form	Korea
+296_15	is_in_sentence	sentence_296
+296_15	punct	296_2
+296_15	has_surface_form	.
+296_16	is_in_sentence	sentence_296
+296_16	dep	296_16
+296_16	has_surface_form	
+Daejin University	surface_form	Daejin University
+Daejin University	is-where	Pocheon City
+Pocheon City	surface_form	Pocheon City

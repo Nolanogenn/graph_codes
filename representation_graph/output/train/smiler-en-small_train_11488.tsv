@@ -1,0 +1,56 @@
+11487_0	is_in_sentence	sentence_11487
+11487_0	det	11487_1
+11487_0	has_surface_form	The
+11487_1	is_in_sentence	sentence_11487
+11487_1	nsubjpass	11487_8
+11487_1	has_surface_form	forerunner
+11487_8	is_in_sentence	sentence_11487
+11487_8	ROOT	11487_8
+11487_8	has_surface_form	invented
+11487_2	is_in_sentence	sentence_11487
+11487_2	prep	11487_1
+11487_2	has_surface_form	to
+11487_3	is_in_sentence	sentence_11487
+11487_3	det	11487_6
+11487_3	has_surface_form	the
+11487_6	is_in_sentence	sentence_11487
+11487_6	pobj	11487_2
+11487_6	has_surface_form	mask
+11487_6	part_of_entity	gas mask
+11487_4	is_in_sentence	sentence_11487
+11487_4	amod	11487_6
+11487_4	has_surface_form	modern
+11487_5	is_in_sentence	sentence_11487
+11487_5	compound	11487_6
+11487_5	has_surface_form	gas
+11487_5	part_of_entity	gas mask
+11487_7	is_in_sentence	sentence_11487
+11487_7	auxpass	11487_8
+11487_7	has_surface_form	was
+11487_9	is_in_sentence	sentence_11487
+11487_9	prep	11487_8
+11487_9	has_surface_form	in
+11487_10	is_in_sentence	sentence_11487
+11487_10	pobj	11487_9
+11487_10	is_entity	1847
+1847	surface_form	1847
+11487_11	is_in_sentence	sentence_11487
+11487_11	agent	11487_8
+11487_11	has_surface_form	by
+11487_12	is_in_sentence	sentence_11487
+11487_12	compound	11487_14
+11487_12	has_surface_form	Lewis
+11487_14	is_in_sentence	sentence_11487
+11487_14	pobj	11487_11
+11487_14	has_surface_form	Haslett
+11487_13	is_in_sentence	sentence_11487
+11487_13	compound	11487_14
+11487_13	has_surface_form	P.
+11487_15	is_in_sentence	sentence_11487
+11487_15	punct	11487_8
+11487_15	has_surface_form	.
+11487_16	is_in_sentence	sentence_11487
+11487_16	dep	11487_16
+11487_16	has_surface_form	
+gas mask	surface_form	gas mask
+gas mask	invented-when	1847

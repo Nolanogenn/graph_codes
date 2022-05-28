@@ -1,0 +1,91 @@
+31441_0	is_in_sentence	sentence_31441
+31441_0	compound	31441_1
+31441_0	has_surface_form	Sindura
+31441_0	part_of_entity	Sindura Bindu
+31441_1	is_in_sentence	sentence_31441
+31441_1	nsubj	31441_2
+31441_1	has_surface_form	Bindu
+31441_1	part_of_entity	Sindura Bindu
+31441_2	is_in_sentence	sentence_31441
+31441_2	ROOT	31441_2
+31441_2	has_surface_form	is
+31441_3	is_in_sentence	sentence_31441
+31441_3	det	31441_7
+31441_3	has_surface_form	an
+31441_7	is_in_sentence	sentence_31441
+31441_7	attr	31441_2
+31441_7	has_surface_form	story
+31441_4	is_in_sentence	sentence_31441
+31441_4	nmod	31441_7
+31441_4	has_surface_form	Odia
+31441_5	is_in_sentence	sentence_31441
+31441_5	amod	31441_7
+31441_5	has_surface_form	romantic
+31441_6	is_in_sentence	sentence_31441
+31441_6	compound	31441_7
+31441_6	has_surface_form	love
+31441_8	is_in_sentence	sentence_31441
+31441_8	acl	31441_7
+31441_8	has_surface_form	released
+31441_9	is_in_sentence	sentence_31441
+31441_9	prep	31441_8
+31441_9	has_surface_form	on
+31441_10	is_in_sentence	sentence_31441
+31441_10	nummod	31441_11
+31441_10	has_surface_form	15
+31441_11	is_in_sentence	sentence_31441
+31441_11	pobj	31441_9
+31441_11	has_surface_form	July
+31441_12	is_in_sentence	sentence_31441
+31441_12	nummod	31441_11
+31441_12	has_surface_form	1976
+31441_13	is_in_sentence	sentence_31441
+31441_13	punct	31441_2
+31441_13	has_surface_form	.
+31441_14	is_in_sentence	sentence_31441
+31441_14	nsubj	31441_15
+31441_14	has_surface_form	This
+31441_15	is_in_sentence	sentence_31441
+31441_15	ROOT	31441_15
+31441_15	has_surface_form	is
+31441_16	is_in_sentence	sentence_31441
+31441_16	det	31441_18
+31441_16	has_surface_form	the
+31441_18	is_in_sentence	sentence_31441
+31441_18	attr	31441_15
+31441_18	has_surface_form	film
+31441_17	is_in_sentence	sentence_31441
+31441_17	compound	31441_18
+31441_17	has_surface_form	debut
+31441_19	is_in_sentence	sentence_31441
+31441_19	prep	31441_18
+31441_19	has_surface_form	of
+31441_20	is_in_sentence	sentence_31441
+31441_20	compound	31441_21
+31441_20	has_surface_form	ace
+31441_21	is_in_sentence	sentence_31441
+31441_21	compound	31441_23
+31441_21	has_surface_form	director
+31441_23	is_in_sentence	sentence_31441
+31441_23	pobj	31441_19
+31441_23	has_surface_form	Misra
+31441_23	part_of_entity	Sisir Misra
+31441_22	is_in_sentence	sentence_31441
+31441_22	compound	31441_23
+31441_22	has_surface_form	Sisir
+31441_22	part_of_entity	Sisir Misra
+31441_24	is_in_sentence	sentence_31441
+31441_24	prep	31441_18
+31441_24	has_surface_form	as
+31441_25	is_in_sentence	sentence_31441
+31441_25	pobj	31441_24
+31441_25	has_surface_form	director
+31441_26	is_in_sentence	sentence_31441
+31441_26	punct	31441_15
+31441_26	has_surface_form	.
+31441_27	is_in_sentence	sentence_31441
+31441_27	dep	31441_15
+31441_27	has_surface_form	
+Sindura Bindu	surface_form	Sindura Bindu
+Sindura Bindu	movie-has-director	Sisir Misra
+Sisir Misra	surface_form	Sisir Misra

@@ -1,0 +1,45 @@
+30437_0	is_in_sentence	sentence_30437
+30437_0	compound	30437_1
+30437_0	has_surface_form	Paritala
+30437_0	part_of_entity	Paritala Anjaneya Temple
+30437_1	is_in_sentence	sentence_30437
+30437_1	compound	30437_2
+30437_1	has_surface_form	Anjaneya
+30437_1	part_of_entity	Paritala Anjaneya Temple
+30437_2	is_in_sentence	sentence_30437
+30437_2	nsubj	30437_3
+30437_2	has_surface_form	Temple
+30437_2	part_of_entity	Paritala Anjaneya Temple
+30437_3	is_in_sentence	sentence_30437
+30437_3	ROOT	30437_3
+30437_3	has_surface_form	is
+30437_4	is_in_sentence	sentence_30437
+30437_4	det	30437_7
+30437_4	has_surface_form	a
+30437_7	is_in_sentence	sentence_30437
+30437_7	attr	30437_3
+30437_7	is_entity	statue
+30437_5	is_in_sentence	sentence_30437
+30437_5	nmod	30437_7
+30437_5	has_surface_form	temple
+30437_6	is_in_sentence	sentence_30437
+30437_6	amod	30437_7
+30437_6	has_surface_form	residing
+statue	surface_form	statue
+30437_8	is_in_sentence	sentence_30437
+30437_8	prep	30437_7
+30437_8	has_surface_form	of
+30437_9	is_in_sentence	sentence_30437
+30437_9	compound	30437_10
+30437_9	has_surface_form	Lord
+30437_10	is_in_sentence	sentence_30437
+30437_10	pobj	30437_8
+30437_10	has_surface_form	Hanuman
+30437_11	is_in_sentence	sentence_30437
+30437_11	punct	30437_3
+30437_11	has_surface_form	.
+30437_12	is_in_sentence	sentence_30437
+30437_12	dep	30437_12
+30437_12	has_surface_form	
+Paritala Anjaneya Temple	surface_form	Paritala Anjaneya Temple
+Paritala Anjaneya Temple	has-type	statue

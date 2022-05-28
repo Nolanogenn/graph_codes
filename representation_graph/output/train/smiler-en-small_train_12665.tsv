@@ -1,0 +1,129 @@
+12664_0	is_in_sentence	sentence_12664
+12664_0	det	12664_1
+12664_0	has_surface_form	The
+12664_1	is_in_sentence	sentence_12664
+12664_1	nsubj	12664_12
+12664_1	has_surface_form	University
+12664_1	part_of_entity	University of Texas at San Antonio Libraries
+12664_12	is_in_sentence	sentence_12664
+12664_12	ROOT	12664_12
+12664_12	has_surface_form	is
+12664_2	is_in_sentence	sentence_12664
+12664_2	prep	12664_1
+12664_2	has_surface_form	of
+12664_2	part_of_entity	University of Texas at San Antonio Libraries
+12664_3	is_in_sentence	sentence_12664
+12664_3	pobj	12664_2
+12664_3	has_surface_form	Texas
+12664_3	part_of_entity	University of Texas at San Antonio Libraries
+12664_4	is_in_sentence	sentence_12664
+12664_4	prep	12664_1
+12664_4	has_surface_form	at
+12664_4	part_of_entity	University of Texas at San Antonio Libraries
+12664_5	is_in_sentence	sentence_12664
+12664_5	compound	12664_7
+12664_5	has_surface_form	San
+12664_5	part_of_entity	University of Texas at San Antonio Libraries
+12664_7	is_in_sentence	sentence_12664
+12664_7	pobj	12664_4
+12664_7	has_surface_form	Libraries
+12664_7	part_of_entity	University of Texas at San Antonio Libraries
+12664_6	is_in_sentence	sentence_12664
+12664_6	compound	12664_7
+12664_6	has_surface_form	Antonio
+12664_6	part_of_entity	University of Texas at San Antonio Libraries
+12664_8	is_in_sentence	sentence_12664
+12664_8	punct	12664_7
+12664_8	has_surface_form	(
+12664_9	is_in_sentence	sentence_12664
+12664_9	compound	12664_10
+12664_9	has_surface_form	UTSA
+12664_10	is_in_sentence	sentence_12664
+12664_10	appos	12664_7
+12664_10	has_surface_form	Libraries
+12664_11	is_in_sentence	sentence_12664
+12664_11	punct	12664_1
+12664_11	has_surface_form	)
+12664_13	is_in_sentence	sentence_12664
+12664_13	det	12664_15
+12664_13	has_surface_form	the
+12664_15	is_in_sentence	sentence_12664
+12664_15	attr	12664_12
+12664_15	has_surface_form	library
+12664_15	part_of_entity	academic library
+12664_14	is_in_sentence	sentence_12664
+12664_14	amod	12664_15
+12664_14	has_surface_form	academic
+12664_14	part_of_entity	academic library
+12664_16	is_in_sentence	sentence_12664
+12664_16	prep	12664_15
+12664_16	has_surface_form	of
+12664_17	is_in_sentence	sentence_12664
+12664_17	det	12664_18
+12664_17	has_surface_form	The
+12664_18	is_in_sentence	sentence_12664
+12664_18	pobj	12664_16
+12664_18	has_surface_form	University
+12664_19	is_in_sentence	sentence_12664
+12664_19	prep	12664_18
+12664_19	has_surface_form	of
+12664_20	is_in_sentence	sentence_12664
+12664_20	pobj	12664_19
+12664_20	has_surface_form	Texas
+12664_21	is_in_sentence	sentence_12664
+12664_21	prep	12664_18
+12664_21	has_surface_form	at
+12664_22	is_in_sentence	sentence_12664
+12664_22	compound	12664_23
+12664_22	has_surface_form	San
+12664_23	is_in_sentence	sentence_12664
+12664_23	pobj	12664_21
+12664_23	has_surface_form	Antonio
+12664_24	is_in_sentence	sentence_12664
+12664_24	punct	12664_23
+12664_24	has_surface_form	,
+12664_25	is_in_sentence	sentence_12664
+12664_25	det	12664_28
+12664_25	has_surface_form	a
+12664_28	is_in_sentence	sentence_12664
+12664_28	appos	12664_23
+12664_28	has_surface_form	university
+12664_26	is_in_sentence	sentence_12664
+12664_26	compound	12664_27
+12664_26	has_surface_form	state
+12664_27	is_in_sentence	sentence_12664
+12664_27	compound	12664_28
+12664_27	has_surface_form	research
+12664_29	is_in_sentence	sentence_12664
+12664_29	prep	12664_28
+12664_29	has_surface_form	in
+12664_30	is_in_sentence	sentence_12664
+12664_30	compound	12664_31
+12664_30	has_surface_form	San
+12664_31	is_in_sentence	sentence_12664
+12664_31	pobj	12664_29
+12664_31	has_surface_form	Antonio
+12664_32	is_in_sentence	sentence_12664
+12664_32	punct	12664_31
+12664_32	has_surface_form	,
+12664_33	is_in_sentence	sentence_12664
+12664_33	appos	12664_31
+12664_33	has_surface_form	Texas
+12664_34	is_in_sentence	sentence_12664
+12664_34	punct	12664_31
+12664_34	has_surface_form	,
+12664_35	is_in_sentence	sentence_12664
+12664_35	compound	12664_36
+12664_35	has_surface_form	United
+12664_36	is_in_sentence	sentence_12664
+12664_36	appos	12664_31
+12664_36	has_surface_form	States
+12664_37	is_in_sentence	sentence_12664
+12664_37	punct	12664_12
+12664_37	has_surface_form	.
+12664_38	is_in_sentence	sentence_12664
+12664_38	dep	12664_12
+12664_38	has_surface_form	
+University of Texas at San Antonio Libraries	surface_form	University of Texas at San Antonio Libraries
+University of Texas at San Antonio Libraries	has-type	academic library
+academic library	surface_form	academic library

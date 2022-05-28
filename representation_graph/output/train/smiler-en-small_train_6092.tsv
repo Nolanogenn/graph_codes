@@ -1,0 +1,71 @@
+6091_0	is_in_sentence	sentence_6091
+6091_0	compound	6091_1
+6091_0	has_surface_form	Pennsylvania
+6091_0	part_of_entity	Pennsylvania Route 420
+6091_1	is_in_sentence	sentence_6091
+6091_1	nsubj	6091_7
+6091_1	has_surface_form	Route
+6091_1	part_of_entity	Pennsylvania Route 420
+6091_7	is_in_sentence	sentence_6091
+6091_7	ROOT	6091_7
+6091_7	has_surface_form	is
+6091_2	is_in_sentence	sentence_6091
+6091_2	nummod	6091_1
+6091_2	has_surface_form	420
+6091_2	part_of_entity	Pennsylvania Route 420
+6091_3	is_in_sentence	sentence_6091
+6091_3	punct	6091_1
+6091_3	has_surface_form	(
+6091_4	is_in_sentence	sentence_6091
+6091_4	appos	6091_1
+6091_4	has_surface_form	PA
+6091_5	is_in_sentence	sentence_6091
+6091_5	nummod	6091_4
+6091_5	has_surface_form	420
+6091_6	is_in_sentence	sentence_6091
+6091_6	punct	6091_4
+6091_6	has_surface_form	)
+6091_8	is_in_sentence	sentence_6091
+6091_8	det	6091_13
+6091_8	has_surface_form	a
+6091_13	is_in_sentence	sentence_6091
+6091_13	attr	6091_7
+6091_13	has_surface_form	highway
+6091_13	part_of_entity	state highway
+6091_9	is_in_sentence	sentence_6091
+6091_9	nmod	6091_13
+6091_9	has_surface_form	north
+6091_10	is_in_sentence	sentence_6091
+6091_10	punct	6091_9
+6091_10	has_surface_form	–
+6091_11	is_in_sentence	sentence_6091
+6091_11	compound	6091_12
+6091_11	has_surface_form	south
+6091_12	is_in_sentence	sentence_6091
+6091_12	appos	6091_9
+6091_12	has_surface_form	state
+6091_12	part_of_entity	state highway
+6091_14	is_in_sentence	sentence_6091
+6091_14	prep	6091_13
+6091_14	has_surface_form	in
+6091_15	is_in_sentence	sentence_6091
+6091_15	compound	6091_16
+6091_15	has_surface_form	Delaware
+6091_16	is_in_sentence	sentence_6091
+6091_16	pobj	6091_14
+6091_16	has_surface_form	County
+6091_17	is_in_sentence	sentence_6091
+6091_17	punct	6091_16
+6091_17	has_surface_form	,
+6091_18	is_in_sentence	sentence_6091
+6091_18	appos	6091_16
+6091_18	has_surface_form	Pennsylvania
+6091_19	is_in_sentence	sentence_6091
+6091_19	punct	6091_7
+6091_19	has_surface_form	.
+6091_20	is_in_sentence	sentence_6091
+6091_20	dep	6091_7
+6091_20	has_surface_form	
+Pennsylvania Route 420	surface_form	Pennsylvania Route 420
+Pennsylvania Route 420	has-type	state highway
+state highway	surface_form	state highway

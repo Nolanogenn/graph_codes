@@ -1,0 +1,43 @@
+31962_0	is_in_sentence	sentence_31962
+31962_0	det	31962_2
+31962_0	has_surface_form	The
+31962_2	is_in_sentence	sentence_31962
+31962_2	nsubj	31962_3
+31962_2	has_surface_form	minnow
+31962_2	part_of_entity	Pugnose minnow
+31962_1	is_in_sentence	sentence_31962
+31962_1	compound	31962_2
+31962_1	has_surface_form	Pugnose
+31962_1	part_of_entity	Pugnose minnow
+31962_3	is_in_sentence	sentence_31962
+31962_3	ROOT	31962_3
+31962_3	has_surface_form	has
+31962_4	is_in_sentence	sentence_31962
+31962_4	det	31962_6
+31962_4	has_surface_form	an
+31962_6	is_in_sentence	sentence_31962
+31962_6	dobj	31962_3
+31962_6	has_surface_form	lifespan
+31962_5	is_in_sentence	sentence_31962
+31962_5	amod	31962_6
+31962_5	has_surface_form	average
+31962_7	is_in_sentence	sentence_31962
+31962_7	prep	31962_6
+31962_7	has_surface_form	of
+31962_8	is_in_sentence	sentence_31962
+31962_8	nummod	31962_9
+31962_8	has_surface_form	3
+31962_8	part_of_entity	3 years
+31962_9	is_in_sentence	sentence_31962
+31962_9	pobj	31962_7
+31962_9	has_surface_form	years
+31962_9	part_of_entity	3 years
+31962_10	is_in_sentence	sentence_31962
+31962_10	punct	31962_3
+31962_10	has_surface_form	.
+31962_11	is_in_sentence	sentence_31962
+31962_11	dep	31962_11
+31962_11	has_surface_form	
+Pugnose minnow	surface_form	Pugnose minnow
+Pugnose minnow	has-lifespan	3 years
+3 years	surface_form	3 years

@@ -1,0 +1,115 @@
+461_0	is_in_sentence	sentence_461
+461_0	nsubj	461_1
+461_0	has_surface_form	Ústí
+461_0	part_of_entity	Ústí nad Labem hlavní nádraží
+461_1	is_in_sentence	sentence_461
+461_1	ccomp	461_9
+461_1	has_surface_form	nad
+461_1	part_of_entity	Ústí nad Labem hlavní nádraží
+461_9	is_in_sentence	sentence_461
+461_9	nsubj	461_14
+461_9	has_surface_form	nad
+461_2	is_in_sentence	sentence_461
+461_2	nmod	461_4
+461_2	has_surface_form	Labem
+461_2	part_of_entity	Ústí nad Labem hlavní nádraží
+461_4	is_in_sentence	sentence_461
+461_4	dobj	461_1
+461_4	has_surface_form	nádraží
+461_4	part_of_entity	Ústí nad Labem hlavní nádraží
+461_3	is_in_sentence	sentence_461
+461_3	amod	461_4
+461_3	has_surface_form	hlavní
+461_3	part_of_entity	Ústí nad Labem hlavní nádraží
+461_5	is_in_sentence	sentence_461
+461_5	punct	461_6
+461_5	has_surface_form	(
+461_6	is_in_sentence	sentence_461
+461_6	appos	461_4
+461_6	has_surface_form	English
+461_7	is_in_sentence	sentence_461
+461_7	punct	461_6
+461_7	has_surface_form	:
+461_8	is_in_sentence	sentence_461
+461_8	nsubj	461_9
+461_8	has_surface_form	Ústí
+461_14	is_in_sentence	sentence_461
+461_14	ccomp	461_27
+461_14	has_surface_form	is
+461_10	is_in_sentence	sentence_461
+461_10	compound	461_12
+461_10	has_surface_form	Labem
+461_12	is_in_sentence	sentence_461
+461_12	dobj	461_9
+461_12	has_surface_form	Station
+461_11	is_in_sentence	sentence_461
+461_11	compound	461_12
+461_11	has_surface_form	Main
+461_13	is_in_sentence	sentence_461
+461_13	punct	461_9
+461_13	has_surface_form	)
+461_27	is_in_sentence	sentence_461
+461_27	ROOT	461_27
+461_27	has_surface_form	nad
+461_15	is_in_sentence	sentence_461
+461_15	det	461_17
+461_15	has_surface_form	a
+461_17	is_in_sentence	sentence_461
+461_17	attr	461_14
+461_17	has_surface_form	station
+461_17	part_of_entity	railway station
+461_16	is_in_sentence	sentence_461
+461_16	compound	461_17
+461_16	has_surface_form	railway
+461_16	part_of_entity	railway station
+461_18	is_in_sentence	sentence_461
+461_18	prep	461_17
+461_18	has_surface_form	in
+461_19	is_in_sentence	sentence_461
+461_19	det	461_20
+461_19	has_surface_form	the
+461_20	is_in_sentence	sentence_461
+461_20	pobj	461_18
+461_20	has_surface_form	city
+461_21	is_in_sentence	sentence_461
+461_21	prep	461_20
+461_21	has_surface_form	of
+461_22	is_in_sentence	sentence_461
+461_22	nmod	461_24
+461_22	has_surface_form	Ústí
+461_24	is_in_sentence	sentence_461
+461_24	pobj	461_21
+461_24	has_surface_form	Labem
+461_23	is_in_sentence	sentence_461
+461_23	compound	461_24
+461_23	has_surface_form	nad
+461_25	is_in_sentence	sentence_461
+461_25	punct	461_27
+461_25	has_surface_form	,
+461_26	is_in_sentence	sentence_461
+461_26	nsubj	461_27
+461_26	has_surface_form	Ústí
+461_28	is_in_sentence	sentence_461
+461_28	compound	461_29
+461_28	has_surface_form	Labem
+461_29	is_in_sentence	sentence_461
+461_29	dobj	461_27
+461_29	has_surface_form	Region
+461_30	is_in_sentence	sentence_461
+461_30	punct	461_29
+461_30	has_surface_form	,
+461_31	is_in_sentence	sentence_461
+461_31	compound	461_32
+461_31	has_surface_form	Czech
+461_32	is_in_sentence	sentence_461
+461_32	appos	461_29
+461_32	has_surface_form	Republic
+461_33	is_in_sentence	sentence_461
+461_33	punct	461_27
+461_33	has_surface_form	.
+461_34	is_in_sentence	sentence_461
+461_34	dep	461_27
+461_34	has_surface_form	
+Ústí nad Labem hlavní nádraží	surface_form	Ústí nad Labem hlavní nádraží
+Ústí nad Labem hlavní nádraží	has-type	railway station
+railway station	surface_form	railway station

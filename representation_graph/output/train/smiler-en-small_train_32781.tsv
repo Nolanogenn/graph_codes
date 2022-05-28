@@ -1,0 +1,93 @@
+32780_0	is_in_sentence	sentence_32780
+32780_0	nmod	32780_1
+32780_0	has_surface_form	Bergen
+32780_0	part_of_entity	Bergen Arts and Science Charter School
+32780_1	is_in_sentence	sentence_32780
+32780_1	nmod	32780_5
+32780_1	has_surface_form	Arts
+32780_1	part_of_entity	Bergen Arts and Science Charter School
+32780_5	is_in_sentence	sentence_32780
+32780_5	nsubj	32780_12
+32780_5	has_surface_form	School
+32780_5	part_of_entity	Bergen Arts and Science Charter School
+32780_2	is_in_sentence	sentence_32780
+32780_2	cc	32780_1
+32780_2	has_surface_form	and
+32780_2	part_of_entity	Bergen Arts and Science Charter School
+32780_3	is_in_sentence	sentence_32780
+32780_3	compound	32780_4
+32780_3	has_surface_form	Science
+32780_3	part_of_entity	Bergen Arts and Science Charter School
+32780_4	is_in_sentence	sentence_32780
+32780_4	compound	32780_5
+32780_4	has_surface_form	Charter
+32780_4	part_of_entity	Bergen Arts and Science Charter School
+32780_12	is_in_sentence	sentence_32780
+32780_12	ROOT	32780_12
+32780_12	has_surface_form	is
+32780_6	is_in_sentence	sentence_32780
+32780_6	punct	32780_5
+32780_6	has_surface_form	(
+32780_7	is_in_sentence	sentence_32780
+32780_7	nmod	32780_10
+32780_7	has_surface_form	BASCS
+32780_10	is_in_sentence	sentence_32780
+32780_10	appos	32780_5
+32780_10	has_surface_form	ASCS
+32780_8	is_in_sentence	sentence_32780
+32780_8	punct	32780_7
+32780_8	has_surface_form	/
+32780_9	is_in_sentence	sentence_32780
+32780_9	compound	32780_10
+32780_9	has_surface_form	Bergen
+32780_11	is_in_sentence	sentence_32780
+32780_11	punct	32780_5
+32780_11	has_surface_form	)
+32780_13	is_in_sentence	sentence_32780
+32780_13	det	32780_16
+32780_13	has_surface_form	a
+32780_16	is_in_sentence	sentence_32780
+32780_16	attr	32780_12
+32780_16	has_surface_form	school
+32780_14	is_in_sentence	sentence_32780
+32780_14	amod	32780_15
+32780_14	has_surface_form	public
+32780_15	is_in_sentence	sentence_32780
+32780_15	compound	32780_16
+32780_15	has_surface_form	charter
+32780_17	is_in_sentence	sentence_32780
+32780_17	acl	32780_16
+32780_17	has_surface_form	based
+32780_18	is_in_sentence	sentence_32780
+32780_18	prep	32780_17
+32780_18	has_surface_form	in
+32780_19	is_in_sentence	sentence_32780
+32780_19	pobj	32780_18
+32780_19	has_surface_form	Garfield
+32780_20	is_in_sentence	sentence_32780
+32780_20	punct	32780_19
+32780_20	has_surface_form	,
+32780_21	is_in_sentence	sentence_32780
+32780_21	compound	32780_22
+32780_21	has_surface_form	New
+32780_22	is_in_sentence	sentence_32780
+32780_22	conj	32780_19
+32780_22	has_surface_form	Jersey
+32780_23	is_in_sentence	sentence_32780
+32780_23	punct	32780_22
+32780_23	has_surface_form	,
+32780_24	is_in_sentence	sentence_32780
+32780_24	compound	32780_25
+32780_24	has_surface_form	United
+32780_25	is_in_sentence	sentence_32780
+32780_25	appos	32780_19
+32780_25	has_surface_form	States
+32780_26	is_in_sentence	sentence_32780
+32780_26	punct	32780_12
+32780_26	has_surface_form	.
+32780_27	is_in_sentence	sentence_32780
+32780_27	dep	32780_12
+32780_27	has_surface_form	
+Bergen Arts and Science Charter School	surface_form	Bergen Arts and Science Charter School
+Bergen Arts and Science Charter School	is-where	Garfield, New Jersey
+Garfield, New Jersey	surface_form	Garfield, New Jersey

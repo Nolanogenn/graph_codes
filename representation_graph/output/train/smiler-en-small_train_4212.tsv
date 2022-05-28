@@ -1,0 +1,79 @@
+4211_0	is_in_sentence	sentence_4211
+4211_0	det	4211_4
+4211_0	has_surface_form	The
+4211_4	is_in_sentence	sentence_4211
+4211_4	nsubj	4211_5
+4211_4	has_surface_form	Foundation
+4211_4	part_of_entity	British Maritime Charitable Foundation
+4211_1	is_in_sentence	sentence_4211
+4211_1	compound	4211_4
+4211_1	has_surface_form	British
+4211_1	part_of_entity	British Maritime Charitable Foundation
+4211_2	is_in_sentence	sentence_4211
+4211_2	compound	4211_4
+4211_2	has_surface_form	Maritime
+4211_2	part_of_entity	British Maritime Charitable Foundation
+4211_3	is_in_sentence	sentence_4211
+4211_3	compound	4211_4
+4211_3	has_surface_form	Charitable
+4211_3	part_of_entity	British Maritime Charitable Foundation
+4211_5	is_in_sentence	sentence_4211
+4211_5	ROOT	4211_5
+4211_5	has_surface_form	is
+4211_6	is_in_sentence	sentence_4211
+4211_6	det	4211_8
+4211_6	has_surface_form	a
+4211_8	is_in_sentence	sentence_4211
+4211_8	attr	4211_5
+4211_8	is_entity	charity
+4211_7	is_in_sentence	sentence_4211
+4211_7	amod	4211_8
+4211_7	has_surface_form	registered
+charity	surface_form	charity
+4211_9	is_in_sentence	sentence_4211
+4211_9	nsubj	4211_10
+4211_9	has_surface_form	which
+4211_10	is_in_sentence	sentence_4211
+4211_10	relcl	4211_8
+4211_10	has_surface_form	promotes
+4211_11	is_in_sentence	sentence_4211
+4211_11	poss	4211_13
+4211_11	has_surface_form	Britain
+4211_13	is_in_sentence	sentence_4211
+4211_13	dobj	4211_10
+4211_13	has_surface_form	interests
+4211_12	is_in_sentence	sentence_4211
+4211_12	case	4211_11
+4211_12	has_surface_form	’s
+4211_14	is_in_sentence	sentence_4211
+4211_14	prep	4211_13
+4211_14	has_surface_form	across
+4211_15	is_in_sentence	sentence_4211
+4211_15	det	4211_17
+4211_15	has_surface_form	the
+4211_17	is_in_sentence	sentence_4211
+4211_17	pobj	4211_14
+4211_17	has_surface_form	field
+4211_16	is_in_sentence	sentence_4211
+4211_16	amod	4211_17
+4211_16	has_surface_form	maritime
+4211_18	is_in_sentence	sentence_4211
+4211_18	punct	4211_8
+4211_18	has_surface_form	,
+4211_19	is_in_sentence	sentence_4211
+4211_19	acl	4211_8
+4211_19	has_surface_form	founded
+4211_20	is_in_sentence	sentence_4211
+4211_20	prep	4211_19
+4211_20	has_surface_form	in
+4211_21	is_in_sentence	sentence_4211
+4211_21	pobj	4211_20
+4211_21	has_surface_form	1981
+4211_22	is_in_sentence	sentence_4211
+4211_22	punct	4211_5
+4211_22	has_surface_form	.
+4211_23	is_in_sentence	sentence_4211
+4211_23	dep	4211_23
+4211_23	has_surface_form	
+British Maritime Charitable Foundation	surface_form	British Maritime Charitable Foundation
+British Maritime Charitable Foundation	has-type	charity

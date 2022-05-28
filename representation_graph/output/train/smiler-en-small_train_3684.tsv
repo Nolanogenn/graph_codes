@@ -1,0 +1,82 @@
+3683_0	is_in_sentence	sentence_3683
+3683_0	csubj	3683_4
+3683_0	has_surface_form	Be
+3683_0	part_of_entity	Be Our Guest Restaurant
+3683_4	is_in_sentence	sentence_3683
+3683_4	ROOT	3683_4
+3683_4	has_surface_form	is
+3683_1	is_in_sentence	sentence_3683
+3683_1	poss	3683_3
+3683_1	has_surface_form	Our
+3683_1	part_of_entity	Be Our Guest Restaurant
+3683_3	is_in_sentence	sentence_3683
+3683_3	attr	3683_0
+3683_3	has_surface_form	Restaurant
+3683_3	part_of_entity	Be Our Guest Restaurant
+3683_2	is_in_sentence	sentence_3683
+3683_2	compound	3683_3
+3683_2	has_surface_form	Guest
+3683_2	part_of_entity	Be Our Guest Restaurant
+3683_5	is_in_sentence	sentence_3683
+3683_5	det	3683_11
+3683_5	has_surface_form	a
+3683_11	is_in_sentence	sentence_3683
+3683_11	attr	3683_4
+3683_11	is_entity	restaurant
+3683_6	is_in_sentence	sentence_3683
+3683_6	amod	3683_11
+3683_6	has_surface_form	quick
+3683_7	is_in_sentence	sentence_3683
+3683_7	nmod	3683_11
+3683_7	has_surface_form	service
+3683_8	is_in_sentence	sentence_3683
+3683_8	cc	3683_7
+3683_8	has_surface_form	and
+3683_9	is_in_sentence	sentence_3683
+3683_9	conj	3683_7
+3683_9	has_surface_form	table
+3683_10	is_in_sentence	sentence_3683
+3683_10	compound	3683_11
+3683_10	has_surface_form	service
+restaurant	surface_form	restaurant
+3683_12	is_in_sentence	sentence_3683
+3683_12	prep	3683_11
+3683_12	has_surface_form	in
+3683_13	is_in_sentence	sentence_3683
+3683_13	pobj	3683_12
+3683_13	has_surface_form	Fantasyland
+3683_14	is_in_sentence	sentence_3683
+3683_14	prep	3683_11
+3683_14	has_surface_form	at
+3683_15	is_in_sentence	sentence_3683
+3683_15	compound	3683_16
+3683_15	has_surface_form	Magic
+3683_16	is_in_sentence	sentence_3683
+3683_16	pobj	3683_14
+3683_16	has_surface_form	Kingdom
+3683_17	is_in_sentence	sentence_3683
+3683_17	prep	3683_16
+3683_17	has_surface_form	in
+3683_18	is_in_sentence	sentence_3683
+3683_18	det	3683_22
+3683_18	has_surface_form	the
+3683_22	is_in_sentence	sentence_3683
+3683_22	pobj	3683_17
+3683_22	has_surface_form	Resort
+3683_19	is_in_sentence	sentence_3683
+3683_19	compound	3683_20
+3683_19	has_surface_form	Walt
+3683_20	is_in_sentence	sentence_3683
+3683_20	compound	3683_22
+3683_20	has_surface_form	Disney
+3683_21	is_in_sentence	sentence_3683
+3683_21	compound	3683_22
+3683_21	has_surface_form	World
+3683_23	is_in_sentence	sentence_3683
+3683_23	punct	3683_4
+3683_23	has_surface_form	.
+3683_24	is_in_sentence	sentence_3683
+3683_24	dep	3683_24
+3683_24	has_surface_form	
+Be Our Guest Restaurant	surface_form	Be Our Guest Restaurant
+Be Our Guest Restaurant	has-type	restaurant

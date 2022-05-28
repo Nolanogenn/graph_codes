@@ -1,0 +1,68 @@
+16488_0	is_in_sentence	sentence_16488
+16488_0	compound	16488_1
+16488_0	has_surface_form	Wesleyan
+16488_0	part_of_entity	Wesleyan College
+16488_1	is_in_sentence	sentence_16488
+16488_1	nsubj	16488_2
+16488_1	has_surface_form	College
+16488_1	part_of_entity	Wesleyan College
+16488_2	is_in_sentence	sentence_16488
+16488_2	ROOT	16488_2
+16488_2	has_surface_form	is
+16488_3	is_in_sentence	sentence_16488
+16488_3	det	16488_10
+16488_3	has_surface_form	a
+16488_10	is_in_sentence	sentence_16488
+16488_10	attr	16488_2
+16488_10	has_surface_form	college
+16488_4	is_in_sentence	sentence_16488
+16488_4	amod	16488_10
+16488_4	has_surface_form	private
+16488_5	is_in_sentence	sentence_16488
+16488_5	punct	16488_10
+16488_5	has_surface_form	,
+16488_6	is_in_sentence	sentence_16488
+16488_6	amod	16488_7
+16488_6	has_surface_form	liberal
+16488_7	is_in_sentence	sentence_16488
+16488_7	compound	16488_8
+16488_7	has_surface_form	arts
+16488_8	is_in_sentence	sentence_16488
+16488_8	poss	16488_10
+16488_8	has_surface_form	women
+16488_9	is_in_sentence	sentence_16488
+16488_9	case	16488_8
+16488_9	has_surface_form	's
+16488_11	is_in_sentence	sentence_16488
+16488_11	acl	16488_10
+16488_11	has_surface_form	located
+16488_12	is_in_sentence	sentence_16488
+16488_12	prep	16488_11
+16488_12	has_surface_form	in
+16488_13	is_in_sentence	sentence_16488
+16488_13	pobj	16488_12
+16488_13	has_surface_form	Macon
+16488_14	is_in_sentence	sentence_16488
+16488_14	punct	16488_13
+16488_14	has_surface_form	,
+16488_15	is_in_sentence	sentence_16488
+16488_15	conj	16488_13
+16488_15	has_surface_form	Georgia
+16488_16	is_in_sentence	sentence_16488
+16488_16	punct	16488_15
+16488_16	has_surface_form	,
+16488_17	is_in_sentence	sentence_16488
+16488_17	compound	16488_18
+16488_17	has_surface_form	United
+16488_18	is_in_sentence	sentence_16488
+16488_18	conj	16488_15
+16488_18	has_surface_form	States
+16488_19	is_in_sentence	sentence_16488
+16488_19	punct	16488_2
+16488_19	has_surface_form	.
+16488_20	is_in_sentence	sentence_16488
+16488_20	dep	16488_2
+16488_20	has_surface_form	
+Wesleyan College	surface_form	Wesleyan College
+Wesleyan College	is-where	Macon, Georgia
+Macon, Georgia	surface_form	Macon, Georgia

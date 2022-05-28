@@ -1,0 +1,65 @@
+12487_0	is_in_sentence	sentence_12487
+12487_0	compound	12487_1
+12487_0	has_surface_form	Sound
+12487_0	part_of_entity	Sound Thoma
+12487_1	is_in_sentence	sentence_12487
+12487_1	nsubj	12487_9
+12487_1	has_surface_form	Thoma
+12487_1	part_of_entity	Sound Thoma
+12487_9	is_in_sentence	sentence_12487
+12487_9	ROOT	12487_9
+12487_9	has_surface_form	is
+12487_2	is_in_sentence	sentence_12487
+12487_2	punct	12487_3
+12487_2	has_surface_form	(
+12487_3	is_in_sentence	sentence_12487
+12487_3	appos	12487_1
+12487_3	has_surface_form	Malayalam
+12487_4	is_in_sentence	sentence_12487
+12487_4	dep	12487_3
+12487_4	has_surface_form	 
+12487_5	is_in_sentence	sentence_12487
+12487_5	punct	12487_3
+12487_5	has_surface_form	:
+12487_6	is_in_sentence	sentence_12487
+12487_6	appos	12487_1
+12487_6	has_surface_form	സൗണ്ട്
+12487_7	is_in_sentence	sentence_12487
+12487_7	appos	12487_1
+12487_7	has_surface_form	തോമ
+12487_8	is_in_sentence	sentence_12487
+12487_8	punct	12487_1
+12487_8	has_surface_form	)
+12487_10	is_in_sentence	sentence_12487
+12487_10	det	12487_14
+12487_10	has_surface_form	a
+12487_14	is_in_sentence	sentence_12487
+12487_14	attr	12487_9
+12487_14	has_surface_form	film
+12487_11	is_in_sentence	sentence_12487
+12487_11	nummod	12487_14
+12487_11	has_surface_form	2013
+12487_12	is_in_sentence	sentence_12487
+12487_12	compound	12487_14
+12487_12	has_surface_form	Malayalam
+12487_13	is_in_sentence	sentence_12487
+12487_13	compound	12487_14
+12487_13	has_surface_form	comedy
+12487_15	is_in_sentence	sentence_12487
+12487_15	acl	12487_14
+12487_15	has_surface_form	directed
+12487_16	is_in_sentence	sentence_12487
+12487_16	agent	12487_15
+12487_16	has_surface_form	by
+12487_17	is_in_sentence	sentence_12487
+12487_17	pobj	12487_16
+12487_17	is_entity	Vyshakh
+Vyshakh	surface_form	Vyshakh
+12487_18	is_in_sentence	sentence_12487
+12487_18	punct	12487_9
+12487_18	has_surface_form	.
+12487_19	is_in_sentence	sentence_12487
+12487_19	dep	12487_19
+12487_19	has_surface_form	
+Sound Thoma	surface_form	Sound Thoma
+Sound Thoma	movie-has-director	Vyshakh

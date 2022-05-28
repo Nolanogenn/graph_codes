@@ -1,0 +1,56 @@
+11822_0	is_in_sentence	sentence_11822
+11822_0	compound	11822_1
+11822_0	has_surface_form	Hosni
+11822_0	part_of_entity	Hosni Mubarak
+11822_1	is_in_sentence	sentence_11822
+11822_1	nsubj	11822_2
+11822_1	has_surface_form	Mubarak
+11822_1	part_of_entity	Hosni Mubarak
+11822_2	is_in_sentence	sentence_11822
+11822_2	ROOT	11822_2
+11822_2	has_surface_form	is
+11822_3	is_in_sentence	sentence_11822
+11822_3	acomp	11822_2
+11822_3	has_surface_form	married
+11822_4	is_in_sentence	sentence_11822
+11822_4	prep	11822_3
+11822_4	has_surface_form	to
+11822_5	is_in_sentence	sentence_11822
+11822_5	compound	11822_6
+11822_5	has_surface_form	Suzanne
+11822_6	is_in_sentence	sentence_11822
+11822_6	pobj	11822_4
+11822_6	has_surface_form	Mubarak
+11822_7	is_in_sentence	sentence_11822
+11822_7	cc	11822_2
+11822_7	has_surface_form	and
+11822_8	is_in_sentence	sentence_11822
+11822_8	conj	11822_2
+11822_8	has_surface_form	has
+11822_9	is_in_sentence	sentence_11822
+11822_9	nummod	11822_10
+11822_9	has_surface_form	two
+11822_10	is_in_sentence	sentence_11822
+11822_10	dobj	11822_8
+11822_10	has_surface_form	sons
+11822_11	is_in_sentence	sentence_11822
+11822_11	punct	11822_10
+11822_11	has_surface_form	:
+11822_12	is_in_sentence	sentence_11822
+11822_12	appos	11822_10
+11822_12	is_entity	Alaa
+Alaa	surface_form	Alaa
+11822_13	is_in_sentence	sentence_11822
+11822_13	cc	11822_12
+11822_13	has_surface_form	and
+11822_14	is_in_sentence	sentence_11822
+11822_14	conj	11822_12
+11822_14	has_surface_form	Gamal
+11822_15	is_in_sentence	sentence_11822
+11822_15	punct	11822_2
+11822_15	has_surface_form	.
+11822_16	is_in_sentence	sentence_11822
+11822_16	dep	11822_2
+11822_16	has_surface_form	
+Hosni Mubarak	surface_form	Hosni Mubarak
+Hosni Mubarak	has-child	Alaa

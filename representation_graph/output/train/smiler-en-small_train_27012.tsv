@@ -1,0 +1,65 @@
+27011_0	is_in_sentence	sentence_27011
+27011_0	compound	27011_1
+27011_0	has_surface_form	Andrew
+27011_0	part_of_entity	Andrew Oye
+27011_1	is_in_sentence	sentence_27011
+27011_1	nsubj	27011_9
+27011_1	has_surface_form	Oye
+27011_1	part_of_entity	Andrew Oye
+27011_9	is_in_sentence	sentence_27011
+27011_9	ROOT	27011_9
+27011_9	has_surface_form	is
+27011_2	is_in_sentence	sentence_27011
+27011_2	punct	27011_1
+27011_2	has_surface_form	(
+27011_3	is_in_sentence	sentence_27011
+27011_3	acl	27011_1
+27011_3	has_surface_form	born
+27011_4	is_in_sentence	sentence_27011
+27011_4	npadvmod	27011_3
+27011_4	has_surface_form	May
+27011_5	is_in_sentence	sentence_27011
+27011_5	nummod	27011_4
+27011_5	has_surface_form	10
+27011_6	is_in_sentence	sentence_27011
+27011_6	punct	27011_4
+27011_6	has_surface_form	,
+27011_7	is_in_sentence	sentence_27011
+27011_7	nummod	27011_4
+27011_7	has_surface_form	1974
+27011_8	is_in_sentence	sentence_27011
+27011_8	punct	27011_1
+27011_8	has_surface_form	)
+27011_10	is_in_sentence	sentence_27011
+27011_10	det	27011_12
+27011_10	has_surface_form	a
+27011_12	is_in_sentence	sentence_27011
+27011_12	attr	27011_9
+27011_12	has_surface_form	composer
+27011_11	is_in_sentence	sentence_27011
+27011_11	amod	27011_12
+27011_11	has_surface_form	Canadian
+27011_13	is_in_sentence	sentence_27011
+27011_13	prep	27011_12
+27011_13	has_surface_form	from
+27011_14	is_in_sentence	sentence_27011
+27011_14	compound	27011_15
+27011_14	has_surface_form	British
+27011_15	is_in_sentence	sentence_27011
+27011_15	pobj	27011_13
+27011_15	has_surface_form	Columbia
+27011_16	is_in_sentence	sentence_27011
+27011_16	punct	27011_15
+27011_16	has_surface_form	,
+27011_17	is_in_sentence	sentence_27011
+27011_17	appos	27011_15
+27011_17	is_entity	Canada
+Canada	surface_form	Canada
+27011_18	is_in_sentence	sentence_27011
+27011_18	punct	27011_9
+27011_18	has_surface_form	.
+27011_19	is_in_sentence	sentence_27011
+27011_19	dep	27011_9
+27011_19	has_surface_form	
+Andrew Oye	surface_form	Andrew Oye
+Andrew Oye	from-country	Canada

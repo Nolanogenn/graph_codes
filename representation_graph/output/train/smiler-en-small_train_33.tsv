@@ -1,0 +1,57 @@
+32_0	is_in_sentence	sentence_32
+32_0	compound	32_1
+32_0	has_surface_form	South
+32_0	part_of_entity	South Carolina Highway 2
+32_1	is_in_sentence	sentence_32
+32_1	compound	32_2
+32_1	has_surface_form	Carolina
+32_1	part_of_entity	South Carolina Highway 2
+32_2	is_in_sentence	sentence_32
+32_2	nsubj	32_8
+32_2	has_surface_form	Highway
+32_2	part_of_entity	South Carolina Highway 2
+32_8	is_in_sentence	sentence_32
+32_8	ROOT	32_8
+32_8	has_surface_form	is
+32_3	is_in_sentence	sentence_32
+32_3	nummod	32_2
+32_3	has_surface_form	2
+32_3	part_of_entity	South Carolina Highway 2
+32_4	is_in_sentence	sentence_32
+32_4	punct	32_5
+32_4	has_surface_form	(
+32_5	is_in_sentence	sentence_32
+32_5	appos	32_2
+32_5	has_surface_form	SC
+32_6	is_in_sentence	sentence_32
+32_6	nummod	32_5
+32_6	has_surface_form	2
+32_7	is_in_sentence	sentence_32
+32_7	punct	32_5
+32_7	has_surface_form	)
+32_9	is_in_sentence	sentence_32
+32_9	det	32_11
+32_9	has_surface_form	a
+32_11	is_in_sentence	sentence_32
+32_11	attr	32_8
+32_11	has_surface_form	highway
+32_11	part_of_entity	state highway
+32_10	is_in_sentence	sentence_32
+32_10	compound	32_11
+32_10	has_surface_form	state
+32_10	part_of_entity	state highway
+32_12	is_in_sentence	sentence_32
+32_12	prep	32_11
+32_12	has_surface_form	in
+32_13	is_in_sentence	sentence_32
+32_13	det	32_14
+32_13	has_surface_form	the
+32_14	is_in_sentence	sentence_32
+32_14	pobj	32_12
+32_14	has_surface_form	U.
+32_15	is_in_sentence	sentence_32
+32_15	dep	32_8
+32_15	has_surface_form	
+South Carolina Highway 2	surface_form	South Carolina Highway 2
+South Carolina Highway 2	has-type	state highway
+state highway	surface_form	state highway

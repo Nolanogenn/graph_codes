@@ -1,0 +1,35 @@
+9600_0	is_in_sentence	sentence_9600
+9600_0	compound	9600_1
+9600_0	has_surface_form	Kai
+9600_0	part_of_entity	Kai Soremekun
+9600_1	is_in_sentence	sentence_9600
+9600_1	nsubj	9600_2
+9600_1	has_surface_form	Soremekun
+9600_1	part_of_entity	Kai Soremekun
+9600_2	is_in_sentence	sentence_9600
+9600_2	ROOT	9600_2
+9600_2	has_surface_form	is
+9600_3	is_in_sentence	sentence_9600
+9600_3	det	9600_5
+9600_3	has_surface_form	a
+9600_5	is_in_sentence	sentence_9600
+9600_5	attr	9600_2
+9600_5	is_entity	filmmaker
+9600_4	is_in_sentence	sentence_9600
+9600_4	amod	9600_5
+9600_4	has_surface_form	Canadian
+filmmaker	surface_form	filmmaker
+9600_6	is_in_sentence	sentence_9600
+9600_6	cc	9600_5
+9600_6	has_surface_form	and
+9600_7	is_in_sentence	sentence_9600
+9600_7	conj	9600_5
+9600_7	has_surface_form	actor
+9600_8	is_in_sentence	sentence_9600
+9600_8	punct	9600_2
+9600_8	has_surface_form	.
+9600_9	is_in_sentence	sentence_9600
+9600_9	dep	9600_9
+9600_9	has_surface_form	
+Kai Soremekun	surface_form	Kai Soremekun
+Kai Soremekun	has-occupation	filmmaker

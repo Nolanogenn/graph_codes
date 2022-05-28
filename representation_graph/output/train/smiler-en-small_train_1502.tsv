@@ -1,0 +1,69 @@
+1501_0	is_in_sentence	sentence_1501
+1501_0	nsubj	1501_3
+1501_0	has_surface_form	Ride
+1501_0	part_of_entity	Ride on Vaquero
+1501_3	is_in_sentence	sentence_1501
+1501_3	ROOT	1501_3
+1501_3	has_surface_form	is
+1501_1	is_in_sentence	sentence_1501
+1501_1	prep	1501_0
+1501_1	has_surface_form	on
+1501_1	part_of_entity	Ride on Vaquero
+1501_2	is_in_sentence	sentence_1501
+1501_2	pobj	1501_1
+1501_2	has_surface_form	Vaquero
+1501_2	part_of_entity	Ride on Vaquero
+1501_4	is_in_sentence	sentence_1501
+1501_4	det	1501_8
+1501_4	has_surface_form	a
+1501_8	is_in_sentence	sentence_1501
+1501_8	attr	1501_3
+1501_8	has_surface_form	film
+1501_5	is_in_sentence	sentence_1501
+1501_5	nummod	1501_8
+1501_5	has_surface_form	1941
+1501_6	is_in_sentence	sentence_1501
+1501_6	amod	1501_8
+1501_6	has_surface_form	American
+1501_7	is_in_sentence	sentence_1501
+1501_7	amod	1501_8
+1501_7	has_surface_form	Western
+1501_9	is_in_sentence	sentence_1501
+1501_9	acl	1501_8
+1501_9	has_surface_form	directed
+1501_10	is_in_sentence	sentence_1501
+1501_10	agent	1501_9
+1501_10	has_surface_form	by
+1501_11	is_in_sentence	sentence_1501
+1501_11	compound	1501_13
+1501_11	has_surface_form	Herbert
+1501_11	part_of_entity	Herbert I. Leeds
+1501_13	is_in_sentence	sentence_1501
+1501_13	pobj	1501_10
+1501_13	has_surface_form	Leeds
+1501_13	part_of_entity	Herbert I. Leeds
+1501_12	is_in_sentence	sentence_1501
+1501_12	compound	1501_13
+1501_12	has_surface_form	I.
+1501_12	part_of_entity	Herbert I. Leeds
+1501_14	is_in_sentence	sentence_1501
+1501_14	cc	1501_9
+1501_14	has_surface_form	and
+1501_15	is_in_sentence	sentence_1501
+1501_15	conj	1501_9
+1501_15	has_surface_form	written
+1501_16	is_in_sentence	sentence_1501
+1501_16	agent	1501_15
+1501_16	has_surface_form	by
+1501_17	is_in_sentence	sentence_1501
+1501_17	compound	1501_18
+1501_17	has_surface_form	Samuel
+1501_18	is_in_sentence	sentence_1501
+1501_18	pobj	1501_16
+1501_18	has_surface_form	G.
+1501_19	is_in_sentence	sentence_1501
+1501_19	dep	1501_3
+1501_19	has_surface_form	
+Ride on Vaquero	surface_form	Ride on Vaquero
+Ride on Vaquero	movie-has-director	Herbert I. Leeds
+Herbert I. Leeds	surface_form	Herbert I. Leeds

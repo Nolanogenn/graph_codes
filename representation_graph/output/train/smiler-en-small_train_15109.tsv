@@ -1,0 +1,65 @@
+15108_0	is_in_sentence	sentence_15108
+15108_0	compound	15108_1
+15108_0	has_surface_form	Edward
+15108_0	part_of_entity	Edward Clinton
+15108_1	is_in_sentence	sentence_15108
+15108_1	nsubj	15108_12
+15108_1	has_surface_form	Clinton
+15108_1	part_of_entity	Edward Clinton
+15108_12	is_in_sentence	sentence_15108
+15108_12	ROOT	15108_12
+15108_12	has_surface_form	was
+15108_2	is_in_sentence	sentence_15108
+15108_2	punct	15108_1
+15108_2	has_surface_form	,
+15108_3	is_in_sentence	sentence_15108
+15108_3	compound	15108_4
+15108_3	has_surface_form	Lord
+15108_4	is_in_sentence	sentence_15108
+15108_4	appos	15108_1
+15108_4	has_surface_form	Clinton
+15108_5	is_in_sentence	sentence_15108
+15108_5	punct	15108_4
+15108_5	has_surface_form	,
+15108_6	is_in_sentence	sentence_15108
+15108_6	appos	15108_4
+15108_6	has_surface_form	son
+15108_7	is_in_sentence	sentence_15108
+15108_7	prep	15108_6
+15108_7	has_surface_form	of
+15108_8	is_in_sentence	sentence_15108
+15108_8	det	15108_10
+15108_8	has_surface_form	the
+15108_10	is_in_sentence	sentence_15108
+15108_10	pobj	15108_7
+15108_10	is_entity	Earl
+15108_9	is_in_sentence	sentence_15108
+15108_9	amod	15108_10
+15108_9	has_surface_form	fourth
+Earl	surface_form	Earl
+15108_11	is_in_sentence	sentence_15108
+15108_11	punct	15108_4
+15108_11	has_surface_form	,
+15108_13	is_in_sentence	sentence_15108
+15108_13	attr	15108_12
+15108_13	has_surface_form	Member
+15108_14	is_in_sentence	sentence_15108
+15108_14	prep	15108_13
+15108_14	has_surface_form	of
+15108_15	is_in_sentence	sentence_15108
+15108_15	pobj	15108_14
+15108_15	has_surface_form	Parliament
+15108_16	is_in_sentence	sentence_15108
+15108_16	prep	15108_13
+15108_16	has_surface_form	for
+15108_17	is_in_sentence	sentence_15108
+15108_17	pobj	15108_16
+15108_17	has_surface_form	Callington
+15108_18	is_in_sentence	sentence_15108
+15108_18	punct	15108_12
+15108_18	has_surface_form	.
+15108_19	is_in_sentence	sentence_15108
+15108_19	dep	15108_19
+15108_19	has_surface_form	
+Edward Clinton	surface_form	Edward Clinton
+Edward Clinton	has-parent	Earl

@@ -1,0 +1,109 @@
+9587_0	is_in_sentence	sentence_9587
+9587_0	compound	9587_2
+9587_0	has_surface_form	Monsignor
+9587_2	is_in_sentence	sentence_9587
+9587_2	nsubj	9587_9
+9587_2	has_surface_form	Marini
+9587_2	part_of_entity	Guido Marini
+9587_1	is_in_sentence	sentence_9587
+9587_1	compound	9587_2
+9587_1	has_surface_form	Guido
+9587_1	part_of_entity	Guido Marini
+9587_9	is_in_sentence	sentence_9587
+9587_9	ROOT	9587_9
+9587_9	has_surface_form	is
+9587_3	is_in_sentence	sentence_9587
+9587_3	punct	9587_2
+9587_3	has_surface_form	(
+9587_4	is_in_sentence	sentence_9587
+9587_4	acl	9587_2
+9587_4	has_surface_form	born
+9587_5	is_in_sentence	sentence_9587
+9587_5	nummod	9587_6
+9587_5	has_surface_form	31
+9587_6	is_in_sentence	sentence_9587
+9587_6	npadvmod	9587_4
+9587_6	has_surface_form	January
+9587_7	is_in_sentence	sentence_9587
+9587_7	nummod	9587_6
+9587_7	has_surface_form	1965
+9587_8	is_in_sentence	sentence_9587
+9587_8	punct	9587_2
+9587_8	has_surface_form	)
+9587_10	is_in_sentence	sentence_9587
+9587_10	det	9587_12
+9587_10	has_surface_form	an
+9587_12	is_in_sentence	sentence_9587
+9587_12	attr	9587_9
+9587_12	has_surface_form	priest
+9587_12	part_of_entity	priest of the Catholic Church
+9587_11	is_in_sentence	sentence_9587
+9587_11	amod	9587_12
+9587_11	has_surface_form	Italian
+9587_13	is_in_sentence	sentence_9587
+9587_13	prep	9587_12
+9587_13	has_surface_form	of
+9587_13	part_of_entity	priest of the Catholic Church
+9587_14	is_in_sentence	sentence_9587
+9587_14	det	9587_16
+9587_14	has_surface_form	the
+9587_14	part_of_entity	priest of the Catholic Church
+9587_16	is_in_sentence	sentence_9587
+9587_16	pobj	9587_13
+9587_16	has_surface_form	Church
+9587_16	part_of_entity	priest of the Catholic Church
+9587_15	is_in_sentence	sentence_9587
+9587_15	compound	9587_16
+9587_15	has_surface_form	Catholic
+9587_15	part_of_entity	priest of the Catholic Church
+9587_17	is_in_sentence	sentence_9587
+9587_17	punct	9587_16
+9587_17	has_surface_form	,
+9587_18	is_in_sentence	sentence_9587
+9587_18	nsubj	9587_20
+9587_18	has_surface_form	who
+9587_20	is_in_sentence	sentence_9587
+9587_20	relcl	9587_16
+9587_20	has_surface_form	been
+9587_19	is_in_sentence	sentence_9587
+9587_19	aux	9587_20
+9587_19	has_surface_form	has
+9587_21	is_in_sentence	sentence_9587
+9587_21	det	9587_22
+9587_21	has_surface_form	the
+9587_22	is_in_sentence	sentence_9587
+9587_22	attr	9587_20
+9587_22	has_surface_form	Master
+9587_23	is_in_sentence	sentence_9587
+9587_23	prep	9587_22
+9587_23	has_surface_form	of
+9587_24	is_in_sentence	sentence_9587
+9587_24	compound	9587_26
+9587_24	has_surface_form	Pontifical
+9587_26	is_in_sentence	sentence_9587
+9587_26	pobj	9587_23
+9587_26	has_surface_form	Ceremonies
+9587_25	is_in_sentence	sentence_9587
+9587_25	compound	9587_26
+9587_25	has_surface_form	Liturgical
+9587_27	is_in_sentence	sentence_9587
+9587_27	prep	9587_20
+9587_27	has_surface_form	since
+9587_28	is_in_sentence	sentence_9587
+9587_28	nummod	9587_29
+9587_28	has_surface_form	1
+9587_29	is_in_sentence	sentence_9587
+9587_29	pobj	9587_27
+9587_29	has_surface_form	October
+9587_30	is_in_sentence	sentence_9587
+9587_30	nummod	9587_29
+9587_30	has_surface_form	2007
+9587_31	is_in_sentence	sentence_9587
+9587_31	punct	9587_9
+9587_31	has_surface_form	.
+9587_32	is_in_sentence	sentence_9587
+9587_32	dep	9587_32
+9587_32	has_surface_form	
+Guido Marini	surface_form	Guido Marini
+Guido Marini	has-type	priest of the Catholic Church
+priest of the Catholic Church	surface_form	priest of the Catholic Church

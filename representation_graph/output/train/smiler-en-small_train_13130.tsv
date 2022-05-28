@@ -1,0 +1,50 @@
+13129_0	is_in_sentence	sentence_13129
+13129_0	compound	13129_1
+13129_0	has_surface_form	Suzanne
+13129_0	part_of_entity	Suzanne Snyder
+13129_1	is_in_sentence	sentence_13129
+13129_1	nsubj	13129_9
+13129_1	has_surface_form	Snyder
+13129_1	part_of_entity	Suzanne Snyder
+13129_9	is_in_sentence	sentence_13129
+13129_9	ROOT	13129_9
+13129_9	has_surface_form	is
+13129_2	is_in_sentence	sentence_13129
+13129_2	punct	13129_1
+13129_2	has_surface_form	(
+13129_3	is_in_sentence	sentence_13129
+13129_3	acl	13129_1
+13129_3	has_surface_form	born
+13129_4	is_in_sentence	sentence_13129
+13129_4	npadvmod	13129_3
+13129_4	has_surface_form	October
+13129_5	is_in_sentence	sentence_13129
+13129_5	nummod	13129_4
+13129_5	has_surface_form	22
+13129_6	is_in_sentence	sentence_13129
+13129_6	punct	13129_4
+13129_6	has_surface_form	,
+13129_7	is_in_sentence	sentence_13129
+13129_7	nummod	13129_4
+13129_7	has_surface_form	1962
+13129_8	is_in_sentence	sentence_13129
+13129_8	punct	13129_1
+13129_8	has_surface_form	)
+13129_10	is_in_sentence	sentence_13129
+13129_10	det	13129_12
+13129_10	has_surface_form	an
+13129_12	is_in_sentence	sentence_13129
+13129_12	attr	13129_9
+13129_12	is_entity	actress
+13129_11	is_in_sentence	sentence_13129
+13129_11	amod	13129_12
+13129_11	has_surface_form	American
+actress	surface_form	actress
+13129_13	is_in_sentence	sentence_13129
+13129_13	punct	13129_9
+13129_13	has_surface_form	.
+13129_14	is_in_sentence	sentence_13129
+13129_14	dep	13129_14
+13129_14	has_surface_form	
+Suzanne Snyder	surface_form	Suzanne Snyder
+Suzanne Snyder	has-occupation	actress

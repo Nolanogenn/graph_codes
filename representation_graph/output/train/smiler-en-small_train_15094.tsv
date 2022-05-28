@@ -1,0 +1,56 @@
+15093_0	is_in_sentence	sentence_15093
+15093_0	compound	15093_1
+15093_0	has_surface_form	Alex
+15093_0	part_of_entity	Alex Riel
+15093_1	is_in_sentence	sentence_15093
+15093_1	nsubj	15093_8
+15093_1	has_surface_form	Riel
+15093_1	part_of_entity	Alex Riel
+15093_8	is_in_sentence	sentence_15093
+15093_8	ROOT	15093_8
+15093_8	has_surface_form	is
+15093_2	is_in_sentence	sentence_15093
+15093_2	punct	15093_1
+15093_2	has_surface_form	(
+15093_3	is_in_sentence	sentence_15093
+15093_3	amod	15093_1
+15093_3	has_surface_form	born
+15093_4	is_in_sentence	sentence_15093
+15093_4	nummod	15093_5
+15093_4	has_surface_form	13
+15093_5	is_in_sentence	sentence_15093
+15093_5	npadvmod	15093_3
+15093_5	has_surface_form	September
+15093_6	is_in_sentence	sentence_15093
+15093_6	nummod	15093_5
+15093_6	has_surface_form	1940
+15093_7	is_in_sentence	sentence_15093
+15093_7	punct	15093_1
+15093_7	has_surface_form	)
+15093_9	is_in_sentence	sentence_15093
+15093_9	det	15093_11
+15093_9	has_surface_form	a
+15093_11	is_in_sentence	sentence_15093
+15093_11	attr	15093_8
+15093_11	is_entity	jazz
+15093_10	is_in_sentence	sentence_15093
+15093_10	amod	15093_11
+15093_10	has_surface_form	Danish
+jazz	surface_form	jazz
+15093_12	is_in_sentence	sentence_15093
+15093_12	cc	15093_11
+15093_12	has_surface_form	and
+15093_13	is_in_sentence	sentence_15093
+15093_13	compound	15093_14
+15093_13	has_surface_form	rock
+15093_14	is_in_sentence	sentence_15093
+15093_14	conj	15093_11
+15093_14	has_surface_form	drummer
+15093_15	is_in_sentence	sentence_15093
+15093_15	punct	15093_8
+15093_15	has_surface_form	.
+15093_16	is_in_sentence	sentence_15093
+15093_16	dep	15093_8
+15093_16	has_surface_form	
+Alex Riel	surface_form	Alex Riel
+Alex Riel	has-genre	jazz

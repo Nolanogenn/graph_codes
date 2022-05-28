@@ -1,0 +1,62 @@
+30212_0	is_in_sentence	sentence_30212
+30212_0	compound	30212_1
+30212_0	has_surface_form	Chung
+30212_1	is_in_sentence	sentence_30212
+30212_1	nsubj	30212_8
+30212_1	has_surface_form	Kuo
+30212_8	is_in_sentence	sentence_30212
+30212_8	ROOT	30212_8
+30212_8	has_surface_form	is
+30212_2	is_in_sentence	sentence_30212
+30212_2	punct	30212_1
+30212_2	has_surface_form	,
+30212_3	is_in_sentence	sentence_30212
+30212_3	appos	30212_1
+30212_3	has_surface_form	Cina
+30212_4	is_in_sentence	sentence_30212
+30212_4	punct	30212_1
+30212_4	has_surface_form	(
+30212_5	is_in_sentence	sentence_30212
+30212_5	amod	30212_6
+30212_5	has_surface_form	original
+30212_6	is_in_sentence	sentence_30212
+30212_6	appos	30212_1
+30212_6	has_surface_form	title
+30212_7	is_in_sentence	sentence_30212
+30212_7	punct	30212_1
+30212_7	has_surface_form	)
+30212_9	is_in_sentence	sentence_30212
+30212_9	det	30212_12
+30212_9	has_surface_form	a
+30212_12	is_in_sentence	sentence_30212
+30212_12	attr	30212_8
+30212_12	has_surface_form	documentary
+30212_10	is_in_sentence	sentence_30212
+30212_10	nummod	30212_12
+30212_10	has_surface_form	1972
+30212_11	is_in_sentence	sentence_30212
+30212_11	amod	30212_12
+30212_11	has_surface_form	Italian
+30212_13	is_in_sentence	sentence_30212
+30212_13	acl	30212_12
+30212_13	has_surface_form	directed
+30212_14	is_in_sentence	sentence_30212
+30212_14	agent	30212_13
+30212_14	has_surface_form	by
+30212_15	is_in_sentence	sentence_30212
+30212_15	compound	30212_16
+30212_15	has_surface_form	Michelangelo
+30212_15	part_of_entity	Michelangelo Antonioni
+30212_16	is_in_sentence	sentence_30212
+30212_16	pobj	30212_14
+30212_16	has_surface_form	Antonioni
+30212_16	part_of_entity	Michelangelo Antonioni
+30212_17	is_in_sentence	sentence_30212
+30212_17	punct	30212_8
+30212_17	has_surface_form	.
+30212_18	is_in_sentence	sentence_30212
+30212_18	dep	30212_8
+30212_18	has_surface_form	
+Chung Kuo, Cina	surface_form	Chung Kuo, Cina
+Chung Kuo, Cina	movie-has-director	Michelangelo Antonioni
+Michelangelo Antonioni	surface_form	Michelangelo Antonioni

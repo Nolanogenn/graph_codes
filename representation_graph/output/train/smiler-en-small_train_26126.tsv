@@ -1,0 +1,59 @@
+26125_0	is_in_sentence	sentence_26125
+26125_0	compound	26125_1
+26125_0	has_surface_form	Béla
+26125_0	part_of_entity	Béla Fleck and the Flecktones
+26125_1	is_in_sentence	sentence_26125
+26125_1	nsubj	26125_5
+26125_1	has_surface_form	Fleck
+26125_1	part_of_entity	Béla Fleck and the Flecktones
+26125_5	is_in_sentence	sentence_26125
+26125_5	ROOT	26125_5
+26125_5	has_surface_form	is
+26125_2	is_in_sentence	sentence_26125
+26125_2	cc	26125_1
+26125_2	has_surface_form	and
+26125_2	part_of_entity	Béla Fleck and the Flecktones
+26125_3	is_in_sentence	sentence_26125
+26125_3	det	26125_4
+26125_3	has_surface_form	the
+26125_3	part_of_entity	Béla Fleck and the Flecktones
+26125_4	is_in_sentence	sentence_26125
+26125_4	conj	26125_1
+26125_4	has_surface_form	Flecktones
+26125_4	part_of_entity	Béla Fleck and the Flecktones
+26125_6	is_in_sentence	sentence_26125
+26125_6	det	26125_8
+26125_6	has_surface_form	an
+26125_8	is_in_sentence	sentence_26125
+26125_8	attr	26125_5
+26125_8	has_surface_form	band
+26125_7	is_in_sentence	sentence_26125
+26125_7	amod	26125_8
+26125_7	has_surface_form	American
+26125_9	is_in_sentence	sentence_26125
+26125_9	nsubj	26125_10
+26125_9	has_surface_form	that
+26125_10	is_in_sentence	sentence_26125
+26125_10	relcl	26125_8
+26125_10	has_surface_form	combines
+26125_11	is_in_sentence	sentence_26125
+26125_11	dobj	26125_10
+26125_11	is_entity	jazz
+jazz	surface_form	jazz
+26125_12	is_in_sentence	sentence_26125
+26125_12	cc	26125_11
+26125_12	has_surface_form	and
+26125_13	is_in_sentence	sentence_26125
+26125_13	compound	26125_14
+26125_13	has_surface_form	bluegrass
+26125_14	is_in_sentence	sentence_26125
+26125_14	conj	26125_11
+26125_14	has_surface_form	music
+26125_15	is_in_sentence	sentence_26125
+26125_15	punct	26125_5
+26125_15	has_surface_form	.
+26125_16	is_in_sentence	sentence_26125
+26125_16	dep	26125_16
+26125_16	has_surface_form	
+Béla Fleck and the Flecktones	surface_form	Béla Fleck and the Flecktones
+Béla Fleck and the Flecktones	has-genre	jazz

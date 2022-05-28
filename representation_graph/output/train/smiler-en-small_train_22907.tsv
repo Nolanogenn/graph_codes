@@ -1,0 +1,53 @@
+22906_0	is_in_sentence	sentence_22906
+22906_0	compound	22906_1
+22906_0	has_surface_form	Tatiana
+22906_0	part_of_entity	Tatiana DeMaria
+22906_1	is_in_sentence	sentence_22906
+22906_1	nsubj	22906_3
+22906_1	has_surface_form	DeMaria
+22906_1	part_of_entity	Tatiana DeMaria
+22906_3	is_in_sentence	sentence_22906
+22906_3	ROOT	22906_3
+22906_3	has_surface_form	is
+22906_2	is_in_sentence	sentence_22906
+22906_2	punct	22906_1
+22906_2	has_surface_form	,
+22906_4	is_in_sentence	sentence_22906
+22906_4	det	22906_6
+22906_4	has_surface_form	a
+22906_6	is_in_sentence	sentence_22906
+22906_6	attr	22906_3
+22906_6	has_surface_form	musician
+22906_5	is_in_sentence	sentence_22906
+22906_5	amod	22906_6
+22906_5	has_surface_form	British
+22906_7	is_in_sentence	sentence_22906
+22906_7	punct	22906_6
+22906_7	has_surface_form	,
+22906_8	is_in_sentence	sentence_22906
+22906_8	conj	22906_6
+22906_8	has_surface_form	songwriter
+22906_9	is_in_sentence	sentence_22906
+22906_9	punct	22906_8
+22906_9	has_surface_form	,
+22906_10	is_in_sentence	sentence_22906
+22906_10	conj	22906_8
+22906_10	is_entity	singer
+singer	surface_form	singer
+22906_11	is_in_sentence	sentence_22906
+22906_11	cc	22906_10
+22906_11	has_surface_form	and
+22906_12	is_in_sentence	sentence_22906
+22906_12	compound	22906_13
+22906_12	has_surface_form	record
+22906_13	is_in_sentence	sentence_22906
+22906_13	conj	22906_10
+22906_13	has_surface_form	producer
+22906_14	is_in_sentence	sentence_22906
+22906_14	punct	22906_3
+22906_14	has_surface_form	.
+22906_15	is_in_sentence	sentence_22906
+22906_15	dep	22906_15
+22906_15	has_surface_form	
+Tatiana DeMaria	surface_form	Tatiana DeMaria
+Tatiana DeMaria	has-occupation	singer

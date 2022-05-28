@@ -1,0 +1,54 @@
+770_0	is_in_sentence	sentence_770
+770_0	prep	770_7
+770_0	has_surface_form	In
+770_7	is_in_sentence	sentence_770
+770_7	ROOT	770_7
+770_7	has_surface_form	known
+770_1	is_in_sentence	sentence_770
+770_1	amod	770_2
+770_1	has_surface_form	late
+770_2	is_in_sentence	sentence_770
+770_2	pobj	770_0
+770_2	has_surface_form	1958
+770_3	is_in_sentence	sentence_770
+770_3	punct	770_7
+770_3	has_surface_form	,
+770_4	is_in_sentence	sentence_770
+770_4	compound	770_5
+770_4	has_surface_form	Williams
+770_4	part_of_entity	Williams Manufacturing
+770_5	is_in_sentence	sentence_770
+770_5	nsubj	770_6
+770_5	has_surface_form	Manufacturing
+770_5	part_of_entity	Williams Manufacturing
+770_6	is_in_sentence	sentence_770
+770_6	auxpass	770_7
+770_6	has_surface_form	became
+770_8	is_in_sentence	sentence_770
+770_8	prep	770_7
+770_8	has_surface_form	as
+770_9	is_in_sentence	sentence_770
+770_9	compound	770_12
+770_9	has_surface_form	Williams
+770_9	part_of_entity	Williams Electronic Manufacturing Company
+770_12	is_in_sentence	sentence_770
+770_12	pobj	770_8
+770_12	has_surface_form	Company
+770_12	part_of_entity	Williams Electronic Manufacturing Company
+770_10	is_in_sentence	sentence_770
+770_10	compound	770_11
+770_10	has_surface_form	Electronic
+770_10	part_of_entity	Williams Electronic Manufacturing Company
+770_11	is_in_sentence	sentence_770
+770_11	compound	770_12
+770_11	has_surface_form	Manufacturing
+770_11	part_of_entity	Williams Electronic Manufacturing Company
+770_13	is_in_sentence	sentence_770
+770_13	punct	770_7
+770_13	has_surface_form	.
+770_14	is_in_sentence	sentence_770
+770_14	dep	770_7
+770_14	has_surface_form	
+Williams Manufacturing	surface_form	Williams Manufacturing
+Williams Manufacturing	no_relation	Williams Electronic Manufacturing Company
+Williams Electronic Manufacturing Company	surface_form	Williams Electronic Manufacturing Company

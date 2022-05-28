@@ -1,0 +1,111 @@
+30515_0	is_in_sentence	sentence_30515
+30515_0	poss	30515_1
+30515_0	has_surface_form	My
+30515_0	part_of_entity	My Wife Is Formidable
+30515_1	is_in_sentence	sentence_30515
+30515_1	nsubj	30515_2
+30515_1	has_surface_form	Wife
+30515_1	part_of_entity	My Wife Is Formidable
+30515_2	is_in_sentence	sentence_30515
+30515_2	ccomp	30515_8
+30515_2	has_surface_form	Is
+30515_2	part_of_entity	My Wife Is Formidable
+30515_8	is_in_sentence	sentence_30515
+30515_8	nsubj	30515_12
+30515_8	has_surface_form	femme
+30515_3	is_in_sentence	sentence_30515
+30515_3	acomp	30515_2
+30515_3	has_surface_form	Formidable
+30515_3	part_of_entity	My Wife Is Formidable
+30515_4	is_in_sentence	sentence_30515
+30515_4	punct	30515_5
+30515_4	has_surface_form	(
+30515_5	is_in_sentence	sentence_30515
+30515_5	parataxis	30515_2
+30515_5	has_surface_form	French
+30515_6	is_in_sentence	sentence_30515
+30515_6	punct	30515_5
+30515_6	has_surface_form	:
+30515_7	is_in_sentence	sentence_30515
+30515_7	nsubj	30515_8
+30515_7	has_surface_form	Ma
+30515_12	is_in_sentence	sentence_30515
+30515_12	ROOT	30515_12
+30515_12	has_surface_form	is
+30515_9	is_in_sentence	sentence_30515
+30515_9	amod	30515_10
+30515_9	has_surface_form	est
+30515_10	is_in_sentence	sentence_30515
+30515_10	dobj	30515_8
+30515_10	has_surface_form	formidable
+30515_11	is_in_sentence	sentence_30515
+30515_11	punct	30515_8
+30515_11	has_surface_form	)
+30515_13	is_in_sentence	sentence_30515
+30515_13	det	30515_17
+30515_13	has_surface_form	a
+30515_17	is_in_sentence	sentence_30515
+30515_17	attr	30515_12
+30515_17	has_surface_form	film
+30515_14	is_in_sentence	sentence_30515
+30515_14	nummod	30515_17
+30515_14	has_surface_form	1951
+30515_15	is_in_sentence	sentence_30515
+30515_15	amod	30515_17
+30515_15	has_surface_form	French
+30515_16	is_in_sentence	sentence_30515
+30515_16	compound	30515_17
+30515_16	has_surface_form	comedy
+30515_18	is_in_sentence	sentence_30515
+30515_18	acl	30515_17
+30515_18	has_surface_form	directed
+30515_19	is_in_sentence	sentence_30515
+30515_19	agent	30515_18
+30515_19	has_surface_form	by
+30515_20	is_in_sentence	sentence_30515
+30515_20	compound	30515_21
+30515_20	has_surface_form	André
+30515_20	part_of_entity	André Hunebelle
+30515_21	is_in_sentence	sentence_30515
+30515_21	pobj	30515_19
+30515_21	has_surface_form	Hunebelle
+30515_21	part_of_entity	André Hunebelle
+30515_22	is_in_sentence	sentence_30515
+30515_22	cc	30515_18
+30515_22	has_surface_form	and
+30515_23	is_in_sentence	sentence_30515
+30515_23	conj	30515_18
+30515_23	has_surface_form	starring
+30515_24	is_in_sentence	sentence_30515
+30515_24	compound	30515_25
+30515_24	has_surface_form	Fernand
+30515_25	is_in_sentence	sentence_30515
+30515_25	dobj	30515_23
+30515_25	has_surface_form	Gravey
+30515_26	is_in_sentence	sentence_30515
+30515_26	punct	30515_25
+30515_26	has_surface_form	,
+30515_27	is_in_sentence	sentence_30515
+30515_27	compound	30515_28
+30515_27	has_surface_form	Sophie
+30515_28	is_in_sentence	sentence_30515
+30515_28	conj	30515_25
+30515_28	has_surface_form	Desmarets
+30515_29	is_in_sentence	sentence_30515
+30515_29	cc	30515_28
+30515_29	has_surface_form	and
+30515_30	is_in_sentence	sentence_30515
+30515_30	compound	30515_31
+30515_30	has_surface_form	Simone
+30515_31	is_in_sentence	sentence_30515
+30515_31	conj	30515_28
+30515_31	has_surface_form	Valère
+30515_32	is_in_sentence	sentence_30515
+30515_32	punct	30515_12
+30515_32	has_surface_form	.
+30515_33	is_in_sentence	sentence_30515
+30515_33	dep	30515_33
+30515_33	has_surface_form	
+My Wife Is Formidable	surface_form	My Wife Is Formidable
+My Wife Is Formidable	movie-has-director	André Hunebelle
+André Hunebelle	surface_form	André Hunebelle

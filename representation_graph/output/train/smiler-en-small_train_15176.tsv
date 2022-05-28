@@ -1,0 +1,58 @@
+15175_0	is_in_sentence	sentence_15175
+15175_0	compound	15175_1
+15175_0	has_surface_form	Randy
+15175_0	part_of_entity	Randy Monroe
+15175_1	is_in_sentence	sentence_15175
+15175_1	nsubj	15175_9
+15175_1	has_surface_form	Monroe
+15175_1	part_of_entity	Randy Monroe
+15175_9	is_in_sentence	sentence_15175
+15175_9	ROOT	15175_9
+15175_9	has_surface_form	is
+15175_2	is_in_sentence	sentence_15175
+15175_2	punct	15175_1
+15175_2	has_surface_form	(
+15175_3	is_in_sentence	sentence_15175
+15175_3	acl	15175_1
+15175_3	has_surface_form	born
+15175_4	is_in_sentence	sentence_15175
+15175_4	npadvmod	15175_3
+15175_4	has_surface_form	April
+15175_5	is_in_sentence	sentence_15175
+15175_5	nummod	15175_4
+15175_5	has_surface_form	22
+15175_6	is_in_sentence	sentence_15175
+15175_6	punct	15175_4
+15175_6	has_surface_form	,
+15175_7	is_in_sentence	sentence_15175
+15175_7	nummod	15175_4
+15175_7	has_surface_form	1962
+15175_8	is_in_sentence	sentence_15175
+15175_8	punct	15175_1
+15175_8	has_surface_form	)
+15175_10	is_in_sentence	sentence_15175
+15175_10	det	15175_14
+15175_10	has_surface_form	an
+15175_14	is_in_sentence	sentence_15175
+15175_14	attr	15175_9
+15175_14	has_surface_form	coach
+15175_14	part_of_entity	basketball coach
+15175_11	is_in_sentence	sentence_15175
+15175_11	amod	15175_14
+15175_11	has_surface_form	American
+15175_12	is_in_sentence	sentence_15175
+15175_12	compound	15175_13
+15175_12	has_surface_form	college
+15175_13	is_in_sentence	sentence_15175
+15175_13	compound	15175_14
+15175_13	has_surface_form	basketball
+15175_13	part_of_entity	basketball coach
+15175_15	is_in_sentence	sentence_15175
+15175_15	punct	15175_9
+15175_15	has_surface_form	.
+15175_16	is_in_sentence	sentence_15175
+15175_16	dep	15175_16
+15175_16	has_surface_form	
+Randy Monroe	surface_form	Randy Monroe
+Randy Monroe	has-type	basketball coach
+basketball coach	surface_form	basketball coach

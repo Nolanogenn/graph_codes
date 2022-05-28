@@ -1,0 +1,64 @@
+29910_0	is_in_sentence	sentence_29910
+29910_0	compound	29910_1
+29910_0	has_surface_form	Night
+29910_0	part_of_entity	Night Waitress
+29910_1	is_in_sentence	sentence_29910
+29910_1	nsubj	29910_2
+29910_1	has_surface_form	Waitress
+29910_1	part_of_entity	Night Waitress
+29910_2	is_in_sentence	sentence_29910
+29910_2	ROOT	29910_2
+29910_2	has_surface_form	is
+29910_3	is_in_sentence	sentence_29910
+29910_3	det	29910_7
+29910_3	has_surface_form	a
+29910_7	is_in_sentence	sentence_29910
+29910_7	attr	29910_2
+29910_7	has_surface_form	film
+29910_4	is_in_sentence	sentence_29910
+29910_4	nummod	29910_7
+29910_4	has_surface_form	1936
+29910_5	is_in_sentence	sentence_29910
+29910_5	amod	29910_7
+29910_5	has_surface_form	American
+29910_6	is_in_sentence	sentence_29910
+29910_6	compound	29910_7
+29910_6	has_surface_form	drama
+29910_8	is_in_sentence	sentence_29910
+29910_8	acl	29910_7
+29910_8	has_surface_form	directed
+29910_9	is_in_sentence	sentence_29910
+29910_9	agent	29910_8
+29910_9	has_surface_form	by
+29910_10	is_in_sentence	sentence_29910
+29910_10	compound	29910_11
+29910_10	has_surface_form	Lew
+29910_10	part_of_entity	Lew Landers
+29910_11	is_in_sentence	sentence_29910
+29910_11	pobj	29910_9
+29910_11	has_surface_form	Landers
+29910_11	part_of_entity	Lew Landers
+29910_12	is_in_sentence	sentence_29910
+29910_12	cc	29910_8
+29910_12	has_surface_form	and
+29910_13	is_in_sentence	sentence_29910
+29910_13	conj	29910_8
+29910_13	has_surface_form	written
+29910_14	is_in_sentence	sentence_29910
+29910_14	agent	29910_13
+29910_14	has_surface_form	by
+29910_15	is_in_sentence	sentence_29910
+29910_15	compound	29910_16
+29910_15	has_surface_form	Marcus
+29910_16	is_in_sentence	sentence_29910
+29910_16	pobj	29910_14
+29910_16	has_surface_form	Goodrich
+29910_17	is_in_sentence	sentence_29910
+29910_17	punct	29910_2
+29910_17	has_surface_form	.
+29910_18	is_in_sentence	sentence_29910
+29910_18	dep	29910_18
+29910_18	has_surface_form	
+Night Waitress	surface_form	Night Waitress
+Night Waitress	movie-has-director	Lew Landers
+Lew Landers	surface_form	Lew Landers

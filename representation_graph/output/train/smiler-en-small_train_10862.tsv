@@ -1,0 +1,72 @@
+10861_0	is_in_sentence	sentence_10861
+10861_0	det	10861_3
+10861_0	has_surface_form	The
+10861_3	is_in_sentence	sentence_10861
+10861_3	nsubjpass	10861_5
+10861_3	has_surface_form	unit
+10861_3	part_of_entity	Garbage disposal unit
+10861_1	is_in_sentence	sentence_10861
+10861_1	compound	10861_2
+10861_1	has_surface_form	Garbage
+10861_1	part_of_entity	Garbage disposal unit
+10861_2	is_in_sentence	sentence_10861
+10861_2	compound	10861_3
+10861_2	has_surface_form	disposal
+10861_2	part_of_entity	Garbage disposal unit
+10861_5	is_in_sentence	sentence_10861
+10861_5	ROOT	10861_5
+10861_5	has_surface_form	invented
+10861_4	is_in_sentence	sentence_10861
+10861_4	auxpass	10861_5
+10861_4	has_surface_form	was
+10861_6	is_in_sentence	sentence_10861
+10861_6	prep	10861_5
+10861_6	has_surface_form	in
+10861_7	is_in_sentence	sentence_10861
+10861_7	pobj	10861_6
+10861_7	is_entity	1927
+1927	surface_form	1927
+10861_8	is_in_sentence	sentence_10861
+10861_8	agent	10861_5
+10861_8	has_surface_form	by
+10861_9	is_in_sentence	sentence_10861
+10861_9	compound	10861_11
+10861_9	has_surface_form	John
+10861_11	is_in_sentence	sentence_10861
+10861_11	pobj	10861_8
+10861_11	has_surface_form	Hammes
+10861_10	is_in_sentence	sentence_10861
+10861_10	compound	10861_11
+10861_10	has_surface_form	W.
+10861_12	is_in_sentence	sentence_10861
+10861_12	punct	10861_11
+10861_12	has_surface_form	,
+10861_13	is_in_sentence	sentence_10861
+10861_13	det	10861_14
+10861_13	has_surface_form	an
+10861_14	is_in_sentence	sentence_10861
+10861_14	appos	10861_11
+10861_14	has_surface_form	architect
+10861_15	is_in_sentence	sentence_10861
+10861_15	acl	10861_14
+10861_15	has_surface_form	working
+10861_16	is_in_sentence	sentence_10861
+10861_16	prep	10861_15
+10861_16	has_surface_form	in
+10861_17	is_in_sentence	sentence_10861
+10861_17	pobj	10861_16
+10861_17	has_surface_form	Racine
+10861_18	is_in_sentence	sentence_10861
+10861_18	punct	10861_17
+10861_18	has_surface_form	,
+10861_19	is_in_sentence	sentence_10861
+10861_19	appos	10861_17
+10861_19	has_surface_form	Wisconsin
+10861_20	is_in_sentence	sentence_10861
+10861_20	punct	10861_5
+10861_20	has_surface_form	.
+10861_21	is_in_sentence	sentence_10861
+10861_21	dep	10861_5
+10861_21	has_surface_form	
+Garbage disposal unit	surface_form	Garbage disposal unit
+Garbage disposal unit	invented-when	1927

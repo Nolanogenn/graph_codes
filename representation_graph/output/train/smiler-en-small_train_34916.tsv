@@ -1,0 +1,84 @@
+34915_0	is_in_sentence	sentence_34915
+34915_0	det	34915_3
+34915_0	has_surface_form	The
+34915_3	is_in_sentence	sentence_34915
+34915_3	nsubj	34915_4
+34915_3	has_surface_form	Club
+34915_3	part_of_entity	Omaha Athletic Club
+34915_1	is_in_sentence	sentence_34915
+34915_1	compound	34915_3
+34915_1	has_surface_form	Omaha
+34915_1	part_of_entity	Omaha Athletic Club
+34915_2	is_in_sentence	sentence_34915
+34915_2	compound	34915_3
+34915_2	has_surface_form	Athletic
+34915_2	part_of_entity	Omaha Athletic Club
+34915_4	is_in_sentence	sentence_34915
+34915_4	ROOT	34915_4
+34915_4	has_surface_form	was
+34915_5	is_in_sentence	sentence_34915
+34915_5	det	34915_8
+34915_5	has_surface_form	a
+34915_8	is_in_sentence	sentence_34915
+34915_8	attr	34915_4
+34915_8	has_surface_form	building
+34915_6	is_in_sentence	sentence_34915
+34915_6	amod	34915_7
+34915_6	has_surface_form	social
+34915_7	is_in_sentence	sentence_34915
+34915_7	compound	34915_8
+34915_7	has_surface_form	club
+34915_9	is_in_sentence	sentence_34915
+34915_9	acl	34915_8
+34915_9	has_surface_form	located
+34915_10	is_in_sentence	sentence_34915
+34915_10	prep	34915_9
+34915_10	has_surface_form	at
+34915_11	is_in_sentence	sentence_34915
+34915_11	pobj	34915_10
+34915_11	has_surface_form	1714
+34915_11	part_of_entity	1714 Douglas Street in Downtown Omaha
+34915_12	is_in_sentence	sentence_34915
+34915_12	compound	34915_13
+34915_12	has_surface_form	Douglas
+34915_12	part_of_entity	1714 Douglas Street in Downtown Omaha
+34915_13	is_in_sentence	sentence_34915
+34915_13	pobj	34915_10
+34915_13	has_surface_form	Street
+34915_13	part_of_entity	1714 Douglas Street in Downtown Omaha
+34915_14	is_in_sentence	sentence_34915
+34915_14	prep	34915_13
+34915_14	has_surface_form	in
+34915_14	part_of_entity	1714 Douglas Street in Downtown Omaha
+34915_15	is_in_sentence	sentence_34915
+34915_15	compound	34915_16
+34915_15	has_surface_form	Downtown
+34915_15	part_of_entity	1714 Douglas Street in Downtown Omaha
+34915_16	is_in_sentence	sentence_34915
+34915_16	pobj	34915_14
+34915_16	has_surface_form	Omaha
+34915_16	part_of_entity	1714 Douglas Street in Downtown Omaha
+34915_17	is_in_sentence	sentence_34915
+34915_17	punct	34915_16
+34915_17	has_surface_form	,
+34915_18	is_in_sentence	sentence_34915
+34915_18	appos	34915_16
+34915_18	has_surface_form	Nebraska
+34915_19	is_in_sentence	sentence_34915
+34915_19	punct	34915_18
+34915_19	has_surface_form	,
+34915_20	is_in_sentence	sentence_34915
+34915_20	compound	34915_21
+34915_20	has_surface_form	United
+34915_21	is_in_sentence	sentence_34915
+34915_21	appos	34915_18
+34915_21	has_surface_form	States
+34915_22	is_in_sentence	sentence_34915
+34915_22	punct	34915_4
+34915_22	has_surface_form	.
+34915_23	is_in_sentence	sentence_34915
+34915_23	dep	34915_4
+34915_23	has_surface_form	
+Omaha Athletic Club	surface_form	Omaha Athletic Club
+Omaha Athletic Club	is-where	1714 Douglas Street in Downtown Omaha
+1714 Douglas Street in Downtown Omaha	surface_form	1714 Douglas Street in Downtown Omaha

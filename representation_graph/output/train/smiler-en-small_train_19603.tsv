@@ -1,0 +1,96 @@
+19602_0	is_in_sentence	sentence_19602
+19602_0	det	19602_1
+19602_0	has_surface_form	The
+19602_0	part_of_entity	The Man Is Armed
+19602_1	is_in_sentence	sentence_19602
+19602_1	nsubj	19602_2
+19602_1	has_surface_form	Man
+19602_1	part_of_entity	The Man Is Armed
+19602_2	is_in_sentence	sentence_19602
+19602_2	nsubj	19602_4
+19602_2	has_surface_form	Is
+19602_2	part_of_entity	The Man Is Armed
+19602_4	is_in_sentence	sentence_19602
+19602_4	ROOT	19602_4
+19602_4	has_surface_form	is
+19602_3	is_in_sentence	sentence_19602
+19602_3	acomp	19602_2
+19602_3	has_surface_form	Armed
+19602_3	part_of_entity	The Man Is Armed
+19602_5	is_in_sentence	sentence_19602
+19602_5	det	19602_10
+19602_5	has_surface_form	a
+19602_10	is_in_sentence	sentence_19602
+19602_10	attr	19602_4
+19602_10	has_surface_form	film
+19602_6	is_in_sentence	sentence_19602
+19602_6	nummod	19602_7
+19602_6	has_surface_form	1956
+19602_7	is_in_sentence	sentence_19602
+19602_7	compound	19602_10
+19602_7	has_surface_form	film
+19602_8	is_in_sentence	sentence_19602
+19602_8	compound	19602_10
+19602_8	has_surface_form	noir
+19602_9	is_in_sentence	sentence_19602
+19602_9	compound	19602_10
+19602_9	has_surface_form	crime
+19602_11	is_in_sentence	sentence_19602
+19602_11	acl	19602_10
+19602_11	has_surface_form	directed
+19602_12	is_in_sentence	sentence_19602
+19602_12	agent	19602_11
+19602_12	has_surface_form	by
+19602_13	is_in_sentence	sentence_19602
+19602_13	compound	19602_14
+19602_13	has_surface_form	Franklin
+19602_14	is_in_sentence	sentence_19602
+19602_14	pobj	19602_12
+19602_14	has_surface_form	Adreon
+19602_15	is_in_sentence	sentence_19602
+19602_15	acl	19602_10
+19602_15	has_surface_form	starring
+19602_16	is_in_sentence	sentence_19602
+19602_16	compound	19602_17
+19602_16	has_surface_form	Dane
+19602_17	is_in_sentence	sentence_19602
+19602_17	dobj	19602_15
+19602_17	has_surface_form	Clark
+19602_18	is_in_sentence	sentence_19602
+19602_18	punct	19602_17
+19602_18	has_surface_form	,
+19602_19	is_in_sentence	sentence_19602
+19602_19	compound	19602_20
+19602_19	has_surface_form	William
+19602_20	is_in_sentence	sentence_19602
+19602_20	appos	19602_17
+19602_20	has_surface_form	Talman
+19602_21	is_in_sentence	sentence_19602
+19602_21	punct	19602_20
+19602_21	has_surface_form	,
+19602_22	is_in_sentence	sentence_19602
+19602_22	compound	19602_23
+19602_22	has_surface_form	May
+19602_23	is_in_sentence	sentence_19602
+19602_23	conj	19602_20
+19602_23	has_surface_form	Wynn
+19602_24	is_in_sentence	sentence_19602
+19602_24	cc	19602_23
+19602_24	has_surface_form	and
+19602_25	is_in_sentence	sentence_19602
+19602_25	compound	19602_26
+19602_25	has_surface_form	Robert
+19602_25	part_of_entity	Robert Horton
+19602_26	is_in_sentence	sentence_19602
+19602_26	conj	19602_23
+19602_26	has_surface_form	Horton
+19602_26	part_of_entity	Robert Horton
+19602_27	is_in_sentence	sentence_19602
+19602_27	punct	19602_4
+19602_27	has_surface_form	.
+19602_28	is_in_sentence	sentence_19602
+19602_28	dep	19602_28
+19602_28	has_surface_form	
+The Man Is Armed	surface_form	The Man Is Armed
+The Man Is Armed	starring	Robert Horton
+Robert Horton	surface_form	Robert Horton

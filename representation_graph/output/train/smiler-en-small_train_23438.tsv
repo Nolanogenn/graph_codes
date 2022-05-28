@@ -1,0 +1,82 @@
+23437_0	is_in_sentence	sentence_23437
+23437_0	det	23437_1
+23437_0	has_surface_form	The
+23437_0	part_of_entity	The Adventures of Paper Peter
+23437_1	is_in_sentence	sentence_23437
+23437_1	nsubj	23437_12
+23437_1	has_surface_form	Adventures
+23437_1	part_of_entity	The Adventures of Paper Peter
+23437_12	is_in_sentence	sentence_23437
+23437_12	ROOT	23437_12
+23437_12	has_surface_form	is
+23437_2	is_in_sentence	sentence_23437
+23437_2	prep	23437_1
+23437_2	has_surface_form	of
+23437_2	part_of_entity	The Adventures of Paper Peter
+23437_3	is_in_sentence	sentence_23437
+23437_3	compound	23437_4
+23437_3	has_surface_form	Paper
+23437_3	part_of_entity	The Adventures of Paper Peter
+23437_4	is_in_sentence	sentence_23437
+23437_4	pobj	23437_2
+23437_4	has_surface_form	Peter
+23437_4	part_of_entity	The Adventures of Paper Peter
+23437_5	is_in_sentence	sentence_23437
+23437_5	punct	23437_12
+23437_5	has_surface_form	(
+23437_6	is_in_sentence	sentence_23437
+23437_6	nsubj	23437_12
+23437_6	has_surface_form	Icelandic
+23437_7	is_in_sentence	sentence_23437
+23437_7	punct	23437_6
+23437_7	has_surface_form	:
+23437_8	is_in_sentence	sentence_23437
+23437_8	compound	23437_10
+23437_8	has_surface_form	Ævintýri
+23437_10	is_in_sentence	sentence_23437
+23437_10	appos	23437_6
+23437_10	has_surface_form	Pésa
+23437_9	is_in_sentence	sentence_23437
+23437_9	compound	23437_10
+23437_9	has_surface_form	Pappírs
+23437_11	is_in_sentence	sentence_23437
+23437_11	punct	23437_6
+23437_11	has_surface_form	)
+23437_13	is_in_sentence	sentence_23437
+23437_13	det	23437_17
+23437_13	has_surface_form	a
+23437_17	is_in_sentence	sentence_23437
+23437_17	attr	23437_12
+23437_17	has_surface_form	film
+23437_14	is_in_sentence	sentence_23437
+23437_14	nummod	23437_17
+23437_14	has_surface_form	1990
+23437_15	is_in_sentence	sentence_23437
+23437_15	amod	23437_17
+23437_15	has_surface_form	Icelandic
+23437_16	is_in_sentence	sentence_23437
+23437_16	compound	23437_17
+23437_16	has_surface_form	drama
+23437_18	is_in_sentence	sentence_23437
+23437_18	acl	23437_17
+23437_18	has_surface_form	directed
+23437_19	is_in_sentence	sentence_23437
+23437_19	agent	23437_18
+23437_19	has_surface_form	by
+23437_20	is_in_sentence	sentence_23437
+23437_20	compound	23437_21
+23437_20	has_surface_form	Ari
+23437_20	part_of_entity	Ari Kristinsson
+23437_21	is_in_sentence	sentence_23437
+23437_21	pobj	23437_19
+23437_21	has_surface_form	Kristinsson
+23437_21	part_of_entity	Ari Kristinsson
+23437_22	is_in_sentence	sentence_23437
+23437_22	punct	23437_12
+23437_22	has_surface_form	.
+23437_23	is_in_sentence	sentence_23437
+23437_23	dep	23437_12
+23437_23	has_surface_form	
+The Adventures of Paper Peter	surface_form	The Adventures of Paper Peter
+The Adventures of Paper Peter	movie-has-director	Ari Kristinsson
+Ari Kristinsson	surface_form	Ari Kristinsson

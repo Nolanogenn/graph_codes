@@ -1,0 +1,97 @@
+12037_0	is_in_sentence	sentence_12037
+12037_0	compound	12037_1
+12037_0	has_surface_form	Most
+12037_1	is_in_sentence	sentence_12037
+12037_1	compound	12037_2
+12037_1	has_surface_form	Crayola
+12037_1	part_of_entity	Crayola crayons
+12037_2	is_in_sentence	sentence_12037
+12037_2	nsubjpass	12037_4
+12037_2	has_surface_form	crayons
+12037_2	part_of_entity	Crayola crayons
+12037_4	is_in_sentence	sentence_12037
+12037_4	ROOT	12037_4
+12037_4	has_surface_form	manufactured
+12037_3	is_in_sentence	sentence_12037
+12037_3	auxpass	12037_4
+12037_3	has_surface_form	are
+12037_5	is_in_sentence	sentence_12037
+12037_5	prep	12037_4
+12037_5	has_surface_form	in
+12037_6	is_in_sentence	sentence_12037
+12037_6	det	12037_8
+12037_6	has_surface_form	the
+12037_8	is_in_sentence	sentence_12037
+12037_8	pobj	12037_5
+12037_8	has_surface_form	States
+12037_7	is_in_sentence	sentence_12037
+12037_7	compound	12037_8
+12037_7	has_surface_form	United
+12037_9	is_in_sentence	sentence_12037
+12037_9	punct	12037_4
+12037_9	has_surface_form	.
+12037_10	is_in_sentence	sentence_12037
+12037_10	det	12037_11
+12037_10	has_surface_form	The
+12037_11	is_in_sentence	sentence_12037
+12037_11	nsubj	12037_13
+12037_11	has_surface_form	company
+12037_13	is_in_sentence	sentence_12037
+12037_13	ROOT	12037_13
+12037_13	has_surface_form	produces
+12037_12	is_in_sentence	sentence_12037
+12037_12	advmod	12037_13
+12037_12	has_surface_form	also
+12037_14	is_in_sentence	sentence_12037
+12037_14	compound	12037_15
+12037_14	has_surface_form	Silly
+12037_14	part_of_entity	Silly Putty
+12037_15	is_in_sentence	sentence_12037
+12037_15	dobj	12037_13
+12037_15	has_surface_form	Putty
+12037_15	part_of_entity	Silly Putty
+12037_16	is_in_sentence	sentence_12037
+12037_16	cc	12037_15
+12037_16	has_surface_form	and
+12037_17	is_in_sentence	sentence_12037
+12037_17	det	12037_18
+12037_17	has_surface_form	a
+12037_18	is_in_sentence	sentence_12037
+12037_18	conj	12037_15
+12037_18	has_surface_form	line
+12037_19	is_in_sentence	sentence_12037
+12037_19	prep	12037_18
+12037_19	has_surface_form	of
+12037_20	is_in_sentence	sentence_12037
+12037_20	amod	12037_22
+12037_20	has_surface_form	professional
+12037_22	is_in_sentence	sentence_12037
+12037_22	pobj	12037_19
+12037_22	has_surface_form	products
+12037_21	is_in_sentence	sentence_12037
+12037_21	compound	12037_22
+12037_21	has_surface_form	art
+12037_23	is_in_sentence	sentence_12037
+12037_23	prep	12037_22
+12037_23	has_surface_form	under
+12037_24	is_in_sentence	sentence_12037
+12037_24	det	12037_27
+12037_24	has_surface_form	the
+12037_27	is_in_sentence	sentence_12037
+12037_27	pobj	12037_23
+12037_27	has_surface_form	brand
+12037_25	is_in_sentence	sentence_12037
+12037_25	compound	12037_26
+12037_25	has_surface_form	Portfolio
+12037_26	is_in_sentence	sentence_12037
+12037_26	compound	12037_27
+12037_26	has_surface_form	Series
+12037_28	is_in_sentence	sentence_12037
+12037_28	punct	12037_13
+12037_28	has_surface_form	.
+12037_29	is_in_sentence	sentence_12037
+12037_29	dep	12037_29
+12037_29	has_surface_form	
+Crayola crayons	surface_form	Crayola crayons
+Crayola crayons	no_relation	Silly Putty
+Silly Putty	surface_form	Silly Putty

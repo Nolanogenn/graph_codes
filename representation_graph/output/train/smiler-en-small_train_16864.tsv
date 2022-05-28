@@ -1,0 +1,65 @@
+16863_0	is_in_sentence	sentence_16863
+16863_0	compound	16863_1
+16863_0	has_surface_form	Red
+16863_0	part_of_entity	Red Scorpion 2
+16863_1	is_in_sentence	sentence_16863
+16863_1	nsubj	16863_3
+16863_1	has_surface_form	Scorpion
+16863_1	part_of_entity	Red Scorpion 2
+16863_3	is_in_sentence	sentence_16863
+16863_3	ROOT	16863_3
+16863_3	has_surface_form	is
+16863_2	is_in_sentence	sentence_16863
+16863_2	nummod	16863_1
+16863_2	has_surface_form	2
+16863_2	part_of_entity	Red Scorpion 2
+16863_4	is_in_sentence	sentence_16863
+16863_4	det	16863_7
+16863_4	has_surface_form	a
+16863_7	is_in_sentence	sentence_16863
+16863_7	attr	16863_3
+16863_7	has_surface_form	film
+16863_5	is_in_sentence	sentence_16863
+16863_5	nummod	16863_7
+16863_5	has_surface_form	1994
+16863_6	is_in_sentence	sentence_16863
+16863_6	compound	16863_7
+16863_6	has_surface_form	action
+16863_8	is_in_sentence	sentence_16863
+16863_8	acl	16863_7
+16863_8	has_surface_form	starring
+16863_9	is_in_sentence	sentence_16863
+16863_9	compound	16863_10
+16863_9	has_surface_form	Matt
+16863_9	part_of_entity	Matt McColm
+16863_10	is_in_sentence	sentence_16863
+16863_10	dobj	16863_8
+16863_10	has_surface_form	McColm
+16863_10	part_of_entity	Matt McColm
+16863_11	is_in_sentence	sentence_16863
+16863_11	punct	16863_10
+16863_11	has_surface_form	,
+16863_12	is_in_sentence	sentence_16863
+16863_12	compound	16863_13
+16863_12	has_surface_form	John
+16863_13	is_in_sentence	sentence_16863
+16863_13	conj	16863_10
+16863_13	has_surface_form	Savage
+16863_14	is_in_sentence	sentence_16863
+16863_14	cc	16863_13
+16863_14	has_surface_form	and
+16863_15	is_in_sentence	sentence_16863
+16863_15	compound	16863_16
+16863_15	has_surface_form	Jennifer
+16863_16	is_in_sentence	sentence_16863
+16863_16	conj	16863_13
+16863_16	has_surface_form	Rubin
+16863_17	is_in_sentence	sentence_16863
+16863_17	punct	16863_3
+16863_17	has_surface_form	.
+16863_18	is_in_sentence	sentence_16863
+16863_18	dep	16863_3
+16863_18	has_surface_form	
+Red Scorpion 2	surface_form	Red Scorpion 2
+Red Scorpion 2	starring	Matt McColm
+Matt McColm	surface_form	Matt McColm

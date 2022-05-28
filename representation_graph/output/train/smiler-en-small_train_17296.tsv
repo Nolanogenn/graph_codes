@@ -1,0 +1,64 @@
+17295_0	is_in_sentence	sentence_17295
+17295_0	compound	17295_1
+17295_0	has_surface_form	John
+17295_0	part_of_entity	John Palermo
+17295_1	is_in_sentence	sentence_17295
+17295_1	nsubj	17295_9
+17295_1	has_surface_form	Palermo
+17295_1	part_of_entity	John Palermo
+17295_9	is_in_sentence	sentence_17295
+17295_9	ROOT	17295_9
+17295_9	has_surface_form	is
+17295_2	is_in_sentence	sentence_17295
+17295_2	punct	17295_1
+17295_2	has_surface_form	(
+17295_3	is_in_sentence	sentence_17295
+17295_3	acl	17295_1
+17295_3	has_surface_form	born
+17295_4	is_in_sentence	sentence_17295
+17295_4	npadvmod	17295_3
+17295_4	has_surface_form	March
+17295_5	is_in_sentence	sentence_17295
+17295_5	nummod	17295_4
+17295_5	has_surface_form	26
+17295_6	is_in_sentence	sentence_17295
+17295_6	punct	17295_4
+17295_6	has_surface_form	,
+17295_7	is_in_sentence	sentence_17295
+17295_7	nummod	17295_4
+17295_7	has_surface_form	1952
+17295_8	is_in_sentence	sentence_17295
+17295_8	punct	17295_1
+17295_8	has_surface_form	)
+17295_10	is_in_sentence	sentence_17295
+17295_10	det	17295_13
+17295_10	has_surface_form	an
+17295_13	is_in_sentence	sentence_17295
+17295_13	attr	17295_9
+17295_13	has_surface_form	coach
+17295_13	part_of_entity	football coach
+17295_11	is_in_sentence	sentence_17295
+17295_11	amod	17295_13
+17295_11	has_surface_form	American
+17295_12	is_in_sentence	sentence_17295
+17295_12	compound	17295_13
+17295_12	has_surface_form	football
+17295_12	part_of_entity	football coach
+17295_14	is_in_sentence	sentence_17295
+17295_14	cc	17295_13
+17295_14	has_surface_form	and
+17295_15	is_in_sentence	sentence_17295
+17295_15	amod	17295_16
+17295_15	has_surface_form	former
+17295_16	is_in_sentence	sentence_17295
+17295_16	conj	17295_13
+17295_16	has_surface_form	player
+17295_17	is_in_sentence	sentence_17295
+17295_17	punct	17295_9
+17295_17	has_surface_form	.
+17295_18	is_in_sentence	sentence_17295
+17295_18	dep	17295_18
+17295_18	has_surface_form	
+John Palermo	surface_form	John Palermo
+John Palermo	has-type	football coach
+football coach	surface_form	football coach

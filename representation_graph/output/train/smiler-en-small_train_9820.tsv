@@ -1,0 +1,45 @@
+9819_0	is_in_sentence	sentence_9819
+9819_0	compound	9819_1
+9819_0	has_surface_form	Sophonisba
+9819_0	part_of_entity	Sophonisba Angusciola Peale
+9819_1	is_in_sentence	sentence_9819
+9819_1	compound	9819_2
+9819_1	has_surface_form	Angusciola
+9819_1	part_of_entity	Sophonisba Angusciola Peale
+9819_2	is_in_sentence	sentence_9819
+9819_2	nsubj	9819_3
+9819_2	has_surface_form	Peale
+9819_2	part_of_entity	Sophonisba Angusciola Peale
+9819_3	is_in_sentence	sentence_9819
+9819_3	ROOT	9819_3
+9819_3	has_surface_form	was
+9819_4	is_in_sentence	sentence_9819
+9819_4	det	9819_5
+9819_4	has_surface_form	the
+9819_5	is_in_sentence	sentence_9819
+9819_5	attr	9819_3
+9819_5	has_surface_form	mother
+9819_6	is_in_sentence	sentence_9819
+9819_6	prep	9819_5
+9819_6	has_surface_form	of
+9819_7	is_in_sentence	sentence_9819
+9819_7	compound	9819_9
+9819_7	has_surface_form	Coleman
+9819_7	part_of_entity	Coleman Sellers II
+9819_9	is_in_sentence	sentence_9819
+9819_9	pobj	9819_6
+9819_9	has_surface_form	II
+9819_9	part_of_entity	Coleman Sellers II
+9819_8	is_in_sentence	sentence_9819
+9819_8	compound	9819_9
+9819_8	has_surface_form	Sellers
+9819_8	part_of_entity	Coleman Sellers II
+9819_10	is_in_sentence	sentence_9819
+9819_10	punct	9819_3
+9819_10	has_surface_form	.
+9819_11	is_in_sentence	sentence_9819
+9819_11	dep	9819_11
+9819_11	has_surface_form	
+Sophonisba Angusciola Peale	surface_form	Sophonisba Angusciola Peale
+Sophonisba Angusciola Peale	has-child	Coleman Sellers II
+Coleman Sellers II	surface_form	Coleman Sellers II

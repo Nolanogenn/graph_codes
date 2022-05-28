@@ -1,0 +1,65 @@
+399_0	is_in_sentence	sentence_399
+399_0	compound	399_1
+399_0	has_surface_form	Kizhakkum
+399_0	part_of_entity	Kizhakkum Merkkum
+399_1	is_in_sentence	sentence_399
+399_1	nsubj	399_9
+399_1	has_surface_form	Merkkum
+399_1	part_of_entity	Kizhakkum Merkkum
+399_9	is_in_sentence	sentence_399
+399_9	ROOT	399_9
+399_9	has_surface_form	is
+399_2	is_in_sentence	sentence_399
+399_2	punct	399_3
+399_2	has_surface_form	(
+399_3	is_in_sentence	sentence_399
+399_3	appos	399_1
+399_3	has_surface_form	English
+399_4	is_in_sentence	sentence_399
+399_4	punct	399_3
+399_4	has_surface_form	:
+399_5	is_in_sentence	sentence_399
+399_5	appos	399_3
+399_5	has_surface_form	East
+399_6	is_in_sentence	sentence_399
+399_6	cc	399_5
+399_6	has_surface_form	and
+399_7	is_in_sentence	sentence_399
+399_7	conj	399_5
+399_7	has_surface_form	West
+399_8	is_in_sentence	sentence_399
+399_8	punct	399_3
+399_8	has_surface_form	)
+399_10	is_in_sentence	sentence_399
+399_10	det	399_14
+399_10	has_surface_form	a
+399_14	is_in_sentence	sentence_399
+399_14	attr	399_9
+399_14	has_surface_form	film
+399_11	is_in_sentence	sentence_399
+399_11	nummod	399_14
+399_11	has_surface_form	1998
+399_12	is_in_sentence	sentence_399
+399_12	compound	399_14
+399_12	has_surface_form	Tamil
+399_13	is_in_sentence	sentence_399
+399_13	compound	399_14
+399_13	has_surface_form	drama
+399_15	is_in_sentence	sentence_399
+399_15	acl	399_14
+399_15	has_surface_form	directed
+399_16	is_in_sentence	sentence_399
+399_16	agent	399_15
+399_16	has_surface_form	by
+399_17	is_in_sentence	sentence_399
+399_17	pobj	399_16
+399_17	is_entity	Kalanjiyam
+Kalanjiyam	surface_form	Kalanjiyam
+399_18	is_in_sentence	sentence_399
+399_18	punct	399_9
+399_18	has_surface_form	.
+399_19	is_in_sentence	sentence_399
+399_19	dep	399_19
+399_19	has_surface_form	
+Kizhakkum Merkkum	surface_form	Kizhakkum Merkkum
+Kizhakkum Merkkum	movie-has-director	Kalanjiyam

@@ -1,0 +1,90 @@
+25978_0	is_in_sentence	sentence_25978
+25978_0	compound	25978_1
+25978_0	has_surface_form	Few
+25978_0	part_of_entity	Few Options
+25978_1	is_in_sentence	sentence_25978
+25978_1	nsubj	25978_10
+25978_1	has_surface_form	Options
+25978_1	part_of_entity	Few Options
+25978_10	is_in_sentence	sentence_25978
+25978_10	ROOT	25978_10
+25978_10	has_surface_form	is
+25978_2	is_in_sentence	sentence_25978
+25978_2	punct	25978_1
+25978_2	has_surface_form	(
+25978_3	is_in_sentence	sentence_25978
+25978_3	advmod	25978_5
+25978_3	has_surface_form	aka
+25978_5	is_in_sentence	sentence_25978
+25978_5	appos	25978_1
+25978_5	has_surface_form	Options
+25978_5	part_of_entity	Few Options
+25978_4	is_in_sentence	sentence_25978
+25978_4	compound	25978_5
+25978_4	has_surface_form	Few
+25978_4	part_of_entity	Few Options
+25978_6	is_in_sentence	sentence_25978
+25978_6	punct	25978_5
+25978_6	has_surface_form	,
+25978_7	is_in_sentence	sentence_25978
+25978_7	det	25978_8
+25978_7	has_surface_form	All
+25978_8	is_in_sentence	sentence_25978
+25978_8	appos	25978_5
+25978_8	has_surface_form	Bad
+25978_9	is_in_sentence	sentence_25978
+25978_9	punct	25978_5
+25978_9	has_surface_form	)
+25978_11	is_in_sentence	sentence_25978
+25978_11	det	25978_18
+25978_11	has_surface_form	a
+25978_18	is_in_sentence	sentence_25978
+25978_18	attr	25978_10
+25978_18	has_surface_form	drama
+25978_12	is_in_sentence	sentence_25978
+25978_12	nummod	25978_18
+25978_12	has_surface_form	2011
+25978_13	is_in_sentence	sentence_25978
+25978_13	amod	25978_18
+25978_13	has_surface_form	American
+25978_14	is_in_sentence	sentence_25978
+25978_14	compound	25978_16
+25978_14	has_surface_form	feature
+25978_16	is_in_sentence	sentence_25978
+25978_16	compound	25978_18
+25978_16	has_surface_form	length
+25978_15	is_in_sentence	sentence_25978
+25978_15	punct	25978_16
+25978_15	has_surface_form	-
+25978_17	is_in_sentence	sentence_25978
+25978_17	compound	25978_18
+25978_17	has_surface_form	crime
+25978_19	is_in_sentence	sentence_25978
+25978_19	acl	25978_18
+25978_19	has_surface_form	written
+25978_20	is_in_sentence	sentence_25978
+25978_20	cc	25978_19
+25978_20	has_surface_form	and
+25978_21	is_in_sentence	sentence_25978
+25978_21	conj	25978_19
+25978_21	has_surface_form	directed
+25978_22	is_in_sentence	sentence_25978
+25978_22	agent	25978_21
+25978_22	has_surface_form	by
+25978_23	is_in_sentence	sentence_25978
+25978_23	compound	25978_24
+25978_23	has_surface_form	George
+25978_23	part_of_entity	George Pappy
+25978_24	is_in_sentence	sentence_25978
+25978_24	pobj	25978_22
+25978_24	has_surface_form	Pappy
+25978_24	part_of_entity	George Pappy
+25978_25	is_in_sentence	sentence_25978
+25978_25	punct	25978_10
+25978_25	has_surface_form	.
+25978_26	is_in_sentence	sentence_25978
+25978_26	dep	25978_10
+25978_26	has_surface_form	
+Few Options	surface_form	Few Options
+Few Options	movie-has-director	George Pappy
+George Pappy	surface_form	George Pappy

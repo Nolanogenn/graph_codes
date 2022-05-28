@@ -1,0 +1,85 @@
+6306_0	is_in_sentence	sentence_6306
+6306_0	compound	6306_1
+6306_0	has_surface_form	Ullathai
+6306_0	part_of_entity	Ullathai Killathe
+6306_1	is_in_sentence	sentence_6306
+6306_1	nsubj	6306_7
+6306_1	has_surface_form	Killathe
+6306_1	part_of_entity	Ullathai Killathe
+6306_7	is_in_sentence	sentence_6306
+6306_7	csubj	6306_11
+6306_7	has_surface_form	pinch
+6306_2	is_in_sentence	sentence_6306
+6306_2	punct	6306_3
+6306_2	has_surface_form	(
+6306_3	is_in_sentence	sentence_6306
+6306_3	appos	6306_1
+6306_3	has_surface_form	English
+6306_4	is_in_sentence	sentence_6306
+6306_4	punct	6306_3
+6306_4	has_surface_form	:
+6306_5	is_in_sentence	sentence_6306
+6306_5	aux	6306_7
+6306_5	has_surface_form	Do
+6306_6	is_in_sentence	sentence_6306
+6306_6	neg	6306_7
+6306_6	has_surface_form	n't
+6306_11	is_in_sentence	sentence_6306
+6306_11	ROOT	6306_11
+6306_11	has_surface_form	is
+6306_8	is_in_sentence	sentence_6306
+6306_8	det	6306_9
+6306_8	has_surface_form	the
+6306_9	is_in_sentence	sentence_6306
+6306_9	dobj	6306_7
+6306_9	has_surface_form	heart
+6306_10	is_in_sentence	sentence_6306
+6306_10	punct	6306_7
+6306_10	has_surface_form	)
+6306_12	is_in_sentence	sentence_6306
+6306_12	det	6306_16
+6306_12	has_surface_form	a
+6306_16	is_in_sentence	sentence_6306
+6306_16	attr	6306_11
+6306_16	has_surface_form	film
+6306_13	is_in_sentence	sentence_6306
+6306_13	nummod	6306_16
+6306_13	has_surface_form	1999
+6306_14	is_in_sentence	sentence_6306
+6306_14	compound	6306_16
+6306_14	has_surface_form	Tamil
+6306_15	is_in_sentence	sentence_6306
+6306_15	compound	6306_16
+6306_15	has_surface_form	drama
+6306_17	is_in_sentence	sentence_6306
+6306_17	punct	6306_16
+6306_17	has_surface_form	,
+6306_18	is_in_sentence	sentence_6306
+6306_18	acl	6306_16
+6306_18	has_surface_form	written
+6306_19	is_in_sentence	sentence_6306
+6306_19	cc	6306_18
+6306_19	has_surface_form	and
+6306_20	is_in_sentence	sentence_6306
+6306_20	conj	6306_18
+6306_20	has_surface_form	directed
+6306_21	is_in_sentence	sentence_6306
+6306_21	agent	6306_20
+6306_21	has_surface_form	by
+6306_22	is_in_sentence	sentence_6306
+6306_22	compound	6306_23
+6306_22	has_surface_form	Vejey
+6306_22	part_of_entity	Vejey Kannan
+6306_23	is_in_sentence	sentence_6306
+6306_23	pobj	6306_21
+6306_23	has_surface_form	Kannan
+6306_23	part_of_entity	Vejey Kannan
+6306_24	is_in_sentence	sentence_6306
+6306_24	punct	6306_11
+6306_24	has_surface_form	.
+6306_25	is_in_sentence	sentence_6306
+6306_25	dep	6306_25
+6306_25	has_surface_form	
+Ullathai Killathe	surface_form	Ullathai Killathe
+Ullathai Killathe	movie-has-director	Vejey Kannan
+Vejey Kannan	surface_form	Vejey Kannan

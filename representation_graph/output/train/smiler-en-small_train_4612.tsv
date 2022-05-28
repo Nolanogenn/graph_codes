@@ -1,0 +1,64 @@
+4611_0	is_in_sentence	sentence_4611
+4611_0	compound	4611_1
+4611_0	has_surface_form	Jon
+4611_0	part_of_entity	Jon Heacock
+4611_1	is_in_sentence	sentence_4611
+4611_1	nsubj	4611_9
+4611_1	has_surface_form	Heacock
+4611_1	part_of_entity	Jon Heacock
+4611_9	is_in_sentence	sentence_4611
+4611_9	ROOT	4611_9
+4611_9	has_surface_form	is
+4611_2	is_in_sentence	sentence_4611
+4611_2	punct	4611_1
+4611_2	has_surface_form	(
+4611_3	is_in_sentence	sentence_4611
+4611_3	acl	4611_1
+4611_3	has_surface_form	born
+4611_4	is_in_sentence	sentence_4611
+4611_4	npadvmod	4611_3
+4611_4	has_surface_form	October
+4611_5	is_in_sentence	sentence_4611
+4611_5	nummod	4611_4
+4611_5	has_surface_form	11
+4611_6	is_in_sentence	sentence_4611
+4611_6	punct	4611_4
+4611_6	has_surface_form	,
+4611_7	is_in_sentence	sentence_4611
+4611_7	nummod	4611_4
+4611_7	has_surface_form	1960
+4611_8	is_in_sentence	sentence_4611
+4611_8	punct	4611_1
+4611_8	has_surface_form	)
+4611_10	is_in_sentence	sentence_4611
+4611_10	det	4611_13
+4611_10	has_surface_form	an
+4611_13	is_in_sentence	sentence_4611
+4611_13	attr	4611_9
+4611_13	has_surface_form	coach
+4611_13	part_of_entity	football coach
+4611_11	is_in_sentence	sentence_4611
+4611_11	amod	4611_13
+4611_11	has_surface_form	American
+4611_12	is_in_sentence	sentence_4611
+4611_12	compound	4611_13
+4611_12	has_surface_form	football
+4611_12	part_of_entity	football coach
+4611_14	is_in_sentence	sentence_4611
+4611_14	cc	4611_13
+4611_14	has_surface_form	and
+4611_15	is_in_sentence	sentence_4611
+4611_15	amod	4611_16
+4611_15	has_surface_form	former
+4611_16	is_in_sentence	sentence_4611
+4611_16	conj	4611_13
+4611_16	has_surface_form	player
+4611_17	is_in_sentence	sentence_4611
+4611_17	punct	4611_9
+4611_17	has_surface_form	.
+4611_18	is_in_sentence	sentence_4611
+4611_18	dep	4611_18
+4611_18	has_surface_form	
+Jon Heacock	surface_form	Jon Heacock
+Jon Heacock	has-type	football coach
+football coach	surface_form	football coach

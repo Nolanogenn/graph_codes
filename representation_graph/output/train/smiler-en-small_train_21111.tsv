@@ -1,0 +1,62 @@
+21110_0	is_in_sentence	sentence_21110
+21110_0	compound	21110_1
+21110_0	has_surface_form	Damon
+21110_0	part_of_entity	Damon Packard
+21110_1	is_in_sentence	sentence_21110
+21110_1	nsubj	21110_9
+21110_1	has_surface_form	Packard
+21110_1	part_of_entity	Damon Packard
+21110_9	is_in_sentence	sentence_21110
+21110_9	ROOT	21110_9
+21110_9	has_surface_form	is
+21110_2	is_in_sentence	sentence_21110
+21110_2	punct	21110_1
+21110_2	has_surface_form	(
+21110_3	is_in_sentence	sentence_21110
+21110_3	acl	21110_1
+21110_3	has_surface_form	born
+21110_4	is_in_sentence	sentence_21110
+21110_4	npadvmod	21110_3
+21110_4	has_surface_form	May
+21110_5	is_in_sentence	sentence_21110
+21110_5	nummod	21110_4
+21110_5	has_surface_form	4
+21110_6	is_in_sentence	sentence_21110
+21110_6	punct	21110_4
+21110_6	has_surface_form	,
+21110_7	is_in_sentence	sentence_21110
+21110_7	nummod	21110_4
+21110_7	has_surface_form	1967
+21110_8	is_in_sentence	sentence_21110
+21110_8	punct	21110_1
+21110_8	has_surface_form	)
+21110_10	is_in_sentence	sentence_21110
+21110_10	det	21110_14
+21110_10	has_surface_form	an
+21110_14	is_in_sentence	sentence_21110
+21110_14	attr	21110_9
+21110_14	has_surface_form	director
+21110_11	is_in_sentence	sentence_21110
+21110_11	amod	21110_14
+21110_11	has_surface_form	American
+21110_12	is_in_sentence	sentence_21110
+21110_12	amod	21110_14
+21110_12	has_surface_form	underground
+21110_13	is_in_sentence	sentence_21110
+21110_13	compound	21110_14
+21110_13	has_surface_form	film
+21110_15	is_in_sentence	sentence_21110
+21110_15	cc	21110_14
+21110_15	has_surface_form	and
+21110_16	is_in_sentence	sentence_21110
+21110_16	conj	21110_14
+21110_16	is_entity	actor
+actor	surface_form	actor
+21110_17	is_in_sentence	sentence_21110
+21110_17	punct	21110_9
+21110_17	has_surface_form	.
+21110_18	is_in_sentence	sentence_21110
+21110_18	dep	21110_18
+21110_18	has_surface_form	
+Damon Packard	surface_form	Damon Packard
+Damon Packard	has-occupation	actor

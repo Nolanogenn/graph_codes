@@ -1,0 +1,84 @@
+11452_0	is_in_sentence	sentence_11452
+11452_0	nsubj	11452_1
+11452_0	has_surface_form	I
+11452_1	is_in_sentence	sentence_11452
+11452_1	ROOT	11452_1
+11452_1	has_surface_form	'm
+11452_2	is_in_sentence	sentence_11452
+11452_2	det	11452_3
+11452_2	has_surface_form	No
+11452_3	is_in_sentence	sentence_11452
+11452_3	nsubj	11452_4
+11452_3	has_surface_form	Dummy
+11452_4	is_in_sentence	sentence_11452
+11452_4	ccomp	11452_1
+11452_4	has_surface_form	is
+11452_5	is_in_sentence	sentence_11452
+11452_5	det	11452_8
+11452_5	has_surface_form	a
+11452_8	is_in_sentence	sentence_11452
+11452_8	attr	11452_4
+11452_8	has_surface_form	film
+11452_6	is_in_sentence	sentence_11452
+11452_6	nummod	11452_8
+11452_6	has_surface_form	2009
+11452_7	is_in_sentence	sentence_11452
+11452_7	compound	11452_8
+11452_7	has_surface_form	documentary
+11452_9	is_in_sentence	sentence_11452
+11452_9	prep	11452_8
+11452_9	has_surface_form	about
+11452_10	is_in_sentence	sentence_11452
+11452_10	pobj	11452_9
+11452_10	has_surface_form	ventriloquism
+11452_11	is_in_sentence	sentence_11452
+11452_11	acl	11452_10
+11452_11	has_surface_form	directed
+11452_12	is_in_sentence	sentence_11452
+11452_12	agent	11452_11
+11452_12	has_surface_form	by
+11452_13	is_in_sentence	sentence_11452
+11452_13	compound	11452_15
+11452_13	has_surface_form	Bryan
+11452_13	part_of_entity	Bryan W. Simon
+11452_15	is_in_sentence	sentence_11452
+11452_15	pobj	11452_12
+11452_15	has_surface_form	Simon
+11452_15	part_of_entity	Bryan W. Simon
+11452_14	is_in_sentence	sentence_11452
+11452_14	compound	11452_15
+11452_14	has_surface_form	W.
+11452_14	part_of_entity	Bryan W. Simon
+11452_16	is_in_sentence	sentence_11452
+11452_16	punct	11452_15
+11452_16	has_surface_form	,
+11452_17	is_in_sentence	sentence_11452
+11452_17	acl	11452_15
+11452_17	has_surface_form	produced
+11452_18	is_in_sentence	sentence_11452
+11452_18	agent	11452_17
+11452_18	has_surface_form	by
+11452_19	is_in_sentence	sentence_11452
+11452_19	compound	11452_20
+11452_19	has_surface_form	Marjorie
+11452_20	is_in_sentence	sentence_11452
+11452_20	pobj	11452_18
+11452_20	has_surface_form	Engesser
+11452_21	is_in_sentence	sentence_11452
+11452_21	prep	11452_17
+11452_21	has_surface_form	through
+11452_22	is_in_sentence	sentence_11452
+11452_22	compound	11452_23
+11452_22	has_surface_form	Montivagus
+11452_23	is_in_sentence	sentence_11452
+11452_23	pobj	11452_21
+11452_23	has_surface_form	Productions
+11452_24	is_in_sentence	sentence_11452
+11452_24	punct	11452_1
+11452_24	has_surface_form	.
+11452_25	is_in_sentence	sentence_11452
+11452_25	dep	11452_1
+11452_25	has_surface_form	
+I'm No Dummy	surface_form	I'm No Dummy
+I'm No Dummy	movie-has-director	Bryan W. Simon
+Bryan W. Simon	surface_form	Bryan W. Simon

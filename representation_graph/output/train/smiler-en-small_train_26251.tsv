@@ -1,0 +1,72 @@
+26250_0	is_in_sentence	sentence_26250
+26250_0	det	26250_2
+26250_0	has_surface_form	The
+26250_2	is_in_sentence	sentence_26250
+26250_2	nsubj	26250_5
+26250_2	has_surface_form	Pre
+26250_2	part_of_entity	HP Pre 3
+26250_1	is_in_sentence	sentence_26250
+26250_1	compound	26250_2
+26250_1	has_surface_form	HP
+26250_1	part_of_entity	HP Pre 3
+26250_5	is_in_sentence	sentence_26250
+26250_5	advcl	26250_10
+26250_5	has_surface_form	styled
+26250_3	is_in_sentence	sentence_26250
+26250_3	nummod	26250_2
+26250_3	has_surface_form	3
+26250_3	part_of_entity	HP Pre 3
+26250_4	is_in_sentence	sentence_26250
+26250_4	punct	26250_2
+26250_4	has_surface_form	,
+26250_10	is_in_sentence	sentence_26250
+26250_10	ROOT	26250_10
+26250_10	has_surface_form	is
+26250_6	is_in_sentence	sentence_26250
+26250_6	prep	26250_5
+26250_6	has_surface_form	as
+26250_7	is_in_sentence	sentence_26250
+26250_7	pobj	26250_6
+26250_7	has_surface_form	Pre3
+26250_8	is_in_sentence	sentence_26250
+26250_8	punct	26250_5
+26250_8	has_surface_form	/ˈpriː/
+26250_9	is_in_sentence	sentence_26250
+26250_9	punct	26250_5
+26250_9	has_surface_form	,
+26250_11	is_in_sentence	sentence_26250
+26250_11	det	26250_14
+26250_11	has_surface_form	a
+26250_14	is_in_sentence	sentence_26250
+26250_14	attr	26250_10
+26250_14	is_entity	smartphone
+26250_12	is_in_sentence	sentence_26250
+26250_12	compound	26250_13
+26250_12	has_surface_form	touchscreen
+26250_13	is_in_sentence	sentence_26250
+26250_13	compound	26250_14
+26250_13	has_surface_form	slider
+smartphone	surface_form	smartphone
+26250_15	is_in_sentence	sentence_26250
+26250_15	acl	26250_14
+26250_15	has_surface_form	manufactured
+26250_16	is_in_sentence	sentence_26250
+26250_16	agent	26250_15
+26250_16	has_surface_form	by
+26250_17	is_in_sentence	sentence_26250
+26250_17	compound	26250_19
+26250_17	has_surface_form	Hewlett
+26250_19	is_in_sentence	sentence_26250
+26250_19	pobj	26250_16
+26250_19	has_surface_form	Packard
+26250_18	is_in_sentence	sentence_26250
+26250_18	punct	26250_19
+26250_18	has_surface_form	-
+26250_20	is_in_sentence	sentence_26250
+26250_20	punct	26250_10
+26250_20	has_surface_form	.
+26250_21	is_in_sentence	sentence_26250
+26250_21	dep	26250_21
+26250_21	has_surface_form	
+HP Pre 3	surface_form	HP Pre 3
+HP Pre 3	has-type	smartphone

@@ -1,0 +1,50 @@
+22539_0	is_in_sentence	sentence_22539
+22539_0	nsubj	22539_1
+22539_0	has_surface_form	He
+22539_1	is_in_sentence	sentence_22539
+22539_1	ROOT	22539_1
+22539_1	has_surface_form	is
+22539_2	is_in_sentence	sentence_22539
+22539_2	det	22539_4
+22539_2	has_surface_form	the
+22539_4	is_in_sentence	sentence_22539
+22539_4	attr	22539_1
+22539_4	has_surface_form	brother
+22539_3	is_in_sentence	sentence_22539
+22539_3	amod	22539_4
+22539_3	has_surface_form	younger
+22539_5	is_in_sentence	sentence_22539
+22539_5	prep	22539_4
+22539_5	has_surface_form	of
+22539_6	is_in_sentence	sentence_22539
+22539_6	compound	22539_8
+22539_6	has_surface_form	Sarah
+22539_6	part_of_entity	Sarah Jessica Parker
+22539_8	is_in_sentence	sentence_22539
+22539_8	pobj	22539_5
+22539_8	has_surface_form	Parker
+22539_8	part_of_entity	Sarah Jessica Parker
+22539_7	is_in_sentence	sentence_22539
+22539_7	compound	22539_8
+22539_7	has_surface_form	Jessica
+22539_7	part_of_entity	Sarah Jessica Parker
+22539_9	is_in_sentence	sentence_22539
+22539_9	cc	22539_8
+22539_9	has_surface_form	and
+22539_10	is_in_sentence	sentence_22539
+22539_10	compound	22539_11
+22539_10	has_surface_form	Toby
+22539_10	part_of_entity	Toby Parker
+22539_11	is_in_sentence	sentence_22539
+22539_11	conj	22539_8
+22539_11	has_surface_form	Parker
+22539_11	part_of_entity	Toby Parker
+22539_12	is_in_sentence	sentence_22539
+22539_12	punct	22539_1
+22539_12	has_surface_form	.
+22539_13	is_in_sentence	sentence_22539
+22539_13	dep	22539_1
+22539_13	has_surface_form	
+Sarah Jessica Parker	surface_form	Sarah Jessica Parker
+Sarah Jessica Parker	has-sibling	Toby Parker
+Toby Parker	surface_form	Toby Parker

@@ -1,0 +1,94 @@
+3722_0	is_in_sentence	sentence_3722
+3722_0	compound	3722_1
+3722_0	has_surface_form	Biswajit
+3722_0	part_of_entity	Biswajit Biswas
+3722_1	is_in_sentence	sentence_3722
+3722_1	nsubj	3722_10
+3722_1	has_surface_form	Biswas
+3722_1	part_of_entity	Biswajit Biswas
+3722_10	is_in_sentence	sentence_3722
+3722_10	ROOT	3722_10
+3722_10	has_surface_form	is
+3722_2	is_in_sentence	sentence_3722
+3722_2	punct	3722_3
+3722_2	has_surface_form	(
+3722_3	is_in_sentence	sentence_3722
+3722_3	parataxis	3722_1
+3722_3	has_surface_form	born
+3722_4	is_in_sentence	sentence_3722
+3722_4	nummod	3722_5
+3722_4	has_surface_form	19
+3722_5	is_in_sentence	sentence_3722
+3722_5	npadvmod	3722_3
+3722_5	has_surface_form	March
+3722_6	is_in_sentence	sentence_3722
+3722_6	nummod	3722_5
+3722_6	has_surface_form	1995
+3722_7	is_in_sentence	sentence_3722
+3722_7	prep	3722_3
+3722_7	has_surface_form	in
+3722_8	is_in_sentence	sentence_3722
+3722_8	pobj	3722_7
+3722_8	has_surface_form	Kolkata
+3722_9	is_in_sentence	sentence_3722
+3722_9	punct	3722_1
+3722_9	has_surface_form	)
+3722_11	is_in_sentence	sentence_3722
+3722_11	det	3722_13
+3722_11	has_surface_form	an
+3722_13	is_in_sentence	sentence_3722
+3722_13	attr	3722_10
+3722_13	has_surface_form	footballer
+3722_12	is_in_sentence	sentence_3722
+3722_12	amod	3722_13
+3722_12	has_surface_form	Indian
+3722_14	is_in_sentence	sentence_3722
+3722_14	nsubj	3722_15
+3722_14	has_surface_form	who
+3722_15	is_in_sentence	sentence_3722
+3722_15	relcl	3722_13
+3722_15	has_surface_form	plays
+3722_16	is_in_sentence	sentence_3722
+3722_16	prep	3722_15
+3722_16	has_surface_form	as
+3722_17	is_in_sentence	sentence_3722
+3722_17	det	3722_18
+3722_17	has_surface_form	a
+3722_18	is_in_sentence	sentence_3722
+3722_18	pobj	3722_16
+3722_18	has_surface_form	forward
+3722_19	is_in_sentence	sentence_3722
+3722_19	prep	3722_18
+3722_19	has_surface_form	for
+3722_20	is_in_sentence	sentence_3722
+3722_20	compound	3722_21
+3722_20	has_surface_form	United
+3722_20	part_of_entity	United S.C.
+3722_21	is_in_sentence	sentence_3722
+3722_21	pobj	3722_19
+3722_21	has_surface_form	S.C.
+3722_21	part_of_entity	United S.C.
+3722_22	is_in_sentence	sentence_3722
+3722_22	prep	3722_15
+3722_22	has_surface_form	in
+3722_23	is_in_sentence	sentence_3722
+3722_23	det	3722_26
+3722_23	has_surface_form	the
+3722_26	is_in_sentence	sentence_3722
+3722_26	pobj	3722_22
+3722_26	has_surface_form	League
+3722_24	is_in_sentence	sentence_3722
+3722_24	compound	3722_26
+3722_24	has_surface_form	I
+3722_25	is_in_sentence	sentence_3722
+3722_25	punct	3722_26
+3722_25	has_surface_form	-
+3722_27	is_in_sentence	sentence_3722
+3722_27	punct	3722_10
+3722_27	has_surface_form	.
+3722_28	is_in_sentence	sentence_3722
+3722_28	dep	3722_10
+3722_28	has_surface_form	
+Biswajit Biswas	surface_form	Biswajit Biswas
+Biswajit Biswas	is-member-of	United S.C.
+United S.C.	surface_form	United S.C.

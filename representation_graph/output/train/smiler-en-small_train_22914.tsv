@@ -1,0 +1,59 @@
+22913_0	is_in_sentence	sentence_22913
+22913_0	det	22913_5
+22913_0	has_surface_form	The
+22913_5	is_in_sentence	sentence_22913
+22913_5	nsubj	22913_6
+22913_5	has_surface_form	company
+22913_1	is_in_sentence	sentence_22913
+22913_1	compound	22913_3
+22913_1	has_surface_form	dorm
+22913_3	is_in_sentence	sentence_22913
+22913_3	npadvmod	22913_4
+22913_3	has_surface_form	room
+22913_2	is_in_sentence	sentence_22913
+22913_2	punct	22913_3
+22913_2	has_surface_form	-
+22913_4	is_in_sentence	sentence_22913
+22913_4	amod	22913_5
+22913_4	has_surface_form	headquartered
+22913_6	is_in_sentence	sentence_22913
+22913_6	ROOT	22913_6
+22913_6	has_surface_form	sold
+22913_7	is_in_sentence	sentence_22913
+22913_7	nmod	22913_11
+22913_7	has_surface_form	IBM
+22913_7	part_of_entity	IBM PC
+22913_11	is_in_sentence	sentence_22913
+22913_11	dobj	22913_6
+22913_11	is_entity	computers
+22913_8	is_in_sentence	sentence_22913
+22913_8	npadvmod	22913_10
+22913_8	has_surface_form	PC
+22913_8	part_of_entity	IBM PC
+22913_10	is_in_sentence	sentence_22913
+22913_10	amod	22913_11
+22913_10	has_surface_form	compatible
+22913_9	is_in_sentence	sentence_22913
+22913_9	punct	22913_10
+22913_9	has_surface_form	-
+computers	surface_form	computers
+22913_12	is_in_sentence	sentence_22913
+22913_12	acl	22913_11
+22913_12	has_surface_form	built
+22913_13	is_in_sentence	sentence_22913
+22913_13	prep	22913_12
+22913_13	has_surface_form	from
+22913_14	is_in_sentence	sentence_22913
+22913_14	compound	22913_15
+22913_14	has_surface_form	stock
+22913_15	is_in_sentence	sentence_22913
+22913_15	pobj	22913_13
+22913_15	has_surface_form	components
+22913_16	is_in_sentence	sentence_22913
+22913_16	punct	22913_6
+22913_16	has_surface_form	.
+22913_17	is_in_sentence	sentence_22913
+22913_17	dep	22913_17
+22913_17	has_surface_form	
+IBM PC	surface_form	IBM PC
+IBM PC	no_relation	computers

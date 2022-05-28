@@ -1,0 +1,61 @@
+10915_0	is_in_sentence	sentence_10915
+10915_0	compound	10915_2
+10915_0	has_surface_form	J.
+10915_2	is_in_sentence	sentence_10915
+10915_2	compound	10915_4
+10915_2	has_surface_form	State
+10915_2	part_of_entity	Ingram State Technical College
+10915_1	is_in_sentence	sentence_10915
+10915_1	compound	10915_2
+10915_1	has_surface_form	Ingram
+10915_1	part_of_entity	Ingram State Technical College
+10915_4	is_in_sentence	sentence_10915
+10915_4	nsubj	10915_8
+10915_4	has_surface_form	College
+10915_4	part_of_entity	Ingram State Technical College
+10915_3	is_in_sentence	sentence_10915
+10915_3	compound	10915_4
+10915_3	has_surface_form	Technical
+10915_3	part_of_entity	Ingram State Technical College
+10915_8	is_in_sentence	sentence_10915
+10915_8	ROOT	10915_8
+10915_8	has_surface_form	is
+10915_5	is_in_sentence	sentence_10915
+10915_5	punct	10915_4
+10915_5	has_surface_form	(
+10915_6	is_in_sentence	sentence_10915
+10915_6	appos	10915_4
+10915_6	has_surface_form	ISTC
+10915_7	is_in_sentence	sentence_10915
+10915_7	punct	10915_4
+10915_7	has_surface_form	)
+10915_9	is_in_sentence	sentence_10915
+10915_9	det	10915_11
+10915_9	has_surface_form	a
+10915_11	is_in_sentence	sentence_10915
+10915_11	attr	10915_8
+10915_11	has_surface_form	college
+10915_10	is_in_sentence	sentence_10915
+10915_10	compound	10915_11
+10915_10	has_surface_form	community
+10915_12	is_in_sentence	sentence_10915
+10915_12	prep	10915_11
+10915_12	has_surface_form	in
+10915_13	is_in_sentence	sentence_10915
+10915_13	pobj	10915_12
+10915_13	has_surface_form	Deatsville
+10915_14	is_in_sentence	sentence_10915
+10915_14	punct	10915_13
+10915_14	has_surface_form	,
+10915_15	is_in_sentence	sentence_10915
+10915_15	appos	10915_13
+10915_15	has_surface_form	Alabama
+10915_16	is_in_sentence	sentence_10915
+10915_16	punct	10915_8
+10915_16	has_surface_form	.
+10915_17	is_in_sentence	sentence_10915
+10915_17	dep	10915_8
+10915_17	has_surface_form	
+Ingram State Technical College	surface_form	Ingram State Technical College
+Ingram State Technical College	is-where	Deatsville, Alabama
+Deatsville, Alabama	surface_form	Deatsville, Alabama

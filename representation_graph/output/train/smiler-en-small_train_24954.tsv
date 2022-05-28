@@ -1,0 +1,74 @@
+24953_0	is_in_sentence	sentence_24953
+24953_0	det	24953_2
+24953_0	has_surface_form	The
+24953_0	part_of_entity	The Other Francisco
+24953_2	is_in_sentence	sentence_24953
+24953_2	nsubj	24953_10
+24953_2	has_surface_form	Francisco
+24953_2	part_of_entity	The Other Francisco
+24953_1	is_in_sentence	sentence_24953
+24953_1	compound	24953_2
+24953_1	has_surface_form	Other
+24953_1	part_of_entity	The Other Francisco
+24953_10	is_in_sentence	sentence_24953
+24953_10	ROOT	24953_10
+24953_10	has_surface_form	is
+24953_3	is_in_sentence	sentence_24953
+24953_3	punct	24953_4
+24953_3	has_surface_form	(
+24953_4	is_in_sentence	sentence_24953
+24953_4	appos	24953_2
+24953_4	has_surface_form	Spanish
+24953_5	is_in_sentence	sentence_24953
+24953_5	punct	24953_4
+24953_5	has_surface_form	:
+24953_6	is_in_sentence	sentence_24953
+24953_6	compound	24953_8
+24953_6	has_surface_form	El
+24953_8	is_in_sentence	sentence_24953
+24953_8	appos	24953_4
+24953_8	has_surface_form	Francisco
+24953_7	is_in_sentence	sentence_24953
+24953_7	compound	24953_8
+24953_7	has_surface_form	otro
+24953_9	is_in_sentence	sentence_24953
+24953_9	punct	24953_4
+24953_9	has_surface_form	)
+24953_11	is_in_sentence	sentence_24953
+24953_11	det	24953_15
+24953_11	has_surface_form	a
+24953_15	is_in_sentence	sentence_24953
+24953_15	attr	24953_10
+24953_15	has_surface_form	film
+24953_12	is_in_sentence	sentence_24953
+24953_12	nummod	24953_15
+24953_12	has_surface_form	1975
+24953_13	is_in_sentence	sentence_24953
+24953_13	amod	24953_15
+24953_13	has_surface_form	Cuban
+24953_14	is_in_sentence	sentence_24953
+24953_14	compound	24953_15
+24953_14	has_surface_form	drama
+24953_16	is_in_sentence	sentence_24953
+24953_16	acl	24953_15
+24953_16	has_surface_form	directed
+24953_17	is_in_sentence	sentence_24953
+24953_17	agent	24953_16
+24953_17	has_surface_form	by
+24953_18	is_in_sentence	sentence_24953
+24953_18	compound	24953_19
+24953_18	has_surface_form	Sergio
+24953_18	part_of_entity	Sergio Giral
+24953_19	is_in_sentence	sentence_24953
+24953_19	pobj	24953_17
+24953_19	has_surface_form	Giral
+24953_19	part_of_entity	Sergio Giral
+24953_20	is_in_sentence	sentence_24953
+24953_20	punct	24953_10
+24953_20	has_surface_form	.
+24953_21	is_in_sentence	sentence_24953
+24953_21	dep	24953_10
+24953_21	has_surface_form	
+The Other Francisco	surface_form	The Other Francisco
+The Other Francisco	movie-has-director	Sergio Giral
+Sergio Giral	surface_form	Sergio Giral

@@ -1,0 +1,53 @@
+18347_0	is_in_sentence	sentence_18347
+18347_0	compound	18347_1
+18347_0	has_surface_form	Carla
+18347_0	part_of_entity	Carla Azar
+18347_1	is_in_sentence	sentence_18347
+18347_1	nsubj	18347_2
+18347_1	has_surface_form	Azar
+18347_1	part_of_entity	Carla Azar
+18347_2	is_in_sentence	sentence_18347
+18347_2	ROOT	18347_2
+18347_2	has_surface_form	is
+18347_3	is_in_sentence	sentence_18347
+18347_3	det	18347_5
+18347_3	has_surface_form	an
+18347_5	is_in_sentence	sentence_18347
+18347_5	attr	18347_2
+18347_5	has_surface_form	drummer
+18347_4	is_in_sentence	sentence_18347
+18347_4	amod	18347_5
+18347_4	has_surface_form	American
+18347_6	is_in_sentence	sentence_18347
+18347_6	prep	18347_5
+18347_6	has_surface_form	from
+18347_7	is_in_sentence	sentence_18347
+18347_7	pobj	18347_6
+18347_7	has_surface_form	Alabama
+18347_8	is_in_sentence	sentence_18347
+18347_8	cc	18347_7
+18347_8	has_surface_form	and
+18347_9	is_in_sentence	sentence_18347
+18347_9	conj	18347_7
+18347_9	has_surface_form	member
+18347_10	is_in_sentence	sentence_18347
+18347_10	prep	18347_9
+18347_10	has_surface_form	of
+18347_11	is_in_sentence	sentence_18347
+18347_11	det	18347_12
+18347_11	has_surface_form	the
+18347_12	is_in_sentence	sentence_18347
+18347_12	pobj	18347_10
+18347_12	has_surface_form	band
+18347_13	is_in_sentence	sentence_18347
+18347_13	ROOT	18347_13
+18347_13	is_entity	Autolux
+Autolux	surface_form	Autolux
+18347_14	is_in_sentence	sentence_18347
+18347_14	punct	18347_13
+18347_14	has_surface_form	.
+18347_15	is_in_sentence	sentence_18347
+18347_15	dep	18347_15
+18347_15	has_surface_form	
+Carla Azar	surface_form	Carla Azar
+Carla Azar	is-member-of	Autolux

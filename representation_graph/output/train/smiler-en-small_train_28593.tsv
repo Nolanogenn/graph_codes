@@ -1,0 +1,57 @@
+28592_0	is_in_sentence	sentence_28592
+28592_0	det	28592_5
+28592_0	has_surface_form	The
+28592_5	is_in_sentence	sentence_28592
+28592_5	nsubjpass	28592_7
+28592_5	has_surface_form	machine
+28592_5	part_of_entity	Newspaper vending machine
+28592_1	is_in_sentence	sentence_28592
+28592_1	npadvmod	28592_2
+28592_1	has_surface_form	coin
+28592_2	is_in_sentence	sentence_28592
+28592_2	amod	28592_5
+28592_2	has_surface_form	operated
+28592_3	is_in_sentence	sentence_28592
+28592_3	npadvmod	28592_4
+28592_3	has_surface_form	Newspaper
+28592_3	part_of_entity	Newspaper vending machine
+28592_4	is_in_sentence	sentence_28592
+28592_4	compound	28592_5
+28592_4	has_surface_form	vending
+28592_4	part_of_entity	Newspaper vending machine
+28592_7	is_in_sentence	sentence_28592
+28592_7	ROOT	28592_7
+28592_7	has_surface_form	invented
+28592_6	is_in_sentence	sentence_28592
+28592_6	auxpass	28592_7
+28592_6	has_surface_form	was
+28592_8	is_in_sentence	sentence_28592
+28592_8	prep	28592_7
+28592_8	has_surface_form	in
+28592_9	is_in_sentence	sentence_28592
+28592_9	pobj	28592_8
+28592_9	is_entity	1947
+1947	surface_form	1947
+28592_10	is_in_sentence	sentence_28592
+28592_10	agent	28592_7
+28592_10	has_surface_form	by
+28592_11	is_in_sentence	sentence_28592
+28592_11	compound	28592_14
+28592_11	has_surface_form	inventor
+28592_14	is_in_sentence	sentence_28592
+28592_14	pobj	28592_10
+28592_14	has_surface_form	Hemmeter
+28592_12	is_in_sentence	sentence_28592
+28592_12	compound	28592_14
+28592_12	has_surface_form	George
+28592_13	is_in_sentence	sentence_28592
+28592_13	compound	28592_14
+28592_13	has_surface_form	Thiemeyer
+28592_15	is_in_sentence	sentence_28592
+28592_15	punct	28592_7
+28592_15	has_surface_form	.
+28592_16	is_in_sentence	sentence_28592
+28592_16	dep	28592_16
+28592_16	has_surface_form	
+Newspaper vending machine	surface_form	Newspaper vending machine
+Newspaper vending machine	invented-when	1947

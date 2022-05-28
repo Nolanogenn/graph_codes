@@ -1,0 +1,82 @@
+27240_0	is_in_sentence	sentence_27240
+27240_0	compound	27240_1
+27240_0	has_surface_form	Kurangu
+27240_0	part_of_entity	Kurangu Bommai
+27240_1	is_in_sentence	sentence_27240
+27240_1	nsubj	27240_8
+27240_1	has_surface_form	Bommai
+27240_1	part_of_entity	Kurangu Bommai
+27240_8	is_in_sentence	sentence_27240
+27240_8	ROOT	27240_8
+27240_8	has_surface_form	is
+27240_2	is_in_sentence	sentence_27240
+27240_2	punct	27240_1
+27240_2	has_surface_form	(
+27240_3	is_in_sentence	sentence_27240
+27240_3	appos	27240_1
+27240_3	has_surface_form	English
+27240_4	is_in_sentence	sentence_27240
+27240_4	punct	27240_3
+27240_4	has_surface_form	:
+27240_5	is_in_sentence	sentence_27240
+27240_5	compound	27240_6
+27240_5	has_surface_form	Monkey
+27240_6	is_in_sentence	sentence_27240
+27240_6	appos	27240_3
+27240_6	has_surface_form	Doll
+27240_7	is_in_sentence	sentence_27240
+27240_7	punct	27240_1
+27240_7	has_surface_form	)
+27240_9	is_in_sentence	sentence_27240
+27240_9	det	27240_15
+27240_9	has_surface_form	a
+27240_15	is_in_sentence	sentence_27240
+27240_15	attr	27240_8
+27240_15	has_surface_form	film
+27240_10	is_in_sentence	sentence_27240
+27240_10	nummod	27240_15
+27240_10	has_surface_form	2017
+27240_11	is_in_sentence	sentence_27240
+27240_11	amod	27240_12
+27240_11	has_surface_form	Indian
+27240_12	is_in_sentence	sentence_27240
+27240_12	compound	27240_15
+27240_12	has_surface_form	Tamil
+27240_13	is_in_sentence	sentence_27240
+27240_13	compound	27240_14
+27240_13	has_surface_form	drama
+27240_14	is_in_sentence	sentence_27240
+27240_14	compound	27240_15
+27240_14	has_surface_form	thriller
+27240_16	is_in_sentence	sentence_27240
+27240_16	punct	27240_15
+27240_16	has_surface_form	,
+27240_17	is_in_sentence	sentence_27240
+27240_17	acl	27240_15
+27240_17	has_surface_form	written
+27240_18	is_in_sentence	sentence_27240
+27240_18	cc	27240_17
+27240_18	has_surface_form	and
+27240_19	is_in_sentence	sentence_27240
+27240_19	conj	27240_17
+27240_19	has_surface_form	directed
+27240_20	is_in_sentence	sentence_27240
+27240_20	agent	27240_19
+27240_20	has_surface_form	by
+27240_21	is_in_sentence	sentence_27240
+27240_21	compound	27240_22
+27240_21	has_surface_form	Nithilan
+27240_21	part_of_entity	Nithilan Swaminathan
+27240_22	is_in_sentence	sentence_27240
+27240_22	pobj	27240_20
+27240_22	has_surface_form	Swaminathan
+27240_22	part_of_entity	Nithilan Swaminathan
+27240_23	is_in_sentence	sentence_27240
+27240_23	punct	27240_8
+27240_23	has_surface_form	.
+27240_24	is_in_sentence	sentence_27240
+27240_24	dep	27240_24
+27240_24	has_surface_form	
+Kurangu Bommai	surface_form	Kurangu Bommai
+Kurangu Bommai	movie-has-director	Nithilan Swaminathan
+Nithilan Swaminathan	surface_form	Nithilan Swaminathan

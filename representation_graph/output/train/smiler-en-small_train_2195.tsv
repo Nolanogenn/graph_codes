@@ -1,0 +1,47 @@
+2194_0	is_in_sentence	sentence_2194
+2194_0	poss	2194_2
+2194_0	is_entity	Jordan
+2194_2	is_in_sentence	sentence_2194
+2194_2	nsubj	2194_8
+2194_2	has_surface_form	son
+Jordan	surface_form	Jordan
+Jordan	has-child	Kent Jordan
+2194_1	is_in_sentence	sentence_2194
+2194_1	case	2194_0
+2194_1	has_surface_form	's
+2194_8	is_in_sentence	sentence_2194
+2194_8	ROOT	2194_8
+2194_8	has_surface_form	is
+2194_3	is_in_sentence	sentence_2194
+2194_3	compound	2194_4
+2194_3	has_surface_form	Kent
+2194_3	part_of_entity	Kent Jordan
+2194_4	is_in_sentence	sentence_2194
+2194_4	appos	2194_2
+2194_4	is_entity	Jordan
+2194_4	part_of_entity	Kent Jordan
+2194_5	is_in_sentence	sentence_2194
+2194_5	punct	2194_2
+2194_5	has_surface_form	(
+2194_6	is_in_sentence	sentence_2194
+2194_6	appos	2194_2
+2194_6	has_surface_form	de
+2194_7	is_in_sentence	sentence_2194
+2194_7	punct	2194_2
+2194_7	has_surface_form	)
+2194_9	is_in_sentence	sentence_2194
+2194_9	det	2194_11
+2194_9	has_surface_form	a
+2194_11	is_in_sentence	sentence_2194
+2194_11	attr	2194_8
+2194_11	has_surface_form	flautist
+2194_10	is_in_sentence	sentence_2194
+2194_10	compound	2194_11
+2194_10	has_surface_form	jazz
+2194_12	is_in_sentence	sentence_2194
+2194_12	punct	2194_8
+2194_12	has_surface_form	.
+2194_13	is_in_sentence	sentence_2194
+2194_13	dep	2194_13
+2194_13	has_surface_form	
+Kent Jordan	surface_form	Kent Jordan

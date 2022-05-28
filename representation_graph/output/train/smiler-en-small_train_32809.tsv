@@ -1,0 +1,40 @@
+32808_0	is_in_sentence	sentence_32808
+32808_0	compound	32808_1
+32808_0	has_surface_form	Pat
+32808_0	part_of_entity	Pat Meiser
+32808_1	is_in_sentence	sentence_32808
+32808_1	nsubj	32808_2
+32808_1	has_surface_form	Meiser
+32808_1	part_of_entity	Pat Meiser
+32808_2	is_in_sentence	sentence_32808
+32808_2	ROOT	32808_2
+32808_2	has_surface_form	is
+32808_3	is_in_sentence	sentence_32808
+32808_3	det	32808_5
+32808_3	has_surface_form	a
+32808_5	is_in_sentence	sentence_32808
+32808_5	poss	32808_8
+32808_5	has_surface_form	women
+32808_4	is_in_sentence	sentence_32808
+32808_4	compound	32808_5
+32808_4	has_surface_form	college
+32808_8	is_in_sentence	sentence_32808
+32808_8	attr	32808_2
+32808_8	has_surface_form	coach
+32808_8	part_of_entity	basketball coach
+32808_6	is_in_sentence	sentence_32808
+32808_6	case	32808_5
+32808_6	has_surface_form	's
+32808_7	is_in_sentence	sentence_32808
+32808_7	compound	32808_8
+32808_7	has_surface_form	basketball
+32808_7	part_of_entity	basketball coach
+32808_9	is_in_sentence	sentence_32808
+32808_9	punct	32808_2
+32808_9	has_surface_form	.
+32808_10	is_in_sentence	sentence_32808
+32808_10	dep	32808_10
+32808_10	has_surface_form	
+Pat Meiser	surface_form	Pat Meiser
+Pat Meiser	has-type	basketball coach
+basketball coach	surface_form	basketball coach

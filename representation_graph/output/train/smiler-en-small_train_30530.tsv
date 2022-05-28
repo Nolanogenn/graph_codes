@@ -1,0 +1,67 @@
+30529_0	is_in_sentence	sentence_30529
+30529_0	det	30529_3
+30529_0	has_surface_form	The
+30529_0	part_of_entity	The CTI Education Group
+30529_3	is_in_sentence	sentence_30529
+30529_3	nsubj	30529_7
+30529_3	has_surface_form	Group
+30529_3	part_of_entity	The CTI Education Group
+30529_1	is_in_sentence	sentence_30529
+30529_1	compound	30529_3
+30529_1	has_surface_form	CTI
+30529_1	part_of_entity	The CTI Education Group
+30529_2	is_in_sentence	sentence_30529
+30529_2	compound	30529_3
+30529_2	has_surface_form	Education
+30529_2	part_of_entity	The CTI Education Group
+30529_7	is_in_sentence	sentence_30529
+30529_7	ROOT	30529_7
+30529_7	has_surface_form	is
+30529_4	is_in_sentence	sentence_30529
+30529_4	punct	30529_3
+30529_4	has_surface_form	(
+30529_5	is_in_sentence	sentence_30529
+30529_5	appos	30529_3
+30529_5	has_surface_form	CTI
+30529_6	is_in_sentence	sentence_30529
+30529_6	punct	30529_3
+30529_6	has_surface_form	)
+30529_8	is_in_sentence	sentence_30529
+30529_8	det	30529_14
+30529_8	has_surface_form	a
+30529_14	is_in_sentence	sentence_30529
+30529_14	attr	30529_7
+30529_14	is_entity	institution
+30529_9	is_in_sentence	sentence_30529
+30529_9	amod	30529_14
+30529_9	has_surface_form	registered
+30529_10	is_in_sentence	sentence_30529
+30529_10	punct	30529_14
+30529_10	has_surface_form	,
+30529_11	is_in_sentence	sentence_30529
+30529_11	amod	30529_14
+30529_11	has_surface_form	private
+30529_12	is_in_sentence	sentence_30529
+30529_12	amod	30529_13
+30529_12	has_surface_form	higher
+30529_13	is_in_sentence	sentence_30529
+30529_13	compound	30529_14
+30529_13	has_surface_form	education
+institution	surface_form	institution
+30529_15	is_in_sentence	sentence_30529
+30529_15	prep	30529_14
+30529_15	has_surface_form	in
+30529_16	is_in_sentence	sentence_30529
+30529_16	compound	30529_17
+30529_16	has_surface_form	South
+30529_17	is_in_sentence	sentence_30529
+30529_17	pobj	30529_15
+30529_17	has_surface_form	Africa
+30529_18	is_in_sentence	sentence_30529
+30529_18	punct	30529_7
+30529_18	has_surface_form	.
+30529_19	is_in_sentence	sentence_30529
+30529_19	dep	30529_19
+30529_19	has_surface_form	
+The CTI Education Group	surface_form	The CTI Education Group
+The CTI Education Group	has-type	institution

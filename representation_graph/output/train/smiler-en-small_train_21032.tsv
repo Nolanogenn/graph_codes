@@ -1,0 +1,91 @@
+21031_0	is_in_sentence	sentence_21031
+21031_0	compound	21031_1
+21031_0	has_surface_form	Elizabeth
+21031_0	part_of_entity	Elizabeth Charlotte of the Palatinate
+21031_1	is_in_sentence	sentence_21031
+21031_1	nsubj	21031_18
+21031_1	has_surface_form	Charlotte
+21031_1	part_of_entity	Elizabeth Charlotte of the Palatinate
+21031_18	is_in_sentence	sentence_21031
+21031_18	ROOT	21031_18
+21031_18	has_surface_form	wrote
+21031_2	is_in_sentence	sentence_21031
+21031_2	prep	21031_1
+21031_2	has_surface_form	of
+21031_2	part_of_entity	Elizabeth Charlotte of the Palatinate
+21031_3	is_in_sentence	sentence_21031
+21031_3	det	21031_4
+21031_3	has_surface_form	the
+21031_3	part_of_entity	Elizabeth Charlotte of the Palatinate
+21031_4	is_in_sentence	sentence_21031
+21031_4	pobj	21031_2
+21031_4	has_surface_form	Palatinate
+21031_4	part_of_entity	Elizabeth Charlotte of the Palatinate
+21031_5	is_in_sentence	sentence_21031
+21031_5	punct	21031_1
+21031_5	has_surface_form	,
+21031_6	is_in_sentence	sentence_21031
+21031_6	compound	21031_7
+21031_6	has_surface_form	Dowager
+21031_7	is_in_sentence	sentence_21031
+21031_7	appos	21031_1
+21031_7	has_surface_form	Duchess
+21031_8	is_in_sentence	sentence_21031
+21031_8	prep	21031_7
+21031_8	has_surface_form	of
+21031_9	is_in_sentence	sentence_21031
+21031_9	pobj	21031_8
+21031_9	has_surface_form	Orléans
+21031_10	is_in_sentence	sentence_21031
+21031_10	cc	21031_7
+21031_10	has_surface_form	and
+21031_11	is_in_sentence	sentence_21031
+21031_11	conj	21031_7
+21031_11	has_surface_form	mother
+21031_12	is_in_sentence	sentence_21031
+21031_12	prep	21031_11
+21031_12	has_surface_form	of
+21031_13	is_in_sentence	sentence_21031
+21031_13	det	21031_16
+21031_13	has_surface_form	the
+21031_16	is_in_sentence	sentence_21031
+21031_16	pobj	21031_12
+21031_16	has_surface_form	d'Orléans
+21031_16	part_of_entity	Philippe d'Orléans
+21031_14	is_in_sentence	sentence_21031
+21031_14	compound	21031_16
+21031_14	has_surface_form	Regent
+21031_15	is_in_sentence	sentence_21031
+21031_15	compound	21031_16
+21031_15	has_surface_form	Philippe
+21031_15	part_of_entity	Philippe d'Orléans
+21031_17	is_in_sentence	sentence_21031
+21031_17	punct	21031_1
+21031_17	has_surface_form	,
+21031_19	is_in_sentence	sentence_21031
+21031_19	prep	21031_18
+21031_19	has_surface_form	of
+21031_20	is_in_sentence	sentence_21031
+21031_20	det	21031_23
+21031_20	has_surface_form	the
+21031_23	is_in_sentence	sentence_21031
+21031_23	pobj	21031_19
+21031_23	has_surface_form	Thérèse
+21031_21	is_in_sentence	sentence_21031
+21031_21	amod	21031_23
+21031_21	has_surface_form	widowed
+21031_22	is_in_sentence	sentence_21031
+21031_22	compound	21031_23
+21031_22	has_surface_form	Marie
+21031_24	is_in_sentence	sentence_21031
+21031_24	punct	21031_18
+21031_24	has_surface_form	:
+21031_25	is_in_sentence	sentence_21031
+21031_25	punct	21031_18
+21031_25	has_surface_form	.
+21031_26	is_in_sentence	sentence_21031
+21031_26	dep	21031_26
+21031_26	has_surface_form	
+Elizabeth Charlotte of the Palatinate	surface_form	Elizabeth Charlotte of the Palatinate
+Elizabeth Charlotte of the Palatinate	has-child	Philippe d'Orléans
+Philippe d'Orléans	surface_form	Philippe d'Orléans

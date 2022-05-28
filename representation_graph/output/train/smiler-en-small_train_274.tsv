@@ -1,0 +1,73 @@
+273_0	is_in_sentence	sentence_273
+273_0	compound	273_1
+273_0	has_surface_form	Collège
+273_0	part_of_entity	Collège Mérici
+273_1	is_in_sentence	sentence_273
+273_1	nsubj	273_2
+273_1	has_surface_form	Mérici
+273_1	part_of_entity	Collège Mérici
+273_2	is_in_sentence	sentence_273
+273_2	ROOT	273_2
+273_2	has_surface_form	is
+273_3	is_in_sentence	sentence_273
+273_3	det	273_5
+273_3	has_surface_form	a
+273_5	is_in_sentence	sentence_273
+273_5	attr	273_2
+273_5	has_surface_form	college
+273_4	is_in_sentence	sentence_273
+273_4	amod	273_5
+273_4	has_surface_form	private
+273_6	is_in_sentence	sentence_273
+273_6	punct	273_5
+273_6	has_surface_form	,
+273_7	is_in_sentence	sentence_273
+273_7	det	273_8
+273_7	has_surface_form	the
+273_8	is_in_sentence	sentence_273
+273_8	appos	273_5
+273_8	has_surface_form	equivalent
+273_9	is_in_sentence	sentence_273
+273_9	prep	273_8
+273_9	has_surface_form	of
+273_10	is_in_sentence	sentence_273
+273_10	det	273_11
+273_10	has_surface_form	a
+273_11	is_in_sentence	sentence_273
+273_11	pobj	273_9
+273_11	has_surface_form	CEGEP
+273_12	is_in_sentence	sentence_273
+273_12	punct	273_5
+273_12	has_surface_form	,
+273_13	is_in_sentence	sentence_273
+273_13	prep	273_5
+273_13	has_surface_form	in
+273_14	is_in_sentence	sentence_273
+273_14	compound	273_15
+273_14	has_surface_form	Quebec
+273_14	part_of_entity	Quebec City
+273_15	is_in_sentence	sentence_273
+273_15	pobj	273_13
+273_15	has_surface_form	City
+273_15	part_of_entity	Quebec City
+273_16	is_in_sentence	sentence_273
+273_16	punct	273_15
+273_16	has_surface_form	,
+273_17	is_in_sentence	sentence_273
+273_17	conj	273_15
+273_17	has_surface_form	Quebec
+273_18	is_in_sentence	sentence_273
+273_18	punct	273_17
+273_18	has_surface_form	,
+273_19	is_in_sentence	sentence_273
+273_19	appos	273_17
+273_19	has_surface_form	Canada
+273_20	is_in_sentence	sentence_273
+273_20	punct	273_2
+273_20	has_surface_form	.
+273_21	is_in_sentence	sentence_273
+273_21	dep	273_2
+273_21	has_surface_form	
+Collège Mérici	surface_form	Collège Mérici
+Collège Mérici	is-where	Quebec City
+Quebec City	surface_form	Quebec City

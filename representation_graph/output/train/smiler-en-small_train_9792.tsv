@@ -1,0 +1,55 @@
+9791_0	is_in_sentence	sentence_9791
+9791_0	compound	9791_1
+9791_0	has_surface_form	Terminal
+9791_0	part_of_entity	Terminal Bliss
+9791_1	is_in_sentence	sentence_9791
+9791_1	nsubj	9791_2
+9791_1	has_surface_form	Bliss
+9791_1	part_of_entity	Terminal Bliss
+9791_2	is_in_sentence	sentence_9791
+9791_2	ROOT	9791_2
+9791_2	has_surface_form	is
+9791_3	is_in_sentence	sentence_9791
+9791_3	det	9791_5
+9791_3	has_surface_form	a
+9791_5	is_in_sentence	sentence_9791
+9791_5	attr	9791_2
+9791_5	has_surface_form	film
+9791_4	is_in_sentence	sentence_9791
+9791_4	nummod	9791_5
+9791_4	has_surface_form	1992
+9791_6	is_in_sentence	sentence_9791
+9791_6	acl	9791_5
+9791_6	has_surface_form	directed
+9791_7	is_in_sentence	sentence_9791
+9791_7	agent	9791_6
+9791_7	has_surface_form	by
+9791_8	is_in_sentence	sentence_9791
+9791_8	compound	9791_9
+9791_8	has_surface_form	Jordan
+9791_8	part_of_entity	Jordan Alan
+9791_9	is_in_sentence	sentence_9791
+9791_9	pobj	9791_7
+9791_9	has_surface_form	Alan
+9791_9	part_of_entity	Jordan Alan
+9791_10	is_in_sentence	sentence_9791
+9791_10	cc	9791_6
+9791_10	has_surface_form	and
+9791_11	is_in_sentence	sentence_9791
+9791_11	conj	9791_6
+9791_11	has_surface_form	starring
+9791_12	is_in_sentence	sentence_9791
+9791_12	compound	9791_13
+9791_12	has_surface_form	Luke
+9791_13	is_in_sentence	sentence_9791
+9791_13	dobj	9791_11
+9791_13	has_surface_form	Perry
+9791_14	is_in_sentence	sentence_9791
+9791_14	punct	9791_2
+9791_14	has_surface_form	.
+9791_15	is_in_sentence	sentence_9791
+9791_15	dep	9791_2
+9791_15	has_surface_form	
+Terminal Bliss	surface_form	Terminal Bliss
+Terminal Bliss	movie-has-director	Jordan Alan
+Jordan Alan	surface_form	Jordan Alan

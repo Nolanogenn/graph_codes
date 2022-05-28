@@ -1,0 +1,46 @@
+25011_0	is_in_sentence	sentence_25011
+25011_0	compound	25011_1
+25011_0	has_surface_form	Ron
+25011_0	part_of_entity	Ron Blanchard
+25011_1	is_in_sentence	sentence_25011
+25011_1	nsubj	25011_2
+25011_1	has_surface_form	Blanchard
+25011_1	part_of_entity	Ron Blanchard
+25011_2	is_in_sentence	sentence_25011
+25011_2	ROOT	25011_2
+25011_2	has_surface_form	is
+25011_3	is_in_sentence	sentence_25011
+25011_3	det	25011_5
+25011_3	has_surface_form	an
+25011_5	is_in_sentence	sentence_25011
+25011_5	attr	25011_2
+25011_5	has_surface_form	stage
+25011_4	is_in_sentence	sentence_25011
+25011_4	amod	25011_5
+25011_4	has_surface_form	Australian
+25011_6	is_in_sentence	sentence_25011
+25011_6	punct	25011_5
+25011_6	has_surface_form	,
+25011_7	is_in_sentence	sentence_25011
+25011_7	conj	25011_5
+25011_7	has_surface_form	television
+25011_8	is_in_sentence	sentence_25011
+25011_8	cc	25011_7
+25011_8	has_surface_form	and
+25011_9	is_in_sentence	sentence_25011
+25011_9	conj	25011_7
+25011_9	has_surface_form	film
+25011_9	part_of_entity	film actor
+25011_10	is_in_sentence	sentence_25011
+25011_10	appos	25011_5
+25011_10	has_surface_form	actor
+25011_10	part_of_entity	film actor
+25011_11	is_in_sentence	sentence_25011
+25011_11	punct	25011_2
+25011_11	has_surface_form	.
+25011_12	is_in_sentence	sentence_25011
+25011_12	dep	25011_2
+25011_12	has_surface_form	
+Ron Blanchard	surface_form	Ron Blanchard
+Ron Blanchard	has-occupation	film actor
+film actor	surface_form	film actor

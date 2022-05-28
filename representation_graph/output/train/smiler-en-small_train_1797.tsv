@@ -1,0 +1,73 @@
+1796_0	is_in_sentence	sentence_1796
+1796_0	compound	1796_1
+1796_0	has_surface_form	Mariana
+1796_0	part_of_entity	Mariana Yolanda Ochoa Reyes
+1796_1	is_in_sentence	sentence_1796
+1796_1	compound	1796_3
+1796_1	has_surface_form	Yolanda
+1796_1	part_of_entity	Mariana Yolanda Ochoa Reyes
+1796_3	is_in_sentence	sentence_1796
+1796_3	nsubj	1796_14
+1796_3	has_surface_form	Reyes
+1796_3	part_of_entity	Mariana Yolanda Ochoa Reyes
+1796_2	is_in_sentence	sentence_1796
+1796_2	compound	1796_3
+1796_2	has_surface_form	Ochoa
+1796_2	part_of_entity	Mariana Yolanda Ochoa Reyes
+1796_14	is_in_sentence	sentence_1796
+1796_14	ROOT	1796_14
+1796_14	has_surface_form	is
+1796_4	is_in_sentence	sentence_1796
+1796_4	punct	1796_3
+1796_4	has_surface_form	(
+1796_5	is_in_sentence	sentence_1796
+1796_5	acl	1796_3
+1796_5	has_surface_form	born
+1796_6	is_in_sentence	sentence_1796
+1796_6	npadvmod	1796_5
+1796_6	has_surface_form	February
+1796_7	is_in_sentence	sentence_1796
+1796_7	nummod	1796_6
+1796_7	has_surface_form	19
+1796_8	is_in_sentence	sentence_1796
+1796_8	punct	1796_6
+1796_8	has_surface_form	,
+1796_9	is_in_sentence	sentence_1796
+1796_9	nummod	1796_6
+1796_9	has_surface_form	1979
+1796_10	is_in_sentence	sentence_1796
+1796_10	prep	1796_3
+1796_10	has_surface_form	in
+1796_11	is_in_sentence	sentence_1796
+1796_11	compound	1796_12
+1796_11	has_surface_form	Mexico
+1796_12	is_in_sentence	sentence_1796
+1796_12	pobj	1796_10
+1796_12	has_surface_form	City
+1796_13	is_in_sentence	sentence_1796
+1796_13	punct	1796_3
+1796_13	has_surface_form	)
+1796_15	is_in_sentence	sentence_1796
+1796_15	det	1796_17
+1796_15	has_surface_form	a
+1796_17	is_in_sentence	sentence_1796
+1796_17	attr	1796_14
+1796_17	has_surface_form	singer
+1796_16	is_in_sentence	sentence_1796
+1796_16	amod	1796_17
+1796_16	is_entity	Mexican
+Mexican	surface_form	Mexican
+1796_18	is_in_sentence	sentence_1796
+1796_18	cc	1796_17
+1796_18	has_surface_form	and
+1796_19	is_in_sentence	sentence_1796
+1796_19	conj	1796_17
+1796_19	has_surface_form	actress
+1796_20	is_in_sentence	sentence_1796
+1796_20	punct	1796_14
+1796_20	has_surface_form	.
+1796_21	is_in_sentence	sentence_1796
+1796_21	dep	1796_21
+1796_21	has_surface_form	
+Mariana Yolanda Ochoa Reyes	surface_form	Mariana Yolanda Ochoa Reyes
+Mariana Yolanda Ochoa Reyes	has-nationality	Mexican

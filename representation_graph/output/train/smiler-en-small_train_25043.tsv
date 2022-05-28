@@ -1,0 +1,67 @@
+25042_0	is_in_sentence	sentence_25042
+25042_0	det	25042_1
+25042_0	has_surface_form	A
+25042_0	part_of_entity	A Story of Little Italy
+25042_1	is_in_sentence	sentence_25042
+25042_1	nsubj	25042_5
+25042_1	has_surface_form	Story
+25042_1	part_of_entity	A Story of Little Italy
+25042_5	is_in_sentence	sentence_25042
+25042_5	ROOT	25042_5
+25042_5	has_surface_form	is
+25042_2	is_in_sentence	sentence_25042
+25042_2	prep	25042_1
+25042_2	has_surface_form	of
+25042_2	part_of_entity	A Story of Little Italy
+25042_3	is_in_sentence	sentence_25042
+25042_3	compound	25042_4
+25042_3	has_surface_form	Little
+25042_3	part_of_entity	A Story of Little Italy
+25042_4	is_in_sentence	sentence_25042
+25042_4	pobj	25042_2
+25042_4	has_surface_form	Italy
+25042_4	part_of_entity	A Story of Little Italy
+25042_6	is_in_sentence	sentence_25042
+25042_6	det	25042_12
+25042_6	has_surface_form	a
+25042_12	is_in_sentence	sentence_25042
+25042_12	attr	25042_5
+25042_12	has_surface_form	film
+25042_7	is_in_sentence	sentence_25042
+25042_7	nummod	25042_12
+25042_7	has_surface_form	1914
+25042_8	is_in_sentence	sentence_25042
+25042_8	amod	25042_12
+25042_8	has_surface_form	American
+25042_9	is_in_sentence	sentence_25042
+25042_9	amod	25042_12
+25042_9	has_surface_form	silent
+25042_10	is_in_sentence	sentence_25042
+25042_10	amod	25042_11
+25042_10	has_surface_form	short
+25042_11	is_in_sentence	sentence_25042
+25042_11	compound	25042_12
+25042_11	has_surface_form	drama
+25042_13	is_in_sentence	sentence_25042
+25042_13	acl	25042_12
+25042_13	has_surface_form	directed
+25042_14	is_in_sentence	sentence_25042
+25042_14	agent	25042_13
+25042_14	has_surface_form	by
+25042_15	is_in_sentence	sentence_25042
+25042_15	compound	25042_16
+25042_15	has_surface_form	Lorimer
+25042_15	part_of_entity	Lorimer Johnston
+25042_16	is_in_sentence	sentence_25042
+25042_16	pobj	25042_14
+25042_16	has_surface_form	Johnston
+25042_16	part_of_entity	Lorimer Johnston
+25042_17	is_in_sentence	sentence_25042
+25042_17	punct	25042_5
+25042_17	has_surface_form	.
+25042_18	is_in_sentence	sentence_25042
+25042_18	dep	25042_18
+25042_18	has_surface_form	
+A Story of Little Italy	surface_form	A Story of Little Italy
+A Story of Little Italy	movie-has-director	Lorimer Johnston
+Lorimer Johnston	surface_form	Lorimer Johnston

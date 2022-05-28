@@ -1,0 +1,62 @@
+33001_0	is_in_sentence	sentence_33001
+33001_0	det	33001_2
+33001_0	has_surface_form	The
+33001_2	is_in_sentence	sentence_33001
+33001_2	nsubj	33001_3
+33001_2	has_surface_form	Chiefs
+33001_2	part_of_entity	Chase Chiefs
+33001_1	is_in_sentence	sentence_33001
+33001_1	compound	33001_2
+33001_1	is_entity	Chase
+33001_1	part_of_entity	Chase Chiefs
+Chase	surface_form	Chase
+33001_3	is_in_sentence	sentence_33001
+33001_3	ROOT	33001_3
+33001_3	has_surface_form	were
+33001_4	is_in_sentence	sentence_33001
+33001_4	det	33001_11
+33001_4	has_surface_form	a
+33001_11	is_in_sentence	sentence_33001
+33001_11	attr	33001_3
+33001_11	has_surface_form	team
+33001_5	is_in_sentence	sentence_33001
+33001_5	amod	33001_11
+33001_5	has_surface_form	junior
+33001_6	is_in_sentence	sentence_33001
+33001_6	punct	33001_11
+33001_6	has_surface_form	'
+33001_7	is_in_sentence	sentence_33001
+33001_7	nsubj	33001_6
+33001_7	has_surface_form	B
+33001_8	is_in_sentence	sentence_33001
+33001_8	case	33001_7
+33001_8	has_surface_form	'
+33001_9	is_in_sentence	sentence_33001
+33001_9	compound	33001_10
+33001_9	has_surface_form	ice
+33001_10	is_in_sentence	sentence_33001
+33001_10	compound	33001_11
+33001_10	has_surface_form	hockey
+33001_12	is_in_sentence	sentence_33001
+33001_12	prep	33001_11
+33001_12	has_surface_form	from
+33001_13	is_in_sentence	sentence_33001
+33001_13	pobj	33001_12
+33001_13	is_entity	Chase
+33001_14	is_in_sentence	sentence_33001
+33001_14	punct	33001_13
+33001_14	has_surface_form	,
+33001_15	is_in_sentence	sentence_33001
+33001_15	compound	33001_16
+33001_15	has_surface_form	British
+33001_16	is_in_sentence	sentence_33001
+33001_16	appos	33001_13
+33001_16	has_surface_form	Columbia
+33001_17	is_in_sentence	sentence_33001
+33001_17	punct	33001_3
+33001_17	has_surface_form	.
+33001_18	is_in_sentence	sentence_33001
+33001_18	dep	33001_3
+33001_18	has_surface_form	
+Chase Chiefs	surface_form	Chase Chiefs
+Chase Chiefs	is-where	Chase

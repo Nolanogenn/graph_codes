@@ -1,0 +1,94 @@
+27017_0	is_in_sentence	sentence_27017
+27017_0	compound	27017_1
+27017_0	has_surface_form	Dominick
+27017_0	part_of_entity	Dominick DeLuise
+27017_1	is_in_sentence	sentence_27017
+27017_1	nsubj	27017_13
+27017_1	has_surface_form	DeLuise
+27017_1	part_of_entity	Dominick DeLuise
+27017_13	is_in_sentence	sentence_27017
+27017_13	ROOT	27017_13
+27017_13	has_surface_form	was
+27017_2	is_in_sentence	sentence_27017
+27017_2	punct	27017_1
+27017_2	has_surface_form	(
+27017_3	is_in_sentence	sentence_27017
+27017_3	appos	27017_1
+27017_3	has_surface_form	August
+27017_4	is_in_sentence	sentence_27017
+27017_4	nummod	27017_3
+27017_4	has_surface_form	1
+27017_5	is_in_sentence	sentence_27017
+27017_5	punct	27017_3
+27017_5	has_surface_form	,
+27017_6	is_in_sentence	sentence_27017
+27017_6	appos	27017_3
+27017_6	has_surface_form	1933
+27017_7	is_in_sentence	sentence_27017
+27017_7	punct	27017_1
+27017_7	has_surface_form	–
+27017_8	is_in_sentence	sentence_27017
+27017_8	appos	27017_1
+27017_8	has_surface_form	May
+27017_9	is_in_sentence	sentence_27017
+27017_9	nummod	27017_8
+27017_9	has_surface_form	4
+27017_10	is_in_sentence	sentence_27017
+27017_10	punct	27017_8
+27017_10	has_surface_form	,
+27017_11	is_in_sentence	sentence_27017
+27017_11	nummod	27017_8
+27017_11	has_surface_form	2009
+27017_12	is_in_sentence	sentence_27017
+27017_12	punct	27017_8
+27017_12	has_surface_form	)
+27017_14	is_in_sentence	sentence_27017
+27017_14	det	27017_15
+27017_14	has_surface_form	the
+27017_15	is_in_sentence	sentence_27017
+27017_15	attr	27017_13
+27017_15	has_surface_form	father
+27017_16	is_in_sentence	sentence_27017
+27017_16	prep	27017_15
+27017_16	has_surface_form	of
+27017_17	is_in_sentence	sentence_27017
+27017_17	pobj	27017_16
+27017_17	has_surface_form	actor
+27017_18	is_in_sentence	sentence_27017
+27017_18	punct	27017_17
+27017_18	has_surface_form	,
+27017_19	is_in_sentence	sentence_27017
+27017_19	conj	27017_17
+27017_19	has_surface_form	director
+27017_20	is_in_sentence	sentence_27017
+27017_20	punct	27017_19
+27017_20	has_surface_form	,
+27017_21	is_in_sentence	sentence_27017
+27017_21	conj	27017_19
+27017_21	has_surface_form	pianist
+27017_22	is_in_sentence	sentence_27017
+27017_22	punct	27017_21
+27017_22	has_surface_form	,
+27017_23	is_in_sentence	sentence_27017
+27017_23	cc	27017_21
+27017_23	has_surface_form	and
+27017_24	is_in_sentence	sentence_27017
+27017_24	compound	27017_26
+27017_24	has_surface_form	writer
+27017_26	is_in_sentence	sentence_27017
+27017_26	conj	27017_21
+27017_26	has_surface_form	DeLuise
+27017_26	part_of_entity	Peter DeLuise
+27017_25	is_in_sentence	sentence_27017
+27017_25	compound	27017_26
+27017_25	has_surface_form	Peter
+27017_25	part_of_entity	Peter DeLuise
+27017_27	is_in_sentence	sentence_27017
+27017_27	punct	27017_13
+27017_27	has_surface_form	.
+27017_28	is_in_sentence	sentence_27017
+27017_28	dep	27017_28
+27017_28	has_surface_form	
+Dominick DeLuise	surface_form	Dominick DeLuise
+Dominick DeLuise	has-child	Peter DeLuise
+Peter DeLuise	surface_form	Peter DeLuise

@@ -1,0 +1,55 @@
+3609_0	is_in_sentence	sentence_3609
+3609_0	compound	3609_1
+3609_0	has_surface_form	Kathy
+3609_0	part_of_entity	Kathy Kosins
+3609_1	is_in_sentence	sentence_3609
+3609_1	nsubjpass	3609_3
+3609_1	has_surface_form	Kosins
+3609_1	part_of_entity	Kathy Kosins
+3609_3	is_in_sentence	sentence_3609
+3609_3	ROOT	3609_3
+3609_3	has_surface_form	born
+3609_2	is_in_sentence	sentence_3609
+3609_2	auxpass	3609_3
+3609_2	has_surface_form	was
+3609_4	is_in_sentence	sentence_3609
+3609_4	prep	3609_3
+3609_4	has_surface_form	in
+3609_5	is_in_sentence	sentence_3609
+3609_5	compound	3609_6
+3609_5	has_surface_form	Highland
+3609_6	is_in_sentence	sentence_3609
+3609_6	pobj	3609_4
+3609_6	has_surface_form	Park
+3609_7	is_in_sentence	sentence_3609
+3609_7	punct	3609_6
+3609_7	has_surface_form	,
+3609_8	is_in_sentence	sentence_3609
+3609_8	appos	3609_6
+3609_8	has_surface_form	Michigan
+3609_9	is_in_sentence	sentence_3609
+3609_9	prep	3609_3
+3609_9	has_surface_form	to
+3609_10	is_in_sentence	sentence_3609
+3609_10	pobj	3609_9
+3609_10	has_surface_form	Marilyn
+3609_11	is_in_sentence	sentence_3609
+3609_11	cc	3609_10
+3609_11	has_surface_form	and
+3609_12	is_in_sentence	sentence_3609
+3609_12	compound	3609_13
+3609_12	has_surface_form	Harry
+3609_12	part_of_entity	Harry Kosins
+3609_13	is_in_sentence	sentence_3609
+3609_13	conj	3609_10
+3609_13	has_surface_form	Kosins
+3609_13	part_of_entity	Harry Kosins
+3609_14	is_in_sentence	sentence_3609
+3609_14	punct	3609_3
+3609_14	has_surface_form	.
+3609_15	is_in_sentence	sentence_3609
+3609_15	dep	3609_15
+3609_15	has_surface_form	
+Kathy Kosins	surface_form	Kathy Kosins
+Kathy Kosins	has-parent	Harry Kosins
+Harry Kosins	surface_form	Harry Kosins

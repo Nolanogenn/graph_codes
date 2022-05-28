@@ -1,0 +1,127 @@
+35101_0	is_in_sentence	sentence_35101
+35101_0	dep	35101_4
+35101_0	has_surface_form	1986
+35101_4	is_in_sentence	sentence_35101
+35101_4	ROOT	35101_4
+35101_4	has_surface_form	created
+35101_1	is_in_sentence	sentence_35101
+35101_1	punct	35101_4
+35101_1	has_surface_form	:
+35101_2	is_in_sentence	sentence_35101
+35101_2	compound	35101_3
+35101_2	has_surface_form	Kodak
+35101_3	is_in_sentence	sentence_35101
+35101_3	nsubj	35101_4
+35101_3	has_surface_form	scientists
+35101_5	is_in_sentence	sentence_35101
+35101_5	det	35101_6
+35101_5	has_surface_form	the
+35101_6	is_in_sentence	sentence_35101
+35101_6	poss	35101_10
+35101_6	has_surface_form	world
+35101_10	is_in_sentence	sentence_35101
+35101_10	dobj	35101_4
+35101_10	has_surface_form	sensor
+35101_10	part_of_entity	megapixel sensor
+35101_7	is_in_sentence	sentence_35101
+35101_7	case	35101_6
+35101_7	has_surface_form	's
+35101_8	is_in_sentence	sentence_35101
+35101_8	amod	35101_10
+35101_8	has_surface_form	first
+35101_9	is_in_sentence	sentence_35101
+35101_9	compound	35101_10
+35101_9	has_surface_form	megapixel
+35101_9	part_of_entity	megapixel sensor
+35101_11	is_in_sentence	sentence_35101
+35101_11	punct	35101_10
+35101_11	has_surface_form	,
+35101_12	is_in_sentence	sentence_35101
+35101_12	amod	35101_10
+35101_12	has_surface_form	capable
+35101_13	is_in_sentence	sentence_35101
+35101_13	prep	35101_12
+35101_13	has_surface_form	of
+35101_14	is_in_sentence	sentence_35101
+35101_14	pcomp	35101_13
+35101_14	has_surface_form	recording
+35101_15	is_in_sentence	sentence_35101
+35101_15	compound	35101_16
+35101_15	has_surface_form	1.4
+35101_16	is_in_sentence	sentence_35101
+35101_16	nummod	35101_17
+35101_16	has_surface_form	million
+35101_17	is_in_sentence	sentence_35101
+35101_17	dobj	35101_14
+35101_17	has_surface_form	pixels
+35101_18	is_in_sentence	sentence_35101
+35101_18	cc	35101_14
+35101_18	has_surface_form	and
+35101_19	is_in_sentence	sentence_35101
+35101_19	conj	35101_14
+35101_19	has_surface_form	producing
+35101_20	is_in_sentence	sentence_35101
+35101_20	det	35101_25
+35101_20	has_surface_form	a
+35101_25	is_in_sentence	sentence_35101
+35101_25	dobj	35101_19
+35101_25	has_surface_form	cm
+35101_25	part_of_entity	12.5 cm × 17.5 cm
+35101_21	is_in_sentence	sentence_35101
+35101_21	compound	35101_23
+35101_21	has_surface_form	photo
+35101_23	is_in_sentence	sentence_35101
+35101_23	nmod	35101_25
+35101_23	has_surface_form	quality
+35101_22	is_in_sentence	sentence_35101
+35101_22	punct	35101_23
+35101_22	has_surface_form	-
+35101_24	is_in_sentence	sentence_35101
+35101_24	nummod	35101_25
+35101_24	has_surface_form	12.5
+35101_24	part_of_entity	12.5 cm × 17.5 cm
+35101_26	is_in_sentence	sentence_35101
+35101_26	conj	35101_4
+35101_26	has_surface_form	×
+35101_26	part_of_entity	12.5 cm × 17.5 cm
+35101_27	is_in_sentence	sentence_35101
+35101_27	nummod	35101_28
+35101_27	has_surface_form	17.5
+35101_27	part_of_entity	12.5 cm × 17.5 cm
+35101_28	is_in_sentence	sentence_35101
+35101_28	npadvmod	35101_26
+35101_28	has_surface_form	cm
+35101_28	part_of_entity	12.5 cm × 17.5 cm
+35101_29	is_in_sentence	sentence_35101
+35101_29	punct	35101_28
+35101_29	has_surface_form	(
+35101_30	is_in_sentence	sentence_35101
+35101_30	appos	35101_28
+35101_30	has_surface_form	4.9
+35101_31	is_in_sentence	sentence_35101
+35101_31	prep	35101_30
+35101_31	has_surface_form	in
+35101_32	is_in_sentence	sentence_35101
+35101_32	pobj	35101_31
+35101_32	has_surface_form	×
+35101_33	is_in_sentence	sentence_35101
+35101_33	nummod	35101_32
+35101_33	has_surface_form	6.9
+35101_34	is_in_sentence	sentence_35101
+35101_34	prep	35101_33
+35101_34	has_surface_form	in
+35101_35	is_in_sentence	sentence_35101
+35101_35	punct	35101_33
+35101_35	has_surface_form	)
+35101_36	is_in_sentence	sentence_35101
+35101_36	npadvmod	35101_32
+35101_36	has_surface_form	print
+35101_37	is_in_sentence	sentence_35101
+35101_37	punct	35101_4
+35101_37	has_surface_form	.
+35101_38	is_in_sentence	sentence_35101
+35101_38	dep	35101_38
+35101_38	has_surface_form	
+megapixel sensor	surface_form	megapixel sensor
+megapixel sensor	no_relation	12.5 cm × 17.5 cm
+12.5 cm × 17.5 cm	surface_form	12.5 cm × 17.5 cm

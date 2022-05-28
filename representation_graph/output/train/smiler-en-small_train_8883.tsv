@@ -1,0 +1,75 @@
+8882_0	is_in_sentence	sentence_8882
+8882_0	nummod	8882_1
+8882_0	has_surface_form	48
+8882_0	part_of_entity	48 heures par jour
+8882_1	is_in_sentence	sentence_8882
+8882_1	nsubj	8882_10
+8882_1	has_surface_form	heures
+8882_1	part_of_entity	48 heures par jour
+8882_10	is_in_sentence	sentence_8882
+8882_10	ROOT	8882_10
+8882_10	has_surface_form	is
+8882_2	is_in_sentence	sentence_8882
+8882_2	compound	8882_3
+8882_2	has_surface_form	par
+8882_2	part_of_entity	48 heures par jour
+8882_3	is_in_sentence	sentence_8882
+8882_3	dobj	8882_1
+8882_3	has_surface_form	jour
+8882_3	part_of_entity	48 heures par jour
+8882_4	is_in_sentence	sentence_8882
+8882_4	punct	8882_3
+8882_4	has_surface_form	(
+8882_5	is_in_sentence	sentence_8882
+8882_5	nummod	8882_6
+8882_5	has_surface_form	48
+8882_6	is_in_sentence	sentence_8882
+8882_6	appos	8882_3
+8882_6	has_surface_form	hours
+8882_7	is_in_sentence	sentence_8882
+8882_7	det	8882_8
+8882_7	has_surface_form	a
+8882_8	is_in_sentence	sentence_8882
+8882_8	npadvmod	8882_6
+8882_8	has_surface_form	day
+8882_9	is_in_sentence	sentence_8882
+8882_9	punct	8882_3
+8882_9	has_surface_form	)
+8882_11	is_in_sentence	sentence_8882
+8882_11	det	8882_15
+8882_11	has_surface_form	a
+8882_15	is_in_sentence	sentence_8882
+8882_15	attr	8882_10
+8882_15	has_surface_form	film
+8882_12	is_in_sentence	sentence_8882
+8882_12	nummod	8882_15
+8882_12	has_surface_form	2008
+8882_13	is_in_sentence	sentence_8882
+8882_13	amod	8882_15
+8882_13	has_surface_form	French
+8882_14	is_in_sentence	sentence_8882
+8882_14	compound	8882_15
+8882_14	has_surface_form	comedy
+8882_16	is_in_sentence	sentence_8882
+8882_16	acl	8882_15
+8882_16	has_surface_form	directed
+8882_17	is_in_sentence	sentence_8882
+8882_17	agent	8882_16
+8882_17	has_surface_form	by
+8882_18	is_in_sentence	sentence_8882
+8882_18	compound	8882_19
+8882_18	has_surface_form	Catherine
+8882_18	part_of_entity	Catherine Castel
+8882_19	is_in_sentence	sentence_8882
+8882_19	pobj	8882_17
+8882_19	has_surface_form	Castel
+8882_19	part_of_entity	Catherine Castel
+8882_20	is_in_sentence	sentence_8882
+8882_20	punct	8882_10
+8882_20	has_surface_form	.
+8882_21	is_in_sentence	sentence_8882
+8882_21	dep	8882_21
+8882_21	has_surface_form	
+48 heures par jour	surface_form	48 heures par jour
+48 heures par jour	movie-has-director	Catherine Castel
+Catherine Castel	surface_form	Catherine Castel

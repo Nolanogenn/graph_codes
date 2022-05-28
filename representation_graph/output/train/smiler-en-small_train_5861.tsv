@@ -1,0 +1,47 @@
+5860_0	is_in_sentence	sentence_5860
+5860_0	punct	5860_4
+5860_0	has_surface_form	”
+5860_4	is_in_sentence	sentence_5860
+5860_4	ROOT	5860_4
+5860_4	has_surface_form	born
+5860_1	is_in_sentence	sentence_5860
+5860_1	compound	5860_2
+5860_1	has_surface_form	Dave
+5860_1	part_of_entity	Dave Schools
+5860_2	is_in_sentence	sentence_5860
+5860_2	nsubjpass	5860_4
+5860_2	has_surface_form	Schools
+5860_2	part_of_entity	Dave Schools
+5860_3	is_in_sentence	sentence_5860
+5860_3	auxpass	5860_4
+5860_3	has_surface_form	was
+5860_5	is_in_sentence	sentence_5860
+5860_5	prep	5860_4
+5860_5	has_surface_form	in
+5860_6	is_in_sentence	sentence_5860
+5860_6	pobj	5860_5
+5860_6	has_surface_form	Richmond
+5860_7	is_in_sentence	sentence_5860
+5860_7	punct	5860_6
+5860_7	has_surface_form	,
+5860_8	is_in_sentence	sentence_5860
+5860_8	conj	5860_6
+5860_8	has_surface_form	Virginia
+5860_9	is_in_sentence	sentence_5860
+5860_9	punct	5860_8
+5860_9	has_surface_form	,
+5860_10	is_in_sentence	sentence_5860
+5860_10	compound	5860_11
+5860_10	has_surface_form	United
+5860_11	is_in_sentence	sentence_5860
+5860_11	appos	5860_6
+5860_11	has_surface_form	States
+5860_12	is_in_sentence	sentence_5860
+5860_12	punct	5860_4
+5860_12	has_surface_form	.
+5860_13	is_in_sentence	sentence_5860
+5860_13	dep	5860_4
+5860_13	has_surface_form	
+Dave Schools	surface_form	Dave Schools
+Dave Schools	birth-place	Richmond, Virginia
+Richmond, Virginia	surface_form	Richmond, Virginia

@@ -1,0 +1,62 @@
+13792_0	is_in_sentence	sentence_13792
+13792_0	compound	13792_1
+13792_0	has_surface_form	Bob
+13792_0	part_of_entity	Bob Berezowitz
+13792_1	is_in_sentence	sentence_13792
+13792_1	nsubj	13792_9
+13792_1	has_surface_form	Berezowitz
+13792_1	part_of_entity	Bob Berezowitz
+13792_9	is_in_sentence	sentence_13792
+13792_9	ROOT	13792_9
+13792_9	has_surface_form	is
+13792_2	is_in_sentence	sentence_13792
+13792_2	punct	13792_1
+13792_2	has_surface_form	(
+13792_3	is_in_sentence	sentence_13792
+13792_3	acl	13792_1
+13792_3	has_surface_form	born
+13792_4	is_in_sentence	sentence_13792
+13792_4	npadvmod	13792_3
+13792_4	has_surface_form	July
+13792_5	is_in_sentence	sentence_13792
+13792_5	nummod	13792_4
+13792_5	has_surface_form	8
+13792_6	is_in_sentence	sentence_13792
+13792_6	punct	13792_4
+13792_6	has_surface_form	,
+13792_7	is_in_sentence	sentence_13792
+13792_7	nummod	13792_4
+13792_7	has_surface_form	1944
+13792_8	is_in_sentence	sentence_13792
+13792_8	punct	13792_1
+13792_8	has_surface_form	)
+13792_10	is_in_sentence	sentence_13792
+13792_10	det	13792_14
+13792_10	has_surface_form	a
+13792_14	is_in_sentence	sentence_13792
+13792_14	attr	13792_9
+13792_14	has_surface_form	player
+13792_11	is_in_sentence	sentence_13792
+13792_11	amod	13792_14
+13792_11	has_surface_form	former
+13792_12	is_in_sentence	sentence_13792
+13792_12	amod	13792_14
+13792_12	has_surface_form	American
+13792_13	is_in_sentence	sentence_13792
+13792_13	compound	13792_14
+13792_13	has_surface_form	football
+13792_15	is_in_sentence	sentence_13792
+13792_15	cc	13792_14
+13792_15	has_surface_form	and
+13792_16	is_in_sentence	sentence_13792
+13792_16	conj	13792_14
+13792_16	is_entity	coach
+coach	surface_form	coach
+13792_17	is_in_sentence	sentence_13792
+13792_17	punct	13792_9
+13792_17	has_surface_form	.
+13792_18	is_in_sentence	sentence_13792
+13792_18	dep	13792_18
+13792_18	has_surface_form	
+Bob Berezowitz	surface_form	Bob Berezowitz
+Bob Berezowitz	has-type	coach

@@ -1,0 +1,105 @@
+20221_0	is_in_sentence	sentence_20221
+20221_0	det	20221_4
+20221_0	has_surface_form	The
+20221_4	is_in_sentence	sentence_20221
+20221_4	nsubj	20221_10
+20221_4	has_surface_form	Department
+20221_4	part_of_entity	New York State Department of State
+20221_1	is_in_sentence	sentence_20221
+20221_1	compound	20221_2
+20221_1	has_surface_form	New
+20221_1	part_of_entity	New York State Department of State
+20221_2	is_in_sentence	sentence_20221
+20221_2	compound	20221_4
+20221_2	has_surface_form	York
+20221_2	part_of_entity	New York State Department of State
+20221_3	is_in_sentence	sentence_20221
+20221_3	compound	20221_4
+20221_3	has_surface_form	State
+20221_3	part_of_entity	New York State Department of State
+20221_10	is_in_sentence	sentence_20221
+20221_10	ROOT	20221_10
+20221_10	has_surface_form	is
+20221_5	is_in_sentence	sentence_20221
+20221_5	prep	20221_4
+20221_5	has_surface_form	of
+20221_5	part_of_entity	New York State Department of State
+20221_6	is_in_sentence	sentence_20221
+20221_6	pobj	20221_5
+20221_6	has_surface_form	State
+20221_6	part_of_entity	New York State Department of State
+20221_7	is_in_sentence	sentence_20221
+20221_7	punct	20221_4
+20221_7	has_surface_form	(
+20221_8	is_in_sentence	sentence_20221
+20221_8	appos	20221_4
+20221_8	has_surface_form	NYSDOS
+20221_9	is_in_sentence	sentence_20221
+20221_9	punct	20221_4
+20221_9	has_surface_form	)
+20221_11	is_in_sentence	sentence_20221
+20221_11	det	20221_12
+20221_11	has_surface_form	the
+20221_12	is_in_sentence	sentence_20221
+20221_12	attr	20221_10
+20221_12	is_entity	department
+department	surface_form	department
+20221_13	is_in_sentence	sentence_20221
+20221_13	prep	20221_12
+20221_13	has_surface_form	of
+20221_14	is_in_sentence	sentence_20221
+20221_14	det	20221_18
+20221_14	has_surface_form	the
+20221_18	is_in_sentence	sentence_20221
+20221_18	pobj	20221_13
+20221_18	has_surface_form	government
+20221_15	is_in_sentence	sentence_20221
+20221_15	compound	20221_16
+20221_15	has_surface_form	New
+20221_16	is_in_sentence	sentence_20221
+20221_16	compound	20221_18
+20221_16	has_surface_form	York
+20221_17	is_in_sentence	sentence_20221
+20221_17	compound	20221_18
+20221_17	has_surface_form	state
+20221_19	is_in_sentence	sentence_20221
+20221_19	prep	20221_12
+20221_19	has_surface_form	under
+20221_20	is_in_sentence	sentence_20221
+20221_20	det	20221_21
+20221_20	has_surface_form	the
+20221_21	is_in_sentence	sentence_20221
+20221_21	pobj	20221_19
+20221_21	has_surface_form	leadership
+20221_22	is_in_sentence	sentence_20221
+20221_22	prep	20221_21
+20221_22	has_surface_form	of
+20221_23	is_in_sentence	sentence_20221
+20221_23	det	20221_24
+20221_23	has_surface_form	the
+20221_24	is_in_sentence	sentence_20221
+20221_24	pobj	20221_22
+20221_24	has_surface_form	Secretary
+20221_25	is_in_sentence	sentence_20221
+20221_25	prep	20221_24
+20221_25	has_surface_form	of
+20221_26	is_in_sentence	sentence_20221
+20221_26	pobj	20221_25
+20221_26	has_surface_form	State
+20221_27	is_in_sentence	sentence_20221
+20221_27	prep	20221_24
+20221_27	has_surface_form	of
+20221_28	is_in_sentence	sentence_20221
+20221_28	compound	20221_29
+20221_28	has_surface_form	New
+20221_29	is_in_sentence	sentence_20221
+20221_29	pobj	20221_27
+20221_29	has_surface_form	York
+20221_30	is_in_sentence	sentence_20221
+20221_30	punct	20221_10
+20221_30	has_surface_form	.
+20221_31	is_in_sentence	sentence_20221
+20221_31	dep	20221_31
+20221_31	has_surface_form	
+New York State Department of State	surface_form	New York State Department of State
+New York State Department of State	has-type	department

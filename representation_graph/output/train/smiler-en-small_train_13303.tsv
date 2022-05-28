@@ -1,0 +1,65 @@
+13302_0	is_in_sentence	sentence_13302
+13302_0	compound	13302_1
+13302_0	has_surface_form	Kaliyuga
+13302_0	part_of_entity	Kaliyuga Seethe
+13302_1	is_in_sentence	sentence_13302
+13302_1	nsubj	13302_2
+13302_1	has_surface_form	Seethe
+13302_1	part_of_entity	Kaliyuga Seethe
+13302_2	is_in_sentence	sentence_13302
+13302_2	ROOT	13302_2
+13302_2	has_surface_form	is
+13302_3	is_in_sentence	sentence_13302
+13302_3	det	13302_11
+13302_3	has_surface_form	a
+13302_11	is_in_sentence	sentence_13302
+13302_11	attr	13302_2
+13302_11	has_surface_form	film
+13302_4	is_in_sentence	sentence_13302
+13302_4	nummod	13302_11
+13302_4	has_surface_form	1992
+13302_5	is_in_sentence	sentence_13302
+13302_5	amod	13302_11
+13302_5	has_surface_form	Indian
+13302_6	is_in_sentence	sentence_13302
+13302_6	nmod	13302_8
+13302_6	has_surface_form	Kannada
+13302_8	is_in_sentence	sentence_13302
+13302_8	nmod	13302_11
+13302_8	has_surface_form	language
+13302_7	is_in_sentence	sentence_13302
+13302_7	punct	13302_8
+13302_7	has_surface_form	-
+13302_9	is_in_sentence	sentence_13302
+13302_9	amod	13302_11
+13302_9	has_surface_form	romantic
+13302_10	is_in_sentence	sentence_13302
+13302_10	compound	13302_11
+13302_10	has_surface_form	drama
+13302_12	is_in_sentence	sentence_13302
+13302_12	acl	13302_11
+13302_12	has_surface_form	directed
+13302_13	is_in_sentence	sentence_13302
+13302_13	agent	13302_12
+13302_13	has_surface_form	by
+13302_14	is_in_sentence	sentence_13302
+13302_14	pobj	13302_13
+13302_14	is_entity	Vijay
+Vijay	surface_form	Vijay
+13302_15	is_in_sentence	sentence_13302
+13302_15	cc	13302_12
+13302_15	has_surface_form	and
+13302_16	is_in_sentence	sentence_13302
+13302_16	conj	13302_12
+13302_16	has_surface_form	written
+13302_17	is_in_sentence	sentence_13302
+13302_17	agent	13302_16
+13302_17	has_surface_form	by
+13302_18	is_in_sentence	sentence_13302
+13302_18	compound	13302_19
+13302_18	has_surface_form	M.
+13302_19	is_in_sentence	sentence_13302
+13302_19	dep	13302_17
+13302_19	has_surface_form	
+Kaliyuga Seethe	surface_form	Kaliyuga Seethe
+Kaliyuga Seethe	movie-has-director	Vijay

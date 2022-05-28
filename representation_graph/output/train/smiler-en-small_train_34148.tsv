@@ -1,0 +1,65 @@
+34147_0	is_in_sentence	sentence_34147
+34147_0	compound	34147_1
+34147_0	has_surface_form	Alien
+34147_0	part_of_entity	Alien Intruder
+34147_1	is_in_sentence	sentence_34147
+34147_1	nsubj	34147_2
+34147_1	has_surface_form	Intruder
+34147_1	part_of_entity	Alien Intruder
+34147_2	is_in_sentence	sentence_34147
+34147_2	ROOT	34147_2
+34147_2	has_surface_form	is
+34147_3	is_in_sentence	sentence_34147
+34147_3	det	34147_9
+34147_3	has_surface_form	a
+34147_9	is_in_sentence	sentence_34147
+34147_9	attr	34147_2
+34147_9	has_surface_form	film
+34147_4	is_in_sentence	sentence_34147
+34147_4	nummod	34147_9
+34147_4	has_surface_form	1993
+34147_5	is_in_sentence	sentence_34147
+34147_5	nmod	34147_7
+34147_5	has_surface_form	action
+34147_7	is_in_sentence	sentence_34147
+34147_7	compound	34147_8
+34147_7	has_surface_form	science
+34147_6	is_in_sentence	sentence_34147
+34147_6	punct	34147_7
+34147_6	has_surface_form	/
+34147_8	is_in_sentence	sentence_34147
+34147_8	compound	34147_9
+34147_8	has_surface_form	fiction
+34147_10	is_in_sentence	sentence_34147
+34147_10	prep	34147_9
+34147_10	has_surface_form	by
+34147_11	is_in_sentence	sentence_34147
+34147_11	compound	34147_12
+34147_11	has_surface_form	Nick
+34147_12	is_in_sentence	sentence_34147
+34147_12	pobj	34147_10
+34147_12	has_surface_form	Stone
+34147_13	is_in_sentence	sentence_34147
+34147_13	cc	34147_12
+34147_13	has_surface_form	and
+34147_14	is_in_sentence	sentence_34147
+34147_14	compound	34147_16
+34147_14	has_surface_form	Ricardo
+34147_14	part_of_entity	Ricardo Jacques Gale
+34147_16	is_in_sentence	sentence_34147
+34147_16	conj	34147_12
+34147_16	has_surface_form	Gale
+34147_16	part_of_entity	Ricardo Jacques Gale
+34147_15	is_in_sentence	sentence_34147
+34147_15	compound	34147_16
+34147_15	has_surface_form	Jacques
+34147_15	part_of_entity	Ricardo Jacques Gale
+34147_17	is_in_sentence	sentence_34147
+34147_17	punct	34147_2
+34147_17	has_surface_form	.
+34147_18	is_in_sentence	sentence_34147
+34147_18	dep	34147_2
+34147_18	has_surface_form	
+Alien Intruder	surface_form	Alien Intruder
+Alien Intruder	movie-has-director	Ricardo Jacques Gale
+Ricardo Jacques Gale	surface_form	Ricardo Jacques Gale

@@ -1,0 +1,74 @@
+21465_0	is_in_sentence	sentence_21465
+21465_0	nsubj	21465_10
+21465_0	has_surface_form	Akseli
+21465_0	part_of_entity	Akseli and Elina
+21465_10	is_in_sentence	sentence_21465
+21465_10	ROOT	21465_10
+21465_10	has_surface_form	is
+21465_1	is_in_sentence	sentence_21465
+21465_1	cc	21465_0
+21465_1	has_surface_form	and
+21465_1	part_of_entity	Akseli and Elina
+21465_2	is_in_sentence	sentence_21465
+21465_2	conj	21465_0
+21465_2	has_surface_form	Elina
+21465_2	part_of_entity	Akseli and Elina
+21465_3	is_in_sentence	sentence_21465
+21465_3	punct	21465_4
+21465_3	has_surface_form	(
+21465_4	is_in_sentence	sentence_21465
+21465_4	parataxis	21465_0
+21465_4	has_surface_form	Finnish
+21465_5	is_in_sentence	sentence_21465
+21465_5	punct	21465_4
+21465_5	has_surface_form	:
+21465_6	is_in_sentence	sentence_21465
+21465_6	compound	21465_8
+21465_6	has_surface_form	Akseli
+21465_8	is_in_sentence	sentence_21465
+21465_8	npadvmod	21465_0
+21465_8	has_surface_form	Elina
+21465_7	is_in_sentence	sentence_21465
+21465_7	compound	21465_8
+21465_7	has_surface_form	ja
+21465_9	is_in_sentence	sentence_21465
+21465_9	punct	21465_8
+21465_9	has_surface_form	)
+21465_11	is_in_sentence	sentence_21465
+21465_11	det	21465_15
+21465_11	has_surface_form	a
+21465_15	is_in_sentence	sentence_21465
+21465_15	attr	21465_10
+21465_15	has_surface_form	film
+21465_12	is_in_sentence	sentence_21465
+21465_12	nummod	21465_15
+21465_12	has_surface_form	1970
+21465_13	is_in_sentence	sentence_21465
+21465_13	amod	21465_15
+21465_13	has_surface_form	Finnish
+21465_14	is_in_sentence	sentence_21465
+21465_14	compound	21465_15
+21465_14	has_surface_form	drama
+21465_16	is_in_sentence	sentence_21465
+21465_16	acl	21465_15
+21465_16	has_surface_form	directed
+21465_17	is_in_sentence	sentence_21465
+21465_17	agent	21465_16
+21465_17	has_surface_form	by
+21465_18	is_in_sentence	sentence_21465
+21465_18	compound	21465_19
+21465_18	has_surface_form	Edvin
+21465_18	part_of_entity	Edvin Laine
+21465_19	is_in_sentence	sentence_21465
+21465_19	pobj	21465_17
+21465_19	has_surface_form	Laine
+21465_19	part_of_entity	Edvin Laine
+21465_20	is_in_sentence	sentence_21465
+21465_20	punct	21465_10
+21465_20	has_surface_form	.
+21465_21	is_in_sentence	sentence_21465
+21465_21	dep	21465_21
+21465_21	has_surface_form	
+Akseli and Elina	surface_form	Akseli and Elina
+Akseli and Elina	movie-has-director	Edvin Laine
+Edvin Laine	surface_form	Edvin Laine

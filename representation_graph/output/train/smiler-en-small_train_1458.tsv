@@ -1,0 +1,128 @@
+1457_0	is_in_sentence	sentence_1457
+1457_0	det	1457_1
+1457_0	has_surface_form	The
+1457_0	part_of_entity	The Summer of Ben Tyler
+1457_1	is_in_sentence	sentence_1457
+1457_1	nsubj	1457_5
+1457_1	has_surface_form	Summer
+1457_1	part_of_entity	The Summer of Ben Tyler
+1457_5	is_in_sentence	sentence_1457
+1457_5	ROOT	1457_5
+1457_5	has_surface_form	is
+1457_2	is_in_sentence	sentence_1457
+1457_2	prep	1457_1
+1457_2	has_surface_form	of
+1457_2	part_of_entity	The Summer of Ben Tyler
+1457_3	is_in_sentence	sentence_1457
+1457_3	compound	1457_4
+1457_3	has_surface_form	Ben
+1457_3	part_of_entity	The Summer of Ben Tyler
+1457_4	is_in_sentence	sentence_1457
+1457_4	pobj	1457_2
+1457_4	has_surface_form	Tyler
+1457_4	part_of_entity	The Summer of Ben Tyler
+1457_6	is_in_sentence	sentence_1457
+1457_6	det	1457_9
+1457_6	has_surface_form	a
+1457_9	is_in_sentence	sentence_1457
+1457_9	attr	1457_5
+1457_9	has_surface_form	Hall
+1457_7	is_in_sentence	sentence_1457
+1457_7	nummod	1457_9
+1457_7	has_surface_form	1996
+1457_8	is_in_sentence	sentence_1457
+1457_8	compound	1457_9
+1457_8	has_surface_form	Hallmark
+1457_10	is_in_sentence	sentence_1457
+1457_10	prep	1457_9
+1457_10	has_surface_form	of
+1457_11	is_in_sentence	sentence_1457
+1457_11	pobj	1457_10
+1457_11	has_surface_form	Fame
+1457_12	is_in_sentence	sentence_1457
+1457_12	amod	1457_20
+1457_12	has_surface_form	made
+1457_20	is_in_sentence	sentence_1457
+1457_20	attr	1457_5
+1457_20	has_surface_form	film
+1457_13	is_in_sentence	sentence_1457
+1457_13	punct	1457_12
+1457_13	has_surface_form	-
+1457_14	is_in_sentence	sentence_1457
+1457_14	prep	1457_12
+1457_14	has_surface_form	for
+1457_15	is_in_sentence	sentence_1457
+1457_15	punct	1457_14
+1457_15	has_surface_form	-
+1457_16	is_in_sentence	sentence_1457
+1457_16	pobj	1457_14
+1457_16	has_surface_form	television
+1457_17	is_in_sentence	sentence_1457
+1457_17	compound	1457_19
+1457_17	has_surface_form	comedy
+1457_19	is_in_sentence	sentence_1457
+1457_19	compound	1457_20
+1457_19	has_surface_form	drama
+1457_18	is_in_sentence	sentence_1457
+1457_18	punct	1457_19
+1457_18	has_surface_form	-
+1457_21	is_in_sentence	sentence_1457
+1457_21	acl	1457_20
+1457_21	has_surface_form	directed
+1457_22	is_in_sentence	sentence_1457
+1457_22	agent	1457_21
+1457_22	has_surface_form	by
+1457_23	is_in_sentence	sentence_1457
+1457_23	compound	1457_25
+1457_23	has_surface_form	Arthur
+1457_23	part_of_entity	Arthur Allan Seidelman
+1457_25	is_in_sentence	sentence_1457
+1457_25	pobj	1457_22
+1457_25	has_surface_form	Seidelman
+1457_25	part_of_entity	Arthur Allan Seidelman
+1457_24	is_in_sentence	sentence_1457
+1457_24	compound	1457_25
+1457_24	has_surface_form	Allan
+1457_24	part_of_entity	Arthur Allan Seidelman
+1457_26	is_in_sentence	sentence_1457
+1457_26	cc	1457_21
+1457_26	has_surface_form	and
+1457_27	is_in_sentence	sentence_1457
+1457_27	conj	1457_21
+1457_27	has_surface_form	starring
+1457_28	is_in_sentence	sentence_1457
+1457_28	compound	1457_29
+1457_28	has_surface_form	James
+1457_29	is_in_sentence	sentence_1457
+1457_29	dobj	1457_27
+1457_29	has_surface_form	Woods
+1457_30	is_in_sentence	sentence_1457
+1457_30	punct	1457_29
+1457_30	has_surface_form	,
+1457_31	is_in_sentence	sentence_1457
+1457_31	compound	1457_32
+1457_31	has_surface_form	Elizabeth
+1457_32	is_in_sentence	sentence_1457
+1457_32	conj	1457_29
+1457_32	has_surface_form	McGovern
+1457_33	is_in_sentence	sentence_1457
+1457_33	punct	1457_32
+1457_33	has_surface_form	,
+1457_34	is_in_sentence	sentence_1457
+1457_34	cc	1457_32
+1457_34	has_surface_form	and
+1457_35	is_in_sentence	sentence_1457
+1457_35	compound	1457_36
+1457_35	has_surface_form	Len
+1457_36	is_in_sentence	sentence_1457
+1457_36	conj	1457_32
+1457_36	has_surface_form	Cariou
+1457_37	is_in_sentence	sentence_1457
+1457_37	punct	1457_5
+1457_37	has_surface_form	.
+1457_38	is_in_sentence	sentence_1457
+1457_38	dep	1457_5
+1457_38	has_surface_form	
+The Summer of Ben Tyler	surface_form	The Summer of Ben Tyler
+The Summer of Ben Tyler	movie-has-director	Arthur Allan Seidelman
+Arthur Allan Seidelman	surface_form	Arthur Allan Seidelman

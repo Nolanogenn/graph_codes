@@ -1,0 +1,62 @@
+18871_0	is_in_sentence	sentence_18871
+18871_0	compound	18871_1
+18871_0	has_surface_form	David
+18871_0	part_of_entity	David Crouse
+18871_1	is_in_sentence	sentence_18871
+18871_1	nsubj	18871_10
+18871_1	has_surface_form	Crouse
+18871_1	part_of_entity	David Crouse
+18871_10	is_in_sentence	sentence_18871
+18871_10	ROOT	18871_10
+18871_10	has_surface_form	is
+18871_2	is_in_sentence	sentence_18871
+18871_2	punct	18871_3
+18871_2	has_surface_form	(
+18871_3	is_in_sentence	sentence_18871
+18871_3	acl	18871_1
+18871_3	has_surface_form	born
+18871_4	is_in_sentence	sentence_18871
+18871_4	npadvmod	18871_3
+18871_4	has_surface_form	1971
+18871_5	is_in_sentence	sentence_18871
+18871_5	prep	18871_3
+18871_5	has_surface_form	in
+18871_6	is_in_sentence	sentence_18871
+18871_6	pobj	18871_5
+18871_6	is_entity	Boston
+Boston	surface_form	Boston
+18871_7	is_in_sentence	sentence_18871
+18871_7	punct	18871_6
+18871_7	has_surface_form	,
+18871_8	is_in_sentence	sentence_18871
+18871_8	appos	18871_6
+18871_8	has_surface_form	Massachusetts
+18871_9	is_in_sentence	sentence_18871
+18871_9	punct	18871_1
+18871_9	has_surface_form	)
+18871_11	is_in_sentence	sentence_18871
+18871_11	det	18871_14
+18871_11	has_surface_form	a
+18871_14	is_in_sentence	sentence_18871
+18871_14	attr	18871_10
+18871_14	has_surface_form	writer
+18871_12	is_in_sentence	sentence_18871
+18871_12	amod	18871_14
+18871_12	has_surface_form	short
+18871_13	is_in_sentence	sentence_18871
+18871_13	compound	18871_14
+18871_13	has_surface_form	story
+18871_15	is_in_sentence	sentence_18871
+18871_15	cc	18871_14
+18871_15	has_surface_form	and
+18871_16	is_in_sentence	sentence_18871
+18871_16	conj	18871_14
+18871_16	has_surface_form	teacher
+18871_17	is_in_sentence	sentence_18871
+18871_17	punct	18871_10
+18871_17	has_surface_form	.
+18871_18	is_in_sentence	sentence_18871
+18871_18	dep	18871_18
+18871_18	has_surface_form	
+David Crouse	surface_form	David Crouse
+David Crouse	birth-place	Boston

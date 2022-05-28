@@ -1,0 +1,68 @@
+30171_0	is_in_sentence	sentence_30171
+30171_0	compound	30171_1
+30171_0	has_surface_form	Wesleyan
+30171_0	part_of_entity	Wesleyan College
+30171_1	is_in_sentence	sentence_30171
+30171_1	nsubj	30171_2
+30171_1	has_surface_form	College
+30171_1	part_of_entity	Wesleyan College
+30171_2	is_in_sentence	sentence_30171
+30171_2	ROOT	30171_2
+30171_2	has_surface_form	is
+30171_3	is_in_sentence	sentence_30171
+30171_3	det	30171_10
+30171_3	has_surface_form	a
+30171_10	is_in_sentence	sentence_30171
+30171_10	attr	30171_2
+30171_10	has_surface_form	college
+30171_4	is_in_sentence	sentence_30171
+30171_4	amod	30171_10
+30171_4	has_surface_form	private
+30171_5	is_in_sentence	sentence_30171
+30171_5	punct	30171_10
+30171_5	has_surface_form	,
+30171_6	is_in_sentence	sentence_30171
+30171_6	amod	30171_7
+30171_6	has_surface_form	liberal
+30171_7	is_in_sentence	sentence_30171
+30171_7	compound	30171_8
+30171_7	has_surface_form	arts
+30171_8	is_in_sentence	sentence_30171
+30171_8	poss	30171_10
+30171_8	has_surface_form	women
+30171_9	is_in_sentence	sentence_30171
+30171_9	case	30171_8
+30171_9	has_surface_form	's
+30171_11	is_in_sentence	sentence_30171
+30171_11	acl	30171_10
+30171_11	has_surface_form	located
+30171_12	is_in_sentence	sentence_30171
+30171_12	prep	30171_11
+30171_12	has_surface_form	in
+30171_13	is_in_sentence	sentence_30171
+30171_13	pobj	30171_12
+30171_13	has_surface_form	Macon
+30171_14	is_in_sentence	sentence_30171
+30171_14	punct	30171_13
+30171_14	has_surface_form	,
+30171_15	is_in_sentence	sentence_30171
+30171_15	conj	30171_13
+30171_15	has_surface_form	Georgia
+30171_16	is_in_sentence	sentence_30171
+30171_16	punct	30171_15
+30171_16	has_surface_form	,
+30171_17	is_in_sentence	sentence_30171
+30171_17	compound	30171_18
+30171_17	has_surface_form	United
+30171_18	is_in_sentence	sentence_30171
+30171_18	conj	30171_15
+30171_18	has_surface_form	States
+30171_19	is_in_sentence	sentence_30171
+30171_19	punct	30171_2
+30171_19	has_surface_form	.
+30171_20	is_in_sentence	sentence_30171
+30171_20	dep	30171_2
+30171_20	has_surface_form	
+Wesleyan College	surface_form	Wesleyan College
+Wesleyan College	is-where	Macon, Georgia
+Macon, Georgia	surface_form	Macon, Georgia

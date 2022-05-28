@@ -1,0 +1,71 @@
+5508_0	is_in_sentence	sentence_5508
+5508_0	compound	5508_1
+5508_0	has_surface_form	California
+5508_0	part_of_entity	California School of Podiatric Medicine
+5508_1	is_in_sentence	sentence_5508
+5508_1	nsubj	5508_9
+5508_1	has_surface_form	School
+5508_1	part_of_entity	California School of Podiatric Medicine
+5508_9	is_in_sentence	sentence_5508
+5508_9	ROOT	5508_9
+5508_9	has_surface_form	is
+5508_2	is_in_sentence	sentence_5508
+5508_2	prep	5508_1
+5508_2	has_surface_form	of
+5508_2	part_of_entity	California School of Podiatric Medicine
+5508_3	is_in_sentence	sentence_5508
+5508_3	compound	5508_4
+5508_3	has_surface_form	Podiatric
+5508_3	part_of_entity	California School of Podiatric Medicine
+5508_4	is_in_sentence	sentence_5508
+5508_4	pobj	5508_2
+5508_4	has_surface_form	Medicine
+5508_4	part_of_entity	California School of Podiatric Medicine
+5508_5	is_in_sentence	sentence_5508
+5508_5	prep	5508_1
+5508_5	has_surface_form	at
+5508_6	is_in_sentence	sentence_5508
+5508_6	compound	5508_8
+5508_6	has_surface_form	Samuel
+5508_8	is_in_sentence	sentence_5508
+5508_8	pobj	5508_5
+5508_8	has_surface_form	University
+5508_7	is_in_sentence	sentence_5508
+5508_7	compound	5508_8
+5508_7	has_surface_form	Merritt
+5508_10	is_in_sentence	sentence_5508
+5508_10	det	5508_13
+5508_10	has_surface_form	a
+5508_13	is_in_sentence	sentence_5508
+5508_13	attr	5508_9
+5508_13	has_surface_form	school
+5508_11	is_in_sentence	sentence_5508
+5508_11	amod	5508_13
+5508_11	has_surface_form	podiatric
+5508_12	is_in_sentence	sentence_5508
+5508_12	amod	5508_13
+5508_12	has_surface_form	medical
+5508_14	is_in_sentence	sentence_5508
+5508_14	acl	5508_13
+5508_14	has_surface_form	based
+5508_15	is_in_sentence	sentence_5508
+5508_15	prep	5508_14
+5508_15	has_surface_form	in
+5508_16	is_in_sentence	sentence_5508
+5508_16	pobj	5508_15
+5508_16	has_surface_form	Oakland
+5508_17	is_in_sentence	sentence_5508
+5508_17	punct	5508_16
+5508_17	has_surface_form	,
+5508_18	is_in_sentence	sentence_5508
+5508_18	appos	5508_16
+5508_18	has_surface_form	California
+5508_19	is_in_sentence	sentence_5508
+5508_19	punct	5508_9
+5508_19	has_surface_form	.
+5508_20	is_in_sentence	sentence_5508
+5508_20	dep	5508_20
+5508_20	has_surface_form	
+California School of Podiatric Medicine	surface_form	California School of Podiatric Medicine
+California School of Podiatric Medicine	is-where	Oakland, California
+Oakland, California	surface_form	Oakland, California

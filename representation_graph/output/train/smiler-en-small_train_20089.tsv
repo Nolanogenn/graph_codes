@@ -1,0 +1,64 @@
+20088_0	is_in_sentence	sentence_20088
+20088_0	det	20088_1
+20088_0	has_surface_form	The
+20088_1	is_in_sentence	sentence_20088
+20088_1	nsubj	20088_8
+20088_1	has_surface_form	College
+20088_1	part_of_entity	College of International Education
+20088_8	is_in_sentence	sentence_20088
+20088_8	ROOT	20088_8
+20088_8	has_surface_form	is
+20088_2	is_in_sentence	sentence_20088
+20088_2	prep	20088_1
+20088_2	has_surface_form	of
+20088_2	part_of_entity	College of International Education
+20088_3	is_in_sentence	sentence_20088
+20088_3	compound	20088_4
+20088_3	has_surface_form	International
+20088_3	part_of_entity	College of International Education
+20088_4	is_in_sentence	sentence_20088
+20088_4	pobj	20088_2
+20088_4	has_surface_form	Education
+20088_4	part_of_entity	College of International Education
+20088_5	is_in_sentence	sentence_20088
+20088_5	punct	20088_6
+20088_5	has_surface_form	(
+20088_6	is_in_sentence	sentence_20088
+20088_6	appos	20088_1
+20088_6	has_surface_form	CIE
+20088_7	is_in_sentence	sentence_20088
+20088_7	punct	20088_6
+20088_7	has_surface_form	)
+20088_9	is_in_sentence	sentence_20088
+20088_9	det	20088_11
+20088_9	has_surface_form	a
+20088_11	is_in_sentence	sentence_20088
+20088_11	attr	20088_8
+20088_11	has_surface_form	college
+20088_10	is_in_sentence	sentence_20088
+20088_10	amod	20088_11
+20088_10	has_surface_form	private
+20088_12	is_in_sentence	sentence_20088
+20088_12	acl	20088_11
+20088_12	has_surface_form	located
+20088_13	is_in_sentence	sentence_20088
+20088_13	prep	20088_12
+20088_13	has_surface_form	in
+20088_14	is_in_sentence	sentence_20088
+20088_14	pobj	20088_13
+20088_14	is_entity	Oxford
+Oxford	surface_form	Oxford
+20088_15	is_in_sentence	sentence_20088
+20088_15	punct	20088_14
+20088_15	has_surface_form	,
+20088_16	is_in_sentence	sentence_20088
+20088_16	appos	20088_14
+20088_16	has_surface_form	England
+20088_17	is_in_sentence	sentence_20088
+20088_17	punct	20088_8
+20088_17	has_surface_form	.
+20088_18	is_in_sentence	sentence_20088
+20088_18	dep	20088_8
+20088_18	has_surface_form	
+College of International Education	surface_form	College of International Education
+College of International Education	is-where	Oxford

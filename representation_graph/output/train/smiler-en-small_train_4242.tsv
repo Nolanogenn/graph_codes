@@ -1,0 +1,79 @@
+4241_0	is_in_sentence	sentence_4241
+4241_0	compound	4241_1
+4241_0	has_surface_form	Print
+4241_0	part_of_entity	Print Audit
+4241_1	is_in_sentence	sentence_4241
+4241_1	nsubj	4241_2
+4241_1	has_surface_form	Audit
+4241_1	part_of_entity	Print Audit
+4241_2	is_in_sentence	sentence_4241
+4241_2	ROOT	4241_2
+4241_2	has_surface_form	is
+4241_3	is_in_sentence	sentence_4241
+4241_3	det	4241_5
+4241_3	has_surface_form	a
+4241_5	is_in_sentence	sentence_4241
+4241_5	attr	4241_2
+4241_5	has_surface_form	company
+4241_5	part_of_entity	private company
+4241_4	is_in_sentence	sentence_4241
+4241_4	amod	4241_5
+4241_4	has_surface_form	private
+4241_4	part_of_entity	private company
+4241_6	is_in_sentence	sentence_4241
+4241_6	nsubj	4241_7
+4241_6	has_surface_form	that
+4241_7	is_in_sentence	sentence_4241
+4241_7	relcl	4241_5
+4241_7	has_surface_form	provides
+4241_8	is_in_sentence	sentence_4241
+4241_8	compound	4241_9
+4241_8	has_surface_form	print
+4241_9	is_in_sentence	sentence_4241
+4241_9	dobj	4241_7
+4241_9	has_surface_form	tracking
+4241_10	is_in_sentence	sentence_4241
+4241_10	cc	4241_9
+4241_10	has_surface_form	and
+4241_11	is_in_sentence	sentence_4241
+4241_11	compound	4241_12
+4241_11	has_surface_form	copy
+4241_12	is_in_sentence	sentence_4241
+4241_12	compound	4241_13
+4241_12	has_surface_form	auditing
+4241_13	is_in_sentence	sentence_4241
+4241_13	conj	4241_9
+4241_13	has_surface_form	tools
+4241_14	is_in_sentence	sentence_4241
+4241_14	prep	4241_7
+4241_14	has_surface_form	to
+4241_15	is_in_sentence	sentence_4241
+4241_15	compound	4241_16
+4241_15	has_surface_form	office
+4241_16	is_in_sentence	sentence_4241
+4241_16	compound	4241_17
+4241_16	has_surface_form	equipment
+4241_17	is_in_sentence	sentence_4241
+4241_17	pobj	4241_14
+4241_17	has_surface_form	dealers
+4241_18	is_in_sentence	sentence_4241
+4241_18	cc	4241_17
+4241_18	has_surface_form	and
+4241_19	is_in_sentence	sentence_4241
+4241_19	compound	4241_21
+4241_19	has_surface_form	end
+4241_21	is_in_sentence	sentence_4241
+4241_21	conj	4241_17
+4241_21	has_surface_form	users
+4241_20	is_in_sentence	sentence_4241
+4241_20	punct	4241_21
+4241_20	has_surface_form	-
+4241_22	is_in_sentence	sentence_4241
+4241_22	punct	4241_2
+4241_22	has_surface_form	.
+4241_23	is_in_sentence	sentence_4241
+4241_23	dep	4241_23
+4241_23	has_surface_form	
+Print Audit	surface_form	Print Audit
+Print Audit	has-type	private company
+private company	surface_form	private company

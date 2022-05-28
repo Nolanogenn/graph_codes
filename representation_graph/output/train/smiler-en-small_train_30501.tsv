@@ -1,0 +1,61 @@
+30500_0	is_in_sentence	sentence_30500
+30500_0	compound	30500_1
+30500_0	has_surface_form	Douglas
+30500_0	part_of_entity	Douglas Porch
+30500_1	is_in_sentence	sentence_30500
+30500_1	nsubj	30500_9
+30500_1	has_surface_form	Porch
+30500_1	part_of_entity	Douglas Porch
+30500_9	is_in_sentence	sentence_30500
+30500_9	ROOT	30500_9
+30500_9	has_surface_form	is
+30500_2	is_in_sentence	sentence_30500
+30500_2	punct	30500_1
+30500_2	has_surface_form	(
+30500_3	is_in_sentence	sentence_30500
+30500_3	acl	30500_1
+30500_3	has_surface_form	born
+30500_4	is_in_sentence	sentence_30500
+30500_4	npadvmod	30500_3
+30500_4	has_surface_form	December
+30500_5	is_in_sentence	sentence_30500
+30500_5	nummod	30500_4
+30500_5	has_surface_form	29
+30500_6	is_in_sentence	sentence_30500
+30500_6	punct	30500_4
+30500_6	has_surface_form	,
+30500_7	is_in_sentence	sentence_30500
+30500_7	nummod	30500_4
+30500_7	has_surface_form	1944
+30500_8	is_in_sentence	sentence_30500
+30500_8	punct	30500_1
+30500_8	has_surface_form	)
+30500_10	is_in_sentence	sentence_30500
+30500_10	det	30500_13
+30500_10	has_surface_form	an
+30500_13	is_in_sentence	sentence_30500
+30500_13	attr	30500_9
+30500_13	has_surface_form	historian
+30500_13	part_of_entity	military historian
+30500_11	is_in_sentence	sentence_30500
+30500_11	amod	30500_13
+30500_11	has_surface_form	American
+30500_12	is_in_sentence	sentence_30500
+30500_12	amod	30500_13
+30500_12	has_surface_form	military
+30500_12	part_of_entity	military historian
+30500_14	is_in_sentence	sentence_30500
+30500_14	cc	30500_13
+30500_14	has_surface_form	and
+30500_15	is_in_sentence	sentence_30500
+30500_15	conj	30500_13
+30500_15	has_surface_form	academic
+30500_16	is_in_sentence	sentence_30500
+30500_16	punct	30500_9
+30500_16	has_surface_form	.
+30500_17	is_in_sentence	sentence_30500
+30500_17	dep	30500_17
+30500_17	has_surface_form	
+Douglas Porch	surface_form	Douglas Porch
+Douglas Porch	has-occupation	military historian
+military historian	surface_form	military historian

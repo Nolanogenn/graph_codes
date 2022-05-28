@@ -1,0 +1,48 @@
+31980_0	is_in_sentence	sentence_31980
+31980_0	compound	31980_1
+31980_0	has_surface_form	Corning
+31980_0	part_of_entity	Corning Community College
+31980_1	is_in_sentence	sentence_31980
+31980_1	compound	31980_2
+31980_1	has_surface_form	Community
+31980_1	part_of_entity	Corning Community College
+31980_2	is_in_sentence	sentence_31980
+31980_2	nsubj	31980_3
+31980_2	has_surface_form	College
+31980_2	part_of_entity	Corning Community College
+31980_3	is_in_sentence	sentence_31980
+31980_3	ROOT	31980_3
+31980_3	has_surface_form	is
+31980_4	is_in_sentence	sentence_31980
+31980_4	det	31980_6
+31980_4	has_surface_form	a
+31980_6	is_in_sentence	sentence_31980
+31980_6	attr	31980_3
+31980_6	has_surface_form	college
+31980_5	is_in_sentence	sentence_31980
+31980_5	compound	31980_6
+31980_5	has_surface_form	community
+31980_7	is_in_sentence	sentence_31980
+31980_7	prep	31980_6
+31980_7	has_surface_form	in
+31980_8	is_in_sentence	sentence_31980
+31980_8	pobj	31980_7
+31980_8	has_surface_form	Corning
+31980_9	is_in_sentence	sentence_31980
+31980_9	punct	31980_8
+31980_9	has_surface_form	,
+31980_10	is_in_sentence	sentence_31980
+31980_10	compound	31980_11
+31980_10	has_surface_form	New
+31980_11	is_in_sentence	sentence_31980
+31980_11	npadvmod	31980_8
+31980_11	has_surface_form	York
+31980_12	is_in_sentence	sentence_31980
+31980_12	punct	31980_3
+31980_12	has_surface_form	.
+31980_13	is_in_sentence	sentence_31980
+31980_13	dep	31980_3
+31980_13	has_surface_form	
+Corning Community College	surface_form	Corning Community College
+Corning Community College	is-where	Corning, New York
+Corning, New York	surface_form	Corning, New York

@@ -1,0 +1,60 @@
+10938_0	is_in_sentence	sentence_10938
+10938_0	compound	10938_1
+10938_0	has_surface_form	Mera
+10938_0	part_of_entity	Mera Karam Mera Dharam
+10938_1	is_in_sentence	sentence_10938
+10938_1	compound	10938_3
+10938_1	has_surface_form	Karam
+10938_1	part_of_entity	Mera Karam Mera Dharam
+10938_3	is_in_sentence	sentence_10938
+10938_3	nsubj	10938_4
+10938_3	has_surface_form	Dharam
+10938_3	part_of_entity	Mera Karam Mera Dharam
+10938_2	is_in_sentence	sentence_10938
+10938_2	compound	10938_3
+10938_2	has_surface_form	Mera
+10938_2	part_of_entity	Mera Karam Mera Dharam
+10938_4	is_in_sentence	sentence_10938
+10938_4	ROOT	10938_4
+10938_4	has_surface_form	is
+10938_5	is_in_sentence	sentence_10938
+10938_5	det	10938_8
+10938_5	has_surface_form	a
+10938_8	is_in_sentence	sentence_10938
+10938_8	attr	10938_4
+10938_8	has_surface_form	film
+10938_6	is_in_sentence	sentence_10938
+10938_6	nummod	10938_8
+10938_6	has_surface_form	1987
+10938_7	is_in_sentence	sentence_10938
+10938_7	compound	10938_8
+10938_7	has_surface_form	Bollywood
+10938_9	is_in_sentence	sentence_10938
+10938_9	punct	10938_4
+10938_9	has_surface_form	,
+10938_10	is_in_sentence	sentence_10938
+10938_10	advcl	10938_4
+10938_10	has_surface_form	starring
+10938_11	is_in_sentence	sentence_10938
+10938_11	dobj	10938_10
+10938_11	has_surface_form	Dharmendra
+10938_12	is_in_sentence	sentence_10938
+10938_12	cc	10938_11
+10938_12	has_surface_form	and
+10938_13	is_in_sentence	sentence_10938
+10938_13	compound	10938_14
+10938_13	has_surface_form	Moushumi
+10938_13	part_of_entity	Moushumi Chatterjee
+10938_14	is_in_sentence	sentence_10938
+10938_14	conj	10938_11
+10938_14	has_surface_form	Chatterjee
+10938_14	part_of_entity	Moushumi Chatterjee
+10938_15	is_in_sentence	sentence_10938
+10938_15	punct	10938_4
+10938_15	has_surface_form	.
+10938_16	is_in_sentence	sentence_10938
+10938_16	dep	10938_4
+10938_16	has_surface_form	
+Mera Karam Mera Dharam	surface_form	Mera Karam Mera Dharam
+Mera Karam Mera Dharam	starring	Moushumi Chatterjee
+Moushumi Chatterjee	surface_form	Moushumi Chatterjee

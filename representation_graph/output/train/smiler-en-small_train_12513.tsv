@@ -1,0 +1,73 @@
+12512_0	is_in_sentence	sentence_12512
+12512_0	compound	12512_1
+12512_0	has_surface_form	Paris
+12512_0	part_of_entity	Paris Honeymoon
+12512_1	is_in_sentence	sentence_12512
+12512_1	nsubj	12512_2
+12512_1	has_surface_form	Honeymoon
+12512_1	part_of_entity	Paris Honeymoon
+12512_2	is_in_sentence	sentence_12512
+12512_2	ROOT	12512_2
+12512_2	has_surface_form	is
+12512_3	is_in_sentence	sentence_12512
+12512_3	det	12512_7
+12512_3	has_surface_form	a
+12512_7	is_in_sentence	sentence_12512
+12512_7	attr	12512_2
+12512_7	has_surface_form	film
+12512_4	is_in_sentence	sentence_12512
+12512_4	nummod	12512_7
+12512_4	has_surface_form	1939
+12512_5	is_in_sentence	sentence_12512
+12512_5	amod	12512_7
+12512_5	has_surface_form	American
+12512_6	is_in_sentence	sentence_12512
+12512_6	amod	12512_7
+12512_6	has_surface_form	musical
+12512_8	is_in_sentence	sentence_12512
+12512_8	acl	12512_7
+12512_8	has_surface_form	directed
+12512_9	is_in_sentence	sentence_12512
+12512_9	agent	12512_8
+12512_9	has_surface_form	by
+12512_10	is_in_sentence	sentence_12512
+12512_10	compound	12512_11
+12512_10	has_surface_form	Frank
+12512_10	part_of_entity	Frank Tuttle
+12512_11	is_in_sentence	sentence_12512
+12512_11	pobj	12512_9
+12512_11	has_surface_form	Tuttle
+12512_11	part_of_entity	Frank Tuttle
+12512_12	is_in_sentence	sentence_12512
+12512_12	cc	12512_8
+12512_12	has_surface_form	and
+12512_13	is_in_sentence	sentence_12512
+12512_13	conj	12512_8
+12512_13	has_surface_form	written
+12512_14	is_in_sentence	sentence_12512
+12512_14	agent	12512_13
+12512_14	has_surface_form	by
+12512_15	is_in_sentence	sentence_12512
+12512_15	compound	12512_16
+12512_15	has_surface_form	Frank
+12512_16	is_in_sentence	sentence_12512
+12512_16	pobj	12512_14
+12512_16	has_surface_form	Butler
+12512_17	is_in_sentence	sentence_12512
+12512_17	cc	12512_16
+12512_17	has_surface_form	and
+12512_18	is_in_sentence	sentence_12512
+12512_18	compound	12512_19
+12512_18	has_surface_form	Don
+12512_19	is_in_sentence	sentence_12512
+12512_19	conj	12512_16
+12512_19	has_surface_form	Hartman
+12512_20	is_in_sentence	sentence_12512
+12512_20	punct	12512_2
+12512_20	has_surface_form	.
+12512_21	is_in_sentence	sentence_12512
+12512_21	dep	12512_21
+12512_21	has_surface_form	
+Paris Honeymoon	surface_form	Paris Honeymoon
+Paris Honeymoon	movie-has-director	Frank Tuttle
+Frank Tuttle	surface_form	Frank Tuttle

@@ -1,0 +1,58 @@
+2251_0	is_in_sentence	sentence_2251
+2251_0	compound	2251_1
+2251_0	has_surface_form	Ulysses
+2251_0	part_of_entity	Ulysses Bloodstone
+2251_1	is_in_sentence	sentence_2251
+2251_1	nsubj	2251_2
+2251_1	has_surface_form	Bloodstone
+2251_1	part_of_entity	Ulysses Bloodstone
+2251_2	is_in_sentence	sentence_2251
+2251_2	ROOT	2251_2
+2251_2	has_surface_form	is
+2251_3	is_in_sentence	sentence_2251
+2251_3	det	2251_5
+2251_3	has_surface_form	a
+2251_5	is_in_sentence	sentence_2251
+2251_5	attr	2251_2
+2251_5	has_surface_form	character
+2251_5	part_of_entity	fictional character
+2251_4	is_in_sentence	sentence_2251
+2251_4	amod	2251_5
+2251_4	has_surface_form	fictional
+2251_4	part_of_entity	fictional character
+2251_6	is_in_sentence	sentence_2251
+2251_6	acl	2251_5
+2251_6	has_surface_form	appearing
+2251_7	is_in_sentence	sentence_2251
+2251_7	prep	2251_6
+2251_7	has_surface_form	in
+2251_8	is_in_sentence	sentence_2251
+2251_8	amod	2251_10
+2251_8	has_surface_form	American
+2251_10	is_in_sentence	sentence_2251
+2251_10	pobj	2251_7
+2251_10	has_surface_form	books
+2251_9	is_in_sentence	sentence_2251
+2251_9	amod	2251_10
+2251_9	has_surface_form	comic
+2251_11	is_in_sentence	sentence_2251
+2251_11	acl	2251_10
+2251_11	has_surface_form	published
+2251_12	is_in_sentence	sentence_2251
+2251_12	agent	2251_11
+2251_12	has_surface_form	by
+2251_13	is_in_sentence	sentence_2251
+2251_13	compound	2251_14
+2251_13	has_surface_form	Marvel
+2251_14	is_in_sentence	sentence_2251
+2251_14	pobj	2251_12
+2251_14	has_surface_form	Comics
+2251_15	is_in_sentence	sentence_2251
+2251_15	punct	2251_2
+2251_15	has_surface_form	.
+2251_16	is_in_sentence	sentence_2251
+2251_16	dep	2251_2
+2251_16	has_surface_form	
+Ulysses Bloodstone	surface_form	Ulysses Bloodstone
+Ulysses Bloodstone	has-type	fictional character
+fictional character	surface_form	fictional character

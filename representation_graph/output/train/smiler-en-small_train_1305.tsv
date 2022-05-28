@@ -1,0 +1,62 @@
+1304_0	is_in_sentence	sentence_1304
+1304_0	compound	1304_1
+1304_0	has_surface_form	Vivasaayi
+1304_0	part_of_entity	Vivasaayi Magan
+1304_1	is_in_sentence	sentence_1304
+1304_1	nsubj	1304_2
+1304_1	has_surface_form	Magan
+1304_1	part_of_entity	Vivasaayi Magan
+1304_2	is_in_sentence	sentence_1304
+1304_2	ROOT	1304_2
+1304_2	has_surface_form	is
+1304_3	is_in_sentence	sentence_1304
+1304_3	det	1304_7
+1304_3	has_surface_form	a
+1304_7	is_in_sentence	sentence_1304
+1304_7	attr	1304_2
+1304_7	has_surface_form	film
+1304_4	is_in_sentence	sentence_1304
+1304_4	nummod	1304_7
+1304_4	has_surface_form	1997
+1304_5	is_in_sentence	sentence_1304
+1304_5	amod	1304_6
+1304_5	has_surface_form	Indian
+1304_6	is_in_sentence	sentence_1304
+1304_6	compound	1304_7
+1304_6	has_surface_form	Tamil
+1304_8	is_in_sentence	sentence_1304
+1304_8	punct	1304_7
+1304_8	has_surface_form	,
+1304_9	is_in_sentence	sentence_1304
+1304_9	acl	1304_7
+1304_9	has_surface_form	directed
+1304_10	is_in_sentence	sentence_1304
+1304_10	agent	1304_9
+1304_10	has_surface_form	by
+1304_11	is_in_sentence	sentence_1304
+1304_11	pobj	1304_10
+1304_11	is_entity	Ramarajan
+Ramarajan	surface_form	Ramarajan
+1304_12	is_in_sentence	sentence_1304
+1304_12	cc	1304_9
+1304_12	has_surface_form	and
+1304_13	is_in_sentence	sentence_1304
+1304_13	conj	1304_9
+1304_13	has_surface_form	produced
+1304_14	is_in_sentence	sentence_1304
+1304_14	agent	1304_13
+1304_14	has_surface_form	by
+1304_15	is_in_sentence	sentence_1304
+1304_15	compound	1304_16
+1304_15	has_surface_form	Rani
+1304_16	is_in_sentence	sentence_1304
+1304_16	pobj	1304_14
+1304_16	has_surface_form	Azhakappan
+1304_17	is_in_sentence	sentence_1304
+1304_17	punct	1304_2
+1304_17	has_surface_form	.
+1304_18	is_in_sentence	sentence_1304
+1304_18	dep	1304_18
+1304_18	has_surface_form	
+Vivasaayi Magan	surface_form	Vivasaayi Magan
+Vivasaayi Magan	movie-has-director	Ramarajan

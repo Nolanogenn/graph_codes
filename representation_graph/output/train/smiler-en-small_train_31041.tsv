@@ -1,0 +1,73 @@
+31040_0	is_in_sentence	sentence_31040
+31040_0	compound	31040_1
+31040_0	has_surface_form	Channel
+31040_0	part_of_entity	Channel Awesome
+31040_1	is_in_sentence	sentence_31040
+31040_1	ROOT	31040_1
+31040_1	has_surface_form	Awesome
+31040_1	part_of_entity	Channel Awesome
+31040_2	is_in_sentence	sentence_31040
+31040_2	punct	31040_1
+31040_2	has_surface_form	,
+31040_3	is_in_sentence	sentence_31040
+31040_3	appos	31040_1
+31040_3	has_surface_form	Inc.
+31040_4	is_in_sentence	sentence_31040
+31040_4	det	31040_5
+31040_4	has_surface_form	The
+31040_5	is_in_sentence	sentence_31040
+31040_5	nsubjpass	31040_7
+31040_5	has_surface_form	company
+31040_7	is_in_sentence	sentence_31040
+31040_7	ROOT	31040_7
+31040_7	has_surface_form	created
+31040_6	is_in_sentence	sentence_31040
+31040_6	auxpass	31040_7
+31040_6	has_surface_form	was
+31040_8	is_in_sentence	sentence_31040
+31040_8	prep	31040_7
+31040_8	has_surface_form	in
+31040_9	is_in_sentence	sentence_31040
+31040_9	pobj	31040_8
+31040_9	has_surface_form	2008
+31040_10	is_in_sentence	sentence_31040
+31040_10	agent	31040_7
+31040_10	has_surface_form	by
+31040_11	is_in_sentence	sentence_31040
+31040_11	compound	31040_12
+31040_11	has_surface_form	Mike
+31040_11	part_of_entity	Mike Michaud
+31040_12	is_in_sentence	sentence_31040
+31040_12	pobj	31040_10
+31040_12	has_surface_form	Michaud
+31040_12	part_of_entity	Mike Michaud
+31040_13	is_in_sentence	sentence_31040
+31040_13	punct	31040_12
+31040_13	has_surface_form	,
+31040_14	is_in_sentence	sentence_31040
+31040_14	compound	31040_15
+31040_14	has_surface_form	Mike
+31040_15	is_in_sentence	sentence_31040
+31040_15	conj	31040_12
+31040_15	has_surface_form	Ellis
+31040_16	is_in_sentence	sentence_31040
+31040_16	punct	31040_15
+31040_16	has_surface_form	,
+31040_17	is_in_sentence	sentence_31040
+31040_17	cc	31040_15
+31040_17	has_surface_form	and
+31040_18	is_in_sentence	sentence_31040
+31040_18	compound	31040_19
+31040_18	has_surface_form	Bhargav
+31040_19	is_in_sentence	sentence_31040
+31040_19	conj	31040_15
+31040_19	has_surface_form	Dronamraju
+31040_20	is_in_sentence	sentence_31040
+31040_20	punct	31040_7
+31040_20	has_surface_form	.
+31040_21	is_in_sentence	sentence_31040
+31040_21	dep	31040_21
+31040_21	has_surface_form	
+Channel Awesome	surface_form	Channel Awesome
+Channel Awesome	org-has-founder	Mike Michaud
+Mike Michaud	surface_form	Mike Michaud

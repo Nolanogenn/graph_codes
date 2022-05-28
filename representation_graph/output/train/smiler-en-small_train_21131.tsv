@@ -1,0 +1,124 @@
+21130_0	is_in_sentence	sentence_21130
+21130_0	compound	21130_1
+21130_0	has_surface_form	Miami
+21130_0	part_of_entity	Miami Beach Senior High School
+21130_1	is_in_sentence	sentence_21130
+21130_1	compound	21130_4
+21130_1	has_surface_form	Beach
+21130_1	part_of_entity	Miami Beach Senior High School
+21130_4	is_in_sentence	sentence_21130
+21130_4	nsubj	21130_11
+21130_4	has_surface_form	School
+21130_4	part_of_entity	Miami Beach Senior High School
+21130_2	is_in_sentence	sentence_21130
+21130_2	compound	21130_4
+21130_2	has_surface_form	Senior
+21130_2	part_of_entity	Miami Beach Senior High School
+21130_3	is_in_sentence	sentence_21130
+21130_3	compound	21130_4
+21130_3	has_surface_form	High
+21130_3	part_of_entity	Miami Beach Senior High School
+21130_11	is_in_sentence	sentence_21130
+21130_11	ROOT	21130_11
+21130_11	has_surface_form	is
+21130_5	is_in_sentence	sentence_21130
+21130_5	punct	21130_4
+21130_5	has_surface_form	(
+21130_6	is_in_sentence	sentence_21130
+21130_6	compound	21130_7
+21130_6	has_surface_form	Beach
+21130_7	is_in_sentence	sentence_21130
+21130_7	appos	21130_4
+21130_7	has_surface_form	High
+21130_8	is_in_sentence	sentence_21130
+21130_8	punct	21130_7
+21130_8	has_surface_form	,
+21130_9	is_in_sentence	sentence_21130
+21130_9	npadvmod	21130_7
+21130_9	has_surface_form	MBSH
+21130_10	is_in_sentence	sentence_21130
+21130_10	punct	21130_4
+21130_10	has_surface_form	)
+21130_12	is_in_sentence	sentence_21130
+21130_12	det	21130_14
+21130_12	has_surface_form	a
+21130_14	is_in_sentence	sentence_21130
+21130_14	attr	21130_11
+21130_14	has_surface_form	school
+21130_13	is_in_sentence	sentence_21130
+21130_13	amod	21130_14
+21130_13	has_surface_form	secondary
+21130_15	is_in_sentence	sentence_21130
+21130_15	acl	21130_14
+21130_15	has_surface_form	located
+21130_16	is_in_sentence	sentence_21130
+21130_16	prep	21130_15
+21130_16	has_surface_form	at
+21130_17	is_in_sentence	sentence_21130
+21130_17	pobj	21130_16
+21130_17	has_surface_form	2231
+21130_17	part_of_entity	2231 Prairie Avenue Miami Beach
+21130_18	is_in_sentence	sentence_21130
+21130_18	compound	21130_19
+21130_18	has_surface_form	Prairie
+21130_18	part_of_entity	2231 Prairie Avenue Miami Beach
+21130_19	is_in_sentence	sentence_21130
+21130_19	compound	21130_21
+21130_19	has_surface_form	Avenue
+21130_19	part_of_entity	2231 Prairie Avenue Miami Beach
+21130_21	is_in_sentence	sentence_21130
+21130_21	pobj	21130_16
+21130_21	has_surface_form	Beach
+21130_21	part_of_entity	2231 Prairie Avenue Miami Beach
+21130_20	is_in_sentence	sentence_21130
+21130_20	compound	21130_21
+21130_20	has_surface_form	Miami
+21130_20	part_of_entity	2231 Prairie Avenue Miami Beach
+21130_22	is_in_sentence	sentence_21130
+21130_22	punct	21130_21
+21130_22	has_surface_form	,
+21130_23	is_in_sentence	sentence_21130
+21130_23	appos	21130_21
+21130_23	has_surface_form	Florida
+21130_24	is_in_sentence	sentence_21130
+21130_24	punct	21130_21
+21130_24	has_surface_form	,
+21130_25	is_in_sentence	sentence_21130
+21130_25	prep	21130_11
+21130_25	has_surface_form	across
+21130_26	is_in_sentence	sentence_21130
+21130_26	prep	21130_25
+21130_26	has_surface_form	from
+21130_27	is_in_sentence	sentence_21130
+21130_27	det	21130_31
+21130_27	has_surface_form	the
+21130_31	is_in_sentence	sentence_21130
+21130_31	pobj	21130_26
+21130_31	has_surface_form	Center
+21130_28	is_in_sentence	sentence_21130
+21130_28	compound	21130_29
+21130_28	has_surface_form	Miami
+21130_29	is_in_sentence	sentence_21130
+21130_29	compound	21130_31
+21130_29	has_surface_form	Beach
+21130_30	is_in_sentence	sentence_21130
+21130_30	compound	21130_31
+21130_30	has_surface_form	Convention
+21130_32	is_in_sentence	sentence_21130
+21130_32	cc	21130_31
+21130_32	has_surface_form	and
+21130_33	is_in_sentence	sentence_21130
+21130_33	compound	21130_34
+21130_33	has_surface_form	Botanical
+21130_34	is_in_sentence	sentence_21130
+21130_34	conj	21130_31
+21130_34	has_surface_form	Garden
+21130_35	is_in_sentence	sentence_21130
+21130_35	punct	21130_11
+21130_35	has_surface_form	.
+21130_36	is_in_sentence	sentence_21130
+21130_36	dep	21130_36
+21130_36	has_surface_form	
+Miami Beach Senior High School	surface_form	Miami Beach Senior High School
+Miami Beach Senior High School	is-where	2231 Prairie Avenue Miami Beach
+2231 Prairie Avenue Miami Beach	surface_form	2231 Prairie Avenue Miami Beach

@@ -1,0 +1,85 @@
+14206_0	is_in_sentence	sentence_14206
+14206_0	det	14206_1
+14206_0	has_surface_form	The
+14206_0	part_of_entity	The Murder of Dr. Harrigan
+14206_1	is_in_sentence	sentence_14206
+14206_1	nsubj	14206_5
+14206_1	has_surface_form	Murder
+14206_1	part_of_entity	The Murder of Dr. Harrigan
+14206_5	is_in_sentence	sentence_14206
+14206_5	ROOT	14206_5
+14206_5	has_surface_form	is
+14206_2	is_in_sentence	sentence_14206
+14206_2	prep	14206_1
+14206_2	has_surface_form	of
+14206_2	part_of_entity	The Murder of Dr. Harrigan
+14206_3	is_in_sentence	sentence_14206
+14206_3	compound	14206_4
+14206_3	has_surface_form	Dr.
+14206_3	part_of_entity	The Murder of Dr. Harrigan
+14206_4	is_in_sentence	sentence_14206
+14206_4	pobj	14206_2
+14206_4	has_surface_form	Harrigan
+14206_4	part_of_entity	The Murder of Dr. Harrigan
+14206_6	is_in_sentence	sentence_14206
+14206_6	det	14206_10
+14206_6	has_surface_form	a
+14206_10	is_in_sentence	sentence_14206
+14206_10	attr	14206_5
+14206_10	has_surface_form	film
+14206_7	is_in_sentence	sentence_14206
+14206_7	nummod	14206_10
+14206_7	has_surface_form	1936
+14206_8	is_in_sentence	sentence_14206
+14206_8	amod	14206_10
+14206_8	has_surface_form	American
+14206_9	is_in_sentence	sentence_14206
+14206_9	compound	14206_10
+14206_9	has_surface_form	mystery
+14206_11	is_in_sentence	sentence_14206
+14206_11	acl	14206_10
+14206_11	has_surface_form	directed
+14206_12	is_in_sentence	sentence_14206
+14206_12	agent	14206_11
+14206_12	has_surface_form	by
+14206_13	is_in_sentence	sentence_14206
+14206_13	compound	14206_14
+14206_13	has_surface_form	Frank
+14206_13	part_of_entity	Frank McDonald
+14206_14	is_in_sentence	sentence_14206
+14206_14	pobj	14206_12
+14206_14	has_surface_form	McDonald
+14206_14	part_of_entity	Frank McDonald
+14206_15	is_in_sentence	sentence_14206
+14206_15	cc	14206_11
+14206_15	has_surface_form	and
+14206_16	is_in_sentence	sentence_14206
+14206_16	conj	14206_11
+14206_16	has_surface_form	written
+14206_17	is_in_sentence	sentence_14206
+14206_17	agent	14206_16
+14206_17	has_surface_form	by
+14206_18	is_in_sentence	sentence_14206
+14206_18	compound	14206_19
+14206_18	has_surface_form	Peter
+14206_19	is_in_sentence	sentence_14206
+14206_19	pobj	14206_17
+14206_19	has_surface_form	Milne
+14206_20	is_in_sentence	sentence_14206
+14206_20	cc	14206_19
+14206_20	has_surface_form	and
+14206_21	is_in_sentence	sentence_14206
+14206_21	compound	14206_22
+14206_21	has_surface_form	Sy
+14206_22	is_in_sentence	sentence_14206
+14206_22	conj	14206_19
+14206_22	has_surface_form	Bartlett
+14206_23	is_in_sentence	sentence_14206
+14206_23	punct	14206_5
+14206_23	has_surface_form	.
+14206_24	is_in_sentence	sentence_14206
+14206_24	dep	14206_24
+14206_24	has_surface_form	
+The Murder of Dr. Harrigan	surface_form	The Murder of Dr. Harrigan
+The Murder of Dr. Harrigan	movie-has-director	Frank McDonald
+Frank McDonald	surface_form	Frank McDonald

@@ -1,0 +1,52 @@
+1606_0	is_in_sentence	sentence_1606
+1606_0	compound	1606_1
+1606_0	has_surface_form	Armoured
+1606_0	part_of_entity	Armoured Angel
+1606_1	is_in_sentence	sentence_1606
+1606_1	nsubj	1606_2
+1606_1	has_surface_form	Angel
+1606_1	part_of_entity	Armoured Angel
+1606_2	is_in_sentence	sentence_1606
+1606_2	ROOT	1606_2
+1606_2	has_surface_form	was
+1606_3	is_in_sentence	sentence_1606
+1606_3	det	1606_8
+1606_3	has_surface_form	a
+1606_8	is_in_sentence	sentence_1606
+1606_8	attr	1606_2
+1606_8	has_surface_form	band
+1606_4	is_in_sentence	sentence_1606
+1606_4	nmod	1606_6
+1606_4	has_surface_form	thrash
+1606_6	is_in_sentence	sentence_1606
+1606_6	compound	1606_7
+1606_6	has_surface_form	death
+1606_6	part_of_entity	death metal
+1606_5	is_in_sentence	sentence_1606
+1606_5	punct	1606_6
+1606_5	has_surface_form	/
+1606_7	is_in_sentence	sentence_1606
+1606_7	compound	1606_8
+1606_7	has_surface_form	metal
+1606_7	part_of_entity	death metal
+1606_9	is_in_sentence	sentence_1606
+1606_9	prep	1606_8
+1606_9	has_surface_form	from
+1606_10	is_in_sentence	sentence_1606
+1606_10	pobj	1606_9
+1606_10	has_surface_form	Canberra
+1606_11	is_in_sentence	sentence_1606
+1606_11	punct	1606_10
+1606_11	has_surface_form	,
+1606_12	is_in_sentence	sentence_1606
+1606_12	appos	1606_10
+1606_12	has_surface_form	Australia
+1606_13	is_in_sentence	sentence_1606
+1606_13	punct	1606_2
+1606_13	has_surface_form	.
+1606_14	is_in_sentence	sentence_1606
+1606_14	dep	1606_2
+1606_14	has_surface_form	
+Armoured Angel	surface_form	Armoured Angel
+Armoured Angel	has-genre	death metal
+death metal	surface_form	death metal

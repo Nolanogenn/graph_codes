@@ -1,0 +1,95 @@
+23732_0	is_in_sentence	sentence_23732
+23732_0	det	23732_2
+23732_0	has_surface_form	The
+23732_0	part_of_entity	The Big Man
+23732_2	is_in_sentence	sentence_23732
+23732_2	nsubj	23732_11
+23732_2	has_surface_form	Man
+23732_2	part_of_entity	The Big Man
+23732_1	is_in_sentence	sentence_23732
+23732_1	compound	23732_2
+23732_1	has_surface_form	Big
+23732_1	part_of_entity	The Big Man
+23732_11	is_in_sentence	sentence_23732
+23732_11	ROOT	23732_11
+23732_11	has_surface_form	is
+23732_3	is_in_sentence	sentence_23732
+23732_3	punct	23732_5
+23732_3	has_surface_form	(
+23732_5	is_in_sentence	sentence_23732
+23732_5	appos	23732_2
+23732_5	has_surface_form	title
+23732_4	is_in_sentence	sentence_23732
+23732_4	compound	23732_5
+23732_4	has_surface_form	US
+23732_6	is_in_sentence	sentence_23732
+23732_6	punct	23732_5
+23732_6	has_surface_form	:
+23732_7	is_in_sentence	sentence_23732
+23732_7	acl	23732_2
+23732_7	has_surface_form	Crossing
+23732_8	is_in_sentence	sentence_23732
+23732_8	det	23732_9
+23732_8	has_surface_form	the
+23732_9	is_in_sentence	sentence_23732
+23732_9	dobj	23732_7
+23732_9	has_surface_form	Line
+23732_10	is_in_sentence	sentence_23732
+23732_10	punct	23732_7
+23732_10	has_surface_form	)
+23732_12	is_in_sentence	sentence_23732
+23732_12	det	23732_15
+23732_12	has_surface_form	a
+23732_15	is_in_sentence	sentence_23732
+23732_15	attr	23732_11
+23732_15	has_surface_form	film
+23732_13	is_in_sentence	sentence_23732
+23732_13	nummod	23732_15
+23732_13	has_surface_form	1990
+23732_14	is_in_sentence	sentence_23732
+23732_14	compound	23732_15
+23732_14	has_surface_form	feature
+23732_16	is_in_sentence	sentence_23732
+23732_16	punct	23732_11
+23732_16	has_surface_form	.
+23732_17	is_in_sentence	sentence_23732
+23732_17	nsubj	23732_18
+23732_17	has_surface_form	It
+23732_18	is_in_sentence	sentence_23732
+23732_18	ROOT	23732_18
+23732_18	has_surface_form	stars
+23732_19	is_in_sentence	sentence_23732
+23732_19	compound	23732_20
+23732_19	has_surface_form	Liam
+23732_20	is_in_sentence	sentence_23732
+23732_20	dobj	23732_18
+23732_20	has_surface_form	Neeson
+23732_21	is_in_sentence	sentence_23732
+23732_21	punct	23732_20
+23732_21	has_surface_form	,
+23732_22	is_in_sentence	sentence_23732
+23732_22	compound	23732_23
+23732_22	has_surface_form	Joanne
+23732_23	is_in_sentence	sentence_23732
+23732_23	appos	23732_20
+23732_23	has_surface_form	Whalley
+23732_24	is_in_sentence	sentence_23732
+23732_24	cc	23732_23
+23732_24	has_surface_form	and
+23732_25	is_in_sentence	sentence_23732
+23732_25	compound	23732_26
+23732_25	has_surface_form	Billy
+23732_25	part_of_entity	Billy Connolly
+23732_26	is_in_sentence	sentence_23732
+23732_26	conj	23732_23
+23732_26	has_surface_form	Connolly
+23732_26	part_of_entity	Billy Connolly
+23732_27	is_in_sentence	sentence_23732
+23732_27	punct	23732_18
+23732_27	has_surface_form	.
+23732_28	is_in_sentence	sentence_23732
+23732_28	dep	23732_18
+23732_28	has_surface_form	
+The Big Man	surface_form	The Big Man
+The Big Man	starring	Billy Connolly
+Billy Connolly	surface_form	Billy Connolly

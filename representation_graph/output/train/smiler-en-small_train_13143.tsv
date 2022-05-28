@@ -1,0 +1,56 @@
+13142_0	is_in_sentence	sentence_13142
+13142_0	compound	13142_1
+13142_0	has_surface_form	Javier
+13142_0	part_of_entity	Javier Godino
+13142_1	is_in_sentence	sentence_13142
+13142_1	nsubj	13142_11
+13142_1	has_surface_form	Godino
+13142_1	part_of_entity	Javier Godino
+13142_11	is_in_sentence	sentence_13142
+13142_11	ROOT	13142_11
+13142_11	has_surface_form	is
+13142_2	is_in_sentence	sentence_13142
+13142_2	punct	13142_1
+13142_2	has_surface_form	(
+13142_3	is_in_sentence	sentence_13142
+13142_3	acl	13142_1
+13142_3	has_surface_form	born
+13142_4	is_in_sentence	sentence_13142
+13142_4	npadvmod	13142_3
+13142_4	has_surface_form	March
+13142_5	is_in_sentence	sentence_13142
+13142_5	nummod	13142_4
+13142_5	has_surface_form	11
+13142_6	is_in_sentence	sentence_13142
+13142_6	punct	13142_4
+13142_6	has_surface_form	,
+13142_7	is_in_sentence	sentence_13142
+13142_7	nummod	13142_4
+13142_7	has_surface_form	1978
+13142_8	is_in_sentence	sentence_13142
+13142_8	prep	13142_3
+13142_8	has_surface_form	in
+13142_9	is_in_sentence	sentence_13142
+13142_9	pobj	13142_8
+13142_9	is_entity	Madrid
+Madrid	surface_form	Madrid
+13142_10	is_in_sentence	sentence_13142
+13142_10	punct	13142_1
+13142_10	has_surface_form	)
+13142_12	is_in_sentence	sentence_13142
+13142_12	det	13142_14
+13142_12	has_surface_form	a
+13142_14	is_in_sentence	sentence_13142
+13142_14	attr	13142_11
+13142_14	has_surface_form	actor
+13142_13	is_in_sentence	sentence_13142
+13142_13	amod	13142_14
+13142_13	has_surface_form	Spanish
+13142_15	is_in_sentence	sentence_13142
+13142_15	punct	13142_11
+13142_15	has_surface_form	.
+13142_16	is_in_sentence	sentence_13142
+13142_16	dep	13142_11
+13142_16	has_surface_form	
+Javier Godino	surface_form	Javier Godino
+Javier Godino	birth-place	Madrid

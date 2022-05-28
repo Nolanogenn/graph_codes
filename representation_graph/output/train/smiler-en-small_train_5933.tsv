@@ -1,0 +1,91 @@
+5932_0	is_in_sentence	sentence_5932
+5932_0	det	5932_2
+5932_0	has_surface_form	The
+5932_0	part_of_entity	The Detroit Institute of Technology
+5932_2	is_in_sentence	sentence_5932
+5932_2	nsubj	5932_5
+5932_2	has_surface_form	Institute
+5932_2	part_of_entity	The Detroit Institute of Technology
+5932_1	is_in_sentence	sentence_5932
+5932_1	compound	5932_2
+5932_1	has_surface_form	Detroit
+5932_1	part_of_entity	The Detroit Institute of Technology
+5932_5	is_in_sentence	sentence_5932
+5932_5	ROOT	5932_5
+5932_5	has_surface_form	was
+5932_3	is_in_sentence	sentence_5932
+5932_3	prep	5932_2
+5932_3	has_surface_form	of
+5932_3	part_of_entity	The Detroit Institute of Technology
+5932_4	is_in_sentence	sentence_5932
+5932_4	pobj	5932_3
+5932_4	has_surface_form	Technology
+5932_4	part_of_entity	The Detroit Institute of Technology
+5932_6	is_in_sentence	sentence_5932
+5932_6	det	5932_8
+5932_6	has_surface_form	a
+5932_8	is_in_sentence	sentence_5932
+5932_8	acomp	5932_5
+5932_8	has_surface_form	accredited
+5932_7	is_in_sentence	sentence_5932
+5932_7	advmod	5932_8
+5932_7	has_surface_form	fully
+5932_9	is_in_sentence	sentence_5932
+5932_9	punct	5932_8
+5932_9	has_surface_form	”
+5932_10	is_in_sentence	sentence_5932
+5932_10	punct	5932_5
+5932_10	has_surface_form	,
+5932_11	is_in_sentence	sentence_5932
+5932_11	nummod	5932_13
+5932_11	has_surface_form	four
+5932_13	is_in_sentence	sentence_5932
+5932_13	nmod	5932_15
+5932_13	has_surface_form	year
+5932_12	is_in_sentence	sentence_5932
+5932_12	punct	5932_13
+5932_12	has_surface_form	-
+5932_15	is_in_sentence	sentence_5932
+5932_15	npadvmod	5932_5
+5932_15	has_surface_form	college
+5932_15	part_of_entity	technical college
+5932_14	is_in_sentence	sentence_5932
+5932_14	amod	5932_15
+5932_14	has_surface_form	technical
+5932_14	part_of_entity	technical college
+5932_16	is_in_sentence	sentence_5932
+5932_16	prep	5932_15
+5932_16	has_surface_form	in
+5932_17	is_in_sentence	sentence_5932
+5932_17	pobj	5932_16
+5932_17	has_surface_form	Detroit
+5932_18	is_in_sentence	sentence_5932
+5932_18	punct	5932_5
+5932_18	has_surface_form	,
+5932_19	is_in_sentence	sentence_5932
+5932_19	npadvmod	5932_5
+5932_19	has_surface_form	Michigan
+5932_20	is_in_sentence	sentence_5932
+5932_20	nsubj	5932_21
+5932_20	has_surface_form	that
+5932_21	is_in_sentence	sentence_5932
+5932_21	relcl	5932_19
+5932_21	has_surface_form	closed
+5932_22	is_in_sentence	sentence_5932
+5932_22	dobj	5932_21
+5932_22	has_surface_form	operations
+5932_23	is_in_sentence	sentence_5932
+5932_23	prep	5932_21
+5932_23	has_surface_form	in
+5932_24	is_in_sentence	sentence_5932
+5932_24	pobj	5932_23
+5932_24	has_surface_form	1981
+5932_25	is_in_sentence	sentence_5932
+5932_25	punct	5932_5
+5932_25	has_surface_form	.
+5932_26	is_in_sentence	sentence_5932
+5932_26	dep	5932_26
+5932_26	has_surface_form	
+The Detroit Institute of Technology	surface_form	The Detroit Institute of Technology
+The Detroit Institute of Technology	has-type	technical college
+technical college	surface_form	technical college

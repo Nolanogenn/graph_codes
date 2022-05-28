@@ -1,0 +1,102 @@
+3851_0	is_in_sentence	sentence_3851
+3851_0	det	3851_5
+3851_0	has_surface_form	The
+3851_5	is_in_sentence	sentence_3851
+3851_5	nsubj	3851_6
+3851_5	has_surface_form	system
+3851_1	is_in_sentence	sentence_3851
+3851_1	nmod	3851_5
+3851_1	has_surface_form	University
+3851_1	part_of_entity	University of Toronto Libraries
+3851_2	is_in_sentence	sentence_3851
+3851_2	prep	3851_1
+3851_2	has_surface_form	of
+3851_2	part_of_entity	University of Toronto Libraries
+3851_3	is_in_sentence	sentence_3851
+3851_3	compound	3851_4
+3851_3	has_surface_form	Toronto
+3851_3	part_of_entity	University of Toronto Libraries
+3851_4	is_in_sentence	sentence_3851
+3851_4	conj	3851_1
+3851_4	has_surface_form	Libraries
+3851_4	part_of_entity	University of Toronto Libraries
+3851_6	is_in_sentence	sentence_3851
+3851_6	ROOT	3851_6
+3851_6	has_surface_form	is
+3851_7	is_in_sentence	sentence_3851
+3851_7	det	3851_10
+3851_7	has_surface_form	the
+3851_10	is_in_sentence	sentence_3851
+3851_10	attr	3851_6
+3851_10	has_surface_form	library
+3851_10	part_of_entity	academic library
+3851_8	is_in_sentence	sentence_3851
+3851_8	amod	3851_10
+3851_8	has_surface_form	largest
+3851_9	is_in_sentence	sentence_3851
+3851_9	amod	3851_10
+3851_9	has_surface_form	academic
+3851_9	part_of_entity	academic library
+3851_11	is_in_sentence	sentence_3851
+3851_11	prep	3851_10
+3851_11	has_surface_form	in
+3851_12	is_in_sentence	sentence_3851
+3851_12	pobj	3851_11
+3851_12	has_surface_form	Canada
+3851_13	is_in_sentence	sentence_3851
+3851_13	cc	3851_6
+3851_13	has_surface_form	and
+3851_14	is_in_sentence	sentence_3851
+3851_14	auxpass	3851_15
+3851_14	has_surface_form	is
+3851_15	is_in_sentence	sentence_3851
+3851_15	conj	3851_6
+3851_15	has_surface_form	ranked
+3851_16	is_in_sentence	sentence_3851
+3851_16	advmod	3851_15
+3851_16	has_surface_form	third
+3851_17	is_in_sentence	sentence_3851
+3851_17	prep	3851_15
+3851_17	has_surface_form	among
+3851_18	is_in_sentence	sentence_3851
+3851_18	compound	3851_19
+3851_18	has_surface_form	peer
+3851_19	is_in_sentence	sentence_3851
+3851_19	pobj	3851_17
+3851_19	has_surface_form	institutions
+3851_20	is_in_sentence	sentence_3851
+3851_20	prep	3851_19
+3851_20	has_surface_form	in
+3851_21	is_in_sentence	sentence_3851
+3851_21	compound	3851_22
+3851_21	has_surface_form	North
+3851_22	is_in_sentence	sentence_3851
+3851_22	pobj	3851_20
+3851_22	has_surface_form	America
+3851_23	is_in_sentence	sentence_3851
+3851_23	punct	3851_15
+3851_23	has_surface_form	,
+3851_24	is_in_sentence	sentence_3851
+3851_24	prep	3851_15
+3851_24	has_surface_form	behind
+3851_25	is_in_sentence	sentence_3851
+3851_25	advmod	3851_26
+3851_25	has_surface_form	only
+3851_26	is_in_sentence	sentence_3851
+3851_26	pobj	3851_24
+3851_26	has_surface_form	Harvard
+3851_27	is_in_sentence	sentence_3851
+3851_27	cc	3851_26
+3851_27	has_surface_form	and
+3851_28	is_in_sentence	sentence_3851
+3851_28	conj	3851_26
+3851_28	has_surface_form	Yale
+3851_29	is_in_sentence	sentence_3851
+3851_29	punct	3851_6
+3851_29	has_surface_form	.
+3851_30	is_in_sentence	sentence_3851
+3851_30	dep	3851_30
+3851_30	has_surface_form	
+University of Toronto Libraries	surface_form	University of Toronto Libraries
+University of Toronto Libraries	has-type	academic library
+academic library	surface_form	academic library

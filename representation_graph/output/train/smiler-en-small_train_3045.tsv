@@ -1,0 +1,58 @@
+3044_0	is_in_sentence	sentence_3044
+3044_0	compound	3044_1
+3044_0	has_surface_form	De
+3044_0	part_of_entity	De Niro
+3044_1	is_in_sentence	sentence_3044
+3044_1	nsubj	3044_3
+3044_1	has_surface_form	Niro
+3044_1	part_of_entity	De Niro
+3044_3	is_in_sentence	sentence_3044
+3044_3	ROOT	3044_3
+3044_3	has_surface_form	adopted
+3044_2	is_in_sentence	sentence_3044
+3044_2	advmod	3044_3
+3044_2	has_surface_form	also
+3044_4	is_in_sentence	sentence_3044
+3044_4	poss	3044_6
+3044_4	has_surface_form	Abbott
+3044_6	is_in_sentence	sentence_3044
+3044_6	dobj	3044_3
+3044_6	has_surface_form	daughter
+3044_5	is_in_sentence	sentence_3044
+3044_5	case	3044_4
+3044_5	has_surface_form	's
+3044_7	is_in_sentence	sentence_3044
+3044_7	compound	3044_9
+3044_7	has_surface_form	Drena
+3044_7	part_of_entity	Drena De Niro
+3044_9	is_in_sentence	sentence_3044
+3044_9	appos	3044_6
+3044_9	has_surface_form	Niro
+3044_9	part_of_entity	De Niro
+3044_9	part_of_entity	Drena De Niro
+3044_8	is_in_sentence	sentence_3044
+3044_8	compound	3044_9
+3044_8	has_surface_form	De
+3044_8	part_of_entity	De Niro
+3044_8	part_of_entity	Drena De Niro
+3044_10	is_in_sentence	sentence_3044
+3044_10	prep	3044_3
+3044_10	has_surface_form	from
+3044_11	is_in_sentence	sentence_3044
+3044_11	det	3044_13
+3044_11	has_surface_form	a
+3044_13	is_in_sentence	sentence_3044
+3044_13	pobj	3044_10
+3044_13	has_surface_form	relationship
+3044_12	is_in_sentence	sentence_3044
+3044_12	amod	3044_13
+3044_12	has_surface_form	previous
+3044_14	is_in_sentence	sentence_3044
+3044_14	punct	3044_3
+3044_14	has_surface_form	.
+3044_15	is_in_sentence	sentence_3044
+3044_15	dep	3044_15
+3044_15	has_surface_form	
+De Niro	surface_form	De Niro
+De Niro	has-child	Drena De Niro
+Drena De Niro	surface_form	Drena De Niro

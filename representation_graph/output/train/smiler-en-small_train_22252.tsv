@@ -1,0 +1,76 @@
+22251_0	is_in_sentence	sentence_22251
+22251_0	punct	22251_9
+22251_0	has_surface_form	""""
+22251_9	is_in_sentence	sentence_22251
+22251_9	ROOT	22251_9
+22251_9	has_surface_form	is
+22251_1	is_in_sentence	sentence_22251
+22251_1	compound	22251_2
+22251_1	has_surface_form	Dr.
+22251_1	part_of_entity	Dr. Pomerantz
+22251_2	is_in_sentence	sentence_22251
+22251_2	nsubj	22251_9
+22251_2	has_surface_form	Pomerantz
+22251_2	part_of_entity	Dr. Pomerantz
+22251_3	is_in_sentence	sentence_22251
+22251_3	punct	22251_4
+22251_3	has_surface_form	(
+22251_4	is_in_sentence	sentence_22251
+22251_4	appos	22251_2
+22251_4	has_surface_form	Hebrew
+22251_5	is_in_sentence	sentence_22251
+22251_5	punct	22251_4
+22251_5	has_surface_form	:
+22251_6	is_in_sentence	sentence_22251
+22251_6	nummod	22251_7
+22251_6	has_surface_form	"ד""""ר"
+22251_7	is_in_sentence	sentence_22251
+22251_7	appos	22251_4
+22251_7	has_surface_form	פומרנץ‎
+22251_8	is_in_sentence	sentence_22251
+22251_8	punct	22251_4
+22251_8	has_surface_form	)
+22251_10	is_in_sentence	sentence_22251
+22251_10	det	22251_13
+22251_10	has_surface_form	a
+22251_13	is_in_sentence	sentence_22251
+22251_13	attr	22251_9
+22251_13	has_surface_form	film
+22251_11	is_in_sentence	sentence_22251
+22251_11	nummod	22251_13
+22251_11	has_surface_form	2011
+22251_12	is_in_sentence	sentence_22251
+22251_12	amod	22251_13
+22251_12	has_surface_form	Israeli
+22251_14	is_in_sentence	sentence_22251
+22251_14	acl	22251_13
+22251_14	has_surface_form	directed
+22251_15	is_in_sentence	sentence_22251
+22251_15	agent	22251_14
+22251_15	has_surface_form	by
+22251_16	is_in_sentence	sentence_22251
+22251_16	cc	22251_14
+22251_16	has_surface_form	and
+22251_17	is_in_sentence	sentence_22251
+22251_17	conj	22251_14
+22251_17	has_surface_form	starring
+22251_18	is_in_sentence	sentence_22251
+22251_18	compound	22251_19
+22251_18	has_surface_form	Assi
+22251_18	part_of_entity	Assi Dayan
+22251_19	is_in_sentence	sentence_22251
+22251_19	dobj	22251_17
+22251_19	has_surface_form	Dayan
+22251_19	part_of_entity	Assi Dayan
+22251_20	is_in_sentence	sentence_22251
+22251_20	punct	22251_9
+22251_20	has_surface_form	.
+22251_21	is_in_sentence	sentence_22251
+22251_21	punct	22251_9
+22251_21	has_surface_form	""""
+22251_22	is_in_sentence	sentence_22251
+22251_22	dep	22251_9
+22251_22	has_surface_form	
+Dr. Pomerantz	surface_form	Dr. Pomerantz
+Dr. Pomerantz	movie-has-director	Assi Dayan
+Assi Dayan	surface_form	Assi Dayan

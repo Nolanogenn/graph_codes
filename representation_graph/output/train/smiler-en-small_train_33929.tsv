@@ -1,0 +1,58 @@
+33928_0	is_in_sentence	sentence_33928
+33928_0	compound	33928_1
+33928_0	has_surface_form	MBS
+33928_0	part_of_entity	MBS College of Crete
+33928_1	is_in_sentence	sentence_33928
+33928_1	nsubj	33928_4
+33928_1	has_surface_form	College
+33928_1	part_of_entity	MBS College of Crete
+33928_4	is_in_sentence	sentence_33928
+33928_4	ROOT	33928_4
+33928_4	has_surface_form	is
+33928_2	is_in_sentence	sentence_33928
+33928_2	prep	33928_1
+33928_2	has_surface_form	of
+33928_2	part_of_entity	MBS College of Crete
+33928_3	is_in_sentence	sentence_33928
+33928_3	pobj	33928_2
+33928_3	has_surface_form	Crete
+33928_3	part_of_entity	MBS College of Crete
+33928_5	is_in_sentence	sentence_33928
+33928_5	det	33928_8
+33928_5	has_surface_form	an
+33928_8	is_in_sentence	sentence_33928
+33928_8	attr	33928_4
+33928_8	has_surface_form	college
+33928_6	is_in_sentence	sentence_33928
+33928_6	amod	33928_8
+33928_6	has_surface_form	accredited
+33928_7	is_in_sentence	sentence_33928
+33928_7	amod	33928_8
+33928_7	has_surface_form	private
+33928_9	is_in_sentence	sentence_33928
+33928_9	prep	33928_8
+33928_9	has_surface_form	in
+33928_10	is_in_sentence	sentence_33928
+33928_10	pobj	33928_9
+33928_10	has_surface_form	Heraklion
+33928_11	is_in_sentence	sentence_33928
+33928_11	punct	33928_10
+33928_11	has_surface_form	,
+33928_12	is_in_sentence	sentence_33928
+33928_12	conj	33928_10
+33928_12	has_surface_form	Crete
+33928_13	is_in_sentence	sentence_33928
+33928_13	punct	33928_12
+33928_13	has_surface_form	,
+33928_14	is_in_sentence	sentence_33928
+33928_14	npadvmod	33928_12
+33928_14	has_surface_form	Greece
+33928_15	is_in_sentence	sentence_33928
+33928_15	punct	33928_4
+33928_15	has_surface_form	.
+33928_16	is_in_sentence	sentence_33928
+33928_16	dep	33928_4
+33928_16	has_surface_form	
+MBS College of Crete	surface_form	MBS College of Crete
+MBS College of Crete	is-where	Heraklion, Crete, Greece
+Heraklion, Crete, Greece	surface_form	Heraklion, Crete, Greece

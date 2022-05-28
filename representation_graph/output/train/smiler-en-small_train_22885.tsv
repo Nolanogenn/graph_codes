@@ -1,0 +1,56 @@
+22884_0	is_in_sentence	sentence_22884
+22884_0	nsubj	22884_1
+22884_0	is_entity	Kelley
+22884_1	is_in_sentence	sentence_22884
+22884_1	ROOT	22884_1
+22884_1	has_surface_form	has
+Kelley	surface_form	Kelley
+Kelley	has-child	Kate Clark
+22884_2	is_in_sentence	sentence_22884
+22884_2	nummod	22884_3
+22884_2	has_surface_form	three
+22884_3	is_in_sentence	sentence_22884
+22884_3	dobj	22884_1
+22884_3	has_surface_form	daughters
+22884_4	is_in_sentence	sentence_22884
+22884_4	punct	22884_3
+22884_4	has_surface_form	,
+22884_5	is_in_sentence	sentence_22884
+22884_5	compound	22884_6
+22884_5	has_surface_form	Liza
+22884_6	is_in_sentence	sentence_22884
+22884_6	appos	22884_3
+22884_6	has_surface_form	DuVal
+22884_7	is_in_sentence	sentence_22884
+22884_7	punct	22884_6
+22884_7	has_surface_form	,
+22884_8	is_in_sentence	sentence_22884
+22884_8	compound	22884_9
+22884_8	has_surface_form	Kate
+22884_8	part_of_entity	Kate Clark
+22884_9	is_in_sentence	sentence_22884
+22884_9	conj	22884_6
+22884_9	has_surface_form	Clark
+22884_9	part_of_entity	Kate Clark
+22884_10	is_in_sentence	sentence_22884
+22884_10	cc	22884_9
+22884_10	has_surface_form	and
+22884_11	is_in_sentence	sentence_22884
+22884_11	compound	22884_12
+22884_11	has_surface_form	Jane
+22884_12	is_in_sentence	sentence_22884
+22884_12	conj	22884_9
+22884_12	is_entity	Kelley
+22884_13	is_in_sentence	sentence_22884
+22884_13	punct	22884_12
+22884_13	has_surface_form	,
+22884_14	is_in_sentence	sentence_22884
+22884_14	appos	22884_12
+22884_14	has_surface_form	Esquire
+22884_15	is_in_sentence	sentence_22884
+22884_15	punct	22884_1
+22884_15	has_surface_form	.
+22884_16	is_in_sentence	sentence_22884
+22884_16	dep	22884_1
+22884_16	has_surface_form	
+Kate Clark	surface_form	Kate Clark

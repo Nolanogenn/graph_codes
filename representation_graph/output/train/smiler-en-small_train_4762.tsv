@@ -1,0 +1,90 @@
+4761_0	is_in_sentence	sentence_4761
+4761_0	det	4761_1
+4761_0	has_surface_form	A
+4761_0	part_of_entity	A Journey to London
+4761_1	is_in_sentence	sentence_4761
+4761_1	nsubj	4761_4
+4761_1	has_surface_form	Journey
+4761_1	part_of_entity	A Journey to London
+4761_4	is_in_sentence	sentence_4761
+4761_4	ROOT	4761_4
+4761_4	has_surface_form	is
+4761_2	is_in_sentence	sentence_4761
+4761_2	prep	4761_1
+4761_2	has_surface_form	to
+4761_2	part_of_entity	A Journey to London
+4761_3	is_in_sentence	sentence_4761
+4761_3	pobj	4761_2
+4761_3	has_surface_form	London
+4761_3	part_of_entity	A Journey to London
+4761_5	is_in_sentence	sentence_4761
+4761_5	det	4761_10
+4761_5	has_surface_form	a
+4761_10	is_in_sentence	sentence_4761
+4761_10	attr	4761_4
+4761_10	has_surface_form	film
+4761_6	is_in_sentence	sentence_4761
+4761_6	nummod	4761_10
+4761_6	has_surface_form	1975
+4761_7	is_in_sentence	sentence_4761
+4761_7	amod	4761_10
+4761_7	has_surface_form	British
+4761_8	is_in_sentence	sentence_4761
+4761_8	compound	4761_10
+4761_8	has_surface_form	comedy
+4761_9	is_in_sentence	sentence_4761
+4761_9	compound	4761_10
+4761_9	has_surface_form	television
+4761_11	is_in_sentence	sentence_4761
+4761_11	acl	4761_10
+4761_11	has_surface_form	directed
+4761_12	is_in_sentence	sentence_4761
+4761_12	agent	4761_11
+4761_12	has_surface_form	by
+4761_13	is_in_sentence	sentence_4761
+4761_13	compound	4761_14
+4761_13	has_surface_form	Gareth
+4761_13	part_of_entity	Gareth Davies
+4761_14	is_in_sentence	sentence_4761
+4761_14	pobj	4761_12
+4761_14	has_surface_form	Davies
+4761_14	part_of_entity	Gareth Davies
+4761_15	is_in_sentence	sentence_4761
+4761_15	cc	4761_11
+4761_15	has_surface_form	and
+4761_16	is_in_sentence	sentence_4761
+4761_16	conj	4761_11
+4761_16	has_surface_form	starring
+4761_17	is_in_sentence	sentence_4761
+4761_17	compound	4761_18
+4761_17	has_surface_form	Bill
+4761_18	is_in_sentence	sentence_4761
+4761_18	dobj	4761_16
+4761_18	has_surface_form	Maynard
+4761_19	is_in_sentence	sentence_4761
+4761_19	punct	4761_18
+4761_19	has_surface_form	,
+4761_20	is_in_sentence	sentence_4761
+4761_20	compound	4761_21
+4761_20	has_surface_form	Joan
+4761_21	is_in_sentence	sentence_4761
+4761_21	conj	4761_18
+4761_21	has_surface_form	Sims
+4761_22	is_in_sentence	sentence_4761
+4761_22	cc	4761_21
+4761_22	has_surface_form	and
+4761_23	is_in_sentence	sentence_4761
+4761_23	compound	4761_24
+4761_23	has_surface_form	John
+4761_24	is_in_sentence	sentence_4761
+4761_24	conj	4761_21
+4761_24	has_surface_form	Curless
+4761_25	is_in_sentence	sentence_4761
+4761_25	punct	4761_4
+4761_25	has_surface_form	.
+4761_26	is_in_sentence	sentence_4761
+4761_26	dep	4761_4
+4761_26	has_surface_form	
+A Journey to London	surface_form	A Journey to London
+A Journey to London	movie-has-director	Gareth Davies
+Gareth Davies	surface_form	Gareth Davies

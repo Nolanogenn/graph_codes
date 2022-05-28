@@ -1,0 +1,68 @@
+35269_0	is_in_sentence	sentence_35269
+35269_0	det	35269_3
+35269_0	has_surface_form	The
+35269_3	is_in_sentence	sentence_35269
+35269_3	nsubj	35269_4
+35269_3	has_surface_form	Corporation
+35269_3	part_of_entity	Republic Aviation Corporation
+35269_1	is_in_sentence	sentence_35269
+35269_1	compound	35269_3
+35269_1	has_surface_form	Republic
+35269_1	part_of_entity	Republic Aviation Corporation
+35269_2	is_in_sentence	sentence_35269
+35269_2	compound	35269_3
+35269_2	has_surface_form	Aviation
+35269_2	part_of_entity	Republic Aviation Corporation
+35269_4	is_in_sentence	sentence_35269
+35269_4	ROOT	35269_4
+35269_4	has_surface_form	was
+35269_5	is_in_sentence	sentence_35269
+35269_5	det	35269_8
+35269_5	has_surface_form	an
+35269_8	is_in_sentence	sentence_35269
+35269_8	attr	35269_4
+35269_8	has_surface_form	manufacturer
+35269_8	part_of_entity	aircraft manufacturer
+35269_6	is_in_sentence	sentence_35269
+35269_6	amod	35269_8
+35269_6	has_surface_form	American
+35269_7	is_in_sentence	sentence_35269
+35269_7	compound	35269_8
+35269_7	has_surface_form	aircraft
+35269_7	part_of_entity	aircraft manufacturer
+35269_9	is_in_sentence	sentence_35269
+35269_9	acl	35269_8
+35269_9	has_surface_form	based
+35269_10	is_in_sentence	sentence_35269
+35269_10	prep	35269_9
+35269_10	has_surface_form	in
+35269_11	is_in_sentence	sentence_35269
+35269_11	pobj	35269_10
+35269_11	has_surface_form	Farmingdale
+35269_12	is_in_sentence	sentence_35269
+35269_12	punct	35269_11
+35269_12	has_surface_form	,
+35269_13	is_in_sentence	sentence_35269
+35269_13	compound	35269_14
+35269_13	has_surface_form	Long
+35269_14	is_in_sentence	sentence_35269
+35269_14	conj	35269_11
+35269_14	has_surface_form	Island
+35269_15	is_in_sentence	sentence_35269
+35269_15	punct	35269_14
+35269_15	has_surface_form	,
+35269_16	is_in_sentence	sentence_35269
+35269_16	compound	35269_17
+35269_16	has_surface_form	New
+35269_17	is_in_sentence	sentence_35269
+35269_17	npadvmod	35269_14
+35269_17	has_surface_form	York
+35269_18	is_in_sentence	sentence_35269
+35269_18	punct	35269_4
+35269_18	has_surface_form	.
+35269_19	is_in_sentence	sentence_35269
+35269_19	dep	35269_4
+35269_19	has_surface_form	
+Republic Aviation Corporation	surface_form	Republic Aviation Corporation
+Republic Aviation Corporation	has-type	aircraft manufacturer
+aircraft manufacturer	surface_form	aircraft manufacturer

@@ -1,0 +1,59 @@
+19868_0	is_in_sentence	sentence_19868
+19868_0	compound	19868_1
+19868_0	has_surface_form	Anna
+19868_0	part_of_entity	Anna Brazhnikova
+19868_1	is_in_sentence	sentence_19868
+19868_1	nsubj	19868_11
+19868_1	has_surface_form	Brazhnikova
+19868_1	part_of_entity	Anna Brazhnikova
+19868_11	is_in_sentence	sentence_19868
+19868_11	ROOT	19868_11
+19868_11	has_surface_form	is
+19868_2	is_in_sentence	sentence_19868
+19868_2	punct	19868_1
+19868_2	has_surface_form	(
+19868_3	is_in_sentence	sentence_19868
+19868_3	acl	19868_1
+19868_3	has_surface_form	born
+19868_4	is_in_sentence	sentence_19868
+19868_4	nummod	19868_5
+19868_4	has_surface_form	4
+19868_5	is_in_sentence	sentence_19868
+19868_5	npadvmod	19868_3
+19868_5	has_surface_form	October
+19868_6	is_in_sentence	sentence_19868
+19868_6	nummod	19868_5
+19868_6	has_surface_form	1991
+19868_7	is_in_sentence	sentence_19868
+19868_7	punct	19868_1
+19868_7	has_surface_form	,
+19868_8	is_in_sentence	sentence_19868
+19868_8	prep	19868_1
+19868_8	has_surface_form	in
+19868_9	is_in_sentence	sentence_19868
+19868_9	pobj	19868_8
+19868_9	is_entity	Tashkent
+Tashkent	surface_form	Tashkent
+19868_10	is_in_sentence	sentence_19868
+19868_10	punct	19868_1
+19868_10	has_surface_form	)
+19868_12	is_in_sentence	sentence_19868
+19868_12	det	19868_15
+19868_12	has_surface_form	a
+19868_15	is_in_sentence	sentence_19868
+19868_15	attr	19868_11
+19868_15	has_surface_form	player
+19868_13	is_in_sentence	sentence_19868
+19868_13	amod	19868_15
+19868_13	has_surface_form	Swedish
+19868_14	is_in_sentence	sentence_19868
+19868_14	compound	19868_15
+19868_14	has_surface_form	tennis
+19868_16	is_in_sentence	sentence_19868
+19868_16	punct	19868_11
+19868_16	has_surface_form	.
+19868_17	is_in_sentence	sentence_19868
+19868_17	dep	19868_17
+19868_17	has_surface_form	
+Anna Brazhnikova	surface_form	Anna Brazhnikova
+Anna Brazhnikova	birth-place	Tashkent

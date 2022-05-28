@@ -1,0 +1,43 @@
+11647_0	is_in_sentence	sentence_11647
+11647_0	compound	11647_1
+11647_0	has_surface_form	Confidentially
+11647_0	part_of_entity	Confidentially Connie
+11647_1	is_in_sentence	sentence_11647
+11647_1	nsubj	11647_2
+11647_1	has_surface_form	Connie
+11647_1	part_of_entity	Confidentially Connie
+11647_2	is_in_sentence	sentence_11647
+11647_2	ROOT	11647_2
+11647_2	has_surface_form	is
+11647_3	is_in_sentence	sentence_11647
+11647_3	det	11647_5
+11647_3	has_surface_form	a
+11647_5	is_in_sentence	sentence_11647
+11647_5	attr	11647_2
+11647_5	has_surface_form	film
+11647_4	is_in_sentence	sentence_11647
+11647_4	nummod	11647_5
+11647_4	has_surface_form	1953
+11647_6	is_in_sentence	sentence_11647
+11647_6	acl	11647_5
+11647_6	has_surface_form	directed
+11647_7	is_in_sentence	sentence_11647
+11647_7	agent	11647_6
+11647_7	has_surface_form	by
+11647_8	is_in_sentence	sentence_11647
+11647_8	compound	11647_9
+11647_8	has_surface_form	Edward
+11647_8	part_of_entity	Edward Buzzell
+11647_9	is_in_sentence	sentence_11647
+11647_9	pobj	11647_7
+11647_9	has_surface_form	Buzzell
+11647_9	part_of_entity	Edward Buzzell
+11647_10	is_in_sentence	sentence_11647
+11647_10	punct	11647_2
+11647_10	has_surface_form	.
+11647_11	is_in_sentence	sentence_11647
+11647_11	dep	11647_2
+11647_11	has_surface_form	
+Confidentially Connie	surface_form	Confidentially Connie
+Confidentially Connie	movie-has-director	Edward Buzzell
+Edward Buzzell	surface_form	Edward Buzzell

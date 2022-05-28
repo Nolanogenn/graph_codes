@@ -1,0 +1,51 @@
+3640_0	is_in_sentence	sentence_3640
+3640_0	compound	3640_2
+3640_0	has_surface_form	Higley
+3640_0	part_of_entity	Higley High School
+3640_2	is_in_sentence	sentence_3640
+3640_2	nsubj	3640_3
+3640_2	has_surface_form	School
+3640_2	part_of_entity	Higley High School
+3640_1	is_in_sentence	sentence_3640
+3640_1	compound	3640_2
+3640_1	has_surface_form	High
+3640_1	part_of_entity	Higley High School
+3640_3	is_in_sentence	sentence_3640
+3640_3	ROOT	3640_3
+3640_3	has_surface_form	is
+3640_4	is_in_sentence	sentence_3640
+3640_4	det	3640_6
+3640_4	has_surface_form	a
+3640_6	is_in_sentence	sentence_3640
+3640_6	attr	3640_3
+3640_6	has_surface_form	school
+3640_5	is_in_sentence	sentence_3640
+3640_5	amod	3640_6
+3640_5	has_surface_form	high
+3640_7	is_in_sentence	sentence_3640
+3640_7	prep	3640_6
+3640_7	has_surface_form	in
+3640_8	is_in_sentence	sentence_3640
+3640_8	pobj	3640_7
+3640_8	has_surface_form	Gilbert
+3640_9	is_in_sentence	sentence_3640
+3640_9	punct	3640_8
+3640_9	has_surface_form	,
+3640_10	is_in_sentence	sentence_3640
+3640_10	conj	3640_8
+3640_10	has_surface_form	Arizona
+3640_11	is_in_sentence	sentence_3640
+3640_11	punct	3640_10
+3640_11	has_surface_form	,
+3640_12	is_in_sentence	sentence_3640
+3640_12	appos	3640_10
+3640_12	has_surface_form	USA
+3640_13	is_in_sentence	sentence_3640
+3640_13	punct	3640_3
+3640_13	has_surface_form	.
+3640_14	is_in_sentence	sentence_3640
+3640_14	dep	3640_3
+3640_14	has_surface_form	
+Higley High School	surface_form	Higley High School
+Higley High School	is-where	Gilbert, Arizona
+Gilbert, Arizona	surface_form	Gilbert, Arizona

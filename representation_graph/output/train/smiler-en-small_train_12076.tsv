@@ -1,0 +1,74 @@
+12075_0	is_in_sentence	sentence_12075
+12075_0	compound	12075_1
+12075_0	has_surface_form	Norman
+12075_0	part_of_entity	Norman Page
+12075_1	is_in_sentence	sentence_12075
+12075_1	nsubj	12075_10
+12075_1	has_surface_form	Page
+12075_1	part_of_entity	Norman Page
+12075_10	is_in_sentence	sentence_12075
+12075_10	ROOT	12075_10
+12075_10	has_surface_form	died
+12075_2	is_in_sentence	sentence_12075
+12075_2	punct	12075_1
+12075_2	has_surface_form	(
+12075_3	is_in_sentence	sentence_12075
+12075_3	acl	12075_1
+12075_3	has_surface_form	born
+12075_4	is_in_sentence	sentence_12075
+12075_4	prep	12075_3
+12075_4	has_surface_form	in
+12075_5	is_in_sentence	sentence_12075
+12075_5	pobj	12075_4
+12075_5	has_surface_form	Nottingham
+12075_6	is_in_sentence	sentence_12075
+12075_6	punct	12075_5
+12075_6	has_surface_form	,
+12075_7	is_in_sentence	sentence_12075
+12075_7	pobj	12075_4
+12075_7	has_surface_form	Nottinghamshire
+12075_8	is_in_sentence	sentence_12075
+12075_8	dep	12075_7
+12075_8	has_surface_form	 
+12075_9	is_in_sentence	sentence_12075
+12075_9	punct	12075_7
+12075_9	has_surface_form	–
+12075_11	is_in_sentence	sentence_12075
+12075_11	nummod	12075_12
+12075_11	has_surface_form	4
+12075_12	is_in_sentence	sentence_12075
+12075_12	npadvmod	12075_10
+12075_12	has_surface_form	July
+12075_13	is_in_sentence	sentence_12075
+12075_13	nummod	12075_12
+12075_13	has_surface_form	1935
+12075_14	is_in_sentence	sentence_12075
+12075_14	prep	12075_10
+12075_14	has_surface_form	in
+12075_15	is_in_sentence	sentence_12075
+12075_15	pobj	12075_14
+12075_15	has_surface_form	London
+12075_16	is_in_sentence	sentence_12075
+12075_16	punct	12075_10
+12075_16	has_surface_form	)
+12075_17	is_in_sentence	sentence_12075
+12075_17	dep	12075_10
+12075_17	has_surface_form	was
+12075_18	is_in_sentence	sentence_12075
+12075_18	det	12075_20
+12075_18	has_surface_form	a
+12075_20	is_in_sentence	sentence_12075
+12075_20	attr	12075_17
+12075_20	is_entity	actor
+12075_19	is_in_sentence	sentence_12075
+12075_19	amod	12075_20
+12075_19	has_surface_form	British
+actor	surface_form	actor
+12075_21	is_in_sentence	sentence_12075
+12075_21	punct	12075_10
+12075_21	has_surface_form	.
+12075_22	is_in_sentence	sentence_12075
+12075_22	dep	12075_22
+12075_22	has_surface_form	
+Norman Page	surface_form	Norman Page
+Norman Page	has-occupation	actor

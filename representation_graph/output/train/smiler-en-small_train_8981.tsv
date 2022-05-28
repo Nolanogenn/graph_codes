@@ -1,0 +1,88 @@
+8980_0	is_in_sentence	sentence_8980
+8980_0	compound	8980_1
+8980_0	has_surface_form	Dónal
+8980_0	part_of_entity	Dónal Lunny
+8980_1	is_in_sentence	sentence_8980
+8980_1	nsubj	8980_2
+8980_1	has_surface_form	Lunny
+8980_1	part_of_entity	Dónal Lunny
+8980_2	is_in_sentence	sentence_8980
+8980_2	ROOT	8980_2
+8980_2	has_surface_form	is
+8980_3	is_in_sentence	sentence_8980
+8980_3	det	8980_4
+8980_3	has_surface_form	the
+8980_4	is_in_sentence	sentence_8980
+8980_4	attr	8980_2
+8980_4	has_surface_form	brother
+8980_5	is_in_sentence	sentence_8980
+8980_5	prep	8980_4
+8980_5	has_surface_form	of
+8980_6	is_in_sentence	sentence_8980
+8980_6	pobj	8980_5
+8980_6	has_surface_form	musician
+8980_7	is_in_sentence	sentence_8980
+8980_7	cc	8980_4
+8980_7	has_surface_form	and
+8980_8	is_in_sentence	sentence_8980
+8980_8	compound	8980_10
+8980_8	has_surface_form	producer
+8980_10	is_in_sentence	sentence_8980
+8980_10	conj	8980_4
+8980_10	has_surface_form	Lunny
+8980_10	part_of_entity	Manus Lunny
+8980_9	is_in_sentence	sentence_8980
+8980_9	compound	8980_10
+8980_9	has_surface_form	Manus
+8980_9	part_of_entity	Manus Lunny
+8980_11	is_in_sentence	sentence_8980
+8980_11	punct	8980_2
+8980_11	has_surface_form	.
+8980_12	is_in_sentence	sentence_8980
+8980_12	nsubj	8980_13
+8980_12	has_surface_form	He
+8980_13	is_in_sentence	sentence_8980
+8980_13	ROOT	8980_13
+8980_13	has_surface_form	has
+8980_14	is_in_sentence	sentence_8980
+8980_14	det	8980_15
+8980_14	has_surface_form	a
+8980_15	is_in_sentence	sentence_8980
+8980_15	dobj	8980_13
+8980_15	has_surface_form	son
+8980_16	is_in_sentence	sentence_8980
+8980_16	punct	8980_15
+8980_16	has_surface_form	,
+8980_17	is_in_sentence	sentence_8980
+8980_17	appos	8980_15
+8980_17	has_surface_form	Shane
+8980_18	is_in_sentence	sentence_8980
+8980_18	punct	8980_17
+8980_18	has_surface_form	,
+8980_19	is_in_sentence	sentence_8980
+8980_19	poss	8980_20
+8980_19	has_surface_form	whose
+8980_20	is_in_sentence	sentence_8980
+8980_20	nsubj	8980_21
+8980_20	has_surface_form	mother
+8980_21	is_in_sentence	sentence_8980
+8980_21	relcl	8980_17
+8980_21	has_surface_form	is
+8980_22	is_in_sentence	sentence_8980
+8980_22	compound	8980_24
+8980_22	has_surface_form	singer
+8980_24	is_in_sentence	sentence_8980
+8980_24	attr	8980_21
+8980_24	has_surface_form	O'Connor
+8980_23	is_in_sentence	sentence_8980
+8980_23	compound	8980_24
+8980_23	has_surface_form	Sinéad
+8980_25	is_in_sentence	sentence_8980
+8980_25	punct	8980_13
+8980_25	has_surface_form	.
+8980_26	is_in_sentence	sentence_8980
+8980_26	dep	8980_13
+8980_26	has_surface_form	
+Dónal Lunny	surface_form	Dónal Lunny
+Dónal Lunny	has-sibling	Manus Lunny
+Manus Lunny	surface_form	Manus Lunny

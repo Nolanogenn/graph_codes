@@ -1,0 +1,50 @@
+31817_0	is_in_sentence	sentence_31817
+31817_0	compound	31817_1
+31817_0	has_surface_form	Arturo
+31817_0	part_of_entity	Arturo Tappin
+31817_1	is_in_sentence	sentence_31817
+31817_1	nsubj	31817_2
+31817_1	has_surface_form	Tappin
+31817_1	part_of_entity	Arturo Tappin
+31817_2	is_in_sentence	sentence_31817
+31817_2	ROOT	31817_2
+31817_2	has_surface_form	is
+31817_3	is_in_sentence	sentence_31817
+31817_3	det	31817_5
+31817_3	has_surface_form	a
+31817_5	is_in_sentence	sentence_31817
+31817_5	attr	31817_2
+31817_5	is_entity	jazz
+31817_4	is_in_sentence	sentence_31817
+31817_4	amod	31817_5
+31817_4	has_surface_form	smooth
+jazz	surface_form	jazz
+31817_6	is_in_sentence	sentence_31817
+31817_6	cc	31817_5
+31817_6	has_surface_form	and
+31817_7	is_in_sentence	sentence_31817
+31817_7	nmod	31817_9
+31817_7	is_entity	jazz
+31817_9	is_in_sentence	sentence_31817
+31817_9	compound	31817_10
+31817_9	has_surface_form	reggae
+31817_8	is_in_sentence	sentence_31817
+31817_8	punct	31817_9
+31817_8	has_surface_form	/
+31817_10	is_in_sentence	sentence_31817
+31817_10	conj	31817_5
+31817_10	has_surface_form	saxophonist
+31817_11	is_in_sentence	sentence_31817
+31817_11	prep	31817_10
+31817_11	has_surface_form	from
+31817_12	is_in_sentence	sentence_31817
+31817_12	pobj	31817_11
+31817_12	has_surface_form	Barbados
+31817_13	is_in_sentence	sentence_31817
+31817_13	punct	31817_2
+31817_13	has_surface_form	.
+31817_14	is_in_sentence	sentence_31817
+31817_14	dep	31817_2
+31817_14	has_surface_form	
+Arturo Tappin	surface_form	Arturo Tappin
+Arturo Tappin	has-genre	jazz

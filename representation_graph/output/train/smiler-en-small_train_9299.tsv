@@ -1,0 +1,52 @@
+9298_0	is_in_sentence	sentence_9298
+9298_0	compound	9298_1
+9298_0	has_surface_form	Mary
+9298_0	part_of_entity	Mary Cheney
+9298_1	is_in_sentence	sentence_9298
+9298_1	nsubj	9298_3
+9298_1	has_surface_form	Cheney
+9298_1	part_of_entity	Mary Cheney
+9298_3	is_in_sentence	sentence_9298
+9298_3	ROOT	9298_3
+9298_3	has_surface_form	been
+9298_2	is_in_sentence	sentence_9298
+9298_2	aux	9298_3
+9298_2	has_surface_form	has
+9298_4	is_in_sentence	sentence_9298
+9298_4	prep	9298_3
+9298_4	has_surface_form	with
+9298_5	is_in_sentence	sentence_9298
+9298_5	poss	9298_6
+9298_5	has_surface_form	her
+9298_6	is_in_sentence	sentence_9298
+9298_6	pobj	9298_4
+9298_6	has_surface_form	wife
+9298_7	is_in_sentence	sentence_9298
+9298_7	punct	9298_6
+9298_7	has_surface_form	,
+9298_8	is_in_sentence	sentence_9298
+9298_8	compound	9298_9
+9298_8	has_surface_form	Heather
+9298_8	part_of_entity	Heather Poe
+9298_9	is_in_sentence	sentence_9298
+9298_9	appos	9298_6
+9298_9	has_surface_form	Poe
+9298_9	part_of_entity	Heather Poe
+9298_10	is_in_sentence	sentence_9298
+9298_10	punct	9298_6
+9298_10	has_surface_form	,
+9298_11	is_in_sentence	sentence_9298
+9298_11	prep	9298_3
+9298_11	has_surface_form	since
+9298_12	is_in_sentence	sentence_9298
+9298_12	pobj	9298_11
+9298_12	has_surface_form	1992
+9298_13	is_in_sentence	sentence_9298
+9298_13	punct	9298_3
+9298_13	has_surface_form	.
+9298_14	is_in_sentence	sentence_9298
+9298_14	dep	9298_14
+9298_14	has_surface_form	
+Mary Cheney	surface_form	Mary Cheney
+Mary Cheney	has-spouse	Heather Poe
+Heather Poe	surface_form	Heather Poe

@@ -1,0 +1,64 @@
+35606_0	is_in_sentence	sentence_35606
+35606_0	compound	35606_1
+35606_0	has_surface_form	Kevin
+35606_0	part_of_entity	Kevin Steele
+35606_1	is_in_sentence	sentence_35606
+35606_1	nsubj	35606_9
+35606_1	has_surface_form	Steele
+35606_1	part_of_entity	Kevin Steele
+35606_9	is_in_sentence	sentence_35606
+35606_9	ROOT	35606_9
+35606_9	has_surface_form	is
+35606_2	is_in_sentence	sentence_35606
+35606_2	punct	35606_1
+35606_2	has_surface_form	(
+35606_3	is_in_sentence	sentence_35606
+35606_3	acl	35606_1
+35606_3	has_surface_form	born
+35606_4	is_in_sentence	sentence_35606
+35606_4	npadvmod	35606_3
+35606_4	has_surface_form	May
+35606_5	is_in_sentence	sentence_35606
+35606_5	nummod	35606_4
+35606_5	has_surface_form	17
+35606_6	is_in_sentence	sentence_35606
+35606_6	punct	35606_4
+35606_6	has_surface_form	,
+35606_7	is_in_sentence	sentence_35606
+35606_7	nummod	35606_4
+35606_7	has_surface_form	1958
+35606_8	is_in_sentence	sentence_35606
+35606_8	punct	35606_1
+35606_8	has_surface_form	)
+35606_10	is_in_sentence	sentence_35606
+35606_10	det	35606_13
+35606_10	has_surface_form	an
+35606_13	is_in_sentence	sentence_35606
+35606_13	attr	35606_9
+35606_13	has_surface_form	coach
+35606_13	part_of_entity	football coach
+35606_11	is_in_sentence	sentence_35606
+35606_11	amod	35606_13
+35606_11	has_surface_form	American
+35606_12	is_in_sentence	sentence_35606
+35606_12	compound	35606_13
+35606_12	has_surface_form	football
+35606_12	part_of_entity	football coach
+35606_14	is_in_sentence	sentence_35606
+35606_14	cc	35606_13
+35606_14	has_surface_form	and
+35606_15	is_in_sentence	sentence_35606
+35606_15	amod	35606_16
+35606_15	has_surface_form	former
+35606_16	is_in_sentence	sentence_35606
+35606_16	conj	35606_13
+35606_16	has_surface_form	player
+35606_17	is_in_sentence	sentence_35606
+35606_17	punct	35606_9
+35606_17	has_surface_form	.
+35606_18	is_in_sentence	sentence_35606
+35606_18	dep	35606_18
+35606_18	has_surface_form	
+Kevin Steele	surface_form	Kevin Steele
+Kevin Steele	has-type	football coach
+football coach	surface_form	football coach

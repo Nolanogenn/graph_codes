@@ -1,0 +1,46 @@
+21428_0	is_in_sentence	sentence_21428
+21428_0	preconj	21428_1
+21428_0	has_surface_form	Both
+21428_1	is_in_sentence	sentence_21428
+21428_1	nmod	21428_4
+21428_1	has_surface_form	iDen
+21428_1	part_of_entity	iDen and
+21428_4	is_in_sentence	sentence_21428
+21428_4	nsubjpass	21428_6
+21428_4	has_surface_form	handsets
+21428_4	part_of_entity	Qchat handsets
+21428_2	is_in_sentence	sentence_21428
+21428_2	cc	21428_1
+21428_2	has_surface_form	and
+21428_2	part_of_entity	iDen and
+21428_3	is_in_sentence	sentence_21428
+21428_3	conj	21428_1
+21428_3	has_surface_form	Qchat
+21428_3	part_of_entity	Qchat handsets
+21428_6	is_in_sentence	sentence_21428
+21428_6	ROOT	21428_6
+21428_6	has_surface_form	sold
+21428_5	is_in_sentence	sentence_21428
+21428_5	auxpass	21428_6
+21428_5	has_surface_form	are
+21428_7	is_in_sentence	sentence_21428
+21428_7	prep	21428_6
+21428_7	has_surface_form	under
+21428_8	is_in_sentence	sentence_21428
+21428_8	det	21428_10
+21428_8	has_surface_form	the
+21428_10	is_in_sentence	sentence_21428
+21428_10	pobj	21428_7
+21428_10	has_surface_form	brand
+21428_9	is_in_sentence	sentence_21428
+21428_9	compound	21428_10
+21428_9	has_surface_form	Nextel
+21428_11	is_in_sentence	sentence_21428
+21428_11	punct	21428_6
+21428_11	has_surface_form	.
+21428_12	is_in_sentence	sentence_21428
+21428_12	dep	21428_12
+21428_12	has_surface_form	
+iDen and	surface_form	iDen and
+iDen and	no_relation	Qchat handsets
+Qchat handsets	surface_form	Qchat handsets

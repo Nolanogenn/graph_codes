@@ -1,0 +1,127 @@
+25185_0	is_in_sentence	sentence_25185
+25185_0	det	25185_1
+25185_0	has_surface_form	The
+25185_0	part_of_entity	The Sparrows of Paris
+25185_1	is_in_sentence	sentence_25185
+25185_1	nsubj	25185_11
+25185_1	has_surface_form	Sparrows
+25185_1	part_of_entity	The Sparrows of Paris
+25185_11	is_in_sentence	sentence_25185
+25185_11	ROOT	25185_11
+25185_11	has_surface_form	is
+25185_2	is_in_sentence	sentence_25185
+25185_2	prep	25185_1
+25185_2	has_surface_form	of
+25185_2	part_of_entity	The Sparrows of Paris
+25185_3	is_in_sentence	sentence_25185
+25185_3	pobj	25185_2
+25185_3	has_surface_form	Paris
+25185_3	part_of_entity	The Sparrows of Paris
+25185_4	is_in_sentence	sentence_25185
+25185_4	punct	25185_5
+25185_4	has_surface_form	(
+25185_5	is_in_sentence	sentence_25185
+25185_5	appos	25185_1
+25185_5	has_surface_form	French
+25185_6	is_in_sentence	sentence_25185
+25185_6	punct	25185_5
+25185_6	has_surface_form	:
+25185_7	is_in_sentence	sentence_25185
+25185_7	compound	25185_9
+25185_7	has_surface_form	Moineaux
+25185_9	is_in_sentence	sentence_25185
+25185_9	npadvmod	25185_5
+25185_9	has_surface_form	Paris
+25185_8	is_in_sentence	sentence_25185
+25185_8	compound	25185_9
+25185_8	has_surface_form	de
+25185_10	is_in_sentence	sentence_25185
+25185_10	punct	25185_5
+25185_10	has_surface_form	)
+25185_12	is_in_sentence	sentence_25185
+25185_12	det	25185_17
+25185_12	has_surface_form	a
+25185_17	is_in_sentence	sentence_25185
+25185_17	attr	25185_11
+25185_17	has_surface_form	film
+25185_13	is_in_sentence	sentence_25185
+25185_13	nummod	25185_17
+25185_13	has_surface_form	1953
+25185_14	is_in_sentence	sentence_25185
+25185_14	amod	25185_17
+25185_14	has_surface_form	French
+25185_15	is_in_sentence	sentence_25185
+25185_15	compound	25185_17
+25185_15	has_surface_form	comedy
+25185_16	is_in_sentence	sentence_25185
+25185_16	compound	25185_17
+25185_16	has_surface_form	drama
+25185_18	is_in_sentence	sentence_25185
+25185_18	acl	25185_17
+25185_18	has_surface_form	directed
+25185_19	is_in_sentence	sentence_25185
+25185_19	cc	25185_18
+25185_19	has_surface_form	and
+25185_20	is_in_sentence	sentence_25185
+25185_20	conj	25185_18
+25185_20	has_surface_form	written
+25185_21	is_in_sentence	sentence_25185
+25185_21	agent	25185_20
+25185_21	has_surface_form	by
+25185_22	is_in_sentence	sentence_25185
+25185_22	compound	25185_23
+25185_22	has_surface_form	Maurice
+25185_23	is_in_sentence	sentence_25185
+25185_23	pobj	25185_21
+25185_23	has_surface_form	Cloche
+25185_24	is_in_sentence	sentence_25185
+25185_24	cc	25185_20
+25185_24	has_surface_form	and
+25185_25	is_in_sentence	sentence_25185
+25185_25	conj	25185_20
+25185_25	has_surface_form	starring
+25185_26	is_in_sentence	sentence_25185
+25185_26	compound	25185_29
+25185_26	has_surface_form	Jean
+25185_29	is_in_sentence	sentence_25185
+25185_29	dobj	25185_25
+25185_29	has_surface_form	Aumont
+25185_27	is_in_sentence	sentence_25185
+25185_27	punct	25185_29
+25185_27	has_surface_form	-
+25185_28	is_in_sentence	sentence_25185
+25185_28	compound	25185_29
+25185_28	has_surface_form	Pierre
+25185_30	is_in_sentence	sentence_25185
+25185_30	punct	25185_29
+25185_30	has_surface_form	,
+25185_31	is_in_sentence	sentence_25185
+25185_31	compound	25185_33
+25185_31	has_surface_form	Louis
+25185_31	part_of_entity	Louis de Funès
+25185_33	is_in_sentence	sentence_25185
+25185_33	conj	25185_29
+25185_33	has_surface_form	Funès
+25185_33	part_of_entity	Louis de Funès
+25185_32	is_in_sentence	sentence_25185
+25185_32	nmod	25185_33
+25185_32	has_surface_form	de
+25185_32	part_of_entity	Louis de Funès
+25185_34	is_in_sentence	sentence_25185
+25185_34	cc	25185_33
+25185_34	has_surface_form	and
+25185_35	is_in_sentence	sentence_25185
+25185_35	compound	25185_36
+25185_35	has_surface_form	Virginia
+25185_36	is_in_sentence	sentence_25185
+25185_36	conj	25185_33
+25185_36	has_surface_form	Keiley
+25185_37	is_in_sentence	sentence_25185
+25185_37	punct	25185_11
+25185_37	has_surface_form	.
+25185_38	is_in_sentence	sentence_25185
+25185_38	dep	25185_38
+25185_38	has_surface_form	
+The Sparrows of Paris	surface_form	The Sparrows of Paris
+The Sparrows of Paris	starring	Louis de Funès
+Louis de Funès	surface_form	Louis de Funès

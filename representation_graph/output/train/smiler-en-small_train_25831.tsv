@@ -1,0 +1,107 @@
+25830_0	is_in_sentence	sentence_25830
+25830_0	compound	25830_1
+25830_0	has_surface_form	Pennsylvania
+25830_0	part_of_entity	Pennsylvania Route 770
+25830_1	is_in_sentence	sentence_25830
+25830_1	nsubj	25830_7
+25830_1	has_surface_form	Route
+25830_1	part_of_entity	Pennsylvania Route 770
+25830_7	is_in_sentence	sentence_25830
+25830_7	ROOT	25830_7
+25830_7	has_surface_form	is
+25830_2	is_in_sentence	sentence_25830
+25830_2	nummod	25830_1
+25830_2	has_surface_form	770
+25830_2	part_of_entity	Pennsylvania Route 770
+25830_3	is_in_sentence	sentence_25830
+25830_3	punct	25830_1
+25830_3	has_surface_form	(
+25830_4	is_in_sentence	sentence_25830
+25830_4	appos	25830_1
+25830_4	has_surface_form	PA
+25830_5	is_in_sentence	sentence_25830
+25830_5	nummod	25830_4
+25830_5	has_surface_form	770
+25830_6	is_in_sentence	sentence_25830
+25830_6	punct	25830_4
+25830_6	has_surface_form	)
+25830_8	is_in_sentence	sentence_25830
+25830_8	det	25830_13
+25830_8	has_surface_form	a
+25830_13	is_in_sentence	sentence_25830
+25830_13	attr	25830_7
+25830_13	has_surface_form	long
+25830_9	is_in_sentence	sentence_25830
+25830_9	nummod	25830_11
+25830_9	has_surface_form	12
+25830_11	is_in_sentence	sentence_25830
+25830_11	npadvmod	25830_13
+25830_11	has_surface_form	mile
+25830_10	is_in_sentence	sentence_25830
+25830_10	punct	25830_11
+25830_10	has_surface_form	-
+25830_12	is_in_sentence	sentence_25830
+25830_12	punct	25830_13
+25830_12	has_surface_form	-
+25830_14	is_in_sentence	sentence_25830
+25830_14	punct	25830_16
+25830_14	has_surface_form	(
+25830_16	is_in_sentence	sentence_25830
+25830_16	dep	25830_13
+25830_16	has_surface_form	 
+25830_15	is_in_sentence	sentence_25830
+25830_15	nummod	25830_16
+25830_15	has_surface_form	19
+25830_17	is_in_sentence	sentence_25830
+25830_17	npadvmod	25830_13
+25830_17	has_surface_form	km
+25830_18	is_in_sentence	sentence_25830
+25830_18	punct	25830_13
+25830_18	has_surface_form	)
+25830_19	is_in_sentence	sentence_25830
+25830_19	punct	25830_13
+25830_19	has_surface_form	,
+25830_20	is_in_sentence	sentence_25830
+25830_20	conj	25830_13
+25830_20	has_surface_form	east
+25830_21	is_in_sentence	sentence_25830
+25830_21	punct	25830_20
+25830_21	has_surface_form	–
+25830_22	is_in_sentence	sentence_25830
+25830_22	compound	25830_23
+25830_22	has_surface_form	west
+25830_23	is_in_sentence	sentence_25830
+25830_23	compound	25830_24
+25830_23	has_surface_form	state
+25830_23	part_of_entity	state highway
+25830_24	is_in_sentence	sentence_25830
+25830_24	appos	25830_20
+25830_24	has_surface_form	highway
+25830_24	part_of_entity	state highway
+25830_25	is_in_sentence	sentence_25830
+25830_25	acl	25830_24
+25830_25	has_surface_form	located
+25830_26	is_in_sentence	sentence_25830
+25830_26	prep	25830_25
+25830_26	has_surface_form	in
+25830_27	is_in_sentence	sentence_25830
+25830_27	compound	25830_28
+25830_27	has_surface_form	McKean
+25830_28	is_in_sentence	sentence_25830
+25830_28	pobj	25830_26
+25830_28	has_surface_form	county
+25830_29	is_in_sentence	sentence_25830
+25830_29	prep	25830_25
+25830_29	has_surface_form	in
+25830_30	is_in_sentence	sentence_25830
+25830_30	pobj	25830_29
+25830_30	has_surface_form	Pennsylvania
+25830_31	is_in_sentence	sentence_25830
+25830_31	punct	25830_7
+25830_31	has_surface_form	.
+25830_32	is_in_sentence	sentence_25830
+25830_32	dep	25830_32
+25830_32	has_surface_form	
+Pennsylvania Route 770	surface_form	Pennsylvania Route 770
+Pennsylvania Route 770	has-type	state highway
+state highway	surface_form	state highway

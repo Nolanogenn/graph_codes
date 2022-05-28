@@ -1,0 +1,80 @@
+8878_0	is_in_sentence	sentence_8878
+8878_0	det	8878_3
+8878_0	has_surface_form	The
+8878_3	is_in_sentence	sentence_8878
+8878_3	nsubj	8878_4
+8878_3	has_surface_form	Faso
+8878_3	part_of_entity	Tour du Faso
+8878_1	is_in_sentence	sentence_8878
+8878_1	compound	8878_3
+8878_1	has_surface_form	Tour
+8878_1	part_of_entity	Tour du Faso
+8878_2	is_in_sentence	sentence_8878
+8878_2	compound	8878_3
+8878_2	has_surface_form	du
+8878_2	part_of_entity	Tour du Faso
+8878_4	is_in_sentence	sentence_8878
+8878_4	ROOT	8878_4
+8878_4	has_surface_form	is
+8878_5	is_in_sentence	sentence_8878
+8878_5	det	8878_13
+8878_5	has_surface_form	a
+8878_13	is_in_sentence	sentence_8878
+8878_13	attr	8878_4
+8878_13	has_surface_form	race
+8878_13	part_of_entity	stage race
+8878_6	is_in_sentence	sentence_8878
+8878_6	nummod	8878_8
+8878_6	has_surface_form	10
+8878_8	is_in_sentence	sentence_8878
+8878_8	compound	8878_13
+8878_8	has_surface_form	day
+8878_7	is_in_sentence	sentence_8878
+8878_7	punct	8878_8
+8878_7	has_surface_form	-
+8878_9	is_in_sentence	sentence_8878
+8878_9	compound	8878_10
+8878_9	has_surface_form	road
+8878_10	is_in_sentence	sentence_8878
+8878_10	compound	8878_11
+8878_10	has_surface_form	bicycle
+8878_11	is_in_sentence	sentence_8878
+8878_11	compound	8878_12
+8878_11	has_surface_form	racing
+8878_12	is_in_sentence	sentence_8878
+8878_12	compound	8878_13
+8878_12	has_surface_form	stage
+8878_12	part_of_entity	stage race
+8878_14	is_in_sentence	sentence_8878
+8878_14	acl	8878_13
+8878_14	has_surface_form	held
+8878_15	is_in_sentence	sentence_8878
+8878_15	prep	8878_14
+8878_15	has_surface_form	in
+8878_16	is_in_sentence	sentence_8878
+8878_16	compound	8878_17
+8878_16	has_surface_form	Burkina
+8878_17	is_in_sentence	sentence_8878
+8878_17	pobj	8878_15
+8878_17	has_surface_form	Faso
+8878_18	is_in_sentence	sentence_8878
+8878_18	prep	8878_14
+8878_18	has_surface_form	in
+8878_19	is_in_sentence	sentence_8878
+8878_19	det	8878_21
+8878_19	has_surface_form	the
+8878_21	is_in_sentence	sentence_8878
+8878_21	pobj	8878_18
+8878_21	has_surface_form	fall
+8878_20	is_in_sentence	sentence_8878
+8878_20	amod	8878_21
+8878_20	has_surface_form	late
+8878_22	is_in_sentence	sentence_8878
+8878_22	punct	8878_4
+8878_22	has_surface_form	.
+8878_23	is_in_sentence	sentence_8878
+8878_23	dep	8878_23
+8878_23	has_surface_form	
+Tour du Faso	surface_form	Tour du Faso
+Tour du Faso	has-type	stage race
+stage race	surface_form	stage race

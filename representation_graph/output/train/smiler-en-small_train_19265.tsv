@@ -1,0 +1,53 @@
+19264_0	is_in_sentence	sentence_19264
+19264_0	compound	19264_1
+19264_0	has_surface_form	William
+19264_0	part_of_entity	William Hamilton
+19264_1	is_in_sentence	sentence_19264
+19264_1	nsubj	19264_5
+19264_1	has_surface_form	Hamilton
+19264_1	part_of_entity	William Hamilton
+19264_5	is_in_sentence	sentence_19264
+19264_5	ROOT	19264_5
+19264_5	has_surface_form	was
+19264_2	is_in_sentence	sentence_19264
+19264_2	punct	19264_3
+19264_2	has_surface_form	(
+19264_3	is_in_sentence	sentence_19264
+19264_3	appos	19264_1
+19264_3	has_surface_form	1704–1754
+19264_4	is_in_sentence	sentence_19264
+19264_4	punct	19264_3
+19264_4	has_surface_form	)
+19264_6	is_in_sentence	sentence_19264
+19264_6	det	19264_8
+19264_6	has_surface_form	a
+19264_8	is_in_sentence	sentence_19264
+19264_8	attr	19264_5
+19264_8	has_surface_form	poet
+19264_7	is_in_sentence	sentence_19264
+19264_7	amod	19264_8
+19264_7	is_entity	Scottish
+Scottish	surface_form	Scottish
+19264_9	is_in_sentence	sentence_19264
+19264_9	acl	19264_8
+19264_9	has_surface_form	associated
+19264_10	is_in_sentence	sentence_19264
+19264_10	prep	19264_9
+19264_10	has_surface_form	with
+19264_11	is_in_sentence	sentence_19264
+19264_11	det	19264_13
+19264_11	has_surface_form	the
+19264_13	is_in_sentence	sentence_19264
+19264_13	pobj	19264_10
+19264_13	has_surface_form	movement
+19264_12	is_in_sentence	sentence_19264
+19264_12	compound	19264_13
+19264_12	has_surface_form	Jacobite
+19264_14	is_in_sentence	sentence_19264
+19264_14	punct	19264_5
+19264_14	has_surface_form	.
+19264_15	is_in_sentence	sentence_19264
+19264_15	dep	19264_5
+19264_15	has_surface_form	
+William Hamilton	surface_form	William Hamilton
+William Hamilton	has-nationality	Scottish

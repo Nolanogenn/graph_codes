@@ -1,0 +1,60 @@
+4502_0	is_in_sentence	sentence_4502
+4502_0	nsubjpass	4502_2
+4502_0	is_entity	Wilson
+4502_2	is_in_sentence	sentence_4502
+4502_2	ROOT	4502_2
+4502_2	has_surface_form	born
+Wilson	surface_form	Wilson
+Wilson	has-parent	John C. Wilson
+4502_1	is_in_sentence	sentence_4502
+4502_1	auxpass	4502_2
+4502_1	has_surface_form	was
+4502_3	is_in_sentence	sentence_4502
+4502_3	prep	4502_2
+4502_3	has_surface_form	in
+4502_4	is_in_sentence	sentence_4502
+4502_4	compound	4502_5
+4502_4	has_surface_form	Christian
+4502_5	is_in_sentence	sentence_4502
+4502_5	pobj	4502_3
+4502_5	has_surface_form	County
+4502_6	is_in_sentence	sentence_4502
+4502_6	punct	4502_5
+4502_6	has_surface_form	,
+4502_7	is_in_sentence	sentence_4502
+4502_7	appos	4502_5
+4502_7	has_surface_form	Missouri
+4502_8	is_in_sentence	sentence_4502
+4502_8	advmod	4502_9
+4502_8	has_surface_form	just
+4502_9	is_in_sentence	sentence_4502
+4502_9	advmod	4502_2
+4502_9	has_surface_form	south
+4502_10	is_in_sentence	sentence_4502
+4502_10	prep	4502_9
+4502_10	has_surface_form	of
+4502_11	is_in_sentence	sentence_4502
+4502_11	pobj	4502_10
+4502_11	has_surface_form	Nixa
+4502_12	is_in_sentence	sentence_4502
+4502_12	prep	4502_2
+4502_12	has_surface_form	to
+4502_13	is_in_sentence	sentence_4502
+4502_13	compound	4502_15
+4502_13	has_surface_form	John
+4502_13	part_of_entity	John C. Wilson
+4502_15	is_in_sentence	sentence_4502
+4502_15	pobj	4502_12
+4502_15	is_entity	Wilson
+4502_15	part_of_entity	John C. Wilson
+4502_14	is_in_sentence	sentence_4502
+4502_14	compound	4502_15
+4502_14	has_surface_form	C.
+4502_14	part_of_entity	John C. Wilson
+4502_16	is_in_sentence	sentence_4502
+4502_16	punct	4502_2
+4502_16	has_surface_form	.
+4502_17	is_in_sentence	sentence_4502
+4502_17	dep	4502_2
+4502_17	has_surface_form	
+John C. Wilson	surface_form	John C. Wilson

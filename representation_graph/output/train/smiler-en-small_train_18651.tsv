@@ -1,0 +1,82 @@
+18650_0	is_in_sentence	sentence_18650
+18650_0	compound	18650_1
+18650_0	has_surface_form	Le
+18650_0	part_of_entity	Le Militaire
+18650_1	is_in_sentence	sentence_18650
+18650_1	nsubj	18650_7
+18650_1	has_surface_form	Militaire
+18650_1	part_of_entity	Le Militaire
+18650_7	is_in_sentence	sentence_18650
+18650_7	ROOT	18650_7
+18650_7	has_surface_form	is
+18650_2	is_in_sentence	sentence_18650
+18650_2	punct	18650_1
+18650_2	has_surface_form	(
+18650_3	is_in_sentence	sentence_18650
+18650_3	det	18650_5
+18650_3	has_surface_form	The
+18650_5	is_in_sentence	sentence_18650
+18650_5	appos	18650_1
+18650_5	has_surface_form	Man
+18650_4	is_in_sentence	sentence_18650
+18650_4	compound	18650_5
+18650_4	has_surface_form	Military
+18650_6	is_in_sentence	sentence_18650
+18650_6	punct	18650_1
+18650_6	has_surface_form	)
+18650_8	is_in_sentence	sentence_18650
+18650_8	det	18650_12
+18650_8	has_surface_form	a
+18650_12	is_in_sentence	sentence_18650
+18650_12	attr	18650_7
+18650_12	has_surface_form	film
+18650_9	is_in_sentence	sentence_18650
+18650_9	nummod	18650_12
+18650_9	has_surface_form	2014
+18650_10	is_in_sentence	sentence_18650
+18650_10	amod	18650_12
+18650_10	has_surface_form	Canadian
+18650_11	is_in_sentence	sentence_18650
+18650_11	compound	18650_12
+18650_11	has_surface_form	drama
+18650_13	is_in_sentence	sentence_18650
+18650_13	acl	18650_12
+18650_13	has_surface_form	starring
+18650_14	is_in_sentence	sentence_18650
+18650_14	compound	18650_15
+18650_14	has_surface_form	Laurent
+18650_14	part_of_entity	Laurent Lucas
+18650_15	is_in_sentence	sentence_18650
+18650_15	dobj	18650_13
+18650_15	has_surface_form	Lucas
+18650_15	part_of_entity	Laurent Lucas
+18650_16	is_in_sentence	sentence_18650
+18650_16	punct	18650_15
+18650_16	has_surface_form	,
+18650_17	is_in_sentence	sentence_18650
+18650_17	acl	18650_15
+18650_17	has_surface_form	written
+18650_18	is_in_sentence	sentence_18650
+18650_18	cc	18650_17
+18650_18	has_surface_form	and
+18650_19	is_in_sentence	sentence_18650
+18650_19	conj	18650_17
+18650_19	has_surface_form	directed
+18650_20	is_in_sentence	sentence_18650
+18650_20	agent	18650_19
+18650_20	has_surface_form	by
+18650_21	is_in_sentence	sentence_18650
+18650_21	compound	18650_22
+18650_21	has_surface_form	Noël
+18650_22	is_in_sentence	sentence_18650
+18650_22	pobj	18650_20
+18650_22	has_surface_form	Mitrani
+18650_23	is_in_sentence	sentence_18650
+18650_23	punct	18650_7
+18650_23	has_surface_form	.
+18650_24	is_in_sentence	sentence_18650
+18650_24	dep	18650_24
+18650_24	has_surface_form	
+Le Militaire	surface_form	Le Militaire
+Le Militaire	starring	Laurent Lucas
+Laurent Lucas	surface_form	Laurent Lucas

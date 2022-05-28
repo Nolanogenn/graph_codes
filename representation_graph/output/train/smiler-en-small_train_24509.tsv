@@ -1,0 +1,67 @@
+24508_0	is_in_sentence	sentence_24508
+24508_0	compound	24508_1
+24508_0	has_surface_form	Bob
+24508_0	part_of_entity	Bob Shoop
+24508_1	is_in_sentence	sentence_24508
+24508_1	nsubj	24508_9
+24508_1	has_surface_form	Shoop
+24508_1	part_of_entity	Bob Shoop
+24508_9	is_in_sentence	sentence_24508
+24508_9	ROOT	24508_9
+24508_9	has_surface_form	is
+24508_2	is_in_sentence	sentence_24508
+24508_2	punct	24508_1
+24508_2	has_surface_form	(
+24508_3	is_in_sentence	sentence_24508
+24508_3	acl	24508_1
+24508_3	has_surface_form	born
+24508_4	is_in_sentence	sentence_24508
+24508_4	npadvmod	24508_3
+24508_4	has_surface_form	August
+24508_5	is_in_sentence	sentence_24508
+24508_5	nummod	24508_4
+24508_5	has_surface_form	18
+24508_6	is_in_sentence	sentence_24508
+24508_6	punct	24508_4
+24508_6	has_surface_form	,
+24508_7	is_in_sentence	sentence_24508
+24508_7	nummod	24508_4
+24508_7	has_surface_form	1966
+24508_8	is_in_sentence	sentence_24508
+24508_8	punct	24508_1
+24508_8	has_surface_form	)
+24508_10	is_in_sentence	sentence_24508
+24508_10	det	24508_14
+24508_10	has_surface_form	an
+24508_14	is_in_sentence	sentence_24508
+24508_14	attr	24508_9
+24508_14	has_surface_form	coach
+24508_14	part_of_entity	football coach
+24508_11	is_in_sentence	sentence_24508
+24508_11	amod	24508_14
+24508_11	has_surface_form	American
+24508_12	is_in_sentence	sentence_24508
+24508_12	compound	24508_13
+24508_12	has_surface_form	college
+24508_13	is_in_sentence	sentence_24508
+24508_13	compound	24508_14
+24508_13	has_surface_form	football
+24508_13	part_of_entity	football coach
+24508_15	is_in_sentence	sentence_24508
+24508_15	cc	24508_14
+24508_15	has_surface_form	and
+24508_16	is_in_sentence	sentence_24508
+24508_16	amod	24508_17
+24508_16	has_surface_form	former
+24508_17	is_in_sentence	sentence_24508
+24508_17	conj	24508_14
+24508_17	has_surface_form	player
+24508_18	is_in_sentence	sentence_24508
+24508_18	punct	24508_9
+24508_18	has_surface_form	.
+24508_19	is_in_sentence	sentence_24508
+24508_19	dep	24508_19
+24508_19	has_surface_form	
+Bob Shoop	surface_form	Bob Shoop
+Bob Shoop	has-type	football coach
+football coach	surface_form	football coach

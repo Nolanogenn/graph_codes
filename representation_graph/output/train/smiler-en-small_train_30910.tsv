@@ -1,0 +1,107 @@
+30909_0	is_in_sentence	sentence_30909
+30909_0	compound	30909_1
+30909_0	has_surface_form	Andriy
+30909_0	part_of_entity	Andriy Marchuk
+30909_1	is_in_sentence	sentence_30909
+30909_1	nsubj	30909_14
+30909_1	has_surface_form	Marchuk
+30909_1	part_of_entity	Andriy Marchuk
+30909_14	is_in_sentence	sentence_30909
+30909_14	ROOT	30909_14
+30909_14	has_surface_form	is
+30909_2	is_in_sentence	sentence_30909
+30909_2	punct	30909_1
+30909_2	has_surface_form	(
+30909_3	is_in_sentence	sentence_30909
+30909_3	appos	30909_1
+30909_3	has_surface_form	Ukrainian
+30909_4	is_in_sentence	sentence_30909
+30909_4	punct	30909_1
+30909_4	has_surface_form	:
+30909_5	is_in_sentence	sentence_30909
+30909_5	compound	30909_7
+30909_5	has_surface_form	Андрій
+30909_7	is_in_sentence	sentence_30909
+30909_7	appos	30909_1
+30909_7	has_surface_form	Марчук
+30909_6	is_in_sentence	sentence_30909
+30909_6	compound	30909_7
+30909_6	has_surface_form	Миколайович
+30909_8	is_in_sentence	sentence_30909
+30909_8	punct	30909_7
+30909_8	has_surface_form	;
+30909_9	is_in_sentence	sentence_30909
+30909_9	acl	30909_7
+30909_9	has_surface_form	born
+30909_10	is_in_sentence	sentence_30909
+30909_10	nummod	30909_11
+30909_10	has_surface_form	25
+30909_11	is_in_sentence	sentence_30909
+30909_11	npadvmod	30909_9
+30909_11	has_surface_form	June
+30909_12	is_in_sentence	sentence_30909
+30909_12	nummod	30909_11
+30909_12	has_surface_form	1997
+30909_13	is_in_sentence	sentence_30909
+30909_13	punct	30909_9
+30909_13	has_surface_form	)
+30909_15	is_in_sentence	sentence_30909
+30909_15	det	30909_19
+30909_15	has_surface_form	a
+30909_19	is_in_sentence	sentence_30909
+30909_19	attr	30909_14
+30909_19	has_surface_form	goalkeeper
+30909_16	is_in_sentence	sentence_30909
+30909_16	amod	30909_19
+30909_16	has_surface_form	professional
+30909_17	is_in_sentence	sentence_30909
+30909_17	amod	30909_19
+30909_17	has_surface_form	Ukrainian
+30909_18	is_in_sentence	sentence_30909
+30909_18	compound	30909_19
+30909_18	has_surface_form	football
+30909_20	is_in_sentence	sentence_30909
+30909_20	nsubj	30909_21
+30909_20	has_surface_form	who
+30909_21	is_in_sentence	sentence_30909
+30909_21	relcl	30909_19
+30909_21	has_surface_form	plays
+30909_22	is_in_sentence	sentence_30909
+30909_22	prep	30909_21
+30909_22	has_surface_form	for
+30909_23	is_in_sentence	sentence_30909
+30909_23	compound	30909_25
+30909_23	has_surface_form	FC
+30909_23	part_of_entity	FC Volyn Lutsk
+30909_25	is_in_sentence	sentence_30909
+30909_25	pobj	30909_22
+30909_25	has_surface_form	Lutsk
+30909_25	part_of_entity	FC Volyn Lutsk
+30909_24	is_in_sentence	sentence_30909
+30909_24	compound	30909_25
+30909_24	has_surface_form	Volyn
+30909_24	part_of_entity	FC Volyn Lutsk
+30909_26	is_in_sentence	sentence_30909
+30909_26	prep	30909_25
+30909_26	has_surface_form	in
+30909_27	is_in_sentence	sentence_30909
+30909_27	det	30909_30
+30909_27	has_surface_form	the
+30909_30	is_in_sentence	sentence_30909
+30909_30	pobj	30909_26
+30909_30	has_surface_form	League
+30909_28	is_in_sentence	sentence_30909
+30909_28	amod	30909_30
+30909_28	has_surface_form	Ukrainian
+30909_29	is_in_sentence	sentence_30909
+30909_29	compound	30909_30
+30909_29	has_surface_form	Premier
+30909_31	is_in_sentence	sentence_30909
+30909_31	punct	30909_14
+30909_31	has_surface_form	.
+30909_32	is_in_sentence	sentence_30909
+30909_32	dep	30909_14
+30909_32	has_surface_form	
+Andriy Marchuk	surface_form	Andriy Marchuk
+Andriy Marchuk	is-member-of	FC Volyn Lutsk
+FC Volyn Lutsk	surface_form	FC Volyn Lutsk

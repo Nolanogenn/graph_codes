@@ -1,0 +1,69 @@
+1973_0	is_in_sentence	sentence_1973
+1973_0	det	1973_2
+1973_0	has_surface_form	The
+1973_0	part_of_entity	The Trusted Outlaw
+1973_2	is_in_sentence	sentence_1973
+1973_2	nsubj	1973_3
+1973_2	has_surface_form	Outlaw
+1973_2	part_of_entity	The Trusted Outlaw
+1973_1	is_in_sentence	sentence_1973
+1973_1	compound	1973_2
+1973_1	has_surface_form	Trusted
+1973_1	part_of_entity	The Trusted Outlaw
+1973_3	is_in_sentence	sentence_1973
+1973_3	ROOT	1973_3
+1973_3	has_surface_form	is
+1973_4	is_in_sentence	sentence_1973
+1973_4	det	1973_8
+1973_4	has_surface_form	a
+1973_8	is_in_sentence	sentence_1973
+1973_8	attr	1973_3
+1973_8	has_surface_form	film
+1973_5	is_in_sentence	sentence_1973
+1973_5	nummod	1973_8
+1973_5	has_surface_form	1937
+1973_6	is_in_sentence	sentence_1973
+1973_6	amod	1973_8
+1973_6	has_surface_form	American
+1973_7	is_in_sentence	sentence_1973
+1973_7	amod	1973_8
+1973_7	has_surface_form	Western
+1973_9	is_in_sentence	sentence_1973
+1973_9	acl	1973_8
+1973_9	has_surface_form	directed
+1973_10	is_in_sentence	sentence_1973
+1973_10	agent	1973_9
+1973_10	has_surface_form	by
+1973_11	is_in_sentence	sentence_1973
+1973_11	compound	1973_13
+1973_11	has_surface_form	Robert
+1973_11	part_of_entity	Robert N. Bradbury
+1973_13	is_in_sentence	sentence_1973
+1973_13	pobj	1973_10
+1973_13	has_surface_form	Bradbury
+1973_13	part_of_entity	Robert N. Bradbury
+1973_12	is_in_sentence	sentence_1973
+1973_12	compound	1973_13
+1973_12	has_surface_form	N.
+1973_12	part_of_entity	Robert N. Bradbury
+1973_14	is_in_sentence	sentence_1973
+1973_14	punct	1973_13
+1973_14	has_surface_form	,
+1973_15	is_in_sentence	sentence_1973
+1973_15	acl	1973_13
+1973_15	has_surface_form	written
+1973_16	is_in_sentence	sentence_1973
+1973_16	agent	1973_15
+1973_16	has_surface_form	by
+1973_17	is_in_sentence	sentence_1973
+1973_17	compound	1973_18
+1973_17	has_surface_form	George
+1973_18	is_in_sentence	sentence_1973
+1973_18	pobj	1973_16
+1973_18	has_surface_form	H.
+1973_19	is_in_sentence	sentence_1973
+1973_19	dep	1973_15
+1973_19	has_surface_form	
+The Trusted Outlaw	surface_form	The Trusted Outlaw
+The Trusted Outlaw	movie-has-director	Robert N. Bradbury
+Robert N. Bradbury	surface_form	Robert N. Bradbury

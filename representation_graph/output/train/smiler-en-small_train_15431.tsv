@@ -1,0 +1,54 @@
+15430_0	is_in_sentence	sentence_15430
+15430_0	compound	15430_2
+15430_0	has_surface_form	King
+15430_0	part_of_entity	King Air Charter
+15430_2	is_in_sentence	sentence_15430
+15430_2	nsubj	15430_3
+15430_2	has_surface_form	Charter
+15430_2	part_of_entity	King Air Charter
+15430_1	is_in_sentence	sentence_15430
+15430_1	compound	15430_2
+15430_1	has_surface_form	Air
+15430_1	part_of_entity	King Air Charter
+15430_3	is_in_sentence	sentence_15430
+15430_3	ROOT	15430_3
+15430_3	has_surface_form	is
+15430_4	is_in_sentence	sentence_15430
+15430_4	det	15430_6
+15430_4	has_surface_form	a
+15430_6	is_in_sentence	sentence_15430
+15430_6	attr	15430_3
+15430_6	has_surface_form	airline
+15430_5	is_in_sentence	sentence_15430
+15430_5	compound	15430_6
+15430_5	has_surface_form	charter
+15430_7	is_in_sentence	sentence_15430
+15430_7	punct	15430_6
+15430_7	has_surface_form	,
+15430_8	is_in_sentence	sentence_15430
+15430_8	acl	15430_6
+15430_8	has_surface_form	based
+15430_9	is_in_sentence	sentence_15430
+15430_9	prep	15430_8
+15430_9	has_surface_form	in
+15430_10	is_in_sentence	sentence_15430
+15430_10	pobj	15430_9
+15430_10	is_entity	Lanseria
+Lanseria	surface_form	Lanseria
+15430_11	is_in_sentence	sentence_15430
+15430_11	punct	15430_10
+15430_11	has_surface_form	,
+15430_12	is_in_sentence	sentence_15430
+15430_12	compound	15430_13
+15430_12	has_surface_form	South
+15430_13	is_in_sentence	sentence_15430
+15430_13	appos	15430_10
+15430_13	has_surface_form	Africa
+15430_14	is_in_sentence	sentence_15430
+15430_14	punct	15430_3
+15430_14	has_surface_form	.
+15430_15	is_in_sentence	sentence_15430
+15430_15	dep	15430_15
+15430_15	has_surface_form	
+King Air Charter	surface_form	King Air Charter
+King Air Charter	headquarters	Lanseria

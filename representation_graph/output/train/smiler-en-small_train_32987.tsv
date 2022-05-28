@@ -1,0 +1,41 @@
+32986_0	is_in_sentence	sentence_32986
+32986_0	compound	32986_2
+32986_0	has_surface_form	Carl
+32986_0	part_of_entity	Carl Milton Smith
+32986_2	is_in_sentence	sentence_32986
+32986_2	nsubj	32986_3
+32986_2	has_surface_form	Smith
+32986_2	part_of_entity	Carl Milton Smith
+32986_1	is_in_sentence	sentence_32986
+32986_1	compound	32986_2
+32986_1	has_surface_form	Milton
+32986_1	part_of_entity	Carl Milton Smith
+32986_3	is_in_sentence	sentence_32986
+32986_3	ROOT	32986_3
+32986_3	has_surface_form	was
+32986_4	is_in_sentence	sentence_32986
+32986_4	det	32986_5
+32986_4	has_surface_form	the
+32986_5	is_in_sentence	sentence_32986
+32986_5	attr	32986_3
+32986_5	has_surface_form	father
+32986_6	is_in_sentence	sentence_32986
+32986_6	prep	32986_5
+32986_6	has_surface_form	of
+32986_7	is_in_sentence	sentence_32986
+32986_7	compound	32986_8
+32986_7	has_surface_form	Carlene
+32986_7	part_of_entity	Carlene Carter
+32986_8	is_in_sentence	sentence_32986
+32986_8	pobj	32986_6
+32986_8	has_surface_form	Carter
+32986_8	part_of_entity	Carlene Carter
+32986_9	is_in_sentence	sentence_32986
+32986_9	punct	32986_3
+32986_9	has_surface_form	.
+32986_10	is_in_sentence	sentence_32986
+32986_10	dep	32986_10
+32986_10	has_surface_form	
+Carl Milton Smith	surface_form	Carl Milton Smith
+Carl Milton Smith	has-child	Carlene Carter
+Carlene Carter	surface_form	Carlene Carter

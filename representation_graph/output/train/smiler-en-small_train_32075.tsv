@@ -1,0 +1,82 @@
+32074_0	is_in_sentence	sentence_32074
+32074_0	compound	32074_1
+32074_0	has_surface_form	Masaya
+32074_0	part_of_entity	Masaya Takatsuka
+32074_1	is_in_sentence	sentence_32074
+32074_1	nsubj	32074_18
+32074_1	has_surface_form	Takatsuka
+32074_1	part_of_entity	Masaya Takatsuka
+32074_18	is_in_sentence	sentence_32074
+32074_18	ROOT	32074_18
+32074_18	has_surface_form	is
+32074_2	is_in_sentence	sentence_32074
+32074_2	punct	32074_1
+32074_2	has_surface_form	(
+32074_3	is_in_sentence	sentence_32074
+32074_3	compound	32074_4
+32074_3	has_surface_form	高塚
+32074_4	is_in_sentence	sentence_32074
+32074_4	appos	32074_1
+32074_4	has_surface_form	正也
+32074_5	is_in_sentence	sentence_32074
+32074_5	punct	32074_4
+32074_5	has_surface_form	,
+32074_6	is_in_sentence	sentence_32074
+32074_6	compound	32074_7
+32074_6	has_surface_form	Takatsuka
+32074_7	is_in_sentence	sentence_32074
+32074_7	appos	32074_1
+32074_7	has_surface_form	Masaya
+32074_8	is_in_sentence	sentence_32074
+32074_8	punct	32074_7
+32074_8	has_surface_form	,
+32074_9	is_in_sentence	sentence_32074
+32074_9	acl	32074_7
+32074_9	has_surface_form	born
+32074_10	is_in_sentence	sentence_32074
+32074_10	npadvmod	32074_9
+32074_10	has_surface_form	August
+32074_11	is_in_sentence	sentence_32074
+32074_11	nummod	32074_10
+32074_11	has_surface_form	15
+32074_12	is_in_sentence	sentence_32074
+32074_12	punct	32074_10
+32074_12	has_surface_form	,
+32074_13	is_in_sentence	sentence_32074
+32074_13	nummod	32074_10
+32074_13	has_surface_form	1969
+32074_14	is_in_sentence	sentence_32074
+32074_14	prep	32074_9
+32074_14	has_surface_form	in
+32074_15	is_in_sentence	sentence_32074
+32074_15	compound	32074_16
+32074_15	has_surface_form	Hyōgo
+32074_15	part_of_entity	Hyōgo Prefecture
+32074_16	is_in_sentence	sentence_32074
+32074_16	pobj	32074_14
+32074_16	has_surface_form	Prefecture
+32074_16	part_of_entity	Hyōgo Prefecture
+32074_17	is_in_sentence	sentence_32074
+32074_17	punct	32074_7
+32074_17	has_surface_form	)
+32074_19	is_in_sentence	sentence_32074
+32074_19	det	32074_22
+32074_19	has_surface_form	a
+32074_22	is_in_sentence	sentence_32074
+32074_22	attr	32074_18
+32074_22	has_surface_form	actor
+32074_20	is_in_sentence	sentence_32074
+32074_20	amod	32074_22
+32074_20	has_surface_form	Japanese
+32074_21	is_in_sentence	sentence_32074
+32074_21	compound	32074_22
+32074_21	has_surface_form	voice
+32074_23	is_in_sentence	sentence_32074
+32074_23	punct	32074_18
+32074_23	has_surface_form	.
+32074_24	is_in_sentence	sentence_32074
+32074_24	dep	32074_18
+32074_24	has_surface_form	
+Masaya Takatsuka	surface_form	Masaya Takatsuka
+Masaya Takatsuka	birth-place	Hyōgo Prefecture
+Hyōgo Prefecture	surface_form	Hyōgo Prefecture

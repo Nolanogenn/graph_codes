@@ -1,0 +1,64 @@
+5462_0	is_in_sentence	sentence_5462
+5462_0	compound	5462_1
+5462_0	has_surface_form	Roy
+5462_0	part_of_entity	Roy Lester
+5462_1	is_in_sentence	sentence_5462
+5462_1	nsubj	5462_7
+5462_1	has_surface_form	Lester
+5462_1	part_of_entity	Roy Lester
+5462_7	is_in_sentence	sentence_5462
+5462_7	ROOT	5462_7
+5462_7	has_surface_form	is
+5462_2	is_in_sentence	sentence_5462
+5462_2	punct	5462_1
+5462_2	has_surface_form	(
+5462_3	is_in_sentence	sentence_5462
+5462_3	acl	5462_1
+5462_3	has_surface_form	born
+5462_4	is_in_sentence	sentence_5462
+5462_4	npadvmod	5462_3
+5462_4	has_surface_form	c.
+5462_5	is_in_sentence	sentence_5462
+5462_5	nummod	5462_4
+5462_5	has_surface_form	1923
+5462_6	is_in_sentence	sentence_5462
+5462_6	punct	5462_1
+5462_6	has_surface_form	)
+5462_8	is_in_sentence	sentence_5462
+5462_8	det	5462_16
+5462_8	has_surface_form	an
+5462_16	is_in_sentence	sentence_5462
+5462_16	attr	5462_7
+5462_16	has_surface_form	coach
+5462_16	part_of_entity	football coach
+5462_9	is_in_sentence	sentence_5462
+5462_9	amod	5462_16
+5462_9	has_surface_form	American
+5462_10	is_in_sentence	sentence_5462
+5462_10	amod	5462_16
+5462_10	has_surface_form	former
+5462_11	is_in_sentence	sentence_5462
+5462_11	nmod	5462_15
+5462_11	has_surface_form	college
+5462_15	is_in_sentence	sentence_5462
+5462_15	compound	5462_16
+5462_15	has_surface_form	football
+5462_15	part_of_entity	football coach
+5462_12	is_in_sentence	sentence_5462
+5462_12	cc	5462_11
+5462_12	has_surface_form	and
+5462_13	is_in_sentence	sentence_5462
+5462_13	amod	5462_14
+5462_13	has_surface_form	high
+5462_14	is_in_sentence	sentence_5462
+5462_14	conj	5462_11
+5462_14	has_surface_form	school
+5462_17	is_in_sentence	sentence_5462
+5462_17	punct	5462_7
+5462_17	has_surface_form	.
+5462_18	is_in_sentence	sentence_5462
+5462_18	dep	5462_18
+5462_18	has_surface_form	
+Roy Lester	surface_form	Roy Lester
+Roy Lester	has-type	football coach
+football coach	surface_form	football coach

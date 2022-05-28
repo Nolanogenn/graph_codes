@@ -1,0 +1,48 @@
+20135_0	is_in_sentence	sentence_20135
+20135_0	det	20135_1
+20135_0	has_surface_form	An
+20135_1	is_in_sentence	sentence_20135
+20135_1	nmod	20135_4
+20135_1	has_surface_form	indultado
+20135_1	part_of_entity	indultado bull
+20135_4	is_in_sentence	sentence_20135
+20135_4	nsubj	20135_6
+20135_4	has_surface_form	lifespan
+20135_2	is_in_sentence	sentence_20135
+20135_2	poss	20135_4
+20135_2	has_surface_form	bull
+20135_2	part_of_entity	indultado bull
+20135_3	is_in_sentence	sentence_20135
+20135_3	case	20135_2
+20135_3	has_surface_form	's
+20135_6	is_in_sentence	sentence_20135
+20135_6	ROOT	20135_6
+20135_6	has_surface_form	be
+20135_5	is_in_sentence	sentence_20135
+20135_5	aux	20135_6
+20135_5	has_surface_form	can
+20135_7	is_in_sentence	sentence_20135
+20135_7	quantmod	20135_9
+20135_7	has_surface_form	20
+20135_7	part_of_entity	20 to 25 years
+20135_9	is_in_sentence	sentence_20135
+20135_9	nummod	20135_10
+20135_9	has_surface_form	25
+20135_9	part_of_entity	20 to 25 years
+20135_8	is_in_sentence	sentence_20135
+20135_8	quantmod	20135_9
+20135_8	has_surface_form	to
+20135_8	part_of_entity	20 to 25 years
+20135_10	is_in_sentence	sentence_20135
+20135_10	attr	20135_6
+20135_10	has_surface_form	years
+20135_10	part_of_entity	20 to 25 years
+20135_11	is_in_sentence	sentence_20135
+20135_11	punct	20135_6
+20135_11	has_surface_form	.
+20135_12	is_in_sentence	sentence_20135
+20135_12	dep	20135_12
+20135_12	has_surface_form	
+indultado bull	surface_form	indultado bull
+indultado bull	has-lifespan	20 to 25 years
+20 to 25 years	surface_form	20 to 25 years

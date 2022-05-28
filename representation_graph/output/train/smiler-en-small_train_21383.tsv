@@ -1,0 +1,80 @@
+21382_0	is_in_sentence	sentence_21382
+21382_0	compound	21382_1
+21382_0	has_surface_form	Confidential
+21382_0	part_of_entity	Confidential Lady
+21382_1	is_in_sentence	sentence_21382
+21382_1	nsubj	21382_2
+21382_1	has_surface_form	Lady
+21382_1	part_of_entity	Confidential Lady
+21382_2	is_in_sentence	sentence_21382
+21382_2	ROOT	21382_2
+21382_2	has_surface_form	is
+21382_3	is_in_sentence	sentence_21382
+21382_3	det	21382_8
+21382_3	has_surface_form	a
+21382_8	is_in_sentence	sentence_21382
+21382_8	attr	21382_2
+21382_8	has_surface_form	film
+21382_4	is_in_sentence	sentence_21382
+21382_4	nummod	21382_8
+21382_4	has_surface_form	1939
+21382_5	is_in_sentence	sentence_21382
+21382_5	amod	21382_8
+21382_5	has_surface_form	British
+21382_6	is_in_sentence	sentence_21382
+21382_6	compound	21382_8
+21382_6	has_surface_form	comedy
+21382_7	is_in_sentence	sentence_21382
+21382_7	compound	21382_8
+21382_7	has_surface_form	drama
+21382_9	is_in_sentence	sentence_21382
+21382_9	punct	21382_8
+21382_9	has_surface_form	,
+21382_10	is_in_sentence	sentence_21382
+21382_10	acl	21382_8
+21382_10	has_surface_form	directed
+21382_11	is_in_sentence	sentence_21382
+21382_11	agent	21382_10
+21382_11	has_surface_form	by
+21382_12	is_in_sentence	sentence_21382
+21382_12	compound	21382_14
+21382_12	has_surface_form	Arthur
+21382_12	part_of_entity	Arthur B. Woods
+21382_14	is_in_sentence	sentence_21382
+21382_14	pobj	21382_11
+21382_14	has_surface_form	Woods
+21382_14	part_of_entity	Arthur B. Woods
+21382_13	is_in_sentence	sentence_21382
+21382_13	compound	21382_14
+21382_13	has_surface_form	B.
+21382_13	part_of_entity	Arthur B. Woods
+21382_15	is_in_sentence	sentence_21382
+21382_15	cc	21382_10
+21382_15	has_surface_form	and
+21382_16	is_in_sentence	sentence_21382
+21382_16	conj	21382_10
+21382_16	has_surface_form	starring
+21382_17	is_in_sentence	sentence_21382
+21382_17	compound	21382_18
+21382_17	has_surface_form	Ben
+21382_18	is_in_sentence	sentence_21382
+21382_18	dobj	21382_16
+21382_18	has_surface_form	Lyon
+21382_19	is_in_sentence	sentence_21382
+21382_19	cc	21382_18
+21382_19	has_surface_form	and
+21382_20	is_in_sentence	sentence_21382
+21382_20	compound	21382_21
+21382_20	has_surface_form	Jane
+21382_21	is_in_sentence	sentence_21382
+21382_21	conj	21382_18
+21382_21	has_surface_form	Baxter
+21382_22	is_in_sentence	sentence_21382
+21382_22	punct	21382_2
+21382_22	has_surface_form	.
+21382_23	is_in_sentence	sentence_21382
+21382_23	dep	21382_2
+21382_23	has_surface_form	
+Confidential Lady	surface_form	Confidential Lady
+Confidential Lady	movie-has-director	Arthur B. Woods
+Arthur B. Woods	surface_form	Arthur B. Woods

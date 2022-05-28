@@ -1,0 +1,53 @@
+2654_0	is_in_sentence	sentence_2654
+2654_0	nsubjpass	2654_2
+2654_0	is_entity	Jones
+2654_2	is_in_sentence	sentence_2654
+2654_2	ROOT	2654_2
+2654_2	has_surface_form	married
+Jones	surface_form	Jones
+Jones	has-child	Jack Jones
+2654_1	is_in_sentence	sentence_2654
+2654_1	auxpass	2654_2
+2654_1	has_surface_form	was
+2654_3	is_in_sentence	sentence_2654
+2654_3	nummod	2654_4
+2654_3	has_surface_form	four
+2654_4	is_in_sentence	sentence_2654
+2654_4	npadvmod	2654_2
+2654_4	has_surface_form	times
+2654_5	is_in_sentence	sentence_2654
+2654_5	punct	2654_2
+2654_5	has_surface_form	.
+2654_6	is_in_sentence	sentence_2654
+2654_6	poss	2654_7
+2654_6	has_surface_form	Their
+2654_7	is_in_sentence	sentence_2654
+2654_7	nsubj	2654_8
+2654_7	has_surface_form	son
+2654_8	is_in_sentence	sentence_2654
+2654_8	ROOT	2654_8
+2654_8	has_surface_form	is
+2654_9	is_in_sentence	sentence_2654
+2654_9	amod	2654_11
+2654_9	has_surface_form	American
+2654_11	is_in_sentence	sentence_2654
+2654_11	compound	2654_13
+2654_11	has_surface_form	singer
+2654_10	is_in_sentence	sentence_2654
+2654_10	compound	2654_11
+2654_10	has_surface_form	pop
+2654_13	is_in_sentence	sentence_2654
+2654_13	attr	2654_8
+2654_13	is_entity	Jones
+2654_13	part_of_entity	Jack Jones
+2654_12	is_in_sentence	sentence_2654
+2654_12	compound	2654_13
+2654_12	has_surface_form	Jack
+2654_12	part_of_entity	Jack Jones
+2654_14	is_in_sentence	sentence_2654
+2654_14	punct	2654_8
+2654_14	has_surface_form	.
+2654_15	is_in_sentence	sentence_2654
+2654_15	dep	2654_8
+2654_15	has_surface_form	
+Jack Jones	surface_form	Jack Jones

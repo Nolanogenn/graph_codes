@@ -1,0 +1,45 @@
+30958_0	is_in_sentence	sentence_30958
+30958_0	compound	30958_1
+30958_0	has_surface_form	Johnson
+30958_0	part_of_entity	Johnson University Florida
+30958_1	is_in_sentence	sentence_30958
+30958_1	compound	30958_2
+30958_1	has_surface_form	University
+30958_1	part_of_entity	Johnson University Florida
+30958_2	is_in_sentence	sentence_30958
+30958_2	nsubj	30958_3
+30958_2	has_surface_form	Florida
+30958_2	part_of_entity	Johnson University Florida
+30958_3	is_in_sentence	sentence_30958
+30958_3	ROOT	30958_3
+30958_3	has_surface_form	is
+30958_4	is_in_sentence	sentence_30958
+30958_4	det	30958_6
+30958_4	has_surface_form	a
+30958_6	is_in_sentence	sentence_30958
+30958_6	attr	30958_3
+30958_6	has_surface_form	university
+30958_5	is_in_sentence	sentence_30958
+30958_5	amod	30958_6
+30958_5	has_surface_form	private
+30958_7	is_in_sentence	sentence_30958
+30958_7	prep	30958_6
+30958_7	has_surface_form	in
+30958_8	is_in_sentence	sentence_30958
+30958_8	pobj	30958_7
+30958_8	has_surface_form	Kissimmee
+30958_9	is_in_sentence	sentence_30958
+30958_9	punct	30958_8
+30958_9	has_surface_form	,
+30958_10	is_in_sentence	sentence_30958
+30958_10	appos	30958_8
+30958_10	has_surface_form	Florida
+30958_11	is_in_sentence	sentence_30958
+30958_11	punct	30958_3
+30958_11	has_surface_form	.
+30958_12	is_in_sentence	sentence_30958
+30958_12	dep	30958_12
+30958_12	has_surface_form	
+Johnson University Florida	surface_form	Johnson University Florida
+Johnson University Florida	is-where	Kissimmee, Florida
+Kissimmee, Florida	surface_form	Kissimmee, Florida

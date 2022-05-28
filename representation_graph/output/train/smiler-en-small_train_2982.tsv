@@ -1,0 +1,59 @@
+2981_0	is_in_sentence	sentence_2981
+2981_0	compound	2981_1
+2981_0	has_surface_form	Christophe
+2981_0	part_of_entity	Christophe Malavoy
+2981_1	is_in_sentence	sentence_2981
+2981_1	nsubj	2981_12
+2981_1	has_surface_form	Malavoy
+2981_1	part_of_entity	Christophe Malavoy
+2981_12	is_in_sentence	sentence_2981
+2981_12	ROOT	2981_12
+2981_12	has_surface_form	is
+2981_2	is_in_sentence	sentence_2981
+2981_2	punct	2981_1
+2981_2	has_surface_form	,
+2981_3	is_in_sentence	sentence_2981
+2981_3	acl	2981_1
+2981_3	has_surface_form	born
+2981_4	is_in_sentence	sentence_2981
+2981_4	nummod	2981_5
+2981_4	has_surface_form	21
+2981_5	is_in_sentence	sentence_2981
+2981_5	npadvmod	2981_3
+2981_5	has_surface_form	March
+2981_6	is_in_sentence	sentence_2981
+2981_6	nummod	2981_5
+2981_6	has_surface_form	1952
+2981_7	is_in_sentence	sentence_2981
+2981_7	prep	2981_3
+2981_7	has_surface_form	in
+2981_8	is_in_sentence	sentence_2981
+2981_8	pobj	2981_7
+2981_8	is_entity	Reutlingen
+Reutlingen	surface_form	Reutlingen
+2981_9	is_in_sentence	sentence_2981
+2981_9	punct	2981_8
+2981_9	has_surface_form	,
+2981_10	is_in_sentence	sentence_2981
+2981_10	appos	2981_8
+2981_10	has_surface_form	Germany
+2981_11	is_in_sentence	sentence_2981
+2981_11	punct	2981_8
+2981_11	has_surface_form	,
+2981_13	is_in_sentence	sentence_2981
+2981_13	det	2981_15
+2981_13	has_surface_form	a
+2981_15	is_in_sentence	sentence_2981
+2981_15	attr	2981_12
+2981_15	has_surface_form	actor
+2981_14	is_in_sentence	sentence_2981
+2981_14	amod	2981_15
+2981_14	has_surface_form	French
+2981_16	is_in_sentence	sentence_2981
+2981_16	punct	2981_12
+2981_16	has_surface_form	.
+2981_17	is_in_sentence	sentence_2981
+2981_17	dep	2981_17
+2981_17	has_surface_form	
+Christophe Malavoy	surface_form	Christophe Malavoy
+Christophe Malavoy	birth-place	Reutlingen

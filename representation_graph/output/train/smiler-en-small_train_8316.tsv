@@ -1,0 +1,80 @@
+8315_0	is_in_sentence	sentence_8315
+8315_0	ROOT	8315_0
+8315_0	has_surface_form	Held
+8315_0	part_of_entity	Held In Trust
+8315_1	is_in_sentence	sentence_8315
+8315_1	prep	8315_0
+8315_1	has_surface_form	In
+8315_1	part_of_entity	Held In Trust
+8315_2	is_in_sentence	sentence_8315
+8315_2	pobj	8315_1
+8315_2	has_surface_form	Trust
+8315_2	part_of_entity	Held In Trust
+8315_3	is_in_sentence	sentence_8315
+8315_3	auxpass	8315_0
+8315_3	has_surface_form	is
+8315_4	is_in_sentence	sentence_8315
+8315_4	det	8315_10
+8315_4	has_surface_form	a
+8315_10	is_in_sentence	sentence_8315
+8315_10	attr	8315_3
+8315_10	has_surface_form	film
+8315_5	is_in_sentence	sentence_8315
+8315_5	amod	8315_10
+8315_5	has_surface_form	lost
+8315_6	is_in_sentence	sentence_8315
+8315_6	nummod	8315_10
+8315_6	has_surface_form	1920
+8315_7	is_in_sentence	sentence_8315
+8315_7	amod	8315_10
+8315_7	has_surface_form	American
+8315_8	is_in_sentence	sentence_8315
+8315_8	amod	8315_10
+8315_8	has_surface_form	silent
+8315_9	is_in_sentence	sentence_8315
+8315_9	compound	8315_10
+8315_9	has_surface_form	romance
+8315_11	is_in_sentence	sentence_8315
+8315_11	acl	8315_10
+8315_11	has_surface_form	directed
+8315_12	is_in_sentence	sentence_8315
+8315_12	agent	8315_11
+8315_12	has_surface_form	by
+8315_13	is_in_sentence	sentence_8315
+8315_13	compound	8315_14
+8315_13	has_surface_form	John
+8315_13	part_of_entity	John Ince
+8315_14	is_in_sentence	sentence_8315
+8315_14	pobj	8315_12
+8315_14	has_surface_form	Ince
+8315_14	part_of_entity	John Ince
+8315_15	is_in_sentence	sentence_8315
+8315_15	cc	8315_11
+8315_15	has_surface_form	and
+8315_16	is_in_sentence	sentence_8315
+8315_16	conj	8315_11
+8315_16	has_surface_form	produced
+8315_17	is_in_sentence	sentence_8315
+8315_17	cc	8315_16
+8315_17	has_surface_form	and
+8315_18	is_in_sentence	sentence_8315
+8315_18	conj	8315_16
+8315_18	has_surface_form	distributed
+8315_19	is_in_sentence	sentence_8315
+8315_19	agent	8315_18
+8315_19	has_surface_form	by
+8315_20	is_in_sentence	sentence_8315
+8315_20	compound	8315_21
+8315_20	has_surface_form	Metro
+8315_21	is_in_sentence	sentence_8315
+8315_21	pobj	8315_19
+8315_21	has_surface_form	Pictures
+8315_22	is_in_sentence	sentence_8315
+8315_22	punct	8315_3
+8315_22	has_surface_form	.
+8315_23	is_in_sentence	sentence_8315
+8315_23	dep	8315_0
+8315_23	has_surface_form	
+Held In Trust	surface_form	Held In Trust
+Held In Trust	movie-has-director	John Ince
+John Ince	surface_form	John Ince

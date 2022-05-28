@@ -1,0 +1,70 @@
+11506_0	is_in_sentence	sentence_11506
+11506_0	compound	11506_1
+11506_0	has_surface_form	Karen
+11506_0	part_of_entity	Karen Arthur
+11506_1	is_in_sentence	sentence_11506
+11506_1	nsubj	11506_9
+11506_1	has_surface_form	Arthur
+11506_1	part_of_entity	Karen Arthur
+11506_9	is_in_sentence	sentence_11506
+11506_9	ROOT	11506_9
+11506_9	has_surface_form	is
+11506_2	is_in_sentence	sentence_11506
+11506_2	punct	11506_1
+11506_2	has_surface_form	(
+11506_3	is_in_sentence	sentence_11506
+11506_3	acl	11506_1
+11506_3	has_surface_form	born
+11506_4	is_in_sentence	sentence_11506
+11506_4	npadvmod	11506_3
+11506_4	has_surface_form	August
+11506_5	is_in_sentence	sentence_11506
+11506_5	nummod	11506_4
+11506_5	has_surface_form	24
+11506_6	is_in_sentence	sentence_11506
+11506_6	punct	11506_4
+11506_6	has_surface_form	,
+11506_7	is_in_sentence	sentence_11506
+11506_7	nummod	11506_4
+11506_7	has_surface_form	1941
+11506_8	is_in_sentence	sentence_11506
+11506_8	punct	11506_1
+11506_8	has_surface_form	)
+11506_10	is_in_sentence	sentence_11506
+11506_10	det	11506_13
+11506_10	has_surface_form	an
+11506_13	is_in_sentence	sentence_11506
+11506_13	attr	11506_9
+11506_13	has_surface_form	director
+11506_13	part_of_entity	film director
+11506_11	is_in_sentence	sentence_11506
+11506_11	amod	11506_13
+11506_11	has_surface_form	American
+11506_12	is_in_sentence	sentence_11506
+11506_12	compound	11506_13
+11506_12	has_surface_form	film
+11506_12	part_of_entity	film director
+11506_14	is_in_sentence	sentence_11506
+11506_14	punct	11506_13
+11506_14	has_surface_form	,
+11506_15	is_in_sentence	sentence_11506
+11506_15	conj	11506_13
+11506_15	has_surface_form	producer
+11506_16	is_in_sentence	sentence_11506
+11506_16	punct	11506_15
+11506_16	has_surface_form	,
+11506_17	is_in_sentence	sentence_11506
+11506_17	cc	11506_15
+11506_17	has_surface_form	and
+11506_18	is_in_sentence	sentence_11506
+11506_18	conj	11506_15
+11506_18	has_surface_form	actress
+11506_19	is_in_sentence	sentence_11506
+11506_19	punct	11506_9
+11506_19	has_surface_form	.
+11506_20	is_in_sentence	sentence_11506
+11506_20	dep	11506_20
+11506_20	has_surface_form	
+Karen Arthur	surface_form	Karen Arthur
+Karen Arthur	has-occupation	film director
+film director	surface_form	film director

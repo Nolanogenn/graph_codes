@@ -1,0 +1,61 @@
+60_0	is_in_sentence	sentence_60
+60_0	compound	60_1
+60_0	has_surface_form	Kobbari
+60_0	part_of_entity	Kobbari Bondam
+60_1	is_in_sentence	sentence_60
+60_1	nsubj	60_7
+60_1	has_surface_form	Bondam
+60_1	part_of_entity	Kobbari Bondam
+60_7	is_in_sentence	sentence_60
+60_7	ROOT	60_7
+60_7	has_surface_form	is
+60_2	is_in_sentence	sentence_60
+60_2	punct	60_3
+60_2	has_surface_form	(
+60_3	is_in_sentence	sentence_60
+60_3	appos	60_1
+60_3	has_surface_form	English
+60_4	is_in_sentence	sentence_60
+60_4	punct	60_3
+60_4	has_surface_form	:
+60_5	is_in_sentence	sentence_60
+60_5	appos	60_3
+60_5	has_surface_form	Coconut
+60_6	is_in_sentence	sentence_60
+60_6	punct	60_3
+60_6	has_surface_form	)
+60_8	is_in_sentence	sentence_60
+60_8	det	60_12
+60_8	has_surface_form	a
+60_12	is_in_sentence	sentence_60
+60_12	attr	60_7
+60_12	has_surface_form	film
+60_12	part_of_entity	comedy film
+60_9	is_in_sentence	sentence_60
+60_9	nummod	60_12
+60_9	has_surface_form	1991
+60_10	is_in_sentence	sentence_60
+60_10	compound	60_11
+60_10	has_surface_form	Telugu
+60_11	is_in_sentence	sentence_60
+60_11	compound	60_12
+60_11	has_surface_form	comedy
+60_11	part_of_entity	comedy film
+60_13	is_in_sentence	sentence_60
+60_13	punct	60_12
+60_13	has_surface_form	,
+60_14	is_in_sentence	sentence_60
+60_14	acl	60_12
+60_14	has_surface_form	produced
+60_15	is_in_sentence	sentence_60
+60_15	agent	60_14
+60_15	has_surface_form	by
+60_16	is_in_sentence	sentence_60
+60_16	pobj	60_15
+60_16	has_surface_form	K.
+60_17	is_in_sentence	sentence_60
+60_17	dep	60_7
+60_17	has_surface_form	
+Kobbari Bondam	surface_form	Kobbari Bondam
+Kobbari Bondam	has-type	comedy film
+comedy film	surface_form	comedy film

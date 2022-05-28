@@ -1,0 +1,52 @@
+28577_0	is_in_sentence	sentence_28577
+28577_0	det	28577_2
+28577_0	has_surface_form	The
+28577_2	is_in_sentence	sentence_28577
+28577_2	nsubjpass	28577_6
+28577_2	has_surface_form	College
+28577_2	part_of_entity	Australian College of Optometry
+28577_1	is_in_sentence	sentence_28577
+28577_1	compound	28577_2
+28577_1	has_surface_form	Australian
+28577_1	part_of_entity	Australian College of Optometry
+28577_6	is_in_sentence	sentence_28577
+28577_6	ROOT	28577_6
+28577_6	has_surface_form	located
+28577_3	is_in_sentence	sentence_28577
+28577_3	prep	28577_2
+28577_3	has_surface_form	of
+28577_3	part_of_entity	Australian College of Optometry
+28577_4	is_in_sentence	sentence_28577
+28577_4	pobj	28577_3
+28577_4	has_surface_form	Optometry
+28577_4	part_of_entity	Australian College of Optometry
+28577_5	is_in_sentence	sentence_28577
+28577_5	auxpass	28577_6
+28577_5	has_surface_form	is
+28577_7	is_in_sentence	sentence_28577
+28577_7	prep	28577_6
+28577_7	has_surface_form	in
+28577_8	is_in_sentence	sentence_28577
+28577_8	pobj	28577_7
+28577_8	is_entity	Melbourne
+Melbourne	surface_form	Melbourne
+28577_9	is_in_sentence	sentence_28577
+28577_9	punct	28577_8
+28577_9	has_surface_form	,
+28577_10	is_in_sentence	sentence_28577
+28577_10	conj	28577_8
+28577_10	has_surface_form	Victoria
+28577_11	is_in_sentence	sentence_28577
+28577_11	punct	28577_10
+28577_11	has_surface_form	,
+28577_12	is_in_sentence	sentence_28577
+28577_12	appos	28577_10
+28577_12	has_surface_form	Australia
+28577_13	is_in_sentence	sentence_28577
+28577_13	punct	28577_6
+28577_13	has_surface_form	.
+28577_14	is_in_sentence	sentence_28577
+28577_14	dep	28577_14
+28577_14	has_surface_form	
+Australian College of Optometry	surface_form	Australian College of Optometry
+Australian College of Optometry	is-where	Melbourne

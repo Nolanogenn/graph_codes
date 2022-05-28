@@ -1,0 +1,59 @@
+21916_0	is_in_sentence	sentence_21916
+21916_0	compound	21916_1
+21916_0	has_surface_form	Audrey
+21916_0	part_of_entity	Audrey Wasilewski
+21916_1	is_in_sentence	sentence_21916
+21916_1	nsubj	21916_9
+21916_1	has_surface_form	Wasilewski
+21916_1	part_of_entity	Audrey Wasilewski
+21916_9	is_in_sentence	sentence_21916
+21916_9	ROOT	21916_9
+21916_9	has_surface_form	is
+21916_2	is_in_sentence	sentence_21916
+21916_2	punct	21916_1
+21916_2	has_surface_form	(
+21916_3	is_in_sentence	sentence_21916
+21916_3	acl	21916_1
+21916_3	has_surface_form	born
+21916_4	is_in_sentence	sentence_21916
+21916_4	npadvmod	21916_3
+21916_4	has_surface_form	September
+21916_5	is_in_sentence	sentence_21916
+21916_5	nummod	21916_4
+21916_5	has_surface_form	25
+21916_6	is_in_sentence	sentence_21916
+21916_6	punct	21916_4
+21916_6	has_surface_form	,
+21916_7	is_in_sentence	sentence_21916
+21916_7	nummod	21916_4
+21916_7	has_surface_form	1967
+21916_8	is_in_sentence	sentence_21916
+21916_8	punct	21916_1
+21916_8	has_surface_form	)
+21916_10	is_in_sentence	sentence_21916
+21916_10	det	21916_12
+21916_10	has_surface_form	an
+21916_12	is_in_sentence	sentence_21916
+21916_12	attr	21916_9
+21916_12	is_entity	actress
+21916_11	is_in_sentence	sentence_21916
+21916_11	amod	21916_12
+21916_11	has_surface_form	American
+actress	surface_form	actress
+21916_13	is_in_sentence	sentence_21916
+21916_13	cc	21916_12
+21916_13	has_surface_form	and
+21916_14	is_in_sentence	sentence_21916
+21916_14	compound	21916_15
+21916_14	has_surface_form	voice
+21916_15	is_in_sentence	sentence_21916
+21916_15	conj	21916_12
+21916_15	is_entity	actress
+21916_16	is_in_sentence	sentence_21916
+21916_16	punct	21916_9
+21916_16	has_surface_form	.
+21916_17	is_in_sentence	sentence_21916
+21916_17	dep	21916_17
+21916_17	has_surface_form	
+Audrey Wasilewski	surface_form	Audrey Wasilewski
+Audrey Wasilewski	has-occupation	actress

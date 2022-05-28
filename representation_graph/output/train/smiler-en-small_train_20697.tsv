@@ -1,0 +1,79 @@
+20696_0	is_in_sentence	sentence_20696
+20696_0	det	20696_2
+20696_0	has_surface_form	The
+20696_2	is_in_sentence	sentence_20696
+20696_2	nsubjpass	20696_4
+20696_2	has_surface_form	screw
+20696_2	part_of_entity	ball screw
+20696_1	is_in_sentence	sentence_20696
+20696_1	compound	20696_2
+20696_1	has_surface_form	ball
+20696_1	part_of_entity	ball screw
+20696_4	is_in_sentence	sentence_20696
+20696_4	ROOT	20696_4
+20696_4	has_surface_form	invented
+20696_3	is_in_sentence	sentence_20696
+20696_3	auxpass	20696_4
+20696_3	has_surface_form	was
+20696_5	is_in_sentence	sentence_20696
+20696_5	advmod	20696_4
+20696_5	has_surface_form	independently
+20696_6	is_in_sentence	sentence_20696
+20696_6	agent	20696_4
+20696_6	has_surface_form	by
+20696_7	is_in_sentence	sentence_20696
+20696_7	compound	20696_8
+20696_7	has_surface_form	H.M.
+20696_7	part_of_entity	H.M. Stevenson
+20696_8	is_in_sentence	sentence_20696
+20696_8	pobj	20696_6
+20696_8	has_surface_form	Stevenson
+20696_8	part_of_entity	H.M. Stevenson
+20696_9	is_in_sentence	sentence_20696
+20696_9	cc	20696_8
+20696_9	has_surface_form	and
+20696_10	is_in_sentence	sentence_20696
+20696_10	compound	20696_11
+20696_10	has_surface_form	D.
+20696_11	is_in_sentence	sentence_20696
+20696_11	conj	20696_8
+20696_11	has_surface_form	Glenn
+20696_12	is_in_sentence	sentence_20696
+20696_12	nsubjpass	20696_14
+20696_12	has_surface_form	who
+20696_14	is_in_sentence	sentence_20696
+20696_14	relcl	20696_8
+20696_14	has_surface_form	issued
+20696_13	is_in_sentence	sentence_20696
+20696_13	auxpass	20696_14
+20696_13	has_surface_form	were
+20696_15	is_in_sentence	sentence_20696
+20696_15	prep	20696_14
+20696_15	has_surface_form	in
+20696_16	is_in_sentence	sentence_20696
+20696_16	nummod	20696_17
+20696_16	has_surface_form	1898
+20696_17	is_in_sentence	sentence_20696
+20696_17	pobj	20696_15
+20696_17	has_surface_form	patents
+20696_18	is_in_sentence	sentence_20696
+20696_18	appos	20696_8
+20696_18	has_surface_form	601,451
+20696_19	is_in_sentence	sentence_20696
+20696_19	cc	20696_18
+20696_19	has_surface_form	and
+20696_20	is_in_sentence	sentence_20696
+20696_20	conj	20696_18
+20696_20	has_surface_form	610,044
+20696_21	is_in_sentence	sentence_20696
+20696_21	advmod	20696_4
+20696_21	has_surface_form	respectively
+20696_22	is_in_sentence	sentence_20696
+20696_22	punct	20696_4
+20696_22	has_surface_form	.
+20696_23	is_in_sentence	sentence_20696
+20696_23	dep	20696_23
+20696_23	has_surface_form	
+ball screw	surface_form	ball screw
+ball screw	invented-by	H.M. Stevenson
+H.M. Stevenson	surface_form	H.M. Stevenson

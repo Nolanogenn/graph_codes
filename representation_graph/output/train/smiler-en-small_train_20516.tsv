@@ -1,0 +1,55 @@
+20515_0	is_in_sentence	sentence_20515
+20515_0	compound	20515_1
+20515_0	has_surface_form	Aaron
+20515_0	part_of_entity	Aaron Barlow
+20515_1	is_in_sentence	sentence_20515
+20515_1	nsubj	20515_9
+20515_1	has_surface_form	Barlow
+20515_1	part_of_entity	Aaron Barlow
+20515_9	is_in_sentence	sentence_20515
+20515_9	ROOT	20515_9
+20515_9	has_surface_form	is
+20515_2	is_in_sentence	sentence_20515
+20515_2	punct	20515_1
+20515_2	has_surface_form	(
+20515_3	is_in_sentence	sentence_20515
+20515_3	acl	20515_1
+20515_3	has_surface_form	born
+20515_4	is_in_sentence	sentence_20515
+20515_4	npadvmod	20515_3
+20515_4	has_surface_form	December
+20515_5	is_in_sentence	sentence_20515
+20515_5	nummod	20515_4
+20515_5	has_surface_form	19
+20515_6	is_in_sentence	sentence_20515
+20515_6	punct	20515_4
+20515_6	has_surface_form	,
+20515_7	is_in_sentence	sentence_20515
+20515_7	nummod	20515_4
+20515_7	has_surface_form	1951
+20515_8	is_in_sentence	sentence_20515
+20515_8	punct	20515_1
+20515_8	has_surface_form	)
+20515_10	is_in_sentence	sentence_20515
+20515_10	det	20515_13
+20515_10	has_surface_form	a
+20515_13	is_in_sentence	sentence_20515
+20515_13	attr	20515_9
+20515_13	has_surface_form	scholar
+20515_11	is_in_sentence	sentence_20515
+20515_11	compound	20515_12
+20515_11	has_surface_form	Cultural
+20515_11	part_of_entity	Cultural Studies
+20515_12	is_in_sentence	sentence_20515
+20515_12	compound	20515_13
+20515_12	has_surface_form	Studies
+20515_12	part_of_entity	Cultural Studies
+20515_14	is_in_sentence	sentence_20515
+20515_14	punct	20515_9
+20515_14	has_surface_form	.
+20515_15	is_in_sentence	sentence_20515
+20515_15	dep	20515_15
+20515_15	has_surface_form	
+Aaron Barlow	surface_form	Aaron Barlow
+Aaron Barlow	has-genre	Cultural Studies
+Cultural Studies	surface_form	Cultural Studies

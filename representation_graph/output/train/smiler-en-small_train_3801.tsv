@@ -1,0 +1,79 @@
+3800_0	is_in_sentence	sentence_3800
+3800_0	compound	3800_1
+3800_0	has_surface_form	AZ
+3800_0	part_of_entity	AZ Groeninge
+3800_1	is_in_sentence	sentence_3800
+3800_1	nsubj	3800_2
+3800_1	has_surface_form	Groeninge
+3800_1	part_of_entity	AZ Groeninge
+3800_2	is_in_sentence	sentence_3800
+3800_2	ROOT	3800_2
+3800_2	has_surface_form	is
+3800_3	is_in_sentence	sentence_3800
+3800_3	det	3800_6
+3800_3	has_surface_form	a
+3800_6	is_in_sentence	sentence_3800
+3800_6	attr	3800_2
+3800_6	has_surface_form	hospital
+3800_6	part_of_entity	teaching hospital
+3800_4	is_in_sentence	sentence_3800
+3800_4	amod	3800_6
+3800_4	has_surface_form	large
+3800_5	is_in_sentence	sentence_3800
+3800_5	compound	3800_6
+3800_5	has_surface_form	teaching
+3800_5	part_of_entity	teaching hospital
+3800_7	is_in_sentence	sentence_3800
+3800_7	punct	3800_6
+3800_7	has_surface_form	,
+3800_8	is_in_sentence	sentence_3800
+3800_8	acl	3800_6
+3800_8	has_surface_form	affiliated
+3800_9	is_in_sentence	sentence_3800
+3800_9	prep	3800_8
+3800_9	has_surface_form	with
+3800_10	is_in_sentence	sentence_3800
+3800_10	det	3800_15
+3800_10	has_surface_form	the
+3800_15	is_in_sentence	sentence_3800
+3800_15	pobj	3800_9
+3800_15	has_surface_form	network
+3800_11	is_in_sentence	sentence_3800
+3800_11	compound	3800_12
+3800_11	has_surface_form	Flemish
+3800_12	is_in_sentence	sentence_3800
+3800_12	compound	3800_14
+3800_12	has_surface_form	KU
+3800_14	is_in_sentence	sentence_3800
+3800_14	compound	3800_15
+3800_14	has_surface_form	Hospital
+3800_13	is_in_sentence	sentence_3800
+3800_13	compound	3800_14
+3800_13	has_surface_form	Leuven
+3800_16	is_in_sentence	sentence_3800
+3800_16	punct	3800_6
+3800_16	has_surface_form	,
+3800_17	is_in_sentence	sentence_3800
+3800_17	prep	3800_6
+3800_17	has_surface_form	in
+3800_18	is_in_sentence	sentence_3800
+3800_18	det	3800_20
+3800_18	has_surface_form	the
+3800_20	is_in_sentence	sentence_3800
+3800_20	pobj	3800_17
+3800_20	has_surface_form	city
+3800_19	is_in_sentence	sentence_3800
+3800_19	amod	3800_20
+3800_19	has_surface_form	Belgian
+3800_21	is_in_sentence	sentence_3800
+3800_21	appos	3800_20
+3800_21	has_surface_form	Kortrijk
+3800_22	is_in_sentence	sentence_3800
+3800_22	punct	3800_2
+3800_22	has_surface_form	.
+3800_23	is_in_sentence	sentence_3800
+3800_23	dep	3800_2
+3800_23	has_surface_form	
+AZ Groeninge	surface_form	AZ Groeninge
+AZ Groeninge	has-type	teaching hospital
+teaching hospital	surface_form	teaching hospital

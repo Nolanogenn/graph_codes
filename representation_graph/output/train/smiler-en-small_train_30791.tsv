@@ -1,0 +1,95 @@
+30790_0	is_in_sentence	sentence_30790
+30790_0	det	30790_3
+30790_0	has_surface_form	The
+30790_3	is_in_sentence	sentence_30790
+30790_3	nsubj	30790_15
+30790_3	has_surface_form	Exchange
+30790_3	part_of_entity	Tehran Stock Exchange
+30790_1	is_in_sentence	sentence_30790
+30790_1	compound	30790_3
+30790_1	has_surface_form	Tehran
+30790_1	part_of_entity	Tehran Stock Exchange
+30790_2	is_in_sentence	sentence_30790
+30790_2	compound	30790_3
+30790_2	has_surface_form	Stock
+30790_2	part_of_entity	Tehran Stock Exchange
+30790_15	is_in_sentence	sentence_30790
+30790_15	ROOT	30790_15
+30790_15	has_surface_form	is
+30790_4	is_in_sentence	sentence_30790
+30790_4	punct	30790_3
+30790_4	has_surface_form	(
+30790_5	is_in_sentence	sentence_30790
+30790_5	appos	30790_3
+30790_5	has_surface_form	TSE
+30790_6	is_in_sentence	sentence_30790
+30790_6	punct	30790_3
+30790_6	has_surface_form	)
+30790_7	is_in_sentence	sentence_30790
+30790_7	punct	30790_15
+30790_7	has_surface_form	(
+30790_8	is_in_sentence	sentence_30790
+30790_8	nsubj	30790_15
+30790_8	has_surface_form	Persian
+30790_9	is_in_sentence	sentence_30790
+30790_9	punct	30790_8
+30790_9	has_surface_form	:
+30790_10	is_in_sentence	sentence_30790
+30790_10	appos	30790_8
+30790_10	has_surface_form	بورس
+30790_11	is_in_sentence	sentence_30790
+30790_11	amod	30790_13
+30790_11	has_surface_form	اوراق
+30790_13	is_in_sentence	sentence_30790
+30790_13	appos	30790_10
+30790_13	has_surface_form	تهران‎
+30790_12	is_in_sentence	sentence_30790
+30790_12	amod	30790_13
+30790_12	has_surface_form	بهادار
+30790_14	is_in_sentence	sentence_30790
+30790_14	punct	30790_10
+30790_14	has_surface_form	)
+30790_16	is_in_sentence	sentence_30790
+30790_16	poss	30790_20
+30790_16	has_surface_form	Iran
+30790_20	is_in_sentence	sentence_30790
+30790_20	attr	30790_15
+30790_20	has_surface_form	exchange
+30790_20	part_of_entity	stock exchange
+30790_17	is_in_sentence	sentence_30790
+30790_17	case	30790_16
+30790_17	has_surface_form	's
+30790_18	is_in_sentence	sentence_30790
+30790_18	amod	30790_20
+30790_18	has_surface_form	largest
+30790_19	is_in_sentence	sentence_30790
+30790_19	compound	30790_20
+30790_19	has_surface_form	stock
+30790_19	part_of_entity	stock exchange
+30790_21	is_in_sentence	sentence_30790
+30790_21	punct	30790_20
+30790_21	has_surface_form	,
+30790_22	is_in_sentence	sentence_30790
+30790_22	nsubj	30790_24
+30790_22	has_surface_form	which
+30790_24	is_in_sentence	sentence_30790
+30790_24	relcl	30790_20
+30790_24	has_surface_form	opened
+30790_23	is_in_sentence	sentence_30790
+30790_23	advmod	30790_24
+30790_23	has_surface_form	first
+30790_25	is_in_sentence	sentence_30790
+30790_25	prep	30790_24
+30790_25	has_surface_form	in
+30790_26	is_in_sentence	sentence_30790
+30790_26	pobj	30790_25
+30790_26	has_surface_form	1967
+30790_27	is_in_sentence	sentence_30790
+30790_27	punct	30790_15
+30790_27	has_surface_form	.
+30790_28	is_in_sentence	sentence_30790
+30790_28	dep	30790_28
+30790_28	has_surface_form	
+Tehran Stock Exchange	surface_form	Tehran Stock Exchange
+Tehran Stock Exchange	has-type	stock exchange
+stock exchange	surface_form	stock exchange

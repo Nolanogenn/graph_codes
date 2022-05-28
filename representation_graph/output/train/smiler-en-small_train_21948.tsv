@@ -1,0 +1,124 @@
+21947_0	is_in_sentence	sentence_21947
+21947_0	det	21947_4
+21947_0	has_surface_form	The
+21947_4	is_in_sentence	sentence_21947
+21947_4	nsubj	21947_5
+21947_4	has_surface_form	House
+21947_4	part_of_entity	St Andrews Beach House
+21947_1	is_in_sentence	sentence_21947
+21947_1	compound	21947_2
+21947_1	has_surface_form	St
+21947_1	part_of_entity	St Andrews Beach House
+21947_2	is_in_sentence	sentence_21947
+21947_2	compound	21947_4
+21947_2	has_surface_form	Andrews
+21947_2	part_of_entity	St Andrews Beach House
+21947_3	is_in_sentence	sentence_21947
+21947_3	compound	21947_4
+21947_3	has_surface_form	Beach
+21947_3	part_of_entity	St Andrews Beach House
+21947_5	is_in_sentence	sentence_21947
+21947_5	ROOT	21947_5
+21947_5	has_surface_form	is
+21947_6	is_in_sentence	sentence_21947
+21947_6	det	21947_8
+21947_6	has_surface_form	a
+21947_8	is_in_sentence	sentence_21947
+21947_8	attr	21947_5
+21947_8	has_surface_form	building
+21947_7	is_in_sentence	sentence_21947
+21947_7	amod	21947_8
+21947_7	has_surface_form	residential
+21947_9	is_in_sentence	sentence_21947
+21947_9	acl	21947_8
+21947_9	has_surface_form	located
+21947_10	is_in_sentence	sentence_21947
+21947_10	prep	21947_9
+21947_10	has_surface_form	on
+21947_11	is_in_sentence	sentence_21947
+21947_11	compound	21947_13
+21947_11	has_surface_form	St
+21947_13	is_in_sentence	sentence_21947
+21947_13	pobj	21947_10
+21947_13	has_surface_form	Beach
+21947_12	is_in_sentence	sentence_21947
+21947_12	compound	21947_13
+21947_12	has_surface_form	Andrews
+21947_14	is_in_sentence	sentence_21947
+21947_14	prep	21947_13
+21947_14	has_surface_form	in
+21947_15	is_in_sentence	sentence_21947
+21947_15	pobj	21947_14
+21947_15	has_surface_form	Victoria
+21947_16	is_in_sentence	sentence_21947
+21947_16	punct	21947_15
+21947_16	has_surface_form	,
+21947_17	is_in_sentence	sentence_21947
+21947_17	appos	21947_15
+21947_17	has_surface_form	Australia
+21947_18	is_in_sentence	sentence_21947
+21947_18	punct	21947_5
+21947_18	has_surface_form	.
+21947_19	is_in_sentence	sentence_21947
+21947_19	advcl	21947_29
+21947_19	has_surface_form	Designed
+21947_29	is_in_sentence	sentence_21947
+21947_29	ROOT	21947_29
+21947_29	has_surface_form	awarded
+21947_20	is_in_sentence	sentence_21947
+21947_20	agent	21947_19
+21947_20	has_surface_form	by
+21947_21	is_in_sentence	sentence_21947
+21947_21	amod	21947_22
+21947_21	has_surface_form	Australian
+21947_22	is_in_sentence	sentence_21947
+21947_22	compound	21947_24
+21947_22	has_surface_form	architect
+21947_24	is_in_sentence	sentence_21947
+21947_24	pobj	21947_20
+21947_24	has_surface_form	Godsell
+21947_23	is_in_sentence	sentence_21947
+21947_23	compound	21947_24
+21947_23	has_surface_form	Sean
+21947_25	is_in_sentence	sentence_21947
+21947_25	punct	21947_24
+21947_25	has_surface_form	,
+21947_26	is_in_sentence	sentence_21947
+21947_26	det	21947_27
+21947_26	has_surface_form	the
+21947_27	is_in_sentence	sentence_21947
+21947_27	nsubjpass	21947_29
+21947_27	has_surface_form	house
+21947_28	is_in_sentence	sentence_21947
+21947_28	auxpass	21947_29
+21947_28	has_surface_form	was
+21947_30	is_in_sentence	sentence_21947
+21947_30	det	21947_33
+21947_30	has_surface_form	the
+21947_33	is_in_sentence	sentence_21947
+21947_33	dobj	21947_29
+21947_33	has_surface_form	Award
+21947_33	part_of_entity	Robin Boyd Award
+21947_31	is_in_sentence	sentence_21947
+21947_31	compound	21947_32
+21947_31	has_surface_form	Robin
+21947_31	part_of_entity	Robin Boyd Award
+21947_32	is_in_sentence	sentence_21947
+21947_32	compound	21947_33
+21947_32	has_surface_form	Boyd
+21947_32	part_of_entity	Robin Boyd Award
+21947_34	is_in_sentence	sentence_21947
+21947_34	prep	21947_29
+21947_34	has_surface_form	in
+21947_35	is_in_sentence	sentence_21947
+21947_35	pobj	21947_34
+21947_35	has_surface_form	2006
+21947_36	is_in_sentence	sentence_21947
+21947_36	punct	21947_29
+21947_36	has_surface_form	.
+21947_37	is_in_sentence	sentence_21947
+21947_37	dep	21947_37
+21947_37	has_surface_form	
+St Andrews Beach House	surface_form	St Andrews Beach House
+St Andrews Beach House	won-award	Robin Boyd Award
+Robin Boyd Award	surface_form	Robin Boyd Award

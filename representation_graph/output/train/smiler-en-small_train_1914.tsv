@@ -1,0 +1,53 @@
+1913_0	is_in_sentence	sentence_1913
+1913_0	compound	1913_1
+1913_0	has_surface_form	Adrienne
+1913_0	part_of_entity	Adrienne Davies
+1913_1	is_in_sentence	sentence_1913
+1913_1	nsubj	1913_2
+1913_1	has_surface_form	Davies
+1913_1	part_of_entity	Adrienne Davies
+1913_2	is_in_sentence	sentence_1913
+1913_2	ROOT	1913_2
+1913_2	has_surface_form	is
+1913_3	is_in_sentence	sentence_1913
+1913_3	det	1913_5
+1913_3	has_surface_form	the
+1913_5	is_in_sentence	sentence_1913
+1913_5	attr	1913_2
+1913_5	has_surface_form	drummer
+1913_4	is_in_sentence	sentence_1913
+1913_4	amod	1913_5
+1913_4	has_surface_form	current
+1913_6	is_in_sentence	sentence_1913
+1913_6	cc	1913_5
+1913_6	has_surface_form	and
+1913_7	is_in_sentence	sentence_1913
+1913_7	conj	1913_5
+1913_7	has_surface_form	percussionist
+1913_8	is_in_sentence	sentence_1913
+1913_8	prep	1913_5
+1913_8	has_surface_form	of
+1913_9	is_in_sentence	sentence_1913
+1913_9	det	1913_12
+1913_9	has_surface_form	the
+1913_12	is_in_sentence	sentence_1913
+1913_12	pobj	1913_8
+1913_12	has_surface_form	band
+1913_10	is_in_sentence	sentence_1913
+1913_10	compound	1913_12
+1913_10	has_surface_form	drone
+1913_11	is_in_sentence	sentence_1913
+1913_11	compound	1913_12
+1913_11	has_surface_form	metal
+1913_13	is_in_sentence	sentence_1913
+1913_13	appos	1913_12
+1913_13	is_entity	Earth
+Earth	surface_form	Earth
+1913_14	is_in_sentence	sentence_1913
+1913_14	punct	1913_2
+1913_14	has_surface_form	.
+1913_15	is_in_sentence	sentence_1913
+1913_15	dep	1913_15
+1913_15	has_surface_form	
+Adrienne Davies	surface_form	Adrienne Davies
+Adrienne Davies	is-member-of	Earth

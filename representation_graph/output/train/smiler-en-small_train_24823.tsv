@@ -1,0 +1,78 @@
+24822_0	is_in_sentence	sentence_24822
+24822_0	det	24822_1
+24822_0	has_surface_form	The
+24822_0	part_of_entity	The Council of Egypt
+24822_1	is_in_sentence	sentence_24822
+24822_1	nsubj	24822_11
+24822_1	has_surface_form	Council
+24822_1	part_of_entity	The Council of Egypt
+24822_11	is_in_sentence	sentence_24822
+24822_11	ROOT	24822_11
+24822_11	has_surface_form	is
+24822_2	is_in_sentence	sentence_24822
+24822_2	prep	24822_1
+24822_2	has_surface_form	of
+24822_2	part_of_entity	The Council of Egypt
+24822_3	is_in_sentence	sentence_24822
+24822_3	pobj	24822_2
+24822_3	has_surface_form	Egypt
+24822_3	part_of_entity	The Council of Egypt
+24822_4	is_in_sentence	sentence_24822
+24822_4	punct	24822_11
+24822_4	has_surface_form	(
+24822_5	is_in_sentence	sentence_24822
+24822_5	nsubj	24822_11
+24822_5	has_surface_form	Italian
+24822_6	is_in_sentence	sentence_24822
+24822_6	punct	24822_8
+24822_6	has_surface_form	:
+24822_8	is_in_sentence	sentence_24822
+24822_8	appos	24822_5
+24822_8	has_surface_form	consiglio
+24822_7	is_in_sentence	sentence_24822
+24822_7	compound	24822_8
+24822_7	has_surface_form	Il
+24822_9	is_in_sentence	sentence_24822
+24822_9	appos	24822_5
+24822_9	has_surface_form	d'Egitto
+24822_10	is_in_sentence	sentence_24822
+24822_10	punct	24822_5
+24822_10	has_surface_form	)
+24822_12	is_in_sentence	sentence_24822
+24822_12	det	24822_16
+24822_12	has_surface_form	a
+24822_16	is_in_sentence	sentence_24822
+24822_16	attr	24822_11
+24822_16	has_surface_form	film
+24822_13	is_in_sentence	sentence_24822
+24822_13	nummod	24822_16
+24822_13	has_surface_form	2002
+24822_14	is_in_sentence	sentence_24822
+24822_14	amod	24822_16
+24822_14	has_surface_form	Italian
+24822_15	is_in_sentence	sentence_24822
+24822_15	compound	24822_16
+24822_15	has_surface_form	drama
+24822_17	is_in_sentence	sentence_24822
+24822_17	acl	24822_16
+24822_17	has_surface_form	directed
+24822_18	is_in_sentence	sentence_24822
+24822_18	agent	24822_17
+24822_18	has_surface_form	by
+24822_19	is_in_sentence	sentence_24822
+24822_19	compound	24822_20
+24822_19	has_surface_form	Emidio
+24822_19	part_of_entity	Emidio Greco
+24822_20	is_in_sentence	sentence_24822
+24822_20	pobj	24822_18
+24822_20	has_surface_form	Greco
+24822_20	part_of_entity	Emidio Greco
+24822_21	is_in_sentence	sentence_24822
+24822_21	punct	24822_11
+24822_21	has_surface_form	.
+24822_22	is_in_sentence	sentence_24822
+24822_22	dep	24822_11
+24822_22	has_surface_form	
+The Council of Egypt	surface_form	The Council of Egypt
+The Council of Egypt	movie-has-director	Emidio Greco
+Emidio Greco	surface_form	Emidio Greco

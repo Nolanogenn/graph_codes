@@ -1,0 +1,48 @@
+20621_0	is_in_sentence	sentence_20621
+20621_0	nsubj	20621_1
+20621_0	is_entity	Seuerling
+20621_1	is_in_sentence	sentence_20621
+20621_1	ROOT	20621_1
+20621_1	has_surface_form	was
+Seuerling	surface_form	Seuerling
+Seuerling	has-child	Carl Fredrik Seuerling
+20621_2	is_in_sentence	sentence_20621
+20621_2	det	20621_3
+20621_2	has_surface_form	the
+20621_3	is_in_sentence	sentence_20621
+20621_3	attr	20621_1
+20621_3	has_surface_form	mother
+20621_4	is_in_sentence	sentence_20621
+20621_4	prep	20621_3
+20621_4	has_surface_form	of
+20621_5	is_in_sentence	sentence_20621
+20621_5	compound	20621_7
+20621_5	has_surface_form	Carl
+20621_5	part_of_entity	Carl Fredrik Seuerling
+20621_7	is_in_sentence	sentence_20621
+20621_7	pobj	20621_4
+20621_7	is_entity	Seuerling
+20621_7	part_of_entity	Carl Fredrik Seuerling
+20621_6	is_in_sentence	sentence_20621
+20621_6	compound	20621_7
+20621_6	has_surface_form	Fredrik
+20621_6	part_of_entity	Carl Fredrik Seuerling
+20621_8	is_in_sentence	sentence_20621
+20621_8	punct	20621_7
+20621_8	has_surface_form	(
+20621_9	is_in_sentence	sentence_20621
+20621_9	appos	20621_7
+20621_9	has_surface_form	d.
+20621_10	is_in_sentence	sentence_20621
+20621_10	nummod	20621_9
+20621_10	has_surface_form	1831
+20621_11	is_in_sentence	sentence_20621
+20621_11	punct	20621_7
+20621_11	has_surface_form	)
+20621_12	is_in_sentence	sentence_20621
+20621_12	punct	20621_1
+20621_12	has_surface_form	.
+20621_13	is_in_sentence	sentence_20621
+20621_13	dep	20621_1
+20621_13	has_surface_form	
+Carl Fredrik Seuerling	surface_form	Carl Fredrik Seuerling

@@ -1,0 +1,54 @@
+28780_0	is_in_sentence	sentence_28780
+28780_0	det	28780_1
+28780_0	has_surface_form	A
+28780_0	part_of_entity	A Bride for Henry
+28780_1	is_in_sentence	sentence_28780
+28780_1	nsubj	28780_4
+28780_1	has_surface_form	Bride
+28780_1	part_of_entity	A Bride for Henry
+28780_4	is_in_sentence	sentence_28780
+28780_4	ROOT	28780_4
+28780_4	has_surface_form	is
+28780_2	is_in_sentence	sentence_28780
+28780_2	prep	28780_1
+28780_2	has_surface_form	for
+28780_2	part_of_entity	A Bride for Henry
+28780_3	is_in_sentence	sentence_28780
+28780_3	pobj	28780_2
+28780_3	has_surface_form	Henry
+28780_3	part_of_entity	A Bride for Henry
+28780_5	is_in_sentence	sentence_28780
+28780_5	det	28780_8
+28780_5	has_surface_form	a
+28780_8	is_in_sentence	sentence_28780
+28780_8	attr	28780_4
+28780_8	has_surface_form	film
+28780_6	is_in_sentence	sentence_28780
+28780_6	nummod	28780_8
+28780_6	has_surface_form	1937
+28780_7	is_in_sentence	sentence_28780
+28780_7	amod	28780_8
+28780_7	has_surface_form	American
+28780_9	is_in_sentence	sentence_28780
+28780_9	acl	28780_8
+28780_9	has_surface_form	directed
+28780_10	is_in_sentence	sentence_28780
+28780_10	agent	28780_9
+28780_10	has_surface_form	by
+28780_11	is_in_sentence	sentence_28780
+28780_11	compound	28780_12
+28780_11	has_surface_form	William
+28780_11	part_of_entity	William Nigh
+28780_12	is_in_sentence	sentence_28780
+28780_12	pobj	28780_10
+28780_12	has_surface_form	Nigh
+28780_12	part_of_entity	William Nigh
+28780_13	is_in_sentence	sentence_28780
+28780_13	punct	28780_4
+28780_13	has_surface_form	.
+28780_14	is_in_sentence	sentence_28780
+28780_14	dep	28780_4
+28780_14	has_surface_form	
+A Bride for Henry	surface_form	A Bride for Henry
+A Bride for Henry	movie-has-director	William Nigh
+William Nigh	surface_form	William Nigh

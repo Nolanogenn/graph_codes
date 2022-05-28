@@ -1,0 +1,112 @@
+7371_0	is_in_sentence	sentence_7371
+7371_0	det	7371_4
+7371_0	has_surface_form	The
+7371_0	part_of_entity	The New York Society Library
+7371_4	is_in_sentence	sentence_7371
+7371_4	nsubj	7371_8
+7371_4	has_surface_form	Library
+7371_4	part_of_entity	The New York Society Library
+7371_1	is_in_sentence	sentence_7371
+7371_1	compound	7371_2
+7371_1	has_surface_form	New
+7371_1	part_of_entity	The New York Society Library
+7371_2	is_in_sentence	sentence_7371
+7371_2	compound	7371_4
+7371_2	has_surface_form	York
+7371_2	part_of_entity	The New York Society Library
+7371_3	is_in_sentence	sentence_7371
+7371_3	compound	7371_4
+7371_3	has_surface_form	Society
+7371_3	part_of_entity	The New York Society Library
+7371_8	is_in_sentence	sentence_7371
+7371_8	ROOT	7371_8
+7371_8	has_surface_form	is
+7371_5	is_in_sentence	sentence_7371
+7371_5	punct	7371_6
+7371_5	has_surface_form	(
+7371_6	is_in_sentence	sentence_7371
+7371_6	appos	7371_4
+7371_6	has_surface_form	NYSL
+7371_7	is_in_sentence	sentence_7371
+7371_7	punct	7371_6
+7371_7	has_surface_form	)
+7371_9	is_in_sentence	sentence_7371
+7371_9	det	7371_12
+7371_9	has_surface_form	the
+7371_12	is_in_sentence	sentence_7371
+7371_12	attr	7371_8
+7371_12	has_surface_form	institution
+7371_12	part_of_entity	cultural institution
+7371_10	is_in_sentence	sentence_7371
+7371_10	amod	7371_12
+7371_10	has_surface_form	oldest
+7371_11	is_in_sentence	sentence_7371
+7371_11	amod	7371_12
+7371_11	has_surface_form	cultural
+7371_11	part_of_entity	cultural institution
+7371_13	is_in_sentence	sentence_7371
+7371_13	prep	7371_12
+7371_13	has_surface_form	in
+7371_14	is_in_sentence	sentence_7371
+7371_14	compound	7371_15
+7371_14	has_surface_form	New
+7371_15	is_in_sentence	sentence_7371
+7371_15	compound	7371_16
+7371_15	has_surface_form	York
+7371_16	is_in_sentence	sentence_7371
+7371_16	pobj	7371_13
+7371_16	has_surface_form	City
+7371_17	is_in_sentence	sentence_7371
+7371_17	punct	7371_8
+7371_17	has_surface_form	.
+7371_18	is_in_sentence	sentence_7371
+7371_18	nsubjpass	7371_20
+7371_18	has_surface_form	It
+7371_20	is_in_sentence	sentence_7371
+7371_20	ROOT	7371_20
+7371_20	has_surface_form	founded
+7371_19	is_in_sentence	sentence_7371
+7371_19	auxpass	7371_20
+7371_19	has_surface_form	was
+7371_21	is_in_sentence	sentence_7371
+7371_21	prep	7371_20
+7371_21	has_surface_form	in
+7371_22	is_in_sentence	sentence_7371
+7371_22	pobj	7371_21
+7371_22	has_surface_form	1754
+7371_23	is_in_sentence	sentence_7371
+7371_23	agent	7371_20
+7371_23	has_surface_form	by
+7371_24	is_in_sentence	sentence_7371
+7371_24	det	7371_27
+7371_24	has_surface_form	the
+7371_27	is_in_sentence	sentence_7371
+7371_27	pobj	7371_23
+7371_27	has_surface_form	Society
+7371_25	is_in_sentence	sentence_7371
+7371_25	compound	7371_26
+7371_25	has_surface_form	New
+7371_26	is_in_sentence	sentence_7371
+7371_26	compound	7371_27
+7371_26	has_surface_form	York
+7371_28	is_in_sentence	sentence_7371
+7371_28	prep	7371_20
+7371_28	has_surface_form	as
+7371_29	is_in_sentence	sentence_7371
+7371_29	det	7371_31
+7371_29	has_surface_form	a
+7371_31	is_in_sentence	sentence_7371
+7371_31	pobj	7371_28
+7371_31	has_surface_form	library
+7371_30	is_in_sentence	sentence_7371
+7371_30	compound	7371_31
+7371_30	has_surface_form	subscription
+7371_32	is_in_sentence	sentence_7371
+7371_32	punct	7371_20
+7371_32	has_surface_form	.
+7371_33	is_in_sentence	sentence_7371
+7371_33	dep	7371_33
+7371_33	has_surface_form	
+The New York Society Library	surface_form	The New York Society Library
+The New York Society Library	has-type	cultural institution
+cultural institution	surface_form	cultural institution

@@ -1,0 +1,56 @@
+16251_0	is_in_sentence	sentence_16251
+16251_0	compound	16251_1
+16251_0	has_surface_form	Pierre
+16251_0	part_of_entity	Pierre Morel
+16251_1	is_in_sentence	sentence_16251
+16251_1	nsubj	16251_8
+16251_1	has_surface_form	Morel
+16251_1	part_of_entity	Pierre Morel
+16251_8	is_in_sentence	sentence_16251
+16251_8	ROOT	16251_8
+16251_8	has_surface_form	is
+16251_2	is_in_sentence	sentence_16251
+16251_2	punct	16251_1
+16251_2	has_surface_form	(
+16251_3	is_in_sentence	sentence_16251
+16251_3	acl	16251_1
+16251_3	has_surface_form	born
+16251_4	is_in_sentence	sentence_16251
+16251_4	nummod	16251_6
+16251_4	has_surface_form	12
+16251_6	is_in_sentence	sentence_16251
+16251_6	npadvmod	16251_3
+16251_6	has_surface_form	1964
+16251_5	is_in_sentence	sentence_16251
+16251_5	compound	16251_6
+16251_5	has_surface_form	May
+16251_7	is_in_sentence	sentence_16251
+16251_7	punct	16251_1
+16251_7	has_surface_form	)
+16251_9	is_in_sentence	sentence_16251
+16251_9	det	16251_12
+16251_9	has_surface_form	a
+16251_12	is_in_sentence	sentence_16251
+16251_12	attr	16251_8
+16251_12	has_surface_form	director
+16251_10	is_in_sentence	sentence_16251
+16251_10	amod	16251_12
+16251_10	has_surface_form	French
+16251_11	is_in_sentence	sentence_16251
+16251_11	compound	16251_12
+16251_11	has_surface_form	film
+16251_13	is_in_sentence	sentence_16251
+16251_13	cc	16251_12
+16251_13	has_surface_form	and
+16251_14	is_in_sentence	sentence_16251
+16251_14	conj	16251_12
+16251_14	is_entity	cinematographer
+cinematographer	surface_form	cinematographer
+16251_15	is_in_sentence	sentence_16251
+16251_15	punct	16251_8
+16251_15	has_surface_form	.
+16251_16	is_in_sentence	sentence_16251
+16251_16	dep	16251_16
+16251_16	has_surface_form	
+Pierre Morel	surface_form	Pierre Morel
+Pierre Morel	has-occupation	cinematographer

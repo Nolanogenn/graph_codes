@@ -1,0 +1,67 @@
+14027_0	is_in_sentence	sentence_14027
+14027_0	compound	14027_1
+14027_0	has_surface_form	Frontier
+14027_0	part_of_entity	Frontier Outlaws
+14027_1	is_in_sentence	sentence_14027
+14027_1	nsubj	14027_2
+14027_1	has_surface_form	Outlaws
+14027_1	part_of_entity	Frontier Outlaws
+14027_2	is_in_sentence	sentence_14027
+14027_2	ROOT	14027_2
+14027_2	has_surface_form	is
+14027_3	is_in_sentence	sentence_14027
+14027_3	det	14027_7
+14027_3	has_surface_form	a
+14027_7	is_in_sentence	sentence_14027
+14027_7	attr	14027_2
+14027_7	has_surface_form	film
+14027_4	is_in_sentence	sentence_14027
+14027_4	nummod	14027_7
+14027_4	has_surface_form	1944
+14027_5	is_in_sentence	sentence_14027
+14027_5	amod	14027_7
+14027_5	has_surface_form	American
+14027_6	is_in_sentence	sentence_14027
+14027_6	amod	14027_7
+14027_6	has_surface_form	Western
+14027_8	is_in_sentence	sentence_14027
+14027_8	acl	14027_7
+14027_8	has_surface_form	directed
+14027_9	is_in_sentence	sentence_14027
+14027_9	agent	14027_8
+14027_9	has_surface_form	by
+14027_10	is_in_sentence	sentence_14027
+14027_10	compound	14027_11
+14027_10	has_surface_form	Sam
+14027_10	part_of_entity	Sam Newfield
+14027_11	is_in_sentence	sentence_14027
+14027_11	pobj	14027_9
+14027_11	has_surface_form	Newfield
+14027_11	part_of_entity	Sam Newfield
+14027_12	is_in_sentence	sentence_14027
+14027_12	acl	14027_7
+14027_12	has_surface_form	shot
+14027_13	is_in_sentence	sentence_14027
+14027_13	prep	14027_12
+14027_13	has_surface_form	at
+14027_14	is_in_sentence	sentence_14027
+14027_14	det	14027_17
+14027_14	has_surface_form	the
+14027_17	is_in_sentence	sentence_14027
+14027_17	pobj	14027_13
+14027_17	has_surface_form	Ranch
+14027_15	is_in_sentence	sentence_14027
+14027_15	compound	14027_17
+14027_15	has_surface_form	Corriganville
+14027_16	is_in_sentence	sentence_14027
+14027_16	compound	14027_17
+14027_16	has_surface_form	Movie
+14027_18	is_in_sentence	sentence_14027
+14027_18	punct	14027_2
+14027_18	has_surface_form	.
+14027_19	is_in_sentence	sentence_14027
+14027_19	dep	14027_2
+14027_19	has_surface_form	
+Frontier Outlaws	surface_form	Frontier Outlaws
+Frontier Outlaws	movie-has-director	Sam Newfield
+Sam Newfield	surface_form	Sam Newfield

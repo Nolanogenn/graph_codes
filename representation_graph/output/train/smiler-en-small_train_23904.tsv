@@ -1,0 +1,84 @@
+23903_0	is_in_sentence	sentence_23903
+23903_0	compound	23903_1
+23903_0	has_surface_form	Philippines
+23903_0	part_of_entity	Philippines AirAsia
+23903_1	is_in_sentence	sentence_23903
+23903_1	nsubj	23903_4
+23903_1	has_surface_form	AirAsia
+23903_1	part_of_entity	Philippines AirAsia
+23903_4	is_in_sentence	sentence_23903
+23903_4	ROOT	23903_4
+23903_4	has_surface_form	is
+23903_2	is_in_sentence	sentence_23903
+23903_2	punct	23903_1
+23903_2	has_surface_form	,
+23903_3	is_in_sentence	sentence_23903
+23903_3	appos	23903_1
+23903_3	has_surface_form	Inc.
+23903_5	is_in_sentence	sentence_23903
+23903_5	det	23903_9
+23903_5	has_surface_form	a
+23903_9	is_in_sentence	sentence_23903
+23903_9	attr	23903_4
+23903_9	has_surface_form	airline
+23903_6	is_in_sentence	sentence_23903
+23903_6	amod	23903_8
+23903_6	has_surface_form	low
+23903_8	is_in_sentence	sentence_23903
+23903_8	compound	23903_9
+23903_8	has_surface_form	cost
+23903_7	is_in_sentence	sentence_23903
+23903_7	punct	23903_8
+23903_7	has_surface_form	-
+23903_10	is_in_sentence	sentence_23903
+23903_10	acl	23903_9
+23903_10	has_surface_form	based
+23903_11	is_in_sentence	sentence_23903
+23903_11	prep	23903_10
+23903_11	has_surface_form	at
+23903_12	is_in_sentence	sentence_23903
+23903_12	compound	23903_15
+23903_12	has_surface_form	Ninoy
+23903_12	part_of_entity	Ninoy Aquino International Airport in Metro Manila
+23903_15	is_in_sentence	sentence_23903
+23903_15	pobj	23903_11
+23903_15	has_surface_form	Airport
+23903_15	part_of_entity	Ninoy Aquino International Airport in Metro Manila
+23903_13	is_in_sentence	sentence_23903
+23903_13	compound	23903_15
+23903_13	has_surface_form	Aquino
+23903_13	part_of_entity	Ninoy Aquino International Airport in Metro Manila
+23903_14	is_in_sentence	sentence_23903
+23903_14	compound	23903_15
+23903_14	has_surface_form	International
+23903_14	part_of_entity	Ninoy Aquino International Airport in Metro Manila
+23903_16	is_in_sentence	sentence_23903
+23903_16	prep	23903_15
+23903_16	has_surface_form	in
+23903_16	part_of_entity	Ninoy Aquino International Airport in Metro Manila
+23903_17	is_in_sentence	sentence_23903
+23903_17	compound	23903_18
+23903_17	has_surface_form	Metro
+23903_17	part_of_entity	Ninoy Aquino International Airport in Metro Manila
+23903_18	is_in_sentence	sentence_23903
+23903_18	pobj	23903_16
+23903_18	has_surface_form	Manila
+23903_18	part_of_entity	Ninoy Aquino International Airport in Metro Manila
+23903_19	is_in_sentence	sentence_23903
+23903_19	prep	23903_15
+23903_19	has_surface_form	in
+23903_20	is_in_sentence	sentence_23903
+23903_20	det	23903_21
+23903_20	has_surface_form	the
+23903_21	is_in_sentence	sentence_23903
+23903_21	pobj	23903_19
+23903_21	has_surface_form	Philippines
+23903_22	is_in_sentence	sentence_23903
+23903_22	punct	23903_4
+23903_22	has_surface_form	.
+23903_23	is_in_sentence	sentence_23903
+23903_23	dep	23903_4
+23903_23	has_surface_form	
+Philippines AirAsia	surface_form	Philippines AirAsia
+Philippines AirAsia	headquarters	Ninoy Aquino International Airport in Metro Manila
+Ninoy Aquino International Airport in Metro Manila	surface_form	Ninoy Aquino International Airport in Metro Manila

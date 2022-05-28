@@ -1,0 +1,65 @@
+4083_0	is_in_sentence	sentence_4083
+4083_0	compound	4083_1
+4083_0	has_surface_form	Spencer
+4083_0	part_of_entity	Spencer McLaren
+4083_1	is_in_sentence	sentence_4083
+4083_1	nsubj	4083_10
+4083_1	has_surface_form	McLaren
+4083_1	part_of_entity	Spencer McLaren
+4083_10	is_in_sentence	sentence_4083
+4083_10	ROOT	4083_10
+4083_10	has_surface_form	is
+4083_2	is_in_sentence	sentence_4083
+4083_2	punct	4083_3
+4083_2	has_surface_form	(
+4083_3	is_in_sentence	sentence_4083
+4083_3	parataxis	4083_1
+4083_3	has_surface_form	born
+4083_4	is_in_sentence	sentence_4083
+4083_4	nummod	4083_5
+4083_4	has_surface_form	28
+4083_5	is_in_sentence	sentence_4083
+4083_5	npadvmod	4083_3
+4083_5	has_surface_form	February
+4083_6	is_in_sentence	sentence_4083
+4083_6	nummod	4083_5
+4083_6	has_surface_form	1973
+4083_7	is_in_sentence	sentence_4083
+4083_7	punct	4083_1
+4083_7	has_surface_form	,
+4083_8	is_in_sentence	sentence_4083
+4083_8	appos	4083_1
+4083_8	is_entity	Sydney
+Sydney	surface_form	Sydney
+4083_9	is_in_sentence	sentence_4083
+4083_9	punct	4083_1
+4083_9	has_surface_form	)
+4083_11	is_in_sentence	sentence_4083
+4083_11	det	4083_17
+4083_11	has_surface_form	an
+4083_17	is_in_sentence	sentence_4083
+4083_17	attr	4083_10
+4083_17	has_surface_form	actor
+4083_12	is_in_sentence	sentence_4083
+4083_12	amod	4083_14
+4083_12	has_surface_form	Australian
+4083_14	is_in_sentence	sentence_4083
+4083_14	nmod	4083_17
+4083_14	has_surface_form	actor
+4083_13	is_in_sentence	sentence_4083
+4083_13	nmod	4083_14
+4083_13	has_surface_form	theatre
+4083_15	is_in_sentence	sentence_4083
+4083_15	cc	4083_14
+4083_15	has_surface_form	and
+4083_16	is_in_sentence	sentence_4083
+4083_16	conj	4083_14
+4083_16	has_surface_form	television
+4083_18	is_in_sentence	sentence_4083
+4083_18	punct	4083_10
+4083_18	has_surface_form	.
+4083_19	is_in_sentence	sentence_4083
+4083_19	dep	4083_19
+4083_19	has_surface_form	
+Spencer McLaren	surface_form	Spencer McLaren
+Spencer McLaren	birth-place	Sydney

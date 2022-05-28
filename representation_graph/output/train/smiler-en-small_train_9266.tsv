@@ -1,0 +1,94 @@
+9265_0	is_in_sentence	sentence_9265
+9265_0	compound	9265_1
+9265_0	has_surface_form	Ahmed
+9265_0	part_of_entity	Ahmed Mekehout
+9265_1	is_in_sentence	sentence_9265
+9265_1	nsubj	9265_9
+9265_1	has_surface_form	Mekehout
+9265_1	part_of_entity	Ahmed Mekehout
+9265_9	is_in_sentence	sentence_9265
+9265_9	ROOT	9265_9
+9265_9	has_surface_form	is
+9265_2	is_in_sentence	sentence_9265
+9265_2	punct	9265_1
+9265_2	has_surface_form	(
+9265_3	is_in_sentence	sentence_9265
+9265_3	acl	9265_1
+9265_3	has_surface_form	born
+9265_4	is_in_sentence	sentence_9265
+9265_4	npadvmod	9265_3
+9265_4	has_surface_form	April
+9265_5	is_in_sentence	sentence_9265
+9265_5	nummod	9265_4
+9265_5	has_surface_form	4
+9265_6	is_in_sentence	sentence_9265
+9265_6	punct	9265_4
+9265_6	has_surface_form	,
+9265_7	is_in_sentence	sentence_9265
+9265_7	nummod	9265_4
+9265_7	has_surface_form	1983
+9265_8	is_in_sentence	sentence_9265
+9265_8	punct	9265_1
+9265_8	has_surface_form	)
+9265_10	is_in_sentence	sentence_9265
+9265_10	det	9265_13
+9265_10	has_surface_form	an
+9265_13	is_in_sentence	sentence_9265
+9265_13	attr	9265_9
+9265_13	has_surface_form	player
+9265_11	is_in_sentence	sentence_9265
+9265_11	amod	9265_13
+9265_11	has_surface_form	Algerian
+9265_12	is_in_sentence	sentence_9265
+9265_12	compound	9265_13
+9265_12	has_surface_form	football
+9265_14	is_in_sentence	sentence_9265
+9265_14	punct	9265_9
+9265_14	has_surface_form	.
+9265_15	is_in_sentence	sentence_9265
+9265_15	nsubj	9265_17
+9265_15	has_surface_form	He
+9265_17	is_in_sentence	sentence_9265
+9265_17	ROOT	9265_17
+9265_17	has_surface_form	plays
+9265_16	is_in_sentence	sentence_9265
+9265_16	advmod	9265_17
+9265_16	has_surface_form	currently
+9265_18	is_in_sentence	sentence_9265
+9265_18	prep	9265_17
+9265_18	has_surface_form	for
+9265_19	is_in_sentence	sentence_9265
+9265_19	compound	9265_20
+9265_19	has_surface_form	JS
+9265_19	part_of_entity	JS Kabylie
+9265_20	is_in_sentence	sentence_9265
+9265_20	pobj	9265_18
+9265_20	has_surface_form	Kabylie
+9265_20	part_of_entity	JS Kabylie
+9265_21	is_in_sentence	sentence_9265
+9265_21	prep	9265_17
+9265_21	has_surface_form	in
+9265_22	is_in_sentence	sentence_9265
+9265_22	det	9265_23
+9265_22	has_surface_form	the
+9265_23	is_in_sentence	sentence_9265
+9265_23	pobj	9265_21
+9265_23	has_surface_form	Algerian
+9265_24	is_in_sentence	sentence_9265
+9265_24	compound	9265_25
+9265_24	has_surface_form	Ligue
+9265_25	is_in_sentence	sentence_9265
+9265_25	pobj	9265_21
+9265_25	has_surface_form	Professionnelle
+9265_26	is_in_sentence	sentence_9265
+9265_26	nummod	9265_25
+9265_26	has_surface_form	1
+9265_27	is_in_sentence	sentence_9265
+9265_27	punct	9265_17
+9265_27	has_surface_form	.
+9265_28	is_in_sentence	sentence_9265
+9265_28	dep	9265_17
+9265_28	has_surface_form	
+Ahmed Mekehout	surface_form	Ahmed Mekehout
+Ahmed Mekehout	is-member-of	JS Kabylie
+JS Kabylie	surface_form	JS Kabylie

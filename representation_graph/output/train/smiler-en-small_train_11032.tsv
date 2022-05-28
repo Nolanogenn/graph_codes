@@ -1,0 +1,67 @@
+11031_0	is_in_sentence	sentence_11031
+11031_0	nsubj	11031_4
+11031_0	has_surface_form	Port
+11031_0	part_of_entity	Port of Brisbane Motorway
+11031_4	is_in_sentence	sentence_11031
+11031_4	ROOT	11031_4
+11031_4	has_surface_form	is
+11031_1	is_in_sentence	sentence_11031
+11031_1	prep	11031_0
+11031_1	has_surface_form	of
+11031_1	part_of_entity	Port of Brisbane Motorway
+11031_2	is_in_sentence	sentence_11031
+11031_2	compound	11031_3
+11031_2	has_surface_form	Brisbane
+11031_2	part_of_entity	Port of Brisbane Motorway
+11031_3	is_in_sentence	sentence_11031
+11031_3	pobj	11031_1
+11031_3	has_surface_form	Motorway
+11031_3	part_of_entity	Port of Brisbane Motorway
+11031_5	is_in_sentence	sentence_11031
+11031_5	det	11031_6
+11031_5	has_surface_form	a
+11031_6	is_in_sentence	sentence_11031
+11031_6	attr	11031_4
+11031_6	is_entity	motorway
+motorway	surface_form	motorway
+11031_7	is_in_sentence	sentence_11031
+11031_7	punct	11031_6
+11031_7	has_surface_form	,
+11031_8	is_in_sentence	sentence_11031
+11031_8	nsubj	11031_9
+11031_8	has_surface_form	which
+11031_9	is_in_sentence	sentence_11031
+11031_9	relcl	11031_6
+11031_9	has_surface_form	connects
+11031_10	is_in_sentence	sentence_11031
+11031_10	det	11031_11
+11031_10	has_surface_form	the
+11031_11	is_in_sentence	sentence_11031
+11031_11	dobj	11031_9
+11031_11	has_surface_form	Port
+11031_12	is_in_sentence	sentence_11031
+11031_12	prep	11031_11
+11031_12	has_surface_form	of
+11031_13	is_in_sentence	sentence_11031
+11031_13	pobj	11031_12
+11031_13	has_surface_form	Brisbane
+11031_14	is_in_sentence	sentence_11031
+11031_14	prep	11031_9
+11031_14	has_surface_form	to
+11031_15	is_in_sentence	sentence_11031
+11031_15	det	11031_17
+11031_15	has_surface_form	the
+11031_17	is_in_sentence	sentence_11031
+11031_17	pobj	11031_14
+11031_17	has_surface_form	Motorway
+11031_16	is_in_sentence	sentence_11031
+11031_16	compound	11031_17
+11031_16	has_surface_form	Gateway
+11031_18	is_in_sentence	sentence_11031
+11031_18	punct	11031_4
+11031_18	has_surface_form	.
+11031_19	is_in_sentence	sentence_11031
+11031_19	dep	11031_19
+11031_19	has_surface_form	
+Port of Brisbane Motorway	surface_form	Port of Brisbane Motorway
+Port of Brisbane Motorway	has-type	motorway

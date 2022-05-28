@@ -1,0 +1,91 @@
+18974_0	is_in_sentence	sentence_18974
+18974_0	compound	18974_1
+18974_0	has_surface_form	Weather
+18974_0	part_of_entity	Weather Machine
+18974_1	is_in_sentence	sentence_18974
+18974_1	nsubj	18974_2
+18974_1	has_surface_form	Machine
+18974_1	part_of_entity	Weather Machine
+18974_2	is_in_sentence	sentence_18974
+18974_2	ROOT	18974_2
+18974_2	has_surface_form	is
+18974_3	is_in_sentence	sentence_18974
+18974_3	det	18974_10
+18974_3	has_surface_form	a
+18974_10	is_in_sentence	sentence_18974
+18974_10	attr	18974_2
+18974_10	has_surface_form	machine
+18974_4	is_in_sentence	sentence_18974
+18974_4	amod	18974_5
+18974_4	has_surface_form	lumino
+18974_5	is_in_sentence	sentence_18974
+18974_5	amod	18974_10
+18974_5	has_surface_form	kinetic
+18974_6	is_in_sentence	sentence_18974
+18974_6	nmod	18974_7
+18974_6	has_surface_form	bronze
+18974_6	part_of_entity	bronze sculpture
+18974_7	is_in_sentence	sentence_18974
+18974_7	nmod	18974_10
+18974_7	has_surface_form	sculpture
+18974_7	part_of_entity	bronze sculpture
+18974_8	is_in_sentence	sentence_18974
+18974_8	cc	18974_7
+18974_8	has_surface_form	and
+18974_9	is_in_sentence	sentence_18974
+18974_9	conj	18974_7
+18974_9	has_surface_form	columnar
+18974_11	is_in_sentence	sentence_18974
+18974_11	nsubj	18974_12
+18974_11	has_surface_form	that
+18974_12	is_in_sentence	sentence_18974
+18974_12	relcl	18974_10
+18974_12	has_surface_form	serves
+18974_13	is_in_sentence	sentence_18974
+18974_13	prep	18974_12
+18974_13	has_surface_form	as
+18974_14	is_in_sentence	sentence_18974
+18974_14	det	18974_16
+18974_14	has_surface_form	a
+18974_16	is_in_sentence	sentence_18974
+18974_16	pobj	18974_13
+18974_16	has_surface_form	beacon
+18974_15	is_in_sentence	sentence_18974
+18974_15	compound	18974_16
+18974_15	has_surface_form	weather
+18974_17	is_in_sentence	sentence_18974
+18974_17	punct	18974_2
+18974_17	has_surface_form	,
+18974_18	is_in_sentence	sentence_18974
+18974_18	advcl	18974_2
+18974_18	has_surface_form	displaying
+18974_19	is_in_sentence	sentence_18974
+18974_19	det	18974_21
+18974_19	has_surface_form	a
+18974_21	is_in_sentence	sentence_18974
+18974_21	dobj	18974_18
+18974_21	has_surface_form	prediction
+18974_20	is_in_sentence	sentence_18974
+18974_20	compound	18974_21
+18974_20	has_surface_form	weather
+18974_22	is_in_sentence	sentence_18974
+18974_22	det	18974_23
+18974_22	has_surface_form	each
+18974_23	is_in_sentence	sentence_18974
+18974_23	npadvmod	18974_18
+18974_23	has_surface_form	day
+18974_24	is_in_sentence	sentence_18974
+18974_24	prep	18974_18
+18974_24	has_surface_form	at
+18974_25	is_in_sentence	sentence_18974
+18974_25	pobj	18974_24
+18974_25	has_surface_form	noon
+18974_26	is_in_sentence	sentence_18974
+18974_26	punct	18974_2
+18974_26	has_surface_form	.
+18974_27	is_in_sentence	sentence_18974
+18974_27	dep	18974_27
+18974_27	has_surface_form	
+Weather Machine	surface_form	Weather Machine
+Weather Machine	has-type	bronze sculpture
+bronze sculpture	surface_form	bronze sculpture

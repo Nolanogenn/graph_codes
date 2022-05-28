@@ -1,0 +1,60 @@
+15036_0	is_in_sentence	sentence_15036
+15036_0	det	15036_2
+15036_0	has_surface_form	The
+15036_0	part_of_entity	The Newest Pledge
+15036_2	is_in_sentence	sentence_15036
+15036_2	nsubj	15036_3
+15036_2	has_surface_form	Pledge
+15036_2	part_of_entity	The Newest Pledge
+15036_1	is_in_sentence	sentence_15036
+15036_1	compound	15036_2
+15036_1	has_surface_form	Newest
+15036_1	part_of_entity	The Newest Pledge
+15036_3	is_in_sentence	sentence_15036
+15036_3	ROOT	15036_3
+15036_3	has_surface_form	is
+15036_4	is_in_sentence	sentence_15036
+15036_4	det	15036_7
+15036_4	has_surface_form	a
+15036_7	is_in_sentence	sentence_15036
+15036_7	attr	15036_3
+15036_7	has_surface_form	film
+15036_5	is_in_sentence	sentence_15036
+15036_5	nummod	15036_7
+15036_5	has_surface_form	2012
+15036_6	is_in_sentence	sentence_15036
+15036_6	compound	15036_7
+15036_6	has_surface_form	comedy
+15036_8	is_in_sentence	sentence_15036
+15036_8	acl	15036_7
+15036_8	has_surface_form	written
+15036_9	is_in_sentence	sentence_15036
+15036_9	cc	15036_8
+15036_9	has_surface_form	and
+15036_10	is_in_sentence	sentence_15036
+15036_10	conj	15036_8
+15036_10	has_surface_form	directed
+15036_11	is_in_sentence	sentence_15036
+15036_11	agent	15036_10
+15036_11	has_surface_form	by
+15036_12	is_in_sentence	sentence_15036
+15036_12	compound	15036_14
+15036_12	has_surface_form	Jason
+15036_12	part_of_entity	Jason Michael Brescia
+15036_14	is_in_sentence	sentence_15036
+15036_14	pobj	15036_11
+15036_14	has_surface_form	Brescia
+15036_14	part_of_entity	Jason Michael Brescia
+15036_13	is_in_sentence	sentence_15036
+15036_13	compound	15036_14
+15036_13	has_surface_form	Michael
+15036_13	part_of_entity	Jason Michael Brescia
+15036_15	is_in_sentence	sentence_15036
+15036_15	punct	15036_3
+15036_15	has_surface_form	.
+15036_16	is_in_sentence	sentence_15036
+15036_16	dep	15036_16
+15036_16	has_surface_form	
+The Newest Pledge	surface_form	The Newest Pledge
+The Newest Pledge	movie-has-director	Jason Michael Brescia
+Jason Michael Brescia	surface_form	Jason Michael Brescia

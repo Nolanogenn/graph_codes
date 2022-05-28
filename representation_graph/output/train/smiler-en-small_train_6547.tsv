@@ -1,0 +1,89 @@
+6546_0	is_in_sentence	sentence_6546
+6546_0	compound	6546_1
+6546_0	has_surface_form	Alexei
+6546_0	part_of_entity	Alexei Abrikosov
+6546_1	is_in_sentence	sentence_6546
+6546_1	nsubj	6546_2
+6546_1	has_surface_form	Abrikosov
+6546_1	part_of_entity	Alexei Abrikosov
+6546_2	is_in_sentence	sentence_6546
+6546_2	ROOT	6546_2
+6546_2	has_surface_form	was
+6546_3	is_in_sentence	sentence_6546
+6546_3	det	6546_4
+6546_3	has_surface_form	the
+6546_4	is_in_sentence	sentence_6546
+6546_4	attr	6546_2
+6546_4	has_surface_form	father
+6546_5	is_in_sentence	sentence_6546
+6546_5	prep	6546_4
+6546_5	has_surface_form	of
+6546_6	is_in_sentence	sentence_6546
+6546_6	compound	6546_8
+6546_6	has_surface_form	Alexei
+6546_6	part_of_entity	Alexei Alexeyevich Abrikosov
+6546_8	is_in_sentence	sentence_6546
+6546_8	pobj	6546_5
+6546_8	has_surface_form	Abrikosov
+6546_8	part_of_entity	Alexei Alexeyevich Abrikosov
+6546_7	is_in_sentence	sentence_6546
+6546_7	compound	6546_8
+6546_7	has_surface_form	Alexeyevich
+6546_7	part_of_entity	Alexei Alexeyevich Abrikosov
+6546_9	is_in_sentence	sentence_6546
+6546_9	punct	6546_8
+6546_9	has_surface_form	,
+6546_10	is_in_sentence	sentence_6546
+6546_10	det	6546_12
+6546_10	has_surface_form	a
+6546_12	is_in_sentence	sentence_6546
+6546_12	appos	6546_8
+6546_12	has_surface_form	physicist
+6546_11	is_in_sentence	sentence_6546
+6546_11	amod	6546_12
+6546_11	has_surface_form	theoretical
+6546_13	is_in_sentence	sentence_6546
+6546_13	cc	6546_12
+6546_13	has_surface_form	and
+6546_14	is_in_sentence	sentence_6546
+6546_14	det	6546_15
+6546_14	has_surface_form	a
+6546_15	is_in_sentence	sentence_6546
+6546_15	conj	6546_12
+6546_15	has_surface_form	co
+6546_16	is_in_sentence	sentence_6546
+6546_16	appos	6546_12
+6546_16	has_surface_form	-
+6546_17	is_in_sentence	sentence_6546
+6546_17	appos	6546_12
+6546_17	has_surface_form	recipient
+6546_18	is_in_sentence	sentence_6546
+6546_18	prep	6546_17
+6546_18	has_surface_form	of
+6546_19	is_in_sentence	sentence_6546
+6546_19	det	6546_22
+6546_19	has_surface_form	the
+6546_22	is_in_sentence	sentence_6546
+6546_22	pobj	6546_18
+6546_22	has_surface_form	Prize
+6546_20	is_in_sentence	sentence_6546
+6546_20	nummod	6546_22
+6546_20	has_surface_form	2003
+6546_21	is_in_sentence	sentence_6546
+6546_21	compound	6546_22
+6546_21	has_surface_form	Nobel
+6546_23	is_in_sentence	sentence_6546
+6546_23	prep	6546_22
+6546_23	has_surface_form	in
+6546_24	is_in_sentence	sentence_6546
+6546_24	pobj	6546_23
+6546_24	has_surface_form	Physics
+6546_25	is_in_sentence	sentence_6546
+6546_25	punct	6546_2
+6546_25	has_surface_form	.
+6546_26	is_in_sentence	sentence_6546
+6546_26	dep	6546_2
+6546_26	has_surface_form	
+Alexei Abrikosov	surface_form	Alexei Abrikosov
+Alexei Abrikosov	has-child	Alexei Alexeyevich Abrikosov
+Alexei Alexeyevich Abrikosov	surface_form	Alexei Alexeyevich Abrikosov

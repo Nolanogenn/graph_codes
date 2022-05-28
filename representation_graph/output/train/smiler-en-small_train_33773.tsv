@@ -1,0 +1,91 @@
+33772_0	is_in_sentence	sentence_33772
+33772_0	compound	33772_1
+33772_0	has_surface_form	Mani
+33772_0	part_of_entity	Mani Osai
+33772_1	is_in_sentence	sentence_33772
+33772_1	nsubj	33772_3
+33772_1	has_surface_form	Osai
+33772_1	part_of_entity	Mani Osai
+33772_3	is_in_sentence	sentence_33772
+33772_3	ROOT	33772_3
+33772_3	has_surface_form	lit
+33772_2	is_in_sentence	sentence_33772
+33772_2	punct	33772_3
+33772_2	has_surface_form	(
+33772_4	is_in_sentence	sentence_33772
+33772_4	punct	33772_3
+33772_4	has_surface_form	.
+33772_5	is_in_sentence	sentence_33772
+33772_5	dep	33772_7
+33772_5	has_surface_form	 
+33772_7	is_in_sentence	sentence_33772
+33772_7	nsubj	33772_9
+33772_7	has_surface_form	Sound
+33772_6	is_in_sentence	sentence_33772
+33772_6	compound	33772_7
+33772_6	has_surface_form	Bell
+33772_9	is_in_sentence	sentence_33772
+33772_9	ROOT	33772_9
+33772_9	has_surface_form	is
+33772_8	is_in_sentence	sentence_33772
+33772_8	punct	33772_7
+33772_8	has_surface_form	)
+33772_10	is_in_sentence	sentence_33772
+33772_10	det	33772_16
+33772_10	has_surface_form	a
+33772_16	is_in_sentence	sentence_33772
+33772_16	attr	33772_9
+33772_16	has_surface_form	film
+33772_11	is_in_sentence	sentence_33772
+33772_11	nummod	33772_16
+33772_11	has_surface_form	1963
+33772_12	is_in_sentence	sentence_33772
+33772_12	compound	33772_14
+33772_12	has_surface_form	Tamil
+33772_14	is_in_sentence	sentence_33772
+33772_14	compound	33772_16
+33772_14	has_surface_form	language
+33772_13	is_in_sentence	sentence_33772
+33772_13	punct	33772_14
+33772_13	has_surface_form	-
+33772_15	is_in_sentence	sentence_33772
+33772_15	compound	33772_16
+33772_15	has_surface_form	drama
+33772_17	is_in_sentence	sentence_33772
+33772_17	punct	33772_16
+33772_17	has_surface_form	,
+33772_18	is_in_sentence	sentence_33772
+33772_18	acl	33772_16
+33772_18	has_surface_form	directed
+33772_19	is_in_sentence	sentence_33772
+33772_19	agent	33772_18
+33772_19	has_surface_form	by
+33772_20	is_in_sentence	sentence_33772
+33772_20	compound	33772_21
+33772_20	has_surface_form	P.
+33772_20	part_of_entity	P. Madhavan
+33772_21	is_in_sentence	sentence_33772
+33772_21	pobj	33772_19
+33772_21	has_surface_form	Madhavan
+33772_21	part_of_entity	P. Madhavan
+33772_22	is_in_sentence	sentence_33772
+33772_22	punct	33772_21
+33772_22	has_surface_form	,
+33772_23	is_in_sentence	sentence_33772
+33772_23	poss	33772_25
+33772_23	has_surface_form	his
+33772_25	is_in_sentence	sentence_33772
+33772_25	appos	33772_21
+33772_25	has_surface_form	debut
+33772_24	is_in_sentence	sentence_33772
+33772_24	amod	33772_25
+33772_24	has_surface_form	directorial
+33772_26	is_in_sentence	sentence_33772
+33772_26	punct	33772_9
+33772_26	has_surface_form	.
+33772_27	is_in_sentence	sentence_33772
+33772_27	dep	33772_27
+33772_27	has_surface_form	
+Mani Osai	surface_form	Mani Osai
+Mani Osai	movie-has-director	P. Madhavan
+P. Madhavan	surface_form	P. Madhavan

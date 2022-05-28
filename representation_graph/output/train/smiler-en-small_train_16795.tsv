@@ -1,0 +1,82 @@
+16794_0	is_in_sentence	sentence_16794
+16794_0	compound	16794_1
+16794_0	has_surface_form	Peter
+16794_0	part_of_entity	Peter Rock
+16794_1	is_in_sentence	sentence_16794
+16794_1	poss	16794_3
+16794_1	has_surface_form	Rock
+16794_1	part_of_entity	Peter Rock
+16794_3	is_in_sentence	sentence_16794
+16794_3	nsubj	16794_8
+16794_3	has_surface_form	son
+16794_2	is_in_sentence	sentence_16794
+16794_2	case	16794_1
+16794_2	has_surface_form	's
+16794_8	is_in_sentence	sentence_16794
+16794_8	ROOT	16794_8
+16794_8	has_surface_form	resides
+16794_4	is_in_sentence	sentence_16794
+16794_4	punct	16794_3
+16794_4	has_surface_form	,
+16794_5	is_in_sentence	sentence_16794
+16794_5	compound	16794_6
+16794_5	has_surface_form	Justin
+16794_5	part_of_entity	Justin Leigh
+16794_6	is_in_sentence	sentence_16794
+16794_6	appos	16794_3
+16794_6	has_surface_form	Leigh
+16794_6	part_of_entity	Justin Leigh
+16794_7	is_in_sentence	sentence_16794
+16794_7	punct	16794_3
+16794_7	has_surface_form	,
+16794_9	is_in_sentence	sentence_16794
+16794_9	prep	16794_8
+16794_9	has_surface_form	in
+16794_10	is_in_sentence	sentence_16794
+16794_10	compound	16794_11
+16794_10	has_surface_form	Los
+16794_11	is_in_sentence	sentence_16794
+16794_11	pobj	16794_9
+16794_11	has_surface_form	Angeles
+16794_12	is_in_sentence	sentence_16794
+16794_12	cc	16794_8
+16794_12	has_surface_form	and
+16794_13	is_in_sentence	sentence_16794
+16794_13	poss	16794_14
+16794_13	has_surface_form	his
+16794_14	is_in_sentence	sentence_16794
+16794_14	nsubj	16794_16
+16794_14	has_surface_form	daughter
+16794_16	is_in_sentence	sentence_16794
+16794_16	conj	16794_8
+16794_16	has_surface_form	lived
+16794_15	is_in_sentence	sentence_16794
+16794_15	appos	16794_14
+16794_15	has_surface_form	Natalie
+16794_17	is_in_sentence	sentence_16794
+16794_17	prep	16794_16
+16794_17	has_surface_form	with
+16794_18	is_in_sentence	sentence_16794
+16794_18	pobj	16794_17
+16794_18	has_surface_form	him
+16794_19	is_in_sentence	sentence_16794
+16794_19	prep	16794_16
+16794_19	has_surface_form	in
+16794_20	is_in_sentence	sentence_16794
+16794_20	pobj	16794_19
+16794_20	has_surface_form	Santiago
+16794_21	is_in_sentence	sentence_16794
+16794_21	punct	16794_20
+16794_21	has_surface_form	,
+16794_22	is_in_sentence	sentence_16794
+16794_22	appos	16794_20
+16794_22	has_surface_form	Chile
+16794_23	is_in_sentence	sentence_16794
+16794_23	punct	16794_16
+16794_23	has_surface_form	.
+16794_24	is_in_sentence	sentence_16794
+16794_24	dep	16794_8
+16794_24	has_surface_form	
+Peter Rock	surface_form	Peter Rock
+Peter Rock	has-child	Justin Leigh
+Justin Leigh	surface_form	Justin Leigh

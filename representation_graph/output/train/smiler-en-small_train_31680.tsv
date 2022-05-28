@@ -1,0 +1,64 @@
+31679_0	is_in_sentence	sentence_31679
+31679_0	det	31679_1
+31679_0	has_surface_form	The
+31679_0	part_of_entity	The Route
+31679_1	is_in_sentence	sentence_31679
+31679_1	nsubj	31679_2
+31679_1	has_surface_form	Route
+31679_1	part_of_entity	The Route
+31679_2	is_in_sentence	sentence_31679
+31679_2	ROOT	31679_2
+31679_2	has_surface_form	is
+31679_3	is_in_sentence	sentence_31679
+31679_3	det	31679_5
+31679_3	has_surface_form	a
+31679_5	is_in_sentence	sentence_31679
+31679_5	attr	31679_2
+31679_5	has_surface_form	film
+31679_4	is_in_sentence	sentence_31679
+31679_4	compound	31679_5
+31679_4	has_surface_form	Ugandan
+31679_6	is_in_sentence	sentence_31679
+31679_6	acl	31679_5
+31679_6	has_surface_form	directed
+31679_7	is_in_sentence	sentence_31679
+31679_7	agent	31679_6
+31679_7	has_surface_form	by
+31679_8	is_in_sentence	sentence_31679
+31679_8	compound	31679_9
+31679_8	has_surface_form	Jayant
+31679_8	part_of_entity	Jayant Maru
+31679_9	is_in_sentence	sentence_31679
+31679_9	pobj	31679_7
+31679_9	has_surface_form	Maru
+31679_9	part_of_entity	Jayant Maru
+31679_10	is_in_sentence	sentence_31679
+31679_10	punct	31679_5
+31679_10	has_surface_form	,
+31679_11	is_in_sentence	sentence_31679
+31679_11	acl	31679_5
+31679_11	has_surface_form	based
+31679_12	is_in_sentence	sentence_31679
+31679_12	prep	31679_11
+31679_12	has_surface_form	on
+31679_13	is_in_sentence	sentence_31679
+31679_13	det	31679_14
+31679_13	has_surface_form	a
+31679_14	is_in_sentence	sentence_31679
+31679_14	pobj	31679_12
+31679_14	has_surface_form	screenplay
+31679_15	is_in_sentence	sentence_31679
+31679_15	nsubj	31679_16
+31679_15	has_surface_form	he
+31679_16	is_in_sentence	sentence_31679
+31679_16	relcl	31679_14
+31679_16	has_surface_form	wrote
+31679_17	is_in_sentence	sentence_31679
+31679_17	punct	31679_2
+31679_17	has_surface_form	.
+31679_18	is_in_sentence	sentence_31679
+31679_18	dep	31679_2
+31679_18	has_surface_form	
+The Route	surface_form	The Route
+The Route	movie-has-director	Jayant Maru
+Jayant Maru	surface_form	Jayant Maru

@@ -1,0 +1,64 @@
+21144_0	is_in_sentence	sentence_21144
+21144_0	compound	21144_1
+21144_0	has_surface_form	Sandora
+21144_0	part_of_entity	Sandora LLC
+21144_1	is_in_sentence	sentence_21144
+21144_1	nsubj	21144_7
+21144_1	has_surface_form	LLC
+21144_1	part_of_entity	Sandora LLC
+21144_7	is_in_sentence	sentence_21144
+21144_7	ROOT	21144_7
+21144_7	has_surface_form	is
+21144_2	is_in_sentence	sentence_21144
+21144_2	punct	21144_1
+21144_2	has_surface_form	(
+21144_3	is_in_sentence	sentence_21144
+21144_3	appos	21144_1
+21144_3	has_surface_form	Ukrainian
+21144_4	is_in_sentence	sentence_21144
+21144_4	punct	21144_3
+21144_4	has_surface_form	:
+21144_5	is_in_sentence	sentence_21144
+21144_5	appos	21144_3
+21144_5	has_surface_form	Сандора
+21144_6	is_in_sentence	sentence_21144
+21144_6	punct	21144_3
+21144_6	has_surface_form	)
+21144_8	is_in_sentence	sentence_21144
+21144_8	det	21144_11
+21144_8	has_surface_form	a
+21144_11	is_in_sentence	sentence_21144
+21144_11	attr	21144_7
+21144_11	has_surface_form	company
+21144_11	part_of_entity	juice company
+21144_9	is_in_sentence	sentence_21144
+21144_9	amod	21144_11
+21144_9	has_surface_form	Ukrainian
+21144_10	is_in_sentence	sentence_21144
+21144_10	compound	21144_11
+21144_10	has_surface_form	juice
+21144_10	part_of_entity	juice company
+21144_12	is_in_sentence	sentence_21144
+21144_12	acl	21144_11
+21144_12	has_surface_form	based
+21144_13	is_in_sentence	sentence_21144
+21144_13	prep	21144_12
+21144_13	has_surface_form	in
+21144_14	is_in_sentence	sentence_21144
+21144_14	pobj	21144_13
+21144_14	has_surface_form	Mykolaiv
+21144_15	is_in_sentence	sentence_21144
+21144_15	punct	21144_14
+21144_15	has_surface_form	,
+21144_16	is_in_sentence	sentence_21144
+21144_16	appos	21144_14
+21144_16	has_surface_form	Ukraine
+21144_17	is_in_sentence	sentence_21144
+21144_17	punct	21144_7
+21144_17	has_surface_form	.
+21144_18	is_in_sentence	sentence_21144
+21144_18	dep	21144_7
+21144_18	has_surface_form	
+Sandora LLC	surface_form	Sandora LLC
+Sandora LLC	has-type	juice company
+juice company	surface_form	juice company

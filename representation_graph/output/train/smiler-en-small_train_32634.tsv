@@ -1,0 +1,79 @@
+32633_0	is_in_sentence	sentence_32633
+32633_0	det	32633_1
+32633_0	has_surface_form	No
+32633_0	part_of_entity	No Time to Be Young
+32633_1	is_in_sentence	sentence_32633
+32633_1	nsubj	32633_5
+32633_1	has_surface_form	Time
+32633_1	part_of_entity	No Time to Be Young
+32633_5	is_in_sentence	sentence_32633
+32633_5	ROOT	32633_5
+32633_5	has_surface_form	is
+32633_2	is_in_sentence	sentence_32633
+32633_2	aux	32633_3
+32633_2	has_surface_form	to
+32633_2	part_of_entity	No Time to Be Young
+32633_3	is_in_sentence	sentence_32633
+32633_3	relcl	32633_1
+32633_3	has_surface_form	Be
+32633_3	part_of_entity	No Time to Be Young
+32633_4	is_in_sentence	sentence_32633
+32633_4	attr	32633_3
+32633_4	has_surface_form	Young
+32633_4	part_of_entity	No Time to Be Young
+32633_6	is_in_sentence	sentence_32633
+32633_6	det	32633_11
+32633_6	has_surface_form	a
+32633_11	is_in_sentence	sentence_32633
+32633_11	attr	32633_5
+32633_11	has_surface_form	noir
+32633_7	is_in_sentence	sentence_32633
+32633_7	nummod	32633_11
+32633_7	has_surface_form	1957
+32633_8	is_in_sentence	sentence_32633
+32633_8	amod	32633_11
+32633_8	has_surface_form	American
+32633_9	is_in_sentence	sentence_32633
+32633_9	compound	32633_10
+32633_9	has_surface_form	crime
+32633_10	is_in_sentence	sentence_32633
+32633_10	compound	32633_11
+32633_10	has_surface_form	film
+32633_12	is_in_sentence	sentence_32633
+32633_12	acl	32633_11
+32633_12	has_surface_form	directed
+32633_13	is_in_sentence	sentence_32633
+32633_13	agent	32633_12
+32633_13	has_surface_form	by
+32633_14	is_in_sentence	sentence_32633
+32633_14	compound	32633_16
+32633_14	has_surface_form	David
+32633_16	is_in_sentence	sentence_32633
+32633_16	pobj	32633_13
+32633_16	has_surface_form	Rich
+32633_15	is_in_sentence	sentence_32633
+32633_15	compound	32633_16
+32633_15	has_surface_form	Lowell
+32633_17	is_in_sentence	sentence_32633
+32633_17	cc	32633_12
+32633_17	has_surface_form	and
+32633_18	is_in_sentence	sentence_32633
+32633_18	conj	32633_12
+32633_18	has_surface_form	starring
+32633_19	is_in_sentence	sentence_32633
+32633_19	compound	32633_20
+32633_19	has_surface_form	Robert
+32633_19	part_of_entity	Robert Vaughn
+32633_20	is_in_sentence	sentence_32633
+32633_20	dobj	32633_18
+32633_20	has_surface_form	Vaughn
+32633_20	part_of_entity	Robert Vaughn
+32633_21	is_in_sentence	sentence_32633
+32633_21	punct	32633_5
+32633_21	has_surface_form	.
+32633_22	is_in_sentence	sentence_32633
+32633_22	dep	32633_22
+32633_22	has_surface_form	
+No Time to Be Young	surface_form	No Time to Be Young
+No Time to Be Young	starring	Robert Vaughn
+Robert Vaughn	surface_form	Robert Vaughn

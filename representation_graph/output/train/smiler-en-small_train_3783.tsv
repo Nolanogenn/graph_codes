@@ -1,0 +1,94 @@
+3782_0	is_in_sentence	sentence_3782
+3782_0	compound	3782_1
+3782_0	has_surface_form	Kalyaniyin
+3782_0	part_of_entity	Kalyaniyin Kanavan
+3782_1	is_in_sentence	sentence_3782
+3782_1	nsubj	3782_9
+3782_1	has_surface_form	Kanavan
+3782_1	part_of_entity	Kalyaniyin Kanavan
+3782_9	is_in_sentence	sentence_3782
+3782_9	ROOT	3782_9
+3782_9	has_surface_form	is
+3782_2	is_in_sentence	sentence_3782
+3782_2	punct	3782_3
+3782_2	has_surface_form	(
+3782_3	is_in_sentence	sentence_3782
+3782_3	appos	3782_1
+3782_3	has_surface_form	English
+3782_4	is_in_sentence	sentence_3782
+3782_4	punct	3782_3
+3782_4	has_surface_form	:
+3782_5	is_in_sentence	sentence_3782
+3782_5	poss	3782_7
+3782_5	has_surface_form	Kalyani
+3782_7	is_in_sentence	sentence_3782
+3782_7	appos	3782_3
+3782_7	has_surface_form	Husband
+3782_6	is_in_sentence	sentence_3782
+3782_6	case	3782_5
+3782_6	has_surface_form	's
+3782_8	is_in_sentence	sentence_3782
+3782_8	punct	3782_3
+3782_8	has_surface_form	)
+3782_10	is_in_sentence	sentence_3782
+3782_10	det	3782_14
+3782_10	has_surface_form	a
+3782_14	is_in_sentence	sentence_3782
+3782_14	attr	3782_9
+3782_14	has_surface_form	film
+3782_11	is_in_sentence	sentence_3782
+3782_11	nummod	3782_14
+3782_11	has_surface_form	1963
+3782_12	is_in_sentence	sentence_3782
+3782_12	amod	3782_13
+3782_12	has_surface_form	Indian
+3782_13	is_in_sentence	sentence_3782
+3782_13	compound	3782_14
+3782_13	has_surface_form	Tamil
+3782_15	is_in_sentence	sentence_3782
+3782_15	punct	3782_14
+3782_15	has_surface_form	,
+3782_16	is_in_sentence	sentence_3782
+3782_16	acl	3782_14
+3782_16	has_surface_form	directed
+3782_17	is_in_sentence	sentence_3782
+3782_17	cc	3782_16
+3782_17	has_surface_form	and
+3782_18	is_in_sentence	sentence_3782
+3782_18	conj	3782_16
+3782_18	has_surface_form	produced
+3782_19	is_in_sentence	sentence_3782
+3782_19	agent	3782_18
+3782_19	has_surface_form	by
+3782_20	is_in_sentence	sentence_3782
+3782_20	pobj	3782_19
+3782_20	has_surface_form	S.
+3782_21	is_in_sentence	sentence_3782
+3782_21	det	3782_22
+3782_21	has_surface_form	The
+3782_22	is_in_sentence	sentence_3782
+3782_22	nsubj	3782_23
+3782_22	has_surface_form	film
+3782_23	is_in_sentence	sentence_3782
+3782_23	ROOT	3782_23
+3782_23	has_surface_form	stars
+3782_24	is_in_sentence	sentence_3782
+3782_24	compound	3782_25
+3782_24	has_surface_form	Sivaji
+3782_24	part_of_entity	Sivaji Ganesan
+3782_25	is_in_sentence	sentence_3782
+3782_25	dobj	3782_23
+3782_25	has_surface_form	Ganesan
+3782_25	part_of_entity	Sivaji Ganesan
+3782_26	is_in_sentence	sentence_3782
+3782_26	cc	3782_25
+3782_26	has_surface_form	and
+3782_27	is_in_sentence	sentence_3782
+3782_27	compound	3782_28
+3782_27	has_surface_form	B.
+3782_28	is_in_sentence	sentence_3782
+3782_28	dep	3782_25
+3782_28	has_surface_form	
+Kalyaniyin Kanavan	surface_form	Kalyaniyin Kanavan
+Kalyaniyin Kanavan	starring	Sivaji Ganesan
+Sivaji Ganesan	surface_form	Sivaji Ganesan

@@ -1,0 +1,56 @@
+26283_0	is_in_sentence	sentence_26283
+26283_0	compound	26283_1
+26283_0	has_surface_form	Martin
+26283_0	part_of_entity	Martin Malvy
+26283_1	is_in_sentence	sentence_26283
+26283_1	nsubj	26283_11
+26283_1	has_surface_form	Malvy
+26283_1	part_of_entity	Martin Malvy
+26283_11	is_in_sentence	sentence_26283
+26283_11	ROOT	26283_11
+26283_11	has_surface_form	is
+26283_2	is_in_sentence	sentence_26283
+26283_2	punct	26283_3
+26283_2	has_surface_form	(
+26283_3	is_in_sentence	sentence_26283
+26283_3	parataxis	26283_1
+26283_3	has_surface_form	born
+26283_4	is_in_sentence	sentence_26283
+26283_4	nummod	26283_5
+26283_4	has_surface_form	24
+26283_5	is_in_sentence	sentence_26283
+26283_5	npadvmod	26283_3
+26283_5	has_surface_form	February
+26283_6	is_in_sentence	sentence_26283
+26283_6	nummod	26283_5
+26283_6	has_surface_form	1936
+26283_7	is_in_sentence	sentence_26283
+26283_7	punct	26283_3
+26283_7	has_surface_form	,
+26283_8	is_in_sentence	sentence_26283
+26283_8	prep	26283_3
+26283_8	has_surface_form	in
+26283_9	is_in_sentence	sentence_26283
+26283_9	pobj	26283_8
+26283_9	is_entity	Paris
+Paris	surface_form	Paris
+26283_10	is_in_sentence	sentence_26283
+26283_10	punct	26283_1
+26283_10	has_surface_form	)
+26283_12	is_in_sentence	sentence_26283
+26283_12	det	26283_14
+26283_12	has_surface_form	a
+26283_14	is_in_sentence	sentence_26283
+26283_14	attr	26283_11
+26283_14	has_surface_form	politician
+26283_13	is_in_sentence	sentence_26283
+26283_13	amod	26283_14
+26283_13	has_surface_form	French
+26283_15	is_in_sentence	sentence_26283
+26283_15	punct	26283_11
+26283_15	has_surface_form	.
+26283_16	is_in_sentence	sentence_26283
+26283_16	dep	26283_11
+26283_16	has_surface_form	
+Martin Malvy	surface_form	Martin Malvy
+Martin Malvy	birth-place	Paris

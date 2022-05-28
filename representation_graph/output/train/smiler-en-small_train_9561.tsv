@@ -1,0 +1,52 @@
+9560_0	is_in_sentence	sentence_9560
+9560_0	det	9560_1
+9560_0	has_surface_form	The
+9560_1	is_in_sentence	sentence_9560
+9560_1	nsubj	9560_2
+9560_1	has_surface_form	band
+9560_2	is_in_sentence	sentence_9560
+9560_2	ROOT	9560_2
+9560_2	has_surface_form	featured
+9560_3	is_in_sentence	sentence_9560
+9560_3	poss	9560_4
+9560_3	has_surface_form	his
+9560_4	is_in_sentence	sentence_9560
+9560_4	compound	9560_6
+9560_4	has_surface_form	brother
+9560_6	is_in_sentence	sentence_9560
+9560_6	poss	9560_8
+9560_6	has_surface_form	Carlos
+9560_6	part_of_entity	Roberto Carlos
+9560_5	is_in_sentence	sentence_9560
+9560_5	compound	9560_6
+9560_5	has_surface_form	Roberto
+9560_5	part_of_entity	Roberto Carlos
+9560_8	is_in_sentence	sentence_9560
+9560_8	dobj	9560_2
+9560_8	has_surface_form	son
+9560_7	is_in_sentence	sentence_9560
+9560_7	case	9560_6
+9560_7	has_surface_form	's
+9560_9	is_in_sentence	sentence_9560
+9560_9	compound	9560_10
+9560_9	has_surface_form	Donovan
+9560_9	part_of_entity	Donovan Bettencourt
+9560_10	is_in_sentence	sentence_9560
+9560_10	appos	9560_8
+9560_10	has_surface_form	Bettencourt
+9560_10	part_of_entity	Donovan Bettencourt
+9560_11	is_in_sentence	sentence_9560
+9560_11	prep	9560_2
+9560_11	has_surface_form	on
+9560_12	is_in_sentence	sentence_9560
+9560_12	pobj	9560_11
+9560_12	has_surface_form	bass
+9560_13	is_in_sentence	sentence_9560
+9560_13	punct	9560_2
+9560_13	has_surface_form	.
+9560_14	is_in_sentence	sentence_9560
+9560_14	dep	9560_14
+9560_14	has_surface_form	
+Roberto Carlos	surface_form	Roberto Carlos
+Roberto Carlos	has-child	Donovan Bettencourt
+Donovan Bettencourt	surface_form	Donovan Bettencourt

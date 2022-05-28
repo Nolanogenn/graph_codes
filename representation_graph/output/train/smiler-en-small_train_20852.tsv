@@ -1,0 +1,38 @@
+20851_0	is_in_sentence	sentence_20851
+20851_0	compound	20851_1
+20851_0	has_surface_form	Ansells
+20851_0	part_of_entity	Ansells End
+20851_1	is_in_sentence	sentence_20851
+20851_1	nsubj	20851_2
+20851_1	has_surface_form	End
+20851_1	part_of_entity	Ansells End
+20851_2	is_in_sentence	sentence_20851
+20851_2	ROOT	20851_2
+20851_2	has_surface_form	is
+20851_3	is_in_sentence	sentence_20851
+20851_3	det	20851_4
+20851_3	has_surface_form	a
+20851_4	is_in_sentence	sentence_20851
+20851_4	attr	20851_2
+20851_4	has_surface_form	hamlet
+20851_5	is_in_sentence	sentence_20851
+20851_5	prep	20851_4
+20851_5	has_surface_form	in
+20851_6	is_in_sentence	sentence_20851
+20851_6	pobj	20851_5
+20851_6	is_entity	Hertfordshire
+Hertfordshire	surface_form	Hertfordshire
+20851_7	is_in_sentence	sentence_20851
+20851_7	punct	20851_6
+20851_7	has_surface_form	,
+20851_8	is_in_sentence	sentence_20851
+20851_8	appos	20851_6
+20851_8	has_surface_form	England
+20851_9	is_in_sentence	sentence_20851
+20851_9	punct	20851_2
+20851_9	has_surface_form	.
+20851_10	is_in_sentence	sentence_20851
+20851_10	dep	20851_2
+20851_10	has_surface_form	
+Ansells End	surface_form	Ansells End
+Ansells End	is-where	Hertfordshire

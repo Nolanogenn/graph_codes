@@ -1,0 +1,80 @@
+15609_0	is_in_sentence	sentence_15609
+15609_0	det	15609_3
+15609_0	has_surface_form	The
+15609_3	is_in_sentence	sentence_15609
+15609_3	nsubj	15609_7
+15609_3	has_surface_form	Hospital
+15609_3	part_of_entity	Utah State Hospital
+15609_1	is_in_sentence	sentence_15609
+15609_1	compound	15609_3
+15609_1	has_surface_form	Utah
+15609_1	part_of_entity	Utah State Hospital
+15609_2	is_in_sentence	sentence_15609
+15609_2	compound	15609_3
+15609_2	has_surface_form	State
+15609_2	part_of_entity	Utah State Hospital
+15609_7	is_in_sentence	sentence_15609
+15609_7	ROOT	15609_7
+15609_7	has_surface_form	is
+15609_4	is_in_sentence	sentence_15609
+15609_4	punct	15609_3
+15609_4	has_surface_form	(
+15609_5	is_in_sentence	sentence_15609
+15609_5	appos	15609_3
+15609_5	has_surface_form	USH
+15609_6	is_in_sentence	sentence_15609
+15609_6	punct	15609_3
+15609_6	has_surface_form	)
+15609_8	is_in_sentence	sentence_15609
+15609_8	det	15609_10
+15609_8	has_surface_form	a
+15609_10	is_in_sentence	sentence_15609
+15609_10	attr	15609_7
+15609_10	has_surface_form	hospital
+15609_10	part_of_entity	mental hospital
+15609_9	is_in_sentence	sentence_15609
+15609_9	amod	15609_10
+15609_9	has_surface_form	mental
+15609_9	part_of_entity	mental hospital
+15609_11	is_in_sentence	sentence_15609
+15609_11	acl	15609_10
+15609_11	has_surface_form	located
+15609_12	is_in_sentence	sentence_15609
+15609_12	prep	15609_11
+15609_12	has_surface_form	in
+15609_13	is_in_sentence	sentence_15609
+15609_13	amod	15609_14
+15609_13	has_surface_form	eastern
+15609_14	is_in_sentence	sentence_15609
+15609_14	pobj	15609_12
+15609_14	has_surface_form	Provo
+15609_15	is_in_sentence	sentence_15609
+15609_15	punct	15609_14
+15609_15	has_surface_form	,
+15609_16	is_in_sentence	sentence_15609
+15609_16	conj	15609_14
+15609_16	has_surface_form	Utah
+15609_17	is_in_sentence	sentence_15609
+15609_17	punct	15609_14
+15609_17	has_surface_form	,
+15609_18	is_in_sentence	sentence_15609
+15609_18	compound	15609_19
+15609_18	has_surface_form	United
+15609_19	is_in_sentence	sentence_15609
+15609_19	conj	15609_14
+15609_19	has_surface_form	States
+15609_20	is_in_sentence	sentence_15609
+15609_20	prep	15609_19
+15609_20	has_surface_form	of
+15609_21	is_in_sentence	sentence_15609
+15609_21	pobj	15609_20
+15609_21	has_surface_form	America
+15609_22	is_in_sentence	sentence_15609
+15609_22	punct	15609_7
+15609_22	has_surface_form	.
+15609_23	is_in_sentence	sentence_15609
+15609_23	dep	15609_23
+15609_23	has_surface_form	
+Utah State Hospital	surface_form	Utah State Hospital
+Utah State Hospital	has-type	mental hospital
+mental hospital	surface_form	mental hospital

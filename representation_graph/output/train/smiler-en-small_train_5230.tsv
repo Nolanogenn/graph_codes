@@ -1,0 +1,115 @@
+5229_0	is_in_sentence	sentence_5229
+5229_0	det	5229_1
+5229_0	has_surface_form	A
+5229_0	part_of_entity	A Room for Three
+5229_1	is_in_sentence	sentence_5229
+5229_1	nsubj	5229_11
+5229_1	has_surface_form	Room
+5229_1	part_of_entity	A Room for Three
+5229_11	is_in_sentence	sentence_5229
+5229_11	ROOT	5229_11
+5229_11	has_surface_form	is
+5229_2	is_in_sentence	sentence_5229
+5229_2	prep	5229_1
+5229_2	has_surface_form	for
+5229_2	part_of_entity	A Room for Three
+5229_3	is_in_sentence	sentence_5229
+5229_3	pobj	5229_2
+5229_3	has_surface_form	Three
+5229_3	part_of_entity	A Room for Three
+5229_4	is_in_sentence	sentence_5229
+5229_4	punct	5229_5
+5229_4	has_surface_form	(
+5229_5	is_in_sentence	sentence_5229
+5229_5	appos	5229_3
+5229_5	has_surface_form	Spanish
+5229_6	is_in_sentence	sentence_5229
+5229_6	punct	5229_5
+5229_6	has_surface_form	:
+5229_7	is_in_sentence	sentence_5229
+5229_7	compound	5229_9
+5229_7	has_surface_form	Habitación
+5229_9	is_in_sentence	sentence_5229
+5229_9	appos	5229_5
+5229_9	has_surface_form	tres
+5229_8	is_in_sentence	sentence_5229
+5229_8	compound	5229_9
+5229_8	has_surface_form	para
+5229_10	is_in_sentence	sentence_5229
+5229_10	punct	5229_5
+5229_10	has_surface_form	)
+5229_12	is_in_sentence	sentence_5229
+5229_12	det	5229_16
+5229_12	has_surface_form	a
+5229_16	is_in_sentence	sentence_5229
+5229_16	attr	5229_11
+5229_16	has_surface_form	film
+5229_13	is_in_sentence	sentence_5229
+5229_13	nummod	5229_16
+5229_13	has_surface_form	1952
+5229_14	is_in_sentence	sentence_5229
+5229_14	amod	5229_16
+5229_14	has_surface_form	Spanish
+5229_15	is_in_sentence	sentence_5229
+5229_15	compound	5229_16
+5229_15	has_surface_form	comedy
+5229_17	is_in_sentence	sentence_5229
+5229_17	acl	5229_16
+5229_17	has_surface_form	directed
+5229_18	is_in_sentence	sentence_5229
+5229_18	agent	5229_17
+5229_18	has_surface_form	by
+5229_19	is_in_sentence	sentence_5229
+5229_19	compound	5229_21
+5229_19	has_surface_form	Antonio
+5229_19	part_of_entity	Antonio de Lara
+5229_21	is_in_sentence	sentence_5229
+5229_21	pobj	5229_18
+5229_21	has_surface_form	Lara
+5229_21	part_of_entity	Antonio de Lara
+5229_20	is_in_sentence	sentence_5229
+5229_20	compound	5229_21
+5229_20	has_surface_form	de
+5229_20	part_of_entity	Antonio de Lara
+5229_22	is_in_sentence	sentence_5229
+5229_22	cc	5229_17
+5229_22	has_surface_form	and
+5229_23	is_in_sentence	sentence_5229
+5229_23	conj	5229_17
+5229_23	has_surface_form	starring
+5229_24	is_in_sentence	sentence_5229
+5229_24	compound	5229_25
+5229_24	has_surface_form	Carolina
+5229_25	is_in_sentence	sentence_5229
+5229_25	dobj	5229_23
+5229_25	has_surface_form	Giménez
+5229_26	is_in_sentence	sentence_5229
+5229_26	punct	5229_25
+5229_26	has_surface_form	,
+5229_27	is_in_sentence	sentence_5229
+5229_27	compound	5229_28
+5229_27	has_surface_form	Armando
+5229_28	is_in_sentence	sentence_5229
+5229_28	conj	5229_25
+5229_28	has_surface_form	Moreno
+5229_29	is_in_sentence	sentence_5229
+5229_29	cc	5229_28
+5229_29	has_surface_form	and
+5229_30	is_in_sentence	sentence_5229
+5229_30	compound	5229_32
+5229_30	has_surface_form	Manolo
+5229_32	is_in_sentence	sentence_5229
+5229_32	conj	5229_28
+5229_32	has_surface_form	Bur
+5229_31	is_in_sentence	sentence_5229
+5229_31	compound	5229_32
+5229_31	has_surface_form	Gómez
+5229_33	is_in_sentence	sentence_5229
+5229_33	punct	5229_11
+5229_33	has_surface_form	.
+5229_34	is_in_sentence	sentence_5229
+5229_34	dep	5229_34
+5229_34	has_surface_form	
+A Room for Three	surface_form	A Room for Three
+A Room for Three	movie-has-director	Antonio de Lara
+Antonio de Lara	surface_form	Antonio de Lara

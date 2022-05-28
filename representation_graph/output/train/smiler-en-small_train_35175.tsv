@@ -1,0 +1,62 @@
+35174_0	is_in_sentence	sentence_35174
+35174_0	compound	35174_1
+35174_0	has_surface_form	Larry
+35174_0	part_of_entity	Larry Blakeney
+35174_1	is_in_sentence	sentence_35174
+35174_1	nsubj	35174_9
+35174_1	has_surface_form	Blakeney
+35174_1	part_of_entity	Larry Blakeney
+35174_9	is_in_sentence	sentence_35174
+35174_9	ROOT	35174_9
+35174_9	has_surface_form	is
+35174_2	is_in_sentence	sentence_35174
+35174_2	punct	35174_1
+35174_2	has_surface_form	(
+35174_3	is_in_sentence	sentence_35174
+35174_3	acl	35174_1
+35174_3	has_surface_form	born
+35174_4	is_in_sentence	sentence_35174
+35174_4	npadvmod	35174_3
+35174_4	has_surface_form	September
+35174_5	is_in_sentence	sentence_35174
+35174_5	nummod	35174_4
+35174_5	has_surface_form	21
+35174_6	is_in_sentence	sentence_35174
+35174_6	punct	35174_4
+35174_6	has_surface_form	,
+35174_7	is_in_sentence	sentence_35174
+35174_7	nummod	35174_4
+35174_7	has_surface_form	1947
+35174_8	is_in_sentence	sentence_35174
+35174_8	punct	35174_1
+35174_8	has_surface_form	)
+35174_10	is_in_sentence	sentence_35174
+35174_10	det	35174_14
+35174_10	has_surface_form	a
+35174_14	is_in_sentence	sentence_35174
+35174_14	attr	35174_9
+35174_14	has_surface_form	player
+35174_11	is_in_sentence	sentence_35174
+35174_11	amod	35174_14
+35174_11	has_surface_form	former
+35174_12	is_in_sentence	sentence_35174
+35174_12	amod	35174_14
+35174_12	has_surface_form	American
+35174_13	is_in_sentence	sentence_35174
+35174_13	compound	35174_14
+35174_13	has_surface_form	football
+35174_15	is_in_sentence	sentence_35174
+35174_15	cc	35174_14
+35174_15	has_surface_form	and
+35174_16	is_in_sentence	sentence_35174
+35174_16	conj	35174_14
+35174_16	is_entity	coach
+coach	surface_form	coach
+35174_17	is_in_sentence	sentence_35174
+35174_17	punct	35174_9
+35174_17	has_surface_form	.
+35174_18	is_in_sentence	sentence_35174
+35174_18	dep	35174_18
+35174_18	has_surface_form	
+Larry Blakeney	surface_form	Larry Blakeney
+Larry Blakeney	has-type	coach

@@ -1,0 +1,50 @@
+13082_0	is_in_sentence	sentence_13082
+13082_0	compound	13082_1
+13082_0	has_surface_form	Les
+13082_0	part_of_entity	Les Dudek
+13082_1	is_in_sentence	sentence_13082
+13082_1	poss	13082_3
+13082_1	has_surface_form	Dudek
+13082_1	part_of_entity	Les Dudek
+13082_3	is_in_sentence	sentence_13082
+13082_3	nsubjpass	13082_8
+13082_3	has_surface_form	father
+13082_2	is_in_sentence	sentence_13082
+13082_2	case	13082_1
+13082_2	has_surface_form	's
+13082_8	is_in_sentence	sentence_13082
+13082_8	ROOT	13082_8
+13082_8	has_surface_form	born
+13082_4	is_in_sentence	sentence_13082
+13082_4	punct	13082_3
+13082_4	has_surface_form	,
+13082_5	is_in_sentence	sentence_13082
+13082_5	appos	13082_3
+13082_5	is_entity	Harold
+Harold	surface_form	Harold
+13082_6	is_in_sentence	sentence_13082
+13082_6	punct	13082_3
+13082_6	has_surface_form	,
+13082_7	is_in_sentence	sentence_13082
+13082_7	auxpass	13082_8
+13082_7	has_surface_form	was
+13082_9	is_in_sentence	sentence_13082
+13082_9	prep	13082_8
+13082_9	has_surface_form	in
+13082_10	is_in_sentence	sentence_13082
+13082_10	pobj	13082_9
+13082_10	has_surface_form	Campbell
+13082_11	is_in_sentence	sentence_13082
+13082_11	punct	13082_10
+13082_11	has_surface_form	,
+13082_12	is_in_sentence	sentence_13082
+13082_12	appos	13082_10
+13082_12	has_surface_form	Nebraska
+13082_13	is_in_sentence	sentence_13082
+13082_13	punct	13082_8
+13082_13	has_surface_form	.
+13082_14	is_in_sentence	sentence_13082
+13082_14	dep	13082_14
+13082_14	has_surface_form	
+Les Dudek	surface_form	Les Dudek
+Les Dudek	has-parent	Harold

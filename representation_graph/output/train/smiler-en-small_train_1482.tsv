@@ -1,0 +1,70 @@
+1481_0	is_in_sentence	sentence_1481
+1481_0	compound	1481_1
+1481_0	has_surface_form	Mysterious
+1481_0	part_of_entity	Mysterious Discovery
+1481_1	is_in_sentence	sentence_1481
+1481_1	nsubj	1481_8
+1481_1	has_surface_form	Discovery
+1481_1	part_of_entity	Mysterious Discovery
+1481_8	is_in_sentence	sentence_1481
+1481_8	ROOT	1481_8
+1481_8	has_surface_form	is
+1481_2	is_in_sentence	sentence_1481
+1481_2	punct	1481_3
+1481_2	has_surface_form	(
+1481_3	is_in_sentence	sentence_1481
+1481_3	appos	1481_1
+1481_3	has_surface_form	Russian
+1481_4	is_in_sentence	sentence_1481
+1481_4	punct	1481_3
+1481_4	has_surface_form	:
+1481_5	is_in_sentence	sentence_1481
+1481_5	compound	1481_6
+1481_5	has_surface_form	Таинственная
+1481_6	is_in_sentence	sentence_1481
+1481_6	appos	1481_3
+1481_6	has_surface_form	находка
+1481_7	is_in_sentence	sentence_1481
+1481_7	punct	1481_3
+1481_7	has_surface_form	)
+1481_9	is_in_sentence	sentence_1481
+1481_9	det	1481_14
+1481_9	has_surface_form	a
+1481_14	is_in_sentence	sentence_1481
+1481_14	attr	1481_8
+1481_14	has_surface_form	film
+1481_10	is_in_sentence	sentence_1481
+1481_10	nummod	1481_14
+1481_10	has_surface_form	1953
+1481_11	is_in_sentence	sentence_1481
+1481_11	amod	1481_12
+1481_11	has_surface_form	Soviet
+1481_12	is_in_sentence	sentence_1481
+1481_12	compound	1481_14
+1481_12	has_surface_form	family
+1481_13	is_in_sentence	sentence_1481
+1481_13	compound	1481_14
+1481_13	has_surface_form	adventure
+1481_15	is_in_sentence	sentence_1481
+1481_15	acl	1481_14
+1481_15	has_surface_form	directed
+1481_16	is_in_sentence	sentence_1481
+1481_16	agent	1481_15
+1481_16	has_surface_form	by
+1481_17	is_in_sentence	sentence_1481
+1481_17	compound	1481_18
+1481_17	has_surface_form	Boris
+1481_17	part_of_entity	Boris Buneev
+1481_18	is_in_sentence	sentence_1481
+1481_18	pobj	1481_16
+1481_18	has_surface_form	Buneev
+1481_18	part_of_entity	Boris Buneev
+1481_19	is_in_sentence	sentence_1481
+1481_19	punct	1481_8
+1481_19	has_surface_form	.
+1481_20	is_in_sentence	sentence_1481
+1481_20	dep	1481_8
+1481_20	has_surface_form	
+Mysterious Discovery	surface_form	Mysterious Discovery
+Mysterious Discovery	movie-has-director	Boris Buneev
+Boris Buneev	surface_form	Boris Buneev

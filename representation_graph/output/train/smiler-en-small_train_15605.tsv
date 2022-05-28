@@ -1,0 +1,81 @@
+15604_0	is_in_sentence	sentence_15604
+15604_0	det	15604_4
+15604_0	has_surface_form	The
+15604_4	is_in_sentence	sentence_15604
+15604_4	ROOT	15604_4
+15604_4	has_surface_form	Brigade
+15604_4	part_of_entity	2nd Land Force Brigade
+15604_1	is_in_sentence	sentence_15604
+15604_1	compound	15604_4
+15604_1	has_surface_form	2nd
+15604_1	part_of_entity	2nd Land Force Brigade
+15604_2	is_in_sentence	sentence_15604
+15604_2	compound	15604_3
+15604_2	has_surface_form	Land
+15604_2	part_of_entity	2nd Land Force Brigade
+15604_3	is_in_sentence	sentence_15604
+15604_3	compound	15604_4
+15604_3	has_surface_form	Force
+15604_3	part_of_entity	2nd Land Force Brigade
+15604_5	is_in_sentence	sentence_15604
+15604_5	punct	15604_6
+15604_5	has_surface_form	(
+15604_6	is_in_sentence	sentence_15604
+15604_6	appos	15604_4
+15604_6	has_surface_form	Serbian
+15604_7	is_in_sentence	sentence_15604
+15604_7	punct	15604_6
+15604_7	has_surface_form	:
+15604_8	is_in_sentence	sentence_15604
+15604_8	appos	15604_6
+15604_8	has_surface_form	2
+15604_9	is_in_sentence	sentence_15604
+15604_9	punct	15604_6
+15604_9	has_surface_form	.
+15604_10	is_in_sentence	sentence_15604
+15604_10	compound	15604_11
+15604_10	has_surface_form	brigada
+15604_11	is_in_sentence	sentence_15604
+15604_11	compound	15604_12
+15604_11	has_surface_form	kopnene
+15604_12	is_in_sentence	sentence_15604
+15604_12	nsubj	15604_14
+15604_12	has_surface_form	vojske
+15604_14	is_in_sentence	sentence_15604
+15604_14	ROOT	15604_14
+15604_14	has_surface_form	is
+15604_13	is_in_sentence	sentence_15604
+15604_13	punct	15604_12
+15604_13	has_surface_form	)
+15604_15	is_in_sentence	sentence_15604
+15604_15	det	15604_17
+15604_15	has_surface_form	a
+15604_17	is_in_sentence	sentence_15604
+15604_17	attr	15604_14
+15604_17	has_surface_form	brigade
+15604_16	is_in_sentence	sentence_15604
+15604_16	amod	15604_17
+15604_16	has_surface_form	mixed
+15604_18	is_in_sentence	sentence_15604
+15604_18	prep	15604_17
+15604_18	has_surface_form	of
+15604_19	is_in_sentence	sentence_15604
+15604_19	compound	15604_21
+15604_19	has_surface_form	Serbian
+15604_21	is_in_sentence	sentence_15604
+15604_21	pobj	15604_18
+15604_21	has_surface_form	Forces
+15604_21	part_of_entity	Land Forces
+15604_20	is_in_sentence	sentence_15604
+15604_20	compound	15604_21
+15604_20	has_surface_form	Land
+15604_20	part_of_entity	Land Forces
+15604_22	is_in_sentence	sentence_15604
+15604_22	punct	15604_14
+15604_22	has_surface_form	.
+15604_23	is_in_sentence	sentence_15604
+15604_23	dep	15604_23
+15604_23	has_surface_form	
+2nd Land Force Brigade	surface_form	2nd Land Force Brigade
+2nd Land Force Brigade	has-type	Land Forces
+Land Forces	surface_form	Land Forces

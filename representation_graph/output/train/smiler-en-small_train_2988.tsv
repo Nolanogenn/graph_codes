@@ -1,0 +1,82 @@
+2987_0	is_in_sentence	sentence_2987
+2987_0	det	2987_2
+2987_0	has_surface_form	A
+2987_2	is_in_sentence	sentence_2987
+2987_2	poss	2987_5
+2987_2	has_surface_form	panda
+2987_2	part_of_entity	red panda
+2987_1	is_in_sentence	sentence_2987
+2987_1	amod	2987_2
+2987_1	has_surface_form	red
+2987_1	part_of_entity	red panda
+2987_5	is_in_sentence	sentence_2987
+2987_5	nsubj	2987_6
+2987_5	has_surface_form	lifespan
+2987_3	is_in_sentence	sentence_2987
+2987_3	case	2987_2
+2987_3	has_surface_form	's
+2987_4	is_in_sentence	sentence_2987
+2987_4	amod	2987_5
+2987_4	has_surface_form	average
+2987_6	is_in_sentence	sentence_2987
+2987_6	ROOT	2987_6
+2987_6	has_surface_form	is
+2987_7	is_in_sentence	sentence_2987
+2987_7	prep	2987_6
+2987_7	has_surface_form	between
+2987_7	part_of_entity	between eight and 10 years
+2987_8	is_in_sentence	sentence_2987
+2987_8	nummod	2987_11
+2987_8	has_surface_form	eight
+2987_8	part_of_entity	between eight and 10 years
+2987_11	is_in_sentence	sentence_2987
+2987_11	pobj	2987_7
+2987_11	has_surface_form	years
+2987_11	part_of_entity	between eight and 10 years
+2987_9	is_in_sentence	sentence_2987
+2987_9	cc	2987_8
+2987_9	has_surface_form	and
+2987_9	part_of_entity	between eight and 10 years
+2987_10	is_in_sentence	sentence_2987
+2987_10	conj	2987_8
+2987_10	has_surface_form	10
+2987_10	part_of_entity	between eight and 10 years
+2987_12	is_in_sentence	sentence_2987
+2987_12	punct	2987_6
+2987_12	has_surface_form	,
+2987_13	is_in_sentence	sentence_2987
+2987_13	cc	2987_6
+2987_13	has_surface_form	but
+2987_14	is_in_sentence	sentence_2987
+2987_14	nsubjpass	2987_17
+2987_14	has_surface_form	individuals
+2987_17	is_in_sentence	sentence_2987
+2987_17	conj	2987_6
+2987_17	has_surface_form	known
+2987_15	is_in_sentence	sentence_2987
+2987_15	aux	2987_17
+2987_15	has_surface_form	have
+2987_16	is_in_sentence	sentence_2987
+2987_16	auxpass	2987_17
+2987_16	has_surface_form	been
+2987_18	is_in_sentence	sentence_2987
+2987_18	aux	2987_19
+2987_18	has_surface_form	to
+2987_19	is_in_sentence	sentence_2987
+2987_19	xcomp	2987_17
+2987_19	has_surface_form	reach
+2987_20	is_in_sentence	sentence_2987
+2987_20	nummod	2987_21
+2987_20	has_surface_form	15
+2987_21	is_in_sentence	sentence_2987
+2987_21	dobj	2987_19
+2987_21	has_surface_form	years
+2987_22	is_in_sentence	sentence_2987
+2987_22	punct	2987_17
+2987_22	has_surface_form	.
+2987_23	is_in_sentence	sentence_2987
+2987_23	dep	2987_23
+2987_23	has_surface_form	
+red panda	surface_form	red panda
+red panda	has-lifespan	between eight and 10 years
+between eight and 10 years	surface_form	between eight and 10 years

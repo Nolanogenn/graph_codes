@@ -1,0 +1,70 @@
+7925_0	is_in_sentence	sentence_7925
+7925_0	amod	7925_1
+7925_0	has_surface_form	Double
+7925_0	part_of_entity	Double Xposure
+7925_1	is_in_sentence	sentence_7925
+7925_1	nsubj	7925_2
+7925_1	has_surface_form	Xposure
+7925_1	part_of_entity	Double Xposure
+7925_2	is_in_sentence	sentence_7925
+7925_2	ROOT	7925_2
+7925_2	has_surface_form	is
+7925_3	is_in_sentence	sentence_7925
+7925_3	det	7925_8
+7925_3	has_surface_form	a
+7925_8	is_in_sentence	sentence_7925
+7925_8	attr	7925_2
+7925_8	has_surface_form	film
+7925_4	is_in_sentence	sentence_7925
+7925_4	nummod	7925_8
+7925_4	has_surface_form	2012
+7925_5	is_in_sentence	sentence_7925
+7925_5	amod	7925_8
+7925_5	has_surface_form	Chinese
+7925_6	is_in_sentence	sentence_7925
+7925_6	amod	7925_7
+7925_6	has_surface_form	psychological
+7925_7	is_in_sentence	sentence_7925
+7925_7	compound	7925_8
+7925_7	has_surface_form	thriller
+7925_9	is_in_sentence	sentence_7925
+7925_9	acl	7925_8
+7925_9	has_surface_form	directed
+7925_10	is_in_sentence	sentence_7925
+7925_10	agent	7925_9
+7925_10	has_surface_form	by
+7925_11	is_in_sentence	sentence_7925
+7925_11	compound	7925_12
+7925_11	has_surface_form	Li
+7925_11	part_of_entity	Li Yu
+7925_12	is_in_sentence	sentence_7925
+7925_12	pobj	7925_10
+7925_12	has_surface_form	Yu
+7925_12	part_of_entity	Li Yu
+7925_13	is_in_sentence	sentence_7925
+7925_13	acl	7925_8
+7925_13	has_surface_form	starring
+7925_14	is_in_sentence	sentence_7925
+7925_14	compound	7925_15
+7925_14	has_surface_form	Fan
+7925_15	is_in_sentence	sentence_7925
+7925_15	dobj	7925_13
+7925_15	has_surface_form	Bingbing
+7925_16	is_in_sentence	sentence_7925
+7925_16	cc	7925_15
+7925_16	has_surface_form	and
+7925_17	is_in_sentence	sentence_7925
+7925_17	compound	7925_18
+7925_17	has_surface_form	Feng
+7925_18	is_in_sentence	sentence_7925
+7925_18	conj	7925_15
+7925_18	has_surface_form	Shaofeng
+7925_19	is_in_sentence	sentence_7925
+7925_19	punct	7925_2
+7925_19	has_surface_form	.
+7925_20	is_in_sentence	sentence_7925
+7925_20	dep	7925_2
+7925_20	has_surface_form	
+Double Xposure	surface_form	Double Xposure
+Double Xposure	movie-has-director	Li Yu
+Li Yu	surface_form	Li Yu

@@ -1,0 +1,37 @@
+22183_0	is_in_sentence	sentence_22183
+22183_0	compound	22183_1
+22183_0	has_surface_form	Gertrude
+22183_0	part_of_entity	Gertrude Berkeley
+22183_1	is_in_sentence	sentence_22183
+22183_1	nsubj	22183_2
+22183_1	has_surface_form	Berkeley
+22183_1	part_of_entity	Gertrude Berkeley
+22183_2	is_in_sentence	sentence_22183
+22183_2	ROOT	22183_2
+22183_2	has_surface_form	was
+22183_3	is_in_sentence	sentence_22183
+22183_3	det	22183_4
+22183_3	has_surface_form	the
+22183_4	is_in_sentence	sentence_22183
+22183_4	attr	22183_2
+22183_4	has_surface_form	mother
+22183_5	is_in_sentence	sentence_22183
+22183_5	prep	22183_4
+22183_5	has_surface_form	of
+22183_6	is_in_sentence	sentence_22183
+22183_6	compound	22183_7
+22183_6	has_surface_form	Busby
+22183_6	part_of_entity	Busby Berkeley
+22183_7	is_in_sentence	sentence_22183
+22183_7	pobj	22183_5
+22183_7	has_surface_form	Berkeley
+22183_7	part_of_entity	Busby Berkeley
+22183_8	is_in_sentence	sentence_22183
+22183_8	punct	22183_2
+22183_8	has_surface_form	.
+22183_9	is_in_sentence	sentence_22183
+22183_9	dep	22183_9
+22183_9	has_surface_form	
+Gertrude Berkeley	surface_form	Gertrude Berkeley
+Gertrude Berkeley	has-child	Busby Berkeley
+Busby Berkeley	surface_form	Busby Berkeley

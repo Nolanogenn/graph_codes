@@ -1,0 +1,53 @@
+27175_0	is_in_sentence	sentence_27175
+27175_0	compound	27175_1
+27175_0	has_surface_form	Fred
+27175_0	part_of_entity	Fred Cash
+27175_1	is_in_sentence	sentence_27175
+27175_1	nsubj	27175_9
+27175_1	has_surface_form	Cash
+27175_1	part_of_entity	Fred Cash
+27175_9	is_in_sentence	sentence_27175
+27175_9	ROOT	27175_9
+27175_9	has_surface_form	is
+27175_2	is_in_sentence	sentence_27175
+27175_2	punct	27175_1
+27175_2	has_surface_form	(
+27175_3	is_in_sentence	sentence_27175
+27175_3	acl	27175_1
+27175_3	has_surface_form	born
+27175_4	is_in_sentence	sentence_27175
+27175_4	npadvmod	27175_3
+27175_4	has_surface_form	October
+27175_5	is_in_sentence	sentence_27175
+27175_5	nummod	27175_4
+27175_5	has_surface_form	8
+27175_6	is_in_sentence	sentence_27175
+27175_6	punct	27175_4
+27175_6	has_surface_form	,
+27175_7	is_in_sentence	sentence_27175
+27175_7	nummod	27175_4
+27175_7	has_surface_form	1940
+27175_8	is_in_sentence	sentence_27175
+27175_8	punct	27175_1
+27175_8	has_surface_form	)
+27175_10	is_in_sentence	sentence_27175
+27175_10	det	27175_13
+27175_10	has_surface_form	an
+27175_13	is_in_sentence	sentence_27175
+27175_13	attr	27175_9
+27175_13	is_entity	singer
+27175_11	is_in_sentence	sentence_27175
+27175_11	amod	27175_13
+27175_11	has_surface_form	American
+27175_12	is_in_sentence	sentence_27175
+27175_12	compound	27175_13
+27175_12	has_surface_form	soul
+singer	surface_form	singer
+27175_14	is_in_sentence	sentence_27175
+27175_14	punct	27175_9
+27175_14	has_surface_form	.
+27175_15	is_in_sentence	sentence_27175
+27175_15	dep	27175_15
+27175_15	has_surface_form	
+Fred Cash	surface_form	Fred Cash
+Fred Cash	has-occupation	singer

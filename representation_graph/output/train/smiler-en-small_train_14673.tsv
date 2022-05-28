@@ -1,0 +1,65 @@
+14672_0	is_in_sentence	sentence_14672
+14672_0	nmod	14672_1
+14672_0	has_surface_form	BN
+14672_0	part_of_entity	BN Televizija
+14672_1	is_in_sentence	sentence_14672
+14672_1	nmod	14672_4
+14672_1	has_surface_form	Televizija
+14672_1	part_of_entity	BN Televizija
+14672_4	is_in_sentence	sentence_14672
+14672_4	nsubj	14672_5
+14672_4	has_surface_form	TV
+14672_2	is_in_sentence	sentence_14672
+14672_2	cc	14672_1
+14672_2	has_surface_form	or
+14672_3	is_in_sentence	sentence_14672
+14672_3	conj	14672_1
+14672_3	has_surface_form	BN
+14672_5	is_in_sentence	sentence_14672
+14672_5	ROOT	14672_5
+14672_5	has_surface_form	is
+14672_6	is_in_sentence	sentence_14672
+14672_6	det	14672_10
+14672_6	has_surface_form	a
+14672_10	is_in_sentence	sentence_14672
+14672_10	attr	14672_5
+14672_10	has_surface_form	channel
+14672_7	is_in_sentence	sentence_14672
+14672_7	amod	14672_10
+14672_7	has_surface_form	Bosnian
+14672_8	is_in_sentence	sentence_14672
+14672_8	amod	14672_10
+14672_8	has_surface_form	commercial
+14672_9	is_in_sentence	sentence_14672
+14672_9	compound	14672_10
+14672_9	has_surface_form	television
+14672_11	is_in_sentence	sentence_14672
+14672_11	acl	14672_10
+14672_11	has_surface_form	based
+14672_12	is_in_sentence	sentence_14672
+14672_12	prep	14672_11
+14672_12	has_surface_form	in
+14672_13	is_in_sentence	sentence_14672
+14672_13	pobj	14672_12
+14672_13	is_entity	Bijeljina
+Bijeljina	surface_form	Bijeljina
+14672_14	is_in_sentence	sentence_14672
+14672_14	punct	14672_13
+14672_14	has_surface_form	,
+14672_15	is_in_sentence	sentence_14672
+14672_15	conj	14672_13
+14672_15	has_surface_form	Bosnia
+14672_16	is_in_sentence	sentence_14672
+14672_16	cc	14672_15
+14672_16	has_surface_form	and
+14672_17	is_in_sentence	sentence_14672
+14672_17	conj	14672_15
+14672_17	has_surface_form	Herzegovina
+14672_18	is_in_sentence	sentence_14672
+14672_18	punct	14672_5
+14672_18	has_surface_form	.
+14672_19	is_in_sentence	sentence_14672
+14672_19	dep	14672_5
+14672_19	has_surface_form	
+BN Televizija	surface_form	BN Televizija
+BN Televizija	headquarters	Bijeljina

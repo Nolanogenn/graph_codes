@@ -1,0 +1,88 @@
+11563_0	is_in_sentence	sentence_11563
+11563_0	det	11563_3
+11563_0	has_surface_form	A
+11563_0	part_of_entity	A Nice Little Bank That Should Be Robbed
+11563_3	is_in_sentence	sentence_11563
+11563_3	nsubj	11563_8
+11563_3	has_surface_form	Bank
+11563_3	part_of_entity	A Nice Little Bank That Should Be Robbed
+11563_1	is_in_sentence	sentence_11563
+11563_1	compound	11563_3
+11563_1	has_surface_form	Nice
+11563_1	part_of_entity	A Nice Little Bank That Should Be Robbed
+11563_2	is_in_sentence	sentence_11563
+11563_2	compound	11563_3
+11563_2	has_surface_form	Little
+11563_2	part_of_entity	A Nice Little Bank That Should Be Robbed
+11563_8	is_in_sentence	sentence_11563
+11563_8	ROOT	11563_8
+11563_8	has_surface_form	is
+11563_4	is_in_sentence	sentence_11563
+11563_4	nsubj	11563_7
+11563_4	has_surface_form	That
+11563_4	part_of_entity	A Nice Little Bank That Should Be Robbed
+11563_7	is_in_sentence	sentence_11563
+11563_7	relcl	11563_3
+11563_7	has_surface_form	Robbed
+11563_7	part_of_entity	A Nice Little Bank That Should Be Robbed
+11563_5	is_in_sentence	sentence_11563
+11563_5	aux	11563_7
+11563_5	has_surface_form	Should
+11563_5	part_of_entity	A Nice Little Bank That Should Be Robbed
+11563_6	is_in_sentence	sentence_11563
+11563_6	auxpass	11563_7
+11563_6	has_surface_form	Be
+11563_6	part_of_entity	A Nice Little Bank That Should Be Robbed
+11563_9	is_in_sentence	sentence_11563
+11563_9	det	11563_13
+11563_9	has_surface_form	a
+11563_13	is_in_sentence	sentence_11563
+11563_13	attr	11563_8
+11563_13	has_surface_form	film
+11563_10	is_in_sentence	sentence_11563
+11563_10	nummod	11563_13
+11563_10	has_surface_form	1958
+11563_11	is_in_sentence	sentence_11563
+11563_11	amod	11563_13
+11563_11	has_surface_form	American
+11563_12	is_in_sentence	sentence_11563
+11563_12	compound	11563_13
+11563_12	has_surface_form	comedy
+11563_14	is_in_sentence	sentence_11563
+11563_14	acl	11563_13
+11563_14	has_surface_form	directed
+11563_15	is_in_sentence	sentence_11563
+11563_15	agent	11563_14
+11563_15	has_surface_form	by
+11563_16	is_in_sentence	sentence_11563
+11563_16	compound	11563_17
+11563_16	has_surface_form	Henry
+11563_16	part_of_entity	Henry Levin
+11563_17	is_in_sentence	sentence_11563
+11563_17	pobj	11563_15
+11563_17	has_surface_form	Levin
+11563_17	part_of_entity	Henry Levin
+11563_18	is_in_sentence	sentence_11563
+11563_18	cc	11563_14
+11563_18	has_surface_form	and
+11563_19	is_in_sentence	sentence_11563
+11563_19	conj	11563_14
+11563_19	has_surface_form	written
+11563_20	is_in_sentence	sentence_11563
+11563_20	agent	11563_19
+11563_20	has_surface_form	by
+11563_21	is_in_sentence	sentence_11563
+11563_21	compound	11563_22
+11563_21	has_surface_form	Sydney
+11563_22	is_in_sentence	sentence_11563
+11563_22	pobj	11563_20
+11563_22	has_surface_form	Boehm
+11563_23	is_in_sentence	sentence_11563
+11563_23	punct	11563_8
+11563_23	has_surface_form	.
+11563_24	is_in_sentence	sentence_11563
+11563_24	dep	11563_8
+11563_24	has_surface_form	
+A Nice Little Bank That Should Be Robbed	surface_form	A Nice Little Bank That Should Be Robbed
+A Nice Little Bank That Should Be Robbed	movie-has-director	Henry Levin
+Henry Levin	surface_form	Henry Levin

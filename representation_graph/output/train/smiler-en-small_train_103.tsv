@@ -1,0 +1,89 @@
+102_0	is_in_sentence	sentence_102
+102_0	compound	102_2
+102_0	has_surface_form	Maa
+102_0	part_of_entity	Maa Aavida Collector
+102_2	is_in_sentence	sentence_102
+102_2	nsubj	102_12
+102_2	has_surface_form	Collector
+102_2	part_of_entity	Maa Aavida Collector
+102_1	is_in_sentence	sentence_102
+102_1	compound	102_2
+102_1	has_surface_form	Aavida
+102_1	part_of_entity	Maa Aavida Collector
+102_12	is_in_sentence	sentence_102
+102_12	ROOT	102_12
+102_12	has_surface_form	is
+102_3	is_in_sentence	sentence_102
+102_3	punct	102_4
+102_3	has_surface_form	(
+102_4	is_in_sentence	sentence_102
+102_4	appos	102_2
+102_4	has_surface_form	English
+102_5	is_in_sentence	sentence_102
+102_5	punct	102_4
+102_5	has_surface_form	:
+102_6	is_in_sentence	sentence_102
+102_6	poss	102_7
+102_6	has_surface_form	My
+102_7	is_in_sentence	sentence_102
+102_7	nsubj	102_8
+102_7	has_surface_form	Wife
+102_8	is_in_sentence	sentence_102
+102_8	acl	102_4
+102_8	has_surface_form	Is
+102_9	is_in_sentence	sentence_102
+102_9	det	102_10
+102_9	has_surface_form	A
+102_10	is_in_sentence	sentence_102
+102_10	attr	102_8
+102_10	has_surface_form	Collector
+102_11	is_in_sentence	sentence_102
+102_11	punct	102_4
+102_11	has_surface_form	)
+102_13	is_in_sentence	sentence_102
+102_13	det	102_17
+102_13	has_surface_form	a
+102_17	is_in_sentence	sentence_102
+102_17	attr	102_12
+102_17	has_surface_form	film
+102_17	part_of_entity	drama film
+102_14	is_in_sentence	sentence_102
+102_14	nummod	102_17
+102_14	has_surface_form	1996
+102_15	is_in_sentence	sentence_102
+102_15	compound	102_16
+102_15	has_surface_form	Telugu
+102_16	is_in_sentence	sentence_102
+102_16	compound	102_17
+102_16	has_surface_form	drama
+102_16	part_of_entity	drama film
+102_18	is_in_sentence	sentence_102
+102_18	punct	102_17
+102_18	has_surface_form	,
+102_19	is_in_sentence	sentence_102
+102_19	acl	102_17
+102_19	has_surface_form	produced
+102_20	is_in_sentence	sentence_102
+102_20	agent	102_19
+102_20	has_surface_form	by
+102_21	is_in_sentence	sentence_102
+102_21	compound	102_23
+102_21	has_surface_form	Kolli
+102_23	is_in_sentence	sentence_102
+102_23	pobj	102_20
+102_23	has_surface_form	Rao
+102_22	is_in_sentence	sentence_102
+102_22	compound	102_23
+102_22	has_surface_form	Venkateswara
+102_24	is_in_sentence	sentence_102
+102_24	cc	102_23
+102_24	has_surface_form	and
+102_25	is_in_sentence	sentence_102
+102_25	conj	102_23
+102_25	has_surface_form	S.
+102_26	is_in_sentence	sentence_102
+102_26	dep	102_12
+102_26	has_surface_form	
+Maa Aavida Collector	surface_form	Maa Aavida Collector
+Maa Aavida Collector	has-type	drama film
+drama film	surface_form	drama film

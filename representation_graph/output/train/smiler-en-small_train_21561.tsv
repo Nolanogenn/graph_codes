@@ -1,0 +1,86 @@
+21560_0	is_in_sentence	sentence_21560
+21560_0	prep	21560_10
+21560_0	has_surface_form	According
+21560_0	part_of_entity	According to Law
+21560_10	is_in_sentence	sentence_21560
+21560_10	ROOT	21560_10
+21560_10	has_surface_form	is
+21560_1	is_in_sentence	sentence_21560
+21560_1	prep	21560_0
+21560_1	has_surface_form	to
+21560_1	part_of_entity	According to Law
+21560_2	is_in_sentence	sentence_21560
+21560_2	pobj	21560_1
+21560_2	has_surface_form	Law
+21560_2	part_of_entity	According to Law
+21560_3	is_in_sentence	sentence_21560
+21560_3	punct	21560_4
+21560_3	has_surface_form	(
+21560_4	is_in_sentence	sentence_21560
+21560_4	nsubj	21560_10
+21560_4	has_surface_form	German
+21560_5	is_in_sentence	sentence_21560
+21560_5	punct	21560_4
+21560_5	has_surface_form	:
+21560_6	is_in_sentence	sentence_21560
+21560_6	compound	21560_8
+21560_6	has_surface_form	Nach
+21560_8	is_in_sentence	sentence_21560
+21560_8	appos	21560_4
+21560_8	has_surface_form	Gesetz
+21560_7	is_in_sentence	sentence_21560
+21560_7	compound	21560_8
+21560_7	has_surface_form	dem
+21560_9	is_in_sentence	sentence_21560
+21560_9	punct	21560_4
+21560_9	has_surface_form	)
+21560_11	is_in_sentence	sentence_21560
+21560_11	det	21560_15
+21560_11	has_surface_form	a
+21560_15	is_in_sentence	sentence_21560
+21560_15	attr	21560_10
+21560_15	has_surface_form	film
+21560_12	is_in_sentence	sentence_21560
+21560_12	nummod	21560_15
+21560_12	has_surface_form	1919
+21560_13	is_in_sentence	sentence_21560
+21560_13	amod	21560_15
+21560_13	has_surface_form	German
+21560_14	is_in_sentence	sentence_21560
+21560_14	amod	21560_15
+21560_14	has_surface_form	silent
+21560_16	is_in_sentence	sentence_21560
+21560_16	acl	21560_15
+21560_16	has_surface_form	directed
+21560_17	is_in_sentence	sentence_21560
+21560_17	agent	21560_16
+21560_17	has_surface_form	by
+21560_18	is_in_sentence	sentence_21560
+21560_18	compound	21560_19
+21560_18	has_surface_form	Willy
+21560_18	part_of_entity	Willy Grunwald
+21560_19	is_in_sentence	sentence_21560
+21560_19	pobj	21560_17
+21560_19	has_surface_form	Grunwald
+21560_19	part_of_entity	Willy Grunwald
+21560_20	is_in_sentence	sentence_21560
+21560_20	cc	21560_16
+21560_20	has_surface_form	and
+21560_21	is_in_sentence	sentence_21560
+21560_21	conj	21560_16
+21560_21	has_surface_form	starring
+21560_22	is_in_sentence	sentence_21560
+21560_22	compound	21560_23
+21560_22	has_surface_form	Asta
+21560_23	is_in_sentence	sentence_21560
+21560_23	dobj	21560_21
+21560_23	has_surface_form	Nielsen
+21560_24	is_in_sentence	sentence_21560
+21560_24	punct	21560_10
+21560_24	has_surface_form	.
+21560_25	is_in_sentence	sentence_21560
+21560_25	dep	21560_10
+21560_25	has_surface_form	
+According to Law	surface_form	According to Law
+According to Law	movie-has-director	Willy Grunwald
+Willy Grunwald	surface_form	Willy Grunwald

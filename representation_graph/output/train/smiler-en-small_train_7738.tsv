@@ -1,0 +1,60 @@
+7737_0	is_in_sentence	sentence_7737
+7737_0	compound	7737_1
+7737_0	has_surface_form	Ethanai
+7737_0	part_of_entity	Ethanai Konam Ethanai Parvai
+7737_1	is_in_sentence	sentence_7737
+7737_1	compound	7737_3
+7737_1	has_surface_form	Konam
+7737_1	part_of_entity	Ethanai Konam Ethanai Parvai
+7737_3	is_in_sentence	sentence_7737
+7737_3	nsubj	7737_4
+7737_3	has_surface_form	Parvai
+7737_3	part_of_entity	Ethanai Konam Ethanai Parvai
+7737_2	is_in_sentence	sentence_7737
+7737_2	compound	7737_3
+7737_2	has_surface_form	Ethanai
+7737_2	part_of_entity	Ethanai Konam Ethanai Parvai
+7737_4	is_in_sentence	sentence_7737
+7737_4	ROOT	7737_4
+7737_4	has_surface_form	is
+7737_5	is_in_sentence	sentence_7737
+7737_5	det	7737_12
+7737_5	has_surface_form	a
+7737_12	is_in_sentence	sentence_7737
+7737_12	attr	7737_4
+7737_12	has_surface_form	film
+7737_12	part_of_entity	feature film
+7737_6	is_in_sentence	sentence_7737
+7737_6	nummod	7737_9
+7737_6	has_surface_form	1982
+7737_9	is_in_sentence	sentence_7737
+7737_9	nmod	7737_12
+7737_9	has_surface_form	language
+7737_7	is_in_sentence	sentence_7737
+7737_7	nmod	7737_9
+7737_7	has_surface_form	Tamil
+7737_8	is_in_sentence	sentence_7737
+7737_8	punct	7737_9
+7737_8	has_surface_form	-
+7737_10	is_in_sentence	sentence_7737
+7737_10	amod	7737_12
+7737_10	has_surface_form	Indian
+7737_11	is_in_sentence	sentence_7737
+7737_11	compound	7737_12
+7737_11	has_surface_form	feature
+7737_11	part_of_entity	feature film
+7737_13	is_in_sentence	sentence_7737
+7737_13	acl	7737_12
+7737_13	has_surface_form	directed
+7737_14	is_in_sentence	sentence_7737
+7737_14	agent	7737_13
+7737_14	has_surface_form	by
+7737_15	is_in_sentence	sentence_7737
+7737_15	compound	7737_16
+7737_15	has_surface_form	B.
+7737_16	is_in_sentence	sentence_7737
+7737_16	dep	7737_14
+7737_16	has_surface_form	
+Ethanai Konam Ethanai Parvai	surface_form	Ethanai Konam Ethanai Parvai
+Ethanai Konam Ethanai Parvai	has-type	feature film
+feature film	surface_form	feature film

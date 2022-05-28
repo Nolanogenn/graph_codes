@@ -1,0 +1,78 @@
+3540_0	is_in_sentence	sentence_3540
+3540_0	compound	3540_2
+3540_0	has_surface_form	Constitution
+3540_0	part_of_entity	Constitution High School
+3540_2	is_in_sentence	sentence_3540
+3540_2	nsubj	3540_8
+3540_2	has_surface_form	School
+3540_2	part_of_entity	Constitution High School
+3540_1	is_in_sentence	sentence_3540
+3540_1	compound	3540_2
+3540_1	has_surface_form	High
+3540_1	part_of_entity	Constitution High School
+3540_8	is_in_sentence	sentence_3540
+3540_8	ROOT	3540_8
+3540_8	has_surface_form	is
+3540_3	is_in_sentence	sentence_3540
+3540_3	punct	3540_4
+3540_3	has_surface_form	(
+3540_4	is_in_sentence	sentence_3540
+3540_4	appos	3540_2
+3540_4	has_surface_form	nickname
+3540_5	is_in_sentence	sentence_3540
+3540_5	compound	3540_6
+3540_5	has_surface_form	Con
+3540_6	is_in_sentence	sentence_3540
+3540_6	dobj	3540_4
+3540_6	has_surface_form	High
+3540_7	is_in_sentence	sentence_3540
+3540_7	punct	3540_4
+3540_7	has_surface_form	)
+3540_9	is_in_sentence	sentence_3540
+3540_9	det	3540_13
+3540_9	has_surface_form	a
+3540_13	is_in_sentence	sentence_3540
+3540_13	attr	3540_8
+3540_13	has_surface_form	school
+3540_10	is_in_sentence	sentence_3540
+3540_10	nmod	3540_13
+3540_10	has_surface_form	college
+3540_11	is_in_sentence	sentence_3540
+3540_11	amod	3540_13
+3540_11	has_surface_form	preparatory
+3540_12	is_in_sentence	sentence_3540
+3540_12	amod	3540_13
+3540_12	has_surface_form	high
+3540_14	is_in_sentence	sentence_3540
+3540_14	acl	3540_13
+3540_14	has_surface_form	located
+3540_15	is_in_sentence	sentence_3540
+3540_15	prep	3540_14
+3540_15	has_surface_form	in
+3540_16	is_in_sentence	sentence_3540
+3540_16	compound	3540_18
+3540_16	has_surface_form	Center
+3540_16	part_of_entity	Center City Philadelphia
+3540_18	is_in_sentence	sentence_3540
+3540_18	pobj	3540_15
+3540_18	has_surface_form	Philadelphia
+3540_18	part_of_entity	Center City Philadelphia
+3540_17	is_in_sentence	sentence_3540
+3540_17	compound	3540_18
+3540_17	has_surface_form	City
+3540_17	part_of_entity	Center City Philadelphia
+3540_19	is_in_sentence	sentence_3540
+3540_19	punct	3540_18
+3540_19	has_surface_form	,
+3540_20	is_in_sentence	sentence_3540
+3540_20	appos	3540_18
+3540_20	has_surface_form	Pennsylvania
+3540_21	is_in_sentence	sentence_3540
+3540_21	punct	3540_8
+3540_21	has_surface_form	.
+3540_22	is_in_sentence	sentence_3540
+3540_22	dep	3540_8
+3540_22	has_surface_form	
+Constitution High School	surface_form	Constitution High School
+Constitution High School	is-where	Center City Philadelphia
+Center City Philadelphia	surface_form	Center City Philadelphia

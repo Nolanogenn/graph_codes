@@ -1,0 +1,95 @@
+31875_0	is_in_sentence	sentence_31875
+31875_0	compound	31875_1
+31875_0	has_surface_form	Sisila
+31875_0	part_of_entity	Sisila Gini Gani
+31875_1	is_in_sentence	sentence_31875
+31875_1	compound	31875_2
+31875_1	has_surface_form	Gini
+31875_1	part_of_entity	Sisila Gini Gani
+31875_2	is_in_sentence	sentence_31875
+31875_2	ROOT	31875_2
+31875_2	has_surface_form	Gani
+31875_2	part_of_entity	Sisila Gini Gani
+31875_3	is_in_sentence	sentence_31875
+31875_3	punct	31875_8
+31875_3	has_surface_form	(
+31875_8	is_in_sentence	sentence_31875
+31875_8	parataxis	31875_2
+31875_8	has_surface_form	is
+31875_4	is_in_sentence	sentence_31875
+31875_4	nsubj	31875_8
+31875_4	has_surface_form	Fire
+31875_5	is_in_sentence	sentence_31875
+31875_5	prep	31875_4
+31875_5	has_surface_form	on
+31875_6	is_in_sentence	sentence_31875
+31875_6	pobj	31875_5
+31875_6	has_surface_form	Ice
+31875_7	is_in_sentence	sentence_31875
+31875_7	punct	31875_4
+31875_7	has_surface_form	)
+31875_9	is_in_sentence	sentence_31875
+31875_9	det	31875_12
+31875_9	has_surface_form	a
+31875_12	is_in_sentence	sentence_31875
+31875_12	attr	31875_8
+31875_12	has_surface_form	Lankan
+31875_10	is_in_sentence	sentence_31875
+31875_10	nummod	31875_12
+31875_10	has_surface_form	1992
+31875_11	is_in_sentence	sentence_31875
+31875_11	compound	31875_12
+31875_11	has_surface_form	Sri
+31875_13	is_in_sentence	sentence_31875
+31875_13	punct	31875_12
+31875_13	has_surface_form	,
+31875_14	is_in_sentence	sentence_31875
+31875_14	compound	31875_15
+31875_14	has_surface_form	Sinhala
+31875_15	is_in_sentence	sentence_31875
+31875_15	compound	31875_16
+31875_15	has_surface_form	language
+31875_16	is_in_sentence	sentence_31875
+31875_16	appos	31875_12
+31875_16	has_surface_form	film
+31875_17	is_in_sentence	sentence_31875
+31875_17	punct	31875_8
+31875_17	has_surface_form	.
+31875_18	is_in_sentence	sentence_31875
+31875_18	nsubj	31875_19
+31875_18	has_surface_form	It
+31875_19	is_in_sentence	sentence_31875
+31875_19	ROOT	31875_19
+31875_19	has_surface_form	was
+31875_20	is_in_sentence	sentence_31875
+31875_20	det	31875_22
+31875_20	has_surface_form	the
+31875_22	is_in_sentence	sentence_31875
+31875_22	attr	31875_19
+31875_22	has_surface_form	film
+31875_21	is_in_sentence	sentence_31875
+31875_21	amod	31875_22
+31875_21	has_surface_form	first
+31875_23	is_in_sentence	sentence_31875
+31875_23	acl	31875_22
+31875_23	has_surface_form	directed
+31875_24	is_in_sentence	sentence_31875
+31875_24	agent	31875_23
+31875_24	has_surface_form	by
+31875_25	is_in_sentence	sentence_31875
+31875_25	compound	31875_26
+31875_25	has_surface_form	Prasanna
+31875_25	part_of_entity	Prasanna Vithanage
+31875_26	is_in_sentence	sentence_31875
+31875_26	pobj	31875_24
+31875_26	has_surface_form	Vithanage
+31875_26	part_of_entity	Prasanna Vithanage
+31875_27	is_in_sentence	sentence_31875
+31875_27	punct	31875_19
+31875_27	has_surface_form	.
+31875_28	is_in_sentence	sentence_31875
+31875_28	dep	31875_19
+31875_28	has_surface_form	
+Sisila Gini Gani	surface_form	Sisila Gini Gani
+Sisila Gini Gani	movie-has-director	Prasanna Vithanage
+Prasanna Vithanage	surface_form	Prasanna Vithanage

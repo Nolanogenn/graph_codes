@@ -1,0 +1,80 @@
+7637_0	is_in_sentence	sentence_7637
+7637_0	compound	7637_1
+7637_0	has_surface_form	Ayoub
+7637_0	part_of_entity	Ayoub Skouma
+7637_1	is_in_sentence	sentence_7637
+7637_1	nsubj	7637_10
+7637_1	has_surface_form	Skouma
+7637_1	part_of_entity	Ayoub Skouma
+7637_10	is_in_sentence	sentence_7637
+7637_10	ROOT	7637_10
+7637_10	has_surface_form	is
+7637_2	is_in_sentence	sentence_7637
+7637_2	punct	7637_1
+7637_2	has_surface_form	(
+7637_3	is_in_sentence	sentence_7637
+7637_3	acl	7637_1
+7637_3	has_surface_form	born
+7637_4	is_in_sentence	sentence_7637
+7637_4	nummod	7637_5
+7637_4	has_surface_form	22
+7637_5	is_in_sentence	sentence_7637
+7637_5	npadvmod	7637_3
+7637_5	has_surface_form	March
+7637_6	is_in_sentence	sentence_7637
+7637_6	nummod	7637_5
+7637_6	has_surface_form	1988
+7637_7	is_in_sentence	sentence_7637
+7637_7	prep	7637_3
+7637_7	has_surface_form	in
+7637_8	is_in_sentence	sentence_7637
+7637_8	pobj	7637_7
+7637_8	has_surface_form	Casablanca
+7637_9	is_in_sentence	sentence_7637
+7637_9	punct	7637_1
+7637_9	has_surface_form	)
+7637_11	is_in_sentence	sentence_7637
+7637_11	det	7637_13
+7637_11	has_surface_form	a
+7637_13	is_in_sentence	sentence_7637
+7637_13	attr	7637_10
+7637_13	has_surface_form	footballer
+7637_12	is_in_sentence	sentence_7637
+7637_12	amod	7637_13
+7637_12	has_surface_form	Moroccan
+7637_14	is_in_sentence	sentence_7637
+7637_14	nsubjpass	7637_17
+7637_14	has_surface_form	who
+7637_17	is_in_sentence	sentence_7637
+7637_17	relcl	7637_13
+7637_17	has_surface_form	attached
+7637_15	is_in_sentence	sentence_7637
+7637_15	auxpass	7637_17
+7637_15	has_surface_form	is
+7637_16	is_in_sentence	sentence_7637
+7637_16	advmod	7637_17
+7637_16	has_surface_form	currently
+7637_18	is_in_sentence	sentence_7637
+7637_18	prep	7637_17
+7637_18	has_surface_form	to
+7637_19	is_in_sentence	sentence_7637
+7637_19	compound	7637_21
+7637_19	has_surface_form	Difaâ
+7637_19	part_of_entity	Difaâ El Jadidi
+7637_21	is_in_sentence	sentence_7637
+7637_21	pobj	7637_18
+7637_21	has_surface_form	Jadidi
+7637_21	part_of_entity	Difaâ El Jadidi
+7637_20	is_in_sentence	sentence_7637
+7637_20	compound	7637_21
+7637_20	has_surface_form	El
+7637_20	part_of_entity	Difaâ El Jadidi
+7637_22	is_in_sentence	sentence_7637
+7637_22	punct	7637_10
+7637_22	has_surface_form	.
+7637_23	is_in_sentence	sentence_7637
+7637_23	dep	7637_10
+7637_23	has_surface_form	
+Ayoub Skouma	surface_form	Ayoub Skouma
+Ayoub Skouma	is-member-of	Difaâ El Jadidi
+Difaâ El Jadidi	surface_form	Difaâ El Jadidi

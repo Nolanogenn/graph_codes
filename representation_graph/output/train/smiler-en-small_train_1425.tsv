@@ -1,0 +1,105 @@
+1424_0	is_in_sentence	sentence_1424
+1424_0	det	1424_2
+1424_0	has_surface_form	The
+1424_2	is_in_sentence	sentence_1424
+1424_2	nsubj	1424_8
+1424_2	has_surface_form	Department
+1424_2	part_of_entity	Michigan Department of Education
+1424_1	is_in_sentence	sentence_1424
+1424_1	compound	1424_2
+1424_1	has_surface_form	Michigan
+1424_1	part_of_entity	Michigan Department of Education
+1424_8	is_in_sentence	sentence_1424
+1424_8	ROOT	1424_8
+1424_8	has_surface_form	is
+1424_3	is_in_sentence	sentence_1424
+1424_3	prep	1424_2
+1424_3	has_surface_form	of
+1424_3	part_of_entity	Michigan Department of Education
+1424_4	is_in_sentence	sentence_1424
+1424_4	pobj	1424_3
+1424_4	has_surface_form	Education
+1424_4	part_of_entity	Michigan Department of Education
+1424_5	is_in_sentence	sentence_1424
+1424_5	punct	1424_2
+1424_5	has_surface_form	(
+1424_6	is_in_sentence	sentence_1424
+1424_6	appos	1424_2
+1424_6	has_surface_form	MDE
+1424_7	is_in_sentence	sentence_1424
+1424_7	punct	1424_2
+1424_7	has_surface_form	)
+1424_9	is_in_sentence	sentence_1424
+1424_9	det	1424_11
+1424_9	has_surface_form	a
+1424_11	is_in_sentence	sentence_1424
+1424_11	attr	1424_8
+1424_11	has_surface_form	agency
+1424_11	part_of_entity	state agency
+1424_10	is_in_sentence	sentence_1424
+1424_10	compound	1424_11
+1424_10	has_surface_form	state
+1424_10	part_of_entity	state agency
+1424_12	is_in_sentence	sentence_1424
+1424_12	prep	1424_11
+1424_12	has_surface_form	of
+1424_13	is_in_sentence	sentence_1424
+1424_13	pobj	1424_12
+1424_13	has_surface_form	Michigan
+1424_14	is_in_sentence	sentence_1424
+1424_14	punct	1424_11
+1424_14	has_surface_form	,
+1424_15	is_in_sentence	sentence_1424
+1424_15	prep	1424_11
+1424_15	has_surface_form	in
+1424_16	is_in_sentence	sentence_1424
+1424_16	det	1424_18
+1424_16	has_surface_form	the
+1424_18	is_in_sentence	sentence_1424
+1424_18	pobj	1424_15
+1424_18	has_surface_form	States
+1424_17	is_in_sentence	sentence_1424
+1424_17	compound	1424_18
+1424_17	has_surface_form	United
+1424_19	is_in_sentence	sentence_1424
+1424_19	punct	1424_8
+1424_19	has_surface_form	.
+1424_20	is_in_sentence	sentence_1424
+1424_20	det	1424_21
+1424_20	has_surface_form	The
+1424_21	is_in_sentence	sentence_1424
+1424_21	nsubjpass	1424_23
+1424_21	has_surface_form	department
+1424_23	is_in_sentence	sentence_1424
+1424_23	ROOT	1424_23
+1424_23	has_surface_form	governed
+1424_22	is_in_sentence	sentence_1424
+1424_22	auxpass	1424_23
+1424_22	has_surface_form	is
+1424_24	is_in_sentence	sentence_1424
+1424_24	agent	1424_23
+1424_24	has_surface_form	by
+1424_25	is_in_sentence	sentence_1424
+1424_25	det	1424_27
+1424_25	has_surface_form	the
+1424_27	is_in_sentence	sentence_1424
+1424_27	pobj	1424_24
+1424_27	has_surface_form	Board
+1424_26	is_in_sentence	sentence_1424
+1424_26	compound	1424_27
+1424_26	has_surface_form	State
+1424_28	is_in_sentence	sentence_1424
+1424_28	prep	1424_27
+1424_28	has_surface_form	of
+1424_29	is_in_sentence	sentence_1424
+1424_29	pobj	1424_28
+1424_29	has_surface_form	Education
+1424_30	is_in_sentence	sentence_1424
+1424_30	punct	1424_23
+1424_30	has_surface_form	.
+1424_31	is_in_sentence	sentence_1424
+1424_31	dep	1424_31
+1424_31	has_surface_form	
+Michigan Department of Education	surface_form	Michigan Department of Education
+Michigan Department of Education	has-type	state agency
+state agency	surface_form	state agency

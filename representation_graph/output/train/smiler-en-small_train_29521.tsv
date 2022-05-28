@@ -1,0 +1,65 @@
+29520_0	is_in_sentence	sentence_29520
+29520_0	det	29520_1
+29520_0	has_surface_form	An
+29520_0	part_of_entity	An Education
+29520_1	is_in_sentence	sentence_29520
+29520_1	nsubj	29520_2
+29520_1	has_surface_form	Education
+29520_1	part_of_entity	An Education
+29520_2	is_in_sentence	sentence_29520
+29520_2	ROOT	29520_2
+29520_2	has_surface_form	won
+29520_3	is_in_sentence	sentence_29520
+29520_3	det	29520_6
+29520_3	has_surface_form	the
+29520_6	is_in_sentence	sentence_29520
+29520_6	dobj	29520_2
+29520_6	has_surface_form	award
+29520_6	part_of_entity	Audience Choice award
+29520_4	is_in_sentence	sentence_29520
+29520_4	compound	29520_5
+29520_4	has_surface_form	Audience
+29520_4	part_of_entity	Audience Choice award
+29520_5	is_in_sentence	sentence_29520
+29520_5	compound	29520_6
+29520_5	has_surface_form	Choice
+29520_5	part_of_entity	Audience Choice award
+29520_7	is_in_sentence	sentence_29520
+29520_7	cc	29520_6
+29520_7	has_surface_form	and
+29520_8	is_in_sentence	sentence_29520
+29520_8	det	29520_10
+29520_8	has_surface_form	the
+29520_10	is_in_sentence	sentence_29520
+29520_10	conj	29520_6
+29520_10	has_surface_form	award
+29520_9	is_in_sentence	sentence_29520
+29520_9	compound	29520_10
+29520_9	has_surface_form	Cinematography
+29520_11	is_in_sentence	sentence_29520
+29520_11	prep	29520_2
+29520_11	has_surface_form	at
+29520_12	is_in_sentence	sentence_29520
+29520_12	det	29520_16
+29520_12	has_surface_form	the
+29520_16	is_in_sentence	sentence_29520
+29520_16	pobj	29520_11
+29520_16	has_surface_form	Festival
+29520_13	is_in_sentence	sentence_29520
+29520_13	nummod	29520_16
+29520_13	has_surface_form	2009
+29520_14	is_in_sentence	sentence_29520
+29520_14	compound	29520_16
+29520_14	has_surface_form	Sundance
+29520_15	is_in_sentence	sentence_29520
+29520_15	compound	29520_16
+29520_15	has_surface_form	Film
+29520_17	is_in_sentence	sentence_29520
+29520_17	punct	29520_2
+29520_17	has_surface_form	.
+29520_18	is_in_sentence	sentence_29520
+29520_18	dep	29520_18
+29520_18	has_surface_form	
+An Education	surface_form	An Education
+An Education	won-award	Audience Choice award
+Audience Choice award	surface_form	Audience Choice award

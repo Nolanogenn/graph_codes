@@ -1,0 +1,73 @@
+21328_0	is_in_sentence	sentence_21328
+21328_0	compound	21328_1
+21328_0	has_surface_form	Alam
+21328_0	part_of_entity	Alam Ara
+21328_1	is_in_sentence	sentence_21328
+21328_1	dep	21328_3
+21328_1	has_surface_form	Ara
+21328_1	part_of_entity	Alam Ara
+21328_3	is_in_sentence	sentence_21328
+21328_3	ROOT	21328_3
+21328_3	has_surface_form	translation
+21328_2	is_in_sentence	sentence_21328
+21328_2	punct	21328_3
+21328_2	has_surface_form	(
+21328_4	is_in_sentence	sentence_21328
+21328_4	punct	21328_3
+21328_4	has_surface_form	:
+21328_5	is_in_sentence	sentence_21328
+21328_5	det	21328_6
+21328_5	has_surface_form	The
+21328_6	is_in_sentence	sentence_21328
+21328_6	nsubj	21328_11
+21328_6	has_surface_form	Ornament
+21328_11	is_in_sentence	sentence_21328
+21328_11	acl	21328_3
+21328_11	has_surface_form	was
+21328_7	is_in_sentence	sentence_21328
+21328_7	prep	21328_6
+21328_7	has_surface_form	of
+21328_8	is_in_sentence	sentence_21328
+21328_8	det	21328_9
+21328_8	has_surface_form	the
+21328_9	is_in_sentence	sentence_21328
+21328_9	pobj	21328_7
+21328_9	has_surface_form	World
+21328_10	is_in_sentence	sentence_21328
+21328_10	punct	21328_6
+21328_10	has_surface_form	)
+21328_12	is_in_sentence	sentence_21328
+21328_12	det	21328_15
+21328_12	has_surface_form	a
+21328_15	is_in_sentence	sentence_21328
+21328_15	attr	21328_11
+21328_15	has_surface_form	film
+21328_13	is_in_sentence	sentence_21328
+21328_13	nummod	21328_15
+21328_13	has_surface_form	1931
+21328_14	is_in_sentence	sentence_21328
+21328_14	amod	21328_15
+21328_14	has_surface_form	Indian
+21328_16	is_in_sentence	sentence_21328
+21328_16	acl	21328_15
+21328_16	has_surface_form	directed
+21328_17	is_in_sentence	sentence_21328
+21328_17	agent	21328_16
+21328_17	has_surface_form	by
+21328_18	is_in_sentence	sentence_21328
+21328_18	compound	21328_19
+21328_18	has_surface_form	Ardeshir
+21328_18	part_of_entity	Ardeshir Irani
+21328_19	is_in_sentence	sentence_21328
+21328_19	pobj	21328_17
+21328_19	has_surface_form	Irani
+21328_19	part_of_entity	Ardeshir Irani
+21328_20	is_in_sentence	sentence_21328
+21328_20	punct	21328_11
+21328_20	has_surface_form	.
+21328_21	is_in_sentence	sentence_21328
+21328_21	dep	21328_3
+21328_21	has_surface_form	
+Alam Ara	surface_form	Alam Ara
+Alam Ara	movie-has-director	Ardeshir Irani
+Ardeshir Irani	surface_form	Ardeshir Irani

@@ -1,0 +1,77 @@
+5891_0	is_in_sentence	sentence_5891
+5891_0	compound	5891_1
+5891_0	has_surface_form	Toofan
+5891_0	part_of_entity	Toofan Aur Bijlee
+5891_1	is_in_sentence	sentence_5891
+5891_1	compound	5891_2
+5891_1	has_surface_form	Aur
+5891_1	part_of_entity	Toofan Aur Bijlee
+5891_2	is_in_sentence	sentence_5891
+5891_2	nsubj	5891_9
+5891_2	has_surface_form	Bijlee
+5891_2	part_of_entity	Toofan Aur Bijlee
+5891_9	is_in_sentence	sentence_5891
+5891_9	ROOT	5891_9
+5891_9	has_surface_form	is
+5891_3	is_in_sentence	sentence_5891
+5891_3	punct	5891_2
+5891_3	has_surface_form	(
+5891_4	is_in_sentence	sentence_5891
+5891_4	det	5891_5
+5891_4	has_surface_form	The
+5891_5	is_in_sentence	sentence_5891
+5891_5	appos	5891_2
+5891_5	has_surface_form	Storm
+5891_6	is_in_sentence	sentence_5891
+5891_6	cc	5891_5
+5891_6	has_surface_form	and
+5891_7	is_in_sentence	sentence_5891
+5891_7	conj	5891_5
+5891_7	has_surface_form	Lightning
+5891_8	is_in_sentence	sentence_5891
+5891_8	punct	5891_2
+5891_8	has_surface_form	)
+5891_10	is_in_sentence	sentence_5891
+5891_10	det	5891_14
+5891_10	has_surface_form	a
+5891_14	is_in_sentence	sentence_5891
+5891_14	attr	5891_9
+5891_14	has_surface_form	film
+5891_11	is_in_sentence	sentence_5891
+5891_11	nummod	5891_14
+5891_11	has_surface_form	1975
+5891_12	is_in_sentence	sentence_5891
+5891_12	compound	5891_14
+5891_12	has_surface_form	Hindi
+5891_13	is_in_sentence	sentence_5891
+5891_13	compound	5891_14
+5891_13	has_surface_form	action
+5891_15	is_in_sentence	sentence_5891
+5891_15	acl	5891_14
+5891_15	has_surface_form	produced
+5891_16	is_in_sentence	sentence_5891
+5891_16	cc	5891_15
+5891_16	has_surface_form	and
+5891_17	is_in_sentence	sentence_5891
+5891_17	conj	5891_15
+5891_17	has_surface_form	directed
+5891_18	is_in_sentence	sentence_5891
+5891_18	agent	5891_17
+5891_18	has_surface_form	by
+5891_19	is_in_sentence	sentence_5891
+5891_19	compound	5891_20
+5891_19	has_surface_form	Homi
+5891_19	part_of_entity	Homi Wadia
+5891_20	is_in_sentence	sentence_5891
+5891_20	pobj	5891_18
+5891_20	has_surface_form	Wadia
+5891_20	part_of_entity	Homi Wadia
+5891_21	is_in_sentence	sentence_5891
+5891_21	punct	5891_9
+5891_21	has_surface_form	.
+5891_22	is_in_sentence	sentence_5891
+5891_22	dep	5891_22
+5891_22	has_surface_form	
+Toofan Aur Bijlee	surface_form	Toofan Aur Bijlee
+Toofan Aur Bijlee	movie-has-director	Homi Wadia
+Homi Wadia	surface_form	Homi Wadia

@@ -1,0 +1,67 @@
+4731_0	is_in_sentence	sentence_4731
+4731_0	compound	4731_1
+4731_0	has_surface_form	Savage
+4731_0	part_of_entity	Savage Breed
+4731_1	is_in_sentence	sentence_4731
+4731_1	nsubj	4731_8
+4731_1	has_surface_form	Breed
+4731_1	part_of_entity	Savage Breed
+4731_8	is_in_sentence	sentence_4731
+4731_8	ROOT	4731_8
+4731_8	has_surface_form	is
+4731_2	is_in_sentence	sentence_4731
+4731_2	punct	4731_6
+4731_2	has_surface_form	(
+4731_6	is_in_sentence	sentence_4731
+4731_6	appos	4731_1
+4731_6	has_surface_form	selvaggia
+4731_3	is_in_sentence	sentence_4731
+4731_3	nmod	4731_6
+4731_3	has_surface_form	Italian
+4731_4	is_in_sentence	sentence_4731
+4731_4	punct	4731_6
+4731_4	has_surface_form	:
+4731_5	is_in_sentence	sentence_4731
+4731_5	compound	4731_6
+4731_5	has_surface_form	Razza
+4731_7	is_in_sentence	sentence_4731
+4731_7	punct	4731_1
+4731_7	has_surface_form	)
+4731_9	is_in_sentence	sentence_4731
+4731_9	det	4731_13
+4731_9	has_surface_form	a
+4731_13	is_in_sentence	sentence_4731
+4731_13	attr	4731_8
+4731_13	has_surface_form	film
+4731_10	is_in_sentence	sentence_4731
+4731_10	nummod	4731_13
+4731_10	has_surface_form	1980
+4731_11	is_in_sentence	sentence_4731
+4731_11	amod	4731_13
+4731_11	has_surface_form	Italian
+4731_12	is_in_sentence	sentence_4731
+4731_12	compound	4731_13
+4731_12	has_surface_form	drama
+4731_14	is_in_sentence	sentence_4731
+4731_14	acl	4731_13
+4731_14	has_surface_form	directed
+4731_15	is_in_sentence	sentence_4731
+4731_15	agent	4731_14
+4731_15	has_surface_form	by
+4731_16	is_in_sentence	sentence_4731
+4731_16	compound	4731_17
+4731_16	has_surface_form	Pasquale
+4731_16	part_of_entity	Pasquale Squitieri
+4731_17	is_in_sentence	sentence_4731
+4731_17	pobj	4731_15
+4731_17	has_surface_form	Squitieri
+4731_17	part_of_entity	Pasquale Squitieri
+4731_18	is_in_sentence	sentence_4731
+4731_18	punct	4731_8
+4731_18	has_surface_form	.
+4731_19	is_in_sentence	sentence_4731
+4731_19	dep	4731_8
+4731_19	has_surface_form	
+Savage Breed	surface_form	Savage Breed
+Savage Breed	movie-has-director	Pasquale Squitieri
+Pasquale Squitieri	surface_form	Pasquale Squitieri

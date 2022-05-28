@@ -1,0 +1,76 @@
+20952_0	is_in_sentence	sentence_20952
+20952_0	compound	20952_1
+20952_0	has_surface_form	Middle
+20952_1	is_in_sentence	sentence_20952
+20952_1	compound	20952_3
+20952_1	has_surface_form	Tennessee
+20952_3	is_in_sentence	sentence_20952
+20952_3	nsubj	20952_4
+20952_3	has_surface_form	University
+20952_2	is_in_sentence	sentence_20952
+20952_2	compound	20952_3
+20952_2	has_surface_form	State
+20952_4	is_in_sentence	sentence_20952
+20952_4	ROOT	20952_4
+20952_4	has_surface_form	awards
+20952_5	is_in_sentence	sentence_20952
+20952_5	det	20952_9
+20952_5	has_surface_form	the
+20952_9	is_in_sentence	sentence_20952
+20952_9	dobj	20952_4
+20952_9	has_surface_form	Award
+20952_6	is_in_sentence	sentence_20952
+20952_6	compound	20952_9
+20952_6	has_surface_form	Gene
+20952_6	part_of_entity	Gene Graham
+20952_7	is_in_sentence	sentence_20952
+20952_7	compound	20952_9
+20952_7	has_surface_form	Graham
+20952_7	part_of_entity	Gene Graham
+20952_8	is_in_sentence	sentence_20952
+20952_8	compound	20952_9
+20952_8	has_surface_form	Journalism
+20952_10	is_in_sentence	sentence_20952
+20952_10	prep	20952_4
+20952_10	has_surface_form	to
+20952_11	is_in_sentence	sentence_20952
+20952_11	amod	20952_13
+20952_11	has_surface_form	junior
+20952_13	is_in_sentence	sentence_20952
+20952_13	pobj	20952_10
+20952_13	has_surface_form	majors
+20952_12	is_in_sentence	sentence_20952
+20952_12	compound	20952_13
+20952_12	has_surface_form	journalism
+20952_14	is_in_sentence	sentence_20952
+20952_14	punct	20952_4
+20952_14	has_surface_form	.
+20952_15	is_in_sentence	sentence_20952
+20952_15	nsubj	20952_16
+20952_15	has_surface_form	He
+20952_16	is_in_sentence	sentence_20952
+20952_16	ROOT	20952_16
+20952_16	has_surface_form	married
+20952_17	is_in_sentence	sentence_20952
+20952_17	compound	20952_18
+20952_17	has_surface_form	Martha
+20952_17	part_of_entity	Martha Fentress
+20952_18	is_in_sentence	sentence_20952
+20952_18	dobj	20952_16
+20952_18	has_surface_form	Fentress
+20952_18	part_of_entity	Martha Fentress
+20952_19	is_in_sentence	sentence_20952
+20952_19	prep	20952_16
+20952_19	has_surface_form	in
+20952_20	is_in_sentence	sentence_20952
+20952_20	pobj	20952_19
+20952_20	has_surface_form	1945
+20952_21	is_in_sentence	sentence_20952
+20952_21	punct	20952_16
+20952_21	has_surface_form	.
+20952_22	is_in_sentence	sentence_20952
+20952_22	dep	20952_22
+20952_22	has_surface_form	
+Gene Graham	surface_form	Gene Graham
+Gene Graham	has-spouse	Martha Fentress
+Martha Fentress	surface_form	Martha Fentress

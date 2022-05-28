@@ -1,0 +1,80 @@
+32002_0	is_in_sentence	sentence_32002
+32002_0	compound	32002_1
+32002_0	has_surface_form	Cork
+32002_0	part_of_entity	Cork City Ballet
+32002_1	is_in_sentence	sentence_32002
+32002_1	compound	32002_2
+32002_1	has_surface_form	City
+32002_1	part_of_entity	Cork City Ballet
+32002_2	is_in_sentence	sentence_32002
+32002_2	nsubj	32002_3
+32002_2	has_surface_form	Ballet
+32002_2	part_of_entity	Cork City Ballet
+32002_3	is_in_sentence	sentence_32002
+32002_3	ROOT	32002_3
+32002_3	has_surface_form	is
+32002_4	is_in_sentence	sentence_32002
+32002_4	det	32002_7
+32002_4	has_surface_form	an
+32002_7	is_in_sentence	sentence_32002
+32002_7	attr	32002_3
+32002_7	has_surface_form	company
+32002_5	is_in_sentence	sentence_32002
+32002_5	amod	32002_7
+32002_5	has_surface_form	Irish
+32002_6	is_in_sentence	sentence_32002
+32002_6	compound	32002_7
+32002_6	has_surface_form	ballet
+32002_8	is_in_sentence	sentence_32002
+32002_8	acl	32002_7
+32002_8	has_surface_form	founded
+32002_9	is_in_sentence	sentence_32002
+32002_9	agent	32002_8
+32002_9	has_surface_form	by
+32002_10	is_in_sentence	sentence_32002
+32002_10	compound	32002_11
+32002_10	has_surface_form	Alan
+32002_10	part_of_entity	Alan Foley
+32002_11	is_in_sentence	sentence_32002
+32002_11	pobj	32002_9
+32002_11	has_surface_form	Foley
+32002_11	part_of_entity	Alan Foley
+32002_12	is_in_sentence	sentence_32002
+32002_12	punct	32002_11
+32002_12	has_surface_form	,
+32002_13	is_in_sentence	sentence_32002
+32002_13	det	32002_14
+32002_13	has_surface_form	a
+32002_14	is_in_sentence	sentence_32002
+32002_14	appos	32002_11
+32002_14	has_surface_form	disciple
+32002_15	is_in_sentence	sentence_32002
+32002_15	prep	32002_14
+32002_15	has_surface_form	of
+32002_16	is_in_sentence	sentence_32002
+32002_16	compound	32002_18
+32002_16	has_surface_form	Joan
+32002_18	is_in_sentence	sentence_32002
+32002_18	pobj	32002_15
+32002_18	has_surface_form	Moriarty
+32002_17	is_in_sentence	sentence_32002
+32002_17	compound	32002_18
+32002_17	has_surface_form	Denise
+32002_19	is_in_sentence	sentence_32002
+32002_19	punct	32002_7
+32002_19	has_surface_form	,
+32002_20	is_in_sentence	sentence_32002
+32002_20	prep	32002_3
+32002_20	has_surface_form	in
+32002_21	is_in_sentence	sentence_32002
+32002_21	pobj	32002_20
+32002_21	has_surface_form	1992
+32002_22	is_in_sentence	sentence_32002
+32002_22	punct	32002_3
+32002_22	has_surface_form	.
+32002_23	is_in_sentence	sentence_32002
+32002_23	dep	32002_23
+32002_23	has_surface_form	
+Cork City Ballet	surface_form	Cork City Ballet
+Cork City Ballet	org-has-founder	Alan Foley
+Alan Foley	surface_form	Alan Foley

@@ -1,0 +1,96 @@
+420_0	is_in_sentence	sentence_420
+420_0	det	420_3
+420_0	has_surface_form	A
+420_0	part_of_entity	A Qualcuna Piace Calvo
+420_3	is_in_sentence	sentence_420
+420_3	nsubj	420_4
+420_3	has_surface_form	Calvo
+420_3	part_of_entity	A Qualcuna Piace Calvo
+420_1	is_in_sentence	sentence_420
+420_1	compound	420_3
+420_1	has_surface_form	Qualcuna
+420_1	part_of_entity	A Qualcuna Piace Calvo
+420_2	is_in_sentence	sentence_420
+420_2	compound	420_3
+420_2	has_surface_form	Piace
+420_2	part_of_entity	A Qualcuna Piace Calvo
+420_4	is_in_sentence	sentence_420
+420_4	ROOT	420_4
+420_4	has_surface_form	is
+420_5	is_in_sentence	sentence_420
+420_5	det	420_8
+420_5	has_surface_form	a
+420_8	is_in_sentence	sentence_420
+420_8	attr	420_4
+420_8	has_surface_form	film
+420_6	is_in_sentence	sentence_420
+420_6	nummod	420_8
+420_6	has_surface_form	1959
+420_7	is_in_sentence	sentence_420
+420_7	amod	420_8
+420_7	has_surface_form	Italian
+420_9	is_in_sentence	sentence_420
+420_9	punct	420_8
+420_9	has_surface_form	,
+420_10	is_in_sentence	sentence_420
+420_10	acl	420_8
+420_10	has_surface_form	directed
+420_11	is_in_sentence	sentence_420
+420_11	agent	420_10
+420_11	has_surface_form	by
+420_12	is_in_sentence	sentence_420
+420_12	compound	420_13
+420_12	has_surface_form	Mario
+420_12	part_of_entity	Mario Amendola
+420_13	is_in_sentence	sentence_420
+420_13	pobj	420_11
+420_13	has_surface_form	Amendola
+420_13	part_of_entity	Mario Amendola
+420_14	is_in_sentence	sentence_420
+420_14	punct	420_8
+420_14	has_surface_form	,
+420_15	is_in_sentence	sentence_420
+420_15	acl	420_8
+420_15	has_surface_form	starring
+420_16	is_in_sentence	sentence_420
+420_16	compound	420_17
+420_16	has_surface_form	Magali
+420_17	is_in_sentence	sentence_420
+420_17	dobj	420_15
+420_17	has_surface_form	Noël
+420_18	is_in_sentence	sentence_420
+420_18	punct	420_17
+420_18	has_surface_form	,
+420_19	is_in_sentence	sentence_420
+420_19	compound	420_20
+420_19	has_surface_form	Antonio
+420_20	is_in_sentence	sentence_420
+420_20	conj	420_17
+420_20	has_surface_form	Cifariello
+420_21	is_in_sentence	sentence_420
+420_21	punct	420_20
+420_21	has_surface_form	,
+420_22	is_in_sentence	sentence_420
+420_22	compound	420_23
+420_22	has_surface_form	Roberto
+420_23	is_in_sentence	sentence_420
+420_23	conj	420_20
+420_23	has_surface_form	Risso
+420_24	is_in_sentence	sentence_420
+420_24	cc	420_23
+420_24	has_surface_form	and
+420_25	is_in_sentence	sentence_420
+420_25	compound	420_26
+420_25	has_surface_form	Gisella
+420_26	is_in_sentence	sentence_420
+420_26	conj	420_23
+420_26	has_surface_form	Sofio
+420_27	is_in_sentence	sentence_420
+420_27	punct	420_4
+420_27	has_surface_form	.
+420_28	is_in_sentence	sentence_420
+420_28	dep	420_4
+420_28	has_surface_form	
+A Qualcuna Piace Calvo	surface_form	A Qualcuna Piace Calvo
+A Qualcuna Piace Calvo	movie-has-director	Mario Amendola
+Mario Amendola	surface_form	Mario Amendola

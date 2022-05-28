@@ -1,0 +1,56 @@
+25170_0	is_in_sentence	sentence_25170
+25170_0	compound	25170_1
+25170_0	has_surface_form	Pennsylvania
+25170_0	part_of_entity	Pennsylvania Route 982
+25170_1	is_in_sentence	sentence_25170
+25170_1	nsubj	25170_7
+25170_1	has_surface_form	Route
+25170_1	part_of_entity	Pennsylvania Route 982
+25170_7	is_in_sentence	sentence_25170
+25170_7	ROOT	25170_7
+25170_7	has_surface_form	is
+25170_2	is_in_sentence	sentence_25170
+25170_2	nummod	25170_1
+25170_2	has_surface_form	982
+25170_2	part_of_entity	Pennsylvania Route 982
+25170_3	is_in_sentence	sentence_25170
+25170_3	punct	25170_1
+25170_3	has_surface_form	(
+25170_4	is_in_sentence	sentence_25170
+25170_4	appos	25170_1
+25170_4	has_surface_form	PA
+25170_5	is_in_sentence	sentence_25170
+25170_5	nummod	25170_4
+25170_5	has_surface_form	982
+25170_6	is_in_sentence	sentence_25170
+25170_6	punct	25170_4
+25170_6	has_surface_form	)
+25170_8	is_in_sentence	sentence_25170
+25170_8	det	25170_10
+25170_8	has_surface_form	a
+25170_10	is_in_sentence	sentence_25170
+25170_10	attr	25170_7
+25170_10	has_surface_form	highway
+25170_10	part_of_entity	state highway
+25170_9	is_in_sentence	sentence_25170
+25170_9	compound	25170_10
+25170_9	has_surface_form	state
+25170_9	part_of_entity	state highway
+25170_11	is_in_sentence	sentence_25170
+25170_11	nsubj	25170_12
+25170_11	has_surface_form	which
+25170_12	is_in_sentence	sentence_25170
+25170_12	relcl	25170_10
+25170_12	has_surface_form	runs
+25170_13	is_in_sentence	sentence_25170
+25170_13	dobj	25170_12
+25170_13	has_surface_form	32
+25170_14	is_in_sentence	sentence_25170
+25170_14	punct	25170_7
+25170_14	has_surface_form	.
+25170_15	is_in_sentence	sentence_25170
+25170_15	dep	25170_7
+25170_15	has_surface_form	
+Pennsylvania Route 982	surface_form	Pennsylvania Route 982
+Pennsylvania Route 982	has-type	state highway
+state highway	surface_form	state highway

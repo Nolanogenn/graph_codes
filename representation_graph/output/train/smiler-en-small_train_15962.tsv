@@ -1,0 +1,92 @@
+15961_0	is_in_sentence	sentence_15961
+15961_0	det	15961_3
+15961_0	has_surface_form	The
+15961_3	is_in_sentence	sentence_15961
+15961_3	advcl	15961_7
+15961_3	has_surface_form	tube
+15961_3	part_of_entity	vacuum tube
+15961_1	is_in_sentence	sentence_15961
+15961_1	amod	15961_3
+15961_1	has_surface_form	simplest
+15961_2	is_in_sentence	sentence_15961
+15961_2	compound	15961_3
+15961_2	has_surface_form	vacuum
+15961_2	part_of_entity	vacuum tube
+15961_7	is_in_sentence	sentence_15961
+15961_7	ROOT	15961_7
+15961_7	has_surface_form	invented
+15961_4	is_in_sentence	sentence_15961
+15961_4	punct	15961_7
+15961_4	has_surface_form	,
+15961_5	is_in_sentence	sentence_15961
+15961_5	det	15961_6
+15961_5	has_surface_form	the
+15961_6	is_in_sentence	sentence_15961
+15961_6	nsubj	15961_7
+15961_6	has_surface_form	diode
+15961_8	is_in_sentence	sentence_15961
+15961_8	prep	15961_7
+15961_8	has_surface_form	in
+15961_9	is_in_sentence	sentence_15961
+15961_9	pobj	15961_8
+15961_9	has_surface_form	1904
+15961_10	is_in_sentence	sentence_15961
+15961_10	agent	15961_7
+15961_10	has_surface_form	by
+15961_11	is_in_sentence	sentence_15961
+15961_11	compound	15961_13
+15961_11	has_surface_form	John
+15961_11	part_of_entity	John Ambrose Fleming
+15961_13	is_in_sentence	sentence_15961
+15961_13	pobj	15961_10
+15961_13	has_surface_form	Fleming
+15961_13	part_of_entity	John Ambrose Fleming
+15961_12	is_in_sentence	sentence_15961
+15961_12	compound	15961_13
+15961_12	has_surface_form	Ambrose
+15961_12	part_of_entity	John Ambrose Fleming
+15961_14	is_in_sentence	sentence_15961
+15961_14	punct	15961_7
+15961_14	has_surface_form	,
+15961_15	is_in_sentence	sentence_15961
+15961_15	conj	15961_7
+15961_15	has_surface_form	contains
+15961_16	is_in_sentence	sentence_15961
+15961_16	advmod	15961_22
+15961_16	has_surface_form	only
+15961_22	is_in_sentence	sentence_15961
+15961_22	dobj	15961_15
+15961_22	has_surface_form	cathode
+15961_17	is_in_sentence	sentence_15961
+15961_17	det	15961_22
+15961_17	has_surface_form	a
+15961_18	is_in_sentence	sentence_15961
+15961_18	amod	15961_22
+15961_18	has_surface_form	heated
+15961_19	is_in_sentence	sentence_15961
+15961_19	npadvmod	15961_21
+15961_19	has_surface_form	electron
+15961_21	is_in_sentence	sentence_15961
+15961_21	amod	15961_22
+15961_21	has_surface_form	emitting
+15961_20	is_in_sentence	sentence_15961
+15961_20	punct	15961_21
+15961_20	has_surface_form	-
+15961_23	is_in_sentence	sentence_15961
+15961_23	cc	15961_22
+15961_23	has_surface_form	and
+15961_24	is_in_sentence	sentence_15961
+15961_24	det	15961_25
+15961_24	has_surface_form	an
+15961_25	is_in_sentence	sentence_15961
+15961_25	conj	15961_22
+15961_25	has_surface_form	anode
+15961_26	is_in_sentence	sentence_15961
+15961_26	punct	15961_7
+15961_26	has_surface_form	.
+15961_27	is_in_sentence	sentence_15961
+15961_27	dep	15961_27
+15961_27	has_surface_form	
+vacuum tube	surface_form	vacuum tube
+vacuum tube	invented-by	John Ambrose Fleming
+John Ambrose Fleming	surface_form	John Ambrose Fleming

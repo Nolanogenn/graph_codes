@@ -1,0 +1,67 @@
+3261_0	is_in_sentence	sentence_3261
+3261_0	det	3261_2
+3261_0	has_surface_form	The
+3261_2	is_in_sentence	sentence_3261
+3261_2	nsubj	3261_8
+3261_2	has_surface_form	Department
+3261_2	part_of_entity	Michigan Department of Military and Veterans Affairs
+3261_1	is_in_sentence	sentence_3261
+3261_1	compound	3261_2
+3261_1	has_surface_form	Michigan
+3261_1	part_of_entity	Michigan Department of Military and Veterans Affairs
+3261_8	is_in_sentence	sentence_3261
+3261_8	ROOT	3261_8
+3261_8	has_surface_form	is
+3261_3	is_in_sentence	sentence_3261
+3261_3	prep	3261_2
+3261_3	has_surface_form	of
+3261_3	part_of_entity	Michigan Department of Military and Veterans Affairs
+3261_4	is_in_sentence	sentence_3261
+3261_4	pobj	3261_3
+3261_4	has_surface_form	Military
+3261_4	part_of_entity	Michigan Department of Military and Veterans Affairs
+3261_5	is_in_sentence	sentence_3261
+3261_5	cc	3261_4
+3261_5	has_surface_form	and
+3261_5	part_of_entity	Michigan Department of Military and Veterans Affairs
+3261_6	is_in_sentence	sentence_3261
+3261_6	compound	3261_7
+3261_6	has_surface_form	Veterans
+3261_6	part_of_entity	Michigan Department of Military and Veterans Affairs
+3261_7	is_in_sentence	sentence_3261
+3261_7	conj	3261_2
+3261_7	has_surface_form	Affairs
+3261_7	part_of_entity	Michigan Department of Military and Veterans Affairs
+3261_9	is_in_sentence	sentence_3261
+3261_9	det	3261_11
+3261_9	has_surface_form	a
+3261_11	is_in_sentence	sentence_3261
+3261_11	attr	3261_8
+3261_11	is_entity	department
+3261_10	is_in_sentence	sentence_3261
+3261_10	amod	3261_11
+3261_10	has_surface_form	principal
+department	surface_form	department
+3261_12	is_in_sentence	sentence_3261
+3261_12	prep	3261_11
+3261_12	has_surface_form	of
+3261_13	is_in_sentence	sentence_3261
+3261_13	det	3261_14
+3261_13	has_surface_form	the
+3261_14	is_in_sentence	sentence_3261
+3261_14	pobj	3261_12
+3261_14	has_surface_form	State
+3261_15	is_in_sentence	sentence_3261
+3261_15	prep	3261_14
+3261_15	has_surface_form	of
+3261_16	is_in_sentence	sentence_3261
+3261_16	pobj	3261_15
+3261_16	has_surface_form	Michigan
+3261_17	is_in_sentence	sentence_3261
+3261_17	punct	3261_8
+3261_17	has_surface_form	.
+3261_18	is_in_sentence	sentence_3261
+3261_18	dep	3261_8
+3261_18	has_surface_form	
+Michigan Department of Military and Veterans Affairs	surface_form	Michigan Department of Military and Veterans Affairs
+Michigan Department of Military and Veterans Affairs	has-type	department

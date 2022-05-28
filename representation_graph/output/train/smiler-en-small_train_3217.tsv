@@ -1,0 +1,97 @@
+3216_0	is_in_sentence	sentence_3216
+3216_0	compound	3216_1
+3216_0	has_surface_form	Commonwealth
+3216_0	part_of_entity	Commonwealth School
+3216_1	is_in_sentence	sentence_3216
+3216_1	nsubj	3216_2
+3216_1	has_surface_form	School
+3216_1	part_of_entity	Commonwealth School
+3216_2	is_in_sentence	sentence_3216
+3216_2	ROOT	3216_2
+3216_2	has_surface_form	is
+3216_3	is_in_sentence	sentence_3216
+3216_3	det	3216_6
+3216_3	has_surface_form	a
+3216_6	is_in_sentence	sentence_3216
+3216_6	attr	3216_2
+3216_6	has_surface_form	school
+3216_4	is_in_sentence	sentence_3216
+3216_4	amod	3216_6
+3216_4	has_surface_form	private
+3216_5	is_in_sentence	sentence_3216
+3216_5	amod	3216_6
+3216_5	has_surface_form	high
+3216_7	is_in_sentence	sentence_3216
+3216_7	prep	3216_6
+3216_7	has_surface_form	of
+3216_8	is_in_sentence	sentence_3216
+3216_8	advmod	3216_9
+3216_8	has_surface_form	about
+3216_9	is_in_sentence	sentence_3216
+3216_9	nummod	3216_10
+3216_9	has_surface_form	150
+3216_10	is_in_sentence	sentence_3216
+3216_10	pobj	3216_7
+3216_10	has_surface_form	students
+3216_11	is_in_sentence	sentence_3216
+3216_11	cc	3216_10
+3216_11	has_surface_form	and
+3216_12	is_in_sentence	sentence_3216
+3216_12	nummod	3216_14
+3216_12	has_surface_form	35
+3216_14	is_in_sentence	sentence_3216
+3216_14	conj	3216_10
+3216_14	has_surface_form	members
+3216_13	is_in_sentence	sentence_3216
+3216_13	compound	3216_14
+3216_13	has_surface_form	faculty
+3216_15	is_in_sentence	sentence_3216
+3216_15	acl	3216_14
+3216_15	has_surface_form	located
+3216_16	is_in_sentence	sentence_3216
+3216_16	prep	3216_15
+3216_16	has_surface_form	in
+3216_17	is_in_sentence	sentence_3216
+3216_17	det	3216_20
+3216_17	has_surface_form	the
+3216_20	is_in_sentence	sentence_3216
+3216_20	pobj	3216_16
+3216_20	has_surface_form	neighborhood
+3216_18	is_in_sentence	sentence_3216
+3216_18	compound	3216_19
+3216_18	has_surface_form	Back
+3216_18	part_of_entity	Back Bay
+3216_19	is_in_sentence	sentence_3216
+3216_19	compound	3216_20
+3216_19	has_surface_form	Bay
+3216_19	part_of_entity	Back Bay
+3216_21	is_in_sentence	sentence_3216
+3216_21	prep	3216_20
+3216_21	has_surface_form	of
+3216_22	is_in_sentence	sentence_3216
+3216_22	pobj	3216_21
+3216_22	has_surface_form	Boston
+3216_23	is_in_sentence	sentence_3216
+3216_23	punct	3216_22
+3216_23	has_surface_form	,
+3216_24	is_in_sentence	sentence_3216
+3216_24	conj	3216_22
+3216_24	has_surface_form	Massachusetts
+3216_25	is_in_sentence	sentence_3216
+3216_25	punct	3216_24
+3216_25	has_surface_form	,
+3216_26	is_in_sentence	sentence_3216
+3216_26	compound	3216_27
+3216_26	has_surface_form	United
+3216_27	is_in_sentence	sentence_3216
+3216_27	conj	3216_24
+3216_27	has_surface_form	States
+3216_28	is_in_sentence	sentence_3216
+3216_28	punct	3216_2
+3216_28	has_surface_form	.
+3216_29	is_in_sentence	sentence_3216
+3216_29	dep	3216_2
+3216_29	has_surface_form	
+Commonwealth School	surface_form	Commonwealth School
+Commonwealth School	is-where	Back Bay
+Back Bay	surface_form	Back Bay

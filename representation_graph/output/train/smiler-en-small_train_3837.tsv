@@ -1,0 +1,61 @@
+3836_0	is_in_sentence	sentence_3836
+3836_0	det	3836_2
+3836_0	has_surface_form	The
+3836_2	is_in_sentence	sentence_3836
+3836_2	nsubj	3836_3
+3836_2	has_surface_form	Company
+3836_2	part_of_entity	Butterley Company
+3836_1	is_in_sentence	sentence_3836
+3836_1	compound	3836_2
+3836_1	has_surface_form	Butterley
+3836_1	part_of_entity	Butterley Company
+3836_3	is_in_sentence	sentence_3836
+3836_3	ROOT	3836_3
+3836_3	has_surface_form	was
+3836_4	is_in_sentence	sentence_3836
+3836_4	det	3836_7
+3836_4	has_surface_form	an
+3836_7	is_in_sentence	sentence_3836
+3836_7	attr	3836_3
+3836_7	has_surface_form	firm
+3836_5	is_in_sentence	sentence_3836
+3836_5	amod	3836_7
+3836_5	has_surface_form	English
+3836_6	is_in_sentence	sentence_3836
+3836_6	compound	3836_7
+3836_6	has_surface_form	manufacturing
+3836_8	is_in_sentence	sentence_3836
+3836_8	acl	3836_7
+3836_8	has_surface_form	founded
+3836_9	is_in_sentence	sentence_3836
+3836_9	prep	3836_8
+3836_9	has_surface_form	as
+3836_10	is_in_sentence	sentence_3836
+3836_10	compound	3836_11
+3836_10	has_surface_form	Benjamin
+3836_10	part_of_entity	Benjamin Outram
+3836_11	is_in_sentence	sentence_3836
+3836_11	pobj	3836_9
+3836_11	has_surface_form	Outram
+3836_11	part_of_entity	Benjamin Outram
+3836_12	is_in_sentence	sentence_3836
+3836_12	cc	3836_11
+3836_12	has_surface_form	and
+3836_13	is_in_sentence	sentence_3836
+3836_13	conj	3836_11
+3836_13	has_surface_form	Company
+3836_14	is_in_sentence	sentence_3836
+3836_14	prep	3836_8
+3836_14	has_surface_form	in
+3836_15	is_in_sentence	sentence_3836
+3836_15	pobj	3836_14
+3836_15	has_surface_form	1790
+3836_16	is_in_sentence	sentence_3836
+3836_16	punct	3836_3
+3836_16	has_surface_form	.
+3836_17	is_in_sentence	sentence_3836
+3836_17	dep	3836_17
+3836_17	has_surface_form	
+Butterley Company	surface_form	Butterley Company
+Butterley Company	org-has-founder	Benjamin Outram
+Benjamin Outram	surface_form	Benjamin Outram

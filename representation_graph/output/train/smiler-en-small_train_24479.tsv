@@ -1,0 +1,68 @@
+24478_0	is_in_sentence	sentence_24478
+24478_0	nmod	24478_4
+24478_0	has_surface_form	Property
+24478_0	part_of_entity	Property & Casualty Management Systems
+24478_4	is_in_sentence	sentence_24478
+24478_4	ROOT	24478_4
+24478_4	has_surface_form	Systems
+24478_4	part_of_entity	Property & Casualty Management Systems
+24478_1	is_in_sentence	sentence_24478
+24478_1	cc	24478_0
+24478_1	has_surface_form	&
+24478_1	part_of_entity	Property & Casualty Management Systems
+24478_2	is_in_sentence	sentence_24478
+24478_2	conj	24478_0
+24478_2	has_surface_form	Casualty
+24478_2	part_of_entity	Property & Casualty Management Systems
+24478_3	is_in_sentence	sentence_24478
+24478_3	compound	24478_4
+24478_3	has_surface_form	Management
+24478_3	part_of_entity	Property & Casualty Management Systems
+24478_5	is_in_sentence	sentence_24478
+24478_5	punct	24478_4
+24478_5	has_surface_form	,
+24478_6	is_in_sentence	sentence_24478
+24478_6	punct	24478_4
+24478_6	has_surface_form	Inc.
+24478_7	is_in_sentence	sentence_24478
+24478_7	nsubj	24478_8
+24478_7	has_surface_form	PCMS
+24478_8	is_in_sentence	sentence_24478
+24478_8	ROOT	24478_8
+24478_8	has_surface_form	is
+24478_9	is_in_sentence	sentence_24478
+24478_9	det	24478_12
+24478_9	has_surface_form	a
+24478_12	is_in_sentence	sentence_24478
+24478_12	attr	24478_8
+24478_12	is_entity	company
+24478_10	is_in_sentence	sentence_24478
+24478_10	advmod	24478_11
+24478_10	has_surface_form	privately
+24478_11	is_in_sentence	sentence_24478
+24478_11	amod	24478_12
+24478_11	has_surface_form	held
+company	surface_form	company
+24478_13	is_in_sentence	sentence_24478
+24478_13	acl	24478_12
+24478_13	has_surface_form	based
+24478_14	is_in_sentence	sentence_24478
+24478_14	prep	24478_13
+24478_14	has_surface_form	in
+24478_15	is_in_sentence	sentence_24478
+24478_15	pobj	24478_14
+24478_15	has_surface_form	Dallas
+24478_16	is_in_sentence	sentence_24478
+24478_16	punct	24478_15
+24478_16	has_surface_form	,
+24478_17	is_in_sentence	sentence_24478
+24478_17	appos	24478_15
+24478_17	has_surface_form	Texas
+24478_18	is_in_sentence	sentence_24478
+24478_18	punct	24478_8
+24478_18	has_surface_form	.
+24478_19	is_in_sentence	sentence_24478
+24478_19	dep	24478_8
+24478_19	has_surface_form	
+Property & Casualty Management Systems	surface_form	Property & Casualty Management Systems
+Property & Casualty Management Systems	has-type	company

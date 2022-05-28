@@ -1,0 +1,67 @@
+31107_0	is_in_sentence	sentence_31107
+31107_0	compound	31107_1
+31107_0	has_surface_form	Terres
+31107_0	part_of_entity	Terres Inovia
+31107_1	is_in_sentence	sentence_31107
+31107_1	nsubj	31107_2
+31107_1	has_surface_form	Inovia
+31107_1	part_of_entity	Terres Inovia
+31107_2	is_in_sentence	sentence_31107
+31107_2	ROOT	31107_2
+31107_2	has_surface_form	is
+31107_3	is_in_sentence	sentence_31107
+31107_3	det	31107_7
+31107_3	has_surface_form	a
+31107_7	is_in_sentence	sentence_31107
+31107_7	attr	31107_2
+31107_7	has_surface_form	institute
+31107_7	part_of_entity	research institute
+31107_4	is_in_sentence	sentence_31107
+31107_4	amod	31107_7
+31107_4	has_surface_form	French
+31107_5	is_in_sentence	sentence_31107
+31107_5	amod	31107_6
+31107_5	has_surface_form	agricultural
+31107_6	is_in_sentence	sentence_31107
+31107_6	compound	31107_7
+31107_6	has_surface_form	research
+31107_6	part_of_entity	research institute
+31107_8	is_in_sentence	sentence_31107
+31107_8	acl	31107_7
+31107_8	has_surface_form	carrying
+31107_9	is_in_sentence	sentence_31107
+31107_9	prt	31107_8
+31107_9	has_surface_form	out
+31107_10	is_in_sentence	sentence_31107
+31107_10	amod	31107_11
+31107_10	has_surface_form	applied
+31107_11	is_in_sentence	sentence_31107
+31107_11	dobj	31107_8
+31107_11	has_surface_form	research
+31107_12	is_in_sentence	sentence_31107
+31107_12	prep	31107_11
+31107_12	has_surface_form	on
+31107_13	is_in_sentence	sentence_31107
+31107_13	compound	31107_14
+31107_13	has_surface_form	oilseed
+31107_14	is_in_sentence	sentence_31107
+31107_14	pobj	31107_12
+31107_14	has_surface_form	plants
+31107_15	is_in_sentence	sentence_31107
+31107_15	cc	31107_14
+31107_15	has_surface_form	and
+31107_16	is_in_sentence	sentence_31107
+31107_16	compound	31107_17
+31107_16	has_surface_form	protein
+31107_17	is_in_sentence	sentence_31107
+31107_17	conj	31107_14
+31107_17	has_surface_form	crop
+31107_18	is_in_sentence	sentence_31107
+31107_18	punct	31107_2
+31107_18	has_surface_form	.
+31107_19	is_in_sentence	sentence_31107
+31107_19	dep	31107_2
+31107_19	has_surface_form	
+Terres Inovia	surface_form	Terres Inovia
+Terres Inovia	has-type	research institute
+research institute	surface_form	research institute

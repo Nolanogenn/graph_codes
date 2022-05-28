@@ -1,0 +1,100 @@
+31579_0	is_in_sentence	sentence_31579
+31579_0	compound	31579_1
+31579_0	has_surface_form	Forest
+31579_0	part_of_entity	Forest Ridge School of the Sacred Heart
+31579_1	is_in_sentence	sentence_31579
+31579_1	compound	31579_2
+31579_1	has_surface_form	Ridge
+31579_1	part_of_entity	Forest Ridge School of the Sacred Heart
+31579_2	is_in_sentence	sentence_31579
+31579_2	nsubj	31579_7
+31579_2	has_surface_form	School
+31579_2	part_of_entity	Forest Ridge School of the Sacred Heart
+31579_7	is_in_sentence	sentence_31579
+31579_7	ROOT	31579_7
+31579_7	has_surface_form	is
+31579_3	is_in_sentence	sentence_31579
+31579_3	prep	31579_2
+31579_3	has_surface_form	of
+31579_3	part_of_entity	Forest Ridge School of the Sacred Heart
+31579_4	is_in_sentence	sentence_31579
+31579_4	det	31579_6
+31579_4	has_surface_form	the
+31579_4	part_of_entity	Forest Ridge School of the Sacred Heart
+31579_6	is_in_sentence	sentence_31579
+31579_6	pobj	31579_3
+31579_6	has_surface_form	Heart
+31579_6	part_of_entity	Forest Ridge School of the Sacred Heart
+31579_5	is_in_sentence	sentence_31579
+31579_5	compound	31579_6
+31579_5	has_surface_form	Sacred
+31579_5	part_of_entity	Forest Ridge School of the Sacred Heart
+31579_8	is_in_sentence	sentence_31579
+31579_8	det	31579_12
+31579_8	has_surface_form	a
+31579_12	is_in_sentence	sentence_31579
+31579_12	attr	31579_7
+31579_12	has_surface_form	Catholic
+31579_9	is_in_sentence	sentence_31579
+31579_9	amod	31579_12
+31579_9	has_surface_form	private
+31579_10	is_in_sentence	sentence_31579
+31579_10	punct	31579_12
+31579_10	has_surface_form	,
+31579_11	is_in_sentence	sentence_31579
+31579_11	compound	31579_12
+31579_11	has_surface_form	Roman
+31579_13	is_in_sentence	sentence_31579
+31579_13	punct	31579_12
+31579_13	has_surface_form	,
+31579_14	is_in_sentence	sentence_31579
+31579_14	det	31579_16
+31579_14	has_surface_form	all
+31579_16	is_in_sentence	sentence_31579
+31579_16	nmod	31579_18
+31579_16	has_surface_form	girls
+31579_15	is_in_sentence	sentence_31579
+31579_15	punct	31579_16
+31579_15	has_surface_form	-
+31579_18	is_in_sentence	sentence_31579
+31579_18	appos	31579_12
+31579_18	has_surface_form	school
+31579_17	is_in_sentence	sentence_31579
+31579_17	compound	31579_18
+31579_17	has_surface_form	middle
+31579_19	is_in_sentence	sentence_31579
+31579_19	cc	31579_18
+31579_19	has_surface_form	and
+31579_20	is_in_sentence	sentence_31579
+31579_20	amod	31579_21
+31579_20	has_surface_form	high
+31579_21	is_in_sentence	sentence_31579
+31579_21	conj	31579_18
+31579_21	has_surface_form	school
+31579_22	is_in_sentence	sentence_31579
+31579_22	prep	31579_21
+31579_22	has_surface_form	in
+31579_23	is_in_sentence	sentence_31579
+31579_23	pobj	31579_22
+31579_23	has_surface_form	Bellevue
+31579_24	is_in_sentence	sentence_31579
+31579_24	punct	31579_23
+31579_24	has_surface_form	,
+31579_25	is_in_sentence	sentence_31579
+31579_25	conj	31579_23
+31579_25	has_surface_form	Washington
+31579_26	is_in_sentence	sentence_31579
+31579_26	punct	31579_25
+31579_26	has_surface_form	,
+31579_27	is_in_sentence	sentence_31579
+31579_27	appos	31579_25
+31579_27	has_surface_form	USA
+31579_28	is_in_sentence	sentence_31579
+31579_28	punct	31579_7
+31579_28	has_surface_form	.
+31579_29	is_in_sentence	sentence_31579
+31579_29	dep	31579_7
+31579_29	has_surface_form	
+Forest Ridge School of the Sacred Heart	surface_form	Forest Ridge School of the Sacred Heart
+Forest Ridge School of the Sacred Heart	is-where	Bellevue, Washington
+Bellevue, Washington	surface_form	Bellevue, Washington

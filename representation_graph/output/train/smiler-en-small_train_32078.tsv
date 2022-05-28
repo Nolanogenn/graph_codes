@@ -1,0 +1,76 @@
+32077_0	is_in_sentence	sentence_32077
+32077_0	compound	32077_1
+32077_0	has_surface_form	Dangerous
+32077_0	part_of_entity	Dangerous Medicine
+32077_1	is_in_sentence	sentence_32077
+32077_1	nsubj	32077_2
+32077_1	has_surface_form	Medicine
+32077_1	part_of_entity	Dangerous Medicine
+32077_2	is_in_sentence	sentence_32077
+32077_2	ROOT	32077_2
+32077_2	has_surface_form	is
+32077_3	is_in_sentence	sentence_32077
+32077_3	det	32077_7
+32077_3	has_surface_form	a
+32077_7	is_in_sentence	sentence_32077
+32077_7	attr	32077_2
+32077_7	has_surface_form	film
+32077_4	is_in_sentence	sentence_32077
+32077_4	nummod	32077_7
+32077_4	has_surface_form	1938
+32077_5	is_in_sentence	sentence_32077
+32077_5	amod	32077_7
+32077_5	has_surface_form	British
+32077_6	is_in_sentence	sentence_32077
+32077_6	compound	32077_7
+32077_6	has_surface_form	crime
+32077_8	is_in_sentence	sentence_32077
+32077_8	punct	32077_7
+32077_8	has_surface_form	,
+32077_9	is_in_sentence	sentence_32077
+32077_9	acl	32077_7
+32077_9	has_surface_form	directed
+32077_10	is_in_sentence	sentence_32077
+32077_10	agent	32077_9
+32077_10	has_surface_form	by
+32077_11	is_in_sentence	sentence_32077
+32077_11	compound	32077_13
+32077_11	has_surface_form	Arthur
+32077_13	is_in_sentence	sentence_32077
+32077_13	pobj	32077_10
+32077_13	has_surface_form	Woods
+32077_12	is_in_sentence	sentence_32077
+32077_12	compound	32077_13
+32077_12	has_surface_form	B.
+32077_14	is_in_sentence	sentence_32077
+32077_14	cc	32077_9
+32077_14	has_surface_form	and
+32077_15	is_in_sentence	sentence_32077
+32077_15	conj	32077_9
+32077_15	has_surface_form	starring
+32077_16	is_in_sentence	sentence_32077
+32077_16	compound	32077_17
+32077_16	has_surface_form	Elizabeth
+32077_17	is_in_sentence	sentence_32077
+32077_17	dobj	32077_15
+32077_17	has_surface_form	Allan
+32077_18	is_in_sentence	sentence_32077
+32077_18	cc	32077_17
+32077_18	has_surface_form	and
+32077_19	is_in_sentence	sentence_32077
+32077_19	compound	32077_20
+32077_19	has_surface_form	Cyril
+32077_19	part_of_entity	Cyril Ritchard
+32077_20	is_in_sentence	sentence_32077
+32077_20	conj	32077_17
+32077_20	has_surface_form	Ritchard
+32077_20	part_of_entity	Cyril Ritchard
+32077_21	is_in_sentence	sentence_32077
+32077_21	punct	32077_2
+32077_21	has_surface_form	.
+32077_22	is_in_sentence	sentence_32077
+32077_22	dep	32077_2
+32077_22	has_surface_form	
+Dangerous Medicine	surface_form	Dangerous Medicine
+Dangerous Medicine	starring	Cyril Ritchard
+Cyril Ritchard	surface_form	Cyril Ritchard

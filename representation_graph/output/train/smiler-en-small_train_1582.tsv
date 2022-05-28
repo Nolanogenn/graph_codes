@@ -1,0 +1,76 @@
+1581_0	is_in_sentence	sentence_1581
+1581_0	compound	1581_1
+1581_0	has_surface_form	Chodang
+1581_0	part_of_entity	Chodang University
+1581_1	is_in_sentence	sentence_1581
+1581_1	nsubj	1581_2
+1581_1	has_surface_form	University
+1581_1	part_of_entity	Chodang University
+1581_2	is_in_sentence	sentence_1581
+1581_2	ROOT	1581_2
+1581_2	has_surface_form	is
+1581_3	is_in_sentence	sentence_1581
+1581_3	det	1581_5
+1581_3	has_surface_form	the
+1581_5	is_in_sentence	sentence_1581
+1581_5	attr	1581_2
+1581_5	has_surface_form	university
+1581_4	is_in_sentence	sentence_1581
+1581_4	amod	1581_5
+1581_4	has_surface_form	only
+1581_6	is_in_sentence	sentence_1581
+1581_6	prep	1581_5
+1581_6	has_surface_form	in
+1581_7	is_in_sentence	sentence_1581
+1581_7	compound	1581_8
+1581_7	has_surface_form	Muan
+1581_7	part_of_entity	Muan County
+1581_8	is_in_sentence	sentence_1581
+1581_8	pobj	1581_6
+1581_8	has_surface_form	County
+1581_8	part_of_entity	Muan County
+1581_9	is_in_sentence	sentence_1581
+1581_9	punct	1581_5
+1581_9	has_surface_form	,
+1581_10	is_in_sentence	sentence_1581
+1581_10	det	1581_13
+1581_10	has_surface_form	a
+1581_13	is_in_sentence	sentence_1581
+1581_13	appos	1581_5
+1581_13	has_surface_form	district
+1581_11	is_in_sentence	sentence_1581
+1581_11	advmod	1581_12
+1581_11	has_surface_form	largely
+1581_12	is_in_sentence	sentence_1581
+1581_12	amod	1581_13
+1581_12	has_surface_form	rural
+1581_14	is_in_sentence	sentence_1581
+1581_14	prep	1581_13
+1581_14	has_surface_form	of
+1581_15	is_in_sentence	sentence_1581
+1581_15	compound	1581_16
+1581_15	has_surface_form	South
+1581_16	is_in_sentence	sentence_1581
+1581_16	poss	1581_20
+1581_16	has_surface_form	Korea
+1581_20	is_in_sentence	sentence_1581
+1581_20	pobj	1581_14
+1581_20	has_surface_form	province
+1581_17	is_in_sentence	sentence_1581
+1581_17	case	1581_16
+1581_17	has_surface_form	's
+1581_18	is_in_sentence	sentence_1581
+1581_18	compound	1581_19
+1581_18	has_surface_form	South
+1581_19	is_in_sentence	sentence_1581
+1581_19	compound	1581_20
+1581_19	has_surface_form	Jeolla
+1581_21	is_in_sentence	sentence_1581
+1581_21	punct	1581_2
+1581_21	has_surface_form	.
+1581_22	is_in_sentence	sentence_1581
+1581_22	dep	1581_22
+1581_22	has_surface_form	
+Chodang University	surface_form	Chodang University
+Chodang University	is-where	Muan County
+Muan County	surface_form	Muan County

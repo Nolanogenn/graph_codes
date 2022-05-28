@@ -1,0 +1,85 @@
+19090_0	is_in_sentence	sentence_19090
+19090_0	det	19090_2
+19090_0	has_surface_form	The
+19090_2	is_in_sentence	sentence_19090
+19090_2	nsubj	19090_3
+19090_2	has_surface_form	Network
+19090_2	part_of_entity	Nintendo Network
+19090_1	is_in_sentence	sentence_19090
+19090_1	compound	19090_2
+19090_1	has_surface_form	Nintendo
+19090_1	part_of_entity	Nintendo Network
+19090_3	is_in_sentence	sentence_19090
+19090_3	ROOT	19090_3
+19090_3	has_surface_form	is
+19090_4	is_in_sentence	sentence_19090
+19090_4	poss	19090_7
+19090_4	has_surface_form	Nintendo
+19090_7	is_in_sentence	sentence_19090
+19090_7	attr	19090_3
+19090_7	has_surface_form	service
+19090_7	part_of_entity	online service
+19090_5	is_in_sentence	sentence_19090
+19090_5	case	19090_4
+19090_5	has_surface_form	's
+19090_6	is_in_sentence	sentence_19090
+19090_6	amod	19090_7
+19090_6	has_surface_form	online
+19090_6	part_of_entity	online service
+19090_8	is_in_sentence	sentence_19090
+19090_8	nsubj	19090_9
+19090_8	has_surface_form	which
+19090_9	is_in_sentence	sentence_19090
+19090_9	relcl	19090_7
+19090_9	has_surface_form	provides
+19090_10	is_in_sentence	sentence_19090
+19090_10	amod	19090_11
+19090_10	has_surface_form	online
+19090_11	is_in_sentence	sentence_19090
+19090_11	dobj	19090_9
+19090_11	has_surface_form	functionality
+19090_12	is_in_sentence	sentence_19090
+19090_12	prep	19090_11
+19090_12	has_surface_form	for
+19090_13	is_in_sentence	sentence_19090
+19090_13	det	19090_15
+19090_13	has_surface_form	the
+19090_15	is_in_sentence	sentence_19090
+19090_15	pobj	19090_12
+19090_15	has_surface_form	3DS
+19090_14	is_in_sentence	sentence_19090
+19090_14	compound	19090_15
+19090_14	has_surface_form	Nintendo
+19090_16	is_in_sentence	sentence_19090
+19090_16	cc	19090_15
+19090_16	has_surface_form	and
+19090_17	is_in_sentence	sentence_19090
+19090_17	compound	19090_18
+19090_17	has_surface_form	Wii
+19090_18	is_in_sentence	sentence_19090
+19090_18	compound	19090_19
+19090_18	has_surface_form	U
+19090_19	is_in_sentence	sentence_19090
+19090_19	conj	19090_15
+19090_19	has_surface_form	systems
+19090_20	is_in_sentence	sentence_19090
+19090_20	cc	19090_19
+19090_20	has_surface_form	and
+19090_21	is_in_sentence	sentence_19090
+19090_21	poss	19090_23
+19090_21	has_surface_form	their
+19090_23	is_in_sentence	sentence_19090
+19090_23	conj	19090_19
+19090_23	has_surface_form	games
+19090_22	is_in_sentence	sentence_19090
+19090_22	amod	19090_23
+19090_22	has_surface_form	compatible
+19090_24	is_in_sentence	sentence_19090
+19090_24	punct	19090_3
+19090_24	has_surface_form	.
+19090_25	is_in_sentence	sentence_19090
+19090_25	dep	19090_3
+19090_25	has_surface_form	
+Nintendo Network	surface_form	Nintendo Network
+Nintendo Network	has-type	online service
+online service	surface_form	online service

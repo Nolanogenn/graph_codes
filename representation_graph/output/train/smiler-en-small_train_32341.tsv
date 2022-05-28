@@ -1,0 +1,109 @@
+32340_0	is_in_sentence	sentence_32340
+32340_0	det	32340_2
+32340_0	has_surface_form	The
+32340_2	is_in_sentence	sentence_32340
+32340_2	nsubj	32340_3
+32340_2	has_surface_form	503
+32340_2	part_of_entity	Rotax 503
+32340_1	is_in_sentence	sentence_32340
+32340_1	compound	32340_2
+32340_1	has_surface_form	Rotax
+32340_1	part_of_entity	Rotax 503
+32340_3	is_in_sentence	sentence_32340
+32340_3	ROOT	32340_3
+32340_3	has_surface_form	is
+32340_4	is_in_sentence	sentence_32340
+32340_4	det	32340_6
+32340_4	has_surface_form	a
+32340_6	is_in_sentence	sentence_32340
+32340_6	dep	32340_3
+32340_6	has_surface_form	 
+32340_5	is_in_sentence	sentence_32340
+32340_5	nummod	32340_6
+32340_5	has_surface_form	37
+32340_7	is_in_sentence	sentence_32340
+32340_7	appos	32340_6
+32340_7	has_surface_form	kW
+32340_8	is_in_sentence	sentence_32340
+32340_8	punct	32340_6
+32340_8	has_surface_form	(
+32340_9	is_in_sentence	sentence_32340
+32340_9	appos	32340_6
+32340_9	has_surface_form	50
+32340_10	is_in_sentence	sentence_32340
+32340_10	dep	32340_9
+32340_10	has_surface_form	 
+32340_11	is_in_sentence	sentence_32340
+32340_11	appos	32340_9
+32340_11	has_surface_form	hp
+32340_12	is_in_sentence	sentence_32340
+32340_12	punct	32340_9
+32340_12	has_surface_form	)
+32340_13	is_in_sentence	sentence_32340
+32340_13	punct	32340_6
+32340_13	has_surface_form	,
+32340_14	is_in_sentence	sentence_32340
+32340_14	conj	32340_3
+32340_14	has_surface_form	inline
+32340_15	is_in_sentence	sentence_32340
+32340_15	nummod	32340_17
+32340_15	has_surface_form	2
+32340_17	is_in_sentence	sentence_32340
+32340_17	nmod	32340_23
+32340_17	has_surface_form	cylinder
+32340_16	is_in_sentence	sentence_32340
+32340_16	punct	32340_17
+32340_16	has_surface_form	-
+32340_23	is_in_sentence	sentence_32340
+32340_23	dobj	32340_14
+32340_23	has_surface_form	engine
+32340_23	part_of_entity	aircraft engine
+32340_18	is_in_sentence	sentence_32340
+32340_18	punct	32340_23
+32340_18	has_surface_form	,
+32340_19	is_in_sentence	sentence_32340
+32340_19	nummod	32340_21
+32340_19	has_surface_form	two
+32340_21	is_in_sentence	sentence_32340
+32340_21	compound	32340_23
+32340_21	has_surface_form	stroke
+32340_20	is_in_sentence	sentence_32340
+32340_20	punct	32340_21
+32340_20	has_surface_form	-
+32340_22	is_in_sentence	sentence_32340
+32340_22	compound	32340_23
+32340_22	has_surface_form	aircraft
+32340_22	part_of_entity	aircraft engine
+32340_24	is_in_sentence	sentence_32340
+32340_24	punct	32340_23
+32340_24	has_surface_form	,
+32340_25	is_in_sentence	sentence_32340
+32340_25	acl	32340_23
+32340_25	has_surface_form	built
+32340_26	is_in_sentence	sentence_32340
+32340_26	agent	32340_25
+32340_26	has_surface_form	by
+32340_27	is_in_sentence	sentence_32340
+32340_27	compound	32340_30
+32340_27	has_surface_form	BRP
+32340_30	is_in_sentence	sentence_32340
+32340_30	pobj	32340_26
+32340_30	has_surface_form	GmbH
+32340_28	is_in_sentence	sentence_32340
+32340_28	punct	32340_30
+32340_28	has_surface_form	-
+32340_29	is_in_sentence	sentence_32340
+32340_29	compound	32340_30
+32340_29	has_surface_form	Rotax
+32340_31	is_in_sentence	sentence_32340
+32340_31	cc	32340_30
+32340_31	has_surface_form	&
+32340_32	is_in_sentence	sentence_32340
+32340_32	conj	32340_30
+32340_32	has_surface_form	Co.
+32340_33	is_in_sentence	sentence_32340
+32340_33	dep	32340_3
+32340_33	has_surface_form	
+Rotax 503	surface_form	Rotax 503
+Rotax 503	has-type	aircraft engine
+aircraft engine	surface_form	aircraft engine

@@ -1,0 +1,87 @@
+8726_0	is_in_sentence	sentence_8726
+8726_0	det	8726_1
+8726_0	has_surface_form	The
+8726_1	is_in_sentence	sentence_8726
+8726_1	nsubj	8726_17
+8726_1	has_surface_form	University
+8726_1	part_of_entity	University of National and World Economy
+8726_17	is_in_sentence	sentence_8726
+8726_17	ROOT	8726_17
+8726_17	has_surface_form	is
+8726_2	is_in_sentence	sentence_8726
+8726_2	prep	8726_1
+8726_2	has_surface_form	of
+8726_2	part_of_entity	University of National and World Economy
+8726_3	is_in_sentence	sentence_8726
+8726_3	pobj	8726_2
+8726_3	has_surface_form	National
+8726_3	part_of_entity	University of National and World Economy
+8726_4	is_in_sentence	sentence_8726
+8726_4	cc	8726_3
+8726_4	has_surface_form	and
+8726_4	part_of_entity	University of National and World Economy
+8726_5	is_in_sentence	sentence_8726
+8726_5	conj	8726_3
+8726_5	has_surface_form	World
+8726_5	part_of_entity	University of National and World Economy
+8726_6	is_in_sentence	sentence_8726
+8726_6	appos	8726_1
+8726_6	has_surface_form	Economy
+8726_6	part_of_entity	University of National and World Economy
+8726_7	is_in_sentence	sentence_8726
+8726_7	punct	8726_8
+8726_7	has_surface_form	(
+8726_8	is_in_sentence	sentence_8726
+8726_8	appos	8726_1
+8726_8	has_surface_form	Bulgarian
+8726_9	is_in_sentence	sentence_8726
+8726_9	punct	8726_8
+8726_9	has_surface_form	:
+8726_10	is_in_sentence	sentence_8726
+8726_10	appos	8726_1
+8726_10	has_surface_form	Университет
+8726_11	is_in_sentence	sentence_8726
+8726_11	prep	8726_1
+8726_11	has_surface_form	за
+8726_12	is_in_sentence	sentence_8726
+8726_12	intj	8726_1
+8726_12	has_surface_form	национално
+8726_13	is_in_sentence	sentence_8726
+8726_13	det	8726_15
+8726_13	has_surface_form	и
+8726_15	is_in_sentence	sentence_8726
+8726_15	pobj	8726_12
+8726_15	has_surface_form	стопанство
+8726_14	is_in_sentence	sentence_8726
+8726_14	compound	8726_15
+8726_14	has_surface_form	световно
+8726_16	is_in_sentence	sentence_8726
+8726_16	punct	8726_1
+8726_16	has_surface_form	)
+8726_18	is_in_sentence	sentence_8726
+8726_18	det	8726_19
+8726_18	has_surface_form	a
+8726_19	is_in_sentence	sentence_8726
+8726_19	attr	8726_17
+8726_19	has_surface_form	university
+8726_20	is_in_sentence	sentence_8726
+8726_20	prep	8726_19
+8726_20	has_surface_form	in
+8726_21	is_in_sentence	sentence_8726
+8726_21	pobj	8726_20
+8726_21	is_entity	Sofia
+Sofia	surface_form	Sofia
+8726_22	is_in_sentence	sentence_8726
+8726_22	punct	8726_21
+8726_22	has_surface_form	,
+8726_23	is_in_sentence	sentence_8726
+8726_23	appos	8726_21
+8726_23	has_surface_form	Bulgaria
+8726_24	is_in_sentence	sentence_8726
+8726_24	punct	8726_17
+8726_24	has_surface_form	.
+8726_25	is_in_sentence	sentence_8726
+8726_25	dep	8726_17
+8726_25	has_surface_form	
+University of National and World Economy	surface_form	University of National and World Economy
+University of National and World Economy	is-where	Sofia

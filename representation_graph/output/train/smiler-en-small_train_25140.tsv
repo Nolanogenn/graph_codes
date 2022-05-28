@@ -1,0 +1,84 @@
+25139_0	is_in_sentence	sentence_25139
+25139_0	neg	25139_1
+25139_0	has_surface_form	Not
+25139_0	part_of_entity	Not Dead Yet
+25139_1	is_in_sentence	sentence_25139
+25139_1	nsubj	25139_6
+25139_1	has_surface_form	Dead
+25139_1	part_of_entity	Not Dead Yet
+25139_6	is_in_sentence	sentence_25139
+25139_6	ROOT	25139_6
+25139_6	has_surface_form	is
+25139_2	is_in_sentence	sentence_25139
+25139_2	nmod	25139_4
+25139_2	has_surface_form	Yet
+25139_2	part_of_entity	Not Dead Yet
+25139_4	is_in_sentence	sentence_25139
+25139_4	appos	25139_1
+25139_4	has_surface_form	NDY
+25139_3	is_in_sentence	sentence_25139
+25139_3	punct	25139_4
+25139_3	has_surface_form	(
+25139_5	is_in_sentence	sentence_25139
+25139_5	punct	25139_4
+25139_5	has_surface_form	)
+25139_7	is_in_sentence	sentence_25139
+25139_7	det	25139_12
+25139_7	has_surface_form	a
+25139_12	is_in_sentence	sentence_25139
+25139_12	attr	25139_6
+25139_12	has_surface_form	group
+25139_12	part_of_entity	disability rights group
+25139_8	is_in_sentence	sentence_25139
+25139_8	compound	25139_9
+25139_8	has_surface_form	United
+25139_9	is_in_sentence	sentence_25139
+25139_9	compound	25139_12
+25139_9	has_surface_form	States
+25139_10	is_in_sentence	sentence_25139
+25139_10	compound	25139_11
+25139_10	has_surface_form	disability
+25139_10	part_of_entity	disability rights group
+25139_11	is_in_sentence	sentence_25139
+25139_11	compound	25139_12
+25139_11	has_surface_form	rights
+25139_11	part_of_entity	disability rights group
+25139_13	is_in_sentence	sentence_25139
+25139_13	nsubj	25139_14
+25139_13	has_surface_form	that
+25139_14	is_in_sentence	sentence_25139
+25139_14	relcl	25139_12
+25139_14	has_surface_form	opposes
+25139_15	is_in_sentence	sentence_25139
+25139_15	amod	25139_16
+25139_15	has_surface_form	assisted
+25139_16	is_in_sentence	sentence_25139
+25139_16	dobj	25139_14
+25139_16	has_surface_form	suicide
+25139_17	is_in_sentence	sentence_25139
+25139_17	cc	25139_16
+25139_17	has_surface_form	and
+25139_18	is_in_sentence	sentence_25139
+25139_18	conj	25139_16
+25139_18	has_surface_form	euthanasia
+25139_19	is_in_sentence	sentence_25139
+25139_19	prep	25139_14
+25139_19	has_surface_form	for
+25139_20	is_in_sentence	sentence_25139
+25139_20	pobj	25139_19
+25139_20	has_surface_form	people
+25139_21	is_in_sentence	sentence_25139
+25139_21	prep	25139_20
+25139_21	has_surface_form	with
+25139_22	is_in_sentence	sentence_25139
+25139_22	pobj	25139_21
+25139_22	has_surface_form	disabilities
+25139_23	is_in_sentence	sentence_25139
+25139_23	punct	25139_6
+25139_23	has_surface_form	.
+25139_24	is_in_sentence	sentence_25139
+25139_24	dep	25139_24
+25139_24	has_surface_form	
+Not Dead Yet	surface_form	Not Dead Yet
+Not Dead Yet	has-type	disability rights group
+disability rights group	surface_form	disability rights group

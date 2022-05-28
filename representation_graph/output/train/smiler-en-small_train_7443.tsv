@@ -1,0 +1,71 @@
+7442_0	is_in_sentence	sentence_7442
+7442_0	compound	7442_1
+7442_0	has_surface_form	California
+7442_0	part_of_entity	California School of Podiatric Medicine
+7442_1	is_in_sentence	sentence_7442
+7442_1	nsubj	7442_9
+7442_1	has_surface_form	School
+7442_1	part_of_entity	California School of Podiatric Medicine
+7442_9	is_in_sentence	sentence_7442
+7442_9	ROOT	7442_9
+7442_9	has_surface_form	is
+7442_2	is_in_sentence	sentence_7442
+7442_2	prep	7442_1
+7442_2	has_surface_form	of
+7442_2	part_of_entity	California School of Podiatric Medicine
+7442_3	is_in_sentence	sentence_7442
+7442_3	compound	7442_4
+7442_3	has_surface_form	Podiatric
+7442_3	part_of_entity	California School of Podiatric Medicine
+7442_4	is_in_sentence	sentence_7442
+7442_4	pobj	7442_2
+7442_4	has_surface_form	Medicine
+7442_4	part_of_entity	California School of Podiatric Medicine
+7442_5	is_in_sentence	sentence_7442
+7442_5	prep	7442_1
+7442_5	has_surface_form	at
+7442_6	is_in_sentence	sentence_7442
+7442_6	compound	7442_8
+7442_6	has_surface_form	Samuel
+7442_8	is_in_sentence	sentence_7442
+7442_8	pobj	7442_5
+7442_8	has_surface_form	University
+7442_7	is_in_sentence	sentence_7442
+7442_7	compound	7442_8
+7442_7	has_surface_form	Merritt
+7442_10	is_in_sentence	sentence_7442
+7442_10	det	7442_13
+7442_10	has_surface_form	a
+7442_13	is_in_sentence	sentence_7442
+7442_13	attr	7442_9
+7442_13	has_surface_form	school
+7442_11	is_in_sentence	sentence_7442
+7442_11	amod	7442_13
+7442_11	has_surface_form	podiatric
+7442_12	is_in_sentence	sentence_7442
+7442_12	amod	7442_13
+7442_12	has_surface_form	medical
+7442_14	is_in_sentence	sentence_7442
+7442_14	acl	7442_13
+7442_14	has_surface_form	based
+7442_15	is_in_sentence	sentence_7442
+7442_15	prep	7442_14
+7442_15	has_surface_form	in
+7442_16	is_in_sentence	sentence_7442
+7442_16	pobj	7442_15
+7442_16	has_surface_form	Oakland
+7442_17	is_in_sentence	sentence_7442
+7442_17	punct	7442_16
+7442_17	has_surface_form	,
+7442_18	is_in_sentence	sentence_7442
+7442_18	appos	7442_16
+7442_18	has_surface_form	California
+7442_19	is_in_sentence	sentence_7442
+7442_19	punct	7442_9
+7442_19	has_surface_form	.
+7442_20	is_in_sentence	sentence_7442
+7442_20	dep	7442_20
+7442_20	has_surface_form	
+California School of Podiatric Medicine	surface_form	California School of Podiatric Medicine
+California School of Podiatric Medicine	is-where	Oakland, California
+Oakland, California	surface_form	Oakland, California

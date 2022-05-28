@@ -1,0 +1,72 @@
+24981_0	is_in_sentence	sentence_24981
+24981_0	compound	24981_2
+24981_0	has_surface_form	Hadassah
+24981_0	part_of_entity	Hadassah Academic College
+24981_2	is_in_sentence	sentence_24981
+24981_2	nsubj	24981_11
+24981_2	has_surface_form	College
+24981_2	part_of_entity	Hadassah Academic College
+24981_1	is_in_sentence	sentence_24981
+24981_1	compound	24981_2
+24981_1	has_surface_form	Academic
+24981_1	part_of_entity	Hadassah Academic College
+24981_11	is_in_sentence	sentence_24981
+24981_11	ROOT	24981_11
+24981_11	has_surface_form	is
+24981_3	is_in_sentence	sentence_24981
+24981_3	punct	24981_4
+24981_3	has_surface_form	(
+24981_4	is_in_sentence	sentence_24981
+24981_4	appos	24981_2
+24981_4	has_surface_form	HAC
+24981_5	is_in_sentence	sentence_24981
+24981_5	punct	24981_4
+24981_5	has_surface_form	,
+24981_6	is_in_sentence	sentence_24981
+24981_6	advmod	24981_9
+24981_6	has_surface_form	formerly
+24981_9	is_in_sentence	sentence_24981
+24981_9	appos	24981_4
+24981_9	has_surface_form	College
+24981_7	is_in_sentence	sentence_24981
+24981_7	compound	24981_9
+24981_7	has_surface_form	Hadassah
+24981_8	is_in_sentence	sentence_24981
+24981_8	compound	24981_9
+24981_8	has_surface_form	Community
+24981_10	is_in_sentence	sentence_24981
+24981_10	punct	24981_4
+24981_10	has_surface_form	)
+24981_12	is_in_sentence	sentence_24981
+24981_12	det	24981_15
+24981_12	has_surface_form	a
+24981_15	is_in_sentence	sentence_24981
+24981_15	attr	24981_11
+24981_15	is_entity	college
+24981_13	is_in_sentence	sentence_24981
+24981_13	advmod	24981_14
+24981_13	has_surface_form	publicly
+24981_14	is_in_sentence	sentence_24981
+24981_14	amod	24981_15
+24981_14	has_surface_form	funded
+college	surface_form	college
+24981_16	is_in_sentence	sentence_24981
+24981_16	prep	24981_15
+24981_16	has_surface_form	in
+24981_17	is_in_sentence	sentence_24981
+24981_17	pobj	24981_16
+24981_17	has_surface_form	Jerusalem
+24981_18	is_in_sentence	sentence_24981
+24981_18	punct	24981_17
+24981_18	has_surface_form	,
+24981_19	is_in_sentence	sentence_24981
+24981_19	appos	24981_17
+24981_19	has_surface_form	Israel
+24981_20	is_in_sentence	sentence_24981
+24981_20	punct	24981_11
+24981_20	has_surface_form	.
+24981_21	is_in_sentence	sentence_24981
+24981_21	dep	24981_21
+24981_21	has_surface_form	
+Hadassah Academic College	surface_form	Hadassah Academic College
+Hadassah Academic College	has-type	college

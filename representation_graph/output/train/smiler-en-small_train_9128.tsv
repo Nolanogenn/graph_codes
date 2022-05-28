@@ -1,0 +1,40 @@
+9127_0	is_in_sentence	sentence_9127
+9127_0	compound	9127_1
+9127_0	has_surface_form	Bonnie
+9127_0	part_of_entity	Bonnie Davis
+9127_1	is_in_sentence	sentence_9127
+9127_1	nsubj	9127_2
+9127_1	has_surface_form	Davis
+9127_1	part_of_entity	Bonnie Davis
+9127_2	is_in_sentence	sentence_9127
+9127_2	ROOT	9127_2
+9127_2	has_surface_form	was
+9127_3	is_in_sentence	sentence_9127
+9127_3	det	9127_4
+9127_3	has_surface_form	the
+9127_4	is_in_sentence	sentence_9127
+9127_4	attr	9127_2
+9127_4	has_surface_form	mother
+9127_5	is_in_sentence	sentence_9127
+9127_5	prep	9127_4
+9127_5	has_surface_form	of
+9127_6	is_in_sentence	sentence_9127
+9127_6	compound	9127_8
+9127_6	has_surface_form	singer
+9127_8	is_in_sentence	sentence_9127
+9127_8	pobj	9127_5
+9127_8	has_surface_form	Moore
+9127_8	part_of_entity	Melba Moore
+9127_7	is_in_sentence	sentence_9127
+9127_7	compound	9127_8
+9127_7	has_surface_form	Melba
+9127_7	part_of_entity	Melba Moore
+9127_9	is_in_sentence	sentence_9127
+9127_9	punct	9127_2
+9127_9	has_surface_form	.
+9127_10	is_in_sentence	sentence_9127
+9127_10	dep	9127_2
+9127_10	has_surface_form	
+Bonnie Davis	surface_form	Bonnie Davis
+Bonnie Davis	has-child	Melba Moore
+Melba Moore	surface_form	Melba Moore

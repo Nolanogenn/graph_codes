@@ -1,0 +1,89 @@
+8251_0	is_in_sentence	sentence_8251
+8251_0	det	8251_2
+8251_0	has_surface_form	The
+8251_2	is_in_sentence	sentence_8251
+8251_2	nsubj	8251_9
+8251_2	has_surface_form	Department
+8251_2	part_of_entity	Colorado Department of Human Services
+8251_1	is_in_sentence	sentence_8251
+8251_1	compound	8251_2
+8251_1	has_surface_form	Colorado
+8251_1	part_of_entity	Colorado Department of Human Services
+8251_9	is_in_sentence	sentence_8251
+8251_9	ROOT	8251_9
+8251_9	has_surface_form	is
+8251_3	is_in_sentence	sentence_8251
+8251_3	prep	8251_2
+8251_3	has_surface_form	of
+8251_3	part_of_entity	Colorado Department of Human Services
+8251_4	is_in_sentence	sentence_8251
+8251_4	compound	8251_5
+8251_4	has_surface_form	Human
+8251_4	part_of_entity	Colorado Department of Human Services
+8251_5	is_in_sentence	sentence_8251
+8251_5	pobj	8251_3
+8251_5	has_surface_form	Services
+8251_5	part_of_entity	Colorado Department of Human Services
+8251_6	is_in_sentence	sentence_8251
+8251_6	punct	8251_2
+8251_6	has_surface_form	(
+8251_7	is_in_sentence	sentence_8251
+8251_7	appos	8251_2
+8251_7	has_surface_form	CDHS
+8251_8	is_in_sentence	sentence_8251
+8251_8	punct	8251_2
+8251_8	has_surface_form	)
+8251_10	is_in_sentence	sentence_8251
+8251_10	det	8251_12
+8251_10	has_surface_form	the
+8251_12	is_in_sentence	sentence_8251
+8251_12	attr	8251_9
+8251_12	is_entity	department
+8251_11	is_in_sentence	sentence_8251
+8251_11	amod	8251_12
+8251_11	has_surface_form	principal
+department	surface_form	department
+8251_13	is_in_sentence	sentence_8251
+8251_13	prep	8251_12
+8251_13	has_surface_form	of
+8251_14	is_in_sentence	sentence_8251
+8251_14	det	8251_17
+8251_14	has_surface_form	the
+8251_17	is_in_sentence	sentence_8251
+8251_17	pobj	8251_13
+8251_17	has_surface_form	government
+8251_15	is_in_sentence	sentence_8251
+8251_15	compound	8251_17
+8251_15	has_surface_form	Colorado
+8251_16	is_in_sentence	sentence_8251
+8251_16	compound	8251_17
+8251_16	has_surface_form	state
+8251_18	is_in_sentence	sentence_8251
+8251_18	nsubj	8251_19
+8251_18	has_surface_form	that
+8251_19	is_in_sentence	sentence_8251
+8251_19	relcl	8251_12
+8251_19	has_surface_form	operates
+8251_20	is_in_sentence	sentence_8251
+8251_20	det	8251_21
+8251_20	has_surface_form	the
+8251_21	is_in_sentence	sentence_8251
+8251_21	poss	8251_24
+8251_21	has_surface_form	state
+8251_24	is_in_sentence	sentence_8251
+8251_24	dobj	8251_19
+8251_24	has_surface_form	services
+8251_22	is_in_sentence	sentence_8251
+8251_22	case	8251_21
+8251_22	has_surface_form	's
+8251_23	is_in_sentence	sentence_8251
+8251_23	amod	8251_24
+8251_23	has_surface_form	social
+8251_25	is_in_sentence	sentence_8251
+8251_25	punct	8251_9
+8251_25	has_surface_form	.
+8251_26	is_in_sentence	sentence_8251
+8251_26	dep	8251_26
+8251_26	has_surface_form	
+Colorado Department of Human Services	surface_form	Colorado Department of Human Services
+Colorado Department of Human Services	has-type	department

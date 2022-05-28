@@ -1,0 +1,74 @@
+2052_0	is_in_sentence	sentence_2052
+2052_0	det	2052_2
+2052_0	has_surface_form	The
+2052_0	part_of_entity	The Wild Country
+2052_2	is_in_sentence	sentence_2052
+2052_2	nsubj	2052_3
+2052_2	has_surface_form	Country
+2052_2	part_of_entity	The Wild Country
+2052_1	is_in_sentence	sentence_2052
+2052_1	compound	2052_2
+2052_1	has_surface_form	Wild
+2052_1	part_of_entity	The Wild Country
+2052_3	is_in_sentence	sentence_2052
+2052_3	ROOT	2052_3
+2052_3	has_surface_form	is
+2052_4	is_in_sentence	sentence_2052
+2052_4	det	2052_8
+2052_4	has_surface_form	a
+2052_8	is_in_sentence	sentence_2052
+2052_8	attr	2052_3
+2052_8	has_surface_form	film
+2052_5	is_in_sentence	sentence_2052
+2052_5	nummod	2052_8
+2052_5	has_surface_form	1970
+2052_6	is_in_sentence	sentence_2052
+2052_6	amod	2052_8
+2052_6	has_surface_form	American
+2052_7	is_in_sentence	sentence_2052
+2052_7	compound	2052_8
+2052_7	has_surface_form	adventure
+2052_9	is_in_sentence	sentence_2052
+2052_9	acl	2052_8
+2052_9	has_surface_form	directed
+2052_10	is_in_sentence	sentence_2052
+2052_10	agent	2052_9
+2052_10	has_surface_form	by
+2052_11	is_in_sentence	sentence_2052
+2052_11	compound	2052_12
+2052_11	has_surface_form	Robert
+2052_11	part_of_entity	Robert Totten
+2052_12	is_in_sentence	sentence_2052
+2052_12	pobj	2052_10
+2052_12	has_surface_form	Totten
+2052_12	part_of_entity	Robert Totten
+2052_13	is_in_sentence	sentence_2052
+2052_13	cc	2052_9
+2052_13	has_surface_form	and
+2052_14	is_in_sentence	sentence_2052
+2052_14	conj	2052_9
+2052_14	has_surface_form	starring
+2052_15	is_in_sentence	sentence_2052
+2052_15	compound	2052_16
+2052_15	has_surface_form	Steve
+2052_16	is_in_sentence	sentence_2052
+2052_16	dobj	2052_14
+2052_16	has_surface_form	Forrest
+2052_17	is_in_sentence	sentence_2052
+2052_17	cc	2052_16
+2052_17	has_surface_form	and
+2052_18	is_in_sentence	sentence_2052
+2052_18	compound	2052_19
+2052_18	has_surface_form	Vera
+2052_19	is_in_sentence	sentence_2052
+2052_19	conj	2052_16
+2052_19	has_surface_form	Miles
+2052_20	is_in_sentence	sentence_2052
+2052_20	punct	2052_3
+2052_20	has_surface_form	.
+2052_21	is_in_sentence	sentence_2052
+2052_21	dep	2052_3
+2052_21	has_surface_form	
+The Wild Country	surface_form	The Wild Country
+The Wild Country	movie-has-director	Robert Totten
+Robert Totten	surface_form	Robert Totten

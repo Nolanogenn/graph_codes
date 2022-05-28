@@ -1,0 +1,76 @@
+9883_0	is_in_sentence	sentence_9883
+9883_0	compound	9883_1
+9883_0	has_surface_form	Walter
+9883_0	part_of_entity	Walter Library
+9883_1	is_in_sentence	sentence_9883
+9883_1	nsubj	9883_2
+9883_1	has_surface_form	Library
+9883_1	part_of_entity	Walter Library
+9883_2	is_in_sentence	sentence_9883
+9883_2	ROOT	9883_2
+9883_2	has_surface_form	is
+9883_3	is_in_sentence	sentence_9883
+9883_3	det	9883_5
+9883_3	has_surface_form	an
+9883_5	is_in_sentence	sentence_9883
+9883_5	attr	9883_2
+9883_5	has_surface_form	library
+9883_5	part_of_entity	academic library
+9883_4	is_in_sentence	sentence_9883
+9883_4	amod	9883_5
+9883_4	has_surface_form	academic
+9883_4	part_of_entity	academic library
+9883_6	is_in_sentence	sentence_9883
+9883_6	acl	9883_5
+9883_6	has_surface_form	located
+9883_7	is_in_sentence	sentence_9883
+9883_7	prep	9883_6
+9883_7	has_surface_form	on
+9883_8	is_in_sentence	sentence_9883
+9883_8	det	9883_11
+9883_8	has_surface_form	the
+9883_11	is_in_sentence	sentence_9883
+9883_11	pobj	9883_7
+9883_11	has_surface_form	campus
+9883_9	is_in_sentence	sentence_9883
+9883_9	compound	9883_10
+9883_9	has_surface_form	East
+9883_10	is_in_sentence	sentence_9883
+9883_10	compound	9883_11
+9883_10	has_surface_form	Bank
+9883_12	is_in_sentence	sentence_9883
+9883_12	prep	9883_11
+9883_12	has_surface_form	of
+9883_13	is_in_sentence	sentence_9883
+9883_13	det	9883_14
+9883_13	has_surface_form	the
+9883_14	is_in_sentence	sentence_9883
+9883_14	pobj	9883_12
+9883_14	has_surface_form	University
+9883_15	is_in_sentence	sentence_9883
+9883_15	prep	9883_14
+9883_15	has_surface_form	of
+9883_16	is_in_sentence	sentence_9883
+9883_16	pobj	9883_15
+9883_16	has_surface_form	Minnesota
+9883_17	is_in_sentence	sentence_9883
+9883_17	prep	9883_14
+9883_17	has_surface_form	in
+9883_18	is_in_sentence	sentence_9883
+9883_18	pobj	9883_17
+9883_18	has_surface_form	Minneapolis
+9883_19	is_in_sentence	sentence_9883
+9883_19	punct	9883_18
+9883_19	has_surface_form	,
+9883_20	is_in_sentence	sentence_9883
+9883_20	appos	9883_18
+9883_20	has_surface_form	Minnesota
+9883_21	is_in_sentence	sentence_9883
+9883_21	punct	9883_2
+9883_21	has_surface_form	.
+9883_22	is_in_sentence	sentence_9883
+9883_22	dep	9883_2
+9883_22	has_surface_form	
+Walter Library	surface_form	Walter Library
+Walter Library	has-type	academic library
+academic library	surface_form	academic library

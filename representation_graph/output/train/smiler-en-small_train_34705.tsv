@@ -1,0 +1,74 @@
+34704_0	is_in_sentence	sentence_34704
+34704_0	compound	34704_1
+34704_0	has_surface_form	Sone
+34704_0	part_of_entity	Sone Yay
+34704_1	is_in_sentence	sentence_34704
+34704_1	nmod	34704_3
+34704_1	has_surface_form	Yay
+34704_1	part_of_entity	Sone Yay
+34704_3	is_in_sentence	sentence_34704
+34704_3	nsubj	34704_9
+34704_3	has_surface_form	Burmese
+34704_2	is_in_sentence	sentence_34704
+34704_2	punct	34704_3
+34704_2	has_surface_form	(
+34704_9	is_in_sentence	sentence_34704
+34704_9	ROOT	34704_9
+34704_9	has_surface_form	is
+34704_4	is_in_sentence	sentence_34704
+34704_4	punct	34704_3
+34704_4	has_surface_form	:
+34704_5	is_in_sentence	sentence_34704
+34704_5	appos	34704_3
+34704_5	has_surface_form	စုန်ရေ
+34704_6	is_in_sentence	sentence_34704
+34704_6	punct	34704_5
+34704_6	has_surface_form	;
+34704_7	is_in_sentence	sentence_34704
+34704_7	appos	34704_5
+34704_7	has_surface_form	Downstream
+34704_8	is_in_sentence	sentence_34704
+34704_8	punct	34704_5
+34704_8	has_surface_form	)
+34704_10	is_in_sentence	sentence_34704
+34704_10	det	34704_14
+34704_10	has_surface_form	a
+34704_14	is_in_sentence	sentence_34704
+34704_14	attr	34704_9
+34704_14	has_surface_form	film
+34704_11	is_in_sentence	sentence_34704
+34704_11	nummod	34704_14
+34704_11	has_surface_form	1990
+34704_12	is_in_sentence	sentence_34704
+34704_12	amod	34704_14
+34704_12	has_surface_form	Burmese
+34704_13	is_in_sentence	sentence_34704
+34704_13	compound	34704_14
+34704_13	has_surface_form	drama
+34704_15	is_in_sentence	sentence_34704
+34704_15	acl	34704_14
+34704_15	has_surface_form	directed
+34704_16	is_in_sentence	sentence_34704
+34704_16	agent	34704_15
+34704_16	has_surface_form	by
+34704_17	is_in_sentence	sentence_34704
+34704_17	compound	34704_19
+34704_17	has_surface_form	Kyi
+34704_17	part_of_entity	Kyi Soe Tun
+34704_19	is_in_sentence	sentence_34704
+34704_19	pobj	34704_16
+34704_19	has_surface_form	Tun
+34704_19	part_of_entity	Kyi Soe Tun
+34704_18	is_in_sentence	sentence_34704
+34704_18	compound	34704_19
+34704_18	has_surface_form	Soe
+34704_18	part_of_entity	Kyi Soe Tun
+34704_20	is_in_sentence	sentence_34704
+34704_20	punct	34704_9
+34704_20	has_surface_form	.
+34704_21	is_in_sentence	sentence_34704
+34704_21	dep	34704_9
+34704_21	has_surface_form	
+Sone Yay	surface_form	Sone Yay
+Sone Yay	movie-has-director	Kyi Soe Tun
+Kyi Soe Tun	surface_form	Kyi Soe Tun

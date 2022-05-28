@@ -1,0 +1,62 @@
+15824_0	is_in_sentence	sentence_15824
+15824_0	compound	15824_1
+15824_0	has_surface_form	Yves
+15824_0	part_of_entity	Yves Angelo
+15824_1	is_in_sentence	sentence_15824
+15824_1	nsubj	15824_8
+15824_1	has_surface_form	Angelo
+15824_1	part_of_entity	Yves Angelo
+15824_8	is_in_sentence	sentence_15824
+15824_8	ROOT	15824_8
+15824_8	has_surface_form	is
+15824_2	is_in_sentence	sentence_15824
+15824_2	punct	15824_3
+15824_2	has_surface_form	(
+15824_3	is_in_sentence	sentence_15824
+15824_3	acl	15824_1
+15824_3	has_surface_form	born
+15824_4	is_in_sentence	sentence_15824
+15824_4	nummod	15824_5
+15824_4	has_surface_form	22
+15824_5	is_in_sentence	sentence_15824
+15824_5	npadvmod	15824_3
+15824_5	has_surface_form	January
+15824_6	is_in_sentence	sentence_15824
+15824_6	nummod	15824_5
+15824_6	has_surface_form	1956
+15824_7	is_in_sentence	sentence_15824
+15824_7	punct	15824_1
+15824_7	has_surface_form	)
+15824_9	is_in_sentence	sentence_15824
+15824_9	det	15824_11
+15824_9	has_surface_form	a
+15824_11	is_in_sentence	sentence_15824
+15824_11	attr	15824_8
+15824_11	has_surface_form	cinematographer
+15824_10	is_in_sentence	sentence_15824
+15824_10	amod	15824_11
+15824_10	has_surface_form	French
+15824_12	is_in_sentence	sentence_15824
+15824_12	punct	15824_11
+15824_12	has_surface_form	,
+15824_13	is_in_sentence	sentence_15824
+15824_13	compound	15824_14
+15824_13	has_surface_form	film
+15824_14	is_in_sentence	sentence_15824
+15824_14	appos	15824_11
+15824_14	has_surface_form	director
+15824_15	is_in_sentence	sentence_15824
+15824_15	cc	15824_14
+15824_15	has_surface_form	and
+15824_16	is_in_sentence	sentence_15824
+15824_16	conj	15824_14
+15824_16	is_entity	screenwriter
+screenwriter	surface_form	screenwriter
+15824_17	is_in_sentence	sentence_15824
+15824_17	punct	15824_8
+15824_17	has_surface_form	.
+15824_18	is_in_sentence	sentence_15824
+15824_18	dep	15824_18
+15824_18	has_surface_form	
+Yves Angelo	surface_form	Yves Angelo
+Yves Angelo	has-occupation	screenwriter

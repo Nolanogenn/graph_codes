@@ -1,0 +1,59 @@
+31824_0	is_in_sentence	sentence_31824
+31824_0	compound	31824_1
+31824_0	has_surface_form	Eric
+31824_0	part_of_entity	Eric Skrmetta
+31824_1	is_in_sentence	sentence_31824
+31824_1	nsubj	31824_12
+31824_1	has_surface_form	Skrmetta
+31824_1	part_of_entity	Eric Skrmetta
+31824_12	is_in_sentence	sentence_31824
+31824_12	ROOT	31824_12
+31824_12	has_surface_form	have
+31824_2	is_in_sentence	sentence_31824
+31824_2	cc	31824_1
+31824_2	has_surface_form	and
+31824_3	is_in_sentence	sentence_31824
+31824_3	poss	31824_4
+31824_3	has_surface_form	his
+31824_4	is_in_sentence	sentence_31824
+31824_4	conj	31824_1
+31824_4	has_surface_form	wife
+31824_5	is_in_sentence	sentence_31824
+31824_5	compound	31824_7
+31824_5	has_surface_form	Deborah
+31824_5	part_of_entity	Deborah Gibson Skrmetta
+31824_7	is_in_sentence	sentence_31824
+31824_7	appos	31824_4
+31824_7	has_surface_form	Skrmetta
+31824_7	part_of_entity	Deborah Gibson Skrmetta
+31824_6	is_in_sentence	sentence_31824
+31824_6	compound	31824_7
+31824_6	has_surface_form	Gibson
+31824_6	part_of_entity	Deborah Gibson Skrmetta
+31824_8	is_in_sentence	sentence_31824
+31824_8	punct	31824_7
+31824_8	has_surface_form	(
+31824_9	is_in_sentence	sentence_31824
+31824_9	amod	31824_1
+31824_9	has_surface_form	born
+31824_10	is_in_sentence	sentence_31824
+31824_10	npadvmod	31824_9
+31824_10	has_surface_form	1961
+31824_11	is_in_sentence	sentence_31824
+31824_11	punct	31824_1
+31824_11	has_surface_form	)
+31824_13	is_in_sentence	sentence_31824
+31824_13	nummod	31824_14
+31824_13	has_surface_form	two
+31824_14	is_in_sentence	sentence_31824
+31824_14	dobj	31824_12
+31824_14	has_surface_form	children
+31824_15	is_in_sentence	sentence_31824
+31824_15	punct	31824_12
+31824_15	has_surface_form	.
+31824_16	is_in_sentence	sentence_31824
+31824_16	dep	31824_16
+31824_16	has_surface_form	
+Eric Skrmetta	surface_form	Eric Skrmetta
+Eric Skrmetta	has-spouse	Deborah Gibson Skrmetta
+Deborah Gibson Skrmetta	surface_form	Deborah Gibson Skrmetta

@@ -1,0 +1,105 @@
+30134_0	is_in_sentence	sentence_30134
+30134_0	compound	30134_1
+30134_0	has_surface_form	John
+30134_0	part_of_entity	John Morris Russell
+30134_1	is_in_sentence	sentence_30134
+30134_1	compound	30134_2
+30134_1	has_surface_form	Morris
+30134_1	part_of_entity	John Morris Russell
+30134_2	is_in_sentence	sentence_30134
+30134_2	nsubj	30134_10
+30134_2	has_surface_form	Russell
+30134_2	part_of_entity	John Morris Russell
+30134_10	is_in_sentence	sentence_30134
+30134_10	ROOT	30134_10
+30134_10	has_surface_form	is
+30134_3	is_in_sentence	sentence_30134
+30134_3	punct	30134_2
+30134_3	has_surface_form	(
+30134_4	is_in_sentence	sentence_30134
+30134_4	acl	30134_2
+30134_4	has_surface_form	born
+30134_5	is_in_sentence	sentence_30134
+30134_5	npadvmod	30134_4
+30134_5	has_surface_form	June
+30134_6	is_in_sentence	sentence_30134
+30134_6	nummod	30134_5
+30134_6	has_surface_form	6
+30134_7	is_in_sentence	sentence_30134
+30134_7	punct	30134_5
+30134_7	has_surface_form	,
+30134_8	is_in_sentence	sentence_30134
+30134_8	nummod	30134_5
+30134_8	has_surface_form	1960
+30134_9	is_in_sentence	sentence_30134
+30134_9	punct	30134_2
+30134_9	has_surface_form	)
+30134_11	is_in_sentence	sentence_30134
+30134_11	det	30134_14
+30134_11	has_surface_form	an
+30134_14	is_in_sentence	sentence_30134
+30134_14	attr	30134_10
+30134_14	has_surface_form	conductor
+30134_12	is_in_sentence	sentence_30134
+30134_12	amod	30134_14
+30134_12	has_surface_form	American
+30134_13	is_in_sentence	sentence_30134
+30134_13	amod	30134_14
+30134_13	has_surface_form	orchestral
+30134_15	is_in_sentence	sentence_30134
+30134_15	advmod	30134_16
+30134_15	has_surface_form	best
+30134_16	is_in_sentence	sentence_30134
+30134_16	acl	30134_14
+30134_16	has_surface_form	known
+30134_17	is_in_sentence	sentence_30134
+30134_17	prep	30134_16
+30134_17	has_surface_form	for
+30134_18	is_in_sentence	sentence_30134
+30134_18	poss	30134_19
+30134_18	has_surface_form	his
+30134_19	is_in_sentence	sentence_30134
+30134_19	pobj	30134_17
+30134_19	has_surface_form	association
+30134_20	is_in_sentence	sentence_30134
+30134_20	prep	30134_19
+30134_20	has_surface_form	with
+30134_21	is_in_sentence	sentence_30134
+30134_21	det	30134_24
+30134_21	has_surface_form	the
+30134_24	is_in_sentence	sentence_30134
+30134_24	pobj	30134_20
+30134_24	has_surface_form	Orchestra
+30134_22	is_in_sentence	sentence_30134
+30134_22	compound	30134_24
+30134_22	has_surface_form	Cincinnati
+30134_23	is_in_sentence	sentence_30134
+30134_23	compound	30134_24
+30134_23	has_surface_form	Pops
+30134_25	is_in_sentence	sentence_30134
+30134_25	cc	30134_24
+30134_25	has_surface_form	and
+30134_26	is_in_sentence	sentence_30134
+30134_26	det	30134_29
+30134_26	has_surface_form	the
+30134_29	is_in_sentence	sentence_30134
+30134_29	conj	30134_24
+30134_29	has_surface_form	Orchestra
+30134_29	part_of_entity	Buffalo Philharmonic Orchestra
+30134_27	is_in_sentence	sentence_30134
+30134_27	compound	30134_29
+30134_27	has_surface_form	Buffalo
+30134_27	part_of_entity	Buffalo Philharmonic Orchestra
+30134_28	is_in_sentence	sentence_30134
+30134_28	compound	30134_29
+30134_28	has_surface_form	Philharmonic
+30134_28	part_of_entity	Buffalo Philharmonic Orchestra
+30134_30	is_in_sentence	sentence_30134
+30134_30	punct	30134_10
+30134_30	has_surface_form	.
+30134_31	is_in_sentence	sentence_30134
+30134_31	dep	30134_10
+30134_31	has_surface_form	
+John Morris Russell	surface_form	John Morris Russell
+John Morris Russell	is-member-of	Buffalo Philharmonic Orchestra
+Buffalo Philharmonic Orchestra	surface_form	Buffalo Philharmonic Orchestra

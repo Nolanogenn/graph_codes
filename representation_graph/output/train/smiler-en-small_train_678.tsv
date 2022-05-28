@@ -1,0 +1,61 @@
+677_0	is_in_sentence	sentence_677
+677_0	compound	677_1
+677_0	has_surface_form	Michael
+677_0	part_of_entity	Michael Castle
+677_1	is_in_sentence	sentence_677
+677_1	nsubj	677_5
+677_1	has_surface_form	Castle
+677_1	part_of_entity	Michael Castle
+677_5	is_in_sentence	sentence_677
+677_5	ccomp	677_13
+677_5	has_surface_form	married
+677_2	is_in_sentence	sentence_677
+677_2	cc	677_1
+677_2	has_surface_form	and
+677_3	is_in_sentence	sentence_677
+677_3	compound	677_4
+677_3	has_surface_form	Jane
+677_3	part_of_entity	Jane DiSabatino
+677_4	is_in_sentence	sentence_677
+677_4	conj	677_1
+677_4	has_surface_form	DiSabatino
+677_4	part_of_entity	Jane DiSabatino
+677_13	is_in_sentence	sentence_677
+677_13	ROOT	677_13
+677_13	has_surface_form	have
+677_6	is_in_sentence	sentence_677
+677_6	prep	677_5
+677_6	has_surface_form	on
+677_7	is_in_sentence	sentence_677
+677_7	pobj	677_6
+677_7	has_surface_form	May
+677_8	is_in_sentence	sentence_677
+677_8	nummod	677_7
+677_8	has_surface_form	23
+677_9	is_in_sentence	sentence_677
+677_9	punct	677_7
+677_9	has_surface_form	,
+677_10	is_in_sentence	sentence_677
+677_10	nummod	677_7
+677_10	has_surface_form	1992
+677_11	is_in_sentence	sentence_677
+677_11	punct	677_13
+677_11	has_surface_form	;
+677_12	is_in_sentence	sentence_677
+677_12	nsubj	677_13
+677_12	has_surface_form	they
+677_14	is_in_sentence	sentence_677
+677_14	det	677_15
+677_14	has_surface_form	no
+677_15	is_in_sentence	sentence_677
+677_15	dobj	677_13
+677_15	has_surface_form	children
+677_16	is_in_sentence	sentence_677
+677_16	punct	677_13
+677_16	has_surface_form	.
+677_17	is_in_sentence	sentence_677
+677_17	dep	677_17
+677_17	has_surface_form	
+Michael Castle	surface_form	Michael Castle
+Michael Castle	has-spouse	Jane DiSabatino
+Jane DiSabatino	surface_form	Jane DiSabatino

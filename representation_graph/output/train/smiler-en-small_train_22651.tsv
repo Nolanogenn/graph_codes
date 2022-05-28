@@ -1,0 +1,76 @@
+22650_0	is_in_sentence	sentence_22650
+22650_0	compound	22650_1
+22650_0	has_surface_form	John
+22650_0	part_of_entity	John Brannon
+22650_1	is_in_sentence	sentence_22650
+22650_1	nsubj	22650_9
+22650_1	has_surface_form	Brannon
+22650_1	part_of_entity	John Brannon
+22650_9	is_in_sentence	sentence_22650
+22650_9	ROOT	22650_9
+22650_9	has_surface_form	is
+22650_2	is_in_sentence	sentence_22650
+22650_2	punct	22650_1
+22650_2	has_surface_form	(
+22650_3	is_in_sentence	sentence_22650
+22650_3	acl	22650_1
+22650_3	has_surface_form	born
+22650_4	is_in_sentence	sentence_22650
+22650_4	npadvmod	22650_3
+22650_4	has_surface_form	August
+22650_5	is_in_sentence	sentence_22650
+22650_5	nummod	22650_4
+22650_5	has_surface_form	15
+22650_6	is_in_sentence	sentence_22650
+22650_6	punct	22650_4
+22650_6	has_surface_form	,
+22650_7	is_in_sentence	sentence_22650
+22650_7	nummod	22650_4
+22650_7	has_surface_form	1961
+22650_8	is_in_sentence	sentence_22650
+22650_8	punct	22650_1
+22650_8	has_surface_form	)
+22650_10	is_in_sentence	sentence_22650
+22650_10	det	22650_12
+22650_10	has_surface_form	the
+22650_12	is_in_sentence	sentence_22650
+22650_12	attr	22650_9
+22650_12	has_surface_form	vocalist
+22650_11	is_in_sentence	sentence_22650
+22650_11	amod	22650_12
+22650_11	has_surface_form	lead
+22650_13	is_in_sentence	sentence_22650
+22650_13	prep	22650_12
+22650_13	has_surface_form	for
+22650_14	is_in_sentence	sentence_22650
+22650_14	det	22650_20
+22650_14	has_surface_form	the
+22650_20	is_in_sentence	sentence_22650
+22650_20	pobj	22650_13
+22650_20	has_surface_form	Approach
+22650_20	part_of_entity	Negative Approach
+22650_15	is_in_sentence	sentence_22650
+22650_15	amod	22650_20
+22650_15	has_surface_form	American
+22650_16	is_in_sentence	sentence_22650
+22650_16	compound	22650_18
+22650_16	has_surface_form	hardcore
+22650_18	is_in_sentence	sentence_22650
+22650_18	compound	22650_20
+22650_18	has_surface_form	band
+22650_17	is_in_sentence	sentence_22650
+22650_17	compound	22650_18
+22650_17	has_surface_form	punk
+22650_19	is_in_sentence	sentence_22650
+22650_19	compound	22650_20
+22650_19	has_surface_form	Negative
+22650_19	part_of_entity	Negative Approach
+22650_21	is_in_sentence	sentence_22650
+22650_21	punct	22650_9
+22650_21	has_surface_form	.
+22650_22	is_in_sentence	sentence_22650
+22650_22	dep	22650_9
+22650_22	has_surface_form	
+John Brannon	surface_form	John Brannon
+John Brannon	is-member-of	Negative Approach
+Negative Approach	surface_form	Negative Approach

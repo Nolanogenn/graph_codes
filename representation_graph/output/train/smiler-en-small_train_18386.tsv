@@ -1,0 +1,116 @@
+18385_0	is_in_sentence	sentence_18385
+18385_0	det	18385_2
+18385_0	has_surface_form	The
+18385_0	part_of_entity	The Illinois Department of Public Health
+18385_2	is_in_sentence	sentence_18385
+18385_2	nsubj	18385_9
+18385_2	has_surface_form	Department
+18385_2	part_of_entity	The Illinois Department of Public Health
+18385_1	is_in_sentence	sentence_18385
+18385_1	compound	18385_2
+18385_1	has_surface_form	Illinois
+18385_1	part_of_entity	The Illinois Department of Public Health
+18385_9	is_in_sentence	sentence_18385
+18385_9	ROOT	18385_9
+18385_9	has_surface_form	is
+18385_3	is_in_sentence	sentence_18385
+18385_3	prep	18385_2
+18385_3	has_surface_form	of
+18385_3	part_of_entity	The Illinois Department of Public Health
+18385_4	is_in_sentence	sentence_18385
+18385_4	compound	18385_5
+18385_4	has_surface_form	Public
+18385_4	part_of_entity	The Illinois Department of Public Health
+18385_5	is_in_sentence	sentence_18385
+18385_5	pobj	18385_3
+18385_5	has_surface_form	Health
+18385_5	part_of_entity	The Illinois Department of Public Health
+18385_6	is_in_sentence	sentence_18385
+18385_6	punct	18385_7
+18385_6	has_surface_form	(
+18385_7	is_in_sentence	sentence_18385
+18385_7	appos	18385_2
+18385_7	has_surface_form	IDPH
+18385_8	is_in_sentence	sentence_18385
+18385_8	punct	18385_7
+18385_8	has_surface_form	)
+18385_10	is_in_sentence	sentence_18385
+18385_10	det	18385_12
+18385_10	has_surface_form	the
+18385_12	is_in_sentence	sentence_18385
+18385_12	attr	18385_9
+18385_12	has_surface_form	department
+18385_12	part_of_entity	code department
+18385_11	is_in_sentence	sentence_18385
+18385_11	compound	18385_12
+18385_11	has_surface_form	code
+18385_11	part_of_entity	code department
+18385_13	is_in_sentence	sentence_18385
+18385_13	prep	18385_12
+18385_13	has_surface_form	of
+18385_14	is_in_sentence	sentence_18385
+18385_14	det	18385_17
+18385_14	has_surface_form	the
+18385_17	is_in_sentence	sentence_18385
+18385_17	pobj	18385_13
+18385_17	has_surface_form	government
+18385_15	is_in_sentence	sentence_18385
+18385_15	compound	18385_17
+18385_15	has_surface_form	Illinois
+18385_16	is_in_sentence	sentence_18385
+18385_16	compound	18385_17
+18385_16	has_surface_form	state
+18385_18	is_in_sentence	sentence_18385
+18385_18	nsubj	18385_19
+18385_18	has_surface_form	that
+18385_19	is_in_sentence	sentence_18385
+18385_19	relcl	18385_12
+18385_19	has_surface_form	prevents
+18385_20	is_in_sentence	sentence_18385
+18385_20	cc	18385_19
+18385_20	has_surface_form	and
+18385_21	is_in_sentence	sentence_18385
+18385_21	compound	18385_22
+18385_21	has_surface_form	controls
+18385_22	is_in_sentence	sentence_18385
+18385_22	conj	18385_19
+18385_22	has_surface_form	disease
+18385_23	is_in_sentence	sentence_18385
+18385_23	cc	18385_22
+18385_23	has_surface_form	and
+18385_24	is_in_sentence	sentence_18385
+18385_24	conj	18385_22
+18385_24	has_surface_form	injury
+18385_25	is_in_sentence	sentence_18385
+18385_25	punct	18385_26
+18385_25	has_surface_form	,
+18385_26	is_in_sentence	sentence_18385
+18385_26	conj	18385_9
+18385_26	has_surface_form	regulates
+18385_27	is_in_sentence	sentence_18385
+18385_27	amod	18385_28
+18385_27	has_surface_form	medical
+18385_28	is_in_sentence	sentence_18385
+18385_28	dobj	18385_26
+18385_28	has_surface_form	practitioners
+18385_29	is_in_sentence	sentence_18385
+18385_29	punct	18385_26
+18385_29	has_surface_form	,
+18385_30	is_in_sentence	sentence_18385
+18385_30	cc	18385_26
+18385_30	has_surface_form	and
+18385_31	is_in_sentence	sentence_18385
+18385_31	conj	18385_26
+18385_31	has_surface_form	promotes
+18385_32	is_in_sentence	sentence_18385
+18385_32	dobj	18385_31
+18385_32	has_surface_form	sanitation
+18385_33	is_in_sentence	sentence_18385
+18385_33	punct	18385_26
+18385_33	has_surface_form	.
+18385_34	is_in_sentence	sentence_18385
+18385_34	dep	18385_34
+18385_34	has_surface_form	
+The Illinois Department of Public Health	surface_form	The Illinois Department of Public Health
+The Illinois Department of Public Health	has-type	code department
+code department	surface_form	code department

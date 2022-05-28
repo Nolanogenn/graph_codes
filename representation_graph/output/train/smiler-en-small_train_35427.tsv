@@ -1,0 +1,56 @@
+35426_0	is_in_sentence	sentence_35426
+35426_0	compound	35426_1
+35426_0	has_surface_form	Manfred
+35426_0	part_of_entity	Manfred Linzmaier
+35426_1	is_in_sentence	sentence_35426
+35426_1	nsubj	35426_10
+35426_1	has_surface_form	Linzmaier
+35426_1	part_of_entity	Manfred Linzmaier
+35426_10	is_in_sentence	sentence_35426
+35426_10	ROOT	35426_10
+35426_10	has_surface_form	is
+35426_2	is_in_sentence	sentence_35426
+35426_2	punct	35426_3
+35426_2	has_surface_form	(
+35426_3	is_in_sentence	sentence_35426
+35426_3	acl	35426_1
+35426_3	has_surface_form	born
+35426_4	is_in_sentence	sentence_35426
+35426_4	nummod	35426_5
+35426_4	has_surface_form	27
+35426_5	is_in_sentence	sentence_35426
+35426_5	npadvmod	35426_3
+35426_5	has_surface_form	August
+35426_6	is_in_sentence	sentence_35426
+35426_6	nummod	35426_5
+35426_6	has_surface_form	1962
+35426_7	is_in_sentence	sentence_35426
+35426_7	prep	35426_3
+35426_7	has_surface_form	in
+35426_8	is_in_sentence	sentence_35426
+35426_8	pobj	35426_7
+35426_8	is_entity	Kufstein
+Kufstein	surface_form	Kufstein
+35426_9	is_in_sentence	sentence_35426
+35426_9	punct	35426_1
+35426_9	has_surface_form	)
+35426_11	is_in_sentence	sentence_35426
+35426_11	det	35426_14
+35426_11	has_surface_form	a
+35426_14	is_in_sentence	sentence_35426
+35426_14	attr	35426_10
+35426_14	has_surface_form	footballer
+35426_12	is_in_sentence	sentence_35426
+35426_12	amod	35426_14
+35426_12	has_surface_form	retired
+35426_13	is_in_sentence	sentence_35426
+35426_13	amod	35426_14
+35426_13	has_surface_form	Austrian
+35426_15	is_in_sentence	sentence_35426
+35426_15	punct	35426_10
+35426_15	has_surface_form	.
+35426_16	is_in_sentence	sentence_35426
+35426_16	dep	35426_16
+35426_16	has_surface_form	
+Manfred Linzmaier	surface_form	Manfred Linzmaier
+Manfred Linzmaier	birth-place	Kufstein

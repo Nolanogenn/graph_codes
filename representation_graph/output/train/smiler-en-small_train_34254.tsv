@@ -1,0 +1,67 @@
+34253_0	is_in_sentence	sentence_34253
+34253_0	compound	34253_1
+34253_0	has_surface_form	Neon
+34253_0	part_of_entity	Neon Bull
+34253_1	is_in_sentence	sentence_34253
+34253_1	nsubj	34253_8
+34253_1	has_surface_form	Bull
+34253_1	part_of_entity	Neon Bull
+34253_8	is_in_sentence	sentence_34253
+34253_8	ROOT	34253_8
+34253_8	has_surface_form	is
+34253_2	is_in_sentence	sentence_34253
+34253_2	punct	34253_3
+34253_2	has_surface_form	(
+34253_3	is_in_sentence	sentence_34253
+34253_3	appos	34253_1
+34253_3	has_surface_form	Portuguese
+34253_4	is_in_sentence	sentence_34253
+34253_4	punct	34253_3
+34253_4	has_surface_form	:
+34253_5	is_in_sentence	sentence_34253
+34253_5	compound	34253_6
+34253_5	has_surface_form	Boi
+34253_6	is_in_sentence	sentence_34253
+34253_6	appos	34253_3
+34253_6	has_surface_form	neon
+34253_7	is_in_sentence	sentence_34253
+34253_7	punct	34253_3
+34253_7	has_surface_form	)
+34253_9	is_in_sentence	sentence_34253
+34253_9	det	34253_13
+34253_9	has_surface_form	a
+34253_13	is_in_sentence	sentence_34253
+34253_13	attr	34253_8
+34253_13	has_surface_form	film
+34253_10	is_in_sentence	sentence_34253
+34253_10	nummod	34253_13
+34253_10	has_surface_form	2015
+34253_11	is_in_sentence	sentence_34253
+34253_11	amod	34253_13
+34253_11	has_surface_form	Brazilian
+34253_12	is_in_sentence	sentence_34253
+34253_12	compound	34253_13
+34253_12	has_surface_form	drama
+34253_14	is_in_sentence	sentence_34253
+34253_14	acl	34253_13
+34253_14	has_surface_form	directed
+34253_15	is_in_sentence	sentence_34253
+34253_15	agent	34253_14
+34253_15	has_surface_form	by
+34253_16	is_in_sentence	sentence_34253
+34253_16	compound	34253_17
+34253_16	has_surface_form	Gabriel
+34253_16	part_of_entity	Gabriel Mascaro
+34253_17	is_in_sentence	sentence_34253
+34253_17	pobj	34253_15
+34253_17	has_surface_form	Mascaro
+34253_17	part_of_entity	Gabriel Mascaro
+34253_18	is_in_sentence	sentence_34253
+34253_18	punct	34253_8
+34253_18	has_surface_form	.
+34253_19	is_in_sentence	sentence_34253
+34253_19	dep	34253_8
+34253_19	has_surface_form	
+Neon Bull	surface_form	Neon Bull
+Neon Bull	movie-has-director	Gabriel Mascaro
+Gabriel Mascaro	surface_form	Gabriel Mascaro

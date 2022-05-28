@@ -1,0 +1,104 @@
+2422_0	is_in_sentence	sentence_2422
+2422_0	det	2422_2
+2422_0	has_surface_form	A
+2422_0	part_of_entity	A Southern Yankee
+2422_2	is_in_sentence	sentence_2422
+2422_2	nsubj	2422_3
+2422_2	has_surface_form	Yankee
+2422_2	part_of_entity	A Southern Yankee
+2422_1	is_in_sentence	sentence_2422
+2422_1	compound	2422_2
+2422_1	has_surface_form	Southern
+2422_1	part_of_entity	A Southern Yankee
+2422_3	is_in_sentence	sentence_2422
+2422_3	ROOT	2422_3
+2422_3	has_surface_form	is
+2422_4	is_in_sentence	sentence_2422
+2422_4	det	2422_8
+2422_4	has_surface_form	a
+2422_8	is_in_sentence	sentence_2422
+2422_8	attr	2422_3
+2422_8	has_surface_form	film
+2422_5	is_in_sentence	sentence_2422
+2422_5	nummod	2422_8
+2422_5	has_surface_form	1948
+2422_6	is_in_sentence	sentence_2422
+2422_6	amod	2422_8
+2422_6	has_surface_form	American
+2422_7	is_in_sentence	sentence_2422
+2422_7	compound	2422_8
+2422_7	has_surface_form	comedy
+2422_9	is_in_sentence	sentence_2422
+2422_9	punct	2422_8
+2422_9	has_surface_form	,
+2422_10	is_in_sentence	sentence_2422
+2422_10	acl	2422_8
+2422_10	has_surface_form	directed
+2422_11	is_in_sentence	sentence_2422
+2422_11	agent	2422_10
+2422_11	has_surface_form	by
+2422_12	is_in_sentence	sentence_2422
+2422_12	compound	2422_13
+2422_12	has_surface_form	Edward
+2422_12	part_of_entity	Edward Sedgwick
+2422_13	is_in_sentence	sentence_2422
+2422_13	pobj	2422_11
+2422_13	has_surface_form	Sedgwick
+2422_13	part_of_entity	Edward Sedgwick
+2422_14	is_in_sentence	sentence_2422
+2422_14	punct	2422_8
+2422_14	has_surface_form	,
+2422_15	is_in_sentence	sentence_2422
+2422_15	acl	2422_8
+2422_15	has_surface_form	starring
+2422_16	is_in_sentence	sentence_2422
+2422_16	compound	2422_17
+2422_16	has_surface_form	Red
+2422_17	is_in_sentence	sentence_2422
+2422_17	dobj	2422_15
+2422_17	has_surface_form	Skelton
+2422_18	is_in_sentence	sentence_2422
+2422_18	cc	2422_17
+2422_18	has_surface_form	and
+2422_19	is_in_sentence	sentence_2422
+2422_19	compound	2422_20
+2422_19	has_surface_form	Arlene
+2422_20	is_in_sentence	sentence_2422
+2422_20	conj	2422_17
+2422_20	has_surface_form	Dahl
+2422_21	is_in_sentence	sentence_2422
+2422_21	punct	2422_8
+2422_21	has_surface_form	,
+2422_22	is_in_sentence	sentence_2422
+2422_22	cc	2422_3
+2422_22	has_surface_form	and
+2422_23	is_in_sentence	sentence_2422
+2422_23	conj	2422_3
+2422_23	has_surface_form	released
+2422_24	is_in_sentence	sentence_2422
+2422_24	agent	2422_23
+2422_24	has_surface_form	by
+2422_25	is_in_sentence	sentence_2422
+2422_25	compound	2422_29
+2422_25	has_surface_form	Metro
+2422_29	is_in_sentence	sentence_2422
+2422_29	pobj	2422_24
+2422_29	has_surface_form	Mayer
+2422_26	is_in_sentence	sentence_2422
+2422_26	punct	2422_29
+2422_26	has_surface_form	-
+2422_27	is_in_sentence	sentence_2422
+2422_27	compound	2422_29
+2422_27	has_surface_form	Goldwyn
+2422_28	is_in_sentence	sentence_2422
+2422_28	punct	2422_29
+2422_28	has_surface_form	-
+2422_30	is_in_sentence	sentence_2422
+2422_30	punct	2422_3
+2422_30	has_surface_form	.
+2422_31	is_in_sentence	sentence_2422
+2422_31	dep	2422_3
+2422_31	has_surface_form	
+A Southern Yankee	surface_form	A Southern Yankee
+A Southern Yankee	movie-has-director	Edward Sedgwick
+Edward Sedgwick	surface_form	Edward Sedgwick

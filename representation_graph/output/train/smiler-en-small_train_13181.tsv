@@ -1,0 +1,53 @@
+13180_0	is_in_sentence	sentence_13180
+13180_0	det	13180_3
+13180_0	has_surface_form	The
+13180_3	is_in_sentence	sentence_13180
+13180_3	nsubjpass	13180_5
+13180_3	has_surface_form	system
+13180_1	is_in_sentence	sentence_13180
+13180_1	compound	13180_3
+13180_1	has_surface_form	QR
+13180_1	part_of_entity	QR code
+13180_2	is_in_sentence	sentence_13180
+13180_2	compound	13180_3
+13180_2	has_surface_form	code
+13180_2	part_of_entity	QR code
+13180_5	is_in_sentence	sentence_13180
+13180_5	ROOT	13180_5
+13180_5	has_surface_form	invented
+13180_4	is_in_sentence	sentence_13180
+13180_4	auxpass	13180_5
+13180_4	has_surface_form	was
+13180_6	is_in_sentence	sentence_13180
+13180_6	prep	13180_5
+13180_6	has_surface_form	in
+13180_7	is_in_sentence	sentence_13180
+13180_7	pobj	13180_6
+13180_7	is_entity	1994
+1994	surface_form	1994
+13180_8	is_in_sentence	sentence_13180
+13180_8	agent	13180_5
+13180_8	has_surface_form	by
+13180_9	is_in_sentence	sentence_13180
+13180_9	det	13180_11
+13180_9	has_surface_form	the
+13180_11	is_in_sentence	sentence_13180
+13180_11	pobj	13180_8
+13180_11	has_surface_form	company
+13180_10	is_in_sentence	sentence_13180
+13180_10	amod	13180_11
+13180_10	has_surface_form	Japanese
+13180_12	is_in_sentence	sentence_13180
+13180_12	compound	13180_13
+13180_12	has_surface_form	Denso
+13180_13	is_in_sentence	sentence_13180
+13180_13	appos	13180_11
+13180_13	has_surface_form	Wave
+13180_14	is_in_sentence	sentence_13180
+13180_14	punct	13180_5
+13180_14	has_surface_form	.
+13180_15	is_in_sentence	sentence_13180
+13180_15	dep	13180_5
+13180_15	has_surface_form	
+QR code	surface_form	QR code
+QR code	invented-when	1994

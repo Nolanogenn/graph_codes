@@ -1,0 +1,55 @@
+23459_0	is_in_sentence	sentence_23459
+23459_0	compound	23459_1
+23459_0	has_surface_form	Dennis
+23459_0	part_of_entity	Dennis Wagner
+23459_1	is_in_sentence	sentence_23459
+23459_1	nsubj	23459_9
+23459_1	has_surface_form	Wagner
+23459_1	part_of_entity	Dennis Wagner
+23459_9	is_in_sentence	sentence_23459
+23459_9	ROOT	23459_9
+23459_9	has_surface_form	is
+23459_2	is_in_sentence	sentence_23459
+23459_2	punct	23459_1
+23459_2	has_surface_form	(
+23459_3	is_in_sentence	sentence_23459
+23459_3	acl	23459_1
+23459_3	has_surface_form	born
+23459_4	is_in_sentence	sentence_23459
+23459_4	npadvmod	23459_3
+23459_4	has_surface_form	March
+23459_5	is_in_sentence	sentence_23459
+23459_5	nummod	23459_4
+23459_5	has_surface_form	9
+23459_6	is_in_sentence	sentence_23459
+23459_6	punct	23459_4
+23459_6	has_surface_form	,
+23459_7	is_in_sentence	sentence_23459
+23459_7	nummod	23459_4
+23459_7	has_surface_form	1958
+23459_8	is_in_sentence	sentence_23459
+23459_8	punct	23459_1
+23459_8	has_surface_form	)
+23459_10	is_in_sentence	sentence_23459
+23459_10	det	23459_13
+23459_10	has_surface_form	an
+23459_13	is_in_sentence	sentence_23459
+23459_13	attr	23459_9
+23459_13	has_surface_form	coach
+23459_13	part_of_entity	football coach
+23459_11	is_in_sentence	sentence_23459
+23459_11	amod	23459_13
+23459_11	has_surface_form	American
+23459_12	is_in_sentence	sentence_23459
+23459_12	compound	23459_13
+23459_12	has_surface_form	football
+23459_12	part_of_entity	football coach
+23459_14	is_in_sentence	sentence_23459
+23459_14	punct	23459_9
+23459_14	has_surface_form	.
+23459_15	is_in_sentence	sentence_23459
+23459_15	dep	23459_15
+23459_15	has_surface_form	
+Dennis Wagner	surface_form	Dennis Wagner
+Dennis Wagner	has-type	football coach
+football coach	surface_form	football coach

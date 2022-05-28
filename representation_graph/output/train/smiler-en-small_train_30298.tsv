@@ -1,0 +1,75 @@
+30297_0	is_in_sentence	sentence_30297
+30297_0	compound	30297_1
+30297_0	has_surface_form	Abu
+30297_0	part_of_entity	Abu Simbel Airport
+30297_1	is_in_sentence	sentence_30297
+30297_1	compound	30297_2
+30297_1	has_surface_form	Simbel
+30297_1	part_of_entity	Abu Simbel Airport
+30297_2	is_in_sentence	sentence_30297
+30297_2	nsubj	30297_12
+30297_2	has_surface_form	Airport
+30297_2	part_of_entity	Abu Simbel Airport
+30297_12	is_in_sentence	sentence_30297
+30297_12	ROOT	30297_12
+30297_12	has_surface_form	is
+30297_3	is_in_sentence	sentence_30297
+30297_3	punct	30297_4
+30297_3	has_surface_form	(
+30297_4	is_in_sentence	sentence_30297
+30297_4	appos	30297_2
+30297_4	has_surface_form	IATA
+30297_5	is_in_sentence	sentence_30297
+30297_5	punct	30297_4
+30297_5	has_surface_form	:
+30297_6	is_in_sentence	sentence_30297
+30297_6	appos	30297_2
+30297_6	has_surface_form	ABS
+30297_7	is_in_sentence	sentence_30297
+30297_7	punct	30297_6
+30297_7	has_surface_form	,
+30297_8	is_in_sentence	sentence_30297
+30297_8	appos	30297_6
+30297_8	has_surface_form	ICAO
+30297_9	is_in_sentence	sentence_30297
+30297_9	punct	30297_6
+30297_9	has_surface_form	:
+30297_10	is_in_sentence	sentence_30297
+30297_10	appos	30297_6
+30297_10	has_surface_form	HEBL
+30297_11	is_in_sentence	sentence_30297
+30297_11	punct	30297_6
+30297_11	has_surface_form	)
+30297_13	is_in_sentence	sentence_30297
+30297_13	det	30297_15
+30297_13	has_surface_form	a
+30297_15	is_in_sentence	sentence_30297
+30297_15	attr	30297_12
+30297_15	has_surface_form	airport
+30297_14	is_in_sentence	sentence_30297
+30297_14	amod	30297_15
+30297_14	has_surface_form	regional
+30297_16	is_in_sentence	sentence_30297
+30297_16	prep	30297_15
+30297_16	has_surface_form	in
+30297_17	is_in_sentence	sentence_30297
+30297_17	compound	30297_18
+30297_17	has_surface_form	Abu
+30297_18	is_in_sentence	sentence_30297
+30297_18	pobj	30297_16
+30297_18	has_surface_form	Simbel
+30297_19	is_in_sentence	sentence_30297
+30297_19	punct	30297_18
+30297_19	has_surface_form	,
+30297_20	is_in_sentence	sentence_30297
+30297_20	appos	30297_18
+30297_20	has_surface_form	Egypt
+30297_21	is_in_sentence	sentence_30297
+30297_21	punct	30297_12
+30297_21	has_surface_form	.
+30297_22	is_in_sentence	sentence_30297
+30297_22	dep	30297_12
+30297_22	has_surface_form	
+Abu Simbel Airport	surface_form	Abu Simbel Airport
+Abu Simbel Airport	is-where	Abu Simbel, Egypt
+Abu Simbel, Egypt	surface_form	Abu Simbel, Egypt

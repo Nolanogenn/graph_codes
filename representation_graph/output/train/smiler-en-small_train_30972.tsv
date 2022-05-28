@@ -1,0 +1,65 @@
+30971_0	is_in_sentence	sentence_30971
+30971_0	compound	30971_1
+30971_0	has_surface_form	Lars
+30971_0	part_of_entity	Lars Danielsson
+30971_1	is_in_sentence	sentence_30971
+30971_1	nsubj	30971_8
+30971_1	has_surface_form	Danielsson
+30971_1	part_of_entity	Lars Danielsson
+30971_8	is_in_sentence	sentence_30971
+30971_8	ROOT	30971_8
+30971_8	has_surface_form	is
+30971_2	is_in_sentence	sentence_30971
+30971_2	punct	30971_1
+30971_2	has_surface_form	(
+30971_3	is_in_sentence	sentence_30971
+30971_3	acl	30971_1
+30971_3	has_surface_form	born
+30971_4	is_in_sentence	sentence_30971
+30971_4	nummod	30971_5
+30971_4	has_surface_form	5
+30971_5	is_in_sentence	sentence_30971
+30971_5	npadvmod	30971_3
+30971_5	has_surface_form	September
+30971_6	is_in_sentence	sentence_30971
+30971_6	nummod	30971_5
+30971_6	has_surface_form	1958
+30971_7	is_in_sentence	sentence_30971
+30971_7	punct	30971_1
+30971_7	has_surface_form	)
+30971_9	is_in_sentence	sentence_30971
+30971_9	det	30971_12
+30971_9	has_surface_form	a
+30971_12	is_in_sentence	sentence_30971
+30971_12	attr	30971_8
+30971_12	has_surface_form	bassist
+30971_10	is_in_sentence	sentence_30971
+30971_10	amod	30971_12
+30971_10	has_surface_form	Swedish
+30971_11	is_in_sentence	sentence_30971
+30971_11	compound	30971_12
+30971_11	has_surface_form	jazz
+30971_13	is_in_sentence	sentence_30971
+30971_13	punct	30971_12
+30971_13	has_surface_form	,
+30971_14	is_in_sentence	sentence_30971
+30971_14	conj	30971_12
+30971_14	is_entity	composer
+composer	surface_form	composer
+30971_15	is_in_sentence	sentence_30971
+30971_15	cc	30971_14
+30971_15	has_surface_form	and
+30971_16	is_in_sentence	sentence_30971
+30971_16	compound	30971_17
+30971_16	has_surface_form	record
+30971_17	is_in_sentence	sentence_30971
+30971_17	conj	30971_14
+30971_17	has_surface_form	producer
+30971_18	is_in_sentence	sentence_30971
+30971_18	punct	30971_8
+30971_18	has_surface_form	.
+30971_19	is_in_sentence	sentence_30971
+30971_19	dep	30971_8
+30971_19	has_surface_form	
+Lars Danielsson	surface_form	Lars Danielsson
+Lars Danielsson	has-occupation	composer

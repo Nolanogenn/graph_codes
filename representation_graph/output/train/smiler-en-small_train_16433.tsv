@@ -1,0 +1,75 @@
+16432_0	is_in_sentence	sentence_16432
+16432_0	compound	16432_1
+16432_0	has_surface_form	David
+16432_0	part_of_entity	David David Mr. David
+16432_1	is_in_sentence	sentence_16432
+16432_1	compound	16432_3
+16432_1	has_surface_form	David
+16432_1	part_of_entity	David David Mr. David
+16432_3	is_in_sentence	sentence_16432
+16432_3	nsubj	16432_4
+16432_3	has_surface_form	David
+16432_3	part_of_entity	David David Mr. David
+16432_2	is_in_sentence	sentence_16432
+16432_2	compound	16432_3
+16432_2	has_surface_form	Mr.
+16432_2	part_of_entity	David David Mr. David
+16432_4	is_in_sentence	sentence_16432
+16432_4	ROOT	16432_4
+16432_4	has_surface_form	is
+16432_5	is_in_sentence	sentence_16432
+16432_5	det	16432_9
+16432_5	has_surface_form	a
+16432_9	is_in_sentence	sentence_16432
+16432_9	attr	16432_4
+16432_9	has_surface_form	film
+16432_6	is_in_sentence	sentence_16432
+16432_6	nummod	16432_9
+16432_6	has_surface_form	1988
+16432_7	is_in_sentence	sentence_16432
+16432_7	amod	16432_9
+16432_7	has_surface_form	Indian
+16432_8	is_in_sentence	sentence_16432
+16432_8	compound	16432_9
+16432_8	has_surface_form	Malayalam
+16432_10	is_in_sentence	sentence_16432
+16432_10	punct	16432_9
+16432_10	has_surface_form	,
+16432_11	is_in_sentence	sentence_16432
+16432_11	acl	16432_9
+16432_11	has_surface_form	directed
+16432_12	is_in_sentence	sentence_16432
+16432_12	agent	16432_11
+16432_12	has_surface_form	by
+16432_13	is_in_sentence	sentence_16432
+16432_13	compound	16432_14
+16432_13	has_surface_form	Viji
+16432_13	part_of_entity	Viji Thampi
+16432_14	is_in_sentence	sentence_16432
+16432_14	pobj	16432_12
+16432_14	has_surface_form	Thampi
+16432_14	part_of_entity	Viji Thampi
+16432_15	is_in_sentence	sentence_16432
+16432_15	cc	16432_11
+16432_15	has_surface_form	and
+16432_16	is_in_sentence	sentence_16432
+16432_16	conj	16432_11
+16432_16	has_surface_form	produced
+16432_17	is_in_sentence	sentence_16432
+16432_17	agent	16432_16
+16432_17	has_surface_form	by
+16432_18	is_in_sentence	sentence_16432
+16432_18	pobj	16432_17
+16432_18	has_surface_form	Rajan
+16432_19	is_in_sentence	sentence_16432
+16432_19	cc	16432_18
+16432_19	has_surface_form	and
+16432_20	is_in_sentence	sentence_16432
+16432_20	compound	16432_21
+16432_20	has_surface_form	A.
+16432_21	is_in_sentence	sentence_16432
+16432_21	dep	16432_18
+16432_21	has_surface_form	
+David David Mr. David	surface_form	David David Mr. David
+David David Mr. David	movie-has-director	Viji Thampi
+Viji Thampi	surface_form	Viji Thampi

@@ -1,0 +1,59 @@
+29474_0	is_in_sentence	sentence_29474
+29474_0	compound	29474_1
+29474_0	has_surface_form	E
+29474_0	part_of_entity	E FM
+29474_1	is_in_sentence	sentence_29474
+29474_1	nsubj	29474_6
+29474_1	has_surface_form	FM
+29474_1	part_of_entity	E FM
+29474_6	is_in_sentence	sentence_29474
+29474_6	ROOT	29474_6
+29474_6	has_surface_form	is
+29474_2	is_in_sentence	sentence_29474
+29474_2	punct	29474_1
+29474_2	has_surface_form	(
+29474_3	is_in_sentence	sentence_29474
+29474_3	nummod	29474_4
+29474_3	has_surface_form	88.3
+29474_4	is_in_sentence	sentence_29474
+29474_4	appos	29474_1
+29474_4	has_surface_form	FM
+29474_5	is_in_sentence	sentence_29474
+29474_5	punct	29474_1
+29474_5	has_surface_form	)
+29474_7	is_in_sentence	sentence_29474
+29474_7	det	29474_15
+29474_7	has_surface_form	a
+29474_15	is_in_sentence	sentence_29474
+29474_15	attr	29474_6
+29474_15	has_surface_form	station
+29474_8	is_in_sentence	sentence_29474
+29474_8	nmod	29474_15
+29474_8	is_entity	Colombo
+Colombo	surface_form	Colombo
+29474_9	is_in_sentence	sentence_29474
+29474_9	punct	29474_15
+29474_9	has_surface_form	,
+29474_10	is_in_sentence	sentence_29474
+29474_10	compound	29474_11
+29474_10	has_surface_form	Sri
+29474_11	is_in_sentence	sentence_29474
+29474_11	npadvmod	29474_13
+29474_11	has_surface_form	Lanka
+29474_13	is_in_sentence	sentence_29474
+29474_13	amod	29474_15
+29474_13	has_surface_form	based
+29474_12	is_in_sentence	sentence_29474
+29474_12	punct	29474_13
+29474_12	has_surface_form	-
+29474_14	is_in_sentence	sentence_29474
+29474_14	compound	29474_15
+29474_14	has_surface_form	radio
+29474_16	is_in_sentence	sentence_29474
+29474_16	punct	29474_6
+29474_16	has_surface_form	.
+29474_17	is_in_sentence	sentence_29474
+29474_17	dep	29474_17
+29474_17	has_surface_form	
+E FM	surface_form	E FM
+E FM	is-where	Colombo

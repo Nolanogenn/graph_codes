@@ -1,0 +1,50 @@
+20794_0	is_in_sentence	sentence_20794
+20794_0	compound	20794_1
+20794_0	has_surface_form	Roland
+20794_0	part_of_entity	Roland Arnall
+20794_1	is_in_sentence	sentence_20794
+20794_1	nsubjpass	20794_3
+20794_1	has_surface_form	Arnall
+20794_1	part_of_entity	Roland Arnall
+20794_3	is_in_sentence	sentence_20794
+20794_3	ROOT	20794_3
+20794_3	has_surface_form	born
+20794_2	is_in_sentence	sentence_20794
+20794_2	auxpass	20794_3
+20794_2	has_surface_form	was
+20794_4	is_in_sentence	sentence_20794
+20794_4	prep	20794_3
+20794_4	has_surface_form	on
+20794_5	is_in_sentence	sentence_20794
+20794_5	pobj	20794_4
+20794_5	has_surface_form	March
+20794_6	is_in_sentence	sentence_20794
+20794_6	nummod	20794_5
+20794_6	has_surface_form	29
+20794_7	is_in_sentence	sentence_20794
+20794_7	punct	20794_5
+20794_7	has_surface_form	,
+20794_8	is_in_sentence	sentence_20794
+20794_8	nummod	20794_5
+20794_8	has_surface_form	1939
+20794_9	is_in_sentence	sentence_20794
+20794_9	prep	20794_5
+20794_9	has_surface_form	in
+20794_10	is_in_sentence	sentence_20794
+20794_10	pobj	20794_9
+20794_10	is_entity	Paris
+Paris	surface_form	Paris
+20794_11	is_in_sentence	sentence_20794
+20794_11	punct	20794_10
+20794_11	has_surface_form	,
+20794_12	is_in_sentence	sentence_20794
+20794_12	appos	20794_10
+20794_12	has_surface_form	France
+20794_13	is_in_sentence	sentence_20794
+20794_13	punct	20794_3
+20794_13	has_surface_form	.
+20794_14	is_in_sentence	sentence_20794
+20794_14	dep	20794_3
+20794_14	has_surface_form	
+Roland Arnall	surface_form	Roland Arnall
+Roland Arnall	birth-place	Paris

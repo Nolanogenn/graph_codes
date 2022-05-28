@@ -1,0 +1,65 @@
+30520_0	is_in_sentence	sentence_30520
+30520_0	compound	30520_1
+30520_0	has_surface_form	Torben
+30520_0	part_of_entity	Torben Lendager
+30520_1	is_in_sentence	sentence_30520
+30520_1	nsubj	30520_12
+30520_1	has_surface_form	Lendager
+30520_1	part_of_entity	Torben Lendager
+30520_12	is_in_sentence	sentence_30520
+30520_12	ROOT	30520_12
+30520_12	has_surface_form	is
+30520_2	is_in_sentence	sentence_30520
+30520_2	punct	30520_3
+30520_2	has_surface_form	(
+30520_3	is_in_sentence	sentence_30520
+30520_3	acl	30520_1
+30520_3	has_surface_form	born
+30520_4	is_in_sentence	sentence_30520
+30520_4	nummod	30520_5
+30520_4	has_surface_form	23
+30520_5	is_in_sentence	sentence_30520
+30520_5	npadvmod	30520_3
+30520_5	has_surface_form	April
+30520_6	is_in_sentence	sentence_30520
+30520_6	nummod	30520_5
+30520_6	has_surface_form	1951
+30520_7	is_in_sentence	sentence_30520
+30520_7	punct	30520_12
+30520_7	has_surface_form	,
+30520_8	is_in_sentence	sentence_30520
+30520_8	nsubj	30520_12
+30520_8	is_entity	Slagelse
+Slagelse	surface_form	Slagelse
+30520_9	is_in_sentence	sentence_30520
+30520_9	punct	30520_8
+30520_9	has_surface_form	,
+30520_10	is_in_sentence	sentence_30520
+30520_10	appos	30520_8
+30520_10	has_surface_form	Denmark
+30520_11	is_in_sentence	sentence_30520
+30520_11	punct	30520_8
+30520_11	has_surface_form	)
+30520_13	is_in_sentence	sentence_30520
+30520_13	det	30520_15
+30520_13	has_surface_form	a
+30520_15	is_in_sentence	sentence_30520
+30520_15	attr	30520_12
+30520_15	has_surface_form	singer
+30520_14	is_in_sentence	sentence_30520
+30520_14	amod	30520_15
+30520_14	has_surface_form	Danish
+30520_16	is_in_sentence	sentence_30520
+30520_16	cc	30520_15
+30520_16	has_surface_form	and
+30520_17	is_in_sentence	sentence_30520
+30520_17	conj	30520_15
+30520_17	has_surface_form	composer
+30520_18	is_in_sentence	sentence_30520
+30520_18	punct	30520_12
+30520_18	has_surface_form	.
+30520_19	is_in_sentence	sentence_30520
+30520_19	dep	30520_12
+30520_19	has_surface_form	
+Torben Lendager	surface_form	Torben Lendager
+Torben Lendager	birth-place	Slagelse

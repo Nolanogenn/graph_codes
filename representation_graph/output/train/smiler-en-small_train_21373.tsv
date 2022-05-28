@@ -1,0 +1,65 @@
+21372_0	is_in_sentence	sentence_21372
+21372_0	compound	21372_1
+21372_0	has_surface_form	Erkki
+21372_0	part_of_entity	Erkki Pohjanheimo
+21372_1	is_in_sentence	sentence_21372
+21372_1	nsubj	21372_10
+21372_1	has_surface_form	Pohjanheimo
+21372_1	part_of_entity	Erkki Pohjanheimo
+21372_10	is_in_sentence	sentence_21372
+21372_10	ROOT	21372_10
+21372_10	has_surface_form	is
+21372_2	is_in_sentence	sentence_21372
+21372_2	punct	21372_3
+21372_2	has_surface_form	(
+21372_3	is_in_sentence	sentence_21372
+21372_3	acl	21372_1
+21372_3	has_surface_form	born
+21372_4	is_in_sentence	sentence_21372
+21372_4	nummod	21372_5
+21372_4	has_surface_form	28
+21372_5	is_in_sentence	sentence_21372
+21372_5	npadvmod	21372_3
+21372_5	has_surface_form	January
+21372_6	is_in_sentence	sentence_21372
+21372_6	nummod	21372_5
+21372_6	has_surface_form	1942
+21372_7	is_in_sentence	sentence_21372
+21372_7	prep	21372_3
+21372_7	has_surface_form	in
+21372_8	is_in_sentence	sentence_21372
+21372_8	pobj	21372_7
+21372_8	is_entity	Multia
+Multia	surface_form	Multia
+21372_9	is_in_sentence	sentence_21372
+21372_9	punct	21372_1
+21372_9	has_surface_form	)
+21372_11	is_in_sentence	sentence_21372
+21372_11	det	21372_15
+21372_11	has_surface_form	a
+21372_15	is_in_sentence	sentence_21372
+21372_15	attr	21372_10
+21372_15	has_surface_form	producer
+21372_12	is_in_sentence	sentence_21372
+21372_12	amod	21372_15
+21372_12	has_surface_form	Finnish
+21372_13	is_in_sentence	sentence_21372
+21372_13	compound	21372_15
+21372_13	has_surface_form	TV
+21372_14	is_in_sentence	sentence_21372
+21372_14	punct	21372_15
+21372_14	has_surface_form	-
+21372_16	is_in_sentence	sentence_21372
+21372_16	cc	21372_15
+21372_16	has_surface_form	and
+21372_17	is_in_sentence	sentence_21372
+21372_17	conj	21372_15
+21372_17	has_surface_form	director
+21372_18	is_in_sentence	sentence_21372
+21372_18	punct	21372_10
+21372_18	has_surface_form	.
+21372_19	is_in_sentence	sentence_21372
+21372_19	dep	21372_19
+21372_19	has_surface_form	
+Erkki Pohjanheimo	surface_form	Erkki Pohjanheimo
+Erkki Pohjanheimo	birth-place	Multia

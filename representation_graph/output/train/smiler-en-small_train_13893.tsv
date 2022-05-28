@@ -1,0 +1,78 @@
+13892_0	is_in_sentence	sentence_13892
+13892_0	compound	13892_1
+13892_0	has_surface_form	TATI
+13892_0	part_of_entity	TATI University College
+13892_1	is_in_sentence	sentence_13892
+13892_1	compound	13892_2
+13892_1	has_surface_form	University
+13892_1	part_of_entity	TATI University College
+13892_2	is_in_sentence	sentence_13892
+13892_2	nsubj	13892_14
+13892_2	has_surface_form	College
+13892_2	part_of_entity	TATI University College
+13892_14	is_in_sentence	sentence_13892
+13892_14	ROOT	13892_14
+13892_14	has_surface_form	is
+13892_3	is_in_sentence	sentence_13892
+13892_3	punct	13892_2
+13892_3	has_surface_form	,
+13892_4	is_in_sentence	sentence_13892
+13892_4	punct	13892_2
+13892_4	has_surface_form	(
+13892_5	is_in_sentence	sentence_13892
+13892_5	advmod	13892_9
+13892_5	has_surface_form	previously
+13892_9	is_in_sentence	sentence_13892
+13892_9	appos	13892_2
+13892_9	has_surface_form	Institute
+13892_6	is_in_sentence	sentence_13892
+13892_6	compound	13892_9
+13892_6	has_surface_form	Terengganu
+13892_7	is_in_sentence	sentence_13892
+13892_7	compound	13892_9
+13892_7	has_surface_form	Advanced
+13892_8	is_in_sentence	sentence_13892
+13892_8	compound	13892_9
+13892_8	has_surface_form	Technical
+13892_10	is_in_sentence	sentence_13892
+13892_10	punct	13892_9
+13892_10	has_surface_form	(
+13892_11	is_in_sentence	sentence_13892
+13892_11	appos	13892_9
+13892_11	has_surface_form	TATI
+13892_12	is_in_sentence	sentence_13892
+13892_12	punct	13892_9
+13892_12	has_surface_form	)
+13892_13	is_in_sentence	sentence_13892
+13892_13	punct	13892_2
+13892_13	has_surface_form	)
+13892_15	is_in_sentence	sentence_13892
+13892_15	det	13892_18
+13892_15	has_surface_form	a
+13892_18	is_in_sentence	sentence_13892
+13892_18	attr	13892_14
+13892_18	has_surface_form	college
+13892_18	part_of_entity	private university college
+13892_16	is_in_sentence	sentence_13892
+13892_16	amod	13892_18
+13892_16	has_surface_form	private
+13892_16	part_of_entity	private university college
+13892_17	is_in_sentence	sentence_13892
+13892_17	compound	13892_18
+13892_17	has_surface_form	university
+13892_17	part_of_entity	private university college
+13892_19	is_in_sentence	sentence_13892
+13892_19	prep	13892_18
+13892_19	has_surface_form	in
+13892_20	is_in_sentence	sentence_13892
+13892_20	pobj	13892_19
+13892_20	has_surface_form	Malaysia
+13892_21	is_in_sentence	sentence_13892
+13892_21	punct	13892_14
+13892_21	has_surface_form	.
+13892_22	is_in_sentence	sentence_13892
+13892_22	dep	13892_22
+13892_22	has_surface_form	
+TATI University College	surface_form	TATI University College
+TATI University College	has-type	private university college
+private university college	surface_form	private university college

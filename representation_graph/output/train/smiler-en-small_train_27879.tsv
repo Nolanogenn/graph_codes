@@ -1,0 +1,52 @@
+27878_0	is_in_sentence	sentence_27878
+27878_0	compound	27878_1
+27878_0	has_surface_form	Joe
+27878_0	part_of_entity	Joe Simitian
+27878_1	is_in_sentence	sentence_27878
+27878_1	nsubj	27878_2
+27878_1	has_surface_form	Simitian
+27878_1	part_of_entity	Joe Simitian
+27878_2	is_in_sentence	sentence_27878
+27878_2	ROOT	27878_2
+27878_2	has_surface_form	is
+27878_3	is_in_sentence	sentence_27878
+27878_3	acomp	27878_2
+27878_3	has_surface_form	married
+27878_4	is_in_sentence	sentence_27878
+27878_4	prep	27878_3
+27878_4	has_surface_form	to
+27878_5	is_in_sentence	sentence_27878
+27878_5	compound	27878_6
+27878_5	has_surface_form	Mary
+27878_5	part_of_entity	Mary Hughes
+27878_6	is_in_sentence	sentence_27878
+27878_6	pobj	27878_4
+27878_6	has_surface_form	Hughes
+27878_6	part_of_entity	Mary Hughes
+27878_7	is_in_sentence	sentence_27878
+27878_7	punct	27878_6
+27878_7	has_surface_form	,
+27878_8	is_in_sentence	sentence_27878
+27878_8	det	27878_12
+27878_8	has_surface_form	a
+27878_12	is_in_sentence	sentence_27878
+27878_12	appos	27878_6
+27878_12	has_surface_form	consultant
+27878_9	is_in_sentence	sentence_27878
+27878_9	nmod	27878_10
+27878_9	has_surface_form	Bay
+27878_10	is_in_sentence	sentence_27878
+27878_10	nmod	27878_12
+27878_10	has_surface_form	Area
+27878_11	is_in_sentence	sentence_27878
+27878_11	amod	27878_12
+27878_11	has_surface_form	political
+27878_13	is_in_sentence	sentence_27878
+27878_13	punct	27878_2
+27878_13	has_surface_form	.
+27878_14	is_in_sentence	sentence_27878
+27878_14	dep	27878_14
+27878_14	has_surface_form	
+Joe Simitian	surface_form	Joe Simitian
+Joe Simitian	has-spouse	Mary Hughes
+Mary Hughes	surface_form	Mary Hughes

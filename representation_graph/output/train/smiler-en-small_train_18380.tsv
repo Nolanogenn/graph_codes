@@ -1,0 +1,63 @@
+18379_0	is_in_sentence	sentence_18379
+18379_0	compound	18379_1
+18379_0	has_surface_form	St
+18379_1	is_in_sentence	sentence_18379
+18379_1	poss	18379_3
+18379_1	has_surface_form	Bernard
+18379_3	is_in_sentence	sentence_18379
+18379_3	nsubj	18379_4
+18379_3	has_surface_form	Hospital
+18379_2	is_in_sentence	sentence_18379
+18379_2	case	18379_1
+18379_2	has_surface_form	's
+18379_4	is_in_sentence	sentence_18379
+18379_4	ROOT	18379_4
+18379_4	has_surface_form	is
+18379_5	is_in_sentence	sentence_18379
+18379_5	det	18379_9
+18379_5	has_surface_form	the
+18379_9	is_in_sentence	sentence_18379
+18379_9	attr	18379_4
+18379_9	has_surface_form	hospital
+18379_9	part_of_entity	civilian general hospital
+18379_6	is_in_sentence	sentence_18379
+18379_6	amod	18379_9
+18379_6	has_surface_form	only
+18379_7	is_in_sentence	sentence_18379
+18379_7	amod	18379_9
+18379_7	has_surface_form	civilian
+18379_7	part_of_entity	civilian general hospital
+18379_8	is_in_sentence	sentence_18379
+18379_8	amod	18379_9
+18379_8	has_surface_form	general
+18379_8	part_of_entity	civilian general hospital
+18379_10	is_in_sentence	sentence_18379
+18379_10	prep	18379_9
+18379_10	has_surface_form	in
+18379_11	is_in_sentence	sentence_18379
+18379_11	det	18379_14
+18379_11	has_surface_form	the
+18379_14	is_in_sentence	sentence_18379
+18379_14	pobj	18379_10
+18379_14	has_surface_form	territory
+18379_12	is_in_sentence	sentence_18379
+18379_12	amod	18379_14
+18379_12	has_surface_form	British
+18379_13	is_in_sentence	sentence_18379
+18379_13	amod	18379_14
+18379_13	has_surface_form	overseas
+18379_15	is_in_sentence	sentence_18379
+18379_15	prep	18379_14
+18379_15	has_surface_form	of
+18379_16	is_in_sentence	sentence_18379
+18379_16	pobj	18379_15
+18379_16	has_surface_form	Gibraltar
+18379_17	is_in_sentence	sentence_18379
+18379_17	punct	18379_4
+18379_17	has_surface_form	.
+18379_18	is_in_sentence	sentence_18379
+18379_18	dep	18379_18
+18379_18	has_surface_form	
+St Bernard's Hospital	surface_form	St Bernard's Hospital
+St Bernard's Hospital	has-type	civilian general hospital
+civilian general hospital	surface_form	civilian general hospital

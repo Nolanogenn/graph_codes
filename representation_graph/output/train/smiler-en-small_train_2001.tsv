@@ -1,0 +1,67 @@
+2000_0	is_in_sentence	sentence_2000
+2000_0	compound	2000_1
+2000_0	has_surface_form	PSG
+2000_0	part_of_entity	PSG College of Technology
+2000_1	is_in_sentence	sentence_2000
+2000_1	nsubj	2000_4
+2000_1	has_surface_form	College
+2000_1	part_of_entity	PSG College of Technology
+2000_4	is_in_sentence	sentence_2000
+2000_4	ROOT	2000_4
+2000_4	has_surface_form	is
+2000_2	is_in_sentence	sentence_2000
+2000_2	prep	2000_1
+2000_2	has_surface_form	of
+2000_2	part_of_entity	PSG College of Technology
+2000_3	is_in_sentence	sentence_2000
+2000_3	pobj	2000_2
+2000_3	has_surface_form	Technology
+2000_3	part_of_entity	PSG College of Technology
+2000_5	is_in_sentence	sentence_2000
+2000_5	det	2000_13
+2000_5	has_surface_form	an
+2000_13	is_in_sentence	sentence_2000
+2000_13	attr	2000_4
+2000_13	is_entity	college
+2000_6	is_in_sentence	sentence_2000
+2000_6	amod	2000_9
+2000_6	has_surface_form	autonomous
+2000_9	is_in_sentence	sentence_2000
+2000_9	amod	2000_13
+2000_9	has_surface_form	aided
+2000_7	is_in_sentence	sentence_2000
+2000_7	punct	2000_9
+2000_7	has_surface_form	,
+2000_8	is_in_sentence	sentence_2000
+2000_8	nsubj	2000_9
+2000_8	has_surface_form	government
+2000_10	is_in_sentence	sentence_2000
+2000_10	punct	2000_9
+2000_10	has_surface_form	,
+2000_11	is_in_sentence	sentence_2000
+2000_11	amod	2000_13
+2000_11	has_surface_form	private
+2000_12	is_in_sentence	sentence_2000
+2000_12	compound	2000_13
+2000_12	has_surface_form	engineering
+college	surface_form	college
+2000_14	is_in_sentence	sentence_2000
+2000_14	prep	2000_13
+2000_14	has_surface_form	in
+2000_15	is_in_sentence	sentence_2000
+2000_15	pobj	2000_14
+2000_15	has_surface_form	Coimbatore
+2000_16	is_in_sentence	sentence_2000
+2000_16	punct	2000_15
+2000_16	has_surface_form	,
+2000_17	is_in_sentence	sentence_2000
+2000_17	appos	2000_15
+2000_17	has_surface_form	India
+2000_18	is_in_sentence	sentence_2000
+2000_18	punct	2000_4
+2000_18	has_surface_form	.
+2000_19	is_in_sentence	sentence_2000
+2000_19	dep	2000_19
+2000_19	has_surface_form	
+PSG College of Technology	surface_form	PSG College of Technology
+PSG College of Technology	has-type	college

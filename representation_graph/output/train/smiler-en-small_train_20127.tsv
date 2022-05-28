@@ -1,0 +1,128 @@
+20126_0	is_in_sentence	sentence_20126
+20126_0	det	20126_3
+20126_0	has_surface_form	The
+20126_3	is_in_sentence	sentence_20126
+20126_3	nsubj	20126_4
+20126_3	has_surface_form	Spaniel
+20126_3	part_of_entity	American Cocker Spaniel
+20126_1	is_in_sentence	sentence_20126
+20126_1	compound	20126_3
+20126_1	has_surface_form	American
+20126_1	part_of_entity	American Cocker Spaniel
+20126_2	is_in_sentence	sentence_20126
+20126_2	compound	20126_3
+20126_2	has_surface_form	Cocker
+20126_2	part_of_entity	American Cocker Spaniel
+20126_4	is_in_sentence	sentence_20126
+20126_4	ROOT	20126_4
+20126_4	has_surface_form	is
+20126_5	is_in_sentence	sentence_20126
+20126_5	det	20126_7
+20126_5	has_surface_form	the
+20126_7	is_in_sentence	sentence_20126
+20126_7	attr	20126_4
+20126_7	has_surface_form	dog
+20126_6	is_in_sentence	sentence_20126
+20126_6	amod	20126_7
+20126_6	has_surface_form	smallest
+20126_8	is_in_sentence	sentence_20126
+20126_8	acl	20126_7
+20126_8	has_surface_form	recognized
+20126_9	is_in_sentence	sentence_20126
+20126_9	agent	20126_8
+20126_9	has_surface_form	by
+20126_10	is_in_sentence	sentence_20126
+20126_10	det	20126_13
+20126_10	has_surface_form	the
+20126_13	is_in_sentence	sentence_20126
+20126_13	pobj	20126_9
+20126_13	has_surface_form	Club
+20126_11	is_in_sentence	sentence_20126
+20126_11	compound	20126_13
+20126_11	has_surface_form	American
+20126_12	is_in_sentence	sentence_20126
+20126_12	compound	20126_13
+20126_12	has_surface_form	Kennel
+20126_14	is_in_sentence	sentence_20126
+20126_14	prep	20126_8
+20126_14	has_surface_form	as
+20126_15	is_in_sentence	sentence_20126
+20126_15	det	20126_17
+20126_15	has_surface_form	a
+20126_17	is_in_sentence	sentence_20126
+20126_17	pobj	20126_14
+20126_17	has_surface_form	dog
+20126_16	is_in_sentence	sentence_20126
+20126_16	compound	20126_17
+20126_16	has_surface_form	sporting
+20126_18	is_in_sentence	sentence_20126
+20126_18	punct	20126_7
+20126_18	has_surface_form	,
+20126_19	is_in_sentence	sentence_20126
+20126_19	acl	20126_7
+20126_19	has_surface_form	being
+20126_20	is_in_sentence	sentence_20126
+20126_20	prep	20126_19
+20126_20	has_surface_form	on
+20126_21	is_in_sentence	sentence_20126
+20126_21	amod	20126_20
+20126_21	has_surface_form	average
+20126_22	is_in_sentence	sentence_20126
+20126_22	prep	20126_19
+20126_22	has_surface_form	between
+20126_22	part_of_entity	between 13.5 and 15.5 inches
+20126_23	is_in_sentence	sentence_20126
+20126_23	pobj	20126_22
+20126_23	has_surface_form	13.5
+20126_23	part_of_entity	between 13.5 and 15.5 inches
+20126_24	is_in_sentence	sentence_20126
+20126_24	cc	20126_23
+20126_24	has_surface_form	and
+20126_24	part_of_entity	between 13.5 and 15.5 inches
+20126_25	is_in_sentence	sentence_20126
+20126_25	conj	20126_23
+20126_25	has_surface_form	15.5
+20126_25	part_of_entity	between 13.5 and 15.5 inches
+20126_26	is_in_sentence	sentence_20126
+20126_26	pobj	20126_22
+20126_26	has_surface_form	inches
+20126_26	part_of_entity	between 13.5 and 15.5 inches
+20126_27	is_in_sentence	sentence_20126
+20126_27	punct	20126_26
+20126_27	has_surface_form	(
+20126_28	is_in_sentence	sentence_20126
+20126_28	appos	20126_26
+20126_28	has_surface_form	34
+20126_29	is_in_sentence	sentence_20126
+20126_29	cc	20126_28
+20126_29	has_surface_form	and
+20126_30	is_in_sentence	sentence_20126
+20126_30	conj	20126_28
+20126_30	has_surface_form	39
+20126_31	is_in_sentence	sentence_20126
+20126_31	quantmod	20126_30
+20126_31	has_surface_form	cm
+20126_32	is_in_sentence	sentence_20126
+20126_32	punct	20126_26
+20126_32	has_surface_form	)
+20126_33	is_in_sentence	sentence_20126
+20126_33	amod	20126_26
+20126_33	has_surface_form	high
+20126_34	is_in_sentence	sentence_20126
+20126_34	prep	20126_33
+20126_34	has_surface_form	at
+20126_35	is_in_sentence	sentence_20126
+20126_35	det	20126_36
+20126_35	has_surface_form	the
+20126_36	is_in_sentence	sentence_20126
+20126_36	pobj	20126_34
+20126_36	has_surface_form	withers
+20126_37	is_in_sentence	sentence_20126
+20126_37	punct	20126_4
+20126_37	has_surface_form	.
+20126_38	is_in_sentence	sentence_20126
+20126_38	dep	20126_38
+20126_38	has_surface_form	
+American Cocker Spaniel	surface_form	American Cocker Spaniel
+American Cocker Spaniel	has-height	between 13.5 and 15.5 inches
+between 13.5 and 15.5 inches	surface_form	between 13.5 and 15.5 inches

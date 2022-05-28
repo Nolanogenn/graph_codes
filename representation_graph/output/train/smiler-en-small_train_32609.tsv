@@ -1,0 +1,64 @@
+32608_0	is_in_sentence	sentence_32608
+32608_0	compound	32608_1
+32608_0	has_surface_form	Syed
+32608_0	part_of_entity	Syed Abul A'la Maududi
+32608_1	is_in_sentence	sentence_32608
+32608_1	nsubj	32608_6
+32608_1	has_surface_form	Abul
+32608_1	part_of_entity	Syed Abul A'la Maududi
+32608_6	is_in_sentence	sentence_32608
+32608_6	ROOT	32608_6
+32608_6	has_surface_form	was
+32608_2	is_in_sentence	sentence_32608
+32608_2	prep	32608_1
+32608_2	has_surface_form	A'la
+32608_2	part_of_entity	Syed Abul A'la Maududi
+32608_3	is_in_sentence	sentence_32608
+32608_3	pobj	32608_2
+32608_3	has_surface_form	Maududi
+32608_3	part_of_entity	Syed Abul A'la Maududi
+32608_4	is_in_sentence	sentence_32608
+32608_4	punct	32608_6
+32608_4	has_surface_form	(
+32608_5	is_in_sentence	sentence_32608
+32608_5	punct	32608_6
+32608_5	has_surface_form	)
+32608_7	is_in_sentence	sentence_32608
+32608_7	det	32608_10
+32608_7	has_surface_form	a
+32608_10	is_in_sentence	sentence_32608
+32608_10	attr	32608_6
+32608_10	has_surface_form	philosopher
+32608_8	is_in_sentence	sentence_32608
+32608_8	amod	32608_9
+32608_8	is_entity	Pakistani
+32608_9	is_in_sentence	sentence_32608
+32608_9	amod	32608_10
+32608_9	has_surface_form	Muslim
+Pakistani	surface_form	Pakistani
+32608_11	is_in_sentence	sentence_32608
+32608_11	punct	32608_10
+32608_11	has_surface_form	,
+32608_12	is_in_sentence	sentence_32608
+32608_12	conj	32608_10
+32608_12	has_surface_form	jurist
+32608_13	is_in_sentence	sentence_32608
+32608_13	punct	32608_12
+32608_13	has_surface_form	,
+32608_14	is_in_sentence	sentence_32608
+32608_14	conj	32608_12
+32608_14	has_surface_form	journalist
+32608_15	is_in_sentence	sentence_32608
+32608_15	cc	32608_14
+32608_15	has_surface_form	and
+32608_16	is_in_sentence	sentence_32608
+32608_16	conj	32608_14
+32608_16	has_surface_form	imam
+32608_17	is_in_sentence	sentence_32608
+32608_17	punct	32608_6
+32608_17	has_surface_form	.
+32608_18	is_in_sentence	sentence_32608
+32608_18	dep	32608_18
+32608_18	has_surface_form	
+Syed Abul A'la Maududi	surface_form	Syed Abul A'la Maududi
+Syed Abul A'la Maududi	has-nationality	Pakistani

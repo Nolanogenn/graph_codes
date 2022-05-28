@@ -1,0 +1,68 @@
+19606_0	is_in_sentence	sentence_19606
+19606_0	compound	19606_1
+19606_0	has_surface_form	Grand
+19606_0	part_of_entity	Grand Teton National Park
+19606_0	part_of_entity	Grand Teton
+19606_1	is_in_sentence	sentence_19606
+19606_1	compound	19606_3
+19606_1	has_surface_form	Teton
+19606_1	part_of_entity	Grand Teton National Park
+19606_1	part_of_entity	Grand Teton
+19606_3	is_in_sentence	sentence_19606
+19606_3	nsubjpass	19606_5
+19606_3	has_surface_form	Park
+19606_3	part_of_entity	Grand Teton National Park
+19606_2	is_in_sentence	sentence_19606
+19606_2	compound	19606_3
+19606_2	has_surface_form	National
+19606_2	part_of_entity	Grand Teton National Park
+19606_5	is_in_sentence	sentence_19606
+19606_5	ROOT	19606_5
+19606_5	has_surface_form	named
+19606_4	is_in_sentence	sentence_19606
+19606_4	auxpass	19606_5
+19606_4	has_surface_form	is
+19606_6	is_in_sentence	sentence_19606
+19606_6	prep	19606_5
+19606_6	has_surface_form	for
+19606_7	is_in_sentence	sentence_19606
+19606_7	compound	19606_8
+19606_7	has_surface_form	Grand
+19606_7	part_of_entity	Grand Teton
+19606_8	is_in_sentence	sentence_19606
+19606_8	pobj	19606_6
+19606_8	has_surface_form	Teton
+19606_8	part_of_entity	Grand Teton
+19606_9	is_in_sentence	sentence_19606
+19606_9	punct	19606_8
+19606_9	has_surface_form	,
+19606_10	is_in_sentence	sentence_19606
+19606_10	det	19606_12
+19606_10	has_surface_form	the
+19606_12	is_in_sentence	sentence_19606
+19606_12	appos	19606_8
+19606_12	has_surface_form	mountain
+19606_11	is_in_sentence	sentence_19606
+19606_11	amod	19606_12
+19606_11	has_surface_form	tallest
+19606_13	is_in_sentence	sentence_19606
+19606_13	prep	19606_12
+19606_13	has_surface_form	in
+19606_14	is_in_sentence	sentence_19606
+19606_14	det	19606_16
+19606_14	has_surface_form	the
+19606_16	is_in_sentence	sentence_19606
+19606_16	pobj	19606_13
+19606_16	has_surface_form	Range
+19606_15	is_in_sentence	sentence_19606
+19606_15	compound	19606_16
+19606_15	has_surface_form	Teton
+19606_17	is_in_sentence	sentence_19606
+19606_17	punct	19606_5
+19606_17	has_surface_form	.
+19606_18	is_in_sentence	sentence_19606
+19606_18	dep	19606_5
+19606_18	has_surface_form	
+Grand Teton National Park	surface_form	Grand Teton National Park
+Grand Teton National Park	has-highest-mountain	Grand Teton
+Grand Teton	surface_form	Grand Teton

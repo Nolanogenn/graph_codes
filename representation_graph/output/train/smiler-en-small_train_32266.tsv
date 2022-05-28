@@ -1,0 +1,79 @@
+32265_0	is_in_sentence	sentence_32265
+32265_0	compound	32265_1
+32265_0	has_surface_form	Cao
+32265_0	part_of_entity	Cao Song
+32265_1	is_in_sentence	sentence_32265
+32265_1	nsubj	32265_2
+32265_1	has_surface_form	Song
+32265_1	part_of_entity	Cao Song
+32265_2	is_in_sentence	sentence_32265
+32265_2	ROOT	32265_2
+32265_2	has_surface_form	was
+32265_3	is_in_sentence	sentence_32265
+32265_3	det	32265_4
+32265_3	has_surface_form	the
+32265_4	is_in_sentence	sentence_32265
+32265_4	attr	32265_2
+32265_4	has_surface_form	father
+32265_5	is_in_sentence	sentence_32265
+32265_5	prep	32265_4
+32265_5	has_surface_form	of
+32265_6	is_in_sentence	sentence_32265
+32265_6	det	32265_9
+32265_6	has_surface_form	the
+32265_9	is_in_sentence	sentence_32265
+32265_9	pobj	32265_5
+32265_9	has_surface_form	Cao
+32265_9	part_of_entity	Cao Cao
+32265_7	is_in_sentence	sentence_32265
+32265_7	compound	32265_9
+32265_7	has_surface_form	warlord
+32265_8	is_in_sentence	sentence_32265
+32265_8	compound	32265_9
+32265_8	has_surface_form	Cao
+32265_8	part_of_entity	Cao Cao
+32265_10	is_in_sentence	sentence_32265
+32265_10	punct	32265_9
+32265_10	has_surface_form	,
+32265_11	is_in_sentence	sentence_32265
+32265_11	nsubj	32265_12
+32265_11	has_surface_form	who
+32265_12	is_in_sentence	sentence_32265
+32265_12	relcl	32265_9
+32265_12	has_surface_form	rose
+32265_13	is_in_sentence	sentence_32265
+32265_13	prep	32265_12
+32265_13	has_surface_form	to
+32265_14	is_in_sentence	sentence_32265
+32265_14	pobj	32265_13
+32265_14	has_surface_form	prominence
+32265_15	is_in_sentence	sentence_32265
+32265_15	prep	32265_12
+32265_15	has_surface_form	in
+32265_16	is_in_sentence	sentence_32265
+32265_16	det	32265_18
+32265_16	has_surface_form	the
+32265_18	is_in_sentence	sentence_32265
+32265_18	pobj	32265_15
+32265_18	has_surface_form	years
+32265_17	is_in_sentence	sentence_32265
+32265_17	amod	32265_18
+32265_17	has_surface_form	final
+32265_19	is_in_sentence	sentence_32265
+32265_19	prep	32265_18
+32265_19	has_surface_form	of
+32265_20	is_in_sentence	sentence_32265
+32265_20	compound	32265_21
+32265_20	has_surface_form	Eastern
+32265_21	is_in_sentence	sentence_32265
+32265_21	pobj	32265_19
+32265_21	has_surface_form	Han
+32265_22	is_in_sentence	sentence_32265
+32265_22	punct	32265_2
+32265_22	has_surface_form	.
+32265_23	is_in_sentence	sentence_32265
+32265_23	dep	32265_2
+32265_23	has_surface_form	
+Cao Song	surface_form	Cao Song
+Cao Song	has-child	Cao Cao
+Cao Cao	surface_form	Cao Cao

@@ -1,0 +1,92 @@
+18945_0	is_in_sentence	sentence_18945
+18945_0	poss	18945_1
+18945_0	has_surface_form	My
+18945_0	part_of_entity	My Brother Has a Cute Brother
+18945_1	is_in_sentence	sentence_18945
+18945_1	nsubj	18945_2
+18945_1	has_surface_form	Brother
+18945_1	part_of_entity	My Brother Has a Cute Brother
+18945_2	is_in_sentence	sentence_18945
+18945_2	ROOT	18945_2
+18945_2	has_surface_form	Has
+18945_2	part_of_entity	My Brother Has a Cute Brother
+18945_3	is_in_sentence	sentence_18945
+18945_3	det	18945_5
+18945_3	has_surface_form	a
+18945_3	part_of_entity	My Brother Has a Cute Brother
+18945_5	is_in_sentence	sentence_18945
+18945_5	dobj	18945_2
+18945_5	has_surface_form	Brother
+18945_5	part_of_entity	My Brother Has a Cute Brother
+18945_4	is_in_sentence	sentence_18945
+18945_4	compound	18945_5
+18945_4	has_surface_form	Cute
+18945_4	part_of_entity	My Brother Has a Cute Brother
+18945_6	is_in_sentence	sentence_18945
+18945_6	punct	18945_7
+18945_6	has_surface_form	(
+18945_7	is_in_sentence	sentence_18945
+18945_7	appos	18945_5
+18945_7	has_surface_form	Czech
+18945_8	is_in_sentence	sentence_18945
+18945_8	punct	18945_5
+18945_8	has_surface_form	:
+18945_9	is_in_sentence	sentence_18945
+18945_9	compound	18945_10
+18945_9	has_surface_form	Můj
+18945_10	is_in_sentence	sentence_18945
+18945_10	nsubj	18945_15
+18945_10	has_surface_form	brácha
+18945_15	is_in_sentence	sentence_18945
+18945_15	conj	18945_2
+18945_15	has_surface_form	is
+18945_11	is_in_sentence	sentence_18945
+18945_11	compound	18945_13
+18945_11	has_surface_form	má
+18945_13	is_in_sentence	sentence_18945
+18945_13	appos	18945_10
+18945_13	has_surface_form	bráchu
+18945_12	is_in_sentence	sentence_18945
+18945_12	compound	18945_13
+18945_12	has_surface_form	prima
+18945_14	is_in_sentence	sentence_18945
+18945_14	punct	18945_10
+18945_14	has_surface_form	)
+18945_16	is_in_sentence	sentence_18945
+18945_16	det	18945_20
+18945_16	has_surface_form	a
+18945_20	is_in_sentence	sentence_18945
+18945_20	attr	18945_15
+18945_20	has_surface_form	film
+18945_17	is_in_sentence	sentence_18945
+18945_17	nummod	18945_20
+18945_17	has_surface_form	1975
+18945_18	is_in_sentence	sentence_18945
+18945_18	amod	18945_20
+18945_18	has_surface_form	Czech
+18945_19	is_in_sentence	sentence_18945
+18945_19	compound	18945_20
+18945_19	has_surface_form	comedy
+18945_21	is_in_sentence	sentence_18945
+18945_21	acl	18945_20
+18945_21	has_surface_form	directed
+18945_22	is_in_sentence	sentence_18945
+18945_22	agent	18945_21
+18945_22	has_surface_form	by
+18945_23	is_in_sentence	sentence_18945
+18945_23	compound	18945_24
+18945_23	has_surface_form	Stanislav
+18945_23	part_of_entity	Stanislav Strnad
+18945_24	is_in_sentence	sentence_18945
+18945_24	pobj	18945_22
+18945_24	has_surface_form	Strnad
+18945_24	part_of_entity	Stanislav Strnad
+18945_25	is_in_sentence	sentence_18945
+18945_25	punct	18945_15
+18945_25	has_surface_form	.
+18945_26	is_in_sentence	sentence_18945
+18945_26	dep	18945_26
+18945_26	has_surface_form	
+My Brother Has a Cute Brother	surface_form	My Brother Has a Cute Brother
+My Brother Has a Cute Brother	movie-has-director	Stanislav Strnad
+Stanislav Strnad	surface_form	Stanislav Strnad

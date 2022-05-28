@@ -1,0 +1,53 @@
+8850_0	is_in_sentence	sentence_8850
+8850_0	nsubj	8850_1
+8850_0	is_entity	Namco
+8850_1	is_in_sentence	sentence_8850
+8850_1	ROOT	8850_1
+8850_1	has_surface_form	released
+Namco	surface_form	Namco
+Namco	first-product	Gee Bee
+8850_2	is_in_sentence	sentence_8850
+8850_2	compound	8850_3
+8850_2	has_surface_form	Gee
+8850_2	part_of_entity	Gee Bee
+8850_3	is_in_sentence	sentence_8850
+8850_3	dobj	8850_1
+8850_3	has_surface_form	Bee
+8850_3	part_of_entity	Gee Bee
+8850_4	is_in_sentence	sentence_8850
+8850_4	punct	8850_3
+8850_4	has_surface_form	,
+8850_5	is_in_sentence	sentence_8850
+8850_5	poss	8850_9
+8850_5	has_surface_form	their
+8850_9	is_in_sentence	sentence_8850
+8850_9	appos	8850_3
+8850_9	has_surface_form	game
+8850_6	is_in_sentence	sentence_8850
+8850_6	amod	8850_9
+8850_6	has_surface_form	first
+8850_7	is_in_sentence	sentence_8850
+8850_7	amod	8850_9
+8850_7	has_surface_form	internal
+8850_8	is_in_sentence	sentence_8850
+8850_8	compound	8850_9
+8850_8	has_surface_form	video
+8850_10	is_in_sentence	sentence_8850
+8850_10	punct	8850_3
+8850_10	has_surface_form	,
+8850_11	is_in_sentence	sentence_8850
+8850_11	prep	8850_1
+8850_11	has_surface_form	in
+8850_12	is_in_sentence	sentence_8850
+8850_12	pobj	8850_11
+8850_12	has_surface_form	October
+8850_13	is_in_sentence	sentence_8850
+8850_13	nummod	8850_12
+8850_13	has_surface_form	1978
+8850_14	is_in_sentence	sentence_8850
+8850_14	punct	8850_1
+8850_14	has_surface_form	.
+8850_15	is_in_sentence	sentence_8850
+8850_15	dep	8850_15
+8850_15	has_surface_form	
+Gee Bee	surface_form	Gee Bee

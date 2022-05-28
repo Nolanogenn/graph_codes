@@ -1,0 +1,54 @@
+878_0	is_in_sentence	sentence_878
+878_0	compound	878_1
+878_0	has_surface_form	St.
+878_0	part_of_entity	St. Louis Aircraft Corporation
+878_1	is_in_sentence	sentence_878
+878_1	compound	878_3
+878_1	has_surface_form	Louis
+878_1	part_of_entity	St. Louis Aircraft Corporation
+878_3	is_in_sentence	sentence_878
+878_3	nsubj	878_4
+878_3	has_surface_form	Corporation
+878_3	part_of_entity	St. Louis Aircraft Corporation
+878_2	is_in_sentence	sentence_878
+878_2	compound	878_3
+878_2	has_surface_form	Aircraft
+878_2	part_of_entity	St. Louis Aircraft Corporation
+878_4	is_in_sentence	sentence_878
+878_4	ROOT	878_4
+878_4	has_surface_form	was
+878_5	is_in_sentence	sentence_878
+878_5	det	878_8
+878_5	has_surface_form	an
+878_8	is_in_sentence	sentence_878
+878_8	attr	878_4
+878_8	has_surface_form	manufacturer
+878_8	part_of_entity	aircraft manufacturer
+878_6	is_in_sentence	sentence_878
+878_6	amod	878_8
+878_6	has_surface_form	American
+878_7	is_in_sentence	sentence_878
+878_7	compound	878_8
+878_7	has_surface_form	aircraft
+878_7	part_of_entity	aircraft manufacturer
+878_9	is_in_sentence	sentence_878
+878_9	acl	878_8
+878_9	has_surface_form	founded
+878_10	is_in_sentence	sentence_878
+878_10	prep	878_9
+878_10	has_surface_form	in
+878_11	is_in_sentence	sentence_878
+878_11	pobj	878_10
+878_11	has_surface_form	September
+878_12	is_in_sentence	sentence_878
+878_12	nummod	878_11
+878_12	has_surface_form	1917
+878_13	is_in_sentence	sentence_878
+878_13	punct	878_4
+878_13	has_surface_form	.
+878_14	is_in_sentence	sentence_878
+878_14	dep	878_14
+878_14	has_surface_form	
+St. Louis Aircraft Corporation	surface_form	St. Louis Aircraft Corporation
+St. Louis Aircraft Corporation	has-type	aircraft manufacturer
+aircraft manufacturer	surface_form	aircraft manufacturer

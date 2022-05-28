@@ -1,0 +1,75 @@
+29185_0	is_in_sentence	sentence_29185
+29185_0	det	29185_1
+29185_0	has_surface_form	A
+29185_0	part_of_entity	A Heart to Let
+29185_1	is_in_sentence	sentence_29185
+29185_1	nsubj	29185_4
+29185_1	has_surface_form	Heart
+29185_1	part_of_entity	A Heart to Let
+29185_4	is_in_sentence	sentence_29185
+29185_4	ROOT	29185_4
+29185_4	has_surface_form	is
+29185_2	is_in_sentence	sentence_29185
+29185_2	aux	29185_3
+29185_2	has_surface_form	to
+29185_2	part_of_entity	A Heart to Let
+29185_3	is_in_sentence	sentence_29185
+29185_3	relcl	29185_1
+29185_3	has_surface_form	Let
+29185_3	part_of_entity	A Heart to Let
+29185_5	is_in_sentence	sentence_29185
+29185_5	det	29185_11
+29185_5	has_surface_form	a
+29185_11	is_in_sentence	sentence_29185
+29185_11	attr	29185_4
+29185_11	has_surface_form	film
+29185_6	is_in_sentence	sentence_29185
+29185_6	amod	29185_11
+29185_6	has_surface_form	lost
+29185_7	is_in_sentence	sentence_29185
+29185_7	nummod	29185_11
+29185_7	has_surface_form	1921
+29185_8	is_in_sentence	sentence_29185
+29185_8	amod	29185_11
+29185_8	has_surface_form	American
+29185_9	is_in_sentence	sentence_29185
+29185_9	amod	29185_11
+29185_9	has_surface_form	silent
+29185_10	is_in_sentence	sentence_29185
+29185_10	compound	29185_11
+29185_10	has_surface_form	drama
+29185_12	is_in_sentence	sentence_29185
+29185_12	acl	29185_11
+29185_12	has_surface_form	directed
+29185_13	is_in_sentence	sentence_29185
+29185_13	agent	29185_12
+29185_13	has_surface_form	by
+29185_14	is_in_sentence	sentence_29185
+29185_14	compound	29185_15
+29185_14	has_surface_form	Edward
+29185_14	part_of_entity	Edward Dillon
+29185_15	is_in_sentence	sentence_29185
+29185_15	pobj	29185_13
+29185_15	has_surface_form	Dillon
+29185_15	part_of_entity	Edward Dillon
+29185_16	is_in_sentence	sentence_29185
+29185_16	cc	29185_12
+29185_16	has_surface_form	and
+29185_17	is_in_sentence	sentence_29185
+29185_17	conj	29185_12
+29185_17	has_surface_form	starring
+29185_18	is_in_sentence	sentence_29185
+29185_18	compound	29185_19
+29185_18	has_surface_form	Justine
+29185_19	is_in_sentence	sentence_29185
+29185_19	dobj	29185_17
+29185_19	has_surface_form	Johnstone
+29185_20	is_in_sentence	sentence_29185
+29185_20	punct	29185_4
+29185_20	has_surface_form	.
+29185_21	is_in_sentence	sentence_29185
+29185_21	dep	29185_21
+29185_21	has_surface_form	
+A Heart to Let	surface_form	A Heart to Let
+A Heart to Let	movie-has-director	Edward Dillon
+Edward Dillon	surface_form	Edward Dillon

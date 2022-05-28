@@ -1,0 +1,72 @@
+33990_0	is_in_sentence	sentence_33990
+33990_0	compound	33990_2
+33990_0	has_surface_form	SIT
+33990_0	part_of_entity	SIT Graduate Institute
+33990_2	is_in_sentence	sentence_33990
+33990_2	nsubj	33990_11
+33990_2	has_surface_form	Institute
+33990_2	part_of_entity	SIT Graduate Institute
+33990_1	is_in_sentence	sentence_33990
+33990_1	compound	33990_2
+33990_1	has_surface_form	Graduate
+33990_1	part_of_entity	SIT Graduate Institute
+33990_11	is_in_sentence	sentence_33990
+33990_11	ROOT	33990_11
+33990_11	has_surface_form	is
+33990_3	is_in_sentence	sentence_33990
+33990_3	punct	33990_2
+33990_3	has_surface_form	(
+33990_4	is_in_sentence	sentence_33990
+33990_4	advmod	33990_6
+33990_4	has_surface_form	formally
+33990_6	is_in_sentence	sentence_33990
+33990_6	appos	33990_2
+33990_6	has_surface_form	School
+33990_5	is_in_sentence	sentence_33990
+33990_5	det	33990_6
+33990_5	has_surface_form	the
+33990_7	is_in_sentence	sentence_33990
+33990_7	prep	33990_6
+33990_7	has_surface_form	for
+33990_8	is_in_sentence	sentence_33990
+33990_8	compound	33990_9
+33990_8	has_surface_form	International
+33990_9	is_in_sentence	sentence_33990
+33990_9	pobj	33990_7
+33990_9	has_surface_form	Training
+33990_10	is_in_sentence	sentence_33990
+33990_10	punct	33990_2
+33990_10	has_surface_form	)
+33990_12	is_in_sentence	sentence_33990
+33990_12	det	33990_15
+33990_12	has_surface_form	a
+33990_15	is_in_sentence	sentence_33990
+33990_15	attr	33990_11
+33990_15	has_surface_form	institution
+33990_13	is_in_sentence	sentence_33990
+33990_13	amod	33990_15
+33990_13	has_surface_form	private
+33990_14	is_in_sentence	sentence_33990
+33990_14	compound	33990_15
+33990_14	has_surface_form	graduate
+33990_16	is_in_sentence	sentence_33990
+33990_16	prep	33990_15
+33990_16	has_surface_form	in
+33990_17	is_in_sentence	sentence_33990
+33990_17	pobj	33990_16
+33990_17	is_entity	Brattleboro
+Brattleboro	surface_form	Brattleboro
+33990_18	is_in_sentence	sentence_33990
+33990_18	punct	33990_17
+33990_18	has_surface_form	,
+33990_19	is_in_sentence	sentence_33990
+33990_19	appos	33990_17
+33990_19	has_surface_form	Vermont
+33990_20	is_in_sentence	sentence_33990
+33990_20	punct	33990_11
+33990_20	has_surface_form	.
+33990_21	is_in_sentence	sentence_33990
+33990_21	dep	33990_11
+33990_21	has_surface_form	
+SIT Graduate Institute	surface_form	SIT Graduate Institute
+SIT Graduate Institute	is-where	Brattleboro

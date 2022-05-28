@@ -1,0 +1,44 @@
+195_0	is_in_sentence	sentence_195
+195_0	compound	195_1
+195_0	has_surface_form	Randy
+195_0	part_of_entity	Randy Ball
+195_1	is_in_sentence	sentence_195
+195_1	nsubj	195_2
+195_1	has_surface_form	Ball
+195_1	part_of_entity	Randy Ball
+195_2	is_in_sentence	sentence_195
+195_2	ROOT	195_2
+195_2	has_surface_form	is
+195_3	is_in_sentence	sentence_195
+195_3	det	195_8
+195_3	has_surface_form	a
+195_8	is_in_sentence	sentence_195
+195_8	attr	195_2
+195_8	has_surface_form	player
+195_4	is_in_sentence	sentence_195
+195_4	amod	195_8
+195_4	has_surface_form	former
+195_5	is_in_sentence	sentence_195
+195_5	amod	195_8
+195_5	has_surface_form	American
+195_6	is_in_sentence	sentence_195
+195_6	compound	195_7
+195_6	has_surface_form	college
+195_7	is_in_sentence	sentence_195
+195_7	compound	195_8
+195_7	has_surface_form	football
+195_9	is_in_sentence	sentence_195
+195_9	cc	195_8
+195_9	has_surface_form	and
+195_10	is_in_sentence	sentence_195
+195_10	conj	195_8
+195_10	is_entity	coach
+coach	surface_form	coach
+195_11	is_in_sentence	sentence_195
+195_11	punct	195_2
+195_11	has_surface_form	.
+195_12	is_in_sentence	sentence_195
+195_12	dep	195_12
+195_12	has_surface_form	
+Randy Ball	surface_form	Randy Ball
+Randy Ball	has-type	coach

@@ -1,0 +1,65 @@
+30648_0	is_in_sentence	sentence_30648
+30648_0	compound	30648_1
+30648_0	has_surface_form	Jonathan
+30648_0	part_of_entity	Jonathan Rigby
+30648_1	is_in_sentence	sentence_30648
+30648_1	nsubj	30648_6
+30648_1	has_surface_form	Rigby
+30648_1	part_of_entity	Jonathan Rigby
+30648_6	is_in_sentence	sentence_30648
+30648_6	ROOT	30648_6
+30648_6	has_surface_form	is
+30648_2	is_in_sentence	sentence_30648
+30648_2	punct	30648_1
+30648_2	has_surface_form	(
+30648_3	is_in_sentence	sentence_30648
+30648_3	acl	30648_1
+30648_3	has_surface_form	born
+30648_4	is_in_sentence	sentence_30648
+30648_4	npadvmod	30648_3
+30648_4	has_surface_form	1963
+30648_5	is_in_sentence	sentence_30648
+30648_5	punct	30648_1
+30648_5	has_surface_form	)
+30648_7	is_in_sentence	sentence_30648
+30648_7	det	30648_12
+30648_7	has_surface_form	an
+30648_12	is_in_sentence	sentence_30648
+30648_12	attr	30648_6
+30648_12	has_surface_form	historian
+30648_8	is_in_sentence	sentence_30648
+30648_8	amod	30648_9
+30648_8	is_entity	English
+30648_9	is_in_sentence	sentence_30648
+30648_9	nmod	30648_12
+30648_9	has_surface_form	actor
+English	surface_form	English
+30648_10	is_in_sentence	sentence_30648
+30648_10	cc	30648_9
+30648_10	has_surface_form	and
+30648_11	is_in_sentence	sentence_30648
+30648_11	conj	30648_9
+30648_11	has_surface_form	film
+30648_13	is_in_sentence	sentence_30648
+30648_13	nsubj	30648_15
+30648_13	has_surface_form	who
+30648_15	is_in_sentence	sentence_30648
+30648_15	relcl	30648_12
+30648_15	has_surface_form	written
+30648_14	is_in_sentence	sentence_30648
+30648_14	aux	30648_15
+30648_14	has_surface_form	has
+30648_16	is_in_sentence	sentence_30648
+30648_16	amod	30648_17
+30648_16	has_surface_form	several
+30648_17	is_in_sentence	sentence_30648
+30648_17	dobj	30648_15
+30648_17	has_surface_form	books
+30648_18	is_in_sentence	sentence_30648
+30648_18	punct	30648_6
+30648_18	has_surface_form	.
+30648_19	is_in_sentence	sentence_30648
+30648_19	dep	30648_6
+30648_19	has_surface_form	
+Jonathan Rigby	surface_form	Jonathan Rigby
+Jonathan Rigby	has-nationality	English

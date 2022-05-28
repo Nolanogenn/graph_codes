@@ -1,0 +1,71 @@
+12848_0	is_in_sentence	sentence_12848
+12848_0	det	12848_2
+12848_0	has_surface_form	The
+12848_2	is_in_sentence	sentence_12848
+12848_2	nsubj	12848_3
+12848_2	has_surface_form	Device
+12848_2	part_of_entity	Brannock Device
+12848_1	is_in_sentence	sentence_12848
+12848_1	compound	12848_2
+12848_1	has_surface_form	Brannock
+12848_1	part_of_entity	Brannock Device
+12848_3	is_in_sentence	sentence_12848
+12848_3	ROOT	12848_3
+12848_3	has_surface_form	is
+12848_4	is_in_sentence	sentence_12848
+12848_4	det	12848_6
+12848_4	has_surface_form	a
+12848_6	is_in_sentence	sentence_12848
+12848_6	attr	12848_3
+12848_6	has_surface_form	instrument
+12848_5	is_in_sentence	sentence_12848
+12848_5	amod	12848_6
+12848_5	has_surface_form	measuring
+12848_7	is_in_sentence	sentence_12848
+12848_7	acl	12848_6
+12848_7	has_surface_form	invented
+12848_8	is_in_sentence	sentence_12848
+12848_8	agent	12848_7
+12848_8	has_surface_form	by
+12848_9	is_in_sentence	sentence_12848
+12848_9	compound	12848_11
+12848_9	has_surface_form	Charles
+12848_9	part_of_entity	Charles F. Brannock
+12848_11	is_in_sentence	sentence_12848
+12848_11	pobj	12848_8
+12848_11	has_surface_form	Brannock
+12848_11	part_of_entity	Charles F. Brannock
+12848_10	is_in_sentence	sentence_12848
+12848_10	compound	12848_11
+12848_10	has_surface_form	F.
+12848_10	part_of_entity	Charles F. Brannock
+12848_12	is_in_sentence	sentence_12848
+12848_12	prep	12848_7
+12848_12	has_surface_form	for
+12848_13	is_in_sentence	sentence_12848
+12848_13	pcomp	12848_12
+12848_13	has_surface_form	measuring
+12848_14	is_in_sentence	sentence_12848
+12848_14	det	12848_15
+12848_14	has_surface_form	a
+12848_15	is_in_sentence	sentence_12848
+12848_15	poss	12848_18
+12848_15	has_surface_form	person
+12848_18	is_in_sentence	sentence_12848
+12848_18	dobj	12848_13
+12848_18	has_surface_form	size
+12848_16	is_in_sentence	sentence_12848
+12848_16	case	12848_15
+12848_16	has_surface_form	's
+12848_17	is_in_sentence	sentence_12848
+12848_17	compound	12848_18
+12848_17	has_surface_form	shoe
+12848_19	is_in_sentence	sentence_12848
+12848_19	punct	12848_3
+12848_19	has_surface_form	.
+12848_20	is_in_sentence	sentence_12848
+12848_20	dep	12848_3
+12848_20	has_surface_form	
+Brannock Device	surface_form	Brannock Device
+Brannock Device	invented-by	Charles F. Brannock
+Charles F. Brannock	surface_form	Charles F. Brannock

@@ -1,0 +1,94 @@
+20583_0	is_in_sentence	sentence_20583
+20583_0	compound	20583_1
+20583_0	has_surface_form	Jay
+20583_1	is_in_sentence	sentence_20583
+20583_1	nsubjpass	20583_3
+20583_1	has_surface_form	Warren
+20583_3	is_in_sentence	sentence_20583
+20583_3	ROOT	20583_3
+20583_3	has_surface_form	elected
+20583_2	is_in_sentence	sentence_20583
+20583_2	auxpass	20583_3
+20583_2	has_surface_form	was
+20583_4	is_in_sentence	sentence_20583
+20583_4	oprd	20583_3
+20583_4	has_surface_form	mayor
+20583_5	is_in_sentence	sentence_20583
+20583_5	punct	20583_3
+20583_5	has_surface_form	,
+20583_6	is_in_sentence	sentence_20583
+20583_6	advcl	20583_3
+20583_6	has_surface_form	defeating
+20583_7	is_in_sentence	sentence_20583
+20583_7	compound	20583_8
+20583_7	has_surface_form	Brenda
+20583_7	part_of_entity	Brenda Christian
+20583_8	is_in_sentence	sentence_20583
+20583_8	dobj	20583_6
+20583_8	has_surface_form	Christian
+20583_8	part_of_entity	Brenda Christian
+20583_9	is_in_sentence	sentence_20583
+20583_9	punct	20583_8
+20583_9	has_surface_form	,
+20583_10	is_in_sentence	sentence_20583
+20583_10	nsubj	20583_12
+20583_10	has_surface_form	who
+20583_12	is_in_sentence	sentence_20583
+20583_12	relcl	20583_8
+20583_12	has_surface_form	held
+20583_11	is_in_sentence	sentence_20583
+20583_11	aux	20583_12
+20583_11	has_surface_form	had
+20583_13	is_in_sentence	sentence_20583
+20583_13	det	20583_14
+20583_13	has_surface_form	the
+20583_14	is_in_sentence	sentence_20583
+20583_14	dobj	20583_12
+20583_14	has_surface_form	mayoralty
+20583_15	is_in_sentence	sentence_20583
+20583_15	prep	20583_12
+20583_15	has_surface_form	following
+20583_16	is_in_sentence	sentence_20583
+20583_16	det	20583_17
+20583_16	has_surface_form	the
+20583_17	is_in_sentence	sentence_20583
+20583_17	pobj	20583_15
+20583_17	has_surface_form	dismissal
+20583_18	is_in_sentence	sentence_20583
+20583_18	prep	20583_12
+20583_18	has_surface_form	from
+20583_19	is_in_sentence	sentence_20583
+20583_19	det	20583_20
+20583_19	has_surface_form	the
+20583_20	is_in_sentence	sentence_20583
+20583_20	pobj	20583_18
+20583_20	has_surface_form	post
+20583_21	is_in_sentence	sentence_20583
+20583_21	prep	20583_20
+20583_21	has_surface_form	of
+20583_22	is_in_sentence	sentence_20583
+20583_22	poss	20583_23
+20583_22	has_surface_form	her
+20583_23	is_in_sentence	sentence_20583
+20583_23	pobj	20583_21
+20583_23	has_surface_form	brother
+20583_24	is_in_sentence	sentence_20583
+20583_24	punct	20583_23
+20583_24	has_surface_form	,
+20583_25	is_in_sentence	sentence_20583
+20583_25	compound	20583_26
+20583_25	has_surface_form	Steve
+20583_25	part_of_entity	Steve Christian
+20583_26	is_in_sentence	sentence_20583
+20583_26	appos	20583_23
+20583_26	has_surface_form	Christian
+20583_26	part_of_entity	Steve Christian
+20583_27	is_in_sentence	sentence_20583
+20583_27	punct	20583_3
+20583_27	has_surface_form	.
+20583_28	is_in_sentence	sentence_20583
+20583_28	dep	20583_28
+20583_28	has_surface_form	
+Brenda Christian	surface_form	Brenda Christian
+Brenda Christian	has-sibling	Steve Christian
+Steve Christian	surface_form	Steve Christian

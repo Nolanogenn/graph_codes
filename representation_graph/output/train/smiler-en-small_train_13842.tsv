@@ -1,0 +1,52 @@
+13841_0	is_in_sentence	sentence_13841
+13841_0	compound	13841_1
+13841_0	has_surface_form	Auchi
+13841_0	part_of_entity	Auchi Polytechnic
+13841_1	is_in_sentence	sentence_13841
+13841_1	nsubj	13841_2
+13841_1	has_surface_form	Polytechnic
+13841_1	part_of_entity	Auchi Polytechnic
+13841_2	is_in_sentence	sentence_13841
+13841_2	ROOT	13841_2
+13841_2	has_surface_form	is
+13841_3	is_in_sentence	sentence_13841
+13841_3	det	13841_5
+13841_3	has_surface_form	a
+13841_5	is_in_sentence	sentence_13841
+13841_5	attr	13841_2
+13841_5	has_surface_form	Polytechnic
+13841_5	part_of_entity	Federal Polytechnic
+13841_4	is_in_sentence	sentence_13841
+13841_4	compound	13841_5
+13841_4	has_surface_form	Federal
+13841_4	part_of_entity	Federal Polytechnic
+13841_6	is_in_sentence	sentence_13841
+13841_6	prep	13841_5
+13841_6	has_surface_form	in
+13841_7	is_in_sentence	sentence_13841
+13841_7	pobj	13841_6
+13841_7	has_surface_form	Auchi
+13841_8	is_in_sentence	sentence_13841
+13841_8	punct	13841_5
+13841_8	has_surface_form	,
+13841_9	is_in_sentence	sentence_13841
+13841_9	compound	13841_10
+13841_9	has_surface_form	Edo
+13841_10	is_in_sentence	sentence_13841
+13841_10	conj	13841_5
+13841_10	has_surface_form	State
+13841_11	is_in_sentence	sentence_13841
+13841_11	punct	13841_10
+13841_11	has_surface_form	,
+13841_12	is_in_sentence	sentence_13841
+13841_12	npadvmod	13841_10
+13841_12	has_surface_form	Nigeria
+13841_13	is_in_sentence	sentence_13841
+13841_13	punct	13841_2
+13841_13	has_surface_form	.
+13841_14	is_in_sentence	sentence_13841
+13841_14	dep	13841_2
+13841_14	has_surface_form	
+Auchi Polytechnic	surface_form	Auchi Polytechnic
+Auchi Polytechnic	has-type	Federal Polytechnic
+Federal Polytechnic	surface_form	Federal Polytechnic

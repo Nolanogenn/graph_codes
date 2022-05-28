@@ -1,0 +1,55 @@
+9815_0	is_in_sentence	sentence_9815
+9815_0	compound	9815_1
+9815_0	has_surface_form	Bob
+9815_0	part_of_entity	Bob Gobel
+9815_1	is_in_sentence	sentence_9815
+9815_1	nsubj	9815_9
+9815_1	has_surface_form	Gobel
+9815_1	part_of_entity	Bob Gobel
+9815_9	is_in_sentence	sentence_9815
+9815_9	ROOT	9815_9
+9815_9	has_surface_form	is
+9815_2	is_in_sentence	sentence_9815
+9815_2	punct	9815_1
+9815_2	has_surface_form	(
+9815_3	is_in_sentence	sentence_9815
+9815_3	acl	9815_1
+9815_3	has_surface_form	born
+9815_4	is_in_sentence	sentence_9815
+9815_4	npadvmod	9815_3
+9815_4	has_surface_form	November
+9815_5	is_in_sentence	sentence_9815
+9815_5	nummod	9815_4
+9815_5	has_surface_form	16
+9815_6	is_in_sentence	sentence_9815
+9815_6	punct	9815_4
+9815_6	has_surface_form	,
+9815_7	is_in_sentence	sentence_9815
+9815_7	nummod	9815_4
+9815_7	has_surface_form	1955
+9815_8	is_in_sentence	sentence_9815
+9815_8	punct	9815_1
+9815_8	has_surface_form	)
+9815_10	is_in_sentence	sentence_9815
+9815_10	det	9815_13
+9815_10	has_surface_form	an
+9815_13	is_in_sentence	sentence_9815
+9815_13	attr	9815_9
+9815_13	has_surface_form	coach
+9815_13	part_of_entity	football coach
+9815_11	is_in_sentence	sentence_9815
+9815_11	amod	9815_13
+9815_11	has_surface_form	American
+9815_12	is_in_sentence	sentence_9815
+9815_12	compound	9815_13
+9815_12	has_surface_form	football
+9815_12	part_of_entity	football coach
+9815_14	is_in_sentence	sentence_9815
+9815_14	punct	9815_9
+9815_14	has_surface_form	.
+9815_15	is_in_sentence	sentence_9815
+9815_15	dep	9815_15
+9815_15	has_surface_form	
+Bob Gobel	surface_form	Bob Gobel
+Bob Gobel	has-type	football coach
+football coach	surface_form	football coach

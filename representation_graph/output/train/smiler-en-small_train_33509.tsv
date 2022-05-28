@@ -1,0 +1,75 @@
+33508_0	is_in_sentence	sentence_33508
+33508_0	nsubj	33508_1
+33508_0	has_surface_form	Hoppy
+33508_0	part_of_entity	Hoppy Serves a Writ
+33508_1	is_in_sentence	sentence_33508
+33508_1	ROOT	33508_1
+33508_1	has_surface_form	Serves
+33508_1	part_of_entity	Hoppy Serves a Writ
+33508_2	is_in_sentence	sentence_33508
+33508_2	det	33508_3
+33508_2	has_surface_form	a
+33508_2	part_of_entity	Hoppy Serves a Writ
+33508_3	is_in_sentence	sentence_33508
+33508_3	nsubj	33508_4
+33508_3	has_surface_form	Writ
+33508_3	part_of_entity	Hoppy Serves a Writ
+33508_4	is_in_sentence	sentence_33508
+33508_4	ccomp	33508_1
+33508_4	has_surface_form	is
+33508_5	is_in_sentence	sentence_33508
+33508_5	det	33508_8
+33508_5	has_surface_form	a
+33508_8	is_in_sentence	sentence_33508
+33508_8	attr	33508_4
+33508_8	has_surface_form	film
+33508_6	is_in_sentence	sentence_33508
+33508_6	nummod	33508_8
+33508_6	has_surface_form	1943
+33508_7	is_in_sentence	sentence_33508
+33508_7	amod	33508_8
+33508_7	has_surface_form	Western
+33508_9	is_in_sentence	sentence_33508
+33508_9	acl	33508_8
+33508_9	has_surface_form	directed
+33508_10	is_in_sentence	sentence_33508
+33508_10	agent	33508_9
+33508_10	has_surface_form	by
+33508_11	is_in_sentence	sentence_33508
+33508_11	compound	33508_12
+33508_11	has_surface_form	George
+33508_11	part_of_entity	George Archainbaud
+33508_12	is_in_sentence	sentence_33508
+33508_12	pobj	33508_10
+33508_12	has_surface_form	Archainbaud
+33508_12	part_of_entity	George Archainbaud
+33508_13	is_in_sentence	sentence_33508
+33508_13	cc	33508_9
+33508_13	has_surface_form	and
+33508_14	is_in_sentence	sentence_33508
+33508_14	conj	33508_9
+33508_14	has_surface_form	starring
+33508_15	is_in_sentence	sentence_33508
+33508_15	compound	33508_16
+33508_15	has_surface_form	William
+33508_16	is_in_sentence	sentence_33508
+33508_16	dobj	33508_14
+33508_16	has_surface_form	Boyd
+33508_17	is_in_sentence	sentence_33508
+33508_17	prep	33508_14
+33508_17	has_surface_form	as
+33508_18	is_in_sentence	sentence_33508
+33508_18	compound	33508_19
+33508_18	has_surface_form	Hopalong
+33508_19	is_in_sentence	sentence_33508
+33508_19	pobj	33508_17
+33508_19	has_surface_form	Cassidy
+33508_20	is_in_sentence	sentence_33508
+33508_20	punct	33508_4
+33508_20	has_surface_form	.
+33508_21	is_in_sentence	sentence_33508
+33508_21	dep	33508_21
+33508_21	has_surface_form	
+Hoppy Serves a Writ	surface_form	Hoppy Serves a Writ
+Hoppy Serves a Writ	movie-has-director	George Archainbaud
+George Archainbaud	surface_form	George Archainbaud

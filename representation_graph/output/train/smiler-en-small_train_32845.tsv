@@ -1,0 +1,58 @@
+32844_0	is_in_sentence	sentence_32844
+32844_0	nsubj	32844_5
+32844_0	has_surface_form	Murder
+32844_0	part_of_entity	Murder in the Blue Room
+32844_5	is_in_sentence	sentence_32844
+32844_5	ROOT	32844_5
+32844_5	has_surface_form	is
+32844_1	is_in_sentence	sentence_32844
+32844_1	prep	32844_0
+32844_1	has_surface_form	in
+32844_1	part_of_entity	Murder in the Blue Room
+32844_2	is_in_sentence	sentence_32844
+32844_2	det	32844_4
+32844_2	has_surface_form	the
+32844_2	part_of_entity	Murder in the Blue Room
+32844_4	is_in_sentence	sentence_32844
+32844_4	pobj	32844_1
+32844_4	has_surface_form	Room
+32844_4	part_of_entity	Murder in the Blue Room
+32844_3	is_in_sentence	sentence_32844
+32844_3	compound	32844_4
+32844_3	has_surface_form	Blue
+32844_3	part_of_entity	Murder in the Blue Room
+32844_6	is_in_sentence	sentence_32844
+32844_6	det	32844_9
+32844_6	has_surface_form	a
+32844_9	is_in_sentence	sentence_32844
+32844_9	attr	32844_5
+32844_9	has_surface_form	film
+32844_7	is_in_sentence	sentence_32844
+32844_7	nummod	32844_9
+32844_7	has_surface_form	1944
+32844_8	is_in_sentence	sentence_32844
+32844_8	amod	32844_9
+32844_8	has_surface_form	American
+32844_10	is_in_sentence	sentence_32844
+32844_10	acl	32844_9
+32844_10	has_surface_form	directed
+32844_11	is_in_sentence	sentence_32844
+32844_11	agent	32844_10
+32844_11	has_surface_form	by
+32844_12	is_in_sentence	sentence_32844
+32844_12	compound	32844_13
+32844_12	has_surface_form	Leslie
+32844_12	part_of_entity	Leslie Goodwins
+32844_13	is_in_sentence	sentence_32844
+32844_13	pobj	32844_11
+32844_13	has_surface_form	Goodwins
+32844_13	part_of_entity	Leslie Goodwins
+32844_14	is_in_sentence	sentence_32844
+32844_14	punct	32844_5
+32844_14	has_surface_form	.
+32844_15	is_in_sentence	sentence_32844
+32844_15	dep	32844_5
+32844_15	has_surface_form	
+Murder in the Blue Room	surface_form	Murder in the Blue Room
+Murder in the Blue Room	movie-has-director	Leslie Goodwins
+Leslie Goodwins	surface_form	Leslie Goodwins

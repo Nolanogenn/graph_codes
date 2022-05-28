@@ -1,0 +1,70 @@
+10111_0	is_in_sentence	sentence_10111
+10111_0	compound	10111_1
+10111_0	has_surface_form	Good
+10111_0	part_of_entity	Good Tree International School
+10111_1	is_in_sentence	sentence_10111
+10111_1	compound	10111_3
+10111_1	has_surface_form	Tree
+10111_1	part_of_entity	Good Tree International School
+10111_3	is_in_sentence	sentence_10111
+10111_3	nsubj	10111_7
+10111_3	has_surface_form	School
+10111_3	part_of_entity	Good Tree International School
+10111_2	is_in_sentence	sentence_10111
+10111_2	compound	10111_3
+10111_2	has_surface_form	International
+10111_2	part_of_entity	Good Tree International School
+10111_7	is_in_sentence	sentence_10111
+10111_7	ROOT	10111_7
+10111_7	has_surface_form	is
+10111_4	is_in_sentence	sentence_10111
+10111_4	punct	10111_3
+10111_4	has_surface_form	(
+10111_5	is_in_sentence	sentence_10111
+10111_5	appos	10111_3
+10111_5	has_surface_form	GTIS
+10111_6	is_in_sentence	sentence_10111
+10111_6	punct	10111_3
+10111_6	has_surface_form	)
+10111_8	is_in_sentence	sentence_10111
+10111_8	det	10111_10
+10111_8	has_surface_form	a
+10111_10	is_in_sentence	sentence_10111
+10111_10	attr	10111_7
+10111_10	has_surface_form	school
+10111_9	is_in_sentence	sentence_10111
+10111_9	amod	10111_10
+10111_9	has_surface_form	private
+10111_11	is_in_sentence	sentence_10111
+10111_11	prep	10111_10
+10111_11	has_surface_form	in
+10111_12	is_in_sentence	sentence_10111
+10111_12	pobj	10111_11
+10111_12	has_surface_form	Bagtas
+10111_13	is_in_sentence	sentence_10111
+10111_13	punct	10111_12
+10111_13	has_surface_form	,
+10111_14	is_in_sentence	sentence_10111
+10111_14	conj	10111_12
+10111_14	has_surface_form	Tanza
+10111_15	is_in_sentence	sentence_10111
+10111_15	punct	10111_14
+10111_15	has_surface_form	,
+10111_16	is_in_sentence	sentence_10111
+10111_16	conj	10111_14
+10111_16	has_surface_form	Cavite
+10111_17	is_in_sentence	sentence_10111
+10111_17	punct	10111_16
+10111_17	has_surface_form	,
+10111_18	is_in_sentence	sentence_10111
+10111_18	conj	10111_16
+10111_18	has_surface_form	Philippines
+10111_19	is_in_sentence	sentence_10111
+10111_19	punct	10111_7
+10111_19	has_surface_form	.
+10111_20	is_in_sentence	sentence_10111
+10111_20	dep	10111_7
+10111_20	has_surface_form	
+Good Tree International School	surface_form	Good Tree International School
+Good Tree International School	is-where	Bagtas, Tanza
+Bagtas, Tanza	surface_form	Bagtas, Tanza

@@ -1,0 +1,91 @@
+35651_0	is_in_sentence	sentence_35651
+35651_0	compound	35651_1
+35651_0	has_surface_form	James
+35651_0	part_of_entity	James Fearnley
+35651_1	is_in_sentence	sentence_35651
+35651_1	nsubj	35651_10
+35651_1	has_surface_form	Fearnley
+35651_1	part_of_entity	James Fearnley
+35651_10	is_in_sentence	sentence_35651
+35651_10	ROOT	35651_10
+35651_10	has_surface_form	is
+35651_2	is_in_sentence	sentence_35651
+35651_2	punct	35651_1
+35651_2	has_surface_form	(
+35651_3	is_in_sentence	sentence_35651
+35651_3	acl	35651_1
+35651_3	has_surface_form	born
+35651_4	is_in_sentence	sentence_35651
+35651_4	nummod	35651_5
+35651_4	has_surface_form	9
+35651_5	is_in_sentence	sentence_35651
+35651_5	npadvmod	35651_3
+35651_5	has_surface_form	October
+35651_6	is_in_sentence	sentence_35651
+35651_6	nummod	35651_5
+35651_6	has_surface_form	1954
+35651_7	is_in_sentence	sentence_35651
+35651_7	punct	35651_1
+35651_7	has_surface_form	,
+35651_8	is_in_sentence	sentence_35651
+35651_8	appos	35651_1
+35651_8	has_surface_form	Worsley
+35651_9	is_in_sentence	sentence_35651
+35651_9	punct	35651_1
+35651_9	has_surface_form	)
+35651_11	is_in_sentence	sentence_35651
+35651_11	det	35651_13
+35651_11	has_surface_form	an
+35651_13	is_in_sentence	sentence_35651
+35651_13	attr	35651_10
+35651_13	has_surface_form	musician
+35651_12	is_in_sentence	sentence_35651
+35651_12	amod	35651_13
+35651_12	has_surface_form	English
+35651_14	is_in_sentence	sentence_35651
+35651_14	punct	35651_10
+35651_14	has_surface_form	.
+35651_15	is_in_sentence	sentence_35651
+35651_15	nsubj	35651_16
+35651_15	has_surface_form	He
+35651_16	is_in_sentence	sentence_35651
+35651_16	ROOT	35651_16
+35651_16	has_surface_form	plays
+35651_17	is_in_sentence	sentence_35651
+35651_17	dobj	35651_16
+35651_17	has_surface_form	accordion
+35651_18	is_in_sentence	sentence_35651
+35651_18	prep	35651_16
+35651_18	has_surface_form	in
+35651_19	is_in_sentence	sentence_35651
+35651_19	det	35651_23
+35651_19	has_surface_form	the
+35651_23	is_in_sentence	sentence_35651
+35651_23	pobj	35651_18
+35651_23	has_surface_form	band
+35651_20	is_in_sentence	sentence_35651
+35651_20	nmod	35651_23
+35651_20	has_surface_form	folk
+35651_21	is_in_sentence	sentence_35651
+35651_21	punct	35651_20
+35651_21	has_surface_form	/
+35651_22	is_in_sentence	sentence_35651
+35651_22	compound	35651_23
+35651_22	has_surface_form	punk
+35651_24	is_in_sentence	sentence_35651
+35651_24	det	35651_25
+35651_24	has_surface_form	The
+35651_24	part_of_entity	The Pogues
+35651_25	is_in_sentence	sentence_35651
+35651_25	dobj	35651_16
+35651_25	has_surface_form	Pogues
+35651_25	part_of_entity	The Pogues
+35651_26	is_in_sentence	sentence_35651
+35651_26	punct	35651_16
+35651_26	has_surface_form	.
+35651_27	is_in_sentence	sentence_35651
+35651_27	dep	35651_16
+35651_27	has_surface_form	
+James Fearnley	surface_form	James Fearnley
+James Fearnley	is-member-of	The Pogues
+The Pogues	surface_form	The Pogues

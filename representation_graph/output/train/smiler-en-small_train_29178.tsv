@@ -1,0 +1,64 @@
+29177_0	is_in_sentence	sentence_29177
+29177_0	compound	29177_1
+29177_0	has_surface_form	Frances
+29177_0	part_of_entity	Frances Bergen
+29177_1	is_in_sentence	sentence_29177
+29177_1	nsubj	29177_2
+29177_1	has_surface_form	Bergen
+29177_1	part_of_entity	Frances Bergen
+29177_2	is_in_sentence	sentence_29177
+29177_2	ROOT	29177_2
+29177_2	has_surface_form	was
+29177_3	is_in_sentence	sentence_29177
+29177_3	det	29177_4
+29177_3	has_surface_form	the
+29177_4	is_in_sentence	sentence_29177
+29177_4	attr	29177_2
+29177_4	has_surface_form	wife
+29177_5	is_in_sentence	sentence_29177
+29177_5	prep	29177_4
+29177_5	has_surface_form	of
+29177_6	is_in_sentence	sentence_29177
+29177_6	compound	29177_8
+29177_6	has_surface_form	ventriloquist
+29177_8	is_in_sentence	sentence_29177
+29177_8	pobj	29177_5
+29177_8	has_surface_form	Bergen
+29177_7	is_in_sentence	sentence_29177
+29177_7	compound	29177_8
+29177_7	has_surface_form	Edgar
+29177_9	is_in_sentence	sentence_29177
+29177_9	cc	29177_8
+29177_9	has_surface_form	and
+29177_10	is_in_sentence	sentence_29177
+29177_10	det	29177_11
+29177_10	has_surface_form	the
+29177_11	is_in_sentence	sentence_29177
+29177_11	conj	29177_8
+29177_11	has_surface_form	mother
+29177_12	is_in_sentence	sentence_29177
+29177_12	prep	29177_11
+29177_12	has_surface_form	of
+29177_13	is_in_sentence	sentence_29177
+29177_13	compound	29177_14
+29177_13	has_surface_form	television
+29177_14	is_in_sentence	sentence_29177
+29177_14	compound	29177_16
+29177_14	has_surface_form	editor
+29177_16	is_in_sentence	sentence_29177
+29177_16	pobj	29177_12
+29177_16	has_surface_form	Bergen
+29177_16	part_of_entity	Kris Bergen
+29177_15	is_in_sentence	sentence_29177
+29177_15	compound	29177_16
+29177_15	has_surface_form	Kris
+29177_15	part_of_entity	Kris Bergen
+29177_17	is_in_sentence	sentence_29177
+29177_17	punct	29177_2
+29177_17	has_surface_form	.
+29177_18	is_in_sentence	sentence_29177
+29177_18	dep	29177_2
+29177_18	has_surface_form	
+Frances Bergen	surface_form	Frances Bergen
+Frances Bergen	has-child	Kris Bergen
+Kris Bergen	surface_form	Kris Bergen

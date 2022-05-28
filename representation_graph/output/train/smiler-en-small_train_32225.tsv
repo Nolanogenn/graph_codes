@@ -1,0 +1,82 @@
+32224_0	is_in_sentence	sentence_32224
+32224_0	csubj	32224_4
+32224_0	has_surface_form	Be
+32224_0	part_of_entity	Be Our Guest Restaurant
+32224_4	is_in_sentence	sentence_32224
+32224_4	ROOT	32224_4
+32224_4	has_surface_form	is
+32224_1	is_in_sentence	sentence_32224
+32224_1	poss	32224_3
+32224_1	has_surface_form	Our
+32224_1	part_of_entity	Be Our Guest Restaurant
+32224_3	is_in_sentence	sentence_32224
+32224_3	attr	32224_0
+32224_3	has_surface_form	Restaurant
+32224_3	part_of_entity	Be Our Guest Restaurant
+32224_2	is_in_sentence	sentence_32224
+32224_2	compound	32224_3
+32224_2	has_surface_form	Guest
+32224_2	part_of_entity	Be Our Guest Restaurant
+32224_5	is_in_sentence	sentence_32224
+32224_5	det	32224_11
+32224_5	has_surface_form	a
+32224_11	is_in_sentence	sentence_32224
+32224_11	attr	32224_4
+32224_11	is_entity	restaurant
+32224_6	is_in_sentence	sentence_32224
+32224_6	amod	32224_11
+32224_6	has_surface_form	quick
+32224_7	is_in_sentence	sentence_32224
+32224_7	nmod	32224_11
+32224_7	has_surface_form	service
+32224_8	is_in_sentence	sentence_32224
+32224_8	cc	32224_7
+32224_8	has_surface_form	and
+32224_9	is_in_sentence	sentence_32224
+32224_9	conj	32224_7
+32224_9	has_surface_form	table
+32224_10	is_in_sentence	sentence_32224
+32224_10	compound	32224_11
+32224_10	has_surface_form	service
+restaurant	surface_form	restaurant
+32224_12	is_in_sentence	sentence_32224
+32224_12	prep	32224_11
+32224_12	has_surface_form	in
+32224_13	is_in_sentence	sentence_32224
+32224_13	pobj	32224_12
+32224_13	has_surface_form	Fantasyland
+32224_14	is_in_sentence	sentence_32224
+32224_14	prep	32224_11
+32224_14	has_surface_form	at
+32224_15	is_in_sentence	sentence_32224
+32224_15	compound	32224_16
+32224_15	has_surface_form	Magic
+32224_16	is_in_sentence	sentence_32224
+32224_16	pobj	32224_14
+32224_16	has_surface_form	Kingdom
+32224_17	is_in_sentence	sentence_32224
+32224_17	prep	32224_16
+32224_17	has_surface_form	in
+32224_18	is_in_sentence	sentence_32224
+32224_18	det	32224_22
+32224_18	has_surface_form	the
+32224_22	is_in_sentence	sentence_32224
+32224_22	pobj	32224_17
+32224_22	has_surface_form	Resort
+32224_19	is_in_sentence	sentence_32224
+32224_19	compound	32224_20
+32224_19	has_surface_form	Walt
+32224_20	is_in_sentence	sentence_32224
+32224_20	compound	32224_22
+32224_20	has_surface_form	Disney
+32224_21	is_in_sentence	sentence_32224
+32224_21	compound	32224_22
+32224_21	has_surface_form	World
+32224_23	is_in_sentence	sentence_32224
+32224_23	punct	32224_4
+32224_23	has_surface_form	.
+32224_24	is_in_sentence	sentence_32224
+32224_24	dep	32224_24
+32224_24	has_surface_form	
+Be Our Guest Restaurant	surface_form	Be Our Guest Restaurant
+Be Our Guest Restaurant	has-type	restaurant

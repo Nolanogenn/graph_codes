@@ -1,0 +1,89 @@
+7736_0	is_in_sentence	sentence_7736
+7736_0	compound	7736_2
+7736_0	has_surface_form	Intent
+7736_0	part_of_entity	Intent to Kill
+7736_2	is_in_sentence	sentence_7736
+7736_2	nsubj	7736_3
+7736_2	has_surface_form	Kill
+7736_2	part_of_entity	Intent to Kill
+7736_1	is_in_sentence	sentence_7736
+7736_1	aux	7736_2
+7736_1	has_surface_form	to
+7736_1	part_of_entity	Intent to Kill
+7736_3	is_in_sentence	sentence_7736
+7736_3	ROOT	7736_3
+7736_3	has_surface_form	is
+7736_4	is_in_sentence	sentence_7736
+7736_4	det	7736_10
+7736_4	has_surface_form	a
+7736_10	is_in_sentence	sentence_7736
+7736_10	attr	7736_3
+7736_10	has_surface_form	film
+7736_5	is_in_sentence	sentence_7736
+7736_5	nummod	7736_10
+7736_5	has_surface_form	1958
+7736_6	is_in_sentence	sentence_7736
+7736_6	amod	7736_10
+7736_6	has_surface_form	British
+7736_7	is_in_sentence	sentence_7736
+7736_7	compound	7736_8
+7736_7	has_surface_form	film
+7736_8	is_in_sentence	sentence_7736
+7736_8	compound	7736_10
+7736_8	has_surface_form	noir
+7736_9	is_in_sentence	sentence_7736
+7736_9	compound	7736_10
+7736_9	has_surface_form	thriller
+7736_11	is_in_sentence	sentence_7736
+7736_11	acl	7736_10
+7736_11	has_surface_form	directed
+7736_12	is_in_sentence	sentence_7736
+7736_12	agent	7736_11
+7736_12	has_surface_form	by
+7736_13	is_in_sentence	sentence_7736
+7736_13	compound	7736_14
+7736_13	has_surface_form	Jack
+7736_14	is_in_sentence	sentence_7736
+7736_14	pobj	7736_12
+7736_14	has_surface_form	Cardiff
+7736_15	is_in_sentence	sentence_7736
+7736_15	cc	7736_11
+7736_15	has_surface_form	and
+7736_16	is_in_sentence	sentence_7736
+7736_16	conj	7736_11
+7736_16	has_surface_form	starring
+7736_17	is_in_sentence	sentence_7736
+7736_17	compound	7736_18
+7736_17	has_surface_form	Richard
+7736_17	part_of_entity	Richard Todd
+7736_18	is_in_sentence	sentence_7736
+7736_18	dobj	7736_16
+7736_18	has_surface_form	Todd
+7736_18	part_of_entity	Richard Todd
+7736_19	is_in_sentence	sentence_7736
+7736_19	punct	7736_18
+7736_19	has_surface_form	,
+7736_20	is_in_sentence	sentence_7736
+7736_20	compound	7736_21
+7736_20	has_surface_form	Betsy
+7736_21	is_in_sentence	sentence_7736
+7736_21	conj	7736_18
+7736_21	has_surface_form	Drake
+7736_22	is_in_sentence	sentence_7736
+7736_22	cc	7736_21
+7736_22	has_surface_form	and
+7736_23	is_in_sentence	sentence_7736
+7736_23	compound	7736_24
+7736_23	has_surface_form	Herbert
+7736_24	is_in_sentence	sentence_7736
+7736_24	conj	7736_21
+7736_24	has_surface_form	Lom
+7736_25	is_in_sentence	sentence_7736
+7736_25	punct	7736_3
+7736_25	has_surface_form	.
+7736_26	is_in_sentence	sentence_7736
+7736_26	dep	7736_3
+7736_26	has_surface_form	
+Intent to Kill	surface_form	Intent to Kill
+Intent to Kill	starring	Richard Todd
+Richard Todd	surface_form	Richard Todd

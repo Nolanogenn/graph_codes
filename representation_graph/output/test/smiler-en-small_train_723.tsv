@@ -1,0 +1,84 @@
+722_0	is_in_sentence	sentence_722
+722_0	compound	722_2
+722_0	has_surface_form	Dokkyo
+722_0	part_of_entity	Dokkyo Medical University
+722_2	is_in_sentence	sentence_722
+722_2	nsubj	722_10
+722_2	has_surface_form	University
+722_2	part_of_entity	Dokkyo Medical University
+722_1	is_in_sentence	sentence_722
+722_1	compound	722_2
+722_1	has_surface_form	Medical
+722_1	part_of_entity	Dokkyo Medical University
+722_10	is_in_sentence	sentence_722
+722_10	ROOT	722_10
+722_10	has_surface_form	is
+722_3	is_in_sentence	sentence_722
+722_3	punct	722_2
+722_3	has_surface_form	(
+722_4	is_in_sentence	sentence_722
+722_4	appos	722_2
+722_4	has_surface_form	獨協医科大学
+722_5	is_in_sentence	sentence_722
+722_5	punct	722_4
+722_5	has_surface_form	,
+722_6	is_in_sentence	sentence_722
+722_6	nmod	722_8
+722_6	has_surface_form	Dokkyō
+722_8	is_in_sentence	sentence_722
+722_8	appos	722_4
+722_8	has_surface_form	daigaku
+722_7	is_in_sentence	sentence_722
+722_7	nmod	722_8
+722_7	has_surface_form	ika
+722_9	is_in_sentence	sentence_722
+722_9	punct	722_4
+722_9	has_surface_form	)
+722_11	is_in_sentence	sentence_722
+722_11	det	722_13
+722_11	has_surface_form	a
+722_13	is_in_sentence	sentence_722
+722_13	attr	722_10
+722_13	has_surface_form	university
+722_12	is_in_sentence	sentence_722
+722_12	amod	722_13
+722_12	has_surface_form	private
+722_14	is_in_sentence	sentence_722
+722_14	prep	722_13
+722_14	has_surface_form	in
+722_15	is_in_sentence	sentence_722
+722_15	pobj	722_14
+722_15	has_surface_form	Mibu
+722_16	is_in_sentence	sentence_722
+722_16	punct	722_15
+722_16	has_surface_form	,
+722_17	is_in_sentence	sentence_722
+722_17	conj	722_15
+722_17	has_surface_form	Tochigi
+722_18	is_in_sentence	sentence_722
+722_18	punct	722_17
+722_18	has_surface_form	,
+722_19	is_in_sentence	sentence_722
+722_19	appos	722_13
+722_19	has_surface_form	Japan
+722_20	is_in_sentence	sentence_722
+722_20	punct	722_19
+722_20	has_surface_form	,
+722_21	is_in_sentence	sentence_722
+722_21	acl	722_19
+722_21	has_surface_form	established
+722_22	is_in_sentence	sentence_722
+722_22	prep	722_21
+722_22	has_surface_form	in
+722_23	is_in_sentence	sentence_722
+722_23	pobj	722_22
+722_23	has_surface_form	1973
+722_24	is_in_sentence	sentence_722
+722_24	punct	722_10
+722_24	has_surface_form	.
+722_25	is_in_sentence	sentence_722
+722_25	dep	722_25
+722_25	has_surface_form	
+Dokkyo Medical University	surface_form	Dokkyo Medical University
+Dokkyo Medical University	is-where	Mibu, Tochigi
+Mibu, Tochigi	surface_form	Mibu, Tochigi

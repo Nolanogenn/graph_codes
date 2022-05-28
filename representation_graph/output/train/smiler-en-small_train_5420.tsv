@@ -1,0 +1,61 @@
+5419_0	is_in_sentence	sentence_5419
+5419_0	nsubj	5419_4
+5419_0	has_surface_form	Murder
+5419_0	part_of_entity	Murder at Monkey Hill
+5419_4	is_in_sentence	sentence_5419
+5419_4	ROOT	5419_4
+5419_4	has_surface_form	is
+5419_1	is_in_sentence	sentence_5419
+5419_1	prep	5419_0
+5419_1	has_surface_form	at
+5419_1	part_of_entity	Murder at Monkey Hill
+5419_2	is_in_sentence	sentence_5419
+5419_2	compound	5419_3
+5419_2	has_surface_form	Monkey
+5419_2	part_of_entity	Murder at Monkey Hill
+5419_3	is_in_sentence	sentence_5419
+5419_3	pobj	5419_1
+5419_3	has_surface_form	Hill
+5419_3	part_of_entity	Murder at Monkey Hill
+5419_5	is_in_sentence	sentence_5419
+5419_5	nummod	5419_7
+5419_5	has_surface_form	1976
+5419_7	is_in_sentence	sentence_5419
+5419_7	attr	5419_4
+5419_7	has_surface_form	film
+5419_6	is_in_sentence	sentence_5419
+5419_6	amod	5419_7
+5419_6	has_surface_form	Indian
+5419_8	is_in_sentence	sentence_5419
+5419_8	acl	5419_7
+5419_8	has_surface_form	written
+5419_9	is_in_sentence	sentence_5419
+5419_9	cc	5419_8
+5419_9	has_surface_form	and
+5419_10	is_in_sentence	sentence_5419
+5419_10	conj	5419_8
+5419_10	has_surface_form	directed
+5419_11	is_in_sentence	sentence_5419
+5419_11	agent	5419_10
+5419_11	has_surface_form	by
+5419_12	is_in_sentence	sentence_5419
+5419_12	compound	5419_14
+5419_12	has_surface_form	Vidhu
+5419_12	part_of_entity	Vidhu Vinod Chopra
+5419_14	is_in_sentence	sentence_5419
+5419_14	pobj	5419_11
+5419_14	has_surface_form	Chopra
+5419_14	part_of_entity	Vidhu Vinod Chopra
+5419_13	is_in_sentence	sentence_5419
+5419_13	compound	5419_14
+5419_13	has_surface_form	Vinod
+5419_13	part_of_entity	Vidhu Vinod Chopra
+5419_15	is_in_sentence	sentence_5419
+5419_15	punct	5419_4
+5419_15	has_surface_form	.
+5419_16	is_in_sentence	sentence_5419
+5419_16	dep	5419_16
+5419_16	has_surface_form	
+Murder at Monkey Hill	surface_form	Murder at Monkey Hill
+Murder at Monkey Hill	movie-has-director	Vidhu Vinod Chopra
+Vidhu Vinod Chopra	surface_form	Vidhu Vinod Chopra

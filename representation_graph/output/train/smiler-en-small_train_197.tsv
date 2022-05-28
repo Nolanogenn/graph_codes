@@ -1,0 +1,59 @@
+196_0	is_in_sentence	sentence_196
+196_0	compound	196_1
+196_0	has_surface_form	Pennsylvania
+196_0	part_of_entity	Pennsylvania Route 837
+196_1	is_in_sentence	sentence_196
+196_1	nsubj	196_7
+196_1	has_surface_form	Route
+196_1	part_of_entity	Pennsylvania Route 837
+196_7	is_in_sentence	sentence_196
+196_7	ROOT	196_7
+196_7	has_surface_form	is
+196_2	is_in_sentence	sentence_196
+196_2	nummod	196_1
+196_2	has_surface_form	837
+196_2	part_of_entity	Pennsylvania Route 837
+196_3	is_in_sentence	sentence_196
+196_3	punct	196_1
+196_3	has_surface_form	(
+196_4	is_in_sentence	sentence_196
+196_4	appos	196_1
+196_4	has_surface_form	PA
+196_5	is_in_sentence	sentence_196
+196_5	nummod	196_4
+196_5	has_surface_form	837
+196_6	is_in_sentence	sentence_196
+196_6	punct	196_4
+196_6	has_surface_form	)
+196_8	is_in_sentence	sentence_196
+196_8	det	196_10
+196_8	has_surface_form	a
+196_10	is_in_sentence	sentence_196
+196_10	attr	196_7
+196_10	has_surface_form	route
+196_10	part_of_entity	state route
+196_9	is_in_sentence	sentence_196
+196_9	compound	196_10
+196_9	has_surface_form	state
+196_9	part_of_entity	state route
+196_11	is_in_sentence	sentence_196
+196_11	acl	196_10
+196_11	has_surface_form	located
+196_12	is_in_sentence	sentence_196
+196_12	prep	196_11
+196_12	has_surface_form	in
+196_13	is_in_sentence	sentence_196
+196_13	amod	196_14
+196_13	has_surface_form	western
+196_14	is_in_sentence	sentence_196
+196_14	pobj	196_12
+196_14	has_surface_form	Pennsylvania
+196_15	is_in_sentence	sentence_196
+196_15	punct	196_7
+196_15	has_surface_form	.
+196_16	is_in_sentence	sentence_196
+196_16	dep	196_16
+196_16	has_surface_form	
+Pennsylvania Route 837	surface_form	Pennsylvania Route 837
+Pennsylvania Route 837	has-type	state route
+state route	surface_form	state route

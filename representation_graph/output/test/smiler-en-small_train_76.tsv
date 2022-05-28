@@ -1,0 +1,41 @@
+75_0	is_in_sentence	sentence_75
+75_0	compound	75_1
+75_0	has_surface_form	Orkhon
+75_0	part_of_entity	Orkhon University
+75_1	is_in_sentence	sentence_75
+75_1	nsubj	75_2
+75_1	has_surface_form	University
+75_1	part_of_entity	Orkhon University
+75_2	is_in_sentence	sentence_75
+75_2	ROOT	75_2
+75_2	has_surface_form	is
+75_3	is_in_sentence	sentence_75
+75_3	amod	75_5
+75_3	has_surface_form	nonprofit
+75_5	is_in_sentence	sentence_75
+75_5	attr	75_2
+75_5	is_entity	university
+75_4	is_in_sentence	sentence_75
+75_4	amod	75_5
+75_4	has_surface_form	private
+university	surface_form	university
+75_6	is_in_sentence	sentence_75
+75_6	prep	75_5
+75_6	has_surface_form	in
+75_7	is_in_sentence	sentence_75
+75_7	pobj	75_6
+75_7	has_surface_form	Ulaanbaatar
+75_8	is_in_sentence	sentence_75
+75_8	punct	75_7
+75_8	has_surface_form	,
+75_9	is_in_sentence	sentence_75
+75_9	appos	75_7
+75_9	has_surface_form	Mongolia
+75_10	is_in_sentence	sentence_75
+75_10	punct	75_2
+75_10	has_surface_form	.
+75_11	is_in_sentence	sentence_75
+75_11	dep	75_2
+75_11	has_surface_form	
+Orkhon University	surface_form	Orkhon University
+Orkhon University	has-type	university

@@ -1,0 +1,43 @@
+15005_0	is_in_sentence	sentence_15005
+15005_0	compound	15005_1
+15005_0	has_surface_form	Mia
+15005_0	part_of_entity	Mia Zachary
+15005_1	is_in_sentence	sentence_15005
+15005_1	nsubj	15005_2
+15005_1	has_surface_form	Zachary
+15005_1	part_of_entity	Mia Zachary
+15005_2	is_in_sentence	sentence_15005
+15005_2	ROOT	15005_2
+15005_2	has_surface_form	is
+15005_3	is_in_sentence	sentence_15005
+15005_3	det	15005_5
+15005_3	has_surface_form	an
+15005_5	is_in_sentence	sentence_15005
+15005_5	attr	15005_2
+15005_5	has_surface_form	author
+15005_4	is_in_sentence	sentence_15005
+15005_4	amod	15005_5
+15005_4	has_surface_form	American
+15005_6	is_in_sentence	sentence_15005
+15005_6	prep	15005_5
+15005_6	has_surface_form	of
+15005_7	is_in_sentence	sentence_15005
+15005_7	amod	15005_9
+15005_7	has_surface_form	contemporary
+15005_7	part_of_entity	contemporary romance
+15005_9	is_in_sentence	sentence_15005
+15005_9	pobj	15005_6
+15005_9	has_surface_form	novels
+15005_8	is_in_sentence	sentence_15005
+15005_8	compound	15005_9
+15005_8	has_surface_form	romance
+15005_8	part_of_entity	contemporary romance
+15005_10	is_in_sentence	sentence_15005
+15005_10	punct	15005_2
+15005_10	has_surface_form	.
+15005_11	is_in_sentence	sentence_15005
+15005_11	dep	15005_11
+15005_11	has_surface_form	
+Mia Zachary	surface_form	Mia Zachary
+Mia Zachary	has-genre	contemporary romance
+contemporary romance	surface_form	contemporary romance

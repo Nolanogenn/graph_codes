@@ -1,0 +1,85 @@
+26476_0	is_in_sentence	sentence_26476
+26476_0	compound	26476_1
+26476_0	has_surface_form	Debra
+26476_0	part_of_entity	Debra Doyle
+26476_1	is_in_sentence	sentence_26476
+26476_1	nsubj	26476_6
+26476_1	has_surface_form	Doyle
+26476_1	part_of_entity	Debra Doyle
+26476_6	is_in_sentence	sentence_26476
+26476_6	ROOT	26476_6
+26476_6	has_surface_form	is
+26476_2	is_in_sentence	sentence_26476
+26476_2	punct	26476_1
+26476_2	has_surface_form	(
+26476_3	is_in_sentence	sentence_26476
+26476_3	acl	26476_1
+26476_3	has_surface_form	born
+26476_4	is_in_sentence	sentence_26476
+26476_4	npadvmod	26476_3
+26476_4	has_surface_form	1952
+26476_5	is_in_sentence	sentence_26476
+26476_5	punct	26476_1
+26476_5	has_surface_form	)
+26476_7	is_in_sentence	sentence_26476
+26476_7	det	26476_9
+26476_7	has_surface_form	an
+26476_9	is_in_sentence	sentence_26476
+26476_9	attr	26476_6
+26476_9	has_surface_form	author
+26476_8	is_in_sentence	sentence_26476
+26476_8	amod	26476_9
+26476_8	has_surface_form	American
+26476_10	is_in_sentence	sentence_26476
+26476_10	acl	26476_9
+26476_10	has_surface_form	writing
+26476_11	is_in_sentence	sentence_26476
+26476_11	prep	26476_10
+26476_11	has_surface_form	in
+26476_12	is_in_sentence	sentence_26476
+26476_12	amod	26476_14
+26476_12	has_surface_form	multiple
+26476_14	is_in_sentence	sentence_26476
+26476_14	pobj	26476_11
+26476_14	has_surface_form	genres
+26476_13	is_in_sentence	sentence_26476
+26476_13	amod	26476_14
+26476_13	has_surface_form	related
+26476_15	is_in_sentence	sentence_26476
+26476_15	punct	26476_14
+26476_15	has_surface_form	,
+26476_16	is_in_sentence	sentence_26476
+26476_16	prep	26476_14
+26476_16	has_surface_form	including
+26476_17	is_in_sentence	sentence_26476
+26476_17	compound	26476_18
+26476_17	has_surface_form	science
+26476_17	part_of_entity	science fiction
+26476_18	is_in_sentence	sentence_26476
+26476_18	pobj	26476_16
+26476_18	has_surface_form	fiction
+26476_18	part_of_entity	science fiction
+26476_19	is_in_sentence	sentence_26476
+26476_19	punct	26476_18
+26476_19	has_surface_form	,
+26476_20	is_in_sentence	sentence_26476
+26476_20	conj	26476_18
+26476_20	has_surface_form	fantasy
+26476_21	is_in_sentence	sentence_26476
+26476_21	punct	26476_20
+26476_21	has_surface_form	,
+26476_22	is_in_sentence	sentence_26476
+26476_22	cc	26476_20
+26476_22	has_surface_form	and
+26476_23	is_in_sentence	sentence_26476
+26476_23	conj	26476_20
+26476_23	has_surface_form	mystery
+26476_24	is_in_sentence	sentence_26476
+26476_24	punct	26476_6
+26476_24	has_surface_form	.
+26476_25	is_in_sentence	sentence_26476
+26476_25	dep	26476_25
+26476_25	has_surface_form	
+Debra Doyle	surface_form	Debra Doyle
+Debra Doyle	has-genre	science fiction
+science fiction	surface_form	science fiction

@@ -1,0 +1,101 @@
+30008_0	is_in_sentence	sentence_30008
+30008_0	compound	30008_1
+30008_0	has_surface_form	Pennsylvania
+30008_0	part_of_entity	Pennsylvania Route 221
+30008_1	is_in_sentence	sentence_30008
+30008_1	nsubj	30008_7
+30008_1	has_surface_form	Route
+30008_1	part_of_entity	Pennsylvania Route 221
+30008_7	is_in_sentence	sentence_30008
+30008_7	ROOT	30008_7
+30008_7	has_surface_form	is
+30008_2	is_in_sentence	sentence_30008
+30008_2	nummod	30008_1
+30008_2	has_surface_form	221
+30008_2	part_of_entity	Pennsylvania Route 221
+30008_3	is_in_sentence	sentence_30008
+30008_3	punct	30008_1
+30008_3	has_surface_form	(
+30008_4	is_in_sentence	sentence_30008
+30008_4	appos	30008_1
+30008_4	has_surface_form	PA
+30008_5	is_in_sentence	sentence_30008
+30008_5	nummod	30008_4
+30008_5	has_surface_form	221
+30008_6	is_in_sentence	sentence_30008
+30008_6	punct	30008_4
+30008_6	has_surface_form	)
+30008_8	is_in_sentence	sentence_30008
+30008_8	det	30008_20
+30008_8	has_surface_form	a
+30008_20	is_in_sentence	sentence_30008
+30008_20	attr	30008_7
+30008_20	has_surface_form	highway
+30008_20	part_of_entity	state highway
+30008_9	is_in_sentence	sentence_30008
+30008_9	nummod	30008_11
+30008_9	has_surface_form	31
+30008_11	is_in_sentence	sentence_30008
+30008_11	npadvmod	30008_13
+30008_11	has_surface_form	mile
+30008_10	is_in_sentence	sentence_30008
+30008_10	punct	30008_11
+30008_10	has_surface_form	-
+30008_13	is_in_sentence	sentence_30008
+30008_13	amod	30008_20
+30008_13	has_surface_form	long
+30008_12	is_in_sentence	sentence_30008
+30008_12	punct	30008_13
+30008_12	has_surface_form	-
+30008_14	is_in_sentence	sentence_30008
+30008_14	punct	30008_20
+30008_14	has_surface_form	(
+30008_15	is_in_sentence	sentence_30008
+30008_15	nummod	30008_20
+30008_15	has_surface_form	50
+30008_16	is_in_sentence	sentence_30008
+30008_16	dep	30008_20
+30008_16	has_surface_form	 
+30008_17	is_in_sentence	sentence_30008
+30008_17	nmod	30008_20
+30008_17	has_surface_form	km
+30008_18	is_in_sentence	sentence_30008
+30008_18	punct	30008_20
+30008_18	has_surface_form	)
+30008_19	is_in_sentence	sentence_30008
+30008_19	compound	30008_20
+30008_19	has_surface_form	state
+30008_19	part_of_entity	state highway
+30008_21	is_in_sentence	sentence_30008
+30008_21	acl	30008_20
+30008_21	has_surface_form	located
+30008_22	is_in_sentence	sentence_30008
+30008_22	prep	30008_21
+30008_22	has_surface_form	in
+30008_23	is_in_sentence	sentence_30008
+30008_23	pobj	30008_22
+30008_23	has_surface_form	Greene
+30008_24	is_in_sentence	sentence_30008
+30008_24	cc	30008_23
+30008_24	has_surface_form	and
+30008_25	is_in_sentence	sentence_30008
+30008_25	compound	30008_26
+30008_25	has_surface_form	Washington
+30008_26	is_in_sentence	sentence_30008
+30008_26	conj	30008_23
+30008_26	has_surface_form	Counties
+30008_27	is_in_sentence	sentence_30008
+30008_27	prep	30008_21
+30008_27	has_surface_form	in
+30008_28	is_in_sentence	sentence_30008
+30008_28	pobj	30008_27
+30008_28	has_surface_form	Pennsylvania
+30008_29	is_in_sentence	sentence_30008
+30008_29	punct	30008_7
+30008_29	has_surface_form	.
+30008_30	is_in_sentence	sentence_30008
+30008_30	dep	30008_30
+30008_30	has_surface_form	
+Pennsylvania Route 221	surface_form	Pennsylvania Route 221
+Pennsylvania Route 221	has-type	state highway
+state highway	surface_form	state highway

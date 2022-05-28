@@ -1,0 +1,62 @@
+20914_0	is_in_sentence	sentence_20914
+20914_0	compound	20914_1
+20914_0	has_surface_form	Santa
+20914_0	part_of_entity	Santa Cruz
+20914_1	is_in_sentence	sentence_20914
+20914_1	nsubj	20914_2
+20914_1	has_surface_form	Cruz
+20914_1	part_of_entity	Santa Cruz
+20914_2	is_in_sentence	sentence_20914
+20914_2	ROOT	20914_2
+20914_2	has_surface_form	contains
+20914_3	is_in_sentence	sentence_20914
+20914_3	det	20914_7
+20914_3	has_surface_form	the
+20914_7	is_in_sentence	sentence_20914
+20914_7	dobj	20914_2
+20914_7	has_surface_form	Tenerife
+20914_7	part_of_entity	Auditorio de Tenerife
+20914_4	is_in_sentence	sentence_20914
+20914_4	amod	20914_7
+20914_4	has_surface_form	modern
+20914_5	is_in_sentence	sentence_20914
+20914_5	compound	20914_7
+20914_5	has_surface_form	Auditorio
+20914_5	part_of_entity	Auditorio de Tenerife
+20914_6	is_in_sentence	sentence_20914
+20914_6	compound	20914_7
+20914_6	has_surface_form	de
+20914_6	part_of_entity	Auditorio de Tenerife
+20914_8	is_in_sentence	sentence_20914
+20914_8	punct	20914_7
+20914_8	has_surface_form	,
+20914_9	is_in_sentence	sentence_20914
+20914_9	det	20914_11
+20914_9	has_surface_form	the
+20914_11	is_in_sentence	sentence_20914
+20914_11	appos	20914_7
+20914_11	has_surface_form	symbol
+20914_10	is_in_sentence	sentence_20914
+20914_10	amod	20914_11
+20914_10	has_surface_form	architectural
+20914_12	is_in_sentence	sentence_20914
+20914_12	prep	20914_11
+20914_12	has_surface_form	of
+20914_13	is_in_sentence	sentence_20914
+20914_13	det	20914_15
+20914_13	has_surface_form	the
+20914_15	is_in_sentence	sentence_20914
+20914_15	pobj	20914_12
+20914_15	has_surface_form	Islands
+20914_14	is_in_sentence	sentence_20914
+20914_14	compound	20914_15
+20914_14	has_surface_form	Canary
+20914_16	is_in_sentence	sentence_20914
+20914_16	punct	20914_2
+20914_16	has_surface_form	.
+20914_17	is_in_sentence	sentence_20914
+20914_17	dep	20914_2
+20914_17	has_surface_form	
+Santa Cruz	surface_form	Santa Cruz
+Santa Cruz	has-tourist-attraction	Auditorio de Tenerife
+Auditorio de Tenerife	surface_form	Auditorio de Tenerife

@@ -1,0 +1,53 @@
+6102_0	is_in_sentence	sentence_6102
+6102_0	compound	6102_1
+6102_0	has_surface_form	Pat
+6102_0	part_of_entity	Pat Cupp
+6102_1	is_in_sentence	sentence_6102
+6102_1	nsubj	6102_9
+6102_1	has_surface_form	Cupp
+6102_1	part_of_entity	Pat Cupp
+6102_9	is_in_sentence	sentence_6102
+6102_9	ROOT	6102_9
+6102_9	has_surface_form	is
+6102_2	is_in_sentence	sentence_6102
+6102_2	punct	6102_1
+6102_2	has_surface_form	(
+6102_3	is_in_sentence	sentence_6102
+6102_3	acl	6102_1
+6102_3	has_surface_form	born
+6102_4	is_in_sentence	sentence_6102
+6102_4	npadvmod	6102_3
+6102_4	has_surface_form	January
+6102_5	is_in_sentence	sentence_6102
+6102_5	nummod	6102_4
+6102_5	has_surface_form	21
+6102_6	is_in_sentence	sentence_6102
+6102_6	punct	6102_4
+6102_6	has_surface_form	,
+6102_7	is_in_sentence	sentence_6102
+6102_7	nummod	6102_4
+6102_7	has_surface_form	1938
+6102_8	is_in_sentence	sentence_6102
+6102_8	punct	6102_1
+6102_8	has_surface_form	)
+6102_10	is_in_sentence	sentence_6102
+6102_10	det	6102_13
+6102_10	has_surface_form	an
+6102_13	is_in_sentence	sentence_6102
+6102_13	attr	6102_9
+6102_13	has_surface_form	guitarist
+6102_11	is_in_sentence	sentence_6102
+6102_11	amod	6102_13
+6102_11	has_surface_form	American
+6102_12	is_in_sentence	sentence_6102
+6102_12	advmod	6102_13
+6102_12	is_entity	rockabilly
+rockabilly	surface_form	rockabilly
+6102_14	is_in_sentence	sentence_6102
+6102_14	punct	6102_9
+6102_14	has_surface_form	.
+6102_15	is_in_sentence	sentence_6102
+6102_15	dep	6102_15
+6102_15	has_surface_form	
+Pat Cupp	surface_form	Pat Cupp
+Pat Cupp	has-genre	rockabilly

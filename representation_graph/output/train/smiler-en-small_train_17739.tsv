@@ -1,0 +1,55 @@
+17738_0	is_in_sentence	sentence_17738
+17738_0	compound	17738_1
+17738_0	has_surface_form	Vincent
+17738_0	part_of_entity	Vincent Paronnaud
+17738_1	is_in_sentence	sentence_17738
+17738_1	nsubjpass	17738_10
+17738_1	has_surface_form	Paronnaud
+17738_1	part_of_entity	Vincent Paronnaud
+17738_10	is_in_sentence	sentence_17738
+17738_10	ROOT	17738_10
+17738_10	has_surface_form	born
+17738_2	is_in_sentence	sentence_17738
+17738_2	punct	17738_1
+17738_2	has_surface_form	(
+17738_3	is_in_sentence	sentence_17738
+17738_3	acl	17738_1
+17738_3	has_surface_form	born
+17738_4	is_in_sentence	sentence_17738
+17738_4	npadvmod	17738_3
+17738_4	has_surface_form	1970
+17738_5	is_in_sentence	sentence_17738
+17738_5	punct	17738_1
+17738_5	has_surface_form	)
+17738_6	is_in_sentence	sentence_17738
+17738_6	punct	17738_1
+17738_6	has_surface_form	,
+17738_7	is_in_sentence	sentence_17738
+17738_7	compound	17738_8
+17738_7	has_surface_form	a.
+17738_8	is_in_sentence	sentence_17738
+17738_8	nsubjpass	17738_10
+17738_8	has_surface_form	Paronnaud
+17738_9	is_in_sentence	sentence_17738
+17738_9	auxpass	17738_10
+17738_9	has_surface_form	was
+17738_11	is_in_sentence	sentence_17738
+17738_11	prep	17738_10
+17738_11	has_surface_form	in
+17738_12	is_in_sentence	sentence_17738
+17738_12	compound	17738_13
+17738_12	has_surface_form	La
+17738_12	part_of_entity	La Rochelle
+17738_13	is_in_sentence	sentence_17738
+17738_13	pobj	17738_11
+17738_13	has_surface_form	Rochelle
+17738_13	part_of_entity	La Rochelle
+17738_14	is_in_sentence	sentence_17738
+17738_14	punct	17738_10
+17738_14	has_surface_form	.
+17738_15	is_in_sentence	sentence_17738
+17738_15	dep	17738_15
+17738_15	has_surface_form	
+Vincent Paronnaud	surface_form	Vincent Paronnaud
+Vincent Paronnaud	birth-place	La Rochelle
+La Rochelle	surface_form	La Rochelle

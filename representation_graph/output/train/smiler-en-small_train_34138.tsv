@@ -1,0 +1,71 @@
+34137_0	is_in_sentence	sentence_34137
+34137_0	det	34137_1
+34137_0	has_surface_form	The
+34137_1	is_in_sentence	sentence_34137
+34137_1	nsubjpass	34137_7
+34137_1	has_surface_form	lifespan
+34137_7	is_in_sentence	sentence_34137
+34137_7	ccomp	34137_10
+34137_7	has_surface_form	known
+34137_2	is_in_sentence	sentence_34137
+34137_2	prep	34137_1
+34137_2	has_surface_form	of
+34137_3	is_in_sentence	sentence_34137
+34137_3	amod	34137_4
+34137_3	has_surface_form	blue
+34137_3	part_of_entity	blue whales
+34137_4	is_in_sentence	sentence_34137
+34137_4	pobj	34137_2
+34137_4	has_surface_form	whales
+34137_4	part_of_entity	blue whales
+34137_5	is_in_sentence	sentence_34137
+34137_5	auxpass	34137_7
+34137_5	has_surface_form	is
+34137_6	is_in_sentence	sentence_34137
+34137_6	neg	34137_7
+34137_6	has_surface_form	not
+34137_10	is_in_sentence	sentence_34137
+34137_10	ROOT	34137_10
+34137_10	has_surface_form	estimate
+34137_8	is_in_sentence	sentence_34137
+34137_8	punct	34137_10
+34137_8	has_surface_form	;
+34137_9	is_in_sentence	sentence_34137
+34137_9	nsubj	34137_10
+34137_9	has_surface_form	scientists
+34137_11	is_in_sentence	sentence_34137
+34137_11	mark	34137_14
+34137_11	has_surface_form	that
+34137_14	is_in_sentence	sentence_34137
+34137_14	ccomp	34137_10
+34137_14	has_surface_form	live
+34137_12	is_in_sentence	sentence_34137
+34137_12	nsubj	34137_14
+34137_12	has_surface_form	they
+34137_13	is_in_sentence	sentence_34137
+34137_13	aux	34137_14
+34137_13	has_surface_form	can
+34137_15	is_in_sentence	sentence_34137
+34137_15	prep	34137_14
+34137_15	has_surface_form	for
+34137_16	is_in_sentence	sentence_34137
+34137_16	quantmod	34137_18
+34137_16	has_surface_form	80
+34137_18	is_in_sentence	sentence_34137
+34137_18	nummod	34137_19
+34137_18	has_surface_form	90
+34137_17	is_in_sentence	sentence_34137
+34137_17	punct	34137_18
+34137_17	has_surface_form	-
+34137_19	is_in_sentence	sentence_34137
+34137_19	pobj	34137_15
+34137_19	has_surface_form	years
+34137_20	is_in_sentence	sentence_34137
+34137_20	punct	34137_10
+34137_20	has_surface_form	.
+34137_21	is_in_sentence	sentence_34137
+34137_21	dep	34137_21
+34137_21	has_surface_form	
+blue whales	surface_form	blue whales
+blue whales	has-lifespan	80-90 years
+80-90 years	surface_form	80-90 years

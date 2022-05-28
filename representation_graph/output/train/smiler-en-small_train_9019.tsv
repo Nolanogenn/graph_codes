@@ -1,0 +1,87 @@
+9018_0	is_in_sentence	sentence_9018
+9018_0	det	9018_2
+9018_0	has_surface_form	The
+9018_0	part_of_entity	The Russky Bridge
+9018_2	is_in_sentence	sentence_9018
+9018_2	nsubj	9018_12
+9018_2	has_surface_form	Bridge
+9018_2	part_of_entity	The Russky Bridge
+9018_1	is_in_sentence	sentence_9018
+9018_1	compound	9018_2
+9018_1	has_surface_form	Russky
+9018_1	part_of_entity	The Russky Bridge
+9018_12	is_in_sentence	sentence_9018
+9018_12	ROOT	9018_12
+9018_12	has_surface_form	is
+9018_3	is_in_sentence	sentence_9018
+9018_3	punct	9018_4
+9018_3	has_surface_form	(
+9018_4	is_in_sentence	sentence_9018
+9018_4	appos	9018_2
+9018_4	has_surface_form	Russian
+9018_5	is_in_sentence	sentence_9018
+9018_5	punct	9018_4
+9018_5	has_surface_form	:
+9018_6	is_in_sentence	sentence_9018
+9018_6	compound	9018_7
+9018_6	has_surface_form	Русский
+9018_7	is_in_sentence	sentence_9018
+9018_7	appos	9018_2
+9018_7	has_surface_form	мост
+9018_8	is_in_sentence	sentence_9018
+9018_8	punct	9018_7
+9018_8	has_surface_form	,
+9018_9	is_in_sentence	sentence_9018
+9018_9	compound	9018_10
+9018_9	has_surface_form	Russian
+9018_10	is_in_sentence	sentence_9018
+9018_10	appos	9018_7
+9018_10	has_surface_form	Bridge
+9018_11	is_in_sentence	sentence_9018
+9018_11	punct	9018_7
+9018_11	has_surface_form	)
+9018_13	is_in_sentence	sentence_9018
+9018_13	det	9018_17
+9018_13	has_surface_form	a
+9018_17	is_in_sentence	sentence_9018
+9018_17	attr	9018_12
+9018_17	has_surface_form	bridge
+9018_14	is_in_sentence	sentence_9018
+9018_14	npadvmod	9018_16
+9018_14	has_surface_form	cable
+9018_16	is_in_sentence	sentence_9018
+9018_16	amod	9018_17
+9018_16	has_surface_form	stayed
+9018_15	is_in_sentence	sentence_9018
+9018_15	punct	9018_16
+9018_15	has_surface_form	-
+9018_18	is_in_sentence	sentence_9018
+9018_18	prep	9018_17
+9018_18	has_surface_form	in
+9018_19	is_in_sentence	sentence_9018
+9018_19	pobj	9018_18
+9018_19	has_surface_form	Vladivostok
+9018_20	is_in_sentence	sentence_9018
+9018_20	punct	9018_19
+9018_20	has_surface_form	,
+9018_21	is_in_sentence	sentence_9018
+9018_21	compound	9018_22
+9018_21	has_surface_form	Primorsky
+9018_22	is_in_sentence	sentence_9018
+9018_22	conj	9018_19
+9018_22	has_surface_form	Krai
+9018_23	is_in_sentence	sentence_9018
+9018_23	punct	9018_22
+9018_23	has_surface_form	,
+9018_24	is_in_sentence	sentence_9018
+9018_24	appos	9018_22
+9018_24	has_surface_form	Russia
+9018_25	is_in_sentence	sentence_9018
+9018_25	punct	9018_12
+9018_25	has_surface_form	.
+9018_26	is_in_sentence	sentence_9018
+9018_26	dep	9018_12
+9018_26	has_surface_form	
+The Russky Bridge	surface_form	The Russky Bridge
+The Russky Bridge	has-type	cable-stayed bridge
+cable-stayed bridge	surface_form	cable-stayed bridge

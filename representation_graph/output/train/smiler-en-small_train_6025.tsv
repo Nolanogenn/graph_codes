@@ -1,0 +1,53 @@
+6024_0	is_in_sentence	sentence_6024
+6024_0	compound	6024_1
+6024_0	has_surface_form	Paul
+6024_0	part_of_entity	Paul Doucet
+6024_1	is_in_sentence	sentence_6024
+6024_1	nsubj	6024_10
+6024_1	has_surface_form	Doucet
+6024_1	part_of_entity	Paul Doucet
+6024_10	is_in_sentence	sentence_6024
+6024_10	ROOT	6024_10
+6024_10	has_surface_form	is
+6024_2	is_in_sentence	sentence_6024
+6024_2	punct	6024_3
+6024_2	has_surface_form	(
+6024_3	is_in_sentence	sentence_6024
+6024_3	parataxis	6024_1
+6024_3	has_surface_form	born
+6024_4	is_in_sentence	sentence_6024
+6024_4	npadvmod	6024_3
+6024_4	has_surface_form	1970
+6024_5	is_in_sentence	sentence_6024
+6024_5	prep	6024_3
+6024_5	has_surface_form	in
+6024_6	is_in_sentence	sentence_6024
+6024_6	pobj	6024_5
+6024_6	is_entity	Montreal
+Montreal	surface_form	Montreal
+6024_7	is_in_sentence	sentence_6024
+6024_7	punct	6024_6
+6024_7	has_surface_form	,
+6024_8	is_in_sentence	sentence_6024
+6024_8	appos	6024_6
+6024_8	has_surface_form	Quebec
+6024_9	is_in_sentence	sentence_6024
+6024_9	punct	6024_1
+6024_9	has_surface_form	)
+6024_11	is_in_sentence	sentence_6024
+6024_11	det	6024_13
+6024_11	has_surface_form	a
+6024_13	is_in_sentence	sentence_6024
+6024_13	attr	6024_10
+6024_13	has_surface_form	actor
+6024_12	is_in_sentence	sentence_6024
+6024_12	amod	6024_13
+6024_12	has_surface_form	Canadian
+6024_14	is_in_sentence	sentence_6024
+6024_14	punct	6024_10
+6024_14	has_surface_form	.
+6024_15	is_in_sentence	sentence_6024
+6024_15	dep	6024_10
+6024_15	has_surface_form	
+Paul Doucet	surface_form	Paul Doucet
+Paul Doucet	birth-place	Montreal

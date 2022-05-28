@@ -1,0 +1,88 @@
+1258_0	is_in_sentence	sentence_1258
+1258_0	det	1258_3
+1258_0	has_surface_form	The
+1258_3	is_in_sentence	sentence_1258
+1258_3	nsubj	1258_11
+1258_3	has_surface_form	Alliance
+1258_3	part_of_entity	Islamic Salafi Alliance
+1258_1	is_in_sentence	sentence_1258
+1258_1	compound	1258_3
+1258_1	has_surface_form	Islamic
+1258_1	part_of_entity	Islamic Salafi Alliance
+1258_2	is_in_sentence	sentence_1258
+1258_2	compound	1258_3
+1258_2	has_surface_form	Salafi
+1258_2	part_of_entity	Islamic Salafi Alliance
+1258_11	is_in_sentence	sentence_1258
+1258_11	ROOT	1258_11
+1258_11	has_surface_form	is
+1258_4	is_in_sentence	sentence_1258
+1258_4	punct	1258_5
+1258_4	has_surface_form	(
+1258_5	is_in_sentence	sentence_1258
+1258_5	appos	1258_3
+1258_5	has_surface_form	Arabic
+1258_6	is_in_sentence	sentence_1258
+1258_6	punct	1258_5
+1258_6	has_surface_form	:
+1258_7	is_in_sentence	sentence_1258
+1258_7	compound	1258_8
+1258_7	has_surface_form	التحالف
+1258_8	is_in_sentence	sentence_1258
+1258_8	compound	1258_9
+1258_8	has_surface_form	الإسلامي
+1258_9	is_in_sentence	sentence_1258
+1258_9	appos	1258_5
+1258_9	has_surface_form	السلفي
+1258_10	is_in_sentence	sentence_1258
+1258_10	punct	1258_5
+1258_10	has_surface_form	)
+1258_12	is_in_sentence	sentence_1258
+1258_12	det	1258_15
+1258_12	has_surface_form	a
+1258_15	is_in_sentence	sentence_1258
+1258_15	attr	1258_11
+1258_15	has_surface_form	party
+1258_13	is_in_sentence	sentence_1258
+1258_13	nmod	1258_15
+1258_13	has_surface_form	Salafi
+1258_14	is_in_sentence	sentence_1258
+1258_14	amod	1258_15
+1258_14	has_surface_form	political
+1258_16	is_in_sentence	sentence_1258
+1258_16	prep	1258_15
+1258_16	has_surface_form	in
+1258_17	is_in_sentence	sentence_1258
+1258_17	pobj	1258_16
+1258_17	has_surface_form	Kuwait
+1258_18	is_in_sentence	sentence_1258
+1258_18	acl	1258_15
+1258_18	has_surface_form	headed
+1258_19	is_in_sentence	sentence_1258
+1258_19	agent	1258_18
+1258_19	has_surface_form	by
+1258_20	is_in_sentence	sentence_1258
+1258_20	compound	1258_23
+1258_20	has_surface_form	Khaled
+1258_20	part_of_entity	Khaled AlـSultan Bin Essa
+1258_23	is_in_sentence	sentence_1258
+1258_23	pobj	1258_19
+1258_23	has_surface_form	Essa
+1258_23	part_of_entity	Khaled AlـSultan Bin Essa
+1258_21	is_in_sentence	sentence_1258
+1258_21	compound	1258_23
+1258_21	has_surface_form	AlـSultan
+1258_21	part_of_entity	Khaled AlـSultan Bin Essa
+1258_22	is_in_sentence	sentence_1258
+1258_22	compound	1258_23
+1258_22	has_surface_form	Bin
+1258_22	part_of_entity	Khaled AlـSultan Bin Essa
+1258_24	is_in_sentence	sentence_1258
+1258_24	punct	1258_11
+1258_24	has_surface_form	.
+1258_25	is_in_sentence	sentence_1258
+1258_25	dep	1258_11
+1258_25	has_surface_form	
+Islamic Salafi Alliance	surface_form	Islamic Salafi Alliance
+Islamic Salafi Alliance	org-leader	Khaled AlـSultan Bin Essa
+Khaled AlـSultan Bin Essa	surface_form	Khaled AlـSultan Bin Essa

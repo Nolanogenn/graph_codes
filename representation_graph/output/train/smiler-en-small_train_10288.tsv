@@ -1,0 +1,86 @@
+10287_0	is_in_sentence	sentence_10287
+10287_0	compound	10287_1
+10287_0	has_surface_form	Carlos
+10287_0	part_of_entity	Carlos Tosca
+10287_1	is_in_sentence	sentence_10287
+10287_1	nsubj	10287_15
+10287_1	has_surface_form	Tosca
+10287_1	part_of_entity	Carlos Tosca
+10287_15	is_in_sentence	sentence_10287
+10287_15	ROOT	10287_15
+10287_15	has_surface_form	is
+10287_2	is_in_sentence	sentence_10287
+10287_2	punct	10287_1
+10287_2	has_surface_form	(
+10287_3	is_in_sentence	sentence_10287
+10287_3	acl	10287_1
+10287_3	has_surface_form	born
+10287_4	is_in_sentence	sentence_10287
+10287_4	npadvmod	10287_3
+10287_4	has_surface_form	September
+10287_5	is_in_sentence	sentence_10287
+10287_5	nummod	10287_4
+10287_5	has_surface_form	29
+10287_6	is_in_sentence	sentence_10287
+10287_6	punct	10287_4
+10287_6	has_surface_form	,
+10287_7	is_in_sentence	sentence_10287
+10287_7	appos	10287_4
+10287_7	has_surface_form	1953
+10287_8	is_in_sentence	sentence_10287
+10287_8	prep	10287_3
+10287_8	has_surface_form	in
+10287_9	is_in_sentence	sentence_10287
+10287_9	compound	10287_11
+10287_9	has_surface_form	Pinar
+10287_9	part_of_entity	Pinar del Río
+10287_11	is_in_sentence	sentence_10287
+10287_11	pobj	10287_8
+10287_11	has_surface_form	Río
+10287_11	part_of_entity	Pinar del Río
+10287_10	is_in_sentence	sentence_10287
+10287_10	compound	10287_11
+10287_10	has_surface_form	del
+10287_10	part_of_entity	Pinar del Río
+10287_12	is_in_sentence	sentence_10287
+10287_12	punct	10287_11
+10287_12	has_surface_form	,
+10287_13	is_in_sentence	sentence_10287
+10287_13	appos	10287_11
+10287_13	has_surface_form	Cuba
+10287_14	is_in_sentence	sentence_10287
+10287_14	punct	10287_11
+10287_14	has_surface_form	)
+10287_16	is_in_sentence	sentence_10287
+10287_16	det	10287_19
+10287_16	has_surface_form	the
+10287_19	is_in_sentence	sentence_10287
+10287_19	attr	10287_15
+10287_19	has_surface_form	coach
+10287_17	is_in_sentence	sentence_10287
+10287_17	amod	10287_19
+10287_17	has_surface_form	current
+10287_18	is_in_sentence	sentence_10287
+10287_18	compound	10287_19
+10287_18	has_surface_form	Field
+10287_20	is_in_sentence	sentence_10287
+10287_20	prep	10287_19
+10287_20	has_surface_form	for
+10287_21	is_in_sentence	sentence_10287
+10287_21	det	10287_23
+10287_21	has_surface_form	the
+10287_23	is_in_sentence	sentence_10287
+10287_23	pobj	10287_20
+10287_23	has_surface_form	Orioles
+10287_22	is_in_sentence	sentence_10287
+10287_22	compound	10287_23
+10287_22	has_surface_form	GCL
+10287_24	is_in_sentence	sentence_10287
+10287_24	punct	10287_15
+10287_24	has_surface_form	.
+10287_25	is_in_sentence	sentence_10287
+10287_25	dep	10287_15
+10287_25	has_surface_form	
+Carlos Tosca	surface_form	Carlos Tosca
+Carlos Tosca	birth-place	Pinar del Río
+Pinar del Río	surface_form	Pinar del Río

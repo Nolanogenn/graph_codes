@@ -1,0 +1,44 @@
+10829_0	is_in_sentence	sentence_10829
+10829_0	compound	10829_1
+10829_0	has_surface_form	Merritt
+10829_0	part_of_entity	Merritt College
+10829_1	is_in_sentence	sentence_10829
+10829_1	nsubj	10829_2
+10829_1	has_surface_form	College
+10829_1	part_of_entity	Merritt College
+10829_2	is_in_sentence	sentence_10829
+10829_2	ROOT	10829_2
+10829_2	has_surface_form	is
+10829_3	is_in_sentence	sentence_10829
+10829_3	det	10829_6
+10829_3	has_surface_form	a
+10829_6	is_in_sentence	sentence_10829
+10829_6	attr	10829_2
+10829_6	has_surface_form	college
+10829_4	is_in_sentence	sentence_10829
+10829_4	amod	10829_5
+10829_4	has_surface_form	public
+10829_5	is_in_sentence	sentence_10829
+10829_5	compound	10829_6
+10829_5	has_surface_form	community
+10829_7	is_in_sentence	sentence_10829
+10829_7	prep	10829_6
+10829_7	has_surface_form	in
+10829_8	is_in_sentence	sentence_10829
+10829_8	pobj	10829_7
+10829_8	has_surface_form	Oakland
+10829_9	is_in_sentence	sentence_10829
+10829_9	punct	10829_8
+10829_9	has_surface_form	,
+10829_10	is_in_sentence	sentence_10829
+10829_10	appos	10829_8
+10829_10	has_surface_form	California
+10829_11	is_in_sentence	sentence_10829
+10829_11	punct	10829_2
+10829_11	has_surface_form	.
+10829_12	is_in_sentence	sentence_10829
+10829_12	dep	10829_12
+10829_12	has_surface_form	
+Merritt College	surface_form	Merritt College
+Merritt College	is-where	Oakland, California
+Oakland, California	surface_form	Oakland, California

@@ -1,0 +1,68 @@
+24652_0	is_in_sentence	sentence_24652
+24652_0	det	24652_2
+24652_0	has_surface_form	A
+24652_0	part_of_entity	A Heavy Heart
+24652_2	is_in_sentence	sentence_24652
+24652_2	nsubj	24652_8
+24652_2	has_surface_form	Heart
+24652_2	part_of_entity	A Heavy Heart
+24652_1	is_in_sentence	sentence_24652
+24652_1	compound	24652_2
+24652_1	has_surface_form	Heavy
+24652_1	part_of_entity	A Heavy Heart
+24652_8	is_in_sentence	sentence_24652
+24652_8	ROOT	24652_8
+24652_8	has_surface_form	is
+24652_3	is_in_sentence	sentence_24652
+24652_3	punct	24652_4
+24652_3	has_surface_form	(
+24652_4	is_in_sentence	sentence_24652
+24652_4	appos	24652_2
+24652_4	has_surface_form	German
+24652_5	is_in_sentence	sentence_24652
+24652_5	punct	24652_4
+24652_5	has_surface_form	:
+24652_6	is_in_sentence	sentence_24652
+24652_6	appos	24652_4
+24652_6	has_surface_form	Herbert
+24652_7	is_in_sentence	sentence_24652
+24652_7	punct	24652_4
+24652_7	has_surface_form	)
+24652_9	is_in_sentence	sentence_24652
+24652_9	det	24652_13
+24652_9	has_surface_form	a
+24652_13	is_in_sentence	sentence_24652
+24652_13	attr	24652_8
+24652_13	has_surface_form	film
+24652_10	is_in_sentence	sentence_24652
+24652_10	nummod	24652_13
+24652_10	has_surface_form	2015
+24652_11	is_in_sentence	sentence_24652
+24652_11	amod	24652_13
+24652_11	has_surface_form	German
+24652_12	is_in_sentence	sentence_24652
+24652_12	compound	24652_13
+24652_12	has_surface_form	drama
+24652_14	is_in_sentence	sentence_24652
+24652_14	acl	24652_13
+24652_14	has_surface_form	directed
+24652_15	is_in_sentence	sentence_24652
+24652_15	agent	24652_14
+24652_15	has_surface_form	by
+24652_16	is_in_sentence	sentence_24652
+24652_16	compound	24652_17
+24652_16	has_surface_form	Thomas
+24652_16	part_of_entity	Thomas Stuber
+24652_17	is_in_sentence	sentence_24652
+24652_17	pobj	24652_15
+24652_17	has_surface_form	Stuber
+24652_17	part_of_entity	Thomas Stuber
+24652_18	is_in_sentence	sentence_24652
+24652_18	punct	24652_8
+24652_18	has_surface_form	.
+24652_19	is_in_sentence	sentence_24652
+24652_19	dep	24652_19
+24652_19	has_surface_form	
+A Heavy Heart	surface_form	A Heavy Heart
+A Heavy Heart	movie-has-director	Thomas Stuber
+Thomas Stuber	surface_form	Thomas Stuber

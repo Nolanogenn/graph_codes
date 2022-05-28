@@ -1,0 +1,76 @@
+6182_0	is_in_sentence	sentence_6182
+6182_0	compound	6182_1
+6182_0	has_surface_form	Rolling
+6182_0	part_of_entity	Rolling Man
+6182_1	is_in_sentence	sentence_6182
+6182_1	nsubj	6182_2
+6182_1	has_surface_form	Man
+6182_1	part_of_entity	Rolling Man
+6182_2	is_in_sentence	sentence_6182
+6182_2	ROOT	6182_2
+6182_2	has_surface_form	is
+6182_3	is_in_sentence	sentence_6182
+6182_3	det	6182_12
+6182_3	has_surface_form	a
+6182_12	is_in_sentence	sentence_6182
+6182_12	attr	6182_2
+6182_12	has_surface_form	film
+6182_4	is_in_sentence	sentence_6182
+6182_4	nummod	6182_12
+6182_4	has_surface_form	1972
+6182_5	is_in_sentence	sentence_6182
+6182_5	nmod	6182_12
+6182_5	has_surface_form	American
+6182_6	is_in_sentence	sentence_6182
+6182_6	amod	6182_12
+6182_6	has_surface_form	made
+6182_7	is_in_sentence	sentence_6182
+6182_7	punct	6182_6
+6182_7	has_surface_form	-
+6182_8	is_in_sentence	sentence_6182
+6182_8	prep	6182_6
+6182_8	has_surface_form	for
+6182_9	is_in_sentence	sentence_6182
+6182_9	punct	6182_8
+6182_9	has_surface_form	-
+6182_10	is_in_sentence	sentence_6182
+6182_10	pobj	6182_8
+6182_10	has_surface_form	television
+6182_11	is_in_sentence	sentence_6182
+6182_11	compound	6182_12
+6182_11	has_surface_form	drama
+6182_13	is_in_sentence	sentence_6182
+6182_13	acl	6182_12
+6182_13	has_surface_form	directed
+6182_14	is_in_sentence	sentence_6182
+6182_14	agent	6182_13
+6182_14	has_surface_form	by
+6182_15	is_in_sentence	sentence_6182
+6182_15	compound	6182_16
+6182_15	has_surface_form	Peter
+6182_15	part_of_entity	Peter Hyams
+6182_16	is_in_sentence	sentence_6182
+6182_16	pobj	6182_14
+6182_16	has_surface_form	Hyams
+6182_16	part_of_entity	Peter Hyams
+6182_17	is_in_sentence	sentence_6182
+6182_17	prep	6182_13
+6182_17	has_surface_form	in
+6182_18	is_in_sentence	sentence_6182
+6182_18	poss	6182_20
+6182_18	has_surface_form	his
+6182_20	is_in_sentence	sentence_6182
+6182_20	pobj	6182_17
+6182_20	has_surface_form	debut
+6182_19	is_in_sentence	sentence_6182
+6182_19	amod	6182_20
+6182_19	has_surface_form	directorial
+6182_21	is_in_sentence	sentence_6182
+6182_21	punct	6182_2
+6182_21	has_surface_form	.
+6182_22	is_in_sentence	sentence_6182
+6182_22	dep	6182_22
+6182_22	has_surface_form	
+Rolling Man	surface_form	Rolling Man
+Rolling Man	movie-has-director	Peter Hyams
+Peter Hyams	surface_form	Peter Hyams

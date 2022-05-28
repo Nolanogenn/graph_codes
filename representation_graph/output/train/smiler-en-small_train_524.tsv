@@ -1,0 +1,59 @@
+523_0	is_in_sentence	sentence_523
+523_0	compound	523_1
+523_0	has_surface_form	Laurent
+523_0	part_of_entity	Laurent Wéry
+523_1	is_in_sentence	sentence_523
+523_1	nsubj	523_10
+523_1	has_surface_form	Wéry
+523_1	part_of_entity	Laurent Wéry
+523_10	is_in_sentence	sentence_523
+523_10	ROOT	523_10
+523_10	has_surface_form	is
+523_2	is_in_sentence	sentence_523
+523_2	punct	523_1
+523_2	has_surface_form	(
+523_3	is_in_sentence	sentence_523
+523_3	acl	523_1
+523_3	has_surface_form	born
+523_4	is_in_sentence	sentence_523
+523_4	npadvmod	523_3
+523_4	has_surface_form	1975
+523_5	is_in_sentence	sentence_523
+523_5	prep	523_3
+523_5	has_surface_form	in
+523_6	is_in_sentence	sentence_523
+523_6	pobj	523_5
+523_6	has_surface_form	Aalst
+523_7	is_in_sentence	sentence_523
+523_7	punct	523_6
+523_7	has_surface_form	,
+523_8	is_in_sentence	sentence_523
+523_8	appos	523_6
+523_8	has_surface_form	Belgium
+523_9	is_in_sentence	sentence_523
+523_9	punct	523_1
+523_9	has_surface_form	)
+523_11	is_in_sentence	sentence_523
+523_11	det	523_13
+523_11	has_surface_form	a
+523_13	is_in_sentence	sentence_523
+523_13	attr	523_10
+523_13	has_surface_form	DJ
+523_12	is_in_sentence	sentence_523
+523_12	amod	523_13
+523_12	is_entity	Belgian
+Belgian	surface_form	Belgian
+523_14	is_in_sentence	sentence_523
+523_14	cc	523_13
+523_14	has_surface_form	and
+523_15	is_in_sentence	sentence_523
+523_15	conj	523_13
+523_15	has_surface_form	producer
+523_16	is_in_sentence	sentence_523
+523_16	punct	523_10
+523_16	has_surface_form	.
+523_17	is_in_sentence	sentence_523
+523_17	dep	523_17
+523_17	has_surface_form	
+Laurent Wéry	surface_form	Laurent Wéry
+Laurent Wéry	has-nationality	Belgian

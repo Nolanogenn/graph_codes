@@ -1,0 +1,124 @@
+16965_0	is_in_sentence	sentence_16965
+16965_0	det	16965_1
+16965_0	has_surface_form	The
+16965_0	part_of_entity	The Secret of Helene Marimon
+16965_1	is_in_sentence	sentence_16965
+16965_1	nsubj	16965_13
+16965_1	has_surface_form	Secret
+16965_1	part_of_entity	The Secret of Helene Marimon
+16965_13	is_in_sentence	sentence_16965
+16965_13	ROOT	16965_13
+16965_13	has_surface_form	is
+16965_2	is_in_sentence	sentence_16965
+16965_2	prep	16965_1
+16965_2	has_surface_form	of
+16965_2	part_of_entity	The Secret of Helene Marimon
+16965_3	is_in_sentence	sentence_16965
+16965_3	compound	16965_4
+16965_3	has_surface_form	Helene
+16965_3	part_of_entity	The Secret of Helene Marimon
+16965_4	is_in_sentence	sentence_16965
+16965_4	pobj	16965_2
+16965_4	has_surface_form	Marimon
+16965_4	part_of_entity	The Secret of Helene Marimon
+16965_5	is_in_sentence	sentence_16965
+16965_5	punct	16965_6
+16965_5	has_surface_form	(
+16965_6	is_in_sentence	sentence_16965
+16965_6	appos	16965_1
+16965_6	has_surface_form	French
+16965_7	is_in_sentence	sentence_16965
+16965_7	punct	16965_6
+16965_7	has_surface_form	:
+16965_8	is_in_sentence	sentence_16965
+16965_8	compound	16965_11
+16965_8	has_surface_form	Le
+16965_11	is_in_sentence	sentence_16965
+16965_11	appos	16965_6
+16965_11	has_surface_form	Marimon
+16965_9	is_in_sentence	sentence_16965
+16965_9	compound	16965_11
+16965_9	has_surface_form	Secret
+16965_10	is_in_sentence	sentence_16965
+16965_10	compound	16965_11
+16965_10	has_surface_form	d'Hélène
+16965_12	is_in_sentence	sentence_16965
+16965_12	punct	16965_6
+16965_12	has_surface_form	)
+16965_14	is_in_sentence	sentence_16965
+16965_14	det	16965_20
+16965_14	has_surface_form	a
+16965_20	is_in_sentence	sentence_16965
+16965_20	attr	16965_13
+16965_20	has_surface_form	film
+16965_15	is_in_sentence	sentence_16965
+16965_15	nummod	16965_20
+16965_15	has_surface_form	1954
+16965_16	is_in_sentence	sentence_16965
+16965_16	amod	16965_18
+16965_16	has_surface_form	French
+16965_18	is_in_sentence	sentence_16965
+16965_18	amod	16965_20
+16965_18	has_surface_form	Italian
+16965_17	is_in_sentence	sentence_16965
+16965_17	punct	16965_18
+16965_17	has_surface_form	-
+16965_19	is_in_sentence	sentence_16965
+16965_19	compound	16965_20
+16965_19	has_surface_form	drama
+16965_21	is_in_sentence	sentence_16965
+16965_21	acl	16965_20
+16965_21	has_surface_form	directed
+16965_22	is_in_sentence	sentence_16965
+16965_22	agent	16965_21
+16965_22	has_surface_form	by
+16965_23	is_in_sentence	sentence_16965
+16965_23	compound	16965_24
+16965_23	has_surface_form	Henri
+16965_23	part_of_entity	Henri Calef
+16965_24	is_in_sentence	sentence_16965
+16965_24	pobj	16965_22
+16965_24	has_surface_form	Calef
+16965_24	part_of_entity	Henri Calef
+16965_25	is_in_sentence	sentence_16965
+16965_25	cc	16965_21
+16965_25	has_surface_form	and
+16965_26	is_in_sentence	sentence_16965
+16965_26	conj	16965_21
+16965_26	has_surface_form	starring
+16965_27	is_in_sentence	sentence_16965
+16965_27	compound	16965_28
+16965_27	has_surface_form	Isa
+16965_28	is_in_sentence	sentence_16965
+16965_28	dobj	16965_26
+16965_28	has_surface_form	Miranda
+16965_29	is_in_sentence	sentence_16965
+16965_29	punct	16965_28
+16965_29	has_surface_form	,
+16965_30	is_in_sentence	sentence_16965
+16965_30	compound	16965_31
+16965_30	has_surface_form	Franck
+16965_31	is_in_sentence	sentence_16965
+16965_31	conj	16965_28
+16965_31	has_surface_form	Villard
+16965_32	is_in_sentence	sentence_16965
+16965_32	cc	16965_31
+16965_32	has_surface_form	and
+16965_33	is_in_sentence	sentence_16965
+16965_33	compound	16965_35
+16965_33	has_surface_form	Carla
+16965_35	is_in_sentence	sentence_16965
+16965_35	conj	16965_31
+16965_35	has_surface_form	Poggio
+16965_34	is_in_sentence	sentence_16965
+16965_34	compound	16965_35
+16965_34	has_surface_form	Del
+16965_36	is_in_sentence	sentence_16965
+16965_36	punct	16965_13
+16965_36	has_surface_form	.
+16965_37	is_in_sentence	sentence_16965
+16965_37	dep	16965_13
+16965_37	has_surface_form	
+The Secret of Helene Marimon	surface_form	The Secret of Helene Marimon
+The Secret of Helene Marimon	movie-has-director	Henri Calef
+Henri Calef	surface_form	Henri Calef

@@ -1,0 +1,81 @@
+31418_0	is_in_sentence	sentence_31418
+31418_0	compound	31418_1
+31418_0	has_surface_form	Christmas
+31418_0	part_of_entity	Christmas Wedding Baby
+31418_1	is_in_sentence	sentence_31418
+31418_1	compound	31418_2
+31418_1	has_surface_form	Wedding
+31418_1	part_of_entity	Christmas Wedding Baby
+31418_2	is_in_sentence	sentence_31418
+31418_2	nsubj	31418_3
+31418_2	has_surface_form	Baby
+31418_2	part_of_entity	Christmas Wedding Baby
+31418_3	is_in_sentence	sentence_31418
+31418_3	ROOT	31418_3
+31418_3	has_surface_form	is
+31418_4	is_in_sentence	sentence_31418
+31418_4	det	31418_8
+31418_4	has_surface_form	a
+31418_8	is_in_sentence	sentence_31418
+31418_8	attr	31418_3
+31418_8	has_surface_form	film
+31418_5	is_in_sentence	sentence_31418
+31418_5	nummod	31418_8
+31418_5	has_surface_form	2014
+31418_6	is_in_sentence	sentence_31418
+31418_6	amod	31418_8
+31418_6	has_surface_form	American
+31418_7	is_in_sentence	sentence_31418
+31418_7	compound	31418_8
+31418_7	has_surface_form	romance
+31418_9	is_in_sentence	sentence_31418
+31418_9	acl	31418_8
+31418_9	has_surface_form	directed
+31418_10	is_in_sentence	sentence_31418
+31418_10	agent	31418_9
+31418_10	has_surface_form	by
+31418_11	is_in_sentence	sentence_31418
+31418_11	compound	31418_13
+31418_11	has_surface_form	Kiara
+31418_11	part_of_entity	Kiara C. Jones
+31418_13	is_in_sentence	sentence_31418
+31418_13	pobj	31418_10
+31418_13	has_surface_form	Jones
+31418_13	part_of_entity	Kiara C. Jones
+31418_12	is_in_sentence	sentence_31418
+31418_12	compound	31418_13
+31418_12	has_surface_form	C.
+31418_12	part_of_entity	Kiara C. Jones
+31418_14	is_in_sentence	sentence_31418
+31418_14	cc	31418_9
+31418_14	has_surface_form	and
+31418_15	is_in_sentence	sentence_31418
+31418_15	conj	31418_9
+31418_15	has_surface_form	starring
+31418_16	is_in_sentence	sentence_31418
+31418_16	compound	31418_17
+31418_16	has_surface_form	Kimberley
+31418_17	is_in_sentence	sentence_31418
+31418_17	dobj	31418_15
+31418_17	has_surface_form	Drummond
+31418_18	is_in_sentence	sentence_31418
+31418_18	cc	31418_17
+31418_18	has_surface_form	and
+31418_19	is_in_sentence	sentence_31418
+31418_19	compound	31418_21
+31418_19	has_surface_form	Lisa
+31418_21	is_in_sentence	sentence_31418
+31418_21	conj	31418_17
+31418_21	has_surface_form	Anderson
+31418_20	is_in_sentence	sentence_31418
+31418_20	compound	31418_21
+31418_20	has_surface_form	Arrindell
+31418_22	is_in_sentence	sentence_31418
+31418_22	punct	31418_3
+31418_22	has_surface_form	.
+31418_23	is_in_sentence	sentence_31418
+31418_23	dep	31418_3
+31418_23	has_surface_form	
+Christmas Wedding Baby	surface_form	Christmas Wedding Baby
+Christmas Wedding Baby	movie-has-director	Kiara C. Jones
+Kiara C. Jones	surface_form	Kiara C. Jones

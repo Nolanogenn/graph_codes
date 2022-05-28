@@ -1,0 +1,68 @@
+1688_0	is_in_sentence	sentence_1688
+1688_0	compound	1688_1
+1688_0	has_surface_form	Nick
+1688_0	part_of_entity	Nick Pride and the Pimptones
+1688_1	is_in_sentence	sentence_1688
+1688_1	nsubj	1688_5
+1688_1	has_surface_form	Pride
+1688_1	part_of_entity	Nick Pride and the Pimptones
+1688_5	is_in_sentence	sentence_1688
+1688_5	ROOT	1688_5
+1688_5	has_surface_form	are
+1688_2	is_in_sentence	sentence_1688
+1688_2	cc	1688_1
+1688_2	has_surface_form	and
+1688_2	part_of_entity	Nick Pride and the Pimptones
+1688_3	is_in_sentence	sentence_1688
+1688_3	det	1688_4
+1688_3	has_surface_form	the
+1688_3	part_of_entity	Nick Pride and the Pimptones
+1688_4	is_in_sentence	sentence_1688
+1688_4	conj	1688_1
+1688_4	has_surface_form	Pimptones
+1688_4	part_of_entity	Nick Pride and the Pimptones
+1688_6	is_in_sentence	sentence_1688
+1688_6	det	1688_12
+1688_6	has_surface_form	a
+1688_12	is_in_sentence	sentence_1688
+1688_12	attr	1688_5
+1688_12	has_surface_form	band
+1688_7	is_in_sentence	sentence_1688
+1688_7	nmod	1688_11
+1688_7	is_entity	funk
+1688_11	is_in_sentence	sentence_1688
+1688_11	compound	1688_12
+1688_11	has_surface_form	soul
+funk	surface_form	funk
+1688_8	is_in_sentence	sentence_1688
+1688_8	punct	1688_11
+1688_8	has_surface_form	/
+1688_9	is_in_sentence	sentence_1688
+1688_9	nmod	1688_11
+1688_9	has_surface_form	jazz
+1688_10	is_in_sentence	sentence_1688
+1688_10	punct	1688_11
+1688_10	has_surface_form	/
+1688_13	is_in_sentence	sentence_1688
+1688_13	acl	1688_12
+1688_13	has_surface_form	based
+1688_14	is_in_sentence	sentence_1688
+1688_14	prep	1688_13
+1688_14	has_surface_form	in
+1688_15	is_in_sentence	sentence_1688
+1688_15	pobj	1688_14
+1688_15	has_surface_form	Newcastle
+1688_16	is_in_sentence	sentence_1688
+1688_16	prep	1688_13
+1688_16	has_surface_form	upon
+1688_17	is_in_sentence	sentence_1688
+1688_17	pobj	1688_16
+1688_17	has_surface_form	Tyne
+1688_18	is_in_sentence	sentence_1688
+1688_18	punct	1688_5
+1688_18	has_surface_form	.
+1688_19	is_in_sentence	sentence_1688
+1688_19	dep	1688_5
+1688_19	has_surface_form	
+Nick Pride and the Pimptones	surface_form	Nick Pride and the Pimptones
+Nick Pride and the Pimptones	has-genre	funk

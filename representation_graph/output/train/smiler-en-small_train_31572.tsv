@@ -1,0 +1,58 @@
+31571_0	is_in_sentence	sentence_31571
+31571_0	compound	31571_1
+31571_0	has_surface_form	Jimmie
+31571_0	part_of_entity	Jimmie Keeling
+31571_1	is_in_sentence	sentence_31571
+31571_1	nsubj	31571_9
+31571_1	has_surface_form	Keeling
+31571_1	part_of_entity	Jimmie Keeling
+31571_9	is_in_sentence	sentence_31571
+31571_9	ROOT	31571_9
+31571_9	has_surface_form	is
+31571_2	is_in_sentence	sentence_31571
+31571_2	punct	31571_1
+31571_2	has_surface_form	(
+31571_3	is_in_sentence	sentence_31571
+31571_3	acl	31571_1
+31571_3	has_surface_form	born
+31571_4	is_in_sentence	sentence_31571
+31571_4	npadvmod	31571_3
+31571_4	has_surface_form	August
+31571_5	is_in_sentence	sentence_31571
+31571_5	nummod	31571_4
+31571_5	has_surface_form	10
+31571_6	is_in_sentence	sentence_31571
+31571_6	punct	31571_4
+31571_6	has_surface_form	,
+31571_7	is_in_sentence	sentence_31571
+31571_7	nummod	31571_4
+31571_7	has_surface_form	1935
+31571_8	is_in_sentence	sentence_31571
+31571_8	punct	31571_1
+31571_8	has_surface_form	)
+31571_10	is_in_sentence	sentence_31571
+31571_10	det	31571_14
+31571_10	has_surface_form	a
+31571_14	is_in_sentence	sentence_31571
+31571_14	attr	31571_9
+31571_14	has_surface_form	coach
+31571_14	part_of_entity	football coach
+31571_11	is_in_sentence	sentence_31571
+31571_11	amod	31571_14
+31571_11	has_surface_form	former
+31571_12	is_in_sentence	sentence_31571
+31571_12	amod	31571_14
+31571_12	has_surface_form	American
+31571_13	is_in_sentence	sentence_31571
+31571_13	compound	31571_14
+31571_13	has_surface_form	football
+31571_13	part_of_entity	football coach
+31571_15	is_in_sentence	sentence_31571
+31571_15	punct	31571_9
+31571_15	has_surface_form	.
+31571_16	is_in_sentence	sentence_31571
+31571_16	dep	31571_16
+31571_16	has_surface_form	
+Jimmie Keeling	surface_form	Jimmie Keeling
+Jimmie Keeling	has-type	football coach
+football coach	surface_form	football coach

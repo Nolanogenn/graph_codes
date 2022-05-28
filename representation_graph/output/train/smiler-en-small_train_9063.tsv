@@ -1,0 +1,88 @@
+9062_0	is_in_sentence	sentence_9062
+9062_0	compound	9062_1
+9062_0	has_surface_form	Guy
+9062_0	part_of_entity	Guy Eckstine
+9062_1	is_in_sentence	sentence_9062
+9062_1	nsubj	9062_2
+9062_1	has_surface_form	Eckstine
+9062_1	part_of_entity	Guy Eckstine
+9062_2	is_in_sentence	sentence_9062
+9062_2	ROOT	9062_2
+9062_2	has_surface_form	is
+9062_3	is_in_sentence	sentence_9062
+9062_3	det	9062_4
+9062_3	has_surface_form	an
+9062_4	is_in_sentence	sentence_9062
+9062_4	attr	9062_2
+9062_4	has_surface_form	A&R
+9062_5	is_in_sentence	sentence_9062
+9062_5	punct	9062_4
+9062_5	has_surface_form	,
+9062_6	is_in_sentence	sentence_9062
+9062_6	compound	9062_7
+9062_6	has_surface_form	artist
+9062_7	is_in_sentence	sentence_9062
+9062_7	appos	9062_4
+9062_7	has_surface_form	manager
+9062_8	is_in_sentence	sentence_9062
+9062_8	punct	9062_7
+9062_8	has_surface_form	,
+9062_9	is_in_sentence	sentence_9062
+9062_9	compound	9062_10
+9062_9	has_surface_form	record
+9062_9	part_of_entity	record producer
+9062_10	is_in_sentence	sentence_9062
+9062_10	conj	9062_7
+9062_10	has_surface_form	producer
+9062_10	part_of_entity	record producer
+9062_11	is_in_sentence	sentence_9062
+9062_11	punct	9062_10
+9062_11	has_surface_form	,
+9062_12	is_in_sentence	sentence_9062
+9062_12	cc	9062_10
+9062_12	has_surface_form	and
+9062_13	is_in_sentence	sentence_9062
+9062_13	amod	9062_15
+9062_13	has_surface_form	new
+9062_15	is_in_sentence	sentence_9062
+9062_15	conj	9062_10
+9062_15	has_surface_form	executive
+9062_14	is_in_sentence	sentence_9062
+9062_14	compound	9062_15
+9062_14	has_surface_form	media
+9062_16	is_in_sentence	sentence_9062
+9062_16	nsubj	9062_18
+9062_16	has_surface_form	who
+9062_18	is_in_sentence	sentence_9062
+9062_18	relcl	9062_15
+9062_18	has_surface_form	produced
+9062_17	is_in_sentence	sentence_9062
+9062_17	aux	9062_18
+9062_17	has_surface_form	has
+9062_19	is_in_sentence	sentence_9062
+9062_19	cc	9062_18
+9062_19	has_surface_form	and
+9062_20	is_in_sentence	sentence_9062
+9062_20	conj	9062_18
+9062_20	has_surface_form	executive
+9062_21	is_in_sentence	sentence_9062
+9062_21	acl	9062_4
+9062_21	has_surface_form	produced
+9062_22	is_in_sentence	sentence_9062
+9062_22	quantmod	9062_23
+9062_22	has_surface_form	over
+9062_23	is_in_sentence	sentence_9062
+9062_23	nummod	9062_24
+9062_23	has_surface_form	40
+9062_24	is_in_sentence	sentence_9062
+9062_24	dobj	9062_21
+9062_24	has_surface_form	records
+9062_25	is_in_sentence	sentence_9062
+9062_25	punct	9062_2
+9062_25	has_surface_form	.
+9062_26	is_in_sentence	sentence_9062
+9062_26	dep	9062_26
+9062_26	has_surface_form	
+Guy Eckstine	surface_form	Guy Eckstine
+Guy Eckstine	has-occupation	record producer
+record producer	surface_form	record producer

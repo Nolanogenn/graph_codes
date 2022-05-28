@@ -1,0 +1,91 @@
+6168_0	is_in_sentence	sentence_6168
+6168_0	compound	6168_1
+6168_0	has_surface_form	Thunveni
+6168_0	part_of_entity	Thunveni Yamaya
+6168_1	is_in_sentence	sentence_6168
+6168_1	nsubj	6168_11
+6168_1	has_surface_form	Yamaya
+6168_1	part_of_entity	Thunveni Yamaya
+6168_11	is_in_sentence	sentence_6168
+6168_11	ROOT	6168_11
+6168_11	has_surface_form	is
+6168_2	is_in_sentence	sentence_6168
+6168_2	punct	6168_3
+6168_2	has_surface_form	(
+6168_3	is_in_sentence	sentence_6168
+6168_3	appos	6168_1
+6168_3	has_surface_form	English
+6168_4	is_in_sentence	sentence_6168
+6168_4	punct	6168_3
+6168_4	has_surface_form	:
+6168_5	is_in_sentence	sentence_6168
+6168_5	compound	6168_6
+6168_5	has_surface_form	Third
+6168_6	is_in_sentence	sentence_6168
+6168_6	appos	6168_3
+6168_6	has_surface_form	Part
+6168_7	is_in_sentence	sentence_6168
+6168_7	prep	6168_6
+6168_7	has_surface_form	of
+6168_8	is_in_sentence	sentence_6168
+6168_8	det	6168_9
+6168_8	has_surface_form	the
+6168_9	is_in_sentence	sentence_6168
+6168_9	pobj	6168_7
+6168_9	has_surface_form	Night
+6168_10	is_in_sentence	sentence_6168
+6168_10	punct	6168_3
+6168_10	has_surface_form	)
+6168_12	is_in_sentence	sentence_6168
+6168_12	det	6168_21
+6168_12	has_surface_form	a
+6168_21	is_in_sentence	sentence_6168
+6168_21	attr	6168_11
+6168_21	has_surface_form	film
+6168_13	is_in_sentence	sentence_6168
+6168_13	nummod	6168_21
+6168_13	has_surface_form	1983
+6168_14	is_in_sentence	sentence_6168
+6168_14	amod	6168_20
+6168_14	has_surface_form	black
+6168_20	is_in_sentence	sentence_6168
+6168_20	compound	6168_21
+6168_20	has_surface_form	Lankan
+6168_15	is_in_sentence	sentence_6168
+6168_15	punct	6168_14
+6168_15	has_surface_form	-
+6168_16	is_in_sentence	sentence_6168
+6168_16	cc	6168_14
+6168_16	has_surface_form	and
+6168_17	is_in_sentence	sentence_6168
+6168_17	punct	6168_18
+6168_17	has_surface_form	-
+6168_18	is_in_sentence	sentence_6168
+6168_18	conj	6168_14
+6168_18	has_surface_form	white
+6168_19	is_in_sentence	sentence_6168
+6168_19	compound	6168_20
+6168_19	has_surface_form	Sri
+6168_22	is_in_sentence	sentence_6168
+6168_22	acl	6168_21
+6168_22	has_surface_form	directed
+6168_23	is_in_sentence	sentence_6168
+6168_23	agent	6168_22
+6168_23	has_surface_form	by
+6168_24	is_in_sentence	sentence_6168
+6168_24	compound	6168_25
+6168_24	has_surface_form	Dharmasiri
+6168_24	part_of_entity	Dharmasiri Bandaranayake
+6168_25	is_in_sentence	sentence_6168
+6168_25	pobj	6168_23
+6168_25	has_surface_form	Bandaranayake
+6168_25	part_of_entity	Dharmasiri Bandaranayake
+6168_26	is_in_sentence	sentence_6168
+6168_26	punct	6168_11
+6168_26	has_surface_form	.
+6168_27	is_in_sentence	sentence_6168
+6168_27	dep	6168_27
+6168_27	has_surface_form	
+Thunveni Yamaya	surface_form	Thunveni Yamaya
+Thunveni Yamaya	movie-has-director	Dharmasiri Bandaranayake
+Dharmasiri Bandaranayake	surface_form	Dharmasiri Bandaranayake

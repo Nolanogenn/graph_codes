@@ -1,0 +1,63 @@
+4775_0	is_in_sentence	sentence_4775
+4775_0	compound	4775_2
+4775_0	has_surface_form	Velma
+4775_0	part_of_entity	Velma Jean Terrell
+4775_2	is_in_sentence	sentence_4775
+4775_2	nsubj	4775_10
+4775_2	has_surface_form	Terrell
+4775_2	part_of_entity	Velma Jean Terrell
+4775_1	is_in_sentence	sentence_4775
+4775_1	compound	4775_2
+4775_1	has_surface_form	Jean
+4775_1	part_of_entity	Velma Jean Terrell
+4775_10	is_in_sentence	sentence_4775
+4775_10	ROOT	4775_10
+4775_10	has_surface_form	is
+4775_3	is_in_sentence	sentence_4775
+4775_3	punct	4775_2
+4775_3	has_surface_form	(
+4775_4	is_in_sentence	sentence_4775
+4775_4	acl	4775_2
+4775_4	has_surface_form	born
+4775_5	is_in_sentence	sentence_4775
+4775_5	npadvmod	4775_4
+4775_5	has_surface_form	November
+4775_6	is_in_sentence	sentence_4775
+4775_6	nummod	4775_5
+4775_6	has_surface_form	26
+4775_7	is_in_sentence	sentence_4775
+4775_7	punct	4775_5
+4775_7	has_surface_form	,
+4775_8	is_in_sentence	sentence_4775
+4775_8	nummod	4775_5
+4775_8	has_surface_form	1944
+4775_9	is_in_sentence	sentence_4775
+4775_9	punct	4775_2
+4775_9	has_surface_form	)
+4775_11	is_in_sentence	sentence_4775
+4775_11	det	4775_16
+4775_11	has_surface_form	an
+4775_16	is_in_sentence	sentence_4775
+4775_16	attr	4775_10
+4775_16	has_surface_form	singer
+4775_12	is_in_sentence	sentence_4775
+4775_12	amod	4775_16
+4775_12	has_surface_form	American
+4775_13	is_in_sentence	sentence_4775
+4775_13	nmod	4775_16
+4775_13	has_surface_form	R&B
+4775_14	is_in_sentence	sentence_4775
+4775_14	cc	4775_13
+4775_14	has_surface_form	and
+4775_15	is_in_sentence	sentence_4775
+4775_15	conj	4775_13
+4775_15	is_entity	jazz
+jazz	surface_form	jazz
+4775_17	is_in_sentence	sentence_4775
+4775_17	punct	4775_10
+4775_17	has_surface_form	.
+4775_18	is_in_sentence	sentence_4775
+4775_18	dep	4775_18
+4775_18	has_surface_form	
+Velma Jean Terrell	surface_form	Velma Jean Terrell
+Velma Jean Terrell	has-genre	jazz

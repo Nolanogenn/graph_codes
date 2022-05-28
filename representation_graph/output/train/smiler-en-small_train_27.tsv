@@ -1,0 +1,47 @@
+26_0	is_in_sentence	sentence_26
+26_0	prep	26_11
+26_0	has_surface_form	In
+26_11	is_in_sentence	sentence_26
+26_11	ROOT	26_11
+26_11	has_surface_form	died
+26_1	is_in_sentence	sentence_26
+26_1	pobj	26_0
+26_1	has_surface_form	September
+26_2	is_in_sentence	sentence_26
+26_2	nummod	26_1
+26_2	has_surface_form	2017
+26_3	is_in_sentence	sentence_26
+26_3	punct	26_11
+26_3	has_surface_form	,
+26_4	is_in_sentence	sentence_26
+26_4	compound	26_5
+26_4	has_surface_form	Reuven
+26_4	part_of_entity	Reuven Schmeltzer
+26_5	is_in_sentence	sentence_26
+26_5	nsubj	26_11
+26_5	has_surface_form	Schmeltzer
+26_5	part_of_entity	Reuven Schmeltzer
+26_6	is_in_sentence	sentence_26
+26_6	punct	26_5
+26_6	has_surface_form	,
+26_7	is_in_sentence	sentence_26
+26_7	poss	26_9
+26_7	is_entity	Lipa
+26_9	is_in_sentence	sentence_26
+26_9	appos	26_5
+26_9	has_surface_form	father
+Lipa	surface_form	Lipa
+26_8	is_in_sentence	sentence_26
+26_8	case	26_7
+26_8	has_surface_form	's
+26_10	is_in_sentence	sentence_26
+26_10	punct	26_5
+26_10	has_surface_form	,
+26_12	is_in_sentence	sentence_26
+26_12	punct	26_11
+26_12	has_surface_form	.
+26_13	is_in_sentence	sentence_26
+26_13	dep	26_13
+26_13	has_surface_form	
+Reuven Schmeltzer	surface_form	Reuven Schmeltzer
+Reuven Schmeltzer	has-child	Lipa

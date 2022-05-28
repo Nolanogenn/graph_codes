@@ -1,0 +1,52 @@
+30420_0	is_in_sentence	sentence_30420
+30420_0	det	30420_1
+30420_0	has_surface_form	The
+30420_1	is_in_sentence	sentence_30420
+30420_1	nsubjpass	30420_3
+30420_1	has_surface_form	marriage
+30420_3	is_in_sentence	sentence_30420
+30420_3	ROOT	30420_3
+30420_3	has_surface_form	solemnised
+30420_2	is_in_sentence	sentence_30420
+30420_2	auxpass	30420_3
+30420_2	has_surface_form	was
+30420_4	is_in_sentence	sentence_30420
+30420_4	agent	30420_3
+30420_4	has_surface_form	by
+30420_5	is_in_sentence	sentence_30420
+30420_5	poss	30420_7
+30420_5	is_entity	Ning
+30420_7	is_in_sentence	sentence_30420
+30420_7	pobj	30420_4
+30420_7	has_surface_form	father
+Ning	surface_form	Ning
+Ning	has-parent	Sheikh Hamza Sheikh Mohamed
+30420_6	is_in_sentence	sentence_30420
+30420_6	case	30420_5
+30420_6	has_surface_form	's
+30420_8	is_in_sentence	sentence_30420
+30420_8	punct	30420_7
+30420_8	has_surface_form	,
+30420_9	is_in_sentence	sentence_30420
+30420_9	compound	30420_12
+30420_9	has_surface_form	Sheikh
+30420_9	part_of_entity	Sheikh Hamza Sheikh Mohamed
+30420_12	is_in_sentence	sentence_30420
+30420_12	appos	30420_7
+30420_12	has_surface_form	Mohamed
+30420_12	part_of_entity	Sheikh Hamza Sheikh Mohamed
+30420_10	is_in_sentence	sentence_30420
+30420_10	compound	30420_12
+30420_10	has_surface_form	Hamza
+30420_10	part_of_entity	Sheikh Hamza Sheikh Mohamed
+30420_11	is_in_sentence	sentence_30420
+30420_11	compound	30420_12
+30420_11	has_surface_form	Sheikh
+30420_11	part_of_entity	Sheikh Hamza Sheikh Mohamed
+30420_13	is_in_sentence	sentence_30420
+30420_13	punct	30420_3
+30420_13	has_surface_form	.
+30420_14	is_in_sentence	sentence_30420
+30420_14	dep	30420_14
+30420_14	has_surface_form	
+Sheikh Hamza Sheikh Mohamed	surface_form	Sheikh Hamza Sheikh Mohamed

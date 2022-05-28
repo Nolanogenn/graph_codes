@@ -1,0 +1,59 @@
+19015_0	is_in_sentence	sentence_19015
+19015_0	compound	19015_1
+19015_0	has_surface_form	Eskil
+19015_0	part_of_entity	Eskil Brøndbo
+19015_1	is_in_sentence	sentence_19015
+19015_1	nsubj	19015_10
+19015_1	has_surface_form	Brøndbo
+19015_1	part_of_entity	Eskil Brøndbo
+19015_10	is_in_sentence	sentence_19015
+19015_10	ROOT	19015_10
+19015_10	has_surface_form	is
+19015_2	is_in_sentence	sentence_19015
+19015_2	punct	19015_3
+19015_2	has_surface_form	(
+19015_3	is_in_sentence	sentence_19015
+19015_3	acl	19015_1
+19015_3	has_surface_form	born
+19015_4	is_in_sentence	sentence_19015
+19015_4	nummod	19015_5
+19015_4	has_surface_form	26
+19015_5	is_in_sentence	sentence_19015
+19015_5	npadvmod	19015_3
+19015_5	has_surface_form	January
+19015_6	is_in_sentence	sentence_19015
+19015_6	nummod	19015_5
+19015_6	has_surface_form	1970
+19015_7	is_in_sentence	sentence_19015
+19015_7	prep	19015_3
+19015_7	has_surface_form	in
+19015_8	is_in_sentence	sentence_19015
+19015_8	pobj	19015_7
+19015_8	is_entity	Namsos
+Namsos	surface_form	Namsos
+19015_9	is_in_sentence	sentence_19015
+19015_9	punct	19015_3
+19015_9	has_surface_form	)
+19015_11	is_in_sentence	sentence_19015
+19015_11	det	19015_12
+19015_11	has_surface_form	the
+19015_12	is_in_sentence	sentence_19015
+19015_12	attr	19015_10
+19015_12	has_surface_form	drummer
+19015_13	is_in_sentence	sentence_19015
+19015_13	prep	19015_12
+19015_13	has_surface_form	in
+19015_14	is_in_sentence	sentence_19015
+19015_14	det	19015_15
+19015_14	has_surface_form	the
+19015_15	is_in_sentence	sentence_19015
+19015_15	pobj	19015_13
+19015_15	has_surface_form	band
+19015_16	is_in_sentence	sentence_19015
+19015_16	appos	19015_15
+19015_16	has_surface_form	D.
+19015_17	is_in_sentence	sentence_19015
+19015_17	dep	19015_10
+19015_17	has_surface_form	
+Eskil Brøndbo	surface_form	Eskil Brøndbo
+Eskil Brøndbo	birth-place	Namsos

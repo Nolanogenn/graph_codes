@@ -1,0 +1,65 @@
+344_0	is_in_sentence	sentence_344
+344_0	compound	344_1
+344_0	has_surface_form	LaDell
+344_0	part_of_entity	LaDell Andersen
+344_1	is_in_sentence	sentence_344
+344_1	nsubj	344_9
+344_1	has_surface_form	Andersen
+344_1	part_of_entity	LaDell Andersen
+344_9	is_in_sentence	sentence_344
+344_9	ROOT	344_9
+344_9	has_surface_form	is
+344_2	is_in_sentence	sentence_344
+344_2	punct	344_1
+344_2	has_surface_form	(
+344_3	is_in_sentence	sentence_344
+344_3	acl	344_1
+344_3	has_surface_form	born
+344_4	is_in_sentence	sentence_344
+344_4	npadvmod	344_3
+344_4	has_surface_form	October
+344_5	is_in_sentence	sentence_344
+344_5	nummod	344_4
+344_5	has_surface_form	25
+344_6	is_in_sentence	sentence_344
+344_6	punct	344_4
+344_6	has_surface_form	,
+344_7	is_in_sentence	sentence_344
+344_7	nummod	344_4
+344_7	has_surface_form	1929
+344_8	is_in_sentence	sentence_344
+344_8	punct	344_1
+344_8	has_surface_form	)
+344_10	is_in_sentence	sentence_344
+344_10	det	344_16
+344_10	has_surface_form	a
+344_16	is_in_sentence	sentence_344
+344_16	attr	344_9
+344_16	has_surface_form	coach
+344_16	part_of_entity	collegiate basketball coach
+344_11	is_in_sentence	sentence_344
+344_11	amod	344_16
+344_11	has_surface_form	former
+344_12	is_in_sentence	sentence_344
+344_12	amod	344_16
+344_12	has_surface_form	professional
+344_13	is_in_sentence	sentence_344
+344_13	cc	344_12
+344_13	has_surface_form	and
+344_14	is_in_sentence	sentence_344
+344_14	conj	344_12
+344_14	has_surface_form	collegiate
+344_14	part_of_entity	collegiate basketball coach
+344_15	is_in_sentence	sentence_344
+344_15	compound	344_16
+344_15	has_surface_form	basketball
+344_15	part_of_entity	collegiate basketball coach
+344_17	is_in_sentence	sentence_344
+344_17	punct	344_9
+344_17	has_surface_form	.
+344_18	is_in_sentence	sentence_344
+344_18	dep	344_18
+344_18	has_surface_form	
+LaDell Andersen	surface_form	LaDell Andersen
+LaDell Andersen	has-type	collegiate basketball coach
+collegiate basketball coach	surface_form	collegiate basketball coach

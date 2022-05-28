@@ -1,0 +1,44 @@
+17287_0	is_in_sentence	sentence_17287
+17287_0	compound	17287_1
+17287_0	has_surface_form	Rembrandt
+17287_0	part_of_entity	Rembrandt Peale
+17287_1	is_in_sentence	sentence_17287
+17287_1	nsubj	17287_2
+17287_1	has_surface_form	Peale
+17287_1	part_of_entity	Rembrandt Peale
+17287_2	is_in_sentence	sentence_17287
+17287_2	ROOT	17287_2
+17287_2	has_surface_form	was
+17287_3	is_in_sentence	sentence_17287
+17287_3	det	17287_4
+17287_3	has_surface_form	the
+17287_4	is_in_sentence	sentence_17287
+17287_4	attr	17287_2
+17287_4	has_surface_form	father
+17287_5	is_in_sentence	sentence_17287
+17287_5	prep	17287_4
+17287_5	has_surface_form	of
+17287_6	is_in_sentence	sentence_17287
+17287_6	compound	17287_9
+17287_6	has_surface_form	artist
+17287_9	is_in_sentence	sentence_17287
+17287_9	pobj	17287_5
+17287_9	has_surface_form	Peale
+17287_9	part_of_entity	Rosalba Carriera Peale
+17287_7	is_in_sentence	sentence_17287
+17287_7	compound	17287_9
+17287_7	has_surface_form	Rosalba
+17287_7	part_of_entity	Rosalba Carriera Peale
+17287_8	is_in_sentence	sentence_17287
+17287_8	compound	17287_9
+17287_8	has_surface_form	Carriera
+17287_8	part_of_entity	Rosalba Carriera Peale
+17287_10	is_in_sentence	sentence_17287
+17287_10	punct	17287_2
+17287_10	has_surface_form	.
+17287_11	is_in_sentence	sentence_17287
+17287_11	dep	17287_11
+17287_11	has_surface_form	
+Rembrandt Peale	surface_form	Rembrandt Peale
+Rembrandt Peale	has-child	Rosalba Carriera Peale
+Rosalba Carriera Peale	surface_form	Rosalba Carriera Peale

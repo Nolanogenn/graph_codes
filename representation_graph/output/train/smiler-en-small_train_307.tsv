@@ -1,0 +1,74 @@
+306_0	is_in_sentence	sentence_306
+306_0	compound	306_2
+306_0	has_surface_form	Blue
+306_0	part_of_entity	Blue Swan Records
+306_2	is_in_sentence	sentence_306
+306_2	nsubj	306_3
+306_2	has_surface_form	Records
+306_2	part_of_entity	Blue Swan Records
+306_1	is_in_sentence	sentence_306
+306_1	compound	306_2
+306_1	has_surface_form	Swan
+306_1	part_of_entity	Blue Swan Records
+306_3	is_in_sentence	sentence_306
+306_3	ROOT	306_3
+306_3	has_surface_form	is
+306_4	is_in_sentence	sentence_306
+306_4	det	306_8
+306_4	has_surface_form	an
+306_8	is_in_sentence	sentence_306
+306_8	attr	306_3
+306_8	has_surface_form	label
+306_5	is_in_sentence	sentence_306
+306_5	amod	306_8
+306_5	has_surface_form	American
+306_6	is_in_sentence	sentence_306
+306_6	amod	306_8
+306_6	has_surface_form	independent
+306_7	is_in_sentence	sentence_306
+306_7	compound	306_8
+306_7	has_surface_form	record
+306_9	is_in_sentence	sentence_306
+306_9	acl	306_8
+306_9	has_surface_form	founded
+306_10	is_in_sentence	sentence_306
+306_10	agent	306_9
+306_10	has_surface_form	by
+306_11	is_in_sentence	sentence_306
+306_11	amod	306_12
+306_11	has_surface_form	American
+306_12	is_in_sentence	sentence_306
+306_12	pobj	306_10
+306_12	has_surface_form	musician
+306_13	is_in_sentence	sentence_306
+306_13	cc	306_12
+306_13	has_surface_form	and
+306_14	is_in_sentence	sentence_306
+306_14	compound	306_17
+306_14	has_surface_form	Dance
+306_17	is_in_sentence	sentence_306
+306_17	conj	306_12
+306_17	has_surface_form	guitarist
+306_15	is_in_sentence	sentence_306
+306_15	compound	306_17
+306_15	has_surface_form	Gavin
+306_16	is_in_sentence	sentence_306
+306_16	compound	306_17
+306_16	has_surface_form	Dance
+306_18	is_in_sentence	sentence_306
+306_18	compound	306_19
+306_18	has_surface_form	Will
+306_18	part_of_entity	Will Swan
+306_19	is_in_sentence	sentence_306
+306_19	appos	306_17
+306_19	has_surface_form	Swan
+306_19	part_of_entity	Will Swan
+306_20	is_in_sentence	sentence_306
+306_20	punct	306_3
+306_20	has_surface_form	.
+306_21	is_in_sentence	sentence_306
+306_21	dep	306_21
+306_21	has_surface_form	
+Blue Swan Records	surface_form	Blue Swan Records
+Blue Swan Records	org-has-founder	Will Swan
+Will Swan	surface_form	Will Swan

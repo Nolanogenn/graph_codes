@@ -1,0 +1,45 @@
+32256_0	is_in_sentence	sentence_32256
+32256_0	compound	32256_2
+32256_0	has_surface_form	Eddie
+32256_0	part_of_entity	Eddie Della Siepe
+32256_2	is_in_sentence	sentence_32256
+32256_2	nsubjpass	32256_4
+32256_2	has_surface_form	Siepe
+32256_2	part_of_entity	Eddie Della Siepe
+32256_1	is_in_sentence	sentence_32256
+32256_1	compound	32256_2
+32256_1	has_surface_form	Della
+32256_1	part_of_entity	Eddie Della Siepe
+32256_4	is_in_sentence	sentence_32256
+32256_4	ROOT	32256_4
+32256_4	has_surface_form	born
+32256_3	is_in_sentence	sentence_32256
+32256_3	auxpass	32256_4
+32256_3	has_surface_form	was
+32256_5	is_in_sentence	sentence_32256
+32256_5	cc	32256_4
+32256_5	has_surface_form	and
+32256_6	is_in_sentence	sentence_32256
+32256_6	conj	32256_4
+32256_6	has_surface_form	raised
+32256_7	is_in_sentence	sentence_32256
+32256_7	prep	32256_6
+32256_7	has_surface_form	in
+32256_8	is_in_sentence	sentence_32256
+32256_8	pobj	32256_7
+32256_8	is_entity	Toronto
+Toronto	surface_form	Toronto
+32256_9	is_in_sentence	sentence_32256
+32256_9	punct	32256_8
+32256_9	has_surface_form	,
+32256_10	is_in_sentence	sentence_32256
+32256_10	appos	32256_8
+32256_10	has_surface_form	Ontario
+32256_11	is_in_sentence	sentence_32256
+32256_11	punct	32256_4
+32256_11	has_surface_form	.
+32256_12	is_in_sentence	sentence_32256
+32256_12	dep	32256_12
+32256_12	has_surface_form	
+Eddie Della Siepe	surface_form	Eddie Della Siepe
+Eddie Della Siepe	birth-place	Toronto

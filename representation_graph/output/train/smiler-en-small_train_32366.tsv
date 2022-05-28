@@ -1,0 +1,64 @@
+32365_0	is_in_sentence	sentence_32365
+32365_0	det	32365_1
+32365_0	has_surface_form	The
+32365_0	part_of_entity	The Karthauzer
+32365_1	is_in_sentence	sentence_32365
+32365_1	nsubj	32365_8
+32365_1	has_surface_form	Karthauzer
+32365_1	part_of_entity	The Karthauzer
+32365_8	is_in_sentence	sentence_32365
+32365_8	ROOT	32365_8
+32365_8	has_surface_form	is
+32365_2	is_in_sentence	sentence_32365
+32365_2	punct	32365_3
+32365_2	has_surface_form	(
+32365_3	is_in_sentence	sentence_32365
+32365_3	appos	32365_1
+32365_3	has_surface_form	Hungarian
+32365_4	is_in_sentence	sentence_32365
+32365_4	punct	32365_3
+32365_4	has_surface_form	:
+32365_5	is_in_sentence	sentence_32365
+32365_5	det	32365_6
+32365_5	has_surface_form	A
+32365_6	is_in_sentence	sentence_32365
+32365_6	appos	32365_3
+32365_6	has_surface_form	Karthausi
+32365_7	is_in_sentence	sentence_32365
+32365_7	punct	32365_3
+32365_7	has_surface_form	)
+32365_9	is_in_sentence	sentence_32365
+32365_9	det	32365_12
+32365_9	has_surface_form	a
+32365_12	is_in_sentence	sentence_32365
+32365_12	attr	32365_8
+32365_12	has_surface_form	film
+32365_10	is_in_sentence	sentence_32365
+32365_10	nummod	32365_12
+32365_10	has_surface_form	1916
+32365_11	is_in_sentence	sentence_32365
+32365_11	amod	32365_12
+32365_11	has_surface_form	Hungarian
+32365_13	is_in_sentence	sentence_32365
+32365_13	acl	32365_12
+32365_13	has_surface_form	directed
+32365_14	is_in_sentence	sentence_32365
+32365_14	agent	32365_13
+32365_14	has_surface_form	by
+32365_15	is_in_sentence	sentence_32365
+32365_15	compound	32365_16
+32365_15	has_surface_form	Michael
+32365_15	part_of_entity	Michael Curtiz
+32365_16	is_in_sentence	sentence_32365
+32365_16	pobj	32365_14
+32365_16	has_surface_form	Curtiz
+32365_16	part_of_entity	Michael Curtiz
+32365_17	is_in_sentence	sentence_32365
+32365_17	punct	32365_8
+32365_17	has_surface_form	.
+32365_18	is_in_sentence	sentence_32365
+32365_18	dep	32365_8
+32365_18	has_surface_form	
+The Karthauzer	surface_form	The Karthauzer
+The Karthauzer	movie-has-director	Michael Curtiz
+Michael Curtiz	surface_form	Michael Curtiz

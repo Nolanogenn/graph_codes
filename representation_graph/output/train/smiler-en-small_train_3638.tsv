@@ -1,0 +1,61 @@
+3637_0	is_in_sentence	sentence_3637
+3637_0	compound	3637_1
+3637_0	has_surface_form	Otto
+3637_0	part_of_entity	Otto Jaffe
+3637_1	is_in_sentence	sentence_3637
+3637_1	nsubj	3637_2
+3637_1	has_surface_form	Jaffe
+3637_1	part_of_entity	Otto Jaffe
+3637_2	is_in_sentence	sentence_3637
+3637_2	ROOT	3637_2
+3637_2	has_surface_form	married
+3637_3	is_in_sentence	sentence_3637
+3637_3	compound	3637_4
+3637_3	has_surface_form	Paula
+3637_3	part_of_entity	Paula Hertz
+3637_4	is_in_sentence	sentence_3637
+3637_4	dobj	3637_2
+3637_4	has_surface_form	Hertz
+3637_4	part_of_entity	Paula Hertz
+3637_5	is_in_sentence	sentence_3637
+3637_5	punct	3637_4
+3637_5	has_surface_form	,
+3637_6	is_in_sentence	sentence_3637
+3637_6	appos	3637_4
+3637_6	has_surface_form	daughter
+3637_7	is_in_sentence	sentence_3637
+3637_7	prep	3637_6
+3637_7	has_surface_form	of
+3637_8	is_in_sentence	sentence_3637
+3637_8	compound	3637_9
+3637_8	has_surface_form	Moritz
+3637_9	is_in_sentence	sentence_3637
+3637_9	pobj	3637_7
+3637_9	has_surface_form	Hertz
+3637_10	is_in_sentence	sentence_3637
+3637_10	prep	3637_9
+3637_10	has_surface_form	from
+3637_11	is_in_sentence	sentence_3637
+3637_11	pobj	3637_10
+3637_11	has_surface_form	Braunschweig
+3637_12	is_in_sentence	sentence_3637
+3637_12	prep	3637_2
+3637_12	has_surface_form	on
+3637_13	is_in_sentence	sentence_3637
+3637_13	nummod	3637_14
+3637_13	has_surface_form	8
+3637_14	is_in_sentence	sentence_3637
+3637_14	pobj	3637_12
+3637_14	has_surface_form	March
+3637_15	is_in_sentence	sentence_3637
+3637_15	nummod	3637_14
+3637_15	has_surface_form	1879
+3637_16	is_in_sentence	sentence_3637
+3637_16	punct	3637_2
+3637_16	has_surface_form	.
+3637_17	is_in_sentence	sentence_3637
+3637_17	dep	3637_17
+3637_17	has_surface_form	
+Otto Jaffe	surface_form	Otto Jaffe
+Otto Jaffe	has-spouse	Paula Hertz
+Paula Hertz	surface_form	Paula Hertz

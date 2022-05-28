@@ -1,0 +1,59 @@
+25864_0	is_in_sentence	sentence_25864
+25864_0	compound	25864_1
+25864_0	has_surface_form	Dead
+25864_0	part_of_entity	Dead Man Talking
+25864_1	is_in_sentence	sentence_25864
+25864_1	compound	25864_2
+25864_1	has_surface_form	Man
+25864_1	part_of_entity	Dead Man Talking
+25864_2	is_in_sentence	sentence_25864
+25864_2	nsubj	25864_3
+25864_2	has_surface_form	Talking
+25864_2	part_of_entity	Dead Man Talking
+25864_3	is_in_sentence	sentence_25864
+25864_3	ROOT	25864_3
+25864_3	has_surface_form	is
+25864_4	is_in_sentence	sentence_25864
+25864_4	det	25864_10
+25864_4	has_surface_form	a
+25864_10	is_in_sentence	sentence_25864
+25864_10	attr	25864_3
+25864_10	has_surface_form	film
+25864_5	is_in_sentence	sentence_25864
+25864_5	nummod	25864_10
+25864_5	has_surface_form	2012
+25864_6	is_in_sentence	sentence_25864
+25864_6	amod	25864_10
+25864_6	has_surface_form	Belgian
+25864_7	is_in_sentence	sentence_25864
+25864_7	compound	25864_9
+25864_7	has_surface_form	comedy
+25864_9	is_in_sentence	sentence_25864
+25864_9	compound	25864_10
+25864_9	has_surface_form	drama
+25864_8	is_in_sentence	sentence_25864
+25864_8	punct	25864_9
+25864_8	has_surface_form	-
+25864_11	is_in_sentence	sentence_25864
+25864_11	acl	25864_10
+25864_11	has_surface_form	directed
+25864_12	is_in_sentence	sentence_25864
+25864_12	agent	25864_11
+25864_12	has_surface_form	by
+25864_13	is_in_sentence	sentence_25864
+25864_13	compound	25864_14
+25864_13	has_surface_form	Patrick
+25864_13	part_of_entity	Patrick Ridremont
+25864_14	is_in_sentence	sentence_25864
+25864_14	pobj	25864_12
+25864_14	has_surface_form	Ridremont
+25864_14	part_of_entity	Patrick Ridremont
+25864_15	is_in_sentence	sentence_25864
+25864_15	punct	25864_3
+25864_15	has_surface_form	.
+25864_16	is_in_sentence	sentence_25864
+25864_16	dep	25864_3
+25864_16	has_surface_form	
+Dead Man Talking	surface_form	Dead Man Talking
+Dead Man Talking	movie-has-director	Patrick Ridremont
+Patrick Ridremont	surface_form	Patrick Ridremont

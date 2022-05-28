@@ -1,0 +1,97 @@
+21541_0	is_in_sentence	sentence_21541
+21541_0	compound	21541_1
+21541_0	has_surface_form	Sweet
+21541_0	part_of_entity	Sweet Bunch
+21541_1	is_in_sentence	sentence_21541
+21541_1	nsubj	21541_8
+21541_1	has_surface_form	Bunch
+21541_1	part_of_entity	Sweet Bunch
+21541_8	is_in_sentence	sentence_21541
+21541_8	ROOT	21541_8
+21541_8	has_surface_form	romanized
+21541_2	is_in_sentence	sentence_21541
+21541_2	punct	21541_3
+21541_2	has_surface_form	(
+21541_3	is_in_sentence	sentence_21541
+21541_3	appos	21541_1
+21541_3	has_surface_form	Greek
+21541_4	is_in_sentence	sentence_21541
+21541_4	punct	21541_3
+21541_4	has_surface_form	:
+21541_5	is_in_sentence	sentence_21541
+21541_5	compound	21541_6
+21541_5	has_surface_form	Γλυκιά
+21541_6	is_in_sentence	sentence_21541
+21541_6	appos	21541_1
+21541_6	has_surface_form	Συμμορία
+21541_7	is_in_sentence	sentence_21541
+21541_7	punct	21541_6
+21541_7	has_surface_form	,
+21541_9	is_in_sentence	sentence_21541
+21541_9	punct	21541_8
+21541_9	has_surface_form	:
+21541_10	is_in_sentence	sentence_21541
+21541_10	dep	21541_8
+21541_10	has_surface_form	 
+21541_11	is_in_sentence	sentence_21541
+21541_11	compound	21541_12
+21541_11	has_surface_form	Glykia
+21541_12	is_in_sentence	sentence_21541
+21541_12	dobj	21541_8
+21541_12	has_surface_form	Symmoria
+21541_13	is_in_sentence	sentence_21541
+21541_13	punct	21541_8
+21541_13	has_surface_form	)
+21541_14	is_in_sentence	sentence_21541
+21541_14	ccomp	21541_8
+21541_14	has_surface_form	is
+21541_15	is_in_sentence	sentence_21541
+21541_15	det	21541_23
+21541_15	has_surface_form	a
+21541_23	is_in_sentence	sentence_21541
+21541_23	attr	21541_14
+21541_23	has_surface_form	film
+21541_16	is_in_sentence	sentence_21541
+21541_16	nummod	21541_23
+21541_16	has_surface_form	1983
+21541_17	is_in_sentence	sentence_21541
+21541_17	amod	21541_23
+21541_17	has_surface_form	Greek
+21541_18	is_in_sentence	sentence_21541
+21541_18	amod	21541_23
+21541_18	has_surface_form	dramatic
+21541_19	is_in_sentence	sentence_21541
+21541_19	amod	21541_23
+21541_19	has_surface_form	experimental
+21541_20	is_in_sentence	sentence_21541
+21541_20	amod	21541_23
+21541_20	has_surface_form	independent
+21541_21	is_in_sentence	sentence_21541
+21541_21	amod	21541_23
+21541_21	has_surface_form	underground
+21541_22	is_in_sentence	sentence_21541
+21541_22	compound	21541_23
+21541_22	has_surface_form	art
+21541_24	is_in_sentence	sentence_21541
+21541_24	acl	21541_23
+21541_24	has_surface_form	directed
+21541_25	is_in_sentence	sentence_21541
+21541_25	agent	21541_24
+21541_25	has_surface_form	by
+21541_26	is_in_sentence	sentence_21541
+21541_26	compound	21541_27
+21541_26	has_surface_form	Nikos
+21541_26	part_of_entity	Nikos Nikolaidis
+21541_27	is_in_sentence	sentence_21541
+21541_27	pobj	21541_25
+21541_27	has_surface_form	Nikolaidis
+21541_27	part_of_entity	Nikos Nikolaidis
+21541_28	is_in_sentence	sentence_21541
+21541_28	punct	21541_8
+21541_28	has_surface_form	.
+21541_29	is_in_sentence	sentence_21541
+21541_29	dep	21541_29
+21541_29	has_surface_form	
+Sweet Bunch	surface_form	Sweet Bunch
+Sweet Bunch	movie-has-director	Nikos Nikolaidis
+Nikos Nikolaidis	surface_form	Nikos Nikolaidis

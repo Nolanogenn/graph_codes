@@ -1,0 +1,53 @@
+3788_0	is_in_sentence	sentence_3788
+3788_0	compound	3788_1
+3788_0	has_surface_form	Ekaterina
+3788_0	part_of_entity	Ekaterina Sedia
+3788_1	is_in_sentence	sentence_3788
+3788_1	nsubj	3788_9
+3788_1	has_surface_form	Sedia
+3788_1	part_of_entity	Ekaterina Sedia
+3788_9	is_in_sentence	sentence_3788
+3788_9	ROOT	3788_9
+3788_9	has_surface_form	is
+3788_2	is_in_sentence	sentence_3788
+3788_2	punct	3788_1
+3788_2	has_surface_form	(
+3788_3	is_in_sentence	sentence_3788
+3788_3	acl	3788_1
+3788_3	has_surface_form	born
+3788_4	is_in_sentence	sentence_3788
+3788_4	npadvmod	3788_3
+3788_4	has_surface_form	July
+3788_5	is_in_sentence	sentence_3788
+3788_5	nummod	3788_4
+3788_5	has_surface_form	9
+3788_6	is_in_sentence	sentence_3788
+3788_6	punct	3788_4
+3788_6	has_surface_form	,
+3788_7	is_in_sentence	sentence_3788
+3788_7	nummod	3788_4
+3788_7	has_surface_form	1970
+3788_8	is_in_sentence	sentence_3788
+3788_8	punct	3788_1
+3788_8	has_surface_form	)
+3788_10	is_in_sentence	sentence_3788
+3788_10	det	3788_13
+3788_10	has_surface_form	a
+3788_13	is_in_sentence	sentence_3788
+3788_13	attr	3788_9
+3788_13	has_surface_form	writer
+3788_11	is_in_sentence	sentence_3788
+3788_11	amod	3788_13
+3788_11	has_surface_form	Russian
+3788_12	is_in_sentence	sentence_3788
+3788_12	compound	3788_13
+3788_12	is_entity	fantasy
+fantasy	surface_form	fantasy
+3788_14	is_in_sentence	sentence_3788
+3788_14	punct	3788_9
+3788_14	has_surface_form	.
+3788_15	is_in_sentence	sentence_3788
+3788_15	dep	3788_9
+3788_15	has_surface_form	
+Ekaterina Sedia	surface_form	Ekaterina Sedia
+Ekaterina Sedia	has-genre	fantasy

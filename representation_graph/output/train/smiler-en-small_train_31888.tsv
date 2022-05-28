@@ -1,0 +1,56 @@
+31887_0	is_in_sentence	sentence_31887
+31887_0	compound	31887_1
+31887_0	has_surface_form	Olga
+31887_0	part_of_entity	Olga Segura
+31887_1	is_in_sentence	sentence_31887
+31887_1	nsubj	31887_9
+31887_1	has_surface_form	Segura
+31887_1	part_of_entity	Olga Segura
+31887_9	is_in_sentence	sentence_31887
+31887_9	ROOT	31887_9
+31887_9	has_surface_form	is
+31887_2	is_in_sentence	sentence_31887
+31887_2	punct	31887_1
+31887_2	has_surface_form	(
+31887_3	is_in_sentence	sentence_31887
+31887_3	acl	31887_1
+31887_3	has_surface_form	born
+31887_4	is_in_sentence	sentence_31887
+31887_4	npadvmod	31887_3
+31887_4	has_surface_form	August
+31887_5	is_in_sentence	sentence_31887
+31887_5	nummod	31887_4
+31887_5	has_surface_form	16
+31887_6	is_in_sentence	sentence_31887
+31887_6	punct	31887_4
+31887_6	has_surface_form	,
+31887_7	is_in_sentence	sentence_31887
+31887_7	nummod	31887_4
+31887_7	has_surface_form	1986
+31887_8	is_in_sentence	sentence_31887
+31887_8	punct	31887_1
+31887_8	has_surface_form	)
+31887_10	is_in_sentence	sentence_31887
+31887_10	det	31887_12
+31887_10	has_surface_form	a
+31887_12	is_in_sentence	sentence_31887
+31887_12	attr	31887_9
+31887_12	has_surface_form	actress
+31887_11	is_in_sentence	sentence_31887
+31887_11	amod	31887_12
+31887_11	is_entity	Mexican
+Mexican	surface_form	Mexican
+31887_13	is_in_sentence	sentence_31887
+31887_13	cc	31887_12
+31887_13	has_surface_form	and
+31887_14	is_in_sentence	sentence_31887
+31887_14	conj	31887_12
+31887_14	has_surface_form	producer
+31887_15	is_in_sentence	sentence_31887
+31887_15	punct	31887_9
+31887_15	has_surface_form	.
+31887_16	is_in_sentence	sentence_31887
+31887_16	dep	31887_16
+31887_16	has_surface_form	
+Olga Segura	surface_form	Olga Segura
+Olga Segura	has-nationality	Mexican
